@@ -1,0 +1,340 @@
+[
+  {
+    "lote": 1,
+    "arquivo": "lote_01_modulo0_acompanhamento.json",
+    "modulo": 0,
+    "disciplina": "Acompanhamento",
+    "questoes": 87,
+    "origens": [
+      "ATIVIDADE AVALIATIVA DE ACOMPANHAMENTO 3 - 2025.1.pdf",
+      "ATIVIDADE AVALIATIVA DE ACOMPANHAMENTO 2 - 2025.1.pdf",
+      "ATIVIDADE AVALIATIVA DE ACOMPANHAMENTO 1 - 2025.1.pdf",
+      "ATIVIDADE AVALIATIVA DE ACOMPANHAMENTO 2 - 2025.2.pdf",
+      "ATIVIDADE AVALIATIVA DE ACOMPANHAMENTO 1 - 2025.2.pdf"
+    ]
+  },
+  {
+    "lote": 2,
+    "arquivo": "lote_02_modulo0_n_o_categorizado.json",
+    "modulo": 0,
+    "disciplina": "Não categorizado",
+    "questoes": 4,
+    "origens": [
+      "83A4DA82-7E9A-461E-BF82-A33EA8FCFD6E.pdf"
+    ]
+  },
+  {
+    "lote": 3,
+    "arquivo": "lote_03_modulo0_notas_diversas.json",
+    "modulo": 0,
+    "disciplina": "Notas diversas",
+    "questoes": 26,
+    "origens": [
+      "Notes_241208_220454(1).pdf",
+      "Notes_241208_220454.pdf"
+    ]
+  },
+  {
+    "lote": 4,
+    "arquivo": "lote_04_modulo1_bmf1.json",
+    "modulo": 1,
+    "disciplina": "BMF1",
+    "questoes": 100,
+    "origens": [
+      "P2_BMF1 - Avaliação oficial TEÓRICA.pdf",
+      "P2_BMF1 - Avaliação oficial PRÁTICA.pdf",
+      "P1_ Prova Prática.pdf",
+      "P1_ Prova Teórica.pdf",
+      "AV2_BMF1_TEÓRICO-PRÁTICA.pdf"
+    ]
+  },
+  {
+    "lote": 5,
+    "arquivo": "lote_05_modulo1_bmf1.json",
+    "modulo": 1,
+    "disciplina": "BMF1",
+    "questoes": 100,
+    "origens": [
+      "P1 - BMF1 - Teórica (2).pdf",
+      "P1 (2).pdf",
+      "P1  (2).pdf",
+      "Atividade de identificação[1].pdf",
+      "P1 - BASES MORFOFUNCIONAIS 2(1)PDF_241111_154241[1].pdf"
+    ]
+  },
+  {
+    "lote": 6,
+    "arquivo": "lote_06_modulo1_bmf1.json",
+    "modulo": 1,
+    "disciplina": "BMF1",
+    "questoes": 21,
+    "origens": [
+      "2º ATIVIDADE AVALIATIVA BIOFÍSICA - Turma A.PDF",
+      "1º ATIVIDADE AVALIATIVA BIOFÍSICA - Turma A.PDF",
+      "Pós-teste - tecido ósseo..PDF",
+      "AVALIAÇÃO DE CONTEÚDOS DE GENERALIDADES SOBRE OS SISTEMAS ESQUELÉTICO E ARTICULAR.PDF",
+      "PROVA PRÁTICA DE HISTOLOGIA.PDF"
+    ]
+  },
+  {
+    "lote": 7,
+    "arquivo": "lote_07_modulo1_pmh.json",
+    "modulo": 1,
+    "disciplina": "PMH",
+    "questoes": 100,
+    "origens": [
+      "P2 - PMH (BCM1) - 2024.1.pdf",
+      "P1 - PMH (BCM1) - 2024.1.pdf",
+      "4ª Avaliação de Introdução à Prática Médica.PDF"
+    ]
+  },
+  {
+    "lote": 8,
+    "arquivo": "lote_08_modulo1_pmh.json",
+    "modulo": 1,
+    "disciplina": "PMH",
+    "questoes": 12,
+    "origens": [
+      "4ª Avaliação de Introdução à Prática Médica.PDF",
+      "1ª Avaliação de Introdução à Prática Médica.PDF"
+    ]
+  },
+  {
+    "lote": 9,
+    "arquivo": "lote_09_modulo1_sus.json",
+    "modulo": 1,
+    "disciplina": "SUS",
+    "questoes": 100,
+    "origens": [
+      "PROVA P2 - INTRODUÇÃO ÀS PRÁTICAS DE SAÚDE.pdf",
+      "PROVA P1 - INTRODUÇÃO ÀS PRÁTICAS DE SAÚDE.pdf",
+      "P2 SCAPS POL 1o SEMESTRE.pdf",
+      "QUESTÕES HND E NÍVEIS DE PREVENÇÃO.pdf"
+    ]
+  },
+  {
+    "lote": 10,
+    "arquivo": "lote_10_modulo1_sus.json",
+    "modulo": 1,
+    "disciplina": "SUS",
+    "questoes": 89,
+    "origens": [
+      "QUESTÕES HND E NÍVEIS DE PREVENÇÃO.pdf",
+      "P2 SCAPS POL 1o SEMESTRE.pdf",
+      "SCAPS 1o SEM_ Epidemiologia_.pdf",
+      "QUESTÕES HND E NÍVEIS DE PREVENÇÃO scaps.pdf",
+      "P1- SCAPS 2o SEM (POLÍTICA DE SAÚDE).pdf"
+    ]
+  },
+  {
+    "lote": 11,
+    "arquivo": "lote_11_modulo2_bcm.json",
+    "modulo": 2,
+    "disciplina": "BCM",
+    "questoes": 60,
+    "origens": [
+      "P2 - PCM (BCM2) - 2024.2.pdf",
+      "P1 - PCM (BCM2) - 2024.1.pdf"
+    ]
+  },
+  {
+    "lote": 12,
+    "arquivo": "lote_12_modulo2_bmf2.json",
+    "modulo": 2,
+    "disciplina": "BMF2",
+    "questoes": 100,
+    "origens": [
+      "Parede abdominal - questões.pdf",
+      "P3 - TURMA B - TEÓRICA - BMF2PDF_241108_095829[1].pdf",
+      "P2 - TEÓRICA - BMF2PDF_241108_095751[1].pdf",
+      "P2 - PRÁTICA - BMF2PDF_241108_182227[1].pdf",
+      "P3 - PRÁTICA - BMF2PDF_241108_095913[1].pdf"
+    ]
+  },
+  {
+    "lote": 13,
+    "arquivo": "lote_13_modulo2_bmf2.json",
+    "modulo": 2,
+    "disciplina": "BMF2",
+    "questoes": 21,
+    "origens": [
+      "Espirometria - Pós testes.PDF",
+      "Pós-teste V_Q.PDF",
+      "Pós-testes de Biofísica da Respiração.PDF",
+      "Pós-testes mecânica ventilatória - TURMA A.PDF",
+      "AVALIAÇÃO DIÁRIA - ANATOMIA DOS VASOS SANGUÍNEOS.PDF"
+    ]
+  },
+  {
+    "lote": 14,
+    "arquivo": "lote_14_modulo2_indicadores.json",
+    "modulo": 2,
+    "disciplina": "Indicadores",
+    "questoes": 87,
+    "origens": [
+      "P1 epidemio _241206_042419.pdf",
+      "Scaps av2_241208_220454.pdf",
+      "P1 epidemio _241206_042511.pdf",
+      "P2 SCAPS 2o SEM (EPIDEMIOLOGIA) (1).pdf",
+      "Pós-teste Indicadores de Morbidade.PDF"
+    ]
+  },
+  {
+    "lote": 15,
+    "arquivo": "lote_15_modulo2_semiologia_2.json",
+    "modulo": 2,
+    "disciplina": "Semiologia 2",
+    "questoes": 75,
+    "origens": [
+      "SEGUNDA PROVA DE INTRODUÇÃO À PROPEDÊUTICA 4º SEM - 2022.2 - TURMA E (1).pdf",
+      "SEGUNDA PROVA DE INTRODUÇÃO À PROPEDÊUTICA 4º SEM - 2022.2 - TURMA B.pdf",
+      "P2 INTRODUÇÃO À PROPEDÊUTICA 4 SEM - 2024-2.PDF",
+      "P2 INTRODUÇÃO À PROPEDÊUTICA 4 SEM - 2024-2(1)_250102_201128.pdf",
+      "P1 INTRODUÇÃO À PROPEDÊUTICA 4 SEM - 2024-2_250102_200957.pdf"
+    ]
+  },
+  {
+    "lote": 16,
+    "arquivo": "lote_16_modulo3_bmf3.json",
+    "modulo": 3,
+    "disciplina": "BMF3",
+    "questoes": 25,
+    "origens": [
+      "P2 BDEH 24_06_2022.PDF",
+      "P1 BDEH VG 3A 07 ABRIL 2022.PDF"
+    ]
+  },
+  {
+    "lote": 17,
+    "arquivo": "lote_17_modulo3_fisiopatologia.json",
+    "modulo": 3,
+    "disciplina": "Fisiopatologia",
+    "questoes": 100,
+    "origens": [
+      "ATIVIDADE DE FECHAMENTO - RESPIRATÓRIO - SRCD - 2021.2[1].pdf",
+      "ATIVIDADE DE FECHAMENTO - DIGESTÓRIO - SRCD - 2021.2[1].pdf",
+      "PFP1 - PROVA 2 (P2).pdf",
+      "PFP1 - PROVA 1 (P1).PDF",
+      "Atividade avaliativa - HAS.pdf"
+    ]
+  },
+  {
+    "lote": 18,
+    "arquivo": "lote_18_modulo3_fisiopatologia.json",
+    "modulo": 3,
+    "disciplina": "Fisiopatologia",
+    "questoes": 55,
+    "origens": [
+      "Atividade avaliativa - HAS.pdf",
+      "Pós teste - Fármacos Digestório.pdf",
+      "PFP2_P3_2022.2.pdf",
+      "PFP2_P2_2022.2.pdf",
+      "PFP2_P1_2022.2.pdf"
+    ]
+  },
+  {
+    "lote": 19,
+    "arquivo": "lote_19_modulo3_integrada.json",
+    "modulo": 3,
+    "disciplina": "Integrada",
+    "questoes": 38,
+    "origens": [
+      "GABARITO - PROVA INTEGRADA 3º SEMESTRE.pdf"
+    ]
+  },
+  {
+    "lote": 20,
+    "arquivo": "lote_20_modulo3_mad2.json",
+    "modulo": 3,
+    "disciplina": "MAD2",
+    "questoes": 100,
+    "origens": [
+      "P2_MgAD_2024.2.pdf",
+      "P1_MgAD_2024.2.pdf",
+      "Atividade Avaliativa 1.PDF",
+      "MAD2 - PROVA 2 (P2).pdf",
+      "MAD2 - PROVA 1 (P1).PDF"
+    ]
+  },
+  {
+    "lote": 21,
+    "arquivo": "lote_21_modulo3_mad2.json",
+    "modulo": 3,
+    "disciplina": "MAD2",
+    "questoes": 51,
+    "origens": [
+      "ATIVIDADE AVALIATIVA - ADAPTAÇÕES DO CRESCIMENTO E DIFERENCIAÇÃO CELULAR.PDF",
+      "ATIVIDADE PRÁTICA AVALIATIVA - LESÃO CELULAR REVERSIVEL _ PIGMENTAÇÃO PATOLÓGICA.PDF",
+      "Turma A ATIVIDADE AVALIATIVA.PDF",
+      "atividade avaliativa de inflamação aguda.PDF",
+      "ATIVIDADE AVALIATIVA - LESÃO CELULAR IRREVERSIVEL e CALCIFICAÇÃO PATOLÓGICA.PDF"
+    ]
+  },
+  {
+    "lote": 22,
+    "arquivo": "lote_22_modulo3_sa_de_do_trabalhador.json",
+    "modulo": 3,
+    "disciplina": "Saúde do Trabalhador",
+    "questoes": 12,
+    "origens": [
+      "PPIS 3A - P1 (- SAÚDE DO TRABALHADOR.PDF"
+    ]
+  },
+  {
+    "lote": 23,
+    "arquivo": "lote_23_modulo3_semiologia_3.json",
+    "modulo": 3,
+    "disciplina": "Semiologia 3",
+    "questoes": 25,
+    "origens": [
+      "P2 - TURMA A - 3° semestre - 2022.1.PDF",
+      "P1 - TURMA A - 3° semestre - 2022.1.PDF"
+    ]
+  },
+  {
+    "lote": 24,
+    "arquivo": "lote_24_modulo4_bioestat_stica.json",
+    "modulo": 4,
+    "disciplina": "Bioestatística",
+    "questoes": 18,
+    "origens": [
+      "Atividade avaliação 1_Bioestatística.PDF",
+      "Atividade avaliativa 3 de Bioestatística.PDF"
+    ]
+  },
+  {
+    "lote": 25,
+    "arquivo": "lote_25_modulo4_bmf4.json",
+    "modulo": 4,
+    "disciplina": "BMF4",
+    "questoes": 30,
+    "origens": [
+      "4B - P2 - SISTEMA NERVOSO.pdf",
+      "4B - P1 - SISTEMA NERVOSO.pdf"
+    ]
+  },
+  {
+    "lote": 26,
+    "arquivo": "lote_26_modulo4_farmacologia.json",
+    "modulo": 4,
+    "disciplina": "Farmacologia",
+    "questoes": 71,
+    "origens": [
+      "P2 - Farmacologia.pdf",
+      "P1 - Farmacologia.pdf",
+      "P2 - Farmacologia Geral - 1_250102_193001.pdf",
+      "P1 - Farmacologia Geral - 2024_250102_192900.pdf"
+    ]
+  },
+  {
+    "lote": 27,
+    "arquivo": "lote_27_modulo4_integrada.json",
+    "modulo": 4,
+    "disciplina": "Integrada",
+    "questoes": 34,
+    "origens": [
+      "4S - GABARITO - INTEGRADA - 2022.2 QUESTÕES OBJETIVAS.pdf",
+      "4S - GABARITO INTEGRADA - 2022.2 QUESTÕES DISSERTATIVAS.pdf"
+    ]
+  }
+]

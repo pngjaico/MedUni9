@@ -1,0 +1,301 @@
+[
+  {
+    "enunciado": "mensurada em anos completos), as variáveis FORÇA MUSCULAR, FLEXIBILIDADE, ALCANCE FUNCIONAL e TUG* podem ser classificadas como:",
+    "opcoes": [
+      "Preditora: Flexibilidade, força muscular e mobilidade funcional; Desfecho:",
+      "Prática de exercícios físicos.",
+      "Preditora: Flexibilidade, força muscular e mobilidade funcional; Desfecho: Idosos.",
+      "Preditora: Prática de exercícios físicos; Desfecho: Flexibilidade, força muscular e",
+      "mobilidade funcional."
+    ],
+    "correta": 3,
+    "precisa_revisao": false,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_900",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "mobilidade funcional. Leia o resumo abaixo e assinale respectivamente, qual Qual a variável preditora e desfecho",
+    "opcoes": [
+      "A pesquisadora R.L.P coletou diversos dados para seu estudo científico,",
+      "utilizando variáveis como: (I) grau de instrução, (II) tipo sanguíneo, (III) peso e",
+      "(IV) altura. Sobre estas variáveis é correto afirmar que podem ser classificadas"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_901",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "utilizando variáveis como: (I) grau de instrução, (II) tipo sanguíneo, (III) peso e (IV) altura. Sobre estas variáveis é correto afirmar que podem ser classificadas como:",
+    "opcoes": [
+      "Qualitativa",
+      "Qualitativa",
+      "Quantitativa",
+      "Quantitativa",
+      "Pontuação"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_902",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "caso é igual ao tempo que mais ocorreram números de casos. Analisando os gráficos de números de casos de Covid-19 versus tempo desde o primeiro caso,  podemos concluir certamente que:",
+    "opcoes": [
+      "As variáveis \"Dose de corticoide\" e \"números de comorbidades\" são",
+      "quantitativas.",
+      "A variável \"Combinação de dispositivo inalatórios\" é quantitativa contínua e a",
+      "variável \"Escore ACQ\" é qualitativa ordinal.",
+      "A variável \"IP como dispositivo associado\" é qualitativa e a variável \"número de"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_903",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "contínua e discreta, respectivamente. Na tabela 2 abaixo são apresentados as variáveis de estudo de uma pesquisa. Assinale a alternativa correta.",
+    "opcoes": [
+      "Idade e peso.",
+      "Altura e grupo sanguíneo.",
+      "Peso e grau de instrução.",
+      "Sexo e raça.",
+      "95% da população possui taxa entre 98 mg e 122 mg /dL."
+    ],
+    "correta": 4,
+    "precisa_revisao": false,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_904",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "droga experimental cujos efeitos colaterais graves provocaram a morte de alguns dos pacientes, são variáveis quantitativas que interferem na análise dos dados amostrais:",
+    "opcoes": [
+      "Sabendo que a taxa de glicose no sangue humano é uma variável",
+      "aleatória com distribuição normal, média 110 mg/dL e desvio padrão 6",
+      "mg/dL, analise as alternativas abaixo e indique  qual delas se apresenta",
+      "como correta em relação a taxa de glicose."
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_905",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "aleatória com distribuição normal, média 110 mg/dL e desvio padrão 6 mg/dL, analise as alternativas abaixo e indique  qual delas se apresenta como correta em relação a taxa de glicose.",
+    "opcoes": [
+      "Intervalo interquartílico e média",
+      "Média aritmética e Desvio padrão",
+      "Desvio padrão e Moda",
+      "Mediana e moda",
+      "São amostras probabilísticas, ou seja, aleatórias onde todos os indivíduos da"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_906",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "descrevem a variabilidade contida nos dados. Dentre as alternativas abaixo indique quais representam medida de tendência central e de dispersão, respectivamente:",
+    "opcoes": [
+      "Com relação às amostras de conveniência, é correto afirmar que *",
+      "A amostra do estudo foi de 50 pacientes, mas não é possível definir a população",
+      "A população alvo são pacientes com síndrome de Wolfram, mas não é possível",
+      "definir a amostra estudada",
+      "Com os dados disponíveis não é possível definir a amostra e nem a população alvo"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_907",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "clínicas de 50 pacientes com síndrome de Wolfram” (Bueno GE, et al. Endocrine 2018 - Clinical Trial. PMID 29728875). Assinale a alternativa verdadeira:",
+    "opcoes": [
+      "Assinale a alternativa correta. *",
+      "75% dos alunos tem altura até 168 cm.",
+      "50% dos alunos estão dentro do intervalo de 7,40 cm",
+      "Podemos concluir que a altura que mais se repetiu foi 168 cm",
+      "A variável altura não está distribuída normalmente"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliação 1_Bioestatística.PDF",
+    "id": "real_outros_908",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "escolar da sua região no 1º semestre de 2015. Obteve como respostas; IMC médio da população de 19 e o desvio padrão 5. Analisando as alternativas, qual está correta sobre os dados da população escolar?",
+    "opcoes": [
+      "Zc = (24-19)/5 = 1,00. Para o valor de 1,00 na tabela temos 34%, que é o valor entre 19 e",
+      "24. Para IMC maiores de 24, temos (50-34) = 16%",
+      "Questões - Seção 2",
+      "8 de 16 pontos",
+      "Butorfanol e buprenorfina exercem efeitos sobre variáveis cardiovasculares e"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_909",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "Prática de exercícios físicos. A análise do título e do resumo acima permite afirmar que a variável preditora do estudo é:",
+    "opcoes": [
+      "Flexibilidade, força muscular e mobilidade funcional.",
+      "Flexibilidade e prática de exercícios físicos.",
+      "Prática de exercícios físicos.",
+      "Prática de exercícios físicos por idosos.",
+      "Questões - Seção 4"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_910",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "A média é 1, mediana e moda igual a zero. A análise do título e do resumo acima permite afirmar que as variáveis desfecho do estudo são:",
+    "opcoes": [
+      "Em uma curva de distribuição normal  podemos assumir que: *",
+      "A prevalência de infecções por Staphylococcus aureus, em 2017 foi de 2%.",
+      "A prevalência de infecções por Staphylococcus aureus, em 2018 foi de 4%.",
+      "A incidência de infecções por Staphylococcus aureus, em 2018, foi de 2%.",
+      "A incidência de infecções por Staphylococcus aureus, em 2017, foi de 3%."
+    ],
+    "correta": 3,
+    "precisa_revisao": false,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_911",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "mesmo hospital no período. Considerando que a população total deste hospital se manteve constante em 1000 pacientes, é possível concluir que:",
+    "opcoes": [
+      "10,8 diálises a cada 100 pessoa-ano",
+      "8,77 diálises a cada 100 pessoa-ano",
+      "66 diálises a cada 100 pessoa-ano",
+      "4,16 diálises a cada 100 pessoa-ano.",
+      "Um estudo de acompanhamento de pacientes com diabetes e"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_912",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "submetido ao primeiro procedimento de diálise.  O círculo em preto indica que o paciente morreu. Qual foi a incidência de início da diálise medida no estudo? Apresente o resultado por 100-pessoa-ano",
+    "opcoes": [
+      "* Para significância estatítica, considere α = 5%.",
+      "Apenas a afirmação I é verdadeira.",
+      "Apenas a afirmação II é verdadeira.",
+      "Apenas as afirmações I e II são verdadeiras.",
+      "Apenas as afirmações II e III são verdadeiras."
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_913",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "Os dados são não pareados. Na tabela abaixo, temos a comparação do efeito de dois medicamentos em uma variável hipotética.",
+    "opcoes": [
+      "Ao compararmos os níveis séricos de LDL de indivíduos tabagistas com",
+      "os níveis séricos de LDL de indivíduos não tabagistas, é possível",
+      "concluir que:"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_914",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "Ao compararmos os níveis séricos de LDL de indivíduos tabagistas com os níveis séricos de LDL de indivíduos não tabagistas, é possível concluir que:",
+    "opcoes": [
+      "Sensibilidade de 70,0% e especificidade de 23%",
+      "Sensibilidade de 92,0% e especificidade de 93,3%.",
+      "Sensibiliade de 50% e especificidade de 50%.",
+      "Sensibilidade de 93,3% e especificidade de 92,0%.",
+      "Uma empresa lançou um novo teste diagnóstico para a detecção do"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_915",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "em \"700 verdadeiros positivos\", \"50 falsos negativos\", \"230 verdadeiros negativos\" e \"20 falsos positivos\". A partir destas informações é possível afirmar que o teste apresenta:",
+    "opcoes": [
+      "A tabela abaixo apresenta os resultados de um estudo que comparou a",
+      "incidência de tuberculose em pacientes em instituições de reabilitação.",
+      "Em qual instituição houve a maior incidência de tuberculose?"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_916",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  },
+  {
+    "enunciado": "A tabela abaixo apresenta os resultados de um estudo que comparou a incidência de tuberculose em pacientes em instituições de reabilitação. Em qual instituição houve a maior incidência de tuberculose?",
+    "opcoes": [
+      "Fonte: Rev. paul. pediatr. [online]. 2018, vol.36, n.1, pp.17-24.",
+      "*VEF1 = Volume expiratório forçado no primeiro segundo",
+      "No grupo \"não controlada\", 50% dos resultados em torno da mediana são mais",
+      "homogêneos se comparados com os outros grupos.",
+      "No grupo \"controlada\", 50% dos resultados em torno da mediana são menos"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "bioestatistica",
+    "arquivo_origem": "Atividade avaliativa 3 de Bioestatística.PDF",
+    "id": "real_outros_917",
+    "modulo": 4,
+    "disciplina": "Bioestatística"
+  }
+]

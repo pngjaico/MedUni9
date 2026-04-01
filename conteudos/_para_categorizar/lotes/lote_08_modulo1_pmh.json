@@ -1,0 +1,201 @@
+[
+  {
+    "enunciado": "que acomete toda a derme e atinge tecidos subcutâneos atingindo inclusive músculos e estruturas ósseas. São feridas secas, indolores e deformantes. Essa descrição corresponde a:",
+    "opcoes": [
+      "Queimadura de 2º grau",
+      "Queimadura de 3º grau",
+      "Fornecer cópia do prontuário ao paciente",
+      "Não atender ao pedido, explicando ao paciente sobre o sigilo profissional",
+      "Não deve ser fornecida ao paciente, pois o prontuário é propriedade do hospital"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "4ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_836",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "fez cirurgia de artroplastia de joelho direito em 2001, o seu prontuário, para fins de aposentadoria por invalidez. Como o hospital deve proceder?",
+    "opcoes": [
+      "Antecedentes pessoais",
+      "Antecedentes familiares",
+      "Interrogatório sobre os diferentes aparelhos",
+      "História pregressa da moléstia atual"
+    ],
+    "correta": 2,
+    "precisa_revisao": false,
+    "materia": "pmh",
+    "arquivo_origem": "4ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_837",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "Justificativa: o interrogatório sobre os diversos aparelhos é etapa obrigatória da Homem de 50 anos de idade apresentava a história clínica descrita na imagem a seguir. O item identificado com o número (4) corresponde a:",
+    "opcoes": [
+      "Just cat a: o",
+      "te ogató o sob e os d e sos apa e os é etapa ob gató a da",
+      "semiologia, e se faz quando o médico pergunta ao paciente sobre possíveis sintomas de",
+      "cada aparelho/sistema do organismo: cabeça e pescoço, aparelho respiratório,",
+      "circulatório, digestivo, urinário, endócrino, nervoso, genital, osteo-articular e pele/anexos."
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "4ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_838",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "cirurgia, ininterrupto até os dias atuais. Até então, a cirurgia era limitada a poucos e menores procedimentos, com limitados resultados. Quais foram os fatores essencialmente responsáveis por esse progresso?",
+    "opcoes": [
+      "Homem, 40 anos, foi encontrado caído na calçada e atendido pela",
+      "equipe do SAMU 192 , apresentando sinais de parada",
+      "cardiorrespiratória. Com relação à identificação deste agravo, quais",
+      "dados deverão ser  encontrados pela equipe?"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "4ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_839",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "exame físico, verificou-se: Temperatura axilar: 36,5ºC, PA = 150 X 90 mmHg; P=  120 bpm; FR = 25 irpm. Considerando os valores dos sinais vitais, podemos classificar como:",
+    "opcoes": [
+      "Devemos a instituição das bases éticas e racionais não mágicas da",
+      "medicina à:"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_840",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "Devemos a instituição das bases éticas e racionais não mágicas da medicina à:",
+    "opcoes": [
+      "Antecedentes familiares",
+      "Calendário vacinal",
+      "Aparelho digestório",
+      "Alergias medicamentosas",
+      "Evento adverso"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_841",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "da sua história clínica, é de suma importância o interrogatório sobre os diversos aparelhos. Faz parte desse interrogatório os seguintes dados:",
+    "opcoes": [
+      "Homem com 38 anos de idade apresentava lesão verrucosa em",
+      "região perineal. Encaminhado para cirurgia de exérese da lesão e, por",
+      "engano da equipe, foi submetido a cirurgia de vasectomia bilateral",
+      "(ligadura dos canais deferentes), tendo alta sem complicações após",
+      "ter sido realizada também a cirurgia anteriormente programada. Essa"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_842",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "(ligadura dos canais deferentes), tendo alta sem complicações após ter sido realizada também a cirurgia anteriormente programada. Essa situação é melhor definida como (assinale a alternativa correta):",
+    "opcoes": [
+      "A queixa principal e duração é dor ao urinar há 3 dias",
+      "A História Pregressa da Moléstia Atual (HPMA) é dor ao urinar há 3 dias",
+      "Alergia à Penicilina e uso de anticoncepcional oral fazem parte da História",
+      "Pregressa da Moléstia Atual (HPMA)",
+      "A queixa principal e duração é urgência urinária e disúria, além de hematúria há 3"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_843",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "relata urgência urinária e disúria, além de hematúria. Nega comorbidades. Faz uso de anticoncepcional oral. Refere alergia à Penicilina. Baseado nessa anamnese, assinalar a alternativa correta:",
+    "opcoes": [
+      "Gestante de 23 anos, com 37 semanas de gestação, referiu em",
+      "consulta visão turva, cefaléia frontal, dor para urinar (disúria); refere",
+      "também pele quente, calafrios e diaforese. No exame físico, foram",
+      "aferidos sinais vitais: PA=120/80 mmHg; FC= 88 bpm; FR = 16 IRPM;",
+      "Temp. 37,7oC. Baseado no caso, pode ser considerado tanto sinal"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_844",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "aferidos sinais vitais: PA=120/80 mmHg; FC= 88 bpm; FR = 16 IRPM; Temp. 37,7oC. Baseado no caso, pode ser considerado tanto sinal como sintoma:",
+    "opcoes": [
+      "Os sinais vitais são aferidos pelos membros da equipe de saúde e anotados em",
+      "prontuário para registro e acompanhamento da evolução clínica do paciente.",
+      "Sinais vitais e exame clínico geral são realizados imediatamente após anamnese",
+      "mas não interferem na investigação da doença e conduta médica;",
+      "Os sinais vitais são realizados quando há poucos sinais ou sintomas indicativos de"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_845",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "corpo. Servem como mecanismos de comunicação universal sobre o estado do paciente e da gravidade da doença. Em relação aos sinais vitais, podemos afirmar que: (assinale a alternativa correta)",
+    "opcoes": [
+      "Homem de 65 anos chega ao serviço vindo de Metrô, atrasado,",
+      "ofegante, para aferir a pressão arterial ambulatorial, conforme",
+      "orientada pelo médico. Durante a aferição realizada pelo colega, a",
+      "enfermeira comenta algo estar errado. Dentre as medidas a serem",
+      "tomadas abaixo, qual alternativa representa uma etapa correta na"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_846",
+    "modulo": 1,
+    "disciplina": "PMH"
+  },
+  {
+    "enunciado": "enfermeira comenta algo estar errado. Dentre as medidas a serem tomadas abaixo, qual alternativa representa uma etapa correta na aferição de pressão arterial?",
+    "opcoes": [
+      "Higienizar as mãos com álcool gel",
+      "Lavar as mãos com água e sabão",
+      "Lavar as mãos com água e álcool",
+      "Degermar as mãos com escovinha e clorexidina",
+      "Um médico anestesista, durante uma cirurgia de grande porte,"
+    ],
+    "correta": null,
+    "precisa_revisao": true,
+    "materia": "pmh",
+    "arquivo_origem": "1ª Avaliação de Introdução à Prática Médica.PDF",
+    "id": "real_outros_847",
+    "modulo": 1,
+    "disciplina": "PMH"
+  }
+]

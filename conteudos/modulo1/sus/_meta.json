@@ -1,0 +1,21 @@
+{
+  "_info": "Mapeamento de temas e subfocos para SUS — Princípios e Organização do SUS. Edite para atualizar quando obtiver o plano de ensino.",
+  "disciplina": "SUS",
+  "nome_completo": "Princípios e Organização do SUS",
+  "modulo": 1,
+  "materia_id": "sus",
+  "temas": {
+    "principios_sus": {
+      "nome": "Princípios e Diretrizes do SUS",
+      "subfocos": ["universalidade", "equidade", "integralidade", "descentralizacao", "regionalizacao", "controle_social", "reforma_sanitaria", "conferencia_saude"]
+    },
+    "atencao_primaria": {
+      "nome": "Atenção Primária à Saúde",
+      "subfocos": ["ubs", "esf", "nasf", "territorializacao", "acs", "vigilancia_saude", "niveis_atencao"]
+    },
+    "legislacao": {
+      "nome": "Legislação e Políticas de Saúde",
+      "subfocos": ["lei_8080", "lei_8142", "pnab", "humanizasus", "rede_cegonha", "financiamento_sus"]
+    }
+  }
+}

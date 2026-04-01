@@ -464,6 +464,625 @@
       "explicacao": "O ACS tem atribuição exclusiva de visitar cada domicílio pelo menos uma vez por mês e ser o elo entre a comunidade e a equipe de saúde. Ele cadastra famílias, identifica problemas de saúde e estimula práticas saudáveis.",
       "tema": "ESF - Atribuições da Equipe",
       "dificuldade": 2
+    },
+    {
+      "id": 46,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente de 45 anos sofreu queda sobre o ombro direito e apresenta dor intensa à abdução do braço. A radiografia evidencia fratura do tubérculo maior do úmero. O tubérculo maior é ponto de inserção de três dos quatro músculos do manguito rotador. Assinale a alternativa que apresenta CORRETAMENTE esses músculos:",
+      "opcoes": [
+        "A) Supraespinal, infraespinal e redondo menor",
+        "B) Supraespinal, infraespinal e subescapular",
+        "C) Infraespinal, redondo menor e redondo maior",
+        "D) Supraespinal, subescapular e redondo menor",
+        "E) Subescapular, infraespinal e deltóide"
+      ],
+      "correta": 0,
+      "explicacao": "O tubérculo maior do úmero é local de inserção de três músculos do manguito rotador: supraespinal (face superior), infraespinal (face posterior-média) e redondo menor (face posterior-inferior). O subescapular se insere no tubérculo menor. Todos são inervados pelo nervo supraescapular (supra e infraespinal) e axilar (redondo menor).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "manguito_rotador",
+        "acidentes_osseos",
+        "membro_superior"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 47,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Sexo feminino, 34 anos, apresenta fraqueza muscular no membro superior direito, principalmente ao realizar rotação lateral. A eletromiografia evidenciou comprometimento do músculo redondo menor. Sobre esse músculo e sua inervação, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "A) É inervado pelo nervo supraescapular e faz rotação medial do braço",
+        "B) É inervado pelo nervo axilar e participa da rotação lateral do braço",
+        "C) É inervado pelo nervo musculocutâneo e faz abdução do braço",
+        "D) É inervado pelo nervo radial e faz extensão do antebraço",
+        "E) É inervado pelo nervo subescapular inferior e faz rotação medial"
+      ],
+      "correta": 1,
+      "explicacao": "O músculo redondo menor é inervado pelo nervo axilar (C5-C6), ramo do fascículo posterior do plexo braquial. Sua ação principal é a rotação lateral do braço. Faz parte do manguito rotador junto com supraespinal, infraespinal e subescapular.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "plexo_braquial",
+        "inervacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 48,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um professor teve a região posterior do antebraço picada por mosquito, sentindo forte irritação local. Qual o nome do nervo responsável pela inervação sensitiva dessa região?",
+      "opcoes": [
+        "A) Nervo mediano",
+        "B) Nervo ulnar",
+        "C) Nervo musculocutâneo",
+        "D) Nervo radial",
+        "E) Nervo axilar"
+      ],
+      "correta": 3,
+      "explicacao": "O nervo radial (C5-T1) é responsável pela inervação sensitiva da face posterior do antebraço através do ramo cutâneo posterior do antebraço. Também inerva a face posterior do braço e dorso da mão (exceto dedos 4-5). É o principal nervo do compartimento posterior do membro superior.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "plexo_lombossacral"
+      ],
+      "dificuldade": 1,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 49,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta \"pé caído\" com dificuldade em realizar dorsiflexão do pé. Considerando o caso, qual é a provável causa do problema?",
+      "opcoes": [
+        "A) Laceração do nervo tibial",
+        "B) Ruptura do músculo fibular longo",
+        "C) Lesão do nervo fibular comum (fibular profundo)",
+        "D) Compressão do nervo safeno",
+        "E) Secção do nervo obturatório"
+      ],
+      "correta": 2,
+      "explicacao": "O 'pé caído' é causado pela lesão do nervo fibular comum ou seu ramo profundo. O nervo fibular profundo inerva os músculos do compartimento anterior da perna (tibial anterior, extensor longo dos dedos), responsáveis pela dorsiflexão. A lesão é comum por trauma na cabeça da fíbula.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "pe_caido"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 50,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente relata dificuldade na eversão do tornozelo. Exames mostram diminuição da condução nervosa da inervação local. Qual nervo provavelmente está comprometido?",
+      "opcoes": [
+        "A) Nervo tibial",
+        "B) Nervo fibular profundo",
+        "C) Nervo fibular superficial",
+        "D) Nervo safeno",
+        "E) Nervo sural"
+      ],
+      "correta": 2,
+      "explicacao": "O nervo fibular superficial inerva os músculos fibulares longo e curto, responsáveis pela eversão do pé. Já o nervo fibular profundo inerva a dorsiflexão. A lesão do fibular superficial causa perda da eversão e hipoestesia no dorso do pé.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "eversao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 51,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente com síndrome do túnel do carpo apresenta comprometimento motor e sensitivo. Qual dos músculos abaixo atravessa o túnel do carpo, age no polegar e é inervado pelo nervo comprometido?",
+      "opcoes": [
+        "A) Abdutor longo do polegar",
+        "B) Extensor curto do polegar",
+        "C) Flexor longo do polegar",
+        "D) Adutor do polegar",
+        "E) Extensor longo do polegar"
+      ],
+      "correta": 2,
+      "explicacao": "O flexor longo do polegar é inervado pelo nervo mediano (ramo interósseo anterior) e seu tendão passa pelo túnel do carpo. A síndrome do túnel do carpo resulta da compressão do nervo mediano, causando parestesia nos dedos 1-3 e fraqueza na oposição e flexão do polegar.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "tunel_carpo",
+        "membro_superior"
+      ],
+      "dificuldade": 3,
+      "fonte": "AV2 BMF1 - Teórico-Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 52,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "A hérnia discal lombar se direciona posteriormente em direção ao canal medular. Qual ligamento encontramos nessa região, cuja função é auxiliar na contenção da hérnia?",
+      "opcoes": [
+        "A) Ligamento longitudinal anterior",
+        "B) Ligamento amarelo (flavo)",
+        "C) Ligamento interespinhoso",
+        "D) Ligamento longitudinal posterior",
+        "E) Ligamento supraespinhoso"
+      ],
+      "correta": 3,
+      "explicacao": "O ligamento longitudinal posterior (LLP) está localizado na face posterior dos corpos vertebrais, dentro do canal vertebral. Ele auxilia na contenção de hérnias discais posteriores. O ligamento longitudinal anterior (LLA) está na face anterior e impede a hiperextensão.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "coluna_vertebral",
+        "hernia_discal",
+        "ligamentos"
+      ],
+      "dificuldade": 2,
+      "fonte": "AV2 BMF1 - Teórico-Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 53,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente após trauma no joelho direito apresentou lesão do componente acessório que impede a anteriorização da tíbia em relação ao fêmur. Qual é a estrutura em questão?",
+      "opcoes": [
+        "A) Menisco medial",
+        "B) Bursa suprapatelar",
+        "C) Ligamento cruzado anterior",
+        "D) Ligamento colateral medial",
+        "E) Ligamento cruzado posterior"
+      ],
+      "correta": 2,
+      "explicacao": "O ligamento cruzado anterior (LCA) impede a translação anterior da tíbia sobre o fêmur. É testado pelo teste da gaveta anterior e pelo teste de Lachman. O LCA origina-se no côndilo lateral do fêmur e insere-se na área intercondiliana anterior da tíbia.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "articulacao_sinovial",
+        "joelho"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 54,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma avaliação médica revelou lesão nos componentes articulares essenciais e acessórios do joelho direito. Quais são os componentes ESSENCIAIS de qualquer articulação sinovial?",
+      "opcoes": [
+        "A) Meniscos, ligamentos e bursa sinovial",
+        "B) Cápsula articular, membrana sinovial, líquido sinovial, ligamentos e bursa",
+        "C) Superfícies articulares revestidas por cartilagem, cápsula articular e cavidade articular com líquido sinovial",
+        "D) Ligamentos cruzados, meniscos e cartilagem articular",
+        "E) Disco articular, membrana fibrosa e gordura infrapatelar"
+      ],
+      "correta": 2,
+      "explicacao": "Os componentes essenciais de uma articulação sinovial são: superfícies articulares revestidas por cartilagem hialina, cápsula articular (membrana fibrosa + membrana sinovial) e cavidade articular preenchida por líquido sinovial. Meniscos, discos, ligamentos e bursas são componentes acessórios.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "articulacao_sinovial"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 55,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu queda e estendeu o braço como proteção. O exame radiográfico evidenciou fratura de ossos do carpo. Como os ossos do carpo são classificados morfologicamente?",
+      "opcoes": [
+        "A) Ossos longos",
+        "B) Ossos curtos",
+        "C) Ossos planos (chatos)",
+        "D) Ossos irregulares",
+        "E) Ossos sesamóides"
+      ],
+      "correta": 1,
+      "explicacao": "Os ossos do carpo (escafóide, semilunar, piramidal, pisiforme, trapézio, trapezóide, capitato e hamato) são classificados como ossos curtos — suas dimensões são aproximadamente iguais nos três eixos. Ossos longos têm comprimento maior que largura (fêmur). Ossos planos são laminares (escápula).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "classificacao_ossea",
+        "fraturas"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 56,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta processo inflamatório agudo da estrutura que reveste externamente o osso. Qual é o nome da estrutura inflamada e qual é sua principal função?",
+      "opcoes": [
+        "A) Endósteo — nutrição da medula óssea",
+        "B) Periósteo — proteção, nutrição (vascularização) e crescimento ósseo em espessura",
+        "C) Cartilagem epifisária — crescimento longitudinal",
+        "D) Medula óssea — produção de células sanguíneas",
+        "E) Cápsula articular — proteção da articulação"
+      ],
+      "correta": 1,
+      "explicacao": "O periósteo é a membrana que reveste externamente os ossos (exceto nas superfícies articulares). Suas funções incluem: proteção mecânica, nutrição óssea (vascularização), crescimento em espessura (camada osteogênica) e reparo de fraturas. A periostite é a inflamação do periósteo.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "periosteo",
+        "revestimento_osseo"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 57,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente de 24 anos sofreu fratura oblíqua em espiral por queda da própria altura. Qual osso do membro inferior, classificado como longo, é mais comumente fraturado na diáfise nesse mecanismo de trauma?",
+      "opcoes": [
+        "A) Escafóide; osso curto",
+        "B) Patela; osso sesamóide",
+        "C) Tíbia; osso longo",
+        "D) Calcâneo; osso curto",
+        "E) Fíbula; osso irregular"
+      ],
+      "correta": 2,
+      "explicacao": "A tíbia é um osso longo do membro inferior, sendo o osso mais comumente fraturado. Fraturas oblíquas em espiral na diáfise ocorrem por mecanismo rotacional. A tíbia é classificada como osso longo (comprimento maior que largura) e a fratura na diáfise é a região mais frequente.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "fraturas",
+        "classificacao_ossea"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 58,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Em uma lâmina histológica corada com HE, observa-se tecido com células cilíndricas multinucleadas com estriações transversais visíveis. O corte foi realizado no eixo longitudinal. Qual tecido e tipo de corte foram observados?",
+      "opcoes": [
+        "A) Corte transversal; tecido muscular liso",
+        "B) Corte longitudinal; tecido muscular estriado cardíaco",
+        "C) Corte longitudinal; tecido muscular estriado esquelético",
+        "D) Corte oblíquo; tecido muscular liso",
+        "E) Corte transversal; tecido conjuntivo denso"
+      ],
+      "correta": 2,
+      "explicacao": "O tecido muscular estriado esquelético apresenta fibras longas, cilíndricas, multinucleadas com núcleos periféricos e estriações transversais (bandas A e I). No corte longitudinal, as estriações são visíveis. No corte transversal, os núcleos periféricos são mais evidentes.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_muscular_estriado",
+        "corte_histologico"
+      ],
+      "dificuldade": 1,
+      "fonte": "P2 BMF1 - Avaliação Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 59,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um professor ensina seu residente sobre células próprias e células residentes do tecido conjuntivo. Assinale a alternativa que contempla APENAS células residentes (próprias) do tecido conjuntivo:",
+      "opcoes": [
+        "A) Fibroblastos, macrófagos e neutrófilos",
+        "B) Fibroblastos, mastócitos e células mesenquimais",
+        "C) Neutrófilos, eosinófilos e linfócitos",
+        "D) Plasmócitos, fibroblastos e hemácias",
+        "E) Macrófagos, linfócitos e monócitos"
+      ],
+      "correta": 1,
+      "explicacao": "As células residentes (próprias) do tecido conjuntivo são aquelas que se originam e permanecem no local: fibroblastos/fibrócitos, mastócitos, células mesenquimais indiferenciadas, macrófagos (originados de monócitos que migraram) e adipócitos. Neutrófilos, eosinófilos e linfócitos são células transitórias (vindas do sangue).",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_conjuntivo",
+        "celulas_conjuntivas"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 60,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Sobre o tecido ósseo, assinale a alternativa que contempla a célula responsável pela deposição (síntese) de matriz óssea e a principal molécula que fixa o cálcio:",
+      "opcoes": [
+        "A) Osteoclasto — hidroxiapatita",
+        "B) Osteócito — fosfatase ácida",
+        "C) Osteoblasto — fosfatase alcalina (que participa da mineralização por hidroxiapatita)",
+        "D) Condroblasto — proteoglicanos",
+        "E) Fibroblasto — colágeno tipo III"
+      ],
+      "correta": 2,
+      "explicacao": "O osteoblasto é a célula responsável pela síntese e secreção da matriz orgânica óssea (osteóide). A fosfatase alcalina, produzida pelo osteoblasto, participa do processo de mineralização, criando condições para o depósito de cristais de hidroxiapatita (cálcio + fosfato) na matriz. O osteoclasto faz reabsorção óssea.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_osseo",
+        "osteoblasto",
+        "matriz_ossea"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 61,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma doença genética impede a síntese adequada da principal fibra que compõe a matriz orgânica óssea. Assinale a alternativa que contém a célula produtora e a fibra afetada:",
+      "opcoes": [
+        "A) Osteoclasto — fibra elástica",
+        "B) Osteócito — fibra reticular",
+        "C) Osteoblasto — fibra colágena tipo I",
+        "D) Condrócito — fibra colágena tipo II",
+        "E) Fibroblasto — fibra colágena tipo III"
+      ],
+      "correta": 2,
+      "explicacao": "A principal fibra da matriz orgânica óssea é o colágeno tipo I (90% da matriz orgânica), sintetizado pelos osteoblastos. A osteogênese imperfeita ('ossos de vidro') é causada por mutação no gene do colágeno tipo I, resultando em fragilidade óssea extrema. Colágeno tipo II é da cartilagem hialina.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_osseo",
+        "fibras_colagenas",
+        "osteogenese_imperfeita"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 62,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Observe uma lâmina histológica com coloração rósea predominante nas fibras extracelulares. A coloração rósea deve-se a qual corante?",
+      "opcoes": [
+        "A) Hematoxilina, pois cora estruturas ácidas de roxo/azul",
+        "B) Eosina, pois é um corante ácido que cora estruturas básicas (acidófilas) em rosa",
+        "C) PAS, pois cora glicoproteínas em magenta",
+        "D) Tricrômico de Masson, pois cora colágeno em azul",
+        "E) Azul de toluidina, pois é um corante metacromático"
+      ],
+      "correta": 1,
+      "explicacao": "A eosina é um corante ácido (aniônico) que cora estruturas básicas (acidófilas) em tons de rosa/vermelho. As fibras colágenas, citoplasma e proteínas são acidófilas. A hematoxilina é básica e cora estruturas ácidas (núcleo, RNA) em roxo/azul.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecnicas_histologicas",
+        "coloracao_he"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 63,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresentou lesão no menisco medial do joelho causando processo inflamatório. O menisco é composto por qual tipo de cartilagem?",
+      "opcoes": [
+        "A) Cartilagem hialina",
+        "B) Cartilagem elástica",
+        "C) Cartilagem fibrosa (fibrocartilagem)",
+        "D) Tecido conjuntivo denso modelado",
+        "E) Tecido ósseo compacto"
+      ],
+      "correta": 2,
+      "explicacao": "Os meniscos são compostos por fibrocartilagem (cartilagem fibrosa), que contém abundantes fibras colágenas tipo I dispostas em feixes densos. A fibrocartilagem é encontrada em regiões que suportam grandes pressões: meniscos, discos intervertebrais, sínfise púbica e inserção de tendões.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_cartilaginoso",
+        "cartilagem_hialina",
+        "menisco"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 64,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Na etapa do potencial de ação em que a célula parte de +30 mV e passa por -70 mV, ocorre:",
+      "opcoes": [
+        "A) Despolarização — abertura dos canais de Na+ voltagem-dependentes",
+        "B) Repolarização seguida de hiperpolarização — abertura tardia dos canais de K+ e fechamento dos canais de Na+",
+        "C) Período refratário absoluto — todos os canais estão inativados",
+        "D) Potencial de repouso — equilíbrio pelo gradiente de K+",
+        "E) Despolarização — ativação da bomba Na+/K+ ATPase"
+      ],
+      "correta": 1,
+      "explicacao": "A fase de +30mV até abaixo de -70mV corresponde à repolarização (retorno ao repouso) seguida de hiperpolarização (ultrapassagem do potencial de repouso). Isso ocorre pela abertura tardia dos canais de K+ voltagem-dependentes (efluxo de K+) e inativação dos canais de Na+.",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "potencial_acao",
+        "canais_ionicos",
+        "repolarizacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 65,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "O potencial de ação (PA) do neurônio segue um princípio fundamental. Analisando as alternativas, assinale a CORRETA sobre o PA:",
+      "opcoes": [
+        "A) O pico do PA varia de acordo com a intensidade do estímulo — estímulos maiores geram potenciais maiores",
+        "B) O PA segue a lei do 'tudo ou nada' — atingido o limiar, a amplitude é sempre a mesma, independente da intensidade do estímulo",
+        "C) O PA pode ser graduado, semelhante aos potenciais sinápticos",
+        "D) Quanto maior a intensidade do estímulo, maior a duração do PA",
+        "E) O PA depende apenas da concentração de cloreto extracelular"
+      ],
+      "correta": 1,
+      "explicacao": "O potencial de ação segue a lei do 'tudo ou nada': uma vez atingido o limiar de excitabilidade (aprox. -55mV), o PA dispara com amplitude máxima constante. A intensidade do estímulo é codificada pela frequência de potenciais de ação, não pela amplitude.",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "potencial_acao",
+        "lei_tudo_ou_nada"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 66,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente internado recebeu substância que causou hipocalemia (potássio plasmático abaixo do normal), hiperpolarizando a membrana. O paciente queixa-se de 'moleza'. Qual alternativa melhor explica a causa deste sintoma?",
+      "opcoes": [
+        "A) O excesso de K+ causa despolarização sustentada e paralisia",
+        "B) A hipocalemia hiperpolariza a membrana, dificultando que o neurônio atinja o limiar para disparo de potenciais de ação na placa motora",
+        "C) A falta de K+ bloqueia diretamente a liberação de acetilcolina",
+        "D) A hipocalemia aumenta a velocidade de condução do impulso nervoso",
+        "E) O K+ baixo causa aumento da contração muscular tetânica"
+      ],
+      "correta": 1,
+      "explicacao": "A hipocalemia (K+ baixo) hiperpolariza a membrana celular (potencial de repouso mais negativo, ex: -90mV ao invés de -70mV). Isso dificulta que a célula atinja o limiar de excitabilidade, reduzindo a capacidade de gerar potenciais de ação, o que resulta em fraqueza muscular ('moleza').",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "hipocalemia",
+        "placa_motora",
+        "fraqueza_muscular"
+      ],
+      "dificuldade": 3,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 67,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Jovem fisiculturista, ao treinar supino, teve distensão grau 3 no componente anatômico do músculo responsável pela contração. Qual componente foi lesionado e qual é a unidade contrátil do músculo?",
+      "opcoes": [
+        "A) Tendão; sarcômero",
+        "B) Ventre muscular (fibras musculares); sarcômero",
+        "C) Fáscia muscular; miofibrila",
+        "D) Aponeurose; fascículo",
+        "E) Epimísio; actina"
+      ],
+      "correta": 1,
+      "explicacao": "O ventre muscular (composto por fibras musculares) é o componente responsável pela contração. A distensão grau 3 é a ruptura completa das fibras. O sarcômero é a unidade contrátil do músculo estriado esquelético, delimitado por duas linhas Z, contendo filamentos de actina (finos) e miosina (grossos).",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "contracao_muscular",
+        "sarcomero",
+        "actina_miosina"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 68,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Na imagem anatômica, a seta amarela superior aponta para um acidente ósseo do cotovelo e a seta inferior para o osso correspondente. Assinale a alternativa que identifica corretamente o acidente ósseo e o osso:",
+      "opcoes": [
+        "A) Epidôndilo medial e o osso é a ulna",
+        "B) Epicôndilo medial e o osso é o rádio",
+        "C) Epicôndilo lateral e o osso é o rádio",
+        "D) Epicôndilo medial e o osso é o úmero",
+        "E) Olécrano e o osso é a ulna"
+      ],
+      "correta": 3,
+      "explicacao": "O epicôndilo medial (epitróclea) e o epicôndilo lateral são acidentes ósseos da extremidade distal do úmero. O epicôndilo medial é ponto de origem dos músculos flexores do antebraço; o lateral, dos extensores. Ambos pertencem ao úmero, não à ulna ou ao rádio.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "acidentes_osseos",
+        "epicondilo",
+        "membro_superior"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 69,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu luxação acromioclavicular e um ligamento presente nessa articulação foi lesionado. A seta na imagem indica o local do ligamento. Assinale o nome do ligamento em questão:",
+      "opcoes": [
+        "A) Ligamento conóide",
+        "B) Ligamento coracoacromial",
+        "C) Ligamento acromioclavicular",
+        "D) Ligamento coracoclavicular",
+        "E) Ligamento glenoumeral superior"
+      ],
+      "correta": 2,
+      "explicacao": "O ligamento acromioclavicular conecta o acrômio à clavícula e estabiliza a articulação acromioclavicular. Na luxação AC, este ligamento é o primeiro a ser lesionado (grau I). Os ligamentos coracoclaviculares (conóide e trapezóide) são lesionados em graus mais elevados (III-V).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "ligamentos",
+        "ombro"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 70,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Médico aplica ácido hialurônico intra-articular e explica que tem benefícios para os elementos da articulação. Assinale a alternativa que explica corretamente esses benefícios:",
+      "opcoes": [
+        "A) O ácido hialurônico tem propriedades antiinflamatórias que diminuem o edema local",
+        "B) O ácido hialurônico aumenta a viscosidade do líquido sinovial, melhorando a lubrificação e absorção de impacto articular",
+        "C) O ácido hialurônico se converte em colágeno tipo II na cartilagem",
+        "D) O ácido hialurônico tem propriedades adesivas que mantêm a cartilagem firme",
+        "E) O ácido hialurônico substitui as células da cartilagem danificada"
+      ],
+      "correta": 1,
+      "explicacao": "O ácido hialurônico é um glicosaminoglicano (GAG) que aumenta a viscosidade e propriedades viscoelásticas do líquido sinovial, melhorando a lubrificação articular e a absorção de impacto. É o principal componente da matriz extracelular do líquido sinovial.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_conjuntivo",
+        "acido_hialuronico"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
     }
   ]
 }
