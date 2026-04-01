@@ -2363,7 +2363,7 @@
 
       const handleSemesterSubmit = () => {
         if (!semester) {
-          setError('Selecione seu semestre');
+          setError('Selecione seu módulo');
           return;
         }
         const userData = {
@@ -2444,20 +2444,20 @@
               {/* Step 3: Semester */}
               <div className={`auth-step ${step === 3 ? 'active' : ''}`}>
                 <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
-                  Etapa 3: Seu Semestre
+                  Etapa 3: Seu Módulo
                 </h2>
                 <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
-                  Em qual semestre da Uninove você está?
+                  Em qual módulo da Uninove você está?
                 </p>
                 {error && step === 3 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
                 <div className="semester-grid">
-                  {[1,2,3,4,5,6,7,8,9,10,11,12].map(s => (
+                  {[1,2,3,4].map(s => (
                     <button
                       key={s}
                       className={`semester-btn ${semester === s ? 'selected' : ''}`}
                       onClick={() => { setSemester(s); setError(''); }}
                     >
-                      {s}º
+                      Módulo {s}
                     </button>
                   ))}
                 </div>
@@ -2478,7 +2478,7 @@
     const DashboardScreen = ({ user, materias, flashcards, onSelectMateria }) => {
       const [stats, setStats] = useState({ cardsToday: 0, questionsToday: 0, accuracy: 0 });
       const [viewAll, setViewAll] = useState(false);
-      const userSemester = user.semestre || 1;
+      const userSemester = user.semestre || user.modulo || 1;
 
       useEffect(() => {
         const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
@@ -2498,15 +2498,15 @@
       const dueCards = SM2.getDueCards(flashcards, JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'));
 
       const displayMaterias = viewAll
-        ? materias
-        : materias.filter(m => m.semestre === userSemester);
+        ? materias.filter(m => m.ativo !== false)
+        : materias.filter(m => m.modulo === userSemester && m.ativo !== false);
 
       // Group by semester when viewing all
       const groupedMaterias = useMemo(() => {
         if (!viewAll) return { [userSemester]: displayMaterias };
         const groups = {};
         displayMaterias.forEach(m => {
-          const sem = m.semestre || 0;
+          const sem = m.modulo || 0;
           if (!groups[sem]) groups[sem] = [];
           groups[sem].push(m);
         });
@@ -2518,7 +2518,7 @@
           <div className="screen-content">
             <div className="dashboard-header">
               <h1 className="dashboard-welcome">Olá, {user.email.split('@')[0]}!</h1>
-              <p className="dashboard-date">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })} — {userSemester}º semestre</p>
+              <p className="dashboard-date">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })} — Módulo {userSemester}</p>
             </div>
 
             <div className="stats-grid">
@@ -2562,7 +2562,7 @@
                 style={{ marginTop: '24px', fontSize: '12px', padding: '6px 12px' }}
                 onClick={() => setViewAll(!viewAll)}
               >
-                {viewAll ? 'Meu semestre' : 'Ver todos'}
+                {viewAll ? 'Meu módulo' : 'Ver todos'}
               </button>
             </div>
 
@@ -2570,7 +2570,7 @@
               {Object.entries(groupedMaterias).sort(([a],[b]) => Number(a) - Number(b)).map(([sem, mats]) => (
                 <React.Fragment key={sem}>
                   {viewAll && (
-                    <div className="semester-group-header">{sem}º Semestre</div>
+                    <div className="semester-group-header">Módulo {sem}</div>
                   )}
                   {mats.map((materia) => {
                     const materiaCards = flashcards.filter(f => f.materia === materia.id && f.tipo !== 'quiz');
@@ -2607,7 +2607,7 @@
 
               {displayMaterias.length === 0 && (
                 <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
-                  <p>Nenhuma disciplina para o {userSemester}º semestre ainda.</p>
+                  <p>Nenhuma disciplina para o Módulo {userSemester} ainda.</p>
                   <button className="btn btn-secondary mt-2" onClick={() => setViewAll(true)}>
                     Ver todas as disciplinas
                   </button>
@@ -2716,14 +2716,14 @@
         });
 
         const semFiltered = semesterFilter
-          ? materiasWithCards.filter(m => m.semestre === semesterFilter)
+          ? materiasWithCards.filter(m => m.modulo === semesterFilter)
           : materiasWithCards;
 
         const filteredMaterias = semFiltered.filter(m =>
           fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
         );
 
-        const semesters = [...new Set(materiasWithCards.map(m => m.semestre))].sort((a,b) => a-b);
+        const semesters = [...new Set(materiasWithCards.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
 
         return (
           <>
@@ -2741,7 +2741,7 @@
                       key={s}
                       className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
                       onClick={() => setSemesterFilter(s)}
-                    >{s}º sem</button>
+                    >Módulo {s}</button>
                   ))}
                 </div>
               )}
@@ -3085,7 +3085,7 @@
         materias.forEach(m => {
           const questions = quizQuestions.filter(f => f.materia === m.id);
           if (questions.length > 0) {
-            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.semestre };
+            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo };
           }
         });
         return grouped;
@@ -3097,7 +3097,7 @@
         if (semesterFilter) {
           const f = {};
           Object.entries(result).forEach(([id, q]) => {
-            if (q.semestre === semesterFilter) f[id] = q;
+            if (q.semestre === semesterFilter && q.ativo !== false) f[id] = q;
           });
           result = f;
         }
@@ -3411,7 +3411,7 @@
       }
 
       // Quiz list with semester filter, category tabs, search
-      const semesters = [...new Set(Object.values(quizzes).map(q => q.semestre))].sort((a,b) => a-b);
+      const semesters = [...new Set(Object.values(quizzes).filter(q => q.ativo !== false).map(q => q.semestre))].sort((a,b) => a-b);
 
       return (
         <>
@@ -3440,7 +3440,7 @@
                     key={s}
                     className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
                     onClick={() => setSemesterFilter(s)}
-                  >{s}º sem</button>
+                  >Módulo {s}</button>
                 ))}
               </div>
             )}
@@ -3467,7 +3467,7 @@
                   <SubjectIcon materiaId={id} icon={quiz.icon} cor={quiz.cor} />
                   <div className="subject-select-info">
                     <div className="subject-select-name">{quiz.sigla || quiz.name}</div>
-                    <div className="subject-select-meta">{quiz.cards.length} questões — {quiz.semestre}º sem</div>
+                    <div className="subject-select-meta">{quiz.cards.length} questões — Módulo {quiz.semestre}</div>
                   </div>
                   <div style={{ color: 'var(--text-secondary)' }}>
                     <IconChevronRight />
@@ -3637,7 +3637,7 @@
           <div className="screen-content">
             <div className="profile-avatar">{avatarLetter}</div>
             <div className="profile-name">{username}</div>
-            <div className="profile-meta">{user.semestre || 1}º semestre · Plano Básico</div>
+            <div className="profile-meta">Módulo {user.modulo || 1} · Plano Básico</div>
 
             <div className="profile-stats">
               <div className="profile-stat">
@@ -3668,9 +3668,9 @@
                 <span className="profile-value" style={{ fontSize: '13px' }}>{user.email}</span>
               </div>
               <div className="profile-item">
-                <span className="profile-label">Semestre</span>
+                <span className="profile-label">Módulo</span>
                 <span className="profile-value" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  {user.semestre || 1}º semestre
+                  Módulo {user.semestre || user.modulo || 1}
                   <button
                     className="semester-tab"
                     style={{ fontSize: '11px', padding: '4px 10px' }}
@@ -3795,14 +3795,14 @@
           // Fallback if no JSON files loaded
           if (materiasData.length === 0) {
             materiasData = [
-              { id: 'sus', nome: 'Princípios do SUS', sigla: 'SUS', icon: '🏥', semestre: 1, cor: '#6366F1' },
-              { id: 'semiologia1', nome: 'Semiologia 1', sigla: 'SEMIO1', icon: '🩺', semestre: 1, cor: '#C0392B' },
-              { id: 'bmf1', nome: 'BMF 1 — Muscular e Ósseo', sigla: 'BMF1', icon: '🦴', semestre: 1, cor: '#E85D75' },
-              { id: 'pmh', nome: 'PMH', sigla: 'PMH', icon: '📋', semestre: 1, cor: '#8B5CF6' },
-              { id: 'bmf2', nome: 'BMF 2 — Cardiopulmonar', sigla: 'BMF2', icon: '❤️', semestre: 2, cor: '#EF4444' },
-              { id: 'mad', nome: 'MAD — Mecanismos de Agressão e Defesa', sigla: 'MAD', icon: '🛡️', semestre: 2, cor: '#F59E0B' },
-              { id: 'indicadores', nome: 'Indicadores em Saúde', sigla: 'IND', icon: '📊', semestre: 2, cor: '#10B981' },
-              { id: 'bcm1', nome: 'BCM — Bases Celulares e Moleculares', sigla: 'BCM1', icon: '🧬', semestre: 2, cor: '#4A90E2' },
+              { id: 'sus', nome: 'Princípios do SUS', sigla: 'SUS', icon: '🏥', modulo: 1, ativo: true, cor: '#6366F1' },
+              { id: 'semiologia1', nome: 'Semiologia 1', sigla: 'SEMIO1', icon: '🩺', modulo: 1, ativo: true, cor: '#C0392B' },
+              { id: 'bmf1', nome: 'BMF 1 — Muscular e Ósseo', sigla: 'BMF1', icon: '🦴', modulo: 1, ativo: true, cor: '#E85D75' },
+              { id: 'pmh', nome: 'PMH', sigla: 'PMH', icon: '📋', modulo: 1, ativo: true, cor: '#8B5CF6' },
+              { id: 'bmf2', nome: 'BMF 2 — Cardiopulmonar', sigla: 'BMF2', icon: '❤️', modulo: 2, ativo: true, cor: '#EF4444' },
+              { id: 'mad', nome: 'MAD — Mecanismos de Agressão e Defesa', sigla: 'MAD', icon: '🛡️', modulo: 2, ativo: true, cor: '#F59E0B' },
+              { id: 'indicadores', nome: 'Indicadores em Saúde', sigla: 'IND', icon: '📊', modulo: 2, ativo: true, cor: '#10B981' },
+              { id: 'bcm1', nome: 'BCM — Bases Celulares e Moleculares', sigla: 'BCM1', icon: '🧬', modulo: 2, ativo: true, cor: '#4A90E2' },
             ];
           }
 
@@ -3866,12 +3866,14 @@
       }
 
       const handleChangeSemester = () => {
-        const newSem = prompt('Digite o número do novo semestre (1-12):');
+        const newSem = prompt('Digite o número do módulo (1-4):');
         const parsed = parseInt(newSem);
-        if (parsed >= 1 && parsed <= 12) {
-          const updated = { ...user, semestre: parsed };
+        if (parsed >= 1 && parsed <= 4) {
+          const updated = { ...user, semestre: parsed, modulo: parsed };
           setUser(updated);
           localStorage.setItem('meduni9_user', JSON.stringify(updated));
+        } else if (newSem !== null) {
+          alert('Por enquanto apenas os módulos 1 a 4 estão disponíveis.');
         }
       };
 
@@ -3917,7 +3919,7 @@
                 </div>
                 <div className="sidebar-user-info">
                   <div className="sidebar-user-name">{user.email ? user.email.split('@')[0] : 'Usuário'}</div>
-                  <div className="sidebar-user-meta">{user.semestre || 1}º sem · Básico</div>
+                  <div className="sidebar-user-meta">Módulo {user.semestre || user.modulo || 1} · Básico</div>
                 </div>
               </div>
             </div>
