@@ -1083,6 +1083,505 @@
       "fonte": "P1 BMF1 - Prova Teórica",
       "ano": 2024,
       "modulo": 1
+    },
+    {
+      "id": 71,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante uma corrida matinal na orla, um jovem encontra um senhor caído sem movimentos. Após confirmar parada cardiorrespiratória (PCR), qual deve ser a primeira ação do socorrista leigo segundo o BLS (Suporte Básico de Vida)?",
+      "opcoes": [
+        "A) Iniciar ventilação boca-a-boca imediatamente",
+        "B) Checar pulso carotídeo por 30 segundos antes de qualquer ação",
+        "C) Ligar para o SAMU (192) ou solicitar que alguém ligue, e iniciar compressões torácicas de alta qualidade",
+        "D) Aguardar a chegada do SAMU para iniciar o atendimento",
+        "E) Colocar a vítima em decúbito lateral de segurança"
+      ],
+      "correta": 2,
+      "explicacao": "No BLS, após confirmar que a vítima não responde e não respira normalmente: (1) Acionar serviço de emergência (192/193), (2) Solicitar DEA, (3) Iniciar compressões torácicas (100-120/min, 5-6cm de profundidade). A checagem de pulso é feita em até 10 segundos (não 30).",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "pcr",
+        "rcp",
+        "dea",
+        "bls"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 72,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante uma PCR, o DEA (Desfibrilador Externo Automático) é instalado e ao analisar o ritmo cardíaco sinaliza que o choque NÃO é recomendado. Qual a conduta a ser tomada nesse momento?",
+      "opcoes": [
+        "A) Interromper a RCP e aguardar o SAMU",
+        "B) Reiniciar compressões torácicas imediatamente por 2 minutos e reavaliar",
+        "C) Desligar o DEA e colocar a vítima em posição lateral de segurança",
+        "D) Verificar pulso e, se ausente, administrar adrenalina IM",
+        "E) Realizar apenas ventilação assistida sem compressões"
+      ],
+      "correta": 1,
+      "explicacao": "Quando o DEA indica 'choque não recomendado', significa que o ritmo é assistolia ou AESP (ritmos não chocáveis). A conduta é reiniciar RCP imediatamente (ciclos de 30:2) por 2 minutos até nova análise do DEA. NÃO se interrompe a RCP.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "dea",
+        "pcr",
+        "ritmo_nao_chocavel"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 73,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Uma pessoa em um restaurante apresenta obstrução total de vias aéreas por alimento (engasgo). Qual manobra de primeiros socorros deve ser aplicada para desobstruir as vias aéreas?",
+      "opcoes": [
+        "A) Manobra de Sellick",
+        "B) Manobra de Heimlich (compressões abdominais subdiafragmáticas)",
+        "C) Manobra de Valsalva",
+        "D) Manobra de jaw thrust",
+        "E) Manobra de chin lift"
+      ],
+      "correta": 1,
+      "explicacao": "A manobra de Heimlich consiste em compressões abdominais subdiafragmáticas para criar pressão positiva nas vias aéreas e expulsar o corpo estranho. Em gestantes e obesos, utilizam-se compressões torácicas. Em lactentes, alternância de 5 tapas dorsais com 5 compressões torácicas.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "obstrucao_vias_aereas",
+        "heimlich",
+        "engasgo"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 74,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Em um desastre em massa, uma vítima encontra-se desacordada, soterrada por 3 horas, com fratura exposta e perda de sangue em membro inferior. Na triagem pelo método START, esta paciente é classificada como:",
+      "opcoes": [
+        "A) Verde — pode aguardar atendimento (ferimento leve)",
+        "B) Amarelo — prioridade intermediária",
+        "C) Vermelho — prioridade imediata (imediato)",
+        "D) Preto — expectante ou óbito",
+        "E) Branco — sem lesões"
+      ],
+      "correta": 2,
+      "explicacao": "No método START, pacientes desacordados com sangramento ativo e fraturas expostas são classificados como VERMELHO (prioridade imediata). Avaliam-se: deambulação, respiração, circulação (pulso/enchimento capilar) e status neurológico. Desacordada + hemorragia = vermelha.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "triagem",
+        "start",
+        "desastre_massa"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 75,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu queimadura classificada como de 2º grau na porção anterior do membro superior direito e tronco anterior. A queimadura de 2º grau atinge quais camadas da pele?",
+      "opcoes": [
+        "A) Apenas a epiderme",
+        "B) Epiderme e parte da derme (com formação de bolhas/flictenas)",
+        "C) Apenas a derme",
+        "D) Epiderme, derme e tecido subcutâneo",
+        "E) Todas as camadas até o tecido muscular"
+      ],
+      "correta": 1,
+      "explicacao": "A queimadura de 2º grau (espessura parcial) atinge epiderme e parte da derme. Caracteriza-se por bolhas (flictenas), dor intensa e hiperemia. A de 1º grau atinge apenas epiderme (eritema). A de 3º grau atinge epiderme, derme completa e tecido subcutâneo (indolor, escaras).",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "queimaduras",
+        "classificacao",
+        "graus"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 76,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta temperatura axilar de 36,5°C, PA de 110x80 mmHg e FC de 112 bpm. Como você classifica os sinais vitais deste paciente?",
+      "opcoes": [
+        "A) Febril, hipertenso e taquicárdico",
+        "B) Afebril, normotenso e taquicárdico",
+        "C) Febril, hipotenso e normocárdico",
+        "D) Afebril, hipertenso e bradicárdico",
+        "E) Afebril, normotenso e normocárdico"
+      ],
+      "correta": 1,
+      "explicacao": "Temperatura de 36,5°C é afebril (febre ≥37,8°C). PA de 110x80 mmHg é normal. FC de 112 bpm é taquicardia (normal: 60-100 bpm). Bradicardia é FC <60 bpm. Portanto: afebril, normotenso, taquicárdico.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "fc",
+        "taquicardia",
+        "bradicardia",
+        "sinais_vitais"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 77,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Antes de aferir a pressão arterial de um paciente, é necessário observar certos cuidados. Qual das afirmativas está CORRETA sobre a técnica de aferição?",
+      "opcoes": [
+        "A) O paciente pode ter ingerido café ou fumado imediatamente antes, sem interferência",
+        "B) Deve-se certificar que o paciente não está com bexiga cheia e que não ingeriu cafeína nos últimos 30 minutos",
+        "C) A posição do manguito não interfere nos valores da PA",
+        "D) A PA deve ser aferida apenas com o paciente em decúbito dorsal",
+        "E) O manguito deve ser colocado sobre a roupa para maior conforto"
+      ],
+      "correta": 1,
+      "explicacao": "Para aferição correta da PA: paciente deve estar sentado, com braço apoiado na altura do coração, bexiga vazia, sem ter fumado ou ingerido cafeína nos últimos 30 min. A cafeína estimula o sistema nervoso simpático, elevando artificialmente a PA.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "pa",
+        "aferir_pressao",
+        "cuidados_pa"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 78,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Na prática da Semiologia Médica, qual afirmativa melhor diferencia sinais de sintomas?",
+      "opcoes": [
+        "A) Sinais são subjetivos e relatados pelo paciente; sintomas são objetivos e detectados pelo médico",
+        "B) Sinais são achados objetivos detectáveis pelo médico ao exame; sintomas são manifestações subjetivas percebidas e relatadas pelo paciente",
+        "C) Ambos são sinônimos — não há diferença prática entre sinal e sintoma",
+        "D) Sinais só podem ser detectados por exames laboratoriais; sintomas por exame físico",
+        "E) Sinais são irrelevantes para a formulação de hipóteses diagnósticas"
+      ],
+      "correta": 1,
+      "explicacao": "Sinais são achados objetivos identificados pelo exame (febre, edema, sopro, crepitação). Sintomas são manifestações subjetivas relatadas pelo paciente (dor, tontura, náusea, prurido). A semiologia integra ambos para construir o raciocínio diagnóstico.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "sinais_sintomas",
+        "semiologia_basica"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 79,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente vítima de trauma cranioencefálico apresenta abertura ocular à dor, resposta verbal com sons incompreensíveis e resposta motora de retirada. Qual o escore na Escala de Coma de Glasgow?",
+      "opcoes": [
+        "A) GCS = 6 (Abrir olhos: 1 + Verbal: 2 + Motor: 3)",
+        "B) GCS = 8 (Abrir olhos: 2 + Verbal: 2 + Motor: 4)",
+        "C) GCS = 9 (Abrir olhos: 2 + Verbal: 3 + Motor: 4)",
+        "D) GCS = 10 (Abrir olhos: 3 + Verbal: 3 + Motor: 4)",
+        "E) GCS = 12 (Abrir olhos: 3 + Verbal: 4 + Motor: 5)"
+      ],
+      "correta": 1,
+      "explicacao": "Escala de Glasgow: Abertura ocular à dor = 2; Resposta verbal com sons incompreensíveis = 2; Resposta motora de retirada = 4. Total = 8. GCS ≤8 indica necessidade de proteção de via aérea (IOT). Mínimo = 3 (sem resposta). Máximo = 15 (normal).",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "glasgow",
+        "nivel_consciencia"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 80,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Os 5 momentos para higienização das mãos são reconhecidos mundialmente pela OMS e adotados pela ANVISA. Três deles são: (1) antes do contato com o paciente, (2) antes da realização de procedimento, (3) após exposição a fluidos corporais. Quais são o 4° e o 5° momento?",
+      "opcoes": [
+        "A) Antes de calçar luvas e após tirar a máscara",
+        "B) Após contato com o paciente e após contato com superfícies próximas ao paciente",
+        "C) Antes de preparar medicações e após término do plantão",
+        "D) Após refeições e antes de entrar no ambiente hospitalar",
+        "E) Antes de registrar no prontuário e após usar o banheiro"
+      ],
+      "correta": 1,
+      "explicacao": "Os 5 momentos OMS/ANVISA: (1) Antes do contato com paciente, (2) Antes de procedimento asséptico, (3) Após risco de exposição a fluidos corporais, (4) Após contato com o paciente, (5) Após contato com as superfícies próximas ao paciente.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "higiene_maos",
+        "cinco_momentos",
+        "anvisa"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 81,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "A Política Nacional de Segurança do Paciente (PNSP) definiu protocolos básicos de segurança. Quais representam dois desses protocolos?",
+      "opcoes": [
+        "A) Identificação do paciente e prevenção de quedas",
+        "B) Maximização do lucro hospitalar e redução de leitos",
+        "C) Controle de orçamento e auditoria financeira",
+        "D) Padronização de cardápio e decoração de quartos",
+        "E) Seleção de fornecedores e compra de equipamentos"
+      ],
+      "correta": 0,
+      "explicacao": "Os 6 protocolos da PNSP são: (1) Identificação do paciente, (2) Segurança na prescrição e uso de medicamentos, (3) Cirurgia segura, (4) Prática de higiene das mãos, (5) Prevenção de quedas, (6) Prevenção de úlceras por pressão. Todos visam reduzir incidentes em serviços de saúde.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "pnsp",
+        "seguranca_paciente",
+        "protocolo"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 82,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante treinamento, um técnico de enfermagem realizou as duas técnicas de higienização das mãos. Qual é a duração correta de cada técnica?",
+      "opcoes": [
+        "A) Água e sabão: 40-60 segundos; Preparação alcoólica: 20-30 segundos",
+        "B) Água e sabão: 20-30 segundos; Preparação alcoólica: 40-60 segundos",
+        "C) Ambas devem durar exatamente 15 segundos",
+        "D) Água e sabão: 10 segundos; Preparação alcoólica: 5 segundos",
+        "E) Não há tempo recomendado, depende da preferência do profissional"
+      ],
+      "correta": 0,
+      "explicacao": "Segundo ANVISA/OMS: higienização com água e sabonete deve durar 40-60 segundos; fricção antisséptica com preparação alcoólica deve durar 20-30 segundos. A técnica inclui todas as superfícies das mãos, entre os dedos e unhas.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "higiene_maos",
+        "tecnica_lavagem"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 83,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com suspeita de meningite bacteriana necessita de punção lombar para coleta de líquido cefalorraquidiano. Quais EPIs devem fazer parte da paramentação do profissional de saúde?",
+      "opcoes": [
+        "A) Apenas luvas de procedimento",
+        "B) Luvas estéreis, máscara cirúrgica, avental descartável e óculos de proteção",
+        "C) Somente avental e máscara N95",
+        "D) Apenas luvas e propés",
+        "E) Nenhum EPI é necessário para esse procedimento"
+      ],
+      "correta": 1,
+      "explicacao": "A punção lombar é procedimento invasivo com risco de exposição a fluidos corporais. Exige: luvas estéreis, máscara cirúrgica, avental descartável e óculos de proteção. A NR-32 regulamenta segurança em serviços de saúde, incluindo uso de EPIs.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "epi",
+        "paramentacao",
+        "nr32"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 84,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Aluno do 1° semestre de Medicina inicia aulas práticas de anatomia com cadáver. De acordo com o Código de Ética do Estudante de Medicina, qual artigo se aplica a essa situação?",
+      "opcoes": [
+        "A) Art. 5 — É vedado ao estudante fotografar ou filmar cadáveres para fins pessoais",
+        "B) Art. 12 — O estudante deve tratar o cadáver com respeito e dignidade como parte essencial de sua formação",
+        "C) Art. 17 — Cabe ao estudante denunciar conduta antiética e preconceituosa de acadêmicos e docentes",
+        "D) Art. 3 — O estudante deve manter sigilo sobre informações do cadáver",
+        "E) Art. 8 — O estudante pode recusar atividades práticas com cadáver por objeção de consciência"
+      ],
+      "correta": 1,
+      "explicacao": "O Código de Ética do Estudante de Medicina estabelece que o cadáver deve ser tratado com respeito e dignidade. É vedado qualquer tipo de desrespeito, fotografia não autorizada ou conduta inadequada durante as aulas de anatomia.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "codigo_etica",
+        "estudante_medicina",
+        "cadaver"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 85,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Médico em plantão deixa de atender um paciente grave alegando estar em trânsito após viagem pessoal. Qual artigo do Código de Ética Médica se correlaciona com essa situação?",
+      "opcoes": [
+        "A) Art. 1 — É vedado ao médico causar dano ao paciente por ação ou omissão, comprometendo a beneficência e não-maleficência",
+        "B) Art. 15 — O médico pode escolher quais pacientes atender conforme conveniência",
+        "C) Art. 20 — O médico tem direito a recusar atendimento desde que comunique ao hospital",
+        "D) Art. 30 — A presença física do médico não é obrigatória durante o plantão",
+        "E) Art. 5 — O médico pode delegar todo atendimento ao residente"
+      ],
+      "correta": 0,
+      "explicacao": "O CEM (Capítulo III, Art. 1) estabelece que é vedado causar dano ao paciente por ação ou OMISSÃO. O médico em plantão tem obrigação de estar disponível. A recusa de atendimento configura omissão de socorro, violando princípios de beneficência e não-maleficência.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "codigo_etica_medica",
+        "responsabilidade",
+        "omissao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 86,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com doença avançada e sem possibilidade de cura. De acordo com o CEM e o princípio da integralidade do SUS, a conduta do médico responsável deve ser:",
+      "opcoes": [
+        "A) Retirar todas as medidas terapêuticas e dar alta para que o paciente fique com a família",
+        "B) Manter tratamento agressivo e invasivo a qualquer custo, buscando a cura",
+        "C) Oferecer cuidados paliativos, garantindo alívio do sofrimento, conforto e dignidade no processo de morrer",
+        "D) Transferir para outro serviço imediatamente",
+        "E) Suspender hidratação e alimentação sem consultar o paciente ou família"
+      ],
+      "correta": 2,
+      "explicacao": "O CEM e a Resolução CFM 1.805/2006 permitem a ortotanásia: suspensão de tratamentos fúteis em pacientes terminais, mantendo cuidados paliativos (controle de dor, conforto, dignidade). A integralidade do SUS inclui cuidados paliativos como direito do paciente.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "cuidados_paliativos",
+        "ortotanasia",
+        "fim_de_vida"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 87,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente submetido a prostatectomia permaneceu com sondagem para irrigação vesical contínua. Esse tipo de sondagem utiliza qual dispositivo?",
+      "opcoes": [
+        "A) Sonda nasogástrica (Levine)",
+        "B) Sonda vesical de demora com irrigação (3 vias / Foley tríplice lúmen)",
+        "C) Sonda endotraqueal",
+        "D) Dreno de Penrose",
+        "E) Cateter venoso central"
+      ],
+      "correta": 1,
+      "explicacao": "A sonda vesical de demora de 3 vias (Foley tríplice lúmen) permite: drenagem da urina, inflação do balão e irrigação contínua. É utilizada pós-prostatectomia para eliminar coágulos e manter a permeabilidade da via urinária.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sondagem",
+        "sonda_vesical",
+        "iot"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 88,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com apendicite e vômitos recorrentes necessita de analgesia. Qual via de administração é mais adequada nesse caso e por quê?",
+      "opcoes": [
+        "A) Via oral — é sempre a via preferencial",
+        "B) Via intramuscular ou endovenosa — pois o vômito impede absorção oral adequada",
+        "C) Via retal — é a única alternativa ao vômito",
+        "D) Via sublingual — absorção mais rápida",
+        "E) Via intranasal — não é afetada pelo vômito"
+      ],
+      "correta": 1,
+      "explicacao": "Em pacientes com vômitos, a via oral é contraindicada (perda do medicamento). As vias parenterais (IM ou EV) garantem absorção completa. A via EV permite início de ação mais rápido; a via IM é alternativa quando o acesso venoso não está disponível.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "via_administracao",
+        "im",
+        "medicamentos"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 89,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com laceração facial necessita de sutura estética. Qual tipo de fio de sutura é mais indicado para resultado cosmético adequado nessa região?",
+      "opcoes": [
+        "A) Fio multifilamentar absorvível grosso (catgut cromado 2-0)",
+        "B) Fio monofilamentar não absorvível fino (nylon 5-0 ou 6-0)",
+        "C) Fio de aço inoxidável",
+        "D) Fio multifilamentar não absorvível grosso (seda 2-0)",
+        "E) Grampo metálico (agrafe)"
+      ],
+      "correta": 1,
+      "explicacao": "Para suturas estéticas (face), utiliza-se fio monofilamentar não absorvível fino (nylon 5-0 ou 6-0). Monofilamentares causam menor reação tecidual; fios finos deixam menos marcas. Fios multifilamentares acumulam bactérias nos interstícios e são evitados em áreas expostas.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sutura",
+        "fios_cirurgicos",
+        "cicatrizacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 90,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Um paciente necessita de nutrição enteral por impossibilidade de alimentação oral. A sonda nasoenteral percorre as cavidades nasal, esôfago, estômago e intestino delgado. Sobre essa sonda, é correto afirmar:",
+      "opcoes": [
+        "A) Seu posicionamento não requer confirmação radiológica",
+        "B) É a via mais segura e menos traumática para administração de dietas, hidratação e medicação em pacientes que não podem se alimentar por via oral",
+        "C) Deve ser inserida exclusivamente por médicos",
+        "D) Não permite administração de medicamentos, apenas dieta",
+        "E) A sonda nasoenteral substitui permanentemente a alimentação oral"
+      ],
+      "correta": 1,
+      "explicacao": "A sonda nasoenteral (SNE) fornece via segura e menos traumática para dietas, hidratação e medicação em pacientes com impossibilidade de alimentação oral. Seu posicionamento DEVE ser confirmado por radiografia para evitar complicações (inserção pulmonar).",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sondagem",
+        "sonda_nasoenteral",
+        "nutricao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
     }
   ]
 }
