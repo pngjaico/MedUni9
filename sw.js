@@ -1,5 +1,5 @@
 // MedUni9 Service Worker v4.0 — Security Hardened
-const CACHE_NAME = 'meduni9-v5';
+const CACHE_NAME = 'meduni9-v6';
 
 // Files to cache (NEVER cache sensitive files)
 const ASSETS = [
@@ -64,31 +64,20 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // For JSON data files, try network first (to get updates)
-  if (event.request.url.includes('/data/')) {
-    event.respondWith(
-      fetch(event.request)
-        .then(response => {
-          const clone = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
-          return response;
-        })
-        .catch(() => caches.match(event.request))
-    );
-    return;
-  }
-
-  // For everything else, cache first
+  // Network-First strategy for everything to avoid Ctrl+F5
   event.respondWith(
-    caches.match(event.request).then(cached => {
-      if (cached) return cached;
-      return fetch(event.request).then(response => {
-        if (response.ok) {
+    fetch(event.request)
+      .then(response => {
+        // Se a requisição foi bem-sucedida, atualize o cache
+        if (response && response.status === 200 && response.type === 'basic') {
           const clone = response.clone();
           caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
         }
         return response;
-      });
-    })
+      })
+      .catch(() => {
+        // Se a rede falhar (offline), busca no cache
+        return caches.match(event.request);
+      })
   );
 });
