@@ -3390,7 +3390,7 @@
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); }}>← Simulados</button>
+              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); }}>← Questões</button>
               <h2 className="section-title">{quiz.sigla || quiz.name}</h2>
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
                 Selecione um ou mais assuntos:
@@ -3457,7 +3457,7 @@
                     {pendingTemas.length} assunto{pendingTemas.length > 1 ? 's' : ''} selecionado{pendingTemas.length > 1 ? 's' : ''}
                   </span>
                   <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => handleQuizStart(pendingQuiz, pendingTemas)}>
-                    Iniciar simulado →
+                    Iniciar questões →
                   </button>
                 </div>
               )}
@@ -3556,7 +3556,7 @@
       return (
         <>
           <div className="screen-content">
-            <h2 className="section-title">Simulados</h2>
+            <h2 className="section-title">Questões</h2>
 
             {/* Category tabs */}
             <div className="category-tabs">
@@ -3599,7 +3599,7 @@
             <div className="subject-select-list">
               {Object.entries(filteredQuizzes).length === 0 && (
                 <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
-                  <p>Nenhum simulado encontrado.</p>
+                  <p>Nenhuma questão encontrada.</p>
                 </div>
               )}
               {Object.entries(filteredQuizzes).map(([id, quiz]) => (
@@ -3884,10 +3884,12 @@
       const loadAppData = async () => {
         try {
           // Load data from external JSON files
-          const [materiasRes, flashcardsRes, questoesRes] = await Promise.all([
+          const [materiasRes, flashcardsRes, questoesRes, antigasRes, ineditasRes] = await Promise.all([
             fetch('data/materias.json').catch(() => null),
             fetch('data/flashcards.json').catch(() => null),
-            fetch('data/questoes.json').catch(() => null)
+            fetch('data/questoes.json').catch(() => null),
+            fetch('data/questoes_antigas.json').catch(() => null),
+            fetch('data/questoes_ineditas.json').catch(() => null)
           ]);
 
           let materiasData = [];
@@ -3911,23 +3913,41 @@
             }));
           }
 
+          let questoesArray = [];
+          
           if (questoesRes && questoesRes.ok) {
             const raw = await questoesRes.json();
             const questoes = raw.questoes || raw;
-            const questoesArray = Array.isArray(questoes) ? questoes : [];
-            // Merge questoes as flashcards with quiz format
+            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
+          }
+          
+          if (antigasRes && antigasRes.ok) {
+            const raw = await antigasRes.json();
+            const questoes = raw.questoes || raw;
+            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
+          }
+          
+          if (ineditasRes && ineditasRes.ok) {
+            const raw = await ineditasRes.json();
+            const questoes = raw.questoes || raw;
+            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
+          }
+
+          // Merge questoes as flashcards with quiz format
+          if (questoesArray.length > 0) {
             questoesArray.forEach(q => {
               flashcardsData.push({
                 id: 'q_' + q.id,
                 materia: q.materia,
                 pergunta: q.enunciado,
-                resposta: q.opcoes[q.correta].replace(/^[A-D]\)\s*/, ''),
+                resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
                 explicacao: q.explicacao,
-                opcoes: q.opcoes,
+                opcoes: q.opcoes || [],
                 correta: q.correta,
                 tipo: 'quiz',
                 tema: q.tema,
-                dificuldade: q.dificuldade
+                dificuldade: q.dificuldade,
+                categoria: q.categoria || 'antiga'
               });
             });
           }
@@ -4020,7 +4040,7 @@
       const navItems = [
         { id: 'home', label: 'Início', icon: <IconHome /> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
-        { id: 'quiz', label: 'Simulados', icon: <IconClipboardList /> },
+        { id: 'quiz', label: 'Questões', icon: <IconClipboardList /> },
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
