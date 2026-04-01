@@ -14,7 +14,8 @@
       "correta": 0,
       "explicacao": "O pH baixo (7,28) indica acidemia. O HCO3- reduzido (15) confirma acidose metabólica como problema primário. A PaCO2 baixa (32) representa compensação respiratória apropriada.",
       "tema": "bcm1_acido_base",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 2,
@@ -30,7 +31,8 @@
       "correta": 0,
       "explicacao": "O pH elevado (7,52) com PaCO2 reduzida (28) e HCO3- normal indicam alcalose respiratória primária. A hiperventilação durante exercício intenso em ambiente quente causa perda excessiva de CO2.",
       "tema": "bcm1_acido_base",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 3,
@@ -46,7 +48,8 @@
       "correta": 1,
       "explicacao": "A leucina é um aminoácido de cadeia ramificada essencial para síntese proteica, especialmente crítica em crianças em crescimento. Atua como sinal anabólico via mTOR, estimulando síntese de proteínas musculares e imunológicas.",
       "tema": "bcm1_aminoacidos",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       "correta": 1,
       "explicacao": "Em queimaduras, a lesão térmica danifica o endotélio vascular, especialmente o glicocálix e as tight junctions. Isso aumenta dramaticamente a permeabilidade vascular, permitindo vazamento de plasma para o interstício.",
       "tema": "bcm1_membrana",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 5,
@@ -78,7 +82,8 @@
       "correta": 1,
       "explicacao": "A isquemia interrompe o aporte de oxigênio, impedindo a fosforilação oxidativa. Sem oxigênio, o NADH não pode ser reoxidado, bloqueando o Ciclo de Krebs. A produção de ATP cai drasticamente (2 ATP/glicose vs 30-32 aeróbica).",
       "tema": "bcm1_fosforilacao",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       "correta": 0,
       "explicacao": "A metformina inibe a respiração mitocondrial (Complexo I), reduzindo a reoxidação de NADH e a oxidação de piruvato. Isso causa acúmulo de ácido láctico, levando à miopatia.",
       "tema": "bcm1_enzimas_cinetica",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "modulo": 2
     },
     {
       "id": 7,
@@ -110,7 +116,8 @@
       "correta": 2,
       "explicacao": "O fígado sintetiza protrombina e fatores II, VII, IX e X (vitamina K-dependentes). Sua deficiência causa coagulopatia, contribuindo para hemorragia e piora da descompensação circulatória.",
       "tema": "bcm1_aminoacidos",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 8,
@@ -126,7 +133,8 @@
       "correta": 2,
       "explicacao": "A gota resulta do catabolismo excessivo de purinas via xantina oxidase: purinas → hipoxantina → xantina → ácido úrico. O aumento sérico (>6,8 mg/dL) causa precipitação de cristais e inflamação via NLRP3.",
       "tema": "bcm1_nucleotideos",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 9,
@@ -142,7 +150,8 @@
       "correta": 1,
       "explicacao": "A UGT1A1 conjuga bilirrubina indireta com ácido glucurônico, tornando-a hidrossolúvel. Em neonatos, esta enzima está imatura, resultando em hiperbilirrubinemia não-conjugada (icterícia neonatal).",
       "tema": "bcm1_enzimas_cinetica",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 10,
@@ -158,7 +167,8 @@
       "correta": 2,
       "explicacao": "A vitamina B12 é cofator da metionina sintase, que converte homocisteína em metionina. A deficiência acumula homocisteína, compromete a mielinização (neuropatia) e reduz síntese de DNA (anemia macrocítica).",
       "tema": "bcm1_vitaminas",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 11,
@@ -174,7 +184,8 @@
       "correta": 2,
       "explicacao": "A consolidação de fratura é realizada por osteoblastos que sintetizam a matriz óssea e promovem sua mineralização. Os osteoblastos são então enclausurados na matriz, diferenciando-se em osteócitos.",
       "tema": "bmf1_tec_osseo",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "modulo": 1
     },
     {
       "id": 12,
@@ -190,7 +201,8 @@
       "correta": 2,
       "explicacao": "Na osteoporose, há redução na quantidade total de osso — tanto do componente mineral quanto orgânico — mas a proporção permanece normal. O volume total é reduzido, tornando o osso mais frágil.",
       "tema": "bmf1_tec_osseo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 13,
@@ -206,7 +218,8 @@
       "correta": 1,
       "explicacao": "A cartilagem hialina é avascular e anerva. Os condrócitos ficam isolados em lacunas de densa matriz e têm baixa capacidade mitótica em adultos. Não há células mesenquimais periféricas para regeneração.",
       "tema": "bmf1_tec_cartilaginems",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 14,
@@ -222,7 +235,8 @@
       "correta": 1,
       "explicacao": "O periósteo tem camada fibrosa (externa) e osteogênica (interna). A camada osteogênica contém osteoblastos e células osteoprogenitoras, sendo altamente ativa na formação do calo ósseo após fratura.",
       "tema": "bmf1_tec_osseo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 15,
@@ -238,7 +252,8 @@
       "correta": 1,
       "explicacao": "A vitamina D é essencial para absorção de cálcio e fósforo e mineralização óssea. Sua deficiência causa raquitismo, com desorganização da placa epifisária e alargamento metafisário característico.",
       "tema": "bmf1_tec_cartilaginems",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 16,
@@ -254,7 +269,8 @@
       "correta": 1,
       "explicacao": "Tendões são compostos de tecido conjuntivo denso regular com fibras colágenas tipo I dispostas em feixes paralelos, otimizando transmissão de forças de tensão. A baixa vascularização explica a lenta regeneração.",
       "tema": "bmf1_tec_conjuntivo",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "modulo": 1
     },
     {
       "id": 17,
@@ -270,7 +286,8 @@
       "correta": 1,
       "explicacao": "Em inflamação crônica, fibroblastos são ativados por citocinas (IL-1, TGF-β) e se diferenciam em miofibroblastos. Essas células sintetizam em excesso colágeno tipos I e III, levando à fibrose.",
       "tema": "bmf1_tec_conjuntivo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 18,
@@ -286,7 +303,8 @@
       "correta": 1,
       "explicacao": "A síndrome de Ehlers-Danlos resulta de defeitos na hidroxilação de prolina e lisina (via vitamina C e lisil oxidase), reduzindo a estabilidade do colágeno. Causa frouxidão articular, fragilidade vascular e cicatrização deficiente.",
       "tema": "bmf1_tec_conjuntivo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 19,
@@ -302,7 +320,8 @@
       "correta": 0,
       "explicacao": "O pericôndrio é essencial para nutrição da cartilagem. Inflamação persistente compromete essa nutrição, podendo levar à necrose da cartilagem subjacente e degeneração articular com perda de função.",
       "tema": "bmf1_tec_cartilaginems",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 20,
@@ -318,7 +337,8 @@
       "correta": 2,
       "explicacao": "O cotovelo é uma diartroses uniaxial (gínglimo) com movimento em um eixo (flexão/extensão). A pronação/supinação ocorre principalmente na articulação radioulnar proximal.",
       "tema": "bmf1_sist_articular",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "modulo": 1
     },
     {
       "id": 21,
@@ -334,7 +354,8 @@
       "correta": 3,
       "explicacao": "A PNSP foca em segurança clínica. Os seis objetivos incluem: higienização de mãos, segurança na medicação, prevenção de infecções, prevenção de quedas, prevenção de úlceras e cirurgia segura. Lucratividade não é objetivo da política.",
       "tema": "PNSP - Objetivos",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 22,
@@ -350,7 +371,8 @@
       "correta": 1,
       "explicacao": "Um evento adverso é um incidente que resulta em dano ao paciente causado pela assistência à saúde. A PAVM, embora seja complicação conhecida da ventilação mecânica, representa dano causado pela assistência e deve ser notificada.",
       "tema": "Tipos de Incidentes de Segurança",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 23,
@@ -366,7 +388,8 @@
       "correta": 1,
       "explicacao": "O RT-PCR é o padrão-ouro para diagnóstico de SARS-CoV-2, com sensibilidade de 95-98% na fase aguda (primeiros 5-7 dias). Testes sorológicos só detectam anticorpos dias após a infecção.",
       "tema": "COVID-19 / SARS-CoV-2 - Diagnóstico",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 24,
@@ -382,7 +405,8 @@
       "correta": 1,
       "explicacao": "Ventilação protetora com volume corrente baixo (6-8 mL/kg) reduz barotrauma e lesão pulmonar associada à ventilação (VILI). Volumes elevados aumentam o dano pulmonar em SDRA.",
       "tema": "Protocolos de Manejo de COVID-19",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 25,
@@ -398,7 +422,8 @@
       "correta": 2,
       "explicacao": "O século XIX marcou a revolução científica com a patologia celular de Virchow, a teoria microbiana de Pasteur e os postulados de Koch. Esta era fundou a medicina moderna baseada em evidência.",
       "tema": "História da Medicina - Período Moderno",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 26,
@@ -412,7 +437,8 @@
       "correta": 0,
       "explicacao": "Verdadeiro. O século XX presenciou a descoberta de penicilina (Fleming, 1928), vacina de poliomielite (Salk, 1955) e múltiplos antibióticos. Essas inovações transformaram o tratamento de doenças infecciosas globalmente.",
       "tema": "História da Medicina - Século XX",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "modulo": 1
     },
     {
       "id": 43,
@@ -429,7 +455,8 @@
       "correta": 1,
       "explicacao": "Os DSS são fatores que vão além da biologia individual, incluindo condições socioeconômicas, culturais, étnicas, psicológicas e comportamentais. Eles explicam desigualdades em saúde e orientam políticas de saúde mais equitativas.",
       "tema": "Determinantes Sociais de Saúde",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 44,
@@ -446,7 +473,8 @@
       "correta": 2,
       "explicacao": "O MCCP propõe que a consulta seja centrada no paciente como um todo, não apenas na doença. Integra experiência da doença, entendimento do contexto biopsicossocial, elaboração de diagnóstico integrado e um plano conjunto de cuidado com o paciente.",
       "tema": "MCCP - Conceitos",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 45,
@@ -463,7 +491,8 @@
       "correta": 2,
       "explicacao": "O ACS tem atribuição exclusiva de visitar cada domicílio pelo menos uma vez por mês e ser o elo entre a comunidade e a equipe de saúde. Ele cadastra famílias, identifica problemas de saúde e estimula práticas saudáveis.",
       "tema": "ESF - Atribuições da Equipe",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 46,
@@ -1598,7 +1627,8 @@
       "correta": 2,
       "explicacao": "Na inibição competitiva, o inibidor ocupa o mesmo sítio ativo que o substrato. Como essa ligação é reversível, excesso de substrato desloca o inibidor por competição de massa, restaurando a Vmax original. Por isso o Km aparente aumenta (maior [S] necessário para atingir 50% Vmax), mas a Vmax não muda.",
       "tema": "bcm1_enzimas_cinetica",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 92,
@@ -1615,7 +1645,8 @@
       "correta": 1,
       "explicacao": "A vitamina C (ácido ascórbico) é cofator essencial das enzimas prolil-hidroxilase e lisil-hidroxilase. Sem hidroxilação adequada de prolina e lisina, as cadeias de tropocolágeno não formam a tripla hélice estável. O resultado é colágeno fraco, levando às manifestações clínicas do escorbuto.",
       "tema": "bcm1_vitaminas",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 2
     },
     {
       "id": 93,
@@ -1632,7 +1663,8 @@
       "correta": 1,
       "explicacao": "O alopurinol é análogo estrutural de hipoxantina. É oxidado pela própria xantina oxidase a aloxantina (oxipurinol), que inibe irreversivelmente a enzima (mecanismo suicídio). Bloqueia a conversão hipoxantina→xantina→ácido úrico, reduzindo hiperuricemia.",
       "tema": "bcm1_nucleotideos",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "modulo": 2
     },
     {
       "id": 94,
@@ -1649,7 +1681,8 @@
       "correta": 2,
       "explicacao": "O DNP é um desacoplador: como ácido fraco lipofílico, carreia prótons (H⁺) de volta ao interior mitocondrial sem passar pela ATP sintase. O gradiente de prótons criado pela cadeia respiratória é dissipado como calor. A célula compensa aumentando a oxidação de combustíveis, gerando hipertermia fatal.",
       "tema": "bcm1_fosforilacao",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "modulo": 2
     },
     {
       "id": 95,
@@ -1666,7 +1699,8 @@
       "correta": 2,
       "explicacao": "A bomba Na⁺/K⁺-ATPase hidrolisa uma molécula de ATP por ciclo para exportar 3 Na⁺ e importar 2 K⁺, contra seus gradientes eletroquímicos. É transporte ativo primário que mantém o potencial de membrana e o volume celular, consumindo ~30% do ATP celular em repouso.",
       "tema": "bcm1_membrana",
-      "dificuldade": 1
+      "dificuldade": 1,
+      "modulo": 2
     },
     {
       "id": 96,
@@ -1683,7 +1717,8 @@
       "correta": 1,
       "explicacao": "Os mastócitos armazenam histamina em grânulos. Sua liberação provoca vasodilatação (rubor, calor) e aumento da permeabilidade vascular (edema). A histamina age em receptores H1 do endotélio, permitindo extravasamento de plasma — base fisiopatológica da urticária e angioedema.",
       "tema": "bmf1_tec_conjuntivo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 97,
@@ -1700,7 +1735,8 @@
       "correta": 2,
       "explicacao": "Na cicatrização, fibroblastos são ativados por TGF-β a se diferenciar em miofibroblastos. Essas células sintetizam grandes quantidades de colágeno tipo I e III e contraem a ferida. Quando a ativação persiste além do necessário, ocorre fibrose excessiva: cicatriz hipertrófica ou queloide.",
       "tema": "bmf1_tec_conjuntivo",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 98,
@@ -1717,7 +1753,8 @@
       "correta": 2,
       "explicacao": "A fibrocartilagem (meniscos, discos intervertebrais, sínfise púbica) é avascular — recebe nutrição por difusão a partir do líquido sinovial ou vasos periféricos. Tem poucos condrócitos dispersos em lacunas entre feixes de colágeno tipo I. Sem suprimento vascular direto, a regeneração é extremamente limitada.",
       "tema": "bmf1_tec_cartilaginems",
-      "dificuldade": 2
+      "dificuldade": 2,
+      "modulo": 1
     },
     {
       "id": 99,
@@ -1734,7 +1771,8 @@
       "correta": 1,
       "explicacao": "O remodelamento ósseo segue a sequência ARF: Ativação (sinalização por osteócitos/RANKL) → Reabsorção (osteoclastos cavam a lacuna de Howship) → Formação (osteoblastos preenchem com osteoide que mineraliza). Na osteoporose, reabsorção supera formação. T-score ≤ -2,5 define osteoporose.",
       "tema": "bmf1_tec_osseo",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "modulo": 1
     },
     {
       "id": 100,
@@ -1751,7 +1789,8 @@
       "correta": 1,
       "explicacao": "Glicocorticoides upregulam atrogenes (MuRF1 e atrogina-1/MAFbx) que codificam ubiquitina ligases. Essas enzimas marcam proteínas musculares para degradação pelo proteassoma. As fibras tipo II (glicolíticas, rápidas) são preferencialmente afetadas, causando fraqueza proximal — clássica miopatia esteroidal.",
       "tema": "bcm1_aminoacidos",
-      "dificuldade": 3
+      "dificuldade": 3,
+      "modulo": 2
     }
   ]
 }

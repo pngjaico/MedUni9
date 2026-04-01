@@ -288,7 +288,9 @@
       transform: translateY(-50%);
       color: var(--text-secondary);
       pointer-events: none;
-      font-size: 15px;
+      display: flex;
+      align-items: center;
+      line-height: 0;
     }
 
     /* Category tabs for questions */
@@ -618,6 +620,8 @@
       flex-direction: column;
       align-items: center;
       gap: 2px;
+      min-width: 0;
+      overflow: hidden;
     }
 
     .stat-icon {
@@ -644,6 +648,11 @@
       text-transform: uppercase;
       letter-spacing: 0.6px;
       font-weight: 600;
+      width: 100%;
+      text-align: center;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .daily-suggestion {
@@ -1684,6 +1693,7 @@
       pointer-events: none;
       display: flex;
       align-items: center;
+      line-height: 0;
     }
 
     /* Semester tab filter */
@@ -3955,14 +3965,16 @@
           // Fallback if no JSON files loaded
           if (materiasData.length === 0) {
             materiasData = [
-              { id: 'sus', nome: 'Princípios do SUS', sigla: 'SUS', icon: '🏥', modulo: 1, ativo: true, cor: '#6366F1' },
-              { id: 'semiologia1', nome: 'Semiologia 1', sigla: 'SEMIO1', icon: '🩺', modulo: 1, ativo: true, cor: '#C0392B' },
-              { id: 'bmf1', nome: 'BMF 1 — Muscular e Ósseo', sigla: 'BMF1', icon: '🦴', modulo: 1, ativo: true, cor: '#E85D75' },
-              { id: 'pmh', nome: 'PMH', sigla: 'PMH', icon: '📋', modulo: 1, ativo: true, cor: '#8B5CF6' },
-              { id: 'bmf2', nome: 'BMF 2 — Cardiopulmonar', sigla: 'BMF2', icon: '❤️', modulo: 2, ativo: true, cor: '#EF4444' },
-              { id: 'mad', nome: 'MAD — Mecanismos de Agressão e Defesa', sigla: 'MAD', icon: '🛡️', modulo: 2, ativo: true, cor: '#F59E0B' },
-              { id: 'indicadores', nome: 'Indicadores em Saúde', sigla: 'IND', icon: '📊', modulo: 2, ativo: true, cor: '#10B981' },
-              { id: 'bcm1', nome: 'BCM — Bases Celulares e Moleculares', sigla: 'BCM1', icon: '🧬', modulo: 2, ativo: true, cor: '#4A90E2' },
+              { id: 'sus', nome: 'Princípios e Organização do SUS', sigla: 'SUS', semestre: 1, cor: '#6366F1' },
+              { id: 'semiologia1', nome: 'Semiologia Médica 1 — Sistema Locomotor', sigla: 'SEMIO1', semestre: 1, cor: '#C0392B' },
+              { id: 'bmf1', nome: 'Bases Morfofuncionais 1 — Sistema Locomotor', sigla: 'BMF1', semestre: 1, cor: '#E85D75' },
+              { id: 'pmh', nome: 'Práticas nas Humanidades Médicas', sigla: 'PMH', semestre: 1, cor: '#8B5CF6' },
+              { id: 'bmf2', nome: 'Bases Morfofuncionais 2 — Sistema Cardiopulmonar', sigla: 'BMF2', semestre: 2, cor: '#EF4444' },
+              { id: 'mad1', nome: 'Mecanismos de Agressão e Defesa 1 — Imunologia', sigla: 'MAD1', semestre: 2, cor: '#F59E0B' },
+              { id: 'indicadores', nome: 'Indicadores de Saúde e Epidemiologia', sigla: 'IND', semestre: 2, cor: '#10B981' },
+              { id: 'bcm1', nome: 'Bases Moleculares e Celulares', sigla: 'BCM1', semestre: 2, cor: '#4A90E2' },
+              { id: 'semiologia2', nome: 'Semiologia Médica 2 — Sistema Cardiopulmonar', sigla: 'SEMIO2', semestre: 2, cor: '#C0392B' },
+              { id: 'mad2', nome: 'Mecanismos de Agressão e Defesa 2 — Patologia Geral', sigla: 'MAD2', semestre: 3, cor: '#EF4444' },
             ];
           }
 
@@ -4040,7 +4052,7 @@
       const navItems = [
         { id: 'home', label: 'Início', icon: <IconHome /> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
-        { id: 'quiz', label: 'Questões', icon: <IconClipboardList /> },
+        { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
