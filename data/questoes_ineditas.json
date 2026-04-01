@@ -1582,6 +1582,176 @@
       "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
       "ano": 2024,
       "modulo": 1
+    },
+    {
+      "id": 91,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma enzima apresenta Km de 0,5 mM para seu substrato. Ao adicionar um inibidor competitivo, o Km aparente sobe para 2 mM enquanto a Vmax permanece inalterada. O que ocorre quando a concentração de substrato é aumentada progressivamente na presença desse inibidor?",
+      "opcoes": [
+        "A) A inibição se torna permanente e irreversível",
+        "B) A atividade enzimática permanece zero independentemente da concentração de substrato",
+        "C) O substrato compete pelo sítio ativo e, em altas concentrações, supera a inibição restaurando a atividade máxima",
+        "D) O inibidor é degradado pelo substrato",
+        "E) A Vmax diminui proporcionalmente ao aumento do substrato"
+      ],
+      "correta": 2,
+      "explicacao": "Na inibição competitiva, o inibidor ocupa o mesmo sítio ativo que o substrato. Como essa ligação é reversível, excesso de substrato desloca o inibidor por competição de massa, restaurando a Vmax original. Por isso o Km aparente aumenta (maior [S] necessário para atingir 50% Vmax), mas a Vmax não muda.",
+      "tema": "bcm1_enzimas_cinetica",
+      "dificuldade": 2
+    },
+    {
+      "id": 92,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com escorbuto apresenta feridas que não cicatrizam, sangramento gengival e equimoses. A deficiência de vitamina C compromete qual etapa específica da biossíntese de colágeno?",
+      "opcoes": [
+        "A) Síntese de glicina no ribossomo",
+        "B) Hidroxilação de resíduos de prolina e lisina pela prolil e lisil-hidroxilase",
+        "C) Clivagem do propeptídeo extracelular",
+        "D) Formação das fibras de colágeno no espaço intersticial",
+        "E) Transporte do procolágeno pelo complexo de Golgi"
+      ],
+      "correta": 1,
+      "explicacao": "A vitamina C (ácido ascórbico) é cofator essencial das enzimas prolil-hidroxilase e lisil-hidroxilase. Sem hidroxilação adequada de prolina e lisina, as cadeias de tropocolágeno não formam a tripla hélice estável. O resultado é colágeno fraco, levando às manifestações clínicas do escorbuto.",
+      "tema": "bcm1_vitaminas",
+      "dificuldade": 2
+    },
+    {
+      "id": 93,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com gota crônica em uso de alopurinol apresenta redução significativa do ácido úrico sérico. O alopurinol atua como análogo estrutural de qual substrato, inibindo qual enzima?",
+      "opcoes": [
+        "A) Análogo de adenosina; inibe adenosina desaminase",
+        "B) Análogo de hipoxantina; inibe xantina oxidase de forma competitiva e irreversível (suicídio enzimático)",
+        "C) Análogo de guanina; inibe HGPRT",
+        "D) Análogo de uracila; inibe timidilato sintase",
+        "E) Análogo de xantina; inibe purina nucleosídeo fosforilase"
+      ],
+      "correta": 1,
+      "explicacao": "O alopurinol é análogo estrutural de hipoxantina. É oxidado pela própria xantina oxidase a aloxantina (oxipurinol), que inibe irreversivelmente a enzima (mecanismo suicídio). Bloqueia a conversão hipoxantina→xantina→ácido úrico, reduzindo hiperuricemia.",
+      "tema": "bcm1_nucleotideos",
+      "dificuldade": 3
+    },
+    {
+      "id": 94,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "O 2,4-dinitrofenol (DNP) foi usado ilegalmente como emagrecedor e causa mortes por hipertermia. Qual é o mecanismo bioquímico responsável pelo aumento de temperatura?",
+      "opcoes": [
+        "A) Inibe a ATP sintase diretamente, acumulando prótons que liberam calor",
+        "B) Bloqueia a cadeia transportadora de elétrons no complexo III",
+        "C) Transporta prótons pela membrana mitocondrial interna dissipando o gradiente eletroquímico como calor em vez de ATP",
+        "D) Ativa a glicólise anaeróbia produzindo lactato e calor",
+        "E) Inibe o transportador de ADP/ATP da membrana interna"
+      ],
+      "correta": 2,
+      "explicacao": "O DNP é um desacoplador: como ácido fraco lipofílico, carreia prótons (H⁺) de volta ao interior mitocondrial sem passar pela ATP sintase. O gradiente de prótons criado pela cadeia respiratória é dissipado como calor. A célula compensa aumentando a oxidação de combustíveis, gerando hipertermia fatal.",
+      "tema": "bcm1_fosforilacao",
+      "dificuldade": 3
+    },
+    {
+      "id": 95,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma hemácia mantém K⁺ intracelular ~140 mEq/L contra ~4 mEq/L no plasma, e Na⁺ intracelular baixo, ao contrário do plasma. Qual mecanismo mantém esse gradiente iônico?",
+      "opcoes": [
+        "A) Difusão facilitada por aquaporinas",
+        "B) Osmose passiva pelo gradiente de pressão oncótica",
+        "C) Bomba Na⁺/K⁺-ATPase que consome ATP para exportar 3 Na⁺ e importar 2 K⁺ por ciclo",
+        "D) Canal iônico voltagem-dependente de K⁺",
+        "E) Co-transportador NKCC2"
+      ],
+      "correta": 2,
+      "explicacao": "A bomba Na⁺/K⁺-ATPase hidrolisa uma molécula de ATP por ciclo para exportar 3 Na⁺ e importar 2 K⁺, contra seus gradientes eletroquímicos. É transporte ativo primário que mantém o potencial de membrana e o volume celular, consumindo ~30% do ATP celular em repouso.",
+      "tema": "bcm1_membrana",
+      "dificuldade": 1
+    },
+    {
+      "id": 96,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Durante reação alérgica aguda, mastócitos do tecido conjuntivo dérmico liberam histamina em resposta à ligação de IgE ao receptor FcεRI. Qual é a consequência imediata dessa degranulação no tecido local?",
+      "opcoes": [
+        "A) Vasoconstrição e redução da permeabilidade capilar",
+        "B) Vasodilatação e aumento da permeabilidade vascular, causando edema e eritema",
+        "C) Ativação de fibroblastos com deposição de colágeno",
+        "D) Recrutamento de linfócitos T citotóxicos",
+        "E) Inibição da fagocitose por macrófagos residentes"
+      ],
+      "correta": 1,
+      "explicacao": "Os mastócitos armazenam histamina em grânulos. Sua liberação provoca vasodilatação (rubor, calor) e aumento da permeabilidade vascular (edema). A histamina age em receptores H1 do endotélio, permitindo extravasamento de plasma — base fisiopatológica da urticária e angioedema.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2
+    },
+    {
+      "id": 97,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Após cirurgia abdominal, paciente desenvolve cicatriz hipertrófica com excesso de colágeno. Qual célula do tecido conjuntivo é a principal responsável pela produção excessiva de colágeno nessa cicatriz?",
+      "opcoes": [
+        "A) Mastócito",
+        "B) Macrófago M2",
+        "C) Miofibroblasto (fibroblasto ativado por TGF-β)",
+        "D) Plasmócito",
+        "E) Eosinófilo"
+      ],
+      "correta": 2,
+      "explicacao": "Na cicatrização, fibroblastos são ativados por TGF-β a se diferenciar em miofibroblastos. Essas células sintetizam grandes quantidades de colágeno tipo I e III e contraem a ferida. Quando a ativação persiste além do necessário, ocorre fibrose excessiva: cicatriz hipertrófica ou queloide.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2
+    },
+    {
+      "id": 98,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um atleta sofre lesão no menisco do joelho. O cirurgião explica que a recuperação será lenta porque o menisco é formado por fibrocartilagem. Qual característica histológica explica sua baixa capacidade regenerativa?",
+      "opcoes": [
+        "A) Ausência de condrócitos e presença exclusiva de fibroblastos",
+        "B) Rica vascularização que impede a difusão de nutrientes",
+        "C) É avascular e com poucos condrócitos em lacunas, dependendo de difusão lenta para nutrição",
+        "D) Presença de canais de Havers que limitam a migração celular",
+        "E) Alto teor de proteoglicanos que inibe mitose dos condrócitos"
+      ],
+      "correta": 2,
+      "explicacao": "A fibrocartilagem (meniscos, discos intervertebrais, sínfise púbica) é avascular — recebe nutrição por difusão a partir do líquido sinovial ou vasos periféricos. Tem poucos condrócitos dispersos em lacunas entre feixes de colágeno tipo I. Sem suprimento vascular direto, a regeneração é extremamente limitada.",
+      "tema": "bmf1_tec_cartilaginems",
+      "dificuldade": 2
+    },
+    {
+      "id": 99,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "DXA de paciente de 70 anos mostra T-score de -2,8 com reativação de unidades multicelulares básicas (BMUs). Quais células formam o BMU e qual é a sequência correta do remodelamento ósseo?",
+      "opcoes": [
+        "A) Osteócitos → osteoblastos, sem reabsorção prévia",
+        "B) Osteoclastos (reabsorção) → osteoblastos (formação) — sequência ARF: Ativação-Reabsorção-Formação",
+        "C) Osteoblastos (formação) → osteoclastos (reabsorção) — sequência invertida",
+        "D) Apenas osteócitos que sinalizam apoptose sem remodelamento",
+        "E) Macrófagos → condrócitos → osteoblastos"
+      ],
+      "correta": 1,
+      "explicacao": "O remodelamento ósseo segue a sequência ARF: Ativação (sinalização por osteócitos/RANKL) → Reabsorção (osteoclastos cavam a lacuna de Howship) → Formação (osteoblastos preenchem com osteoide que mineraliza). Na osteoporose, reabsorção supera formação. T-score ≤ -2,5 define osteoporose.",
+      "tema": "bmf1_tec_osseo",
+      "dificuldade": 3
+    },
+    {
+      "id": 100,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Paciente de 45 anos em uso crônico de corticoides para lúpus desenvolve fraqueza muscular proximal e enzimas musculares elevadas. Biópsia mostra atrofia de fibras tipo II. Qual mecanismo bioquímico explica a miopatia induzida por corticoides?",
+      "opcoes": [
+        "A) Inibição da fosforilação oxidativa mitocondrial",
+        "B) Ativação do sistema ubiquitina-proteassoma via atrogenes (MuRF1/atrogina-1), causando proteólise muscular",
+        "C) Bloqueio da síntese de glicogênio muscular",
+        "D) Inibição da recaptação de cálcio pelo retículo sarcoplasmático",
+        "E) Deficiência de carnitina por inibição do transporte mitocondrial"
+      ],
+      "correta": 1,
+      "explicacao": "Glicocorticoides upregulam atrogenes (MuRF1 e atrogina-1/MAFbx) que codificam ubiquitina ligases. Essas enzimas marcam proteínas musculares para degradação pelo proteassoma. As fibras tipo II (glicolíticas, rápidas) são preferencialmente afetadas, causando fraqueza proximal — clássica miopatia esteroidal.",
+      "tema": "bcm1_aminoacidos",
+      "dificuldade": 3
     }
   ]
 }

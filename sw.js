@@ -1,5 +1,5 @@
 // MedUni9 Service Worker v4.0 — Security Hardened
-const CACHE_NAME = 'meduni9-v4';
+const CACHE_NAME = 'meduni9-v5';
 
 // Files to cache (NEVER cache sensitive files)
 const ASSETS = [
@@ -9,6 +9,8 @@ const ASSETS = [
   '/data/materias.json',
   '/data/flashcards.json',
   '/data/questoes.json',
+  '/data/questoes_ineditas.json',
+  '/data/questoes_antigas.json',
   'https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap'
 ];
 
