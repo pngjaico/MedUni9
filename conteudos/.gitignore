@@ -1,0 +1,32 @@
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários de editores
+*.tmp
+*.bak
+*~
+.*.swp
+.*.swo
+
+# Arquivos Office temporários
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Arquivos binários grandes (converter para .md antes de versionar)
+*.docx
+*.xlsx
+*.pptx
+*.ppt
+*.xls
+*.doc
+
+# PDFs (opcional: remova a linha abaixo se quiser versionar PDFs)
+# *.pdf
+
+# Pasta de rascunhos locais
+_rascunhos/
+_temp/
+_drafts/
