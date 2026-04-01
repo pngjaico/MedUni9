@@ -1,61 +1,68 @@
 {
-  "_info": "Códigos de ativação do MedUni9. Edite este arquivo para adicionar/remover códigos.",
-  "_formato": "Cada código tem: email (null = não usado), plano (basico/completo/vitalicio), ativo (true/false), dispositivos (array de fingerprints)",
+  "_info": "Códigos de ativação do MedUni9. As chaves são hashes SHA-256 (salt: meduni9_2026_ + código). NÃO é possível reverter o hash para descobrir o código original.",
+  "_salt": "meduni9_2026_",
   "codigos": {
-    "DEMO-DEMO-DEMO": {
-      "email": null,
+    "43c1ab3bad3dcdd13dae6bdf6ce0f45873f902f10d197d609a70b20549885906": {
       "plano": "vitalicio",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 99,
-      "nota": "Código de demonstração - aceita qualquer um"
-    },
-    "BETA-TEST-0001": {
+      "dispositivos": [],
       "email": null,
+      "expira": null,
+      "nota": "Código de demonstração"
+    },
+    "ccb8727f18aee014099f18bfbec7916dadee4f739d1510039696244a4e178113": {
       "plano": "vitalicio",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 20,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2027-12-31",
       "nota": "Beta tester 1"
     },
-    "BETA-TEST-0002": {
-      "email": null,
+    "9cbcd0ec7fb1499e1c98847918479694e8f37e2d864938abda8c04302e50bf26": {
       "plano": "vitalicio",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2027-12-31",
       "nota": "Beta tester 2"
     },
-    "BETA-TEST-0003": {
-      "email": null,
+    "1ea3efff015a134ef0ac8fe73f40d0e55cfb21821e5efa24c8cb65075ffff6ce": {
       "plano": "vitalicio",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2027-12-31",
       "nota": "Beta tester 3"
     },
-    "LANC-2026-0001": {
-      "email": null,
+    "0b994d242ae5e7ccaf06a963d7d6144e0ee03cad560b59e46be912c2d6a70ec7": {
       "plano": "basico",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
       "nota": "Lançamento - 1 semestre"
     },
-    "LANC-2026-0002": {
-      "email": null,
+    "9021a644d3cbf6a43600192faa464919017f67b85313cb5cd6107ddd94756d06": {
       "plano": "basico",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
       "nota": "Lançamento - 1 semestre"
     },
-    "VITA-2026-0001": {
-      "email": null,
+    "fa23c80abe33b8fe3d6dc2f246cc389354a6378f1600d664aac25866580a9720": {
       "plano": "vitalicio",
       "ativo": true,
-      "dispositivos": [],
       "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
       "nota": "Vitalício"
     }
   }

@@ -2309,6 +2309,64 @@
       );
     };
 
+    // ===================== Security Utilities =====================
+    const CODE_SALT = 'meduni9_2026_';
+    const MAX_ATTEMPTS = 5;
+    const LOCKOUT_BASE_MS = 60000; // 1 minute base lockout
+
+    async function hashCode(code) {
+      const encoder = new TextEncoder();
+      const data = encoder.encode(CODE_SALT + code);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    function getRateLimitState() {
+      try {
+        const raw = localStorage.getItem('meduni9_rl');
+        if (!raw) return { attempts: 0, lockedUntil: 0, history: [] };
+        return JSON.parse(raw);
+      } catch { return { attempts: 0, lockedUntil: 0, history: [] }; }
+    }
+
+    function setRateLimitState(state) {
+      localStorage.setItem('meduni9_rl', JSON.stringify(state));
+    }
+
+    function checkRateLimit() {
+      const state = getRateLimitState();
+      const now = Date.now();
+      if (state.lockedUntil > now) {
+        const remainSec = Math.ceil((state.lockedUntil - now) / 1000);
+        const mins = Math.floor(remainSec / 60);
+        const secs = remainSec % 60;
+        return { allowed: false, message: `Muitas tentativas. Tente novamente em ${mins}m${secs}s.` };
+      }
+      // Clear old attempts (older than 10 minutes)
+      state.history = (state.history || []).filter(t => now - t < 600000);
+      if (state.history.length >= MAX_ATTEMPTS) {
+        // Exponential backoff: 1min, 2min, 4min, 8min, 16min, max 30min
+        const lockoutMs = Math.min(LOCKOUT_BASE_MS * Math.pow(2, state.attempts - MAX_ATTEMPTS), 1800000);
+        state.lockedUntil = now + lockoutMs;
+        state.attempts++;
+        setRateLimitState(state);
+        return { allowed: false, message: `Muitas tentativas. Bloqueado por ${Math.ceil(lockoutMs/60000)} minutos.` };
+      }
+      return { allowed: true };
+    }
+
+    function recordFailedAttempt() {
+      const state = getRateLimitState();
+      state.history = [...(state.history || []), Date.now()];
+      state.attempts = (state.attempts || 0) + 1;
+      setRateLimitState(state);
+    }
+
+    function resetRateLimit() {
+      localStorage.removeItem('meduni9_rl');
+    }
+
     // Auth Screen
     const AuthScreen = ({ onAuthSuccess }) => {
       const [step, setStep] = useState(1);
@@ -2318,6 +2376,7 @@
       const [fingerprint, setFingerprint] = useState('');
       const [error, setError] = useState('');
       const [loading, setLoading] = useState(false);
+      const [validatedCode, setValidatedCode] = useState(null);
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
@@ -2341,11 +2400,72 @@
           setError('Código inválido. Use o formato XXXX-XXXX-XXXX');
           return;
         }
+
+        // Rate limit check
+        const rl = checkRateLimit();
+        if (!rl.allowed) {
+          setError(rl.message);
+          return;
+        }
+
         setLoading(true);
-        setTimeout(() => {
+        try {
+          // Hash the code
+          const codeHash = await hashCode(code);
+
+          // Fetch codes database
+          const response = await fetch('data/codigos.json?_=' + Date.now());
+          if (!response.ok) throw new Error('Erro ao verificar código');
+          const data = await response.json();
+
+          const codeEntry = data.codigos[codeHash];
+
+          // Validate code exists
+          if (!codeEntry) {
+            recordFailedAttempt();
+            setLoading(false);
+            setError('Código de acesso inválido.');
+            return;
+          }
+
+          // Validate code is active
+          if (!codeEntry.ativo) {
+            recordFailedAttempt();
+            setLoading(false);
+            setError('Este código foi desativado.');
+            return;
+          }
+
+          // Validate expiration
+          if (codeEntry.expira) {
+            const expirationDate = new Date(codeEntry.expira);
+            if (new Date() > expirationDate) {
+              recordFailedAttempt();
+              setLoading(false);
+              setError('Este código expirou em ' + expirationDate.toLocaleDateString('pt-BR') + '.');
+              return;
+            }
+          }
+
+          // Validate device limit
+          const registeredDevices = codeEntry.dispositivos || [];
+          if (!registeredDevices.includes(fingerprint) && registeredDevices.length >= codeEntry.maxDispositivos) {
+            recordFailedAttempt();
+            setLoading(false);
+            setError('Limite de dispositivos atingido para este código.');
+            return;
+          }
+
+          // Code is valid!
+          resetRateLimit();
+          setValidatedCode({ hash: codeHash, ...codeEntry });
           setLoading(false);
           setStep(2);
-        }, 1000);
+
+        } catch (err) {
+          setLoading(false);
+          setError('Erro ao verificar código. Verifique sua conexão.');
+        }
       };
 
       const handleEmailSubmit = async () => {
@@ -2354,6 +2474,17 @@
           setError('Email é obrigatório');
           return;
         }
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+          setError('Email inválido');
+          return;
+        }
+
+        // Validate email against code's associated email
+        if (validatedCode && validatedCode.email && validatedCode.email !== email) {
+          setError('Este código está associado a outro email.');
+          return;
+        }
+
         setLoading(true);
         setTimeout(() => {
           setLoading(false);
@@ -2366,12 +2497,23 @@
           setError('Selecione seu módulo');
           return;
         }
+
+        // Generate session integrity token
+        const sessionToken = btoa(JSON.stringify({
+          ts: Date.now(),
+          fp: fingerprint,
+          ch: validatedCode?.hash?.substring(0, 8) || ''
+        }));
+
         const userData = {
           email,
-          code,
+          codeHash: validatedCode?.hash?.substring(0, 8) || '',
+          plano: validatedCode?.plano || 'basico',
           semestre: semester,
+          modulo: semester,
           deviceId: fingerprint,
-          loginDate: new Date().toISOString()
+          loginDate: new Date().toISOString(),
+          sessionToken
         };
         localStorage.setItem('meduni9_user', JSON.stringify(userData));
         onAuthSuccess(userData);
@@ -2379,69 +2521,67 @@
 
       return (
         <div className="app-container">
-          <div className="screen-content">
-            <div className="auth-screen">
-              <div className="auth-header">
-                <div className="auth-logo">🩺</div>
-                <h1 className="auth-title">MedUni9</h1>
-                <p className="auth-subtitle">Plataforma de Estudos Meduni9</p>
-              </div>
+          <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', height: '100%', paddingBottom: '40px' }}>
+            <div className="auth-header">
+              <div className="auth-logo">🩺</div>
+              <h1 className="auth-title">MedUni9</h1>
+              <p className="auth-subtitle">Plataforma de estudos para medicina</p>
+            </div>
 
+            <div style={{ maxWidth: '400px', width: '100%', margin: '0 auto' }}>
               {/* Step 1: Code */}
               <div className={`auth-step ${step === 1 ? 'active' : ''}`}>
-                <h2 style={{ fontSize: '18px', marginBottom: '24px', color: 'var(--text-primary)' }}>
-                  Etapa 1: Código de Ativação
+                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
+                  Etapa 1: Código de Acesso
                 </h2>
-                <div className="form-group">
-                  <label className="form-label">Digite seu código</label>
-                  <input
-                    type="text"
-                    className="form-input"
-                    placeholder="XXXX-XXXX-XXXX"
-                    value={code}
-                    onChange={handleCodeChange}
-                    maxLength="14"
-                  />
-                  {error && step === 1 && <div className="error-message">{error}</div>}
-                </div>
+                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
+                  Digite seu código de ativação no formato XXXX-XXXX-XXXX
+                </p>
+                {error && step === 1 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
+                <input
+                  className="form-input"
+                  type="text"
+                  placeholder="XXXX-XXXX-XXXX"
+                  value={code}
+                  onChange={handleCodeChange}
+                  maxLength={14}
+                  style={{ textAlign: 'center', fontSize: '20px', letterSpacing: '2px', marginBottom: '16px' }}
+                />
                 <button
                   className="btn btn-primary"
                   onClick={handleCodeSubmit}
                   disabled={loading}
                 >
-                  {loading ? '...' : 'Continuar'}
+                  {loading ? 'Verificando...' : 'Continuar'}
                 </button>
               </div>
 
               {/* Step 2: Email */}
               <div className={`auth-step ${step === 2 ? 'active' : ''}`}>
-                <h2 style={{ fontSize: '18px', marginBottom: '24px', color: 'var(--text-primary)' }}>
-                  Etapa 2: Email
+                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
+                  Etapa 2: Seu Email
                 </h2>
-                <div className="form-group">
-                  <label className="form-label">Email da Uninove</label>
-                  <input
-                    type="email"
-                    className="form-input"
-                    placeholder="seu.email@uninove.br"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                  />
-                  {error && step === 2 && <div className="error-message">{error}</div>}
-                </div>
-                <button
-                  className="btn btn-primary"
-                  onClick={handleEmailSubmit}
-                  disabled={loading}
-                >
-                  {loading ? '...' : 'Continuar'}
+                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
+                  Informe seu email institucional ou pessoal
+                </p>
+                {error && step === 2 && <div className="error-message">{error}</div>}
+                <input
+                  className="form-input"
+                  type="email"
+                  placeholder="seu@email.com"
+                  value={email}
+                  onChange={e => setEmail(e.target.value)}
+                  style={{ marginBottom: '16px' }}
+                />
+                <button className="btn btn-primary" onClick={handleEmailSubmit} disabled={loading}>
+                  {loading ? 'Verificando...' : 'Continuar'}
                 </button>
                 <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setError(''); }}>
                   Voltar
                 </button>
               </div>
 
-              {/* Step 3: Semester */}
+              {/* Step 3: Module */}
               <div className={`auth-step ${step === 3 ? 'active' : ''}`}>
                 <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
                   Etapa 3: Seu Módulo
