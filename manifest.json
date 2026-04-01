@@ -1,0 +1,21 @@
+{
+  "name": "MedUni9 - Medicina Uninove",
+  "short_name": "MedUni9",
+  "description": "Plataforma de estudos exclusiva para alunos de medicina da Uninove Vergueiro",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A1628",
+  "theme_color": "#00B4D8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%230A1628' rx='32' width='192' height='192'/><text x='96' y='130' font-size='100' text-anchor='middle'>🩺</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "medical"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}

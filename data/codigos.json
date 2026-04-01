@@ -1,0 +1,62 @@
+{
+  "_info": "Códigos de ativação do MedUni9. Edite este arquivo para adicionar/remover códigos.",
+  "_formato": "Cada código tem: email (null = não usado), plano (basico/completo/vitalicio), ativo (true/false), dispositivos (array de fingerprints)",
+  "codigos": {
+    "DEMO-DEMO-DEMO": {
+      "email": null,
+      "plano": "vitalicio",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 99,
+      "nota": "Código de demonstração - aceita qualquer um"
+    },
+    "BETA-TEST-0001": {
+      "email": null,
+      "plano": "vitalicio",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 20,
+      "nota": "Beta tester 1"
+    },
+    "BETA-TEST-0002": {
+      "email": null,
+      "plano": "vitalicio",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 2,
+      "nota": "Beta tester 2"
+    },
+    "BETA-TEST-0003": {
+      "email": null,
+      "plano": "vitalicio",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 2,
+      "nota": "Beta tester 3"
+    },
+    "LANC-2026-0001": {
+      "email": null,
+      "plano": "basico",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 2,
+      "nota": "Lançamento - 1 semestre"
+    },
+    "LANC-2026-0002": {
+      "email": null,
+      "plano": "basico",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 2,
+      "nota": "Lançamento - 1 semestre"
+    },
+    "VITA-2026-0001": {
+      "email": null,
+      "plano": "vitalicio",
+      "ativo": true,
+      "dispositivos": [],
+      "maxDispositivos": 2,
+      "nota": "Vitalício"
+    }
+  }
+}

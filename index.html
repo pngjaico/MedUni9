@@ -1,0 +1,3999 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#00B4D8">
+  <meta name="description" content="MedUni9 - Plataforma de estudos para alunos de medicina da Uninove Vergueiro">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%2300B4D8' width='192' height='192'/><text x='96' y='120' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>🩺</text></svg>">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%2300B4D8' width='192' height='192'/><text x='96' y='120' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>🩺</text></svg>">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      font-family: 'DM Sans', sans-serif;
+      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      background-attachment: fixed;
+      color: #E5E7EB;
+      overflow: hidden;
+    }
+
+    #root {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Typography */
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+    }
+
+    /* Colors & Design Tokens */
+    :root {
+      --primary: #00B4D8;
+      --success: #10B981;
+      --warning: #F59E0B;
+      --error: #EF4444;
+      --purple: #8B5CF6;
+      --bg-dark: #0A1628;
+      --bg-card: rgba(255, 255, 255, 0.04);
+      --border-card: rgba(255, 255, 255, 0.06);
+      --text-primary: #E5E7EB;
+      --text-secondary: #9CA3AF;
+
+      /* Surfaces */
+      --surface-1: rgba(255, 255, 255, 0.04);
+      --surface-2: rgba(255, 255, 255, 0.07);
+      --surface-3: rgba(255, 255, 255, 0.12);
+      --border-subtle: rgba(255, 255, 255, 0.08);
+      --border-strong: rgba(255, 255, 255, 0.16);
+
+      /* Elevação */
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.18);
+      --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.25);
+      --shadow-lg: 0 8px 40px rgba(0, 0, 0, 0.35);
+
+      /* Animação */
+      --ease-spring: cubic-bezier(0.16, 1, 0.3, 1);
+      --duration-fast: 150ms;
+      --duration-base: 250ms;
+
+      /* Cores por matéria */
+      --color-sus: #6366F1;
+      --color-semiologia: #C0392B;
+      --color-bmf1: #E85D75;
+      --color-bmf2: #EF4444;
+      --color-bmf3: #3B82F6;
+      --color-bmf4: #A855F7;
+      --color-bcm1: #4A90E2;
+      --color-mad: #F59E0B;
+      --color-indicadores: #10B981;
+      --color-mfc: #16A34A;
+      --color-pediatria: #F59E0B;
+      --color-go: #EC4899;
+    }
+
+    /* Main Container */
+    .app-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: 430px;
+      margin: 0 auto;
+      height: 100vh;
+      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      position: relative;
+    }
+
+    /* Desktop layout wrapper */
+    .desktop-layout {
+      display: flex;
+      width: 100%;
+      height: 100vh;
+      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+    }
+
+    .desktop-layout .app-container {
+      max-width: none;
+      margin: 0;
+      height: 100%;
+      flex: 1;
+      min-width: 0;
+    }
+
+    /* Desktop Sidebar */
+    .desktop-sidebar {
+      display: none;
+      width: 240px;
+      min-width: 240px;
+      background: rgba(10, 22, 40, 0.95);
+      border-right: 1px solid var(--border-card);
+      flex-direction: column;
+      padding: 24px 0;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+    }
+
+    .sidebar-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 0 20px 24px;
+      border-bottom: 1px solid var(--border-card);
+      margin-bottom: 16px;
+    }
+
+    .sidebar-logo-icon { font-size: 28px; }
+
+    .sidebar-logo-text {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    .sidebar-nav {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      padding: 0 12px;
+      flex: 1;
+    }
+
+    .sidebar-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      border-radius: 10px;
+      cursor: pointer;
+      color: var(--text-secondary);
+      font-size: 14px;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+
+    .sidebar-item:hover {
+      background: rgba(0, 180, 216, 0.08);
+      color: var(--text-primary);
+    }
+
+    .sidebar-item.active {
+      background: rgba(0, 180, 216, 0.15);
+      color: var(--primary);
+    }
+
+    .sidebar-item svg {
+      flex-shrink: 0;
+    }
+
+    .sidebar-footer {
+      padding: 16px 20px;
+      border-top: 1px solid var(--border-card);
+      font-size: 11px;
+      color: var(--text-secondary);
+      text-align: center;
+    }
+
+    .screen-content {
+      flex: 1;
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 20px 16px 100px 16px;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Hamburger/sidebar toggle button */
+    .sidebar-toggle-btn {
+      display: none;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border-radius: 8px;
+      border: 1px solid var(--border-card);
+      background: rgba(255,255,255,0.05);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 1;
+      flex-shrink: 0;
+      transition: background 0.2s;
+    }
+    .sidebar-toggle-btn:hover {
+      background: rgba(255,255,255,0.1);
+    }
+
+    /* Sidebar collapsed state */
+    .desktop-sidebar.collapsed {
+      width: 0 !important;
+      min-width: 0 !important;
+      padding: 0 !important;
+      overflow: hidden;
+      border-right: none;
+    }
+
+    /* Study mode selector */
+    .study-mode-selector {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .study-mode-btn {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 20px;
+      background: var(--bg-card);
+      border: 1.5px solid var(--border-card);
+      border-radius: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: left;
+      color: var(--text-primary);
+      font-family: 'DM Sans', sans-serif;
+    }
+    .study-mode-btn:hover {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.07);
+    }
+    .study-mode-icon { font-size: 24px; }
+    .study-mode-title { font-size: 14px; font-weight: 600; margin-bottom: 2px; }
+    .study-mode-desc { font-size: 12px; color: var(--text-secondary); }
+
+    /* Search input for subjects */
+    .subject-search {
+      width: 100%;
+      padding: 11px 14px 11px 38px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 10px;
+      color: var(--text-primary);
+      font-size: 14px;
+      font-family: 'DM Sans', sans-serif;
+      margin-bottom: 14px;
+      transition: border-color 0.2s;
+    }
+    .subject-search:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+    .subject-search-wrap {
+      position: relative;
+      margin-bottom: 4px;
+    }
+    .subject-search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+      pointer-events: none;
+      font-size: 15px;
+    }
+
+    /* Category tabs for questions */
+    .category-tabs {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+    .category-tab {
+      flex: 1;
+      padding: 9px 10px;
+      border-radius: 10px;
+      border: 1.5px solid var(--border-card);
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-align: center;
+      min-height: auto;
+      text-transform: none;
+      letter-spacing: 0;
+      font-family: 'DM Sans', sans-serif;
+    }
+    .category-tab.active {
+      background: var(--primary);
+      color: #000;
+      border-color: var(--primary);
+    }
+
+    /* Quiz question card with better readability */
+    .quiz-question-card {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      border-radius: 16px;
+      padding: 20px 22px;
+      margin-bottom: 20px;
+    }
+
+    @media (min-width: 769px) {
+      #root {
+        display: flex;
+      }
+
+      .desktop-sidebar {
+        display: flex;
+        transition: width 0.25s ease, min-width 0.25s ease, padding 0.25s ease;
+      }
+
+      .desktop-layout .bottom-nav {
+        display: none;
+      }
+
+      .desktop-layout .screen-content {
+        padding: 28px 40px 40px;
+      }
+
+      .desktop-layout .flashcard {
+        min-height: 360px;
+      }
+
+      .desktop-layout .stats-grid {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+
+      .desktop-layout .quiz-question {
+        font-size: 20px;
+      }
+
+      .sidebar-toggle-btn {
+        display: flex;
+      }
+    }
+
+    /* Splash Screen */
+    .splash-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+    }
+
+    .splash-logo {
+      font-size: 80px;
+      animation: pulse-splash 1s ease-in-out infinite;
+      margin-bottom: 20px;
+    }
+
+    @keyframes pulse-splash {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+
+    .splash-text {
+      font-size: 32px;
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      color: var(--primary);
+      text-align: center;
+      animation: fade-in 0.8s ease-out;
+    }
+
+    @keyframes fade-in {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* Auth Screen */
+    .auth-screen {
+      display: flex;
+      flex-direction: column;
+      padding-top: 40px;
+    }
+
+    .auth-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    .auth-logo {
+      font-size: 60px;
+      margin-bottom: 16px;
+    }
+
+    .auth-title {
+      font-size: 24px;
+      color: var(--text-primary);
+      margin-bottom: 8px;
+    }
+
+    .auth-subtitle {
+      font-size: 14px;
+      color: var(--text-secondary);
+    }
+
+    .auth-step {
+      display: none;
+    }
+
+    .auth-step.active {
+      display: block;
+      animation: slide-in 0.3s ease-out;
+    }
+
+    @keyframes slide-in {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .form-group {
+      margin-bottom: 24px;
+    }
+
+    .form-label {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .form-input {
+      width: 100%;
+      padding: 14px 16px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      color: var(--text-primary);
+      font-size: 16px;
+      font-family: 'DM Sans', sans-serif;
+      transition: all 0.2s ease;
+    }
+
+    .form-input:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.1);
+    }
+
+    .form-input::placeholder {
+      color: var(--text-secondary);
+    }
+
+    .code-input-group {
+      display: flex;
+      gap: 8px;
+      justify-content: space-between;
+      margin-bottom: 24px;
+    }
+
+    .code-input-group input {
+      flex: 1;
+      padding: 12px;
+      text-align: center;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 2px;
+    }
+
+    .fingerprint-display {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 24px;
+      font-size: 11px;
+      color: var(--text-secondary);
+      font-family: 'Courier New', monospace;
+      word-break: break-all;
+      max-height: 100px;
+      overflow-y: auto;
+    }
+
+    .btn {
+      padding: 14px 20px;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-family: 'DM Sans', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 48px;
+    }
+
+    .btn-primary {
+      background: var(--primary);
+      color: #000;
+      width: 100%;
+    }
+
+    .btn-primary:active {
+      transform: scale(0.98);
+      background: #0099B8;
+    }
+
+    .btn-primary:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .btn-secondary {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      color: var(--text-primary);
+      width: 100%;
+    }
+
+    .btn-secondary:active {
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    .btn-small {
+      padding: 8px 12px;
+      font-size: 14px;
+      min-height: auto;
+    }
+
+    .btn-success {
+      background: var(--success);
+      color: #000;
+    }
+
+    .btn-warning {
+      background: var(--warning);
+      color: #000;
+    }
+
+    .btn-error {
+      background: var(--error);
+      color: #fff;
+    }
+
+    .error-message {
+      color: var(--error);
+      font-size: 13px;
+      margin-top: 8px;
+    }
+
+    .success-message {
+      color: var(--success);
+      font-size: 13px;
+      margin-top: 8px;
+    }
+
+    /* Dashboard */
+    .dashboard-header {
+      margin-bottom: 32px;
+      padding-top: 8px;
+    }
+
+    .dashboard-welcome {
+      font-size: 24px;
+      font-family: 'Outfit', sans-serif;
+      margin-bottom: 4px;
+    }
+
+    .dashboard-date {
+      font-size: 13px;
+      color: var(--text-secondary);
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 32px;
+    }
+
+    .stat-card {
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 14px 10px;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+    }
+
+    .stat-icon {
+      color: var(--primary);
+      opacity: 0.75;
+      margin-bottom: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .stat-value {
+      font-size: 26px;
+      font-weight: 700;
+      color: var(--primary);
+      line-height: 1;
+      margin-bottom: 4px;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .stat-label {
+      font-size: 10px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.6px;
+      font-weight: 600;
+    }
+
+    .daily-suggestion {
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.18), rgba(0, 180, 216, 0.18));
+      border: 1px solid rgba(139, 92, 246, 0.25);
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 32px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .suggestion-cta {
+      margin-top: 14px;
+      background: var(--primary);
+      color: #000;
+      border: none;
+      border-radius: 10px;
+      padding: 10px 20px;
+      font-weight: 700;
+      font-size: 13px;
+      cursor: pointer;
+      transition: opacity var(--duration-fast) ease, transform var(--duration-fast) var(--ease-spring);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: 'DM Sans', sans-serif;
+      min-height: 40px;
+    }
+
+    .suggestion-cta:active {
+      opacity: 0.85;
+      transform: scale(0.97);
+    }
+
+    .suggestion-label {
+      font-size: 11px;
+      color: var(--purple);
+      text-transform: uppercase;
+      font-weight: 600;
+      margin-bottom: 8px;
+      letter-spacing: 0.5px;
+    }
+
+    .suggestion-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+    }
+
+    .suggestion-progress {
+      background: var(--bg-card);
+      height: 6px;
+      border-radius: 3px;
+      overflow: hidden;
+      margin-bottom: 8px;
+    }
+
+    .suggestion-progress-bar {
+      height: 100%;
+      background: var(--primary);
+      transition: width 0.3s ease;
+    }
+
+    .suggestion-meta {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    .section-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 16px;
+      margin-top: 24px;
+    }
+
+    .subjects-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .subject-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 14px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .subject-card:active {
+      background: rgba(0, 180, 216, 0.1);
+      border-color: var(--primary);
+    }
+
+    .subject-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 10px;
+      background: rgba(0, 180, 216, 0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      flex-shrink: 0;
+    }
+
+    .subject-info {
+      flex: 1;
+    }
+
+    .subject-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+
+    .subject-meta {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    .subject-arrow {
+      color: var(--text-secondary);
+    }
+
+    /* Flashcards Screen */
+    .flashcards-header {
+      margin-bottom: 24px;
+    }
+
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      margin-bottom: 24px;
+      padding-bottom: 8px;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .filter-bar::-webkit-scrollbar {
+      display: none;
+    }
+
+    .filter-btn {
+      padding: 8px 16px;
+      border-radius: 20px;
+      border: 1px solid var(--border-card);
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+    }
+
+    .filter-btn.active {
+      background: var(--primary);
+      color: #000;
+      border-color: var(--primary);
+    }
+
+    .flashcard-container {
+      margin-bottom: 24px;
+    }
+
+    .flashcard {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 16px;
+      min-height: 320px;
+      height: 320px;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      perspective: 1000px;
+      transition: all 0.2s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .flashcard::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(135deg, rgba(0, 180, 216, 0.1), transparent);
+      opacity: 0;
+      transition: opacity 0.3s ease;
+      pointer-events: none;
+    }
+
+    .flashcard:active::before {
+      opacity: 1;
+    }
+
+    .flashcard-inner {
+      width: 100%;
+      height: 100%;
+      transition: transform 0.6s;
+      transform-style: preserve-3d;
+      position: relative;
+    }
+
+    .flashcard-inner.flipped {
+      transform: rotateY(180deg);
+    }
+
+    .flashcard-front, .flashcard-back {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      backface-visibility: hidden;
+      text-align: center;
+      padding: 24px;
+      overflow-y: auto;
+    }
+
+    .flashcard-back {
+      transform: rotateY(180deg);
+    }
+
+    .flashcard-label {
+      font-size: 11px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+
+    .flashcard-text {
+      font-size: 18px;
+      line-height: 1.5;
+      color: var(--text-primary);
+      word-wrap: break-word;
+    }
+
+    .flashcard-progress {
+      width: 100%;
+      padding: 0 16px;
+      margin-bottom: 20px;
+    }
+
+    .progress-dots {
+      display: flex;
+      gap: 6px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .progress-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    .progress-dot.current {
+      background: var(--primary);
+      width: 8px;
+      height: 8px;
+    }
+
+    .progress-dot.completed {
+      background: var(--success);
+    }
+
+    .flashcard-actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 8px;
+      width: 100%;
+      margin-top: 24px;
+    }
+
+    .rate-btn {
+      padding: 10px;
+      border: 1px solid var(--border-card);
+      border-radius: 8px;
+      background: var(--bg-card);
+      color: var(--text-primary);
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .rate-btn.error {
+      border-color: var(--error);
+      color: var(--error);
+    }
+
+    .rate-btn.error:active {
+      background: rgba(239, 68, 68, 0.1);
+    }
+
+    .rate-btn.warning {
+      border-color: var(--warning);
+      color: var(--warning);
+    }
+
+    .rate-btn.warning:active {
+      background: rgba(245, 158, 11, 0.1);
+    }
+
+    .rate-btn.success {
+      border-color: var(--success);
+      color: var(--success);
+    }
+
+    .rate-btn.success:active {
+      background: rgba(16, 185, 129, 0.1);
+    }
+
+    .session-complete {
+      text-align: center;
+      padding: 40px 0;
+    }
+
+    .session-icon {
+      font-size: 80px;
+      margin-bottom: 24px;
+      animation: bounce 0.6s ease;
+    }
+
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+
+    .session-title {
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 16px;
+    }
+
+    .session-stats {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+
+    .session-stat {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border-card);
+    }
+
+    .session-stat:last-child {
+      border-bottom: none;
+    }
+
+    .session-stat-label {
+      color: var(--text-secondary);
+      font-size: 13px;
+    }
+
+    .session-stat-value {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    /* Quiz Screen */
+    .quiz-header {
+      margin-bottom: 24px;
+    }
+
+    .quiz-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .quiz-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 16px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .quiz-item:active {
+      background: rgba(0, 180, 216, 0.1);
+      border-color: var(--primary);
+    }
+
+    .quiz-subject {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+    }
+
+    .quiz-count {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    .quiz-screen {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .quiz-progress-section {
+      margin-bottom: 24px;
+    }
+
+    .quiz-progress-bar {
+      width: 100%;
+      height: 4px;
+      background: var(--bg-card);
+      border-radius: 2px;
+      overflow: hidden;
+      margin-bottom: 12px;
+    }
+
+    .quiz-progress-fill {
+      height: 100%;
+      background: var(--primary);
+      transition: width 0.3s ease;
+    }
+
+    .quiz-counter {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    .quiz-question {
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 24px;
+      line-height: 1.5;
+    }
+
+    .quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .quiz-option {
+      padding: 14px;
+      background: var(--bg-card);
+      border: 2px solid var(--border-card);
+      border-radius: 12px;
+      color: var(--text-primary);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      font-size: 14px;
+      text-align: left;
+    }
+
+    .quiz-option:active {
+      border-color: var(--primary);
+    }
+
+    .quiz-option.selected {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.1);
+    }
+
+    .quiz-option.correct {
+      border-color: var(--success);
+      background: rgba(16, 185, 129, 0.1);
+    }
+
+    .quiz-option.incorrect {
+      border-color: var(--error);
+      background: rgba(239, 68, 68, 0.1);
+    }
+
+    .quiz-option.crossed-out {
+      text-decoration: line-through;
+      opacity: 0.35;
+      pointer-events: none;
+      border-color: var(--border-card);
+      background: transparent;
+    }
+
+    .quiz-option {
+      position: relative;
+      padding-right: 44px;
+    }
+
+    .cross-btn {
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      border: 1px solid var(--border-card);
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 14px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s ease;
+      padding: 0;
+      min-height: auto;
+      text-transform: none;
+      letter-spacing: 0;
+    }
+
+    .cross-btn:hover {
+      border-color: var(--error);
+      color: var(--error);
+      background: rgba(239, 68, 68, 0.1);
+      transform: translateY(-50%);
+      box-shadow: none;
+    }
+
+    .quiz-feedback {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 24px;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .quiz-feedback-title {
+      font-weight: 600;
+      margin-bottom: 8px;
+      color: var(--text-primary);
+    }
+
+    .quiz-result-screen {
+      text-align: center;
+      padding: 40px 0;
+    }
+
+    .quiz-score {
+      font-size: 72px;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 16px;
+    }
+
+    .quiz-time {
+      font-size: 13px;
+      color: var(--text-secondary);
+      margin-bottom: 32px;
+    }
+
+    /* Materials Screen */
+    .materials-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .material-subject {
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .material-subject-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .material-slots {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .material-slot {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 10px;
+      padding: 11px 14px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      opacity: 0.6;
+    }
+
+    .material-slot-name {
+      font-size: 13px;
+      color: var(--text-secondary);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .material-badge {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--warning);
+      border: 1px solid rgba(245, 158, 11, 0.25);
+      padding: 3px 8px;
+      border-radius: 6px;
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.4px;
+    }
+
+    /* Profile Screen */
+    .profile-avatar {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary), var(--purple));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      font-weight: 700;
+      font-family: 'Outfit', sans-serif;
+      color: #fff;
+      margin: 0 auto 8px;
+      box-shadow: 0 4px 16px rgba(0, 180, 216, 0.3);
+    }
+
+    .profile-name {
+      font-size: 18px;
+      font-weight: 700;
+      color: var(--text-primary);
+      text-align: center;
+      margin-bottom: 4px;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .profile-meta {
+      font-size: 13px;
+      color: var(--text-secondary);
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .profile-section {
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 16px;
+      margin-bottom: 16px;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .profile-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 11px 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .profile-item:last-child {
+      border-bottom: none;
+    }
+
+    .profile-label {
+      font-size: 12px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+    }
+
+    .profile-value {
+      font-size: 14px;
+      color: var(--text-primary);
+      font-weight: 600;
+      word-break: break-all;
+      text-align: right;
+    }
+
+    .profile-value-small {
+      font-size: 11px;
+      font-family: 'Courier New', monospace;
+      color: var(--text-secondary);
+    }
+
+    .profile-stats {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .profile-stat {
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 14px 12px;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .profile-stat-icon {
+      font-size: 18px;
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .profile-stat-value {
+      font-size: 22px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 4px;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .profile-stat-label {
+      font-size: 10px;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+    }
+
+    /* Bottom Navigation */
+    .bottom-nav {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      max-width: 430px;
+      margin: 0 auto;
+      background: rgba(10, 22, 40, 0.94);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      border-top: 1px solid var(--border-subtle);
+      box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.3);
+      display: flex;
+      justify-content: space-around;
+      padding: 8px 4px 20px;
+      z-index: 100;
+    }
+
+    .nav-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 3px;
+      cursor: pointer;
+      padding: 6px 12px;
+      border-radius: 12px;
+      transition: background var(--duration-fast) ease, color var(--duration-fast) ease;
+      position: relative;
+      min-width: 56px;
+    }
+
+    .nav-item.active {
+      color: var(--primary);
+      background: rgba(0, 180, 216, 0.12);
+    }
+
+    .nav-item.active::after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 20px;
+      height: 2px;
+      background: var(--primary);
+      border-radius: 0 0 2px 2px;
+    }
+
+    .nav-item:not(.active) {
+      color: var(--text-secondary);
+    }
+
+    .nav-item:not(.active):active {
+      background: var(--surface-2);
+    }
+
+    .nav-icon {
+      width: 22px;
+      height: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .nav-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.01em;
+    }
+
+    /* Loading */
+    .loading {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--border-card);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Semester Selector */
+    .semester-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+
+    .semester-btn {
+      padding: 14px 8px;
+      border: 2px solid var(--border-card);
+      border-radius: 12px;
+      background: var(--bg-card);
+      color: var(--text-secondary);
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-align: center;
+      min-height: auto;
+      text-transform: none;
+      letter-spacing: 0;
+    }
+
+    .semester-btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      background: rgba(0, 180, 216, 0.08);
+      transform: none;
+      box-shadow: none;
+    }
+
+    .semester-btn.selected {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.15);
+      color: var(--primary);
+    }
+
+    /* Semester group headers in subject lists */
+    .semester-group-header {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border-card);
+      margin-bottom: 12px;
+    }
+
+    .semester-group-header:first-child {
+      padding-top: 0;
+    }
+
+    /* Subject selection list (cleaner version) */
+    .subject-select-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .subject-select-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 14px;
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      cursor: pointer;
+      transition: background var(--duration-fast) ease, border-color var(--duration-fast) ease, transform var(--duration-fast) var(--ease-spring), box-shadow var(--duration-fast) ease;
+      box-shadow: var(--shadow-sm);
+      min-height: 56px;
+    }
+
+    .subject-select-card:active {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.08);
+      transform: scale(0.98);
+      box-shadow: none;
+    }
+
+    @media (hover: hover) {
+      .subject-select-card:hover {
+        border-color: var(--border-strong);
+        background: var(--surface-3);
+      }
+    }
+
+    /* Multi-select tema states */
+    .subject-select-card.tema-selected {
+      background: rgba(0, 180, 216, 0.10);
+      border-color: var(--primary);
+    }
+    .tema-checkbox {
+      width: 22px;
+      height: 22px;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+      flex-shrink: 0;
+      transition: background var(--duration-fast) ease, border-color var(--duration-fast) ease;
+    }
+    .tema-checkbox-checked {
+      background: var(--primary);
+      border-color: var(--primary);
+    }
+
+    /* Sticky bar de início */
+    .tema-start-bar {
+      position: sticky;
+      bottom: 0;
+      background: rgba(10, 22, 40, 0.96);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border-top: 1px solid var(--border-subtle);
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin: 0 -16px;
+      gap: 12px;
+      animation: screenFadeIn 0.2s var(--ease-spring);
+    }
+
+    .subject-select-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 11px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      flex-shrink: 0;
+    }
+
+    .subject-select-icon svg {
+      width: 20px;
+      height: 20px;
+      stroke-width: 2;
+    }
+
+    .subject-select-info { flex: 1; min-width: 0; }
+
+    .subject-select-name {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      margin-bottom: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .subject-select-meta {
+      font-size: 12px;
+      color: var(--text-secondary);
+    }
+
+    /* Progress bar within subject card */
+    .subject-progress-bar {
+      height: 3px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 2px;
+      margin-top: 6px;
+      overflow: hidden;
+    }
+
+    .subject-progress-fill {
+      height: 100%;
+      border-radius: 2px;
+      transition: width 600ms var(--ease-spring);
+    }
+
+    /* Search icon SVG */
+    .subject-search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-secondary);
+      pointer-events: none;
+      display: flex;
+      align-items: center;
+    }
+
+    /* Semester tab filter */
+    .semester-tabs {
+      display: flex;
+      gap: 6px;
+      margin-bottom: 20px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .semester-tabs::-webkit-scrollbar { display: none; }
+
+    .semester-tab {
+      padding: 8px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border-card);
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s ease;
+      min-height: auto;
+      text-transform: none;
+      letter-spacing: 0;
+    }
+
+    .semester-tab:hover {
+      transform: none;
+      box-shadow: none;
+    }
+
+    .semester-tab.active {
+      background: var(--primary);
+      color: #000;
+      border-color: var(--primary);
+    }
+
+    /* Back button */
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: none;
+      border: none;
+      color: var(--primary);
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      padding: 8px 0;
+      margin-bottom: 16px;
+      text-transform: none;
+      letter-spacing: 0;
+      min-height: auto;
+    }
+
+    .back-btn:hover {
+      background: none;
+      transform: none;
+      box-shadow: none;
+      opacity: 0.8;
+    }
+
+    /* Utilities */
+    .hidden {
+      display: none !important;
+    }
+
+    .mt-2 { margin-top: 16px; }
+    .mt-4 { margin-top: 24px; }
+    .mb-2 { margin-bottom: 16px; }
+    .mb-4 { margin-bottom: 24px; }
+
+    .text-center { text-align: center; }
+
+    /* Responsive */
+    @media (max-height: 600px) {
+      .screen-content {
+        padding: 16px 12px 100px 12px;
+      }
+
+      .stat-card {
+        padding: 12px;
+      }
+
+      .stat-value {
+        font-size: 18px;
+      }
+    }
+
+    /* Screen content transition */
+    .screen-content {
+      animation: screenFadeIn 200ms var(--ease-spring);
+    }
+
+    @keyframes screenFadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Sidebar improvements */
+    .sidebar-footer {
+      padding: 12px 16px;
+      border-top: 1px solid var(--border-subtle);
+    }
+
+    .sidebar-user-block {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      background: var(--surface-1);
+      border: 1px solid var(--border-subtle);
+    }
+
+    .sidebar-user-avatar {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--primary), var(--purple));
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 700;
+      color: #fff;
+      flex-shrink: 0;
+      font-family: 'Outfit', sans-serif;
+    }
+
+    .sidebar-user-info {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .sidebar-user-name {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-primary);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .sidebar-user-meta {
+      font-size: 11px;
+      color: var(--text-secondary);
+    }
+
+    /* Responsive: reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+      }
+    }
+
+    /* Print */
+    @media print {
+      body {
+        background: white;
+        color: black;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <!-- Service Worker: registro + limpeza de SWs antigos de deploys anteriores -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function() {
+
+        // Limpar SWs de versões anteriores registrados em paths diferentes
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+          registrations.forEach(function(reg) {
+            var url = reg.active ? reg.active.scriptURL : (reg.installing ? reg.installing.scriptURL : '');
+            if (!url.endsWith('/sw.js')) reg.unregister();
+          });
+        });
+
+        // Registrar SW atual
+        navigator.serviceWorker.register('/sw.js').then(function(registration) {
+          if (registration.waiting) {
+            registration.waiting.postMessage({ type: 'SKIP_WAITING' });
+          }
+          registration.addEventListener('updatefound', function() {
+            var newWorker = registration.installing;
+            if (!newWorker) return;
+            newWorker.addEventListener('statechange', function() {
+              if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                newWorker.postMessage({ type: 'SKIP_WAITING' });
+              }
+            });
+          });
+        }).catch(function(err) {
+          console.warn('MedUni9: SW registration failed:', err);
+        });
+
+        // Recarregar quando novo SW assumir o controle
+        var refreshing = false;
+        navigator.serviceWorker.addEventListener('controllerchange', function() {
+          if (refreshing) return;
+          refreshing = true;
+          window.location.reload();
+        });
+
+      });
+    }
+  </script>
+
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+    // ===================== Utilities =====================
+
+    // Device Fingerprint
+    const generateDeviceFingerprint = async () => {
+      const userAgent = navigator.userAgent;
+      const screen_res = `${screen.width}x${screen.height}`;
+      const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+      let canvas_hash = '';
+      try {
+        const canvas = document.createElement('canvas');
+        const ctx = canvas.getContext('2d');
+        ctx.fillText('MedUni9', 10, 10);
+        canvas_hash = canvas.toDataURL().substring(0, 50);
+      } catch (e) {}
+
+      return `${userAgent.substring(0, 30)}_${screen_res}_${timezone}_${canvas_hash}`.substring(0, 128);
+    };
+
+    // SM-2 Algorithm
+    const SM2 = {
+      calculateNextReview: (quality, reps, ef, interval) => {
+        let newReps = reps + 1;
+        let newEf = ef + 0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02);
+        if (newEf < 1.3) newEf = 1.3;
+
+        let newInterval;
+        if (newReps === 1) newInterval = 1;
+        else if (newReps === 2) newInterval = 3;
+        else newInterval = Math.round(interval * newEf);
+
+        const nextReview = Date.now() + (newInterval * 24 * 60 * 60 * 1000);
+        return { newReps, newEf, newInterval, nextReview };
+      },
+
+      getDueCards: (cards, srData) => {
+        const now = Date.now();
+        return cards.filter(card => {
+          const data = srData[card.id] || { nextReview: 0 };
+          return data.nextReview <= now;
+        }).sort((a, b) => {
+          const aData = srData[a.id] || { nextReview: 0 };
+          const bData = srData[b.id] || { nextReview: 0 };
+          return aData.nextReview - bData.nextReview;
+        });
+      }
+    };
+
+    // Format time
+    const formatTime = (ms) => {
+      const seconds = Math.floor(ms / 1000);
+      const minutes = Math.floor(seconds / 60);
+      const hours = Math.floor(minutes / 60);
+
+      if (hours > 0) return `${hours}h ${minutes % 60}m`;
+      if (minutes > 0) return `${minutes}m ${seconds % 60}s`;
+      return `${seconds}s`;
+    };
+
+    // ===================== Módulos por Matéria (embutido no HTML) =====================
+    const MODULOS_CONFIG = {
+      bcm1: [
+        { nome: "Módulo 1 — Química da Vida", temas: [
+          { id: "bcm1_agua_ph", nome: "Água, pH e Tampões Biológicos", descricao: "Propriedades da água, ionização, pH, pKa, tampões fisiológicos" },
+          { id: "bcm1_aminoacidos", nome: "Aminoácidos — Estrutura e Classificação", descricao: "20 aminoácidos protéicos, grupos R, titulação, ponto isoelétrico" },
+          { id: "bcm1_proteinas_est", nome: "Proteínas — Estrutura e Função", descricao: "Estruturas primária, secundária, terciária e quaternária; desnaturação; hemoglobina e mioglobina" }
+        ]},
+        { nome: "Módulo 2 — Metabolismo de Carboidratos", temas: [
+          { id: "bcm1_carboidratos", nome: "Carboidratos — Estrutura e Classificação", descricao: "Monossacarídeos, dissacarídeos, polissacarídeos; glicose, frutose, galactose" },
+          { id: "bcm1_glicose", nome: "Glicólise e Regulação", descricao: "10 etapas da glicólise, enzimas-chave, regulação alostérica, fermentação" },
+          { id: "bcm1_krebs", nome: "Ciclo de Krebs (Ácido Cítrico)", descricao: "8 etapas, enzimas, cofatores, produção de NADH, FADH2 e GTP" },
+          { id: "bcm1_fosforilacao", nome: "Fosforilação Oxidativa e Cadeia Respiratória", descricao: "Complexos I–IV, ATP sintase, quimiosmose, rendimento energético total" },
+          { id: "bcm1_glicogenio", nome: "Glicogênio — Síntese e Degradação", descricao: "Glicogênese, glicogenólise, regulação hormonal (glucagon/insulina), doença de McArdle" },
+          { id: "bcm1_gliconeogenese", nome: "Gliconeogênese e Ciclo de Cori", descricao: "Substratos, enzimas exclusivas, regulação, Ciclo de Cori, Ciclo glicose-alanina" }
+        ]},
+        { nome: "Módulo 3 — Metabolismo de Lipídeos", temas: [
+          { id: "bcm1_lipideos", nome: "Lipídeos — Estrutura e Classificação", descricao: "Ácidos graxos, triglicerídeos, fosfolipídeos, colesterol, esfingolipídeos" },
+          { id: "bcm1_betaoxidacao", nome: "Beta-oxidação dos Ácidos Graxos", descricao: "Ativação, transporte (carnitina), espiral de β-oxidação, rendimento energético" },
+          { id: "bcm1_sintese_ag", nome: "Síntese de Ácidos Graxos", descricao: "Acetil-CoA carboxilase, complexo FAS, elongação, dessaturação, regulação" },
+          { id: "bcm1_corpos_cetonicos", nome: "Corpos Cetônicos e Lipoproteínas", descricao: "Cetogênese, cetólise, cetoacidose diabética; quilomícrons, VLDL, LDL, HDL" }
+        ]},
+        { nome: "Módulo 4 — Aminoácidos e Nucleotídeos", temas: [
+          { id: "bcm1_catabolismo_aa", nome: "Catabolismo de Aminoácidos e Ciclo da Ureia", descricao: "Transaminação, desaminação oxidativa, ciclo da ureia, hiperamonemia" },
+          { id: "bcm1_nucleotideos", nome: "Nucleotídeos — Estrutura e Metabolismo", descricao: "Purinas e pirimidinas, síntese de novo vs. salvagem, degradação, gota" }
+        ]},
+        { nome: "Módulo 5 — Biologia Molecular", temas: [
+          { id: "bcm1_dna_replicacao", nome: "DNA — Estrutura e Replicação", descricao: "Dupla hélice, bases nitrogenadas, semiconservativa, DNA pol, topoisomerases, telômeros" },
+          { id: "bcm1_transcricao", nome: "Transcrição e Processamento do RNA", descricao: "RNA pol, promotores, mRNA, rRNA, tRNA, splicing, cap 5', cauda poli-A" },
+          { id: "bcm1_traducao", nome: "Tradução e Código Genético", descricao: "Código genético, codons, ribossomos, fases da tradução, modificações pós-traducionais" },
+          { id: "bcm1_regulacao_genica", nome: "Regulação Gênica e Mutações", descricao: "Operon lac, regulação em eucariotos, tipos de mutação, reparo do DNA, proto-oncogenes" }
+        ]},
+        { nome: "Módulo 6 — Genética", temas: [
+          { id: "bcm1_genetica_mendeliana", nome: "Genética Mendeliana — 1ª e 2ª Leis", descricao: "Segregação, segregação independente, dominância, recessividade, cruzamentos" },
+          { id: "bcm1_genetica_ligada_sexo", nome: "Herança Ligada ao Sexo e Padrões Não-Mendelianos", descricao: "Cromossomos sexuais, daltonismo, hemofilia, herança mitocondrial, imprinting" },
+          { id: "bcm1_sindromos_cromossomicos", nome: "Síndromes Cromossômicas", descricao: "Down (trissomia 21), Turner (45,X), Klinefelter (47,XXY), cariotipagem" },
+          { id: "bcm1_biotecnologia", nome: "Biotecnologia Básica — PCR, Clonagem, Sequenciamento", descricao: "PCR, eletroforese, RFLP, clonagem molecular, CRISPR-Cas9 introdução" }
+        ]},
+        { nome: "Módulo 7 — Biologia Celular", temas: [
+          { id: "bcm1_organelas", nome: "Estrutura Celular — Organelas e Compartimentos", descricao: "Núcleo, mitocôndria, retículo endoplasmático, Golgi, lisossomos, peroxissomos" },
+          { id: "bcm1_membrana", nome: "Membrana Celular — Composição e Transporte", descricao: "Modelo mosaico fluido, transporte passivo/ativo, bomba Na+/K+, osmose, endocitose" },
+          { id: "bcm1_ciclo_celular", nome: "Ciclo Celular e Divisão Celular (Mitose/Meiose)", descricao: "Fases G1/S/G2/M, ciclinas, CDKs, checkpoints, mitose vs. meiose, crossing-over" },
+          { id: "bcm1_sinalizacao", nome: "Sinalização Celular", descricao: "Receptores de membrana, GPCRs, AMPc, cascata MAPK, sinalização por insulina" }
+        ]},
+        { nome: "Módulo 8 — Enzimologia", temas: [
+          { id: "bcm1_enzimas_cinetica", nome: "Enzimas — Cinética e Inibição", descricao: "Michaelis-Menten, Km, Vmax, inibição competitiva/não-competitiva/irreversível, alosteria" },
+          { id: "bcm1_vitaminas", nome: "Vitaminas e Coenzimas", descricao: "Vitaminas hidrossolúveis (B1–B12, C) e lipossolúveis (A, D, E, K), coenzimas derivadas" }
+        ]},
+        { nome: "Módulo 9 — Integração Metabólica", temas: [
+          { id: "bcm1_acido_base", nome: "Equilíbrio Ácido-Base e Gasometria", descricao: "pH, pCO2, HCO3, acidose/alcalose respiratória e metabólica, compensações" },
+          { id: "bcm1_integracao", nome: "Integração Metabólica — Diabetes, Jejum e Exercício", descricao: "Estado alimentado vs. jejum, papel dos hormônios, DM1/DM2, exercício aeróbio e anaeróbio" }
+        ]}
+      ],
+      bmf1: [
+        { nome: "Histologia — Módulo 1: Introdução e Técnicas", temas: [
+          { id: "bmf1_tecnicas_hist", nome: "Técnicas Histológicas", descricao: "Preparo de lâminas, colorações (HE, PAS, tricômico), microscopia óptica e eletrônica" },
+          { id: "bmf1_membrana_bio", nome: "Membranas Biológicas", descricao: "Modelo mosaico fluido, fosfolipídeos, colesterol, proteínas integrais e periféricas" },
+          { id: "bmf1_organelas", nome: "Organelas Membranosas e Citoesqueleto", descricao: "Retículo endoplasmático, complexo de Golgi, mitocôndria, lisossomos, microtúbulos, actina" }
+        ]},
+        { nome: "Histologia — Módulo 2: Tecidos Básicos", temas: [
+          { id: "bmf1_tec_epitelial", nome: "Tecido Epitelial", descricao: "Epitélios de revestimento e glandular; junções celulares" },
+          { id: "bmf1_tec_conjuntivo", nome: "Tecido Conjuntivo Propriamente Dito", descricao: "Células (fibroblasto, macrófago, mastócito), fibras colágenas, elásticas e reticulares; MEC" },
+          { id: "bmf1_tec_adiposo", nome: "Tecido Adiposo", descricao: "Tecido adiposo unilocular e multilocular; distribuição, funções metabólicas e endócrinas" },
+          { id: "bmf1_tec_cartilaginems", nome: "Tecido Cartilaginoso", descricao: "Cartilagem hialina, elástica e fibrosa; condrócitos, pericôndrio, nutrição avascular" },
+          { id: "bmf1_tec_osseo", nome: "Tecido Ósseo", descricao: "Osso compacto e esponjoso, osteoblasto, osteócito, osteoclasto, remodelação óssea, ossificação" },
+          { id: "bmf1_tec_muscular", nome: "Tecido Muscular", descricao: "Músculo esquelético, liso e cardíaco; sarcômero, actina, miosina, mecanismo de contração" }
+        ]},
+        { nome: "Anatomia — Módulo 1: Generalidades", temas: [
+          { id: "bmf1_intro_anatomia", nome: "Introdução à Anatomia Humana", descricao: "Terminologia anatômica, planos e eixos, nomenclatura BNA/TA, posição anatômica" },
+          { id: "bmf1_sist_esqueletico", nome: "Sistema Esquelético — Generalidades", descricao: "Classificação dos ossos, estrutura óssea macroscópica, tipos de articulação" },
+          { id: "bmf1_sist_articular", nome: "Sistema Articular (Artrologia)", descricao: "Sinartroses, anfiartroses, diartroses; componentes das articulações sinoviais" },
+          { id: "bmf1_sist_muscular_geral", nome: "Sistema Muscular — Generalidades", descricao: "Classificação dos músculos, nomenclatura, origem, inserção, ação, inervação" }
+        ]},
+        { nome: "Anatomia — Módulo 2: Membro Inferior", temas: [
+          { id: "bmf1_mmii_osteologia", nome: "Membro Inferior — Osteologia e Artrologia", descricao: "Cintura pélvica, fêmur, tíbia, fíbula, patela, tarso; articulação do quadril, joelho e tornozelo" },
+          { id: "bmf1_mmii_miologia", nome: "Membro Inferior — Miologia", descricao: "Músculos da coxa (quadríceps, isquiotibiais, adutores), perna (tríceps sural, tibial anterior) e pé" },
+          { id: "bmf1_mmii_vasos_nervos", nome: "Membro Inferior — Vasos e Nervos", descricao: "Artéria femoral, poplítea, tibial anterior/posterior; veia safena magna; nervos femoral, ciático, fibular, tibial" },
+          { id: "bmf1_mmii_radio", nome: "Anatomia Radiológica do Membro Inferior", descricao: "Leitura de radiografias (AP e perfil), referências anatômicas, fraturas comuns" }
+        ]},
+        { nome: "Anatomia — Módulo 3: Membro Superior", temas: [
+          { id: "bmf1_mmss_osteologia", nome: "Membro Superior — Osteologia e Artrologia", descricao: "Clavícula, escápula, úmero, rádio, ulna, carpo; articulações do ombro, cotovelo e punho" },
+          { id: "bmf1_mmss_miologia", nome: "Membro Superior — Miologia", descricao: "Manguito rotador, deltóide, bíceps, tríceps, músculos do antebraço e mão" },
+          { id: "bmf1_plexo_braquial", nome: "Plexo Braquial e Nervos do Membro Superior", descricao: "Raízes C5-T1, troncos, divisões, fascículos; nervos mediano, ulnar, radial, musculocutâneo; lesões" },
+          { id: "bmf1_mmss_radio", nome: "Anatomia Radiológica do Membro Superior", descricao: "Radiografias de ombro, cotovelo e punho; fraturas de Colles, úmero, clavícula" }
+        ]},
+        { nome: "Anatomia — Módulo 4: SN e Circulatório", temas: [
+          { id: "bmf1_sn_geral", nome: "Sistema Nervoso — Generalidades", descricao: "Divisões do SN, neurônio (soma, axônio, dendrito), células da glia, sinapse, vias nervosas" },
+          { id: "bmf1_sist_circulatorio", nome: "Sistema Circulatório — Generalidades", descricao: "Coração, circulação sistêmica e pulmonar, artérias, veias, capilares; compartimentos fisiológicos" }
+        ]},
+        { nome: "Biofísica", temas: [
+          { id: "bmf1_pot_membrana", nome: "Potencial de Membrana e Potencial de Ação", descricao: "Potencial de repouso, canais iônicos, lei de Nernst, equação de Goldman, potencial de ação" },
+          { id: "bmf1_transp_membrana", nome: "Transporte de Membrana", descricao: "Difusão simples e facilitada, transporte ativo primário/secundário, osmose, filtração" },
+          { id: "bmf1_contracao_musc", nome: "Contração Muscular — Biofísica", descricao: "Acoplamento excitação-contração, troponina, tropomiosina, ciclo das pontes cruzadas, tetania" },
+          { id: "bmf1_comp_fisiologicos", nome: "Compartimentos Fisiológicos e Equilíbrio Eletrolítico", descricao: "LIC, LEC, plasma; osmolaridade, tonicidade, Na+, K+, Cl-; desidratação, edema" }
+        ]}
+      ]
+    };
+    const getModulos = (materiaId) => MODULOS_CONFIG[materiaId] || null;
+
+    // ===================== SVG Icons =====================
+
+    const IconHome = () => (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+        <polyline points="9 22 9 12 15 12 15 22"></polyline>
+      </svg>
+    );
+
+    const IconBrain = () => (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11zm3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path>
+      </svg>
+    );
+
+    const IconClipboardList = () => (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M8 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2h-2"></path>
+        <rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect>
+        <path d="M9 14h6"></path>
+        <path d="M9 10h6"></path>
+      </svg>
+    );
+
+    const IconBookOpen = () => (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+        <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+      </svg>
+    );
+
+    const IconUser = () => (
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+        <circle cx="12" cy="7" r="4"></circle>
+      </svg>
+    );
+
+    const IconChevronRight = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    );
+
+    const IconCheck = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <polyline points="20 6 9 17 4 12"></polyline>
+      </svg>
+    );
+
+    const IconX = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    );
+
+    const IconLogOut = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path>
+        <polyline points="16 17 21 12 16 7"></polyline>
+        <line x1="21" y1="12" x2="9" y2="12"></line>
+      </svg>
+    );
+
+    const IconClock = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <circle cx="12" cy="12" r="10"></circle>
+        <polyline points="12 6 12 12 16 14"></polyline>
+      </svg>
+    );
+
+    const IconZap = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+      </svg>
+    );
+
+    const IconTrophy = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M6 9H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v2a2 2 0 0 1-2 2h-2"></path>
+        <path d="M4 12a8 8 0 0 1 16 0"></path>
+        <path d="M4 15h16"></path>
+        <path d="M9 19c0 1 1 2 3 2s3-1 3-2"></path>
+      </svg>
+    );
+
+    const IconSearch = () => (
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
+        <circle cx="11" cy="11" r="8"></circle>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+      </svg>
+    );
+
+    const IconLayers = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+        <polyline points="2 17 12 22 22 17"></polyline>
+        <polyline points="2 12 12 17 22 12"></polyline>
+      </svg>
+    );
+
+    const IconTarget = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <circle cx="12" cy="12" r="10"></circle>
+        <circle cx="12" cy="12" r="6"></circle>
+        <circle cx="12" cy="12" r="2"></circle>
+        <line x1="22" y1="2" x2="11" y2="13"></line>
+        <polyline points="22 2 15 2 22 9"></polyline>
+      </svg>
+    );
+
+    const IconBarChart = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <line x1="12" y1="20" x2="12" y2="10"></line>
+        <line x1="18" y1="20" x2="18" y2="4"></line>
+        <line x1="6" y1="20" x2="6" y2="16"></line>
+      </svg>
+    );
+
+    const IconFlame = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"></path>
+      </svg>
+    );
+
+    const IconPlay = () => (
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="none">
+        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+      </svg>
+    );
+
+    const IconFileText = () => (
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+        <polyline points="14 2 14 8 20 8"></polyline>
+        <line x1="16" y1="13" x2="8" y2="13"></line>
+        <line x1="16" y1="17" x2="8" y2="17"></line>
+        <polyline points="10 9 9 9 8 9"></polyline>
+      </svg>
+    );
+
+    const IconPieChart = () => (
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path>
+        <path d="M22 12A10 10 0 0 0 12 2v10z"></path>
+      </svg>
+    );
+
+    const IconBook = () => (
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+      </svg>
+    );
+
+    // Subject icon mapping — materia.id → {svg, color}
+    const I = (d) => () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">{d}</svg>;
+    // Stethoscope icon shared by all semiologia subjects
+    const STETO = I(<><path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6 6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3"/><path d="M8 15a6 6 0 0 0 6 6h0a6 6 0 0 0 6-6v-3"/><circle cx="20" cy="10" r="2"/></>);
+    // Classic bone (two knobs each end) shared by BMF1 and ortopedia
+    const BONE = I(<><path d="M17 10c.7-.7 1-.7 1.5-1a2.5 2.5 0 0 0-3.5-3.5C14.7 6 14.7 6.3 14 7L10 11c-.7.7-1 .7-1.5 1a2.5 2.5 0 0 0 3.5 3.5c.3-.5.3-.8 1-1.5z"/><path d="M7 14c-.7.7-1 .7-1.5 1a2.5 2.5 0 0 0 3.5 3.5c.5-.3.8-.3 1.5-1l4-4c.7-.7 1-.7 1.5-1a2.5 2.5 0 0 0-3.5-3.5c-.5.3-.8.3-1.5 1z"/></>);
+    const SHIELD_CHECK = I(<><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></>);
+    const SHIELD_ALERT = I(<><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><line x1="12" y1="8" x2="12" y2="12"/><circle cx="12" cy="16" r="1"/></>);
+    const SUBJECT_ICON_MAP = {
+      // Semestre 1
+      'sus':         { icon: I(<><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></>), color: '#6366F1' },
+      'semiologia1': { icon: STETO, color: '#C0392B' },
+      'bmf1':        { icon: BONE, color: '#E85D75' },
+      'pmh':         { icon: I(<><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10,9 9,9 8,9"/></>), color: '#8B5CF6' },
+      // Semestre 2
+      'bmf2':        { icon: I(<><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></>), color: '#EF4444' },
+      'mad1':        { icon: SHIELD_CHECK, color: '#F59E0B' },
+      'indicadores': { icon: I(<><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></>), color: '#10B981' },
+      'bcm1':        { icon: I(<><path d="M2 15c6.667-6 13.333 0 20-6"/><path d="M9 22c1.798-1.998 2.518-3.995 2.807-5.993"/><path d="M15 2c-1.798 1.998-2.518 3.995-2.807 5.993"/><path d="m17 6-2.5-2.5"/><path d="m14 8-1-1"/><path d="m7 18 2.5 2.5"/><path d="m10 16 1.5 1.5"/></>), color: '#4A90E2' },
+      'semiologia2': { icon: STETO, color: '#C0392B' },
+      // Semestre 3
+      'mad2':        { icon: SHIELD_ALERT, color: '#EF4444' },
+      'fisiopato3':  { icon: I(<><ellipse cx="12" cy="8" rx="5" ry="7"/><path d="M7 14c-2 2-2 5 0 6h10c2-1 2-4 0-6"/></>), color: '#F97316' },
+      'semiologia3': { icon: STETO, color: '#C0392B' },
+      'bmf3':        { icon: I(<><path d="M12 2a5 5 0 0 1 5 5c0 5-5 11-5 11S7 12 7 7a5 5 0 0 1 5-5z"/><circle cx="12" cy="7" r="2"/></>), color: '#3B82F6' },
+      'saude_trabalhador': { icon: I(<><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><line x1="12" y1="12" x2="12" y2="16"/><line x1="10" y1="14" x2="14" y2="14"/></>), color: '#78716C' },
+      // Semestre 4
+      'semiologia4': { icon: STETO, color: '#C0392B' },
+      'fisiopato_farmaco': { icon: I(<><path d="M10.5 20H4a2 2 0 0 1-2-2V5c0-1.1.9-2 2-2h3.93a2 2 0 0 1 1.66.9l.82 1.2a2 2 0 0 0 1.66.9H20a2 2 0 0 1 2 2v3"/><path d="m14.5 17.5 5 5"/><path d="m19.5 17.5-5 5"/><circle cx="17" cy="20" r="4"/></>), color: '#7C3AED' },
+      'bioestatistica': { icon: I(<><polyline points="22,12 18,12 15,21 9,3 6,12 2,12"/></>), color: '#0EA5E9' },
+      'bmf4':        { icon: I(<><path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96.44 2.5 2.5 0 0 1-2.96-3.08 3 3 0 0 1-.34-5.58 2.5 2.5 0 0 1 1.32-4.24 2.5 2.5 0 0 1 1.98-3A2.5 2.5 0 0 1 9.5 2Z"/><path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-1.98-3A2.5 2.5 0 0 0 14.5 2Z"/></>), color: '#A855F7' },
+      // Semestre 5
+      'clinica_medica5': { icon: I(<><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4"/><path d="M8 2v4"/><path d="M3 10h18"/><path d="M8 14h.01"/><path d="M12 14h.01"/><path d="M16 14h.01"/><path d="M8 18h.01"/><path d="M12 18h.01"/><path d="M16 18h.01"/></>), color: '#1D4ED8' },
+      'clinica_cirurgica5': { icon: I(<><path d="m14.5 4-5 5"/><path d="m9 13 5 5"/><path d="M3 3l18 18"/><path d="M2.5 6.5s3 0 4.5-1.5c1.5-1.5 1.5-5 1.5-5"/><path d="M21.5 17.5s-3 0-4.5 1.5c-1.5 1.5-1.5 5-1.5 5"/></>), color: '#1E3A5F' },
+      'farmaco_aplicada': { icon: I(<><path d="M9 12h6"/><path d="M11 10v4"/><path d="M6.5 14.5 3 18a1 1 0 0 0 1.5 1.5l3.5-3.5"/><path d="m15 9 3.5-3.5a1 1 0 0 0-1.5-1.5L13.5 7.5"/><rect x="8" y="8" width="8" height="8" rx="1"/></>), color: '#9333EA' },
+      'mfc5':        { icon: I(<><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/><path d="M12 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"/></>), color: '#16A34A' },
+      // Semestre 6
+      'clinica_medica6': { icon: I(<><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></>), color: '#1E40AF' },
+      'mfc6':        { icon: I(<><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></>), color: '#15803D' },
+      'cirurgia_ortopedia': { icon: BONE, color: '#92400E' },
+      'tecnica_operatoria': { icon: I(<><path d="M2 20h20"/><path d="M6 20V10l6-6 6 6v10"/><path d="M10 14v6"/><path d="M14 14v6"/><circle cx="12" cy="10" r="2"/></>), color: '#374151' },
+      // Semestre 7
+      'mfc7':        { icon: I(<><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><line x1="19" y1="8" x2="19" y2="14"/><line x1="22" y1="11" x2="16" y2="11"/></>), color: '#166534' },
+      'pediatria':   { icon: I(<><circle cx="12" cy="8" r="5"/><path d="M20 21a8 8 0 1 0-16 0"/><path d="M12 13v3"/><path d="M10 15h4"/></>), color: '#F59E0B' },
+      'go':          { icon: I(<><circle cx="12" cy="10" r="6"/><path d="M12 16v6"/><path d="M8 20h8"/><path d="M9 7c0 0 1-2 3-2s3 2 3 2"/></>), color: '#EC4899' },
+      // Semestre 8
+      'emerg_cirurgicas': { icon: I(<><polygon points="13,2 3,14 12,14 11,22 21,10 12,10 13,2"/></>), color: '#DC2626' },
+      'saude_mental': { icon: I(<><path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96.44 2.5 2.5 0 0 1-2.96-3.08 3 3 0 0 1-.34-5.58 2.5 2.5 0 0 1 1.32-4.24 2.5 2.5 0 0 1 1.98-3A2.5 2.5 0 0 1 9.5 2Z"/><path d="M14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96.44 2.5 2.5 0 0 0 2.96-3.08 3 3 0 0 0 .34-5.58 2.5 2.5 0 0 0-1.32-4.24 2.5 2.5 0 0 0-1.98-3A2.5 2.5 0 0 0 14.5 2Z"/><circle cx="12" cy="11" r="1"/></>), color: '#7C3AED' },
+      'emerg_clinicas': { icon: I(<><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></>), color: '#EF4444' },
+      'mfc8':        { icon: I(<><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></>), color: '#047857' },
+    };
+
+    const SubjectIcon = ({ materiaId, icon: emojiIcon, cor }) => {
+      const mapping = SUBJECT_ICON_MAP[materiaId];
+      if (mapping) {
+        const SvgIcon = mapping.icon;
+        const color = mapping.color || cor || 'var(--primary)';
+        return (
+          <div className="subject-select-icon" style={{ background: color + '22', color }}>
+            <SvgIcon />
+          </div>
+        );
+      }
+      // Fallback to emoji for unmapped materias
+      return (
+        <div className="subject-select-icon" style={{ background: (cor || 'var(--primary)') + '22' }}>
+          {emojiIcon}
+        </div>
+      );
+    };
+
+    // ===================== Screens =====================
+
+    // Splash Screen
+    const SplashScreen = ({ onComplete }) => {
+      useEffect(() => {
+        const timer = setTimeout(onComplete, 2400);
+        return () => clearTimeout(timer);
+      }, [onComplete]);
+
+      return (
+        <div className="splash-screen">
+          <div className="splash-logo">🩺</div>
+          <div className="splash-text">MedUni9</div>
+        </div>
+      );
+    };
+
+    // Auth Screen
+    const AuthScreen = ({ onAuthSuccess }) => {
+      const [step, setStep] = useState(1);
+      const [code, setCode] = useState('');
+      const [email, setEmail] = useState('');
+      const [semester, setSemester] = useState(null);
+      const [fingerprint, setFingerprint] = useState('');
+      const [error, setError] = useState('');
+      const [loading, setLoading] = useState(false);
+
+      useEffect(() => {
+        generateDeviceFingerprint().then(fp => setFingerprint(fp));
+      }, []);
+
+      const handleCodeChange = (e) => {
+        let value = e.target.value.toUpperCase().replace(/[^A-Z0-9]/g, '');
+        if (value.length > 12) value = value.slice(0, 12);
+
+        if (value.length > 8) {
+          value = value.slice(0, 4) + '-' + value.slice(4, 8) + '-' + value.slice(8);
+        } else if (value.length > 4) {
+          value = value.slice(0, 4) + '-' + value.slice(4);
+        }
+        setCode(value);
+      };
+
+      const handleCodeSubmit = async () => {
+        setError('');
+        if (!code || code.length < 14) {
+          setError('Código inválido. Use o formato XXXX-XXXX-XXXX');
+          return;
+        }
+        setLoading(true);
+        setTimeout(() => {
+          setLoading(false);
+          setStep(2);
+        }, 1000);
+      };
+
+      const handleEmailSubmit = async () => {
+        setError('');
+        if (!email) {
+          setError('Email é obrigatório');
+          return;
+        }
+        setLoading(true);
+        setTimeout(() => {
+          setLoading(false);
+          setStep(3);
+        }, 500);
+      };
+
+      const handleSemesterSubmit = () => {
+        if (!semester) {
+          setError('Selecione seu semestre');
+          return;
+        }
+        const userData = {
+          email,
+          code,
+          semestre: semester,
+          deviceId: fingerprint,
+          loginDate: new Date().toISOString()
+        };
+        localStorage.setItem('meduni9_user', JSON.stringify(userData));
+        onAuthSuccess(userData);
+      };
+
+      return (
+        <div className="app-container">
+          <div className="screen-content">
+            <div className="auth-screen">
+              <div className="auth-header">
+                <div className="auth-logo">🩺</div>
+                <h1 className="auth-title">MedUni9</h1>
+                <p className="auth-subtitle">Plataforma de Estudos Meduni9</p>
+              </div>
+
+              {/* Step 1: Code */}
+              <div className={`auth-step ${step === 1 ? 'active' : ''}`}>
+                <h2 style={{ fontSize: '18px', marginBottom: '24px', color: 'var(--text-primary)' }}>
+                  Etapa 1: Código de Ativação
+                </h2>
+                <div className="form-group">
+                  <label className="form-label">Digite seu código</label>
+                  <input
+                    type="text"
+                    className="form-input"
+                    placeholder="XXXX-XXXX-XXXX"
+                    value={code}
+                    onChange={handleCodeChange}
+                    maxLength="14"
+                  />
+                  {error && step === 1 && <div className="error-message">{error}</div>}
+                </div>
+                <button
+                  className="btn btn-primary"
+                  onClick={handleCodeSubmit}
+                  disabled={loading}
+                >
+                  {loading ? '...' : 'Continuar'}
+                </button>
+              </div>
+
+              {/* Step 2: Email */}
+              <div className={`auth-step ${step === 2 ? 'active' : ''}`}>
+                <h2 style={{ fontSize: '18px', marginBottom: '24px', color: 'var(--text-primary)' }}>
+                  Etapa 2: Email
+                </h2>
+                <div className="form-group">
+                  <label className="form-label">Email da Uninove</label>
+                  <input
+                    type="email"
+                    className="form-input"
+                    placeholder="seu.email@uninove.br"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                  />
+                  {error && step === 2 && <div className="error-message">{error}</div>}
+                </div>
+                <button
+                  className="btn btn-primary"
+                  onClick={handleEmailSubmit}
+                  disabled={loading}
+                >
+                  {loading ? '...' : 'Continuar'}
+                </button>
+                <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setError(''); }}>
+                  Voltar
+                </button>
+              </div>
+
+              {/* Step 3: Semester */}
+              <div className={`auth-step ${step === 3 ? 'active' : ''}`}>
+                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
+                  Etapa 3: Seu Semestre
+                </h2>
+                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
+                  Em qual semestre da Uninove você está?
+                </p>
+                {error && step === 3 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
+                <div className="semester-grid">
+                  {[1,2,3,4,5,6,7,8,9,10,11,12].map(s => (
+                    <button
+                      key={s}
+                      className={`semester-btn ${semester === s ? 'selected' : ''}`}
+                      onClick={() => { setSemester(s); setError(''); }}
+                    >
+                      {s}º
+                    </button>
+                  ))}
+                </div>
+                <button className="btn btn-primary" onClick={handleSemesterSubmit}>
+                  Entrar
+                </button>
+                <button className="btn btn-secondary mt-2" onClick={() => { setStep(2); setError(''); }}>
+                  Voltar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
+    };
+
+    // Dashboard Screen
+    const DashboardScreen = ({ user, materias, flashcards, onSelectMateria }) => {
+      const [stats, setStats] = useState({ cardsToday: 0, questionsToday: 0, accuracy: 0 });
+      const [viewAll, setViewAll] = useState(false);
+      const userSemester = user.semestre || 1;
+
+      useEffect(() => {
+        const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+        const quizHistory = JSON.parse(localStorage.getItem('meduni9_quiz_history') || '[]');
+
+        const today = new Date().toDateString();
+        const todayQuizzes = quizHistory.filter(q => new Date(q.date).toDateString() === today);
+        const correctCount = todayQuizzes.filter(q => q.score === q.total).length;
+
+        setStats({
+          cardsToday: Object.keys(srData).length,
+          questionsToday: todayQuizzes.length,
+          accuracy: todayQuizzes.length > 0 ? Math.round((correctCount / todayQuizzes.length) * 100) : 0
+        });
+      }, []);
+
+      const dueCards = SM2.getDueCards(flashcards, JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'));
+
+      const displayMaterias = viewAll
+        ? materias
+        : materias.filter(m => m.semestre === userSemester);
+
+      // Group by semester when viewing all
+      const groupedMaterias = useMemo(() => {
+        if (!viewAll) return { [userSemester]: displayMaterias };
+        const groups = {};
+        displayMaterias.forEach(m => {
+          const sem = m.semestre || 0;
+          if (!groups[sem]) groups[sem] = [];
+          groups[sem].push(m);
+        });
+        return groups;
+      }, [displayMaterias, viewAll, userSemester]);
+
+      return (
+        <>
+          <div className="screen-content">
+            <div className="dashboard-header">
+              <h1 className="dashboard-welcome">Olá, {user.email.split('@')[0]}!</h1>
+              <p className="dashboard-date">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })} — {userSemester}º semestre</p>
+            </div>
+
+            <div className="stats-grid">
+              <div className="stat-card">
+                <div className="stat-icon"><IconLayers /></div>
+                <div className="stat-value">{stats.cardsToday}</div>
+                <div className="stat-label">Cards</div>
+              </div>
+              <div className="stat-card">
+                <div className="stat-icon"><IconClipboardList /></div>
+                <div className="stat-value">{stats.questionsToday}</div>
+                <div className="stat-label">Questões</div>
+              </div>
+              <div className="stat-card">
+                <div className="stat-icon"><IconTarget /></div>
+                <div className="stat-value">{stats.accuracy}%</div>
+                <div className="stat-label">Acurácia</div>
+              </div>
+            </div>
+
+            {dueCards.length > 0 && (
+              <div className="daily-suggestion">
+                <div className="suggestion-label">Sugestão do Dia</div>
+                <div className="suggestion-title">{dueCards.length} cards para revisar</div>
+                <div className="suggestion-progress">
+                  <div className="suggestion-progress-bar" style={{ width: `${Math.min(100, Math.round((dueCards.length / Math.max(flashcards.length, 1)) * 100))}%` }}></div>
+                </div>
+                <div className="suggestion-meta">
+                  {Math.round((dueCards.length / Math.max(flashcards.length, 1)) * 100)}% do seu deck
+                </div>
+                <button className="suggestion-cta" onClick={() => onSelectMateria(null)}>
+                  <IconPlay /> Estudar agora
+                </button>
+              </div>
+            )}
+
+            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+              <div className="section-title" style={{ margin: 0 }}>Disciplinas</div>
+              <button
+                className="semester-tab"
+                style={{ marginTop: '24px', fontSize: '12px', padding: '6px 12px' }}
+                onClick={() => setViewAll(!viewAll)}
+              >
+                {viewAll ? 'Meu semestre' : 'Ver todos'}
+              </button>
+            </div>
+
+            <div className="subject-select-list" style={{ marginTop: '16px' }}>
+              {Object.entries(groupedMaterias).sort(([a],[b]) => Number(a) - Number(b)).map(([sem, mats]) => (
+                <React.Fragment key={sem}>
+                  {viewAll && (
+                    <div className="semester-group-header">{sem}º Semestre</div>
+                  )}
+                  {mats.map((materia) => {
+                    const materiaCards = flashcards.filter(f => f.materia === materia.id && f.tipo !== 'quiz');
+                    const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+                    const reviewedCount = materiaCards.filter(f => srData[f.id]).length;
+                    const pct = materiaCards.length > 0 ? Math.round((reviewedCount / materiaCards.length) * 100) : 0;
+                    const subjectColor = SUBJECT_ICON_MAP[materia.id]?.color || materia.cor || 'var(--primary)';
+                    return (
+                      <div
+                        key={materia.id}
+                        className="subject-select-card"
+                        onClick={() => onSelectMateria(materia.id)}
+                      >
+                        <SubjectIcon materiaId={materia.id} icon={materia.icon} cor={materia.cor} />
+                        <div className="subject-select-info">
+                          <div className="subject-select-name">{materia.sigla || materia.nome}</div>
+                          <div className="subject-select-meta">
+                            {materia.nome}{materiaCards.length > 0 ? ` — ${materiaCards.length} cards` : ''}
+                          </div>
+                          {materiaCards.length > 0 && (
+                            <div className="subject-progress-bar">
+                              <div className="subject-progress-fill" style={{ width: `${pct}%`, background: subjectColor }} />
+                            </div>
+                          )}
+                        </div>
+                        <div style={{ color: 'var(--text-secondary)' }}>
+                          <IconChevronRight />
+                        </div>
+                      </div>
+                    );
+                  })}
+                </React.Fragment>
+              ))}
+
+              {displayMaterias.length === 0 && (
+                <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
+                  <p>Nenhuma disciplina para o {userSemester}º semestre ainda.</p>
+                  <button className="btn btn-secondary mt-2" onClick={() => setViewAll(true)}>
+                    Ver todas as disciplinas
+                  </button>
+                </div>
+              )}
+            </div>
+          </div>
+        </>
+      );
+    };
+
+    // Flashcards Screen
+    const FlashcardsScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester }) => {
+      const [currentIndex, setCurrentIndex] = useState(0);
+      const [isFlipped, setIsFlipped] = useState(false);
+      const [sessionComplete, setSessionComplete] = useState(false);
+      const [sessionStats, setSessionStats] = useState({ correct: 0, total: 0, skipped: 0 });
+      const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
+      const [searchQuery, setSearchQuery] = useState('');
+      const [selectedTemas, setSelectedTemas] = useState([]); // array de assuntos selecionados
+      const [studyMode, setStudyMode] = useState(null); // null = choosing, 'sm2', 'random', 'sequential'
+      const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+
+      // Reset session whenever materia changes (bug fix: sessão não persiste entre matérias)
+      useEffect(() => {
+        setCurrentIndex(0);
+        setIsFlipped(false);
+        setSessionComplete(false);
+        setSessionStats({ correct: 0, total: 0, skipped: 0 });
+        setStudyMode(null);
+        setSelectedTemas([]);
+      }, [selectedMateria]);
+
+      // Only non-quiz flashcards
+      const pureFlashcards = flashcards.filter(f => f.tipo !== 'quiz');
+
+      const filteredByMateria = pureFlashcards.filter(
+        f => !selectedMateria || f.materia === selectedMateria
+      );
+
+      // Filter by selected temas (empty array = todos os cards da materia)
+      const filtered = selectedTemas.length === 0
+        ? filteredByMateria
+        : filteredByMateria.filter(f => selectedTemas.includes(f.tema));
+
+      // Build deck based on study mode
+      const buildDeck = () => {
+        if (studyMode === 'random') {
+          return [...filtered].sort(() => Math.random() - 0.5);
+        } else if (studyMode === 'sequential') {
+          return [...filtered];
+        } else {
+          return SM2.getDueCards(filtered, srData);
+        }
+      };
+
+      const deck = useMemo(() => {
+        if (!selectedMateria || !studyMode) return [];
+        return buildDeck();
+      }, [selectedMateria, studyMode, filtered.length, selectedTemas.length]);
+
+      const currentCard = deck[currentIndex];
+
+      const handleRate = (quality) => {
+        const card = currentCard;
+        if (studyMode === 'sm2') {
+          const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
+          const result = SM2.calculateNextReview(quality, currentData.reps, currentData.ef, currentData.interval);
+          srData[card.id] = { ...result };
+          localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
+        }
+
+        if (currentIndex < deck.length - 1) {
+          setCurrentIndex(currentIndex + 1);
+          setIsFlipped(false);
+        } else {
+          setSessionComplete(true);
+          setSessionStats({
+            correct: sessionStats.correct + (quality >= 4 ? 1 : 0),
+            total: deck.length,
+            skipped: 0
+          });
+        }
+      };
+
+      const resetSession = () => {
+        setCurrentIndex(0);
+        setIsFlipped(false);
+        setSessionComplete(false);
+        setSessionStats({ correct: 0, total: 0, skipped: 0 });
+        setStudyMode(null);
+        setSelectedTemas([]);
+      };
+
+      const toggleTema = (temaId) => {
+        setSelectedTemas(prev =>
+          prev.includes(temaId) ? prev.filter(t => t !== temaId) : [...prev, temaId]
+        );
+      };
+
+      // If no materia selected, show selection screen
+      if (!selectedMateria) {
+        const materiasWithCards = materias.filter(m => {
+          const count = pureFlashcards.filter(f => f.materia === m.id).length;
+          return count > 0;
+        });
+
+        const semFiltered = semesterFilter
+          ? materiasWithCards.filter(m => m.semestre === semesterFilter)
+          : materiasWithCards;
+
+        const filteredMaterias = semFiltered.filter(m =>
+          fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
+        );
+
+        const semesters = [...new Set(materiasWithCards.map(m => m.semestre))].sort((a,b) => a-b);
+
+        return (
+          <>
+            <div className="screen-content">
+              <h2 className="section-title">Flashcards</h2>
+
+              {semesters.length > 1 && (
+                <div className="semester-tabs">
+                  <button
+                    className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
+                    onClick={() => setSemesterFilter(null)}
+                  >Todos</button>
+                  {semesters.map(s => (
+                    <button
+                      key={s}
+                      className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
+                      onClick={() => setSemesterFilter(s)}
+                    >{s}º sem</button>
+                  ))}
+                </div>
+              )}
+
+              <div className="subject-search-wrap">
+                <span className="subject-search-icon"><IconSearch /></span>
+                <input
+                  type="search"
+                  className="subject-search"
+                  placeholder="Buscar matéria..."
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
+                />
+              </div>
+
+              <div className="subject-select-list">
+                {filteredMaterias.length === 0 && (
+                  <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
+                    <p>Nenhum resultado encontrado.</p>
+                  </div>
+                )}
+                {filteredMaterias.map(m => {
+                  const count = pureFlashcards.filter(f => f.materia === m.id).length;
+                  const dueCount = SM2.getDueCards(pureFlashcards.filter(f => f.materia === m.id), srData).length;
+                  const reviewedCount = count - dueCount;
+                  const pct = count > 0 ? Math.round((reviewedCount / count) * 100) : 0;
+                  const subjectColor = SUBJECT_ICON_MAP[m.id]?.color || m.cor || 'var(--primary)';
+                  return (
+                    <div key={m.id} className="subject-select-card" onClick={() => { onSelectMateria(m.id); setStudyMode(null); }}>
+                      <SubjectIcon materiaId={m.id} icon={m.icon} cor={m.cor} />
+                      <div className="subject-select-info">
+                        <div className="subject-select-name">{m.sigla || m.nome}</div>
+                        <div className="subject-select-meta">
+                          {count} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia ✓'}
+                        </div>
+                        <div className="subject-progress-bar">
+                          <div className="subject-progress-fill" style={{ width: `${pct}%`, background: subjectColor }} />
+                        </div>
+                      </div>
+                      <div style={{ color: 'var(--text-secondary)' }}><IconChevronRight /></div>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      const selectedMateriaObj = materias.find(m => m.id === selectedMateria);
+      const backLabel = selectedMateriaObj ? (selectedMateriaObj.sigla || selectedMateriaObj.nome) : 'Flashcards';
+
+      // Tema/assunto selection screen (between materia and study mode)
+      if (!studyMode) {
+        const totalCards = filteredByMateria.length;
+        const materiaObj = materias.find(m => m.id === selectedMateria);
+        const modulos = getModulos(selectedMateria) || materiaObj?.modulos || null;
+        const hasModulos = modulos && modulos.length > 0;
+
+        // Collect all temas that have cards (for unmatched fallback)
+        const temasFromCards = [...new Set(filteredByMateria.map(f => f.tema).filter(Boolean))];
+
+        return (
+          <>
+            <div className="screen-content">
+              <button className="back-btn" onClick={() => onSelectMateria(null)}>← Flashcards</button>
+              <h2 className="section-title">{backLabel}</h2>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
+                Selecione um ou mais assuntos para estudar:
+              </p>
+              <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
+                {/* Opção: todos os cards — início rápido */}
+                <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudyMode('choose'); }}
+                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
+                  <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
+                  <div className="subject-select-info">
+                    <div className="subject-select-name">Todos os assuntos</div>
+                    <div className="subject-select-meta">{totalCards} flashcards</div>
+                  </div>
+                  <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
+                </div>
+
+                {hasModulos ? (
+                  // Show organized by modules with checkboxes
+                  modulos.map((mod, mi) => {
+                    const temasWithCards = mod.temas.filter(t => filteredByMateria.some(f => f.tema === t.id));
+                    if (temasWithCards.length === 0) return null;
+                    return (
+                      <div key={mi} style={{ marginBottom: '4px' }}>
+                        <div style={{
+                          fontSize: '0.72rem', fontWeight: 700, textTransform: 'uppercase',
+                          letterSpacing: '0.06em', color: 'var(--text-secondary)',
+                          padding: '10px 4px 6px', borderTop: '1px solid rgba(255,255,255,0.06)'
+                        }}>{mod.nome}</div>
+                        {temasWithCards.map(tema => {
+                          const cards = filteredByMateria.filter(f => f.tema === tema.id);
+                          const dueCount = SM2.getDueCards(cards, srData).length;
+                          const isChecked = selectedTemas.includes(tema.id);
+                          return (
+                            <div key={tema.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(tema.id)}>
+                              <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                              <div className="subject-select-info">
+                                <div className="subject-select-name">{tema.nome}</div>
+                                <div className="subject-select-meta">
+                                  {cards.length} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}
+                                </div>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    );
+                  })
+                ) : (
+                  // Fallback: flat list from card data with checkboxes
+                  temasFromCards.sort().map(tema => {
+                    const count = filteredByMateria.filter(f => f.tema === tema).length;
+                    const dueCount = SM2.getDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
+                    const isChecked = selectedTemas.includes(tema);
+                    return (
+                      <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(tema)}>
+                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                        <div className="subject-select-info">
+                          <div className="subject-select-name">{tema}</div>
+                          <div className="subject-select-meta">
+                            {count} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}
+                          </div>
+                        </div>
+                      </div>
+                    );
+                  })
+                )}
+              </div>
+
+              {/* Barra sticky de início com temas selecionados */}
+              {selectedTemas.length > 0 && (
+                <div className="tema-start-bar">
+                  <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
+                    {selectedTemas.length} assunto{selectedTemas.length > 1 ? 's' : ''} selecionado{selectedTemas.length > 1 ? 's' : ''}
+                  </span>
+                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => setStudyMode('choose')}>
+                    Iniciar estudo →
+                  </button>
+                </div>
+              )}
+            </div>
+          </>
+        );
+      }
+
+      // Build temaLabel for study mode / session screens
+      const temaLabel = selectedTemas.length === 0
+        ? 'Todos os assuntos'
+        : selectedTemas.length === 1
+          ? (() => {
+              const mods = getModulos(selectedMateria) || materias.find(m => m.id === selectedMateria)?.modulos || [];
+              const obj = mods.flatMap(mod => mod.temas).find(t => t.id === selectedTemas[0]);
+              return obj?.nome || selectedTemas[0];
+            })()
+          : `${selectedTemas.length} assuntos`;
+
+      // Study mode selection screen
+      if (studyMode === 'choose') {
+        const dueCount = SM2.getDueCards(filtered, srData).length;
+        return (
+          <>
+            <div className="screen-content">
+              <button className="back-btn" onClick={() => setStudyMode(null)}>← {backLabel}</button>
+              <h2 className="section-title" style={{ fontSize: '16px' }}>{temaLabel}</h2>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '8px' }}>
+                {filtered.length} cards disponíveis. Escolha o modo:
+              </p>
+              <div className="study-mode-selector">
+                <button className="study-mode-btn" onClick={() => setStudyMode('sm2')} disabled={dueCount === 0}>
+                  <span className="study-mode-icon">🧠</span>
+                  <div>
+                    <div className="study-mode-title">Revisão Espaçada</div>
+                    <div className="study-mode-desc">{dueCount > 0 ? `${dueCount} cards para revisar hoje` : 'Nenhum pendente hoje'}</div>
+                  </div>
+                </button>
+                <button className="study-mode-btn" onClick={() => setStudyMode('random')}>
+                  <span className="study-mode-icon">🎲</span>
+                  <div>
+                    <div className="study-mode-title">Aleatório</div>
+                    <div className="study-mode-desc">Todos os {filtered.length} cards embaralhados</div>
+                  </div>
+                </button>
+                <button className="study-mode-btn" onClick={() => setStudyMode('sequential')}>
+                  <span className="study-mode-icon">📋</span>
+                  <div>
+                    <div className="study-mode-title">Sequencial</div>
+                    <div className="study-mode-desc">Todos os {filtered.length} cards em ordem</div>
+                  </div>
+                </button>
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      // Session complete
+      if (sessionComplete) {
+        return (
+          <>
+            <div className="screen-content">
+              <div className="session-complete">
+                <div className="session-icon">🎉</div>
+                <h2 className="session-title">Sessão Concluída!</h2>
+                <div className="session-stats">
+                  <div className="session-stat">
+                    <span className="session-stat-label">Cards Revisados</span>
+                    <span className="session-stat-value">{sessionStats.total}</span>
+                  </div>
+                  <div className="session-stat">
+                    <span className="session-stat-label">Acertos</span>
+                    <span className="session-stat-value">{sessionStats.correct}</span>
+                  </div>
+                  <div className="session-stat">
+                    <span className="session-stat-label">Taxa de Acerto</span>
+                    <span className="session-stat-value">
+                      {Math.round((sessionStats.correct / Math.max(sessionStats.total, 1)) * 100)}%
+                    </span>
+                  </div>
+                </div>
+                <button className="btn btn-primary" onClick={resetSession}>Nova Sessão</button>
+                <button className="btn btn-secondary mt-2" onClick={() => { setStudyMode(null); setSelectedTemas([]); }}>Escolher outro assunto</button>
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      // No cards
+      if (deck.length === 0) {
+        return (
+          <>
+            <div className="screen-content">
+              <button className="back-btn" onClick={() => setStudyMode(null)}>← {temaLabel}</button>
+              <div style={{ textAlign: 'center', marginTop: '60px' }}>
+                <div style={{ fontSize: '60px', marginBottom: '20px' }}>✨</div>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                  Nenhum card para revisar agora!
+                </p>
+                <p style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
+                  Todos os cards estão em dia. Volte mais tarde.
+                </p>
+                <button className="btn btn-secondary mt-2" style={{ marginTop: '20px' }} onClick={() => setStudyMode(null)}>Escolher outro modo</button>
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      // Flashcard study session
+      return (
+        <>
+          <div className="screen-content">
+            <button className="back-btn" onClick={() => setStudyMode(null)}>
+              ← {temaLabel}
+            </button>
+
+            <div className="flashcard-progress" style={{ marginBottom: '16px' }}>
+              <div style={{ textAlign: 'center', fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
+                {currentIndex + 1} de {deck.length}
+              </div>
+              <div className="progress-dots">
+                {deck.slice(0, Math.min(deck.length, 30)).map((card, idx) => (
+                  <div
+                    key={idx}
+                    className={`progress-dot ${idx === currentIndex ? 'current' : ''} ${idx < currentIndex ? 'completed' : ''}`}
+                  ></div>
+                ))}
+                {deck.length > 30 && <span style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>+{deck.length - 30}</span>}
+              </div>
+            </div>
+
+            <div className="flashcard-container">
+              <div className="flashcard">
+                <div
+                  className={`flashcard-inner ${isFlipped ? 'flipped' : ''}`}
+                  onClick={() => setIsFlipped(!isFlipped)}
+                  style={{ cursor: 'pointer' }}
+                >
+                  <div className="flashcard-front">
+                    <div className="flashcard-label">Pergunta</div>
+                    <div className="flashcard-text">{currentCard.pergunta}</div>
+                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '8px' }}>Toque para ver a resposta</div>
+                  </div>
+                  <div className="flashcard-back">
+                    <div className="flashcard-label">Resposta</div>
+                    <div className="flashcard-text">{currentCard.resposta}</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="flashcard-actions">
+              <button className="rate-btn error" onClick={() => handleRate(1)}>
+                <IconX />
+                Errei
+              </button>
+              <button className="rate-btn warning" onClick={() => handleRate(3)}>
+                <IconClock />
+                Difícil
+              </button>
+              <button className="rate-btn success" onClick={() => handleRate(5)}>
+                <IconCheck />
+                Fácil
+              </button>
+            </div>
+          </div>
+        </>
+      );
+    };
+
+    // Quiz Screen
+    const QuizScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester }) => {
+      const [activeQuiz, setActiveQuiz] = useState(null);
+      const [activeTemas, setActiveTemas] = useState([]); // array de assuntos selecionados para o quiz
+      const [showTemaSelector, setShowTemaSelector] = useState(false); // showing tema list for a materia
+      const [pendingQuiz, setPendingQuiz] = useState(null); // materia waiting for tema selection
+      const [pendingTemas, setPendingTemas] = useState([]); // temas sendo selecionados no selector
+      const [currentQuestion, setCurrentQuestion] = useState(0);
+      const [selectedOption, setSelectedOption] = useState(null);
+      const [crossedOut, setCrossedOut] = useState(new Set());
+      const [answered, setAnswered] = useState(false);
+      const [quizStats, setQuizStats] = useState({ correct: 0, total: 0 });
+      const [startTime, setStartTime] = useState(Date.now());
+      const [quizComplete, setQuizComplete] = useState(false);
+      const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
+      const [categoryFilter, setCategoryFilter] = useState('todas');
+      const [searchQuery, setSearchQuery] = useState('');
+
+      // Separate real quiz questions from flashcards
+      const quizQuestions = useMemo(() => {
+        return flashcards.filter(f => f.tipo === 'quiz' && f.opcoes && f.opcoes.length > 0);
+      }, [flashcards]);
+
+      const quizzes = useMemo(() => {
+        const grouped = {};
+        materias.forEach(m => {
+          const questions = quizQuestions.filter(f => f.materia === m.id);
+          if (questions.length > 0) {
+            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.semestre };
+          }
+        });
+        return grouped;
+      }, [quizQuestions, materias]);
+
+      const filteredQuizzes = useMemo(() => {
+        let result = { ...quizzes };
+        // semester filter
+        if (semesterFilter) {
+          const f = {};
+          Object.entries(result).forEach(([id, q]) => {
+            if (q.semestre === semesterFilter) f[id] = q;
+          });
+          result = f;
+        }
+        // category filter — filter cards inside each quiz
+        if (categoryFilter !== 'todas') {
+          const f = {};
+          Object.entries(result).forEach(([id, q]) => {
+            const cards = q.cards.filter(c => c.categoria === categoryFilter);
+            if (cards.length > 0) f[id] = { ...q, cards };
+          });
+          result = f;
+        }
+        // search filter
+        if (searchQuery) {
+          const f = {};
+          Object.entries(result).forEach(([id, q]) => {
+            if (fuzzyMatch(searchQuery, q.name) || fuzzyMatch(searchQuery, q.sigla || '')) f[id] = q;
+          });
+          result = f;
+        }
+        return result;
+      }, [quizzes, semesterFilter, categoryFilter, searchQuery]);
+
+      const handleQuizStart = (materiaId, temasArray) => {
+        setActiveQuiz(materiaId);
+        setActiveTemas(temasArray || []);
+        setCurrentQuestion(0);
+        setSelectedOption(null);
+        setCrossedOut(new Set());
+        setAnswered(false);
+        setQuizStats({ correct: 0, total: 0 });
+        setStartTime(Date.now());
+        setShowTemaSelector(false);
+        setPendingQuiz(null);
+        setPendingTemas([]);
+        setQuizComplete(false);
+      };
+
+      const handleMateriaClick = (materiaId) => {
+        // Check if this materia has multiple temas — show selector
+        const cards = quizzes[materiaId]?.cards || [];
+        const temas = [...new Set(cards.map(c => c.tema).filter(Boolean))];
+        if (temas.length > 1) {
+          setPendingQuiz(materiaId);
+          setPendingTemas([]);
+          setShowTemaSelector(true);
+        } else {
+          handleQuizStart(materiaId, []);
+        }
+      };
+
+      const togglePendingTema = (temaId) => {
+        setPendingTemas(prev =>
+          prev.includes(temaId) ? prev.filter(t => t !== temaId) : [...prev, temaId]
+        );
+      };
+
+      const toggleCross = (idx) => {
+        const next = new Set(crossedOut);
+        if (next.has(idx)) next.delete(idx);
+        else next.add(idx);
+        if (selectedOption === idx) setSelectedOption(null);
+        setCrossedOut(next);
+      };
+
+      const getActiveCards = () => {
+        if (!activeQuiz) return [];
+        const quiz = quizzes[activeQuiz];
+        if (!quiz) return [];
+        return activeTemas.length > 0
+          ? quiz.cards.filter(c => activeTemas.includes(c.tema))
+          : quiz.cards;
+      };
+
+      const handleAnswer = () => {
+        const activeCards = getActiveCards();
+        const card = activeCards[currentQuestion];
+        const correct = selectedOption === card.correta;
+
+        if (correct) {
+          setQuizStats(prev => ({ ...prev, correct: prev.correct + 1 }));
+        }
+        setAnswered(true);
+      };
+
+      const handleNextQuestion = () => {
+        const activeCards = getActiveCards();
+        if (currentQuestion < activeCards.length - 1) {
+          setCurrentQuestion(currentQuestion + 1);
+          setSelectedOption(null);
+          setCrossedOut(new Set());
+          setAnswered(false);
+        } else {
+          const card = activeCards[currentQuestion];
+          const lastCorrect = selectedOption === card.correta;
+          const finalCorrect = quizStats.correct + (lastCorrect && !answered ? 1 : 0);
+          setQuizComplete(true);
+          const quizHistory = JSON.parse(localStorage.getItem('meduni9_quiz_history') || '[]');
+          quizHistory.push({
+            date: new Date().toISOString(),
+            materia: activeQuiz,
+            score: finalCorrect,
+            total: getActiveCards().length,
+            time: formatTime(Date.now() - startTime)
+          });
+          localStorage.setItem('meduni9_quiz_history', JSON.stringify(quizHistory));
+        }
+      };
+
+      const handleRestartQuiz = () => {
+        handleQuizStart(activeQuiz, activeTemas);
+        setQuizComplete(false);
+      };
+
+      if (quizComplete) {
+        const activeCards = getActiveCards();
+        const percentage = Math.round((quizStats.correct / Math.max(activeCards.length, 1)) * 100);
+
+        return (
+          <>
+            <div className="screen-content">
+              <div className="quiz-result-screen">
+                <div style={{ fontSize: '60px', marginBottom: '20px' }}>
+                  {percentage >= 70 ? '🎉' : percentage >= 50 ? '👍' : '💪'}
+                </div>
+                <div className="quiz-score">{percentage}%</div>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '8px' }}>
+                  {quizStats.correct} de {activeCards.length} questões
+                  {activeTemas.length === 1 && <span> — {activeTemas[0]}</span>}
+                  {activeTemas.length > 1 && <span> — {activeTemas.length} assuntos</span>}
+                </p>
+                <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
+                <div style={{ marginTop: '32px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                  <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); }}>Voltar</button>
+                </div>
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      // Tema selector screen for quiz (multi-select)
+      if (showTemaSelector && pendingQuiz) {
+        const quiz = quizzes[pendingQuiz];
+        const modulosQ = getModulos(pendingQuiz) || materias.find(m => m.id === pendingQuiz)?.modulos || null;
+        const hasModulosQ = modulosQ && modulosQ.length > 0;
+        const temasFromCardsQ = [...new Set(quiz.cards.map(c => c.tema).filter(Boolean))];
+
+        return (
+          <>
+            <div className="screen-content">
+              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); }}>← Simulados</button>
+              <h2 className="section-title">{quiz.sigla || quiz.name}</h2>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
+                Selecione um ou mais assuntos:
+              </p>
+              <div className="subject-select-list" style={{ paddingBottom: pendingTemas.length > 0 ? '72px' : '0' }}>
+                {/* Início rápido: todas as questões */}
+                <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])}
+                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
+                  <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
+                  <div className="subject-select-info">
+                    <div className="subject-select-name">Todas as questões</div>
+                    <div className="subject-select-meta">{quiz.cards.length} questões</div>
+                  </div>
+                  <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
+                </div>
+                {hasModulosQ ? (
+                  modulosQ.map((mod, mi) => {
+                    const temasWithCards = mod.temas.filter(t => quiz.cards.some(c => c.tema === t.id));
+                    if (temasWithCards.length === 0) return null;
+                    return (
+                      <div key={mi}>
+                        <div style={{
+                          fontSize: '0.72rem', fontWeight: 700, textTransform: 'uppercase',
+                          letterSpacing: '0.06em', color: 'var(--text-secondary)',
+                          padding: '10px 4px 6px', borderTop: '1px solid rgba(255,255,255,0.06)'
+                        }}>{mod.nome}</div>
+                        {temasWithCards.map(tema => {
+                          const count = quiz.cards.filter(c => c.tema === tema.id).length;
+                          const isChecked = pendingTemas.includes(tema.id);
+                          return (
+                            <div key={tema.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(tema.id)}>
+                              <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                              <div className="subject-select-info">
+                                <div className="subject-select-name">{tema.nome}</div>
+                                <div className="subject-select-meta">{count} questões</div>
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    );
+                  })
+                ) : (
+                  temasFromCardsQ.sort().map(tema => {
+                    const count = quiz.cards.filter(c => c.tema === tema).length;
+                    const isChecked = pendingTemas.includes(tema);
+                    return (
+                      <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(tema)}>
+                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                        <div className="subject-select-info">
+                          <div className="subject-select-name">{tema}</div>
+                          <div className="subject-select-meta">{count} questões</div>
+                        </div>
+                      </div>
+                    );
+                  })
+                )}
+              </div>
+
+              {/* Barra sticky de início com temas selecionados */}
+              {pendingTemas.length > 0 && (
+                <div className="tema-start-bar">
+                  <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
+                    {pendingTemas.length} assunto{pendingTemas.length > 1 ? 's' : ''} selecionado{pendingTemas.length > 1 ? 's' : ''}
+                  </span>
+                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => handleQuizStart(pendingQuiz, pendingTemas)}>
+                    Iniciar simulado →
+                  </button>
+                </div>
+              )}
+            </div>
+          </>
+        );
+      }
+
+      if (activeQuiz) {
+        const quiz = quizzes[activeQuiz];
+        const activeCards = getActiveCards();
+        const card = activeCards[currentQuestion];
+        const progress = ((currentQuestion + 1) / activeCards.length) * 100;
+
+        return (
+          <>
+            <div className="screen-content">
+              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); }}>
+                ← {activeTemas.length === 1 ? activeTemas[0] : (quiz.sigla || quiz.name)}
+              </button>
+              <div className="quiz-screen">
+                <div className="quiz-progress-section">
+                  <div className="quiz-progress-bar">
+                    <div className="quiz-progress-fill" style={{ width: `${progress}%` }}></div>
+                  </div>
+                  <div className="quiz-counter">
+                    {currentQuestion + 1} de {activeCards.length}
+                    {card.tema && activeTemas.length !== 1 && <span style={{ marginLeft: '8px', color: 'var(--primary)', fontSize: '11px' }}>{card.tema}</span>}
+                  </div>
+                </div>
+
+                <div className="quiz-question-card">
+                  <div className="quiz-question">{card.pergunta}</div>
+                </div>
+
+                <div className="quiz-options">
+                  {card.opcoes.map((option, idx) => (
+                    <div
+                      key={idx}
+                      className={`quiz-option ${
+                        crossedOut.has(idx) ? 'crossed-out' : ''
+                      } ${
+                        selectedOption === idx && !answered ? 'selected' : ''
+                      } ${
+                        answered && idx === card.correta ? 'correct' : ''
+                      } ${
+                        answered && selectedOption === idx && idx !== card.correta ? 'incorrect' : ''
+                      }`}
+                      onClick={() => {
+                        if (!answered && !crossedOut.has(idx)) setSelectedOption(idx);
+                      }}
+                    >
+                      <span>{option}</span>
+                      {!answered && !crossedOut.has(idx) && (
+                        <button
+                          className="cross-btn"
+                          onClick={(e) => { e.stopPropagation(); toggleCross(idx); }}
+                          title="Riscar alternativa"
+                        >✕</button>
+                      )}
+                    </div>
+                  ))}
+                </div>
+
+                {answered && card.explicacao && (
+                  <div className="quiz-feedback">
+                    <div className="quiz-feedback-title">
+                      {selectedOption === card.correta ? '✓ Correto!' : '✗ Incorreto'}
+                    </div>
+                    <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>{card.explicacao}</p>
+                  </div>
+                )}
+
+                {!answered ? (
+                  <button
+                    className="btn btn-primary"
+                    onClick={handleAnswer}
+                    disabled={selectedOption === null}
+                  >
+                    Confirmar Resposta
+                  </button>
+                ) : (
+                  <button className="btn btn-primary" onClick={handleNextQuestion}>
+                    {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'}
+                  </button>
+                )}
+              </div>
+            </div>
+          </>
+        );
+      }
+
+      // Quiz list with semester filter, category tabs, search
+      const semesters = [...new Set(Object.values(quizzes).map(q => q.semestre))].sort((a,b) => a-b);
+
+      return (
+        <>
+          <div className="screen-content">
+            <h2 className="section-title">Simulados</h2>
+
+            {/* Category tabs */}
+            <div className="category-tabs">
+              {[['todas','Todas'],['antiga','Questões Antigas'],['inedita','Inéditas']].map(([val, label]) => (
+                <button
+                  key={val}
+                  className={`category-tab ${categoryFilter === val ? 'active' : ''}`}
+                  onClick={() => setCategoryFilter(val)}
+                >{label}</button>
+              ))}
+            </div>
+
+            {semesters.length > 1 && (
+              <div className="semester-tabs">
+                <button
+                  className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
+                  onClick={() => setSemesterFilter(null)}
+                >Todos</button>
+                {semesters.map(s => (
+                  <button
+                    key={s}
+                    className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
+                    onClick={() => setSemesterFilter(s)}
+                  >{s}º sem</button>
+                ))}
+              </div>
+            )}
+
+            <div className="subject-search-wrap">
+              <span className="subject-search-icon">🔍</span>
+              <input
+                type="search"
+                className="subject-search"
+                placeholder="Buscar matéria..."
+                value={searchQuery}
+                onChange={e => setSearchQuery(e.target.value)}
+              />
+            </div>
+
+            <div className="subject-select-list">
+              {Object.entries(filteredQuizzes).length === 0 && (
+                <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
+                  <p>Nenhum simulado encontrado.</p>
+                </div>
+              )}
+              {Object.entries(filteredQuizzes).map(([id, quiz]) => (
+                <div key={id} className="subject-select-card" onClick={() => handleMateriaClick(id)}>
+                  <SubjectIcon materiaId={id} icon={quiz.icon} cor={quiz.cor} />
+                  <div className="subject-select-info">
+                    <div className="subject-select-name">{quiz.sigla || quiz.name}</div>
+                    <div className="subject-select-meta">{quiz.cards.length} questões — {quiz.semestre}º sem</div>
+                  </div>
+                  <div style={{ color: 'var(--text-secondary)' }}>
+                    <IconChevronRight />
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </>
+      );
+    };
+
+    // Materials Screen
+    const MaterialsScreen = ({ materias }) => {
+      const [expandedMaterias, setExpandedMaterias] = useState({});
+      const [searchQuery, setSearchQuery] = useState('');
+
+      const toggleMateria = (id) => {
+        setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
+      };
+
+      const getMateriaModulos = (materia) => getModulos(materia.id) || materia.modulos || null;
+
+      const totalTemas = (materia) => {
+        const mods = getMateriaModulos(materia);
+        if (!mods) return 0;
+        return mods.reduce((acc, mod) => acc + (mod.temas?.length || 0), 0);
+      };
+
+      const filteredMaterias = materias.filter(m =>
+        fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
+      );
+
+      return (
+        <>
+          <div className="screen-content">
+            <h2 className="section-title">Materiais de Apoio</h2>
+            <input
+              type="search"
+              className="subject-search"
+              placeholder="Buscar matéria..."
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              style={{ marginBottom: '16px' }}
+            />
+            <div className="materials-list">
+              {filteredMaterias.map(materia => {
+                const total = totalTemas(materia);
+                const isExpanded = expandedMaterias[materia.id];
+                return (
+                  <div key={materia.id} className="material-subject">
+                    <div className="material-subject-name" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                      <span style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                        <SubjectIcon materiaId={materia.id} icon={materia.icon} cor={materia.cor} />
+                        {materia.sigla || materia.nome}
+                      </span>
+                      {total > 0 && (
+                        <button
+                          onClick={() => toggleMateria(materia.id)}
+                          style={{
+                            background: 'rgba(255,255,255,0.06)',
+                            border: '1px solid rgba(255,255,255,0.12)',
+                            borderRadius: '8px',
+                            color: 'var(--text-secondary)',
+                            fontSize: '0.78rem',
+                            padding: '4px 10px',
+                            cursor: 'pointer',
+                            display: 'flex',
+                            alignItems: 'center',
+                            gap: '5px'
+                          }}
+                        >
+                          {isExpanded ? '▲' : '▼'} {total} aulas
+                        </button>
+                      )}
+                    </div>
+
+                    {total > 0 && isExpanded && (
+                      <div style={{ marginTop: '10px', marginBottom: '4px' }}>
+                        {getMateriaModulos(materia).map((mod, mi) => (
+                          <div key={mi} style={{ marginBottom: '10px' }}>
+                            <div style={{
+                              fontSize: '0.72rem',
+                              fontWeight: 700,
+                              textTransform: 'uppercase',
+                              letterSpacing: '0.06em',
+                              color: 'var(--text-secondary)',
+                              marginBottom: '6px',
+                              paddingLeft: '2px'
+                            }}>{mod.nome}</div>
+                            {mod.temas.map((tema, ti) => (
+                              <div key={ti} style={{
+                                display: 'flex',
+                                alignItems: 'flex-start',
+                                gap: '8px',
+                                padding: '7px 10px',
+                                borderRadius: '8px',
+                                background: 'rgba(255,255,255,0.03)',
+                                border: '1px solid rgba(255,255,255,0.06)',
+                                marginBottom: '4px'
+                              }}>
+                                <span style={{ color: materia.cor || 'var(--primary)', fontSize: '0.85rem', marginTop: '1px' }}>•</span>
+                                <div>
+                                  <div style={{ fontSize: '0.88rem', color: 'var(--text-primary)', fontWeight: 500 }}>{tema.nome}</div>
+                                  {tema.descricao && (
+                                    <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '2px' }}>{tema.descricao}</div>
+                                  )}
+                                </div>
+                              </div>
+                            ))}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+
+                    <div className="material-slots" style={{ marginTop: total > 0 ? '8px' : undefined }}>
+                      <div className="material-slot">
+                        <span className="material-slot-name">
+                          <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconFileText /></span>
+                          Resumo Didático
+                        </span>
+                        <span className="material-badge">Em breve</span>
+                      </div>
+                      <div className="material-slot">
+                        <span className="material-slot-name">
+                          <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconPieChart /></span>
+                          Análise de Provas
+                        </span>
+                        <span className="material-badge">Em breve</span>
+                      </div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </>
+      );
+    };
+
+    // Profile Screen
+    const ProfileScreen = ({ user, onLogout, onChangeSemester }) => {
+      const [stats, setStats] = useState({
+        cardsReviewed: 0,
+        questionsAnswered: 0,
+        streak: 0,
+        studyHours: 0
+      });
+
+      useEffect(() => {
+        const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+        const quizHistory = JSON.parse(localStorage.getItem('meduni9_quiz_history') || '[]');
+
+        setStats({
+          cardsReviewed: Object.keys(srData).length,
+          questionsAnswered: quizHistory.length,
+          streak: 5,
+          studyHours: Math.floor(quizHistory.length * 0.5)
+        });
+      }, []);
+
+      const username = user.email ? user.email.split('@')[0] : 'Usuário';
+      const avatarLetter = username.charAt(0).toUpperCase();
+
+      return (
+        <>
+          <div className="screen-content">
+            <div className="profile-avatar">{avatarLetter}</div>
+            <div className="profile-name">{username}</div>
+            <div className="profile-meta">{user.semestre || 1}º semestre · Plano Básico</div>
+
+            <div className="profile-stats">
+              <div className="profile-stat">
+                <div className="profile-stat-icon" style={{ color: 'var(--primary)' }}><IconLayers /></div>
+                <div className="profile-stat-value">{stats.cardsReviewed}</div>
+                <div className="profile-stat-label">Cards</div>
+              </div>
+              <div className="profile-stat">
+                <div className="profile-stat-icon" style={{ color: 'var(--success)' }}><IconClipboardList /></div>
+                <div className="profile-stat-value">{stats.questionsAnswered}</div>
+                <div className="profile-stat-label">Questões</div>
+              </div>
+              <div className="profile-stat">
+                <div className="profile-stat-icon" style={{ color: 'var(--warning)' }}><IconFlame /></div>
+                <div className="profile-stat-value">{stats.streak}</div>
+                <div className="profile-stat-label">Sequência</div>
+              </div>
+              <div className="profile-stat">
+                <div className="profile-stat-icon" style={{ color: 'var(--purple)' }}><IconClock /></div>
+                <div className="profile-stat-value">{stats.studyHours}h</div>
+                <div className="profile-stat-label">Estudo</div>
+              </div>
+            </div>
+
+            <div className="profile-section">
+              <div className="profile-item">
+                <span className="profile-label">Email</span>
+                <span className="profile-value" style={{ fontSize: '13px' }}>{user.email}</span>
+              </div>
+              <div className="profile-item">
+                <span className="profile-label">Semestre</span>
+                <span className="profile-value" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  {user.semestre || 1}º semestre
+                  <button
+                    className="semester-tab"
+                    style={{ fontSize: '11px', padding: '4px 10px' }}
+                    onClick={onChangeSemester}
+                  >Trocar</button>
+                </span>
+              </div>
+              <div className="profile-item">
+                <span className="profile-label">Código</span>
+                <span className="profile-value" style={{ fontSize: '12px', fontFamily: 'monospace' }}>{user.code}</span>
+              </div>
+            </div>
+
+            <button className="btn btn-error" onClick={onLogout} style={{ marginTop: '8px' }}>
+              <IconLogOut />
+              Fazer Logout
+            </button>
+
+            <div style={{ textAlign: 'center', marginTop: '24px', paddingBottom: '20px' }}>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>MedUni9 v1.0.0</p>
+            </div>
+          </div>
+        </>
+      );
+    };
+
+    // ===================== Main App =====================
+    function normalizeText(str) {
+      return (str || '').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .replace(/\s+/g, '').replace(/[^a-z0-9]/g, '');
+    }
+    function fuzzyMatch(query, target) {
+      const q = normalizeText(query);
+      const t = normalizeText(target);
+      if (!q) return true;
+      if (t.includes(q)) return true;
+      let qi = 0;
+      for (let ti = 0; ti < t.length && qi < q.length; ti++) {
+        if (t[ti] === q[qi]) qi++;
+      }
+      return qi === q.length;
+    }
+
+    const MedUni9App = () => {
+      const [stage, setStage] = useState('splash'); // splash, auth, app
+      const [user, setUser] = useState(null);
+      const [currentTab, setCurrentTab] = useState('home');
+      const [materias, setMaterias] = useState([]);
+      const [flashcards, setFlashcards] = useState([]);
+      const [selectedMateria, setSelectedMateria] = useState(null);
+      const [loading, setLoading] = useState(true);
+      const [sidebarOpen, setSidebarOpen] = useState(true);
+
+      useEffect(() => {
+        // Check if user is already logged in
+        const savedUser = localStorage.getItem('meduni9_user');
+        if (savedUser) {
+          setUser(JSON.parse(savedUser));
+          setStage('app');
+        }
+      }, []);
+
+      useEffect(() => {
+        // Load data when app starts
+        if (stage === 'app' && loading) {
+          loadAppData();
+        }
+      }, [stage, loading]);
+
+      const loadAppData = async () => {
+        try {
+          // Load data from external JSON files
+          const [materiasRes, flashcardsRes, questoesRes] = await Promise.all([
+            fetch('data/materias.json').catch(() => null),
+            fetch('data/flashcards.json').catch(() => null),
+            fetch('data/questoes.json').catch(() => null)
+          ]);
+
+          let materiasData = [];
+          let flashcardsData = [];
+
+          if (materiasRes && materiasRes.ok) {
+            const raw = await materiasRes.json();
+            // Convert object format to array with id
+            materiasData = Object.entries(raw)
+              .filter(([k]) => !k.startsWith('_'))
+              .map(([id, val]) => ({ id, ...val, pergunta: val.frente, resposta: val.verso }));
+          }
+
+          if (flashcardsRes && flashcardsRes.ok) {
+            const raw = await flashcardsRes.json();
+            const cards = raw.flashcards || raw;
+            flashcardsData = (Array.isArray(cards) ? cards : []).map(c => ({
+              ...c,
+              pergunta: c.frente || c.pergunta,
+              resposta: c.verso || c.resposta
+            }));
+          }
+
+          if (questoesRes && questoesRes.ok) {
+            const raw = await questoesRes.json();
+            const questoes = raw.questoes || raw;
+            const questoesArray = Array.isArray(questoes) ? questoes : [];
+            // Merge questoes as flashcards with quiz format
+            questoesArray.forEach(q => {
+              flashcardsData.push({
+                id: 'q_' + q.id,
+                materia: q.materia,
+                pergunta: q.enunciado,
+                resposta: q.opcoes[q.correta].replace(/^[A-D]\)\s*/, ''),
+                explicacao: q.explicacao,
+                opcoes: q.opcoes,
+                correta: q.correta,
+                tipo: 'quiz',
+                tema: q.tema,
+                dificuldade: q.dificuldade
+              });
+            });
+          }
+
+          // Fallback if no JSON files loaded
+          if (materiasData.length === 0) {
+            materiasData = [
+              { id: 'sus', nome: 'Princípios do SUS', sigla: 'SUS', icon: '🏥', semestre: 1, cor: '#6366F1' },
+              { id: 'semiologia1', nome: 'Semiologia 1', sigla: 'SEMIO1', icon: '🩺', semestre: 1, cor: '#C0392B' },
+              { id: 'bmf1', nome: 'BMF 1 — Muscular e Ósseo', sigla: 'BMF1', icon: '🦴', semestre: 1, cor: '#E85D75' },
+              { id: 'pmh', nome: 'PMH', sigla: 'PMH', icon: '📋', semestre: 1, cor: '#8B5CF6' },
+              { id: 'bmf2', nome: 'BMF 2 — Cardiopulmonar', sigla: 'BMF2', icon: '❤️', semestre: 2, cor: '#EF4444' },
+              { id: 'mad', nome: 'MAD — Mecanismos de Agressão e Defesa', sigla: 'MAD', icon: '🛡️', semestre: 2, cor: '#F59E0B' },
+              { id: 'indicadores', nome: 'Indicadores em Saúde', sigla: 'IND', icon: '📊', semestre: 2, cor: '#10B981' },
+              { id: 'bcm1', nome: 'BCM — Bases Celulares e Moleculares', sigla: 'BCM1', icon: '🧬', semestre: 2, cor: '#4A90E2' },
+            ];
+          }
+
+          if (flashcardsData.length === 0) {
+            flashcardsData = [
+              { id: 'fc1', materia: 'bcm1', frente: 'Como interpretar gasometria com pH=7.28, pCO2=32, HCO3=15?', verso: 'Acidose metabólica com compensação respiratória. pH baixo indica acidemia, HCO3 baixo confirma origem metabólica, pCO2 reduzido mostra hiperventilação compensatória.', tema: 'bcm1_acido_base', dificuldade: 2 },
+              { id: 'fc2', materia: 'bcm1', frente: 'Qual molécula regula a fluidez da membrana plasmática?', verso: 'O colesterol. Ele se intercala entre os fosfolipídeos, reduzindo a fluidez em altas temperaturas e impedindo a solidificação em baixas temperaturas.', tema: 'bcm1_membrana', dificuldade: 1 },
+              { id: 'fc3', materia: 'bmf1', frente: 'Qual célula é responsável pela síntese de matriz óssea?', verso: 'O osteoblasto. Sintetiza e secreta os componentes orgânicos da matriz óssea (colágeno tipo I e proteoglicanos), participando da mineralização.', tema: 'bmf1_tec_osseo', dificuldade: 1 },
+              { id: 'fc4', materia: 'sus', frente: 'Quais são os três princípios doutrinários do SUS?', verso: 'Universalidade (acesso a toda população), equidade (tratamento diferenciado conforme necessidade) e integralidade (atendimento completo de saúde individual e coletiva).', tema: 'SUS Princípios', dificuldade: 1 },
+            ];
+          }
+
+          setMaterias(materiasData);
+          setFlashcards(flashcardsData);
+          setLoading(false);
+        } catch (error) {
+          console.error('Erro ao carregar dados:', error);
+          setLoading(false);
+        }
+      };
+
+      const handleAuthSuccess = (userData) => {
+        setUser(userData);
+        setStage('app');
+      };
+
+      const handleLogout = () => {
+        localStorage.removeItem('meduni9_user');
+        localStorage.removeItem('meduni9_sr_data');
+        localStorage.removeItem('meduni9_quiz_history');
+        localStorage.removeItem('meduni9_stats');
+        setUser(null);
+        setStage('auth');
+        setCurrentTab('home');
+      };
+
+      if (stage === 'splash') {
+        return <SplashScreen onComplete={() => {
+          const savedUser = localStorage.getItem('meduni9_user');
+          if (savedUser) {
+            setUser(JSON.parse(savedUser));
+            setStage('app');
+          } else {
+            setStage('auth');
+          }
+        }} />;
+      }
+
+      if (stage === 'auth') {
+        return <AuthScreen onAuthSuccess={handleAuthSuccess} />;
+      }
+
+      if (loading) {
+        return (
+          <div className="app-container">
+            <div className="loading">
+              <div className="spinner"></div>
+            </div>
+          </div>
+        );
+      }
+
+      const handleChangeSemester = () => {
+        const newSem = prompt('Digite o número do novo semestre (1-12):');
+        const parsed = parseInt(newSem);
+        if (parsed >= 1 && parsed <= 12) {
+          const updated = { ...user, semestre: parsed };
+          setUser(updated);
+          localStorage.setItem('meduni9_user', JSON.stringify(updated));
+        }
+      };
+
+      const navItems = [
+        { id: 'home', label: 'Início', icon: <IconHome /> },
+        { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
+        { id: 'quiz', label: 'Simulados', icon: <IconClipboardList /> },
+        { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
+        { id: 'profile', label: 'Perfil', icon: <IconUser /> },
+      ];
+
+      // App UI with desktop sidebar
+      return (
+        <div className="desktop-layout">
+          {/* Desktop Sidebar */}
+          <div className={`desktop-sidebar${sidebarOpen ? '' : ' collapsed'}`}>
+            <div className="sidebar-logo">
+              <button
+                className="sidebar-toggle-btn"
+                onClick={() => setSidebarOpen(false)}
+                title="Fechar menu"
+                style={{ marginRight: '4px' }}
+              >☰</button>
+              <span className="sidebar-logo-icon">🩺</span>
+              <span className="sidebar-logo-text">MedUni9</span>
+            </div>
+            <div className="sidebar-nav">
+              {navItems.map(item => (
+                <div
+                  key={item.id}
+                  className={`sidebar-item ${currentTab === item.id ? 'active' : ''}`}
+                  onClick={() => setCurrentTab(item.id)}
+                >
+                  {item.icon}
+                  <span>{item.label}</span>
+                </div>
+              ))}
+            </div>
+            <div className="sidebar-footer">
+              <div className="sidebar-user-block">
+                <div className="sidebar-user-avatar">
+                  {user.email ? user.email.charAt(0).toUpperCase() : 'U'}
+                </div>
+                <div className="sidebar-user-info">
+                  <div className="sidebar-user-name">{user.email ? user.email.split('@')[0] : 'Usuário'}</div>
+                  <div className="sidebar-user-meta">{user.semestre || 1}º sem · Básico</div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Main Content */}
+          <div className="app-container">
+            {!sidebarOpen && (
+              <button
+                className="sidebar-toggle-btn"
+                onClick={() => setSidebarOpen(true)}
+                title="Abrir menu"
+                style={{ position: 'fixed', top: '16px', left: '16px', zIndex: 200 }}
+              >☰</button>
+            )}
+            {currentTab === 'home' && (
+              <DashboardScreen
+                user={user}
+                materias={materias}
+                flashcards={flashcards}
+                onSelectMateria={(id) => {
+                  setSelectedMateria(id);
+                  setCurrentTab('cards');
+                }}
+              />
+            )}
+
+            {currentTab === 'cards' && (
+              <FlashcardsScreen
+                flashcards={flashcards}
+                materias={materias}
+                selectedMateria={selectedMateria}
+                onSelectMateria={setSelectedMateria}
+                userSemester={user.semestre}
+              />
+            )}
+
+            {currentTab === 'quiz' && (
+              <QuizScreen
+                flashcards={flashcards}
+                materias={materias}
+                selectedMateria={selectedMateria}
+                onSelectMateria={setSelectedMateria}
+                userSemester={user.semestre}
+              />
+            )}
+
+            {currentTab === 'materials' && (
+              <MaterialsScreen materias={materias} />
+            )}
+
+            {currentTab === 'profile' && (
+              <ProfileScreen user={user} onLogout={handleLogout} onChangeSemester={handleChangeSemester} />
+            )}
+
+            {/* Bottom Navigation (mobile only) */}
+            <div className="bottom-nav">
+              {navItems.map(item => (
+                <div
+                  key={item.id}
+                  className={`nav-item ${currentTab === item.id ? 'active' : ''}`}
+                  onClick={() => setCurrentTab(item.id)}
+                >
+                  <div className="nav-icon">{item.icon}</div>
+                  <div className="nav-label">{item.label}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    };
+
+    // Render App
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<MedUni9App />);
+  </script>
+</body>
+</html>

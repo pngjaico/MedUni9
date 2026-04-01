@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedUni9 - Painel Administrativo</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #0A1628 0%, #1A2847 100%);
+            color: #E0E0E0;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .password-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(10, 22, 40, 0.95);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+            backdrop-filter: blur(5px);
+        }
+
+        .password-modal.hidden {
+            display: none;
+        }
+
+        .password-form {
+            background: #1A2847;
+            border: 2px solid #00B4D8;
+            border-radius: 12px;
+            padding: 40px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+            box-shadow: 0 10px 40px rgba(0, 180, 216, 0.2);
+        }
+
+        .password-form h1 {
+            color: #00B4D8;
+            margin-bottom: 30px;
+            font-size: 24px;
+        }
+
+        .password-form input {
+            width: 100%;
+            padding: 12px;
+            margin-bottom: 20px;
+            background: #0A1628;
+            border: 1px solid #00B4D8;
+            border-radius: 6px;
+            color: #E0E0E0;
+            font-size: 16px;
+        }
+
+        .password-form input::placeholder {
+            color: #666;
+        }
+
+        .password-form button {
+            width: 100%;
+            padding: 12px;
+            background: #00B4D8;
+            color: #0A1628;
+            border: none;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 16px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .password-form button:hover {
+            background: #00D4FF;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 180, 216, 0.4);
+        }
+
+        .error-message {
+            color: #FF6B6B;
+            margin-top: 15px;
+            display: none;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1000px;
+            background: #1A2847;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            overflow: hidden;
+            border: 1px solid #00B4D8;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #00B4D8 0%, #0096C7 100%);
+            color: #0A1628;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .tabs {
+            display: flex;
+            background: #0F1F2E;
+            border-bottom: 2px solid #00B4D8;
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            flex: 1;
+            padding: 15px 20px;
+            background: none;
+            border: none;
+            color: #999;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            transition: all 0.3s ease;
+            border-bottom: 3px solid transparent;
+            min-width: 120px;
+        }
+
+        .tab-btn:hover {
+            color: #00B4D8;
+            background: rgba(0, 180, 216, 0.1);
+        }
+
+        .tab-btn.active {
+            color: #00B4D8;
+            border-bottom-color: #00B4D8;
+            background: rgba(0, 180, 216, 0.15);
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .info-box {
+            background: rgba(0, 180, 216, 0.1);
+            border-left: 4px solid #00B4D8;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 6px;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .info-box strong {
+            color: #00B4D8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        table thead {
+            background: #0F1F2E;
+            border-bottom: 2px solid #00B4D8;
+        }
+
+        table th {
+            padding: 15px;
+            text-align: left;
+            color: #00B4D8;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        table td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #2A3E52;
+        }
+
+        table tbody tr:hover {
+            background: rgba(0, 180, 216, 0.05);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .badge.active {
+            background: rgba(76, 175, 80, 0.2);
+            color: #4CAF50;
+        }
+
+        .badge.inactive {
+            background: rgba(244, 67, 54, 0.2);
+            color: #F44336;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #00B4D8;
+            color: #0A1628;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        button:hover {
+            background: #00D4FF;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 180, 216, 0.3);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button.secondary {
+            background: #2A3E52;
+            color: #00B4D8;
+        }
+
+        button.secondary:hover {
+            background: #3A5E72;
+            color: #00D4FF;
+        }
+
+        button.danger {
+            background: #F44336;
+            color: white;
+        }
+
+        button.danger:hover {
+            background: #DA190B;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #0F1F2E 0%, #1A2E42 100%);
+            border: 1px solid #00B4D8;
+            border-radius: 8px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .stat-card h3 {
+            color: #00B4D8;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 10px;
+        }
+
+        .stat-card .value {
+            font-size: 32px;
+            font-weight: bold;
+            color: #00D4FF;
+        }
+
+        textarea {
+            width: 100%;
+            min-height: 400px;
+            padding: 15px;
+            background: #0A1628;
+            border: 1px solid #00B4D8;
+            border-radius: 6px;
+            color: #E0E0E0;
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 13px;
+            resize: vertical;
+            line-height: 1.5;
+        }
+
+        .validation-message {
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 6px;
+            font-size: 14px;
+            display: none;
+        }
+
+        .validation-message.success {
+            background: rgba(76, 175, 80, 0.2);
+            color: #4CAF50;
+            border-left: 3px solid #4CAF50;
+            display: block;
+        }
+
+        .validation-message.error {
+            background: rgba(244, 67, 54, 0.2);
+            color: #F44336;
+            border-left: 3px solid #F44336;
+            display: block;
+        }
+
+        .guide-section {
+            margin-bottom: 30px;
+        }
+
+        .guide-section h3 {
+            color: #00B4D8;
+            margin-bottom: 15px;
+            font-size: 18px;
+            border-bottom: 2px solid #00B4D8;
+            padding-bottom: 10px;
+        }
+
+        .guide-section ol, .guide-section ul {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+
+        .guide-section li {
+            margin-bottom: 10px;
+        }
+
+        .guide-section code {
+            background: #0A1628;
+            padding: 2px 6px;
+            border-radius: 4px;
+            color: #00B4D8;
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-size: 13px;
+        }
+
+        .subject-row {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px;
+            background: #0F1F2E;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            align-items: center;
+        }
+
+        .subject-name {
+            font-weight: 600;
+            color: #00B4D8;
+        }
+
+        .subject-stats {
+            display: flex;
+            gap: 20px;
+            font-size: 13px;
+        }
+
+        .action-cell {
+            display: flex;
+            gap: 8px;
+        }
+
+        .action-cell button {
+            padding: 6px 12px;
+            font-size: 12px;
+        }
+
+        .success-message {
+            background: rgba(76, 175, 80, 0.2);
+            color: #4CAF50;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            border-left: 4px solid #4CAF50;
+            display: none;
+        }
+
+        .success-message.show {
+            display: block;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(-20px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .code-item {
+            background: #0F1F2E;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 12px;
+            border: 1px solid #2A3E52;
+        }
+
+        .code-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .code-value {
+            font-family: 'Monaco', 'Courier New', monospace;
+            font-weight: bold;
+            color: #00D4FF;
+            font-size: 16px;
+        }
+
+        .code-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 10px;
+            margin-top: 10px;
+            font-size: 13px;
+        }
+
+        .code-detail {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .code-detail-label {
+            color: #999;
+            font-size: 12px;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+
+        .code-detail-value {
+            color: #E0E0E0;
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 20px;
+            }
+
+            .tabs {
+                flex-wrap: wrap;
+            }
+
+            .tab-btn {
+                flex: 1 1 50%;
+                min-width: auto;
+                font-size: 12px;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            table {
+                font-size: 12px;
+            }
+
+            table th, table td {
+                padding: 10px;
+            }
+
+            .action-cell {
+                flex-direction: column;
+            }
+
+            .action-cell button {
+                width: 100%;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Password Modal -->
+    <div class="password-modal" id="passwordModal">
+        <div class="password-form">
+            <h1>Painel Administrativo</h1>
+            <input type="password" id="passwordInput" placeholder="Digite a senha" autocomplete="off">
+            <button onclick="checkPassword()">Acessar</button>
+            <div class="error-message" id="errorMessage">Senha incorreta</div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="container" id="mainContainer" style="display: none;">
+        <div class="header">
+            <h1>MedUni9 - Painel Administrativo</h1>
+            <p>Gerencie conteúdo, códigos de acesso e dados da aplicação</p>
+        </div>
+
+        <!-- Tab Navigation -->
+        <div class="tabs">
+            <button class="tab-btn active" onclick="switchTab('codes')">Códigos</button>
+            <button class="tab-btn" onclick="switchTab('stats')">Estatísticas</button>
+            <button class="tab-btn" onclick="switchTab('editor')">Editor de Dados</button>
+            <button class="tab-btn" onclick="switchTab('guide')">Guia Rápido</button>
+        </div>
+
+        <!-- Content Area -->
+        <div class="content">
+            <!-- Codes Tab -->
+            <div id="codes" class="tab-content active">
+                <div class="success-message" id="codesSuccessMessage"></div>
+
+                <div class="info-box">
+                    <strong>Informação Importante:</strong> Este painel gerencia códigos na interface, mas as alterações devem ser salvas manualmente no arquivo <code>data/codigos.json</code>. Você pode exportar os dados JSON e atualizar o arquivo no seu projeto.
+                </div>
+
+                <div class="button-group">
+                    <button onclick="generateNewCode()">+ Gerar Novo Código</button>
+                    <button class="secondary" onclick="exportCodes()">⬇ Exportar Códigos (JSON)</button>
+                </div>
+
+                <div id="codesContainer">
+                    <p style="text-align: center; color: #999;">Carregando códigos...</p>
+                </div>
+            </div>
+
+            <!-- Stats Tab -->
+            <div id="stats" class="tab-content">
+                <div class="info-box">
+                    <strong>Estatísticas:</strong> Visualize a quantidade de conteúdo disponível no aplicativo por disciplina.
+                </div>
+
+                <div id="statsContainer">
+                    <p style="text-align: center; color: #999;">Carregando estatísticas...</p>
+                </div>
+            </div>
+
+            <!-- Data Editor Tab -->
+            <div id="editor" class="tab-content">
+                <div class="info-box">
+                    <strong>Editor de JSON:</strong> Cole aqui o conteúdo de flashcards ou questões em formato JSON. O editor validará o formato automaticamente.
+                </div>
+
+                <div class="button-group">
+                    <button onclick="validateJSON()">✓ Validar JSON</button>
+                    <button class="secondary" onclick="downloadEditorJSON()">⬇ Baixar JSON</button>
+                    <button class="secondary" onclick="clearEditor()">🗑 Limpar</button>
+                </div>
+
+                <textarea id="jsonEditor" placeholder="Cole aqui o conteúdo em formato JSON..."></textarea>
+                <div class="validation-message" id="validationMessage"></div>
+            </div>
+
+            <!-- Guide Tab -->
+            <div id="guide" class="tab-content">
+                <div class="guide-section">
+                    <h3>Como Adicionar Novos Códigos de Acesso</h3>
+                    <ol>
+                        <li>No painel, clique em "<strong>+ Gerar Novo Código</strong>"</li>
+                        <li>Um novo código será criado automaticamente no formato XXXX-XXXX-XXXX</li>
+                        <li>Configure o tipo de plano (Premium, Standard, Basic) editando o arquivo <code>data/codigos.json</code></li>
+                        <li>Defina o email associado (opcional) e a contagem de dispositivos</li>
+                        <li>Salve o arquivo para aplicar as mudanças</li>
+                    </ol>
+                </div>
+
+                <div class="guide-section">
+                    <h3>Como Adicionar Novos Flashcards</h3>
+                    <ol>
+                        <li>Abra o arquivo <code>data/flashcards.json</code></li>
+                        <li>Use a aba "Editor de Dados" para validar o JSON</li>
+                        <li>Estrutura esperada:</li>
+                    </ol>
+                    <pre style="background: #0A1628; padding: 15px; border-radius: 6px; overflow-x: auto; font-size: 12px;">
+{
+  "materias": [
+    {
+      "id": "anatomia",
+      "nome": "Anatomia",
+      "flashcards": [
+        {
+          "id": 1,
+          "pergunta": "Qual é o maior osso do corpo?",
+          "resposta": "O fêmur"
+        }
+      ]
+    }
+  ]
+}</pre>
+                </div>
+
+                <div class="guide-section">
+                    <h3>Como Adicionar Novas Questões</h3>
+                    <ol>
+                        <li>Abra o arquivo <code>data/questoes.json</code></li>
+                        <li>Estrutura esperada:</li>
+                    </ol>
+                    <pre style="background: #0A1628; padding: 15px; border-radius: 6px; overflow-x: auto; font-size: 12px;">
+{
+  "materias": [
+    {
+      "id": "anatomia",
+      "nome": "Anatomia",
+      "questoes": [
+        {
+          "id": 1,
+          "pergunta": "Qual osso é esse?",
+          "opcoes": ["A", "B", "C", "D"],
+          "respostaCorreta": 0,
+          "dificuldade": "média"
+        }
+      ]
+    }
+  ]
+}</pre>
+                </div>
+
+                <div class="guide-section">
+                    <h3>Deploy para Firebase</h3>
+                    <ol>
+                        <li>Instale o Firebase CLI: <code>npm install -g firebase-tools</code></li>
+                        <li>Faça login: <code>firebase login</code></li>
+                        <li>Inicialize o projeto: <code>firebase init</code></li>
+                        <li>Implante: <code>firebase deploy</code></li>
+                    </ol>
+                </div>
+
+                <div class="guide-section">
+                    <h3>Atualizar a Aplicação</h3>
+                    <ol>
+                        <li>Edite os arquivos JSON em <code>data/</code></li>
+                        <li>Teste as mudanças localmente</li>
+                        <li>Faça commit: <code>git add . && git commit -m "Update content"</code></li>
+                        <li>Envie para o repositório: <code>git push</code></li>
+                        <li>Deploy automático via Firebase Hosting ou execute <code>firebase deploy</code></li>
+                    </ol>
+                </div>
+
+                <div class="guide-section">
+                    <h3>Estrutura de Pastas</h3>
+                    <pre style="background: #0A1628; padding: 15px; border-radius: 6px; overflow-x: auto; font-size: 12px;">
+meduni9-app/
+├── index.html
+├── admin.html
+├── style.css
+├── script.js
+└── data/
+    ├── codigos.json
+    ├── materias.json
+    ├── flashcards.json
+    └── questoes.json</pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const ADMIN_PASSWORD_HASH = '458c15abc3b9607076eef0a94527c5b359f6ca88d072e2b4bc5ba5c0edc135ef';
+
+        // ==================== PASSWORD PROTECTION ====================
+        async function hashPassword(password) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(password);
+            const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+            const hashArray = Array.from(new Uint8Array(hashBuffer));
+            return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+        }
+
+        async function checkPassword() {
+            const input = document.getElementById('passwordInput');
+            const password = input.value;
+            const hash = await hashPassword(password);
+
+            if (hash === ADMIN_PASSWORD_HASH) {
+                sessionStorage.setItem('adminAuthorized', 'true');
+                document.getElementById('passwordModal').classList.add('hidden');
+                document.getElementById('mainContainer').style.display = 'block';
+                loadAllData();
+            } else {
+                document.getElementById('errorMessage').style.display = 'block';
+                input.value = '';
+                input.focus();
+            }
+        }
+
+        // Allow Enter key to submit password
+        document.addEventListener('DOMContentLoaded', function() {
+            const passwordInput = document.getElementById('passwordInput');
+            passwordInput.addEventListener('keypress', function(event) {
+                if (event.key === 'Enter') {
+                    checkPassword();
+                }
+            });
+
+            // Check if already authorized
+            if (sessionStorage.getItem('adminAuthorized') === 'true') {
+                document.getElementById('passwordModal').classList.add('hidden');
+                document.getElementById('mainContainer').style.display = 'block';
+                loadAllData();
+            } else {
+                passwordInput.focus();
+            }
+        });
+
+        // ==================== TAB MANAGEMENT ====================
+        function switchTab(tabName) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+
+            // Show selected tab
+            document.getElementById(tabName).classList.add('active');
+            event.target.classList.add('active');
+
+            // Load data for specific tabs
+            if (tabName === 'codes') {
+                loadCodes();
+            } else if (tabName === 'stats') {
+                loadStats();
+            }
+        }
+
+        // ==================== CODES MANAGEMENT ====================
+        let codesData = [];
+
+        async function loadCodes() {
+            try {
+                const response = await fetch('../data/codigos.json');
+                if (!response.ok) throw new Error('Arquivo não encontrado');
+                codesData = await response.json();
+                if (!Array.isArray(codesData)) {
+                    codesData = codesData.codigos || [];
+                }
+                renderCodes();
+            } catch (error) {
+                document.getElementById('codesContainer').innerHTML = `
+                    <div style="color: #F44336; padding: 20px; text-align: center;">
+                        ⚠ Erro ao carregar códigos: ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        function renderCodes() {
+            const container = document.getElementById('codesContainer');
+            if (codesData.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: #999;">Nenhum código cadastrado ainda</p>';
+                return;
+            }
+
+            let html = '';
+            codesData.forEach((code, index) => {
+                const status = code.ativo ? 'active' : 'inactive';
+                const statusLabel = code.ativo ? 'Ativo' : 'Inativo';
+
+                html += `
+                    <div class="code-item">
+                        <div class="code-header">
+                            <div class="code-value">${code.codigo || 'N/A'}</div>
+                            <span class="badge ${status}">${statusLabel}</span>
+                        </div>
+                        <div class="code-details">
+                            <div class="code-detail">
+                                <div class="code-detail-label">Tipo de Plano</div>
+                                <div class="code-detail-value">${code.plano || 'N/A'}</div>
+                            </div>
+                            <div class="code-detail">
+                                <div class="code-detail-label">Email</div>
+                                <div class="code-detail-value">${code.email || 'Não informado'}</div>
+                            </div>
+                            <div class="code-detail">
+                                <div class="code-detail-label">Dispositivos</div>
+                                <div class="code-detail-value">${code.dispositivos || 0}</div>
+                            </div>
+                        </div>
+                        <div style="margin-top: 12px; display: flex; gap: 8px; flex-wrap: wrap;">
+                            <button onclick="copyCode('${code.codigo}')" class="secondary" style="padding: 6px 12px; font-size: 12px;">📋 Copiar</button>
+                            <button onclick="deactivateCode(${index})" class="danger" style="padding: 6px 12px; font-size: 12px;">🚫 Desativar</button>
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        function generateNewCode() {
+            const code = generateRandomCode();
+            const newCodeObj = {
+                codigo: code,
+                plano: 'Premium',
+                email: '',
+                dispositivos: 1,
+                ativo: true,
+                dataCriacao: new Date().toISOString()
+            };
+
+            codesData.push(newCodeObj);
+            renderCodes();
+            showSuccessMessage('codesSuccessMessage', `Código ${code} gerado com sucesso! Não esqueça de salvar em codigos.json`);
+        }
+
+        function generateRandomCode() {
+            const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+            let code = '';
+            for (let i = 0; i < 12; i++) {
+                if (i === 4 || i === 8) {
+                    code += '-';
+                } else {
+                    code += chars.charAt(Math.floor(Math.random() * chars.length));
+                }
+            }
+            return code;
+        }
+
+        function copyCode(code) {
+            navigator.clipboard.writeText(code).then(() => {
+                showSuccessMessage('codesSuccessMessage', `Código "${code}" copiado!`);
+            });
+        }
+
+        function deactivateCode(index) {
+            if (confirm('Tem certeza que deseja desativar este código?')) {
+                codesData[index].ativo = false;
+                renderCodes();
+                showSuccessMessage('codesSuccessMessage', 'Código desativado! Salve em codigos.json para aplicar permanentemente');
+            }
+        }
+
+        function exportCodes() {
+            const dataStr = JSON.stringify(codesData, null, 2);
+            const dataBlob = new Blob([dataStr], { type: 'application/json' });
+            const url = URL.createObjectURL(dataBlob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'codigos.json';
+            link.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // ==================== STATS MANAGEMENT ====================
+        async function loadStats() {
+            try {
+                const [materiasRes, flashcardsRes, questoesRes] = await Promise.all([
+                    fetch('../data/materias.json'),
+                    fetch('../data/flashcards.json'),
+                    fetch('../data/questoes.json')
+                ]);
+
+                if (!materiasRes.ok || !flashcardsRes.ok || !questoesRes.ok) {
+                    throw new Error('Um ou mais arquivos não foram encontrados');
+                }
+
+                const materias = await materiasRes.json();
+                const flashcards = await flashcardsRes.json();
+                const questoes = await questoesRes.json();
+
+                renderStats(materias, flashcards, questoes);
+            } catch (error) {
+                document.getElementById('statsContainer').innerHTML = `
+                    <div style="color: #F44336; padding: 20px; text-align: center;">
+                        ⚠ Erro ao carregar estatísticas: ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        function renderStats(materias, flashcards, questoes) {
+            const container = document.getElementById('statsContainer');
+
+            const materiasArray = materias.materias || materias;
+            const flashcardsArray = flashcards.materias || flashcards;
+            const questoesArray = questoes.materias || questoes;
+
+            // Count totals
+            let totalFlashcards = 0;
+            let totalQuestoes = 0;
+
+            flashcardsArray.forEach(materia => {
+                totalFlashcards += (materia.flashcards || []).length;
+            });
+
+            questoesArray.forEach(materia => {
+                totalQuestoes += (materia.questoes || []).length;
+            });
+
+            // Create stats cards
+            let html = `
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Disciplinas</h3>
+                        <div class="value">${materiasArray.length}</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Flashcards</h3>
+                        <div class="value">${totalFlashcards}</div>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Questões</h3>
+                        <div class="value">${totalQuestoes}</div>
+                    </div>
+                </div>
+
+                <h3 style="color: #00B4D8; margin-top: 30px; margin-bottom: 20px;">Conteúdo por Disciplina</h3>
+            `;
+
+            // Detailed breakdown by subject
+            materiasArray.forEach(materia => {
+                const flashcardsCount = flashcardsArray.find(m => m.id === materia.id)?.flashcards?.length || 0;
+                const questoesCount = questoesArray.find(m => m.id === materia.id)?.questoes?.length || 0;
+                const hasContent = flashcardsCount > 0 || questoesCount > 0;
+
+                html += `
+                    <div class="subject-row">
+                        <div class="subject-name">${materia.nome}</div>
+                        <div class="subject-stats">
+                            <div>${flashcardsCount} flashcard${flashcardsCount !== 1 ? 's' : ''}</div>
+                            <div>${questoesCount} questão${questoesCount !== 1 ? 's' : ''}</div>
+                            ${hasContent ? '<div style="color: #4CAF50;">✓ Conteúdo OK</div>' : '<div style="color: #F44336;">✗ Sem conteúdo</div>'}
+                        </div>
+                    </div>
+                `;
+            });
+
+            container.innerHTML = html;
+        }
+
+        // ==================== DATA EDITOR ====================
+        function validateJSON() {
+            const editor = document.getElementById('jsonEditor');
+            const message = document.getElementById('validationMessage');
+
+            try {
+                JSON.parse(editor.value);
+                message.textContent = '✓ JSON válido e bem formatado!';
+                message.className = 'validation-message success';
+            } catch (error) {
+                message.textContent = '✗ JSON inválido: ' + error.message;
+                message.className = 'validation-message error';
+            }
+        }
+
+        function downloadEditorJSON() {
+            const editor = document.getElementById('jsonEditor');
+            try {
+                JSON.parse(editor.value);
+                const dataBlob = new Blob([editor.value], { type: 'application/json' });
+                const url = URL.createObjectURL(dataBlob);
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = 'dados.json';
+                link.click();
+                URL.revokeObjectURL(url);
+            } catch (error) {
+                alert('JSON inválido. Corrija os erros antes de baixar.');
+            }
+        }
+
+        function clearEditor() {
+            if (confirm('Deseja limpar o editor?')) {
+                document.getElementById('jsonEditor').value = '';
+                document.getElementById('validationMessage').className = 'validation-message';
+            }
+        }
+
+        // ==================== UTILITIES ====================
+        function loadAllData() {
+            loadCodes();
+        }
+
+        function showSuccessMessage(elementId, message) {
+            const element = document.getElementById(elementId);
+            element.textContent = message;
+            element.classList.add('show');
+
+            setTimeout(() => {
+                element.classList.remove('show');
+            }, 4000);
+        }
+    </script>
+</body>
+</html>
