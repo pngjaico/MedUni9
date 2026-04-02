@@ -1977,59 +1977,8 @@
     };
 
     // ===================== Módulos por Matéria (embutido no HTML) =====================
-    const MODULOS_CONFIG = {
-      bcm1: [
-        { nome: "Módulo 1 — Química da Vida", temas: [
-          { id: "bcm1_agua_ph", nome: "Água, pH e Tampões Biológicos", descricao: "Propriedades da água, ionização, pH, pKa, tampões fisiológicos" },
-          { id: "bcm1_aminoacidos", nome: "Aminoácidos — Estrutura e Classificação", descricao: "20 aminoácidos protéicos, grupos R, titulação, ponto isoelétrico" },
-          { id: "bcm1_proteinas_est", nome: "Proteínas — Estrutura e Função", descricao: "Estruturas primária, secundária, terciária e quaternária; desnaturação; hemoglobina e mioglobina" }
-        ]},
-        { nome: "Módulo 2 — Metabolismo de Carboidratos", temas: [
-          { id: "bcm1_carboidratos", nome: "Carboidratos — Estrutura e Classificação", descricao: "Monossacarídeos, dissacarídeos, polissacarídeos; glicose, frutose, galactose" },
-          { id: "bcm1_glicose", nome: "Glicólise e Regulação", descricao: "10 etapas da glicólise, enzimas-chave, regulação alostérica, fermentação" },
-          { id: "bcm1_krebs", nome: "Ciclo de Krebs (Ácido Cítrico)", descricao: "8 etapas, enzimas, cofatores, produção de NADH, FADH2 e GTP" },
-          { id: "bcm1_fosforilacao", nome: "Fosforilação Oxidativa e Cadeia Respiratória", descricao: "Complexos I–IV, ATP sintase, quimiosmose, rendimento energético total" },
-          { id: "bcm1_glicogenio", nome: "Glicogênio — Síntese e Degradação", descricao: "Glicogênese, glicogenólise, regulação hormonal (glucagon/insulina), doença de McArdle" },
-          { id: "bcm1_gliconeogenese", nome: "Gliconeogênese e Ciclo de Cori", descricao: "Substratos, enzimas exclusivas, regulação, Ciclo de Cori, Ciclo glicose-alanina" }
-        ]},
-        { nome: "Módulo 3 — Metabolismo de Lipídeos", temas: [
-          { id: "bcm1_lipideos", nome: "Lipídeos — Estrutura e Classificação", descricao: "Ácidos graxos, triglicerídeos, fosfolipídeos, colesterol, esfingolipídeos" },
-          { id: "bcm1_betaoxidacao", nome: "Beta-oxidação dos Ácidos Graxos", descricao: "Ativação, transporte (carnitina), espiral de β-oxidação, rendimento energético" },
-          { id: "bcm1_sintese_ag", nome: "Síntese de Ácidos Graxos", descricao: "Acetil-CoA carboxilase, complexo FAS, elongação, dessaturação, regulação" },
-          { id: "bcm1_corpos_cetonicos", nome: "Corpos Cetônicos e Lipoproteínas", descricao: "Cetogênese, cetólise, cetoacidose diabética; quilomícrons, VLDL, LDL, HDL" }
-        ]},
-        { nome: "Módulo 4 — Aminoácidos e Nucleotídeos", temas: [
-          { id: "bcm1_catabolismo_aa", nome: "Catabolismo de Aminoácidos e Ciclo da Ureia", descricao: "Transaminação, desaminação oxidativa, ciclo da ureia, hiperamonemia" },
-          { id: "bcm1_nucleotideos", nome: "Nucleotídeos — Estrutura e Metabolismo", descricao: "Purinas e pirimidinas, síntese de novo vs. salvagem, degradação, gota" }
-        ]},
-        { nome: "Módulo 5 — Biologia Molecular", temas: [
-          { id: "bcm1_dna_replicacao", nome: "DNA — Estrutura e Replicação", descricao: "Dupla hélice, bases nitrogenadas, semiconservativa, DNA pol, topoisomerases, telômeros" },
-          { id: "bcm1_transcricao", nome: "Transcrição e Processamento do RNA", descricao: "RNA pol, promotores, mRNA, rRNA, tRNA, splicing, cap 5', cauda poli-A" },
-          { id: "bcm1_traducao", nome: "Tradução e Código Genético", descricao: "Código genético, codons, ribossomos, fases da tradução, modificações pós-traducionais" },
-          { id: "bcm1_regulacao_genica", nome: "Regulação Gênica e Mutações", descricao: "Operon lac, regulação em eucariotos, tipos de mutação, reparo do DNA, proto-oncogenes" }
-        ]},
-        { nome: "Módulo 6 — Genética", temas: [
-          { id: "bcm1_genetica_mendeliana", nome: "Genética Mendeliana — 1ª e 2ª Leis", descricao: "Segregação, segregação independente, dominância, recessividade, cruzamentos" },
-          { id: "bcm1_genetica_ligada_sexo", nome: "Herança Ligada ao Sexo e Padrões Não-Mendelianos", descricao: "Cromossomos sexuais, daltonismo, hemofilia, herança mitocondrial, imprinting" },
-          { id: "bcm1_sindromos_cromossomicos", nome: "Síndromes Cromossômicas", descricao: "Down (trissomia 21), Turner (45,X), Klinefelter (47,XXY), cariotipagem" },
-          { id: "bcm1_biotecnologia", nome: "Biotecnologia Básica — PCR, Clonagem, Sequenciamento", descricao: "PCR, eletroforese, RFLP, clonagem molecular, CRISPR-Cas9 introdução" }
-        ]},
-        { nome: "Módulo 7 — Biologia Celular", temas: [
-          { id: "bcm1_organelas", nome: "Estrutura Celular — Organelas e Compartimentos", descricao: "Núcleo, mitocôndria, retículo endoplasmático, Golgi, lisossomos, peroxissomos" },
-          { id: "bcm1_membrana", nome: "Membrana Celular — Composição e Transporte", descricao: "Modelo mosaico fluido, transporte passivo/ativo, bomba Na+/K+, osmose, endocitose" },
-          { id: "bcm1_ciclo_celular", nome: "Ciclo Celular e Divisão Celular (Mitose/Meiose)", descricao: "Fases G1/S/G2/M, ciclinas, CDKs, checkpoints, mitose vs. meiose, crossing-over" },
-          { id: "bcm1_sinalizacao", nome: "Sinalização Celular", descricao: "Receptores de membrana, GPCRs, AMPc, cascata MAPK, sinalização por insulina" }
-        ]},
-        { nome: "Módulo 8 — Enzimologia", temas: [
-          { id: "bcm1_enzimas_cinetica", nome: "Enzimas — Cinética e Inibição", descricao: "Michaelis-Menten, Km, Vmax, inibição competitiva/não-competitiva/irreversível, alosteria" },
-          { id: "bcm1_vitaminas", nome: "Vitaminas e Coenzimas", descricao: "Vitaminas hidrossolúveis (B1–B12, C) e lipossolúveis (A, D, E, K), coenzimas derivadas" }
-        ]},
-        { nome: "Módulo 9 — Integração Metabólica", temas: [
-          { id: "bcm1_acido_base", nome: "Equilíbrio Ácido-Base e Gasometria", descricao: "pH, pCO2, HCO3, acidose/alcalose respiratória e metabólica, compensações" },
-          { id: "bcm1_integracao", nome: "Integração Metabólica — Diabetes, Jejum e Exercício", descricao: "Estado alimentado vs. jejum, papel dos hormônios, DM1/DM2, exercício aeróbio e anaeróbio" }
-        ]}
-      ]
-    };
+    // Todas as disciplinas lidas de data/materias.json — MODULOS_CONFIG mantido vazio.
+    const MODULOS_CONFIG = {};
     const getModulos = (materiaId) => MODULOS_CONFIG[materiaId] || null;
 
     // ===================== SVG Icons =====================
