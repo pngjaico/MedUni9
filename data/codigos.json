@@ -64,6 +64,51 @@
       "email": null,
       "expira": null,
       "nota": "Vitalício"
+    },
+    "3204552e64bb56c56d8b7381ab066010eefe53eb32a69a7f9e0f5e44cb4b5c84": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
+      "nota": "Lançamento 2026 - 01"
+    },
+    "17bb79cc25bfa26b40250f3f11e937bf96c31d34789abe7b307935de76f1a5d9": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
+      "nota": "Lançamento 2026 - 02"
+    },
+    "3508b1abb6b6dbd63aebc9a4357efe8d234410deb5d5c3aaf362e18c5fd42ff3": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
+      "nota": "Lançamento 2026 - 03"
+    },
+    "1d1347e38d2f95b3874fb3fad68a34b2f17b18562b5a8a60317e7d6c79d7d61a": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
+      "nota": "Lançamento 2026 - 04"
+    },
+    "37a1057c342cb067f50e1586af1533d830ffeadf8b2bd301de02cb0822f71eab": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2026-12-31",
+      "nota": "Lançamento 2026 - 05"
     }
   }
 }
