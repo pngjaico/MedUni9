@@ -1,0 +1,71 @@
+// ===============================================================
+// Assumed Data Model
+// ===============================================================
+//
+// Collection: feedback
+// Document ID: auto-generated
+// Fields:
+//   - tipo:       string (required) - "bug" | "sugestao" | "conteudo" | "interface"
+//   - mensagem:   string (required, 1-500 chars) - texto livre do usuário
+//   - criadoEm:   string (required) - ISO 8601 date string
+//   - disciplina: string (optional, max 20 chars) - sigla da disciplina
+//
+// ===============================================================
+
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Bloqueia tudo por padrão
+    match /{document=**} {
+      allow read, write: if false;
+    }
+
+    match /feedback/{docId} {
+      // Ninguém lê, atualiza ou deleta pelo client
+      allow read, update, delete: if false;
+
+      // Qualquer pessoa pode enviar feedback com validação estrita dos campos
+      allow create: if isValidFeedback();
+    }
+  }
+
+  // ===============================================================
+  // Helper Functions
+  // ===============================================================
+
+  function isValidTipo() {
+    return request.resource.data.tipo is string &&
+           request.resource.data.tipo in ['bug', 'sugestao', 'conteudo', 'interface'];
+  }
+
+  function isValidMensagem() {
+    return request.resource.data.mensagem is string &&
+           request.resource.data.mensagem.size() >= 1 &&
+           request.resource.data.mensagem.size() <= 500;
+  }
+
+  function isValidCriadoEm() {
+    return request.resource.data.criadoEm is string &&
+           request.resource.data.criadoEm.size() >= 10;
+  }
+
+  function hasOnlyAllowedFields() {
+    return request.resource.data.keys().hasAll(['tipo', 'mensagem', 'criadoEm']) &&
+           request.resource.data.keys().hasOnly(['tipo', 'mensagem', 'criadoEm', 'disciplina']);
+  }
+
+  function isValidDisciplina() {
+    return !('disciplina' in request.resource.data) ||
+           (request.resource.data.disciplina is string &&
+            request.resource.data.disciplina.size() <= 20);
+  }
+
+  function isValidFeedback() {
+    return hasOnlyAllowedFields() &&
+           isValidTipo() &&
+           isValidMensagem() &&
+           isValidCriadoEm() &&
+           isValidDisciplina();
+  }
+}

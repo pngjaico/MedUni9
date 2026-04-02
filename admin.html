@@ -224,6 +224,22 @@
         .module-card-title { font-size: 16px; font-weight: 700; }
         .module-subjects { font-size: 12px; color: var(--text-secondary); line-height: 1.6; }
 
+        /* Discipline list inside module card */
+        .discipline-list { margin-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+        .discipline-row {
+            display: flex; justify-content: space-between; align-items: center;
+            background: rgba(255,255,255,0.05); border-radius: 8px; padding: 7px 10px;
+            font-size: 13px;
+        }
+        .discipline-row.disc-inactive { opacity: 0.45; }
+        .discipline-row-info { display: flex; align-items: center; gap: 8px; }
+        .discipline-badge { font-size: 11px; background: rgba(0,180,216,0.15); color: var(--primary); border-radius: 5px; padding: 2px 6px; }
+        .module-summary { font-size: 12px; color: var(--text-secondary); margin-top: 4px; }
+        .toggle-sm { width: 36px; height: 20px; }
+        .toggle-sm .toggle-slider { border-radius: 20px; }
+        .toggle-sm .toggle-slider:before { height: 14px; width: 14px; left: 3px; bottom: 3px; }
+        .toggle-sm input:checked + .toggle-slider:before { transform: translateX(16px); }
+
         /* Toggle switch */
         .toggle { position: relative; display: inline-block; width: 44px; height: 24px; }
         .toggle input { opacity: 0; width: 0; height: 0; }
@@ -421,13 +437,17 @@
             <!-- ===== MODULES ===== -->
             <div class="admin-section" id="section-modules">
                 <div class="page-header">
-                    <h1>Gestão de Módulos</h1>
-                    <p>Ative ou desative módulos do aplicativo</p>
+                    <h1>Gestão de Módulos e Disciplinas</h1>
+                    <p>Ative ou desative módulos inteiros ou disciplinas individuais</p>
                 </div>
                 <div class="alert alert-info">
-                    ⚠️ Alterações nos módulos requerem edição manual do arquivo <code>data/materias.json</code> e redeploy no Firebase. Use o botão "Exportar" para obter o JSON atualizado.
+                    💡 Alterações são salvas automaticamente. Para publicar no app, use <strong>Git &amp; Deploy</strong> após ajustar.
                 </div>
-                <button class="btn btn-ghost" onclick="exportMaterias()" style="margin-bottom: 20px;">⬇ Exportar materias.json</button>
+                <div style="display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap;">
+                    <button class="btn btn-ghost" onclick="exportMaterias()">⬇ Exportar materias.json</button>
+                    <button class="btn btn-ghost" onclick="toggleAllModules(true)">✅ Ativar Tudo</button>
+                    <button class="btn btn-ghost" onclick="toggleAllModules(false)">🚫 Desativar Tudo</button>
+                </div>
                 <div class="modules-grid" id="modulesGrid"></div>
             </div>
 
@@ -1131,40 +1151,84 @@
             const byModule = {};
             Object.entries(materiasData).forEach(([id, m]) => {
                 const mod = m.modulo || 0;
-                if (!byModule[mod]) byModule[mod] = { materias: [], anyActive: false };
+                if (!byModule[mod]) byModule[mod] = { materias: [] };
                 byModule[mod].materias.push({ id, ...m });
-                if (m.ativo !== false) byModule[mod].anyActive = true;
             });
 
             grid.innerHTML = Object.entries(byModule).sort(([a],[b]) => a-b).map(([mod, data]) => {
-                const isActive = data.anyActive;
-                return `<div class="module-card ${isActive ? '' : 'inactive'}">
+                const total  = data.materias.length;
+                const active = data.materias.filter(m => m.ativo !== false).length;
+                const allOn  = active === total;
+                const anyOn  = active > 0;
+                return `<div class="module-card ${anyOn ? '' : 'inactive'}" style="min-width:0;">
                     <div class="module-card-header">
-                        <div class="module-card-title">Módulo ${mod}</div>
-                        <label class="toggle">
-                            <input type="checkbox" ${isActive ? 'checked' : ''} onchange="toggleModule(${mod}, this.checked)">
-                            <span class="toggle-slider"></span>
-                        </label>
+                        <div class="module-card-title">📚 Módulo ${mod}</div>
+                        <div style="display:flex;align-items:center;gap:10px;">
+                            <span class="module-summary">${active}/${total} ativas</span>
+                            <label class="toggle" title="${allOn ? 'Desativar módulo inteiro' : 'Ativar módulo inteiro'}">
+                                <input type="checkbox" ${anyOn ? 'checked' : ''} onchange="toggleModule(${mod}, this.checked)">
+                                <span class="toggle-slider"></span>
+                            </label>
+                        </div>
                     </div>
-                    <div class="module-subjects">
-                        ${data.materias.map(m => `${m.icon || '📖'} ${m.sigla || m.id}`).join(' · ')}
-                    </div>
-                    <div style="font-size: 12px; color: var(--text-secondary);">
-                        ${data.materias.length} disciplinas · ${isActive ? '<span style="color:var(--success)">Visível</span>' : '<span style="color:var(--error)">Oculto</span>'}
+                    <div class="discipline-list">
+                        ${data.materias.map(m => {
+                            const on = m.ativo !== false;
+                            const cards = m.totalCards || 0;
+                            const qs    = m.totalQuestoes || 0;
+                            return `<div class="discipline-row ${on ? '' : 'disc-inactive'}">
+                                <div class="discipline-row-info">
+                                    <span>${m.icon || '📖'}</span>
+                                    <span style="font-weight:600">${m.sigla || m.id}</span>
+                                    <span style="color:var(--text-secondary);font-size:12px">${m.nome || ''}</span>
+                                </div>
+                                <div style="display:flex;align-items:center;gap:8px;">
+                                    ${cards ? `<span class="discipline-badge">${cards}🃏</span>` : ''}
+                                    ${qs    ? `<span class="discipline-badge">${qs}❓</span>` : ''}
+                                    <label class="toggle toggle-sm" title="${on ? 'Desativar' : 'Ativar'} ${m.sigla || m.id}">
+                                        <input type="checkbox" ${on ? 'checked' : ''} onchange="toggleDiscipline('${m.id}', this.checked)">
+                                        <span class="toggle-slider"></span>
+                                    </label>
+                                </div>
+                            </div>`;
+                        }).join('')}
                     </div>
                 </div>`;
             }).join('');
         }
 
         async function toggleModule(mod, active) {
+            const modNum = parseInt(mod);
             Object.entries(materiasData).forEach(([id, m]) => {
-                if (m.modulo === mod) materiasData[id].ativo = active;
+                if ((m.modulo || 0) === modNum) materiasData[id].ativo = active;
             });
             renderModules();
             renderDashboard();
             try {
                 await apiSave('materias', materiasData);
                 showToast(`Módulo ${mod} ${active ? 'ativado' : 'desativado'} e salvo!`);
+            } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
+        }
+
+        async function toggleDiscipline(id, active) {
+            if (!materiasData[id]) return;
+            materiasData[id].ativo = active;
+            renderModules();
+            renderDashboard();
+            try {
+                await apiSave('materias', materiasData);
+                const sigla = materiasData[id].sigla || id;
+                showToast(`${sigla} ${active ? 'ativada' : 'desativada'} e salva!`);
+            } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
+        }
+
+        async function toggleAllModules(active) {
+            Object.keys(materiasData).forEach(id => { materiasData[id].ativo = active; });
+            renderModules();
+            renderDashboard();
+            try {
+                await apiSave('materias', materiasData);
+                showToast(active ? 'Todas as disciplinas ativadas!' : 'Todas as disciplinas desativadas!');
             } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
         }
 

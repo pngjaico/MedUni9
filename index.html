@@ -990,6 +990,84 @@
       background: rgba(16, 185, 129, 0.1);
     }
 
+    /* Anki-style flashcard enhancements */
+    .flashcard-hint {
+      fontSize: 12px;
+      color: var(--text-secondary);
+      margin-top: 8px;
+      opacity: 0.6;
+      font-size: 12px;
+    }
+
+    .flashcard-answer {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    .flashcard-explanation {
+      font-size: 12px;
+      line-height: 1.5;
+      color: var(--text-secondary);
+      opacity: 0.5;
+      margin-top: 12px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      text-align: left;
+      width: 100%;
+    }
+
+    .anki-actions {
+      margin-top: 16px;
+    }
+
+    .anki-actions .rate-btn {
+      font-size: 14px;
+      font-weight: 700;
+      padding: 14px 10px;
+      flex-direction: row;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    .rate-shortcut {
+      font-size: 10px;
+      opacity: 0.5;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 500;
+    }
+
+    /* Quiz keyboard hints */
+    .kbd-hint {
+      font-size: 10px;
+      opacity: 0.5;
+      background: rgba(255, 255, 255, 0.08);
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-left: 8px;
+      font-weight: 500;
+    }
+
+    .quiz-option-number {
+      font-size: 11px;
+      font-weight: 600;
+      opacity: 0.4;
+      min-width: 18px;
+      height: 18px;
+      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255, 255, 255, 0.06);
+      margin-right: 8px;
+      flex-shrink: 0;
+    }
+
+    .quiz-action-bar {
+      margin-top: 16px;
+    }
+
     .session-complete {
       text-align: center;
       padding: 40px 0;
@@ -2714,72 +2792,78 @@
       const [currentIndex, setCurrentIndex] = useState(0);
       const [isFlipped, setIsFlipped] = useState(false);
       const [sessionComplete, setSessionComplete] = useState(false);
-      const [sessionStats, setSessionStats] = useState({ correct: 0, total: 0, skipped: 0 });
+      const [sessionStats, setSessionStats] = useState({ correct: 0, total: 0 });
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
       const [searchQuery, setSearchQuery] = useState('');
-      const [selectedTemas, setSelectedTemas] = useState([]); // array de assuntos selecionados
-      const [studyMode, setStudyMode] = useState(null); // null = choosing, 'sm2', 'random', 'sequential'
+      const [selectedTemas, setSelectedTemas] = useState([]);
+      const [studying, setStudying] = useState(false);
       const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
 
-      // Reset session whenever materia changes (bug fix: sessão não persiste entre matérias)
       useEffect(() => {
         setCurrentIndex(0);
         setIsFlipped(false);
         setSessionComplete(false);
-        setSessionStats({ correct: 0, total: 0, skipped: 0 });
-        setStudyMode(null);
+        setSessionStats({ correct: 0, total: 0 });
+        setStudying(false);
         setSelectedTemas([]);
       }, [selectedMateria]);
 
-      // Only non-quiz flashcards
+      // Keyboard shortcuts
+      useEffect(() => {
+        if (!studying || sessionComplete) return;
+        const handleKey = (e) => {
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+          if (!isFlipped) {
+            if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(true); }
+          } else {
+            if (e.key === '1') handleRate(1);
+            else if (e.key === '2') handleRate(3);
+            else if (e.key === '3') handleRate(5);
+            else if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(false); }
+          }
+        };
+        window.addEventListener('keydown', handleKey);
+        return () => window.removeEventListener('keydown', handleKey);
+      }, [studying, sessionComplete, isFlipped, currentIndex]);
+
       const pureFlashcards = flashcards.filter(f => f.tipo !== 'quiz');
 
       const filteredByMateria = pureFlashcards.filter(
         f => !selectedMateria || f.materia === selectedMateria
       );
 
-      // Filter by selected temas (empty array = todos os cards da materia)
       const filtered = selectedTemas.length === 0
         ? filteredByMateria
         : filteredByMateria.filter(f => selectedTemas.includes(f.tema));
 
-      // Build deck based on study mode
-      const buildDeck = () => {
-        if (studyMode === 'random') {
-          return [...filtered].sort(() => Math.random() - 0.5);
-        } else if (studyMode === 'sequential') {
-          return [...filtered];
-        } else {
-          return SM2.getDueCards(filtered, srData);
-        }
-      };
-
+      // Always SM2 — get due cards, fallback to all shuffled if none due
       const deck = useMemo(() => {
-        if (!selectedMateria || !studyMode) return [];
-        return buildDeck();
-      }, [selectedMateria, studyMode, filtered.length, selectedTemas.length]);
+        if (!selectedMateria || !studying) return [];
+        const due = SM2.getDueCards(filtered, srData);
+        if (due.length > 0) return due;
+        return [...filtered].sort(() => Math.random() - 0.5);
+      }, [selectedMateria, studying, filtered.length, selectedTemas.length]);
 
       const currentCard = deck[currentIndex];
 
       const handleRate = (quality) => {
         const card = currentCard;
-        if (studyMode === 'sm2') {
-          const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
-          const result = SM2.calculateNextReview(quality, currentData.reps, currentData.ef, currentData.interval);
-          srData[card.id] = { ...result };
-          localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
-        }
+        if (!card) return;
+        const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
+        const result = SM2.calculateNextReview(quality, currentData.reps, currentData.ef, currentData.interval);
+        srData[card.id] = { ...result };
+        localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
+
+        const isGood = quality >= 3;
+        const newStats = { ...sessionStats, total: sessionStats.total + 1, correct: sessionStats.correct + (isGood ? 1 : 0) };
 
         if (currentIndex < deck.length - 1) {
           setCurrentIndex(currentIndex + 1);
           setIsFlipped(false);
+          setSessionStats(newStats);
         } else {
+          setSessionStats(newStats);
           setSessionComplete(true);
-          setSessionStats({
-            correct: sessionStats.correct + (quality >= 4 ? 1 : 0),
-            total: deck.length,
-            skipped: 0
-          });
         }
       };
 
@@ -2787,8 +2871,8 @@
         setCurrentIndex(0);
         setIsFlipped(false);
         setSessionComplete(false);
-        setSessionStats({ correct: 0, total: 0, skipped: 0 });
-        setStudyMode(null);
+        setSessionStats({ correct: 0, total: 0 });
+        setStudying(false);
         setSelectedTemas([]);
       };
 
@@ -2798,60 +2882,32 @@
         );
       };
 
-      // If no materia selected, show selection screen
+      // Materia selection screen
       if (!selectedMateria) {
-        const materiasWithCards = materias.filter(m => {
-          const count = pureFlashcards.filter(f => f.materia === m.id).length;
-          return count > 0;
-        });
-
-        const semFiltered = semesterFilter
-          ? materiasWithCards.filter(m => m.modulo === semesterFilter)
-          : materiasWithCards;
-
-        const filteredMaterias = semFiltered.filter(m =>
-          fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
-        );
-
+        const materiasWithCards = materias.filter(m => pureFlashcards.some(f => f.materia === m.id));
+        const semFiltered = semesterFilter ? materiasWithCards.filter(m => m.modulo === semesterFilter) : materiasWithCards;
+        const filteredMaterias = semFiltered.filter(m => fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || ''));
         const semesters = [...new Set(materiasWithCards.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
 
         return (
           <>
             <div className="screen-content">
               <h2 className="section-title">Flashcards</h2>
-
               {semesters.length > 1 && (
                 <div className="semester-tabs">
-                  <button
-                    className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
-                    onClick={() => setSemesterFilter(null)}
-                  >Todos</button>
+                  <button className={`semester-tab ${!semesterFilter ? 'active' : ''}`} onClick={() => setSemesterFilter(null)}>Todos</button>
                   {semesters.map(s => (
-                    <button
-                      key={s}
-                      className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
-                      onClick={() => setSemesterFilter(s)}
-                    >Módulo {s}</button>
+                    <button key={s} className={`semester-tab ${semesterFilter === s ? 'active' : ''}`} onClick={() => setSemesterFilter(s)}>Módulo {s}</button>
                   ))}
                 </div>
               )}
-
               <div className="subject-search-wrap">
                 <span className="subject-search-icon"><IconSearch /></span>
-                <input
-                  type="search"
-                  className="subject-search"
-                  placeholder="Buscar matéria..."
-                  value={searchQuery}
-                  onChange={e => setSearchQuery(e.target.value)}
-                />
+                <input type="search" className="subject-search" placeholder="Buscar matéria..." value={searchQuery} onChange={e => setSearchQuery(e.target.value)} />
               </div>
-
               <div className="subject-select-list">
                 {filteredMaterias.length === 0 && (
-                  <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}>
-                    <p>Nenhum resultado encontrado.</p>
-                  </div>
+                  <div style={{ textAlign: 'center', padding: '40px 0', color: 'var(--text-secondary)' }}><p>Nenhum resultado encontrado.</p></div>
                 )}
                 {filteredMaterias.map(m => {
                   const count = pureFlashcards.filter(f => f.materia === m.id).length;
@@ -2860,7 +2916,7 @@
                   const pct = count > 0 ? Math.round((reviewedCount / count) * 100) : 0;
                   const subjectColor = SUBJECT_ICON_MAP[m.id]?.color || m.cor || 'var(--primary)';
                   return (
-                    <div key={m.id} className="subject-select-card" onClick={() => { onSelectMateria(m.id); setStudyMode(null); }}>
+                    <div key={m.id} className="subject-select-card" onClick={() => { onSelectMateria(m.id); setStudying(false); }}>
                       <SubjectIcon materiaId={m.id} icon={m.icon} cor={m.cor} />
                       <div className="subject-select-info">
                         <div className="subject-select-name">{m.sigla || m.nome}</div>
@@ -2884,15 +2940,16 @@
       const selectedMateriaObj = materias.find(m => m.id === selectedMateria);
       const backLabel = selectedMateriaObj ? (selectedMateriaObj.sigla || selectedMateriaObj.nome) : 'Flashcards';
 
-      // Tema/assunto selection screen (between materia and study mode)
-      if (!studyMode) {
+      // Tema selector
+      if (!studying) {
         const totalCards = filteredByMateria.length;
+        const dueTotal = SM2.getDueCards(filteredByMateria, srData).length;
         const materiaObj = materias.find(m => m.id === selectedMateria);
-        const modulos = getModulos(selectedMateria) || materiaObj?.modulos || null;
-        const hasModulos = modulos && modulos.length > 0;
-
-        // Collect all temas that have cards (for unmatched fallback)
         const temasFromCards = [...new Set(filteredByMateria.map(f => f.tema).filter(Boolean))];
+
+        // Use aulas from materias.json for organized display
+        const aulas = materiaObj?.aulas || [];
+        const hasAulas = aulas.length > 0;
 
         return (
           <>
@@ -2900,53 +2957,36 @@
               <button className="back-btn" onClick={() => onSelectMateria(null)}>← Flashcards</button>
               <h2 className="section-title">{backLabel}</h2>
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
-                Selecione um ou mais assuntos para estudar:
+                {dueTotal > 0 ? `${dueTotal} cards para revisar hoje` : 'Todos os cards em dia!'} — {totalCards} total
               </p>
               <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
-                {/* Opção: todos os cards — início rápido */}
-                <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudyMode('choose'); }}
+                <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudying(true); }}
                   style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
                   <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
                   <div className="subject-select-info">
                     <div className="subject-select-name">Todos os assuntos</div>
-                    <div className="subject-select-meta">{totalCards} flashcards</div>
+                    <div className="subject-select-meta">{totalCards} cards{dueTotal > 0 ? ` — ${dueTotal} para revisar` : ''}</div>
                   </div>
                   <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
                 </div>
 
-                {hasModulos ? (
-                  // Show organized by modules with checkboxes
-                  modulos.map((mod, mi) => {
-                    const temasWithCards = mod.temas.filter(t => filteredByMateria.some(f => f.tema === t.id));
-                    if (temasWithCards.length === 0) return null;
+                {hasAulas ? (
+                  aulas.map(aula => {
+                    const cards = filteredByMateria.filter(f => f.tema === aula.id);
+                    if (cards.length === 0) return null;
+                    const dueCount = SM2.getDueCards(cards, srData).length;
+                    const isChecked = selectedTemas.includes(aula.id);
                     return (
-                      <div key={mi} style={{ marginBottom: '4px' }}>
-                        <div style={{
-                          fontSize: '0.72rem', fontWeight: 700, textTransform: 'uppercase',
-                          letterSpacing: '0.06em', color: 'var(--text-secondary)',
-                          padding: '10px 4px 6px', borderTop: '1px solid rgba(255,255,255,0.06)'
-                        }}>{mod.nome}</div>
-                        {temasWithCards.map(tema => {
-                          const cards = filteredByMateria.filter(f => f.tema === tema.id);
-                          const dueCount = SM2.getDueCards(cards, srData).length;
-                          const isChecked = selectedTemas.includes(tema.id);
-                          return (
-                            <div key={tema.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(tema.id)}>
-                              <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
-                              <div className="subject-select-info">
-                                <div className="subject-select-name">{tema.nome}</div>
-                                <div className="subject-select-meta">
-                                  {cards.length} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}
-                                </div>
-                              </div>
-                            </div>
-                          );
-                        })}
+                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(aula.id)}>
+                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                        <div className="subject-select-info">
+                          <div className="subject-select-name">{aula.tema}</div>
+                          <div className="subject-select-meta">{cards.length} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}</div>
+                        </div>
                       </div>
                     );
                   })
                 ) : (
-                  // Fallback: flat list from card data with checkboxes
                   temasFromCards.sort().map(tema => {
                     const count = filteredByMateria.filter(f => f.tema === tema).length;
                     const dueCount = SM2.getDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
@@ -2956,9 +2996,7 @@
                         <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
                         <div className="subject-select-info">
                           <div className="subject-select-name">{tema}</div>
-                          <div className="subject-select-meta">
-                            {count} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}
-                          </div>
+                          <div className="subject-select-meta">{count} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}</div>
                         </div>
                       </div>
                     );
@@ -2966,67 +3004,16 @@
                 )}
               </div>
 
-              {/* Barra sticky de início com aulas selecionadas */}
               {selectedTemas.length > 0 && (
                 <div className="tema-start-bar">
                   <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
                     {selectedTemas.length} assunto{selectedTemas.length > 1 ? 's' : ''} selecionado{selectedTemas.length > 1 ? 's' : ''}
                   </span>
-                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => setStudyMode('choose')}>
+                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => setStudying(true)}>
                     Iniciar estudo →
                   </button>
                 </div>
               )}
-            </div>
-          </>
-        );
-      }
-
-      // Build temaLabel for study mode / session screens
-      const temaLabel = selectedTemas.length === 0
-        ? 'Todos os assuntos'
-        : selectedTemas.length === 1
-          ? (() => {
-              const mods = getModulos(selectedMateria) || materias.find(m => m.id === selectedMateria)?.modulos || [];
-              const obj = mods.flatMap(mod => mod.temas).find(t => t.id === selectedTemas[0]);
-              return obj?.nome || selectedTemas[0];
-            })()
-          : `${selectedTemas.length} assuntos`;
-
-      // Study mode selection screen
-      if (studyMode === 'choose') {
-        const dueCount = SM2.getDueCards(filtered, srData).length;
-        return (
-          <>
-            <div className="screen-content">
-              <button className="back-btn" onClick={() => setStudyMode(null)}>← {backLabel}</button>
-              <h2 className="section-title" style={{ fontSize: '16px' }}>{temaLabel}</h2>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '8px' }}>
-                {filtered.length} cards disponíveis. Escolha o modo:
-              </p>
-              <div className="study-mode-selector">
-                <button className="study-mode-btn" onClick={() => setStudyMode('sm2')} disabled={dueCount === 0}>
-                  <span className="study-mode-icon">🧠</span>
-                  <div>
-                    <div className="study-mode-title">Revisão Espaçada</div>
-                    <div className="study-mode-desc">{dueCount > 0 ? `${dueCount} cards para revisar hoje` : 'Nenhum pendente hoje'}</div>
-                  </div>
-                </button>
-                <button className="study-mode-btn" onClick={() => setStudyMode('random')}>
-                  <span className="study-mode-icon">🎲</span>
-                  <div>
-                    <div className="study-mode-title">Aleatório</div>
-                    <div className="study-mode-desc">Todos os {filtered.length} cards embaralhados</div>
-                  </div>
-                </button>
-                <button className="study-mode-btn" onClick={() => setStudyMode('sequential')}>
-                  <span className="study-mode-icon">📋</span>
-                  <div>
-                    <div className="study-mode-title">Sequencial</div>
-                    <div className="study-mode-desc">Todos os {filtered.length} cards em ordem</div>
-                  </div>
-                </button>
-              </div>
             </div>
           </>
         );
@@ -3057,7 +3044,7 @@
                   </div>
                 </div>
                 <button className="btn btn-primary" onClick={resetSession}>Nova Sessão</button>
-                <button className="btn btn-secondary mt-2" onClick={() => { setStudyMode(null); setSelectedTemas([]); }}>Escolher outro assunto</button>
+                <button className="btn btn-secondary mt-2" onClick={() => { setStudying(false); setSelectedTemas([]); }}>Escolher outro assunto</button>
               </div>
             </div>
           </>
@@ -3069,29 +3056,23 @@
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => setStudyMode(null)}>← {temaLabel}</button>
+              <button className="back-btn" onClick={() => setStudying(false)}>← {backLabel}</button>
               <div style={{ textAlign: 'center', marginTop: '60px' }}>
                 <div style={{ fontSize: '60px', marginBottom: '20px' }}>✨</div>
-                <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>
-                  Nenhum card para revisar agora!
-                </p>
-                <p style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
-                  Todos os cards estão em dia. Volte mais tarde.
-                </p>
-                <button className="btn btn-secondary mt-2" style={{ marginTop: '20px' }} onClick={() => setStudyMode(null)}>Escolher outro modo</button>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>Nenhum card para revisar agora!</p>
+                <p style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>Todos os cards estão em dia. Volte mais tarde.</p>
+                <button className="btn btn-secondary mt-2" style={{ marginTop: '20px' }} onClick={() => setStudying(false)}>Voltar</button>
               </div>
             </div>
           </>
         );
       }
 
-      // Flashcard study session
+      // Anki-style flashcard study session
       return (
         <>
           <div className="screen-content">
-            <button className="back-btn" onClick={() => setStudyMode(null)}>
-              ← {temaLabel}
-            </button>
+            <button className="back-btn" onClick={() => setStudying(false)}>← {backLabel}</button>
 
             <div className="flashcard-progress" style={{ marginBottom: '16px' }}>
               <div style={{ textAlign: 'center', fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
@@ -3099,49 +3080,55 @@
               </div>
               <div className="progress-dots">
                 {deck.slice(0, Math.min(deck.length, 30)).map((card, idx) => (
-                  <div
-                    key={idx}
-                    className={`progress-dot ${idx === currentIndex ? 'current' : ''} ${idx < currentIndex ? 'completed' : ''}`}
-                  ></div>
+                  <div key={idx} className={`progress-dot ${idx === currentIndex ? 'current' : ''} ${idx < currentIndex ? 'completed' : ''}`}></div>
                 ))}
                 {deck.length > 30 && <span style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>+{deck.length - 30}</span>}
               </div>
             </div>
 
             <div className="flashcard-container">
-              <div className="flashcard">
-                <div
-                  className={`flashcard-inner ${isFlipped ? 'flipped' : ''}`}
-                  onClick={() => setIsFlipped(!isFlipped)}
-                  style={{ cursor: 'pointer' }}
-                >
+              <div className="flashcard" onClick={() => setIsFlipped(!isFlipped)} style={{ cursor: 'pointer' }}>
+                <div className={`flashcard-inner ${isFlipped ? 'flipped' : ''}`}>
                   <div className="flashcard-front">
                     <div className="flashcard-label">Pergunta</div>
                     <div className="flashcard-text">{currentCard.pergunta}</div>
-                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '8px' }}>Toque para ver a resposta</div>
+                    <div className="flashcard-hint">Espaço para virar</div>
                   </div>
                   <div className="flashcard-back">
                     <div className="flashcard-label">Resposta</div>
-                    <div className="flashcard-text">{currentCard.resposta}</div>
+                    <div className="flashcard-text flashcard-answer">{currentCard.resposta}</div>
+                    {currentCard.explicacao && (
+                      <div className="flashcard-explanation">{currentCard.explicacao}</div>
+                    )}
                   </div>
                 </div>
               </div>
             </div>
 
-            <div className="flashcard-actions">
-              <button className="rate-btn error" onClick={() => handleRate(1)}>
-                <IconX />
-                Errei
-              </button>
-              <button className="rate-btn warning" onClick={() => handleRate(3)}>
-                <IconClock />
-                Difícil
-              </button>
-              <button className="rate-btn success" onClick={() => handleRate(5)}>
-                <IconCheck />
-                Fácil
-              </button>
-            </div>
+            {isFlipped && (
+              <div className="flashcard-actions anki-actions">
+                <button className="rate-btn error" onClick={() => handleRate(1)}>
+                  Difícil
+                  <span className="rate-shortcut">1</span>
+                </button>
+                <button className="rate-btn warning" onClick={() => handleRate(3)}>
+                  Médio
+                  <span className="rate-shortcut">2</span>
+                </button>
+                <button className="rate-btn success" onClick={() => handleRate(5)}>
+                  Fácil
+                  <span className="rate-shortcut">3</span>
+                </button>
+              </div>
+            )}
+
+            {!isFlipped && (
+              <div style={{ textAlign: 'center', marginTop: '16px' }}>
+                <button className="btn btn-primary" onClick={() => setIsFlipped(true)} style={{ padding: '12px 32px' }}>
+                  Mostrar Resposta
+                </button>
+              </div>
+            )}
           </div>
         </>
       );
@@ -3150,10 +3137,10 @@
     // Quiz Screen
     const QuizScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester }) => {
       const [activeQuiz, setActiveQuiz] = useState(null);
-      const [activeTemas, setActiveTemas] = useState([]); // array de assuntos selecionados para o quiz
-      const [showTemaSelector, setShowTemaSelector] = useState(false); // showing tema list for a materia
-      const [pendingQuiz, setPendingQuiz] = useState(null); // materia waiting for tema selection
-      const [pendingTemas, setPendingTemas] = useState([]); // temas sendo selecionados no selector
+      const [activeTemas, setActiveTemas] = useState([]);
+      const [showTemaSelector, setShowTemaSelector] = useState(false);
+      const [pendingQuiz, setPendingQuiz] = useState(null);
+      const [pendingTemas, setPendingTemas] = useState([]);
       const [currentQuestion, setCurrentQuestion] = useState(0);
       const [selectedOption, setSelectedOption] = useState(null);
       const [crossedOut, setCrossedOut] = useState(new Set());
@@ -3162,10 +3149,24 @@
       const [startTime, setStartTime] = useState(Date.now());
       const [quizComplete, setQuizComplete] = useState(false);
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
-      const [categoryFilter, setCategoryFilter] = useState('todas');
       const [searchQuery, setSearchQuery] = useState('');
+      const [showCadernoErros, setShowCadernoErros] = useState(false);
 
-      // Separate real quiz questions from flashcards
+      // Caderno de erros — localStorage
+      const getErros = () => JSON.parse(localStorage.getItem('meduni9_caderno_erros') || '[]');
+      const addErro = (questionId) => {
+        const erros = getErros();
+        if (!erros.includes(questionId)) {
+          erros.push(questionId);
+          localStorage.setItem('meduni9_caderno_erros', JSON.stringify(erros));
+        }
+      };
+      const removeErro = (questionId) => {
+        const erros = getErros().filter(id => id !== questionId);
+        localStorage.setItem('meduni9_caderno_erros', JSON.stringify(erros));
+      };
+      const clearErros = () => localStorage.setItem('meduni9_caderno_erros', '[]');
+
       const quizQuestions = useMemo(() => {
         return flashcards.filter(f => f.tipo === 'quiz' && f.opcoes && f.opcoes.length > 0);
       }, [flashcards]);
@@ -3175,7 +3176,7 @@
         materias.forEach(m => {
           const questions = quizQuestions.filter(f => f.materia === m.id);
           if (questions.length > 0) {
-            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo };
+            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo, cor: m.cor };
           }
         });
         return grouped;
@@ -3183,7 +3184,6 @@
 
       const filteredQuizzes = useMemo(() => {
         let result = { ...quizzes };
-        // semester filter
         if (semesterFilter) {
           const f = {};
           Object.entries(result).forEach(([id, q]) => {
@@ -3191,16 +3191,6 @@
           });
           result = f;
         }
-        // category filter — filter cards inside each quiz
-        if (categoryFilter !== 'todas') {
-          const f = {};
-          Object.entries(result).forEach(([id, q]) => {
-            const cards = q.cards.filter(c => c.categoria === categoryFilter);
-            if (cards.length > 0) f[id] = { ...q, cards };
-          });
-          result = f;
-        }
-        // search filter
         if (searchQuery) {
           const f = {};
           Object.entries(result).forEach(([id, q]) => {
@@ -3209,7 +3199,39 @@
           result = f;
         }
         return result;
-      }, [quizzes, semesterFilter, categoryFilter, searchQuery]);
+      }, [quizzes, semesterFilter, searchQuery]);
+
+      // Keyboard shortcuts for quiz
+      useEffect(() => {
+        if (!activeQuiz || quizComplete) return;
+        const handleKey = (e) => {
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+          const activeCards = getActiveCards();
+          const card = activeCards[currentQuestion];
+          if (!card) return;
+
+          if (!answered) {
+            // 1-5 select option
+            const num = parseInt(e.key);
+            if (num >= 1 && num <= card.opcoes.length && !crossedOut.has(num - 1)) {
+              setSelectedOption(num - 1);
+            }
+            // Enter = confirm
+            if (e.key === 'Enter' && selectedOption !== null) {
+              e.preventDefault();
+              handleAnswer();
+            }
+          } else {
+            // Enter or Space = next question
+            if (e.key === 'Enter' || e.code === 'Space') {
+              e.preventDefault();
+              handleNextQuestion();
+            }
+          }
+        };
+        window.addEventListener('keydown', handleKey);
+        return () => window.removeEventListener('keydown', handleKey);
+      }, [activeQuiz, quizComplete, answered, selectedOption, currentQuestion, crossedOut]);
 
       const handleQuizStart = (materiaId, temasArray) => {
         setActiveQuiz(materiaId);
@@ -3227,7 +3249,6 @@
       };
 
       const handleMateriaClick = (materiaId) => {
-        // Check if this materia has multiple temas — show selector
         const cards = quizzes[materiaId]?.cards || [];
         const temas = [...new Set(cards.map(c => c.tema).filter(Boolean))];
         if (temas.length > 1) {
@@ -3254,6 +3275,10 @@
       };
 
       const getActiveCards = () => {
+        if (showCadernoErros) {
+          const erros = getErros();
+          return quizQuestions.filter(q => erros.includes(q.id));
+        }
         if (!activeQuiz) return [];
         const quiz = quizzes[activeQuiz];
         if (!quiz) return [];
@@ -3269,6 +3294,11 @@
 
         if (correct) {
           setQuizStats(prev => ({ ...prev, correct: prev.correct + 1 }));
+          // Remove from caderno de erros if answered correctly
+          removeErro(card.id);
+        } else {
+          // Add to caderno de erros on wrong answer
+          addErro(card.id);
         }
         setAnswered(true);
       };
@@ -3281,16 +3311,13 @@
           setCrossedOut(new Set());
           setAnswered(false);
         } else {
-          const card = activeCards[currentQuestion];
-          const lastCorrect = selectedOption === card.correta;
-          const finalCorrect = quizStats.correct + (lastCorrect && !answered ? 1 : 0);
           setQuizComplete(true);
           const quizHistory = JSON.parse(localStorage.getItem('meduni9_quiz_history') || '[]');
           quizHistory.push({
             date: new Date().toISOString(),
-            materia: activeQuiz,
-            score: finalCorrect,
-            total: getActiveCards().length,
+            materia: showCadernoErros ? 'caderno_erros' : activeQuiz,
+            score: quizStats.correct,
+            total: activeCards.length,
             time: formatTime(Date.now() - startTime)
           });
           localStorage.setItem('meduni9_quiz_history', JSON.stringify(quizHistory));
@@ -3298,7 +3325,29 @@
       };
 
       const handleRestartQuiz = () => {
-        handleQuizStart(activeQuiz, activeTemas);
+        if (showCadernoErros) {
+          setCurrentQuestion(0);
+          setSelectedOption(null);
+          setCrossedOut(new Set());
+          setAnswered(false);
+          setQuizStats({ correct: 0, total: 0 });
+          setStartTime(Date.now());
+          setQuizComplete(false);
+        } else {
+          handleQuizStart(activeQuiz, activeTemas);
+        }
+      };
+
+      // Start caderno de erros quiz
+      const startCadernoErros = () => {
+        setShowCadernoErros(true);
+        setActiveQuiz('__erros__');
+        setCurrentQuestion(0);
+        setSelectedOption(null);
+        setCrossedOut(new Set());
+        setAnswered(false);
+        setQuizStats({ correct: 0, total: 0 });
+        setStartTime(Date.now());
         setQuizComplete(false);
       };
 
@@ -3322,7 +3371,7 @@
                 <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
                 <div style={{ marginTop: '32px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
                   <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); }}>Voltar</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); }}>Voltar</button>
                 </div>
               </div>
             </div>
@@ -3330,11 +3379,12 @@
         );
       }
 
-      // Tema selector screen for quiz (multi-select)
+      // Tema selector screen for quiz (multi-select) — uses aulas from materias.json
       if (showTemaSelector && pendingQuiz) {
         const quiz = quizzes[pendingQuiz];
-        const modulosQ = getModulos(pendingQuiz) || materias.find(m => m.id === pendingQuiz)?.modulos || null;
-        const hasModulosQ = modulosQ && modulosQ.length > 0;
+        const materiaObj = materias.find(m => m.id === pendingQuiz);
+        const aulas = materiaObj?.aulas || [];
+        const hasAulas = aulas.length > 0;
         const temasFromCardsQ = [...new Set(quiz.cards.map(c => c.tema).filter(Boolean))];
 
         return (
@@ -3346,7 +3396,6 @@
                 Selecione um ou mais assuntos:
               </p>
               <div className="subject-select-list" style={{ paddingBottom: pendingTemas.length > 0 ? '72px' : '0' }}>
-                {/* Início rápido: todas as questões */}
                 <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])}
                   style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
                   <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
@@ -3356,30 +3405,18 @@
                   </div>
                   <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
                 </div>
-                {hasModulosQ ? (
-                  modulosQ.map((mod, mi) => {
-                    const temasWithCards = mod.temas.filter(t => quiz.cards.some(c => c.tema === t.id));
-                    if (temasWithCards.length === 0) return null;
+                {hasAulas ? (
+                  aulas.map(aula => {
+                    const count = quiz.cards.filter(c => c.tema === aula.id).length;
+                    if (count === 0) return null;
+                    const isChecked = pendingTemas.includes(aula.id);
                     return (
-                      <div key={mi}>
-                        <div style={{
-                          fontSize: '0.72rem', fontWeight: 700, textTransform: 'uppercase',
-                          letterSpacing: '0.06em', color: 'var(--text-secondary)',
-                          padding: '10px 4px 6px', borderTop: '1px solid rgba(255,255,255,0.06)'
-                        }}>{mod.nome}</div>
-                        {temasWithCards.map(tema => {
-                          const count = quiz.cards.filter(c => c.tema === tema.id).length;
-                          const isChecked = pendingTemas.includes(tema.id);
-                          return (
-                            <div key={tema.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(tema.id)}>
-                              <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
-                              <div className="subject-select-info">
-                                <div className="subject-select-name">{tema.nome}</div>
-                                <div className="subject-select-meta">{count} questões</div>
-                              </div>
-                            </div>
-                          );
-                        })}
+                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(aula.id)}>
+                        <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
+                        <div className="subject-select-info">
+                          <div className="subject-select-name">{aula.tema}</div>
+                          <div className="subject-select-meta">{count} questões</div>
+                        </div>
                       </div>
                     );
                   })
@@ -3400,7 +3437,6 @@
                 )}
               </div>
 
-              {/* Barra sticky de início com aulas selecionadas */}
               {pendingTemas.length > 0 && (
                 <div className="tema-start-bar">
                   <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
@@ -3417,16 +3453,34 @@
       }
 
       if (activeQuiz) {
-        const quiz = quizzes[activeQuiz];
         const activeCards = getActiveCards();
+
+        if (activeCards.length === 0) {
+          return (
+            <>
+              <div className="screen-content">
+                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>← Questões</button>
+                <div style={{ textAlign: 'center', marginTop: '60px' }}>
+                  <div style={{ fontSize: '60px', marginBottom: '20px' }}>✨</div>
+                  <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                    {showCadernoErros ? 'Nenhuma questão no caderno de erros!' : 'Nenhuma questão disponível.'}
+                  </p>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>Voltar</button>
+                </div>
+              </div>
+            </>
+          );
+        }
+
         const card = activeCards[currentQuestion];
         const progress = ((currentQuestion + 1) / activeCards.length) * 100;
+        const quizLabel = showCadernoErros ? 'Caderno de Erros' : (quizzes[activeQuiz]?.sigla || quizzes[activeQuiz]?.name || 'Questões');
 
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); }}>
-                ← {activeTemas.length === 1 ? activeTemas[0] : (quiz.sigla || quiz.name)}
+              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>
+                ← {activeTemas.length === 1 ? activeTemas[0] : quizLabel}
               </button>
               <div className="quiz-screen">
                 <div className="quiz-progress-section">
@@ -3460,6 +3514,7 @@
                         if (!answered && !crossedOut.has(idx)) setSelectedOption(idx);
                       }}
                     >
+                      <span className="quiz-option-number">{idx + 1}</span>
                       <span>{option}</span>
                       {!answered && !crossedOut.has(idx) && (
                         <button
@@ -3481,43 +3536,35 @@
                   </div>
                 )}
 
-                {!answered ? (
-                  <button
-                    className="btn btn-primary"
-                    onClick={handleAnswer}
-                    disabled={selectedOption === null}
-                  >
-                    Confirmar Resposta
-                  </button>
-                ) : (
-                  <button className="btn btn-primary" onClick={handleNextQuestion}>
-                    {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'}
-                  </button>
-                )}
+                <div className="quiz-action-bar">
+                  {!answered ? (
+                    <button
+                      className="btn btn-primary"
+                      onClick={handleAnswer}
+                      disabled={selectedOption === null}
+                    >
+                      Confirmar Resposta <span className="kbd-hint">Enter</span>
+                    </button>
+                  ) : (
+                    <button className="btn btn-primary" onClick={handleNextQuestion}>
+                      {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'} <span className="kbd-hint">Enter</span>
+                    </button>
+                  )}
+                </div>
               </div>
             </div>
           </>
         );
       }
 
-      // Quiz list with semester filter, category tabs, search
+      // Quiz list with caderno de erros, semester filter, search
       const semesters = [...new Set(Object.values(quizzes).filter(q => q.ativo !== false).map(q => q.semestre))].sort((a,b) => a-b);
+      const errosCount = getErros().length;
 
       return (
         <>
           <div className="screen-content">
             <h2 className="section-title">Questões</h2>
-
-            {/* Category tabs */}
-            <div className="category-tabs">
-              {[['todas','Todas'],['antiga','Questões Antigas'],['inedita','Inéditas']].map(([val, label]) => (
-                <button
-                  key={val}
-                  className={`category-tab ${categoryFilter === val ? 'active' : ''}`}
-                  onClick={() => setCategoryFilter(val)}
-                >{label}</button>
-              ))}
-            </div>
 
             {semesters.length > 1 && (
               <div className="semester-tabs">
@@ -3545,6 +3592,19 @@
                 onChange={e => setSearchQuery(e.target.value)}
               />
             </div>
+
+            {/* Caderno de Erros */}
+            {errosCount > 0 && (
+              <div className="subject-select-card caderno-erros-card" onClick={startCadernoErros}
+                style={{ borderColor: 'var(--error)', background: 'rgba(239,68,68,0.06)', marginBottom: '12px' }}>
+                <div className="subject-select-icon" style={{ background: 'rgba(239,68,68,0.15)', color: 'var(--error)', width: '40px', height: '40px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '18px' }}>📕</div>
+                <div className="subject-select-info">
+                  <div className="subject-select-name" style={{ color: 'var(--error)' }}>Caderno de Erros</div>
+                  <div className="subject-select-meta">{errosCount} questões para revisar</div>
+                </div>
+                <div style={{ color: 'var(--error)' }}><IconChevronRight /></div>
+              </div>
+            )}
 
             <div className="subject-select-list">
               {Object.entries(filteredQuizzes).length === 0 && (
@@ -3877,12 +3937,10 @@
       const loadAppData = async () => {
         try {
           // Load data from external JSON files
-          const [materiasRes, flashcardsRes, questoesRes, antigasRes, ineditasRes] = await Promise.all([
+          const [materiasRes, flashcardsRes, questoesRes] = await Promise.all([
             fetch('data/materias.json').catch(() => null),
             fetch('data/flashcards.json').catch(() => null),
-            fetch('data/questoes.json').catch(() => null),
-            fetch('data/questoes_antigas.json').catch(() => null),
-            fetch('data/questoes_ineditas.json').catch(() => null)
+            fetch('data/questoes.json').catch(() => null)
           ]);
 
           let materiasData = [];
@@ -3913,18 +3971,6 @@
             const questoes = raw.questoes || raw;
             questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
           }
-          
-          if (antigasRes && antigasRes.ok) {
-            const raw = await antigasRes.json();
-            const questoes = raw.questoes || raw;
-            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
-          }
-          
-          if (ineditasRes && ineditasRes.ok) {
-            const raw = await ineditasRes.json();
-            const questoes = raw.questoes || raw;
-            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
-          }
 
           // Merge questoes as flashcards with quiz format
           if (questoesArray.length > 0) {
@@ -3939,8 +3985,7 @@
                 correta: q.correta,
                 tipo: 'quiz',
                 tema: q.tema,
-                dificuldade: q.dificuldade,
-                categoria: q.categoria || 'antiga'
+                dificuldade: q.dificuldade
               });
             });
           }
