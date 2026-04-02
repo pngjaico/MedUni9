@@ -238,6 +238,25 @@
         .toggle input:checked + .toggle-slider { background: var(--success); }
         .toggle input:checked + .toggle-slider:before { transform: translateX(20px); }
 
+        /* Mode banner */
+        .mode-banner { padding: 7px 16px; font-size: 12px; font-weight: 600; text-align: center; letter-spacing: .03em; }
+        .mode-banner.local    { background: rgba(16,185,129,.15); color: var(--success); border-bottom: 1px solid rgba(16,185,129,.25); }
+        .mode-banner.firebase { background: rgba(245,158,11,.1);  color: var(--warning); border-bottom: 1px solid rgba(245,158,11,.2); }
+
+        /* Git output */
+        .git-output { font-family: 'Consolas', monospace; font-size: 12px; background: rgba(0,0,0,.5);
+            border: 1px solid var(--border); border-radius: 8px; padding: 14px; white-space: pre-wrap;
+            min-height: 60px; color: #90c4ff; max-height: 280px; overflow-y: auto; line-height: 1.6; }
+
+        /* Question table */
+        .q-enunciado { max-width: 380px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .q-filter-bar { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 16px; align-items: center; }
+        .q-filter-bar input, .q-filter-bar select { padding: 8px 12px; background: rgba(0,0,0,.3);
+            border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-size: 13px;
+            font-family: 'DM Sans', sans-serif; }
+        .q-filter-bar input { flex: 1; min-width: 180px; }
+        .q-filter-bar input:focus, .q-filter-bar select:focus { outline: none; border-color: var(--primary); }
+
         /* Sections (hidden by default) */
         .admin-section { display: none; }
         .admin-section.active { display: block; animation: fadeIn 0.3s ease; }
@@ -277,11 +296,14 @@
                 <span style="font-size: 24px;">🩺</span>
                 <h2>Admin</h2>
             </div>
+            <div class="mode-banner firebase" id="modeBanner">Firebase — Somente leitura</div>
             <nav class="admin-nav">
                 <button class="admin-nav-item active" onclick="switchSection('dashboard')">📊 Dashboard</button>
                 <button class="admin-nav-item" onclick="switchSection('codes')">🔑 Códigos</button>
                 <button class="admin-nav-item" onclick="switchSection('content')">📝 Conteúdo</button>
+                <button class="admin-nav-item" onclick="switchSection('questoes')">❓ Questões</button>
                 <button class="admin-nav-item" onclick="switchSection('modules')">📚 Módulos</button>
+                <button class="admin-nav-item" onclick="switchSection('git')">🚀 Git & Deploy</button>
                 <button class="admin-nav-item" onclick="switchSection('security')">🛡️ Segurança</button>
                 <button class="admin-nav-item" onclick="switchSection('automacoes')">🤖 Automações</button>
             </nav>
@@ -368,7 +390,8 @@
                     <textarea class="form-textarea" id="jsonEditor" placeholder="Selecione um arquivo e clique em 'Carregar'..."></textarea>
                     <div style="margin-top: 12px;" class="btn-group">
                         <button class="btn btn-primary" onclick="validateEditorJSON()">✓ Validar</button>
-                        <button class="btn btn-success" onclick="downloadEditorFile()">⬇ Baixar</button>
+                        <button class="btn btn-success" onclick="saveEditorFile()" id="btnSaveEditor">💾 Salvar no Disco</button>
+                        <button class="btn btn-ghost" onclick="downloadEditorFile()">⬇ Baixar</button>
                         <button class="btn btn-ghost" onclick="formatJSON()">🔄 Formatar</button>
                     </div>
                     <div id="editorMessage" style="margin-top: 12px;"></div>
@@ -449,6 +472,72 @@
                 </div>
             </div>
 
+            <!-- ===== QUESTÕES ===== -->
+            <div class="admin-section" id="section-questoes">
+                <div class="page-header" style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px">
+                    <div><h1>Gestão de Questões</h1><p>Adicione, edite e exclua questões inéditas</p></div>
+                    <button class="btn btn-primary" onclick="openQuestionModal()">+ Nova Questão</button>
+                </div>
+                <div class="q-filter-bar">
+                    <input type="text" id="qSearch" placeholder="Buscar enunciado..." oninput="renderQuestoesTable()">
+                    <select id="qFilterMateria" onchange="renderQuestoesTable()">
+                        <option value="">Todas as disciplinas</option>
+                    </select>
+                    <select id="qFilterDif" onchange="renderQuestoesTable()">
+                        <option value="">Qualquer dificuldade</option>
+                        <option value="1">Fácil</option>
+                        <option value="2">Médio</option>
+                        <option value="3">Difícil</option>
+                    </select>
+                    <span id="qCount" style="color:var(--text-secondary);font-size:13px;white-space:nowrap"></span>
+                </div>
+                <div class="panel" style="padding:0">
+                    <div class="table-wrap">
+                        <table>
+                            <thead><tr>
+                                <th>#</th><th>Disciplina</th><th>Enunciado</th>
+                                <th>Dif.</th><th>Módulo</th><th>Ações</th>
+                            </tr></thead>
+                            <tbody id="questoesTable"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== GIT & DEPLOY ===== -->
+            <div class="admin-section" id="section-git">
+                <div class="page-header"><h1>Git & Deploy</h1><p>Commitar alterações e publicar no Firebase</p></div>
+
+                <div class="stats-grid" id="git-stats" style="margin-bottom:24px"></div>
+
+                <div class="panel">
+                    <div class="panel-header">
+                        <h3>Status do Repositório</h3>
+                        <button class="btn btn-ghost btn-sm" onclick="loadGitSection()">↻ Atualizar</button>
+                    </div>
+                    <pre class="git-output" id="gitStatusOutput">Carregando...</pre>
+                </div>
+
+                <div class="panel">
+                    <div class="panel-header"><h3>Commit & Push</h3></div>
+                    <div class="form-group">
+                        <label class="form-label">Mensagem do commit</label>
+                        <input type="text" class="form-input" id="commitMessage" value="chore: update via admin panel" placeholder="Descreva as alterações...">
+                    </div>
+                    <div class="btn-group">
+                        <button class="btn btn-primary" onclick="commitAndPush()">Commit + Push</button>
+                        <button class="btn btn-success" onclick="commitAndDeploy()">Commit + Push + Deploy</button>
+                        <button class="btn btn-warning" onclick="deployOnly()">Só Deploy Firebase</button>
+                    </div>
+                    <pre class="git-output" id="gitActionOutput" style="margin-top:16px;display:none"></pre>
+                </div>
+
+                <div class="panel">
+                    <div class="panel-header"><h3>Histórico de Commits</h3></div>
+                    <pre class="git-output" id="gitLogOutput">—</pre>
+                </div>
+            </div>
+
             <!-- ===== AUTOMAÇÕES ===== -->
             <div class="admin-section" id="section-automacoes">
                 <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
@@ -518,10 +607,111 @@
         </div>
     </div>
 
+    <!-- Question Modal -->
+    <div class="modal-overlay hidden" id="questionModal">
+        <div class="modal" style="max-width:680px">
+            <h3 id="questionModalTitle">Nova Questão</h3>
+            <input type="hidden" id="qEditId">
+            <div class="form-row">
+                <div class="form-group">
+                    <label class="form-label">Disciplina (materia)</label>
+                    <select class="form-select" id="qMateria"></select>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Módulo</label>
+                    <select class="form-select" id="qModulo">
+                        <option value="1">1</option><option value="2">2</option>
+                        <option value="3">3</option><option value="4">4</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Enunciado</label>
+                <textarea class="form-textarea" id="qEnunciado" style="min-height:100px" placeholder="Texto da questão (vinheta clínica)..."></textarea>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Opção A</label>
+                <input type="text" class="form-input" id="qOpcaoA" placeholder="A) ...">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Opção B</label>
+                <input type="text" class="form-input" id="qOpcaoB" placeholder="B) ...">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Opção C</label>
+                <input type="text" class="form-input" id="qOpcaoC" placeholder="C) ...">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Opção D</label>
+                <input type="text" class="form-input" id="qOpcaoD" placeholder="D) ...">
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label class="form-label">Resposta Correta</label>
+                    <select class="form-select" id="qCorreta">
+                        <option value="0">A</option><option value="1">B</option>
+                        <option value="2">C</option><option value="3">D</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Dificuldade</label>
+                    <select class="form-select" id="qDificuldade">
+                        <option value="1">1 — Fácil</option>
+                        <option value="2" selected>2 — Médio</option>
+                        <option value="3">3 — Difícil</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Tema / Tópico</label>
+                <input type="text" class="form-input" id="qTema" placeholder="ex: bcm1_acido_base">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Explicação</label>
+                <textarea class="form-textarea" id="qExplicacao" style="min-height:90px" placeholder="Justificativa da resposta correta e das incorretas..."></textarea>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-ghost" onclick="closeModal('questionModal')">Cancelar</button>
+                <button class="btn btn-primary" onclick="saveQuestion()">Salvar Questão</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Toast -->
     <div class="toast" id="toast"></div>
 
     <script>
+        // ===================== LOCAL MODE =====================
+        let LOCAL_MODE = false;
+        const API = 'http://localhost:3001';
+
+        async function detectMode() {
+            try {
+                const r = await fetch(`${API}/api/ping`, { signal: AbortSignal.timeout(1200) });
+                if (r.ok) {
+                    LOCAL_MODE = true;
+                    const b = document.getElementById('modeBanner');
+                    b.textContent = '✓ Modo Local — Edição ativa';
+                    b.className = 'mode-banner local';
+                    document.getElementById('btnSaveEditor').style.display = '';
+                }
+            } catch { /* Firebase mode */ }
+        }
+
+        async function apiSave(key, data) {
+            if (!LOCAL_MODE) {
+                downloadJSON(data, key.split('/').pop() + '.json');
+                showToast('Modo Firebase: arquivo baixado. Substitua manualmente.');
+                return false;
+            }
+            const r = await fetch(`${API}/api/data/${key}`, {
+                method: 'PUT', headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data, null, 2)
+            });
+            if (!r.ok) { const e = await r.json(); throw new Error(e.error); }
+            return true;
+        }
+
         // ===================== AUTH =====================
         const ADMIN_HASH = '5927842f67f5af10183c0a3ca3b1d1a037dc7058dd623cbd0b7d7cb0cd0b7fb7';
         const ADMIN_RL_KEY = 'meduni9_admin_rl';
@@ -602,7 +792,7 @@
         function showAdmin() {
             document.getElementById('loginGate').style.display = 'none';
             document.getElementById('adminLayout').classList.add('active');
-            loadAllData();
+            detectMode().then(() => loadAllData());
         }
 
         function logout() {
@@ -612,6 +802,10 @@
 
         // Check session on load
         document.addEventListener('DOMContentLoaded', () => {
+            // Hide save button until local mode is confirmed
+            const saveBtn = document.getElementById('btnSaveEditor');
+            if (saveBtn) saveBtn.style.display = 'none';
+
             const session = sessionStorage.getItem(ADMIN_SESSION_KEY);
             if (session) {
                 try {
@@ -631,10 +825,10 @@
             document.querySelectorAll('.admin-nav-item').forEach(b => b.classList.remove('active'));
             document.getElementById('section-' + name).classList.add('active');
             event.target.classList.add('active');
-
-            // Load section-specific data
-            if (name === 'security') loadSecuritySection();
+            if (name === 'security')   loadSecuritySection();
             if (name === 'automacoes') loadAutomacoesSection();
+            if (name === 'questoes')   loadQuestoesSection();
+            if (name === 'git')        loadGitSection();
         }
 
         // ===================== DATA LOADING =====================
@@ -643,6 +837,7 @@
         let questoesData = [];
         let questoesAntigasData = [];
         let questoesIneditasData = [];
+        let questoesIneditasRaw = { questoes: [] };
         let codesData = {};
 
         async function loadAllData() {
@@ -657,10 +852,11 @@
                 ]);
 
                 materiasData = mat;
-                flashcardsData = Array.isArray(fc) ? fc : (fc.materias || []);
-                questoesData = Array.isArray(q) ? q : (q.materias || []);
-                questoesAntigasData = Array.isArray(qa) ? qa : (qa.materias || []);
-                questoesIneditasData = Array.isArray(qi) ? qi : (qi.materias || []);
+                flashcardsData = Array.isArray(fc) ? fc : [];
+                questoesData = Array.isArray(q) ? q : (q.questoes ? q.questoes : []);
+                questoesAntigasData = Array.isArray(qa) ? qa : (qa.questoes ? qa.questoes : []);
+                questoesIneditasRaw = qi; // preserve { questoes: [...] }
+                questoesIneditasData = qi.questoes || (Array.isArray(qi) ? qi : []);
                 codesData = codes.codigos || codes || {};
 
                 renderDashboard();
@@ -784,12 +980,13 @@
             };
 
             renderCodes();
+            await _persistCodes();
             closeModal('newCodeModal');
 
             document.getElementById('generatedCodeValue').textContent = plainCode;
             document.getElementById('generatedCodeModal').classList.remove('hidden');
 
-            showToast('Código gerado! Lembre-se de exportar o JSON.');
+            showToast(LOCAL_MODE ? 'Código gerado e salvo!' : 'Código gerado! Exporte o JSON.');
         }
 
         async function generateBatchCodes() {
@@ -807,6 +1004,7 @@
                 codes.push(plainCode);
             }
             renderCodes();
+            await _persistCodes();
 
             // Show all generated codes
             const codesText = codes.join('\n');
@@ -816,9 +1014,8 @@
             ).join('');
             modal.classList.remove('hidden');
 
-            // Copy all to clipboard
             navigator.clipboard.writeText(codesText);
-            showToast(`${count} códigos gerados e copiados! Exporte o JSON.`);
+            showToast(LOCAL_MODE ? `${count} códigos gerados e salvos!` : `${count} códigos gerados! Exporte o JSON.`);
         }
 
         function copyGeneratedCode() {
@@ -827,26 +1024,28 @@
             showToast('Código copiado!');
         }
 
-        function toggleCode(hash) {
+        async function toggleCode(hash) {
             if (codesData[hash]) {
                 codesData[hash].ativo = !codesData[hash].ativo;
                 renderCodes();
-                showToast(codesData[hash].ativo ? 'Código ativado' : 'Código desativado');
+                await _persistCodes();
+                showToast(codesData[hash].ativo ? 'Código ativado e salvo' : 'Código desativado e salvo');
             }
         }
 
-        function exportCodes() {
-            const exportData = { _info: "Códigos MedUni9 (hashes SHA-256 com salt)", _salt: CODE_SALT, codigos: codesData };
-            downloadJSON(exportData, 'codigos.json');
-            showToast('codigos.json exportado!');
+        async function _persistCodes() {
+            const data = { _info: "Códigos MedUni9 (hashes SHA-256 com salt)", _salt: CODE_SALT, codigos: codesData };
+            try { await apiSave('codigos', data); } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
         }
+
+        function exportCodes() { _persistCodes(); }
 
         // ===================== CONTENT =====================
         function renderContent() {
             const materiasList = Object.entries(materiasData);
             let totalFC = 0, totalQ = 0;
             flashcardsData.forEach(m => totalFC += (m.flashcards || []).length);
-            [...questoesData, ...questoesAntigasData, ...questoesIneditasData].forEach(m => totalQ += (m.questoes || []).length);
+            totalQ += questoesData.length + questoesAntigasData.length + questoesIneditasData.length;
 
             document.getElementById('contentStats').innerHTML = `
                 <div class="stat-card purple"><div class="stat-label">Total Flashcards</div><div class="stat-value">${totalFC}</div></div>
@@ -857,10 +1056,9 @@
             const tbody = document.getElementById('contentTable');
             tbody.innerHTML = materiasList.map(([id, m]) => {
                 const fc = flashcardsData.find(d => d.id === id)?.flashcards?.length || 0;
-                const qTotal = [questoesData, questoesAntigasData, questoesIneditasData].reduce((sum, arr) => {
-                    const found = arr.find(d => d.id === id);
-                    return sum + (found?.questoes?.length || 0);
-                }, 0);
+                const qIneditas = questoesIneditasData.filter(q => q.materia === id).length;
+                const qOther = [...questoesData, ...questoesAntigasData].filter(q => q.materia === id).length;
+                const qTotal = qIneditas + qOther;
                 const hasContent = fc > 0 || qTotal > 0;
                 return `<tr>
                     <td>${m.icon || '📖'} <strong>${m.sigla || id}</strong> — ${m.nome}</td>
@@ -906,6 +1104,17 @@
             } catch { showToast('JSON inválido — corrija antes de formatar.', true); }
         }
 
+        async function saveEditorFile() {
+            const editor = document.getElementById('jsonEditor');
+            const file   = document.getElementById('editorFileSelect').value;
+            try {
+                const parsed = JSON.parse(editor.value);
+                await apiSave(file, parsed);
+                showToast(`${file}.json salvo no disco!`);
+                loadAllData();
+            } catch(e) { showToast('Erro: ' + e.message, true); }
+        }
+
         function downloadEditorFile() {
             const editor = document.getElementById('jsonEditor');
             const file = document.getElementById('editorFileSelect').value;
@@ -947,18 +1156,21 @@
             }).join('');
         }
 
-        function toggleModule(mod, active) {
+        async function toggleModule(mod, active) {
             Object.entries(materiasData).forEach(([id, m]) => {
                 if (m.modulo === mod) materiasData[id].ativo = active;
             });
             renderModules();
             renderDashboard();
-            showToast(`Módulo ${mod} ${active ? 'ativado' : 'desativado'}. Exporte o materias.json para aplicar.`);
+            try {
+                await apiSave('materias', materiasData);
+                showToast(`Módulo ${mod} ${active ? 'ativado' : 'desativado'} e salvo!`);
+            } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
         }
 
-        function exportMaterias() {
-            downloadJSON(materiasData, 'materias.json');
-            showToast('materias.json exportado!');
+        async function exportMaterias() {
+            try { await apiSave('materias', materiasData); showToast('materias.json salvo!'); }
+            catch(e) { showToast('Erro: ' + e.message, true); }
         }
 
         // ===================== SECURITY =====================
@@ -1025,10 +1237,13 @@
                             <h3 style="margin-bottom:4px">${a.label}</h3>
                             <span style="font-size:12px;color:var(--text-secondary)">Cron: ${a.cron} &nbsp;·&nbsp; Tipo: ${a.tipo} &nbsp;·&nbsp; Última execução: <strong>${d.rodou_em || '—'}</strong></span>
                         </div>
-                        <span class="badge ${badgeClass}">${badgeLabel}</span>
+                            <span class="badge ${badgeClass}">${badgeLabel}</span>
                     </div>
                     <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px">${statsHtml}</div>
-                    <div style="font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;font-weight:600">Log de Ações</div>
+                    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+                        <span style="font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.06em;font-weight:600">Log de Ações</span>
+                        ${a.tipo === 'Local' ? `<button class="btn btn-ghost btn-sm" onclick="runAgent('${a.key}')">▶ Rodar Agora</button>` : ''}
+                    </div>
                     ${logHtml}
                     ${d.observacoes ? `<div class="alert alert-warning" style="margin-top:12px;font-size:12px">⚠ ${d.observacoes}</div>` : ''}
                 </div>`;
@@ -1084,17 +1299,217 @@
             }
 
             const hash = await sha256(newPwd);
-            resultEl.innerHTML = `
-                <div class="alert alert-success">
-                    <div>
+            if (LOCAL_MODE) {
+                try {
+                    const r = await fetch(`${API}/api/admin`, {
+                        method: 'PUT', headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ hash })
+                    });
+                    if (!r.ok) throw new Error((await r.json()).error);
+                    resultEl.innerHTML = `<div class="alert alert-success">✓ Senha atualizada automaticamente no admin.html! Recarregue após o próximo deploy.</div>`;
+                    showToast('Senha atualizada no arquivo!');
+                } catch(e) {
+                    resultEl.innerHTML = `<div class="alert alert-error">Erro: ${e.message}</div>`;
+                }
+            } else {
+                resultEl.innerHTML = `
+                    <div class="alert alert-success">
                         <strong>Hash gerado:</strong><br>
                         <code style="word-break:break-all; font-size: 12px;">${hash}</code><br><br>
-                        <span style="font-size:12px;">Substitua o valor de <code>ADMIN_HASH</code> no arquivo <code>admin.html</code> por este hash.</span>
+                        <span style="font-size:12px;">Use o servidor local para aplicar automaticamente, ou substitua <code>ADMIN_HASH</code> em admin.html.</span>
+                    </div>`;
+                navigator.clipboard.writeText(hash);
+                showToast('Hash copiado!');
+            }
+        }
+
+        // ===================== QUESTÕES =====================
+        function loadQuestoesSection() {
+            // Populate materia filter
+            const sel = document.getElementById('qFilterMateria');
+            const cur = sel.value;
+            sel.innerHTML = '<option value="">Todas as disciplinas</option>';
+            const mats = [...new Set(questoesIneditasData.map(q => q.materia).filter(Boolean))].sort();
+            mats.forEach(m => sel.innerHTML += `<option value="${m}" ${cur===m?'selected':''}>${m.toUpperCase()}</option>`);
+
+            // Populate materia select in modal
+            const mSel = document.getElementById('qMateria');
+            mSel.innerHTML = Object.entries(materiasData).map(([id, m]) =>
+                `<option value="${id}">${id.toUpperCase()} — ${m.nome}</option>`
+            ).join('');
+
+            renderQuestoesTable();
+        }
+
+        function renderQuestoesTable() {
+            const search  = (document.getElementById('qSearch')?.value || '').toLowerCase();
+            const matFlt  = document.getElementById('qFilterMateria')?.value || '';
+            const difFlt  = document.getElementById('qFilterDif')?.value || '';
+
+            let list = questoesIneditasData.filter(q => {
+                if (matFlt && q.materia !== matFlt) return false;
+                if (difFlt && String(q.dificuldade) !== difFlt) return false;
+                if (search && !q.enunciado?.toLowerCase().includes(search) && !q.tema?.toLowerCase().includes(search)) return false;
+                return true;
+            });
+
+            document.getElementById('qCount').textContent = `${list.length} questão(ões)`;
+            const difLabel = ['', 'Fácil', 'Médio', 'Difícil'];
+            const difColor = ['', 'var(--success)', 'var(--warning)', 'var(--error)'];
+            document.getElementById('questoesTable').innerHTML = list.length ? list.map(q => `
+                <tr>
+                    <td style="color:var(--text-secondary)">${q.id}</td>
+                    <td><span class="badge badge-primary">${(q.materia||'?').toUpperCase()}</span></td>
+                    <td class="q-enunciado" title="${(q.enunciado||'').replace(/"/g,'&quot;')}">${q.enunciado||'—'}</td>
+                    <td style="color:${difColor[q.dificuldade]||'inherit'}">${difLabel[q.dificuldade]||q.dificuldade||'—'}</td>
+                    <td>${q.modulo||'—'}</td>
+                    <td>
+                        <div class="btn-group">
+                            <button class="btn btn-ghost btn-sm" onclick="openQuestionModal(${q.id})">Editar</button>
+                            <button class="btn btn-danger btn-sm" onclick="deleteQuestion(${q.id})">Excluir</button>
+                        </div>
+                    </td>
+                </tr>`).join('') : '<tr><td colspan="6" style="text-align:center;color:var(--text-secondary);padding:24px">Nenhuma questão encontrada.</td></tr>';
+        }
+
+        function openQuestionModal(id) {
+            const modal = document.getElementById('questionModal');
+            const q = id != null ? questoesIneditasData.find(x => x.id === id) : null;
+            document.getElementById('questionModalTitle').textContent = q ? `Editando Questão #${q.id}` : 'Nova Questão';
+            document.getElementById('qEditId').value = q ? q.id : '';
+            document.getElementById('qEnunciado').value = q?.enunciado || '';
+            document.getElementById('qOpcaoA').value = q?.opcoes?.[0] || 'A) ';
+            document.getElementById('qOpcaoB').value = q?.opcoes?.[1] || 'B) ';
+            document.getElementById('qOpcaoC').value = q?.opcoes?.[2] || 'C) ';
+            document.getElementById('qOpcaoD').value = q?.opcoes?.[3] || 'D) ';
+            document.getElementById('qCorreta').value = q?.correta ?? 0;
+            document.getElementById('qDificuldade').value = q?.dificuldade || 2;
+            document.getElementById('qTema').value = q?.tema || '';
+            document.getElementById('qExplicacao').value = q?.explicacao || '';
+            if (q?.materia) document.getElementById('qMateria').value = q.materia;
+            if (q?.modulo)  document.getElementById('qModulo').value  = String(q.modulo);
+            modal.classList.remove('hidden');
+        }
+
+        async function saveQuestion() {
+            const editId  = document.getElementById('qEditId').value;
+            const questao = {
+                id:          editId ? parseInt(editId) : Math.max(0, ...questoesIneditasData.map(q=>q.id||0)) + 1,
+                materia:     document.getElementById('qMateria').value,
+                categoria:   'inedita',
+                enunciado:   document.getElementById('qEnunciado').value.trim(),
+                opcoes:      [
+                    document.getElementById('qOpcaoA').value.trim(),
+                    document.getElementById('qOpcaoB').value.trim(),
+                    document.getElementById('qOpcaoC').value.trim(),
+                    document.getElementById('qOpcaoD').value.trim(),
+                ],
+                correta:     parseInt(document.getElementById('qCorreta').value),
+                explicacao:  document.getElementById('qExplicacao').value.trim(),
+                tema:        document.getElementById('qTema').value.trim(),
+                dificuldade: parseInt(document.getElementById('qDificuldade').value),
+                modulo:      parseInt(document.getElementById('qModulo').value),
+            };
+
+            if (!questao.enunciado) { showToast('Enunciado obrigatório.', true); return; }
+
+            if (editId) {
+                const idx = questoesIneditasData.findIndex(q => q.id === parseInt(editId));
+                if (idx >= 0) questoesIneditasData[idx] = questao;
+            } else {
+                questoesIneditasData.push(questao);
+            }
+
+            questoesIneditasRaw.questoes = questoesIneditasData;
+            try {
+                await apiSave('questoes_ineditas', questoesIneditasRaw);
+                showToast(editId ? 'Questão atualizada!' : 'Questão adicionada!');
+                closeModal('questionModal');
+                renderQuestoesTable();
+                renderContent();
+            } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
+        }
+
+        async function deleteQuestion(id) {
+            if (!confirm(`Excluir questão #${id}?`)) return;
+            questoesIneditasData = questoesIneditasData.filter(q => q.id !== id);
+            questoesIneditasRaw.questoes = questoesIneditasData;
+            try {
+                await apiSave('questoes_ineditas', questoesIneditasRaw);
+                showToast('Questão excluída.');
+                renderQuestoesTable();
+                renderContent();
+            } catch(e) { showToast('Erro: ' + e.message, true); }
+        }
+
+        // ===================== GIT & DEPLOY =====================
+        async function loadGitSection() {
+            if (!LOCAL_MODE) {
+                document.getElementById('gitStatusOutput').textContent = '⚠ Servidor local não detectado.\nAbra o admin via abrir_admin.bat para usar esta seção.';
+                document.getElementById('gitLogOutput').textContent = '—';
+                return;
+            }
+            document.getElementById('gitStatusOutput').textContent = 'Carregando...';
+            try {
+                const r = await fetch(`${API}/api/git/status`);
+                const d = await r.json();
+                document.getElementById('gitStatusOutput').textContent = d.status || '(sem alterações)';
+                document.getElementById('gitLogOutput').textContent = d.log || '—';
+                const changed = (d.status || '').split('\n').filter(l => l.trim()).length;
+                document.getElementById('git-stats').innerHTML = `
+                    <div class="stat-card ${changed ? 'warning' : 'success'}">
+                        <div class="stat-label">Arquivos Modificados</div>
+                        <div class="stat-value">${changed}</div>
                     </div>
-                </div>
-            `;
-            navigator.clipboard.writeText(hash);
-            showToast('Hash copiado para área de transferência!');
+                    <div class="stat-card">
+                        <div class="stat-label">Branch</div>
+                        <div class="stat-value" style="font-size:18px">${d.branch || 'main'}</div>
+                    </div>`;
+            } catch(e) { document.getElementById('gitStatusOutput').textContent = 'Erro: ' + e.message; }
+        }
+
+        async function commitAndPush() {
+            if (!LOCAL_MODE) { showToast('Requer servidor local.', true); return; }
+            const msg  = document.getElementById('commitMessage').value.trim() || 'chore: update via admin panel';
+            const out  = document.getElementById('gitActionOutput');
+            out.style.display = 'block'; out.textContent = 'Executando git commit + push...';
+            try {
+                const r = await fetch(`${API}/api/git/commit`, {
+                    method: 'POST', headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: msg })
+                });
+                const d = await r.json();
+                out.textContent = d.ok ? `✓ Commit ${d.commit} realizado e enviado para GitHub!` : `✗ Erro: ${d.error}`;
+                if (d.ok) { showToast('Commit + Push OK!'); loadGitSection(); }
+                else showToast('Erro no commit.', true);
+            } catch(e) { out.textContent = '✗ ' + e.message; }
+        }
+
+        async function deployOnly() {
+            if (!LOCAL_MODE) { showToast('Requer servidor local.', true); return; }
+            const out = document.getElementById('gitActionOutput');
+            out.style.display = 'block'; out.textContent = 'Executando firebase deploy... (pode levar ~30s)';
+            try {
+                const r = await fetch(`${API}/api/deploy`, { method: 'POST' });
+                const d = await r.json();
+                out.textContent = d.ok ? '✓ Deploy concluído!\n\n' + d.output : '✗ Erro: ' + d.error;
+                showToast(d.ok ? 'Deploy OK!' : 'Erro no deploy.', !d.ok);
+            } catch(e) { out.textContent = '✗ ' + e.message; }
+        }
+
+        async function commitAndDeploy() {
+            await commitAndPush();
+            await deployOnly();
+        }
+
+        // ===================== AUTOMAÇÕES (manual trigger) =====================
+        async function runAgent(name) {
+            if (!LOCAL_MODE) { showToast('Requer servidor local.', true); return; }
+            showToast(`Iniciando agente ${name}...`);
+            try {
+                await fetch(`${API}/api/agent/run/${name}`, { method: 'POST' });
+                showToast(`Agente ${name} disparado! Aguarde e recarregue os logs.`);
+            } catch(e) { showToast('Erro: ' + e.message, true); }
         }
 
         // ===================== UTILITIES =====================
