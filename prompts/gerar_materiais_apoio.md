@@ -2,54 +2,53 @@
 
 ## Contexto do projeto
 
-App de estudos de medicina (Uninove) chamado **MedUni9**, hospedado no Firebase Hosting em `meduni9-869eb.web.app`. O app é um único arquivo `index.html` com React 18 via CDN. Os dados ficam na pasta `data/`.
+App de estudos de medicina (Uninove) chamado **MedUni9**, hospedado no Firebase em `meduni9-869eb.web.app`.
+Stack: único `index.html` com React 18 via CDN. Dados em `data/`. Materiais em `materiais/`.
 
 ---
 
-## O que você precisa fazer
-
-Criar arquivos `.md` de material de apoio para cada aula listada em `data/materias.json`.
-
-### Onde salvar cada arquivo
+## Onde salvar cada arquivo
 
 ```
-data/materiais/<materia_id>/<aula_id>.md
+materiais/
+  modulo1/
+    bmf1/
+      bmf1_a1.md
+      bmf1_a2.md
+  modulo2/
+    bcm1/
+      bcm1_a1.md
 ```
 
-Exemplos:
-- `data/materiais/bmf1/bmf1_a1.md`
-- `data/materiais/sus/sus_a4.md`
-- `data/materiais/bcm1/bcm1_a2.md`
+**Regra:** `materiais/modulo{N}/{sigla}/{sigla}_a{N}.md`
 
-> **Importante:** os arquivos devem ficar em `data/materiais/`, não em `conteudos/`. A pasta `conteudos/` é ignorada no deploy.
+O `id` da aula em `data/materias.json` = nome do arquivo sem `.md`.
+Ex: `{ "id": "bmf1_a2" }` → arquivo `materiais/modulo1/bmf1/bmf1_a2.md`
+
+> A pasta `materiais/` está no `.gitignore` mas é deployada via Firebase (não via git).
 
 ---
 
-## Como descobrir os IDs e temas de cada aula
+## Como descobrir IDs e temas
 
-Leia o arquivo `data/materias.json`. Cada matéria tem a estrutura:
+Leia `data/materias.json`:
 
 ```json
 {
   "bmf1": {
-    "nome": "Bases Morfofuncionais 1 ...",
+    "nome": "Bases Morfofuncionais 1",
     "sigla": "BMF1",
     "modulo": 1,
     "aulas": [
-      { "id": "bmf1_a1", "tema": "Introdução ao Estudo da Anatomia Humana", "descricao": "..." },
-      { "id": "bmf1_a2", "tema": "Introdução aos Tecidos Humanos", "descricao": "..." }
+      { "id": "bmf1_a1", "tema": "Introdução ao Estudo da Anatomia Humana", "descricao": "..." }
     ]
   }
 }
 ```
 
-O `id` da aula é o nome do arquivo (ex: `bmf1_a1.md`), e o `tema` é o assunto a escrever.
-
 ---
 
 ## Template obrigatório de cada arquivo
-
-Use o arquivo `data/materiais/bmf1/bmf1_a1.md` como referência de estilo já produzida. O template é:
 
 ```markdown
 # <SIGLA> — Aula N: <TEMA>
@@ -61,15 +60,14 @@ Use o arquivo `data/materiais/bmf1/bmf1_a1.md` como referência de estilo já pr
 
 ## Por que isso cai na prova?
 
-[Parágrafo conversacional. Explicar por que a Uninove e os professores cobram isso,
-qual o contexto clínico, e por que vale estudar. Tom direto, sem enrolação.]
+[Parágrafo direto. Por que a Uninove cobra isso, contexto clínico, por que vale estudar.]
 
 ---
 
 ## 1. <Conceito Principal>
 
 [Explicação em prosa + tabelas quando a comparação ajudar.
-Use negrito para termos-chave. Sem listas longas: prefira tabelas.]
+Negrito nos termos-chave. Prefira tabelas a listas longas.]
 
 ## 2. <Segundo Conceito>
 
@@ -97,80 +95,111 @@ Use negrito para termos-chave. Sem listas longas: prefira tabelas.]
 
 ## Ponte com a Clínica
 
-[Um parágrafo conectando o tema a situações reais: como aparece no consultório,
-na anamnese, no diagnóstico ou no tratamento.]
+[Um parágrafo conectando o tema a situações reais: consultório, anamnese, diagnóstico ou tratamento.]
+
+---
+
+## Pré-Prova
+
+> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### O que você PRECISA saber
+
+- **[conceito-chave 1]:** [definição em uma linha]
+- **[conceito-chave 2]:** [definição em uma linha]
+- **[conceito-chave 3]:** [definição em uma linha]
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferença principal |
+|------------|------------|---------------------|
+| ...        | ...        | ...                 |
+
+### Frase-âncora para não esquecer
+
+> "[Uma frase mnemônica ou regra de ouro que resume o tema]"
 ```
 
 ---
 
 ## Regras de estilo (obrigatórias)
 
-1. **Linguagem conversacional e direta** — como um colega de medicina explicando antes da prova. Sem passos introdutórios genéricos como "neste material aprenderemos...".
-2. **Sem acentos/caracteres especiais** nos arquivos salvos — salve em UTF-8, mas evite deixar caracteres quebrados. Se o sistema tiver problema de encoding, use palavras sem acento ou substitua por equivalente ASCII.
-3. **Tabelas** sempre que houver lista de comparação (termos vs. definição, fármacos vs. efeito, etc.).
-4. **Negrito** nos termos técnicos na primeira aparição.
-5. Sem menção a "banca" — use sempre "a Uninove" ou "os professores".
-6. Sem tempo de estudo diferente de "10-15 min".
-7. Profundidade: cobrir o suficiente para a prova da Uninove, sem entrar em subespecialidade. Cada arquivo deve ser lido em ~10 min.
+1. **Tom conversacional e direto** — como um colega explicando antes da prova. Sem "neste material aprenderemos...".
+2. **Tabelas** sempre que houver comparação (termos, fármacos, diferenciações).
+3. **Negrito** nos termos técnicos na primeira aparição.
+4. Sem menção a "banca" — use "a Uninove" ou "os professores".
+5. Profundidade: cobrir o suficiente para a prova, sem subespecialidade. Leitura em ~10 min.
+6. Encoding UTF-8 sem BOM.
+7. **Seção Pré-Prova é obrigatória** — sempre ao final, com o marcador exato `## Pré-Prova`.
 
 ---
 
-## Fontes por matéria (para embasar o conteúdo)
+## Como o app renderiza o material
+
+- O viewer usa `marked.js` para renderizar o markdown como HTML.
+- **Checklist (`- [ ]`):** fica interativo e persistido no localStorage do aluno.
+- **Seção `## Pré-Prova`:** aparece como accordion colapsável em amber/dourado no final da tela — o aluno clica para expandir.
+- Fontes: `Lexend` (corpo) + `Outfit` (títulos). Tema escuro com accent `#00B4D8` (ciano).
+
+---
+
+## Hierarquia de títulos → visual no app
+
+| Markdown | Visual |
+|----------|--------|
+| `# H1` | Branco grande, sublinhado ciano |
+| `## H2` | Borda esquerda ciana |
+| `### H3` | Azul `#38BDF8` |
+| `#### H4` | Azul claro em maiúsculas |
+| `**negrito**` | Branco destacado |
+| `> blockquote` | Fundo translúcido ciano — use para macetes |
+| `- [ ]` | Checkbox interativo com persistência |
+
+---
+
+## Fontes por matéria
 
 | Matéria | Fontes principais |
 |---|---|
 | BMF1/2/3/4 (Anatomia, Fisiologia) | Gray's Anatomy, Guyton & Hall |
 | PMH (Bioquímica/Biologia Mol.) | Harper, Lehninger |
-| BCM1 (Biologia Celular/Mol.) | Alberts — Biologia Molecular da Célula |
-| MAD1/2 (Imunologia/Microbiologia) | Janeway, Murray — Microbiologia Médica |
-| SUS / Epidemiologia | Documentos do Min. da Saúde, Starfield |
-| Semiologia | Bickley — Bates, Porto — Semiologia Médica |
+| BCM1 (Biologia Celular/Mol.) | Alberts |
+| MAD1/2 (Imunologia/Microbiologia) | Janeway, Murray |
+| SUS / Epidemiologia | Documentos Min. Saúde, Starfield |
+| Semiologia | Bickley — Bates, Porto |
 | Fisiopatologia / Farmacologia | Robbins, Goodman & Gilman |
-| Indicadores de Saúde | DATASUS, publicações IBGE/MS |
 
 ---
 
-## Prioridade de matérias
+## Prioridade de geração
 
-Gere na seguinte ordem:
-
-1. `bmf1` — todas as aulas (Anatomia Módulo 1) — **bmf1_a1 já existe, pule**
-2. `sus` — todas as aulas (Políticas de Saúde)
-3. `pmh` — todas as aulas (Bioquímica)
-4. `bcm1` — todas as aulas (Biologia Celular)
-5. `mad1` — todas as aulas (Imunologia)
-6. `bmf2` — todas as aulas
-7. `mad2` — todas as aulas (Microbiologia)
-8. Demais matérias na sequência de módulo
-
----
-
-## Exemplo de arquivo já pronto (referência)
-
-`data/materiais/bmf1/bmf1_a1.md` — leia antes de começar para calibrar o nível esperado.
+1. `bmf1` — todas as aulas (bmf1_a1 já existe, pule)
+2. `sus` — todas as aulas
+3. `pmh` — todas as aulas
+4. `bcm1` — todas as aulas
+5. `mad1` — todas as aulas
+6. Demais na sequência de módulo
 
 ---
 
 ## Após criar os arquivos
 
-Não é necessário alterar nenhum outro arquivo. O app já está configurado para buscar os materiais em `data/materiais/<materia_id>/<aula_id>.md`. Após criar os arquivos, faça o deploy:
-
-```powershell
+```bash
 cd "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app"
-npx -y firebase-tools@latest deploy --only hosting
+firebase deploy --only hosting
 ```
 
 ---
 
 ## Checklist de entrega por arquivo
 
-Antes de salvar, confirme:
-- [ ] Nome do arquivo = `<aula_id>.md` (ex: `bmf1_a2.md`)
-- [ ] Pasta correta: `data/materiais/<materia_id>/`
+- [ ] Nome = `{aula_id}.md` (ex: `bmf1_a2.md`)
+- [ ] Pasta correta: `materiais/modulo{N}/{sigla}/`
 - [ ] Seção "Por que isso cai na prova?" presente
-- [ ] Pelo menos 2 seções de conteúdo com tabela ou negrito
+- [ ] Pelo menos 2 seções de conteúdo com tabela
 - [ ] Seção "Erros Clássicos em Prova (Uninove)" presente
-- [ ] Seção "Checklist de Revisão" presente
+- [ ] Checklist de Revisão com `- [ ]` presente
 - [ ] Seção "Ponte com a Clínica" presente
+- [ ] **Seção "## Pré-Prova" presente ao final** ← obrigatório
 - [ ] Sem menção a "banca"
 - [ ] Encoding UTF-8 sem BOM

@@ -1523,6 +1523,44 @@
     .markdown-body tbody tr:last-child td { border-bottom: none; }
     .markdown-body tbody tr:hover { background: rgba(255,255,255,0.03); }
 
+    /* Checklist interativo */
+    .markdown-body input[type="checkbox"] {
+      accent-color: #00B4D8;
+      cursor: pointer;
+      width: 15px;
+      height: 15px;
+      vertical-align: middle;
+      margin-right: 6px;
+      flex-shrink: 0;
+    }
+    .markdown-body li:has(input[type="checkbox"]) {
+      list-style: none;
+      margin-left: -1.3em;
+      display: flex;
+      align-items: flex-start;
+      gap: 2px;
+      padding: 3px 0;
+      border-radius: 6px;
+      transition: background 0.15s;
+    }
+    .markdown-body li:has(input[type="checkbox"]:checked) {
+      color: #475569;
+      text-decoration: line-through;
+      text-decoration-color: #334155;
+    }
+
+    /* Pré-Prova amber headings override */
+    .markdown-body.preprova-content h2 {
+      color: #FCD34D;
+      border-left-color: #F59E0B;
+    }
+    .markdown-body.preprova-content h3 { color: #FBBF24; }
+    .markdown-body.preprova-content ul li::marker { color: #F59E0B; }
+    .markdown-body.preprova-content blockquote {
+      border-left-color: #F59E0B;
+      background: rgba(245,158,11,0.07);
+    }
+
     /* Profile Screen */
     .profile-avatar {
       width: 72px;
@@ -4011,6 +4049,40 @@
       const [materialContent, setMaterialContent] = useState('');
       const [materialLoading, setMaterialLoading] = useState(false);
       const [materialError, setMaterialError] = useState('');
+      const [preProvaVisible, setPreProvaVisible] = useState(false);
+      const markdownRef = useRef(null);
+
+      // Split markdown at "## Pré-Prova" section
+      const splitAtPreProva = (content) => {
+        const markers = ['## Pré-Prova', '## Pre-Prova', '## PRÉ-PROVA', '## PRE-PROVA', '## Pré prova'];
+        for (const m of markers) {
+          const idx = content.indexOf(m);
+          if (idx !== -1) return { main: content.slice(0, idx).trim(), preProva: content.slice(idx).trim() };
+        }
+        return { main: content, preProva: null };
+      };
+
+      // Enable interactive checkboxes with localStorage persistence
+      useEffect(() => {
+        if (!markdownRef.current || !selectedMaterial) return;
+        const key = `checklist_${selectedMaterial.path}`;
+        const saved = JSON.parse(localStorage.getItem(key) || '{}');
+        const boxes = markdownRef.current.querySelectorAll('input[type="checkbox"]');
+        boxes.forEach((cb, i) => {
+          cb.removeAttribute('disabled');
+          cb.checked = !!saved[i];
+          cb.style.cursor = 'pointer';
+          cb.style.accentColor = '#00B4D8';
+          cb.style.width = '15px';
+          cb.style.height = '15px';
+          cb.style.marginRight = '6px';
+          cb.style.verticalAlign = 'middle';
+          cb.addEventListener('change', () => {
+            saved[i] = cb.checked;
+            localStorage.setItem(key, JSON.stringify(saved));
+          });
+        });
+      }, [materialContent, selectedMaterial]);
 
       const toggleMateria = (id) => {
         setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
@@ -4066,6 +4138,7 @@
         setMaterialContent('');
         setMaterialError('');
         setMaterialLoading(true);
+        setPreProvaVisible(false);
 
         try {
           let loaded = false;
@@ -4204,20 +4277,84 @@
             )}
 
             {/* Content */}
-            {!materialLoading && !materialError && materialContent && (
-              <div
-                className="markdown-body"
-                style={{
-                  background: 'rgba(15,23,42,0.6)',
-                  border: '1px solid rgba(0,180,216,0.12)',
-                  borderRadius: '14px',
-                  padding: '22px 20px',
-                  wordBreak: 'break-word',
-                  boxShadow: '0 4px 24px rgba(0,0,0,0.25)',
-                }}
-                dangerouslySetInnerHTML={{ __html: marked.parse(materialContent) }}
-              />
-            )}
+            {!materialLoading && !materialError && materialContent && (() => {
+              const { main, preProva } = splitAtPreProva(materialContent);
+              return (
+                <>
+                  <div
+                    ref={markdownRef}
+                    className="markdown-body"
+                    style={{
+                      background: 'rgba(15,23,42,0.6)',
+                      border: '1px solid rgba(0,180,216,0.12)',
+                      borderRadius: '14px',
+                      padding: '22px 20px',
+                      wordBreak: 'break-word',
+                      boxShadow: '0 4px 24px rgba(0,0,0,0.25)',
+                    }}
+                    dangerouslySetInnerHTML={{ __html: marked.parse(main) }}
+                  />
+
+                  {/* Pré-Prova collapsible */}
+                  {preProva && (
+                    <div style={{ marginTop: '16px' }}>
+                      <button
+                        onClick={() => setPreProvaVisible(v => !v)}
+                        style={{
+                          width: '100%',
+                          display: 'flex',
+                          alignItems: 'center',
+                          justifyContent: 'space-between',
+                          background: preProvaVisible
+                            ? 'rgba(245,158,11,0.15)'
+                            : 'rgba(245,158,11,0.08)',
+                          border: '1px solid rgba(245,158,11,0.3)',
+                          borderRadius: preProvaVisible ? '12px 12px 0 0' : '12px',
+                          padding: '13px 18px',
+                          cursor: 'pointer',
+                          transition: 'background 0.2s',
+                          fontFamily: 'Outfit, sans-serif',
+                        }}
+                      >
+                        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                          <span style={{ fontSize: '1.1rem' }}>⚡</span>
+                          <div style={{ textAlign: 'left' }}>
+                            <div style={{ fontSize: '0.78rem', color: '#D97706', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.07em' }}>
+                              Resumo
+                            </div>
+                            <div style={{ fontSize: '0.95rem', fontWeight: 700, color: '#FCD34D' }}>
+                              Pré-Prova
+                            </div>
+                          </div>
+                        </div>
+                        <span style={{
+                          color: '#FCD34D',
+                          fontSize: '1rem',
+                          transform: preProvaVisible ? 'rotate(180deg)' : 'rotate(0)',
+                          transition: 'transform 0.25s',
+                          display: 'inline-block',
+                        }}>▼</span>
+                      </button>
+
+                      {preProvaVisible && (
+                        <div
+                          className="markdown-body preprova-content"
+                          style={{
+                            background: 'rgba(245,158,11,0.05)',
+                            border: '1px solid rgba(245,158,11,0.2)',
+                            borderTop: 'none',
+                            borderRadius: '0 0 12px 12px',
+                            padding: '18px 20px',
+                            wordBreak: 'break-word',
+                          }}
+                          dangerouslySetInnerHTML={{ __html: marked.parse(preProva) }}
+                        />
+                      )}
+                    </div>
+                  )}
+                </>
+              );
+            })()}
           </div>
         );
       }
