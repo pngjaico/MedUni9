@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MedUni9 — Painel de Automações</title>
+<style>
+  :root {
+    --bg: #0A1628; --surface: #0F2040; --border: #1E3A5F;
+    --primary: #3B82F6; --success: #10B981; --warning: #F59E0B;
+    --danger: #EF4444; --text: #E2E8F0; --muted: #64748B;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; min-height: 100vh; padding: 32px 24px; }
+  header { display: flex; align-items: center; gap: 12px; margin-bottom: 32px; }
+  header svg { color: var(--primary); }
+  header h1 { font-size: 1.5rem; font-weight: 700; }
+  header p { font-size: 0.85rem; color: var(--muted); margin-top: 2px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+  .card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; text-decoration: none; color: inherit; transition: border-color .2s, transform .2s; display: block; }
+  .card:hover { border-color: var(--primary); transform: translateY(-2px); }
+  .card-header { display: flex; align-items: center; gap: 10px; margin-bottom: 12px; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .dot.ok { background: var(--success); }
+  .dot.warn { background: var(--warning); }
+  .dot.err { background: var(--danger); }
+  .dot.idle { background: var(--muted); }
+  .card h2 { font-size: 1rem; font-weight: 600; }
+  .card p { font-size: 0.8rem; color: var(--muted); margin-bottom: 10px; line-height: 1.4; }
+  .meta { font-size: 0.75rem; color: var(--muted); display: flex; flex-direction: column; gap: 3px; border-top: 1px solid var(--border); padding-top: 10px; }
+  .meta span b { color: var(--text); }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 20px; font-size: 0.7rem; font-weight: 600; }
+  .badge.ok { background: rgba(16,185,129,.15); color: var(--success); }
+  .badge.warn { background: rgba(245,158,11,.15); color: var(--warning); }
+  .badge.err { background: rgba(239,68,68,.15); color: var(--danger); }
+  .badge.idle { background: rgba(100,116,139,.15); color: var(--muted); }
+  footer { margin-top: 40px; text-align: center; font-size: 0.75rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M12 2a3 3 0 0 0-3 3v4a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/>
+    <path d="M19 9a7 7 0 0 1-14 0"/>
+    <line x1="12" y1="16" x2="12" y2="22"/>
+    <line x1="8" y1="22" x2="16" y2="22"/>
+  </svg>
+  <div>
+    <h1>MedUni9 — Automações</h1>
+    <p>Painel de monitoramento dos agentes noturnos</p>
+  </div>
+</header>
+<div class="grid">
+
+  <a class="card" href="ingestao_pdfs.html">
+    <div class="card-header">
+      <div class="dot idle" id="dot-ingestao"></div>
+      <h2>Bibliotecário — Ingestão de PDFs</h2>
+    </div>
+    <p>Classifica, renomeia e organiza PDFs novos de <code>conteudos/_para_categorizar/</code> nas pastas de cada disciplina.</p>
+    <div class="meta">
+      <span>Cron: <b>Todo dia às 01h00 (Brasília)</b></span>
+      <span>Tipo: <b>Local</b></span>
+      <span id="last-ingestao">Última execução: <b>—</b></span>
+    </div>
+  </a>
+
+  <a class="card" href="curadoria_meduni9.html">
+    <div class="card-header">
+      <div class="dot idle" id="dot-curadoria"></div>
+      <h2>Curador — Lapidação de Questões</h2>
+    </div>
+    <p>Processa lotes JSON brutos de <code>lotes_extraidos/</code>, enriquece questões com justificativas e move para o banco definitivo.</p>
+    <div class="meta">
+      <span>Cron: <b>Todo dia às 02h00 (Brasília)</b></span>
+      <span>Tipo: <b>Local</b></span>
+      <span id="last-curadoria">Última execução: <b>—</b></span>
+    </div>
+  </a>
+
+  <a class="card" href="firebase_deploy.html">
+    <div class="card-header">
+      <div class="dot idle" id="dot-deploy"></div>
+      <h2>Deploy — Firebase Sync</h2>
+    </div>
+    <p>Valida JSONs, faz git commit/push e publica a versão mais recente no Firebase Hosting.</p>
+    <div class="meta">
+      <span>Cron: <b>Todo dia às 05h00 (UTC) / 02h00 (Brasília)</b></span>
+      <span>Tipo: <b>Nuvem (CCR)</b></span>
+      <span id="last-deploy">Última execução: <b>—</b></span>
+    </div>
+  </a>
+
+</div>
+
+<script>
+// Lê os status salvos pelos workflows
+const dashboards = [
+  { key: 'ingestao', file: 'status_ingestao.json' },
+  { key: 'curadoria', file: 'status_curadoria.json' },
+  { key: 'deploy', file: 'status_deploy.json' }
+];
+dashboards.forEach(({ key, file }) => {
+  fetch('../_logs/' + file)
+    .then(r => r.json())
+    .then(d => {
+      const dot = document.getElementById('dot-' + key);
+      const last = document.getElementById('last-' + key);
+      if (dot) { dot.className = 'dot ' + (d.status === 'ok' ? 'ok' : d.status === 'warn' ? 'warn' : 'err'); }
+      if (last && d.rodou_em) last.innerHTML = `Última execução: <b>${d.rodou_em}</b>`;
+    }).catch(() => {});
+});
+</script>
+
+<footer>MedUni9 · Agentes Noturnos · Abra em qualquer navegador</footer>
+</body>
+</html>

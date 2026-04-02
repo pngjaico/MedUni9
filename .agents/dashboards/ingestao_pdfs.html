@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bibliotecário — Ingestão de PDFs</title>
+<style>
+  :root {
+    --bg: #0A1628; --surface: #0F2040; --border: #1E3A5F;
+    --primary: #3B82F6; --success: #10B981; --warning: #F59E0B;
+    --danger: #EF4444; --text: #E2E8F0; --muted: #64748B;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', system-ui, sans-serif; max-width: 860px; margin: 0 auto; padding: 32px 24px; }
+  a.back { color: var(--primary); font-size: 0.85rem; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; margin-bottom: 24px; }
+  a.back:hover { text-decoration: underline; }
+  .hero { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 24px; margin-bottom: 24px; }
+  .hero-header { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+  .hero h1 { font-size: 1.3rem; font-weight: 700; }
+  .hero p { font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
+  .badge { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; }
+  .badge.ok { background: rgba(16,185,129,.2); color: var(--success); }
+  .badge.warn { background: rgba(245,158,11,.2); color: var(--warning); }
+  .badge.err { background: rgba(239,68,68,.2); color: var(--danger); }
+  .badge.idle { background: rgba(100,116,139,.2); color: var(--muted); }
+  .info-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin-top: 16px; }
+  .info-box { background: rgba(255,255,255,.03); border: 1px solid var(--border); border-radius: 8px; padding: 12px; }
+  .info-box label { font-size: 0.7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; display: block; margin-bottom: 4px; }
+  .info-box span { font-size: 1.1rem; font-weight: 700; color: var(--text); }
+  .section { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 20px; margin-bottom: 16px; }
+  .section h2 { font-size: 0.9rem; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 14px; }
+  .log-line { font-family: 'Consolas', monospace; font-size: 0.8rem; padding: 6px 10px; border-radius: 6px; margin-bottom: 4px; display: flex; gap: 10px; }
+  .log-line.ok { background: rgba(16,185,129,.08); border-left: 3px solid var(--success); }
+  .log-line.warn { background: rgba(245,158,11,.08); border-left: 3px solid var(--warning); }
+  .log-line.err { background: rgba(239,68,68,.08); border-left: 3px solid var(--danger); }
+  .log-line.info { background: rgba(59,130,246,.08); border-left: 3px solid var(--primary); }
+  .log-line .ts { color: var(--muted); flex-shrink: 0; }
+  .empty { color: var(--muted); font-size: 0.85rem; text-align: center; padding: 24px 0; }
+  footer { margin-top: 32px; font-size: 0.75rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+
+<a class="back" href="index.html">← Voltar ao painel</a>
+
+<div class="hero">
+  <div class="hero-header">
+    <div>
+      <h1>Bibliotecário — Ingestão de PDFs</h1>
+      <p>Classifica, renomeia e organiza PDFs de <code>conteudos/_para_categorizar/</code> nas pastas de cada disciplina.</p>
+    </div>
+    <span class="badge idle" id="status-badge">Aguardando</span>
+  </div>
+  <div class="info-grid">
+    <div class="info-box"><label>Cron</label><span>01h00 Brasília</span></div>
+    <div class="info-box"><label>Tipo</label><span>Local</span></div>
+    <div class="info-box"><label>PDFs Processados</label><span id="stat-processados">—</span></div>
+    <div class="info-box"><label>Não Identificados</label><span id="stat-nao-id">—</span></div>
+    <div class="info-box"><label>Última Execução</label><span id="stat-ultima" style="font-size:.85rem">—</span></div>
+    <div class="info-box"><label>Duração</label><span id="stat-duracao">—</span></div>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Relatório da Última Execução</h2>
+  <div id="log-container"><p class="empty">Nenhuma execução registrada ainda.<br>A automação roda todo dia às 01h00 (Brasília).</p></div>
+</div>
+
+<div class="section">
+  <h2>Observações</h2>
+  <div id="obs-container"><p class="empty">—</p></div>
+</div>
+
+<script>
+// Este bloco é atualizado automaticamente pelo workflow ingestao_diaria.md
+// DATA_START
+const REPORT_DATA = null;
+// DATA_END
+
+function statusClass(s) { return s === 'ok' ? 'ok' : s === 'warn' ? 'warn' : s === 'err' ? 'err' : 'idle'; }
+function statusLabel(s) { return s === 'ok' ? 'Concluído' : s === 'warn' ? 'Com Avisos' : s === 'err' ? 'Erro' : 'Aguardando'; }
+
+if (REPORT_DATA) {
+  const d = REPORT_DATA;
+  const badge = document.getElementById('status-badge');
+  badge.textContent = statusLabel(d.status);
+  badge.className = 'badge ' + statusClass(d.status);
+  document.getElementById('stat-processados').textContent = d.processados ?? '0';
+  document.getElementById('stat-nao-id').textContent = d.nao_identificados ?? '0';
+  document.getElementById('stat-ultima').textContent = d.rodou_em ?? '—';
+  document.getElementById('stat-duracao').textContent = d.duracao ?? '—';
+
+  const logEl = document.getElementById('log-container');
+  if (d.acoes && d.acoes.length > 0) {
+    logEl.innerHTML = d.acoes.map(a =>
+      `<div class="log-line ${a.tipo || 'info'}"><span class="ts">${a.hora || ''}</span><span>${a.texto}</span></div>`
+    ).join('');
+  } else {
+    logEl.innerHTML = '<p class="empty">Nenhum arquivo processado nesta execução.</p>';
+  }
+
+  const obsEl = document.getElementById('obs-container');
+  if (d.observacoes) {
+    obsEl.innerHTML = `<div class="log-line warn"><span>${d.observacoes}</span></div>`;
+  } else {
+    obsEl.innerHTML = '<p class="empty">Nenhuma observação.</p>';
+  }
+}
+</script>
+
+<footer>MedUni9 · Abra localmente no navegador · Atualizado automaticamente pelo agente</footer>
+</body>
+</html>

@@ -55,9 +55,45 @@ OBSERVAÇÕES: [anomalias ou arquivos suspeitos]
 
 Se nenhum arquivo foi encontrado: `Nenhum arquivo novo. Nada a fazer.`
 
+## Passo 6 — Relatório de Texto
+
+Crie ou atualize `conteudos/_logs/ingestao_YYYY-MM-DD.txt`:
+
+```
+INGESTÃO — [DATA]
+PDFs processados: X | Não identificados: X
+---
+[nome_original] → [destino/nome_novo]  [DISCIPLINA/MÓDULO]
+OBSERVAÇÕES: [anomalias ou arquivos suspeitos]
+```
+
+Se nenhum arquivo foi encontrado: `Nenhum arquivo novo. Nada a fazer.`
+
+## Passo 7 — Atualizar Dashboard HTML
+
+Ao final de cada execução, atualize o arquivo `.agents/dashboards/ingestao_pdfs.html`.
+Localize o bloco entre os comentários `// DATA_START` e `// DATA_END` e substitua pela linha abaixo com os dados reais:
+
+```js
+const REPORT_DATA = {
+  "status": "ok",
+  "rodou_em": "DD/MM/YYYY HH:MM",
+  "duracao": "Xs",
+  "processados": N,
+  "nao_identificados": N,
+  "acoes": [
+    { "tipo": "ok", "hora": "HH:MM", "texto": "nome_original.pdf → destino/nome_novo.pdf [DISCIPLINA]" },
+    { "tipo": "warn", "hora": "HH:MM", "texto": "arquivo_estranho.pdf → _nao_identificado/" }
+  ],
+  "observacoes": "Texto livre se houver anomalias, ou null"
+};
+```
+
+Use `"status": "ok"` se tudo correu bem, `"warn"` se houve não-identificados, `"err"` se houve falha crítica.
+
 ## Regras
 
 - Nunca apague um PDF sem mover para algum destino.
 - Em dúvida sobre a disciplina, mova para `conteudos/_nao_identificado/`.
-- Não modifique nada fora de `conteudos/`.
+- Não modifique nada fora de `conteudos/` e `.agents/dashboards/`.
 - Não faça git commit (conteúdos são locais e estão no .gitignore).
