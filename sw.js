@@ -1,5 +1,5 @@
 // MedUni9 Service Worker v4.0 — Security Hardened
-const CACHE_NAME = 'meduni9-v6';
+const CACHE_NAME = 'meduni9-v7';
 
 // Files to cache (NEVER cache sensitive files)
 const ASSETS = [
