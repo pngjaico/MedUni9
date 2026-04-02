@@ -1,1201 +1,530 @@
 {
-  "sus": {
-    "nome": "Princípios e Organização do SUS",
-    "sigla": "SUS",
-    "modulo": 1, "ativo": true,
-    "icon": "🏥",
-    "cor": "#6366F1",
-    "descricao": "Princípios e diretrizes do Sistema Único de Saúde, legislação, organização, níveis de atenção e políticas públicas de saúde",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1 — História e Reforma Sanitária",
-        "temas": [
-          { "id": "sus_historia", "nome": "História da Saúde Pública no Brasil", "descricao": "Evolução das políticas de saúde desde a Primeira República até a Constituição de 1988" },
-          { "id": "sus_reforma_sanitaria", "nome": "Reforma Sanitária Brasileira", "descricao": "Movimento sanitarista, 8ª Conferência Nacional de Saúde, criação do SUS" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Princípios e Diretrizes",
-        "temas": [
-          { "id": "sus_principios", "nome": "Princípios Doutrinários do SUS", "descricao": "Universalidade, equidade e integralidade — conceitos, exemplos e aplicações práticas" },
-          { "id": "sus_diretrizes", "nome": "Diretrizes Organizativas do SUS", "descricao": "Descentralização, regionalização, hierarquização, participação comunitária e controle social" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Organização e Atenção à Saúde",
-        "temas": [
-          { "id": "sus_atencao_primaria", "nome": "Atenção Primária à Saúde (APS)", "descricao": "Estratégia Saúde da Família, UBS, NASF, atributos da APS: acesso, longitudinalidade, integralidade, coordenação" },
-          { "id": "sus_niveis_atencao", "nome": "Níveis de Atenção e Regulação", "descricao": "Atenção primária, secundária e terciária; hierarquia, referência e contrarreferência; regulação assistencial" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Legislação e Políticas de Saúde",
-        "temas": [
-          { "id": "sus_legislacao", "nome": "Lei Orgânica da Saúde (8.080/90 e 8.142/90)", "descricao": "Competências, financiamento, controle social — Conselhos e Conferências de Saúde" },
-          { "id": "sus_politicas_nacionais", "nome": "Políticas Nacionais de Saúde", "descricao": "PNAB, PNSP, Rede Cegonha, HumanizaSUS, Política Nacional de Humanização" }
-        ]
-      }
-    ]
-  },
-  "semiologia1": {
-    "nome": "Semiologia Médica 1 — Sistema Locomotor",
-    "sigla": "SEMIO1",
-    "modulo": 1, "ativo": true,
-    "icon": "🩺",
-    "cor": "#C0392B",
-    "descricao": "Propedêutica do sistema musculoesquelético: anamnese, exame físico geral e semiologia do aparelho locomotor",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1 — Anamnese e Exame Físico Geral",
-        "temas": [
-          { "id": "semio1_anamnese", "nome": "Anamnese Estruturada", "descricao": "Identificação, queixa principal, HDA, HPP, história familiar, história social e revisão de sistemas" },
-          { "id": "semio1_exame_geral", "nome": "Exame Físico Geral", "descricao": "Estado geral, nível de consciência, hidratação, coloração de pele e mucosas, fácies, atitude e marcha" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Semiologia Ortopédica",
-        "temas": [
-          { "id": "semio1_coluna", "nome": "Semiologia da Coluna Vertebral", "descricao": "Inspeção, palpação, mobilidade, testes especiais (Lasègue, Schober, Patrick/FABERE)" },
-          { "id": "semio1_mmii", "nome": "Semiologia do Membro Inferior", "descricao": "Exame do quadril, joelho (McMurray, Lachman, gaveta), tornozelo e pé; testes ligamentares" },
-          { "id": "semio1_mmss", "nome": "Semiologia do Membro Superior", "descricao": "Exame do ombro (Neer, Hawkins, Jobe), cotovelo, punho e mão; síndrome do túnel do carpo" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Semiologia Muscular",
-        "temas": [
-          { "id": "semio1_trofismo", "nome": "Trofismo e Força Muscular", "descricao": "Escala MRC de força muscular, atrofia, hipertrofia, fasciculações, câimbras" },
-          { "id": "semio1_tonus", "nome": "Tônus Muscular e Coordenação", "descricao": "Hipotonia, hipertonia, espasticidade, rigidez (roda denteada, cano de chumbo)" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Marcha e Reflexos",
-        "temas": [
-          { "id": "semio1_marcha", "nome": "Análise da Marcha", "descricao": "Marcha normal e patológica: anserina, ceifante, escarvante, Trendelenburg, Parkinsoniana" },
-          { "id": "semio1_reflexos", "nome": "Reflexos Osteotendinosos e Cutâneos", "descricao": "Reflexos profundos (bicipital, tricipital, patelar, aquileu) e cutâneos; hiper e hiporreflexia" }
-        ]
-      }
-    ]
-  },
   "bmf1": {
-    "nome": "Bases Morfofuncionais 1 — Sistema Locomotor",
+    "nome": "Bases Morfofuncionais 1",
     "sigla": "BMF1",
-    "modulo": 1, "ativo": true,
+    "modulo": 1,
+    "ativo": true,
     "icon": "🦴",
     "cor": "#E85D75",
-    "descricao": "Anatomia, Histologia e Biofísica do sistema musculoesquelético — ossos, articulações, músculos e tecidos de suporte",
+    "descricao": "Anatomia e Histologia do Sistema Locomotor",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Histologia — Módulo 1: Introdução e Técnicas",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf1_tecnicas_hist", "nome": "Técnicas Histológicas", "descricao": "Preparo de lâminas, colorações (HE, PAS, tricômico), microscopia óptica e eletrônica" },
-          { "id": "bmf1_membrana_bio", "nome": "Membranas Biológicas", "descricao": "Modelo mosaico fluido, fosfolipídeos, colesterol, proteínas integrais e periféricas" },
-          { "id": "bmf1_organelas", "nome": "Organelas Membranosas e Citoesqueleto", "descricao": "Retículo endoplasmático, complexo de Golgi, mitocôndria, lisossomos, microtúbulos, actina" }
+          {
+            "id": "t1",
+            "nome": "Tópicos de BMF1",
+            "descricao": "Conforme Plano de Ensino Oficial 2026.1"
+          }
         ]
-      },
+      }
+    ]
+  },
+  "sus": {
+    "nome": "Princípios e Diretrizes do SUS",
+    "sigla": "SUS",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "🏥",
+    "cor": "#6366F1",
+    "descricao": "Política de Saúde, Antecedentes Históricos e PNAB",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
       {
-        "nome": "Histologia — Módulo 2: Tecidos Básicos",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf1_tec_epitelial", "nome": "Tecido Epitelial", "descricao": "Epitélios de revestimento (simples, estratificado, pseudoestratificado) e glandular; junções celulares" },
-          { "id": "bmf1_tec_conjuntivo", "nome": "Tecido Conjuntivo Propriamente Dito", "descricao": "Células (fibroblasto, macrófago, mastócito), fibras colágenas, elásticas e reticulares; MEC" },
-          { "id": "bmf1_tec_adiposo", "nome": "Tecido Adiposo", "descricao": "Tecido adiposo unilocular e multilocular; distribuição, funções metabólicas e endócrinas" },
-          { "id": "bmf1_tec_cartilaginem", "nome": "Tecido Cartilaginoso", "descricao": "Cartilagem hialina, elástica e fibrosa; condrócitos, pericôndrio, nutrição avascular" },
-          { "id": "bmf1_tec_osseo", "nome": "Tecido Ósseo", "descricao": "Osso compacto e esponjoso, osteoblasto, osteócito, osteoclasto, remodelação óssea, ossificação" },
-          { "id": "bmf1_tec_muscular", "nome": "Tecido Muscular", "descricao": "Músculo esquelético, liso e cardíaco; sarcômero, actina, miosina, mecanismo de contração" }
+          {
+            "id": "t1",
+            "nome": "Tópicos SUS",
+            "descricao": "Conforme Plano de Ensino Oficial 2026.1"
+          }
         ]
-      },
+      }
+    ]
+  },
+  "semio1": {
+    "nome": "Semiologia do Sistema Musculoesquelético",
+    "sigla": "SEMIO1",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "🩺",
+    "cor": "#C0392B",
+    "descricao": "Anamnese e Exame Físico do Aparelho Locomotor",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
       {
-        "nome": "Anatomia — Módulo 1: Generalidades",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf1_intro_anatomia", "nome": "Introdução à Anatomia Humana", "descricao": "Terminologia anatômica, planos e eixos, nomenclatura BNA/TA, posição anatômica" },
-          { "id": "bmf1_sist_esqueletico", "nome": "Sistema Esquelético — Generalidades", "descricao": "Classificação dos ossos, estrutura óssea macroscópica, tipos de articulação, crânio e coluna vertebral" },
-          { "id": "bmf1_sist_articular", "nome": "Sistema Articular (Artrologia)", "descricao": "Sinartroses, anfiartroses, diartroses; componentes das articulações sinoviais" },
-          { "id": "bmf1_sist_muscular_geral", "nome": "Sistema Muscular — Generalidades", "descricao": "Classificação dos músculos, nomenclatura, origem, inserção, ação, inervação; tendões e aponeuroses" }
-        ]
-      },
-      {
-        "nome": "Anatomia — Módulo 2: Membro Inferior",
-        "temas": [
-          { "id": "bmf1_mmii_osteologia", "nome": "Membro Inferior — Osteologia e Artrologia", "descricao": "Cintura pélvica, fêmur, tíbia, fíbula, patela, tarso, metatarso" },
-          { "id": "bmf1_mmii_miologia", "nome": "Membro Inferior — Miologia", "descricao": "Músculos da coxa, perna e pé" },
-          { "id": "bmf1_mmii_vasos_nervos", "nome": "Membro Inferior — Vasos e Nervos", "descricao": "Artéria femoral, poplítea, tibial; veia safena; nervos femoral, ciático" },
-          { "id": "bmf1_mmii_radio", "nome": "Anatomia Radiológica do Membro Inferior", "descricao": "Leitura de radiografias, referências anatômicas, fraturas comuns" }
-        ]
-      },
-      {
-        "nome": "Anatomia — Módulo 3: Membro Superior",
-        "temas": [
-          { "id": "bmf1_mmss_osteologia", "nome": "Membro Superior — Osteologia e Artrologia", "descricao": "Clavícula, escápula, úmero, rádio, ulna, carpo" },
-          { "id": "bmf1_mmss_miologia", "nome": "Membro Superior — Miologia", "descricao": "Manguito rotador, deltóide, bíceps, tríceps, músculos do antebraço e mão" },
-          { "id": "bmf1_plexo_braquial", "nome": "Plexo Braquial e Nervos", "descricao": "Raízes C5-T1, nervos mediano, ulnar, radial, musculocutâneo" },
-          { "id": "bmf1_mmss_radio", "nome": "Anatomia Radiológica do Membro Superior", "descricao": "Radiografias de ombro, cotovelo e punho; fraturas" }
-        ]
-      },
-      {
-        "nome": "Biofísica",
-        "temas": [
-          { "id": "bmf1_pot_membrana", "nome": "Potencial de Membrana e Potencial de Ação", "descricao": "Potencial de repouso, canais iônicos, lei de Nernst, potencial de ação" },
-          { "id": "bmf1_transp_membrana", "nome": "Transporte de Membrana", "descricao": "Difusão simples e facilitada, transporte ativo, osmose" },
-          { "id": "bmf1_contracao_musc", "nome": "Contração Muscular — Biofísica", "descricao": "Acoplamento excitação-contração, troponina, tropomiosina, ciclo das pontes cruzadas" },
-          { "id": "bmf1_comp_fisiologicos", "nome": "Compartimentos Fisiológicos", "descricao": "LIC, LEC, plasma; osmolaridade, tonicidade, equilíbrio eletrolítico" }
+          {
+            "id": "t1",
+            "nome": "Semiologia Musculoesquelética",
+            "descricao": "Conforme Plano de Ensino Oficial 2026.1"
+          }
         ]
       }
     ]
   },
   "pmh": {
-    "nome": "Práticas nas Humanidades Médicas",
+    "nome": "Processos Metabólicos Humanos",
     "sigla": "PMH",
-    "modulo": 1, "ativo": true,
+    "modulo": 1,
+    "ativo": true,
     "icon": "📋",
     "cor": "#8B5CF6",
-    "descricao": "Ética médica, bioética, humanidades e habilidades de comunicação aplicadas à práÉtica médica",
+    "descricao": "Bioquímica: carboidratos, lipídeos, proteínas, ácido-base e gasometria",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Comunicação e Relação Médico-Paciente",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "pmh_comunicacao", "nome": "Habilidades de Comunicação", "descricao": "Escuta ativa, empatia, comunicação verbal e não verbal, entrevista motivacional" },
-          { "id": "pmh_relacao_medico_paciente", "nome": "Relação Médico-Paciente", "descricao": "Modelos de relação (paternalista, informativo, interpretativo, deliberativo), autonomia do paciente" }
+          {
+            "id": "t1",
+            "nome": "Metabolismo Humano",
+            "descricao": "Conforme Plano de Ensino Oficial 2026.1"
+          }
         ]
-      },
+      }
+    ]
+  },
+  "pe1": {
+    "nome": "Projeto Extensionista 1",
+    "sigla": "PE1",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "🤝",
+    "cor": "#10B981",
+    "descricao": "Higiene, Alimentação Saudável, Combate ao Tabagismo e Promoção da Saúde",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
       {
-        "nome": "Módulo 2 — Ética Médica",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "pmh_etica", "nome": "Código de Ética Médica", "descricao": "Direitos e deveres médicos, sigilo profissional, publicidade médica, relação com outros profissionais" },
-          { "id": "pmh_cfm", "nome": "Conselhos de Medicina e Regulação", "descricao": "CFM, CRM, infrações éticas, processos disciplinares, responsabilidade civil e penal do médico" }
+          {
+            "id": "t1",
+            "nome": "Projetos de Comunidade",
+            "descricao": "Prevenção e promoção da saúde"
+          }
         ]
-      },
+      }
+    ]
+  },
+  "ind": {
+    "nome": "Indicadores de Saúde, Epidemiologia e Bioestatística",
+    "sigla": "IND",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "📊",
+    "cor": "#059669",
+    "descricao": "Vigilância em Saúde, Indicadores de Morbimortalidade e Epidemiologia Descritiva",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
       {
-        "nome": "Módulo 3 — Bioética",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "pmh_bioetica", "nome": "Fundamentos da Bioética", "descricao": "Origem da bioética, Relatório Belmont, declaração de Helsinque" },
-          { "id": "pmh_principios_bioetica", "nome": "Princípios da Bioética", "descricao": "Autonomia, beneficência, não maleficência e justiça — aplicações clínicas e dilemas éticos" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Humanidades e Medicina",
-        "temas": [
-          { "id": "pmh_medicina_narrativa", "nome": "Medicina Narrativa e Humanização", "descricao": "Narrativa clínica, literatura e medicina, espiritualidade e saúde, cuidado centrado na pessoa" },
-          { "id": "pmh_psicossocial", "nome": "Determinantes Psicossociais da Saúde", "descricao": "Aspectos sociais, culturais e psicológicos que influenciam a saúde individual e coletiva" }
+          {
+            "id": "t1",
+            "nome": "Indicadores",
+            "descricao": "Epidemiologia e Bioestatística básica"
+          }
         ]
       }
     ]
   },
   "bmf2": {
-    "nome": "Bases Morfofuncionais 2 — Sistema Cardiopulmonar",
+    "nome": "Bases Morfofuncionais — Módulo Cardiorrespiratório",
     "sigla": "BMF2",
-    "modulo": 2, "ativo": true,
+    "modulo": 2,
+    "ativo": true,
     "icon": "❤️",
     "cor": "#EF4444",
-    "descricao": "Anatomia, Histologia e Fisiologia do coração, vasos sanguíneos e sistema respiratório",
+    "descricao": "Anatomia e Fisiologia do Sistema Cardiorrespiratório",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Anatomia Cardíaca e Vascular",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf2_anat_coracao", "nome": "Anatomia do Coração", "descricao": "Câmaras cardíacas, válvulas, sistema de condução, pericárdio; topografia mediastinal" },
-          { "id": "bmf2_anat_vasos", "nome": "Anatomia dos Grandes Vasos", "descricao": "Aorta e seus ramos, artérias pulmonares, veias cavas, sistema porta-hepático" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Histologia Cardiovascular",
-        "temas": [
-          { "id": "bmf2_hist_cardio", "nome": "Histologia Cardíaca", "descricao": "Miócito cardíaco, discos intercalares, endocárdio, miocárdio, epicárdio; células de Purkinje" },
-          { "id": "bmf2_hist_vasos", "nome": "Histologia dos Vasos Sanguíneos", "descricao": "Túnicas íntima, média e adventícia; artérias elásticas e musculares; veias e capilares" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Fisiologia Cardíaca",
-        "temas": [
-          { "id": "bmf2_fisio_ciclo", "nome": "Ciclo Cardíaco e Débito Cardíaco", "descricao": "Sístole, diástole, pré-carga, pós-carga, fração de ejeção, lei de Starling" },
-          { "id": "bmf2_fisio_ecg", "nome": "Eletrocardiograma (ECG)", "descricao": "Geração do impulso, sistema His-Purkinje, derivações, ondas P, QRS, T; interpretação básica" },
-          { "id": "bmf2_fisio_pa", "nome": "Pressão Arterial e Controle Autonômico", "descricao": "Regulação da PA, barorreceptores, sistema renina-angiotensina-aldosterona, peptídeos natriuréticos" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Anatomia Pulmonar",
-        "temas": [
-          { "id": "bmf2_anat_pulmao", "nome": "Anatomia dos Pulmões e Pleura", "descricao": "Lobos, segmentos brônquicos, hilo pulmonar, pleuras parietal e visceral, espaço pleural" },
-          { "id": "bmf2_anat_vias_aereas", "nome": "Anatomia das Vias Aéreas", "descricao": "Cavidade nasal, laringe, traqueia, brônquios principais, lobares e segmentares; árvore brônquica" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Fisiologia Pulmonar",
-        "temas": [
-          { "id": "bmf2_fisio_ventilacao", "nome": "Mecânica Ventilatória", "descricao": "Volumes e capacidades pulmonares, complacência, resistência das vias aéreas, trabalho respiratório" },
-          { "id": "bmf2_fisio_troca_gasosa", "nome": "Troca Gasosa e Transporte de Gases", "descricao": "Difusão alveolar, relação V/Q, transporte de O2 (hemoglobina) e CO2; equação alveolar" }
-        ]
-      },
-      {
-        "nome": "Módulo 6 — Biofísica Cardiovascular",
-        "temas": [
-          { "id": "bmf2_biofis_hemodinamica", "nome": "Hemodinâmica e Fluxo Sanguíneo", "descricao": "Lei de Poiseuille, resistência vascular, viscosidade, turbulência, número de Reynolds" },
-          { "id": "bmf2_biofis_pressao", "nome": "Pressões Cardíacas e Pulmonares", "descricao": "Pressões intracardíacas, pressão de encunhamento capilar pulmonar (PCWP), cor pulmonale" }
+          {
+            "id": "t1",
+            "nome": "BMF2",
+            "descricao": "Anatomia e Fisiologia Cardiorrespiratória"
+          }
         ]
       }
     ]
   },
-  "mad1": {
-    "nome": "Mecanismos de Agressão e Defesa 1 — Imunologia",
-    "sigla": "MAD1",
-    "modulo": 2, "ativo": true,
+  "ds": {
+    "nome": "Dimensões Socioambientais",
+    "sigla": "DS",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "🌍",
+    "cor": "#059669",
+    "descricao": "Impacto socioambiental na saúde e ecologia médica",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
+      {
+        "nome": "Módulo 1",
+        "temas": [
+          {
+            "id": "t1",
+            "nome": "Meio Ambiente e Sociedade",
+            "descricao": "Tópicos de ecologia médica"
+          }
+        ]
+      }
+    ]
+  },
+  "semio2": {
+    "nome": "Semiologia do Aparelho Cardiocirculatório e Respiratório",
+    "sigla": "SEMIO2",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "🩺",
+    "cor": "#C0392B",
+    "descricao": "Ausculta e Exame Físico Cardiorrespiratório",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
+      {
+        "nome": "Módulo 1",
+        "temas": [
+          {
+            "id": "t1",
+            "nome": "Cardio e Resp",
+            "descricao": "Bases semiológicas cardiopulmonares"
+          }
+        ]
+      }
+    ]
+  },
+  "mad": {
+    "nome": "Mecanismos de Agressão e Defesa — Microbiologia e Parasitologia",
+    "sigla": "MAD",
+    "modulo": 2,
+    "ativo": true,
     "icon": "🛡️",
     "cor": "#F59E0B",
-    "descricao": "Imunidade inata e adaptativa, anticorpos, complemento, hipersensibilidade, autoimunidade e vacinas",
+    "descricao": "Microbiologia, Virologia, Bacteriologia e Parasitologia",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Imunidade Inata",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "mad1_barreiras", "nome": "Barreiras Físicas e Químicas", "descricao": "Pele, mucosas, cílios, muco, pH ácido, lisozima, defensinas — primeira linha de defesa" },
-          { "id": "mad1_celulas_inatas", "nome": "Células da Imunidade Inata", "descricao": "Neutrófilos, macrófagos, células NK, mastócitos, eosinófilos, basófilos; fagocitose e burst oxidativo" },
-          { "id": "mad1_inflamacao_aguda", "nome": "Resposta Inflamatória Aguda", "descricao": "Mediadores (histamina, prostaglandinas, leucotrienos, citocinas), sinais cardinais, PAMP e PRR" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Imunidade Adaptativa Celular",
-        "temas": [
-          { "id": "mad1_linfocito_t", "nome": "Linfócitos T — Maturação e Ativação", "descricao": "Timo, seleção positiva e negativa, subtipos Th1, Th2, Th17, Treg, CTL; MHC I e II" },
-          { "id": "mad1_mhc", "nome": "Complexo Principal de Histocompatibilidade (MHC/HLA)", "descricao": "Estrutura e função dos MHC classes I e II; apresentação de antígenos; relevância em transplantes" },
-          { "id": "mad1_citocinas", "nome": "Citocinas e Interleucinas", "descricao": "IL-1, IL-2, IL-4, IL-6, IL-10, IL-17, TNF-α, IFN-γ; função, fonte celular e aplicações clínicas" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Imunidade Adaptativa Humoral",
-        "temas": [
-          { "id": "mad1_linfocito_b", "nome": "Linfócitos B e Imunidade Humoral", "descricao": "Maturação, ativação T-dependente e T-independente, plasmócitos, células de memória" },
-          { "id": "mad1_anticorpos", "nome": "Anticorpos — Estrutura e Funções", "descricao": "IgG, IgA, IgM, IgE, IgD — estrutura, funções efetoras, opsonização, neutralização, ADCC" },
-          { "id": "mad1_complemento", "nome": "Sistema Complemento", "descricao": "Vias clássica, alternativa e das lectinas; complexo de ataque à membrana (MAC); anafilatoxinas C3a, C5a" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Hipersensibilidade",
-        "temas": [
-          { "id": "mad1_tipo1", "nome": "Hipersensibilidade Tipo I (Imediata/Alérgica)", "descricao": "IgE, mastócitos, histamina; anafilaxia, asma alérgica, rinite, urticária; tratamento" },
-          { "id": "mad1_tipo2", "nome": "Hipersensibilidade Tipo II (Citotóxica)", "descricao": "IgG/IgM contra antígenos celulares; anemia hemolítica, eritroblastose fetal, miastenia gravis" },
-          { "id": "mad1_tipo3", "nome": "Hipersensibilidade Tipo III (Imunocomplex)", "descricao": "Deposição de complexos imunes; LES, vasculite, glomerulonefrite pós-estreptocócica" },
-          { "id": "mad1_tipo4", "nome": "Hipersensibilidade Tipo IV (Tardia/Celular)", "descricao": "Mediada por linfócitos T; tuberculose (PPD), dermatite de contato, rejeição de transplante" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Autoimunidade, Vacinas e Imunodeficiências",
-        "temas": [
-          { "id": "mad1_autoimunidade", "nome": "Autoimunidade — Mecanismos e Doenças", "descricao": "Quebra da tolerância, mimetismo molecular; artrite reumatoide, LES, tireoidite de Hashimoto" },
-          { "id": "mad1_vacinas", "nome": "Vacinas e Imunização", "descricao": "Tipos de vacinas (vivas atenuadas, inativadas, subunidades, mRNA), calendário vacinal, adjuvantes" },
-          { "id": "mad1_imunodeficiencias", "nome": "Imunodeficiências Primárias e Secundárias", "descricao": "SCID, agamaglobulinemia, DiGeorge; imunodeficiências adquiridas (HIV/AIDS, imunossupressão)" }
+          {
+            "id": "t1",
+            "nome": "Imunidade e Infeção",
+            "descricao": "Tópicos imunitários"
+          }
         ]
       }
     ]
   },
-  "indicadores": {
-    "nome": "Indicadores de Saúde e Epidemiologia",
-    "sigla": "IND",
-    "modulo": 2, "ativo": true,
-    "icon": "📊",
-    "cor": "#10B981",
-    "descricao": "Epidemiologia, indicadores de saúde, vigilância epidemiológica e estudos de associação em saúde pública",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1 — Vigilância Epidemiológica",
-        "temas": [
-          { "id": "ind_vigilancia", "nome": "Vigilância Epidemiológica no SUS", "descricao": "Sistemas de informação (SINAN, SIM, SINASC), notificação compulsória, surtos e epidemias" },
-          { "id": "ind_notificacao", "nome": "Doenças de Notificação Compulsória", "descricao": "Lista nacional de DOEN?AS, investigação epidemiológica, fichas de notificação, medidas de controle" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Medidas de Frequência",
-        "temas": [
-          { "id": "ind_incidencia", "nome": "Incidência e Taxa de Ataque", "descricao": "Definição, cálculo, densidade de incidência; taxa de ataque em surtos; interpretação" },
-          { "id": "ind_prevalencia", "nome": "Prevalência e Seus Determinantes", "descricao": "Prevalência pontual e de período; relação com incidência e duração da doença; P = I - D" },
-          { "id": "ind_mortalidade", "nome": "Indicadores de Mortalidade", "descricao": "Taxa de mortalidade geral e específica, mortalidade infantil (neonatal, pós-neonatal), letalidade, APVP" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Indicadores de Saúde",
-        "temas": [
-          { "id": "ind_sfm", "nome": "Indicadores Compostos de Saúde", "descricao": "DALY (Anos de Vida Ajustados por Incapacidade), QALY, IDH-Saúde; comparações internacionais" },
-          { "id": "ind_anos_vida", "nome": "Esperança de Vida e Transição Epidemiológica", "descricao": "Tábua de vida, esperança de vida ao nascer, transição demográfica e epidemiológica no Brasil" },
-          { "id": "ind_daly", "nome": "Carga de Doença e Fardos Epidemiológicos", "descricao": "Conceito de YLL e YLD, principais causas de DALY no Brasil e no mundo" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Desenhos de Estudos Epidemiológicos",
-        "temas": [
-          { "id": "ind_cohorte", "nome": "Estudos de Coorte", "descricao": "Prospectivo e retrospectivo; risco relativo (RR); vantagens e limitações; viés de perda de seguimento" },
-          { "id": "ind_caso_controle", "nome": "Estudos de Caso-Controle", "descricao": "Odds ratio (OR); seleção de casos e controles; vieses (seleção, informação, confusão)" },
-          { "id": "ind_transversal", "nome": "Estudos Transversais e Ecológicos", "descricao": "Prevalência como desfecho, falácia ecológica, aplicações em saúde pública" }
-        ]
-      }
-    ]
-  },
-  "bcm1": {
-    "nome": "Bases Moleculares e Celulares",
-    "sigla": "BCM1",
-    "modulo": 2, "ativo": true,
+  "bcm": {
+    "nome": "Biologia Celular e Molecular",
+    "sigla": "BCM",
+    "modulo": 2,
+    "ativo": true,
     "icon": "🧬",
     "cor": "#4A90E2",
-    "descricao": "Bioquímica, biologia molecular e celular — metabolismo, genética e regulação gênica aplicados à medicina",
+    "descricao": "Genética, Divisão Celular, Mutações e Mecanismos Moleculares",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Química da Vida",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bcm1_agua_ph", "nome": "Água, pH e Tampões Biológicos", "descricao": "Propriedades da água, ionização, pH, pKa, tampões fisiológicos" },
-          { "id": "bcm1_aminoacidos", "nome": "Aminoácidos — Estrutura e Classificação", "descricao": "20 aminoácidos protéicos, grupos R, titulação, ponto isoelétrico" },
-          { "id": "bcm1_proteinas_est", "nome": "Proteínas — Estrutura e Função", "descricao": "Estruturas primária a quaternária; desnaturação; hemoglobina e mioglobina" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Metabolismo de Carboidratos",
-        "temas": [
-          { "id": "bcm1_carboidratos", "nome": "Carboidratos — Estrutura e Classificação", "descricao": "Monossacarídeos, dissacarídeos, polissacarídeos" },
-          { "id": "bcm1_glicose", "nome": "Glicólise e Regulação", "descricao": "10 etapas da glicólise, enzimas-chave, regulação alostérica, fermentação" },
-          { "id": "bcm1_krebs", "nome": "Ciclo de Krebs (Ácido Cítrico)", "descricao": "8 etapas, enzimas, cofatores, produção de NADH, FADH2 e GTP" },
-          { "id": "bcm1_fosforilacao", "nome": "Fosforilação Oxidativa e Cadeia Respiratória", "descricao": "Complexos I—IV, ATP sintase, quimiosmose, rendimento energético total" },
-          { "id": "bcm1_glicogenio", "nome": "Glicogênio — Síntese e Degradação", "descricao": "Glicogênese, glicogenólise, regulação hormonal" },
-          { "id": "bcm1_gliconeogenese", "nome": "Gliconeogênese e Ciclo de Cori", "descricao": "Substratos, enzimas exclusivas, regulação" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Metabolismo de Lipídeos",
-        "temas": [
-          { "id": "bcm1_lipideos", "nome": "Lipídeos — Estrutura e Classificação", "descricao": "Ácidos graxos, triglicerídeos, fosfolipídeos, colesterol" },
-          { "id": "bcm1_betaoxidacao", "nome": "Beta-oxidação dos Ácidos Graxos", "descricao": "Ativação, transporte (carnitina), espiral de β-oxidação" },
-          { "id": "bcm1_sintese_ag", "nome": "Síntese de Ácidos Graxos", "descricao": "Acetil-CoA carboxilase, complexo FAS, elongação" },
-          { "id": "bcm1_corpos_cetonicos", "nome": "Corpos Cetônicos e Lipoproteínas", "descricao": "Cetogênese, cetólise, cetoacidose; quilomícrons, VLDL, LDL, HDL" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Metabolismo de Aminoácidos",
-        "temas": [
-          { "id": "bcm1_catabolismo_aa", "nome": "Catabolismo de Aminoácidos e Ciclo da Ureia", "descricao": "Transaminação, desaminação oxidativa, ciclo da ureia" },
-          { "id": "bcm1_nucleotideos", "nome": "Nucleotídeos — Estrutura e Metabolismo", "descricao": "Purinas e pirimidinas, síntese de novo vs. salvagem" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Biologia Molecular",
-        "temas": [
-          { "id": "bcm1_dna_replicacao", "nome": "DNA — Estrutura e Replicação", "descricao": "Dupla hélice, replicação semiconservativa, DNA pol, telômeros" },
-          { "id": "bcm1_transcricao", "nome": "Transcrição e Processamento do RNA", "descricao": "RNA pol, promotores, splicing, cap 5', cauda poli-A" },
-          { "id": "bcm1_traducao", "nome": "Tradução e Código Genético", "descricao": "Código genético, ribossomos, fases da tradução" },
-          { "id": "bcm1_regulacao_genica", "nome": "Regulação Gênica e Mutações", "descricao": "Tipos de mutação, reparo do DNA, proto-oncogenes" }
-        ]
-      },
-      {
-        "nome": "Módulo 6 — Genética",
-        "temas": [
-          { "id": "bcm1_genetica_mendeliana", "nome": "GenéÉtica Mendeliana — 1ª e 2ª Leis", "descricao": "Segregação, segregação independente, cruzamentos" },
-          { "id": "bcm1_genetica_ligada_sexo", "nome": "Herança Ligada ao Sexo", "descricao": "Cromossomos sexuais, daltonismo, hemofilia, imprinting" },
-          { "id": "bcm1_sindromos_cromossomicos", "nome": "Síndromes Cromossômicas", "descricao": "Down, Turner, Klinefelter, cariotipagem" },
-          { "id": "bcm1_biotecnologia", "nome": "Biotecnologia — PCR, Clonagem, Sequenciamento", "descricao": "PCR, eletroforese, CRISPR-Cas9" }
-        ]
-      },
-      {
-        "nome": "Módulo 7 — Biologia Celular",
-        "temas": [
-          { "id": "bcm1_organelas", "nome": "Estrutura Celular — Organelas", "descricao": "Núcleo, mitocôndria, RE, Golgi, lisossomos, peroxissomos" },
-          { "id": "bcm1_membrana", "nome": "Membrana Celular — Composição e Transporte", "descricao": "Modelo mosaico fluido, transporte passivo/ativo, bomba Na+/K+" },
-          { "id": "bcm1_ciclo_celular", "nome": "Ciclo Celular e Divisão Celular", "descricao": "Fases G1/S/G2/M, ciclinas, CDKs, mitose vs. meiose" }
-        ]
-      },
-      {
-        "nome": "Módulo 8 — Enzimologia",
-        "temas": [
-          { "id": "bcm1_enzimas_cinetica", "nome": "Cinética Enzimática — Michaelis-Menten", "descricao": "Km, Vmax, saturação, inibidores competitivos, não competitivos e mistos" },
-          { "id": "bcm1_acido_base", "nome": "Equilíbrio Ácido-Base Clínico", "descricao": "Gasometria arterial: acidose/alcalose respiratória e metabólica, compensações" }
+          {
+            "id": "t1",
+            "nome": "Célula e Genes",
+            "descricao": "Divisão, Mutações e Genômica"
+          }
         ]
       }
     ]
   },
-  "semiologia2": {
-    "nome": "Semiologia Médica 2 — Sistema Cardiopulmonar",
-    "sigla": "SEMIO2",
-    "modulo": 2, "ativo": true,
-    "icon": "🩺",
-    "cor": "#C0392B",
-    "descricao": "Propedêutica cardiovascular e pulmonar: exame do coração, vasos, pulmões e tórax",
+  "st": {
+    "nome": "Saúde do Trabalhador e Doenças Ocupacionais",
+    "sigla": "ST",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "💼",
+    "cor": "#78716C",
+    "descricao": "Medicina Ocupacional, Legislação Trabalhista e Doenças do Trabalho",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Semiologia Cardiovascular",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "semio2_pulso", "nome": "Pulso Arterial e Venoso", "descricao": "Características do pulso (amplitude, frequência, ritmo, simetria), pulso venoso jugular e ondas" },
-          { "id": "semio2_precordio", "nome": "Exame do Precórdio", "descricao": "Inspeção, palpação (ictus cordis, frêmitos), percussão, ausculta — focos, bulhas e ritmo cardíaco" },
-          { "id": "semio2_sopros", "nome": "Sopros Cardíacos", "descricao": "Classificação (sistólico, diastólico, contínuo), graus de Levine, timbre, localização; sopros valvares" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Semiologia Pulmonar",
-        "temas": [
-          { "id": "semio2_inspecao", "nome": "Inspeção e Palpação do Tórax", "descricao": "Forma do tórax, expansibilidade, frêmito toracovocal, trepidação" },
-          { "id": "semio2_ausculta", "nome": "Percussão e Ausculta Pulmonar", "descricao": "Sons à percussão (macicez, timpanismo), murmúrio vesicular, broncovesicular; ruídos adventícios" },
-          { "id": "semio2_dispneia", "nome": "Dispneia e Padrões Respiratórios", "descricao": "Ortopneia, dispneia paroxística noturna, Cheyne-Stokes, Kussmaul, Biot; escala de MRC" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Semiologia do Abdome Superior",
-        "temas": [
-          { "id": "semio2_abdome", "nome": "Exame do Abdome — Técnicas", "descricao": "Divisão do abdome (quadrantes e regiões), inspeção, ausculta (ruídos intestinais), palpação e percussão" },
-          { "id": "semio2_figado", "nome": "Semiologia Hepática", "descricao": "Hepatomegalia, manobra de Mathieu, percussão da área de macicez hepática, icterícia" },
-          { "id": "semio2_baco", "nome": "Semiologia do Baço e Rins", "descricao": "Esplenomegalia (graus), punho-percussão lombar, sinal de Giordano" }
+          {
+            "id": "t1",
+            "nome": "Medicina Ocupacional",
+            "descricao": "Lesões por esforço e leis"
+          }
         ]
       }
     ]
   },
-  "mad2": {
-    "nome": "Mecanismos de Agressão e Defesa 2 — Patologia Geral",
-    "sigla": "MAD2",
-    "modulo": 3, "ativo": true,
-    "icon": "🛡️",
-    "cor": "#EF4444",
-    "descricao": "Patologia geral, microbiologia e parasitologia: lesão celular, inflamação, neoplasias e agentes infecciosos",
+  "pe3": {
+    "nome": "Projeto Extensionista: Saúde Ocupacional na Atenção Básica",
+    "sigla": "PE3",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "🤝",
+    "cor": "#10B981",
+    "descricao": "Prática comunitária em Saúde do Trabalhador na Atenção Básica",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Lesão e Morte Celular",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "mad2_lesao", "nome": "Adaptações Celulares", "descricao": "Atrofia, hipertrofia, hiperplasia, metaplasia, displasia; causas e reversibilidade" },
-          { "id": "mad2_necrose", "nome": "Necrose — Tipos e Morfologia", "descricao": "Necrose coagulativa, liquefativa, caseosa, gordurosa, gangrenosa; causas e consequências" },
-          { "id": "mad2_apoptose", "nome": "Apoptose — Mecanismos", "descricao": "Via intrínseca (mitocondrial) e extrínseca (death receptor); caspases; apoptose vs necrose" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Inflamação",
-        "temas": [
-          { "id": "mad2_inflamacao_aguda", "nome": "Inflamação Aguda", "descricao": "Eventos vasculares e celulares, mediadores (histamina, bradicinina, prostaglandinas, leucotrienos, citocinas)" },
-          { "id": "mad2_inflamacao_cronica", "nome": "Inflamação Crônica", "descricao": "Macrófagos, linfócitos, plasmócitos; doenças inflamatórias crônicas; mediadores" },
-          { "id": "mad2_granuloma", "nome": "Inflamação Granulomatosa", "descricao": "Granuloma — constituição, tipos (tuberculoide, sarcoide, de corpo estranho); exemplos clínicos" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Reparo Tecidual",
-        "temas": [
-          { "id": "mad2_cicatrizacao", "nome": "Cicatrização de Feridas", "descricao": "Fases (hemostasia, inflamação, proliferação, remodelação); cicatriz hipertrófica e queloide" },
-          { "id": "mad2_regeneracao", "nome": "Regeneração Tecidual e Fibroblastos", "descricao": "Células lábeis, estáveis e permanentes; angiogênese; TGF-β e FGF" },
-          { "id": "mad2_fibrose", "nome": "Fibrose e Cirrose", "descricao": "Depósito de colágeno, fibroblastos ativados, miofibroblastos; fibrose hepática e pulmonar" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Distúrbios Circulatórios",
-        "temas": [
-          { "id": "mad2_trombose", "nome": "Trombose e Tríade de Virchow", "descricao": "Lesão endotelial, estase, hipercoagulabilidade; trombos arteriais e venosos; TVP" },
-          { "id": "mad2_embolia", "nome": "Embolia — Tipos e Consequências", "descricao": "TEP, embolia gordurosa, gasosa, por líquido amniótico; paradoxal; consequências hemodinâmicas" },
-          { "id": "mad2_infarto", "nome": "Infarto e Isquemia", "descricao": "Infarto branco e vermelho; órgãos acometidos; IAM — morfologia e evolução" },
-          { "id": "mad2_edema", "nome": "Edema e Choque", "descricao": "Causas do edema (?'pressão hidrostática, —oncótica, obstrução linfática); tipos de choque" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Neoplasias",
-        "temas": [
-          { "id": "mad2_benigno_maligno", "nome": "Tumores Benignos vs Malignos", "descricao": "Critérios de diferenciação, nomenclatura (carcinoma, sarcoma, linfoma, leucemia)" },
-          { "id": "mad2_carcinogenese", "nome": "Carcinogênese e Oncogenes", "descricao": "Mutações em proto-oncogenes e genes supressores, agentes carcinogênicos, fases da carcinogênese" },
-          { "id": "mad2_metastase", "nome": "Invasão e Metástase", "descricao": "Vias de disseminação (hematogênica, linfática, por contiguidade, cavitária); órgãos-alvo" }
-        ]
-      },
-      {
-        "nome": "Módulo 6 — Microbiologia e Parasitologia",
-        "temas": [
-          { "id": "mad2_bacterias", "nome": "Bacteriologia Geral", "descricao": "Estrutura bacteriana, Gram positivo/negativo, toxinas, mecanismos de patogenicidade; principais bactérias" },
-          { "id": "mad2_virus", "nome": "Virologia Geral", "descricao": "Classificação viral, ciclo replicativo, mecanismos de dano celular; vírus clinicamente relevantes" },
-          { "id": "mad2_fungos", "nome": "Micologia e Parasitologia Básica", "descricao": "Fungos patogênicos (Candida, Aspergillus, Cryptococcus); protozoários (Plasmodium, Trypanosoma, Leishmania)" }
-        ]
-      }
-    ]
-  },
-  "fisiopato3": {
-    "nome": "Fisiopatologia 3 — Sistema Digestivo e Endócrino",
-    "sigla": "FP3",
-    "modulo": 3, "ativo": true,
-    "icon": "🧠",
-    "cor": "#F97316",
-    "descricao": "Fisiopatologia do sistema gastrointestinal, hepático, pancreático e endócrino",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1 — Fisiologia Hepática e Biliar",
-        "temas": [
-          { "id": "fp3_funcao_hepatica", "nome": "Funções do Fígado", "descricao": "Metabolismo de bilirrubina, síntese de proteínas plasmáticas (albumina, fatores de coagulação), detoxificação" },
-          { "id": "fp3_metabolismo_bilirrubina", "nome": "Metabolismo da Bilirrubina e Icterícia", "descricao": "Bilirrubina indireta e direta; icterícia pré-hepática, hepática e pós-hepática; colestase" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Fisiopatologia do Trato Gastrointestinal",
-        "temas": [
-          { "id": "fp3_ulcera", "nome": "slcera Péptica e H. pylori", "descricao": "Desequilíbrio agressivos vs. defensivos, papel do H. pylori, AINEs; complicações (hemorragia, perfuração)" },
-          { "id": "fp3_diarreia", "nome": "Diarreia — Mecanismos e Tipos", "descricao": "Diarreia osmótica, secretora, exsudativa, motora; SRO; diarreia aguda infecciosa vs. crônica" },
-          { "id": "fp3_sindrome_ma", "nome": "Síndrome de Má-Absorção", "descricao": "Doença celíaca, insuficiência pancreática exócrina, giardíase; diagnóstico e manifestações" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Fisiologia Endócrina",
-        "temas": [
-          { "id": "fp3_hipofise", "nome": "Hipófise — Eixos Hormonais", "descricao": "Adenohipófise (GH, TSH, ACTH, FSH, LH, prolactina) e neurohipófise (ADH, ocitocina); retroalimentação" },
-          { "id": "fp3_tireoide", "nome": "Tireoide — Fisiologia e Fisiopatologia", "descricao": "Síntese de T3/T4, eixo TRH-TSH, hipotireoidismo, hipertireoidismo, tireoidite de Hashimoto, Graves" },
-          { "id": "fp3_suprarrenal", "nome": "Suprarrenal — Córtex e Medula", "descricao": "Glicocorticoides (cortisol), mineralocorticoides (aldosterona), androgênios adrenais; catecolaminas; Cushing, Addison" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Diabetes e Distúrbios Metabólicos",
-        "temas": [
-          { "id": "fp3_diabetes", "nome": "Diabetes Mellitus — Tipos e Fisiopatologia", "descricao": "DM1 (autoimune, deficiência absoluta de insulina), DM2 (resistência + disfunção de células β), MODY, DM gestacional" },
-          { "id": "fp3_dislipidemia", "nome": "Dislipidemia e Síndrome Metabólica", "descricao": "Classificação, aterogênese, síndrome metabólica (critérios NCEP, IDF); tratamento não farmacológico e farmacológico" },
-          { "id": "fp3_obesidade", "nome": "Obesidade — Fisiopatologia e Complicações", "descricao": "IMC, leptina, grelina, adiponectina; resistência à insulina; complicações cardiovasculares, hepáticas e articulares" }
-        ]
-      }
-    ]
-  },
-  "semiologia3": {
-    "nome": "Semiologia Médica 3 — Sistema Renal e Geniturinário",
-    "sigla": "SEMIO3",
-    "modulo": 3, "ativo": true,
-    "icon": "🩺",
-    "cor": "#C0392B",
-    "descricao": "Propedêutica do sistema urinário, geniturinário e abdome inferior",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1 — Semiologia Renal",
-        "temas": [
-          { "id": "semio3_edema", "nome": "Edema e Anasarca", "descricao": "Tipos de edema (cardiogênico, nefrótico, hepático, linfático), avaliação sinal de Cacifo, edema de localização" },
-          { "id": "semio3_diurese", "nome": "Alterações da Diurese", "descricao": "Oligúria, anúria, poliúria, noctúria, disúria, hematúria, proteinúria; análise do sumário de urina" },
-          { "id": "semio3_dor_lombar", "nome": "Dor Lombar e Cólica Nefrética", "descricao": "Sinal de Giordano (punho-percussão), cólica renal vs. dor musculoesquelética, irradiação" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Semiologia Urológica e Ginecológica",
-        "temas": [
-          { "id": "semio3_urologica", "nome": "Exame Urológico Masculino", "descricao": "Inspeção genital, palpação testicular, avaliação de próstata (toque retal); hidrocele, varicocele" },
-          { "id": "semio3_hematuria", "nome": "Hematúria — Investigação Diagnóstica", "descricao": "Hematúria macro/microscópica, causas (nefrolitíase, neoplasia, ITU, glomerulopatia), urocitologia" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Semiologia Abdominal Completa",
-        "temas": [
-          { "id": "semio3_abdome_baixo", "nome": "Semiologia do Abdome Inferior", "descricao": "Palpação de bexiga, sigmoide, reto; pontos dolorosos apendiculares (McBurney, Blumberg, Rovsing)" },
-          { "id": "semio3_mucosas", "nome": "Mucosas e Sinais Gerais", "descricao": "Cianose, icterícia, palidez, plétora; avaliação de mucosas oral, conjuntival e de leitos ungueais" }
+          {
+            "id": "t1",
+            "nome": "Ações Locais",
+            "descricao": "Trabalho na comunidade local"
+          }
         ]
       }
     ]
   },
   "bmf3": {
-    "nome": "Bases Morfofuncionais 3 — Sistema Renal e Geniturinário",
+    "nome": "Bases Morfofuncionais 3",
     "sigla": "BMF3",
-    "modulo": 3, "ativo": true,
+    "modulo": 3,
+    "ativo": true,
     "icon": "📍",
     "cor": "#3B82F6",
-    "descricao": "Anatomia, Histologia e Fisiologia dos rins, vias urinárias e órgãos genitais masculinos e femininos",
+    "descricao": "Anatomia e Embriologia dos Sistemas Digestório, Respiratório e Urogenital",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Anatomia Renal",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf3_anat_rim", "nome": "Anatomia dos Rins", "descricao": "Localização retroperitoneal, relações anatômicas, cápsula, córtex, medula, pirâmides, pelve renal" },
-          { "id": "bmf3_anat_vias_urinarias", "nome": "Anatomia das Vias Urinárias", "descricao": "Ureteres (trajeto, estenoses fisiológicas), bexiga, uretra masculina e feminina" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Histologia Renal",
-        "temas": [
-          { "id": "bmf3_hist_nefron", "nome": "Néfron — Estrutura e Segmentos", "descricao": "Corpúsculo renal, túbulo contornado proximal e distal, alça de Henle, ducto coletor" },
-          { "id": "bmf3_hist_glomerulo", "nome": "Histologia do Glomérulo", "descricao": "Células endoteliais, podócitos, células mesangiais, membrana basal glomerular; barreira de filtração" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Fisiologia Renal",
-        "temas": [
-          { "id": "bmf3_filtracao", "nome": "Filtração Glomerular (TFG)", "descricao": "Forças de Starling no glomérulo, TFG, clearance de creatinina, autoregulação renal" },
-          { "id": "bmf3_reabsorcao", "nome": "Reabsorção e Secreção Tubular", "descricao": "Reabsorção de Na+, Cl-, H2O, glicose (SGLT2), aminoácidos; secreção de K+, H+, compostos orgânicos" },
-          { "id": "bmf3_regulacao_acido_base", "nome": "Regulação Renal do Equilíbrio Ácido-Base", "descricao": "Excreção de H+, reabsorção de HCO3-, acidose e alcalose tubular renal" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Anatomia Geniturinária",
-        "temas": [
-          { "id": "bmf3_anat_genital_masc", "nome": "Sistema Genital Masculino", "descricao": "Testículos, epidídimo, ductos deferentes, vesículas seminais, próstata, glândulas bulbouretrais, pênis" },
-          { "id": "bmf3_anat_genital_fem", "nome": "Sistema Genital Feminino", "descricao": "Ovários, tubas uterinas, útero (fixação e ligamentos), vagina; assoalho pélvico; ciclo menstrual" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Biofísica Renal",
-        "temas": [
-          { "id": "bmf3_biofis_clearance", "nome": "Clearance Renal e Marcadores", "descricao": "Clearance de inulina (TFG ideal), creatinina (superestima), cistatina C; equações CKD-EPI e MDRD" },
-          { "id": "bmf3_biofis_pressao", "nome": "Pressão Oncótica e Osmolaridade", "descricao": "Osmolaridade plasmática e urinária, pressão oncótica da albumina, síndrome nefrótica vs. nefrítica" }
+          {
+            "id": "t1",
+            "nome": "Renal e Urogenital",
+            "descricao": "Anatomia Urogenital"
+          }
         ]
       }
     ]
   },
-  "saude_trabalhador": {
-    "nome": "Saúde do Trabalhador e Medicina do Trabalho",
-    "sigla": "ST",
-    "modulo": 3, "ativo": true,
-    "icon": "💼",
-    "cor": "#78716C",
-    "descricao": "Legislação trabalhista, doenças ocupacionais, vigilância em saúde do trabalhador e medicina preventiva no trabalho",
+  "mad2": {
+    "nome": "Mecanismos de Agressão e Defesa — Patologia e Inflamação",
+    "sigla": "MAD2",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "🛡️",
+    "cor": "#EF4444",
+    "descricao": "Patologia Geral, Inflamação Celular e Reparo Tecidual",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Legislação Trabalhista em Saúde",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "st_legislacao", "nome": "CLT e Normas Regulamentadoras", "descricao": "Conceitos de saúde e doença do trabalho, direitos do trabalhador, INSS, CAT (Comunicação de Acidente do Trabalho)" },
-          { "id": "st_nrs", "nome": "Principais NRs de Saúde", "descricao": "NR-7 (PCMSO), NR-9 (PPRA/PGR), NR-6 (EPIs), NR-15 (atividades insalubres), NR-16 (perigosas)" },
-          { "id": "st_cipa", "nome": "CIPA e Programas de Prevenção", "descricao": "Comissão Interna de Prevenção de Acidentes, SIPAT, mapa de risco, cultura de segurança" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Doenças Relacionadas ao Trabalho",
-        "temas": [
-          { "id": "st_doencas_osteomuscular", "nome": "LER/DORT e Doenças Osteomusculares", "descricao": "Lesões por esforço repetitivo, síndrome do túnel do carpo, tendinites, lombalgia ocupacional" },
-          { "id": "st_dermatoses", "nome": "Dermatoses Ocupacionais", "descricao": "Dermatite de contato alérgica e irritativa, acne, ulcerações; agentes de risco (químicos, biológicos)" },
-          { "id": "st_pneumoconioses", "nome": "Pneumoconioses e Doenças Respiratórias Ocupacionais", "descricao": "Silicose, asbestose, bissinose; DPOC e asma ocupacional; diagnóstico e afastamento" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Vigilância em Saúde do Trabalhador",
-        "temas": [
-          { "id": "st_vigilancia", "nome": "VISAT — Vigilância em Saúde do Trabalhador", "descricao": "Papel do médico do trabalho, inspeção de ambientes laborais, RENAST, CEREST" },
-          { "id": "st_ppra_pcmso", "nome": "PCMSO e PGR na Prática", "descricao": "Exame admissional, periódico, demissional, de retorno; ASO; gestão de riscos ocupacionais (GRO)" }
+          {
+            "id": "t1",
+            "nome": "Patologia Geral",
+            "descricao": "Lesões e inflamação"
+          }
         ]
       }
     ]
   },
-  "semiologia4": {
-    "nome": "Semiologia Médica 4 — Sistema Neuroendócrino",
-    "sigla": "SEMIO4",
-    "modulo": 4, "ativo": true,
+  "fp3": {
+    "nome": "Processos Fisiopatológicos e Farmacoterapêuticos",
+    "sigla": "FP3",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "🧠",
+    "cor": "#F97316",
+    "descricao": "Integração entre Fisiopatologia e Farmacoterapia",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
+      {
+        "nome": "Módulo 1",
+        "temas": [
+          {
+            "id": "t1",
+            "nome": "Fisiopatologia",
+            "descricao": "Fisiopatologia e medicamentos"
+          }
+        ]
+      }
+    ]
+  },
+  "semio3": {
+    "nome": "Semiologia dos Aparelhos Renal e Reprodutor",
+    "sigla": "SEMIO3",
+    "modulo": 3,
+    "ativo": true,
     "icon": "🩺",
     "cor": "#C0392B",
-    "descricao": "Propedêutica neurológica, psiquiátrica e endócrina: exame neurológico completo e semiologia do sistema endócrino",
+    "descricao": "Exame Físico Urológico, Nefrológico e do Aparelho Reprodutor",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Exame Neurológico",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "semio4_consciencia", "nome": "Nível de Consciência e Cognição", "descricao": "Escala de Coma de Glasgow, Mini-Mental (MEEM), orientação, memória, atenção, linguagem" },
-          { "id": "semio4_motricidade", "nome": "Semiologia Motora", "descricao": "Força (MRC), tônus, coordenação (disdiadococinesia, prova índex-nariz), marcha; NMS vs. NMI" },
-          { "id": "semio4_sensibilidade", "nome": "Semiologia Sensitiva", "descricao": "Sensibilidade superficial (tato, dor, temperatura) e profunda (vibração, propriocepção); dermátomos" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Semiologia Neurológica Específica",
-        "temas": [
-          { "id": "semio4_nervos_cranianos", "nome": "Pares Cranianos — Exame e Lesões", "descricao": "I a XII: olfato, acuidade visual, movimentos oculares, sensibilidade facial, audição, deglutição" },
-          { "id": "semio4_cerebelo", "nome": "Semiologia Cerebelar", "descricao": "Ataxia, dismetria, disdiadococinesia, tremor de intenção, nistagmo; sinal de Romberg" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Semiologia Endócrina",
-        "temas": [
-          { "id": "semio4_tireoide_semio", "nome": "Exame da Tireoide", "descricao": "Inspeção e palpação (bócio, nódulos), classificação de bócio (OMS), sinal de Pemberton" },
-          { "id": "semio4_suprarrenal_semio", "nome": "Sinais de Disfunção Endócrina", "descricao": "Fácies de Cushing, sinal de Trosseau/Chvostek (hipocalcemia), gigantismo, acromegalia" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Semiologia Psiquiátrica Básica",
-        "temas": [
-          { "id": "semio4_estado_mental", "nome": "Exame do Estado Mental", "descricao": "Aparência, comportamento, afeto, humor, pensamento, percepção, memória, juízo crítico" },
-          { "id": "semio4_psicopatologia", "nome": "Psicopatologia Geral", "descricao": "Alucinações, ilusões, delírios, dissociação, compulsões, obsessões; categorias diagnósticas do DSM-5" }
+          {
+            "id": "t1",
+            "nome": "Semio Renal",
+            "descricao": "Sinais e sintomas nefrológicos"
+          }
         ]
       }
     ]
   },
-  "fisiopato_farmaco": {
-    "nome": "Fisiopatologia e Farmacologia Integrada",
-    "sigla": "FF",
-    "modulo": 4, "ativo": true,
+  "ff4": {
+    "nome": "Processos Fisiopatológicos e Farmacoterapêuticos — Sistemas Neurossensorial e Endócrino",
+    "sigla": "PFF",
+    "modulo": 4,
+    "ativo": true,
     "icon": "💊",
     "cor": "#7C3AED",
-    "descricao": "Integração entre fisiopatologia e farmacoterapia — farmacocinética, farmacodinâmica e farmacologia dos principais sistemas",
+    "descricao": "Fisiopatologia e Farmacoterapia do Sistema Nervoso e Endócrino",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Farmacocinética",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "ff_absorcao", "nome": "Absorção e Biodisponibilidade", "descricao": "Vias de administração, fatores que afetam absorção, biodisponibilidade absoluta e relativa, efeito de primeira passagem" },
-          { "id": "ff_distribuicao", "nome": "Distribuição e Volume de Distribuição", "descricao": "Ligação a proteínas plasmáticas, barreiras (hematoencefálica, placentária), Vd e seu significado clínico" },
-          { "id": "ff_metabolismo", "nome": "Metabolismo Hepático — CYP450", "descricao": "Reações de fase I e II, principais isoenzimas (CYP3A4, CYP2D6, CYP2C9), indução e inibição enzimática" },
-          { "id": "ff_excreccao", "nome": "Excreção e Meia-Vida", "descricao": "Clearance renal e hepático, meia-vida de eliminação, estado estacionário, acúmulo em insuficiências" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Farmacodinâmica",
-        "temas": [
-          { "id": "ff_receptores", "nome": "Receptores Farmacológicos e Transdução", "descricao": "GPCRs, canais iônicos, receptores enzimáticos, nucleares; segundos mensageiros (AMPc, IP3, Ca2+)" },
-          { "id": "ff_agonistas", "nome": "Agonistas e Curvas Dose-Resposta", "descricao": "Potência (EC50), eficácia (Emax), agonistas totais, parciais e inversos; índice terapêutico" },
-          { "id": "ff_antagonistas", "nome": "Antagonistas e Modulação de Receptores", "descricao": "Antagonismo competitivo e não competitivo, tolerância, dependência, regulação para cima e para baixo" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Farmacologia Cardiovascular",
-        "temas": [
-          { "id": "ff_anti_hipertensivos", "nome": "Anti-Hipertensivos", "descricao": "IECA, BRA, bloqueadores de Ca2+, betabloqueadores, diuréticos tiazídicos; JNC 8 e SBC 2020" },
-          { "id": "ff_antiarritmicos", "nome": "Antiarrítmicos e Inotrópicos", "descricao": "Classificação de Vaughan Williams, digoxina, amiodarona, lidocaína; indicações e toxicidade" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Farmacologia do SNC",
-        "temas": [
-          { "id": "ff_ansiolíticos", "nome": "Ansiolíticos e Hipnóticos", "descricao": "Benzodiazepínicos, buspirona, zolpidem; mecanismo GABAérgico, tolerância, dependência" },
-          { "id": "ff_antidepressivos", "nome": "Antidepressivos e Antipsicóticos", "descricao": "ISRSs, SNRIs, tricíclicos, MAOIs; antipsicóticos típicos e atípicos (mecanismos, efeitos adversos)" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Antibióticos e Antimicrobianos",
-        "temas": [
-          { "id": "ff_betalactamicos", "nome": "Beta-lactâmicos", "descricao": "Penicilinas, cefalosporinas (gerações), carbapenens, monobactâmicos; mecanismo e resistência (PBPs, beta-lactamases)" },
-          { "id": "ff_macrolideos", "nome": "Macrolídeos, Tetraciclinas e Cloranfenicol", "descricao": "Mecanismo de inibição da síntese proteica (50S e 30S), espectro, toxicidade" },
-          { "id": "ff_quinolonas", "nome": "Quinolonas, Sulfonamidas e Metronidazol", "descricao": "Fluoroquinolonas (inibição DNA girase), sulfonamidas (inibição do ácido fólico), metronidazol (anaeróbios)" }
+          {
+            "id": "t1",
+            "nome": "Neurofarmacologia",
+            "descricao": "Endocrinologia e SNC"
+          }
         ]
       }
     ]
   },
-  "bioestatistica": {
-    "nome": "Bioestatística e Informática em Saúde",
-    "sigla": "BIOE",
-    "modulo": 4, "ativo": true,
-    "icon": "📈",
-    "cor": "#0EA5E9",
-    "descricao": "Estatística aplicada à medicina, raciocínio clínico baseado em evidências e informática em saúde",
+  "pe4": {
+    "nome": "Projeto Extensionista: Impacto dos Estudos Epidemiológicos na Saúde da Comunidade",
+    "sigla": "PE4",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "🤝",
+    "cor": "#10B981",
+    "descricao": "Epidemiologia aplicada e impacto na saúde da comunidade",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Estatística Descritiva",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bio_media_mediana", "nome": "Medidas de Tendência Central e Dispersão", "descricao": "Média, mediana, moda; desvio padrão, variância, coeficiente de variação; distribuição normal" },
-          { "id": "bio_graficos", "nome": "Representação Gráfica de Dados", "descricao": "Histograma, boxplot, diagrama de dispersão, gráfico de barras; interpretação e boas práticas" }
+          {
+            "id": "t1",
+            "nome": "Impacto Epidemiológico",
+            "descricao": "Ação em saúde pública"
+          }
         ]
-      },
+      }
+    ]
+  },
+  "bioe": {
+    "nome": "Bioestatística e Estudos em Saúde",
+    "sigla": "BIOE",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "📈",
+    "cor": "#0EA5E9",
+    "descricao": "Métodos estatísticos na evidência médica e estudos clínicos",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "modulos": [
       {
-        "nome": "Módulo 2 — Testes de Hipótese",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bio_qui_quadrado", "nome": "Qui-Quadrado e Fisher", "descricao": "Tabela 2-2, hipótese nula e alternativa, valor de p, erro tipo I (α) e tipo II (β); poder do teste" },
-          { "id": "bio_t_student", "nome": "Teste t de Student e ANOVA", "descricao": "t para amostras independentes e pareadas; ANOVA one-way; pressupostos paramétricos" },
-          { "id": "bio_mann_whitney", "nome": "Testes Não Paramétricos", "descricao": "Mann-Whitney, Wilcoxon, Kruskal-Wallis; quando usar testes não paramétricos; correlação de Spearman" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Raciocínio Clínico Diagnóstico",
-        "temas": [
-          { "id": "bio_sensibilidade", "nome": "Sensibilidade e Especificidade", "descricao": "Definições, cálculo a partir de tabela 2-2, ponto de corte, curva ROC, área sob a curva" },
-          { "id": "bio_especificidade", "nome": "Valores Preditivos e Probabilidade Pós-Teste", "descricao": "VPP e VPN (dependem da prevalência), razão de verossimilhança (LR+, LR-), nomograma de Fagan" },
-          { "id": "bio_vpp_vpn", "nome": "Teorema de Bayes na Prática Clínica", "descricao": "Probabilidade pré-teste, probabilidade pós-teste, sequência de testes diagnósticos" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Medicina Baseada em Evidências",
-        "temas": [
-          { "id": "bio_mbe_niveis", "nome": "Níveis de Evidência e Pirâmide Científica", "descricao": "Revisão sistemática, metanálise, ECR, estudos observacionais, série de casos; graus de recomendação" },
-          { "id": "bio_rr_or", "nome": "Medidas de Associação e Impacto", "descricao": "Risco relativo (RR), odds ratio (OR), redução absoluta de risco (RAR), NNT, NNH" },
-          { "id": "bio_nnt", "nome": "Aplicação Clínica do NNT e Análise Crítica", "descricao": "Number needed to treat, leitura crítica de artigos, CONSORT e STROBE, conflitos de interesse" }
+          {
+            "id": "t1",
+            "nome": "Bioestatística",
+            "descricao": "Estatísticas em saúde"
+          }
         ]
       }
     ]
   },
   "bmf4": {
-    "nome": "Bases Morfofuncionais 4 — Sistema Neuroendócrino",
+    "nome": "Bases Morfofuncionais 4",
     "sigla": "BMF4",
-    "modulo": 4, "ativo": true,
-    "icon": "🧬",
-    "cor": "#A855F7",
-    "descricao": "Neuroanatomia, histologia do SNC, neurofisiologia e anatomia do sistema endócrino",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "🧠",
+    "cor": "#D946EF",
+    "descricao": "Neuroanatomia e Neurofisiologia do Sistema Nervoso Central",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
       {
-        "nome": "Módulo 1 — Neuroanatomia",
+        "nome": "Módulo 1",
         "temas": [
-          { "id": "bmf4_encefalo", "nome": "Encéfalo — Estrutura Macroscópica", "descricao": "Cérebro (lobos, sulcos, giros), cerebelo (córtex, vermis, hemisférios), tronco encefálico (mesencéfalo, ponte, bulbo)" },
-          { "id": "bmf4_medula", "nome": "Medula Espinal e Tratos", "descricao": "Substâncias cinzenta e branca, corpos neurais, tratos ascendentes (espinotalâmico, colunas dorsais) e descendentes (corticoespinal)" },
-          { "id": "bmf4_nervos_perifericos", "nome": "Nervos Periféricos e Sistema Nervoso Autônomo", "descricao": "SNS e SNPS — anatomia, mediadores; plexos (braquial, lombar, sacral); dermátomos e miótomos" }
-        ]
-      },
-      {
-        "nome": "Módulo 2 — Histologia do SNC",
-        "temas": [
-          { "id": "bmf4_neuronios", "nome": "Neurônios — Estrutura e Classificação", "descricao": "Dendritos, axônio, cone de implantação, terminal sináptico; classificação morfológica e funcional" },
-          { "id": "bmf4_glia", "nome": "Células Gliais", "descricao": "Astrócitos, oligodendrócitos, micróglia, células ependimárias; barreira hematoencefálica" },
-          { "id": "bmf4_sinapses", "nome": "Sinapses e Transmissão Sináptica", "descricao": "Sinapse química e elétrica; vesículas sinápticas, neurotransmissores (Ach, dopamina, serotonina, GABA, glutamato)" }
-        ]
-      },
-      {
-        "nome": "Módulo 3 — Neurofisiologia",
-        "temas": [
-          { "id": "bmf4_pot_acao", "nome": "Potencial de Ação e Propagação", "descricao": "Canal de Na+ voltagem-dependente, despolarização, repolarização, hiperpolarização; condução saltatória" },
-          { "id": "bmf4_transmissao_sinaptica", "nome": "Potenciais Pós-Sinápticos e Integração Neural", "descricao": "PPSE e PPSI, somação temporal e espacial, convergência e divergência, plasticidade sináptica, LTP" },
-          { "id": "bmf4_reflexos", "nome": "Arcos Reflexos e Controle Motor", "descricao": "Arco reflexo monossináptico (miotático), gânglios da base, cerebelo; movimento voluntário e involuntário" }
-        ]
-      },
-      {
-        "nome": "Módulo 4 — Anatomia do Sistema Endócrino",
-        "temas": [
-          { "id": "bmf4_hipofise_anat", "nome": "Hipófise e Hipotálamo", "descricao": "Localização, estrutura (adenohipófise, neurohipófise), eixos hipotalâmico-hipofisários, sela túrcica" },
-          { "id": "bmf4_tireoide_anat", "nome": "Tireoide e Paratireoides", "descricao": "Anatomia, relações com estruturas do pescoço, lobos e istmo; localização das paratireoides" },
-          { "id": "bmf4_suprarrenal_anat", "nome": "Suprarrenal, Pâncreas Endócrino e Gônadas", "descricao": "Glândulas suprarrenais (córtex e medula), ilhotas de Langerhans, ovários e testículos — anatomia" }
-        ]
-      },
-      {
-        "nome": "Módulo 5 — Biofísica Neural",
-        "temas": [
-          { "id": "bmf4_biofis_membrana", "nome": "Potencial de Membrana em Repouso", "descricao": "Equação de Nernst e Goldman-Hodgkin-Katz, permeabilidade seletiva, bomba Na+/K+-ATPase" },
-          { "id": "bmf4_canal_ionico", "nome": "Canais Iônicos e Farmacologia", "descricao": "Canais voltagem-dependentes (Na+, K+, Ca2+) e ligante-dependentes; bloqueadores (anestésicos locais, bloqueadores de Ca2+)" }
+          {
+            "id": "t1",
+            "nome": "SNC",
+            "descricao": "Placa neural, trato nervoso, encéfalo"
+          }
         ]
       }
     ]
   },
-  "clinica_medica5": {
-    "nome": "Clínica Médica 5",
-    "sigla": "CM5",
-    "modulo": 5, "ativo": false,
-    "icon": "🗓️",
-    "cor": "#1D4ED8",
-    "descricao": "Cardiologia, Pneumologia, Gastroenterologia e Endocrinologia clínicas",
+  "semio4": {
+    "nome": "Semiologia Neurológica e de Síndromes Clínicas",
+    "sigla": "SEMIO4",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "🩺",
+    "cor": "#C0392B",
+    "descricao": "Exame Neurológico e Identificação de Síndromes Clínicas",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
     "modulos": [
-      { "nome": "Cardiologia Clínica", "temas": [
-        { "id": "cm5_hipertensao", "nome": "Hipertensão Arterial Sistêmica", "descricao": "Diagnóstico, estratificação de risco, metas terapêuticas, tratamento farmacológico e não farmacológico" },
-        { "id": "cm5_iam", "nome": "Síndrome Coronariana Aguda", "descricao": "IAM com e sem supradesnivelamento de ST, angina instável, terapias de reperfusão, anticoagulação" }
-      ]},
-      { "nome": "Pneumologia", "temas": [
-        { "id": "cm5_dpoc", "nome": "DPOC e Asma Brônquica", "descricao": "Diagnóstico espirométrico, GOLD e GINA, tratamento inalatório, exacerbações" },
-        { "id": "cm5_pneumonia", "nome": "Pneumonias e Derrame Pleural", "descricao": "PAC vs. PAH, PSI/CURB-65, antibioticoterapia, toracocentese diagnóstica e terapêutica" }
-      ]},
-      { "nome": "Gastroenterologia", "temas": [
-        { "id": "cm5_hepatites", "nome": "Hepatites Virais", "descricao": "Hepatites A, B, C, D, E — sorologias, história natural, tratamento antiviral, prevenção" },
-        { "id": "cm5_cirrose", "nome": "Cirrose e suas Complicações", "descricao": "Ascite (PBE), hemorragia digestiva varicosa, síndrome hepatorrenal, encefalopatia hepática" }
-      ]},
-      { "nome": "Endocrinologia Clínica", "temas": [
-        { "id": "cm5_dm_clinica", "nome": "Diabetes Mellitus na Prática Clínica", "descricao": "Diagnóstico, tratamento (insulinas, antidiabéticos orais), complicações agudas (CAD, EHH)" },
-        { "id": "cm5_tireoide_clinica", "nome": "Doenças da Tireoide na Prática", "descricao": "Hipo e hipertireoidismo, nódulos, câncer de tireoide; TSH, T3, T4, anticorpos" }
-      ]}
-    ]
-  },
-  "clinica_cirurgica5": {
-    "nome": "Clínica Cirúrgica 5",
-    "sigla": "CC5",
-    "modulo": 5, "ativo": false,
-    "icon": "🔪",
-    "cor": "#1E3A5F",
-    "descricao": "Fundamentos da cirurgia, semiologia cirúrgica, abdome agudo e trauma",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Semiologia Cirúrgica", "temas": [
-        { "id": "cc5_semio_cirurgica", "nome": "Avaliação Pré-Operatória", "descricao": "ASA, risco cirúrgico, exames pré-operatórios, jejum, profilaxia antibiótica e tromboembólica" }
-      ]},
-      { "nome": "Abdome Agudo", "temas": [
-        { "id": "cc5_apendicite", "nome": "Apendicite Aguda", "descricao": "Diagnóstico clínico e por imagem, escore de Alvarado, tratamento cirúrgico, complicações" },
-        { "id": "cc5_abdome_agudo", "nome": "Abdome Agudo Obstrutivo e Perfurativo", "descricao": "Obstrução intestinal, volvo, íleo paralítico, úlcera perfurada; indicações de laparotomia de urgência" }
-      ]},
-      { "nome": "Trauma Cirúrgico", "temas": [
-        { "id": "cc5_atls", "nome": "ATLS — Avaliação e Reanimação do Traumatizado", "descricao": "Primary e secondary survey, ABCDE do trauma, controle de hemorragia, choque hemorrágico" }
-      ]}
-    ]
-  },
-  "farmaco_aplicada": {
-    "nome": "Farmacologia Aplicada",
-    "sigla": "FARM",
-    "modulo": 5, "ativo": false,
-    "icon": "💊",
-    "cor": "#9333EA",
-    "descricao": "Farmacologia clínica aplicada aos principais sistemas — cardiovascular, SNC, anti-infecciosos e especiais",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Farmacologia Cardiovascular Avançada", "temas": [
-        { "id": "farm_cardio", "nome": "Antianginosos, Estatinas e Anticoagulantes", "descricao": "Nitratos, estatinas (mecanismo e indicações), anticoagulantes (heparinas, warfarina, NOACs), antiplaquetários" }
-      ]},
-      { "nome": "Farmacologia do SNC Aplicada", "temas": [
-        { "id": "farm_snc", "nome": "Anticonvulsivantes, Antiparkinsonianos e Analgésicos", "descricao": "Fenitoína, valproato, levodopa, dopaminérgicos, opióides (morfina, tramadol), AINEs e paracetamol" }
-      ]},
-      { "nome": "Antibioticoterapia Clínica", "temas": [
-        { "id": "farm_antibioticos", "nome": "Escolha e Uso Racional de Antimicrobianos", "descricao": "Terapia empírica vs. dirigida, culturas e antibiograma, resistência bacteriana, stewardship" }
-      ]}
-    ]
-  },
-  "mfc5": {
-    "nome": "Medicina de Família e Comunidade 5",
-    "sigla": "MFC5",
-    "modulo": 5, "ativo": false,
-    "icon": "🏠",
-    "cor": "#16A34A",
-    "descricao": "Atenção primária avançada, gestão de doenças crônicas e saúde da família",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Atenção Primária Avançada", "temas": [
-        { "id": "mfc5_aps", "nome": "Princípios Avançados da APS", "descricao": "Longitudinalidade, coordenação do cuidado, integralidade, abordagem familiar, prontuário familiar" }
-      ]},
-      { "nome": "Doenças Crônicas na APS", "temas": [
-        { "id": "mfc5_cronicas", "nome": "Manejo de HAS, DM e Dislipidemia na APS", "descricao": "Protocolos da APS, estratificação de risco, plano de cuidados, adesão ao tratamento" }
-      ]}
-    ]
-  },
-  "clinica_medica6": {
-    "nome": "Clínica Médica 6",
-    "sigla": "CM6",
-    "modulo": 6, "ativo": false,
-    "icon": "❤️",
-    "cor": "#1E40AF",
-    "descricao": "Reumatologia, Nefrologia, Hematologia e Infectologia clínicas",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Reumatologia", "temas": [
-        { "id": "cm6_lupe", "nome": "Lúpus, AR e Espondiloartropatias", "descricao": "Critérios diagnósticos, biomarcadores, tratamento imunossupressor" }
-      ]},
-      { "nome": "Nefrologia Clínica", "temas": [
-        { "id": "cm6_ira", "nome": "Injúria Renal Aguda e DRC", "descricao": "Critérios KDIGO, causas (pré-renal, renal, pós-renal), diálise: indicações e modalidades" }
-      ]},
-      { "nome": "Hematologia e Infectologia", "temas": [
-        { "id": "cm6_anemias", "nome": "Anemias — Abordagem Prática", "descricao": "Ferropriva, megaloblástica, hemolítica, doença falciforme; exames complementares, tratamento" },
-        { "id": "cm6_hiv", "nome": "HIV/AIDS e Infecções Oportunistas", "descricao": "Diagnóstico, CD4/carga viral, TARV, profilaxias primária e secundária, infecções oportunistas comuns" }
-      ]}
-    ]
-  },
-  "mfc6": {
-    "nome": "Medicina de Família e Comunidade 6",
-    "sigla": "MFC6",
-    "modulo": 6, "ativo": false,
-    "icon": "🌐",
-    "cor": "#15803D",
-    "descricao": "Saúde da mulher, saúde do idoso e programas de saúde na atenção primária",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Saúde da Mulher na APS", "temas": [
-        { "id": "mfc6_mulher", "nome": "Saúde da Mulher e Pré-Natal na APS", "descricao": "Rastreamento de câncer de colo e mama, contracepção, pré-natal de baixo risco, climatério" }
-      ]},
-      { "nome": "Saúde do Idoso", "temas": [
-        { "id": "mfc6_idoso", "nome": "Avaliação Geriátrica Ampla", "descricao": "Síndromes geriátricas (quedas, demência, incontinência, polifarmácia), escalas (Katz, Lawton, Barthel)" }
-      ]}
-    ]
-  },
-  "cirurgia_ortopedia": {
-    "nome": "Ortopedia e Traumatologia",
-    "sigla": "ORTO",
-    "modulo": 6, "ativo": false,
-    "icon": "🦴",
-    "cor": "#92400E",
-    "descricao": "Fraturas, luxações, ortopedia pediátrica, artroplastias e lesões musculoesqueléticas",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Fraturas e Luxações", "temas": [
-        { "id": "orto_fraturas", "nome": "Princípios de Tratamento de Fraturas", "descricao": "Classificação, imobilização, cirurgia (fixação interna e externa), complicações (síndrome compartimental, embolia gordurosa)" }
-      ]},
-      { "nome": "Ortopedia Pediátrica e Adulto", "temas": [
-        { "id": "orto_pediatrica", "nome": "Ortopedia Pediátrica — Principais Afecções", "descricao": "Displasia do desenvolvimento do quadril, pé torto congênito, doença de Legg-Calvé-Perthes, escoliose" },
-        { "id": "orto_artroplastia", "nome": "Artroplastia e Doenças Degenerativas", "descricao": "Osteoartrose (joelho, quadril), indicações de prótese, cuidados pré e pós-operatórios" }
-      ]}
-    ]
-  },
-  "tecnica_operatoria": {
-    "nome": "Técnica Operatória e Cirurgia Experimental",
-    "sigla": "TO",
-    "modulo": 6, "ativo": false,
-    "icon": "🏥",
-    "cor": "#374151",
-    "descricao": "Fundamentos da técnica cirúrgica, assepsia, suturas e cirurgia experimental em laboratório",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Fundamentos Cirúrgicos", "temas": [
-        { "id": "to_fundamentos", "nome": "Cicatrização e Fatores que a Influenciam", "descricao": "Fases da cicatrização, fatores sistêmicos (desnutrição, DM, imunossupressão) e locais (infecção, isquemia)" }
-      ]},
-      { "nome": "Técnicas Operatórias", "temas": [
-        { "id": "to_assepsia", "nome": "Assepsia, Antissepsia e Degermação", "descricao": "Campos estéreis, lavagem cirúrgica das mãos, degermantes (PVPI, clorexidina), esterilização de materiais" },
-        { "id": "to_suturas", "nome": "Instrumentos Cirúrgicos e Suturas", "descricao": "Bisturis, pinças, porta-agulhas; fios (absorvíveis e não absorvíveis), pontos simples, contínuos, intradérmicos" }
-      ]}
-    ]
-  },
-  "mfc7": {
-    "nome": "Medicina de Família e Comunidade 7",
-    "sigla": "MFC7",
-    "modulo": 7, "ativo": false,
-    "icon": "👨‍⚕️",
-    "cor": "#166534",
-    "descricao": "Saúde mental na APS, cuidados paliativos e geriatria",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Saúde Mental na APS", "temas": [
-        { "id": "mfc7_saude_mental_aps", "nome": "Depressão, Ansiedade e Abuso de Substâncias na APS", "descricao": "Rastreamento (PHQ-9, GAD-7), encaminhamento, CAPS, rede de saúde mental" }
-      ]},
-      { "nome": "Cuidados Paliativos e Geriatria", "temas": [
-        { "id": "mfc7_paliativo", "nome": "Cuidados Paliativos — Princípios e Prática", "descricao": "OMS e cuidados paliativos, controle de dor (escada analgésica), comunicação de más notícias (SPIKES)" }
-      ]}
-    ]
-  },
-  "pediatria": {
-    "nome": "Pediatria",
-    "sigla": "PED",
-    "modulo": 7, "ativo": false,
-    "icon": "👶",
-    "cor": "#F59E0B",
-    "descricao": "Neonatologia, crescimento e desenvolvimento, doenças infecciosas pediátricas e pediatria geral",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Neonatologia", "temas": [
-        { "id": "ped_neonatologia", "nome": "Recém-nascido Normal e Patológico", "descricao": "Apgar, reanimação neonatal, icterícia fisiológica e patológica, triagem neonatal (teste do pezinho, olhinho)" }
-      ]},
-      { "nome": "Crescimento e Desenvolvimento", "temas": [
-        { "id": "ped_crescimento", "nome": "Marcos do Desenvolvimento Neuropsicomotor", "descricao": "Desenvolvimento motor, linguagem, social; curvas de crescimento (OMS), desnutrição e obesidade infantil" }
-      ]},
-      { "nome": "Doenças Infecciosas Pediátricas", "temas": [
-        { "id": "ped_infeccoes", "nome": "Infecções Respiratórias e Exantematosas", "descricao": "IVAS, laringite, bronquiolite, pneumonia pediátrica; sarampo, varicela, rubéola, escarlatina, dengue" }
-      ]}
-    ]
-  },
-  "go": {
-    "nome": "Ginecologia e Obstetrícia",
-    "sigla": "GO",
-    "modulo": 7, "ativo": false,
-    "icon": "🤰",
-    "cor": "#EC4899",
-    "descricao": "Ginecologia geral, obstetrícia normal e de alto risco, planejamento familiar e saúde reprodutiva",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Ginecologia Geral", "temas": [
-        { "id": "go_ginecologia", "nome": "Rastreamento e Doenças Ginecológicas", "descricao": "Colpocitologia (Papanicolaou), vulvovaginites, mioma uterino, endometriose, SOP, câncer de colo e endométrio" }
-      ]},
-      { "nome": "Obstetrícia Normal", "temas": [
-        { "id": "go_prenatal", "nome": "Pré-Natal e Parto Normal", "descricao": "Diagnóstico de gestação, consultas de pré-natal, sorologias, USG obstétrico, plano de parto, mecanismo do parto" }
-      ]},
-      { "nome": "Obstetrícia de Alto Risco", "temas": [
-        { "id": "go_alto_risco", "nome": "Síndromes Hipertensivas e Hemorragias", "descricao": "Pré-eclâmpsia, eclâmpsia, HELLP; placenta prévia, DPP, hemorragia pós-parto; manejo multidisciplinar" }
-      ]}
-    ]
-  },
-  "emerg_cirurgicas": {
-    "nome": "Urgências e Emergências Cirúrgicas",
-    "sigla": "ECG",
-    "modulo": 8, "ativo": false,
-    "icon": "⚡",
-    "cor": "#DC2626",
-    "descricao": "Trauma multissistêmico, abdome agudo cirúrgico, queimaduras e emergências vasculares",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Trauma Multissistêmico", "temas": [
-        { "id": "ecg_trauma", "nome": "ATLS Avançado — Trauma Torácico e Abdominal", "descricao": "Pneumotórax hipertensivo, hemotórax, tamponamento cardíaco, FAST, laparotomia de controle de danos" }
-      ]},
-      { "nome": "Emergências Abdominais e Vasculares", "temas": [
-        { "id": "ecg_abdome", "nome": "Abdome Agudo Cirúrgico — Manejo", "descricao": "Diagnóstico diferencial no pronto-socorro, exames de imagem (USG, TC), indicações de cirurgia de urgência" },
-        { "id": "ecg_vascular", "nome": "Emergências Vasculares", "descricao": "Isquemia aguda de membros, aneurisma de aorta roto, síndrome compartimental; tratamento endovascular" }
-      ]}
-    ]
-  },
-  "saude_mental": {
-    "nome": "Saúde Mental e Psiquiatria",
-    "sigla": "PSI",
-    "modulo": 8, "ativo": false,
-    "icon": "🧠",
-    "cor": "#7C3AED",
-    "descricao": "Psiquiatria clínica, transtornos mentais, dependência química e urgências psiquiátricas",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Transtornos do Humor e Ansiedade", "temas": [
-        { "id": "psi_depressao", "nome": "Depressão, Transtorno Bipolar e Ansiedade", "descricao": "Critérios DSM-5, farmacoterapia (ISRSs, estabilizadores do humor), psicoterapia (TCC), internação" }
-      ]},
-      { "nome": "Psicoses e Dependência Química", "temas": [
-        { "id": "psi_psicose", "nome": "Esquizofrenia e Psicoses", "descricao": "Sintomas positivos e negativos, antipsicóticos típicos e atípicos, RAPS, reabilitação psicossocial" },
-        { "id": "psi_drogas", "nome": "Dependência Química e Redução de Danos", "descricao": "Álcool (síndrome de abstinência, delirium tremens), crack, opiáceos; CAPS AD, redução de danos" }
-      ]}
-    ]
-  },
-  "emerg_clinicas": {
-    "nome": "Urgências e Emergências Clínicas",
-    "sigla": "ECL",
-    "modulo": 8, "ativo": false,
-    "icon": "🚨",
-    "cor": "#EF4444",
-    "descricao": "PCR, choque, emergências neurológicas, metabólicas e intoxicações exógenas",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Parada Cardiorrespiratória", "temas": [
-        { "id": "ecl_pcr", "nome": "RCP e Suporte Avançado de Vida", "descricao": "ACLS — ritmos chocáveis e não chocáveis, compressões, desfibrilação, drogas (adrenalina, amiodarona), cuidados pós-PCR" }
-      ]},
-      { "nome": "Choque e Emergências Neurológicas", "temas": [
-        { "id": "ecl_choque", "nome": "Tipos de Choque e Ressuscitação", "descricao": "Hipovolêmico, distributivo (séptico, anafilático), cardiogênico, obstrutivo; fluidos, vasopressores" },
-        { "id": "ecl_neuro", "nome": "AVC e Emergências Neurológicas", "descricao": "AVC isquêmico (trombólise, janela terapêutica), AVC hemorrágico, crises epilépticas, hipertensão intracraniana" }
-      ]},
-      { "nome": "Intoxicações Exógenas", "temas": [
-        { "id": "ecl_intoxicacao", "nome": "Intoxicações — Diagnóstico e Tratamento", "descricao": "Organofosforados (atropina, pralidoxima), benzodiazepínicos (flumazenil), paracetamol (N-acetilcisteína), carvão ativado" }
-      ]}
-    ]
-  },
-  "mfc8": {
-    "nome": "Medicina de Família e Comunidade 8",
-    "sigla": "MFC8",
-    "modulo": 8, "ativo": false,
-    "icon": "🎓",
-    "cor": "#047857",
-    "descricao": "Internato em APS, gestão em saúde e medicina comunitária avançada",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      { "nome": "Internato em APS e Gestão", "temas": [
-        { "id": "mfc8_gestao", "nome": "Gestão em Saúde e Planejamento", "descricao": "Territorialização, diagnóstico de saúde local, programação de saúde, indicadores de desempenho da APS" },
-        { "id": "mfc8_comunidade", "nome": "Medicina Comunitária Avançada", "descricao": "Educação em saúde, grupos de promoção da saúde, trabalho multiprofissional, matriciamento" }
-      ]}
+      {
+        "nome": "Módulo 1",
+        "temas": [
+          {
+            "id": "t1",
+            "nome": "Exame Neuro",
+            "descricao": "Síndromes e achados clínicos"
+          }
+        ]
+      }
     ]
   }
 }
-
