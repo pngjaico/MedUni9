@@ -1,0 +1,3 @@
+@echo off
+cd /d "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app"
+"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute rigorosamente o workflow descrito no arquivo '.agents/workflows/ingestao_diaria.md'. Vasculhe a pasta conteudos/_para_categorizar/. Renomeie PDFs com nomes estranhos se baseando em seu texto inicial e guarde em suas devidas particoes de materiais. Rode o script BMF caso sinta necessidade. Ao finalizar, escreva o relatorio em data/agent_logs/status_ingestao.json e faca git commit + push." >> ".agents\logs\ingestao_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
