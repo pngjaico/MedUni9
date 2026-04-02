@@ -1,0 +1,356 @@
+#!/usr/bin/env python3
+"""
+Gera materias.json com aulas REAIS baseadas nos planos de ensino extraídos.
+Cada aula foi pensada pela IA a partir do conteúdo programático real de cada disciplina.
+"""
+import json, os
+
+INPUT = os.path.join("data", "materias.json")
+OUTPUT = os.path.join("data", "materias.json")
+
+with open(INPUT, "r", encoding="utf-8") as f:
+    materias = json.load(f)
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 1
+# ═══════════════════════════════════════════════════════════════
+
+materias["sus"]["nome"] = "Princípios e Diretrizes do SUS"
+materias["sus"]["descricao"] = "Fundamentos da APS no SUS: processo saúde-doença, determinantes sociais, história das políticas de saúde, princípios/diretrizes do SUS e organização das redes de atenção."
+materias["sus"]["aulas"] = [
+    {"id": "sus_a1", "tema": "Processo Saúde-Doença e Determinantes Sociais", "descricao": "Conceito de saúde-doença, DSS (Determinantes Sociais da Saúde) e vulnerabilidade."},
+    {"id": "sus_a2", "tema": "História das Políticas de Saúde no Brasil", "descricao": "Do Período Colonial à Nova República: evolução da saúde pública brasileira."},
+    {"id": "sus_a3", "tema": "O SUS e as Leis Orgânicas da Saúde", "descricao": "Constituição Federal de 1988, Leis 8.080 e 8.142, princípios doutrinários e organizativos."},
+    {"id": "sus_a4", "tema": "Pactos pela Saúde", "descricao": "Pacto pela Vida, Pacto pela Gestão e Pacto em Defesa do SUS."},
+    {"id": "sus_a5", "tema": "PNAB e Estratégia Saúde da Família", "descricao": "Política Nacional de Atenção Básica, atributos da APS, equipe mínima e Redes de Atenção à Saúde."},
+    {"id": "sus_a6", "tema": "Ferramentas de Abordagem Familiar e Comunitária", "descricao": "Genograma, ecomapa e Educação Popular em Saúde no território."},
+    {"id": "sus_a7", "tema": "Regionalização e Decreto 7508/11", "descricao": "Organização regional do SUS, RAS e contratualização dos serviços de saúde."},
+]
+
+materias["semiologia1"]["nome"] = "Semiologia do Sistema Musculoesquelético"
+materias["semiologia1"]["descricao"] = "Semiologia aplicada ao sistema musculoesquelético: anamnese, exame físico (inspeção, palpação, testes de mobilidade e força), prática simulada e real."
+materias["semiologia1"]["aulas"] = [
+    {"id": "semio1_a1", "tema": "Fundamentos da Semiologia Musculoesquelética", "descricao": "Princípios de semiologia clínica, revisão anatômica e biomecânica do sistema locomotor."},
+    {"id": "semio1_a2", "tema": "Anamnese Dirigida do Aparelho Locomotor", "descricao": "Coleta de história clínica: dor, rigidez, fraqueza, limitação de movimento e fatores de risco."},
+    {"id": "semio1_a3", "tema": "Exame Físico — Inspeção e Palpação", "descricao": "Técnicas de inspeção postural, palpação de estruturas e identificação de deformidades."},
+    {"id": "semio1_a4", "tema": "Testes de Mobilidade e Força Muscular", "descricao": "Amplitude de movimento, testes funcionais, escala de força muscular e testes especiais."},
+    {"id": "semio1_a5", "tema": "Exame do Ombro, Quadril e Coluna", "descricao": "Testes específicos por região em cenários simulados com manequins e pacientes padronizados."},
+    {"id": "semio1_a6", "tema": "Reunião Clínica e Casos Musculoesqueléticos", "descricao": "Discussão de casos clínicos reais e simulados, diagnósticos diferenciais e propedêutica."},
+]
+
+materias["bmf1"]["nome"] = "Bases Morfofuncionais 1 — Locomotor e Digestório"
+materias["bmf1"]["descricao"] = "Estudo integrado da morfologia e função dos sistemas musculoesquelético e digestório: anatomia, histologia, embriologia e fisiologia."
+materias["bmf1"]["aulas"] = [
+    {"id": "bmf1_a1", "tema": "Introdução à Morfologia Humana", "descricao": "Posição anatômica, planos de delimitação, eixos do corpo e introdução aos tecidos humanos."},
+    {"id": "bmf1_a2", "tema": "Sistema Esquelético — Ossos e Tecido Ósseo", "descricao": "Generalidades do sistema esquelético, tecido conjuntivo, tecido ósseo e processo de ossificação."},
+    {"id": "bmf1_a3", "tema": "Sistema Articular e Tecido Cartilaginoso", "descricao": "Classificação articular, articulações da coluna, membros superiores e inferiores."},
+    {"id": "bmf1_a4", "tema": "Sistema Muscular — Histologia e Contração", "descricao": "Generalidades musculares, histologia do tecido muscular e mecanismo da contração muscular."},
+    {"id": "bmf1_a5", "tema": "Sistema Tegumentar e Tecido Epitelial", "descricao": "Tecido epitelial de revestimento, tecido glandular e tecido adiposo."},
+    {"id": "bmf1_a6", "tema": "Sistema Digestório — Anatomia Macroscópica", "descricao": "Boca, faringe, parede abdominal, peritônio, intestinos, fígado, vias biliares e pâncreas."},
+    {"id": "bmf1_a7", "tema": "Prática Integrada de Anatomia e Histologia", "descricao": "Laboratório: identificação de ossos, articulações, músculos, vasos e órgãos digestivos."},
+]
+
+materias["pmh"]["nome"] = "Processos Metabólicos Humanos"
+materias["pmh"]["descricao"] = "Metabolismo de carboidratos, lipídios, proteínas e nucleotídeos: vias bioquímicas, regulação hormonal e integração metabólica."
+materias["pmh"]["aulas"] = [
+    {"id": "pmh_a1", "tema": "Fundamentos do Metabolismo Humano", "descricao": "Bioenergética, termodinâmica, ATP, NAD+, FAD, cofatores e regulação metabólica geral."},
+    {"id": "pmh_a2", "tema": "Metabolismo de Carboidratos", "descricao": "Glicólise, gliconeogênese, ciclo de Krebs, fosforilação oxidativa, glicogênio e via das pentoses."},
+    {"id": "pmh_a3", "tema": "Metabolismo de Lipídios", "descricao": "Beta-oxidação, corpos cetônicos, colesterol, lipoproteínas e homeostase lipídica."},
+    {"id": "pmh_a4", "tema": "Metabolismo de Proteínas e Aminoácidos", "descricao": "Transaminação, desaminação, ciclo da ureia e catabolismo de aminoácidos específicos."},
+    {"id": "pmh_a5", "tema": "Metabolismo de Nucleotídeos", "descricao": "Biossíntese e degradação de purinas e pirimidinas, metabolismo do ácido úrico."},
+    {"id": "pmh_a6", "tema": "Integração Metabólica e Aplicações Clínicas", "descricao": "Ciclos de Cori e alanina, adaptações ao jejum/exercício/estresse, diabetes e dislipidemias."},
+]
+
+materias["pe1"]["nome"] = "Projeto Extensionista 1 — Vivência na Atenção Básica"
+materias["pe1"]["descricao"] = "Prática extensionista na APS: visitas ao território, organização da UBS, equipe multiprofissional e ações de promoção da saúde."
+materias["pe1"]["aulas"] = [
+    {"id": "pe1_a1", "tema": "Organização da Atenção Básica e Territorialização", "descricao": "Gestão administrativa da AB, mapeamento do território, recursos comunitários e equipamentos de saúde."},
+    {"id": "pe1_a2", "tema": "Equipe Multiprofissional e o ACS", "descricao": "Papel do Agente Comunitário de Saúde, roteiro de apropriação do território e visita prática à UBS."},
+    {"id": "pe1_a3", "tema": "Ações de Promoção da Saúde na Comunidade", "descricao": "Intervenções práticas: higiene, alimentação saudável, atividade física e prevenção de quedas em idosos."},
+    {"id": "pe1_a4", "tema": "Materiais Educativos e Relatório Extensionista", "descricao": "Produção de infográficos, cartilhas e artigo/relato de experiência da prática extensionista."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 2
+# ═══════════════════════════════════════════════════════════════
+
+materias["bmf2"]["nome"] = "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório"
+materias["bmf2"]["descricao"] = "Estudo integrado da morfologia e função dos sistemas cardiovascular e respiratório: anatomia, histologia, embriologia e fisiologia."
+materias["bmf2"]["aulas"] = [
+    {"id": "bmf2_a1", "tema": "Eletrofisiologia Cardíaca e Sistema de Condução", "descricao": "Potencial de ação no marcapasso e músculo cardíaco, propriedades e atividade elétrica."},
+    {"id": "bmf2_a2", "tema": "Anatomia e Histologia do Coração e Vasos", "descricao": "Câmaras, valvas, ciclo cardíaco, endocárdio, miocárdio, epicárdio e tipos de vasos sanguíneos."},
+    {"id": "bmf2_a3", "tema": "Hemodinâmica e Regulação Cardiovascular", "descricao": "Débito cardíaco, lei de Starling, pressão arterial mínima, controle neural e humoral."},
+    {"id": "bmf2_a4", "tema": "ECG, Circulação Coronariana e Microcirculação", "descricao": "Relação ECG × ciclo cardíaco, circulação coronariana, microcirculação e sistema linfático."},
+    {"id": "bmf2_a5", "tema": "Anatomia e Histologia do Sistema Respiratório", "descricao": "Vias aéreas, pneumócitos I e II, caixa torácica, pleura, diafragma e surfactante pulmonar."},
+    {"id": "bmf2_a6", "tema": "Mecânica Ventilatória e Trocas Gasosas", "descricao": "Volumes/capacidades pulmonares, complacência/elastância, relação V/Q e centro respiratório."},
+]
+
+materias["semiologia2"]["nome"] = "Semiologia do Sistema Cardiorrespiratório"
+materias["semiologia2"]["descricao"] = "Semiologia dos sistemas cardiovascular e respiratório: anamnese, exame físico (inspeção, palpação, percussão, ausculta), prática simulada e real."
+materias["semiologia2"]["aulas"] = [
+    {"id": "semio2_a1", "tema": "Anamnese Cardiorrespiratória", "descricao": "Coleta de história clínica: dispneia, dor torácica, palpitações, tosse, tabagismo e fatores de risco."},
+    {"id": "semio2_a2", "tema": "Exame Físico Cardiovascular", "descricao": "Inspeção (turgência jugular), palpação (frêmito, pulso), percussão (área cardíaca) e ausculta (sopros, bulhas)."},
+    {"id": "semio2_a3", "tema": "Exame Físico Respiratório", "descricao": "Inspeção (padrão respiratório), palpação (expansibilidade), percussão e ausculta (murmúrio, ruídos adventícios)."},
+    {"id": "semio2_a4", "tema": "Síndromes Cardiorrespiratórias e Propedêutica", "descricao": "Correlação de achados clínicos, diagnósticos diferenciais e introdução à propedêutica complementar."},
+    {"id": "semio2_a5", "tema": "Reunião Clínica Cardiorrespiratória", "descricao": "Discussão de casos reais e simulados, integração de achados semiológicos e planejamento diagnóstico."},
+]
+
+materias["mad1"]["nome"] = "Mecanismos de Agressão e Defesa"
+materias["mad1"]["descricao"] = "Mecanismos de agressão (infecções, inflamações, traumas) e defesa do organismo (imunidade inata, adaptativa, reparo tecidual) com aplicações laboratoriais."
+materias["mad1"]["aulas"] = [
+    {"id": "mad1_a1", "tema": "Agentes de Agressão e Resposta Inflamatória", "descricao": "Agentes biológicos, químicos e físicos; mecanismos de lesão e fisiopatologia da inflamação."},
+    {"id": "mad1_a2", "tema": "Imunidade Inata e Barreiras de Defesa", "descricao": "Barreiras físicas, fagócitos, sistema complemento, células NK e resposta inflamatória aguda."},
+    {"id": "mad1_a3", "tema": "Imunidade Adaptativa — Humoral e Celular", "descricao": "Linfócitos T e B, apresentação antigênica, anticorpos, memória imunológica e vacinação."},
+    {"id": "mad1_a4", "tema": "Hipersensibilidade e Imunodeficiências", "descricao": "Reações de hipersensibilidade tipos I–IV, imunodeficiências primárias e secundárias."},
+    {"id": "mad1_a5", "tema": "Interação Patógeno-Hospedeiro e Evasão Microbiana", "descricao": "Estratégias de evasão microbiana, resposta imune a infecções e reparo tecidual."},
+    {"id": "mad1_a6", "tema": "Técnicas Laboratoriais em Imunologia e Microbiologia", "descricao": "Análise de respostas imunológicas, identificação de patógenos e avaliação histopatológica."},
+]
+
+materias["bcm1"]["nome"] = "Biologia Celular e Molecular"
+materias["bcm1"]["descricao"] = "Biologia celular, molecular e genética médica: organelas, sinalização celular, expressão gênica, ciclo celular, padrões de herança e alterações cromossômicas."
+materias["bcm1"]["aulas"] = [
+    {"id": "bcm1_a1", "tema": "Organização da Célula Eucariótica", "descricao": "Organelas, citoesqueleto, dinâmica celular e tampões biológicos/gasometria."},
+    {"id": "bcm1_a2", "tema": "Dogma Central — Replicação, Transcrição e Tradução", "descricao": "Fluxo da informação genética, PCR, mecanismo de ação de antibióticos nos processos moleculares."},
+    {"id": "bcm1_a3", "tema": "Sinalização Celular e Controle da Expressão Gênica", "descricao": "Receptores, mensageiros, vias de sinalização, regulação transcricional e pós-traducional."},
+    {"id": "bcm1_a4", "tema": "Ciclo Celular, Apoptose e Reparo de DNA", "descricao": "Pontos de checagem (p53, Rb1), necrose vs apoptose, genes BRCA1/BRCA2 e mutações."},
+    {"id": "bcm1_a5", "tema": "Genética Médica — Padrões de Herança", "descricao": "Heredogramas, herança autossômica dominante/recessiva e ligada ao X (Duchenne, Hemofilia)."},
+    {"id": "bcm1_a6", "tema": "Alterações Cromossômicas e Erros Inatos do Metabolismo", "descricao": "Síndromes de Down, Edwards, Patau, Cri-du-Chat; Fenilcetonúria, Galactosemia, Anemia Falciforme."},
+    {"id": "bcm1_a7", "tema": "Neoplasias, Oncogenes e Biotecnologias", "descricao": "Bases genéticas do câncer, genes supressores tumorais, técnicas moleculares e bioinformática."},
+]
+
+materias["indicadores"]["nome"] = "Indicadores de Saúde: Epidemiologia e Bioestatística"
+materias["indicadores"]["descricao"] = "Epidemiologia descritiva, indicadores de morbidade/mortalidade, sistemas de informação em saúde e introdução à bioestatística."
+materias["indicadores"]["aulas"] = [
+    {"id": "ind_a1", "tema": "História da Epidemiologia e Conceitos Fundamentais", "descricao": "Origens da epidemiologia, personagens históricos e a epidemia de cólera em Londres."},
+    {"id": "ind_a2", "tema": "HND, Níveis de Prevenção e Transições", "descricao": "História Natural da Doença, prevenção primária a quaternária, transição epidemiológica/demográfica/nutricional."},
+    {"id": "ind_a3", "tema": "Indicadores de Morbidade e Mortalidade", "descricao": "Incidência, prevalência, taxas de mortalidade geral/específica, infantil, materna, neonatal e perinatal."},
+    {"id": "ind_a4", "tema": "Sistemas de Informação em Saúde", "descricao": "SIM, SINAN, PRO-AIM, DATASUS e preenchimento da declaração de óbito."},
+    {"id": "ind_a5", "tema": "Bioestatística — Variáveis e Análise Descritiva", "descricao": "Tipos de variáveis, medidas de tendência central e dispersão, normalidade dos dados."},
+    {"id": "ind_a6", "tema": "Bioestatística — Análise Inferencial", "descricao": "Testes de hipóteses, significância estatística, valor de p, intervalos de confiança e testes paramétricos/não paramétricos."},
+]
+
+materias["ds"]["nome"] = "Dimensões Socioambientais e Saúde"
+materias["ds"]["descricao"] = "Desafios socioambientais globais e seus impactos na saúde: poluição, mudanças climáticas, ODS e o papel do profissional de saúde."
+materias["ds"]["aulas"] = [
+    {"id": "ds_a1", "tema": "Desafios Socioambientais Globais e Saúde", "descricao": "Poluição, mudanças climáticas, riscos socioambientais e seus impactos na saúde humana."},
+    {"id": "ds_a2", "tema": "ODS, Sustentabilidade e Saúde nas Cidades", "descricao": "Objetivos de Desenvolvimento Sustentável da ONU e o IDSC-BR."},
+    {"id": "ds_a3", "tema": "Políticas Públicas Socioambientais e Saúde no Brasil", "descricao": "Saneamento, qualidade da água, biodiversidade e o papel do profissional de saúde."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 3
+# ═══════════════════════════════════════════════════════════════
+
+materias["bmf3"]["nome"] = "Bases Morfofuncionais 3 — Digestório, Renal e Reprodutor"
+materias["bmf3"]["descricao"] = "Estudo integrado da morfologia e função dos aparelhos digestório, renal e reprodutor: anatomia, histologia e fisiologia."
+materias["bmf3"]["aulas"] = [
+    {"id": "bmf3_a1", "tema": "Aparelho Digestório — Anatomia e Histologia", "descricao": "Boca, faringe, esôfago, estômago, intestinos, fígado, pâncreas e vesícula biliar."},
+    {"id": "bmf3_a2", "tema": "Fisiologia da Digestão e Absorção", "descricao": "Motilidade GI, secreções digestivas, absorção de nutrientes e metabolismo hepático."},
+    {"id": "bmf3_a3", "tema": "Aparelho Renal — Anatomia e Histologia", "descricao": "Rins, ureteres, bexiga, uretra, néfron, sistema coletor e glândula suprarrenal."},
+    {"id": "bmf3_a4", "tema": "Fisiologia Renal e Equilíbrio Hidroeletrolítico", "descricao": "Filtração glomerular, reabsorção tubular, excreção e equilíbrio ácido-básico."},
+    {"id": "bmf3_a5", "tema": "Aparelho Reprodutor Masculino", "descricao": "Testículos, ductos, glândulas acessórias, pênis e espermatogênese."},
+    {"id": "bmf3_a6", "tema": "Aparelho Reprodutor Feminino e Fisiologia Reprodutiva", "descricao": "Ovários, tubas, útero, vagina, ciclo menstrual, fertilização, hormônios sexuais e lactação."},
+]
+
+materias["semiologia3"]["nome"] = "Semiologia dos Aparelhos Renal e Reprodutor"
+materias["semiologia3"]["descricao"] = "Semiologia aplicada aos aparelhos renal e reprodutor: anamnese dirigida, exame físico específico e interpretação de achados clínicos."
+materias["semiologia3"]["aulas"] = [
+    {"id": "semio3_a1", "tema": "Revisão da Semiologia Abdominal", "descricao": "Anamnese abdominal, inspeção, palpação, ausculta e integração com achados renais/reprodutivos."},
+    {"id": "semio3_a2", "tema": "Semiologia Renal", "descricao": "Anamnese (disúria, hematúria, lombalgia), exame físico renal e principais patologias urológicas."},
+    {"id": "semio3_a3", "tema": "Semiologia do Aparelho Reprodutor Masculino", "descricao": "Anamnese dirigida, inspeção genital, palpação testicular/escrotal e toque retal."},
+    {"id": "semio3_a4", "tema": "Semiologia do Aparelho Reprodutor Feminino", "descricao": "Anamnese ginecológica, exame especular, toque vaginal e interpretação de achados."},
+    {"id": "semio3_a5", "tema": "Prática Clínica e Casos Integrados", "descricao": "Ambulatório supervisionado, correlação de achados, diagnósticos diferenciais e propedêutica."},
+]
+
+materias["mad2"]["nome"] = "Mecanismos Sistêmicos de Agressão e Defesa"
+materias["mad2"]["descricao"] = "Disfunções imunológicas, autoimunidade, transplantes, doenças infecciosas (vírus, bactérias, parasitas) e terapêutica antimicrobiana."
+materias["mad2"]["aulas"] = [
+    {"id": "mad2_a1", "tema": "Imunodeficiências e Autoimunidade", "descricao": "Imunodeficiências primárias, mecanismos de tolerância central/periférica e doenças autoimunes."},
+    {"id": "mad2_a2", "tema": "Transplantes e Transfusão Sanguínea", "descricao": "Histocompatibilidade, rejeição de transplantes e princípios de imunologia transfusional."},
+    {"id": "mad2_a3", "tema": "Doenças Infecciosas — Vírus e Bactérias", "descricao": "Morfologia e genética de patógenos, mecanismos de defesa do hospedeiro e epidemiologia."},
+    {"id": "mad2_a4", "tema": "Doenças Parasitárias e Controle Vacinal", "descricao": "Protozoários, helmintos, epidemiologia, prevenção e importância da vacinação."},
+    {"id": "mad2_a5", "tema": "Terapêutica Antimicrobiana", "descricao": "Antibióticos, antifúngicos, antiparasitários e antivirais: mecanismos de ação e resistência microbiana."},
+    {"id": "mad2_a6", "tema": "Casos Clínicos Integrados (TBL/PBL)", "descricao": "Discussão de casos com metodologias ativas aplicadas ao ensino médico."},
+]
+
+materias["fisiopato3"]["nome"] = "Processos Fisiopatológicos e Farmacoterapêuticos 3"
+materias["fisiopato3"]["descricao"] = "Raciocínio clínico integrando fisiopatologia, alterações funcionais e farmacoterapia dos sistemas digestório, renal e reprodutor."
+materias["fisiopato3"]["aulas"] = [
+    {"id": "fp3_a1", "tema": "Patologia Geral e Princípios de Farmacoterapia", "descricao": "Lesão/morte celular, distúrbios hemodinâmicos, bases de farmacocinética e farmacodinâmica."},
+    {"id": "fp3_a2", "tema": "Farmacologia do SNA e Substâncias Vasoativas", "descricao": "Fármacos simpáticos/parassimpáticos e vasoativos: indicação, mecanismo e efeitos adversos."},
+    {"id": "fp3_a3", "tema": "Inflamação, Reparo Tecidual e Anti-inflamatórios", "descricao": "Morfologia da inflamação, cura, reparo, adaptações celulares; AINEs e corticoides."},
+    {"id": "fp3_a4", "tema": "Neoplasias e Farmacoterapia Antineoplásica", "descricao": "Carcinogênese, disseminação, estadiamento e fármacos antineoplásicos."},
+    {"id": "fp3_a5", "tema": "Fisiopatologia e Farmacoterapia do Sistema Urinário", "descricao": "Patologia das vias urinárias, glomerulopatias, nefrites e neoplasias renais/uroteliais."},
+    {"id": "fp3_a6", "tema": "Fisiopatologia Endócrina e Reprodutiva", "descricao": "Patologias de suprarrenal, testículo, próstata, útero, ovários e mama; farmacoterapia hormonal."},
+]
+
+materias["saude_trabalhador"]["nome"] = "Saúde do Trabalhador e Doenças Ocupacionais"
+materias["saude_trabalhador"]["descricao"] = "Fundamentos da saúde do trabalhador no SUS: vigilância em saúde, políticas e legislação, normas regulamentadoras e doenças relacionadas ao trabalho."
+materias["saude_trabalhador"]["aulas"] = [
+    {"id": "st_a1", "tema": "Vigilância em Saúde e Notificação Compulsória", "descricao": "Vigilância epidemiológica, sanitária, ambiental e do trabalhador; regulamento sanitário internacional."},
+    {"id": "st_a2", "tema": "Políticas de Saúde do Trabalhador", "descricao": "PNSTT, RENAST, CEREST, legislação trabalhista, direitos dos trabalhadores e preenchimento da CAT."},
+    {"id": "st_a3", "tema": "Normas Regulamentadoras (NR)", "descricao": "NR1 (GRO), NR4 (SESMT), NR5 (CIPA), NR6 (EPI), NR7 (PCMSO), NR15/16, NR17 (Ergonomia)."},
+    {"id": "st_a4", "tema": "Doenças Relacionadas ao Trabalho", "descricao": "LER/DORT, pneumoconioses, PAIR, dermatites, burnout, DCNT, ISTs e SINAN no trabalho."},
+]
+
+materias["pe3"]["nome"] = "Projeto Extensionista 3 — Saúde Ocupacional na Atenção Básica"
+materias["pe3"]["descricao"] = "Prática extensionista em promoção da saúde ocupacional: intervenções educativas para trabalhadores em equipamentos de saúde."
+materias["pe3"]["aulas"] = [
+    {"id": "pe3_a1", "tema": "Promoção à Saúde Ocupacional na Atenção Básica", "descricao": "Planejamento de intervenções em saúde do trabalhador em equipamentos públicos."},
+    {"id": "pe3_a2", "tema": "Vacinação e Agravos Ocupacionais", "descricao": "Importância da vacinação para trabalhadores e doenças/agravos relacionados ao trabalho."},
+    {"id": "pe3_a3", "tema": "Visitas Técnicas e Relatório Extensionista", "descricao": "Visitas a serviços de saúde, material educativo e artigo/relato de experiência."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 4
+# ═══════════════════════════════════════════════════════════════
+
+materias["bmf4"]["nome"] = "Bases Morfofuncionais 4 — Neurossensorial e Endócrino"
+materias["bmf4"]["descricao"] = "Estudo integrado da morfologia e função dos sistemas neurossensorial e endócrino: neuroanatomia, histologia, neurofisiologia e endocrinologia."
+materias["bmf4"]["aulas"] = [
+    {"id": "bmf4_a1", "tema": "Embriologia e Divisão do Sistema Nervoso", "descricao": "Formação do tubo neural, vesículas encefálicas, divisão anatômica e funcional do SN."},
+    {"id": "bmf4_a2", "tema": "Telencéfalo e Córtex Cerebral", "descricao": "Hemisférios, lobos, giros, sulcos, áreas de Brodmann/Luria e citoarquitetura cortical."},
+    {"id": "bmf4_a3", "tema": "Diencéfalo, Tronco Encefálico e Cerebelo", "descricao": "Tálamo, hipotálamo, mesencéfalo, ponte, bulbo, cerebelo e núcleos cerebelares."},
+    {"id": "bmf4_a4", "tema": "Medula Espinal e Nervos Cranianos", "descricao": "Anatomia medular, nervo espinal, vias piramidais/extrapiramidais e pares cranianos."},
+    {"id": "bmf4_a5", "tema": "Histologia do SN — Neurônios, Glia e Sinapses", "descricao": "Neurônios, células da glia, potencial de ação, neurotransmissão, PEPS e PIPS."},
+    {"id": "bmf4_a6", "tema": "Vascularização, Meninges e Sistema Ventricular", "descricao": "Irrigação carotídea/vértebro-basilar, seios durais, meninges, LCR e barreiras encefálicas."},
+    {"id": "bmf4_a7", "tema": "Sistema Sensorial e Endócrino", "descricao": "Sensibilidade geral, órgãos dos sentidos, glândulas endócrinas e regulação hormonal."},
+]
+
+materias["semiologia4"]["nome"] = "Semiologia Neurológica e Síndromes Clínicas"
+materias["semiologia4"]["descricao"] = "Semiologia do sistema nervoso: anamnese neurológica, exame neurológico completo, síndromes clínicas e prática simulada/real."
+materias["semiologia4"]["aulas"] = [
+    {"id": "semio4_a1", "tema": "Anamnese Neurológica e Fundamentos", "descricao": "Queixas principais (cefaleia, tontura, convulsões), história patológica e revisão por sistemas."},
+    {"id": "semio4_a2", "tema": "Nível de Consciência e Nervos Cranianos", "descricao": "Escala de Glasgow, avaliação de visão, movimentos oculares, reflexo pupilar, audição e deglutição."},
+    {"id": "semio4_a3", "tema": "Exame Motor, Sensorial e Cerebelar", "descricao": "Força muscular (escala 0-5), tônus, reflexos, sensibilidade, provas cerebelares e marcha."},
+    {"id": "semio4_a4", "tema": "Funções Cognitivas e Propedêutica Complementar", "descricao": "Memória, atenção, linguagem, praxias e introdução a TC, EEG e ressonância."},
+    {"id": "semio4_a5", "tema": "Síndromes Neurológicas Clínicas", "descricao": "Síndromes piramidal, extrapiramidal, cerebelar e sensitiva — AVC, epilepsia, parkinsonismo, demências."},
+    {"id": "semio4_a6", "tema": "Prática Clínica e Discussão de Casos", "descricao": "Prática em manequins, cenários com pacientes padronizados e ambulatório supervisionado."},
+]
+
+materias["fisiopato_farmaco"]["nome"] = "Processos Fisiopatológicos e Farmacoterapêuticos Neuroendócrinos"
+materias["fisiopato_farmaco"]["descricao"] = "Processos fisiopatológicos e farmacoterapêuticos dos sistemas nervoso e endócrino: doenças cerebrovasculares, neoplasias de SNC e disfunções hormonais."
+materias["fisiopato_farmaco"]["aulas"] = [
+    {"id": "ff4_a1", "tema": "Patologia Geral e Bases Farmacoterapêuticas", "descricao": "Lesão celular, distúrbios circulatórios, neoplasias, anti-inflamatórios/corticoides e antineoplásicos."},
+    {"id": "ff4_a2", "tema": "Fisiopatologia do Sistema Nervoso", "descricao": "Doenças cerebrovasculares e neoplasias de SNC: mecanismos, morfologia e manifestações clínicas."},
+    {"id": "ff4_a3", "tema": "Farmacoterapia do Sistema Nervoso", "descricao": "SNA, opioides, anestésicos, antidepressivos, ansiolíticos, antipsicóticos e anticonvulsivantes."},
+    {"id": "ff4_a4", "tema": "Fisiopatologia Endócrina", "descricao": "Hiper/hipofunção hipofisárias, síndromes adrenais e doenças do pâncreas endócrino."},
+    {"id": "ff4_a5", "tema": "Farmacoterapia Endócrina e Aplicações Clínicas", "descricao": "Hipoglicemiantes, insulinas e diagnósticos diferenciais anatomopatológicos."},
+]
+
+materias["bioestatistica"]["nome"] = "Bioestatística e Estudos em Saúde"
+materias["bioestatistica"]["descricao"] = "Ferramentas de bioestatística aplicadas à saúde: variáveis, testes de hipótese, estudos epidemiológicos e medicina baseada em evidências."
+materias["bioestatistica"]["aulas"] = [
+    {"id": "bioe_a1", "tema": "Fundamentos de Bioestatística e Variáveis", "descricao": "Conceitos básicos, tipos de variáveis estatísticas, definição de amostra e normalidade dos dados."},
+    {"id": "bioe_a2", "tema": "Análise Descritiva e Medidas de Dispersão", "descricao": "Média, mediana, moda, variância, desvio padrão e coeficiente de variação."},
+    {"id": "bioe_a3", "tema": "Testes de Hipótese e Inferência Estatística", "descricao": "Hipótese nula/alternativa, valor p, significância, testes t, Mann-Whitney e Wilcoxon."},
+    {"id": "bioe_a4", "tema": "Pesquisa Qualitativa em Saúde", "descricao": "Construção e metodologia das pesquisas qualitativas e sua importância para a saúde."},
+    {"id": "bioe_a5", "tema": "Estudos Observacionais", "descricao": "Transversal (razão de prevalência), coorte (risco relativo), caso-controle (odds ratio) e ecológico (Pearson)."},
+    {"id": "bioe_a6", "tema": "Ensaio Clínico e Medicina Baseada em Evidências", "descricao": "Ensaio clínico randomizado, ensaio comunitário, RRR, RAR e NNT."},
+]
+
+materias["pe4"]["nome"] = "Projeto Extensionista 4 — Epidemiologia e Saúde da Comunidade"
+materias["pe4"]["descricao"] = "Prática extensionista articulando Medicina Baseada em Evidências e Educação Popular em Saúde para intervenções comunitárias."
+materias["pe4"]["aulas"] = [
+    {"id": "pe4_a1", "tema": "Pesquisa Científica e Leitura Crítica de Artigos", "descricao": "Metodologia científica, revisão de literatura e análise crítica de artigos originais."},
+    {"id": "pe4_a2", "tema": "Intervenção em Saúde na Comunidade", "descricao": "Temas clínicos (AVC, Parkinson, Alzheimer, queda de idoso) em educação para a comunidade."},
+    {"id": "pe4_a3", "tema": "Epidemiologia e Educação Popular em Saúde", "descricao": "Rede de Atenção à Saúde, perfil da população e MBE aplicada à extensão."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 5
+# ═══════════════════════════════════════════════════════════════
+
+materias["clinica_medica5"]["nome"] = "Clínica Médica 5"
+materias["clinica_medica5"]["descricao"] = "Principais doenças e síndromes em cardiologia, endocrinologia, nefrologia, neurologia, ORL, oftalmologia e dermatologia clínica."
+materias["clinica_medica5"]["aulas"] = [
+    {"id": "cm5_a1", "tema": "Cardiologia — HAS, ICC e Arritmias", "descricao": "Hipertensão arterial sistêmica, insuficiência cardíaca, arritmias, DAC crônica e interpretação do ECG."},
+    {"id": "cm5_a2", "tema": "Endocrinologia — Diabetes, Tireoide e Metabolismo", "descricao": "Síndrome metabólica, diabetes, disfunções tireoidianas, doenças da hipófise/adrenais e metabolismo ósseo."},
+    {"id": "cm5_a3", "tema": "Nefrologia — DRC, Glomerulopatias e ITU", "descricao": "Doença renal crônica, glomerulopatias e infecção do trato urinário."},
+    {"id": "cm5_a4", "tema": "Neurologia — Cefaleia, Demência e Meningite", "descricao": "Cefaleia, demência, meningite e perda de peso não intencional."},
+    {"id": "cm5_a5", "tema": "ORL e Oftalmologia", "descricao": "Otites, rinites, rinossinusites, disfonias, surdez, vertigem; olho vermelho, trauma e perda súbita da visão."},
+    {"id": "cm5_a6", "tema": "Dermatologia e Diagnósticos Diferenciais", "descricao": "Dermatoses virais, micoses, lesões eritematodescamativas, hepatoesplenomegalia, icterícia e adenomegalias."},
+]
+
+materias["clinica_cirurgica5"]["nome"] = "Clínica Cirúrgica 5"
+materias["clinica_cirurgica5"]["descricao"] = "Princípios da cirurgia geral: avaliação perioperatória, complicações, cicatrização, câncer de pele e urologia cirúrgica."
+materias["clinica_cirurgica5"]["aulas"] = [
+    {"id": "cc5_a1", "tema": "Avaliação Pré e Pós-operatória", "descricao": "Avaliação pré-operatória e manejo das complicações pós-operatórias."},
+    {"id": "cc5_a2", "tema": "Infecção Cirúrgica e Resposta ao Trauma", "descricao": "Infecção em cirurgia e resposta endócrina-metabólica ao trauma."},
+    {"id": "cc5_a3", "tema": "Cicatrização, Úlcera de Pressão e Câncer de Pele", "descricao": "Cicatrização normal e patológica, lesões por pressão e neoplasias cutâneas."},
+    {"id": "cc5_a4", "tema": "Urologia Cirúrgica", "descricao": "Litíase renal, hiperplasia prostática benigna e câncer de próstata."},
+]
+
+materias["farmaco_aplicada"]["nome"] = "Farmacologia Aplicada"
+materias["farmaco_aplicada"]["descricao"] = "Farmacologia clínica aplicada aos sistemas digestório, respiratório, cardiovascular; antibioticoterapia, antivirais e antiparasitários."
+materias["farmaco_aplicada"]["aulas"] = [
+    {"id": "farm_a1", "tema": "Farmacologia do Sistema Digestório", "descricao": "Antiácidos, citoprotetores, antieméticos e procinéticos: mecanismos e emprego clínico."},
+    {"id": "farm_a2", "tema": "Anti-inflamatórios e Farmacologia Respiratória", "descricao": "AINEs, glicocorticoides, broncodilatadores e anti-histamínicos."},
+    {"id": "farm_a3", "tema": "Antibióticos — Parede e Síntese Proteica", "descricao": "Penicilinas, cefalosporinas, carbapenêmicos, macrolídeos, aminoglicosídeos e tetraciclinas."},
+    {"id": "farm_a4", "tema": "Antibióticos, Antivirais e Antiparasitários", "descricao": "Inibidores de DNA, antivirais (HIV, Hepatite C), antiprotozoários e anti-helmínticos."},
+    {"id": "farm_a5", "tema": "Farmacologia Cardiovascular", "descricao": "Anti-hipertensivos, antiarrítmicos, antianginosos e fármacos para insuficiência cardíaca."},
+    {"id": "farm_a6", "tema": "Prescrição Racional e Simulação Clínica", "descricao": "Prescrição medicamentosa, interações medicamentosas, relação risco-benefício e prática em NIS."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# MÓDULO 6
+# ═══════════════════════════════════════════════════════════════
+
+materias["clinica_medica6"]["nome"] = "Clínica Médica 6"
+materias["clinica_medica6"]["descricao"] = "Gastroenterologia, geriatria, hematologia, pneumologia, reumatologia e cuidados paliativos: diagnóstico, tratamento e manejo integrado."
+materias["clinica_medica6"]["aulas"] = [
+    {"id": "cm6_a1", "tema": "Gastroenterologia — Cirrose e Hepatites", "descricao": "Cirrose hepática e complicações, hepatites virais; diarreias, obstipação e DII."},
+    {"id": "cm6_a2", "tema": "Geriatria — Envelhecimento e Síndromes Geriátricas", "descricao": "Senescência/senilidade, funcionalidade, fragilidade, síndromes geriátricas e delirium."},
+    {"id": "cm6_a3", "tema": "Hematologia — Neoplasias e Hemostasia", "descricao": "Leucemias agudas/crônicas, linfomas, mieloma múltiplo, anemias e diagnóstico laboratorial."},
+    {"id": "cm6_a4", "tema": "Pneumologia — Asma, DPOC e Doenças Intersticiais", "descricao": "Espirometria, asma, DPOC, doenças pulmonares intersticiais e pneumonia."},
+    {"id": "cm6_a5", "tema": "Reumatologia — Artrites e Colagenoses", "descricao": "Mono/poliartrites, espondiloartropatias, LES, lombalgias e fibromialgia."},
+    {"id": "cm6_a6", "tema": "Cuidados Paliativos e Reuniões Clínicas", "descricao": "Conceitos de cuidados paliativos, manejo da dor, protocolo SPIKES, polifarmácia e tabagismo."},
+]
+
+materias["mfc6"]["nome"] = "Medicina de Família e Comunidade"
+materias["mfc6"]["descricao"] = "Atuação clínica do médico de família na APS: linhas de cuidado, rastreamento, diagnósticos e manejo das doenças mais prevalentes."
+materias["mfc6"]["aulas"] = [
+    {"id": "mfc_a1", "tema": "Introdução à Medicina de Família e Comunidade", "descricao": "História da MFC, princípios (abordagem centrada no paciente, longitudinalidade, integralidade)."},
+    {"id": "mfc_a2", "tema": "Abordagem das Anemias na Atenção Primária", "descricao": "Classificação, epidemiologia, diagnóstico, tratamento e encaminhamento de anemias na APS."},
+    {"id": "mfc_a3", "tema": "Rastreamento e Manejo de Doenças Prevalentes", "descricao": "Rastreamento, diagnóstico e manejo clínico dos agravos com maior incidência na população brasileira."},
+    {"id": "mfc_a4", "tema": "Linhas de Cuidado e Políticas de Atenção à Saúde", "descricao": "Linhas de cuidado, Políticas Nacionais de Saúde e promoção/prevenção na Atenção Primária."},
+]
+
+materias["cirurgia_ortopedia"]["nome"] = "Cirurgia e Ortopedia 6"
+materias["cirurgia_ortopedia"]["descricao"] = "Cirurgia geral, gastrocirurgia e ortopedia: abdome agudo, hérnias, neoplasias do TGI, fraturas e doenças ortopédicas."
+materias["cirurgia_ortopedia"]["aulas"] = [
+    {"id": "cir6_a1", "tema": "Abdome Agudo e Apendicite", "descricao": "Classificação do abdome agudo (inflamatório, perfurativo, obstrutivo, hemorrágico, vascular) e apendicite."},
+    {"id": "cir6_a2", "tema": "Hérnias, Pancreatite e Litíase Biliar", "descricao": "Hérnias da parede abdominal, pancreatite aguda, litíase biliar e diagnóstico diferencial da icterícia."},
+    {"id": "cir6_a3", "tema": "Esôfago, Estômago e Hemorragias Digestivas", "descricao": "DRGE, doença ulcerosa péptica, hemorragias alta/baixa e doença diverticular."},
+    {"id": "cir6_a4", "tema": "Neoplasias do Aparelho Digestivo", "descricao": "Neoplasias de fígado, vias biliares, pâncreas, estômago, esôfago, colorretal e canal anal."},
+    {"id": "cir6_a5", "tema": "Ortopedia — Semiologia e Fraturas", "descricao": "Semiologia e imagem em ortopedia, osteoporose, fraturas, luxações e imobilizações."},
+    {"id": "cir6_a6", "tema": "Ortopedia — Lesões e Infecções Osteoarticulares", "descricao": "Lesões ligamentares/musculares/tendíneas, doenças do quadril e infecções osteoarticulares."},
+]
+
+materias["tecnica_operatoria"]["nome"] = "Técnica Operatória"
+materias["tecnica_operatoria"]["descricao"] = "Primeiro contato com a prática cirúrgica: assepsia, paramentação, instrumentação, diérese, hemostasia e síntese."
+materias["tecnica_operatoria"]["aulas"] = [
+    {"id": "tcar_a1", "tema": "Antissepsia, Assepsia e Paramentação", "descricao": "Conceitos de antissepsia/assepsia, esterilização e técnica de paramentação cirúrgica."},
+    {"id": "tcar_a2", "tema": "Instrumentação e Campo Operatório", "descricao": "Instrumentos cirúrgicos (diérese, hemostasia, síntese), montagem de mesa e campo cirúrgico."},
+    {"id": "tcar_a3", "tema": "Diérese e Hemostasia", "descricao": "Técnicas de incisão, tipos de bisturi e métodos de controle de sangramento."},
+    {"id": "tcar_a4", "tema": "Síntese — Suturas e Nós Cirúrgicos", "descricao": "Tipos de sutura (simples, contínua, Donati), fios cirúrgicos e técnicas de nós."},
+]
+
+# ═══════════════════════════════════════════════════════════════
+# Salvar
+# ═══════════════════════════════════════════════════════════════
+
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    json.dump(materias, f, ensure_ascii=False, indent=2)
+
+# Contagem
+total_aulas = sum(len(m.get("aulas", [])) for m in materias.values())
+total_disc = len(materias)
+print(f"\n✅ materias.json atualizado com sucesso!")
+print(f"   {total_disc} disciplinas")
+print(f"   {total_aulas} aulas reais baseadas nos planos de ensino")
+print(f"\n   Breakdown por módulo:")
+for mod in range(1, 7):
+    disc_mod = [k for k, v in materias.items() if v.get("modulo") == mod]
+    aulas_mod = sum(len(materias[k].get("aulas", [])) for k in disc_mod)
+    print(f"   Módulo {mod}: {len(disc_mod)} disciplinas, {aulas_mod} aulas")
