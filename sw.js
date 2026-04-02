@@ -1,5 +1,5 @@
 // MedUni9 Service Worker v4.0 — Security Hardened
-const CACHE_NAME = 'meduni9-v9';
+const CACHE_NAME = 'meduni9-v10';
 
 // Files to cache (NEVER cache sensitive files)
 const ASSETS = [
@@ -18,7 +18,8 @@ const ASSETS = [
 const NEVER_CACHE = [
   '/data/codigos.json',
   '/admin.html',
-  '/data/feedback/'
+  '/data/feedback/',
+  '/materiais/'
 ];
 
 function isNeverCache(url) {
