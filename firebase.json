@@ -24,6 +24,7 @@
       "leitor_livros_agente.py",
       "gerador_indice_livros.py",
       "processar_feedback.py",
+      "gerar_requests_feedback.py",
       "data/feedback/**"
     ],
     "rewrites": [
