@@ -7,7 +7,16 @@
       "README.md",
       "COMO-ATUALIZAR.md",
       "conteudos/**",
-      "node_modules/**"
+      "node_modules/**",
+      "*.bat",
+      "*.ps1",
+      "server.js",
+      ".agents/**",
+      "prompts/**",
+      "build_materias.py",
+      "organizar.js",
+      "leitor_livros_agente.py",
+      "gerador_indice_livros.py"
     ],
     "rewrites": [
       {
