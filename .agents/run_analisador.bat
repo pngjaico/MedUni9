@@ -1,0 +1,3 @@
+@echo off
+cd /d "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app"
+"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow detalhado em '.agents/workflows/analisador_tendencias.md'. Analise os campos 'tema' e 'materia' de data/questoes_ineditas.json e dos lotes em conteudos/_para_categorizar/lotes_extraidos/. Use Python com json e collections.Counter (sem pandas). Gere o relatorio Markdown em conteudos/_logs/ e escreva data/agent_logs/status_analisador.json ao final. Faca git commit + push." >> ".agents\logs\analisador_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1

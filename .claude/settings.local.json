@@ -11,7 +11,12 @@
       "Bash(python3 -c \"import json; data=json.load\\(open\\(''C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/data/flashcards.json''\\)\\); cards=data[''flashcards'']; print\\(f''Total cards: {len\\(cards\\)}''\\); print\\(f''Last ID: {cards[-1][\"\"id\"\"] if cards else 0}''\\); print\\(f''Materias: {set\\(c[\"\"materia\"\"] for c in cards\\)}''\\)\")",
       "Bash(python:*)",
       "Bash(git -C \"C:\\\\Users\\\\Usuario-pc\\\\Desktop\\\\Aplicativo Uni9\\\\meduni9-app\" ls-files conteudos/)",
-      "Bash(firebase deploy:*)"
+      "Bash(firebase deploy:*)",
+      "Skill(schedule)",
+      "Bash(cat \"/c/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/prompts/\"*)",
+      "Bash(where claude:*)",
+      "Bash(schtasks:*)",
+      "Bash(powershell.exe:*)"
     ]
   }
 }

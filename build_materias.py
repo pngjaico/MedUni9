@@ -1,212 +1,152 @@
 import json
 import os
+import re
+import shutil
 
-materias = {
-  "bmf1": {
-    "nome": "Bases Morfofuncionais 1",
-    "sigla": "BMF1",
-    "modulo": 1, "ativo": True,
-    "icon": "🦴", "cor": "#E85D75",
-    "descricao": "Anatomia e Histologia do Sistema Locomotor",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Tópicos de BMF1", "descricao": "Conforme Plano de Ensino Oficial 2026.1"}]}]
-  },
-  "sus": {
-    "nome": "Princípios e Diretrizes do SUS",
-    "sigla": "SUS",
-    "modulo": 1, "ativo": True,
-    "icon": "🏥", "cor": "#6366F1",
-    "descricao": "Política de Saúde, Antecedentes Históricos e PNAB",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Tópicos SUS", "descricao": "Conforme Plano de Ensino Oficial 2026.1"}]}]
-  },
-  "semio1": {
-    "nome": "Semiologia do Sistema Musculoesquelético",
-    "sigla": "SEMIO1",
-    "modulo": 1, "ativo": True,
-    "icon": "🩺", "cor": "#C0392B",
-    "descricao": "Anamnese e Exame do Aparelho Locomotor",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Semiologia Musculoesquelética", "descricao": "Conforme Plano de Ensino Oficial 2026.1"}]}]
-  },
-  "pmh": {
-    "nome": "Processos Metabólicos Humanos",
-    "sigla": "PMH",
-    "modulo": 1, "ativo": True,
-    "icon": "📋", "cor": "#8B5CF6",
-    "descricao": "Análise dos Processos Metabólicos e Proteínas",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Metabolismo Humano", "descricao": "Conforme Plano de Ensino Oficial 2026.1"}]}]
-  },
-  "pe1": {
-    "nome": "Prática Extensionista 1",
-    "sigla": "PE1",
-    "modulo": 1, "ativo": True,
-    "icon": "🤝", "cor": "#10B981",
-    "descricao": "Higiene, Alimentação, Combate ao Tabagismo",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Projetos de Comunidade", "descricao": "Prevenção e promoção da saúde"}]}]
-  },
-  
-  "ind": {
-    "nome": "Indicadores de Saúde, Epidemiologia e Bioestatística",
-    "sigla": "IND",
-    "modulo": 2, "ativo": True,
-    "icon": "📊", "cor": "#059669",
-    "descricao": "Vigilância, Indicadores de Morbimortalidade",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Indicadores", "descricao": "Epidemiologia e Bioestatística básica"}]}]
-  },
-  "bmf2": {
-    "nome": "Bases Morfofuncionais Módulo Cardio-Resp",
-    "sigla": "BMF2",
-    "modulo": 2, "ativo": True,
-    "icon": "❤️", "cor": "#EF4444",
-    "descricao": "Sistema Cardiorrespiratório Funcional",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "BMF2", "descricao": "Anatomia e Fisiologia Cardiorrespiratória"}]}]
-  },
-  "ds": {
-    "nome": "Dimensões Socioambientais",
-    "sigla": "DS",
-    "modulo": 2, "ativo": True,
-    "icon": "🌍", "cor": "#059669",
-    "descricao": "Análise de impacto sócio-ambiental e saúde",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Meio Ambiente e Sociedade", "descricao": "Tópicos de ecologia médica"}]}]
-  },
-  "semio2": {
-    "nome": "Semiologia do Aparelho Cardiocirculatório e Respiratório",
-    "sigla": "SEMIO2",
-    "modulo": 2, "ativo": True,
-    "icon": "🩺", "cor": "#C0392B",
-    "descricao": "Ausculta e exame físico cardiorrespiratório",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Cardio e Resp", "descricao": "Bases semiológicas cardiopulmonares"}]}]
-  },
-  "mad": {
-    "nome": "Mecanismos de Agressão e Defesa (Imunologia)",
-    "sigla": "MAD1",
-    "modulo": 2, "ativo": True,
-    "icon": "🛡️", "cor": "#F59E0B",
-    "descricao": "Imunologia e Agressões Biológicas",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Imunidade e Infeção", "descricao": "Tópicos imunitários"}]}]
-  },
-  "bcm": {
-    "nome": "Biologia Celular e Molecular",
-    "sigla": "BCM",
-    "modulo": 2, "ativo": True,
-    "icon": "🧬", "cor": "#4A90E2",
-    "descricao": "Dinâmica da Célula e Mecanismos Genéticos",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Célula e Genes", "descricao": "Divisão, Mutações e Genômica"}]}]
-  },
+ARQUIVO_ESTRUTURAS = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\conteudos\_para_categorizar\Planos de Ensino\planos_estruturados.json'
+ARQUIVO_SAIDA = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\data\materias.json'
+DIR_CONTEUDOS = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\conteudos\materiais'
 
-  "st": {
-    "nome": "Saúde do Trabalhador e Doenças Ocupacionais",
-    "sigla": "ST",
-    "modulo": 3, "ativo": True,
-    "icon": "💼", "cor": "#78716C",
-    "descricao": "Medicina Ocupacional e NR",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Medicina Ocupacional", "descricao": "Lesões por esforço e leis"}]}]
-  },
-  "pe3": {
-    "nome": "Prática Extensionista: Saúde Ocup. Atenção Básica",
-    "sigla": "PE3",
-    "modulo": 3, "ativo": True,
-    "icon": "🤝", "cor": "#10B981",
-    "descricao": "Prática com a comunidade",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Ações Locais", "descricao": "Trabalho na comunidade local"}]}]
-  },
-  "bmf3": {
-    "nome": "Bases Morfofuncionais 3",
-    "sigla": "BMF3",
-    "modulo": 3, "ativo": True,
-    "icon": "📍", "cor": "#3B82F6",
-    "descricao": "Bases do aparelho reprodutor e renal",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Renal e Urogenital", "descricao": "Anatomia Urogenital"}]}]
-  },
-  "mad2": {
-    "nome": "Mecanismos de Agressão e Defesa (Patologia)",
-    "sigla": "MAD2",
-    "modulo": 3, "ativo": True,
-    "icon": "🛡️", "cor": "#EF4444",
-    "descricao": "Patologia, Inflamação celular e Reparo",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Patologia Geral", "descricao": "Lesões e inflamação"}]}]
-  },
-  "fp3": {
-    "nome": "Processos Fisiopatológicos e Farmacoterapêuticos",
-    "sigla": "FP3",
-    "modulo": 3, "ativo": True,
-    "icon": "🧠", "cor": "#F97316",
-    "descricao": "Integração fármaco-doença",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Fisiopatologia", "descricao": "Fisiopatologia e medicamentos"}]}]
-  },
-  "semio3": {
-    "nome": "Semiologia dos Aparelhos Renal e Reprodutor",
-    "sigla": "SEMIO3",
-    "modulo": 3, "ativo": True,
-    "icon": "🩺", "cor": "#C0392B",
-    "descricao": "Exame urológico e reprodutivo",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Semio Renal", "descricao": "Sinais e sintomas nefrológicos"}]}]
-  },
-
-  "ff4": {
-    "nome": "PFF: Sistemas Neurossensorial e Endócrino",
-    "sigla": "FF4",
-    "modulo": 4, "ativo": True,
-    "icon": "💊", "cor": "#7C3AED",
-    "descricao": "Farmacoterapia e Fisiopatologia do sistema nervoso e endócrino",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Neurofarmacologia", "descricao": "Endocrinologia e SNC"}]}]
-  },
-  "pe4": {
-    "nome": "Prática Extensionista: Epidemiologia Comunitária",
-    "sigla": "PE4",
-    "modulo": 4, "ativo": True,
-    "icon": "🤝", "cor": "#10B981",
-    "descricao": "Impacto na Atenção Comunitária",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Impacto Epidemiológico", "descricao": "Ação em saúde pública"}]}]
-  },
-  "bioe": {
-    "nome": "Bioestatística e Estudos em Saúde",
-    "sigla": "BIOE",
-    "modulo": 4, "ativo": True,
-    "icon": "📈", "cor": "#0EA5E9",
-    "descricao": "Métodos estatísticos na evidência médica",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Bioestatística", "descricao": "Estatísticas em saúde"}]}]
-  },
-  "bmf4": {
-    "nome": "Bases Morfofuncionais 4 (SNC)",
-    "sigla": "BMF4",
-    "modulo": 4, "ativo": True,
-    "icon": "🧠", "cor": "#D946EF",
-    "descricao": "Neuroanatomia e Neurofisiologia",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "SNC", "descricao": "Placa neural, trato nervoso, encéfalo"}]}]
-  },
-  "semio4": {
-    "nome": "Semiologia Neurológica e Síndromes Clínicas",
-    "sigla": "SEMIO4",
-    "modulo": 4, "ativo": True,
-    "icon": "🩺", "cor": "#C0392B",
-    "descricao": "Semiologia Prática Neurológica",
-    "professores": [], "totalCards": 0, "totalQuestoes": 0,
-    "modulos": [{"nome": "Módulo 1", "temas": [{"id": "t1", "nome": "Exame Neuro", "descricao": "Síndromes e achados clínicos"}]}]
-  }
+ICONES_PADRAO = {
+    'BMF': '🏥', 'PMH': '🧬', 'BCM': '🔬', 'MAD': '🦠',
+    'SEMIO': '🩺', 'SUS': '🏥', 'PE': '🤝', 'EB': '📊',
+    'PFARMA': '💊', 'MFC': '👨‍👩‍👧', 'CIRURGIA': '🔪',
+    'CLINICA': '🥼', 'TCAR': '✂️', 'TRABALHO': '💼',
+    'DIMENSOES': '🌍', 'DEFAULT': '📘'
+}
+CORES_PADRAO = {
+    'BMF': '#E85D75', 'PMH': '#8B5CF6', 'BCM': '#3B82F6', 'MAD': '#EF4444',
+    'SEMIO': '#C0392B', 'SUS': '#6366F1', 'PE': '#10B981', 'EB': '#F59E0B',
+    'PFARMA': '#D946EF', 'MFC': '#14B8A6', 'CIRURGIA': '#DC2626',
+    'CLINICA': '#0EA5E9', 'TCAR': '#F97316', 'TRABALHO': '#84CC16',
+    'DIMENSOES': '#06B6D4', 'DEFAULT': '#64748B'
 }
 
-target = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\data\materias.json'
-with open(target, 'w', encoding='utf-8') as f:
-    json.dump(materias, f, ensure_ascii=False, indent=2)
+def inferir_dados_aula(nome_arquivo):
+    nome = nome_arquivo.upper()
+    if 'AMANDA' in nome or 'ATIVIDADE' in nome: return 'IGNORE', 'IGNORE'
+    if 'BMF1' in nome or 'MORFOFUNCIONAIS' in nome and '1' in nome: return 'bmf1', 'Bases Morfofuncionais 1'
+    if 'BMF' in nome and '2' in nome or 'CARDIO' in nome: return 'bmf2', 'Bases Morfofuncionais 2'
+    if 'BMF' in nome and ('3' in nome or 'DIGEST' in nome): return 'bmf3', 'Bases Morfofuncionais 3'
+    if 'BMF4' in nome or ('NEUROSSENSORIAL' in nome and 'MORFO' in nome): return 'bmf4', 'Bases Morfofuncionais 4'
+    if 'BIOLOGIA CELULAR' in nome or 'BCM' in nome: return 'bcm1', 'Biologia Celular e Molecular'
+    if 'METABOLICOS' in nome or 'METABÓLICOS' in nome: return 'pmh', 'Processos Metabólicos Humanos'
+    if 'MAD' in nome or 'AGRESS' in nome: return 'mad1', 'Mecanismos de Agressão e Defesa'
+    
+    if 'SUS' in nome or 'DIRETRIZES' in nome: return 'sus', 'Princípios e Diretrizes do SUS'
+    if 'DIMENS' in nome or 'SOCIOAMBIENTAIS' in nome: return 'ds', 'Dimensões Socioambientais'
+    if 'EPIDEMIOLOGIA' in nome and 'INDICADORES' in nome: return 'indicadores', 'Epidemiologia e Bioestatística'
+    if 'BIOESTAT' in nome and 'ESTUDOS' in nome: return 'bioe', 'Bioestatística e Estudos em Saúde'
+    
+    if 'TRABALHO' in nome or 'TRABALHADOR' in nome: return 'st', 'Saúde do Trabalhador e Ocupacional'
+    if 'PROJETO EXTENSIONISTA' in nome:
+        if 'OCUPACIONAL' in nome: return 'pe3', 'Projeto Extensionista 3'
+        if 'IMPACTO' in nome: return 'pe4', 'Projeto Extensionista 4'
+        if 'ALIMENTACAO' in nome or '1' in nome: return 'pe1', 'Projeto Extensionista 1'
+        return 'pe2', 'Projeto Extensionista'
+    
+    if 'SEMIOLOGIA' in nome:
+        if 'MUSCULOESQUELE' in nome: return 'semiologia1', 'Semiologia Musculoesquelética'
+        if 'CARDIO' in nome or 'RESPIRATO' in nome: return 'semiologia2', 'Semiologia Cardiorespiratória'
+        if 'RENAL' in nome or 'REPRODUTOR' in nome: return 'semiologia3', 'Semiologia Renal e Reprodutor'
+        if 'NEURO' in nome: return 'semiologia4', 'Semiologia Neurológica'
+        return 'semiologia', 'Semiologia Prática'
 
-print('materias.json atualizado.')
+    if 'FISIOPATOLOGICOS' in nome or 'FARMACOTERAPEUTICOS' in nome or 'FARMACOTERAPÊUTICOS' in nome:
+        if 'NEURO' in nome: return 'ff4', 'Fisiopatologia e Farmaco 4 (Neuro)'
+        return 'fisiopato3', 'Processos Fisiopatológicos'
+
+    if 'FAMILIA' in nome or 'FAMÍLIA' in nome: return 'mfc', 'Medicina de Família e Comunidade'
+    if 'CIRURGICA' in nome or 'CIRÚRGICA' in nome or 'ORTOPEDIA' in nome: return 'cirurgia', 'Clínica Cirúrgica e Ortopedia'
+    if 'MÉDICA' in nome or 'MEDICA' in nome: return 'clinica', 'Clínica Médica'
+    if 'OPERATORIA' in nome or 'OPERATÓRIA' in nome: return 'tcar', 'Técnica Operatória'
+    
+    # Fallback
+    m = re.search(r'([A-Za-z]+)', nome)
+    sigla = m.group(1)[:7].lower() if m else "gen"
+    return sigla, nome_arquivo.replace('.pdf','').title()[:50]
+
+def build():
+    with open(ARQUIVO_ESTRUTURAS, 'r', encoding='utf-8') as f:
+        estruturas = json.load(f)
+
+    banco_app = {}
+
+    for mod, planos in estruturas.items():
+        # Pegar o numero do modulo usando regex "Modulo X"
+        match_mod = re.search(r'\d+', mod)
+        num_modulo = int(match_mod.group(0)) if match_mod else 0
+        
+        # Gerar pasta fisica do modulo
+        dir_mod = os.path.join(DIR_CONTEUDOS, f"modulo{num_modulo}")
+        os.makedirs(dir_mod, exist_ok=True)
+
+        for nome_pdf, data in planos.items():
+            sigla, titulo = inferir_dados_aula(nome_pdf)
+            if sigla == 'IGNORE':
+                continue
+            sigla_lower = sigla.lower()
+            
+            # Icones e Cores
+            sigla_base = re.sub(r'[0-9]+', '', sigla) # ex: BMF2 -> BMF
+            icone = ICONES_PADRAO.get(sigla_base, ICONES_PADRAO['DEFAULT'])
+            cor = CORES_PADRAO.get(sigla_base, CORES_PADRAO['DEFAULT'])
+
+            # Criar pasta fisica da disciplina
+            dir_disc = os.path.join(dir_mod, sigla_lower)
+            os.makedirs(dir_disc, exist_ok=True)
+            
+            readme_path = os.path.join(dir_disc, 'README_INSTRUCOES.md')
+            if not os.path.exists(readme_path):
+                with open(readme_path, 'w', encoding='utf-8') as fmd:
+                    fmd.write(f"# {titulo}\n\nEste diretório contém os materiais e flashcards para {sigla}.")
+
+            aulas_db = []
+            aulas_extraidas = data.get('aulas_estimadas', [])
+            
+            # Fallback se array de aulas estiver vazio (algumas metodologias vazias)
+            if not aulas_extraidas:
+                aulas_db.append({
+                    "id": f"{sigla_lower}_a1",
+                    "tema": "Aulas Introdutórias e Generalidades",
+                    "descricao": "Nenhum tópico estruturado detectado no PDF da matéria."
+                })
+            else:
+                for idx, aula in enumerate(aulas_extraidas):
+                    aulas_db.append({
+                        "id": f"{sigla_lower}_a{idx+1}",
+                        "tema": f"Aula {idx+1}: {aula.get('tema', 'Tema_Generico')}",
+                        "descricao": aula.get('objetivo', 'Objetivo não fornecido')[:200]
+                    })
+
+            # Montando a entidade para o JSON
+            banco_app[sigla_lower] = {
+                "nome": titulo,
+                "sigla": sigla,
+                "modulo": num_modulo,
+                "ativo": True,
+                "icon": icone,
+                "cor": cor,
+                "descricao": data.get('ementa', titulo)[:80] + "...",
+                "professores": [],
+                "totalCards": 0,
+                "totalQuestoes": 0,
+                "modulos": [
+                    {
+                        "nome": f"Módulo {num_modulo}",
+                        "temas": aulas_db  # Mantemos a label interna `temas` pro UI não crachar, mas populamos com `Aulas`
+                    }
+                ]
+            }
+            
+            print(f"✅ Injetado: {sigla} - {len(aulas_db)} Aulas Geradas - Pasta Criada")
+
+    # Escreve o banco final sobreescrevendo o antigo
+    with open(ARQUIVO_SAIDA, 'w', encoding='utf-8') as f:
+        json.dump(banco_app, f, ensure_ascii=False, indent=2)
+
+    print(f"\n📂 Matérias Database reconstruído com sucesso em: {ARQUIVO_SAIDA}")
+
+if __name__ == '__main__':
+    print("Sincronizando Sistema de Ensino Oficial com o App...\n")
+    build()

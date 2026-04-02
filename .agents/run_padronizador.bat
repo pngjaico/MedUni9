@@ -1,0 +1,3 @@
+@echo off
+cd /d "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app"
+"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow '.agents/workflows/padronizador_arquivos.md'. Foco em conteudos/_para_categorizar/lotes_extraidos/. Renomeie arquivos que contenham acentos, cedilha ou espacos no nome para o padrao sem acentos lowercase com hifens (ex: 'saude_do_trabalhador' sem acento). Use Python os.rename ou PowerShell Rename-Item. Liste todas as renomeacoes no log. Escreva data/agent_logs/status_padronizador.json ao final. Faca git commit + push." >> ".agents\logs\padronizador_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
