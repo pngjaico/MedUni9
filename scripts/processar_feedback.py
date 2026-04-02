@@ -1,6 +1,6 @@
 """
-processar_feedback.py — MedUni9 Feedback Processor
-Puxa feedback do Firestore → salva em data/feedback/incoming/ → deleta do Firestore
+processar_feedback.py — MedUni9 Feedback Collector
+Puxa feedback do Firestore → salva bruto em arquivos individuais em data/feedback/incoming/ → deleta do Firestore
 
 Dependências:
   pip install firebase-admin
@@ -101,27 +101,20 @@ def main():
         data["_id"] = doc.id
         feedbacks.append(data)
 
-    # Salva em arquivo datado
-    today = datetime.now().strftime("%Y-%m-%d")
-    out_file = INCOMING_DIR / f"fb_{today}.json"
+    # Salva cada feedback em arquivo individual para permitir aprovação/negação granular no admin
+    novos = []
+    for fb in feedbacks:
+        fb_id = str(fb.get("_id") or "").strip()
+        if not fb_id:
+            continue
+        out_file = INCOMING_DIR / f"fb_{datetime.now().strftime('%Y-%m-%d')}_{fb_id}.json"
+        if out_file.exists():
+            continue
+        with open(out_file, "w", encoding="utf-8") as f:
+            json.dump(fb, f, ensure_ascii=False, indent=2)
+        novos.append(out_file.name)
 
-    # Se já existe um arquivo de hoje, mescla sem duplicar
-    existing = []
-    if out_file.exists():
-        try:
-            with open(out_file, "r", encoding="utf-8") as f:
-                existing = json.load(f)
-        except Exception:
-            existing = []
-
-    existing_ids = {fb.get("_id") for fb in existing}
-    novos = [fb for fb in feedbacks if fb.get("_id") not in existing_ids]
-    combined = existing + novos
-
-    with open(out_file, "w", encoding="utf-8") as f:
-        json.dump(combined, f, ensure_ascii=False, indent=2)
-
-    log_action(status_data, "ok", f"{len(novos)} novo(s) feedback(s) salvo(s) em {out_file.name}")
+    log_action(status_data, "ok", f"{len(novos)} novo(s) feedback(s) salvo(s) em arquivos individuais")
     status_data["feedbacks_processados"] = len(novos)
 
     # Deleta documentos processados do Firestore (limpa para próximo ciclo)
@@ -140,7 +133,7 @@ def main():
         log_action(status_data, "warn", f"{errors} erro(s) ao deletar documentos")
         status_data["status"] = "warn"
 
-    status_data["observacoes"] = f"{len(novos)} feedbacks salvos em {out_file.name}"
+    status_data["observacoes"] = f"{len(novos)} feedbacks brutos salvos em incoming/."
     salvar_status(status_data)
     print(f"\n✅ processar_feedback.py concluído — {len(novos)} feedbacks processados")
 

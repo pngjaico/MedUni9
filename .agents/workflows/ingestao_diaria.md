@@ -38,8 +38,8 @@ Confirme antes que o arquivo existe com `Glob` ou `Read`.
 
 Se houver novos **planos de ensino** ou PDFs de disciplinas BMF (BMF1, BMF2, BMF3, BMF4):
 
-1. Leia `build_materias.py` com `Read` para confirmar que não vai sobrescrever dados do usuário.
-2. Se seguro, rode: `python build_materias.py`
+1. Leia `scripts/build_materias.py` com `Read` para confirmar que não vai sobrescrever dados do usuário.
+2. Se seguro, rode: `python scripts/build_materias.py`
 
 ## Passo 5 — Relatório
 

@@ -128,7 +128,7 @@ Documento oficial de cada disciplina que contém:
 
 1. **Extração**: PDFs são analisados e estruturados em JSON
 2. **Normalização**: Nomes de disciplina são capturados do campo "disciplina" do JSON
-3. **Construção**: `build_materias.py` transforma `planos_estruturados.json` em `data/materias.json`
+3. **Construção**: `scripts/build_materias.py` transforma `planos_estruturados.json` em `data/materias.json`
 4. **Formatação**: Nomes são normalizados com capitalização correta e acentuação
 5. **Módulos**: Reatribuição de disciplinas para módulos 1-6 (excluindo 5)
 
@@ -142,7 +142,7 @@ Documento oficial de cada disciplina que contém:
 |---------|-------------|-----------|
 | `data/materias.json` | `/data/` | Banco de dados de disciplinas, aulas e temas para o app |
 | `planos_estruturados.json` | `/conteudos/_para_categorizar/Planos de Ensino/` | Dados brutos extraídos dos PDFs |
-| `build_materias.py` | `/` | Script Python que gera `materias.json` |
+| `scripts/build_materias.py` | `/scripts/` | Script Python que gera `materias.json` |
 | `data/questoes.json` | `/data/` | Banco de questões de estudo |
 | `data/flashcards.json` | `/data/` | Flashcards por disciplina |
 
@@ -155,7 +155,7 @@ PDFs de Planos de Ensino
         ↓
 planos_estruturados.json
         ↓
-build_materias.py (Python)
+scripts/build_materias.py (Python)
         ↓
 data/materias.json
         ↓
@@ -199,7 +199,7 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ### 2. **Para atualizar disciplinas**
    - Modifique `conteudos/_para_categorizar/Planos de Ensino/planos_estruturados.json`
-   - Rode: `python build_materias.py`
+        - Rode: `python scripts/build_materias.py`
    - Verifique `data/materias.json`
    - Commit e push: `git add . && git commit -m "Msg" && git push`
    - Deploy: `firebase deploy --only hosting`
@@ -223,11 +223,11 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 **P: Disciplina aparece no módulo errado?**
 - R: Verifique `planos_estruturados.json` → chave de módulo (ex: "Modulo 3")
-- Se necessário ajustar, rode `build_materias.py` que ressa tribui mod 5 → 6
+- Se necessário ajustar, rode `scripts/build_materias.py` que redistribui mod 5 → 6
 
 **P: Nome da disciplina está com formatação errada?**
 - R: Verifique campo "disciplina" em `planos_estruturados.json`
-- Atualize `ACENTUACAO_MAP` em `build_materias.py` se necessário
+- Atualize `ACENTUACAO_MAP` em `scripts/build_materias.py` se necessário
 
 **P: Aulas não aparecem?**
 - R: Verifique se `aulas_estimadas` está populado no JSON de planos

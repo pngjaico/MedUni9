@@ -2,7 +2,9 @@
  * MedUni9 — Servidor Admin Local
  * node server.js → http://localhost:3001/admin.html
  * Endpoints: /api/ping /api/data/:file /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
- *            /api/feedback/requests /api/feedback/approve/:id /api/feedback/deny/:id /api/feedback/incoming
+ *            /api/feedback/raw-pending /api/feedback/raw-approved /api/feedback/plans
+ *            /api/feedback/raw/approve/:id /api/feedback/raw/deny/:id
+ *            /api/feedback/plan/approve/:id /api/feedback/plan/deny/:id
  */
 const http = require('http');
 const fs   = require('fs');
@@ -12,6 +14,14 @@ const url  = require('url');
 
 const PORT = 3001;
 const ROOT = __dirname;
+
+const FEEDBACK_ROOT         = path.join(ROOT, 'data', 'feedback');
+const FEEDBACK_INCOMING_DIR = path.join(FEEDBACK_ROOT, 'incoming');
+const FEEDBACK_APPROVED_DIR = path.join(FEEDBACK_ROOT, 'approved');
+const FEEDBACK_DENIED_DIR   = path.join(FEEDBACK_ROOT, 'denied');
+const FEEDBACK_PROCESSED_DIR= path.join(FEEDBACK_ROOT, 'processed');
+const FEEDBACK_PLANS_DIR    = path.join(FEEDBACK_ROOT, 'plans');
+const FEEDBACK_ARCHIVED_DIR = path.join(FEEDBACK_ROOT, 'archived');
 
 const MIME = {
   '.html': 'text/html; charset=utf-8',
@@ -25,6 +35,9 @@ const MIME = {
   '.webmanifest': 'application/manifest+json',
   '.txt':  'text/plain',
 };
+
+[FEEDBACK_ROOT, FEEDBACK_INCOMING_DIR, FEEDBACK_APPROVED_DIR, FEEDBACK_DENIED_DIR, FEEDBACK_PROCESSED_DIR, FEEDBACK_PLANS_DIR, FEEDBACK_ARCHIVED_DIR]
+  .forEach(dir => fs.mkdirSync(dir, { recursive: true }));
 
 function cors(res) {
   res.setHeader('Access-Control-Allow-Origin', '*');
@@ -49,7 +62,104 @@ function readBody(req) {
 // Allowed data files (whitelist)
 const ALLOWED = ['materias', 'codigos', 'flashcards', 'questoes', 'questoes_antigas', 'questoes_ineditas',
                  'agent_logs/status_curadoria', 'agent_logs/status_ingestao', 'agent_logs/status_deploy',
-                 'agent_logs/status_feedback'];
+                 'agent_logs/status_feedback', 'agent_logs/status_feedback_planos'];
+
+function safeReadJson(filePath, fallback = null) {
+  try { return JSON.parse(fs.readFileSync(filePath, 'utf8')); }
+  catch { return fallback; }
+}
+
+function safeWriteJson(filePath, data) {
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+}
+
+function listJsonFiles(dir) {
+  if (!fs.existsSync(dir)) return [];
+  return fs.readdirSync(dir)
+    .filter(name => name.endsWith('.json') && !name.startsWith('.'))
+    .map(name => path.join(dir, name));
+}
+
+function sortByCreatedDesc(a, b) {
+  return new Date(b.criadoEm || 0) - new Date(a.criadoEm || 0);
+}
+
+function sanitizeId(value) {
+  return String(value || Date.now()).replace(/[^a-zA-Z0-9_\-]/g, '_');
+}
+
+function stripSourceMeta(item) {
+  const { __sourceFile, __sourceType, __sourceIndex, ...clean } = item;
+  return clean;
+}
+
+function loadRawFeedbackPending() {
+  const feedbacks = [];
+  listJsonFiles(FEEDBACK_INCOMING_DIR).forEach(filePath => {
+    const data = safeReadJson(filePath, null);
+    if (!data) return;
+    if (Array.isArray(data)) {
+      data.forEach((item, index) => feedbacks.push({ ...item, __sourceFile: filePath, __sourceType: 'array', __sourceIndex: index }));
+      return;
+    }
+    feedbacks.push({ ...data, __sourceFile: filePath, __sourceType: 'object' });
+  });
+  return feedbacks.sort(sortByCreatedDesc);
+}
+
+function findRawFeedbackById(feedbackId) {
+  return loadRawFeedbackPending().find(item => String(item._id) === String(feedbackId));
+}
+
+function removeRawFeedbackFromIncoming(entry) {
+  if (!entry || !entry.__sourceFile || !fs.existsSync(entry.__sourceFile)) return;
+  const current = safeReadJson(entry.__sourceFile, null);
+  if (Array.isArray(current)) {
+    const next = current.filter(item => String(item._id) !== String(entry._id));
+    if (next.length === 0) fs.unlinkSync(entry.__sourceFile);
+    else safeWriteJson(entry.__sourceFile, next);
+    return;
+  }
+  fs.unlinkSync(entry.__sourceFile);
+}
+
+function moveRawFeedback(feedbackId, targetDir, newStatus) {
+  const entry = findRawFeedbackById(feedbackId);
+  if (!entry) return null;
+
+  const moved = {
+    ...stripSourceMeta(entry),
+    status: newStatus,
+    decididoEm: new Date().toISOString()
+  };
+
+  safeWriteJson(path.join(targetDir, `fb_${sanitizeId(moved._id)}.json`), moved);
+  removeRawFeedbackFromIncoming(entry);
+  return moved;
+}
+
+function loadJsonObjects(dir) {
+  return listJsonFiles(dir)
+    .map(filePath => safeReadJson(filePath, null))
+    .filter(Boolean)
+    .sort(sortByCreatedDesc);
+}
+
+function movePlan(planId, finalStatus, notaAdmin) {
+  const srcFile = path.join(FEEDBACK_PLANS_DIR, `${planId}.json`);
+  if (!fs.existsSync(srcFile)) return null;
+  const data = safeReadJson(srcFile, null);
+  if (!data) return null;
+
+  data.status = finalStatus;
+  data.resolvidoEm = new Date().toISOString();
+  if (notaAdmin) data.notaAdmin = notaAdmin;
+
+  safeWriteJson(path.join(FEEDBACK_ARCHIVED_DIR, `${planId}.json`), data);
+  fs.unlinkSync(srcFile);
+  return data;
+}
 
 const server = http.createServer(async (req, res) => {
   const parsed   = url.parse(req.url, true);
@@ -129,6 +239,7 @@ const server = http.createServer(async (req, res) => {
       const { message = 'chore: update via admin panel' } = JSON.parse(body || '{}');
       const safe = message.replace(/"/g, "'").substring(0, 200);
       execSync('git add data/ admin.html', { cwd: ROOT });
+      execSync('git restore --staged data/feedback data/agent_logs/status_feedback.json data/agent_logs/status_feedback_planos.json', { cwd: ROOT });
       execSync(`git commit -m "${safe}"`, { cwd: ROOT });
       execSync('git push', { cwd: ROOT });
       const hash = execSync('git rev-parse --short HEAD', { cwd: ROOT, encoding: 'utf8' }).trim();
@@ -157,84 +268,87 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  // ── GET /api/feedback/requests ────────────────────────────────────────────
-  // Returns all pending request JSON files from data/feedback/requests/
-  if (req.method === 'GET' && pathname === '/api/feedback/requests') {
-    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
+  // ── GET /api/feedback/raw-pending ─────────────────────────────────────────
+  if (req.method === 'GET' && pathname === '/api/feedback/raw-pending') {
     try {
-      const files = fs.readdirSync(reqDir).filter(f => f.endsWith('.json') && !f.startsWith('.'));
-      const requests = files.map(f => {
-        try { return JSON.parse(fs.readFileSync(path.join(reqDir, f), 'utf8')); }
-        catch { return null; }
-      }).filter(Boolean).filter(r => r.status === 'pendente');
-      requests.sort((a, b) => {
-        const pri = { alta: 0, media: 1, baixa: 2 };
-        return (pri[a.prioridade] ?? 3) - (pri[b.prioridade] ?? 3);
-      });
-      json(res, 200, { ok: true, requests });
+      const feedbacks = loadRawFeedbackPending().map(stripSourceMeta);
+      json(res, 200, { ok: true, feedbacks });
     } catch (e) { json(res, 500, { error: e.message }); }
     return;
   }
 
-  // ── GET /api/feedback/incoming ────────────────────────────────────────────
-  // Returns all raw incoming feedback files merged into one array
-  if (req.method === 'GET' && pathname === '/api/feedback/incoming') {
-    const inDir = path.join(ROOT, 'data', 'feedback', 'incoming');
+  // Compat route (old admin builds)
+  if (req.method === 'GET' && (pathname === '/api/feedback/requests' || pathname === '/api/feedback/incoming')) {
     try {
-      const files = fs.readdirSync(inDir).filter(f => f.endsWith('.json') && !f.startsWith('.'));
-      const all = [];
-      files.forEach(f => {
-        try {
-          const data = JSON.parse(fs.readFileSync(path.join(inDir, f), 'utf8'));
-          if (Array.isArray(data)) all.push(...data);
-        } catch {}
-      });
-      all.sort((a, b) => new Date(b.criadoEm || 0) - new Date(a.criadoEm || 0));
-      json(res, 200, { ok: true, feedbacks: all });
+      const feedbacks = loadRawFeedbackPending().map(stripSourceMeta);
+      json(res, 200, { ok: true, requests: feedbacks, feedbacks });
     } catch (e) { json(res, 500, { error: e.message }); }
     return;
   }
 
-  // ── POST /api/feedback/approve/:id ────────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/approve/')) {
-    const id  = pathname.replace('/api/feedback/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
-    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
-    const arcDir = path.join(ROOT, 'data', 'feedback', 'archived');
-    fs.mkdirSync(arcDir, { recursive: true });
-    const fileName = `${id}.json`;
-    const srcFile  = path.join(reqDir, fileName);
-    if (!fs.existsSync(srcFile)) return json(res, 404, { error: 'Request não encontrado' });
+  // ── GET /api/feedback/raw-approved ────────────────────────────────────────
+  if (req.method === 'GET' && pathname === '/api/feedback/raw-approved') {
     try {
-      const data = JSON.parse(fs.readFileSync(srcFile, 'utf8'));
-      data.status = 'aprovado';
-      data.resolvidoEm = new Date().toISOString();
+      json(res, 200, { ok: true, feedbacks: loadJsonObjects(FEEDBACK_APPROVED_DIR) });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── GET /api/feedback/plans ───────────────────────────────────────────────
+  if (req.method === 'GET' && pathname === '/api/feedback/plans') {
+    try {
+      const plans = loadJsonObjects(FEEDBACK_PLANS_DIR).filter(item => item.status === 'pendente');
+      json(res, 200, { ok: true, plans });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── POST /api/feedback/raw/approve/:id ────────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/approve/')) {
+    const id = pathname.replace('/api/feedback/raw/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
+    try {
+      const moved = moveRawFeedback(id, FEEDBACK_APPROVED_DIR, 'bruto_aprovado');
+      if (!moved) return json(res, 404, { error: 'Feedback bruto não encontrado' });
+      json(res, 200, { ok: true, feedback: moved });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── POST /api/feedback/raw/deny/:id ───────────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/deny/')) {
+    const id = pathname.replace('/api/feedback/raw/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
+    try {
+      const moved = moveRawFeedback(id, FEEDBACK_DENIED_DIR, 'bruto_negado');
+      if (!moved) return json(res, 404, { error: 'Feedback bruto não encontrado' });
+      json(res, 200, { ok: true, feedback: moved });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── POST /api/feedback/plan/approve/:id ───────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/approve/')) {
+    const id = pathname.replace('/api/feedback/plan/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
+    try {
       const body = await readBody(req);
-      if (body) { try { const b = JSON.parse(body); if (b.nota) data.notaAdmin = b.nota; } catch {} }
-      fs.writeFileSync(path.join(arcDir, fileName), JSON.stringify(data, null, 2), 'utf8');
-      fs.unlinkSync(srcFile);
-      json(res, 200, { ok: true });
+      let nota = null;
+      if (body) { try { nota = JSON.parse(body).nota || null; } catch {} }
+      const moved = movePlan(id, 'plano_aprovado', nota);
+      if (!moved) return json(res, 404, { error: 'Plano não encontrado' });
+      json(res, 200, { ok: true, plan: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
     return;
   }
 
-  // ── POST /api/feedback/deny/:id ───────────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/deny/')) {
-    const id  = pathname.replace('/api/feedback/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
-    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
-    const arcDir = path.join(ROOT, 'data', 'feedback', 'archived');
-    fs.mkdirSync(arcDir, { recursive: true });
-    const fileName = `${id}.json`;
-    const srcFile  = path.join(reqDir, fileName);
-    if (!fs.existsSync(srcFile)) return json(res, 404, { error: 'Request não encontrado' });
+  // ── POST /api/feedback/plan/deny/:id ──────────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/deny/')) {
+    const id = pathname.replace('/api/feedback/plan/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
     try {
-      const data = JSON.parse(fs.readFileSync(srcFile, 'utf8'));
-      data.status = 'negado';
-      data.resolvidoEm = new Date().toISOString();
       const body = await readBody(req);
-      if (body) { try { const b = JSON.parse(body); if (b.nota) data.notaAdmin = b.nota; } catch {} }
-      fs.writeFileSync(path.join(arcDir, fileName), JSON.stringify(data, null, 2), 'utf8');
-      fs.unlinkSync(srcFile);
-      json(res, 200, { ok: true });
+      let nota = null;
+      if (body) { try { nota = JSON.parse(body).nota || null; } catch {} }
+      const moved = movePlan(id, 'plano_negado', nota);
+      if (!moved) return json(res, 404, { error: 'Plano não encontrado' });
+      json(res, 200, { ok: true, plan: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
     return;
   }

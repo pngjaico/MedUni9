@@ -1,5 +1,14 @@
 conteudos/
 node_modules/
+.firebase/
+
+# Runtime artifacts from local agents/pipelines
+.agents/logs/
+data/agent_logs/prioridades_materiais.json
+data/agent_logs/status_feedback_planos.json
+data/feedback/archived/*.json
+data/feedback/plans/
+data/feedback/processed/
 
 # Firebase service account key (NEVER commit)
 .agents/firebase-sa-key.json

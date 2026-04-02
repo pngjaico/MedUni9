@@ -267,7 +267,18 @@
         .fb-request-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 10px; }
         .fb-request-action { font-size: 13px; color: var(--primary); background: rgba(0,180,216,0.08); border-radius: 8px; padding: 8px 12px; margin-bottom: 12px; }
         .fb-request-meta  { font-size: 11px; color: var(--text-secondary); margin-bottom: 12px; }
-        .fb-request-btns  { display: flex; gap: 8px; }
+        .fb-request-btns  { display: flex; gap: 8px; flex-wrap: wrap; }
+        .fb-stage-title   { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
+        .fb-stage-subtitle{ font-size: 12px; color: var(--text-secondary); margin-bottom: 16px; }
+        .fb-plan-actions  { margin: 10px 0 12px 0; display: flex; flex-direction: column; gap: 6px; }
+        .fb-plan-step {
+            background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 8px; padding: 8px 10px; font-size: 12px; color: var(--text-secondary);
+        }
+        .fb-empty {
+            text-align: center; color: var(--text-secondary); padding: 28px 0;
+            font-size: 14px;
+        }
         .fb-incoming-card {
             background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.07);
             border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; font-size: 13px;
@@ -585,19 +596,24 @@
                 <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
                     <div>
                         <h1>Feedback dos Usuários</h1>
-                        <p>Requests gerados pelo agente noturno a partir do feedback dos alunos</p>
+                        <p>Fluxo em duas etapas: primeiro você aprova o feedback bruto, depois aprova ou nega o plano de ação</p>
                     </div>
                     <button class="btn btn-ghost btn-sm" onclick="loadFeedbackSection()">↻ Atualizar</button>
                 </div>
 
                 <div class="stats-grid" id="feedback-stats"></div>
 
-                <div id="feedback-requests-list"></div>
+                <div class="panel">
+                    <div class="fb-stage-title">Etapa 1 — Feedback Bruto</div>
+                    <div class="fb-stage-subtitle">Aprovar aqui significa: este feedback merece gastar tokens e virar um plano de ação mais estruturado na madrugada.</div>
+                    <div id="feedback-raw-list"></div>
+                </div>
 
-                <details style="margin-top:24px;">
-                    <summary style="cursor:pointer;font-weight:600;color:var(--text-secondary);font-size:14px;">📥 Feedback Bruto dos Usuários (incoming)</summary>
-                    <div id="feedback-incoming-list" style="margin-top:12px;"></div>
-                </details>
+                <div class="panel">
+                    <div class="fb-stage-title">Etapa 2 — Planos de Ação</div>
+                    <div class="fb-stage-subtitle">Aqui você decide se o plano gerado merece execução ou se deve ser descartado.</div>
+                    <div id="feedback-plans-list"></div>
+                </div>
             </div>
 
             <!-- ===== AUTOMAÇÕES ===== -->
@@ -954,10 +970,15 @@
                 <div class="stat-card error"><div class="stat-label">Códigos Totais</div><div class="stat-value">${totalCodes}</div></div>
             `;
 
-            // Load feedback pending count (non-blocking)
-            fetch('/api/feedback/requests').then(r => r.json()).then(data => {
-                if (data.ok && data.requests && data.requests.length > 0) {
-                    const n = data.requests.length;
+            // Load feedback pending count (raw + plans) without blocking dashboard render
+            Promise.all([
+                fetch('/api/feedback/raw-pending').then(r => r.json()).catch(() => ({ ok: false })),
+                fetch('/api/feedback/plans').then(r => r.json()).catch(() => ({ ok: false }))
+            ]).then(([rawData, planData]) => {
+                const rawCount = rawData.ok && rawData.feedbacks ? rawData.feedbacks.length : 0;
+                const planCount = planData.ok && planData.plans ? planData.plans.length : 0;
+                const n = rawCount + planCount;
+                if (n > 0) {
                     const existing = document.getElementById('dashboardStats');
                     if (existing) {
                         existing.insertAdjacentHTML('beforeend',
@@ -1300,94 +1321,114 @@
         // ===================== FEEDBACK =====================
         async function loadFeedbackSection() {
             const statsEl    = document.getElementById('feedback-stats');
-            const listEl     = document.getElementById('feedback-requests-list');
-            const incomingEl = document.getElementById('feedback-incoming-list');
+            const rawEl      = document.getElementById('feedback-raw-list');
+            const plansEl    = document.getElementById('feedback-plans-list');
 
             statsEl.innerHTML = '<div class="stat-card"><div class="stat-label">Carregando...</div></div>';
-            listEl.innerHTML  = '';
-            incomingEl.innerHTML = '';
+            rawEl.innerHTML   = '';
+            plansEl.innerHTML = '';
 
-            // Load pending requests
-            let requests = [];
+            let rawFeedbacks = [];
+            let approvedRaw  = [];
+            let plans        = [];
+
             try {
-                const r = await fetch('/api/feedback/requests');
+                const r = await fetch('/api/feedback/raw-pending');
                 const data = await r.json();
-                if (data.ok) requests = data.requests || [];
+                if (data.ok) rawFeedbacks = data.feedbacks || [];
             } catch {}
 
-            // Load incoming feedback
-            let feedbacks = [];
             try {
-                const r = await fetch('/api/feedback/incoming');
+                const r = await fetch('/api/feedback/raw-approved');
                 const data = await r.json();
-                if (data.ok) feedbacks = data.feedbacks || [];
+                if (data.ok) approvedRaw = data.feedbacks || [];
             } catch {}
 
-            // Load feedback agent status
-            let fbStatus = null;
+            try {
+                const r = await fetch('/api/feedback/plans');
+                const data = await r.json();
+                if (data.ok) plans = data.plans || [];
+            } catch {}
+
+            let fbCollectStatus = null;
+            let fbPlanStatus = null;
             try {
                 const r = await fetch('data/agent_logs/status_feedback.json?_=' + Date.now());
-                if (r.ok) fbStatus = await r.json();
+                if (r.ok) fbCollectStatus = await r.json();
+            } catch {}
+            try {
+                const r = await fetch('data/agent_logs/status_feedback_planos.json?_=' + Date.now());
+                if (r.ok) fbPlanStatus = await r.json();
             } catch {}
 
-            const pendentes  = requests.length;
-            const alta       = requests.filter(r => r.prioridade === 'alta').length;
-            const totalIncoming = feedbacks.length;
+            const brutePending = rawFeedbacks.length;
+            const approvedWaitingPlan = approvedRaw.length;
+            const plansPending = plans.length;
 
             statsEl.innerHTML = `
-                <div class="stat-card ${pendentes > 0 ? 'warning' : 'success'}">
-                    <div class="stat-label">Requests Pendentes</div>
-                    <div class="stat-value">${pendentes}</div>
+                <div class="stat-card ${brutePending > 0 ? 'warning' : 'success'}">
+                    <div class="stat-label">Bruto Pendente</div>
+                    <div class="stat-value">${brutePending}</div>
                 </div>
-                <div class="stat-card ${alta > 0 ? 'error' : ''}">
-                    <div class="stat-label">Prioridade Alta</div>
-                    <div class="stat-value">${alta}</div>
+                <div class="stat-card ${approvedWaitingPlan > 0 ? 'warning' : ''}">
+                    <div class="stat-label">Aguardando Plano</div>
+                    <div class="stat-value">${approvedWaitingPlan}</div>
+                </div>
+                <div class="stat-card ${plansPending > 0 ? 'warning' : ''}">
+                    <div class="stat-label">Planos Pendentes</div>
+                    <div class="stat-value">${plansPending}</div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-label">Feedbacks Recebidos</div>
-                    <div class="stat-value">${totalIncoming}</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-label">Último Processamento</div>
-                    <div class="stat-value" style="font-size:14px">${fbStatus?.rodou_em || '—'}</div>
+                    <div class="stat-label">Últimas Rotinas</div>
+                    <div class="stat-value" style="font-size:13px">${fbCollectStatus?.rodou_em || '—'}<br>${fbPlanStatus?.rodou_em || '—'}</div>
                 </div>
             `;
 
-            // Render requests
-            if (requests.length === 0) {
-                listEl.innerHTML = '<div style="text-align:center;color:var(--text-secondary);padding:40px 0;">Nenhum request pendente. ✨</div>';
+            if (rawFeedbacks.length === 0) {
+                rawEl.innerHTML = '<div class="fb-empty">Nenhum feedback bruto aguardando sua decisão.</div>';
             } else {
-                listEl.innerHTML = requests.map(r => {
-                    const tipoEmoji = {'bug':'🐛','sugestao':'💡','conteudo':'📚','interface':'🎨'}[r.tipo_feedback] || '📋';
-                    const priBadge = `<span class="badge fb-badge-${r.prioridade || 'baixa'}">${(r.prioridade || 'baixa').toUpperCase()}</span>`;
-                    const discBadge = r.disciplina ? `<span class="badge badge-primary">${r.disciplina}</span>` : '';
+                rawEl.innerHTML = rawFeedbacks.map(r => {
+                    const tipoEmoji = {'bug':'🐛','sugestao':'💡','conteudo':'📚','interface':'🎨'}[r.tipo] || '📋';
+                    const tipoBadge = `<span class="badge badge-primary">${(r.tipo || 'feedback').toUpperCase()}</span>`;
+                    const discBadge = r.disciplina ? `<span class="badge badge-warning">${r.disciplina}</span>` : '';
                     return `<div class="fb-request-card">
                         <div class="fb-request-header">
-                            <div class="fb-request-title">${tipoEmoji} ${escHtml(r.titulo || 'Sem título')}</div>
-                            <div style="display:flex;gap:6px;">${priBadge}${discBadge}</div>
+                            <div class="fb-request-title">${tipoEmoji} ${escHtml(r.mensagem || 'Feedback sem mensagem')}</div>
+                            <div style="display:flex;gap:6px;">${tipoBadge}${discBadge}</div>
                         </div>
-                        <div class="fb-request-desc">${escHtml(r.descricao || '')}</div>
-                        ${r.acao_sugerida ? `<div class="fb-request-action">💡 <strong>Ação sugerida:</strong> ${escHtml(r.acao_sugerida)}</div>` : ''}
                         <div class="fb-request-meta">
-                            ID: ${r.id || '?'} · ${r.feedback_origem ? r.feedback_origem.length + ' feedback(s) origem' : ''} · ${r.criadoEm ? new Date(r.criadoEm).toLocaleString('pt-BR') : ''}
+                            ID: ${r._id || '?'} · ${r.criadoEm ? new Date(r.criadoEm).toLocaleString('pt-BR') : ''}
                         </div>
                         <div class="fb-request-btns">
-                            <button class="btn btn-sm btn-success" onclick="approveFeedback('${escHtml(r.id)}')">✅ Aprovar</button>
-                            <button class="btn btn-sm btn-danger"  onclick="denyFeedback('${escHtml(r.id)}')">❌ Negar</button>
+                            <button class="btn btn-sm btn-success" onclick="approveRawFeedback('${escHtml(r._id)}')">✅ Aprovar para plano</button>
+                            <button class="btn btn-sm btn-danger"  onclick="denyRawFeedback('${escHtml(r._id)}')">❌ Negar</button>
                         </div>
                     </div>`;
                 }).join('');
             }
 
-            // Render incoming feedbacks
-            if (feedbacks.length === 0) {
-                incomingEl.innerHTML = '<div style="text-align:center;color:var(--text-secondary);padding:20px 0;">Nenhum feedback bruto encontrado.</div>';
+            if (plans.length === 0) {
+                plansEl.innerHTML = '<div class="fb-empty">Nenhum plano de ação aguardando decisão.</div>';
             } else {
-                incomingEl.innerHTML = feedbacks.slice(0, 50).map(fb => {
-                    const tipoEmoji = {'bug':'🐛','sugestao':'💡','conteudo':'📚','interface':'🎨'}[fb.tipo] || '📋';
-                    return `<div class="fb-incoming-card">
-                        <div class="fb-tipo">${tipoEmoji} ${fb.tipo || '?'} ${fb.disciplina ? '· ' + fb.disciplina : ''} <span style="float:right;font-weight:400;color:var(--text-secondary)">${fb.criadoEm ? new Date(fb.criadoEm).toLocaleString('pt-BR') : ''}</span></div>
-                        <div class="fb-msg">${escHtml(fb.mensagem || '')}</div>
+                plansEl.innerHTML = plans.map(plan => {
+                    const impactBadge = `<span class="badge ${plan.impacto === 'alto' ? 'fb-badge-alta' : plan.impacto === 'medio' ? 'fb-badge-media' : 'fb-badge-baixa'}">${(plan.impacto || 'baixo').toUpperCase()}</span>`;
+                    const discBadge = plan.disciplina ? `<span class="badge badge-warning">${plan.disciplina}</span>` : '';
+                    return `<div class="fb-request-card">
+                        <div class="fb-request-header">
+                            <div class="fb-request-title">🧭 ${escHtml(plan.titulo || 'Plano sem título')}</div>
+                            <div style="display:flex;gap:6px;">${impactBadge}${discBadge}</div>
+                        </div>
+                        <div class="fb-request-desc">${escHtml(plan.resumo || '')}</div>
+                        <div class="fb-plan-actions">
+                            ${(plan.acoes || []).map((acao, index) => `<div class="fb-plan-step">${index + 1}. ${escHtml(acao)}</div>`).join('')}
+                        </div>
+                        <div class="fb-request-meta">
+                            Plano: ${plan.id || '?'} · Origem: ${plan.source_feedback_id || '?'} · ${plan.criadoEm ? new Date(plan.criadoEm).toLocaleString('pt-BR') : ''}
+                        </div>
+                        <div class="fb-request-btns">
+                            <button class="btn btn-sm btn-success" onclick="approveActionPlan('${escHtml(plan.id)}')">✅ Aprovar execução</button>
+                            <button class="btn btn-sm btn-danger"  onclick="denyActionPlan('${escHtml(plan.id)}')">❌ Negar plano</button>
+                        </div>
                     </div>`;
                 }).join('');
             }
@@ -1395,22 +1436,42 @@
 
         function escHtml(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
 
-        async function approveFeedback(id) {
-            if (!confirm('Aprovar este request?')) return;
+        async function approveRawFeedback(id) {
+            if (!confirm('Aprovar este feedback bruto para geração de plano?')) return;
             try {
-                const r = await fetch(`/api/feedback/approve/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const r = await fetch(`/api/feedback/raw/approve/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
                 const data = await r.json();
-                if (data.ok) { showToast('Request aprovado ✅'); loadFeedbackSection(); }
+                if (data.ok) { showToast('Feedback bruto aprovado para plano ✅'); loadFeedbackSection(); }
                 else showToast('Erro: ' + (data.error || 'desconhecido'), true);
             } catch (e) { showToast('Erro: ' + e.message, true); }
         }
 
-        async function denyFeedback(id) {
-            if (!confirm('Negar este request?')) return;
+        async function denyRawFeedback(id) {
+            if (!confirm('Negar este feedback bruto?')) return;
             try {
-                const r = await fetch(`/api/feedback/deny/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const r = await fetch(`/api/feedback/raw/deny/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
                 const data = await r.json();
-                if (data.ok) { showToast('Request negado ❌'); loadFeedbackSection(); }
+                if (data.ok) { showToast('Feedback bruto negado ❌'); loadFeedbackSection(); }
+                else showToast('Erro: ' + (data.error || 'desconhecido'), true);
+            } catch (e) { showToast('Erro: ' + e.message, true); }
+        }
+
+        async function approveActionPlan(id) {
+            if (!confirm('Aprovar este plano de ação para execução?')) return;
+            try {
+                const r = await fetch(`/api/feedback/plan/approve/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const data = await r.json();
+                if (data.ok) { showToast('Plano de ação aprovado ✅'); loadFeedbackSection(); }
+                else showToast('Erro: ' + (data.error || 'desconhecido'), true);
+            } catch (e) { showToast('Erro: ' + e.message, true); }
+        }
+
+        async function denyActionPlan(id) {
+            if (!confirm('Negar este plano de ação?')) return;
+            try {
+                const r = await fetch(`/api/feedback/plan/deny/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const data = await r.json();
+                if (data.ok) { showToast('Plano de ação negado ❌'); loadFeedbackSection(); }
                 else showToast('Erro: ' + (data.error || 'desconhecido'), true);
             } catch (e) { showToast('Erro: ' + e.message, true); }
         }
@@ -1433,9 +1494,14 @@
                     { l: 'Commit',              v: d.commit_hash ? d.commit_hash.slice(0,7) : '—' },
                     { l: 'Deploy',              v: d.deploy_status ?? '—' }
                 ]},
-                { key: 'feedback',   label: 'Feedback — Análise de Usuários',    cron: '00h30 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_feedback.json',  cor: '#EC4899', stats: d => [
+                { key: 'feedback',   label: 'Feedback — Coleta Bruta',           cron: '00h30 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_feedback.json',  cor: '#EC4899', stats: d => [
                     { l: 'Feedbacks Processados', v: d.feedbacks_processados ?? 0 },
-                    { l: 'Requests Gerados',      v: d.requests_gerados      ?? 0 },
+                    { l: 'Brutos Coletados',      v: d.feedbacks_processados ?? 0 },
+                    { l: 'Status',                v: d.status ?? '—' }
+                ]},
+                { key: 'feedback_planos', label: 'Feedback — Planos de Ação',   cron: '00h50 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_feedback_planos.json', cor: '#F59E0B', stats: d => [
+                    { l: 'Aprovados Lidos',       v: d.feedbacks_aprovados_lidos ?? 0 },
+                    { l: 'Planos Gerados',        v: d.planos_gerados ?? 0 },
                     { l: 'Status',                v: d.status ?? '—' }
                 ]}
             ];

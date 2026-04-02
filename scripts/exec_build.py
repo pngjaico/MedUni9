@@ -3,8 +3,8 @@
 import sys
 import os
 
-# Add project root to path
-sys.path.insert(0, r'C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app')
+# Add scripts folder to path
+sys.path.insert(0, os.path.dirname(__file__))
 
 try:
     from build_materias import build

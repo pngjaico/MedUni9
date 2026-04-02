@@ -19,12 +19,8 @@
       "server.js",
       ".agents/**",
       "prompts/**",
-      "build_materias.py",
+      "scripts/**",
       "organizar.js",
-      "leitor_livros_agente.py",
-      "gerador_indice_livros.py",
-      "processar_feedback.py",
-      "gerar_requests_feedback.py",
       "data/feedback/**"
     ],
     "rewrites": [
