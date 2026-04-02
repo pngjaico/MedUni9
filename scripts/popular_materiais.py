@@ -18,7 +18,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, List, Tuple
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 MATERIAS_PATH = ROOT / "data" / "materias.json"
 FLASHCARDS_PATH = ROOT / "data" / "flashcards.json"
 QUESTOES_PATH = ROOT / "data" / "questoes.json"
@@ -125,13 +125,13 @@ def build_md(a: AulaPriority) -> str:
 - Materia: {a.materia_nome} ({a.materia_id.upper()})
 - Modulo: {a.modulo}
 - Aula ID: {a.aula_id}
-- Tempo estimado: 35 a 50 min
+- Tempo de estudo sugerido: 10-15 min
 
 ## Objetivo da Aula
 {a.aula_descricao}
 
-## Contexto de Prova e Pratica
-Esta aula cobre os pontos essenciais que mais aparecem em revisao teorica e em aplicacao clinica inicial.
+## Contexto de Prova e Pratica (Uninove)
+Esta aula cobre os pontos essenciais que mais aparecem nas avaliacoes da Uninove e na aplicacao clinica inicial.
 
 ## Sumario
 1. Conceitos essenciais
@@ -153,6 +153,7 @@ Esta aula cobre os pontos essenciais que mais aparecem em revisao teorica e em a
 - Confundir nomenclatura com mecanismo
 - Memorizar isolado sem correlacao com caso
 - Ignorar diferencas entre fisiologico e patologico
+- Nao conectar o tema com o estilo de cobranca dos professores
 
 ## 4) Checklist de Revisao
 - [ ] Consigo explicar o tema em 60 segundos

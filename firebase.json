@@ -13,6 +13,7 @@
       "README.md",
       "COMO-ATUALIZAR.md",
       "conteudos/**",
+      "materiais/**",
       "node_modules/**",
       "*.bat",
       "*.ps1",

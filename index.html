@@ -3865,9 +3865,86 @@
       const [expandedMaterias, setExpandedMaterias] = useState({});
       const [searchQuery, setSearchQuery] = useState('');
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
+      const [selectedMaterial, setSelectedMaterial] = useState(null);
+      const [materialContent, setMaterialContent] = useState('');
+      const [materialLoading, setMaterialLoading] = useState(false);
+      const [materialError, setMaterialError] = useState('');
 
       const toggleMateria = (id) => {
         setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
+      };
+
+      const resolveTemaId = (materia, tema) => {
+        if (tema?.id) return tema.id;
+        const aulas = Array.isArray(materia?.aulas) ? materia.aulas : [];
+        if (!aulas.length) return null;
+
+        const byNome = aulas.find(a => normalizeText(a.tema) === normalizeText(tema?.nome || ''));
+        if (byNome?.id) return byNome.id;
+
+        const byDesc = aulas.find(a => normalizeText(a.descricao) === normalizeText(tema?.descricao || ''));
+        if (byDesc?.id) return byDesc.id;
+
+        return null;
+      };
+
+      const openMaterial = async (materia, tema) => {
+        const modulo = materia.modulo || materia.semestre;
+        const temaId = resolveTemaId(materia, tema);
+
+        if (!temaId) {
+          setSelectedMaterial({
+            materiaNome: materia.nome,
+            temaNome: tema.nome,
+            path: 'sem-id',
+          });
+          setMaterialContent('');
+          setMaterialError('Nao foi possivel identificar o ID da aula para abrir o material.');
+          setMaterialLoading(false);
+          return;
+        }
+
+        const primaryPath = `conteudos/materiais/modulo${modulo}/${materia.id}/${temaId}.md`;
+        const fallbackPaths = [
+          primaryPath,
+          `/conteudos/materiais/modulo${modulo}/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo1/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo2/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo3/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo4/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo5/${materia.id}/${temaId}.md`,
+          `conteudos/materiais/modulo6/${materia.id}/${temaId}.md`,
+        ];
+
+        setSelectedMaterial({
+          materiaNome: materia.nome,
+          temaNome: tema.nome,
+          path: primaryPath,
+        });
+        setMaterialContent('');
+        setMaterialError('');
+        setMaterialLoading(true);
+
+        try {
+          let loaded = false;
+          for (const p of fallbackPaths) {
+            const res = await fetch(p);
+            if (!res.ok) continue;
+            const text = await res.text();
+            setMaterialContent(text);
+            setSelectedMaterial(prev => ({ ...prev, path: p }));
+            loaded = true;
+            break;
+          }
+
+          if (!loaded) {
+            throw new Error(`Material ainda nao disponivel para esta aula. Caminho tentado: ${primaryPath}`);
+          }
+        } catch (err) {
+          setMaterialError(err?.message || 'Erro ao carregar material.');
+        } finally {
+          setMaterialLoading(false);
+        }
       };
 
       const getMateriaModulos = (materia) => {
@@ -3893,6 +3970,61 @@
         return fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '');
       });
 
+      // --- DETAIL VIEW: when a material is selected, replace entire screen ---
+      if (selectedMaterial) {
+        return (
+          <div className="screen-content">
+            <button
+              onClick={() => { setSelectedMaterial(null); setMaterialContent(''); setMaterialError(''); }}
+              style={{
+                background: 'rgba(255,255,255,0.06)',
+                border: '1px solid rgba(255,255,255,0.14)',
+                borderRadius: '8px',
+                color: 'var(--text-secondary)',
+                fontSize: '0.82rem',
+                padding: '6px 14px',
+                cursor: 'pointer',
+                marginBottom: '14px',
+                display: 'flex',
+                alignItems: 'center',
+                gap: '6px'
+              }}
+            >← Voltar aos Materiais</button>
+
+            <div style={{ marginBottom: '14px' }}>
+              <div style={{ fontSize: '0.78rem', color: 'var(--text-secondary)' }}>{selectedMaterial.materiaNome}</div>
+              <div style={{ fontSize: '1.1rem', fontWeight: 700, color: 'var(--text-primary)' }}>{selectedMaterial.temaNome}</div>
+            </div>
+
+            {materialLoading && (
+              <div style={{ color: 'var(--text-secondary)', padding: '30px 0', textAlign: 'center' }}>Carregando material...</div>
+            )}
+
+            {!materialLoading && materialError && (
+              <div style={{ color: 'var(--warning)', padding: '20px 0' }}>{materialError}</div>
+            )}
+
+            {!materialLoading && !materialError && materialContent && (
+              <div
+                style={{
+                  background: 'rgba(255,255,255,0.03)',
+                  border: '1px solid rgba(255,255,255,0.10)',
+                  borderRadius: '12px',
+                  padding: '16px',
+                  lineHeight: 1.65,
+                  color: 'var(--text-primary)',
+                  fontSize: '0.88rem',
+                  whiteSpace: 'pre-wrap',
+                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+                  wordBreak: 'break-word'
+                }}
+              >{materialContent}</div>
+            )}
+          </div>
+        );
+      }
+
+      // --- LIST VIEW: normal materials list ---
       return (
         <>
           <div className="screen-content">
@@ -3968,7 +4100,11 @@
                               paddingLeft: '2px'
                             }}>{mod.nome}</div>
                             {mod.temas.map((tema, ti) => (
-                              <div key={ti} style={{
+                              <div
+                                key={ti}
+                                onClick={() => openMaterial(materia, tema)}
+                                title="Abrir material da aula"
+                                style={{
                                 display: 'flex',
                                 alignItems: 'flex-start',
                                 gap: '8px',
@@ -3976,7 +4112,8 @@
                                 borderRadius: '8px',
                                 background: 'rgba(255,255,255,0.03)',
                                 border: '1px solid rgba(255,255,255,0.06)',
-                                marginBottom: '4px'
+                                marginBottom: '4px',
+                                cursor: 'pointer'
                               }}>
                                 <span style={{ color: materia.cor || 'var(--primary)', fontSize: '0.85rem', marginTop: '1px' }}>•</span>
                                 <div>
