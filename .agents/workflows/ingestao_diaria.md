@@ -69,9 +69,31 @@ OBSERVAÇÕES: [anomalias ou arquivos suspeitos]
 
 Se nenhum arquivo foi encontrado: `Nenhum arquivo novo. Nada a fazer.`
 
-## Passo 7 — Atualizar Dashboard HTML
+## Passo 7 — Escrever Status JSON (obrigatório)
 
-Ao final de cada execução, atualize o arquivo `.agents/dashboards/ingestao_pdfs.html`.
+Ao final, escreva o arquivo `data/agent_logs/status_ingestao.json` com os dados reais:
+
+```json
+{
+  "status": "ok",
+  "rodou_em": "DD/MM/YYYY HH:MM",
+  "duracao": "Xs",
+  "processados": 0,
+  "nao_identificados": 0,
+  "acoes": [
+    { "tipo": "ok",   "hora": "HH:MM", "texto": "nome_original.pdf → destino/nome_novo.pdf [DISCIPLINA]" },
+    { "tipo": "warn", "hora": "HH:MM", "texto": "arquivo_estranho.pdf → _nao_identificado/" }
+  ],
+  "observacoes": null
+}
+```
+
+Use `"status": "ok"` se tudo correu bem, `"warn"` se houve não-identificados, `"err"` se houve falha.
+Depois faça: `git add data/agent_logs/status_ingestao.json && git commit -m "chore: relatorio ingestao [DATA]" && git push`
+
+## Passo 8 — Atualizar Dashboard HTML (opcional, se possível)
+
+Atualize também `.agents/dashboards/ingestao_pdfs.html`.
 Localize o bloco entre os comentários `// DATA_START` e `// DATA_END` e substitua pela linha abaixo com os dados reais:
 
 ```js

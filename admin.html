@@ -283,6 +283,7 @@
                 <button class="admin-nav-item" onclick="switchSection('content')">📝 Conteúdo</button>
                 <button class="admin-nav-item" onclick="switchSection('modules')">📚 Módulos</button>
                 <button class="admin-nav-item" onclick="switchSection('security')">🛡️ Segurança</button>
+                <button class="admin-nav-item" onclick="switchSection('automacoes')">🤖 Automações</button>
             </nav>
             <div class="admin-sidebar-footer">
                 <button class="logout-btn" onclick="logout()">🚪 Sair</button>
@@ -446,6 +447,21 @@
                     <button class="btn btn-warning" onclick="changePassword()">🔒 Gerar Hash da Nova Senha</button>
                     <div id="passwordResult" style="margin-top: 12px;"></div>
                 </div>
+            </div>
+
+            <!-- ===== AUTOMAÇÕES ===== -->
+            <div class="admin-section" id="section-automacoes">
+                <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+                    <div>
+                        <h1>Automações Noturnas</h1>
+                        <p>Relatório da última madrugada — atualizado pelos agentes automaticamente</p>
+                    </div>
+                    <button class="btn btn-ghost btn-sm" onclick="loadAutomacoesSection()">↻ Atualizar</button>
+                </div>
+
+                <div class="stats-grid" id="automacoes-stats"></div>
+
+                <div id="automacoes-cards"></div>
             </div>
         </main>
     </div>
@@ -618,6 +634,7 @@
 
             // Load section-specific data
             if (name === 'security') loadSecuritySection();
+            if (name === 'automacoes') loadAutomacoesSection();
         }
 
         // ===================== DATA LOADING =====================
@@ -945,6 +962,80 @@
         }
 
         // ===================== SECURITY =====================
+        // ===================== AUTOMAÇÕES =====================
+        async function loadAutomacoesSection() {
+            const agents = [
+                { key: 'curadoria',  label: 'Curador — Lapidação de Questões', cron: '04h00 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_curadoria.json',  cor: 'var(--purple)', stats: d => [
+                    { l: 'Lotes Processados', v: d.lotes_processados ?? 0 },
+                    { l: 'Questões Curadas',  v: d.questoes_curadas  ?? 0 },
+                    { l: 'Flashcards Gerados', v: d.flashcards_gerados ?? 0 }
+                ]},
+                { key: 'ingestao',   label: 'Bibliotecário — Ingestão de PDFs',   cron: '01h00 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_ingestao.json',  cor: 'var(--primary)', stats: d => [
+                    { l: 'PDFs Processados',    v: d.processados      ?? 0 },
+                    { l: 'Não Identificados',   v: d.nao_identificados ?? 0 },
+                    { l: 'Duração',             v: d.duracao ?? '—' }
+                ]},
+                { key: 'deploy',     label: 'Deploy — Firebase Sync',             cron: '05h00 UTC (Nuvem)',       tipo: 'Nuvem',  file: 'data/agent_logs/status_deploy.json',    cor: 'var(--success)', stats: d => [
+                    { l: 'Arquivos Alterados',  v: d.arquivos_alterados ?? 0 },
+                    { l: 'Commit',              v: d.commit_hash ? d.commit_hash.slice(0,7) : '—' },
+                    { l: 'Deploy',              v: d.deploy_status ?? '—' }
+                ]}
+            ];
+
+            const statusMap = { ok: ['badge-success','Concluído'], warn: ['badge-warning','Com Avisos'], err: ['badge-error','Erro'], idle: ['badge-primary','Aguardando'] };
+            const logClass  = { ok:'color:var(--success)', warn:'color:var(--warning)', err:'color:var(--error)', info:'color:var(--primary)' };
+
+            const results = await Promise.all(agents.map(a =>
+                fetch(a.file + '?_=' + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null)
+            ));
+
+            // Summary stats bar
+            const okCount   = results.filter(d => d && d.status === 'ok').length;
+            const warnCount = results.filter(d => d && d.status === 'warn').length;
+            const errCount  = results.filter(d => d && d.status === 'err').length;
+            const lastRuns  = results.map(d => d && d.rodou_em).filter(Boolean);
+            document.getElementById('automacoes-stats').innerHTML = `
+                <div class="stat-card success"><div class="stat-label">Concluídos OK</div><div class="stat-value">${okCount}</div></div>
+                <div class="stat-card warning"><div class="stat-label">Com Avisos</div><div class="stat-value">${warnCount}</div></div>
+                <div class="stat-card error"><div class="stat-label">Com Erro</div><div class="stat-value">${errCount}</div></div>
+                <div class="stat-card"><div class="stat-label">Última Atualização</div><div class="stat-value" style="font-size:16px">${lastRuns[0] || '—'}</div></div>
+            `;
+
+            // Agent cards
+            let html = '';
+            agents.forEach((a, i) => {
+                const d = results[i] || { status: 'idle', rodou_em: null, acoes: [], observacoes: 'Sem dados.' };
+                const [badgeClass, badgeLabel] = statusMap[d.status] || statusMap.idle;
+                const statsHtml = a.stats(d).map(s =>
+                    `<div style="background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:8px;padding:10px 14px;flex:1;min-width:100px">
+                        <div style="font-size:11px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px">${s.l}</div>
+                        <div style="font-size:1.3rem;font-weight:700">${s.v}</div>
+                    </div>`
+                ).join('');
+                const logHtml = d.acoes && d.acoes.length
+                    ? d.acoes.map(ac => `<div style="font-family:monospace;font-size:12px;padding:5px 10px;border-radius:5px;margin-bottom:3px;background:rgba(255,255,255,.03);display:flex;gap:10px">
+                            <span style="color:var(--text-secondary);flex-shrink:0">${ac.hora || ''}</span>
+                            <span style="${logClass[ac.tipo] || ''}">${ac.texto}</span>
+                        </div>`).join('')
+                    : `<p style="color:var(--text-secondary);font-size:13px;padding:12px 0">Nenhuma ação registrada nesta execução.</p>`;
+                html += `
+                <div class="panel" style="border-left:3px solid ${a.cor}">
+                    <div class="panel-header">
+                        <div>
+                            <h3 style="margin-bottom:4px">${a.label}</h3>
+                            <span style="font-size:12px;color:var(--text-secondary)">Cron: ${a.cron} &nbsp;·&nbsp; Tipo: ${a.tipo} &nbsp;·&nbsp; Última execução: <strong>${d.rodou_em || '—'}</strong></span>
+                        </div>
+                        <span class="badge ${badgeClass}">${badgeLabel}</span>
+                    </div>
+                    <div style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px">${statsHtml}</div>
+                    <div style="font-size:12px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.06em;margin-bottom:8px;font-weight:600">Log de Ações</div>
+                    ${logHtml}
+                    ${d.observacoes ? `<div class="alert alert-warning" style="margin-top:12px;font-size:12px">⚠ ${d.observacoes}</div>` : ''}
+                </div>`;
+            });
+            document.getElementById('automacoes-cards').innerHTML = html;
+        }
+
         function loadSecuritySection() {
             // Security checks
             const checks = [
