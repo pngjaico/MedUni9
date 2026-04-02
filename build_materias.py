@@ -2,6 +2,11 @@ import json
 import os
 import re
 import shutil
+import sys
+
+# Força encoding UTF-8
+if sys.stdout.encoding != 'utf-8':
+    sys.stdout.reconfigure(encoding='utf-8')
 
 ARQUIVO_ESTRUTURAS = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\conteudos\_para_categorizar\Planos de Ensino\planos_estruturados.json'
 ARQUIVO_SAIDA = r'c:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\data\materias.json'
@@ -21,6 +26,99 @@ CORES_PADRAO = {
     'CLINICA': '#0EA5E9', 'TCAR': '#F97316', 'TRABALHO': '#84CC16',
     'DIMENSOES': '#06B6D4', 'DEFAULT': '#64748B'
 }
+
+SMALL_WORDS = {'de','do','da','dos','das','e','em','a','o','os','para','por','na','no','nas','nos','com','sem','sob','sobre','ao','às','pelas','pelo'}
+
+ACENTUACAO_MAP = {
+    'saude': 'Saúde',
+    'trabalhador': 'Trabalhador',
+    'doencas': 'Doenças',
+    'ocupacionais': 'Ocupacionais',
+    'bases': 'Bases',
+    'morfofuncionais': 'Morfofuncionais',
+    'aparelhos': 'Aparelhos',
+    'digestorio': 'Digestório',
+    'renal': 'Renal',
+    'reprodutor': 'Reprodutor',
+    'biologia': 'Biologia',
+    'celular': 'Celular',
+    'molecular': 'Molecular',
+    'processos': 'Processos',
+    'metabolicos': 'Metabólicos',
+    'humanos': 'Humanos',
+    'mecanismos': 'Mecanismos',
+    'agressao': 'Agressão',
+    'defesa': 'Defesa',
+    'principios': 'Princípios',
+    'diretrizes': 'Diretrizes',
+    'sus': 'SUS',
+    'dimensoes': 'Dimensões',
+    'socioambientais': 'Socioambientais',
+    'epidemiologia': 'Epidemiologia',
+    'indicadores': 'Indicadores',
+    'bioestatistica': 'Bioestatística',
+    'estudos': 'Estudos',
+    'semiologia': 'Semiologia',
+    'musculoesquetica': 'Musculoesquelética',
+    'cardiorrespiratoria': 'Cardiorespiratória',
+    'neurologica': 'Neurológica',
+    'fisiopatologia': 'Fisiopatologia',
+    'farmacologia': 'Farmacologia',
+    'farmacoterapeuticos': 'Farmacoterapêuticos',
+    'medicina': 'Medicina',
+    'familia': 'Família',
+    'comunidade': 'Comunidade',
+    'clinica': 'Clínica',
+    'cirurgica': 'Cirúrgica',
+    'ortopedia': 'Ortopedia',
+    'operatoria': 'Operatória',
+    'projeto': 'Projeto',
+    'extensionista': 'Extensionista',
+    'vigilancia': 'Vigilância',
+    'vivencia': 'Vivência',
+    'prática': 'Prática'
+}
+
+def normalizar_nome_disciplina(nome):
+    """Normaliza nome de disciplina com capitalização correta e acentuação."""
+    if not nome or not nome.strip():
+        return ''
+    
+    n = nome.strip()
+    n_lower = n.lower()
+    
+    # Substituir caracteres problemáticos
+    n_lower = n_lower.replace('á', 'a').replace('é', 'e').replace('í', 'i').replace('ó', 'o').replace('ú', 'u')
+    n_lower = n_lower.replace('ã', 'a').replace('õ', 'o').replace('ç', 'c')
+    
+    # Split em palavras
+    n_clean = ' '.join(p for p in n_lower.split())
+    parts = n_clean.split(' ')
+    
+    final_parts = []
+    for i, part in enumerate(parts):
+        # Verificar se está no mapa de acentuação
+        if part in ACENTUACAO_MAP:
+            final_parts.append(ACENTUACAO_MAP[part])
+        elif i > 0 and part in SMALL_WORDS:
+            final_parts.append(part)
+        else:
+            # Capitalizar se não for pequena palavra e não estiver no mapa
+            final_parts.append(part.capitalize())
+    
+    return ' '.join(final_parts)
+
+
+def ajustar_modulo(modulo):
+    if modulo == 5:
+        # Excluir/ignorar módulo 5 exigido; reatribuir para 6 quando necessário
+        return 6
+    if modulo < 1:
+        return 1
+    if modulo > 6:
+        return 6
+    return modulo
+
 
 def inferir_dados_aula(nome_arquivo):
     nome = nome_arquivo.upper()
@@ -76,15 +174,24 @@ def build():
         # Pegar o numero do modulo usando regex "Modulo X"
         match_mod = re.search(r'\d+', mod)
         num_modulo = int(match_mod.group(0)) if match_mod else 0
+        num_modulo = ajustar_modulo(num_modulo)
         
         # Gerar pasta fisica do modulo
         dir_mod = os.path.join(DIR_CONTEUDOS, f"modulo{num_modulo}")
         os.makedirs(dir_mod, exist_ok=True)
 
         for nome_pdf, data in planos.items():
-            sigla, titulo = inferir_dados_aula(nome_pdf)
-            if sigla == 'IGNORE':
+            sigla_inferida, titulo_inferido = inferir_dados_aula(nome_pdf)
+            if sigla_inferida == 'IGNORE':
                 continue
+
+            disciplina_plano = data.get('disciplina', '').strip()
+            if disciplina_plano:
+                titulo = normalizar_nome_disciplina(disciplina_plano)
+            else:
+                titulo = titulo_inferido
+
+            sigla = sigla_inferida
             sigla_lower = sigla.lower()
             
             # Icones e Cores

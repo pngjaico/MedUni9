@@ -1,6 +1,6 @@
 {
   "st": {
-    "nome": "Saúde do Trabalhador e Ocupacional",
+    "nome": "Saúde do Trabalhador e Doenças Ocupacionais",
     "sigla": "st",
     "modulo": 3,
     "ativo": true,
@@ -24,7 +24,7 @@
     ]
   },
   "pe3": {
-    "nome": "Projeto Extensionista 3",
+    "nome": "Vivência em Vigilância em Saúde",
     "sigla": "pe3",
     "modulo": 3,
     "ativo": true,
@@ -62,380 +62,8 @@
       }
     ]
   },
-  "bmf1": {
-    "nome": "Bases Morfofuncionais 1",
-    "sigla": "bmf1",
-    "modulo": 2,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo integrado da morfologia e função dos sistemas cardiovascular e respiratór...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "bmf1_a1",
-            "tema": "Aula 1: Sistema Cardiocirculatório",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Sistema Cardiocirculatório"
-          },
-          {
-            "id": "bmf1_a2",
-            "tema": "Aula 2: Sistema Respiratório",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Sistema Respiratório"
-          },
-          {
-            "id": "bmf1_a3",
-            "tema": "Aula 3: Compete ao colegiado de professores da unidade curricular a definição do formato da referida",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Compete ao colegiado de professores da unidade curricular a definição do formato da referida"
-          }
-        ]
-      }
-    ]
-  },
-  "msad": {
-    "nome": "Msad_Pens_T35_2026.1",
-    "sigla": "msad",
-    "modulo": 3,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A unidade curricular Mecanismos sistêmicos de Agressão e Defesa (MsAD) é ofereci...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 3",
-        "temas": [
-          {
-            "id": "msad_a1",
-            "tema": "Aula 1: OBJETIVOS DE",
-            "descricao": "Ao final desta aula, o aluno deve compreender: OBJETIVOS DE"
-          },
-          {
-            "id": "msad_a2",
-            "tema": "Aula 2: APRENDIZAGEM",
-            "descricao": "Ao final desta aula, o aluno deve compreender: APRENDIZAGEM"
-          },
-          {
-            "id": "msad_a3",
-            "tema": "Aula 3: ABORDAGEM, LOCAL E",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ABORDAGEM, LOCAL E"
-          },
-          {
-            "id": "msad_a4",
-            "tema": "Aula 4: RECURSOS DIDÁTICOS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: RECURSOS DIDÁTICOS"
-          },
-          {
-            "id": "msad_a5",
-            "tema": "Aula 5: METODOLOGIA DAS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: METODOLOGIA DAS"
-          },
-          {
-            "id": "msad_a6",
-            "tema": "Aula 6: Imunodeficiências",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Imunodeficiências"
-          },
-          {
-            "id": "msad_a7",
-            "tema": "Aula 7: Abordar a etiologia e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Abordar a etiologia e"
-          },
-          {
-            "id": "msad_a8",
-            "tema": "Aula 8: características clínicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: características clínicas"
-          },
-          {
-            "id": "msad_a9",
-            "tema": "Aula 9: das imunodeficiências",
-            "descricao": "Ao final desta aula, o aluno deve compreender: das imunodeficiências"
-          },
-          {
-            "id": "msad_a10",
-            "tema": "Aula 10: primárias, suas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: primárias, suas"
-          },
-          {
-            "id": "msad_a11",
-            "tema": "Aula 11: consequências para a",
-            "descricao": "Ao final desta aula, o aluno deve compreender: consequências para a"
-          },
-          {
-            "id": "msad_a12",
-            "tema": "Aula 12: homeostase do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: homeostase do"
-          },
-          {
-            "id": "msad_a13",
-            "tema": "Aula 13: organismo e as",
-            "descricao": "Ao final desta aula, o aluno deve compreender: organismo e as"
-          },
-          {
-            "id": "msad_a14",
-            "tema": "Aula 14: doenças secundárias",
-            "descricao": "Ao final desta aula, o aluno deve compreender: doenças secundárias"
-          },
-          {
-            "id": "msad_a15",
-            "tema": "Aula 15: decorrentes da",
-            "descricao": "Ao final desta aula, o aluno deve compreender: decorrentes da"
-          },
-          {
-            "id": "msad_a16",
-            "tema": "Aula 16: deficiência",
-            "descricao": "Ao final desta aula, o aluno deve compreender: deficiência"
-          },
-          {
-            "id": "msad_a17",
-            "tema": "Aula 17: imunológica.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: imunológica."
-          },
-          {
-            "id": "msad_a18",
-            "tema": "Aula 18: Abordagem teórica com",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Abordagem teórica com"
-          },
-          {
-            "id": "msad_a19",
-            "tema": "Aula 19: metodologias ativas de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: metodologias ativas de"
-          },
-          {
-            "id": "msad_a20",
-            "tema": "Aula 20: aprendizagem,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: aprendizagem,"
-          },
-          {
-            "id": "msad_a21",
-            "tema": "Aula 21: promovendo a",
-            "descricao": "Ao final desta aula, o aluno deve compreender: promovendo a"
-          },
-          {
-            "id": "msad_a22",
-            "tema": "Aula 22: integração entre teoria e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: integração entre teoria e"
-          },
-          {
-            "id": "msad_a23",
-            "tema": "Aula 23: aplicação prática,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: aplicação prática,"
-          },
-          {
-            "id": "msad_a24",
-            "tema": "Aula 24: contextualizada em",
-            "descricao": "Ao final desta aula, o aluno deve compreender: contextualizada em"
-          },
-          {
-            "id": "msad_a25",
-            "tema": "Aula 25: forma de casos clínicos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: forma de casos clínicos."
-          },
-          {
-            "id": "msad_a26",
-            "tema": "Aula 26: São utilizados recursos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: São utilizados recursos"
-          },
-          {
-            "id": "msad_a27",
-            "tema": "Aula 27: didáticos variados em",
-            "descricao": "Ao final desta aula, o aluno deve compreender: didáticos variados em"
-          },
-          {
-            "id": "msad_a28",
-            "tema": "Aula 28: sala de aula, incluindo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: sala de aula, incluindo"
-          },
-          {
-            "id": "msad_a29",
-            "tema": "Aula 29: materiais multimídia,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: materiais multimídia,"
-          },
-          {
-            "id": "msad_a30",
-            "tema": "Aula 30: estudos de casos,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: estudos de casos,"
-          }
-        ]
-      }
-    ]
-  },
-  "process": {
-    "nome": "Processos MetabóLicos Humanos_Plano De Ensino_202",
-    "sigla": "process",
-    "modulo": 1,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo dos processos metabólicos humanos, abrangendo o metabolismo de carboidrat...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1",
-        "temas": [
-          {
-            "id": "process_a1",
-            "tema": "Aula 1: 1.​ Fundamentos do Metabolismo Humano",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1.​ Fundamentos do Metabolismo Humano"
-          },
-          {
-            "id": "process_a2",
-            "tema": "Aula 2: ●​ 1.1. Conceitos e Princípios",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.1. Conceitos e Princípios"
-          },
-          {
-            "id": "process_a3",
-            "tema": "Aula 3: ○​ Anabolismo e catabolismo: bioenergética e termodinâmica.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Anabolismo e catabolismo: bioenergética e termodinâmica."
-          },
-          {
-            "id": "process_a4",
-            "tema": "Aula 4: ○​ Papel de ATP, NAD+, FAD e outros cofatores.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Papel de ATP, NAD+, FAD e outros cofatores."
-          },
-          {
-            "id": "process_a5",
-            "tema": "Aula 5: ○​ Compartimentalização celular e transporte de metabólitos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Compartimentalização celular e transporte de metabólitos."
-          },
-          {
-            "id": "process_a6",
-            "tema": "Aula 6: ●​ 1.2. Regulação Metabólica Geral",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.2. Regulação Metabólica Geral"
-          },
-          {
-            "id": "process_a7",
-            "tema": "Aula 7: ○​ Mecanismos alostéricos, covalentes e genéticos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Mecanismos alostéricos, covalentes e genéticos."
-          },
-          {
-            "id": "process_a8",
-            "tema": "Aula 8: ○​ Introdução ao controle hormonal (insulina, glucagom, catecolaminas).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Introdução ao controle hormonal (insulina, glucagom, catecolaminas)."
-          },
-          {
-            "id": "process_a9",
-            "tema": "Aula 9: ○​ Influência da epigenética no metabolismo (ex.: metilação de DNA).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Influência da epigenética no metabolismo (ex.: metilação de DNA)."
-          },
-          {
-            "id": "process_a10",
-            "tema": "Aula 10: 2: Metabolismo de Carboidratos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 2: Metabolismo de Carboidratos"
-          },
-          {
-            "id": "process_a11",
-            "tema": "Aula 11: ●​ 2.1. Vias Metabólicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.1. Vias Metabólicas"
-          },
-          {
-            "id": "process_a12",
-            "tema": "Aula 12: ○​ Glicólise e gliconeogênese: etapas, enzimas-chave, regulação.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Glicólise e gliconeogênese: etapas, enzimas-chave, regulação."
-          },
-          {
-            "id": "process_a13",
-            "tema": "Aula 13: ○​ Ciclo de Krebs e fosforilação oxidativa: produção de energia.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Ciclo de Krebs e fosforilação oxidativa: produção de energia."
-          },
-          {
-            "id": "process_a14",
-            "tema": "Aula 14: ○​ Metabolismo de glicogênio e via das pentoses-fosfato.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Metabolismo de glicogênio e via das pentoses-fosfato."
-          },
-          {
-            "id": "process_a15",
-            "tema": "Aula 15: ●​ 2.2. Regulação e Integração",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.2. Regulação e Integração"
-          },
-          {
-            "id": "process_a16",
-            "tema": "Aula 16: ○​ Controle hormonal (insulina, glucagom, cortisol).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Controle hormonal (insulina, glucagom, cortisol)."
-          },
-          {
-            "id": "process_a17",
-            "tema": "Aula 17: ○​ Adaptações metabólicas no jejum e estado pós-prandial.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Adaptações metabólicas no jejum e estado pós-prandial."
-          },
-          {
-            "id": "process_a18",
-            "tema": "Aula 18: ●​ 2.3. Aplicações Clínicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.3. Aplicações Clínicas"
-          },
-          {
-            "id": "process_a19",
-            "tema": "Aula 19: ○​ Diabetes mellitus tipo 1 e 2, intolerância à glicose.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Diabetes mellitus tipo 1 e 2, intolerância à glicose."
-          },
-          {
-            "id": "process_a20",
-            "tema": "Aula 20: ○​ Erros inatos (ex.: galactosemia, deficiência de G6PD).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Erros inatos (ex.: galactosemia, deficiência de G6PD)."
-          },
-          {
-            "id": "process_a21",
-            "tema": "Aula 21: 3: Metabolismo de Lipídios",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 3: Metabolismo de Lipídios"
-          },
-          {
-            "id": "process_a22",
-            "tema": "Aula 22: ●​ 3.1. Vias Metabólicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 3.1. Vias Metabólicas"
-          },
-          {
-            "id": "process_a23",
-            "tema": "Aula 23: ○​ Beta-oxidação e biossíntese de ácidos graxos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Beta-oxidação e biossíntese de ácidos graxos."
-          },
-          {
-            "id": "process_a24",
-            "tema": "Aula 24: ○​ Metabolismo de corpos cetônicos, colesterol e lipoproteínas.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Metabolismo de corpos cetônicos, colesterol e lipoproteínas."
-          },
-          {
-            "id": "process_a25",
-            "tema": "Aula 25: ○​ Síntese e degradação de fosfolipídios e triglicerídios.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Síntese e degradação de fosfolipídios e triglicerídios."
-          },
-          {
-            "id": "process_a26",
-            "tema": "Aula 26: ●​ 3.2. Regulação e Integração",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 3.2. Regulação e Integração"
-          },
-          {
-            "id": "process_a27",
-            "tema": "Aula 27: ○​ Controle hormonal (insulina, epinefrina, leptina).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Controle hormonal (insulina, epinefrina, leptina)."
-          },
-          {
-            "id": "process_a28",
-            "tema": "Aula 28: ○​ Papel do fígado e tecido adiposo na homeostase lipídica.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Papel do fígado e tecido adiposo na homeostase lipídica."
-          },
-          {
-            "id": "process_a29",
-            "tema": "Aula 29: ●​ 3.3. Aplicações Clínicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 3.3. Aplicações Clínicas"
-          },
-          {
-            "id": "process_a30",
-            "tema": "Aula 30: ○​ Dislipidemias, esteatose hepática, cetoacidose diabética.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Dislipidemias, esteatose hepática, cetoacidose diabética."
-          }
-        ]
-      }
-    ]
-  },
   "semiologia3": {
-    "nome": "Semiologia Renal e Reprodutor",
+    "nome": "Semiologia dos Aparelhos Renal e Reprodutor",
     "sigla": "semiologia3",
     "modulo": 3,
     "ativo": true,
@@ -573,14 +201,14 @@
       }
     ]
   },
-  "pe4": {
-    "nome": "Projeto Extensionista 4",
-    "sigla": "pe4",
+  "process": {
+    "nome": "Processos Fisiopatologicos e Farmacoterapêuticos Neuroendocrinos",
+    "sigla": "process",
     "modulo": 4,
     "ativo": true,
     "icon": "📘",
     "cor": "#64748B",
-    "descricao": "Proporcionar um contexto educacional para além das portas da Universidade que se...",
+    "descricao": "Estudo dos processos fisiopatológicos e farmacoterapêuticos gerais e relacionado...",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
@@ -589,24 +217,154 @@
         "nome": "Módulo 4",
         "temas": [
           {
-            "id": "pe4_a1",
-            "tema": "Aula 1: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Sistema de Vigilância de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Sistema de Vigilância de"
+            "id": "process_a1",
+            "tema": "Aula 1: 1. Introdução aos Processos Fisiopatológicos e Farmacoterapêuticos",
+            "descricao": "Ao final desta aula, o aluno deve compreender: 1. Introdução aos Processos Fisiopatológicos e Farmacoterapêuticos"
           },
           {
-            "id": "pe4_a2",
-            "tema": "Aula 2: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise"
+            "id": "process_a2",
+            "tema": "Aula 2: ●​ Patologia geral: mecanismos gerais de lesão celular, acúmulos intracelulares, morte celular,",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Patologia geral: mecanismos gerais de lesão celular, acúmulos intracelulares, morte celular,"
           },
           {
-            "id": "pe4_a3",
-            "tema": "Aula 3: BRASIL. Ministério da Saúde. Portaria n. 399, de 22 de fevereiro de 2006. Divulga o Pacto",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Portaria n. 399, de 22 de fevereiro de 2006. Divulga o Pacto"
+            "id": "process_a3",
+            "tema": "Aula 3: calcificação patológica, pigmentação patológica, distúrbios circulatórios, alterações inflamatórias e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: calcificação patológica, pigmentação patológica, distúrbios circulatórios, alterações inflamatórias e"
           },
           {
-            "id": "pe4_a4",
-            "tema": "Aula 4: BRASIL. Ministério da Saúde. Secretaria-Executiva. Departamento de Informática do SUS.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria-Executiva. Departamento de Informática do SUS."
+            "id": "process_a4",
+            "tema": "Aula 4: reparo tecidual, adaptações do crescimento e diferenciação tecidual e neoplasias.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: reparo tecidual, adaptações do crescimento e diferenciação tecidual e neoplasias."
+          },
+          {
+            "id": "process_a5",
+            "tema": "Aula 5: ●​ Princípios de farmacoterapia: Formas farmacêuticas, vias de administração, farmacocinética,",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Princípios de farmacoterapia: Formas farmacêuticas, vias de administração, farmacocinética,"
+          },
+          {
+            "id": "process_a6",
+            "tema": "Aula 6: farmacodinâmica, posologia.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: farmacodinâmica, posologia."
+          },
+          {
+            "id": "process_a7",
+            "tema": "Aula 7: ●​ Inter-relações entre sistemas nervoso e endócrino.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Inter-relações entre sistemas nervoso e endócrino."
+          },
+          {
+            "id": "process_a8",
+            "tema": "Aula 8: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos"
+          },
+          {
+            "id": "process_a9",
+            "tema": "Aula 9: antiinflamatórios não esteroidais e corticoides.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: antiinflamatórios não esteroidais e corticoides."
+          },
+          {
+            "id": "process_a10",
+            "tema": "Aula 10: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos"
+          },
+          {
+            "id": "process_a11",
+            "tema": "Aula 11: antineoplásicos.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: antineoplásicos."
+          },
+          {
+            "id": "process_a12",
+            "tema": "Aula 12: 2. Fisiopatologia e Farmacoterapia do Sistema Nervoso",
+            "descricao": "Ao final desta aula, o aluno deve compreender: 2. Fisiopatologia e Farmacoterapia do Sistema Nervoso"
+          },
+          {
+            "id": "process_a13",
+            "tema": "Aula 13: ●​ 2.1. Fisiopatologia do sistema nervoso",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.1. Fisiopatologia do sistema nervoso"
+          },
+          {
+            "id": "process_a14",
+            "tema": "Aula 14: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e"
+          },
+          {
+            "id": "process_a15",
+            "tema": "Aula 15: manifestações clínicas e laboratoriais das doenças cerebrovasculares;",
+            "descricao": "Ao final desta aula, o aluno deve compreender: manifestações clínicas e laboratoriais das doenças cerebrovasculares;"
+          },
+          {
+            "id": "process_a16",
+            "tema": "Aula 16: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e"
+          },
+          {
+            "id": "process_a17",
+            "tema": "Aula 17: manifestações clínicas e laboratoriais das neoplasias primárias de sistema nervoso central;",
+            "descricao": "Ao final desta aula, o aluno deve compreender: manifestações clínicas e laboratoriais das neoplasias primárias de sistema nervoso central;"
+          },
+          {
+            "id": "process_a18",
+            "tema": "Aula 18: ●​ 2.3. Farmacoterapia do sistema nervoso",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.3. Farmacoterapia do sistema nervoso"
+          },
+          {
+            "id": "process_a19",
+            "tema": "Aula 19: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
+          },
+          {
+            "id": "process_a20",
+            "tema": "Aula 20: fármacos que atuam no sistema nervoso autônomo simpático (adrenérgicos e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos que atuam no sistema nervoso autônomo simpático (adrenérgicos e"
+          },
+          {
+            "id": "process_a21",
+            "tema": "Aula 21: antiadrenérgicos) e parassimpático (colinérgicos muscarínicos, antimuscarínicos e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: antiadrenérgicos) e parassimpático (colinérgicos muscarínicos, antimuscarínicos e"
+          },
+          {
+            "id": "process_a22",
+            "tema": "Aula 22: anticolinesterásicos)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: anticolinesterásicos)"
+          },
+          {
+            "id": "process_a23",
+            "tema": "Aula 23: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
+          },
+          {
+            "id": "process_a24",
+            "tema": "Aula 24: fármacos bloqueadores neuromusculares.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos bloqueadores neuromusculares."
+          },
+          {
+            "id": "process_a25",
+            "tema": "Aula 25: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
+          },
+          {
+            "id": "process_a26",
+            "tema": "Aula 26: fármacos opióides.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos opióides."
+          },
+          {
+            "id": "process_a27",
+            "tema": "Aula 27: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
+          },
+          {
+            "id": "process_a28",
+            "tema": "Aula 28: fármacos anestésicos locais e gerais.",
+            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos anestésicos locais e gerais."
+          },
+          {
+            "id": "process_a29",
+            "tema": "Aula 29: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
+          },
+          {
+            "id": "process_a30",
+            "tema": "Aula 30: fármacos antidepressivos, ansiolíticos, hipnóticos, antipsicóticos, anticonvulsivantes e",
+            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos antidepressivos, ansiolíticos, hipnóticos, antipsicóticos, anticonvulsivantes e"
           }
         ]
       }
@@ -652,72 +410,13 @@
     ]
   },
   "bmf2": {
-    "nome": "Bases Morfofuncionais 2",
+    "nome": "Bases Morfofuncionais dos Aparelhos Neurossensorial e",
     "sigla": "bmf2",
-    "modulo": 2,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "bmf2_a1",
-            "tema": "Aula 1: Fundamentos da Semiologia Cardiorrespiratória.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Fundamentos da Semiologia Cardiorrespiratória."
-          },
-          {
-            "id": "bmf2_a2",
-            "tema": "Aula 2: Princípios de semiologia clínica aplicados aos sistemas cardiovascular e respiratório.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Princípios de semiologia clínica aplicados aos sistemas cardiovascular e respiratório."
-          },
-          {
-            "id": "bmf2_a3",
-            "tema": "Aula 3: Revisão anatômica e fisiológica do coração, vasos, pulmões e vias respiratórias.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Revisão anatômica e fisiológica do coração, vasos, pulmões e vias respiratórias."
-          },
-          {
-            "id": "bmf2_a4",
-            "tema": "Aula 4: Organização do exame clínico: anamnese e exame físico.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Organização do exame clínico: anamnese e exame físico."
-          },
-          {
-            "id": "bmf2_a5",
-            "tema": "Aula 5: Anamnese Direcionada - Coleta de história clínica: queixas principais (dispneia, dor torácica,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Anamnese Direcionada - Coleta de história clínica: queixas principais (dispneia, dor torácica,"
-          },
-          {
-            "id": "bmf2_a6",
-            "tema": "Aula 6: Revisão por sistemas cardiorrespiratórios. Exame Físico Teórico - Cardiovascular: Inspeção (turgência",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Revisão por sistemas cardiorrespiratórios. Exame Físico Teórico - Cardiovascular: Inspeção (turgência"
-          },
-          {
-            "id": "bmf2_a7",
-            "tema": "Aula 7: Respiratório: Inspeção (padrão respiratório, deformidades torácicas), palpação (expansibilidade,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Respiratório: Inspeção (padrão respiratório, deformidades torácicas), palpação (expansibilidade,"
-          },
-          {
-            "id": "bmf2_a8",
-            "tema": "Aula 8: Compete ao colegiado de professores da unidade curricular a definição do formato da referida",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Compete ao colegiado de professores da unidade curricular a definição do formato da referida"
-          }
-        ]
-      }
-    ]
-  },
-  "semiologia4": {
-    "nome": "Semiologia Neurológica",
-    "sigla": "semiologia4",
     "modulo": 4,
     "ativo": true,
     "icon": "📘",
     "cor": "#64748B",
-    "descricao": "Estudo introdutório da semiologia neurológica e de síndromes clínicas, dividido ...",
+    "descricao": "Estudo integrado da morfologia e função dos sistemas neurossensorial e endócrino...",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
@@ -726,154 +425,154 @@
         "nome": "Módulo 4",
         "temas": [
           {
-            "id": "semiologia4_a1",
-            "tema": "Aula 1: 1. Semiologia Teórica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1. Semiologia Teórica"
+            "id": "bmf2_a1",
+            "tema": "Aula 1: ➢ BLOCO I - BÁSICO/CONHECIMENTOS GERAIS DE NEUROANATOMIA",
+            "descricao": "Ao final desta aula, o aluno deve compreender: ➢ BLOCO I - BÁSICO/CONHECIMENTOS GERAIS DE NEUROANATOMIA"
           },
           {
-            "id": "semiologia4_a2",
-            "tema": "Aula 2: ●​ 1.1. Fundamentos da Semiologia Neurológica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.1. Fundamentos da Semiologia Neurológica"
+            "id": "bmf2_a2",
+            "tema": "Aula 2: Divisão do Sistema Nervoso",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Divisão do Sistema Nervoso"
           },
           {
-            "id": "semiologia4_a3",
-            "tema": "Aula 3: ○​ Princípios de semiologia clínica aplicados ao sistema nervoso.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Princípios de semiologia clínica aplicados ao sistema nervoso."
+            "id": "bmf2_a3",
+            "tema": "Aula 3: - Divisão Anatômica",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Divisão Anatômica"
           },
           {
-            "id": "semiologia4_a4",
-            "tema": "Aula 4: ○​ Revisão anatômica e fisiológica do sistema nervoso central, periférico e autônomo.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Revisão anatômica e fisiológica do sistema nervoso central, periférico e autônomo."
+            "id": "bmf2_a4",
+            "tema": "Aula 4: - Divisão Funcional/Fisiológica",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Divisão Funcional/Fisiológica"
           },
           {
-            "id": "semiologia4_a5",
-            "tema": "Aula 5: ○​ Organização do exame neurológico: anamnese e exame físico.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Organização do exame neurológico: anamnese e exame físico."
+            "id": "bmf2_a5",
+            "tema": "Aula 5: Embriologia do Sistema Nervoso",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Embriologia do Sistema Nervoso"
           },
           {
-            "id": "semiologia4_a6",
-            "tema": "Aula 6: ●​ 1.2. Anamnese Neurológica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.2. Anamnese Neurológica"
+            "id": "bmf2_a6",
+            "tema": "Aula 6: - Formação da Placa, Tubo e Cristas Neurais",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Formação da Placa, Tubo e Cristas Neurais"
           },
           {
-            "id": "semiologia4_a7",
-            "tema": "Aula 7: ○​ Coleta de história clínica: queixas principais (cefaléia, tontura, fraqueza, convulsões).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Coleta de história clínica: queixas principais (cefaléia, tontura, fraqueza, convulsões)."
+            "id": "bmf2_a7",
+            "tema": "Aula 7: - Formação das Vesículas Encefálicas Primárias e Secundárias",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Formação das Vesículas Encefálicas Primárias e Secundárias"
           },
           {
-            "id": "semiologia4_a8",
-            "tema": "Aula 8: ○​ História patológica pregressa, familiar, ocupacional e fatores de risco (trauma, AVC, epilepsia).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ História patológica pregressa, familiar, ocupacional e fatores de risco (trauma, AVC, epilepsia)."
+            "id": "bmf2_a8",
+            "tema": "Aula 8: Formação do Nervo Espinal",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Formação do Nervo Espinal"
           },
           {
-            "id": "semiologia4_a9",
-            "tema": "Aula 9: ○​ Revisão por sistemas neurológicos (cognitivo, motor, sensorial).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Revisão por sistemas neurológicos (cognitivo, motor, sensorial)."
+            "id": "bmf2_a9",
+            "tema": "Aula 9: - Radículas Sensitivas (Posteriores/Dorsais)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Radículas Sensitivas (Posteriores/Dorsais)"
           },
           {
-            "id": "semiologia4_a10",
-            "tema": "Aula 10: ●​ 1.3. Exame Físico Neurológico Teórico",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.3. Exame Físico Neurológico Teórico"
+            "id": "bmf2_a10",
+            "tema": "Aula 10: - Raiz Sensitiva (Posterior/Dorsal)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Raiz Sensitiva (Posterior/Dorsal)"
           },
           {
-            "id": "semiologia4_a11",
-            "tema": "Aula 11: ○​ Nível de Consciência: Escala de Glasgow, estado de alerta, confusão.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Nível de Consciência: Escala de Glasgow, estado de alerta, confusão."
+            "id": "bmf2_a11",
+            "tema": "Aula 11: - Radículas Motoras (Anteriores/Ventrais)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Radículas Motoras (Anteriores/Ventrais)"
           },
           {
-            "id": "semiologia4_a12",
-            "tema": "Aula 12: ○​ Nervos Cranianos: Avaliação de visão, movimentos oculares, reflexo pupilar, audição,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Nervos Cranianos: Avaliação de visão, movimentos oculares, reflexo pupilar, audição,"
+            "id": "bmf2_a12",
+            "tema": "Aula 12: - Raiz Motora (Anterior/Ventral)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Raiz Motora (Anterior/Ventral)"
           },
           {
-            "id": "semiologia4_a13",
-            "tema": "Aula 13: deglutição.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: deglutição."
+            "id": "bmf2_a13",
+            "tema": "Aula 13: - Relações Anatômicas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
           },
           {
-            "id": "semiologia4_a14",
-            "tema": "Aula 14: ○​ Sistema Motor: Força muscular (escala 0-5), tônus, trofismo, reflexos tendíneos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Sistema Motor: Força muscular (escala 0-5), tônus, trofismo, reflexos tendíneos."
+            "id": "bmf2_a14",
+            "tema": "Aula 14: Crânio e Fossas Cranianas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Crânio e Fossas Cranianas"
           },
           {
-            "id": "semiologia4_a15",
-            "tema": "Aula 15: ○​ Sistema Sensorial: Sensibilidade superficial, profunda, propriocepção.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Sistema Sensorial: Sensibilidade superficial, profunda, propriocepção."
+            "id": "bmf2_a15",
+            "tema": "Aula 15: - Viscerocrânio",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Viscerocrânio"
           },
           {
-            "id": "semiologia4_a16",
-            "tema": "Aula 16: ○​ Coordenação e Marcha: Testes cerebelares (dedo-nariz, calcanhar-joelho), equilíbrio.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Coordenação e Marcha: Testes cerebelares (dedo-nariz, calcanhar-joelho), equilíbrio."
+            "id": "bmf2_a16",
+            "tema": "Aula 16: - Neurocrânio",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Neurocrânio"
           },
           {
-            "id": "semiologia4_a17",
-            "tema": "Aula 17: ○​ Funções Cognitivas: Memória, atenção, linguagem, praxias.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Funções Cognitivas: Memória, atenção, linguagem, praxias."
+            "id": "bmf2_a17",
+            "tema": "Aula 17: - Cavidade Craniana e suas Fossas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Cavidade Craniana e suas Fossas"
           },
           {
-            "id": "semiologia4_a18",
-            "tema": "Aula 18: ●​ 1.4. Síndromes Clínicas Neurológicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 1.4. Síndromes Clínicas Neurológicas"
+            "id": "bmf2_a18",
+            "tema": "Aula 18: - Relações Anatômicas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
           },
           {
-            "id": "semiologia4_a19",
-            "tema": "Aula 19: ○​ Síndrome piramidal, extrapiramidal, cerebelar, sensitiva.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Síndrome piramidal, extrapiramidal, cerebelar, sensitiva."
+            "id": "bmf2_a19",
+            "tema": "Aula 19: Morfologia do Telencéfalo",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Morfologia do Telencéfalo"
           },
           {
-            "id": "semiologia4_a20",
-            "tema": "Aula 20: ○​ Diagnósticos diferenciais: AVC, epilepsia, parkinsonismo, demências.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Diagnósticos diferenciais: AVC, epilepsia, parkinsonismo, demências."
+            "id": "bmf2_a20",
+            "tema": "Aula 20: - Hemisférios Cerebrais",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Hemisférios Cerebrais"
           },
           {
-            "id": "semiologia4_a21",
-            "tema": "Aula 21: ○​ Introdução à propedêutica complementar (ex.: TC, EEG, ressonância).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Introdução à propedêutica complementar (ex.: TC, EEG, ressonância)."
+            "id": "bmf2_a21",
+            "tema": "Aula 21: - Lobos I e II Ventrículos",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Lobos I e II Ventrículos"
           },
           {
-            "id": "semiologia4_a22",
-            "tema": "Aula 22: 2. Semiologia Prática Simulada",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 2. Semiologia Prática Simulada"
+            "id": "bmf2_a22",
+            "tema": "Aula 22: - Relações Anatômicas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
           },
           {
-            "id": "semiologia4_a23",
-            "tema": "Aula 23: ●​ 2.1. Treinamento em Manequins e Simuladores",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.1. Treinamento em Manequins e Simuladores"
+            "id": "bmf2_a23",
+            "tema": "Aula 23: Córtex Cerebral - Citoarquitetura e Funções",
+            "descricao": "Ao final desta aula, o aluno deve compreender: Córtex Cerebral - Citoarquitetura e Funções"
           },
           {
-            "id": "semiologia4_a24",
-            "tema": "Aula 24: ○​ Prática de exame neurológico em manequins (reflexos, força, nervos cranianos).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Prática de exame neurológico em manequins (reflexos, força, nervos cranianos)."
+            "id": "bmf2_a24",
+            "tema": "Aula 24: - Classificação",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Classificação"
           },
           {
-            "id": "semiologia4_a25",
-            "tema": "Aula 25: ○​ Simulação de achados patológicos (ex.: hemiparesia, tremor, nistagmo).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Simulação de achados patológicos (ex.: hemiparesia, tremor, nistagmo)."
+            "id": "bmf2_a25",
+            "tema": "Aula 25: - Filogenética",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Filogenética"
           },
           {
-            "id": "semiologia4_a26",
-            "tema": "Aula 26: ○​ Uso de ferramentas (martelo de reflexos, oftalmoscópio, diapasão).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Uso de ferramentas (martelo de reflexos, oftalmoscópio, diapasão)."
+            "id": "bmf2_a26",
+            "tema": "Aula 26: - Citoarquitetura e Estrutura",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Citoarquitetura e Estrutura"
           },
           {
-            "id": "semiologia4_a27",
-            "tema": "Aula 27: ●​ 2.2. Cenários com Pacientes Padronizados",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.2. Cenários com Pacientes Padronizados"
+            "id": "bmf2_a27",
+            "tema": "Aula 27: - Funcional",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Funcional"
           },
           {
-            "id": "semiologia4_a28",
-            "tema": "Aula 28: ○​ Simulação de anamnese com atores treinados para queixas neurológicas (ex.: cefaleia,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Simulação de anamnese com atores treinados para queixas neurológicas (ex.: cefaleia,"
+            "id": "bmf2_a28",
+            "tema": "Aula 28: - Áreas de Brodmann",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Áreas de Brodmann"
           },
           {
-            "id": "semiologia4_a29",
-            "tema": "Aula 29: ○​ Prática de exame físico neurológico em cenários controlados (ex.: avaliação de nervos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Prática de exame físico neurológico em cenários controlados (ex.: avaliação de nervos"
+            "id": "bmf2_a29",
+            "tema": "Aula 29: - Áreas de Luria (Primárias, Secundárias e Terciárias)",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Áreas de Luria (Primárias, Secundárias e Terciárias)"
           },
           {
-            "id": "semiologia4_a30",
-            "tema": "Aula 30: cranianos, marcha).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: cranianos, marcha)."
+            "id": "bmf2_a30",
+            "tema": "Aula 30: - Relações Anatômicas",
+            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
           }
         ]
       }
@@ -1048,175 +747,6 @@
       }
     ]
   },
-  "semiologia1": {
-    "nome": "Semiologia Musculoesquelética",
-    "sigla": "semiologia1",
-    "modulo": 1,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo introdutório da semiologia aplicada ao sistema musculoesquelético, dividi...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1",
-        "temas": [
-          {
-            "id": "semiologia1_a1",
-            "tema": "Aula 1: SEMIOLOGIA TEÓRICA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: SEMIOLOGIA TEÓRICA:"
-          },
-          {
-            "id": "semiologia1_a2",
-            "tema": "Aula 2: ●​ Fundamentos da Semiologia Musculoesquelética (Princípios de semiologia clínica aplicados ao",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Fundamentos da Semiologia Musculoesquelética (Princípios de semiologia clínica aplicados ao"
-          },
-          {
-            "id": "semiologia1_a3",
-            "tema": "Aula 3: sistema musculoesquelético.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: sistema musculoesquelético."
-          },
-          {
-            "id": "semiologia1_a4",
-            "tema": "Aula 4: ●​ Revisão anatômica e biomecânica de ossos, articulações, músculos e tecidos conectivos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Revisão anatômica e biomecânica de ossos, articulações, músculos e tecidos conectivos."
-          },
-          {
-            "id": "semiologia1_a5",
-            "tema": "Aula 5: ●​ Organização do exame clínico: anamnese e exame físico); Anamnese Direcionada (Coleta de história",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Organização do exame clínico: anamnese e exame físico); Anamnese Direcionada (Coleta de história"
-          },
-          {
-            "id": "semiologia1_a6",
-            "tema": "Aula 6: clínica: dor, rigidez, fraqueza, limitação de movimento.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: clínica: dor, rigidez, fraqueza, limitação de movimento."
-          },
-          {
-            "id": "semiologia1_a7",
-            "tema": "Aula 7: ●​ História patológica pregressa, ocupacional, esportiva e fatores de risco (Avaliação de sintomas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ História patológica pregressa, ocupacional, esportiva e fatores de risco (Avaliação de sintomas"
-          },
-          {
-            "id": "semiologia1_a8",
-            "tema": "Aula 8: associados); Exame Físico Teórico (Técnicas de inspeção, Palpação, Testes de mobilidade, Testes",
-            "descricao": "Ao final desta aula, o aluno deve compreender: associados); Exame Físico Teórico (Técnicas de inspeção, Palpação, Testes de mobilidade, Testes"
-          },
-          {
-            "id": "semiologia1_a9",
-            "tema": "Aula 9: funcionais e de força); Interpretação de Achados (Correlação com diagnósticos diferenciais; Síndromes",
-            "descricao": "Ao final desta aula, o aluno deve compreender: funcionais e de força); Interpretação de Achados (Correlação com diagnósticos diferenciais; Síndromes"
-          },
-          {
-            "id": "semiologia1_a10",
-            "tema": "Aula 10: musculoesqueléticas; Introdução à propedêutica complementar).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: musculoesqueléticas; Introdução à propedêutica complementar)."
-          },
-          {
-            "id": "semiologia1_a11",
-            "tema": "Aula 11: SEMIOLOGIA PRÁTICA SIMULADA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: SEMIOLOGIA PRÁTICA SIMULADA:"
-          },
-          {
-            "id": "semiologia1_a12",
-            "tema": "Aula 12: ●​ Treinamento em Manequins: Prática de inspeção, palpação e testes de mobilidade em manequins",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Treinamento em Manequins: Prática de inspeção, palpação e testes de mobilidade em manequins"
-          },
-          {
-            "id": "semiologia1_a13",
-            "tema": "Aula 13: anatômicos. Simulação de testes específicos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: anatômicos. Simulação de testes específicos."
-          },
-          {
-            "id": "semiologia1_a14",
-            "tema": "Aula 14: ●​ Avaliação de força muscular e estabilidade articular.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Avaliação de força muscular e estabilidade articular."
-          },
-          {
-            "id": "semiologia1_a15",
-            "tema": "Aula 15: ●​ Cenários com Pacientes Padronizados: Simulação de anamnese com atores treinados.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Cenários com Pacientes Padronizados: Simulação de anamnese com atores treinados."
-          },
-          {
-            "id": "semiologia1_a16",
-            "tema": "Aula 16: ●​ Prática de exame físico em cenários controlados (ex.: ombro, joelho, coluna).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Prática de exame físico em cenários controlados (ex.: ombro, joelho, coluna)."
-          },
-          {
-            "id": "semiologia1_a17",
-            "tema": "Aula 17: ●​ Discussão de achados simulados e formulação de hipóteses diagnósticas.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Discussão de achados simulados e formulação de hipóteses diagnósticas."
-          },
-          {
-            "id": "semiologia1_a18",
-            "tema": "Aula 18: ●​ Estudos de Caso Simulados: Resolução de casos clínicos com base em achados semiológicos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Estudos de Caso Simulados: Resolução de casos clínicos com base em achados semiológicos"
-          },
-          {
-            "id": "semiologia1_a19",
-            "tema": "Aula 19: simulados. Treinamento em comunicação com o paciente e registro de achados.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: simulados. Treinamento em comunicação com o paciente e registro de achados."
-          },
-          {
-            "id": "semiologia1_a20",
-            "tema": "Aula 20: SEMIOLOGIA - PRÁTICA REAL:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: SEMIOLOGIA - PRÁTICA REAL:"
-          },
-          {
-            "id": "semiologia1_a21",
-            "tema": "Aula 21: ●​ Avaliação em Ambulatório Supervisionado (Realização de anamnese e exame físico em pacientes",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Avaliação em Ambulatório Supervisionado (Realização de anamnese e exame físico em pacientes"
-          },
-          {
-            "id": "semiologia1_a22",
-            "tema": "Aula 22: reais sob supervisão.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: reais sob supervisão."
-          },
-          {
-            "id": "semiologia1_a23",
-            "tema": "Aula 23: ●​ Aplicação de técnicas semiológicas em contextos clínicos).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Aplicação de técnicas semiológicas em contextos clínicos)."
-          },
-          {
-            "id": "semiologia1_a24",
-            "tema": "Aula 24: ●​ Prática de testes específicos com ênfase em ética e consentimento.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Prática de testes específicos com ênfase em ética e consentimento."
-          },
-          {
-            "id": "semiologia1_a25",
-            "tema": "Aula 25: ●​ Discussão de Casos Reais: Apresentação de casos clínicos observados.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Discussão de Casos Reais: Apresentação de casos clínicos observados."
-          },
-          {
-            "id": "semiologia1_a26",
-            "tema": "Aula 26: ●​ Correlação de achados com diagnósticos diferenciais e planejamento propedêutico.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Correlação de achados com diagnósticos diferenciais e planejamento propedêutico."
-          },
-          {
-            "id": "semiologia1_a27",
-            "tema": "Aula 27: REUNIÃO CLÍNICA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: REUNIÃO CLÍNICA:"
-          },
-          {
-            "id": "semiologia1_a28",
-            "tema": "Aula 28: ●​ Introdução às Reuniões Clínicas (Estrutura e objetivos das reuniões clínicas: discussão de casos reais",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Introdução às Reuniões Clínicas (Estrutura e objetivos das reuniões clínicas: discussão de casos reais"
-          },
-          {
-            "id": "semiologia1_a29",
-            "tema": "Aula 29: e simulados; Ética na discussão de casos: confidencialidade, consentimento, sensibilidade cultural;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: e simulados; Ética na discussão de casos: confidencialidade, consentimento, sensibilidade cultural;"
-          },
-          {
-            "id": "semiologia1_a30",
-            "tema": "Aula 30: Metodologia de análise crítica: anamnese, exame físico, exames complementares, diagnóstico e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Metodologia de análise crítica: anamnese, exame físico, exames complementares, diagnóstico e"
-          }
-        ]
-      }
-    ]
-  },
   "indicadores": {
     "nome": "Epidemiologia e Bioestatística",
     "sigla": "indicadores",
@@ -1381,944 +911,6 @@
             "id": "indicadores_a30",
             "tema": "Aula 30: ●​ Sistemas de informação em saúde – morbidade e mortalidade Conhecimento das fontes e usos",
             "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Sistemas de informação em saúde – morbidade e mortalidade Conhecimento das fontes e usos"
-          }
-        ]
-      }
-    ]
-  },
-  "mad1": {
-    "nome": "Mecanismos de Agressão e Defesa",
-    "sigla": "mad1",
-    "modulo": 2,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo integrado dos mecanismos de agressão ao organismo humano (infecções, infl...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "mad1_a1",
-            "tema": "Aula 1: OBJETIVOS DE",
-            "descricao": "Ao final desta aula, o aluno deve compreender: OBJETIVOS DE"
-          },
-          {
-            "id": "mad1_a2",
-            "tema": "Aula 2: APRENDIZAGEM",
-            "descricao": "Ao final desta aula, o aluno deve compreender: APRENDIZAGEM"
-          },
-          {
-            "id": "mad1_a3",
-            "tema": "Aula 3: ABORDAGEM, LOCAL E",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ABORDAGEM, LOCAL E"
-          },
-          {
-            "id": "mad1_a4",
-            "tema": "Aula 4: RECURSOS DIDÁTICOS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: RECURSOS DIDÁTICOS"
-          },
-          {
-            "id": "mad1_a5",
-            "tema": "Aula 5: METODOLOGIA DAS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: METODOLOGIA DAS"
-          },
-          {
-            "id": "mad1_a6",
-            "tema": "Aula 6: Funções básicas e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Funções básicas e"
-          },
-          {
-            "id": "mad1_a7",
-            "tema": "Aula 7: componentes do sistema",
-            "descricao": "Ao final desta aula, o aluno deve compreender: componentes do sistema"
-          },
-          {
-            "id": "mad1_a8",
-            "tema": "Aula 8: Apresentar as funções",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Apresentar as funções"
-          },
-          {
-            "id": "mad1_a9",
-            "tema": "Aula 9: básicas do sistema",
-            "descricao": "Ao final desta aula, o aluno deve compreender: básicas do sistema"
-          },
-          {
-            "id": "mad1_a10",
-            "tema": "Aula 10: imune: participação do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: imune: participação do"
-          },
-          {
-            "id": "mad1_a11",
-            "tema": "Aula 11: sistema imune na",
-            "descricao": "Ao final desta aula, o aluno deve compreender: sistema imune na"
-          },
-          {
-            "id": "mad1_a12",
-            "tema": "Aula 12: adaptação do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: adaptação do"
-          },
-          {
-            "id": "mad1_a13",
-            "tema": "Aula 13: organismo ao meio",
-            "descricao": "Ao final desta aula, o aluno deve compreender: organismo ao meio"
-          },
-          {
-            "id": "mad1_a14",
-            "tema": "Aula 14: ambiente (manutenção",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ambiente (manutenção"
-          },
-          {
-            "id": "mad1_a15",
-            "tema": "Aula 15: da homeostase),",
-            "descricao": "Ao final desta aula, o aluno deve compreender: da homeostase),"
-          },
-          {
-            "id": "mad1_a16",
-            "tema": "Aula 16: interação com a",
-            "descricao": "Ao final desta aula, o aluno deve compreender: interação com a"
-          },
-          {
-            "id": "mad1_a17",
-            "tema": "Aula 17: microbiota e sua",
-            "descricao": "Ao final desta aula, o aluno deve compreender: microbiota e sua"
-          },
-          {
-            "id": "mad1_a18",
-            "tema": "Aula 18: Abordagem teórica com",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Abordagem teórica com"
-          },
-          {
-            "id": "mad1_a19",
-            "tema": "Aula 19: metodologias ativas de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: metodologias ativas de"
-          },
-          {
-            "id": "mad1_a20",
-            "tema": "Aula 20: aprendizagem,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: aprendizagem,"
-          },
-          {
-            "id": "mad1_a21",
-            "tema": "Aula 21: promovendo a",
-            "descricao": "Ao final desta aula, o aluno deve compreender: promovendo a"
-          },
-          {
-            "id": "mad1_a22",
-            "tema": "Aula 22: integração entre teoria e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: integração entre teoria e"
-          },
-          {
-            "id": "mad1_a23",
-            "tema": "Aula 23: aplicação prática,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: aplicação prática,"
-          },
-          {
-            "id": "mad1_a24",
-            "tema": "Aula 24: contextualizada em",
-            "descricao": "Ao final desta aula, o aluno deve compreender: contextualizada em"
-          },
-          {
-            "id": "mad1_a25",
-            "tema": "Aula 25: forma de casos clínicos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: forma de casos clínicos."
-          },
-          {
-            "id": "mad1_a26",
-            "tema": "Aula 26: São utilizados recursos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: São utilizados recursos"
-          },
-          {
-            "id": "mad1_a27",
-            "tema": "Aula 27: didáticos variados em",
-            "descricao": "Ao final desta aula, o aluno deve compreender: didáticos variados em"
-          },
-          {
-            "id": "mad1_a28",
-            "tema": "Aula 28: sala de aula, incluindo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: sala de aula, incluindo"
-          },
-          {
-            "id": "mad1_a29",
-            "tema": "Aula 29: Aula expositiva com",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Aula expositiva com"
-          },
-          {
-            "id": "mad1_a30",
-            "tema": "Aula 30: metodologia ativa",
-            "descricao": "Ao final desta aula, o aluno deve compreender: metodologia ativa"
-          }
-        ]
-      }
-    ]
-  },
-  "planode": {
-    "nome": "Planodeensino-Biologiacelularemolecular-2026.01.Do",
-    "sigla": "planode",
-    "modulo": 2,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo integrado dos fundamentos de biologia celular e molecular, abordando a es...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "planode_a1",
-            "tema": "Aula 1: BIOLOGIA MOLECULAR:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BIOLOGIA MOLECULAR:"
-          },
-          {
-            "id": "planode_a2",
-            "tema": "Aula 2: ORGANIZAÇÃO DA CÉLULA EUCARIÓTICA: Estrutura e função das organelas celulares, Citoesqueleto,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ORGANIZAÇÃO DA CÉLULA EUCARIÓTICA: Estrutura e função das organelas celulares, Citoesqueleto,"
-          },
-          {
-            "id": "planode_a3",
-            "tema": "Aula 3: Dinâmica celular e Estrutura do núcleo.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Dinâmica celular e Estrutura do núcleo."
-          },
-          {
-            "id": "planode_a4",
-            "tema": "Aula 4: TAMPÕES BIOLÓGICOS E GASOMETRIA: Distúrbios do equilíbrio ácido-base: Acidoses: Respiratória,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: TAMPÕES BIOLÓGICOS E GASOMETRIA: Distúrbios do equilíbrio ácido-base: Acidoses: Respiratória,"
-          },
-          {
-            "id": "planode_a5",
-            "tema": "Aula 5: Metabólica; Mista, Alcaloses, Respiratória, Metabólica, Mista.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Metabólica; Mista, Alcaloses, Respiratória, Metabólica, Mista."
-          },
-          {
-            "id": "planode_a6",
-            "tema": "Aula 6: ORGANIZAÇÃO GENÔMICA - ESTRUTURA E FUNÇÃO GÊNICA: Estrutura E Função De Cromossomos: Estrutura",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ORGANIZAÇÃO GENÔMICA - ESTRUTURA E FUNÇÃO GÊNICA: Estrutura E Função De Cromossomos: Estrutura"
-          },
-          {
-            "id": "planode_a7",
-            "tema": "Aula 7: e função de um gene, Estrutura e função dos cromossomos, Polimorfismos. Fluxo Da Informação Genética :",
-            "descricao": "Ao final desta aula, o aluno deve compreender: e função de um gene, Estrutura e função dos cromossomos, Polimorfismos. Fluxo Da Informação Genética :"
-          },
-          {
-            "id": "planode_a8",
-            "tema": "Aula 8: Dogma central da biologia molecular e os processos envolvidos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Dogma central da biologia molecular e os processos envolvidos."
-          },
-          {
-            "id": "planode_a9",
-            "tema": "Aula 9: SINALIZAÇÃO CELULAR: Mecanismos de sinalização celular, como receptores, mensageiros e efetores",
-            "descricao": "Ao final desta aula, o aluno deve compreender: SINALIZAÇÃO CELULAR: Mecanismos de sinalização celular, como receptores, mensageiros e efetores"
-          },
-          {
-            "id": "planode_a10",
-            "tema": "Aula 10: intracelulares; Sistemas de sinalização e integração entre as vias de sinalização; Sinalização celular em",
-            "descricao": "Ao final desta aula, o aluno deve compreender: intracelulares; Sistemas de sinalização e integração entre as vias de sinalização; Sinalização celular em"
-          },
-          {
-            "id": "planode_a11",
-            "tema": "Aula 11: condições fisiológicas e fisiopatológicas, como proliferação e diferenciação celular.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: condições fisiológicas e fisiopatológicas, como proliferação e diferenciação celular."
-          },
-          {
-            "id": "planode_a12",
-            "tema": "Aula 12: REPLICAÇÃO: Duplicação do DNA in vivo e elementos da metodologia de amplificação por PCR (in vitro);",
-            "descricao": "Ao final desta aula, o aluno deve compreender: REPLICAÇÃO: Duplicação do DNA in vivo e elementos da metodologia de amplificação por PCR (in vitro);"
-          },
-          {
-            "id": "planode_a13",
-            "tema": "Aula 13: Mecanismo de ação de antibióticos que atuam na replicação.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Mecanismo de ação de antibióticos que atuam na replicação."
-          },
-          {
-            "id": "planode_a14",
-            "tema": "Aula 14: TRANSCRIÇÃO:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: TRANSCRIÇÃO:"
-          },
-          {
-            "id": "planode_a15",
-            "tema": "Aula 15: Transcrição",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Transcrição"
-          },
-          {
-            "id": "planode_a16",
-            "tema": "Aula 16: controle da expressão gênica (pré-transcricional, transcricional e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: controle da expressão gênica (pré-transcricional, transcricional e"
-          },
-          {
-            "id": "planode_a17",
-            "tema": "Aula 17: pós-transcricional); Mecanismo de ação de antibióticos que atuam na transcrição.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: pós-transcricional); Mecanismo de ação de antibióticos que atuam na transcrição."
-          },
-          {
-            "id": "planode_a18",
-            "tema": "Aula 18: TRADUÇÃO: Mecanismos moleculares envolvidos na tradução de proteínas, bem como os mecanismos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: TRADUÇÃO: Mecanismos moleculares envolvidos na tradução de proteínas, bem como os mecanismos"
-          },
-          {
-            "id": "planode_a19",
-            "tema": "Aula 19: biomoleculares de controle (traducional, pós-traducional); Mecanismo de ação de antibióticos que atuam na",
-            "descricao": "Ao final desta aula, o aluno deve compreender: biomoleculares de controle (traducional, pós-traducional); Mecanismo de ação de antibióticos que atuam na"
-          },
-          {
-            "id": "planode_a20",
-            "tema": "Aula 20: CONTROLE DA EXPRESSÃO GÊNICA: Integração dos níveis de regulação:  Controle da expressão dos genes,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: CONTROLE DA EXPRESSÃO GÊNICA: Integração dos níveis de regulação:  Controle da expressão dos genes,"
-          },
-          {
-            "id": "planode_a21",
-            "tema": "Aula 21: como eles são regulados em todos os níveis; Modificações no controle da expressão gênica podem ocasionar",
-            "descricao": "Ao final desta aula, o aluno deve compreender: como eles são regulados em todos os níveis; Modificações no controle da expressão gênica podem ocasionar"
-          },
-          {
-            "id": "planode_a22",
-            "tema": "Aula 22: doenças, como por exemplo, o câncer.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: doenças, como por exemplo, o câncer."
-          },
-          {
-            "id": "planode_a23",
-            "tema": "Aula 23: NECROSE X APOPTOSE: Diferenças entre os tipos de morte celular: apoptose e necrose; Componentes das",
-            "descricao": "Ao final desta aula, o aluno deve compreender: NECROSE X APOPTOSE: Diferenças entre os tipos de morte celular: apoptose e necrose; Componentes das"
-          },
-          {
-            "id": "planode_a24",
-            "tema": "Aula 24: vias de apoptose; Mecanismos apoptóticos; Ativadores e inibidores de apoptose.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: vias de apoptose; Mecanismos apoptóticos; Ativadores e inibidores de apoptose."
-          },
-          {
-            "id": "planode_a25",
-            "tema": "Aula 25: CICLO CELULAR: Contexto clínico de p53 e Rb1.: Mecanismos envolvidos no controle do ciclo celular, os",
-            "descricao": "Ao final desta aula, o aluno deve compreender: CICLO CELULAR: Contexto clínico de p53 e Rb1.: Mecanismos envolvidos no controle do ciclo celular, os"
-          },
-          {
-            "id": "planode_a26",
-            "tema": "Aula 26: pontos de checagem e as principais moléculas relacionadas.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: pontos de checagem e as principais moléculas relacionadas."
-          },
-          {
-            "id": "planode_a27",
-            "tema": "Aula 27: MUTAÇÕES E AGENTES MUTAGÊNICOS:  Agentes mutagênicos químicos, físicos e biológicos;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: MUTAÇÕES E AGENTES MUTAGÊNICOS:  Agentes mutagênicos químicos, físicos e biológicos;"
-          },
-          {
-            "id": "planode_a28",
-            "tema": "Aula 28: Tipos de mutações.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Tipos de mutações."
-          },
-          {
-            "id": "planode_a29",
-            "tema": "Aula 29: REPARO DE DNA: Genes (BRCA1, BRCA2): Relação entre mutação e doenças; Enzimas e sistemas associados",
-            "descricao": "Ao final desta aula, o aluno deve compreender: REPARO DE DNA: Genes (BRCA1, BRCA2): Relação entre mutação e doenças; Enzimas e sistemas associados"
-          },
-          {
-            "id": "planode_a30",
-            "tema": "Aula 30: ao reparo do DNA.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ao reparo do DNA."
-          }
-        ]
-      }
-    ]
-  },
-  "ds": {
-    "nome": "Dimensões Socioambientais",
-    "sigla": "ds",
-    "modulo": 2,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A disciplina de desafios socioambientais globais integra-se à matriz curricular ...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "ds_a1",
-            "tema": "Aula 1: ●​ Compreender os Desafios Socioambientais Globais;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Compreender os Desafios Socioambientais Globais;"
-          },
-          {
-            "id": "ds_a2",
-            "tema": "Aula 2: ●​ Explorar os conceitos e contextos do tema: “Saúde e Sustentabilidade nas Cidades”;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Explorar os conceitos e contextos do tema: “Saúde e Sustentabilidade nas Cidades”;"
-          },
-          {
-            "id": "ds_a3",
-            "tema": "Aula 3: ●​ Compreender a relação entre Sustentabilidade, Saúde e os Objetivos de Desenvolvimento",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Compreender a relação entre Sustentabilidade, Saúde e os Objetivos de Desenvolvimento"
-          },
-          {
-            "id": "ds_a4",
-            "tema": "Aula 4: Sustentável da ONU;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Sustentável da ONU;"
-          },
-          {
-            "id": "ds_a5",
-            "tema": "Aula 5: ●​ Conhecer o Índice de Desenvolvimento Sustentável das Cidades do Brasil (Instituto Cidades",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Conhecer o Índice de Desenvolvimento Sustentável das Cidades do Brasil (Instituto Cidades"
-          },
-          {
-            "id": "ds_a6",
-            "tema": "Aula 6: Sustentáveis);",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Sustentáveis);"
-          },
-          {
-            "id": "ds_a7",
-            "tema": "Aula 7: ●​ Compreender e analisar políticas públicas e iniciativas sociais desenvolvidas sob a perspectiva da",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Compreender e analisar políticas públicas e iniciativas sociais desenvolvidas sob a perspectiva da"
-          },
-          {
-            "id": "ds_a8",
-            "tema": "Aula 8: Saúde e Sustentabilidade, reconhecendo seus princípios, estratégias e impactos na promoção do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Saúde e Sustentabilidade, reconhecendo seus princípios, estratégias e impactos na promoção do"
-          },
-          {
-            "id": "ds_a9",
-            "tema": "Aula 9: bem-estar coletivo e no fortalecimento de territórios sustentáveis e saudáveis.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: bem-estar coletivo e no fortalecimento de territórios sustentáveis e saudáveis."
-          },
-          {
-            "id": "ds_a10",
-            "tema": "Aula 10: ●​ Compreender os Desafios Socioambientais para a realidade brasileira.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Compreender os Desafios Socioambientais para a realidade brasileira."
-          }
-        ]
-      }
-    ]
-  },
-  "mfc": {
-    "nome": "Medicina de Família e Comunidade",
-    "sigla": "mfc",
-    "modulo": 6,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A unidade curricular irá permitir que o aluno adquira o conhecimento das atribui...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 6",
-        "temas": [
-          {
-            "id": "mfc_a1",
-            "tema": "Aula 1: CONHECIMENTOS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: CONHECIMENTOS"
-          }
-        ]
-      }
-    ]
-  },
-  "cirurgia": {
-    "nome": "Clínica Cirúrgica e Ortopedia",
-    "sigla": "cirurgia",
-    "modulo": 6,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A Disciplina aborda os agravos à saúde mais prevalentes e de maior morbidade e m...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 6",
-        "temas": [
-          {
-            "id": "cirurgia_a1",
-            "tema": "Aula 1: Cirurgia Geral e Gastrocirurgia:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Cirurgia Geral e Gastrocirurgia:"
-          },
-          {
-            "id": "cirurgia_a2",
-            "tema": "Aula 2: ●​ Abdome agudo: aspectos propedêuticos e classificação (inflamatório, perfurativo, obstrutivo,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Abdome agudo: aspectos propedêuticos e classificação (inflamatório, perfurativo, obstrutivo,"
-          },
-          {
-            "id": "cirurgia_a3",
-            "tema": "Aula 3: hemorrágico e vascular)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: hemorrágico e vascular)"
-          },
-          {
-            "id": "cirurgia_a4",
-            "tema": "Aula 4: ●​ Apendicite aguda e relação com abdome agudo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Apendicite aguda e relação com abdome agudo"
-          },
-          {
-            "id": "cirurgia_a5",
-            "tema": "Aula 5: ●​ Hérnias da parede abdominal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Hérnias da parede abdominal"
-          },
-          {
-            "id": "cirurgia_a6",
-            "tema": "Aula 6: ●​ Diagnóstico diferencial da icterícia",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Diagnóstico diferencial da icterícia"
-          },
-          {
-            "id": "cirurgia_a7",
-            "tema": "Aula 7: ●​ Pancreatite aguda",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Pancreatite aguda"
-          },
-          {
-            "id": "cirurgia_a8",
-            "tema": "Aula 8: ●​ Litíase de vias biliares",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Litíase de vias biliares"
-          },
-          {
-            "id": "cirurgia_a9",
-            "tema": "Aula 9: ●​ Alterações motoras do esôfago",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Alterações motoras do esôfago"
-          },
-          {
-            "id": "cirurgia_a10",
-            "tema": "Aula 10: ●​ Doença do refluxo gastro-esofágico",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doença do refluxo gastro-esofágico"
-          },
-          {
-            "id": "cirurgia_a11",
-            "tema": "Aula 11: ●​ Outras afecções não neoplásicas do esôfago",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Outras afecções não neoplásicas do esôfago"
-          },
-          {
-            "id": "cirurgia_a12",
-            "tema": "Aula 12: ●​ Hemorragias digestivas alta e baixa",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Hemorragias digestivas alta e baixa"
-          },
-          {
-            "id": "cirurgia_a13",
-            "tema": "Aula 13: ●​ Doença ulcerosa péptica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doença ulcerosa péptica"
-          },
-          {
-            "id": "cirurgia_a14",
-            "tema": "Aula 14: ●​ Doenças orificiais / Semiologia Proctológica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doenças orificiais / Semiologia Proctológica"
-          },
-          {
-            "id": "cirurgia_a15",
-            "tema": "Aula 15: ●​ Doença diverticular dos cólons e Diverticulite aguda",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doença diverticular dos cólons e Diverticulite aguda"
-          },
-          {
-            "id": "cirurgia_a16",
-            "tema": "Aula 16: Neoplasias em Cirurgia do Aparelho Digestivo:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Neoplasias em Cirurgia do Aparelho Digestivo:"
-          },
-          {
-            "id": "cirurgia_a17",
-            "tema": "Aula 17: ●​ Neoplasia de fígado",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia de fígado"
-          },
-          {
-            "id": "cirurgia_a18",
-            "tema": "Aula 18: ●​ Neoplasia de vias biliares",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia de vias biliares"
-          },
-          {
-            "id": "cirurgia_a19",
-            "tema": "Aula 19: ●​ Neoplasia de pâncreas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia de pâncreas"
-          },
-          {
-            "id": "cirurgia_a20",
-            "tema": "Aula 20: ●​ Neoplasia gástrica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia gástrica"
-          },
-          {
-            "id": "cirurgia_a21",
-            "tema": "Aula 21: ●​ Neoplasia de esôfago",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia de esôfago"
-          },
-          {
-            "id": "cirurgia_a22",
-            "tema": "Aula 22: ●​ Neoplasia colorretal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia colorretal"
-          },
-          {
-            "id": "cirurgia_a23",
-            "tema": "Aula 23: ●​ Neoplasia de canal anal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Neoplasia de canal anal"
-          },
-          {
-            "id": "cirurgia_a24",
-            "tema": "Aula 24: ●​ Anatomia e Semiologia em Ortopedia",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anatomia e Semiologia em Ortopedia"
-          },
-          {
-            "id": "cirurgia_a25",
-            "tema": "Aula 25: ●​ Exames Complementares (Imagem) em Ortopedia",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Exames Complementares (Imagem) em Ortopedia"
-          },
-          {
-            "id": "cirurgia_a26",
-            "tema": "Aula 26: ●​ Doenças do metabolismo ósseo (osteopenia / osteoporose)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doenças do metabolismo ósseo (osteopenia / osteoporose)"
-          },
-          {
-            "id": "cirurgia_a27",
-            "tema": "Aula 27: ●​ Princípios de Fraturas, Luxações e Imobilizações",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Princípios de Fraturas, Luxações e Imobilizações"
-          },
-          {
-            "id": "cirurgia_a28",
-            "tema": "Aula 28: ●​ Lesões ligamentares, musculares e tendíneas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Lesões ligamentares, musculares e tendíneas"
-          },
-          {
-            "id": "cirurgia_a29",
-            "tema": "Aula 29: ●​ Doenças do quadril em desenvolvimento (displasia, Legg-Calvé-Perthes, epifisiolistese)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doenças do quadril em desenvolvimento (displasia, Legg-Calvé-Perthes, epifisiolistese)"
-          },
-          {
-            "id": "cirurgia_a30",
-            "tema": "Aula 30: ●​ Infecções osteoarticulares",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Infecções osteoarticulares"
-          }
-        ]
-      }
-    ]
-  },
-  "clinica": {
-    "nome": "Clínica Médica",
-    "sigla": "clinica",
-    "modulo": 6,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A disciplina aborda o diagnóstico, tratamento e manejo de patologias em diferent...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 6",
-        "temas": [
-          {
-            "id": "clinica_a1",
-            "tema": "Aula 1: 6.1 AULAS TEÓRICAS:​",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 6.1 AULAS TEÓRICAS:​"
-          },
-          {
-            "id": "clinica_a2",
-            "tema": "Aula 2: GASTROENTEROLOGIA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: GASTROENTEROLOGIA:"
-          },
-          {
-            "id": "clinica_a3",
-            "tema": "Aula 3: ●​ Cirrose hepática e suas complicações",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Cirrose hepática e suas complicações"
-          },
-          {
-            "id": "clinica_a4",
-            "tema": "Aula 4: ●​ Hepatites Virais",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Hepatites Virais"
-          },
-          {
-            "id": "clinica_a5",
-            "tema": "Aula 5: ●​ Aspectos do Envelhecimento (Senescência e Senilidade)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Aspectos do Envelhecimento (Senescência e Senilidade)"
-          },
-          {
-            "id": "clinica_a6",
-            "tema": "Aula 6: ●​ Funcionalidade em Geriatria",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Funcionalidade em Geriatria"
-          },
-          {
-            "id": "clinica_a7",
-            "tema": "Aula 7: ●​ Síndrome de Fragilidade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Síndrome de Fragilidade"
-          },
-          {
-            "id": "clinica_a8",
-            "tema": "Aula 8: ●​ Síndromes Geriátricas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Síndromes Geriátricas"
-          },
-          {
-            "id": "clinica_a9",
-            "tema": "Aula 9: HEMATOLOGIA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: HEMATOLOGIA:"
-          },
-          {
-            "id": "clinica_a10",
-            "tema": "Aula 10: ●​ Leucemias agudas e crônicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Leucemias agudas e crônicas"
-          },
-          {
-            "id": "clinica_a11",
-            "tema": "Aula 11: ●​ Linfomas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Linfomas"
-          },
-          {
-            "id": "clinica_a12",
-            "tema": "Aula 12: ●​ Mieloma múltiplo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Mieloma múltiplo"
-          },
-          {
-            "id": "clinica_a13",
-            "tema": "Aula 13: ●​ Diagnóstico laboratorial de hemostasias",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Diagnóstico laboratorial de hemostasias"
-          },
-          {
-            "id": "clinica_a14",
-            "tema": "Aula 14: PNEUMOLOGIA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: PNEUMOLOGIA:"
-          },
-          {
-            "id": "clinica_a15",
-            "tema": "Aula 15: ●​ Prova de função pulmonar / Espirometria",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Prova de função pulmonar / Espirometria"
-          },
-          {
-            "id": "clinica_a16",
-            "tema": "Aula 16: ●​ Doença Pulmonar Obstrutiva Crônica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doença Pulmonar Obstrutiva Crônica"
-          },
-          {
-            "id": "clinica_a17",
-            "tema": "Aula 17: ●​ Doenças Pulmonares Intersticiais",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Doenças Pulmonares Intersticiais"
-          },
-          {
-            "id": "clinica_a18",
-            "tema": "Aula 18: REUMATOLOGIA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: REUMATOLOGIA:"
-          },
-          {
-            "id": "clinica_a19",
-            "tema": "Aula 19: ●​ Diagnóstico diferencial das monoartrites",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Diagnóstico diferencial das monoartrites"
-          },
-          {
-            "id": "clinica_a20",
-            "tema": "Aula 20: ●​ Diagnóstico diferencial das poliartrites",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Diagnóstico diferencial das poliartrites"
-          },
-          {
-            "id": "clinica_a21",
-            "tema": "Aula 21: ●​ Espondiloartropatias soronegativas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Espondiloartropatias soronegativas"
-          },
-          {
-            "id": "clinica_a22",
-            "tema": "Aula 22: ●​ Lúpus Eritematoso Sistêmico",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Lúpus Eritematoso Sistêmico"
-          },
-          {
-            "id": "clinica_a23",
-            "tema": "Aula 23: MEDICINA PALIATIVA (CUIDADOS PALIATIVOS):",
-            "descricao": "Ao final desta aula, o aluno deve compreender: MEDICINA PALIATIVA (CUIDADOS PALIATIVOS):"
-          },
-          {
-            "id": "clinica_a24",
-            "tema": "Aula 24: ●​ Conceitos em Cuidados Paliativos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Conceitos em Cuidados Paliativos"
-          },
-          {
-            "id": "clinica_a25",
-            "tema": "Aula 25: ●​ Abordagem da Dor / Manejo de sintomas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Abordagem da Dor / Manejo de sintomas"
-          },
-          {
-            "id": "clinica_a26",
-            "tema": "Aula 26: ●​ Comunicação de Más Notícias",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Comunicação de Más Notícias"
-          },
-          {
-            "id": "clinica_a27",
-            "tema": "Aula 27: 6.2 AULAS PRÁTICAS SIMULADAS:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 6.2 AULAS PRÁTICAS SIMULADAS:"
-          },
-          {
-            "id": "clinica_a28",
-            "tema": "Aula 28: GASTROENTEROLOGIA:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: GASTROENTEROLOGIA:"
-          },
-          {
-            "id": "clinica_a29",
-            "tema": "Aula 29: ●​ Diarreias (incluindo doença inflamatória intestinal)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Diarreias (incluindo doença inflamatória intestinal)"
-          },
-          {
-            "id": "clinica_a30",
-            "tema": "Aula 30: ●​ Obstipação",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Obstipação"
-          }
-        ]
-      }
-    ]
-  },
-  "tcar": {
-    "nome": "Técnica Operatória",
-    "sigla": "tcar",
-    "modulo": 6,
-    "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A Disciplina de Técnica Operatória tem como objetivo possibilitar um primeiro co...",
-    "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 6",
-        "temas": [
-          {
-            "id": "tcar_a1",
-            "tema": "Aula 1: 1. Antissepsia, assepsia e esterilização",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1. Antissepsia, assepsia e esterilização"
-          },
-          {
-            "id": "tcar_a2",
-            "tema": "Aula 2: Conhecimentos:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Conhecimentos:"
-          },
-          {
-            "id": "tcar_a3",
-            "tema": "Aula 3: ●​ Conceituar: antissepsia e assepsia",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Conceituar: antissepsia e assepsia"
-          },
-          {
-            "id": "tcar_a4",
-            "tema": "Aula 4: ●​ Exemplificar uso dessa aprendizagem em ambientes da prática assistencial",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Exemplificar uso dessa aprendizagem em ambientes da prática assistencial"
-          },
-          {
-            "id": "tcar_a5",
-            "tema": "Aula 5: ●​ Princípios básicos de paramentação",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Princípios básicos de paramentação"
-          },
-          {
-            "id": "tcar_a6",
-            "tema": "Aula 6: Habilidades:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Habilidades:"
-          },
-          {
-            "id": "tcar_a7",
-            "tema": "Aula 7: ●​ Paramentar-se adequadamente, tornando-se apto a exercer tal atividade no ambiente hospitalar",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Paramentar-se adequadamente, tornando-se apto a exercer tal atividade no ambiente hospitalar"
-          },
-          {
-            "id": "tcar_a8",
-            "tema": "Aula 8: ●​ Identificar falhas e acertos no seu treinamento de paramentação",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Identificar falhas e acertos no seu treinamento de paramentação"
-          },
-          {
-            "id": "tcar_a9",
-            "tema": "Aula 9: ●​ Participação ativa / proatividade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Participação ativa / proatividade"
-          },
-          {
-            "id": "tcar_a10",
-            "tema": "Aula 10: ●​ Respeito aos colegas e à equipe",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Respeito aos colegas e à equipe"
-          },
-          {
-            "id": "tcar_a11",
-            "tema": "Aula 11: Local: Sala do futuro (aula teórica) e Núcleo Integrado de Simulação - Técnica Operatória (aula prática)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Local: Sala do futuro (aula teórica) e Núcleo Integrado de Simulação - Técnica Operatória (aula prática)"
-          },
-          {
-            "id": "tcar_a12",
-            "tema": "Aula 12: Metodologia: Aula teórica com artigos e vídeos temáticos; treinamento prático no NIS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Metodologia: Aula teórica com artigos e vídeos temáticos; treinamento prático no NIS"
-          },
-          {
-            "id": "tcar_a13",
-            "tema": "Aula 13: 2. O Ambiente Cirúrgico",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 2. O Ambiente Cirúrgico"
-          },
-          {
-            "id": "tcar_a14",
-            "tema": "Aula 14: Conhecimentos:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Conhecimentos:"
-          },
-          {
-            "id": "tcar_a15",
-            "tema": "Aula 15: ●​ Conceituar: zona de proteção, zona limpa, zona estéril",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Conceituar: zona de proteção, zona limpa, zona estéril"
-          },
-          {
-            "id": "tcar_a16",
-            "tema": "Aula 16: Habilidades:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Habilidades:"
-          },
-          {
-            "id": "tcar_a17",
-            "tema": "Aula 17: ●​ Executar a escovação e a paramentação cirúrgicas.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Executar a escovação e a paramentação cirúrgicas."
-          },
-          {
-            "id": "tcar_a18",
-            "tema": "Aula 18: ●​ Participação ativa / proatividade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Participação ativa / proatividade"
-          },
-          {
-            "id": "tcar_a19",
-            "tema": "Aula 19: ●​ Respeito aos colegas e à equipe",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Respeito aos colegas e à equipe"
-          },
-          {
-            "id": "tcar_a20",
-            "tema": "Aula 20: Local: Sala do futuro (aula teórica) e Núcleo Integrado de Simulação - Técnica Operatória (aula prática)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Local: Sala do futuro (aula teórica) e Núcleo Integrado de Simulação - Técnica Operatória (aula prática)"
-          },
-          {
-            "id": "tcar_a21",
-            "tema": "Aula 21: Metodologia: Aula teórica com artigos e vídeos temáticos; treinamento prático no NIS",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Metodologia: Aula teórica com artigos e vídeos temáticos; treinamento prático no NIS"
-          },
-          {
-            "id": "tcar_a22",
-            "tema": "Aula 22: 3. Operações Fundamentais em Cirurgia e Material Cirúrgico",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 3. Operações Fundamentais em Cirurgia e Material Cirúrgico"
-          },
-          {
-            "id": "tcar_a23",
-            "tema": "Aula 23: Conhecimentos:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Conhecimentos:"
-          },
-          {
-            "id": "tcar_a24",
-            "tema": "Aula 24: ●​ Conceituar passos fundamentais da cirurgia: diérese, hemostasia e síntese",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Conceituar passos fundamentais da cirurgia: diérese, hemostasia e síntese"
-          },
-          {
-            "id": "tcar_a25",
-            "tema": "Aula 25: ●​ Reconhecer os nomes e as funções dos instrumentais cirúrgicos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Reconhecer os nomes e as funções dos instrumentais cirúrgicos"
-          },
-          {
-            "id": "tcar_a26",
-            "tema": "Aula 26: Habilidades:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Habilidades:"
-          },
-          {
-            "id": "tcar_a27",
-            "tema": "Aula 27: ●​ Reconhecer materiais cirúrgicos no ambiente de prática",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Reconhecer materiais cirúrgicos no ambiente de prática"
-          },
-          {
-            "id": "tcar_a28",
-            "tema": "Aula 28: ●​ Executar a montagem da mesa cirúrgica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Executar a montagem da mesa cirúrgica"
-          },
-          {
-            "id": "tcar_a29",
-            "tema": "Aula 29: ●​ Participação ativa / proatividade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Participação ativa / proatividade"
-          },
-          {
-            "id": "tcar_a30",
-            "tema": "Aula 30: ●​ Respeito aos colegas e à equipe",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Respeito aos colegas e à equipe"
           }
         ]
       }
