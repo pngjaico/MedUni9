@@ -1068,6 +1068,14 @@
       margin-top: 16px;
     }
 
+    .subject-card-empty {
+      opacity: 0.45;
+    }
+
+    .subject-card-empty .subject-select-meta {
+      font-style: italic;
+    }
+
     .session-complete {
       text-align: center;
       padding: 40px 0;
@@ -1940,6 +1948,88 @@
         color: black;
       }
     }
+
+    /* ===================== Feedback FAB ===================== */
+    .feedback-fab {
+      position: fixed;
+      bottom: 80px;
+      right: 18px;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #00B4D8, #0077B6);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+      box-shadow: 0 4px 18px rgba(0,180,216,0.45);
+      z-index: 300;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .feedback-fab:active { transform: scale(0.92); }
+    @media (min-width: 768px) {
+      .feedback-fab { bottom: 24px; right: 24px; }
+    }
+
+    .feedback-overlay {
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.6);
+      z-index: 400;
+      display: flex; align-items: flex-end; justify-content: center;
+      padding: 0 0 env(safe-area-inset-bottom, 0) 0;
+      animation: fadeIn 0.2s ease;
+    }
+    @media (min-width: 600px) {
+      .feedback-overlay { align-items: center; }
+    }
+    .feedback-modal {
+      background: #0D2137;
+      border: 1px solid rgba(0,180,216,0.25);
+      border-radius: 18px 18px 0 0;
+      width: 100%;
+      max-width: 520px;
+      padding: 24px 20px 32px;
+      animation: slideUp 0.25s ease;
+    }
+    @media (min-width: 600px) {
+      .feedback-modal { border-radius: 18px; }
+    }
+    @keyframes slideUp {
+      from { transform: translateY(40px); opacity: 0; }
+      to   { transform: translateY(0);   opacity: 1; }
+    }
+    .feedback-modal h3 {
+      font-size: 17px; font-weight: 700;
+      color: var(--text-primary); margin-bottom: 4px;
+    }
+    .feedback-modal p { font-size: 13px; color: var(--text-secondary); margin-bottom: 18px; }
+    .feedback-label { font-size: 12px; font-weight: 600; color: var(--text-secondary); margin-bottom: 6px; display: block; }
+    .feedback-select, .feedback-textarea {
+      width: 100%; background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12); border-radius: 10px;
+      color: var(--text-primary); font-family: inherit; font-size: 14px;
+      padding: 10px 12px; margin-bottom: 14px;
+      -webkit-user-select: auto; user-select: auto;
+    }
+    .feedback-select option { background: #0D2137; }
+    .feedback-textarea { resize: none; height: 110px; }
+    .feedback-char-counter { font-size: 11px; color: var(--text-secondary); text-align: right; margin-top: -10px; margin-bottom: 14px; }
+    .feedback-actions { display: flex; gap: 10px; margin-top: 4px; }
+    .feedback-btn {
+      flex: 1; padding: 12px; border-radius: 10px; border: none;
+      font-size: 14px; font-weight: 600; cursor: pointer; transition: opacity 0.2s;
+    }
+    .feedback-btn:active { opacity: 0.75; }
+    .feedback-btn-primary { background: linear-gradient(135deg,#00B4D8,#0077B6); color: #fff; }
+    .feedback-btn-secondary { background: rgba(255,255,255,0.08); color: var(--text-primary); }
+    .feedback-success {
+      display: flex; flex-direction: column; align-items: center;
+      justify-content: center; padding: 32px 0; gap: 12px;
+      color: var(--text-primary); font-size: 15px; text-align: center;
+    }
+    .feedback-success-icon { font-size: 40px; }
   </style>
 </head>
 <body>
@@ -1988,12 +2078,165 @@
     }
   </script>
 
+  <!-- Firebase SDK (Feedback collection via Firestore) -->
+  <script type="module">
+    import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
+    import { getFirestore, collection, addDoc }  from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+    // ATENÇÃO: substitua os valores abaixo com os do seu projeto Firebase
+    // Firebase Console → Project Settings → Your Apps → SDK setup
+    const _fbConfig = {
+      apiKey:            "COLE_SUA_API_KEY_AQUI",
+      authDomain:        "meduni9-869eb.firebaseapp.com",
+      projectId:         "meduni9-869eb",
+      storageBucket:     "meduni9-869eb.appspot.com",
+      messagingSenderId: "COLE_SEU_MESSAGING_SENDER_ID",
+      appId:             "COLE_SEU_APP_ID"
+    };
+    const _fbApp = initializeApp(_fbConfig);
+    const _db    = getFirestore(_fbApp);
+    // Expor para o React (type=text/babel não é module, usa window)
+    window.__fbAddFeedback = async (payload) => {
+      return addDoc(collection(_db, 'feedback'), payload);
+    };
+  </script>
+
   <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
   <script type="text/babel">
     const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+    // ===================== Feedback FAB =====================
+
+    const FEEDBACK_TYPES = [
+      { value: 'bug',       label: '🐛 Bug / Erro no app' },
+      { value: 'sugestao',  label: '💡 Sugestão de melhoria' },
+      { value: 'conteudo',  label: '📚 Conteúdo / Material' },
+      { value: 'interface', label: '🎨 Interface / Visual' },
+    ];
+
+    const FEEDBACK_RATE_KEY = 'meduni9_fb_day';
+    const FEEDBACK_MAX_DAY  = 3;
+
+    function getFeedbackToday() {
+      try {
+        const raw = JSON.parse(localStorage.getItem(FEEDBACK_RATE_KEY) || '{}');
+        const today = new Date().toISOString().slice(0, 10);
+        return raw.date === today ? (raw.count || 0) : 0;
+      } catch { return 0; }
+    }
+
+    function incrementFeedbackCount() {
+      const today = new Date().toISOString().slice(0, 10);
+      const count = getFeedbackToday() + 1;
+      localStorage.setItem(FEEDBACK_RATE_KEY, JSON.stringify({ date: today, count }));
+    }
+
+    const FeedbackFAB = ({ currentMateria }) => {
+      const [open, setOpen]         = useState(false);
+      const [tipo, setTipo]         = useState('sugestao');
+      const [mensagem, setMensagem] = useState('');
+      const [sending, setSending]   = useState(false);
+      const [sent, setSent]         = useState(false);
+      const [erroMsg, setErroMsg]   = useState('');
+
+      const maxLen = 500;
+      const remaining = maxLen - mensagem.length;
+
+      const handleOpen = () => {
+        if (getFeedbackToday() >= FEEDBACK_MAX_DAY) {
+          alert('Limite de ' + FEEDBACK_MAX_DAY + ' feedbacks por dia atingido. Obrigado!');
+          return;
+        }
+        setOpen(true); setSent(false); setErroMsg(''); setMensagem(''); setTipo('sugestao');
+      };
+
+      const handleClose = () => { if (!sending) setOpen(false); };
+
+      const handleSend = async () => {
+        if (!mensagem.trim()) { setErroMsg('Escreva sua mensagem antes de enviar.'); return; }
+        if (!window.__fbAddFeedback) { setErroMsg('Feedback indisponível no momento.'); return; }
+        setSending(true); setErroMsg('');
+        try {
+          const payload = {
+            tipo,
+            mensagem: mensagem.trim().slice(0, maxLen),
+            criadoEm: new Date().toISOString(),
+          };
+          if (currentMateria) payload.disciplina = String(currentMateria).slice(0, 20);
+          await window.__fbAddFeedback(payload);
+          incrementFeedbackCount();
+          setSent(true);
+          setTimeout(() => setOpen(false), 2200);
+        } catch(e) {
+          setErroMsg('Erro ao enviar. Tente novamente.');
+        } finally {
+          setSending(false);
+        }
+      };
+
+      if (!open) {
+        return (
+          <button className="feedback-fab" onClick={handleOpen} title="Enviar feedback">
+            💬
+          </button>
+        );
+      }
+
+      return (
+        <div className="feedback-overlay" onClick={(e) => { if (e.target === e.currentTarget) handleClose(); }}>
+          <div className="feedback-modal">
+            {sent ? (
+              <div className="feedback-success">
+                <span className="feedback-success-icon">✅</span>
+                <strong>Obrigado pelo feedback!</strong>
+                <span style={{fontSize:'13px',color:'var(--text-secondary)'}}>Sua sugestão será analisada em breve.</span>
+              </div>
+            ) : (
+              <>
+                <h3>Enviar Feedback</h3>
+                <p>Sugestões, bugs ou problemas no conteúdo — tudo ajuda!</p>
+
+                <label className="feedback-label">Tipo</label>
+                <select
+                  className="feedback-select"
+                  value={tipo}
+                  onChange={(e) => setTipo(e.target.value)}
+                >
+                  {FEEDBACK_TYPES.map(t => (
+                    <option key={t.value} value={t.value}>{t.label}</option>
+                  ))}
+                </select>
+
+                <label className="feedback-label">Mensagem</label>
+                <textarea
+                  className="feedback-textarea"
+                  placeholder="Descreva detalhadamente..."
+                  value={mensagem}
+                  maxLength={maxLen}
+                  onChange={(e) => { setMensagem(e.target.value); setErroMsg(''); }}
+                />
+                <div className="feedback-char-counter" style={{color: remaining < 50 ? 'var(--error)' : undefined}}>
+                  {remaining} caracteres restantes
+                </div>
+
+                {erroMsg && <p style={{color:'var(--error)',fontSize:'13px',marginBottom:'10px'}}>{erroMsg}</p>}
+
+                <div className="feedback-actions">
+                  <button className="feedback-btn feedback-btn-secondary" onClick={handleClose} disabled={sending}>
+                    Cancelar
+                  </button>
+                  <button className="feedback-btn feedback-btn-primary" onClick={handleSend} disabled={sending || !mensagem.trim()}>
+                    {sending ? 'Enviando...' : 'Enviar 🚀'}
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+        </div>
+      );
+    };
 
     // ===================== Utilities =====================
 
@@ -2884,10 +3127,10 @@
 
       // Materia selection screen
       if (!selectedMateria) {
-        const materiasWithCards = materias.filter(m => pureFlashcards.some(f => f.materia === m.id));
-        const semFiltered = semesterFilter ? materiasWithCards.filter(m => m.modulo === semesterFilter) : materiasWithCards;
+        const allMaterias = materias.filter(m => m.ativo !== false);
+        const semFiltered = semesterFilter ? allMaterias.filter(m => m.modulo === semesterFilter) : allMaterias;
         const filteredMaterias = semFiltered.filter(m => fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || ''));
-        const semesters = [...new Set(materiasWithCards.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
+        const semesters = [...new Set(allMaterias.map(m => m.modulo))].sort((a,b) => a-b);
 
         return (
           <>
@@ -2916,16 +3159,18 @@
                   const pct = count > 0 ? Math.round((reviewedCount / count) * 100) : 0;
                   const subjectColor = SUBJECT_ICON_MAP[m.id]?.color || m.cor || 'var(--primary)';
                   return (
-                    <div key={m.id} className="subject-select-card" onClick={() => { onSelectMateria(m.id); setStudying(false); }}>
+                    <div key={m.id} className={`subject-select-card${count === 0 ? ' subject-card-empty' : ''}`} onClick={() => { onSelectMateria(m.id); setStudying(false); }}>
                       <SubjectIcon materiaId={m.id} icon={m.icon} cor={m.cor} />
                       <div className="subject-select-info">
                         <div className="subject-select-name">{m.sigla || m.nome}</div>
                         <div className="subject-select-meta">
-                          {count} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia ✓'}
+                          {count > 0 ? `${count} cards${dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia ✓'}` : 'Em breve'}
                         </div>
-                        <div className="subject-progress-bar">
-                          <div className="subject-progress-fill" style={{ width: `${pct}%`, background: subjectColor }} />
-                        </div>
+                        {count > 0 && (
+                          <div className="subject-progress-bar">
+                            <div className="subject-progress-fill" style={{ width: `${pct}%`, background: subjectColor }} />
+                          </div>
+                        )}
                       </div>
                       <div style={{ color: 'var(--text-secondary)' }}><IconChevronRight /></div>
                     </div>
@@ -2957,7 +3202,7 @@
               <button className="back-btn" onClick={() => onSelectMateria(null)}>← Flashcards</button>
               <h2 className="section-title">{backLabel}</h2>
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
-                {dueTotal > 0 ? `${dueTotal} cards para revisar hoje` : 'Todos os cards em dia!'} — {totalCards} total
+                {totalCards > 0 ? (dueTotal > 0 ? `${dueTotal} cards para revisar hoje` : 'Todos os cards em dia!') : 'Nenhum flashcard ainda'} — {totalCards} total
               </p>
               <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
                 <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudying(true); }}
@@ -2973,15 +3218,15 @@
                 {hasAulas ? (
                   aulas.map(aula => {
                     const cards = filteredByMateria.filter(f => f.tema === aula.id);
-                    if (cards.length === 0) return null;
                     const dueCount = SM2.getDueCards(cards, srData).length;
                     const isChecked = selectedTemas.includes(aula.id);
+                    const hasCards = cards.length > 0;
                     return (
-                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(aula.id)}>
+                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}${!hasCards ? ' subject-card-empty' : ''}`} onClick={() => hasCards && toggleTema(aula.id)}>
                         <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
                         <div className="subject-select-info">
                           <div className="subject-select-name">{aula.tema}</div>
-                          <div className="subject-select-meta">{cards.length} cards{dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}</div>
+                          <div className="subject-select-meta">{hasCards ? `${cards.length} cards${dueCount > 0 ? ` — ${dueCount} para revisar` : ' — em dia'}` : 'Em breve'}</div>
                         </div>
                       </div>
                     );
@@ -3053,14 +3298,17 @@
 
       // No cards
       if (deck.length === 0) {
+        const hasAnyCards = filteredByMateria.length > 0;
         return (
           <>
             <div className="screen-content">
               <button className="back-btn" onClick={() => setStudying(false)}>← {backLabel}</button>
               <div style={{ textAlign: 'center', marginTop: '60px' }}>
-                <div style={{ fontSize: '60px', marginBottom: '20px' }}>✨</div>
-                <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>Nenhum card para revisar agora!</p>
-                <p style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>Todos os cards estão em dia. Volte mais tarde.</p>
+                <div style={{ fontSize: '60px', marginBottom: '20px' }}>{hasAnyCards ? '✨' : '🚧'}</div>
+                <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                  {hasAnyCards ? 'Nenhum card para revisar agora!' : 'Flashcards em breve para esta matéria.'}
+                </p>
+                {hasAnyCards && <p style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>Todos os cards estão em dia. Volte mais tarde.</p>}
                 <button className="btn btn-secondary mt-2" style={{ marginTop: '20px' }} onClick={() => setStudying(false)}>Voltar</button>
               </div>
             </div>
@@ -3173,11 +3421,9 @@
 
       const quizzes = useMemo(() => {
         const grouped = {};
-        materias.forEach(m => {
+        materias.filter(m => m.ativo !== false).forEach(m => {
           const questions = quizQuestions.filter(f => f.materia === m.id);
-          if (questions.length > 0) {
-            grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo, cor: m.cor };
-          }
+          grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo, cor: m.cor };
         });
         return grouped;
       }, [quizQuestions, materias]);
@@ -3250,6 +3496,10 @@
 
       const handleMateriaClick = (materiaId) => {
         const cards = quizzes[materiaId]?.cards || [];
+        if (cards.length === 0) {
+          handleQuizStart(materiaId, []);
+          return;
+        }
         const temas = [...new Set(cards.map(c => c.tema).filter(Boolean))];
         if (temas.length > 1) {
           setPendingQuiz(materiaId);
@@ -3408,14 +3658,14 @@
                 {hasAulas ? (
                   aulas.map(aula => {
                     const count = quiz.cards.filter(c => c.tema === aula.id).length;
-                    if (count === 0) return null;
                     const isChecked = pendingTemas.includes(aula.id);
+                    const hasQs = count > 0;
                     return (
-                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(aula.id)}>
+                      <div key={aula.id} className={`subject-select-card${isChecked ? ' tema-selected' : ''}${!hasQs ? ' subject-card-empty' : ''}`} onClick={() => hasQs && togglePendingTema(aula.id)}>
                         <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
                         <div className="subject-select-info">
                           <div className="subject-select-name">{aula.tema}</div>
-                          <div className="subject-select-meta">{count} questões</div>
+                          <div className="subject-select-meta">{hasQs ? `${count} questões` : 'Em breve'}</div>
                         </div>
                       </div>
                     );
@@ -3456,15 +3706,16 @@
         const activeCards = getActiveCards();
 
         if (activeCards.length === 0) {
+          const emptyMsg = showCadernoErros
+            ? 'Nenhuma questão no caderno de erros!'
+            : 'Questões em breve para esta matéria.';
           return (
             <>
               <div className="screen-content">
                 <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>← Questões</button>
                 <div style={{ textAlign: 'center', marginTop: '60px' }}>
-                  <div style={{ fontSize: '60px', marginBottom: '20px' }}>✨</div>
-                  <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>
-                    {showCadernoErros ? 'Nenhuma questão no caderno de erros!' : 'Nenhuma questão disponível.'}
-                  </p>
+                  <div style={{ fontSize: '60px', marginBottom: '20px' }}>{showCadernoErros ? '✨' : '🚧'}</div>
+                  <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>{emptyMsg}</p>
                   <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>Voltar</button>
                 </div>
               </div>
@@ -3613,11 +3864,13 @@
                 </div>
               )}
               {Object.entries(filteredQuizzes).map(([id, quiz]) => (
-                <div key={id} className="subject-select-card" onClick={() => handleMateriaClick(id)}>
+                <div key={id} className={`subject-select-card${quiz.cards.length === 0 ? ' subject-card-empty' : ''}`} onClick={() => handleMateriaClick(id)}>
                   <SubjectIcon materiaId={id} icon={quiz.icon} cor={quiz.cor} />
                   <div className="subject-select-info">
                     <div className="subject-select-name">{quiz.sigla || quiz.name}</div>
-                    <div className="subject-select-meta">{quiz.cards.length} questões — Módulo {quiz.semestre}</div>
+                    <div className="subject-select-meta">
+                      {quiz.cards.length > 0 ? `${quiz.cards.length} questões — Módulo ${quiz.semestre}` : 'Em breve'}
+                    </div>
                   </div>
                   <div style={{ color: 'var(--text-secondary)' }}>
                     <IconChevronRight />
@@ -4185,6 +4438,9 @@
                 </div>
               ))}
             </div>
+
+            {/* Feedback FAB */}
+            <FeedbackFAB currentMateria={selectedMateria} />
           </div>
         </div>
       );

@@ -254,6 +254,27 @@
         .toggle input:checked + .toggle-slider { background: var(--success); }
         .toggle input:checked + .toggle-slider:before { transform: translateX(20px); }
 
+        /* Feedback request cards */
+        .fb-request-card {
+            background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 14px; padding: 18px 20px; margin-bottom: 12px;
+        }
+        .fb-request-header { display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+        .fb-request-title { font-size: 15px; font-weight: 700; }
+        .fb-badge-alta   { background: rgba(239,68,68,0.2); color: #EF4444; }
+        .fb-badge-media  { background: rgba(245,158,11,0.2); color: #F59E0B; }
+        .fb-badge-baixa  { background: rgba(107,114,128,0.2); color: #9CA3AF; }
+        .fb-request-desc { font-size: 13px; color: var(--text-secondary); line-height: 1.6; margin-bottom: 10px; }
+        .fb-request-action { font-size: 13px; color: var(--primary); background: rgba(0,180,216,0.08); border-radius: 8px; padding: 8px 12px; margin-bottom: 12px; }
+        .fb-request-meta  { font-size: 11px; color: var(--text-secondary); margin-bottom: 12px; }
+        .fb-request-btns  { display: flex; gap: 8px; }
+        .fb-incoming-card {
+            background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.07);
+            border-radius: 10px; padding: 12px 14px; margin-bottom: 8px; font-size: 13px;
+        }
+        .fb-incoming-card .fb-tipo { font-weight: 600; margin-bottom: 4px; }
+        .fb-incoming-card .fb-msg  { color: var(--text-secondary); line-height: 1.5; }
+
         /* Mode banner */
         .mode-banner { padding: 7px 16px; font-size: 12px; font-weight: 600; text-align: center; letter-spacing: .03em; }
         .mode-banner.local    { background: rgba(16,185,129,.15); color: var(--success); border-bottom: 1px solid rgba(16,185,129,.25); }
@@ -319,6 +340,7 @@
                 <button class="admin-nav-item" onclick="switchSection('content')">📝 Conteúdo</button>
                 <button class="admin-nav-item" onclick="switchSection('questoes')">❓ Questões</button>
                 <button class="admin-nav-item" onclick="switchSection('modules')">📚 Módulos</button>
+                <button class="admin-nav-item" onclick="switchSection('feedback')">📨 Feedback</button>
                 <button class="admin-nav-item" onclick="switchSection('git')">🚀 Git & Deploy</button>
                 <button class="admin-nav-item" onclick="switchSection('security')">🛡️ Segurança</button>
                 <button class="admin-nav-item" onclick="switchSection('automacoes')">🤖 Automações</button>
@@ -556,6 +578,26 @@
                     <div class="panel-header"><h3>Histórico de Commits</h3></div>
                     <pre class="git-output" id="gitLogOutput">—</pre>
                 </div>
+            </div>
+
+            <!-- ===== FEEDBACK ===== -->
+            <div class="admin-section" id="section-feedback">
+                <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+                    <div>
+                        <h1>Feedback dos Usuários</h1>
+                        <p>Requests gerados pelo agente noturno a partir do feedback dos alunos</p>
+                    </div>
+                    <button class="btn btn-ghost btn-sm" onclick="loadFeedbackSection()">↻ Atualizar</button>
+                </div>
+
+                <div class="stats-grid" id="feedback-stats"></div>
+
+                <div id="feedback-requests-list"></div>
+
+                <details style="margin-top:24px;">
+                    <summary style="cursor:pointer;font-weight:600;color:var(--text-secondary);font-size:14px;">📥 Feedback Bruto dos Usuários (incoming)</summary>
+                    <div id="feedback-incoming-list" style="margin-top:12px;"></div>
+                </details>
             </div>
 
             <!-- ===== AUTOMAÇÕES ===== -->
@@ -849,6 +891,7 @@
             if (name === 'automacoes') loadAutomacoesSection();
             if (name === 'questoes')   loadQuestoesSection();
             if (name === 'git')        loadGitSection();
+            if (name === 'feedback')   loadFeedbackSection();
         }
 
         // ===================== DATA LOADING =====================
@@ -910,6 +953,21 @@
                 <div class="stat-card"><div class="stat-label">Módulos Visíveis</div><div class="stat-value">${new Set(activeMaterias.map(m => m.modulo)).size}</div></div>
                 <div class="stat-card error"><div class="stat-label">Códigos Totais</div><div class="stat-value">${totalCodes}</div></div>
             `;
+
+            // Load feedback pending count (non-blocking)
+            fetch('/api/feedback/requests').then(r => r.json()).then(data => {
+                if (data.ok && data.requests && data.requests.length > 0) {
+                    const n = data.requests.length;
+                    const existing = document.getElementById('dashboardStats');
+                    if (existing) {
+                        existing.insertAdjacentHTML('beforeend',
+                            `<div class="stat-card" style="cursor:pointer;border:1px solid rgba(245,158,11,0.4)" onclick="switchSection('feedback');document.querySelectorAll('.admin-nav-item').forEach(b=>{b.classList.remove('active');if(b.textContent.includes('Feedback'))b.classList.add('active')});">
+                                <div class="stat-label">📨 Feedback Pendente</div>
+                                <div class="stat-value" style="color:var(--warning)">${n}</div>
+                            </div>`);
+                    }
+                }
+            }).catch(() => {});
 
             // Content by module
             const byModule = {};
@@ -1238,6 +1296,125 @@
         }
 
         // ===================== SECURITY =====================
+
+        // ===================== FEEDBACK =====================
+        async function loadFeedbackSection() {
+            const statsEl    = document.getElementById('feedback-stats');
+            const listEl     = document.getElementById('feedback-requests-list');
+            const incomingEl = document.getElementById('feedback-incoming-list');
+
+            statsEl.innerHTML = '<div class="stat-card"><div class="stat-label">Carregando...</div></div>';
+            listEl.innerHTML  = '';
+            incomingEl.innerHTML = '';
+
+            // Load pending requests
+            let requests = [];
+            try {
+                const r = await fetch('/api/feedback/requests');
+                const data = await r.json();
+                if (data.ok) requests = data.requests || [];
+            } catch {}
+
+            // Load incoming feedback
+            let feedbacks = [];
+            try {
+                const r = await fetch('/api/feedback/incoming');
+                const data = await r.json();
+                if (data.ok) feedbacks = data.feedbacks || [];
+            } catch {}
+
+            // Load feedback agent status
+            let fbStatus = null;
+            try {
+                const r = await fetch('data/agent_logs/status_feedback.json?_=' + Date.now());
+                if (r.ok) fbStatus = await r.json();
+            } catch {}
+
+            const pendentes  = requests.length;
+            const alta       = requests.filter(r => r.prioridade === 'alta').length;
+            const totalIncoming = feedbacks.length;
+
+            statsEl.innerHTML = `
+                <div class="stat-card ${pendentes > 0 ? 'warning' : 'success'}">
+                    <div class="stat-label">Requests Pendentes</div>
+                    <div class="stat-value">${pendentes}</div>
+                </div>
+                <div class="stat-card ${alta > 0 ? 'error' : ''}">
+                    <div class="stat-label">Prioridade Alta</div>
+                    <div class="stat-value">${alta}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Feedbacks Recebidos</div>
+                    <div class="stat-value">${totalIncoming}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-label">Último Processamento</div>
+                    <div class="stat-value" style="font-size:14px">${fbStatus?.rodou_em || '—'}</div>
+                </div>
+            `;
+
+            // Render requests
+            if (requests.length === 0) {
+                listEl.innerHTML = '<div style="text-align:center;color:var(--text-secondary);padding:40px 0;">Nenhum request pendente. ✨</div>';
+            } else {
+                listEl.innerHTML = requests.map(r => {
+                    const tipoEmoji = {'bug':'🐛','sugestao':'💡','conteudo':'📚','interface':'🎨'}[r.tipo_feedback] || '📋';
+                    const priBadge = `<span class="badge fb-badge-${r.prioridade || 'baixa'}">${(r.prioridade || 'baixa').toUpperCase()}</span>`;
+                    const discBadge = r.disciplina ? `<span class="badge badge-primary">${r.disciplina}</span>` : '';
+                    return `<div class="fb-request-card">
+                        <div class="fb-request-header">
+                            <div class="fb-request-title">${tipoEmoji} ${escHtml(r.titulo || 'Sem título')}</div>
+                            <div style="display:flex;gap:6px;">${priBadge}${discBadge}</div>
+                        </div>
+                        <div class="fb-request-desc">${escHtml(r.descricao || '')}</div>
+                        ${r.acao_sugerida ? `<div class="fb-request-action">💡 <strong>Ação sugerida:</strong> ${escHtml(r.acao_sugerida)}</div>` : ''}
+                        <div class="fb-request-meta">
+                            ID: ${r.id || '?'} · ${r.feedback_origem ? r.feedback_origem.length + ' feedback(s) origem' : ''} · ${r.criadoEm ? new Date(r.criadoEm).toLocaleString('pt-BR') : ''}
+                        </div>
+                        <div class="fb-request-btns">
+                            <button class="btn btn-sm btn-success" onclick="approveFeedback('${escHtml(r.id)}')">✅ Aprovar</button>
+                            <button class="btn btn-sm btn-danger"  onclick="denyFeedback('${escHtml(r.id)}')">❌ Negar</button>
+                        </div>
+                    </div>`;
+                }).join('');
+            }
+
+            // Render incoming feedbacks
+            if (feedbacks.length === 0) {
+                incomingEl.innerHTML = '<div style="text-align:center;color:var(--text-secondary);padding:20px 0;">Nenhum feedback bruto encontrado.</div>';
+            } else {
+                incomingEl.innerHTML = feedbacks.slice(0, 50).map(fb => {
+                    const tipoEmoji = {'bug':'🐛','sugestao':'💡','conteudo':'📚','interface':'🎨'}[fb.tipo] || '📋';
+                    return `<div class="fb-incoming-card">
+                        <div class="fb-tipo">${tipoEmoji} ${fb.tipo || '?'} ${fb.disciplina ? '· ' + fb.disciplina : ''} <span style="float:right;font-weight:400;color:var(--text-secondary)">${fb.criadoEm ? new Date(fb.criadoEm).toLocaleString('pt-BR') : ''}</span></div>
+                        <div class="fb-msg">${escHtml(fb.mensagem || '')}</div>
+                    </div>`;
+                }).join('');
+            }
+        }
+
+        function escHtml(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+        async function approveFeedback(id) {
+            if (!confirm('Aprovar este request?')) return;
+            try {
+                const r = await fetch(`/api/feedback/approve/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const data = await r.json();
+                if (data.ok) { showToast('Request aprovado ✅'); loadFeedbackSection(); }
+                else showToast('Erro: ' + (data.error || 'desconhecido'), true);
+            } catch (e) { showToast('Erro: ' + e.message, true); }
+        }
+
+        async function denyFeedback(id) {
+            if (!confirm('Negar este request?')) return;
+            try {
+                const r = await fetch(`/api/feedback/deny/${id}`, { method: 'POST', headers: {'Content-Type':'application/json'}, body: '{}' });
+                const data = await r.json();
+                if (data.ok) { showToast('Request negado ❌'); loadFeedbackSection(); }
+                else showToast('Erro: ' + (data.error || 'desconhecido'), true);
+            } catch (e) { showToast('Erro: ' + e.message, true); }
+        }
+
         // ===================== AUTOMAÇÕES =====================
         async function loadAutomacoesSection() {
             const agents = [
@@ -1255,6 +1432,11 @@
                     { l: 'Arquivos Alterados',  v: d.arquivos_alterados ?? 0 },
                     { l: 'Commit',              v: d.commit_hash ? d.commit_hash.slice(0,7) : '—' },
                     { l: 'Deploy',              v: d.deploy_status ?? '—' }
+                ]},
+                { key: 'feedback',   label: 'Feedback — Análise de Usuários',    cron: '00h30 Brasília (Local)',  tipo: 'Local',  file: 'data/agent_logs/status_feedback.json',  cor: '#EC4899', stats: d => [
+                    { l: 'Feedbacks Processados', v: d.feedbacks_processados ?? 0 },
+                    { l: 'Requests Gerados',      v: d.requests_gerados      ?? 0 },
+                    { l: 'Status',                v: d.status ?? '—' }
                 ]}
             ];
 

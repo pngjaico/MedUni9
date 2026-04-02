@@ -2,6 +2,7 @@
 # Execute como Administrador: clique com botao direito > "Executar como administrador"
 #
 # ORDEM DA MADRUGADA:
+#   00:30 — Feedback        (baixa feedback do Firestore e gera requests)
 #   01:00 — Curadoria       (+ importante: cura questoes brutas)
 #   02:30 — Ingestao PDFs   (organiza arquivos novos)
 #   03:30 — Analisador      (analytics de tendencias)
@@ -10,6 +11,12 @@
 
 $basePath = "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app\.agents"
 $settings = New-ScheduledTaskSettingsSet -StartWhenAvailable -DontStopIfGoingOnBatteries -WakeToRun
+
+# --- 00:30 — Análise de Feedback ---
+$a0 = New-ScheduledTaskAction -Execute "$basePath\run_feedback.bat"
+$t0 = New-ScheduledTaskTrigger -Daily -At '12:30AM'
+Register-ScheduledTask -TaskName "MedUni9_Feedback" -Action $a0 -Trigger $t0 -Settings $settings -RunLevel Highest -Force
+Write-Host "[OK] MedUni9_Feedback           — 00:30" -ForegroundColor Green
 
 # --- 01:00 — Curadoria de Questoes ---
 $a1 = New-ScheduledTaskAction -Execute "$basePath\run_curadoria.bat"
@@ -42,4 +49,4 @@ Register-ScheduledTask -TaskName "MedUni9_Deploy" -Action $a5 -Trigger $t5 -Sett
 Write-Host "[OK] MedUni9_Deploy             — 05:30" -ForegroundColor Green
 
 Write-Host ""
-Write-Host "5 tarefas registradas! Abra o Agendador de Tarefas do Windows para confirmar." -ForegroundColor Cyan
+Write-Host "6 tarefas registradas! Abra o Agendador de Tarefas do Windows para confirmar." -ForegroundColor Cyan

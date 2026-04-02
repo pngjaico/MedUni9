@@ -2,6 +2,7 @@
  * MedUni9 — Servidor Admin Local
  * node server.js → http://localhost:3001/admin.html
  * Endpoints: /api/ping /api/data/:file /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
+ *            /api/feedback/requests /api/feedback/approve/:id /api/feedback/deny/:id /api/feedback/incoming
  */
 const http = require('http');
 const fs   = require('fs');
@@ -47,7 +48,8 @@ function readBody(req) {
 
 // Allowed data files (whitelist)
 const ALLOWED = ['materias', 'codigos', 'flashcards', 'questoes', 'questoes_antigas', 'questoes_ineditas',
-                 'agent_logs/status_curadoria', 'agent_logs/status_ingestao', 'agent_logs/status_deploy'];
+                 'agent_logs/status_curadoria', 'agent_logs/status_ingestao', 'agent_logs/status_deploy',
+                 'agent_logs/status_feedback'];
 
 const server = http.createServer(async (req, res) => {
   const parsed   = url.parse(req.url, true);
@@ -152,6 +154,88 @@ const server = http.createServer(async (req, res) => {
     exec(`"${bat}"`, { cwd: ROOT }, (err, stdout) => {
       json(res, 200, { ok: !err, output: stdout || (err && err.message) });
     });
+    return;
+  }
+
+  // ── GET /api/feedback/requests ────────────────────────────────────────────
+  // Returns all pending request JSON files from data/feedback/requests/
+  if (req.method === 'GET' && pathname === '/api/feedback/requests') {
+    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
+    try {
+      const files = fs.readdirSync(reqDir).filter(f => f.endsWith('.json') && !f.startsWith('.'));
+      const requests = files.map(f => {
+        try { return JSON.parse(fs.readFileSync(path.join(reqDir, f), 'utf8')); }
+        catch { return null; }
+      }).filter(Boolean).filter(r => r.status === 'pendente');
+      requests.sort((a, b) => {
+        const pri = { alta: 0, media: 1, baixa: 2 };
+        return (pri[a.prioridade] ?? 3) - (pri[b.prioridade] ?? 3);
+      });
+      json(res, 200, { ok: true, requests });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── GET /api/feedback/incoming ────────────────────────────────────────────
+  // Returns all raw incoming feedback files merged into one array
+  if (req.method === 'GET' && pathname === '/api/feedback/incoming') {
+    const inDir = path.join(ROOT, 'data', 'feedback', 'incoming');
+    try {
+      const files = fs.readdirSync(inDir).filter(f => f.endsWith('.json') && !f.startsWith('.'));
+      const all = [];
+      files.forEach(f => {
+        try {
+          const data = JSON.parse(fs.readFileSync(path.join(inDir, f), 'utf8'));
+          if (Array.isArray(data)) all.push(...data);
+        } catch {}
+      });
+      all.sort((a, b) => new Date(b.criadoEm || 0) - new Date(a.criadoEm || 0));
+      json(res, 200, { ok: true, feedbacks: all });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── POST /api/feedback/approve/:id ────────────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/approve/')) {
+    const id  = pathname.replace('/api/feedback/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
+    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
+    const arcDir = path.join(ROOT, 'data', 'feedback', 'archived');
+    fs.mkdirSync(arcDir, { recursive: true });
+    const fileName = `${id}.json`;
+    const srcFile  = path.join(reqDir, fileName);
+    if (!fs.existsSync(srcFile)) return json(res, 404, { error: 'Request não encontrado' });
+    try {
+      const data = JSON.parse(fs.readFileSync(srcFile, 'utf8'));
+      data.status = 'aprovado';
+      data.resolvidoEm = new Date().toISOString();
+      const body = await readBody(req);
+      if (body) { try { const b = JSON.parse(body); if (b.nota) data.notaAdmin = b.nota; } catch {} }
+      fs.writeFileSync(path.join(arcDir, fileName), JSON.stringify(data, null, 2), 'utf8');
+      fs.unlinkSync(srcFile);
+      json(res, 200, { ok: true });
+    } catch (e) { json(res, 500, { error: e.message }); }
+    return;
+  }
+
+  // ── POST /api/feedback/deny/:id ───────────────────────────────────────────
+  if (req.method === 'POST' && pathname.startsWith('/api/feedback/deny/')) {
+    const id  = pathname.replace('/api/feedback/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
+    const reqDir = path.join(ROOT, 'data', 'feedback', 'requests');
+    const arcDir = path.join(ROOT, 'data', 'feedback', 'archived');
+    fs.mkdirSync(arcDir, { recursive: true });
+    const fileName = `${id}.json`;
+    const srcFile  = path.join(reqDir, fileName);
+    if (!fs.existsSync(srcFile)) return json(res, 404, { error: 'Request não encontrado' });
+    try {
+      const data = JSON.parse(fs.readFileSync(srcFile, 'utf8'));
+      data.status = 'negado';
+      data.resolvidoEm = new Date().toISOString();
+      const body = await readBody(req);
+      if (body) { try { const b = JSON.parse(body); if (b.nota) data.notaAdmin = b.nota; } catch {} }
+      fs.writeFileSync(path.join(arcDir, fileName), JSON.stringify(data, null, 2), 'utf8');
+      fs.unlinkSync(srcFile);
+      json(res, 200, { ok: true });
+    } catch (e) { json(res, 500, { error: e.message }); }
     return;
   }
 

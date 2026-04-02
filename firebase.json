@@ -7,6 +7,8 @@
     "public": ".",
     "ignore": [
       "firebase.json",
+      "firestore.rules",
+      "firestore.indexes.json",
       "**/.*",
       "README.md",
       "COMO-ATUALIZAR.md",
@@ -20,7 +22,9 @@
       "build_materias.py",
       "organizar.js",
       "leitor_livros_agente.py",
-      "gerador_indice_livros.py"
+      "gerador_indice_livros.py",
+      "processar_feedback.py",
+      "data/feedback/**"
     ],
     "rewrites": [
       {

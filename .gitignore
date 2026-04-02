@@ -1,2 +1,9 @@
 conteudos/
 node_modules/
+
+# Firebase service account key (NEVER commit)
+.agents/firebase-sa-key.json
+chave privada firebase.json
+*chave privada*
+*service-account*
+*serviceaccount*
