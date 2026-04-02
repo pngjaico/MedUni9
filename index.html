@@ -10,7 +10,7 @@
   <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%2300B4D8' width='192' height='192'/><text x='96' y='120' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>🩺</text></svg>">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=Lexend:wght@300;400;500;600&display=swap" rel="stylesheet">
 
   <style>
     * {
@@ -1382,40 +1382,146 @@
       letter-spacing: 0.4px;
     }
 
-    /* Markdown rendered content */
-    .markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4 {
-      color: var(--text-primary);
-      margin: 1.2em 0 0.5em;
+    /* ── Markdown Reader ───────────────────────────────────────── */
+    .markdown-body {
+      font-family: 'Lexend', 'DM Sans', sans-serif;
+      font-size: 0.93rem;
+      line-height: 1.78;
+      color: #CBD5E1;
+      user-select: text;
+      -webkit-user-select: text;
+    }
+
+    /* Headings */
+    .markdown-body h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.35rem;
       font-weight: 700;
+      color: #F1F5F9;
+      margin: 0 0 1rem;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #00B4D8;
       line-height: 1.3;
+      letter-spacing: -0.01em;
     }
-    .markdown-body h1 { font-size: 1.3rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 6px; }
-    .markdown-body h2 { font-size: 1.1rem; }
-    .markdown-body h3 { font-size: 0.97rem; color: var(--accent); }
-    .markdown-body p { margin: 0.6em 0; }
-    .markdown-body ul, .markdown-body ol { padding-left: 1.4em; margin: 0.5em 0; }
-    .markdown-body li { margin: 0.3em 0; }
-    .markdown-body strong { color: var(--text-primary); font-weight: 700; }
-    .markdown-body em { color: var(--text-secondary); }
-    .markdown-body code {
-      background: rgba(255,255,255,0.08);
-      border-radius: 4px;
-      padding: 1px 5px;
-      font-size: 0.83em;
-      font-family: monospace;
+    .markdown-body h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #E2E8F0;
+      margin: 1.6rem 0 0.6rem;
+      padding-left: 10px;
+      border-left: 3px solid #00B4D8;
+      line-height: 1.35;
     }
+    .markdown-body h3 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 0.97rem;
+      font-weight: 600;
+      color: #38BDF8;
+      margin: 1.2rem 0 0.45rem;
+      line-height: 1.35;
+    }
+    .markdown-body h4 {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: #7DD3FC;
+      margin: 1rem 0 0.35rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    /* Paragraphs & text */
+    .markdown-body p { margin: 0 0 0.85em; }
+    .markdown-body strong {
+      font-weight: 600;
+      color: #F1F5F9;
+    }
+    .markdown-body em { color: #94A3B8; font-style: italic; }
+
+    /* Lists */
+    .markdown-body ul, .markdown-body ol {
+      padding-left: 1.3em;
+      margin: 0.5em 0 0.9em;
+    }
+    .markdown-body li { margin: 0.35em 0; }
+    .markdown-body ul li::marker { color: #00B4D8; }
+    .markdown-body ol li::marker { color: #00B4D8; font-weight: 600; }
+    .markdown-body li > ul, .markdown-body li > ol { margin: 0.2em 0 0.3em; }
+
+    /* Blockquote — destaque / nota importante */
     .markdown-body blockquote {
-      border-left: 3px solid var(--accent);
-      margin: 0.8em 0;
-      padding: 4px 12px;
-      color: var(--text-secondary);
-      background: rgba(255,255,255,0.03);
-      border-radius: 0 6px 6px 0;
+      border-left: 3px solid #00B4D8;
+      margin: 1em 0;
+      padding: 10px 14px;
+      background: rgba(0, 180, 216, 0.07);
+      border-radius: 0 8px 8px 0;
+      color: #94A3B8;
+      font-style: italic;
     }
-    .markdown-body hr { border: none; border-top: 1px solid rgba(255,255,255,0.1); margin: 1em 0; }
-    .markdown-body table { width: 100%; border-collapse: collapse; font-size: 0.83rem; margin: 0.8em 0; }
-    .markdown-body th, .markdown-body td { border: 1px solid rgba(255,255,255,0.12); padding: 6px 10px; text-align: left; }
-    .markdown-body th { background: rgba(255,255,255,0.06); font-weight: 600; }
+    .markdown-body blockquote p { margin: 0; }
+
+    /* Inline code */
+    .markdown-body code {
+      background: rgba(0, 180, 216, 0.12);
+      border: 1px solid rgba(0, 180, 216, 0.2);
+      border-radius: 4px;
+      padding: 1px 6px;
+      font-size: 0.82em;
+      font-family: 'Courier New', monospace;
+      color: #67E8F9;
+    }
+
+    /* Code block */
+    .markdown-body pre {
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 8px;
+      padding: 14px 16px;
+      overflow-x: auto;
+      margin: 1em 0;
+    }
+    .markdown-body pre code {
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: 0.83rem;
+      color: #A5F3FC;
+    }
+
+    /* Horizontal rule */
+    .markdown-body hr {
+      border: none;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      margin: 1.5em 0;
+    }
+
+    /* Tables */
+    .markdown-body table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+      margin: 1em 0;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .markdown-body thead tr {
+      background: rgba(0, 180, 216, 0.15);
+    }
+    .markdown-body th {
+      padding: 9px 12px;
+      font-weight: 600;
+      color: #E2E8F0;
+      text-align: left;
+      border-bottom: 1px solid rgba(0, 180, 216, 0.3);
+    }
+    .markdown-body td {
+      padding: 8px 12px;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      color: #CBD5E1;
+    }
+    .markdown-body tbody tr:last-child td { border-bottom: none; }
+    .markdown-body tbody tr:hover { background: rgba(255,255,255,0.03); }
 
     /* Profile Screen */
     .profile-avatar {
@@ -4009,49 +4115,105 @@
       // --- DETAIL VIEW: when a material is selected, replace entire screen ---
       if (selectedMaterial) {
         return (
-          <div className="screen-content">
-            <button
-              onClick={() => { setSelectedMaterial(null); setMaterialContent(''); setMaterialError(''); }}
-              style={{
-                background: 'rgba(255,255,255,0.06)',
-                border: '1px solid rgba(255,255,255,0.14)',
-                borderRadius: '8px',
-                color: 'var(--text-secondary)',
-                fontSize: '0.82rem',
-                padding: '6px 14px',
-                cursor: 'pointer',
-                marginBottom: '14px',
-                display: 'flex',
-                alignItems: 'center',
-                gap: '6px'
-              }}
-            >← Voltar aos Materiais</button>
+          <div className="screen-content" style={{ paddingBottom: '32px' }}>
 
-            <div style={{ marginBottom: '14px' }}>
-              <div style={{ fontSize: '0.78rem', color: 'var(--text-secondary)' }}>{selectedMaterial.materiaNome}</div>
-              <div style={{ fontSize: '1.1rem', fontWeight: 700, color: 'var(--text-primary)' }}>{selectedMaterial.temaNome}</div>
+            {/* Header bar */}
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '10px',
+              marginBottom: '20px',
+            }}>
+              <button
+                onClick={() => { setSelectedMaterial(null); setMaterialContent(''); setMaterialError(''); }}
+                style={{
+                  background: 'rgba(0,180,216,0.08)',
+                  border: '1px solid rgba(0,180,216,0.25)',
+                  borderRadius: '8px',
+                  color: '#00B4D8',
+                  fontSize: '0.82rem',
+                  fontWeight: 500,
+                  padding: '7px 13px',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '5px',
+                  flexShrink: 0,
+                  transition: 'background 0.2s',
+                  fontFamily: 'DM Sans, sans-serif',
+                }}
+              >← Voltar</button>
+
+              <div style={{ minWidth: 0 }}>
+                <div style={{
+                  fontSize: '0.7rem',
+                  color: '#64748B',
+                  fontWeight: 500,
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.07em',
+                  marginBottom: '2px',
+                  fontFamily: 'DM Sans, sans-serif',
+                }}>{selectedMaterial.materiaNome}</div>
+                <div style={{
+                  fontSize: '1rem',
+                  fontWeight: 700,
+                  color: '#F1F5F9',
+                  fontFamily: 'Outfit, sans-serif',
+                  lineHeight: 1.25,
+                  whiteSpace: 'nowrap',
+                  overflow: 'hidden',
+                  textOverflow: 'ellipsis',
+                }}>{selectedMaterial.temaNome}</div>
+              </div>
             </div>
 
+            {/* Loading */}
             {materialLoading && (
-              <div style={{ color: 'var(--text-secondary)', padding: '30px 0', textAlign: 'center' }}>Carregando material...</div>
+              <div style={{
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                gap: '12px',
+                padding: '48px 0',
+                color: '#64748B',
+                fontSize: '0.85rem',
+                fontFamily: 'DM Sans, sans-serif',
+              }}>
+                <div style={{
+                  width: '32px', height: '32px',
+                  border: '3px solid rgba(0,180,216,0.15)',
+                  borderTop: '3px solid #00B4D8',
+                  borderRadius: '50%',
+                  animation: 'spin 0.8s linear infinite',
+                }} />
+                Carregando material...
+              </div>
             )}
 
+            {/* Error */}
             {!materialLoading && materialError && (
-              <div style={{ color: 'var(--warning)', padding: '20px 0' }}>{materialError}</div>
+              <div style={{
+                background: 'rgba(239,68,68,0.08)',
+                border: '1px solid rgba(239,68,68,0.2)',
+                borderRadius: '10px',
+                padding: '14px 16px',
+                color: '#FCA5A5',
+                fontSize: '0.85rem',
+                fontFamily: 'DM Sans, sans-serif',
+              }}>{materialError}</div>
             )}
 
+            {/* Content */}
             {!materialLoading && !materialError && materialContent && (
               <div
                 className="markdown-body"
                 style={{
-                  background: 'rgba(255,255,255,0.03)',
-                  border: '1px solid rgba(255,255,255,0.10)',
-                  borderRadius: '12px',
-                  padding: '16px',
-                  lineHeight: 1.65,
-                  color: 'var(--text-primary)',
-                  fontSize: '0.88rem',
-                  wordBreak: 'break-word'
+                  background: 'rgba(15,23,42,0.6)',
+                  border: '1px solid rgba(0,180,216,0.12)',
+                  borderRadius: '14px',
+                  padding: '22px 20px',
+                  wordBreak: 'break-word',
+                  boxShadow: '0 4px 24px rgba(0,0,0,0.25)',
                 }}
                 dangerouslySetInnerHTML={{ __html: marked.parse(materialContent) }}
               />
