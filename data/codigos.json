@@ -1,5 +1,5 @@
 {
-  "_info": "Códigos de ativação do MedUni9. As chaves são hashes SHA-256 (salt: meduni9_2026_ + código). NÃO é possível reverter o hash para descobrir o código original.",
+  "_info": "Códigos MedUni9 (hashes SHA-256 com salt)",
   "_salt": "meduni9_2026_",
   "codigos": {
     "43c1ab3bad3dcdd13dae6bdf6ce0f45873f902f10d197d609a70b20549885906": {
@@ -13,7 +13,7 @@
     },
     "ccb8727f18aee014099f18bfbec7916dadee4f739d1510039696244a4e178113": {
       "plano": "vitalicio",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 20,
       "dispositivos": [],
       "email": null,
@@ -22,7 +22,7 @@
     },
     "9cbcd0ec7fb1499e1c98847918479694e8f37e2d864938abda8c04302e50bf26": {
       "plano": "vitalicio",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -31,7 +31,7 @@
     },
     "1ea3efff015a134ef0ac8fe73f40d0e55cfb21821e5efa24c8cb65075ffff6ce": {
       "plano": "vitalicio",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -40,7 +40,7 @@
     },
     "0b994d242ae5e7ccaf06a963d7d6144e0ee03cad560b59e46be912c2d6a70ec7": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -49,7 +49,7 @@
     },
     "9021a644d3cbf6a43600192faa464919017f67b85313cb5cd6107ddd94756d06": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -58,7 +58,7 @@
     },
     "fa23c80abe33b8fe3d6dc2f246cc389354a6378f1600d664aac25866580a9720": {
       "plano": "vitalicio",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -67,7 +67,7 @@
     },
     "3204552e64bb56c56d8b7381ab066010eefe53eb32a69a7f9e0f5e44cb4b5c84": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -76,7 +76,7 @@
     },
     "17bb79cc25bfa26b40250f3f11e937bf96c31d34789abe7b307935de76f1a5d9": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -85,7 +85,7 @@
     },
     "3508b1abb6b6dbd63aebc9a4357efe8d234410deb5d5c3aaf362e18c5fd42ff3": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -94,7 +94,7 @@
     },
     "1d1347e38d2f95b3874fb3fad68a34b2f17b18562b5a8a60317e7d6c79d7d61a": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
@@ -103,12 +103,62 @@
     },
     "37a1057c342cb067f50e1586af1533d830ffeadf8b2bd301de02cb0822f71eab": {
       "plano": "basico",
-      "ativo": true,
+      "ativo": false,
       "maxDispositivos": 2,
       "dispositivos": [],
       "email": null,
       "expira": "2026-12-31",
       "nota": "Lançamento 2026 - 05"
+    },
+    "85b73fa6bb80bf357e995853a125a05689f2939ec526421f6cc4768ab4bdbd9c": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Lote gerado em 02/04/2026",
+      "criadoEm": "2026-04-02T14:02:29.568Z"
+    },
+    "6b09ab937164723ab29f20c5177ddbb6367fc30f17c985a9788ed9bf253d7ac5": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Lote gerado em 02/04/2026",
+      "criadoEm": "2026-04-02T14:02:29.568Z"
+    },
+    "5b9f7d19f38203e3db615c87e4ae133a34736e3f2009d3bf77f21c1995277e6e": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Lote gerado em 02/04/2026",
+      "criadoEm": "2026-04-02T14:02:29.568Z"
+    },
+    "405d53a46821421f5ad2271ab064a80f457da1951a7cff4e85c476729f441510": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Lote gerado em 02/04/2026",
+      "criadoEm": "2026-04-02T14:02:29.568Z"
+    },
+    "3875714240d9735d7d4ad9174e9ef250fbab51a02b2742dd4e933beb46d241f7": {
+      "plano": "basico",
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Lote gerado em 02/04/2026",
+      "criadoEm": "2026-04-02T14:02:29.568Z"
     }
   }
 }
