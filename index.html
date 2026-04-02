@@ -4080,7 +4080,7 @@
     };
 
     // Materials Screen
-    const MaterialsScreen = ({ materias, userSemester }) => {
+    const MaterialsScreen = ({ materias, userSemester, onNavigateTo }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
       const [searchQuery, setSearchQuery] = useState('');
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
@@ -4177,6 +4177,7 @@
             materiaNome: materia.nome,
             temaNome: tema.nome,
             path: 'sem-id',
+            materiaId: materia.id,
           });
           setMaterialContent('');
           setMaterialError('Nao foi possivel identificar o ID da aula para abrir o material.');
@@ -4200,6 +4201,7 @@
           materiaNome: materia.nome,
           temaNome: tema.nome,
           path: primaryPath,
+          materiaId: materia.id,
         });
         setMaterialContent('');
         setMaterialError('');
@@ -4283,7 +4285,7 @@
                 }}
               >← Voltar</button>
 
-              <div style={{ minWidth: 0 }}>
+              <div style={{ minWidth: 0, flex: 1 }}>
                 <div style={{
                   fontSize: '0.7rem',
                   color: '#64748B',
@@ -4305,6 +4307,62 @@
                 }}>{selectedMaterial.temaNome}</div>
               </div>
             </div>
+
+            {/* Botões de ação — Flashcards e Questões */}
+            {onNavigateTo && selectedMaterial.materiaId && (
+              <div style={{
+                display: 'flex',
+                gap: '8px',
+                marginBottom: '16px',
+              }}>
+                <button
+                  onClick={() => onNavigateTo('cards', selectedMaterial.materiaId)}
+                  style={{
+                    flex: 1,
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '7px',
+                    background: 'rgba(124,58,237,0.12)',
+                    border: '1px solid rgba(124,58,237,0.3)',
+                    borderRadius: '10px',
+                    padding: '10px 14px',
+                    cursor: 'pointer',
+                    color: '#C4B5FD',
+                    fontSize: '0.82rem',
+                    fontWeight: 600,
+                    fontFamily: 'DM Sans, sans-serif',
+                    transition: 'background 0.2s',
+                  }}
+                >
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+                  Flashcards
+                </button>
+                <button
+                  onClick={() => onNavigateTo('quiz', selectedMaterial.materiaId)}
+                  style={{
+                    flex: 1,
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '7px',
+                    background: 'rgba(16,185,129,0.1)',
+                    border: '1px solid rgba(16,185,129,0.3)',
+                    borderRadius: '10px',
+                    padding: '10px 14px',
+                    cursor: 'pointer',
+                    color: '#6EE7B7',
+                    fontSize: '0.82rem',
+                    fontWeight: 600,
+                    fontFamily: 'DM Sans, sans-serif',
+                    transition: 'background 0.2s',
+                  }}
+                >
+                  <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+                  Questões
+                </button>
+              </div>
+            )}
 
             {/* Loading */}
             {materialLoading && (
@@ -4947,7 +5005,14 @@
             )}
 
             {currentTab === 'materials' && (
-              <MaterialsScreen materias={materias} userSemester={user.semestre} />
+              <MaterialsScreen
+                materias={materias}
+                userSemester={user.semestre}
+                onNavigateTo={(tab, materiaId) => {
+                  if (materiaId) setSelectedMateria(materiaId);
+                  navigateTo(tab);
+                }}
+              />
             )}
 
             {currentTab === 'feedback' && (
