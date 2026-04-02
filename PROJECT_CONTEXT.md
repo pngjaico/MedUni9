@@ -1,134 +1,105 @@
-# 📚 MedUni9 - Plataforma de Estudos para Medicina
+# MedUni9 - Plataforma de Estudos para Medicina
 
-## 🎯 Propósito do Aplicativo
+## Propósito
 
-**MedUni9** é uma plataforma web de estudos desenvolvida especificamente para estudantes de medicina da **Universidade Nove de Julho campus Vergueiro**. O aplicativo funciona como um organizador inteligente de disciplinas, aulas e materiais didáticos, permitindo que alunos acessem conteúdos estruturados, flashcards, questões de estudo e planos de ensino de forma centralizada e organizada.
+**MedUni9** é uma plataforma web de estudos para estudantes de medicina da **Universidade Nove de Julho campus Vergueiro**. Organiza disciplinas, flashcards, questões e materiais de apoio por módulo/semestre.
 
-## 👥 Usuários Alvo
-
-- **Estudantes de Medicina** (curso de 6 semestres com exclusão do 5º)
-- Acesso via: `https://meduni9-869eb.web.app`
-
----
-
-## 📑 Estrutura de Módulos e Semestres
-
-O curso de Medicina é organizado em **6 semestres principais** (excluindo o 5º por inversão curricular). Cada módulo contém disciplinas agrupadas por área de conhecimento:
-
-### **Módulo 1 - Estruturas Básicas**
-- Biologia Celular e Molecular (BCM1)
-- Processos Metabólicos & Humanos (PMH)
-- Princípios e Diretrizes do SUS
-- Projeto Extensionista 1 (PE1)
-- Vivência e Acolhimento nos Princípios do SUS
-
-**Foco**: Fundamentos celulares, moleculares e introdução ao sistema de saúde.
-
-### **Módulo 2 - Sistemas Corporais I**
-- Bases Morfofuncionais 1 (BMF1) - Sistemas Cardiovascular e Respiratório
-- Semiologia Cardiorespiratória (SEMIO2)
-- Episódios sobre Processos Metabólicos
-- Epidemiologia e Bioestatística
-- Projeto Extensionista 2 (PE2)
-
-**Foco**: Morfologia e fisiologia dos sistemas vitais; introdução à semiologia.
-
-### **Módulo 3 - Sistemas Corporais II**
-- Bases Morfofuncionais 3 (BMF3) - Aparelhos Digestório, Renal e Reprodutor
-- Mecanismos Sistêmicos de Agressão e Defesa (MsAD)
-- Semiologia Renal e Reprodutor (SEMIO3)
-- Saúde do Trabalhador e Doenças Ocupacionais
-- Projeto Extensionista 3 (PE3) - Vigilância em Saúde
-
-**Foco**: Sistemas corporais complexos; imunodeficiências; saúde ocupacional.
-
-### **Módulo 4 - Fisiopatologia e Clínica**
-- Bases Morfofuncionais 4 (BMF4) - Sistemas Neurossensorial
-- Processos Fisiopatológicos e Farmacoterapêuticos
-- Semiologia Neurológica (SEMIO4)
-- Bioestatística e Estudos em Saúde
-- Projeto Extensionista 4 (PE4) - Medicina Baseada em Evidência
-- Desafios Socioambientais Globais
-
-**Foco**: Fisiopatologia, farmacologia, raciocínio clínico integrado.
-
-### **Módulo 5 - EXCLUÍDO**
-O 5º semestre foi removido da matriz curricular. Disciplinas que ocupavam este espaço foram reatribuídas ao módulo 6 ou mantidas em seus semestres de origem.
-
-### **Módulo 6 - Clínica Aplicada**
-- Semiologia Musculoesquelética (SEMIO1) - Teórica e Prática
-- Clínica Cirúrgica e Ortopedia (CIRURGIA)
-- Clínica Médica (CLINICA)
-- Técnica Operatória (TCAR)
-- Processos Fisiopatológicos Neuroendócrinos (FF4)
-
-**Foco**: Aplicação clínica intehral, técnicas operatórias, especialidades médicas.
+- **URL**: `https://meduni9-869eb.web.app`
+- **GitHub**: `https://github.com/pngjaico/MedUni9` (branch `main`)
+- **Stack**: Preact + htm (single-file `index.html`), Firebase Hosting, dados em JSON estáticos
 
 ---
 
-## 📚 Disciplinas, Matérias e Aulas
+## Estrutura de Módulos (1 a 6)
 
-### Hierarquia de Dados
+### Módulo 1 — Fundamentos e SUS
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `sus` | Princípios e Diretrizes do SUS | SUS |
+| `semiologia1` | Semiologia do Sistema Musculoesquelético | SEMIO1 |
+| `bmf1` | Bases Morfofuncionais 1 — Sistema Locomotor | BMF1 |
+| `pmh` | Processos Metabólicos Humanos | PMH |
+| `pe1` | Projeto Extensionista 1 — Vivência e Acolhimento | PE1 |
+
+### Módulo 2 — Cardiovascular, Respiratório e Imunologia
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `bmf2` | Bases Morfofuncionais 2 — Cardiovascular e Respiratório | BMF2 |
+| `semiologia2` | Semiologia Cardiorespiratória | SEMIO2 |
+| `mad1` | Mecanismos de Agressão e Defesa 1 — Imunologia | MAD1 |
+| `bcm1` | Biologia Celular e Molecular | BCM1 |
+| `indicadores` | Epidemiologia e Indicadores de Saúde | IND |
+| `ds` | Dimensões Socioambientais e Saúde | DS |
+
+### Módulo 3 — Digestório, Renal, Reprodutor e Patologia
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `bmf3` | Bases Morfofuncionais 3 — Digestório, Renal e Reprodutor | BMF3 |
+| `semiologia3` | Semiologia dos Aparelhos Renal e Reprodutor | SEMIO3 |
+| `mad2` | Mecanismos Sistêmicos de Agressão e Defesa | MsAD |
+| `fisiopato3` | Processos Fisiopatológicos e Farmacoterapêuticos | FP3 |
+| `saude_trabalhador` | Saúde do Trabalhador e Doenças Ocupacionais | ST |
+| `pe3` | Projeto Extensionista 3 — Vigilância em Saúde | PE3 |
+
+### Módulo 4 — Neuro, Endócrino e Bioestatística
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `bmf4` | Bases Morfofuncionais 4 — Neurossensorial e Endócrino | BMF4 |
+| `semiologia4` | Semiologia Neurológica e Síndromes Clínicas | SEMIO4 |
+| `fisiopato_farmaco` | Fisiopatologia Neuroendócrina | FF4 |
+| `bioestatistica` | Bioestatística e Estudos em Saúde | BIOE |
+| `pe4` | Projeto Extensionista 4 — MBE | PE4 |
+
+### Módulo 5 — Clínica e Farmacologia
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `clinica_medica5` | Clínica Médica | CM5 |
+| `clinica_cirurgica5` | Clínica Cirúrgica e Ortopedia | CC5 |
+| `farmaco_aplicada` | Farmacologia Aplicada | FARM |
+
+### Módulo 6 — Clínica Avançada e Cirurgia
+| ID | Disciplina | Sigla |
+|----|-----------|-------|
+| `clinica_medica6` | Clínica Médica Avançada | CM6 |
+| `mfc6` | Medicina de Família e Comunidade | MFC |
+| `cirurgia_ortopedia` | Cirurgia e Ortopedia | CIR6 |
+| `tecnica_operatoria` | Técnica Operatória | TCAR |
+
+---
+
+## Hierarquia de Dados
 
 ```
-DISCIPLINA (ex: "Bases Morfofuncionais 1")
-    ↓
-MÓDULO (ex: "Módulo 2")
-    ↓
-AULAS/TEMAS (ex: "Aula 1: Sistema Cardiocirculatório")
-    ↓
-TÓPICOS (extraídos de planos de ensino)
+Módulo (1-6)
+  └── Disciplina (ex: "Bases Morfofuncionais 1")
+        └── Aulas/Temas (ex: "Anatomia do Sistema Esquelético")
 ```
 
-### O que é uma Disciplina?
+### data/materias.json
 
-- **Unidade Curricular (UC)** oficial do curso
-- Possui **nome formal** (ex: "Bases Morfofuncionais 1")
-- Tem **sigla padronizada** (ex: `bmf1`)
-- Associada a **um ou mais módulos**
-- Contém **aulas** agrupadas na estrutura de dados
-- Tem **ementa** e **objetivos** definidos no plano de ensino
-
-### O que é uma Aula?
-
-- **Componente** de uma disciplina
-- Numerada sequencialmente (Aula 1, 2, 3...)
-- Possui **tema** (tópico principal)
-- Tem **descrição/objetivo** de aprendizado
-- Extraída dos **planos de ensino** (PDF)
-
-### O que é uma Matéria?
-
-No contexto do aplicativo, "matérias" referem-se às disciplinas ativas no sistema. O banco de dados `data/materias.json` armazena:
+Objeto JSON onde cada chave é o ID da disciplina:
 
 ```json
 {
   "bmf1": {
-    "nome": "Bases Morfofuncionais 1",
-    "sigla": "bmf1",
-    "modulo": 2,
+    "nome": "Bases Morfofuncionais 1 — Sistema Locomotor",
+    "sigla": "BMF1",
+    "modulo": 1,
     "ativo": true,
-    "icon": "🏥",
+    "icon": "",
     "cor": "#E85D75",
     "descricao": "Estudo integrado...",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "bmf1_a1",
-            "tema": "Aula 1: Sistema Cardiocirculatório",
-            "descricao": "Ao final desta aula..."
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "bmf1_a1", "tema": "Anatomia do Sistema Esquelético", "descricao": "Ossos, articulações..."}
     ]
   }
 }
 ```
+
+**Nota**: O campo `icon` é vazio. Ícones são renderizados via `SUBJECT_ICON_MAP` em `index.html` (SVGs programáticos, sem emojis).
 
 ---
 

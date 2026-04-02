@@ -2635,7 +2635,7 @@
                 </p>
                 {error && step === 3 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
                 <div className="semester-grid">
-                  {[1,2,3,4].map(s => (
+                  {[1,2,3,4,5,6].map(s => (
                     <button
                       key={s}
                       className={`semester-btn ${semester === s ? 'selected' : ''}`}
@@ -3665,15 +3665,24 @@
     };
 
     // Materials Screen
-    const MaterialsScreen = ({ materias }) => {
+    const MaterialsScreen = ({ materias, userSemester }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
       const [searchQuery, setSearchQuery] = useState('');
+      const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
 
       const toggleMateria = (id) => {
         setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
       };
 
-      const getMateriaModulos = (materia) => getModulos(materia.id) || materia.modulos || null;
+      const getMateriaModulos = (materia) => {
+        const config = getModulos(materia.id);
+        if (config) return config;
+        if (materia.modulos) return materia.modulos;
+        if (materia.aulas && materia.aulas.length > 0) {
+          return [{ nome: materia.nome, temas: materia.aulas.map(a => ({ id: a.id, nome: a.tema, descricao: a.descricao })) }];
+        }
+        return null;
+      };
 
       const totalTemas = (materia) => {
         const mods = getMateriaModulos(materia);
@@ -3681,14 +3690,34 @@
         return mods.reduce((acc, mod) => acc + (mod.temas?.length || 0), 0);
       };
 
-      const filteredMaterias = materias.filter(m =>
-        fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
-      );
+      const semesters = [...new Set(materias.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
+
+      const filteredMaterias = materias.filter(m => {
+        if (semesterFilter && m.modulo !== semesterFilter) return false;
+        return fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '');
+      });
 
       return (
         <>
           <div className="screen-content">
             <h2 className="section-title">Materiais de Apoio</h2>
+
+            {semesters.length > 1 && (
+              <div className="semester-tabs">
+                <button
+                  className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
+                  onClick={() => setSemesterFilter(null)}
+                >Todos</button>
+                {semesters.map(s => (
+                  <button
+                    key={s}
+                    className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
+                    onClick={() => setSemesterFilter(s)}
+                  >Módulo {s}</button>
+                ))}
+              </div>
+            )}
+
             <input
               type="search"
               className="subject-search"
@@ -3794,6 +3823,7 @@
 
     // Profile Screen
     const ProfileScreen = ({ user, onLogout, onChangeSemester }) => {
+      const [showPicker, setShowPicker] = useState(false);
       const [stats, setStats] = useState({
         cardsReviewed: 0,
         questionsAnswered: 0,
@@ -3858,10 +3888,23 @@
                   <button
                     className="semester-tab"
                     style={{ fontSize: '11px', padding: '4px 10px' }}
-                    onClick={onChangeSemester}
+                    onClick={() => setShowPicker(!showPicker)}
                   >Trocar</button>
                 </span>
               </div>
+              {showPicker && (
+                <div className="semester-grid" style={{ marginTop: '8px', marginBottom: '8px' }}>
+                  {[1,2,3,4,5,6].map(s => (
+                    <button
+                      key={s}
+                      className={`semester-btn ${(user.semestre || user.modulo || 1) === s ? 'selected' : ''}`}
+                      onClick={() => { onChangeSemester(s); setShowPicker(false); }}
+                    >
+                      Módulo {s}
+                    </button>
+                  ))}
+                </div>
+              )}
               <div className="profile-item">
                 <span className="profile-label">Código</span>
                 <span className="profile-value" style={{ fontSize: '12px', fontFamily: 'monospace' }}>{user.code}</span>
@@ -4071,15 +4114,12 @@
         );
       }
 
-      const handleChangeSemester = () => {
-        const newSem = prompt('Digite o número do módulo (1-4):');
-        const parsed = parseInt(newSem);
-        if (parsed >= 1 && parsed <= 4) {
+      const handleChangeSemester = (newSem) => {
+        const parsed = typeof newSem === 'number' ? newSem : parseInt(newSem);
+        if (parsed >= 1 && parsed <= 6) {
           const updated = { ...user, semestre: parsed, modulo: parsed };
           setUser(updated);
           localStorage.setItem('meduni9_user', JSON.stringify(updated));
-        } else if (newSem !== null) {
-          alert('Por enquanto apenas os módulos 1 a 4 estão disponíveis.');
         }
       };
 
@@ -4174,7 +4214,7 @@
             )}
 
             {currentTab === 'materials' && (
-              <MaterialsScreen materias={materias} />
+              <MaterialsScreen materias={materias} userSemester={user.semestre} />
             )}
 
             {currentTab === 'profile' && (

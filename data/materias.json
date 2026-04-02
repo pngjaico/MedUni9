@@ -1,919 +1,531 @@
 {
-  "st": {
-    "nome": "Saúde do Trabalhador e Doenças Ocupacionais",
-    "sigla": "st",
-    "modulo": 3,
+  "sus": {
+    "nome": "Princípios e Diretrizes do SUS",
+    "sigla": "SUS",
+    "modulo": 1,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A Saúde Coletiva (SC) é uma área de conhecimento genuinamente brasileira, oriund...",
+    "icon": "",
+    "cor": "#6366F1",
+    "descricao": "Fundamentos da Atenção Primária à Saúde no SUS, processo saúde-doença, determinantes sociais, políticas públicas e organização das redes de atenção.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 3",
-        "temas": [
-          {
-            "id": "st_a1",
-            "tema": "Aulas Introdutórias e Generalidades",
-            "descricao": "Nenhum tópico estruturado detectado no PDF da matéria."
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "sus_a1", "tema": "Introdução ao SUS e seus Princípios Doutrinários", "descricao": "Universalidade, equidade e integralidade no contexto histórico do SUS."},
+      {"id": "sus_a2", "tema": "Determinantes Sociais da Saúde", "descricao": "Fatores sociais, econômicos e ambientais que influenciam a saúde."},
+      {"id": "sus_a3", "tema": "Atenção Primária à Saúde", "descricao": "Estratégia Saúde da Família e organização da atenção básica."},
+      {"id": "sus_a4", "tema": "Redes de Atenção à Saúde", "descricao": "Níveis de atenção e fluxo de referência e contrarreferência."},
+      {"id": "sus_a5", "tema": "Política Nacional de Atenção Básica", "descricao": "PNAB e suas diretrizes operacionais."}
     ]
   },
-  "pe3": {
-    "nome": "Vivência em Vigilância em Saúde",
-    "sigla": "pe3",
-    "modulo": 3,
+  "semiologia1": {
+    "nome": "Semiologia do Sistema Musculoesquelético",
+    "sigla": "SEMIO1",
+    "modulo": 1,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A Extensão no Ensino Superior é a Unidade Curricular (UC), que se integra à matr...",
+    "icon": "",
+    "cor": "#C0392B",
+    "descricao": "Semiologia aplicada ao sistema musculoesquelético: anamnese dirigida, exame físico, inspeção, palpação, testes de mobilidade e força.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 3",
-        "temas": [
-          {
-            "id": "pe3_a1",
-            "tema": "Aula 1: BRASIL. Agência Nacional de Vigilância Sanitária - ANVISA. Regulamento Sanitário",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Agência Nacional de Vigilância Sanitária - ANVISA. Regulamento Sanitário"
-          },
-          {
-            "id": "pe3_a2",
-            "tema": "Aula 2: ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. 58° Conselho diretor. 72° Sessão do comitê",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE. 58° Conselho diretor. 72° Sessão do comitê"
-          },
-          {
-            "id": "pe3_a3",
-            "tema": "Aula 3: BRASIL. Ministério da Saúde. Governo Federal. PNI - Programa Nacional de Imunizações. PNI:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Governo Federal. PNI - Programa Nacional de Imunizações. PNI:"
-          },
-          {
-            "id": "pe3_a4",
-            "tema": "Aula 4: São Paulo. Governo do Estado de São Paulo. Secretaria de estado da Saúde São Paulo.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: São Paulo. Governo do Estado de São Paulo. Secretaria de estado da Saúde São Paulo."
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "semio1_a1", "tema": "Introdução à Semiologia Musculoesquelética", "descricao": "Princípios do exame físico do aparelho locomotor."},
+      {"id": "semio1_a2", "tema": "Exame do Ombro e Membro Superior", "descricao": "Testes especiais, amplitude de movimento e palpação."},
+      {"id": "semio1_a3", "tema": "Exame do Quadril e Membro Inferior", "descricao": "Avaliação da marcha, testes de quadril e joelho."},
+      {"id": "semio1_a4", "tema": "Exame da Coluna Vertebral", "descricao": "Inspeção, palpação e testes neurológicos da coluna."},
+      {"id": "semio1_a5", "tema": "Reunião Clínica e Estudo de Caso", "descricao": "Discussão de casos clínicos reais do sistema musculoesquelético."}
+    ]
+  },
+  "bmf1": {
+    "nome": "Bases Morfofuncionais 1 — Sistema Locomotor",
+    "sigla": "BMF1",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "",
+    "cor": "#E85D75",
+    "descricao": "Estudo integrado da morfologia e função do sistema musculoesquelético: anatomia, histologia e fisiologia do aparelho locomotor.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "bmf1_a1", "tema": "Anatomia do Sistema Esquelético", "descricao": "Ossos, articulações e classificação anatômica."},
+      {"id": "bmf1_a2", "tema": "Histologia do Tecido Ósseo e Cartilaginoso", "descricao": "Estrutura microscópica de ossos e cartilagens."},
+      {"id": "bmf1_a3", "tema": "Sistema Muscular — Anatomia e Fisiologia", "descricao": "Músculos esqueléticos, contração muscular e biomecânica."},
+      {"id": "bmf1_a4", "tema": "Membro Superior — Anatomia Aplicada", "descricao": "Ossos, músculos e articulações do membro superior."},
+      {"id": "bmf1_a5", "tema": "Membro Inferior — Anatomia Aplicada", "descricao": "Ossos, músculos e articulações do membro inferior."},
+      {"id": "bmf1_a6", "tema": "Coluna Vertebral e Tórax", "descricao": "Vértebras, discos intervertebrais e caixa torácica."}
+    ]
+  },
+  "pmh": {
+    "nome": "Processos Metabólicos Humanos",
+    "sigla": "PMH",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "",
+    "cor": "#8B5CF6",
+    "descricao": "Estudo dos processos metabólicos fundamentais do organismo humano: bioquímica, metabolismo energético e regulação hormonal.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "pmh_a1", "tema": "Metabolismo de Carboidratos", "descricao": "Glicólise, ciclo de Krebs e gliconeogênese."},
+      {"id": "pmh_a2", "tema": "Metabolismo de Lipídeos", "descricao": "Beta-oxidação, síntese de ácidos graxos e metabolismo do colesterol."},
+      {"id": "pmh_a3", "tema": "Metabolismo de Proteínas e Aminoácidos", "descricao": "Catabolismo de aminoácidos e ciclo da ureia."},
+      {"id": "pmh_a4", "tema": "Regulação Hormonal do Metabolismo", "descricao": "Insulina, glucagon e eixos endócrinos."}
+    ]
+  },
+  "pe1": {
+    "nome": "Projeto Extensionista 1 — Vivência e Acolhimento",
+    "sigla": "PE1",
+    "modulo": 1,
+    "ativo": true,
+    "icon": "",
+    "cor": "#10B981",
+    "descricao": "Prática extensionista na Atenção Primária com visitas técnicas ao território e ações de promoção da saúde junto à comunidade.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "pe1_a1", "tema": "Introdução à Prática Extensionista", "descricao": "Conceitos de extensão universitária e integração ensino-serviço."},
+      {"id": "pe1_a2", "tema": "Visita Técnica à UBS", "descricao": "Observação da organização da atenção primária no território."},
+      {"id": "pe1_a3", "tema": "Ações de Promoção da Saúde", "descricao": "Planejamento e execução de atividades educativas na comunidade."}
+    ]
+  },
+  "bmf2": {
+    "nome": "Bases Morfofuncionais 2 — Sistema Cardiovascular e Respiratório",
+    "sigla": "BMF2",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#EF4444",
+    "descricao": "Estudo integrado da morfologia e função dos sistemas cardiovascular e respiratório: anatomia, histologia e fisiologia.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "bmf2_a1", "tema": "Anatomia do Coração", "descricao": "Câmaras cardíacas, valvas e vasos da base."},
+      {"id": "bmf2_a2", "tema": "Fisiologia Cardiovascular", "descricao": "Ciclo cardíaco, débito cardíaco e regulação da pressão arterial."},
+      {"id": "bmf2_a3", "tema": "Anatomia do Sistema Respiratório", "descricao": "Vias aéreas, pulmões e pleura."},
+      {"id": "bmf2_a4", "tema": "Fisiologia Respiratória", "descricao": "Mecânica ventilatória, trocas gasosas e transporte de O2/CO2."},
+      {"id": "bmf2_a5", "tema": "Histologia Cardiovascular e Respiratória", "descricao": "Estrutura microscópica do coração, vasos e parênquima pulmonar."}
+    ]
+  },
+  "semiologia2": {
+    "nome": "Semiologia Cardiorespiratória",
+    "sigla": "SEMIO2",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#C0392B",
+    "descricao": "Semiologia dos aparelhos cardiovascular e respiratório: ausculta cardíaca e pulmonar, inspeção, palpação e percussão.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "semio2_a1", "tema": "Exame do Precórdio", "descricao": "Inspeção, palpação e ausculta cardíaca."},
+      {"id": "semio2_a2", "tema": "Sopros Cardíacos e Bulhas", "descricao": "Identificação e classificação dos sopros."},
+      {"id": "semio2_a3", "tema": "Exame do Aparelho Respiratório", "descricao": "Inspeção, palpação, percussão e ausculta pulmonar."},
+      {"id": "semio2_a4", "tema": "Síndromes Pleuropulmonares", "descricao": "Consolidação, derrame pleural e pneumotórax."}
+    ]
+  },
+  "mad1": {
+    "nome": "Mecanismos de Agressão e Defesa 1 — Imunologia",
+    "sigla": "MAD1",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#F59E0B",
+    "descricao": "Estudo dos mecanismos imunológicos de defesa do organismo: imunidade inata, adaptativa, hipersensibilidade e imunodeficiências.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "mad1_a1", "tema": "Imunidade Inata", "descricao": "Barreiras físicas, células NK, fagócitos e complemento."},
+      {"id": "mad1_a2", "tema": "Imunidade Adaptativa", "descricao": "Linfócitos T e B, apresentação de antígenos e memória imunológica."},
+      {"id": "mad1_a3", "tema": "Hipersensibilidade", "descricao": "Tipos I a IV de reações de hipersensibilidade."},
+      {"id": "mad1_a4", "tema": "Imunodeficiências", "descricao": "Imunodeficiências primárias e secundárias."},
+      {"id": "mad1_a5", "tema": "Vacinas e Imunização", "descricao": "Princípios de vacinação e calendário vacinal."}
+    ]
+  },
+  "bcm1": {
+    "nome": "Biologia Celular e Molecular",
+    "sigla": "BCM1",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#4A90E2",
+    "descricao": "Estudo da estrutura e função celular e molecular: membranas, organelas, ciclo celular, genética molecular e sinalização.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "bcm1_a1", "tema": "Estrutura da Membrana Plasmática", "descricao": "Modelo do mosaico fluido, transporte e sinalização."},
+      {"id": "bcm1_a2", "tema": "Organelas Celulares", "descricao": "Núcleo, mitocôndrias, retículo endoplasmático e Golgi."},
+      {"id": "bcm1_a3", "tema": "Ciclo Celular e Mitose", "descricao": "Fases do ciclo celular e controle da divisão."},
+      {"id": "bcm1_a4", "tema": "DNA, RNA e Síntese Proteica", "descricao": "Replicação, transcrição e tradução."},
+      {"id": "bcm1_a5", "tema": "Genética Molecular Básica", "descricao": "Mutações, reparo do DNA e regulação gênica."}
+    ]
+  },
+  "indicadores": {
+    "nome": "Epidemiologia e Indicadores de Saúde",
+    "sigla": "IND",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#10B981",
+    "descricao": "Análise de indicadores epidemiológicos, políticas públicas de saúde e métodos de vigilância em saúde.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "ind_a1", "tema": "Indicadores de Saúde", "descricao": "Mortalidade, morbidade, incidência e prevalência."},
+      {"id": "ind_a2", "tema": "Epidemiologia Descritiva", "descricao": "Distribuição de doenças por pessoa, tempo e lugar."},
+      {"id": "ind_a3", "tema": "Vigilância Epidemiológica", "descricao": "Sistemas de notificação e investigação de surtos."},
+      {"id": "ind_a4", "tema": "Políticas Públicas e Saúde", "descricao": "Programas nacionais de saúde e seus indicadores."}
+    ]
+  },
+  "ds": {
+    "nome": "Dimensões Socioambientais e Saúde",
+    "sigla": "DS",
+    "modulo": 2,
+    "ativo": true,
+    "icon": "",
+    "cor": "#059669",
+    "descricao": "Desafios socioambientais globais e seus impactos na saúde humana: poluição, mudanças climáticas, riscos socioambientais e biodiversidade.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "ds_a1", "tema": "Determinantes Ambientais da Saúde", "descricao": "Impacto da poluição e mudanças climáticas na saúde."},
+      {"id": "ds_a2", "tema": "Saúde e Meio Ambiente", "descricao": "Relação entre biodiversidade, saneamento e saúde pública."},
+      {"id": "ds_a3", "tema": "Riscos Socioambientais e Vulnerabilidades", "descricao": "Populações vulneráveis e desigualdades ambientais."}
+    ]
+  },
+  "bmf3": {
+    "nome": "Bases Morfofuncionais 3 — Digestório, Renal e Reprodutor",
+    "sigla": "BMF3",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "",
+    "cor": "#3B82F6",
+    "descricao": "Estudo integrado da morfologia e função dos aparelhos digestório, renal e reprodutor: anatomia, histologia e fisiologia.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "bmf3_a1", "tema": "Aparelho Digestório — Anatomia", "descricao": "Boca, esôfago, estômago, intestinos, fígado e pâncreas."},
+      {"id": "bmf3_a2", "tema": "Fisiologia da Digestão", "descricao": "Motilidade, secreções, absorção e metabolismo."},
+      {"id": "bmf3_a3", "tema": "Aparelho Renal — Anatomia e Histologia", "descricao": "Rins, néfron, ureteres, bexiga e uretra."},
+      {"id": "bmf3_a4", "tema": "Fisiologia Renal", "descricao": "Filtração glomerular, reabsorção e equilíbrio ácido-básico."},
+      {"id": "bmf3_a5", "tema": "Aparelho Reprodutor Masculino", "descricao": "Testículos, ductos e glândulas acessórias."},
+      {"id": "bmf3_a6", "tema": "Aparelho Reprodutor Feminino", "descricao": "Ovários, tubas, útero e ciclo menstrual."}
     ]
   },
   "semiologia3": {
     "nome": "Semiologia dos Aparelhos Renal e Reprodutor",
-    "sigla": "semiologia3",
+    "sigla": "SEMIO3",
     "modulo": 3,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A disciplina aborda a semiologia aplicada aos aparelhos renal e reprodutor, com ...",
+    "icon": "",
+    "cor": "#C0392B",
+    "descricao": "Semiologia aplicada aos aparelhos renal e reprodutor: padrões de normalidade, sinais e sintomas das doenças mais prevalentes.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 3",
-        "temas": [
-          {
-            "id": "semiologia3_a1",
-            "tema": "Aula 1: O conteúdo será distribuído em módulos temáticos, alinhados à carga horária. A divisão considera uma",
-            "descricao": "Ao final desta aula, o aluno deve compreender: O conteúdo será distribuído em módulos temáticos, alinhados à carga horária. A divisão considera uma"
-          },
-          {
-            "id": "semiologia3_a2",
-            "tema": "Aula 2: progressão do teórico para o prático, com integração gradual.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: progressão do teórico para o prático, com integração gradual."
-          },
-          {
-            "id": "semiologia3_a3",
-            "tema": "Aula 3: Módulo 1: Revisão da Semiologia Abdominal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Módulo 1: Revisão da Semiologia Abdominal"
-          },
-          {
-            "id": "semiologia3_a4",
-            "tema": "Aula 4: ●​ Anamnese abdominal: coleta de sintomas como dor, distensão, alterações no trânsito intestinal e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anamnese abdominal: coleta de sintomas como dor, distensão, alterações no trânsito intestinal e"
-          },
-          {
-            "id": "semiologia3_a5",
-            "tema": "Aula 5: urinário, integrando aspectos renais e reprodutivos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: urinário, integrando aspectos renais e reprodutivos."
-          },
-          {
-            "id": "semiologia3_a6",
-            "tema": "Aula 6: ●​ Inspeção: avaliação visual de contornos, cicatrizes, distensões e movimentos peristálticos,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Inspeção: avaliação visual de contornos, cicatrizes, distensões e movimentos peristálticos,"
-          },
-          {
-            "id": "semiologia3_a7",
-            "tema": "Aula 7: identificando padrões normais e desvios.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: identificando padrões normais e desvios."
-          },
-          {
-            "id": "semiologia3_a8",
-            "tema": "Aula 8: ●​ Palpação: técnicas superficiais e profundas para órgãos abdominais, com foco em sensibilidade,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Palpação: técnicas superficiais e profundas para órgãos abdominais, com foco em sensibilidade,"
-          },
-          {
-            "id": "semiologia3_a9",
-            "tema": "Aula 9: massas e rigidez, correlacionando a achados renais/reprodutivos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: massas e rigidez, correlacionando a achados renais/reprodutivos."
-          },
-          {
-            "id": "semiologia3_a10",
-            "tema": "Aula 10: ●​ Ausculta: escuta de ruídos intestinais, vasculares e renais, diferenciando normalidade de patologias",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Ausculta: escuta de ruídos intestinais, vasculares e renais, diferenciando normalidade de patologias"
-          },
-          {
-            "id": "semiologia3_a11",
-            "tema": "Aula 11: como obstruções ou hipertensão renal.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: como obstruções ou hipertensão renal."
-          },
-          {
-            "id": "semiologia3_a12",
-            "tema": "Aula 12: ●​ Integração clínica: discussão de casos com ênfase em diagnósticos diferenciais abdominais que",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Integração clínica: discussão de casos com ênfase em diagnósticos diferenciais abdominais que"
-          },
-          {
-            "id": "semiologia3_a13",
-            "tema": "Aula 13: impactam os aparelhos renal e reprodutor.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: impactam os aparelhos renal e reprodutor."
-          },
-          {
-            "id": "semiologia3_a14",
-            "tema": "Aula 14: Módulo 2: Fundamentos da Semiologia Renal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Módulo 2: Fundamentos da Semiologia Renal"
-          },
-          {
-            "id": "semiologia3_a15",
-            "tema": "Aula 15: ●​ Anatomia e fisiologia renal: padrões de normalidade (urina, filtração glomerular).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anatomia e fisiologia renal: padrões de normalidade (urina, filtração glomerular)."
-          },
-          {
-            "id": "semiologia3_a16",
-            "tema": "Aula 16: ●​ Anamnese: sintomas como disúria, hematúria, lombalgia.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anamnese: sintomas como disúria, hematúria, lombalgia."
-          },
-          {
-            "id": "semiologia3_a17",
-            "tema": "Aula 17: ●​ Exame físico: palpação abdominal, percussão renal.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Exame físico: palpação abdominal, percussão renal."
-          },
-          {
-            "id": "semiologia3_a18",
-            "tema": "Aula 18: ●​ Principais patologias: infecções urinárias, litíase, insuficiência renal aguda/crônica.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Principais patologias: infecções urinárias, litíase, insuficiência renal aguda/crônica."
-          },
-          {
-            "id": "semiologia3_a19",
-            "tema": "Aula 19: Módulo 3: Semiologia do Aparelho Reprodutor Masculino",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Módulo 3: Semiologia do Aparelho Reprodutor Masculino"
-          },
-          {
-            "id": "semiologia3_a20",
-            "tema": "Aula 20: ●​ Anatomia e fisiologia do aparelho reprodutor masculino: padrões de normalidade (puberdade,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anatomia e fisiologia do aparelho reprodutor masculino: padrões de normalidade (puberdade,"
-          },
-          {
-            "id": "semiologia3_a21",
-            "tema": "Aula 21: espermatogênese, ereção, ejaculação).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: espermatogênese, ereção, ejaculação)."
-          },
-          {
-            "id": "semiologia3_a22",
-            "tema": "Aula 22: ●​ Anamnese dirigida: sintomas como disfunção erétil, ejaculação precoce/retardada, dor testicular,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Anamnese dirigida: sintomas como disfunção erétil, ejaculação precoce/retardada, dor testicular,"
-          },
-          {
-            "id": "semiologia3_a23",
-            "tema": "Aula 23: alterações urinárias, infertilidade masculina, hematospermia.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: alterações urinárias, infertilidade masculina, hematospermia."
-          },
-          {
-            "id": "semiologia3_a24",
-            "tema": "Aula 24: ●​ Exame físico específico: inspeção genital externa, palpação testicular e escrotal, toque retal para",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Exame físico específico: inspeção genital externa, palpação testicular e escrotal, toque retal para"
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "semio3_a1", "tema": "Anamnese do Aparelho Urinário", "descricao": "Queixas urinárias, hematúria, disúria e polaciúria."},
+      {"id": "semio3_a2", "tema": "Exame Físico Renal", "descricao": "Palpação renal, sinal de Giordano e pontos ureterais."},
+      {"id": "semio3_a3", "tema": "Exame do Aparelho Reprodutor", "descricao": "Exame ginecológico e andrológico básico."},
+      {"id": "semio3_a4", "tema": "Síndromes Nefrológicas", "descricao": "Síndrome nefrítica, nefrótica e insuficiência renal."}
     ]
   },
-  "process": {
-    "nome": "Processos Fisiopatologicos e Farmacoterapêuticos Neuroendocrinos",
-    "sigla": "process",
+  "mad2": {
+    "nome": "Mecanismos Sistêmicos de Agressão e Defesa",
+    "sigla": "MsAD",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "",
+    "cor": "#EF4444",
+    "descricao": "Doenças relacionadas a disfunções imunológicas, autoimunidade, transplantes, doenças infecciosas por vírus, bactérias e parasitas.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "mad2_a1", "tema": "Imunodeficiências e Autoimunidade", "descricao": "Disfunções do sistema imunológico e tolerância."},
+      {"id": "mad2_a2", "tema": "Transplantes e Imunologia", "descricao": "Rejeição de transplantes e transfusão sanguínea."},
+      {"id": "mad2_a3", "tema": "Infecções Virais", "descricao": "Principais viroses e mecanismos de defesa."},
+      {"id": "mad2_a4", "tema": "Infecções Bacterianas", "descricao": "Bactérias patogênicas e resistência antimicrobiana."},
+      {"id": "mad2_a5", "tema": "Doenças Parasitárias", "descricao": "Parasitologia clínica e epidemiologia."}
+    ]
+  },
+  "fisiopato3": {
+    "nome": "Processos Fisiopatológicos e Farmacoterapêuticos",
+    "sigla": "FP3",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "",
+    "cor": "#F97316",
+    "descricao": "Raciocínio clínico integrando fisiopatologia, alterações funcionais, manifestações clínicas e escolhas farmacológicas.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "fp3_a1", "tema": "Introdução à Fisiopatologia", "descricao": "Mecanismo de doença e raciocínio clínico integrado."},
+      {"id": "fp3_a2", "tema": "Fisiopatologia Digestiva", "descricao": "Úlcera péptica, DRGE e hepatopatias."},
+      {"id": "fp3_a3", "tema": "Fisiopatologia Renal", "descricao": "Insuficiência renal aguda e crônica."},
+      {"id": "fp3_a4", "tema": "Farmacologia Básica Aplicada", "descricao": "Princípios de farmacocinética e farmacodinâmica."},
+      {"id": "fp3_a5", "tema": "Farmacoterapia Dirigida", "descricao": "Escolha racional de medicamentos por sistema."}
+    ]
+  },
+  "saude_trabalhador": {
+    "nome": "Saúde do Trabalhador e Doenças Ocupacionais",
+    "sigla": "ST",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "",
+    "cor": "#78716C",
+    "descricao": "Fundamentos da saúde do trabalhador no SUS, fatores de risco ocupacionais, doenças ocupacionais e vigilância em saúde.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "st_a1", "tema": "Introdução à Saúde do Trabalhador", "descricao": "Conceitos, história e políticas de saúde ocupacional."},
+      {"id": "st_a2", "tema": "Fatores de Risco Ocupacionais", "descricao": "Riscos físicos, químicos, biológicos e ergonômicos."},
+      {"id": "st_a3", "tema": "Doenças Ocupacionais", "descricao": "LER/DORT, pneumoconioses e intoxicações."},
+      {"id": "st_a4", "tema": "Vigilância em Saúde do Trabalhador", "descricao": "Notificação, investigação e prevenção de agravos."}
+    ]
+  },
+  "pe3": {
+    "nome": "Projeto Extensionista 3 — Vigilância em Saúde",
+    "sigla": "PE3",
+    "modulo": 3,
+    "ativo": true,
+    "icon": "",
+    "cor": "#10B981",
+    "descricao": "Prática extensionista em vigilância em saúde ocupacional na atenção básica, com intervenções para trabalhadores.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "pe3_a1", "tema": "Vigilância Sanitária e ANVISA", "descricao": "Regulamento sanitário e fiscalização."},
+      {"id": "pe3_a2", "tema": "Vacinação para Trabalhadores", "descricao": "Importância da imunização no ambiente laboral."},
+      {"id": "pe3_a3", "tema": "Doenças e Agravos Relacionados ao Trabalho", "descricao": "Prevenção e promoção da saúde ocupacional."}
+    ]
+  },
+  "bmf4": {
+    "nome": "Bases Morfofuncionais 4 — Sistema Neurossensorial e Endócrino",
+    "sigla": "BMF4",
     "modulo": 4,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo dos processos fisiopatológicos e farmacoterapêuticos gerais e relacionado...",
+    "icon": "",
+    "cor": "#A855F7",
+    "descricao": "Estudo integrado da morfologia e função dos sistemas neurossensorial e endócrino: anatomia, histologia e fisiologia.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 4",
-        "temas": [
-          {
-            "id": "process_a1",
-            "tema": "Aula 1: 1. Introdução aos Processos Fisiopatológicos e Farmacoterapêuticos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1. Introdução aos Processos Fisiopatológicos e Farmacoterapêuticos"
-          },
-          {
-            "id": "process_a2",
-            "tema": "Aula 2: ●​ Patologia geral: mecanismos gerais de lesão celular, acúmulos intracelulares, morte celular,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Patologia geral: mecanismos gerais de lesão celular, acúmulos intracelulares, morte celular,"
-          },
-          {
-            "id": "process_a3",
-            "tema": "Aula 3: calcificação patológica, pigmentação patológica, distúrbios circulatórios, alterações inflamatórias e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: calcificação patológica, pigmentação patológica, distúrbios circulatórios, alterações inflamatórias e"
-          },
-          {
-            "id": "process_a4",
-            "tema": "Aula 4: reparo tecidual, adaptações do crescimento e diferenciação tecidual e neoplasias.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: reparo tecidual, adaptações do crescimento e diferenciação tecidual e neoplasias."
-          },
-          {
-            "id": "process_a5",
-            "tema": "Aula 5: ●​ Princípios de farmacoterapia: Formas farmacêuticas, vias de administração, farmacocinética,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Princípios de farmacoterapia: Formas farmacêuticas, vias de administração, farmacocinética,"
-          },
-          {
-            "id": "process_a6",
-            "tema": "Aula 6: farmacodinâmica, posologia.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: farmacodinâmica, posologia."
-          },
-          {
-            "id": "process_a7",
-            "tema": "Aula 7: ●​ Inter-relações entre sistemas nervoso e endócrino.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Inter-relações entre sistemas nervoso e endócrino."
-          },
-          {
-            "id": "process_a8",
-            "tema": "Aula 8: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos"
-          },
-          {
-            "id": "process_a9",
-            "tema": "Aula 9: antiinflamatórios não esteroidais e corticoides.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: antiinflamatórios não esteroidais e corticoides."
-          },
-          {
-            "id": "process_a10",
-            "tema": "Aula 10: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de fármacos"
-          },
-          {
-            "id": "process_a11",
-            "tema": "Aula 11: antineoplásicos.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: antineoplásicos."
-          },
-          {
-            "id": "process_a12",
-            "tema": "Aula 12: 2. Fisiopatologia e Farmacoterapia do Sistema Nervoso",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 2. Fisiopatologia e Farmacoterapia do Sistema Nervoso"
-          },
-          {
-            "id": "process_a13",
-            "tema": "Aula 13: ●​ 2.1. Fisiopatologia do sistema nervoso",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.1. Fisiopatologia do sistema nervoso"
-          },
-          {
-            "id": "process_a14",
-            "tema": "Aula 14: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e"
-          },
-          {
-            "id": "process_a15",
-            "tema": "Aula 15: manifestações clínicas e laboratoriais das doenças cerebrovasculares;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: manifestações clínicas e laboratoriais das doenças cerebrovasculares;"
-          },
-          {
-            "id": "process_a16",
-            "tema": "Aula 16: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Definição, epidemiologia, mecanismos, morfologia (macroscópica e microscópica) e"
-          },
-          {
-            "id": "process_a17",
-            "tema": "Aula 17: manifestações clínicas e laboratoriais das neoplasias primárias de sistema nervoso central;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: manifestações clínicas e laboratoriais das neoplasias primárias de sistema nervoso central;"
-          },
-          {
-            "id": "process_a18",
-            "tema": "Aula 18: ●​ 2.3. Farmacoterapia do sistema nervoso",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ 2.3. Farmacoterapia do sistema nervoso"
-          },
-          {
-            "id": "process_a19",
-            "tema": "Aula 19: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
-          },
-          {
-            "id": "process_a20",
-            "tema": "Aula 20: fármacos que atuam no sistema nervoso autônomo simpático (adrenérgicos e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos que atuam no sistema nervoso autônomo simpático (adrenérgicos e"
-          },
-          {
-            "id": "process_a21",
-            "tema": "Aula 21: antiadrenérgicos) e parassimpático (colinérgicos muscarínicos, antimuscarínicos e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: antiadrenérgicos) e parassimpático (colinérgicos muscarínicos, antimuscarínicos e"
-          },
-          {
-            "id": "process_a22",
-            "tema": "Aula 22: anticolinesterásicos)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: anticolinesterásicos)"
-          },
-          {
-            "id": "process_a23",
-            "tema": "Aula 23: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
-          },
-          {
-            "id": "process_a24",
-            "tema": "Aula 24: fármacos bloqueadores neuromusculares.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos bloqueadores neuromusculares."
-          },
-          {
-            "id": "process_a25",
-            "tema": "Aula 25: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
-          },
-          {
-            "id": "process_a26",
-            "tema": "Aula 26: fármacos opióides.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos opióides."
-          },
-          {
-            "id": "process_a27",
-            "tema": "Aula 27: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
-          },
-          {
-            "id": "process_a28",
-            "tema": "Aula 28: fármacos anestésicos locais e gerais.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos anestésicos locais e gerais."
-          },
-          {
-            "id": "process_a29",
-            "tema": "Aula 29: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ○​ Indicação, contra-indicação, mecanismo de ação, efeitos adversos, e farmacocinética de"
-          },
-          {
-            "id": "process_a30",
-            "tema": "Aula 30: fármacos antidepressivos, ansiolíticos, hipnóticos, antipsicóticos, anticonvulsivantes e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: fármacos antidepressivos, ansiolíticos, hipnóticos, antipsicóticos, anticonvulsivantes e"
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "bmf4_a1", "tema": "Anatomia do Sistema Nervoso Central", "descricao": "Encéfalo, medula espinhal e meninges."},
+      {"id": "bmf4_a2", "tema": "Sistema Nervoso Periférico", "descricao": "Nervos cranianos, plexos e dermátomos."},
+      {"id": "bmf4_a3", "tema": "Neurofisiologia", "descricao": "Potencial de ação, sinapses e neurotransmissores."},
+      {"id": "bmf4_a4", "tema": "Órgãos dos Sentidos", "descricao": "Visão, audição, olfato, gustação e somestesia."},
+      {"id": "bmf4_a5", "tema": "Sistema Endócrino", "descricao": "Glândulas endócrinas, hormônios e regulação."}
     ]
   },
-  "bioe": {
+  "semiologia4": {
+    "nome": "Semiologia Neurológica e Síndromes Clínicas",
+    "sigla": "SEMIO4",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "",
+    "cor": "#C0392B",
+    "descricao": "Semiologia do sistema nervoso: exame neurológico, reflexos, pares cranianos e síndromes neurológicas.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "semio4_a1", "tema": "Exame Neurológico Geral", "descricao": "Estado mental, consciência e orientação."},
+      {"id": "semio4_a2", "tema": "Pares Cranianos", "descricao": "Avaliação dos 12 pares cranianos."},
+      {"id": "semio4_a3", "tema": "Força, Tônus e Reflexos", "descricao": "Avaliação motora e reflexos profundos."},
+      {"id": "semio4_a4", "tema": "Sensibilidade e Coordenação", "descricao": "Testes de sensibilidade e provas cerebelares."},
+      {"id": "semio4_a5", "tema": "Síndromes Neurológicas", "descricao": "Síndrome piramidal, extrapiramidal e cerebelar."}
+    ]
+  },
+  "fisiopato_farmaco": {
+    "nome": "Processos Fisiopatológicos e Farmacoterapêuticos Neuroendócrinos",
+    "sigla": "FF4",
+    "modulo": 4,
+    "ativo": true,
+    "icon": "",
+    "cor": "#7C3AED",
+    "descricao": "Processos fisiopatológicos e farmacoterapêuticos dos sistemas nervoso e endócrino.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "ff4_a1", "tema": "Fisiopatologia Neurológica", "descricao": "AVC, epilepsia e doenças neurodegenerativas."},
+      {"id": "ff4_a2", "tema": "Farmacologia do SNC", "descricao": "Analgésicos, anticonvulsivantes e antidepressivos."},
+      {"id": "ff4_a3", "tema": "Fisiopatologia Endócrina", "descricao": "Diabetes, tireoide e doenças da suprarrenal."},
+      {"id": "ff4_a4", "tema": "Farmacoterapia Endócrina", "descricao": "Insulina, antidiabéticos e hormônios tireoidianos."}
+    ]
+  },
+  "bioestatistica": {
     "nome": "Bioestatística e Estudos em Saúde",
-    "sigla": "bioe",
+    "sigla": "BIOE",
     "modulo": 4,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A disciplina irá permitir que o aluno adquira o conhecimento dos preceitos de co...",
+    "icon": "",
+    "cor": "#0EA5E9",
+    "descricao": "Coleta, organização e interpretação de dados de saúde por meio da quantificação de eventos e medicina baseada em evidências.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 4",
-        "temas": [
-          {
-            "id": "bioe_a1",
-            "tema": "Aula 1: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Sistema de Vigilância de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Sistema de Vigilância de"
-          },
-          {
-            "id": "bioe_a2",
-            "tema": "Aula 2: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Análise"
-          },
-          {
-            "id": "bioe_a3",
-            "tema": "Aula 3: BRASIL. Ministério da Saúde. PORTARIA Nº 399, DE 22 DE FEVEREIRO DE 2006 Divulga",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. PORTARIA Nº 399, DE 22 DE FEVEREIRO DE 2006 Divulga"
-          },
-          {
-            "id": "bioe_a4",
-            "tema": "Aula 4: BRASIL. Ministério da Saúde. Secretaria-Executiva. Departamento de Informática do SUS.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: BRASIL. Ministério da Saúde. Secretaria-Executiva. Departamento de Informática do SUS."
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "bioe_a1", "tema": "Estatística Descritiva em Saúde", "descricao": "Medidas de tendência central e dispersão."},
+      {"id": "bioe_a2", "tema": "Tipos de Estudos Epidemiológicos", "descricao": "Coorte, caso-controle, transversal e ensaio clínico."},
+      {"id": "bioe_a3", "tema": "Medicina Baseada em Evidências", "descricao": "Leitura crítica de artigos e níveis de evidência."},
+      {"id": "bioe_a4", "tema": "Testes de Hipótese", "descricao": "Valor p, intervalo de confiança e significância."}
     ]
   },
-  "bmf2": {
-    "nome": "Bases Morfofuncionais dos Aparelhos Neurossensorial e",
-    "sigla": "bmf2",
+  "pe4": {
+    "nome": "Projeto Extensionista 4 — Medicina Baseada em Evidência",
+    "sigla": "PE4",
     "modulo": 4,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Estudo integrado da morfologia e função dos sistemas neurossensorial e endócrino...",
+    "icon": "",
+    "cor": "#10B981",
+    "descricao": "Prática extensionista articulando medicina baseada em evidência e educação popular em saúde.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 4",
-        "temas": [
-          {
-            "id": "bmf2_a1",
-            "tema": "Aula 1: ➢ BLOCO I - BÁSICO/CONHECIMENTOS GERAIS DE NEUROANATOMIA",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ➢ BLOCO I - BÁSICO/CONHECIMENTOS GERAIS DE NEUROANATOMIA"
-          },
-          {
-            "id": "bmf2_a2",
-            "tema": "Aula 2: Divisão do Sistema Nervoso",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Divisão do Sistema Nervoso"
-          },
-          {
-            "id": "bmf2_a3",
-            "tema": "Aula 3: - Divisão Anatômica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Divisão Anatômica"
-          },
-          {
-            "id": "bmf2_a4",
-            "tema": "Aula 4: - Divisão Funcional/Fisiológica",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Divisão Funcional/Fisiológica"
-          },
-          {
-            "id": "bmf2_a5",
-            "tema": "Aula 5: Embriologia do Sistema Nervoso",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Embriologia do Sistema Nervoso"
-          },
-          {
-            "id": "bmf2_a6",
-            "tema": "Aula 6: - Formação da Placa, Tubo e Cristas Neurais",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Formação da Placa, Tubo e Cristas Neurais"
-          },
-          {
-            "id": "bmf2_a7",
-            "tema": "Aula 7: - Formação das Vesículas Encefálicas Primárias e Secundárias",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Formação das Vesículas Encefálicas Primárias e Secundárias"
-          },
-          {
-            "id": "bmf2_a8",
-            "tema": "Aula 8: Formação do Nervo Espinal",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Formação do Nervo Espinal"
-          },
-          {
-            "id": "bmf2_a9",
-            "tema": "Aula 9: - Radículas Sensitivas (Posteriores/Dorsais)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Radículas Sensitivas (Posteriores/Dorsais)"
-          },
-          {
-            "id": "bmf2_a10",
-            "tema": "Aula 10: - Raiz Sensitiva (Posterior/Dorsal)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Raiz Sensitiva (Posterior/Dorsal)"
-          },
-          {
-            "id": "bmf2_a11",
-            "tema": "Aula 11: - Radículas Motoras (Anteriores/Ventrais)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Radículas Motoras (Anteriores/Ventrais)"
-          },
-          {
-            "id": "bmf2_a12",
-            "tema": "Aula 12: - Raiz Motora (Anterior/Ventral)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Raiz Motora (Anterior/Ventral)"
-          },
-          {
-            "id": "bmf2_a13",
-            "tema": "Aula 13: - Relações Anatômicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
-          },
-          {
-            "id": "bmf2_a14",
-            "tema": "Aula 14: Crânio e Fossas Cranianas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Crânio e Fossas Cranianas"
-          },
-          {
-            "id": "bmf2_a15",
-            "tema": "Aula 15: - Viscerocrânio",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Viscerocrânio"
-          },
-          {
-            "id": "bmf2_a16",
-            "tema": "Aula 16: - Neurocrânio",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Neurocrânio"
-          },
-          {
-            "id": "bmf2_a17",
-            "tema": "Aula 17: - Cavidade Craniana e suas Fossas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Cavidade Craniana e suas Fossas"
-          },
-          {
-            "id": "bmf2_a18",
-            "tema": "Aula 18: - Relações Anatômicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
-          },
-          {
-            "id": "bmf2_a19",
-            "tema": "Aula 19: Morfologia do Telencéfalo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Morfologia do Telencéfalo"
-          },
-          {
-            "id": "bmf2_a20",
-            "tema": "Aula 20: - Hemisférios Cerebrais",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Hemisférios Cerebrais"
-          },
-          {
-            "id": "bmf2_a21",
-            "tema": "Aula 21: - Lobos I e II Ventrículos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Lobos I e II Ventrículos"
-          },
-          {
-            "id": "bmf2_a22",
-            "tema": "Aula 22: - Relações Anatômicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
-          },
-          {
-            "id": "bmf2_a23",
-            "tema": "Aula 23: Córtex Cerebral - Citoarquitetura e Funções",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Córtex Cerebral - Citoarquitetura e Funções"
-          },
-          {
-            "id": "bmf2_a24",
-            "tema": "Aula 24: - Classificação",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Classificação"
-          },
-          {
-            "id": "bmf2_a25",
-            "tema": "Aula 25: - Filogenética",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Filogenética"
-          },
-          {
-            "id": "bmf2_a26",
-            "tema": "Aula 26: - Citoarquitetura e Estrutura",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Citoarquitetura e Estrutura"
-          },
-          {
-            "id": "bmf2_a27",
-            "tema": "Aula 27: - Funcional",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Funcional"
-          },
-          {
-            "id": "bmf2_a28",
-            "tema": "Aula 28: - Áreas de Brodmann",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Áreas de Brodmann"
-          },
-          {
-            "id": "bmf2_a29",
-            "tema": "Aula 29: - Áreas de Luria (Primárias, Secundárias e Terciárias)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Áreas de Luria (Primárias, Secundárias e Terciárias)"
-          },
-          {
-            "id": "bmf2_a30",
-            "tema": "Aula 30: - Relações Anatômicas",
-            "descricao": "Ao final desta aula, o aluno deve compreender: - Relações Anatômicas"
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "pe4_a1", "tema": "Medicina Baseada em Evidência na Comunidade", "descricao": "Aplicação de MBE em ações extensionistas."},
+      {"id": "pe4_a2", "tema": "Educação Popular em Saúde", "descricao": "Estratégias de comunicação e educação em saúde."}
     ]
   },
-  "sus": {
-    "nome": "Princípios e Diretrizes do SUS",
-    "sigla": "sus",
-    "modulo": 1,
+  "clinica_medica5": {
+    "nome": "Clínica Médica",
+    "sigla": "CM5",
+    "modulo": 5,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "A disciplina aborda os fundamentos da Atenção Primária à Saúde no Sistema Único ...",
+    "icon": "",
+    "cor": "#1D4ED8",
+    "descricao": "Diagnóstico, tratamento e manejo de patologias em Gastroenterologia, Geriatria, Hematologia, Pneumologia, Reumatologia e Cuidados Paliativos.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 1",
-        "temas": [
-          {
-            "id": "sus_a1",
-            "tema": "Aula 1: 4.1. CONTEÚDO TEÓRICO",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 4.1. CONTEÚDO TEÓRICO"
-          },
-          {
-            "id": "sus_a2",
-            "tema": "Aula 2: 1. Processo Saúde e Doença/ Determinantes Sociais de Saúde (DSS)/ Vulnerabilidade:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1. Processo Saúde e Doença/ Determinantes Sociais de Saúde (DSS)/ Vulnerabilidade:"
-          },
-          {
-            "id": "sus_a3",
-            "tema": "Aula 3: compreender o processo saúde –doença associando com as condições econômicas e sociais que",
-            "descricao": "Ao final desta aula, o aluno deve compreender: compreender o processo saúde –doença associando com as condições econômicas e sociais que"
-          },
-          {
-            "id": "sus_a4",
-            "tema": "Aula 4: afetam a saúde.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: afetam a saúde."
-          },
-          {
-            "id": "sus_a5",
-            "tema": "Aula 5: 2. Antecedentes Históricos do Sistema Único de Saúde - (Breve História da Política Pública de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 2. Antecedentes Históricos do Sistema Único de Saúde - (Breve História da Política Pública de"
-          },
-          {
-            "id": "sus_a6",
-            "tema": "Aula 6: Saúde no Brasil) Contempla: Período Colonial Imperial (1500-1889), Período da Primeira",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Saúde no Brasil) Contempla: Período Colonial Imperial (1500-1889), Período da Primeira"
-          },
-          {
-            "id": "sus_a7",
-            "tema": "Aula 7: República-República Velha (1889-1930), Período da Segunda República ou Era Vargas (1930-",
-            "descricao": "Ao final desta aula, o aluno deve compreender: República-República Velha (1889-1930), Período da Segunda República ou Era Vargas (1930-"
-          },
-          {
-            "id": "sus_a8",
-            "tema": "Aula 8: 1945), Período da Redemocratização ou Desenvolvimentista (1945-1963), Período do Regime",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 1945), Período da Redemocratização ou Desenvolvimentista (1945-1963), Período do Regime"
-          },
-          {
-            "id": "sus_a9",
-            "tema": "Aula 9: Militar (1964-1984), Período da Nova República (1985- 1988).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Militar (1964-1984), Período da Nova República (1985- 1988)."
-          },
-          {
-            "id": "sus_a10",
-            "tema": "Aula 10: 3. O Sistema Único de Saúde e as Leis Orgânicas da Saúde. Contempla: (O SUS na Constituição",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 3. O Sistema Único de Saúde e as Leis Orgânicas da Saúde. Contempla: (O SUS na Constituição"
-          },
-          {
-            "id": "sus_a11",
-            "tema": "Aula 11: Federal, Leis Orgânicas da Saúde, Princípios Doutrinários e Organizativos do SUS).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Federal, Leis Orgânicas da Saúde, Princípios Doutrinários e Organizativos do SUS)."
-          },
-          {
-            "id": "sus_a12",
-            "tema": "Aula 12: 4. Pacto Pela Saúde: compreender a importância do Pacto pela Vida no fortalecimento da Atenção",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 4. Pacto Pela Saúde: compreender a importância do Pacto pela Vida no fortalecimento da Atenção"
-          },
-          {
-            "id": "sus_a13",
-            "tema": "Aula 13: Básica. Contempla: O Pacto Pela Vida - 1.Saúde do Idoso, 2. Controle do Câncer do Colo do Útero",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Básica. Contempla: O Pacto Pela Vida - 1.Saúde do Idoso, 2. Controle do Câncer do Colo do Útero"
-          },
-          {
-            "id": "sus_a14",
-            "tema": "Aula 14: e da Mama, 3. Redução da Mortalidade Infantil e Materna, 4. Fortalecimento da Capacidade de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: e da Mama, 3. Redução da Mortalidade Infantil e Materna, 4. Fortalecimento da Capacidade de"
-          },
-          {
-            "id": "sus_a15",
-            "tema": "Aula 15: Resposta às Doenças Emergentes e Endemias, Com Ênfase na Dengue, Hanseníase, Tuberculose,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Resposta às Doenças Emergentes e Endemias, Com Ênfase na Dengue, Hanseníase, Tuberculose,"
-          },
-          {
-            "id": "sus_a16",
-            "tema": "Aula 16: Malária e Influenza.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Malária e Influenza."
-          },
-          {
-            "id": "sus_a17",
-            "tema": "Aula 17: 5. Pacto Pela Gestão (RAS, Regionalização); Decreto 7508/11: analisar o pacto pela saúde, dando",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 5. Pacto Pela Gestão (RAS, Regionalização); Decreto 7508/11: analisar o pacto pela saúde, dando"
-          },
-          {
-            "id": "sus_a18",
-            "tema": "Aula 18: ênfase ao pacto pela gestão, subsidiando ações de gestão, de educação e de atenção à saúde e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ênfase ao pacto pela gestão, subsidiando ações de gestão, de educação e de atenção à saúde e"
-          },
-          {
-            "id": "sus_a19",
-            "tema": "Aula 19: caracterizar o trabalho em equipe na gestão, na educação e na atenção à saúde no processo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: caracterizar o trabalho em equipe na gestão, na educação e na atenção à saúde no processo"
-          },
-          {
-            "id": "sus_a20",
-            "tema": "Aula 20: saúde-doença.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: saúde-doença."
-          },
-          {
-            "id": "sus_a21",
-            "tema": "Aula 21: 6. Pacto pela Saúde (ênfase no Pacto em Defesa do SUS).",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 6. Pacto pela Saúde (ênfase no Pacto em Defesa do SUS)."
-          },
-          {
-            "id": "sus_a22",
-            "tema": "Aula 22: 7.  PNAB (Política Nacional de Atenção Básica) - (Implantação e operacionalização da Saúde da",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 7.  PNAB (Política Nacional de Atenção Básica) - (Implantação e operacionalização da Saúde da"
-          },
-          {
-            "id": "sus_a23",
-            "tema": "Aula 23: Família / descrição da equipe mínima) e Atributos da Atenção Primária à Saúde.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Família / descrição da equipe mínima) e Atributos da Atenção Primária à Saúde."
-          },
-          {
-            "id": "sus_a24",
-            "tema": "Aula 24: 5.  AVALIAÇÃO DO APRENDIZADO",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 5.  AVALIAÇÃO DO APRENDIZADO"
-          },
-          {
-            "id": "sus_a25",
-            "tema": "Aula 25: A nota da AV1 será composta por:",
-            "descricao": "Ao final desta aula, o aluno deve compreender: A nota da AV1 será composta por:"
-          },
-          {
-            "id": "sus_a26",
-            "tema": "Aula 26: 30% Atividades realizadas ao longo do semestre;",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 30% Atividades realizadas ao longo do semestre;"
-          },
-          {
-            "id": "sus_a27",
-            "tema": "Aula 27: 70% PROVAS (P1 + P2)",
-            "descricao": "Ao final desta aula, o aluno deve compreender: 70% PROVAS (P1 + P2)"
-          },
-          {
-            "id": "sus_a28",
-            "tema": "Aula 28: A nota da AV2 será composta por uma avaliação final.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: A nota da AV2 será composta por uma avaliação final."
-          },
-          {
-            "id": "sus_a29",
-            "tema": "Aula 29: Nota final: ⅔ AV1 + ⅓ AV2 =  (AV1 x 2) + AV2",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Nota final: ⅔ AV1 + ⅓ AV2 =  (AV1 x 2) + AV2"
-          },
-          {
-            "id": "sus_a30",
-            "tema": "Aula 30: Considerar-se-á aprovado no curso de Medicina o aluno que obtiver média final maior ou igual a 7,0",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Considerar-se-á aprovado no curso de Medicina o aluno que obtiver média final maior ou igual a 7,0"
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "cm5_a1", "tema": "Gastroenterologia Clínica", "descricao": "DRGE, úlcera péptica, hepatites e cirrose."},
+      {"id": "cm5_a2", "tema": "Pneumologia Clínica", "descricao": "DPOC, asma, pneumonias e tuberculose."},
+      {"id": "cm5_a3", "tema": "Hematologia Clínica", "descricao": "Anemias, leucemias e distúrbios de coagulação."},
+      {"id": "cm5_a4", "tema": "Reumatologia Clínica", "descricao": "Artrite reumatoide, lúpus e artropatias."},
+      {"id": "cm5_a5", "tema": "Geriatria e Cuidados Paliativos", "descricao": "Síndromes geriátricas e manejo paliativo."}
     ]
   },
-  "indicadores": {
-    "nome": "Epidemiologia e Bioestatística",
-    "sigla": "indicadores",
-    "modulo": 2,
+  "clinica_cirurgica5": {
+    "nome": "Clínica Cirúrgica e Ortopedia",
+    "sigla": "CC5",
+    "modulo": 5,
     "ativo": true,
-    "icon": "📘",
-    "cor": "#64748B",
-    "descricao": "Analisar, compreender e integrar as políticas públicas de saúde e a epidemiologi...",
+    "icon": "",
+    "cor": "#1E3A5F",
+    "descricao": "Agravos à saúde nas áreas de Cirurgia Geral, Gastrocirurgia e Ortopedia com ênfase em prevenção, diagnóstico e tratamento.",
     "professores": [],
     "totalCards": 0,
     "totalQuestoes": 0,
-    "modulos": [
-      {
-        "nome": "Módulo 2",
-        "temas": [
-          {
-            "id": "indicadores_a1",
-            "tema": "Aula 1: ●​ História da Epidemiologia: Conceito de epidemiologia e suas aplicações; História da",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ História da Epidemiologia: Conceito de epidemiologia e suas aplicações; História da"
-          },
-          {
-            "id": "indicadores_a2",
-            "tema": "Aula 2: Epidemiologia; Principais personagens da Epidemiologia no mundo e no Brasil; Ilustração de um",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Epidemiologia; Principais personagens da Epidemiologia no mundo e no Brasil; Ilustração de um"
-          },
-          {
-            "id": "indicadores_a3",
-            "tema": "Aula 3: episódio importante na história da epidemiologia – a epidemia de cólera em Londres.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: episódio importante na história da epidemiologia – a epidemia de cólera em Londres."
-          },
-          {
-            "id": "indicadores_a4",
-            "tema": "Aula 4: ●​ História Natural da Doença e Níveis de Prevenção: Conhecimento das Bases da História Natural",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ História Natural da Doença e Níveis de Prevenção: Conhecimento das Bases da História Natural"
-          },
-          {
-            "id": "indicadores_a5",
-            "tema": "Aula 5: da Doença; Conceitos e exemplos dos quatro níveis de prevenção.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: da Doença; Conceitos e exemplos dos quatro níveis de prevenção."
-          },
-          {
-            "id": "indicadores_a6",
-            "tema": "Aula 6: ●​ Transição Epidemiológica, Demográfica e Nutricional: Conhecimento das fases de transição",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Transição Epidemiológica, Demográfica e Nutricional: Conhecimento das fases de transição"
-          },
-          {
-            "id": "indicadores_a7",
-            "tema": "Aula 7: demográfica, epidemiológica e nutricional no Brasil e suas principais características.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: demográfica, epidemiológica e nutricional no Brasil e suas principais características."
-          },
-          {
-            "id": "indicadores_a8",
-            "tema": "Aula 8: ●​ Indicadores Demográficos: Conhecimento dos principais indicadores demográficos utilizados no",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicadores Demográficos: Conhecimento dos principais indicadores demográficos utilizados no"
-          },
-          {
-            "id": "indicadores_a9",
-            "tema": "Aula 9: Brasil, métodos de cálculos e fontes de informação.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Brasil, métodos de cálculos e fontes de informação."
-          },
-          {
-            "id": "indicadores_a10",
-            "tema": "Aula 10: ●​ Indicadores de Morbidade: Definir e construir indicadores de distribuição das doenças, agravos e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicadores de Morbidade: Definir e construir indicadores de distribuição das doenças, agravos e"
-          },
-          {
-            "id": "indicadores_a11",
-            "tema": "Aula 11: problemas em saúde. Taxa de prevalência, taxa de incidência , taxa de ataque e densidade de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: problemas em saúde. Taxa de prevalência, taxa de incidência , taxa de ataque e densidade de"
-          },
-          {
-            "id": "indicadores_a12",
-            "tema": "Aula 12: incidência. Entender a significância dos indicadores de mortalidade na identificação do panorama do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: incidência. Entender a significância dos indicadores de mortalidade na identificação do panorama do"
-          },
-          {
-            "id": "indicadores_a13",
-            "tema": "Aula 13: desenvolvimento do território analisado",
-            "descricao": "Ao final desta aula, o aluno deve compreender: desenvolvimento do território analisado"
-          },
-          {
-            "id": "indicadores_a14",
-            "tema": "Aula 14: ●​ Indicadores de mortalidade - taxa de mortalidade geral, proporcional e específica. Definir e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicadores de mortalidade - taxa de mortalidade geral, proporcional e específica. Definir e"
-          },
-          {
-            "id": "indicadores_a15",
-            "tema": "Aula 15: construir indicadores de taxa de mortalidade por sexo, mortalidade proporcional por causa,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: construir indicadores de taxa de mortalidade por sexo, mortalidade proporcional por causa,"
-          },
-          {
-            "id": "indicadores_a16",
-            "tema": "Aula 16: mortalidade por local de ocorrência, taxa de mortalidade por causa e taxa de mortalidade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: mortalidade por local de ocorrência, taxa de mortalidade por causa e taxa de mortalidade"
-          },
-          {
-            "id": "indicadores_a17",
-            "tema": "Aula 17: proporcional de 50 anos ou mais de idade. Comparar indicadores em diferentes localidades.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: proporcional de 50 anos ou mais de idade. Comparar indicadores em diferentes localidades."
-          },
-          {
-            "id": "indicadores_a18",
-            "tema": "Aula 18: Compreender a importância dos indicadores de mortalidade na identificação do panorama do",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Compreender a importância dos indicadores de mortalidade na identificação do panorama do"
-          },
-          {
-            "id": "indicadores_a19",
-            "tema": "Aula 19: desenvolvimento do território analisado. Analisar os indicadores de mortalidade e compreender a",
-            "descricao": "Ao final desta aula, o aluno deve compreender: desenvolvimento do território analisado. Analisar os indicadores de mortalidade e compreender a"
-          },
-          {
-            "id": "indicadores_a20",
-            "tema": "Aula 20: importância destes na construção das políticas públicas. Conhecimento dos SIM e PRO-AIM.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: importância destes na construção das políticas públicas. Conhecimento dos SIM e PRO-AIM."
-          },
-          {
-            "id": "indicadores_a21",
-            "tema": "Aula 21: Conhecer o preenchimento da causa básica de mortalidade na declaração de óbito, compreendendo",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Conhecer o preenchimento da causa básica de mortalidade na declaração de óbito, compreendendo"
-          },
-          {
-            "id": "indicadores_a22",
-            "tema": "Aula 22: a importância deste dado para a análise dos indicadores de mortalidades e a construção de",
-            "descricao": "Ao final desta aula, o aluno deve compreender: a importância deste dado para a análise dos indicadores de mortalidades e a construção de"
-          },
-          {
-            "id": "indicadores_a23",
-            "tema": "Aula 23: intervenções eficazes.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: intervenções eficazes."
-          },
-          {
-            "id": "indicadores_a24",
-            "tema": "Aula 24: ●​ Indicadores de mortalidade - taxa de mortalidade materna e infantil, neonatal precoce,",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Indicadores de mortalidade - taxa de mortalidade materna e infantil, neonatal precoce,"
-          },
-          {
-            "id": "indicadores_a25",
-            "tema": "Aula 25: neonatal tardia, pós-neonatal, perinatal. Indicadores de morbidade e mortalidade baseados nos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: neonatal tardia, pós-neonatal, perinatal. Indicadores de morbidade e mortalidade baseados nos"
-          },
-          {
-            "id": "indicadores_a26",
-            "tema": "Aula 26: casos clínicos integradores. Definição e construção dos indicadores mortalidade infantil, mortalidade",
-            "descricao": "Ao final desta aula, o aluno deve compreender: casos clínicos integradores. Definição e construção dos indicadores mortalidade infantil, mortalidade"
-          },
-          {
-            "id": "indicadores_a27",
-            "tema": "Aula 27: neonatal, mortalidade neonatal precoce, mortalidade neonatal tardia, mortalidade pós-neonatal.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: neonatal, mortalidade neonatal precoce, mortalidade neonatal tardia, mortalidade pós-neonatal."
-          },
-          {
-            "id": "indicadores_a28",
-            "tema": "Aula 28: Definição e construção dos indicadores de mortalidade perinatal e mortalidade materna. Definição e",
-            "descricao": "Ao final desta aula, o aluno deve compreender: Definição e construção dos indicadores de mortalidade perinatal e mortalidade materna. Definição e"
-          },
-          {
-            "id": "indicadores_a29",
-            "tema": "Aula 29: construção dos indicadores de mortalidade até 5 anos e letalidade.",
-            "descricao": "Ao final desta aula, o aluno deve compreender: construção dos indicadores de mortalidade até 5 anos e letalidade."
-          },
-          {
-            "id": "indicadores_a30",
-            "tema": "Aula 30: ●​ Sistemas de informação em saúde – morbidade e mortalidade Conhecimento das fontes e usos",
-            "descricao": "Ao final desta aula, o aluno deve compreender: ●​ Sistemas de informação em saúde – morbidade e mortalidade Conhecimento das fontes e usos"
-          }
-        ]
-      }
+    "aulas": [
+      {"id": "cc5_a1", "tema": "Cirurgia Geral — Princípios", "descricao": "Avaliação pré-operatória e complicações cirúrgicas."},
+      {"id": "cc5_a2", "tema": "Gastrocirurgia", "descricao": "Cirurgia do aparelho digestivo."},
+      {"id": "cc5_a3", "tema": "Ortopedia", "descricao": "Fraturas, luxações e emergências ortopédicas."},
+      {"id": "cc5_a4", "tema": "Trauma Cirúrgico", "descricao": "Trauma abdominal e torácico."}
+    ]
+  },
+  "farmaco_aplicada": {
+    "nome": "Farmacologia Aplicada",
+    "sigla": "FARM",
+    "modulo": 5,
+    "ativo": true,
+    "icon": "",
+    "cor": "#9333EA",
+    "descricao": "Farmacologia clínica aplicada: farmacocinética, farmacodinâmica e terapêutica racional.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "farm_a1", "tema": "Farmacologia dos Sistemas", "descricao": "Fármacos cardiovasculares, respiratórios e gastrointestinais."},
+      {"id": "farm_a2", "tema": "Antibioticoterapia", "descricao": "Classes de antibióticos e resistência bacteriana."},
+      {"id": "farm_a3", "tema": "Anti-inflamatórios e Analgésicos", "descricao": "AINEs, corticoides e opioides."},
+      {"id": "farm_a4", "tema": "Farmacologia do SNC", "descricao": "Antidepressivos, ansiolíticos e antipsicóticos."}
+    ]
+  },
+  "clinica_medica6": {
+    "nome": "Clínica Médica Avançada",
+    "sigla": "CM6",
+    "modulo": 6,
+    "ativo": true,
+    "icon": "",
+    "cor": "#1E40AF",
+    "descricao": "Aprofundamento em clínica médica com foco em diagnóstico diferencial, manejo terapêutico e casos complexos.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "cm6_a1", "tema": "Cardiologia Clínica", "descricao": "ICC, arritmias, HAS e síndromes coronarianas."},
+      {"id": "cm6_a2", "tema": "Endocrinologia Clínica", "descricao": "Diabetes avançado, tireoide e suprarrenal."},
+      {"id": "cm6_a3", "tema": "Nefrologia Clínica", "descricao": "DRC, diálise e transplante renal."},
+      {"id": "cm6_a4", "tema": "Infectologia", "descricao": "HIV, hepatites e infecções oportunistas."}
+    ]
+  },
+  "mfc6": {
+    "nome": "Medicina de Família e Comunidade",
+    "sigla": "MFC",
+    "modulo": 6,
+    "ativo": true,
+    "icon": "",
+    "cor": "#15803D",
+    "descricao": "Prática médica em atenção primária, abordagem centrada na pessoa, gestão do cuidado e saúde comunitária.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "mfc_a1", "tema": "Abordagem Centrada na Pessoa", "descricao": "Método clínico centrado na pessoa e comunicação."},
+      {"id": "mfc_a2", "tema": "Gestão do Cuidado na APS", "descricao": "Referência, contrarreferência e longitudinalidade."},
+      {"id": "mfc_a3", "tema": "Saúde da Família", "descricao": "Genograma, ecomapa e abordagem familiar."}
+    ]
+  },
+  "cirurgia_ortopedia": {
+    "nome": "Cirurgia e Ortopedia",
+    "sigla": "CIR6",
+    "modulo": 6,
+    "ativo": true,
+    "icon": "",
+    "cor": "#92400E",
+    "descricao": "Técnicas cirúrgicas avançadas, urgências ortopédicas e procedimentos operatórios.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "cir6_a1", "tema": "Urgências Cirúrgicas", "descricao": "Abdome agudo e politrauma."},
+      {"id": "cir6_a2", "tema": "Ortopedia Avançada", "descricao": "Fraturas complexas e fixação cirúrgica."},
+      {"id": "cir6_a3", "tema": "Cirurgia Ambulatorial", "descricao": "Procedimentos menores e suturas."}
+    ]
+  },
+  "tecnica_operatoria": {
+    "nome": "Técnica Operatória",
+    "sigla": "TCAR",
+    "modulo": 6,
+    "ativo": true,
+    "icon": "",
+    "cor": "#374151",
+    "descricao": "Primeiro contato com a prática cirúrgica: instrumentação, paramentação, técnicas de diérese, hemostasia e síntese.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {"id": "tcar_a1", "tema": "Instrumentação Cirúrgica", "descricao": "Instrumentos, fios e materiais cirúrgicos."},
+      {"id": "tcar_a2", "tema": "Paramentação e Assepsia", "descricao": "Degermação, paramentação e campo cirúrgico."},
+      {"id": "tcar_a3", "tema": "Diérese e Hemostasia", "descricao": "Técnicas de incisão e controle de sangramento."},
+      {"id": "tcar_a4", "tema": "Síntese e Sutura", "descricao": "Tipos de sutura, nós e fechamento de feridas."}
     ]
   }
 }
