@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Test Tables</title></head>
+<body style="background:#111;color:#eee;padding:40px;font-family:sans-serif">
+<h2>Test v4.3.0</h2>
+<div id="v4"></div>
+<h2>Test v9.1.6</h2>
+<div id="v9"></div>
+
+<script>
+const md = `
+| Estrutura | Origem da dor | Achados típicos |
+|-----------|--------------|-----------------|
+| **Articulação** | Intra-articular | Edema, calor |
+| **Tendão** | Trajeto | Dor ativo resistido |
+`;
+
+function testVersion(url, targetId) {
+  const s = document.createElement('script');
+  s.src = url;
+  s.onload = function() {
+    const result = (typeof marked === 'function') ? marked(md) :
+                   (marked.parse ? marked.parse(md) : 'NO PARSE FUNCTION');
+    document.getElementById(targetId).innerHTML = '<pre>' + result.replace(/</g,'&lt;') + '</pre><hr>' + result;
+    // Reset for next test
+    delete window.marked;
+  };
+  document.head.appendChild(s);
+}
+
+testVersion('https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js', 'v4');
+setTimeout(() => testVersion('https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js', 'v9'), 2000);
+</script>
+</body></html>

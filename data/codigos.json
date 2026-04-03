@@ -1,7 +1,17 @@
 {
-  "_info": "Códigos MedUni9 (hashes SHA-256 com salt)",
+  "_info": "Códigos MedGrad+ (hashes SHA-256 com salt)",
   "_salt": "meduni9_2026_",
   "codigos": {
+    "c73531054a2fc3b1d1b012780f8da2422499e7f738ffa770779f2350b832a4ad": {
+      "plano": "vitalicio",
+      "ativo": true,
+      "maxDispositivos": 10,
+      "dispositivos": [],
+      "email": null,
+      "expira": null,
+      "nota": "Chave teste MedGrad+",
+      "criadoEm": "2026-04-03T00:00:00.000Z"
+    },
     "43c1ab3bad3dcdd13dae6bdf6ce0f45873f902f10d197d609a70b20549885906": {
       "plano": "vitalicio",
       "ativo": true,

@@ -1,5 +1,5 @@
 /**
- * MedUni9 — Servidor Admin Local
+ * MedGrad+ — Servidor Admin Local
  * node server.js → http://localhost:3001/admin.html
  * Endpoints: /api/ping /api/data/:file /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
  *            /api/feedback/raw-pending /api/feedback/raw-approved /api/feedback/plans
@@ -375,7 +375,7 @@ const server = http.createServer(async (req, res) => {
 
 server.listen(PORT, '127.0.0.1', () => {
   console.log('\n┌─────────────────────────────────────────────┐');
-  console.log(`│  MedUni9 Admin Server                        │`);
+  console.log(`│  MedGrad+ Admin Server                       │`);
   console.log(`│  http://localhost:${PORT}/admin.html           │`);
   console.log('│  Feche esta janela para encerrar.            │');
   console.log('└─────────────────────────────────────────────┘\n');

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex, nofollow">
-    <title>MedUni9 — Painel Administrativo</title>
+    <title>MedGrad+ — Painel Administrativo</title>
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -329,7 +329,7 @@
         <div class="login-card">
             <div style="font-size: 48px; margin-bottom: 16px;">🔐</div>
             <h1>Painel Admin</h1>
-            <p>Acesso restrito ao administrador do MedUni9</p>
+            <p>Acesso restrito ao administrador do MedGrad+</p>
             <input type="password" class="login-input" id="passwordInput" placeholder="Senha de administrador" autocomplete="off">
             <button class="login-btn" id="loginBtn" onclick="attemptLogin()">Acessar</button>
             <div class="login-error" id="loginError">Senha incorreta</div>
@@ -348,6 +348,7 @@
             <nav class="admin-nav">
                 <button class="admin-nav-item active" onclick="switchSection('dashboard')">📊 Dashboard</button>
                 <button class="admin-nav-item" onclick="switchSection('codes')">🔑 Códigos</button>
+                <button class="admin-nav-item" onclick="switchSection('users')">🏫 Usuários</button>
                 <button class="admin-nav-item" onclick="switchSection('content')">📝 Conteúdo</button>
                 <button class="admin-nav-item" onclick="switchSection('questoes')">❓ Questões</button>
                 <button class="admin-nav-item" onclick="switchSection('modules')">📚 Módulos</button>
@@ -358,7 +359,7 @@
             </nav>
             <div class="admin-sidebar-footer">
                 <button class="logout-btn" onclick="logout()">🚪 Sair</button>
-                <div>MedUni9 Admin v2.0</div>
+                <div>MedGrad+ Admin v2.0</div>
             </div>
         </aside>
 
@@ -367,7 +368,7 @@
             <div class="admin-section active" id="section-dashboard">
                 <div class="page-header">
                     <h1>Dashboard</h1>
-                    <p>Visão geral do sistema MedUni9</p>
+                    <p>Visão geral do sistema MedGrad+</p>
                 </div>
                 <div class="stats-grid" id="dashboardStats"></div>
                 <div class="panel">
@@ -591,6 +592,62 @@
                 </div>
             </div>
 
+            <!-- ===== USERS & FACULDADES ===== -->
+            <div class="admin-section" id="section-users">
+                <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
+                    <div>
+                        <h1>Usuários & Faculdades</h1>
+                        <p>Aprovação de troca de faculdade/campus e visão dos perfis cadastrados</p>
+                    </div>
+                    <button class="btn btn-ghost btn-sm" onclick="loadUsersSection()">↻ Atualizar</button>
+                </div>
+
+                <div class="panel" id="usersFirebaseGate">
+                    <div class="alert alert-info">
+                        <div>
+                            <strong>Conecte seu Google admin</strong><br>
+                            Esta seção usa o Firebase para listar usuários e aprovar solicitações de troca de faculdade/campus.
+                        </div>
+                    </div>
+                    <div class="btn-group">
+                        <button class="btn btn-primary" onclick="connectFirebaseAdmin()">Conectar Google Admin</button>
+                        <button class="btn btn-ghost" onclick="disconnectFirebaseAdmin()">Desconectar</button>
+                    </div>
+                    <div id="usersFirebaseStatus" style="margin-top:12px; font-size:13px; color:var(--text-secondary)">Aguardando autenticação Firebase.</div>
+                </div>
+
+                <div id="usersAdminContent" style="display:none;">
+                    <div class="stats-grid" id="userRequestStats"></div>
+
+                    <div class="panel">
+                        <div class="panel-header">
+                            <h3>Solicitações Pendentes</h3>
+                        </div>
+                        <div id="profileChangeRequestsList"></div>
+                    </div>
+
+                    <div class="panel">
+                        <div class="panel-header">
+                            <h3>Usuários Cadastrados</h3>
+                        </div>
+                        <div class="table-wrap">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Email</th>
+                                        <th>Faculdade</th>
+                                        <th>Campus</th>
+                                        <th>Módulo</th>
+                                        <th>Plano</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="remoteUsersTable"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <!-- ===== FEEDBACK ===== -->
             <div class="admin-section" id="section-feedback">
                 <div class="page-header" style="display:flex; justify-content:space-between; align-items:flex-start; flex-wrap:wrap; gap:12px;">
@@ -758,6 +815,30 @@
     <!-- Toast -->
     <div class="toast" id="toast"></div>
 
+    <script type="module">
+        import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
+        import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
+        import { getFirestore, collection, getDocs, doc, setDoc, updateDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+
+        const fbConfig = {
+            apiKey:            "AIzaSyAtklKLpkfG2pGyWGmZfNpp_mc3cMINNTQ",
+            authDomain:        "meduni9-869eb.firebaseapp.com",
+            projectId:         "meduni9-869eb",
+            storageBucket:     "meduni9-869eb.firebasestorage.app",
+            messagingSenderId: "973084052366",
+            appId:             "1:973084052366:web:6bc6287d3d7bd983d8f2df"
+        };
+
+        const fbApp = initializeApp(fbConfig);
+        window.__adminFirebase = {
+            auth: getAuth(fbApp),
+            db: getFirestore(fbApp),
+            provider: new GoogleAuthProvider(),
+            fns: { signInWithPopup, signOut },
+            fs: { collection, getDocs, doc, setDoc, updateDoc },
+        };
+    </script>
+
     <script>
         // ===================== LOCAL MODE =====================
         let LOCAL_MODE = false;
@@ -796,6 +877,7 @@
         const ADMIN_SESSION_KEY = 'meduni9_admin_session';
         const ADMIN_LOGS_KEY = 'meduni9_admin_logs';
         const CODE_SALT = 'meduni9_2026_';
+        const FIREBASE_ADMIN_EMAILS = ['pngjaico@gmail.com'];
 
         async function sha256(str) {
             const data = new TextEncoder().encode(str);
@@ -903,6 +985,7 @@
             document.querySelectorAll('.admin-nav-item').forEach(b => b.classList.remove('active'));
             document.getElementById('section-' + name).classList.add('active');
             event.target.classList.add('active');
+            if (name === 'users')      loadUsersSection();
             if (name === 'security')   loadSecuritySection();
             if (name === 'automacoes') loadAutomacoesSection();
             if (name === 'questoes')   loadQuestoesSection();
@@ -918,6 +1001,9 @@
         let questoesIneditasData = [];
         let questoesIneditasRaw = { questoes: [] };
         let codesData = {};
+        let adminFirebaseUser = null;
+        let remoteUsers = [];
+        let profileChangeRequests = [];
 
         async function loadAllData() {
             try {
@@ -942,9 +1028,185 @@
                 renderCodes();
                 renderContent();
                 renderModules();
+                if (document.getElementById('section-users')?.classList.contains('active')) loadUsersSection();
             } catch (err) {
                 console.error('Error loading data:', err);
                 showToast('Erro ao carregar dados: ' + err.message, true);
+            }
+        }
+
+        function isAllowedFirebaseAdmin(email) {
+            return FIREBASE_ADMIN_EMAILS.includes(String(email || '').toLowerCase());
+        }
+
+        function renderUsersGate(message, isError = false) {
+            const gate = document.getElementById('usersFirebaseGate');
+            const content = document.getElementById('usersAdminContent');
+            const status = document.getElementById('usersFirebaseStatus');
+            if (!gate || !content || !status) return;
+            gate.style.display = 'block';
+            content.style.display = 'none';
+            status.textContent = message || 'Aguardando autenticação Firebase.';
+            status.style.color = isError ? 'var(--error)' : 'var(--text-secondary)';
+        }
+
+        async function connectFirebaseAdmin() {
+            if (!window.__adminFirebase) { renderUsersGate('Firebase ainda não carregado.', true); return; }
+            try {
+                const { signInWithPopup } = window.__adminFirebase.fns;
+                const cred = await signInWithPopup(window.__adminFirebase.auth, window.__adminFirebase.provider);
+                const email = cred.user?.email || '';
+                if (!isAllowedFirebaseAdmin(email)) {
+                    await window.__adminFirebase.fns.signOut(window.__adminFirebase.auth);
+                    adminFirebaseUser = null;
+                    renderUsersGate(`O email ${email} não está liberado para aprovação admin.`, true);
+                    return;
+                }
+                adminFirebaseUser = cred.user;
+                await loadUsersSection();
+            } catch {
+                renderUsersGate('Falha ao conectar Google admin.', true);
+            }
+        }
+
+        async function disconnectFirebaseAdmin() {
+            try {
+                if (window.__adminFirebase?.auth) await window.__adminFirebase.fns.signOut(window.__adminFirebase.auth);
+            } catch {}
+            adminFirebaseUser = null;
+            renderUsersGate('Google admin desconectado.');
+        }
+
+        async function loadUsersSection() {
+            if (!window.__adminFirebase) { renderUsersGate('Firebase ainda não carregado.', true); return; }
+            const currentUser = adminFirebaseUser || window.__adminFirebase.auth.currentUser;
+            if (!currentUser || !isAllowedFirebaseAdmin(currentUser.email)) {
+                adminFirebaseUser = null;
+                renderUsersGate('Conecte seu Google admin para liberar esta seção.');
+                return;
+            }
+
+            adminFirebaseUser = currentUser;
+            const gate = document.getElementById('usersFirebaseGate');
+            const content = document.getElementById('usersAdminContent');
+            document.getElementById('usersFirebaseStatus').textContent = `Conectado como ${currentUser.email}`;
+            document.getElementById('usersFirebaseStatus').style.color = 'var(--success)';
+
+            try {
+                const { collection, getDocs } = window.__adminFirebase.fs;
+                const [usersSnap, requestsSnap] = await Promise.all([
+                    getDocs(collection(window.__adminFirebase.db, 'users')),
+                    getDocs(collection(window.__adminFirebase.db, 'profile_change_requests')),
+                ]);
+
+                remoteUsers = usersSnap.docs.map(docSnap => ({ id: docSnap.id, ...docSnap.data() }));
+                profileChangeRequests = requestsSnap.docs.map(docSnap => ({ id: docSnap.id, ...docSnap.data() }))
+                    .sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+
+                gate.style.display = 'block';
+                content.style.display = 'block';
+                renderUsersSection();
+            } catch {
+                renderUsersGate('Erro ao ler usuários/solicitações no Firebase.', true);
+            }
+        }
+
+        function renderUsersSection() {
+            const pending = profileChangeRequests.filter(item => item.status === 'pending');
+            const approved = profileChangeRequests.filter(item => item.status === 'approved');
+            const byFaculty = remoteUsers.reduce((acc, user) => {
+                const key = user.faculdadeNome || 'Não informado';
+                acc[key] = (acc[key] || 0) + 1;
+                return acc;
+            }, {});
+            const topFaculty = Object.entries(byFaculty).sort((a,b) => b[1]-a[1])[0]?.[0] || '—';
+
+            document.getElementById('userRequestStats').innerHTML = `
+                <div class="stat-card warning"><div class="stat-label">Solicitações Pendentes</div><div class="stat-value">${pending.length}</div></div>
+                <div class="stat-card success"><div class="stat-label">Solicitações Aprovadas</div><div class="stat-value">${approved.length}</div></div>
+                <div class="stat-card"><div class="stat-label">Usuários com Perfil</div><div class="stat-value">${remoteUsers.length}</div></div>
+                <div class="stat-card purple"><div class="stat-label">Faculdade Mais Comum</div><div class="stat-value" style="font-size:16px">${escHtml(topFaculty)}</div></div>
+            `;
+
+            const requestsEl = document.getElementById('profileChangeRequestsList');
+            if (!pending.length) {
+                requestsEl.innerHTML = '<div class="fb-empty">Nenhuma solicitação pendente no momento.</div>';
+            } else {
+                requestsEl.innerHTML = pending.map(req => `
+                    <div class="fb-request-card">
+                        <div class="fb-request-header">
+                            <div class="fb-request-title">🏫 ${escHtml(req.userEmail || req.userId || 'Usuário')}</div>
+                            <span class="badge badge-warning">PENDENTE</span>
+                        </div>
+                        <div class="fb-request-desc">
+                            <strong>Atual:</strong> ${escHtml(req.currentFacultyName || '—')} · ${escHtml(req.currentCampusName || '—')}<br>
+                            <strong>Solicitado:</strong> ${escHtml(req.requestedFacultyName || '—')} · ${escHtml(req.requestedCampusName || '—')}
+                        </div>
+                        <div class="fb-request-meta">Criado em: ${req.createdAt ? new Date(req.createdAt).toLocaleString('pt-BR') : '—'}</div>
+                        <div class="fb-request-btns">
+                            <button class="btn btn-sm btn-success" onclick="approveProfileChangeRequest('${req.id}')">✅ Aprovar</button>
+                            <button class="btn btn-sm btn-danger" onclick="denyProfileChangeRequest('${req.id}')">❌ Negar</button>
+                        </div>
+                    </div>
+                `).join('');
+            }
+
+            const usersEl = document.getElementById('remoteUsersTable');
+            if (!remoteUsers.length) {
+                usersEl.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--text-secondary)">Nenhum usuário com perfil salvo.</td></tr>';
+            } else {
+                usersEl.innerHTML = remoteUsers
+                    .sort((a, b) => String(a.email || '').localeCompare(String(b.email || '')))
+                    .map(user => `
+                        <tr>
+                            <td>${escHtml(user.email || '—')}</td>
+                            <td>${escHtml(user.faculdadeNome || '—')}</td>
+                            <td>${escHtml(user.campusNome || '—')}</td>
+                            <td>${escHtml(String(user.semestre || user.modulo || '—'))}</td>
+                            <td><span class="badge badge-primary">${escHtml(user.plano || 'basico')}</span></td>
+                        </tr>
+                    `).join('');
+            }
+        }
+
+        async function approveProfileChangeRequest(requestId) {
+            const req = profileChangeRequests.find(item => item.id === requestId);
+            if (!req) return;
+            if (!confirm(`Aprovar troca para ${req.requestedFacultyName} · ${req.requestedCampusName}?`)) return;
+            try {
+                const { doc, setDoc, updateDoc } = window.__adminFirebase.fs;
+                await setDoc(doc(window.__adminFirebase.db, 'users', req.userId), {
+                    faculdadeId: req.requestedFacultyId,
+                    faculdadeNome: req.requestedFacultyName,
+                    campusId: req.requestedCampusId,
+                    campusNome: req.requestedCampusName,
+                    updatedAt: new Date().toISOString(),
+                }, { merge: true });
+                await updateDoc(doc(window.__adminFirebase.db, 'profile_change_requests', requestId), {
+                    status: 'approved',
+                    reviewedAt: new Date().toISOString(),
+                    reviewedBy: adminFirebaseUser?.email || '',
+                });
+                showToast('Solicitação aprovada.');
+                loadUsersSection();
+            } catch {
+                showToast('Erro ao aprovar solicitação.', true);
+            }
+        }
+
+        async function denyProfileChangeRequest(requestId) {
+            if (!confirm('Negar esta solicitação?')) return;
+            try {
+                const { doc, updateDoc } = window.__adminFirebase.fs;
+                await updateDoc(doc(window.__adminFirebase.db, 'profile_change_requests', requestId), {
+                    status: 'denied',
+                    reviewedAt: new Date().toISOString(),
+                    reviewedBy: adminFirebaseUser?.email || '',
+                });
+                showToast('Solicitação negada.');
+                loadUsersSection();
+            } catch {
+                showToast('Erro ao negar solicitação.', true);
             }
         }
 
@@ -1133,7 +1395,7 @@
         }
 
         async function _persistCodes() {
-            const data = { _info: "Códigos MedUni9 (hashes SHA-256 com salt)", _salt: CODE_SALT, codigos: codesData };
+            const data = { _info: "Códigos MedGrad+ (hashes SHA-256 com salt)", _salt: CODE_SALT, codigos: codesData };
             try { await apiSave('codigos', data); } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
         }
 

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#00B4D8">
+  <meta name="theme-color" content="#00C896">
   <meta name="description" content="MedGradPlus — Plataforma de estudos para estudantes de medicina">
   <title>MedGradPlus</title>
   <link rel="manifest" href="manifest.json">
@@ -26,10 +26,11 @@
       width: 100%;
       height: 100%;
       font-family: 'DM Sans', sans-serif;
-      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       background-attachment: fixed;
-      color: #E5E7EB;
+      color: var(--text-primary, #E5E7EB);
       overflow: hidden;
+      transition: background 0.3s ease, color 0.3s ease;
     }
 
     #root {
@@ -47,23 +48,28 @@
 
     /* Colors & Design Tokens */
     :root {
-      --primary: #00B4D8;
+      --primary: #00C896;
+      --mint: #00C896;
       --success: #10B981;
       --warning: #F59E0B;
       --error: #EF4444;
       --purple: #8B5CF6;
-      --bg-dark: #0A1628;
-      --bg-card: rgba(255, 255, 255, 0.04);
-      --border-card: rgba(255, 255, 255, 0.06);
-      --text-primary: #E5E7EB;
-      --text-secondary: #9CA3AF;
+
+      /* Background — cinza-azulado carvão, identidade própria */
+      --bg-body: linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%);
+      --bg-dark: #181C27;
+      --bg-sidebar: #1D2130;
+      --bg-card: rgba(255, 255, 255, 0.05);
+      --border-card: rgba(255, 255, 255, 0.07);
+      --text-primary: #E8EBF0;
+      --text-secondary: #8B95A8;
 
       /* Surfaces */
-      --surface-1: rgba(255, 255, 255, 0.04);
-      --surface-2: rgba(255, 255, 255, 0.07);
-      --surface-3: rgba(255, 255, 255, 0.12);
-      --border-subtle: rgba(255, 255, 255, 0.08);
-      --border-strong: rgba(255, 255, 255, 0.16);
+      --surface-1: rgba(255, 255, 255, 0.06);
+      --surface-2: rgba(255, 255, 255, 0.09);
+      --surface-3: rgba(255, 255, 255, 0.14);
+      --border-subtle: rgba(255, 255, 255, 0.09);
+      --border-strong: rgba(255, 255, 255, 0.18);
 
       /* Elevação */
       --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.18);
@@ -90,6 +96,140 @@
       --color-go: #EC4899;
     }
 
+    /* ── Light Theme ───────────────────────────────────── */
+    html[data-theme="light"] {
+      --bg-body: linear-gradient(135deg, #EFF6FF 0%, #F1F5F9 50%, #E2EAF4 100%);
+      --bg-dark: #F1F5F9;
+      --bg-sidebar: rgba(255, 255, 255, 0.97);
+      --bg-card: rgba(0, 0, 0, 0.04);
+      --border-card: rgba(0, 0, 0, 0.08);
+      --text-primary: #1E293B;
+      --text-secondary: #64748B;
+      --surface-1: rgba(0, 0, 0, 0.04);
+      --surface-2: rgba(0, 0, 0, 0.06);
+      --surface-3: rgba(0, 0, 0, 0.10);
+      --border-subtle: rgba(0, 0, 0, 0.07);
+      --border-strong: rgba(0, 0, 0, 0.15);
+      --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.07);
+      --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.10);
+      --shadow-lg: 0 8px 40px rgba(0, 0, 0, 0.14);
+    }
+
+    html[data-theme="light"] body {
+      background: var(--bg-body);
+      color: #1E293B;
+    }
+
+    html[data-theme="light"] .desktop-layout,
+    html[data-theme="light"] .app-container,
+    html[data-theme="light"] .splash-screen {
+      background: var(--bg-body) !important;
+    }
+
+    html[data-theme="light"] .desktop-sidebar {
+      background: var(--bg-sidebar) !important;
+      border-right-color: rgba(0, 0, 0, 0.08) !important;
+      box-shadow: 2px 0 16px rgba(0, 0, 0, 0.06) !important;
+    }
+
+    html[data-theme="light"] .sidebar-item {
+      color: #475569 !important;
+    }
+    html[data-theme="light"] .sidebar-item:hover {
+      background: rgba(0, 200, 150, 0.10) !important;
+      color: #1E293B !important;
+    }
+    html[data-theme="light"] .sidebar-item.active {
+      background: rgba(0, 200, 150, 0.16) !important;
+      color: var(--primary) !important;
+    }
+    html[data-theme="light"] .sidebar-footer {
+      border-top-color: rgba(0, 0, 0, 0.08) !important;
+    }
+    html[data-theme="light"] .sidebar-logo {
+      border-bottom-color: rgba(0, 0, 0, 0.08) !important;
+    }
+    html[data-theme="light"] .bottom-nav {
+      background: rgba(255, 255, 255, 0.95) !important;
+      border-top: 1px solid rgba(0, 0, 0, 0.08) !important;
+    }
+    html[data-theme="light"] .nav-item { color: #64748B !important; }
+    html[data-theme="light"] .nav-item.active { color: var(--primary) !important; }
+    html[data-theme="light"] .screen-content { background: transparent !important; }
+    html[data-theme="light"] .sidebar-open-bar {
+      background: rgba(255,255,255,0.97) !important;
+      border-bottom-color: rgba(0,0,0,0.08) !important;
+    }
+    html[data-theme="light"] .feedback-panel,
+    html[data-theme="light"] .feedback-modal {
+      background: #ffffff !important;
+      border-color: rgba(0,0,0,0.1) !important;
+    }
+    html[data-theme="light"] .feedback-select,
+    html[data-theme="light"] .feedback-textarea {
+      background: #F8FAFC !important;
+      border-color: rgba(0,0,0,0.12) !important;
+      color: #1E293B !important;
+    }
+    html[data-theme="light"] .feedback-select option { background: #ffffff !important; color: #1E293B !important; }
+
+    /* ── Light Mode: Card/Surface contrast fixes ─────── */
+    html[data-theme="light"] .stat-card {
+      background: rgba(255, 255, 255, 0.88) !important;
+      border: 1px solid rgba(0, 0, 0, 0.10) !important;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.07) !important;
+    }
+    html[data-theme="light"] .question-card,
+    html[data-theme="light"] .flashcard-item,
+    html[data-theme="light"] .material-item {
+      background: rgba(255, 255, 255, 0.85) !important;
+      border-color: rgba(0, 0, 0, 0.10) !important;
+      box-shadow: 0 1px 6px rgba(0, 0, 0, 0.07) !important;
+    }
+    html[data-theme="light"] .screen-header {
+      background: rgba(255, 255, 255, 0.90) !important;
+      border-bottom-color: rgba(0, 0, 0, 0.08) !important;
+    }
+    html[data-theme="light"] .subject-select-item {
+      background: rgba(255, 255, 255, 0.80) !important;
+      border-color: rgba(0, 0, 0, 0.10) !important;
+    }
+    html[data-theme="light"] .subject-select-item:hover {
+      background: rgba(255, 255, 255, 0.97) !important;
+    }
+    html[data-theme="light"] .btn-primary {
+      box-shadow: 0 2px 12px rgba(0, 200, 150, 0.3) !important;
+    }
+    html[data-theme="light"] .markdown-body {
+      background: rgba(255, 255, 255, 0.95) !important;
+    }
+    html[data-theme="light"] .material-header-card {
+      background: rgba(255, 255, 255, 0.88) !important;
+      border-color: rgba(0, 0, 0, 0.10) !important;
+    }
+
+    /* ── Theme Toggle Button ─────────────────────────── */
+    .theme-toggle-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 16px;
+      transition: color 0.2s, opacity 0.2s;
+      flex-shrink: 0;
+      opacity: 0.7;
+    }
+    .theme-toggle-btn:hover {
+      color: var(--primary);
+      opacity: 1;
+    }
+
     /* Main Container */
     .app-container {
       flex: 1;
@@ -99,8 +239,9 @@
       max-width: 430px;
       margin: 0 auto;
       height: 100vh;
-      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       position: relative;
+      transition: background 0.3s ease;
     }
 
     /* Desktop layout wrapper */
@@ -108,7 +249,8 @@
       display: flex;
       width: 100%;
       height: 100vh;
-      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      transition: background 0.3s ease;
     }
 
     .desktop-layout .app-container {
@@ -124,8 +266,9 @@
       display: none;
       width: 240px;
       min-width: 240px;
-      background: rgba(10, 22, 40, 0.95);
+      background: var(--bg-sidebar, #1D2130);
       border-right: 1px solid var(--border-card);
+      transition: background 0.3s ease;
       flex-direction: column;
       padding: 24px 0;
       height: 100vh;
@@ -140,6 +283,7 @@
       padding: 0 20px 24px;
       border-bottom: 1px solid var(--border-card);
       margin-bottom: 16px;
+      justify-content: flex-start;
     }
 
     .sidebar-logo-icon { font-size: 28px; }
@@ -173,12 +317,12 @@
     }
 
     .sidebar-item:hover {
-      background: rgba(0, 180, 216, 0.08);
+      background: rgba(0, 200, 150, 0.08);
       color: var(--text-primary);
     }
 
     .sidebar-item.active {
-      background: rgba(0, 180, 216, 0.15);
+      background: rgba(0, 200, 150, 0.15);
       color: var(--primary);
     }
 
@@ -210,17 +354,31 @@
       width: 36px;
       height: 36px;
       border-radius: 8px;
-      border: 1px solid var(--border-card);
-      background: rgba(255,255,255,0.05);
-      color: var(--text-primary);
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
       cursor: pointer;
       font-size: 18px;
       line-height: 1;
       flex-shrink: 0;
-      transition: background 0.2s;
+      transition: color 0.2s;
     }
     .sidebar-toggle-btn:hover {
-      background: rgba(255,255,255,0.1);
+      background: transparent;
+      color: var(--primary);
+    }
+
+    /* Sticky open-bar (replaces the old fixed toggle when sidebar is collapsed) */
+    .sidebar-open-bar {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 150;
+      background: var(--bg-dark, #181C27);
+      border-bottom: 1px solid var(--border-card);
     }
 
     /* Sidebar collapsed state */
@@ -255,7 +413,7 @@
     }
     .study-mode-btn:hover {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.07);
+      background: rgba(0, 200, 150, 0.07);
     }
     .study-mode-icon { font-size: 24px; }
     .study-mode-title { font-size: 14px; font-weight: 600; margin-bottom: 2px; }
@@ -374,27 +532,48 @@
       align-items: center;
       justify-content: center;
       height: 100%;
-      background: linear-gradient(135deg, #0A1628 0%, #0D2137 50%, #0F2D4A 100%);
+      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      gap: 20px;
     }
 
-    .splash-logo {
-      font-size: 80px;
-      animation: pulse-splash 1s ease-in-out infinite;
-      margin-bottom: 20px;
+    .splash-logo-wrap {
+      animation: splash-fade-in 0.7s var(--ease-spring, cubic-bezier(0.16, 1, 0.3, 1)) both;
     }
 
-    @keyframes pulse-splash {
-      0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.1); }
+    .splash-logo-inner {
+      animation: logo-glow 4s ease-in-out infinite;
+      filter: drop-shadow(0 0 6px rgba(0,200,150,0.4)) drop-shadow(0 0 18px rgba(0,200,150,0.2));
+    }
+
+    @keyframes logo-glow {
+      0%, 100% { filter: drop-shadow(0 0 4px rgba(0,200,150,0.3)) drop-shadow(0 0 12px rgba(0,200,150,0.15)); }
+      50%       { filter: drop-shadow(0 0 20px rgba(0,200,150,0.9)) drop-shadow(0 0 40px rgba(0,200,150,0.55)); }
+    }
+
+    @keyframes splash-fade-in {
+      from { opacity: 0; transform: scale(0.85) translateY(12px); }
+      to   { opacity: 1; transform: scale(1) translateY(0); }
     }
 
     .splash-text {
-      font-size: 32px;
+      font-size: 28px;
       font-family: 'Outfit', sans-serif;
-      font-weight: 700;
-      color: var(--primary);
+      font-weight: 800;
+      color: var(--text-primary, #E5E7EB);
       text-align: center;
-      animation: fade-in 0.8s ease-out;
+      animation: splash-fade-in 0.7s 0.15s var(--ease-spring, cubic-bezier(0.16, 1, 0.3, 1)) both;
+      letter-spacing: -0.02em;
+    }
+
+    .splash-tagline {
+      font-size: 12px;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 500;
+      color: var(--mint, #00C896);
+      text-align: center;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      animation: splash-fade-in 0.7s 0.28s var(--ease-spring, cubic-bezier(0.16, 1, 0.3, 1)) both;
     }
 
     @keyframes fade-in {
@@ -402,46 +581,262 @@
       to { opacity: 1; }
     }
 
-    /* Auth Screen */
-    .auth-screen {
+    /* ── Auth Full-Screen Layout ─────────────────────────────── */
+    .auth-page {
+      display: flex;
+      width: 100%;
+      height: 100vh;
+      overflow: hidden;
+      background: linear-gradient(135deg, #080f1e 0%, #0a1628 50%, #0c1f38 100%);
+    }
+
+    /* Left brand panel — shown only on desktop */
+    .auth-brand-panel {
+      display: none;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 52%;
+      min-width: 480px;
+      padding: 48px 56px;
+      background: linear-gradient(160deg, #0a1e3a 0%, #072040 40%, #061830 100%);
+      border-right: 1px solid rgba(0,200,150,0.12);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .auth-brand-panel::before {
+      content: '';
+      position: absolute;
+      top: -120px;
+      right: -80px;
+      width: 420px;
+      height: 420px;
+      background: radial-gradient(circle, rgba(0,200,150,0.12) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .auth-brand-panel::after {
+      content: '';
+      position: absolute;
+      bottom: -100px;
+      left: -60px;
+      width: 340px;
+      height: 340px;
+      background: radial-gradient(circle, rgba(0,200,150,0.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .auth-brand-top { position: relative; z-index: 1; }
+    .auth-brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 56px;
+    }
+    .auth-brand-logo-text {
+      font-family: 'Outfit', sans-serif;
+      font-size: 22px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+    }
+    .auth-brand-logo-text sup {
+      font-size: 0.5em;
+      color: #00C896;
+      font-weight: 800;
+      vertical-align: super;
+      line-height: 0;
+    }
+    .auth-brand-headline {
+      font-family: 'Outfit', sans-serif;
+      font-size: 36px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.2;
+      margin-bottom: 16px;
+      letter-spacing: -0.02em;
+    }
+    .auth-brand-headline span { color: #00C896; }
+    .auth-brand-sub {
+      font-size: 15px;
+      color: rgba(255,255,255,0.65);
+      line-height: 1.6;
+      margin-bottom: 40px;
+      max-width: 380px;
+    }
+    .auth-brand-features {
       display: flex;
       flex-direction: column;
-      padding-top: 40px;
+      gap: 14px;
+      margin-bottom: 48px;
     }
-
-    .auth-header {
-      text-align: center;
-      margin-bottom: 40px;
+    .auth-brand-feature {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
     }
-
-    .auth-logo {
-      font-size: 60px;
-      margin-bottom: 16px;
+    .auth-brand-feature-icon {
+      width: 36px;
+      height: 36px;
+      border-radius: 10px;
+      background: rgba(0,200,150,0.15);
+      border: 1px solid rgba(0,200,150,0.25);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      flex-shrink: 0;
     }
-
-    .auth-title {
-      font-size: 24px;
-      color: var(--text-primary);
-      margin-bottom: 8px;
-    }
-
-    .auth-subtitle {
-      font-size: 14px;
-      color: var(--text-secondary);
-    }
-
-    .auth-step {
-      display: none;
-    }
-
-    .auth-step.active {
+    .auth-brand-feature-text strong {
       display: block;
-      animation: slide-in 0.3s ease-out;
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 2px;
+    }
+    .auth-brand-feature-text span {
+      font-size: 12px;
+      color: rgba(255,255,255,0.5);
+    }
+
+    /* Mascote posicionado no brand panel */
+    .auth-brand-mascot-wrap {
+      position: relative;
+      z-index: 1;
+      flex: 1;
+      display: flex;
+      flex-direction: row;
+      align-items: stretch;
+      gap: 0;
+    }
+    .auth-brand-mascot-wrap .auth-brand-top {
+      flex: 1;
+      min-width: 0;
+    }
+    .auth-brand-mascot-col {
+      width: 180px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding-top: 52px;
+    }
+    .auth-brand-mascot-img {
+      width: 160px;
+      height: auto;
+      pointer-events: none;
+      user-select: none;
+      filter: drop-shadow(0 4px 20px rgba(0,0,0,0.4));
+      position: static;
+    }
+    .auth-brand-tagline {
+      font-size: 11px;
+      color: rgba(255,255,255,0.3);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Right form panel */
+    .auth-form-panel {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      padding: 40px 32px;
+      justify-content: center;
+    }
+    .auth-form-inner {
+      width: 100%;
+      max-width: 400px;
+      margin: 0 auto;
+    }
+
+    /* Mobile logo (shown only on mobile) */
+    .auth-mobile-header {
+      text-align: center;
+      margin-bottom: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .auth-mascot {
+      width: 160px;
+      height: auto;
+      pointer-events: none;
+      user-select: none;
+      filter: drop-shadow(0 4px 20px rgba(0,0,0,0.22));
+      margin: 0 auto 8px;
+      display: block;
     }
 
     @keyframes slide-in {
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Desktop breakpoint: show brand panel */
+    @media (min-width: 900px) {
+      .auth-brand-panel { display: flex; }
+      .auth-form-panel { padding: 40px 56px; }
+      .auth-mobile-header { display: none; }
+    }
+
+    /* Upsell banner (free plan) */
+    .upsell-banner {
+      background: linear-gradient(135deg, rgba(245,158,11,0.12) 0%, rgba(245,158,11,0.06) 100%);
+      border: 1px solid rgba(245,158,11,0.35);
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin-bottom: 20px;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    .upsell-banner-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+    .upsell-banner-text strong {
+      display: block;
+      font-size: 13px;
+      font-weight: 700;
+      color: #F59E0B;
+      margin-bottom: 2px;
+    }
+    .upsell-banner-text span {
+      font-size: 12px;
+      color: rgba(255,255,255,0.6);
+    }
+    .upsell-banner-btn {
+      margin-left: auto;
+      flex-shrink: 0;
+      background: #F59E0B;
+      color: #000;
+      border: none;
+      border-radius: 8px;
+      padding: 6px 12px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+
+    /* Free access divider */
+    .free-access-divider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 20px 0 16px;
+    }
+    .free-access-divider::before,
+    .free-access-divider::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: rgba(255,255,255,0.08);
+    }
+    .free-access-divider span {
+      font-size: 11px;
+      color: rgba(255,255,255,0.35);
+      white-space: nowrap;
     }
 
     .form-group {
@@ -473,7 +868,7 @@
     .form-input:focus {
       outline: none;
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.1);
+      background: rgba(0, 200, 150, 0.1);
     }
 
     .form-input::placeholder {
@@ -587,9 +982,16 @@
     }
 
     /* Dashboard */
+    .home-screen-content {
+      flex: 1;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      padding: 16px 16px 0;
+    }
     .dashboard-header {
-      margin-bottom: 32px;
-      padding-top: 8px;
+      margin-bottom: 12px;
+      padding-top: 4px;
     }
 
     .dashboard-welcome {
@@ -606,8 +1008,8 @@
     .stats-grid {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
-      gap: 12px;
-      margin-bottom: 32px;
+      gap: 10px;
+      margin-bottom: 12px;
     }
 
     .stat-card {
@@ -635,11 +1037,11 @@
     }
 
     .stat-value {
-      font-size: 26px;
+      font-size: 20px;
       font-weight: 700;
       color: var(--primary);
       line-height: 1;
-      margin-bottom: 4px;
+      margin-bottom: 2px;
       font-family: 'Outfit', sans-serif;
     }
 
@@ -657,11 +1059,11 @@
     }
 
     .daily-suggestion {
-      background: linear-gradient(135deg, rgba(139, 92, 246, 0.18), rgba(0, 180, 216, 0.18));
-      border: 1px solid rgba(139, 92, 246, 0.25);
-      border-radius: 16px;
-      padding: 18px;
-      margin-bottom: 32px;
+      background: linear-gradient(135deg, rgba(0, 200, 150, 0.12), rgba(0, 200, 150, 0.12));
+      border: 1px solid rgba(0, 200, 150, 0.2);
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-bottom: 12px;
       box-shadow: var(--shadow-sm);
     }
 
@@ -750,7 +1152,7 @@
     }
 
     .subject-card:active {
-      background: rgba(0, 180, 216, 0.1);
+      background: rgba(0, 200, 150, 0.1);
       border-color: var(--primary);
     }
 
@@ -758,7 +1160,7 @@
       width: 48px;
       height: 48px;
       border-radius: 10px;
-      background: rgba(0, 180, 216, 0.1);
+      background: rgba(0, 200, 150, 0.1);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -852,7 +1254,7 @@
       left: 0;
       right: 0;
       bottom: 0;
-      background: linear-gradient(135deg, rgba(0, 180, 216, 0.1), transparent);
+      background: linear-gradient(135deg, rgba(0, 200, 150, 0.1), transparent);
       opacity: 0;
       transition: opacity 0.3s ease;
       pointer-events: none;
@@ -1151,7 +1553,7 @@
     }
 
     .quiz-item:active {
-      background: rgba(0, 180, 216, 0.1);
+      background: rgba(0, 200, 150, 0.1);
       border-color: var(--primary);
     }
 
@@ -1230,7 +1632,7 @@
 
     .quiz-option.selected {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.1);
+      background: rgba(0, 200, 150, 0.1);
     }
 
     .quiz-option.correct {
@@ -1383,12 +1785,83 @@
       letter-spacing: 0.4px;
     }
 
+    /* ── Material Document Layout ─────────────────────────────── */
+    .material-doc-outer {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+    }
+
+    .material-doc-inner {
+      max-width: 960px;
+      width: 100%;
+      min-width: 280px;
+    }
+
+    /* Light mode: doc gets a paper feel */
+    html[data-theme="light"] .markdown-body {
+      background: rgba(255,255,255,0.92) !important;
+      border-color: rgba(0,200,150,0.15) !important;
+      border-top-color: #00C896 !important;
+      color: #1E293B !important;
+      box-shadow: 0 4px 32px rgba(0,0,0,0.08), 0 1px 4px rgba(0,0,0,0.05) !important;
+    }
+    html[data-theme="light"] .markdown-body h1 {
+      background: linear-gradient(135deg, #0F172A 0%, #0284C7 55%, #00C896 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      border-bottom-color: rgba(0,200,150,0.2) !important;
+    }
+    html[data-theme="light"] .markdown-body h2 { color: #1E293B !important; }
+    html[data-theme="light"] .markdown-body h3 { color: #0284C7 !important; }
+    html[data-theme="light"] .markdown-body h4 { color: #0369A1 !important; }
+    html[data-theme="light"] .markdown-body p { color: #334155; }
+    html[data-theme="light"] .markdown-body strong { color: #0F172A !important; }
+    html[data-theme="light"] .markdown-body em { color: #475569 !important; }
+    html[data-theme="light"] .markdown-body ul li::marker { color: var(--mint) !important; }
+    html[data-theme="light"] .markdown-body ol li::marker { color: var(--mint) !important; }
+    html[data-theme="light"] .markdown-body blockquote {
+      border-left-color: var(--mint) !important;
+      background: rgba(0,200,150,0.06) !important;
+      color: #475569 !important;
+    }
+    html[data-theme="light"] .markdown-body code {
+      background: rgba(0,200,150,0.08) !important;
+      color: #0369A1 !important;
+    }
+    html[data-theme="light"] .markdown-body pre {
+      background: #F8FAFC !important;
+      border-color: rgba(0,0,0,0.08) !important;
+    }
+    html[data-theme="light"] .flow-box {
+      background: linear-gradient(140deg, rgba(0,200,150,0.06) 0%, rgba(56,189,248,0.06) 100%) !important;
+      border-color: rgba(0,200,150,0.4) !important;
+    }
+    html[data-theme="light"] .flow-box pre { background: none !important; border: none !important; }
+    html[data-theme="light"] .flow-box pre code { color: #1E293B !important; }
+    html[data-theme="light"] .markdown-body hr { border-top-color: rgba(0,0,0,0.1) !important; }
+    html[data-theme="light"] .markdown-body td { color: #334155 !important; }
+    html[data-theme="light"] .markdown-body .table-wrap {
+      background: rgba(240,249,255,0.8) !important;
+      border-color: rgba(0,200,150,0.2) !important;
+    }
+    html[data-theme="light"] .markdown-body thead tr {
+      background: rgba(0,200,150,0.1) !important;
+    }
+    html[data-theme="light"] .markdown-body tbody tr:nth-child(even) {
+      background: rgba(0,0,0,0.02) !important;
+    }
+    html[data-theme="light"] .md-breadcrumb .bc-item { color: #64748B !important; }
+    html[data-theme="light"] .md-breadcrumb .bc-sep { color: #94A3B8 !important; }
+    html[data-theme="light"] .md-meta-pill { color: #0369A1 !important; }
+
     /* ── Markdown Reader ───────────────────────────────────────── */
     .markdown-body {
       font-family: 'Lexend', 'DM Sans', sans-serif;
-      font-size: 0.93rem;
-      line-height: 1.78;
-      color: #CBD5E1;
+      font-size: 1rem;
+      line-height: 1.82;
+      color: #D1D9E6;
       user-select: text;
       -webkit-user-select: text;
     }
@@ -1399,13 +1872,13 @@
       font-size: 1.4rem;
       font-weight: 800;
       text-align: center;
-      background: linear-gradient(135deg, #F1F5F9 0%, #38BDF8 55%, #00B4D8 100%);
+      background: linear-gradient(135deg, #F1F5F9 0%, #38BDF8 55%, #00C896 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
       margin: 6px 0 4px;
       padding-bottom: 14px;
-      border-bottom: 2px solid rgba(0,180,216,0.25);
+      border-bottom: 2px solid rgba(0,200,150,0.25);
       line-height: 1.3;
       letter-spacing: -0.02em;
     }
@@ -1420,7 +1893,7 @@
       letter-spacing: 0.02em;
     }
     .md-breadcrumb .bc-item { color: #475569; font-weight: 500; }
-    .md-breadcrumb .bc-item.current { color: #00B4D8; font-weight: 600; }
+    .md-breadcrumb .bc-item.current { color: #00C896; font-weight: 600; }
     .md-breadcrumb .bc-sep { color: #334155; margin: 0 5px; }
 
     /* Metadata pills geradas via JS */
@@ -1435,8 +1908,8 @@
       display: inline-flex;
       align-items: center;
       gap: 4px;
-      background: rgba(0,180,216,0.1);
-      border: 1px solid rgba(0,180,216,0.2);
+      background: rgba(0,200,150,0.1);
+      border: 1px solid rgba(0,200,150,0.2);
       border-radius: 20px;
       padding: 3px 11px;
       font-size: 0.75rem;
@@ -1446,20 +1919,20 @@
     }
     .markdown-body h2 {
       font-family: 'Outfit', sans-serif;
-      font-size: 1.1rem;
+      font-size: 1.12rem;
       font-weight: 700;
       color: #E2E8F0;
-      margin: 1.6rem 0 0.6rem;
-      padding-left: 10px;
-      border-left: 3px solid #00B4D8;
+      margin: 1.7rem 0 0.65rem;
+      padding-left: 12px;
+      border-left: 3px solid var(--mint, #00C896);
       line-height: 1.35;
     }
     .markdown-body h3 {
       font-family: 'Outfit', sans-serif;
-      font-size: 0.97rem;
+      font-size: 1rem;
       font-weight: 600;
       color: #38BDF8;
-      margin: 1.2rem 0 0.45rem;
+      margin: 1.2rem 0 0.5rem;
       line-height: 1.35;
     }
     .markdown-body h4 {
@@ -1485,16 +1958,16 @@
       margin: 0.5em 0 0.9em;
     }
     .markdown-body li { margin: 0.35em 0; }
-    .markdown-body ul li::marker { color: #00B4D8; }
-    .markdown-body ol li::marker { color: #00B4D8; font-weight: 600; }
+    .markdown-body ul li::marker { color: var(--mint, #00C896); }
+    .markdown-body ol li::marker { color: var(--mint, #00C896); font-weight: 600; }
     .markdown-body li > ul, .markdown-body li > ol { margin: 0.2em 0 0.3em; }
 
     /* Blockquote — destaque / nota importante */
     .markdown-body blockquote {
-      border-left: 3px solid #00B4D8;
+      border-left: 3px solid #00C896;
       margin: 1em 0;
       padding: 10px 14px;
-      background: rgba(0, 180, 216, 0.07);
+      background: rgba(0, 200, 150, 0.07);
       border-radius: 0 8px 8px 0;
       color: #94A3B8;
       font-style: italic;
@@ -1503,8 +1976,8 @@
 
     /* Inline code */
     .markdown-body code {
-      background: rgba(0, 180, 216, 0.12);
-      border: 1px solid rgba(0, 180, 216, 0.2);
+      background: rgba(0, 200, 150, 0.12);
+      border: 1px solid rgba(0, 200, 150, 0.2);
       border-radius: 4px;
       padding: 1px 6px;
       font-size: 0.82em;
@@ -1529,6 +2002,49 @@
       color: #A5F3FC;
     }
 
+    /* Flow diagram box — usado para diagramas de vias fisiológicas/anatômicas */
+    .flow-box {
+      position: relative;
+      background: linear-gradient(140deg, rgba(0,200,150,0.08) 0%, rgba(56,189,248,0.08) 100%);
+      border: 1px solid rgba(0,200,150,0.35);
+      border-radius: 12px;
+      padding: 32px 20px 18px;
+      margin: 1.2em 0;
+      overflow-x: auto;
+    }
+    .flow-box::before {
+      content: "FLUXO";
+      position: absolute;
+      top: 10px;
+      left: 14px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      color: #00C896;
+      background: rgba(0,200,150,0.12);
+      border: 1px solid rgba(0,200,150,0.3);
+      border-radius: 20px;
+      padding: 2px 8px;
+    }
+    .flow-box pre {
+      background: none !important;
+      border: none !important;
+      border-radius: 0 !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      overflow: visible !important;
+    }
+    .flow-box pre code {
+      font-family: 'Lexend', 'DM Sans', sans-serif !important;
+      font-size: 0.87rem !important;
+      color: #E2E8F0 !important;
+      line-height: 2 !important;
+      display: block;
+      text-align: center;
+      white-space: pre;
+    }
+
     /* Horizontal rule */
     .markdown-body hr {
       border: none;
@@ -1540,10 +2056,10 @@
     .markdown-body .table-wrap {
       overflow-x: auto;
       border-radius: 10px;
-      border: 1px solid rgba(0, 180, 216, 0.25);
+      border: 1px solid rgba(0, 200, 150, 0.25);
       margin: 1.2em 0;
-      background: rgba(10, 20, 50, 0.6);
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(0, 180, 216, 0.08);
+      background: rgba(255,255,255,0.04);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.2), inset 0 1px 0 rgba(0,200,150,0.08);
     }
     .markdown-body table {
       width: 100%;
@@ -1552,8 +2068,8 @@
       min-width: 360px;
     }
     .markdown-body thead tr {
-      background: rgba(0, 180, 216, 0.18);
-      border-bottom: 2px solid rgba(0, 180, 216, 0.35);
+      background: rgba(0, 200, 150, 0.18);
+      border-bottom: 2px solid rgba(0, 200, 150, 0.35);
     }
     .markdown-body th {
       padding: 10px 14px;
@@ -1573,11 +2089,11 @@
     }
     .markdown-body tbody tr:nth-child(even) { background: rgba(255,255,255,0.03); }
     .markdown-body tbody tr:last-child td { border-bottom: none; }
-    .markdown-body tbody tr:hover { background: rgba(0, 180, 216, 0.07); transition: background 0.15s; }
+    .markdown-body tbody tr:hover { background: rgba(0, 200, 150, 0.07); transition: background 0.15s; }
 
     /* Checklist interativo */
     .markdown-body input[type="checkbox"] {
-      accent-color: #00B4D8;
+      accent-color: #00C896;
       cursor: pointer;
       width: 15px;
       height: 15px;
@@ -1627,7 +2143,7 @@
       font-family: 'Outfit', sans-serif;
       color: #fff;
       margin: 0 auto 8px;
-      box-shadow: 0 4px 16px rgba(0, 180, 216, 0.3);
+      box-shadow: 0 4px 16px rgba(0, 200, 150, 0.3);
     }
 
     .profile-name {
@@ -1737,7 +2253,7 @@
       right: 0;
       max-width: 430px;
       margin: 0 auto;
-      background: rgba(10, 22, 40, 0.94);
+      background: rgba(24, 28, 39, 0.96);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       border-top: 1px solid var(--border-subtle);
@@ -1763,7 +2279,7 @@
 
     .nav-item.active {
       color: var(--primary);
-      background: rgba(0, 180, 216, 0.12);
+      background: rgba(0, 200, 150, 0.12);
     }
 
     .nav-item.active::after {
@@ -1848,14 +2364,14 @@
     .semester-btn:hover {
       border-color: var(--primary);
       color: var(--primary);
-      background: rgba(0, 180, 216, 0.08);
+      background: rgba(0, 200, 150, 0.08);
       transform: none;
       box-shadow: none;
     }
 
     .semester-btn.selected {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.15);
+      background: rgba(0, 200, 150, 0.15);
       color: var(--primary);
     }
 
@@ -1882,13 +2398,13 @@
 
     .institution-card:hover {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.08);
+      background: rgba(0, 200, 150, 0.08);
     }
 
     .institution-card.selected {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.12);
-      box-shadow: 0 0 0 1px rgba(0, 180, 216, 0.15) inset;
+      background: rgba(0, 200, 150, 0.12);
+      box-shadow: 0 0 0 1px rgba(0, 200, 150, 0.15) inset;
     }
 
     .institution-card.disabled {
@@ -1920,7 +2436,7 @@
       letter-spacing: 0.05em;
       border-radius: 999px;
       padding: 4px 8px;
-      background: rgba(0, 180, 216, 0.15);
+      background: rgba(0, 200, 150, 0.15);
       color: var(--primary);
     }
 
@@ -1975,7 +2491,7 @@
 
     .subject-select-card:active {
       border-color: var(--primary);
-      background: rgba(0, 180, 216, 0.08);
+      background: rgba(0, 200, 150, 0.08);
       transform: scale(0.98);
       box-shadow: none;
     }
@@ -1989,7 +2505,7 @@
 
     /* Multi-select tema states */
     .subject-select-card.tema-selected {
-      background: rgba(0, 180, 216, 0.10);
+      background: rgba(0, 200, 150, 0.10);
       border-color: var(--primary);
     }
     .tema-checkbox {
@@ -2259,8 +2775,8 @@
 
     /* ===================== Feedback FAB ===================== */
     .feedback-panel {
-      background: #0D2137;
-      border: 1px solid rgba(0,180,216,0.25);
+      background: var(--bg-dark, #181C27);
+      border: 1px solid rgba(0,200,150,0.25);
       border-radius: 18px;
       width: 100%;
       max-width: 720px;
@@ -2280,8 +2796,8 @@
       .feedback-overlay { align-items: center; }
     }
     .feedback-modal {
-      background: #0D2137;
-      border: 1px solid rgba(0,180,216,0.25);
+      background: var(--bg-dark, #181C27);
+      border: 1px solid rgba(0,200,150,0.25);
       border-radius: 18px 18px 0 0;
       width: 100%;
       max-width: 520px;
@@ -2308,7 +2824,7 @@
       padding: 10px 12px; margin-bottom: 14px;
       -webkit-user-select: auto; user-select: auto;
     }
-    .feedback-select option { background: #0D2137; }
+    .feedback-select option { background: var(--bg-dark, #181C27); }
     .feedback-textarea { resize: none; height: 110px; }
     .feedback-char-counter { font-size: 11px; color: var(--text-secondary); text-align: right; margin-top: -10px; margin-bottom: 14px; }
     .feedback-actions { display: flex; gap: 10px; margin-top: 4px; }
@@ -2317,7 +2833,7 @@
       font-size: 14px; font-weight: 600; cursor: pointer; transition: opacity 0.2s;
     }
     .feedback-btn:active { opacity: 0.75; }
-    .feedback-btn-primary { background: linear-gradient(135deg,#00B4D8,#0077B6); color: #fff; }
+    .feedback-btn-primary { background: linear-gradient(135deg,#00C896,#0077B6); color: #fff; }
     .feedback-btn-secondary { background: rgba(255,255,255,0.08); color: var(--text-primary); }
     .feedback-success {
       display: flex; flex-direction: column; align-items: center;
@@ -2415,6 +2931,14 @@
   <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+  <script>
+    window.onerror = function(msg, src, line, col, err) {
+      document.getElementById('root').innerHTML =
+        '<div style="color:#FCA5A5;padding:24px;font-family:monospace;font-size:13px;background:#1a0a0a;position:fixed;top:0;left:0;right:0;z-index:9999;white-space:pre-wrap;max-height:50vh;overflow:auto">' +
+        '<b>ERRO JS:</b>\n' + msg + '\n\nArquivo: ' + src + '\nLinha: ' + line + ':' + col +
+        (err ? '\n\n' + err.stack : '') + '</div>';
+    };
+  </script>
 
   <script type="text/babel">
     const { useState, useEffect, useRef, useCallback, useMemo } = React;
@@ -2426,7 +2950,11 @@
         .replace(/(\|[^\n]*)\n\n+(?=\|)/g, '$1\n');
       return marked.parse(cleaned)
         .replace(/<table>/g, '<div class="table-wrap"><table>')
-        .replace(/<\/table>/g, '</table></div>');
+        .replace(/<\/table>/g, '</table></div>')
+        .replace(
+          /<pre><code class="language-flow">([\s\S]*?)<\/code><\/pre>/g,
+          '<div class="flow-box"><pre><code>$1</code></pre></div>'
+        );
     }
 
     // ===================== Feedback FAB =====================
@@ -2778,17 +3306,84 @@
       </svg>
     );
 
+    const IconAnatomy = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <rect x="1" y="10.5" width="4.5" height="3" rx="1"/>
+        <rect x="18.5" y="10.5" width="4.5" height="3" rx="1"/>
+        <path d="M5.5 12C5.5 7.5 18.5 7.5 18.5 12C18.5 16.5 5.5 16.5 5.5 12Z"/>
+        <line x1="10" y1="8.4" x2="8.8" y2="15.6" strokeWidth="1.2"/>
+        <line x1="13.5" y1="8" x2="12.3" y2="16" strokeWidth="1.2"/>
+      </svg>
+    );
+
+    /* Anatomy system icons — SVG replacements for emoji */
+    const IconSysLocomotor = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+        <line x1="7.5" y1="7.5" x2="16.5" y2="16.5"/>
+        <circle cx="5.5" cy="5.5" r="2.8"/>
+        <circle cx="18.5" cy="18.5" r="2.8"/>
+      </svg>
+    );
+    const IconSysCardio = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+      </svg>
+    );
+    const IconSysResp = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+        <line x1="12" y1="3" x2="12" y2="9"/>
+        <path d="M12 9Q7 9 5 13Q3 17 5 20Q7 22 9 20Q11 18 12 16"/>
+        <path d="M12 9Q17 9 19 13Q21 17 19 20Q17 22 15 20Q13 18 12 16"/>
+      </svg>
+    );
+    const IconSysNeuro = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M9.5 2C6.5 2 4 4.5 4 8c0 2 .9 3.7 2.2 4.9L7 20h10l.8-7.1C19.1 11.7 20 10 20 8c0-3.5-2.5-6-5.5-6C13 2 12 3 12 3S11 2 9.5 2z"/>
+        <line x1="12" y1="3" x2="12" y2="11"/>
+        <path d="M9 8.5Q10.5 10.5 12 9.5Q13.5 8.5 15 10"/>
+      </svg>
+    );
+    const IconSysDigest = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+        <path d="M8 3Q5 3 5 7Q5 11 8 12Q11 13 13 15Q15 17 15 20Q15 22 13 22Q11 22 11 20Q11 18 13 17"/>
+        <path d="M8 3Q10 3 11 6"/>
+      </svg>
+    );
+    const IconSysUrinary = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
+        <path d="M12 2L5 12Q5 20 12 20Q19 20 19 12L12 2"/>
+      </svg>
+    );
+    const IconSysEndoc = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M9 3h6M9 3L5 11h14L15 3"/>
+        <path d="M5 11v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/>
+        <circle cx="10" cy="16.5" r="1" fill="currentColor" stroke="none"/>
+        <circle cx="14.5" cy="14.5" r="1" fill="currentColor" stroke="none"/>
+      </svg>
+    );
+    const IconSysLymph = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M12 3l8 4v5c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V7l8-4z"/>
+        <path d="M9 12l2 2 4-4"/>
+      </svg>
+    );
+
     /* ── Logo MedGradPlus — ícone marca ── */
     const LogoIcon = ({ size = 28 }) => (
-      <svg width={size} height={size} viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="MedGradPlus logo">
-        {/* Fundo arredondado navy */}
-        <rect width="40" height="40" rx="9" fill="#0A1628"/>
-        {/* Cruz médica — barra horizontal */}
-        <rect x="7" y="16" width="26" height="8" rx="2.5" fill="#00B4D8"/>
-        {/* Cruz médica — barra vertical */}
-        <rect x="16" y="7" width="8" height="26" rx="2.5" fill="#00B4D8"/>
-        {/* Centro — brilho */}
-        <rect x="15" y="15" width="10" height="10" rx="2" fill="#00D4F5"/>
+      <svg width={size} height={size} viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="MedGradPlus logo">
+        {/* Fundo */}
+        <rect width="48" height="48" rx="11" fill="#0A1628"/>
+        {/* Cruz médica — vertical */}
+        <rect x="19" y="7" width="10" height="34" rx="3" fill="rgba(0,200,150,0.25)"/>
+        {/* Cruz médica — horizontal */}
+        <rect x="7" y="19" width="34" height="10" rx="3" fill="rgba(0,200,150,0.25)"/>
+        {/* Bandaid — faixa diagonal centralizada no ponto (24,24) */}
+        <rect x="10" y="19.5" width="28" height="9" rx="4" fill="#00C896" transform="rotate(-38 24 24)"/>
+        {/* Bandaid — pad central alinhado com faixa */}
+        <rect x="21" y="21.5" width="6" height="5" rx="1.5" fill="#00E8AE" opacity="0.9" transform="rotate(-38 24 24)"/>
+        {/* Brilho sutil no centro */}
+        <circle cx="24" cy="24" r="2.5" fill="rgba(255,255,255,0.18)"/>
       </svg>
     );
     /* Alias para compatibilidade com componentes antigos */
@@ -2894,8 +3489,10 @@
 
       return (
         <div className="splash-screen">
-          <div className="splash-logo"><LogoIcon size={72} /></div>
-          <div className="splash-text">MedGradPlus<sup style={{fontSize:'0.45em',color:'#00D4F5',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'2px'}}>+</sup></div>
+          <div className="splash-logo-wrap">
+            <div className="splash-logo-inner"><LogoIcon size={80} /></div>
+          </div>
+          <div className="splash-text">MedGrad<span style={{color:'#00C896',fontWeight:800}}>Plus</span><span style={{fontSize:'0.6em',color:'#00C896',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'3px'}}>+</span></div>
         </div>
       );
     };
@@ -2966,14 +3563,12 @@
         city: 'São Paulo',
         active: true,
         campi: [
-          { id: 'vergueiro', name: 'Vergueiro', active: true },
-          { id: 'memorial', name: 'Memorial', active: false },
-          { id: 'santo-amaro', name: 'Santo Amaro', active: false },
-          { id: 'vila-maria', name: 'Vila Maria', active: false },
-          { id: 'vila-prudente', name: 'Vila Prudente', active: false },
-          { id: 'sao-bernardo', name: 'São Bernardo', active: false },
-          { id: 'guarulhos', name: 'Guarulhos', active: false },
+          { id: 'vergueiro', name: 'Vergueiro (Sede)', active: true },
           { id: 'bauru', name: 'Bauru', active: false },
+          { id: 'maua', name: 'Mauá', active: false },
+          { id: 'osasco', name: 'Osasco', active: false },
+          { id: 'guarulhos', name: 'Guarulhos', active: false },
+          { id: 'sao-bernardo', name: 'São Bernardo do Campo', active: false },
         ],
       },
       {
@@ -3381,6 +3976,24 @@
         }
       };
 
+      // ── free access (no code) ─────────────────────────────────────────────
+      const handleFreeAccess = () => {
+        const freeProfile = {
+          uid: 'guest_' + Date.now(),
+          email: 'visitante@medgradplus.app',
+          plano: 'gratuito',
+          semestre: 1,
+          modulo: 1,
+          faculdadeId: 'uninove',
+          campusId: 'vergueiro',
+          codeHash: '',
+          deviceId: fingerprint || 'guest',
+          loginDate: new Date().toISOString(),
+          isGuest: true,
+        };
+        applyProfile(freeProfile);
+      };
+
       // ── sub-components ────────────────────────────────────────────────────
       const GoogleIcon = () => (
         <svg width="18" height="18" viewBox="0 0 24 24" style={{ flexShrink: 0 }}>
@@ -3400,15 +4013,80 @@
       );
 
       return (
-        <div className="app-container">
-          <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', height: '100%', paddingBottom: '40px' }}>
-            <div className="auth-header">
-              <div className="auth-logo" style={{display:'flex',justifyContent:'center',marginBottom:'16px'}}><LogoIcon size={64} /></div>
-              <h1 className="auth-title">MedGradPlus<sup style={{fontSize:'0.5em',color:'#00B4D8',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'1px'}}>+</sup></h1>
-              <p className="auth-subtitle">Plataforma de estudos para estudantes de medicina</p>
+        <div className="auth-page">
+
+          {/* ── LEFT BRAND PANEL (desktop only) ─────────────────────────── */}
+          <div className="auth-brand-panel">
+            <div className="auth-brand-mascot-wrap">
+              <div className="auth-brand-top">
+                {/* Logo */}
+                <div className="auth-brand-logo">
+                  <LogoIcon size={36} />
+                  <div className="auth-brand-logo-text">MedGradPlus<sup>+</sup></div>
+                </div>
+
+                {/* Headline */}
+                <h1 className="auth-brand-headline">
+                  Estude de forma<br /><span>personalizada</span><br />para a sua faculdade.
+                </h1>
+                <p className="auth-brand-sub">
+                  O único app de medicina construído especificamente para o currículo e o jeito de cobrar de cada instituição. Conteúdo na medida certa, sem enrolação.
+                </p>
+
+                {/* Features */}
+                <div className="auth-brand-features">
+                  <div className="auth-brand-feature">
+                    <div className="auth-brand-feature-icon">🎯</div>
+                    <div className="auth-brand-feature-text">
+                      <strong>Conteúdo do seu módulo</strong>
+                      <span>Material alinhado com o que cai nas provas da sua faculdade</span>
+                    </div>
+                  </div>
+                  <div className="auth-brand-feature">
+                    <div className="auth-brand-feature-icon">🃏</div>
+                    <div className="auth-brand-feature-text">
+                      <strong>Flashcards com revisão espaçada</strong>
+                      <span>Algoritmo SM-2 que otimiza o que você precisa revisar hoje</span>
+                    </div>
+                  </div>
+                  <div className="auth-brand-feature">
+                    <div className="auth-brand-feature-icon">📝</div>
+                    <div className="auth-brand-feature-text">
+                      <strong>Questões filtradas por matéria</strong>
+                      <span>Banco de questões selecionadas para o seu semestre</span>
+                    </div>
+                  </div>
+                  <div className="auth-brand-feature">
+                    <div className="auth-brand-feature-icon">📚</div>
+                    <div className="auth-brand-feature-text">
+                      <strong>Materiais de apoio por aula</strong>
+                      <span>Resumos redigidos com o jeito de ensinar da sua instituição</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="auth-brand-mascot-col">
+                <img src="/mascote.webp" alt="Mascote MedGrad" className="auth-brand-mascot-img" />
+              </div>
             </div>
 
-            <div style={{ maxWidth: '400px', width: '100%', margin: '0 auto' }}>
+            <div className="auth-brand-tagline">MedGradPlus • A sua faculdade. Do seu jeito.</div>
+          </div>
+
+          {/* ── RIGHT FORM PANEL ─────────────────────────────────────────── */}
+          <div className="auth-form-panel">
+            <div className="auth-form-inner">
+
+              {/* Mobile only: logo + name */}
+              <div className="auth-mobile-header">
+                <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '12px' }}><LogoIcon size={52} /></div>
+                <h1 style={{ fontFamily: 'Outfit', fontSize: '22px', fontWeight: 800, color: 'var(--text-primary)', textAlign: 'center', marginBottom: '6px' }}>
+                  MedGrad<span style={{ color: '#00C896', fontWeight: 800 }}>Plus</span><span style={{ fontSize: '0.65em', color: '#00C896', fontWeight: 800, verticalAlign: 'super', lineHeight: 0, marginLeft: '2px' }}>+</span>
+                </h1>
+                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', textAlign: 'center' }}>
+                  Estudo personalizado para a sua faculdade
+                </p>
+              </div>
 
               {/* ── FORGOT PASSWORD ───────────────────────────────────────── */}
               {showForgot && (
@@ -3435,8 +4113,8 @@
               {/* ── LOGIN MODE ────────────────────────────────────────────── */}
               {!showForgot && mode === 'login' && (
                 <div>
-                  <h2 style={{ fontSize: '18px', marginBottom: '4px', color: 'var(--text-primary)' }}>Bem-vindo de volta</h2>
-                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Entre com sua conta</p>
+                  <h2 style={{ fontSize: '20px', marginBottom: '4px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Bem-vindo de volta</h2>
+                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>Entre com sua conta para continuar</p>
                   {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                   <input className="form-input" type="email" placeholder="Email" value={email}
                     onChange={e => { setEmail(e.target.value); setError(''); }} style={{ marginBottom: '10px' }} />
@@ -3452,7 +4130,7 @@
                   </div>
                   <div style={{ textAlign: 'right', marginBottom: '16px' }}>
                     <button type="button" onClick={() => { setShowForgot(true); setForgotEmail(email); setError(''); }}
-                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', fontSize: '12px', cursor: 'pointer', padding: 0 }}>
+                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', fontSize: '12px', cursor: 'pointer', padding: 0 }}>
                       Esqueci minha senha
                     </button>
                   </div>
@@ -3464,10 +4142,15 @@
                     style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                     <GoogleIcon /> Entrar com Google
                   </button>
+                  <div className="free-access-divider"><span>sem conta</span></div>
+                  <button className="btn btn-secondary" onClick={handleFreeAccess}
+                    style={{ background: 'rgba(255,255,255,0.03)', border: '1px dashed rgba(255,255,255,0.15)', color: 'var(--text-secondary)', fontSize: '13px' }}>
+                    👀 Explorar gratuitamente (sem código)
+                  </button>
                   <p style={{ textAlign: 'center', marginTop: '20px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                     Primeira vez?{' '}
                     <button type="button" onClick={() => { setMode('register'); setStep(1); setError(''); }}
-                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
                       Ative seu código
                     </button>
                   </p>
@@ -3482,9 +4165,9 @@
                     {[1,2,3,4].map(s => (
                       <React.Fragment key={s}>
                         <div style={{ width: '24px', height: '24px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '11px', fontWeight: 'bold',
-                          background: step >= s ? 'var(--accent-color, #00B4D8)' : 'var(--border-color, #333)',
+                          background: step >= s ? 'var(--accent-color, #00C896)' : 'var(--border-color, #333)',
                           color: step >= s ? '#000' : 'var(--text-secondary)' }}>{s}</div>
-                        {s < 4 && <div style={{ flex: 1, height: '2px', background: step > s ? 'var(--accent-color, #00B4D8)' : 'var(--border-color, #333)' }}></div>}
+                        {s < 4 && <div style={{ flex: 1, height: '2px', background: step > s ? 'var(--accent-color, #00C896)' : 'var(--border-color, #333)' }}></div>}
                       </React.Fragment>
                     ))}
                   </div>
@@ -3492,7 +4175,7 @@
                   {/* Step 1: Code */}
                   {step === 1 && (
                     <div>
-                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Código de Acesso</h2>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Código de Acesso</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
                         Digite o código que você recebeu no formato XXXX-XXXX-XXXX
                       </p>
@@ -3506,7 +4189,7 @@
                       <p style={{ textAlign: 'center', marginTop: '16px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                         Já tem conta?{' '}
                         <button type="button" onClick={() => { setMode('login'); setStep(1); setError(''); }}
-                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
                           Entrar
                         </button>
                       </p>
@@ -3516,7 +4199,7 @@
                   {/* Step 2: Create account */}
                   {step === 2 && (
                     <div>
-                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Criar sua conta</h2>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Criar sua conta</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
                         Código válido ✓ — crie sua conta para entrar sempre com email e senha
                       </p>
@@ -3549,7 +4232,7 @@
                   {/* Step 3: Institution */}
                   {step === 3 && (
                     <div>
-                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Qual é a sua faculdade?</h2>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Qual é a sua faculdade?</h2>
                       <p className="institution-helper">
                         Escolha sua faculdade e campus. As instituições sem conteúdo liberado ficam visíveis, mas em breve.
                       </p>
@@ -3609,7 +4292,7 @@
                   {/* Step 4: Module */}
                   {step === 4 && (
                     <div>
-                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Qual é o seu módulo?</h2>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Qual é o seu módulo?</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
                         Em qual módulo ou semestre você está em {getFacultyById(facultyId)?.shortName} {getCampusById(facultyId, campusId)?.name}?
                       </p>
@@ -3678,9 +4361,22 @@
 
       return (
         <>
-          <div className="screen-content">
+          <div className="home-screen-content">
+            {/* Upsell banner for free/guest users */}
+            {(user.plano === 'gratuito' || user.isGuest) && (
+              <div className="upsell-banner">
+                <div className="upsell-banner-icon">⚡</div>
+                <div className="upsell-banner-text">
+                  <strong>Acesso gratuito — recursos limitados</strong>
+                  <span>Você está vendo apenas uma amostra. Desbloqueie tudo com um código de acesso.</span>
+                </div>
+                <button className="upsell-banner-btn" onClick={() => window.location.href = 'comprar.html'}>
+                  Ver planos
+                </button>
+              </div>
+            )}
             <div className="dashboard-header">
-              <h1 className="dashboard-welcome">Olá, {user.email.split('@')[0]}!</h1>
+              <h1 className="dashboard-welcome">Olá, {user.isGuest ? 'Visitante' : user.email.split('@')[0]}!</h1>
               <p className="dashboard-date">{new Date().toLocaleDateString('pt-BR', { weekday: 'long', day: 'numeric', month: 'long' })} — Módulo {userSemester}</p>
             </div>
 
@@ -3718,6 +4414,7 @@
               </div>
             )}
 
+            <div style={{ flex: 1, overflowY: 'auto', paddingBottom: '90px' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
               <div className="section-title" style={{ margin: 0 }}>Disciplinas</div>
               <button
@@ -3776,6 +4473,7 @@
                   </button>
                 </div>
               )}
+            </div>
             </div>
           </div>
         </>
@@ -3958,8 +4656,8 @@
               </p>
               <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
                 <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudying(true); }}
-                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
-                  <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
+                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
+                  <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
                   <div className="subject-select-info">
                     <div className="subject-select-name">Todos os assuntos</div>
                     <div className="subject-select-meta">{totalCards} cards{dueTotal > 0 ? ` — ${dueTotal} para revisar` : ''}</div>
@@ -4407,8 +5105,8 @@
               </p>
               <div className="subject-select-list" style={{ paddingBottom: pendingTemas.length > 0 ? '72px' : '0' }}>
                 <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])}
-                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,180,216,0.06)', marginBottom: '8px' }}>
-                  <div className="subject-select-icon" style={{ background: 'rgba(0,180,216,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
+                  style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
+                  <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconClipboardList /></div>
                   <div className="subject-select-info">
                     <div className="subject-select-name">Todas as questões</div>
                     <div className="subject-select-meta">{quiz.cards.length} questões</div>
@@ -4704,7 +5402,7 @@
           cb.removeAttribute('disabled');
           cb.checked = !!saved[i];
           cb.style.cursor = 'pointer';
-          cb.style.accentColor = '#00B4D8';
+          cb.style.accentColor = '#00C896';
           cb.style.width = '15px';
           cb.style.height = '15px';
           cb.style.marginRight = '6px';
@@ -4870,10 +5568,10 @@
                   if (onRouteChange) onRouteChange('materials', {});
                 }}
                 style={{
-                  background: 'rgba(0,180,216,0.08)',
-                  border: '1px solid rgba(0,180,216,0.25)',
+                  background: 'rgba(0,200,150,0.08)',
+                  border: '1px solid rgba(0,200,150,0.25)',
                   borderRadius: '8px',
-                  color: '#00B4D8',
+                  color: '#00C896',
                   fontSize: '0.82rem',
                   fontWeight: 500,
                   padding: '7px 13px',
@@ -4980,8 +5678,8 @@
               }}>
                 <div style={{
                   width: '32px', height: '32px',
-                  border: '3px solid rgba(0,180,216,0.15)',
-                  borderTop: '3px solid #00B4D8',
+                  border: '3px solid rgba(0,200,150,0.15)',
+                  borderTop: '3px solid #00C896',
                   borderRadius: '50%',
                   animation: 'spin 0.8s linear infinite',
                 }} />
@@ -5006,18 +5704,19 @@
             {!materialLoading && !materialError && materialContent && (() => {
               const { main, preProva } = splitAtPreProva(materialContent);
               return (
-                <>
+                <div className="material-doc-outer">
+                  <div className="material-doc-inner">
                   <div
                     ref={markdownRef}
                     className="markdown-body"
                     style={{
-                      background: 'linear-gradient(180deg, rgba(0,180,216,0.05) 0%, rgba(15,23,42,0.7) 120px)',
-                      border: '1px solid rgba(0,180,216,0.15)',
-                      borderTop: '3px solid #00B4D8',
+                      background: 'linear-gradient(180deg, rgba(0,200,150,0.05) 0%, rgba(15,23,42,0.7) 120px)',
+                      border: '1px solid rgba(0,200,150,0.15)',
+                      borderTop: '3px solid #00C896',
                       borderRadius: '14px',
-                      padding: '22px 20px 26px',
+                      padding: '28px 28px 32px',
                       wordBreak: 'break-word',
-                      boxShadow: '0 4px 32px rgba(0,180,216,0.08), 0 2px 12px rgba(0,0,0,0.3)',
+                      boxShadow: '0 4px 32px rgba(0,200,150,0.08), 0 2px 12px rgba(0,0,0,0.3)',
                     }}
                     dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
@@ -5079,7 +5778,8 @@
                       )}
                     </div>
                   )}
-                </>
+                  </div>
+                </div>
               );
             })()}
           </div>
@@ -5298,7 +5998,7 @@
           });
           setRequestLoading(false);
           setShowInstitutionRequest(false);
-          setRequestInfo('Solicitação enviada. A alteração só aparece após aprovação no admin.');
+          setRequestInfo('Solicitação enviada. A alteração só aparece após aprovação pela equipe de desenvolvimento.');
           await loadChangeRequests();
         } catch (err) {
           setRequestLoading(false);
@@ -5384,7 +6084,7 @@
               <div style={{ marginTop: '12px', padding: '12px', borderRadius: '12px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
                 <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '8px' }}>Troca de faculdade/campus</div>
                 <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.5, marginBottom: '10px' }}>
-                  Para evitar curadoria indevida, mudanças de faculdade e campus precisam de aprovação no admin.
+                  Para evitar curadoria indevida, mudanças de faculdade e campus precisam de aprovação pela equipe de desenvolvimento.
                 </div>
                 {pendingRequest && (
                   <div style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
@@ -5480,8 +6180,277 @@
       return qi === q.length;
     }
 
+    /* ── AnatomiaScreen ── */
+    const ANATOMY_SYSTEMS = [
+      {
+        id: 'locomotor', name: 'Sistema Locomotor', icon: <IconSysLocomotor />, color: '#F59E0B',
+        subsections: [
+          { title: 'Esqueleto Axial', items: [
+            { q: 'Ossos do crânio (8)', a: 'Frontal · Parietal ×2 · Temporal ×2 · Occipital · Esfenoide · Etmoide' },
+            { q: 'Ossos da face (14)', a: 'Maxilar ×2 · Zigomático ×2 · Nasal ×2 · Lacrimal ×2 · Palatino ×2 · Corneto inferior ×2 · Vômer · Mandíbula' },
+            { q: 'Coluna vertebral (33 vértebras)', a: '7 cervicais · 12 torácicas · 5 lombares · 5 sacrais (fundidas) · 4 coccígeas (fundidas)' },
+            { q: 'Caixa torácica', a: '12 pares de costelas: 7 verdadeiras (1–7) · 3 falsas (8–10) · 2 flutuantes (11–12) + Esterno (manúbrio, corpo, processo xifoide)' },
+          ]},
+          { title: 'Esqueleto Apendicular Superior', items: [
+            { q: 'Ombro → mão', a: 'Clavícula · Escápula → Úmero → Rádio + Ulna → 8 carpos + 5 metacarpos + 14 falanges' },
+            { q: 'Manguito rotador (SIPS)', a: 'Supraespinhoso (abdução) · Infraespinhoso (rot. externa) · Pequeno redondo (rot. externa) · Subescapular (rot. interna)' },
+            { q: 'Articulação do ombro', a: 'Glenoumeral: esferóide. A + móvel do corpo = menos estável. Luxação anterior é a mais comum' },
+          ]},
+          { title: 'Esqueleto Apendicular Inferior', items: [
+            { q: 'Quadril → pé', a: 'Coxal (ílio + ísquio + púbis) → Fêmur → Patela + Tíbia + Fíbula → 7 tarsos + 5 metatarsos + 14 falanges' },
+            { q: 'Articulação do joelho', a: 'Meniscos medial/lateral + LCA (anterior) + LCP (posterior) + ligamentos colaterais medial/lateral' },
+            { q: 'Nervo ciático', a: 'L4–S3. Maior nervo do corpo. Divide-se na fossa poplítea → fibular comum + tibial' },
+          ]},
+          { title: 'Músculos Importantes', items: [
+            { q: 'Músculos da mastigação (4)', a: 'Masseter · Temporal · Pterigóideo medial · Pterigóideo lateral — todos pelo n. Trigêmeo (V3)' },
+            { q: 'Quadríceps femoral', a: '4 cabeças: Reto femoral + Vasto lateral + Vasto medial + Vasto intermédio → tendão patelar → extensão do joelho (n. femoral)' },
+            { q: 'Tríceps sural', a: 'Gastrocnêmio (2 cabeças) + Sóleo → tendão calcâneo (Aquiles) → flexão plantar (n. tibial)' },
+            { q: 'Diafragma pélvico', a: 'Levantador do ânus (pubococcígeo + iliococcígeo) + Isquiococcígeo — suporte dos órgãos pélvicos' },
+          ]},
+        ]
+      },
+      {
+        id: 'cardiovascular', name: 'Sistema Cardiovascular', icon: <IconSysCardio />, color: '#EF4444',
+        subsections: [
+          { title: 'Coração — Câmaras e Válvulas', items: [
+            { q: 'Câmaras', a: '4 câmaras: AD e VD (coração direito — sangue venoso) · AE e VE (esquerdo — sangue arterial). VE tem parede mais espessa' },
+            { q: 'Válvulas AV', a: 'Mitral (bicúspide) → AE para VE | Tricúspide → AD para VD. "Mitral é a única com 2 folhetos"' },
+            { q: 'Válvulas semilunares', a: 'Aórtica → VE para Aorta | Pulmonar → VD para A. pulmonar. Ambas com 3 cúspides' },
+            { q: 'Coronárias', a: 'CD: nutre VD + parede inferior do VE · CE → DA (parede anterior) + CX (lateral). "Artéria do IAM anterior = DA"' },
+          ]},
+          { title: 'Circulação', items: [
+            { q: 'Circulação pulmonar (menor)', a: 'VD → A. pulmonar → pulmão → V. pulmonares (4) → AE. Única veia que carrega sangue arterial!' },
+            { q: 'Circulação sistêmica (maior)', a: 'VE → Aorta → órgãos → VCS / VCI → AD' },
+            { q: 'Sistema porta hepático', a: 'V. porta: drena intestinos + baço para o fígado antes da circulação geral. Hipertensão porta → varizes esofágicas' },
+          ]},
+          { title: 'Grandes Vasos', items: [
+            { q: 'Arco aórtico (3 ramos)', a: '① Tronco braquiocefálico (→ subclávea D + carótida D) · ② Carótida comum E · ③ Subclávea E' },
+            { q: 'Aorta abdominal', a: 'Tronco celíaco (estômago/fígado/baço) · AMS (intestino delgado) · AMI (intestino grosso) → bifurca em ilíacas comuns em L4' },
+          ]},
+        ]
+      },
+      {
+        id: 'respiratorio', name: 'Sistema Respiratório', icon: <IconSysResp />, color: '#06B6D4',
+        subsections: [
+          { title: 'Vias Aéreas', items: [
+            { q: 'Via aérea superior', a: 'Fossas nasais → Nasofaringe → Orofaringe → Laringofaringe → Laringe (epiglote cobre na deglutição)' },
+            { q: 'Traqueia', a: '16–20 anéis cartilaginosos em "C". Bifurca-se na carina (T4–T5). Brônquio D mais vertical → corpo estranho tende ao D' },
+            { q: 'Árvore brônquica', a: 'Traqueia → 2 brônquios principais → lobares → segmentares → bronquíolos terminais → alveolares → alvéolos' },
+          ]},
+          { title: 'Pulmões e Pleura', items: [
+            { q: 'Lobos pulmonares', a: 'D: 3 lobos (superior, médio, inferior) · E: 2 lobos (superior, inferior) + língula (homóloga ao lobo médio)' },
+            { q: 'Pleura', a: 'Visceral (aderida ao pulmão) + Parietal (parede torácica). Espaço pleural com pressão negativa. Pneumotórax → colapso pulmonar' },
+            { q: 'Hematose', a: 'CO₂ e O₂ trocados nos alvéolos (as. pulmonares). As. brônquicas nutrem o parênquima (circulação sistêmica)' },
+          ]},
+          { title: 'Músculos da Respiração', items: [
+            { q: 'Diafragma', a: 'Principal músculo da inspiração. Inervado pelo N. frênico (C3–C5). "C3, C4, C5 keeps the diaphragm alive"' },
+            { q: 'Músculos acessórios', a: 'Inspiração forçada: escalenos, ECM, peitorais · Expiração ativa: reto abdominal, oblíquos abdominais' },
+          ]},
+        ]
+      },
+      {
+        id: 'nervoso', name: 'Sistema Nervoso', icon: <IconSysNeuro />, color: '#8B5CF6',
+        subsections: [
+          { title: 'Encéfalo', items: [
+            { q: 'Divisões', a: 'Telencéfalo (córtex, núcleos da base) · Diencéfalo (tálamo, hipotálamo) · Mesencéfalo · Ponte · Bulbo · Cerebelo' },
+            { q: 'Lobos cerebrais', a: 'Frontal (motor, personalidade, linguagem) · Parietal (sensitivo) · Temporal (audição, memória) · Occipital (visão)' },
+            { q: 'Hipotálamo', a: 'Centro autonômico: temperatura, fome, sede, sono, ritmo circadiano. Controla a hipófise via eixo hipotálamo-hipofisário' },
+            { q: 'Cerebelo', a: 'Coordenação e equilíbrio. Lesão ipsilateral (mesmo lado do cerebelo). Ataxia, disdiadococinesia' },
+          ]},
+          { title: 'Nervos Cranianos (12 pares)', items: [
+            { q: 'I – IV', a: 'I Olfatório (olfato) · II Óptico (visão) · III Oculomotor (ptose, midríase) · IV Troclear (oblíquo superior — olha pra baixo ao medializar)' },
+            { q: 'V – VIII', a: 'V Trigêmeo (sensib. face + mastigação) · VI Abducente (reto lateral) · VII Facial (mímica + paladar ant.) · VIII Vestibulococlear' },
+            { q: 'IX – XII', a: 'IX Glossofaríngeo · X Vago (parassimpático visceral) · XI Acessório (ECM, trapézio) · XII Hipoglosso (língua)' },
+          ]},
+          { title: 'Plexos e SNA', items: [
+            { q: 'Plexo braquial (C5–T1)', a: 'Erb-Duchenne: C5–C6 ("garçom pedindo gorjeta") · Klumpke: C8–T1 (mão em garra). Raízes → Troncos → Divisões → Fascículos → Ramos' },
+            { q: 'Plexo lombossacral', a: 'Femoral (L2–L4): quadríceps · Obturatório (L2–L4): adutores · Ciático (L4–S3): posterior da coxa, perna e pé' },
+            { q: 'SNA Simpático vs Parassimpático', a: 'Simpático: T1–L2 (luta/fuga) — usa gânglios para-vertebrais · Parassimpático: III, VII, IX, X + S2–S4 (repouso/digestão)' },
+          ]},
+        ]
+      },
+      {
+        id: 'digestorio', name: 'Sistema Digestório', icon: <IconSysDigest />, color: '#10B981',
+        subsections: [
+          { title: 'Trato Gastrointestinal', items: [
+            { q: 'Boca → Estômago', a: 'Boca → Faringe → Esôfago (25 cm, 3 estreitamentos) → Estômago (fundus, corpo, antro, piloro). EEI → refluxo DRGE' },
+            { q: 'Intestino Delgado (6–7 m)', a: 'Duodeno (25 cm, retroperitoneal, fixo) · Jejuno (2/5) · Íleo (3/5). Principal local de absorção de nutrientes' },
+            { q: 'Intestino Grosso (1,5 m)', a: 'Ceco (apêndice: ponto de McBurney) → Cólon ascendente → transverso → descendente → sigmoide → Reto → Canal anal' },
+          ]},
+          { title: 'Órgãos Anexos', items: [
+            { q: 'Fígado', a: '4 lobos anatômicos (D, E, caudado, quadrado). Funções: síntese proteica, bile, glicogênio, detox. Irrigação: 25% A. hepática + 75% V. porta' },
+            { q: 'Pâncreas', a: 'Retroperitoneal. Endócrino: ilhotas de Langerhans (α = glucagon, β = insulina). Exócrino: lipase, amilase, tripsina — via ducto de Wirsung' },
+            { q: 'Vesícula biliar', a: 'Armazena/concentra bile. Ducto cístico + Ducto hepático comum = Ducto colédoco → Ampola de Vater (esfíncter de Oddi) no duodeno' },
+          ]},
+        ]
+      },
+      {
+        id: 'urinario', name: 'Sistema Urinário', icon: <IconSysUrinary />, color: '#3B82F6',
+        subsections: [
+          { title: 'Rins', items: [
+            { q: 'Posição e relações', a: 'Retroperitoneal. Rim D mais baixo (fígado acima). Hilo: veia (anterior) → artéria → pelve renal (posterior) — mnemônico: VAP' },
+            { q: 'Néfron (unidade funcional)', a: 'Glomérulo → TCP → Alça de Henle (desc. fina / asc. espessa) → TCD → Ducto coletor. ~1 milhão/rim. TFG normal: ~120 mL/min' },
+            { q: 'Função tubular resumida', a: 'TCP: reabsorve 67% do filtrado (glicose, Na, HCO₃) · Alça: concentra urina · TCD: regulação fina de Na, K, H (aldosterona, PTH)' },
+          ]},
+          { title: 'Vias Urinárias', items: [
+            { q: 'Ureter', a: '25–30 cm, retroperitoneal. 3 estreitamentos fisiológicos: JUP + cruzamento dos vasos ilíacos + JUV → locais de impactação de cálculo' },
+            { q: 'Bexiga e Uretra', a: 'Trígono: 2 óstios ureterais + colo vesical. Uretra F ≈ 4 cm · M ≈ 20 cm (prostática → membranosa → esponjosa)' },
+          ]},
+        ]
+      },
+      {
+        id: 'endocrino', name: 'Sistema Endócrino', icon: <IconSysEndoc />, color: '#EC4899',
+        subsections: [
+          { title: 'Glândulas e Hormônios', items: [
+            { q: 'Hipófise — adeno (anterior)', a: 'GH · TSH · ACTH · LH · FSH · Prolactina. Controlada pelos hormônios hipotalâmicos liberadores/inibidores' },
+            { q: 'Hipófise — neuro (posterior)', a: 'ADH (vasopressina — reabsorção de água) · Ocitocina (contração uterina + ejeção de leite). Produzidos no hipotálamo!' },
+            { q: 'Tireoide', a: 'T3 (ativo) e T4 (pró-hormônio). Regulam metabolismo basal. Células parafoliculares C → Calcitonina (↓Ca²⁺)' },
+            { q: 'Paratireoide (4 corpúsculos)', a: 'PTH: ↑Ca²⁺ sérico — ↑reabsorção óssea, ↑reabsorção renal, ↑ativação vit. D. Oposto à calcitonina' },
+            { q: 'Suprarrenal (adrenal)', a: 'Córtex: Zona Glomerular (aldosterona) · Z. Fasciculada (cortisol) · Z. Reticular (andrógenos). Medula: adrenalina + noradrenalina' },
+          ]},
+        ]
+      },
+      {
+        id: 'linfatico', name: 'Sistema Linfático', icon: <IconSysLymph />, color: '#6366F1',
+        subsections: [
+          { title: 'Órgãos Linfoides', items: [
+            { q: 'Timo', a: 'Mediastino anterior superior. Maturação de linfócitos T. Maior na infância, involui na puberdade. Timoma → associado à miastenia gravis' },
+            { q: 'Baço', a: 'Hipocôndrio esquerdo. Polpa vermelha (destruição de hemácias) + Polpa branca (linfócitos B e T). Maior órgão linfoide do corpo' },
+            { q: 'Linfonodos', a: 'Filtram linfa. Cadeias principais: cervical, axilar, inguinal, mediastinal, retroperitoneal. Gânglio de Virchow (supraclavicular E) → neoplasia abdominal' },
+            { q: 'Ducto torácico', a: 'Maior vaso linfático. Drena toda a linfa abaixo do diafragma + hemicorpo E superior → Ângulo venoso E (subclávia E + jugular interna E)' },
+          ]},
+        ]
+      },
+    ];
+
+    const AnatomiaScreen = () => {
+      const [openSystem, setOpenSystem] = React.useState(null);
+      const [openSub, setOpenSub] = React.useState({});
+      const [search, setSearch] = React.useState('');
+
+      const q = search.toLowerCase().trim();
+      const filtered = ANATOMY_SYSTEMS.map(sys => {
+        if (!q) return sys;
+        const subsMatch = sys.subsections.map(sub => {
+          const items = sub.items.filter(it =>
+            it.q.toLowerCase().includes(q) || it.a.toLowerCase().includes(q)
+          );
+          return items.length ? { ...sub, items } : null;
+        }).filter(Boolean);
+        if (!subsMatch.length && !sys.name.toLowerCase().includes(q)) return null;
+        return { ...sys, subsections: subsMatch.length ? subsMatch : sys.subsections };
+      }).filter(Boolean);
+
+      const toggleSystem = (id) => {
+        setOpenSystem(prev => prev === id ? null : id);
+        setOpenSub({});
+      };
+      const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
+
+      React.useEffect(() => {
+        if (q && filtered.length === 1) setOpenSystem(filtered[0].id);
+      }, [q]);
+
+      return (
+        <div className="screen-content">
+          <div style={{ maxWidth: '720px', margin: '0 auto' }}>
+            <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '4px' }}>Anatomia</h2>
+            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Referência rápida por sistema. Toque para expandir.</p>
+
+            <div style={{ position: 'relative', marginBottom: '20px' }}>
+              <input
+                type="text"
+                placeholder="Buscar estrutura, nervo, músculo..."
+                value={search}
+                onChange={e => setSearch(e.target.value)}
+                style={{
+                  width: '100%', padding: '10px 14px 10px 36px',
+                  background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)',
+                  borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
+                }}
+              />
+              <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', fontSize: '14px' }}>🔍</span>
+            </div>
+
+            {filtered.length === 0 && (
+              <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
+                Nenhum resultado para "{search}"
+              </div>
+            )}
+
+            {filtered.map(sys => (
+              <div key={sys.id} style={{ marginBottom: '10px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.07)', background: 'rgba(255,255,255,0.03)' }}>
+                <div
+                  onClick={() => toggleSystem(sys.id)}
+                  style={{
+                    display: 'flex', alignItems: 'center', gap: '12px', padding: '14px 16px',
+                    cursor: 'pointer', userSelect: 'none',
+                    borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.07)' : 'none',
+                  }}
+                >
+                  <span style={{ display: 'flex', alignItems: 'center', color: sys.color, flexShrink: 0 }}>{sys.icon}</span>
+                  <span style={{ fontWeight: 700, fontSize: '15px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
+                  <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
+                    {sys.subsections.reduce((t, s) => t + s.items.length, 0)} itens
+                  </span>
+                  <span style={{
+                    color: 'var(--text-secondary)', fontSize: '18px',
+                    display: 'inline-block', transition: 'transform 0.2s',
+                    transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)'
+                  }}>›</span>
+                </div>
+
+                {openSystem === sys.id && (
+                  <div style={{ padding: '8px 12px 12px' }}>
+                    {sys.subsections.map((sub, si) => {
+                      const subKey = sys.id + '_' + si;
+                      return (
+                        <div key={subKey} style={{ marginBottom: '6px' }}>
+                          <div
+                            onClick={() => toggleSub(subKey)}
+                            style={{
+                              display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                              padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
+                              background: openSub[subKey] ? 'rgba(255,255,255,0.07)' : 'rgba(255,255,255,0.03)',
+                              fontSize: '13px', fontWeight: 600, color: sys.color,
+                            }}
+                          >
+                            <span>{sub.title}</span>
+                            <span style={{
+                              display: 'inline-block', transition: 'transform 0.2s',
+                              transform: openSub[subKey] ? 'rotate(90deg)' : 'none',
+                              fontSize: '16px', color: 'var(--text-secondary)'
+                            }}>›</span>
+                          </div>
+
+                          {openSub[subKey] && (
+                            <div style={{ padding: '6px 4px 0' }}>
+                              {sub.items.map((it, ii) => (
+                                <div key={ii} style={{
+                                  padding: '10px 12px', marginBottom: '6px',
+                                  background: 'rgba(255,255,255,0.04)', borderRadius: '8px',
+                                  borderLeft: `3px solid ${sys.color}`,
+                                }}>
+                                  <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
+                                  <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
+                                </div>
+                              ))}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    };
+
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'profile'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'profile', 'anatomy'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
         const [tabRaw, materiaRaw, aulaRaw] = raw.split(':');
@@ -5504,6 +6473,30 @@
       const [user, setUser] = useState(null);
       const [routeState, setRouteState] = useState(initialRoute);
       const [currentTab, setCurrentTab] = useState(initialRoute.tab);
+      const [darkMode, setDarkMode] = useState(() => {
+        const saved = localStorage.getItem('meduni9_theme');
+        return saved ? saved !== 'light' : true;
+      });
+
+      useEffect(() => {
+        document.documentElement.setAttribute('data-theme', darkMode ? 'dark' : 'light');
+        localStorage.setItem('meduni9_theme', darkMode ? 'dark' : 'light');
+      }, [darkMode]);
+
+      const renderThemeToggle = () => (
+        <button
+          className="theme-toggle-btn"
+          onClick={() => setDarkMode(d => !d)}
+          title={darkMode ? 'Modo claro' : 'Modo escuro'}
+          aria-label={darkMode ? 'Ativar modo claro' : 'Ativar modo escuro'}
+        >
+          {darkMode ? (
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+          ) : (
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+          )}
+        </button>
+      );
 
       const navigateTo = (tab, options = {}) => {
         const nextRoute = {
@@ -5757,10 +6750,11 @@
 
       const navItems = [
         { id: 'home', label: 'Início', icon: <IconHome /> },
-        { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
-        { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
-        { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
+        { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
+        { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
+        { id: 'anatomy', label: 'Anatomia', icon: <IconAnatomy /> },
+        { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
 
@@ -5770,14 +6764,14 @@
           {/* Desktop Sidebar */}
           <div className={`desktop-sidebar${sidebarOpen ? '' : ' collapsed'}`}>
             <div className="sidebar-logo">
+              <span className="sidebar-logo-icon" style={{ display: 'flex', alignItems: 'center' }}><LogoIcon size={30} /></span>
+              <span className="sidebar-logo-text">MedGrad<span style={{color:'#00C896',fontWeight:800}}>Plus</span><span style={{fontSize:'0.65em',color:'#00C896',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'2px'}}>+</span></span>
               <button
                 className="sidebar-toggle-btn"
                 onClick={() => setSidebarOpen(false)}
                 title="Fechar menu"
-                style={{ marginRight: '4px' }}
+                style={{ marginLeft: 'auto' }}
               ><IconMenu /></button>
-              <span className="sidebar-logo-icon" style={{ display: 'flex', alignItems: 'center' }}><LogoIcon size={30} /></span>
-              <span className="sidebar-logo-text">MedGradPlus<sup style={{fontSize:'0.5em',color:'#00B4D8',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'1px'}}>+</sup></span>
             </div>
             <div className="sidebar-nav">
               {navItems.map(item => (
@@ -5792,14 +6786,17 @@
               ))}
             </div>
             <div className="sidebar-footer">
-              <div className="sidebar-user-block">
-                <div className="sidebar-user-avatar">
-                  {user.email ? user.email.charAt(0).toUpperCase() : 'U'}
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '10px' }}>
+                <div className="sidebar-user-block" style={{ flex: 1, minWidth: 0 }}>
+                  <div className="sidebar-user-avatar">
+                    {user.email ? user.email.charAt(0).toUpperCase() : 'U'}
+                  </div>
+                  <div className="sidebar-user-info">
+                    <div className="sidebar-user-name">{user.email ? user.email.split('@')[0] : 'Usuário'}</div>
+                    <div className="sidebar-user-meta">{user.campusNome || 'Vergueiro'} · Módulo {user.semestre || user.modulo || 1}</div>
+                  </div>
                 </div>
-                <div className="sidebar-user-info">
-                  <div className="sidebar-user-name">{user.email ? user.email.split('@')[0] : 'Usuário'}</div>
-                  <div className="sidebar-user-meta">{user.campusNome || 'Vergueiro'} · Módulo {user.semestre || user.modulo || 1}</div>
-                </div>
+                {renderThemeToggle()}
               </div>
             </div>
           </div>
@@ -5807,12 +6804,14 @@
           {/* Main Content */}
           <div className="app-container">
             {!sidebarOpen && (
-              <button
-                className="sidebar-toggle-btn"
-                onClick={() => setSidebarOpen(true)}
-                title="Abrir menu"
-                style={{ position: 'fixed', top: '16px', left: '16px', zIndex: 200 }}
-              ><IconMenu /></button>
+              <div className="sidebar-open-bar">
+                <button
+                  className="sidebar-toggle-btn"
+                  onClick={() => setSidebarOpen(true)}
+                  title="Abrir menu"
+                ><IconMenu /></button>
+                {renderThemeToggle()}
+              </div>
             )}
             {currentTab === 'home' && (
               <DashboardScreen
@@ -5827,43 +6826,91 @@
             )}
 
             {currentTab === 'cards' && (
-              <FlashcardsScreen
-                flashcards={flashcards}
-                materias={materias}
-                selectedMateria={selectedMateria}
-                onSelectMateria={(materiaId) => {
-                  setSelectedMateria(materiaId);
-                  navigateTo('cards', { materiaId });
-                }}
-                userSemester={user.semestre}
-              />
+              user.plano === 'gratuito' || user.isGuest ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>🔒</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Flashcards bloqueados</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    No plano gratuito você não tem acesso aos flashcards com revisão espaçada. Ative um código para desbloquear todos os módulos.
+                  </p>
+                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
+                    Ver planos e preços
+                  </button>
+                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
+              ) : (
+                <FlashcardsScreen
+                  flashcards={flashcards}
+                  materias={materias}
+                  selectedMateria={selectedMateria}
+                  onSelectMateria={(materiaId) => {
+                    setSelectedMateria(materiaId);
+                    navigateTo('cards', { materiaId });
+                  }}
+                  userSemester={user.semestre}
+                />
+              )
             )}
 
             {currentTab === 'quiz' && (
-              <QuizScreen
-                flashcards={flashcards}
-                materias={materias}
-                selectedMateria={selectedMateria}
-                onSelectMateria={(materiaId) => {
-                  setSelectedMateria(materiaId);
-                  navigateTo('quiz', { materiaId });
-                }}
-                userSemester={user.semestre}
-              />
+              user.plano === 'gratuito' || user.isGuest ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>🔒</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Questões bloqueadas</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    O banco de questões está disponível apenas para usuários com código ativo. Não perca as questões do seu módulo.
+                  </p>
+                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
+                    Ver planos e preços
+                  </button>
+                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
+              ) : (
+                <QuizScreen
+                  flashcards={flashcards}
+                  materias={materias}
+                  selectedMateria={selectedMateria}
+                  onSelectMateria={(materiaId) => {
+                    setSelectedMateria(materiaId);
+                    navigateTo('quiz', { materiaId });
+                  }}
+                  userSemester={user.semestre}
+                />
+              )
             )}
 
             {currentTab === 'materials' && (
-              <MaterialsScreen
-                materias={materias}
-                userSemester={user.semestre}
-                initialMateriaId={routeState.materiaId}
-                initialTemaId={routeState.aulaId}
-                onRouteChange={navigateTo}
-                onNavigateTo={(tab, materiaId) => {
-                  if (materiaId) setSelectedMateria(materiaId);
-                  navigateTo(tab, { materiaId });
-                }}
-              />
+              user.plano === 'gratuito' || user.isGuest ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>📚</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Materiais bloqueados</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    Os resumos e materiais de apoio são personalizados para cada faculdade e estão disponíveis apenas com código ativo.
+                  </p>
+                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
+                    Ver planos e preços
+                  </button>
+                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
+              ) : (
+                <MaterialsScreen
+                  materias={materias}
+                  userSemester={user.semestre}
+                  initialMateriaId={routeState.materiaId}
+                  initialTemaId={routeState.aulaId}
+                  onRouteChange={navigateTo}
+                  onNavigateTo={(tab, materiaId) => {
+                    if (materiaId) setSelectedMateria(materiaId);
+                    navigateTo(tab, { materiaId });
+                  }}
+                />
+              )
             )}
 
             {currentTab === 'feedback' && (
@@ -5876,6 +6923,10 @@
                 authStateRef.current = normalized;
                 setUser(normalized);
               }} />
+            )}
+
+            {currentTab === 'anatomy' && (
+              <AnatomiaScreen />
             )}
 
             {/* Bottom Navigation (mobile only) */}

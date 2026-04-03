@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#00B4D8">
+  <title>MedGradPlus — Planos e Preços</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --primary: #00B4D8;
+      --mint: #00C896;
+      --bg: #080f1e;
+      --bg2: #0a1628;
+      --card: rgba(255,255,255,0.04);
+      --border: rgba(255,255,255,0.08);
+      --text: #E5E7EB;
+      --muted: #9CA3AF;
+    }
+
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ── Navbar ── */
+    .navbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 40px;
+      border-bottom: 1px solid var(--border);
+      background: rgba(8,15,30,0.95);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      backdrop-filter: blur(12px);
+    }
+    .navbar-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      text-decoration: none;
+    }
+    .navbar-logo-text {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 800;
+      color: #fff;
+    }
+    .navbar-logo-text sup { font-size: 0.5em; color: var(--primary); }
+    .navbar-back {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      padding: 8px 18px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 13px;
+      text-decoration: none;
+      transition: background 0.2s, color 0.2s;
+    }
+    .navbar-back:hover { background: rgba(255,255,255,0.09); color: var(--text); }
+
+    /* ── Hero ── */
+    .hero {
+      text-align: center;
+      padding: 80px 24px 60px;
+      max-width: 680px;
+      margin: 0 auto;
+    }
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(0,180,216,0.12);
+      border: 1px solid rgba(0,180,216,0.25);
+      color: var(--primary);
+      border-radius: 100px;
+      padding: 5px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      margin-bottom: 20px;
+    }
+    .hero h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: clamp(32px, 5vw, 52px);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      letter-spacing: -0.02em;
+      margin-bottom: 16px;
+    }
+    .hero h1 span { color: var(--primary); }
+    .hero p {
+      font-size: 16px;
+      color: var(--muted);
+      line-height: 1.7;
+      max-width: 520px;
+      margin: 0 auto;
+    }
+
+    /* ── Plans grid ── */
+    .plans {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 24px 80px;
+    }
+
+    .plan-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 32px 28px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .plan-card:hover { transform: translateY(-3px); }
+    .plan-card.featured {
+      border-color: rgba(0,180,216,0.5);
+      background: linear-gradient(160deg, rgba(0,180,216,0.08) 0%, rgba(0,200,150,0.04) 100%);
+    }
+    .plan-card.premium-cycle {
+      overflow: hidden;
+      isolation: isolate;
+    }
+    .plan-card.premium-cycle::before {
+      content: "";
+      position: absolute;
+      top: -35%;
+      left: -140%;
+      width: 62%;
+      height: 170%;
+      background: linear-gradient(115deg, rgba(255,255,255,0) 0%, rgba(255,236,179,0.26) 45%, rgba(255,255,255,0) 100%);
+      transform: rotate(9deg);
+      animation: premiumSweep 5.8s ease-in-out infinite;
+      pointer-events: none;
+      z-index: 1;
+    }
+    .plan-card.premium-cycle > * {
+      position: relative;
+      z-index: 2;
+    }
+    .plan-badge-featured {
+      position: absolute;
+      top: -13px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: linear-gradient(90deg, var(--primary), var(--mint));
+      color: #000;
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 4px 14px;
+      border-radius: 100px;
+      white-space: nowrap;
+    }
+
+    .plan-name {
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--primary);
+      margin-bottom: 8px;
+    }
+    .plan-price {
+      font-family: 'Outfit', sans-serif;
+      font-size: 42px;
+      font-weight: 800;
+      color: #fff;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      margin-bottom: 4px;
+    }
+    .plan-price sub {
+      font-size: 18px;
+      font-weight: 600;
+      vertical-align: baseline;
+      color: var(--muted);
+    }
+    .plan-price sup {
+      font-size: 20px;
+      font-weight: 700;
+      vertical-align: super;
+      line-height: 0;
+    }
+    .plan-period {
+      font-size: 13px;
+      color: var(--muted);
+      margin-bottom: 24px;
+    }
+    .plan-desc {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 24px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid var(--border);
+    }
+    .plan-features {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-bottom: 28px;
+      flex: 1;
+    }
+    .plan-features li {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 13px;
+      color: var(--text);
+      line-height: 1.5;
+    }
+    .plan-features li .check { color: var(--mint); font-size: 14px; flex-shrink: 0; margin-top: 1px; }
+    .plan-features li .cross { color: #EF4444; font-size: 14px; flex-shrink: 0; margin-top: 1px; }
+    .plan-features li.muted { color: var(--muted); }
+
+    .plan-cta {
+      width: 100%;
+      padding: 14px;
+      border-radius: 12px;
+      border: none;
+      font-size: 14px;
+      font-weight: 700;
+      font-family: 'Outfit', sans-serif;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .plan-cta.primary {
+      background: linear-gradient(90deg, var(--primary), var(--mint));
+      color: #000;
+    }
+    .plan-cta.primary:hover { opacity: 0.9; transform: translateY(-1px); }
+    .plan-cta.secondary {
+      background: rgba(255,255,255,0.05);
+      color: var(--muted);
+      border: 1px solid var(--border);
+    }
+    .plan-cta.secondary:hover { background: rgba(255,255,255,0.09); color: var(--text); }
+
+    @keyframes premiumSweep {
+      0% { left: -145%; opacity: 0; }
+      12% { opacity: 0.2; }
+      36% { opacity: 0.85; }
+      52% { left: 150%; opacity: 0; }
+      100% { left: 150%; opacity: 0; }
+    }
+
+    /* ── FAQ ── */
+    .faq {
+      max-width: 640px;
+      margin: 0 auto 80px;
+      padding: 0 24px;
+    }
+    .faq h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 24px;
+      font-weight: 800;
+      color: #fff;
+      text-align: center;
+      margin-bottom: 32px;
+    }
+    .faq-item {
+      border-bottom: 1px solid var(--border);
+      padding: 18px 0;
+    }
+    .faq-q {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .faq-a {
+      font-size: 13px;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      text-align: center;
+      padding: 32px 24px;
+      border-top: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    /* Logo SVG inline */
+    .logo-svg rect { }
+
+    @media (max-width: 600px) {
+      .navbar { padding: 16px 20px; }
+      .hero { padding: 48px 20px 40px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .plan-card.premium-cycle::before {
+        animation: none;
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <a class="navbar-logo" href="index.html">
+      <svg width="32" height="32" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect width="40" height="40" rx="10" fill="#0A1628"/>
+        <rect x="8" y="18" width="24" height="5" rx="2.5" fill="#00B4D8"/>
+        <rect x="17.5" y="8" width="5" height="24" rx="2.5" fill="#00B4D8"/>
+        <rect x="16" y="16" width="8" height="8" rx="2" fill="#00C9E8" opacity="0.7"/>
+      </svg>
+      <span class="navbar-logo-text">MedGradPlus<sup>+</sup></span>
+    </a>
+    <a class="navbar-back" href="index.html">← Voltar ao app</a>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-badge">💳 Planos e Preços</div>
+    <h1>Estude do jeito certo<br />para <span>passar nas provas.</span></h1>
+    <p>
+      Flashcards, questões e materiais construídos aula por aula seguindo o currículo da sua faculdade. Conteúdo para te dar autonomia total — sem precisar de mais nada além do app.
+    </p>
+    <div style="margin-top:20px;display:inline-flex;align-items:center;gap:8px;background:rgba(0,200,150,0.1);border:1px solid rgba(0,200,150,0.25);border-radius:100px;padding:6px 16px;font-size:12px;font-weight:600;color:#00C896;">
+      ✅ Ciclo Básico disponível agora &nbsp;·&nbsp; Ciclo Clínico e Internato em breve
+    </div>
+  </section>
+
+  <!-- Módulos info strip -->
+  <div style="max-width:960px;margin:0 auto 32px;padding:0 24px;">
+    <div style="background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:14px;padding:20px 28px;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;">
+      <div>
+        <div style="font-size:11px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#00C896;margin-bottom:6px;">✅ Disponível agora</div>
+        <div style="font-size:13px;color:#E5E7EB;font-weight:600;">Ciclo Básico — Módulos 1 a 4</div>
+        <div style="font-size:12px;color:#9CA3AF;margin-top:2px;">Anatomia, Fisiologia, Bioquímica, Imunologia, Semiologia, SUS e mais</div>
+      </div>
+      <div>
+        <div style="font-size:11px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#00B4D8;margin-bottom:6px;">🔜 Em construção</div>
+        <div style="font-size:13px;color:#E5E7EB;font-weight:600;">Ciclo Clínico — Módulos 5 a 8</div>
+        <div style="font-size:12px;color:#9CA3AF;margin-top:2px;">Clínica Médica, Cirurgia, Farmacologia Aplicada</div>
+      </div>
+      <div>
+        <div style="font-size:11px;font-weight:700;letter-spacing:0.08em;text-transform:uppercase;color:#9CA3AF;margin-bottom:6px;">📅 Previsto</div>
+        <div style="font-size:13px;color:#E5E7EB;font-weight:600;">Internato — Módulos 9 a 12</div>
+        <div style="font-size:12px;color:#9CA3AF;margin-top:2px;">Preparação para Residência e ENADE</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Plans -->
+  <section class="plans" style="grid-template-columns:repeat(auto-fit,minmax(270px,1fr));max-width:980px;">
+
+    <!-- Gratuito -->
+    <div class="plan-card">
+      <div class="plan-name">Gratuito</div>
+      <div class="plan-price"><sup></sup>R$ <span>0</span></div>
+      <div class="plan-period">para sempre</div>
+      <div class="plan-desc">
+        Conheça o app sem compromisso. Navegue pela grade, veja o que cada módulo cobre e decida antes de comprar.
+      </div>
+      <ul class="plan-features">
+        <li class="muted"><span class="cross">✗</span> Flashcards e revisão espaçada</li>
+        <li class="muted"><span class="cross">✗</span> Banco de questões comentadas</li>
+        <li class="muted"><span class="cross">✗</span> Materiais de apoio por aula</li>
+        <li><span class="check">✓</span> Visualização da grade de matérias</li>
+        <li><span class="check">✓</span> Dashboard de desempenho</li>
+      </ul>
+      <button class="plan-cta secondary" onclick="window.location.href='index.html'">
+        Continuar gratuitamente
+      </button>
+    </div>
+
+    <!-- Por Módulo -->
+    <div class="plan-card">
+      <div class="plan-name">Por Módulo</div>
+      <div class="plan-price"><sup>R$</sup>39<sub>,90</sub></div>
+      <div class="plan-period">por módulo · acesso permanente</div>
+      <div class="plan-desc">
+        Escolha um módulo e tenha acesso completo a ele para sempre. Ideal para focar no semestre atual sem pagar por conteúdo que você ainda não cursa.
+      </div>
+      <ul class="plan-features">
+        <li><span class="check">✓</span> Flashcards do módulo escolhido</li>
+        <li><span class="check">✓</span> Questões comentadas do módulo</li>
+        <li><span class="check">✓</span> Materiais de apoio por aula</li>
+        <li><span class="check">✓</span> Revisão espaçada (SM-2)</li>
+        <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
+        <li class="muted"><span class="cross">✗</span> Outros módulos</li>
+      </ul>
+      <button class="plan-cta secondary" onclick="window.open('https://wa.me/5519997300505?text=' + encodeURIComponent('Olá! Tenho interesse no plano Módulo (R$ 39,90) do MedGrad+. Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'), '_blank')">
+        Quero este módulo
+      </button>
+    </div>
+
+    <!-- Ciclo — destaque premium -->
+    <div class="plan-card featured premium-cycle" style="border-color:rgba(255,200,50,0.45);background:linear-gradient(160deg,rgba(255,200,50,0.10) 0%,rgba(245,158,11,0.06) 40%,rgba(0,180,216,0.04) 100%);box-shadow:0 14px 32px rgba(245,158,11,0.12);">
+      <div class="plan-badge-featured" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;">🏆 Premium</div>
+      <div class="plan-name" style="color:#f59e0b;">Ciclo</div>
+      <div class="plan-price"><sup>R$</sup>119<sub>,90</sub></div>
+      <div class="plan-period">1 ciclo completo · acesso permanente</div>
+      <div class="plan-desc">
+        Compre um ciclo inteiro de uma vez (4 módulos). Hoje, o Ciclo Básico (módulos 1 a 4) já está disponível. Ciclo Clínico e Internato serão liberados em sequência.
+      </div>
+      <ul class="plan-features">
+        <li><span class="check">✓</span> 1 ciclo completo (4 módulos) por compra</li>
+        <li><span class="check">✓</span> Flashcards de todo o ciclo escolhido</li>
+        <li><span class="check">✓</span> Banco completo de questões comentadas</li>
+        <li><span class="check">✓</span> Materiais de apoio por aula</li>
+        <li><span class="check">✓</span> Revisão espaçada (SM-2)</li>
+        <li><span class="check">✓</span> Conteúdo específico para a sua faculdade</li>
+        <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
+      </ul>
+      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="window.open('https://wa.me/5519997300505?text=' + encodeURIComponent('Olá! Tenho interesse no plano Ciclo (R$ 119,90) do MedGrad+. Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'), '_blank')">
+        Quero um Ciclo
+      </button>
+    </div>
+
+  </section>
+
+  <!-- FAQ -->
+  <section class="faq" style="max-width:720px;">
+    <h2>Dúvidas frequentes</h2>
+
+    <div class="faq-item">
+      <div class="faq-q">Como recebo acesso após a compra?</div>
+      <div class="faq-a">Assim que o pagamento for confirmado, você recebe um código de acesso único por e-mail — automaticamente, sem precisar esperar ninguém. É só inserir no app para ativar o seu plano.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">O acesso é permanente?</div>
+      <div class="faq-a">Sim. Todos os planos pagos dão acesso permanente ao conteúdo dos módulos incluídos — sem assinatura, sem renovação, sem surpresa no cartão todo mês.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Quais ciclos já estão disponíveis hoje?</div>
+      <div class="faq-a">Atualmente está disponível o Ciclo Básico (módulos 1 a 4). O Ciclo Clínico (5 a 8) e o Internato (9 a 12) serão liberados nas próximas fases.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">O conteúdo é específico para a minha faculdade?</div>
+      <div class="faq-a">Sim. Flashcards, questões e materiais seguem o plano de ensino da sua faculdade, aula por aula. Não é conteúdo genérico de medicina — é o que vai cair na sua prova.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Posso usar em mais de um dispositivo?</div>
+      <div class="faq-a">Sim. Todos os planos permitem até 2 dispositivos simultâneos. Se precisar de mais, fale com a gente.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Tem garantia de devolução?</div>
+      <div class="faq-a">Sim. Garantia de 7 dias por lei (CDC). Se por qualquer motivo você não gostar, solicite o reembolso dentro do prazo e devolvemos 100%.</div>
+    </div>
+    <div class="faq-item">
+      <div class="faq-q">Como entro em contato?</div>
+      <div class="faq-a">Pelo Instagram ou WhatsApp. O checkout via Kiwify está sendo finalizado e será integrado aqui na página.</div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    MedGradPlus+ · Feito para estudantes de medicina · <a href="index.html" style="color: var(--primary); text-decoration: none;">Voltar ao app</a>
+  </footer>
+
+</body>
+</html>

@@ -21,7 +21,19 @@
       "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo1/pmh/pmh_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo1/pmh/')",
       "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo2/bcm1/bcm1_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo2/bcm1/')",
       "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo2/mad1/mad1_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo2/mad1/')",
-      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo3/mad2/mad2_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo3/mad2/')"
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo3/mad2/mad2_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo3/mad2/')",
+      "Bash(python3:*)",
+      "Bash(curl -sL \"https://meduni9-869eb.web.app/index.html\")",
+      "Bash(curl -sL \"https://meduni9-869eb.web.app/test_table.html\")",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(sed -i 's/Tasks Futuras — MedUni9/Tasks Futuras — MedGradPlus/g' TASKS_FUTURAS.md)",
+      "Bash(sed -i 's/# MedUni9/# MedGradPlus/g; s/MedUni9/MedGradPlus/g' README.md)",
+      "Bash(sed -i 's/MedUni9 — Painel de Automações/MedGradPlus — Painel de Automações/g; s/MedUni9 — Automações/MedGradPlus — Automações/g; s/MedUni9 · Agentes Noturnos/MedGradPlus · Agentes Noturnos/g; s/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/index.html)",
+      "Bash(sed -i 's/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/ingestao_pdfs.html)",
+      "Bash(sed -i 's/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/curadoria_meduni9.html)",
+      "Bash(curl:*)",
+      "Bash(rm:*)"
     ]
   }
 }

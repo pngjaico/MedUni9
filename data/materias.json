@@ -892,53 +892,113 @@
     "aulas": [
       {
         "id": "bmf3_a1",
-        "tema": "Anatomia Macro e Microscópica do Trato Digestivo",
-        "descricao": "Boca, faringe, esôfago, estômago, intestinos delgado e grosso, fígado, pâncreas, vesícula biliar."
+        "tema": "Anatomia do TGI Superior — Boca, Faringe, Esôfago e Estômago",
+        "descricao": "Morfologia e relações anatômicas da boca, faringe, esôfago e estômago; marcas topográficas e implicações clínicas."
       },
       {
         "id": "bmf3_a2",
-        "tema": "Histologia do Trato Digestivo",
-        "descricao": "Camadas da parede do TGI, mucosa, submucosa, muscular e serosa; glândulas."
+        "tema": "Anatomia do TGI Inferior — Intestinos Delgado e Grosso",
+        "descricao": "Duodeno, jejuno, íleo, ceco, cólons, reto e canal anal: subdivisões, ligamento de Treitz, válvula ileocecal e marcos cirúrgicos."
       },
       {
         "id": "bmf3_a3",
-        "tema": "Fisiologia da Digestão — Motilidade, Secreções e Absorção",
-        "descricao": "Motilidade GI, secreções digestivas, absorção de nutrientes e metabolismo."
+        "tema": "Anatomia dos Órgãos Acessórios — Fígado, Pâncreas e Vesícula Biliar",
+        "descricao": "Anatomia macroscópica, segmentação hepática de Couinaud, pâncreas retroperitoneal, triângulo de Calot e ampola de Vater."
       },
       {
         "id": "bmf3_a4",
-        "tema": "Anatomia dos Rins, Ureteres, Bexiga e Uretra",
-        "descricao": "Anatomia macroscópica e microscópica do sistema urinário."
+        "tema": "Histologia do Esôfago e Estômago",
+        "descricao": "Epitélio escamoso esofágico, variação muscular por terço; fossetas gástricas, células parietais, principais, G e ECL; metaplasia de Barrett."
       },
       {
         "id": "bmf3_a5",
-        "tema": "Histologia do Néfron e Sistema Coletor",
-        "descricao": "Estrutura do néfron, glomérulo, túbulos e ductos coletores."
+        "tema": "Histologia do Intestino Delgado e Grosso",
+        "descricao": "Vilosidades, dobras de Kerckring, microvilosidades, células de Paneth, células M, Placas de Peyer; cólon sem vilosidades, linha pectínea."
       },
       {
         "id": "bmf3_a6",
-        "tema": "Fisiologia Renal — Filtração, Reabsorção e Excreção",
-        "descricao": "Filtração glomerular, reabsorção tubular, equilíbrio hidroeletrolítico e ácido-básico."
+        "tema": "Histologia do Fígado, Pâncreas e Vesícula Biliar",
+        "descricao": "Lóbulo hepático clássico, tríade portal, hepatócitos, células de Kupffer e de Ito; ácinos pancreáticos e células centroacinosas; vesícula biliar."
       },
       {
         "id": "bmf3_a7",
-        "tema": "Glândula Suprarrenal — Anatomia, Histologia e Fisiologia",
-        "descricao": "Anatomia macro/microscópica e funções da glândula suprarrenal."
+        "tema": "Fisiologia da Motilidade e Regulação Hormonal Digestiva",
+        "descricao": "Peristaltismo, segmentação, movimentos de massa, esvaziamento gástrico; gastrina, secretina, CCK e GIP: estímulos e efeitos."
       },
       {
         "id": "bmf3_a8",
-        "tema": "Sistema Reprodutor Masculino",
-        "descricao": "Testículos, ductos, glândulas acessórias e pênis: anatomia e histologia."
+        "tema": "Fisiologia das Secreções Digestivas",
+        "descricao": "Saliva, secreção gástrica (fases cefálica, gástrica e intestinal), ativação das proenzimas pancreáticas, bile e ciclo êntero-hepático."
       },
       {
         "id": "bmf3_a9",
-        "tema": "Sistema Reprodutor Feminino",
-        "descricao": "Ovários, tubas uterinas, útero, vagina e genitália externa."
+        "tema": "Fisiologia da Absorção de Nutrientes",
+        "descricao": "Absorção de carboidratos, proteínas, lipídeos (quilomícrons/linfa), vitaminas lipossolúveis, B12, ferro e cálcio: locais e mecanismos."
       },
       {
         "id": "bmf3_a10",
-        "tema": "Fisiologia Reprodutiva",
-        "descricao": "Gametogênese, ciclo menstrual, fertilização, hormônios sexuais, embriologia inicial, parto e lactação."
+        "tema": "Anatomia dos Rins, Ureteres, Bexiga e Uretra",
+        "descricao": "Posição retroperitoneal, hilo renal, pelve renal, ureter, bexiga e uretra: anatomia macro e relações topográficas."
+      },
+      {
+        "id": "bmf3_a11",
+        "tema": "Histologia do Néfron e Sistema Coletor",
+        "descricao": "Glomérulo, cápsula de Bowman, túbulos contorcidos proximal e distal, alça de Henle, ducto coletor e aparelho justaglomerular."
+      },
+      {
+        "id": "bmf3_a12",
+        "tema": "Fisiologia Renal — Filtração Glomerular e TFG",
+        "descricao": "Pressões de Starling no glomérulo, forças de filtração, TFG, clearance de creatinina e regulação do fluxo sanguíneo renal."
+      },
+      {
+        "id": "bmf3_a13",
+        "tema": "Fisiologia Renal — Reabsorção, Secreção e Equilíbrio Hidroeletrolítico",
+        "descricao": "Reabsorção de Na+, glicose e aminoácidos no TCP; alça de Henle e multiplicação contracorrente; ADH e aldosterona no TCD e ducto coletor."
+      },
+      {
+        "id": "bmf3_a14",
+        "tema": "Fisiologia Renal — Equilíbrio Ácido-Básico",
+        "descricao": "Tampões plasmáticos, reabsorção de bicarbonato, secreção de H+, acidose e alcalose metabólica e respiratória: compensação renal."
+      },
+      {
+        "id": "bmf3_a15",
+        "tema": "Glândula Suprarrenal — Anatomia e Histologia",
+        "descricao": "Localização, relações com os rins, irrigação; zonas do córtex (glomerulosa, fasciculada, reticulada) e medula suprarrenal."
+      },
+      {
+        "id": "bmf3_a16",
+        "tema": "Glândula Suprarrenal — Fisiologia do Córtex e da Medula",
+        "descricao": "Mineralocorticoides (aldosterona), glicocorticoides (cortisol), androgênios adrenais; catecolaminas da medula: síntese e regulação."
+      },
+      {
+        "id": "bmf3_a17",
+        "tema": "Anatomia e Histologia do Sistema Reprodutor Masculino",
+        "descricao": "Testículos, epidídimo, ducto deferente, glândulas acessórias e pênis; túbulos seminíferos, células de Leydig e de Sertoli."
+      },
+      {
+        "id": "bmf3_a18",
+        "tema": "Anatomia e Histologia do Sistema Reprodutor Feminino",
+        "descricao": "Ovários, tubas uterinas, útero, vagina e genitália externa: morfologia e histologia; endométrio nas fases do ciclo."
+      },
+      {
+        "id": "bmf3_a19",
+        "tema": "Gametogênese — Espermatogênese e Ovogênese",
+        "descricao": "Mitose e meiose nos gametas; estágios da espermatogênese; foliculogênese, atresia e ovulação."
+      },
+      {
+        "id": "bmf3_a20",
+        "tema": "Ciclo Menstrual e Hormônios Sexuais",
+        "descricao": "Eixo hipotálamo-hipófise-gônadas; FSH, LH, estrogênio e progesterona; fases folicular, ovulatória e lútea."
+      },
+      {
+        "id": "bmf3_a21",
+        "tema": "Fertilização, Embriologia Inicial e Implantação",
+        "descricao": "Fecundação na tuba uterina, segmentação, mórula, blastocisto, implantação e formação inicial da placenta."
+      },
+      {
+        "id": "bmf3_a22",
+        "tema": "Parto, Puerpério e Lactação",
+        "descricao": "Mecanismos neuroendócrinos do parto (ocitocina, prostaglandinas), puerpério e fisiologia da lactação (prolactina, ocitocina)."
       }
     ]
   },
@@ -1656,7 +1716,7 @@
     "nome": "Clínica Médica 5",
     "sigla": "CM5",
     "modulo": 5,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#1D4ED8",
     "descricao": "Principais doenças e síndromes em cardiologia, endocrinologia, nefrologia, neurologia, ORL, oftalmologia e dermatologia clínica.",
@@ -1775,7 +1835,7 @@
     "nome": "Clínica Cirúrgica 5",
     "sigla": "CC5",
     "modulo": 5,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#1E3A5F",
     "descricao": "Princípios da cirurgia geral: avaliação perioperatória, complicações, cicatrização, câncer de pele e urologia cirúrgica.",
@@ -1839,7 +1899,7 @@
     "nome": "Farmacologia Aplicada",
     "sigla": "FARM",
     "modulo": 5,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#9333EA",
     "descricao": "Farmacologia clínica aplicada aos sistemas digestório, respiratório, cardiovascular; antibioticoterapia, antivirais e antiparasitários.",
@@ -1913,7 +1973,7 @@
     "nome": "Clínica Médica 6",
     "sigla": "CM6",
     "modulo": 6,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#1E40AF",
     "descricao": "Gastroenterologia, geriatria, hematologia, pneumologia, reumatologia e cuidados paliativos: diagnóstico, tratamento e manejo integrado.",
@@ -2047,7 +2107,7 @@
     "nome": "Medicina de Família e Comunidade",
     "sigla": "MFC",
     "modulo": 6,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#15803D",
     "descricao": "Atuação clínica do médico de família na APS: linhas de cuidado, rastreamento, diagnósticos e manejo das doenças mais prevalentes.",
@@ -2091,7 +2151,7 @@
     "nome": "Cirurgia e Ortopedia 6",
     "sigla": "CIR6",
     "modulo": 6,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#92400E",
     "descricao": "Cirurgia geral, gastrocirurgia e ortopedia: abdome agudo, hérnias, neoplasias do TGI, fraturas e doenças ortopédicas.",
@@ -2210,7 +2270,7 @@
     "nome": "Técnica Operatória",
     "sigla": "TCAR",
     "modulo": 6,
-    "ativo": true,
+    "ativo": false,
     "icon": "",
     "cor": "#374151",
     "descricao": "Primeiro contato com a prática cirúrgica: assepsia, paramentação, instrumentação, diérese, hemostasia e síntese.",

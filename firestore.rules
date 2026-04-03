@@ -10,6 +10,16 @@
 //   - criadoEm:   string (required) - ISO 8601 date string
 //   - disciplina: string (optional, max 20 chars) - sigla da disciplina
 //
+// Collection: users
+// Document ID: Firebase Auth UID
+// Fields:
+//   - email:     string
+//   - plano:     string
+//   - semestre:  number (1-6)
+//   - codeHash:  string (first 8 chars of hashed access code)
+//   - deviceId:  string
+//   - criadoEm:  string (ISO 8601)
+//
 // ===============================================================
 
 rules_version = '2';
@@ -21,18 +31,57 @@ service cloud.firestore {
       allow read, write: if false;
     }
 
-    match /feedback/{docId} {
-      // Ninguém lê, atualiza ou deleta pelo client
-      allow read, update, delete: if false;
+    // Users: each user can only read/write their own profile
+    match /users/{userId} {
+      allow read:   if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow create: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow update: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow delete: if false;
+    }
 
-      // Qualquer pessoa pode enviar feedback com validação estrita dos campos
+    match /profile_change_requests/{requestId} {
+      allow create: if request.auth != null &&
+                    request.resource.data.userId == request.auth.uid &&
+                    request.resource.data.status == 'pending';
+      allow read: if isAdmin() ||
+                  (request.auth != null && resource.data.userId == request.auth.uid);
+      allow update: if isAdmin();
+      allow delete: if false;
+    }
+
+    match /feedback/{docId} {
+      allow read, update, delete: if false;
       allow create: if isValidFeedback();
     }
+  }
+
+  function isAdmin() {
+    return request.auth != null &&
+           request.auth.token.email_verified == true &&
+           request.auth.token.email in ['pngjaico@gmail.com'];
   }
 
   // ===============================================================
   // Helper Functions
   // ===============================================================
+
+  function isValidUserProfile() {
+    let d = request.resource.data;
+    return d.keys().hasAll(['email', 'plano', 'semestre', 'criadoEm']) &&
+           d.keys().hasOnly(['email', 'plano', 'semestre', 'codeHash', 'deviceId', 'criadoEm', 'loginDate', 'modulo']) &&
+           d.email is string && d.email.size() <= 200 &&
+           d.plano is string && d.plano in ['basico', 'completo', 'vitalicio', 'premium', 'trial'] &&
+           d.semestre is number && d.semestre >= 1 && d.semestre <= 6 &&
+           d.criadoEm is string;
+  }
+
+  function isValidUserProfileUpdate() {
+    let d = request.resource.data;
+    return d.keys().hasOnly(['email', 'plano', 'semestre', 'codeHash', 'deviceId', 'criadoEm', 'loginDate', 'modulo']) &&
+           d.email is string &&
+           d.plano is string &&
+           d.semestre is number && d.semestre >= 1 && d.semestre <= 6;
+  }
 
   function isValidTipo() {
     return request.resource.data.tipo is string &&
