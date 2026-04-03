@@ -23,7 +23,7 @@ MATERIAS_PATH = ROOT / "data" / "materias.json"
 FLASHCARDS_PATH = ROOT / "data" / "flashcards.json"
 QUESTOES_PATH = ROOT / "data" / "questoes.json"
 REPORT_PATH = ROOT / "data" / "agent_logs" / "prioridades_materiais.json"
-OUTPUT_BASE = ROOT / "conteudos" / "materiais"
+OUTPUT_BASE = ROOT / "materiais"
 
 DEFAULT_ESTRATEGICAS = [
     "bmf1",

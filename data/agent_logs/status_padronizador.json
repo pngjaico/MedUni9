@@ -1,7 +1,1670 @@
 {
-  "status": "idle",
-  "rodou_em": null,
-  "arquivos_renomeados": 0,
-  "acoes": [],
-  "observacoes": "Aguardando primeira execução."
+  "status": "pendente",
+  "rodou_em": "02/04/2026 23:12",
+  "total_analisados": 86,
+  "com_problema": 86,
+  "sem_problema": 0,
+  "pct_ok": 0.0,
+  "fila_revisao": [
+    {
+      "aula_id": "mad1_a1",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Funções Básicas e Componentes do Sistema Imune",
+      "path": "materiais/modulo2/mad1/mad1_a1.md",
+      "tamanho_chars": 1969,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1969chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a2",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Imunidade Inata",
+      "path": "materiais/modulo2/mad1/mad1_a2.md",
+      "tamanho_chars": 1886,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1886chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a3",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Imunidade Adaptativa",
+      "path": "materiais/modulo2/mad1/mad1_a3.md",
+      "tamanho_chars": 1898,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1898chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a4",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Inflamação Aguda e Crônica",
+      "path": "materiais/modulo2/mad1/mad1_a4.md",
+      "tamanho_chars": 1922,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1922chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a5",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Hemograma — Interpretação e Nomenclatura",
+      "path": "materiais/modulo2/mad1/mad1_a5.md",
+      "tamanho_chars": 1922,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1922chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a6",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Imunização — Tipos de Vacinas",
+      "path": "materiais/modulo2/mad1/mad1_a6.md",
+      "tamanho_chars": 1899,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1899chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a7",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Imunodeficiências",
+      "path": "materiais/modulo2/mad1/mad1_a7.md",
+      "tamanho_chars": 1863,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1863chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad1_a8",
+      "materia_id": "mad1",
+      "modulo": 2,
+      "tema": "Tolerância Imunológica e Autoimunidade",
+      "path": "materiais/modulo2/mad1/mad1_a8.md",
+      "tamanho_chars": 1907,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1907chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a1",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Organização da Célula Eucariótica",
+      "path": "materiais/modulo2/bcm1/bcm1_a1.md",
+      "tamanho_chars": 1885,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1885chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a2",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Tampões Biológicos e Gasometria",
+      "path": "materiais/modulo2/bcm1/bcm1_a2.md",
+      "tamanho_chars": 1902,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1902chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a3",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Organização Genômica e Estrutura Gênica",
+      "path": "materiais/modulo2/bcm1/bcm1_a3.md",
+      "tamanho_chars": 1917,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1917chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a4",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Sinalização Celular",
+      "path": "materiais/modulo2/bcm1/bcm1_a4.md",
+      "tamanho_chars": 1908,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:vias,função,regulação",
+        "conteudo_curto:1908chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a5",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Replicação do DNA e PCR",
+      "path": "materiais/modulo2/bcm1/bcm1_a5.md",
+      "tamanho_chars": 1886,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1886chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a6",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Transcrição e Controle da Expressão Gênica",
+      "path": "materiais/modulo2/bcm1/bcm1_a6.md",
+      "tamanho_chars": 1932,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1932chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a7",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Tradução de Proteínas",
+      "path": "materiais/modulo2/bcm1/bcm1_a7.md",
+      "tamanho_chars": 1885,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1885chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bcm1_a8",
+      "materia_id": "bcm1",
+      "modulo": 2,
+      "tema": "Controle da Expressão Gênica e Doenças",
+      "path": "materiais/modulo2/bcm1/bcm1_a8.md",
+      "tamanho_chars": 1897,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1897chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a1",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Imunodeficiências Primárias",
+      "path": "materiais/modulo3/mad2/mad2_a1.md",
+      "tamanho_chars": 1906,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1906chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a2",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Tolerância Imunológica",
+      "path": "materiais/modulo3/mad2/mad2_a2.md",
+      "tamanho_chars": 1902,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1902chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a3",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Autoimunidade",
+      "path": "materiais/modulo3/mad2/mad2_a3.md",
+      "tamanho_chars": 1863,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1863chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a4",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Transplantes e Transfusão Sanguínea",
+      "path": "materiais/modulo3/mad2/mad2_a4.md",
+      "tamanho_chars": 1910,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1910chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a5",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "ISTs Bacterianas — Treponema, Neisseria, Chlamydia",
+      "path": "materiais/modulo3/mad2/mad2_a5.md",
+      "tamanho_chars": 1940,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1940chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a6",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Infecções Bacterianas do Tegumento e Hanseníase",
+      "path": "materiais/modulo3/mad2/mad2_a6.md",
+      "tamanho_chars": 1915,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1915chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a7",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Doenças Exantemáticas Virais (Sarampo, Rubéola)",
+      "path": "materiais/modulo3/mad2/mad2_a7.md",
+      "tamanho_chars": 1939,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1939chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "mad2_a8",
+      "materia_id": "mad2",
+      "modulo": 3,
+      "tema": "Hepatites Virais (A a E)",
+      "path": "materiais/modulo3/mad2/mad2_a8.md",
+      "tamanho_chars": 1870,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1870chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a1",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Patologia Geral — Lesão Celular e Distúrbios Circulatórios",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a1.md",
+      "tamanho_chars": 2022,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:2022chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a2",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Princípios de Farmacoterapia",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a2.md",
+      "tamanho_chars": 1961,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:vias,função,regulação",
+        "conteudo_curto:1961chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a3",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "AINEs, Corticoides e Antineoplásicos",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a3.md",
+      "tamanho_chars": 1963,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1963chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a4",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Fisiopatologia das Doenças Cerebrovasculares",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a4.md",
+      "tamanho_chars": 1987,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1987chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a5",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Neoplasias Primárias do SNC",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a5.md",
+      "tamanho_chars": 1955,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1955chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a6",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Farmacologia do SNA — Simpático e Parassimpático",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a6.md",
+      "tamanho_chars": 2003,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:2003chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a7",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Bloqueadores Neuromusculares e Opioides",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a7.md",
+      "tamanho_chars": 1953,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1953chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "ff4_a8",
+      "materia_id": "fisiopato_farmaco",
+      "modulo": 4,
+      "tema": "Anestésicos Locais e Gerais",
+      "path": "materiais/modulo4/fisiopato_farmaco/ff4_a8.md",
+      "tamanho_chars": 1945,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_secoes_numeradas",
+        "sem_preprova",
+        "acentuacao:função,regulação",
+        "conteudo_curto:1945chars"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 112,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a9",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Ferramentas de Abordagem Familiar e Comunitária",
+      "path": "materiais/modulo1/sus/sus_a9.md",
+      "tamanho_chars": 9087,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a21",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia do Fígado, Vias Biliares e Pâncreas",
+      "path": "materiais/modulo1/bmf1/bmf1_a21.md",
+      "tamanho_chars": 8352,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:vias"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a1",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "path": "materiais/modulo1/pmh/pmh_a1.md",
+      "tamanho_chars": 6665,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:vias,energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a2",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Regulação Metabólica Geral",
+      "path": "materiais/modulo1/pmh/pmh_a2.md",
+      "tamanho_chars": 7291,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a3",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Glicólise e Gliconeogênese",
+      "path": "materiais/modulo1/pmh/pmh_a3.md",
+      "tamanho_chars": 7152,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:vias,energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a4",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Ciclo de Krebs e Fosforilação Oxidativa",
+      "path": "materiais/modulo1/pmh/pmh_a4.md",
+      "tamanho_chars": 6527,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a5",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Metabolismo de Glicogênio e Via das Pentoses",
+      "path": "materiais/modulo1/pmh/pmh_a5.md",
+      "tamanho_chars": 7647,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a6",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "path": "materiais/modulo1/pmh/pmh_a6.md",
+      "tamanho_chars": 7856,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:vias"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a7",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Beta-oxidação e Síntese de Ácidos Graxos",
+      "path": "materiais/modulo1/pmh/pmh_a7.md",
+      "tamanho_chars": 7391,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a8",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "path": "materiais/modulo1/pmh/pmh_a8.md",
+      "tamanho_chars": 6728,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a10",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Transaminação, Desaminação e Ciclo da Ureia",
+      "path": "materiais/modulo1/pmh/pmh_a10.md",
+      "tamanho_chars": 7566,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a11",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "path": "materiais/modulo1/pmh/pmh_a11.md",
+      "tamanho_chars": 7992,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a12",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Biossíntese e Degradação de Nucleotídeos",
+      "path": "materiais/modulo1/pmh/pmh_a12.md",
+      "tamanho_chars": 7922,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:vias"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a13",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Integração Metabólica entre Órgãos",
+      "path": "materiais/modulo1/pmh/pmh_a13.md",
+      "tamanho_chars": 7906,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a14",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Adaptações Metabólicas e Aplicações Clínicas",
+      "path": "materiais/modulo1/pmh/pmh_a14.md",
+      "tamanho_chars": 10036,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova",
+        "acentuacao:energia"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 62,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a1",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Processo Saúde-Doença e Determinantes Sociais",
+      "path": "materiais/modulo1/sus/sus_a1.md",
+      "tamanho_chars": 9389,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a2",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Antecedentes Históricos do SUS — Período Colonial ao Regime Militar",
+      "path": "materiais/modulo1/sus/sus_a2.md",
+      "tamanho_chars": 8433,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a3",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária",
+      "path": "materiais/modulo1/sus/sus_a3.md",
+      "tamanho_chars": 7850,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a4",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "O SUS e as Leis Orgânicas da Saúde",
+      "path": "materiais/modulo1/sus/sus_a4.md",
+      "tamanho_chars": 7717,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a5",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Pacto pela Vida",
+      "path": "materiais/modulo1/sus/sus_a5.md",
+      "tamanho_chars": 7240,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a6",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Pacto pela Gestão — RAS e Regionalização",
+      "path": "materiais/modulo1/sus/sus_a6.md",
+      "tamanho_chars": 8056,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a7",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "Pacto em Defesa do SUS",
+      "path": "materiais/modulo1/sus/sus_a7.md",
+      "tamanho_chars": 7260,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "sus_a8",
+      "materia_id": "sus",
+      "modulo": 1,
+      "tema": "PNAB e Estratégia Saúde da Família",
+      "path": "materiais/modulo1/sus/sus_a8.md",
+      "tamanho_chars": 7914,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a1",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Fundamentos da Semiologia Musculoesquelética",
+      "path": "materiais/modulo1/semiologia1/semio1_a1.md",
+      "tamanho_chars": 7362,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a2",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Anamnese Dirigida do Aparelho Locomotor",
+      "path": "materiais/modulo1/semiologia1/semio1_a2.md",
+      "tamanho_chars": 7399,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a3",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Exame Físico — Inspeção",
+      "path": "materiais/modulo1/semiologia1/semio1_a3.md",
+      "tamanho_chars": 6738,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a4",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Exame Físico — Palpação",
+      "path": "materiais/modulo1/semiologia1/semio1_a4.md",
+      "tamanho_chars": 7491,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a5",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Testes de Mobilidade e Força Muscular",
+      "path": "materiais/modulo1/semiologia1/semio1_a5.md",
+      "tamanho_chars": 7826,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a6",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Síndromes Musculoesqueléticas e Propedêutica",
+      "path": "materiais/modulo1/semiologia1/semio1_a6.md",
+      "tamanho_chars": 7801,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a1",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Introdução ao Estudo da Anatomia Humana",
+      "path": "materiais/modulo1/bmf1/bmf1_a1.md",
+      "tamanho_chars": 6682,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a2",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Introdução aos Tecidos Humanos",
+      "path": "materiais/modulo1/bmf1/bmf1_a2.md",
+      "tamanho_chars": 7096,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a3",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Esquelético",
+      "path": "materiais/modulo1/bmf1/bmf1_a3.md",
+      "tamanho_chars": 6966,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a4",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Conjuntivo — Células e Matriz",
+      "path": "materiais/modulo1/bmf1/bmf1_a4.md",
+      "tamanho_chars": 7252,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a5",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Ósseo — Estrutura e Ossificação",
+      "path": "materiais/modulo1/bmf1/bmf1_a5.md",
+      "tamanho_chars": 8211,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a6",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores",
+      "path": "materiais/modulo1/bmf1/bmf1_a6.md",
+      "tamanho_chars": 7363,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a7",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Articular",
+      "path": "materiais/modulo1/bmf1/bmf1_a7.md",
+      "tamanho_chars": 6987,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a8",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Tecido Cartilaginoso",
+      "path": "materiais/modulo1/bmf1/bmf1_a8.md",
+      "tamanho_chars": 6991,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a9",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Articulações da Coluna e Membros",
+      "path": "materiais/modulo1/bmf1/bmf1_a9.md",
+      "tamanho_chars": 7339,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a10",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Generalidades do Sistema Muscular",
+      "path": "materiais/modulo1/bmf1/bmf1_a10.md",
+      "tamanho_chars": 7205,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a11",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Histologia do Tecido Muscular",
+      "path": "materiais/modulo1/bmf1/bmf1_a11.md",
+      "tamanho_chars": 7035,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a12",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Fisiologia da Contração Muscular",
+      "path": "materiais/modulo1/bmf1/bmf1_a12.md",
+      "tamanho_chars": 7474,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a13",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
+      "path": "materiais/modulo1/bmf1/bmf1_a13.md",
+      "tamanho_chars": 7272,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a14",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Tegumento — Tecido Epitelial de Revestimento",
+      "path": "materiais/modulo1/bmf1/bmf1_a14.md",
+      "tamanho_chars": 8300,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a15",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Tegumento — Tecido Epitelial Glandular",
+      "path": "materiais/modulo1/bmf1/bmf1_a15.md",
+      "tamanho_chars": 7714,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a16",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Histologia do Tegumento e Tecido Adiposo",
+      "path": "materiais/modulo1/bmf1/bmf1_a16.md",
+      "tamanho_chars": 7744,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a17",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe",
+      "path": "materiais/modulo1/bmf1/bmf1_a17.md",
+      "tamanho_chars": 8182,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a18",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia da Parede Abdominal e Peritônio",
+      "path": "materiais/modulo1/bmf1/bmf1_a18.md",
+      "tamanho_chars": 7512,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a19",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Anatomia dos Intestinos Delgado e Grosso",
+      "path": "materiais/modulo1/bmf1/bmf1_a19.md",
+      "tamanho_chars": 7531,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a20",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Inervação e Vascularização Gastrointestinal",
+      "path": "materiais/modulo1/bmf1/bmf1_a20.md",
+      "tamanho_chars": 7832,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "bmf1_a22",
+      "materia_id": "bmf1",
+      "modulo": 1,
+      "tema": "Prática — Sistema Digestório em Anatomia",
+      "path": "materiais/modulo1/bmf1/bmf1_a22.md",
+      "tamanho_chars": 8100,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "pmh_a9",
+      "materia_id": "pmh",
+      "modulo": 1,
+      "tema": "Aplicações Clínicas dos Lipídios",
+      "path": "materiais/modulo1/pmh/pmh_a9.md",
+      "tamanho_chars": 7000,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo",
+        "sem_preprova"
+      ],
+      "warnings": [
+        "sem_ponte_clinica"
+      ],
+      "score_urgencia": 52,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a7",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Prática Simulada — Manequins e Pacientes Padronizados",
+      "path": "materiais/modulo1/semiologia1/semio1_a7.md",
+      "tamanho_chars": 5423,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo"
+      ],
+      "warnings": [
+        "menciona_banca"
+      ],
+      "score_urgencia": 22,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a8",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Prática Real — Ambulatório Supervisionado",
+      "path": "materiais/modulo1/semiologia1/semio1_a8.md",
+      "tamanho_chars": 5596,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo"
+      ],
+      "warnings": [],
+      "score_urgencia": 20,
+      "precisa_revisao": true
+    },
+    {
+      "aula_id": "semio1_a9",
+      "materia_id": "semiologia1",
+      "modulo": 1,
+      "tema": "Reunião Clínica — Casos Musculoesqueléticos",
+      "path": "materiais/modulo1/semiologia1/semio1_a9.md",
+      "tamanho_chars": 7552,
+      "problemas": [
+        "sem_breadcrumb",
+        "sem_metadata_tempo"
+      ],
+      "warnings": [],
+      "score_urgencia": 20,
+      "precisa_revisao": true
+    }
+  ],
+  "arquivos_ok": [],
+  "acoes": [
+    {
+      "tipo": "info",
+      "hora": "23:12",
+      "texto": "Analisados: 86 arquivos — 86 com problemas"
+    }
+  ]
 }
