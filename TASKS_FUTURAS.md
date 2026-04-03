@@ -1,4 +1,4 @@
-# Tasks Futuras — MedUni9
+# Tasks Futuras — MedGradPlus
 
 > Arquivo de backlog de funcionalidades planejadas mas ainda não implementadas.
 > Atualizar sempre que uma task for concluída ou uma nova ideia surgir.

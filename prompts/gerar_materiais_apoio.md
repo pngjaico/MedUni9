@@ -1,4 +1,4 @@
-# Guia Completo: Geração de Materiais de Apoio — MedUni9
+# Guia Completo: Geração de Materiais de Apoio — MedGradPlus
 
 > Este arquivo é o guia único e autoritativo para gerar materiais de apoio do app MedUni9.
 > Leia-o por completo antes de escrever qualquer arquivo.
@@ -7,7 +7,7 @@
 
 ## 1. Contexto do Projeto
 
-**App:** MedUni9 — PWA de estudos de medicina para alunos da Uninove (1º semestre).
+**App:** MedGradPlus — PWA de estudos de medicina para alunos da Uninove (1º semestre).
 **URL:** `meduni9-869eb.web.app`
 **Stack:** único `index.html` com React 18 via CDN + Firebase Hosting.
 **Materiais:** arquivos `.md` servidos estaticamente pelo Firebase. O app os busca via `fetch()` e renderiza o markdown com uma biblioteca própria.

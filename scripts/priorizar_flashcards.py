@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-priorizar_flashcards.py — MedUni9 Flashcard Priority Queue
+priorizar_flashcards.py — MedGradPlus Flashcard Priority Queue
 
 Lê materias.json, materiais/ e flashcards.json.
 Lista aulas que têm material mas flashcards insuficientes (< 12).

@@ -10,7 +10,7 @@ cd /d "%~dp0.."
 
 echo.
 echo ============================================================
-echo   APROVADOR DE RELATÓRIOS — MedUni9
+echo   APROVADOR DE RELATÓRIOS — MedGradPlus
 echo ============================================================
 echo.
 

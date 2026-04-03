@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-analisar_cobertura.py — MedUni9 Coverage Analyzer
+analisar_cobertura.py — MedGradPlus Coverage Analyzer
 
 Lê materias.json, materiais/, flashcards.json e questoes.json.
 Calcula cobertura por aula: tem material? quantos flashcards? quantas questões?

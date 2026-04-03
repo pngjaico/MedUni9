@@ -1,5 +1,5 @@
 """
-processar_feedback.py — MedUni9 Feedback Collector
+processar_feedback.py — MedGradPlus Feedback Collector
 Puxa feedback do Firestore → salva bruto em arquivos individuais em data/feedback/incoming/ → deleta do Firestore
 
 Dependências:

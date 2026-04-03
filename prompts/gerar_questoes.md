@@ -1,4 +1,4 @@
-# Guia de Geração de Questões — MedUni9
+# Guia de Geração de Questões — MedGradPlus
 
 > Leia este arquivo antes de gerar qualquer questão.
 > Quantidades por aula e schedules ficam nos arquivos de agente.

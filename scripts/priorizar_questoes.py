@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-priorizar_questoes.py — MedUni9 Question Priority Queue
+priorizar_questoes.py — MedGradPlus Question Priority Queue
 
 Lê materias.json, materiais/ e questoes.json.
 Lista aulas que têm material mas questões insuficientes (< 5).

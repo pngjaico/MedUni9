@@ -4,10 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <meta name="theme-color" content="#00B4D8">
-  <meta name="description" content="MedUni9 - Plataforma de estudos para alunos de medicina da Uninove Vergueiro">
+  <meta name="description" content="MedGradPlus — Plataforma de estudos para estudantes de medicina">
+  <title>MedGradPlus</title>
   <link rel="manifest" href="manifest.json">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%2300B4D8' width='192' height='192'/><text x='96' y='120' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>🩺</text></svg>">
-  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%2300B4D8' width='192' height='192'/><text x='96' y='120' font-size='80' fill='white' text-anchor='middle' font-weight='bold'>🩺</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%230A1628'/><rect x='13' y='28' width='38' height='8' rx='3' fill='%2300B4D8'/><rect x='28' y='13' width='8' height='38' rx='3' fill='%2300B4D8'/><rect x='26' y='26' width='12' height='12' rx='2' fill='%2300C9E8'/></svg>">
+  <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230A1628'/><rect x='38' y='84' width='116' height='24' rx='8' fill='%2300B4D8'/><rect x='84' y='38' width='24' height='116' rx='8' fill='%2300B4D8'/><rect x='78' y='78' width='36' height='36' rx='6' fill='%2300C9E8'/></svg>">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700;800&family=Lexend:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -1858,6 +1859,83 @@
       color: var(--primary);
     }
 
+    .institution-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 16px;
+    }
+
+    .institution-card {
+      border: 1px solid var(--border-card);
+      border-radius: 14px;
+      padding: 14px;
+      background: var(--bg-card);
+      cursor: pointer;
+      transition: all 0.2s ease;
+      min-height: 92px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .institution-card:hover {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.08);
+    }
+
+    .institution-card.selected {
+      border-color: var(--primary);
+      background: rgba(0, 180, 216, 0.12);
+      box-shadow: 0 0 0 1px rgba(0, 180, 216, 0.15) inset;
+    }
+
+    .institution-card.disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      filter: grayscale(0.15);
+    }
+
+    .institution-name {
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-primary);
+      line-height: 1.3;
+    }
+
+    .institution-meta {
+      font-size: 11px;
+      color: var(--text-secondary);
+      line-height: 1.4;
+    }
+
+    .institution-badge {
+      display: inline-flex;
+      align-items: center;
+      width: fit-content;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-radius: 999px;
+      padding: 4px 8px;
+      background: rgba(0, 180, 216, 0.15);
+      color: var(--primary);
+    }
+
+    .institution-badge.soon {
+      background: rgba(255,255,255,0.08);
+      color: var(--text-secondary);
+    }
+
+    .institution-helper {
+      font-size: 12px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      line-height: 1.5;
+    }
+
     /* Semester group headers in subject lists */
     .semester-group-header {
       font-size: 12px;
@@ -2280,7 +2358,7 @@
             });
           });
         }).catch(function(err) {
-          console.warn('MedUni9: SW registration failed:', err);
+          console.warn('MedGrad+: SW registration failed:', err);
         });
 
         // Recarregar quando novo SW assumir o controle
@@ -2295,12 +2373,12 @@
     }
   </script>
 
-  <!-- Firebase SDK (Feedback collection via Firestore) -->
+  <!-- Firebase SDK (Auth + Firestore) -->
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
-    import { getFirestore, collection, addDoc }  from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
-    // ATENÇÃO: substitua os valores abaixo com os do seu projeto Firebase
-    // Firebase Console → Project Settings → Your Apps → SDK setup
+    import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+    import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut, sendPasswordResetEmail, updateProfile } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
+
     const _fbConfig = {
       apiKey:            "AIzaSyAtklKLpkfG2pGyWGmZfNpp_mc3cMINNTQ",
       authDomain:        "meduni9-869eb.firebaseapp.com",
@@ -2309,25 +2387,44 @@
       messagingSenderId: "973084052366",
       appId:             "1:973084052366:web:6bc6287d3d7bd983d8f2df"
     };
-    const _fbApp = initializeApp(_fbConfig);
-    const _db    = getFirestore(_fbApp);
+    const _fbApp  = initializeApp(_fbConfig);
+    const _db     = getFirestore(_fbApp);
+    const _auth   = getAuth(_fbApp);
+    const _gprov  = new GoogleAuthProvider();
+
     // Expor para o React (type=text/babel não é module, usa window)
     window.__fbAddFeedback = async (payload) => {
       return addDoc(collection(_db, 'feedback'), payload);
+    };
+    window.__fbAuth            = _auth;
+    window.__fbDb              = _db;
+    window.__fbGoogleProvider  = _gprov;
+    window.__fbFirestore       = { doc, getDoc, setDoc, collection, addDoc, getDocs, query, where, updateDoc };
+    window.__fbAuthFns         = {
+      createUserWithEmailAndPassword,
+      signInWithEmailAndPassword,
+      signInWithPopup,
+      onAuthStateChanged,
+      signOut,
+      sendPasswordResetEmail,
+      updateProfile,
     };
   </script>
 
   <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
 
   <script type="text/babel">
     const { useState, useEffect, useRef, useCallback, useMemo } = React;
 
     // ===================== Markdown renderer =====================
     function renderMd(text) {
-      return marked.parse(text)
+      const cleaned = text
+        .replace(/\r\n/g, '\n')
+        .replace(/(\|[^\n]*)\n\n+(?=\|)/g, '$1\n');
+      return marked.parse(cleaned)
         .replace(/<table>/g, '<div class="table-wrap"><table>')
         .replace(/<\/table>/g, '</table></div>');
     }
@@ -2459,7 +2556,7 @@
       try {
         const canvas = document.createElement('canvas');
         const ctx = canvas.getContext('2d');
-        ctx.fillText('MedUni9', 10, 10);
+        ctx.fillText('MedGradPlus', 10, 10);
         canvas_hash = canvas.toDataURL().substring(0, 50);
       } catch (e) {}
 
@@ -2681,13 +2778,21 @@
       </svg>
     );
 
-    const IconLogoMed = ({ size = 28 }) => (
-      <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-        <path d="M4.8 2.3A.3.3 0 1 0 5 2H4a2 2 0 0 0-2 2v5a6 6 0 0 0 6 6 6 6 0 0 0 6-6V4a2 2 0 0 0-2-2h-1a.2.2 0 1 0 .3.3"/>
-        <path d="M8 15a6 6 0 0 0 6 6h0a6 6 0 0 0 6-6v-3"/>
-        <circle cx="20" cy="10" r="2"/>
+    /* ── Logo MedGradPlus — ícone marca ── */
+    const LogoIcon = ({ size = 28 }) => (
+      <svg width={size} height={size} viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="MedGradPlus logo">
+        {/* Fundo arredondado navy */}
+        <rect width="40" height="40" rx="9" fill="#0A1628"/>
+        {/* Cruz médica — barra horizontal */}
+        <rect x="7" y="16" width="26" height="8" rx="2.5" fill="#00B4D8"/>
+        {/* Cruz médica — barra vertical */}
+        <rect x="16" y="7" width="8" height="26" rx="2.5" fill="#00B4D8"/>
+        {/* Centro — brilho */}
+        <rect x="15" y="15" width="10" height="10" rx="2" fill="#00D4F5"/>
       </svg>
     );
+    /* Alias para compatibilidade com componentes antigos */
+    const IconLogoMed = LogoIcon;
 
     // Subject icon mapping — materia.id → {svg, color}
     const I = (d) => () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">{d}</svg>;
@@ -2789,8 +2894,8 @@
 
       return (
         <div className="splash-screen">
-          <div className="splash-logo"><IconLogoMed size={64} /></div>
-          <div className="splash-text">MedUni9</div>
+          <div className="splash-logo"><LogoIcon size={72} /></div>
+          <div className="splash-text">MedGradPlus<sup style={{fontSize:'0.45em',color:'#00D4F5',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'2px'}}>+</sup></div>
         </div>
       );
     };
@@ -2853,247 +2958,679 @@
       localStorage.removeItem('meduni9_rl');
     }
 
+    const FACULTY_CATALOG = [
+      {
+        id: 'uninove',
+        name: 'Universidade Nove de Julho',
+        shortName: 'Uninove',
+        city: 'São Paulo',
+        active: true,
+        campi: [
+          { id: 'vergueiro', name: 'Vergueiro', active: true },
+          { id: 'memorial', name: 'Memorial', active: false },
+          { id: 'santo-amaro', name: 'Santo Amaro', active: false },
+          { id: 'vila-maria', name: 'Vila Maria', active: false },
+          { id: 'vila-prudente', name: 'Vila Prudente', active: false },
+          { id: 'sao-bernardo', name: 'São Bernardo', active: false },
+          { id: 'guarulhos', name: 'Guarulhos', active: false },
+          { id: 'bauru', name: 'Bauru', active: false },
+        ],
+      },
+      {
+        id: 'anhembi-morumbi',
+        name: 'Universidade Anhembi Morumbi',
+        shortName: 'Anhembi',
+        city: 'São Paulo',
+        active: false,
+        campi: [{ id: 'mooca', name: 'Mooca', active: false }],
+      },
+      {
+        id: 'sao-camilo',
+        name: 'Centro Universitário São Camilo',
+        shortName: 'São Camilo',
+        city: 'São Paulo',
+        active: false,
+        campi: [{ id: 'ipiranga', name: 'Ipiranga', active: false }],
+      },
+      {
+        id: 'unisa',
+        name: 'Universidade Santo Amaro',
+        shortName: 'UNISA',
+        city: 'São Paulo',
+        active: false,
+        campi: [{ id: 'interlagos', name: 'Interlagos', active: false }],
+      },
+      {
+        id: 'unicid',
+        name: 'Universidade Cidade de São Paulo',
+        shortName: 'UNICID',
+        city: 'São Paulo',
+        active: false,
+        campi: [{ id: 'tatuape', name: 'Tatuapé', active: false }],
+      },
+      {
+        id: 'santa-marcelina',
+        name: 'Faculdade Santa Marcelina',
+        shortName: 'Santa Marcelina',
+        city: 'São Paulo',
+        active: false,
+        campi: [{ id: 'itaquera', name: 'Itaquera', active: false }],
+      },
+    ];
+
+    const DEFAULT_FACULTY_ID = 'uninove';
+    const DEFAULT_CAMPUS_ID = 'vergueiro';
+
+    function getFacultyById(facultyId) {
+      return FACULTY_CATALOG.find(f => f.id === facultyId) || FACULTY_CATALOG[0];
+    }
+
+    function getCampusById(facultyId, campusId) {
+      const faculty = getFacultyById(facultyId);
+      return faculty?.campi?.find(c => c.id === campusId) || null;
+    }
+
+    function getFirstActiveCampus(faculty) {
+      return (faculty?.campi || []).find(c => c.active) || faculty?.campi?.[0] || null;
+    }
+
+    function normalizeUserProfile(profile = {}) {
+      const faculty = getFacultyById(profile.faculdadeId || profile.facultyId || DEFAULT_FACULTY_ID);
+      const campus = getCampusById(faculty.id, profile.campusId || DEFAULT_CAMPUS_ID) || getFirstActiveCampus(faculty);
+      const semestre = Number(profile.semestre || profile.modulo || 1);
+
+      return {
+        ...profile,
+        plano: profile.plano || 'basico',
+        semestre: Number.isFinite(semestre) && semestre > 0 ? semestre : 1,
+        modulo: Number.isFinite(semestre) && semestre > 0 ? semestre : 1,
+        faculdadeId: faculty.id,
+        faculdadeNome: faculty.name,
+        campusId: campus?.id || DEFAULT_CAMPUS_ID,
+        campusNome: campus?.name || 'Vergueiro',
+      };
+    }
+
+    function encodeProfileMarker(profile) {
+      const normalized = normalizeUserProfile(profile);
+      return [
+        'mgp',
+        normalized.plano || 'basico',
+        String(normalized.semestre || normalized.modulo || 1),
+        normalized.codeHash || '',
+        normalized.faculdadeId || DEFAULT_FACULTY_ID,
+        normalized.campusId || DEFAULT_CAMPUS_ID,
+      ].join('|');
+    }
+
+    function decodeProfileMarker(fbUser) {
+      const raw = fbUser?.displayName || '';
+      if (!raw.startsWith('mgp|')) return null;
+      const [, plano, semestreRaw, codeHash, faculdadeId, campusId] = raw.split('|');
+      return normalizeUserProfile({
+        uid: fbUser.uid,
+        email: fbUser.email || '',
+        plano: plano || 'basico',
+        semestre: Number(semestreRaw || 1),
+        modulo: Number(semestreRaw || 1),
+        codeHash: codeHash || '',
+        faculdadeId: faculdadeId || DEFAULT_FACULTY_ID,
+        campusId: campusId || DEFAULT_CAMPUS_ID,
+        loginDate: new Date().toISOString(),
+      });
+    }
+
+    async function saveUserProfile(fbUser, profile) {
+      const normalized = normalizeUserProfile(profile);
+      const { updateProfile } = window.__fbAuthFns;
+      await updateProfile(fbUser, { displayName: encodeProfileMarker(normalized) });
+
+      try {
+        const { doc, setDoc } = window.__fbFirestore;
+        await setDoc(doc(window.__fbDb, 'users', fbUser.uid), {
+          email: normalized.email || '',
+          plano: normalized.plano || 'basico',
+          semestre: normalized.semestre || 1,
+          modulo: normalized.modulo || normalized.semestre || 1,
+          faculdadeId: normalized.faculdadeId,
+          faculdadeNome: normalized.faculdadeNome,
+          campusId: normalized.campusId,
+          campusNome: normalized.campusNome,
+          codeHash: normalized.codeHash || '',
+          deviceId: normalized.deviceId || '',
+          criadoEm: normalized.criadoEm || new Date().toISOString(),
+          loginDate: normalized.loginDate || new Date().toISOString(),
+        });
+      } catch (err) {
+        if ((err?.code || '') !== 'permission-denied') throw err;
+      }
+    }
+
+    async function loadUserProfile(fbUser) {
+      try {
+        const { doc, getDoc } = window.__fbFirestore;
+        const snap = await getDoc(doc(window.__fbDb, 'users', fbUser.uid));
+        if (snap.exists()) {
+          return normalizeUserProfile({ uid: fbUser.uid, email: fbUser.email || '', ...snap.data() });
+        }
+      } catch {}
+
+      return decodeProfileMarker(fbUser);
+    }
+
+    function persistLocalUser(profile) {
+      const normalized = normalizeUserProfile(profile);
+      localStorage.setItem('meduni9_user', JSON.stringify(normalized));
+      return normalized;
+    }
+
+    function getUserInstitutionLabel(user) {
+      const normalized = normalizeUserProfile(user);
+      const faculty = getFacultyById(normalized.faculdadeId);
+      return `${faculty.shortName} ${normalized.campusNome}`;
+    }
+
     // Auth Screen
     const AuthScreen = ({ onAuthSuccess }) => {
-      const [step, setStep] = useState(1);
+      const [mode, setMode] = useState('login');       // 'login' | 'register'
+      const [step, setStep] = useState(1);             // register steps: 1=code 2=account 3=instituicao 4=modulo
       const [code, setCode] = useState('');
       const [email, setEmail] = useState('');
+      const [password, setPassword] = useState('');
+      const [confirmPassword, setConfirmPassword] = useState('');
+      const [showPass, setShowPass] = useState(false);
+      const [facultyId, setFacultyId] = useState(DEFAULT_FACULTY_ID);
+      const [campusId, setCampusId] = useState(DEFAULT_CAMPUS_ID);
       const [semester, setSemester] = useState(null);
       const [fingerprint, setFingerprint] = useState('');
       const [error, setError] = useState('');
       const [loading, setLoading] = useState(false);
       const [validatedCode, setValidatedCode] = useState(null);
+      const [regFirebaseUser, setRegFirebaseUser] = useState(null); // Firebase user after Google register
+      const [showForgot, setShowForgot] = useState(false);
+      const [forgotEmail, setForgotEmail] = useState('');
+      const [forgotSent, setForgotSent] = useState(false);
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
       }, []);
 
+      const applyProfile = (profile) => {
+        onAuthSuccess(persistLocalUser(profile));
+      };
+
+      const beginCodeActivation = (fbUser, message) => {
+        setRegFirebaseUser(fbUser || null);
+        setEmail(fbUser?.email || '');
+        setMode('register');
+        setStep(1);
+        setError(message || 'Ative seu código para concluir o acesso.');
+      };
+
+      // ── code change handler ────────────────────────────────────────────────
       const handleCodeChange = (e) => {
         let value = e.target.value.toUpperCase().replace(/[^A-Z0-9]/g, '');
         if (value.length > 12) value = value.slice(0, 12);
-
-        if (value.length > 8) {
-          value = value.slice(0, 4) + '-' + value.slice(4, 8) + '-' + value.slice(8);
-        } else if (value.length > 4) {
-          value = value.slice(0, 4) + '-' + value.slice(4);
-        }
+        if (value.length > 8)      value = value.slice(0, 4) + '-' + value.slice(4, 8) + '-' + value.slice(8);
+        else if (value.length > 4) value = value.slice(0, 4) + '-' + value.slice(4);
         setCode(value);
       };
 
+      // ── register step 1: validate code ────────────────────────────────────
       const handleCodeSubmit = async () => {
         setError('');
-        if (!code || code.length < 14) {
-          setError('Código inválido. Use o formato XXXX-XXXX-XXXX');
-          return;
-        }
-
-        // Rate limit check
+        if (!code || code.length < 14) { setError('Código inválido. Use o formato XXXX-XXXX-XXXX'); return; }
         const rl = checkRateLimit();
-        if (!rl.allowed) {
-          setError(rl.message);
-          return;
-        }
-
+        if (!rl.allowed) { setError(rl.message); return; }
         setLoading(true);
         try {
-          // Hash the code
           const codeHash = await hashCode(code);
-
-          // Fetch codes database
           const response = await fetch('data/codigos.json?_=' + Date.now());
           if (!response.ok) throw new Error('Erro ao verificar código');
           const data = await response.json();
-
           const codeEntry = data.codigos[codeHash];
-
-          // Validate code exists
-          if (!codeEntry) {
-            recordFailedAttempt();
-            setLoading(false);
-            setError('Código de acesso inválido.');
-            return;
-          }
-
-          // Validate code is active
-          if (!codeEntry.ativo) {
-            recordFailedAttempt();
-            setLoading(false);
-            setError('Este código foi desativado.');
-            return;
-          }
-
-          // Validate expiration
+          if (!codeEntry) { recordFailedAttempt(); setLoading(false); setError('Código de acesso inválido.'); return; }
+          if (!codeEntry.ativo) { recordFailedAttempt(); setLoading(false); setError('Este código foi desativado.'); return; }
           if (codeEntry.expira) {
             const expirationDate = new Date(codeEntry.expira);
-            if (new Date() > expirationDate) {
-              recordFailedAttempt();
-              setLoading(false);
-              setError('Este código expirou em ' + expirationDate.toLocaleDateString('pt-BR') + '.');
-              return;
-            }
+            if (new Date() > expirationDate) { recordFailedAttempt(); setLoading(false); setError('Este código expirou em ' + expirationDate.toLocaleDateString('pt-BR') + '.'); return; }
           }
-
-          // Validate device limit
           const registeredDevices = codeEntry.dispositivos || [];
           if (!registeredDevices.includes(fingerprint) && registeredDevices.length >= codeEntry.maxDispositivos) {
-            recordFailedAttempt();
+            recordFailedAttempt(); setLoading(false); setError('Limite de dispositivos atingido para este código.'); return;
+          }
+          resetRateLimit();
+          const currentFbUser = regFirebaseUser || window.__fbAuth?.currentUser || null;
+          const currentEmail = (currentFbUser?.email || '').toLowerCase();
+          const codeEmail = (codeEntry.email || '').toLowerCase();
+          if (currentEmail && codeEmail && currentEmail !== codeEmail) {
             setLoading(false);
-            setError('Limite de dispositivos atingido para este código.');
+            setError('Este código está associado a outro email.');
             return;
           }
 
-          // Code is valid!
-          resetRateLimit();
           setValidatedCode({ hash: codeHash, ...codeEntry });
+          if (currentFbUser) {
+            setRegFirebaseUser(currentFbUser);
+            if (currentFbUser.email) setEmail(currentFbUser.email);
+          }
           setLoading(false);
-          setStep(2);
-
+          setStep(currentFbUser ? 3 : 2);
         } catch (err) {
           setLoading(false);
           setError('Erro ao verificar código. Verifique sua conexão.');
         }
       };
 
-      const handleEmailSubmit = async () => {
+      // ── register step 2: create with email/senha ──────────────────────────
+      const handleCreateWithEmail = async () => {
         setError('');
-        if (!email) {
-          setError('Email é obrigatório');
-          return;
-        }
-        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-          setError('Email inválido');
-          return;
-        }
-
-        // Validate email against code's associated email
-        if (validatedCode && validatedCode.email && validatedCode.email !== email) {
-          setError('Este código está associado a outro email.');
-          return;
-        }
-
+        if (!email) { setError('Email é obrigatório'); return; }
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { setError('Email inválido'); return; }
+        if (validatedCode?.email && validatedCode.email !== email) { setError('Este código está associado a outro email.'); return; }
+        if (!password || password.length < 6) { setError('Senha deve ter no mínimo 6 caracteres'); return; }
+        if (password !== confirmPassword) { setError('As senhas não coincidem'); return; }
         setLoading(true);
-        setTimeout(() => {
+        try {
+          const { createUserWithEmailAndPassword, signInWithEmailAndPassword } = window.__fbAuthFns;
+          const cred = await createUserWithEmailAndPassword(window.__fbAuth, email, password);
+          setRegFirebaseUser(cred.user);
           setLoading(false);
           setStep(3);
-        }, 500);
-      };
-
-      const handleSemesterSubmit = () => {
-        if (!semester) {
-          setError('Selecione seu módulo');
-          return;
+        } catch (err) {
+          if (err.code === 'auth/email-already-in-use') {
+            try {
+              const cred = await signInWithEmailAndPassword(window.__fbAuth, email, password);
+              setRegFirebaseUser(cred.user);
+              setLoading(false);
+              setStep(3);
+              return;
+            } catch (signInErr) {
+              setLoading(false);
+              if ((signInErr.code || '') === 'auth/invalid-credential') {
+                setError('Este email já possui conta. Entre com a senha correta para vincular o código.');
+              } else {
+                setError('Conta existente encontrada, mas não foi possível entrar: ' + (signInErr.message || ''));
+              }
+              return;
+            }
+          }
+          setLoading(false);
+          if (err.code === 'auth/weak-password') setError('Senha muito fraca.');
+          else setError('Erro ao criar conta: ' + (err.message || ''));
         }
-
-        // Generate session integrity token
-        const sessionToken = btoa(JSON.stringify({
-          ts: Date.now(),
-          fp: fingerprint,
-          ch: validatedCode?.hash?.substring(0, 8) || ''
-        }));
-
-        const userData = {
-          email,
-          codeHash: validatedCode?.hash?.substring(0, 8) || '',
-          plano: validatedCode?.plano || 'basico',
-          semestre: semester,
-          modulo: semester,
-          deviceId: fingerprint,
-          loginDate: new Date().toISOString(),
-          sessionToken
-        };
-        localStorage.setItem('meduni9_user', JSON.stringify(userData));
-        onAuthSuccess(userData);
       };
+
+      // ── register step 2: create with Google ───────────────────────────────
+      const handleGoogleRegister = async () => {
+        setError('');
+        setLoading(true);
+        try {
+          const { signInWithPopup } = window.__fbAuthFns;
+          const cred = await signInWithPopup(window.__fbAuth, window.__fbGoogleProvider);
+          const existing = await loadUserProfile(cred.user);
+          if (existing) { setLoading(false); applyProfile(existing); return; }
+          setRegFirebaseUser(cred.user);
+          setEmail(cred.user.email || '');
+          setLoading(false);
+          setStep(3);
+        } catch (err) {
+          setLoading(false);
+          if (err.code !== 'auth/popup-closed-by-user') setError('Erro ao entrar com Google.');
+        }
+      };
+
+      const handleInstitutionSubmit = () => {
+        setError('');
+        const faculty = getFacultyById(facultyId);
+        const campus = getCampusById(facultyId, campusId);
+        if (!faculty?.active) { setError('Essa faculdade ainda está em breve.'); return; }
+        if (!campus?.active) { setError('Esse campus ainda está em breve.'); return; }
+        setStep(4);
+      };
+
+      // ── register step 4: save profile ─────────────────────────────────────
+      const handleSemesterSubmit = async () => {
+        setError('');
+        if (!semester) { setError('Selecione seu módulo'); return; }
+        setLoading(true);
+        try {
+          const fbUser = regFirebaseUser || window.__fbAuth?.currentUser;
+          if (!fbUser) { setError('Sessão expirada. Reinicie o cadastro.'); setLoading(false); return; }
+          const profile = {
+            uid:       fbUser.uid,
+            email:     fbUser.email || email,
+            plano:     validatedCode?.plano   || 'basico',
+            semestre:  semester,
+            modulo:    semester,
+            faculdadeId: facultyId,
+            campusId: campusId,
+            codeHash:  validatedCode?.hash?.substring(0, 8) || '',
+            deviceId:  fingerprint,
+            loginDate: new Date().toISOString(),
+          };
+          await saveUserProfile(fbUser, profile);
+          setLoading(false);
+          applyProfile(profile);
+        } catch (err) {
+          setLoading(false);
+          const details = err?.code || err?.message || '';
+          setError(`Erro ao salvar perfil. ${details || 'Tente novamente.'}`);
+        }
+      };
+
+      // ── login with email/senha ────────────────────────────────────────────
+      const handleLoginWithEmail = async () => {
+        setError('');
+        if (!email || !password) { setError('Preencha email e senha'); return; }
+        setLoading(true);
+        try {
+          const { signInWithEmailAndPassword } = window.__fbAuthFns;
+          const cred = await signInWithEmailAndPassword(window.__fbAuth, email, password);
+          const profile = await loadUserProfile(cred.user);
+          setLoading(false);
+          if (!profile) {
+            beginCodeActivation(cred.user, 'Conta encontrada, mas perfil incompleto. Ative seu código para concluir o acesso.');
+            return;
+          }
+          applyProfile(profile);
+        } catch (err) {
+          setLoading(false);
+          const code = err.code || '';
+          if (code === 'auth/invalid-credential' || code === 'auth/user-not-found' || code === 'auth/wrong-password') {
+            setError('Email ou senha incorretos.');
+          } else {
+            setError('Erro ao entrar: ' + (err.message || ''));
+          }
+        }
+      };
+
+      // ── login with Google ─────────────────────────────────────────────────
+      const handleGoogleLogin = async () => {
+        setError('');
+        setLoading(true);
+        try {
+          const { signInWithPopup } = window.__fbAuthFns;
+          const cred = await signInWithPopup(window.__fbAuth, window.__fbGoogleProvider);
+          const profile = await loadUserProfile(cred.user);
+          setLoading(false);
+          if (!profile) {
+            beginCodeActivation(cred.user, 'Conta Google encontrada, mas sem cadastro. Ative seu código para continuar.');
+            return;
+          }
+          applyProfile(profile);
+        } catch (err) {
+          setLoading(false);
+          if (err.code !== 'auth/popup-closed-by-user') setError('Erro ao entrar com Google.');
+        }
+      };
+
+      // ── forgot password ───────────────────────────────────────────────────
+      const handleForgotPassword = async () => {
+        setError('');
+        if (!forgotEmail) { setError('Digite seu email'); return; }
+        setLoading(true);
+        try {
+          const { sendPasswordResetEmail } = window.__fbAuthFns;
+          await sendPasswordResetEmail(window.__fbAuth, forgotEmail);
+          setForgotSent(true);
+          setLoading(false);
+        } catch {
+          setLoading(false);
+          setError('Erro ao enviar email. Verifique o endereço.');
+        }
+      };
+
+      // ── sub-components ────────────────────────────────────────────────────
+      const GoogleIcon = () => (
+        <svg width="18" height="18" viewBox="0 0 24 24" style={{ flexShrink: 0 }}>
+          <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+          <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+          <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+          <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+        </svg>
+      );
+
+      const Divider = () => (
+        <div style={{ display: 'flex', alignItems: 'center', gap: '12px', margin: '16px 0' }}>
+          <div style={{ flex: 1, height: '1px', background: 'var(--border-color, #333)' }}></div>
+          <span style={{ color: 'var(--text-secondary)', fontSize: '12px' }}>ou</span>
+          <div style={{ flex: 1, height: '1px', background: 'var(--border-color, #333)' }}></div>
+        </div>
+      );
 
       return (
         <div className="app-container">
           <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', height: '100%', paddingBottom: '40px' }}>
             <div className="auth-header">
-              <div className="auth-logo">🩺</div>
-              <h1 className="auth-title">MedUni9</h1>
-              <p className="auth-subtitle">Plataforma de estudos para medicina</p>
+              <div className="auth-logo" style={{display:'flex',justifyContent:'center',marginBottom:'16px'}}><LogoIcon size={64} /></div>
+              <h1 className="auth-title">MedGradPlus<sup style={{fontSize:'0.5em',color:'#00B4D8',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'1px'}}>+</sup></h1>
+              <p className="auth-subtitle">Plataforma de estudos para estudantes de medicina</p>
             </div>
 
             <div style={{ maxWidth: '400px', width: '100%', margin: '0 auto' }}>
-              {/* Step 1: Code */}
-              <div className={`auth-step ${step === 1 ? 'active' : ''}`}>
-                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
-                  Etapa 1: Código de Acesso
-                </h2>
-                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
-                  Digite seu código de ativação no formato XXXX-XXXX-XXXX
-                </p>
-                {error && step === 1 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
-                <input
-                  className="form-input"
-                  type="text"
-                  placeholder="XXXX-XXXX-XXXX"
-                  value={code}
-                  onChange={handleCodeChange}
-                  maxLength={14}
-                  style={{ textAlign: 'center', fontSize: '20px', letterSpacing: '2px', marginBottom: '16px' }}
-                />
-                <button
-                  className="btn btn-primary"
-                  onClick={handleCodeSubmit}
-                  disabled={loading}
-                >
-                  {loading ? 'Verificando...' : 'Continuar'}
-                </button>
-              </div>
 
-              {/* Step 2: Email */}
-              <div className={`auth-step ${step === 2 ? 'active' : ''}`}>
-                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
-                  Etapa 2: Seu Email
-                </h2>
-                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
-                  Informe seu email institucional ou pessoal
-                </p>
-                {error && step === 2 && <div className="error-message">{error}</div>}
-                <input
-                  className="form-input"
-                  type="email"
-                  placeholder="seu@email.com"
-                  value={email}
-                  onChange={e => setEmail(e.target.value)}
-                  style={{ marginBottom: '16px' }}
-                />
-                <button className="btn btn-primary" onClick={handleEmailSubmit} disabled={loading}>
-                  {loading ? 'Verificando...' : 'Continuar'}
-                </button>
-                <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setError(''); }}>
-                  Voltar
-                </button>
-              </div>
-
-              {/* Step 3: Module */}
-              <div className={`auth-step ${step === 3 ? 'active' : ''}`}>
-                <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>
-                  Etapa 3: Seu Módulo
-                </h2>
-                <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>
-                  Em qual módulo da Uninove você está?
-                </p>
-                {error && step === 3 && <div className="error-message" style={{ marginBottom: '16px' }}>{error}</div>}
-                <div className="semester-grid">
-                  {[1,2,3,4,5,6].map(s => (
-                    <button
-                      key={s}
-                      className={`semester-btn ${semester === s ? 'selected' : ''}`}
-                      onClick={() => { setSemester(s); setError(''); }}
-                    >
-                      Módulo {s}
-                    </button>
-                  ))}
+              {/* ── FORGOT PASSWORD ───────────────────────────────────────── */}
+              {showForgot && (
+                <div>
+                  <h2 style={{ fontSize: '18px', marginBottom: '8px', color: 'var(--text-primary)' }}>Redefinir senha</h2>
+                  {forgotSent ? (
+                    <p style={{ color: '#34A853', marginBottom: '16px' }}>Email enviado! Verifique sua caixa de entrada.</p>
+                  ) : (
+                    <>
+                      {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
+                      <input className="form-input" type="email" placeholder="seu@email.com" value={forgotEmail}
+                        onChange={e => { setForgotEmail(e.target.value); setError(''); }} style={{ marginBottom: '12px' }} />
+                      <button className="btn btn-primary" onClick={handleForgotPassword} disabled={loading}>
+                        {loading ? 'Enviando...' : 'Enviar link de redefinição'}
+                      </button>
+                    </>
+                  )}
+                  <button className="btn btn-secondary mt-2" onClick={() => { setShowForgot(false); setForgotSent(false); setError(''); }}>
+                    Voltar
+                  </button>
                 </div>
-                <button className="btn btn-primary" onClick={handleSemesterSubmit}>
-                  Entrar
-                </button>
-                <button className="btn btn-secondary mt-2" onClick={() => { setStep(2); setError(''); }}>
-                  Voltar
-                </button>
-              </div>
+              )}
+
+              {/* ── LOGIN MODE ────────────────────────────────────────────── */}
+              {!showForgot && mode === 'login' && (
+                <div>
+                  <h2 style={{ fontSize: '18px', marginBottom: '4px', color: 'var(--text-primary)' }}>Bem-vindo de volta</h2>
+                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Entre com sua conta</p>
+                  {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
+                  <input className="form-input" type="email" placeholder="Email" value={email}
+                    onChange={e => { setEmail(e.target.value); setError(''); }} style={{ marginBottom: '10px' }} />
+                  <div style={{ position: 'relative', marginBottom: '4px' }}>
+                    <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Senha"
+                      value={password} onChange={e => { setPassword(e.target.value); setError(''); }}
+                      onKeyDown={e => e.key === 'Enter' && handleLoginWithEmail()}
+                      style={{ paddingRight: '52px' }} />
+                    <button type="button" onClick={() => setShowPass(s => !s)}
+                      style={{ position: 'absolute', right: '12px', top: '50%', transform: 'translateY(-50%)', background: 'none', border: 'none', cursor: 'pointer', color: 'var(--text-secondary)', fontSize: '12px' }}>
+                      {showPass ? 'ocultar' : 'ver'}
+                    </button>
+                  </div>
+                  <div style={{ textAlign: 'right', marginBottom: '16px' }}>
+                    <button type="button" onClick={() => { setShowForgot(true); setForgotEmail(email); setError(''); }}
+                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', fontSize: '12px', cursor: 'pointer', padding: 0 }}>
+                      Esqueci minha senha
+                    </button>
+                  </div>
+                  <button className="btn btn-primary" onClick={handleLoginWithEmail} disabled={loading}>
+                    {loading ? 'Entrando...' : 'Entrar'}
+                  </button>
+                  <Divider />
+                  <button className="btn btn-secondary" onClick={handleGoogleLogin} disabled={loading}
+                    style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                    <GoogleIcon /> Entrar com Google
+                  </button>
+                  <p style={{ textAlign: 'center', marginTop: '20px', fontSize: '13px', color: 'var(--text-secondary)' }}>
+                    Primeira vez?{' '}
+                    <button type="button" onClick={() => { setMode('register'); setStep(1); setError(''); }}
+                      style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                      Ative seu código
+                    </button>
+                  </p>
+                </div>
+              )}
+
+              {/* ── REGISTER MODE ─────────────────────────────────────────── */}
+              {!showForgot && mode === 'register' && (
+                <div>
+                  {/* Step indicator */}
+                  <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '20px' }}>
+                    {[1,2,3,4].map(s => (
+                      <React.Fragment key={s}>
+                        <div style={{ width: '24px', height: '24px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '11px', fontWeight: 'bold',
+                          background: step >= s ? 'var(--accent-color, #00B4D8)' : 'var(--border-color, #333)',
+                          color: step >= s ? '#000' : 'var(--text-secondary)' }}>{s}</div>
+                        {s < 4 && <div style={{ flex: 1, height: '2px', background: step > s ? 'var(--accent-color, #00B4D8)' : 'var(--border-color, #333)' }}></div>}
+                      </React.Fragment>
+                    ))}
+                  </div>
+
+                  {/* Step 1: Code */}
+                  {step === 1 && (
+                    <div>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Código de Acesso</h2>
+                      <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                        Digite o código que você recebeu no formato XXXX-XXXX-XXXX
+                      </p>
+                      {error && <div className="error-message" style={{ marginBottom: '14px' }}>{error}</div>}
+                      <input className="form-input" type="text" placeholder="XXXX-XXXX-XXXX" value={code}
+                        onChange={handleCodeChange} maxLength={14}
+                        style={{ textAlign: 'center', fontSize: '20px', letterSpacing: '2px', marginBottom: '16px' }} />
+                      <button className="btn btn-primary" onClick={handleCodeSubmit} disabled={loading}>
+                        {loading ? 'Verificando...' : 'Verificar código'}
+                      </button>
+                      <p style={{ textAlign: 'center', marginTop: '16px', fontSize: '13px', color: 'var(--text-secondary)' }}>
+                        Já tem conta?{' '}
+                        <button type="button" onClick={() => { setMode('login'); setStep(1); setError(''); }}
+                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00B4D8)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                          Entrar
+                        </button>
+                      </p>
+                    </div>
+                  )}
+
+                  {/* Step 2: Create account */}
+                  {step === 2 && (
+                    <div>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Criar sua conta</h2>
+                      <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                        Código válido ✓ — crie sua conta para entrar sempre com email e senha
+                      </p>
+                      {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
+                      <input className="form-input" type="email" placeholder="Email" value={email}
+                        onChange={e => { setEmail(e.target.value); setError(''); }} style={{ marginBottom: '10px' }} />
+                      <div style={{ position: 'relative', marginBottom: '10px' }}>
+                        <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Senha (mín. 6 caracteres)"
+                          value={password} onChange={e => { setPassword(e.target.value); setError(''); }}
+                          style={{ paddingRight: '52px' }} />
+                        <button type="button" onClick={() => setShowPass(s => !s)}
+                          style={{ position: 'absolute', right: '12px', top: '50%', transform: 'translateY(-50%)', background: 'none', border: 'none', cursor: 'pointer', color: 'var(--text-secondary)', fontSize: '12px' }}>
+                          {showPass ? 'ocultar' : 'ver'}
+                        </button>
+                      </div>
+                      <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Confirmar senha"
+                        value={confirmPassword} onChange={e => { setConfirmPassword(e.target.value); setError(''); }} style={{ marginBottom: '16px' }} />
+                      <button className="btn btn-primary" onClick={handleCreateWithEmail} disabled={loading}>
+                        {loading ? 'Criando conta...' : 'Criar conta com email'}
+                      </button>
+                      <Divider />
+                      <button className="btn btn-secondary" onClick={handleGoogleRegister} disabled={loading}
+                        style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                        <GoogleIcon /> Criar conta com Google
+                      </button>
+                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setError(''); }}>Voltar</button>
+                    </div>
+                  )}
+
+                  {/* Step 3: Institution */}
+                  {step === 3 && (
+                    <div>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Qual é a sua faculdade?</h2>
+                      <p className="institution-helper">
+                        Escolha sua faculdade e campus. As instituições sem conteúdo liberado ficam visíveis, mas em breve.
+                      </p>
+                      {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
+                      <div className="institution-grid">
+                        {FACULTY_CATALOG.map(faculty => (
+                          <button
+                            key={faculty.id}
+                            type="button"
+                            className={`institution-card ${facultyId === faculty.id ? 'selected' : ''} ${faculty.active ? '' : 'disabled'}`}
+                            onClick={() => {
+                              if (!faculty.active) return;
+                              setFacultyId(faculty.id);
+                              setCampusId(getFirstActiveCampus(faculty)?.id || '');
+                              setError('');
+                            }}
+                          >
+                            <div>
+                              <div className="institution-name">{faculty.shortName}</div>
+                              <div className="institution-meta">{faculty.name}<br />{faculty.city}</div>
+                            </div>
+                            <span className={`institution-badge ${faculty.active ? '' : 'soon'}`}>{faculty.active ? 'Disponível' : 'Em breve'}</span>
+                          </button>
+                        ))}
+                      </div>
+
+                      <p className="institution-helper" style={{ marginTop: '4px' }}>Campus</p>
+                      <div className="institution-grid">
+                        {(getFacultyById(facultyId)?.campi || []).map(campus => (
+                          <button
+                            key={campus.id}
+                            type="button"
+                            className={`institution-card ${campusId === campus.id ? 'selected' : ''} ${campus.active ? '' : 'disabled'}`}
+                            onClick={() => {
+                              if (!campus.active) return;
+                              setCampusId(campus.id);
+                              setError('');
+                            }}
+                            style={{ minHeight: '78px' }}
+                          >
+                            <div>
+                              <div className="institution-name">{campus.name}</div>
+                              <div className="institution-meta">{getFacultyById(facultyId)?.shortName}</div>
+                            </div>
+                            <span className={`institution-badge ${campus.active ? '' : 'soon'}`}>{campus.active ? 'Disponível' : 'Em breve'}</span>
+                          </button>
+                        ))}
+                      </div>
+
+                      <button className="btn btn-primary" onClick={handleInstitutionSubmit} disabled={loading}>
+                        Continuar
+                      </button>
+                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(2); setError(''); }}>Voltar</button>
+                    </div>
+                  )}
+
+                  {/* Step 4: Module */}
+                  {step === 4 && (
+                    <div>
+                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)' }}>Qual é o seu módulo?</h2>
+                      <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
+                        Em qual módulo ou semestre você está em {getFacultyById(facultyId)?.shortName} {getCampusById(facultyId, campusId)?.name}?
+                      </p>
+                      {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
+                      <div className="semester-grid">
+                        {[1,2,3,4,5,6].map(s => (
+                          <button key={s} className={`semester-btn ${semester === s ? 'selected' : ''}`}
+                            onClick={() => { setSemester(s); setError(''); }}>
+                            Módulo {s}
+                          </button>
+                        ))}
+                      </div>
+                      <button className="btn btn-primary" onClick={handleSemesterSubmit} disabled={loading}>
+                        {loading ? 'Salvando...' : 'Começar'}
+                      </button>
+                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(3); setError(''); }}>Voltar</button>
+                    </div>
+                  )}
+
+                </div>
+              )}
             </div>
           </div>
         </div>
@@ -3662,6 +4199,12 @@
         return result;
       }, [quizzes, semesterFilter, searchQuery]);
 
+      useEffect(() => {
+        if (!selectedMateria || activeQuiz || showTemaSelector || showCadernoErros || quizComplete) return;
+        if (!quizzes[selectedMateria]) return;
+        handleMateriaClick(selectedMateria);
+      }, [selectedMateria, quizzes, activeQuiz, showTemaSelector, showCadernoErros, quizComplete]);
+
       // Keyboard shortcuts for quiz
       useEffect(() => {
         if (!activeQuiz || quizComplete) return;
@@ -3710,6 +4253,7 @@
       };
 
       const handleMateriaClick = (materiaId) => {
+        onSelectMateria(materiaId);
         const cards = quizzes[materiaId]?.cards || [];
         if (cards.length === 0) {
           handleQuizStart(materiaId, []);
@@ -3805,6 +4349,7 @@
 
       // Start caderno de erros quiz
       const startCadernoErros = () => {
+        onSelectMateria(null);
         setShowCadernoErros(true);
         setActiveQuiz('__erros__');
         setCurrentQuestion(0);
@@ -3836,7 +4381,7 @@
                 <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
                 <div style={{ marginTop: '32px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
                   <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); }}>Voltar</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); onSelectMateria(null); }}>Voltar</button>
                 </div>
               </div>
             </div>
@@ -3855,7 +4400,7 @@
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); }}>← Questões</button>
+              <button className="back-btn" onClick={() => { setShowTemaSelector(false); setPendingQuiz(null); setPendingTemas([]); onSelectMateria(null); }}>← Questões</button>
               <h2 className="section-title">{quiz.sigla || quiz.name}</h2>
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
                 Selecione um ou mais assuntos:
@@ -3927,11 +4472,11 @@
           return (
             <>
               <div className="screen-content">
-                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>← Questões</button>
+                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>← Questões</button>
                 <div style={{ textAlign: 'center', marginTop: '60px' }}>
                   <div style={{ fontSize: '60px', marginBottom: '20px' }}>{showCadernoErros ? '✨' : '🚧'}</div>
                   <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>{emptyMsg}</p>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>Voltar</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>Voltar</button>
                 </div>
               </div>
             </>
@@ -3945,7 +4490,7 @@
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); }}>
+              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>
                 ← {activeTemas.length === 1 ? activeTemas[0] : quizLabel}
               </button>
               <div className="quiz-screen">
@@ -4099,7 +4644,7 @@
     };
 
     // Materials Screen
-    const MaterialsScreen = ({ materias, userSemester, onNavigateTo }) => {
+    const MaterialsScreen = ({ materias, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
       const [searchQuery, setSearchQuery] = useState('');
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
@@ -4109,6 +4654,7 @@
       const [materialError, setMaterialError] = useState('');
       const [preProvaVisible, setPreProvaVisible] = useState(false);
       const markdownRef = useRef(null);
+      const restoredRouteRef = useRef('');
 
       // Split markdown at "## Pré-Prova" section
       const splitAtPreProva = (content) => {
@@ -4126,9 +4672,9 @@
         if (!markdownRef.current || !materialContent) return;
         const root = markdownRef.current;
 
-        // --- Breadcrumb: first <p> that contains → ---
-        const allPs = root.querySelectorAll('p');
-        const bcP = Array.from(allPs).find(p => p.textContent.includes('→'));
+        // --- Breadcrumb: only direct <p> children at the top (not inside lists/quotes) ---
+        const directTopPs = Array.from(root.children).filter(el => el.tagName === 'P').slice(0, 3);
+        const bcP = directTopPs.find(p => p.textContent.includes('→'));
         if (bcP && !bcP.classList.contains('md-breadcrumb')) {
           const parts = bcP.textContent.split('→').map(s => s.trim()).filter(Boolean);
           bcP.className = 'md-breadcrumb';
@@ -4137,8 +4683,8 @@
           ).join('');
         }
 
-        // --- Meta pills: <p> that contains ⏱ ---
-        const metaP = Array.from(allPs).find(p => p.textContent.includes('⏱') || p.textContent.includes('min ·'));
+        // --- Meta pills: only direct <p> children at the top ---
+        const metaP = directTopPs.find(p => p.textContent.includes('⏱') || p.textContent.includes('min ·'));
         if (metaP && !metaP.classList.contains('md-meta')) {
           const parts = metaP.textContent.split('·').map(s => s.trim()).filter(Boolean);
           metaP.className = 'md-meta';
@@ -4188,7 +4734,8 @@
         return null;
       };
 
-      const openMaterial = async (materia, tema) => {
+      const openMaterial = async (materia, tema, options = {}) => {
+        const { updateHash = true } = options;
         const modulo = materia.modulo || materia.semestre;
         const temaId = resolveTemaId(materia, tema);
 
@@ -4198,6 +4745,7 @@
             temaNome: tema.nome,
             path: 'sem-id',
             materiaId: materia.id,
+            temaId: null,
           });
           setMaterialContent('');
           setMaterialError('Nao foi possivel identificar o ID da aula para abrir o material.');
@@ -4222,11 +4770,16 @@
           temaNome: tema.nome,
           path: primaryPath,
           materiaId: materia.id,
+          temaId,
         });
         setMaterialContent('');
         setMaterialError('');
         setMaterialLoading(true);
         setPreProvaVisible(false);
+
+        if (updateHash && onRouteChange) {
+          onRouteChange('materials', { materiaId: materia.id, aulaId: temaId });
+        }
 
         try {
           let loaded = false;
@@ -4268,6 +4821,30 @@
 
       const semesters = [...new Set(materias.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
 
+      useEffect(() => {
+        if (!initialMateriaId || !initialTemaId || !materias.length) return;
+        const routeKey = `${initialMateriaId}:${initialTemaId}`;
+        if (restoredRouteRef.current === routeKey) return;
+        if (selectedMaterial?.materiaId === initialMateriaId && selectedMaterial?.temaId === initialTemaId) {
+          restoredRouteRef.current = routeKey;
+          return;
+        }
+
+        const materia = materias.find(m => m.id === initialMateriaId);
+        if (!materia) return;
+
+        const modulos = getMateriaModulos(materia) || [];
+        let tema = null;
+        modulos.some(mod => {
+          tema = (mod.temas || []).find(item => (item?.id || null) === initialTemaId) || null;
+          return !!tema;
+        });
+        if (!tema) return;
+
+        restoredRouteRef.current = routeKey;
+        openMaterial(materia, tema, { updateHash: false });
+      }, [initialMateriaId, initialTemaId, materias, selectedMaterial]);
+
       const filteredMaterias = materias.filter(m => {
         if (semesterFilter && m.modulo !== semesterFilter) return false;
         return fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '');
@@ -4286,7 +4863,12 @@
               marginBottom: '20px',
             }}>
               <button
-                onClick={() => { setSelectedMaterial(null); setMaterialContent(''); setMaterialError(''); }}
+                onClick={() => {
+                  setSelectedMaterial(null);
+                  setMaterialContent('');
+                  setMaterialError('');
+                  if (onRouteChange) onRouteChange('materials', {});
+                }}
                 style={{
                   background: 'rgba(0,180,216,0.08)',
                   border: '1px solid rgba(0,180,216,0.25)',
@@ -4635,8 +5217,15 @@
     };
 
     // Profile Screen
-    const ProfileScreen = ({ user, onLogout, onChangeSemester }) => {
+    const ProfileScreen = ({ user, onLogout, onChangeSemester, onProfileUpdated }) => {
       const [showPicker, setShowPicker] = useState(false);
+      const [showInstitutionRequest, setShowInstitutionRequest] = useState(false);
+      const [requestFacultyId, setRequestFacultyId] = useState(user.faculdadeId || DEFAULT_FACULTY_ID);
+      const [requestCampusId, setRequestCampusId] = useState(user.campusId || DEFAULT_CAMPUS_ID);
+      const [requestLoading, setRequestLoading] = useState(false);
+      const [requestError, setRequestError] = useState('');
+      const [requestInfo, setRequestInfo] = useState('');
+      const [changeRequests, setChangeRequests] = useState([]);
       const [stats, setStats] = useState({
         cardsReviewed: 0,
         questionsAnswered: 0,
@@ -4656,6 +5245,67 @@
         });
       }, []);
 
+      const loadChangeRequests = async () => {
+        const currentUser = window.__fbAuth?.currentUser;
+        if (!currentUser || !window.__fbFirestore) return;
+        try {
+          const { collection, getDocs, query, where } = window.__fbFirestore;
+          const snap = await getDocs(query(collection(window.__fbDb, 'profile_change_requests'), where('userId', '==', currentUser.uid)));
+          const docs = snap.docs.map(docSnap => ({ id: docSnap.id, ...docSnap.data() }));
+          docs.sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+          setChangeRequests(docs);
+        } catch {
+          setChangeRequests([]);
+        }
+      };
+
+      useEffect(() => {
+        loadChangeRequests();
+      }, []);
+
+      const pendingRequest = changeRequests.find(item => item.status === 'pending');
+
+      const submitInstitutionRequest = async () => {
+        const currentUser = window.__fbAuth?.currentUser;
+        const faculty = getFacultyById(requestFacultyId);
+        const campus = getCampusById(requestFacultyId, requestCampusId);
+
+        setRequestError('');
+        setRequestInfo('');
+
+        if (!currentUser) { setRequestError('Faça login novamente para enviar a solicitação.'); return; }
+        if (!faculty?.active || !campus?.active) { setRequestError('Escolha uma faculdade e campus disponíveis.'); return; }
+        if (pendingRequest) { setRequestError('Já existe uma solicitação pendente para sua conta.'); return; }
+        if (user.faculdadeId === faculty.id && user.campusId === campus.id) { setRequestError('Você já está nesse campus.'); return; }
+
+        setRequestLoading(true);
+        try {
+          const { collection, addDoc } = window.__fbFirestore;
+          await addDoc(collection(window.__fbDb, 'profile_change_requests'), {
+            userId: currentUser.uid,
+            userEmail: currentUser.email || user.email || '',
+            currentFacultyId: user.faculdadeId,
+            currentFacultyName: user.faculdadeNome,
+            currentCampusId: user.campusId,
+            currentCampusName: user.campusNome,
+            requestedFacultyId: faculty.id,
+            requestedFacultyName: faculty.name,
+            requestedCampusId: campus.id,
+            requestedCampusName: campus.name,
+            semestre: user.semestre || user.modulo || 1,
+            status: 'pending',
+            createdAt: new Date().toISOString(),
+          });
+          setRequestLoading(false);
+          setShowInstitutionRequest(false);
+          setRequestInfo('Solicitação enviada. A alteração só aparece após aprovação no admin.');
+          await loadChangeRequests();
+        } catch (err) {
+          setRequestLoading(false);
+          setRequestError('Não foi possível enviar a solicitação.');
+        }
+      };
+
       const username = user.email ? user.email.split('@')[0] : 'Usuário';
       const avatarLetter = username.charAt(0).toUpperCase();
 
@@ -4664,7 +5314,7 @@
           <div className="screen-content">
             <div className="profile-avatar">{avatarLetter}</div>
             <div className="profile-name">{username}</div>
-            <div className="profile-meta">Módulo {user.modulo || 1} · Plano Básico</div>
+            <div className="profile-meta">{getUserInstitutionLabel(user)} · Módulo {user.modulo || 1}</div>
 
             <div className="profile-stats">
               <div className="profile-stat">
@@ -4695,6 +5345,14 @@
                 <span className="profile-value" style={{ fontSize: '13px' }}>{user.email}</span>
               </div>
               <div className="profile-item">
+                <span className="profile-label">Faculdade</span>
+                <span className="profile-value" style={{ fontSize: '13px' }}>{user.faculdadeNome}</span>
+              </div>
+              <div className="profile-item">
+                <span className="profile-label">Campus</span>
+                <span className="profile-value" style={{ fontSize: '13px' }}>{user.campusNome}</span>
+              </div>
+              <div className="profile-item">
                 <span className="profile-label">Módulo</span>
                 <span className="profile-value" style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
                   Módulo {user.semestre || user.modulo || 1}
@@ -4722,6 +5380,73 @@
                 <span className="profile-label">Código</span>
                 <span className="profile-value" style={{ fontSize: '12px', fontFamily: 'monospace' }}>{user.code}</span>
               </div>
+
+              <div style={{ marginTop: '12px', padding: '12px', borderRadius: '12px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
+                <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '8px' }}>Troca de faculdade/campus</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.5, marginBottom: '10px' }}>
+                  Para evitar curadoria indevida, mudanças de faculdade e campus precisam de aprovação no admin.
+                </div>
+                {pendingRequest && (
+                  <div style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
+                    Solicitação pendente: {pendingRequest.requestedFacultyName} · {pendingRequest.requestedCampusName}
+                  </div>
+                )}
+                {requestInfo && <div style={{ fontSize: '12px', color: 'var(--success)', marginBottom: '10px' }}>{requestInfo}</div>}
+                {requestError && <div style={{ fontSize: '12px', color: 'var(--error)', marginBottom: '10px' }}>{requestError}</div>}
+                <button className="btn btn-secondary" onClick={() => setShowInstitutionRequest(v => !v)} disabled={!!pendingRequest}>
+                  {pendingRequest ? 'Aguardando aprovação' : showInstitutionRequest ? 'Cancelar' : 'Solicitar alteração'}
+                </button>
+              </div>
+
+              {showInstitutionRequest && !pendingRequest && (
+                <div style={{ marginTop: '14px' }}>
+                  <div className="institution-grid" style={{ marginBottom: '12px' }}>
+                    {FACULTY_CATALOG.map(faculty => (
+                      <button
+                        key={faculty.id}
+                        type="button"
+                        className={`institution-card ${requestFacultyId === faculty.id ? 'selected' : ''} ${faculty.active ? '' : 'disabled'}`}
+                        onClick={() => {
+                          if (!faculty.active) return;
+                          setRequestFacultyId(faculty.id);
+                          setRequestCampusId(getFirstActiveCampus(faculty)?.id || '');
+                          setRequestError('');
+                        }}
+                      >
+                        <div>
+                          <div className="institution-name">{faculty.shortName}</div>
+                          <div className="institution-meta">{faculty.name}</div>
+                        </div>
+                        <span className={`institution-badge ${faculty.active ? '' : 'soon'}`}>{faculty.active ? 'Disponível' : 'Em breve'}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <div className="institution-grid" style={{ marginBottom: '12px' }}>
+                    {(getFacultyById(requestFacultyId)?.campi || []).map(campus => (
+                      <button
+                        key={campus.id}
+                        type="button"
+                        className={`institution-card ${requestCampusId === campus.id ? 'selected' : ''} ${campus.active ? '' : 'disabled'}`}
+                        onClick={() => {
+                          if (!campus.active) return;
+                          setRequestCampusId(campus.id);
+                          setRequestError('');
+                        }}
+                        style={{ minHeight: '76px' }}
+                      >
+                        <div>
+                          <div className="institution-name">{campus.name}</div>
+                          <div className="institution-meta">{getFacultyById(requestFacultyId)?.shortName}</div>
+                        </div>
+                        <span className={`institution-badge ${campus.active ? '' : 'soon'}`}>{campus.active ? '' : 'Em breve'}</span>
+                      </button>
+                    ))}
+                  </div>
+                  <button className="btn btn-primary" onClick={submitInstitutionRequest} disabled={requestLoading}>
+                    {requestLoading ? 'Enviando...' : 'Enviar solicitação'}
+                  </button>
+                </div>
+              )}
             </div>
 
             <button className="btn btn-error" onClick={onLogout} style={{ marginTop: '8px' }}>
@@ -4730,7 +5455,7 @@
             </button>
 
             <div style={{ textAlign: 'center', marginTop: '24px', paddingBottom: '20px' }}>
-              <p style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>MedUni9 v1.0.0</p>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>MedGradPlus v1.0.0</p>
             </div>
           </div>
         </>
@@ -4755,20 +5480,43 @@
       return qi === q.length;
     }
 
-    const MedUni9App = () => {
+    const MedGradPlusApp = () => {
       const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'profile'];
-      const getInitialTab = () => {
-        const hash = window.location.hash.replace('#', '');
-        return VALID_TABS.includes(hash) ? hash : 'home';
+      const parseRouteFromHash = () => {
+        const raw = window.location.hash.replace(/^#/, '').trim();
+        const [tabRaw, materiaRaw, aulaRaw] = raw.split(':');
+        const tab = VALID_TABS.includes(tabRaw) ? tabRaw : 'home';
+        return {
+          tab,
+          materiaId: materiaRaw ? decodeURIComponent(materiaRaw) : null,
+          aulaId: aulaRaw ? decodeURIComponent(aulaRaw) : null,
+        };
       };
+      const buildHash = ({ tab, materiaId, aulaId }) => {
+        const parts = [tab || 'home'];
+        if (materiaId) parts.push(encodeURIComponent(materiaId));
+        if (aulaId) parts.push(encodeURIComponent(aulaId));
+        return `#${parts.join(':')}`;
+      };
+      const initialRoute = parseRouteFromHash();
 
       const [stage, setStage] = useState('splash'); // splash, auth, app
       const [user, setUser] = useState(null);
-      const [currentTab, setCurrentTab] = useState(getInitialTab);
+      const [routeState, setRouteState] = useState(initialRoute);
+      const [currentTab, setCurrentTab] = useState(initialRoute.tab);
 
-      const navigateTo = (tab) => {
-        setCurrentTab(tab);
-        window.location.hash = tab;
+      const navigateTo = (tab, options = {}) => {
+        const nextRoute = {
+          tab: VALID_TABS.includes(tab) ? tab : 'home',
+          materiaId: options.materiaId || null,
+          aulaId: options.aulaId || null,
+        };
+        setRouteState(nextRoute);
+        setCurrentTab(nextRoute.tab);
+        const nextHash = buildHash(nextRoute);
+        if (window.location.hash !== nextHash) {
+          window.location.hash = nextHash;
+        }
       };
       const [materias, setMaterias] = useState([]);
       const [flashcards, setFlashcards] = useState([]);
@@ -4776,14 +5524,79 @@
       const [loading, setLoading] = useState(true);
       const [sidebarOpen, setSidebarOpen] = useState(true);
 
+      // Auth state refs (stable across renders, safe in closures)
+      const splashDoneRef = useRef(false);
+      const authStateRef  = useRef(undefined); // undefined = resolving | null = no user | object = profile
+
       useEffect(() => {
-        // Check if user is already logged in
-        const savedUser = localStorage.getItem('meduni9_user');
-        if (savedUser) {
-          setUser(JSON.parse(savedUser));
-          setStage('app');
-        }
+        const handleHashChange = () => {
+          const nextRoute = parseRouteFromHash();
+          setRouteState(nextRoute);
+          setCurrentTab(nextRoute.tab);
+        };
+        window.addEventListener('hashchange', handleHashChange);
+        return () => window.removeEventListener('hashchange', handleHashChange);
       }, []);
+
+      useEffect(() => {
+        if (routeState.tab === 'cards' || routeState.tab === 'quiz' || routeState.tab === 'feedback') {
+          setSelectedMateria(routeState.materiaId || null);
+        }
+      }, [routeState.tab, routeState.materiaId]);
+
+      const applyResolvedAuth = (profile) => {
+        if (profile) { setUser(normalizeUserProfile(profile)); setStage('app'); }
+        else          { setStage('auth'); }
+      };
+
+      // Firebase Auth listener: resolves well before splash ends (~2400ms)
+      useEffect(() => {
+        if (!window.__fbAuth || !window.__fbAuthFns || !window.__fbFirestore) {
+          // Fallback: Firebase SDK unavailable — use localStorage cache
+          const cached = localStorage.getItem('meduni9_user');
+          authStateRef.current = cached ? JSON.parse(cached) : null;
+          if (splashDoneRef.current) applyResolvedAuth(authStateRef.current);
+          return;
+        }
+        const { onAuthStateChanged, signOut: fbSignOut } = window.__fbAuthFns;
+        const unsubscribe = onAuthStateChanged(window.__fbAuth, async (firebaseUser) => {
+          if (firebaseUser) {
+            let cachedProfile = null;
+            try {
+              const cached = localStorage.getItem('meduni9_user');
+              if (cached) {
+                const p = JSON.parse(cached);
+                if (p.uid === firebaseUser.uid) cachedProfile = normalizeUserProfile(p);
+              }
+            } catch {}
+            try {
+              const p = await loadUserProfile(firebaseUser);
+              if (p) {
+                const normalized = persistLocalUser(p);
+                authStateRef.current = normalized;
+                if (splashDoneRef.current) applyResolvedAuth(p);
+              } else {
+                if (cachedProfile) {
+                  authStateRef.current = cachedProfile;
+                  if (splashDoneRef.current) applyResolvedAuth(cachedProfile);
+                } else {
+                  try { await fbSignOut(window.__fbAuth); } catch {}
+                  authStateRef.current = null;
+                  if (splashDoneRef.current) applyResolvedAuth(null);
+                }
+              }
+            } catch {
+              authStateRef.current = cachedProfile;
+              if (splashDoneRef.current) applyResolvedAuth(cachedProfile);
+            }
+          } else {
+            localStorage.removeItem('meduni9_user');
+            authStateRef.current = null;
+            if (splashDoneRef.current) applyResolvedAuth(null);
+          }
+        });
+        return () => unsubscribe();
+      }, []); // eslint-disable-line
 
       useEffect(() => {
         // Load data when app starts
@@ -4883,15 +5696,21 @@
       };
 
       const handleAuthSuccess = (userData) => {
-        setUser(userData);
+        const normalized = persistLocalUser(userData);
+        authStateRef.current = normalized;
+        setUser(normalized);
         setStage('app');
       };
 
-      const handleLogout = () => {
+      const handleLogout = async () => {
+        if (window.__fbAuth && window.__fbAuthFns) {
+          try { await window.__fbAuthFns.signOut(window.__fbAuth); } catch {}
+        }
         localStorage.removeItem('meduni9_user');
         localStorage.removeItem('meduni9_sr_data');
         localStorage.removeItem('meduni9_quiz_history');
         localStorage.removeItem('meduni9_stats');
+        authStateRef.current = null;
         setUser(null);
         setStage('auth');
         setCurrentTab('home');
@@ -4900,13 +5719,11 @@
 
       if (stage === 'splash') {
         return <SplashScreen onComplete={() => {
-          const savedUser = localStorage.getItem('meduni9_user');
-          if (savedUser) {
-            setUser(JSON.parse(savedUser));
-            setStage('app');
-          } else {
-            setStage('auth');
+          splashDoneRef.current = true;
+          if (authStateRef.current !== undefined) {
+            applyResolvedAuth(authStateRef.current);
           }
+          // If still undefined: onAuthStateChanged hasn't fired yet → it will call applyResolvedAuth
         }} />;
       }
 
@@ -4924,12 +5741,17 @@
         );
       }
 
-      const handleChangeSemester = (newSem) => {
+      const handleChangeSemester = async (newSem) => {
         const parsed = typeof newSem === 'number' ? newSem : parseInt(newSem);
         if (parsed >= 1 && parsed <= 6) {
-          const updated = { ...user, semestre: parsed, modulo: parsed };
+          const updated = normalizeUserProfile({ ...user, semestre: parsed, modulo: parsed });
           setUser(updated);
-          localStorage.setItem('meduni9_user', JSON.stringify(updated));
+          persistLocalUser(updated);
+          authStateRef.current = updated;
+          const currentUser = window.__fbAuth?.currentUser;
+          if (currentUser) {
+            try { await saveUserProfile(currentUser, updated); } catch {}
+          }
         }
       };
 
@@ -4954,8 +5776,8 @@
                 title="Fechar menu"
                 style={{ marginRight: '4px' }}
               ><IconMenu /></button>
-              <span className="sidebar-logo-icon" style={{ color: 'var(--primary)', display: 'flex', alignItems: 'center' }}><IconLogoMed size={28} /></span>
-              <span className="sidebar-logo-text">MedUni9</span>
+              <span className="sidebar-logo-icon" style={{ display: 'flex', alignItems: 'center' }}><LogoIcon size={30} /></span>
+              <span className="sidebar-logo-text">MedGradPlus<sup style={{fontSize:'0.5em',color:'#00B4D8',fontWeight:800,verticalAlign:'super',lineHeight:0,marginLeft:'1px'}}>+</sup></span>
             </div>
             <div className="sidebar-nav">
               {navItems.map(item => (
@@ -4976,7 +5798,7 @@
                 </div>
                 <div className="sidebar-user-info">
                   <div className="sidebar-user-name">{user.email ? user.email.split('@')[0] : 'Usuário'}</div>
-                  <div className="sidebar-user-meta">Módulo {user.semestre || user.modulo || 1} · Básico</div>
+                  <div className="sidebar-user-meta">{user.campusNome || 'Vergueiro'} · Módulo {user.semestre || user.modulo || 1}</div>
                 </div>
               </div>
             </div>
@@ -4999,7 +5821,7 @@
                 flashcards={flashcards}
                 onSelectMateria={(id) => {
                   setSelectedMateria(id);
-                  navigateTo('cards');
+                  navigateTo('cards', { materiaId: id });
                 }}
               />
             )}
@@ -5009,7 +5831,10 @@
                 flashcards={flashcards}
                 materias={materias}
                 selectedMateria={selectedMateria}
-                onSelectMateria={setSelectedMateria}
+                onSelectMateria={(materiaId) => {
+                  setSelectedMateria(materiaId);
+                  navigateTo('cards', { materiaId });
+                }}
                 userSemester={user.semestre}
               />
             )}
@@ -5019,7 +5844,10 @@
                 flashcards={flashcards}
                 materias={materias}
                 selectedMateria={selectedMateria}
-                onSelectMateria={setSelectedMateria}
+                onSelectMateria={(materiaId) => {
+                  setSelectedMateria(materiaId);
+                  navigateTo('quiz', { materiaId });
+                }}
                 userSemester={user.semestre}
               />
             )}
@@ -5028,9 +5856,12 @@
               <MaterialsScreen
                 materias={materias}
                 userSemester={user.semestre}
+                initialMateriaId={routeState.materiaId}
+                initialTemaId={routeState.aulaId}
+                onRouteChange={navigateTo}
                 onNavigateTo={(tab, materiaId) => {
                   if (materiaId) setSelectedMateria(materiaId);
-                  navigateTo(tab);
+                  navigateTo(tab, { materiaId });
                 }}
               />
             )}
@@ -5040,7 +5871,11 @@
             )}
 
             {currentTab === 'profile' && (
-              <ProfileScreen user={user} onLogout={handleLogout} onChangeSemester={handleChangeSemester} />
+              <ProfileScreen user={user} onLogout={handleLogout} onChangeSemester={handleChangeSemester} onProfileUpdated={(profile) => {
+                const normalized = persistLocalUser(profile);
+                authStateRef.current = normalized;
+                setUser(normalized);
+              }} />
             )}
 
             {/* Bottom Navigation (mobile only) */}
@@ -5064,7 +5899,7 @@
 
     // Render App
     const root = ReactDOM.createRoot(document.getElementById('root'));
-    root.render(<MedUni9App />);
+    root.render(<MedGradPlusApp />);
   </script>
 </body>
 </html>

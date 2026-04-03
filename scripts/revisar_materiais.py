@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-revisar_materiais.py — MedUni9 Material Reviewer
+revisar_materiais.py — MedGradPlus Material Reviewer
 
 Varre todos os .md em materiais/, faz análise estrutural de cada arquivo e
 gera uma fila de revisão para o agente Claude corrigir.

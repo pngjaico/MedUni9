@@ -1,11 +1,11 @@
-# Guia de Geração de Flashcards — MedUni9
+# Guia de Geração de Flashcards — MedGradPlus
 
 > Leia este arquivo antes de gerar qualquer flashcard.
 > Quantidades por aula, metas e schedules ficam nos arquivos de agente — aqui são só as regras de qualidade.
 
 ---
 
-## O que é um flashcard no MedUni9
+## O que é um flashcard no MedGradPlus
 
 Estilo Anki adaptado para medicina. Cada card tem:
 
