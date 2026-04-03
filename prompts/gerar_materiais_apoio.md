@@ -250,9 +250,76 @@ Quando não houver instrução específica, gere nesta ordem:
 
 ---
 
-## 11. Após Criar os Arquivos — Deploy Obrigatório
+## 11. Encoding UTF-8 — Regra Crítica
 
-Após cada sessão de geração, execute o deploy para que os arquivos fiquem disponíveis no app:
+**Problema já acontecido:** arquivos `.md` gerados via PowerShell sem BOM tiveram todos os acentos substituídos por `?` (caractere `U+FFFD`). O app renderizava o arquivo corrompido — não era bug do markdown, era o arquivo em si.
+
+### Métodos seguros para salvar arquivos
+
+| Método | Seguro | Observação |
+|---|---|---|
+| `bash heredoc` (`cat > file << 'ENDOFFILE'`) | **Sim** | Método preferido — Git Bash usa UTF-8 por padrão |
+| Python `path.write_text(content, encoding="utf-8")` | **Sim** | Sempre especificar o encoding explicitamente |
+| PowerShell com BOM | **Sim** | PS1 deve ter BOM (`\xef\xbb\xbf`) — verificar antes de executar |
+| PowerShell sem BOM | **NÃO** | PS5 lê como CP1252 — acentos viram `?` |
+| Claude `Write` tool no Windows | **Evitar** | Pode usar encoding do sistema — use heredoc bash |
+
+### Método heredoc bash — sempre usar assim
+
+```bash
+cat > "C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo1/pmh/pmh_a3.md" << 'ENDOFFILE'
+[conteúdo completo do arquivo aqui com todos os acentos]
+ENDOFFILE
+```
+
+### Validar após gravar — obrigatório
+
+Após gravar qualquer arquivo, rode:
+
+```bash
+python scripts/revisar_materiais.py --materia {sigla} --apenas-relatorio
+```
+
+Se aparecer `char_invalido` no relatório, o arquivo está corrompido. Para recuperar a partir dos PS1:
+
+```bash
+python scripts/recuperar_de_ps1.py
+```
+
+---
+
+## 12. Git — O que commitar
+
+`materiais/` está no `.gitignore` — os arquivos `.md` **não vão para o git**. O que vai para o git:
+
+- Scripts novos ou modificados em `scripts/`
+- Arquivos de prompt em `prompts/`
+- Arquivos de dados em `data/` (exceto `data/feedback/`)
+- Workflows em `.agents/workflows/`
+- `data/agent_logs/` — logs de execução dos agentes
+
+### Commit após cada sessão de geração
+
+```bash
+cd "C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app"
+git add data/agent_logs/ scripts/ prompts/
+git commit -m "feat: materiais gerados para {lista_de_aulas}"
+```
+
+Se gerar flashcards ou questões, incluir os JSONs:
+
+```bash
+git add data/flashcards.json data/questoes.json data/refs/
+git commit -m "feat: flashcards/questoes para {lista_de_aulas}"
+```
+
+---
+
+## 13. Deploy — Publicar no App
+
+`materiais/` não está no git mas **precisa estar no Firebase** para o app funcionar. O deploy lê os arquivos locais e os publica.
+
+### Deploy completo (após geração)
 
 ```bash
 cd "C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app"
@@ -261,13 +328,27 @@ firebase deploy --only hosting
 
 O deploy leva ~30 segundos. Após concluir, os materiais estarão acessíveis em `meduni9-869eb.web.app`.
 
-> Lembre: `materiais/` não vai para o git. Apenas o deploy Firebase publica esses arquivos.
+### Quando fazer deploy
+
+- Após gerar ou corrigir qualquer `.md` em `materiais/`
+- Após corrigir corrupção de encoding
+- **Não precisa** de deploy para mudanças só em scripts, prompts ou dados que já estão no git (esses não afetam o app diretamente)
+
+### Verificar se chegou ao app
+
+Após o deploy, abra uma aba anônima (sem cache) e navegue até a aula. Se o conteúdo não atualizar, force o service worker:
+
+```
+No browser: F12 → Application → Service Workers → Update
+```
+
+O service worker do app usa Network-First e tem `materiais/` no `NEVER_CACHE` — normalmente não precisa forçar.
 
 ---
 
-## 12. Checklist de Entrega por Arquivo
+## 14. Checklist de Entrega por Arquivo
 
-Execute este checklist mentalmente antes de confirmar que o arquivo está pronto:
+Execute este checklist antes de confirmar que o arquivo está pronto:
 
 - [ ] Verificou `id`, `tema`, `descricao` e `modulo` em `data/materias.json` antes de escrever
 - [ ] Nome do arquivo = `{aula_id}.md` exato (ex: `pmh_a3.md`)
@@ -275,12 +356,14 @@ Execute este checklist mentalmente antes de confirmar que o arquivo está pronto
 - [ ] Cabeçalho com breadcrumb (`**Matéria → Tema Geral → Tema da Aula**`)
 - [ ] Linha de metadados (`⏱ 10-15 min · Módulo {N} · {SIGLA}`)
 - [ ] Seção "Por que isso cai na prova?" — direta, sem introdução genérica
-- [ ] Pelo menos 2 seções de conteúdo numeradas, com tabela quando cabível
+- [ ] Pelo menos 3 seções de conteúdo numeradas, com tabela quando cabível
 - [ ] "Erros Clássicos em Prova (Uninove)" com erros específicos ao tema
 - [ ] "Checklist de Revisão" com `- [ ]` e itens verificáveis específicos
 - [ ] "Ponte com a Clínica" com exemplo concreto
 - [ ] **`## Pré-Prova` ao final — obrigatório — com as 3 subseções**
-- [ ] Acentuação e ortografia em português corretas
+- [ ] Acentuação e ortografia em português corretas — nenhum `nao`, `sao`, `voce` sem acento
 - [ ] Sem menção a "banca"
-- [ ] Arquivo criado via heredoc bash (preserva UTF-8)
+- [ ] **Arquivo criado via heredoc bash** — nunca PS1 sem BOM, nunca Write tool
+- [ ] Validado com `revisar_materiais.py` — sem `char_invalido` no relatório
+- [ ] `git add` + `git commit` com mensagem descritiva
 - [ ] `firebase deploy --only hosting` executado ao final da sessão
