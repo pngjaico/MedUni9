@@ -1538,10 +1538,11 @@
     /* Tables */
     .markdown-body .table-wrap {
       overflow-x: auto;
-      border-radius: 8px;
-      border: 1px solid rgba(0, 180, 216, 0.2);
-      margin: 1em 0;
-      background: rgba(0, 180, 216, 0.03);
+      border-radius: 10px;
+      border: 1px solid rgba(0, 180, 216, 0.25);
+      margin: 1.2em 0;
+      background: rgba(10, 20, 50, 0.6);
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(0, 180, 216, 0.08);
     }
     .markdown-body table {
       width: 100%;
@@ -1550,24 +1551,28 @@
       min-width: 360px;
     }
     .markdown-body thead tr {
-      background: rgba(0, 180, 216, 0.15);
+      background: rgba(0, 180, 216, 0.18);
+      border-bottom: 2px solid rgba(0, 180, 216, 0.35);
     }
     .markdown-body th {
-      padding: 9px 12px;
+      padding: 10px 14px;
       font-weight: 600;
       color: #E2E8F0;
       text-align: left;
-      border-bottom: 1px solid rgba(0, 180, 216, 0.3);
       white-space: nowrap;
+      font-size: 0.82rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
     }
     .markdown-body td {
-      padding: 8px 12px;
-      border-bottom: 1px solid rgba(255,255,255,0.06);
+      padding: 9px 14px;
+      border-bottom: 1px solid rgba(255,255,255,0.05);
       color: #CBD5E1;
+      line-height: 1.5;
     }
-    .markdown-body tbody tr:nth-child(even) { background: rgba(255,255,255,0.02); }
+    .markdown-body tbody tr:nth-child(even) { background: rgba(255,255,255,0.03); }
     .markdown-body tbody tr:last-child td { border-bottom: none; }
-    .markdown-body tbody tr:hover { background: rgba(255,255,255,0.05); }
+    .markdown-body tbody tr:hover { background: rgba(0, 180, 216, 0.07); transition: background 0.15s; }
 
     /* Checklist interativo */
     .markdown-body input[type="checkbox"] {
@@ -2321,7 +2326,7 @@
     const { useState, useEffect, useRef, useCallback, useMemo } = React;
 
     // ===================== Markdown renderer =====================
-    marked.use({ gfm: true, breaks: true });
+    marked.use({ gfm: true });
     function renderMd(text) {
       return marked.parse(text)
         .replace(/<table>/g, '<div class="table-wrap"><table>')
@@ -4108,10 +4113,11 @@
 
       // Split markdown at "## Pré-Prova" section
       const splitAtPreProva = (content) => {
-        const markers = ['## Pré-Prova', '## Pre-Prova', '## PRÉ-PROVA', '## PRE-PROVA', '## Pré prova'];
-        for (const m of markers) {
-          const idx = content.indexOf(m);
-          if (idx !== -1) return { main: content.slice(0, idx).trim(), preProva: content.slice(idx).trim() };
+        // regex: matches "## Pré-Prova" or "## Pre-Prova" (any case, hyphen optional) at start of line
+        const re = /^## Pr[eé][- ]?Prova/im;
+        const match = re.exec(content);
+        if (match) {
+          return { main: content.slice(0, match.index).trim(), preProva: content.slice(match.index).trim() };
         }
         return { main: content, preProva: null };
       };
