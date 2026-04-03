@@ -1,4 +1,4 @@
-$utf8NoBom = New-Object System.Text.UTF8Encoding $false
+﻿$utf8NoBom = New-Object System.Text.UTF8Encoding $false
 $base = "C:\Users\Usuario-pc\Desktop\Aplicativo Uni9\meduni9-app"
 
 # ─── SEMIO1 A4 ────────────────────────────────────────────────────────────────
