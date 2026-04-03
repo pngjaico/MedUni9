@@ -1,90 +1,118 @@
-# Guia Completo: Geração de Flashcards — MedUni9
+# Guia de Geração de Flashcards — MedUni9
 
-> Guia único e autoritativo para gerar flashcards do app MedUni9.
-> Leia por completo antes de gerar qualquer flashcard.
-
----
-
-## 1. Contexto
-
-**App:** MedUni9 — PWA de estudos de medicina para alunos da Uninove (1º semestre).
-**Flashcards:** estilo Anki — frente/verso com dificuldade e tags. Persistidos em `data/flashcards.json`.
-**Meta por aula:** 12 flashcards cobrindo os conceitos essenciais da aula.
+> Leia este arquivo antes de gerar qualquer flashcard.
+> Quantidades por aula, metas e schedules ficam nos arquivos de agente — aqui são só as regras de qualidade.
 
 ---
 
-## 2. Verificação Obrigatória Antes de Gerar
+## O que é um flashcard no MedUni9
 
-**Antes de escrever qualquer flashcard**, confirme em `data/materias.json` e `data/flashcards.json`:
+Estilo Anki adaptado para medicina. Cada card tem:
 
-1. O `id` exato da aula (ex: `pmh_a3`)
-2. O `tema` da aula (ex: "Glicólise e Gliconeogênese")
-3. O número do `modulo` (ex: `1`)
-4. A `sigla` da matéria (ex: `pmh`)
-5. Quantos flashcards já existem para essa aula (`tema == aula_id` no JSON)
-6. Qual o maior `id` atual no arquivo — o próximo começa em `max_id + 1`
+- **Frente** — pergunta ou situação clínica
+- **Verso** — resposta direta, curta, sem contexto
+- **Explicação** — mecanismo, contexto clínico ou justificativa; texto secundário, menor e mais opaco na interface
+
+A separação verso/explicação é intencional: o aluno vê a resposta rápida primeiro e decide se quer o aprofundamento.
 
 ---
 
-## 3. Formato JSON Obrigatório
-
-Cada flashcard segue este schema exato:
+## Formato JSON
 
 ```json
 {
   "id": 123,
   "materia": "pmh",
-  "frente": "Pergunta direta ou situação clínica curta",
-  "verso": "Resposta completa em 1-3 frases, sem ambiguidade",
-  "tema": "pmh_a3",
+  "frente": "O que o AMP sinaliza para a célula?",
+  "verso": "Crise energética — ativa AMPK para acelerar o catabolismo.",
+  "explicacao": "O acúmulo de AMP indica que ATP está sendo consumido mais rápido que produzido. A AMPK inibe vias anabólicas e acelera vias catabólicas (glicólise, beta-oxidação) para restaurar o estoque de ATP.",
+  "tema": "pmh_a1",
   "dificuldade": 2,
-  "tags": ["glicólise", "enzimas", "atp"]
+  "tags": ["ampk", "amp", "regulacao-energetica"]
 }
 ```
 
-### Campos obrigatórios
-
 | Campo | Tipo | Regra |
 |---|---|---|
-| `id` | int | Sequencial global — nunca repetir |
-| `materia` | string | Sigla exata da matéria (ex: `pmh`, `bmf1`, `bcm1`) |
-| `frente` | string | Pergunta ou situação clínica — máximo 120 caracteres |
-| `verso` | string | Resposta direta — máximo 300 caracteres |
-| `tema` | string | Sempre igual ao `aula_id` (ex: `pmh_a3`) |
-| `dificuldade` | int | 1 = fácil, 2 = médio, 3 = difícil |
-| `tags` | array | 2–5 tags lowercase, sem acento, com hífen se composto |
+| `id` | int | Sequencial global — nunca repetir; verificar max antes de criar |
+| `materia` | string | Sigla exata (`pmh`, `bmf1`, `bcm1`, `mad1`...) |
+| `frente` | string | Máximo 120 caracteres; pergunta direta ou situação clínica curta |
+| `verso` | string | Máximo 120 caracteres; resposta direta — sem "a resposta é..." |
+| `explicacao` | string | 1–3 frases; mecanismo, contexto clínico ou aplicação; pode ser vazio `""` nos cards mais simples |
+| `tema` | string | Sempre o `aula_id` exato (`pmh_a1`, `bcm1_a5`) — nunca nome livre |
+| `dificuldade` | int | 1 fácil / 2 médio / 3 difícil |
+| `tags` | array | 2–4 tags, lowercase, sem acento, hífen para compostas |
 
 ---
 
-## 4. Regras de Qualidade
+## Verso — a regra mais importante
 
-### Frente (pergunta)
-- **Direta e específica** — evite "O que é..." genérico; prefira "Qual enzima catalisa..."
-- **Pode ser clínica** — "Paciente com icterícia e bilirrubina indireta elevada. Qual via está bloqueada?"
-- **Sem resposta embutida** — a frente não pode sugerir a resposta
-- **Sem abreviações desconhecidas** na frente — escreva por extenso
+O verso deve ser respondível em 3 segundos de leitura.
 
-### Verso (resposta)
-- **Completo mas conciso** — 1 a 3 frases
-- **Sem "a resposta é..."** — vá direto ao ponto
-- **Inclua o mecanismo** quando relevante (ex: "porque inibe o complexo I mitocondrial")
-- **Português correto** — acentuação completa obrigatória
+**Certo:**
+> "FADH₂ — entra no Complexo II, gera ~1,5 ATP."
 
-### Distribuição por dificuldade por aula
-- ~4 flashcards dificuldade 1 (conceitos básicos, definições)
-- ~5 flashcards dificuldade 2 (mecanismos, comparações, aplicações)
-- ~3 flashcards dificuldade 3 (casos clínicos, integração, detalhes de prova)
+**Errado:**
+> "O FADH₂ é uma coenzima reduzida que, ao contrário do NADH que entra no Complexo I e gera 2,5 ATP, entra no Complexo II da cadeia transportadora de elétrons mitocondrial, gerando aproximadamente 1,5 ATP por molécula oxidada."
+
+Isso vai para a `explicacao`, não para o `verso`.
 
 ---
 
-## 5. Como Adicionar ao Arquivo
+## Frente — como formular
 
-**Nunca sobrescreva o arquivo inteiro.** Sempre:
+- **Específica** — evite "O que é X?"; prefira "Qual a função de X em Y?"
+- **Não entrega a resposta** — "Por que o FADH₂ gera menos ATP que o NADH?" já diz que gera menos
+- **Pode ser clínica** — "Paciente com intoxicação por cianeto. Por que o ATP cai tão rápido?"
+- **Pode ser de localização** — "Onde ocorre a beta-oxidação?"
+- **Pode ser de comparação** — "NADH vs FADH₂: qual gera mais ATP e por quê?"
 
-1. Leia `data/flashcards.json` completo
-2. Encontre o maior `id` atual
-3. Adicione os novos flashcards ao array existente com ids sequenciais
-4. Salve o arquivo completo com encoding UTF-8
+---
+
+## Dificuldade — critério objetivo
+
+| Nível | Critério | Exemplo de frente |
+|---|---|---|
+| 1 — Fácil | Definição, nomenclatura, localização direta | "Onde ocorre a glicólise?" |
+| 2 — Médio | Mecanismo, comparação, consequência | "Por que FADH₂ gera menos ATP que NADH?" |
+| 3 — Difícil | Caso clínico integrado, detalhe de prova, erro clássico | "Paciente em sepse com lactato de 6 mmol/L. Qual via predomina e por quê?" |
+
+---
+
+## Explicação — quando usar e o que colocar
+
+Use `explicacao` quando o verso por si só não fecha o raciocínio:
+
+- Mecanismo bioquímico ou fisiológico por trás da resposta
+- Correlação clínica que reforça o conceito
+- Por que os distradores comuns estão errados
+- Regra mnemônica ou analogia
+
+Pode ser `""` (vazio) para cards de dificuldade 1 com resposta autoexplicativa.
+
+---
+
+## Tags — padrão
+
+- Lowercase, sem acento: `acido-base`, `glicolise`, `atp`, `celula-b`
+- Represente o conceito, não a aula: `mitocondria` não `pmh-a3`
+- 2 a 4 tags por card; mais que isso vira poluição
+
+---
+
+## O que não gerar
+
+- Verso com mais de 120 caracteres — se precisar de mais, é `explicacao`
+- Frente ambígua com múltiplas respostas corretas
+- Cards duplicados de conteúdo já existente na mesma `tema`
+- `tema` com nome livre — sempre `aula_id` (`pmh_a1`, não `bioenergética`)
+- Tags com acento ou maiúscula
+
+---
+
+## Como adicionar ao arquivo
+
+Nunca sobrescreva o arquivo. Sempre leia, encontre o `max(id)`, adicione ao array, salve.
 
 ```python
 import json
@@ -95,46 +123,9 @@ data = json.loads(path.read_text(encoding="utf-8"))
 cards = data if isinstance(data, list) else data.get("flashcards", [])
 
 max_id = max((c["id"] for c in cards), default=0)
-novos = [...]  # lista de novos flashcards com ids iniciando em max_id + 1
+novos = [...]  # novos cards com ids a partir de max_id + 1
 
 cards.extend(novos)
 result = cards if isinstance(data, list) else {**data, "flashcards": cards}
 path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
 ```
-
----
-
-## 6. O que NÃO gerar
-
-- Flashcards sobre temas não cobertos na aula (olhar `descricao` em `materias.json`)
-- Frentes ambíguas que admitem múltiplas respostas corretas
-- Versos com mais de 3 frases — se precisar de mais, divida em dois cards
-- Flashcards duplicando conteúdo já existente para a mesma `tema`
-- Tags com acento ou maiúscula (ex: use `acido-base` não `Ácido-Base`)
-
----
-
-## 7. Fontes por Matéria
-
-| Matéria | Fontes principais |
-|---|---|
-| PMH | Harper — Bioquímica Ilustrada; Lehninger |
-| BMF1/2 | Gray's Anatomy; Guyton & Hall |
-| BCM1 | Alberts — Biologia Molecular da Célula |
-| MAD1/2 | Janeway — Imunobiologia; Murray — Microbiologia Médica |
-| SUS | Documentos do MS; Starfield — Atenção Primária |
-
----
-
-## 8. Checklist de Entrega por Lote
-
-- [ ] Verificou `id` máximo atual antes de criar novos
-- [ ] `tema` = `aula_id` exato (ex: `pmh_a3` não `pmh_glicólise`)
-- [ ] `materia` = sigla exata da matéria
-- [ ] Frentes com máximo 120 caracteres
-- [ ] Versos com máximo 300 caracteres
-- [ ] Distribuição de dificuldade: ~4/5/3 (fácil/médio/difícil)
-- [ ] Tags sem acento, lowercase, com hífen
-- [ ] Acentuação em português em todas as frentes e versos
-- [ ] Arquivo salvo sem sobrescrever registros existentes
-- [ ] Total de flashcards gerados para a aula: 12

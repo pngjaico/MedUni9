@@ -25,23 +25,26 @@ Leia o guia completo em `prompts/gerar_flashcards.md` antes de gerar.
 
 **Meta:** gerar flashcards suficientes para atingir 12 no total para a aula (`flashcards_faltam` do status).
 
+Leia `prompts/gerar_flashcards.md` por completo antes de gerar.
+
 Siga estritamente o formato:
 ```json
 {
   "id": 123,
   "materia": "pmh",
-  "frente": "Pergunta direta e específica",
-  "verso": "Resposta completa em 1-3 frases",
+  "frente": "Pergunta direta — máx 120 chars",
+  "verso": "Resposta direta e curta — máx 120 chars",
+  "explicacao": "Mecanismo, contexto clínico ou por que os distradores estão errados. Pode ser vazio nos cards mais simples.",
   "tema": "pmh_a1",
   "dificuldade": 2,
   "tags": ["tag1", "tag2"]
 }
 ```
 
-**Distribuição obrigatória por aula (12 cards total):**
-- 4 cards dificuldade 1 — conceitos básicos e definições
-- 5 cards dificuldade 2 — mecanismos, comparações, aplicações
-- 3 cards dificuldade 3 — casos clínicos e detalhes de prova
+**Distribuição obrigatória por rodada (12 cards por aula):**
+- 4 cards dificuldade 1 — definições e localizações diretas
+- 5 cards dificuldade 2 — mecanismos, comparações, consequências
+- 3 cards dificuldade 3 — casos clínicos integrados
 
 **Cobrir obrigatoriamente:**
 - Todos os tópicos das seções numeradas do material

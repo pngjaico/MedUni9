@@ -1,121 +1,148 @@
-# Guia Completo: Geração de Questões — MedUni9
+# Guia de Geração de Questões — MedUni9
 
-> Guia único e autoritativo para gerar questões do app MedUni9.
-> Leia por completo antes de gerar qualquer questão.
-
----
-
-## 1. Contexto
-
-**App:** MedUni9 — PWA de estudos de medicina para alunos da Uninove (1º semestre).
-**Questões:** múltipla escolha com 4 opções (A–D), explicação detalhada, estilo Uninove.
-**Meta por aula:** 5 questões cobrindo os pontos mais cobrados em prova.
-**Arquivo:** `data/questoes.json`
+> Leia este arquivo antes de gerar qualquer questão.
+> Quantidades por aula e schedules ficam nos arquivos de agente.
 
 ---
 
-## 2. Verificação Obrigatória Antes de Gerar
+## Veredito sobre as questões existentes
 
-**Antes de escrever qualquer questão**, confirme em `data/materias.json` e `data/questoes.json`:
+Análise de 101 questões do banco atual (bcm1, bmf1, sus):
 
-1. O `id` exato da aula (ex: `pmh_a3`)
-2. O `tema` da aula e subtópicos (campo `descricao`)
-3. O número do `modulo` (ex: `1`)
-4. A `sigla` da matéria (ex: `pmh`)
-5. Quantas questões já existem para essa aula (`tema == aula_id` no JSON)
-6. Qual o maior `id` atual no arquivo — o próximo começa em `max_id + 1`
+**O que está bom:**
+- 51% têm caso clínico — alinhado com o estilo Uninove
+- Enunciados com média de 178 chars — tamanho adequado
+- Explicações com média de 244 chars — detalhe suficiente
+- Formato JSON consistente e completo
+
+**O que precisa corrigir em novas gerações:**
+
+| Problema | Dado | Impacto |
+|---|---|---|
+| Posição da correta enviesada | B = 47%, D = 6% | Aluno marca B sempre e acerta ~metade |
+| `tema` inconsistente | Mistura `aula_id` com nomes livres | Filtragem por aula quebra |
+| Pouca dificuldade 3 | Só 8% difícil | Casos integrados são os mais cobrados em prova |
+
+**Conclusão:** qualidade de conteúdo boa, problemas são estruturais. As novas questões devem manter o estilo clínico e corrigir os três pontos acima.
 
 ---
 
-## 3. Formato JSON Obrigatório
-
-Cada questão segue este schema exato:
+## Formato JSON
 
 ```json
 {
   "id": 102,
   "materia": "pmh",
-  "enunciado": "Enunciado completo da questão com contexto clínico quando possível",
+  "enunciado": "Paciente de 58 anos com histórico de alcoolismo crônico apresenta encefalopatia e oftalmoplegia. A deficiência de qual vitamina explica o quadro e por qual mecanismo metabólico?",
   "opcoes": [
-    "A) Opção correta",
-    "B) Opção incorreta plausível",
-    "C) Opção incorreta plausível",
-    "D) Opção incorreta plausível"
+    "A) Vitamina B1 (tiamina) — cofator essencial da piruvato desidrogenase e alfa-cetoglutarato desidrogenase",
+    "B) Vitamina B12 — necessária para síntese de DNA nas células nervosas",
+    "C) Vitamina B6 (piridoxina) — cofator nas reações de transaminação",
+    "D) Vitamina C — antioxidante protetor do sistema nervoso central"
   ],
   "correta": 0,
-  "explicacao": "Explicação detalhada de por que A é correta e por que B, C, D estão erradas.",
+  "explicacao": "A Síndrome de Wernicke é causada por deficiência de tiamina (B1), cofator do complexo piruvato desidrogenase. Sem tiamina, a glicose não entra no ciclo de Krebs — o encéfalo, dependente exclusivo de glicose, sofre disfunção aguda. B12 causa neuropatia subaguda, não encefalopatia aguda. B6 e C não causam este quadro.",
   "tema": "pmh_a3",
-  "dificuldade": 2,
+  "dificuldade": 3,
   "modulo": 1
 }
 ```
 
-### Campos obrigatórios
-
 | Campo | Tipo | Regra |
 |---|---|---|
-| `id` | int | Sequencial global — nunca repetir |
-| `materia` | string | Sigla exata (ex: `pmh`, `bmf1`, `bcm1`) |
-| `enunciado` | string | Mínimo 60 caracteres; caso clínico ou questão conceitual |
-| `opcoes` | array[4] | Exatamente 4 itens; sempre prefixados com `A)`, `B)`, `C)`, `D)` |
-| `correta` | int | Índice da opção correta (0 = A, 1 = B, 2 = C, 3 = D) |
-| `explicacao` | string | Mínimo 100 caracteres; explica correta E descarta incorretas |
-| `tema` | string | Sempre igual ao `aula_id` (ex: `pmh_a3`) |
-| `dificuldade` | int | 1 = fácil, 2 = médio, 3 = difícil |
-| `modulo` | int | Número do módulo da matéria |
+| `id` | int | Sequencial global — verificar max antes |
+| `materia` | string | Sigla exata (`pmh`, `bmf1`, `sus`...) |
+| `enunciado` | string | 60–300 chars; caso clínico quando possível |
+| `opcoes` | array[4] | Exatamente 4, sempre prefixadas `A)`, `B)`, `C)`, `D)` |
+| `correta` | int | Índice 0–3 (0=A, 1=B, 2=C, 3=D) — não é a letra |
+| `explicacao` | string | Mín. 100 chars; explica a correta E descarta ≥2 incorretas |
+| `tema` | string | Sempre `aula_id` exato (`pmh_a3`) — nunca nome livre |
+| `dificuldade` | int | 1 fácil / 2 médio / 3 difícil |
+| `modulo` | int | Número do módulo |
 
 ---
 
-## 4. Regras de Qualidade
+## Posição da correta — regra obrigatória
 
-### Enunciado
-- **Estilo Uninove:** direto, sem armadilhas de linguagem, mas exigindo raciocínio
-- **Caso clínico quando possível** — "Paciente de 45 anos com DM2 em uso de metformina..." é melhor que definição pura
-- **Único ponto de dúvida** — cada questão testa UMA coisa, não três ao mesmo tempo
-- **Português correto** — acentuação obrigatória; sem abreviações obscuras
+Distribua a posição correta de forma equilibrada **dentro de cada lote gerado**:
 
-### Opções
-- **Exatamente 4 opções** (A, B, C, D)
-- **Distradores plausíveis** — os erros devem ser erros que alunos realmente cometem
-- **Paralelismo** — todas as opções têm a mesma estrutura gramatical
-- **Sem "todas as anteriores" ou "nenhuma das anteriores"**
-- **Variar a posição da correta** — não concentrar sempre em A ou B
+Para cada 4 questões: uma correta em A, uma em B, uma em C, uma em D.
+Para 5 questões: distribua 4 posições diferentes e repita a de maior ausência.
 
-### Explicação
-- **Explica por que a correta está certa** (mecanismo, não só "é isso")
-- **Descarta ao menos 2 das incorretas** com justificativa específica
-- **Pode referenciar a aula** — "Como visto na regulação do ciclo de Krebs..."
-- **Tamanho:** 2–4 frases; não deve ser maior que o enunciado
-
-### Distribuição de dificuldade por aula (5 questões)
-- 1 questão dificuldade 1 (conceito básico, definição direta)
-- 3 questões dificuldade 2 (aplicação, mecanismo, comparação)
-- 1 questão dificuldade 3 (caso clínico integrado, detalhe de prova)
+**Nunca** concentre mais de 2 questões com a mesma posição correta em sequência.
 
 ---
 
-## 5. Tipos de Questão — Usar Variedade
+## Dificuldade — critério objetivo
 
-| Tipo | Exemplo |
+| Nível | Critério |
 |---|---|
-| Definição/conceito | "Qual é a função do NAD+ na glicólise?" |
-| Comparação | "Qual a diferença entre NADH e FADH2 na cadeia respiratória?" |
-| Caso clínico | "Paciente com intoxicação por cianeto... O que ocorre com a produção de ATP?" |
-| Localização | "Onde ocorre a beta-oxidação de ácidos graxos?" |
-| Consequência | "O que acontece com o metabolismo quando o AMP acumula?" |
-
-Tente cobrir pelo menos 3 tipos diferentes nas 5 questões de cada aula.
+| 1 — Fácil | Definição direta, nomenclatura, "qual célula faz X?" — resposta no material sem interpretação |
+| 2 — Médio | Mecanismo, comparação entre conceitos, consequência de alteração — requer raciocínio |
+| 3 — Difícil | Caso clínico com múltiplas variáveis, integração entre vias/sistemas, detalhes específicos de prova |
 
 ---
 
-## 6. Como Adicionar ao Arquivo
+## Enunciado — como construir
 
-**Nunca sobrescreva o arquivo inteiro.** Sempre:
+**Caso clínico (preferido para dif. 2 e 3):**
+> "Paciente de [idade] com [contexto]. [Dado laboratorial ou clínico]. [Pergunta direta]."
 
-1. Leia `data/questoes.json` completo
-2. Encontre o maior `id` atual
-3. Adicione as novas questões ao array existente com ids sequenciais
-4. Salve o arquivo completo com encoding UTF-8
+**Conceitual (aceitável para dif. 1):**
+> "Qual enzima catalisa [etapa específica] na [via]?"
+
+**Negativa — usar com extrema parcimônia:**
+> "Qual das alternativas NÃO é característica de X?"
+
+Limite: máximo 1 questão negativa por lote de 5. Evite se possível — a Uninove usa pouco.
+
+---
+
+## Distradores — como construir
+
+Cada distrator deve ser um erro que alunos realmente cometem. Tipos:
+
+| Tipo de distrator | Exemplo |
+|---|---|
+| Conceito correto mas contexto errado | "Osteoclastos" quando a resposta é "osteoblastos" |
+| Parte do processo, não o todo | "Piruvato desidrogenase" quando a pergunta é sobre a via completa |
+| Confusão de nomenclatura | "FADH₂" quando a resposta é "NADH" |
+| Conceito de matéria adjacente | Vitamina B12 quando a resposta é B1 |
+
+**Nunca:**
+- "Todas as anteriores" ou "Nenhuma das anteriores"
+- Opção obviamente absurda (o aluno elimina sem raciocínio)
+- Opções com comprimento muito diferente entre si (entrega a correta visualmente)
+
+---
+
+## Explicação — o que deve conter
+
+1. Por que a opção correta está certa (mecanismo, não só "é isso")
+2. Descarte de ao menos 2 distradores com justificativa específica
+3. Referência ao conteúdo clínico quando possível
+
+Tamanho: 2–4 frases. Não deve ser maior que o enunciado.
+
+---
+
+## Tipos de questão — variar por lote
+
+| Tipo | Quando usar |
+|---|---|
+| Caso clínico diagnóstico | Dif. 2 e 3; conecta sintoma → mecanismo |
+| Localização | Dif. 1; "onde ocorre X?" |
+| Comparação | Dif. 2; "A vs B — qual a diferença?" |
+| Consequência patológica | Dif. 2 e 3; "o que ocorre quando X falta?" |
+| Aplicação farmacológica | Dif. 3; "qual fármaco age neste mecanismo?" |
+
+Mínimo 3 tipos diferentes por lote de 5 questões.
+
+---
+
+## Como adicionar ao arquivo
+
+Nunca sobrescreva. Leia, encontre max(id), adicione, salve.
 
 ```python
 import json
@@ -126,7 +153,7 @@ data = json.loads(path.read_text(encoding="utf-8"))
 questoes = data if isinstance(data, list) else data.get("questoes", [])
 
 max_id = max((q["id"] for q in questoes), default=0)
-novas = [...]  # lista de novas questões com ids iniciando em max_id + 1
+novas = [...]  # novas questões com ids a partir de max_id + 1
 
 questoes.extend(novas)
 result = questoes if isinstance(data, list) else {**data, "questoes": questoes}
@@ -135,26 +162,10 @@ path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-
 
 ---
 
-## 7. O que NÃO gerar
+## O que não gerar
 
-- Questões sobre temas fora da `descricao` da aula em `materias.json`
-- Mais de 1 questão por subtópico (5 questões = 5 subtópicos diferentes)
-- Enunciados com dupla negação ou construções ambíguas
-- Opções com "todas as anteriores" ou "nenhuma das anteriores"
+- `tema` com nome livre — sempre `aula_id` (`pmh_a3`, não `"Glicólise"`)
+- Mais de 1 questão sobre o mesmo subtópico por lote
+- Dupla negação no enunciado
+- Mais de 2 questões com a mesma posição de resposta correta no mesmo lote
 - Questões duplicando conteúdo já existente para a mesma `tema`
-
----
-
-## 8. Checklist de Entrega por Lote
-
-- [ ] Verificou `id` máximo atual antes de criar novos
-- [ ] `tema` = `aula_id` exato (ex: `pmh_a3`)
-- [ ] `materia` = sigla exata e `modulo` = número correto
-- [ ] Exatamente 4 opções em cada questão, prefixadas com `A)`, `B)`, `C)`, `D)`
-- [ ] `correta` é o índice (0–3), não a letra
-- [ ] Explicação com ≥ 100 caracteres descartando opções incorretas
-- [ ] Variedade de tipos de questão (mínimo 3 tipos diferentes)
-- [ ] Distribuição de dificuldade: 1/3/1 (fácil/médio/difícil)
-- [ ] Acentuação em português em todos os campos
-- [ ] Arquivo salvo sem sobrescrever registros existentes
-- [ ] Total de questões geradas para a aula: 5

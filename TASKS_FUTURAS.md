@@ -27,6 +27,16 @@
 
 ---
 
+## Plataforma de Flashcards
+
+- [ ] **Renderizar campo `explicacao` no card** — o JSON já tem o campo; o app precisa exibi-lo abaixo do verso em texto menor e mais opaco (cor ~60% opacidade, fonte ~0.85rem). Só aparece depois que o aluno vira o card. (Prioridade: alta)
+- [ ] **Migrar `verso` dos cards existentes** — cards antigos têm tudo no `verso`; separar em `verso` (resposta direta, máx 120 chars) + `explicacao` (mecanismo/contexto). Script Python de migração. (Prioridade: média)
+- [ ] **Corrigir posição enviesada das questões** — banco atual tem 47% de respostas corretas na opção B; script de auditoria + correção manual das questões enviesadas. (Prioridade: alta)
+- [ ] **Padronizar campo `tema` das questões antigas** — mistura de `aula_id` com nomes livres (`PNSP - Objetivos`, `bcm1_acido_base`); migrar para `aula_id` padrão. (Prioridade: média)
+- [ ] **Filtro por aula na tela de flashcards** — botão "Ver cards desta aula" no viewer do material, filtrando por `tema == aula_id`. (Prioridade: média)
+
+---
+
 ## App / UX
 
 - [ ] **Busca global** — campo de busca no app que filtra aulas, flashcards e questões por texto livre. (Prioridade: média)
