@@ -16,7 +16,12 @@
       "Bash(cat \"/c/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/prompts/\"*)",
       "Bash(where claude:*)",
       "Bash(schtasks:*)",
-      "Bash(powershell.exe:*)"
+      "Bash(powershell.exe:*)",
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo1/bmf1/bmf1_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo1/bmf1/')",
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo1/pmh/pmh_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo1/pmh/')",
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo2/bcm1/bcm1_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo2/bcm1/')",
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo2/mad1/mad1_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo2/mad1/')",
+      "Bash(mv 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/conteudos/materiais/modulo3/mad2/mad2_a*.md' 'C:/Users/Usuario-pc/Desktop/Aplicativo Uni9/meduni9-app/materiais/modulo3/mad2/')"
     ]
   }
 }

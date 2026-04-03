@@ -1,0 +1,19 @@
+{
+  "aula_id": "sus_a8",
+  "materia": "sus",
+  "modulo": 1,
+  "tema": "PNAB e Estratégia Saúde da Família",
+  "gerado_em": "02/04/2026 23:12",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}

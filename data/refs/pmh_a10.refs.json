@@ -1,0 +1,19 @@
+{
+  "aula_id": "pmh_a10",
+  "materia": "pmh",
+  "modulo": 1,
+  "tema": "Transaminação, Desaminação e Ciclo da Ureia",
+  "gerado_em": "02/04/2026 23:12",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}

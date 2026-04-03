@@ -1,0 +1,19 @@
+{
+  "aula_id": "bmf1_a19",
+  "materia": "bmf1",
+  "modulo": 1,
+  "tema": "Anatomia dos Intestinos Delgado e Grosso",
+  "gerado_em": "02/04/2026 23:12",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}
