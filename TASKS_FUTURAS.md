@@ -12,6 +12,7 @@
 - [ ] **Dashboard de cobertura** — tabela por matéria mostrando % de aulas com material, flashcards e questões. Base: `data/agent_logs/status_analisador.json`. (Prioridade: média)
 - [ ] **Visualizador de logs dos agentes** — exibir `data/agent_logs/status_*.json` no admin com histórico de execuções. (Prioridade: baixa)
 - [ ] **Aprovação de materiais gerados** — fluxo no admin para revisar e aprovar/rejeitar materiais antes de publicar no Firebase. (Prioridade: média)
+- [ ] **Interface de aprovação de relatórios no admin** — exibir `data/agent_logs/pendentes/*.json` com status (pendente/aprovado/rejeitado), botão "Aprovar" e "Rejeitar" por relatório, preview das ações propostas (diff de flashcards, preview do .md, lista de questões). Hoje o fluxo é via CLI (`aprovar_pendentes.py`); o admin deve oferecer a mesma experiência visualmente. (Prioridade: alta)
 
 ---
 

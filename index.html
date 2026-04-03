@@ -1536,13 +1536,18 @@
     }
 
     /* Tables */
+    .markdown-body .table-wrap {
+      overflow-x: auto;
+      border-radius: 8px;
+      border: 1px solid rgba(0, 180, 216, 0.2);
+      margin: 1em 0;
+      background: rgba(0, 180, 216, 0.03);
+    }
     .markdown-body table {
       width: 100%;
       border-collapse: collapse;
       font-size: 0.85rem;
-      margin: 1em 0;
-      border-radius: 8px;
-      overflow: hidden;
+      min-width: 360px;
     }
     .markdown-body thead tr {
       background: rgba(0, 180, 216, 0.15);
@@ -1553,14 +1558,16 @@
       color: #E2E8F0;
       text-align: left;
       border-bottom: 1px solid rgba(0, 180, 216, 0.3);
+      white-space: nowrap;
     }
     .markdown-body td {
       padding: 8px 12px;
       border-bottom: 1px solid rgba(255,255,255,0.06);
       color: #CBD5E1;
     }
+    .markdown-body tbody tr:nth-child(even) { background: rgba(255,255,255,0.02); }
     .markdown-body tbody tr:last-child td { border-bottom: none; }
-    .markdown-body tbody tr:hover { background: rgba(255,255,255,0.03); }
+    .markdown-body tbody tr:hover { background: rgba(255,255,255,0.05); }
 
     /* Checklist interativo */
     .markdown-body input[type="checkbox"] {
@@ -2312,6 +2319,14 @@
 
   <script type="text/babel">
     const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+    // ===================== Markdown renderer =====================
+    marked.use({ gfm: true, breaks: true });
+    function renderMd(text) {
+      return marked.parse(text)
+        .replace(/<table>/g, '<div class="table-wrap"><table>')
+        .replace(/<\/table>/g, '</table></div>');
+    }
 
     // ===================== Feedback FAB =====================
 
@@ -4417,7 +4432,7 @@
                       wordBreak: 'break-word',
                       boxShadow: '0 4px 32px rgba(0,180,216,0.08), 0 2px 12px rgba(0,0,0,0.3)',
                     }}
-                    dangerouslySetInnerHTML={{ __html: marked.parse(main) }}
+                    dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
 
                   {/* Pré-Prova collapsible */}
@@ -4472,7 +4487,7 @@
                             padding: '18px 20px',
                             wordBreak: 'break-word',
                           }}
-                          dangerouslySetInnerHTML={{ __html: marked.parse(preProva) }}
+                          dangerouslySetInnerHTML={{ __html: renderMd(preProva) }}
                         />
                       )}
                     </div>

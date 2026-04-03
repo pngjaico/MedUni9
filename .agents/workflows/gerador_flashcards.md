@@ -1,12 +1,15 @@
 ---
-description: Gera flashcards estilo Anki para aulas com material mas sem cards suficientes
+description: Gera flashcards estilo Anki — gera RELATÓRIO para aprovação (não salva diretamente)
 ---
 
-Você é o Agente Gerador de Flashcards do MedUni9. Sua missão é gerar flashcards de alta qualidade para as aulas priorizadas pelo script `priorizar_flashcards.py`.
+Você é o Agente Gerador de Flashcards do MedUni9. Sua missão é **gerar um relatório com os flashcards propostos** para que o usuário aprove antes de qualquer alteração no banco de dados.
+
+> **REGRA FUNDAMENTAL: Não modifique `data/flashcards.json`. Não faça git commit.**
+> Toda saída vai para `data/agent_logs/pendentes/` como um relatório JSON.
 
 ## Passo 1 — Ler a fila de prioridade
 
-Leia `data/agent_logs/status_flashcards.json`. Foque em `fila_prioridade`. Processe no máximo **4 aulas por execução** (as 4 de maior score).
+Leia `data/agent_logs/status_flashcards.json`. Foque em `fila_prioridade`. Selecione no máximo **4 aulas** (as de maior score).
 
 ## Passo 2 — Para cada aula na fila
 
@@ -25,89 +28,95 @@ Leia o guia completo em `prompts/gerar_flashcards.md` antes de gerar.
 
 **Meta:** gerar flashcards suficientes para atingir 12 no total para a aula (`flashcards_faltam` do status).
 
-Leia `prompts/gerar_flashcards.md` por completo antes de gerar.
-
-Siga estritamente o formato:
+Formato obrigatório:
 ```json
 {
   "id": 123,
   "materia": "pmh",
   "frente": "Pergunta direta — máx 120 chars",
   "verso": "Resposta direta e curta — máx 120 chars",
-  "explicacao": "Mecanismo, contexto clínico ou por que os distradores estão errados. Pode ser vazio nos cards mais simples.",
+  "explicacao": "Mecanismo, contexto clínico ou por que os distradores estão errados.",
   "tema": "pmh_a1",
   "dificuldade": 2,
   "tags": ["tag1", "tag2"]
 }
 ```
 
-**Distribuição obrigatória por rodada (12 cards por aula):**
+**Distribuição obrigatória por aula (12 cards):**
 - 4 cards dificuldade 1 — definições e localizações diretas
 - 5 cards dificuldade 2 — mecanismos, comparações, consequências
 - 3 cards dificuldade 3 — casos clínicos integrados
 
 **Cobrir obrigatoriamente:**
 - Todos os tópicos das seções numeradas do material
-- Termos em negrito que aparecem na primeira menção
-- Comparações em tabelas (cada linha da tabela = 1 card potencial)
-- Erros Clássicos em Prova (inverter o erro = boa frente)
-- Pelo menos 1 card clínico (caso do Pré-Prova ou Ponte com a Clínica)
+- Termos em negrito na primeira menção
+- Comparações em tabelas (cada linha = 1 card potencial)
+- Erros Clássicos em Prova
+- Pelo menos 1 card clínico
 
-### 2e. Adicionar ao arquivo
-
-**Nunca sobrescreva o arquivo.** Sempre:
-1. Leia `data/flashcards.json` completo
-2. Adicione os novos cards ao array existente
-3. Salve com encoding UTF-8
-
-```python
-import json
-from pathlib import Path
-
-path = Path("data/flashcards.json")
-data = json.loads(path.read_text(encoding="utf-8"))
-cards = data if isinstance(data, list) else data.get("flashcards", [])
-max_id = max((c["id"] for c in cards), default=0)
-
-novos = [...]  # seus novos flashcards com ids sequenciais
-cards.extend(novos)
-
-result = cards if isinstance(data, list) else {**data, "flashcards": cards}
-path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-```
-
-## Passo 3 — Verificar qualidade
-
-Após gerar, verifique:
+### 2e. Verificar qualidade dos cards gerados
 - Nenhum card com frente vaga ("O que é X?")
-- Nenhum card duplicado (frente igual ou muito parecida com existentes)
+- Nenhum card duplicado com os existentes
 - Acentuação correta em todos os campos
 - Tags sem acento e lowercase
 
-## Passo 4 — Atualizar o status
+## Passo 3 — Montar e salvar o relatório
 
-Após processar todas as aulas, atualize `data/agent_logs/status_flashcards.json`:
-- Campo `rodou_em`
-- Adicione em `acoes`: quantos cards foram gerados e para quais aulas
+```python
+import json, datetime
+from pathlib import Path
 
-## Passo 5 — Re-priorizar
+pendentes_dir = Path("data/agent_logs/pendentes")
+pendentes_dir.mkdir(parents=True, exist_ok=True)
 
-Rode:
-```bash
-python scripts/priorizar_flashcards.py
+ts = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+relatorio = {
+  "id": f"flashcards_{ts}",
+  "agente": "gerador_flashcards",
+  "gerado_em": datetime.datetime.now().isoformat(),
+  "status": "pendente",
+  "resumo": "N flashcards para X aulas: [lista de aula_ids]",
+  "acoes": [
+    {
+      "tipo": "append_json",
+      "arquivo": "data/flashcards.json",
+      "campo_array": None,  # None = o próprio arquivo é um array
+      "aula_id": "pmh_a1",
+      "quantidade": 12,
+      "items": [
+        # lista completa dos novos flashcards com IDs corretos
+      ]
+    }
+    # ... uma entrada por aula
+  ]
+}
+
+path = pendentes_dir / f"flashcards_{ts}.json"
+path.write_text(json.dumps(relatorio, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Relatório salvo: {path}")
 ```
 
-Leia o novo status e informe quantas aulas ainda estão na fila.
+## Passo 4 — Exibir resumo ao usuário
 
-## Passo 6 — Commit
+```
+============================================================
+RELATÓRIO GERADO — AGUARDANDO APROVAÇÃO
+============================================================
+Arquivo: data/agent_logs/pendentes/flashcards_{ts}.json
 
-```bash
-git add data/flashcards.json data/agent_logs/status_flashcards.json
-git commit -m "feat: flashcards para {lista_de_aulas} ({total} cards)"
+Flashcards propostos:
+  ✦ pmh_a1 — 12 cards (4×dif1, 5×dif2, 3×dif3)
+  ✦ pmh_a2 — 10 cards (4×dif1, 4×dif2, 2×dif3)
+  Total: 22 novos flashcards
+
+Para aprovar e aplicar:
+  python scripts/aprovar_pendentes.py
+============================================================
 ```
 
 ## Limites desta execução
 - Máximo 4 aulas por rodada
-- Máximo 48 flashcards por rodada (4 aulas × 12 cards)
+- Máximo 48 flashcards por rodada
 - Não gere cards para aulas sem material (verificar `material_path` existe)
-- Priorize sempre pelo campo `score` (maior primeiro)
+- Priorize pelo campo `score` (maior primeiro)
+- Nenhum dado é alterado até o usuário rodar `aprovar_pendentes.py`

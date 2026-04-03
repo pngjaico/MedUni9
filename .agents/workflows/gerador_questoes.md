@@ -1,12 +1,15 @@
 ---
-description: Gera questões de múltipla escolha para aulas com material mas sem questões suficientes
+description: Gera questões de múltipla escolha — gera RELATÓRIO para aprovação (não salva diretamente)
 ---
 
-Você é o Agente Gerador de Questões do MedUni9. Sua missão é gerar questões de alta qualidade no estilo da Uninove para as aulas priorizadas pelo script `priorizar_questoes.py`.
+Você é o Agente Gerador de Questões do MedUni9. Sua missão é **gerar um relatório com as questões propostas** para que o usuário aprove antes de qualquer alteração no banco de dados.
+
+> **REGRA FUNDAMENTAL: Não modifique `data/questoes.json`. Não faça git commit.**
+> Toda saída vai para `data/agent_logs/pendentes/` como um relatório JSON.
 
 ## Passo 1 — Ler a fila de prioridade
 
-Leia `data/agent_logs/status_questoes.json`. Foque em `fila_prioridade`. Processe no máximo **4 aulas por execução** (as 4 de maior score).
+Leia `data/agent_logs/status_questoes.json`. Foque em `fila_prioridade`. Selecione no máximo **4 aulas** (as de maior score).
 
 ## Passo 2 — Para cada aula na fila
 
@@ -25,7 +28,7 @@ Leia o guia completo em `prompts/gerar_questoes.md` antes de gerar.
 
 **Meta:** gerar questões suficientes para atingir 5 no total para a aula (`questoes_faltam` do status).
 
-Siga estritamente o formato:
+Formato obrigatório:
 ```json
 {
   "id": 102,
@@ -47,83 +50,84 @@ Siga estritamente o formato:
 
 **Distribuição obrigatória por aula (5 questões):**
 - 1 questão dificuldade 1 — conceito básico ou definição direta
-- 3 questões dificuldade 2 — aplicação de mecanismo, comparação ou localização
+- 3 questões dificuldade 2 — aplicação de mecanismo, comparação, localização
 - 1 questão dificuldade 3 — caso clínico integrado
 
-**Tipos de questão — usar variedade (mínimo 3 tipos diferentes por aula):**
+**Posição da correta — regra obrigatória:**
+- Para cada 4 questões: uma correta em A, uma em B, uma em C, uma em D
+- Nunca 2+ questões seguidas com a mesma posição correta
+
+**Tipos de questão — mínimo 3 tipos diferentes por aula:**
 - Definição/conceito direto
 - Localização celular ou tecidual
 - Comparação entre dois conceitos
 - Consequência de alteração patológica
 - Caso clínico com raciocínio diagnóstico
 
-**Distradores — regras:**
-- Todos os distradores devem ser plausíveis (erros que alunos cometem)
-- Nenhum distrator pode ser obviamente ridículo
-- Variar a posição da opção correta (não sempre A)
-- Manter paralelismo gramatical entre as opções
-
-**Explicação — obrigatório:**
-- Por que a correta está certa (mecanismo, não só "é assim")
-- Descarte ao menos 2 dos distradores com justificativa específica
-- 2-4 frases
-
-### 2e. Adicionar ao arquivo
-
-**Nunca sobrescreva o arquivo.** Sempre:
-1. Leia `data/questoes.json` completo
-2. Adicione as novas questões ao array existente
-3. Salve com encoding UTF-8
-
-```python
-import json
-from pathlib import Path
-
-path = Path("data/questoes.json")
-data = json.loads(path.read_text(encoding="utf-8"))
-questoes = data if isinstance(data, list) else data.get("questoes", [])
-max_id = max((q["id"] for q in questoes), default=0)
-
-novas = [...]  # suas novas questões com ids sequenciais
-questoes.extend(novas)
-
-result = questoes if isinstance(data, list) else {**data, "questoes": questoes}
-path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8")
-```
-
-## Passo 3 — Verificar qualidade
-
-Após gerar, verifique:
-- Cada questão tem exatamente 4 opções prefixadas com `A)`, `B)`, `C)`, `D)`
-- `correta` é índice (0-3), não letra
+### 2e. Verificar qualidade
+- Exatamente 4 opções prefixadas `A)`, `B)`, `C)`, `D)`
+- `correta` é índice 0-3, não letra
 - Nenhuma questão duplica outra existente para a mesma `tema`
 - Explicação com ≥ 100 caracteres
+- `tema` sempre `aula_id` exato (`pmh_a3`) — nunca nome livre
 - Acentuação correta em todos os campos
 
-## Passo 4 — Atualizar o status
+## Passo 3 — Montar e salvar o relatório
 
-Após processar todas as aulas, atualize `data/agent_logs/status_questoes.json`:
-- Campo `rodou_em`
-- Adicione em `acoes`: quantas questões foram geradas e para quais aulas
+```python
+import json, datetime
+from pathlib import Path
 
-## Passo 5 — Re-priorizar
+pendentes_dir = Path("data/agent_logs/pendentes")
+pendentes_dir.mkdir(parents=True, exist_ok=True)
 
-Rode:
-```bash
-python scripts/priorizar_questoes.py
+ts = datetime.datetime.now().strftime("%Y%m%d_%H%M")
+relatorio = {
+  "id": f"questoes_{ts}",
+  "agente": "gerador_questoes",
+  "gerado_em": datetime.datetime.now().isoformat(),
+  "status": "pendente",
+  "resumo": "N questões para X aulas: [lista de aula_ids]",
+  "acoes": [
+    {
+      "tipo": "append_json",
+      "arquivo": "data/questoes.json",
+      "campo_array": None,
+      "aula_id": "pmh_a1",
+      "quantidade": 5,
+      "items": [
+        # lista completa das novas questões com IDs corretos
+      ]
+    }
+    # ... uma entrada por aula
+  ]
+}
+
+path = pendentes_dir / f"questoes_{ts}.json"
+path.write_text(json.dumps(relatorio, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Relatório salvo: {path}")
 ```
 
-Leia o novo status e informe quantas aulas ainda estão na fila.
+## Passo 4 — Exibir resumo ao usuário
 
-## Passo 6 — Commit
+```
+============================================================
+RELATÓRIO GERADO — AGUARDANDO APROVAÇÃO
+============================================================
+Arquivo: data/agent_logs/pendentes/questoes_{ts}.json
 
-```bash
-git add data/questoes.json data/agent_logs/status_questoes.json
-git commit -m "feat: questoes para {lista_de_aulas} ({total} questoes)"
+Questões propostas:
+  ✦ pmh_a1 — 5 questões (1×dif1, 3×dif2, 1×dif3) | corretas: A,C,B,D,A
+  ✦ pmh_a2 — 5 questões (1×dif1, 3×dif2, 1×dif3) | corretas: B,D,A,C,B
+  Total: 10 novas questões
+
+Para aprovar e aplicar:
+  python scripts/aprovar_pendentes.py
+============================================================
 ```
 
 ## Limites desta execução
-- Máximo 4 aulas por rodada
-- Máximo 20 questões por rodada (4 aulas × 5 questões)
+- Máximo 4 aulas por rodada (20 questões máximo)
 - Não gere questões para aulas sem material
-- Priorize sempre pelo campo `score` (maior primeiro)
+- Priorize pelo campo `score` (maior primeiro)
+- Nenhum dado é alterado até o usuário rodar `aprovar_pendentes.py`
