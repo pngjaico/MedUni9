@@ -5,368 +5,575 @@
       "materia": "bcm1",
       "frente": "Qual é a interpretação clínica de um paciente com pH arterial de 7,28, pCO2 de 32 mmHg e HCO3 de 15 mEq/L?",
       "verso": "Este resultado indica alcalose respiratória com acidose metabólica concomitante. O pH baixo sugere acidemia, enquanto o pCO2 reduzido indica hiperventilação compensatória. O HCO3 baixo confirma perda de bicarbonato. O desequilíbrio sugere uma condição primária de acidose metabólica com tentativa respiratória de compensação.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2,
-      "tags": ["gasometria", "equilíbrio-ácido-base", "ph", "pco2", "hco3"]
+      "tags": [
+        "gasometria",
+        "equilíbrio-ácido-base",
+        "ph",
+        "pco2",
+        "hco3"
+      ]
     },
     {
       "id": 2,
       "materia": "bcm1",
       "frente": "Descreva as características estruturais e a classificação dos 20 aminoácidos protéicos.",
       "verso": "Os 20 aminoácidos protéicos são classificados em: apolares (valina, leucina, isoleucina, metionina, fenilalanina, triptofano, prolina); polares uncharged (serina, treonina, cisteína, tirosina, asparagina, glutamina); carregados positivamente (lisina, arginina, histidina); e carregados negativamente (aspartato, glutamato). Cada um contém um grupo amino, carboxila e uma cadeia lateral R específica.",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 2,
-      "tags": ["aminoácidos", "proteínas", "classificação", "estrutura"]
+      "tags": [
+        "aminoácidos",
+        "proteínas",
+        "classificação",
+        "estrutura"
+      ]
     },
     {
       "id": 3,
       "materia": "bcm1",
       "frente": "Qual é o papel das enzimas na glicólise e como a fosfofrutoquinase é regulada?",
       "verso": "A fosfofrutoquinase (PFK) catalisa a conversão de frutose-6-fosfato em frutose-1,6-bisfosfato, a primeira etapa comprometida da glicólise. É inibida alostericamente por ATP e citrato (indicando energia suficiente) e ativada por AMP e ADP (indicando necessidade de energia). É também regulada por pH e frutose-2,6-bisfosfato, funcionando como o principal ponto de controle da via.",
-      "tema": "bcm1_glicose",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
-      "tags": ["glicólise", "enzimas", "regulação", "pfk"]
+      "tags": [
+        "glicólise",
+        "enzimas",
+        "regulação",
+        "pfk"
+      ]
     },
     {
       "id": 4,
       "materia": "bcm1",
       "frente": "Explique o mecanismo de funcionamento do sistema tampão bicarbonato sanguíneo.",
       "verso": "O sistema tampão H2CO3/HCO3 é o principal tampão do sangue. O CO2 disso em água forma ácido carbônico, que dissocia em H+ e HCO3. Quando há excesso de H+, o HCO3 neutraliza; quando há excesso de OH-, o H2CO3 fornece H+. O CO2 é eliminado pelos pulmões e o HCO3 pelos rins, permitindo ajuste rápido do pH. Este é o tampão mais importante para manutenção da homeostase.",
-      "tema": "bcm1_agua_ph",
+      "tema": "bcm1_a2",
       "dificuldade": 2,
-      "tags": ["tampões", "bicarbonato", "ph", "ácido-base"]
+      "tags": [
+        "tampões",
+        "bicarbonato",
+        "ph",
+        "ácido-base"
+      ]
     },
     {
       "id": 5,
       "materia": "bcm1",
       "frente": "Como as enzimas alostéricas diferem das enzimas competitivas em termos de mecanismo de inibição?",
       "verso": "Enzimas alostéricas possuem sítios regulatórios (alostéricos) distintos do sítio ativo. Os inibidores alostéricos ligam-se a estes sítios, alterando a conformação da enzima e reduzindo sua atividade sem competir pelo substrato. Em contraste, inibidores competitivos ligam-se ao sítio ativo, competindo diretamente com o substrato. A inibição alostérica é mais sofisticada, permitindo regulação por moléculas sinalizadoras.",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 2,
-      "tags": ["enzimas", "regulação", "alostérica", "inibição"]
+      "tags": [
+        "enzimas",
+        "regulação",
+        "alostérica",
+        "inibição"
+      ]
     },
     {
       "id": 6,
       "materia": "bcm1",
       "frente": "Qual é a composição e função das membranas lipídicas em relação ao colesterol?",
       "verso": "As membranas plasmáticas são compostas principalmente por fosfolipídios, proteínas e colesterol. O colesterol intersticial nas bicamadas lipídicas modula a fluidez da membrana: em temperaturas altas, reduz a fluidez ao restringir o movimento dos ácidos graxos; em temperaturas baixas, aumenta a fluidez prevenindo a cristalização. Aproximadamente 50% das moléculas lipídicas em células animais são colesterol.",
-      "tema": "bcm1_lipideos",
+      "tema": "bcm1_a1",
       "dificuldade": 1,
-      "tags": ["lipídeos", "membranas", "colesterol", "fluidez"]
+      "tags": [
+        "lipídeos",
+        "membranas",
+        "colesterol",
+        "fluidez"
+      ]
     },
     {
       "id": 7,
       "materia": "bcm1",
       "frente": "Diferencie monossacarídeos, dissacarídeos e polissacarídeos quanto à estrutura e funções biológicas.",
       "verso": "Monossacarídeos (glicose, frutose, galactose) são carboidratos simples de 3-7 carbonos. Dissacarídeos (sacarose, lactose, maltose) resultam da ligação de dois monossacarídeos via ligação glicosídica. Polissacarídeos (glicogênio, amido, celulose) são polímeros de glicose com funções estruturais ou de armazenamento. Estruturalmente, monossacarídeos existem como anéis, enquanto polissacarídeos formam longas cadeias ramificadas ou lineares.",
-      "tema": "bcm1_carboidratos",
+      "tema": "bcm1_a1",
       "dificuldade": 1,
-      "tags": ["carboidratos", "monossacarídeos", "dissacarídeos", "polissacarídeos"]
+      "tags": [
+        "carboidratos",
+        "monossacarídeos",
+        "dissacarídeos",
+        "polissacarídeos"
+      ]
     },
     {
       "id": 8,
       "materia": "bcm1",
       "frente": "Qual é a principal diferença entre diabetes tipo 1 e tipo 2 em termos de metabolismo de glicose?",
       "verso": "Diabetes tipo 1 resulta da destruição autoimune das células β pancreáticas, causando deficiência absoluta de insulina e hiperglicemia grave. Tipo 2 é caracterizado por resistência insulínica, onde o pâncreas produz insulina mas as células periféricas não respondem adequadamente. No tipo 1, a glicose não é captada pelos tecidos; no tipo 2, a captação está prejudicada apesar de insulina circulante presente.",
-      "tema": "bcm1_integracao",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
-      "tags": ["diabetes", "insulina", "metabolismo-glicose", "tipo1", "tipo2"]
+      "tags": [
+        "diabetes",
+        "insulina",
+        "metabolismo-glicose",
+        "tipo1",
+        "tipo2"
+      ]
     },
     {
       "id": 9,
       "materia": "bcm1",
       "frente": "Descreva as etapas principais do ciclo de Krebs e sua importância na produção de ATP.",
       "verso": "O ciclo de Krebs (ou ciclo do ácido cítrico) ocorre na matriz mitocondrial e converte acetil-CoA em CO2 enquanto reduz NAD+ e FAD. As etapas incluem: condensação (acetil-CoA + oxaloacetato), isomerização, oxidação descarboxilativa, fosforilação de nível de substrato e regeneração de oxaloacetato. Gera 3 NADH, 1 FADH2 e 1 GTP por volta. Cada NADH e FADH2 produzem múltiplos ATP na cadeia respiratória.",
-      "tema": "bcm1_krebs",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
-      "tags": ["ciclo-krebs", "metabolismo", "atp", "nadh", "fadh2"]
+      "tags": [
+        "ciclo-krebs",
+        "metabolismo",
+        "atp",
+        "nadh",
+        "fadh2"
+      ]
     },
     {
       "id": 10,
       "materia": "bcm1",
       "frente": "Como a cadeia respiratória mitocondrial gera o gradiente de prótons necessário para síntese de ATP?",
       "verso": "A cadeia respiratória mitocondrial consiste em complexos I-IV na membrana interna mitocondrial. Elétrons de NADH e FADH2 passam por estes complexos, liberando energia. Esta energia é usada para bombear prótons do estroma para o espaço intermembranar, criando um gradiente eletroquímico. A ATP sintase permite o fluxo de prótons de volta através da membrana, acoplando este fluxo à fosforilação oxidativa de ADP em ATP.",
-      "tema": "bcm1_fosforilacao",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
-      "tags": ["cadeia-respiratória", "fosforilação-oxidativa", "atp", "prótons"]
+      "tags": [
+        "cadeia-respiratória",
+        "fosforilação-oxidativa",
+        "atp",
+        "prótons"
+      ]
     },
     {
       "id": 11,
       "materia": "bcm1",
       "frente": "Qual é o mecanismo de ação da insulina na redução da glicemia e no metabolismo lipídico?",
       "verso": "A insulina liga-se ao receptor de insulina (tirosina quinase) nas células periféricas, promovendo translocação de GLUT4 para a membrana e captação de glicose. Estimula a glicogênese e glicólise, enquanto inibe a gliconeogênese. No metabolismo lipídico, ativa acetil-CoA carboxilase, promovendo síntese de ácidos graxos, e inibe lipase hormônio-sensível, reduzindo lipólise. Essencialmente, insulina promove anabolismo e armazenamento de energia.",
-      "tema": "bcm1_integracao",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
-      "tags": ["insulina", "glicemia", "metabolismo-lipídico", "glicose"]
+      "tags": [
+        "insulina",
+        "glicemia",
+        "metabolismo-lipídico",
+        "glicose"
+      ]
     },
     {
       "id": 12,
       "materia": "bcm1",
       "frente": "Diferencie entre ácidos graxos saturados e insaturados em termos de estrutura química e efeitos na saúde.",
       "verso": "Ácidos graxos saturados contêm apenas ligações simples C-C, estrutura linear que se empacota densamente, sólidos à temperatura ambiente. Encontrados principalmente em produtos animais, elevam colesterol LDL. Insaturados contêm uma ou mais ligações duplas C=C, causando dobras na estrutura, líquidos à temperatura ambiente. Ácidos graxos monoinsaturados reduzem LDL sem afetar HDL; polinsaturados reduzem ambos e fornecem ácidos graxos essenciais.",
-      "tema": "bcm1_lipideos",
+      "tema": "bcm1_a1",
       "dificuldade": 1,
-      "tags": ["lipídeos", "ácidos-graxos", "saturados", "insaturados"]
+      "tags": [
+        "lipídeos",
+        "ácidos-graxos",
+        "saturados",
+        "insaturados"
+      ]
     },
     {
       "id": 13,
       "materia": "bmf1",
       "frente": "Descreva as principais características histológicas do tecido ósseo e identifique os tipos celulares envolvidos na remodelação.",
       "verso": "O tecido ósseo é composto por matriz extracelular mineralizada com células especializadas. Osteoblastos sintetizam a matriz óssea (colágeno tipo I e proteoglicanos) e regulam mineralização. Osteócitos, originados de osteoblastos, residem em lacunas e mantêm a matriz. Osteoclastos são células gigantes multinucleadas que reabsorvem osso através de acidificação e digestão enzimática. Periósteo, camada vascularizada externa, contém osteoblastos e fibras de Sharpey que ancoram a estrutura.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2,
-      "tags": ["osso", "osteoblastos", "osteoclastos", "osteócitos", "periósteo"]
+      "tags": [
+        "osso",
+        "osteoblastos",
+        "osteoclastos",
+        "osteócitos",
+        "periósteo"
+      ]
     },
     {
       "id": 14,
       "materia": "bmf1",
       "frente": "Qual é a classificação morfológica dos ossos e cite um exemplo de cada tipo?",
       "verso": "Os ossos são classificados em: longos (apresentam diáfise maior que a largura, como úmero e fêmur), curtos (dimensões aproximadamente iguais, como carpais e tarsais), planos (estrutura laminar com superfícies amplas paralelas, como escápula e ossos do crânio), e irregulares (forma complexa não se enquadrando nas outras categorias, como vértebras e pelve). Esta classificação se baseia nas proporções dimensionais dos ossos.",
-      "tema": "bmf1_sist_esqueletico",
+      "tema": "bmf1_a3",
       "dificuldade": 1,
-      "tags": ["ossos", "classificação", "longos", "curtos", "planos", "irregulares"]
+      "tags": [
+        "ossos",
+        "classificação",
+        "longos",
+        "curtos",
+        "planos",
+        "irregulares"
+      ]
     },
     {
       "id": 15,
       "materia": "bmf1",
       "frente": "Como as articulações fibrosas diferem das sinoviais em termos de estrutura e função?",
       "verso": "Articulações fibrosas (como suturas do crânio) são conectadas por tecido fibroso denso, imóveis, sem cavidade articular. Permitem apenas ligeiro movimento e funcionam para estabilidade e proteção. Articulações sinoviais (como joelho, quadril) possuem cavidade articular revestida por membrana sinovial que secreta líquido sinovial lubrificante. Superfícies ósseas são cobertas por cartilagem hialina. Permitem movimento amplo em diversos planos e oferecem flexibilidade funcional.",
-      "tema": "bmf1_sist_articular",
+      "tema": "bmf1_a7",
       "dificuldade": 2,
-      "tags": ["articulações", "fibrosas", "sinoviais", "movimento"]
+      "tags": [
+        "articulações",
+        "fibrosas",
+        "sinoviais",
+        "movimento"
+      ]
     },
     {
       "id": 16,
       "materia": "bmf1",
       "frente": "Descreva as características estruturais do tecido epitelial e sua classificação básica.",
       "verso": "Tecido epitelial é avascular, composto por células justapostas unidas por junções celulares especializadas. Possui polaridade com superfícies apical e basolateral distintas. Classifica-se em: simples (uma camada: pavimentoso, cúbico, cilíndrico) e estratificado (múltiplas camadas: pavimentoso, cúbico, cilíndrico). Funções incluem proteção, absorção, secreção e sensação. Suportado por membrana basal. Regeneração rápida através de células-tronco basais.",
-      "tema": "bmf1_tec_epitelial",
+      "tema": "bmf1_a14",
       "dificuldade": 2,
-      "tags": ["epitelial", "tecido", "histologia", "classificação"]
+      "tags": [
+        "epitelial",
+        "tecido",
+        "histologia",
+        "classificação"
+      ]
     },
     {
       "id": 17,
       "materia": "bmf1",
       "frente": "Qual é a composição e distribuição do colágeno nos diferentes tecidos do corpo?",
       "verso": "Colágeno é a proteína mais abundante do corpo humano, compondo aproximadamente 30% da massa proteica total. Tipo I é predominante em tendões, ligamentos, pele e osso; tipo II em cartilagem; tipo III em vasos sanguíneos e pele jovem. Estruturalmente, consiste de tropocolágeno (três cadeias de polipeptídios em hélice tripla) que se polimerizam em fibrilas e fibras. Fornece resistência tensional e estabilidade estrutural aos tecidos.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
-      "tags": ["colágeno", "fibras", "matriz-extracelular", "tecidos"]
+      "tags": [
+        "colágeno",
+        "fibras",
+        "matriz-extracelular",
+        "tecidos"
+      ]
     },
     {
       "id": 18,
       "materia": "bmf1",
       "frente": "Como o colesterol afeta a fluidez e a seletividade da membrana plasmática?",
       "verso": "O colesterol é um lipídio esteroide que se insere entre as moléculas de fosfolipídio da bicamada, com seu grupo hidroxila orientado para a superfície aquosa. Em temperaturas elevadas, reduz a mobilidade das cadeias de ácidos graxos, diminuindo a fluidez. Em temperaturas baixas, aumenta a fluidez evitando o empacotamento excessivo. Colesterol também modula a seletividade da membrana, afetando a permeabilidade a pequenas moléculas e íons. Células animais contêm aproximadamente 50% de colesterol nas membranas.",
-      "tema": "bmf1_membrana_bio",
+      "tema": "bmf1_a2",
       "dificuldade": 2,
-      "tags": ["colesterol", "membrana", "fluidez", "seletividade"]
+      "tags": [
+        "colesterol",
+        "membrana",
+        "fluidez",
+        "seletividade"
+      ]
     },
     {
       "id": 19,
       "materia": "bmf1",
       "frente": "Qual é a diferença entre cartilagem hialina, elástica e fibrosa em relação à composição e função?",
       "verso": "Cartilagem hialina contém colágeno tipo II e proteoglicanos abundantes, aparência translúcida, fornece suporte com alguma flexibilidade (encontrada em articulações e costelas). Cartilagem elástica contém fibras elásticas adicionais, mais flexível, encontrada em orelha externa e laringe. Cartilagem fibrosa é fibrocartilagem com colágeno tipo I predominante, alta resistência tensional, encontrada em discos intervertebrais e meniscos. Todas carecem de vasos sanguíneos, sendo nutridas por difusão.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2,
-      "tags": ["cartilagem", "hialina", "elástica", "fibrosa"]
+      "tags": [
+        "cartilagem",
+        "hialina",
+        "elástica",
+        "fibrosa"
+      ]
     },
     {
       "id": 20,
       "materia": "bmf1",
       "frente": "Descreva a estrutura de uma articulação sinovial típica e os componentes que facilitam seu movimento.",
       "verso": "Uma articulação sinovial consiste em: cavidade articular (espaço entre ossos), membrana sinovial (revestimento interno que produz líquido sinovial), cápsula fibrosa (revestimento externo), cartilagem articular (cobertura óssea hialina que reduz atrito), ligamentos (fibras colágenas que estabilizam), meniscos (quando presentes, distribuem força), e líquido sinovial (lubrificante rico em ácido hialurônico). Estes componentes trabalham juntos para permitir movimento suave, absorver impacto e manter estabilidade articular.",
-      "tema": "bmf1_sist_articular",
+      "tema": "bmf1_a7",
       "dificuldade": 2,
-      "tags": ["articulações-sinoviais", "movimento", "anatomia", "cartilagem"]
+      "tags": [
+        "articulações-sinoviais",
+        "movimento",
+        "anatomia",
+        "cartilagem"
+      ]
     },
     {
       "id": 21,
       "materia": "bmf1",
       "frente": "Qual é o papel do periósteo na ossificação e reparação óssea?",
       "verso": "O periósteo é uma membrana de tecido conjuntivo que reveste a superfície externa do osso, contendo vasos sanguíneos, nervos e osteoblastos. Durante ossificação intramembranosa, o periósteo é fundamental na formação inicial de osso. Na reparação de fraturas, osteoblastos periostais proliferam, formando o calo ósseo externo que estabiliza a fratura. Fibras de Sharpey do periósteo penetram no osso, ancoram tendões e ligamentos, e facilitam vascularização. O periósteo também permite crescimento em espessura do osso (aposição).",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2,
-      "tags": ["periósteo", "ossificação", "reparação", "fraturas"]
+      "tags": [
+        "periósteo",
+        "ossificação",
+        "reparação",
+        "fraturas"
+      ]
     },
     {
       "id": 22,
       "materia": "bmf1",
       "frente": "Como o tecido conjuntivo é classificado e quais são suas características principais?",
       "verso": "Tecido conjuntivo é classificado em: frouxo (fibroblastos abundantes, matriz gel-like, suporta epitélio), denso regular (fibras colágenas paralelas, alta resistência, em tendões/ligamentos), denso irregular (fibras em múltiplas direções, flexibilidade em múltiplos planos), e especializado (adiposo, cartilaginoso, ósseo, sanguíneo). Características comuns: presença de matriz extracelular, vascularização, inervação, e células residentes (fibroblastos) além de células migrantes (leucócitos). Funções incluem suporte, proteção, nutrição e imunidade.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
-      "tags": ["tecido-conjuntivo", "fibroblastos", "matriz", "classificação"]
+      "tags": [
+        "tecido-conjuntivo",
+        "fibroblastos",
+        "matriz",
+        "classificação"
+      ]
     },
     {
       "id": 23,
       "materia": "bmf1",
       "frente": "Qual é a estrutura da matriz extracelular óssea e como ela contribui para a resistência mecânica?",
       "verso": "A matriz óssea é composta por componentes orgânicos (principalmente colágeno tipo I que fornece flexibilidade e resistência tensional) e inorgânicos (cristais de hidroxiapatita - cálcio e fosfato - que fornecem rigidez). A proporção entre colágeno e mineral (aproximadamente 1:2 em massa) cria um material que é simultaneamente resistente à compressão e à tração. Colágeno sozinho seria flexível demais; mineral sozinho seria frágil. A combinação cria um compósito resistente e resiliente.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2,
-      "tags": ["osso", "matriz", "colágeno", "hidroxiapatita", "resistência"]
+      "tags": [
+        "osso",
+        "matriz",
+        "colágeno",
+        "hidroxiapatita",
+        "resistência"
+      ]
     },
     {
       "id": 24,
       "materia": "indicadores",
       "frente": "Qual foi a contribuição de Hipócrates para a medicina e qual é seu legado contemporâneo?",
       "verso": "Hipócrates (460-370 a.C.) estabeleceu a medicina como ciência racional baseada em observação clínica. Desenvolveu a teoria dos quatro humores (sangue, fleuma, bile amarela, bile negra) e enfatizou a importância do ar, água e alimentos. Criou o Juramento Hipocrático, que estabelecia princípios éticos ainda fundamentais na medicina moderna: beneficência, não maleficência e confidencialidade. Seu método observacional influenciou toda a medicina ocidental subsequente.",
-      "tema": "História da Medicina",
+      "tema": "ind_a1",
       "dificuldade": 1,
-      "tags": ["hipócrates", "história-medicina", "ética", "juramento"]
+      "tags": [
+        "hipócrates",
+        "história-medicina",
+        "ética",
+        "juramento"
+      ]
     },
     {
       "id": 25,
       "materia": "indicadores",
       "frente": "Descreva o trabalho de Edward Jenner na vacinação contra a varíola e seu impacto na saúde pública.",
       "verso": "Edward Jenner (1749-1823) desenvolveu em 1796 a primeira vacina contra varíola, inoculando fluido da varíola bovina em um menino. Demonstrou que isso conferia imunidade contra varíola humana sem causar doença grave. Seu trabalho revolucionou a medicina preventiva e foi o nascimento da vacinação sistemática. A varíola, que matava milhões, foi erradicada globalmente em 1980. Jenner estabeleceu o princípio de estimular o sistema imunológico com patógenos atenuados ou modificados.",
-      "tema": "História da Medicina",
+      "tema": "ind_a1",
       "dificuldade": 1,
-      "tags": ["jenner", "vacina", "varíola", "imunização", "saúde-pública"]
+      "tags": [
+        "jenner",
+        "vacina",
+        "varíola",
+        "imunização",
+        "saúde-pública"
+      ]
     },
     {
       "id": 26,
       "materia": "indicadores",
       "frente": "Qual foi a descoberta de Ignaz Semmelweis e como ela mudou as práticas de higiene hospitalar?",
       "verso": "Ignaz Semmelweis (1818-1865) observou em 1847 que a taxa de mortalidade puerperal diminuía dramaticamente quando os médicos lavavam as mãos entre examinar cadáveres e atender parturientes. Demonstrou que 'partículas cadavéricas' causavam infecção. Sua descoberta precedeu a teoria microbiana de Pasteur mas foi rejeitada inicialmente. Após sua morte, Lister desenvolveu antissepsia com carbólico, validando sua ideia. Hoje é reconhecido como pioneiro em controle de infecções e higiene hospitalar.",
-      "tema": "História da Medicina",
+      "tema": "ind_a1",
       "dificuldade": 2,
-      "tags": ["semmelweis", "higiene", "infecção", "história-medicina"]
+      "tags": [
+        "semmelweis",
+        "higiene",
+        "infecção",
+        "história-medicina"
+      ]
     },
     {
       "id": 27,
       "materia": "indicadores",
       "frente": "Qual é a importância do Programa Nacional de Segurança do Paciente (PNSP) no contexto do SUS?",
       "verso": "O PNSP foi instituído em 2013 no Brasil para reduzir incidentes e eventos adversos em serviços de saúde. Objetiva promover segurança dos pacientes através de cultura de segurança, protocolos padronizados e notificação de eventos. Estratégias incluem: higienização de mãos, identificação correta do paciente, prevenção de úlcera por pressão, segurança cirúrgica e gerenciamento de medicação. O programa reduz custos hospitalares e melhora desfechos clínicos. Integra-se aos princípios éticos de beneficência e não maleficência.",
-      "tema": "PNSP e Protocolos",
+      "tema": "ind_a8",
       "dificuldade": 2,
-      "tags": ["pnsp", "segurança-paciente", "sus", "protocolos"]
+      "tags": [
+        "pnsp",
+        "segurança-paciente",
+        "sus",
+        "protocolos"
+      ]
     },
     {
       "id": 28,
       "materia": "indicadores",
       "frente": "Cite cinco protocolos de segurança essenciais em ambiente hospitalar e suas funções.",
       "verso": "Cinco protocolos principais: (1) Higienização de mãos - previne transmissão de patógenos; (2) Identificação do paciente com pulseira - evita medicação/procedimento em paciente errado; (3) Cirurgia segura - checklist pré/trans/pós-operatória; (4) Prevenção de úlcera por pressão - reavaliação regular e mudanças posicionais; (5) Gerenciamento de medicação - dupla conferência antes de administração. Cada protocolo reduz eventos adversos potencialmente fatais e é baseado em evidências de segurança.",
-      "tema": "PNSP e Protocolos",
+      "tema": "ind_a8",
       "dificuldade": 1,
-      "tags": ["protocolos", "segurança", "hospital", "checklist"]
+      "tags": [
+        "protocolos",
+        "segurança",
+        "hospital",
+        "checklist"
+      ]
     },
     {
       "id": 29,
       "materia": "indicadores",
       "frente": "Como o SARS-CoV-2 se replica nas células humanas e qual é o mecanismo de transmissão da COVID-19?",
       "verso": "SARS-CoV-2 possui espículas de proteína S que se ligam ao receptor ACE2 nas células humanas. O vírus entra por fusão de membrana ou endocitose, e após entrada, a RNA viral é traduzida produzindo protease viral que cliva proteínas virais. RNA-polimerase RNA-dependente replica o genoma viral. Vírus maduros brotam através da membrana plasmática. Transmissão ocorre via gotículas respiratórias (tosse/espirro até 2 metros), aerossóis (ambientes fechados), ou contato com superfícies contaminadas. Período de incubação é 2-14 dias.",
-      "tema": "Pandemia COVID-19",
+      "tema": "ind_a3",
       "dificuldade": 2,
-      "tags": ["covid-19", "sars-cov-2", "transmissão", "replicação"]
+      "tags": [
+        "covid-19",
+        "sars-cov-2",
+        "transmissão",
+        "replicação"
+      ]
     },
     {
       "id": 30,
       "materia": "indicadores",
       "frente": "Quais são as principais apresentações clínicas de COVID-19 e como evoluem em relação à gravidade?",
       "verso": "COVID-19 varia de assintomática a crítica. Leve: tosse, febre, fadiga, anosmia/ageusia, ausência de hipóxia. Moderada: pneumonia com sinais de hipóxia leve (SpO2 93-95%), fadiga significativa. Grave: SpO2 abaixo de 93%, taquipneia (FR>30), infiltrados pulmonares extensos, necessitando oxigênio suplementar. Crítica: insuficiência respiratória com necessidade de intubação, choque séptico, disfunção de múltiplos órgãos. Fatores de risco para progressão incluem idade avançada, comorbidades (diabetes, hipertensão, doença cardiopulmonar) e imunodeficiência.",
-      "tema": "Pandemia COVID-19",
+      "tema": "ind_a3",
       "dificuldade": 2,
-      "tags": ["covid-19", "apresentação-clínica", "gravidade", "hipóxia"]
+      "tags": [
+        "covid-19",
+        "apresentação-clínica",
+        "gravidade",
+        "hipóxia"
+      ]
     },
     {
       "id": 31,
       "materia": "indicadores",
       "frente": "Como o PNSP se aplica especificamente à pandemia de COVID-19 em termos de proteção profissional?",
       "verso": "Durante COVID-19, o PNSP foi crucial em orientar Equipamento de Proteção Individual (EPI) adequado: máscara N95 para procedimentos geradores de aerossol, luvas nitrílicas, avental impermeável, protetor facial/óculos. Protocolos de desinfecção de equipamentos foram implementados. Isolamento de pacientes em quartos negativos com pressão reduzida reduziu transmissão. Ventilação adequada e testes rápidos para triagem foram essenciais. Educação continuada dos profissionais sobre transmissão e precauções garantiu proteção tanto para pacientes quanto para equipes de saúde.",
-      "tema": "PNSP e Protocolos",
+      "tema": "ind_a8",
       "dificuldade": 2,
-      "tags": ["pnsp", "covid-19", "ppe", "proteção"]
+      "tags": [
+        "pnsp",
+        "covid-19",
+        "ppe",
+        "proteção"
+      ]
     },
     {
       "id": 32,
       "materia": "sus",
       "frente": "Qual é a estrutura organizacional do SUS e quais são seus três níveis de atenção à saúde?",
       "verso": "O SUS é organizado em três níveis: atenção primária (porte de entrada, prevenção, promoção em unidades básicas de saúde), atenção secundária (procedimentos especializados em ambulatórios e hospitais de porte médio), e atenção terciária (procedimentos altamente complexos em centros de referência e hospitais universitários). Cada nível tem capacidade progressiva de diagnóstico e tratamento. Cidades podem não ter todos os níveis, necessitando referência para outras cidades. O sistema é financiado pelo governo federal, estadual e municipal.",
-      "tema": "SUS Princípios e Diretrizes",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["sus", "saúde-pública", "atenção", "níveis"]
+      "tags": [
+        "sus",
+        "saúde-pública",
+        "atenção",
+        "níveis"
+      ]
     },
     {
       "id": 33,
       "materia": "sus",
       "frente": "Descreva os princípios doutrinários do SUS e cite exemplos de sua aplicação prática.",
       "verso": "Os três princípios doutrinários são: universalidade (acesso de toda população sem distinção), equidade (tratamento diferenciado de necessidades diferentes para alcançar igualdade de oportunidades), e integralidade (atendimento completo de saúde individual e coletiva). Universalidade: qualquer pessoa pode usar SUS independentemente de contribuição. Equidade: programas de vacinação em comunidades marginalizadas reduzem disparidades. Integralidade: uma unidade básica oferece prevenção, cura, reabilitação e cuidados paliativos integrados.",
-      "tema": "SUS Princípios e Diretrizes",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["sus", "universalidade", "equidade", "integralidade"]
+      "tags": [
+        "sus",
+        "universalidade",
+        "equidade",
+        "integralidade"
+      ]
     },
     {
       "id": 34,
       "materia": "sus",
       "frente": "Como funciona a descentralização do SUS e qual é o papel dos estados e municípios?",
       "verso": "O SUS foi descentralizado a partir de 1990, transferindo responsabilidades do nível federal para estadual e municipal. Estados gerenciam hospital de referência secundária e terciária, estabelecem diretrizes, coordenam regionalização. Municípios gerenciam atenção primária (UBS, ESF), executam programas de saúde pública, coletam dados epidemiológicos. Cada município tem secretário de saúde responsável pela implementação local. Financiamento é compartilhado entre os três níveis, dependendo de capacidade e responsabilidades. Este modelo permite adaptação às realidades locais enquanto mantém diretrizes nacionais.",
-      "tema": "SUS Princípios e Diretrizes",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["sus", "descentralização", "município", "estado"]
+      "tags": [
+        "sus",
+        "descentralização",
+        "município",
+        "estado"
+      ]
     },
     {
       "id": 35,
       "materia": "sus",
       "frente": "O que é epidemiologia e quais são seus principais objetivos de estudo?",
       "verso": "Epidemiologia é a ciência que estuda a distribuição e determinantes de doenças nas populações. Objetivos incluem: descrever frequência e distribuição de doenças (epidemiologia descritiva), identificar causas e fatores de risco (epidemiologia analítica), e testar intervenções preventivas (epidemiologia experimental). Utiliza conceitos de incidência (novos casos), prevalência (casos existentes), mortalidade, morbidade. Identifica padrões por pessoa, lugar e tempo. Fundamenta políticas de saúde pública e programas preventivos baseados em evidências.",
-      "tema": "Epidemiologia Básica",
+      "tema": "sus_a1",
       "dificuldade": 2,
-      "tags": ["epidemiologia", "incidência", "prevalência", "saúde-pública"]
+      "tags": [
+        "epidemiologia",
+        "incidência",
+        "prevalência",
+        "saúde-pública"
+      ]
     },
     {
       "id": 36,
       "materia": "sus",
       "frente": "Diferencie entre incidência e prevalência e explique sua importância epidemiológica.",
       "verso": "Incidência é o número de novos casos de uma doença em uma população durante um período específico, medindo risco de adoecer. Expressa como taxa de incidência (novos casos/população em risco × tempo). Prevalência é o número total de casos (novos + antigos) em um momento específico, medindo carga de doença. Expressa como proporção. Incidência é importante para avaliar severidade e rapidez de transmissão; prevalência reflete o impacto na população. Uma doença pode ter incidência alta com prevalência baixa (alta mortalidade) ou incidência baixa com prevalência alta (crônica).",
-      "tema": "Epidemiologia Básica",
+      "tema": "sus_a1",
       "dificuldade": 2,
-      "tags": ["epidemiologia", "incidência", "prevalência", "taxa"]
+      "tags": [
+        "epidemiologia",
+        "incidência",
+        "prevalência",
+        "taxa"
+      ]
     },
     {
       "id": 37,
       "materia": "sus",
       "frente": "Qual é a importância da notificação compulsória de doenças e qual é seu papel no controle epidemiológico?",
       "verso": "Notificação compulsória obriga profissionais de saúde a reportar casos de doenças específicas às autoridades de saúde. Lista inclui doenças transmissíveis (tuberculose, dengue, sarampo), zoonoses (raiva), e outros agravos. Permite: monitoramento em tempo real, detecção de surtos, mobilização de recursos de contenção, investigação de fontes de infecção. Dados alimentam sistemas de vigilância epidemiológica que identificam padrões geográficos e temporais. Fundamental para programas de vacinação, quarentena e intervenções preventivas efetivas. Protege saúde coletiva.",
-      "tema": "Epidemiologia Básica",
+      "tema": "sus_a1",
       "dificuldade": 2,
-      "tags": ["notificação", "epidemiologia", "vigilância", "doenças"]
+      "tags": [
+        "notificação",
+        "epidemiologia",
+        "vigilância",
+        "doenças"
+      ]
     },
     {
       "id": 38,
       "materia": "sus",
       "frente": "Como a Política Nacional de Atenção Básica (PNAB) estrutura a saúde primária no Brasil?",
       "verso": "A PNAB estabelece diretrizes para atenção básica como porte de entrada do SUS. Estrutura-se em Estratégia Saúde da Família (ESF) com equipes multiprofissionais (médico, enfermeiro, ACS, dentista) cobrindo 1.000 famílias/área. Objetivo é promoción de saúde, prevenção de doenças, diagnóstico precoce, tratamento de condições agudas e crônicas, reabilitação. Princípios incluem longitudinalidade (continuidade do cuidado), integralidade, coordenação do cuidado e orientação à comunidade. A PNAB foi renovada em 2017, ampliando escopo clínico e fortalecendo ABS.",
-      "tema": "Políticas de Saúde",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["pnab", "atenção-básica", "esf", "saúde-pública"]
+      "tags": [
+        "pnab",
+        "atenção-básica",
+        "esf",
+        "saúde-pública"
+      ]
     },
     {
       "id": 39,
       "materia": "sus",
       "frente": "Qual é o papel do Agente Comunitário de Saúde (ACS) na implementação das políticas de saúde pública?",
       "verso": "O ACS é membro da comunidade que funciona como elo entre população e serviços de saúde. Responsabilidades incluem: visitação domiciliar para identificar riscos sanitários e sociais, educação em saúde, estímulo à participação em programas (vacinação, pré-natal), coleta de informações epidemiológicas, orientação quanto ao acesso a serviços. Conhece demográfico, cultural e sanitário da comunidade. Pode detectar surtos, desnutrição, gestantes fora do pré-natal. Essencial para vigilância epidemiológica descentralizada e participação comunitária em políticas públicas.",
-      "tema": "Políticas de Saúde",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["acs", "saúde-comunitária", "saúde-pública", "políticas"]
+      "tags": [
+        "acs",
+        "saúde-comunitária",
+        "saúde-pública",
+        "políticas"
+      ]
     },
     {
       "id": 40,
       "materia": "sus",
       "frente": "Como as políticas de saúde no Brasil evoluíram desde a redemocratização até a implementação do SUS?",
       "verso": "Após redemocratização (1985), a Constituição de 1988 estabeleceu saúde como direito de todos, criando SUS com princípios de universalidade e equidade. Lei Orgânica da Saúde (1990) estruturou o sistema. Antes, saúde era restrita a contribuintes de INPS. SUS expandiu cobertura para população inteira. Políticas subsequentes incluíram: Programa Saúde da Família (1994), PNAB (2006), ampliação de medicamentos na rede pública, vacinação universal. Desafios incluem subfinanciamento, desvios de recursos, sobrecarga de serviços. O SUS é referência internacional em saúde pública universal.",
-      "tema": "Políticas de Saúde",
+      "tema": "sus_a4",
       "dificuldade": 2,
-      "tags": ["sus", "história", "políticas-saúde", "brasil"]
-    }
-    ,
+      "tags": [
+        "sus",
+        "história",
+        "políticas-saúde",
+        "brasil"
+      ]
+    },
     {
       "id": 41,
       "materia": "sus",
       "frente": "Qual é a diferença entre sinal e sintoma?",
       "verso": "Sintoma: manifestação subjetiva percebida e relatada pelo próprio paciente (dor, tontura, dispneia). Sinal: achado objetivo detectado pelo médico ou por exames (crepitação, sopro, febre medida). Memória: o paciente SENTE o sintoma, o médico VÊ o sinal.",
-      "tema": "Semiótica - Sinal, Sintoma e Síndrome",
+      "tema": "sus_a1",
       "dificuldade": 1
     },
     {
@@ -374,7 +581,7 @@
       "materia": "sus",
       "frente": "O que é uma síndrome? Como difere de doença?",
       "verso": "Síndrome: conjunto de sinais e sintomas associados a MAIS DE UMA causa possível. Doença: condição com etiologia única e definida. Exemplo: síndrome metabólica pode ter múltiplas causas; diabetes mellitus tipo 1 tem etiologia autoimune específica.",
-      "tema": "Semiótica - Sinal, Sintoma e Síndrome",
+      "tema": "sus_a1",
       "dificuldade": 1
     },
     {
@@ -382,7 +589,7 @@
       "materia": "sus",
       "frente": "Quais são as características clínicas da Síndrome de Turner?",
       "verso": "Cariótipo: 45,X0 (monossomia do X). Fenótipo feminino. Características: baixa estatura, pescoço alado (pterígio do pescoço), amenorreia primária, infantilismo sexual, infertilidade, implantação baixa de cabelos. Pode ter cardiopatia congênita (coarctação da aorta).",
-      "tema": "Genética - Síndromes Cromossômicas",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -390,7 +597,7 @@
       "materia": "sus",
       "frente": "O que é a Síndrome Metabólica e como diagnosticá-la segundo a SBE?",
       "verso": "Conjunto de alterações metabólicas que aumentam o risco cardiovascular. Critérios (SBE): OBESIDADE CENTRAL (circunferência abdominal aumentada) + pelo menos 2 de: glicemia alterada (≥100 mg/dL), HDL baixo (<40 H / <50 M), triglicerídeos ≥150, PA ≥130/85 mmHg.",
-      "tema": "Síndrome Metabólica",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -398,7 +605,7 @@
       "materia": "sus",
       "frente": "O que é aterosclerose e como se forma a placa?",
       "verso": "Doença sistêmica, crônica e progressiva das artérias. Formação: lesão endotelial → disfunção endotelial → penetração de LDL na íntima → oxidação do LDL → recrutamento de monócitos → diferenciação em macrófagos → células espumosas → estria gordurosa → placa fibroaterosclerótica. Pode romper e causar trombose.",
-      "tema": "Aterosclerose e Sistema Cardiovascular",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -406,7 +613,7 @@
       "materia": "sus",
       "frente": "Quais artérias irrigam o coração e o que acontece quando uma é obstruída?",
       "verso": "Artérias coronárias (direita e esquerda) emergem da aorta ascendente. Principais ramos: artéria descendente anterior (DA), artéria circunflexa (Cx), artéria coronária direita (CD). Obstrução → isquemia → necrose → infarto agudo do miocárdio (IAM). Manifestação: dor torácica, alteração de ECG, elevação de troponinas.",
-      "tema": "Aterosclerose e Sistema Cardiovascular",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -414,7 +621,7 @@
       "materia": "sus",
       "frente": "O que é o septo interatrial e o que é a fossa oval?",
       "verso": "Septo interatrial: parede que separa átrio direito e esquerdo. Fossa oval: depressão ovalar no septo interatrial, resquício anatômico do forame oval fetal. Na vida intrauterina, o forame oval permite shunt D→E (sangue oxigenado pela placenta). Fecha-se ao nascimento com a expansão pulmonar.",
-      "tema": "Anatomia Cardíaca - Septos e Circulação Fetal",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -422,7 +629,7 @@
       "materia": "sus",
       "frente": "O que é CIA (Comunicação Interatrial) e quais são seus sintomas?",
       "verso": "CIA: falha no fechamento do septo interatrial, permitindo comunicação entre os átrios. Sintomas: dispneia, fadiga, palpitações, sopro cardíaco, edema em MMII. Pode levar à hipertensão pulmonar se não tratada. Mais comum: defeito do tipo ostium secundum (fossa oval).",
-      "tema": "Anatomia Cardíaca - Septos e Circulação Fetal",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -430,7 +637,7 @@
       "materia": "sus",
       "frente": "Quais são os princípios fundamentais do SUS?",
       "verso": "DOUTRINÁRIOS: Universalidade (acesso a todos), Equidade (tratar diferente quem é diferente), Integralidade (atenção integral). ORGANIZATIVOS: Descentralização, Hierarquização (níveis de atenção), Participação da comunidade (controle social).",
-      "tema": "SUS - Princípios e Estrutura",
+      "tema": "sus_a4",
       "dificuldade": 1
     },
     {
@@ -438,7 +645,7 @@
       "materia": "sus",
       "frente": "Quais são os 3 níveis de atenção à saúde no SUS?",
       "verso": "PRIMÁRIA: UBS/ESF — porta de entrada preferencial. Ações de promoção, prevenção, diagnóstico e tratamento básico. SECUNDÁRIA: ambulatórios especializados, policlínicas — consultas especializadas, exames mais complexos. TERCIÁRIA: hospitais — procedimentos de alta complexidade, urgência/emergência.",
-      "tema": "SUS - Princípios e Estrutura",
+      "tema": "sus_a4",
       "dificuldade": 1
     },
     {
@@ -446,7 +653,7 @@
       "materia": "sus",
       "frente": "O que é territorialização na Atenção Básica?",
       "verso": "Processo de reconhecimento e delimitação do território de atuação da equipe de saúde. Inclui: mapeamento geográfico, cadastramento das famílias, identificação de problemas de saúde, perfil epidemiológico e elaboração de planejamento estratégico de ações. Base para a ESF.",
-      "tema": "Territorialização e ESF",
+      "tema": "sus_a8",
       "dificuldade": 2
     },
     {
@@ -454,7 +661,7 @@
       "materia": "sus",
       "frente": "Quais são as atribuições EXCLUSIVAS do Agente Comunitário de Saúde (ACS)?",
       "verso": "1. Visitar cada domicílio de sua microárea pelo menos UMA VEZ POR MÊS. 2. Fazer a LIGAÇÃO entre famílias e serviço de saúde. 3. Cadastrar e acompanhar as famílias. 4. Estimular a comunidade para práticas saudáveis. Apenas o ACS pode realizar as visitas domiciliares mensais.",
-      "tema": "Territorialização e ESF",
+      "tema": "sus_a8",
       "dificuldade": 2
     },
     {
@@ -462,7 +669,7 @@
       "materia": "sus",
       "frente": "O que é o MCCP (Método Clínico Centrado na Pessoa)?",
       "verso": "Modelo de consulta que integra: 1) Explorar doença e experiência do paciente; 2) Entender o contexto biopsicossocial; 3) Elaborar diagnóstico integrado; 4) Definir objetivos e prioridades com o paciente; 5) Promover prevenção e promoção de saúde; 6) Usar o tempo e recursos de forma realista; 7) Construir a relação médico-paciente.",
-      "tema": "MCCP - Método Clínico Centrado na Pessoa",
+      "tema": "sus_a9",
       "dificuldade": 2
     },
     {
@@ -470,7 +677,7 @@
       "materia": "sus",
       "frente": "Como explorar a experiência da doença no MCCP?",
       "verso": "Usar perguntas ABERTAS e escuta ativa para identificar: 1) SENTIMENTOS — como o paciente se sente com a doença; 2) IDEIAS — o que ele acredita estar acontecendo; 3) IMPACTO — como afeta sua vida e cotidiano; 4) EXPECTATIVAS — o que espera do médico. Isso permite diagnóstico centrado no paciente, não apenas na doença.",
-      "tema": "MCCP - Método Clínico Centrado na Pessoa",
+      "tema": "sus_a9",
       "dificuldade": 2
     },
     {
@@ -478,7 +685,7 @@
       "materia": "sus",
       "frente": "Quais são os Determinantes Sociais de Saúde (DSS)?",
       "verso": "Fatores que influenciam a saúde das populações além da biologia individual: condições socioeconômicas, culturais, étnicas/raciais, psicológicas, comportamentais e ambientais. Exemplos: renda, escolaridade, moradia, saneamento, acesso a serviços, discriminação. Explicam as desigualdades em saúde.",
-      "tema": "Determinantes Sociais de Saúde",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -486,7 +693,7 @@
       "materia": "sus",
       "frente": "O que é frequência absoluta vs relativa em epidemiologia?",
       "verso": "FREQUÊNCIA ABSOLUTA: número bruto de casos (ex: 500 casos de dengue). FREQUÊNCIA RELATIVA: número em relação a uma população de referência. Tipos: Proporção (sem unidade, ex: 30%), Taxa (tem numerador e denominador com dimensão, ex: 50 casos/100 mil hab), Razão (comparação entre grupos distintos).",
-      "tema": "Medidas Epidemiológicas",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -494,7 +701,7 @@
       "materia": "sus",
       "frente": "O que é incidência vs prevalência?",
       "verso": "INCIDÊNCIA: casos NOVOS de uma doença em um período (mede risco de adoecer). PREVALÊNCIA: total de casos (novos + antigos) em um momento ou período (mede a carga da doença). Relação: Prevalência ≈ Incidência × Duração da doença. Incidência cai antes da prevalência em doenças crônicas tratadas.",
-      "tema": "Medidas Epidemiológicas",
+      "tema": "sus_a1",
       "dificuldade": 2
     },
     {
@@ -502,7 +709,7 @@
       "materia": "bmf1",
       "frente": "Quais são os 4 tipos de tecido básico do corpo humano?",
       "verso": "1. EPITELIAL: revestimento e glândulas (ex: epiderme, mucosas). 2. CONJUNTIVO: suporte e conexão (ex: osso, cartilagem, sangue, tendão). 3. MUSCULAR: contração (liso, estriado esquelético, cardíaco). 4. NERVOSO: condução de estímulos (neurônios e células da glia).",
-      "tema": "bmf1_tec_epitelial",
+      "tema": "bmf1_a14",
       "dificuldade": 1
     },
     {
@@ -510,7 +717,7 @@
       "materia": "bmf1",
       "frente": "Quais são as 3 células do tecido ósseo e suas funções?",
       "verso": "OSTEOBLASTO: sintetiza e secreta matriz óssea (colágeno tipo I + proteoglicanos); promove mineralização. OSTEÓCITO: osteoblasto enclausurado na matriz; mantém viabilidade óssea e homeostase do cálcio. OSTEOCLASTO: célula gigante multinucleada; resorção óssea (secreta HCl e enzimas proteolíticas).",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2
     },
     {
@@ -518,7 +725,7 @@
       "materia": "bmf1",
       "frente": "O que é o periósteo e suas duas camadas?",
       "verso": "Membrana conjuntiva que recobre a superfície externa dos ossos. CAMADA FIBROSA (externa): colágeno tipo I, proteção mecânica, inserção de tendões e ligamentos. CAMADA OSTEOGÊNICA (interna): osteoblastos e células osteoprogenitoras; responsável pelo crescimento aposicional e regeneração óssea após fratura.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2
     },
     {
@@ -526,7 +733,7 @@
       "materia": "bmf1",
       "frente": "Por que a cartilagem hialina regenera mal após lesão?",
       "verso": "1. AVASCULAR: nutrição por difusão do líquido sinovial — sem acesso a células de reparação. 2. ANERVA: sem estímulo de crescimento. 3. Condrócitos com BAIXA CAPACIDADE MITÓTICA em adultos. 4. Sem células mesenquimais periféricas (como o periósteo no osso) para migração e diferenciação.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2
     },
     {
@@ -534,7 +741,7 @@
       "materia": "bmf1",
       "frente": "Quais são os tipos de cartilagem e onde são encontrados?",
       "verso": "HIALINA: mais abundante; superfícies articulares, cartilagem costal, laringe, traqueia, brônquios. Colágeno tipo II. ELÁSTICA: orelha, epiglote, laringe (partes). Colágeno II + fibras elásticas. FIBROCARTILAGEM: discos intervertebrais, meniscos, sínfise púbica. Colágeno tipo I — altamente resistente à compressão.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2
     },
     {
@@ -542,7 +749,7 @@
       "materia": "bmf1",
       "frente": "O que é tecido conjuntivo denso regular vs irregolar?",
       "verso": "DENSO REGULAR: fibras colágenas paralelas e densamente empacotadas. Ex: tendões, ligamentos. Resiste à tração em uma direção. DENSO IRREGULAR: fibras em várias direções. Ex: derme reticular, cápsulas articulares, esclerótica do olho. Resiste à tração em múltiplas direções.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2
     },
     {
@@ -550,7 +757,7 @@
       "materia": "bmf1",
       "frente": "Quais vasos irrigam o membro inferior? Cite a sequência da aorta ao pé.",
       "verso": "Aorta abdominal → artéria ilíaca comum → ilíaca externa → artéria femoral → artéria poplítea → artéria tibial anterior + tibial posterior + fibular. A tibial anterior continua como ARTÉRIA DORSAL DO PÉ (pediosa). A tibial posterior dá origem às artérias plantares medial e lateral.",
-      "tema": "bmf1_mmii_vasos_nervos",
+      "tema": "bmf1_a13",
       "dificuldade": 2
     },
     {
@@ -558,7 +765,7 @@
       "materia": "bmf1",
       "frente": "Qual é o trajeto e importância clínica da veia safena magna?",
       "verso": "Maior veia do corpo. Trajeto: face medial do tornozelo (maleólo medial) → face medial da perna e coxa → junção safenofemoral (virilha). Importância: palpável medialmente, usada como enxerto venoso em cirurgia de BYPASS coronariano. Risco de varizes por incompetência valvar.",
-      "tema": "bmf1_mmii_vasos_nervos",
+      "tema": "bmf1_a13",
       "dificuldade": 2
     },
     {
@@ -566,7 +773,7 @@
       "materia": "bmf1",
       "frente": "O que inerva o nervo obturatório? Qual sua importância clínica?",
       "verso": "Origem: L2-L4. Inerva: músculos adutores da coxa (grácil, obturador externo, adutores longo/curto/magno) e face medial da coxa (sensitivo). IMPORTÂNCIA CLÍNICA: dor do quadril pode ser referida para a face medial da coxa (via n. obturatório), confundindo com patologia de joelho — clássico na epifisiólise femoral em crianças.",
-      "tema": "bmf1_mmii_vasos_nervos",
+      "tema": "bmf1_a13",
       "dificuldade": 3
     },
     {
@@ -574,7 +781,7 @@
       "materia": "bmf1",
       "frente": "Classifique as articulações quanto à mobilidade.",
       "verso": "SINARTROSES: imóveis. Subdivisões: sinóstose (osso-osso, ex: crânio adulto), sincondrose (cartilagem, ex: 1ª costela-esterno), sindesmose (ligamento, ex: sínfise púbica). ANFIARTROSES: pouco móveis (ex: discos intervertebrais). DIARTROSES: livremente móveis, possuem cavidade articular e líquido sinovial. Ex: joelho, quadril, cotovelo.",
-      "tema": "bmf1_sist_articular",
+      "tema": "bmf1_a7",
       "dificuldade": 2
     },
     {
@@ -582,7 +789,7 @@
       "materia": "bmf1",
       "frente": "O que é o raquitismo e qual vitamina está deficiente?",
       "verso": "Doença óssea metabólica infantil por DEFICIÊNCIA DE VITAMINA D. A vitamina D é essencial para absorção intestinal de Ca²⁺ e PO₄³⁻ e para mineralização da matrix óssea. Resultado: osso produzido porém não mineralizado (osteoide). Sinais: alargamento das epífises, joelhos valgos, rosário raquítico nas costelas, craniotabes.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2
     },
     {
@@ -590,7 +797,7 @@
       "materia": "bcm1",
       "frente": "O que é o DNA e qual é sua estrutura?",
       "verso": "DNA (ácido desoxirribonucleico): molécula de dupla hélice (Watson & Crick, 1953). Fita antiparalelas unidas por pontes de H entre bases: A-T (2 pontes) e G-C (3 pontes). Backbone: desoxirribose + fosfato. Bases púricas: Adenina (A), Guanina (G). Bases pirimídicas: Citosina (C), Timina (T — só no DNA).",
-      "tema": "bcm1_dna_replicacao",
+      "tema": "bcm1_a5",
       "dificuldade": 1
     },
     {
@@ -598,7 +805,7 @@
       "materia": "bcm1",
       "frente": "Qual é a diferença entre DNA e RNA?",
       "verso": "DNA: dupla fita, desoxirribose, base T (timina), estável, núcleo. RNA: fita simples, ribose, base U (uracila), menos estável. Tipos de RNA: mRNA (mensageiro), rRNA (ribossomal — componente dos ribossomos), tRNA (transportador — carrega aminoácidos). Fluxo: DNA → RNA (transcrição) → Proteína (tradução).",
-      "tema": "bcm1_dna_replicacao",
+      "tema": "bcm1_a5",
       "dificuldade": 1
     },
     {
@@ -606,7 +813,7 @@
       "materia": "bcm1",
       "frente": "O que é replicação do DNA? Quais enzimas participam?",
       "verso": "Processo semiconservativo: cada fita original serve de molde. Enzimas: DNA Helicase (abre a dupla hélice), Primase (sintetiza primer RNA), DNA Polimerase III (síntese 5'→3'), DNA Polimerase I (remove primer), DNA Ligase (une fragmentos de Okazaki). Fita líder: síntese contínua. Fita retardada: fragmentos de Okazaki.",
-      "tema": "bcm1_dna_replicacao",
+      "tema": "bcm1_a5",
       "dificuldade": 2
     },
     {
@@ -614,7 +821,7 @@
       "materia": "bcm1",
       "frente": "O que é transcrição e como funciona?",
       "verso": "Síntese de RNA a partir do molde de DNA. Enzima: RNA Polimerase. Etapas: iniciação (RNA Pol liga ao promotor), elongação (síntese 5'→3'), terminação. Processamento do pré-mRNA (eucariontes): adição de cap 5', tail poly-A 3', splicing (remoção de íntrons, união de éxons pelo spliceossomo).",
-      "tema": "bcm1_transcricao",
+      "tema": "bcm1_a6",
       "dificuldade": 2
     },
     {
@@ -622,7 +829,7 @@
       "materia": "bcm1",
       "frente": "O que é tradução? Como o ribossomo sintetiza proteínas?",
       "verso": "Síntese proteica a partir do mRNA. Ribossomo: subunidade 40S + 60S (eucariontes). Código genético: trincas (códons) → aminoácidos. sítios A (aminoacil), P (peptidil), E (exit). Etapas: iniciação (códon AUG-Met), elongação (entrada do tRNA-aa no sítio A, formação da ligação peptídica, translocação), terminação (códon stop: UAA, UAG, UGA).",
-      "tema": "bcm1_traducao",
+      "tema": "bcm1_a7",
       "dificuldade": 2
     },
     {
@@ -630,7 +837,7 @@
       "materia": "bcm1",
       "frente": "O que são mutações e quais são os tipos principais?",
       "verso": "Alterações na sequência do DNA. TIPOS: Substituição de base — Transição (purina↔purina ou pirimidina↔pirimidina) ou Transversão (purina↔pirimidina). Deleção/Inserção: causa frameshift (mudança do quadro de leitura). Mutação sem sentido: gera códon de stop prematuro. Mutação silenciosa: não altera aminoácido (código degenerado).",
-      "tema": "bcm1_regulacao_genica",
+      "tema": "bcm1_a8",
       "dificuldade": 2
     },
     {
@@ -638,7 +845,7 @@
       "materia": "bcm1",
       "frente": "O que são aminoácidos essenciais? Cite os 9.",
       "verso": "Aminoácidos que o organismo não sintetiza (ou sintetiza de forma insuficiente) e devem ser obtidos pela dieta. Os 9 essenciais: Fenilalanina, Valina, Triptofano, Treonina, Isoleucina, Metionina, Histidina, Leucina, Lisina. Mnemônico: 'FVT — TIM — HL'.",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 2
     },
     {
@@ -646,7 +853,7 @@
       "materia": "bcm1",
       "frente": "Quais são os 4 níveis de estrutura proteica?",
       "verso": "PRIMÁRIA: sequência de aminoácidos (ligações peptídicas). SECUNDÁRIA: padrões locais — α-hélice e folha-β (pontes de H entre C=O e N-H). TERCIÁRIA: dobramento 3D geral — interações hidrofóbicas, pontes S-S, pontes iônicas, pontes de H. QUATERNÁRIA: associação de subunidades (ex: hemoglobina — 4 subunidades).",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 2
     },
     {
@@ -654,7 +861,7 @@
       "materia": "bcm1",
       "frente": "Como ocorre a síntese de colágeno? Quais são as modificações pós-translacionais?",
       "verso": "1. Síntese do pré-pró-colágeno (ribossomos). 2. Hidroxilação de prolina e lisina (RE — requer vit. C e O₂). 3. Glicosilação de hidroxilisinas (RE). 4. Formação do pró-colágeno (3 cadeias em tripla hélice). 5. Secreção. 6. Clivagem dos propeptídeos. 7. Reticulação (lisil oxidase — Cu²⁺ dependente). Deficiência vit. C → escorbuto (colágeno frágil).",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 3
     },
     {
@@ -662,7 +869,7 @@
       "materia": "bcm1",
       "frente": "O que são enzimas? Cite 5 propriedades.",
       "verso": "Catalisadores biológicos (geralmente proteínas). Propriedades: 1) Aumentam a velocidade da reação sem serem consumidos. 2) Reduzem a energia de ativação. 3) São altamente específicos (substrato e reação). 4) Não alteram o equilíbrio da reação. 5) São reguláveis (ativação/inibição alostérica, fosforilação, proteólise).",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 2
     },
     {
@@ -670,7 +877,7 @@
       "materia": "bcm1",
       "frente": "Qual é a diferença entre inibição competitiva e não-competitiva?",
       "verso": "COMPETITIVA: inibidor compete pelo sítio ativo com o substrato. Km aumenta, Vmax inalterada. Superável com excesso de substrato. Ex: metotrexato (inibe DHFR). NÃO-COMPETITIVA: inibidor liga ao sítio alostérico (inibe mesmo com substrato). Km inalterada, Vmax diminui. Não superável com excesso de substrato. Ex: cianeto inibe citocromo c oxidase.",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 2
     },
     {
@@ -678,7 +885,7 @@
       "materia": "bcm1",
       "frente": "O que é glicólise e qual é seu saldo energético?",
       "verso": "Via catabólica anaeróbica que converte 1 glicose → 2 piruvatos. Ocorre no citoplasma. Saldo: 2 ATP (ganho líquido), 2 NADH, 2 piruvatos. Enzimas regulatórias: Hexoquinase (passo 1), PFK-1 (passo 3 — principal ponto de controle), Piruvato quinase (passo 10). PFK-1 inibida por ATP e citrato; ativada por AMP e frutose-2,6-bifosfato.",
-      "tema": "bcm1_glicose",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -686,7 +893,7 @@
       "materia": "bcm1",
       "frente": "O que é o Ciclo de Krebs (Ciclo do Ácido Cítrico)?",
       "verso": "Via metabólica na MITOCÔNDRIA. Acetil-CoA (2C) + oxaloacetato (4C) → citrato (6C) → regenera oxaloacetato. Rendimento por ciclo: 3 NADH, 1 FADH₂, 1 GTP, 2 CO₂. NADH e FADH₂ entram na cadeia respiratória. Regulado por: disponibilidade de ADP e NAD⁺. Anaplerôtico: aminoácidos e ácidos graxos alimentam o ciclo.",
-      "tema": "bcm1_krebs",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -694,7 +901,7 @@
       "materia": "bcm1",
       "frente": "O que é a fosforilação oxidativa? Como é produzido ATP?",
       "verso": "Processo mitocondrial que acopla a cadeia transportadora de elétrons (CTE) à síntese de ATP. NADH e FADH₂ doam elétrons aos complexos I-IV → elétrons fluem até O₂ (aceitador final) → bombeamento de H⁺ para o espaço intermembranar → gradiente eletroquímico → ATP sintase (complexo V) usa o gradiente para sintetizar ATP (quimiosmose, teoria de Mitchell). Rendimento total: ~30-32 ATP/glicose.",
-      "tema": "bcm1_fosforilacao",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -702,7 +909,7 @@
       "materia": "bcm1",
       "frente": "O que é gliconeogênese? Quais são seus substratos?",
       "verso": "Síntese de glicose a partir de precursores não-glicídicos. Ocorre no FÍGADO (principalmente) e córtex renal. Substratos: lactato (ciclo de Cori), alanina (ciclo glicose-alanina), glicerol (de triacilgliceróis), aminoácidos glicogênicos. Regulação: glucagon estimula, insulina inibe. Enzimas exclusivas: piruvato carboxilase, PEPCK, frutose-1,6-bifosfatase, glicose-6-fosfatase.",
-      "tema": "bcm1_gliconeogenese",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -710,7 +917,7 @@
       "materia": "bcm1",
       "frente": "O que é beta-oxidação dos ácidos graxos?",
       "verso": "Catabolismo de ácidos graxos na MITOCÔNDRIA. Ácido graxo → ativação (acil-CoA) → transporte via carnitina → ciclos de β-oxidação: cada ciclo remove 2C como Acetil-CoA + 1 FADH₂ + 1 NADH. Acetil-CoA entra no Ciclo de Krebs. Para palmitato (C16): 7 ciclos → 8 Acetil-CoA → rendimento total ≈ 106 ATP. Estimulada pelo glucagon e jejum.",
-      "tema": "bcm1_betaoxidacao",
+      "tema": "bcm1_a1",
       "dificuldade": 3
     },
     {
@@ -718,7 +925,7 @@
       "materia": "bcm1",
       "frente": "O que são corpos cetônicos e quando são produzidos?",
       "verso": "Acetoacetato, β-hidroxibutirato e acetona. Produzidos no FÍGADO em situações de excesso de Acetil-CoA e baixo oxaloacetato: jejum prolongado, diabetes mellitus tipo 1 descompensado (cetoacidose diabética), dieta cetogênica. Usados como combustível pelo cérebro, coração e músculo quando glicose é escassa. pH cai na cetoacidose diabética.",
-      "tema": "bcm1_corpos_cetonicos",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -726,7 +933,7 @@
       "materia": "bcm1",
       "frente": "Qual é a composição e função das lipoproteínas plasmáticas?",
       "verso": "Partículas que transportam lipídeos no sangue. QUILOMÍCRON: maior, menor densidade, transporta triglicerídeos da dieta (intestino→tecidos). VLDL: fígado→tecidos (TG endógenos). IDL: intermediário. LDL: rico em colesterol → tecidos periféricos. HDL: coleta colesterol periférico → fígado (transporte reverso). LDL alto e HDL baixo = risco cardiovascular.",
-      "tema": "bcm1_corpos_cetonicos",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -734,7 +941,7 @@
       "materia": "bcm1",
       "frente": "Como a membrana plasmática é estruturada e quais são suas funções?",
       "verso": "Bicamada fosfolipídica (modelo mosaico fluido - Singer & Nicolson). Composição: fosfolipídeos (cabeça polar hidrofílica + cauda apolar hidrofóbica), colesterol (regula fluidez), glicoproteínas e glicolipídeos (reconhecimento), proteínas integrais e periféricas. Funções: barreira seletiva, transporte, sinalização, reconhecimento celular, adesão.",
-      "tema": "bcm1_membrana",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -742,7 +949,7 @@
       "materia": "bcm1",
       "frente": "Quais são os mecanismos de transporte através da membrana?",
       "verso": "PASSIVO: difusão simples (↓ concentração, sem proteína, ex: O₂, CO₂), difusão facilitada (↓ concentração, com proteína, ex: glicose-GLUT). ATIVO: primário (gasta ATP diretamente, ex: Na⁺/K⁺ ATPase), secundário (usa gradiente criado pelo ativo, ex: cotransporte Na⁺-glicose). VESICULAR: endocitose (fagocitose, pinocitose, mediada por receptor), exocitose.",
-      "tema": "bcm1_membrana",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -750,7 +957,7 @@
       "materia": "bcm1",
       "frente": "Como a bomba Na⁺/K⁺ ATPase funciona e qual sua importância?",
       "verso": "Proteína de transporte ativo primário. A cada ciclo: bombeia 3 Na⁺ para FORA e 2 K⁺ para DENTRO, consumindo 1 ATP. Mantém: alto K⁺ intracelular, alto Na⁺ extracelular, potencial de membrana negativo (≈ -70mV). Essencial para: potencial de ação neuronal, contração muscular, regulação do volume celular e cotransporte de nutrientes.",
-      "tema": "bcm1_membrana",
+      "tema": "bcm1_a1",
       "dificuldade": 2
     },
     {
@@ -758,7 +965,7 @@
       "materia": "bcm1",
       "frente": "Quais são os tampões fisiológicos do sangue?",
       "verso": "1. SISTEMA BICARBONATO (principal): H₂CO₃ ⇌ H⁺ + HCO₃⁻. pKa ≈ 6,1. Regulado pelos pulmões (CO₂) e rins (HCO₃⁻). 2. PROTEÍNAS PLASMÁTICAS (albumina, hemoglobina). 3. FOSFATO: HPO₄²⁻/H₂PO₄⁻ (importante nos túbulos renais). O sistema bicarbonato é o mais importante clinicamente — base da interpretação da gasometria.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2
     },
     {
@@ -766,7 +973,7 @@
       "materia": "bcm1",
       "frente": "Como interpretar uma gasometria arterial (passo a passo)?",
       "verso": "1. pH: <7,35 = acidose; >7,45 = alcalose. 2. PaCO₂: <35 = alcalose respiratória; >45 = acidose respiratória. 3. HCO₃⁻: <22 = acidose metabólica; >26 = alcalose metabólica. 4. Determine o distúrbio PRIMÁRIO. 5. Verifique se há COMPENSAÇÃO adequada. 6. Se compensação exagerada ou inadequada → distúrbio misto. Normal: pH 7,35-7,45 / PaCO₂ 35-45 / HCO₃⁻ 22-26.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2
     },
     {
@@ -774,7 +981,7 @@
       "materia": "bcm1",
       "frente": "Quais são os 4 distúrbios ácido-base primários e suas compensações?",
       "verso": "ACIDOSE METABÓLICA: ↓HCO₃ → compensação: ↓PaCO₂ (hiperventilação). ALCALOSE METABÓLICA: ↑HCO₃ → compensação: ↑PaCO₂ (hipoventilação). ACIDOSE RESPIRATÓRIA: ↑PaCO₂ → compensação: ↑HCO₃ (retenção renal). ALCALOSE RESPIRATÓRIA: ↓PaCO₂ → compensação: ↓HCO₃ (excreção renal). Regra geral: compensação NUNCA ultrapassa o pH normal.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2
     },
     {
@@ -782,7 +989,7 @@
       "materia": "indicadores",
       "frente": "O que é uma variável qualitativa vs quantitativa?",
       "verso": "QUALITATIVA (categórica): definida por categorias/atributos, sem valor numérico intrínseco. Ex: sexo, cor dos olhos, diagnóstico, grupo sanguíneo. QUANTITATIVA: expressa por valores numéricos. Discreta: valores inteiros (n° de filhos). Contínua: valores em qualquer ponto de uma escala (peso, altura, pressão arterial).",
-      "tema": "Metodologia Científica - Variáveis",
+      "tema": "ind_a9",
       "dificuldade": 1
     },
     {
@@ -790,7 +997,7 @@
       "materia": "indicadores",
       "frente": "O que é incidência e como calcular?",
       "verso": "INCIDÊNCIA: medida de frequência de casos NOVOS em uma população em risco durante um período. Fórmula: (n° de casos novos / população em risco) × constante (1.000 ou 100.000). Exemplo: 50 novos casos de dengue em uma população de 10.000 → incidência = 500/100.000 hab.",
-      "tema": "Metodologia Científica - Medidas de Saúde",
+      "tema": "ind_a5",
       "dificuldade": 2
     },
     {
@@ -798,7 +1005,7 @@
       "materia": "indicadores",
       "frente": "O que é proporção? Dê um exemplo clínico.",
       "verso": "PROPORÇÃO: razão em que o numerador está incluído no denominador, expressa em % ou decimal. Ex: 'proporção de mulheres com câncer de mama = casos em mulheres / total de casos de câncer de mama'. Difere de taxa por não ter uma dimensão temporal obrigatória.",
-      "tema": "Metodologia Científica - Medidas de Saúde",
+      "tema": "ind_a5",
       "dificuldade": 2
     }
   ]

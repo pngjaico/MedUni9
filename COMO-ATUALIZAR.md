@@ -1,6 +1,6 @@
-# COMO ATUALIZAR O MEDUNI9
+# Como atualizar o MedGradPlus
 
-Guia completo para manter e atualizar o MedUni9 sem precisar de uma nova sessão Claude a cada vez. 🚀
+Guia para manter e atualizar o MedGradPlus. Leia também [`AGENTS.md`](AGENTS.md) na raiz do repositório.
 
 ---
 
@@ -152,7 +152,7 @@ Abra `data/questoes.json` e adicione:
 ### Gerar códigos:
 Você pode usar Claude para gerar códigos. Prompt:
 ```
-Gere 30 códigos de ativação únicos para MedUni9.
+Gere 30 códigos de ativação únicos para MedGradPlus.
 Cada código deve ter 8 caracteres (letras maiúsculas e números).
 Retorne em formato JSON pronto para adicionar ao data/codigos.json
 ```
@@ -176,7 +176,7 @@ Retorne em formato JSON pronto para adicionar ao data/codigos.json
       "limite": 1
     },
     {
-      "codigo": "MEDUNI9X",
+      "codigo": "MEDGRADPLUSX",
       "ativo": true,
       "dataGeracao": "2026-03-29",
       "dataUso": null,
@@ -273,7 +273,7 @@ Adicione ao data/flashcards.json
 
 **Gerar códigos de ativação:**
 ```
-Gere 30 códigos de ativação únicos para MedUni9.
+Gere 30 códigos de ativação únicos para MedGradPlus.
 Cada código deve ter 8 caracteres (letras maiúsculas e números, sem repetição).
 Adicione ao data/codigos.json com o formato correto.
 ```
@@ -322,7 +322,7 @@ Questão 2:
 Abra Claude Code e use um prompt como:
 
 ```
-Extraia estas questões de prova e reformule-as para o MedUni9:
+Extraia estas questões de prova e reformule-as para o MedGradPlus:
 
 [Cole as questões aqui]
 
@@ -468,6 +468,4 @@ De vez em quando, verifique quais códigos foram usados:
 
 ---
 
-**Bom trabalho, João Vitor! O MedUni9 vai ficar incrível! 💪📚**
-
-Dúvidas? Releia a seção correspondente ou use Claude Code com a descrição do problema.
+Dúvidas: releia a seção correspondente ou descreva o problema na ferramenta de IA que estiver usando.

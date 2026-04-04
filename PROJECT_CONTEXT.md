@@ -1,12 +1,14 @@
-# MedUni9 - Plataforma de Estudos para Medicina
+# MedGradPlus — Plataforma de Estudos para Medicina
 
 ## Propósito
 
-**MedUni9** é uma plataforma web de estudos para estudantes de medicina da **Universidade Nove de Julho campus Vergueiro**. Organiza disciplinas, flashcards, questões e materiais de apoio por módulo/semestre.
+**MedGradPlus** é a plataforma web de estudos para estudantes de medicina da **Universidade Nove de Julho campus Vergueiro**. Organiza disciplinas, flashcards, questões e materiais de apoio por módulo/semestre.
 
 - **URL**: `https://meduni9-869eb.web.app`
-- **GitHub**: `https://github.com/pngjaico/MedUni9` (branch `main`)
-- **Stack**: Preact + htm (single-file `index.html`), Firebase Hosting, dados em JSON estáticos
+- **GitHub**: `https://github.com/pngjaico/MedUni9` (branch `main` — nome do repositório legado; produto: MedGradPlus)
+- **Stack**: React 18 (UMD) em single-file [`index.html`](index.html), Firebase Hosting, dados em JSON estáticos
+
+**Documentação de entrada:** leia [`AGENTS.md`](AGENTS.md) antes deste arquivo em sessões com IA.
 
 ---
 
@@ -99,7 +101,7 @@ Objeto JSON onde cada chave é o ID da disciplina:
 }
 ```
 
-**Nota**: O campo `icon` é vazio. Ícones são renderizados via `SUBJECT_ICON_MAP` em `index.html` (SVGs programáticos, sem emojis).
+**Nota:** Em muitas disciplinas o campo `icon` no JSON está vazio. A interface usa o mapa `SUBJECT_ICON_MAP` em [`index.html`](index.html) (SVGs), não depende de emoji no JSON.
 
 ---
 
@@ -191,11 +193,12 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ---
 
-## 🚀 Para IAs Futuras: Como Trabalhar com o Projeto
+## Para IAs e ferramentas: como trabalhar com o projeto
 
 ### 1. **Antes de qualquer mudança**
-   - Leia este arquivo (`PROJECT_CONTEXT.md`)
-   - Consulte `COMO-ATUALIZAR.md` para procedimentos
+   - Leia [`AGENTS.md`](AGENTS.md) (ordem de leitura e obrigação de atualizar docs ao mudar convenções)
+   - Use este arquivo (`PROJECT_CONTEXT.md`) para módulos e dados
+   - Consulte `COMO-ATUALIZAR.md` para procedimentos operacionais
 
 ### 2. **Para atualizar disciplinas**
    - Modifique `conteudos/_para_categorizar/Planos de Ensino/planos_estruturados.json`
@@ -206,18 +209,18 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ### 3. **Estrutura esperada de uma disciplina em `materias.json`**
    - `nome`: Título normalizado com acentuação correta
-   - `sigla`: Identificador único (ex: `bmf1`)
-   - `modulo`: 1, 2, 3, 4, ou 6 (nunca 5)
+   - `sigla`: Identificador curto exibido (ex.: `BMF1`)
+   - `modulo`: 1–6 conforme currículo
    - `ativo`: `true` ou `false`
-   - `icon`: Emoji associado (não remova)
-   - `cor`: Código HEX de cor (não altere arbitrariamente)
-   - `descricao`: Ementa do plano de ensino
-   - `modulos[].temas[]`: Array de aulas com id, tema e descrição
+   - `icon`: Pode estar vazio; a UI usa ícones SVG por tipo de disciplina em `index.html`
+   - `cor`: Código HEX (evite mudanças cosméticas sem motivo)
+   - `descricao`: Texto descritivo da disciplina
+   - `aulas`: Array de aulas, cada uma com `id` (ex.: `bmf1_a1`), `tema`, `descricao`
 
-### 4. **Campos a NÃO alterar manualmente**
-   - Ícones emoji (manutenha os existentes)
-   - Siglas de disciplinas (são chaves do JSON)
-   - IDs de aulas (padrão: `{sigla}_a{numero}`)
+### 4. **Campos a não alterar sem motivo forte**
+   - Chaves do objeto raiz (IDs das disciplinas, ex.: `bmf1`) — quebram referências em questões e materiais
+   - IDs de aulas em `aulas[].id` (padrão `{sigla_curta}_a{numero}` alinhado ao arquivo `.md`)
+   - Evite renomear disciplinas ou aulas só por cosmética; sincronize `data/materiais/`, `materiais/moduloN/` e JSONs dependentes
 
 ### 5. **Problemas Comuns**
 
@@ -234,12 +237,12 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ---
 
-## 📱 Demo e Acesso
+## Demo e acesso
 
-- **URL Pública**: https://meduni9-869eb.web.app
-- **Projeto Firebase**: meduni9-869eb
-- **Repositório GitHub**: https://github.com/pngjaico/MedUni9
-- **Branch**: main
+- **URL pública:** https://meduni9-869eb.web.app
+- **Projeto Firebase:** meduni9-869eb
+- **Repositório GitHub:** https://github.com/pngjaico/MedUni9
+- **Branch:** main
 
 ---
 
@@ -253,6 +256,6 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ---
 
-**Mantido por**: Sistema automatizado + IAs  
-**Última atualização**: Abril 2026  
-**Versão**: 1.0.0
+Documentação viva: ao mudar o app ou os dados, atualize [`AGENTS.md`](AGENTS.md) e os arquivos referenciados ali.
+
+**Última revisão deste arquivo:** abril de 2026.

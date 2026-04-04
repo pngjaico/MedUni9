@@ -54,7 +54,7 @@ print('DIFICULDADES:', sorted(difs.items()))
 Salve em `conteudos/_logs/analise_tendencias_YYYY-MM-DD.md`:
 
 ```markdown
-# Análise de Tendências MedUni9 — [DATA]
+# Análise de Tendências MedGradPlus — [DATA]
 
 ## Resumo Executivo
 - Questões curadas: X | Brutas nos lotes: X | Total potencial: X

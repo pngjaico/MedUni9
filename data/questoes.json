@@ -12,7 +12,7 @@
       ],
       "correta": 0,
       "explicacao": "O pH baixo (7,28) indica acidemia. O HCO3- reduzido (15) confirma acidose metabólica como problema primário. A PaCO2 baixa (32) representa compensação respiratória apropriada.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -28,7 +28,7 @@
       ],
       "correta": 0,
       "explicacao": "O pH elevado (7,52) com PaCO2 reduzida (28) e HCO3- normal indicam alcalose respiratória primária. A hiperventilação durante exercício intenso em ambiente quente causa perda excessiva de CO2.",
-      "tema": "bcm1_acido_base",
+      "tema": "bcm1_a2",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -44,7 +44,7 @@
       ],
       "correta": 1,
       "explicacao": "A leucina é um aminoácido de cadeia ramificada essencial para síntese proteica, especialmente crítica em crianças em crescimento. Atua como sinal anabólico via mTOR, estimulando síntese de proteínas musculares e imunológicas.",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -60,7 +60,7 @@
       ],
       "correta": 1,
       "explicacao": "Em queimaduras, a lesão térmica danifica o endotélio vascular, especialmente o glicocálix e as tight junctions. Isso aumenta dramaticamente a permeabilidade vascular, permitindo vazamento de plasma para o interstício.",
-      "tema": "bcm1_membrana",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -76,7 +76,7 @@
       ],
       "correta": 1,
       "explicacao": "A isquemia interrompe o aporte de oxigênio, impedindo a fosforilação oxidativa. Sem oxigênio, o NADH não pode ser reoxidado, bloqueando o Ciclo de Krebs. A produção de ATP cai drasticamente (2 ATP/glicose vs 30-32 aeróbica).",
-      "tema": "bcm1_fosforilacao",
+      "tema": "bcm1_a1",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -92,7 +92,7 @@
       ],
       "correta": 0,
       "explicacao": "A metformina inibe a respiração mitocondrial (Complexo I), reduzindo a reoxidação de NADH e a oxidação de piruvato. Isso causa acúmulo de ácido láctico, levando à miopatia.",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 3,
       "modulo": 2
     },
@@ -108,7 +108,7 @@
       ],
       "correta": 2,
       "explicacao": "O fígado sintetiza protrombina e fatores II, VII, IX e X (vitamina K-dependentes). Sua deficiência causa coagulopatia, contribuindo para hemorragia e piora da descompensação circulatória.",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -124,7 +124,7 @@
       ],
       "correta": 2,
       "explicacao": "A gota resulta do catabolismo excessivo de purinas via xantina oxidase: purinas → hipoxantina → xantina → ácido úrico. O aumento sérico (>6,8 mg/dL) causa precipitação de cristais e inflamação via NLRP3.",
-      "tema": "bcm1_nucleotideos",
+      "tema": "bcm1_a3",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -140,7 +140,7 @@
       ],
       "correta": 1,
       "explicacao": "A UGT1A1 conjuga bilirrubina indireta com ácido glucurônico, tornando-a hidrossolúvel. Em neonatos, esta enzima está imatura, resultando em hiperbilirrubinemia não-conjugada (icterícia neonatal).",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -156,7 +156,7 @@
       ],
       "correta": 2,
       "explicacao": "A vitamina B12 é cofator da metionina sintase, que converte homocisteína em metionina. A deficiência acumula homocisteína, compromete a mielinização (neuropatia) e reduz síntese de DNA (anemia macrocítica).",
-      "tema": "bcm1_vitaminas",
+      "tema": "bcm1_a19",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -173,7 +173,7 @@
       ],
       "correta": 2,
       "explicacao": "Na inibição competitiva, o inibidor ocupa o mesmo sítio ativo que o substrato. Como essa ligação é reversível, excesso de substrato desloca o inibidor por competição de massa, restaurando a Vmax original. Por isso o Km aparente aumenta (maior [S] necessário para atingir 50% Vmax), mas a Vmax não muda.",
-      "tema": "bcm1_enzimas_cinetica",
+      "tema": "bcm1_a4",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -190,7 +190,7 @@
       ],
       "correta": 1,
       "explicacao": "A vitamina C (ácido ascórbico) é cofator essencial das enzimas prolil-hidroxilase e lisil-hidroxilase. Sem hidroxilação adequada de prolina e lisina, as cadeias de tropocolágeno não formam a tripla hélice estável. O resultado é colágeno fraco, levando às manifestações clínicas do escorbuto.",
-      "tema": "bcm1_vitaminas",
+      "tema": "bcm1_a19",
       "dificuldade": 2,
       "modulo": 2
     },
@@ -207,7 +207,7 @@
       ],
       "correta": 1,
       "explicacao": "O alopurinol é análogo estrutural de hipoxantina. É oxidado pela própria xantina oxidase a aloxantina (oxipurinol), que inibe irreversivelmente a enzima (mecanismo suicídio). Bloqueia a conversão hipoxantina→xantina→ácido úrico, reduzindo hiperuricemia.",
-      "tema": "bcm1_nucleotideos",
+      "tema": "bcm1_a3",
       "dificuldade": 3,
       "modulo": 2
     },
@@ -224,7 +224,7 @@
       ],
       "correta": 2,
       "explicacao": "O DNP é um desacoplador: como ácido fraco lipofílico, carreia prótons (H⁺) de volta ao interior mitocondrial sem passar pela ATP sintase. O gradiente de prótons criado pela cadeia respiratória é dissipado como calor. A célula compensa aumentando a oxidação de combustíveis, gerando hipertermia fatal.",
-      "tema": "bcm1_fosforilacao",
+      "tema": "bcm1_a1",
       "dificuldade": 3,
       "modulo": 2
     },
@@ -241,7 +241,7 @@
       ],
       "correta": 2,
       "explicacao": "A bomba Na⁺/K⁺-ATPase hidrolisa uma molécula de ATP por ciclo para exportar 3 Na⁺ e importar 2 K⁺, contra seus gradientes eletroquímicos. É transporte ativo primário que mantém o potencial de membrana e o volume celular, consumindo ~30% do ATP celular em repouso.",
-      "tema": "bcm1_membrana",
+      "tema": "bcm1_a1",
       "dificuldade": 1,
       "modulo": 2
     },
@@ -258,7 +258,7 @@
       ],
       "correta": 1,
       "explicacao": "Glicocorticoides upregulam atrogenes (MuRF1 e atrogina-1/MAFbx) que codificam ubiquitina ligases. Essas enzimas marcam proteínas musculares para degradação pelo proteassoma. As fibras tipo II (glicolíticas, rápidas) são preferencialmente afetadas, causando fraqueza proximal — clássica miopatia esteroidal.",
-      "tema": "bcm1_aminoacidos",
+      "tema": "bcm1_a7",
       "dificuldade": 3,
       "modulo": 2
     },
@@ -274,7 +274,7 @@
       ],
       "correta": 2,
       "explicacao": "A consolidação de fratura é realizada por osteoblastos que sintetizam a matriz óssea e promovem sua mineralização. Os osteoblastos são então enclausurados na matriz, diferenciando-se em osteócitos.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 1,
       "modulo": 1
     },
@@ -290,7 +290,7 @@
       ],
       "correta": 2,
       "explicacao": "Na osteoporose, há redução na quantidade total de osso — tanto do componente mineral quanto orgânico — mas a proporção permanece normal. O volume total é reduzido, tornando o osso mais frágil.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -306,7 +306,7 @@
       ],
       "correta": 1,
       "explicacao": "A cartilagem hialina é avascular e anerva. Os condrócitos ficam isolados em lacunas de densa matriz e têm baixa capacidade mitótica em adultos. Não há células mesenquimais periféricas para regeneração.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -322,7 +322,7 @@
       ],
       "correta": 1,
       "explicacao": "O periósteo tem camada fibrosa (externa) e osteogênica (interna). A camada osteogênica contém osteoblastos e células osteoprogenitoras, sendo altamente ativa na formação do calo ósseo após fratura.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -338,7 +338,7 @@
       ],
       "correta": 1,
       "explicacao": "A vitamina D é essencial para absorção de cálcio e fósforo e mineralização óssea. Sua deficiência causa raquitismo, com desorganização da placa epifisária e alargamento metafisário característico.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -354,7 +354,7 @@
       ],
       "correta": 1,
       "explicacao": "Tendões são compostos de tecido conjuntivo denso regular com fibras colágenas tipo I dispostas em feixes paralelos, otimizando transmissão de forças de tensão. A baixa vascularização explica a lenta regeneração.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 1,
       "modulo": 1
     },
@@ -370,7 +370,7 @@
       ],
       "correta": 1,
       "explicacao": "Em inflamação crônica, fibroblastos são ativados por citocinas (IL-1, TGF-β) e se diferenciam em miofibroblastos. Essas células sintetizam em excesso colágeno tipos I e III, levando à fibrose.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -386,7 +386,7 @@
       ],
       "correta": 1,
       "explicacao": "A síndrome de Ehlers-Danlos resulta de defeitos na hidroxilação de prolina e lisina (via vitamina C e lisil oxidase), reduzindo a estabilidade do colágeno. Causa frouxidão articular, fragilidade vascular e cicatrização deficiente.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -402,7 +402,7 @@
       ],
       "correta": 0,
       "explicacao": "O pericôndrio é essencial para nutrição da cartilagem. Inflamação persistente compromete essa nutrição, podendo levar à necrose da cartilagem subjacente e degeneração articular com perda de função.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -418,7 +418,7 @@
       ],
       "correta": 2,
       "explicacao": "O cotovelo é uma diartroses uniaxial (gínglimo) com movimento em um eixo (flexão/extensão). A pronação/supinação ocorre principalmente na articulação radioulnar proximal.",
-      "tema": "bmf1_sist_articular",
+      "tema": "bmf1_a7",
       "dificuldade": 1,
       "modulo": 1
     },
@@ -435,7 +435,7 @@
       ],
       "correta": 0,
       "explicacao": "O tubérculo maior do úmero é local de inserção de três músculos do manguito rotador: supraespinal (face superior), infraespinal (face posterior-média) e redondo menor (face posterior-inferior). O subescapular se insere no tubérculo menor. Todos são inervados pelo nervo supraescapular (supra e infraespinal) e axilar (redondo menor).",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "manguito_rotador",
         "acidentes_osseos",
@@ -459,7 +459,7 @@
       ],
       "correta": 1,
       "explicacao": "O músculo redondo menor é inervado pelo nervo axilar (C5-C6), ramo do fascículo posterior do plexo braquial. Sua ação principal é a rotação lateral do braço. Faz parte do manguito rotador junto com supraespinal, infraespinal e subescapular.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "nervos_perifericos",
         "plexo_braquial",
@@ -483,7 +483,7 @@
       ],
       "correta": 3,
       "explicacao": "O nervo radial (C5-T1) é responsável pela inervação sensitiva da face posterior do antebraço através do ramo cutâneo posterior do antebraço. Também inerva a face posterior do braço e dorso da mão (exceto dedos 4-5). É o principal nervo do compartimento posterior do membro superior.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "nervos_perifericos",
         "membro_inferior",
@@ -507,7 +507,7 @@
       ],
       "correta": 2,
       "explicacao": "O 'pé caído' é causado pela lesão do nervo fibular comum ou seu ramo profundo. O nervo fibular profundo inerva os músculos do compartimento anterior da perna (tibial anterior, extensor longo dos dedos), responsáveis pela dorsiflexão. A lesão é comum por trauma na cabeça da fíbula.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "nervos_perifericos",
         "membro_inferior",
@@ -531,7 +531,7 @@
       ],
       "correta": 2,
       "explicacao": "O nervo fibular superficial inerva os músculos fibulares longo e curto, responsáveis pela eversão do pé. Já o nervo fibular profundo inerva a dorsiflexão. A lesão do fibular superficial causa perda da eversão e hipoestesia no dorso do pé.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "nervos_perifericos",
         "membro_inferior",
@@ -555,7 +555,7 @@
       ],
       "correta": 2,
       "explicacao": "O flexor longo do polegar é inervado pelo nervo mediano (ramo interósseo anterior) e seu tendão passa pelo túnel do carpo. A síndrome do túnel do carpo resulta da compressão do nervo mediano, causando parestesia nos dedos 1-3 e fraqueza na oposição e flexão do polegar.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "nervos_perifericos",
         "tunel_carpo",
@@ -579,7 +579,7 @@
       ],
       "correta": 3,
       "explicacao": "O ligamento longitudinal posterior (LLP) está localizado na face posterior dos corpos vertebrais, dentro do canal vertebral. Ele auxilia na contenção de hérnias discais posteriores. O ligamento longitudinal anterior (LLA) está na face anterior e impede a hiperextensão.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "coluna_vertebral",
         "hernia_discal",
@@ -603,7 +603,7 @@
       ],
       "correta": 2,
       "explicacao": "O ligamento cruzado anterior (LCA) impede a translação anterior da tíbia sobre o fêmur. É testado pelo teste da gaveta anterior e pelo teste de Lachman. O LCA origina-se no côndilo lateral do fêmur e insere-se na área intercondiliana anterior da tíbia.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "artrologia",
         "articulacao_sinovial",
@@ -627,7 +627,7 @@
       ],
       "correta": 2,
       "explicacao": "Os componentes essenciais de uma articulação sinovial são: superfícies articulares revestidas por cartilagem hialina, cápsula articular (membrana fibrosa + membrana sinovial) e cavidade articular preenchida por líquido sinovial. Meniscos, discos, ligamentos e bursas são componentes acessórios.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "artrologia",
         "articulacao_sinovial"
@@ -650,7 +650,7 @@
       ],
       "correta": 1,
       "explicacao": "Os ossos do carpo (escafóide, semilunar, piramidal, pisiforme, trapézio, trapezóide, capitato e hamato) são classificados como ossos curtos — suas dimensões são aproximadamente iguais nos três eixos. Ossos longos têm comprimento maior que largura (fêmur). Ossos planos são laminares (escápula).",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "osteologia",
         "classificacao_ossea",
@@ -674,7 +674,7 @@
       ],
       "correta": 1,
       "explicacao": "O periósteo é a membrana que reveste externamente os ossos (exceto nas superfícies articulares). Suas funções incluem: proteção mecânica, nutrição óssea (vascularização), crescimento em espessura (camada osteogênica) e reparo de fraturas. A periostite é a inflamação do periósteo.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "osteologia",
         "periosteo",
@@ -698,7 +698,7 @@
       ],
       "correta": 2,
       "explicacao": "A tíbia é um osso longo do membro inferior, sendo o osso mais comumente fraturado. Fraturas oblíquas em espiral na diáfise ocorrem por mecanismo rotacional. A tíbia é classificada como osso longo (comprimento maior que largura) e a fratura na diáfise é a região mais frequente.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "osteologia",
         "fraturas",
@@ -722,7 +722,7 @@
       ],
       "correta": 2,
       "explicacao": "O tecido muscular estriado esquelético apresenta fibras longas, cilíndricas, multinucleadas com núcleos periféricos e estriações transversais (bandas A e I). No corte longitudinal, as estriações são visíveis. No corte transversal, os núcleos periféricos são mais evidentes.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_muscular_estriado",
         "corte_histologico"
@@ -745,7 +745,7 @@
       ],
       "correta": 1,
       "explicacao": "As células residentes (próprias) do tecido conjuntivo são aquelas que se originam e permanecem no local: fibroblastos/fibrócitos, mastócitos, células mesenquimais indiferenciadas, macrófagos (originados de monócitos que migraram) e adipócitos. Neutrófilos, eosinófilos e linfócitos são células transitórias (vindas do sangue).",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_conjuntivo",
         "celulas_conjuntivas"
@@ -768,7 +768,7 @@
       ],
       "correta": 2,
       "explicacao": "O osteoblasto é a célula responsável pela síntese e secreção da matriz orgânica óssea (osteóide). A fosfatase alcalina, produzida pelo osteoblasto, participa do processo de mineralização, criando condições para o depósito de cristais de hidroxiapatita (cálcio + fosfato) na matriz. O osteoclasto faz reabsorção óssea.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_osseo",
         "osteoblasto",
@@ -792,7 +792,7 @@
       ],
       "correta": 2,
       "explicacao": "A principal fibra da matriz orgânica óssea é o colágeno tipo I (90% da matriz orgânica), sintetizado pelos osteoblastos. A osteogênese imperfeita ('ossos de vidro') é causada por mutação no gene do colágeno tipo I, resultando em fragilidade óssea extrema. Colágeno tipo II é da cartilagem hialina.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_osseo",
         "fibras_colagenas",
@@ -816,7 +816,7 @@
       ],
       "correta": 1,
       "explicacao": "A eosina é um corante ácido (aniônico) que cora estruturas básicas (acidófilas) em tons de rosa/vermelho. As fibras colágenas, citoplasma e proteínas são acidófilas. A hematoxilina é básica e cora estruturas ácidas (núcleo, RNA) em roxo/azul.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecnicas_histologicas",
         "coloracao_he"
@@ -839,7 +839,7 @@
       ],
       "correta": 2,
       "explicacao": "Os meniscos são compostos por fibrocartilagem (cartilagem fibrosa), que contém abundantes fibras colágenas tipo I dispostas em feixes densos. A fibrocartilagem é encontrada em regiões que suportam grandes pressões: meniscos, discos intervertebrais, sínfise púbica e inserção de tendões.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_cartilaginoso",
         "cartilagem_hialina",
@@ -863,7 +863,7 @@
       ],
       "correta": 1,
       "explicacao": "A fase de +30mV até abaixo de -70mV corresponde à repolarização (retorno ao repouso) seguida de hiperpolarização (ultrapassagem do potencial de repouso). Isso ocorre pela abertura tardia dos canais de K+ voltagem-dependentes (efluxo de K+) e inativação dos canais de Na+.",
-      "tema": "Biofísica Celular e Neuromuscular",
+      "tema": "bmf1_a12",
       "subfocos": [
         "potencial_acao",
         "canais_ionicos",
@@ -887,7 +887,7 @@
       ],
       "correta": 1,
       "explicacao": "O potencial de ação segue a lei do 'tudo ou nada': uma vez atingido o limiar de excitabilidade (aprox. -55mV), o PA dispara com amplitude máxima constante. A intensidade do estímulo é codificada pela frequência de potenciais de ação, não pela amplitude.",
-      "tema": "Biofísica Celular e Neuromuscular",
+      "tema": "bmf1_a12",
       "subfocos": [
         "potencial_acao",
         "lei_tudo_ou_nada"
@@ -910,7 +910,7 @@
       ],
       "correta": 1,
       "explicacao": "A hipocalemia (K+ baixo) hiperpolariza a membrana celular (potencial de repouso mais negativo, ex: -90mV ao invés de -70mV). Isso dificulta que a célula atinja o limiar de excitabilidade, reduzindo a capacidade de gerar potenciais de ação, o que resulta em fraqueza muscular ('moleza').",
-      "tema": "Biofísica Celular e Neuromuscular",
+      "tema": "bmf1_a12",
       "subfocos": [
         "hipocalemia",
         "placa_motora",
@@ -934,7 +934,7 @@
       ],
       "correta": 1,
       "explicacao": "O ventre muscular (composto por fibras musculares) é o componente responsável pela contração. A distensão grau 3 é a ruptura completa das fibras. O sarcômero é a unidade contrátil do músculo estriado esquelético, delimitado por duas linhas Z, contendo filamentos de actina (finos) e miosina (grossos).",
-      "tema": "Biofísica Celular e Neuromuscular",
+      "tema": "bmf1_a12",
       "subfocos": [
         "contracao_muscular",
         "sarcomero",
@@ -958,7 +958,7 @@
       ],
       "correta": 3,
       "explicacao": "O epicôndilo medial (epitróclea) e o epicôndilo lateral são acidentes ósseos da extremidade distal do úmero. O epicôndilo medial é ponto de origem dos músculos flexores do antebraço; o lateral, dos extensores. Ambos pertencem ao úmero, não à ulna ou ao rádio.",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "acidentes_osseos",
         "epicondilo",
@@ -982,7 +982,7 @@
       ],
       "correta": 2,
       "explicacao": "O ligamento acromioclavicular conecta o acrômio à clavícula e estabiliza a articulação acromioclavicular. Na luxação AC, este ligamento é o primeiro a ser lesionado (grau I). Os ligamentos coracoclaviculares (conóide e trapezóide) são lesionados em graus mais elevados (III-V).",
-      "tema": "Anatomia do Sistema Locomotor",
+      "tema": "bmf1_a3",
       "subfocos": [
         "artrologia",
         "ligamentos",
@@ -1006,7 +1006,7 @@
       ],
       "correta": 1,
       "explicacao": "O ácido hialurônico é um glicosaminoglicano (GAG) que aumenta a viscosidade e propriedades viscoelásticas do líquido sinovial, melhorando a lubrificação articular e a absorção de impacto. É o principal componente da matriz extracelular do líquido sinovial.",
-      "tema": "Histologia dos Tecidos de Suporte",
+      "tema": "bmf1_a4",
       "subfocos": [
         "tecido_conjuntivo",
         "acido_hialuronico"
@@ -1029,7 +1029,7 @@
       ],
       "correta": 1,
       "explicacao": "Os mastócitos armazenam histamina em grânulos. Sua liberação provoca vasodilatação (rubor, calor) e aumento da permeabilidade vascular (edema). A histamina age em receptores H1 do endotélio, permitindo extravasamento de plasma — base fisiopatológica da urticária e angioedema.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1046,7 +1046,7 @@
       ],
       "correta": 2,
       "explicacao": "Na cicatrização, fibroblastos são ativados por TGF-β a se diferenciar em miofibroblastos. Essas células sintetizam grandes quantidades de colágeno tipo I e III e contraem a ferida. Quando a ativação persiste além do necessário, ocorre fibrose excessiva: cicatriz hipertrófica ou queloide.",
-      "tema": "bmf1_tec_conjuntivo",
+      "tema": "bmf1_a4",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1063,7 +1063,7 @@
       ],
       "correta": 2,
       "explicacao": "A fibrocartilagem (meniscos, discos intervertebrais, sínfise púbica) é avascular — recebe nutrição por difusão a partir do líquido sinovial ou vasos periféricos. Tem poucos condrócitos dispersos em lacunas entre feixes de colágeno tipo I. Sem suprimento vascular direto, a regeneração é extremamente limitada.",
-      "tema": "bmf1_tec_cartilaginems",
+      "tema": "bmf1_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1080,7 +1080,7 @@
       ],
       "correta": 1,
       "explicacao": "O remodelamento ósseo segue a sequência ARF: Ativação (sinalização por osteócitos/RANKL) → Reabsorção (osteoclastos cavam a lacuna de Howship) → Formação (osteoblastos preenchem com osteoide que mineraliza). Na osteoporose, reabsorção supera formação. T-score ≤ -2,5 define osteoporose.",
-      "tema": "bmf1_tec_osseo",
+      "tema": "bmf1_a5",
       "dificuldade": 3,
       "modulo": 1
     },
@@ -1097,7 +1097,7 @@
       ],
       "correta": 2,
       "explicacao": "A artéria dorsal do pé (pediosa) é continuação da artéria tibial anterior. Passa na face dorsal do pé, entre o tendão do extensor longo do hálux e o extensor longo dos dedos. Sua lesão reduz o pulso pedioso.",
-      "tema": "Anatomia Vascular - Membro Inferior",
+      "tema": "bmf1_a13",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1117,7 +1117,7 @@
       ],
       "correta": 3,
       "explicacao": "A veia safena magna (grande safena) é o principal enxerto venoso utilizado no bypass coronariano. Corre medialmente no membro inferior, do tornozelo até a junção safenofemoral. Seu comprimento e calibre são adequados para a revascularização.",
-      "tema": "Anatomia Vascular - Veias do Membro Inferior",
+      "tema": "bmf1_a13",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1137,7 +1137,7 @@
       ],
       "correta": 3,
       "explicacao": "O nervo obturatório (L2-L4) inerva a face medial da coxa e a articulação do quadril. Dor referida do quadril frequentemente se manifesta na face medial da coxa em crianças, confundindo com patologia de joelho — padrão clássico da epifisiólise de cabeça femoral.",
-      "tema": "Anatomia Neurológica - Nervo Obturatório",
+      "tema": "bmf1_a13",
       "dificuldade": 3,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1157,7 +1157,7 @@
       ],
       "correta": 2,
       "explicacao": "Variáveis qualitativas (ou categóricas) são definidas por categorias, grupos ou atributos sem valor numérico inerente. Neste estudo, as temáticas são categorias qualitativas. Variáveis quantitativas representam medidas numéricas (peso, altura, pressão).",
-      "tema": "Metodologia Científica - Tipos de Variáveis",
+      "tema": "ind_a9",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1176,7 +1176,7 @@
       ],
       "correta": 3,
       "explicacao": "A PNSP foca em segurança clínica. Os seis objetivos incluem: higienização de mãos, segurança na medicação, prevenção de infecções, prevenção de quedas, prevenção de úlceras e cirurgia segura. Lucratividade não é objetivo da política.",
-      "tema": "PNSP - Objetivos",
+      "tema": "sus_a4",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1192,7 +1192,7 @@
       ],
       "correta": 1,
       "explicacao": "Um evento adverso é um incidente que resulta em dano ao paciente causado pela assistência à saúde. A PAVM, embora seja complicação conhecida da ventilação mecânica, representa dano causado pela assistência e deve ser notificada.",
-      "tema": "Tipos de Incidentes de Segurança",
+      "tema": "sus_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1208,7 +1208,7 @@
       ],
       "correta": 1,
       "explicacao": "O RT-PCR é o padrão-ouro para diagnóstico de SARS-CoV-2, com sensibilidade de 95-98% na fase aguda (primeiros 5-7 dias). Testes sorológicos só detectam anticorpos dias após a infecção.",
-      "tema": "COVID-19 / SARS-CoV-2 - Diagnóstico",
+      "tema": "sus_a5",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1224,7 +1224,7 @@
       ],
       "correta": 1,
       "explicacao": "Ventilação protetora com volume corrente baixo (6-8 mL/kg) reduz barotrauma e lesão pulmonar associada à ventilação (VILI). Volumes elevados aumentam o dano pulmonar em SDRA.",
-      "tema": "Protocolos de Manejo de COVID-19",
+      "tema": "sus_a5",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1240,7 +1240,7 @@
       ],
       "correta": 2,
       "explicacao": "O século XIX marcou a revolução científica com a patologia celular de Virchow, a teoria microbiana de Pasteur e os postulados de Koch. Esta era fundou a medicina moderna baseada em evidência.",
-      "tema": "História da Medicina - Período Moderno",
+      "tema": "sus_a3",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1254,7 +1254,7 @@
       ],
       "correta": 0,
       "explicacao": "Verdadeiro. O século XX presenciou a descoberta de penicilina (Fleming, 1928), vacina de poliomielite (Salk, 1955) e múltiplos antibióticos. Essas inovações transformaram o tratamento de doenças infecciosas globalmente.",
-      "tema": "História da Medicina - Século XX",
+      "tema": "sus_a3",
       "dificuldade": 1,
       "modulo": 1
     },
@@ -1271,7 +1271,7 @@
       ],
       "correta": 1,
       "explicacao": "Os DSS são fatores que vão além da biologia individual, incluindo condições socioeconômicas, culturais, étnicas, psicológicas e comportamentais. Eles explicam desigualdades em saúde e orientam políticas de saúde mais equitativas.",
-      "tema": "Determinantes Sociais de Saúde",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1288,7 +1288,7 @@
       ],
       "correta": 2,
       "explicacao": "O MCCP propõe que a consulta seja centrada no paciente como um todo, não apenas na doença. Integra experiência da doença, entendimento do contexto biopsicossocial, elaboração de diagnóstico integrado e um plano conjunto de cuidado com o paciente.",
-      "tema": "MCCP - Conceitos",
+      "tema": "sus_a9",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1305,7 +1305,7 @@
       ],
       "correta": 2,
       "explicacao": "O ACS tem atribuição exclusiva de visitar cada domicílio pelo menos uma vez por mês e ser o elo entre a comunidade e a equipe de saúde. Ele cadastra famílias, identifica problemas de saúde e estimula práticas saudáveis.",
-      "tema": "ESF - Atribuições da Equipe",
+      "tema": "sus_a8",
       "dificuldade": 2,
       "modulo": 1
     },
@@ -1322,7 +1322,7 @@
       ],
       "correta": 2,
       "explicacao": "No BLS, após confirmar que a vítima não responde e não respira normalmente: (1) Acionar serviço de emergência (192/193), (2) Solicitar DEA, (3) Iniciar compressões torácicas (100-120/min, 5-6cm de profundidade). A checagem de pulso é feita em até 10 segundos (não 30).",
-      "tema": "Primeiros Socorros e Emergências",
+      "tema": "sus_a1",
       "subfocos": [
         "pcr",
         "rcp",
@@ -1347,7 +1347,7 @@
       ],
       "correta": 1,
       "explicacao": "Quando o DEA indica 'choque não recomendado', significa que o ritmo é assistolia ou AESP (ritmos não chocáveis). A conduta é reiniciar RCP imediatamente (ciclos de 30:2) por 2 minutos até nova análise do DEA. NÃO se interrompe a RCP.",
-      "tema": "Primeiros Socorros e Emergências",
+      "tema": "sus_a1",
       "subfocos": [
         "dea",
         "pcr",
@@ -1371,7 +1371,7 @@
       ],
       "correta": 1,
       "explicacao": "A manobra de Heimlich consiste em compressões abdominais subdiafragmáticas para criar pressão positiva nas vias aéreas e expulsar o corpo estranho. Em gestantes e obesos, utilizam-se compressões torácicas. Em lactentes, alternância de 5 tapas dorsais com 5 compressões torácicas.",
-      "tema": "Primeiros Socorros e Emergências",
+      "tema": "sus_a1",
       "subfocos": [
         "obstrucao_vias_aereas",
         "heimlich",
@@ -1395,7 +1395,7 @@
       ],
       "correta": 2,
       "explicacao": "No método START, pacientes desacordados com sangramento ativo e fraturas expostas são classificados como VERMELHO (prioridade imediata). Avaliam-se: deambulação, respiração, circulação (pulso/enchimento capilar) e status neurológico. Desacordada + hemorragia = vermelha.",
-      "tema": "Primeiros Socorros e Emergências",
+      "tema": "sus_a1",
       "subfocos": [
         "triagem",
         "start",
@@ -1419,7 +1419,7 @@
       ],
       "correta": 1,
       "explicacao": "A queimadura de 2º grau (espessura parcial) atinge epiderme e parte da derme. Caracteriza-se por bolhas (flictenas), dor intensa e hiperemia. A de 1º grau atinge apenas epiderme (eritema). A de 3º grau atinge epiderme, derme completa e tecido subcutâneo (indolor, escaras).",
-      "tema": "Primeiros Socorros e Emergências",
+      "tema": "sus_a1",
       "subfocos": [
         "queimaduras",
         "classificacao",
@@ -1443,7 +1443,7 @@
       ],
       "correta": 1,
       "explicacao": "Temperatura de 36,5°C é afebril (febre ≥37,8°C). PA de 110x80 mmHg é normal. FC de 112 bpm é taquicardia (normal: 60-100 bpm). Bradicardia é FC <60 bpm. Portanto: afebril, normotenso, taquicárdico.",
-      "tema": "Sinais Vitais e Exame Físico",
+      "tema": "sus_a1",
       "subfocos": [
         "fc",
         "taquicardia",
@@ -1468,7 +1468,7 @@
       ],
       "correta": 1,
       "explicacao": "Para aferição correta da PA: paciente deve estar sentado, com braço apoiado na altura do coração, bexiga vazia, sem ter fumado ou ingerido cafeína nos últimos 30 min. A cafeína estimula o sistema nervoso simpático, elevando artificialmente a PA.",
-      "tema": "Sinais Vitais e Exame Físico",
+      "tema": "sus_a1",
       "subfocos": [
         "pa",
         "aferir_pressao",
@@ -1492,7 +1492,7 @@
       ],
       "correta": 1,
       "explicacao": "Sinais são achados objetivos identificados pelo exame (febre, edema, sopro, crepitação). Sintomas são manifestações subjetivas relatadas pelo paciente (dor, tontura, náusea, prurido). A semiologia integra ambos para construir o raciocínio diagnóstico.",
-      "tema": "Sinais Vitais e Exame Físico",
+      "tema": "sus_a1",
       "subfocos": [
         "sinais_sintomas",
         "semiologia_basica"
@@ -1515,7 +1515,7 @@
       ],
       "correta": 1,
       "explicacao": "Escala de Glasgow: Abertura ocular à dor = 2; Resposta verbal com sons incompreensíveis = 2; Resposta motora de retirada = 4. Total = 8. GCS ≤8 indica necessidade de proteção de via aérea (IOT). Mínimo = 3 (sem resposta). Máximo = 15 (normal).",
-      "tema": "Sinais Vitais e Exame Físico",
+      "tema": "sus_a1",
       "subfocos": [
         "glasgow",
         "nivel_consciencia"
@@ -1538,7 +1538,7 @@
       ],
       "correta": 1,
       "explicacao": "Os 5 momentos OMS/ANVISA: (1) Antes do contato com paciente, (2) Antes de procedimento asséptico, (3) Após risco de exposição a fluidos corporais, (4) Após contato com o paciente, (5) Após contato com as superfícies próximas ao paciente.",
-      "tema": "Biossegurança e Segurança do Paciente",
+      "tema": "sus_a8",
       "subfocos": [
         "higiene_maos",
         "cinco_momentos",
@@ -1562,7 +1562,7 @@
       ],
       "correta": 0,
       "explicacao": "Os 6 protocolos da PNSP são: (1) Identificação do paciente, (2) Segurança na prescrição e uso de medicamentos, (3) Cirurgia segura, (4) Prática de higiene das mãos, (5) Prevenção de quedas, (6) Prevenção de úlceras por pressão. Todos visam reduzir incidentes em serviços de saúde.",
-      "tema": "Biossegurança e Segurança do Paciente",
+      "tema": "sus_a8",
       "subfocos": [
         "pnsp",
         "seguranca_paciente",
@@ -1586,7 +1586,7 @@
       ],
       "correta": 0,
       "explicacao": "Segundo ANVISA/OMS: higienização com água e sabonete deve durar 40-60 segundos; fricção antisséptica com preparação alcoólica deve durar 20-30 segundos. A técnica inclui todas as superfícies das mãos, entre os dedos e unhas.",
-      "tema": "Biossegurança e Segurança do Paciente",
+      "tema": "sus_a8",
       "subfocos": [
         "higiene_maos",
         "tecnica_lavagem"
@@ -1609,7 +1609,7 @@
       ],
       "correta": 1,
       "explicacao": "A punção lombar é procedimento invasivo com risco de exposição a fluidos corporais. Exige: luvas estéreis, máscara cirúrgica, avental descartável e óculos de proteção. A NR-32 regulamenta segurança em serviços de saúde, incluindo uso de EPIs.",
-      "tema": "Biossegurança e Segurança do Paciente",
+      "tema": "sus_a8",
       "subfocos": [
         "epi",
         "paramentacao",
@@ -1633,7 +1633,7 @@
       ],
       "correta": 1,
       "explicacao": "O Código de Ética do Estudante de Medicina estabelece que o cadáver deve ser tratado com respeito e dignidade. É vedado qualquer tipo de desrespeito, fotografia não autorizada ou conduta inadequada durante as aulas de anatomia.",
-      "tema": "Ética Médica e Código de Ética",
+      "tema": "sus_a4",
       "subfocos": [
         "codigo_etica",
         "estudante_medicina",
@@ -1657,7 +1657,7 @@
       ],
       "correta": 0,
       "explicacao": "O CEM (Capítulo III, Art. 1) estabelece que é vedado causar dano ao paciente por ação ou OMISSÃO. O médico em plantão tem obrigação de estar disponível. A recusa de atendimento configura omissão de socorro, violando princípios de beneficência e não-maleficência.",
-      "tema": "Ética Médica e Código de Ética",
+      "tema": "sus_a4",
       "subfocos": [
         "codigo_etica_medica",
         "responsabilidade",
@@ -1681,7 +1681,7 @@
       ],
       "correta": 2,
       "explicacao": "O CEM e a Resolução CFM 1.805/2006 permitem a ortotanásia: suspensão de tratamentos fúteis em pacientes terminais, mantendo cuidados paliativos (controle de dor, conforto, dignidade). A integralidade do SUS inclui cuidados paliativos como direito do paciente.",
-      "tema": "Ética Médica e Código de Ética",
+      "tema": "sus_a4",
       "subfocos": [
         "cuidados_paliativos",
         "ortotanasia",
@@ -1705,7 +1705,7 @@
       ],
       "correta": 1,
       "explicacao": "A sonda vesical de demora de 3 vias (Foley tríplice lúmen) permite: drenagem da urina, inflação do balão e irrigação contínua. É utilizada pós-prostatectomia para eliminar coágulos e manter a permeabilidade da via urinária.",
-      "tema": "Procedimentos Básicos em Saúde",
+      "tema": "sus_a8",
       "subfocos": [
         "sondagem",
         "sonda_vesical",
@@ -1729,7 +1729,7 @@
       ],
       "correta": 1,
       "explicacao": "Em pacientes com vômitos, a via oral é contraindicada (perda do medicamento). As vias parenterais (IM ou EV) garantem absorção completa. A via EV permite início de ação mais rápido; a via IM é alternativa quando o acesso venoso não está disponível.",
-      "tema": "Procedimentos Básicos em Saúde",
+      "tema": "sus_a8",
       "subfocos": [
         "via_administracao",
         "im",
@@ -1753,7 +1753,7 @@
       ],
       "correta": 1,
       "explicacao": "Para suturas estéticas (face), utiliza-se fio monofilamentar não absorvível fino (nylon 5-0 ou 6-0). Monofilamentares causam menor reação tecidual; fios finos deixam menos marcas. Fios multifilamentares acumulam bactérias nos interstícios e são evitados em áreas expostas.",
-      "tema": "Procedimentos Básicos em Saúde",
+      "tema": "sus_a8",
       "subfocos": [
         "sutura",
         "fios_cirurgicos",
@@ -1777,7 +1777,7 @@
       ],
       "correta": 1,
       "explicacao": "A sonda nasoenteral (SNE) fornece via segura e menos traumática para dietas, hidratação e medicação em pacientes com impossibilidade de alimentação oral. Seu posicionamento DEVE ser confirmado por radiografia para evitar complicações (inserção pulmonar).",
-      "tema": "Procedimentos Básicos em Saúde",
+      "tema": "sus_a8",
       "subfocos": [
         "sondagem",
         "sonda_nasoenteral",
@@ -1801,7 +1801,7 @@
       ],
       "correta": 1,
       "explicacao": "Sintoma é toda manifestação subjetiva percebida e relatada pelo próprio paciente (dor, fraqueza, tontura, dispneia). Sinal, ao contrário, é objetivamente detectado pelo médico ou por exames. A distinção é fundamental para a anamnese estruturada.",
-      "tema": "Semiótica - Definições Básicas",
+      "tema": "sus_a1",
       "dificuldade": 1,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1821,7 +1821,7 @@
       ],
       "correta": 2,
       "explicacao": "Síndrome é um conjunto de sinais e sintomas associados a mais de uma causa possível. Difere de doença, que tem etiologia única e bem definida. Exemplos: síndrome metabólica, síndrome de Turner, síndrome de Down.",
-      "tema": "Semiótica - Definições Básicas",
+      "tema": "sus_a1",
       "dificuldade": 1,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1841,7 +1841,7 @@
       ],
       "correta": 2,
       "explicacao": "A Síndrome de Turner (45,X0) é uma monossomia do cromossomo X. Caracteriza-se por baixa estatura, amenorreia primária, pescoço alado (pterígio), infantilismo sexual e infertilidade. Klinefelter (47,XXY) afeta homens.",
-      "tema": "Genética - Síndromes Cromossômicas",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1861,7 +1861,7 @@
       ],
       "correta": 2,
       "explicacao": "A síndrome metabólica é diagnosticada pela presença de obesidade central (circunferência abdominal aumentada) associada a pelo menos dois dos seguintes: glicemia alterada, HDL baixo, triglicerídeos elevados e hipertensão arterial.",
-      "tema": "Síndrome Metabólica - Diagnóstico",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1881,7 +1881,7 @@
       ],
       "correta": 0,
       "explicacao": "A hipercolesterolemia (LDL elevado) é fator de risco central da aterosclerose (depósito de lipoproteínas na íntima vascular) e da síndrome metabólica (dislipidemia). Está diretamente ligada à formação de placas ateroscleróticas.",
-      "tema": "Aterosclerose - Fatores de Risco",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1901,7 +1901,7 @@
       ],
       "correta": 2,
       "explicacao": "O septo interatrial, que contém a fossa oval (resquício do forame oval fetal), separa os átrios em adultos normais. Na CIA, esse septo não se fecha completamente, permitindo comunicação entre átrio direito e esquerdo.",
-      "tema": "Anatomia Cardíaca - Septos",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1921,7 +1921,7 @@
       ],
       "correta": 1,
       "explicacao": "A fossa oval é o resquício do forame oval, estrutura que durante a vida intrauterina permite comunicação entre os átrios (shunt direito-esquerdo). Fecha-se funcionalmente ao nascimento e anatomicamente nas primeiras semanas de vida.",
-      "tema": "Anatomia Cardíaca - Circulação Fetal",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1941,7 +1941,7 @@
       ],
       "correta": 2,
       "explicacao": "As artérias coronárias (direita e esquerda) são os ramos da aorta ascendente responsáveis pela irrigação do miocárdio. A obstrução de um ramo coronário por placa aterosclerótica rompida causa o infarto agudo do miocárdio.",
-      "tema": "Anatomia Cardíaca - Irrigação",
+      "tema": "sus_a1",
       "dificuldade": 1,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1961,7 +1961,7 @@
       ],
       "correta": 1,
       "explicacao": "O SUS é uma política pública que busca a reformulação do modelo de saúde no Brasil, garantindo acesso universal, integral e igualitário. Baseia-se nos princípios da universalidade, equidade e integralidade.",
-      "tema": "SUS - Conceitos e Princípios",
+      "tema": "sus_a4",
       "dificuldade": 1,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -1981,7 +1981,7 @@
       ],
       "correta": 2,
       "explicacao": "A UBS pertence à atenção primária à saúde (APS) e é considerada a porta de entrada preferencial do SUS. Realiza ações de promoção, prevenção, diagnóstico e tratamento de problemas de saúde de menor complexidade.",
-      "tema": "Atenção Primária - UBS",
+      "tema": "sus_a8",
       "dificuldade": 1,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -2001,7 +2001,7 @@
       ],
       "correta": 1,
       "explicacao": "A territorialização é o processo pelo qual as equipes de saúde conhecem e delimitam o território de atuação, mapeando famílias, identificando problemas de saúde e planejando ações estratégicas para a população adscrita.",
-      "tema": "Territorialização em Saúde",
+      "tema": "sus_a8",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -2021,7 +2021,7 @@
       ],
       "correta": 1,
       "explicacao": "Incidência por 100 mil habitantes é uma medida de frequência relativa (taxa), pois relaciona o número de casos à população de referência. Medidas absolutas são apenas os contadores brutos; as relativas permitem comparar populações diferentes.",
-      "tema": "Medidas Epidemiológicas - Frequência",
+      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -2041,7 +2041,7 @@
       ],
       "correta": 2,
       "explicacao": "O MCCP propõe explorar a experiência da doença com perguntas abertas, identificando: sentimentos sobre estar doente, ideias sobre o que está acontecendo, impacto na vida do paciente e expectativas em relação ao médico — construindo uma compreensão integrada.",
-      "tema": "MCCP - Experiência da Doença",
+      "tema": "sus_a9",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,

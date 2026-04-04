@@ -1,15 +1,17 @@
-# Guia de Sessão — MedUni9
+# Guia de Sessão — MedGradPlus
 
-> Leia este arquivo no início de qualquer nova sessão de desenvolvimento.
+> Leia [AGENTS.md](AGENTS.md) primeiro, depois este arquivo no início de qualquer sessão de desenvolvimento.
 
 ---
 
 ## O que é esse projeto
 
-**MedUni9** — PWA de estudos de medicina para alunos da Uninove Vergueiro.
+**MedGradPlus** — PWA de estudos de medicina para alunos da Uninove Vergueiro.
+
 URL: https://meduni9-869eb.web.app
 
-Stack intencional: **um único `index.html`** com React 18 via CDN, sem build step, sem npm run.
+Stack intencional: **um único `index.html`** com React 18 via CDN, sem build step, sem `npm run` obrigatório.
+
 Firebase Hosting para deploy. Firestore para dados de usuário.
 
 ---
@@ -18,24 +20,25 @@ Firebase Hosting para deploy. Firestore para dados de usuário.
 
 ```
 meduni9-app/
+├── AGENTS.md               ← Entrada para IAs: ordem de leitura e glossário
 ├── index.html              ← TODO o app (React, CSS, lógica)
 ├── firebase.json           ← Config de deploy (ignore list importante)
-├── .gitignore              ← materiais/ e conteudos/ ignorados no git
+├── .gitignore
 ├── data/
 │   ├── materias.json       ← Catálogo de matérias e aulas
 │   ├── questoes.json       ← Banco de questões
 │   ├── flashcards.json     ← Flashcards
-│   └── codigos.json        ← Códigos de acesso
-├── materiais/              ← Materiais de apoio (.md) — LOCAL + DEPLOY, não no git
-│   ├── GUIA_CRIACAO.md     ← Como criar novos materiais
+│   ├── codigos.json        ← Códigos de acesso
+│   └── materiais/          ← Espelho editável dos .md (versionado no Git)
+├── materiais/              ← Materiais servidos pelo app (.md) — versionados para permitir revert
+│   ├── GUIA_CRIACAO.md
 │   └── modulo{N}/{sigla}/
 │       └── {sigla}_a{N}.md
-├── conteudos/              ← Apenas local, nunca deployado nem commitado
-│   └── materiais/          ← PDFs e livros de referência
+├── conteudos/              ← Local; ignorado no deploy (firebase.json); não versionar PDFs pesados se preferir
 ├── prompts/
-│   └── gerar_materiais_apoio.md  ← Prompt para gerar .md de aulas
+│   ├── gerar_materiais_apoio.md
+│   └── gerar_questoes_flashcards.md
 └── scripts/
-    └── popular_materiais.py
 ```
 
 ---
@@ -46,28 +49,27 @@ meduni9-app/
 firebase deploy --only hosting
 ```
 
-- `materiais/` → vai para o deploy (Firebase lê do filesystem local)
-- `conteudos/` → ignorado no deploy (firebase.json)
-- `materiais/` → no `.gitignore` (não sobe pro GitHub)
+- `materiais/` e `data/materiais/` entram no deploy a partir do disco local.
+- `conteudos/` não vai para o hosting (ver `firebase.json`).
 
 ---
 
 ## Como funciona o viewer de materiais
 
-1. Usuário clica em uma aula na aba "Materiais"
-2. App faz `fetch()` para `materiais/modulo{N}/{sigla}/{id}.md`
-3. Renderiza com `marked.js` na classe `.markdown-body`
-4. **Checklist** (`- [ ]`) fica interativo, estado salvo em `localStorage`
-5. **Seção `## Pré-Prova`** detectada automaticamente e exibida como accordion amber colapsável no final
+1. Usuário clica em uma aula na aba "Materiais".
+2. App faz `fetch()` para `materiais/modulo{N}/{sigla}/{id}.md`.
+3. Renderiza com `marked.js` na classe `.markdown-body`.
+4. **Checklist** (`- [ ]`) fica interativo, estado salvo em `localStorage`.
+5. **Seção `## Pré-Prova`** detectada automaticamente e exibida como accordion colapsável no final.
 
 ---
 
 ## CSS e design
 
-- **Tema:** escuro, background `#0A1628`, accent `#00B4D8` (ciano)
-- **Fontes:** `Outfit` (títulos/headings) + `DM Sans` (UI) + `Lexend` (leitura de materiais)
-- **Markdown body:** classe `.markdown-body` com hierarquia visual definida
-- Variáveis CSS: `--primary`, `--text-primary`, `--text-secondary`, `--bg-card`, `--border-card`
+- **Tema:** escuro, background `#0A1628`, accent `#00B4D8` (ciano).
+- **Fontes:** `Outfit` (títulos/headings) + `DM Sans` (UI) + `Lexend` (leitura de materiais).
+- **Markdown body:** classe `.markdown-body` com hierarquia visual definida.
+- Variáveis CSS: `--primary`, `--text-primary`, `--text-secondary`, `--bg-card`, `--border-card`.
 
 ---
 
@@ -75,23 +77,23 @@ firebase deploy --only hosting
 
 | Feature | Status |
 |---------|--------|
-| Questões múltipla escolha | ✅ |
-| Flashcards Anki-style | ✅ |
-| Caderno de erros | ✅ |
-| Materiais de apoio (.md) | ✅ |
-| Pré-Prova (accordion) | ✅ |
-| Checklist interativo | ✅ |
-| Feedback de usuário | ✅ |
-| Login por código | ✅ |
-| Filtro por semestre | ✅ |
+| Questões múltipla escolha | Sim |
+| Flashcards estilo Anki | Sim |
+| Caderno de erros | Sim |
+| Materiais de apoio (.md) | Sim |
+| Pré-Prova (accordion) | Sim |
+| Checklist interativo | Sim |
+| Feedback de usuário | Sim |
+| Login por código | Sim |
+| Filtro por semestre | Sim |
 
 ---
 
 ## Dados importantes
 
-- Aulas definidas em `data/materias.json` — toda geração de material depende dos IDs aqui
-- Para adicionar nova matéria: editar `materias.json` + criar pasta + arquivos .md + deploy
-- Banco de questões: `data/questoes.json`
+- Aulas definidas em `data/materias.json` — toda geração de material depende dos IDs aqui.
+- Para adicionar nova matéria: editar `materias.json` + criar pastas + arquivos `.md` + deploy.
+- Banco de questões: `data/questoes.json`.
 
 ---
 
@@ -107,20 +109,21 @@ git push origin main
 firebase deploy --only hosting
 ```
 
-**Nunca commitar:** `materiais/`, `conteudos/`, `.claude/settings.local.json`, `data/agent_logs/`
+**Evitar commitar:** segredos locais, `.claude/settings.local.json` se contiver dados pessoais, artefatos gerados listados em `.gitignore`. Materiais `.md` **podem e devem** ser commitados quando fizer parte do fluxo de revisão (ver [AGENTS.md](AGENTS.md)).
 
 ---
 
 ## Próximas pendências conhecidas
 
-- [ ] Gerar materiais .md para todas as disciplinas (ver `prompts/gerar_materiais_apoio.md`)
-- [ ] Testar Pré-Prova accordion no mobile
-- [ ] Adicionar mais questões ao banco
+- [ ] Cobertura de materiais `.md` por disciplina (ver `prompts/gerar_materiais_apoio.md`).
+- [ ] Pré-Prova no mobile (testes manuais).
+- [ ] Expandir banco de questões.
 
 ---
 
 ## Referências rápidas
 
 - Prompt de geração de materiais: `prompts/gerar_materiais_apoio.md`
+- Questões/flashcards: `prompts/gerar_questoes_flashcards.md`
 - Guia visual dos materiais: `materiais/GUIA_CRIACAO.md`
 - Firebase console: https://console.firebase.google.com/project/meduni9-869eb

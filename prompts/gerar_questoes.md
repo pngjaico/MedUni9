@@ -1,5 +1,15 @@
 # Guia de Geração de Questões — MedGradPlus
 
+## Prioridade de uso
+
+Este arquivo é complementar.
+
+Documento canônico para geração de questões e flashcards:
+
+- `prompts/gerar_questoes_flashcards.md`
+
+Se houver conflito entre regras, o documento canônico prevalece.
+
 > Leia este arquivo antes de gerar qualquer questão.
 > Quantidades por aula e schedules ficam nos arquivos de agente.
 
