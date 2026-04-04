@@ -1,257 +1,89 @@
-# PMH - Aula 1: Bioenergética e Termodinâmica do Metabolismo
+# PMH — Aula 1: Bioenergética e Termodinâmica do Metabolismo
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Bioenergética e Termodinâmica do Metabolismo é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+**Bioenergética** estuda como o organismo **capta, transforma e usa energia** química para manter função celular, crescimento e resposta ao estresse. A **termodinâmica** fornece o vocabulário certo: **espontaneidade**, **acoplamento** de reações e **limite** do que a célula pode fazer sem gastar ATP. Em prova, isso aparece em questões sobre **ATP**, **NADH/FADH₂**, **ciclo de Krebs**, **cadeia respiratória** e situações clínicas de **hipóxia**, **acidose lática** e **disfunção mitocondrial**. Dominar o “porquê” energético evita decorar fórmulas soltas sem nexo.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Primeira e segunda lei (visão biológica)
 
-Para dominar Bioenergética e Termodinâmica do Metabolismo, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+A **primeira lei** (conservação de energia) diz que energia não nasce nem morre: transforma-se. No metabolismo, isso significa que o **calor** e o **trabalho químico** somam o que entrou e saiu do sistema — útil para lembrar que **perda de calor** não é “falha”, é **dispersão inevitável**.
 
-## Construção de Hipótese e Validação
+A **segunda lei** introduz **entropia**: processos espontâneos no universo aumentam desordem global. Células mantêm **baixa entropia interna** à custa de **aumentar entropia** no meio (dispersão de calor). Por isso **vida é anti-entropia local**, financiada por **fluxo de energia** (alimento → oxidação → ATP).
 
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Bioenergética e Termodinâmica do Metabolismo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Bioenergética e Termodinâmica do Metabolismo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Bioenergética e Termodinâmica do Metabolismo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Bioenergética e Termodinâmica do Metabolismo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Bioenergética e Termodinâmica do Metabolismo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Bioenergética e Termodinâmica do Metabolismo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** “Reação espontânea” na célula quase sempre significa **ΔG negativo** em condições fisiológicas — não “rápida” nem “importante” por si só.
 
 ---
 
-## Pontos-Chave para Prova
+## Energia livre de Gibbs (ΔG)
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+O critério de **espontaneidade** a **pressão e temperatura constantes** é a **variação de energia livre de Gibbs (ΔG)**. Reações com **ΔG < 0** são **exergônicas** (liberam energia livre); **ΔG > 0** são **endergônicas** e **não** ocorrem sozinhas de forma significativa — precisam de **acoplamento** com uma reação exergônica.
+
+Na prática de estudo, associe:
+
+- **Catabolismo** (oxidar glicose, ácidos graxos): trechos **exergônicos** que alimentam síntese de ATP ou equivalentes.
+- **Anabolismo** (sintetizar macromoléculas): trechos **endergônicos**, pagos com ATP/GTP e **poder redutor** (NADPH em várias vias).
+
+> **Pegadinha:** ΔG **não** diz velocidade. **Enzimas** regulam **taxa**; ΔG diz **direção termodinâmica favorável**.
+
+---
+
+## ATP: moeda e “bateria” molecular
+
+O **ATP** liga energia liberada no **catabolismo** a processos **endergônicos** (transporte ativo, síntese, contração). A **hidrólise** de ATP → ADP + Pᵢ libera **energia livre** suficiente para acoplar trabalho celular (ordem de grandeza clássica em livros: ~**30,5 kJ/mol** em condições padrão — valores exatos variam com pH/Mg²⁺; em prova, o conceito importa mais que o número).
+
+Outras moléculas “ricas” aparecem em contexto (GTP, fosfoenolpiruvato, creatina-fosfato em músculo), mas **ATP** é o eixo central da bioenergética médica.
+
+---
+
+## Acoplamento: por que a célula “funciona”
+
+Uma reação **endergônica** (por exemplo, um passo de síntese) acopla-se a uma **exergônica** (hidrólise de ATP ou oxidação segmentada). Sem acoplamento enzimático, calor dissiparia sem realizar **trabalho químico** útil. **Complexos enzimáticos** e **transportadores** organizam esse fluxo — tema que retorna na **fosforilação oxidativa**.
+
+---
+
+## Oxidação, redução e carreadores (NAD⁺/NADH, FAD/FADH₂)
+
+Reações de **oxidação** removem elétrons; **redução** os adiciona. No metabolismo, **NAD⁺** e **FAD** captam elétrons em etapas oxidativas e os encaminham para a **cadeia respiratória** (via **NADH** e **FADH₂**), onde a energia redox alimenta **gradiente de prótons** e, por fim, **síntese de ATP**.
+
+> **Dica de Prova:** **NADPH** costuma aparecer em **vias anabólicas** e **defesa antioxidante** (pentose-fosfato); **NADH** em **catabolismo energético** — não troque papéis em questão de encaminhamento metabólico.
+
+---
+
+## Oxigênio, hipóxia e “volta” anaeróbica
+
+A **fosforilação oxidativa** depende de **oxigênio** como aceptor final de elétrons. Em **hipóxia**, a célula recua para **glicólise anaeróbica** + **redução do piruvato a lactato** para **regenerar NAD⁺** e manter fluxo mínimo de ATP — com custo de **acidose lática** se o quadro for maciço. Esse é o elo clínico entre **termodinâmica** e **emergência**.
+
+---
+
+## Comparativo rápido: exergônica vs endergônica
+
+| Tipo | ΔG (visão geral) | Exemplo de papel |
+|------|------------------|------------------|
+| Exergônica | negativo | oxidação de substrato, hidrólise de ATP quando “quebrado” para pagar outra reação |
+| Endergônica | positivo sozinha | síntese de éster, transporte ativo — precisa acoplamento |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Bioenergética e Termodinâmica do Metabolismo aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Paciente em **choque** ou **sepse** com **lactato elevado** reflete, em parte, **desvio metabólico** por **disponibilidade limitada de oxigênio** ou **disfunção mitocondrial** — o mesmo arcabouço bioenergético da aula. Já **intoxicações** que **descasam** oxidação de fosforilação (histórico: **desacopladores**) aumentam **consumo de O₂** e **produção de calor** sem ATP útil: o organismo “queima combustível” sem converter adequadamente em trabalho bioquímico.
+
+---
+
+## Pontos-Chave para Prova
+
+- **1ª lei:** conservação; **2ª lei:** entropia e irreversibilidade global.
+- **ΔG < 0:** espontâneo (na condição dada); **velocidade** é enzima.
+- **ATP** acopla **catabolismo** a **trabalho celular** endergônico.
+- **NADH/FADH₂** carregam **redução** para a **cadeia respiratória**.
+- **Hipóxia** → dependência de vias **sem oxidação completa** + **lactato** como “preço” de regenerar NAD⁺.
 
 ---
 
@@ -261,24 +93,21 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Espontaneidade** metabólica: **ΔG** (energia livre), não só calor.
+- **ATP** como **intermediário** entre oxidação de alimentos e processos que exigem energia.
+- **Oxidação** libera elétrons; **cadeia respiratória** recicla **aceptores** com **O₂** final.
+- **Anaerobiose** mantém ATP baixo com **custo** (lactato/acidose em contexto patológico).
+- **NADPH ≠ NADH** em função típica (anabolismo/defesa vs geração de energia oxidativa).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| ΔG | Velocidade (Vmax) | ΔG = direção termodinâmica; enzima = velocidade. |
+| Exergônica | Espontânea em laboratório sem enzima | Na célula, **enzima** canaliza fluxo; espontâneo ≠ imediato. |
+| Hipóxia tecidual | Acidose por outra causa | Lactato sobe em várias situações — correlacione com **oferta de O₂** e **perfusão**. |
+| Oxidação | Combustão aberta | Oxidação biológica é **gradual** e **acoplada** a síntese de ATP. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sem acoplamento, energia vira calor; com acoplamento, vira trabalho químico.”
