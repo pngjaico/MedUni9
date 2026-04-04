@@ -639,6 +639,8 @@
                                         <th>Campus</th>
                                         <th>Módulo</th>
                                         <th>Plano</th>
+                                        <th>Dispositivos</th>
+                                        <th>Último acesso</th>
                                     </tr>
                                 </thead>
                                 <tbody id="remoteUsersTable"></tbody>
@@ -664,6 +666,26 @@
                     <div class="fb-stage-title">Etapa 1 — Feedback Bruto</div>
                     <div class="fb-stage-subtitle">Aprovar aqui significa: este feedback merece gastar tokens e virar um plano de ação mais estruturado na madrugada.</div>
                     <div id="feedback-raw-list"></div>
+                </div>
+
+                <div class="panel">
+                    <div class="fb-stage-title">Reportes por Sessão</div>
+                    <div class="fb-stage-subtitle">Entradas enviadas direto do app, separadas por Flashcards, Questões e Materiais.</div>
+                    <div class="stats-grid" style="margin-bottom:12px;" id="feedback-origin-stats"></div>
+                    <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:12px;">
+                        <div>
+                            <div class="fb-stage-title" style="font-size:14px; margin-bottom:8px;">🃏 Flashcards</div>
+                            <div id="feedback-origin-flashcards"></div>
+                        </div>
+                        <div>
+                            <div class="fb-stage-title" style="font-size:14px; margin-bottom:8px;">❓ Questões</div>
+                            <div id="feedback-origin-questoes"></div>
+                        </div>
+                        <div>
+                            <div class="fb-stage-title" style="font-size:14px; margin-bottom:8px;">📚 Materiais</div>
+                            <div id="feedback-origin-materiais"></div>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="panel">
@@ -738,6 +760,64 @@
             <div class="btn-group" style="justify-content: center;">
                 <button class="btn btn-primary" onclick="copyGeneratedCode()">📋 Copiar</button>
                 <button class="btn btn-ghost" onclick="closeModal('generatedCodeModal')">Fechar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Edit Code Modal -->
+    <div class="modal-overlay hidden" id="editCodeModal">
+        <div class="modal">
+            <h3>Editar Código</h3>
+            <input type="hidden" id="editCodeHash">
+            <div class="alert alert-info" style="margin-bottom: 18px;">
+                <div>
+                    <strong>Hash:</strong> <span id="editCodeHashPreview">—</span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Plano</label>
+                <select class="form-select" id="editCodePlan">
+                    <option value="modulo">Módulo</option>
+                    <option value="ciclo">Ciclo</option>
+                    <option value="basico">Básico (legado)</option>
+                    <option value="completo">Completo (legado)</option>
+                    <option value="vitalicio">Vitalício (legado)</option>
+                </select>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label class="form-label">Máx. Dispositivos</label>
+                    <input type="number" class="form-input" id="editCodeMaxDevices" min="1" max="99" value="2">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Expiração</label>
+                    <input type="date" class="form-input" id="editCodeExpiry">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Email (opcional)</label>
+                <input type="email" class="form-input" id="editCodeEmail" placeholder="Deixe vazio para qualquer email">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Nota</label>
+                <input type="text" class="form-input" id="editCodeNote" placeholder="Observações internas">
+            </div>
+            <div class="form-row">
+                <div class="form-group" style="margin-bottom: 0;">
+                    <label class="form-label">Status</label>
+                    <select class="form-select" id="editCodeActive">
+                        <option value="true">Ativo</option>
+                        <option value="false">Inativo</option>
+                    </select>
+                </div>
+                <div class="form-group" style="margin-bottom: 0;">
+                    <label class="form-label">Dispositivos atuais</label>
+                    <input type="text" class="form-input" id="editCodeDevicesInfo" readonly>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-ghost" onclick="closeModal('editCodeModal')">Cancelar</button>
+                <button class="btn btn-primary" onclick="saveCodeEdits()">Salvar Alterações</button>
             </div>
         </div>
     </div>
@@ -1114,17 +1194,30 @@
         function renderUsersSection() {
             const pending = profileChangeRequests.filter(item => item.status === 'pending');
             const approved = profileChangeRequests.filter(item => item.status === 'approved');
+            const todayStart = new Date();
+            todayStart.setHours(0, 0, 0, 0);
             const byFaculty = remoteUsers.reduce((acc, user) => {
                 const key = user.faculdadeNome || 'Não informado';
                 acc[key] = (acc[key] || 0) + 1;
                 return acc;
             }, {});
+            const usersWithDevice = remoteUsers.filter(user => {
+                const ids = Array.isArray(user.deviceIds) ? user.deviceIds.filter(Boolean) : [];
+                return ids.length > 0 || !!user.deviceId;
+            }).length;
+            const loginsToday = remoteUsers.filter(user => {
+                if (!user.loginDate) return false;
+                const d = new Date(user.loginDate);
+                return !Number.isNaN(d.getTime()) && d >= todayStart;
+            }).length;
             const topFaculty = Object.entries(byFaculty).sort((a,b) => b[1]-a[1])[0]?.[0] || '—';
 
             document.getElementById('userRequestStats').innerHTML = `
                 <div class="stat-card warning"><div class="stat-label">Solicitações Pendentes</div><div class="stat-value">${pending.length}</div></div>
                 <div class="stat-card success"><div class="stat-label">Solicitações Aprovadas</div><div class="stat-value">${approved.length}</div></div>
                 <div class="stat-card"><div class="stat-label">Usuários com Perfil</div><div class="stat-value">${remoteUsers.length}</div></div>
+                <div class="stat-card"><div class="stat-label">Com Dispositivo Registrado</div><div class="stat-value">${usersWithDevice}</div></div>
+                <div class="stat-card success"><div class="stat-label">Logins Hoje</div><div class="stat-value">${loginsToday}</div></div>
                 <div class="stat-card purple"><div class="stat-label">Faculdade Mais Comum</div><div class="stat-value" style="font-size:16px">${escHtml(topFaculty)}</div></div>
             `;
 
@@ -1153,19 +1246,30 @@
 
             const usersEl = document.getElementById('remoteUsersTable');
             if (!remoteUsers.length) {
-                usersEl.innerHTML = '<tr><td colspan="5" style="text-align:center;color:var(--text-secondary)">Nenhum usuário com perfil salvo.</td></tr>';
+                usersEl.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--text-secondary)">Nenhum usuário com perfil salvo.</td></tr>';
             } else {
                 usersEl.innerHTML = remoteUsers
                     .sort((a, b) => String(a.email || '').localeCompare(String(b.email || '')))
-                    .map(user => `
+                    .map(user => {
+                        const ids = Array.isArray(user.deviceIds) ? user.deviceIds.filter(Boolean) : [];
+                        const trackedCount = ids.length || (user.deviceId ? 1 : 0);
+                        const max = Number.isFinite(Number(user.maxDispositivos)) ? Number(user.maxDispositivos) : 2;
+                        const loginText = user.loginDate ? new Date(user.loginDate).toLocaleString('pt-BR') : '—';
+                        const deviceTip = ids.length
+                            ? `IDs: ${ids.map(id => escHtml(String(id).slice(0, 18))).join(', ')}`
+                            : (user.deviceId ? `ID: ${escHtml(String(user.deviceId).slice(0, 24))}` : 'Sem dispositivo registrado');
+                        return `
                         <tr>
                             <td>${escHtml(user.email || '—')}</td>
                             <td>${escHtml(user.faculdadeNome || '—')}</td>
                             <td>${escHtml(user.campusNome || '—')}</td>
                             <td>${escHtml(String(user.semestre || user.modulo || '—'))}</td>
                             <td><span class="badge badge-primary">${escHtml(user.plano || 'basico')}</span></td>
+                            <td><span title="${deviceTip}">${trackedCount}/${max}</span></td>
+                            <td>${loginText}</td>
                         </tr>
-                    `).join('');
+                    `;
+                    }).join('');
             }
         }
 
@@ -1285,23 +1389,45 @@
 
             tbody.innerHTML = entries.map(([hash, c]) => {
                 const status = c.ativo ? '<span class="badge badge-success">Ativo</span>' : '<span class="badge badge-error">Inativo</span>';
-                const planBadge = c.plano === 'vitalicio' ? 'badge-purple' : c.plano === 'completo' ? 'badge-primary' : 'badge-warning';
+                const planBadge = getPlanBadgeClass(c.plano);
+                const planLabel = getPlanLabel(c.plano);
                 const devices = `${(c.dispositivos || []).length}/${c.maxDispositivos || 2}`;
                 const expira = c.expira ? new Date(c.expira).toLocaleDateString('pt-BR') : '—';
 
                 return `<tr>
                     <td><code style="font-size:11px; color: var(--text-secondary);">${hash.substring(0,12)}…</code></td>
-                    <td><span class="badge ${planBadge}">${c.plano || 'basico'}</span></td>
+                    <td><span class="badge ${planBadge}">${planLabel}</span></td>
                     <td>${status}</td>
                     <td>${devices}</td>
                     <td>${expira}</td>
                     <td>
-                        <button class="btn btn-sm ${c.ativo ? 'btn-danger' : 'btn-success'}" onclick="toggleCode('${hash}')">
-                            ${c.ativo ? '🚫 Desativar' : '✅ Ativar'}
-                        </button>
+                        <div class="btn-group">
+                            <button class="btn btn-sm ${c.ativo ? 'btn-danger' : 'btn-success'}" onclick="toggleCode('${hash}')">
+                                ${c.ativo ? '🚫 Desativar' : '✅ Ativar'}
+                            </button>
+                            <button class="btn btn-sm btn-warning" onclick="openEditCodeModal('${hash}')">✏️ Editar</button>
+                            <button class="btn btn-sm btn-ghost" onclick="resetCodeDevices('${hash}')">🧹 Reset Dispositivos</button>
+                            <button class="btn btn-sm btn-danger" onclick="deleteCode('${hash}')">🗑️ Excluir</button>
+                        </div>
                     </td>
                 </tr>`;
             }).join('');
+        }
+
+        function getPlanBadgeClass(plan) {
+            if (plan === 'vitalicio') return 'badge-purple';
+            if (plan === 'completo' || plan === 'ciclo') return 'badge-primary';
+            return 'badge-warning';
+        }
+
+        function getPlanLabel(plan) {
+            const p = (plan || 'basico').toLowerCase();
+            if (p === 'modulo') return 'módulo';
+            if (p === 'ciclo') return 'ciclo';
+            if (p === 'basico') return 'básico';
+            if (p === 'completo') return 'completo';
+            if (p === 'vitalicio') return 'vitalício';
+            return p;
         }
 
         function showNewCodeModal() { document.getElementById('newCodeModal').classList.remove('hidden'); }
@@ -1392,6 +1518,105 @@
                 await _persistCodes();
                 showToast(codesData[hash].ativo ? 'Código ativado e salvo' : 'Código desativado e salvo');
             }
+        }
+
+        function openEditCodeModal(hash) {
+            const entry = codesData[hash];
+            if (!entry) {
+                showToast('Código não encontrado.', true);
+                return;
+            }
+
+            const knownPlans = ['modulo', 'ciclo', 'basico', 'completo', 'vitalicio'];
+            const plan = knownPlans.includes((entry.plano || '').toLowerCase()) ? entry.plano.toLowerCase() : 'basico';
+            const devicesCount = (entry.dispositivos || []).length;
+
+            document.getElementById('editCodeHash').value = hash;
+            document.getElementById('editCodeHashPreview').textContent = `${hash.substring(0, 24)}...`;
+            document.getElementById('editCodePlan').value = plan;
+            document.getElementById('editCodeMaxDevices').value = entry.maxDispositivos || 2;
+            document.getElementById('editCodeExpiry').value = entry.expira || '';
+            document.getElementById('editCodeEmail').value = entry.email || '';
+            document.getElementById('editCodeNote').value = entry.nota || '';
+            document.getElementById('editCodeActive').value = entry.ativo ? 'true' : 'false';
+            document.getElementById('editCodeDevicesInfo').value = `${devicesCount} / ${entry.maxDispositivos || 2}`;
+
+            document.getElementById('editCodeModal').classList.remove('hidden');
+        }
+
+        async function saveCodeEdits() {
+            const hash = document.getElementById('editCodeHash').value;
+            const entry = codesData[hash];
+            if (!hash || !entry) {
+                showToast('Código não encontrado para edição.', true);
+                return;
+            }
+
+            const plan = document.getElementById('editCodePlan').value;
+            const maxDevices = parseInt(document.getElementById('editCodeMaxDevices').value, 10);
+            const expiry = document.getElementById('editCodeExpiry').value || null;
+            const email = (document.getElementById('editCodeEmail').value || '').trim().toLowerCase() || null;
+            const note = (document.getElementById('editCodeNote').value || '').trim();
+            const isActive = document.getElementById('editCodeActive').value === 'true';
+
+            if (!Number.isFinite(maxDevices) || maxDevices < 1 || maxDevices > 99) {
+                showToast('Máx. dispositivos deve ser entre 1 e 99.', true);
+                return;
+            }
+
+            entry.plano = plan;
+            entry.maxDispositivos = maxDevices;
+            entry.expira = expiry;
+            entry.email = email;
+            entry.nota = note;
+            entry.ativo = isActive;
+            entry.atualizadoEm = new Date().toISOString();
+
+            renderCodes();
+            await _persistCodes();
+            closeModal('editCodeModal');
+            showToast('Código atualizado com sucesso.');
+        }
+
+        async function resetCodeDevices(hash) {
+            const entry = codesData[hash];
+            if (!entry) {
+                showToast('Código não encontrado.', true);
+                return;
+            }
+
+            const devicesCount = (entry.dispositivos || []).length;
+            if (!devicesCount) {
+                showToast('Este código já está sem dispositivos registrados.');
+                return;
+            }
+
+            if (!confirm(`Resetar ${devicesCount} dispositivo(s) deste código?`)) return;
+
+            entry.dispositivos = [];
+            entry.atualizadoEm = new Date().toISOString();
+            renderCodes();
+            await _persistCodes();
+            showToast('Dispositivos resetados com sucesso.');
+        }
+
+        async function deleteCode(hash) {
+            const entry = codesData[hash];
+            if (!entry) {
+                showToast('Código não encontrado.', true);
+                return;
+            }
+
+            const typed = prompt(`Para excluir este código, digite EXCLUIR.\nHash: ${hash.substring(0, 12)}...`);
+            if (typed !== 'EXCLUIR') {
+                showToast('Exclusão cancelada.');
+                return;
+            }
+
+            delete codesData[hash];
+            renderCodes();
+            await _persistCodes();
+            showToast('Código excluído com sucesso.');
         }
 
         async function _persistCodes() {
@@ -1585,10 +1810,18 @@
             const statsEl    = document.getElementById('feedback-stats');
             const rawEl      = document.getElementById('feedback-raw-list');
             const plansEl    = document.getElementById('feedback-plans-list');
+            const originStatsEl = document.getElementById('feedback-origin-stats');
+            const flashEl = document.getElementById('feedback-origin-flashcards');
+            const questoesEl = document.getElementById('feedback-origin-questoes');
+            const materiaisEl = document.getElementById('feedback-origin-materiais');
 
             statsEl.innerHTML = '<div class="stat-card"><div class="stat-label">Carregando...</div></div>';
             rawEl.innerHTML   = '';
             plansEl.innerHTML = '';
+            if (originStatsEl) originStatsEl.innerHTML = '';
+            if (flashEl) flashEl.innerHTML = '';
+            if (questoesEl) questoesEl.innerHTML = '';
+            if (materiaisEl) materiaisEl.innerHTML = '';
 
             let rawFeedbacks = [];
             let approvedRaw  = [];
@@ -1626,6 +1859,9 @@
             const brutePending = rawFeedbacks.length;
             const approvedWaitingPlan = approvedRaw.length;
             const plansPending = plans.length;
+            const flashcardsReports = rawFeedbacks.filter(item => (item.origem || '').toLowerCase() === 'flashcards');
+            const questoesReports = rawFeedbacks.filter(item => (item.origem || '').toLowerCase() === 'questoes');
+            const materiaisReports = rawFeedbacks.filter(item => (item.origem || '').toLowerCase() === 'materiais');
 
             statsEl.innerHTML = `
                 <div class="stat-card ${brutePending > 0 ? 'warning' : 'success'}">
@@ -1668,6 +1904,41 @@
                     </div>`;
                 }).join('');
             }
+
+            if (originStatsEl) {
+                originStatsEl.innerHTML = `
+                    <div class="stat-card ${flashcardsReports.length > 0 ? 'warning' : 'success'}">
+                        <div class="stat-label">Flashcards</div>
+                        <div class="stat-value">${flashcardsReports.length}</div>
+                    </div>
+                    <div class="stat-card ${questoesReports.length > 0 ? 'warning' : 'success'}">
+                        <div class="stat-label">Questões</div>
+                        <div class="stat-value">${questoesReports.length}</div>
+                    </div>
+                    <div class="stat-card ${materiaisReports.length > 0 ? 'warning' : 'success'}">
+                        <div class="stat-label">Materiais</div>
+                        <div class="stat-value">${materiaisReports.length}</div>
+                    </div>
+                `;
+            }
+
+            const renderOriginList = (list, element) => {
+                if (!element) return;
+                if (!list.length) {
+                    element.innerHTML = '<div class="fb-empty">Sem reportes pendentes.</div>';
+                    return;
+                }
+                element.innerHTML = list.slice(0, 8).map(r => `
+                    <div class="fb-request-card" style="padding:10px; margin-bottom:8px;">
+                        <div class="fb-request-title" style="font-size:13px; margin-bottom:4px;">${escHtml(r.mensagem || 'Sem mensagem')}</div>
+                        <div class="fb-request-meta">${escHtml(r.disciplina || '—')} · ${escHtml(r.tema || '—')}</div>
+                    </div>
+                `).join('');
+            };
+
+            renderOriginList(flashcardsReports, flashEl);
+            renderOriginList(questoesReports, questoesEl);
+            renderOriginList(materiaisReports, materiaisEl);
 
             if (plans.length === 0) {
                 plansEl.innerHTML = '<div class="fb-empty">Nenhum plano de ação aguardando decisão.</div>';

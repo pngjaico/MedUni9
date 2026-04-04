@@ -3270,6 +3270,15 @@
           const bData = srData[b.id] || { nextReview: 0 };
           return aData.nextReview - bData.nextReview;
         });
+      },
+
+      // Only returns cards already seen at least once (reps > 0) that are due
+      getReviewDueCards: (cards, srData) => {
+        const now = Date.now();
+        return cards.filter(card => {
+          const data = srData[card.id];
+          return data !== undefined && !data.buried && data.nextReview <= now;
+        }).sort((a, b) => srData[a.id].nextReview - srData[b.id].nextReview);
       }
     };
 
@@ -3283,6 +3292,46 @@
       if (minutes > 0) return `${minutes}m ${seconds % 60}s`;
       return `${seconds}s`;
     };
+
+    async function submitContentFeedback(payload) {
+      const currentUser = window.__fbAuth?.currentUser || null;
+      const localUser = JSON.parse(localStorage.getItem('meduni9_user') || '{}');
+      const body = {
+        tipo: 'bug',
+        origem: payload.origem || 'geral',
+        mensagem: payload.mensagem || 'Erro reportado pelo usuário',
+        itemId: payload.itemId || '',
+        materia: payload.materia || '',
+        disciplina: payload.materia || '',
+        tema: payload.tema || '',
+        contexto: payload.contexto || null,
+        userEmail: currentUser?.email || localUser?.email || '',
+        userId: currentUser?.uid || localUser?.uid || '',
+      };
+
+      const endpoints = [
+        '/api/feedback/raw/create',
+        'http://127.0.0.1:3001/api/feedback/raw/create',
+        'http://localhost:3001/api/feedback/raw/create',
+      ];
+
+      for (const endpoint of endpoints) {
+        try {
+          const res = await fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(body),
+          });
+          if (!res.ok) continue;
+          const contentType = res.headers.get('content-type') || '';
+          if (!contentType.includes('application/json')) continue;
+          const data = await res.json();
+          if (data.ok) return data;
+        } catch {}
+      }
+
+      throw new Error('Falha ao enviar feedback');
+    }
 
     // ===================== Módulos por Matéria (embutido no HTML) =====================
     // Todas as disciplinas lidas de data/materias.json — MODULOS_CONFIG mantido vazio.
@@ -3828,14 +3877,33 @@
       });
     }
 
-    async function saveUserProfile(fbUser, profile) {
+    function buildSessionTrackedProfile(profile = {}, fingerprint = '') {
+      const normalized = normalizeUserProfile(profile);
+      const currentDevice = (fingerprint || normalized.deviceId || '').trim();
+      const previous = Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean) : [];
+      const nextDevices = currentDevice
+        ? [...previous.filter(id => id !== currentDevice), currentDevice].slice(-5)
+        : previous.slice(-5);
+      const nowIso = new Date().toISOString();
+
+      return {
+        ...normalized,
+        deviceId: currentDevice || normalized.deviceId || '',
+        deviceIds: nextDevices,
+        loginDate: nowIso,
+        lastSeenAt: nowIso,
+        lastSeenUa: (navigator.userAgent || '').slice(0, 160),
+      };
+    }
+
+    async function saveUserProfile(fbUser, profile, options = {}) {
       const normalized = normalizeUserProfile(profile);
       const { updateProfile } = window.__fbAuthFns;
       await updateProfile(fbUser, { displayName: encodeProfileMarker(normalized) });
 
       try {
         const { doc, setDoc } = window.__fbFirestore;
-        await setDoc(doc(window.__fbDb, 'users', fbUser.uid), {
+        const payload = {
           email: normalized.email || '',
           plano: normalized.plano || 'basico',
           semestre: normalized.semestre || 1,
@@ -3846,9 +3914,18 @@
           campusNome: normalized.campusNome,
           codeHash: normalized.codeHash || '',
           deviceId: normalized.deviceId || '',
+          deviceIds: Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean).slice(-5) : [],
+          maxDispositivos: Number(normalized.maxDispositivos || 2),
           criadoEm: normalized.criadoEm || new Date().toISOString(),
           loginDate: normalized.loginDate || new Date().toISOString(),
-        });
+          lastSeenAt: normalized.lastSeenAt || normalized.loginDate || new Date().toISOString(),
+          lastSeenUa: normalized.lastSeenUa || '',
+        };
+        if (options.merge) {
+          await setDoc(doc(window.__fbDb, 'users', fbUser.uid), payload, { merge: true });
+        } else {
+          await setDoc(doc(window.__fbDb, 'users', fbUser.uid), payload);
+        }
       } catch (err) {
         if ((err?.code || '') !== 'permission-denied') throw err;
       }
@@ -4055,9 +4132,11 @@
             campusId: campusId,
             codeHash:  validatedCode?.hash?.substring(0, 8) || '',
             deviceId:  fingerprint,
+            deviceIds: fingerprint ? [fingerprint] : [],
+            maxDispositivos: validatedCode?.maxDispositivos || 2,
             loginDate: new Date().toISOString(),
           };
-          await saveUserProfile(fbUser, profile);
+          await saveUserProfile(fbUser, buildSessionTrackedProfile(profile, fingerprint));
           setLoading(false);
           applyProfile(profile);
         } catch (err) {
@@ -4081,7 +4160,9 @@
             beginCodeActivation(cred.user, 'Conta encontrada, mas perfil incompleto. Ative seu código para concluir o acesso.');
             return;
           }
-          applyProfile(profile);
+          const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
+          try { await saveUserProfile(cred.user, trackedProfile, { merge: true }); } catch {}
+          applyProfile(trackedProfile);
         } catch (err) {
           setLoading(false);
           const code = err.code || '';
@@ -4106,7 +4187,9 @@
             beginCodeActivation(cred.user, 'Conta Google encontrada, mas sem cadastro. Ative seu código para continuar.');
             return;
           }
-          applyProfile(profile);
+          const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
+          try { await saveUserProfile(cred.user, trackedProfile, { merge: true }); } catch {}
+          applyProfile(trackedProfile);
         } catch (err) {
           setLoading(false);
           if (err.code !== 'auth/popup-closed-by-user') setError('Erro ao entrar com Google.');
@@ -4300,7 +4383,15 @@
                     style={{ background: 'rgba(255,255,255,0.03)', border: '1px dashed rgba(255,255,255,0.15)', color: 'var(--text-secondary)', fontSize: '13px' }}>
                     👀 Explorar gratuitamente (sem código)
                   </button>
-                  <p style={{ textAlign: 'center', marginTop: '20px', fontSize: '13px', color: 'var(--text-secondary)' }}>
+                  <div style={{ marginTop: '16px', padding: '14px 16px', borderRadius: '12px', background: 'linear-gradient(135deg, rgba(0,200,150,0.12), rgba(0,200,150,0.06))', border: '1px solid rgba(0,200,150,0.3)', textAlign: 'center' }}>
+                    <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.6)', margin: '0 0 8px', lineHeight: 1.4 }}>
+                      Acesso completo a todos os módulos, questões e materiais da sua faculdade
+                    </p>
+                    <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 22px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', boxShadow: '0 4px 16px rgba(0,200,150,0.35)' }}>
+                      🎓 Ver planos e preços
+                    </a>
+                  </div>
+                  <p style={{ textAlign: 'center', marginTop: '12px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                     Primeira vez?{' '}
                     <button type="button" onClick={() => { setMode('register'); setStep(1); setError(''); }}
                       style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
@@ -4494,7 +4585,9 @@
         });
       }, []);
 
-      const dueCards = SM2.getDueCards(flashcards, JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'));
+      const srDataForHome = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+      const dueCards = SM2.getReviewDueCards(flashcards, srDataForHome);
+      const reviewedCards = flashcards.filter(f => srDataForHome[f.id] && !srDataForHome[f.id].buried);
 
       const displayMaterias = viewAll
         ? materias.filter(m => m.ativo !== false)
@@ -4551,19 +4644,25 @@
               </div>
             </div>
 
-            {dueCards.length > 0 && (
+            {reviewedCards.length > 0 && (
               <div className="daily-suggestion">
                 <div className="suggestion-label">Sugestão do Dia</div>
-                <div className="suggestion-title">{dueCards.length} cards para revisar</div>
+                <div className="suggestion-title">
+                  {dueCards.length > 0 ? `${dueCards.length} cards para revisar` : 'Tudo em dia! ✨'}
+                </div>
                 <div className="suggestion-progress">
-                  <div className="suggestion-progress-bar" style={{ width: `${Math.min(100, Math.round((dueCards.length / Math.max(flashcards.length, 1)) * 100))}%` }}></div>
+                  <div className="suggestion-progress-bar" style={{ width: dueCards.length > 0 ? `${Math.min(100, Math.round((dueCards.length / Math.max(reviewedCards.length, 1)) * 100))}%` : '100%', background: dueCards.length > 0 ? undefined : 'var(--primary)' }}></div>
                 </div>
                 <div className="suggestion-meta">
-                  {Math.round((dueCards.length / Math.max(flashcards.length, 1)) * 100)}% do seu deck
+                  {dueCards.length > 0
+                    ? `${Math.round((dueCards.length / Math.max(reviewedCards.length, 1)) * 100)}% do seu deck`
+                    : `${reviewedCards.length} cards no seu deck`}
                 </div>
-                <button className="suggestion-cta" onClick={() => onSelectMateria(null)}>
-                  <IconPlay /> Estudar agora
-                </button>
+                {dueCards.length > 0 && (
+                  <button className="suggestion-cta" onClick={() => onSelectMateria(null)}>
+                    <IconPlay /> Estudar agora
+                  </button>
+                )}
               </div>
             )}
 
@@ -4643,6 +4742,7 @@
       const [searchQuery, setSearchQuery] = useState('');
       const [selectedTemas, setSelectedTemas] = useState([]);
       const [studying, setStudying] = useState(false);
+      const [sessionDeck, setSessionDeck] = useState([]);
       const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
 
       useEffect(() => {
@@ -4652,6 +4752,7 @@
         setSessionStats({ correct: 0, total: 0 });
         setStudying(false);
         setSelectedTemas([]);
+        setSessionDeck([]);
       }, [selectedMateria]);
 
       // Keyboard shortcuts
@@ -4662,9 +4763,10 @@
           if (!isFlipped) {
             if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(true); }
           } else {
-            if (e.key === '1') handleRate(1);
-            else if (e.key === '2') handleRate(3);
-            else if (e.key === '3') handleRate(5);
+            if (e.key === '1') handleDeNovo();
+            else if (e.key === '2') handleRate(5);
+            else if (e.key === '3') handleRate(3);
+            else if (e.key === '4') handleRate(2);
             else if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(false); }
           }
         };
@@ -4679,18 +4781,23 @@
       );
 
       const filtered = selectedTemas.length === 0
-        ? filteredByMateria
-        : filteredByMateria.filter(f => selectedTemas.includes(f.tema));
+        ? filteredByMateria.filter(f => !srData[f.id]?.buried)
+        : filteredByMateria.filter(f => selectedTemas.includes(f.tema) && !srData[f.id]?.buried);
+
+      // Build deck helper (used at session start)
+      const buildDeck = (cards) => {
+        const due = SM2.getDueCards(cards, srData);
+        if (due.length > 0) return due;
+        return [...cards].sort(() => Math.random() - 0.5);
+      };
 
       // Always SM2 — get due cards, fallback to all shuffled if none due
       const deck = useMemo(() => {
-        if (!selectedMateria || !studying) return [];
-        const due = SM2.getDueCards(filtered, srData);
-        if (due.length > 0) return due;
-        return [...filtered].sort(() => Math.random() - 0.5);
-      }, [selectedMateria, studying, filtered.length, selectedTemas.length]);
+        if (!selectedMateria) return [];
+        return buildDeck(filtered);
+      }, [selectedMateria, filtered.length, selectedTemas.length]);
 
-      const currentCard = deck[currentIndex];
+      const currentCard = sessionDeck[currentIndex];
 
       const handleRate = (quality) => {
         const card = currentCard;
@@ -4703,7 +4810,7 @@
         const isGood = quality >= 3;
         const newStats = { ...sessionStats, total: sessionStats.total + 1, correct: sessionStats.correct + (isGood ? 1 : 0) };
 
-        if (currentIndex < deck.length - 1) {
+        if (currentIndex < sessionDeck.length - 1) {
           setCurrentIndex(currentIndex + 1);
           setIsFlipped(false);
           setSessionStats(newStats);
@@ -4713,6 +4820,61 @@
         }
       };
 
+      const handleDeNovo = () => {
+        const card = currentCard;
+        if (!card) return;
+        const remaining = sessionDeck.length - currentIndex - 1;
+        if (remaining > 0) {
+          // Move card to end — re-show later this session, no SM-2 update
+          const newDeck = [
+            ...sessionDeck.slice(0, currentIndex),
+            ...sessionDeck.slice(currentIndex + 1),
+            card,
+          ];
+          setSessionDeck(newDeck);
+          setIsFlipped(false);
+        } else {
+          // Only card left — schedule and finish
+          handleRate(1);
+        }
+      };
+
+      const handleBury = () => {
+        const card = currentCard;
+        if (!card) return;
+        const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
+        srData[card.id] = { ...currentData, buried: true };
+        localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
+        if (currentIndex < sessionDeck.length - 1) {
+          setCurrentIndex(currentIndex + 1);
+          setIsFlipped(false);
+        } else {
+          setSessionComplete(true);
+        }
+      };
+
+      const handleReport = () => {
+        const card = currentCard;
+        if (!card) return;
+        const reason = prompt('Descreva o erro do flashcard (opcional):', '');
+        if (reason === null) return;
+
+        submitContentFeedback({
+          origem: 'flashcards',
+          mensagem: reason?.trim() || 'Erro reportado em flashcard',
+          itemId: card.id,
+          materia: card.materia,
+          tema: card.tema,
+          contexto: {
+            pergunta: card.pergunta,
+            resposta: card.resposta,
+            explicacao: card.explicacao || ''
+          }
+        })
+          .then(() => alert('Reporte enviado para o admin. Obrigado!'))
+          .catch(() => alert('Nao foi possivel enviar agora. Tente novamente em instantes.'));
+      };
+
       const resetSession = () => {
         setCurrentIndex(0);
         setIsFlipped(false);
@@ -4720,6 +4882,7 @@
         setSessionStats({ correct: 0, total: 0 });
         setStudying(false);
         setSelectedTemas([]);
+        setSessionDeck([]);
       };
 
       const toggleTema = (temaId) => {
@@ -4757,7 +4920,7 @@
                 )}
                 {filteredMaterias.map(m => {
                   const count = pureFlashcards.filter(f => f.materia === m.id).length;
-                  const dueCount = SM2.getDueCards(pureFlashcards.filter(f => f.materia === m.id), srData).length;
+                  const dueCount = SM2.getReviewDueCards(pureFlashcards.filter(f => f.materia === m.id), srData).length;
                   const reviewedCount = count - dueCount;
                   const pct = count > 0 ? Math.round((reviewedCount / count) * 100) : 0;
                   const subjectColor = SUBJECT_ICON_MAP[m.id]?.color || m.cor || 'var(--primary)';
@@ -4791,7 +4954,7 @@
       // Tema selector
       if (!studying) {
         const totalCards = filteredByMateria.length;
-        const dueTotal = SM2.getDueCards(filteredByMateria, srData).length;
+        const dueTotal = SM2.getReviewDueCards(filteredByMateria, srData).length;
         const materiaObj = materias.find(m => m.id === selectedMateria);
         const temasFromCards = [...new Set(filteredByMateria.map(f => f.tema).filter(Boolean))];
 
@@ -4808,7 +4971,7 @@
                 {totalCards > 0 ? (dueTotal > 0 ? `${dueTotal} cards para revisar hoje` : 'Todos os cards em dia!') : 'Nenhum flashcard ainda'} — {totalCards} total
               </p>
               <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
-                <div className="subject-select-card" onClick={() => { setSelectedTemas([]); setStudying(true); }}
+                <div className="subject-select-card" onClick={() => { const allCards = filteredByMateria.filter(f => !srData[f.id]?.buried); setSelectedTemas([]); setSessionDeck(buildDeck(allCards)); setStudying(true); }}
                   style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
                   <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
                   <div className="subject-select-info">
@@ -4821,7 +4984,7 @@
                 {hasAulas ? (
                   aulas.map(aula => {
                     const cards = filteredByMateria.filter(f => f.tema === aula.id);
-                    const dueCount = SM2.getDueCards(cards, srData).length;
+                    const dueCount = SM2.getReviewDueCards(cards, srData).length;
                     const isChecked = selectedTemas.includes(aula.id);
                     const hasCards = cards.length > 0;
                     return (
@@ -4837,7 +5000,7 @@
                 ) : (
                   temasFromCards.sort().map(tema => {
                     const count = filteredByMateria.filter(f => f.tema === tema).length;
-                    const dueCount = SM2.getDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
+                    const dueCount = SM2.getReviewDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
                     const isChecked = selectedTemas.includes(tema);
                     return (
                       <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(tema)}>
@@ -4857,7 +5020,7 @@
                   <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
                     {selectedTemas.length} assunto{selectedTemas.length > 1 ? 's' : ''} selecionado{selectedTemas.length > 1 ? 's' : ''}
                   </span>
-                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => setStudying(true)}>
+                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => { setSessionDeck([...deck]); setStudying(true); }}>
                     Iniciar estudo →
                   </button>
                 </div>
@@ -4927,13 +5090,13 @@
 
             <div className="flashcard-progress" style={{ marginBottom: '16px' }}>
               <div style={{ textAlign: 'center', fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
-                {currentIndex + 1} de {deck.length}
+                {currentIndex + 1} de {sessionDeck.length}
               </div>
               <div className="progress-dots">
-                {deck.slice(0, Math.min(deck.length, 30)).map((card, idx) => (
+                {sessionDeck.slice(0, Math.min(sessionDeck.length, 30)).map((card, idx) => (
                   <div key={idx} className={`progress-dot ${idx === currentIndex ? 'current' : ''} ${idx < currentIndex ? 'completed' : ''}`}></div>
                 ))}
-                {deck.length > 30 && <span style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>+{deck.length - 30}</span>}
+                {sessionDeck.length > 30 && <span style={{ color: 'var(--text-secondary)', fontSize: '11px' }}>+{sessionDeck.length - 30}</span>}
               </div>
             </div>
 
@@ -4957,19 +5120,63 @@
             </div>
 
             {isFlipped && (
-              <div className="flashcard-actions anki-actions">
-                <button className="rate-btn error" onClick={() => handleRate(1)}>
-                  Difícil
-                  <span className="rate-shortcut">1</span>
-                </button>
-                <button className="rate-btn warning" onClick={() => handleRate(3)}>
-                  Médio
-                  <span className="rate-shortcut">2</span>
-                </button>
-                <button className="rate-btn success" onClick={() => handleRate(5)}>
-                  Fácil
-                  <span className="rate-shortcut">3</span>
-                </button>
+              <div style={{ marginTop: '20px' }}>
+                {/* Utility row: bury + report */}
+                <div style={{ display: 'flex', justifyContent: 'center', gap: '20px', marginBottom: '14px' }}>
+                  <button
+                    onClick={handleBury}
+                    title="Enterrar este card"
+                    style={{ background: 'none', border: 'none', color: 'var(--text-secondary)', cursor: 'pointer', fontSize: '17px', lineHeight: 1, padding: '4px', opacity: 0.5, transition: 'opacity 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.opacity = '1'}
+                    onMouseLeave={e => e.currentTarget.style.opacity = '0.5'}
+                  >✕</button>
+                  <button
+                    onClick={handleReport}
+                    title="Reportar erro neste card"
+                    style={{ background: 'none', border: 'none', color: '#EF4444', cursor: 'pointer', fontSize: '15px', lineHeight: 1, padding: '4px', opacity: 0.72, transition: 'opacity 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.opacity = '1'}
+                    onMouseLeave={e => e.currentTarget.style.opacity = '0.72'}
+                  >⚑</button>
+                </div>
+                {/* Rating buttons — no container box */}
+                <div style={{ display: 'flex', gap: '8px', justifyContent: 'center' }}>
+                  <button
+                    onClick={handleDeNovo}
+                    style={{ flex: 1, maxWidth: '90px', padding: '10px 4px', borderRadius: '10px', border: 'none', background: 'rgba(239,68,68,0.15)', color: '#f87171', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', cursor: 'pointer', transition: 'background 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.background = 'rgba(239,68,68,0.28)'}
+                    onMouseLeave={e => e.currentTarget.style.background = 'rgba(239,68,68,0.15)'}
+                  >
+                    <div>De Novo</div>
+                    <div style={{ fontSize: '10px', opacity: 0.7, fontWeight: 400, marginTop: '2px' }}>1</div>
+                  </button>
+                  <button
+                    onClick={() => handleRate(5)}
+                    style={{ flex: 1, maxWidth: '90px', padding: '10px 4px', borderRadius: '10px', border: 'none', background: 'rgba(0,200,150,0.15)', color: '#00C896', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', cursor: 'pointer', transition: 'background 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.background = 'rgba(0,200,150,0.28)'}
+                    onMouseLeave={e => e.currentTarget.style.background = 'rgba(0,200,150,0.15)'}
+                  >
+                    <div>Fácil</div>
+                    <div style={{ fontSize: '10px', opacity: 0.7, fontWeight: 400, marginTop: '2px' }}>2</div>
+                  </button>
+                  <button
+                    onClick={() => handleRate(3)}
+                    style={{ flex: 1, maxWidth: '90px', padding: '10px 4px', borderRadius: '10px', border: 'none', background: 'rgba(234,179,8,0.15)', color: '#fbbf24', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', cursor: 'pointer', transition: 'background 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.background = 'rgba(234,179,8,0.28)'}
+                    onMouseLeave={e => e.currentTarget.style.background = 'rgba(234,179,8,0.15)'}
+                  >
+                    <div>Médio</div>
+                    <div style={{ fontSize: '10px', opacity: 0.7, fontWeight: 400, marginTop: '2px' }}>3</div>
+                  </button>
+                  <button
+                    onClick={() => handleRate(2)}
+                    style={{ flex: 1, maxWidth: '90px', padding: '10px 4px', borderRadius: '10px', border: 'none', background: 'rgba(249,115,22,0.15)', color: '#fb923c', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', cursor: 'pointer', transition: 'background 0.15s' }}
+                    onMouseEnter={e => e.currentTarget.style.background = 'rgba(249,115,22,0.28)'}
+                    onMouseLeave={e => e.currentTarget.style.background = 'rgba(249,115,22,0.15)'}
+                  >
+                    <div>Difícil</div>
+                    <div style={{ fontSize: '10px', opacity: 0.7, fontWeight: 400, marginTop: '2px' }}>4</div>
+                  </button>
+                </div>
               </div>
             )}
 
@@ -5182,6 +5389,30 @@
           });
           localStorage.setItem('meduni9_quiz_history', JSON.stringify(quizHistory));
         }
+      };
+
+      const handleReportQuestion = () => {
+        const activeCards = getActiveCards();
+        const card = activeCards[currentQuestion];
+        if (!card) return;
+        const reason = prompt('Descreva o erro da questão (opcional):', '');
+        if (reason === null) return;
+
+        submitContentFeedback({
+          origem: 'questoes',
+          mensagem: reason?.trim() || 'Erro reportado em questão',
+          itemId: card.id,
+          materia: card.materia || activeQuiz,
+          tema: card.tema,
+          contexto: {
+            pergunta: card.pergunta,
+            opcoes: card.opcoes || [],
+            correta: card.correta,
+            explicacao: card.explicacao || ''
+          }
+        })
+          .then(() => alert('Reporte enviado para o admin. Obrigado!'))
+          .catch(() => alert('Nao foi possivel enviar agora. Tente novamente em instantes.'));
       };
 
       const handleRestartQuiz = () => {
@@ -5399,6 +5630,18 @@
                 )}
 
                 <div className="quiz-action-bar">
+                  <button
+                    className="btn"
+                    onClick={handleReportQuestion}
+                    style={{
+                      background: 'rgba(239,68,68,0.12)',
+                      border: '1px solid rgba(239,68,68,0.4)',
+                      color: '#EF4444',
+                      marginRight: '8px'
+                    }}
+                  >
+                    ⚑ Reportar
+                  </button>
                   {!answered ? (
                     <button
                       className="btn btn-primary"
@@ -5569,6 +5812,27 @@
 
       const toggleMateria = (id) => {
         setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
+      };
+
+      const handleReportMaterial = () => {
+        if (!selectedMaterial) return;
+        const reason = prompt('Descreva o erro no material (opcional):', '');
+        if (reason === null) return;
+
+        submitContentFeedback({
+          origem: 'materiais',
+          mensagem: reason?.trim() || 'Erro reportado em material',
+          itemId: `${selectedMaterial.materiaId || ''}:${selectedMaterial.temaId || ''}`,
+          materia: selectedMaterial.materiaId || '',
+          tema: selectedMaterial.temaId || '',
+          contexto: {
+            materiaNome: selectedMaterial.materiaNome,
+            temaNome: selectedMaterial.temaNome,
+            path: selectedMaterial.path
+          }
+        })
+          .then(() => alert('Reporte enviado para o admin. Obrigado!'))
+          .catch(() => alert('Nao foi possivel enviar agora. Tente novamente em instantes.'));
       };
 
       const resolveTemaId = (materia, tema) => {
@@ -5813,6 +6077,28 @@
                 >
                   <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
                   Questões
+                </button>
+                <button
+                  onClick={handleReportMaterial}
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: '7px',
+                    background: 'rgba(239,68,68,0.1)',
+                    border: '1px solid rgba(239,68,68,0.35)',
+                    borderRadius: '10px',
+                    padding: '10px 12px',
+                    cursor: 'pointer',
+                    color: '#EF4444',
+                    fontSize: '0.8rem',
+                    fontWeight: 700,
+                    fontFamily: 'DM Sans, sans-serif',
+                    transition: 'background 0.2s',
+                  }}
+                  title="Reportar erro neste material"
+                >
+                  ⚑ Reportar
                 </button>
               </div>
             )}

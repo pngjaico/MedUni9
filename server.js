@@ -294,6 +294,42 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
+  // ── POST /api/feedback/raw/create ─────────────────────────────────────────
+  if (req.method === 'POST' && pathname === '/api/feedback/raw/create') {
+    try {
+      const body = await readBody(req);
+      const payload = body ? JSON.parse(body) : {};
+      const now = new Date().toISOString();
+      const feedbackId = `fb_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
+
+      const mensagem = String(payload.mensagem || '').trim();
+      if (!mensagem) {
+        return json(res, 400, { ok: false, error: 'Mensagem obrigatória' });
+      }
+
+      const entry = {
+        _id: feedbackId,
+        tipo: String(payload.tipo || 'bug').toLowerCase(),
+        origem: String(payload.origem || 'geral').toLowerCase(),
+        mensagem,
+        disciplina: payload.disciplina || payload.materia || '',
+        tema: payload.tema || '',
+        itemId: payload.itemId || '',
+        contexto: payload.contexto || null,
+        userEmail: payload.userEmail || '',
+        userId: payload.userId || '',
+        criadoEm: now,
+        status: 'novo'
+      };
+
+      safeWriteJson(path.join(FEEDBACK_INCOMING_DIR, `${feedbackId}.json`), entry);
+      json(res, 200, { ok: true, feedback: entry });
+    } catch (e) {
+      json(res, 500, { ok: false, error: e.message });
+    }
+    return;
+  }
+
   // ── GET /api/feedback/plans ───────────────────────────────────────────────
   if (req.method === 'GET' && pathname === '/api/feedback/plans') {
     try {

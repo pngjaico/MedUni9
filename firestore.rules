@@ -39,6 +39,27 @@ service cloud.firestore {
       allow delete: if false;
     }
 
+    // User session telemetry (device + network signal, alert-only mode)
+    match /users/{userId}/sessions/{sessionId} {
+      allow read: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow create, update: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow delete: if false;
+    }
+
+    // Security events feed used by admin security panel
+    match /security_events/{eventId} {
+      allow create: if isAdmin() || (
+        request.auth != null &&
+        request.resource.data.uid == request.auth.uid &&
+        request.resource.data.keys().hasAll(['uid', 'type', 'riskLevel', 'createdAt'])
+      );
+      allow read: if isAdmin() || (
+        request.auth != null &&
+        resource.data.uid == request.auth.uid
+      );
+      allow update, delete: if isAdmin();
+    }
+
     match /profile_change_requests/{requestId} {
       allow create: if request.auth != null &&
                     request.resource.data.userId == request.auth.uid &&
