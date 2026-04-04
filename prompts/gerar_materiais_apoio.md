@@ -9,7 +9,14 @@ App de estudos de medicina (Uninove) chamado **MedUni9**, hospedado no Firebase 
 ## O que você precisa fazer
 
 Criar arquivos `.md` de material de apoio para cada aula listada em `data/materias.json`.
-NUNCA UTILIZE SCRIPTS PYTHONS, FAÇA UM POR UM!
+
+## REGRA OPERACIONAL CRÍTICA (OBRIGATÓRIA)
+
+- **NUNCA criar ou editar mais de 1 (um) material por vez, em hipótese alguma.**
+- **NUNCA usar scripts para acelerar geração, revisão, expansão, padronização ou correção de materiais.**
+- **NUNCA usar Python, PowerShell em loop, Node ou qualquer automação em lote para materiais.**
+- O fluxo obrigatório é sempre: **1 aula -> escrever manualmente -> validar -> salvar nos dois caminhos -> só então passar para a próxima aula.**
+- Se tentar processar múltiplas aulas na mesma execução, **interromper e refazer corretamente, uma por vez**.
 
 
 ### Onde salvar cada arquivo
