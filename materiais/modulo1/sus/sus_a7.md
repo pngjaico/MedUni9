@@ -1,268 +1,84 @@
-# SUS - Aula 7: Pacto em Defesa do SUS
+# SUS — Aula 7: Pacto em Defesa do SUS
 
-**Disciplina:** Princípios e Diretrizes do SUS
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Princípios e Diretrizes do SUS  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Pacto em Defesa do SUS é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+O **Pacto em Defesa do SUS** traduz compromissos para **fortalecer o sistema** frente a **subfinanciamento**, **privatização por omissão** e **terceirização sem regulação**. Em prova, aparece ligado a **financiamento público**, **participação social** e **defesa do caráter universal**. Para o médico, importa porque **fragilidade do SUS** chega ao consultório como **fila, insumos escassos e sobrecarga** — e a solução não é apenas individual, é **política**.
 
 ---
 
-## Relevância Populacional e Indicadores
+## Financiamento: o “oxigênio” do sistema
 
-Em Pacto em Defesa do SUS, a leitura correta começa por magnitude do problema, população afetada e tendência temporal.
+O SUS exige **recursos estáveis e crescentes** em termos reais. A Constituição prevê **fontes** e **vinculações** que garantem **piso de financiamento** (atenção à legislação vigente e atualizações — provas costumam cobrar **espírito** mais que alíquota pontual de um único ano).
 
-## Cadeia Epidemiológica e Pontos de Intervenção
-
-Descreva agente, via de transmissão, suscetibilidade e medidas de interrupção em prevenção primária, secundária e terciária.
-
-> **Dica de Prova:** Diferencie incidência de prevalência antes de interpretar impacto de política pública.
-
-## Interpretação de Estudos e Decisão em Saúde
-
-Associe desenho do estudo, viés provável e implicação para tomada de decisão clínica e de gestão.
-
-> **Pegadinha:** Valor de p isolado não substitui magnitude de efeito nem plausibilidade epidemiológica.
-
-| Conceito | Definição prática | Uso correto | Erro comum |
-|----------|-------------------|------------|------------|
-| Incidência | Casos novos no período | Avaliar risco | Confundir com estoque de casos |
-| Prevalência | Casos totais no momento | Medir carga | Inferir causalidade temporal |
-| Risco relativo | Comparação entre expostos e não expostos | Força de associação | Ignorar confundidores |
-| Intervalo de confiança | Faixa de incerteza da estimativa | Julgar precisão | Ler sem contexto clínico |
-
-### Núcleo de aprofundamento 1: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação em saúde coletiva
-Quando a lógica de Pacto em Defesa do SUS fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto em Defesa do SUS com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto em Defesa do SUS.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto em Defesa do SUS está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto em Defesa do SUS, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação em saúde coletiva
-Na prática clínica, Pacto em Defesa do SUS aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** Saúde **não é favor**; é **direito** — logo, financiamento é **dever estatal**, não esmola.
 
 ---
 
-## Pontos-Chave para Prova
+## Ameaças recorrentes ao projeto do SUS
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+- **Subfinanciamento crônico:** filas, demora diagnóstica, precarização trabalhista.
+- **Privilégios fiscais** e **distorções** que favorecem segmentos privados sem contrapartida social.
+- **Fragmentação assistencial** quando a coordenação do cuidado se perde.
+
+> **Pegadinha:** “Ampliar plano privado resolve fila do SUS” — em geral, **não resolve equidade**; pode **selecionar risco** e agravar **injustiça**.
+
+---
+
+## Participação social como defesa
+
+**Conselhos** e **conferências** são instrumentos de **controle social**. A defesa do SUS passa por **transparência de dados**, **auditoria** e **escuta da comunidade**. Medicina não é neutra: reconhecer **determinantes** e **direitos** é condição para **advocacy** ético.
+
+---
+
+## Universalização e equidade como bandeiras
+
+Defender o SUS é defender **acesso** para quem mais precisa. **Equidade** exige **correção de desigualdades** históricas (raça, território, renda). Em prova, cenários de “dois sistemas” cobram posição crítica: **integração regulada** versus **exclusão**.
+
+---
+
+## Constituição e direito à saúde: âncora para a banca
+
+O **art. 196** define saúde como **direito de todos e dever do Estado**, com acesso **pelo SUS**. Os arts. **198–200** tratam da **organização** e da **finança** do sistema. Em questões discursivas, conectar **direito** → **financiamento** → **oferta territorial** costuma ser o caminho da nota máxima.
+
+> **Dica de Prova:** Direito à saúde **não** é “o que o orçamento permitir no fim do ano” — é **dever** com **organização** e **controle social**.
+
+---
+
+## Conselhos e conferências: o que você precisa diferenciar
+
+**Conselhos** (municipais/estaduais/federal) fiscalizam e **deliberam** sobre diretrizes e alocação. **Conferências** mobilizam periodicamente **debate ampliado** e encaminham propostas. Ambos materializam **participação social** — não são “evento de formatura” de gestor.
+
+---
+
+## Complementaridade privada e SUS: pegadinha clássica
+
+A Constituição admite **participação complementar da iniciativa privada**, mas o **SUS permanece o núcleo** do acesso universal. Erro comum na prova: tratar complementaridade como **licença para desfinanciar o público**. A banca costuma punir confusão entre **complemento** e **substituição**.
+
+---
+
+## Advocacy médico: ética sem oportunismo
+
+Defender o SUS no cotidiano pode significar **registrar déficits**, **solicitar insumos por protocolo** e **encaminhar violações** aos canais corretos. Isso é **dever profissional** quando há risco ao paciente — distinto de **militância partidária** no consultório.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Pacto em Defesa do SUS aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Quando você documenta **violência obstétrica**, **racismo** ou **negligência programática**, está registrando **dano social** que extrapassa o caso individual. Encaminhar ao núcleo de apoio, participar de **grupos de saúde coletiva** e defender **protocolos** é parte do **cuidado em rede** e da **defesa do sistema**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Pacto em Defesa do SUS:** fortalecimento institucional e financiamento.
+- **Participação social:** conselhos/conferências como controle.
+- **Privatização/mercantilização:** distinga **complementaridade regulada** de **exclusão**.
+- **Equidade:** centro ético do projeto.
 
 ---
 
@@ -272,24 +88,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Financiamento é **condição** para direito à saúde.
+- Defesa do SUS envolve **política**, não só técnica assistencial.
+- **Controle social** legitima e fiscaliza prioridades.
+- **Equidade** é princípio doutrinário — cobrado junto de universalidade.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Complementaridade (CF) | Substituir o SUS | Complementaridade é **extra** ao sistema público; não pode elidir o público. |
+| Controle social | Marketing institucional | Controle social tem **deliberação e fiscalização**; marketing não. |
+| Equidade | Eficiência financeira fria | Equidade pode exigir **mais gasto** onde há **mais necessidade**. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sem financiamento, não há SUS — só discurso.”

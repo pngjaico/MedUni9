@@ -1,268 +1,90 @@
-# SUS - Aula 6: Pacto pela Gestão — RAS e Regionalização
+# SUS — Aula 6: Pacto pela Gestão — RAS e Regionalização
 
-**Disciplina:** Princípios e Diretrizes do SUS
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Princípios e Diretrizes do SUS  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Pacto pela Gestão — RAS e Regionalização é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+O **Pacto pela Gestão** organiza a responsabilidade dos gestores em torno de **planejamento**, **financiamento**, **indicadores** e **articulação em rede**. O conceito central para a prova é a **Rede de Atenção à Saúde (RAS)**: um arranjo organizativo de ações e serviços integrados que deve garantir **continuidade do cuidado** em todos os níveis de atenção. A **regionalização** e o **Decreto nº 7.508/2011** aparecem como marco para **ordenar** oferta e **contratualizar** redes.
 
 ---
 
-## Relevância Populacional e Indicadores
+## O que é RAS (Rede de Atenção à Saúde)
 
-Em Pacto pela Gestão — RAS e Regionalização, a leitura correta começa por magnitude do problema, população afetada e tendência temporal.
+A RAS é a **organização inteligente** dos serviços em torno **das necessidades de saúde da população**, e não apenas dos equipamentos existentes. Ela deve integrar **APS, urgência, média e alta complexidade**, **reabilitação** e **cuidados domiciliares**, com **referência e contrarreferência**, **linhas de cuidado** e **coordenação clínica**.
 
-## Cadeia Epidemiológica e Pontos de Intervenção
-
-Descreva agente, via de transmissão, suscetibilidade e medidas de interrupção em prevenção primária, secundária e terciária.
-
-> **Dica de Prova:** Diferencie incidência de prevalência antes de interpretar impacto de política pública.
-
-## Interpretação de Estudos e Decisão em Saúde
-
-Associe desenho do estudo, viés provável e implicação para tomada de decisão clínica e de gestão.
-
-> **Pegadinha:** Valor de p isolado não substitui magnitude de efeito nem plausibilidade epidemiológica.
-
-| Conceito | Definição prática | Uso correto | Erro comum |
-|----------|-------------------|------------|------------|
-| Incidência | Casos novos no período | Avaliar risco | Confundir com estoque de casos |
-| Prevalência | Casos totais no momento | Medir carga | Inferir causalidade temporal |
-| Risco relativo | Comparação entre expostos e não expostos | Força de associação | Ignorar confundidores |
-| Intervalo de confiança | Faixa de incerteza da estimativa | Julgar precisão | Ler sem contexto clínico |
-
-### Núcleo de aprofundamento 1: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação em saúde coletiva
-Quando a lógica de Pacto pela Gestão — RAS e Regionalização fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação em saúde coletiva
-Os professores costumam cobrar Pacto pela Gestão — RAS e Regionalização com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Pacto pela Gestão — RAS e Regionalização.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Pacto pela Gestão — RAS e Regionalização está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Pacto pela Gestão — RAS e Regionalização, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação em saúde coletiva
-Na prática clínica, Pacto pela Gestão — RAS e Regionalização aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** RAS **não é só hospital + UBS**: é **fluxo** de pessoas e informações com responsabilidade compartilhada.
 
 ---
 
-## Pontos-Chave para Prova
+## Regionalização e território
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**Regionalizar** é dividir o território em **regiões de saúde** com identidade epidemiológica e capacidade instalada, permitindo **planejar** leitos, especialistas e transporte. Sem regionalização, o sistema vira **correção pontual** de déficits com **superlotação** e **desperdício** simultâneos.
+
+> **Pegadinha:** Regionalização não é “cortar o mapa”: é **organizar a produção de saúde** com pactuação e responsabilidades claras.
+
+---
+
+## Decreto nº 7.508/2011 (marco para prova)
+
+O Decreto 7.508/2011 regulamenta a **Lei 8080** em aspectos de **organização financeira** e **contratualização** de redes, fortalecendo instrumentos de **planejamento em saúde** e **mecanismos de cooperação** entre gestores. Em prova, costuma aparecer associado a **Programação Pactuada e Integrada (PPI)** e à lógica de **comprar resultados** e **organizar oferta**, não apenas repasse automático.
+
+### O que memorizar de forma segura
+
+- **Objetivo:** alinhar **financiamento** à **organização do cuidado em rede**.
+- **Gestão:** reforça **pactuação** entre esferas e **transparência** com indicadores.
+- **Contratualização:** relação entre gestor e prestador com **metas** e **avaliação**.
+
+---
+
+## Pacto pela Gestão: foco em resultados administrativos
+
+Enquanto o **Pacto pela Vida** enfatiza **prioridades sanitárias**, o **Pacto pela Gestão** enfatiza **capacidade de gerir**: planejamento, **custeio**, **governança**, **transparência** e **monitoramento**. Na prática, os pactos se **articulam**: sem gestão, as metas de vida não se sustentam.
+
+---
+
+## Referência, contrarreferência e continuidade
+
+**Referência** é o envio ordenado para outro ponto de atenção quando a complexidade exige. **Contrarreferência** é o retorno com **informação clínica** e **plano compartilhado**. A prova adora cenários em que o paciente “some” entre serviços: a resposta certa costuma ser **falha de RAS** e **ausência de contrarreferência**.
+
+| Etapa | O que precisa existir |
+|-------|------------------------|
+| Encaminhamento | justificativa, dados vitais, exames relevantes |
+| Contrarreferência | resumo do que foi feito e conduta de manutenção |
+| Continuidade | agendamento e responsável definido na APS |
+
+---
+
+## PPI e planejamento pactuado (visão de prova)
+
+A **Programação Pactuada e Integrada (PPI)** organiza metas e responsabilidades entre gestores, costurando **oferta** com **necessidade**. Não é “planilha decorativa”: é instrumento para **reduzir improviso** e **alocar leitos e especialistas** com critério regional.
+
+---
+
+## Linhas de cuidado: exemplos para memorizar
+
+- **Saúde mental:** APS ↔ CAPS ↔ urgência psiquiátrica (conforme rede local).
+- **Maternal-infantil:** pré-natal na UBS ↔ maternidade de referência ↔ puericultura.
+- **Crônicos:** hipertensão/diabetes na APS ↔ ambulatorial especializado quando descompensado.
+
+> **Dica de Prova:** Linha de cuidado não é “nome de protocolo PDF” — é **percurso** com **critérios de entrada e saída**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Pacto pela Gestão — RAS e Regionalização aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Quando o paciente “perde” o encaminhamento ou retorna sem informação entre serviços, você vê **falha de RAS**: quebra de **continuidade**. Boas práticas incluem **resumo de alta**, **registro compartilhado** e **agendamento** com retorno definido — são instrumentos de **coordenação** que materializam o desenho de rede.
+
+---
+
+## Pontos-Chave para Prova
+
+- **RAS:** integração por necessidade de saúde; linhas de cuidado.
+- **Regionalização:** planejamento por região; reduzir ineficiência.
+- **Decreto 7.508/2011:** regula aspectos de organização financeira e contratos de rede.
+- **Pacto pela Gestão:** governança, indicadores, pactuação federativa.
 
 ---
 
@@ -272,24 +94,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **RAS:** rede integrada; não é “lista de hospitais”.
+- **Referência/contrarreferência:** mecanismos de continuidade.
+- **7.508/2011:** marco de organização financeira e contratualização.
+- **Regionalização:** instrumento de planejamento territorial.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| RAS | Cadastro de estabelecimentos | RAS é **fluxo e responsabilidade**; cadastro é apenas informação. |
+| Regionalização | Descentralização | Regionalização organiza território; descentralização distribui competências. |
+| Contratualização | Privatização | Contratualização pode ser com público ou privado sob regras; não é “vender o SUS”. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “RAS é percurso — não é pin no mapa.”
