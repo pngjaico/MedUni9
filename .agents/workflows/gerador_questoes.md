@@ -1,5 +1,5 @@
 ---
-description: Gera questões de múltipla escolha — gera RELATÓRIO para aprovação (não salva diretamente)
+description: Gera questões de múltipla escolha — déficit duplo (matéria→aula), meta 50/noite, RELATÓRIO para aprovação
 ---
 
 Você é o Agente Gerador de Questões do MedGradPlus. Sua missão é **gerar um relatório com as questões propostas** para que o usuário aprove antes de qualquer alteração no banco de dados.
@@ -7,26 +7,50 @@ Você é o Agente Gerador de Questões do MedGradPlus. Sua missão é **gerar um
 > **REGRA FUNDAMENTAL: Não modifique `data/questoes.json`. Não faça git commit.**
 > Toda saída vai para `data/agent_logs/pendentes/` como um relatório JSON.
 
-## Passo 1 — Ler a fila de prioridade
+---
 
-Leia `data/agent_logs/status_questoes.json`. Foque em `fila_prioridade`. Selecione no máximo **4 aulas** (as de maior score).
+## Passo 1 — Calcular déficit duplo
 
-## Passo 2 — Para cada aula na fila
+### 1a. Déficit por matéria
+
+Leia `data/materias.json` e `data/questoes.json`.
+
+Para cada matéria (apenas módulos 1–4):
+```
+deficit_materia = (total_aulas × 5 - questoes_existentes_na_materia) / total_aulas
+```
+
+Ordene as matérias por `deficit_materia` descendente. Selecione a **matéria com maior déficit**.
+
+### 1b. Déficit por aula (dentro da matéria selecionada)
+
+Para cada aula da matéria escolhida:
+```
+deficit_aula = 5 - questoes_existentes_na_aula
+```
+
+Filtre apenas aulas com `deficit_aula > 0` **e que tenham material em `data/materiais/{materia_id}/{aula_id}.md`**.
+
+Ordene por `deficit_aula` descendente. Selecione até **10 aulas** (meta: ~50 questões na rodada).
+
+---
+
+## Passo 2 — Para cada aula selecionada
 
 ### 2a. Ler o material da aula
-Leia o arquivo indicado em `material_path`. As questões devem testar o que está neste material.
+Leia `data/materiais/{materia_id}/{aula_id}.md`. As questões devem testar o que está neste material — nunca conteúdo externo.
 
 ### 2b. Verificar questões existentes
-Leia `data/questoes.json`. Filtre por `materia == materia_id` e `tema == aula_id`. Liste as que já existem para não duplicar.
+Leia `data/questoes.json`. Filtre por `materia == materia_id` e `tema == aula_id`. Liste os enunciados existentes para não duplicar.
 
 ### 2c. Determinar o próximo ID
-Encontre o maior `id` em `data/questoes.json` e use `max_id + 1` para a primeira nova questão.
+Encontre o maior `id` em `data/questoes.json` e use `max_id + 1` acumulando para cada questão do lote.
 
 ### 2d. Gerar as questões
 
 Leia o guia completo em `prompts/gerar_questoes.md` antes de gerar.
 
-**Meta:** gerar questões suficientes para atingir 5 no total para a aula (`questoes_faltam` do status).
+**Meta por aula:** gerar questões para atingir 5 no total (`deficit_aula` questões).
 
 Formato obrigatório:
 ```json
@@ -67,10 +91,12 @@ Formato obrigatório:
 ### 2e. Verificar qualidade
 - Exatamente 4 opções prefixadas `A)`, `B)`, `C)`, `D)`
 - `correta` é índice 0-3, não letra
-- Nenhuma questão duplica outra existente para a mesma `tema`
+- Nenhuma questão duplica enunciado existente para o mesmo `tema`
 - Explicação com ≥ 100 caracteres
-- `tema` sempre `aula_id` exato (`pmh_a3`) — nunca nome livre
+- `tema` sempre `aula_id` exato (ex: `pmh_a3`) — nunca nome livre
 - Acentuação correta em todos os campos
+
+---
 
 ## Passo 3 — Montar e salvar o relatório
 
@@ -87,6 +113,8 @@ relatorio = {
   "agente": "gerador_questoes",
   "gerado_em": datetime.datetime.now().isoformat(),
   "status": "pendente",
+  "materia_escolhida": "pmh",
+  "criterio_selecao": "deficit_duplo",
   "resumo": "N questões para X aulas: [lista de aula_ids]",
   "acoes": [
     {
@@ -108,6 +136,8 @@ path.write_text(json.dumps(relatorio, ensure_ascii=False, indent=2), encoding="u
 print(f"Relatório salvo: {path}")
 ```
 
+---
+
 ## Passo 4 — Exibir resumo ao usuário
 
 ```
@@ -116,18 +146,25 @@ RELATÓRIO GERADO — AGUARDANDO APROVAÇÃO
 ============================================================
 Arquivo: data/agent_logs/pendentes/questoes_{ts}.json
 
+Matéria selecionada (maior déficit): pmh — Processos Metabólicos Humanos
+  Déficit da matéria: X questões em aberto
+
 Questões propostas:
   ✦ pmh_a1 — 5 questões (1×dif1, 3×dif2, 1×dif3) | corretas: A,C,B,D,A
   ✦ pmh_a2 — 5 questões (1×dif1, 3×dif2, 1×dif3) | corretas: B,D,A,C,B
-  Total: 10 novas questões
+  ...
+  Total: ~50 novas questões
 
 Para aprovar e aplicar:
   python scripts/aprovar_pendentes.py
 ============================================================
 ```
 
+---
+
 ## Limites desta execução
-- Máximo 4 aulas por rodada (20 questões máximo)
-- Não gere questões para aulas sem material
-- Priorize pelo campo `score` (maior primeiro)
+- Máximo 10 aulas por rodada (~50 questões)
+- Apenas uma matéria por rodada (a de maior déficit)
+- Não gere questões para aulas sem material em `data/materiais/`
+- Módulos 1–4 têm prioridade; módulos 5+ são ignorados nesta versão
 - Nenhum dado é alterado até o usuário rodar `aprovar_pendentes.py`

@@ -2305,7 +2305,8 @@
       box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.3);
       display: flex;
       justify-content: space-around;
-      padding: 8px 4px 20px;
+      gap: 2px;
+      padding: 8px 4px 18px;
       z-index: 100;
     }
 
@@ -2315,11 +2316,12 @@
       align-items: center;
       gap: 3px;
       cursor: pointer;
-      padding: 6px 12px;
+      flex: 1;
+      padding: 6px 6px;
       border-radius: 12px;
       transition: background var(--duration-fast) ease, color var(--duration-fast) ease;
       position: relative;
-      min-width: 56px;
+      min-width: 0;
     }
 
     .nav-item.active {
@@ -2356,9 +2358,11 @@
     }
 
     .nav-label {
-      font-size: 10px;
+      font-size: 9px;
       font-weight: 600;
       letter-spacing: 0.01em;
+      line-height: 1.1;
+      text-align: center;
     }
 
     /* Loading */
@@ -2856,6 +2860,110 @@
       from { transform: translateY(40px); opacity: 0; }
       to   { transform: translateY(0);   opacity: 1; }
     }
+
+    /* ── About/Sobre screen animations ───────────────── */
+    @keyframes aboutFadeUp {
+      from { opacity: 0; transform: translateY(30px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes aboutScaleIn {
+      from { opacity: 0; transform: scale(0.85); }
+      to   { opacity: 1; transform: scale(1); }
+    }
+    @keyframes aboutPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+    }
+    @keyframes aboutGlow {
+      0%, 100% { box-shadow: 0 0 20px rgba(0,200,150,0.15); }
+      50% { box-shadow: 0 0 40px rgba(0,200,150,0.35), 0 0 80px rgba(0,200,150,0.1); }
+    }
+    @keyframes aboutFloat {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-8px); }
+    }
+    @keyframes aboutShimmer {
+      0% { background-position: -200% center; }
+      100% { background-position: 200% center; }
+    }
+    @keyframes aboutCountUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes aboutGradientMove {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .about-hero-badge {
+      display: inline-flex; align-items: center; gap: 6px;
+      background: rgba(0,200,150,0.12); border: 1px solid rgba(0,200,150,0.25);
+      border-radius: 20px; padding: 6px 14px; font-size: 11px; font-weight: 700;
+      color: #00C896; letter-spacing: 0.5px; text-transform: uppercase;
+    }
+    .about-card {
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 16px; padding: 24px 20px; transition: all 0.3s var(--ease-spring);
+      position: relative; overflow: hidden;
+    }
+    .about-card:hover {
+      background: rgba(255,255,255,0.07); border-color: rgba(0,200,150,0.2);
+      transform: translateY(-2px); box-shadow: 0 8px 32px rgba(0,200,150,0.1);
+    }
+    .about-card::before {
+      content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: linear-gradient(90deg, transparent, var(--primary), transparent);
+      opacity: 0; transition: opacity 0.3s;
+    }
+    .about-card:hover::before { opacity: 1; }
+    .about-stat-card {
+      text-align: center; padding: 20px 12px;
+      background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.08);
+      border-radius: 14px; animation: aboutCountUp 0.6s ease both;
+    }
+    .about-feature-icon {
+      width: 48px; height: 48px; border-radius: 14px; display: flex;
+      align-items: center; justify-content: center; font-size: 12px;
+      font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase;
+      flex-shrink: 0;
+    }
+    .about-roadmap-item {
+      display: flex; gap: 14px; align-items: flex-start; padding: 16px 0;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .about-roadmap-item:last-child { border-bottom: none; }
+    .about-roadmap-dot {
+      width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; margin-top: 4px;
+      box-shadow: 0 0 8px currentColor;
+    }
+    .about-section-title {
+      font-family: Outfit, sans-serif; font-size: 18px; font-weight: 800;
+      color: var(--text-primary); margin-bottom: 16px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .about-cta-btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: linear-gradient(135deg, #00C896, #00A87A); color: #fff;
+      font-family: Outfit, sans-serif; font-weight: 700; font-size: 15px;
+      padding: 14px 32px; border-radius: 14px; border: none; cursor: pointer;
+      box-shadow: 0 4px 20px rgba(0,200,150,0.3); transition: all 0.3s var(--ease-spring);
+    }
+    .about-cta-btn:hover {
+      transform: translateY(-2px) scale(1.02);
+      box-shadow: 0 8px 32px rgba(0,200,150,0.4);
+    }
+
+    html[data-theme="light"] .about-card {
+      background: rgba(0,0,0,0.03); border-color: rgba(0,0,0,0.08);
+    }
+    html[data-theme="light"] .about-card:hover {
+      background: rgba(0,0,0,0.05); box-shadow: 0 8px 32px rgba(0,200,150,0.08);
+    }
+    html[data-theme="light"] .about-stat-card {
+      background: rgba(0,0,0,0.03); border-color: rgba(0,0,0,0.08);
+    }
+
     .feedback-modal h3 {
       font-size: 17px; font-weight: 700;
       color: var(--text-primary); margin-bottom: 4px;
@@ -3518,6 +3626,15 @@
       </svg>
     );
 
+    const IconRocket = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/>
+        <path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/>
+        <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/>
+        <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/>
+      </svg>
+    );
+
     /* Anatomy system icons — SVG replacements for emoji */
     const IconSysLocomotor = () => (
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
@@ -3831,16 +3948,86 @@
       return (faculty?.campi || []).find(c => c.active) || faculty?.campi?.[0] || null;
     }
 
+    function normalizeModulesAccess(value) {
+      if (value === null || value === undefined || value === '' || value === 'all') return null;
+
+      const source = Array.isArray(value)
+        ? value
+        : String(value)
+            .split(',')
+            .map(s => s.trim())
+            .filter(Boolean);
+
+      const modules = [...new Set(source.map(n => parseInt(n, 10)).filter(n => Number.isFinite(n) && n >= 1 && n <= 12))]
+        .sort((a, b) => a - b);
+
+      return modules.length ? modules : null;
+    }
+
+    function resolveModulesFromCodeEntry(codeEntry = {}) {
+      const explicit = normalizeModulesAccess(
+        codeEntry.modulosAcesso ?? codeEntry.modulos_acesso ?? codeEntry.modulos ?? codeEntry.modules
+      );
+      if (explicit) return explicit;
+
+      const plan = String(codeEntry.plano || '').toLowerCase();
+      if (plan === 'ciclo_basico' || plan === 'ciclo') return [1, 2, 3, 4];
+      if (plan === 'ciclo_clinico') return [5, 6, 7, 8];
+      if (plan === 'ciclo_internato') return [9, 10, 11, 12];
+
+      if (plan === 'modulo') {
+        const inferredModule = parseInt(
+          codeEntry.moduloLiberado ?? codeEntry.moduloAcesso ?? codeEntry.moduloNum ?? codeEntry.modulo ?? codeEntry.semestre,
+          10
+        );
+        if (Number.isFinite(inferredModule) && inferredModule >= 1 && inferredModule <= 12) {
+          return [inferredModule];
+        }
+      }
+
+      return null;
+    }
+
+    function getAllowedModules(profile) {
+      const normalized = normalizeModulesAccess(profile?.modulosAcesso);
+      if (normalized) return normalized;
+      return Array.from({ length: 12 }, (_, idx) => idx + 1);
+    }
+
+    function hasModuleAccess(profile, moduloNum) {
+      const modulo = parseInt(moduloNum, 10);
+      if (!Number.isFinite(modulo) || modulo < 1) return false;
+      const normalized = normalizeModulesAccess(profile?.modulosAcesso);
+      if (!normalized) return true;
+      return normalized.includes(modulo);
+    }
+
     function normalizeUserProfile(profile = {}) {
       const faculty = getFacultyById(profile.faculdadeId || profile.facultyId || DEFAULT_FACULTY_ID);
       const campus = getCampusById(faculty.id, profile.campusId || DEFAULT_CAMPUS_ID) || getFirstActiveCampus(faculty);
-      const semestre = Number(profile.semestre || profile.modulo || 1);
+      let modules = normalizeModulesAccess(profile.modulosAcesso);
+      const profilePlan = String(profile.plano || '').toLowerCase();
+      if (!modules && profilePlan === 'modulo') {
+        const inferredModule = parseInt(
+          profile.moduloLiberado ?? profile.moduloAcesso ?? profile.moduloNum ?? profile.modulo ?? profile.semestre,
+          10
+        );
+        if (Number.isFinite(inferredModule) && inferredModule >= 1 && inferredModule <= 12) {
+          modules = [inferredModule];
+        }
+      }
+      const semestreRaw = Number(profile.semestre || profile.modulo || 1);
+      const defaultSemester = Number.isFinite(semestreRaw) && semestreRaw > 0 ? semestreRaw : 1;
+      const semestre = modules && !modules.includes(defaultSemester)
+        ? modules[0]
+        : defaultSemester;
 
       return {
         ...profile,
         plano: profile.plano || 'basico',
-        semestre: Number.isFinite(semestre) && semestre > 0 ? semestre : 1,
-        modulo: Number.isFinite(semestre) && semestre > 0 ? semestre : 1,
+        modulosAcesso: modules,
+        semestre: semestre,
+        modulo: semestre,
         faculdadeId: faculty.id,
         faculdadeNome: faculty.name,
         campusId: campus?.id || DEFAULT_CAMPUS_ID,
@@ -3857,13 +4044,15 @@
         normalized.codeHash || '',
         normalized.faculdadeId || DEFAULT_FACULTY_ID,
         normalized.campusId || DEFAULT_CAMPUS_ID,
+        normalized.modulosAcesso ? normalized.modulosAcesso.join(',') : 'all',
       ].join('|');
     }
 
     function decodeProfileMarker(fbUser) {
       const raw = fbUser?.displayName || '';
       if (!raw.startsWith('mgp|')) return null;
-      const [, plano, semestreRaw, codeHash, faculdadeId, campusId] = raw.split('|');
+      const parts = raw.split('|');
+      const [, plano, semestreRaw, codeHash, faculdadeId, campusId, modulosRaw] = parts;
       return normalizeUserProfile({
         uid: fbUser.uid,
         email: fbUser.email || '',
@@ -3873,6 +4062,7 @@
         codeHash: codeHash || '',
         faculdadeId: faculdadeId || DEFAULT_FACULTY_ID,
         campusId: campusId || DEFAULT_CAMPUS_ID,
+        modulosAcesso: normalizeModulesAccess(modulosRaw),
         loginDate: new Date().toISOString(),
       });
     }
@@ -3899,7 +4089,11 @@
     async function saveUserProfile(fbUser, profile, options = {}) {
       const normalized = normalizeUserProfile(profile);
       const { updateProfile } = window.__fbAuthFns;
-      await updateProfile(fbUser, { displayName: encodeProfileMarker(normalized) });
+      try {
+        await updateProfile(fbUser, { displayName: encodeProfileMarker(normalized) });
+      } catch (err) {
+        // Do not block login/session if displayName sync fails.
+      }
 
       try {
         const { doc, setDoc } = window.__fbFirestore;
@@ -3913,6 +4107,7 @@
           campusId: normalized.campusId,
           campusNome: normalized.campusNome,
           codeHash: normalized.codeHash || '',
+          modulosAcesso: normalized.modulosAcesso || null,
           deviceId: normalized.deviceId || '',
           deviceIds: Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean).slice(-5) : [],
           maxDispositivos: Number(normalized.maxDispositivos || 2),
@@ -3941,6 +4136,63 @@
       } catch {}
 
       return decodeProfileMarker(fbUser);
+    }
+
+    async function syncProfileAccessFromCodeEntry(fbUser, profile) {
+      if (!profile || !profile.codeHash) return profile;
+
+      try {
+        const response = await fetch('data/codigos.json?_=' + Date.now());
+        if (!response.ok) return profile;
+
+        const data = await response.json();
+        const allCodes = data?.codigos || {};
+        const rawHash = String(profile.codeHash || '').trim();
+        let resolvedHash = rawHash;
+        let codeEntry = allCodes[resolvedHash] || null;
+
+        // Backward compatibility: older profiles stored only first 8 chars.
+        if (!codeEntry && rawHash && rawHash.length < 64) {
+          const match = Object.keys(allCodes).find(fullHash => fullHash.startsWith(rawHash));
+          if (match) {
+            resolvedHash = match;
+            codeEntry = allCodes[match];
+          }
+        }
+
+        if (!codeEntry) return profile;
+
+        const incomingModules = resolveModulesFromCodeEntry(codeEntry);
+        const currentModules = normalizeModulesAccess(profile.modulosAcesso);
+        const incomingPlan = codeEntry.plano || profile.plano || 'basico';
+        const incomingMax = Number(codeEntry.maxDispositivos || profile.maxDispositivos || 2);
+        const normalizedPlan = String(incomingPlan || '').toLowerCase();
+        const safeIncomingModules = (normalizedPlan === 'modulo' && !incomingModules)
+          ? (currentModules || null)
+          : incomingModules;
+
+        const modulesChanged = JSON.stringify(safeIncomingModules || null) !== JSON.stringify(currentModules || null);
+        const planChanged = incomingPlan !== (profile.plano || 'basico');
+        const maxChanged = incomingMax !== Number(profile.maxDispositivos || 2);
+
+        if (!modulesChanged && !planChanged && !maxChanged) return profile;
+
+        const merged = normalizeUserProfile({
+          ...profile,
+          plano: incomingPlan,
+          modulosAcesso: safeIncomingModules,
+          maxDispositivos: incomingMax,
+          codeHash: resolvedHash || profile.codeHash,
+        });
+
+        try {
+          await saveUserProfile(fbUser, buildSessionTrackedProfile(merged), { merge: true });
+        } catch {}
+
+        return merged;
+      } catch {
+        return profile;
+      }
     }
 
     function persistLocalUser(profile) {
@@ -3975,10 +4227,22 @@
       const [showForgot, setShowForgot] = useState(false);
       const [forgotEmail, setForgotEmail] = useState('');
       const [forgotSent, setForgotSent] = useState(false);
+      const allowedSemesters = validatedCode?.modulosAcesso?.length
+        ? validatedCode.modulosAcesso
+        : Array.from({ length: 12 }, (_, idx) => idx + 1);
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
       }, []);
+
+      useEffect(() => {
+        if (step !== 4) return;
+        if (allowedSemesters.length === 1) {
+          setSemester(allowedSemesters[0]);
+        } else if (semester && !allowedSemesters.includes(semester)) {
+          setSemester(null);
+        }
+      }, [step, validatedCode]);
 
       const applyProfile = (profile) => {
         onAuthSuccess(persistLocalUser(profile));
@@ -4034,7 +4298,13 @@
             return;
           }
 
-          setValidatedCode({ hash: codeHash, ...codeEntry });
+          const keyModules = resolveModulesFromCodeEntry(codeEntry);
+          if (String(codeEntry.plano || '').toLowerCase() === 'modulo' && !keyModules) {
+            setLoading(false);
+            setError('Esta chave de módulo está sem configuração de acesso. Contate o suporte.');
+            return;
+          }
+          setValidatedCode({ hash: codeHash, ...codeEntry, modulosAcesso: keyModules });
           if (currentFbUser) {
             setRegFirebaseUser(currentFbUser);
             if (currentFbUser.email) setEmail(currentFbUser.email);
@@ -4118,6 +4388,11 @@
       const handleSemesterSubmit = async () => {
         setError('');
         if (!semester) { setError('Selecione seu módulo'); return; }
+        const keyModules = validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : null;
+        if (keyModules && !keyModules.includes(semester)) {
+          setError('Este código não libera o módulo selecionado.');
+          return;
+        }
         setLoading(true);
         try {
           const fbUser = regFirebaseUser || window.__fbAuth?.currentUser;
@@ -4128,17 +4403,23 @@
             plano:     validatedCode?.plano   || 'basico',
             semestre:  semester,
             modulo:    semester,
+            modulosAcesso: keyModules,
             faculdadeId: facultyId,
             campusId: campusId,
-            codeHash:  validatedCode?.hash?.substring(0, 8) || '',
+            codeHash:  validatedCode?.hash || '',
             deviceId:  fingerprint,
             deviceIds: fingerprint ? [fingerprint] : [],
             maxDispositivos: validatedCode?.maxDispositivos || 2,
             loginDate: new Date().toISOString(),
           };
-          await saveUserProfile(fbUser, buildSessionTrackedProfile(profile, fingerprint));
+          const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
+          try {
+            await saveUserProfile(fbUser, trackedProfile);
+          } catch (persistErr) {
+            // Keep user inside app even if backend/profile sync fails temporarily.
+          }
           setLoading(false);
-          applyProfile(profile);
+          applyProfile(trackedProfile);
         } catch (err) {
           setLoading(false);
           const details = err?.code || err?.message || '';
@@ -4387,9 +4668,14 @@
                     <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.6)', margin: '0 0 8px', lineHeight: 1.4 }}>
                       Acesso completo a todos os módulos, questões e materiais da sua faculdade
                     </p>
-                    <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 22px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', boxShadow: '0 4px 16px rgba(0,200,150,0.35)' }}>
-                      🎓 Ver planos e preços
-                    </a>
+                    <div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 22px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', boxShadow: '0 4px 16px rgba(0,200,150,0.35)' }}>
+                        🎓 Ver planos e preços
+                      </a>
+                      <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.07)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 18px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', border: '1px solid rgba(255,255,255,0.14)' }}>
+                        ✨ Conhecer o app
+                      </a>
+                    </div>
                   </div>
                   <p style={{ textAlign: 'center', marginTop: '12px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                     Primeira vez?{' '}
@@ -4540,9 +4826,14 @@
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
                         Em qual módulo ou semestre você está em {getFacultyById(facultyId)?.shortName} {getCampusById(facultyId, campusId)?.name}?
                       </p>
+                      {validatedCode?.modulosAcesso?.length && (
+                        <p style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
+                          Esta chave libera os módulos: {validatedCode.modulosAcesso.join(', ')}
+                        </p>
+                      )}
                       {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                       <div className="semester-grid">
-                        {[1,2,3,4,5,6].map(s => (
+                        {allowedSemesters.map(s => (
                           <button key={s} className={`semester-btn ${semester === s ? 'selected' : ''}`}
                             onClick={() => { setSemester(s); setError(''); }}>
                             Módulo {s}
@@ -5878,6 +6169,12 @@
           `materiais/modulo4/${materia.id}/${temaId}.md`,
           `materiais/modulo5/${materia.id}/${temaId}.md`,
           `materiais/modulo6/${materia.id}/${temaId}.md`,
+          `materiais/modulo7/${materia.id}/${temaId}.md`,
+          `materiais/modulo8/${materia.id}/${temaId}.md`,
+          `materiais/modulo9/${materia.id}/${temaId}.md`,
+          `materiais/modulo10/${materia.id}/${temaId}.md`,
+          `materiais/modulo11/${materia.id}/${temaId}.md`,
+          `materiais/modulo12/${materia.id}/${temaId}.md`,
         ];
 
         setSelectedMaterial({
@@ -6160,6 +6457,27 @@
                     dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
 
+                  {/* Notice: imagens em breve */}
+                  <div style={{
+                    display: 'flex', gap: '12px', alignItems: 'center',
+                    background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
+                    borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
+                    fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
+                  }}>
+                    <span style={{
+                      flexShrink: 0,
+                      padding: '6px 8px',
+                      borderRadius: '999px',
+                      background: 'rgba(59,130,246,0.14)',
+                      color: '#93C5FD',
+                      fontSize: '10px',
+                      fontWeight: 800,
+                      letterSpacing: '0.08em',
+                      textTransform: 'uppercase'
+                    }}>Aviso</span>
+                    <span>Os materiais estão <strong style={{ color: '#93C5FD' }}>sem imagens por enquanto</strong>. Em breve adicionaremos ilustrações, diagramas e imagens anatômicas para complementar o conteúdo.</span>
+                  </div>
+
                   {/* Pré-Prova collapsible */}
                   {preProva && (
                     <div style={{ marginTop: '16px' }}>
@@ -6230,6 +6548,28 @@
         <>
           <div className="screen-content">
             <h2 className="section-title">Materiais de Apoio</h2>
+
+            <div style={{
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '12px',
+              marginBottom: '18px',
+              padding: '14px 16px',
+              borderRadius: '14px',
+              background: 'linear-gradient(135deg, rgba(59,130,246,0.10), rgba(0,200,150,0.08))',
+              border: '1px solid rgba(59,130,246,0.20)',
+              boxShadow: '0 10px 30px rgba(0,0,0,0.12)',
+            }}>
+              <span style={{ fontSize: '22px', lineHeight: 1, flexShrink: 0 }}>🖼️</span>
+              <div>
+                <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '14px', fontWeight: 800, color: '#93C5FD', marginBottom: '4px' }}>
+                  Imagens e esquemas visuais vêm na próxima fase
+                </div>
+                <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.65 }}>
+                  Por enquanto os materiais estão focados no texto essencial para estudo rápido. Em breve esta área vai ganhar imagens, diagramas, anatomia visual e explicações ainda mais detalhadas com foco em prova.
+                </div>
+              </div>
+            </div>
 
             {semesters.length > 1 && (
               <div className="semester-tabs">
@@ -6447,6 +6787,7 @@
 
       const username = user.email ? user.email.split('@')[0] : 'Usuário';
       const avatarLetter = username.charAt(0).toUpperCase();
+      const allowedProfileModules = getAllowedModules(user);
 
       return (
         <>
@@ -6504,7 +6845,7 @@
               </div>
               {showPicker && (
                 <div className="semester-grid" style={{ marginTop: '8px', marginBottom: '8px' }}>
-                  {[1,2,3,4,5,6].map(s => (
+                  {allowedProfileModules.map(s => (
                     <button
                       key={s}
                       className={`semester-btn ${(user.semestre || user.modulo || 1) === s ? 'selected' : ''}`}
@@ -6796,6 +7137,26 @@
             <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '4px' }}>Anatomia</h2>
             <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Referência rápida por sistema. Toque para expandir.</p>
 
+            {/* Beta Notice */}
+            <div style={{
+              background: 'linear-gradient(135deg, rgba(139,92,246,0.12), rgba(99,102,241,0.08))',
+              border: '1px solid rgba(139,92,246,0.25)',
+              borderRadius: '14px', padding: '16px 18px', marginBottom: '20px',
+              display: 'flex', gap: '14px', alignItems: 'flex-start',
+              animation: 'aboutFadeUp 0.5s ease both',
+            }}>
+              <span style={{ fontSize: '24px', flexShrink: 0, lineHeight: 1 }}>🧪</span>
+              <div>
+                <div style={{ fontFamily: 'Outfit', fontWeight: 700, fontSize: '14px', color: '#A78BFA', marginBottom: '4px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                  Beta Version
+                  <span style={{ background: 'rgba(139,92,246,0.2)', padding: '2px 8px', borderRadius: '6px', fontSize: '10px', fontWeight: 700, color: '#C4B5FD', letterSpacing: '0.5px' }}>EM DESENVOLVIMENTO</span>
+                </div>
+                <p style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>
+                  A seção de Anatomia está em versão beta. Em breve teremos <strong style={{ color: '#C4B5FD' }}>imagens anatômicas interativas</strong>, explicações detalhadas com foco em provas e muito mais conteúdo visual. Fique ligado nas atualizações!
+                </p>
+              </div>
+            </div>
+
             <div style={{ position: 'relative', marginBottom: '20px' }}>
               <input
                 type="text"
@@ -6888,16 +7249,271 @@
       );
     };
 
+    const SobreScreen = ({ user, onNavigate }) => {
+      const currentFeatures = [
+        { icon: '📚', color: '#00C896', title: 'Materiais por módulo', text: 'Resumos organizados por disciplina, aula e módulo, com navegação simples e foco direto no que cai.' },
+        { icon: '🧠', color: '#8B5CF6', title: 'Anatomia beta', text: 'Consulta rápida por sistemas com estrutura pensada para revisão objetiva e expansão contínua.' },
+        { icon: '🎯', color: '#10B981', title: 'Questões e treino', text: 'Banco integrado ao fluxo do app para revisar disciplinas com mais velocidade e menos atrito.' },
+        { icon: '🔁', color: '#F59E0B', title: 'Flashcards com repetição', text: 'Revisão espaçada para consolidar base, acelerar retenção e reduzir esquecimento.' },
+        { icon: '💬', color: '#EF4444', title: 'Feedback direto', text: 'Você reporta erros, sugere melhorias e ajuda a moldar a evolução do produto em tempo real.' },
+        { icon: '🔓', color: '#3B82F6', title: 'Entrada gratuita', text: 'Mesmo no acesso gratuito você já consegue explorar a proposta, a anatomia beta e esta visão completa do app.' },
+      ];
+
+      const futureFeatures = [
+        { status: 'Em expansão', color: '#00C896', title: 'Cobertura dos 12 semestres', text: 'O objetivo é entregar uma jornada contínua da base ao internato, sem quebrar a lógica do curso.' },
+        { status: 'Próxima fase', color: '#3B82F6', title: 'Materiais com imagens e diagramas', text: 'Ilustrações, mapas visuais, quadros comparativos e imagens anatômicas para acelerar entendimento.' },
+        { status: 'Roadmap forte', color: '#8B5CF6', title: 'Anatomia completa para prova', text: 'Explicações detalhadas, relações clínicas, mnemônicos e leitura visual pensada para cobrança de prova.' },
+        { status: 'Futuro próximo', color: '#F59E0B', title: 'Simulados ENAMED e treino dirigido', text: 'Simulados, análise de desempenho e revisão direcionada para transformar prática em resultado.' },
+        { status: 'Direção do app', color: '#EF4444', title: 'Base sólida para o internato', text: 'O foco é garantir o básico indispensável para chegar no internato com segurança real, não só decorar conteúdo.' },
+      ];
+
+      const pillars = [
+        'Estudo guiado por módulo, para reduzir dispersão.',
+        'Conteúdo enxuto quando precisa ser rápido e profundo onde realmente importa.',
+        'Experiência pensada para celular, para estudo entre aulas, plantões e deslocamentos.',
+      ];
+
+      const comparisonReasons = [
+        {
+          icon: '📱',
+          title: 'Mais prático que PDF perdido no celular',
+          text: 'Em vez de caçar arquivo, abrir pasta, lembrar nome e voltar para outro app, você entra e já cai no módulo, disciplina e aula certos.',
+        },
+        {
+          icon: '🧭',
+          title: 'Visão geral do que estudar',
+          text: 'O app organiza a jornada. Você enxerga módulo, matéria, material, revisão e treino no mesmo ambiente, sem estudar no improviso.',
+        },
+        {
+          icon: '📈',
+          title: 'Progresso e continuidade real',
+          text: 'PDF e Forms não acompanham sua evolução. Aqui a ideia é construir rotina, revisão e histórico, não só consumir conteúdo solto.',
+        },
+        {
+          icon: '⚡',
+          title: 'Menos atrito, mais constância',
+          text: 'Quanto menos esforço para começar, maior a chance de estudar de verdade. O app reduz fricção e acelera a entrada no foco.',
+        },
+      ];
+
+      return (
+        <div className="screen-content" style={{ paddingBottom: '40px' }}>
+          <div style={{ maxWidth: '1080px', margin: '0 auto', animation: 'aboutFadeUp 0.55s ease both' }}>
+            <div style={{
+              position: 'relative',
+              overflow: 'hidden',
+              borderRadius: '28px',
+              padding: '28px 22px 24px',
+              background: 'linear-gradient(135deg, rgba(0,200,150,0.18), rgba(59,130,246,0.16), rgba(139,92,246,0.16))',
+              border: '1px solid rgba(255,255,255,0.10)',
+              boxShadow: '0 20px 70px rgba(0,0,0,0.28)',
+              marginBottom: '22px',
+            }}>
+              <div style={{ position: 'absolute', inset: 0, background: 'radial-gradient(circle at top right, rgba(255,255,255,0.16), transparent 36%), radial-gradient(circle at bottom left, rgba(0,0,0,0.16), transparent 32%)', pointerEvents: 'none' }} />
+              <div style={{ position: 'relative', zIndex: 1 }}>
+                <div className="about-hero-badge" style={{ marginBottom: '16px' }}>
+                  <span>Visão geral do app</span>
+                  <span style={{ opacity: 0.7 }}>•</span>
+                  <span>Aberta até no gratuito</span>
+                </div>
+
+                <div style={{ display: 'grid', gap: '24px', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', alignItems: 'center' }}>
+                  <div>
+                    <h2 style={{ fontFamily: 'Outfit, sans-serif', fontSize: 'clamp(30px, 5vw, 48px)', lineHeight: 1.02, fontWeight: 800, color: '#FFFFFF', marginBottom: '12px', letterSpacing: '-0.03em' }}>
+                      O MedGradPlus está sendo construído para acompanhar Medicina do primeiro módulo ao internato.
+                    </h2>
+                    <p style={{ maxWidth: '760px', fontSize: '15px', lineHeight: 1.8, color: 'rgba(232,235,240,0.92)', marginBottom: '18px' }}>
+                      A proposta é simples: reunir estudo objetivo, revisão inteligente e uma trilha cada vez mais completa para quem quer dominar a base, ganhar consistência nas provas e chegar preparado no ciclo clínico e no internato.
+                    </p>
+
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px', marginBottom: '22px' }}>
+                      <span style={{ padding: '8px 12px', borderRadius: '999px', background: 'rgba(255,255,255,0.10)', color: '#E8EBF0', fontSize: '12px', fontWeight: 700 }}>12 semestres no horizonte</span>
+                      <span style={{ padding: '8px 12px', borderRadius: '999px', background: 'rgba(255,255,255,0.10)', color: '#E8EBF0', fontSize: '12px', fontWeight: 700 }}>Simulados ENAMED</span>
+                      <span style={{ padding: '8px 12px', borderRadius: '999px', background: 'rgba(255,255,255,0.10)', color: '#E8EBF0', fontSize: '12px', fontWeight: 700 }}>Base forte para internato</span>
+                    </div>
+
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
+                      <button className="about-cta-btn" onClick={() => onNavigate(user?.isGuest || user?.plano === 'gratuito' ? 'anatomy' : 'materials')}>
+                        <IconRocket />
+                        Explorar agora
+                      </button>
+                      <button
+                        onClick={() => window.location.href = 'comprar.html'}
+                        style={{
+                          border: '1px solid rgba(255,255,255,0.18)',
+                          background: 'rgba(255,255,255,0.08)',
+                          color: '#FFFFFF',
+                          borderRadius: '14px',
+                          padding: '14px 20px',
+                          fontSize: '14px',
+                          fontWeight: 700,
+                          cursor: 'pointer',
+                          backdropFilter: 'blur(8px)',
+                        }}
+                      >
+                        Ver planos e evolução
+                      </button>
+                    </div>
+                  </div>
+
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: '12px', animation: 'aboutScaleIn 0.7s ease both' }}>
+                    {[
+                      { value: '1-12', label: 'Semestres planejados' },
+                      { value: '24/7', label: 'Estudo no celular' },
+                      { value: 'Beta+', label: 'Produto em expansão real' },
+                      { value: 'Prova', label: 'Foco direto no que importa' },
+                    ].map((stat, index) => (
+                      <div key={stat.label} className="about-stat-card" style={{ animationDelay: `${index * 0.08}s`, background: 'rgba(11,15,25,0.26)' }}>
+                        <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '28px', fontWeight: 800, color: '#FFFFFF', marginBottom: '6px' }}>{stat.value}</div>
+                        <div style={{ fontSize: '12px', color: 'rgba(232,235,240,0.82)', lineHeight: 1.4 }}>{stat.label}</div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="about-card" style={{ marginBottom: '22px', animation: 'aboutFadeUp 0.78s ease both' }}>
+              <div className="about-section-title">
+                <span style={{ color: '#FCD34D' }}>Por que comprar isso e não ficar só em PDF ou Forms?</span>
+              </div>
+              <div style={{ display: 'grid', gap: '16px', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' }}>
+                {comparisonReasons.map(item => (
+                  <div key={item.title} style={{
+                    padding: '18px 16px',
+                    borderRadius: '16px',
+                    background: 'rgba(255,255,255,0.03)',
+                    border: '1px solid rgba(255,255,255,0.08)',
+                  }}>
+                    <div style={{ fontSize: '22px', marginBottom: '10px' }}>{item.icon}</div>
+                    <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '15px', fontWeight: 700, color: 'var(--text-primary)', marginBottom: '6px' }}>{item.title}</div>
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.75 }}>{item.text}</div>
+                  </div>
+                ))}
+              </div>
+
+              <div style={{
+                marginTop: '18px',
+                padding: '18px 18px',
+                borderRadius: '16px',
+                background: 'linear-gradient(135deg, rgba(0,200,150,0.10), rgba(59,130,246,0.08))',
+                border: '1px solid rgba(0,200,150,0.18)',
+              }}>
+                <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '17px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '8px' }}>
+                  O valor não está só no conteúdo. Está no formato que faz você usar.
+                </div>
+                <div style={{ fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.8 }}>
+                  Muita gente já tem PDF demais, link demais e formulário demais. O problema raramente é falta de material. O problema é excesso de atrito, bagunça, falta de continuidade e estudo sem direção. O MedGradPlus existe para transformar isso em rotina prática, visão clara, revisão inteligente e preparação mais consistente para prova e internato.
+                </div>
+              </div>
+            </div>
+
+            <div style={{ display: 'grid', gap: '18px', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', marginBottom: '22px' }}>
+              <div className="about-card" style={{ animation: 'aboutFadeUp 0.65s ease both' }}>
+                <div className="about-section-title">
+                  <span style={{ color: 'var(--primary)' }}>Como funciona hoje</span>
+                </div>
+                <div style={{ display: 'grid', gap: '14px' }}>
+                  {currentFeatures.map((feature, index) => (
+                    <div key={feature.title} style={{ display: 'flex', gap: '14px', alignItems: 'flex-start', animation: 'aboutFadeUp 0.45s ease both', animationDelay: `${0.08 * index}s` }}>
+                      <div className="about-feature-icon" style={{ background: `${feature.color}20`, color: feature.color }}>{feature.icon}</div>
+                      <div>
+                        <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 700, fontSize: '15px', color: 'var(--text-primary)', marginBottom: '4px' }}>{feature.title}</div>
+                        <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{feature.text}</div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              <div className="about-card" style={{ animation: 'aboutFadeUp 0.72s ease both' }}>
+                <div className="about-section-title">
+                  <span style={{ color: '#93C5FD' }}>Por que esse app existe</span>
+                </div>
+                <div style={{ display: 'grid', gap: '16px' }}>
+                  {pillars.map((pillar, index) => (
+                    <div key={pillar} style={{ display: 'flex', gap: '10px', alignItems: 'flex-start' }}>
+                      <span style={{ width: '24px', height: '24px', borderRadius: '50%', background: 'rgba(0,200,150,0.12)', color: 'var(--primary)', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', fontSize: '12px', fontWeight: 800, flexShrink: 0 }}>{index + 1}</span>
+                      <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '13px', lineHeight: 1.75 }}>{pillar}</p>
+                    </div>
+                  ))}
+                </div>
+
+                <div style={{ marginTop: '20px', padding: '16px', borderRadius: '14px', background: 'linear-gradient(135deg, rgba(245,158,11,0.10), rgba(239,68,68,0.08))', border: '1px solid rgba(245,158,11,0.20)' }}>
+                  <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 800, fontSize: '14px', color: '#FCD34D', marginBottom: '6px' }}>
+                    Direção estratégica
+                  </div>
+                  <div style={{ fontSize: '13px', lineHeight: 1.7, color: 'var(--text-secondary)' }}>
+                    O foco não é só “ter conteúdo”. É criar um app que entregue o essencial certo, no tempo certo, para sustentar o desempenho acadêmico e construir uma base confiável para o internato.
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="about-card" style={{ marginBottom: '22px', animation: 'aboutFadeUp 0.82s ease both' }}>
+              <div className="about-section-title">
+                <span style={{ color: '#C4B5FD' }}>O que vem pela frente</span>
+              </div>
+              {futureFeatures.map(item => (
+                <div key={item.title} className="about-roadmap-item">
+                  <span className="about-roadmap-dot" style={{ color: item.color, background: item.color }} />
+                  <div style={{ flex: 1 }}>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', gap: '10px', marginBottom: '6px' }}>
+                      <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '15px', fontWeight: 700, color: 'var(--text-primary)' }}>{item.title}</div>
+                      <span style={{ padding: '4px 9px', borderRadius: '999px', background: `${item.color}18`, color: item.color, fontSize: '10px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em' }}>{item.status}</span>
+                    </div>
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.75 }}>{item.text}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{
+              display: 'grid',
+              gap: '18px',
+              gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))',
+              animation: 'aboutFadeUp 0.9s ease both',
+            }}>
+              <div className="about-card">
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#6EE7B7', marginBottom: '8px' }}>Hoje</div>
+                <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '8px' }}>Base prática e navegável</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>Materiais, questões, flashcards, anatomia beta e feedback num fluxo só.</div>
+              </div>
+              <div className="about-card">
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#93C5FD', marginBottom: '8px' }}>A seguir</div>
+                <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '8px' }}>Camada visual forte</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>Imagens, diagramas, reforço de anatomia e explicações detalhadas com foco em prova.</div>
+              </div>
+              <div className="about-card">
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#FCD34D', marginBottom: '8px' }}>Objetivo final</div>
+                <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '8px' }}>Do ciclo básico ao ENAMED</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>Acompanhar o aluno por toda a graduação com treino, revisão e segurança no internato.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      );
+    };
+
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'profile', 'anatomy'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
+        if (raw === 'about-public') {
+          return {
+            tab: 'about',
+            materiaId: null,
+            aulaId: null,
+            publicOnly: true,
+          };
+        }
         const [tabRaw, materiaRaw, aulaRaw] = raw.split(':');
         const tab = VALID_TABS.includes(tabRaw) ? tabRaw : 'home';
         return {
           tab,
           materiaId: materiaRaw ? decodeURIComponent(materiaRaw) : null,
           aulaId: aulaRaw ? decodeURIComponent(aulaRaw) : null,
+          publicOnly: false,
         };
       };
       const buildHash = ({ tab, materiaId, aulaId }) => {
@@ -6942,10 +7558,11 @@
           tab: VALID_TABS.includes(tab) ? tab : 'home',
           materiaId: options.materiaId || null,
           aulaId: options.aulaId || null,
+          publicOnly: !!options.publicOnly,
         };
         setRouteState(nextRoute);
         setCurrentTab(nextRoute.tab);
-        const nextHash = buildHash(nextRoute);
+        const nextHash = nextRoute.publicOnly ? '#about-public' : buildHash(nextRoute);
         if (window.location.hash !== nextHash) {
           window.location.hash = nextHash;
         }
@@ -7004,9 +7621,10 @@
             try {
               const p = await loadUserProfile(firebaseUser);
               if (p) {
-                const normalized = persistLocalUser(p);
+                const synced = await syncProfileAccessFromCodeEntry(firebaseUser, p);
+                const normalized = persistLocalUser(synced);
                 authStateRef.current = normalized;
-                if (splashDoneRef.current) applyResolvedAuth(p);
+                if (splashDoneRef.current) applyResolvedAuth(synced);
               } else {
                 if (cachedProfile) {
                   authStateRef.current = cachedProfile;
@@ -7160,6 +7778,26 @@
       }
 
       if (stage === 'auth') {
+        if (routeState.publicOnly && routeState.tab === 'about') {
+          return (
+            <div className="app-container">
+              <div className="screen-content" style={{ paddingTop: '24px', paddingBottom: '40px' }}>
+                <div style={{ maxWidth: '1080px', margin: '0 auto 18px', display: 'flex', gap: '12px', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap' }}>
+                  <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 800, color: 'var(--text-primary)', fontSize: '18px' }}>MedGradPlus</div>
+                  <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                    <button className="btn btn-secondary" style={{ width: 'auto', padding: '10px 16px' }} onClick={() => { window.location.hash = ''; const next = { tab: 'home', materiaId: null, aulaId: null, publicOnly: false }; setRouteState(next); setCurrentTab(next.tab); }}>
+                      ← Voltar ao login
+                    </button>
+                    <a href="comprar.html" className="btn btn-primary" style={{ width: 'auto', padding: '10px 16px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>
+                      🎓 Ver planos e preços
+                    </a>
+                  </div>
+                </div>
+                <SobreScreen user={{ isGuest: true, plano: 'gratuito' }} onNavigate={() => { window.location.hash = ''; const next = { tab: 'home', materiaId: null, aulaId: null, publicOnly: false }; setRouteState(next); setCurrentTab(next.tab); }} />
+              </div>
+            </div>
+          );
+        }
         return <AuthScreen onAuthSuccess={handleAuthSuccess} />;
       }
 
@@ -7175,7 +7813,7 @@
 
       const handleChangeSemester = async (newSem) => {
         const parsed = typeof newSem === 'number' ? newSem : parseInt(newSem);
-        if (parsed >= 1 && parsed <= 6) {
+        if (parsed >= 1 && parsed <= 12 && hasModuleAccess(user, parsed)) {
           const updated = normalizeUserProfile({ ...user, semestre: parsed, modulo: parsed });
           setUser(updated);
           persistLocalUser(updated);
@@ -7187,6 +7825,15 @@
         }
       };
 
+      const accessFilteredMaterias = materias.filter(m => m.ativo !== false && hasModuleAccess(user, m.modulo || m.semestre));
+      const allowedMateriaIds = new Set(accessFilteredMaterias.map(m => m.id));
+      const accessFilteredFlashcards = flashcards.filter(card => {
+        if (!card?.materia) return false;
+        if (allowedMateriaIds.has(card.materia)) return true;
+        const fallbackMateria = materias.find(m => m.id === card.materia);
+        return fallbackMateria ? hasModuleAccess(user, fallbackMateria.modulo || fallbackMateria.semestre) : false;
+      });
+
       const navItems = [
         { id: 'home', label: 'Início', icon: <IconHome /> },
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
@@ -7194,6 +7841,7 @@
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
         { id: 'anatomy', label: 'Anatomia', icon: <IconAnatomy /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
+        { id: 'about', label: 'Sobre', icon: <IconRocket /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
 
@@ -7255,8 +7903,8 @@
             {currentTab === 'home' && (
               <DashboardScreen
                 user={user}
-                materias={materias}
-                flashcards={flashcards}
+                materias={accessFilteredMaterias}
+                flashcards={accessFilteredFlashcards}
                 onSelectMateria={(id) => {
                   setSelectedMateria(id);
                   navigateTo('cards', { materiaId: id });
@@ -7279,16 +7927,28 @@
                     Voltar ao início
                   </button>
                 </div>
+              ) : accessFilteredMaterias.length === 0 ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    Sua chave atual não libera os módulos com flashcards disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                  </p>
+                  <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
               ) : (
                 <FlashcardsScreen
-                  flashcards={flashcards}
-                  materias={materias}
+                  flashcards={accessFilteredFlashcards}
+                  materias={accessFilteredMaterias}
                   selectedMateria={selectedMateria}
                   onSelectMateria={(materiaId) => {
                     setSelectedMateria(materiaId);
                     navigateTo('cards', { materiaId });
                   }}
                   userSemester={user.semestre}
+                  user={user}
                 />
               )
             )}
@@ -7308,16 +7968,28 @@
                     Voltar ao início
                   </button>
                 </div>
+              ) : accessFilteredMaterias.length === 0 ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    Sua chave atual não libera os módulos com questões disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                  </p>
+                  <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
               ) : (
                 <QuizScreen
-                  flashcards={flashcards}
-                  materias={materias}
+                  flashcards={accessFilteredFlashcards}
+                  materias={accessFilteredMaterias}
                   selectedMateria={selectedMateria}
                   onSelectMateria={(materiaId) => {
                     setSelectedMateria(materiaId);
                     navigateTo('quiz', { materiaId });
                   }}
                   userSemester={user.semestre}
+                  user={user}
                 />
               )
             )}
@@ -7337,13 +8009,25 @@
                     Voltar ao início
                   </button>
                 </div>
+              ) : accessFilteredMaterias.length === 0 ? (
+                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
+                    Sua chave atual não libera os módulos com materiais disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                  </p>
+                  <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
+                    Voltar ao início
+                  </button>
+                </div>
               ) : (
                 <MaterialsScreen
-                  materias={materias}
+                  materias={accessFilteredMaterias}
                   userSemester={user.semestre}
                   initialMateriaId={routeState.materiaId}
                   initialTemaId={routeState.aulaId}
                   onRouteChange={navigateTo}
+                  user={user}
                   onNavigateTo={(tab, materiaId) => {
                     if (materiaId) setSelectedMateria(materiaId);
                     navigateTo(tab, { materiaId });
@@ -7354,6 +8038,10 @@
 
             {currentTab === 'feedback' && (
               <FeedbackScreen currentMateria={selectedMateria} />
+            )}
+
+            {currentTab === 'about' && (
+              <SobreScreen user={user} onNavigate={(tab) => navigateTo(tab)} />
             )}
 
             {currentTab === 'profile' && (

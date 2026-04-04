@@ -10,8 +10,8 @@ if errorlevel 1 (
     exit /b 1
 )
 
-REM Passo 2: Claude corrige os arquivos com problemas
-"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow '.agents/workflows/revisor_materiais.md'. Leia data/agent_logs/status_padronizador.json, corrija os 8 arquivos de maior score_urgencia: adicione breadcrumb, Pré-Prova, corrija acentuação, preencha data/refs/{aula_id}.refs.json. Faça git commit ao final." >> ".agents\logs\revisor_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
+REM Passo 2: Claude revisa uma matéria inteira + gera glossários
+"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow '.agents/workflows/revisor_materiais.md'. Leia data/agent_logs/status_revisor_materiais.json. Selecione a matéria com maior score (dias_sem_revisao × cobertura). Revise todos os materiais dessa matéria: ortografia, tabelas, fluxos, tamanho. Gere glossário para cada aula em data/glossario/{aula_id}.glossario.json. Gere relatório em data/agent_logs/pendentes/ — não modifique arquivos diretamente." >> ".agents\logs\revisor_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
 
 REM Passo 3: Re-analisa para confirmar melhora
 python scripts\revisar_materiais.py --apenas-relatorio

@@ -718,10 +718,29 @@
             <h3>Gerar Novo Código</h3>
             <div class="form-group">
                 <label class="form-label">Plano</label>
-                <select class="form-select" id="newCodePlan">
-                    <option value="basico">Básico</option>
-                    <option value="completo">Completo</option>
-                    <option value="vitalicio">Vitalício</option>
+                <select class="form-select" id="newCodePlan" onchange="updateNewCodePlanUI()">
+                    <option value="modulo">Módulo Único</option>
+                    <option value="ciclo_basico">Ciclo Básico (Módulos 1-4)</option>
+                    <option value="ciclo_clinico">Ciclo Clínico (Módulos 5-8)</option>
+                    <option value="ciclo_internato">Internato (Módulos 9-12)</option>
+                    <option value="legado_total">Acesso Total (legado)</option>
+                </select>
+            </div>
+            <div class="form-group" id="newCodeModuloGroup">
+                <label class="form-label">Módulo Liberado</label>
+                <select class="form-select" id="newCodeModuloNum">
+                    <option value="1">Módulo 1</option>
+                    <option value="2">Módulo 2</option>
+                    <option value="3">Módulo 3</option>
+                    <option value="4">Módulo 4</option>
+                    <option value="5">Módulo 5</option>
+                    <option value="6">Módulo 6</option>
+                    <option value="7">Módulo 7</option>
+                    <option value="8">Módulo 8</option>
+                    <option value="9">Módulo 9</option>
+                    <option value="10">Módulo 10</option>
+                    <option value="11">Módulo 11</option>
+                    <option value="12">Módulo 12</option>
                 </select>
             </div>
             <div class="form-row">
@@ -730,8 +749,8 @@
                     <input type="number" class="form-input" id="newCodeMaxDevices" value="2" min="1" max="99">
                 </div>
                 <div class="form-group">
-                    <label class="form-label">Expiração</label>
-                    <input type="date" class="form-input" id="newCodeExpiry">
+                    <label class="form-label">Expiração (obrigatória)</label>
+                    <input type="date" class="form-input" id="newCodeExpiry" required>
                 </div>
             </div>
             <div class="form-group">
@@ -776,13 +795,26 @@
             </div>
             <div class="form-group">
                 <label class="form-label">Plano</label>
-                <select class="form-select" id="editCodePlan">
+                <select class="form-select" id="editCodePlan" onchange="syncEditCodePlanUI()">
                     <option value="modulo">Módulo</option>
-                    <option value="ciclo">Ciclo</option>
+                    <option value="ciclo_basico">Ciclo Básico (1-4)</option>
+                    <option value="ciclo_clinico">Ciclo Clínico (5-8)</option>
+                    <option value="ciclo_internato">Internato (9-12)</option>
+                    <option value="legado_total">Acesso Total (legado)</option>
                     <option value="basico">Básico (legado)</option>
                     <option value="completo">Completo (legado)</option>
                     <option value="vitalicio">Vitalício (legado)</option>
                 </select>
+            </div>
+            <div class="form-group" id="editCodeModulesGroup" style="margin-top: 4px;">
+                <label class="form-label" style="margin-bottom: 8px;">Módulos com Acesso</label>
+                <div style="display:flex; gap:8px; flex-wrap:wrap; margin-bottom: 8px;">
+                    <button type="button" class="btn btn-sm btn-ghost" onclick="setEditModulesPreset('basico')">Básico 1-4</button>
+                    <button type="button" class="btn btn-sm btn-ghost" onclick="setEditModulesPreset('clinico')">Clínico 5-8</button>
+                    <button type="button" class="btn btn-sm btn-ghost" onclick="setEditModulesPreset('internato')">Internato 9-12</button>
+                    <button type="button" class="btn btn-sm btn-ghost" onclick="setEditModulesPreset('todos')">Todos</button>
+                </div>
+                <div id="editCodeModulesChecklist" style="display:grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px;"></div>
             </div>
             <div class="form-row">
                 <div class="form-group">
@@ -1391,12 +1423,16 @@
                 const status = c.ativo ? '<span class="badge badge-success">Ativo</span>' : '<span class="badge badge-error">Inativo</span>';
                 const planBadge = getPlanBadgeClass(c.plano);
                 const planLabel = getPlanLabel(c.plano);
+                const accessLabel = getModulesAccessLabel(c);
                 const devices = `${(c.dispositivos || []).length}/${c.maxDispositivos || 2}`;
                 const expira = c.expira ? new Date(c.expira).toLocaleDateString('pt-BR') : '—';
 
                 return `<tr>
                     <td><code style="font-size:11px; color: var(--text-secondary);">${hash.substring(0,12)}…</code></td>
-                    <td><span class="badge ${planBadge}">${planLabel}</span></td>
+                    <td>
+                        <span class="badge ${planBadge}">${planLabel}</span>
+                        <div style="font-size:11px; color: var(--text-secondary); margin-top: 4px;">${accessLabel}</div>
+                    </td>
                     <td>${status}</td>
                     <td>${devices}</td>
                     <td>${expira}</td>
@@ -1415,19 +1451,118 @@
         }
 
         function getPlanBadgeClass(plan) {
-            if (plan === 'vitalicio') return 'badge-purple';
-            if (plan === 'completo' || plan === 'ciclo') return 'badge-primary';
+            const p = normalizePlan(plan);
+            if (p === 'vitalicio' || p === 'legado_total') return 'badge-purple';
+            if (p === 'ciclo_basico' || p === 'ciclo_clinico' || p === 'ciclo_internato') return 'badge-primary';
+            if (p === 'completo') return 'badge-primary';
             return 'badge-warning';
         }
 
         function getPlanLabel(plan) {
-            const p = (plan || 'basico').toLowerCase();
+            const p = normalizePlan(plan);
             if (p === 'modulo') return 'módulo';
-            if (p === 'ciclo') return 'ciclo';
+            if (p === 'ciclo_basico') return 'ciclo básico';
+            if (p === 'ciclo_clinico') return 'ciclo clínico';
+            if (p === 'ciclo_internato') return 'internato';
+            if (p === 'legado_total') return 'total legado';
             if (p === 'basico') return 'básico';
             if (p === 'completo') return 'completo';
             if (p === 'vitalicio') return 'vitalício';
             return p;
+        }
+
+        function normalizePlan(plan) {
+            const p = (plan || 'basico').toLowerCase();
+            if (p === 'ciclo') return 'ciclo_basico';
+            return p;
+        }
+
+        function normalizeModulesAccess(raw) {
+            if (!Array.isArray(raw)) return null;
+            const modules = [...new Set(raw.map(n => parseInt(n, 10)).filter(n => Number.isFinite(n) && n >= 1 && n <= 12))].sort((a, b) => a - b);
+            return modules.length ? modules : null;
+        }
+
+        function getModulesFromPlan(plan, moduloNum) {
+            const p = normalizePlan(plan);
+            if (p === 'modulo') {
+                const moduleValue = parseInt(moduloNum, 10);
+                return Number.isFinite(moduleValue) && moduleValue >= 1 && moduleValue <= 12 ? [moduleValue] : null;
+            }
+            if (p === 'ciclo_basico') return [1, 2, 3, 4];
+            if (p === 'ciclo_clinico') return [5, 6, 7, 8];
+            if (p === 'ciclo_internato') return [9, 10, 11, 12];
+            return null;
+        }
+
+        function getResolvedModulesForCode(entry) {
+            const explicit = normalizeModulesAccess(entry?.modulosAcesso);
+            if (explicit) return explicit;
+            return getModulesFromPlan(entry?.plano, null);
+        }
+
+        function isLegacyFullPlan(plan) {
+            const p = normalizePlan(plan);
+            return p === 'legado_total' || p === 'basico' || p === 'completo' || p === 'vitalicio';
+        }
+
+        function getModulesAccessLabel(entry) {
+            const modules = getResolvedModulesForCode(entry);
+            if (!modules) return 'Acesso total';
+            if (modules.length === 1) return `Módulo ${modules[0]}`;
+            if (modules.join(',') === '1,2,3,4') return 'Ciclo básico (1-4)';
+            if (modules.join(',') === '5,6,7,8') return 'Ciclo clínico (5-8)';
+            if (modules.join(',') === '9,10,11,12') return 'Internato (9-12)';
+            return `Módulos ${modules.join(', ')}`;
+        }
+
+        function renderEditModulesChecklist() {
+            const container = document.getElementById('editCodeModulesChecklist');
+            if (!container) return;
+            container.innerHTML = Array.from({ length: 12 }, (_, idx) => {
+                const m = idx + 1;
+                return `<label style="display:flex; align-items:center; gap:6px; font-size:12px; color: var(--text-primary);">
+                    <input type="checkbox" class="edit-code-module" value="${m}">
+                    Módulo ${m}
+                </label>`;
+            }).join('');
+        }
+
+        function setEditModulesChecked(modules) {
+            const normalized = normalizeModulesAccess(modules) || [];
+            document.querySelectorAll('.edit-code-module').forEach(input => {
+                input.checked = normalized.includes(parseInt(input.value, 10));
+            });
+        }
+
+        function getSelectedEditModules() {
+            return Array.from(document.querySelectorAll('.edit-code-module:checked'))
+                .map(input => parseInt(input.value, 10))
+                .filter(n => Number.isFinite(n) && n >= 1 && n <= 12)
+                .sort((a, b) => a - b);
+        }
+
+        function setEditModulesPreset(type) {
+            if (type === 'basico') setEditModulesChecked([1, 2, 3, 4]);
+            else if (type === 'clinico') setEditModulesChecked([5, 6, 7, 8]);
+            else if (type === 'internato') setEditModulesChecked([9, 10, 11, 12]);
+            else setEditModulesChecked([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]);
+        }
+
+        function syncEditCodePlanUI() {
+            const plan = normalizePlan(document.getElementById('editCodePlan').value);
+            const group = document.getElementById('editCodeModulesGroup');
+            if (!group) return;
+            group.style.display = isLegacyFullPlan(plan) ? 'none' : 'block';
+            if (plan === 'ciclo_basico') setEditModulesChecked([1, 2, 3, 4]);
+            if (plan === 'ciclo_clinico') setEditModulesChecked([5, 6, 7, 8]);
+            if (plan === 'ciclo_internato') setEditModulesChecked([9, 10, 11, 12]);
+        }
+
+        function updateNewCodePlanUI() {
+            const plan = normalizePlan(document.getElementById('newCodePlan').value);
+            const moduloGroup = document.getElementById('newCodeModuloGroup');
+            if (moduloGroup) moduloGroup.style.display = plan === 'modulo' ? 'block' : 'none';
         }
 
         function showNewCodeModal() { document.getElementById('newCodeModal').classList.remove('hidden'); }
@@ -1446,17 +1581,30 @@
         }
 
         async function createNewCode() {
-            const plan = document.getElementById('newCodePlan').value;
+            const plan = normalizePlan(document.getElementById('newCodePlan').value);
+            const selectedModulo = parseInt(document.getElementById('newCodeModuloNum').value, 10);
             const maxDevices = parseInt(document.getElementById('newCodeMaxDevices').value) || 2;
             const expiry = document.getElementById('newCodeExpiry').value || null;
             const email = document.getElementById('newCodeEmail').value || null;
             const note = document.getElementById('newCodeNote').value || '';
+            const modulosAcesso = getModulesFromPlan(plan, selectedModulo);
+
+            if (!expiry) {
+                showToast('A expiração é obrigatória para novas chaves.', true);
+                return;
+            }
+
+            if (plan === 'modulo' && !modulosAcesso) {
+                showToast('Selecione um módulo válido.', true);
+                return;
+            }
 
             const plainCode = generateRandomCode();
             const hash = await sha256(CODE_SALT + plainCode);
 
             codesData[hash] = {
                 plano: plan,
+                modulosAcesso: modulosAcesso,
                 ativo: true,
                 maxDispositivos: maxDevices,
                 dispositivos: [],
@@ -1484,6 +1632,7 @@
                 const hash = await sha256(CODE_SALT + plainCode);
                 codesData[hash] = {
                     plano: 'basico', ativo: true, maxDispositivos: 2,
+                    modulosAcesso: null,
                     dispositivos: [], email: null, expira: null,
                     nota: `Lote gerado em ${new Date().toLocaleDateString('pt-BR')}`,
                     criadoEm: new Date().toISOString()
@@ -1527,9 +1676,11 @@
                 return;
             }
 
-            const knownPlans = ['modulo', 'ciclo', 'basico', 'completo', 'vitalicio'];
-            const plan = knownPlans.includes((entry.plano || '').toLowerCase()) ? entry.plano.toLowerCase() : 'basico';
+            const knownPlans = ['modulo', 'ciclo_basico', 'ciclo_clinico', 'ciclo_internato', 'legado_total', 'ciclo', 'basico', 'completo', 'vitalicio'];
+            const normalizedPlan = normalizePlan(entry.plano || 'basico');
+            const plan = knownPlans.includes(normalizedPlan) ? normalizedPlan : 'basico';
             const devicesCount = (entry.dispositivos || []).length;
+            const modules = getResolvedModulesForCode(entry) || [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 
             document.getElementById('editCodeHash').value = hash;
             document.getElementById('editCodeHashPreview').textContent = `${hash.substring(0, 24)}...`;
@@ -1540,6 +1691,8 @@
             document.getElementById('editCodeNote').value = entry.nota || '';
             document.getElementById('editCodeActive').value = entry.ativo ? 'true' : 'false';
             document.getElementById('editCodeDevicesInfo').value = `${devicesCount} / ${entry.maxDispositivos || 2}`;
+            setEditModulesChecked(modules);
+            syncEditCodePlanUI();
 
             document.getElementById('editCodeModal').classList.remove('hidden');
         }
@@ -1552,19 +1705,32 @@
                 return;
             }
 
-            const plan = document.getElementById('editCodePlan').value;
+            const plan = normalizePlan(document.getElementById('editCodePlan').value);
             const maxDevices = parseInt(document.getElementById('editCodeMaxDevices').value, 10);
             const expiry = document.getElementById('editCodeExpiry').value || null;
             const email = (document.getElementById('editCodeEmail').value || '').trim().toLowerCase() || null;
             const note = (document.getElementById('editCodeNote').value || '').trim();
             const isActive = document.getElementById('editCodeActive').value === 'true';
+            const selectedModules = getSelectedEditModules();
+            const modulosAcesso = isLegacyFullPlan(plan) ? null : normalizeModulesAccess(selectedModules);
 
             if (!Number.isFinite(maxDevices) || maxDevices < 1 || maxDevices > 99) {
                 showToast('Máx. dispositivos deve ser entre 1 e 99.', true);
                 return;
             }
 
+            if (!isLegacyFullPlan(plan) && (!modulosAcesso || modulosAcesso.length === 0)) {
+                showToast('Selecione ao menos um módulo com acesso.', true);
+                return;
+            }
+
+            if (plan === 'modulo' && modulosAcesso.length !== 1) {
+                showToast('Plano módulo deve ter exatamente um módulo selecionado.', true);
+                return;
+            }
+
             entry.plano = plan;
+            entry.modulosAcesso = modulosAcesso;
             entry.maxDispositivos = maxDevices;
             entry.expira = expiry;
             entry.email = email;
@@ -1623,6 +1789,9 @@
             const data = { _info: "Códigos MedGrad+ (hashes SHA-256 com salt)", _salt: CODE_SALT, codigos: codesData };
             try { await apiSave('codigos', data); } catch(e) { showToast('Erro ao salvar: ' + e.message, true); }
         }
+
+        updateNewCodePlanUI();
+        renderEditModulesChecklist();
 
         function exportCodes() { _persistCodes(); }
 
@@ -2036,7 +2205,41 @@
                     { l: 'Aprovados Lidos',       v: d.feedbacks_aprovados_lidos ?? 0 },
                     { l: 'Planos Gerados',        v: d.planos_gerados ?? 0 },
                     { l: 'Status',                v: d.status ?? '—' }
-                ]}
+                ]},
+                { key: 'questoes', label: 'Gerador de Questões', cron: '02h00 Brasília (Local)', tipo: 'Local', file: 'data/agent_logs/status_questoes.json', cor: '#06B6D4', stats: d => [
+                    { l: 'Total Questões',        v: d.stats?.total_questoes    ?? 0 },
+                    { l: 'Metas Atingidas',       v: d.stats?.com_meta_atingida ?? 0 },
+                    { l: 'Fila',                  v: d.total_na_fila            ?? 0 }
+                ]},
+                { key: 'flashcards', label: 'Gerador de Flashcards', cron: '03h00 Brasília (Local)', tipo: 'Local', file: 'data/agent_logs/status_flashcards.json', cor: '#8B5CF6', stats: d => [
+                    { l: 'Total Flashcards',      v: d.stats?.total_flashcards  ?? 0 },
+                    { l: 'Metas Atingidas',       v: d.stats?.com_meta_atingida ?? 0 },
+                    { l: 'Fila',                  v: d.total_na_fila            ?? 0 }
+                ]},
+                { key: 'padronizador', label: 'Padronizador de Materiais', cron: '04h00 Brasília (Local)', tipo: 'Local', file: 'data/agent_logs/status_padronizador.json', cor: '#F59E0B',
+                  normalize: d => ({ ...d, status: d.status === 'pendente' ? 'warn' : (d.status || 'idle'), rodou_em: d.rodou_em || null }),
+                  stats: d => [
+                    { l: 'Analisados',    v: d.total_analisados ?? 0 },
+                    { l: 'Com Problema',  v: d.com_problema     ?? 0 },
+                    { l: '% OK',          v: d.pct_ok != null ? d.pct_ok.toFixed(1) + '%' : '—' }
+                ]},
+                { key: 'verificador', label: 'Verificador de Categorizações', cron: 'Sob demanda (Local)', tipo: 'Local', file: 'data/agent_logs/status_verificador.json', cor: '#10B981',
+                  normalize: d => ({ ...d, status: d.status || (d.ultima_execucao ? 'ok' : 'idle'), rodou_em: d.rodou_em || d.ultima_execucao || null }),
+                  stats: d => [
+                    { l: 'Questões Verificadas',   v: d.ids_questoes_verificados?.length  ?? 0 },
+                    { l: 'Flashcards Verificados', v: d.ids_flashcards_verificados?.length ?? 0 },
+                    { l: 'Problemas Encontrados',  v: d.total_problemas_encontrados        ?? 0 }
+                ]},
+                { key: 'revisor_materiais', label: 'Revisor de Materiais', cron: 'Sob demanda (Local)', tipo: 'Local', file: 'data/agent_logs/status_revisor_materiais.json', cor: '#EF4444',
+                  normalize: d => ({ ...d, status: d.status || (d.ultima_execucao ? 'ok' : 'idle'), rodou_em: d.rodou_em || d.ultima_execucao || null }),
+                  stats: d => {
+                    const revisoes = Object.values(d.historico_revisoes || {});
+                    return [
+                        { l: 'Materiais Revisados', v: revisoes.length },
+                        { l: 'Última Revisão',       v: revisoes.length ? revisoes[revisoes.length-1]?.aula_id || '—' : '—' },
+                        { l: 'Status',               v: d.status || '—' }
+                    ];
+                  }}
             ];
 
             const statusMap = { ok: ['badge-success','Concluído'], warn: ['badge-warning','Com Avisos'], err: ['badge-error','Erro'], idle: ['badge-primary','Aguardando'] };
@@ -2061,7 +2264,8 @@
             // Agent cards
             let html = '';
             agents.forEach((a, i) => {
-                const d = results[i] || { status: 'idle', rodou_em: null, acoes: [], observacoes: 'Sem dados.' };
+                let d = results[i] || { status: 'idle', rodou_em: null, acoes: [], observacoes: 'Sem dados.' };
+                if (a.normalize) d = a.normalize(d);
                 const [badgeClass, badgeLabel] = statusMap[d.status] || statusMap.idle;
                 const statsHtml = a.stats(d).map(s =>
                     `<div style="background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:8px;padding:10px 14px;flex:1;min-width:100px">

@@ -1,0 +1,19 @@
+{
+  "aula_id": "mad2_a14",
+  "materia": "mad2",
+  "modulo": 3,
+  "tema": "Helmintíases — Nematódeos e Estrongiloidíase",
+  "gerado_em": "04/04/2026 04:00",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}

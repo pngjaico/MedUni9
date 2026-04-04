@@ -169,6 +169,19 @@
       "expira": null,
       "nota": "Lote gerado em 02/04/2026",
       "criadoEm": "2026-04-02T14:02:29.568Z"
+    },
+    "a46a0e0d70bfcbbc09ed498b463be061924d6de1ff4be522ed0e35e9314d6f3b": {
+      "plano": "modulo",
+      "modulosAcesso": [
+        3
+      ],
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": null,
+      "expira": "2027-01-03",
+      "nota": "João teste modulo 3",
+      "criadoEm": "2026-04-04T02:40:15.984Z"
     }
   }
 }

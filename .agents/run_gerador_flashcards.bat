@@ -24,8 +24,8 @@ if errorlevel 1 (
     exit /b 1
 )
 
-REM Passo 2: Claude gera os flashcards
-"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow '.agents/workflows/gerador_flashcards.md'. Leia data/agent_logs/status_flashcards.json e gere 12 flashcards para cada uma das 4 aulas de maior score. Siga o guia em prompts/gerar_flashcards.md. Adicione ao data/flashcards.json sem sobrescrever. Faça git commit ao final." >> ".agents\logs\gerador_flashcards_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
+REM Passo 2: Claude gera os flashcards com lógica de déficit duplo
+"C:\Users\Usuario-pc\AppData\Roaming\npm\claude.cmd" --print "Execute o workflow '.agents/workflows/gerador_flashcards.md'. Use a lógica de déficit duplo: calcule o déficit por matéria (módulos 1-4), selecione a matéria com maior déficit, depois selecione 4-5 aulas dessa matéria com maior déficit de flashcards. Meta: ~50 flashcards (arredonda para completar a aula). Siga o guia em prompts/gerar_flashcards.md. Gere relatório em data/agent_logs/pendentes/ — não modifique data/flashcards.json diretamente." >> ".agents\logs\gerador_flashcards_%date:~6,4%-%date:~3,2%-%date:~0,2%.txt" 2>&1
 
 REM Passo 3: Re-prioriza para confirmar
 python scripts\priorizar_flashcards.py

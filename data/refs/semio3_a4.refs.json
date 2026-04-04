@@ -1,0 +1,19 @@
+{
+  "aula_id": "semio3_a4",
+  "materia": "semiologia3",
+  "modulo": 3,
+  "tema": "Semiologia do Aparelho Reprodutor Masculino",
+  "gerado_em": "04/04/2026 04:00",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}

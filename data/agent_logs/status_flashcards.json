@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "rodou_em": "02/04/2026 23:12",
+  "rodou_em": "04/04/2026 03:00",
   "meta_flashcards_por_aula": 12,
   "stats": {
-    "total_aulas_com_material": 86,
+    "total_aulas_com_material": 270,
     "com_meta_atingida": 0,
-    "sem_nenhum": 86,
+    "sem_nenhum": 270,
     "total_flashcards": 95
   },
-  "total_na_fila": 86,
+  "total_na_fila": 270,
   "fila_prioridade": [
     {
       "aula_id": "sus_a1",
@@ -605,77 +605,77 @@
       "score": 235
     },
     {
-      "aula_id": "mad1_a1",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Funções Básicas e Componentes do Sistema Imune",
+      "aula_id": "pe1_a1",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Organização da Atenção Básica e Território",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a1.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a1.md",
       "score": 235
     },
     {
-      "aula_id": "mad1_a2",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Imunidade Inata",
+      "aula_id": "pe1_a2",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Equipe Multiprofissional e Papel do ACS",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a2.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a2.md",
       "score": 235
     },
     {
-      "aula_id": "mad1_a3",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Imunidade Adaptativa",
+      "aula_id": "pe1_a3",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Roteiro de Apropriação do Território e Primeira Visita",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a3.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a3.md",
       "score": 235
     },
     {
-      "aula_id": "mad1_a4",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Inflamação Aguda e Crônica",
+      "aula_id": "pe1_a4",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Promoção da Saúde — Higiene Bucal e Corporal",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a4.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a4.md",
       "score": 235
     },
     {
-      "aula_id": "mad1_a5",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Hemograma — Interpretação e Nomenclatura",
+      "aula_id": "pe1_a5",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Promoção da Saúde — Alimentação Saudável e Atividade Física",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a5.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a5.md",
       "score": 235
     },
     {
-      "aula_id": "mad1_a6",
-      "materia_id": "mad1",
-      "materia_nome": "Mecanismos de Agressão e Defesa",
-      "modulo": 2,
-      "aula_tema": "Imunização — Tipos de Vacinas",
+      "aula_id": "pe1_a6",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Promoção da Saúde — Tabagismo e Prevenção de Quedas",
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
-      "material_path": "materiais/modulo2/mad1/mad1_a6.md",
+      "material_path": "materiais/modulo1/pe1/pe1_a6.md",
       "score": 235
     }
   ],
   "acoes": [
     {
       "tipo": "info",
-      "hora": "23:12",
-      "texto": "86 aulas na fila | 86 sem nenhum flashcard"
+      "hora": "03:00",
+      "texto": "270 aulas na fila | 270 sem nenhum flashcard"
     }
   ]
 }

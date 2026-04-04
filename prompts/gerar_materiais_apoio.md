@@ -243,6 +243,104 @@ Ducto colédoco
 
 ---
 
+## Instruções por Tipo de Disciplina
+
+### ANATOMIA (BMF1/2/3/4)
+
+**Fonte primária:** Moore — Anatomia Orientada para a Clínica (capítulos = aulas)
+
+**Estrutura esperada:**
+1. Começar sempre com a **lógica topográfica** (por que essa região é importante clinicamente)
+2. Descrever anatomia por **camadas/estruturas relacionadas** — não isoladas
+3. **Sempre conectar** achado anatômico com exame físico (palpação, inspeção, ausculta)
+4. Incluir uma ou duas **variações anatômicas** que caem em prova
+
+**Exemplo de bom começo:**
+> "O abdômen em sua superfície se divide em 9 regiões para localizar dor e massas. Mas clinicamente, o que importa é saber que a linha semi-lunar (borda lateral do reto abdominal) marca o limite entre a inervação segmentar — se você percute e encontra submatidez na região epigástrica, o baço aumentado está palpável lá, não no flanco."
+
+**Dicas inline obrigatórias:**
+- Digite ao menos 1 "Dica de Prova" por seção (ex: referências ósseas que a Uninove adora cobrar)
+- Inclua 1 "Pegadinha" sobre variação anatômica que confunde (ex: "o pâncreas NÃO é totalmente retroperitoneal — a cauda é intraperitoneal")
+
+**Mínimo de conteúdo:** 4–6 seções de anatomia + 1 de variações clínicas
+
+---
+
+### FISIOLOGIA (integrada com BMF)
+
+**Fonte primária:** Guyton & Hall — Tratado de Fisiologia Médica
+
+**Estrutura esperada:**
+1. **Começar pelo estímulo:** "O que ativa esse mecanismo?"
+2. **Descrever a cascata:** hormônio → receptor → segundo mensageiro → efeito
+3. **Incluir feedback:** como o sistema se auto-regula?
+4. **Terminar com deafferentation:** "o que acontece se isso falhar?"
+
+**Exemplo de bom começo:**
+> "A pressão arterial é o 'vilão' que a Uninove adora cobrar porque é dinâmica — muda a cada batida, a cada respiração. O barorreceptor (no seio carotídeo) é um mecanoreceptor que sente estiramento — quanto mais pressão, mais dispara. Esse sinal vai para o tronco encefálico (núcleo do trato solitário, bulbo), que diminui o simpático e aumenta o vagal, reduzindo frequência e contratilidade. Se você remove o barorreceptor cirurgicamente, a pressão sai da rédea — hipertensão crônica de desenfreio."
+
+**Mínimo de conteúdo:** 3–5 seções mecanísticas + feedback + patologia
+
+---
+
+### SEMIOLOGIA (SEMIO1/2/3/4)
+
+**Fonte primária:** Porto — Semiologia Médica (cap. por sistema — use em paralelo com tema da aula)
+
+**Regra de ouro:** Semiologia NÃO é anatomia nem fisiologia — é o **raciocínio clínico sequencial**:
+1. **Anamnese dirigida** (que perguntas fazer?)
+2. **Exame físico** (qual manobra? como interpretar?)
+3. **Diagnóstico diferencial** (que achado discrimina?)
+
+**Estrutura obrigatória:**
+- Começa com um caso clínico REAL de 3–4 linhas (ex: "Paciente 62a com HAS, vem com "dor no ombro". Você pergunta: piora respirando? Irradia para nuca? Piora com movimento? Porque essas respostas discriminam angina de cervicalgia")
+- Depois desenvolve o exame em etapas com ballroom: "primeiro você palpará X, depois ausculta Y, depois a manobra Z"
+- Inclui 2–3 síndromes clássicas que acompanham esse achado
+
+**Dicas inline obrigatórias:**
+- Mínimo 1 "Pegadinha" por seção sobre erro diagnóstico comum (ex: "muitos confundem hepatomegalia com esplenomegalia porque ambas são infra-costal — mas baço é medial e posterior; fígado é lateral e anterior")
+- Mínimo 1 "Dica de Prova" sobre qual achado é patognomônico
+
+**Tabelas:** OBRIGATÓRIAS para diferencial (ex: comparar 4 causas de sopro sistólico, com localização, irradiação, qualidade)
+
+**Mínimo de conteúdo:** 1 caso clínico + 4–5 seções de técnica + 2 diferenciações
+
+---
+
+### EPIDEMIOLOGIA / SAÚDE COLETIVA (SUS, INDICADORES, MAD1 preventiva)
+
+**Fonte primária:** Documentos do Min. da Saúde (DATASUS), Starfield — Atenção Primária; Abbas para epidemiologia de doenças
+
+**Estrutura esperada:**
+1. **Começar com a relevância em números** ("No Brasil, 500 mil casos de TB por ano; incidência 45/100 mil")
+2. **Cadeia epidemiológica:** agente → porta de entrada → porta de saída → hospedeiro novo
+3. **Estratégias de quebra:** qual nível de prevenção intervém onde?
+4. **Indicadores:** prevalência vs incidência, taxa de mortalidade, AVAI, DALY
+
+**Exemplo de bom começo:**
+> "Tuberculose mata 1 pessoa a cada 15 segundos no mundo. No Brasil, TB é infecção oportunista mais comum em HIV. A cadeia é direta: paciente tosse → droplet → próximo inala → aguarda 3 semanas para PCR/cultura virar positivo. A quebra acontece em 3 níveis: primária (BCG = evita disseminação generalizada), secundária (diagnóstico + isolamento respiratório), terciária (TARV em coinfectados). O professor Uninove vai cobrar qual? Os indicadores que discriminam: incidência (novos casos ano), prevalência (total de casos em um momento), taxa de detecção (como a gente encontra os casos perdidos)."
+
+**Mínimo de conteúdo:** números de impacto + cadeia epidemiológica + prevenção em 3 níveis + indicadores
+
+---
+
+### FARMACOLOGIA (FF1/2/3/4)
+
+**Fonte primária:** Goodman & Gilman; Rang & Dale
+
+**Estrutura esperada:**
+1. **Mecanismo de ação ANTES de classificação** (por que funciona, não o que é)
+2. **Farmacocinética:** absorção → distribuição → metabolismo → eliminação (e como a Uninove cobra isso)
+3. **Efeitos adversos:** não é lista — é sequência do mecanismo (ex: bloqueador beta causa bradicardia porque inibe beta-1 cardíaco)
+4. **Interações:** qual fármaco compete? qual inibe CYP? 
+
+**Exemplo de bom começo:**
+> "Lisinopril é um inibidor da enzima conversora de angiotensina (ACE). A angiotensina II é vasoconstritora potente que aumenta aldosterona — reduz sódio nos rins. Quando você bloqueia essa enzima, você reduz AII, vasodilatação acontece, e sódio é retido (hiperkalemia em meses). A tosse seca vem de acúmulo de bradicinina. A Uninove não cobra só 'Lisinopril reduz PA' — ela cobra: qual é o risco em paciente com IRC grade 4? (Resp: hiperpotassemia brutal, risco de parada cardíaca). Qual contraindicação? (Resp: gravidez — cause malformação renal fetal no 2º trimestre)."
+
+**Mínimo de conteúdo:** mecanismo + farmacocinética + 3–4 efeitos adversos ligados ao mecanismo + interações
+
+---
+
 ## Regras de estilo (obrigatórias)
 
 1. **Prosa narrativa é o padrão** — escreva parágrafos densos que explicam o raciocínio. Bullets e checklists são exceção, não regra.
@@ -255,7 +353,8 @@ Ducto colédoco
 8. **Negrito** nos termos técnicos na primeira aparição e nos valores/critérios cobrados em prova.
 9. Sem menção a "banca" — use sempre "a Uninove" ou "os professores".
 10. Tempo de estudo fixo: "10-15 min" — não altere.
-11. O **Pré-Prova é síntese pura** — nenhum conteúdo novo. Apenas o que foi estabelecido no corpo do material, destilado.
+11. O **Pré-Prova é síntese dos principais pontos da aula** — nenhum conteúdo novo. Apenas o que foi explicado com mais detalhe no corpo do material.
+12. **Tamanho intermediário por aula** — evitar material curto demais e evitar verbosidade artificial. Faixa recomendada: **120–220 linhas**, com profundidade real e sem blocos repetitivos.
 
 ---
 
@@ -281,7 +380,7 @@ Ducto colédoco
 
 Gere na seguinte ordem:
 
-1. `bmf1` — todas as aulas (Anatomia Módulo 1) — **bmf1_a1 já existe, pule**
+1. `bmf1` — todas as aulas (Anatomia Módulo 1) — 
 2. `sus` — todas as aulas (Políticas de Saúde)
 3. `pmh` — todas as aulas (Bioquímica)
 4. `bcm1` — todas as aulas (Biologia Celular)
@@ -294,7 +393,7 @@ Gere na seguinte ordem:
 
 ## Exemplo de arquivo já pronto (referência)
 
-`data/materiais/bmf1/bmf1_a1.md` — leia antes de começar para calibrar o nível esperado.
+`data/materiais/bmf1/bmf3_a3.md` — leia antes de começar para calibrar o nível esperado.
 
 ---
 
@@ -309,20 +408,102 @@ npx -y firebase-tools@latest deploy --only hosting
 
 ---
 
-## Checklist de entrega por arquivo
+## Checklist de Entrega por Arquivo
 
-Antes de salvar, confirme:
+### Para TODA aula (independente do tipo)
+
 - [ ] Nome do arquivo = `<aula_id>.md` (ex: `bmf1_a2.md`)
-- [ ] Pasta correta: `data/materiais/<materia_id>/` **e** `materiais/modulo<N>/<materia_id>/`
-- [ ] O corpo do material é prosa narrativa — parágrafos densos, não listas de bullets
-- [ ] Seção "Relevância Clínica e Acadêmica" presente (2 parágrafos de prosa, sem lista)
-- [ ] Dicas de Prova e Pegadinhas **inline** no texto (blockquote `>`), não em seção separada
-- [ ] Tabelas apenas onde há comparação real com 3+ entidades e múltiplos atributos
-- [ ] Nenhuma seção existe apenas para cumprir template — cada seção tem conteúdo real
-- [ ] Seção "Pontos-Chave para Prova" com 6–10 bullets negritados
-- [ ] Seção "Pré-Prova" com bloco callout, 8–12 bullets, tabela de diferenciações (mín. 4 linhas) e frase-âncora
-- [ ] Sem menção a "banca"
-- [ ] Encoding UTF-8 sem BOM (método `[System.IO.File]::WriteAllText` com `New-Object System.Text.UTF8Encoding $false`)
-- [ ] Tabelas sem linhas em branco entre as linhas `|...|`
+- [ ] Pasta correta: `data/materiais/<materia_id>/` **E** `materiais/modulo<N>/<materia_id>/`
+- [ ] **Faixa intermediária (120–220 linhas)** — conteúdo suficiente para profundidade, sem alongamento artificial
+- [ ] Seção "Relevância Clínica e Acadêmica" com 2 parágrafos de PROSA (não lista)
+- [ ] Corpo do material é **prosa narrativa** — parágrafos explicam raciocínio, não bullets
+- [ ] Títulos de seção descrevem conteúdo específico (não genéricos: "Anatomia" → "Organização do Abdômen em 9 Regiões")
+- [ ] Dicas de Prova e Pegadinhas **inline** (blockquote `>`) no meio do texto, não em seção separada
+  - N de "Dica de Prova": mínimo 2, máximo 5 por aula
+  - N de "Pegadinha": mínimo 1–2 por aula
+- [ ] Tabelas **apenas para comparação real** de 3+ itens (diferencial diagnóstico, classificações)
+  - Sem linhas em branco entre linhas `|...|`
+  - Mínimo 4 linhas de dados
+- [ ] Seção "Pontos-Chave para Prova": 6–10 bullets com termo em negrito + frase definitiva (1 linha)
+- [ ] Seção "Pré-Prova" com 3 subseções:
+  - "O que você PRECISA saber": 6–10 bullets com os principais pontos da aula (já detalhados no corpo)
+  - "Diferenciações que a Uninove adora cobrar": tabela com 4–6 linhas de pares confundíveis
+  - "Frase-âncora para não esquecer": 1 frase memorável (rima, mnemônico, analogia)
+- [ ] Negrito em termos técnicos na 1ª aparição + em valores de corte (ex: "Hemoglobina < 12 g/dL")
+- [ ] Sem menção a "banca" — sempre "a Uninove" ou "os professores"
+- [ ] Encoding UTF-8 sem BOM (PowerShell: `[System.IO.File]::WriteAllText(..., $utf8NoBom)`)
+- [ ] Sem erros de português — acentuação completa obrigatória
+
+---
+
+### Para ANATOMIA (BMF)
+
+- [ ] Começa com **por que essa estrutura é clinicamente importante**
+- [ ] Organiza por **topografia lógica** ou **camadas** (não isolada)
+- [ ] Inclui **pelo menos 1 achado que correlaciona com exame físico** (palpação, inspeção, ausculta)
+- [ ] Menciona **1–2 variações anatômicas** que confundem em questão
+- [ ] Inclui ao menos 1 "Pegadinha" sobre uma variação comum
+- [ ] Se houver estruturas relacionadas, diferencia-as em tabela (ex: "músculos do compartimento anterior vs. posterior da coxa")
+
+---
+
+### Para FISIOLOGIA
+
+- [ ] Começa explicando o **estímulo inicial** ("O que dispara esse mecanismo?")
+- [ ] Descreve a **cascata fisiológica** (passo a passo: receptor → sinal → efetor → resposta)
+- [ ] Inclui **feedback** (como o corpo se autocontrola?)
+- [ ] Termina com **o que acontece quando falha** (patologia/descompensação)
+- [ ] Inclui valores numéricos com padrão normal (ex: "PA normal 120/80 mmHg")
+- [ ] Mínimo 1 "Dica de Prova" sobre mecanismo cobrado a cada aula
+
+---
+
+### Para SEMIOLOGIA
+
+- [ ] Começa com **1 caso clínico real** (2–3 linhas de apresentação)
+- [ ] Anamnese: apresenta as **perguntas estratégicas** que discriminam diagnósticos
+- [ ] Exame físico: descreve **passo a passo** (qual manobra? como executar? como interpretar?)
+- [ ] Inclui **2–3 síndromes clássicas** que acompanham esse achado
+- [ ] Mínimo 2–3 "Pegadinhas" sobre erros diagnósticos comuns
+- [ ] Tabela obrigatória para **diferencial de causas** (ex: sopros sistólicos ou causas de icterícia)
+- [ ] Inclui valores quantitativos (ex: "hepatomegalia = fígado > 2 cm abaixo do rebordo espinostal")
+
+---
+
+### Para FARMACOLOGIA (FF)
+
+- [ ] Começa com **mecanismo de ação** (por que funciona?)
+- [ ] Depois classificação e fármacos que pertencem a ela
+- [ ] Descreve **farmacocinética:** absorção, distribuição, metabolismo, eliminação
+- [ ] Lista **3–4 efeitos adversos ligados ao mecanismo** (não lista neutra — explica POR QUE)
+- [ ] Inclui **interações** (qual fármaco compete? qual inibe CYP?)
+- [ ] Mínimo 1–2 contraindicações com População especial (gestante, IRC, idoso)
+- [ ] Tabela Compare 3+ fármacos da classe com mecanismo, via, meia-vida
+
+---
+
+### Para EPIDEMIOLOGIA / SAÚDE COLETIVA
+
+- [ ] Começa com **números de impacto** (incidência, mortalidade, DALY no Brasil)
+- [ ] Descreve a **cadeia epidemiológica:** agente → porta entrada → transmissão → porta saída → novo hospedeiro
+- [ ] Explica **3 níveis de prevenção** e qual intervém onde
+- [ ] Define indicadores usados (prevalência, incidência, taxa detecção, AVAI)
+- [ ] Inclui medidas de controle: vacina, quarentena, tratamento, monitoramento
+- [ ] Se microbiologia integrada: menciona agente etiológico e patogênese básica
+
+---
+
+### Validação de Profundidade — ANTES de salvar
+
+Faça essas perguntas para cada seção:
+
+1. **"Se um colega de menor ano ler isso, vai entender a lógica?"** (se não, precisa mais prosa explicação)
+2. **"Tem pelo menos 1 "Dica de Prova"?"** (se não, onde está o conteúdo cobrado?)
+3. **"Tem 1 "Pegadinha"?"** (se não, onde está o erro clássico?)
+4. **"Tem valor de corte / número / critério?"** (se não, como o estudante memoriza?)
+5. **"Essa tabela substitui um parágrafo?"** (se sim, delete — transforme em prosa)
+6. **"Tem 4+ linhas?"** (se não, seção está fraca — expande)
+
+Se a resposta for "não" para qualquer delas, **revise antes de salvar**.
 
 
