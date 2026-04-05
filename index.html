@@ -3,7 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#00C896">
+  <meta name="theme-color" content="#00B4D8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="description" content="MedGradPlus — Plataforma de estudos para estudantes de medicina">
   <title>MedGradPlus</title>
   <link rel="manifest" href="manifest.json">
@@ -22,9 +24,17 @@
       user-select: none;
     }
 
+    html {
+      background-color: var(--bg-dark, #181C27);
+      height: 100%;
+    }
+
     html, body {
       width: 100%;
       height: 100%;
+      min-height: 100vh;
+      min-height: 100dvh;
+      min-height: -webkit-fill-available;
       font-family: 'DM Sans', sans-serif;
       background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       background-attachment: fixed;
@@ -36,8 +46,15 @@
     #root {
       width: 100%;
       height: 100%;
+      min-height: 0;
       display: flex;
       flex-direction: column;
+      overflow: hidden;
+      padding-top: env(safe-area-inset-top, 0px);
+      padding-right: env(safe-area-inset-right, 0px);
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+      padding-left: env(safe-area-inset-left, 0px);
+      box-sizing: border-box;
     }
 
     /* Typography */
@@ -98,6 +115,7 @@
 
     /* ── Light Theme ───────────────────────────────────── */
     html[data-theme="light"] {
+      background-color: var(--bg-dark, #F1F5F9);
       --bg-body: linear-gradient(135deg, #EFF6FF 0%, #F1F5F9 50%, #E2EAF4 100%);
       --bg-dark: #F1F5F9;
       --bg-sidebar: rgba(255, 255, 255, 0.97);
@@ -233,22 +251,43 @@
     /* Main Container */
     .app-container {
       flex: 1;
+      min-height: 0;
       display: flex;
       flex-direction: column;
       width: 100%;
       max-width: 430px;
       margin: 0 auto;
-      height: 100vh;
       background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       position: relative;
       transition: background 0.3s ease;
     }
 
+    /* Rota pública Sobre (#about-public): largura total no desktop — sem max-width 430px */
+    .about-public-shell {
+      flex: 1;
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      max-width: none;
+      margin: 0;
+      overflow: hidden;
+      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      position: relative;
+      transition: background 0.3s ease;
+    }
+
+    html[data-theme="light"] .about-public-shell {
+      background: var(--bg-body) !important;
+    }
+
     /* Desktop layout wrapper */
     .desktop-layout {
       display: flex;
+      flex: 1;
+      min-height: 0;
       width: 100%;
-      height: 100vh;
+      overflow: hidden;
       background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       transition: background 0.3s ease;
     }
@@ -259,6 +298,7 @@
       height: 100%;
       flex: 1;
       min-width: 0;
+      min-height: 0;
     }
 
     /* Desktop Sidebar */
@@ -340,6 +380,7 @@
 
     .screen-content {
       flex: 1;
+      min-height: 0;
       overflow-y: auto;
       overflow-x: hidden;
       padding: 20px 16px 100px 16px;
@@ -531,6 +572,9 @@
       flex-direction: column;
       align-items: center;
       justify-content: center;
+      flex: 1;
+      min-height: 0;
+      width: 100%;
       height: 100%;
       background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
       gap: 20px;
@@ -584,8 +628,10 @@
     /* ── Auth Full-Screen Layout ─────────────────────────────── */
     .auth-page {
       display: flex;
+      flex: 1;
+      min-height: 0;
       width: 100%;
-      height: 100vh;
+      height: 100%;
       overflow: hidden;
       background: linear-gradient(135deg, #080f1e 0%, #0a1628 50%, #0c1f38 100%);
     }
@@ -831,59 +877,29 @@
       color: #0f172a;
     }
 
-    .auth-free-hero-btn {
-      width: 100%;
-      display: flex;
-      flex-direction: column;
+    .auth-free-compact-btn {
+      display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 4px;
-      padding: 18px 20px 16px;
-      margin-bottom: 8px;
+      gap: 6px;
+      padding: 8px 14px;
       border: none;
-      border-radius: 16px;
+      border-radius: 8px;
       cursor: pointer;
       font-family: 'Outfit', sans-serif;
-      background: linear-gradient(145deg, #00E5B0 0%, #00C896 40%, #08916C 100%);
-      color: #0b1220;
-      box-shadow: 0 8px 32px rgba(0, 200, 150, 0.45), 0 0 0 1px rgba(255,255,255,0.12) inset;
-      transition: transform 0.15s ease, box-shadow 0.15s ease;
-      animation: authFreePulse 2.8s ease-in-out infinite;
-    }
-    .auth-free-hero-btn:hover:not(:disabled) {
-      transform: translateY(-2px);
-      box-shadow: 0 12px 40px rgba(0, 200, 150, 0.55), 0 0 0 1px rgba(255,255,255,0.18) inset;
-    }
-    .auth-free-hero-btn:disabled {
-      opacity: 0.65;
-      cursor: not-allowed;
-      animation: none;
-    }
-    @keyframes authFreePulse {
-      0%, 100% { box-shadow: 0 8px 32px rgba(0, 200, 150, 0.45), 0 0 0 1px rgba(255,255,255,0.12) inset; }
-      50% { box-shadow: 0 10px 44px rgba(0, 230, 170, 0.6), 0 0 0 1px rgba(255,255,255,0.2) inset; }
-    }
-    .auth-free-hero-badge {
-      font-size: 10px;
-      font-weight: 800;
-      letter-spacing: 0.14em;
-      text-transform: uppercase;
-      color: rgba(15, 18, 32, 0.75);
-      background: rgba(255,255,255,0.35);
-      padding: 4px 10px;
-      border-radius: 999px;
-    }
-    .auth-free-hero-title {
-      font-size: 1.15rem;
-      font-weight: 800;
-      letter-spacing: -0.02em;
-    }
-    .auth-free-hero-sub {
       font-size: 12px;
-      font-weight: 600;
-      color: rgba(15, 24, 40, 0.82);
-      max-width: 280px;
-      line-height: 1.35;
+      font-weight: 700;
+      background: linear-gradient(135deg, #00C896, #059669);
+      color: #0f172a;
+      box-shadow: 0 2px 10px rgba(0, 200, 150, 0.28);
+      transition: background 0.15s ease, box-shadow 0.15s ease;
+    }
+    .auth-free-compact-btn:hover:not(:disabled) {
+      box-shadow: 0 3px 12px rgba(0, 200, 150, 0.38);
+    }
+    .auth-free-compact-btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
     }
 
     /* Free access divider */
@@ -3068,11 +3084,11 @@
 
     /* ── About/Sobre screen animations ───────────────── */
     @keyframes aboutFadeUp {
-      from { opacity: 0; transform: translateY(30px); }
-      to   { opacity: 1; transform: translateY(0); }
+      from { opacity: 0; transform: translate3d(0, 20px, 0); }
+      to   { opacity: 1; transform: translate3d(0, 0, 0); }
     }
     @keyframes aboutScaleIn {
-      from { opacity: 0; transform: scale(0.85); }
+      from { opacity: 0; transform: scale(0.92); }
       to   { opacity: 1; transform: scale(1); }
     }
     @keyframes aboutPulse {
@@ -3899,12 +3915,13 @@
       </svg>
     );
 
-    /* Anatomy system icons — SVG replacements for emoji */
+    /* Anatomy system icons — revisão (stroke alinhado ao atlas) */
     const IconSysLocomotor = () => (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
-        <line x1="7.5" y1="7.5" x2="16.5" y2="16.5"/>
-        <circle cx="5.5" cy="5.5" r="2.8"/>
-        <circle cx="18.5" cy="18.5" r="2.8"/>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M8 18c-1.5-2-1-5 1.5-6.5S14 9 15 6.5 13.5 3 11 3 7 4.5 7.5 7c.3 1.2 1 2.2 2 3"/>
+        <path d="M16 6c1.5 2 1 5-1.5 6.5S10 15 9 17.5s1.5 3.5 4 3.5 4-1.5 3.5-4c-.3-1.2-1-2.2-2-3"/>
+        <circle cx="6" cy="19" r="2.2"/>
+        <circle cx="18" cy="5" r="2.2"/>
       </svg>
     );
     const IconSysCardio = () => (
@@ -3933,8 +3950,10 @@
       </svg>
     );
     const IconSysUrinary = () => (
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
-        <path d="M12 2L5 12Q5 20 12 20Q19 20 19 12L12 2"/>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M9 3c-3 0-5 2.5-5 6 0 4 2.5 7 5 8 2.5-1 5-4 5-8 0-3.5-2-6-5-6z"/>
+        <path d="M9 9c0 2 1.5 3.5 3 4"/>
+        <ellipse cx="16" cy="16" rx="2.5" ry="4" transform="rotate(-25 16 16)"/>
       </svg>
     );
     const IconSysEndoc = () => (
@@ -4270,12 +4289,16 @@
       return normalized.includes(modulo);
     }
 
-    /** Demo do plano gratuito: uma aula completa + flashcards e questões só desta aula (BMF1 mód. 1). */
+    /** Demo do plano gratuito: uma aula completa + flashcards e questões só desta aula. */
     const FREE_TIER_DEMO = Object.freeze({
       materiaId: 'bmf1',
       aulaId: 'bmf1_a5',
       label: 'Tecido Ósseo — Estrutura e Ossificação',
     });
+
+    /** Atlas visual no plano gratuito: só Sistema esquelético › Cabeça. */
+    const ATLAS_GRATUITO_SISTEMA_ID = 'sistema_esqueletico';
+    const ATLAS_GRATUITO_DIVISAO_ID = 'sistema_esqueletico_cabeca';
 
     function isFreeTierUser(profile) {
       if (!profile) return false;
@@ -4399,6 +4422,8 @@
           deviceId: normalized.deviceId || '',
           deviceIds: Array.isArray(normalized.deviceIds) ? normalized.deviceIds.filter(Boolean).slice(-5) : [],
           maxDispositivos: Number(normalized.maxDispositivos || 2),
+          accessSource: normalized.accessSource || '',
+          emailGrantId: normalized.emailGrantId || '',
           criadoEm: normalized.criadoEm || new Date().toISOString(),
           loginDate: normalized.loginDate || new Date().toISOString(),
           lastSeenAt: normalized.lastSeenAt || normalized.loginDate || new Date().toISOString(),
@@ -4424,6 +4449,77 @@
       } catch {}
 
       return decodeProfileMarker(fbUser);
+    }
+
+    const EMAIL_ACCESS_COLLECTION = 'email_access';
+
+    function normalizeAuthEmail(email) {
+      return String(email || '').trim().toLowerCase();
+    }
+
+    function isEmailGrantValid(grant) {
+      if (!grant || grant.ativo === false) return false;
+      if (grant.expira) {
+        const exp = new Date(grant.expira);
+        if (Number.isNaN(+exp)) return false;
+        const end = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 23, 59, 59, 999);
+        if (new Date() > end) return false;
+      }
+      return true;
+    }
+
+    async function loadEmailAccessGrant(email) {
+      const norm = normalizeAuthEmail(email);
+      if (!norm || !window.__fbFirestore || !window.__fbDb) return null;
+      try {
+        const { doc, getDoc } = window.__fbFirestore;
+        const snap = await getDoc(doc(window.__fbDb, EMAIL_ACCESS_COLLECTION, norm));
+        if (!snap.exists()) return null;
+        return { id: norm, ...snap.data() };
+      } catch {
+        return null;
+      }
+    }
+
+    async function syncProfileAccessFromEmailGrant(fbUser, profile) {
+      if (!profile || !fbUser?.email) return profile;
+      try {
+        const grant = await loadEmailAccessGrant(fbUser.email);
+        if (!grant || !isEmailGrantValid(grant)) return profile;
+
+        const incomingModules = resolveModulesFromCodeEntry(grant);
+        const currentModules = normalizeModulesAccess(profile.modulosAcesso);
+        const incomingPlan = grant.plano || profile.plano || 'basico';
+        const incomingMax = Number(grant.maxDispositivos || profile.maxDispositivos || 2);
+        const normalizedPlan = String(incomingPlan || '').toLowerCase();
+        const safeIncomingModules = (normalizedPlan === 'modulo' && !incomingModules)
+          ? (currentModules || null)
+          : incomingModules;
+
+        const merged = normalizeUserProfile({
+          ...profile,
+          plano: incomingPlan,
+          modulosAcesso: safeIncomingModules,
+          maxDispositivos: incomingMax,
+          accessSource: 'email_invite',
+          emailGrantId: grant.id || normalizeAuthEmail(fbUser.email),
+        });
+
+        const modulesChanged = JSON.stringify(merged.modulosAcesso || null) !== JSON.stringify(currentModules || null);
+        const planChanged = incomingPlan !== (profile.plano || 'basico');
+        const maxChanged = incomingMax !== Number(profile.maxDispositivos || 2);
+        const sourceChanged = (profile.accessSource || '') !== 'email_invite';
+
+        if (!modulesChanged && !planChanged && !maxChanged && !sourceChanged) return profile;
+
+        try {
+          await saveUserProfile(fbUser, buildSessionTrackedProfile(merged), { merge: true });
+        } catch {}
+
+        return merged;
+      } catch {
+        return profile;
+      }
     }
 
     async function syncProfileAccessFromCodeEntry(fbUser, profile) {
@@ -4587,13 +4683,36 @@
       const [showForgot, setShowForgot] = useState(false);
       const [forgotEmail, setForgotEmail] = useState('');
       const [forgotSent, setForgotSent] = useState(false);
+      const [registerPath, setRegisterPath] = useState('code'); // 'code' | 'email'
+      const [emailInviteGrant, setEmailInviteGrant] = useState(null);
       const ambassadorKeyDetected = String(validatedCode?.tipo || '').toLowerCase() === 'embaixador';
+      const resolvedEmailModules = emailInviteGrant ? resolveModulesFromCodeEntry(emailInviteGrant) : null;
+      const keyModulesFromCode = validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : null;
       const allowedSemesters = ambassadorKeyDetected
         ? getAmbassadorModules()
-        : (validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : getAmbassadorModules());
+        : (keyModulesFromCode || resolvedEmailModules || getAmbassadorModules());
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
+      }, []);
+
+      useEffect(() => {
+        let cancelled = false;
+        (async () => {
+          const u = window.__fbAuth?.currentUser;
+          if (!u?.email) return;
+          const p = await loadUserProfile(u);
+          if (p) return;
+          const grant = await loadEmailAccessGrant(u.email);
+          if (cancelled || !grant || !isEmailGrantValid(grant)) return;
+          setRegFirebaseUser(u);
+          setEmailInviteGrant(grant);
+          setRegisterPath('email');
+          setEmail(u.email || '');
+          setMode('register');
+          setStep(3);
+        })();
+        return () => { cancelled = true; };
       }, []);
 
       useEffect(() => {
@@ -4612,9 +4731,21 @@
       const beginCodeActivation = (fbUser, message) => {
         setRegFirebaseUser(fbUser || null);
         setEmail(fbUser?.email || '');
+        setRegisterPath('code');
+        setEmailInviteGrant(null);
         setMode('register');
         setStep(1);
         setError(message || 'Ative seu código para concluir o acesso.');
+      };
+
+      const beginEmailInviteCompletion = (fbUser, grant) => {
+        setRegFirebaseUser(fbUser || null);
+        setEmailInviteGrant(grant || null);
+        setRegisterPath('email');
+        setEmail(fbUser?.email || '');
+        setMode('register');
+        setStep(3);
+        setError('');
       };
 
       // ── code change handler ────────────────────────────────────────────────
@@ -4696,6 +4827,7 @@
           setCouponCode('');
           setCouponValid(null);
           setValidatedCode({ hash: codeHash, ...codeEntry, modulosAcesso: keyModules });
+          setRegisterPath('code');
           if (currentFbUser) {
             setRegFirebaseUser(currentFbUser);
             if (currentFbUser.email) setEmail(currentFbUser.email);
@@ -4718,9 +4850,22 @@
         if (password !== confirmPassword) { setError('As senhas não coincidem'); return; }
         setLoading(true);
         try {
-          const { createUserWithEmailAndPassword, signInWithEmailAndPassword } = window.__fbAuthFns;
+          const { createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut: fbSignOut } = window.__fbAuthFns;
           const cred = await createUserWithEmailAndPassword(window.__fbAuth, email, password);
           setRegFirebaseUser(cred.user);
+          if (registerPath === 'email') {
+            const grant = await loadEmailAccessGrant(cred.user.email);
+            if (!grant || !isEmailGrantValid(grant)) {
+              setLoading(false);
+              setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
+              try { await fbSignOut(window.__fbAuth); } catch {}
+              return;
+            }
+            setEmailInviteGrant(grant);
+            setLoading(false);
+            setStep(3);
+            return;
+          }
           setLoading(false);
           setStep(3);
         } catch (err) {
@@ -4728,6 +4873,16 @@
             try {
               const cred = await signInWithEmailAndPassword(window.__fbAuth, email, password);
               setRegFirebaseUser(cred.user);
+              if (registerPath === 'email') {
+                const grant = await loadEmailAccessGrant(cred.user.email);
+                if (!grant || !isEmailGrantValid(grant)) {
+                  setLoading(false);
+                  setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
+                  try { await window.__fbAuthFns.signOut(window.__fbAuth); } catch {}
+                  return;
+                }
+                setEmailInviteGrant(grant);
+              }
               setLoading(false);
               setStep(3);
               return;
@@ -4752,10 +4907,20 @@
         setError('');
         setLoading(true);
         try {
-          const { signInWithPopup } = window.__fbAuthFns;
+          const { signInWithPopup, signOut: fbSignOut } = window.__fbAuthFns;
           const cred = await signInWithPopup(window.__fbAuth, window.__fbGoogleProvider);
           const existing = await loadUserProfile(cred.user);
           if (existing) { setLoading(false); applyProfile(existing); return; }
+          if (registerPath === 'email') {
+            const grant = await loadEmailAccessGrant(cred.user.email);
+            if (!grant || !isEmailGrantValid(grant)) {
+              setLoading(false);
+              setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
+              try { await fbSignOut(window.__fbAuth); } catch {}
+              return;
+            }
+            setEmailInviteGrant(grant);
+          }
           setRegFirebaseUser(cred.user);
           setEmail(cred.user.email || '');
           setLoading(false);
@@ -4800,28 +4965,45 @@
 
         const isAmbassador = isAmbassadorKey && couponValid === true;
         const ambassadorModules = getAmbassadorModules();
-        const keyModules = validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : null;
+        const keyModules = isAmbassador
+          ? ambassadorModules
+          : (validatedCode?.modulosAcesso?.length
+              ? validatedCode.modulosAcesso
+              : (emailInviteGrant ? resolveModulesFromCodeEntry(emailInviteGrant) : null));
+        const fromEmailInvite = !!(emailInviteGrant && !validatedCode?.hash);
+        if (fromEmailInvite) {
+          const kmCheck = resolveModulesFromCodeEntry(emailInviteGrant);
+          if (String(emailInviteGrant.plano || '').toLowerCase() === 'modulo' && !kmCheck) {
+            setError('Configuração do convite incompleta. Contate o suporte.');
+            return;
+          }
+        }
+
         if (!isAmbassador && keyModules && !keyModules.includes(semester)) {
-          setError('Este código não libera o módulo selecionado.');
+          setError('Este código ou convite não libera o módulo selecionado.');
           return;
         }
         setLoading(true);
         try {
           const fbUser = regFirebaseUser || window.__fbAuth?.currentUser;
           if (!fbUser) { setError('Sessão expirada. Reinicie o cadastro.'); setLoading(false); return; }
+          const planFromInvite = emailInviteGrant?.plano || 'basico';
+          const maxFromInvite = emailInviteGrant?.maxDispositivos || 2;
           const profile = {
             uid:       fbUser.uid,
             email:     fbUser.email || email,
-            plano:     validatedCode?.plano   || 'basico',
+            plano:     validatedCode?.plano || planFromInvite || 'basico',
             semestre:  semester,
             modulo:    semester,
             modulosAcesso: isAmbassador ? ambassadorModules : keyModules,
             faculdadeId: facultyId,
             campusId: campusId,
             codeHash:  validatedCode?.hash || '',
+            accessSource: fromEmailInvite ? 'email_invite' : '',
+            emailGrantId: fromEmailInvite ? (emailInviteGrant?.id || normalizeAuthEmail(fbUser.email)) : '',
             deviceId:  fingerprint,
             deviceIds: fingerprint ? [fingerprint] : [],
-            maxDispositivos: validatedCode?.maxDispositivos || 2,
+            maxDispositivos: validatedCode?.maxDispositivos || maxFromInvite || 2,
             couponCode: couponCode || null,
             couponLinkedAt: couponCode ? new Date().toISOString() : null,
             ambassadorVitalicio: isAmbassador,
@@ -4857,6 +5039,11 @@
           const profile = await loadUserProfile(cred.user);
           setLoading(false);
           if (!profile) {
+            const grant = await loadEmailAccessGrant(cred.user.email);
+            if (grant && isEmailGrantValid(grant)) {
+              beginEmailInviteCompletion(cred.user, grant);
+              return;
+            }
             beginCodeActivation(cred.user, 'Conta encontrada, mas perfil incompleto. Ative seu código para concluir o acesso.');
             return;
           }
@@ -4884,6 +5071,11 @@
           const profile = await loadUserProfile(cred.user);
           setLoading(false);
           if (!profile) {
+            const grant = await loadEmailAccessGrant(cred.user.email);
+            if (grant && isEmailGrantValid(grant)) {
+              beginEmailInviteCompletion(cred.user, grant);
+              return;
+            }
             beginCodeActivation(cred.user, 'Conta Google encontrada, mas sem cadastro. Ative seu código para continuar.');
             return;
           }
@@ -5051,13 +5243,7 @@
               {!showForgot && mode === 'login' && (
                 <div>
                   <h2 style={{ fontSize: '20px', marginBottom: '4px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Bem-vindo de volta</h2>
-                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '18px' }}>Experimente sem cadastro ou entre com sua conta</p>
-                  <button type="button" className="auth-free-hero-btn" onClick={handleFreeAccess} disabled={loading} aria-label="Experimentar a plataforma gratuitamente">
-                    <span className="auth-free-hero-badge">Amostra grátis</span>
-                    <span className="auth-free-hero-title">Experimentar a plataforma agora</span>
-                    <span className="auth-free-hero-sub">1 aula completa + flashcards e questões da mesma aula · sem cadastro</span>
-                  </button>
-                  <div className="free-access-divider" style={{ marginTop: '10px', marginBottom: '18px' }}><span>ou entre com sua conta</span></div>
+                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Entre com sua conta para continuar</p>
                   {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                   <input className="form-input" type="email" placeholder="Email" value={email}
                     onChange={e => { setEmail(e.target.value); setError(''); }} style={{ marginBottom: '10px' }} />
@@ -5087,10 +5273,13 @@
                   </button>
                   <div style={{ marginTop: '16px', padding: '12px 14px', borderRadius: '12px', background: 'rgba(0,200,150,0.06)', border: '1px solid rgba(0,200,150,0.22)', textAlign: 'center' }}>
                     <p style={{ fontSize: '12px', color: 'var(--text-secondary)', margin: '0 0 10px', lineHeight: 1.45 }}>
-                      Acesso completo: todos os módulos, materiais e bancos da sua chave
+                      Sem código: <strong style={{ color: 'rgba(255,255,255,0.82)' }}>1 aula</strong> com material, flashcards e questões. Acesso completo com chave: todos os módulos e bancos.
                     </p>
-                    <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
-                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 18px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 4px 14px rgba(0,200,150,0.3)' }}>
+                    <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap', alignItems: 'center' }}>
+                      <button type="button" className="auth-free-compact-btn" onClick={handleFreeAccess} disabled={loading} aria-label="Experimentar gratuitamente sem cadastro">
+                        Experimentar grátis
+                      </button>
+                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 2px 10px rgba(0,200,150,0.25)' }}>
                         Ver planos
                       </a>
                       <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.06)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 600, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.12)' }}>
@@ -5100,9 +5289,9 @@
                   </div>
                   <p style={{ textAlign: 'center', marginTop: '12px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                     Primeira vez?{' '}
-                    <button type="button" onClick={() => { setMode('register'); setStep(1); setError(''); }}
+                    <button type="button" onClick={() => { setMode('register'); setStep(1); setRegisterPath('code'); setError(''); }}
                       style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
-                      Ative seu código
+                      Chave ou convite
                     </button>
                   </p>
                 </div>
@@ -5137,6 +5326,13 @@
                       <button className="btn btn-primary" onClick={handleCodeSubmit} disabled={loading}>
                         {loading ? 'Verificando...' : 'Verificar código'}
                       </button>
+                      <p style={{ textAlign: 'center', marginTop: '14px', fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
+                        Foi convidado por email (sem chave)?{' '}
+                        <button type="button" onClick={() => { setRegisterPath('email'); setValidatedCode(null); setEmailInviteGrant(null); setStep(2); setError(''); }}
+                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                          Continuar com convite por email
+                        </button>
+                      </p>
                       <p style={{ textAlign: 'center', marginTop: '16px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                         Já tem conta?{' '}
                         <button type="button" onClick={() => { setMode('login'); setStep(1); setError(''); }}
@@ -5152,7 +5348,9 @@
                     <div>
                       <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Criar sua conta</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
-                        Código válido ✓ — crie sua conta para entrar sempre com email e senha
+                        {registerPath === 'email'
+                          ? 'Use o mesmo email em que recebeu o convite. Depois você escolhe faculdade e módulo.'
+                          : 'Código válido ✓ — crie sua conta para entrar sempre com email e senha'}
                       </p>
                       {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                       <input className="form-input" type="email" placeholder="Email" value={email}
@@ -5168,6 +5366,7 @@
                       </div>
                       <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Confirmar senha"
                         value={confirmPassword} onChange={e => { setConfirmPassword(e.target.value); setError(''); }} style={{ marginBottom: '16px' }} />
+                      {registerPath !== 'email' && (
                       <div style={{ marginBottom: '16px' }}>
                         <label style={{ fontSize: '12px', color: 'var(--text-secondary)', display: 'block', marginBottom: '6px' }}>
                           Tem um cupom de embaixadora? (opcional)
@@ -5188,6 +5387,7 @@
                         {couponValid === true && <p style={{ fontSize: '12px', color: 'var(--success, #10B981)' }}>✓ Cupom válido</p>}
                         {couponValid === false && couponCode && <p style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Cupom não encontrado ou expirado</p>}
                       </div>
+                      )}
                       <button className="btn btn-primary" onClick={handleCreateWithEmail} disabled={loading}>
                         {loading ? 'Criando conta...' : 'Criar conta com email'}
                       </button>
@@ -5196,7 +5396,7 @@
                         style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                         <GoogleIcon /> Criar conta com Google
                       </button>
-                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setError(''); }}>Voltar</button>
+                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setRegisterPath('code'); setError(''); }}>Voltar</button>
                     </div>
                   )}
 
@@ -5270,6 +5470,11 @@
                       {validatedCode?.modulosAcesso?.length && (
                         <p style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
                           Esta chave libera os módulos: {validatedCode.modulosAcesso.join(', ')}
+                        </p>
+                      )}
+                      {emailInviteGrant && resolvedEmailModules?.length && (
+                        <p style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
+                          Seu convite libera os módulos: {resolvedEmailModules.join(', ')}
                         </p>
                       )}
                       {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
@@ -5347,7 +5552,7 @@
                 <div className="upsell-banner-text">
                   <strong>Modo demonstração — conheça a plataforma</strong>
                   <span>
-                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> ({FREE_TIER_DEMO.label}) com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo abre com código.
+                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo abre com código.
                   </span>
                 </div>
                 <button type="button" className="upsell-banner-btn" onClick={() => { window.location.href = 'comprar.html'; }}>
@@ -7799,148 +8004,139 @@
       return qi === q.length;
     }
 
-    /* ── AnatomiaScreen ── */
-    const ANATOMY_SYSTEMS = [
-      {
-        id: 'locomotor', name: 'Sistema Locomotor', icon: <IconSysLocomotor />, color: '#F59E0B',
-        subsections: [
-          { title: 'Esqueleto Axial', items: [
-            { q: 'Ossos do crânio (8)', a: 'Frontal · Parietal ×2 · Temporal ×2 · Occipital · Esfenoide · Etmoide' },
-            { q: 'Ossos da face (14)', a: 'Maxilar ×2 · Zigomático ×2 · Nasal ×2 · Lacrimal ×2 · Palatino ×2 · Corneto inferior ×2 · Vômer · Mandíbula' },
-            { q: 'Coluna vertebral (33 vértebras)', a: '7 cervicais · 12 torácicas · 5 lombares · 5 sacrais (fundidas) · 4 coccígeas (fundidas)' },
-            { q: 'Caixa torácica', a: '12 pares de costelas: 7 verdadeiras (1–7) · 3 falsas (8–10) · 2 flutuantes (11–12) + Esterno (manúbrio, corpo, processo xifoide)' },
-          ]},
-          { title: 'Esqueleto Apendicular Superior', items: [
-            { q: 'Ombro → mão', a: 'Clavícula · Escápula → Úmero → Rádio + Ulna → 8 carpos + 5 metacarpos + 14 falanges' },
-            { q: 'Manguito rotador (SIPS)', a: 'Supraespinhoso (abdução) · Infraespinhoso (rot. externa) · Pequeno redondo (rot. externa) · Subescapular (rot. interna)' },
-            { q: 'Articulação do ombro', a: 'Glenoumeral: esferóide. A + móvel do corpo = menos estável. Luxação anterior é a mais comum' },
-          ]},
-          { title: 'Esqueleto Apendicular Inferior', items: [
-            { q: 'Quadril → pé', a: 'Coxal (ílio + ísquio + púbis) → Fêmur → Patela + Tíbia + Fíbula → 7 tarsos + 5 metatarsos + 14 falanges' },
-            { q: 'Articulação do joelho', a: 'Meniscos medial/lateral + LCA (anterior) + LCP (posterior) + ligamentos colaterais medial/lateral' },
-            { q: 'Nervo ciático', a: 'L4–S3. Maior nervo do corpo. Divide-se na fossa poplítea → fibular comum + tibial' },
-          ]},
-          { title: 'Músculos Importantes', items: [
-            { q: 'Músculos da mastigação (4)', a: 'Masseter · Temporal · Pterigóideo medial · Pterigóideo lateral — todos pelo n. Trigêmeo (V3)' },
-            { q: 'Quadríceps femoral', a: '4 cabeças: Reto femoral + Vasto lateral + Vasto medial + Vasto intermédio → tendão patelar → extensão do joelho (n. femoral)' },
-            { q: 'Tríceps sural', a: 'Gastrocnêmio (2 cabeças) + Sóleo → tendão calcâneo (Aquiles) → flexão plantar (n. tibial)' },
-            { q: 'Diafragma pélvico', a: 'Levantador do ânus (pubococcígeo + iliococcígeo) + Isquiococcígeo — suporte dos órgãos pélvicos' },
-          ]},
-        ]
-      },
-      {
-        id: 'cardiovascular', name: 'Sistema Cardiovascular', icon: <IconSysCardio />, color: '#EF4444',
-        subsections: [
-          { title: 'Coração — Câmaras e Válvulas', items: [
-            { q: 'Câmaras', a: '4 câmaras: AD e VD (coração direito — sangue venoso) · AE e VE (esquerdo — sangue arterial). VE tem parede mais espessa' },
-            { q: 'Válvulas AV', a: 'Mitral (bicúspide) → AE para VE | Tricúspide → AD para VD. "Mitral é a única com 2 folhetos"' },
-            { q: 'Válvulas semilunares', a: 'Aórtica → VE para Aorta | Pulmonar → VD para A. pulmonar. Ambas com 3 cúspides' },
-            { q: 'Coronárias', a: 'CD: nutre VD + parede inferior do VE · CE → DA (parede anterior) + CX (lateral). "Artéria do IAM anterior = DA"' },
-          ]},
-          { title: 'Circulação', items: [
-            { q: 'Circulação pulmonar (menor)', a: 'VD → A. pulmonar → pulmão → V. pulmonares (4) → AE. Única veia que carrega sangue arterial!' },
-            { q: 'Circulação sistêmica (maior)', a: 'VE → Aorta → órgãos → VCS / VCI → AD' },
-            { q: 'Sistema porta hepático', a: 'V. porta: drena intestinos + baço para o fígado antes da circulação geral. Hipertensão porta → varizes esofágicas' },
-          ]},
-          { title: 'Grandes Vasos', items: [
-            { q: 'Arco aórtico (3 ramos)', a: '① Tronco braquiocefálico (→ subclávea D + carótida D) · ② Carótida comum E · ③ Subclávea E' },
-            { q: 'Aorta abdominal', a: 'Tronco celíaco (estômago/fígado/baço) · AMS (intestino delgado) · AMI (intestino grosso) → bifurca em ilíacas comuns em L4' },
-          ]},
-        ]
-      },
-      {
-        id: 'respiratorio', name: 'Sistema Respiratório', icon: <IconSysResp />, color: '#06B6D4',
-        subsections: [
-          { title: 'Vias Aéreas', items: [
-            { q: 'Via aérea superior', a: 'Fossas nasais → Nasofaringe → Orofaringe → Laringofaringe → Laringe (epiglote cobre na deglutição)' },
-            { q: 'Traqueia', a: '16–20 anéis cartilaginosos em "C". Bifurca-se na carina (T4–T5). Brônquio D mais vertical → corpo estranho tende ao D' },
-            { q: 'Árvore brônquica', a: 'Traqueia → 2 brônquios principais → lobares → segmentares → bronquíolos terminais → alveolares → alvéolos' },
-          ]},
-          { title: 'Pulmões e Pleura', items: [
-            { q: 'Lobos pulmonares', a: 'D: 3 lobos (superior, médio, inferior) · E: 2 lobos (superior, inferior) + língula (homóloga ao lobo médio)' },
-            { q: 'Pleura', a: 'Visceral (aderida ao pulmão) + Parietal (parede torácica). Espaço pleural com pressão negativa. Pneumotórax → colapso pulmonar' },
-            { q: 'Hematose', a: 'CO₂ e O₂ trocados nos alvéolos (as. pulmonares). As. brônquicas nutrem o parênquima (circulação sistêmica)' },
-          ]},
-          { title: 'Músculos da Respiração', items: [
-            { q: 'Diafragma', a: 'Principal músculo da inspiração. Inervado pelo N. frênico (C3–C5). "C3, C4, C5 keeps the diaphragm alive"' },
-            { q: 'Músculos acessórios', a: 'Inspiração forçada: escalenos, ECM, peitorais · Expiração ativa: reto abdominal, oblíquos abdominais' },
-          ]},
-        ]
-      },
-      {
-        id: 'nervoso', name: 'Sistema Nervoso', icon: <IconSysNeuro />, color: '#8B5CF6',
-        subsections: [
-          { title: 'Encéfalo', items: [
-            { q: 'Divisões', a: 'Telencéfalo (córtex, núcleos da base) · Diencéfalo (tálamo, hipotálamo) · Mesencéfalo · Ponte · Bulbo · Cerebelo' },
-            { q: 'Lobos cerebrais', a: 'Frontal (motor, personalidade, linguagem) · Parietal (sensitivo) · Temporal (audição, memória) · Occipital (visão)' },
-            { q: 'Hipotálamo', a: 'Centro autonômico: temperatura, fome, sede, sono, ritmo circadiano. Controla a hipófise via eixo hipotálamo-hipofisário' },
-            { q: 'Cerebelo', a: 'Coordenação e equilíbrio. Lesão ipsilateral (mesmo lado do cerebelo). Ataxia, disdiadococinesia' },
-          ]},
-          { title: 'Nervos Cranianos (12 pares)', items: [
-            { q: 'I – IV', a: 'I Olfatório (olfato) · II Óptico (visão) · III Oculomotor (ptose, midríase) · IV Troclear (oblíquo superior — olha pra baixo ao medializar)' },
-            { q: 'V – VIII', a: 'V Trigêmeo (sensib. face + mastigação) · VI Abducente (reto lateral) · VII Facial (mímica + paladar ant.) · VIII Vestibulococlear' },
-            { q: 'IX – XII', a: 'IX Glossofaríngeo · X Vago (parassimpático visceral) · XI Acessório (ECM, trapézio) · XII Hipoglosso (língua)' },
-          ]},
-          { title: 'Plexos e SNA', items: [
-            { q: 'Plexo braquial (C5–T1)', a: 'Erb-Duchenne: C5–C6 ("garçom pedindo gorjeta") · Klumpke: C8–T1 (mão em garra). Raízes → Troncos → Divisões → Fascículos → Ramos' },
-            { q: 'Plexo lombossacral', a: 'Femoral (L2–L4): quadríceps · Obturatório (L2–L4): adutores · Ciático (L4–S3): posterior da coxa, perna e pé' },
-            { q: 'SNA Simpático vs Parassimpático', a: 'Simpático: T1–L2 (luta/fuga) — usa gânglios para-vertebrais · Parassimpático: III, VII, IX, X + S2–S4 (repouso/digestão)' },
-          ]},
-        ]
-      },
-      {
-        id: 'digestorio', name: 'Sistema Digestório', icon: <IconSysDigest />, color: '#10B981',
-        subsections: [
-          { title: 'Trato Gastrointestinal', items: [
-            { q: 'Boca → Estômago', a: 'Boca → Faringe → Esôfago (25 cm, 3 estreitamentos) → Estômago (fundus, corpo, antro, piloro). EEI → refluxo DRGE' },
-            { q: 'Intestino Delgado (6–7 m)', a: 'Duodeno (25 cm, retroperitoneal, fixo) · Jejuno (2/5) · Íleo (3/5). Principal local de absorção de nutrientes' },
-            { q: 'Intestino Grosso (1,5 m)', a: 'Ceco (apêndice: ponto de McBurney) → Cólon ascendente → transverso → descendente → sigmoide → Reto → Canal anal' },
-          ]},
-          { title: 'Órgãos Anexos', items: [
-            { q: 'Fígado', a: '4 lobos anatômicos (D, E, caudado, quadrado). Funções: síntese proteica, bile, glicogênio, detox. Irrigação: 25% A. hepática + 75% V. porta' },
-            { q: 'Pâncreas', a: 'Retroperitoneal. Endócrino: ilhotas de Langerhans (α = glucagon, β = insulina). Exócrino: lipase, amilase, tripsina — via ducto de Wirsung' },
-            { q: 'Vesícula biliar', a: 'Armazena/concentra bile. Ducto cístico + Ducto hepático comum = Ducto colédoco → Ampola de Vater (esfíncter de Oddi) no duodeno' },
-          ]},
-        ]
-      },
-      {
-        id: 'urinario', name: 'Sistema Urinário', icon: <IconSysUrinary />, color: '#3B82F6',
-        subsections: [
-          { title: 'Rins', items: [
-            { q: 'Posição e relações', a: 'Retroperitoneal. Rim D mais baixo (fígado acima). Hilo: veia (anterior) → artéria → pelve renal (posterior) — mnemônico: VAP' },
-            { q: 'Néfron (unidade funcional)', a: 'Glomérulo → TCP → Alça de Henle (desc. fina / asc. espessa) → TCD → Ducto coletor. ~1 milhão/rim. TFG normal: ~120 mL/min' },
-            { q: 'Função tubular resumida', a: 'TCP: reabsorve 67% do filtrado (glicose, Na, HCO₃) · Alça: concentra urina · TCD: regulação fina de Na, K, H (aldosterona, PTH)' },
-          ]},
-          { title: 'Vias Urinárias', items: [
-            { q: 'Ureter', a: '25–30 cm, retroperitoneal. 3 estreitamentos fisiológicos: JUP + cruzamento dos vasos ilíacos + JUV → locais de impactação de cálculo' },
-            { q: 'Bexiga e Uretra', a: 'Trígono: 2 óstios ureterais + colo vesical. Uretra F ≈ 4 cm · M ≈ 20 cm (prostática → membranosa → esponjosa)' },
-          ]},
-        ]
-      },
-      {
-        id: 'endocrino', name: 'Sistema Endócrino', icon: <IconSysEndoc />, color: '#EC4899',
-        subsections: [
-          { title: 'Glândulas e Hormônios', items: [
-            { q: 'Hipófise — adeno (anterior)', a: 'GH · TSH · ACTH · LH · FSH · Prolactina. Controlada pelos hormônios hipotalâmicos liberadores/inibidores' },
-            { q: 'Hipófise — neuro (posterior)', a: 'ADH (vasopressina — reabsorção de água) · Ocitocina (contração uterina + ejeção de leite). Produzidos no hipotálamo!' },
-            { q: 'Tireoide', a: 'T3 (ativo) e T4 (pró-hormônio). Regulam metabolismo basal. Células parafoliculares C → Calcitonina (↓Ca²⁺)' },
-            { q: 'Paratireoide (4 corpúsculos)', a: 'PTH: ↑Ca²⁺ sérico — ↑reabsorção óssea, ↑reabsorção renal, ↑ativação vit. D. Oposto à calcitonina' },
-            { q: 'Suprarrenal (adrenal)', a: 'Córtex: Zona Glomerular (aldosterona) · Z. Fasciculada (cortisol) · Z. Reticular (andrógenos). Medula: adrenalina + noradrenalina' },
-          ]},
-        ]
-      },
-      {
-        id: 'linfatico', name: 'Sistema Linfático', icon: <IconSysLymph />, color: '#6366F1',
-        subsections: [
-          { title: 'Órgãos Linfoides', items: [
-            { q: 'Timo', a: 'Mediastino anterior superior. Maturação de linfócitos T. Maior na infância, involui na puberdade. Timoma → associado à miastenia gravis' },
-            { q: 'Baço', a: 'Hipocôndrio esquerdo. Polpa vermelha (destruição de hemácias) + Polpa branca (linfócitos B e T). Maior órgão linfoide do corpo' },
-            { q: 'Linfonodos', a: 'Filtram linfa. Cadeias principais: cervical, axilar, inguinal, mediastinal, retroperitoneal. Gânglio de Virchow (supraclavicular E) → neoplasia abdominal' },
-            { q: 'Ducto torácico', a: 'Maior vaso linfático. Drena toda a linfa abaixo do diafragma + hemicorpo E superior → Ângulo venoso E (subclávia E + jugular interna E)' },
-          ]},
-        ]
-      },
-    ];
+    /* ── Revisão escrita (dados em data/anatomia_revisao.json) ── */
+    function normalizeRevisaoBlocks(sub) {
+      if (!sub) return [];
+      if (sub.blocks && sub.blocks.length) return sub.blocks;
+      if (sub.items && sub.items.length) return [{ type: 'cards', items: sub.items }];
+      return [];
+    }
+    function revisaoBlockSearchText(block) {
+      if (block.type === 'cards') {
+        return (block.items || []).map(it => (it.q || '') + ' ' + (it.a || '')).join(' ');
+      }
+      if (block.type === 'sequence') {
+        return (block.title || '') + ' ' + (block.steps || []).map(s => (s.label || '') + ' ' + (s.detail || '')).join(' ');
+      }
+      if (block.type === 'hub') {
+        return (block.title || '') + ' ' + (block.center || '') + ' ' + (block.branches || []).map(b => (b.label || '') + ' ' + (b.hint || '')).join(' ');
+      }
+      return '';
+    }
+    function subsectionMatchesRevisaoQuery(sub, ql) {
+      if (!ql) return true;
+      if ((sub.title || '').toLowerCase().includes(ql)) return true;
+      return normalizeRevisaoBlocks(sub).some(b => revisaoBlockSearchText(b).toLowerCase().includes(ql));
+    }
+    function countRevisaoSubItems(sub) {
+      return normalizeRevisaoBlocks(sub).reduce((n, b) => {
+        if (b.type === 'cards') return n + (b.items ? b.items.length : 0);
+        if (b.type === 'sequence') return n + (b.steps ? b.steps.length : 0);
+        if (b.type === 'hub') return n + 1 + (b.branches ? b.branches.length : 0);
+        return n;
+      }, 0);
+    }
+    function filterSubsectionsByRegion(subs, region) {
+      if (!subs || !subs.length) return [];
+      if (region === 'todas') return subs.slice();
+      return subs.filter(sub => (sub.regiao || '') === region);
+    }
+    function applyRevisaoQueryToSub(sub, ql) {
+      if (!ql) return sub;
+      const titleMatches = (sub.title || '').toLowerCase().includes(ql);
+      const blocks = normalizeRevisaoBlocks(sub).map(b => {
+        if (b.type !== 'cards') return b;
+        if (titleMatches) return b;
+        const items = (b.items || []).filter(it =>
+          (it.q || '').toLowerCase().includes(ql) || (it.a || '').toLowerCase().includes(ql)
+        );
+        return { ...b, items };
+      }).filter(b => {
+        if (b.type === 'cards') return (b.items || []).length > 0;
+        return true;
+      });
+      return { ...sub, blocks };
+    }
+    const REVISAO_REGION_LABELS = {
+      todas: 'Todas',
+      cabeca: 'Cabeça',
+      cabeca_tronco: 'Cabeça/tronco',
+      cabeca_pescoco: 'Cabeça/pescoço',
+      torax: 'Tórax',
+      abdome: 'Abdome',
+      pelve: 'Pelve',
+      membro_superior: 'Membro sup.',
+      membro_inferior: 'Membro inf.',
+    };
+
+    const RevisaoSequenceBlock = ({ block, accentColor }) => (
+      <div style={{ marginBottom: '12px', padding: '14px 16px', borderRadius: '14px', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01))' }}>
+        {block.title && (
+          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: accentColor, marginBottom: '12px', fontFamily: 'Outfit, sans-serif' }}>{block.title}</div>
+        )}
+        <div role="list" aria-label={block.title || 'Sequência'}>
+          {(block.steps || []).map((st, i) => (
+            <React.Fragment key={i}>
+              <div role="listitem" style={{ padding: '10px 12px', borderRadius: '10px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
+                <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)' }}>{st.label}</div>
+                {st.detail && <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px', lineHeight: 1.5 }}>{st.detail}</div>}
+              </div>
+              {i < (block.steps || []).length - 1 && (
+                <div style={{ textAlign: 'center', padding: '5px 0', color: accentColor, fontSize: '15px', fontWeight: 700, opacity: 0.75 }} aria-hidden="true">↓</div>
+              )}
+            </React.Fragment>
+          ))}
+        </div>
+      </div>
+    );
+
+    const RevisaoHubBlock = ({ block, accentColor }) => (
+      <div style={{ marginBottom: '12px', padding: '16px', borderRadius: '14px', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(160deg, rgba(139,92,246,0.07), rgba(99,102,241,0.03))' }}>
+        {block.title && (
+          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: accentColor, marginBottom: '12px', fontFamily: 'Outfit, sans-serif' }}>{block.title}</div>
+        )}
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '12px' }}>
+          <div style={{
+            padding: '12px 18px', borderRadius: '12px', fontWeight: 800, fontSize: '14px', color: 'var(--text-primary)',
+            background: accentColor + '24', border: '2px solid ' + accentColor + '55', textAlign: 'center', maxWidth: '100%', fontFamily: 'Outfit, sans-serif',
+          }}>{block.center}</div>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(136px, 1fr))', gap: '8px', width: '100%' }}>
+            {(block.branches || []).map((br, i) => (
+              <div key={i} style={{ padding: '10px 12px', borderRadius: '10px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
+                <div style={{ fontWeight: 700, fontSize: '12px', color: 'var(--text-primary)' }}>{br.label}</div>
+                {br.hint && <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', lineHeight: 1.4 }}>{br.hint}</div>}
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+
+    const RevisaoCardsBlock = ({ block, accentColor }) => (
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+        {(block.items || []).map((it, ii) => (
+          <div key={ii} style={{
+            padding: '10px 12px', marginBottom: '2px',
+            background: 'rgba(255,255,255,0.03)', borderRadius: '8px',
+            borderLeft: '3px solid ' + accentColor,
+          }}>
+            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
+            <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
+          </div>
+        ))}
+      </div>
+    );
+
+    const REVISAO_ICON_MAP = {
+      locomotor: IconSysLocomotor,
+      cardiovascular: IconSysCardio,
+      respiratorio: IconSysResp,
+      nervoso: IconSysNeuro,
+      digestorio: IconSysDigest,
+      urinario: IconSysUrinary,
+      endocrino: IconSysEndoc,
+      linfatico: IconSysLymph,
+    };
 
     /* ── Atlas SVG Icons (dedicated, consistent stroke) ── */
     const AtlasIconBone = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M18.3 5.7a2.8 2.8 0 0 0-3.5-.4L12 7.5 9.2 5.3a2.8 2.8 0 0 0-3.5.4 2.8 2.8 0 0 0 .4 3.5L8.5 12l-2.4 2.8a2.8 2.8 0 0 0-.4 3.5 2.8 2.8 0 0 0 3.5.4L12 16.5l2.8 2.2a2.8 2.8 0 0 0 3.5-.4 2.8 2.8 0 0 0-.4-3.5L15.5 12l2.4-2.8a2.8 2.8 0 0 0 .4-3.5z"/></svg>);
@@ -8107,14 +8303,20 @@
       );
     };
 
-    const AnatomiaScreen = () => {
+    const AnatomiaScreen = ({ user }) => {
       const [viewMode, setViewMode] = React.useState('atlas');
       const [openSystem, setOpenSystem] = React.useState(null);
       const [openSub, setOpenSub] = React.useState({});
       const [search, setSearch] = React.useState('');
+      const [selectedRegion, setSelectedRegion] = React.useState('todas');
       const [atlasData, setAtlasData] = React.useState(null);
       const [atlasErr, setAtlasErr] = React.useState(null);
       const [atlasNav, setAtlasNav] = React.useState({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+      const [revisaoData, setRevisaoData] = React.useState(null);
+      const [revisaoErr, setRevisaoErr] = React.useState(null);
+      const [atlasDemoNotice, setAtlasDemoNotice] = React.useState(null);
+
+      const atlasFreeLock = isFreeTierUser(user);
 
       React.useEffect(() => {
         fetch('data/anatomia_atlas.json?_=' + Date.now())
@@ -8123,23 +8325,53 @@
           .catch(e => setAtlasErr(e.message || String(e)));
       }, []);
 
+      React.useEffect(() => {
+        fetch('data/anatomia_revisao.json?_=' + Date.now())
+          .then(r => { if (!r.ok) throw new Error('Falha ao carregar revisão'); return r.json(); })
+          .then(setRevisaoData)
+          .catch(e => setRevisaoErr(e.message || String(e)));
+      }, []);
+
       const q = search.toLowerCase().trim();
-      const filtered = ANATOMY_SYSTEMS.map(sys => {
-        if (!q) return sys;
-        const subsMatch = sys.subsections.map(sub => {
-          const items = sub.items.filter(it => it.q.toLowerCase().includes(q) || it.a.toLowerCase().includes(q));
-          return items.length ? { ...sub, items } : null;
-        }).filter(Boolean);
-        if (!subsMatch.length && !sys.name.toLowerCase().includes(q)) return null;
-        return { ...sys, subsections: subsMatch.length ? subsMatch : sys.subsections };
-      }).filter(Boolean);
+      const sistemasBase = revisaoData && Array.isArray(revisaoData.sistemas) ? revisaoData.sistemas : [];
+
+      const regionKeys = React.useMemo(() => {
+        const set = new Set();
+        sistemasBase.forEach(sys => {
+          (sys.subsections || []).forEach(sub => {
+            if (sub.regiao) set.add(sub.regiao);
+          });
+        });
+        return ['todas', ...Array.from(set).sort()];
+      }, [sistemasBase]);
+
+      const filtered = React.useMemo(() => {
+        if (!sistemasBase.length) return [];
+        return sistemasBase.map(sys => {
+          const regionFiltered = filterSubsectionsByRegion(sys.subsections, selectedRegion);
+          if (!q) {
+            return { ...sys, subsections: regionFiltered };
+          }
+          const nameMatch = (sys.name || '').toLowerCase().includes(q);
+          const matchingSubs = regionFiltered.filter(sub => subsectionMatchesRevisaoQuery(sub, q));
+          let finalSubs;
+          if (matchingSubs.length) {
+            finalSubs = matchingSubs.map(sub => applyRevisaoQueryToSub(sub, q));
+          } else if (nameMatch) {
+            finalSubs = regionFiltered.map(sub => applyRevisaoQueryToSub(sub, q));
+          } else {
+            return null;
+          }
+          return { ...sys, subsections: finalSubs };
+        }).filter(sys => sys && (sys.subsections || []).length > 0);
+      }, [sistemasBase, q, selectedRegion]);
 
       const toggleSystem = (id) => { setOpenSystem(prev => prev === id ? null : id); setOpenSub({}); };
       const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
 
       React.useEffect(() => {
         if (q && filtered.length === 1) setOpenSystem(filtered[0].id);
-      }, [q]);
+      }, [q, filtered]);
 
       const atlasSistema = atlasData && atlasNav.sistemaId ? atlasData.sistemas.find(s => s.id === atlasNav.sistemaId) : null;
       const atlasDivisao = atlasSistema && atlasNav.divisaoId ? atlasSistema.divisoes.find(d => d.id === atlasNav.divisaoId) : null;
@@ -8173,7 +8405,9 @@
           <div style={{ maxWidth: '720px', margin: '0 auto' }}>
             <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Anatomia</h2>
             <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '18px', lineHeight: 1.5 }}>
-              Atlas visual por sistema ou revisão rápida em texto para pré-prova.
+              {viewMode === 'revisao'
+                ? 'Ordem, trajetos e relações — use a busca, o filtro por região ou abra cada sistema.'
+                : 'Atlas visual por sistema ou revisão rápida em texto para pré-prova.'}
             </p>
 
             <div style={{
@@ -8199,26 +8433,64 @@
                   </div>
                 )}
 
+                {atlasFreeLock && atlasDemoNotice && (
+                  <div style={{
+                    marginBottom: '14px', padding: '12px 14px', borderRadius: '12px',
+                    background: 'rgba(0,200,150,0.08)', border: '1px solid rgba(0,200,150,0.22)',
+                    fontSize: '13px', lineHeight: 1.55, color: 'var(--text-primary)',
+                  }}>
+                    <div style={{ marginBottom: '10px' }}>{atlasDemoNotice}</div>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
+                      <a href="comprar.html" className="btn btn-primary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>Ver planos</a>
+                      <button type="button" className="btn btn-secondary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px' }} onClick={() => setAtlasDemoNotice(null)}>Fechar</button>
+                    </div>
+                  </div>
+                )}
+
                 {atlasData && atlasNav.step === 'systems' && (
                   <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
                     {atlasData.sistemas.map((sys, idx) => {
                       const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
                       const nLam = sys.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0);
+                      const sysLocked = atlasFreeLock && sys.id !== ATLAS_GRATUITO_SISTEMA_ID;
+                      const openSys = () => setAtlasNav({ step: 'divisions', sistemaId: sys.id, divisaoId: null, laminaAtual: null });
                       return (
                         <button key={sys.id} type="button"
-                          onClick={() => setAtlasNav({ step: 'divisions', sistemaId: sys.id, divisaoId: null, laminaAtual: null })}
+                          onClick={() => {
+                            if (sysLocked) {
+                              setAtlasDemoNotice('No modo demonstração, só o atlas «Sistema esquelético › Cabeça» está liberado. O atlas completo abre com código de acesso.');
+                              return;
+                            }
+                            openSys();
+                          }}
                           style={{
                             display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
                             padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
                             border: '1px solid rgba(255,255,255,0.06)',
                             background: 'rgba(255,255,255,0.025)',
-                            cursor: 'pointer', fontFamily: 'inherit',
-                            transition: 'background 0.15s ease, border-color 0.15s ease',
+                            cursor: sysLocked ? 'not-allowed' : 'pointer', fontFamily: 'inherit',
+                            transition: 'background 0.15s ease, border-color 0.15s ease, opacity 0.15s ease',
                             animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
+                            opacity: sysLocked ? 0.48 : 1,
+                            position: 'relative',
                           }}
-                          onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
-                          onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
+                          onMouseEnter={e => {
+                            if (sysLocked) return;
+                            e.currentTarget.style.background = 'rgba(255,255,255,0.06)';
+                            e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)';
+                          }}
+                          onMouseLeave={e => {
+                            if (sysLocked) return;
+                            e.currentTarget.style.background = 'rgba(255,255,255,0.025)';
+                            e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)';
+                          }}
                         >
+                          {sysLocked && (
+                            <span style={{
+                              position: 'absolute', top: '10px', right: '10px', fontSize: '9px', fontWeight: 800,
+                              textTransform: 'uppercase', letterSpacing: '0.06em', color: 'var(--text-secondary)', opacity: 0.85,
+                            }}>Bloqueado</span>
+                          )}
                           <div style={{
                             width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
                             background: sys.cor + '18', color: sys.cor,
@@ -8264,21 +8536,36 @@
                         {atlasSistema.divisoes.map((div, di) => {
                           const n = div.laminas ? div.laminas.length : 0;
                           const hasImgs = div.laminas && div.laminas.some(l => l.urlImagem);
+                          const divLocked = atlasFreeLock && (atlasSistema.id !== ATLAS_GRATUITO_SISTEMA_ID || div.id !== ATLAS_GRATUITO_DIVISAO_ID);
                           return (
                             <button key={div.id} type="button"
-                              onClick={() => setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null })}
+                              onClick={() => {
+                                if (divLocked) {
+                                  setAtlasDemoNotice('No modo demonstração, só a divisão «Cabeça» do esquelético está liberada. O atlas completo abre com código de acesso.');
+                                  return;
+                                }
+                                setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null });
+                              }}
                               style={{
                                 display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px',
                                 padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
                                 border: '1px solid rgba(255,255,255,0.06)',
                                 background: 'rgba(255,255,255,0.025)',
-                                cursor: 'pointer', fontFamily: 'inherit',
-                                transition: 'background 0.15s ease',
+                                cursor: divLocked ? 'not-allowed' : 'pointer', fontFamily: 'inherit',
+                                transition: 'background 0.15s ease, opacity 0.15s ease',
                                 animation: `aboutFadeUp 0.25s ease ${di * 0.04}s both`,
+                                opacity: divLocked ? 0.48 : 1,
+                                position: 'relative',
                               }}
-                              onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.06)'}
-                              onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.025)'}
+                              onMouseEnter={e => { if (!divLocked) e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; }}
+                              onMouseLeave={e => { if (!divLocked) e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; }}
                             >
+                              {divLocked && (
+                                <span style={{
+                                  position: 'absolute', top: '10px', right: '36px', fontSize: '9px', fontWeight: 800,
+                                  textTransform: 'uppercase', letterSpacing: '0.06em', color: 'var(--text-secondary)', opacity: 0.85,
+                                }}>Bloqueado</span>
+                              )}
                               <div style={{ flex: 1 }}>
                                 <div style={{ fontWeight: 600, fontSize: '14px', color: 'var(--text-primary)' }}>{div.titulo}</div>
                                 <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '6px' }}>
@@ -8365,83 +8652,136 @@
 
             {viewMode === 'revisao' && (
               <>
-                <div style={{ position: 'relative', marginBottom: '18px' }}>
-                  <input type="text" placeholder="Buscar estrutura, nervo, músculo..."
-                    value={search} onChange={e => setSearch(e.target.value)}
-                    style={{
-                      width: '100%', padding: '10px 14px 10px 38px',
-                      background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
-                      borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
-                      transition: 'border-color 0.15s ease',
-                    }}
-                    onFocus={e => e.target.style.borderColor = 'rgba(139,92,246,0.4)'}
-                    onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
-                  />
-                  <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
-                    <AtlasIconSearch />
-                  </span>
-                </div>
-
-                {filtered.length === 0 && (
-                  <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
-                    Nenhum resultado para "{search}"
+                {revisaoErr && (
+                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6, marginBottom: '16px' }}>
+                    Erro ao carregar a revisão escrita. Verifique sua conexão e recarregue a página.
+                  </div>
+                )}
+                {!revisaoData && !revisaoErr && (
+                  <div style={{ padding: '48px 24px', textAlign: 'center', marginBottom: '8px' }}>
+                    <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#8B5CF6', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando revisão...</div>
                   </div>
                 )}
 
-                {filtered.map(sys => (
-                  <div key={sys.id} style={{ marginBottom: '8px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)' }}>
-                    <div onClick={() => toggleSystem(sys.id)} style={{
-                      display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px',
-                      cursor: 'pointer', userSelect: 'none',
-                      borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none',
-                    }}>
-                      <span style={{ display: 'flex', alignItems: 'center', color: sys.color, flexShrink: 0 }}>{sys.icon}</span>
-                      <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
-                      <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
-                        {sys.subsections.reduce((t, s) => t + s.items.length, 0)} itens
-                      </span>
-                      <span style={{
-                        display: 'flex', transition: 'transform 0.2s',
-                        transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)',
-                        color: 'var(--text-secondary)', opacity: 0.5,
-                      }}><AtlasIconChevron /></span>
+                {revisaoData && (
+                  <>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '14px' }}>
+                      {regionKeys.map(rk => (
+                        <button
+                          key={rk}
+                          type="button"
+                          onClick={() => setSelectedRegion(rk)}
+                          style={{
+                            padding: '6px 12px', borderRadius: '999px', border: '1px solid ' + (selectedRegion === rk ? 'rgba(139,92,246,0.45)' : 'rgba(255,255,255,0.1)'),
+                            background: selectedRegion === rk ? 'linear-gradient(135deg, rgba(139,92,246,0.22), rgba(99,102,241,0.12))' : 'rgba(255,255,255,0.04)',
+                            color: selectedRegion === rk ? '#EDE9FE' : 'var(--text-secondary)', fontSize: '12px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
+                          }}
+                        >
+                          {REVISAO_REGION_LABELS[rk] || rk}
+                        </button>
+                      ))}
                     </div>
-                    {openSystem === sys.id && (
-                      <div style={{ padding: '8px 12px 12px' }}>
-                        {sys.subsections.map((sub, si) => {
-                          const subKey = sys.id + '_' + si;
-                          return (
-                            <div key={subKey} style={{ marginBottom: '6px' }}>
-                              <div onClick={() => toggleSub(subKey)} style={{
-                                display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                                padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
-                                background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
-                                fontSize: '13px', fontWeight: 600, color: sys.color, transition: 'background 0.15s ease',
-                              }}>
-                                <span>{sub.title}</span>
-                                <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
-                              </div>
-                              {openSub[subKey] && (
-                                <div style={{ padding: '6px 4px 0' }}>
-                                  {sub.items.map((it, ii) => (
-                                    <div key={ii} style={{
-                                      padding: '10px 12px', marginBottom: '6px',
-                                      background: 'rgba(255,255,255,0.03)', borderRadius: '8px',
-                                      borderLeft: `3px solid ${sys.color}`,
-                                    }}>
-                                      <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
-                                      <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
-                                    </div>
-                                  ))}
-                                </div>
-                              )}
-                            </div>
-                          );
-                        })}
+
+                    <div style={{ position: 'relative', marginBottom: '18px' }}>
+                      <input type="text" placeholder="Buscar estrutura, nervo, músculo, sequência..."
+                        value={search} onChange={e => setSearch(e.target.value)}
+                        style={{
+                          width: '100%', padding: '10px 14px 10px 38px',
+                          background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
+                          borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
+                          transition: 'border-color 0.15s ease',
+                        }}
+                        onFocus={e => e.target.style.borderColor = 'rgba(139,92,246,0.4)'}
+                        onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
+                      />
+                      <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
+                        <AtlasIconSearch />
+                      </span>
+                    </div>
+
+                    {filtered.length === 0 && (
+                      <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
+                        Nenhum resultado para "{search}"
                       </div>
                     )}
-                  </div>
-                ))}
+
+                    {filtered.map(sys => {
+                      const SysIcon = REVISAO_ICON_MAP[sys.icone] || IconSysLocomotor;
+                      const nItems = (sys.subsections || []).reduce((t, s) => t + countRevisaoSubItems(s), 0);
+                      return (
+                        <div key={sys.id} style={{ marginBottom: '8px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)' }}>
+                          <div onClick={() => toggleSystem(sys.id)} style={{
+                            display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px',
+                            cursor: 'pointer', userSelect: 'none',
+                            borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none',
+                          }}>
+                            <span style={{
+                              width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                              background: (sys.color || '#8B5CF6') + '22', color: sys.color || '#8B5CF6', flexShrink: 0,
+                            }}>
+                              <SysIcon />
+                            </span>
+                            <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
+                            <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
+                              {nItems} itens
+                            </span>
+                            <span style={{
+                              display: 'flex', transition: 'transform 0.2s',
+                              transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)',
+                              color: 'var(--text-secondary)', opacity: 0.5,
+                            }}><AtlasIconChevron /></span>
+                          </div>
+                          {openSystem === sys.id && (
+                            <div style={{ padding: '8px 12px 12px' }}>
+                              {(sys.subsections || []).map((sub, si) => {
+                                const subKey = sys.id + '_' + si;
+                                const blocks = normalizeRevisaoBlocks(sub);
+                                return (
+                                  <div key={subKey} style={{ marginBottom: '6px' }}>
+                                    <div onClick={() => toggleSub(subKey)} style={{
+                                      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                                      padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
+                                      background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
+                                      fontSize: '13px', fontWeight: 600, color: sys.color, transition: 'background 0.15s ease',
+                                    }}>
+                                      <span>
+                                        {sub.title}
+                                        {sub.regiao && selectedRegion === 'todas' && (
+                                          <span style={{ fontSize: '10px', fontWeight: 700, marginLeft: '8px', opacity: 0.75 }}>
+                                            · {REVISAO_REGION_LABELS[sub.regiao] || sub.regiao}
+                                          </span>
+                                        )}
+                                      </span>
+                                      <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                                    </div>
+                                    {openSub[subKey] && (
+                                      <div style={{ padding: '8px 4px 0' }}>
+                                        {blocks.map((block, bi) => (
+                                          <div key={bi}>
+                                            {block.type === 'sequence' && (
+                                              <RevisaoSequenceBlock block={block} accentColor={sys.color} />
+                                            )}
+                                            {block.type === 'hub' && (
+                                              <RevisaoHubBlock block={block} accentColor={sys.color} />
+                                            )}
+                                            {block.type === 'cards' && (
+                                              <RevisaoCardsBlock block={block} accentColor={sys.color} />
+                                            )}
+                                          </div>
+                                        ))}
+                                      </div>
+                                    )}
+                                  </div>
+                                );
+                              })}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </>
+                )}
               </>
             )}
           </div>
@@ -8591,7 +8931,7 @@
       );
     };
 
-    const AnatomiaHistologiaScreen = ({ mode, onModeChange }) => {
+    const AnatomiaHistologiaScreen = ({ mode, onModeChange, user }) => {
       const segBtnStyle = (active) => ({
         flex: 1, padding: '10px 0', borderRadius: '10px', border: 'none',
         fontSize: '13px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
@@ -8615,7 +8955,7 @@
               </div>
             </div>
           </div>
-          {innerMode === 'anatomy' ? <AnatomiaScreen /> : <HistologiaScreen />}
+          {innerMode === 'anatomy' ? <AnatomiaScreen user={user} /> : <HistologiaScreen />}
         </>
       );
     };
@@ -8627,7 +8967,7 @@
         { icon: '🎯', color: '#10B981', title: 'Questões e treino', text: 'Banco integrado ao fluxo do app para revisar disciplinas com mais velocidade e menos atrito.' },
         { icon: '🔁', color: '#F59E0B', title: 'Flashcards com repetição', text: 'Revisão espaçada para consolidar base, acelerar retenção e reduzir esquecimento.' },
         { icon: '💬', color: '#EF4444', title: 'Feedback direto', text: 'Você reporta erros, sugere melhorias e ajuda a moldar a evolução do produto em tempo real.' },
-        { icon: '🔓', color: '#3B82F6', title: 'Entrada gratuita', text: 'No modo demonstração você abre 1 aula completa de BMF1 com material, flashcards e questões — além da anatomia beta e desta visão do app.' },
+        { icon: '🔓', color: '#3B82F6', title: 'Entrada gratuita', text: 'No modo demonstração você abre 1 aula completa com material, flashcards e questões — além da anatomia beta e desta visão do app.' },
       ];
 
       const futureFeatures = [
@@ -8669,7 +9009,8 @@
 
       return (
         <div className="screen-content" style={{ paddingBottom: '40px' }}>
-          <div style={{ maxWidth: '1080px', margin: '0 auto', animation: 'aboutFadeUp 0.55s ease both' }}>
+          <div style={{ display: 'flex', justifyContent: 'center', width: '100%', boxSizing: 'border-box' }}>
+            <div style={{ width: '100%', maxWidth: '1080px', animation: 'aboutFadeUp 0.55s ease both', boxSizing: 'border-box' }}>
             <div style={{
               position: 'relative',
               overflow: 'hidden',
@@ -8727,7 +9068,7 @@
                     </div>
                   </div>
 
-                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: '12px', animation: 'aboutScaleIn 0.7s ease both' }}>
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: '12px', animation: 'aboutFadeUp 0.65s ease 0.1s both' }}>
                     {[
                       { value: '1-12', label: 'Semestres planejados' },
                       { value: '24/7', label: 'Estudo no celular' },
@@ -8860,6 +9201,7 @@
                 <div style={{ fontFamily: 'Outfit, sans-serif', fontSize: '18px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '8px' }}>Do ciclo básico ao ENAMED</div>
                 <div style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>Acompanhar o aluno por toda a graduação com treino, revisão e segurança no internato.</div>
               </div>
+            </div>
             </div>
           </div>
         </div>
@@ -9014,12 +9356,20 @@
               const p = await loadUserProfile(firebaseUser);
               if (p) {
                 const synced = await syncProfileAccessFromCodeEntry(firebaseUser, p);
-                const qualified = await checkAmbassadorQualification(synced);
+                const syncedEmail = await syncProfileAccessFromEmailGrant(firebaseUser, synced);
+                const qualified = await checkAmbassadorQualification(syncedEmail);
                 const normalized = persistLocalUser(qualified);
                 authStateRef.current = normalized;
                 if (splashDoneRef.current) applyResolvedAuth(qualified);
               } else {
-                if (cachedProfile) {
+                let grantPending = null;
+                try {
+                  grantPending = await loadEmailAccessGrant(firebaseUser.email);
+                } catch {}
+                if (grantPending && isEmailGrantValid(grantPending)) {
+                  authStateRef.current = null;
+                  if (splashDoneRef.current) applyResolvedAuth(null);
+                } else if (cachedProfile) {
                   authStateRef.current = cachedProfile;
                   if (splashDoneRef.current) applyResolvedAuth(cachedProfile);
                 } else {
@@ -9173,9 +9523,18 @@
       if (stage === 'auth') {
         if (routeState.publicOnly && routeState.tab === 'about') {
           return (
-            <div className="app-container">
-              <div className="screen-content" style={{ paddingTop: '24px', paddingBottom: '40px' }}>
-                <div style={{ maxWidth: '1080px', margin: '0 auto 18px', display: 'flex', gap: '12px', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap' }}>
+            <div className="about-public-shell">
+              <div id="about-public" className="screen-content" style={{
+                paddingTop: '24px',
+                paddingBottom: '40px',
+                paddingLeft: 'max(20px, env(safe-area-inset-left, 0px))',
+                paddingRight: 'max(20px, env(safe-area-inset-right, 0px))',
+                width: '100%',
+                maxWidth: 'none',
+                margin: 0,
+                boxSizing: 'border-box',
+              }}>
+                <div style={{ maxWidth: '1080px', margin: '0 auto 18px', width: '100%', display: 'flex', gap: '12px', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap' }}>
                   <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 800, color: 'var(--text-primary)', fontSize: '18px' }}>MedGradPlus</div>
                   <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
                     <button className="btn btn-secondary" style={{ width: 'auto', padding: '10px 16px' }} onClick={() => { window.location.hash = ''; const next = { tab: 'home', materiaId: null, aulaId: null, publicOnly: false }; setRouteState(next); setCurrentTab(next.tab); }}>
@@ -9443,6 +9802,7 @@
 
             {currentTab === 'anatomy_hist' && (
               <AnatomiaHistologiaScreen
+                user={user}
                 mode={routeState.materiaId === 'histology' ? 'histology' : 'anatomy'}
                 onModeChange={(m) => navigateTo('anatomy_hist', { materiaId: m })}
               />
