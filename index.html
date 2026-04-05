@@ -4084,6 +4084,27 @@
             return aData.nextReview - bData.nextReview;
           });
       },
+
+      /**
+       * Só revisões agendadas: já respondidos pelo menos uma vez (reps >= 1),
+       * com nextReview vencido; ignora enterrados e cards nunca estudados.
+       */
+      getDueReviewCards: (cards, srData) => {
+        const now = Date.now();
+        return cards
+          .filter((card) => {
+            const raw = srData[card.id];
+            if (!raw || raw.buried) return false;
+            const data = normalizeSrEntry(raw);
+            if (!data || data.reps < 1) return false;
+            return data.nextReview <= now;
+          })
+          .sort((a, b) => {
+            const aData = normalizeSrEntry(srData[a.id]) || { nextReview: 0 };
+            const bData = normalizeSrEntry(srData[b.id]) || { nextReview: 0 };
+            return aData.nextReview - bData.nextReview;
+          });
+      },
     };
 
     // Format time
@@ -5705,8 +5726,13 @@
       }, []);
 
       const srDataForHome = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
-      const dueCards = SM2.getDueCards(flashcards, srDataForHome);
-      const reviewedCards = flashcards.filter(f => srDataForHome[f.id] && !srDataForHome[f.id].buried);
+      const studiedDeckCount = flashcards.filter((f) => {
+        const raw = srDataForHome[f.id];
+        if (!raw || raw.buried) return false;
+        const d = normalizeSrEntry(raw);
+        return d && d.reps >= 1;
+      }).length;
+      const dueReviewCards = SM2.getDueReviewCards(flashcards, srDataForHome);
 
       const displayMaterias = viewAll
         ? materias.filter(m => m.ativo !== false)
@@ -5770,21 +5796,30 @@
               </div>
             </div>
 
-            {reviewedCards.length > 0 && (
+            {studiedDeckCount > 0 && (
               <div className="daily-suggestion">
                 <div className="suggestion-label">Sugestão do Dia</div>
                 <div className="suggestion-title">
-                  {dueCards.length > 0 ? `${dueCards.length} cards para revisar` : 'Tudo em dia! ✨'}
+                  {dueReviewCards.length > 0 ? `${dueReviewCards.length} cards para revisar` : 'Tudo em dia! ✨'}
                 </div>
                 <div className="suggestion-progress">
-                  <div className="suggestion-progress-bar" style={{ width: dueCards.length > 0 ? `${Math.min(100, Math.round((dueCards.length / Math.max(reviewedCards.length, 1)) * 100))}%` : '100%', background: dueCards.length > 0 ? undefined : 'var(--primary)' }}></div>
+                  <div
+                    className="suggestion-progress-bar"
+                    style={{
+                      width:
+                        dueReviewCards.length > 0
+                          ? `${Math.min(100, Math.round((dueReviewCards.length / Math.max(studiedDeckCount, 1)) * 100))}%`
+                          : '100%',
+                      background: dueReviewCards.length > 0 ? undefined : 'var(--primary)',
+                    }}
+                  ></div>
                 </div>
                 <div className="suggestion-meta">
-                  {dueCards.length > 0
-                    ? `${Math.round((dueCards.length / Math.max(reviewedCards.length, 1)) * 100)}% do seu deck`
-                    : `${reviewedCards.length} cards no seu deck`}
+                  {dueReviewCards.length > 0
+                    ? `${Math.round((dueReviewCards.length / Math.max(studiedDeckCount, 1)) * 100)}% do seu deck de revisão`
+                    : `${studiedDeckCount} cards no seu deck de revisão`}
                 </div>
-                {dueCards.length > 0 && (
+                {dueReviewCards.length > 0 && (
                   <button className="suggestion-cta" onClick={() => onSelectMateria(null)}>
                     <IconPlay /> Estudar agora
                   </button>
@@ -9654,7 +9689,6 @@
                         )
                       ),
                       React.createElement('div', { style: { display: 'flex', flexWrap: 'wrap', gap: '12px' } },
-                        React.createElement('a', { href: 'https://github.com/pngjaico/GradBookApp', target: '_blank', rel: 'noopener noreferrer', className: 'gb-cta-btn' }, '\u2b50 Acompanhar no GitHub'),
                         React.createElement('button', { onClick: () => onNavigate('materials'), style: { border: '1px solid rgba(255,255,255,0.18)', background: 'rgba(255,255,255,0.07)', color: '#fff', borderRadius: '14px', padding: '14px 20px', fontSize: '14px', fontWeight: 700, cursor: 'pointer', fontFamily: 'DM Sans, sans-serif', backdropFilter: 'blur(8px)' } }, 'Voltar aos estudos')
                       )
                     ),
