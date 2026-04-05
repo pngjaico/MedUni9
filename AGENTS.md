@@ -5,7 +5,7 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 ## Nome do produto
 
 - **Nome atual:** **MedGradPlus** (interface, prompts, README, comunicação).
-- **Legado:** o repositório e o projeto Firebase podem manter identificadores `meduni9` / `MedUni9` em URLs ou no GitHub; não renomeie o remoto sem decisão explícita do mantenedor.
+- **Legado:** o repositório GitHub pode manter o nome `MedUni9`; o **Firebase de produção** é **`medgradplus`** (ver [`FIREBASE_E_GIT.md`](FIREBASE_E_GIT.md)). Não tratar `meduni9-869eb` como destino ativo.
 
 ## Ordem de leitura (rápida)
 
@@ -15,8 +15,9 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 | 2 | [CLAUDE_GUIA.md](CLAUDE_GUIA.md) | Stack, pastas, fluxo de deploy, o que não commitar |
 | 3 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) | Módulos, disciplinas, `data/materias.json`, planos de ensino |
 | 4 | [COMO-ATUALIZAR.md](COMO-ATUALIZAR.md) | Operação: flashcards, questões, admin |
-| 5 | [`.github/copilot-instructions.md`](.github/copilot-instructions.md) | Regras de materiais `.md` (encoding, Pré-Prova) |
-| 6 | Prompts em [prompts/](prompts/) | Ver hierarquia canônica abaixo |
+| 5 | [FIREBASE_E_GIT.md](FIREBASE_E_GIT.md) | Projeto Firebase `medgradplus`, deploy, o que não commitar |
+| 6 | [`.github/copilot-instructions.md`](.github/copilot-instructions.md) | Regras de materiais `.md` (encoding, Pré-Prova) |
+| 7 | Prompts em [prompts/](prompts/) | Ver hierarquia canônica abaixo |
 
 ## Prompts canônicos (não misturar prioridade)
 
@@ -54,12 +55,13 @@ Ao alterar convenções (nomes, caminhos, formato JSON, regras de prompt, deploy
 2. Atualize [CLAUDE_GUIA.md](CLAUDE_GUIA.md) para stack, pastas ou fluxo de trabalho.
 3. Atualize [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) se módulos, `materias.json` ou scripts de dados mudarem.
 4. Atualize [COMO-ATUALIZAR.md](COMO-ATUALIZAR.md) se o fluxo operacional do mantenedor mudar.
-5. Atualize [`.github/copilot-instructions.md`](.github/copilot-instructions.md) se regras de materiais `.md` mudarem.
-6. Atualize o prompt canônico correspondente em `prompts/`.
+5. Atualize [FIREBASE_E_GIT.md](FIREBASE_E_GIT.md) se o projeto Firebase, URL ou política de secrets no Git mudarem.
+6. Atualize [`.github/copilot-instructions.md`](.github/copilot-instructions.md) se regras de materiais `.md` mudarem.
+7. Atualize o prompt canônico correspondente em `prompts/`.
 
 Evite duplicar parágrafos longos entre arquivos: **um lugar canônico** + referência cruzada.
 
 ## Links úteis
 
-- App: https://meduni9-869eb.web.app  
-- Firebase Console: https://console.firebase.google.com/project/meduni9-869eb  
+- App: https://medgradplus.web.app  
+- Firebase Console: https://console.firebase.google.com/project/medgradplus/overview  

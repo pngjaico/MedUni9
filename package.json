@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "migrate:firestore": "node scripts/migrate-firestore.mjs"
+    "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs"
   },
   "devDependencies": {
     "firebase-admin": "^13.0.0"

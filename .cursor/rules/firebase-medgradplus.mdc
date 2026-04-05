@@ -1,0 +1,12 @@
+---
+description: Firebase produção medgradplus e segurança em Git (MedGradPlus)
+globs: "**/*"
+alwaysApply: true
+---
+
+# MedGradPlus — Firebase e Git
+
+- **Projeto Firebase de produção:** `medgradplus` apenas. URL: https://medgradplus.web.app — não documentar nem usar `meduni9-869eb` como destino ativo.
+- **Config:** `firebase-config.js` + `.firebaserc`. Deploy: `npx firebase-tools deploy --only hosting,firestore` (com projeto `medgradplus`).
+- **Nunca commitar:** ficheiros `*firebase-adminsdk*.json`, `*-chave-nova.json`, `.agents/firebase-sa-key*.json`, conteúdo de `.migration-temp/`. Ver `.gitignore` e `FIREBASE_E_GIT.md`.
+- **Migração antiga:** apenas em `quarantine/old-firebase-meduni9/` (histórico).

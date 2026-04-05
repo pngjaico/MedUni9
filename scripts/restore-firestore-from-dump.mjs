@@ -1,6 +1,7 @@
 /**
- * Importa firestore-dump.json no projeto NOVO (medgradplus).
- * Chave: MIGRATE_NEW_KEY, ou .agents/firebase-sa-key-NEW.json, ou medgradplus-*-adminsdk*.json na raiz.
+ * Importa `.migration-temp/firestore-dump.json` no Firestore do **medgradplus** (recuperação de backup).
+ * Chave: `MIGRATE_NEW_KEY`, ou `.agents/firebase-sa-key-NEW.json`, ou `medgradplus-*-adminsdk*.json` na raiz.
+ * Migrações antigas entre projetos: ver `quarantine/old-firebase-meduni9/`.
  */
 import { readFileSync, existsSync, readdirSync } from 'fs';
 import { fileURLToPath } from 'url';

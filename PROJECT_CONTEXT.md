@@ -4,7 +4,7 @@
 
 **MedGradPlus** é a plataforma web de estudos para estudantes de medicina da **Universidade Nove de Julho campus Vergueiro**. Organiza disciplinas, flashcards, questões e materiais de apoio por módulo/semestre.
 
-- **URL**: `https://meduni9-869eb.web.app`
+- **URL**: `https://medgradplus.web.app`
 - **GitHub**: `https://github.com/pngjaico/MedUni9` (branch `main` — nome do repositório legado; produto: MedGradPlus)
 - **Stack**: React 18 (UMD) em single-file [`index.html`](index.html), Firebase Hosting, dados em JSON estáticos
 
@@ -239,8 +239,8 @@ Cada tipo de disciplina tem um ícone emoji e cor associados para fácil identif
 
 ## Demo e acesso
 
-- **URL pública:** https://meduni9-869eb.web.app
-- **Projeto Firebase:** meduni9-869eb
+- **URL pública:** https://medgradplus.web.app
+- **Projeto Firebase:** medgradplus
 - **Repositório GitHub:** https://github.com/pngjaico/MedUni9
 - **Branch:** main
 

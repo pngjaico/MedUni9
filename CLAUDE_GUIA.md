@@ -8,7 +8,7 @@
 
 **MedGradPlus** — PWA de estudos de medicina para alunos da Uninove Vergueiro.
 
-URL: https://meduni9-869eb.web.app
+URL: https://medgradplus.web.app
 
 Stack intencional: **um único `index.html`** com React 18 via CDN, sem build step, sem `npm run` obrigatório.
 
@@ -126,4 +126,4 @@ firebase deploy --only hosting
 - Prompt de geração de materiais: `prompts/gerar_materiais_apoio.md`
 - Questões/flashcards: `prompts/gerar_questoes_flashcards.md`
 - Guia visual dos materiais: `materiais/GUIA_CRIACAO.md`
-- Firebase console: https://console.firebase.google.com/project/meduni9-869eb
+- Firebase console: https://console.firebase.google.com/project/medgradplus/overview
