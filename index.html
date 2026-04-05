@@ -1730,6 +1730,48 @@
       gap: 12px;
     }
 
+    .materials-cycle-section {
+      margin-bottom: 28px;
+      scroll-margin-top: 88px;
+    }
+
+    .materials-cycle-header {
+      font-family: Outfit, sans-serif;
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin: 0 0 6px;
+      letter-spacing: -0.02em;
+    }
+
+    .materials-cycle-sub {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      margin: 0 0 14px;
+      line-height: 1.5;
+    }
+
+    .materials-cycle-empty {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      line-height: 1.55;
+      padding: 14px 16px;
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border-subtle);
+    }
+
+    .materials-cycle-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+
+    .materials-cycle-nav a {
+      text-decoration: none;
+    }
+
     .material-subject {
       background: var(--surface-2);
       border: 1px solid var(--border-subtle);
@@ -2786,6 +2828,27 @@
       }
     }
 
+    /* Atlas: áreas invisíveis sobre alfinetes da foto — só foco visível para teclado */
+    .atlas-pin-hitbox {
+      outline: none;
+    }
+    .atlas-pin-hitbox:focus-visible {
+      outline: 2px solid var(--primary, #00C896);
+      outline-offset: 2px;
+      border-radius: 4px;
+    }
+
+    /* Anatomia + Histologia: toolbar não pode usar .screen-content (flex:1), senão divide a altura com o ecrã abaixo */
+    .anatomy-hist-toolbar {
+      flex-shrink: 0;
+      padding: 8px 16px 0;
+    }
+    @media (min-width: 1024px) {
+      .desktop-layout .anatomy-hist-toolbar {
+        padding: 8px 40px 0;
+      }
+    }
+
     /* Screen content transition */
     .screen-content {
       animation: screenFadeIn 200ms var(--ease-spring);
@@ -3713,20 +3776,6 @@
         <path d="M5.5 12C5.5 7.5 18.5 7.5 18.5 12C18.5 16.5 5.5 16.5 5.5 12Z"/>
         <line x1="10" y1="8.4" x2="8.8" y2="15.6" strokeWidth="1.2"/>
         <line x1="13.5" y1="8" x2="12.3" y2="16" strokeWidth="1.2"/>
-      </svg>
-    );
-
-    const IconHistology = () => (
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
-        <circle cx="12" cy="12" r="3.5"/>
-        <line x1="12" y1="2" x2="12" y2="5"/>
-        <line x1="12" y1="19" x2="12" y2="22"/>
-        <line x1="2" y1="12" x2="5" y2="12"/>
-        <line x1="19" y1="12" x2="22" y2="12"/>
-        <line x1="5.5" y1="5.5" x2="7.5" y2="7.5"/>
-        <line x1="16.5" y1="16.5" x2="18.5" y2="18.5"/>
-        <line x1="18.5" y1="5.5" x2="16.5" y2="7.5"/>
-        <line x1="5.5" y1="18.5" x2="7.5" y2="16.5"/>
       </svg>
     );
 
@@ -6296,11 +6345,16 @@
       );
     };
 
-    // Materials Screen
-    const MaterialsScreen = ({ materias, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
+    // Materials Screen — ciclos alinhados a resolveModulesFromCodeEntry (1–4 / 5–8 / 9–12)
+    const MATERIALS_CYCLES = [
+      { id: 'basico', label: 'Ciclo Básico', sub: 'Módulos 1 a 4', min: 1, max: 4, anchor: 'materials-cycle-basico' },
+      { id: 'clinico', label: 'Ciclo Clínico', sub: 'Módulos 5 a 8', min: 5, max: 8, anchor: 'materials-cycle-clinico' },
+      { id: 'internato', label: 'Internato', sub: 'Módulos 9 a 12', min: 9, max: 12, anchor: 'materials-cycle-internato' },
+    ];
+
+    const MaterialsScreen = ({ materias, materiasCatalog, user, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
       const [searchQuery, setSearchQuery] = useState('');
-      const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
       const [selectedMaterial, setSelectedMaterial] = useState(null);
       const [materialContent, setMaterialContent] = useState('');
       const [materialLoading, setMaterialLoading] = useState(false);
@@ -6562,7 +6616,22 @@
         return mods.reduce((acc, mod) => acc + (mod.temas?.length || 0), 0);
       };
 
-      const semesters = [...new Set(materias.filter(m => m.ativo !== false).map(m => m.modulo))].sort((a,b) => a-b);
+      const catalog = Array.isArray(materiasCatalog) ? materiasCatalog : [];
+
+      const moduloInRange = (m, min, max) => {
+        const mod = parseInt(m?.modulo ?? m?.semestre, 10);
+        return Number.isFinite(mod) && mod >= min && mod <= max;
+      };
+
+      const catalogHasDisciplinasInRange = (min, max) =>
+        catalog.some((m) => m.ativo !== false && moduloInRange(m, min, max));
+
+      const userHasAccessToCycle = (min, max) => {
+        for (let n = min; n <= max; n++) {
+          if (hasModuleAccess(user || {}, n)) return true;
+        }
+        return false;
+      };
 
       useEffect(() => {
         if (!initialMateriaId || !initialTemaId || !materias.length) return;
@@ -6588,10 +6657,171 @@
         openMaterial(materia, tema, { updateHash: false });
       }, [initialMateriaId, initialTemaId, materias, selectedMaterial]);
 
-      const filteredMaterias = materias.filter(m => {
-        if (semesterFilter && m.modulo !== semesterFilter) return false;
-        return fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '');
-      });
+      const filteredMaterias = materias.filter((m) =>
+        fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
+      );
+
+      const renderMateriaCard = (materia) => {
+        const total = totalTemas(materia);
+        const isExpanded = expandedMaterias[materia.id];
+        const modulosList = getMateriaModulos(materia) || [];
+        return (
+          <div key={materia.id} className="material-subject">
+            <div className="material-subject-name" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+              <span style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+                <SubjectIcon materiaId={materia.id} icon={materia.icon} cor={materia.cor} />
+                {materia.sigla || materia.nome}
+              </span>
+              {total > 0 && (
+                <button
+                  type="button"
+                  onClick={() => toggleMateria(materia.id)}
+                  style={{
+                    background: 'rgba(255,255,255,0.06)',
+                    border: '1px solid rgba(255,255,255,0.12)',
+                    borderRadius: '8px',
+                    color: 'var(--text-secondary)',
+                    fontSize: '0.78rem',
+                    padding: '4px 10px',
+                    cursor: 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '5px'
+                  }}
+                >
+                  {isExpanded ? '▲' : '▼'} {total} aulas
+                </button>
+              )}
+            </div>
+
+            {total > 0 && isExpanded && (
+              <div style={{ marginTop: '10px', marginBottom: '4px' }}>
+                {modulosList.map((mod, mi) => (
+                  <div key={mi} style={{ marginBottom: '10px' }}>
+                    <div style={{
+                      fontSize: '0.72rem',
+                      fontWeight: 700,
+                      textTransform: 'uppercase',
+                      letterSpacing: '0.06em',
+                      color: 'var(--text-secondary)',
+                      marginBottom: '6px',
+                      paddingLeft: '2px'
+                    }}>{mod.nome}</div>
+                    {(mod.temas || []).map((tema, ti) => (
+                      <div
+                        key={ti}
+                        role="button"
+                        tabIndex={0}
+                        onClick={() => openMaterial(materia, tema)}
+                        onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openMaterial(materia, tema); } }}
+                        title="Abrir material da aula"
+                        style={{
+                          display: 'flex',
+                          alignItems: 'flex-start',
+                          gap: '8px',
+                          padding: '7px 10px',
+                          borderRadius: '8px',
+                          background: 'rgba(255,255,255,0.03)',
+                          border: '1px solid rgba(255,255,255,0.06)',
+                          marginBottom: '4px',
+                          cursor: 'pointer'
+                        }}
+                      >
+                        <span style={{ color: materia.cor || 'var(--primary)', fontSize: '0.85rem', marginTop: '1px' }}>•</span>
+                        <div>
+                          <div style={{ fontSize: '0.88rem', color: 'var(--text-primary)', fontWeight: 500 }}>{tema.nome}</div>
+                          {tema.descricao && (
+                            <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '2px' }}>{tema.descricao}</div>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                ))}
+              </div>
+            )}
+
+            <div className="material-slots" style={{ marginTop: total > 0 ? '8px' : undefined }}>
+              <div className="material-slot">
+                <span className="material-slot-name">
+                  <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconFileText /></span>
+                  Resumo Didático
+                </span>
+                <span className="material-badge">Em breve</span>
+              </div>
+              <div className="material-slot">
+                <span className="material-slot-name">
+                  <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconPieChart /></span>
+                  Análise de Provas
+                </span>
+                <span className="material-badge">Em breve</span>
+              </div>
+            </div>
+          </div>
+        );
+      };
+
+      const userHasDisciplinaInCatalogForAccess = (min, max) =>
+        catalog.some(
+          (m) =>
+            m.ativo !== false &&
+            moduloInRange(m, min, max) &&
+            hasModuleAccess(user || {}, m.modulo ?? m.semestre)
+        );
+
+      const renderCycleSection = (cycle) => {
+        const { min, max, label, sub, anchor } = cycle;
+        const hasAccess = userHasAccessToCycle(min, max);
+        const hasCatalog = catalogHasDisciplinasInRange(min, max);
+        const hasDisciplinaForUser = userHasDisciplinaInCatalogForAccess(min, max);
+        const sectionMaterias = filteredMaterias.filter((m) => moduloInRange(m, min, max));
+        const q = String(searchQuery || '').trim();
+
+        let body = null;
+        if (!hasAccess) {
+          body = (
+            <div className="materials-cycle-empty">
+              Este ciclo não está incluído na sua chave. Atualize seu plano ou chave para acessar estes módulos.
+            </div>
+          );
+        } else if (!hasCatalog) {
+          body = (
+            <div className="materials-cycle-empty" style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
+              <span className="material-badge" style={{ flexShrink: 0 }}>Em breve</span>
+              <span>Conteúdo ainda por vir neste ciclo. Volte em breve para novos materiais.</span>
+            </div>
+          );
+        } else if (!hasDisciplinaForUser) {
+          body = (
+            <div className="materials-cycle-empty" style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
+              <span className="material-badge" style={{ flexShrink: 0 }}>Em breve</span>
+              <span>Materiais para os módulos da sua chave neste ciclo ainda por vir.</span>
+            </div>
+          );
+        } else if (sectionMaterias.length === 0 && q) {
+          body = (
+            <div className="materials-cycle-empty">
+              Nenhuma matéria encontrada com esse termo neste ciclo.
+            </div>
+          );
+        } else if (sectionMaterias.length === 0) {
+          body = (
+            <div className="materials-cycle-empty">
+              Nenhuma disciplina disponível aqui no momento.
+            </div>
+          );
+        } else {
+          body = <div className="materials-list">{sectionMaterias.map((m) => renderMateriaCard(m))}</div>;
+        }
+
+        return (
+          <section key={cycle.id} id={anchor} className="materials-cycle-section">
+            <h3 className="materials-cycle-header">{label}</h3>
+            <p className="materials-cycle-sub">{sub}</p>
+            {body}
+          </section>
+        );
+      };
 
       // --- DETAIL VIEW: when a material is selected, replace entire screen ---
       if (selectedMaterial) {
@@ -6981,125 +7211,26 @@
               </div>
             </div>
 
-            {semesters.length > 1 && (
-              <div className="semester-tabs">
+            <div className="materials-cycle-nav">
+              {MATERIALS_CYCLES.map((c) => (
                 <button
-                  className={`semester-tab ${!semesterFilter ? 'active' : ''}`}
-                  onClick={() => setSemesterFilter(null)}
-                >Todos</button>
-                {semesters.map(s => (
-                  <button
-                    key={s}
-                    className={`semester-tab ${semesterFilter === s ? 'active' : ''}`}
-                    onClick={() => setSemesterFilter(s)}
-                  >Módulo {s}</button>
-                ))}
-              </div>
-            )}
+                  key={c.id}
+                  type="button"
+                  className="semester-tab"
+                  onClick={() => document.getElementById(c.anchor)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
+                >{c.label}</button>
+              ))}
+            </div>
 
             <input
               type="search"
               className="subject-search"
-              placeholder="Buscar matéria..."
+              placeholder="Buscar matéria em todos os ciclos..."
               value={searchQuery}
               onChange={e => setSearchQuery(e.target.value)}
               style={{ marginBottom: '16px' }}
             />
-            <div className="materials-list">
-              {filteredMaterias.map(materia => {
-                const total = totalTemas(materia);
-                const isExpanded = expandedMaterias[materia.id];
-                return (
-                  <div key={materia.id} className="material-subject">
-                    <div className="material-subject-name" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                      <span style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
-                        <SubjectIcon materiaId={materia.id} icon={materia.icon} cor={materia.cor} />
-                        {materia.sigla || materia.nome}
-                      </span>
-                      {total > 0 && (
-                        <button
-                          onClick={() => toggleMateria(materia.id)}
-                          style={{
-                            background: 'rgba(255,255,255,0.06)',
-                            border: '1px solid rgba(255,255,255,0.12)',
-                            borderRadius: '8px',
-                            color: 'var(--text-secondary)',
-                            fontSize: '0.78rem',
-                            padding: '4px 10px',
-                            cursor: 'pointer',
-                            display: 'flex',
-                            alignItems: 'center',
-                            gap: '5px'
-                          }}
-                        >
-                          {isExpanded ? '▲' : '▼'} {total} aulas
-                        </button>
-                      )}
-                    </div>
-
-                    {total > 0 && isExpanded && (
-                      <div style={{ marginTop: '10px', marginBottom: '4px' }}>
-                        {getMateriaModulos(materia).map((mod, mi) => (
-                          <div key={mi} style={{ marginBottom: '10px' }}>
-                            <div style={{
-                              fontSize: '0.72rem',
-                              fontWeight: 700,
-                              textTransform: 'uppercase',
-                              letterSpacing: '0.06em',
-                              color: 'var(--text-secondary)',
-                              marginBottom: '6px',
-                              paddingLeft: '2px'
-                            }}>{mod.nome}</div>
-                            {mod.temas.map((tema, ti) => (
-                              <div
-                                key={ti}
-                                onClick={() => openMaterial(materia, tema)}
-                                title="Abrir material da aula"
-                                style={{
-                                display: 'flex',
-                                alignItems: 'flex-start',
-                                gap: '8px',
-                                padding: '7px 10px',
-                                borderRadius: '8px',
-                                background: 'rgba(255,255,255,0.03)',
-                                border: '1px solid rgba(255,255,255,0.06)',
-                                marginBottom: '4px',
-                                cursor: 'pointer'
-                              }}>
-                                <span style={{ color: materia.cor || 'var(--primary)', fontSize: '0.85rem', marginTop: '1px' }}>•</span>
-                                <div>
-                                  <div style={{ fontSize: '0.88rem', color: 'var(--text-primary)', fontWeight: 500 }}>{tema.nome}</div>
-                                  {tema.descricao && (
-                                    <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '2px' }}>{tema.descricao}</div>
-                                  )}
-                                </div>
-                              </div>
-                            ))}
-                          </div>
-                        ))}
-                      </div>
-                    )}
-
-                    <div className="material-slots" style={{ marginTop: total > 0 ? '8px' : undefined }}>
-                      <div className="material-slot">
-                        <span className="material-slot-name">
-                          <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconFileText /></span>
-                          Resumo Didático
-                        </span>
-                        <span className="material-badge">Em breve</span>
-                      </div>
-                      <div className="material-slot">
-                        <span className="material-slot-name">
-                          <span style={{ color: 'var(--text-secondary)', display: 'flex' }}><IconPieChart /></span>
-                          Análise de Provas
-                        </span>
-                        <span className="material-badge">Em breve</span>
-                      </div>
-                    </div>
-                  </div>
-                );
-              })}
-            </div>
+            {MATERIALS_CYCLES.map((c) => renderCycleSection(c))}
           </div>
         </>
       );
@@ -7652,6 +7783,9 @@
       kidney: AtlasIconKidney, male: AtlasIconMale, female: AtlasIconFemale, brain: AtlasIconBrain,
     };
 
+    /** Definir como true para voltar a exibir créditos, links e etiquetas de fonte (Asclépio/Wikimedia) após autorização. */
+    const ATLAS_SHOW_SOURCE_ATTRIBUTION = false;
+
     const AnatomiaAtlasPlate = ({ lamina, accentColor, sistemaTitulo, divisaoTitulo, referenciaAsclepio, onBack }) => {
       const [openPin, setOpenPin] = React.useState(null);
       const [hoverPin, setHoverPin] = React.useState(null);
@@ -7700,10 +7834,10 @@
               border: '1px solid rgba(255,255,255,0.08)',
               boxShadow: '0 8px 32px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.2)',
               background: '#0D1117',
-              aspectRatio: '4/3', minHeight: '200px',
+              minHeight: imgLoaded ? undefined : '220px',
             }}>
               {!imgLoaded && (
-                <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1 }}>
                   <div style={{ width: '28px', height: '28px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: accentColor, borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
                 </div>
               )}
@@ -7714,26 +7848,18 @@
                 decoding="async"
                 onLoad={() => setImgLoaded(true)}
                 onError={() => setImgError(true)}
-                style={{ width: '100%', height: 'auto', display: 'block', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease' }}
+                style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease' }}
               />
               {imgLoaded && pinos.map((p, i) => (
-                <button key={i} type="button" aria-label={p.rotulo} aria-pressed={showTip(i)}
+                <button key={i} type="button" className="atlas-pin-hitbox" aria-label={p.rotulo} aria-pressed={showTip(i)}
                   onClick={(e) => { e.stopPropagation(); setOpenPin(prev => prev === i ? null : i); }}
                   onMouseEnter={() => setHoverPin(i)} onMouseLeave={() => setHoverPin(null)}
                   style={{
                     position: 'absolute', left: p.x + '%', top: p.y + '%', transform: 'translate(-50%, -50%)',
-                    width: '44px', height: '44px', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                    width: '48px', height: '48px', padding: 0, margin: 0, border: 'none', background: 'transparent',
                     cursor: 'pointer', zIndex: showTip(i) ? 4 : 2,
                   }}
-                >
-                  <span style={{
-                    position: 'absolute', left: '50%', top: '50%', transform: 'translate(-50%, -50%)',
-                    width: showTip(i) ? '16px' : '12px', height: showTip(i) ? '16px' : '12px', borderRadius: '50%',
-                    background: showTip(i) ? accentColor : 'rgba(255,255,255,0.9)',
-                    border: '2.5px solid ' + accentColor, boxShadow: '0 2px 8px rgba(0,0,0,0.5)',
-                    transition: reduceMotion ? 'none' : 'all 0.15s ease',
-                  }} />
-                </button>
+                />
               ))}
               {imgLoaded && pinos.map((p, i) => showTip(i) && (
                 <div key={'tip-' + i} role="status" style={{
@@ -7767,32 +7893,34 @@
             </div>
           )}
 
-          <div style={{
-            marginTop: '14px', padding: '12px 14px', borderRadius: '12px',
-            background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)',
-            fontSize: '11px', color: 'var(--text-secondary)', lineHeight: 1.6,
-          }}>
-            {lamina.fonte === 'commons' ? (
-              <div>
-                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Créditos e licença</div>
-                {lamina.credito && <div>{lamina.credito}</div>}
-                {lamina.licenca && <div style={{ marginTop: '2px', opacity: 0.8 }}>{lamina.licenca}</div>}
-                {lamina.urlPaginaFonte && (
-                  <a href={lamina.urlPaginaFonte} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, marginTop: '4px', display: 'inline-block' }}>
-                    Ver no Wikimedia Commons
+          {ATLAS_SHOW_SOURCE_ATTRIBUTION && (
+            <div style={{
+              marginTop: '14px', padding: '12px 14px', borderRadius: '12px',
+              background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)',
+              fontSize: '11px', color: 'var(--text-secondary)', lineHeight: 1.6,
+            }}>
+              {lamina.fonte === 'commons' ? (
+                <div>
+                  <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Créditos e licença</div>
+                  {lamina.credito && <div>{lamina.credito}</div>}
+                  {lamina.licenca && <div style={{ marginTop: '2px', opacity: 0.8 }}>{lamina.licenca}</div>}
+                  {lamina.urlPaginaFonte && (
+                    <a href={lamina.urlPaginaFonte} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, marginTop: '4px', display: 'inline-block' }}>
+                      Ver no Wikimedia Commons
+                    </a>
+                  )}
+                </div>
+              ) : (
+                <div>
+                  <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Fonte</div>
+                  <div>{lamina.credito || referenciaAsclepio.nome}</div>
+                  <a href={referenciaAsclepio.url} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, display: 'inline-block', marginTop: '4px' }}>
+                    {referenciaAsclepio.nome}
                   </a>
-                )}
-              </div>
-            ) : (
-              <div>
-                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Fonte</div>
-                <div>{lamina.credito || referenciaAsclepio.nome}</div>
-                <a href={referenciaAsclepio.url} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, display: 'inline-block', marginTop: '4px' }}>
-                  {referenciaAsclepio.nome}
-                </a>
-              </div>
-            )}
-          </div>
+                </div>
+              )}
+            </div>
+          )}
         </div>
       );
     };
@@ -8025,7 +8153,9 @@
                             <div style={{ flex: 1 }}>
                               <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3 }}>{lam.titulo}</div>
                               <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                                <span>{lam.fonte === 'commons' ? 'Wikimedia Commons' : 'Asclépio UFU'}</span>
+                                {ATLAS_SHOW_SOURCE_ATTRIBUTION && (
+                                  <span>{lam.fonte === 'commons' ? 'Wikimedia Commons' : 'Asclépio UFU'}</span>
+                                )}
                                 {hasPins && <span style={{ display: 'flex', alignItems: 'center', gap: '3px', color: atlasSistema.cor }}><AtlasIconPin /> {lam.pinos.length}</span>}
                                 {!hasImg && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)' }}>pendente</span>}
                               </div>
@@ -8279,6 +8409,35 @@
       );
     };
 
+    const AnatomiaHistologiaScreen = ({ mode, onModeChange }) => {
+      const segBtnStyle = (active) => ({
+        flex: 1, padding: '10px 0', borderRadius: '10px', border: 'none',
+        fontSize: '13px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
+        transition: 'all 0.2s ease',
+        background: active ? 'linear-gradient(135deg, rgba(139,92,246,0.3), rgba(99,102,241,0.2))' : 'transparent',
+        color: active ? '#EDE9FE' : 'var(--text-secondary)',
+        boxShadow: active ? '0 2px 12px rgba(139,92,246,0.15)' : 'none',
+      });
+      const innerMode = mode === 'histology' ? 'histology' : 'anatomy';
+      return (
+        <>
+          <div className="anatomy-hist-toolbar">
+            <div style={{ maxWidth: '720px', margin: '0 auto' }}>
+              <div style={{
+                display: 'flex', gap: '4px', padding: '4px',
+                background: 'rgba(255,255,255,0.03)', borderRadius: '12px',
+                border: '1px solid rgba(255,255,255,0.06)',
+              }}>
+                <button type="button" aria-pressed={innerMode === 'anatomy'} style={segBtnStyle(innerMode === 'anatomy')} onClick={() => onModeChange('anatomy')}>Anatomia</button>
+                <button type="button" aria-pressed={innerMode === 'histology'} style={segBtnStyle(innerMode === 'histology')} onClick={() => onModeChange('histology')}>Histologia</button>
+              </div>
+            </div>
+          </div>
+          {innerMode === 'anatomy' ? <AnatomiaScreen /> : <HistologiaScreen />}
+        </>
+      );
+    };
+
     const SobreScreen = ({ user, onNavigate }) => {
       const currentFeatures = [
         { icon: '📚', color: '#00C896', title: 'Materiais por módulo', text: 'Resumos organizados por disciplina, aula e módulo, com navegação simples e foco direto no que cai.' },
@@ -8363,7 +8522,7 @@
                     </div>
 
                     <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
-                      <button className="about-cta-btn" onClick={() => onNavigate(user?.isGuest || user?.plano === 'gratuito' ? 'anatomy' : 'materials')}>
+                      <button className="about-cta-btn" onClick={() => (user?.isGuest || user?.plano === 'gratuito' ? onNavigate('anatomy_hist', { materiaId: 'anatomy' }) : onNavigate('materials'))}>
                         <IconRocket />
                         Explorar agora
                       </button>
@@ -8526,7 +8685,7 @@
     };
 
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy', 'histology', 'ambassador'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
         if (raw === 'about-public') {
@@ -8538,16 +8697,28 @@
           };
         }
         const [tabRaw, materiaRaw, aulaRaw] = raw.split(':');
-        const tab = VALID_TABS.includes(tabRaw) ? tabRaw : 'home';
+        let resolvedTab = tabRaw;
+        if (tabRaw === 'anatomy') resolvedTab = 'anatomy_hist';
+        if (tabRaw === 'histology') resolvedTab = 'anatomy_hist';
+        const tab = VALID_TABS.includes(resolvedTab) ? resolvedTab : 'home';
+        let materiaId = materiaRaw ? decodeURIComponent(materiaRaw) : null;
+        if (tabRaw === 'anatomy' && !materiaId) materiaId = 'anatomy';
+        if (tabRaw === 'histology' && !materiaId) materiaId = 'histology';
+        if (tab === 'anatomy_hist' && !materiaId) materiaId = 'anatomy';
         return {
           tab,
-          materiaId: materiaRaw ? decodeURIComponent(materiaRaw) : null,
+          materiaId,
           aulaId: aulaRaw ? decodeURIComponent(aulaRaw) : null,
           publicOnly: false,
         };
       };
       const buildHash = ({ tab, materiaId, aulaId }) => {
         const parts = [tab || 'home'];
+        if (tab === 'anatomy_hist') {
+          if (materiaId && materiaId !== 'anatomy') parts.push(encodeURIComponent(materiaId));
+          if (aulaId) parts.push(encodeURIComponent(aulaId));
+          return `#${parts.join(':')}`;
+        }
         if (materiaId) parts.push(encodeURIComponent(materiaId));
         if (aulaId) parts.push(encodeURIComponent(aulaId));
         return `#${parts.join(':')}`;
@@ -8585,9 +8756,11 @@
       );
 
       const navigateTo = (tab, options = {}) => {
+        const resolvedTab = VALID_TABS.includes(tab) ? tab : 'home';
+        const materiaIdForAnatomyHist = options.materiaId !== undefined ? options.materiaId : 'anatomy';
         const nextRoute = {
-          tab: VALID_TABS.includes(tab) ? tab : 'home',
-          materiaId: options.materiaId || null,
+          tab: resolvedTab,
+          materiaId: resolvedTab === 'anatomy_hist' ? materiaIdForAnatomyHist : (options.materiaId || null),
           aulaId: options.aulaId || null,
           publicOnly: !!options.publicOnly,
         };
@@ -8877,14 +9050,13 @@
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
         { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
-        { id: 'anatomy', label: 'Anatomia', icon: <IconAnatomy /> },
-        { id: 'histology', label: 'Histologia', icon: <IconHistology /> },
+        { id: 'anatomy_hist', label: 'Anat. + Hist.', navTitle: 'Anatomia e histologia', icon: <IconAnatomy /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
         { id: 'about', label: 'Sobre', icon: <IconRocket /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
       if (isAmbassadorUser) {
-        navItems.splice(8, 0, { id: 'ambassador', label: 'Embaixador', icon: <IconCoupon /> });
+        navItems.splice(7, 0, { id: 'ambassador', label: 'Embaixador', icon: <IconCoupon /> });
       }
 
       // App UI with desktop sidebar
@@ -8907,6 +9079,7 @@
                 <div
                   key={item.id}
                   className={`sidebar-item ${currentTab === item.id ? 'active' : ''}`}
+                  title={item.navTitle || undefined}
                   onClick={() => navigateTo(item.id)}
                 >
                   {item.icon}
@@ -9065,6 +9238,7 @@
               ) : (
                 <MaterialsScreen
                   materias={accessFilteredMaterias}
+                  materiasCatalog={materias.filter((m) => m.ativo !== false)}
                   userSemester={user.semestre}
                   initialMateriaId={routeState.materiaId}
                   initialTemaId={routeState.aulaId}
@@ -9083,7 +9257,7 @@
             )}
 
             {currentTab === 'about' && (
-              <SobreScreen user={user} onNavigate={(tab) => navigateTo(tab)} />
+              <SobreScreen user={user} onNavigate={(tab, opts) => navigateTo(tab, opts || {})} />
             )}
 
             {currentTab === 'profile' && (
@@ -9098,12 +9272,11 @@
               <AmbassadorScreen user={user} />
             )}
 
-            {currentTab === 'anatomy' && (
-              <AnatomiaScreen />
-            )}
-
-            {currentTab === 'histology' && (
-              <HistologiaScreen />
+            {currentTab === 'anatomy_hist' && (
+              <AnatomiaHistologiaScreen
+                mode={routeState.materiaId === 'histology' ? 'histology' : 'anatomy'}
+                onModeChange={(m) => navigateTo('anatomy_hist', { materiaId: m })}
+              />
             )}
 
             {/* Bottom Navigation (mobile only) */}
@@ -9112,6 +9285,7 @@
                 <div
                   key={item.id}
                   className={`nav-item ${currentTab === item.id ? 'active' : ''}`}
+                  title={item.navTitle || undefined}
                   onClick={() => navigateTo(item.id)}
                 >
                   <div className="nav-icon">{item.icon}</div>

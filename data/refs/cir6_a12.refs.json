@@ -1,0 +1,19 @@
+{
+  "aula_id": "cir6_a12",
+  "materia": "cirurgia_ortopedia",
+  "modulo": 6,
+  "tema": "Neoplasias de Fígado e Vias Biliares",
+  "gerado_em": "05/04/2026 04:00",
+  "revisado": false,
+  "livros": [
+    {
+      "titulo": "A ser preenchido pelo agente revisor",
+      "capitulo": "",
+      "paginas": "",
+      "relevancia": "principal"
+    }
+  ],
+  "justificativa": "A ser preenchido pelo agente revisor: por que este conteúdo foi incluído, quais pontos de prova ele cobre e qual a relevância clínica.",
+  "pontos_de_prova": [],
+  "observacoes": ""
+}
