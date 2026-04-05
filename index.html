@@ -819,6 +819,73 @@
       white-space: nowrap;
     }
 
+    .upsell-banner--demo {
+      background: linear-gradient(135deg, rgba(0,200,150,0.14) 0%, rgba(59,130,246,0.08) 100%);
+      border: 1px solid rgba(0,200,150,0.35);
+    }
+    .upsell-banner--demo .upsell-banner-text strong {
+      color: #6ee7b7;
+    }
+    .upsell-banner--demo .upsell-banner-btn {
+      background: linear-gradient(135deg, #00C896, #059669);
+      color: #0f172a;
+    }
+
+    .auth-free-hero-btn {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 4px;
+      padding: 18px 20px 16px;
+      margin-bottom: 8px;
+      border: none;
+      border-radius: 16px;
+      cursor: pointer;
+      font-family: 'Outfit', sans-serif;
+      background: linear-gradient(145deg, #00E5B0 0%, #00C896 40%, #08916C 100%);
+      color: #0b1220;
+      box-shadow: 0 8px 32px rgba(0, 200, 150, 0.45), 0 0 0 1px rgba(255,255,255,0.12) inset;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+      animation: authFreePulse 2.8s ease-in-out infinite;
+    }
+    .auth-free-hero-btn:hover:not(:disabled) {
+      transform: translateY(-2px);
+      box-shadow: 0 12px 40px rgba(0, 200, 150, 0.55), 0 0 0 1px rgba(255,255,255,0.18) inset;
+    }
+    .auth-free-hero-btn:disabled {
+      opacity: 0.65;
+      cursor: not-allowed;
+      animation: none;
+    }
+    @keyframes authFreePulse {
+      0%, 100% { box-shadow: 0 8px 32px rgba(0, 200, 150, 0.45), 0 0 0 1px rgba(255,255,255,0.12) inset; }
+      50% { box-shadow: 0 10px 44px rgba(0, 230, 170, 0.6), 0 0 0 1px rgba(255,255,255,0.2) inset; }
+    }
+    .auth-free-hero-badge {
+      font-size: 10px;
+      font-weight: 800;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: rgba(15, 18, 32, 0.75);
+      background: rgba(255,255,255,0.35);
+      padding: 4px 10px;
+      border-radius: 999px;
+    }
+    .auth-free-hero-title {
+      font-size: 1.15rem;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .auth-free-hero-sub {
+      font-size: 12px;
+      font-weight: 600;
+      color: rgba(15, 24, 40, 0.82);
+      max-width: 280px;
+      line-height: 1.35;
+    }
+
     /* Free access divider */
     .free-access-divider {
       display: flex;
@@ -1772,6 +1839,41 @@
       text-decoration: none;
     }
 
+    .materials-mod-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 14px;
+    }
+
+    .materials-mod-chips-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--text-secondary);
+      margin-right: 4px;
+    }
+
+    .materials-mod-subgroup {
+      margin-bottom: 18px;
+    }
+
+    .materials-mod-subgroup:last-child {
+      margin-bottom: 0;
+    }
+
+    .materials-mod-title {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: #00C896;
+      margin: 0 0 10px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid rgba(0, 200, 150, 0.2);
+    }
+
     .material-subject {
       background: var(--surface-2);
       border: 1px solid var(--border-subtle);
@@ -1946,8 +2048,8 @@
     /* ── Markdown Reader ───────────────────────────────────────── */
     .markdown-body {
       font-family: 'Lexend', 'DM Sans', sans-serif;
-      font-size: 1rem;
-      line-height: 1.82;
+      font-size: 1.0625rem;
+      line-height: 1.75;
       color: #D1D9E6;
       user-select: text;
       -webkit-user-select: text;
@@ -1956,7 +2058,7 @@
     /* Headings */
     .markdown-body h1 {
       font-family: 'Outfit', sans-serif;
-      font-size: 1.4rem;
+      font-size: 1.55rem;
       font-weight: 800;
       text-align: center;
       background: linear-gradient(135deg, #F1F5F9 0%, #38BDF8 55%, #00C896 100%);
@@ -1998,37 +2100,37 @@
       background: rgba(0,200,150,0.1);
       border: 1px solid rgba(0,200,150,0.2);
       border-radius: 20px;
-      padding: 3px 11px;
-      font-size: 0.75rem;
+      padding: 4px 12px;
+      font-size: 0.84rem;
       color: #7DD3FC;
       font-family: 'DM Sans', sans-serif;
       font-weight: 500;
     }
     .markdown-body h2 {
       font-family: 'Outfit', sans-serif;
-      font-size: 1.12rem;
+      font-size: 1.35rem;
       font-weight: 700;
       color: #E2E8F0;
       margin: 1.7rem 0 0.65rem;
       padding-left: 12px;
       border-left: 3px solid var(--mint, #00C896);
-      line-height: 1.35;
+      line-height: 1.32;
     }
     .markdown-body h3 {
       font-family: 'Outfit', sans-serif;
-      font-size: 1rem;
+      font-size: 1.14rem;
       font-weight: 600;
       color: #38BDF8;
       margin: 1.2rem 0 0.5rem;
-      line-height: 1.35;
+      line-height: 1.38;
     }
     .markdown-body h4 {
-      font-size: 0.88rem;
+      font-size: 1.02rem;
       font-weight: 600;
       color: #7DD3FC;
       margin: 1rem 0 0.35rem;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
+      letter-spacing: 0.04em;
     }
 
     /* Paragraphs & text */
@@ -2191,7 +2293,7 @@
     .markdown-body table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.85rem;
+      font-size: 0.98rem;
       min-width: 360px;
     }
     .markdown-body thead tr {
@@ -2204,7 +2306,7 @@
       color: #E2E8F0;
       text-align: left;
       white-space: nowrap;
-      font-size: 0.82rem;
+      font-size: 0.92rem;
       letter-spacing: 0.02em;
       text-transform: uppercase;
     }
@@ -4168,6 +4270,26 @@
       return normalized.includes(modulo);
     }
 
+    /** Demo do plano gratuito: uma aula completa + flashcards e questões só desta aula (BMF1 mód. 1). */
+    const FREE_TIER_DEMO = Object.freeze({
+      materiaId: 'bmf1',
+      aulaId: 'bmf1_a5',
+      label: 'Tecido Ósseo — Estrutura e Ossificação',
+    });
+
+    function isFreeTierUser(profile) {
+      if (!profile) return false;
+      if (profile.isGuest === true) return true;
+      return String(profile.plano || '').toLowerCase() === 'gratuito';
+    }
+
+    function sliceMateriaToFreeDemo(materia) {
+      if (!materia || materia.id !== FREE_TIER_DEMO.materiaId) return null;
+      const aulas = (materia.aulas || []).filter((a) => a.id === FREE_TIER_DEMO.aulaId);
+      if (!aulas.length) return null;
+      return { ...materia, aulas, modulos: undefined };
+    }
+
     function normalizeUserProfile(profile = {}) {
       const faculty = getFacultyById(profile.faculdadeId || profile.facultyId || DEFAULT_FACULTY_ID);
       const campus = getCampusById(faculty.id, profile.campusId || DEFAULT_CAMPUS_ID) || getFirstActiveCampus(faculty);
@@ -4798,6 +4920,7 @@
           plano: 'gratuito',
           semestre: 1,
           modulo: 1,
+          modulosAcesso: [1],
           faculdadeId: 'uninove',
           campusId: 'vergueiro',
           codeHash: '',
@@ -4928,7 +5051,13 @@
               {!showForgot && mode === 'login' && (
                 <div>
                   <h2 style={{ fontSize: '20px', marginBottom: '4px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Bem-vindo de volta</h2>
-                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '24px' }}>Entre com sua conta para continuar</p>
+                  <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '18px' }}>Experimente sem cadastro ou entre com sua conta</p>
+                  <button type="button" className="auth-free-hero-btn" onClick={handleFreeAccess} disabled={loading} aria-label="Experimentar a plataforma gratuitamente">
+                    <span className="auth-free-hero-badge">Amostra grátis</span>
+                    <span className="auth-free-hero-title">Experimentar a plataforma agora</span>
+                    <span className="auth-free-hero-sub">1 aula completa + flashcards e questões da mesma aula · sem cadastro</span>
+                  </button>
+                  <div className="free-access-divider" style={{ marginTop: '10px', marginBottom: '18px' }}><span>ou entre com sua conta</span></div>
                   {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                   <input className="form-input" type="email" placeholder="Email" value={email}
                     onChange={e => { setEmail(e.target.value); setError(''); }} style={{ marginBottom: '10px' }} />
@@ -4956,21 +5085,16 @@
                     style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                     <GoogleIcon /> Entrar com Google
                   </button>
-                  <div className="free-access-divider"><span>sem conta</span></div>
-                  <button className="btn btn-secondary" onClick={handleFreeAccess}
-                    style={{ background: 'rgba(255,255,255,0.03)', border: '1px dashed rgba(255,255,255,0.15)', color: 'var(--text-secondary)', fontSize: '13px' }}>
-                    👀 Explorar gratuitamente (sem código)
-                  </button>
-                  <div style={{ marginTop: '16px', padding: '14px 16px', borderRadius: '12px', background: 'linear-gradient(135deg, rgba(0,200,150,0.12), rgba(0,200,150,0.06))', border: '1px solid rgba(0,200,150,0.3)', textAlign: 'center' }}>
-                    <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.6)', margin: '0 0 8px', lineHeight: 1.4 }}>
-                      Acesso completo a todos os módulos, questões e materiais da sua faculdade
+                  <div style={{ marginTop: '16px', padding: '12px 14px', borderRadius: '12px', background: 'rgba(0,200,150,0.06)', border: '1px solid rgba(0,200,150,0.22)', textAlign: 'center' }}>
+                    <p style={{ fontSize: '12px', color: 'var(--text-secondary)', margin: '0 0 10px', lineHeight: 1.45 }}>
+                      Acesso completo: todos os módulos, materiais e bancos da sua chave
                     </p>
-                    <div style={{ display: 'flex', gap: '10px', justifyContent: 'center', flexWrap: 'wrap' }}>
-                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 22px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', boxShadow: '0 4px 16px rgba(0,200,150,0.35)' }}>
-                        🎓 Ver planos e preços
+                    <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 18px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 4px 14px rgba(0,200,150,0.3)' }}>
+                        Ver planos
                       </a>
-                      <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.07)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 700, fontSize: '13px', padding: '9px 18px', borderRadius: '8px', textDecoration: 'none', letterSpacing: '0.01em', border: '1px solid rgba(255,255,255,0.14)' }}>
-                        ✨ Conhecer o app
+                      <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.06)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 600, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.12)' }}>
+                        Conhecer o app
                       </a>
                     </div>
                   </div>
@@ -5218,13 +5342,15 @@
           <div className="home-screen-content">
             {/* Upsell banner for free/guest users */}
             {(user.plano === 'gratuito' || user.isGuest) && (
-              <div className="upsell-banner">
-                <div className="upsell-banner-icon">⚡</div>
+              <div className="upsell-banner upsell-banner--demo">
+                <div className="upsell-banner-icon">🎁</div>
                 <div className="upsell-banner-text">
-                  <strong>Acesso gratuito — recursos limitados</strong>
-                  <span>Você está vendo apenas uma amostra. Desbloqueie tudo com um código de acesso.</span>
+                  <strong>Modo demonstração — conheça a plataforma</strong>
+                  <span>
+                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> ({FREE_TIER_DEMO.label}) com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo abre com código.
+                  </span>
                 </div>
-                <button className="upsell-banner-btn" onClick={() => window.location.href = 'comprar.html'}>
+                <button type="button" className="upsell-banner-btn" onClick={() => { window.location.href = 'comprar.html'; }}>
                   Ver planos
                 </button>
               </div>
@@ -6361,6 +6487,7 @@
       const [materialError, setMaterialError] = useState('');
       const [preProvaVisible, setPreProvaVisible] = useState(false);
       const [figurasCatalog, setFigurasCatalog] = useState(null);
+      const [moduleFilterByCycle, setModuleFilterByCycle] = useState({ basico: null, clinico: null, internato: null });
       const markdownRef = useRef(null);
       const restoredRouteRef = useRef('');
 
@@ -6769,13 +6896,68 @@
             hasModuleAccess(user || {}, m.modulo ?? m.semestre)
         );
 
+      const getMateriaModuloNum = (m) => {
+        const n = parseInt(m?.modulo ?? m?.semestre, 10);
+        return Number.isFinite(n) ? n : null;
+      };
+
       const renderCycleSection = (cycle) => {
-        const { min, max, label, sub, anchor } = cycle;
+        const { min, max, label, sub, anchor, id: cycleId } = cycle;
         const hasAccess = userHasAccessToCycle(min, max);
         const hasCatalog = catalogHasDisciplinasInRange(min, max);
         const hasDisciplinaForUser = userHasDisciplinaInCatalogForAccess(min, max);
         const sectionMaterias = filteredMaterias.filter((m) => moduloInRange(m, min, max));
         const q = String(searchQuery || '').trim();
+
+        const moduleNums = [...new Set(sectionMaterias.map(getMateriaModuloNum).filter((n) => n != null))].sort((a, b) => a - b);
+        const rawFilter = moduleFilterByCycle[cycleId];
+        const moduleFilter = rawFilter != null && moduleNums.includes(rawFilter) ? rawFilter : null;
+        const modulesToShow = moduleFilter == null ? moduleNums : moduleNums.filter((n) => n === moduleFilter);
+
+        const renderModuleChips = () => {
+          if (moduleNums.length <= 1) return null;
+          return (
+            <div className="materials-mod-chips">
+              <span className="materials-mod-chips-label">Módulo</span>
+              <button
+                type="button"
+                className={`semester-tab${moduleFilter == null ? ' active' : ''}`}
+                onClick={() => setModuleFilterByCycle((prev) => ({ ...prev, [cycleId]: null }))}
+              >Todos</button>
+              {moduleNums.map((n) => (
+                <button
+                  key={n}
+                  type="button"
+                  className={`semester-tab${moduleFilter === n ? ' active' : ''}`}
+                  onClick={() => setModuleFilterByCycle((prev) => ({ ...prev, [cycleId]: n }))}
+                >{n}</button>
+              ))}
+            </div>
+          );
+        };
+
+        const renderGroupedList = () => (
+          <>
+            {renderModuleChips()}
+            {modulesToShow.length === 0 ? (
+              <div className="materials-cycle-empty">
+                {moduleFilter != null
+                  ? 'Nenhuma matéria neste módulo com os filtros atuais.'
+                  : 'Nenhuma disciplina disponível aqui no momento.'}
+              </div>
+            ) : (
+              modulesToShow.map((modNum) => {
+                const group = sectionMaterias.filter((m) => getMateriaModuloNum(m) === modNum);
+                return (
+                  <div key={modNum} id={`${anchor}-mod-${modNum}`} className="materials-mod-subgroup" style={{ scrollMarginTop: '88px' }}>
+                    <h4 className="materials-mod-title">Módulo {modNum}</h4>
+                    <div className="materials-list">{group.map((m) => renderMateriaCard(m))}</div>
+                  </div>
+                );
+              })
+            )}
+          </>
+        );
 
         let body = null;
         if (!hasAccess) {
@@ -6811,7 +6993,7 @@
             </div>
           );
         } else {
-          body = <div className="materials-list">{sectionMaterias.map((m) => renderMateriaCard(m))}</div>;
+          body = renderGroupedList();
         }
 
         return (
@@ -8445,7 +8627,7 @@
         { icon: '🎯', color: '#10B981', title: 'Questões e treino', text: 'Banco integrado ao fluxo do app para revisar disciplinas com mais velocidade e menos atrito.' },
         { icon: '🔁', color: '#F59E0B', title: 'Flashcards com repetição', text: 'Revisão espaçada para consolidar base, acelerar retenção e reduzir esquecimento.' },
         { icon: '💬', color: '#EF4444', title: 'Feedback direto', text: 'Você reporta erros, sugere melhorias e ajuda a moldar a evolução do produto em tempo real.' },
-        { icon: '🔓', color: '#3B82F6', title: 'Entrada gratuita', text: 'Mesmo no acesso gratuito você já consegue explorar a proposta, a anatomia beta e esta visão completa do app.' },
+        { icon: '🔓', color: '#3B82F6', title: 'Entrada gratuita', text: 'No modo demonstração você abre 1 aula completa de BMF1 com material, flashcards e questões — além da anatomia beta e desta visão do app.' },
       ];
 
       const futureFeatures = [
@@ -8522,7 +8704,7 @@
                     </div>
 
                     <div style={{ display: 'flex', flexWrap: 'wrap', gap: '12px' }}>
-                      <button className="about-cta-btn" onClick={() => (user?.isGuest || user?.plano === 'gratuito' ? onNavigate('anatomy_hist', { materiaId: 'anatomy' }) : onNavigate('materials'))}>
+                      <button className="about-cta-btn" onClick={() => onNavigate('materials')}>
                         <IconRocket />
                         Explorar agora
                       </button>
@@ -9036,14 +9218,31 @@
         }
       };
 
-      const accessFilteredMaterias = materias.filter(m => m.ativo !== false && hasModuleAccess(user, m.modulo || m.semestre));
-      const allowedMateriaIds = new Set(accessFilteredMaterias.map(m => m.id));
-      const accessFilteredFlashcards = flashcards.filter(card => {
-        if (!card?.materia) return false;
-        if (allowedMateriaIds.has(card.materia)) return true;
-        const fallbackMateria = materias.find(m => m.id === card.materia);
-        return fallbackMateria ? hasModuleAccess(user, fallbackMateria.modulo || fallbackMateria.semestre) : false;
-      });
+      const accessFilteredMaterias = (() => {
+        if (isFreeTierUser(user)) {
+          const full = materias.find((m) => m.id === FREE_TIER_DEMO.materiaId && m.ativo !== false);
+          const sliced = sliceMateriaToFreeDemo(full);
+          return sliced ? [sliced] : [];
+        }
+        return materias.filter((m) => m.ativo !== false && hasModuleAccess(user, m.modulo || m.semestre));
+      })();
+
+      const allowedMateriaIds = new Set(accessFilteredMaterias.map((m) => m.id));
+      const accessFilteredFlashcards = (() => {
+        if (isFreeTierUser(user)) {
+          return flashcards.filter(
+            (card) =>
+              card?.materia === FREE_TIER_DEMO.materiaId &&
+              card?.tema === FREE_TIER_DEMO.aulaId
+          );
+        }
+        return flashcards.filter((card) => {
+          if (!card?.materia) return false;
+          if (allowedMateriaIds.has(card.materia)) return true;
+          const fallbackMateria = materias.find((m) => m.id === card.materia);
+          return fallbackMateria ? hasModuleAccess(user, fallbackMateria.modulo || fallbackMateria.semestre) : false;
+        });
+      })();
 
       const navItems = [
         { id: 'home', label: 'Início', icon: <IconHome /> },
@@ -9128,26 +9327,16 @@
             )}
 
             {currentTab === 'cards' && (
-              user.plano === 'gratuito' || user.isGuest ? (
+              accessFilteredMaterias.length === 0 ? (
                 <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>🔒</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Flashcards bloqueados</h2>
-                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    No plano gratuito você não tem acesso aos flashcards com revisão espaçada. Ative um código para desbloquear todos os módulos.
-                  </p>
-                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
-                    Ver planos e preços
-                  </button>
-                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
-                    Voltar ao início
-                  </button>
-                </div>
-              ) : accessFilteredMaterias.length === 0 ? (
-                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>{isFreeTierUser(user) ? '📭' : '⛔'}</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>
+                    {isFreeTierUser(user) ? 'Demonstração indisponível' : 'Sem acesso para este conteúdo'}
+                  </h2>
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    Sua chave atual não libera os módulos com flashcards disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                    {isFreeTierUser(user)
+                      ? 'Não foi possível carregar a aula de amostra e os flashcards. Verifique sua conexão e atualize a página.'
+                      : 'Sua chave atual não libera os módulos com flashcards disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
@@ -9169,26 +9358,16 @@
             )}
 
             {currentTab === 'quiz' && (
-              user.plano === 'gratuito' || user.isGuest ? (
+              accessFilteredMaterias.length === 0 ? (
                 <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>🔒</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Questões bloqueadas</h2>
-                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    O banco de questões está disponível apenas para usuários com código ativo. Não perca as questões do seu módulo.
-                  </p>
-                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
-                    Ver planos e preços
-                  </button>
-                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
-                    Voltar ao início
-                  </button>
-                </div>
-              ) : accessFilteredMaterias.length === 0 ? (
-                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>{isFreeTierUser(user) ? '📭' : '⛔'}</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>
+                    {isFreeTierUser(user) ? 'Demonstração indisponível' : 'Sem acesso para este conteúdo'}
+                  </h2>
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    Sua chave atual não libera os módulos com questões disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                    {isFreeTierUser(user)
+                      ? 'Não foi possível carregar a aula de amostra e o simulado de questões. Verifique sua conexão e atualize a página.'
+                      : 'Sua chave atual não libera os módulos com questões disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
@@ -9210,26 +9389,16 @@
             )}
 
             {currentTab === 'materials' && (
-              user.plano === 'gratuito' || user.isGuest ? (
+              accessFilteredMaterias.length === 0 ? (
                 <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>📚</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Materiais bloqueados</h2>
-                  <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '320px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    Os resumos e materiais de apoio são personalizados para cada faculdade e estão disponíveis apenas com código ativo.
-                  </p>
-                  <button className="btn btn-primary" style={{ maxWidth: '280px' }} onClick={() => window.location.href = 'comprar.html'}>
-                    Ver planos e preços
-                  </button>
-                  <button className="btn btn-secondary mt-2" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
-                    Voltar ao início
-                  </button>
-                </div>
-              ) : accessFilteredMaterias.length === 0 ? (
-                <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
-                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>⛔</div>
-                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>Sem acesso para este conteúdo</h2>
+                  <div style={{ fontSize: '48px', marginBottom: '16px' }}>{isFreeTierUser(user) ? '📭' : '⛔'}</div>
+                  <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', color: 'var(--text-primary)', marginBottom: '10px' }}>
+                    {isFreeTierUser(user) ? 'Demonstração indisponível' : 'Sem acesso para este conteúdo'}
+                  </h2>
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
-                    Sua chave atual não libera os módulos com materiais disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.
+                    {isFreeTierUser(user)
+                      ? 'Não foi possível carregar o material de amostra. Verifique sua conexão e atualize a página.'
+                      : 'Sua chave atual não libera os módulos com materiais disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
