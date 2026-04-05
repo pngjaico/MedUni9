@@ -1,0 +1,14 @@
+{
+  "2026-04": {
+    "emb_4vpguy5ew": {
+      "count": 1,
+      "primeira_venda_em": "2026-04-05T00:00:00.000Z",
+      "ultima_venda_em": "2026-04-05T00:00:00.000Z",
+      "qualificou": true,
+      "total_bruto": 39.9,
+      "total_comissao": 3.99,
+      "modulo_count": 1,
+      "ciclo_count": 0
+    }
+  }
+}

@@ -1,47 +1,78 @@
 # A Equipe Cirúrgica e Instrumentação
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **equipe cirúrgica** inclui **cirurgião**, **ajudante**, **instrumentador**, **anestesista**, **circulante** e **enfermagem**. Cada papel tem **zona de atuação** para manter assepsia. O **instrumentador** antecipa passos, mantém campo organizado e **comunica** falta de material sem gesticular sobre campo estéril. Em prova, cobram-se **posicionamento** do paciente (decúbito, travesseiros), **proteção de pontos de pressão** e **timeout** cirúrgico.
+A **equipe cirúrgica** inclui **cirurgião**, **auxiliar**, **instrumentador**, **circulante** e **anestesista**. Cada papel reduz **erro** e **contaminação**. **Instrumentação** organizada em **mesas** estéreis e **passagem** de materiais sem quebrar campo. Em prova, dominam **funções**, **comunicação** e **nomenclatura** de instrumentos.
 
 ---
 
-## Papéis
+## Papéis principais
 
-| Função | Responsabilidade principal |
-|--------|---------------------------|
-| Circulante | Abre materiais, documenta, não toca campo estéril |
-| Instrumentador | Passa instrumentos ao cirurgião dentro do campo |
-| Anestesista | Via aérea, hemodinâmica, analgesia |
-| Cirurgião | Conduta técnica e decisão intraoperatória |
+| Função | Responsabilidade |
+|--------|------------------|
+| Cirurgião | decisão técnica, hemostasia, síntese |
+| Instrumentador | passa instrumentos, mantém campo |
+| Circulante | materiais extras, documentação |
+| Anestesista | via aérea, hemodinâmica |
 
-> **Pegadinha:** instrumentador **não** sai da sala com luvas para pegar item na prateleira — pede ao circulante.
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A04-F01`
+
+- **Momento:** após papéis — posições.
+- **O que mostrar:** **desenho** da **mesa operatória** com posições do **cirurgião**, **auxiliar**, **instrumentador** e **anestesista**.
+- **Tipo sugerido:** diagrama de sala.
+- **Legenda (rascunho):** Sala cirúrgica: posicionamento da equipe.
 
 ---
 
-## Posicionamento do paciente
+## Instrumentação básica
 
-Proteger **nervos periféricos** (ulnar no cotovelo), **olhos** em decúbito ventral, **articulações** em leve flexão quando possível.
+**Bisturi**, **pinças** (anatômica, dente de rato), **tesouras** (Metzenbaum, Mayo), **afastadores**, **sucção**. **Passagem** com **punho** ao instrumentador.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A04-F02`
+
+- **Momento:** após instrumentos — caixa básica.
+- **O que mostrar:** **foto** de **caixa de instrumental** básico aberta com legenda.
+- **Tipo sugerido:** instrumentação.
+- **Legenda (rascunho):** Caixa básica: instrumentos fundamentais.
+
+---
+
+## Comunicação e segurança
+
+**Confirmação** por nome ao pedir material; **read-back** de medicações. **Marcação** do sítio cirúrgico com paciente acordado quando aplicável.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A04-F03`
+
+- **Momento:** após WHO checklist.
+- **O que mostrar:** **checklist** cirúrgico impresso com itens marcados.
+- **Tipo sugerido:** formulário WHO.
+- **Legenda (rascunho):** Lista de verificação cirúrgica segura (WHO).
 
 ---
 
 ## Ponte com a Clínica
 
-Comunicação clara (“fio 3-0 cortante”) reduz erro e estresse; **checklist** pré-incisal evita lateralidade errada.
+**Cansaço** da equipe → **erro** — pausas institucionais quando possível. **Estudante** supervisionado — **não** substitui responsável técnico.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Separação estéril/não estéril.
-- Time-out e marcação de sítio.
-- Posicionamento e lesão por pressão são complicações evitáveis.
-- Instrumentador conhece sequência do procedimento.
+- Papéis e comunicação.
+- Técnica de passagem de instrumentos.
+- Checklist cirúrgico.
+- Contagem e documentação.
 
 ---
 
@@ -51,52 +82,42 @@ Comunicação clara (“fio 3-0 cortante”) reduz erro e estresse; **checklist*
 
 ### O que você PRECISA saber
 
-- **Mesa** em Trendelenburg para cirurgia pélvica (conceito).
-- **Aterramento** do eletrocautério no paciente.
-- **Contagem** de compressas — protocolo de sala.
-- **Comunicação** fechada (read-back) para pedidos de sangue.
+- **Mesa** mayo vs instrumentador.
+- **Campo** estéril — limite.
+- **Gowning** e **gloving**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Primeiro ajudante | instrumentador | Campo estéril total |
-| Circulante | técnico de RX | Função na sala |
-| Anestesia geral | regional | Via aérea vs bloqueio |
+| Instrumentador | circulante | Campo estéril vs não |
+| Primeiro auxiliar | instrumentador | Função ativa na incisão |
 
 ### Frase-âncora para não esquecer
 
-> “**Equipe** que se fala mal opera mal — **checklist** existe para **todos**.”
+> “**Time** organizado **corta** o erro pela metade.”
 
 ---
 
-## Comunicação intraoperatória (fechada)
+## Aprofundamento — raciocínio clínico
 
-Use **comunicação fechada** ao pedir instrumento: “Por favor, confirme se é **pinça Kelly** com dentes.” O circulante repete e só então entrega. Para sangue, leia em voz alta **tipo**, **quantidade** e **tempo** — reduz erro em momentos de pressa. Em situação crítica, **nomear líder** da sala (geralmente cirurgião ou anestesista conforme evento) evita ordens conflitantes.
-
-### Lesão por pressão — prevenção
-
-Proteja **calcâneos**, **sacro** e **face** em posições prolongadas; reavaliação a cada **1–2 h** em cirurgias longas quando possível. Marque na pré-anestésica **pontos de dor pré-existentes** para não atribuir tudo à posição operatória depois.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Vídeos de **passagem** de instrumentos em simulação.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Manual de instrumental cirúrgico ilustrado
+- WHO — checklist traduzido
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.

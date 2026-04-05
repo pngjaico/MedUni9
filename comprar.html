@@ -342,6 +342,10 @@
     <div style="margin-top:20px;display:inline-flex;align-items:center;gap:8px;background:rgba(0,200,150,0.1);border:1px solid rgba(0,200,150,0.25);border-radius:100px;padding:6px 16px;font-size:12px;font-weight:600;color:#00C896;">
       ✅ Ciclo Básico disponível agora &nbsp;·&nbsp; Ciclo Clínico e Internato em breve
     </div>
+    <div style="margin-top:28px;max-width:420px;margin-left:auto;margin-right:auto;text-align:left;">
+      <label for="comprarEmailHint" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Email da sua conta no app <span style="font-weight:500;opacity:0.85;">(usamos para liberar o acesso após o pagamento)</span></label>
+      <input id="comprarEmailHint" type="email" inputmode="email" autocomplete="email" placeholder="seu@email.com" style="width:100%;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.12);background:rgba(255,255,255,0.04);color:var(--text);font-size:14px;font-family:inherit;" />
+    </div>
   </section>
 
   <!-- Módulos info strip -->
@@ -404,12 +408,7 @@
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
         <li class="muted"><span class="cross">✗</span> Outros módulos</li>
       </ul>
-      <div style="margin: 14px 0 10px; text-align: left;">
-        <label for="couponModulo" style="display:block; font-size:12px; color:#E5E7EB; margin-bottom:6px; font-weight:600;">Tem cupom de desconto?</label>
-        <input id="couponModulo" type="text" placeholder="Digite seu cupom (opcional)" style="width:100%; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,0.12); background:rgba(255,255,255,0.03); color:#E5E7EB; font-size:13px;" />
-        <div style="font-size:11px; color:#9CA3AF; margin-top:6px;">O desconto é aplicado na hora do pagamento.</div>
-      </div>
-      <button class="plan-cta secondary" onclick="openWhatsAppPurchase('Módulo', '39,90', 'couponModulo')">
+      <button class="plan-cta secondary" onclick="openWhatsAppPurchase('Módulo', '39,90')">
         Quero este módulo
       </button>
     </div>
@@ -432,12 +431,7 @@
         <li><span class="check">✓</span> Conteúdo específico para a sua faculdade</li>
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
       </ul>
-      <div style="margin: 14px 0 10px; text-align: left;">
-        <label for="couponCiclo" style="display:block; font-size:12px; color:#E5E7EB; margin-bottom:6px; font-weight:600;">Tem cupom de desconto?</label>
-        <input id="couponCiclo" type="text" placeholder="Digite seu cupom (opcional)" style="width:100%; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,0.12); background:rgba(255,255,255,0.03); color:#E5E7EB; font-size:13px;" />
-        <div style="font-size:11px; color:#9CA3AF; margin-top:6px;">O desconto é aplicado na hora do pagamento.</div>
-      </div>
-      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="openWhatsAppPurchase('Ciclo', '119,90', 'couponCiclo')">
+      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="openWhatsAppPurchase('Ciclo', '119,90')">
         Quero um Ciclo
       </button>
     </div>
@@ -450,7 +444,7 @@
 
     <div class="faq-item">
       <div class="faq-q">Como recebo acesso após a compra?</div>
-      <div class="faq-a">Assim que o pagamento for confirmado, você recebe um código de acesso único por e-mail — automaticamente, sem precisar esperar ninguém. É só inserir no app para ativar o seu plano.</div>
+      <div class="faq-a">Após a confirmação do pagamento, a equipe libera o acesso no <strong>mesmo email da sua conta</strong> no app. Envie o comprovante pelo WhatsApp e repita esse email na mensagem para agilizarmos a liberação.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">O acesso é permanente?</div>
@@ -484,16 +478,38 @@
   </footer>
 
   <script>
-    function openWhatsAppPurchase(planName, planPrice, couponInputId) {
-      const input = document.getElementById(couponInputId);
-      const coupon = (input?.value || '').trim().toUpperCase();
-      const couponLabel = coupon ? coupon : 'SEM_CUPOM';
+    function getComprarEmailHint() {
+      var el = document.getElementById('comprarEmailHint');
+      var v = (el && el.value || '').trim();
+      if (v) return v;
+      try {
+        var p = new URLSearchParams(window.location.search).get('email');
+        if (p) {
+          var d = decodeURIComponent(p).trim();
+          if (d) return d;
+        }
+      } catch (e) {}
+      return '';
+    }
 
-      const message = [
-        `Olá! Tenho interesse no plano ${planName} (R$ ${planPrice}) do MedGrad+.`,
-        `Cupom informado: ${couponLabel}.`,
-        'Entendo que o desconto será aplicado na hora do pagamento.',
-        'Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'
+    document.addEventListener('DOMContentLoaded', function () {
+      try {
+        var p = new URLSearchParams(window.location.search).get('email');
+        var el = document.getElementById('comprarEmailHint');
+        if (p && el) el.value = decodeURIComponent(p).trim();
+      } catch (e) {}
+    });
+
+    function openWhatsAppPurchase(planName, planPrice) {
+      var emailHint = getComprarEmailHint();
+      var emailLine = emailHint
+        ? 'Email da minha conta no app (para liberar o acesso): ' + emailHint + '.'
+        : 'Ainda não preenchi o email da conta no app — peço orientação para liberar o acesso após o pagamento.';
+
+      var message = [
+        'Olá! Tenho interesse no plano ' + planName + ' (R$ ' + planPrice + ') do MedGrad+.',
+        emailLine,
+        'Poderia enviar a chave PIX para pagamento? Assim que eu pagar, envio o comprovante pelo WhatsApp. Obrigado!'
       ].join(' ');
 
       window.open('https://wa.me/5519997300505?text=' + encodeURIComponent(message), '_blank');

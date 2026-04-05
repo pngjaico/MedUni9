@@ -1,75 +1,128 @@
 # Apendicite Aguda
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **apendicite aguda** é a causa cirúrgica mais comum de abdome agudo. O apêndice obstruído evolui com **inflamação**, **necrose** e **perfuração** se não tratada. Dominar a progressão **sintoma a sintoma**, o papel da **escala de Alvarado** (conceito) e a **conduta** (apendicectomia laparoscópica vs aberta, antibiótico pré-operatório) é núcleo de prova e plantão.
+A **apendicite aguda** é a causa cirúrgica mais comum de abdome agudo. O raciocínio integra **fisiopatologia** (obstrução → hipertensão luminal → isquemia → bacterial translocation), **quadro temporal** (migração da dor), **escores clínicos** (Alvarado/AIR; conceito, não dogma), **imagem** (USG x TC) e **conduta** (tempo cirúrgico, antibiótico, complicações). Em prova, a banca cobra **populações especiais** (grávida, idoso, criança) e **diagnósticos miméticos**.
 
 ---
 
-## Fisiopatologia
+## Fisiopatologia (linha do tempo mental)
 
-Obstrução do lúmen por **fecólito**, **hiperplasia linfoide** ou **parasitas** leva a distensão, isquemia da parede e bacterial translocation.
+Obstrução do lúmen por **fecólito**, **hiperplasia linfoide** (pico em crianças), **parasitas** ou **estenose** rara → aumento da pressão intraluminal → comprometimento venoso/arterial → isquemia mucosa → invasão bacteriana e inflamação transmural. **Perfuração** ocorre quando a parede não resiste; **abscesso** ou **plastrão** são respostas de contenção local.
 
----
-
-## Quadro clínico clássico
-
-1. Dor **periumbilical** vaga.  
-2. **Náuseas** e anorexia.  
-3. Migração para **FID** (McBurney).  
-4. Febre baixa, leucocitose.
-
-### Sinais físicos
-
-**McBurney**, **Rovsing**, dor à extensão da coxa direita (**psoas**). Peritonismo se perfurado.
-
-> **Pegadinha:** **divertículo de Meckel**, **adenite mesentérica**, **ginecopatologias** — diagnósticos diferenciais obrigatórios.
+> **Pegadinha:** **Apêndice retrocecal** pode alterar localização da dor e sensibilidade dos sinais clássicos — mantenha **baixo limiar** para imagem.
 
 ---
 
-## Diagnóstico
+## Quadro clínico clássico e variantes
 
-**USG** em grávidas e crianças; **TC** com contraste em casos duvidosos adultos. Scores auxiliam, não substituem julgamento.
+1. Dor **periumbilical** vaga (viscerais).  
+2. **Anorexia** e náuseas frequentes (vômitos podem ser tardios).  
+3. Migração para **FID** em 12–48 h (irritação peritoneal parietal).  
+4. Febre baixa/modesta, leucocitose (podem faltar no início).
+
+### Escala de Alvarado (ideia para prova)
+
+| Pontos | Critério |
+|--------|----------|
+| 1 | Migração da dor para a direita |
+| 1 | Anorexia ou cetonúria |
+| 1 | Náuseas ou vômitos |
+| 2 | Sensibilidade em FID |
+| 1 | Leucocitose |
+| 2 | Desvio à esquerda |
+| 1 | Febre |
+| 1 | Diarreia (menos típico) |
+
+**Interpretação:** quanto maior o escore, maior a probabilidade — mas **não substitui** imagem em dúvida relevante ou população de risco.
+
+### Sinais físicos úteis
+
+**McBurney**, **Rovsing**, irritação do **músculo psoas** (dor à extensão da coxa direita). Peritonismo difuso sugere perfuração ou evolução avançada.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A2-F01`
+
+- **Momento:** após revisão anatômica do apêndice e antes dos sinais físicos.
+- **O que mostrar:** esquema do trato digestivo com **apêndice vermiforme** destacada (relação com ceco).
+- **Tipo sugerido:** ilustração anatômica (SVG ou equivalente).
+- **Legenda (rascunho):** Apêndice vermiforme: localização típica no ceco.
 
 ---
 
-## Tratamento
+## Diagnóstico diferencial (obrigatório)
 
-**Apendicectomia** + antibiótico profilático/ampliado se perfuração. Alguns protocolos de apendicite não complicada tratada só com antibiótico — seguir evidência e serviço.
+| Diagnóstico | Pistas | Exame-chave |
+|-------------|--------|-------------|
+| **Gastroenterite** | Diarreia aquosa, múltiplos membros afetados | Evolução em 24–48 h, hidratação |
+| **Adenite mesentérica** | Criança, dor periumbilical, LNH | USG com linfonodos |
+| **Divertículo de Meckel** | Hemorragia, dor em FID atípica | TC, cintilografia se disponível |
+| **Ginecopatologias** | Dor pélvica, menstruação, corrimento | USG transvaginal, beta-HCG |
+| **Ureterolitíase** | Cólica lombar, hematúria | Urina, TC se indicado |
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A2-F02`
+
+- **Momento:** após tabela de diagnósticos diferenciais (propedêutica por imagem).
+- **O que mostrar:** **ultrassom abdominal** com apêndice compressível e calibre dentro da normalidade (exemplo didático) ou equivalente anotado.
+- **Tipo sugerido:** USG real com legenda.
+- **Legenda (rascunho):** USG: apêndice fino/compressível (exemplo de linha de corte).
 
 ---
 
-## Complicações
+## Diagnóstico por imagem e laboratório
 
-Abscesso, fístula, sepse. **Perfuração** aumenta morbimortalidade.
+- **USG:** primeira linha em muitos serviços para crianças e gestantes; depende de operador. Critérios: calibre aumentado, não compressibilidade, halo periapendicular.  
+- **TC com contraste:** sensível em adultos com quadro atípico, obesidade ou suspeita de complicação.  
+- **Laboratório:** leucocitose, PCR elevada — **não** excluem apendicite se baixas em idoso/imunossuprimido.
 
-### Evolução temporal típica (para prova)
+### Algoritmo simplificado (plantão)
 
-| Fase | O que o paciente sente | Implicação |
-|------|------------------------|------------|
-| Início | Dor vaga periumbilical, náusea | Ainda pode parecer “gastroenterite” |
-| 12–24 h | Localização em FID, leucocitose | Janela ideal cirúrgica |
-| >48 h | Dor difusa de novo, febre alta | Risco de perfuração/abscesso |
+| Situação | Conduta típica |
+|----------|----------------|
+| Clássico + baixo risco de DD | Cirurgia após avaliação institucional |
+| Dúvida moderada | USG; se inconclusivo, TC |
+| Suspeita de abscesso/plastrão | Imagem + antibiótico; drenagem se indicado |
+| Grávida | USG inicial; equilibrar radiação |
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A2-F03`
+
+- **Momento:** após algoritmo de imagem (confirmação tomográfica).
+- **O que mostrar:** **TC de abdome** com apêndice inflamada/espessada (apendicite aguda).
+- **Tipo sugerido:** corte axial de TC com legenda.
+- **Legenda (rascunho):** Apendicite aguda: apêndice aumentado ao TC.
+
+---
+
+## Tratamento e complicações
+
+**Apendicectomia** (laparoscópica ou aberta) é padrão na maioria dos casos não complicados. **Antibiótico** pré-operatório reduz infecção de sítio cirúrgico; **ampliar** espectro se perfuração, abscesso ou peritonite. Protocolos de **apendicite não complicada** apenas com antibiótico existem — cabe ao serviço e à seleção rigorosa.
+
+**Complicações:** abscesso, fístula, sepse, **De Garengeot** (apendicite em hérnia femoral — tema raro mas memorável).
 
 ---
 
 ## Ponte com a Clínica
 
-Criança com dor difusa e vômitos não é “gastroenterite viral” automático se há **dor localizada progressiva** e **hiporexia** — reavaliar em poucas horas. O plantonista que **reexamina** salva diagnósticos.
+Criança com **anorexia nova** e dor abdominal evolutiva merece **reavaliação em horas**, não “alta para casa” automática. Em **idosos**, perfuração pode ser **precoce** com sintomas discretos — documente horário do início dos sintomas e decisões.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Migração da dor é pista clássica.
-- Leucocitose pode estar ausente no início.
-- Imagem em dúvida — não opere às cegas.
-- Antibiótico se perfurado/peritonite.
+- Migração da dor é pista clássica, mas não universal.
+- Imagem em dúvida real — não opere “no diagnóstico clínico frágil” sem contexto.
+- Beta-HCG em mulher com idade fértil antes de irradiar.
+- Antibiótico e fonte controlada se perfurado/complicado.
 
 ---
 
@@ -79,22 +132,31 @@ Criança com dor difusa e vômitos não é “gastroenterite viral” automátic
 
 ### O que você PRECISA saber
 
-- **Alvarado** — componentes (leucocitose, desvio, dor migratória, etc.).
-- **Apendicite retrocecal** — dor e sinais menos típicos.
-- **Idosos** — perfuração precoce.
-- **Gravidez** — deslocamento do apêndice, USG primeiro.
+- **Alvarado** — componentes e limitações.
+- **Apendicite retrocecal** — apresentação atípica.
+- **Gravidez** — deslocamento do apêndice; USG primeiro.
+- **Perfuração** — peritonismo, leucocitose pode não disparar.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Apendicite | gastroenterite | Evolução focal, peritonismo |
-| Apendicite | Ureterolitíase | Urina, TC, colica |
-| Apendicite | PID | História sexual, exame ginecológico |
+| Apendicite | gastroenterite | Dor focal progressiva, peritonismo |
+| Apendicite | ureterolitíase | Urina, cólica, TC |
+| Apendicite | PID | Exame ginecológico, USG |
+| Apendicite | diverticulite de Meckel | Hemorragia, imagem |
 
 ### Frase-âncora para não esquecer
 
 > “**Fome** nova em criança com dor abdominal = apendicite até provar o contrário.”
 
-Em serviços com **protocolo de antibioticoterapia primária** para apendicite não complicada, o aluno deve reconhecer que a decisão é **multidisciplinar** e baseada em **imagem** e **critérios de exclusão** — não decore um único algoritmo universal.
+---
 
+## Aprofundamento — visão cirúrgica e propedêutica
+
+Relacione **indicação**, **timing** e **via de acesso** com estabilidade hemodinâmica e recursos. **Consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+
+### Leitura de reforço
+
+- Cirurgia geral / protocolos de antibiótico profilático
+- Diretrizes locais de apendicite não complicada (antibiótico primário)

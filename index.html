@@ -3675,24 +3675,31 @@
     }
   </script>
 
-  <!-- Firebase SDK (Auth + Firestore) -->
+  <!-- Firebase client config (um ficheiro só — ver MIGRACAO_FIREBASE.md) -->
+  <script src="firebase-config.js"></script>
+  <!-- Firebase SDK (Auth + Firestore + Analytics) -->
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
     import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
     import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut, sendPasswordResetEmail, updateProfile } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
+    import { getAnalytics, isSupported } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-analytics.js';
 
-    const _fbConfig = {
-      apiKey:            "AIzaSyAtklKLpkfG2pGyWGmZfNpp_mc3cMINNTQ",
-      authDomain:        "meduni9-869eb.firebaseapp.com",
-      projectId:         "meduni9-869eb",
-      storageBucket:     "meduni9-869eb.firebasestorage.app",
-      messagingSenderId: "973084052366",
-      appId:             "1:973084052366:web:6bc6287d3d7bd983d8f2df"
-    };
+    const _fbConfig = window.__FIREBASE_CLIENT_CONFIG__;
+    if (!_fbConfig || !_fbConfig.apiKey) {
+      console.error('[Firebase] Falta firebase-config.js ou apiKey.');
+    }
     const _fbApp  = initializeApp(_fbConfig);
     const _db     = getFirestore(_fbApp);
     const _auth   = getAuth(_fbApp);
     const _gprov  = new GoogleAuthProvider();
+
+    isSupported()
+      .then((yes) => {
+        if (yes && _fbConfig.measurementId) {
+          window.__fbAnalytics = getAnalytics(_fbApp);
+        }
+      })
+      .catch(() => {});
 
     // Expor para o React (type=text/babel não é module, usa window)
     window.__fbAddFeedback = async (payload) => {

@@ -1,62 +1,93 @@
 # Neoplasias de Pâncreas e Estômago
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 50–60 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O **adenocarcinoma pancreático** tem prognóstico reservado, apresentação tardia (**icterícia** obstrutiva, **dor**, **emagrecimento**). O **câncer gástrico** associa-se a **H. pylori**, dieta, fatores genéticos. Tratamento curativo: **ressecção R0** (Whipple para cabeça pancreática, **gastrectomia** parcial/total). Em prova, cobram-se **estadiamento TNM**, **neoadjuvância** em casos selecionados e **palição** biliar com **CPRE** ou **derivação**.
+O **adenocarcinoma pancreático** tem prognóstico reservado; apresenta-se tardiamente com **emagrecimento**, **dor**, **icterícia obstrutiva** (lesão de cabeça) e **trombose venosa** (Trousseau — pista). O **adenocarcinoma gástrico** associa-se a **H. pylori**, dieta e fatores genéticos. Tratamento curativo: **reseção R0** — **Whipple** para tumores periampulares/cabeça pancreática, **gastrectomia** adequada ao estadiamento. Em prova, dominam **bilirrubinas e coléstase**, **CA 19-9** (pancreático — não diagnóstico isolado) e **neoadjuvância** em casos fronteira ressecáveis.
 
 ---
 
 ## Adenocarcinoma pancreático
 
-### Apresentação
+### Apresentação e sinais de alarme
 
-Icterícia indolor (Courvoisier), **diabetes mellitus** novo, tromboflebite migratória (**Trousseau**).
+Icterícia **painless progressiva** com vesícula palpável (**Courvoisier** — sugestivo de obstrução distal, não específico de malignidade isolada). **Diabetes novo** em idoso pode ser pista. Dor em faixa e invasão plexo celíaco em estádios avançados.
 
 ### Diagnóstico
 
-**TC** com contraste, **CA 19-9** (não específico). **CPRE** se colangite obstrutiva.
+**TC** abdome com protocolo pancreático; **CPRE** com citologia/celularidade em suspeita de obstrução ductal; **EUS** para estadiamento local. **CA 19-9** útil para seguimento, limitado em icterícia flutuante sem normalização.
 
-### Tratamento
+### Figura sugerida
 
-**Whipple** em tumores ressecáveis sem metástase; **quimioterapia** (FOLFIRINOX, gemcitabina) em paliação/metastático.
+**Figura-ID:** `CIR6-A13-F01`
+
+- **Momento:** após anatomia — tumor de cabeça pancreática.
+- **O que mostrar:** **TC** com massa na **cabeça do pâncreas** e dilatação do ducto colédoco/pancreático (sinal do **ducto duplo**).
+- **Tipo sugerido:** corte axial anotado.
+- **Legenda (rascunho):** Tumor pancreático de cabeça: obstrução biliar.
+
+---
+
+## Tratamento pancreático
+
+**Whipple (pancreatoduodenectomia)** se ressecável sem metástases à distância e com vasos respeitáveis (conceito borderline resectable — protocolos). **Quimioterapia paliativa** (FOLFIRINOX, gemcitabina-nab-paclitaxel) em metastático. **Descompressão biliar** pré-operatória em icterícia prolongada — timing conforme equipe.
+
+> **Pegadinha:** **lipase alta** isolada **não** define adenocarcinoma — correlacione imagem.
 
 ---
 
 ## Câncer gástrico
 
-### Fatores
+### Fatores e localização
 
-H. pylori, tabaco, alimentos salgados defumados, **linfoma MALT** tratável com erradicação.
+**H. pylori**, dieta salgada defumada, **LINH hereditário**, metaplasia intestinal. **Subtipo difuso** (células em anel de sinete) pode não formar massa polipoide — sintomas inespecíficos.
 
-### Sintomas
+### Sintomas e diagnóstico
 
-Dispepsia refratária, **anemia**, perda ponderal. **Endoscopia** com biópsia.
+Dispepsia refratária, anemia ferropriva, perda ponderal. **Endoscopia com biópsia** múltipla. **Estadiamento**: **Ecoendoscopia** para T profunda; **TC** para M; **citologia de lavado** em seleção.
 
-### Tratamento
+### Figura sugerida
 
-**Gastrectomia** subtotal/total com linfadenectomia D2 em oriente; **quimio** perioperatória.
+**Figura-ID:** `CIR6-A13-F02`
 
-> **Pegadinha:** **linfoma gástrico** vs adenocarcinoma — biópsia obrigatória.
+- **Momento:** após estômago — lesão endoscópica.
+- **O que mostrar:** **endoscopia** com **lesão ulcerada/vegetante** no estômago (imagem didática).
+- **Tipo sugerido:** foto endoscópica anônima.
+- **Legenda (rascunho):** Adenocarcinoma gástrico: lesão mucosa à endoscopia.
+
+---
+
+## Tratamento gástrico
+
+**Gastrectomia subtotal/total** com linfadenectomia D2 em centros experientes. **Perioperatório QUIMIO** em estádios locais avançados (protocolos). **Paliativo**: stent gástrico, quimioterapia, melhora sintomas obstrutivos.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A13-F03`
+
+- **Momento:** após cirurgia — reconstrução (conceito).
+- **O que mostrar:** esquema da **pancreatoduodenectomia (Whipple)** com anastomoses (biliodigestiva, pancreático, gástrica).
+- **Tipo sugerido:** diagrama cirúrgico educacional.
+- **Legenda (rascunho):** Procedimento de Whipple: componentes anatômicos.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com icterícia e vesícula palpável indolor: **cabeça pancreática** até prova contrária — **TC** e equipe oncológica cedo.
+Paciente ictérico com **massa pancreática** e **colangite**: estabilize infecção, desobstrua, **depois** planeje oncologia. Anemia em **jovem** com história familiar: pense **síndromes hereditárias** e genética.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Pancreas: resecabilidade vascular em TC.
-- Estômago: D2 em câncer avançado local.
-- Palição biliar melhora colestase e qualidade de vida.
-- Linfoma MALT: H. pylori primeiro.
+- Pancreático: icterícia obstrutiva + massa cabeça; CA 19-9 auxiliar.
+- Whipple: ressecável periampular; complicações (fístula pancreática) — conceito.
+- Gástrico: endoscopia + biópsia; D2 em estádios adequados.
+- H. pylori: fator de risco tratável.
 
 ---
 
@@ -66,44 +97,29 @@ Paciente com icterícia e vesícula palpável indolor: **cabeça pancreática** 
 
 ### O que você PRECISA saber
 
-- **Whipple** — componentes (gastrotomia, duodenopancreatectomia).
-- **Hereditário** — CDH1 em câncer gástrico difuso (conceito).
-- **Síndrome de Lynch** — câncer gástrico associado.
-- **Neoadjuvância** em T3/T4 selecionados.
+- **Trousseau** — trombose migratória e neoplasia.
+- **Courvoisier** — vesícula palpável + icterícia (pista).
+- **Biópsia gástrica** — múltiplas áreas no subtipo difuso.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Pancreático | colangio | Imagem ductal, CA19-9 |
-| Gástrico | úlcera benigna | Biópsia |
-| Linfoma | adenocarcinoma | Imunohistoquímica |
-| Gastrite crônica | neoplasia | Biópsia múltipla |
+| Cabeça pancreática | colédoco distal | TC, CPRE |
+| Gástrico intestinal | difuso | Histologia, imagem |
+| Pancreatite aguda | massa | TC, evolução clínica |
 
 ### Frase-âncora para não esquecer
 
-> “**Icterícia + diabetes novo + fumante** = **pâncreas** na investigação.”
-
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
-
-### Leitura de reforço
-
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
-
+> “**Icterícia + massa pancreática** = estadiamento **antes** de prometer cura.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **margens R0**, **tratamento neoadjuvante** e **suporte nutricional** pré-operatório. Em cirurgia pancreática, complicações definem internação e mortalidade.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- NCCN / guidelines pancreáticos e gástricos
+- Manejo multidisciplinar de tumores periampulares

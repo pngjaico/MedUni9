@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Os distúrbios hemodinâmicos — hiperemia, congestão, edema, hemorragia, trombose, embolia e choque — são denominadores comuns da patologia. Cada grande doença tem, em algum ponto, um distúrbio hemodinâmico como peça-chave. A Uninove cobra especialmente a fisiopatologia do edema (lei de Starling), a diferença entre trombo e êmbolo, e os tipos de choque. Errar choque distributivo versus obstrutivo em questão objetiva é frequente por falta de memorização do mecanismo.
+Os distúrbios hemodinâmicos — hiperemia, congestão, edema, hemorragia, trombose, embolia e choque — são denominadores comuns da patologia. Cada grande doença tem, em algum ponto, um distúrbio hemodinâmico como peça-chave. A **Uninove** cobra especialmente a fisiopatologia do edema (lei de Starling), a diferença entre trombo e êmbolo, e os tipos de choque. Errar choque distributivo versus obstrutivo em questão objetiva é frequente por falta de memorização do mecanismo.
 
 ### Figura sugerida
 
@@ -96,16 +96,14 @@ O **choque** é a perfusão tecidual inadequada — qualquer órgão pode falhar
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Tríade de Virchow:** 3 fatores de trombose — lesão + estase + hipercoagulabilidade.
-- **Trombo arterial vs. venoso:** arterial = branco/plaquetário; venoso = vermelho/eritrocitário.
-- **TEP:** trombo venoso que migra → artéria pulmonar → dispneia súbita.
-- **D-dímero normal:** exclui TEP (alto VPN); elevado não confirma (baixa especificidade).
-- **Embolia gordurosa:** fratura + hipóxia + confusão + petéquias (3–7 dias depois).
-- **Choque hipovolêmico:** perda de volume → pele fria, taquicardia, oligúria.
-- **Choque distributivo:** vasodilatação → pele quente (início séptico).
-- **Edema hemodinâmico:** ICC = pressão hidrostática alta; nefrótico = oncótica baixa.
+
+Tríade de Virchow: 3 fatores de trombose — lesão + estase + hipercoagulabilidade. Trombo arterial vs. venoso: arterial = branco/plaquetário; venoso = vermelho/eritrocitário. TEP: trombo venoso que migra → artéria pulmonar → dispneia súbita.
+
+D-dímero normal: exclui TEP (alto VPN); elevado não confirma (baixa especificidade). Embolia gordurosa: fratura + hipóxia + confusão + petéquias (3–7 dias depois). Choque hipovolêmico: perda de volume → pele fria, taquicardia, oligúria.
+
+Choque distributivo: vasodilatação → pele quente (início séptico). Edema hemodinâmico: ICC = pressão hidrostática alta; nefrótico = oncótica baixa.
 
 ### Diferenciações que a Uninove adora cobrar
 

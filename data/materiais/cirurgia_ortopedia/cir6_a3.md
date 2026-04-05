@@ -1,74 +1,103 @@
 # Hérnias da Parede Abdominal
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-As **hérnias** da parede abdominal são protrusão de conteúdo peritoneal por **ponto fraco** anatômico. As mais cobradas são **inguinais**, **femorais** e **incisionais**. Compreender anatomia do **triângulo de Hesselbach**, relação **inguinal vs femoral** (hérnia femoral mais comum em **mulher idosa**, maior risco de **estragulamento**) e indicações de **reparo com tela** versus técnicas puramente tecidual é essencial para prova e conduta.
+As **hérnias** são protrusões de conteúdo (geralmente pré-peritoneal ou visceral) por **ponto fraco** anatômico. Você precisa dominar **anatomia do canal inguinal** (anel profundo/superficial, triângulo de Hesselbach), **diferença inguinal x femoral**, **risco de estrangulamento** (femoral alto) e **estratégia de reparo** (tela, TEP/TAPP, aberta). Em prova, **timing** (eletivo x urgência) e **sinais de alarme** são cobrança constante.
 
 ---
 
-## Classificação anatômica
+## Classificação anatômica e epidemiologia
 
-| Tipo | Local | Notas |
-|------|-------|-------|
-| Inguinal indireta | Anel inguinal profundo | Mais comum em jovens; segue canal inguinal |
-| Inguinal direta | Parede posterior de Hesselbach | Idosos, debilidade da fáscia transversal |
-| Femoral | Abaixo do ligamento inguinal | Maior risco estrangulamento |
-| Umbilical | Anel umbilical | Gravidez, obesidade |
-| Incisional | Cicatriz prévia | Fator de tensão na parede |
+| Tipo | Local | Notas clínicas |
+|------|-------|----------------|
+| **Inguinal indireta** | Por anel inguinal profundo | Mais comum em jovens; segue canal |
+| **Inguinal direta** | Parede posterior (Hesselbach) | Associa-se a fraqueza da fáscia; idosos |
+| **Femoral** | Abaixo do ligamento inguinal, canal femoral | Menos frequente que inguinal; **maior risco proporcional** de estrangulamento |
+| **Umbilical / epigástrica / Spigel** | Pontos específicos da linha média / lateral | Obesidade, gravidez, ascite |
+| **Incisional** | Cicatriz prévia | Tensão + tecido fibroso frágil |
 
-> **Pegadinha:** **hérnia femoral** — menor incidência que inguinal, porém **estragulamento** mais frequente proporcionalmente.
-
----
-
-## Quadro clínico
-
-Massa que **aumenta com esforço**, tosse, **redutível** em muitos casos. Dor em **estragulamento** com sinais sistêmicos. Exame em **decúbito** e em pé.
+> **Pegadinha:** **Femoral** é “pequena” na incidência, mas **estrangula** com frequência relativa maior — não subestime massa dolorosa inguino-crural em **mulher idosa**.
 
 ---
 
-## Complicações
+## Quadro clínico e exame físico
 
-- **Incarcerada** — não reduzível, sem isquemia ainda.  
-- **Estrangulada** — comprometimento vascular do conteúdo herniário (alça, epiplon) — **emergência**.
+Massa que **aumenta com esforço** ou tosse, frequentemente **redutível**. Dor súbita, irredutibilidade, náuseas e sinais sistêmicos → pense **complicação**. Exame em **decúbito** e **ortostatismo**; palpação do anel inguinal com tosse.
+
+### Complicações: incarcerada x estrangulada
+
+| Estado | Definição prática | Urgência |
+|--------|-------------------|----------|
+| **Redutível** | Retorna ao abdome | Eletivo conforme sintomas |
+| **Incarcerada** | Não reduz, sem sinais de isquemia ainda | Urgência relativa — tentar reduzir com critério |
+| **Estrangulada** | Compromisso vascular do conteúdo | **Emergência cirúrgica** |
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A3-F01`
+
+- **Momento:** após classificação anatômica (visão global da hérnia inguinal).
+- **O que mostrar:** ilustração médica de **hérnia inguinal** com saco e canal.
+- **Tipo sugerido:** diagrama colorido (estilo atlas).
+- **Legenda (rascunho):** Hérnia inguinal: protrusão pelo canal inguinal.
 
 ---
 
-## Diagnóstico
+## Diagnóstico por imagem
 
-Clínico na maioria; **USG** se dúvida; **TC** em casos complexos/obesidade. Em suspeita de estrangulamento, **não atrase** cirurgia por exames demorados.
+**USG** dinâmico é útil em dúvida ou obesidade. **TC** em suspeita de complicação, obstrução ou diagnóstico confuso. Em **estragulamento**, não “complete” investigação com exames demorados — **estabilize** e **opere**.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A3-F02`
+
+- **Momento:** após menção ao USG na hérnia inguinal (correlação imagem-clínica).
+- **O que mostrar:** **ultrassom** em corte transversal do canal inguinal com conteúdo herniário (ex.: gordura).
+- **Tipo sugerido:** USG real com legenda.
+- **Legenda (rascunho):** Hérnia inguinal indireta ao USG (corte transversal).
 
 ---
 
-## Tratamento
+## Tratamento (ideias de prova)
 
-Reparo eletivo em sintomáticos ou com risco; técnicas **Lichtenstein**, **LAP** (laparoscópica TEP/TAPP) conforme experiência. **Estrangulada** = laparotomia/laparoscopia + avaliação viabilidade intestinal.
+**Eletivo:** reparo com **tela** em muitas técnicas modernas (Lichtenstein aberta; **TEP/TAPP** laparoscópicas). **Urgência:** laparotomia ou laparoscopia conforme experiência; revisar **viabilidade intestinal** se alça estrangulada.
 
-### Laparoscopia versus aberta (ideia de prova)
+### Inguinal x femoral (decisão)
 
-| Via | Vantagem típica | Limitação |
-|-----|-----------------|-----------|
-| Laparoscópica | Recuperação mais rápida, bilateral no mesmo ato | Curva de aprendizado, anestesia geral |
-| Aberta | Acesso direto, recursos em qualquer hospital | Dor incisional, infecção de sítio |
+| Pergunta | Implicação |
+|----------|------------|
+| Massa abaixo do ligamento inguinal medial? | Pensar **femoral** |
+| Dor intensa + irredutível + obstrução? | Estrangulamento — tempo |
+| Bilateralidade suspeita? | Laparoscopia pode avaliar ambos os lados |
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A3-F03`
+
+- **Momento:** após diferencial inguinal x femoral (anatomia de superfície).
+- **O que mostrar:** ilustração histórica ou esquema de **hérnia femoral** na região crural.
+- **Tipo sugerido:** gravura anatômica ou esquema didático.
+- **Legenda (rascunho):** Hérnia femoral: protrusão abaixo do ligamento inguinal.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente idosa com dor inguino-crural intensa e massa **irredutível** com náuseas não recebe “só analgésico e alta”: **cirurgia** urgente. O tempo de isquemia intestinal determina desfecho.
+Paciente idoso com dor inguino-crural intensa e massa **irredutível** com parada de eliminação de flatos não recebe apenas analgesia: **cirurgia** e avaliação de **obstrução**. O **lactato** e a perfusão periférica guiam gravidade.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Femoral > risco estrangulamento; inguinal > frequência.
-- Estrangulamento = cirurgia urgente.
-- Tela reduz recidiva em muitas técnicas.
-- Incisionais grandes podem exigir component separation (conceito avançado).
+- Femoral: menor incidência, **maior risco** proporcional de estrangulamento.
+- Estrangulamento = isquemia — tempo cirúrgico.
+- Tela reduz recidiva em muitas técnicas; seguir serviço.
+- Incisionais grandes podem exigir técnicas avançadas (component separation — conceito).
 
 ---
 
@@ -78,32 +107,31 @@ Paciente idosa com dor inguino-crural intensa e massa **irredutível** com náus
 
 ### O que você PRECISA saber
 
-- **Nyhus/Rutkow** — classificação inguinal (ideia).
-- **Sinal de Ziemann** — conceito de percussão sobre hérnia (menos cobrado).
-- **Ligamento de Cooper** — referência anatômica em reparo femoral.
-- **Tensão** vs **tensão-livre** com tela.
+- **Nyhus/Rutkow** — ideia de classificação inguinal.
+- **Ligamento de Cooper** — referência em reparo femoral/McVay (conceito).
+- **TEP x TAPP** — laparoscopia inguinal (ideia geral).
+- **Descompressão** em abdome agudo associado — prioridade clínica.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Inguinal | femoral | Localização abaixo do ligamento inguinal |
-| Encarcerada | estrangulada | Sinais de isquemia, lactato, peritonismo |
-| Hérnia | Linfonodo | Consistência, mobilidade, USG |
-| Direta | indireta | Anatomia de saco e anel |
+| Inguinal | femoral | Topografia em relação ao ligamento inguinal |
+| Encarcerada | estrangulada | Isquemia, lactato, peritonismo |
+| Hérnia | adenopatia inguinal | USG, consistência, história |
+| Direta | indireta | Anatomia do saco e trajeto |
 
 ### Frase-âncora para não esquecer
 
 > “**Femoral pequena** pode **estrangular grande** alça.”
 
-
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **indicação**, **via de acesso** e **comorbidades** (anticoagulação, fragilidade). Sempre que citar técnica, lembre **consentimento** e **recursos** do centro.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Livro-texto de hérnia / cirurgia geral
+- Consenso de antibiótico profilático em cirurgia limpa-contaminada

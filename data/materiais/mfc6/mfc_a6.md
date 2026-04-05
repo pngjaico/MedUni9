@@ -1,64 +1,73 @@
 # Abordagem da Dor Crônica na APS
 
-**Disciplina:** Medicina de Família e Comunidade  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Disciplina:** Medicina de Família e Comunidade 6  
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Dor crônica** (lombar, cervical, osteoartrite, fibromialgia) consome consultas e **opióides** mal prescritos geram **dependência** e **overdose**. Na APS, o médico de família aplica **abordagem multimodal**: **educação**, **exercício**, **técnicas cognitivo-comportamentais**, **farmacológico racional** e **encaminhamento** multidisciplinar. Em prova, destacam-se critérios para **ressonância** na lombalgia, uso de **opioides** em dor não oncológica (cautela) e **diferença** entre **fibromialgia** e **lesão estrutural**.
+**Dor crônica** na APS exige **modelo biopsicossocial**, **metas funcionais** e **evitar** opioides como primeira linha para **dor não oncológica**. O médico de família coordena **fisioterapia**, **saúde mental**, **benefícios** (BPC — quando aplicável) e **reabilitação**. Em prova, dominam **lombalgia**, **fibromialgia**, **cefaleia** e **critérios de encaminhamento** à dor especializada.
 
 ---
 
-## Modelo biopsicossocial
+## Modelo de 5A na dor (adaptado)
 
-Dor não é só estímulo nociceptivo; inclui **afeto**, **crenças** (“vou ficar paraplégico”), **rede de apoio** e **trabalho**. Consultas longas demais em um único sintoma podem ser evitadas com **metas SMART** (específicas, mensuráveis).
+**Avaliar** (escalas, impacto funcional), **aconselhar** (expectativas realistas), **concordar** metas, **assistir** com não farmacológicos prioritários, **arranjar** seguimento.
 
-### Passos práticos
+### Figura sugerida
 
-1. **Excluir alarmes** (tumor, infecção, fratura).  
-2. **Definir meta funcional** (voltar a caminhar 20 min).  
-3. **Prescrever movimento** (graduado).  
-4. **Evitar benzodiazepínicos** como analgésico.  
-5. **Revisar** uso de AINEs (renal, GI).
+**Figura-ID:** `MFC6-A06-F01`
 
----
-
-## Lombalgia crônica inespecífica
-
-- **Imagem** precoce não melhora desfecho sem alarmes.  
-- **Fisioterapia**, **Pilates**, **caminhada**.  
-- **Antidepressivos** (duloxetina) em dor neuropática e fibromialgia.
-
-> **Pegadinha:** **opioid** para lombalgia crônica não oncológica como primeira linha — evidência fraca e risco alto.
+- **Momento:** após modelo — biopsicossocial.
+- **O que mostrar:** **diagrama de círculos** biológico/psicológico/social.
+- **Tipo sugerido:** modelo de Engel ilustrado.
+- **Legenda (rascunho):** Dor crônica: modelo biopsicossocial.
 
 ---
 
-## Osteoartrite
+## Lombalgia mecânica na APS
 
-**Perda ponderal** no joelho, **fortalecimento quadriceps**, **AINE** tópico antes de oral. Infiltrações em **critérios** e periodicidade limitada.
+**Reassurance** benigno, **manter atividade**, **NSAIDs** curto prazo se indicado, **não** imagem precoce sem red flags. **Encaminhar** se déficit neurológico ou neoplasia suspeita.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A06-F02`
+
+- **Momento:** após lombalgia — exercício.
+- **O que mostrar:** **folha de exercícios** de **estabilização** do core (ilustrações).
+- **Tipo sugerido:** prescrição de fisioterapia domiciliar.
+- **Legenda (rascunho):** Exercícios para lombalgia mecânica na APS.
 
 ---
 
-## Fibromialgia
+## Fibromialgia e saúde mental
 
-Ver aula de CM6; na APS: **diagnóstico de exclusão** com critérios, **exercício aeróbio** como pilar, **SNRIs** e **pregabalina** em casos selecionados.
+**Exercício aeróbio** progressivo, **duloxetina/pregabalina** se indicado, **TCC** em grupo quando possível. **Evitar** uso crônico indevido de opioides.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A06-F03`
+
+- **Momento:** após cefaleia — diário.
+- **O que mostrar:** **diário de cefaleia** (calendário com intensidade).
+- **Tipo sugerido:** instrumento de paciente.
+- **Legenda (rascunho):** Cefaleia: diário para diagnóstico na APS.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente que “só melhora com tramadol” há 5 anos precisa de **plano de desmame** e **reabilitação** — não mais receita automática. O MFC **protege** o paciente de iatrogenia e da farmácia informal.
+**Benefício assistencial** e **INSS** — documentar incapacidade com **honestidade** e **critérios médicos**, não lobby. **Dor** invisível exige **escuta** sem invalidar.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Multimodalidade > monoterapia opióide.
-- Metas funcionais, não “zero dor” irreal.
-- Alarmes na lombalgia: investigar.
-- Documentar tentativas antes de encaminhar dor especializada.
+- Dor crônica: metas funcionais.
+- Opioides: cautela; contrato terapêutico em casos selecionados.
+- Lombalgia: red flags raros; imagem seletiva.
+- Fibromialgia: exercício + abordagem multimodal.
 
 ---
 
@@ -68,43 +77,45 @@ Paciente que “só melhora com tramadol” há 5 anos precisa de **plano de des
 
 ### O que você PRECISA saber
 
-- **Exercício** é tratamento, não só recomendação genérica.
-- **Opióides**: evitar início; se usar, contrato terapêutico e naloxona (contextos).
-- **Catastroização** da dor — abordagem psicológica.
-- **Cannabis medicinal** — regulação local e evidências variáveis (cautela).
+- **Cefaleia em salvas** — oxigênio / sumatriptano — encaminhar.
+- **Neuralgia pós-herpética** — pré-exposição vacina.
+- **CUIDAR** — programa de dor (se existir local).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Dor nociceptiva | neuropática | Qualidade, resposta a adjuvantes |
-| Dependência física | transtorno de uso | Comportamento, perda de controle |
-| Fibromialgia | polimialgia reumática | VHS, resposta a corticoide |
+| Dor nociceptiva | neuropática | Descritores, resposta |
+| Dependência | tolerância | Comportamento, uso |
+| Simulação | somatização | Malingering é raro — cautela |
 
 ### Frase-âncora para não esquecer
 
-> “**Dor crônica** muda com **movimento + mente + rede** — não cabe em uma só receita.”
-
-
----
-
-## Aprofundamento — APS e longitudinalidade
-
-Posicione o tema na **atenção primária**: vínculo, **território**, **equipe** e **coordenação do cuidado**. Pergunte-se em cada tópico: o que pode ser **resolvido na UBS**, o que exige **regulação** e o que precisa de **encaminhamento** com contrarreferência. Inclua **educação em saúde** e **prevenção** quando fizer sentido clínico.
-
-### Leitura de reforço
-
-- Cadernos de Atenção Básica do Ministério da Saúde relacionados ao tema
-- Manual de MFC / materiais da SBMFC quando aplicável
-
+> “**Dor crônica** pede **tempo** e **equipe** — não **receita única**.”
 
 ---
 
-## Aprofundamento — APS e longitudinalidade
+## Aprofundamento — raciocínio clínico
 
-Posicione o tema na **atenção primária**: vínculo, **território**, **equipe** e **coordenação do cuidado**. Pergunte-se em cada tópico: o que pode ser **resolvido na UBS**, o que exige **regulação** e o que precisa de **encaminhamento** com contrarreferência. Inclua **educação em saúde** e **prevenção** quando fizer sentido clínico.
+Integre **política de opioides** e **prescrição digital** no Brasil.
 
 ### Leitura de reforço
 
-- Cadernos de Atenção Básica do Ministério da Saúde relacionados ao tema
-- Manual de MFC / materiais da SBMFC quando aplicável
+- Diretrizes de dor crônica não oncológica
+- SBPM — manual de opioides
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

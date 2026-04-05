@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema nervoso parassimpático ("rest and digest") domina as funções vegetativas em repouso. Seus fármacos — colinérgicos e anticolinérgicos — aparecem em situações clínicas muito específicas: tratamento de glaucoma, asma (ipratrópio), bexiga hiperativa, intoxicação por organofosforado, paralisia intestinal no pós-operatório. A Uninove cobra a lista de efeitos muscarínicos e nicotínicos e a inversão de efeitos quando se bloqueia esse sistema.
+O sistema nervoso parassimpático ("rest and digest") domina as funções vegetativas em repouso. Seus fármacos — colinérgicos e anticolinérgicos — aparecem em situações clínicas muito específicas: tratamento de glaucoma, asma (ipratrópio), bexiga hiperativa, intoxicação por organofosforado, paralisia intestinal no pós-operatório. A **Uninove** cobra a lista de efeitos muscarínicos e nicotínicos e a inversão de efeitos quando se bloqueia esse sistema.
 
 ### Figura sugerida
 
@@ -77,16 +77,14 @@ O mediador do sistema parassimpático é a **acetilcolina (ACh)**, que age em do
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **DUMBELS:** efeitos muscarínicos = Defecação, Urinação, Miose, Bradicardia, Êmese, Lacrimejamento, Salivação.
-- **Organofosforado:** DUMBELS + fasciculações → atropina + pralidoxima.
-- **Pilocarpina:** glaucoma (miose + drenagem humor aquoso).
-- **Neostigmina:** miastenia gravis (↑ACh na JNM).
-- **Atropina:** bradicardia sintomática + organofosforado.
-- **Ipratrópio:** DPOC + asma grave (broncodilatação inalatória).
-- **Síndrome anticolinérgica:** taquicardia + midríase + boca seca + retenção urinária.
-- **Fisostigmina:** antídoto da síndrome anticolinérgica.
+
+DUMBELS: efeitos muscarínicos = Defecação, Urinação, Miose, Bradicardia, Êmese, Lacrimejamento, Salivação. Organofosforado: DUMBELS + fasciculações → atropina + pralidoxima. Pilocarpina: glaucoma (miose + drenagem humor aquoso).
+
+Neostigmina: miastenia gravis (↑ACh na JNM). Atropina: bradicardia sintomática + organofosforado. Ipratrópio: DPOC + asma grave (broncodilatação inalatória).
+
+Síndrome anticolinérgica: taquicardia + midríase + boca seca + retenção urinária. Fisostigmina: antídoto da síndrome anticolinérgica.
 
 ### Diferenciações que a Uninove adora cobrar
 

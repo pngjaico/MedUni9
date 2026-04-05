@@ -1,91 +1,101 @@
 # Espirometria e Prova de Função Pulmonar
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (fisiologia respiratória; testes de função pulmonar)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **espirometria** é o exame central da **função pulmonar** na rotina: diferencia padrão **obstrutivo** de **restritivo**, quantifica gravidade, monitora resposta a broncodilatador e apoia diagnósticos de **asma**, **DPOC** e doenças restritivas. Em prova, espera-se interpretação de **VEF1/CVF**, **VEF1 pós-broncodilatador** e reconhecimento de **padrões de volumes** (CVF, CPT) com **capacidade de difusão do monóxido de carbono (DLCO)** quando disponível.
+A **prova de função pulmonar (PFP)** traduz a **mecânica respiratória** e as **trocas gasosas** em números comparáveis com **valores previstos** ajustados a idade, sexo e altura. A **espirometria** é o exame mais acessível: mede **volumes** e **fluxos** durante manobras forçadas. No *Cecil*, a interpretação separa **padrão obstrutivo** (fluxo diminuído, relação **VEF1/CVF** reduzida após broncodilatador quando aplicável) de **restritivo** (capacidades reduzidas com relação **preservada ou aumentada** conforme o caso). Em prova, **curvas**, **broncodilatador** e **distância de caminhada** aparecem como tema recorrente.
 
 ---
 
-## Parâmetros essenciais
+## Indicações principais
 
-| Sigla | Significado clínico |
-|-------|---------------------|
-| **CVF** | Capacidade vital forçada — volume máximo expirado após inspiração total |
-| **VEF1** | Volume expiratório no 1º segundo |
-| **VEF1/CVF** | Índice de obstrução (razão) |
-| **PEF** | Pico de fluxo expiratório |
-| **CPT** | Capacidade pulmonar total (por pletismografia ou cálculo) |
-| **DLCO** | Difusão — útil em intersticial, enfisema |
+| Situação | Por que pedir PFP |
+|----------|-------------------|
+| **Dispneia** inexplicada | Caracterizar obstrução, restrição ou isolado |
+| **Asma / DPOC** | Diagnóstico, gravidade, resposta a broncodilatador |
+| **Pré-operatório** | Risco respiratório (especialmente torácico / abdome alto) |
+| **Doenças intersticiais** | **CVF** e **DLCO** (capacidade de difusão) — padrão restritivo |
+| **Acompanhamento** | Efeito de tratamento ou progressão |
 
----
-
-## Padrão obstrutivo
-
-### Critério clássico
-
-**VEF1/CVF < 0,70** (limiar didático pós-broncodilatador em adultos — seguir valores de referência do laboratório).
-
-### O que significa
-
-Aumento da resistência ao fluxo aéreo — **asma** (variável, reversível), **DPOC** (fixo, progressivo), **bronquiectasias**, **obstrução de vias aéreas superiores** (fluxo-volumetria ajuda).
-
-> **Dica de Prova:** **reversibilidade significativa** após broncodilatador favorece **asma**; **DPOC** pode ter resposta limitada, mas diagnóstico é clínico + espirometria + exposição ao fumo/poluente.
+> **Dica de Prova:** PFP **normal** não exclui **doença** em estágio inicial ou esforço isolado — **teste de esforço cardiopulmonar** ou **imagem** podem ser necessários.
 
 ---
 
-## Padrão restritivo
+## Espirometria: volumes e fluxos essenciais
 
-### Conceito
+### Manobra aceitável
 
-**Redução da CPT** com relação VEF1/CVF **normal ou até aumentada** (não obstrutivo primário).
+Inspiração máxima → **expiração forçada rápida e longa** → técnica supervisionada. **Repetir** até critérios de reprodutibilidade.
 
-### Causas
+### Parâmetros-chave
 
-- **Restrição pulmonar:** fibrose intersticial, pneumonia organizativa.  
-- **Restrição extrapulmonar:** obesidade, ascite, cifoescoliose, fraqueza diafragmática.
+| Sigla (uso comum) | Conceito |
+|-------------------|----------|
+| **CVF** ou **VCF** | Capacidade vital forçada — volume expirado após inspiração máxima |
+| **VEF1** ou **FEV1** | Volume expirado no **primeiro segundo** |
+| **Relação VEF1/CVF** | Principal marcador de **obstrução** (quando baixa) |
+| **FEF25–75%** | Fluxo no meio da expiração — sensível a obstrução **periférica** |
 
-### DLCO
+### Padrão obstrutivo
 
-Útil: frequentemente **baixa** em doença **intersticial**; pode estar **preservada ou alta** em algumas situações extrapulmonares (dependendo do caso).
+**VEF1/CVF** **< limite inferior da normalidade** (tipicamente **< 0,70** em adultos em alguns consensos para DPOC — em prova, siga o enunciado). **Gravidade** muitas vezes pelo **percentual do VEF1** previsto.
+
+**Resposta ao broncodilatador:** aumento significativo de **VEF1** e/ou **CVF** define **reversibilidade** — importante na **asma** e para caracterizar **DPOC** com componente tratável.
+
+### Padrão restritivo
+
+**CVF** e **CPT** (capacidade pulmonar total — por pletismografia ou diluição) **reduzidas** com **VEF1/CVF** **normal ou elevado** (não obstrutivo). Causas: **parenquima** (fibrose), **parede** (obesidade, cifoescoliose), **pleura**, **músculo** (fraqueza diafragmática).
+
+> **Pegadinha:** “Restrição” na espirometria isolada pode ser **pseudo-restritiva** por esforço submáximo — **CPT** confirma restrição **verdadeira**.
 
 ---
 
-## Provas adicionais (conceito)
+## Outros componentes da PFP
 
-- **Plethysmografia** para CPT precisa.  
-- **Provoção bronquica** (metacolina) na suspeita de asma com espirometria inicial normal.  
-- **Teste de marcha de 6 minutos** para desempenho funcional e oximetria.
+### Capacidade de difusão (DLCO / TLCO)
+
+**Baixa** em **embolia pulmonar**, **fibrose**, **anemia** (ajustar), **enfisema** (destruição alveolocapilar). **Alta** em alguns estados de **hemorragia alveolar** ou **policitemia** — contexto importa.
+
+### Volumes residual e CPT
+
+Úteis para distinguir **obstrução** com **hiperinsuflação** (residual elevado) de **restrição** pura.
+
+### Prova broncoprovocativa
+
+Na **asma** com espirometria limite, **metacolina** ou **exercício** sob protocolo — especializado.
 
 ---
 
-### Figura sugerida
+## Interpretação integrada (fluxo de trabalho)
 
-**Figura-ID:** `CM6-A9-F01`
-
-- **Momento:** após definição de padrões obstrutivo e restritivo.
-- **O que mostrar:** curvas fluxo-volume típicas (obstrutivo vs restritivo).
-- **Tipo sugerido:** gráfico didático.
-- **Legenda (rascunho):** Curvas fluxo-volume: padrão obstrutivo e normal.
+| Passo | Ação |
+|-------|------|
+| 1 | Verificar **qualidade** da curva |
+| 2 | Olhar **VEF1/CVF** → obstrutivo? |
+| 3 | Se obstrutivo, **broncodilatador** e gravidade pelo **VEF1** |
+| 4 | Se suspeita restritiva, **CPT** + **DLCO** |
+| 5 | Correlacionar com **radiografia/TC** e **clínica** |
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com dispneia e espirometria “normal” não está necessariamente bem: pode haver **doença intersticial inicial**, **tromboembolismo** com espirometria pouco alterada, ou **condicionamento físico**. O exame é poderoso, mas **integra com clínica e imagem**. Na asma, documente **variabilidade** ou hiperresponsividade quando indicado.
+Paciente **fumante** com dispneia: **espirometria** é rápida e barata — mas **radiografia** e **escore** de risco (ex.: **BODE** em DPOC) complementam **prognóstico**. Não atrase **cessação tabágica** esperando exame para orientar **primeira conversa**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Obstrutivo: VEF1/CVF reduzido; restritivo: CPT reduzida.
-- Broncodilatador: avaliar resposta na obstrução.
-- DLCO: ajuda a separar intersticial de outras causas.
-- DPOC vs asma: história + espirometria + variabilidade.
+- **Obstrução:** **VEF1/CVF** baixo; **reversibilidade** pensa **asma**.  
+- **Restrição:** volumes totais baixos; **DLCO** ajuda a separar **parenquima** de **extra-parenquima**.  
+- **Qualidade** da manobra — resultado inválido não interpreta.  
+- **DPOC** e **asma** compartilham obstrução, mas **história** e **resposta** diferem.  
+- **CPT** necessária para confirmar **restrição** quando só há suspeita na espirometria.
 
 ---
 
@@ -95,20 +105,20 @@ Paciente com dispneia e espirometria “normal” não está necessariamente bem
 
 ### O que você PRECISA saber
 
-- **VEF1/CVF** — principal índice de obstrução.
-- **Restritivo** — CPT baixa.
-- **DLCO** baixa em muitas intersticiais; enfisema pode ter DLCO baixa com hiperinsuflação.
-- Qualidade do exame depende de **esforço do paciente** e técnica.
+- Definição de **VEF1**, **CVF**, **relação VEF1/CVF**.  
+- Obstrutivo versus restritivo — **uma frase cada**.  
+- Papel do **broncodilatador**.  
+- **DLCO** — quando pensar fibrose versus enfisema.  
+- Indicações: **dispneia**, **asma/DPOC**, **pré-op**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Asma | DPOC | Reversibilidade, idade, tabagismo, variabilidade |
-| Restrição pulmonar | Restrição extrapulmonar | Imagens, padrão corporal, DLCO |
-| Obstrução central | obstrução periférica | Fluxo-volumetria, laringe |
-| Dispneia “cardíaca” | pulmonar | BNP, ecocardiograma, espirometria |
+| Asma | DPOC | Idade, histórico, reversibilidade, tabaco |
+| Restrição parenquimatosa | Restrição extraparenquimatosa | DLCO, TC |
+| Obstrução fixa | Variável | Broncoprovocação, resposta BD |
 
 ### Frase-âncora para não esquecer
 
-> “Sem **VEF1/CVF**, não feche diagnóstico de obstrução; sem **CPT**, não afirme restrição com segurança.”
+> “**VEF1 sobre CVF** — se cair, o ar **sai devagar**: obstrução.”

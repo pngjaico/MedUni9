@@ -1,65 +1,107 @@
 # Hemorragias Digestivas Alta e Baixa
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 50–60 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Hemorragia digestiva alta (HDA)** é origem **acima do ligamento de Treitz** (esôfago, estômago, duodeno); **HDB** é distal. O manejo prioriza **estabilização hemodinâmica**, **reposição volêmica**, **transfusão** guiada por protocolo e **endoscopia** na HDA ativa. Em prova, destacam-se **escores de Rockall** e **Glasgow-Blatchford**, terapêutica endoscópica (injeção, clipes, banding de varizes) e indicações cirúrgicas.
+**Hemorragia digestiva alta (HDA)** tem origem **proximal ao ligamento de Treitz** (esôfago, estômago, duodeno proximal); **hemorragia digestiva baixa (HDB)** é distal. O raciocínio de prova integra **estabilização**, **escores de estratificação**, **endoscopia oportuna** e **tratamento etiológico**. Erro frequente: confundir **hematoquezia** com “sempre sangramento baixo” — hemorragias altas massivas ou com trânsito rápido podem cursar com eliminação retal de sangue vivo.
 
 ---
 
-## Abordagem inicial
+## Definições e apresentações que armadilham
 
-Acesso venoso calibroso, laboratório cruzado, **tipo e screen**, **PPI** em suspeita ulcerosa, **octreotide** em variceal (contexto), **antibioticoprofilaxia** em cirróticos com hemorragia varicosa.
-
-### HDA — causas comuns
-
-Úlcera péptica, **varizes**, **Mallory-Weiss**, gastrite erosiva, neoplasia.
-
-### HDB — causas
-
-**Divertículo**, angiodisplasia, neoplasia, hemorroidas (sangue vivo no papel), colite.
-
-> **Pegadinha:** **melena** sugere HDA; mas **hemorragia massiva** pode apresentar hematoquezia — não exclua HDA só pela cor.
+| Achado | O que sugere | Pitfall |
+|--------|--------------|---------|
+| Hematemese | Sangramento alto (varize, úlcera, Mallory-Weiss) | Vômito “café” pode ser digestão de sangue alto |
+| Melena | Digestão de hemoglobina (geralmente alto) | Suplementos de ferro, bismuto e beterraba podem escurecer fezes |
+| Hematoquezia | Distal comum; massivo alto possível | Não exclua HDA só pela cor sem contexto hemodinâmico |
+| Sangue vivo no papel | Hemorroida, fissura, neoplasia distal | Idosos: nunca atribua só a hemorroida sem investigar |
 
 ---
 
-## Endoscopia
+## Abordagem inicial (sempre ABC)
 
-Nas primeiras **24h** em HDA de alto risco. **Tratamento endoscópico** da lesão sangrante. **Segunda endoscopia** se ressangramento.
+Acesso **venoso calibroso**, monitorização, **tipo e screen**, hemograma, função renal, coagulação quando relevante. **PPI** em suspeita de etiologia ulcerosa após estabilização. Em varizes com suspeita clínica: **octreotide** conforme protocolo institucional; **antibioticoprofilaxia** em cirróticos com hemorragia varicosa. **Transfusão** guiada por sintomas, taquicardia persistente e limiares de hemoglobina — não “número mágico” isolado.
+
+### DDx rápida — HDA
+
+Úlcera péptica, **varizes esofagogástricas**, gastrite erosiva, **Mallory-Weiss**, neoplasia gástrica/esofágica, angiodisplasia (menos comum como primeira hipótese).
+
+### DDx rápida — HDB
+
+**Divertículo**, angiodisplasia, neoplasia colorretal, colite (infecciosa ou inflamatória), hemorroidas, fissura.
 
 ---
 
-## HDB — propedêutica
+## Escores: Rockall e Glasgow-Blatchford
 
-**Colonoscopia** após preparo quando estável; **TC angiográfico** com sangramento ativo; **cápsula** em obscurecimento se necessário.
+**Glasgow-Blatchford** ajuda a decidir **internação vs manejo ambulatorial** em certos cenários de HDA não varicosa. **Rockall** ( pré e pós-endoscópico) estratifica **mortalidade** — útil para comunicação e seguimento.
 
-### Fluxo simplificado de decisão
+> **Pegadinha:** escore baixo **não** substitui julgamento clínico se houver comorbidade grave, uso de anticoagulante ou instabilidade oculta.
 
-| Estabilidade | Primeira abordagem |
-|--------------|-------------------|
-| Instável | Ressuscitação, transfusão, correção de coagulopatia |
-| Estável com hematoquezia | Colonoscopia programada após preparo |
-| Sangramento ativo massivo | TC com contraste, angiografia, cirurgia se necessário |
-| Obscurecimento após endoscopia alta e colonoscopia | Cápsula enteroscopia |
+---
+
+## Endoscopia na HDA
+
+Nas primeiras **24 h** em pacientes de alto risco. **Terapêutica endoscópica** conforme lesão: injeção, **clipes**, termocoagulação; **ligadura elástica** para varizes. Planeje **segunda-look** se alto risco de ressangramento (estigmas endoscópicos de risco — conceito Forrest).
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A08-F01`
+
+- **Momento:** após fluxo de decisão HDA — estabilização e endoscopia.
+- **O que mostrar:** esquema de **ligadura elástica** de variz esofágica ou fotografia endoscópica didática.
+- **Tipo sugerido:** ilustração médica ou captura anotada.
+- **Legenda (rascunho):** Tratamento endoscópico de varizes: ligadura.
+
+---
+
+## HDB — propedêutica escalonada
+
+**Colonoscopia** após preparo quando estável. **TC com contraste** (angiografia por TC) com sangramento ativo ou suspeita de angiodisplasia. **Cápsula** ou **enteroscopia** em obscurecimento após estudos negativos. Em sangramento maciço: abordagem conjunta com radiologia intervencionista (**embolização**) e cirurgia se necessário.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A08-F02`
+
+- **Momento:** após discussão de HDB e TC angiográfico.
+- **O que mostrar:** imagem de **extravasamento de contraste** ou malformação vascular em estudo vascular abdominal.
+- **Tipo sugerido:** TC com contraste (corte axial).
+- **Legenda (rascunho):** Sangramento ativo: foco vascular ao estudo tomográfico.
+
+---
+
+## Tratamento adjuvante e limites
+
+**Inibidores de bomba de prótons** pós-terapia endoscópica de úlcera com alto risco de ressangramento (conforme diretriz). **Reversão de anticoagulação** individualizada — não “parar tudo” sem avaliar trombose vs hemorragia. **Balão de Sengstaken-Blakemore** é **ponte** excepcional em falha endoscópica varicosa, com riscos próprios.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A08-F03`
+
+- **Momento:** após complicações / bridge terapêutico em varizes.
+- **O que mostrar:** esquema do **balão esofagogástrico** (tubos e balões) com legenda.
+- **Tipo sugerido:** diagrama esquemático.
+- **Legenda (rascunho):** Tamponamento esofagogástrico: dispositivo de bridge.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente em **choque** com hematemese: intubação para proteção de via aérea se alteração do nível de consciência. **Noradrenalina** se hipotensão refratária após volume — seguir sepse/choque.
+Paciente **hipotenso** com hematemese: proteção de via aérea se rebaixamento; noradrenalina após reposição volêmica adequada se choque persistente. Paciente em **anticoagulação** com HDA: equipe multidisciplinar para **reversão** e **retomada** segura. Documente **resposta à primeira unidade de concentrado** — não transfunda em piloto automático.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Rockall / Glasgow-Blatchford — estratificação.
-- Varizes: banding; úlcera: terapia endoscópica + PPI.
-- Transfusão: limiar ~7 g/dL no estável (protocolos modernos), mais alto se ativo/isquemia.
-- Anticoagulantes: reversão guiada por cenário.
+- Treitz separa alta e baixa; hematoquezia nem sempre é “baixo”.
+- Rockall / Glasgow-Blatchford: propósitos diferentes (mortalidade vs triagem).
+- Endoscopia precoce em HDA de risco; terapêutica na mesma sessão quando possível.
+- Varizes: ligadura; úlcera: método hemostático + PPI.
+- HDB estável: colonoscopia; ativo: TC, angio, embolização.
 
 ---
 
@@ -69,32 +111,31 @@ Paciente em **choque** com hematemese: intubação para proteção de via aérea
 
 ### O que você PRECISA saber
 
-- **Criterios de alta** pós-endoscopia (Forrest — ideia de estigmas de alto risco).
-- **Sengstaken-Blakemore** — bridge em varize com falha (raridade).
-- **Angiografia** com embolização em sangramento persistente.
-- **Isquemia mesentérica** — pode sangrar — TC.
+- **Forrest** — ideia de estigmas de alto risco de ressangramento.
+- **Antibioticoprofilaxia** no cirrótico com sangramento varicoso.
+- **Angiografia** com embolização em persistência.
+- **Isquemia mesentérica** pode sangrar — inclua no DDx de dor + sangue.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| HDA | hemoptise | História, broncoscopia |
-| Varize | úlcera | Endoscopia |
-| Hemorroida | neoplasia | Idade, colonoscopia |
-| Diverticular | colite | Imagem, padrão |
+| HDA | hemoptise | História, gasometria, broncoscopia se necessário |
+| Varize | úlcera | Endoscopia direta |
+| Melena | hematoquezia | Cor, trânsito, estabilidade; exceções existem |
+| Hemorroida | neoplasia | Idade, sintomas, colonoscopia |
 
 ### Frase-âncora para não esquecer
 
-> “**Hemodinâmica primeiro**, endoscopia em seguida — **não o contrário**.”
-
+> “**Volume e oxigênio** primeiro; **endoscopia** no doente certo, no tempo certo.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Diretrizes de hemorragia digestiva alta e baixa (sociedades nacionais/internacionais)
+- Protocolos institucionais de transfusão e anticoagulação

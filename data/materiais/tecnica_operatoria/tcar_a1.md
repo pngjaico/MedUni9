@@ -1,53 +1,73 @@
 # Antissepsia, Assepsia e Esterilização
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Antissepsia** reduz carga microbiana na pele; **assepsia** impede introdução de microrganismos no campo cirúrgico; **esterilização** elimina vida microbiana de materiais. Em prova e na prática, o estudante deve diferenciar **desinfetantes** por espectro (clorexidina, iodopovidona, álcool), princípios de **preparo da pele** e métodos de **esterilização** (vapor, óxido de etileno, plasma).
+**Antissepsia** reduz carga microbiana na pele/mucosas; **assepsia** impede introdução de micro-organismos em campo cirúrgico; **esterilização** elimina todos os microrganismos de materiais. Em prova, dominam **agentes** (alcoóis, iodados, clorexidina), **técnica de fricção** alcoólica, **indicadores biológicos** de autoclave e **princípios de preparo** de mesa.
 
 ---
 
-## Conceitos
+## Antissepsia da pele do paciente
 
-| Termo | Definição operacional |
-|-------|----------------------|
-| Antissepsia | Redução de flora na pele/mucosa viva |
-| Desinfecção | Superfícies inanimadas |
-| Esterilização | Ausência de microrganismos viáveis em material |
-| Asepsia | Conjunto de técnicas que mantém campo estéril |
+**Clorexidina alcoólica** vs **PVP-iodo** conforme protocolo; **delimitar** área ampla; **tempo de contato** adequado. **Alergia** a iodados — alternativa.
 
-> **Pegadinha:** **antibiótico profilático** não substitui antissepsia — são camadas independentes de prevenção de infecção.
+### Figura sugerida
 
----
+**Figura-ID:** `TCAR6-A01-F01`
 
-## Preparo da pele do paciente
-
-Raspar pelos se necessário **no centro cirúrgico**, não na véspera (microlesões). Lavagem mecânica + **clorexidina alcoólica** ou **iodopovidona** conforme protocolo — movimentos concêntricos do centro para periferia.
+- **Momento:** após antissepsia — campo.
+- **O que mostrar:** **fotografia esquemática** de **campos cirúrgicos** estéreis e delimitação da incisão.
+- **Tipo sugerido:** ilustração cirúrgica.
+- **Legenda (rascunho):** Campo operatório: assepsia e limites.
 
 ---
 
-## Esterilização de materiais
+## Friction scrub e preparo das mãos
 
-**Autoclave** (vapor sob pressão) para a maioria; **indicadores biológicos** em cargas críticas; **embalagem** com barreira microbiana e data.
+**Escovação** ungueal, **solução** antisséptica, **luvas estéreis** em técnica correta. **Perfuração** de luva = troca imediata.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A01-F02`
+
+- **Momento:** após scrub — sequência.
+- **O que mostrar:** **posters** de **fricção alcoólica** em passos numerados (OMS).
+- **Tipo sugerido:** infográfico OMS.
+- **Legenda (rascunho):** Higienização das mãos: técnica de fricção.
+
+---
+
+## Esterilização
+
+**Autoclave** — vapor sob pressão; **indicadores** químicos em cada pacote; **biológico** periódico. **Óleos** e **plásticos** — compatibilidade com método. **ETA** para termossensíveis (em centros equipados).
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A01-F03`
+
+- **Momento:** após esterilização — autoclave.
+- **O que mostrar:** **corte esquemático** de **autoclave** com ciclo temperatura/tempo.
+- **Tipo sugerido:** diagrama de equipamento.
+- **Legenda (rascunho):** Autoclave: ciclo de esterilização a vapor.
 
 ---
 
 ## Ponte com a Clínica
 
-Falha de antissepsia por **pressa** (movimentos de vai-e-volta com o mesmo swab) reintroduz flora — técnica importa tanto quanto o produto.
+**Infecção de sítio cirúrgico** — **profilaxia antibiótica** no tempo certo, mas **assepsia** é base. **Reprocessamento** de artigos — seguir **normas** da vigilância sanitária.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Diferença antissepsia × desinfecção.
-- Clorexidina residual prolonga efeito.
-- Esterilização ≠ desinfecção de alto nível (endoscópios flexíveis).
-- Respeitar tempo de contato do antisséptico.
+- Antissepsia ≠ esterilização.
+- Clorexidina: residualidade; iodados: alergia.
+- Autoclave: vapor, pressão, tempo.
+- Luva perfurada: troca.
 
 ---
 
@@ -57,43 +77,45 @@ Falha de antissepsia por **pressa** (movimentos de vai-e-volta com o mesmo swab)
 
 ### O que você PRECISA saber
 
-- **Concentrações** usuais de clorexidina e PVPI (institucionais).
-- **Alcoolismo** não esteriliza instrumentos sozinho — limpeza mecânica antes.
-- **Pacientes alérgicos** a iodo — alternativa.
-- **Barreira** do campo: panos estéreis, disciplina de não cruzar.
+- **Desinfecção de superfícies** vs **esterilização**.
+- **Embalagem** para esterilização — abertura a técnica.
+- **Flash sterilization** — uso limitado e controverso.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Esterilização | desinfecção de alto nível | Objetivo microbiológico |
-| Antissepsia | assepsia | Pele vs campo |
-| Autoclave | óxido de etileno | Materiais sensíveis ao calor |
+| Antissepsia | desinfecção | Tecido vivo vs objeto |
+| Esterilização | desinfecção de alto nível | Esporos |
+| Controle biológico | químico | Validação do processo |
 
 ### Frase-âncora para não esquecer
 
-> “**Campo estéril** é disciplina de **mãos e posição** — não só produto caro.”
+> “**Sem assepsia**, o melhor **corte** vira **infecção**.”
 
 ---
 
-## Na bancada e no estágio
+## Aprofundamento — raciocínio clínico
 
-Antes de tocar instrumentos estéreis, treine **abrir o invólucro** sem tocar na parte interna, **passar pinças** com a ponta dentro do campo e **manter as mãos acima da cintura** após paramentação. Em simulação, peça feedback sobre **cruzar braços** sobre o campo (erro clássico) e sobre **respingos** de solução ao preparar a pele — contaminação visual ajuda a corrigir hábito. Documente mentalmente a **sequência** de cada procedimento pequeno (abscesso, exérese): **campo limpo**, **campo potencialmente contaminado** e **descarte** de material perfurocortante em recipiente rígido.
-
-### Erros que reprovam técnica em avaliação prática
-
-- Tocar superfície **não estéril** com luvas estéreis e “passar pano” como se resolvesse.  
-- Deixar **fio** longo demais pendurado e arrastar pelo campo.  
-- **Confundir** mesa de Mayo (instrumental) com área de apoio do celular do circulante — parece piada até acontecer.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Consulte **normas ANVISA** para reprocessamento de dispositivos médicos.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+- Manual de esterilização hospitalar
+- OMS — guia de preparo da pele para cirurgia
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

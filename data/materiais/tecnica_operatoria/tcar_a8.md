@@ -1,48 +1,73 @@
 # Suturas Contínuas
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Sutura contínua** (chuleio) é rápida e distribui tensão ao longo da incisão. Risco: **um defeito** compromete toda a linha. **Sutura intradérmica** melhora resultado estético em pele. Em prova, cobram-se **indicações** (fáscia, vasos microcirúrgicos em corrida), **nó inicial e final** seguros e **técnica** de **chuleio ancorado** (bolster).
+A **sutura contínua** (running) **fecha** rapidamente longas incisões com **tensão** distribuída. **Risco**: se **romper** um ponto, **toda** a linha pode perder estanqueidade. Em prova, dominam **indicações** (fáscia, **algumas** mucosas), **técnica** de **avanço** e **fechamento** com **nó de segurança**.
 
 ---
 
-## Chuleio simples
+## Técnica base
 
-Passos contínuos com mesmo fio; **nó** de início e fim robustos.
+**Primeiro** ponto **ancorado** com nó; **lançamentos** sequenciais **sem** cortar entre cada avanço; **último** ponto **fechado** com **nó** sobre **alça** ou **duplo** para segurança.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A08-F01`
+
+- **Momento:** após contínua — esquema.
+- **O que mostrar:** **diagrama** de **sutura contínua** em **aponeurose** com setas de direção.
+- **Tipo sugerido:** ilustração técnica.
+- **Legenda (rascunho):** Sutura contínua: fechamento de aponeurose.
 
 ---
 
-## Chuleio ancorado
+## Hemostasia e visão
 
-Usa **botões** ou **bolster** para reduzir tensão cutânea — queimaduras, enxertos.
+**Pequenos** sangramentos devem ser **controlados** antes — **correr** não hemostasia sozinha. **Tração** uniforme ao **apertar** o fio.
 
-> **Pegadinha:** **aperto** desigual ao longo do chuleio — ondulação da pele — ajustar tração a cada passada.
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A08-F02`
+
+- **Momento:** após tensão — distribuição.
+- **O que mostrar:** **gráfico** de **tensão** ao longo da incisão em **contínua** vs **interrompida** (esquema).
+- **Tipo sugerido:** gráfico educacional.
+- **Legenda (rascunho):** Distribuição de tensão: sutura contínua.
 
 ---
 
-## Sutura intradérmica
+## Variações
 
-Fio absorvível **correndo** no derme; elimina marcas de pontos externos; requer boa **hemostasia**.
+**Contínua** sobre **almofadinha** (subcutâneo), **PDS** em fáscia. **Cuidado** em **tecido frágil** — **mordida** excessiva.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A08-F03`
+
+- **Momento:** após laparoscopia.
+- **O que mostrar:** **imagem** de **sutura contínua** **laparoscópica** em tela (se disponível) ou esquema de **agulha** curva.
+- **Tipo sugerido:** captura de vídeo cirúrgico esquemática.
+- **Legenda (rascunho):** Sutura contínua em vídeo-laparoscopia (conceito).
 
 ---
 
 ## Ponte com a Clínica
 
-Fáscia abdominal em **paciente obeso** — contínua com **tensão** uniforme reduz seroma relativo a muitos nós — mas **hemástase** antes.
+**Infecção** em linha de **contínua** — pode exigir **reabrir** segmento maior; **interrompida** localiza melhor.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Contínua: velocidade e distribuição de tensão.
-- Risco global de falha.
-- Intradérmica: estética.
-- Ancoragem em pele frágil.
+- Contínua: rapidez, tensão distribuída.
+- Risco de falha em cadeia.
+- Nó de segurança no final.
+- Aponeurose comum.
 
 ---
 
@@ -52,51 +77,44 @@ Fáscia abdominal em **paciente obeso** — contínua com **tensão** uniforme r
 
 ### O que você PRECISA saber
 
-- **Lembert** e **Purse-string** — suturas em órgãos ocos (conceito histórico).
-- **Over-and-over** vs **subcuticular** — planos diferentes.
-- **Corte** do fio final curto mas seguro.
+- **Locking** — variação com travamento a cada passo.
+- **Barbed** suture — sem nós (conceito).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Contínua | interrompida | Falha local vs global |
-| Intradérmica | pele simples | Marcas externas |
-| Chuleio | barbed (com ganchos) | Tecnologia moderna |
+| Contínua | interrompida | Velocidade vs segurança local |
+| Aponeurose | pele | Camada e fio |
 
 ### Frase-âncora para não esquecer
 
-> “**Chuleio** é **velocidade com risco em cadeia** — hemostasia antes.”
+> “**Contínua** fecha **rápido** — mas **rompe** em **cadeia** se errar.”
 
 ---
 
-## Sutura contínua em planos profundos
+## Aprofundamento — raciocínio clínico
 
-Em **aponeurose**, a sutura contínua distribui tensão e acelera; use fio adequado e **nó inicial** ancorado sem “escorregar” no tecido gorduroso — às vezes um **ponto em U** no início ajuda. Em **peritônio**, sutura contínua pode ser rápida, mas atenção para **não incluir** alça intestinal ao fechar.
-
-### Intradérmica — detalhe estético
-
-Entre a **derme** de ambos os lados com movimentos paralelos à pele; evite capturar **epiderme** superficialmente — marca pontilhado visível.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Vídeos de **aponeurose** em **laparotomia** aberta.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Atlas de técnicas de fechamento abdominal
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+
+- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.

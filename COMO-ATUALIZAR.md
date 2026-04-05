@@ -40,7 +40,11 @@ Lista de todas as matérias, semestres e blocos do curso. Exemplo:
 ```
 
 ### data/flashcards.json
-Seus flashcards de estudo. Cada card tem pergunta, resposta, matéria e dificuldade. Este é um dos arquivos que você vai atualizar com frequência.
+Seus flashcards de estudo. Cada card tem pergunta, resposta, matéria e tema (`aula_id`); este é um dos arquivos que você vai atualizar com frequência. O modelo editorial atual (**v2**) está descrito no prompt canônico [`prompts/gerar_questoes_flashcards.md`](prompts/gerar_questoes_flashcards.md): **30 cards por aula** (`tema` = `aula_id`), **25** com `origem: "material"` e **5** com `origem: "extra"`, campo **`categoria`** (filtro no app), `frente`/`verso`/`explicacao` com limites de tamanho. O app aceita `pergunta`/`resposta` como alias de `frente`/`verso`.
+
+- **Backup:** antes de um “wipe” ou regeneração em massa, mantenha uma cópia (ex.: `data/flashcards.json.bak`). Após substituir o JSON por um deck novo, chaves antigas do **SM-2** podem ficar órfãs no `localStorage` (`meduni9_sr_data`); isso é inofensivo e pode ser ignorado ou limpo manualmente se quiser.
+
+- **Geração por lote:** trabalhe **aula a aula** (ou blocos pequenos), valide o checklist do prompt (30 itens, proporção material/extra, categorias, anti-repetição) e faça uma passagem de QA para não duplicar perguntas entre cards próximos ou entre aulas.
 
 ### data/questoes.json
 Questões de simulado extraídas de provas antigas. Contém enunciado, alternativas, resposta correta e explicação. Você vai atualizar bastante aqui.
@@ -54,6 +58,17 @@ Catálogo da aba **Anatomia → Atlas interativo**: sistemas (como no Asclépio)
 - **`fonte`: `"asclepio"`** — use `urlImagem` do atlas UFU; preencha `credito` e mantenha o link em `referenciaAsclepio` no topo do JSON.
 - **`fonte`: `"commons"`** — prefira [Wikimedia Commons](https://commons.wikimedia.org/): `urlImagem` direto (`upload.wikimedia.org`), `urlPaginaFonte` para a página do ficheiro, `licenca` e `credito`.
 - Divisões com `laminas: []` aparecem como **Em breve** no app até você adicionar entradas.
+
+### data/anatomia_revisao.json
+Revisão escrita (**Anatomia → Revisão rápida**): `version`, `updatedAt`, `sistemas[]` com `id`, `name`, `color`, `icone` (chave: `locomotor`, `muscular`, `cardiovascular`, …) e `subsections[]`. Cada subseção tem `title`, opcional `regiao` (metadado; pode ser `cabeca`, `torax`, `abdome`, `membro_superior`, etc., ou `null`) e `blocks[]`: `cards` (`items: [{ q, a }]`), `sequence` (`steps: [{ label, detail? }]`) ou `hub` (`center`, `branches: [{ label, hint? }]`). Na interface, todo o conteúdo listado no JSON fica disponível (sem filtro por região); a busca filtra por texto. Legado: subseção só com `items` vira um bloco `cards` automático.
+
+### data/histologia_revisao.json
+Revisão em texto (**Histologia → Revisão rápida**): mesmo modelo que `anatomia_revisao.json` (`sistemas`, `subsections`, `blocks`). Ícones usam chaves do atlas (`bone`, `joint`, `heart`, …). Na interface, todo o conteúdo do JSON fica disponível; a busca filtra por texto. Opcional `regiao` permanece como metadado. Não há campo `livrosBase` no JSON gerado.
+
+### data/histologia_atlas.json
+Atlas de lâminas (**Histologia → Atlas de lâminas**): `sistemas[]` com `divisoes[]` (tecido/órgão) e `laminas[]` (`titulo`, `urlImagem`, `descricaoNecessaria`, `pinos`). `referenciaAsclepio` no JSON reutiliza o nome do campo; conteúdo pode apontar para OpenStax/OER. Para regenerar a estrutura base: `node scripts/generate_histologia_content.js`.
+
+Planeamento extra: [`docs/histologia-revisao-roadmap.md`](docs/histologia-revisao-roadmap.md).
 
 ---
 

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-AINEs e corticosteroides são os anti-inflamatórios mais prescritos da medicina. Qualquer médico, independentemente da especialidade, lida com eles diariamente. A Uninove cobra especialmente: mecanismo de ação na cascata do ácido araquidônico, efeitos adversos específicos (gastropatia dos AINEs, síndrome de Cushing dos corticoides), diferença entre seletividade COX-1 e COX-2, e indicações baseadas em evidências. Errar o mecanismo é errar a questão toda.
+AINEs e corticosteroides são os anti-inflamatórios mais prescritos da medicina. Qualquer médico, independentemente da especialidade, lida com eles diariamente. A **Uninove** cobra especialmente: mecanismo de ação na cascata do ácido araquidônico, efeitos adversos específicos (gastropatia dos AINEs, síndrome de Cushing dos corticoides), diferença entre seletividade COX-1 e **COX-2**, e indicações baseadas em evidências. Errar o mecanismo é errar a questão toda.
 
 ### Figura sugerida
 
@@ -58,7 +58,7 @@ Os **anti-inflamatórios não esteroidais (AINEs)** inibem a **cicloxigenase (CO
 
 Os **corticosteroides** (prednisona oral, dexametasona, metilprednisolona IV, budesonida inalatória, hidrocortisona IV) atuam intracelularmente: entram na célula, ligam-se ao receptor de glicocorticoide, o complexo migra para o núcleo e induz a síntese de **lipocortina (anexina A₁)**, que inibe a **fosfolipase A₂**. Como essa enzima libera o ácido araquidônico dos fosfolipídeos de membrana, os corticoides bloqueiam TODA a cascata de eicosanoides (PG + leucotrienos + tromboxano), sendo mais poderosos que os AINEs.
 
-Além disso, induzem apoptose de linfócitos, reduzem proliferação de fibroblastos e inibem síntese de citocinas (TNF-α, IL-1, IL-6). São imunomoduladores e anti-inflamatórios ao mesmo tempo.
+Além disso, induzem apoptose de linfócitos, reduzem proliferação de fibroblastos e inibem síntese de citocinas (**TNF-α**, IL-1, **IL-6**). São imunomoduladores e anti-inflamatórios ao mesmo tempo.
 
 > **Dica de Prova:** corticoide de uso crônico = síndrome de Cushing iatrogênica. Características: obesidade centrípeta (acúmulo troncular), face em lua cheia, corcova de búfalo (coxim gorduroso na nuca), estrias violáceas, hipertensão, hiperglicemia, osteoporose, imunossupressão. A suspensão abrupta após uso prolongado causa crise addisoniana (insuficiência suprarrenal) por supressão do eixo HPA.
 
@@ -83,16 +83,14 @@ Além disso, induzem apoptose de linfócitos, reduzem proliferação de fibrobla
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **COX-1 → gastropatia; COX-2 → risco CV** (seletivos como celecoxibe).
-- **AAS baixa dose = antiagregante** (TXA₂ plaquetário irreversível).
-- **AINE + 3° trimestre = contraindicado** (fecha ducto arterioso).
-- **Corticoide = inibe fosfolipase A₂** (mais potente que AINE — bloqueia tudo).
-- **Cushing iatrogênico:** face em lua + estrias violáceas + hiperglicemia + osteoporose.
-- **Suspensão abrupta do corticoide:** supressão do eixo HPA → crise addisoniana.
-- **Omeprazol + AINE** em idoso/histórico de úlcera.
-- **Asma aspirínica:** AINE ↓COX → ↑LOX → leucotrienos → broncoespasmo.
+
+COX-1 → gastropatia; COX-2 → risco CV (seletivos como celecoxibe). AAS baixa dose = antiagregante (TXA₂ plaquetário irreversível). AINE + 3° trimestre = contraindicado (fecha ducto arterioso).
+
+Corticoide = inibe fosfolipase A₂ (mais potente que AINE — bloqueia tudo). Cushing iatrogênico: face em lua + estrias violáceas + hiperglicemia + osteoporose. Suspensão abrupta do corticoide: supressão do eixo HPA → crise addisoniana.
+
+Omeprazol + AINE em idoso/histórico de úlcera. Asma aspirínica: AINE ↓COX → ↑LOX → leucotrienos → broncoespasmo.
 
 ### Diferenciações que a Uninove adora cobrar
 

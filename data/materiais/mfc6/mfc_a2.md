@@ -1,72 +1,73 @@
 # Abordagem das Anemias na Atenção Primária
 
-**Disciplina:** Medicina de Família e Comunidade  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Disciplina:** Medicina de Família e Comunidade 6  
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Anemia é achado frequente em **exames de rotina** e queixa inespecífica (**fadiga**, **palpitações**, **queda de cabelo**). Na APS, o médico precisa **classificar** (micro, normo, macro), **priorizar causas** (ferro, B12, folato, doença crônica, hemólise) e decidir **tratamento** e **encaminhamento** sem hiperinvestigar cada caso leve. Em prova, destacam-se **ferritina** como marcador de depósito de ferro, **talassemia** versus ferropenia e **suplementação** com tolerância GI.
+A **anemia** na APS exige **abordagem etiológica** sem hiperinvestigar nem subtratar. **Ferropriva** é comum (nutrição, parasitas, sangramento menstrual); **vitamina B12** e **folato** entram na **macrocitose**; **doença crônica** na **normo/microcitose** com ferritina normal/alta. Em prova, dominam **rastreio em gestantes**, **sangue oculto** no adulto e **adesão** ao tratamento com ferro.
 
 ---
 
-## Primeiros passos na UBS
+## Primeiros passos no consultório
 
-1. **Hemograma completo** com VCM, RDW, reticulócitos.  
-2. **Ferritina** e **saturação de transferrina** (interpretar com inflamação).  
-3. **TSH**, **creatinina** conforme contexto.  
-4. **B12 e folato** se macrocitose ou dieta de risco.
+Hemograma completo, **VCM**, **RDW**, **ferritina**, **ferro sérico**, **IBC** ou **saturation**. **Reticulócitos** se hemólise suspeita.
 
-### Tabela de hipóteses iniciais
+### Figura sugerida
 
-| Perfil | Hipóteses prioritárias |
-|--------|------------------------|
-| Microcítica, RDW alto | Ferropenia |
-| Microcítica, RDW normal/baixo | Talassemia leve |
-| Normocítica | Doença crônica, renal, agudo sangramento |
-| Macrocítica | B12/folato, álcool, hipotireoidismo, medicações |
+**Figura-ID:** `MFC6-A02-F01`
 
-> **Pegadinha:** **ferritina alta** em inflamação não exclui ferropenia funcional — use **saturação de transferrina** e **receptor solúvel de transferrina** quando disponível.
+- **Momento:** após algoritmo — VCM.
+- **O que mostrar:** **fluxograma** micro/normo/macro com causas frecuentes na APS.
+- **Tipo sugerido:** algoritmo clínico.
+- **Legenda (rascunho):** Anemia na APS: abordagem por VCM.
 
 ---
 
-## Tratamento do déficit de ferro
+## Ferropriva
 
-### Oral
+Causas: **débito** (úlcera, menstruação abundante), **ingestão** insuficiente, **parasitoses**. **Sulfato ferroso** com **vitamina C**; tolerância GI; **doses** alternadas podem melhorar adesão.
 
-Sulfato ferroso com **vitamina C**; efeitos ADR: constipação, náusea — ajustar formulação e dose.
+### Figura sugerida
 
-### Parenteral
+**Figura-ID:** `MFC6-A02-F02`
 
-Indicações: **má absorção**, **intolerância**, **perda contínua** não corrigível rapidamente, **gravidez** selecionada — frequentemente em serviço especializado.
-
-### Causa
-
-Investigar **sangramento GI** em homem ou pós-menopausa com ferropenia — encaminhar endoscopia conforme protocolo.
+- **Momento:** após ferro — dieta.
+- **O que mostrar:** **infográfico** de **fontes dietéticas de ferro** (heme vs não-heme).
+- **Tipo sugerido:** nutrição educativa.
+- **Legenda (rascunho):** Ferro na alimentação: biodisponibilidade.
 
 ---
 
-## Encaminhamento
+## Gestante e lactente
 
-- Anemia **não resolvida** com suplementação adequada.  
-- **Pancytopenia** ou blastos.  
-- Suspeita de **hemoglobinúria paroxística noturna**, **mielodisplasia** — hematologia.
+**Suplementação** conforme **protocolo do Ministério da Saúde**. **Aleitamento** — orientação sobre **reservas** e **introdução alimentar**.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A02-F03`
+
+- **Momento:** após gestação — cartão.
+- **O que mostrar:** **cartão da gestante** com marcação de **pré-natal** e suplementação (esquema ilustrativo).
+- **Tipo sugerido:** documento MS estilizado.
+- **Legenda (rascunho):** Pré-natal: suplementação de ferro e ácido fólico.
 
 ---
 
 ## Ponte com a Clínica
 
-Na APS, **anemia leve assintomática** em jovem com menstruação abundante pode ser manejada com **ferro** e **contracepção** para reduzir fluxo — sem necessidade imediata de endoscopia se não houver alarmes. Já o **homem de 50 anos** com Hb baixa precisa de **linha digestiva** na investigação.
+**Ferritina aguda** pode subir como **reatante** — interpretar no contexto inflamatório. **Anemia “refratária”** ao ferro — investigar **sangramento oculto**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Morfologia + ferritina guiam 80% dos casos da APS.
-- Doença renal crônica: eritropoetina e ferro IV em critérios.
-- Talassemia: cuidado com ferro empírico sem diagnóstico.
-- Alarmes: pancytopenia, blastos, esplenomegalia massiva.
+- VCM + ferritina guiam causa na APS.
+- Gestante: suplementação preventiva.
+- Macrocitose: B12/folato, álcool, hipotireoidismo.
+- Adulto: sangue oculto se ferropriva sem causa clara.
 
 ---
 
@@ -76,32 +77,45 @@ Na APS, **anemia leve assintomática** em jovem com menstruação abundante pode
 
 ### O que você PRECISA saber
 
-- **RDW** alto favorece ferropenia vs talassemia.
-- **Ferritina** é fase aguda — interpretação cruzada.
-- **Regra dos homens e pós-menopausa** com ferropenia: investigar sangramento oculto.
-- **Reposição** até normalizar depósitos, não só Hb.
+- **Helicobacter** e úlcera — causa de sangramento.
+- **Talassemia menor** — microcitose com RDW normal.
+- **Encaminhar** hematologia se citopenias múltiplas.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Ferropenia absoluta | funcional | Ferritina, receptor solúvel, inflamação |
-| Anemia renal | ferropriva | Eritropoetina, creatinina |
-| Talassemia traço | ferropenia | Eletroforese de Hb, RDW |
-| MAC | hemólise | LDH, bilirrubina, esfregaço |
+| Ferropriva | talassemia | RDW, eletroforese |
+| B12 baixa | folato | Neurológico, MMA |
+| Anemia renal | ferropriva | Eritropoetina, CKD |
 
 ### Frase-âncora para não esquecer
 
-> “**Ferro na mão** sem causa na cabeça **repete anemia**.”
-
+> “**Ferro** sem **diagnóstico** de causa é **meio tratamento**.”
 
 ---
 
-## Aprofundamento — APS e longitudinalidade
+## Aprofundamento — raciocínio clínico
 
-Posicione o tema na **atenção primária**: vínculo, **território**, **equipe** e **coordenação do cuidado**. Pergunte-se em cada tópico: o que pode ser **resolvido na UBS**, o que exige **regulação** e o que precisa de **encaminhamento** com contrarreferência. Inclua **educação em saúde** e **prevenção** quando fizer sentido clínico.
+Integre com **cadastro** e **condicionalidades** no e-SUS.
 
 ### Leitura de reforço
 
-- Cadernos de Atenção Básica do Ministério da Saúde relacionados ao tema
-- Manual de MFC / materiais da SBMFC quando aplicável
+- Protocolos de suplementação — MS
+- WHO — anemia ferropriva
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

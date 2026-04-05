@@ -14,23 +14,21 @@ Este é o documento canônico para geração de:
 
 ## Regras invioláveis de operação
 
-1. Gerar conteúdo com base no material da aula, não por memória solta.
+1. Gerar conteúdo com base no material da aula e nas referências da disciplina (ver secção Flashcards), não por memória solta.
 2. Sempre usar `tema` como `aula_id` exato (`sigla_aN`).
 3. Não sobrescrever banco inteiro: sempre append com `id` sequencial global.
 4. Explicações devem ser didáticas e objetivas, sem jargão vazio.
-5. Nunca criar conteúdo genérico sem conexão com o material da aula.
+5. Para **questões**, cada item deve ser rastreável a conteúdo explícito do material de apoio. Para **flashcards**, ver proporção material / extra abaixo.
 
 ---
 
-## Fonte obrigatória por item
+## Fonte obrigatória por item (questões)
 
-Antes de gerar questões/cards de uma aula:
+Antes de gerar **questões** de uma aula:
 
 1. Ler `data/materiais/<materia_id>/<aula_id>.md`.
 2. Se não existir, usar `materiais/modulo<N>/<materia_id>/<aula_id>.md`.
 3. Se não existir em nenhum dos dois caminhos, não gerar.
-
-Regra: todo item deve ser rastreável a conteúdo explícito do material de apoio.
 
 ---
 
@@ -95,34 +93,69 @@ Regra: explicar a correta e todas as erradas, sem deixar alternativa sem coment�
 
 ---
 
-## Flashcards — padrão obrigatório
+## Flashcards — padrão obrigatório (modelo v2)
 
-### Formato JSON
+### Meta por aula
+
+- **30 flashcards** por `aula_id` (`tema`).
+- **25** com `origem`: `"material"` (âncoras explícitas no `.md` da aula, ambos os caminhos espelhados).
+- **5** com `origem`: `"extra"` — só conceitos **indispensáveis** para prova que **não** aparecem no material, fundamentados em livro-texto/guideline da lista abaixo; não repetir ideia já coberta por outro card.
+- Distribuir categorias de forma mista; **não** fazer 30 cards quase iguais (variar: definição, mecanismo, comparação, detalhe de prova, clínica).
+
+### Anti-repetição
+
+- Dois cards não podem ter a mesma pergunta com mudança mínima de redação.
+- Cobrir eixos diferentes da aula (estrutura, passos, comparativos da tabela, “pegadinhas” do material).
+- `categoria` `"extra_livro"` reservada aos 5 itens `origem: "extra"` (ou usar `prova` se o extra for só lógica de prova).
+
+### Formato JSON (obrigatório)
 
 ```json
 {
   "id": 1,
   "materia": "mad2",
-  "frente": "...",
-  "verso": "...",
-  "explicacao": "...",
+  "frente": "Pergunta curta e inequívoca.",
+  "verso": "Resposta mínima, memorizável.",
+  "explicacao": "Opcional: 0–2 frases curtas; rodapé de contexto (não mini-aula).",
   "tema": "mad2_a10",
   "dificuldade": 2,
+  "categoria": "mecanismo",
+  "origem": "material",
   "tags": ["herpesvirus", "latencia", "reativacao"]
 }
 ```
 
-### Regras de qualidade
+| Campo | Descrição |
+|-------|-----------|
+| `frente` | Pergunta direta; ideal ≤ **100** caracteres. |
+| `verso` | Resposta curta; ideal ≤ **120** caracteres; **proibido** parágrafo longo estilo mini-aula. |
+| `explicacao` | Complemento opcional para o rodapé do app (mais discreto que o verso); se usar, máx. **2 frases curtas**; pode ser `""` omitido em JSON ou string vazia. |
+| `categoria` | Uma das strings fechadas (ver tabela abaixo). |
+| `origem` | `"material"` ou `"extra"`. |
+| `tags` | 2–4 tags, minúsculas, sem acento; hífen em compostos. |
 
-- `frente`: pergunta curta e específica (ideal <= 120 chars).
-- `verso`: resposta curta, direta, revisável em segundos (ideal <= 140 chars).
-- `explicacao`: 1-3 frases com mecanismo/uso clínico.
-- `tags`: 2-4 tags, minúsculas, sem acento, separadas por hífen quando composto.
+### Valores fechados: `categoria`
 
-Proibido:
+| Valor | Uso |
+|-------|-----|
+| `definicao` | Termo, classificação, nomenclatura. |
+| `mecanismo` | Via, passo bioquímico/fisiopatológico, sequência. |
+| `clinica` | Quadro, sinal, conduta de contexto (sem enunciado gigante). |
+| `diferenciacao` | Comparar A vs B, tabela da aula. |
+| `prova` | Detalhe que a banca cobra, pegadinha, critério numérico. |
+| `extra_livro` | Só para os 5 cards `origem: "extra"` quando o foco é referência clássica. |
+
+### Fontes para os 5 extras
+
+Basear-se nas mesmas referências já usadas no repositório / [`PROJECT_CONTEXT.md`](../PROJECT_CONTEXT.md) quando existir plano da disciplina. Exemplos de famílias: anatomia (Moore/Netter), histologia (Junqueira), fisiologia (Guyton/Costanzo), patologia (Robbins), farmacologia (Katzung), imunologia (Abbas/Janeway), semiologia (Porto/Bates), etc. **Não inventar** citação ou guideline.
+
+### Proibido (flashcards)
+
 - Verso em formato de mini-aula longa.
-- Frente ambígua com múltiplas respostas corretas.
+- Frente ambígua com várias respostas aceitáveis.
+- Mais de 5 cards `origem: "extra"` por aula.
 - Tag vazia ou sem relação com o conceito.
+- `categoria` ou `origem` fora dos valores permitidos.
 
 ---
 
@@ -143,13 +176,22 @@ Regras:
 
 ## Checklist de validação (antes de salvar)
 
+### Questões
+
 - [ ] `tema` está no formato `sigla_aN`.
 - [ ] Item foi derivado do material da aula correta.
-- [ ] Questão tem 4 alternativas válidas (`A`-`D`).
+- [ ] Questão tem 4 alternativas válidas (`A`–`D`).
 - [ ] Explicação da questão comenta correta e todas as erradas.
-- [ ] Flashcard tem `verso` curto e `explicacao` complementar.
-- [ ] `id` novo é sequencial global.
-- [ ] JSON final está válido.
+
+### Flashcards
+
+- [ ] Exatamente **30** cards por aula (lote da mesma `tema`).
+- [ ] **25** × `origem: "material"` e **5** × `origem: "extra"`.
+- [ ] Cada card tem `categoria` e `origem` válidos.
+- [ ] `frente` / `verso` dentro dos limites de caracteres recomendados.
+- [ ] Nenhum par de cards redundante (releitura humana ou script de similaridade).
+- [ ] `id` novo é sequencial global único no array `flashcards`.
+- [ ] JSON válido; arquivo em `data/flashcards.json` com chave `"flashcards": [ ... ]`.
 
 ---
 
@@ -161,3 +203,9 @@ Para cada lote processado:
 2. Informar quantidade gerada (questões e/ou flashcards).
 3. Informar aulas (`tema`) cobertas.
 4. Só então seguir para o próximo lote.
+
+### Geração em escala (flashcards)
+
+- Processar **uma aula por vez**: ler o `.md`, gerar 30 cards, validar checklist, fazer append no JSON.
+- Não substituir o array inteiro sem backup.
+- Após wipe completo do banco de cards, renumerar `id` de 1 a N globalmente ao fechar o lote final (ou manter append com último `id` + 1 — documentar no commit).

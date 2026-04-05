@@ -1,78 +1,107 @@
 # Diagnóstico Laboratorial de Hemostasia
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (distúrbios da hemostasia e coagulação)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **hemostasia** é o equilíbrio entre **sangramento** e **trombose**. Em prova e na enfermaria, você interpretará **TP/INR**, **TTPa**, **contagem plaquetária**, **fibrinogênio**, **DDímero** e, em casos selecionados, **testes de agregação plaquetária** e dosagens de **fator VIII/IX**. Entender **via extrínseca**, **intrínseca**, **fase comum** e papel das **plaquetas** evita confundir deficiência de vitamina K com hemofilia e diferencia **DIC** de **doença hepática**.
+A **hemostasia** integra **vaso**, **plaquetas** e **cascata de coagulação** (com **inibição fibrinolítica** regulada). O laboratório traduz **sangramento** ou **trombose** em padrões interpretáveis: **contagem plaquetária**, **tempo de protrombina (TP/INR)**, **TTPa**, **fibrinogênio**, **dímero D**, **produtos de degradação de fibrina**. No *Cecil*, o raciocínio clínico separa **defeito primário** (mucosas, petéquias, plaquetas) de **defeito de coagulação** (hemartros, hematomas profundos, TP/TTPa prolongados). Em prova, a banca cobra **algoritmo de prolongamento de TTPa** (mistura), **DIC** versus **deficiência de vitamina K**, e **hemofilia** versus **doença de von Willebrand**.
 
 ---
 
-## Cascata de coagulação (modelo didático)
+## Fisiologia resumida (mapa)
 
-### Vias e testes correspondentes
-
-| Via | Fatores centrais | Teste laboratorial típico |
-|-----|------------------|---------------------------|
-| Extrínseca | VII | **TP / INR** |
-| Intrínseca | VIII, IX, XI, XII | **TTPa** |
-| Comum | X, V, II, I | **Ambos prolongam** se afetados |
-
-> **Pegadinha:** **INR elevado** isolado com TTPa normal sugere via **extrínseca** ou **deficiência de vitamina K** (II, VII, IX, X dependem de carboxilação vitamínica K).
+| Componente | Função principal | Pista clínica de falha |
+|------------|------------------|------------------------|
+| **Endotélio** | Barreira e anticoagulação fisiológica | Fragilidade vascular (raro isolado em prova) |
+| **Plaquetas** | Tampão primário, adesão/agregação | Petéquias, epistaxe, sangramento mucoso |
+| **Via extrínseca** (fator VII + tecido) | Início da geração de trombina | **TP/INR** prolongado |
+| **Via intrínseca** (XII, XI, IX, VIII…) | Amplificação | **TTPa** prolongado |
+| **Via comum** (X, V, II, I) | Trombina e fibrina | TP **e** TTPa prolongados |
+| **Fibrinólise** | Remoção de coágulo | Sangramento pós-cirúrgico tardio, em tese |
 
 ---
 
-## Distúrbios comuns e padrões laboratoriais
+## Exames de triagem mais usados
 
-### Trombocitopenia
+### Hemograma
 
-Causas: **produção diminuída** (medula), **destruição aumentada** (imune, TTP, HUS), **sequestro** (esplenomegalia), **diluição** (massivo transfusion). A **citometria** plaquetária ajuda na diferenciação de causas hereditárias.
+**Plaquetopenia** explica muitos sangramentos — mas **plaquetas normais** não excluem **disfunção plaquetária** (uremia, antiagregantes, doença de von Willebrand grave).
 
-### Coagulopatia de consumo (DIC)
+### Tempo de protrombina (TP) e INR
 
-**Consumo** de fatores e plaquetas → **TP e TTPa prolongados**, **plaquetas baixas**, **fibrinogênio baixo**, **DDímero alto**. Contexto: **sepse**, **choque**, **obstetrícia**, **câncer**.
+Avalia **via extrínseca e comum**. **INR** padroniza o TP entre laboratórios. **Prolongado:** deficiência de **vitamina K**, **uso de varfarina**, **insuficiência hepática**, **deficiência de fator VII** (raro isolado), **via comum** (fibrinogênio muito baixo).
 
-### Doença hepática
+> **Dica de Prova:** **INR elevado** + **hepatopata** → pense **síntese hepática** e **vitamina K** antes de assumir apenas “sobredose de anticoagulante oral”.
 
-**Síntese** de fatores diminuída → frequentemente **TP/INR** alterado; **TTPa** pode acompanhar. **Contagem plaquetária** pode cair por **hipertensão portal** (consumo/esplenismo).
+### TTPa (tempo de tromboplastina parcial ativado)
+
+Avalia **via intrínseca e comum**. **Prolongado isolado:** deficiências de **VIII, IX, XI**, **inibidor**, **heparina**, **anticardiolipina** (lúpus anticoagulante — paradoxalmente trombótico).
+
+### Teste de mistura (mixing study)
+
+**TTPa prolongado** → repetir com **plasma normal** (pool). Se **normalizar** → **deficiência de fator**. Se **não normalizar** → **inibidor** (ex.: inibidor de VIII na hemofilia adquirida, lúpus anticoagulante).
+
+| Resultado da mistura | Interpretação típica |
+|------------------------|----------------------|
+| Corrige | Deficiência de fator |
+| Não corrige | Inibidor ou anticoagulante circulante |
+
+### Trombina (TT) e fibrinogênio
+
+**TT prolongado** com **fibrinogênio baixo** ou **heparina** (incluindo contaminação da amostra). Útil na suspeita de **disseminação intravascular da coagulação (DIC)** em conjunto com **plaquetopenia**, **TP prolongado**, **dímero D** alto.
+
+### Dímero D
+
+**Alto** em trombose, trauma, cirurgia, infecção, câncer — **sensível, não específico**. Na suspeita de **TEP**, valor **baixo** em algoritmos validados ajuda a **excluir**; valor **alto** **não** diagnostica sozinho.
+
+---
+
+## Quadros clássicos por padrão laboratorial
+
+### Hemofilia A e B
+
+**Deficiência de VIII (A)** ou **IX (B)** — **TTPa prolongado**, **TP normal**, **sexo masculino** na forma ligada ao X clássica. **Hemartros** recorrentes. Tratamento com **concentrados de fator** ou terapias modificadas conforme protocolo.
+
+### Doença de von Willebrand
+
+**Defeito de adesão plaquetária** e **porte de fator VIII** — sangramento **mucocutâneo**, **TTPa** pode prolongar, **tempo de sangramento** pode alterar (quando disponível). **Desmopressina** em alguns subtipos; **fator VIII/von Willebrand** em outros.
 
 ### Uso de anticoagulantes
 
-- **Varfarina:** INR prolongado.  
-- **Heparina não fracionada:** TTPa prolongado (monitoramento).  
-- **DOACs:** efeito em testes variável; anti-Xa específico quando necessário (conceito).
+| Droga | Efeito típico no laboratório |
+|-------|-------------------------------|
+| **Varfarina** | **INR** prolongado |
+| **Heparina não fracionada** | **TTPa** prolongado |
+| **Heparina de baixo peso molecular** | TTPa pode não refletir (anti-Xa se necessário) |
+| **Anticoagulantes orais diretos (DOAC)** | Padrões variam; em sangramento grave pensar em antídotos/contexto |
+
+> **Pegadinha:** **TTPa prolongado** em paciente **sem** explicativo aparente — inclua **amostra mal coletada** (citrate excess) e **heparina de cateter** antes de raridades.
 
 ---
 
-## Avaliação de sangramento prolongado
+## DIC (disseminação intravascular da coagulação)
 
-### História direciona
-
-- **Sangramento mucocutâneo** precoce → plaquetas ou von Willebrand.  
-- **Hemartroses** → hemofilia (fator VIII/IX).  
-- **Equimoses** + **TP/INR alto** → vitamina K, uso de varfarina, hepatopatia.
-
-### Testes adicionais
-
-**Tempo de sangramento** (menos usado), **PFA** (conceito), dosagem de **fator VIII/IX**, **antígeno e atividade de vWF**.
+**Consumo** de plaquetas e fatores + **ativação fibrinolítica**. Contexto: **sepse**, **choque**, **obstetrícia**, **trauma**, **malignidade**. Laboratório: **plaquetopenia**, **TP/TTPa** prolongados, **fibrinogênio** baixo, **dímero D** muito elevado, **esquizócitos** em alguns casos. Tratar **causa base**; suporte hemostático conforme gravidade.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente cirrótico com **INR alto** não deve ter “reposição empírica” de vitamina K sem pensar em **nutrição**, **antibiótico** (apagamento de flora) e **indicação real** — mas em **sangramento ativo** ou procedimento de alto risco, a correção guiada por protocolo salva vidas. O internista equilibra **risco trombótico** (portal) e **risco hemorrágico**.
+Paciente com **hematoma expansivo** pós-pequeno trauma e **TTPa isoladamente longo**: **não** transfira “plaquetas empíricas” como primeira linha — caracterize **defeito de coagulação** versus **anticoagulação**. **História** (hepatite, álcool, drogas) + **mistura** mudam o próximo passo em horas.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- TP/INR ≈ via extrínseca + comum; TTPa ≈ intrínseca + comum.
-- Vitamina K afeta fatores II, VII, IX, X (memorizar o “1972” como mnemônico comum).
-- DIC = consumo em contexto grave; não é diagnóstico de exclusão irresponsável.
-- Plaquetas baixas ≠ sempre ITP; infecção, drogas, secundarismo.
+- **Petéquias** → plaquetas/vasos; **hematomas profundos/articulares** → coagulação ou anticoagulação.  
+- **TP** = extrínseca + comum; **TTPa** = intrínseca + comum; ambos longos → **via comum** ou **múltiplas causas** (DIC, hepatopatia grave).  
+- **Teste de mistura** diferencia **deficiência** de **inibidor**.  
+- **DIC** = contexto clínico + consumo (não é um “único número”).  
+- **DOAC** pode confundir interpretação — em prova de graduação, conceito importa mais que valores de referência específicos.
 
 ---
 
@@ -82,20 +111,20 @@ Paciente cirrótico com **INR alto** não deve ter “reposição empírica” d
 
 ### O que você PRECISA saber
 
-- Interpretação básica de **TP/INR** vs **TTPa**.
-- Padrão da **DIC** vs **hepatopatia** vs **anticoagulação**.
-- **Hemofilia** = TTPa prolongado, TP normal (tipicamente).
-- **Doença de von Willebrand** = sangramento mucocutâneo + TTPa às vezes prolongado.
+- Algoritmo **TP / TTPa / plaquetas**.  
+- **Mistura** para TTPa prolongado.  
+- Padrão **hemofilia** (TTPa longo, TP ok).  
+- **DIC** não é só “dímero alto”.  
+- **Vitamina K** e **fígado** no paciente com **INR** alto.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| ITP | TTP | TTP: MAHA, febre, déficit neurológico, rins |
-| Deficiência vitamina K | Hepatopatia severa | Resposta à vitamina K; outros achados hepáticos |
-| Heparina | Deficiência de antitrombina | Contexto; anti-Xa, história |
-| DIC leve | Causa isolada de TP alto | Tendência a queda de plaquetas e fibrinogênio |
+| Deficiência de fator | Inibidor de fator | Mistura |
+| Trombocitopenia imune | DIC | Esfregaço, contexto clínico, fibrinogênio |
+| Heparina residual | Hemofilia leve | História, mistura, dosagem quando indicado |
 
 ### Frase-âncora para não esquecer
 
-> “**Prolongou TP e TTPa?** Pense **comum** ou **múltiplas causas**; **só TP?** pense **VII** ou **K**.”
+> “**TP e TTPa** contam **histórias diferentes** — junte ao **paciente**, não só ao papel.”

@@ -1,6 +1,9 @@
 conteudos/
 node_modules/
 .firebase/
+.migration-temp/
+.superpowers/
+$base/
 
 # Runtime artifacts from local agents/pipelines
 .agents/logs/
@@ -12,6 +15,10 @@ data/feedback/processed/
 
 # Firebase service account key (NEVER commit)
 .agents/firebase-sa-key.json
+.agents/firebase-sa-key-OLD.json
+.agents/firebase-sa-key-NEW.json
+medgradplus-*-adminsdk*.json
+*-chave-nova.json
 chave privada firebase.json
 *chave privada*
 *service-account*

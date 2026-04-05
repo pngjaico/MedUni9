@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A anamnese bem estruturada no abdomen é o alicerce do diagnóstico — quanto melhor a história, menos exames desnecessários e mais direto ao ponto. A Uninove cobra a capacidade de reconhecer qual pergunta muda a hipótese diagnóstica. Um paciente pode vir com "dor abdominal", mas uma anamnese precisa diferencia peritonite (piora com toque, respiração profunda) de cólica renal (paciente mexe desesperado procurando posição) ou apendicite (começa periumbilical, depois FID). Na prática hospitalar, uma anamnese incompleta gera 40% mais pedidos de imagem desnecessária.
+A anamnese bem estruturada no abdomen é o alicerce do diagnóstico — quanto melhor a história, menos exames desnecessários e mais direto ao ponto. A **Uninove** cobra a capacidade de reconhecer qual pergunta muda a hipótese diagnóstica. Um paciente pode vir com "dor abdominal", mas uma anamnese precisa diferencia peritonite (piora com toque, respiração profunda) de cólica renal (paciente mexe desesperado procurando posição) ou apendicite (começa periumbilical, depois FID). Na prática hospitalar, uma anamnese incompleta gera 40% mais pedidos de imagem desnecessária.
 
 
 
@@ -71,16 +71,14 @@ No pronto-socorro, anamnese rápida e bem feita em 3 minutos poupa 5 exames. Ped
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **HMA completa:** localização (com dedo), duração (horas/dias), progressão (pior/melhor), fatores piora e melhora.
-- **Localização:** NUNCA aceite "barriga toda" — exija "mostra aí com o dedo".
-- **Relação temporal com vômito:** antes, durante ou depois da dor?
-- **Cor do vômito:** claro, amarelado (bilioso), preto (gástrico), marrom (fecaloide)?
-- **Hábito intestinal:** quantas vezes/dia agora vs. o normal? Mudou consistência ou cor?
-- **Febre:** teve? Quanto? Quando começou?
-- **Medicações:** toma AINE? Corticoide? Anticoagulante?
-- **Cirurgias prévias:** aumenta risco de aderências e obstrução.
+
+HMA completa: localização (com dedo), duração (horas/dias), progressão (pior/melhor), fatores piora e melhora. Localização: NUNCA aceite "barriga toda" — exija "mostra aí com o dedo". Relação temporal com vômito: antes, durante ou depois da dor?
+
+Cor do vômito: claro, amarelado (bilioso), preto (gástrico), marrom (fecaloide)? Hábito intestinal: quantas vezes/dia agora vs. o normal? Mudou consistência ou cor? Febre: teve? Quanto? Quando começou?
+
+Medicações: toma AINE? Corticoide? Anticoagulante? Cirurgias prévias: aumenta risco de aderências e obstrução.
 
 ### Diferenciações que a Uninove adora cobrar
 

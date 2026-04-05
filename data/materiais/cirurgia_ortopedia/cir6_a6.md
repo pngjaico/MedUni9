@@ -1,64 +1,102 @@
 # Litíase de Vias Biliares
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Colelitíase** é frequente e muitas vezes assintomática. **Colecistite aguda** e **coledocolitíase** são complicações que colocam o paciente na emergência. O cirurgião precisa dominar **tríade de Charcot**, **síndrome de Mirizzi**, indicações de **colecistectomia** laparoscópica e papel da **CPRE** na retirada de cálculo coledociano.
+**Colelitíase** é extremamente frequente e muitas vezes **assintomática**. Os quadros de prova giram em torno de **cólica biliar**, **colecistite aguda**, **coledocolitíase** e **colangite**. Você precisa reconhecer **tríade de Charcot**, **pentada de Reynolds**, **síndrome de Mirizzi**, indicações de **colecistectomia** laparoscópica e o papel da **CPRE** na retirada de cálculo no colédoco.
 
 ---
 
 ## Fisiopatologia da colelitíase
 
-Cálculos de **colesterol** (maioria) ou **pigmentados** (hemólise). **Lama biliar** é substrato para cálculos micro.
+Cálculos de **colesterol** (maioria) ou **pigmentados** (hemólise). **Lama biliar** e dislipidemia contribuem. Obesidade, emagrecimento rápido, certas drogas e etnia alteram risco.
+
+> **Pegadinha:** **Amilase/lipase** podem subir na coledocolitíase por obstrução do ducto pancreático comum — interprete junto com imagem ductal.
 
 ---
 
-## Quadros clínicos
+## Quadros clínicos (e o que cai)
 
 ### Cólica biliar
 
-Dor epigástrica/DHD pós-prandial, autolimitada. Tratamento inicial: analgesia, orientação dietética; **colecistectomia** eletiva se recorrente.
+Dor epigástrica/DHD pós-prandial, autolimitada. Conduta: analgesia; **colecistectomia eletiva** se recorrente ou conforme sintoma.
 
 ### Colecistite aguda
 
-Dor persistente, febre, leucocitose, sinal de **Murphy** à USG. **Laparoscopia** em 72h preferível na maioria dos centros.
+Dor persistente, febre, leucocitose; **Murphy** sonográfico. **Laparoscopia** em janela de 24–72h na maioria dos protocolos (varia por estabilidade).
 
-### Coledocolitíase
+### Coledocolitíase / colangite
 
-Icterícia, colúria, cólica; dilatação de colédoco ao USG. **CPRE** + esfincterotomia + extração.
+Icterícia, colúria, dilatação de colédoco; **colangite** = **antibiótico** + desobstrução (**CPRE**) quando indicado.
 
-> **Pegadinha:** **amilase** pode subir em coledocolitíase por obstrução pancreática — não confunda sempre com pancreatite primária.
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A6-F01`
+
+- **Momento:** após fisiopatologia (anatomia macro dos cálculos).
+- **O que mostrar:** ilustração de **cálculos biliares** e relação com vesícula/ductos.
+- **Tipo sugerido:** diagrama médico colorido.
+- **Legenda (rascunho):** Colelitíase: cálculos na vesícula biliar.
 
 ---
 
 ## Diagnóstico por imagem
 
-**USG** primeira linha. **EUS** em dúvidas. **MRCP** não invasiva para mapear árvore biliar.
+**USG** primeira linha: cálculos móveis, sombra acústica, espessamento parietal. **Sinal WES** (wall-echo-shadow) em vesícula repleta de cálculos. **MRCP** para mapear árvore sem invasão; **CPRE** diagnóstico/terapêutico.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A6-F02`
+
+- **Momento:** após USG na colecistite / litíase (correlação).
+- **O que mostrar:** **ultrassom** com **sinal WES** (parede–eco–sombra) em vesícula contraída com cálculos.
+- **Tipo sugerido:** USG real com legenda.
+- **Legenda (rascunho):** Sinal WES: vesícula com cálculos e sombra posterior.
 
 ---
 
-## Tratamento
+## Tratamento e algoritmo
 
-**Colecistectomia** para sintomáticos. **Observação** em assintomáticos na maioria (exceções: diabéticos, transplante — discussão especializada).
+| Situação | Conduta típica |
+|----------|----------------|
+| Sintomático / cólica recorrente | Colecistectomia eletiva |
+| Colecistite aguda não complicada | Antibiótico + cirurgia precoce (protocolo) |
+| Cálculo no colédoco | CPRE ± colecistectomia em sequência |
+| Colangite séptica | Antibiótico + desobstrução urgente |
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A6-F03`
+
+- **Momento:** após coledocolitíase (mapeamento ductal).
+- **O que mostrar:** **MRCP** com cálculos na vesícula e no **colédoco** (árvore biliar).
+- **Tipo sugerido:** imagem de RM colangiográfica.
+- **Legenda (rascunho):** MRCP: coledocolitíase e vesícula com cálculos.
+
+---
+
+## Síndrome de Mirizzi e Courvoisier (revisão)
+
+**Mirizzi:** cálculo no infundíbulo comprimindo o colédoco externamente — pode mimetizar lesão intrínseca. **Courvoisier** (aula de icterícia): vesícula palpável indolor com icterícia — pensar obstrução maligna distal até provar o contrário.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com colecistite leve e comorbidades pode ser manejado com **antibiótico** e cirurgia em janela — mas **perfuração** ou **empiema** exigem cirurgia mais rápida. Não subestime **gas** na parede vesicular ao USG.
+**Gás** na parede vesicular, **empiema** ou perfuração exigem **tempo cirúrgico** mais curto. Não minimize “só colecistite” em idoso ou diabético.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- USG Murphy + espessamento parietal = colecistite.
-- Colangite = CPRE + ATB.
-- Mirizzi: compressão externa do colédoco por cálculo infundibular.
-- Síndrome de Courvoisier (ver aula icterícia) para malignidade.
+- Murphy ao USG + espessamento parietal → colecistite (em conjunto com quadro).
+- Colangite = CPRE + ATB quando indicado (gravidade).
+- Mirizzi: compressão extrínseca do ducto por cálculo impactado.
+- Profilaxia de ATB no intraoperatório segue protocolo do centro.
 
 ---
 
@@ -68,32 +106,31 @@ Paciente com colecistite leve e comorbidades pode ser manejado com **antibiótic
 
 ### O que você PRECISA saber
 
-- **Tríade de Charcot** e **pentada de Reynolds**.
-- **Acalculosa** em UTI — prognóstico mais grave.
-- **Cálculo residual** pós-cirurgia — suspeita se icterícia recorrente.
-- **Profilaxia ATB** em alto risco cirúrgico (protocolo).
+- **Charcot** e **Reynolds** — reconhecimento imediato.
+- **Colecistite acalculosa** em UTI — prognóstico mais grave.
+- **Cálculo residual** pós-colecistectomia — suspeitar se icterícia recorrente.
+- Indicações de colecistectomia em assintomático (contextos especiais — discussão).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
 | Cólica | colecistite | Duração, inflamação sistêmica |
-| Colangite | hepatite | FA/GGT, imagem ductal |
-| Litíase | pólipo vesicular | Imagem, mobilidade |
-| Síndrome de Mirizzi | colangiocarcinoma | Histologia, imagem |
+| Colangite | hepatite | Imagem ductal, FA/GGT |
+| Litíase | pólipo vesicular | Mobilidade, sombra, seguimento |
+| Mirizzi | colangiocarcinoma | Imagem, anatomia, histopatológico |
 
 ### Frase-âncora para não esquecer
 
 > “**Vesícula** inflamada com **colédoco** dilatado = pense **pedra no caminho**.”
 
-
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Integre **estabilidade**, **comorbidades** e **experiência** com CPRE/laparoscopia. Documente **achados ductais** no pré-operatório para evitar surpresa intraoperatória.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Diretrizes de colecistite aguda
+- Consensos de manejo de coledocolitíase (intraoperatório vs CPRE prévio)

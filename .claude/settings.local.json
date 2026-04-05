@@ -33,7 +33,8 @@
       "Bash(sed -i 's/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/ingestao_pdfs.html)",
       "Bash(sed -i 's/MedUni9 ·/MedGradPlus ·/g' .agents/dashboards/curadoria_meduni9.html)",
       "Bash(curl:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(\"C:\\\\Users\\\\Usuario-pc\\\\AppData\\\\Roaming\\\\npm\\\\claude.cmd\" --help)"
     ]
   }
 }

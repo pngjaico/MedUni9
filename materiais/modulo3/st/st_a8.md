@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As infecções sexualmente transmissíveis (ISTs) são doenças de notificação compulsória e relevantes no contexto do trabalhador — especialmente em profissionais de saúde (HBV, HCV, HIV por acidente com material biológico). Os sistemas de informação em saúde do trabalhador fecham o módulo integrando a notificação, o acompanhamento e a análise de dados para tomada de decisão.
+As infecções sexualmente transmissíveis (ISTs) são doenças de notificação compulsória e relevantes no contexto do trabalhador — especialmente em profissionais de saúde (HBV, HCV, **HIV** por acidente com material biológico). Os sistemas de informação em saúde do trabalhador fecham o módulo integrando a notificação, o acompanhamento e a análise de dados para tomada de decisão.
 
 ### Figura sugerida
 
@@ -54,7 +54,7 @@ Profissionais de saúde estão sujeitos a exposição a sangue e fluidos biológ
 
 A sífilis teve aumento expressivo no Brasil nos últimos anos. Notificação obrigatória semanal. A sífilis congênita é um indicador de qualidade da atenção pré-natal e tem meta de eliminação. Tratamento: penicilina benzatina — único tratamento aceito na gestação.
 
-O HIV é notificação compulsória desde diagnóstico (não somente AIDS). O tratamento antirretroviral universal (TARV independente de CD4) é política nacional do Brasil.
+O **HIV** é notificação compulsória desde diagnóstico (não somente **AIDS**). O tratamento antirretroviral universal (TARV independente de CD4) é política nacional do Brasil.
 
 ---
 
@@ -73,13 +73,14 @@ O HIV é notificação compulsória desde diagnóstico (não somente AIDS). O tr
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **PEP HIV = 72h, 28 dias** (TDF+3TC+DTG).
-- **HBV pós-exposição:** imunoglobulina + vacina.
-- **HCV:** sem PEP, monitorar 6 meses.
-- **SINAN:** notificação compulsória.
-- **Sífilis na gestação:** penicilina benzatina — único tratamento eficaz.
+
+PEP HIV = 72h, 28 dias (TDF+3TC+DTG). HBV pós-exposição: imunoglobulina + vacina.
+
+HCV: sem PEP, monitorar 6 meses. SINAN: notificação compulsória.
+
+Sífilis na gestação: penicilina benzatina — único tratamento eficaz.
 
 ### Diferenciações que a Uninove adora cobrar
 

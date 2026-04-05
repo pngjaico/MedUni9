@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema nervoso autônomo simpático é o controlador de emergência do organismo — taquicardia, vasoconstrição, broncodilatação, midríase. Seus fármacos são usados em situações de risco de vida: choque, parada cardiorrespiratória, anafilaxia, crise hipertensiva. A Uninove cobra especialmente os receptores adrenérgicos (α₁, α₂, β₁, β₂), os efeitos de cada agonista/antagonista e a escolha da droga correta no contexto clínico.
+O **sistema nervoso autônomo** simpático é o controlador de emergência do organismo — taquicardia, vasoconstrição, broncodilatação, midríase. Seus fármacos são usados em situações de risco de vida: choque, parada cardiorrespiratória, anafilaxia, crise hipertensiva. A **Uninove** cobra especialmente os receptores adrenérgicos (α₁, α₂, β₁, β₂), os efeitos de cada agonista/antagonista e a escolha da droga correta no contexto clínico.
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ O sistema nervoso autônomo simpático é o controlador de emergência do organi
 
 ## Receptores Adrenérgicos — A Base de Tudo
 
-Os receptores adrenérgicos são ativados pela noradrenalina (liberada pelos neurônios simpáticos pós-ganglionares) e pela adrenalina (liberada pela medula suprarrenal). Classificam-se em dois grandes grupos:
+Os receptores adrenérgicos são ativados pela **noradrenalina** (liberada pelos neurônios simpáticos pós-ganglionares) e pela adrenalina (liberada pela medula suprarrenal). Classificam-se em dois grandes grupos:
 
 **Receptores α₁**: pós-sinápticos em vasos sanguíneos, íris, músculo liso urinário. Efeito: vasoconstrição (aumento da resistência vascular periférica = aumento da PA), midríase, contração do esfíncter uretral.
 
@@ -83,16 +83,14 @@ Os receptores adrenérgicos são ativados pela noradrenalina (liberada pelos neu
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **α₁ → vasoconstrição** (noradrenalina, fenilefrina); **β₁ → coração** (dobutamina); **β₂ → broncodilatação** (salbutamol).
-- **Adrenalina = droga da anafilaxia e da PCR.**
-- **Noradrenalina = choque séptico** (vasoconstrição α₁ para manter PAM).
-- **Dobutamina = choque cardiogênico** (inotropia sem vasoconstrição).
-- **BB + asma = perigoso** (bloqueio β₂ causa broncoespasmo).
-- **BB na ICC:** carvedilol, metoprolol, bisoprolol → reduzem mortalidade.
-- **α₁-bloqueadores:** HPB + HAS — hipotensão postural na 1ª dose.
-- **Dopamina dose-dependente:** baixa = D₁ (renal); média = β₁; alta = α₁.
+
+Α₁ → vasoconstrição (noradrenalina, fenilefrina); β₁ → coração (dobutamina); β₂ → broncodilatação (salbutamol). Adrenalina = droga da anafilaxia e da PCR. Noradrenalina = choque séptico (vasoconstrição α₁ para manter PAM).
+
+Dobutamina = choque cardiogênico (inotropia sem vasoconstrição). BB + asma = perigoso (bloqueio β₂ causa broncoespasmo). BB na ICC: carvedilol, metoprolol, bisoprolol → reduzem mortalidade.
+
+Α₁-bloqueadores: HPB + HAS — hipotensão postural na 1ª dose. Dopamina dose-dependente: baixa = D₁ (renal); média = β₁; alta = α₁.
 
 ### Diferenciações que a Uninove adora cobrar
 

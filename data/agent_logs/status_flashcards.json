@@ -1,26 +1,15 @@
 {
   "status": "ok",
-  "rodou_em": "04/04/2026 03:00",
+  "rodou_em": "05/04/2026 03:00",
   "meta_flashcards_por_aula": 12,
   "stats": {
-    "total_aulas_com_material": 270,
-    "com_meta_atingida": 0,
-    "sem_nenhum": 270,
+    "total_aulas_com_material": 331,
+    "com_meta_atingida": 2,
+    "sem_nenhum": 307,
     "total_flashcards": 95
   },
-  "total_na_fila": 270,
+  "total_na_fila": 329,
   "fila_prioridade": [
-    {
-      "aula_id": "sus_a1",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Processo Saúde-Doença e Determinantes Sociais",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/sus/sus_a1.md",
-      "score": 235
-    },
     {
       "aula_id": "sus_a2",
       "materia_id": "sus",
@@ -41,17 +30,6 @@
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
       "material_path": "materiais/modulo1/sus/sus_a3.md",
-      "score": 235
-    },
-    {
-      "aula_id": "sus_a4",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "O SUS e as Leis Orgânicas da Saúde",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/sus/sus_a4.md",
       "score": 235
     },
     {
@@ -85,28 +63,6 @@
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
       "material_path": "materiais/modulo1/sus/sus_a7.md",
-      "score": 235
-    },
-    {
-      "aula_id": "sus_a8",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "PNAB e Estratégia Saúde da Família",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/sus/sus_a8.md",
-      "score": 235
-    },
-    {
-      "aula_id": "sus_a9",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Ferramentas de Abordagem Familiar e Comunitária",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/sus/sus_a9.md",
       "score": 235
     },
     {
@@ -220,50 +176,6 @@
       "score": 235
     },
     {
-      "aula_id": "bmf1_a2",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Introdução aos Tecidos Humanos",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a2.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a3",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Generalidades do Sistema Esquelético",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a3.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a4",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Conjuntivo — Células e Matriz",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a4.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a5",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Ósseo — Estrutura e Ossificação",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a5.md",
-      "score": 235
-    },
-    {
       "aula_id": "bmf1_a6",
       "materia_id": "bmf1",
       "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
@@ -272,28 +184,6 @@
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
       "material_path": "materiais/modulo1/bmf1/bmf1_a6.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a7",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Generalidades do Sistema Articular",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a7.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a8",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Cartilaginoso",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a8.md",
       "score": 235
     },
     {
@@ -338,28 +228,6 @@
       "flashcards_atuais": 0,
       "flashcards_faltam": 12,
       "material_path": "materiais/modulo1/bmf1/bmf1_a12.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a13",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a13.md",
-      "score": 235
-    },
-    {
-      "aula_id": "bmf1_a14",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tegumento — Tecido Epitelial de Revestimento",
-      "flashcards_atuais": 0,
-      "flashcards_faltam": 12,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a14.md",
       "score": 235
     },
     {
@@ -669,13 +537,145 @@
       "flashcards_faltam": 12,
       "material_path": "materiais/modulo1/pe1/pe1_a6.md",
       "score": 235
+    },
+    {
+      "aula_id": "pe1_a7",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Materiais Educativos e Relatório Extensionista",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo1/pe1/pe1_a7.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a1",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Potencial de Ação Cardíaco e Sistema de Condução",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a1.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a2",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Propriedades do Músculo Cardíaco",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a2.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a3",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Circulação Sistêmica e Pulmonar; Tipos de Vasos",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a3.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a4",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Câmaras, Valvas e Ciclo Cardíaco",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a4.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a5",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Histologia Cardíaca",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a5.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a6",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "ECG e Ciclo Cardíaco",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a6.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a7",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Débito Cardíaco e Lei de Starling",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a7.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a8",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Inervação do Coração e Regulação da Pressão Arterial",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a8.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a9",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Circulação Coronariana, Microcirculação e Linfática",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a9.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a10",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Anatomia da Caixa Torácica e Vias Aéreas",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a10.md",
+      "score": 235
+    },
+    {
+      "aula_id": "bmf2_a11",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Histologia do Sistema Respiratório",
+      "flashcards_atuais": 0,
+      "flashcards_faltam": 12,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a11.md",
+      "score": 235
     }
   ],
   "acoes": [
     {
       "tipo": "info",
       "hora": "03:00",
-      "texto": "270 aulas na fila | 270 sem nenhum flashcard"
+      "texto": "329 aulas na fila | 307 sem nenhum flashcard"
     }
   ]
 }

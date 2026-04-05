@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Dor renal é frequente e a diferença entre cólica renal, inflamação renal e outras causas abdominais se faz na anamnese estruturada + exame renal dirigido. A Uninove cobra o toque costovertebral (TCV), a localização de dor e sinais de sepse renal. Pacientes com infecção urinária alta (pielonefrite) podem evoluir para choque séptico em horas — reconhecer é urgente.
+Dor renal é frequente e a diferença entre cólica renal, inflamação renal e outras causas abdominais se faz na anamnese estruturada + exame renal dirigido. A **Uninove** cobra o toque costovertebral (TCV), a localização de dor e sinais de sepse renal. Pacientes com infecção urinária alta (pielonefrite) podem evoluir para choque séptico em horas — reconhecer é urgente.
 
 
 
@@ -61,20 +61,26 @@ Na urgência, identificar cólica renal vs pielonefrite em horas é crítico por
 
 ---
 
+## Erros Comuns de Prova
+
+- Pular pregunta-chave por "óbvio demais".
+- Confundir sinal de um órgão com manifestação de outro.
+- Não correlacionar sequência temporal dos sintomas.
+
+> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+
 ## Pré-Prova
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **TCV:** percussão sobre ângulo costovertebral; dor = irritação renal.
-- **Cólica renal irradiação:** flanco → inguinal → genitália (não para em abdomen).
-- **Pielonefrite + febre alta:** sepse renal em potencial; antibiótico AGORA.
-- **Disúria:** dor ao urinar; com febre = infecção alta (bexiga geralmente sem febre).
-- **Hematúria:** visível (macroscópica) = nefrolitíase ou trauma; não visível (microscópica) = investigar.
-- **Rim palpável:** anormal; pode ser hidronefrose, neoplasia ou aumento.
-- **Contexto gestante:** sempre assume pielonefrite até prova; risco 10x maior.
-- **Espectro de apresentação:** cólica → inflamação leve → pielonefrite → sepse.
+
+TCV: percussão sobre ângulo costovertebral; dor = irritação renal. Cólica renal irradiação: flanco → inguinal → genitália (não para em abdomen). Pielonefrite + febre alta: sepse renal em potencial; antibiótico AGORA.
+
+Disúria: dor ao urinar; com febre = infecção alta (bexiga geralmente sem febre). Hematúria: visível (macroscópica) = nefrolitíase ou trauma; não visível (microscópica) = investigar. Rim palpável: anormal; pode ser hidronefrose, neoplasia ou aumento.
+
+Contexto gestante: sempre assume pielonefrite até prova; risco 10x maior. Espectro de apresentação: cólica → inflamação leve → pielonefrite → sepse.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -89,54 +95,3 @@ Na urgência, identificar cólica renal vs pielonefrite em horas é crítico por
 ### Frase-âncora para não esquecer
 
 > **"Cólica = agitação + hematúria sem febre. Pielonefrite = febre alta + imobilidade + TCV duro. TCV + febre = sepse em potencial."**
-
-## Conceitos Essenciais
-
-- **Poliúria e oligúria: contexto clínico:** estrutura todo o raciocínio da aula.
-- **Disúria e frequência miccional:** diferencia quadros parecidos em questão objetiva.
-- **Hematúria e perda proteica na percepção do paciente:** orienta segurança clínica e prevenção de erro.
-- **Edema periférico e dispneia associados:** aparece em cenários de conduta prática.
-- **Palpação renal e percussão na região costovertebral:** sustenta justificativa clínica da melhor alternativa.
-
-## Aplicação em Caso Clínico
-
-A semiologia não é memorização de sinais — é raciocínio integrado. No caso real, primeira pergunta orienta as próximas. Paciente com dor abdominal que piora com movimento não é a mesma história de quem tem dor mas anda tranquilo. Essa lógica é o que diferencia resposta mediana de resposta excelente na prova com caso.
-
-## Ponte com a Clínica
-
-Na rotina, a semiologia bem feita reduz erro diagnóstico. Inspetor atento evita ensaios desnecessários. Paciente que confia no examinador oferece informações mais precisas. Essa confiança vem também de comunicação clara sobre por que se pergunta o que se pergunta, especialmente em temas sensíveis como saúde reprodutiva.
-
-## Erros Comuns de Prova
-
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
-
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
-
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Foco anamnese:** características temporais, fatores desencadeantes e contexto.
-- **Foco exame:** simetria, localização precisa, manobras especiais.
-- **sistema renal:** conceito-base para lógica de raciocínio.
-- **manifestação clínica:** diferenciação mais cobrada.
-- **:** aplicação prática.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Anamnese | Exame físico | Anamnese: o que o paciente relata; exame: o que você documenta |
-| Sinal subjetivo | Sinal objetivo | Subjetivo: dor, coceira; objetivo: edema, massa palpável |
-| Achado focal | Achado difuso | Focal localizado em região específica; difuso em múltiplas regiões |
-| Padrão agudo | Padrão crônico | Agudo: horas a dias; crônico: semanas a meses com ou sem variação |
-
-### Frase-âncora para não esquecer
-
-> "Semiologia é pergunta + observação + palpação + integração. Nunca pule uma etapa por óbvio."

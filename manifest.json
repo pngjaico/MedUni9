@@ -4,8 +4,8 @@
   "description": "Plataforma de estudos para estudantes de medicina",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0A1628",
-  "theme_color": "#00B4D8",
+  "background_color": "#181C27",
+  "theme_color": "#181C27",
   "orientation": "portrait",
   "icons": [
     {

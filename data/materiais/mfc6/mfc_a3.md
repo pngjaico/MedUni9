@@ -1,67 +1,73 @@
 # Doenças Respiratórias na APS — IVAS e PAC
 
-**Disciplina:** Medicina de Família e Comunidade  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Disciplina:** Medicina de Família e Comunidade 6  
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Infecções de vias aéreas superiores (IVAS)** e **pneumonia adquirida na comunidade (PAC)** são motivos frequentes de consulta na APS. O desafio é **evitar antibiótico desnecessário** nas IVAS virais (maioria) e **não subtratar** PAC bacteriana de risco. O médico de família domina **critérios clínicos**, **escalas de gravidade** e **educação** para sinais de alarme em casa.
+**Infecções virais agudas das vias aéreas superiores (IVAS)** são autolimitadas; **antibiótico** raramente indicado. **Pneumonia adquirida na comunidade (PAC)** na APS exige **decisão de local de tratamento** (domiciliar vs hospitalar) com **critérios de gravidade** e **encaminhamento** rápido se hipóxia ou instabilidade. Em prova, dominam **centro de Saúde** como hub de **rastreio** (tuberculose, tabagismo), **vacinação** e **educação**.
 
 ---
 
-## IVAS — resfriado comum e faringoamigdalite
+## IVAS — abordagem
 
-### Resfriado (common cold)
+Sintomas: **coriza**, **dor de garganta**, **tosse**. **Duração** <10 dias em adulto sem complicações. **Tratamento sintomático**, **não** amoxicilina de rotina. **Sinusite bacteriana** — critérios rigorosos (tempo, piora dupla, febre, purulência).
 
-Rinorreia, obstrução, dor leve de garganta, tosse. **Autolimitado** (7–10 dias). Tratamento **sintomático**: analgesia, hidratação, salina nasal.
+### Figura sugerida
 
-> **Pegadinha:** **antibiótico** para coriza de 2 dias sem critério de sinusite bacteriana — **não**.
+**Figura-ID:** `MFC6-A03-F01`
 
-### Faringoamigdalite estreptocócica
-
-Suspeita com **Centor/McIsaac** (febre, ausência de tosse, adenopatia, exsudato, idade). **Teste rápido** ou cultura conforme disponibilidade. Tratar **estreptococo** para prevenir complicações supurativas e febre reumática (contexto epidemiológico).
+- **Momento:** após IVAS — anatomia.
+- **O que mostrar:** esquema de **vias aéreas superiores** (faringe, seios, ouvido médio).
+- **Tipo sugerido:** anatomia sagital.
+- **Legenda (rascunho):** IVAS: sítios mais acometidos.
 
 ---
 
 ## PAC na APS
 
-### Diagnóstico
+**Sinais de alarme**: dispneia importante, hipotensão, alteração de consciência, saturação baixa, incapacidade de oralizar. **Internar** ou **observação** conforme protocolo. **Antibiótico** empírico conforme **pneumologia local**.
 
-Febre, tosse produtiva, dor pleurítica, estertores; confirmação radiográfica quando disponível (nem sempre na UBS).
+### Figura sugerida
 
-### Estratificação
+**Figura-ID:** `MFC6-A03-F02`
 
-**CURB-65** para decidir internamento vs domicílio com antibiótico oral.
-
-### Antibiótico
-
-Beta-lactâmico + cobertura atípica ou monoterapia respirquinolona em selecionados — **protocolo local**.
+- **Momento:** após PAC — CURB.
+- **O que mostrar:** tabela **CURB-65** com pontuação visual.
+- **Tipo sugerido:** tabela clínica.
+- **Legenda (rascunho):** CURB-65: estratificação de gravidade na PAC.
 
 ---
 
-## Educação do paciente (retorno precoce)
+## Oximetria e educação
 
-- **Dispneia** em repouso ou saturação < 94% (se tiver oxímetro).  
-- **Confusão** ou hipotensão.  
-- **Hemoptise**.  
-- **Persistência febril** além do esperado.
+**Oxímetro** na UBS ajuda triagem. **Cartilha** do paciente sobre **sinais de alerta** na pneumonia domiciliar.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A03-F03`
+
+- **Momento:** após educação — oxigênio.
+- **O que mostrar:** **uso de oxímetro de pulso** no dedo (demonstração).
+- **Tipo sugerido:** fotografia educativa.
+- **Legenda (rascunho):** Oximetria de pulso na APS.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com “sinusite” de 3 dias e somente congestão **não** preenche critério de sinusite bacteriana na maioria dos casos — **observação** e sintomáticos. Já idoso com comorbidades e PAC leve pode precisar **seguimento** mais próximo mesmo em casa.
+**Tuberculose** — tosse >3 semanas, perda ponderal — **teste rápido** ou **escarro** conforme fluxo local. **COVID-19** — protocolos epidemiológicos variáveis.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- IVAS viral: não antibiótico de rotina.
-- Centor para estrepto; tratar se confirmado.
-- PAC: CURB-65 e antibiótico guiado por protocolo.
-- Sinais de alarme documentados na alta.
+- IVAS: suporte; antibiótico selecionado.
+- PAC: gravidade, oximetria, encaminhamento.
+- TB: rastreio na APS.
+- Vacina influenza e pneumococo.
 
 ---
 
@@ -71,32 +77,45 @@ Paciente com “sinusite” de 3 dias e somente congestão **não** preenche cri
 
 ### O que você PRECISA saber
 
-- **Duração** dos sintomas nas IVAS vs sinusite bacteriana (conceito temporal).
-- **Vacinação** influenza e pneumococo em grupos de risco.
-- **Bronquite** aguda: sem antibiótico na maioria.
-- **Reavaliação** se piora após melhora inicial (pode ser sobreinfecção).
+- **Faringoamigdalite estreptocócica** — Centor/McIsaac.
+- **Bronquiolite** — lavagem nasal, sem broncodilatador rotineiro.
+- **Tabagismo** — cessação em cada consulta.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| IVAS | influenza | Início súbito, mialgia intensa, sazonalidade |
-| PAC | TEP | AngioTC se suspeita |
-| Faringite viral | estrepto | Centor, teste rápido |
-| Sinusite viral | bacteriana | Critérios persistentes/piora dupla |
+| IVAS | sinusite bacteriana | Critérios temporais |
+| PAC | TEP | Probabilidade, D-dímero |
+| Asma exacerbada | PAC | Sibilos, história |
 
 ### Frase-âncora para não esquecer
 
-> “**Resfriado** dura dias; **expectativa** de melhora é **parte do tratamento**.”
-
+> “**Tosse viral** não pede **amoxicilina** por padrão.”
 
 ---
 
-## Aprofundamento — APS e longitudinalidade
+## Aprofundamento — raciocínio clínico
 
-Posicione o tema na **atenção primária**: vínculo, **território**, **equipe** e **coordenação do cuidado**. Pergunte-se em cada tópico: o que pode ser **resolvido na UBS**, o que exige **regulação** e o que precisa de **encaminhamento** com contrarreferência. Inclua **educação em saúde** e **prevenção** quando fizer sentido clínico.
+Integre **e-SUS** — registro de condições respiratórias crônicas.
 
 ### Leitura de reforço
 
-- Cadernos de Atenção Básica do Ministério da Saúde relacionados ao tema
-- Manual de MFC / materiais da SBMFC quando aplicável
+- MS — protocolo de manejo de síndromes respiratórias
+- IDSA — pneumonia comunitária (resumo)
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

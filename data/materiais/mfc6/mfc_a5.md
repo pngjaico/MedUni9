@@ -1,74 +1,73 @@
 # Atendimento Domiciliar
 
-**Disciplina:** Medicina de Família e Comunidade  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Disciplina:** Medicina de Família e Comunidade 6  
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O **atendimento domiciliar** no SUS organiza cuidado a pacientes com **limitação para deslocamento**, **alta complexidade clínica** estável em domicílio ou necessidade de **terminalidade** com suporte. O médico de família frequentemente participa da **indicação**, **planejamento** e **coordenação** com **equipes de suporte** e **cuidados paliativos**. Em prova, cobram-se **critérios de inclusão**, **segurança da equipe**, **documentação** e **integração** com a rede de urgência.
+O **atendimento domiciliar** no SUS organiza-se em **modalidades** (programas hospitalar, geriátrico, paliativo, **Home Care** contratualizado). Objetivos: **desospitalização**, **continuidade** do cuidado, **redução de intercorrências** e **humanização**. Em prova, cobram-se **critérios de elegibilidade**, **equipe multidisciplinar**, **regulação** e **segurança clínica** fora do hospital.
 
 ---
 
-## Indicações (visão geral)
+## Indicações (conceito)
 
-- Pacientes com **dependência funcional** severa e necessidade de cuidados continuados.  
-- **Doenças crônicas** estáveis que dispensam internação mas exigem visitas.  
-- **Cuidados paliativos** em domicílio.  
-- **Pós-óbito** não — mas pré-terminal sim.
+**Estabilização clínica** com necessidade de **tecnologias** (oxigenoterapia, sonda, IV) ou **fragilidade** que impede deslocamento. **Paliativo** com sintomas controláveis em domicílio. **Reabilitação** pós-AVC.
 
-### Contraindicações relativas
+### Figura sugerida
 
-Instabilidade hemodinâmica que necessite monitoramento hospitalar contínuo — **avaliação caso a caso**.
+**Figura-ID:** `MFC6-A05-F01`
 
----
-
-## Componentes do cuidado domiciliar
-
-| Elemento | Conteúdo |
-|----------|-----------|
-| Projeto terapêutico singular | Metas claras com paciente e família |
-| Equipe multiprofissional | Enfermagem, fisioterapia, assistente social |
-| Suporte materiais | Oxigenoterapia, equipamentos, medicamentos |
-| Plano de emergência | O que fazer em piora; quando acionar SAMU |
-
-> **Pegadinha:** domiciliar **não** substitui internação quando há critério de gravidade — é **transição** e **continuidade**, não “custo zero hospital”.
+- **Momento:** após indicações — pirâmide.
+- **O que mostrar:** diagrama de **níveis de complexidade** do home care (baixa, média, alta tecnologia).
+- **Tipo sugerido:** pirâmide assistencial.
+- **Legenda (rascunho):** Home care: níveis de complexidade tecnológica.
 
 ---
 
-## Aspectos legais e éticos
+## Equipe e papel médico
 
-Portarias e programas estaduais/municipais definem **financiamento** e **carga horária**. Consentimento informado e **respeito à autonomia** do paciente e cuidador são centrais.
+Médico, enfermeiro, **fisioterapeuta**, **nutricionista**, assistente social, **técnico/auxiliar**. **Coordenação** com **CAPS** e **UPA** para emergências. **Plano terapêutico singular** em alguns contextos.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A05-F02`
+
+- **Momento:** após equipe — visita.
+- **O que mostrar:** **visita domiciliar** com maleta e oxímetro (ilustração).
+- **Tipo sugerido:** desenho de cena.
+- **Legenda (rascunho):** Visita domiciliar: equipe multiprofissional.
 
 ---
 
-## Integração com paliação
+## Segurança e limites
 
-Pacientes em **fase terminal** com conforto como meta principal beneficiam-se de equipes com **habilidades em sintomas** (dor, dispneia, delirium) e **suporte psicossocial**.
+**Critérios de encaminhamento** à emergência (dor torácica, hipóxia refratária, alteração neurológica aguda). **Cuidador** capacitado — **treinamento** em sondas e oxigenoterapia. **Telemedicina** como apoio.
 
-### Lista de verificação antes de indicar AD
+### Figura sugerida
 
-- Estabilidade clínica compatível com ambiente domiciliar  
-- Cuidador capaz ou rede formal contratada  
-- Oxigenoterapia e via aérea definidas se necessário  
-- Plano escrito de medicações e sinais de piora  
-- Canal claro com UBS e serviço de urgência  
+**Figura-ID:** `MFC6-A05-F03`
+
+- **Momento:** após telemedicina — rede.
+- **O que mostrar:** esquema **paciente domicílio ↔ central de monitoramento**.
+- **Tipo sugerido:** diagrama de teleassistência.
+- **Legenda (rascunho):** Telemonitoramento no atendimento domiciliar.
 
 ---
 
 ## Ponte com a Clínica
 
-Família que pede “internação domiciliar” sem **estrutura** de cuidador 24h nem oxigenoterapia segura exige **replanejamento** com assistente social — senão o plano falha no primeiro dia. O MFC media **expectativa realista**.
+**Desfecho** não é só “economizar leito” — é **qualidade de vida** e **autonomia** quando possível. **Documentação** clara para **jurídico** e **ético** (consentimento, metas).
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Indicações: mobilidade, complexidade, paliação.
-- Equipe e projeto terapêutico são obrigatórios conceitualmente.
-- Critérios de escalação para hospital.
-- SUS: programas locais variam — conceito de integralidade.
+- Indicações e contraindicações relativas.
+- Equipe multiprofissional.
+- Plano de emergência domiciliar.
+- Regulação e financiamento no SUS.
 
 ---
 
@@ -78,23 +77,45 @@ Família que pede “internação domiciliar” sem **estrutura** de cuidador 24
 
 ### O que você PRECISA saber
 
-- **AD** não é “alta precoce” sem suporte — é modelo assistencial específico.
-- **Segurança** da equipe em domicílios de risco (violência, zoonoses).
-- **Telemonitoramento** como tendência (conceito).
-- **Contrarreferência** com hospital quando estabilizar.
+- **ADP** — diferentes siglas estaduais.
+- **Cuidados paliativos** domiciliares — critérios.
+- **Segurança do cuidador** — ergonomia.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| AD | Home care de convênio | Público x privado, mas princípios similares |
-| AD | Internação | Gravidade e recursos |
-| Cuidador informal | equipe | Sobrecarga do cuidador |
-
-### Telefone de emergência no plano
-
-Registre **número da UBS**, **SAMU (192)** e **contato de referência hospitalar** quando o paciente tiver condição que possa descompensar — papel simples que evita busca improvisada em piora.
+| Home care | internação domiciliar | Tecnologia e equipe |
+| APS regular | programa | Financiamento e regulação |
+| Paliativo | reabilitação | Objetivos terapêuticos |
 
 ### Frase-âncora para não esquecer
 
-> “**Domiciliar** é **cuidado em casa**, não **abandono na porta**.”
+> “**Casa** pode ser o **melhor hospital** — quando **seguro** e **planejado**.”
+
+---
+
+## Aprofundamento — raciocínio clínico
+
+Consulte **Portaria** vigente de **Atenção Domiciliar** no site do MS.
+
+### Leitura de reforço
+
+- Política Nacional de Atenção Domiciliar (histórico e atualizações)
+- Manual de home care hospitalar
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

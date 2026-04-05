@@ -1,55 +1,72 @@
 # Nós Manuais
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 35–45 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O **nó cirúrgico** deve ser **firme**, **quadrado** e com **tração simétrica** para não escorregar. Os básicos são **nó de cirurgião** (simples) e **nó de sapateiro** (primeiro nó com dupla volta para maior atrito). Em prova, cobram-se **número de arremates** mínimos (3–6 conformes fio e tensão), técnica **instrumental** com porta-agulhas e **economia de fio**.
+**Nós cirúrgicos** devem ser **seguros**, **estáveis** e com **tensão** adequada — nem fracos nem estrangulando tecido. O **nó simples** é base; **nó cirúrgico** associa **lançamentos** para resistência. Em prova, dominam **instrumental** vs **manual**, **direção** dos lançamentos e **erros** (nó falso, deslizamento).
 
 ---
 
-## Nó de cirurgião
+## Nó cirúrgico — técnica
 
-Passo alternado entre mãos; cada arremate deve formar **meio nó** plano.
+**Primeiro** tempo: **instrumental** ou **manual** com **simetria** de tração. **Segundo** tempo em **direção oposta** para **aperto** uniforme. **Achatamento** do nó — **vários** arremates conforme tensão do tecido.
 
----
+### Figura sugerida
 
-## Nó de sapateiro
+**Figura-ID:** `TCAR6-A06-F01`
 
-Primeira volta dupla para **atrito** — útil em tecidos lisos.
-
-> **Pegadinha:** **aperto excessivo** com fio fino — rompe o fio; **aperto insuficiente** — nó solto.
-
----
-
-## Nó com porta-agulhas
-
-Essencial em espaços profundos — **empurrar** com ponta, não torcer punho do instrumento.
+- **Momento:** após nó — passos.
+- **O que mostrar:** **sequência ilustrada** de **dois lançamentos** do nó cirúrgico (1º e 2º).
+- **Tipo sugerido:** desenho passo a passo.
+- **Legenda (rascunho):** Nó cirúrgico: primeiro e segundo lançamentos.
 
 ---
 
-## Critérios de qualidade
+## Erros comuns
 
-- **Simétrico** — braços de fio iguais após corte.  
-- **Sem espaço** entre laços.  
-- **Corte** a 0,5–1 cm do nó final.
+**Nó falso** — desfaz com tração; **cortar** fio curto demais; **aperto** assimétrico. **Luvas** úmidas dificultam — **secar** levemente.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A06-F02`
+
+- **Momento:** após erros — comparação.
+- **O que mostrar:** **lado a lado** **nó verdadeiro** vs **falso** (diagrama).
+- **Tipo sugerido:** ilustração comparativa.
+- **Legenda (rascunho):** Nó verdadeiro versus nó falso (esquema).
+
+---
+
+## Profundidade e visão
+
+**Profundidade** — **porta-agulhas** com ângulo adequado; **superfície** — **pinça** para eversão de bordas. **Tensão** — **ajuda** do auxiliar.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A06-F03`
+
+- **Momento:** após instrumentalização.
+- **O que mostrar:** **mãos** com **porta-agulhas** e **pinça** em posição de sutura (ilustração).
+- **Legenda (rascunho):** Uso do porta-agulhas: ergonomia e tração.
 
 ---
 
 ## Ponte com a Clínica
 
-Treinar **fora** do centro cirúrgico com **caixa de laparoscopia** ou borracha reduz erro intraoperatório.
+**Treinar** em **caixa de laparoscopia** ou **bandeja** com tecido simulado antes de paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Mínimo de arremates conforme protocolo local.
-- Sapateiro para primeiro nó em certos tecidos.
-- Nó instrumental em laparoscopia — prática específica.
+- Dois lançamentos em planos perpendiculares (conceito).
+- Tensão simétrica.
+- Nó falso vs verdadeiro.
+- Arremates suficientes.
 
 ---
 
@@ -59,51 +76,46 @@ Treinar **fora** do centro cirúrgico com **caixa de laparoscopia** ou borracha 
 
 ### O que você PRECISA saber
 
-- **Sliding knot** em vídeo-cirurgia (conceito).
-- **Direção** do nó — perpendicular à incisão em certas suturas.
-- **Evitar** nó sobre nó torcido (air knots).
+- **Nó de cirurgião** — variação regional do nome.
+- **Ligadura** transfixiante em pedículo grosso.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Nó simples | transfixiante | Segurança em vasos |
-| Mão | instrumental | Profundidade |
-| Granny knot | quadrado | Estabilidade |
+| Nó simples | cirúrgico | Número de arremates |
+| Manual | mecânico | Dispositivo de sutura |
 
 ### Frase-âncora para não esquecer
 
-> “**Nó** é técnica — **força** sem técnica é **ruptura**.”
+> “**Segundo** lançamento **trava** o primeiro.”
 
 ---
 
-## Treino supervisionado
+## Aprofundamento — raciocínio clínico
 
-Pratique **nós** em borracha com resistência variável e depois em **tecido animal** de açougue (com biossegurança doméstica adequada) para sentir **atraito** diferente. Cronometre **10 nós seguidos** buscando simetria — velocidade vem depois da precisão. Em instrumentação, treine **porta-agulhas** com punho neutro para evitar tendinite.
-
-### Avaliação de qualidade do nó
-
-Após amarrar, puxe **cada braço** do fio separadamente com força moderada — se escorregar, refaça antes de cortar.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Prática em **modelo** de borracha ou **pele de porco**.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Vídeos de técnica de nó da ACS/ASE
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+
+- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.
+
+- **Checklist:** antes de avaliar, repita mentalmente os passos em ordem — fluência evita falha sob pressão.

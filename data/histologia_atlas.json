@@ -1,0 +1,871 @@
+{
+  "version": 4,
+  "tipo": "histologia",
+  "updatedAt": "2026-04-05T17:16:54.127Z",
+  "referenciaAsclepio": {
+    "nome": "OpenStax Anatomy & Physiology (capítulos de tecidos)",
+    "url": "https://openstax.org/details/books/anatomy-and-physiology-2e"
+  },
+  "nota": "Este atlas organiza lâminas por sistema e por órgão. As imagens em microscopia serão acrescentadas com fontes abertas; até lá, use os títulos como guia de estudo.",
+  "sistemas": [
+    {
+      "id": "tecidos_fundamentais",
+      "titulo": "Tecidos fundamentais e pele",
+      "ordem": 0,
+      "cor": "#14B8A6",
+      "icone": "muscle",
+      "divisoes": [
+        {
+          "id": "tf_epitelio",
+          "titulo": "Epitélio",
+          "laminas": [
+            {
+              "id": "tf_e1",
+              "titulo": "Epitélio pavimentoso simples",
+              "alt": "Epitélio pavimentoso simples",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "tf_e2",
+              "titulo": "Epitélio cuboidal / colunar",
+              "alt": "Epitélio cuboidal / colunar",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "tf_e3",
+              "titulo": "Epitélio estratificado (esofago, pele)",
+              "alt": "Epitélio estratificado (esofago, pele)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 1
+        },
+        {
+          "id": "tf_conjuntivo",
+          "titulo": "Tecido conjuntivo",
+          "laminas": [
+            {
+              "id": "tf_c1",
+              "titulo": "CT frouxo — tecido celular subcutâneo",
+              "alt": "CT frouxo — tecido celular subcutâneo",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "tf_c2",
+              "titulo": "CT denso regular / irregular",
+              "alt": "CT denso regular / irregular",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "tf_c3",
+              "titulo": "Tecido adiposo branco",
+              "alt": "Tecido adiposo branco",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 1
+        },
+        {
+          "id": "tf_muscular_geral",
+          "titulo": "Panorama muscular (3 tipos)",
+          "laminas": [
+            {
+              "id": "tf_m1",
+              "titulo": "Comparativo esquelético / cardíaco / liso (esquema)",
+              "alt": "Comparativo esquelético / cardíaco / liso (esquema)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 1
+        },
+        {
+          "id": "tf_nervoso",
+          "titulo": "Tecido nervoso",
+          "laminas": [
+            {
+              "id": "tf_n1",
+              "titulo": "Neurônio multipolar + neuroglia",
+              "alt": "Neurônio multipolar + neuroglia",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 1
+        },
+        {
+          "id": "tf_pele",
+          "titulo": "Pele",
+          "laminas": [
+            {
+              "id": "tf_p1",
+              "titulo": "Pele fina — epiderme / derme",
+              "alt": "Pele fina — epiderme / derme",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "tf_p2",
+              "titulo": "Pele espessa — planta / palma",
+              "alt": "Pele espessa — planta / palma",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 1
+        }
+      ]
+    },
+    {
+      "id": "sistema_esqueletico",
+      "titulo": "Sistema esquelético (osso, cartilagem)",
+      "ordem": 1,
+      "cor": "#F59E0B",
+      "icone": "bone",
+      "divisoes": [
+        {
+          "id": "se_tecidos",
+          "titulo": "Panorama: tecidos do aparelho locomotor",
+          "laminas": [
+            {
+              "id": "se_tec_1",
+              "titulo": "Cartilagem hialina — traqueia ou bronquio",
+              "alt": "Cartilagem hialina — traqueia ou bronquio",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "se_tec_2",
+              "titulo": "Cartilagem elástica — epiglote",
+              "alt": "Cartilagem elástica — epiglote",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "se_tec_3",
+              "titulo": "Cartilagem fibrosa — disco intervertebral (anulus)",
+              "alt": "Cartilagem fibrosa — disco intervertebral (anulus)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "se_osso",
+          "titulo": "Osso",
+          "laminas": [
+            {
+              "id": "se_os_1",
+              "titulo": "Osso compacto — sistema haversiano",
+              "alt": "Osso compacto — sistema haversiano",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "se_os_2",
+              "titulo": "Osso esponjoso — trabéculas",
+              "alt": "Osso esponjoso — trabéculas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "se_os_3",
+              "titulo": "Osteoblastos / osteoclastos (metáfise)",
+              "alt": "Osteoblastos / osteoclastos (metáfise)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "se_ossificacao",
+          "titulo": "Ossificação e crescimento",
+          "laminas": [
+            {
+              "id": "se_osi_1",
+              "titulo": "Ossificação intramembranosa",
+              "alt": "Ossificação intramembranosa",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "se_osi_2",
+              "titulo": "Ossificação endocondral — placa epifisária",
+              "alt": "Ossificação endocondral — placa epifisária",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_articular",
+      "titulo": "Sistema articular (cartilagem, sinóvia)",
+      "ordem": 2,
+      "cor": "#EA580C",
+      "icone": "joint",
+      "divisoes": [
+        {
+          "id": "sa_sinovial",
+          "titulo": "Articulação sinovial",
+          "laminas": [
+            {
+              "id": "sa_1",
+              "titulo": "Cartilagem articular hialina",
+              "alt": "Cartilagem articular hialina",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sa_2",
+              "titulo": "Membrana sinovial e prega sinovial",
+              "alt": "Membrana sinovial e prega sinovial",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sa_discos",
+          "titulo": "Discos e meniscos",
+          "laminas": [
+            {
+              "id": "sa_3",
+              "titulo": "Fibrocartilagem — menisco de joelho",
+              "alt": "Fibrocartilagem — menisco de joelho",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_muscular",
+      "titulo": "Sistema muscular (tecido muscular)",
+      "ordem": 3,
+      "cor": "#DC2626",
+      "icone": "muscle",
+      "divisoes": [
+        {
+          "id": "sm_esqueletico",
+          "titulo": "Músculo esquelético",
+          "laminas": [
+            {
+              "id": "sm_1",
+              "titulo": "Fibras esqueléticas — estriadas, multinucleadas",
+              "alt": "Fibras esqueléticas — estriadas, multinucleadas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sm_2",
+              "titulo": "Junções neuromusculares (NMJ)",
+              "alt": "Junções neuromusculares (NMJ)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sm_cardiaco",
+          "titulo": "Músculo cardíaco",
+          "laminas": [
+            {
+              "id": "sm_3",
+              "titulo": "Cardiócitos — discos intercalares, núcleo central",
+              "alt": "Cardiócitos — discos intercalares, núcleo central",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sm_liso",
+          "titulo": "Músculo liso",
+          "laminas": [
+            {
+              "id": "sm_4",
+              "titulo": "Fibras lisas — parede de vaso ou víscera",
+              "alt": "Fibras lisas — parede de vaso ou víscera",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_circulatorio",
+      "titulo": "Sistema circulatório (vasos, sangue, coração)",
+      "ordem": 4,
+      "cor": "#EF4444",
+      "icone": "heart",
+      "divisoes": [
+        {
+          "id": "sc_sangue",
+          "titulo": "Sangue e hematopoiese",
+          "laminas": [
+            {
+              "id": "sc_1",
+              "titulo": "Esfregaço — série eritrocitária e leucocitária",
+              "alt": "Esfregaço — série eritrocitária e leucocitária",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_2",
+              "titulo": "Medula óssea — megacariócito / plaquetas",
+              "alt": "Medula óssea — megacariócito / plaquetas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sc_vasos",
+          "titulo": "Vasos",
+          "laminas": [
+            {
+              "id": "sc_3",
+              "titulo": "Artéria — íntima, média, adventícia",
+              "alt": "Artéria — íntima, média, adventícia",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_4",
+              "titulo": "Véia de grande calibre",
+              "alt": "Véia de grande calibre",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_5",
+              "titulo": "Capilar contínuo / fenestrado",
+              "alt": "Capilar contínuo / fenestrado",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sc_coracao",
+          "titulo": "Coração",
+          "laminas": [
+            {
+              "id": "sc_6",
+              "titulo": "Miocárdio — cardiomiocitos",
+              "alt": "Miocárdio — cardiomiocitos",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_7",
+              "titulo": "Endocárdio / válvula (panorama)",
+              "alt": "Endocárdio / válvula (panorama)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sc_linfoide",
+          "titulo": "Órgãos linfoides (imunidade)",
+          "laminas": [
+            {
+              "id": "sc_8",
+              "titulo": "Linfonodo — zona paracortical e folículos",
+              "alt": "Linfonodo — zona paracortical e folículos",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_9",
+              "titulo": "Baço — polpa branca e polpa vermelha",
+              "alt": "Baço — polpa branca e polpa vermelha",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sc_10",
+              "titulo": "Tonsila palatina — epitélio e folículos",
+              "alt": "Tonsila palatina — epitélio e folículos",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_respiratorio",
+      "titulo": "Sistema respiratório (vias e parênquima)",
+      "ordem": 5,
+      "cor": "#06B6D4",
+      "icone": "lungs",
+      "divisoes": [
+        {
+          "id": "sr_vias",
+          "titulo": "Vias aéreas condutoras",
+          "laminas": [
+            {
+              "id": "sr_1",
+              "titulo": "Epitélio respiratório pseudostratificado — traqueia",
+              "alt": "Epitélio respiratório pseudostratificado — traqueia",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sr_2",
+              "titulo": "Brônquio — placas cartilaginosas",
+              "alt": "Brônquio — placas cartilaginosas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sr_pulmao",
+          "titulo": "Parênquima pulmonar",
+          "laminas": [
+            {
+              "id": "sr_3",
+              "titulo": "Bronquíolo respiratório",
+              "alt": "Bronquíolo respiratório",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sr_4",
+              "titulo": "Alvéolos — barreira hematoalveolar",
+              "alt": "Alvéolos — barreira hematoalveolar",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_digestorio",
+      "titulo": "Sistema digestório (tubo e anexos)",
+      "ordem": 6,
+      "cor": "#059669",
+      "icone": "stomach",
+      "divisoes": [
+        {
+          "id": "sd_esofago_estomago",
+          "titulo": "Esôfago e estômago",
+          "laminas": [
+            {
+              "id": "sd_1",
+              "titulo": "Esôfago — epitélio estratificado / transição",
+              "alt": "Esôfago — epitélio estratificado / transição",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sd_2",
+              "titulo": "Estômago — glândulas fúndicas e pilóricas",
+              "alt": "Estômago — glândulas fúndicas e pilóricas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 3
+        },
+        {
+          "id": "sd_intestino",
+          "titulo": "Intestino delgado e grosso",
+          "laminas": [
+            {
+              "id": "sd_3",
+              "titulo": "Duodeno — vilosidades e criptas",
+              "alt": "Duodeno — vilosidades e criptas",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sd_4",
+              "titulo": "Íleo — placas de Peyer",
+              "alt": "Íleo — placas de Peyer",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sd_5",
+              "titulo": "Cólon — células caliciformes",
+              "alt": "Cólon — células caliciformes",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 3
+        },
+        {
+          "id": "sd_anexos",
+          "titulo": "Fígado, pâncreas exócrino, vesícula",
+          "laminas": [
+            {
+              "id": "sd_6",
+              "titulo": "Fígado — lóbulo clássico",
+              "alt": "Fígado — lóbulo clássico",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sd_7",
+              "titulo": "Pâncreas exócrino — acinos",
+              "alt": "Pâncreas exócrino — acinos",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sd_8",
+              "titulo": "Vesícula biliar — epitélio colunar",
+              "alt": "Vesícula biliar — epitélio colunar",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ],
+          "modulo": 3
+        }
+      ]
+    },
+    {
+      "id": "sistema_urinario",
+      "titulo": "Sistema urinário (rins e vias)",
+      "ordem": 7,
+      "cor": "#3B82F6",
+      "icone": "kidney",
+      "divisoes": [
+        {
+          "id": "su_rim",
+          "titulo": "Rim",
+          "laminas": [
+            {
+              "id": "su_1",
+              "titulo": "Córtex renal — corpúsculos e túbulos",
+              "alt": "Córtex renal — corpúsculos e túbulos",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "su_2",
+              "titulo": "Medula — pirâmides e papila",
+              "alt": "Medula — pirâmides e papila",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "su_3",
+              "titulo": "Néfron — alça de Henle (panorama)",
+              "alt": "Néfron — alça de Henle (panorama)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "su_vias",
+          "titulo": "Vias urinárias",
+          "laminas": [
+            {
+              "id": "su_4",
+              "titulo": "Bexiga — epitélio de transição",
+              "alt": "Bexiga — epitélio de transição",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "su_5",
+              "titulo": "Ureter — parede muscular",
+              "alt": "Ureter — parede muscular",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_genital_masculino",
+      "titulo": "Sistema genital masculino",
+      "ordem": 8,
+      "cor": "#6366F1",
+      "icone": "male",
+      "divisoes": [
+        {
+          "id": "sgm_testiculo",
+          "titulo": "Testículo e espermatogênese",
+          "laminas": [
+            {
+              "id": "sgm_1",
+              "titulo": "Túbulos seminíferos — espermatogênese",
+              "alt": "Túbulos seminíferos — espermatogênese",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sgm_2",
+              "titulo": "Interstício — células de Leydig",
+              "alt": "Interstício — células de Leydig",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sgm_acessorios",
+          "titulo": "Glândulas acessórias",
+          "laminas": [
+            {
+              "id": "sgm_3",
+              "titulo": "Próstata — glândulas e concreções",
+              "alt": "Próstata — glândulas e concreções",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sgm_4",
+              "titulo": "Vesícula seminal",
+              "alt": "Vesícula seminal",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_genital_feminino",
+      "titulo": "Sistema genital feminino",
+      "ordem": 9,
+      "cor": "#EC4899",
+      "icone": "female",
+      "divisoes": [
+        {
+          "id": "sgf_ovario",
+          "titulo": "Ovário",
+          "laminas": [
+            {
+              "id": "sgf_1",
+              "titulo": "Folículo primário / em crescimento",
+              "alt": "Folículo primário / em crescimento",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sgf_2",
+              "titulo": "Corpo lúteo",
+              "alt": "Corpo lúteo",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sgf_uterino",
+          "titulo": "Útero e tubas",
+          "laminas": [
+            {
+              "id": "sgf_3",
+              "titulo": "Endométrio — fase proliferativa / secretora",
+              "alt": "Endométrio — fase proliferativa / secretora",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sgf_4",
+              "titulo": "Tuba uterina — alça",
+              "alt": "Tuba uterina — alça",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_neural",
+      "titulo": "Sistema neural (encéfalo, medula e nervos)",
+      "ordem": 10,
+      "cor": "#8B5CF6",
+      "icone": "brain",
+      "divisoes": [
+        {
+          "id": "sn_neuronio",
+          "titulo": "Neurônio e neuroglia",
+          "laminas": [
+            {
+              "id": "sn_1",
+              "titulo": "Neurônio multipolar — corpos celulares",
+              "alt": "Neurônio multipolar — corpos celulares",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_2",
+              "titulo": "Neuroglia — astrócitos / oligodendrócito",
+              "alt": "Neuroglia — astrócitos / oligodendrócito",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_3",
+              "titulo": "Bainha de mielina: comparação central e periférica",
+              "alt": "Bainha de mielina: comparação central e periférica",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sn_snc",
+          "titulo": "Encéfalo e medula",
+          "laminas": [
+            {
+              "id": "sn_4",
+              "titulo": "Córtex cerebral — laminação",
+              "alt": "Córtex cerebral — laminação",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_5",
+              "titulo": "Cerebelo — camada molecular, Purkinje, granular",
+              "alt": "Cerebelo — camada molecular, Purkinje, granular",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_6",
+              "titulo": "Medula espinal — substância cinzenta",
+              "alt": "Medula espinal — substância cinzenta",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sn_pns",
+          "titulo": "Gânglios",
+          "laminas": [
+            {
+              "id": "sn_7",
+              "titulo": "Gânglio sensitivo (pseudo-unipolar)",
+              "alt": "Gânglio sensitivo (pseudo-unipolar)",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_8",
+              "titulo": "Gânglio autonômico",
+              "alt": "Gânglio autonômico",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        },
+        {
+          "id": "sn_endocrino",
+          "titulo": "Glândulas endócrinas (panorama)",
+          "laminas": [
+            {
+              "id": "sn_9",
+              "titulo": "Tireoide — folículos e coloide",
+              "alt": "Tireoide — folículos e coloide",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            },
+            {
+              "id": "sn_10",
+              "titulo": "Glândula suprarrenal — córtex em zonas e medula",
+              "alt": "Glândula suprarrenal — córtex em zonas e medula",
+              "urlImagem": "",
+              "descricaoNecessaria": "Lâmina em preparação. Sugestão: imagens CC-BY em Wikimedia Commons (categoria histologia) ou figuras OpenStax Anatomy & Physiology.",
+              "pinos": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

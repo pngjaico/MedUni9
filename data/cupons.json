@@ -1,0 +1,28 @@
+{
+  "PROMO-BASICO-10": {
+    "codigo": "PROMO-BASICO-10",
+    "tipo": "promocional",
+    "desconto_percentual": 10,
+    "desconto_fixo": 0,
+    "validade_ate": "2026-06-30",
+    "usos_maximos": 100,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": null,
+    "criadoEm": "2026-03-15T09:00:00Z",
+    "notas": "Promoção geral de 10% (máximo 100 usos)"
+  },
+  "JOAOVI-2026-Y5EW": {
+    "codigo": "JOAOVI-2026-Y5EW",
+    "tipo": "embaixador",
+    "desconto_percentual": 0,
+    "desconto_fixo": 0,
+    "validade_ate": "2027-12-31",
+    "usos_maximos": null,
+    "usos_atuais": 0,
+    "ativo": true,
+    "linkedToAmbassador": "emb_4vpguy5ew",
+    "criadoEm": "2026-04-04T17:44:42.578Z",
+    "notas": "Cupom embaixador de João Vitor Fiches Machado"
+  }
+}

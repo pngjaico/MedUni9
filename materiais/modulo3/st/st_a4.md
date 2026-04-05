@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A Política Nacional de Saúde do Trabalhador e da Trabalhadora (PNSTT, Portaria 1.823/2012) é o marco regulatório da saúde ocupacional no SUS. A Uninove cobra os princípios, as redes de atenção (RENAST), os CEREST e a integração com a atenção básica. É essencial para questões de medicina preventiva e saúde coletiva.
+A Política Nacional de Saúde do Trabalhador e da Trabalhadora (PNSTT, Portaria 1.823/2012) é o marco regulatório da saúde ocupacional no **SUS**. A **Uninove** cobra os princípios, as redes de atenção (RENAST), os CEREST e a integração com a atenção básica. É essencial para questões de medicina preventiva e saúde coletiva.
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ A Política Nacional de Saúde do Trabalhador e da Trabalhadora (PNSTT, Portaria
 
 ## PNSTT — Princípios e Objetivos
 
-A PNSTT tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do SUS para o desenvolvimento da atenção integral à saúde do trabalhador. Princípios:
+A PNSTT tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do **SUS** para o desenvolvimento da atenção integral à saúde do trabalhador. Princípios:
 - **Universalidade:** todo trabalhador, formal ou informal.
 - **Integralidade:** articula promoção, prevenção, assistência e reabilitação.
 - **Equidade:** prioriza populações mais vulneráveis (trabalhadores informais, rurais, domésticos).
@@ -36,7 +36,7 @@ A PNSTT tem como finalidade definir os princípios, as diretrizes e as estratég
 
 ## RENAST — Rede Nacional de Atenção Integral à Saúde do Trabalhador
 
-A RENAST é a estratégia de organização e gestão das ações de saúde do trabalhador no SUS. Integra:
+A RENAST é a estratégia de organização e gestão das ações de saúde do trabalhador no **SUS**. Integra:
 - **CEREST** (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.
 - **Atenção Básica** — porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.
 - **Média e Alta Complexidade** — hospitais e serviços especializados.
@@ -73,13 +73,14 @@ A CAT é obrigatória em todo acidente de trabalho, doença ocupacional ou traje
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **PNSTT:** Portaria 1.823/2012; universal, integral, equitativo.
-- **RENAST:** rede integrando CEREST + UBS + hospitais.
-- **CEREST:** suporte técnico, NÃO é porta de entrada.
-- **ESF:** identifica e notifica agravos ocupacionais.
-- **CAT:** obrigatória em todo acidente, doença ou trajeto.
+
+PNSTT: Portaria 1.823/2012; universal, integral, equitativo. RENAST: rede integrando CEREST + UBS + hospitais.
+
+CEREST: suporte técnico, NÃO é porta de entrada. ESF: identifica e notifica agravos ocupacionais.
+
+CAT: obrigatória em todo acidente, doença ou trajeto.
 
 ### Diferenciações que a Uninove adora cobrar
 

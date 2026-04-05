@@ -1,64 +1,89 @@
 # Neoplasias de Esôfago, Colorretal e Canal Anal
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 55–65 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Carcinoma esofágico** (espinocelular versus adenocarcinoma de Barrett) difere em epidemiologia e tratamento. **Câncer colorretal** é um dos mais rastreáveis (sangue oculto, **colonoscopia**). **Neoplasia de canal anal** associa-se a **HPV**; **quimiorradioterapia** (Nigro) pode preservar esfincter. Em prova, cobram-se **estadiamento**, **margens cirúrgicas** e **cirurgia robótica/laparoscópica** em reto.
+**Carcinoma esofágico** divide-se principalmente em **espinocelular** (tórax superior/médio, fatores tabaco/álcool) e **adenocarcinoma** (junção gastroesofágica, **Barrett**). **Câncer colorretal** é altamente rastreável (**FOBT**, **colonoscopia**). **Neoplasia de canal anal** associa-se a **HPV**; protocolo **Nigro** (**quimiorradioterapia**) pode preservar esfincter. Em prova, dominam **estadiamento TNM**, **margens** cirúrgicas e **cirurgia mínima invasiva** em reto/cólon.
 
 ---
 
-## Esôfago
+## Esôfago — subtipos e apresentação
 
-### EsCC
+**Disphagia progressiva**, perda ponderal, odinofagia. **Esofagite grave** e Barrett são campos de **adenocarcinoma distal**. **Espinocelular** — sintomas precoces às vezes (disfagia), metástases locorregionais.
 
-Álcool, tabaco, **achalásia** longa, **Plummer-Vinson**. Radioterapia + quimio + cirurgia conforme estágio.
+### Tratamento (ideia)
 
-### Adenocarcinoma
+**Ressecção** com neoadjuvância em estádios locais avançados; **quimiorradioterapia** em espinocelular conforme estadiamento. **Paliativo**: stent esofágico, nutrição enteral.
 
-**Barrett**, obesidade, refluxo. **Endoscopia** com **biópsia** em segmentos.
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A14-F01`
+
+- **Momento:** após esôfago — estudo contrastado.
+- **O que mostrar:** **esofagograma** com **lesão estenosante** ou irregularidade mucosa.
+- **Tipo sugerido:** RX com bário ou TC.
+- **Legenda (rascunho):** Carcinoma esofágico: estenose ao estudo contrastado.
 
 ---
 
-## Colorretal
+## Colorretal — rastreio e genética
 
-### Rastreio
-
-Colonoscopia a partir de 45–50 anos (diretrizes variam); história familiar antecipa.
+**Colonoscopia** a cada 10 anos em risco médio (faixas etárias conforme diretriz local). **Síndrome de Lynch** e **FAP** alteram idade e frequência. **Pólipo adenomatoso** é lesão precursora — resecção endoscópica quando seguro.
 
 ### Apresentação
 
-Sangue nas fezes, mudança de hábito, anemia ferropriva, obstrução.
+Sangue oculto, alteração do hábito, anemia ferropriva, obstrução. **Lado direito** pode sangrar silenciosamente; **esquerdo** obstrutivo mais comum.
 
-### Tratamento
+### Figura sugerida
 
-**Colectomia** com linfadenectomia oncológica; **TME** (excisão mesorretal total) para reto médio/baixo — preserva nervos eretores.
+**Figura-ID:** `CIR6-A14-F02`
 
-> **Pegadinha:** **obstrução** no cólon direito pode ser insidiosa (anemia) vs esquerdo (obstrução).
+- **Momento:** após rastreio — lesão endoscópica.
+- **O que mostrar:** **colonoscopia** com **pólipo pedunculado** ou massa (imagem didática).
+- **Tipo sugerido:** endoscopia colorretal.
+- **Legenda (rascunho):** Neoplasia colorretal: lesão polipoide à colonoscopia.
 
 ---
 
-## Canal anal
+## Tratamento colorretal
 
-**Nigro protocol**: **MMC** + **5-FU** + radioterapia — resposta completa em parte dos casos. **HIV** aumenta risco HPV.
+**Cirurgia oncológica** com ressecção de meso e margens; **quimioterapia adjuvante** em estádios III (conceito). **Reto baixo**: **TME** (mesorreto total), **preservação esfincteriana** quando oncologicamente seguro. **Neoadjuvância** em reto médio/baixo localmente avançado.
+
+> **Pegadinha:** **metástase hepática** não significa automaticamente incurável — **ressecável** com quimioterapia de conversão em casos selecionados.
+
+---
+
+## Canal anal — espinocelular e Nigro
+
+Dor, sangramento, massa; **HPV** importante. **Biópsia** confirma. **QRT** (5-FU + mitomicina + radioterapia) primeira linha em muitos casos — preservação funcional.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A14-F03`
+
+- **Momento:** após canal anal — esquema de radioterapia de pelve.
+- **O que mostrar:** diagrama de **campos de irradiação** pélvica para tumor anal (esquema educacional).
+- **Tipo sugerido:** ilustração radioterápica.
+- **Legenda (rascunho):** Tratamento conservador: QRT em carcinoma anal.
 
 ---
 
 ## Ponte com a Clínica
 
-Sangramento retal atribuído a “hemorroida” sem idade <40 anos ou com alarmes — **colonoscopia**. **Câncer de reto** não é tratado como hemorroida.
+Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Disfagia** nova em qualquer idade: investigação endoscópica. Lesão anal ulcerada: **não** trate como hemorroida sem inspeção adequada.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Esôfago: esCC vs adeno — localização e fatores.
-- Reto: TME, margem circunferencial em RM.
-- Anal: Nigro primeiro em muitos casos.
-- Rastreio populacional reduz mortalidade.
+- Esôfago: espinocelular vs adeno — epidemiologia e localização.
+- Colorretal: rastreio; pólipo → adenocarcinoma em sequência.
+- Reto: TME; neoadjuvância em localmente avançado.
+- Canal anal: Nigro + HPV; biópsia antes de hemorroidectomia atrevida.
 
 ---
 
@@ -68,32 +93,29 @@ Sangramento retal atribuído a “hemorroida” sem idade <40 anos ou com alarme
 
 ### O que você PRECISA saber
 
-- **KRAS/NRAS** em metástase colônica — terapia alvo.
-- **MSI-H** — imunoterapia em alguns tumores.
-- **Lynch** — rastreio intensivo familiar.
-- **Estoma** temporário em baixa anterior com alta complicação anastomótica.
+- **Barrett** — vigilância endoscópica conforme protocolo.
+- **CEA** — seguimento pós-tratamento, não diagnóstico inicial.
+- **Metástase hepática** — ressecabilidade em discussão multidisciplinar.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Adenocarcinoma colorretal | diverticulite | Imagem, colonoscopia |
-| Reto | cólon | Distância do margo anal |
-| HPV anal | hemorroida | Biópsia, história |
-| EsCC | adeno | Endoscopia com biópsia |
+| Adeno esofágico | espinocelular | Localização, Barrett, epidemiologia |
+| Hemorroida | CA anal | Inspeção, biópsia |
+| Obstrução esquerda | direita | Padrão sintomático, imagem |
 
 ### Frase-âncora para não esquecer
 
-> “**Anemia ferropriva** no homem = **colonoscopia** — sem atalho.”
-
+> “**Colonoscopia** salva vidas — **anemia** sem causa é **pista**, não acaso.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **cirurgia robótica**, **ostomias temporárias** e **reabilitação** em reto baixo. Consentimento informado deve incluir função esfincteriana e sexual.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Diretrizes de rastreio colorretal
+- Protocolo Nigro e manejo de toxicidades da QRT

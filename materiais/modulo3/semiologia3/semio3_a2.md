@@ -40,7 +40,7 @@ Se a anamnese é o alicerce, o exame físico é a confirmação. A Uninove cobra
 
 ## Exame Físico em Sequência Lógica
 
-Paciente entra deitado no maca. Inspecciona: "abdomen distendido, cicatriz em RLQ de cesariana anterior". Ausculta: "ruídos presentes bilateralmente, diminuídos em FID". Palpa superficial: "defesa em FID, sem rigidez". Palpa profundo: "sem organomegalia, sem massas, sensibilidade em McBurney". Integra: "quadro sugestivo de apendicite — anamnese + defesa FID + McBurney positivo = hipótese principal".
+Paciente entra deitado no maca. Inspecciona: "abdomen distendido, cicatriz em RLQ de cesariana anterior". Ausculta: "ruídos presentes bilateralmente, diminuídos em FID". Palpa superficial: "defesa em FID, sem rigidez". Palpa profundo: "sem organomegalia, sem massas, **sensibilidade** em McBurney". Integra: "quadro sugestivo de apendicite — anamnese + defesa FID + McBurney positivo = hipótese principal".
 
 ## Ponte com a Clínica
 
@@ -59,20 +59,26 @@ No PS, exame rápido e bem estruturado reduz tempo de diagnóstico. Uma manobra 
 
 ---
 
+## Erros Comuns de Prova
+
+- Pular pregunta-chave por "óbvio demais".
+- Confundir sinal de um órgão com manifestação de outro.
+- Não correlacionar sequência temporal dos sintomas.
+
+> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+
 ## Pré-Prova
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Ordem:** inspeciona ANTES de auscultar, ausculta ANTES de palpar — sempre.
-- **Inspeção:** distensão, retração, simetria, cicatrizes, movimentação respiratória.
-- **Ausculta:** sons presentes/ausentes/aumentados? Mínimo 15 segundos por região.
-- **Palpação superficial:** validar defesa vs rigidez; defesa localizada fala mais que difusa.
-- **Palpação profunda:** organomegalia (baço > fígado > rins); massas; sensibilidade exata.
-- **Manobras:** Rovsing, Blumberg, Murphy, McBurney — saber indicação de cada.
-- **Sinal de Rovsing + FID sensível + histórico apendicite:** apendicite confirmada clinicamente.
-- **Rigidez generalizada + febre + anamnese peritoneal:** peritonite generalizada, PS agora.
+
+Ordem: inspeciona ANTES de auscultar, ausculta ANTES de palpar — sempre. Inspeção: distensão, retração, simetria, cicatrizes, movimentação respiratória. Ausculta: sons presentes/ausentes/aumentados? Mínimo 15 segundos por região.
+
+Palpação superficial: validar defesa vs rigidez; defesa localizada fala mais que difusa. Palpação profunda: organomegalia (baço > fígado > rins); massas; sensibilidade exata. Manobras: Rovsing, Blumberg, Murphy, McBurney — saber indicação de cada.
+
+Sinal de Rovsing + FID sensível + histórico apendicite: apendicite confirmada clinicamente. Rigidez generalizada + febre + anamnese peritoneal: peritonite generalizada, PS agora.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -87,54 +93,3 @@ No PS, exame rápido e bem estruturado reduz tempo de diagnóstico. Uma manobra 
 ### Frase-âncora para não esquecer
 
 > **"Inspeção, ausculta, shallow palpate, deep palpate, manobras. Rigidez endurecida = peritonite. Defesa localizada = irritação. Rovsing + McBurney = apendicite clinicamente."**
-
-## Conceitos Essenciais
-
-- **Inspeção e configuração abdominal:** estrutura todo o raciocínio da aula.
-- **Ausculta: padrão de ruídos e silêncio:** diferencia quadros parecidos em questão objetiva.
-- **Percussão: timpanismo, macicez e sensibilidade:** orienta segurança clínica e prevenção de erro.
-- **Palpação: guarda muscular e defesa peritoneal:** aparece em cenários de conduta prática.
-- **Manobras especiais: rebote, Blumberg, Murphy:** sustenta justificativa clínica da melhor alternativa.
-
-## Aplicação em Caso Clínico
-
-A semiologia não é memorização de sinais — é raciocínio integrado. No caso real, primeira pergunta orienta as próximas. Paciente com dor abdominal que piora com movimento não é a mesma história de quem tem dor mas anda tranquilo. Essa lógica é o que diferencia resposta mediana de resposta excelente na prova com caso.
-
-## Ponte com a Clínica
-
-Na rotina, a semiologia bem feita reduz erro diagnóstico. Inspetor atento evita ensaios desnecessários. Paciente que confia no examinador oferece informações mais precisas. Essa confiança vem também de comunicação clara sobre por que se pergunta o que se pergunta, especialmente em temas sensíveis como saúde reprodutiva.
-
-## Erros Comuns de Prova
-
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
-
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
-
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Foco anamnese:** características temporais, fatores desencadeantes e contexto.
-- **Foco exame:** simetria, localização precisa, manobras especiais.
-- **sinal clínico:** conceito-base para lógica de raciocínio.
-- **mecanismo fisiopatológico:** diferenciação mais cobrada.
-- **:** aplicação prática.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Anamnese | Exame físico | Anamnese: o que o paciente relata; exame: o que você documenta |
-| Sinal subjetivo | Sinal objetivo | Subjetivo: dor, coceira; objetivo: edema, massa palpável |
-| Achado focal | Achado difuso | Focal localizado em região específica; difuso em múltiplas regiões |
-| Padrão agudo | Padrão crônico | Agudo: horas a dias; crônico: semanas a meses com ou sem variação |
-
-### Frase-âncora para não esquecer
-
-> "Semiologia é pergunta + observação + palpação + integração. Nunca pule uma etapa por óbvio."

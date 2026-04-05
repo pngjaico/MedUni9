@@ -89,14 +89,14 @@ A síndrome metabólica (SM) é um conjunto de fatores que aumentam risco cardio
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **HAS + hipocalemia = aldosteronismo primário.**
-- **HAS em crises = feocromocitoma.**
-- **SM: 3 de 5 critérios** (cintura, TG, HDL, PA, glicemia).
-- **Hipotireoidismo:** TSH alto + T4 baixo; causa = Hashimoto.
-- **Hipertireoidismo:** TSH baixo + T4 alto; causa = Graves.
-- **MEN1 = 3P** (hipófise + para + pâncreas).
+
+HAS + hipocalemia = aldosteronismo primário. HAS em crises = feocromocitoma.
+
+SM: 3 de 5 critérios (cintura, TG, HDL, PA, glicemia). Hipotireoidismo: TSH alto + T4 baixo; causa = Hashimoto.
+
+Hipertireoidismo: TSH baixo + T4 alto; causa = Graves. MEN1 = 3P (hipófise + para + pâncreas).
 
 ### Diferenciações que a Uninove adora cobrar
 

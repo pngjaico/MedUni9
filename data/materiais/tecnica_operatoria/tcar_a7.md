@@ -1,54 +1,73 @@
 # Suturas Interrompidas
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Sutura interrompida** (ponto a ponto) é a técnica mais segura quando **tensão** é desigual ou **contaminação** preocupa — cada ponto é independente. Variantes: **ponto simples**, **Donati** (vertical/horizontal mattress), **em X**, **em U**. Em prova, cobram-se **indicações** (pele tensa, mucosa), **distância** entre pontos e **profundidade** igual em ambos os lados.
+A **sutura interrompida** (pontos separados) oferece **segurança** por ponto e **facilita** remoção parcial se complicação. Cada ponto é **independente**. Em prova, dominam **indicações** (pele, **tração** variável), **espaçamento** e **comparação** com **contínua** e **em máquina**.
 
 ---
 
-## Ponto simples
+## Técnica
 
-Entrada e saída simétricas; **nó** sobre um lado da ferida.
+**Entrada** e **saída** simétricas; **profundidade** igual em ambos os lados; **nó** após cada ponto. **Eversão** de bordas na pele com **auxílio** de pinça.
 
----
+### Figura sugerida
 
-## Donati (mattress)
+**Figura-ID:** `TCAR6-A07-F01`
 
-Aproxima bordas com menos pontos; risco de **necrose** da pele se apertado demais.
-
-> **Pegadinha:** **mattress** pode eversar bordas — útil em pele, cuidado em planos profundos.
-
----
-
-## Pontos em X e U
-
-Maior área de contato — **hemástase** leve adicional em leito cru.
+- **Momento:** após técnica — esquema.
+- **O que mostrar:** **diagrama** de **pontos interrompidos** em linha com **espaçamento** uniforme.
+- **Tipo sugerido:** ilustração didática.
+- **Legenda (rascunho):** Sutura interrompida: espaçamento e profundidade.
 
 ---
 
 ## Indicações
 
-- **Interrompida** quando falha de um ponto não compromete toda a linha.  
-- **Contínua** mais rápida em planos profundos estéreis — mas um defeito exige refazer segmento.
+**Pele** de **tensão variável**, áreas com **risco infeccioso** (ponto infectado pode ser retirado isoladamente), **ensino** — **feedback** por ponto.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A07-F02`
+
+- **Momento:** após pele — comparativo.
+- **O que mostrar:** **foto** comparando **interrompida** vs **contínua** em modelo (lado a lado).
+- **Tipo sugerido:** modelo de treinamento.
+- **Legenda (rascunho):** Comparativo: sutura interrompida e contínua.
+
+---
+
+## Desvantagens
+
+**Tempo** maior que **contínua** em incisões longas; **múltiplos** nós — mais **material** residual se não aparar bem.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A07-F03`
+
+- **Momento:** após remoção.
+- **O que mostrar:** **instrumental** para **remoção de pontos** (tesoura, pinça).
+- **Tipo sugerido:** foto de mesa.
+- **Legenda (rascunho):** Remoção de pontos de sutura cutânea.
 
 ---
 
 ## Ponte com a Clínica
 
-Ferida contaminada — **lavagem**, **drenagem**, **pontos soltos** ou **secundária** — não forçar fechamento primário sem critério.
+**Criança** — pontos rápidos e seguros; **contagem** de pontos na documentação.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Interrompida = segurança em tensão variável.
-- Mattress e eversão de bordas.
-- Espaçamento ~0,5–1 cm conforme local e fio.
+- Interrompida: nós independentes.
+- Espaçamento e tensão uniformes.
+- Indicação: controle local de complicação.
+- Remoção conforme tempo do tecido.
 
 ---
 
@@ -58,42 +77,45 @@ Ferida contaminada — **lavagem**, **drenagem**, **pontos soltos** ou **secund�
 
 ### O que você PRECISA saber
 
-- **Ponto em U** — gengiva, algumas mucosas.
-- **Alinhamento** das camadas — evitar “degraus”.
-- **Remoção de pontos** facial 5–7 dias (orientação típica).
+- **Colcho** — variação interrompida em “U”.
+- **Ponto em X** — cantos.
+- **Tempo** de remoção facial vs corpo.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Interrompida | contínua | Falha localizada |
-| Simples | mattress | Eversão, tensão |
-| Primária | secundária | Contaminação |
+| Interrompida | contínua | Nós, tempo, infecção |
+| Ponto simples | em colcho | Aparência |
 
 ### Frase-âncora para não esquecer
 
-> “**Um ponto ruim** não derruba a linha inteira — vantagem da **interrompida**.”
+> “**Cada ponto** é um **seguro** — útil quando o risco é local.”
 
 ---
 
-## Quando preferir interrompida na prática inicial
+## Aprofundamento — raciocínio clínico
 
-- Feridas com **risco infeccioso** intermediário — um ponto inflamado pode ser retirado sem perder todo o fechamento.  
-- **Bordas** irregulares onde a tensão varia ao longo da incisão.  
-- **Ensino** — o preceptor corrige ponto a ponto.
-
-### Alinhamento de bordas
-
-Antes de penetrar a pele, visualize **plano** e use **pinça de pele** ou **gancho** para everter levemente bordas; sutura oblíqua atravessa **derme** simétrico dos dois lados evitando “degrau”.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Praticar **tempo** de **6–8** pontos em incisão linear simulada.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+- Manual de técnicas de sutura — SBCC
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+
+- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.

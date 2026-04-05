@@ -1,46 +1,73 @@
 # O Ambiente Cirúrgico
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 35–45 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O centro cirúrgico divide-se em **áreas** com gradação de limpeza: **sala cirúrgica** (zona estéril), **circulante** (zona limpa) e **suporte**. Fluxo unidirecional de pessoas e materiais reduz contaminação. Em prova, cobram-se **paramentação** (gorro, máscara, luvas duplas em alguns casos), **escovação antisséptica** das mãos e posição da **mesa** em relação à **luz** e **anestesia**.
+O **centro cirúrgico** organiza **fluxos** de pessoas e materiais para minimizar **contaminação**. **Salas** limpas, **circulação** unidirecional, **pressurização** e **filtros HEPA** em cenários de alta exigência. Em prova, dominam **zonas** (limpa, suja), **vestimenta** e **comportamento** (falar, movimentação).
 
 ---
 
-## Zonas
+## Zonas e fluxo
 
-| Zona | Quem entra | Roupa |
-|------|------------|-------|
-| Não limpa | Acompanhantes | Rua |
-| Limite | Equipe com uniforme | Scrubs |
-| Sala cirúrgica | Equipe paramentada | Vestimenta estéril |
+**Área restrita** — mesa, instrumentador. **Área semirrestrita** — circulante. **Área suja** — recebimento. **Fluxo** paciente: **entrada** → sala → **recuperação**.
 
-> **Pegadinha:** **circulante** toca material não estéril; **instrumentador** só campo estéril — não cruzar funções sem regra clara.
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A02-F01`
+
+- **Momento:** após zonas — planta baixa.
+- **O que mostrar:** **planta baixa** de centro cirúrgico com **fluxo** de pessoal e material (setas).
+- **Tipo sugerido:** planta arquitetônica esquemática.
+- **Legenda (rascunho):** Centro cirúrgico: fluxo unidirecional de materiais.
 
 ---
 
-## Fluxo de ar e limpeza terminal
+## Ar e partículas
 
-Salas com **pressão positiva** (conceito); **limpeza** entre casos segue protocolo (detergente → desinfetante).
+**Trocas de ar** por hora; **umidade** e **temperatura** controladas. **Contagem de partículas** em salas de implante (conceito).
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A02-F02`
+
+- **Momento:** após ar — HEPA.
+- **O que mostrar:** esquema de **fluxo laminar** em sala de implante.
+- **Tipo sugerido:** diagrama de arquitetura de ar.
+- **Legenda (rascunho):** Fluxo laminar: redução de partículas no campo.
+
+---
+
+## Comportamento na sala
+
+**Mínima** conversa; **portas** fechadas; **entrada** reduzida de pessoas durante procedimento. **Cap**, **máscara**, **roupa** adequada.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A02-F03`
+
+- **Momento:** após EPI — equipe.
+- **O que mostrar:** **foto** de **equipe** com **vestimenta completa** (galo, máscara, óculos).
+- **Tipo sugerido:** ilustração educacional.
+- **Legenda (rascunho):** Vestimenta e EPI no centro cirúrgico.
 
 ---
 
 ## Ponte com a Clínica
 
-Conversa na sala com máscara abaixada durante procedimento aberto — erro de básico que aumenta contaminação respiratória.
+**Obesidade** e **diabetes** aumentam risco infeccioso — **ambiente** não compensa técnica inadequada.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Unidirecionalidade de fluxo.
-- Paramentação completa antes de entrar em campo.
-- Circulante vs instrumentador.
-- Portas fechadas durante cirurgia.
+- Zonas limpas/sujas.
+- Fluxo unidirecional.
+- Comportamento reduz contaminação.
+- Implantes: requisitos de sala.
 
 ---
 
@@ -50,54 +77,45 @@ Conversa na sala com máscara abaixada durante procedimento aberto — erro de b
 
 ### O que você PRECISA saber
 
-- **Conferência** de materiais e contagem de compressas (prevenção de corpo estranho).
-- **Marcação** do sítio cirúrgico com paciente acordado quando aplicável.
-- **Time-out** WHO — identidade, procedimento, lateralidade.
+- **RBAC** — rastreabilidade de materiais.
+- **Limpeza terminal** entre casos.
+- **Contagem de instrumentos** — checklist.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Limpo | estéril | Nível microbiológico |
-| Escovação | higiene social | Tempo e área |
-| Mesa anestésica | cirúrgica | Zona de circulação |
+| Sala limpa | suja | Função e vestimenta |
+| Assepsia | antissepsia | Objetos vs pele |
+| Implante eletivo | urgência | Preparo do ambiente |
 
 ### Frase-âncora para não esquecer
 
-> “**Sala cirúrgica** não é corredor de hospital — **fluxo** e **silêncio útil**.”
+> “**Porta aberta** = **partículas** — controle o fluxo.”
 
 ---
 
-## Checklist mental ao entrar na sala
+## Aprofundamento — raciocínio clínico
 
-1. Identifique **onde** ficam o lixo infectante, o instrumental sujo e o material estéril — deslocamento errado gera contaminação silenciosa.  
-2. Confirme se a **luminária** está posicionada antes de lavar as mãos com solução antisséptica — economiza tempo e evita retoque com luvas já calçadas.  
-3. Pergunte ao circulante onde estão **compressas** extras e **fios** de reserva **antes** da incisão — interrupções no meio do ato aumentam risco.  
-4. Mantenha conversa técnica **curta** e objetiva; ruído excessivo dispersa atenção da equipe.
-
-### Integração com biossegurança
-
-Máscara e gorro protegem **paciente e equipe**; não são adorno. Em procedimentos com aerossol, siga protocolo institucional para **proteção respiratória** — regra evolui com pandemias e cirurgias de vias aéreas.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Normas **NR-32** e biossegurança no trabalho em saúde.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Manual de centros cirúrgicos — ABRASCIR
+- ANVISA — boas práticas
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

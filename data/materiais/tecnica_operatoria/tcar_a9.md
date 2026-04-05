@@ -1,50 +1,73 @@
 # Anestesia Local, Drenagem de Abscessos e Exérese em Fuso
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Anestesia local** com **lidocaína** ou **bupivacaína** requer dose máxima segura, **aspiração** pré-injeção para evitar intravascular e **bufferização** com bicarbonato para reduzir dor na injeção. **Drenagem de abscesso** segue **incisão**, **loculação** digital, **irrigação** e **curativo** com iodo ou espuma conforme protocolo — às vezes **dreno em penrose**. **Exérese em fuso** remove lesões cutâneas com margens orientadas por histopatologia. Em prova, cobram-se **técnica em leque** e **margens** em neoplasias.
+Procedimentos **ambulatoriais** na APS e ambulatório de cirurgia: **anestesia local** com **lidocaína** (ou **bupivacaína** em blocos), **drenagem** de **abscesso** superficial com **cultura** e **curativo**, e **exérese em fuso** de **lesões** cutâneas pequenas com **margens**. Em prova, dominam **dose máxima** de anestésico, **técnica** sem **injeção** intravascular e **cuidados** com **hemostasia** em exérese.
 
 ---
 
 ## Anestesia local
 
-| Fármaco | Dose máxima orientativa (adulto) | Notas |
-|---------|----------------------------------|-------|
-| Lidocaína 2% sem vasoconstrictor | ~7 mg/kg | Aspirar antes |
-| Com epinefrina | Maior volume permitido | Cuidado em extremidades |
+**Aspiração** antes de injetar em **áreas** de vasos; **dose** de lidocaína sem epinefrina **~4–5 mg/kg** (ver bula atualizada); **com epinefrina** em áreas com vascularização adequada — **não** em extremidades terminais em certos protocolos.
 
-> **Pegadinha:** **metemoglobinemia** com **prilocaína** em altas doses — raro em lidocaína.
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A09-F01`
+
+- **Momento:** após anestesia — campo.
+- **O que mostrar:** **diagrama** de **injeção** em **tentos** subcutâneos ao redor da lesão.
+- **Tipo sugerido:** ilustração de técnica.
+- **Legenda (rascunho):** Anestesia local: infiltração perilesional.
 
 ---
 
 ## Drenagem de abscesso
 
-Marcação da **flutuação**; incisão paralelo às linhas de tensão quando possível; **cultura** do material; **antibiótico** sistêmico se celulite extensa ou imunossupressão.
+**Incisão** e **locomoção** da cavidade para **quebrar** septos; **drenagem** de **pus**; **cultura**; **cureta** suave; **paco** ou **dreno penrose** em **abscessos** grandes (conforme caso); **antibiótico** sistêmico se **celulite** ou **sistêmico**.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A09-F02`
+
+- **Momento:** após abscesso — corte.
+- **O que mostrar:** **desenho** de **incisão** e **drenagem** de **abscesso** subcutâneo (esquema em corte).
+- **Tipo sugerido:** ilustração médica.
+- **Legenda (rascunho):** Abscesso: incisão e drenagem (esquema).
 
 ---
 
 ## Exérese em fuso
 
-Desenho elíptico com **eixos** que permitam fechamento sem tensão excessiva; **profundidade** até tecido saudável; **marcadores** de orientação para patologia.
+**Desenhar** **elipse** ao redor da lesão com **margens** adequadas; **incisão** **perpendicular**; **hemostasia**; **sutura** em **camadas** se profundo; **orientação** da linha de **tensão** mínima (Langer).
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A09-F03`
+
+- **Momento:** após exérese — elipse.
+- **O que mostrar:** **diagrama** de **planejamento** de **elipse** e **vetores** de fechamento.
+- **Tipo sugerido:** desenho dermatológico.
+- **Legenda (rascunho):** Exérese em fuso: planejamento da elipse.
 
 ---
 
 ## Ponte com a Clínica
 
-Abscesso pequeno sem flutuação clara — **USG** guia punção; **não** cortar celulite difusa “para drenar” sem coleção.
+**Biópsia** de **melanoma** suspeito — **não** exérese em fuso largo sem planejamento oncológico; **punch** ou **excisional** conforme protocolo.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Aspiração em anestesia local.
-- Margens em exérese de lesão suspeita — orientação histopatológica.
-- Penrose vs dreno fechado — indicações distintas.
+- Aspiração antes de injetar anestésico.
+- Limites de dose de local.
+- Abscesso: drenagem + cultura; antibiótico se indicado.
+- Exérese: margens e orientação de cicatriz.
 
 ---
 
@@ -54,51 +77,45 @@ Abscesso pequeno sem flutuação clara — **USG** guia punção; **não** corta
 
 ### O que você PRECISA saber
 
-- **Bloqueio de nervo** regional vs infiltração local.
-- **Técnica em leque** — campo anestésico triangular.
-- **Sutura** após drenagem de abscesso — às vezes deixar aberto (packing) conforme tamanho.
+- **Metemoglobinemia** — prilocaina (raro contexto).
+- **Abscesso** perianal — avaliar fístula.
+- **Sutura** estéril vs **deixar aberto** em certas infecções.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Abscesso | celulite | Flutuação, USG |
-| Exérese | biópsia incisional | Diagnóstico vs cura |
-| Lidocaína | bupivacaína | Duração, cardiotoxicidade |
+| Abscesso | celulite | Flutuação, imagem |
+| Bloqueio de nervo | infiltração | Campo anestésico |
+| Margem cirúrgica | margem dermatológica | Patologia |
 
 ### Frase-âncora para não esquecer
 
-> “**Abscesso** precisa de **cavidade** — não corte **dor** sem **pus**.”
+> “**Pus** precisa **sair** — **antibiótico** sozinho **não** esvazia bolsa.”
 
 ---
 
-## Anestesia local — segurança
+## Aprofundamento — raciocínio clínico
 
-Calcule **dose total** antes de começar, especialmente em **grandes áreas** de infiltração. Em pacientes com **insuficiência hepática** severa, revise metabolismo de amidas; em **gestantes**, prefira planejamento com obstetra para procedimentos eletivos. **Epinefrina** em digital pode ser controversa — siga protocolo da instituição (não é “proibida” universalmente, mas exige critério).
-
-### Após drenagem
-
-Curativo **compressivo** não oclusivo demais para não causar isquemia; **analgesia** multimodal e **antibiótico** apenas se indicação sistêmica — drenagem não substitui critério clínico.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Protocolos de **minor surgery** em ambulatório.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Manual de procedimentos ambulatoriais — SBD
+- Técnica de anestesia local — livro de Small Surgery
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

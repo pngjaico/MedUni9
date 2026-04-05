@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A anamnese ginecológica é frequentemente incompleta na prática porque alunos têm pressa ou constrangimento — mas a Uninove cobra especificamente ciclo menstrual, contracepção, corrimento e mastalgia. Dismenorreia primária vs secundária, por exemplo, é diferença entre transtorno hormonal vs endometriose — tratamentos opostos. Ciclo menstrual bem documentado previne diagnósticos errados; falta informação da contracepção piora avaliação de risco.
+A anamnese ginecológica é frequentemente incompleta na prática porque alunos têm pressa ou constrangimento — mas a **Uninove** cobra especificamente ciclo menstrual, contracepção, corrimento e mastalgia. Dismenorreia primária vs secundária, por exemplo, é diferença entre transtorno hormonal vs endometriose — tratamentos opostos. Ciclo menstrual bem documentado previne diagnósticos errados; falta informação da contracepção piora avaliação de risco.
 
 
 
@@ -61,20 +61,26 @@ Anamnese bem feita reduz tempo de diagnóstico pélvico. Corrimento + arde = inf
 
 ---
 
+## Erros Comuns de Prova
+
+- Pular pregunta-chave por "óbvio demais".
+- Confundir sinal de um órgão com manifestação de outro.
+- Não correlacionar sequência temporal dos sintomas.
+
+> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+
 ## Pré-Prova
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Ciclo menstrual:** regularidade (dias), duração (dias), fluxo (leve/normal/intenso).
-- **Dismenorreia:** sempre doeu (primária) ou começou depois (secundária)?
-- **Corrimento:** cor, consistência, odor, coceira; fisiológico vs patológico.
-- **Contracepção:** método, tempo de uso, efetividade, proteção IST.
-- **Mastalgia:** cíclica (ciclo-relacionada) vs não-cíclica (independente).
-- **Nódulo mamário:** sempre investigar; + secreção = preocupação oncológica.
-- **Sangramento anormal:** fora ciclo menstrual = investigar causa.
-- **IST em anamnese:** HPV, gonorreia, clamídia, vírus herpes → risco para CA cérvix.
+
+Ciclo menstrual: regularidade (dias), duração (dias), fluxo (leve/normal/intenso). Dismenorreia: sempre doeu (primária) ou começou depois (secundária)? Corrimento: cor, consistência, odor, coceira; fisiológico vs patológico.
+
+Contracepção: método, tempo de uso, efetividade, proteção IST. Mastalgia: cíclica (ciclo-relacionada) vs não-cíclica (independente). Nódulo mamário: sempre investigar; + secreção = preocupação oncológica.
+
+Sangramento anormal: fora ciclo menstrual = investigar causa. IST em anamnese: HPV, gonorreia, clamídia, vírus herpes → risco para CA cérvix.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -89,46 +95,3 @@ Anamnese bem feita reduz tempo de diagnóstico pélvico. Corrimento + arde = inf
 ### Frase-âncora para não esquecer
 
 > **"Dismenorreia primária = sempre doeu = hormonal. Secundária = começou doer = endometrio/mioma. Corrimento branco grumoso + coceira = candidíase. Acinzentado + odor peixe = vaginose. Nódulo mama + secreção = oncologia."**
-
-## Aplicação em Caso Clínico
-
-A semiologia não é memorização de sinais — é raciocínio integrado. No caso real, primeira pergunta orienta as próximas. Paciente com dor abdominal que piora com movimento não é a mesma história de quem tem dor mas anda tranquilo. Essa lógica é o que diferencia resposta mediana de resposta excelente na prova com caso.
-
-## Ponte com a Clínica
-
-Na rotina, a semiologia bem feita reduz erro diagnóstico. Inspetor atento evita ensaios desnecessários. Paciente que confia no examinador oferece informações mais precisas. Essa confiança vem também de comunicação clara sobre por que se pergunta o que se pergunta, especialmente em temas sensíveis como saúde reprodutiva.
-
-## Erros Comuns de Prova
-
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
-
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
-
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Foco anamnese:** características temporais, fatores desencadeantes e contexto.
-- **Foco exame:** simetria, localização precisa, manobras especiais.
-- **ritmo menstrual:** conceito-base para lógica de raciocínio.
-- **alteração localizada:** diferenciação mais cobrada.
-- **:** aplicação prática.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Anamnese | Exame físico | Anamnese: o que o paciente relata; exame: o que você documenta |
-| Sinal subjetivo | Sinal objetivo | Subjetivo: dor, coceira; objetivo: edema, massa palpável |
-| Achado focal | Achado difuso | Focal localizado em região específica; difuso em múltiplas regiões |
-| Padrão agudo | Padrão crônico | Agudo: horas a dias; crônico: semanas a meses com ou sem variação |
-
-### Frase-âncora para não esquecer
-
-> "Semiologia é pergunta + observação + palpação + integração. Nunca pule uma etapa por óbvio."

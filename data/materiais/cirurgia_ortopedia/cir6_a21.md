@@ -1,31 +1,42 @@
 # Infecções Osteoarticulares
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 50–60 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Artrite séptica** é emergência — destruição cartilaginosa em horas. **Osteomielite** é infecção óssea (hematogênica, contígua, por exposição). **S.aureus** é patógeno clássico; **gônococo** em adulto jovem sexualmente ativo. Em prova, cobram-se **punção articular** urgente, **antibiótico empírico** após hemoculturas e **desbridamento** cirúrgico em certas articulações (quadril).
+**Artrite séptica** é emergência — destruição cartilaginosa em horas a dias. **Osteomielite** pode ser **hematogênica**, **contígua** (úlcera, cirurgia) ou **por exposição** (fratura aberta). Patógenos: **S. aureus** predominante; **gônococo** em adulto jovem sexualmente ativo; **Kingella** em crianças pequenas. Em prova, dominam **punção articular** urgente, **antibiótico empírico** após hemoculturas e **desbridamento** cirúrgico quando indicado (quadril, falha de resposta).
 
 ---
 
 ## Artrite séptica
 
-### Quadro
+### Apresentação
 
-Febre, dor intensa, limitação absoluta de movimento. **Leucocitose**, PCR elevada.
+Febre, dor intensa, **limitação** de movimento. **Quadril** em criança — **membro encurtado/abduzido externamente**. Laboratório: **leucocitose**, **PCR** elevada, **VHS**.
 
 ### Diagnóstico
 
-**Punção** com análise de líquido — WBC altíssimo, cultura. **Hemoculturas** antes do antibiótico.
+**Punção articular** com análise (células, cristais, Gram, cultura). **Não** atrase imagem se acesso difícil — **USG** para guiar punção.
 
-### Tratamento
+### Figura sugerida
 
-Antibiótico IV empírico (vancomicina + cefalosporina conforme local); **drenagem** se quadril/ombro ou abscesso.
+**Figura-ID:** `CIR6-A21-F01`
 
-> **Pegadinha:** **criança** com pseudoparésia de membro — artrite séptica do quadril até provar contrário.
+- **Momento:** após artrite séptica — punção.
+- **O que mostrar:** **USG** com **derrame articular** e agulha (punção guiada).
+- **Tipo sugerido:** ultrassom musculoesquelético.
+- **Legenda (rascunho):** Derrame articular: abordagem por punção guiada.
+
+---
+
+## Tratamento
+
+**Antibiótico** empírico (vancomicina + cefalosporina de terceira geração conforme protocolo até cultura). **Desbridamento** artroscópico ou aberto em **septic arthritis** de quadril ou ombro com coleções espessas, ou se não há melhora clínica.
+
+> **Pegadinha:** **cristal** (gota) pode coexistir com infecção — **não** trate apenas como gota se febre e leucocitose articular altos.
 
 ---
 
@@ -33,36 +44,46 @@ Antibiótico IV empírico (vancomicina + cefalosporina conforme local); **drenag
 
 ### Hematogênica
 
-Criança: metáfise longos. Adulto: vértebras (usuário de drogas IV).
+Dor localizada, febre; **radiografia** tardia (10–14 dias); **RM** precoce (edema medular). Tratamento prolongado com antibiótico conforme cultura e desbridamento se abscesso subperiosteal.
 
-### Contígua
+### Figura sugerida
 
-Pós-cirúrgica ou úlcera por pressão — **polimicrobiana**.
+**Figura-ID:** `CIR6-A21-F02`
 
-### Diagnóstico
-
-RM com contraste, biópsia se crônica. **TC** com sequestro em cronicidade.
+- **Momento:** após osteomielite — RM.
+- **O que mostrar:** **RM** mostrando **edema da medula** e possível coleção (osteomielite).
+- **Tipo sugerido:** RM T2/STIR de fêmur ou tíbia.
+- **Legenda (rascunho):** Osteomielite: sinal de edema medular à RM.
 
 ---
 
-## Tratamento
+## Contígua e por exposição
 
-Antibiótico prolongado (semanas a meses conforme protocolo); **desbridamento** ósseo em crônica com sequestro.
+**Pé diabético** com osteomielite associado a **úlcera** — **probe-to-bone** clínico + **RM**. **Fratura exposta** — osteomielite por contaminação; desbridamento e cobertura.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A21-F03`
+
+- **Momento:** após pé diabético — osteomielite.
+- **O que mostrar:** **radiografia** do pé com **destruição óssea** periarticular ou **RM** de pé diabético.
+- **Tipo sugerido:** RX ou RM.
+- **Legenda (rascunho):** Osteomielite do pé: complicação de úlcera neuropática.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com **úlcera diabética** e osso exposto — osteomielite **contígua** — desbridamento + antibiótico guiado por cultura, não só curativo.
+**Criança febril** que não suporta peso no membro inferior — **artrite séptica** até provar outra coisa. **Adulto jovem** com monoartrite aguda e fatores de risco sexual — **cobrir gonococo**. **Imunossuprimido**: **Pseudomonas** e outros gram-negativos na lista empírica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Punção antes de antibiótico se possível — exceto se choque.
-- Quadril séptico = cirurgia cedo.
-- Tuberculose óssea — diagnóstico epidemiológico.
-- Profilaxe em artroplastia — cefalosporina perioperatória.
+- Artrite séptica: punção urgente; não esperar RX para tratar.
+- Quadril em criança: cirurgia mais agressiva que joelho em muitos protocolos.
+- Osteomielite: RM sensível; tratamento prolongado.
+- Pé diabético: desbridamento + controle glicêmico + antibiótico guiado.
 
 ---
 
@@ -72,32 +93,29 @@ Paciente com **úlcera diabética** e osso exposto — osteomielite **contígua*
 
 ### O que você PRECISA saber
 
-- **Kocher** critérios para artrite séptica de quadril infantil (conceito).
-- **Diferenciar** de artrite reumatóide súbita — menos febre, líquido diferente.
-- **Biofilme** em implantes — desbridamento + troca em casos de PJI.
-- **Enfermidade de Pott** — TB vertebral.
+- **Kocher** — critérios para artrite séptica de quadril (sensibilidade limitada — usar com cautela).
+- **Diferencial** — artrite reumatóide súbita, reativa, gota.
+- **Biofilme** em implantes — desbridamento + antibiótico prolongado.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Séptica | gotosa | Cristais, cultura |
-| Osteomielite aguda | crônica | Tempo, sequestro |
-| Artrite | osteomielite | Punção articular |
-| Gônococo | estafilo | Idade, cultura |
+| Séptica | gota | Cristais no líquido, Gram |
+| Osteomielite | contusão | RM, evolução |
+| Hematogênica | contígua | Foco primário, história |
 
 ### Frase-âncora para não esquecer
 
-> “**Articulação quente** em febre = **punção** — cultura fala mais alto que suposição.”
-
+> “**Articulação quente e tóxica** = **líquido** na agulha **hoje**.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **lavagem articular** com **artroscopia** versus aberta conforme articulação e recursos. **Spacer** com antibiótico em revisão de prótese infectada — conceito de duas etapas.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Diretrizes de artrite séptica (IDSA)
+- Osteomielite adulto e pediátrico — duração de antibiótico

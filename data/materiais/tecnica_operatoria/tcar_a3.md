@@ -1,59 +1,73 @@
 # Operações Fundamentais e Material Cirúrgico
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-As **operações fundamentais** do cirurgião são **diérese** (corte), **hemostasia**, **dissecção**, **síntese** (sutura) e **ligadura**. Conhecer **instrumentais** — pinça, bisturi, tesoura, porta-agulhas, afastador — e a **montagem de mesa** evita atraso e contaminação. Em prova, cobram-se **tipos de fio**, **técnicas de hemostasia** (eletrocautério, ligadura, agentes hemostáticos tópicos) e **camadas** da parede abdominal na síntese.
+**Operações fundamentais** incluem **incisão**, **dissecção**, **hemostasia**, **ligadura** e **síntese**. **Material cirúrgico** deve ser **rastreável**, **compatível** com esterilização e **adequado** ao tecido. Em prova, dominam **tipos de fio**, **agulhas**, **pinças** e **cuidados** com **corpo estranho** na contagem.
 
 ---
 
-## Diérese
+## Incisão e planos
 
-Incisão planejada conforme **anatomia** e **acesso** necessário — respeitar **linhas de Langer** quando possível para cicatriz estética.
+**Incisão** perpendicular à pele; **dissecção** em **planos** anatômicos; **identificar** estruturas nobres (vasos, nervos). **Eletrocautério** — **fumaça** ( evacuação se disponível).
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A03-F01`
+
+- **Momento:** após planos — anatomia.
+- **O que mostrar:** **corte transversal** esquemático de **parede abdominal** com planos nomeados.
+- **Tipo sugerido:** ilustração anatômica.
+- **Legenda (rascunho):** Incisão: planos da parede abdominal.
 
 ---
 
 ## Hemostasia
 
-| Método | Quando |
-|--------|--------|
-| Pinçamento + ligadura | Vasos isolados |
-| Eletrocautério | Sangramento superficial |
-| Clips | Ductos/vasos médios |
-| Hemostáticos tópicos | Superfícies raw |
+**Pinçamento**, **eletrocautério**, **ligadura** de vasos. **Tempo** de hemostasia reduz sangramento transoperatório e **complicações**.
 
-> **Pegadinha:** **cauterizar** sem aspiração de fumaça em laparoscopia — risco de visualização ruim e equipe exposta — aspirar fumaça.
+### Figura sugerida
 
----
+**Figura-ID:** `TCAR6-A03-F02`
 
-## Dissecção
-
-Plana **romba** versus **fina**; **túnelização** em algumas herniorrafias.
+- **Momento:** após hemostasia — pinças.
+- **O que mostrar:** **fotografia** de **pinças hemostáticas** (Kelly, mosquito) em mesa.
+- **Tipo sugerido:** instrumentação.
+- **Legenda (rascunho):** Instrumental: pinças hemostáticas.
 
 ---
 
-## Síntese
+## Contagem e segurança
 
-Fechamento por **planos** — peritônio quando aplicável, **aponeurose** tensionada, subcutâneo, pele.
+**Espongas**, **agulhas**, **instrumentos** — **contagem** conforme protocolo. **Corpo estranho** retido — **evento adverso** grave.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A03-F03`
+
+- **Momento:** após contagem — radiografia.
+- **O que mostrar:** **radiografia** com **marcador** de esponja (se radiopaco) — exemplo de **retenção** (caso educativo).
+- **Tipo sugerido:** RX abdominal.
+- **Legenda (rascunho):** Retenção de corpo estranho: imagem radiológica.
 
 ---
 
 ## Ponte com a Clínica
 
-Instrumental contado **antes e depois** — compressas e pequenas peças — previne **corpo estranho** retido.
+**Checklist** cirúrgico WHO — **pausa**, **identificação**, **profilaxia** antibiótica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Operações fundamentais: nome e ordem lógica.
-- Hemostasia antes de síntese — campo seco.
-- Instrumental básico: função de cada peça.
-- Aponeurose é barreira mecânica principal da parede.
+- Planos anatômicos dissecam seguro.
+- Hemostasia sistemática.
+- Contagem de materiais.
+- Time-out antes da incisão.
 
 ---
 
@@ -63,46 +77,45 @@ Instrumental contado **antes e depois** — compressas e pequenas peças — pre
 
 ### O que você PRECISA saber
 
-- **Kocher** vs **Allis** — pinças.
-- **Metzenbaum** vs **Mayo** — tesouras.
-- **Afastador** autoestático — libera mãos.
-- **Dreno** — indicações (debatidas; muitas cirurgias limpas sem dreno).
+- **Trocar** lâmina de bisturi com segurança.
+- **Dreno** — indicações gerais.
+- **Fio de sutura** — absorvível vs não absorvível (próxima aula).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Monopolar | bipolar | Dispersão de corrente |
-| Síntese em camadas | pele só | Tensão, deiscência |
-| Hemostasia mecânica | térmica | Tamanho vaso, profundidade |
+| Dissecção roma | afiada | Instrumento |
+| Hemostasia térmica | ligadura | Calibre vs tecido |
+| Contagem inicial | final | Antes de fechar |
 
 ### Frase-âncora para não esquecer
 
-> “**Campo seco** é **campo visível** — hemostasia não é pressa, é **segurança**.”
+> “**Conte** antes de **fechar** — **sempre**.”
 
 ---
 
-## Sequência lógica em pequenas cirurgias (tabela mental)
+## Aprofundamento — raciocínio clínico
 
-| Etapa | Objetivo | Erro comum |
-|-------|----------|--------------|
-| Incisão | Acesso com mínimo trauma | Cortar profundo demais sem mapa anatômico |
-| Dissecção | Identificar planos | Rasgar tecido sem visualizar |
-| Hemostasia | Visibilidade e segurança | Cauterizar sem aspirar fumaça |
-| Síntese | Restaurar barreira | Fechar pele com tensão na fáscia |
-
-### Após o procedimento
-
-Registre **tipo de fio**, **camadas** fechadas e **curativo**; oriente sinais de infecção e retorno. Mesmo na bancada, treine **verbalizar** o relatório — ajuda em estações OSCE.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Manual de **Noções de Técnica Operatória** da FCMUSP ou equivalente.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+- WHO surgical safety checklist
+- Vídeos de dissecção em modelo de treinamento
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

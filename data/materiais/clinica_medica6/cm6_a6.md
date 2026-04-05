@@ -1,81 +1,79 @@
 # Leucemias Agudas e Crônicas
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (hematologia — leucemias agudas e crônicas)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-As **leucemias** são neoplasias hematológicas caracterizadas por proliferação clonal de células da linhagem mieloide ou linfoide, com distinção fundamental entre formas **agudas** (evolução rápida, frequentemente com **citopenias** e sintomas de **falência medular**) e **crônicas** (curso mais indolente inicialmente, com acúmulo progressivo de células mais maduras). Em prova, a banca cobra **classificação**, **quadro clínico**, **exames** (hemograma, mielograma, imunofenotipagem, citogenética quando citado) e **linhas gerais de tratamento** (quimioterapia, inibidores de tirosinaquinase em LMC, transplante em selecionados).
+As **leucemias** são neoplasias **hematopoiéticas** caracterizadas por **acúmulo clonal** de células imaturas ou maduras no **medula óssea** e, frequentemente, no **sangue periférico**. No *Cecil*, a distinção **aguda versus crônica** e **mieloide versus linfoide** organiza o **diagnóstico laboratorial**, a **urgência terapêutica** (LAM e LLA são emergências oncológicas) e o **prognóstico**. Em prova, a banca cobra **morfologia**, **imunofenotipo** (conceito), **marcadores genéticos** relevantes (ex.: **PML-RARA** na LPA) e **conduta inicial**.
 
 ---
 
-## Leucemia mieloide aguda (LMA)
+## Classificação essencial (mapa mental)
 
-### Apresentação típica
+| Categoria | Subtipos principais (nomenclatura WHO evolui) | Comentário clínico |
+|-----------|-----------------------------------------------|-------------------|
+| **Agudas** | **LAM** (mieloide aguda), **LLA** (linfoblástica aguda) | Insidência rápida; citopenias; possível leucocitose |
+| **Crônicas** | **LMC** (mieloide crônica — agora leucemia mieloide crônica BCR-ABL+), **LLC** (linfocítica crônica) | Curso prolongado; muitas vezes diagnóstico incidental |
 
-- **Anemia:** fadiga, palidez.  
-- **Trombocitopenia:** sangramentos mucosas, petéquias.  
-- **Leucopenia ou leucocitose** com blastos.  
-- **Infecções** por neutropenia.
+> **Dica de Prova:** **blastos** no esfregaço ou medula elevam suspeita de **aguda**; **contagem elevada de linfócitos maduros** com fenótipo típico sugere **LLC**, não LLA.
+
+---
+
+## Leucemia mieloide aguda (LAM)
+
+### Apresentação
+
+**Citopenias** (anemia, plaquetopenia, neutropenia) com sintomas de **falência medular** — fadiga, sangramento, infecções. **Leucocitose** com blastos pode ocorrer; **leucopenia** não exclui diagnóstico.
 
 ### Diagnóstico
 
-Hemograma com **blastos**; confirmação por **mielograma** com imunofenotipagem e estudos genéticos conforme protocolo. A classificação WHO atual integra morfologia, imunofenótipo, genética e apresentação clínica.
+**Medula óssea** com **≥20% blastos** (regra clássica; exceções por leucemias específicas). **Citogenética e molecular** definem **prognóstico** e **tratamento** (ex.: **APL** com t(15;17) e **ácidos transretinoicos** + quimioterapia).
 
-> **Pegadinha:** “infecção refratária” + citopenias severas → pense em **mielodisplasia** ou **LMA**, não apenas em sepse “comum”.
+> **Pegadinha:** **coagulopatia** grave na suspeita de **APL** — alto risco de hemorragia; tratar como **emergência onco-hematológica**.
 
-### Conduta (visão geral)
+### Tratamento (princípios)
 
-Indução de remissão com esquemas baseados em antraciclinas + citarabina (conceito), suporte transfusional, prevenção/tumor lise, cuidados infecciosos. Idade e comorbidades mudam intensidade terapêutica.
-
----
-
-## Leucemia linfoide aguda (LLA)
-
-Predomina em **crianças** (tema de pediatria), mas ocorre em adultos. Imunofenotipagem distingue **precursores B** versus **T**. Ajustes terapêuticos dependem de grupo de risco e achados genéticos (ex.: **Filadélfia** em LLA de adulto — associação importante).
+**Indução** → **consolidação** → **manutenção** (conforme protocolo e risco). **Transplante** em casos selecionados.
 
 ---
 
-## Leucemia linfoide crônica (LLC)
+## Leucemia linfoblástica aguda (LLA)
 
-### Características
-
-Proliferação de **linfócitos B maduros** na medula e sangue periférico. Muitos diagnósticos são **assintomáticos** em hemograma de rotina.
-
-### Estadiamento e tratamento
-
-Escalas históricas (Binet, Rai) ajudam prognóstico. Tratamento indicado em **sintomas B**, citopenias progressivas, linfadenopatia massiva, etc. Terapias modernas incluem **inibidores de tirosinaquinase B** (ibrutinibe e outros), quimioimunoterapia em contextos selecionados.
+Predomina em **criças** e adultos jovens, mas pode ocorrer em qualquer idade. **Medula** e muitas vezes **extramedular** (SNC). Tratamento intensivo com protocolos específicos de linhagem (B versus T).
 
 ---
 
-## Leucemia mieloide crônica (LMC)
+## Leucemia mieloide crônica (LMC / CML)
 
-### Patogênese central
+**BCR-ABL1** (filadelfia) — **inibidores de tirosina quinase** (imatinibe e outros) revolucionaram o prognóstico. Monitorização por **carga molecular** de **BCR-ABL**. **Crise blástica** é progressão aguda — manejo oncológico urgente.
 
-Cromossomo **Filadélfia** (translocação t(9;22)) gera **BCR-ABL1**, tirosinaquinase constitutivamente ativa.
+---
 
-### Tratamento
+## Leucemia linfocítica crônica (LLC)
 
-**Inibidores de tirosinaquinase** (imatinibe e novas gerações) transformaram o prognóstico. Resposta molecular monitorada ao longo do tempo.
+Muitas vezes **assintomática** (linfocitose incidental). **Imunofenotipo** CD5+, CD19+, CD23+ (padrão clássico de prova). **Estadiamento Binet/Rai** (ideia de carga tumoral e citopenias). Tratamento quando **critérios de intervenção** (sintomas B, citopenias progressivas, linfonodos volumosos) — não tratar todos na descoberta.
 
-> **Dica de Prova:** LMC = Filadélfia = **BCR-ABL**; associação quase de “flashcard”.
+**Autoimunidade** associada (anemia hemolítica, plaquetopenia imune) e **imunossupressão** (infecções) são complicações.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com **esplenomegalia**, **leucocitose** e **basofilia** relativa merece investigação de **LMC** antes de atribuir tudo a infecção. O hemograma “fala” quando você olha **diferencial** e **morfologia** com atenção. Na suspeita de LMA, **não atrase** a deriv hematológica — horas podem importar na disfunção e sangramento.
+Paciente com **púrpura**, **febre** e **blastos** no hemograma: não espere biópsia de medula para **estabilizar** — avalie **coagulação**, **leucócitos**, **instabilidade** e acione **hematologia**. **LAM** e **LLA** são doenças em que **horas** importam para encaminhamento.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- LMA/LLA: agudas; blastos; falência medular e risco infeccioso.
-- LLC: linfocitose crônica B; tratamento quando critérios de indicação.
-- LMC: BCR-ABL; TKI é pilar.
-- Filadélfia também aparece em LLA adulto — conecte o mecanismo.
+- **Aguda:** blastos medulares; **LAM** versus **LLA** por imunofenótipo e marcadores.  
+- **APL:** t(15;17), risco hemorrágico — **ATRA** no contexto adequado.  
+- **LMC:** **BCR-ABL**, **TKI**, monitor molecular.  
+- **LLC:** linfocitose crônica, CD5+, critérios de tratamento.  
+- Citopenias **não** excluem leucemia (medula ocupada ou falência).
 
 ---
 
@@ -85,20 +83,20 @@ Paciente com **esplenomegalia**, **leucocitose** e **basofilia** relativa merece
 
 ### O que você PRECISA saber
 
-- **Aguda vs crônica:** velocidade e maturação celular (conceito).
-- **LMC:** Filadélfia, TKI.
-- **LLC:** linfocitose, imunofenótipo B, “watch and wait” em estários iniciais assintomáticos.
-- **Citopenias + blastos:** pense LMA até provar contrário.
+- **Blastos** → pensar **aguda**.  
+- **PML-RARA** / **APL** e risco de sangramento.  
+- **BCR-ABL** e **LMC**.  
+- **LLC:** fenótipo típico, quando tratar.  
+- **Crise blástica** na LMC.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| LMA | Mielodisplasia | Blastos e critérios WHO distintos; mielograma |
-| LLC | Linfoma de pequenos linfócitos | Biópsia nodal quando dúvida; fenótipo semelhante |
-| Leucocitose reativa | Leucemia | Morfologia, proteína C reativa, causa infecciosa |
-| Trombocitose essencial | LMC | BCR-ABL negativo; biologia mieloproliferativa distinta |
+| LAM | LLA | Imunofenótipo medular |
+| LLC | linfoma leucemizado | Biópsia de linfonodo, imunofenótipo |
+| APL | outras LAM | Citogenética, coagulopatia |
 
 ### Frase-âncora para não esquecer
 
-> “**Blastos no sangue** não são ‘estresse’: é linha oncológica até que o mielograma diga o contrário.”
+> “Leucemia aguda é **medula ocupada por clone** — citopenia com **blasto** é pista até provar o contrário.”

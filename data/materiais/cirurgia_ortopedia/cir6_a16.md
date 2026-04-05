@@ -1,13 +1,13 @@
 # Exames Complementares (Imagem) em Ortopedia
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Radiografia** simples é primeira linha em trauma e degenerativo. **TC** detalha osso e fraturas complexas. **RM** é ouro para **meniscos**, **ligamentos**, **medula** e **osteomielite** precoce. **USG** útil em **manguito**, **Aquiles** e derrames. Em prova, cobram-se **incidências** adequadas (joelho AP/perfil/axial), **classificações** de fraturas (AO — ideia) e **quando não pedir RM** (custo e red flags).
+**Radiografia** simples é primeira linha na maioria dos quadros traumáticos e degenerativos. **TC** detalha **osso**, fraturas complexas e planejamento cirúrgico. **RM** é padrão-ouro para **partes moles** — meniscos, ligamentos, tendões, medula. **Ultrassom** é dinâmico para **manguito**, **Aquiles** e **derrames**. **Cintilografia** e **PET** têm papéis específicos (stress, oncologia). Em prova, dominam **incidências adequadas**, **indicações** e **limitações** (custo, artefatos, contraindicações à RM).
 
 ---
 
@@ -15,52 +15,79 @@
 
 ### Trauma
 
-Duas incidências ortogonais mínimo; incluir articulações **adjacentes** (ex.: punho + cotovelo em trauma de antebraço).
+Sempre que possível **duas incidências ortogonais** + **incluídas articulações adjacentes** (regra de **Sloan** para antebraço — incluir punho e cotovelo). Fraturas **não deslocadas** podem ser sutis — **linhas corticais** e **assimetria**.
 
 ### Degenerativo
 
-Osteófitos, estreitamento cartilaginoso, **subcondral** esclerose.
+**Osteartrose** — redução de espaço articular, osteófitos, esclerose subcondral. **Alinhamento** em membro inferior planeja osteotomias ou ATJ.
 
-> **Pegadinha:** **fratura de escafóide** pode não aparecer no dia 1 — imobilizar e repetir ou RM.
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A16-F01`
+
+- **Momento:** após RX — fratura pediátrica.
+- **O que mostrar:** **radiografia** de antebraço com **fratura em galho verde** (exemplo pediátrico).
+- **Tipo sugerido:** RX padrão.
+- **Legenda (rascunho):** Fratura pediátrica: padrão em galho verde.
 
 ---
 
-## Tomografia
+## Tomografia computadorizada
 
-Fraturas intra-articulares, planejamento cirúrgico, **coluna** em trauma.
+Alta resolução óssea; **reconstruções** em planos coronal/sagital para **articular** (escápulo, acetábulo, calcâneo). **TC com contraste** em suspeita de infecção osteoarticular em cenários específicos.
+
+> **Pegadinha:** **TC** expõe radiação — não substitua RX inicial sem necessidade em trauma simples.
 
 ---
 
-## Ressonância
+## Ressonância magnética
 
-Partes moles, **osteonecrose** (quadril), **mielite** transversa. Contraste em suspeita de **abscesso**.
+Excelente contraste de partes moles. **Contraindicações**: alguns implantes metálicos antigos, **clipes** intracranianos ferromagnéticos (checar protocolo). **Protocolos** específicos: **cartilagem** (sequências de cartilagem), **osteomielite precoce** (edema medular).
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A16-F02`
+
+- **Momento:** após RM — joelho.
+- **O que mostrar:** **RM de joelho** (sagital) com **ruptura do LCA** (sinal edematoso/ descontinuidade).
+- **Tipo sugerido:** imagem RM anotada.
+- **Legenda (rascunho):** RM: lesão do ligamento cruzado anterior.
 
 ---
 
 ## Ultrassom
 
-Derrame articular, **rotura** de tendão, **guia** para infiltração.
+Dinâmico, sem radiação. **Manguito rotador**, **tendão de Aquiles**, **bursas**, **derrame articular**. Dependente do operador.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A16-F03`
+
+- **Momento:** após USG — ombro.
+- **O que mostrar:** **ultrassom** de ombro com **ruptura parcial/total** do supraespinal (longitudinal).
+- **Tipo sugerido:** USG musculoesquelético.
+- **Legenda (rascunho):** USG: rotura do tendão do supraespinal.
 
 ---
 
 ## Cintilografia e PET
 
-Menos rotina; **osteomielite** com fase tardia em alguns protocolos.
+**Cintilo óssea** sensível para **stress fractures**, metastases (complementar). **PET-CT** em estadiamento oncológico ósseo.
 
 ---
 
 ## Ponte com a Clínica
 
-Pedir **RM de coluna** em dor mecânica sem déficit neurológico ou alarmes atrasa e não muda conduta inicial — **reabilitação** primeiro.
+Paciente com **trauma** e dor importante mas **RX normal**: considere **fratura oculta** — **RM** ou **TC** conforme local (escafóide, estresse femoral). Paciente **grávida**: **USG** primeiro; **RM sem gadolínio** se indispensável — evitar TC abdominal se possível.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- TC em fraturas articulares complexas.
-- RM em LCA antes de cirurgia.
-- USG dinâmico em instabilidade de tornozelo (avançado).
-- Radiografia normal não exclui fratura stress.
+- RX: triagem; duas incidências; articulações adjacentes.
+- TC: fraturas articulares complexas, planejamento.
+- RM: partes moles, osteomielite precoce, ligamentos.
+- USG: dinâmico, tendão, bursa.
 
 ---
 
@@ -70,31 +97,29 @@ Pedir **RM de coluna** em dor mecânica sem déficit neurológico ou alarmes atr
 
 ### O que você PRECISA saber
 
-- **Barton** vs **Colles** — radiografia punho.
-- **Salter-Harris** — fraturas em placa de crescimento.
-- **Garden** — fraturas de quadril (conceito).
-- **Ottawa knee/ankle rules** — reduz radiografias desnecessárias.
+- **Classificação AO** — ideia de estabilidade (não decorar todos os códigos).
+- **Artefato** em RM — metal próximo ao campo.
+- **Gadolínio** — função renal (risco NSF histórico).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| TC | RM | Osso vs partes moles |
-| Estresse | patológica | História, RM |
-| Osteoporose | metastase | Densitometria, TC |
+| RX | TC | Detalhe ósseo, radiação |
+| RM | TC partes moles | RM sem radiação |
+| USG | RM | Operador, profundidade, cápsula |
 
 ### Frase-âncora para não esquecer
 
-> “**RX** responde **osso**; **RM** responde **menisco e nervo**.”
-
+> “**RX** responde ‘osso quebrado?’; **RM** responde ‘ligamento e menisco?’.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione imagem com **classificação** (Garden, Neer, Salter-Harris) e **timing** cirúrgico. Sempre que pedir exame caro, **justifique** clinicamente.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Radiologia ortopédica essencial (manual ilustrado)
+- Protocolos de RM de joelho e ombro

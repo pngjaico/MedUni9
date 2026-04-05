@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As Normas Regulamentadoras (NRs) são regulamentos do Ministério do Trabalho e Emprego (MTE) que estabelecem requisitos mínimos de segurança e saúde no trabalho. A Uninove cobra especialmente as NRs mais relevantes para a medicina: NR-7 (PCMSO), NR-9 (PPRA/PGRO), NR-15 (atividades insalubres), NR-16 (atividades perigosas) e NR-32 (saúde em serviços de saúde).
+As Normas Regulamentadoras (NRs) são regulamentos do Ministério do Trabalho e Emprego (MTE) que estabelecem requisitos mínimos de segurança e saúde no trabalho. A **Uninove** cobra especialmente as NRs mais relevantes para a medicina: NR-7 (PCMSO), NR-9 (PPRA/PGRO), NR-15 (atividades insalubres), NR-16 (atividades perigosas) e NR-32 (saúde em serviços de saúde).
 
 ### Figura sugerida
 
@@ -80,13 +80,14 @@ Estabelece diretrizes para proteção dos profissionais de saúde: EPIs adequado
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **NR-7 = PCMSO** = 5 tipos de exame médico.
-- **Exame admissional:** ANTES de iniciar atividades.
-- **NR-15:** insalubridade (10/20/40%); NR-16: periculosidade (30%).
-- **Não acumulam:** ou insalubre OU perigoso.
-- **NR-32:** profissionais de saúde, EPIs + vacinação + protocolo pós-exposição.
+
+NR-7 = PCMSO = 5 tipos de exame médico. Exame admissional: ANTES de iniciar atividades.
+
+NR-15: insalubridade (10/20/40%); NR-16: periculosidade (30%). Não acumulam: ou insalubre OU perigoso.
+
+NR-32: profissionais de saúde, EPIs + vacinação + protocolo pós-exposição.
 
 ### Diferenciações que a Uninove adora cobrar
 

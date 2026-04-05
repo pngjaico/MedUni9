@@ -1,0 +1,11 @@
+{
+  "name": "meduni9-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "migrate:firestore": "node scripts/migrate-firestore.mjs"
+  },
+  "devDependencies": {
+    "firebase-admin": "^13.0.0"
+  }
+}

@@ -1,80 +1,86 @@
 # Síndromes Geriátricas
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (síndromes geriátricas, iatrogenia, continência, mobilidade)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-As **grandes síndromes geriátricas** — frequentemente lembradas pelo mnemônico dos **5 i’s** (versões variam) — são quadros que **não são patognomônicos de uma única doença**, mas alertam para **multifatorialidade** e necessidade de abordagem ampla: **instabilidade** (quedas), **imobilidade**, **incontinência**, **iatrogenia/polifarmácia**, **insônia/cognição**, entre outras versões mnemônicas. Em prova, aparecem como cenários de **internação evitável** se o aluno reconhecer gatilhos e intervenções não farmacológicas prioritárias.
+As **grandes síndromes geriátricas** — entre elas **quedas**, **incontinência urinária**, **imobilidade** e **iatrogenia** (incluindo **polifarmácia**) — são **interdependentes**: uma piora puxa a outra em **cascata**. No *Cecil*, o raciocínio não é “sintoma isolado”, e sim **causa multifatorial** + **reversibilidade**. Em prova, cenários de **delirium** após novo fármaco ou **incontinência** que “resolve” com tratamento de infecção do trato urinário testam se você evita **atalhos diagnósticos**.
 
 ---
 
-## Quedas e instabilidade
+## Visão integrada: cascata geriátrica
 
-### Por que o idoso cai (lista mental)
+| Síndrome | Mecanismo frequentemente associado | Consequência se não tratada |
+|----------|-----------------------------------|----------------------------|
+| **Quedas** | Fraqueza, ortostatismo, distúrbio da marcha, sedativos | Fratura, imobilidade prolongada, delirium |
+| **Incontinência** | Hiperatividade detrusora, BPH, constipação, mobilidade | Dermatite, isolamento social, sono fragmentado |
+| **Imobilidade** | Dor, evento vascular, hospitalização | TVP, atelectasia, descondicionamento |
+| **Iatrogenia** | Polifarmácia, doses inadequadas, interações | Quedas, insuficiência renal, sangramento |
 
-- **Neurológico:** Parkinson, AVC sequela, neuropatia.  
-- **Músculo-esquelético:** osteoartrite, sarcopenia, dor.  
-- **Cardiovascular:** hipotensão ortostática, síncope, arritmia.  
-- **Sensorial:** má acuidade visual, déficit proprioceptivo.  
-- **Ambiental:** tapetes, iluminação, escadas sem corrimão.  
-- **Medicamentos:** psicotrópicos, anti-hipertensivos, hipoglicemiantes.
-
-### Abordagem
-
-História circunstanciada (queda mesmo ou síncope?), exame ortostático, revisão de medicações, avaliação de marcha. Exames complementares **direcionados**.
-
-> **Pegadinha:** tratar queda só com “vitamina” sem buscar **causa** e sem **prevenção** é armadilha de alternativa errada.
+> **Dica de Prova:** **incontinência** no idoso **não é “normal”** — é **sintoma** com causas identificáveis na maioria dos casos.
 
 ---
 
-## Imobilidade e declínio funcional
+## Quedas: abordagem sistemática
 
-Imobilidade prolongada gera **atrofia muscular rápida**, **tromboembolismo**, **úlceras por pressão** e **delirium**. A mobilização precoce na internação e o treino domiciliar pós-alta são intervenções com alto impacto.
+### Avaliação
+
+História da queda (**sincope versus trip versus desequilíbrio**), medicamentos, **visão**, **pé** (neuropatia, calçado), **ambiente**, **ritmo cardíaco** (arritmias). Exame: **força**, **marcha**, **propriocepção**, **sinais neurológicos focais**.
+
+### Prevenção
+
+**Exercício de equilíbrio e força**, revisão de **hipnóticos**, correção de **deficit vitamínico** quando indicado, **otimização** de pressão arterial ortostática (hidratação, ajuste de fármaco), **adequação do lar**.
+
+> **Pegadinha:** **hiponatremia** ou **infecção** podem manifestar-se só como **instabilidade** — investigar gatilhos metabólicos.
 
 ---
 
-## Incontinência urinária
+## Incontinência urinária: tipos (visão de prova)
 
-### Tipos que caem em prova
+| Tipo | Mecanismo resumido | Pistas |
+|------|-------------------|--------|
+| **Urgência** (detrusor hiperativo) | Contrações involuntárias | Urgência, noctúria |
+| **Esforço** | Deficiência esfincteriana / suporte | Perda com tosse, esforço |
+| **Transbordamento** | Bexiga cheia (retenção) | Jato fraco, sensação de esvaziamento incompleto |
+| **Funcional** | Barreira para chegar ao banheiro | Artrite, mobilidade, cognição |
 
-| Tipo | Mecanismo resumido | Pista clínica |
-|------|-------------------|---------------|
-| Urgência (hiperatividade) | Contratilidade detrusora exacerbada | Urgência, noctúria |
-| Esforço | Deficiência esfincteriana/ suporte | Perda com tosse/esforço |
-| Transbordamento | Obstrução ou bexiga hipocontrátil | Jato fraco, sensação de esvaziamento incompleto |
-| Funcional | Barreiras físicas/cognitivas | Não chega a tempo ao banheiro |
+**Constipação** e **diuréticos** podem piorar qualquer padrão — sempre pergunte.
 
-> **Dica de Prova:** incontinência nova na internação muitas vezes é **funcional + delirium + acesso ao banheiro**; nem sempre precisa anticolinérgico (cuidado com efeitos cognitivos).
+---
+
+## Imobilidade e decondicionamento
+
+Após **internação** ou **evento agudo**, perda rápida de **força** e **massa muscular** (especialmente se **jejum** e **inflamação**). **Fisioterapia precoce**, **nutrição adequada** e **controle da dor** reduzem complicações (TVP, pneumonia, delirium).
 
 ---
 
 ## Iatrogenia e polifarmácia
 
-Quanto mais medicamentos, maior risco de **interações**, **quedas** e **confusão**. Ferramentas de deprescribing são conceito cobrado: retirar o que não beneficia.
+**Definição operacional** comum: **≥5 medicamentos** (limiar arbitrário, mas útil para alerta). Riscos: **interações**, **aderência ruim**, **efeitos anticolinérgicos cumulativos**, **sangramento** (anticoagulantes + AINEs).
 
----
+### Estratégias
 
-## Insônia e distúrbios do sono
-
-Higiene do sono, tratar dor, evitar **long-acting benzodiazepines**. Priorizar causas reversíveis (apneia, depressão, micção noturna por DP).
+Revisão periódica com critério de **desprescrição** quando benefício não é claro; **alinhamento** com metas do paciente (compartilhamento de decisão).
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente idoso com **incontinência** e **quedas** pode estar em **delirium não reconhecido** por uso de **antidepressivo anticolinérgico** + **diurético em horário inadequado**. A síndrome geriátrica exige **visão de sistema**: corrigir sono, revisar horários, treinar força, ajustar ambiente — medicar é último passo em muitos casos.
+Idoso com **três quedas em um mês** e uso de **benzodiazepínico noturno**: o plano não é só “cuidado”; é **tentar reduzir sedativo** com substitutos não farmacológicos do sono, **treinar marcha** e **iluminar corredor**. A síndrome geriátrica **some** quando você trata **causa e contexto**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Quedas: multifatoriais; sempre excluir síncope e arritmia quando história compatível.
-- Incontinência: classificar antes de tratar empiricamente.
-- Polifarmácia: causa comum de piora cognitiva e ortostatismo.
-- Imobilidade: prevenção de complicações (TEV, úlcera, perda muscular).
+- Síndromes geriátricas são **multifatoriais** e **em cascata**.  
+- Quedas: classificar **mecanismo**, revisar **fármacos** e **ambiente**.  
+- Incontinência: **tipificar**; tratar **constipação** e **causas reversíveis**.  
+- Imobilidade: **prevenir** com mobilização precoce.  
+- Polifarmácia: risco de **iatrogenia** — revisar sempre.
 
 ---
 
@@ -84,20 +90,20 @@ Paciente idoso com **incontinência** e **quedas** pode estar em **delirium não
 
 ### O que você PRECISA saber
 
-- **Síndromes geriátricas** são portas de entrada para investigação ampla.
-- **Quedas** exigem história detalhada e exame ortostático.
-- **Incontinência** tem tipos com tratamentos diferentes.
-- **Anticolinérgicos** pioram cognição no idoso.
+- **Cascata** queda–imobilidade–delirium.  
+- Tipos de **incontinência** e pistas clínicas.  
+- **Polifarmácia** e sedativos como causa de queda.  
+- **Constipação** agravando bexiga.  
+- Nada de **“normal pela idade”** sem investigar.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Síncope | Queda | Pródromos, perda de consciência, pós-evento |
-| Incontinência de urgência | Infecção urinária | Urocultura, sintomas sistêmicos |
-| Depressão | Demência | Humor primário × déficits cognitivos multifacetados |
-| Hipotensão ortostática | ICC descompensada | Ortostatismo documentado, medicação, volume |
+| Urgência | Infecção urinária com urgência | Urinocultura, sintomas sistêmicos |
+| Sincope | Queda por tropeço | História testemunhada, ECG |
+| Delirium | Demência | Tempo de instalação, causa aguda |
 
 ### Frase-âncora para não esquecer
 
-> “Síndrome geriátrica é **alarme de sistema**: pare, liste causas, **desmedique** o que machuca e **reabilite** o que fortalece.”
+> “Síndrome geriátrica é **sistema aberto** — trate **tudo que puxa** e o idoso **volta a funcionar**.”

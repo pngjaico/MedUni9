@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Exame do aparelho reprodutor masculino ainda é executado com certo incômodo por alunos — mas a Uninove cobra conhecimento de anamnese estruturada em temas sensíveis e técnica apropriada de palpação testicular. Câncer de testículo em jovem pode ser detectado por autoexame — educação do paciente é responsabilidade do médico. Disfunção érectil e infertilidade são frequentes na prática e exame bem feito diferencia causas vasculares, neurológicas e hormonais. Prostatite aguda pode simular abdominalgia — o toque retal diferencia.
+Exame do aparelho reprodutor masculino ainda é executado com certo incômodo por alunos — mas a **Uninove** cobra conhecimento de anamnese estruturada em temas sensíveis e técnica apropriada de palpação testicular. Câncer de testículo em jovem pode ser detectado por autoexame — educação do paciente é responsabilidade do médico. Disfunção érectil e infertilidade são frequentes na prática e exame bem feito diferencia causas vasculares, neurológicas e hormonais. Prostatite aguda pode simular abdominalgia — o toque retal diferencia.
 
 
 
@@ -61,20 +61,26 @@ A franqueza do paciente ao descrever dificuldade sexual depende da franqueza do 
 
 ---
 
+## Erros Comuns de Prova
+
+- Pular pregunta-chave por "óbvio demais".
+- Confundir sinal de um órgão com manifestação de outro.
+- Não correlacionar sequência temporal dos sintomas.
+
+> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+
 ## Pré-Prova
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Palpação testicular:** bilateralmente, tamanho 4-5 cm, firme, indolor.
-- **Nódulo testicular:** é anormal até prova contrária; não confunda com dor exclusiva.
-- **Toque retal próstata:** tamanho, consistência, sensibilidade; não fazer sem consentimento.
-- **ED:** perguntar componente: ereção, libido, ejaculação — localiza problema.
-- **Varicocele:** "bolsinha de vermes" acima testículo; unilateral direita = investigar VRC.
-- **Prostatite aguda:** febre + micção dolorosa + fezes duras + próstata pétrea.
-- **Infertilidade:** volume ejaculado, frequência, consistência + espermograma confirma.
-- **Constrangimento:** normaliza pergunta com tom profissional; educação sobre autoexame salva vidas.
+
+Palpação testicular: bilateralmente, tamanho 4-5 cm, firme, indolor. Nódulo testicular: é anormal até prova contrária; não confunda com dor exclusiva. Toque retal próstata: tamanho, consistência, sensibilidade; não fazer sem consentimento.
+
+ED: perguntar componente: ereção, libido, ejaculação — localiza problema. Varicocele: "bolsinha de vermes" acima testículo; unilateral direita = investigar VRC. Prostatite aguda: febre + micção dolorosa + fezes duras + próstata pétrea.
+
+Infertilidade: volume ejaculado, frequência, consistência + espermograma confirma. Constrangimento: normaliza pergunta com tom profissional; educação sobre autoexame salva vidas.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -89,46 +95,3 @@ A franqueza do paciente ao descrever dificuldade sexual depende da franqueza do 
 ### Frase-âncora para não esquecer
 
 > **"Testículo 4-5 cm, nódulo = oncologia. Próstata firme indolor = HBP; próstata dura dolorosa = prostatite. Varicocele bilat normal; unilat direita = trombose."**
-
-## Aplicação em Caso Clínico
-
-A semiologia não é memorização de sinais — é raciocínio integrado. No caso real, primeira pergunta orienta as próximas. Paciente com dor abdominal que piora com movimento não é a mesma história de quem tem dor mas anda tranquilo. Essa lógica é o que diferencia resposta mediana de resposta excelente na prova com caso.
-
-## Ponte com a Clínica
-
-Na rotina, a semiologia bem feita reduz erro diagnóstico. Inspetor atento evita ensaios desnecessários. Paciente que confia no examinador oferece informações mais precisas. Essa confiança vem também de comunicação clara sobre por que se pergunta o que se pergunta, especialmente em temas sensíveis como saúde reprodutiva.
-
-## Erros Comuns de Prova
-
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
-
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
-
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Foco anamnese:** características temporais, fatores desencadeantes e contexto.
-- **Foco exame:** simetria, localização precisa, manobras especiais.
-- **sinal localizado:** conceito-base para lógica de raciocínio.
-- **contexto epidemiológico:** diferenciação mais cobrada.
-- **:** aplicação prática.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Anamnese | Exame físico | Anamnese: o que o paciente relata; exame: o que você documenta |
-| Sinal subjetivo | Sinal objetivo | Subjetivo: dor, coceira; objetivo: edema, massa palpável |
-| Achado focal | Achado difuso | Focal localizado em região específica; difuso em múltiplas regiões |
-| Padrão agudo | Padrão crônico | Agudo: horas a dias; crônico: semanas a meses com ou sem variação |
-
-### Frase-âncora para não esquecer
-
-> "Semiologia é pergunta + observação + palpação + integração. Nunca pule uma etapa por óbvio."

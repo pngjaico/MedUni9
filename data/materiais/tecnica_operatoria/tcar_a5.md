@@ -1,51 +1,73 @@
 # Fios e Agulhas Cirúrgicas
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Fios cirúrgicos** classificam-se em **absorvíveis** (gut, ácido poliglicólico, polidioxanona) e **não absorvíveis** (nylon, prolene, aço). **Agulhas** podem ser **triangulares** (pele), **redondas** (vasos, fígado) ou **espatuladas** (oftalmologia). Em prova, cobram-se **calibres** (USP/Ethicon — ideia), **tempo de absorção** e escolha para **aponeurose** versus **pele**.
+**Fios de sutura** diferem em **material** (absorvível vs permanente), **calibre** (número com mais zeros = fio mais fino — ex.: 4-0 mais fino que 2-0 em muitas escalas), **estrutura** (monofilamentar vs multifilamentar) e **agulhas** (triangular, cortante, espacial). Em prova, dominam **escolha por tecido**, **tração** mínima e **nós** seguros.
 
 ---
 
-## Absorvíveis comuns
+## Absorvíveis vs não absorvíveis
 
-| Material | Absorção aproximada | Uso típico |
-|----------|---------------------|------------|
-| Gut simples | Dias a semanas | Mucosa |
-| Vicryl | Semanas | Subcutâneo, ligaduras |
-| PDS | Meses | Aponeurose, fascia |
+**Absorvíveis:** glicólido-polilactídeo (PGLA), **catgut** (menos comum). **Não absorvíveis:** **polipropileno**, **nylon**, **fio de aço** em certas situações.
 
----
+### Figura sugerida
 
-## Não absorvíveis
+**Figura-ID:** `TCAR6-A05-F01`
 
-**Prolene** para vasos; **nylon** pele; **fio de aço** esterno.
-
-> **Pegadinha:** **fio multifilamento** tem mais tração mas mais capilaridade bacteriana — evitar em infecção; **monofilamento** preferível em muitos tecidos contaminados (conceito).
+- **Momento:** após materiais — amostras.
+- **O que mostrar:** **embalagens** de **fios** com **calibre** e **tipo** visíveis (foto educativa).
+- **Tipo sugerido:** produto comercial.
+- **Legenda (rascunho):** Embalagem de fio: calibre e material.
 
 ---
 
 ## Agulhas
 
-**Corpo** da agulha: reta ou curva; **ponta** cortante ou redonda. Escolha conforme **espessura** do tecido.
+**Triangular** — pele; **cortante** — tecidos densos; **espacial** — planos profundos; **tapercut** — laparoscopia. **Meio corpo** vs **1/2**, **3/8** círculo.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A05-F02`
+
+- **Momento:** após agulhas — formas.
+- **O que mostrar:** **desenho** comparando **pontas** de agulhas (triangular, redonda, cortante reversa).
+- **Tipo sugerido:** ilustração técnica.
+- **Legenda (rascunho):** Tipos de agulhas cirúrgicas.
+
+---
+
+## Escolha prática
+
+**Mucosa** digestiva — absorvível; **pele** — monofilamentar não absorvível ou absorvível de longa duração superficial; **vaso** — fino calibre. **Tração** mínima — **ischemia** de bordas.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A05-F03`
+
+- **Momento:** após técnica — sutura pele.
+- **O que mostrar:** **fotografia** de **sutura de pele** com **pontos simples** espaçados regulares.
+- **Tipo sugerido:** clínica educacional.
+- **Legenda (rascunho):** Sutura cutânea: espaçamento e eversão de bordas.
 
 ---
 
 ## Ponte com a Clínica
 
-Fio fino demais em **aponeurose** sob tensão — **deiscência**; fio grosso na **pele** facial — cicatriz marcada.
+**Multifilamentar** em áreas **potencialmente infectadas** — maior capilaridade bacteriana (debate por contexto). **Monofilamentar** frequentemente preferido em **vasos**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Absorvível em tecidos que cicatrizam rápido; não absorvível onde tensão prolongada.
-- Agulha cortante pele; redonda visceras/vasos.
-- Multifilamento vs monofilamento — tração vs infecção.
+- Calibre: números e espessura relativa.
+- Agulha adequada ao tecido.
+- Tração mínima.
+- Absorvível em mucosa/viscera geralmente.
 
 ---
 
@@ -55,52 +77,45 @@ Fio fino demais em **aponeurose** sob tensão — **deiscência**; fio grosso na
 
 ### O que você PRECISA saber
 
-- Numeração de calibre — maior número = fio mais fino (cuidado com convenções).
-- **Meio fio** — meia agulha em espaços estreitos.
-- **SH, CT** — curvaturas comerciais (ideia).
-- **Trocar agulha** se empenhar — não forçar.
+- **PDS** (polidioxanona) — absorção lenta.
+- **Silk** — multifilamentar, traciona bem, não para vasos finos.
+- **Agulha** perdida — protocolo de busca radiológica.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Absorvível | não absorvível | Tissue healing time |
-| Cortante | redonda | Camada tecidual |
-| Monofilamento | multifilamento | Capilaridade |
+| Monofilamentar | multifilamentar | Fricção, infecção |
+| Absorvível | permanente | Local e função |
+| Agulha cortante | redonda | Pele vs fígado |
 
 ### Frase-âncora para não esquecer
 
-> “**Fio errado** é **cicatriz errada** — aponeurose pede **força**.”
+> “**Fio errado** vira **fístula** ou **cicatriz feia**.”
 
 ---
 
-## Escolha prática na bancada
+## Aprofundamento — raciocínio clínico
 
-Para pele facial em idoso com pele fina, prefira **monofilamento** fino e pontos **mais numerosos** com menos tensão cada — melhor resultado estético que poucos pontos apertados. Para **aponeurose** de parede abdominal, **fio absorvível** de meia-vida adequada à cicatrização da fáscia evita corpo estranho prolongado sem sacrificar resistência inicial.
-
-### Economia e segurança
-
-Evite desperdício: **medir** comprimento aproximado de fio antes de cortar; fios longos demais em **cavidade** aumentam risco de **nó externo** e contaminação por fricção.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Tabela de **escolha de fio** por especialidade no manual da disciplina.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Ethicon / Covidien — guias de sutura
+- Vídeos de manejo de porta-agulhas
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

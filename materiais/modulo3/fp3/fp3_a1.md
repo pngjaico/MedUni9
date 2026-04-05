@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A patologia celular é o alicerce de toda fisiopatologia: antes de entender por que um órgão falha, você precisa entender por que suas células morrem ou ficam doentes. A Uninove cobra sistematicamente a diferença entre necrose e apoptose (já vista em BCM1, mas aqui com foco em contexto clínico patológico), os tipos morfológicos de necrose e a reversibilidade da lesão celular. Questões de fisiopatologia do módulo 3 frequentemente partem de "lesão de X tipo" e pedem o mecanismo ou a consequência clínica.
+A patologia celular é o alicerce de toda fisiopatologia: antes de entender por que um órgão falha, você precisa entender por que suas células morrem ou ficam doentes. A **Uninove** cobra sistematicamente a diferença entre necrose e apoptose (já vista em BCM1, mas aqui com foco em contexto clínico patológico), os tipos morfológicos de necrose e a reversibilidade da lesão celular. Questões de fisiopatologia do módulo 3 frequentemente partem de "lesão de X tipo" e pedem o mecanismo ou a consequência clínica.
 
 ### Figura sugerida
 
@@ -40,7 +40,7 @@ Quando a lesão progride para **irreversível**, dois eventos marcam o ponto de 
 
 A **necrose** é a morte celular patológica: o conteúdo intracelular vaza para o espaço extracelular, ativando inflamação local. Morfologicamente, os núcleos apresentam três padrões de degeneração: **picnose** (condensação e encolhimento do núcleo), **cariorrexe** (fragmentação do núcleo) e **cariólise** (dissolução do núcleo — o mais avançado).
 
-Os tipos morfológicos de necrose têm significado clínico direto:
+Os tipos morfológicos de **necrose** têm significado clínico direto:
 
 **Necrose coagulativa:** o arcabouço proteico das células é desnaturado pelo calor ou isquemia, mantendo o contorno celular como "fantasma". É o tipo do infarto de órgãos sólidos (rim, coração, baço). Característica: o tecido fica firme, pálido ou amarelado.
 
@@ -83,16 +83,14 @@ A apoptose tem duas vias principais: a **via intrínseca** (mitocondrial), ativa
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Necrose coagulativa:** infarto + contorno celular preservado (órgãos sólidos).
-- **Necrose liquefativa:** AVC isquêmico + abscessos (cerebro e pus).
-- **Necrose caseosa:** tuberculose — "queijo branco" no centro do granuloma.
-- **Necrose gordurosa:** pancreatite aguda — saponificação.
-- **Apoptose:** morte sem inflamação — p53 ativa via mitocondrial.
-- **Edema celular:** lesão reversível — bomba Na/K falha por falta de ATP.
-- **Lesão de reperfusão:** radicais livres = piora após restabelecimento do fluxo.
-- **Picnose → cariorrexe → cariólise:** sequência nuclear na necrose.
+
+Necrose coagulativa: infarto + contorno celular preservado (órgãos sólidos). Necrose liquefativa: AVC isquêmico + abscessos (cerebro e pus). Necrose caseosa: tuberculose — "queijo branco" no centro do granuloma.
+
+Necrose gordurosa: pancreatite aguda — saponificação. Apoptose: morte sem inflamação — p53 ativa via mitocondrial. Edema celular: lesão reversível — bomba Na/K falha por falta de ATP.
+
+Lesão de reperfusão: radicais livres = piora após restabelecimento do fluxo. Picnose → cariorrexe → cariólise: sequência nuclear na necrose.
 
 ### Diferenciações que a Uninove adora cobrar
 

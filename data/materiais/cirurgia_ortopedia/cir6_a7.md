@@ -1,64 +1,97 @@
 # Doenças do Esôfago — DRGE e Alterações Motoras
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **doença do refluxo gastroesofágico (DRGE)** é refluxo de conteúdo gástrico que causa sintomas e/ou lesões. **Acalásia** e **espasmo esofágico** são **motilidade** primária. O cirurgião aborda **hérnia hiatal**, **fundoplicatura** em casos selecionados e **miotomia** (Heller) para acalásia. Em prova, cobram-se **pHmetria**, **manometria**, **classificação de Los Angeles** para esofagite e critérios de **indicação cirúrgica**.
+A **doença do refluxo gastroesofágico (DRGE)** é refluxo de conteúdo gástrico com sintomas e/ou lesões. **Acalásia** e **distúrbios de motilidade** primários alteram o esvaziamento esofágico. O cirurgião aborda **hérnia hiatal**, **fundoplicatura** em casos selecionados e **miotomia** (Heller, **POEM**) na acalásia. Em prova, dominam **alarmes**, **classificação de Los Angeles**, **pHmetria/impedâniometria**, **manometria** e critérios de **indicação cirúrgica**.
 
 ---
 
-## DRGE — diagnóstico
+## DRGE — diagnóstico e estratificação
 
-Pirose, regurgitação, dor torácica atípica. **PPI** terapêutico em suspeita clínica. **Endoscopia** se alarmes (disfagia, emagrecimento) ou refratariedade. **pHmetria** e **impedâmetria** em casos complexos.
+Sintomas típicos: **pirose**, regurgitação. Atípicos: tosse crônica, rouquidão, dor torácica. **PPI** em teste terapêutico pode ajudar, mas **alarmes** exigem **endoscopia**: disfagia, sangramento, emagrecimento, idade avançada.
 
 ### Complicações
 
-Esofagite **erosiva**, **estenose** péptica, **Barrett** (metaplasia — vigilância).
+Esofagite erosiva, **estenose** péptica, **Barrett** (metaplasia — programa de vigilância conforme protocolo). Adenocarcinoma esofágico é complicação tardia rara, porém grave.
 
-> **Pegadinha:** tosse crônica e DRGE — diagnóstico de exclusão; asma e rinossinusite entram no painel.
+### Figura sugerida
 
----
+**Figura-ID:** `CIR6-A7-F01`
 
-## Tratamento clínico
-
-**PPI**, medidas posturais/dietéticas, perda ponderal. **Cirurgia** (fundoplicatura laparoscópica) em **bem selecionados** com boa resposta a PPI e sem motilidade severa.
-
----
-
-## Acalásia
-
-### Quadro
-
-Disfagia para sólidos e líquidos, **regurgitação** não ácida, perda ponderal. **Radiografia** com **bico de pássaro**, manometria com **aperistalse** e **falha de relaxamento** do EEI.
-
-### Tratamento
-
-**Cardiomiotomia de Heller** + fundoplicatura parcial; **dilatação pneumática**; **toxina botulínica** em não cirúrgicos.
+- **Momento:** após DRGE típica (componente anatômico).
+- **O que mostrar:** ilustração de **hérnia hiatal deslizante** e refluxo.
+- **Tipo sugerido:** diagrama médico (Blausen ou equivalente).
+- **Legenda (rascunho):** Hérnia hiatal: deslizamento do estômago pelo hiato.
 
 ---
 
-## Espasmo difuso e nutcracker
+## Exames complementares na DRGE
 
-Dor torácica com manometria específica — tratamento medicamentoso/cirúrgico selecionado.
+- **Endoscopia** com biopsias se Barrett suspeito.  
+- **pHmetria** e **impedâniometria** em casos complexos ou pré-operatório.  
+- **Manometria** **antes** de fundoplicatura para excluir motilidade grave.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A7-F02`
+
+- **Momento:** após complicações / esofagite grave (correlação radiológica).
+- **O que mostrar:** **radiografia** com contraste mostrando **refluxo** esofagogástrico (ex.: estudo com bário).
+- **Tipo sugerido:** RX com contraste.
+- **Legenda (rascunho):** Estudo contrastado: refluxo gastroesofágico evidente.
+
+---
+
+## Tratamento clínico x cirúrgico
+
+**Medidas** (peso, horários, elevação cabeceira), **PPI** em doses adequadas. **Cirurgia** (fundoplicatura laparoscópica) para **bem selecionados**: boa resposta a PPI, achados objetivos de refluxo, **sem** dismotilidade esofágica grave.
+
+---
+
+## Acalásia e outros distúrbios motores
+
+### Acalásia
+
+**Disfagia** para sólidos e líquidos, regurgitação não ácida, perda ponderal. **Radiografia:** achatamento distal com **bico de pássaro**. **Manometria:** aperistalse e **falha de relaxamento** do EEI.
+
+### Tratamentos
+
+**Cardiomiotomia de Heller** + fundoplicatura parcial; **dilatação pneumática**; **POEM** em centros; **toxina botulínica** paliativa.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A7-F03`
+
+- **Momento:** após acalásia (diagnóstico por estudo contrastado).
+- **O que mostrar:** série radiológica de **deglutição com bário** com dilatação esofágica e estreitamento distal (padrão de **acalásia**).
+- **Tipo sugerido:** radiografia com contraste.
+- **Legenda (rascunho):** Acalásia: atraso no esvaziamento esofágico ao estudo com bário.
+
+---
+
+## Espasmo difuso e “nutcracker”
+
+Dor torácica com achados manométricos específicos — tratamento medicamentoso ou intervenções selecionadas conforme especialista.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com disfagia **progressiva** e perda de peso não é “DRGE” até endoscopia excluir **malignidade**. **Alarmes** primeiro.
+Paciente com **disfagia progressiva** e perda de peso **não** é “DRGE” até **endoscopia** excluir **malignidade**. Alarmes primeiro, sempre.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Alarmes: endoscopia obrigatória.
-- Barrett: vigilância protocolar.
-- Acalásia: manometria é diagnóstico.
-- Fundoplicatura: avaliar motilidade pré-op.
+- Alarmes: endoscopia obrigatória antes de rotular “refluxo simples”.
+- Barrett: rastreio e vigilância protocolar.
+- Acalásia: manometria é central no diagnóstico.
+- Fundoplicatura: **manometria pré-operatória** para não operar motilidade incompatível.
 
 ---
 
@@ -68,32 +101,31 @@ Paciente com disfagia **progressiva** e perda de peso não é “DRGE” até en
 
 ### O que você PRECISA saber
 
-- **Los Angeles** — graus de esofagite (ideia).
-- **EIN** (esofagite eosinofílica) — biópsia com eosinófilos.
+- **Los Angeles** — gravidade endoscópica da esofagite (ideia).
+- **Esofagite eosinofílica** — biópsia com eosinófilos (não responde como DRGE clássica).
 - **Hérnia hiatal** grande — componente anatômico do refluxo.
-- **Manometria** pré-fundoplicatura.
+- **POEM** — miotomia endoscópica (nome e indicação em acalásia).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| DRGE | angina | ECG, prova de esforço |
-| Acalásia | carcinoma esofágico | Endoscopia, imagem |
-| Esofagite eosinofílica | DRGE | Biópsia |
-| Espasmo | IAM | ECG, troponina |
+| DRGE | angina/isquemia | ECG, troponina, fatores |
+| Acalásia | carcinoma esofágico | Endoscopia com biópsia |
+| Esofagite eosinofílica | DRGE | Biópsia esofágica |
+| Espasmo | IAM | ECG, enzimas cardíacas |
 
 ### Frase-âncora para não esquecer
 
 > “**Disfagia** muda o jogo — **não é refluxo simples** até investigar.”
 
-
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **seleção de paciente**, **exames fisiológicos** e **expectativa realista** de sintomas pós-operatórios. **Consentimento** informado evita frustração em casos atípicos.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Consensos de DRGE e indicação cirúrgica
+- Diretrizes de Barrett e displasia

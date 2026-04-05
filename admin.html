@@ -348,6 +348,7 @@
             <nav class="admin-nav">
                 <button class="admin-nav-item active" onclick="switchSection('dashboard')">📊 Dashboard</button>
                 <button class="admin-nav-item" onclick="switchSection('codes')">🔑 Códigos</button>
+                <button class="admin-nav-item" onclick="switchSection('email-invites')">✉️ Convites email</button>
                 <button class="admin-nav-item" onclick="switchSection('embaixadores')">👥 Embaixadores</button>
                 <button class="admin-nav-item" onclick="switchSection('cupons')">🎟️ Cupons</button>
                 <button class="admin-nav-item" onclick="switchSection('users')">🏫 Usuários</button>
@@ -414,6 +415,61 @@
                             </thead>
                             <tbody id="codesTable"></tbody>
                         </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ===== CONVITES EMAIL (Firestore) ===== -->
+            <div class="admin-section" id="section-email-invites">
+                <div class="page-header" style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:12px">
+                    <div>
+                        <h1>Convites por email</h1>
+                        <p>Liberação no Firebase — o aluno usa o mesmo email no app (sem depender de chave estática em JSON)</p>
+                    </div>
+                    <button class="btn btn-ghost btn-sm" onclick="loadEmailInvitesSection()">↻ Atualizar</button>
+                </div>
+
+                <div class="alert alert-info" style="margin-bottom:20px">
+                    <div>
+                        <strong>Coleção Firestore:</strong> <code style="font-size:12px">email_access</code> — ID do documento = email em minúsculas. Conecte o mesmo Google admin da seção Usuários.
+                    </div>
+                </div>
+
+                <div class="panel" id="emailInvitesFirebaseGate">
+                    <p style="color:var(--text-secondary);font-size:14px;margin-bottom:12px">Conecte o Google admin em <strong>Usuários & Faculdades</strong> para listar e editar convites.</p>
+                    <button type="button" class="btn btn-primary" onclick="switchSection('users')">Ir para Usuários</button>
+                </div>
+
+                <div id="emailInvitesAdminContent" style="display:none;">
+                    <div class="btn-group" style="margin-bottom:16px;">
+                        <button type="button" class="btn btn-primary" onclick="openEmailInviteModal(null)">+ Novo convite</button>
+                    </div>
+                    <div class="q-filter-bar" style="margin-bottom:12px;display:flex;gap:12px;flex-wrap:wrap;align-items:center">
+                        <input type="text" class="form-input" id="emailInviteSearch" placeholder="Buscar por email..." oninput="renderEmailInvitesTable()" style="max-width:320px">
+                        <select id="emailInviteFilterStatus" class="form-select" style="max-width:180px" onchange="renderEmailInvitesTable()">
+                            <option value="">Todos</option>
+                            <option value="ativo">Ativos</option>
+                            <option value="inativo">Inativos</option>
+                        </select>
+                        <span id="emailInvitesCount" style="color:var(--text-secondary);font-size:13px"></span>
+                    </div>
+                    <div class="panel" style="padding:0">
+                        <div class="table-wrap">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Email</th>
+                                        <th>Plano</th>
+                                        <th>Módulos</th>
+                                        <th>Máx. disp.</th>
+                                        <th>Expira</th>
+                                        <th>Status</th>
+                                        <th>Ações</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="emailInvitesTable"></tbody>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -935,6 +991,73 @@
         </div>
     </div>
 
+    <!-- Email invite (Firestore) -->
+    <div class="modal-overlay hidden" id="emailInviteModal">
+        <div class="modal" style="max-width:520px">
+            <h3 id="emailInviteModalTitle">Novo convite por email</h3>
+            <input type="hidden" id="emailInviteEditingId" value="">
+            <div class="form-group">
+                <label class="form-label">Email</label>
+                <input type="email" class="form-input" id="emailInviteEmail" placeholder="aluno@provedor.com" autocomplete="off">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Plano</label>
+                <select class="form-select" id="emailInvitePlan" onchange="updateEmailInvitePlanUI()">
+                    <option value="modulo">Módulo único</option>
+                    <option value="ciclo_basico">Ciclo básico (1–4)</option>
+                    <option value="ciclo_clinico">Ciclo clínico (5–8)</option>
+                    <option value="ciclo_internato">Internato (9–12)</option>
+                    <option value="legado_total">Acesso total (legado)</option>
+                    <option value="basico">Básico (legado)</option>
+                    <option value="completo">Completo (legado)</option>
+                    <option value="vitalicio">Vitalício (legado)</option>
+                </select>
+            </div>
+            <div class="form-group" id="emailInviteModuloGroup">
+                <label class="form-label">Módulo liberado</label>
+                <select class="form-select" id="emailInviteModuloNum">
+                    <option value="1">Módulo 1</option>
+                    <option value="2">Módulo 2</option>
+                    <option value="3">Módulo 3</option>
+                    <option value="4">Módulo 4</option>
+                    <option value="5">Módulo 5</option>
+                    <option value="6">Módulo 6</option>
+                    <option value="7">Módulo 7</option>
+                    <option value="8">Módulo 8</option>
+                    <option value="9">Módulo 9</option>
+                    <option value="10">Módulo 10</option>
+                    <option value="11">Módulo 11</option>
+                    <option value="12">Módulo 12</option>
+                </select>
+            </div>
+            <div class="form-row">
+                <div class="form-group">
+                    <label class="form-label">Máx. dispositivos</label>
+                    <input type="number" class="form-input" id="emailInviteMaxDev" value="2" min="1" max="99">
+                </div>
+                <div class="form-group">
+                    <label class="form-label">Expira em (opcional)</label>
+                    <input type="date" class="form-input" id="emailInviteExpiry">
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="form-label">Nota (interna)</label>
+                <input type="text" class="form-input" id="emailInviteNote" placeholder="Ex.: Turma X — acordo Y">
+            </div>
+            <div class="form-group">
+                <label class="form-label">Status</label>
+                <select class="form-select" id="emailInviteActive">
+                    <option value="true">Ativo</option>
+                    <option value="false">Inativo</option>
+                </select>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-ghost" onclick="closeModal('emailInviteModal')">Cancelar</button>
+                <button type="button" class="btn btn-primary" onclick="saveEmailInviteFromModal()">Salvar no Firebase</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Question Modal -->
     <div class="modal-overlay hidden" id="questionModal">
         <div class="modal" style="max-width:680px">
@@ -1008,19 +1131,16 @@
     <!-- Toast -->
     <div class="toast" id="toast"></div>
 
+    <script src="firebase-config.js"></script>
     <script type="module">
         import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
         import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
-        import { getFirestore, collection, getDocs, doc, setDoc, updateDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+        import { getFirestore, collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
 
-        const fbConfig = {
-            apiKey:            "AIzaSyAtklKLpkfG2pGyWGmZfNpp_mc3cMINNTQ",
-            authDomain:        "meduni9-869eb.firebaseapp.com",
-            projectId:         "meduni9-869eb",
-            storageBucket:     "meduni9-869eb.firebasestorage.app",
-            messagingSenderId: "973084052366",
-            appId:             "1:973084052366:web:6bc6287d3d7bd983d8f2df"
-        };
+        const fbConfig = window.__FIREBASE_CLIENT_CONFIG__;
+        if (!fbConfig || !fbConfig.apiKey) {
+            console.error('[Firebase] Falta firebase-config.js ou apiKey.');
+        }
 
         const fbApp = initializeApp(fbConfig);
         window.__adminFirebase = {
@@ -1028,7 +1148,7 @@
             db: getFirestore(fbApp),
             provider: new GoogleAuthProvider(),
             fns: { signInWithPopup, signOut },
-            fs: { collection, getDocs, doc, setDoc, updateDoc },
+            fs: { collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc },
         };
     </script>
 
@@ -1276,14 +1396,19 @@
         function switchSection(name) {
             document.querySelectorAll('.admin-section').forEach(s => s.classList.remove('active'));
             document.querySelectorAll('.admin-nav-item').forEach(b => b.classList.remove('active'));
-            document.getElementById('section-' + name).classList.add('active');
-            event.target.classList.add('active');
+            const sec = document.getElementById('section-' + name);
+            if (sec) sec.classList.add('active');
+            document.querySelectorAll('.admin-nav-item').forEach(btn => {
+                const oc = btn.getAttribute('onclick') || '';
+                if (oc.includes("switchSection('" + name + "')")) btn.classList.add('active');
+            });
             if (name === 'users')      loadUsersSection();
             if (name === 'security')   loadSecuritySection();
             if (name === 'automacoes') loadAutomacoesSection();
             if (name === 'questoes')   loadQuestoesSection();
             if (name === 'git')        loadGitSection();
             if (name === 'feedback')   loadFeedbackSection();
+            if (name === 'email-invites') loadEmailInvitesSection();
         }
 
         // ===================== DATA LOADING =====================
@@ -1300,6 +1425,194 @@
         let adminFirebaseUser = null;
         let remoteUsers = [];
         let profileChangeRequests = [];
+        let emailInvitesData = [];
+
+        function showEmailInvitesFirebaseUI(connected) {
+            const gate = document.getElementById('emailInvitesFirebaseGate');
+            const content = document.getElementById('emailInvitesAdminContent');
+            if (!gate || !content) return;
+            if (connected) {
+                gate.style.display = 'none';
+                content.style.display = 'block';
+            } else {
+                gate.style.display = 'block';
+                content.style.display = 'none';
+            }
+        }
+
+        function updateEmailInvitePlanUI() {
+            const plan = normalizePlan(document.getElementById('emailInvitePlan')?.value);
+            const grupo = document.getElementById('emailInviteModuloGroup');
+            if (grupo) grupo.style.display = plan === 'modulo' ? 'block' : 'none';
+        }
+
+        async function loadEmailInvitesSection() {
+            if (!window.__adminFirebase) {
+                showToast('Firebase não carregado.', true);
+                return;
+            }
+            const currentUser = adminFirebaseUser || window.__adminFirebase.auth.currentUser;
+            if (!currentUser || !isAllowedFirebaseAdmin(currentUser.email)) {
+                showToast('Conecte o Google admin (seção Usuários) primeiro.', true);
+                showEmailInvitesFirebaseUI(false);
+                return;
+            }
+            adminFirebaseUser = currentUser;
+            try {
+                const { collection, getDocs } = window.__adminFirebase.fs;
+                const snap = await getDocs(collection(window.__adminFirebase.db, 'email_access'));
+                emailInvitesData = snap.docs.map(d => ({ id: d.id, ...d.data() }))
+                    .sort((a, b) => String(a.id).localeCompare(String(b.id)));
+                showEmailInvitesFirebaseUI(true);
+                renderEmailInvitesTable();
+            } catch (e) {
+                console.error(e);
+                showToast('Erro ao ler convites: ' + (e.message || e), true);
+            }
+        }
+
+        function renderEmailInvitesTable() {
+            const tbody = document.getElementById('emailInvitesTable');
+            const countEl = document.getElementById('emailInvitesCount');
+            if (!tbody) return;
+            const q = normalizeEmailValue(document.getElementById('emailInviteSearch')?.value || '');
+            const st = document.getElementById('emailInviteFilterStatus')?.value || '';
+            let rows = emailInvitesData.slice();
+            if (q) rows = rows.filter(r => String(r.id).includes(q));
+            if (st === 'ativo') rows = rows.filter(r => r.ativo !== false);
+            if (st === 'inativo') rows = rows.filter(r => r.ativo === false);
+            if (countEl) countEl.textContent = rows.length + ' convite(s)';
+            tbody.innerHTML = rows.map(entry => {
+                const mods = getModulesAccessLabel(entry);
+                const exp = entry.expira ? escHtml(String(entry.expira)) : '—';
+                const active = entry.ativo !== false;
+                return `<tr>
+                    <td><code style="font-size:12px">${escHtml(entry.id)}</code></td>
+                    <td>${escHtml(getPlanLabel(entry.plano))}</td>
+                    <td>${escHtml(mods)}</td>
+                    <td>${escHtml(String(entry.maxDispositivos ?? 2))}</td>
+                    <td>${exp}</td>
+                    <td>${active ? '<span class="badge badge-success">Ativo</span>' : '<span class="badge badge-error">Inativo</span>'}</td>
+                    <td class="btn-group">
+                        <button type="button" class="btn btn-ghost btn-sm" onclick='openEmailInviteModal(${JSON.stringify(entry.id)})'>Editar</button>
+                        <button type="button" class="btn btn-sm ${active ? 'btn-warning' : 'btn-success'}" onclick='toggleEmailInviteActive(${JSON.stringify(entry.id)}, ${!active})'>${active ? 'Desativar' : 'Ativar'}</button>
+                        <button type="button" class="btn btn-danger btn-sm" onclick='deleteEmailInviteDoc(${JSON.stringify(entry.id)})'>Excluir</button>
+                    </td>
+                </tr>`;
+            }).join('') || '<tr><td colspan="7" style="color:var(--text-secondary)">Nenhum convite. Clique em Novo convite.</td></tr>';
+        }
+
+        function openEmailInviteModal(docId) {
+            const isEdit = docId != null && String(docId).trim().length > 0;
+            document.getElementById('emailInviteModalTitle').textContent = isEdit ? 'Editar convite' : 'Novo convite por email';
+            document.getElementById('emailInviteEditingId').value = isEdit ? docId : '';
+            const emailEl = document.getElementById('emailInviteEmail');
+            emailEl.disabled = isEdit;
+            if (!isEdit) {
+                emailEl.value = '';
+                document.getElementById('emailInvitePlan').value = 'vitalicio';
+                document.getElementById('emailInviteModuloNum').value = '1';
+                document.getElementById('emailInviteMaxDev').value = '2';
+                document.getElementById('emailInviteExpiry').value = '';
+                document.getElementById('emailInviteNote').value = '';
+                document.getElementById('emailInviteActive').value = 'true';
+            } else {
+                const entry = emailInvitesData.find(e => e.id === docId);
+                if (!entry) {
+                    showToast('Convite não encontrado na lista. Atualize.', true);
+                    return;
+                }
+                emailEl.value = entry.id;
+                const known = ['modulo','ciclo_basico','ciclo_clinico','ciclo_internato','legado_total','basico','completo','vitalicio'];
+                const p = normalizePlan(entry.plano || 'vitalicio');
+                document.getElementById('emailInvitePlan').value = known.includes(p) ? p : 'vitalicio';
+                const modList = getResolvedModulesForCode(entry);
+                if (p === 'modulo' && modList && modList.length === 1) {
+                    document.getElementById('emailInviteModuloNum').value = String(modList[0]);
+                }
+                document.getElementById('emailInviteMaxDev').value = String(entry.maxDispositivos ?? 2);
+                document.getElementById('emailInviteExpiry').value = entry.expira ? String(entry.expira).slice(0, 10) : '';
+                document.getElementById('emailInviteNote').value = entry.nota || '';
+                document.getElementById('emailInviteActive').value = entry.ativo === false ? 'false' : 'true';
+            }
+            updateEmailInvitePlanUI();
+            document.getElementById('emailInviteModal').classList.remove('hidden');
+        }
+
+        async function saveEmailInviteFromModal() {
+            if (!window.__adminFirebase || !adminFirebaseUser) {
+                showToast('Conecte o Google admin primeiro.', true);
+                return;
+            }
+            const editingId = document.getElementById('emailInviteEditingId').value.trim();
+            const rawEmail = document.getElementById('emailInviteEmail').value.trim();
+            const email = normalizeEmailValue(rawEmail);
+            if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+                showToast('Email inválido.', true);
+                return;
+            }
+            const plan = normalizePlan(document.getElementById('emailInvitePlan').value);
+            const selMod = parseInt(document.getElementById('emailInviteModuloNum').value, 10);
+            const modulosAcesso = getModulesFromPlan(plan, selMod);
+            if (plan === 'modulo' && !modulosAcesso) {
+                showToast('Selecione um módulo válido para plano módulo único.', true);
+                return;
+            }
+            const maxDispositivos = parseInt(document.getElementById('emailInviteMaxDev').value, 10) || 2;
+            const expVal = document.getElementById('emailInviteExpiry').value;
+            const nota = document.getElementById('emailInviteNote').value.trim();
+            const ativo = document.getElementById('emailInviteActive').value === 'true';
+            const now = new Date().toISOString();
+            const payload = {
+                ativo,
+                plano: plan,
+                modulosAcesso: modulosAcesso || null,
+                maxDispositivos,
+                expira: expVal || null,
+                nota: nota || null,
+                atualizadoEm: now,
+            };
+            if (!editingId) payload.criadoEm = now;
+            try {
+                const { doc, setDoc } = window.__adminFirebase.fs;
+                const docKey = editingId || email;
+                await setDoc(doc(window.__adminFirebase.db, 'email_access', docKey), payload, { merge: true });
+                showToast('Convite salvo no Firebase.');
+                closeModal('emailInviteModal');
+                await loadEmailInvitesSection();
+            } catch (e) {
+                console.error(e);
+                showToast('Erro ao salvar: ' + (e.message || e), true);
+            }
+        }
+
+        async function toggleEmailInviteActive(docId, nextActive) {
+            if (!window.__adminFirebase || !adminFirebaseUser) return;
+            try {
+                const { doc, updateDoc } = window.__adminFirebase.fs;
+                await updateDoc(doc(window.__adminFirebase.db, 'email_access', docId), {
+                    ativo: !!nextActive,
+                    atualizadoEm: new Date().toISOString(),
+                });
+                showToast(nextActive ? 'Convite ativado.' : 'Convite desativado.');
+                await loadEmailInvitesSection();
+            } catch (e) {
+                showToast('Erro: ' + (e.message || e), true);
+            }
+        }
+
+        async function deleteEmailInviteDoc(docId) {
+            if (!confirm('Excluir definitivamente o convite para ' + docId + '?')) return;
+            if (!window.__adminFirebase || !adminFirebaseUser) return;
+            try {
+                const { doc, deleteDoc } = window.__adminFirebase.fs;
+                await deleteDoc(doc(window.__adminFirebase.db, 'email_access', docId));
+                showToast('Convite excluído.');
+                await loadEmailInvitesSection();
+            } catch (e) {
+                showToast('Erro: ' + (e.message || e), true);
+            }
+        }
 
         function normalizeEmailValue(value) {
             return String(value || '').trim().toLowerCase();
@@ -1475,6 +1788,7 @@
             content.style.display = 'none';
             status.textContent = message || 'Aguardando autenticação Firebase.';
             status.style.color = isError ? 'var(--error)' : 'var(--text-secondary)';
+            showEmailInvitesFirebaseUI(false);
         }
 
         async function connectFirebaseAdmin() {
@@ -1502,6 +1816,7 @@
             } catch {}
             adminFirebaseUser = null;
             renderUsersGate('Google admin desconectado.');
+            showEmailInvitesFirebaseUI(false);
         }
 
         async function loadUsersSection() {
@@ -1541,6 +1856,7 @@
                 gate.style.display = 'block';
                 content.style.display = 'block';
                 renderUsersSection();
+                showEmailInvitesFirebaseUI(true);
             } catch {
                 renderUsersGate('Erro ao ler usuários/solicitações no Firebase.', true);
             }

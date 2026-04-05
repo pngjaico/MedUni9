@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Câncer é a segunda causa de morte no Brasil (atrás de doença cardiovascular) e onipresente nas provas de medicina. A Uninove cobra especialmente: diferença entre benigno e maligno, os mecanismos de carcinogênese (proto-oncogenes × genes supressores de tumor), disseminação linfática vs. hematogênica e o sistema TNM de estadiamento. Questões de raciocínio clínico frequentemente pedem prognóstico baseado em achados histopatológicos.
+Câncer é a segunda causa de morte no Brasil (atrás de doença cardiovascular) e onipresente nas provas de medicina. A **Uninove** cobra especialmente: diferença entre benigno e maligno, os mecanismos de carcinogênese (proto-oncogenes × genes supressores de tumor), disseminação linfática vs. hematogênica e o sistema TNM de estadiamento. Questões de raciocínio clínico frequentemente pedem prognóstico baseado em achados histopatológicos.
 
 ### Figura sugerida
 
@@ -94,16 +94,14 @@ O estadiamento orienta o tratamento e prediz o prognóstico. Estádio I: T peque
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Benigno = -oma; maligno = -carcinoma (epitélio) ou -sarcoma (conjuntivo).**
-- **Carcinogênese:** iniciação (mutação) → promoção (proliferação) → progressão (invasão).
-- **Proto-oncogene:** 1 mutação basta (dominante); supressor: two-hit (recessivo).
-- **Carcinoma in situ (Tis):** maligno mas sem invasão — terapêutico vs. paliativo.
-- **Linfonodo sentinela:** técnica para evitar esvaziamento ganglionar desnecessário.
-- **Metástase para osso:** mama, próstata, pulmão, rim, tireóide.
-- **Estadiamento IV = M1:** metástase à distância presente.
-- **E-caderina:** perde-se para a célula poder se desprender e metastatizar.
+
+Benigno = -oma; maligno = -carcinoma (epitélio) ou -sarcoma (conjuntivo). Carcinogênese: iniciação (mutação) → promoção (proliferação) → progressão (invasão). Proto-oncogene: 1 mutação basta (dominante); supressor: two-hit (recessivo).
+
+Carcinoma in situ (Tis): maligno mas sem invasão — terapêutico vs. paliativo. Linfonodo sentinela: técnica para evitar esvaziamento ganglionar desnecessário. Metástase para osso: mama, próstata, pulmão, rim, tireóide.
+
+Estadiamento IV = M1: metástase à distância presente. E-caderina: perde-se para a célula poder se desprender e metastatizar.
 
 ### Diferenciações que a Uninove adora cobrar
 

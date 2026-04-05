@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A simulação é onde alunos aprendem a lidar com constrangimento próprio e do paciente. A Uninove cobra não apenas técnica, mas comunicação, consentimento e habilidade clínica ao examinar temas sensíveis. Diferença entre simulação (modelo sem sensibilidade) e real (pessoa com ansiedade, pudor, dor) é fundamental — o examinador profissional maneja ambas situações com competência e empatia. Documentação clara de achados é responsabilidade médica para continuidade de cuidado.
+A simulação é onde alunos aprendem a lidar com constrangimento próprio e do paciente. A **Uninove** cobra não apenas técnica, mas comunicação, consentimento e habilidade clínica ao examinar temas sensíveis. Diferença entre simulação (modelo sem **sensibilidade**) e real (pessoa com ansiedade, pudor, dor) é fundamental — o examinador profissional maneja ambas situações com competência e empatia. Documentação clara de achados é responsabilidade médica para continuidade de cuidado.
 
 
 
@@ -61,20 +61,26 @@ Simulação treina sem pressão real. Paciente real exige competência + empatia
 
 ---
 
+## Erros Comuns de Prova
+
+- Pular pregunta-chave por "óbvio demais".
+- Confundir sinal de um órgão com manifestação de outro.
+- Não correlacionar sequência temporal dos sintomas.
+
+> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+
 ## Pré-Prova
 
 > Leia 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Consentimento informado:** requisito ético e legal antes de qualquer exame.
-- **Explicação clara:** paciente entende por que se faz, reduz ansiedade.
-- **Sequência estruturada:** inspeção → ausculta → palpação superficial → profunda → manobras.
-- **Lentidão deliberada:** em temas sensíveis, pressa é inimiga da confiança.
-- **TCV bilateral:** precisa fazer mesmo, é exame objetivo.
-- **Documentação:** específica, objetiva, sem interpretação exagerada.
-- **Feedback:** aproveita simulação para treinar erros sem consequência.
-- **Etica + Técnica:** ambas são obrigatórias; não escolhe uma.
+
+Consentimento informado: requisito ético e legal antes de qualquer exame. Explicação clara: paciente entende por que se faz, reduz ansiedade. Sequência estruturada: inspeção → ausculta → palpação superficial → profunda → manobras.
+
+Lentidão deliberada: em temas sensíveis, pressa é inimiga da confiança. TCV bilateral: precisa fazer mesmo, é exame objetivo. Documentação: específica, objetiva, sem interpretação exagerada.
+
+Feedback: aproveita simulação para treinar erros sem consequência. Etica + Técnica: ambas são obrigatórias; não escolhe uma.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -89,46 +95,3 @@ Simulação treina sem pressão real. Paciente real exige competência + empatia
 ### Frase-âncora para não esquecer
 
 > **"Consentimento primeiro. Explicar cada etapa. Técnica é a mesma; comunicação diferencia simulação de real. Erro em simulação = treino. Profissionalismo + gentileza = confiança do paciente."**
-
-## Aplicação em Caso Clínico
-
-A semiologia não é memorização de sinais — é raciocínio integrado. No caso real, primeira pergunta orienta as próximas. Paciente com dor abdominal que piora com movimento não é a mesma história de quem tem dor mas anda tranquilo. Essa lógica é o que diferencia resposta mediana de resposta excelente na prova com caso.
-
-## Ponte com a Clínica
-
-Na rotina, a semiologia bem feita reduz erro diagnóstico. Inspetor atento evita ensaios desnecessários. Paciente que confia no examinador oferece informações mais precisas. Essa confiança vem também de comunicação clara sobre por que se pergunta o que se pergunta, especialmente em temas sensíveis como saúde reprodutiva.
-
-## Erros Comuns de Prova
-
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
-
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
-
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Foco anamnese:** características temporais, fatores desencadeantes e contexto.
-- **Foco exame:** simetria, localização precisa, manobras especiais.
-- **habilidade clínica:** conceito-base para lógica de raciocínio.
-- **contexto ético-sensível:** diferenciação mais cobrada.
-- **:** aplicação prática.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Anamnese | Exame físico | Anamnese: o que o paciente relata; exame: o que você documenta |
-| Sinal subjetivo | Sinal objetivo | Subjetivo: dor, coceira; objetivo: edema, massa palpável |
-| Achado focal | Achado difuso | Focal localizado em região específica; difuso em múltiplas regiões |
-| Padrão agudo | Padrão crônico | Agudo: horas a dias; crônico: semanas a meses com ou sem variação |
-
-### Frase-âncora para não esquecer
-
-> "Semiologia é pergunta + observação + palpação + integração. Nunca pule uma etapa por óbvio."

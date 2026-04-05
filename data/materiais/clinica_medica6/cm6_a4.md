@@ -1,70 +1,79 @@
 # Funcionalidade em Geriatria e Síndrome de Fragilidade
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 35–45 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (fragilidade, avaliação geriátrica, prevenção de incapacidade)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Fragilidade** é um síndrome de vulnerabilidade biológica a estressores, associado a maior risco de **quedas**, **internação**, **perda de independência** e **mortalidade**. Diferente de simples envelhecimento ou comorbidades isoladas, a fragilidade integra **perda de reserva fisiológica** em múltiplos sistemas. Em provas e práticas de saúde da família, cai o reconhecimento de critérios, a diferença para **sarcopenia** e **pré-fragilidade**, e intervenções baseadas em **exercício**, **nutrição** e revisão geriátrica.
+A **síndrome de fragilidade** é um estado de **vulnerabilidade** a estressores em que múltiplos sistemas perdem reserva, aumentando risco de **quedas**, **hospitalização**, **institucionalização** e **morte**. No *Cecil*, o foco saiu de “só idade cronológica” para **função** (marcha, força, cognição, autonomia). Em prova, **critérios de fragilidade** (fenótipo de Fried ou adaptações) e instrumentos como **velocidade da marcha** e **Short Physical Performance Battery (SPPB)** aparecem como formas de **estratificar risco** e planejar intervenção (exercício, nutrição, revisão medicamentosa).
 
 ---
 
-## Definições operacionais (o que a banca espera)
+## Por que “funcionalidade” importa mais que o número no RG
 
-### Fragilidade (conceito fenotípico de Fried — ideia central)
+**Atividades básicas da vida diária (ABVD)** e **instrumentais (AIVD)** traduzem o impacto real da doença. Um paciente com **PAH controlada** mas **impossibilitado de sair de casa** tem prioridade de manejo distinta daquele que **caminha todos os dias**.
 
-Componentes frequentemente citados: **perda de peso não intencional**, **exaustão subjetiva**, **baixa atividade física**, **lentidão na marcha**, **fraqueza muscular** (por exemplo, preensão palmar reduzida). Quanto mais critérios, maior gravidade.
-
-### Pré-fragilidade
-
-Presença de **1 ou 2** critérios — janela para intervenção antes da transição para dependência.
-
-### Sarcopenia
-
-Perda de **massa e função muscular** relacionada à idade; pode coexistir com fragilidade e agravar prognóstico.
-
-> **Pegadinha:** IMC “normal” pode esconder **sarcopenia** (peso aparentemente ok com pouca massa magra — obesidade sarcopênica).
-
----
-
-## Avaliação funcional na prática
-
-| Ferramenta / conceito | Utilidade |
-|----------------------|-----------|
-| Atividades básicas de vida diária (AVDs) | Banho, vestir, transferir, continência |
-| Atividades instrumentais (AIVDs) | Compras, finanças, medicamentos, transporte |
-| Marcha e equilíbrio | Timed Up and Go (conceito), testes de curta distância |
+| Domínio | Exemplos de medida |
+|---------|-------------------|
+| Mobilidade | Velocidade da marcha, “Timed Up and Go”, SPPB |
+| Força | Handgrip (força de preensão) |
 | Cognição | Mini-Mental, MoCA (conforme contexto) |
-| Visão, audição, nutrição | Frequentemente negligenciados e reversíveis |
+| Nutrição | Perda de peso não intencional, albumina (interpretar com cautela) |
+
+> **Pegadinha:** **fragilidade** pode coexistir com **IMC “normal”** — sarcopenia e perda de massa muscular não se veem só na balança.
 
 ---
 
-## Intervenções com evidência de senso comum bem aplicado
+## Definição operacional: fenótipo de Fried (conceito clássico)
 
-1. **Exercício multicomponente** (aeróbio + resistência + equilíbrio).  
-2. **Suporte nutricional** quando déficit proteico/energético.  
-3. **Revisão de medicamentos** para reduzir sedação e hipotensão ortostática.  
-4. **Prevenção de quedas** (ambiente, uso de dispositivos, tratar visão).  
-5. **Integração com APS** para longitudinalidade.
+Critérios frequentemente citados na literatura (presença de **3 ou mais** componentes = fragilidade; **1–2** = pré-fragilidade):
 
-> **Dica de Prova:** a melhor resposta para “como reverter fragilidade” raramente é um fármaco isolado; pense **multimodalidade** e **hábitos**.
+1. **Perda de peso** não intencional (ex.: >5 kg/ano ou equivalente).  
+2. **Exaustão** (escalas validadas).  
+3. **Baixa atividade física** (questionários calibrados).  
+4. **Lentidão da marcha** (tempo para percorrer distância padronizada).  
+5. **Fraqueza muscular** (força de preensão ajustada a sexo e IMC).
+
+> **Dica de Prova:** você não precisa decorar cortes numéricos soltos — precisa saber **que são cinco domínios** e que fragilidade é **síndrome clínica**, não só “idoso magro”.
+
+---
+
+## Ferramentas práticas à beira-leito
+
+- **Velocidade da marcha** — preditor robusto de desfechos; simples.  
+- **SPPB** — equilíbrio, marcha, levantar da cadeira; pontuação baixa associa-se a quedas e mortalidade.  
+- **Timed Up and Go** — tempo para levantar, caminhar 3 m, voltar e sentar; útil para quedas e planejamento de cirurgia.
+
+### Integração com a equipe
+
+Avaliação geriátrica amplia (visão, audição, humor, cuidador, ambiente domiciliar) completa o quadro — o texto de graduação costuma cobrar **reconhecer necessidade de avaliação multidimensional**, não substituir fisioterapia ou trabalho social.
+
+---
+
+## Pré-fragilidade e prevenção
+
+Intervenções com **exercício multimodal** (aeróbio + resistência + equilíbrio), **suporte nutricional** quando déficit, e **redução de fármacos** desnecessários podem **atrasar** transição para fragilidade estabelecida.
+
+> **Pegadinha:** tratar **pressão “número perfeito”** com hipotensão ortostática e quedas — o alvo pressórico no idoso frágil é **individualizado**.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente de 78 anos com diabetes e HAS controlados “no papel”, mas que parou de sair de casa por medo de cair, já está em **ciclo de descondicionamento**. Tratar só a glicemia sem avaliar **marcha**, **força**, **depressão** e **ambiente doméstico** é medicina pela metade. A geriatria forte começa com **função**, não só com números laboratoriais.
+Paciente de 78 anos com **HRC** estável mas **medo de cair** e **evita sair**: avalie **marcha**, **medicamentos** (benzodiazepínicos, anti-hipertensivos), **visão**, **ambiente** (tapetes, iluminação). Fragilidade é **tratável em parte** — não é apenas encaminhar “para o lar” sem tentativa de **reabilitação** e **segurança da casa**.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Fragilidade = vulnerabilidade a estressores; fenótipo clássico com múltiplos domínios.
-- Pré-fragilidade = oportunidade de intervenção.
-- Avalie AVDs/AIVDs, marcha, cognição, nutrição.
-- Exercício e nutrição são pilares; reduza iatrogenia.
+- Fragilidade = **síndrome** com componentes mensuráveis (Fried e outros modelos).  
+- **Função** (marcha, força) prediz melhor que idade sozinha.  
+- **SPPB**, **TUG**, **velocidade da marcha** são exemplos de testes funcionais.  
+- **Pré-fragilidade** é janela para intervenção.  
+- Metas clínicas (PA, glicemia) devem **respeitar** risco de quedas e ortostatismo.
 
 ---
 
@@ -74,32 +83,19 @@ Paciente de 78 anos com diabetes e HAS controlados “no papel”, mas que parou
 
 ### O que você PRECISA saber
 
-- **Critérios fenotípicos** (ideia geral, não decorar números soltos).
-- **Diferença** fragilidade × multimorbidade × sarcopenia.
-- **AIVDs** caem muito: perder dirigir ou gerir remédios = alerta.
-- **Timed Up and Go** — conceito de rastreio de mobilidade.
+- **Critérios fenotípicos** de Fried (ideia dos 5 domínios).  
+- **Velocidade da marcha** e **SPPB** como prognóstico.  
+- Diferença **frágil** × **pré-frágil** × **robusto** (conceito).  
+- Objetivos **individualizados** em idoso frágil.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Fragilidade | Descondicionamento | Descondicionamento melhora com treino; fragilidade é mais ampla |
-| Sarcopenia | Cachexia | Cachexia inflamatória/catabólica em contexto de doença grave |
-| Depressão | Demência | Humor predominante × déficits cognitivos progressivos |
-| Instabilidade postural | Neuropatia periférica | Exame neurológico e história (diabetes, B12) |
+| Fragilidade | Descondicionamento | Critérios de síndrome, multimorbidade |
+| Sarcopenia | Obesidade | Composição corporal, força, desempenho |
+| Fragilidade | Depressão | Humor, anedonia, testes específicos |
 
 ### Frase-âncora para não esquecer
 
-> “No idoso, **perda de função** é o desfecho que importa — trate o número para proteger a **marcha**, a **mente** e a **autonomia**.”
-
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Integre esta aula com **internamento**, **ambulatório de especialidade** e **exames complementares** já estudados nos módulos anteriores. Quando houver mais de uma conduta plausível, use o princípio **benefício × risco × disponibilidade no SUS** e documente a decisão como faria em prontuário: **hipótese diagnóstica**, **dados que sustentam**, **plano** e **sinais de alarme** para retorno.
-
-### Leitura de reforço
-
-- Diretrizes de sociedades brasileiras e do Ministério da Saúde quando existirem para o tema
-- Livro-texto de clínica médica e/ou especialidade correspondente
+> “Geriatria boa mede **o que o paciente faz**, não só o que o exame de sangue diz.”

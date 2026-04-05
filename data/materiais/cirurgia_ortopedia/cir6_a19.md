@@ -1,54 +1,85 @@
 # Lesões Ligamentares, Musculares e Tendíneas
 
 **Disciplina:** Cirurgia e Ortopedia 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Sabiston* / *Schwartz* — cirurgia geral (alinhado ao tema) | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Entorses** envolvem ligamentos por trauma em valgo/varo/ rotação. **Distensões musculares** ocorrem em aceleração/bruscamente (isquiotibiais, adutores). **Roturas tendíneas** (Aquiles, supraespinal) podem ser parciais ou totais. Em prova, cobram-se **graus de entorse** (I–III), indicações de **RM** e **cirrgia** (LCA jovem esportista, Aquiles rota tratada operatória em atletas).
+**Entorses** lesionam ligamentos por mecanismos em varo/valgo/rotação. **Distensões musculares** ocorrem em aceleração ou alongamento brusco (**isquiotibiais**, adutores). **Roturas tendíneas** (Aquiles, supraespinal) podem ser parciais ou totais. Em prova, dominam **graus de entorse** (I–III), indicações de **RM**, **reabilitação** progressiva e **cirurgia** (LCA em esportista de alto rendimento, Aquiles rota total em atleta).
 
 ---
 
-## Tornozelo
+## Tornozelo — ligamentos laterais
 
-**Entorse lateral** mais comum — lesão dos ligamentos **peroneais**. Teste **anterior** da fíbula e **squeeze** para sindesmose. **Grau III** pode necessitar **ortese** prolongada ou reparo em atletas de elite.
+Mecanismo inversão → **ligamento talofibular anterior** (LTA) primeiro. **Grau I** — microtears; **II** — ruptura parcial; **III** — instabilidade grave. **RICE** inicial, carga precoce guiada na maioria; **cirurgia de ligamentoplastia** em instabilidade crônica selecionada.
 
----
+### Figura sugerida
 
-## Joelho
+**Figura-ID:** `CIR6-A19-F01`
 
-**LCA** — pivot shift, Lachman. **Menisco** — McMurray (sensibilidade limitada). RM confirma.
-
----
-
-## Ombro
-
-**Lesão SLAP**, **manguito** — ultrassom ou RM. **Luxação recidivante** — **Bankart** artroscópico.
+- **Momento:** após entorse de tornozelo.
+- **O que mostrar:** esquema dos **ligamentos do tornozelo** (peroneais laterais).
+- **Tipo sugerido:** ilustração anatômica.
+- **Legenda (rascunho):** Tornozelo: ligamentos laterais (entorse por inversão).
 
 ---
 
-## Músculo-tendão
+## Joelho — LCA e menisco
 
-**Aquiles** — “chute na panturrilha”, déficit de **Thompson**. **Reparo** cirúrgico vs conservador conforme protocolo e perfil.
+**LCA** — mecanismo de desaceleração/rotação; **estalido** e **hemartrose**. **Menisco** — bloqueio, dor de linha articular. **RM** confirma. **LCA** — reconstrução em casos selecionados; **reabilitação** longa.
 
-> **Pegadinha:** **ruptura de quadríceps** em idoso pós-queda — não confunda com contusão.
+> **Pegadinha:** **hemartrose** em joelho também ocorre em **fratura de platô** — não confie só na “entorse”.
+
+---
+
+## Ombro — manguito e instabilidade
+
+**Lesões do manguito** (supraespinal predominante) em elevação repetida ou trauma. **Luxação anterior** — **Bankart**; **instabilidade multidirecional** — reabilitação intensiva. **USG** e **RM** complementares.
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A19-F02`
+
+- **Momento:** após manguito — anatomia.
+- **O que mostrar:** vista posterior do **ombro** com **tendões do manguito** (SITS).
+- **Tipo sugerido:** ilustração anatômica.
+- **Legenda (rascunho):** Manguito rotador: tendões principais.
+
+---
+
+## Músculo-tendão — Aquiles e isquiotibiais
+
+**Rotura de Aquiles** — “chute na panturrilha”, déficit de **Thompson** positivo. **Tratamento** conservador com bota equinada vs **cirúrgico** — debate por protocolo e perfil. **Isquiotibiais** — distensão vs avulsão apofisária (adolescente).
+
+### Figura sugerida
+
+**Figura-ID:** `CIR6-A19-F03`
+
+- **Momento:** após Aquiles — teste clínico.
+- **O que mostrar:** esquema do **teste de Thompson** (compressão da panturrilha sem flexão plantar).
+- **Tipo sugerido:** desenho clínico.
+- **Legenda (rascunho):** Teste de Thompson positivo: suspeita de rotura do tendão de Aquiles.
 
 ---
 
 ## Ponte com a Clínica
 
-Atleta jovem com **hemartrose** aguda e estalo — **LCA** até prova contrária — joelho imobilizado e RM.
+Atleta jovem com **joelho instável** recorrente — avaliação de **LCA** e **menisco** antes de retorno ao esporte. **Idoso** com **rotura de manguito** assintomático parcial — pode ser conservador; **totais** sintomáticos — cirurgia.
+
+### Erros comuns
+
+Liberar **retorno ao esporte** só por “sumiu a dor” sem testes de saltos/estabilidade; subestimar **reabilitação** pós-LCA; tratar **entorse grau III** como “só repouso” sem avaliar instabilidade crônica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Grau de entorse guia imobilização.
-- Sindesmose — maior tempo de recuperação.
-- Aquiles — Thompson positivo.
-- Manguito — idade >40 anos degenerativo comum.
+- Entorse: graus; tornozelo — LTA mais comum.
+- LCA: RM; hemartrose — differential amplo.
+- Aquiles: Thompson; tratamento individualizado.
+- Manguito: USG/RM; reabilitação antes de cirurgia em parciais.
 
 ---
 
@@ -58,44 +89,37 @@ Atleta jovem com **hemartrose** aguda e estalo — **LCA** até prova contrária
 
 ### O que você PRECISA saber
 
-- **Ottawa** — reduz RX tornozelo.
-- **Segundos lesão** em tornozelo mal reabilitado — instabilidade crônica.
-- **Stener lesion** — ligamento ulnar do polegar — cirúrgico.
-- **De Quervain** — primeiro extensor.
+- **O'Donoghue** — triade málefica (LCM, menisco medial, LCP) — conceito histórico.
+- **Segond** — avulsão lateral em LCA (RX).
+- **RTP** — return to play critérios objetivos.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Entorse grau I | III | Laxidade, dor |
-| LCA | menisco | Mecanismo, RM |
-| Ruptura Aquiles | gastrocnemio | Localização dor, Thompson |
-| Tendinite | ruptura | USG/RM |
+| Lesão muscular | DVT | USG Doppler, Wells |
+| Rotura Aquiles | entorse | Thompson, gap palpável |
+| LCA | menisco | Testes clínicos, RM |
 
 ### Frase-âncora para não esquecer
 
-> “**Entorse** não tratada vira **tornozelo frouxo** — reabilitação é **obrigação**.”
-
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
-
-### Leitura de reforço
-
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
-
+> “**Hemartrose** não é só LCA — **fratura** até provar o contrário.”
 
 ---
 
 ## Aprofundamento — visão cirúrgica e propedêutica
 
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
+Relacione **reconstrução do LCA** com enxerto e **reabilitação** em fases. **Plasma rico em plaquetas** — evidência variável — não substitui base científica sólida.
 
 ### Leitura de reforço
 
-- Livro-texto de cirurgia geral / traumatologia ortopédica
-- Protocolos institucionais de antibiótico profilático e anticoagulação perioperatória
+- Consenso de joelho esportivo
+- Reabilitação de tendão de Aquiles
+
+---
+
+### Reflexão final — fechamento da aula
+
+Antes de encerrar o estudo deste arquivo, responda mentalmente: qual teste físico mudaria sua suspeita de LCA? Quando você pediria RM sem radiografia? Onde a banca costuma confundir entorse com fratura?
+
+Releia o bloco **Pré-Prova** no dia seguinte — revisão espaçada fixa melhor que maratonar a mesma aula.

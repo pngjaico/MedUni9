@@ -10,6 +10,10 @@
 //   - criadoEm:   string (required) - ISO 8601 date string
 //   - disciplina: string (optional, max 20 chars) - sigla da disciplina
 //
+// Collection: email_access
+// Document ID: email em minúsculas (normalizado)
+// Fields: ativo, plano, modulosAcesso, maxDispositivos, expira, nota, criadoEm, atualizadoEm
+//
 // Collection: users
 // Document ID: Firebase Auth UID
 // Fields:
@@ -73,6 +77,17 @@ service cloud.firestore {
     match /feedback/{docId} {
       allow read, update, delete: if false;
       allow create: if isValidFeedback();
+    }
+
+    // Convites por email (liberação de acesso sem chave estática)
+    // Document ID = email em minúsculas (normalizado no app/admin)
+    match /email_access/{emailDocId} {
+      allow read: if isAdmin() || (
+        request.auth != null &&
+        request.auth.token.email != null &&
+        request.auth.token.email.lower() == emailDocId
+      );
+      allow create, update, delete: if isAdmin();
     }
   }
 

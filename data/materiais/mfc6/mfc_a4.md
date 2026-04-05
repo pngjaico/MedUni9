@@ -1,68 +1,73 @@
 # Programas de Tratamento na APS — Tuberculose e Tabagismo
 
-**Disciplina:** Medicina de Família e Comunidade  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Disciplina:** Medicina de Família e Comunidade 6  
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-No Brasil, a **tuberculose (TB)** permanece como agravo de notificação compulsória com **tratamento supervisionado** e **quimioprofilaxia** em contatos selecionados. O **tabagismo** é fator de risco modificável para **câncer**, **DPOC** e **doença cardiovascular** — abordagem estruturada na APS reduz carga de morbimortalidade. Em prova, cobram-se **esquema básico RIPE** (conceito), **monitoramento hepático**, **notificação** e **linhas de cessação tabágica** (NRT, bupropiona, vareniclina).
+A **APS** é palco de **programas estratégicos** do Ministério da Saúde: **controle da tuberculose** (rastreio, DOTS, tratamento supervisionado) e **controle do tabagismo** (cessação, grupos, TRN). Em prova, dominam **indicações de tratamento** para TB latente vs ativa, **esquemas** com **rifampicina + isoniazida** (conforme protocolo atualizado), **efeitos adversos** hepáticos e **abordagem breve** ao tabagista.
 
 ---
 
 ## Tuberculose — papel da APS
 
-### Suspeita
+**Sintomas** de alerta: tosse >3 semanas, sudorese noturna, emagrecimento. **Teste rápido molecular** ou **baciloscopia** conforme disponibilidade. **Notificação** compulsória. **Tratamento diretamente observado (DOT)** quando indicado.
 
-Tosse >3 semanas, febre, sudorese noturna, emagrecimento, hemoptise. Radiografia de tórax e **baciloscopia** ou **molecular** (Xpert MTB/RIF) conforme rede.
+### Figura sugerida
 
-### Tratamento
+**Figura-ID:** `MFC6-A04-F01`
 
-Esquema **fases** intensiva e manutenção com **isoniazida**, **rifampicina**, **pirazinamida**, **etambutol** (ajustes por resistência e protocolo). **Supervisão** do uso (DOTS) aumenta adesão.
-
-> **Pegadinha:** **hepatotoxicidade** — orientar sinais de icterícia e revisar fármacos concomitantes e álcool.
-
-### Profilaxia
-
-**Contatos** de casos índice e **latent infection** (conceito) com **INH** ou regimes alternativos conforme Ministério da Saúde e idade.
+- **Momento:** após TB — bacilo.
+- **O que mostrar:** **microscopia** de **BAAR** positivo (bacilos roxos).
+- **Tipo sugerido:** microscopia Ziehl-Neelsen.
+- **Legenda (rascunho):** Tuberculose: baciloscopia positiva.
 
 ---
 
-## Tabagismo — abordagem na UBS
+## TB latente vs ativa
 
-### Cessação
+**Latente** — infecção sem doença clínica/radiológica ativa; **tratamento** para reduzir risco de ativação em grupos de risco (imunossuprimidos, contatos). **Ativa** — esquema com **múltiplos fármacos** por meses.
 
-1. **Perguntar** sobre tabaco em toda consulta.  
-2. **Aconselhar** de forma breve e personalizada.  
-3. **Avaliar** grau de dependência (Fagerström — ideia).  
-4. **Assistir** com **NRT**, **bupropiona**, **vareniclina** quando não houver contraindicação.  
-5. **Agendar** retorno.
+### Figura sugerida
 
-### Grupos especiais
+**Figura-ID:** `MFC6-A04-F02`
 
-Gestantes, adolescentes, comorbidade psiquiátrica — adaptar abordagem e escolha farmacológica.
+- **Momento:** após esquema — fases.
+- **O que mostrar:** tabela de **fases** do tratamento da TB ativa (intensiva/continuação) — esquema ilustrativo MS.
+- **Tipo sugerido:** tabela de bolso.
+- **Legenda (rascunho):** Tratamento da TB: fases e medicamentos.
 
 ---
 
-## Vigilância e vínculo
+## Tabagismo — intervenção na APS
 
-TB exige **acompanhamento** próximo por abandono. Tabagismo recai — **normalizar** recaída como parte do processo e reengajar.
+**5A**, **linha de cuidado**, **grupos de apoio**. **TRN** e **bupropiona/vareniclina** conforme indicação. **Rastreio** de **DPOC** e **câncer** em tabagista.
+
+### Figura sugerida
+
+**Figura-ID:** `MFC6-A04-F03`
+
+- **Momento:** após 5A — ciclo.
+- **O que mostrar:** roda das **5A** ilustrada.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** Abordagem do tabagista: estratégia 5A.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com TB e **alcoolismo ativo** precisa de **abordagem conjunta** com serviço de saúde mental ou CAPS — sem resolver adesão, não há cura bacteriológica. O MFC **não** prescreve só comprimido; **articula rede**.
+**Hepatotoxicidade** — orientar sinais amarelos; **VDRL** e **HIV** em TB. **Coinfecção** — manejo especializado.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- TB: notificar, tratar com esquema completo, monitorar toxicidade.
-- Contatos: rastreio e quimioprofilaxia conforme protocolo.
-- Tabagismo: NRT + farmacoterapia + retorno.
-- DOTS aumenta conclusão de tratamento.
+- TB: sintomas, rastreio, DOT, notificação.
+- Latente vs ativa — decisão de tratamento.
+- Tabagismo: 5A; TRN.
+- Efeitos adversos e adesão.
 
 ---
 
@@ -72,31 +77,45 @@ Paciente com TB e **alcoolismo ativo** precisa de **abordagem conjunta** com ser
 
 ### O que você PRECISA saber
 
-- **RIPE** — nomes e fase de uso (ideia geral).
-- **Sinais de hepatotoxicidade** e quando suspender.
-- **TB/HIV** — coinfecção: manejo especializado.
-- **5 A’s** ou **Ask-Advise-Assist** na cessação.
+- **Resistência** — testes de sensibilidade.
+- **TB pleural** — ADA em contexto.
+- **Gravidez** — esquemas seguros (protocolo).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| TB pulmonar | outras pneumonias | AFD, PCR, epidemiologia |
-| Latent vs ativa | IGRA/PPD | Radiografia, sintomas, cultura |
-| Dependência nicotínica | hábito social | Fagerström, cigarros/dia |
+| TB | pneumonia | Evolução, BAAR, PCR |
+| Latente | ativa | Imagem, clínica |
+| Dependência nicotínica | uso social | Fagerström, CAGE |
 
 ### Frase-âncora para não esquecer
 
-> “**TB curada** é TB **tomada até o fim** — adesão é droga.”
-
+> “**TB** cura com **tempo** e **adesão** — a APS **segura** o paciente.”
 
 ---
 
-## Aprofundamento — APS e longitudinalidade
+## Aprofundamento — raciocínio clínico
 
-Posicione o tema na **atenção primária**: vínculo, **território**, **equipe** e **coordenação do cuidado**. Pergunte-se em cada tópico: o que pode ser **resolvido na UBS**, o que exige **regulação** e o que precisa de **encaminhamento** com contrarreferência. Inclua **educação em saúde** e **prevenção** quando fizer sentido clínico.
+Integre **vigilância epidemiológica** e **busca ativa** de contatos.
 
 ### Leitura de reforço
 
-- Cadernos de Atenção Básica do Ministério da Saúde relacionados ao tema
-- Manual de MFC / materiais da SBMFC quando aplicável
+- Manual de recomendações para o controle da tuberculose no Brasil (MS)
+- OMS — MPOWER tabagismo
+
+---
+
+### Erros comuns em prova e plantão
+
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
+
+### Reflexão final
+
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

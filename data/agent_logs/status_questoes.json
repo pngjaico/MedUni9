@@ -1,27 +1,15 @@
 {
   "status": "ok",
-  "rodou_em": "04/04/2026 02:00",
+  "rodou_em": "05/04/2026 02:00",
   "meta_questoes_por_aula": 5,
   "stats": {
-    "total_aulas_com_material": 270,
-    "com_meta_atingida": 0,
-    "sem_nenhuma": 270,
-    "total_questoes": 101
+    "total_aulas_com_material": 331,
+    "com_meta_atingida": 7,
+    "sem_nenhuma": 288,
+    "total_questoes": 191
   },
-  "total_na_fila": 270,
+  "total_na_fila": 324,
   "fila_prioridade": [
-    {
-      "aula_id": "sus_a1",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Processo Saúde-Doença e Determinantes Sociais",
-      "aula_descricao": "Conceito de saúde-doença, DSS e vulnerabilidade: condições econômicas e sociais que afetam a saúde.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a1.md",
-      "score": 210
-    },
     {
       "aula_id": "sus_a2",
       "materia_id": "sus",
@@ -32,42 +20,6 @@
       "questoes_atuais": 0,
       "questoes_faltam": 5,
       "material_path": "materiais/modulo1/sus/sus_a2.md",
-      "score": 210
-    },
-    {
-      "aula_id": "sus_a3",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Antecedentes Históricos do SUS — Nova República e Reforma Sanitária",
-      "aula_descricao": "Período da Nova República (1985-1988): Movimento pela Reforma Sanitária, 8ª Conferência Nacional de Saúde e a criação do SUS.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a3.md",
-      "score": 210
-    },
-    {
-      "aula_id": "sus_a4",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "O SUS e as Leis Orgânicas da Saúde",
-      "aula_descricao": "O SUS na Constituição Federal, Leis 8.080 e 8.142, princípios doutrinários e organizativos.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a4.md",
-      "score": 210
-    },
-    {
-      "aula_id": "sus_a5",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Pacto pela Vida",
-      "aula_descricao": "Saúde do Idoso, Controle do Câncer de Colo e Mama, Redução da Mortalidade Infantil/Materna e Doenças Emergentes/Endemias.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a5.md",
       "score": 210
     },
     {
@@ -92,30 +44,6 @@
       "questoes_atuais": 0,
       "questoes_faltam": 5,
       "material_path": "materiais/modulo1/sus/sus_a7.md",
-      "score": 210
-    },
-    {
-      "aula_id": "sus_a8",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "PNAB e Estratégia Saúde da Família",
-      "aula_descricao": "Política Nacional de Atenção Básica, implantação e operacionalização da ESF, equipe mínima e atributos da APS.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a8.md",
-      "score": 210
-    },
-    {
-      "aula_id": "sus_a9",
-      "materia_id": "sus",
-      "materia_nome": "Princípios e Diretrizes do SUS",
-      "modulo": 1,
-      "aula_tema": "Ferramentas de Abordagem Familiar e Comunitária",
-      "aula_descricao": "Genograma, ecomapa e Educação Popular em Saúde no contexto territorial.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/sus/sus_a9.md",
       "score": 210
     },
     {
@@ -251,42 +179,6 @@
       "score": 210
     },
     {
-      "aula_id": "bmf1_a3",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Generalidades do Sistema Esquelético",
-      "aula_descricao": "Classificação dos ossos, funções do esqueleto e organização geral.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a3.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a4",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Conjuntivo — Células e Matriz",
-      "aula_descricao": "Células do tecido conjuntivo e composição da matriz conjuntiva.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a4.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a5",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Ósseo — Estrutura e Ossificação",
-      "aula_descricao": "Características morfológicas do tecido ósseo e processo de ossificação intramembranosa e endocondral.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a5.md",
-      "score": 210
-    },
-    {
       "aula_id": "bmf1_a6",
       "materia_id": "bmf1",
       "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
@@ -296,30 +188,6 @@
       "questoes_atuais": 0,
       "questoes_faltam": 5,
       "material_path": "materiais/modulo1/bmf1/bmf1_a6.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a7",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Generalidades do Sistema Articular",
-      "aula_descricao": "Classificação articular (fibrosas, cartilaginosas, sinoviais) e componentes das articulações.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a7.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a8",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Tecido Cartilaginoso",
-      "aula_descricao": "Tipos de cartilagem (hialina, elástica, fibrosa) e suas funções.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a8.md",
       "score": 210
     },
     {
@@ -356,30 +224,6 @@
       "questoes_atuais": 0,
       "questoes_faltam": 5,
       "material_path": "materiais/modulo1/bmf1/bmf1_a11.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a12",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Fisiologia da Contração Muscular",
-      "aula_descricao": "Mecanismo molecular da contração, acoplamento excitação-contração.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a12.md",
-      "score": 210
-    },
-    {
-      "aula_id": "bmf1_a13",
-      "materia_id": "bmf1",
-      "materia_nome": "Bases Morfofuncionais 1 — Locomotor e Digestório",
-      "modulo": 1,
-      "aula_tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
-      "aula_descricao": "Identificação de músculos do dorso, MS e MI; histologia do tecido muscular; vasos e nervos.",
-      "questoes_atuais": 0,
-      "questoes_faltam": 5,
-      "material_path": "materiais/modulo1/bmf1/bmf1_a13.md",
       "score": 210
     },
     {
@@ -729,13 +573,169 @@
       "questoes_faltam": 5,
       "material_path": "materiais/modulo1/pe1/pe1_a6.md",
       "score": 210
+    },
+    {
+      "aula_id": "pe1_a7",
+      "materia_id": "pe1",
+      "materia_nome": "Projeto Extensionista 1 — Vivência na Atenção Básica",
+      "modulo": 1,
+      "aula_tema": "Materiais Educativos e Relatório Extensionista",
+      "aula_descricao": "Produção de infográficos, folders e cartilhas; artigo/relato de experiência.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo1/pe1/pe1_a7.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a2",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Propriedades do Músculo Cardíaco",
+      "aula_descricao": "Propriedades do músculo cardíaco e respostas fisiológicas cardiovasculares.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a2.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a3",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Circulação Sistêmica e Pulmonar; Tipos de Vasos",
+      "aula_descricao": "Morfologia e diferenciação dos vasos sanguíneos; circulação sistêmica e pulmonar.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a3.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a4",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Câmaras, Valvas e Ciclo Cardíaco",
+      "aula_descricao": "Morfologia das câmaras e valvas cardíacas; fases do ciclo cardíaco.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a4.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a5",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Histologia Cardíaca",
+      "aula_descricao": "Endocárdio, miocárdio e epicárdio; diferenciação histológica.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a5.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a6",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "ECG e Ciclo Cardíaco",
+      "aula_descricao": "Relação das ondas do ECG com o ciclo cardíaco e propagação do potencial de ação.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a6.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a7",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Débito Cardíaco e Lei de Starling",
+      "aula_descricao": "Débito cardíaco, métodos de determinação e como o estiramento aumenta a fração de ejeção.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a7.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a8",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Inervação do Coração e Regulação da Pressão Arterial",
+      "aula_descricao": "Inervação simpática/parassimpática; pressão arterial; controle local, neural e humoral.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a8.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a9",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Circulação Coronariana, Microcirculação e Linfática",
+      "aula_descricao": "Circulação coronariana nas fases do ciclo; microcirculação; sistema linfático; isquemia.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a9.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a11",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Histologia do Sistema Respiratório",
+      "aula_descricao": "Túnicas mucosa, submucosa, adventícia; pneumócitos tipo I e II; histologia alveolar.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a11.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a12",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Volumes, Capacidades e Mecânica Pulmonar",
+      "aula_descricao": "Capacidades e volumes pulmonares; complacência e elastância; músculos respiratórios.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a12.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a13",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Trocas Gasosas e Relação Ventilação/Perfusão",
+      "aula_descricao": "Troca gasosa, zonas de West, distribuição de perfusão e ventilação.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a13.md",
+      "score": 210
+    },
+    {
+      "aula_id": "bmf2_a14",
+      "materia_id": "bmf2",
+      "materia_nome": "Bases Morfofuncionais 2 — Sistema Cardiorrespiratório",
+      "modulo": 2,
+      "aula_tema": "Controle Central da Respiração",
+      "aula_descricao": "Centro respiratório central, quimiorreceptores periféricos e resposta ao exercício.",
+      "questoes_atuais": 0,
+      "questoes_faltam": 5,
+      "material_path": "materiais/modulo2/bmf2/bmf2_a14.md",
+      "score": 210
     }
   ],
   "acoes": [
     {
       "tipo": "info",
       "hora": "02:00",
-      "texto": "270 aulas na fila | 270 sem nenhuma questão"
+      "texto": "324 aulas na fila | 288 sem nenhuma questão"
     }
   ]
 }

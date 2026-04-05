@@ -1,85 +1,83 @@
 # Linfomas e Mieloma Múltiplo
 
 **Disciplina:** Clínica Médica 6  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 45–55 min
+**Módulo:** 6 | **Referência principal:** *Goldman-Cecil Medicine* (linfomas Hodgkin e não Hodgkin; plasma cell disorders)  
+**Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Linfomas** são neoplasias do sistema linfático originadas de linfócitos B ou T, divididas classicamente em **Hodgkin** e **não-Hodgkin** (LNH). O **mieloma múltiplo** é uma neoplasia de **plasmócitos** na medula com produção de **imunoglobulina monoclonal** e lesão óssea lítica. Em prova, aparecem linfonodos indolores, **B symptoms**, **anemia**, **hipercalcemia**, **insuficiência renal** e exames como **eletroforese**, **biópsia** e **PET-CT** (conceito de estadiamento).
+**Linfomas** são neoplasias do **sistema linfático** (Hodgkin e não Hodgkin com múltiplos subtipos na classificação WHO). O **mieloma múltiplo** é **neoplasia de plasmócitos** medulares com **disfunção óssea**, **anemia**, **insuficiência renal** e **hipercalcemia**. No *Cecil*, o raciocínio integra **biópsia de linfonodo** ou medula, **imunofenótipo**, **estadiamento** e **tratamento** (quimioterapia, imunoterapia, transplante). Em prova, **sintomas B**, **LAP** e **gamopatia monoclonal** são gatilhos clássicos.
 
 ---
 
 ## Linfoma de Hodgkin (LH)
 
-### Pistas clínicas
+### Características
 
-- Linfadenopatia **cervical** frequente.  
-- **Prurido**, **alcool-related pain** em nódulo (clássico em questões).  
-- **B symptoms:** febre, sudorese noturna, perda de peso.
+Presença de **células de Reed-Sternberg** em contexto inflamatório. **Linfonodomegalia** frequentemente **cervical**; **sintomas B** (febre, perda de peso, sudorese noturna). **Curável** em muitos estágios com **ABVD** ou regimes modernos conforme protocolo.
 
-### Diagnóstico
+> **Dica de Prova:** Hodgkin costuma apresentar **evolução nodal contígua** no estadiamento — entender o conceito ajuda em questões de propedêutica.
 
-**Biópsia excisional** de linfonodo com análise patológica (células de Reed-Sternberg em subtipos clássicos). Estadiamento por imagem.
+### Estadiamento (ideia para prova)
 
-### Tratamento
+O **Ann Arbor** classifica **localização nodal** (um lado do diafragma versus ambos), **envolvimento extranodal** e **sintomas B**. **PET-CT** integra o estadiamento funcional moderno. **E** (extranodal) e **S** (baço) modificam o estágio — não precisa decorar todos os subníveis, mas saber que **estágio** e **prognóstico** guiam **intensidade** do tratamento.
 
-Quimioterapia combinada com esquemas tipo **ABVD** (nome clássico em livros); radioterapia em casos selecionados. Prognóstico geralmente bom nos subtipos tratáveis.
-
-> **Dica de Prova:** Hodgkin costuma ter padrão de disseminação **contígua** (ideia para estadiamento), embora a prova de graduação foque mais em quadro clínico e biópsia.
-
----
-
-## Linfomas não-Hodgkin (LNH)
-
-### Subtipos (visão de prova)
-
-Difusos de grandes células B (DLBCL) é dos mais comuns em adultos; **linfoma folicular** indolente; **linfoma de células do manto**; **linfomas MALT** associados a **H. pylori** (gástrico).
-
-### Apresentação
-
-Linfadenopatia generalizada ou extranodal (GI, SNC). Sintomas B possíveis. Diagnóstico: **biópsia** com imunofenotipagem.
-
-### Tratamento
-
-**R-CHOP** para DLBCL é referência didática; terapias alvo/IMIDs em outros subtipos.
+| Elemento | Significado clínico |
+|----------|---------------------|
+| Linfonodos | Zonas anatômicas (cervical, mediastinal, retroperitoneal…) |
+| Diafragma | I–II unilateral/bilateral acima; III ambos os lados; IV disseminado medular/extra-linfático |
+| Sintomas B | Impacto em prognóstico e escolha de regime |
 
 ---
 
-## Mieloma múltiplo
+## Linfomas não Hodgkin (LNH)
 
-### Tetrad de apresentação (lembre-se)
+Heterogêneos — **indolentes** (ex.: folicular) versus **agressivos** (ex.: difuso grande B). **Biópsia excisional** de linfonodo é preferível quando possível. **R-CHOP** é exemplo clássico de regime para subtipos agressivos B — detalhes são especializados; na graduação, saber **linhagem B versus T** e **agressividade clínica** basta para orientação.
 
-1. **Anemia normocrômica normocítica.**  
-2. **Dor óssea** (vértebras).  
-3. **Insuficiência renal** (cadeias leves).  
-4. **Infecções** recorrentes (imunossupressão).
+**Manifestações extranodais** (GI, SNC) dependem do subtipo e imunossupressão (ex.: associação com vírus em certos linfomas).
 
-### Laboratório
+### Linfomas indolentes versus agressivos (quadro comparativo)
 
-**Proteína monoclonal** no soro e/ou urina (cadeias leves livres). **Hipercalcemia**. **Medula óssea** com plasmócitos aumentados. **Lesões líticas** em radiografia/TC/RM.
+| Aspecto | Indolente (ex.: folicular) | Agressivo (ex.: difuso grande B) |
+|---------|---------------------------|----------------------------------|
+| Curso | Meses a anos sem tratamento imediato em alguns casos | Semanas a poucos meses sem tratamento |
+| Sintomas | Muitas vezes mínimos no início | B symptoms, massas rápidas, LDH elevada |
+| Objetivo terapêutico | Controle prolongado, qualidade de vida | Intenção de cura em subgrupos |
 
-> **Pegadinha:** elevação isolada de **VHS** ou proteína sem contexto — no mieloma, pense **CRP** menos específica; o diagnóstico é **monoclonalidade + medula + órgãos-alvo**.
+---
 
-### Tratamento (linhas gerais)
+## Mieloma múltiplo (MM)
 
-Inibidores de proteassoma, imunomoduladores, anticorpos monoclonais, transplante autólogo em elegíveis.
+### Critérios (ideia para prova)
+
+Clonalidade de **plasmócitos** na medula, **lesões ósseas líticas** em radiografia/RM, **proteína monoclonal** sérica e/ou urinária, **hipercalcemia**, **insuficiência renal**, **anemia** — combinações definem **doença que necessita tratamento** versus **gamopatia monoclonal de significado indeterminado (MGUS)**.
+
+### Complicações
+
+**Fraturas** patológicas, **insuficiência renal** (cadeias leves), **infecções** (hipogamaglobulinemia). **Bifosfonatos** ou análogos em contexto apropriado; **controle hipercalcemico**.
+
+> **Pegadinha:** **proteína monoclonal** isolada **sem** critérios de mieloma **não** significa quimioterapia imediata — seguimento de MGUS.
+
+### Outras gamopatias (para não confundir na prova)
+
+**Amiloidose AL** pode coexistir com discrasias de plasmócitos — manifestações de **restrição** (coração, rins, neuropatia). **Macroglobulinemia de Waldenström** é **linfoma linfoplasmocítico** com **IgM monoclonal** — sangramento, hiperviscosidade. Não confundir com **mieloma IgM** (entidade distinta na classificação atual).
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com **dor lombar** nova em idoso + **creatinina elevada** + **anemia** deve ter **mieloma** na lista antes de atribuir tudo a degeneração de disco. A investigação começa com **eletroforese**, **cálcio**, **função renal** e **hemograma** — não com ressonança da coluna isolada.
+Paciente com **linfadenopatia generalizada** e **febre B** há semanas: **não** prescreva antibiótico empírico prolongado sem **biópsia** quando o quadro for compatível com linfoma — **tempo** de diagnóstico muda estadiamento e tratamento.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Hodgkin: biópsia com padrão patológico clássico; B symptoms; ABVD (nome).
-- LNH: subtipos variados; R-CHOP em DLBCL (referência didática).
-- Mieloma: dor óssea, anemia, renal, hipercalcemia, proteína monoclonal.
-- Linfoma MALT gástrico: associação com H. pylori (tratamento antimicrobiano em casos selecionados).
+- **Hodgkin:** Reed-Sternberg, sintomas B, potencial cura.  
+- **LNH:** heterogeneidade; **biópsia** define subtipo.  
+- **Mieloma:** CRAB ( **C**alcium, **R**enal, **A**nemia, **B**one ) — mnemônico **muito difundido** em livros-texto em inglês; em português: hipercalcemia, rim, anemia, osso.  
+- Diferenciar **MM** tratável de **MGUS** (seguimento).
 
 ---
 
@@ -89,20 +87,19 @@ Paciente com **dor lombar** nova em idoso + **creatinina elevada** + **anemia** 
 
 ### O que você PRECISA saber
 
-- **B symptoms** em linfoma.
-- **Mieloma:** CRAB-like (hiperCalcemia, insuficiência Renal, Anemia, lesões ósseas/Bone).
-- **Biópsia** é obrigatória para linfoma — FNA sozinha costuma ser insuficiente para subtipo.
-- **Monoclonal gammopathy:** nem sempre mieloma — MGUS existe (acompanhamento).
+- Sintomas **B** em linfoma.  
+- **Biópsia** para classificação.  
+- **Mieloma:** lesões ósseas + monoclonal + medula plasmocitária.  
+- **MGUS** versus MM (critérios de tratamento).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Hodgkin | LNH | Patologia e imunofenótipo |
-| Mieloma | Amiloidose leve | Biópsia de gordura/órgão; cadeias e fenótipo |
-| Linfoma | Tuberculose ganglionar | AFB, PCR, epidemiologia; biópsia com granuloma |
-| MGUS | Mieloma | Critérios de end-organ damage e medula |
+| Hodgkin | LNH agressivo | Histologia, padrão de disseminação |
+| MM | Linfoma plasmablástico | Imunofenótipo, medula |
+| Infecção (mononucleose) | Linfoma | Persistência, biópsia |
 
 ### Frase-âncora para não esquecer
 
-> “**Linfonodo novo e persistente** em adulto = biópsia — imagem e antibiótico não substituem histologia.”
+> “Linfonodo que **não melhora** com antibioticoterapia empírica pede **metal** — biópsia.”

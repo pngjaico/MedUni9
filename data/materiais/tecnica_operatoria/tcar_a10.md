@@ -1,47 +1,73 @@
 # Acessos Venosos
 
 **Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Tempo de estudo sugerido:** 40–50 min
+**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-**Acesso venoso periférico** é base da reanimação e da terapia medicamentosa. **Acesso central** (subclávia, jugular interna, femoral) permite infusão vesicante, monitorização de pressão e drogas vasoativas. A **técnica de Seldinger** introduz cateter sobre fio-guia. Em prova, cobram-se **indicações**, **prevenção de infecção** relacionada ao cateter e **complicações** (pneumotórax em subclávia, hematoma).
+**Acesso venoso periférico** é procedimento mais frequiente em hospitais; **central** é necessário para **vasopressores**, **nefrotóxicos**, **TPN** e **monitorização**. Em prova, dominam **técnica** asséptica, **complicações** (extravasamento, **pneumotórax** em subclávia/jugular), **indicações** de cada via e **manutenção** com **fechamento** e **trocas** programadas.
 
 ---
 
 ## Periférico
 
-Escolha veia com **menor calibre** necessário; **fixação** adequada; trocar se sinais flebite.
+**Calibro** adequado ao fluido/hemocomponente; **fixação** segura; **tempo** de permanência limitado; **extravasamento** de **vasopressor** — necrose tecidual.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A10-F01`
+
+- **Momento:** após periférico — punção.
+- **O que mostrar:** **ilustração** de **punção venosa** em **antebraço** com **ângulo** adequado.
+- **Tipo sugerido:** desenho técnico.
+- **Legenda (rascunho):** Punção venosa periférica: ângulo e fixação.
 
 ---
 
 ## Central
 
-**Higiene** máxima, **barreira**, **ultrassom** para guiar punção em jugular. **Seldinger**: punção → fio → dilatador → cateter.
+**Vias**: **jugular interna**, **subclávia**, **femoral** (maior risco infeccioso). **Ultrassom** guia **punção** em muitos serviços. **Confirmação** por **aspiração**, **RX** com linha de **tip** (protocolo) ou **ecocardiografia** intraoperatória em casos.
 
-> **Pegadinha:** **confirmar** posição intraluminal com **pressão venosa**, **aspiração** e **radiografia** de tórax para ponta em veia cava inferior/superior conforme protocolo.
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A10-F02`
+
+- **Momento:** após central — anatomia.
+- **O que mostrar:** **anatomia** de **triângulo** de **punctura** da **jugular interna** com relação carotídea.
+- **Tipo sugerido:** ilustração cervical.
+- **Legenda (rascunho):** Acesso venoso central: triângulo de segurança jugular.
 
 ---
 
 ## Complicações
 
-**Arterial** inadvertida, **pneumotórax**, **embolia aérea**, **infecção** de corrente sanguínea.
+**Pneumotórax** (subclávia), **arterial** inadvertida, **embolia ar**, **infecção** de corrente sanguínea. **Bundle** de inserção — **checklist** higiene máxima.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR6-A10-F03`
+
+- **Momento:** após bundle — barreira.
+- **O que mostrar:** **checklist** de **inserção** de CVC com **barreira** completa (ilustração).
+- **Tipo sugerido:** infográfico de segurança paciente.
+- **Legenda (rascunho):** Bundle de inserção de cateter venoso central.
 
 ---
 
 ## Ponte com a Clínica
 
-Remover acesso central **assim que** não for mais necessário — cada dia aumenta risco infeccioso.
+**PICC** para **antibiótico** prolongado — **radiografia** de confirmação. **Intraósseo** em **reanimação** — **via** de emergência.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Seldinger: sequência.
-- Indicações de central: vesicantes, PA invasiva, nutrição parenteral.
-- Bundle de prevenção de infecção (clorexidina, máscara, campo grande).
+- Periférico: calibre e medicamentos vesicantes.
+- Central: indicações e complicações locais.
+- USG reduz tentativas.
+- Prevenção de infecção relacionada a cateter.
 
 ---
 
@@ -51,52 +77,45 @@ Remover acesso central **assim que** não for mais necessário — cada dia aume
 
 ### O que você PRECISA saber
 
-- **PICC** — acesso longo para antibioticoterapia domiciliar.
-- **Intraósseo** — reanimação quando não há veia periférica.
-- **Filtração** de ar em linhas centrais ao conectar/desconectar.
-- **Trombose** associada a cateter — sinais de membro edemaciado.
+- **Trocas** de equipo e sistema fechado.
+- **Selo** de **heparina** vs **salina** (protocolo).
+- **Remoção** de CVC e **compressão**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Central | periférico | Duração, drogas |
-| Seldinger | corte direto | Fio-guia |
-| Jugular | subclávia | Risco pneumotórax |
+| CVC | PICC | Inserção, duração |
+| Jugular | femoral | Infecção, conforto |
+| Extravasamento | flebite | Dor, infusão |
 
 ### Frase-âncora para não esquecer
 
-> “**Central** não é ‘veia grossa’ — é **responsabilidade** de **complicação**.”
+> “**Via** errada **queima** — **vasopressor** precisa de **central**.”
 
 ---
 
-## Manutenção e remoção
+## Aprofundamento — raciocínio clínico
 
-Fixe bem **acesso periférico** com filme transparente e data; troque se **extravasação**, **dor** ou **sinais flebiticos**. Para **central**, troque curativo com **técnica asséptica** e use **tampão** em conexões sempre que desconectar — **embolia aérea** é rara mas dramática. Remova central **assim que** não houver necessidade — cada dia conta para **infecção**.
-
-### Acesso intraósseo (visão integrada)
-
-Em reanimação, IO é ponte até acesso venoso definitivo; não atrase compressões por tentar punção venosa interminável — siga algoritmo de suporte avançado.
-
-
-
----
-
-## Aprofundamento — segurança e repetição deliberada
-
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+Diretrizes **CDC** e **ANVISA** para prevenção de infecção de corrente sanguínea.
 
 ### Leitura de reforço
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
-
+- Manual de terapia intravenosa
+- Livro de procedimentos de emergência — acesso intraósseo
 
 ---
 
-## Aprofundamento — segurança e repetição deliberada
+### Erros comuns em prova e plantão
 
-Repita os gestos em **bancada** antes do centro cirúrgico: **nós**, **passagem de instrumentos** e **disciplina de campo**. Associe cada tópico a um **erro evitável** (contaminação, corpo estranho, dosagem de anestésico local) e a uma **checagem** que o previne. Em simulações, peça feedback explícito sobre **posição corporal** para evitar lesão ocupacional.
+- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
+- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
+- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
 
-### Leitura de reforço
+### Reflexão final
 
-- Manual de técnica operatória e vídeos institucionais de BPM SO
+Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
+
+Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+
+- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.

@@ -141,6 +141,29 @@ Briefing: [1–2 frases: o quê + tipo sugerido]. Legenda rascunho: [frase].
 - O leitor deve conseguir "varrer" seções e encontrar síntese em segundos.
 - Cada seção precisa responder: o que é, por que importa, como cai, como diferenciar.
 
+### Pré-Prova (regra editorial)
+
+- **Não** é checklist telegráfico nem lista de tópicos soltos como substituto do texto da aula.
+- A seção **Pré-Prova** deve entregar, em **prosa sintética** (parágrafos curtos), o que o aluno precisa **entender e levar para a prova** — definição mínima, por que cai e detalhe para acertar a questão típica.
+- O título `### Síntese para a prova` concentra esse bloco; tabela de diferenciações e frase-âncora fecham o pacote.
+- **App (split de texto):** no PWA, **todo o Markdown a partir de `## Pré-Prova`** entra no painel **Pré-Prova**. Portanto: (1) **`## Pré-Prova` deve ser a última seção de nível 2 (`##`) do arquivo** — o ficheiro termina na frase-âncora (`### Frase-âncora para não esquecer` + blockquote); (2) **não** colocar, depois da frase-âncora, secções de corpo da aula como `## Conceitos Essenciais`, `## Aplicação em Caso Clínico`, `## Ponte com a Clínica` ou `## Erros Comuns de Prova` — esse conteúdo fica **acima** de `## Pré-Prova` (por exemplo após `## Pontos-Chave para Prova`); (3) **não** duplicar `## Aplicação em Caso Clínico` nem segunda `## Ponte com a Clínica` com texto genérico repetido entre aulas — uma ponte no corpo basta quando fizer sentido.
+
+### Mnemônicos e siglas de memorização (uso restrito)
+
+Objetivo: reforçar **só** o que já é **amplamente ensinado** em graduação e em manuais de referência, sem virar “curso de piadas mnemônicas”.
+
+**Incluir** quando **todas** forem verdadeiras:
+
+1. O mnemônico **já existir** na tradição acadêmica (livros-texto, aulas, provas) — não inventar siglas novas.
+2. For **realmente útil** para lembrar **lista fechada** de critérios (ex.: variáveis do **Child-Pugh**).
+3. Estiver **explicitado o que cada letra significa** em português (tabela ou lista logo abaixo), para não gerar ambiguidade.
+
+**Não incluir:** jogos de palavras forçados, siglas “bonitinhas” criadas pela IA, ou mnemônicos para coisas que são melhor compreendidas por **lógica clínica** do que por decoração.
+
+**Exemplo válido:** **BEATA** para os **cinco parâmetros do Child-Pugh** — **B**ilirrubina, **E**ncefalopatia, **A**scite, **T**empo de protrombina (INR), **A**lbumina — expressão difundida em materiais de medicina em português.
+
+**Se não houver mnemônico clássico aceito para o tema:** não preencher o vazio; o texto completo basta.
+
 ---
 
 ## Estrutura obrigatória de cada aula
@@ -190,10 +213,9 @@ Briefing: [1–2 frases: o quê + tipo sugerido]. Legenda rascunho: [frase].
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **[Conceito]:** [frase curta e definitiva]
-- ...
+[Ir direto à prosa de revisão: 2 a 5 parágrafos curtos — não lista telegráfica; **não** usar parágrafo introdutório genérico de “metatexto”. Cada parágrafo integra o conceito central, como a banca costuma cobrar e o detalhe mínimo para não errar. Pode usar frases como “Na prova, lembre que…” quando fizer sentido.]
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -245,12 +267,13 @@ Regras:
 - [ ] Arquivo com mais de 100 linhas.
 - [ ] Seção inicial é `## Relevância Clínica e Acadêmica`.
 - [ ] Contém `## Ponte com a Clínica`.
-- [ ] Termina com `## Pré-Prova` no formato canônico.
+- [ ] Termina com `## Pré-Prova` no formato canônico: `### Síntese para a prova` (prosa sintética, **não** substituir por lista “o que precisa saber”), `### Diferenciações que a Uninove adora cobrar` (tabela), `### Frase-âncora para não esquecer` (blockquote); **nenhum** outro `##` após a frase-âncora (o app agrega o restante ao painel Pré-Prova).
 - [ ] Há pelo menos uma tabela útil (não decorativa) quando o tema pede comparação.
 - [ ] Se houver **fluxo/sequência**, está em **tabela ou lista** OU Mermaid **curto** (regras acima) **com** redundância segura em texto/tabela.
 - [ ] Não há caracteres corrompidos (ex.: `Ã`, `�`, `???`).
 - [ ] Não há texto genérico repetido de outras aulas.
 - [ ] **Figuras (opcional):** se houver `### Figura sugerida`, está no formato canônico e a quantidade faz sentido para o tema (poucas onde bastam; mais só quando o conteúdo pede).
+- [ ] **Mnemônicos:** só se forem **consagrados** e úteis; cada letra explicada; **nenhuma** sigla inventada pela redação.
 - [ ] Conteúdo salvo nos dois caminhos espelhados.
 - [ ] Quantidade de linhas reportada.
 
