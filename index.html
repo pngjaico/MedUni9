@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <meta name="theme-color" content="#00B4D8">
+  <meta name="theme-color" content="#1E2433">
+  <meta name="theme-color" content="#F1F5F9" media="(prefers-color-scheme: light)">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="description" content="MedGradPlus — Plataforma de estudos para estudantes de medicina">
@@ -25,8 +26,13 @@
     }
 
     html {
-      background-color: var(--bg-dark, #181C27);
+      background-color: var(--bg-dark, #1E2433);
       height: 100%;
+      color-scheme: dark;
+    }
+
+    html[data-theme="light"] {
+      color-scheme: light;
     }
 
     html, body {
@@ -36,8 +42,9 @@
       min-height: 100dvh;
       min-height: -webkit-fill-available;
       font-family: 'DM Sans', sans-serif;
-      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
-      background-attachment: fixed;
+      background: var(--bg-body, linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%));
+      /* fixed no iOS Safari costuma gerar tela preta / fundo que não pinta */
+      background-attachment: scroll;
       color: var(--text-primary, #E5E7EB);
       overflow: hidden;
       transition: background 0.3s ease, color 0.3s ease;
@@ -46,7 +53,8 @@
     #root {
       width: 100%;
       height: 100%;
-      min-height: 0;
+      min-height: 100dvh;
+      min-height: -webkit-fill-available;
       display: flex;
       flex-direction: column;
       overflow: hidden;
@@ -72,10 +80,10 @@
       --error: #EF4444;
       --purple: #8B5CF6;
 
-      /* Background — cinza-azulado carvão, identidade própria */
-      --bg-body: linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%);
-      --bg-dark: #181C27;
-      --bg-sidebar: #1D2130;
+      /* Background — cinza-azulado (um tom mais claro que o carvão puro, mantém legibilidade) */
+      --bg-body: linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%);
+      --bg-dark: #1E2433;
+      --bg-sidebar: #252B3A;
       --bg-card: rgba(255, 255, 255, 0.05);
       --border-card: rgba(255, 255, 255, 0.07);
       --text-primary: #E8EBF0;
@@ -167,12 +175,6 @@
     html[data-theme="light"] .sidebar-logo {
       border-bottom-color: rgba(0, 0, 0, 0.08) !important;
     }
-    html[data-theme="light"] .bottom-nav {
-      background: rgba(255, 255, 255, 0.95) !important;
-      border-top: 1px solid rgba(0, 0, 0, 0.08) !important;
-    }
-    html[data-theme="light"] .nav-item { color: #64748B !important; }
-    html[data-theme="light"] .nav-item.active { color: var(--primary) !important; }
     html[data-theme="light"] .screen-content { background: transparent !important; }
     html[data-theme="light"] .sidebar-open-bar {
       background: rgba(255,255,255,0.97) !important;
@@ -257,7 +259,7 @@
       width: 100%;
       max-width: 430px;
       margin: 0 auto;
-      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      background: var(--bg-body, linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%));
       position: relative;
       transition: background 0.3s ease;
     }
@@ -272,7 +274,7 @@
       max-width: none;
       margin: 0;
       overflow: hidden;
-      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      background: var(--bg-body, linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%));
       position: relative;
       transition: background 0.3s ease;
     }
@@ -288,7 +290,7 @@
       min-height: 0;
       width: 100%;
       overflow: hidden;
-      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      background: var(--bg-body, linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%));
       transition: background 0.3s ease;
     }
 
@@ -306,7 +308,7 @@
       display: none;
       width: 240px;
       min-width: 240px;
-      background: var(--bg-sidebar, #1D2130);
+      background: var(--bg-sidebar, #252B3A);
       border-right: 1px solid var(--border-card);
       transition: background 0.3s ease;
       flex-direction: column;
@@ -370,6 +372,49 @@
       flex-shrink: 0;
     }
 
+    /* Teaser não clicável — alinhado ao .sidebar-item (altura / padding) */
+    .sidebar-gradbook-teaser {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin: 4px 0 0;
+      padding: 12px 16px;
+      border-radius: 10px;
+      border: 1px solid rgba(245, 158, 11, 0.28);
+      background: rgba(245, 158, 11, 0.07);
+      pointer-events: auto;
+      user-select: none;
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+      line-height: 1.2;
+      transition: background 0.18s ease, border-color 0.18s ease;
+    }
+    .sidebar-gradbook-teaser:hover {
+      background: rgba(245, 158, 11, 0.14);
+      border-color: rgba(245, 158, 11, 0.45);
+    }
+    .sidebar-gradbook-teaser.active {
+      background: rgba(245, 158, 11, 0.18);
+      border-color: rgba(245, 158, 11, 0.55);
+    }
+
+    html[data-theme="light"] .sidebar-gradbook-teaser {
+      background: rgba(254, 243, 199, 0.45);
+      border-color: rgba(217, 119, 6, 0.22);
+    }
+
+    .sidebar-gradbook-teaser__label {
+      flex: 1;
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-family: 'DM Sans', sans-serif;
+    }
+
     .sidebar-footer {
       padding: 16px 20px;
       border-top: 1px solid var(--border-card);
@@ -383,8 +428,79 @@
       min-height: 0;
       overflow-y: auto;
       overflow-x: hidden;
-      padding: 20px 16px 100px 16px;
+      padding: 20px 16px calc(28px + env(safe-area-inset-bottom, 0px)) 16px;
       -webkit-overflow-scrolling: touch;
+    }
+
+    /* Atalho «Pré-Prova» no topo do material (mobile + desktop) */
+    .material-jump-preprova {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      flex-shrink: 0;
+      padding: 8px 16px;
+      border-radius: 999px;
+      border: 1px solid rgba(245, 158, 11, 0.45);
+      background: linear-gradient(155deg, rgba(245, 158, 11, 0.22) 0%, rgba(251, 191, 36, 0.09) 55%, rgba(15, 23, 42, 0.35) 100%);
+      color: #FDE68A;
+      font-size: 0.8125rem;
+      font-weight: 700;
+      font-family: 'DM Sans', sans-serif;
+      letter-spacing: 0.02em;
+      cursor: pointer;
+      white-space: nowrap;
+      box-shadow:
+        0 2px 16px rgba(245, 158, 11, 0.2),
+        inset 0 1px 0 rgba(255, 255, 255, 0.06);
+      transition: transform 0.18s ease, box-shadow 0.22s ease, background 0.22s ease, border-color 0.22s ease;
+    }
+
+    .material-jump-preprova:hover {
+      background: linear-gradient(155deg, rgba(245, 158, 11, 0.35) 0%, rgba(251, 191, 36, 0.2) 50%, rgba(15, 23, 42, 0.25) 100%);
+      border-color: rgba(251, 191, 36, 0.6);
+      box-shadow: 0 8px 28px rgba(245, 158, 11, 0.32);
+      transform: translateY(-2px);
+    }
+
+    .material-jump-preprova:active {
+      transform: translateY(0);
+      box-shadow: 0 2px 12px rgba(245, 158, 11, 0.22);
+    }
+
+    .material-jump-preprova:focus-visible {
+      outline: 2px solid rgba(251, 191, 36, 0.85);
+      outline-offset: 3px;
+    }
+
+    .material-jump-preprova__icon {
+      font-size: 1.05rem;
+      line-height: 1;
+      filter: drop-shadow(0 0 10px rgba(251, 191, 36, 0.45));
+    }
+
+    .material-jump-preprova__arrow {
+      font-size: 0.88rem;
+      font-weight: 800;
+      opacity: 0.92;
+      line-height: 1;
+    }
+
+    html[data-theme="light"] .material-jump-preprova {
+      color: #92400E;
+      border-color: rgba(217, 119, 6, 0.45);
+      background: linear-gradient(155deg, #FFFBEB 0%, #FEF3C7 45%, #FDE68A 100%);
+      box-shadow: 0 2px 14px rgba(217, 119, 6, 0.18), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    }
+
+    html[data-theme="light"] .material-jump-preprova:hover {
+      background: linear-gradient(155deg, #FFFBEB 0%, #FDE68A 50%, #FCD34D 100%);
+      border-color: rgba(180, 83, 9, 0.45);
+      box-shadow: 0 8px 26px rgba(217, 119, 6, 0.22);
+    }
+
+    html[data-theme="light"] .material-jump-preprova__icon {
+      filter: none;
     }
 
     /* Hamburger/sidebar toggle button */
@@ -418,7 +534,7 @@
       position: sticky;
       top: 0;
       z-index: 150;
-      background: var(--bg-dark, #181C27);
+      background: var(--bg-dark, #1E2433);
       border-bottom: 1px solid var(--border-card);
     }
 
@@ -541,10 +657,6 @@
         transition: width 0.25s ease, min-width 0.25s ease, padding 0.25s ease;
       }
 
-      .desktop-layout .bottom-nav {
-        display: none;
-      }
-
       .desktop-layout .screen-content {
         padding: 28px 40px 40px;
       }
@@ -564,6 +676,198 @@
       .sidebar-toggle-btn {
         display: flex;
       }
+
+      /* Desktop: barra superior só quando a sidebar está recolhida */
+      .sidebar-backdrop {
+        display: none !important;
+        pointer-events: none;
+      }
+
+      .mobile-app-top-bar {
+        display: none;
+      }
+    }
+
+    /* Mobile / tablet estreito: drawer lateral + barra com hamburger */
+    @media (max-width: 768px) {
+      .mobile-app-top-bar {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-shrink: 0;
+        position: sticky;
+        top: 0;
+        z-index: 160;
+        padding: 10px 14px;
+        padding-top: max(10px, env(safe-area-inset-top, 0px));
+        background: var(--bg-dark, #1E2433);
+        border-bottom: 1px solid var(--border-card);
+      }
+
+      html[data-theme="light"] .mobile-app-top-bar {
+        background: var(--bg-body);
+        border-bottom-color: var(--border-card);
+      }
+
+      .mobile-app-top-bar__menu {
+        display: flex !important;
+      }
+
+      .mobile-app-top-bar__title {
+        flex: 1;
+        min-width: 0;
+        font-family: 'Outfit', sans-serif;
+        font-size: 1.05rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        letter-spacing: -0.02em;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .desktop-sidebar {
+        display: flex !important;
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100dvh;
+        height: 100vh;
+        width: min(288px, 88vw);
+        max-width: 288px;
+        min-width: 0 !important;
+        z-index: 220;
+        transform: translateX(-100%);
+        transition: transform 0.28s ease;
+        box-shadow: none;
+        border-right: 1px solid var(--border-card);
+        padding-top: max(12px, env(safe-area-inset-top, 0px));
+      }
+
+      .desktop-sidebar:not(.collapsed) {
+        transform: translateX(0);
+        box-shadow: 12px 0 40px rgba(0, 0, 0, 0.4);
+      }
+
+      .desktop-sidebar.collapsed {
+        width: min(288px, 88vw) !important;
+        min-width: 0 !important;
+        padding: 24px 0 !important;
+        padding-top: max(24px, env(safe-area-inset-top, 12px)) !important;
+        overflow: hidden;
+        transform: translateX(-100%);
+        border-right: none;
+      }
+
+      .sidebar-backdrop {
+        display: block !important;
+        pointer-events: auto;
+        position: fixed;
+        inset: 0;
+        z-index: 210;
+        background: rgba(15, 23, 42, 0.52);
+        backdrop-filter: blur(2px);
+        -webkit-backdrop-filter: blur(2px);
+      }
+
+      html[data-theme="light"] .sidebar-backdrop {
+        background: rgba(15, 23, 42, 0.35);
+      }
+
+      .sidebar-open-bar {
+        display: none !important;
+      }
+
+      .screen-content {
+        scroll-padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
+      }
+
+      .screen-content--material-detail {
+        padding-bottom: calc(48px + env(safe-area-inset-bottom, 0px)) !important;
+      }
+
+      .material-detail-end-spacer {
+        min-height: 28px;
+        flex-shrink: 0;
+        pointer-events: none;
+      }
+
+      .material-jump-preprova {
+        padding: 6px 12px;
+        gap: 6px;
+        font-size: 0.78rem;
+      }
+
+      .material-doc-inner .markdown-body.material-markdown-card {
+        padding: 16px 12px 20px !important;
+        border-radius: 12px !important;
+      }
+
+      .markdown-body.preprova-content.material-markdown-card--pre {
+        padding: 14px 12px 16px !important;
+      }
+
+      .material-preprova-block {
+        scroll-margin-bottom: calc(36px + env(safe-area-inset-bottom, 0px));
+      }
+
+      .markdown-body .table-wrap {
+        -webkit-overflow-scrolling: touch;
+        overflow-x: auto;
+        overscroll-behavior-x: contain;
+        margin-left: -4px;
+        margin-right: -4px;
+        width: calc(100% + 8px);
+        max-width: none;
+      }
+
+      .markdown-body table {
+        min-width: 240px;
+        font-size: 0.82rem;
+      }
+
+      .markdown-body th {
+        white-space: normal;
+        font-size: 0.72rem;
+        padding: 7px 8px;
+        letter-spacing: 0.01em;
+      }
+
+      .markdown-body td {
+        padding: 6px 8px;
+        font-size: 0.84rem;
+      }
+
+      .material-doc-inner .flow-box {
+        padding-left: 12px;
+        padding-right: 12px;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .flow-v .flow-step {
+        min-width: min(200px, 88vw);
+      }
+    }
+
+    /* Tablet: leitura de materiais um pouco mais compacta; desktop largo intacto */
+    @media (min-width: 769px) and (max-width: 1024px) {
+      .material-doc-inner .markdown-body.material-markdown-card {
+        padding: 22px 20px 26px !important;
+      }
+
+      .markdown-body table {
+        font-size: 0.94rem;
+      }
+
+      .markdown-body th {
+        font-size: 0.85rem;
+        padding: 8px 10px;
+      }
+
+      .markdown-body td {
+        padding: 8px 10px;
+      }
     }
 
     /* Splash Screen */
@@ -576,7 +880,7 @@
       min-height: 0;
       width: 100%;
       height: 100%;
-      background: var(--bg-body, linear-gradient(160deg, #181C27 0%, #1D2130 55%, #1B2035 100%));
+      background: var(--bg-body, linear-gradient(160deg, #1E2433 0%, #252B3A 55%, #232D42 100%));
       gap: 20px;
     }
 
@@ -633,6 +937,7 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
+      align-items: stretch;
       background: linear-gradient(135deg, #080f1e 0%, #0a1628 50%, #0c1f38 100%);
     }
 
@@ -643,6 +948,7 @@
       justify-content: space-between;
       width: 52%;
       min-width: 480px;
+      min-height: 0;
       padding: 48px 56px;
       background: linear-gradient(160deg, #0a1e3a 0%, #072040 40%, #061830 100%);
       border-right: 1px solid rgba(0,200,150,0.12);
@@ -783,14 +1089,23 @@
       z-index: 1;
     }
 
-    /* Right form panel */
+    /* Right form panel — min-height:0 permite rolagem dentro do painel (flex) */
     .auth-form-panel {
       flex: 1;
+      min-width: 0;
+      min-height: 0;
       display: flex;
       flex-direction: column;
+      overflow-x: hidden;
       overflow-y: auto;
       padding: 40px 32px;
       justify-content: center;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Passo faculdade/campus: conteúdo alto — alinhar ao topo para overflow-y funcionar de forma previsível */
+    .auth-form-panel.auth-form-panel--tall {
+      justify-content: flex-start;
     }
     .auth-form-inner {
       width: 100%;
@@ -1491,15 +1806,64 @@
     }
 
     .flashcard-explanation {
-      font-size: 12px;
-      line-height: 1.5;
+      font-size: 11px;
+      line-height: 1.45;
       color: var(--text-secondary);
-      opacity: 0.5;
-      margin-top: 12px;
-      padding-top: 10px;
-      border-top: 1px solid rgba(255, 255, 255, 0.06);
+      opacity: 0.38;
+      margin-top: 10px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(255, 255, 255, 0.05);
       text-align: left;
       width: 100%;
+      font-weight: 400;
+    }
+
+    html[data-theme="light"] .flashcard-explanation {
+      opacity: 0.42;
+      border-top-color: rgba(0, 0, 0, 0.06);
+    }
+
+    .flashcards-category-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+      align-items: center;
+    }
+
+    .flashcards-category-chips-label {
+      font-size: 12px;
+      color: var(--text-secondary);
+      width: 100%;
+      margin-bottom: 2px;
+    }
+
+    .fc-cat-chip {
+      border: 1px solid rgba(0, 200, 150, 0.28);
+      background: rgba(0, 200, 150, 0.06);
+      color: var(--text-secondary);
+      font-size: 12px;
+      font-family: 'DM Sans', sans-serif;
+      padding: 6px 12px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: background 0.15s, border-color 0.15s, color 0.15s;
+    }
+
+    .fc-cat-chip:hover {
+      border-color: rgba(0, 200, 150, 0.45);
+      color: var(--text-primary);
+    }
+
+    .fc-cat-chip.active {
+      background: rgba(0, 200, 150, 0.2);
+      border-color: var(--mint, #00C896);
+      color: #E2E8F0;
+      font-weight: 600;
+    }
+
+    html[data-theme="light"] .fc-cat-chip.active {
+      color: #0f172a;
     }
 
     .anki-actions {
@@ -2013,11 +2377,11 @@
       background-clip: text;
       border-bottom-color: rgba(0,200,150,0.2) !important;
     }
-    html[data-theme="light"] .markdown-body h2 { color: #1E293B !important; }
+    html[data-theme="light"] .markdown-body h2 { color: var(--mint, #00C896) !important; }
     html[data-theme="light"] .markdown-body h3 { color: #0284C7 !important; }
     html[data-theme="light"] .markdown-body h4 { color: #0369A1 !important; }
     html[data-theme="light"] .markdown-body p { color: #334155; }
-    html[data-theme="light"] .markdown-body strong { color: #0F172A !important; }
+    html[data-theme="light"] .markdown-body strong { color: #1E293B !important; font-weight: 500 !important; }
     html[data-theme="light"] .markdown-body em { color: #475569 !important; }
     html[data-theme="light"] .markdown-body ul li::marker { color: var(--mint) !important; }
     html[data-theme="light"] .markdown-body ol li::marker { color: var(--mint) !important; }
@@ -2126,7 +2490,7 @@
       font-family: 'Outfit', sans-serif;
       font-size: 1.35rem;
       font-weight: 700;
-      color: #E2E8F0;
+      color: var(--mint, #00C896);
       margin: 1.7rem 0 0.65rem;
       padding-left: 12px;
       border-left: 3px solid var(--mint, #00C896);
@@ -2152,8 +2516,9 @@
     /* Paragraphs & text */
     .markdown-body p { margin: 0 0 0.85em; }
     .markdown-body strong {
-      font-weight: 600;
-      color: #F1F5F9;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 500;
+      color: #E2E8F0;
     }
     .markdown-body em { color: #94A3B8; font-style: italic; }
 
@@ -2367,6 +2732,10 @@
       color: #FCD34D;
       border-left-color: #F59E0B;
     }
+    html[data-theme="light"] .markdown-body.preprova-content h2 {
+      color: #FCD34D !important;
+      border-left-color: #F59E0B !important;
+    }
     .markdown-body.preprova-content h3 { color: #FBBF24; }
     .markdown-body.preprova-content ul li::marker { color: #F59E0B; }
     .markdown-body.preprova-content blockquote {
@@ -2490,79 +2859,96 @@
       font-weight: 600;
     }
 
-    /* Bottom Navigation */
-    .bottom-nav {
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      max-width: 430px;
-      margin: 0 auto;
-      background: rgba(24, 28, 39, 0.96);
-      backdrop-filter: blur(20px);
-      -webkit-backdrop-filter: blur(20px);
-      border-top: 1px solid var(--border-subtle);
-      box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.3);
-      display: flex;
-      justify-content: space-around;
-      gap: 2px;
-      padding: 8px 4px 18px;
-      z-index: 100;
-    }
-
-    .nav-item {
+    /* Dica instalar PWA (iOS Safari / Android Chrome) — só monta no JS em mobile */
+    .app-install-hint {
       display: flex;
       flex-direction: column;
-      align-items: center;
-      gap: 3px;
-      cursor: pointer;
+      gap: 10px;
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+      max-width: 420px;
+      margin: 0 auto;
+      z-index: 110;
+      padding: 12px 12px 10px;
+      border-radius: 14px;
+      width: auto;
+      background: rgba(15, 23, 42, 0.97);
+      border: 1px solid rgba(0, 200, 150, 0.38);
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+      font-size: 11px;
+      line-height: 1.5;
+      color: var(--text-primary, #E8EBF0);
+    }
+
+    html[data-theme="light"] .app-install-hint {
+      background: rgba(255, 255, 255, 0.97);
+      border-color: rgba(0, 200, 150, 0.28);
+      box-shadow: 0 10px 36px rgba(0, 0, 0, 0.12);
+    }
+
+    .app-install-hint__row {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .app-install-hint__text {
       flex: 1;
-      padding: 6px 6px;
-      border-radius: 12px;
-      transition: background var(--duration-fast) ease, color var(--duration-fast) ease;
-      position: relative;
       min-width: 0;
     }
 
-    .nav-item.active {
-      color: var(--primary);
-      background: rgba(0, 200, 150, 0.12);
+    .app-install-hint__text strong {
+      color: var(--primary, #00C896);
+      font-weight: 700;
     }
 
-    .nav-item.active::after {
-      content: '';
-      position: absolute;
-      top: -8px;
-      left: 50%;
-      transform: translateX(-50%);
-      width: 20px;
-      height: 2px;
-      background: var(--primary);
-      border-radius: 0 0 2px 2px;
-    }
-
-    .nav-item:not(.active) {
+    .app-install-hint__close {
+      flex-shrink: 0;
+      width: 30px;
+      height: 30px;
+      border: none;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.08);
       color: var(--text-secondary);
+      font-size: 15px;
+      line-height: 1;
+      cursor: pointer;
+      transition: background 0.15s ease;
     }
 
-    .nav-item:not(.active):active {
-      background: var(--surface-2);
+    .app-install-hint__close:hover {
+      background: rgba(255, 255, 255, 0.12);
     }
 
-    .nav-icon {
-      width: 22px;
-      height: 22px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+    html[data-theme="light"] .app-install-hint__close {
+      background: rgba(0, 0, 0, 0.06);
     }
 
-    .nav-label {
-      font-size: 9px;
+    .app-install-hint__never {
+      width: 100%;
+      padding: 9px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text-secondary);
+      font-size: 11px;
       font-weight: 600;
-      letter-spacing: 0.01em;
-      line-height: 1.1;
-      text-align: center;
+      font-family: 'DM Sans', sans-serif;
+      cursor: pointer;
+      transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+    }
+
+    .app-install-hint__never:hover {
+      border-color: rgba(0, 200, 150, 0.45);
+      color: var(--primary, #00C896);
+      background: rgba(0, 200, 150, 0.08);
+    }
+
+    html[data-theme="light"] .app-install-hint__never {
+      background: rgba(248, 250, 252, 0.9);
+      border-color: rgba(0, 0, 0, 0.1);
     }
 
     /* Loading */
@@ -2699,6 +3085,32 @@
       color: var(--text-secondary);
       margin-bottom: 12px;
       line-height: 1.5;
+    }
+
+    /* Auth cadastro passo 3: grids mais compactos para caber na viewport */
+    .auth-institution-step .institution-grid {
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+    .auth-institution-step .institution-card {
+      min-height: 72px;
+      padding: 10px 11px;
+      border-radius: 12px;
+      gap: 6px;
+    }
+    .auth-institution-step .institution-name {
+      font-size: 13px;
+    }
+    .auth-institution-step .institution-meta {
+      font-size: 10px;
+      line-height: 1.35;
+    }
+    .auth-institution-step .institution-badge {
+      font-size: 9px;
+      padding: 3px 7px;
+    }
+    .auth-institution-step .institution-helper {
+      margin-bottom: 8px;
     }
 
     /* Semester group headers in subject lists */
@@ -2934,7 +3346,7 @@
     /* Responsive */
     @media (max-height: 600px) {
       .screen-content {
-        padding: 16px 12px 100px 12px;
+        padding: 16px 12px calc(24px + env(safe-area-inset-bottom, 0px)) 12px;
       }
 
       .stat-card {
@@ -3045,7 +3457,7 @@
 
     /* ===================== Feedback FAB ===================== */
     .feedback-panel {
-      background: var(--bg-dark, #181C27);
+      background: var(--bg-dark, #1E2433);
       border: 1px solid rgba(0,200,150,0.25);
       border-radius: 18px;
       width: 100%;
@@ -3066,7 +3478,7 @@
       .feedback-overlay { align-items: center; }
     }
     .feedback-modal {
-      background: var(--bg-dark, #181C27);
+      background: var(--bg-dark, #1E2433);
       border: 1px solid rgba(0,200,150,0.25);
       border-radius: 18px 18px 0 0;
       width: 100%;
@@ -3198,7 +3610,7 @@
       padding: 10px 12px; margin-bottom: 14px;
       -webkit-user-select: auto; user-select: auto;
     }
-    .feedback-select option { background: var(--bg-dark, #181C27); }
+    .feedback-select option { background: var(--bg-dark, #1E2433); }
     .feedback-textarea { resize: none; height: 110px; }
     .feedback-char-counter { font-size: 11px; color: var(--text-secondary); text-align: right; margin-top: -10px; margin-bottom: 14px; }
     .feedback-actions { display: flex; gap: 10px; margin-top: 4px; }
@@ -3623,10 +4035,26 @@
       return `${userAgent.substring(0, 30)}_${screen_res}_${timezone}_${canvas_hash}`.substring(0, 128);
     };
 
+    /** Migra entradas antigas (newReps/newEf/newInterval) e garante reps/ef/interval/nextReview. */
+    function normalizeSrEntry(raw) {
+      if (raw == null || typeof raw !== 'object') return null;
+      const reps = raw.reps != null ? raw.reps : raw.newReps;
+      const ef = raw.ef != null ? raw.ef : raw.newEf;
+      const interval = raw.interval != null ? raw.interval : raw.newInterval;
+      const nextReview = raw.nextReview != null ? Number(raw.nextReview) : 0;
+      return {
+        ...raw,
+        reps: reps != null ? reps : 0,
+        ef: ef != null ? ef : 2.5,
+        interval: interval != null ? interval : 0,
+        nextReview,
+      };
+    }
+
     // SM-2 Algorithm
     const SM2 = {
       calculateNextReview: (quality, reps, ef, interval) => {
-        let newReps = reps + 1;
+        const newReps = reps + 1;
         let newEf = ef + 0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02);
         if (newEf < 1.3) newEf = 1.3;
 
@@ -3635,30 +4063,27 @@
         else if (newReps === 2) newInterval = 3;
         else newInterval = Math.round(interval * newEf);
 
-        const nextReview = Date.now() + (newInterval * 24 * 60 * 60 * 1000);
-        return { newReps, newEf, newInterval, nextReview };
+        const nextReview = Date.now() + newInterval * 24 * 60 * 60 * 1000;
+        return { reps: newReps, ef: newEf, interval: newInterval, nextReview };
       },
 
+      /** Cards novos (sem sr) ou com nextReview <= agora; ignora buried. */
       getDueCards: (cards, srData) => {
         const now = Date.now();
-        return cards.filter(card => {
-          const data = srData[card.id] || { nextReview: 0 };
-          return data.nextReview <= now;
-        }).sort((a, b) => {
-          const aData = srData[a.id] || { nextReview: 0 };
-          const bData = srData[b.id] || { nextReview: 0 };
-          return aData.nextReview - bData.nextReview;
-        });
+        return cards
+          .filter((card) => {
+            const raw = srData[card.id];
+            if (raw?.buried) return false;
+            const data = normalizeSrEntry(raw);
+            if (!data) return true;
+            return data.nextReview <= now;
+          })
+          .sort((a, b) => {
+            const aData = normalizeSrEntry(srData[a.id]) || { nextReview: 0 };
+            const bData = normalizeSrEntry(srData[b.id]) || { nextReview: 0 };
+            return aData.nextReview - bData.nextReview;
+          });
       },
-
-      // Only returns cards already seen at least once (reps > 0) that are due
-      getReviewDueCards: (cards, srData) => {
-        const now = Date.now();
-        return cards.filter(card => {
-          const data = srData[card.id];
-          return data !== undefined && !data.buried && data.nextReview <= now;
-        }).sort((a, b) => srData[a.id].nextReview - srData[b.id].nextReview);
-      }
     };
 
     // Format time
@@ -3922,6 +4347,13 @@
         <path d="M16 6c1.5 2 1 5-1.5 6.5S10 15 9 17.5s1.5 3.5 4 3.5 4-1.5 3.5-4c-.3-1.2-1-2.2-2-3"/>
         <circle cx="6" cy="19" r="2.2"/>
         <circle cx="18" cy="5" r="2.2"/>
+      </svg>
+    );
+    const IconSysMuscle = () => (
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <rect x="2" y="9" width="3.5" height="6" rx="1"/>
+        <rect x="18.5" y="9" width="3.5" height="6" rx="1"/>
+        <path d="M5.5 12h13"/>
       </svg>
     );
     const IconSysCardio = () => (
@@ -4522,61 +4954,9 @@
       }
     }
 
+    /** Chaves estáticas removidas; perfis legados com codeHash não sincronizam mais por JSON. */
     async function syncProfileAccessFromCodeEntry(fbUser, profile) {
-      if (!profile || !profile.codeHash) return profile;
-
-      try {
-        const response = await fetch('data/codigos.json?_=' + Date.now());
-        if (!response.ok) return profile;
-
-        const data = await response.json();
-        const allCodes = data?.codigos || {};
-        const rawHash = String(profile.codeHash || '').trim();
-        let resolvedHash = rawHash;
-        let codeEntry = allCodes[resolvedHash] || null;
-
-        // Backward compatibility: older profiles stored only first 8 chars.
-        if (!codeEntry && rawHash && rawHash.length < 64) {
-          const match = Object.keys(allCodes).find(fullHash => fullHash.startsWith(rawHash));
-          if (match) {
-            resolvedHash = match;
-            codeEntry = allCodes[match];
-          }
-        }
-
-        if (!codeEntry) return profile;
-
-        const incomingModules = resolveModulesFromCodeEntry(codeEntry);
-        const currentModules = normalizeModulesAccess(profile.modulosAcesso);
-        const incomingPlan = codeEntry.plano || profile.plano || 'basico';
-        const incomingMax = Number(codeEntry.maxDispositivos || profile.maxDispositivos || 2);
-        const normalizedPlan = String(incomingPlan || '').toLowerCase();
-        const safeIncomingModules = (normalizedPlan === 'modulo' && !incomingModules)
-          ? (currentModules || null)
-          : incomingModules;
-
-        const modulesChanged = JSON.stringify(safeIncomingModules || null) !== JSON.stringify(currentModules || null);
-        const planChanged = incomingPlan !== (profile.plano || 'basico');
-        const maxChanged = incomingMax !== Number(profile.maxDispositivos || 2);
-
-        if (!modulesChanged && !planChanged && !maxChanged) return profile;
-
-        const merged = normalizeUserProfile({
-          ...profile,
-          plano: incomingPlan,
-          modulosAcesso: safeIncomingModules,
-          maxDispositivos: incomingMax,
-          codeHash: resolvedHash || profile.codeHash,
-        });
-
-        try {
-          await saveUserProfile(fbUser, buildSessionTrackedProfile(merged), { merge: true });
-        } catch {}
-
-        return merged;
-      } catch {
-        return profile;
-      }
+      return profile;
     }
 
     async function checkAmbassadorQualification(profile) {
@@ -4660,11 +5040,10 @@
       return `${faculty.shortName} ${normalized.campusNome}`;
     }
 
-    // Auth Screen
+    // Auth Screen — cadastro: 1=conta 2=instituição 3=módulo (sem chave estática)
     const AuthScreen = ({ onAuthSuccess }) => {
-      const [mode, setMode] = useState('login');       // 'login' | 'register'
-      const [step, setStep] = useState(1);             // register steps: 1=code 2=account 3=instituicao 4=modulo
-      const [code, setCode] = useState('');
+      const [mode, setMode] = useState('login');
+      const [step, setStep] = useState(1);
       const [email, setEmail] = useState('');
       const [password, setPassword] = useState('');
       const [confirmPassword, setConfirmPassword] = useState('');
@@ -4675,22 +5054,13 @@
       const [fingerprint, setFingerprint] = useState('');
       const [error, setError] = useState('');
       const [loading, setLoading] = useState(false);
-      const [validatedCode, setValidatedCode] = useState(null);
-      const [regFirebaseUser, setRegFirebaseUser] = useState(null); // Firebase user after Google register
-      const [couponCode, setCouponCode] = useState('');
-      const [couponValid, setCouponValid] = useState(null); // null | true | false
-      const [validatedCouponEntry, setValidatedCouponEntry] = useState(null);
+      const [regFirebaseUser, setRegFirebaseUser] = useState(null);
       const [showForgot, setShowForgot] = useState(false);
       const [forgotEmail, setForgotEmail] = useState('');
       const [forgotSent, setForgotSent] = useState(false);
-      const [registerPath, setRegisterPath] = useState('code'); // 'code' | 'email'
       const [emailInviteGrant, setEmailInviteGrant] = useState(null);
-      const ambassadorKeyDetected = String(validatedCode?.tipo || '').toLowerCase() === 'embaixador';
       const resolvedEmailModules = emailInviteGrant ? resolveModulesFromCodeEntry(emailInviteGrant) : null;
-      const keyModulesFromCode = validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : null;
-      const allowedSemesters = ambassadorKeyDetected
-        ? getAmbassadorModules()
-        : (keyModulesFromCode || resolvedEmailModules || getAmbassadorModules());
+      const allowedSemesters = resolvedEmailModules?.length ? resolvedEmailModules : getAmbassadorModules();
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
@@ -4704,194 +5074,82 @@
           const p = await loadUserProfile(u);
           if (p) return;
           const grant = await loadEmailAccessGrant(u.email);
-          if (cancelled || !grant || !isEmailGrantValid(grant)) return;
+          if (cancelled) return;
           setRegFirebaseUser(u);
-          setEmailInviteGrant(grant);
-          setRegisterPath('email');
           setEmail(u.email || '');
+          setEmailInviteGrant(grant && isEmailGrantValid(grant) ? grant : null);
           setMode('register');
-          setStep(3);
+          setStep(2);
+          setError('');
         })();
         return () => { cancelled = true; };
       }, []);
 
       useEffect(() => {
-        if (step !== 4) return;
+        if (step !== 3) return;
         if (allowedSemesters.length === 1) {
           setSemester(allowedSemesters[0]);
         } else if (semester && !allowedSemesters.includes(semester)) {
           setSemester(null);
         }
-      }, [step, validatedCode]);
+      }, [step, emailInviteGrant]);
 
       const applyProfile = (profile) => {
         onAuthSuccess(persistLocalUser(profile));
       };
 
-      const beginCodeActivation = (fbUser, message) => {
+      const beginIncompleteRegistration = (fbUser, message) => {
         setRegFirebaseUser(fbUser || null);
         setEmail(fbUser?.email || '');
-        setRegisterPath('code');
-        setEmailInviteGrant(null);
         setMode('register');
-        setStep(1);
-        setError(message || 'Ative seu código para concluir o acesso.');
+        setStep(2);
+        setError(message || 'Complete seu cadastro: faculdade e módulo.');
+        (async () => {
+          const g = fbUser?.email ? await loadEmailAccessGrant(fbUser.email) : null;
+          setEmailInviteGrant(g && isEmailGrantValid(g) ? g : null);
+        })();
       };
 
       const beginEmailInviteCompletion = (fbUser, grant) => {
         setRegFirebaseUser(fbUser || null);
         setEmailInviteGrant(grant || null);
-        setRegisterPath('email');
         setEmail(fbUser?.email || '');
         setMode('register');
-        setStep(3);
+        setStep(2);
         setError('');
       };
 
-      // ── code change handler ────────────────────────────────────────────────
-      const handleCodeChange = (e) => {
-        let value = e.target.value.toUpperCase().replace(/[^A-Z0-9]/g, '');
-        if (value.length > 12) value = value.slice(0, 12);
-        if (value.length > 8)      value = value.slice(0, 4) + '-' + value.slice(4, 8) + '-' + value.slice(8);
-        else if (value.length > 4) value = value.slice(0, 4) + '-' + value.slice(4);
-        setCode(value);
-      };
-
-      // ── validate coupon code ──────────────────────────────────────────────
-      const validateCoupon = async (coupon) => {
-        try {
-          const response = await fetch('data/cupons.json?_=' + Date.now());
-          if (!response.ok) {
-            setValidatedCouponEntry(null);
-            setCouponValid(false);
-            return false;
-          }
-          const allCoupons = await response.json();
-          const couponUpper = (coupon || '').toUpperCase();
-          const couponEntry = allCoupons[couponUpper];
-          if (couponEntry && couponEntry.ativo && new Date() <= new Date(couponEntry.validade_ate)) {
-            setValidatedCouponEntry(couponEntry);
-            setCouponValid(true);
-            return true;
-          }
-          setValidatedCouponEntry(null);
-          setCouponValid(false);
-          return false;
-        } catch (err) {
-          setValidatedCouponEntry(null);
-          setCouponValid(false);
-          return false;
-        }
-      };
-
-      // ── register step 1: validate code ────────────────────────────────────
-      const handleCodeSubmit = async () => {
-        setError('');
-        if (!code || code.length < 14) { setError('Código inválido. Use o formato XXXX-XXXX-XXXX'); return; }
-        const rl = checkRateLimit();
-        if (!rl.allowed) { setError(rl.message); return; }
-        setLoading(true);
-        try {
-          const codeHash = await hashCode(code);
-          const response = await fetch('data/codigos.json?_=' + Date.now());
-          if (!response.ok) throw new Error('Erro ao verificar código');
-          const data = await response.json();
-          const codeEntry = data.codigos[codeHash];
-          if (!codeEntry) { recordFailedAttempt(); setLoading(false); setError('Código de acesso inválido.'); return; }
-          if (!codeEntry.ativo) { recordFailedAttempt(); setLoading(false); setError('Este código foi desativado.'); return; }
-          if (codeEntry.expira) {
-            const expirationDate = new Date(codeEntry.expira);
-            if (new Date() > expirationDate) { recordFailedAttempt(); setLoading(false); setError('Este código expirou em ' + expirationDate.toLocaleDateString('pt-BR') + '.'); return; }
-          }
-          const registeredDevices = codeEntry.dispositivos || [];
-          if (!registeredDevices.includes(fingerprint) && registeredDevices.length >= codeEntry.maxDispositivos) {
-            recordFailedAttempt(); setLoading(false); setError('Limite de dispositivos atingido para este código.'); return;
-          }
-          resetRateLimit();
-          const currentFbUser = regFirebaseUser || window.__fbAuth?.currentUser || null;
-          const currentEmail = (currentFbUser?.email || '').toLowerCase();
-          const codeEmail = (codeEntry.email || '').toLowerCase();
-          if (currentEmail && codeEmail && currentEmail !== codeEmail) {
-            setLoading(false);
-            setError('Este código está associado a outro email.');
-            return;
-          }
-
-          const keyModules = resolveModulesFromCodeEntry(codeEntry);
-          if (String(codeEntry.plano || '').toLowerCase() === 'modulo' && !keyModules) {
-            setLoading(false);
-            setError('Esta chave de módulo está sem configuração de acesso. Contate o suporte.');
-            return;
-          }
-          setValidatedCouponEntry(null);
-          setCouponCode('');
-          setCouponValid(null);
-          setValidatedCode({ hash: codeHash, ...codeEntry, modulosAcesso: keyModules });
-          setRegisterPath('code');
-          if (currentFbUser) {
-            setRegFirebaseUser(currentFbUser);
-            if (currentFbUser.email) setEmail(currentFbUser.email);
-          }
-          setLoading(false);
-          setStep(currentFbUser ? 3 : 2);
-        } catch (err) {
-          setLoading(false);
-          setError('Erro ao verificar código. Verifique sua conexão.');
-        }
-      };
-
-      // ── register step 2: create with email/senha ──────────────────────────
       const handleCreateWithEmail = async () => {
         setError('');
         if (!email) { setError('Email é obrigatório'); return; }
         if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { setError('Email inválido'); return; }
-        if (validatedCode?.email && validatedCode.email !== email) { setError('Este código está associado a outro email.'); return; }
         if (!password || password.length < 6) { setError('Senha deve ter no mínimo 6 caracteres'); return; }
         if (password !== confirmPassword) { setError('As senhas não coincidem'); return; }
         setLoading(true);
         try {
-          const { createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut: fbSignOut } = window.__fbAuthFns;
+          const { createUserWithEmailAndPassword, signInWithEmailAndPassword } = window.__fbAuthFns;
           const cred = await createUserWithEmailAndPassword(window.__fbAuth, email, password);
           setRegFirebaseUser(cred.user);
-          if (registerPath === 'email') {
-            const grant = await loadEmailAccessGrant(cred.user.email);
-            if (!grant || !isEmailGrantValid(grant)) {
-              setLoading(false);
-              setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
-              try { await fbSignOut(window.__fbAuth); } catch {}
-              return;
-            }
-            setEmailInviteGrant(grant);
-            setLoading(false);
-            setStep(3);
-            return;
-          }
+          const grant = await loadEmailAccessGrant(cred.user.email);
+          setEmailInviteGrant(grant && isEmailGrantValid(grant) ? grant : null);
           setLoading(false);
-          setStep(3);
+          setStep(2);
         } catch (err) {
           if (err.code === 'auth/email-already-in-use') {
             try {
               const cred = await signInWithEmailAndPassword(window.__fbAuth, email, password);
               setRegFirebaseUser(cred.user);
-              if (registerPath === 'email') {
-                const grant = await loadEmailAccessGrant(cred.user.email);
-                if (!grant || !isEmailGrantValid(grant)) {
-                  setLoading(false);
-                  setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
-                  try { await window.__fbAuthFns.signOut(window.__fbAuth); } catch {}
-                  return;
-                }
-                setEmailInviteGrant(grant);
-              }
+              const grant = await loadEmailAccessGrant(cred.user.email);
+              setEmailInviteGrant(grant && isEmailGrantValid(grant) ? grant : null);
               setLoading(false);
-              setStep(3);
+              setStep(2);
               return;
             } catch (signInErr) {
               setLoading(false);
               if ((signInErr.code || '') === 'auth/invalid-credential') {
-                setError('Este email já possui conta. Entre com a senha correta para vincular o código.');
+                setError('Este email já possui conta. Use a senha correta ou entre em Entrar.');
               } else {
-                setError('Conta existente encontrada, mas não foi possível entrar: ' + (signInErr.message || ''));
+                setError('Não foi possível entrar: ' + (signInErr.message || ''));
               }
               return;
             }
@@ -4902,29 +5160,20 @@
         }
       };
 
-      // ── register step 2: create with Google ───────────────────────────────
       const handleGoogleRegister = async () => {
         setError('');
         setLoading(true);
         try {
-          const { signInWithPopup, signOut: fbSignOut } = window.__fbAuthFns;
+          const { signInWithPopup } = window.__fbAuthFns;
           const cred = await signInWithPopup(window.__fbAuth, window.__fbGoogleProvider);
           const existing = await loadUserProfile(cred.user);
           if (existing) { setLoading(false); applyProfile(existing); return; }
-          if (registerPath === 'email') {
-            const grant = await loadEmailAccessGrant(cred.user.email);
-            if (!grant || !isEmailGrantValid(grant)) {
-              setLoading(false);
-              setError('Este email ainda não foi liberado. Confirme com a equipe MedGrad+ ou use uma chave de acesso.');
-              try { await fbSignOut(window.__fbAuth); } catch {}
-              return;
-            }
-            setEmailInviteGrant(grant);
-          }
+          const grant = await loadEmailAccessGrant(cred.user.email);
+          setEmailInviteGrant(grant && isEmailGrantValid(grant) ? grant : null);
           setRegFirebaseUser(cred.user);
           setEmail(cred.user.email || '');
           setLoading(false);
-          setStep(3);
+          setStep(2);
         } catch (err) {
           setLoading(false);
           if (err.code !== 'auth/popup-closed-by-user') setError('Erro ao entrar com Google.');
@@ -4937,88 +5186,74 @@
         const campus = getCampusById(facultyId, campusId);
         if (!faculty?.active) { setError('Essa faculdade ainda está em breve.'); return; }
         if (!campus?.active) { setError('Esse campus ainda está em breve.'); return; }
-        setStep(4);
+        setStep(3);
       };
 
-      // ── register step 4: save profile ─────────────────────────────────────
       const handleSemesterSubmit = async () => {
         setError('');
         if (!semester) { setError('Selecione seu módulo'); return; }
-        const ambassadorIdFromKey = validatedCode?.embaixadorId || null;
-        const ambassadorIdFromCoupon = validatedCouponEntry?.linkedToAmbassador || null;
-        const isAmbassadorKey = String(validatedCode?.tipo || '').toLowerCase() === 'embaixador';
-
-        if (isAmbassadorKey && !couponCode) {
-          setError('Para chave de embaixador, o cupom é obrigatório.');
-          return;
-        }
-
-        if (isAmbassadorKey && (!couponValid || !validatedCouponEntry)) {
-          setError('Cupom de embaixador inválido.');
-          return;
-        }
-
-        if (isAmbassadorKey && ambassadorIdFromKey && ambassadorIdFromCoupon && ambassadorIdFromKey !== ambassadorIdFromCoupon) {
-          setError('Este cupom não pertence ao embaixador desta chave.');
-          return;
-        }
-
-        const isAmbassador = isAmbassadorKey && couponValid === true;
-        const ambassadorModules = getAmbassadorModules();
-        const keyModules = isAmbassador
-          ? ambassadorModules
-          : (validatedCode?.modulosAcesso?.length
-              ? validatedCode.modulosAcesso
-              : (emailInviteGrant ? resolveModulesFromCodeEntry(emailInviteGrant) : null));
-        const fromEmailInvite = !!(emailInviteGrant && !validatedCode?.hash);
-        if (fromEmailInvite) {
+        const hasPaidInvite = emailInviteGrant && isEmailGrantValid(emailInviteGrant);
+        if (hasPaidInvite) {
           const kmCheck = resolveModulesFromCodeEntry(emailInviteGrant);
           if (String(emailInviteGrant.plano || '').toLowerCase() === 'modulo' && !kmCheck) {
             setError('Configuração do convite incompleta. Contate o suporte.');
             return;
           }
-        }
-
-        if (!isAmbassador && keyModules && !keyModules.includes(semester)) {
-          setError('Este código ou convite não libera o módulo selecionado.');
-          return;
+          const km = resolveModulesFromCodeEntry(emailInviteGrant);
+          if (km && km.length && !km.includes(semester)) {
+            setError('Este convite não libera o módulo selecionado.');
+            return;
+          }
         }
         setLoading(true);
         try {
           const fbUser = regFirebaseUser || window.__fbAuth?.currentUser;
           if (!fbUser) { setError('Sessão expirada. Reinicie o cadastro.'); setLoading(false); return; }
-          const planFromInvite = emailInviteGrant?.plano || 'basico';
-          const maxFromInvite = emailInviteGrant?.maxDispositivos || 2;
-          const profile = {
-            uid:       fbUser.uid,
-            email:     fbUser.email || email,
-            plano:     validatedCode?.plano || planFromInvite || 'basico',
-            semestre:  semester,
-            modulo:    semester,
-            modulosAcesso: isAmbassador ? ambassadorModules : keyModules,
-            faculdadeId: facultyId,
-            campusId: campusId,
-            codeHash:  validatedCode?.hash || '',
-            accessSource: fromEmailInvite ? 'email_invite' : '',
-            emailGrantId: fromEmailInvite ? (emailInviteGrant?.id || normalizeAuthEmail(fbUser.email)) : '',
-            deviceId:  fingerprint,
-            deviceIds: fingerprint ? [fingerprint] : [],
-            maxDispositivos: validatedCode?.maxDispositivos || maxFromInvite || 2,
-            couponCode: couponCode || null,
-            couponLinkedAt: couponCode ? new Date().toISOString() : null,
-            ambassadorVitalicio: isAmbassador,
-            ambassadorId: isAmbassador ? (ambassadorIdFromKey || ambassadorIdFromCoupon || null) : null,
-            ambassadorEmail: isAmbassador ? (fbUser.email || email || null) : null,
-            lastQualificationCheck: isAmbassador ? new Date().toISOString() : null,
-            qualificationStatus: isAmbassador ? 'approved' : 'pending',
-            loginDate: new Date().toISOString(),
-          };
+          let profile;
+          if (hasPaidInvite) {
+            const planFromInvite = emailInviteGrant.plano || 'basico';
+            const maxFromInvite = Number(emailInviteGrant.maxDispositivos || 2);
+            const keyModules = resolveModulesFromCodeEntry(emailInviteGrant);
+            profile = {
+              uid: fbUser.uid,
+              email: fbUser.email || email,
+              plano: planFromInvite,
+              semestre: semester,
+              modulo: semester,
+              modulosAcesso: keyModules,
+              faculdadeId: facultyId,
+              campusId: campusId,
+              codeHash: '',
+              accessSource: 'email_invite',
+              emailGrantId: emailInviteGrant.id || normalizeAuthEmail(fbUser.email),
+              deviceId: fingerprint,
+              deviceIds: fingerprint ? [fingerprint] : [],
+              maxDispositivos: maxFromInvite,
+              loginDate: new Date().toISOString(),
+            };
+          } else {
+            profile = {
+              uid: fbUser.uid,
+              email: fbUser.email || email,
+              plano: 'gratuito',
+              semestre: semester,
+              modulo: semester,
+              modulosAcesso: [1],
+              faculdadeId: facultyId,
+              campusId: campusId,
+              codeHash: '',
+              accessSource: 'demo_account',
+              emailGrantId: '',
+              deviceId: fingerprint,
+              deviceIds: fingerprint ? [fingerprint] : [],
+              maxDispositivos: 2,
+              loginDate: new Date().toISOString(),
+            };
+          }
           const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
           try {
             await saveUserProfile(fbUser, trackedProfile);
-          } catch (persistErr) {
-            // Keep user inside app even if backend/profile sync fails temporarily.
-          }
+          } catch (persistErr) {}
           setLoading(false);
           applyProfile(trackedProfile);
         } catch (err) {
@@ -5028,7 +5263,6 @@
         }
       };
 
-      // ── login with email/senha ────────────────────────────────────────────
       const handleLoginWithEmail = async () => {
         setError('');
         if (!email || !password) { setError('Preencha email e senha'); return; }
@@ -5044,7 +5278,7 @@
               beginEmailInviteCompletion(cred.user, grant);
               return;
             }
-            beginCodeActivation(cred.user, 'Conta encontrada, mas perfil incompleto. Ative seu código para concluir o acesso.');
+            beginIncompleteRegistration(cred.user, 'Conta encontrada, mas cadastro incompleto. Escolha faculdade e módulo.');
             return;
           }
           const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
@@ -5061,7 +5295,6 @@
         }
       };
 
-      // ── login with Google ─────────────────────────────────────────────────
       const handleGoogleLogin = async () => {
         setError('');
         setLoading(true);
@@ -5076,7 +5309,7 @@
               beginEmailInviteCompletion(cred.user, grant);
               return;
             }
-            beginCodeActivation(cred.user, 'Conta Google encontrada, mas sem cadastro. Ative seu código para continuar.');
+            beginIncompleteRegistration(cred.user, 'Complete seu cadastro: faculdade e módulo.');
             return;
           }
           const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
@@ -5203,7 +5436,7 @@
           </div>
 
           {/* ── RIGHT FORM PANEL ─────────────────────────────────────────── */}
-          <div className="auth-form-panel">
+          <div className={`auth-form-panel${step === 3 ? ' auth-form-panel--tall' : ''}`}>
             <div className="auth-form-inner">
 
               {/* Mobile only: logo + name */}
@@ -5273,13 +5506,13 @@
                   </button>
                   <div style={{ marginTop: '16px', padding: '12px 14px', borderRadius: '12px', background: 'rgba(0,200,150,0.06)', border: '1px solid rgba(0,200,150,0.22)', textAlign: 'center' }}>
                     <p style={{ fontSize: '12px', color: 'var(--text-secondary)', margin: '0 0 10px', lineHeight: 1.45 }}>
-                      Sem código: <strong style={{ color: 'rgba(255,255,255,0.82)' }}>1 aula</strong> com material, flashcards e questões. Acesso completo com chave: todos os módulos e bancos.
+                      Sem plano pago: <strong style={{ color: 'rgba(255,255,255,0.82)' }}>1 aula</strong> com material, flashcards e questões. Acesso completo: convite por email (liberado pela equipe) ou assinatura.
                     </p>
                     <div style={{ display: 'flex', gap: '8px', justifyContent: 'center', flexWrap: 'wrap', alignItems: 'center' }}>
                       <button type="button" className="auth-free-compact-btn" onClick={handleFreeAccess} disabled={loading} aria-label="Experimentar gratuitamente sem cadastro">
                         Experimentar grátis
                       </button>
-                      <a href="comprar.html" style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 2px 10px rgba(0,200,150,0.25)' }}>
+                      <a href={email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? `comprar.html?email=${encodeURIComponent(email)}` : 'comprar.html'} style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 2px 10px rgba(0,200,150,0.25)' }}>
                         Ver planos
                       </a>
                       <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.06)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 600, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.12)' }}>
@@ -5289,9 +5522,9 @@
                   </div>
                   <p style={{ textAlign: 'center', marginTop: '12px', fontSize: '13px', color: 'var(--text-secondary)' }}>
                     Primeira vez?{' '}
-                    <button type="button" onClick={() => { setMode('register'); setStep(1); setRegisterPath('code'); setError(''); }}
+                    <button type="button" onClick={() => { setMode('register'); setStep(1); setError(''); }}
                       style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
-                      Chave ou convite
+                      Criar conta
                     </button>
                   </p>
                 </div>
@@ -5300,57 +5533,24 @@
               {/* ── REGISTER MODE ─────────────────────────────────────────── */}
               {!showForgot && mode === 'register' && (
                 <div>
-                  {/* Step indicator */}
+                  {/* Step indicator: conta → faculdade → módulo */}
                   <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '20px' }}>
-                    {[1,2,3,4].map(s => (
+                    {[1,2,3].map(s => (
                       <React.Fragment key={s}>
                         <div style={{ width: '24px', height: '24px', borderRadius: '50%', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '11px', fontWeight: 'bold',
                           background: step >= s ? 'var(--accent-color, #00C896)' : 'var(--border-color, #333)',
                           color: step >= s ? '#000' : 'var(--text-secondary)' }}>{s}</div>
-                        {s < 4 && <div style={{ flex: 1, height: '2px', background: step > s ? 'var(--accent-color, #00C896)' : 'var(--border-color, #333)' }}></div>}
+                        {s < 3 && <div style={{ flex: 1, height: '2px', background: step > s ? 'var(--accent-color, #00C896)' : 'var(--border-color, #333)' }}></div>}
                       </React.Fragment>
                     ))}
                   </div>
 
-                  {/* Step 1: Code */}
+                  {/* Step 1: Create account */}
                   {step === 1 && (
-                    <div>
-                      <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Código de Acesso</h2>
-                      <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
-                        Digite o código que você recebeu no formato XXXX-XXXX-XXXX
-                      </p>
-                      {error && <div className="error-message" style={{ marginBottom: '14px' }}>{error}</div>}
-                      <input className="form-input" type="text" placeholder="XXXX-XXXX-XXXX" value={code}
-                        onChange={handleCodeChange} maxLength={14}
-                        style={{ textAlign: 'center', fontSize: '20px', letterSpacing: '2px', marginBottom: '16px' }} />
-                      <button className="btn btn-primary" onClick={handleCodeSubmit} disabled={loading}>
-                        {loading ? 'Verificando...' : 'Verificar código'}
-                      </button>
-                      <p style={{ textAlign: 'center', marginTop: '14px', fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.5 }}>
-                        Foi convidado por email (sem chave)?{' '}
-                        <button type="button" onClick={() => { setRegisterPath('email'); setValidatedCode(null); setEmailInviteGrant(null); setStep(2); setError(''); }}
-                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
-                          Continuar com convite por email
-                        </button>
-                      </p>
-                      <p style={{ textAlign: 'center', marginTop: '16px', fontSize: '13px', color: 'var(--text-secondary)' }}>
-                        Já tem conta?{' '}
-                        <button type="button" onClick={() => { setMode('login'); setStep(1); setError(''); }}
-                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
-                          Entrar
-                        </button>
-                      </p>
-                    </div>
-                  )}
-
-                  {/* Step 2: Create account */}
-                  {step === 2 && (
                     <div>
                       <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Criar sua conta</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
-                        {registerPath === 'email'
-                          ? 'Use o mesmo email em que recebeu o convite. Depois você escolhe faculdade e módulo.'
-                          : 'Código válido ✓ — crie sua conta para entrar sempre com email e senha'}
+                        Use o mesmo email em que recebeu o convite (se houver). Depois você escolhe faculdade e módulo. Sem convite, sua conta fica em modo demonstração, como o visitante.
                       </p>
                       {error && <div className="error-message" style={{ marginBottom: '12px' }}>{error}</div>}
                       <input className="form-input" type="email" placeholder="Email" value={email}
@@ -5366,28 +5566,6 @@
                       </div>
                       <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Confirmar senha"
                         value={confirmPassword} onChange={e => { setConfirmPassword(e.target.value); setError(''); }} style={{ marginBottom: '16px' }} />
-                      {registerPath !== 'email' && (
-                      <div style={{ marginBottom: '16px' }}>
-                        <label style={{ fontSize: '12px', color: 'var(--text-secondary)', display: 'block', marginBottom: '6px' }}>
-                          Tem um cupom de embaixadora? (opcional)
-                        </label>
-                        <input 
-                          className="form-input" 
-                          type="text" 
-                          placeholder="Código do cupom" 
-                          value={couponCode}
-                          onChange={async (e) => {
-                            const val = e.target.value.toUpperCase();
-                            setCouponCode(val);
-                            if (val.length > 3) await validateCoupon(val);
-                            else setCouponValid(null);
-                          }}
-                          style={{ marginBottom: '6px' }}
-                        />
-                        {couponValid === true && <p style={{ fontSize: '12px', color: 'var(--success, #10B981)' }}>✓ Cupom válido</p>}
-                        {couponValid === false && couponCode && <p style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Cupom não encontrado ou expirado</p>}
-                      </div>
-                      )}
                       <button className="btn btn-primary" onClick={handleCreateWithEmail} disabled={loading}>
                         {loading ? 'Criando conta...' : 'Criar conta com email'}
                       </button>
@@ -5396,13 +5574,19 @@
                         style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
                         <GoogleIcon /> Criar conta com Google
                       </button>
-                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(1); setRegisterPath('code'); setError(''); }}>Voltar</button>
+                      <p style={{ textAlign: 'center', marginTop: '16px', fontSize: '13px', color: 'var(--text-secondary)' }}>
+                        Já tem conta?{' '}
+                        <button type="button" onClick={() => { setMode('login'); setStep(1); setError(''); }}
+                          style={{ background: 'none', border: 'none', color: 'var(--accent-color, #00C896)', cursor: 'pointer', fontSize: '13px', padding: 0 }}>
+                          Entrar
+                        </button>
+                      </p>
                     </div>
                   )}
 
-                  {/* Step 3: Institution */}
-                  {step === 3 && (
-                    <div>
+                  {/* Step 2: Institution */}
+                  {step === 2 && (
+                    <div className="auth-institution-step">
                       <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Qual é a sua faculdade?</h2>
                       <p className="institution-helper">
                         Escolha sua faculdade e campus. As instituições sem conteúdo liberado ficam visíveis, mas em breve.
@@ -5442,7 +5626,6 @@
                               setCampusId(campus.id);
                               setError('');
                             }}
-                            style={{ minHeight: '78px' }}
                           >
                             <div>
                               <div className="institution-name">{campus.name}</div>
@@ -5456,22 +5639,21 @@
                       <button className="btn btn-primary" onClick={handleInstitutionSubmit} disabled={loading}>
                         Continuar
                       </button>
-                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(2); setError(''); }}>Voltar</button>
+                      <button className="btn btn-secondary mt-2" onClick={() => {
+                        const u = regFirebaseUser || window.__fbAuth?.currentUser;
+                        if (u) { setMode('login'); setStep(1); setError(''); }
+                        else { setStep(1); setError(''); }
+                      }}>Voltar</button>
                     </div>
                   )}
 
-                  {/* Step 4: Module */}
-                  {step === 4 && (
+                  {/* Step 3: Module */}
+                  {step === 3 && (
                     <div>
                       <h2 style={{ fontSize: '18px', marginBottom: '6px', color: 'var(--text-primary)', fontFamily: 'Outfit' }}>Qual é o seu módulo?</h2>
                       <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>
                         Em qual módulo ou semestre você está em {getFacultyById(facultyId)?.shortName} {getCampusById(facultyId, campusId)?.name}?
                       </p>
-                      {validatedCode?.modulosAcesso?.length && (
-                        <p style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
-                          Esta chave libera os módulos: {validatedCode.modulosAcesso.join(', ')}
-                        </p>
-                      )}
                       {emailInviteGrant && resolvedEmailModules?.length && (
                         <p style={{ fontSize: '12px', color: 'var(--warning)', marginBottom: '10px' }}>
                           Seu convite libera os módulos: {resolvedEmailModules.join(', ')}
@@ -5489,7 +5671,7 @@
                       <button className="btn btn-primary" onClick={handleSemesterSubmit} disabled={loading}>
                         {loading ? 'Salvando...' : 'Começar'}
                       </button>
-                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(3); setError(''); }}>Voltar</button>
+                      <button className="btn btn-secondary mt-2" onClick={() => { setStep(2); setError(''); }}>Voltar</button>
                     </div>
                   )}
 
@@ -5523,7 +5705,7 @@
       }, []);
 
       const srDataForHome = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
-      const dueCards = SM2.getReviewDueCards(flashcards, srDataForHome);
+      const dueCards = SM2.getDueCards(flashcards, srDataForHome);
       const reviewedCards = flashcards.filter(f => srDataForHome[f.id] && !srDataForHome[f.id].buried);
 
       const displayMaterias = viewAll
@@ -5552,10 +5734,15 @@
                 <div className="upsell-banner-text">
                   <strong>Modo demonstração — conheça a plataforma</strong>
                   <span>
-                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo abre com código.
+                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo exige plano pago ou convite liberado por email.
                   </span>
                 </div>
-                <button type="button" className="upsell-banner-btn" onClick={() => { window.location.href = 'comprar.html'; }}>
+                <button type="button" className="upsell-banner-btn" onClick={() => {
+                  const em = user?.email;
+                  window.location.href = (em && !user.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
+                    ? `comprar.html?email=${encodeURIComponent(em)}`
+                    : 'comprar.html';
+                }}>
                   Ver planos
                 </button>
               </div>
@@ -5671,8 +5858,18 @@
       );
     };
 
+    const FC_CATEGORY_LABELS = {
+      definicao: 'Definição',
+      mecanismo: 'Mecanismo',
+      clinica: 'Clínica',
+      diferenciacao: 'Diferenciação',
+      prova: 'Prova',
+      extra_livro: 'Extra (livro)',
+    };
+    const FC_CATEGORY_ORDER = ['definicao', 'mecanismo', 'clinica', 'diferenciacao', 'prova', 'extra_livro'];
+
     // Flashcards Screen
-    const FlashcardsScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester }) => {
+    const FlashcardsScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester, initialAulaId }) => {
       const [currentIndex, setCurrentIndex] = useState(0);
       const [isFlipped, setIsFlipped] = useState(false);
       const [sessionComplete, setSessionComplete] = useState(false);
@@ -5680,9 +5877,12 @@
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
       const [searchQuery, setSearchQuery] = useState('');
       const [selectedTemas, setSelectedTemas] = useState([]);
+      const [selectedCategorias, setSelectedCategorias] = useState([]);
       const [studying, setStudying] = useState(false);
       const [sessionDeck, setSessionDeck] = useState([]);
-      const srData = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+      const [srTick, setSrTick] = useState(0);
+      const routeAulaAppliedRef = useRef(false);
+      const srData = useMemo(() => JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'), [srTick]);
 
       useEffect(() => {
         setCurrentIndex(0);
@@ -5691,60 +5891,87 @@
         setSessionStats({ correct: 0, total: 0 });
         setStudying(false);
         setSelectedTemas([]);
+        setSelectedCategorias([]);
         setSessionDeck([]);
+        routeAulaAppliedRef.current = false;
       }, [selectedMateria]);
 
-      // Keyboard shortcuts
       useEffect(() => {
-        if (!studying || sessionComplete) return;
-        const handleKey = (e) => {
-          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
-          if (!isFlipped) {
-            if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(true); }
-          } else {
-            if (e.key === '1') handleDeNovo();
-            else if (e.key === '2') handleRate(5);
-            else if (e.key === '3') handleRate(3);
-            else if (e.key === '4') handleRate(2);
-            else if (e.code === 'Space' || e.key === ' ') { e.preventDefault(); setIsFlipped(false); }
-          }
-        };
-        window.addEventListener('keydown', handleKey);
-        return () => window.removeEventListener('keydown', handleKey);
-      }, [studying, sessionComplete, isFlipped, currentIndex]);
+        if (!selectedMateria) routeAulaAppliedRef.current = false;
+      }, [selectedMateria]);
 
-      const pureFlashcards = flashcards.filter(f => f.tipo !== 'quiz');
+      useEffect(() => {
+        routeAulaAppliedRef.current = false;
+      }, [initialAulaId]);
 
-      const filteredByMateria = pureFlashcards.filter(
-        f => !selectedMateria || f.materia === selectedMateria
+      const pureFlashcards = useMemo(() => flashcards.filter(f => f.tipo !== 'quiz'), [flashcards]);
+
+      const filteredByMateria = useMemo(
+        () => pureFlashcards.filter(f => !selectedMateria || f.materia === selectedMateria),
+        [pureFlashcards, selectedMateria]
       );
 
-      const filtered = selectedTemas.length === 0
-        ? filteredByMateria.filter(f => !srData[f.id]?.buried)
-        : filteredByMateria.filter(f => selectedTemas.includes(f.tema) && !srData[f.id]?.buried);
+      useEffect(() => {
+        if (routeAulaAppliedRef.current || !initialAulaId || !selectedMateria) return;
+        const ok = pureFlashcards.some(f => f.materia === selectedMateria && f.tema === initialAulaId);
+        if (ok) {
+          setSelectedTemas([initialAulaId]);
+          routeAulaAppliedRef.current = true;
+        }
+      }, [initialAulaId, selectedMateria, pureFlashcards]);
 
-      // Build deck helper (used at session start)
-      const buildDeck = (cards) => {
-        const due = SM2.getDueCards(cards, srData);
-        if (due.length > 0) return due;
-        return [...cards].sort(() => Math.random() - 0.5);
+      const filtered = useMemo(() => {
+        let pool = filteredByMateria.filter((f) => !srData[f.id]?.buried);
+        if (selectedTemas.length > 0) pool = pool.filter((f) => selectedTemas.includes(f.tema));
+        if (selectedCategorias.length > 0) pool = pool.filter((f) => f.categoria && selectedCategorias.includes(f.categoria));
+        return pool;
+      }, [filteredByMateria, selectedTemas, selectedCategorias, srData]);
+
+      const availableCategories = useMemo(() => {
+        const set = new Set();
+        filteredByMateria.forEach((f) => {
+          if (f.categoria) set.add(f.categoria);
+        });
+        return FC_CATEGORY_ORDER.filter((c) => set.has(c));
+      }, [filteredByMateria]);
+
+      const toggleCategoria = (cat) => {
+        setSelectedCategorias((prev) =>
+          prev.includes(cat) ? prev.filter((c) => c !== cat) : [...prev, cat]
+        );
       };
 
-      // Always SM2 — get due cards, fallback to all shuffled if none due
+      const buildDeck = useCallback(
+        (cards) => {
+          const due = SM2.getDueCards(cards, srData);
+          if (due.length > 0) return due;
+          return [...cards].sort(() => Math.random() - 0.5);
+        },
+        [srData]
+      );
+
       const deck = useMemo(() => {
         if (!selectedMateria) return [];
         return buildDeck(filtered);
-      }, [selectedMateria, filtered.length, selectedTemas.length]);
+      }, [selectedMateria, filtered, buildDeck]);
 
       const currentCard = sessionDeck[currentIndex];
 
-      const handleRate = (quality) => {
+      const handleRate = useCallback((quality) => {
         const card = currentCard;
         if (!card) return;
-        const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
-        const result = SM2.calculateNextReview(quality, currentData.reps, currentData.ef, currentData.interval);
-        srData[card.id] = { ...result };
-        localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
+        const raw = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+        const prev = normalizeSrEntry(raw[card.id]) || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
+        const result = SM2.calculateNextReview(quality, prev.reps, prev.ef, prev.interval);
+        raw[card.id] = {
+          reps: result.reps,
+          ef: result.ef,
+          interval: result.interval,
+          nextReview: result.nextReview,
+          buried: false,
+        };
+        localStorage.setItem('meduni9_sr_data', JSON.stringify(raw));
+        setSrTick((t) => t + 1);
 
         const isGood = quality >= 3;
         const newStats = { ...sessionStats, total: sessionStats.total + 1, correct: sessionStats.correct + (isGood ? 1 : 0) };
@@ -5757,14 +5984,13 @@
           setSessionStats(newStats);
           setSessionComplete(true);
         }
-      };
+      }, [currentCard, currentIndex, sessionDeck, sessionStats]);
 
-      const handleDeNovo = () => {
+      const handleDeNovo = useCallback(() => {
         const card = currentCard;
         if (!card) return;
         const remaining = sessionDeck.length - currentIndex - 1;
         if (remaining > 0) {
-          // Move card to end — re-show later this session, no SM-2 update
           const newDeck = [
             ...sessionDeck.slice(0, currentIndex),
             ...sessionDeck.slice(currentIndex + 1),
@@ -5773,17 +5999,18 @@
           setSessionDeck(newDeck);
           setIsFlipped(false);
         } else {
-          // Only card left — schedule and finish
           handleRate(1);
         }
-      };
+      }, [currentCard, currentIndex, sessionDeck, handleRate]);
 
       const handleBury = () => {
         const card = currentCard;
         if (!card) return;
-        const currentData = srData[card.id] || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
-        srData[card.id] = { ...currentData, buried: true };
-        localStorage.setItem('meduni9_sr_data', JSON.stringify(srData));
+        const raw = JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}');
+        const prev = normalizeSrEntry(raw[card.id]) || { reps: 0, ef: 2.5, interval: 0, nextReview: Date.now() };
+        raw[card.id] = { ...prev, buried: true };
+        localStorage.setItem('meduni9_sr_data', JSON.stringify(raw));
+        setSrTick((t) => t + 1);
         if (currentIndex < sessionDeck.length - 1) {
           setCurrentIndex(currentIndex + 1);
           setIsFlipped(false);
@@ -5791,6 +6018,30 @@
           setSessionComplete(true);
         }
       };
+
+      useEffect(() => {
+        if (!studying || sessionComplete) return;
+        const handleKey = (e) => {
+          if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+          if (!isFlipped) {
+            if (e.code === 'Space' || e.key === ' ') {
+              e.preventDefault();
+              setIsFlipped(true);
+            }
+          } else {
+            if (e.key === '1') handleDeNovo();
+            else if (e.key === '2') handleRate(5);
+            else if (e.key === '3') handleRate(3);
+            else if (e.key === '4') handleRate(2);
+            else if (e.code === 'Space' || e.key === ' ') {
+              e.preventDefault();
+              setIsFlipped(false);
+            }
+          }
+        };
+        window.addEventListener('keydown', handleKey);
+        return () => window.removeEventListener('keydown', handleKey);
+      }, [studying, sessionComplete, isFlipped, currentIndex, handleRate, handleDeNovo]);
 
       const handleReport = () => {
         const card = currentCard;
@@ -5821,6 +6072,7 @@
         setSessionStats({ correct: 0, total: 0 });
         setStudying(false);
         setSelectedTemas([]);
+        setSelectedCategorias([]);
         setSessionDeck([]);
       };
 
@@ -5859,7 +6111,7 @@
                 )}
                 {filteredMaterias.map(m => {
                   const count = pureFlashcards.filter(f => f.materia === m.id).length;
-                  const dueCount = SM2.getReviewDueCards(pureFlashcards.filter(f => f.materia === m.id), srData).length;
+                  const dueCount = SM2.getDueCards(pureFlashcards.filter(f => f.materia === m.id), srData).length;
                   const reviewedCount = count - dueCount;
                   const pct = count > 0 ? Math.round((reviewedCount / count) * 100) : 0;
                   const subjectColor = SUBJECT_ICON_MAP[m.id]?.color || m.cor || 'var(--primary)';
@@ -5893,7 +6145,7 @@
       // Tema selector
       if (!studying) {
         const totalCards = filteredByMateria.length;
-        const dueTotal = SM2.getReviewDueCards(filteredByMateria, srData).length;
+        const dueTotal = SM2.getDueCards(filteredByMateria, srData).length;
         const materiaObj = materias.find(m => m.id === selectedMateria);
         const temasFromCards = [...new Set(filteredByMateria.map(f => f.tema).filter(Boolean))];
 
@@ -5909,8 +6161,36 @@
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
                 {totalCards > 0 ? (dueTotal > 0 ? `${dueTotal} cards para revisar hoje` : 'Todos os cards em dia!') : 'Nenhum flashcard ainda'} — {totalCards} total
               </p>
+              {totalCards > 0 && availableCategories.length > 0 && (
+                <div className="flashcards-category-chips">
+                  <span className="flashcards-category-chips-label">Categoria</span>
+                  <button
+                    type="button"
+                    className={'fc-cat-chip' + (selectedCategorias.length === 0 ? ' active' : '')}
+                    onClick={() => setSelectedCategorias([])}
+                  >
+                    Todas
+                  </button>
+                  {availableCategories.map((cat) => (
+                    <button
+                      key={cat}
+                      type="button"
+                      className={'fc-cat-chip' + (selectedCategorias.includes(cat) ? ' active' : '')}
+                      onClick={() => toggleCategoria(cat)}
+                    >
+                      {FC_CATEGORY_LABELS[cat] || cat}
+                    </button>
+                  ))}
+                </div>
+              )}
               <div className="subject-select-list" style={{ paddingBottom: selectedTemas.length > 0 ? '72px' : '0' }}>
-                <div className="subject-select-card" onClick={() => { const allCards = filteredByMateria.filter(f => !srData[f.id]?.buried); setSelectedTemas([]); setSessionDeck(buildDeck(allCards)); setStudying(true); }}
+                <div className="subject-select-card" onClick={() => {
+                  let pool = filteredByMateria.filter(f => !srData[f.id]?.buried);
+                  if (selectedCategorias.length > 0) pool = pool.filter(f => f.categoria && selectedCategorias.includes(f.categoria));
+                  setSelectedTemas([]);
+                  setSessionDeck(buildDeck(pool));
+                  setStudying(true);
+                }}
                   style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
                   <div className="subject-select-icon" style={{ background: 'rgba(0,200,150,0.15)', color: 'var(--primary)' }}><IconBookOpen /></div>
                   <div className="subject-select-info">
@@ -5923,7 +6203,7 @@
                 {hasAulas ? (
                   aulas.map(aula => {
                     const cards = filteredByMateria.filter(f => f.tema === aula.id);
-                    const dueCount = SM2.getReviewDueCards(cards, srData).length;
+                    const dueCount = SM2.getDueCards(cards, srData).length;
                     const isChecked = selectedTemas.includes(aula.id);
                     const hasCards = cards.length > 0;
                     return (
@@ -5939,7 +6219,7 @@
                 ) : (
                   temasFromCards.sort().map(tema => {
                     const count = filteredByMateria.filter(f => f.tema === tema).length;
-                    const dueCount = SM2.getReviewDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
+                    const dueCount = SM2.getDueCards(filteredByMateria.filter(f => f.tema === tema), srData).length;
                     const isChecked = selectedTemas.includes(tema);
                     return (
                       <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => toggleTema(tema)}>
@@ -5959,7 +6239,7 @@
                   <span style={{ color: 'var(--text-secondary)', fontSize: '13px' }}>
                     {selectedTemas.length} assunto{selectedTemas.length > 1 ? 's' : ''} selecionado{selectedTemas.length > 1 ? 's' : ''}
                   </span>
-                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => { setSessionDeck([...deck]); setStudying(true); }}>
+                  <button className="btn btn-primary" style={{ padding: '8px 20px', fontSize: '14px' }} onClick={() => { setSessionDeck(buildDeck(filtered)); setStudying(true); }}>
                     Iniciar estudo →
                   </button>
                 </div>
@@ -6132,7 +6412,7 @@
     };
 
     // Quiz Screen
-    const QuizScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester }) => {
+    const QuizScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester, initialAulaId }) => {
       const [activeQuiz, setActiveQuiz] = useState(null);
       const [activeTemas, setActiveTemas] = useState([]);
       const [showTemaSelector, setShowTemaSelector] = useState(false);
@@ -6148,6 +6428,7 @@
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
       const [searchQuery, setSearchQuery] = useState('');
       const [showCadernoErros, setShowCadernoErros] = useState(false);
+      const quizRouteAulaAppliedRef = useRef(false);
 
       // Caderno de erros — localStorage
       const getErros = () => JSON.parse(localStorage.getItem('meduni9_caderno_erros') || '[]');
@@ -6195,12 +6476,6 @@
         }
         return result;
       }, [quizzes, semesterFilter, searchQuery]);
-
-      useEffect(() => {
-        if (!selectedMateria || activeQuiz || showTemaSelector || showCadernoErros || quizComplete) return;
-        if (!quizzes[selectedMateria]) return;
-        handleMateriaClick(selectedMateria);
-      }, [selectedMateria, quizzes, activeQuiz, showTemaSelector, showCadernoErros, quizComplete]);
 
       // Keyboard shortcuts for quiz
       useEffect(() => {
@@ -6265,6 +6540,24 @@
           handleQuizStart(materiaId, []);
         }
       };
+
+      useEffect(() => {
+        quizRouteAulaAppliedRef.current = false;
+      }, [initialAulaId, selectedMateria]);
+
+      useEffect(() => {
+        if (!selectedMateria || activeQuiz || showTemaSelector || showCadernoErros || quizComplete) return;
+        if (!quizzes[selectedMateria]) return;
+        if (initialAulaId && !quizRouteAulaAppliedRef.current) {
+          const cards = quizzes[selectedMateria]?.cards || [];
+          if (cards.some(c => c.tema === initialAulaId)) {
+            quizRouteAulaAppliedRef.current = true;
+            handleQuizStart(selectedMateria, [initialAulaId]);
+            return;
+          }
+        }
+        handleMateriaClick(selectedMateria);
+      }, [selectedMateria, quizzes, activeQuiz, showTemaSelector, showCadernoErros, quizComplete, initialAulaId]);
 
       const togglePendingTema = (temaId) => {
         setPendingTemas(prev =>
@@ -7168,7 +7461,7 @@
         if (!hasAccess) {
           body = (
             <div className="materials-cycle-empty">
-              Este ciclo não está incluído na sua chave. Atualize seu plano ou chave para acessar estes módulos.
+              Este ciclo não está incluído no seu plano. Atualize o plano ou o convite para acessar estes módulos.
             </div>
           );
         } else if (!hasCatalog) {
@@ -7182,7 +7475,7 @@
           body = (
             <div className="materials-cycle-empty" style={{ display: 'flex', alignItems: 'center', gap: '12px', flexWrap: 'wrap' }}>
               <span className="material-badge" style={{ flexShrink: 0 }}>Em breve</span>
-              <span>Materiais para os módulos da sua chave neste ciclo ainda por vir.</span>
+              <span>Materiais para os módulos do seu plano neste ciclo ainda por vir.</span>
             </div>
           );
         } else if (sectionMaterias.length === 0 && q) {
@@ -7212,8 +7505,9 @@
 
       // --- DETAIL VIEW: when a material is selected, replace entire screen ---
       if (selectedMaterial) {
+        const preProvaMd = !materialLoading && materialContent ? splitAtPreProva(materialContent).preProva : null;
         return (
-          <div className="screen-content" style={{ paddingBottom: '32px' }}>
+          <div className="screen-content screen-content--material-detail">
 
             {/* Header bar */}
             <div style={{
@@ -7268,6 +7562,20 @@
                   textOverflow: 'ellipsis',
                 }}>{selectedMaterial.temaNome}</div>
               </div>
+              {preProvaMd && (
+                <button
+                  type="button"
+                  className="material-jump-preprova"
+                  title="Ir para o resumo Pré-Prova"
+                  onClick={() => {
+                    document.getElementById('material-preprova-block')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                  }}
+                >
+                  <span className="material-jump-preprova__icon" aria-hidden="true">⚡</span>
+                  <span className="material-jump-preprova__label">Pré-Prova</span>
+                  <span className="material-jump-preprova__arrow" aria-hidden="true">↓</span>
+                </button>
+              )}
             </div>
 
             {/* Botões de ação — Flashcards e Questões */}
@@ -7278,7 +7586,7 @@
                 marginBottom: '16px',
               }}>
                 <button
-                  onClick={() => onNavigateTo('cards', selectedMaterial.materiaId)}
+                  onClick={() => onNavigateTo('cards', selectedMaterial.materiaId, selectedMaterial.temaId)}
                   style={{
                     flex: 1,
                     display: 'flex',
@@ -7301,7 +7609,7 @@
                   Flashcards
                 </button>
                 <button
-                  onClick={() => onNavigateTo('quiz', selectedMaterial.materiaId)}
+                  onClick={() => onNavigateTo('quiz', selectedMaterial.materiaId, selectedMaterial.temaId)}
                   style={{
                     flex: 1,
                     display: 'flex',
@@ -7392,7 +7700,7 @@
                   <div className="material-doc-inner">
                   <div
                     ref={markdownRef}
-                    className="markdown-body"
+                    className="markdown-body material-markdown-card"
                     style={{
                       background: 'linear-gradient(180deg, rgba(0,200,150,0.05) 0%, rgba(15,23,42,0.7) 120px)',
                       border: '1px solid rgba(0,200,150,0.15)',
@@ -7507,8 +7815,9 @@
 
                   {/* Pré-Prova collapsible */}
                   {preProva && (
-                    <div style={{ marginTop: '16px' }}>
+                    <div id="material-preprova-block" className="material-preprova-block" style={{ marginTop: '16px' }}>
                       <button
+                        type="button"
                         onClick={() => setPreProvaVisible(v => !v)}
                         style={{
                           width: '100%',
@@ -7548,7 +7857,7 @@
 
                       {preProvaVisible && (
                         <div
-                          className="markdown-body preprova-content"
+                          className="markdown-body preprova-content material-markdown-card--pre"
                           style={{
                             background: 'rgba(245,158,11,0.05)',
                             border: '1px solid rgba(245,158,11,0.2)',
@@ -8039,7 +8348,19 @@
     function filterSubsectionsByRegion(subs, region) {
       if (!subs || !subs.length) return [];
       if (region === 'todas') return subs.slice();
+      if (region === 'primeiros_passos') {
+        return subs.filter((sub) => {
+          const x = sub.regiao || '';
+          return x === 'tecido_basico' || x === 'primeiros_passos';
+        });
+      }
       return subs.filter(sub => (sub.regiao || '') === region);
+    }
+    /** Primeira letra em maiúscula (inclui letras acentuadas em português). */
+    function revisaoSentenceCase(s) {
+      if (s == null || s === '') return s;
+      const t = String(s);
+      return t.replace(/^\p{L}/u, (ch) => ch.toUpperCase());
     }
     function applyRevisaoQueryToSub(sub, ql) {
       if (!ql) return sub;
@@ -8059,30 +8380,36 @@
     }
     const REVISAO_REGION_LABELS = {
       todas: 'Todas',
+      primeiros_passos: 'Primeiros passos',
       cabeca: 'Cabeça',
-      cabeca_tronco: 'Cabeça/tronco',
-      cabeca_pescoco: 'Cabeça/pescoço',
+      cabeca_tronco: 'Cabeça e tronco',
+      cabeca_pescoco: 'Cabeça e pescoço',
       torax: 'Tórax',
       abdome: 'Abdome',
       pelve: 'Pelve',
-      membro_superior: 'Membro sup.',
-      membro_inferior: 'Membro inf.',
+      membro_superior: 'Membros superiores',
+      membro_inferior: 'Membros inferiores',
+    };
+    const HISTOLOGIA_REVISAO_REGION_LABELS = {
+      todas: 'Todas',
+      primeiros_passos: 'Primeiros passos',
+      tecido_basico: 'Primeiros passos',
     };
 
     const RevisaoSequenceBlock = ({ block, accentColor }) => (
-      <div style={{ marginBottom: '12px', padding: '14px 16px', borderRadius: '14px', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01))' }}>
+      <div style={{ marginBottom: '14px', padding: '14px 16px', borderRadius: '14px', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(145deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01))' }}>
         {block.title && (
-          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: accentColor, marginBottom: '12px', fontFamily: 'Outfit, sans-serif' }}>{block.title}</div>
+          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: '#FFFFFF', marginBottom: '12px', fontFamily: 'Outfit, sans-serif', textAlign: 'center' }}>{block.title}</div>
         )}
-        <div role="list" aria-label={block.title || 'Sequência'}>
+        <div style={{ maxWidth: '560px', margin: '0 auto', width: '100%' }} role="list" aria-label={block.title || 'Sequência'}>
           {(block.steps || []).map((st, i) => (
             <React.Fragment key={i}>
-              <div role="listitem" style={{ padding: '10px 12px', borderRadius: '10px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
-                <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)' }}>{st.label}</div>
-                {st.detail && <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px', lineHeight: 1.5 }}>{st.detail}</div>}
+              <div role="listitem" style={{ padding: '10px 12px', borderRadius: '10px', background: 'rgba(255,255,255,0.04)', border: '1px solid ' + accentColor + '33', textAlign: 'center' }}>
+                <div style={{ fontWeight: 700, fontSize: '13px', color: '#FFFFFF' }}>{revisaoSentenceCase(st.label)}</div>
+                {st.detail && <div style={{ fontSize: '12px', color: '#FFFFFF', marginTop: '6px', lineHeight: 1.55, opacity: 0.92 }}>{revisaoSentenceCase(st.detail)}</div>}
               </div>
               {i < (block.steps || []).length - 1 && (
-                <div style={{ textAlign: 'center', padding: '5px 0', color: accentColor, fontSize: '15px', fontWeight: 700, opacity: 0.75 }} aria-hidden="true">↓</div>
+                <div style={{ textAlign: 'center', padding: '6px 0', color: '#FFFFFF', fontSize: '15px', fontWeight: 700, opacity: 0.55 }} aria-hidden="true">↓</div>
               )}
             </React.Fragment>
           ))}
@@ -8091,20 +8418,37 @@
     );
 
     const RevisaoHubBlock = ({ block, accentColor }) => (
-      <div style={{ marginBottom: '12px', padding: '16px', borderRadius: '14px', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(160deg, rgba(139,92,246,0.07), rgba(99,102,241,0.03))' }}>
+      <div style={{
+        marginBottom: '14px', padding: '16px', borderRadius: '14px',
+        border: '1px solid ' + accentColor + '28',
+        background: 'linear-gradient(165deg, ' + accentColor + '14, rgba(255,255,255,0.02))',
+      }}>
         {block.title && (
-          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: accentColor, marginBottom: '12px', fontFamily: 'Outfit, sans-serif' }}>{block.title}</div>
+          <div style={{ fontSize: '11px', fontWeight: 800, letterSpacing: '0.06em', textTransform: 'uppercase', color: '#FFFFFF', marginBottom: '14px', fontFamily: 'Outfit, sans-serif', textAlign: 'center' }}>{block.title}</div>
         )}
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '12px' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 0, width: '100%', maxWidth: '560px', margin: '0 auto' }}>
           <div style={{
-            padding: '12px 18px', borderRadius: '12px', fontWeight: 800, fontSize: '14px', color: 'var(--text-primary)',
-            background: accentColor + '24', border: '2px solid ' + accentColor + '55', textAlign: 'center', maxWidth: '100%', fontFamily: 'Outfit, sans-serif',
-          }}>{block.center}</div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(136px, 1fr))', gap: '8px', width: '100%' }}>
+            padding: '12px 18px', borderRadius: '12px', fontWeight: 800, fontSize: '14px', color: '#FFFFFF',
+            background: accentColor + '26', border: '2px solid ' + accentColor + '55', textAlign: 'center', maxWidth: 'min(100%, 420px)', width: '100%', fontFamily: 'Outfit, sans-serif', lineHeight: 1.35,
+          }}>{revisaoSentenceCase(block.center)}</div>
+          <div style={{ width: '2px', height: '14px', background: accentColor, opacity: 0.55, borderRadius: '1px', marginTop: '10px', marginBottom: '10px' }} aria-hidden="true" />
+          <div
+            role="group"
+            aria-label={block.title ? 'Ramos: ' + block.title : 'Ramos do mapa'}
+            style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'stretch', gap: '10px', width: '100%' }}
+          >
             {(block.branches || []).map((br, i) => (
-              <div key={i} style={{ padding: '10px 12px', borderRadius: '10px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
-                <div style={{ fontWeight: 700, fontSize: '12px', color: 'var(--text-primary)' }}>{br.label}</div>
-                {br.hint && <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', lineHeight: 1.4 }}>{br.hint}</div>}
+              <div
+                key={i}
+                style={{
+                  flex: '1 1 140px', maxWidth: '240px', minWidth: '132px', boxSizing: 'border-box',
+                  padding: '12px 14px', borderRadius: '10px',
+                  background: 'rgba(255,255,255,0.05)', border: '1px solid ' + accentColor + '22',
+                  textAlign: 'center',
+                }}
+              >
+                <div style={{ fontWeight: 700, fontSize: '13px', color: '#FFFFFF', fontFamily: 'Outfit, sans-serif' }}>{revisaoSentenceCase(br.label)}</div>
+                {br.hint && <div style={{ fontSize: '12px', color: '#FFFFFF', marginTop: '6px', lineHeight: 1.55, opacity: 0.92 }}>{revisaoSentenceCase(br.hint)}</div>}
               </div>
             ))}
           </div>
@@ -8113,15 +8457,15 @@
     );
 
     const RevisaoCardsBlock = ({ block, accentColor }) => (
-      <div style={{ display: 'flex', flexDirection: 'column', gap: '6px' }}>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', marginBottom: '2px' }}>
         {(block.items || []).map((it, ii) => (
           <div key={ii} style={{
             padding: '10px 12px', marginBottom: '2px',
             background: 'rgba(255,255,255,0.03)', borderRadius: '8px',
             borderLeft: '3px solid ' + accentColor,
           }}>
-            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
-            <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
+            <div style={{ fontWeight: 700, fontSize: '13px', color: '#FFFFFF', marginBottom: '4px' }}>{revisaoSentenceCase(it.q)}</div>
+            <div style={{ fontSize: '12px', color: '#FFFFFF', lineHeight: 1.7, opacity: 0.92 }}>{revisaoSentenceCase(it.a)}</div>
           </div>
         ))}
       </div>
@@ -8129,6 +8473,7 @@
 
     const REVISAO_ICON_MAP = {
       locomotor: IconSysLocomotor,
+      muscular: IconSysMuscle,
       cardiovascular: IconSysCardio,
       respiratorio: IconSysResp,
       nervoso: IconSysNeuro,
@@ -8303,18 +8648,22 @@
       );
     };
 
+    const ANATOMIA_INTRO_STORAGE_KEY = 'medgrad_anatomia_intro_dismissed';
+
     const AnatomiaScreen = ({ user }) => {
       const [viewMode, setViewMode] = React.useState('atlas');
       const [openSystem, setOpenSystem] = React.useState(null);
       const [openSub, setOpenSub] = React.useState({});
       const [search, setSearch] = React.useState('');
-      const [selectedRegion, setSelectedRegion] = React.useState('todas');
       const [atlasData, setAtlasData] = React.useState(null);
       const [atlasErr, setAtlasErr] = React.useState(null);
       const [atlasNav, setAtlasNav] = React.useState({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
       const [revisaoData, setRevisaoData] = React.useState(null);
       const [revisaoErr, setRevisaoErr] = React.useState(null);
       const [atlasDemoNotice, setAtlasDemoNotice] = React.useState(null);
+      const [anatomiaIntroOpen, setAnatomiaIntroOpen] = React.useState(() => {
+        try { return localStorage.getItem(ANATOMIA_INTRO_STORAGE_KEY) !== '1'; } catch (e) { return true; }
+      });
 
       const atlasFreeLock = isFreeTierUser(user);
 
@@ -8335,20 +8684,10 @@
       const q = search.toLowerCase().trim();
       const sistemasBase = revisaoData && Array.isArray(revisaoData.sistemas) ? revisaoData.sistemas : [];
 
-      const regionKeys = React.useMemo(() => {
-        const set = new Set();
-        sistemasBase.forEach(sys => {
-          (sys.subsections || []).forEach(sub => {
-            if (sub.regiao) set.add(sub.regiao);
-          });
-        });
-        return ['todas', ...Array.from(set).sort()];
-      }, [sistemasBase]);
-
       const filtered = React.useMemo(() => {
         if (!sistemasBase.length) return [];
         return sistemasBase.map(sys => {
-          const regionFiltered = filterSubsectionsByRegion(sys.subsections, selectedRegion);
+          const regionFiltered = sys.subsections || [];
           if (!q) {
             return { ...sys, subsections: regionFiltered };
           }
@@ -8364,7 +8703,7 @@
           }
           return { ...sys, subsections: finalSubs };
         }).filter(sys => sys && (sys.subsections || []).length > 0);
-      }, [sistemasBase, q, selectedRegion]);
+      }, [sistemasBase, q]);
 
       const toggleSystem = (id) => { setOpenSystem(prev => prev === id ? null : id); setOpenSub({}); };
       const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
@@ -8404,11 +8743,45 @@
         <div className="screen-content">
           <div style={{ maxWidth: '720px', margin: '0 auto' }}>
             <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Anatomia</h2>
-            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '18px', lineHeight: 1.5 }}>
+            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '14px', lineHeight: 1.5 }}>
               {viewMode === 'revisao'
-                ? 'Ordem, trajetos e relações — use a busca, o filtro por região ou abra cada sistema.'
-                : 'Atlas visual por sistema ou revisão rápida em texto para pré-prova.'}
+                ? 'Texto para revisar estruturas, trajetos e relações por sistema. Abra cada bloco na ordem que preferir e use a busca para achar um tópico.'
+                : 'Atlas visual com ilustrações por sistema e região. Abra cada sistema, depois a divisão e a lâmina desejada.'}
             </p>
+
+            {anatomiaIntroOpen && (
+              <div style={{
+                marginBottom: '18px', padding: '16px 18px', borderRadius: '14px',
+                border: '1px solid rgba(139,92,246,0.4)',
+                background: 'linear-gradient(165deg, rgba(139,92,246,0.14), rgba(99,102,241,0.08))',
+              }}>
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#C4B5FD', marginBottom: '10px', fontFamily: 'Outfit, sans-serif' }}>Primeira leitura</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
+                  <strong style={{ display: 'block', marginBottom: '8px' }}>O que é anatomia macroscópica</strong>
+                  É o estudo das formas, posições e relações dos órgãos e estruturas que podemos ver sem microscópio. Aqui você parte dos sistemas (por exemplo locomotor, cardiovascular) e aprofunda por região do corpo.
+                </div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
+                  <strong style={{ display: 'block', marginBottom: '8px' }}>Como usar esta área</strong>
+                  Em <strong>Atlas visual</strong>, escolha o sistema, depois a divisão anatômica e a lâmina. Em <strong>Revisão rápida</strong>, todo o conteúdo por sistema fica disponível; use sequências, mapas em hub e cartões. A busca ajuda a achar um músculo, osso ou nervo rapidamente.
+                </div>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
+                  <button type="button" className="btn btn-primary" style={{ padding: '8px 16px', fontSize: '12px', background: 'linear-gradient(135deg, #8B5CF6, #6366F1)', border: 'none' }} onClick={() => { try { localStorage.setItem(ANATOMIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setAnatomiaIntroOpen(false); }}>
+                    Entendi, continuar
+                  </button>
+                  <button type="button" className="btn btn-secondary" style={{ padding: '8px 14px', fontSize: '12px' }} onClick={() => { try { localStorage.setItem(ANATOMIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setAnatomiaIntroOpen(false); }}>
+                    Fechar
+                  </button>
+                </div>
+              </div>
+            )}
+            {!anatomiaIntroOpen && (
+              <button type="button" onClick={() => setAnatomiaIntroOpen(true)} style={{
+                marginBottom: '16px', padding: 0, border: 'none', background: 'none', cursor: 'pointer',
+                fontSize: '12px', fontWeight: 700, color: '#C4B5FD', textDecoration: 'underline', fontFamily: 'Outfit, sans-serif',
+              }}>
+                Ver introdução à anatomia de novo
+              </button>
+            )}
 
             <div style={{
               display: 'flex', gap: '4px', padding: '4px',
@@ -8441,7 +8814,7 @@
                   }}>
                     <div style={{ marginBottom: '10px' }}>{atlasDemoNotice}</div>
                     <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
-                      <a href="comprar.html" className="btn btn-primary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>Ver planos</a>
+                      <a href={(!user?.isGuest && user?.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(user.email)) ? `comprar.html?email=${encodeURIComponent(user.email)}` : 'comprar.html'} className="btn btn-primary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>Ver planos</a>
                       <button type="button" className="btn btn-secondary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px' }} onClick={() => setAtlasDemoNotice(null)}>Fechar</button>
                     </div>
                   </div>
@@ -8458,7 +8831,7 @@
                         <button key={sys.id} type="button"
                           onClick={() => {
                             if (sysLocked) {
-                              setAtlasDemoNotice('No modo demonstração, só o atlas «Sistema esquelético › Cabeça» está liberado. O atlas completo abre com código de acesso.');
+                              setAtlasDemoNotice('No modo demonstração, só o atlas «Sistema esquelético › Cabeça» está liberado. O atlas completo fica disponível com plano pago ou convite por email.');
                               return;
                             }
                             openSys();
@@ -8541,7 +8914,7 @@
                             <button key={div.id} type="button"
                               onClick={() => {
                                 if (divLocked) {
-                                  setAtlasDemoNotice('No modo demonstração, só a divisão «Cabeça» do esquelético está liberada. O atlas completo abre com código de acesso.');
+                                  setAtlasDemoNotice('No modo demonstração, só a divisão «Cabeça» do esquelético está liberada. O atlas completo fica disponível com plano pago ou convite por email.');
                                   return;
                                 }
                                 setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null });
@@ -8666,23 +9039,6 @@
 
                 {revisaoData && (
                   <>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '14px' }}>
-                      {regionKeys.map(rk => (
-                        <button
-                          key={rk}
-                          type="button"
-                          onClick={() => setSelectedRegion(rk)}
-                          style={{
-                            padding: '6px 12px', borderRadius: '999px', border: '1px solid ' + (selectedRegion === rk ? 'rgba(139,92,246,0.45)' : 'rgba(255,255,255,0.1)'),
-                            background: selectedRegion === rk ? 'linear-gradient(135deg, rgba(139,92,246,0.22), rgba(99,102,241,0.12))' : 'rgba(255,255,255,0.04)',
-                            color: selectedRegion === rk ? '#EDE9FE' : 'var(--text-secondary)', fontSize: '12px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
-                          }}
-                        >
-                          {REVISAO_REGION_LABELS[rk] || rk}
-                        </button>
-                      ))}
-                    </div>
-
                     <div style={{ position: 'relative', marginBottom: '18px' }}>
                       <input type="text" placeholder="Buscar estrutura, nervo, músculo, sequência..."
                         value={search} onChange={e => setSearch(e.target.value)}
@@ -8724,7 +9080,7 @@
                             </span>
                             <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
                             <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
-                              {nItems} itens
+                              {nItems === 1 ? '1 item' : `${nItems} itens`}
                             </span>
                             <span style={{
                               display: 'flex', transition: 'transform 0.2s',
@@ -8743,16 +9099,9 @@
                                       display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                                       padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
                                       background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
-                                      fontSize: '13px', fontWeight: 600, color: sys.color, transition: 'background 0.15s ease',
+                                      fontSize: '13px', fontWeight: 600, color: 'var(--text-primary)', transition: 'background 0.15s ease',
                                     }}>
-                                      <span>
-                                        {sub.title}
-                                        {sub.regiao && selectedRegion === 'todas' && (
-                                          <span style={{ fontSize: '10px', fontWeight: 700, marginLeft: '8px', opacity: 0.75 }}>
-                                            · {REVISAO_REGION_LABELS[sub.regiao] || sub.regiao}
-                                          </span>
-                                        )}
-                                      </span>
+                                      <span>{sub.title}</span>
                                       <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
                                     </div>
                                     {openSub[subKey] && (
@@ -8789,20 +9138,84 @@
       );
     };
 
+    const HISTOLOGIA_INTRO_STORAGE_KEY = 'medgrad_histologia_intro_dismissed';
+
     const HistologiaScreen = () => {
-      const [data, setData] = React.useState(null);
-      const [err, setErr] = React.useState(null);
-      const [nav, setNav] = React.useState({ step: 'systems', sistemaId: null });
+      const [viewMode, setViewMode] = React.useState('atlas');
+      const [openSystem, setOpenSystem] = React.useState(null);
+      const [openSub, setOpenSub] = React.useState({});
+      const [search, setSearch] = React.useState('');
+      const [atlasData, setAtlasData] = React.useState(null);
+      const [atlasErr, setAtlasErr] = React.useState(null);
+      const [atlasNav, setAtlasNav] = React.useState({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+      const [revisaoData, setRevisaoData] = React.useState(null);
+      const [revisaoErr, setRevisaoErr] = React.useState(null);
+      const [histoIntroOpen, setHistoIntroOpen] = React.useState(() => {
+        try { return localStorage.getItem(HISTOLOGIA_INTRO_STORAGE_KEY) !== '1'; } catch (e) { return true; }
+      });
 
       React.useEffect(() => {
         fetch('data/histologia_atlas.json?_=' + Date.now())
-          .then(r => { if (!r.ok) throw new Error('Falha ao carregar'); return r.json(); })
-          .then(setData)
-          .catch(e => setErr(e.message || String(e)));
+          .then(r => { if (!r.ok) throw new Error('Falha ao carregar atlas'); return r.json(); })
+          .then(setAtlasData)
+          .catch(e => setAtlasErr(e.message || String(e)));
       }, []);
 
-      const sistema = data && nav.sistemaId ? data.sistemas.find(s => s.id === nav.sistemaId) : null;
-      const SistIcon = sistema ? (ATLAS_ICON_MAP[sistema.icone] || AtlasIconBone) : null;
+      React.useEffect(() => {
+        fetch('data/histologia_revisao.json?_=' + Date.now())
+          .then(r => { if (!r.ok) throw new Error('Falha ao carregar revisão'); return r.json(); })
+          .then(setRevisaoData)
+          .catch(e => setRevisaoErr(e.message || String(e)));
+      }, []);
+
+      const q = search.toLowerCase().trim();
+      const sistemasBase = revisaoData && Array.isArray(revisaoData.sistemas) ? revisaoData.sistemas : [];
+
+      const filtered = React.useMemo(() => {
+        if (!sistemasBase.length) return [];
+        return sistemasBase.map(sys => {
+          const regionFiltered = sys.subsections || [];
+          if (!q) {
+            return { ...sys, subsections: regionFiltered };
+          }
+          const nameMatch = (sys.name || '').toLowerCase().includes(q);
+          const matchingSubs = regionFiltered.filter(sub => subsectionMatchesRevisaoQuery(sub, q));
+          let finalSubs;
+          if (matchingSubs.length) {
+            finalSubs = matchingSubs.map(sub => applyRevisaoQueryToSub(sub, q));
+          } else if (nameMatch) {
+            finalSubs = regionFiltered.map(sub => applyRevisaoQueryToSub(sub, q));
+          } else {
+            return null;
+          }
+          return { ...sys, subsections: finalSubs };
+        }).filter(sys => sys && (sys.subsections || []).length > 0);
+      }, [sistemasBase, q]);
+
+      const toggleSystem = (id) => { setOpenSystem(prev => prev === id ? null : id); setOpenSub({}); };
+      const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
+
+      React.useEffect(() => {
+        if (q && filtered.length === 1) setOpenSystem(filtered[0].id);
+      }, [q, filtered]);
+
+      const atlasSistema = atlasData && atlasNav.sistemaId ? atlasData.sistemas.find(s => s.id === atlasNav.sistemaId) : null;
+      const atlasDivisao = atlasSistema && atlasNav.divisaoId ? atlasSistema.divisoes.find(d => d.id === atlasNav.divisaoId) : null;
+
+      const atlasGoBack = () => {
+        if (atlasNav.step === 'plate') setAtlasNav({ step: 'laminas', sistemaId: atlasNav.sistemaId, divisaoId: atlasNav.divisaoId, laminaAtual: null });
+        else if (atlasNav.step === 'laminas') setAtlasNav({ step: 'divisions', sistemaId: atlasNav.sistemaId, divisaoId: null, laminaAtual: null });
+        else if (atlasNav.step === 'divisions') setAtlasNav({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+      };
+
+      const histoSegBtnStyle = (active) => ({
+        flex: 1, padding: '10px 0', borderRadius: '10px', border: 'none',
+        fontSize: '13px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
+        transition: 'all 0.2s ease',
+        background: active ? 'linear-gradient(135deg, rgba(16,185,129,0.28), rgba(6,182,212,0.18))' : 'transparent',
+        color: active ? '#D1FAE5' : 'var(--text-secondary)',
+        boxShadow: active ? '0 2px 12px rgba(16,185,129,0.12)' : 'none',
+      });
 
       const backBtn = {
         display: 'inline-flex', alignItems: 'center', gap: '6px', marginBottom: '16px',
@@ -8811,125 +9224,365 @@
         cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
       };
 
+      const totalLaminas = atlasSistema ? atlasSistema.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0) : 0;
+
       return (
         <div className="screen-content">
           <div style={{ maxWidth: '720px', margin: '0 auto' }}>
             <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Histologia</h2>
             <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '14px', lineHeight: 1.5 }}>
-              Microanatomia por sistema — mesma ordem da aba Anatomia. Divisões por tecido e órgão entram na próxima fase.
+              {viewMode === 'revisao'
+                ? 'Texto para revisar microanatomia por sistema e por órgão. Abra cada bloco na ordem que preferir e use a busca para achar um tópico.'
+                : 'Atlas de lâminas: escolha um sistema, depois uma divisão (órgão ou grupo de tecidos) e abra cada lâmina. As imagens serão acrescentadas aos poucos com fontes abertas.'}
             </p>
 
-            {data && data.nota && (
+            {histoIntroOpen && (
               <div style={{
-                padding: '12px 14px', borderRadius: '12px', marginBottom: '18px',
-                background: 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.06))',
-                border: '1px solid rgba(16,185,129,0.2)', fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55,
+                marginBottom: '18px', padding: '16px 18px', borderRadius: '14px',
+                border: '1px solid rgba(16,185,129,0.35)',
+                background: 'linear-gradient(165deg, rgba(16,185,129,0.12), rgba(6,182,212,0.06))',
               }}>
-                {data.nota}
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#6EE7B7', marginBottom: '10px', fontFamily: 'Outfit, sans-serif' }}>Primeira leitura</div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
+                  <strong style={{ display: 'block', marginBottom: '8px' }}>O que é histologia</strong>
+                  É o estudo dos tecidos ao microscópio. A anatomia descreve formas e relações visíveis a olho nu; a histologia mostra como células e matriz se organizam nos órgãos. Em laboratório, o material costuma ser cortado em lâminas finas, corado (por exemplo com hematoxilina e eosina, que colore núcleos e citoplasma de forma distinta) e observado com aumento adequado.
+                </div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
+                  <strong style={{ display: 'block', marginBottom: '8px' }}>Os quatro tipos de tecido</strong>
+                  Epitélio (reveste superfícies e forma glândulas), tecido conjuntivo (suporta, nutre e repara), tecido muscular (gera movimento) e tecido nervoso (conduz sinais e integra funções). Todo órgão combina esses tipos de maneira característica.
+                </div>
+                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '14px' }}>
+                  <strong style={{ display: 'block', marginBottom: '8px' }}>Como usar este ecrã</strong>
+                  Em <strong>Atlas de lâminas</strong>, navegue por sistema, depois por divisão (órgão ou grupo de tecidos) e escolha o título da lâmina. Em <strong>Revisão rápida</strong>, todo o conteúdo por sistema fica disponível; use sequências e cartões. A busca ajuda a achar um tecido ou órgão rapidamente.
+                </div>
+                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
+                  <button type="button" className="btn btn-primary" style={{ padding: '8px 16px', fontSize: '12px' }} onClick={() => { try { localStorage.setItem(HISTOLOGIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setHistoIntroOpen(false); }}>
+                    Entendi, continuar
+                  </button>
+                  <button type="button" className="btn btn-secondary" style={{ padding: '8px 14px', fontSize: '12px' }} onClick={() => { try { localStorage.setItem(HISTOLOGIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setHistoIntroOpen(false); }}>
+                    Fechar
+                  </button>
+                </div>
               </div>
             )}
-
-            {err && (
-              <div style={{ padding: '14px', borderRadius: '12px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px' }}>
-                {err}
-              </div>
+            {!histoIntroOpen && (
+              <button type="button" onClick={() => setHistoIntroOpen(true)} style={{
+                marginBottom: '16px', padding: 0, border: 'none', background: 'none', cursor: 'pointer',
+                fontSize: '12px', fontWeight: 700, color: '#6EE7B7', textDecoration: 'underline', fontFamily: 'Outfit, sans-serif',
+              }}>
+                Ver introdução à histologia de novo
+              </button>
             )}
 
-            {!data && !err && (
-              <div style={{ padding: '48px 24px', textAlign: 'center' }}>
-                <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#10B981', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
-                <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando atlas de histologia…</div>
-              </div>
-            )}
+            <div style={{
+              display: 'flex', gap: '4px', padding: '4px',
+              background: 'rgba(255,255,255,0.03)', borderRadius: '12px',
+              border: '1px solid rgba(255,255,255,0.06)', marginBottom: '20px',
+            }}>
+              <button type="button" style={histoSegBtnStyle(viewMode === 'atlas')} onClick={() => setViewMode('atlas')}>Atlas de lâminas</button>
+              <button type="button" style={histoSegBtnStyle(viewMode === 'revisao')} onClick={() => setViewMode('revisao')}>Revisão rápida</button>
+            </div>
 
-            {data && nav.step === 'systems' && (
-              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
-                {data.sistemas.map((sys, idx) => {
-                  const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
+            {viewMode === 'atlas' && (
+              <div>
+                {atlasData && atlasData.nota && (
+                  <div style={{
+                    padding: '12px 14px', borderRadius: '12px', marginBottom: '18px',
+                    background: 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.06))',
+                    border: '1px solid rgba(16,185,129,0.2)', fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55,
+                  }}>
+                    {atlasData.nota}
+                  </div>
+                )}
+
+                {atlasErr && (
+                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6 }}>
+                    Erro ao carregar o atlas de histologia. Verifique sua conexão e recarregue a página.
+                  </div>
+                )}
+                {!atlasData && !atlasErr && (
+                  <div style={{ padding: '48px 24px', textAlign: 'center' }}>
+                    <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#10B981', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando atlas...</div>
+                  </div>
+                )}
+
+                {atlasData && atlasNav.step === 'systems' && (
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
+                    {atlasData.sistemas.map((sys, idx) => {
+                      const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
+                      const nLam = sys.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0);
+                      return (
+                        <button key={sys.id} type="button"
+                          onClick={() => setAtlasNav({ step: 'divisions', sistemaId: sys.id, divisaoId: null, laminaAtual: null })}
+                          style={{
+                            display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
+                            padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
+                            border: '1px solid rgba(255,255,255,0.06)',
+                            background: 'rgba(255,255,255,0.025)',
+                            cursor: 'pointer', fontFamily: 'inherit',
+                            transition: 'background 0.15s ease, border-color 0.15s ease',
+                            animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
+                          }}
+                          onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
+                          onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
+                        >
+                          <div style={{
+                            width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                            background: sys.cor + '18', color: sys.cor,
+                          }}>
+                            <Icon />
+                          </div>
+                          <div>
+                            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3, marginBottom: '3px' }}>{sys.titulo}</div>
+                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
+                              {sys.divisoes.length} div. {nLam > 0 ? ` · ${nLam} lam.` : ''}
+                            </div>
+                          </div>
+                        </button>
+                      );
+                    })}
+                  </div>
+                )}
+
+                {atlasData && atlasNav.step === 'divisions' && atlasSistema && (() => {
+                  const Icon = ATLAS_ICON_MAP[atlasSistema.icone] || AtlasIconBone;
                   return (
-                    <button key={sys.id} type="button"
-                      onClick={() => setNav({ step: 'divisions', sistemaId: sys.id })}
-                      style={{
-                        display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
-                        padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
-                        border: '1px solid rgba(255,255,255,0.06)',
-                        background: 'rgba(255,255,255,0.025)',
-                        cursor: 'pointer', fontFamily: 'inherit',
-                        transition: 'background 0.15s ease, border-color 0.15s ease',
-                        animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
-                      }}
-                      onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
-                      onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
-                    >
-                      <div style={{
-                        width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                        background: sys.cor + '18', color: sys.cor,
-                      }}>
-                        <Icon />
-                      </div>
-                      <div>
-                        <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3, marginBottom: '3px' }}>{sys.titulo}</div>
-                        <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
-                          {sys.divisoes && sys.divisoes.length ? `${sys.divisoes.length} divisões` : 'Divisões em breve'}
+                    <div>
+                      <button type="button" onClick={atlasGoBack} style={backBtn}
+                        onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
+                        onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
+                        <AtlasIconBack /> Todos os sistemas
+                      </button>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+                        <div style={{
+                          width: '40px', height: '40px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                          background: atlasSistema.cor + '1A', color: atlasSistema.cor,
+                        }}>
+                          <Icon />
+                        </div>
+                        <div>
+                          <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasSistema.titulo}</h3>
+                          <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '2px' }}>
+                            {atlasSistema.divisoes.length} divisões · {totalLaminas} lâminas
+                          </div>
                         </div>
                       </div>
-                    </button>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                        {atlasSistema.divisoes.map((div, di) => {
+                          const n = div.laminas ? div.laminas.length : 0;
+                          const hasImgs = div.laminas && div.laminas.some(l => l.urlImagem);
+                          return (
+                            <button key={div.id} type="button"
+                              onClick={() => setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null })}
+                              style={{
+                                display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px',
+                                padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
+                                border: '1px solid rgba(255,255,255,0.06)',
+                                background: 'rgba(255,255,255,0.025)',
+                                cursor: 'pointer', fontFamily: 'inherit',
+                                transition: 'background 0.15s ease',
+                                animation: `aboutFadeUp 0.25s ease ${di * 0.04}s both`,
+                              }}
+                              onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; }}
+                              onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; }}
+                            >
+                              <div style={{ flex: 1 }}>
+                                <div style={{ fontWeight: 600, fontSize: '14px', color: 'var(--text-primary)' }}>{div.titulo}</div>
+                                <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                                  {n} lâmina{n !== 1 ? 's' : ''}
+                                  {hasImgs && <span style={{ display: 'inline-flex', color: atlasSistema.cor, opacity: 0.7 }}><AtlasIconPin /></span>}
+                                  {!hasImgs && n > 0 && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)', color: 'var(--text-secondary)' }}>aguardando imagens</span>}
+                                </div>
+                              </div>
+                              <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
                   );
-                })}
+                })()}
+
+                {atlasData && atlasNav.step === 'laminas' && atlasSistema && atlasDivisao && (
+                  <div>
+                    <button type="button" onClick={atlasGoBack} style={backBtn}
+                      onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
+                      onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
+                      <AtlasIconBack /> {atlasSistema.titulo}
+                    </button>
+                    <div style={{ marginBottom: '14px' }}>
+                      <div style={{ fontSize: '11px', fontWeight: 700, color: atlasSistema.cor, textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: '4px' }}>{atlasSistema.titulo}</div>
+                      <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasDivisao.titulo}</h3>
+                    </div>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                      {atlasDivisao.laminas.map((lam, li) => {
+                        const hasImg = lam.urlImagem && lam.urlImagem.length > 0;
+                        const hasPins = lam.pinos && lam.pinos.length > 0;
+                        return (
+                          <button key={lam.id} type="button"
+                            onClick={() => setAtlasNav({ step: 'plate', sistemaId: atlasSistema.id, divisaoId: atlasDivisao.id, laminaAtual: lam })}
+                            style={{
+                              display: 'flex', alignItems: 'center', gap: '14px',
+                              padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
+                              border: '1px solid rgba(255,255,255,0.06)',
+                              background: hasImg ? 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.04))' : 'rgba(255,255,255,0.02)',
+                              cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
+                              animation: `aboutFadeUp 0.25s ease ${li * 0.04}s both`,
+                            }}
+                            onMouseEnter={e => e.currentTarget.style.background = hasImg ? 'rgba(16,185,129,0.14)' : 'rgba(255,255,255,0.05)'}
+                            onMouseLeave={e => e.currentTarget.style.background = hasImg ? 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.04))' : 'rgba(255,255,255,0.02)'}
+                          >
+                            <div style={{
+                              width: '38px', height: '38px', borderRadius: '10px', flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center',
+                              background: hasImg ? atlasSistema.cor + '18' : 'rgba(255,255,255,0.04)',
+                              color: hasImg ? atlasSistema.cor : 'rgba(255,255,255,0.2)',
+                            }}>
+                              <AtlasIconImage />
+                            </div>
+                            <div style={{ flex: 1 }}>
+                              <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3 }}>{lam.titulo}</div>
+                              <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                {hasPins && <span style={{ display: 'flex', alignItems: 'center', gap: '3px', color: atlasSistema.cor }}><AtlasIconPin /> {lam.pinos.length}</span>}
+                                {!hasImg && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)' }}>pendente</span>}
+                              </div>
+                            </div>
+                            <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
+
+                {atlasData && atlasNav.step === 'plate' && atlasNav.laminaAtual && atlasSistema && atlasDivisao && (
+                  <AnatomiaAtlasPlate
+                    lamina={atlasNav.laminaAtual}
+                    accentColor={atlasSistema.cor}
+                    sistemaTitulo={atlasSistema.titulo}
+                    divisaoTitulo={atlasDivisao.titulo}
+                    referenciaAsclepio={atlasData.referenciaAsclepio || { nome: '', url: '' }}
+                    onBack={atlasGoBack}
+                  />
+                )}
               </div>
             )}
 
-            {data && nav.step === 'divisions' && sistema && (
-              <div>
-                <button type="button" onClick={() => setNav({ step: 'systems', sistemaId: null })} style={backBtn}
-                  onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
-                  onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.04)'}>
-                  <AtlasIconBack /> Todos os sistemas
-                </button>
-                <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
-                  <div style={{
-                    width: '40px', height: '40px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    background: sistema.cor + '1A', color: sistema.cor,
-                  }}>
-                    {SistIcon ? <SistIcon /> : null}
+            {viewMode === 'revisao' && (
+              <>
+                {revisaoErr && (
+                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6, marginBottom: '16px' }}>
+                    Erro ao carregar a revisão escrita. Verifique sua conexão e recarregue a página.
                   </div>
-                  <div>
-                    <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '17px', color: 'var(--text-primary)', margin: 0 }}>{sistema.titulo}</h3>
-                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '2px' }}>Referência: Junqueira &amp; Carneiro · Ross &amp; Pawlina</div>
-                  </div>
-                </div>
-
-                {(!sistema.divisoes || sistema.divisoes.length === 0) ? (
-                  <div style={{
-                    borderRadius: '16px', padding: '28px 22px',
-                    border: '1px dashed rgba(16,185,129,0.35)',
-                    background: 'linear-gradient(160deg, rgba(16,185,129,0.06), rgba(6,182,212,0.04))',
-                    textAlign: 'center',
-                  }}>
-                    <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '14px', color: '#34D399' }}>
-                      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
-                        <circle cx="12" cy="12" r="3.5"/>
-                        <line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/>
-                        <line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/>
-                      </svg>
-                    </div>
-                    <div style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '16px', color: 'var(--text-primary)', marginBottom: '10px' }}>Divisões em preparação</div>
-                    <p style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.65, margin: '0 0 12px' }}>
-                      Vamos organizar lâminas por <strong>tecido</strong> (epitélio de revestimento e glandular, conjuntivo, cartilagem, osso, sangue, músculo esquelético, cardíaco e liso, nervoso) e por <strong>órgão</strong>, no mesmo encadeamento sistemático da aba <strong>Anatomia</strong>.
-                    </p>
-                    <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.45)', lineHeight: 1.55, margin: 0 }}>
-                      Assim você revisa macro e micro na mesma ordem dos livros-base da graduação.
-                    </p>
-                  </div>
-                ) : (
-                  <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Conteúdo será listado aqui quando as divisões forem publicadas.</div>
                 )}
-              </div>
+                {!revisaoData && !revisaoErr && (
+                  <div style={{ padding: '48px 24px', textAlign: 'center', marginBottom: '8px' }}>
+                    <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#10B981', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando revisão...</div>
+                  </div>
+                )}
+
+                {revisaoData && (
+                  <>
+                    <div style={{ position: 'relative', marginBottom: '18px' }}>
+                      <input type="text" placeholder="Buscar tecido, órgão, sequência..."
+                        value={search} onChange={e => setSearch(e.target.value)}
+                        style={{
+                          width: '100%', padding: '10px 14px 10px 38px',
+                          background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
+                          borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
+                          transition: 'border-color 0.15s ease',
+                        }}
+                        onFocus={e => e.target.style.borderColor = 'rgba(16,185,129,0.45)'}
+                        onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
+                      />
+                      <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
+                        <AtlasIconSearch />
+                      </span>
+                    </div>
+
+                    {filtered.length === 0 && (
+                      <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
+                        Nenhum resultado para "{search}"
+                      </div>
+                    )}
+
+                    {filtered.map(sys => {
+                      const SysIcon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
+                      const nItems = (sys.subsections || []).reduce((t, s) => t + countRevisaoSubItems(s), 0);
+                      return (
+                        <div key={sys.id} style={{ marginBottom: '8px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)' }}>
+                          <div onClick={() => toggleSystem(sys.id)} style={{
+                            display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px',
+                            cursor: 'pointer', userSelect: 'none',
+                            borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none',
+                          }}>
+                            <span style={{
+                              width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                              background: (sys.color || '#10B981') + '22', color: sys.color || '#10B981', flexShrink: 0,
+                            }}>
+                              <SysIcon />
+                            </span>
+                            <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
+                            <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
+                              {nItems === 1 ? '1 item' : `${nItems} itens`}
+                            </span>
+                            <span style={{
+                              display: 'flex', transition: 'transform 0.2s',
+                              transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)',
+                              color: 'var(--text-secondary)', opacity: 0.5,
+                            }}><AtlasIconChevron /></span>
+                          </div>
+                          {openSystem === sys.id && (
+                            <div style={{ padding: '8px 12px 12px' }}>
+                              {(sys.subsections || []).map((sub, si) => {
+                                const subKey = sys.id + '_' + si;
+                                const blocks = normalizeRevisaoBlocks(sub);
+                                return (
+                                  <div key={subKey} style={{ marginBottom: '6px' }}>
+                                    <div onClick={() => toggleSub(subKey)} style={{
+                                      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                                      padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
+                                      background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
+                                      fontSize: '13px', fontWeight: 600, color: 'var(--text-primary)', transition: 'background 0.15s ease',
+                                    }}>
+                                      <span>{sub.title}</span>
+                                      <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                                    </div>
+                                    {openSub[subKey] && (
+                                      <div style={{ padding: '8px 4px 0' }}>
+                                        {blocks.map((block, bi) => (
+                                          <div key={bi}>
+                                            {block.type === 'sequence' && (
+                                              <RevisaoSequenceBlock block={block} accentColor={sys.color} />
+                                            )}
+                                            {block.type === 'hub' && (
+                                              <RevisaoHubBlock block={block} accentColor={sys.color} />
+                                            )}
+                                            {block.type === 'cards' && (
+                                              <RevisaoCardsBlock block={block} accentColor={sys.color} />
+                                            )}
+                                          </div>
+                                        ))}
+                                      </div>
+                                    )}
+                                  </div>
+                                );
+                              })}
+                            </div>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </>
+                )}
+              </>
             )}
           </div>
         </div>
       );
     };
+
 
     const AnatomiaHistologiaScreen = ({ mode, onModeChange, user }) => {
       const segBtnStyle = (active) => ({
@@ -8957,6 +9610,144 @@
           </div>
           {innerMode === 'anatomy' ? <AnatomiaScreen user={user} /> : <HistologiaScreen />}
         </>
+      );
+    };
+
+    const GradBookScreen = ({ user, onNavigate }) => {
+      const mvpModules = [
+        { icon: '\u{1F4CB}', color: '#F59E0B', title: 'Prontu\u00e1rio de Plant\u00e3o', text: 'Lista de pacientes com status, diagn\u00f3stico e pend\u00eancias. Templates SOAP para evolu\u00e7\u00e3o, admiss\u00e3o e alta. Exporta PDF em segundos.' },
+        { icon: '\u{1F48A}', color: '#00C896', title: 'Bul\u00e1rio Completo', text: '2.000+ medicamentos com dose, via, ajuste renal, intera\u00e7\u00f5es e categoria na gesta\u00e7\u00e3o. Top-500 dispon\u00edveis offline.' },
+        { icon: '\u{1F9EE}', color: '#3B82F6', title: 'Calculadoras M\u00e9dicas', text: 'Wells, CURB-65, SOFA, qSOFA, APACHE II, Cockcroft-Gault e mais. Resultado com interpreta\u00e7\u00e3o cl\u00ednica colorida por n\u00edvel de risco.' },
+        { icon: '\u{1F4DD}', color: '#8B5CF6', title: 'Prescri\u00e7\u00f5es Prontas', text: '100+ modelos edit\u00e1veis por categoria. Campos vari\u00e1veis como [PESO_KG] e [DOSE]. Copia formatado ou salva direto no paciente.' },
+      ];
+      const integrations = [
+        { icon: '\u{1F511}', color: '#00C896', title: 'Login \u00fanico', text: 'Mesma conta do MedGradPlus. Sem criar perfil novo, sem lembrar outra senha.' },
+        { icon: '\u{1F4B8}', color: '#F59E0B', title: 'Desconto autom\u00e1tico', text: 'Assinantes MedGradPlus t\u00eam 20% de desconto no GradBook+, detectado automaticamente.' },
+        { icon: '\u{1F517}', color: '#3B82F6', title: 'Cross-link de conte\u00fado', text: 'Estudando pneumonia aqui? Link direto para o protocolo de pneumonia no GradBook+.' },
+        { icon: '\u{1F4C8}', color: '#8B5CF6', title: 'Jornada sem interrup\u00e7\u00e3o', text: 'Do ciclo b\u00e1sico ao internato na mesma plataforma. Um app complementa o outro.' },
+      ];
+      const phases = [
+        { phase: 'Fase 1 \u2014 MVP Internato', color: '#F59E0B', status: 'Em constru\u00e7\u00e3o', items: ['Prontu\u00e1rio + templates SOAP + export PDF', 'Bul\u00e1rio + verificador de intera\u00e7\u00f5es', 'Calculadoras + scores cl\u00ednicos', 'Prescri\u00e7\u00f5es prontas edit\u00e1veis'] },
+        { phase: 'Fase 2 \u2014 Refer\u00eancia Completa', color: '#3B82F6', status: 'Roadmap', items: ['Diagn\u00f3stico diferencial por sintoma (DDx)', 'Procedimentos pr\u00e1ticos (IOT, sutura, pun\u00e7\u00e3o)', 'Guia de antibi\u00f3ticos + escalonamento', 'Protocolos de emerg\u00eancia (PCR, sepse, AVC)'] },
+        { phase: 'Fase 3 \u2014 Plant\u00e3o e Formados', color: '#8B5CF6', status: 'Futuro', items: ['Gerenciador de plant\u00e3o + finan\u00e7as', 'Receit\u00e1rio digital', 'Planos corporativos (hospitais, cl\u00ednicas)', 'GradBook Assist \u2014 chat cl\u00ednico com IA'] },
+      ];
+      return (
+        React.createElement('div', { className: 'screen-content', style: { paddingBottom: '40px' } },
+          React.createElement('div', { style: { display: 'flex', justifyContent: 'center', width: '100%', boxSizing: 'border-box' } },
+            React.createElement('div', { style: { width: '100%', maxWidth: '1080px', boxSizing: 'border-box' } },
+              React.createElement('div', { style: { position: 'relative', overflow: 'hidden', borderRadius: '28px', padding: '36px 24px 32px', background: 'linear-gradient(135deg, rgba(245,158,11,0.20) 0%, rgba(239,68,68,0.14) 40%, rgba(30,36,51,0.95) 100%)', border: '1px solid rgba(245,158,11,0.22)', boxShadow: '0 24px 80px rgba(0,0,0,0.32)', marginBottom: '24px', animation: 'gbFadeUp 0.5s ease both' } },
+                React.createElement('div', { style: { position: 'absolute', inset: 0, background: 'radial-gradient(circle at top right, rgba(245,158,11,0.18), transparent 45%), radial-gradient(circle at bottom left, rgba(239,68,68,0.10), transparent 40%)', pointerEvents: 'none' } }),
+                React.createElement('div', { style: { position: 'absolute', top: 24, right: 24, width: 80, height: 80, borderRadius: '50%', background: 'radial-gradient(circle, rgba(245,158,11,0.22), transparent 70%)', animation: 'gbFloat 5s ease-in-out infinite', pointerEvents: 'none' } }),
+                React.createElement('div', { style: { position: 'relative', zIndex: 1 } },
+                  React.createElement('div', { className: 'gb-hero-badge' }, '\ud83d\ude80 Lan\u00e7amento em breve'),
+                  React.createElement('div', { style: { display: 'grid', gap: '28px', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', alignItems: 'center' } },
+                    React.createElement('div', null,
+                      React.createElement('h1', { style: { fontFamily: 'Outfit, sans-serif', fontSize: 'clamp(38px, 6vw, 64px)', lineHeight: 1.0, fontWeight: 800, marginBottom: '14px', letterSpacing: '-0.03em' } },
+                        React.createElement('span', { className: 'gb-shimmer-text' }, 'GradBook+')
+                      ),
+                      React.createElement('p', { style: { fontSize: '16px', lineHeight: 1.75, color: 'rgba(232,235,240,0.90)', marginBottom: '20px', maxWidth: '520px' } },
+                        'O whitebook m\u00e9dico feito para o internato \u2014 bul\u00e1rio, calculadoras, prescri\u00e7\u00f5es prontas e prontu\u00e1rio de plant\u00e3o num app s\u00f3, offline, no celular.'
+                      ),
+                      React.createElement('div', { style: { display: 'flex', flexWrap: 'wrap', gap: '8px', marginBottom: '24px' } },
+                        ['500+ medicamentos', '20+ calculadoras', '100+ prescri\u00e7\u00f5es', 'Offline'].map(tag =>
+                          React.createElement('span', { key: tag, style: { padding: '7px 13px', borderRadius: '999px', background: 'rgba(255,255,255,0.10)', color: '#E8EBF0', fontSize: '12px', fontWeight: 700 } }, tag)
+                        )
+                      ),
+                      React.createElement('div', { style: { display: 'flex', flexWrap: 'wrap', gap: '12px' } },
+                        React.createElement('a', { href: 'https://github.com/pngjaico/GradBookApp', target: '_blank', rel: 'noopener noreferrer', className: 'gb-cta-btn' }, '\u2b50 Acompanhar no GitHub'),
+                        React.createElement('button', { onClick: () => onNavigate('materials'), style: { border: '1px solid rgba(255,255,255,0.18)', background: 'rgba(255,255,255,0.07)', color: '#fff', borderRadius: '14px', padding: '14px 20px', fontSize: '14px', fontWeight: 700, cursor: 'pointer', fontFamily: 'DM Sans, sans-serif', backdropFilter: 'blur(8px)' } }, 'Voltar aos estudos')
+                      )
+                    ),
+                    React.createElement('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '12px' } },
+                      [{ value: 'PWA', label: 'Instal\u00e1vel no celular' }, { value: 'Offline', label: 'Funciona sem internet' }, { value: '7 dias', label: 'Trial gratuito completo' }, { value: '20%', label: 'Desconto MedGradPlus' }].map((stat, i) =>
+                        React.createElement('div', { key: stat.label, style: { padding: '16px 14px', borderRadius: '14px', background: 'rgba(11,15,25,0.30)', border: '1px solid rgba(245,158,11,0.15)' } },
+                          React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: '26px', fontWeight: 800, color: '#FCD34D', marginBottom: '5px' } }, stat.value),
+                          React.createElement('div', { style: { fontSize: '12px', color: 'rgba(232,235,240,0.75)', lineHeight: 1.4 } }, stat.label)
+                        )
+                      )
+                    )
+                  )
+                )
+              ),
+              React.createElement('div', { className: 'about-card', style: { marginBottom: '22px', animation: 'gbFadeUp 0.65s ease 0.1s both' } },
+                React.createElement('div', { className: 'about-section-title' }, React.createElement('span', { style: { color: '#FCD34D' } }, 'O que vai ter no lan\u00e7amento')),
+                React.createElement('div', { style: { display: 'grid', gap: '14px', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))' } },
+                  mvpModules.map((mod, i) =>
+                    React.createElement('div', { key: mod.title, className: 'gb-module-card', style: { animationDelay: i * 0.08 + 's' } },
+                      React.createElement('div', { style: { fontSize: '26px', marginBottom: '12px' } }, mod.icon),
+                      React.createElement('div', { style: { display: 'inline-block', padding: '3px 10px', borderRadius: '999px', background: mod.color + '18', color: mod.color, fontSize: '10px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '10px' } }, 'MVP'),
+                      React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: '16px', fontWeight: 700, color: 'var(--text-primary)', marginBottom: '7px' } }, mod.title),
+                      React.createElement('div', { style: { fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.75 } }, mod.text)
+                    )
+                  )
+                )
+              ),
+              React.createElement('div', { style: { marginBottom: '22px', padding: '22px 20px', borderRadius: '18px', background: 'linear-gradient(135deg, rgba(245,158,11,0.10), rgba(239,68,68,0.08))', border: '1px solid rgba(245,158,11,0.22)', animation: 'gbFadeUp 0.72s ease 0.15s both' } },
+                React.createElement('div', { style: { display: 'grid', gap: '16px', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', alignItems: 'center' } },
+                  React.createElement('div', null,
+                    React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: '20px', fontWeight: 800, color: '#FCD34D', marginBottom: '8px' } }, 'Gr\u00e1tis para come\u00e7ar. Pago quando precisar de mais.'),
+                    React.createElement('div', { style: { fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.75 } }, '5 consultas por m\u00f3dulo por dia no plano free. Trial de 7 dias com tudo desbloqueado, sem cart\u00e3o. Assine quando travar no meio do plant\u00e3o.')
+                  ),
+                  React.createElement('div', { style: { display: 'flex', flexDirection: 'column', gap: '10px' } },
+                    [{ plan: 'Free', price: 'R$ 0', detail: '5 usos/dia por m\u00f3dulo' }, { plan: 'Mensal', price: 'R$ 29,90', detail: 'Ilimitado + offline' }, { plan: 'Anual', price: 'R$ 199,90', detail: '~R$16,60/m\u00eas (\u221244%)' }].map(p =>
+                      React.createElement('div', { key: p.plan, style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '10px 14px', borderRadius: '10px', background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.08)' } },
+                        React.createElement('span', { style: { fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)' } }, p.plan),
+                        React.createElement('div', { style: { textAlign: 'right' } },
+                          React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontWeight: 800, fontSize: '15px', color: '#FCD34D' } }, p.price),
+                          React.createElement('div', { style: { fontSize: '11px', color: 'var(--text-secondary)' } }, p.detail)
+                        )
+                      )
+                    )
+                  )
+                )
+              ),
+              React.createElement('div', { className: 'about-card', style: { marginBottom: '22px', animation: 'gbFadeUp 0.78s ease 0.2s both' } },
+                React.createElement('div', { className: 'about-section-title' }, React.createElement('span', { style: { color: '#6EE7B7' } }, 'Integrado ao MedGradPlus')),
+                React.createElement('p', { style: { fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.75, marginBottom: '18px' } }, 'GradBook+ foi desenhado para ser o companheiro cl\u00ednico do MedGradPlus. Voc\u00ea estuda a base aqui, e no internato usa o GradBook+ com a mesma conta e fluxo.'),
+                React.createElement('div', { style: { display: 'grid', gap: '12px', gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' } },
+                  integrations.map((item, i) =>
+                    React.createElement('div', { key: item.title, className: 'gb-integration-item', style: { animation: 'gbFadeUp 0.5s ease both', animationDelay: i * 0.08 + 's' } },
+                      React.createElement('div', { style: { width: 36, height: 36, borderRadius: '10px', background: item.color + '20', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '18px', flexShrink: 0 } }, item.icon),
+                      React.createElement('div', null,
+                        React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: '14px', fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px' } }, item.title),
+                        React.createElement('div', { style: { fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.65 } }, item.text)
+                      )
+                    )
+                  )
+                )
+              ),
+              React.createElement('div', { className: 'about-card', style: { marginBottom: '22px', animation: 'gbFadeUp 0.85s ease 0.25s both' } },
+                React.createElement('div', { className: 'about-section-title' }, React.createElement('span', { style: { color: '#C4B5FD' } }, 'Roadmap de desenvolvimento')),
+                React.createElement('div', { style: { display: 'grid', gap: '14px', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))' } },
+                  phases.map((ph, i) =>
+                    React.createElement('div', { key: ph.phase, className: 'gb-phase-card', style: { animationDelay: i * 0.1 + 's', borderColor: ph.color + '28' } },
+                      React.createElement('div', { style: { display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px' } },
+                        React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: '14px', fontWeight: 800, color: ph.color } }, ph.phase),
+                        React.createElement('span', { style: { padding: '4px 9px', borderRadius: '999px', background: ph.color + '18', color: ph.color, fontSize: '10px', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.05em' } }, ph.status)
+                      ),
+                      React.createElement('div', { style: { display: 'flex', flexDirection: 'column', gap: '8px' } },
+                        ph.items.map(item =>
+                          React.createElement('div', { key: item, style: { display: 'flex', gap: '8px', alignItems: 'flex-start' } },
+                            React.createElement('span', { style: { width: 6, height: 6, borderRadius: '50%', background: ph.color, flexShrink: 0, marginTop: 6 } }),
+                            React.createElement('span', { style: { fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.6 } }, item)
+                          )
+                        )
+                      )
+                    )
+                  )
+                )
+              ),
+              React.createElement('div', { style: { padding: '28px 24px', borderRadius: '20px', textAlign: 'center', background: 'linear-gradient(135deg, rgba(245,158,11,0.14), rgba(139,92,246,0.12))', border: '1px solid rgba(245,158,11,0.20)', animation: 'gbFadeUp 0.9s ease 0.3s both' } },
+                React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: 'clamp(22px, 4vw, 32px)', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '10px', letterSpacing: '-0.02em' } }, 'Constru\u00eddo para quem vai ao internato.'),
+                React.createElement('p', { style: { fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.8, marginBottom: '22px', maxWidth: '480px', margin: '0 auto 22px' } }, 'Acompanhe o desenvolvimento no GitHub \u2014 o reposit\u00f3rio est\u00e1 aberto. Assim que lan\u00e7ar, sua conta MedGradPlus j\u00e1 vai estar conectada.'),
+                React.createElement('div', { style: { display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '12px' } },
+                  React.createElement('a', { href: 'https://github.com/pngjaico/GradBookApp', target: '_blank', rel: 'noopener noreferrer', className: 'gb-cta-btn' }, '\u2b50 Ver reposit\u00f3rio'),
+                  React.createElement('button', { onClick: () => onNavigate('about'), style: { border: '1px solid var(--border-subtle)', background: 'var(--surface-1)', color: 'var(--text-primary)', borderRadius: '14px', padding: '14px 20px', fontSize: '14px', fontWeight: 700, cursor: 'pointer', fontFamily: 'DM Sans, sans-serif' } }, 'Sobre o MedGradPlus')
+                )
+              )
+            )
+          )
+        )
       );
     };
 
@@ -9050,7 +9841,12 @@
                         Explorar agora
                       </button>
                       <button
-                        onClick={() => window.location.href = 'comprar.html'}
+                        onClick={() => {
+                          const em = user?.email;
+                          window.location.href = (em && !user?.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
+                            ? `comprar.html?email=${encodeURIComponent(em)}`
+                            : 'comprar.html';
+                        }}
                         style={{
                           border: '1px solid rgba(255,255,255,0.18)',
                           background: 'rgba(255,255,255,0.08)',
@@ -9209,7 +10005,7 @@
     };
 
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador', 'gradbook'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
         if (raw === 'about-public') {
@@ -9279,6 +10075,12 @@
         </button>
       );
 
+      const [sidebarOpen, setSidebarOpen] = useState(() =>
+        typeof window !== 'undefined' &&
+        window.matchMedia &&
+        window.matchMedia('(min-width: 769px)').matches
+      );
+
       const navigateTo = (tab, options = {}) => {
         const resolvedTab = VALID_TABS.includes(tab) ? tab : 'home';
         const materiaIdForAnatomyHist = options.materiaId !== undefined ? options.materiaId : 'anatomy';
@@ -9294,12 +10096,38 @@
         if (window.location.hash !== nextHash) {
           window.location.hash = nextHash;
         }
+        try {
+          if (window.matchMedia('(max-width: 768px)').matches) setSidebarOpen(false);
+        } catch (_) {}
       };
       const [materias, setMaterias] = useState([]);
       const [flashcards, setFlashcards] = useState([]);
       const [selectedMateria, setSelectedMateria] = useState(null);
       const [loading, setLoading] = useState(true);
-      const [sidebarOpen, setSidebarOpen] = useState(true);
+      const [showInstallTip, setShowInstallTip] = useState(false);
+      const [installTipPlatform, setInstallTipPlatform] = useState('ios');
+
+      // Dica “adicionar à tela inicial” (iOS Safari / Android Chrome). Mostra a cada visita até “Não mostrar novamente”.
+      useEffect(() => {
+        try {
+          if (localStorage.getItem('meduni9_install_tip_never_again') === '1') return;
+          if (localStorage.getItem('meduni9_dismiss_ios_install_tip')) return;
+          const isStandalone =
+            window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true;
+          if (isStandalone) return;
+          const ua = navigator.userAgent || '';
+          const isIos =
+            /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+          const isAndroid = /Android/i.test(ua);
+          if (isIos) {
+            setInstallTipPlatform('ios');
+            setShowInstallTip(true);
+          } else if (isAndroid) {
+            setInstallTipPlatform('android');
+            setShowInstallTip(true);
+          }
+        } catch (_) {}
+      }, []);
 
       // Auth state refs (stable across renders, safe in closures)
       const splashDoneRef = useRef(false);
@@ -9373,7 +10201,6 @@
                   authStateRef.current = cachedProfile;
                   if (splashDoneRef.current) applyResolvedAuth(cachedProfile);
                 } else {
-                  try { await fbSignOut(window.__fbAuth); } catch {}
                   authStateRef.current = null;
                   if (splashDoneRef.current) applyResolvedAuth(null);
                 }
@@ -9610,15 +10437,53 @@
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
         { id: 'anatomy_hist', label: 'Anat. + Hist.', navTitle: 'Anatomia e histologia', icon: <IconAnatomy /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
-        { id: 'about', label: 'Sobre', icon: <IconRocket /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
       if (isAmbassadorUser) {
-        navItems.splice(7, 0, { id: 'ambassador', label: 'Embaixador', icon: <IconCoupon /> });
+        navItems.splice(6, 0, { id: 'ambassador', label: 'Embaixador', icon: <IconCoupon /> });
       }
 
       // App UI with desktop sidebar
       return (
+        <>
+          {showInstallTip && (
+            <div className="app-install-hint" role="dialog" aria-labelledby="app-install-hint-title">
+              <div className="app-install-hint__row">
+                <span className="app-install-hint__text" id="app-install-hint-title">
+                  {installTipPlatform === 'ios' ? (
+                    <>
+                      <strong>App na tela inicial (iPhone/iPad):</strong> no Safari, toque em <strong>Compartilhar</strong> →{' '}
+                      <strong>Adicionar à Tela de Início</strong> e abra pelo ícone. Assim o MedGrad+ abre em tela cheia, sem barra de URL.
+                    </>
+                  ) : (
+                    <>
+                      <strong>App na tela inicial (Android):</strong> no Chrome, toque no menu <strong>⋮</strong> (três pontos) e escolha{' '}
+                      <strong>Instalar app</strong> ou <strong>Adicionar à tela inicial</strong>. Abra pelo atalho para experiência em tela cheia.
+                    </>
+                  )}
+                </span>
+                <button
+                  type="button"
+                  className="app-install-hint__close"
+                  aria-label="Fechar por agora"
+                  title="Fechar (a dica volta na próxima visita)"
+                  onClick={() => setShowInstallTip(false)}
+                >✕</button>
+              </div>
+              <button
+                type="button"
+                className="app-install-hint__never"
+                onClick={() => {
+                  try {
+                    localStorage.setItem('meduni9_install_tip_never_again', '1');
+                  } catch (_) {}
+                  setShowInstallTip(false);
+                }}
+              >
+                Não mostrar isso novamente
+              </button>
+            </div>
+          )}
         <div className="desktop-layout">
           {/* Desktop Sidebar */}
           <div className={`desktop-sidebar${sidebarOpen ? '' : ' collapsed'}`}>
@@ -9644,6 +10509,15 @@
                   <span>{item.label}</span>
                 </div>
               ))}
+              <div
+                className={`sidebar-gradbook-teaser sidebar-gradbook-teaser--clickable${currentTab === 'gradbook' ? ' active' : ''}`}
+                role="button"
+                title="GradBook+ — internato e plantão"
+                onClick={() => navigateTo('gradbook')}
+              >
+                <span className="sidebar-gradbook-teaser__label">GradBook — Internato / Plantão</span>
+                <span className="material-badge">Em breve</span>
+              </div>
             </div>
             <div className="sidebar-footer">
               <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '10px' }}>
@@ -9663,6 +10537,27 @@
 
           {/* Main Content */}
           <div className="app-container">
+            <div className="mobile-app-top-bar">
+              <button
+                type="button"
+                className="sidebar-toggle-btn mobile-app-top-bar__menu"
+                onClick={() => setSidebarOpen((o) => !o)}
+                title={sidebarOpen ? 'Fechar menu' : 'Abrir menu'}
+                aria-expanded={sidebarOpen}
+                aria-label={sidebarOpen ? 'Fechar menu' : 'Abrir menu'}
+              ><IconMenu /></button>
+              <span className="mobile-app-top-bar__title">
+                {navItems.find((i) => i.id === currentTab)?.label || (currentTab === 'about' ? 'Sobre' : currentTab === 'gradbook' ? 'GradBook+' : 'MedGrad+')}
+              </span>
+              {renderThemeToggle()}
+            </div>
+            {sidebarOpen && (
+              <div
+                className="sidebar-backdrop"
+                onClick={() => setSidebarOpen(false)}
+                aria-hidden="true"
+              />
+            )}
             {!sidebarOpen && (
               <div className="sidebar-open-bar">
                 <button
@@ -9695,7 +10590,7 @@
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
                     {isFreeTierUser(user)
                       ? 'Não foi possível carregar a aula de amostra e os flashcards. Verifique sua conexão e atualize a página.'
-                      : 'Sua chave atual não libera os módulos com flashcards disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
+                      : 'Seu plano atual não libera os módulos com flashcards disponíveis no app. Solicite atualização do convite ou do plano para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
@@ -9712,6 +10607,7 @@
                   }}
                   userSemester={user.semestre}
                   user={user}
+                  initialAulaId={routeState.aulaId}
                 />
               )
             )}
@@ -9726,7 +10622,7 @@
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
                     {isFreeTierUser(user)
                       ? 'Não foi possível carregar a aula de amostra e o simulado de questões. Verifique sua conexão e atualize a página.'
-                      : 'Sua chave atual não libera os módulos com questões disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
+                      : 'Seu plano atual não libera os módulos com questões disponíveis no app. Solicite atualização do convite ou do plano para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
@@ -9743,6 +10639,7 @@
                   }}
                   userSemester={user.semestre}
                   user={user}
+                  initialAulaId={routeState.aulaId}
                 />
               )
             )}
@@ -9757,7 +10654,7 @@
                   <p style={{ fontSize: '14px', color: 'var(--text-secondary)', maxWidth: '360px', marginBottom: '24px', lineHeight: 1.6 }}>
                     {isFreeTierUser(user)
                       ? 'Não foi possível carregar o material de amostra. Verifique sua conexão e atualize a página.'
-                      : 'Sua chave atual não libera os módulos com materiais disponíveis no app. Solicite a atualização da sua chave para o módulo/ciclo desejado.'}
+                      : 'Seu plano atual não libera os módulos com materiais disponíveis no app. Solicite atualização do convite ou do plano para o módulo/ciclo desejado.'}
                   </p>
                   <button className="btn btn-secondary" style={{ maxWidth: '280px' }} onClick={() => { window.location.hash = '#home'; navigateTo('home'); }}>
                     Voltar ao início
@@ -9772,9 +10669,9 @@
                   initialTemaId={routeState.aulaId}
                   onRouteChange={navigateTo}
                   user={user}
-                  onNavigateTo={(tab, materiaId) => {
+                  onNavigateTo={(tab, materiaId, aulaId) => {
                     if (materiaId) setSelectedMateria(materiaId);
-                    navigateTo(tab, { materiaId });
+                    navigateTo(tab, { materiaId, aulaId: aulaId || null });
                   }}
                 />
               )
@@ -9786,6 +10683,10 @@
 
             {currentTab === 'about' && (
               <SobreScreen user={user} onNavigate={(tab, opts) => navigateTo(tab, opts || {})} />
+            )}
+
+            {currentTab === 'gradbook' && (
+              <GradBookScreen user={user} onNavigate={(tab, opts) => navigateTo(tab, opts || {})} />
             )}
 
             {currentTab === 'profile' && (
@@ -9808,23 +10709,9 @@
               />
             )}
 
-            {/* Bottom Navigation (mobile only) */}
-            <div className="bottom-nav">
-              {navItems.map(item => (
-                <div
-                  key={item.id}
-                  className={`nav-item ${currentTab === item.id ? 'active' : ''}`}
-                  title={item.navTitle || undefined}
-                  onClick={() => navigateTo(item.id)}
-                >
-                  <div className="nav-icon">{item.icon}</div>
-                  <div className="nav-label">{item.label}</div>
-                </div>
-              ))}
-            </div>
-
           </div>
         </div>
+        </>
       );
     };
 
