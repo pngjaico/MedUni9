@@ -1,274 +1,93 @@
-# SEMIO1 - Aula 4: Exame Físico — Palpação
+# Semiologia 1 — Aula 4: Exame Físico — Palpação
 
-**Disciplina:** Semiologia do Sistema Musculoesquelético
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Semiologia do Aparelho Locomotor  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Exame Físico — Palpação é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+A palpação localiza estruturas (tendões, bolsas, linha articular), identifica o ponto de dor máxima e diferencia edema de partes moles de distensão capsular por derrame. Sem ela, “teste especial” vira manobra decorada. Em prova, associações clássicas: dor na linha tenomuscular na tendinopatia; dor na linha articular no menisco; epicôndilo doloroso na epicondilite.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO1-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Caso Clínico de Abertura
+## Técnica geral
 
-Paciente de meia-idade chega com quadro compatível com Exame Físico — Palpação, início recente e impacto funcional progressivo. O objetivo inicial é localizar o problema antes de fechar etiologia.
-
-## Anamnese Dirigida e Perguntas de Alto Valor
-
-Pergunte início, evolução temporal, lateralidade, sintomas associados, sinais de gravidade e impacto nas atividades de vida diária. Questões específicas com recorte temporal aumentam precisão diagnóstica.
-
-> **Dica de Prova:** Em semiologia, pergunta bem formulada reduz a lista diagnóstica antes mesmo do exame físico.
-
-## Exame Físico em Sequência
-
-A sequência recomendada é inspeção, testes dirigidos por hipótese, comparação bilateral e interpretação com localização topográfica. Sempre registre lateralidade, intensidade e repercussão funcional.
-
-## Síndromes Associadas
-
-Inclua diferenciação entre padrões centrais, periféricos e funcionais, destacando o achado que muda conduta imediata.
-
-> **Pegadinha:** Confundir sinal inespecífico com achado localizatório forte leva a erro diagnóstico clássico.
-
-## Diferencial Diagnóstico
-
-| Hipótese | Dado de anamnese | Achado de exame | Critério de desempate |
-|----------|------------------|-----------------|-----------------------|
-| Lesão central | Início súbito e déficit focal | Sinais de trato longo | Assimetria objetiva persistente |
-| Lesão periférica | Dor em trajeto neural | Déficit territorial | Reflexo reduzido no território |
-| Disfunção funcional | Variabilidade importante | Inconsistência de padrão | Ausência de coerência neuroanatômica |
-| Quadro misto | Evolução subaguda | Múltiplos sistemas | Hierarquizar o sinal de gravidade |
-
-### Núcleo de aprofundamento 1: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação semiológica
-Quando a lógica de Exame Físico — Palpação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação semiológica
-Os professores costumam cobrar Exame Físico — Palpação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Exame Físico — Palpação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Exame Físico — Palpação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Exame Físico — Palpação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação semiológica
-Na prática clínica, Exame Físico — Palpação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+Pressão gradual com face distal dos dedos; comparar lado a lado. Começar por regiões menos dolorosas quando possível para ganhar confiança do paciente. Evitar palpação única sem referência contralateral em membros simétricos.
 
 ---
 
-## Pontos-Chave para Prova
+## Palpação articular: joelho como exemplo
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Estrutura | O que palpar | Dica |
+|-----------|--------------|------|
+| Borda patelar | Ligamento patelar, tendão quadricipital | Dor em salto / corrida |
+| Linha articular (medial/lateral) | Menisco, colaterais | Dor à rotação com flexão |
+| Face posterior | Cisto de Baker | Não confundir com TVP — USG quando dúvida |
+
+> **Dica de Prova:** Dor à percussão de processo espinhoso ou suspeita de fratura vertebral — indicar imagem; não insistir na palpação profunda sem contexto.
+
+---
+
+## Tendões e bolsas
+
+| Local | Achado comum |
+|-------|--------------|
+| Tendão de Aquiles | Espessamento tendinopatia; depressão pós-ruptura |
+| Face anterior do joelho | Tendão patelar, bolsa pré-patelar |
+| Epicôndilos | Epicondilite medial ou lateral |
+
+---
+
+## Punho e mão
+
+Processo estiloide radial, tabaqueira anatômica, túnel do carpo — topografia precisa evita confundir tendinite com artrite radiocarpiana.
+
+| Região palpada | Dor comum em |
+|----------------|--------------|
+| Estiloide radial | Tenossinovite de De Quervain |
+| Túnel do carpo | Síndrome do túnel do carpo |
+| Articulação radioulnar distal | Instabilidade pós-trauma |
+
+---
+
+## Coluna: palpação segura
+
+Paravertebrais espasmados são comuns na lombalgia mecânica. Dor intensa à percussão de proeminência óssea com mecanismo de trauma sugere fratura até prova em contrário. Febre + dor local profunda → não rotular só como “lombalgia”.
+
+> **Pegadinha:** Dor paravertebral com sinais sistêmicos — infecção (discite/osteomielite) na lista diferencial.
+
+---
+
+## Temperatura e dor à palpação
+
+Compare dorso da mão do examinador com a articulação — referência rápida sem aparelho. Dor desproporcional à palpação leve sugere componente neuropático ou sensibilização central (contexto de dor crônica).
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Exame Físico — Palpação aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Epicondilite lateral: dor máxima no epicôndilo lateral à palpação e piora com extensão resistida do punho. Punho pós-queda: dor na tabaqueira com desconforto na escafóide — pensar fratura mesmo com radiografia inicial negativa em alguns casos (protocolo).
+
+---
+
+## Pontos-Chave para Prova
+
+- Palpação sistemática e comparativa.  
+- Joint line e menisco; epicôndilo e tendinopatia.  
+- Derrame: manobras específicas no joelho (outra aula).  
+- Percussão vertebral e alerta de fratura/infecção.
 
 ---
 
@@ -278,24 +97,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Topografia antes de rotular “tendinite” genérica.  
+- Diferença entre bursite e sinovite por localização.  
+- Palpação + ADM + testes = exame completo.  
+- Febre + dor profunda → imagem e laboratório conforme caso.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Tendinite | Artrite | Periarticular vs sinovite global |
+| Cisto de Baker | TVP | USG; não confiar só em sinal de Homans |
+| Espasmo muscular | Infecção vertebral | Febre, PCR, imagem |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Palpação boa nomeia a estrutura — não só a dor.”

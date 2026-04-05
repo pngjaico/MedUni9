@@ -1,272 +1,123 @@
-# BMF1 - Aula 13: Prática — Músculos da Coluna, Membros Superiores e Inferiores
+# BMF1 — Aula 13: Prática — Músculos da Coluna, Membros Superiores e Inferiores
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Prática — Músculos da Coluna, Membros Superiores e Inferiores é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Saber **nome**, **origem**, **inserção**, **ação** e **innervação** dos principais grupos musculares permite **palpação** segura, **teste de força** por **segmento** (MRC) e **entender** padrões de **lesão** (manguito, adutores, isquiotibiais). Esta aula organiza a **prática** em **compartimentos** — não lista infinita — e liga **movimento** a **nervo** e **nível** raquidiano quando útil para **prova** integrada.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A13-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Organização Topográfica
-
-A leitura de Prática — Músculos da Coluna, Membros Superiores e Inferiores começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
-
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Prática — Músculos da Coluna, Membros Superiores e Inferiores fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Prática — Músculos da Coluna, Membros Superiores e Inferiores com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Músculos da Coluna, Membros Superiores e Inferiores.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Músculos da Coluna, Membros Superiores e Inferiores está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Músculos da Coluna, Membros Superiores e Inferiores, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## Como estudar músculos sem “decorar livro fechado”
+
+| Etapa | O que fazer |
+|-------|-------------|
+| 1 | Desenhar **osso** → **inserção proximal** → **inserção distal** |
+| 2 | Perguntar: qual **articulação** cruza? Essa é a **ação principal** |
+| 3 | Agrupar por **compartimento** (anterior/posterior/medial) |
+| 4 | Associar **nervo** ao **compartimento** do membro |
 
 ---
 
-## Pontos-Chave para Prova
+## Coluna vertebral: estabilizadores e movimentos
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Grupo | Músculos (representativos) | Ação principal |
+|-------|----------------------------|----------------|
+| Extensores superficiais | Erector spinae (sacroespinal) | Extensão, sustentação |
+| Flexores profundos | Psoas maior (com coluna) | Flexão de quadril |
+| Região cervical | Esternocleidomastoideo, escalenos | Flexão lateral, rotação, elevação de costelas |
+
+> **Dica de Prova:** **Hérnia de disco** com déficit — relacione **nível** com **dermatoma** e **músculo** testável (ex.: extensão do hálux para L5 em contexto clássico).
+
+---
+
+## Membro superior: manguito e deltoide
+
+| Músculo | Rotação do ombro | Nervo |
+|---------|------------------|-------|
+| Supraespinhal | Abdução iniciada (0–15°) | Supraescapular |
+| Infraespinhal | Rotação lateral | Supraescapular |
+| Redondo menor | Rotação lateral | Axilar |
+| Subescapular | Rotação medial | Subescapular |
+| Deltoide | Abdução principal | Axilar |
+
+**Lesão** do **axilar** pode afetar **deltoide** e **sensibilidade** lateral do braço — **mapa** neuro ajuda na **semiologia**.
+
+---
+
+## Braço e antebraço: flexores vs extensores
+
+| Compartimento | Exemplo | Nervo principal |
+|-----------------|---------|-----------------|
+| Anterior braço | Bíceps, braquial | Musculocutâneo (bíceps), radial (braquial) |
+| Posterior braço | Tríceps | Radial |
+| Flexores antebraço (superficial) | Carpos radiais, palmar longo | Mediano (maioria) + ulnar (FCU) |
+| Extensores antebraço | Extensores dos dedos | Radial |
+
+---
+
+## Membro inferior: quadril — flexores, extensores, adutores, rotadores
+
+| Grupo | Músculos-chave | Ação |
+|-------|----------------|------|
+| Flexores | Ilíopsoas, reto femoral | Flexão de quadril |
+| Extensores | Glúteo máximo, isquiotibiais (extensão de quadril com joelho flexo) | Extensão |
+| Adutores | Adutor longo/magno, grácil | Adução |
+| Rotadores laterais | Piriforme, pequeno glúteo, médio glúteo (abdução) | Estabilidade de quadril |
+
+> **Pegadinha:** **Piriforme** pode comprimir **ciático** quando espasmado ou **hipertrofiado** — síndrome do piriforme (diagnóstico de exclusão na prática).
+
+---
+
+## Coxa: compartimento anterior / medial / posterior
+
+| Compartimento | Função global | Observação |
+|---------------|---------------|------------|
+| Anterior | Flexão joelho (exceto TFL), extensão quadril (reto femoral) | Nervo femoral |
+| Medial | Adução | Obturador + ramos do femoral |
+| Posterior | Extensão joelho + extensão quadril | Ciático (tibial + fibular comum) |
+
+---
+
+## Perna e pé: músculos que caem em prova
+
+| Região | Músculos | Innervação |
+|--------|----------|------------|
+| Anterior da perna | Tibial anterior, extensor longo dos dedos | Fibular profundo |
+| Lateral | Fibulares longo e curto | Fibular superficial |
+| Superficial posterior | Gastrocnêmio, sóleo | Tibial |
+| Profundo posterior | Tibial posterior, flexor longo | Tibial |
+
+**Queda do pé** (equino) + **marcha** em **steppage** → **fibular** comum (trauma de cabeça de fíbula, postura prolongada).
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Prática — Músculos da Coluna, Membros Superiores e Inferiores aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Teste de força** por **segmento** documenta **déficit** motor antes da imagem. **Rabdomiólise** atinge **músculos** de maior massa (quadríceps, glúteo) — **CK** elevada. **Síndrome compartimental** = dor desproporcional + **dor** à **extensão** passiva — **emergência** cirúrgica.
+
+---
+
+## Pontos-Chave para Prova
+
+- Manguito do ombro: **quatro** músculos + **nervos**.
+- Compartimentos da **coxa** e **innervação** geral.
+- **Fibular** vs **tibial** na **perna** — **queda** do pé e **inversão/eversão**.
+- Relação **prática** entre **nível** raquidiano e **teste** motor (visão integrada).
 
 ---
 
@@ -276,24 +127,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Diferença entre **ação** do **músculo** e **movimento** da **articulação** em cadeia cinética.
+- **MRC 0–5** em **grupo** muscular (não “força boa”).
+- **Manguito** e **deltoide** — **por que** ombro se **lesiona** com **queda** em **abdução**.
+- **Ciático** na **coxa** → **ramos** na **perna** (tibial e fibular).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Lesão de raiz | Lesão de nervo periférico | Padrão **myotomal** vs **compartimento** |
+| Tendinite | Ruptura | Lacuna de **força** com **teste** específico |
+| Fraqueza | Dor limitante | **Teste** isométrico sem **arco** completo |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Músculo é vetor — origem, inserção e nervo fecham o triângulo da prova.”

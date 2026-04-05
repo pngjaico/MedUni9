@@ -1,4 +1,4 @@
-# DS — Aula 2: Sustentabilidade, ODS e Saúde nas Cidades
+﻿# DS — Aula 2: Sustentabilidade, ODS e Saúde nas Cidades
 
 **Disciplina:** Desafios Socioambientais e Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 A Uninove cobra essa aula porque saúde urbana não depende só de hospital. Mobilidade, saneamento, habitação, áreas verdes, gestão de resíduos e segurança alimentar impactam diretamente o perfil epidemiológico das cidades. Os Objetivos de Desenvolvimento Sustentável (ODS) entram como linguagem de planejamento intersetorial para transformar essas condições.
 
 Para a prática médica, isso significa compreender que prevenção real exige políticas urbanas sustentáveis. O consultório recebe o efeito final de decisões tomadas muito antes do sintoma.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `DS-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## ODS e Saúde: Conexões que Caem em Prova
 
@@ -24,6 +37,17 @@ Os **ODS** não são lista decorativa. Eles conectam pobreza, educação, água 
 Saúde nas cidades melhora quando há planejamento territorial, transporte adequado, saneamento universal, mitigação de ilhas de calor e redução de desigualdade. Em prova, o raciocínio esperado é intersetorial: saúde, urbanismo, educação e assistência social atuando juntos.
 
 O estudante precisa reconhecer que sustentabilidade em saúde é estratégia de prevenção de longo prazo, não apenas resposta a desastres.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Sustentabilidade, ODS e Saúde nas Cidades
+
+**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ O estudante precisa reconhecer que sustentabilidade em saúde é estratégia de 
 ### Frase-âncora para não esquecer
 
 > "Cidade sustentável não é mais bonita; é menos doente."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Sustentabilidade, ODS e Saúde nas Cidades** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
+| Pegadinha / contraste | Política pública ou ODS relacionado. |
+| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
+- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
+- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.

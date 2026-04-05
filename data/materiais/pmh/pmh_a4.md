@@ -1,257 +1,90 @@
-# PMH - Aula 4: Ciclo de Krebs e Fosforilação Oxidativa
+# PMH — Aula 4: Ciclo de Krebs e Fosforilação Oxidativa
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Ciclo de Krebs e Fosforilação Oxidativa é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+O **acetil-CoA** entra no **ciclo de Krebs** (tricarboxílico) para **oxidar** carbonos a **CO₂**, gerar **NADH**, **FADH₂** e **GTP** (equivalente a ATP), e fornecer **precursores biosintéticos**. A **fosforilação oxidativa** transfere energia redox da **cadeia respiratória** para **ATP sintase** via **gradiente de prótons**. Tudo isso explica **hipóxia**, **intoxicações** (ex.: **inibidores da cadeia**), **defeitos mitocondriais** e **acidose láctica** em contexto de **falência de oxidação**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Do piruvato ao acetil-CoA
 
-Para dominar Ciclo de Krebs e Fosforilação Oxidativa, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**Piruvato desidrogenase** (complexo mitocondrial) oxida **piruvato** → **acetil-CoA** + **CO₂** + **NADH**. Regulada por **fosforilação** (inativo) e **produtos** (ATP, acetil-CoA, NADH inibem).
 
-## Construção de Hipótese e Validação
-
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Ciclo de Krebs e Fosforilação Oxidativa fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Ciclo de Krebs e Fosforilação Oxidativa com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Ciclo de Krebs e Fosforilação Oxidativa.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Ciclo de Krebs e Fosforilação Oxidativa está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Ciclo de Krebs e Fosforilação Oxidativa, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Ciclo de Krebs e Fosforilação Oxidativa aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** Deficiência de **PDH** ou **tiamina** (B1) → acúmulo de **piruvato** e **lactato**.
 
 ---
 
-## Pontos-Chave para Prova
+## Ciclo de Krebs: uma volta conceitual
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**acetil-CoA + oxaloacetato → citrato** e segue até **regenerar oxaloacetato**. Por volta, produz-se **GTP**, **NADH**, **FADH₂** e **CO₂**.
+
+**Pontos de saída anabólicos:** **α-cetoglutarato** e **oxaloacetato** alimentam **aminoácidos** e **gliconeogênese**.
+
+> **Pegadinha:** Ciclo **não** gera glicose diretamente; mas **oxaloacetato** pode ser **drenado** para **gliconeogênese** em certas condições.
+
+---
+
+## Cadeia respiratória e gradiente de prótons
+
+**Complexos I–IV** transferem elétrons de **NADH/FADH₂** até **O₂** (redução a água). **Bombeamento de prótons** cria **força protonmotriz** (Δp).
+
+**ATP sintase (F₀F₁)** usa **fluxo de H⁺** para **fosforilar ADP**.
+
+**Rendimento:** regra prática de estudo — **NADH** mitocondrial ~ **2,5 ATP**; **FADH₂** ~ **1,5 ATP** (valores exatos dependem do shuttling citoplasmático).
+
+---
+
+## Inibidores e desacopladores (clássicos de prova)
+
+- **Cianeto/CO:** bloqueiam **transferência de elétrons** (complexo IV ou citocromo oxidase).
+- **Oligomicina:** inibe **ATP sintase**.
+- **Desacopladores** (ex.: **DNP** histórico): dissipam **gradiente** → **calor** sem ATP útil.
+
+---
+
+## Comparativo: NADH vs FADH₂ na cadeia
+
+| Entrada | Entra em | ATP aproximado |
+|---------|----------|----------------|
+| NADH (mito) | Complexo I | maior |
+| FADH₂ | Complexo II | menor |
+
+---
+
+## Shuttles: NADH citoplasmático
+
+O **NADH** da **glicólise** não atravessa a membrana mitocondrial livremente. **Shuttle do malato-aspartato** e **do glicerol-3-fosfato** movem equivalentes redutores; o **rendimento de ATP** por **glicose** pode variar levemente conforme o tecido e o shuttle predominante — tema de prova quando comparam **fígado** e **músculo**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Ciclo de Krebs e Fosforilação Oxidativa aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Choque**, **asfixia** e **intoxicação por cianeto** interrompem **cadeia respiratória** → **queda de ATP** e **desvio para lactato**. **Doenças mitocondriais** podem afetar **complexos** específicos — **acidose**, **miopatia** e **encefalopatia**. **Tiamina** é cofator de **PDH** e **α-cetoglutarato desidrogenase** — falha em **alcoólicos** e **desnutridos**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **PDH** liga glicólise ao **ciclo de Krebs**.
+- Krebs: **NADH/FADH₂/GTP** + **precursores biosintéticos**.
+- **Cadeia respiratória** + **ATP sintase** = **fosforilação oxidativa**.
+- **Inibidores** e **hipóxia** convergem em **falência energética**.
 
 ---
 
@@ -261,24 +94,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Acetil-CoA** alimenta Krebs; **CO₂** sai em dois passos de descarboxilação.
+- **NADH/FADH₂** alimentam **ETC**; **O₂** é aceptor final.
+- **ATP sintase** depende de **gradiente de prótons**.
+- **PDH** e **cofatores** (B1) ligam clínica a bioquímica.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Ciclo de Krebs | Glicólise | Krebs é **mitocondrial** (matriz); glicólise **citoplasmática**. |
+| Inibir ETC | Inibir ATP sintase | ETC para → sem gradiente; oligomicina → gradiente sem ATP. |
+| NADH citoplasmático | NADH mitocondrial | **Shuttle** define quanto ATP entra na ETC. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Krebs gera redutores; a cadeia transforma redox em ATP.”

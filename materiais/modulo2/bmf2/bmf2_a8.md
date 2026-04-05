@@ -1,4 +1,4 @@
-# BMF2 — Aula 8: Inervação do Coração e Regulação da Pressão Arterial
+﻿# BMF2 — Aula 8: Inervação do Coração e Regulação da Pressão Arterial
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O sistema nervoso autônomo é o maestro invisível do coração e dos vasos. En
 
 Na prática médica diária, a regulação da pressão arterial é o tema de saúde pública mais relevante do país — a hipertensão afeta mais de um terço dos adultos brasileiros. A Uninove cobra esse assunto tanto em contextos de fisiologia como em questões aplicadas à clínica, tornando esta aula um dos pilares do módulo cardiorrespiratório.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Inervação Autonômica do Coração
 
@@ -150,3 +165,11 @@ O manejo da **crise hipertensiva** exemplifica toda esta aula: nitroprussiato de
 ### Frase-âncora para não esquecer
 
 > "O vago segura o coração em repouso; quando a pressão cai, o SRAA acende o sistema renina como alarme de emergência."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

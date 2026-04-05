@@ -1,268 +1,92 @@
-# SUS - Aula 4: O SUS e as Leis Orgânicas da Saúde
+# SUS — Aula 4: O SUS e as Leis Orgânicas da Saúde
 
-**Disciplina:** Princípios e Diretrizes do SUS
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Princípios e Diretrizes do SUS  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O SUS e as Leis Orgânicas da Saúde é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+A Constituição de 1988 **institui o direito à saúde**; as **Leis nº 8.080/1990** e **nº 8.142/1990** **operacionalizam** o SUS: definem princípios, instrumentos e participação social. Em prova, questões cobram **princípios doutrinários** (o “porquê” ético) e **organizativos** (o “como” se estrutura), além da distinção entre **Lei 8080** (disposições gerais do sistema) e **Lei 8142** (participação da comunidade e transferência de recursos). Sem esse arcabouço, o estudante confunde **direito constitucional** com **gestão local**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Relevância Populacional e Indicadores
+## Base constitucional (arts. 196–200 da CF/88)
 
-Em O SUS e as Leis Orgânicas da Saúde, a leitura correta começa por magnitude do problema, população afetada e tendência temporal.
+O art. 196 estabelece que a saúde é **direito de todos e dever do Estado**, garantido mediante **políticas sociais e econômicas** que visem à **redução do risco de doença** e de outros agravos e ao **acesso universal e igualitário** às ações e serviços para sua promoção, proteção e recuperação.
 
-## Cadeia Epidemiológica e Pontos de Intervenção
+O art. 198 define **competências privadas complementares** e limites ao lucro. O art. 199 trata de **vedação de destinação de recursos públicos** a hospitais privados com fins lucrativos (com exceções legais). O art. 200 distribui competências entre **União, estados e municípios**.
 
-Descreva agente, via de transmissão, suscetibilidade e medidas de interrupção em prevenção primária, secundária e terciária.
-
-> **Dica de Prova:** Diferencie incidência de prevalência antes de interpretar impacto de política pública.
-
-## Interpretação de Estudos e Decisão em Saúde
-
-Associe desenho do estudo, viés provável e implicação para tomada de decisão clínica e de gestão.
-
-> **Pegadinha:** Valor de p isolado não substitui magnitude de efeito nem plausibilidade epidemiológica.
-
-| Conceito | Definição prática | Uso correto | Erro comum |
-|----------|-------------------|------------|------------|
-| Incidência | Casos novos no período | Avaliar risco | Confundir com estoque de casos |
-| Prevalência | Casos totais no momento | Medir carga | Inferir causalidade temporal |
-| Risco relativo | Comparação entre expostos e não expostos | Força de associação | Ignorar confundidores |
-| Intervalo de confiança | Faixa de incerteza da estimativa | Julgar precisão | Ler sem contexto clínico |
-
-### Núcleo de aprofundamento 1: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação em saúde coletiva
-Quando a lógica de O SUS e as Leis Orgânicas da Saúde fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação em saúde coletiva
-Os professores costumam cobrar O SUS e as Leis Orgânicas da Saúde com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de O SUS e as Leis Orgânicas da Saúde.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de O SUS e as Leis Orgânicas da Saúde está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de O SUS e as Leis Orgânicas da Saúde, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação em saúde coletiva
-Na prática clínica, O SUS e as Leis Orgânicas da Saúde aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** “Universalidade” na CF aparece como **acesso universal** às ações e serviços; na Lei 8080, os princípios são detalhados em conjunto com **equidade** e **integralidade**.
 
 ---
 
-## Pontos-Chave para Prova
+## Lei nº 8.080/1990 — Disposições gerais sobre a saúde
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+A Lei 8080 **institui o SUS**, define diretrizes, bases para **ações e serviços**, planejamento, **financiamento**, vigilância e critérios para **internação**. É a “lei-mãe” do sistema: estabelece **princípios doutrinários e organizativos** e o papel dos entes federados.
+
+### Princípios doutrinários (memorize)
+
+- **Universalidade:** todos têm direito ao acesso integral às ações e serviços.
+- **Equidade:** o sistema deve **ponderar desigualdades** e **diferenciar** para tornar o acesso **efetivo**.
+- **Integralidade:** atenção não pode ser fragmentada; inclui **promoção, prevenção, tratamento e reabilitação**.
+- **Participação da comunidade:** controle social e decisões compartilhadas.
+- **Descentralização político-administrativa:** comando com **direção única** em cada esfera.
+- **Hierarquia:** definir níveis de complexidade sem perder coordenação.
+- **Regionalização:** organizar o cuidado em regiões de saúde.
+
+> **Pegadinha:** **Igualdade formal** não basta: por isso existe **equidade** — tratar desigualmente os desiguais **na medida da desigualdade**.
+
+### Princípios organizativos (complementares)
+
+Incluem **descentralização**, **comando único**, **ordenamento da formação de recursos humanos**, entre outros previstos no texto legal. Em prova, podem aparecer em alternativas misturando **doutrinário** vs **organizativo** — leia o enunciado com atenção.
+
+---
+
+## Lei nº 8.142/1990 — Participação da comunidade
+
+A Lei 8142 regulamenta a **participação** em políticas de saúde: **Conferências de Saúde** e **Conselhos de Saúde**, além de normas sobre **transferência de recursos** da União para estados/municípios e **comissões intergestoras**.
+
+> **Dica de Prova:** Questões sobre **conferência vs conselho**: conferência é **deliberativa** (mais ampla, periódica); conselho é **permanente** e fiscaliza/pactua conforme a legislação aplicável.
+
+---
+
+## Hierarquia e níveis de atenção (visão de sistema)
+
+O SUS organiza a atenção em **níveis crescentes de complexidade** (atenção primária → média → alta), com **referência e contrarreferência**. O ponto de entrada ideal na APS é a **ESF/equipe de saúde da família**, resolvendo a maior parte dos problemas e ordenando o acesso a especialistas.
+
+| Nível | Função típica |
+|-------|----------------|
+| APS | cuidado longitudinal, vigilância, coordenação |
+| média complexidade | suporte especializado ambulatorial/hospitalar |
+| alta complexidade | procedimentos de alta densidade tecnológica |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, O SUS e as Leis Orgânicas da Saúde aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Quando você solicita exame ou encaminha para especialista, está inserido na **lógica de regionalização e hierarquia**. Encaminhar sem critério gera **fila** e desperdício; o SUS pressupõe **resolutividade na APS** e uso correto da **rede**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **CF/88:** saúde como direito; arts. 196–200 como base.
+- **Lei 8080:** institui o SUS; princípios doutrinários e organizativos.
+- **Equidade ≠ igualdade:** equidade corrige injustiças.
+- **Lei 8142:** participação social; conferências e conselhos.
+- **Integralidade:** promoção à reabilitação, sem fragmentação.
 
 ---
 
@@ -272,24 +96,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **8.080:** instituição do SUS e princípios.
+- **8.142:** participação comunitária e instrumentos.
+- **Doutrinários:** universalidade, equidade, integralidade, participação, hierarquia, descentralização, regionalização.
+- **CF:** saúde como direito e dever do Estado; diretrizes de financiamento e competências.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Universalidade | Equidade | Universalidade é para todos; equidade ajusta pelo grau de necessidade. |
+| Integralidade | Espacialidade apenas | Integralidade cobre **todo o cuidado necessário**, não só “vários pontos de atenção”. |
+| Lei 8080 | Lei 8142 | 8080: sistema; 8142: participação/transferências (eixos típicos de prova). |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “8080 é o sistema; 8142 é a sociedade dentro dele.”

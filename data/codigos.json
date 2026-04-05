@@ -182,6 +182,60 @@
       "expira": "2027-01-03",
       "nota": "João teste modulo 3",
       "criadoEm": "2026-04-04T02:40:15.984Z"
+    },
+    "79395befe2787a9408136be080b65853e8619352ddb595a6c0a2d05d0426b7b0": {
+      "plano": "vitalicio",
+      "tipo": "embaixador",
+      "embaixadorId": "emb_x2gbnhgi4",
+      "cupomCode": "PNGJAICO-2026-VITALICIO",
+      "modulosAcesso": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": "pngjaico@gmail.com",
+      "expira": "2027-12-31",
+      "nota": "Chave vinculada ao embaixador João Vitor Fiches Machado",
+      "criadoEm": "2026-04-04T17:29:58.741Z"
+    },
+    "a4dc9b7c56b9c038b96d17ef13f99179c38a282dc5a091a78822dc65c965416f": {
+      "plano": "vitalicio",
+      "tipo": "embaixador",
+      "embaixadorId": "emb_4vpguy5ew",
+      "cupomCode": "JOAOVI-2026-Y5EW",
+      "modulosAcesso": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "ativo": true,
+      "maxDispositivos": 2,
+      "dispositivos": [],
+      "email": "pngjaico@gmail.com",
+      "expira": "2027-12-31",
+      "nota": "Chave vinculada ao embaixador João Vitor Fiches Machado (promoção de conta existente)",
+      "criadoEm": "2026-04-04T17:44:42.578Z"
     }
   }
 }

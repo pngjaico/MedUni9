@@ -1,272 +1,97 @@
-# BMF1 - Aula 7: Generalidades do Sistema Articular
+# BMF1 — Aula 7: Articulações — Classificação e Estrutura
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Generalidades do Sistema Articular é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Articulações distribuem cargas e permitem movimento dentro de limites seguros. Classificar por tecido de união (fibrosa, cartilaginosa, sinovial) e por forma da superfície articular explica por que o ombro mobiliza muito e o quadril é mais estável, e por que certas lesões (menisco, labrum, ligamento) são típicas de cada tipo.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Organização Topográfica
-
-A leitura de Generalidades do Sistema Articular começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
-
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Generalidades do Sistema Articular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Articular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Articular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Articular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Articular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Generalidades do Sistema Articular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## União por tecido — três famílias
+
+| Tipo | Característica | Exemplo |
+|------|----------------|---------|
+| Fibrosa | Pouco ou nenhum movimento | suturas do crânio; sindesmose tibiofibular distal |
+| Cartilaginosa | Movimento limitado | disco intervertebral; sínfise púbica |
+| Sinovial | Cavidade, líquido sinovial, cartilagem hialina | joelho, ombro |
 
 ---
 
-## Pontos-Chave para Prova
+## Classificação funcional (sinoviais)
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Forma | Movimento típico | Exemplo |
+|-------|------------------|---------|
+| Plana (deslizamento) | Pouco deslizamento | articulações intercarpais |
+| Dobradiça (ginglimo) | Flexão/extensão | cotovelo, interfalangeanas |
+| Pivô (trocoide) | Rotação | atlantoaxial (dens) |
+| Esferóide | Multiaxial | ombro, quadril |
+| Elipsoide | Flex/ext + desvio | radiocarpiana |
+| Selar | Oposição do polegar | 1ª metacarpofalangeana (polegar) |
+| Côndilo | Flex/ext + leve rotação | joelho (com meniscos) |
+
+---
+
+## Estrutura da articulação sinovial
+
+- Cartilagem articular hialina (não vascularizada — nutrição pelo líquido sinovial).  
+- Cápsula fibrosa externa; membrana sinovial interna (produz líquido).  
+- Ligamentos (reforço periarticular).  
+- Extras: meniscos (joelho), labrum (ombro/quadril), bursas (reduzem atrito).
+
+---
+
+## Estabilidade versus mobilidade — regra prática
+
+| Articulação | Tendência |
+|-------------|-----------|
+| Ombro | Alta mobilidade, baixa estabilidade — luxação anterior comum |
+| Quadril | Alta estabilidade, mobilidade menor — cabeça profunda no acetábulo |
+| Joelho | Dobradiça + complexo meniscal e ligamentar — lesões esportivas |
+
+---
+
+## Líquido sinovial
+
+Ultrafiltrado do plasma com hialuronato — lubrificação e nutrição da cartilagem. Sinovite aumenta volume e altera composição (inflamação, artrite).
+
+---
+
+## Cartilagem articular versus fibrocartilagem
+
+| Tecido | Onde | Função |
+|--------|------|--------|
+| Hialina | superfícies articulares | amortecimento, deslizamento |
+| Fibrocartilagem | meniscos, disco TMJ | resistência a compressão e cisalhamento |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Generalidades do Sistema Articular aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Luxação glenoumeral anterior lesiona labrum (Bankart); impacto repetitivo pode levar a síndrome do impacto. LCA rompido altera cinemática do joelho e predispõe menisco. Gonartrose destrói cartilagem — estreitamento de espaço articular na radiografia.
+
+---
+
+## Pontos-Chave para Prova
+
+- Três tipos de união (fibrosa, cartilaginosa, sinovial) com exemplos.  
+- Sinovial: componentes (cartilagem, cápsula, sinóvia, líquido).  
+- Formas sinoviais: dobradiça, esferóide, pivô — exemplos.  
+- Compromisso mobilidade–estabilidade ombro versus quadril.
 
 ---
 
@@ -276,24 +101,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Por que menisco é fibrocartilagem e não hialina.  
+- Diferença entre sinovite e bursite em uma frase cada.  
+- O que é sindesmose e um exemplo.  
+- Qual articulação é “côndilo” clássica em prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Cartilagem hialina | Fibrocartilagem | superfície versus disco/menisco |
+| Articulação sinovial | Cartilaginosa | cavidade e líquido versus disco/sínfise |
+| Luxação | Subluxação | perda completa versus parcial do contato |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sinovial = cavidade + líquido; o resto é união mais rígida.”

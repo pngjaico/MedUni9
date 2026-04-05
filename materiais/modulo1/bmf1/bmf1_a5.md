@@ -1,272 +1,127 @@
-# BMF1 - Aula 5: Tecido Ósseo — Estrutura e Ossificação
+# BMF1 — Aula 5: Tecido Ósseo — Estrutura e Ossificação
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Tecido Ósseo — Estrutura e Ossificação é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+O osso é tecido conjuntivo mineralizado: fibras de colágeno tipo I compõem a matriz orgânica; cristais de hidroxiapatita conferem rigidez. Compreender osteons (sistemas de Havers), trabéculas, atividade de osteoblastos e osteoclastos e os modos de ossificação permite interpretar radiografias, densitometria e doenças como osteoporose, osteomalácia e consolidação anômala de fraturas. As descrições microscópicas seguem atlas histológico clássico (Junqueira; correlato macro em Moore/Netter).
 
 ---
 
-## Organização Topográfica
+## Macroarquitetura: cortical e esponjosa
 
-A leitura de Tecido Ósseo — Estrutura e Ossificação começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+| Região | Organização | Função mecânica |
+|--------|-------------|-----------------|
+| Compacta (cortical) | Osteons, canais de Havers | Resistência a torção e flexão |
+| Esponjosa (trabecular) | Trabéculas entre espaços medulares | Distribuição de carga; direção segue tensão (lei de Wolff) |
 
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Tecido Ósseo — Estrutura e Ossificação fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Tecido Ósseo — Estrutura e Ossificação com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Ósseo — Estrutura e Ossificação.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Ósseo — Estrutura e Ossificação está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Ósseo — Estrutura e Ossificação, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Tecido Ósseo — Estrutura e Ossificação aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+O periósteo (camada fibrosa externa + camada osteogênica) e o endósteo revestem superfícies e participam do reparo. A medula óssea vermelha hematopoiética localiza-se em epífises e ossos planos; a amarela predomina no miolo da diáfise do adulto.
 
 ---
 
-## Pontos-Chave para Prova
+## Microarquitetura do osso compacto
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+O osteon é a unidade funcional: canal de Havers neurovascular rodeado por lamelas concêntricas; osteócitos em lacunas conectados por canalículos. Lamelas intersticiais e circunferenciais completam o arranjo. A linha de cementação delimita osteons secundários em remodelação.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A5-F01`
+
+- **Momento:** após o parágrafo “Microarquitetura do osso compacto”.
+- **O que mostrar:** corte transversal de osso compacto com um osteon completo: canal de Havers central, lamelas concêntricas, lacunas e canalículos esquemáticos; opcionalmente um canal de Volkmann conectando osteons.
+- **Tipo sugerido:** esquema didático ou fotomicrografia com legenda (estilo atlas histológico).
+- **Legenda (rascunho):** “Osteon: organização em lamelas ao redor do canal de Havers.”
+- **Notas (opcional):** priorizar versão limpa para tela pequena; evitar micrografia muito ruidosa sem rótulos.
+
+---
+
+## Células da linhagem óssea
+
+| Célula | Origem / papel |
+|--------|----------------|
+| Osteoblasto | Diferenciação local; sintetiza osteoide |
+| Osteócito | Osteoblasto incorporado; mecanotransdução |
+| Osteoclasto | Linhagem hematopoética; reabsorve matriz (superfície em serra) |
+
+O balanço formação–reabsorção define a massa óssea neta — alvo terapêutico em osteoporose (bifosfonatos, denosumabe, análogos de PTH).
+
+> **Dica de Prova:** PTH aumenta reabsorção (com vitamina D ativa aumenta também absorção intestinal de cálcio); calcitonina reduz reabsorção — visão fisiológica de prova.
+
+---
+
+## Ossificação: dois grandes mecanismos
+
+| Tipo | Processo | Onde é típico |
+|------|----------|---------------|
+| Intramembranosa | Ossificação direta do mesênquima | Vários ossos do crânio, clavícula (parcialmente) |
+| Endocondral | Substituição de modelo cartilaginoso | Maioria dos ossos longos |
+
+Na placa epifisária (criança), zonas de reserva, proliferação, hipertrofia, calcificação e ossificação explicam crescimento em comprimento até a fusão epifário-diáfise.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A5-F02`
+
+- **Momento:** após o texto da placa epifisária (ossificação endocondral).
+- **O que mostrar:** placa epifisária em corte longitudinal com as zonas nomeadas (reserva, proliferação, hipertrofia, calcificação, ossificação) e seta do sentido do crescimento em comprimento.
+- **Tipo sugerido:** ilustração estilo atlas (embriologia/histologia) ou esquema didático colorido por zona.
+- **Legenda (rascunho):** “Crescimento em comprimento: zonas da placa epifisária.”
+- **Notas (opcional):** uma única figura basta para memorizar a sequência — alinha com prova de desenvolvimento.
+
+---
+
+## Remodelação versus modelagem
+
+Modelagem altera a forma global do osso no desenvolvimento. Remodelação substitui tecido sem mudar a forma externa aparente — contínua no adulto (aproximadamente 10% do esqueleto/ano em referências didáticas).
+
+---
+
+## Matriz óssea: o que entra na prova
+
+A matriz orgânica (principalmente colágeno tipo I) confere resistência à tração; a fase inorgânica (hidroxiapatita de cálcio e fosfato) confere rigidez à compressão. Alterações na proporção ou na mineralização explicam doenças: na osteomalácia, a matriz orgânica persiste “não calcificada” adequadamente; na osteoporose, há perda de massa com arquitetura mais porosa.
+
+---
+
+## Vascularização e nervos
+
+O osso é altamente vascularizado: artérias nutricientes penetram no canal medular; os canais de Havers e Volkmann distribuem fluxo dentro da compacta. Inervação sensitiva (dor em fraturas, metástases) e autonômica modulam remodelação — por isso imobilização prolongada e neuropatias podem afetar densidade óssea.
+
+---
+
+## Fratura: visão de consolidação (sequência em tabela)
+
+| Fase | Evento |
+|------|--------|
+| Agudo | Hematoma, inflamação |
+| Reparo | Tecido de granulação, calo fibrocartilaginoso |
+| Consolidação | Calo ósseo, remodelação |
+
+Imobilização inadequada, infecção ou desalinhamento prejudicam o resultado.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A5-F03`
+
+Briefing: radiografia simples de membro (ex.: tíbia) ilustrando **calo** em fase de consolidação ou exemplo esquemático das fases hematoma → calo → remodelação (três painéis). Legenda rascunho: “Sequência radiológica/esquemática da consolidação óssea.”
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Tecido Ósseo — Estrutura e Ossificação aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Osteoporose reduz massa óssea e aumenta risco de fratura por fragilidade (quadril, punho, vértebra). Metástases podem ser osteolíticas ou osteoblásticas — padrão na imagem guia etiologia e conduta. Raquitismo/osteomalácia alteram mineralização da matriz (defeito na mineralização, não só na quantidade óssea).
+
+---
+
+## Pontos-Chave para Prova
+
+- Compacta versus esponjosa; osteon e Havers.  
+- Osteoblasto, osteócito, osteoclasto — funções.  
+- Endocondral versus intramembranosa.  
+- Placa epifisária e crescimento.  
+- Sequência de consolidação da fratura.
 
 ---
 
@@ -276,24 +131,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Lei de Wolff (adaptação da arquitetura à carga).  
+- Por que a medula é vermelha em certos ossos e amarela na diáfise adulta.  
+- Diferença entre remodelação patológica (Paget) e fisiológica.  
+- Papel da vitamina D e PTH na homeostase do cálcio (visão geral).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Osteoporose | Osteomalácia | Massa versus mineralização da matriz |
+| Ossificação endocondral | Intramembranosa | Com ou sem modelo cartilaginoso |
+| Osteoblasto | Osteoclasto | Formação versus reabsorção |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Osso vivo remodela — radiografia é um instantâneo de um processo contínuo.”

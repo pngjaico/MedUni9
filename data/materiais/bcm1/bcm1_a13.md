@@ -1,4 +1,4 @@
-# Genética Médica — Heredograma e Padrões de Herança
+﻿# Genética Médica — Heredograma e Padrões de Herança
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Estima-se que cerca de 6.000 doenças monogênicas afetam coletivamente 1 em cad
 
 A transição entre as "regras de Mendel" do ensino médio e a genética clínica real exige entender as exceções: penetrância incompleta, expressividade variável, imprinting genômico, mosaicismo e herança mitocondrial. Esses conceitos explicam por que dois irmãos com a mesma mutação em BRCA1 podem ter manifestações clínicas muito diferentes.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A13-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Simbologia do Heredograma
 
@@ -190,3 +205,11 @@ Ambos os cromossomos de um par vêm do mesmo genitor. Se o cromossomo carrega ge
 ### Frase-âncora para não esquecer
 
 > "Vertical e 50%? AD. Horizontal e 25%? AR. Só nos meninos e pula nos pais? XLR. Só pela mãe, sem exceção? Mitocondrial. 15q sem o pai = Prader-Willi; 15q sem a mãe = Angelman — memorize pela letra: P(aternal ausente)→P(rader-Willi); M(aternal ausente)→a(ngel)M(an)."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

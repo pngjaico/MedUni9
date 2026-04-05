@@ -1,4 +1,4 @@
-# BCM1 — Aula 4: Sinalização Celular
+﻿# BCM1 — Aula 4: Sinalização Celular
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A maioria dos fármacos modernos age em receptores de sinalização celular — 
 
 Além disso, as vias de sinalização são o elo entre o ambiente extracelular e a expressão gênica — compreender como um sinal hormonal chega ao núcleo e ativa um gene é a base para entender tanto a homeostase quanto o câncer.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Tipos de Comunicação Celular
 
@@ -124,3 +139,11 @@ O **transtuzumabe (Herceptin®)** é um anticorpo monoclonal que bloqueia o rece
 ### Frase-âncora para não esquecer
 
 > "Gs estimula; Gi inibe; Gq mexe com cálcio. Proteico age na membrana; esteroide entra no núcleo. RAS mutado é acelerador sem freio — é o oncogene mais comum dos cânceres humanos."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

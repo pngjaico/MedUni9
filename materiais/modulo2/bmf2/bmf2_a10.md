@@ -1,4 +1,4 @@
-# BMF2 — Aula 10: Anatomia da Caixa Torácica e Vias Aéreas
+﻿# BMF2 — Aula 10: Anatomia da Caixa Torácica e Vias Aéreas
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Nenhum procedimento de urgência em pneumologia ou cirurgia torácica é possív
 
 O surfactante pulmonar — produzido pelos pneumócitos tipo II — é outro tema de destaque, pois sua ausência é a causa da síndrome do desconforto respiratório neonatal (SDRN), condição diretamente relacionada à prematuridade e abordada na clínica pediátrica. A Uninove frequentemente integra esse conceito anatômico-histológico com perguntas de neonatologia e fisiologia.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A10-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Anatomia da Caixa Torácica
 
@@ -136,3 +151,11 @@ O exame físico torácico começa pela inspeção e palpação das costelas, com
 ### Frase-âncora para não esquecer
 
 > "O bronquíolo RESPIRATÓRIO é o que respira (faz troca); o TERMINAL termina de conduzir. E quem mantém os alvéolos abertos é o pneumócito tipo 2 — o pequeno que produz o grande surfactante."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

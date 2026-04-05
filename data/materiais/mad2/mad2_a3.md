@@ -11,6 +11,19 @@ Autoimunidade é o tema em que imunologia encontra o consultório de forma mais 
 
 Na Uninove, os professores costumam cobrar autoimunidade por raciocínio de mecanismo, não por lista de doenças. A pergunta típica não é apenas "qual diagnóstico", mas "qual tipo de resposta imune está causando dano". Quem aprende essa camada mecanística acerta melhor prova e toma decisões clínicas mais seguras.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A3-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## O que transforma defesa em agressão: perda de tolerância com inflamação sustentada

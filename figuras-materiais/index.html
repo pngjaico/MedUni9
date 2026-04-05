@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <title>MedGrad+ — Figuras dos materiais</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Outfit:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="figuras-materiais.css">
+</head>
+<body>
+  <header class="fm-header">
+    <h1>Figuras dos materiais</h1>
+    <p>
+      Cadastro de links para imagens (ex.: Wikimedia Commons). O app lê <code>data/materiais_figuras.json</code> no deploy.
+      Use este painel com o servidor local para salvar alterações no JSON.
+    </p>
+  </header>
+
+  <div class="fm-toolbar">
+    <div>
+      <label for="filterQ">Filtrar</label>
+      <input type="search" id="filterQ" class="fm-input" placeholder="ID, aula, texto…" autocomplete="off">
+    </div>
+    <div>
+      <label for="filterStatus">Status</label>
+      <select id="filterStatus" class="fm-select">
+        <option value="">Todos</option>
+        <option value="pendente">pendente</option>
+        <option value="encontrada">encontrada</option>
+        <option value="inserida">inserida</option>
+        <option value="descartada">descartada</option>
+      </select>
+    </div>
+    <button type="button" class="fm-btn fm-btn-ghost" id="btnReload">Recarregar</button>
+    <button type="button" class="fm-btn fm-btn-primary" id="btnSave">Salvar alterações</button>
+    <button type="button" class="fm-btn fm-btn-ghost" id="btnAdd">+ Nova linha (ID)</button>
+    <span id="saveStatus" class="fm-status"></span>
+  </div>
+
+  <main class="fm-main">
+    <p style="margin:0 0 12px;font-size:0.85rem;color:var(--fm-muted);">
+      Mostrando <strong id="countVisible">0</strong> de <strong id="countTotal">0</strong> entradas.
+    </p>
+    <div class="fm-table-wrap">
+      <table class="fm-table">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Aula</th>
+            <th>Status</th>
+            <th>Momento</th>
+            <th>URL da imagem</th>
+            <th>Página Commons</th>
+            <th>Licença</th>
+            <th>Crédito</th>
+            <th>Legenda</th>
+            <th>Status (edit)</th>
+            <th>Ações</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+
+    <p class="fm-footnote">
+      <strong>Fluxo:</strong> pesquise no Wikimedia Commons → copie o URL direto do ficheiro (geralmente em upload.wikimedia.org) →
+      preencha licença e crédito conforme a página do Commons → Salvar → <code>git add data/materiais_figuras.json</code> → commit →
+      <code>firebase deploy --only hosting</code>. Leia <code>figuras-materiais/README.md</code> e <code>figuras-materiais/SCHEMA.md</code> para detalhes.
+    </p>
+    <p class="fm-footnote">
+      <strong>Equipe:</strong> todas as informações para buscar imagens depois ficam neste JSON (e no painel <em>Briefing equipe</em>). O aluno no app não vê o texto <code>### Figura sugerida</code> do <code>.md</code>; só placeholder vazio até existir URL.
+    </p>
+  </main>
+
+  <dialog id="briefingDialog" class="fm-dialog">
+    <div class="fm-dialog-inner">
+      <h2 class="fm-dialog-title">Briefing editorial (equipe) — <span id="briefingId"></span></h2>
+      <p class="fm-dialog-hint">Estes campos não aparecem no app para o aluno; servem para pesquisa no Commons e registro interno.</p>
+      <div class="fm-dialog-grid">
+        <label><span>Módulo</span><input type="number" id="bf_modulo" class="fm-cell-input" min="1" max="20"></label>
+        <label><span>Disciplina (id)</span><input type="text" id="bf_disciplina" class="fm-cell-input" placeholder="bmf1"></label>
+        <label><span>Aula (id)</span><input type="text" id="bf_aula" class="fm-cell-input" placeholder="bmf1_a5"></label>
+        <label class="fm-span-2"><span>Caminho do material (.md)</span><input type="text" id="bf_caminho" class="fm-cell-input" placeholder="materiais/modulo1/..."></label>
+        <label class="fm-span-2"><span>Momento no texto</span><textarea id="bf_momento" class="fm-textarea" rows="2"></textarea></label>
+        <label class="fm-span-2"><span>Descrição do visual (o que buscar)</span><textarea id="bf_desc" class="fm-textarea" rows="4"></textarea></label>
+        <label class="fm-span-2"><span>Tipo sugerido</span><input type="text" id="bf_tipo" class="fm-cell-input" placeholder="esquema, micrografia, radiografia…"></label>
+        <label class="fm-span-2"><span>Busca Commons (EN)</span><input type="text" id="bf_en" class="fm-cell-input"></label>
+        <label class="fm-span-2"><span>Busca Commons (PT)</span><input type="text" id="bf_pt" class="fm-cell-input"></label>
+        <label class="fm-span-2"><span>Notas internas</span><textarea id="bf_notas" class="fm-textarea" rows="3"></textarea></label>
+      </div>
+      <div class="fm-dialog-actions">
+        <button type="button" class="fm-btn fm-btn-ghost" id="briefingClose">Cancelar</button>
+        <button type="button" class="fm-btn fm-btn-primary" id="briefingSave">Aplicar ao registro</button>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="figuras-materiais.js"></script>
+</body>
+</html>

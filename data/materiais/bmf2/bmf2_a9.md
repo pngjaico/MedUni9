@@ -1,4 +1,4 @@
-# BMF2 — Aula 9: Circulação Coronariana, Microcirculação e Linfática
+﻿# BMF2 — Aula 9: Circulação Coronariana, Microcirculação e Linfática
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A circulação coronariana merece destaque especial porque é a única circulaç
 
 A microcirculação e o sistema linfático completam o quadro: são eles que garantem a troca de nutrientes, o recolhimento de proteínas extravasadas e a vigilância imunológica dos tecidos. A Uninove cobra esses temas associados à fisiopatologia do edema e da isquemia miocárdica, integrando morfologia e função de forma direta.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Anatomia das Artérias Coronárias
 
@@ -133,3 +148,11 @@ O **infarto agudo do miocárdio** (IAM) é a expressão máxima da falência da 
 ### Frase-âncora para não esquecer
 
 > "O coração já extrai quase tudo do sangue que recebe — quando precisa mais, só pede mais fluxo. E esse fluxo só chega na diástole."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

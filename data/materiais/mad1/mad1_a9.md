@@ -1,4 +1,4 @@
-# Transplantes e Transfusão Sanguínea
+﻿# Transplantes e Transfusão Sanguínea
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O transplante de órgãos é uma das conquistas médicas mais avançadas do séc
 
 A Uninove frequentemente cobra os tipos de rejeição (hiperaguda, aguda, crônica), os mecanismos imunológicos envolvidos e as regras de compatibilidade ABO/Rh em transfusão. Questões de caso clínico com pacientes pós-transplante deteriorando clinicamente são frequentes.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Bases Imunológicas do Transplante
 
@@ -172,3 +187,11 @@ A Uninove frequentemente cobra os tipos de rejeição (hiperaguda, aguda, crôni
 ### Frase-âncora para não esquecer
 
 > "No transplante, o tempo fala: minutos = bomba já armada (Ac pré-formados); semanas = exército se reagrupando (T celular); anos = erosão silenciosa (vasculopatia crônica)."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

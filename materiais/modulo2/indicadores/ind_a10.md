@@ -1,4 +1,4 @@
-# IND — Aula 10: Análise Descritiva — Tendência Central e Dispersão
+﻿# IND — Aula 10: Análise Descritiva — Tendência Central e Dispersão
 
 **Disciplina:** Indicadores de Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Análise descritiva é cobrada porque ela resume dados e prepara a interpretação epidemiológica antes de qualquer teste inferencial. A Uninove costuma pedir escolha entre média, mediana e moda, além de medidas de dispersão, para verificar se o aluno sabe quando cada uma representa melhor o conjunto de dados.
 
 Na prática, descrição ruim gera leitura errada mesmo com banco de dados grande.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `IND-A10-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Tendência Central com Critério
 
@@ -24,6 +37,17 @@ A **média** é sensível a valores extremos e funciona melhor em distribuiçõe
 Duas amostras podem ter mesma média e variabilidade totalmente diferente. Por isso, medidas de dispersão como amplitude, variância, desvio-padrão e intervalo interquartil são essenciais. Em prova, os professores cobram justamente essa ideia: centro sem dispersão é informação incompleta.
 
 Análise descritiva robusta combina posição central e espalhamento dos dados.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Análise Descritiva — Tendência Central e Dispersão
+
+Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ Análise descritiva robusta combina posição central e espalhamento dos dados.
 ### Frase-âncora para não esquecer
 
 > "Resumo bom de dados sempre diz onde está o centro e o quanto os valores se espalham."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Análise Descritiva — Tendência Central e Dispersão** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
+| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
+| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Gordis L. *Epidemiologia*. Elsevier.
+- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
+- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.

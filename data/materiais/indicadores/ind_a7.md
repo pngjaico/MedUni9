@@ -1,4 +1,4 @@
-# IND — Aula 7: Indicadores de Mortalidade Materno-Infantil e Perinatal
+﻿# IND — Aula 7: Indicadores de Mortalidade Materno-Infantil e Perinatal
 
 **Disciplina:** Indicadores de Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Mortalidade materno-infantil e perinatal é tema clássico porque sintetiza qualidade da atenção pré-natal, parto, puerpério e cuidado neonatal. A Uninove costuma cobrar conceitos e interpretação desses indicadores como marcadores sensíveis de desempenho do sistema de saúde.
 
 Na prática, taxas elevadas nesses grupos apontam falhas assistenciais e desigualdades sociais, exigindo resposta rápida e estruturada.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `IND-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## O Que Cada Indicador Mostra
 
@@ -24,6 +37,17 @@ A mortalidade materna reflete risco de óbito relacionado à gestação, parto e
 Esses indicadores são fortemente influenciados por acesso, qualidade do cuidado e condições socioeconômicas. Em prova, o aluno deve evitar análise simplista e considerar também sub-registro e desigualdade territorial.
 
 No SUS, monitorar esses desfechos orienta investimento em atenção primária, rede obstétrica, qualificação de parto e cuidado neonatal oportuno.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Indicadores de Mortalidade Materno-Infantil e Perinatal
+
+Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ No SUS, monitorar esses desfechos orienta investimento em atenção primária, r
 ### Frase-âncora para não esquecer
 
 > "Quando mãe e bebê morrem mais, o problema é da rede inteira, não de um ponto isolado."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Indicadores de Mortalidade Materno-Infantil e Perinatal** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
+| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
+| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Gordis L. *Epidemiologia*. Elsevier.
+- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
+- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.

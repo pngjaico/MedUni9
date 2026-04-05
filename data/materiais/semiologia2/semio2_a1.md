@@ -1,4 +1,4 @@
-# SEMIO2 — Aula 1: Fundamentos da Semiologia Cardiorrespiratória
+﻿# SEMIO2 — Aula 1: Fundamentos da Semiologia Cardiorrespiratória
 
 **Disciplina:** Semiologia Cardiovascular e Respiratória
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Semiologia cardiorrespiratória é um divisor de águas na formação médica porque aqui o aluno aprende a transformar sintoma em hipótese com método. A Uninove costuma cobrar esse tema para ver se você domina a sequência correta de avaliação e sabe diferenciar achado relevante de ruído clínico.
 
 Na prática, boa semiologia reduz erro diagnóstico, evita exames desnecessários e acelera condutas em situações tempo-dependentes como síndrome coronariana, insuficiência cardíaca e insuficiência respiratória.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO2-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## O Método que Organiza o Raciocínio
 
@@ -24,6 +37,17 @@ A base da semiologia é integrar **anamnese dirigida**, **exame físico sistemat
 Um exame confiável exige técnica adequada de inspeção, palpação, percussão e ausculta. Além disso, comunicação clínica e postura ética durante o exame são parte do processo. A qualidade do dado semiológico depende da execução, não apenas da teoria.
 
 Em prova, os professores costumam valorizar coerência clínica: sinal observado precisa conversar com o mecanismo fisiopatológico sugerido.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Fundamentos da Semiologia Cardiorrespiratória
+
+Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ Em prova, os professores costumam valorizar coerência clínica: sinal observado
 ### Frase-âncora para não esquecer
 
 > "Semiologia boa economiza exame e ganha diagnóstico."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Fundamentos da Semiologia Cardiorrespiratória** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Sequência e técnica do exame discutido. |
+| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
+| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
+- Porto CC. *Semiologia Médica*. Guanabara Koogan.
+- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.

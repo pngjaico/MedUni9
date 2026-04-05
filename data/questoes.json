@@ -2047,6 +2047,1536 @@
       "ano": 2024,
       "semestre": "1/2024",
       "modulo": 1
+    },
+    {
+      "id": 102,
+      "materia": "bioestatistica",
+      "enunciado": "Na interpretação de indicadores de saúde, o SIM e o SINASC são fontes distintas no Brasil. Qual informação é captada exclusivamente pelo SINASC?",
+      "opcoes": [
+        "A) Registro de nascimentos e cálculo da taxa de natalidade",
+        "B) Registro de óbitos e cálculo da mortalidade geral",
+        "C) Notificação de doenças transmissíveis de interesse coletivo",
+        "D) Produção ambulatorial e hospitalar do SUS"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: SIM e SINASC são sistemas complementares para mortalidade e natalidade. A) CORRETA. O SINASC (Sistema de Informações sobre Nascidos Vivos) registra nascimentos e é a fonte para taxa de natalidade e denominador da mortalidade infantil. B) INCORRETA. Registro de óbitos é função do SIM. C) INCORRETA. Notificação de doenças transmissíveis é responsabilidade do SINAN. D) INCORRETA. Produção ambulatorial e hospitalar é registrada no SIA e SIH.",
+      "tema": "bioe_a1",
+      "subfoco": "sistemas-informacao",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 103,
+      "materia": "bioestatistica",
+      "enunciado": "Uma pesquisa mede a pressão arterial média de 1.500 hipertensos de SP para estimar a PA média real de todos os hipertensos brasileiros. A pressão média calculada nos 1.500 participantes é classificada como:",
+      "opcoes": [
+        "A) Parâmetro, pois representa a medida da população de interesse",
+        "B) Estatística, pois é calculada a partir da amostra coletada",
+        "C) Constante, pois o valor é fixo dentro do estudo",
+        "D) Variável dependente, pois é o desfecho da pesquisa"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Parâmetro descreve a população (μ, σ); estatística descreve a amostra (x̄, s). A) INCORRETA. Parâmetro seria a PA média real de todos os hipertensos brasileiros — não medida diretamente. B) CORRETA. A média dos 1.500 participantes é estatística da amostra (x̄); ela estima o parâmetro populacional (μ). C) INCORRETA. Constante não varia entre sujeitos; PA varia individualmente. D) INCORRETA. Neste contexto descritivo, PA é a variável medida, não necessariamente dependente.",
+      "tema": "bioe_a1",
+      "subfoco": "populacao-amostra",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 104,
+      "materia": "bioestatistica",
+      "enunciado": "Pesquisadores comparam 200 pacientes com câncer de pulmão e 200 controles saudáveis, identificando retrospectivamente a exposição tabágica no passado. Esse delineamento é classificado como:",
+      "opcoes": [
+        "A) Ensaio clínico randomizado, pois compara dois grupos com desfechos diferentes",
+        "B) Estudo de coorte prospectivo, pois acompanha expostos e não-expostos ao longo do tempo",
+        "C) Estudo caso-controle, pois parte do desfecho e investiga a exposição retrospectivamente",
+        "D) Estudo transversal, pois os dados são coletados em um único momento temporal"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Caso-controle parte do desfecho (doença) e olha para trás (retrospectivo). A) INCORRETA. Ensaio clínico envolve intervenção deliberada pelo pesquisador. B) INCORRETA. Coorte começa com expostos/não-expostos e aguarda o desfecho prospectivamente. C) CORRETA. Caso-controle: seleciona pelo desfecho (câncer vs. sem câncer) e investiga retrospectivamente a exposição (tabagismo). É observacional e retrospectivo. D) INCORRETA. Transversal mede exposição e desfecho simultaneamente.",
+      "tema": "bioe_a1",
+      "subfoco": "tipos-estudo",
+      "dificuldade": 3,
+      "modulo": 4
+    },
+    {
+      "id": 105,
+      "materia": "bioestatistica",
+      "enunciado": "O estadiamento do câncer (I, II, III, IV) é uma variável classificada como:",
+      "opcoes": [
+        "A) Quantitativa contínua, pois pode assumir valores decimais progressivos",
+        "B) Qualitativa nominal, pois não existe ordem natural entre os estadios",
+        "C) Quantitativa discreta, pois é expressa por números inteiros sequenciais",
+        "D) Qualitativa ordinal, pois os estadios têm ordem definida mas distâncias desiguais"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Variáveis qualitativas ordinais têm categorias com ordem, mas os intervalos não são necessariamente iguais. A) INCORRETA. Contínua aceita frações; estadiamento não tem estadio 1,5. B) INCORRETA. Nominal não tem ordem — sexo e diagnóstico são exemplos. O estadio II é pior que o I, portanto há ordem. C) INCORRETA. Discreta tem valores numéricos com significado aritmético. Estadiamento é categórico. D) CORRETA. Estadiamento é ordinal: existe ordem (I < II < III < IV), mas a diferença entre estadios não é uniforme.",
+      "tema": "bioe_a2",
+      "subfoco": "escalas-medida",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 106,
+      "materia": "bioestatistica",
+      "enunciado": "Um estudo encontra associação entre café e infarto. Ao estratificar os dados, percebe-se que fumantes bebem mais café e têm mais infarto. O tabagismo, nesse cenário, é classificado como:",
+      "opcoes": [
+        "A) Variável de confusão, pois está associado tanto à exposição (café) quanto ao desfecho (infarto)",
+        "B) Variável dependente, pois é o desfecho que o estudo quer medir",
+        "C) Variável moderadora, pois potencializa o efeito do café sobre o coração",
+        "D) Variável independente principal, pois é o preditor central da pesquisa"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Confundidor está associado à exposição E ao desfecho, distorcendo a associação. A) CORRETA. Tabagismo é confundidor clássico: fumantes bebem mais café (exposição) e têm mais infarto (desfecho). Sem ajuste, o café parece causar infarto — mas o efeito real é do cigarro. B) INCORRETA. Variável dependente é o desfecho — aqui o infarto, não o tabagismo. C) INCORRETA. Moderadora modifica magnitude do efeito em subgrupos; confundidor distorce a associação principal. D) INCORRETA. O preditor principal é o café; tabagismo é fator externo que distorce a relação.",
+      "tema": "bioe_a2",
+      "subfoco": "variavel-confusao",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 107,
+      "materia": "bioestatistica",
+      "enunciado": "Quando um estudo categoriza o IMC contínuo em 'abaixo do peso', 'normal', 'sobrepeso' e 'obeso', que transformação estatística ocorre e qual é sua principal consequência?",
+      "opcoes": [
+        "A) Transformação de variável discreta em nominal, sem impacto na análise",
+        "B) Categorização de variável contínua em ordinal, com perda de informação e redução do poder estatístico",
+        "C) Padronização de variável ordinal em escala de razão, ampliando a precisão do teste",
+        "D) Criação de variável de confusão a partir de dado originalmente quantitativo"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: IMC é variável quantitativa contínua; ao categorizá-lo em faixas, transforma-se em variável ordinal com perda de informação. A) INCORRETA. IMC é contínuo, não discreto. A transformação gera ordinal (com ordem), não nominal. B) CORRETA. Categorizar variável contínua cria ordinal e perde informação numérica — IMC 18,5 e 24,9 ficam na mesma categoria 'normal'. Isso reduz poder estatístico. C) INCORRETA. A categorização reduz, não amplia, a precisão analítica. D) INCORRETA. Categorizar IMC não cria confundidor.",
+      "tema": "bioe_a2",
+      "subfoco": "transformacao-variavel",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 108,
+      "materia": "bioestatistica",
+      "enunciado": "Um pesquisador analisa tempo de internação de 100 pacientes cirúrgicos. A maioria fica 3–5 dias, mas 5 pacientes com complicações ficaram 60 dias. A medida de tendência central mais adequada para descrever o tempo típico de internação é:",
+      "opcoes": [
+        "A) Média aritmética, pois utiliza todos os valores disponíveis sem exclusões",
+        "B) Amplitude, pois captura a variação máxima dos dados do grupo",
+        "C) Mediana, pois é robusta a valores extremos (outliers)",
+        "D) Moda, pois identifica o valor mais frequente e é sempre a mais confiável"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Em distribuições assimétricas com outliers, a mediana é a medida de tendência central mais representativa. A) INCORRETA. A média é distorcida pelos 5 outliers de 60 dias — ficaria inflada e não representaria o tempo típico. B) INCORRETA. Amplitude (máx − mín) é medida de dispersão, não de tendência central. C) CORRETA. A mediana é o valor central quando os dados são ordenados; não se move por causa dos outliers. Para tempo de internação (distribuição assimétrica à direita), é a medida ideal. D) INCORRETA. A moda é menos precisa que a mediana para distribuições contínuas assimétricas.",
+      "tema": "bioe_a3",
+      "subfoco": "tendencia-central",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 109,
+      "materia": "bioestatistica",
+      "enunciado": "Em uma população com distribuição normal para pressão arterial sistólica (média 120 mmHg, DP 10 mmHg), qual porcentagem dos indivíduos tem pressão entre 100 e 140 mmHg?",
+      "opcoes": [
+        "A) 68%, pois esse intervalo corresponde a ±1 desvio padrão da média",
+        "B) 99,7%, pois esse intervalo abrange virtualmente toda a distribuição normal",
+        "C) 50%, pois metade dos dados fica abaixo e metade acima da média",
+        "D) 95%, pois esse intervalo corresponde a ±2 desvios padrão da média"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Pela regra empírica 68-95-99,7, o intervalo ±2DP abrange 95% dos dados. A) INCORRETA. ±1DP corresponde a 110–130 mmHg (120 ± 10), não a 100–140. O intervalo 100–140 equivale a ±2DP. B) INCORRETA. ±3DP (90–150 mmHg) abrange 99,7%. C) INCORRETA. 50% acima/abaixo é propriedade da mediana, não quantifica intervalo específico. D) CORRETA. O intervalo 100–140 = 120 ± 20 = ±2DP. Pela regra 68-95-99,7: ±2DP engloba 95% dos dados.",
+      "tema": "bioe_a3",
+      "subfoco": "dispersao",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 110,
+      "materia": "bioestatistica",
+      "enunciado": "Um artigo com 400 participantes apresenta glicemia como '98 ± 3 mg/dL'. Outro com 25 participantes e glicemia semelhante apresenta '100 ± 12 mg/dL'. O valor '3' no primeiro artigo provavelmente representa:",
+      "opcoes": [
+        "A) Erro padrão da média (EPM), refletindo a alta precisão da estimativa em amostras grandes",
+        "B) Desvio padrão (DP), indicando que todos os pacientes tinham glicemia muito próxima de 98 mg/dL",
+        "C) Coeficiente de variação expresso em mg/dL em vez de porcentagem",
+        "D) Intervalo interquartil, representando os 50% centrais dos dados do estudo"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: EPM = DP/√n. Com n=400, o EPM é muito menor que o DP real — artigos podem usar EPM para parecer mais precisos. A) CORRETA. Se o DP real fosse ~12 (como no artigo menor), EPM = 12/√400 = 0,6. Um valor de ±3 sugere EPM — os dados reais dos pacientes são muito mais variáveis. Artigo menor com ±12 reporta o DP real. B) INCORRETA. DP de 3 mg/dL implicaria variabilidade biológica extremamente baixa — improvável. C) INCORRETA. Coeficiente de variação é adimensional (%). D) INCORRETA. IIQ acompanha a mediana, não a média.",
+      "tema": "bioe_a3",
+      "subfoco": "epm-dp",
+      "dificuldade": 3,
+      "modulo": 4
+    },
+    {
+      "id": 111,
+      "materia": "ds",
+      "enunciado": "Em saúde pública, qual a principal diferença entre os princípios de igualdade e equidade na distribuição de recursos de saúde?",
+      "opcoes": [
+        "A) Igualdade prioriza populações vulneráveis; equidade distribui de forma homogênea para todos",
+        "B) Igualdade distribui recursos igualmente para todos; equidade distribui conforme a necessidade de cada grupo",
+        "C) Igualdade e equidade são sinônimos no contexto do SUS e do Ministério da Saúde",
+        "D) Equidade garante acesso apenas universal; igualdade prioriza grupos com maior risco sanitário"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Igualdade dá o mesmo a todos; equidade dá mais a quem mais precisa. A) INCORRETA. As funções estão invertidas: quem prioriza vulneráveis é a equidade. B) CORRETA. Igualdade = distribuição homogênea. Equidade = resposta proporcional à necessidade — áreas com maior vulnerabilidade recebem mais recursos. Esse é o princípio central do SUS. C) INCORRETA. Os dois termos têm significados distintos. D) INCORRETA. Universalidade é acesso para todos — conceito diferente de igualdade ou equidade.",
+      "tema": "ds_a1",
+      "subfoco": "equidade-igualdade",
+      "dificuldade": 1,
+      "modulo": 2
+    },
+    {
+      "id": 112,
+      "materia": "ds",
+      "enunciado": "Uma cidade periférica sofre enchente severa que destrói domicílios, contamina poços e interrompe acesso à UBS local. Meses depois, surgem surto de leptospirose e aumento de transtornos de ansiedade. A análise mais adequada segundo a perspectiva socioambiental é:",
+      "opcoes": [
+        "A) Os casos representam adoecimento individual sem relação com o evento ambiental coletivo",
+        "B) A enchente aumentou exposição pontualmente, mas não altera o perfil epidemiológico sustentado",
+        "C) O evento ambiental interagiu com vulnerabilidade social preexistente e ampliou o risco coletivo",
+        "D) Os agravos decorrem exclusivamente de conduta inadequada dos moradores, sem componente ambiental"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: O determinante socioambiental interage com vulnerabilidade social preexistente para ampliar o impacto em saúde. A) INCORRETA. Surto de leptospirose pós-enchente é evidência direta de impacto ambiental coletivo. B) INCORRETA. Enchentes em territórios vulneráveis alteram o perfil epidemiológico de forma sustentada. C) CORRETA. O bairro já tinha vulnerabilidade acumulada (moradia precária, acesso limitado). A enchente amplificou essa vulnerabilidade — gerando surto infeccioso e impacto em saúde mental. D) INCORRETA. Atribuir adoecimento exclusivamente à conduta individual desconsidera os determinantes estruturais.",
+      "tema": "ds_a1",
+      "subfoco": "determinantes-socioambientais",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 113,
+      "materia": "ds",
+      "enunciado": "Qual dos seguintes exemplos melhor ilustra o impacto direto de mudanças climáticas sobre a morbimortalidade de populações urbanas vulneráveis?",
+      "opcoes": [
+        "A) Aumento do consumo de antibióticos por prescrição inadequada em serviços privados",
+        "B) Redução da mortalidade materna por melhoria dos protocolos obstétricos hospitalares",
+        "C) Ampliação da cobertura vacinal por campanhas nacionais do Ministério da Saúde",
+        "D) Ondas de calor que aumentam internações por insuficiência cardíaca e doença renal em idosos"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Mudanças climáticas têm impacto sanitário direto — especialmente em populações vulneráveis. A) INCORRETA. Uso inadequado de antibióticos é problema de segurança de medicamentos, não impacto climático. B) INCORRETA. Redução de mortalidade materna decorre de melhoria de assistência. C) INCORRETA. Cobertura vacinal depende de política pública, não de clima. D) CORRETA. Ondas de calor elevam a temperatura corporal, aumentam demanda cardíaca e renal, causam desidratação — elevando internações e óbitos em populações vulneráveis. É o exemplo clássico de impacto sanitário direto de mudança climática.",
+      "tema": "ds_a1",
+      "subfoco": "mudanca-climatica",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 114,
+      "materia": "ds",
+      "enunciado": "O ODS 3 (Saúde e Bem-Estar) não pode ser alcançado de forma isolada pelos serviços de saúde. Qual afirmativa melhor explica essa interdependência entre os Objetivos de Desenvolvimento Sustentável?",
+      "opcoes": [
+        "A) O ODS 3 depende de metas de outros ODS, como saneamento, educação e redução de pobreza, que são determinantes diretos da saúde",
+        "B) O ODS 3 é autossuficiente e pode ser implementado apenas com expansão de hospitais e médicos",
+        "C) A saúde melhora automaticamente quando há crescimento econômico, independente de saneamento ou equidade",
+        "D) Os ODS são metas redundantes e o foco exclusivo no ODS 3 garante impacto equivalente nos demais"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Saúde é resultado de múltiplos determinantes — o ODS 3 depende de ODS como saneamento (6), educação (4) e redução de desigualdade (10). A) CORRETA. Sem saneamento aumentam doenças hídricas; sem educação piora a prevenção; sem redução de pobreza aumenta vulnerabilidade. Os ODS são interconectados. B) INCORRETA. Expansão hospitalar trata consequências; saúde exige ação nos determinantes. C) INCORRETA. Crescimento econômico sem equidade pode coexistir com alta morbimortalidade. D) INCORRETA. Os ODS não são redundantes; são interdependentes.",
+      "tema": "ds_a2",
+      "subfoco": "ods-saude",
+      "dificuldade": 1,
+      "modulo": 2
+    },
+    {
+      "id": 115,
+      "materia": "ds",
+      "enunciado": "Uma cidade com alta densidade populacional, saneamento deficiente, transporte saturado e ausência de áreas verdes apresenta altas taxas de doenças respiratórias, transtornos mentais e infecciosas. O principal conceito que conecta ambiente urbano e esse perfil de adoecimento é:",
+      "opcoes": [
+        "A) A morbidade é determinada exclusivamente por fatores genéticos individuais, independente do ambiente",
+        "B) O planejamento urbano inadequado gera exposição coletiva a riscos que aumentam a carga de doença",
+        "C) A falta de acesso a planos de saúde privados explica as altas taxas de adoecimento nessas regiões",
+        "D) O adoecimento decorre principalmente de estilo de vida individual, sem relação com infraestrutura urbana"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Ambiente urbano é determinante de saúde — saneamento, mobilidade e habitação condicionam o perfil epidemiológico coletivo. A) INCORRETA. Fatores genéticos explicam predisposição individual; adoecimento coletivo reflete exposição ambiental compartilhada. B) CORRETA. Saneamento inadequado favorece infecções; poluição causa doenças respiratórias; ausência de áreas verdes reduz bem-estar mental. Planejamento urbano é política de saúde. C) INCORRETA. A relação é com infraestrutura e território, não com tipo de plano de saúde. D) INCORRETA. Estilo de vida contribui individualmente, mas o perfil coletivo reflete o contexto estrutural.",
+      "tema": "ds_a2",
+      "subfoco": "cidade-saudavel",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 116,
+      "materia": "ds",
+      "enunciado": "Um município prioriza construção de UBS sem investir em saneamento. Dois anos depois, persiste alta taxa de diarreia infantil apesar de 85% de cobertura de consultas pediátricas. A análise mais adequada desse cenário é:",
+      "opcoes": [
+        "A) A alta cobertura assistencial é suficiente para reduzir morbimortalidade infecciosa em área urbana",
+        "B) A taxa de diarreia reflete resistência da população às orientações dos profissionais de saúde",
+        "C) O setor saúde não consegue reduzir agravos de transmissão hídrica sem ação intersetorial em saneamento",
+        "D) O problema seria resolvido apenas com expansão de leitos hospitalares para internação das crianças"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Diarreia por veiculação hídrica depende de saneamento — ação setorial isolada em saúde não remove a causa estrutural. A) INCORRETA. Alta cobertura trata o adoecido, mas não elimina a exposição ao patógeno. B) INCORRETA. Atribuir a persistência à resistência da população desconsidera a causa estrutural — água contaminada. C) CORRETA. Diarreia de transmissão hídrica só cai com saneamento básico. O setor saúde oferece tratamento individual, mas a prevenção coletiva exige ação intersetorial. D) INCORRETA. Internação trata complicações; não reduz incidência.",
+      "tema": "ds_a2",
+      "subfoco": "intersetorialidade",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 117,
+      "materia": "ds",
+      "enunciado": "Segundo o conceito de política pública efetiva em saúde, o que diferencia uma norma publicada de uma política que realmente funciona?",
+      "opcoes": [
+        "A) A existência de regulamentação federal, independente de monitoramento ou resultado",
+        "B) A criação de secretaria ou ministério específico responsável pela área de atuação",
+        "C) A disponibilidade de financiamento para o setor, mesmo sem avaliação de resultados",
+        "D) O impacto mensurável em indicadores de saúde no território, com cobertura e qualidade verificáveis"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Política pública efetiva não se mede pela existência da lei, mas pelo resultado em saúde que produz. A) INCORRETA. Regulamentação é necessária mas não suficiente — sem execução territorial, não há impacto. B) INCORRETA. Criar estrutura administrativa não garante resultado em saúde. C) INCORRETA. Financiamento sem avaliação de resultados pode ser gasto sem impacto. D) CORRETA. Política efetiva muda indicadores de saúde no território — cobertura, incidência, mortalidade. O resultado mensurável é o critério definitivo.",
+      "tema": "ds_a3",
+      "subfoco": "politica-publica",
+      "dificuldade": 1,
+      "modulo": 2
+    },
+    {
+      "id": 118,
+      "materia": "ds",
+      "enunciado": "Por que a atuação isolada do setor saúde é insuficiente para reduzir a morbimortalidade relacionada aos determinantes socioambientais no Brasil?",
+      "opcoes": [
+        "A) Porque os determinantes estruturais do adoecimento — saneamento, habitação, renda e educação — estão fora da governança exclusiva do setor saúde e exigem ação coordenada",
+        "B) Porque o SUS não tem capacidade assistencial suficiente para atender toda a população brasileira",
+        "C) Porque os agravos socioambientais têm causas exclusivamente individuais que independem de política pública",
+        "D) Porque a saúde pública brasileira é restrita a programas de vacinação e controle de epidemias"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Os determinantes que mais adoecem coletividades estão além do setor saúde e exigem intersetorialidade. A) CORRETA. Saneamento é infraestrutura; renda é política econômica; educação é política de ensino. O SUS intervém no dano mas não controla as causas estruturais — para isso é essencial coordenação intersetorial. B) INCORRETA. O problema fundamental não é capacidade assistencial, mas ausência de ação nos determinantes. C) INCORRETA. Agravos como leptospirose, dengue e desnutrição têm causas estruturais coletivas. D) INCORRETA. O SUS abrange atenção primária, vigilância, promoção e alta complexidade.",
+      "tema": "ds_a3",
+      "subfoco": "sus-vigilancia",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 119,
+      "materia": "ds",
+      "enunciado": "Uma secretaria de saúde apresenta relatório mostrando que construiu 40 novas UBS e capacitou 200 profissionais em 2024. Esse tipo de informação é classificado como indicador de:",
+      "opcoes": [
+        "A) Resultado, pois demonstra impacto direto na saúde da população assistida",
+        "B) Processo, pois mede execução de ações sem necessariamente evidenciar mudança em desfecho em saúde",
+        "C) Efetividade, pois comprova que a política pública atingiu seus objetivos sanitários concretos",
+        "D) Morbimortalidade, pois reflete o estado de saúde da população em termos quantitativos"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Indicador de processo mede o que foi feito (execução); indicador de resultado mede o que mudou em saúde. A) INCORRETA. Construção de UBS e capacitação são etapas de implementação; não medem se a saúde melhorou. B) CORRETA. Nº de UBS e profissionais capacitados são indicadores de processo — medem execução, não impacto. Para resultado seria preciso medir internações evitadas ou redução de mortalidade. C) INCORRETA. Efetividade mede resultado, não processo. D) INCORRETA. Indicadores de morbimortalidade medem adoecimento e morte.",
+      "tema": "ds_a3",
+      "subfoco": "indicadores",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 120,
+      "materia": "bmf2",
+      "enunciado": "Paciente de 68 anos apresenta FC 38 bpm, hipotensão e síncope. O ECG mostra ondas P regulares dissociadas dos complexos QRS, configurando bloqueio atrioventricular de alto grau. Qual função fisiológica normal do nó AV está comprometida?",
+      "opcoes": [
+        "A) Gerar o impulso elétrico primário que inicia cada batimento cardíaco espontaneamente",
+        "B) Conduzir o impulso rapidamente aos ventrículos para contração sincronizada e eficiente",
+        "C) Introduzir atraso fisiológico entre ativação atrial e ventricular para enchimento ventricular adequado",
+        "D) Produzir o potencial de ação de platô que sustenta a contração ventricular prolongada"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: O nó AV promove atraso fisiológico entre ativação atrial e ventricular, permitindo enchimento ventricular adequado. A) INCORRETA. Gerar impulso primário é função do nó sinoatrial (NS), o marcapasso fisiológico dominante. B) INCORRETA. Condução rápida é função das fibras de Purkinje. C) CORRETA. O nó AV retarda a condução ~120-200 ms. No bloqueio de alto grau, essa sincronia é interrompida — átrios e ventrículos batem dissociados, prejudicando enchimento e sincronia mecânica. D) INCORRETA. O platô do potencial de ação é propriedade dos miócitos ventriculares.",
+      "tema": "bmf2_a1",
+      "subfoco": "no-sa-no-av",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 121,
+      "materia": "bmf2",
+      "enunciado": "Qual afirmativa melhor diferencia automatismo e velocidade de condução no sistema elétrico cardíaco?",
+      "opcoes": [
+        "A) Automatismo é propriedade exclusiva das fibras de Purkinje; velocidade de condução depende do nó sinoatrial",
+        "B) Células com alto automatismo conduzem impulsos mais rapidamente do que células passivas",
+        "C) O nó AV tem o maior automatismo do coração e por isso domina o ritmo fisiológico",
+        "D) Automatismo é a capacidade de gerar impulso espontaneamente; velocidade de condução é a rapidez de propagação entre células"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Automatismo e velocidade de condução são propriedades independentes — a célula mais automática (NS) não é a que conduz mais rápido (Purkinje). A) INCORRETA. O NS também tem alto automatismo; Purkinje tem automatismo mas menor que o NS. B) INCORRETA. Alto automatismo não implica alta velocidade de condução. C) INCORRETA. O NS tem o maior automatismo (~60-100 bpm) — não o AV (~40-60 bpm). D) CORRETA. Automatismo = geração espontânea do impulso. Velocidade de condução = rapidez de transmissão (alta no Purkinje, baixa no nó AV — propositalmente lenta para criar o atraso fisiológico).",
+      "tema": "bmf2_a1",
+      "subfoco": "automatismo-conducao",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 122,
+      "materia": "bmf2",
+      "enunciado": "Paciente em uso de verapamil (bloqueador de canal de cálcio tipo L) apresenta bradicardia sinusal e PR prolongado ao ECG. Qual mecanismo explica simultaneamente esses dois efeitos?",
+      "opcoes": [
+        "A) Redução da despolarização espontânea no nó SA (diminuindo FC) e retardo da condução no nó AV (aumentando PR), ambos dependentes de correntes de cálcio",
+        "B) Bloqueio de canais de sódio nas fibras de Purkinje, reduzindo a velocidade de condução intraventricular",
+        "C) Inibição da bomba Na+/K+ ATPase nos miócitos ventriculares, prolongando o potencial de ação",
+        "D) Aumento do tônus vagal reflexo que suprime o automatismo nas células marcapasso do nó SA"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Os canais de cálcio tipo L são essenciais para o automatismo do NS e para a condução no nó AV — dois alvos do verapamil. A) CORRETA. O NS usa corrente de cálcio (ICa,L) para despolarização espontânea — bloqueá-la reduz a frequência de disparo (bradicardia). O nó AV depende principalmente de cálcio para conduzir — o bloqueio retarda essa condução (PR longo). B) INCORRETA. Canais de sódio são alvo de antiarrítmicos classe I (lidocaína, flecainida). C) INCORRETA. Na+/K+ ATPase é alvo da digoxina. D) INCORRETA. O mecanismo direto do verapamil é bloqueio de canais de Ca²⁺, não ativação vagal.",
+      "tema": "bmf2_a1",
+      "subfoco": "farmacologia-antiarritmicos",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 123,
+      "materia": "bmf2",
+      "enunciado": "Qual das seguintes afirmativas diferencia corretamente o pneumócito tipo I do tipo II na arquitetura alveolar?",
+      "opcoes": [
+        "A) Pneumócito tipo I produz surfactante; pneumócito tipo II realiza trocas gasosas pela sua grande superfície",
+        "B) Pneumócito tipo I cobre ~95% da superfície alveolar e realiza trocas gasosas; tipo II ocupa ~5% e produz surfactante",
+        "C) Ambos produzem surfactante, mas somente o tipo II tem função de barreira para trocas gasosas",
+        "D) Pneumócito tipo II é o mais abundante em área de superfície e serve de suporte estrutural para o tipo I"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Tipo I = troca gasosa (maior área); Tipo II = surfactante (menor área, metabolicamente ativo). A) INCORRETA. As funções estão invertidas: tipo II produz surfactante; tipo I realiza trocas gasosas. B) CORRETA. Pneumócito tipo I: delgado, ~95% da superfície alveolar, especializado em difusão gasosa. Tipo II: cúbico, ~5% da cobertura, produz surfactante (DPPC) e prolifera para reparar lesão alveolar. C) INCORRETA. Apenas o tipo II produz surfactante; o tipo I realiza troca gasosa. D) INCORRETA. O tipo I é mais abundante em área de cobertura (~95%).",
+      "tema": "bmf2_a10",
+      "subfoco": "pneumocito-I-II",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 124,
+      "materia": "bmf2",
+      "enunciado": "Recém-nascido de 30 semanas apresenta gemido expiratório, tiragem intercostal progressiva e cianose central. Gasometria: PaO2 45, PaCO2 58, pH 7,20. Radiografia mostra opacificação difusa em 'vidro fosco' bilateral. Qual é o principal mecanismo fisiopatológico?",
+      "opcoes": [
+        "A) Pneumonite intersticial por infecção viral intrauterina com citomegalovírus",
+        "B) Aspiração de mecônio com obstrução de bronquíolos distais durante o parto",
+        "C) Deficiência de surfactante pulmonar por imaturidade dos pneumócitos tipo II, levando a colapso alveolar progressivo",
+        "D) Cardiopatia congênita com shunt direita-esquerda causando hipoxemia grave e acidose"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Prematuridade < 34 semanas = deficiência de surfactante = SDRN (Doença da Membrana Hialina). A) INCORRETA. Pneumonite por CMV tem apresentação subaguda e imagem diferente. B) INCORRETA. Aspiração de mecônio ocorre em gestações pós-termo — não em prematuros de 30 semanas. C) CORRETA. Com 30 semanas, os pneumócitos tipo II ainda não produzem surfactante adequado (maturidade ~34-36 semanas). Sem surfactante, a tensão superficial colapsa os alvéolos a cada expiração → insuficiência respiratória → vidro fosco bilateral. D) INCORRETA. Cardiopatia congênita causa hipoxemia mas não a imagem em vidro fosco bilateral da SDRN.",
+      "tema": "bmf2_a10",
+      "subfoco": "surfactante-sdrn",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 125,
+      "materia": "bmf2",
+      "enunciado": "Qual é a diferença funcional entre o bronquíolo terminal e o bronquíolo respiratório na arquitetura das vias aéreas?",
+      "opcoes": [
+        "A) O bronquíolo terminal realiza trocas gasosas; o respiratório apenas conduz o ar sem participar das trocas",
+        "B) Ambos fazem parte da zona de troca gasosa, diferindo apenas na geração anatômica",
+        "C) O bronquíolo respiratório é exclusivamente zona de condução e compõe o espaço morto anatômico",
+        "D) O bronquíolo terminal é zona de condução (sem troca gasosa); o respiratório já possui alvéolos nas paredes e pertence à zona de troca"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Terminal = condução (geração 16, sem alvéolos); Respiratório = troca (gerações 17-19, com alvéolos nas paredes). A) INCORRETA. O terminal realiza apenas condução; o respiratório que faz trocas gasosas. B) INCORRETA. O terminal (geração 16) é zona de condução e integra o espaço morto anatômico (~150 mL). C) INCORRETA. O bronquíolo respiratório (gerações 17-19) faz troca gasosa por ter alvéolos nas paredes. D) CORRETA. O bronquíolo terminal é o último segmento da zona de condução. A partir dos respiratórios (geração 17), começam os alvéolos nas paredes — início das trocas gasosas reais.",
+      "tema": "bmf2_a10",
+      "subfoco": "zona-conducao-troca",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 126,
+      "materia": "st",
+      "enunciado": "Qual das seguintes alternativas diferencia corretamente vigilância epidemiológica de vigilância sanitária no contexto da saúde do trabalhador?",
+      "opcoes": [
+        "A) Vigilância epidemiológica monitora ocorrência e distribuição de agravos; vigilância sanitária regula produtos, serviços e processos com potencial risco à saúde",
+        "B) Vigilância epidemiológica regula alimentos e cosméticos; vigilância sanitária acompanha surtos e epidemias",
+        "C) As duas vigilâncias têm a mesma função, diferindo apenas pelo órgão executivo responsável",
+        "D) Vigilância sanitária foca em exposições ambientais; vigilância epidemiológica regula produtos industrializados"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Epidemiológica = monitoramento de agravos na população; sanitária = controle de risco em produtos, serviços e processos. A) CORRETA. Epidemiológica: acompanha quem adoece, como e onde — identifica surtos e tendências. Sanitária: atua sobre o que pode causar adoecimento — alimentos, medicamentos, ambientes. B) INCORRETA. As funções estão trocadas. C) INCORRETA. Têm funções distintas e complementares. D) INCORRETA. Exposições ambientais são objeto da vigilância ambiental.",
+      "tema": "st_a1",
+      "subfoco": "vigilancias-saude",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 127,
+      "materia": "st",
+      "enunciado": "Médico recusa solicitar ressonância de rotina para trabalhador com lombalgia crônica, optando por analgesia e fisioterapia, pois sabe que o exame raramente muda a conduta nesse cenário. Qual nível de prevenção essa conduta exemplifica?",
+      "opcoes": [
+        "A) Prevenção primária, pois evita que o trabalhador desenvolva doença mais grave no futuro",
+        "B) Prevenção quaternária, pois evita intervenção desnecessária que poderia gerar mais dano que benefício",
+        "C) Prevenção terciária, pois reabilita um trabalhador já com incapacidade estabelecida",
+        "D) Prevenção secundária, pois detecta precocemente a progressão da doença antes de complicações"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Prevenção quaternária é a proteção contra intervenções excessivas ou desnecessárias. A) INCORRETA. Prevenção primária age antes do adoecimento, reduzindo exposição ao fator de risco. B) CORRETA. Prevenção quaternária: evitar intervenções que não trazem benefício e podem gerar dano — cascatas diagnósticas, efeitos adversos, falsos positivos. A recusa da ressonância de rotina nesse cenário é prevenção quaternária clássica. C) INCORRETA. Prevenção terciária reduz incapacidade já estabelecida por meio de reabilitação. D) INCORRETA. Prevenção secundária detecta precocemente — triagem e rastreio.",
+      "tema": "st_a1",
+      "subfoco": "prevencao-quaternaria",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 128,
+      "materia": "st",
+      "enunciado": "Em uma fábrica de calçados, três trabalhadores do mesmo setor desenvolvem neuropatia periférica em dois meses. O médico identifica uso de cola com hexano sem ventilação. A conduta mais alinhada com os princípios da saúde do trabalhador é:",
+      "opcoes": [
+        "A) Tratar cada paciente individualmente com neuroprotectores e encaminhar para neurologia",
+        "B) Emitir atestado de afastamento para os três e aguardar resolução espontânea",
+        "C) Notificar o agravo, investigar o ambiente de trabalho e propor medidas coletivas para reduzir exposição ao hexano",
+        "D) Recomendar uso de luvas e aguardar melhora clínica antes de qualquer intervenção no processo produtivo"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Caso sentinela em saúde do trabalhador exige investigação coletiva do ambiente — não apenas tratamento individual. A) INCORRETA. Tratamento individual é necessário mas insuficiente: sem eliminar a exposição, novos casos surgirão. B) INCORRETA. Afastamento sem investigação do processo produtivo não protege os demais trabalhadores. C) CORRETA. O médico deve: (1) notificar como agravo relacionado ao trabalho; (2) investigar o ambiente; (3) propor controle coletivo (substituição do produto, ventilação, EPI). Três casos do mesmo setor = evento sentinela de risco coletivo. D) INCORRETA. Luvas não protegem contra inalação de hexano — a medida prioritária é controle ambiental.",
+      "tema": "st_a1",
+      "subfoco": "evento-sentinela",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 129,
+      "materia": "st",
+      "enunciado": "Médico atende trabalhador com diagnóstico de pneumoconiose relacionada ao trabalho. Qual é a obrigação do profissional em relação à vigilância em saúde?",
+      "opcoes": [
+        "A) Registrar no prontuário e encaminhar ao especialista, sem necessidade de comunicação externa",
+        "B) Comunicar apenas ao empregador para que tome providências no ambiente de trabalho",
+        "C) Notificar apenas após confirmação laboratorial completa, antes de qualquer comunicação oficial",
+        "D) Notificar compulsoriamente ao sistema de vigilância em saúde, pois pneumoconiose é agravo de notificação obrigatória relacionado ao trabalho"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Pneumoconiose é agravo de notificação compulsória — obrigação legal do profissional, independente de confirmação completa. A) INCORRETA. Registro no prontuário é obrigatório mas insuficiente — agravos notificáveis exigem comunicação ao sistema de vigilância. B) INCORRETA. Notificar só ao empregador é insuficiente — a notificação deve ir ao sistema público (SINAN). C) INCORRETA. Em notificação compulsória, a suspeita clínica já justifica notificar. D) CORRETA. Pneumoconiose é agravo de notificação compulsória relacionado ao trabalho no Brasil. O médico deve notificar para ativar investigação do ambiente e proteger os demais expostos.",
+      "tema": "st_a2",
+      "subfoco": "notificacao-compulsoria",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 130,
+      "materia": "st",
+      "enunciado": "Em município industrial com alta prevalência de surdez ocupacional por ruído, o sistema de vigilância registra apenas 10% dos casos esperados. A principal consequência dessa subnotificação para a saúde coletiva é:",
+      "opcoes": [
+        "A) Invisibilidade do problema para o sistema de saúde, impedindo planejamento de intervenções e proteção de trabalhadores expostos",
+        "B) Redução do custo do sistema de saúde, pois menos casos são registrados e tratados formalmente",
+        "C) Facilitação da gestão, pois dados subestimados simplificam o planejamento dos serviços",
+        "D) Melhora aparente dos indicadores de saúde do trabalhador, sem impacto real na cadeia de adoecimento"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Subnotificação torna o problema invisível para o sistema — impossibilitando planejamento e proteção coletiva. A) CORRETA. Se apenas 10% dos casos são registrados, o sistema desconhece a real dimensão do problema. Sem dimensionamento, não há pressão para fiscalização e os trabalhadores continuam expostos. B) INCORRETA. Custo de saúde não diminui — adoecidos continuam buscando cuidado, muitas vezes em estágios mais avançados. C) INCORRETA. Dados subestimados prejudicam o planejamento com base em realidade distorcida. D) INCORRETA. Indicadores melhores por subnotificação são efeito estatístico aparente, não redução real de adoecimento.",
+      "tema": "st_a2",
+      "subfoco": "subnotificacao",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 131,
+      "materia": "st",
+      "enunciado": "Médico de porto marítimo atende tripulante com febre hemorrágica de origem indeterminada e potencial de disseminação internacional. Qual é a resposta mais adequada segundo o Regulamento Sanitário Internacional?",
+      "opcoes": [
+        "A) Aguardar confirmação laboratorial completa antes de qualquer notificação para evitar alarmismo",
+        "B) Notificar imediatamente a autoridade sanitária, pois suspeita de evento com potencial de disseminação internacional já exige comunicação tempestiva",
+        "C) Encaminhar apenas ao hospital de referência, mantendo o caso restrito ao atendimento individual",
+        "D) Comunicar exclusivamente às autoridades do país de origem do navio, sem acionar vigilância nacional"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: O RSI prioriza comunicação precoce de eventos suspeitos com potencial internacional — não se espera confirmação completa. A) INCORRETA. Em eventos de alto risco, aguardar confirmação completa atrasa a resposta e pode permitir disseminação. B) CORRETA. O RSI estabelece que eventos suspeitos de constituir Emergência de Saúde Pública de Importância Internacional (ESPII) exigem comunicação tempestiva. Suspeita de febre hemorrágica em porto marítimo justifica notificação imediata à autoridade sanitária nacional. C) INCORRETA. Atendimento individual é necessário mas insuficiente — risco coletivo exige ativação do sistema de vigilância. D) INCORRETA. A notificação nacional (e potencialmente à OMS) é obrigatória pelo RSI.",
+      "tema": "st_a2",
+      "subfoco": "rsi",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 132,
+      "materia": "mad2",
+      "enunciado": "Qual marcador laboratorial avalia o grau de imunossupressão do paciente com HIV e estima o risco de infecções oportunistas?",
+      "opcoes": [
+        "A) Contagem de linfócitos T CD4+",
+        "B) Carga viral do HIV",
+        "C) Anticorpos anti-HIV (ELISA)",
+        "D) PCR qualitativo para detecção do HIV"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: CD4 mede o estado imunológico; carga viral mede replicação viral — são perguntas distintas. A) CORRETA. A contagem de CD4 reflete a competência do sistema imune e o risco de oportunistas — abaixo de 200 cel/mm³ há alto risco. B) INCORRETA. Carga viral mede a quantidade de vírus circulante e serve para monitorar resposta ao tratamento, não imunossupressão. C) INCORRETA. O ELISA detecta anticorpos, sendo útil para diagnóstico, não para monitoramento imunológico. D) INCORRETA. PCR qualitativo confirma presença do vírus (útil na janela diagnóstica), mas não avalia estado imunológico.",
+      "tema": "mad2_a9",
+      "subfoco": "cd4-carga-viral",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 133,
+      "materia": "mad2",
+      "enunciado": "Paciente de 28 anos relata relação sexual desprotegida há 3 semanas. Apresenta febre, faringite, adenomegalia cervical e mal-estar. Teste rápido para HIV: negativo. Qual é a conduta mais adequada?",
+      "opcoes": [
+        "A) Encerrar a investigação, pois teste negativo descarta HIV definitivamente",
+        "B) Repetir a testagem após completar a janela diagnóstica, pois o quadro é compatível com síndrome retroviral aguda",
+        "C) Solicitar hemocultura para afastar sepse bacteriana e dispensar o paciente",
+        "D) Iniciar antibioticoterapia empírica para faringite estreptocócica"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: A síndrome retroviral aguda ocorre nas primeiras semanas após infecção e pode coincidir com a janela diagnóstica, gerando falso negativo no teste rápido. A) INCORRETA. Teste negativo precoce não descarta HIV — na janela diagnóstica, os anticorpos ainda não foram produzidos em quantidade suficiente. B) CORRETA. O quadro é compatível com síndrome retroviral aguda (febre, faringite, adenomegalia após exposição recente) e o teste pode estar na janela. Deve-se repetir após o período adequado. C) INCORRETA. Descartar contexto da exposição e não investigar HIV é conduta inadequada. D) INCORRETA. Tratar empiricamente sem considerar a exposição ao HIV é insuficiente e pode atrasar diagnóstico.",
+      "tema": "mad2_a9",
+      "subfoco": "janela-diagnostica",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 134,
+      "materia": "mad2",
+      "enunciado": "Paciente de 35 anos, HIV positivo sem acompanhamento há 2 anos, apresenta tosse seca progressiva, febre e dispneia. CD4: 80 células/mm³. RX tórax: infiltrado intersticial bilateral. Qual é o diagnóstico mais provável?",
+      "opcoes": [
+        "A) Faringite viral autolimitada com comprometimento pulmonar por disseminação hematogênica",
+        "B) Tuberculose miliar por reativação endógena em imunocompetente",
+        "C) Pneumocistose (pneumonia por Pneumocystis jirovecii — PPC)",
+        "D) Pneumonia bacteriana típica por Streptococcus pneumoniae com boa resposta esperada"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: CD4 abaixo de 200 cel/mm³ é o limiar clássico para pneumocistose, principal infecção oportunista pulmonar em HIV avançado. A) INCORRETA. Faringite autolimitada não causa quadro pulmonar grave com esse padrão. B) INCORRETA. Tuberculose pode ocorrer com CD4 mais alto (até 350); miliar é grave mas o infiltrado intersticial bilateral difuso com CD4 < 200 aponta mais para PPC. C) CORRETA. Pneumocistose é a infecção oportunista pulmonar mais clássica em HIV com CD4 < 200 cel/mm³ — infiltrado intersticial bilateral é o padrão radiológico típico. D) INCORRETA. Pneumonia bacteriana pode ocorrer em qualquer CD4, mas não explica esse padrão intersticial bilateral em paciente com imunossupressão grave sem tratamento.",
+      "tema": "mad2_a9",
+      "subfoco": "oportunistas",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 135,
+      "materia": "mad2",
+      "enunciado": "Paciente em uso regular de TARV há 18 meses apresenta carga viral indetectável (< 50 cópias/mL) em todos os controles. O que esse resultado indica corretamente?",
+      "opcoes": [
+        "A) Erradicação completa do HIV do organismo, podendo suspender o tratamento",
+        "B) Ausência de necessidade de continuar monitoramento laboratorial",
+        "C) Desenvolvimento de resistência aos antirretrovirais com replicação silenciosa",
+        "D) Supressão virológica sustentada com manutenção da adesão ao tratamento"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Carga viral indetectável significa supressão da replicação viral, não erradicação — o reservatório latente persiste. A) INCORRETA. Indetectável não é cura. O reservatório viral em células de longa duração persiste mesmo com TARV eficaz. B) INCORRETA. O monitoramento de CD4 e carga viral deve continuar mesmo com supressão mantida para detectar falha virológica. C) INCORRETA. Resistência geraria carga viral detectável e crescente, não indetectável. D) CORRETA. Indetectável = controle eficaz da replicação viral, associado à adesão regular — melhora prognóstico e reduz transmissão, mas não elimina o vírus.",
+      "tema": "mad2_a9",
+      "subfoco": "tarv-indetectavel",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 136,
+      "materia": "mad2",
+      "enunciado": "Qual é a principal característica biológica que distingue os herpesvírus de outros vírus e justifica a ocorrência de episódios clínicos recorrentes ao longo da vida?",
+      "opcoes": [
+        "A) Capacidade de estabelecer latência em células do hospedeiro e se reativar em situações de imunossupressão, estresse ou trauma",
+        "B) Alta taxa de mutação antigênica que gera novas variantes a cada ciclo replicativo",
+        "C) Transmissão exclusiva por contato sexual, sem possibilidade de disseminação sistêmica",
+        "D) Eliminação espontânea e completa após a fase aguda, sem persistência no organismo"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Latência é a assinatura biológica dos herpesvírus — o vírus permanece no hospedeiro de forma silenciosa e pode ser reativado. A) CORRETA. Herpesvírus estabelecem latência em células nervosas (HSV, VZV) ou linfócitos (EBV, CMV) e se reativam quando a imunidade do hospedeiro cai ou há gatilho local. B) INCORRETA. Alta taxa de mutação é característica de vírus RNA como influenza e HIV; herpesvírus são DNA com menor taxa de mutação. C) INCORRETA. Herpesvírus se transmitem por múltiplas vias e podem ter disseminação sistêmica. D) INCORRETA. A eliminação completa não ocorre — a latência é justamente a persistência silenciosa que causa recorrências.",
+      "tema": "mad2_a10",
+      "subfoco": "latencia-reativacao",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 137,
+      "materia": "mad2",
+      "enunciado": "Paciente de 72 anos, diabético, procura a UPA com dor em queimação no hemitórax direito há 4 dias, seguida do aparecimento de lesões vesiculares agrupadas em faixa unilateral, respeitando dermátomo. Qual é o diagnóstico e o agente causal?",
+      "opcoes": [
+        "A) Dermatite de contato alérgica com sobreinfecção por Staphylococcus aureus",
+        "B) Herpes-zóster causado pela reativação do vírus varicela-zóster (VZV)",
+        "C) Impetigo bolhoso por Staphylococcus aureus produtor de toxina esfoliativa",
+        "D) Varicela em adulto imunocompetente com manifestação atípica unilateral"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Dor neuropática precedendo lesões vesiculares em dermátomo unilateral em adulto mais velho = herpes-zóster por reativação de VZV latente no gânglio sensitivo. A) INCORRETA. Dermatite de contato não respeita dermátomo, não tem padrão neuropático e não apresenta vesículas agrupadas em faixa. B) CORRETA. Herpes-zóster: dor neuropática + vesículas em faixa unilateral por dermátomo + adulto idoso com reativação de VZV. A diabetes reforça contexto de imunossupressão relativa. C) INCORRETA. Impetigo bolhoso não respeita dermátomo e não é precedido por dor neuropática intensa. D) INCORRETA. Varicela é a primoinfecção por VZV — disseminada, bilateral, em diferentes estágios. Zóster é a reativação.",
+      "tema": "mad2_a10",
+      "subfoco": "vzv-varicela-zoster",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 138,
+      "materia": "mad2",
+      "enunciado": "Adolescente de 17 anos apresenta febre há 10 dias, odinofagia intensa, linfadenopatia cervical bilateral volumosa e fadiga marcante. Hemograma: linfocitose com linfócitos atípicos. Qual é o agente etiológico mais compatível?",
+      "opcoes": [
+        "A) Streptococcus pyogenes (SBHA) com faringite bacteriana típica",
+        "B) Citomegalovírus (CMV) em paciente imunocompetente jovem",
+        "C) Vírus Epstein-Barr (EBV) — mononucleose infecciosa",
+        "D) Herpes simplex vírus tipo 1 (HSV-1) com faringoamigdalite herpética"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: A tríade mononucleose-like (febre prolongada + adenomegalia + fadiga) com linfócitos atípicos é a assinatura do EBV em jovens. A) INCORRETA. SBHA causa faringite aguda sem linfocitose atípica; não provoca fadiga prolongada marcante nem adenomegalia volumosa bilateral. B) INCORRETA. CMV pode causar síndrome mononucleose-like, mas é menos provável em jovem imunocompetente sem histórico de imunossupressão — EBV é muito mais frequente nesse perfil. C) CORRETA. EBV é o agente clássico da mononucleose infecciosa: febre, odinofagia, adenomegalia, fadiga e linfocitose com linfócitos atípicos (linfócitos T ativados contra EBV). D) INCORRETA. HSV-1 causa faringoamigdalite com vesículas dolorosas, mas não provoca o padrão sistêmico com linfocitose atípica típico da mononucleose.",
+      "tema": "mad2_a10",
+      "subfoco": "ebv-mononucleose",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 139,
+      "materia": "mad2",
+      "enunciado": "Paciente transplantado renal em uso de tacrolimus e micofenolato há 6 meses apresenta febre prolongada, leucopenia e antigenemia positiva ao monitoramento mensal. Qual herpesvírus deve ser prioritariamente investigado nesse contexto?",
+      "opcoes": [
+        "A) Herpes simplex vírus tipo 2 (HSV-2) — agente de lesões genitais recorrentes",
+        "B) Vírus varicela-zóster (VZV) — causador de zóster dermatomérico",
+        "C) Vírus Epstein-Barr (EBV) — associado à síndrome mononucleose-like em jovens",
+        "D) Citomegalovírus (CMV) — principal oportunista herpético em transplantados"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: CMV é o principal herpesvírus a investigar em pacientes imunossuprimidos, especialmente transplantados — a antigenemia positiva é justamente o método de monitoramento padrão. A) INCORRETA. HSV-2 causa lesões genitais recorrentes; não é monitorado por antigenemia e não é a principal preocupação em transplantado sem lesões mucocutâneas. B) INCORRETA. VZV pode reativar como zóster em imunossuprimidos, mas não é o mais prevalente e não é rastreado por antigenemia. C) INCORRETA. EBV é relevante em transplantados para investigação de PTLD (doença linfoproliferativa), mas não é o contexto primário de antigenemia mensal. D) CORRETA. CMV é o oportunista herpético mais importante em transplantados — a antigenemia para CMV é o exame de monitoramento padrão nesse cenário imunossupressor.",
+      "tema": "mad2_a10",
+      "subfoco": "cmv-imunossuprimido",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 140,
+      "materia": "mad2",
+      "enunciado": "Qual é a principal via de transmissão do poliovírus e qual estrutura representa o principal portal de entrada no organismo?",
+      "opcoes": [
+        "A) Via fecal-oral, com porta de entrada pelo trato gastrointestinal e mucosa orofaríngea",
+        "B) Via respiratória, com porta de entrada pelas vias aéreas superiores e pulmão",
+        "C) Via parenteral, por contato com sangue ou secreções contaminadas",
+        "D) Via vetorial, por picada de artrópodes hematófagos em regiões endêmicas"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Poliovírus é um enterovírus — sua transmissão é fecal-oral e a infecção começa no trato gastrointestinal, não no sistema nervoso. A) CORRETA. A transmissão fecal-oral explica por que a doença está diretamente associada a condições sanitárias precárias e baixa cobertura vacinal; o vírus coloniza o intestino antes de qualquer comprometimento neurológico. B) INCORRETA. A via respiratória não é a principal; o poliovírus é classicamente lembrado como enterovírus de transmissão entérica. C) INCORRETA. Transmissão parenteral não é descrita para poliovírus. D) INCORRETA. Transmissão vetorial é de outros vírus (dengue, febre amarela); poliovírus não tem artrópode como vetor.",
+      "tema": "mad2_a11",
+      "subfoco": "transmissao-fecal-oral",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 141,
+      "materia": "mad2",
+      "enunciado": "Criança de 4 anos, não vacinada para poliomielite, apresenta fraqueza aguda assimétrica de membros inferiores após doença febril 2 semanas antes. Exame: hipotonia, hiporreflexia e ausência de alterações sensitivas. Qual é o diagnóstico mais compatível?",
+      "opcoes": [
+        "A) Síndrome de Guillain-Barré, caracterizada por fraqueza simétrica ascendente com componente sensitivo",
+        "B) Poliomielite paralítica por poliovírus, com comprometimento de neurônio motor inferior",
+        "C) Mielite transversa por herpesvírus, com nível sensitivo definido",
+        "D) Distrofia muscular de Duchenne com progressão aguda desencadeada por infecção"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Paralisia flácida aguda assimétrica sem sensitivo comprometido + criança não vacinada = poliomielite paralítica. A) INCORRETA. Guillain-Barré é simétrico, ascendente, com parestesias sensitivas e pode ter paralisia facial — difere pelo padrão simétrico e pelo componente sensitivo. B) CORRETA. Poliomielite paralítica: déficit motor flácido agudo (hipotonia + hiporreflexia), assimétrico, sem sensitivo, em criança não vacinada após prodromo febril — padrão clássico de acometimento de neurônio motor inferior. C) INCORRETA. Mielite transversa tem nível sensitivo definido e geralmente é simétrica — ausente aqui. D) INCORRETA. Distrofia de Duchenne tem progressão lenta, não aguda, e é bilateral simétrica.",
+      "tema": "mad2_a11",
+      "subfoco": "paralisia-flacida-aguda",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 142,
+      "materia": "mad2",
+      "enunciado": "A poliomielite paralítica acomete o neurônio motor inferior. Qual combinação de achados clínicos é compatível com essa lesão?",
+      "opcoes": [
+        "A) Hiperreflexia, espasticidade e sinal de Babinski positivo",
+        "B) Rigidez muscular, bradicinesia e tremor de repouso",
+        "C) Hipotonia, hiporreflexia e ausência de sinal de Babinski",
+        "D) Perda sensitiva em bota e luva com arreflexia progressiva simétrica"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Neurônio motor inferior (NMI) = fraqueza flácida com redução de reflexos, sem sinais piramidais — oposto da lesão de neurônio motor superior (NMS). A) INCORRETA. Hiperreflexia + espasticidade + Babinski = síndrome do NMS (trato corticoespinal), como no AVC ou esclerose múltipla. B) INCORRETA. Rigidez + bradicinesia + tremor de repouso = síndrome parkinsoniana (sistema extrapiramidal), não NMI. C) CORRETA. Hipotonia + hiporreflexia + Babinski ausente = síndrome do NMI clássica, como na poliomielite paralítica ou síndrome de Guillain-Barré. D) INCORRETA. Perda sensitiva em bota e luva com arreflexia simétrica = polineuropatia periférica (ex.: diabética), não padrão puro de poliomielite.",
+      "tema": "mad2_a11",
+      "subfoco": "neuronio-motor-inferior",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 143,
+      "materia": "mad2",
+      "enunciado": "Em um município com cobertura vacinal para poliomielite abaixo de 70%, qual é a principal consequência epidemiológica esperada e a medida de maior impacto para reverter esse cenário?",
+      "opcoes": [
+        "A) Aumento de síndrome mononucleose-like; antibióticos profiláticos nas escolas",
+        "B) Maior risco de meningite bacteriana; vacinação antimeningocócica urgente",
+        "C) Disseminação de encefalite herpética; aciclovir em dose supressora para crianças",
+        "D) Risco de reintrodução e circulação viral com casos paralíticos; vacinação em massa com cobertura ≥ 95%"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Poliovírus é extremamente sensível à cobertura vacinal — queda abaixo do limiar de imunidade coletiva abre espaço para reemergência de casos paralíticos. A) INCORRETA. Mononucleose-like é causada por EBV/CMV, não relacionada à cobertura vacinal para pólio. B) INCORRETA. Meningite bacteriana tem outra etiologia e outra vacina; não é consequência da queda de cobertura antipoliomielítica. C) INCORRETA. Encefalite herpética não tem relação com vacinação contra poliovírus. D) CORRETA. Queda de cobertura abaixo do limiar de imunidade coletiva (~95%) permite circulação viral mesmo em área antes considerada livre de pólio — a única medida eficaz é vacinação em massa.",
+      "tema": "mad2_a11",
+      "subfoco": "vacinacao-saude-publica",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 144,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente com infarto renal confirmado por tomografia apresenta tecido em análise histopatológica. Qual tipo de necrose é esperado e qual é sua principal característica morfológica?",
+      "opcoes": [
+        "A) Necrose coagulativa, com preservação do contorno celular em 'fantasma' por desnaturação proteica",
+        "B) Necrose liquefativa, com dissolução e formação de cavidade cística no tecido renal",
+        "C) Necrose caseosa, com material granular amarelado e aspecto de queijo branco",
+        "D) Necrose gordurosa, com saponificação e manchas calcárias por ação de lipases"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Órgãos sólidos ricos em proteínas estruturais (rim, coração, baço) sofrem necrose coagulativa — o arcabouço proteico é desnaturado mas preserva o contorno celular. A) CORRETA. Necrose coagulativa: isquemia desnatura proteínas enzimáticas e estruturais → célula mantém o 'fantasma' do contorno sem detalhes internos — é o padrão dos infartos de órgãos sólidos. B) INCORRETA. Liquefativa ocorre no cérebro (pobre em proteínas, rico em lipídios) e em abscessos bacterianos, não no rim. C) INCORRETA. Necrose caseosa é característica da tuberculose e histoplasmose — aspecto de queijo branco no centro do granuloma. D) INCORRETA. Necrose gordurosa ocorre na pancreatite aguda e no trauma mamário, não no infarto renal.",
+      "tema": "fp3_a1",
+      "subfoco": "necrose-coagulativa",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 145,
+      "materia": "fisiopato3",
+      "enunciado": "No exame histológico de um tecido, observam-se células com fragmentação nuclear em pequenos corpos envoltos por membrana, sem infiltrado inflamatório adjacente. Esse padrão corresponde a qual processo?",
+      "opcoes": [
+        "A) Necrose coagulativa por isquemia aguda com extravasamento de conteúdo intracelular",
+        "B) Apoptose, com formação de corpos apoptóticos e ausência de reação inflamatória",
+        "C) Necrose liquefativa com digestão enzimática do citoplasma e formação de pus",
+        "D) Cariólise como estágio terminal da necrose com dissolução completa do núcleo"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Apoptose é a morte celular programada — a célula fragmenta seu DNA, embala os fragmentos em corpos apoptóticos e é fagocitada sem inflamação. A) INCORRETA. Necrose coagulativa causa extravasamento de conteúdo, inflamação adjacente e não forma corpos apoptóticos — é o oposto do padrão descrito. B) CORRETA. Apoptose: fragmentação nuclear em corpos apoptóticos envoltos por membrana intacta + sem inflamação = morte celular programada. Na histologia, aparecem como 'pontinhos' escuros. C) INCORRETA. Necrose liquefativa causa inflamação marcante, digestão celular extensa e formação de cavidade — incompatível com ausência de inflamação. D) INCORRETA. Cariólise é dissolução do núcleo na necrose, não fragmentação em corpos envoltos por membrana.",
+      "tema": "fp3_a1",
+      "subfoco": "apoptose-vs-necrose",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 146,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente com AVC isquêmico extenso de artéria cerebral média apresenta, após 2 semanas, área cavitária na RM. Por que o cérebro sofre necrose liquefativa em vez de coagulativa, como ocorre no rim?",
+      "opcoes": [
+        "A) Porque o cérebro tem alto teor de proteínas estruturais que, ao coagular, formam cavidade",
+        "B) Porque o cérebro possui imunidade privilegiada que impede reação coagulativa normal",
+        "C) Porque o cérebro é rico em lipídios e tem pouco arcabouço proteico, facilitando a digestão e formação de cavidade",
+        "D) Porque as bainhas de mielina contêm ácidos graxos que reagem com lipases liberadas na isquemia"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: A composição tecidual determina o tipo de necrose — cérebro pobre em proteínas e rico em lipídios é facilmente digerido pelas enzimas liberadas, formando cavidade (liquefativa). A) INCORRETA. É o oposto — o cérebro tem pouco arcabouço proteico, não alto teor; são os órgãos sólidos como rim e coração que têm proteínas estruturais que coagulam. B) INCORRETA. Imunidade privilegiada do SNC é conceito relacionado à resposta inflamatória, não ao tipo morfológico de necrose. C) CORRETA. Cérebro = rico em lipídios (mielina) e pobre em proteínas estruturais → enzimas digerem facilmente o tecido → necrose liquefativa com formação de cavidade cística. D) INCORRETA. Necrose gordurosa ocorre no pâncreas e mama por ação de lipases pancreáticas, não é o mecanismo do infarto cerebral.",
+      "tema": "fp3_a1",
+      "subfoco": "necrose-liquefativa-cerebro",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 147,
+      "materia": "fisiopato3",
+      "enunciado": "Qual tipo de necrose é encontrado no centro do granuloma tuberculoso e qual é sua aparência macroscópica característica?",
+      "opcoes": [
+        "A) Necrose coagulativa — tecido pálido e firme, semelhante à carne cozida",
+        "B) Necrose liquefativa — cavidade preenchida por material aquoso e purulento",
+        "C) Necrose gordurosa — manchas brancas calcárias por saponificação de gordura",
+        "D) Necrose caseosa — material granular e amarelado com aspecto de queijo branco"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: A tuberculose gera granuloma com centro de necrose caseosa — combinação de componentes coagulativo e liquefativo que resulta no aspecto de queijo. A) INCORRETA. Necrose coagulativa é o padrão dos infartos de órgãos sólidos (rim, coração) — firme e pálida, não granular e amarelada. B) INCORRETA. Necrose liquefativa é de abscessos e AVC isquêmico — aquosa, sem o aspecto de queijo característico da TB. C) INCORRETA. Necrose gordurosa ocorre no pâncreas e mama por ação de lipases — manchas brancas calcárias por saponificação, diferente do granuloma TB. D) CORRETA. Necrose caseosa = aspecto de queijo branco-amarelado no centro do granuloma tuberculoso; também ocorre na histoplasmose. É a assinatura histológica da tuberculose.",
+      "tema": "fp3_a1",
+      "subfoco": "necrose-caseosa-tb",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 148,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente com IAM extenso tem fluxo coronariano reestabelecido após 90 minutos de isquemia. Nas horas seguintes, observa-se extensão da área de necrose além da zona inicialmente isquêmica. Qual mecanismo explica esse fenômeno paradoxal?",
+      "opcoes": [
+        "A) Lesão de reperfusão: entrada de oxigênio em mitocôndrias já danificadas gera surto de radicais livres que ampliam a necrose",
+        "B) Reoclusão trombótica do vaso tratado por anticoagulação insuficiente",
+        "C) Espasmo coronariano reflexo desencadeado pela manipulação do balão durante angioplastia",
+        "D) Progressão da aterosclerose em outros territórios coronarianos não relacionados ao vaso tratado"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: A reperfusão após isquemia prolongada pode paradoxalmente ampliar o dano por lesão oxidativa — o oxigênio que chega em mitocôndrias lesadas gera radicais livres em surto. A) CORRETA. Lesão de reperfusão: mitocôndrias danificadas pela isquemia, ao receber oxigênio, geram radicais livres de oxigênio (ROS) em quantidade excessiva → ampliam a área de necrose. É a base do uso de antioxidantes no IAM. B) INCORRETA. Reoclusão causaria novo déficit de fluxo, não paradoxo de extensão em território já reperfundido. C) INCORRETA. Espasmo coronariano pode ocorrer, mas não explica o mecanismo molecular de extensão da necrose já descrito. D) INCORRETA. Progressão em outros territórios é processo crônico, não causa extensão aguda de necrose nas horas após reperfusão.",
+      "tema": "fp3_a1",
+      "subfoco": "lesao-reperfusao",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 149,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente com fibrilação atrial crônica sem anticoagulação apresenta AVC isquêmico por cardioembolismo. Qual elemento da Tríade de Virchow predomina como fator de risco nesse caso?",
+      "opcoes": [
+        "A) Lesão endotelial — a fibrilação atrial lesa diretamente o endotélio atrial por mecanismo oxidativo contínuo",
+        "B) Estase sanguínea — a contração atrial irregular e ineficiente cria zonas de fluxo lento no átrio esquerdo",
+        "C) Hipercoagulabilidade — a fibrilação atrial sempre cursa com trombofilia hereditária associada",
+        "D) Vasodilatação reflexa — a perda do ritmo sinusal dilata o átrio esquerdo e favorece coagulação"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Em fibrilação atrial, o átrio esquerdo não contrai eficientemente — cria estase no apêndice atrial, favorecendo trombo que pode embolizar para o cérebro. A) INCORRETA. Lesão endotelial direta não é o mecanismo central na FA; o endotélio pode sofrer alterações secundárias, mas a estase é o fator predominante. B) CORRETA. A FA gera contração atrial caótica e ineficiente → estase no apêndice atrial esquerdo → formação de trombo → embolismo sistêmico. Por isso anticoagulantes crônicos são indicados. C) INCORRETA. FA não causa trombofilia hereditária; hipercoagulabilidade pode coexistir, mas não é o mecanismo primário. D) INCORRETA. Vasodilatação não é elemento da Tríade de Virchow e não é o mecanismo da trombose na FA.",
+      "tema": "fp3_a2",
+      "subfoco": "triade-virchow",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 150,
+      "materia": "fisiopato3",
+      "enunciado": "Vítima de acidente de moto apresenta hipotensão (PA 70x40 mmHg), taquicardia, extremidades quentes e rosadas, hematócrito normal, sem sangramento visível. Qual é o tipo de choque mais compatível?",
+      "opcoes": [
+        "A) Choque hipovolêmico hemorrágico com vasoconstrição periférica compensatória",
+        "B) Choque cardiogênico por contusão miocárdica com redução do débito cardíaco",
+        "C) Choque distributivo neurogênico por lesão medular com perda do tônus simpático",
+        "D) Choque obstrutivo por hemopneumotórax com compressão do coração"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Pele quente + hipotensão + hematócrito normal em acidentado = choque distributivo neurogênico — a lesão medular perdeu o tônus simpático, causando vasodilatação periférica. A) INCORRETA. Choque hipovolêmico teria pele fria e pálida por vasoconstrição compensatória; hematócrito estaria alterado em hemorragia. B) INCORRETA. Choque cardiogênico teria pele fria, pulso filiforme, sinais de congestão pulmonar — não explicaria pele quente e rosada. C) CORRETA. Lesão medular → perda da inervação simpática → vasodilatação periférica → hipotensão com pele quente (choque distributivo neurogênico). Hematócrito normal confirma ausência de hemorragia significativa. D) INCORRETA. Choque obstrutivo teria sinais de tamponamento ou ausência de ruído respiratório, não pele quente com hematócrito normal.",
+      "tema": "fp3_a2",
+      "subfoco": "tipos-choque",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 151,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente de 22 anos em pós-operatório de fratura de fêmur há 48 horas apresenta dispneia súbita, confusão mental aguda e petéquias em tronco. Qual é o diagnóstico mais provável?",
+      "opcoes": [
+        "A) Tromboembolia pulmonar (TEP) por trombose venosa profunda do membro operado",
+        "B) Pneumotórax espontâneo por trauma pleural durante o procedimento cirúrgico",
+        "C) Anafilaxia tardia por reação ao antibiótico profilático utilizado na cirurgia",
+        "D) Embolia gordurosa com tríade de hipóxia, confusão mental e petéquias"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Embolia gordurosa tem tríade patognomônica: hipóxia + confusão mental + petéquias, aparecendo 24-72h após fratura de osso longo. A) INCORRETA. TEP causa dispneia e hipóxia, mas não produz confusão mental aguda com petéquias — a tríade específica aponta para gordurosa. B) INCORRETA. Pneumotórax causa dispneia e murmúrio vesicular reduzido, sem confusão nem petéquias. C) INCORRETA. Anafilaxia tem urticária, broncoespasmo, hipotensão — não petéquias com confusão após 48 horas. D) CORRETA. Embolia gordurosa: fratura de osso longo + 24-72h + hipóxia + confusão mental + petéquias em tronco e membros superiores — tríade clássica por gotículas de gordura da medula óssea.",
+      "tema": "fp3_a2",
+      "subfoco": "embolia-gordurosa",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 152,
+      "materia": "fisiopato3",
+      "enunciado": "Paciente com síndrome nefrótica apresenta edema generalizado (anasarca). Qual é o mecanismo fisiopatológico principal do edema nessa condição?",
+      "opcoes": [
+        "A) Redução da pressão oncótica plasmática por perda urinária maciça de albumina, favorecendo extravasamento para o interstício",
+        "B) Aumento da pressão hidrostática capilar por sobrecarga volêmica em insuficiência cardíaca congestiva",
+        "C) Obstrução linfática difusa por infiltração tumoral dos linfonodos abdominais",
+        "D) Aumento da permeabilidade capilar por resposta inflamatória sistêmica aguda"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Na síndrome nefrótica, a proteinúria maciça leva à hipoalbuminemia → queda da pressão oncótica plasmática → líquido extravasa para o interstício. A) CORRETA. Proteinúria > 3,5 g/dia → hipoalbuminemia → pressão oncótica reduzida → líquido não é retido no vaso → anasarca. Esse mecanismo difere da ICC (pressão hidrostática). B) INCORRETA. ICC causa edema por aumento da pressão hidrostática, não por perda de albumina — mecanismo oposto ao da síndrome nefrótica. C) INCORRETA. Obstrução linfática causa linfedema localizado e duro (ex.: filariose), não anasarca generalizada. D) INCORRETA. Aumento de permeabilidade é da inflamação aguda e sepse, não da síndrome nefrótica.",
+      "tema": "fp3_a2",
+      "subfoco": "edema-oncose",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 153,
+      "materia": "fisiopato3",
+      "enunciado": "Qual é a principal diferença entre trombo arterial e trombo venoso quanto à composição e ao mecanismo de formação?",
+      "opcoes": [
+        "A) Trombo arterial é vermelho e rico em eritrócitos, formado em zonas de baixo fluxo e evolui tipicamente para TEP",
+        "B) Trombo arterial é branco e rico em plaquetas, formado em zonas de alto fluxo sobre placa aterosclerótica, causando isquemia distal",
+        "C) Trombo venoso é branco e plaquetário, formado por hipercoagulabilidade e nunca embola para pulmão",
+        "D) Ambos têm composição idêntica e se diferenciam apenas pelo calibre do vaso afetado"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Trombo arterial = plaquetário/branco/alto fluxo → isquemia; trombo venoso = eritrocitário/vermelho/baixo fluxo → TEP. A) INCORRETA. É a descrição do trombo venoso, não arterial — vermelho e rico em eritrócitos por estase; o venoso pode embolizar para TEP, mas o arterial causa isquemia distal. B) CORRETA. Trombo arterial: ambiente de alto fluxo → plaquetas ativadas por shear e pela placa → trombo rico em plaquetas e fibrina (branco) → obstrução distal (IAM, AVC isquêmico). C) INCORRETA. Trombo venoso é vermelho e eritrocitário, não branco; e é justamente o venoso que causa TEP por embolização pulmonar. D) INCORRETA. A composição é diferente e tem implicação terapêutica direta — antiagregantes para arterial, anticoagulantes para venoso.",
+      "tema": "fp3_a2",
+      "subfoco": "trombo-arterial-venoso",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 154,
+      "materia": "bmf3",
+      "enunciado": "O esôfago apresenta três estreitamentos fisiológicos com relevância clínica. Em qual nível vertebral e por qual mecanismo ocorre o segundo estreitamento esofágico?",
+      "opcoes": [
+        "A) C6, pelo músculo cricofaríngeo em contração permanente formando o esfíncter superior",
+        "B) T10, pela passagem através do hiato diafragmático com compressão do esfíncter inferior",
+        "C) T4-T5, por compressão extrínseca do arco aórtico e do brônquio esquerdo",
+        "D) T1, pela compressão da veia cava superior e ducto torácico no mediastino superior"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Os 3 estreitamentos são — 1° C6 (cricofaríngeo muscular), 2° T4-T5 (arco aórtico + brônquio esquerdo, extrínseco), 3° T10 (hiato diafragmático/EEI). A) INCORRETA. Descreve o 1° estreitamento (cricofaríngeo em C6), não o 2°. B) INCORRETA. Descreve o 3° estreitamento — hiato diafragmático em T10 onde o EEI está localizado. C) CORRETA. O 2° estreitamento (T4-T5) é causado por compressão extrínseca: o arco aórtico pelo lado esquerdo e o brônquio esquerdo pela frente comprimem o esôfago — é o local mais comum de carcinoma espinocelular e impactação de corpo estranho. D) INCORRETA. Não é um estreitamento descrito classicamente; a veia cava superior não comprime o esôfago de forma clinicamente relevante.",
+      "tema": "bmf3_a1",
+      "subfoco": "estreitamentos-esofago",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 155,
+      "materia": "bmf3",
+      "enunciado": "Paciente de 40 anos relata pirose e regurgitação após refeições há 6 meses. Manometria esofágica: pressão do EEI de 8 mmHg (VR: 15-30 mmHg). Qual é o diagnóstico e o mecanismo fisiopatológico?",
+      "opcoes": [
+        "A) Acalásia — falha no relaxamento do EEI hipertônico, com retenção de conteúdo no esôfago",
+        "B) Estenose pilórica — hipertrofia do esfíncter pilórico causando regurgitação pós-prandial",
+        "C) Hérnia de hiato paraesofágica — estômago herniado sem comprometimento funcional do EEI",
+        "D) DRGE — hipotonia do EEI (< 15 mmHg) permitindo refluxo ácido para o esôfago"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: EEI hipotônico (abaixo de 15 mmHg) não mantém barreira eficaz contra o refluxo gástrico → DRGE com pirose e regurgitação. A) INCORRETA. Acalásia é o oposto — EEI hipertônico que não relaxa → retenção esofagiana, disfagia progressiva, megaesôfago. A pressão estaria alta, não em 8 mmHg. B) INCORRETA. Estenose pilórica é mecânica, no esfíncter pilórico, não do EEI; causa vômitos em jato no lactente. C) INCORRETA. Hérnia de hiato pode contribuir para DRGE, mas o mecanismo aqui é funcional (hipotonia do EEI), não herniação anatômica. D) CORRETA. DRGE: EEI hipotônico (8 mmHg < limite 15 mmHg) → falha da barreira antirrefluxo → conteúdo gástrico ácido sobe para o esôfago → pirose e regurgitação.",
+      "tema": "bmf3_a1",
+      "subfoco": "eei-drge-acalasia",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 156,
+      "materia": "bmf3",
+      "enunciado": "As células G do antro gástrico produzem um hormônio fundamental para a digestão. Qual é esse hormônio e qual é seu principal efeito fisiológico?",
+      "opcoes": [
+        "A) Gastrina — estimula a secreção de HCl pelas células parietais e a motilidade gástrica",
+        "B) Secretina — inibe a secreção gástrica e estimula a liberação de bicarbonato pancreático",
+        "C) Grelina — regula o apetite e é produzida exclusivamente pelo fundo gástrico",
+        "D) Colecistocinina (CCK) — estimula a contração da vesícula biliar e inibe o esvaziamento gástrico"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Células G do antro → gastrina → estimulação das células parietais do corpo gástrico → secreção de HCl. A) CORRETA. Gastrina é o hormônio central da digestão gástrica: produzida pelas células G do antro em resposta a aminoácidos, distensão e estímulo vagal; estimula células parietais (HCl) e células principais (pepsinogênio). B) INCORRETA. Secretina é produzida pelo duodeno em resposta ao ácido — inibe secreção gástrica e estimula bicarbonato pancreático; não é do antro. C) INCORRETA. Grelina é produzida pelo fundo gástrico e regula apetite, mas não é das células G do antro. D) INCORRETA. CCK é duodenal — estimula vesícula e pâncreas; não é produzida pelo antro gástrico.",
+      "tema": "bmf3_a1",
+      "subfoco": "antro-gastrina",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 157,
+      "materia": "bmf3",
+      "enunciado": "Durante gastrectomia subtotal, o cirurgião precisa ligar a artéria gástrica esquerda. De qual tronco vascular ela se origina e qual é sua principal área de irrigação?",
+      "opcoes": [
+        "A) Artéria hepática própria — irrigando a curvatura menor inferior do estômago",
+        "B) Tronco celíaco diretamente — irrigando os 2/3 superiores da curvatura menor gástrica",
+        "C) Artéria esplênica — irrigando o fundo gástrico pelas artérias gástricas curtas",
+        "D) Artéria gastroduodenal — irrigando a curvatura maior pelo arco gastroepiplóico direito"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Gástrica esquerda = tronco celíaco diretamente (sem artéria intermediária) → curvatura menor superior. Gástrica direita = artéria hepática própria → curvatura menor inferior. A) INCORRETA. Descreve a gástrica direita, não a esquerda — a gástrica direita origina-se da hepática própria e irriga o 1/3 inferior da curvatura menor. B) CORRETA. Gástrica esquerda: nasce diretamente do tronco celíaco (ramo mais calibroso do tronco) → percorre o omento menor → irriga os 2/3 superiores da curvatura menor. Ligadura cirúrgica exige cuidado pelo calibre. C) INCORRETA. Artéria esplênica origina as gástricas curtas (fundo) e a gastroepiplóica esquerda (curvatura maior), não a gástrica esquerda. D) INCORRETA. Gastroduodenal origina a gastroepiplóica direita (curvatura maior direita), não a gástrica esquerda.",
+      "tema": "bmf3_a1",
+      "subfoco": "vascularizacao-gastrica",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 158,
+      "materia": "bmf3",
+      "enunciado": "Paciente com cólica renal apresenta cálculo de 4 mm no ureter evidenciado por tomografia. Considerando os três pontos de constrição ureteral, qual deles é o mais estreito e de maior probabilidade de impactação?",
+      "opcoes": [
+        "A) Junção ureteropélvica (JUP) — onde o ureter se origina da pelve renal",
+        "B) Cruzamento com os vasos ilíacos — na borda da pelve óssea",
+        "C) Junção ureterovesical (JUV) — onde o ureter penetra na parede da bexiga",
+        "D) Hilo renal — onde o ureter emerge junto à artéria e à veia renais"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Os 3 pontos de constrição são JUP, cruzamento ilíaco e JUV — sendo a JUV o mais estreito, com maior chance de impactação de cálculos. A) INCORRETA. JUP é o 1° ponto de constrição — importante, mas não o mais estreito. B) INCORRETA. Cruzamento ilíaco é o 2° ponto — também significativo, mas de calibre maior que a JUV. C) CORRETA. JUV (3° ponto) é o mais estreito dos três pontos de constrição ureteral — cálculos que chegam até a JUV têm maior dificuldade para progredir à bexiga, causando cólica intensa. D) INCORRETA. O hilo renal não é um ponto de constrição ureteral; é apenas a saída do ureter do rim junto aos vasos.",
+      "tema": "bmf3_a10",
+      "subfoco": "constricoes-ureter",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 159,
+      "materia": "bmf3",
+      "enunciado": "Na dissecção cirúrgica do hilo renal, qual é a ordem correta das estruturas da frente (anterior) para trás (posterior)?",
+      "opcoes": [
+        "A) Artéria renal → Veia renal → Ureter",
+        "B) Ureter → Artéria renal → Veia renal",
+        "C) Veia renal → Ureter → Artéria renal",
+        "D) Veia renal → Artéria renal → Ureter"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Mnemônico VAU — Veia (anterior), Artéria (médio), Ureter (posterior) — ordem de frente para trás no hilo renal. A) INCORRETA. Artéria não é anterior — está entre veia e ureter. B) INCORRETA. Ureter é o mais posterior, não o mais anterior. C) INCORRETA. Ureter não fica entre veia e artéria — está atrás de ambas. D) CORRETA. VAU: Veia renal = mais anterior (facilmente acessada na nefrectomia), Artéria renal = plano médio, Ureter = mais posterior. Essa ordem é fundamental para cirurgia renal segura.",
+      "tema": "bmf3_a10",
+      "subfoco": "hilo-renal-vau",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 160,
+      "materia": "bmf3",
+      "enunciado": "O trígono vesical é uma região de grande interesse clínico e cistoscópico. Quais são seus três vértices e por que essa região não apresenta rugas, ao contrário do restante da bexiga?",
+      "opcoes": [
+        "A) Os dois óstios ureterais e o óstio interno da uretra; a mucosa adere firmemente à camada muscular sem espaço para dobras",
+        "B) Os dois óstios ureterais e o colo vesical; apresenta rugas por ser a zona de maior distensão durante o enchimento",
+        "C) O óstio uretral interno e dois pontos de ancoragem do ligamento pubovesical; liso por ausência de músculo detrusor",
+        "D) Os dois óstios ureterais e a parede posterior; não tem mucosa própria, apenas submucosa aderida"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Trígono = triângulo com vértices nos dois óstios ureterais e no óstio uretral interno; sua mucosa aderida à muscular impede formação de rugas. A) CORRETA. O trígono vesical tem como vértices os dois óstios ureterais (superiores) e o óstio interno da uretra (inferior); a mucosa está firmemente aderida à camada muscular — sem espaço para dobras — por isso é liso na cistoscopia, mesmo com bexiga vazia. B) INCORRETA. O colo vesical não é vértice do trígono; e o trígono não tem rugas — é justamente o contrário do restante da bexiga que fica pregueado quando vazio. C) INCORRETA. O ligamento pubovesical não delimita o trígono; e o detrusor está presente na região. D) INCORRETA. O trígono tem mucosa própria — sua especificidade é a aderência à muscular, não ausência de mucosa.",
+      "tema": "bmf3_a10",
+      "subfoco": "trigono-vesical",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 161,
+      "materia": "bmf3",
+      "enunciado": "A maior frequência de infecção do trato urinário (ITU) em mulheres em relação a homens tem relação direta com uma diferença anatômica. Qual é essa diferença e qual é o mecanismo?",
+      "opcoes": [
+        "A) A bexiga feminina tem menor capacidade vesical, favorecendo estase urinária e proliferação bacteriana",
+        "B) A uretra feminina mede apenas 3-4 cm, facilitando a ascensão bacteriana até a bexiga",
+        "C) A uretra masculina é mais calibrosa, permitindo maior fluxo urinário que elimina bactérias",
+        "D) As mulheres têm menor concentração de IgA secretora nas vias urinárias do que os homens"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: A uretra feminina é curta (3-4 cm) e próxima à flora perianal e vaginal — bactérias ascendem facilmente até a bexiga. A uretra masculina (18-20 cm) é uma barreira anatômica natural. A) INCORRETA. Capacidade vesical é similar entre os sexos; a estase ocorre por disfunção miccional, não por capacidade menor. B) CORRETA. Uretra feminina = 3-4 cm → distância mínima entre meato e bexiga → E. coli e outras bactérias ascendem facilmente. Uretra masculina = 18-20 cm → barreira eficaz. Isso explica por que ITU é 10-30x mais frequente em mulheres. C) INCORRETA. O calibre uretral não é o fator determinante — é o comprimento que muda a probabilidade de ascensão bacteriana. D) INCORRETA. IgA secretora não é a causa determinante da diferença de frequência — é um mecanismo imune acessório, não a principal variável anatômica.",
+      "tema": "bmf3_a10",
+      "subfoco": "uretra-itu-anatomia",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 162,
+      "materia": "mad1",
+      "enunciado": "Os órgãos linfoides dividem-se em primários e secundários conforme sua função. Qual alternativa diferencia corretamente as duas categorias? (Ref.: Abbas, Imunologia Celular e Molecular, 10ª ed.)",
+      "opcoes": [
+        "A) Órgãos primários são linfonodos e baço; secundários são timo e medula óssea, onde as células amadurecem",
+        "B) Órgãos primários respondem a antígenos na primeira exposição; secundários armazenam memória imunológica",
+        "C) Órgãos primários (timo e medula óssea) são sítios de maturação de linfócitos; secundários (linfonodos, baço, MALT) são onde a resposta imune ocorre após encontro com antígeno",
+        "D) Timo é secundário porque só atua após exposição antigênica; medula óssea é primária por produzir células indiferenciadas"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Órgãos linfoides primários = maturação de linfócitos; secundários = sítios de resposta imune após apresentação antigênica. A) INCORRETA. Linfonodos e baço são órgãos SECUNDÁRIOS; timo e medula óssea são os PRIMÁRIOS. B) INCORRETA. Essa descrição inverte a lógica — primário é de maturação, não de resposta à primeira exposição. C) CORRETA. Conforme Abbas: timo (matura T) e medula óssea (matura B) são primários; linfonodos, baço e MALT são secundários onde acontece a resposta ao antígeno. D) INCORRETA. O timo é PRIMÁRIO — é no timo que os linfócitos T recebem seleção positiva e negativa, independentemente de exposição antigênica prévia.",
+      "tema": "mad1_a1",
+      "subfoco": "orgaos-linfoides",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 163,
+      "materia": "mad1",
+      "enunciado": "Paciente de 32 anos apresenta IgE sérica muito elevada, eosinofilia e episódios recorrentes de urticária e broncoespasmo após contato com látex durante procedimento cirúrgico. Qual mecanismo imunológico explica esse quadro? (Ref.: Abbas, 10ª ed., cap. Hipersensibilidade)",
+      "opcoes": [
+        "A) Hipersensibilidade tipo I mediada por IgE ligada a mastócitos: o alérgeno realiza crosslinking de IgE-mastócito → degranulação com liberação de histamina e leucotrienos",
+        "B) Hipersensibilidade tipo II por anticorpos IgG que reconhecem antígenos de superfície celular e ativam complemento causando lise",
+        "C) Hipersensibilidade tipo III por depósito de imunocomplexos IgM-látex em tecidos com ativação de complemento e neutrófilos",
+        "D) Hipersensibilidade tipo IV mediada por linfócitos T CD8+ citotóxicos que destroem células endoteliais sem participação de anticorpos"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Alergia a látex é hipersensibilidade tipo I (imediata) mediada por IgE — o alérgeno faz crosslinking de duas moléculas de IgE ligadas a mastócitos → degranulação imediata com histamina, leucotrienos e prostaglandinas → urticária e broncoespasmo. A) CORRETA. IgE elevada + eosinofilia + reação imediata após contato = hipersensibilidade tipo I (anafilática/atópica). Mastócitos sensibilizados por IgE liberam mediadores vasoativos e espasmogênicos ao encontrar o alérgeno. B) INCORRETA. Tipo II envolve IgG contra antígenos de superfície celular (ex.: anemia hemolítica autoimune) — não é a fisiopatologia da alergia a látex. C) INCORRETA. Tipo III envolve imunocomplexos IgM/IgG circulantes depositados em tecidos — manifesta-se como vasculite ou doença do soro, não urticária imediata. D) INCORRETA. Tipo IV (tardio/celular) é mediado por linfócitos T, não tem participação de anticorpos e demora 24-72h para se manifestar.",
+      "tema": "mad1_a1",
+      "subfoco": "hipersensibilidade-tipo-i",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 164,
+      "materia": "mad1",
+      "enunciado": "Qual célula do sistema imune é descrita como 'ponte obrigatória entre imunidade inata e adaptativa', capturando antígenos nos tecidos periféricos e apresentando-os para linfócitos T naive nos linfonodos? (Ref.: Janeway, Imunobiologia, 9ª ed.)",
+      "opcoes": [
+        "A) Neutrófilo — célula de vida curta que fagocita microrganismos mas não ativa linfócitos T naive com eficiência",
+        "B) Célula dendrítica — APC profissional que migra do tecido para o linfonodo e ativa linfócitos T naive via MHC I e II com coestimulação adequada",
+        "C) Linfócito B — que pode apresentar antígenos via MHC II após captura por imunoglobulinas de superfície para linfócitos T já ativados",
+        "D) Macrófago — apresenta antígeno via MHC II apenas para linfócitos T CD4+ já ativados, sendo menos eficiente para ativar T naive"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: A célula dendrítica é a APC (célula apresentadora de antígeno) profissional por excelência — captura antígenos na periferia, matura e migra para o linfonodo, onde ativa linfócitos T naive com sinais 1 (MHC-antígeno) + 2 (coestimulação) + 3 (citocinas). A) INCORRETA. Neutrófilo é a primeira célula a chegar no foco infeccioso e fagocita microrganismos, mas não migra para linfonodos para ativar T naive — é eficiência para destruição, não para apresentação. B) CORRETA. Célula dendrítica = APC profissional: expressa altos níveis de MHC I e II + moléculas coestimulatórias (CD80/86) → única que ativa eficientemente linfócitos T naive, fazendo a ponte inata-adaptativa. C) INCORRETA. Linfócito B apresenta antígeno via MHC II mas para linfócitos T CD4+ já ativados (helper) — não é eficiente para T naive. D) INCORRETA. Macrófago apresenta antígeno mas é muito menos eficiente que a célula dendrítica para ativar T naive, e requer ativação prévia para alta expressão de coestimuladores.",
+      "tema": "mad1_a1",
+      "subfoco": "celula-dendritica-apc",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 165,
+      "materia": "mad1",
+      "enunciado": "Criança de 7 anos apresenta quarto episódio de meningite por Neisseria meningitidis em 3 anos, sem contato epidemiológico identificado. Os demais exames imunológicos básicos são normais. Qual deficiência imunológica deve ser prioritariamente investigada e por quê? (Ref.: Abbas, 10ª ed.)",
+      "opcoes": [
+        "A) Deficiência de IgA sérica — porque IgA opsoniza bactérias encapsuladas para fagocitose por neutrófilos",
+        "B) Deficiência de linfócito T CD4+ — porque esses linfócitos coordenam a resposta específica contra Neisseria",
+        "C) Disfunção de neutrófilo (doença granulomatosa crônica) — porque neutrófilos são a primeira defesa contra meningococo",
+        "D) Deficiência de complemento terminal (C5-C9) — porque o MAC (complexo de ataque à membrana) é o principal mecanismo de lise de Neisseria, bactéria sem proteção de parede espessa; sem MAC há meningite meningocócica recorrente"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Meningococo recorrente em mesmo paciente é sinal clássico de deficiência de complemento terminal (C5-C9), pois o MAC é o mecanismo letal primário contra Neisseria. A) INCORRETA. Deficiência de IgA causa infecções sinopulmonares recorrentes, não infecções sistêmicas por meningococo de repetição. B) INCORRETA. Deficiência de T CD4+ causa oportunistas (fungos, vírus, protozoários), não episódios recorrentes de meningococo. C) INCORRETA. Doença granulomatosa crônica (disfunção do burst oxidativo) causa abscessos por Staphylococcus e Aspergillus, não meningococo recorrente. D) CORRETA. Deficiência de C5-C9 = ausência de MAC → incapacidade de lise de Neisseria (que não tem parede de peptidoglicano espessa como Gram-positivos) → meningite meningocócica recorrente. É a associação clássica descrita em Abbas e Janeway.",
+      "tema": "mad1_a1",
+      "subfoco": "complemento-deficiencia",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 166,
+      "materia": "mad1",
+      "enunciado": "Qual receptor da imunidade inata reconhece especificamente o lipopolissacarídeo (LPS) de bactérias Gram-negativas e qual é a principal consequência clínica de sua ativação excessiva? (Ref.: Abbas, 10ª ed.; Janeway, Imunobiologia, 9ª ed.)",
+      "opcoes": [
+        "A) TLR2 — reconhece LPS e, em ativação excessiva, causa doença autoimune sistêmica por mimetismo molecular",
+        "B) TLR4 — reconhece LPS e, em bacteremia Gram-negativa intensa, induz tempestade de TNF-α, IL-1 e IL-6 com vasodilatação sistêmica → choque séptico",
+        "C) TLR9 — reconhece LPS bacteriano no citoplasma celular e induz apoptose de macrófagos infectados",
+        "D) NOD2 — reconhece LPS na superfície de bactérias Gram-negativas e ativa a via do complemento clássica"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: TLR4 reconhece LPS (endotoxina de Gram-negativas) → ativa macrófagos → produção de TNF-α, IL-1, IL-6 em cascata → choque séptico quando excessivo. A) INCORRETA. TLR2 reconhece ácido lipoteicóico de Gram-positivas e peptidoglicana, não LPS. Doença autoimune não é a consequência de ativação de TLR2. B) CORRETA. TLR4 + LPS → NF-κB → produção maciça de citocinas pró-inflamatórias (TNF-α, IL-1β, IL-6) → vasodilatação, hipotensão, coagulação intravascular = choque séptico. Base fisiopatológica de sepse por Gram-negativas. C) INCORRETA. TLR9 reconhece DNA CpG não metilado (bacteriano/viral) no endossomo — não LPS, e não no citoplasma. D) INCORRETA. NOD1/NOD2 reconhecem fragmentos de peptidoglicana intracelular, não LPS. NOD2 não ativa complemento clássico.",
+      "tema": "mad1_a2",
+      "subfoco": "tlr4-lps-choque",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 167,
+      "materia": "mad1",
+      "enunciado": "Em inflamação aguda por infecção bacteriana cutânea, qual é a sequência temporal correta do recrutamento celular da imunidade inata nos primeiros estágios? (Ref.: Abbas, 10ª ed.; Robbins, Bases Patológicas, 10ª ed.)",
+      "opcoes": [
+        "A) Linfócitos T → células dendríticas → macrófagos → neutrófilos (ordem crescente de especificidade imune)",
+        "B) Macrófagos residentes → linfócitos NK → eosinófilos → neutrófilos (ordem crescente de tamanho celular)",
+        "C) Macrófagos residentes reconhecem PAMPs → secretam IL-1, IL-6, TNF-α → ativação endotelial (selectinas/integrinas) → marginação e diapedese de neutrófilos como primeira onda celular do sangue",
+        "D) Neutrófilos chegam primeiro e secretam IL-12 → ativam macrófagos residentes → células dendríticas migram para o linfonodo ativando adaptativa"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: A sequência correta: macrófagos residentes percebem o agressor → liberam citocinas pró-inflamatórias → endotélio ativa → neutrófilos são recrutados do sangue circulante como primeira onda de reforço. A) INCORRETA. Linfócitos T são da imunidade adaptativa e chegam bem depois; a ordem descrita não é baseada em eventos reais da inflamação aguda. B) INCORRETA. NK e eosinófilos não são as células recrutadas em sequência logo após os macrófagos na infecção bacteriana cutânea — o recrutamento principal é de neutrófilos. C) CORRETA. Macrófagos residentes → IL-1/TNF-α/IL-6 → ativação do endotélio (E-selectina, ICAM-1) → rolamento, adesão e diapedese de neutrófilos. Os neutrófilos chegam no foco em horas. D) INCORRETA. Invertido — são os macrófagos residentes que produzem IL-12 (não os neutrófilos), e a IL-12 ativa NK e direciona a resposta adaptativa Th1.",
+      "tema": "mad1_a2",
+      "subfoco": "recrutamento-celular-inflamacao",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 168,
+      "materia": "mad1",
+      "enunciado": "As células NK (Natural Killer) eliminam células-alvo sem precisar de anticorpos ou reconhecimento de MHC. Qual é o princípio molecular que dispara a ativação da NK contra uma célula infectada por vírus? (Ref.: Janeway, Imunobiologia, 9ª ed.)",
+      "opcoes": [
+        "A) Ausência ou redução de MHC-I na superfície da célula-alvo — princípio do 'missing self': sem MHC-I, a NK interpreta como sinal de alvo e libera perforinas e granzimas",
+        "B) Presença de MHC-II aumentada na superfície da célula-alvo, sinalizando apresentação de antígeno viral à NK",
+        "C) Ligação de IgE à superfície da célula infectada, criando ponte entre o receptor FcR da NK e o alvo para citotoxicidade",
+        "D) Expressão de CD4 pela célula infectada, identificando linfócito T helper infectado para eliminação preferencial"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: NK usa o princípio 'missing self' — células normais expressam MHC-I que inibe NK; células infectadas por vírus reduzem MHC-I como estratégia de evasão, mas isso remove o freio da NK → ativação e citotoxicidade. A) CORRETA. Células infectadas por vírus frequentemente reduzem MHC-I para escapar do CD8+ citotóxico → mas isso remove o sinal inibitório para a NK ('missing self') → NK libera perforinas (perfuram membrana) e granzimas (induzem apoptose). B) INCORRETA. MHC-II não é o sinal de ativação da NK; MHC-II apresenta antígenos para linfócitos T CD4+. C) INCORRETA. Citotoxicidade celular dependente de anticorpo (ADCC) é um mecanismo real da NK, mas não é o 'missing self' — e envolve IgG (Fc), não IgE. D) INCORRETA. CD4 não é sinal de alvo para NK; a NK não reconhece marcadores T específicos para seleção de alvo.",
+      "tema": "mad1_a2",
+      "subfoco": "nk-missing-self",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 169,
+      "materia": "mad1",
+      "enunciado": "Paciente com pneumonia bacteriana grave apresenta PCR 220 mg/L, febre 39°C, albumina 2,1 g/dL (VR: 3,5–5,0 g/dL). A queda de albumina nesse contexto é melhor explicada por qual mecanismo? (Ref.: Robbins e Cotran, Bases Patológicas das Doenças, 10ª ed.)",
+      "opcoes": [
+        "A) Perda urinária de albumina por síndrome nefrótica desencadeada pelo processo inflamatório sistêmico",
+        "B) Redução da síntese hepática por hepatotoxicidade direta do antibiótico em dose habitual",
+        "C) Sequestro de albumina nos espaços intersticiais pelo edema pulmonar causado pela pneumonia",
+        "D) Albumina é proteína negativa de fase aguda: o fígado, em resposta à IL-6, redireciona recursos para síntese de proteínas de fase aguda (PCR, fibrinogênio, ferritina), reduzindo produção de albumina"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Na resposta inflamatória sistêmica, IL-6 produzida por macrófagos ativa o fígado a priorizar proteínas de fase aguda positivas (PCR, fibrinogênio) → recursos de síntese são deslocados → albumina cai (proteína negativa de fase aguda). A) INCORRETA. Síndrome nefrótica é causa de hipoalbuminemia por perda urinária, mas não é desencadeada por pneumonia — são condições distintas. B) INCORRETA. Antibióticos em dose habitual não causam hepatotoxicidade clinicamente relevante a ponto de reduzir síntese de albumina. C) INCORRETA. O sequestro intersticial pode reduzir albumina sérica transitoriamente no espaço de distribuição, mas não explica a magnitude da queda durante inflamação grave. D) CORRETA. Albumina é clássica proteína negativa de fase aguda — IL-6 induz o fígado a sintetizar PCR, fibrinogênio, ferritina e hepicidina em detrimento da albumina. Está no Robbins e é conceito clássico de laboratório clínico.",
+      "tema": "mad1_a2",
+      "subfoco": "proteinas-fase-aguda",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 170,
+      "materia": "bmf4",
+      "enunciado": "Qual é a distinção anatômica correta entre Sistema Nervoso Central (SNC) e Sistema Nervoso Periférico (SNP)? (Ref.: Moore, Anatomia Orientada para a Clínica, 8ª ed.)",
+      "opcoes": [
+        "A) SNC compreende encéfalo e medula espinal, protegidos por estruturas ósseas e meninges; SNP compreende nervos cranianos, espinais e gânglios fora do SNC",
+        "B) SNC compreende nervos cranianos e tratos motores; SNP engloba o encéfalo e os tratos sensitivos espinais",
+        "C) SNC inclui encéfalo, medula e os 12 pares de nervos cranianos; SNP engloba apenas nervos espinais e gânglios autônomos",
+        "D) SNC inclui todos os neurônios que processam informação sensorial; SNP inclui todos os neurônios que processam informação motora"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: A divisão é anatômica — SNC = dentro do crânio e canal vertebral (encéfalo + medula); SNP = fora (nervos e gânglios). A) CORRETA. SNC = encéfalo (telencéfalo, diencéfalo, tronco, cerebelo) + medula espinal, todos protegidos por crânio/coluna e envoltos por meninges; SNP = 12 pares de nervos cranianos + 31 pares de nervos espinais + gânglios autônomos. B) INCORRETA. Os nervos cranianos fazem parte do SNP, não do SNC; os tratos não definem a divisão. C) INCORRETA. Os nervos cranianos emergem do tronco encefálico (SNC) mas percorrem como nervos do SNP — não são SNC. D) INCORRETA. A distinção não é funcional (sensorial vs. motora), mas anatômica (dentro vs. fora do crânio/coluna).",
+      "tema": "bmf4_a1",
+      "subfoco": "snc-snp-divisao",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 171,
+      "materia": "bmf4",
+      "enunciado": "Em corte transversal, a distribuição de substância cinzenta e branca é oposta no encéfalo e na medula espinal. Qual alternativa descreve corretamente essa relação? (Ref.: Moore, Anatomia Orientada para a Clínica, 8ª ed.)",
+      "opcoes": [
+        "A) No encéfalo e na medula, a substância cinzenta ocupa o exterior nas duas estruturas, seguindo o mesmo padrão",
+        "B) No encéfalo, a substância branca é externa (córtex); na medula, a branca também é externa — o padrão é idêntico",
+        "C) No encéfalo, a substância cinzenta é externa (córtex cerebral) e a branca é interna; na medula, a cinzenta é interna (formato de H ou borboleta) e a branca é externa",
+        "D) Substância cinzenta e branca têm a mesma distribuição em encéfalo e medula — a diferença está apenas no tipo de neurônio presente"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Encéfalo e medula têm distribuição invertida — no encéfalo, cinzenta é fora (córtex); na medula, cinzenta é dentro (H). Isso é clássico de questão. A) INCORRETA. O encéfalo tem cinzenta fora, mas a medula tem cinzenta dentro — não é o mesmo padrão. B) INCORRETA. No encéfalo, o córtex é cinzento (corpos neuronais), não branco. C) CORRETA. Encéfalo: substância cinzenta fora (córtex = corpos neuronais) e branca dentro (axônios mielinizados). Medula: cinzenta dentro em formato de H (corpos neuronais) e branca fora (axônios mielinizados dos tratos). D) INCORRETA. A distribuição é anatomicamente diferente entre as duas estruturas, não apenas pelo tipo de neurônio.",
+      "tema": "bmf4_a1",
+      "subfoco": "substancia-cinzenta-branca",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 172,
+      "materia": "bmf4",
+      "enunciado": "Paciente em choque anafilático recebe adrenalina IM com reversão rápida da hipotensão e broncoespasmo. Qual divisão do SNA foi farmacologicamente mimetizada pela adrenalina e quais são seus receptores efetores? (Ref.: Guyton & Hall, Tratado de Fisiologia Médica, 13ª ed.)",
+      "opcoes": [
+        "A) Parassimpático pós-ganglionar, cujo neurotransmissor endógeno é acetilcolina em receptores muscarínicos M2 e M3",
+        "B) Simpático pós-ganglionar, cujo neurotransmissor endógeno é noradrenalina em receptores adrenérgicos alfa-1 (vasoconstrição) e beta-2 (broncodilatação)",
+        "C) Sistema entérico, cujo plexo de Auerbach controla o tônus vascular periférico e a broncodilatação",
+        "D) Pré-ganglionar simpático, que usa acetilcolina em receptor nicotínico e causa efeitos idênticos à adrenalina exógena"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Adrenalina mimetiza o simpático pós-ganglionar — vasoconstrição via alfa-1 (reverte hipotensão) e broncodilatação via beta-2 (reverte broncoespasmo). A) INCORRETA. O parassimpático pós-ganglionar usa ACh em receptores muscarínicos → causa bradicardia, broncoconstrição e vasodilatação — efeitos opostos ao desejado em anafilaxia. B) CORRETA. Adrenalina = agonista adrenérgico alfa e beta. Em anafilaxia: alfa-1 → vasoconstrição → aumenta PA; beta-2 → broncodilatação → alivia broncoespasmo; beta-1 → aumenta FC e contratilidade. Mimetiza o simpático pós-ganglionar. C) INCORRETA. Sistema entérico controla TGI — não tem papel primário no tônus vascular sistêmico ou broncodilatação. D) INCORRETA. Pré-ganglionar simpático usa ACh-nicotínico; a adrenalina age nos receptores adrenérgicos dos órgãos-alvo (pós-ganglionar), não no pré-ganglionar.",
+      "tema": "bmf4_a1",
+      "subfoco": "sna-simpatico-adrenalina",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 173,
+      "materia": "bmf4",
+      "enunciado": "O tronco encefálico é frequentemente confundido com estruturas adjacentes. Qual é a composição correta do tronco encefálico? (Ref.: Moore, Anatomia Orientada para a Clínica, 8ª ed.)",
+      "opcoes": [
+        "A) Diencéfalo + mesencéfalo + cerebelo",
+        "B) Telencéfalo + mesencéfalo + bulbo",
+        "C) Tálamo + ponte + bulbo",
+        "D) Mesencéfalo + ponte + bulbo — o cerebelo está no rombencéfalo mas NÃO integra o tronco encefálico"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Tronco encefálico = mesencéfalo + ponte + bulbo (medula oblonga). Cerebelo pertence ao rombencéfalo (metencéfalo), mas é estruturalmente separado do tronco. A) INCORRETA. Diencéfalo (tálamo, hipotálamo) não integra o tronco encefálico — está entre os hemisférios e o tronco. Cerebelo também não integra o tronco. B) INCORRETA. Telencéfalo são os hemisférios cerebrais — acima do diencéfalo, muito distante do tronco. C) INCORRETA. Tálamo faz parte do diencéfalo, não do tronco. A tríade do tronco é mesencéfalo + ponte + bulbo. D) CORRETA. Tronco encefálico = mesencéfalo (superior) + ponte (média) + bulbo (inferior/medula oblonga). O cerebelo se conecta ao tronco pelos pedúnculos cerebelares mas é estrutura separada — erro clássico de prova colocar cerebelo no tronco.",
+      "tema": "bmf4_a1",
+      "subfoco": "tronco-encefalico",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 174,
+      "materia": "bmf4",
+      "enunciado": "O fechamento do tubo neural ocorre entre o 18.º e o 28.º dia de gestação. A falha no fechamento do neuróporo anterior (cranial) no 25.º dia resulta em qual malformação? (Ref.: Langman, Embriologia Médica, 14ª ed.)",
+      "opcoes": [
+        "A) Espinha bífida com mielomeningocele — herniação de medula e raízes pelo defeito de coluna vertebral",
+        "B) Anencefalia — ausência de desenvolvimento dos hemisférios cerebrais e calota craniana, incompatível com a vida pós-natal",
+        "C) Hidrocefalia obstrutiva congênita por estenose do aqueduto de Sylvius",
+        "D) Meningocele craniana — herniação apenas de meninges pelo defeito ósseo sem exposição do tecido neural"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Neuróporo anterior (cranial) fecha no 25.º dia — falha = anencefalia. Neuróporo posterior (caudal) fecha no 27.º dia — falha = espinha bífida. A) INCORRETA. Espinha bífida/mielomeningocele resulta da falha do neuróporo POSTERIOR (caudal, 27.º dia) — afeta a medula espinal, não o encéfalo. B) CORRETA. Falha do neuróporo anterior no 25.º dia impede o desenvolvimento do prosencéfalo → anencefalia (ausência de hemisférios + ausência de calota craniana) → incompatível com vida. C) INCORRETA. Hidrocefalia por estenose do aqueduto é uma malformação posterior ao fechamento do tubo — ocorre na fase de organização do sistema ventricular, não do fechamento dos neuróporos. D) INCORRETA. Meningocele craniana é herniação de meninges por defeito ósseo craniano (encefalocele), não resulta diretamente da falha do neuróporo anterior.",
+      "tema": "bmf4_a2",
+      "subfoco": "neuroporo-anencefalia",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 175,
+      "materia": "bmf4",
+      "enunciado": "As células da crista neural migram para diferentes regiões do embrião dando origem a estruturas diversas. Qual relação entre crista neural e um derivado clínico é correta? (Ref.: Langman, 14ª ed.; Robbins, 10ª ed.)",
+      "opcoes": [
+        "A) A medula suprarrenal origina-se de células da crista neural; por isso o neuroblastoma — tumor maligno pediátrico mais comum do retroperitônio — deriva dessas células cromafins",
+        "B) Os oligodendrócitos do SNC derivam de cristas neurais e são responsáveis pela mielinização central no período fetal",
+        "C) O timo é derivado exclusivamente das cristas neurais, explicando por que malformações tímicas associam-se sempre a defeitos do tubo neural",
+        "D) Os gânglios da raiz dorsal (DRG) derivam do mesoderma paraxial somítico, não das cristas neurais"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Cristas neurais → células cromafins da medula suprarrenal → neuroblastoma quando essas células sofrem transformação maligna. A) CORRETA. A medula suprarrenal deriva de células da crista neural que migram para a glândula suprarrenal e se diferenciam em células cromafins (secretam adrenalina/noradrenalina). O neuroblastoma é tumor maligno pediátrico que origina dessas células — relação crista neural-tumor diretamente cobrada no Robbins. B) INCORRETA. Oligodendrócitos derivam de precursores do tubo neural (neuroepitélio), não de cristas neurais. Células de SCHWANN (SNP) derivam de cristas neurais. C) INCORRETA. O timo deriva de endoderma da 3ª bolsa faríngea, não de cristas neurais. D) INCORRETA. Os gânglios da raiz dorsal (DRG) derivam das CRISTAS NEURAIS, que são justamente o principal derivado sensitivo periférico dessas células migratórias.",
+      "tema": "bmf4_a2",
+      "subfoco": "crista-neural-neuroblastoma",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 176,
+      "materia": "bmf4",
+      "enunciado": "Na 5ª semana de desenvolvimento, o prosencéfalo subdivide-se em telencéfalo e diencéfalo. Qual estrutura adulta deriva do diencéfalo e tem papel central no controle neuroendócrino? (Ref.: Langman, Embriologia Médica, 14ª ed.)",
+      "opcoes": [
+        "A) Hemisférios cerebrais e núcleos da base, responsáveis por funções motoras voluntárias e cognitivas superiores",
+        "B) Ponte e cerebelo, que coordenam movimentos automáticos e são derivados do metencéfalo",
+        "C) Medula espinal, que origina-se diretamente da porção caudal do mielencéfalo embrionário",
+        "D) Hipotálamo e tálamo, que derivam do diencéfalo — o hipotálamo coordena respostas neuroendócrinas via hipófise, regulando eixos hormonais essenciais"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Diencéfalo → tálamo + hipotálamo + epitálamo. O hipotálamo é o centro neuroendócrino por excelência, controlando a hipófise via hormônios liberadores e inibidores. A) INCORRETA. Hemisférios cerebrais e núcleos da base derivam do TELENCÉFALO, não do diencéfalo. B) INCORRETA. Ponte e cerebelo derivam do METENCÉFALO (rombencéfalo), não do diencéfalo. C) INCORRETA. Medula espinal deriva da porção mais caudal do tubo neural, não do mielencéfalo — que origina o bulbo. D) CORRETA. Diencéfalo → tálamo (retransmite informações sensoriais ao córtex), hipotálamo (coordena SNA e eixos neuroendócrinos: TRH→TSH→T3/T4; GHRH→GH; CRH→ACTH→cortisol) e epitálamo (glândula pineal). Langman detalha essa derivação no capítulo de neuroembriologia.",
+      "tema": "bmf4_a2",
+      "subfoco": "diencefalo-hipotalamo",
+      "dificuldade": 3,
+      "modulo": 4
+    },
+    {
+      "id": 177,
+      "materia": "bmf4",
+      "enunciado": "Recém-nascido de 3 dias apresenta sinal de Babinski positivo (extensão plantar ao estímulo). A mãe pergunta se é doença neurológica. Qual é a explicação correta? (Ref.: Langman, 14ª ed.; Nelson, Textbook of Pediatrics, 21ª ed.)",
+      "opcoes": [
+        "A) Sinal de Babinski em RN indica lesão de neurônio motor superior e requer investigação imediata de encefalopatia hipóxico-isquêmica",
+        "B) Babinski em RN sugere espasticidade por mielite transversa e requer punção lombar urgente para investigação de LCR",
+        "C) É achado normal em RN e lactentes até 18–24 meses, pois o trato corticoespinal ainda não completou a mielinização — quando a mielinização termina, o Babinski desaparece e o reflexo plantar torna-se em flexão",
+        "D) Indica hipertensão intracraniana por hemorragia intraventricular e requer neuroimagem imediata com USG transfontanela"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Babinski é normal até 18-24 meses porque o trato corticoespinal ainda não está totalmente mielinizado — sem inibição cortical completa, a extensão plantar persiste. A) INCORRETA. Babinski isolado em RN NÃO indica patologia — é esperado pela imaturidade mielinização do trato piramidal. Encefalopatia hipóxico-isquêmica tem outros sinais (hipotonia, convulsões, alteração de consciência). B) INCORRETA. Mielite transversa é rara em RN e apresenta nível sensitivo + paresia bilateral aguda, não apenas Babinski isolado. C) CORRETA. A mielinização do trato corticoespinal começa no 3.º trimestre e continua até ~2 anos. Sem controle inibitório corticoespinal maduro, o reflexo primitivo (extensão plantar) persiste — não é patológico. Após mielinização completa, o reflexo plantar torna-se em flexão. D) INCORRETA. Hipertensão intracraniana em RN manifesta-se com abaulamento da fontanela, choro agudo e vômitos — não Babinski isolado.",
+      "tema": "bmf4_a2",
+      "subfoco": "babinski-mielinizacao",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 178,
+      "materia": "mad2",
+      "enunciado": "Criança de 18 meses apresenta quarta internação por pneumonia. Três episódios foram por Streptococcus pneumoniae e um por Haemophilus influenzae, todos com resposta vacinal insuficiente confirmada. Peso no percentil 3. Qual braço da imunidade é provavelmente comprometido e qual exame inicial é mais informativo? (Ref.: Abbas, 10ª ed.)",
+      "opcoes": [
+        "A) Imunidade celular comprometida — fenotipagem de linfócitos T CD4+ e CD8+ é o exame inicial",
+        "B) Função fagocitária comprometida — teste de burst oxidativo (DHR ou NBT) é o exame inicial",
+        "C) Sistema complemento terminal comprometido — dosagem de C5-C9 e CH50 é o exame inicial",
+        "D) Imunidade humoral comprometida — dosagem de IgG, IgA e IgM associada à avaliação de resposta vacinal é o exame inicial mais adequado"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Infecções sinopulmonares recorrentes por bactérias encapsuladas (pneumococo, Haemophilus) + resposta vacinal insuficiente + baixo ganho de peso = defeito de imunidade humoral (anticorpos). A) INCORRETA. Defeito celular (T) causa infecções por oportunistas — vírus (CMV, EBV grave), fungos (Candida persistente), protozoários — não sinopulmonares por bactérias encapsuladas. B) INCORRETA. Disfunção fagocitária (ex.: doença granulomatosa crônica) causa abscessos recorrentes por Staphylococcus e Aspergillus, não pneumonia por encapsulados com resposta vacinal ruim. C) INCORRETA. Deficiência de complemento terminal associa-se a meningococo recorrente, não a pneumococo e hemófilo repetidos. D) CORRETA. Defeito humoral (ex.: agamaglobulinemia de Bruton, imunodeficiência comum variável) → infecções por encapsulados recorrentes + resposta vacinal ausente. Dosagem de IgG/IgA/IgM é a triagem inicial padrão (Abbas, Robins).",
+      "tema": "mad2_a1",
+      "subfoco": "imunodeficiencia-humoral",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 179,
+      "materia": "mad2",
+      "enunciado": "Criança de 6 anos apresenta terceiro abscesso subcutâneo profundo por Staphylococcus aureus em 8 meses, sem resposta completa ao antibiótico habitual e sem história de infecção respiratória de repetição. Qual defeito imunológico esse padrão sugere? (Ref.: Abbas, Imunologia Celular e Molecular, 10ª ed.)",
+      "opcoes": [
+        "A) Disfunção fagocitária — abscessos profundos recorrentes por Staphylococcus sem infecção das mucosas respiratórias apontam para defeito no burst oxidativo (ex.: doença granulomatosa crônica) ou na migração de neutrófilos",
+        "B) Deficiência de anticorpos — o padrão humoral clássico causa infecção sinopulmonar por encapsulados, não abscessos cutâneos profundos isolados",
+        "C) Deficiência de linfócito T — imunidade celular deficiente gera infecções virais e fúngicas oportunistas, não abscessos piogênicos recorrentes",
+        "D) Deficiência de complemento terminal — associada especificamente a infecção meningocócica recorrente, não a abscessos por Staphylococcus"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Abscessos profundos recorrentes por bactérias piogênicas (Staphylococcus, Serratia, Aspergillus) sem infecção de mucosas = padrão clássico de disfunção fagocitária — principal suspeita é doença granulomatosa crônica (DGC) por defeito na NADPH oxidase. A) CORRETA. DGC: neutrófilos fagocitam mas não matam bactérias catalase-positivas (Staphylococcus, Klebsiella, Aspergillus) por defeito no burst oxidativo → abscessos profundos recorrentes com granulomas. Exame: teste NBT ou DHR. B) INCORRETA. Deficiência de anticorpos → sinusite, otite, pneumonia por pneumococo/Haemophilus, não abscessos cutâneos profundos. C) INCORRETA. Defeito de linfócito T → candidíase, pneumocistose, infecção por CMV — não abscessos por Staphylococcus. D) INCORRETA. Deficiência de complemento C5-C9 → meningococo recorrente especificamente.",
+      "tema": "mad2_a1",
+      "subfoco": "disfuncao-fagocitaria",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 180,
+      "materia": "mad2",
+      "enunciado": "Qual padrão de infecção indica, de forma clássica, defeito de imunidade humoral (produção de anticorpos) em crianças? (Ref.: Abbas, 10ª ed.)",
+      "opcoes": [
+        "A) Infecções fúngicas recorrentes, candidíase mucocutânea persistente e pneumocistose precoce nos primeiros meses de vida",
+        "B) Sinusites, otites médias e pneumonias de repetição por bactérias encapsuladas (pneumococo, hemófilo) com resposta vacinal insuficiente",
+        "C) Abscessos cutâneos profundos e recorrentes por Staphylococcus e Candida com formação de granulomas",
+        "D) Meningite meningocócica recorrente em mesmo paciente com evolução grave em cada episódio"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Bactérias encapsuladas (pneumococo, hemófilo, meningococo) dependem de anticorpos opsonizantes para serem fagocitadas eficientemente — sem IgG, o hospedeiro é suscetível a infecções sinopulmonares recorrentes. A) INCORRETA. Candidíase persistente + pneumocistose = padrão de defeito de IMUNIDADE CELULAR (linfócito T), não humoral. B) CORRETA. Defeito humoral (ex.: agamaglobulinemia de Bruton — ausência de linfócitos B maduros): otite, sinusite, pneumonia repetidas por pneumococo e Haemophilus + resposta vacinal ausente. Isso ocorre após os 6 meses, quando a IgG materna se esgota. C) INCORRETA. Abscessos profundos por Staphylococcus = disfunção fagocitária (DGC). D) INCORRETA. Meningococo recorrente = deficiência de complemento terminal (C5-C9).",
+      "tema": "mad2_a1",
+      "subfoco": "padrao-humoral-encapsulados",
+      "dificuldade": 1,
+      "modulo": 3
+    },
+    {
+      "id": 181,
+      "materia": "mad2",
+      "enunciado": "Qual é a triagem laboratorial inicial mais adequada e racional para uma criança com suspeita de imunodeficiência primária antes de solicitar painéis diagnósticos complexos? (Ref.: Abbas, 10ª ed.)",
+      "opcoes": [
+        "A) Dosagem de complemento (CH50), função fagocitária (NBT) e fenotipagem linfocitária completa",
+        "B) Biópsia de medula óssea, mielograma e sorologia para HIV",
+        "C) Hemograma completo, dosagem de IgG, IgA e IgM, e avaliação da resposta vacinal (sorologias pós-vacinais para sarampo, tétano, pneumococo)",
+        "D) PCR multiplex para patógenos respiratórios e cultura de lavado broncoalveolar como ponto de partida"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: A triagem inicial deve ser simples, acessível e cobrir os principais compartimentos imunológicos — hemograma (conta células) + imunoglobulinas (avalia braço humoral) + resposta vacinal (função humoral real). A) INCORRETA. CH50, NBT e fenotipagem são exames de segunda linha, pedidos quando a triagem inicial sugere braço específico afetado — não é o primeiro passo. B) INCORRETA. Biópsia de medula óssea é exame invasivo de segunda linha para casos em que a triagem sugere hemopatia; HIV deve ser excluído, mas não é o ponto de partida de toda suspeita de imunodeficiência primária. C) CORRETA. Triagem inicial racional: hemograma (neutrófilo, linfócito, eosinófilo) + IgG/IgA/IgM (avalia humoral) + sorologias pós-vacinais (função de anticorpos in vivo). Se alterados, direcionam exames específicos. D) INCORRETA. PCR multiplex e BAL são exames para identificar agente etiológico da infecção atual, não para investigar o defeito imunológico subjacente.",
+      "tema": "mad2_a1",
+      "subfoco": "triagem-imunodeficiencia",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 182,
+      "materia": "mad2",
+      "enunciado": "Qual é a diferença funcional essencial entre tolerância imunológica central e periférica? (Ref.: Abbas, Imunologia Celular e Molecular, 10ª ed.)",
+      "opcoes": [
+        "A) Tolerância central ocorre nos linfonodos periféricos e elimina linfócitos autorreativos após exposição antigênica; periférica ocorre no timo durante a maturação",
+        "B) Tolerância central envolve apenas linfócitos B na medula óssea; periférica é exclusiva de linfócitos T na periferia",
+        "C) Tolerância central elimina ou edita clones autorreativos durante maturação no timo (para T) e medula óssea (para B); periférica inativa, suprime ou deleta os clones autorreativos que escaparam para a circulação",
+        "D) Tolerância central é mecanismo vestigial sem relevância clínica; a periférica é o único mecanismo ativo de prevenção da autoimunidade"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Central = filtra durante maturação (timo/medula); periférica = freio nos clones que escaparam e circulam nos tecidos. A) INCORRETA. Inverte a localização — tolerância central é no timo (T) e medula óssea (B), não nos linfonodos. B) INCORRETA. Tolerância central é tanto de linfócitos B (medula) quanto de T (timo); a periférica é de ambas as linhagens. C) CORRETA. Tolerância central (seleção tímica negativa para T; edição de receptor/deleção clonal para B) é o filtro inicial. Como nenhum filtro é perfeito, certos clones autorreativos escapam → a tolerância periférica os controla por anergia, supressão por T-reg e deleção por ativação induzida. D) INCORRETA. Tolerância central é essencial — sem ela (ex.: defeitos de AIRE no timo), ocorre autoimunidade multissistêmica grave (síndrome APECED).",
+      "tema": "mad2_a2",
+      "subfoco": "tolerancia-central-periferica",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 183,
+      "materia": "mad2",
+      "enunciado": "Linfócito T encontra um antígeno próprio sem receber sinal de coestimulação (sinal 2 via CD28-B7). Qual é o resultado mais provável desse encontro imunológico? (Ref.: Abbas, 10ª ed., cap. Tolerância Periférica)",
+      "opcoes": [
+        "A) Ativação plena do linfócito e resposta autoimune imediata por reconhecimento do autoantígeno",
+        "B) Apoptose imediata do linfócito por ativação do receptor Fas-FasL sem passagem pelo estado de anergia",
+        "C) Proliferação clonal limitada que gera memória de curta duração sem inflamação tecidual clinicamente detectável",
+        "D) Anergia — o linfócito fica funcionalmente inativo, incapaz de responder adequadamente a estímulos subsequentes mesmo que o antígeno seja apresentado novamente"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: Antígeno sem coestímulo = anergia clonal — o linfócito reconhece (sinal 1) mas sem CD28-B7 (sinal 2) não prolifera nem exerce função efetora, ficando inativo. A) INCORRETA. Ativação plena exige sinal 1 (TCR-MHC) + sinal 2 (CD28-B7) + sinal 3 (citocinas). Sem sinal 2, não há ativação plena — é justamente a base da tolerância periférica. B) INCORRETA. Apoptose via Fas-FasL ocorre na deleção periférica por ativação repetida excessiva (AICD — apoptose induzida por ativação), não no primeiro contato sem coestímulo. C) INCORRETA. Sem coestimulação não há proliferação clonal nem geração de memória funcional — o resultado é paralisia funcional (anergia). D) CORRETA. Anergia clonal (descrita por Schwartz): TCR engajado + CD28 bloqueado → o linfócito entra em estado de paralisia funcional — não produz IL-2, não prolifera, não ataca o tecido próprio. Base de estratégias terapêuticas como CTLA4-Ig (abatacept).",
+      "tema": "mad2_a2",
+      "subfoco": "anergia-coestimulacao",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 184,
+      "materia": "mad2",
+      "enunciado": "Paciente de 25 anos desenvolve febre reumática com cardite 3 semanas após faringoamigdalite por Streptococcus pyogenes não tratada. Qual mecanismo imunológico explica o dano valvar cardíaco? (Ref.: Abbas, 10ª ed.; Robbins, 10ª ed.)",
+      "opcoes": [
+        "A) Mimetismo molecular — anticorpos IgG produzidos contra a proteína M do estreptococo reconhecem cruzadamente antígenos do endocárdio (miosina cardíaca, laminina) por semelhança estrutural, causando lesão autoimune",
+        "B) Hipersensibilidade tipo I por IgE anti-estreptococo ativando mastócitos no endocárdio com degranulação local e fibrose",
+        "C) Infecção direta do endocárdio pelo S. pyogenes com formação de biofilme valvar e destruição mecânica",
+        "D) Deficiência de tolerância central que permite ativação de linfócitos T autorreativos cardíacos independentemente do estreptococo"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Febre reumática = mimetismo molecular clássico — anticorpos contra proteína M de S. pyogenes reagem cruzadamente com proteínas cardíacas, gerando lesão autoimune nas valvas. A) CORRETA. A proteína M do S. pyogenes tem epítopos semelhantes à miosina cardíaca, laminina e outras proteínas do coração. Anticorpos IgG gerados contra o estreptococo atacam o endocárdio e miocárdio → febre reumática com cardite. Mecanismo de mimetismo molecular descrito em Abbas e Robbins. B) INCORRETA. Hipersensibilidade tipo I é mediada por IgE/mastócitos — não é o mecanismo da cardite reumática, que é imune-mediada por IgG. C) INCORRETA. S. pyogenes raramente infecta diretamente o endocárdio (causa mais comum de endocardite é S. aureus/viridans) — a febre reumática é uma reação pós-infecção por autoimunidade cruzada, sem bactérias no coração. D) INCORRETA. Defeito de tolerância central explicaria autoimunidade primária espontânea, não a associação temporal com infecção estreptocócica específica.",
+      "tema": "mad2_a2",
+      "subfoco": "mimetismo-molecular",
+      "dificuldade": 3,
+      "modulo": 3
+    },
+    {
+      "id": 185,
+      "materia": "mad2",
+      "enunciado": "Qual é o papel das células T reguladoras (T reg / CD4+CD25+FoxP3+) na prevenção de autoimunidade e quais são suas principais citocinas efetoras? (Ref.: Abbas, 10ª ed.)",
+      "opcoes": [
+        "A) T reg amplificam a resposta imune efetora produzindo IL-12, ativando a diferenciação Th1 contra patógenos intracelulares",
+        "B) T reg suprimem resposta imune excessiva produzindo IL-10 e TGF-β, limitando inflamação em tecidos próprios e prevenindo autoagressão",
+        "C) T reg eliminam células dendríticas maduras por mecanismo citotóxico semelhante ao CD8+, evitando superativação de linfócitos T naive",
+        "D) T reg produzem IFN-γ para bloquear a diferenciação de linfócitos B em plasmócitos autorreativos"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: T reg = CD4+CD25+FoxP3+ — suprimem respostas imunes excessivas via IL-10 e TGF-β, prevenindo dano tecidual e autoimunidade. A) INCORRETA. IL-12 e ativação Th1 são funções de macrófagos e células dendríticas — T reg têm função oposta (supressora), não amplificadora. B) CORRETA. T reg expressam FoxP3 (fator de transcrição master), produzem IL-10 (anti-inflamatória, inibe APC e células T) e TGF-β (suprime proliferação de T efetores e induz tolerância). Deficiência de FoxP3 → síndrome IPEX (autoimunidade multissistêmica grave). C) INCORRETA. T reg não são citotóxicas — a supressão é por contato célula-célula e citocinas supressoras, não por mecanismo de citotoxicidade. D) INCORRETA. IFN-γ é produzido por Th1 e NK — tem função pró-inflamatória de ativação de macrófagos, não supressora de autoimunidade.",
+      "tema": "mad2_a2",
+      "subfoco": "t-reg-il10-tgfb",
+      "dificuldade": 2,
+      "modulo": 3
+    },
+    {
+      "id": 186,
+      "materia": "bioestatistica",
+      "enunciado": "A Pesquisa Nacional de Saúde (PNS) seleciona municípios, depois setores censitários e por último domicílios. Qual método de amostragem descreve corretamente esse processo? (Ref.: Hulley, Delineando a Pesquisa Clínica, 4ª ed.)",
+      "opcoes": [
+        "A) Amostragem por conglomerados em múltiplos estágios — seleciona unidades coletivas progressivamente menores até chegar ao indivíduo",
+        "B) Amostragem estratificada proporcional — divide a população em estratos (região, sexo) e extrai amostra aleatória de cada estrato",
+        "C) Amostragem aleatória simples — cada domicílio tem probabilidade igual de seleção direta desde o primeiro sorteio",
+        "D) Amostragem sistemática — seleciona cada k-ésimo município de uma lista ordenada por tamanho populacional"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Conglomerados em múltiplos estágios = seleciona unidades maiores progressivamente menores (municípios → setores → domicílios) — método padrão de grandes inquéritos populacionais brasileiros (PNS, PNAD). A) CORRETA. Amostragem por conglomerados em múltiplos estágios: 1º estágio = municípios; 2º = setores censitários; 3º = domicílios. Vantagem: logisticamente viável sem lista completa de indivíduos. Desvantagem: menor precisão (indivíduos dentro do conglomerado são mais similares entre si). B) INCORRETA. Estratificada divide a população em subgrupos homogêneos e sorteia dentro de cada estrato — não usa unidades coletivas hierárquicas. C) INCORRETA. Aleatória simples requer lista completa de todos os indivíduos desde o início — inviável para todo o Brasil. D) INCORRETA. Sistemática seleciona cada k-ésimo elemento de uma lista, não usa estágios hierárquicos.",
+      "tema": "bioe_a4",
+      "subfoco": "amostragem-conglomerados",
+      "dificuldade": 1,
+      "modulo": 4
+    },
+    {
+      "id": 187,
+      "materia": "bioestatistica",
+      "enunciado": "Estudo sobre prevalência de HAS recruta voluntários em academias de ginástica de uma cidade e encontra prevalência de 12%, muito menor que os 32% de estudos populacionais. Qual é a principal limitação metodológica? (Ref.: Hulley, Delineando a Pesquisa Clínica, 4ª ed.; Medronho, Epidemiologia)",
+      "opcoes": [
+        "A) Erro amostral aleatório — o tamanho da amostra foi insuficiente, gerando imprecisão expressa por IC amplo",
+        "B) Erro tipo II (beta) — o estudo não tinha poder estatístico suficiente para detectar a verdadeira prevalência",
+        "C) Viés de seleção (viés do trabalhador saudável) — a amostra de academia superrepresenta pessoas ativas e saudáveis, com menor prevalência de HAS, não sendo representativa da população geral",
+        "D) Viés de informação — participantes subestimaram a pressão arterial ao autorrelatar, gerando classificação incorreta dos casos"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Recrutar em academia sistematicamente seleciona pessoas saudáveis → viés de seleção que subestima a prevalência de doenças crônicas como HAS — não é erro aleatório, é erro sistemático. A) INCORRETA. Erro amostral aleatório diminui com n maior e gera IC amplo — mas não explica sistematicamente uma direção (subestimação). B) INCORRETA. Erro tipo II é falso negativo em teste de hipótese (não detecta diferença existente) — não é a terminologia correta para viés de seleção em estudo de prevalência. C) CORRETA. Viés de seleção (especificamente 'viés do trabalhador saudável' ou 'healthy worker bias'): academias selecionam pessoas com maior atividade física e menor carga de doenças → subestima prevalência de HAS. Como Hulley afirma: 'viés não diminui com n maior — maior certeza sobre resultado errado'. D) INCORRETA. Viés de informação ocorre quando a mensuração da variável é diferente entre grupos — mas aqui o problema é a composição da amostra, não a forma de medição.",
+      "tema": "bioe_a4",
+      "subfoco": "vies-selecao",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 188,
+      "materia": "bioestatistica",
+      "enunciado": "Pesquisador aplica o teste de Shapiro-Wilk (n=35) para verificar normalidade de uma variável contínua e obtém p=0,03. Qual é a interpretação correta e qual teste deve ser usado na comparação de dois grupos independentes? (Ref.: Altman, Practical Statistics for Medical Research; Pagano & Gauvreau)",
+      "opcoes": [
+        "A) p=0,03 é maior que 0,01 — confirma distribuição normal; usar teste t de Student bilateral",
+        "B) p=0,03 confirma distribuição normal por não atingir alfa convencional de 0,01; usar ANOVA",
+        "C) p=0,03 indica normalidade relativa aceitável em amostras pequenas; usar Kruskal-Wallis para dois grupos",
+        "D) p=0,03 é menor que 0,05 — rejeita H0 (H0: dados seguem distribuição normal); distribuição é não normal; usar Mann-Whitney U como alternativa não-paramétrica para dois grupos independentes"
+      ],
+      "correta": 3,
+      "explicacao": "Resumo: No Shapiro-Wilk, H0 = 'dados têm distribuição normal'. p=0,03 < 0,05 → rejeita H0 → dados NÃO são normais → usar teste não-paramétrico (Mann-Whitney para 2 grupos independentes). A) INCORRETA. p=0,03 é MENOR que 0,05 — rejeita normalidade. Comparar com 0,01 é erro de critério; o alfa convencional adotado é 0,05. B) INCORRETA. ANOVA é para 3 ou mais grupos, não para dois. Além disso, p=0,03 rejeita normalidade — ANOVA não seria adequada sem dados normais. C) INCORRETA. Kruskal-Wallis é alternativa à ANOVA (3 ou mais grupos) — para dois grupos independentes usa-se Mann-Whitney. D) CORRETA. Shapiro-Wilk: H0 = normalidade. p=0,03 < alfa (0,05) → rejeita H0 → distribuição não normal → para comparar dois grupos independentes sem normalidade = Mann-Whitney U (equivalente não-paramétrico ao teste t).",
+      "tema": "bioe_a4",
+      "subfoco": "shapiro-wilk-mann-whitney",
+      "dificuldade": 2,
+      "modulo": 4
+    },
+    {
+      "id": 189,
+      "materia": "bcm1",
+      "enunciado": "Laboratório recebe amostra de paciente suspeito de COVID-19. O médico requisita exame para confirmar infecção ativa pelo SARS-CoV-2 (vírus de genoma RNA). Qual técnica molecular é adequada e por quê? (Ref.: Alberts, Biologia Molecular da Célula, 6ª ed.)",
+      "opcoes": [
+        "A) PCR convencional com DNA polimerase termoestável — amplifica diretamente o RNA viral da amostra nasofaríngea",
+        "B) RT-PCR (PCR precedido de transcrição reversa) — a transcriptase reversa converte RNA viral em cDNA; o cDNA é então amplificado pela PCR, sendo o único método que detecta genoma de vírus RNA",
+        "C) PCR quantitativo (qPCR) sem etapa de transcrição reversa — quantifica partículas virais diretamente pela fluorescência do RNA",
+        "D) Southern blot — detecta o genoma RNA viral por hibridização com sonda específica sem necessidade de amplificação prévia"
+      ],
+      "correta": 1,
+      "explicacao": "Resumo: Vírus RNA (SARS-CoV-2, HIV, HCV, influenza) exige primeiro a conversão do RNA em cDNA pela transcriptase reversa → então PCR amplifica o cDNA. O ensaio completo é RT-qPCR para COVID-19. A) INCORRETA. PCR convencional trabalha com DNA molde — DNA Pol termoestável (Taq) não consegue ler diretamente RNA como molde; sem a etapa de transcrição reversa, o RNA viral não é amplificado. B) CORRETA. RT-PCR: transcriptase reversa (uma DNA polimerase RNA-dependente, como nos retrovírus) cria cDNA a partir do RNA viral → PCR amplifica o cDNA. O teste de COVID-19 era uma RT-qPCR (real-time). C) INCORRETA. qPCR detecta amplificação de DNA por fluorescência (SYBR Green ou TaqMan) — ainda precisa do cDNA como molde; não consegue quantificar RNA diretamente. D) INCORRETA. Southern blot detecta DNA, não RNA (Northern blot detecta RNA); além disso, não é ensaio diagnóstico de rotina para infecção viral ativa — sem amplificação, a sensibilidade seria baixíssima.",
+      "tema": "bcm1_a5",
+      "subfoco": "rt-pcr-virus-rna",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 190,
+      "materia": "bcm1",
+      "enunciado": "Durante a replicação do DNA, a fita retardada (lagging strand) é sintetizada de forma descontínua em fragmentos de Okazaki. Qual sequência correta de eventos resolve essa descontinuidade? (Ref.: Alberts, Biologia Molecular da Célula, 6ª ed.; Lehninger, Princípios de Bioquímica, 7ª ed.)",
+      "opcoes": [
+        "A) Primase sintetiza RNA primer em cada fragmento → DNA Pol sintetiza fragmento de Okazaki 5'→3' → RNase/DNA Pol I remove primer e preenche o gap → DNA ligase une os fragmentos",
+        "B) DNA Pol sintetiza continuamente na direção 3'→5' sem necessidade de primer → fragmentos se unem espontaneamente por termodinâmica",
+        "C) Helicase sintetiza primers de DNA diretamente → DNA Pol estende cada primer → topoisomerase une os fragmentos de Okazaki completados",
+        "D) Fragmentos de Okazaki são sintetizados por DNA Pol I sem primer, depois ligados pela DNA ligase na presença de ATP"
+      ],
+      "correta": 0,
+      "explicacao": "Resumo: Fita retardada: primase sintetiza RNA primer → DNA Pol III copia o fragmento de Okazaki → DNA Pol I remove primer e preenche → DNA ligase fecha os gaps. A) CORRETA. A sequência precisa: (1) Primase = sintetiza RNA primer curto (8-12 nt) para cada fragmento; (2) DNA Pol III/delta sintetiza fragmento de Okazaki 5'→3'; (3) RNase H e DNA Pol I removem o primer de RNA e preenchem o gap com DNA; (4) DNA Ligase (usa NAD+ em procariotos, ATP em eucariotos) sela a nick entre fragmentos. B) INCORRETA. DNA Pol NÃO sintetiza 3'→5' — lê o molde 3'→5' mas sintetiza sempre 5'→3'. Não existe síntese espontânea de fragmentos. C) INCORRETA. Helicase não sintetiza primers — sua função é desfazer a dupla fita (desenovilhamento). Topoisomerase remove superenrolamento, não une fragmentos. D) INCORRETA. DNA Pol I remove primers e preenche o gap, mas também precisa de primer para iniciar (usa a extremidade 3'-OH deixada pelo fragmento anterior). DNA Pol I é diferente de DNA ligase.",
+      "tema": "bcm1_a5",
+      "subfoco": "fragmentos-okazaki-fita-retardada",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 191,
+      "materia": "bcm1",
+      "enunciado": "As fluoroquinolonas (ciprofloxacino, levofloxacino) são antibióticos de amplo espectro. Qual é o mecanismo de ação correto dessas drogas a nível molecular? (Ref.: Katzung, Farmacologia Básica e Clínica, 15ª ed.; Alberts, Biologia Molecular da Célula, 6ª ed.)",
+      "opcoes": [
+        "A) Inibem a RNA polimerase beta bacteriana, impedindo a síntese do RNA mensageiro e a transcrição de genes essenciais",
+        "B) Inibem a síntese de peptidoglicana ao bloquear a transpeptidase (proteína ligadora de penicilina — PBP), causando lise osmótica",
+        "C) Inibem a DNA girase (topoisomerase II bacteriana) e a topoisomerase IV, impedindo o alívio do superenrolamento positivo durante a replicação e transcrição do DNA bacteriano → parada replicativa → morte bacteriana",
+        "D) Bloqueiam a subunidade 30S do ribossomo bacteriano, impedindo a ligação do tRNA aminoacil ao sítio A durante a tradução"
+      ],
+      "correta": 2,
+      "explicacao": "Resumo: Fluoroquinolonas = inibidores de topoisomerases II (DNA girase) e IV bacterianas → o DNA bacteriano não consegue relaxar o superenrolamento durante replicação e transcrição → morte celular. A) INCORRETA. Inibição de RNA polimerase beta bacteriana = mecanismo da rifampicina, não das fluoroquinolonas. B) INCORRETA. Bloqueio de transpeptidase (PBP) = mecanismo dos beta-lactâmicos (penicilinas, cefalosporinas, carbapenéns). C) CORRETA. Fluoroquinolonas: (1) DNA girase (topoisomerase II) = alvo principal em Gram-negativas; (2) Topoisomerase IV = alvo principal em Gram-positivas. Ambas são necessárias para remover o superenrolamento positivo gerado pela progressão da DNA Pol → sem alívio = replicação para → morte bacteriana. Seletividade: topoisomerases humanas têm estrutura diferente (menor afinidade pelas quinolonas). D) INCORRETA. Bloqueio do 30S = mecanismo de aminoglicosídeos (gentamicina) e tetraciclinas. Fluoroquinolonas não atuam em ribossomos.",
+      "tema": "bcm1_a5",
+      "subfoco": "fluoroquinolonas-topoisomerase",
+      "dificuldade": 1,
+      "modulo": 1
     }
   ]
 }

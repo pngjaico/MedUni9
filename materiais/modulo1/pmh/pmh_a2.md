@@ -1,257 +1,95 @@
-# PMH - Aula 2: Regulação Metabólica Geral
+# PMH — Aula 2: Regulação Metabólica Geral
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Regulação Metabólica Geral é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+O organismo alterna **catabolismo** e **anabolismo** conforme **disponibilidade de substrato**, **hormônios** e **demanda energética**. Entender **insulina**, **glucagon**, **cortisol**, **catecolaminas** e sensores intracelulares (**AMPK**, **mTOR**) explica por que o mesmo tecido **oxida gordura** em jejum e **armazena glicogênio** após refeição — e por que **diabetes**, **estresse** e **exercício** mudam o quadro metabólico inteiro.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Estados metabólicos: absorção vs jejum
 
-Para dominar Regulação Metabólica Geral, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**Pós-prandial (absorção):** glicose e aminoácidos elevados → **insulina** predomina → favorece **glicólise**, **síntese de glicogênio** e **lipogênese** em tecidos sensíveis.
 
-## Construção de Hipótese e Validação
+**Jejum prolongado:** queda de insulina, **glucagon** (e, em estresse, **cortisol** e **adrenalina**) → **glicogenólise**, **gliconeogênese**, **lipólise** e **cetogênese** hepáticos.
 
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Regulação Metabólica Geral fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Regulação Metabólica Geral com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Metabólica Geral.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Metabólica Geral está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Metabólica Geral, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Regulação Metabólica Geral aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** “Estado metabólico” não é humor: é **relação insulina/glucagon** + **disponibilidade de oxigênio** + **função hormonal**.
 
 ---
 
-## Pontos-Chave para Prova
+## Insulina e glucagon: eixos rápidos
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**Insulina** (ilhotas pancreáticas) sinaliza **abundância**: ativa receptores tirosina-quinase, mobiliza **GLUT4** no músculo/adiposo, inibe **gliconeogênese** hepática e favorece **armazenamento**.
+
+**Glucagon** sinaliza **jejum**: estimula **adenil ciclase** no fígado, **cAMP** e **fosforilação** de enzimas-chave (ex.: fosforilação que ativa **glicogenólise** e inibe **síntese de glicogênio**).
+
+> **Pegadinha:** Glucagon age com **efeito mais marcado no fígado**; insulina é **pan-tecidual** nos alvos sensíveis.
+
+---
+
+## Cortisol e catecolaminas
+
+**Cortisol** (crônico) favorece **gliconeogênese** e **proteólise** (fornecimento de substrato); **catecolaminas** aceleram **glicogenólise** e **lipólise** agudas. Em prova, cenários de **estresse** ou **IRA** costumam ligar **hiperglicemia** a esse **eixo neuroendócrino**.
+
+---
+
+## AMPK e mTOR: sensores intracelulares
+
+**AMPK** (proteína-quinase ativada por AMP) “detecta” **baixa energia** (razão AMP/ATP alta) e **inibe** vias consumidoras (ex.: síntese lipídica) enquanto **estimula** captação de glicose e **oxidação** — papel central em **exercício** e **jejum**.
+
+**mTOR** integra **sinal de nutrientes** e **insulina** para **regular síntese proteica** e crescimento; **inibição** de mTOR aparece em **restrição energética** e certas intervenções farmacológicas.
+
+---
+
+## Regulação alostérica e fosforilação
+
+Enzimas como **fosfofrutoquinase-1** (glicólise) e **piruvato desidrogenase** respondem a **substratos**, **ATP/ADP** e **fosforilação** hormona. **Isoformas teciduais** explicam por que o **fígado** e o **músculo** não se comportam igual.
+
+---
+
+## Comparativo: hormônio → efeito hepático típico
+
+| Sinal | Tendência no fígado (visão geral) |
+|-------|-----------------------------------|
+| Insulina alta | síntese de glicogênio; inibe gliconeogênese |
+| Glucagon | glicogenólise/gliconeogênese |
+| Cortisol (sustentado) | substrato para gliconeogênese |
+
+---
+
+## Exercício físico: leitura rápida
+
+No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **glicogenólise** e **anaerobiose** dominam. Por isso o mesmo hormônio basal não descreve **maratonista** vs **levantador** — o **contexto** muda o **fluxo**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Regulação Metabólica Geral aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**DM2** com **resistência insulínica** força o organismo a manter **hiperinsulinemia** para compensar; **jejum** no **DM1** sem insulina exógena desencadeia **cetose** por **excesso relativo** de contrarreguladores. **Sepse** mistura **resistência insulínica** e **hipermetabolismo** — o mapa hormonal desta aula é o mapa dos **distúrbios glicêmicos** na UTI e no ambulatório.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Insulina** = armazenamento; **glucagon** = mobilização (fígado em destaque).
+- **AMPK** = baixa energia intracelular; **mTOR** = nutrientes/crescimento.
+- **Cortisol/catecolaminas** = estresse agudo/crônico e hiperglicemia.
+- **Estado prandial** define predominância de vias anabólicas vs catabólicas.
 
 ---
 
@@ -261,24 +99,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Insulina** ativa armazenamento; **glucagon** mobiliza substratos hepáticos.
+- **AMPK** responde a **AMP/ATP**; **mTOR** a **nutrientes** e **insulina**.
+- **Cortisol** prolonga **gliconeogênese**; **adrenalina** acelera **glicogenólise** muscular/hepática.
+- **Regulação** mistura **alosterismo** e **fosforilação** por cascatas hormonais.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Insulina | Glucagon | Insulina = pós-prandial; glucagon = jejum (fígado). |
+| AMPK | mTOR | AMPK = “falta energia”; mTOR = “crescimento com nutrientes”. |
+| Resistência insulínica | Deficiência absoluta de insulina | DM2 vs DM1 — mecanismo e cetose diferem. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Hormônio não ‘queima caloria’ — redireciona fluxo metabólico.”

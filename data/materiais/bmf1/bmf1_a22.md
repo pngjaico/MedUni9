@@ -1,272 +1,77 @@
-# BMF1 - Aula 22: Prática — Sistema Digestório em Anatomia
+# BMF1 — Aula 22: Prática — Sistema Digestório em Anatomia
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Prática — Sistema Digestório em Anatomia é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+Esta aula **integra** peça, **modelo** e **checklist**: você deve **navegar** da **boca** ao **ânus** sem **saltos**, nomeando **curvaturas**, **válvulas**, **peritônio** e **vasos** principais. O objetivo não é **listar** tudo, e sim **explicar relações** que aparecem em **estação prática** e **prova** integrada (**anatomia** + **clínica** leve).
 
 ---
 
-## Organização Topográfica
-
-A leitura de Prática — Sistema Digestório em Anatomia começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
-
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Prática — Sistema Digestório em Anatomia fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Prática — Sistema Digestório em Anatomia com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Sistema Digestório em Anatomia.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Sistema Digestório em Anatomia está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Sistema Digestório em Anatomia, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Prática — Sistema Digestório em Anatomia aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## Roteiro em peça ou modelo (ordem fixa)
+
+| Etapa | Estrutura | Pergunta que você se faz |
+|-------|-----------|--------------------------|
+| 1 | **Cavidade oral** → **faringe** | Onde **termina** oral e começa **orofarínge**? |
+| 2 | **Esôfago** | **Tórax** versus **abdome**; relação com **traqueia** |
+| 3 | **Estômago** | **Curvaturas**, **piloro**, **omento** maior |
+| 4 | **Fígado** e **vesícula** | **Porta**, **lobos**, **duodeno** |
+| 5 | **Delgado** e **mesentério** | **Válvula ileocecal** |
+| 6 | **Cólon** e **apêndice** | **Taenias** e **base cecal** |
+| 7 | **Reto** e **ânus** | **Continuidade** pélvica |
+
+> **Dica de Prova:** Sempre **orientar** o modelo: **direita/esquerda** do **cadáver** = **paciente** em **decúbito dorsal** com **braços** ao lado.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A22-F01`
+
+- **Momento:** após roteiro em etapas.
+- **O que mostrar:** vista anterior do abdome com órgãos digestórios principais e moldura do cólon.
+- **Tipo sugerido:** ilustração estilo atlas ou foto de modelo didático.
+- **Legenda (rascunho):** “Visão integrada do tubo digestório e vísceras associadas.”
+- **Notas (opcional):** Commons “abdominal organs anterior view”.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos de junção que não podem falhar
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+- **Cardias** e **esfíncter** esofágico inferior (conceito funcional).
+- **Piloro** — fronteira **estômago**–**duodeno**.
+- **Ampola** duodenal — **bile** e **suco pancreático**.
+- **Válvula ileocecal** — **delgado**–**grosso**.
+- **Linha pectínea** / transição **reto-anal** (detalhe anatômico — varia com atlas).
+
+---
+
+## Vasos e nervos: modo “âncora”
+
+Antes de decorar **todos** os ramos, memorize **celíaca**–**AMS**–**AMI** e **veia porta** (**bmf1_a20**), **VII** na **parótida** e **XII** na **língua** (**bmf1_a17**), e **porta hepática** (**bmf1_a21**). Isso **segura** 80% das questões de **integração** de BMF1.
+
+---
+
+## Erros comuns na prática de sala
+
+Confundir **face anterior** do **fígado** com **superior**; esquecer que **cólon transverso** pendura do **meso**; rotular **íleo** como **jejuno** sem olhar **calibre** e **posição**. Use **referências** ósseas (**crista ilíaca**, **processo xifoide**) para **fixar** o modelo.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Prática — Sistema Digestório em Anatomia aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Na **semiologia** futura, **abdome agudo** será **localização** da dor + **exame** — a **anatomia** que você pratica na peça é o **mapa** mental para **apendicite**, **cólica** **biliar** e **obstrução**. **Laparoscopia** usa os **mesmos** **pontos** de entrada com **visão** **câmera** — **portais** e **triângulos** reaparecem.
+
+---
+
+## Pontos-Chave para Prova
+
+- Sequência **oral → faringe → esôfago → estômago → duodeno** sem atalhos.
+- **Válvula ileocecal** e **apêndice**.
+- **Fígado** + **vesícula** + **colédoco** até **duodeno**.
+- **Três** artérias **mesentéricas** e **ideia** de **território**.
+- **Peritônio** **parietal**/**visceral** e **meso** do **delgado**.
 
 ---
 
@@ -276,24 +81,26 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Percorrer o **tubo** digestório em **2 minutos** falando alto.
+- Apontar **três** estruturas na **porta hepática**.
+- Dizer onde está a **válvula ileocecal** sem olhar o texto.
+- Uma **diferença** macro **jejuno**/**íleo** aceitável.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Piloro | Válvula ileocecal | Estômago–duodeno vs delgado–grosso |
+| Omento maior | Mesentério | Estômago/cólon transverso vs jejuno-íleo |
+| Vesícula | Apêndice | Hipocôndrio direito vs FID |
+| Cólon ascendente | Descendente | Direita vs esquerda do abdome |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Prática boa é roteiro falado: se travar antes do duodeno, volta à boca e recomeça devagar.”
+
+---
+
+## Referências de estudo
+
+Revisão encadeada das aulas **bmf1_a17** a **bmf1_a21**; Moore + Netter como atlas de apoio na mesma sessão de estudo.

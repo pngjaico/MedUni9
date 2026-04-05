@@ -1,4 +1,4 @@
-# Distúrbios de Diferenciação Sexual
+﻿# Distúrbios de Diferenciação Sexual
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Os distúrbios da diferenciação sexual (DDS) — antes chamados de "intersexo"
 
 A Uninove costuma cobrar os mecanismos moleculares básicos da diferenciação sexual normal (gene SRY, testosterona, hormônio anti-mülleriano), bem como três condições clássicas: síndrome de insensibilidade aos andrógenos, hiperplasia congênita das suprarrenais e síndrome de Turner. O entendimento preciso de cada um evita erros frequentes sobre fenótipo vs. cariótipo.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A16-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Diferenciação Sexual Normal — Bases Moleculares
 
@@ -180,3 +195,11 @@ Sem 21-OH → cortisol ↓ → ACTH ↑ (feedback negativo ausente) → hiperpla
 ### Frase-âncora para não esquecer
 
 > "SRY comanda o testículo, que envia 3 mensageiros: Testosterona (viriliza por dentro), DHT (viriliza por fora) e AMH (apaga o Müller). Se qualquer mensageiro falha, o feminino prevalece — mas os detalhes clínicos identificam ONDE a falha ocorreu."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

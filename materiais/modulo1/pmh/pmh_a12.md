@@ -1,257 +1,90 @@
-# PMH - Aula 12: Biossíntese e Degradação de Nucleotídeos
+# PMH — Aula 12: Biossíntese e Degradação de Nucleotídeos
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Biossíntese e Degradação de Nucleotídeos é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+**Nucleotídeos** sustentam **DNA/RNA**, **ATP/GTP**, **cofatores** (**NAD**, **FAD**, **CoA**) e **segundos mensageiros** (**cAMP**). A **biossíntese de purinas e pirimidinas** difere: **purinas** montam-se sobre **ribose**; **pirimidinas** sintetizam **anel** antes de ligar à **ribose**. Inibidores como **metotrexato**, **5-FU** e **alopurinol** atuam nessas vias — ponte direta com **onco**, **gota** e **imunossupressão**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A12-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Vias de síntese: visão geral
 
-Para dominar Biossíntese e Degradação de Nucleotídeos, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**Via *de novo***: constrói bases a partir de **aminoácidos**, **CO₂** e **tetraidrofolato** (THF).
 
-## Construção de Hipótese e Validação
+**Via de recuperação (salvage):** **bases livres** + **PRPP** → nucleotídeo — **economiza energia**; hipoxantina-guanina fosforibosiltransferase (**HGPRT**) participa.
 
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Biossíntese e Degradação de Nucleotídeos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Biossíntese e Degradação de Nucleotídeos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Biossíntese e Degradação de Nucleotídeos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Biossíntese e Degradação de Nucleotídeos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Biossíntese e Degradação de Nucleotídeos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Biossíntese e Degradação de Nucleotídeos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **PRPP** (fosforibosil pirofosfato) é **substrato comum** ativador de vias de nucleotídeos.
 
 ---
 
-## Pontos-Chave para Prova
+## Purinas: ramificação para inosina
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**IMP** é precursor de **AMP** e **GMP**. **Lesch-Nyhan:** deficiência de **HGPRT** → **acúmulo de ácido úrico** e **comportamento** neurológico.
+
+---
+
+## Pirimidinas: síntese e regulação
+
+**Aspartato** + **carbamoil fosfato** iniciam a via **pirimidínica** (precursores até **orotato** → **UMP**). **CTP sintetase** amina **UTP** → **CTP**.
+
+**Enzima limitante:** **CAD** (carbamoil fosfato sintetase II — **citoplasmática**, diferente da **mitocondrial** do ciclo da ureia).
+
+---
+
+## Degradação de purinas → ácido úrico
+
+**Guanina** e **adenina** degradam-se a **urato** (forma ionizada do **ácido úrico**). **Xantina oxidase** converte **hipoxantina** → **xantina** → **urato**.
+
+**Alopurinol** inibe **xantina oxidase** — ↓ **urato** em **gota** e **síndrome de lise tumoral**.
+
+> **Pegadinha:** **Hiperuricemia** ≠ **gota** sempre — cristais e inflamação definem **ataque**.
+
+---
+
+## Ribonucleotídeo redutase
+
+Converte **NDP** → **dNDP** para **DNA** — alvo de **hidroxiureia** e regulação do **pool** de precursores; liga **síntese** de **DNA** a **divisão celular**.
+
+**Timidilato sintase** gera **dTMP** a partir de **dUMP** — alvo do **5-fluorouracil** (análogo de **uracilo**).
+
+---
+
+## Comparativo purina vs pirimidina
+
+| | Purinas | Pirimidinas |
+|---|---------|-------------|
+| Anel | duplo anel | anel simples |
+| Exemplo | AMP, GMP | CMP, UMP, TMP |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Biossíntese e Degradação de Nucleotídeos aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Lise tumoral** pós-quimio → **ácidos nucleicos** liberados → **urato** ↑ → **nefropatia por ácido úrico** se não hidratar/alopurinol. **Metotrexato** compete por **folato** — **mucosite**, **mielossupressão**. **Gota** tofácea e **ácido úrico** — tratamento agudo vs profilático.
+
+---
+
+## Pontos-Chave para Prova
+
+- **PRPP** e **THF** são pivôs de síntese.
+- **HGPRT** — via **salvage**; deficiência = **Lesch-Nyhan**.
+- **Xantina oxidase** — alvo do **alopurinol**.
+- **Pirimidinas** começam com **carbamoil fosfato citoplasmático** (CAD).
 
 ---
 
@@ -261,24 +94,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Purinas: **IMP** ramifica para **AMP/GMP**.
+- **Uratos** precipitam em **articulação** (gota) e **rim**.
+- **Inibidores** de síntese (anticâncer) exploram **divisão celular rápida**.
+- **Síndrome de lise** monitorar **urato** e **função renal**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| CPS I ureia | CPS II pirimidina | Mitocôndria vs citoplasma; funções distintas. |
+| Hiperuricemia | Gota | Cristais + inflamação = gota. |
+| Metotrexato | 5-FU | Folato vs timidilato sintase — mecanismos diferentes. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Nucleotídeo alimenta genoma e cofator — e vira alvo de quimio.”

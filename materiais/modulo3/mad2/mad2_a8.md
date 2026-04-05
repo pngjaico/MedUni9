@@ -11,6 +11,19 @@ Hepatite viral é um tema clássico porque obriga o aluno a juntar clínica, epi
 
 Na prática, esse é um assunto que influencia triagem de gestante, acompanhamento ambulatorial, prevenção populacional e abordagem de hepatopatia aguda ou crônica. Na Uninove, a pergunta costuma explorar exatamente isso: o vírus certo aparece quando você cruza história, sorologia e tempo de doença.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Hepatites A e E: a lógica da transmissão entérica

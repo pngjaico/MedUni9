@@ -1,10 +1,25 @@
-# Hepatites Virais (A, B, C, D, E)
+﻿# Hepatites Virais (A, B, C, D, E)
 
 ## Relevância Clínica e Acadêmica
 
 As hepatites virais são infecções hepáticas causadas por vírus hepatotrópicos distintos, com vias de transmissão, curso clínico e consequências muito diferentes. Hepatite B é a principal causa mundial de cirrose e carcinoma hepatocelular viral, enquanto hepatite C é altamente curável com antivirais de ação direta. A Uninove cobra especialmente os marcadores sorológicos do HBV (HBsAg, anti-HBc, anti-HBs) e as vias de transmissão/prevenção de cada vírus.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A18-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Visão Geral Comparativa
 
@@ -190,3 +205,11 @@ As hepatites virais são infecções hepáticas causadas por vírus hepatotrópi
 ### Frase-âncora para não esquecer
 
 > "No HBV, leia na ordem: HBsAg (tem vírus?) → anti-HBs (está protegido?) → anti-HBc IgM (é agudo?). Na hepatite C, anti-HCV é o sinal de alerta, mas só o PCR confirma a infecção ativa — e hoje > 95% tem cura com os novos antivirais."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

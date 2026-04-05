@@ -9,6 +9,17 @@
 
 O **Pacto pela Vida** organiza prioridades do Ministério da Saúde em torno de **resultados em saúde** e **redução de risco** em temas de alto impacto epidemiológico e social. Em prova, aparece ligado a **programas** (saúde do idoso, câncer de colo e mama, mortalidade materno-infantil, vigilância de doenças emergentes e endemias). O estudante precisa saber **o que é pactuação**, **quais metas simbólicas** se buscam e **como isso desce para APS e vigilância** — não apenas o nome dos programas.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## O que é “pactuação” no SUS

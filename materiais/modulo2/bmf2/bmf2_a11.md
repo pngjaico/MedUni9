@@ -1,4 +1,4 @@
-# BMF2 — Aula 11: Histologia do Sistema Respiratório
+﻿# BMF2 — Aula 11: Histologia do Sistema Respiratório
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A histologia do sistema respiratório é o alicerce para compreender doenças co
 
 Os alvéolos merecem atenção especial: é no nível histológico que se entende por que a membrana alvéolo-capilar é tão eficiente para a difusão gasosa, e por que sua espessura aumentada (como no edema pulmonar ou na fibrose) prejudica a oxigenação. A Uninove costuma integrar histologia com fisiologia respiratória em questões que testam a capacidade de correlacionar estrutura e função.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A11-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Organização Histológica Geral das Vias Aéreas
 
@@ -141,3 +156,11 @@ A **asma** é uma doença inflamatória das vias aéreas caracterizada por hiper
 ### Frase-âncora para não esquecer
 
 > "Tipo I é fino para difundir; Tipo II é cheio de corpos lamelares para criar surfactante e renascer após lesão."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

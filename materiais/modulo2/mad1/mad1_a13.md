@@ -1,4 +1,4 @@
-# Infecções Bacterianas do Sistema Tegumentar
+﻿# Infecções Bacterianas do Sistema Tegumentar
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções de pele e partes moles são algumas das mais comuns na prática m
 
 A Uninove cobra o diagnóstico diferencial das infecções de pele pelo agente etiológico, as síndromes mediadas por toxinas (*S. aureus*) e os critérios de classificação da hanseníase.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A13-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Staphylococcus aureus
 
@@ -175,3 +190,11 @@ Nervos mais afetados:
 ### Frase-âncora para não esquecer
 
 > "*Staphylococcus* cachos, *Streptococcus* correntes — ambos causam infecção de pele, mas só o Estrepto causa febre reumática. Hanseníase: o único bacilo que destrói silenciosamente os nervos da pele."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

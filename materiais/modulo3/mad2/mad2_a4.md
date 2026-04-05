@@ -11,6 +11,19 @@ Transplante e transfusão são dois cenários em que imunologia sai do papel e v
 
 Na Uninove, essa aula costuma aparecer em questões clínicas objetivas com foco em mecanismo: rejeição hiperaguda versus aguda, hemólise transfusional imediata versus reação febril não hemolítica, e conduta inicial segura. Quem entende o porquê de cada reação acerta a prova com menos esforço e erra menos na prática.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Antes de qualquer transplante: compatibilidade não é formalidade

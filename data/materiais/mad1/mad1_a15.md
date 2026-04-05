@@ -1,4 +1,4 @@
-# Infecções por Gram-negativas e Mycobacterium tuberculosis
+﻿# Infecções por Gram-negativas e Mycobacterium tuberculosis
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções por Gram-negativas e pela tuberculose representam desafios clíni
 
 A Uninove cobra o diagnóstico de TB (critérios, PPD, BAAR, RX), os esquemas de tratamento (RIPE) e o diagnóstico diferencial das pneumonias por Gram-negativas, especialmente em contexto hospitalar.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A15-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Enterobactérias — Visão Geral
 
@@ -184,3 +199,11 @@ Indicação de tratar (isoniazida 270 dias ou rifampicina 120 dias):
 ### Frase-âncora para não esquecer
 
 > "RIPE são as quatro armas contra a TB: R de rifampicina (cuidado com ACO), I de isoniazida (repor vitamina B6), P de pirazinamida (cuidado com gota), E de etambutol (cuidado com a visão)."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

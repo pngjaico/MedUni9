@@ -1,4 +1,4 @@
-# Imunização — Tipos de Vacinas
+﻿# Imunização — Tipos de Vacinas
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A vacinação é uma das intervenções de saúde pública mais eficazes da hist
 
 Para o médico em formação, entender os tipos de vacinas é essencial para orientar pacientes, respeitar contraindicações (especialmente em imunossuprimidos) e compreender falhas vacinais. A Uninove frequentemente cobra as diferenças entre imunização ativa/passiva, natural/artificial, e quais vacinas são contraindicadas em gestantes e imunossuprimidos.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A6-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Conceitos Fundamentais
 
@@ -179,3 +194,11 @@ Substâncias que aumentam a imunogenicidade:
 ### Frase-âncora para não esquecer
 
 > "Imunossuprimido não pode receber vacina viva — como não se entrega um tigre domado para quem não tem força de segurá-lo. Use vacinas mortas (inativadas/subunidades): seguras para todos."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

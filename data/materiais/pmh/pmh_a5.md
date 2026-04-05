@@ -1,257 +1,91 @@
-# PMH - Aula 5: Metabolismo de Glicogênio e Via das Pentoses
+# PMH — Aula 5: Metabolismo de Glicogênio e Via das Pentoses-Fosfato
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Metabolismo de Glicogênio e Via das Pentoses é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+O **glicogênio** é o **estoque rápido** de glicose em **fígado** e **músculo**. **Glicogenólise** e **glicogênese** respondem em minutos a **glucagon/insulina** e **epinefrina**. A **via das pentoses-fosfato (PPP)** gera **NADPH** e **ribose-5-fosfato** — indispensável para **defesa antioxidante**, **síntese de ácidos graxos** e **nucleotídeos**. Doenças como **deficiência de G6PD** aparecem diretamente nesta aula.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Glicogênio: onde e para quê
 
-Para dominar Metabolismo de Glicogênio e Via das Pentoses, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+- **Fígado:** armazena glicogênio para **manter glicemia** (exporta glicose via **glicose-6-fosfatase**).
+- **Músculo:** armazena para **uso local** (sem G6Pase → sem exportação de glicose livre).
 
-## Construção de Hipótese e Validação
-
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Metabolismo de Glicogênio e Via das Pentoses fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Metabolismo de Glicogênio e Via das Pentoses com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Metabolismo de Glicogênio e Via das Pentoses.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Metabolismo de Glicogênio e Via das Pentoses está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Metabolismo de Glicogênio e Via das Pentoses, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Metabolismo de Glicogênio e Via das Pentoses aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** Glicogênio muscular alimenta **exercício**; hepático alimenta **jejum** e **cérebro**.
 
 ---
 
-## Pontos-Chave para Prova
+## Glicogenólise: enzima-chave
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**Glicogênio fosforilase** cliva **α-1,4** liberando **glicose-1-fosfato** → **glicose-6-fosfato**. **Ramificações α-1,6** exigem **enzima de desramificação** (transferase + glucosidase).
+
+**Regulação:** **fosforilação** ativa fosforilase no **músculo** (cascata **AMP**); **glucagon** ativa vias hepáticas via **cAMP**.
+
+---
+
+## Glicogênese: síntese e ramificação
+
+**Glicogênio sintase** forma **α-1,4**; **enzima ramificadora** cria **α-1,6**. **UDP-glicose** é doadora de glicose.
+
+**Insulina** favorece **desfosforilação** ativando **sintase** e inibindo **fosforilase** (recíproco).
+
+---
+
+## Via das pentoses-fosfato (PPP)
+
+**Fase oxidativa:** **glicose-6-fosfato desidrogenase (G6PD)** oxida G6P → **6-fosfogluconolactona** → **NADPH**.
+
+**NADPH** sustenta **glutationa reduzida** (detox de **peróxidos**) e **síntese lipídica**.
+
+**Fase não oxidativa:** rearranja carbonos para **ribose-5P** (nucleotídeos) ou reverte para **glicólise/gliconeogênese**.
+
+> **Pegadinha:** **PPP** não gera ATP diretamente — gera **NADPH** e **açúcares pentoses**.
+
+---
+
+## Deficiência de G6PD
+
+**Hemólise** sob **estresse oxidativo** (fármacos, infecção, favas) por **NADPH** insuficiente para manter **glutationa**. **Herança ligada ao X** — mais sintomática em **hemizigotos masculinos**.
+
+---
+
+## Comparativo rápido
+
+| Via | Produto principal | Tecido-chave |
+|-----|-------------------|--------------|
+| Glicogênio | glicose mobilizável | fígado/músculo |
+| PPP (oxidativa) | **NADPH** | fígado, adipócitos, hemácias |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Metabolismo de Glicogênio e Via das Pentoses aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Paciente **G6PD deficiente** com **anemia hemolítica** após **primaquina** ou **antimalárico** — liga **farmaco** a **via**. **Glicogenoses** (defeitos enzimáticos) causam **hipoglicemia** ou **cardiomiopatia** conforme o passo bloqueado — o mapa **glicogênio** é o mapa do **teste ergométrico** e da **biopsia** em alguns casos.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Fosforilase** = degradação; **sintase** = síntese; regulação **recíproca**.
+- **Fígado** exporta glicose; **músculo** não.
+- **PPP:** **G6PD** e **NADPH**; sensível a **estresse oxidativo**.
+- **G6PD** = hemólise induzida por **drogas** e **infecção**.
 
 ---
 
@@ -261,24 +95,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Glicogênio hepático** vs **muscular** — papel na **glicemia**.
+- **Glucagon/insulina** regulam **fosforilação** de enzimas glicogênicas.
+- **PPP** fornece **NADPH** e **ribose**; não substitui **glicólise** para ATP rápido.
+- **G6PD** — deficiência mais comum de enzima humana em provas clínicas.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Glicogenólise hepática | Muscular | Só fígado **libera glicose** livre (G6Pase). |
+| NADPH | NADH | NADPH = anabolismo/defesa; NADH = ETC energética. |
+| PPP | Glicólise | PPP não substitui oxidação completa de glicose para ATP. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Glicogênio é bateria de curto prazo; PPP é cofre de NADPH.”

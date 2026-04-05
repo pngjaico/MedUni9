@@ -9,6 +9,17 @@
 
 O **Pacto pela Gestão** organiza a responsabilidade dos gestores em torno de **planejamento**, **financiamento**, **indicadores** e **articulação em rede**. O conceito central para a prova é a **Rede de Atenção à Saúde (RAS)**: um arranjo organizativo de ações e serviços integrados que deve garantir **continuidade do cuidado** em todos os níveis de atenção. A **regionalização** e o **Decreto nº 7.508/2011** aparecem como marco para **ordenar** oferta e **contratualizar** redes.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A6-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## O que é RAS (Rede de Atenção à Saúde)

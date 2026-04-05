@@ -1,4 +1,4 @@
-# Hipersensibilidades (Tipos I a IV)
+﻿# Hipersensibilidades (Tipos I a IV)
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As hipersensibilidades são respostas imunes exageradas ou inadequadas que causa
 
 A Uninove frequentemente apresenta um quadro clínico e pede ao aluno identificar o tipo de hipersensibilidade envolvido, qual mediador está em jogo e qual o tratamento adequado. Saber os exemplos-chave de cada tipo é indispensável.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A10-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Visão Geral
 
@@ -178,3 +193,11 @@ Não envolve anticorpos — mediada por **linfócitos T CD4+ (e CD8+)**
 ### Frase-âncora para não esquecer
 
 > "I = Imediato (IgE + mastócito); II = célula-alvo destruída; III = complexos caem como bomba nos vasos; IV = tarde mas certeiro (T celular). Ordem = velocidade decrescente."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

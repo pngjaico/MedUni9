@@ -1,10 +1,25 @@
-# BCM1 — Aula 5: Replicação do DNA e PCR
+﻿# BCM1 — Aula 5: Replicação do DNA e PCR
 
 ## Relevância Clínica e Acadêmica
 
 A replicação fiel do DNA é a garantia da transmissão do material genético a cada divisão celular. Quando esse processo falha, surgem mutações que podem culminar em câncer ou doenças genéticas. Além disso, as enzimas envolvidas na replicação são alvos específicos de antibióticos (fluoroquinolonas, sulfonamidas) e antivirais (aciclovir), tornando este conteúdo diretamente relevante para farmacologia. A PCR — reação em cadeia da polimerase — é a tecnologia que revolucionou o diagnóstico médico e que teve seu papel dramático ampliado durante a pandemia de COVID-19: entender seus princípios permite compreender desde o diagnóstico molecular de HIV até a detecção de BRCA1/2  em triagem oncológica.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Replicação do DNA em Procariotos vs Eucariotos
 
@@ -127,3 +142,11 @@ O **aciclovir** inibe a DNA Pol viral do herpesvírus: após ser ativado pela ti
 ### Frase-âncora para não esquecer
 
 > "DNA Pol não começa do zero — precisa do primer de RNA. PCR imita a replicação com calor: 95°C separa, resfria para anelar, 72°C para copiar. A Taq não morre de calor — vem de uma bactéria termal."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

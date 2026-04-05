@@ -1,4 +1,4 @@
-# IND — Aula 9: Bioestatística — Conceitos e Tipos de Variáveis
+﻿# IND — Aula 9: Bioestatística — Conceitos e Tipos de Variáveis
 
 **Disciplina:** Indicadores de Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Bioestatística entra na prova para garantir que o aluno saiba interpretar números de forma crítica, e não apenas reproduzir fórmulas. A Uninove costuma cobrar conceitos de população, amostra e tipos de variáveis como base para escolher análise adequada.
 
 Na prática, esse conhecimento evita conclusões erradas em pesquisa e em leitura de boletins epidemiológicos.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `IND-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Conceitos que Organizam a Análise
 
@@ -24,6 +37,17 @@ A **população** é o conjunto total de interesse; a **amostra** é a fração 
 Quando a variável é categórica, medidas de frequência e proporção costumam ser mais adequadas. Para variáveis numéricas, entram medidas de tendência central e dispersão. Em prova, o erro clássico é escolher método estatístico incompatível com o tipo de dado.
 
 A bioestatística, aqui, funciona como linguagem para transformar observação em evidência confiável.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Bioestatística — Conceitos e Tipos de Variáveis
+
+Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ A bioestatística, aqui, funciona como linguagem para transformar observação e
 ### Frase-âncora para não esquecer
 
 > "Na estatística, acertar o tipo de variável já é metade da questão."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Bioestatística — Conceitos e Tipos de Variáveis** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
+| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
+| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Gordis L. *Epidemiologia*. Elsevier.
+- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
+- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.

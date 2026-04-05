@@ -11,6 +11,19 @@ Exantema viral parece um tema pediátrico simples até o estudante perceber que 
 
 Isso importa muito no Brasil porque essas doenças não são apenas capítulos históricos. Baixa cobertura vacinal, surtos e risco gestacional mantêm o tema vivo. Na prática, reconhecer cedo o padrão certo muda isolamento, vigilância e orientação de contato.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Sarampo: a virose exantemática que nunca deve ser subestimada

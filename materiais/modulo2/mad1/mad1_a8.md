@@ -1,4 +1,4 @@
-# Tolerância Imunológica e Autoimunidade
+﻿# Tolerância Imunológica e Autoimunidade
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A tolerância imunológica é o mecanismo pelo qual o sistema imune aprende a n�
 
 O tema é relevante tanto para a prática clínica quanto para o ENEM e residências médicas. A Uninove frequentemente cobra os mecanismos de tolerância (central vs. periférica), os fatores que induzem autoimunidade e as doenças autoimunes mais prevalentes.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Tolerância Central
 
@@ -144,3 +159,11 @@ Mecanismos para lidar com linfócitos autorreativos que escapam da tolerância c
 ### Frase-âncora para não esquecer
 
 > "Tolerância é a escola do sistema imune: o timo ensina (central) e a periferia pune quem burla as regras (anergia, Treg). Quando a escola falha, o sistema vira contra si mesmo — autoimunidade."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

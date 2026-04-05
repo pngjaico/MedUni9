@@ -1,272 +1,88 @@
-# BMF1 - Aula 16: Prática — Histologia do Tegumento e Tecido Adiposo
+# BMF1 — Aula 16: Prática — Histologia do Tegumento e Tecido Adiposo
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Prática — Histologia do Tegumento e Tecido Adiposo é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+Na **prática de microscopia**, pele e **tecido adiposo** são lâminas frequentes: treinar o olho para **epitélio estratificado**, **derme** com **colágeno** e **adipócitos** com **gordura** dissolvida em rotina HE evita confundir artefato com patologia. Em prova, descrever **do superficial ao profundo** e saber **branco** versus **marrom** ancora metabolismo, termorregulação e obesidade na fisiologia posterior.
 
 ---
 
-## Organização Topográfica
+## Roteiro na lâmina de pele
 
-A leitura de Prática — Histologia do Tegumento e Tecido Adiposo começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+| Etapa | O que procurar primeiro |
+|-------|-------------------------|
+| 1 | Limite **epiderme/derme** — epiderme mais **basofílica** em geral |
+| 2 | **Papilas** dérmicas projetando-se na epiderme |
+| 3 | **Folículo** piloso e **glândulas** sebáceas em corte oblíquo |
+| 4 | **Estrato córneo** espessado na **pele espessa** |
 
-## Camadas, Compartimentos e Relações
+> **Dica de Prova:** “Epiderme **sem vasos**” — se ver estruturas parecidas com capilares na camada mais superficial, reveja se não é **derme** invaginando.
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+### Figura sugerida
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
+**Figura-ID:** `BMF1-A16-F01`
 
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Prática — Histologia do Tegumento e Tecido Adiposo fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Prática — Histologia do Tegumento e Tecido Adiposo com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Prática — Histologia do Tegumento e Tecido Adiposo.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Prática — Histologia do Tegumento e Tecido Adiposo está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Prática — Histologia do Tegumento e Tecido Adiposo, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Prática — Histologia do Tegumento e Tecido Adiposo aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após roteiro da lâmina de pele.
+- **O que mostrar:** micrografia HE de pele com epiderme, derme papilar/reticular e anexo (folículo ou glândula).
+- **Tipo sugerido:** fotomicrografia com legenda.
+- **Legenda (rascunho):** “Pele: limite epiderme–derme e anexos.”
+- **Notas (opcional):** Commons “skin histology HE”.
 
 ---
 
-## Pontos-Chave para Prova
+## Epiderme na lâmina: correlacionar camada com nome
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Do ápice à base: **córneo** (anucleado, rosado), **granuloso** (grânulos), **espinhoso** (núcleo central), **basal** (células em paliçada). Em **pele delgada**, o córneo é fino — não “some” a histologia, só **encolhe**.
+
+---
+
+## Derme: papilar versus reticular
+
+**Papilar** — **tecido conjuntivo frouxo**, **fibroblastos**, **vasos** finos; **reticular** — **fibras de colágeno** mais grossas e organizadas. A **transição** não é linha traçada a régua — descreva **gradual**.
+
+---
+
+## Tecido adiposo branco
+
+**Adipócitos** únicos armazenam **grande gota** de **triglicerídeos** (único grande vacúolo em HE parece célula “vazia” com núcleo periférico **achatado**). **Septos** de **colágeno** separam **lóbulos**. Função: **reserva energética**, **isolamento** mecânico e **térmico**, **cushion** para órgãos.
+
+---
+
+## Tecido adiposo marrom
+
+Mais presente em **lactentes** e regiões específicas no adulto. **Múltiplas gotículas** de gordura e **mitocôndrias** com **proteína desacopladora** (UCP1) — **termogênese** não tremulante. Compare **único vacúolo** (branco) versus **multilocular** (marrom).
+
+| Característica | Branco | Marrom |
+|----------------|--------|--------|
+| Vacúolos | Um (único) | Vários |
+| Função principal | Reserva | Calor (adaptativo) |
+| Cor em lâmina | Claro, núcleo fino | Mais eosinofílico granular |
+
+---
+
+## Erros comuns na prática de bancada
+
+**Bolhas de montagem** ou **dobra** da lâmina podem simular **cavidade**; **corte oblíquo** do **folículo** parece **círculo** múltiplo. Sempre **baixa** para **média** aumento antes de concluir.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Prática — Histologia do Tegumento e Tecido Adiposo aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Lipoatrofia** local e **lipodistrofias** mostram que **anatomia** do **compartimento** adiposo importa para **insulina** e **injeções**. **Gordura visceral** versus **subcutânea** tem correlações metabólicas — aqui você fixa **histologia**; **epidemiologia** vem em outras disciplinas.
+
+---
+
+## Pontos-Chave para Prova
+
+- Epiderme **avascular**; derme **vascularizada**.
+- **Adipócito branco** — **núcleo periférico** e **grande vacúolo**.
+- **Marrom** — **multilocular** e **termogênese** (conceito).
+- Papilar **frouxo**; reticular **denso**.
+- Diferença **pele espessa** versus **fina** no **córneo**.
 
 ---
 
@@ -276,24 +92,26 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Ordem das **camadas** epidérmicas no **corte**.
+- Por que o **adipócito** parece “vazio” no HE.
+- Uma diferença **microscópica** branco **marrom**.
+- O que são **papilas** dérmicas em **uma** frase.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Artefato de coração | Bolha de montagem | Contexto da borda da lamina |
+| Folículo em corte transversal | Cisto | Sequência de camadas do folículo |
+| Adipócito | Célula vacuolada outra | Núcleo achatado na periferia |
+| Derme papilar | Reticular | Vaso fino e CT frouxo vs feixes grossos |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Gordura branca é um balão único; marrom é um enxame de gotinhas que aquece.”
+
+---
+
+## Referências de estudo
+
+Junqueira e Carneiro (pele e adiposo); atlas histológico para comparar **pele fina** e **espessa** na mesma sessão de estudo.

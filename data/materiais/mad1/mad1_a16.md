@@ -1,4 +1,4 @@
-# Infecções Respiratórias Virais
+﻿# Infecções Respiratórias Virais
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções respiratórias virais representam a principal causa de morbidade 
 
 A Uninove cobra principalmente as diferenças entre influenza A, B e C, os mecanismos de variação antigênica, a fisiopatologia da COVID-19 grave e as indicações de antivirais.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A16-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Influenza
 
@@ -161,3 +176,11 @@ A Uninove cobra principalmente as diferenças entre influenza A, B e C, os mecan
 ### Frase-âncora para não esquecer
 
 > "Influenza: drift = desvio anual (vacine todo ano); shift = salto pandêmico (prepare-se para o pior). COVID: de leve vira grave quando o sistema imune perde o controle — daí o cortisol para frear a tempestade."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -404,7 +404,12 @@
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
         <li class="muted"><span class="cross">✗</span> Outros módulos</li>
       </ul>
-      <button class="plan-cta secondary" onclick="window.open('https://wa.me/5519997300505?text=' + encodeURIComponent('Olá! Tenho interesse no plano Módulo (R$ 39,90) do MedGrad+. Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'), '_blank')">
+      <div style="margin: 14px 0 10px; text-align: left;">
+        <label for="couponModulo" style="display:block; font-size:12px; color:#E5E7EB; margin-bottom:6px; font-weight:600;">Tem cupom de desconto?</label>
+        <input id="couponModulo" type="text" placeholder="Digite seu cupom (opcional)" style="width:100%; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,0.12); background:rgba(255,255,255,0.03); color:#E5E7EB; font-size:13px;" />
+        <div style="font-size:11px; color:#9CA3AF; margin-top:6px;">O desconto é aplicado na hora do pagamento.</div>
+      </div>
+      <button class="plan-cta secondary" onclick="openWhatsAppPurchase('Módulo', '39,90', 'couponModulo')">
         Quero este módulo
       </button>
     </div>
@@ -427,7 +432,12 @@
         <li><span class="check">✓</span> Conteúdo específico para a sua faculdade</li>
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
       </ul>
-      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="window.open('https://wa.me/5519997300505?text=' + encodeURIComponent('Olá! Tenho interesse no plano Ciclo (R$ 119,90) do MedGrad+. Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'), '_blank')">
+      <div style="margin: 14px 0 10px; text-align: left;">
+        <label for="couponCiclo" style="display:block; font-size:12px; color:#E5E7EB; margin-bottom:6px; font-weight:600;">Tem cupom de desconto?</label>
+        <input id="couponCiclo" type="text" placeholder="Digite seu cupom (opcional)" style="width:100%; padding:10px 12px; border-radius:10px; border:1px solid rgba(255,255,255,0.12); background:rgba(255,255,255,0.03); color:#E5E7EB; font-size:13px;" />
+        <div style="font-size:11px; color:#9CA3AF; margin-top:6px;">O desconto é aplicado na hora do pagamento.</div>
+      </div>
+      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="openWhatsAppPurchase('Ciclo', '119,90', 'couponCiclo')">
         Quero um Ciclo
       </button>
     </div>
@@ -472,6 +482,23 @@
   <footer class="footer">
     MedGradPlus+ · Feito para estudantes de medicina · <a href="index.html" style="color: var(--primary); text-decoration: none;">Voltar ao app</a>
   </footer>
+
+  <script>
+    function openWhatsAppPurchase(planName, planPrice, couponInputId) {
+      const input = document.getElementById(couponInputId);
+      const coupon = (input?.value || '').trim().toUpperCase();
+      const couponLabel = coupon ? coupon : 'SEM_CUPOM';
+
+      const message = [
+        `Olá! Tenho interesse no plano ${planName} (R$ ${planPrice}) do MedGrad+.`,
+        `Cupom informado: ${couponLabel}.`,
+        'Entendo que o desconto será aplicado na hora do pagamento.',
+        'Poderia, por gentileza, me enviar a chave PIX para pagamento? Assim que eu realizar o pagamento, envio o comprovante para receber minha chave de acesso. Obrigado!'
+      ].join(' ');
+
+      window.open('https://wa.me/5519997300505?text=' + encodeURIComponent(message), '_blank');
+    }
+  </script>
 
 </body>
 </html>

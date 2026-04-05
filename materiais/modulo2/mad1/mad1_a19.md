@@ -1,4 +1,4 @@
-# Infecção pelo HIV e AIDS
+﻿# Infecção pelo HIV e AIDS
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O HIV (Human Immunodeficiency Virus) é um dos maiores desafios da medicina mode
 
 A Uninove cobra principalmente o ciclo viral, as classes de TARV, os critérios de AIDS (CD4 < 200 ou doença definidora), a profilaxia pré e pós-exposição e as infecções oportunistas mais comuns.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A19-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Agente e Estrutura
 
@@ -191,3 +206,11 @@ A Uninove cobra principalmente o ciclo viral, as classes de TARV, os critérios 
 ### Frase-âncora para não esquecer
 
 > "HIV tem 4 enzimas para atacar: Transcriptase reversa (copia), Integrase (gruda), Protease (matura), Fusão (entra). TARV bloqueia pelo menos 3 delas — por isso funciona tão bem quando tomada corretamente."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -1,4 +1,4 @@
-# Imunodeficiências
+﻿# Imunodeficiências
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As imunodeficiências são condições em que o sistema imune falha em proteger 
 
 A Uninove cobra muito o raciocínio clínico: dado o padrão de infecções, qual componente imune está deficiente? As principais entidades — agamaglobulinemia de Bruton, SCID, síndrome de DiGeorge, deficiência de complemento — são alvos frequentes em questões de caso clínico.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Imunodeficiências Primárias (Congênitas)
 
@@ -160,3 +175,11 @@ A Uninove cobra muito o raciocínio clínico: dado o padrão de infecções, qua
 ### Frase-âncora para não esquecer
 
 > "Quem infecta mais diz o que falta: encapsuladas → falta anticorpo (Bruton/CVID); vírus e fungos → falta célula T (DiGeorge, HIV); *Neisseria* recorrente → falta complemento terminal (C5-C9)."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

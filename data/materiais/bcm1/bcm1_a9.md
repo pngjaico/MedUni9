@@ -1,4 +1,4 @@
-# Necrose vs Apoptose
+﻿# Necrose vs Apoptose
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A morte celular programada e a morte celular patológica são fenômenos opostos
 
 Na prática clínica, a distinção entre os dois processos informa decisões terapêuticas. O valor de troponina elevado na síndrome coronariana aguda indica necrose de cardiomiócitos. A ativação de caspases é o alvo de drogas antineoplásicas que forçam células tumorais a entrar em apoptose. Saber identificar o padrão histológico de cada processo — e por que ele ocorre — é o que a banca espera que o aluno saiba fazer.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Necrose: Morte Celular Não Programada
 
@@ -154,3 +169,11 @@ Estímulos como radiação, quimioterápicos, falta de fatores de crescimento ou
 ### Frase-âncora para não esquecer
 
 > "Na NEcrose a célula INfla e INflama tudo ao redor; na Apoptose ela se apoSenta silenciosamente em corpinhos arrumados — sem chamar a guarda (inflamação)."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

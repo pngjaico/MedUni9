@@ -1,4 +1,4 @@
-# Mutações, Agentes Mutagênicos e Reparo de DNA
+﻿# Mutações, Agentes Mutagênicos e Reparo de DNA
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A integridade do genoma é constantemente ameaçada por agentes endógenos e ex�
 
 Na clínica, os sistemas de reparo são alvos terapêuticos: inibidores de PARP (olaparibe) matam seletivamente tumores com mutações em BRCA1/2, aproveitando a "lethality sintética". O teste de instabilidade de microssatélites (MSI) guia o uso de imunoterapia com anti-PD-1. Entender os mecanismos de reparo é, portanto, essencial para a medicina de precisão.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A11-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Tipos de Mutação
 
@@ -193,3 +208,11 @@ Tumores MSI-H respondem ao pembrolizumabe (anti-PD-1) — aprovação para qualq
 ### Frase-âncora para não esquecer
 
 > "BER conserta BASE única; NER conserta NUCLEOTÍDEO volumoso; MMR conserta MISMATCH da replicação; HRR conserta DUPLA QUEBRA com FIDELIDADE (exige irmã); NHEJ une tudo a fórceps — às vezes com erro."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

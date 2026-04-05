@@ -9,6 +9,17 @@
 
 O fim do regime militar e a redemocratização abrem espaço para movimentos sociais e técnicos que defendem **direito social à saúde** e criticam o modelo **assistencialista e privatista**. A **8ª Conferência Nacional de Saúde (1986)** e o processo **constituinte** são marcos: traduzem anos de luta em **diretrizes** que culminam na **Constituição de 1988** e nas **Leis Orgânicas da Saúde (1990)**. Para a prova, é preciso saber **quem** participou, **quais ideias** venceram e **como** isso se conecta ao SUS.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A3-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## Contexto: Nova República (1985–1988)

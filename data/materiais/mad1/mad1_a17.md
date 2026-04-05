@@ -1,4 +1,4 @@
-# Infecções por Arbovírus
+﻿# Infecções por Arbovírus
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Os arbovírus (arthropod-borne viruses) são transmitidos por artrópodes (princ
 
 A Uninove cobra principalmente os critérios de gravidade da dengue, o diagnóstico laboratorial (NS1, IgM, PCR) e as diferenças clínicas entre as três arboviroses.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A17-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Dengue
 
@@ -171,3 +186,11 @@ A Uninove cobra principalmente os critérios de gravidade da dengue, o diagnóst
 ### Frase-âncora para não esquecer
 
 > "Dengue sangra, Zika pica com prurido e deforma o bebê, Chikungunya entorta de dor — e todos chegaram pelo mesmo Aedes. Nunca dê AAS na dengue: ela já sangra sozinha."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

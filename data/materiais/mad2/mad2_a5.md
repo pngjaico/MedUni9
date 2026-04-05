@@ -11,6 +11,19 @@ IST bacteriana é o tipo de tema que parece simples demais até o aluno perceber
 
 Na Uninove, o que costuma ser cobrado não é a lista solta de agentes, mas o raciocínio por síndrome: úlcera genital, uretrite, cervicite, dor pélvica, conjuntivite neonatal, sífilis em fases. Quem aprende a organizar por apresentação clínica consegue diferenciar **Treponema pallidum**, **Neisseria gonorrhoeae** e **Chlamydia trachomatis** sem decorar em bloco.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Sífilis não é uma doença, é uma sequência clínica

@@ -1,4 +1,4 @@
-# Herança Ligada ao X — Dominante e Recessiva
+﻿# Herança Ligada ao X — Dominante e Recessiva
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Os genes localizados no cromossomo X seguem padrões de herança distintos dos g
 
 Para o estudante da Uninove, esse tema é cobrado tanto pelo reconhecimento de padrões em heredogramas quanto por questões de conteúdo clínico direto: hemofilia A e B, distrofia muscular de Duchenne e síndrome do X-frágil são algumas das condições mais prevalentes entre as doenças genéticas e aparecem com frequência nas provas.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A17-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Fundamentos Biológicos
 
@@ -201,3 +216,11 @@ Em células femininas (XX), um dos dois cromossomos X é inativado aleatoriament
 ### Frase-âncora para não esquecer
 
 > "XLR: o Y do homem denuncia — sem segundo X para esconder a mutação, ele adoece. O pai afetado não passa para o filho (dá o Y), mas toda filha fica portadora (recebe o X mutado). XLD inverte: pai afetado contamina TODAS as filhas, nenhum filho."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

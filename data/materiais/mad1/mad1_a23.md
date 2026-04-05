@@ -1,4 +1,4 @@
-# Helmintíases e Cestoidoses
+﻿# Helmintíases e Cestoidoses
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As helmintíases são infecções por vermes (helmintos) e representam as doenç
 
 A Uninove foca especialmente na diferença entre teníase e cisticercose (armadilha clássica de prova), na síndrome de hiperinfestação por Strongyloides e nas manifestações sistêmicas de cada helmintíase.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A23-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Nematoides (Vermes Cilíndricos)
 
@@ -167,3 +182,11 @@ A Uninove foca especialmente na diferença entre teníase e cisticercose (armadi
 ### Frase-âncora para não esquecer
 
 > "Come carne de porco crua → teníase (verme no intestino). Come ovos de tênia (mãos sujas) → cisticercose (larva no cérebro = epilepsia). Strongyloides não perdoa quem toma corticoide sem rastrear."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

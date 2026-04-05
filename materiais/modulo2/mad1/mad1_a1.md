@@ -1,4 +1,4 @@
-# Funções Básicas e Componentes do Sistema Imune
+﻿# Funções Básicas e Componentes do Sistema Imune
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O sistema imune é o principal responsável pela homeostase do organismo — ele
 
 Na prática médica, a interpretação de qualquer exame inflamatório — hemograma, PCR, complemento, imunofenotipagem — depende de saber quais células fazem o quê. A Uninove cobra muito a hierarquia de ação: primeiro a imunidade inata, depois a adaptativa, com cooperação obrigatória entre elas.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Divisão do Sistema Imune
 
@@ -166,3 +181,11 @@ Convergem em **C3 → C3a + C3b**, resultando em:
 ### Frase-âncora para não esquecer
 
 > "O imunológico é como um exército: infantaria rápida (inata) segura a frente enquanto os especialistas (adaptativa) preparam o ataque certeiro com memória de batalha."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

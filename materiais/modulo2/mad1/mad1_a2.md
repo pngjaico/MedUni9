@@ -1,4 +1,4 @@
-# Imunidade Inata
+﻿# Imunidade Inata
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A imunidade inata é a primeira barreira do organismo — responde em minutos, s
 
 Do ponto de vista acadêmico e clínico, entender a imunidade inata é essencial para compreender sepse, inflamação, febre, e por que certos pacientes — como neonatos ou imunossuprimidos — são mais vulneráveis a infecções oportunistas. A Uninove frequentemente cobra os componentes celulares e humorais da inata e o sistema complemento em questões de caso clínico.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Barreiras Físicas e Químicas
 
@@ -183,3 +198,11 @@ Sequência:
 ### Frase-âncora para não esquecer
 
 > "A inata é o segurança da porta: reconhece o crachá errado (PAMP) e age imediatamente — sem precisar consultar a lista VIP da adaptativa."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

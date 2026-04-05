@@ -1,4 +1,4 @@
-# DS — Aula 3: Políticas Públicas Socioambientais e Saúde no Brasil
+﻿# DS — Aula 3: Políticas Públicas Socioambientais e Saúde no Brasil
 
 **Disciplina:** Desafios Socioambientais e Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Essa aula fecha a disciplina mostrando como princípios viram ação concreta. A Uninove tende a cobrar a capacidade de relacionar política pública, governança e impacto sanitário, especialmente no contexto brasileiro de desigualdade regional, urbanização rápida e vulnerabilidade socioambiental.
 
 Para a prática, isso significa entender que saúde não melhora só com boa técnica clínica individual. Ela melhora quando políticas de saneamento, vigilância, proteção ambiental e proteção social funcionam de forma coordenada com o SUS.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `DS-A3-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Do Marco Normativo à Implementação Real
 
@@ -24,6 +37,17 @@ Política pública eficaz exige desenho técnico, financiamento, coordenação f
 O **SUS** é peça central para articular vigilância, atenção primária e resposta a riscos ambientais. Mas sem integração com políticas de saneamento, habitação, educação e proteção social, o efeito sanitário fica limitado. Justiça socioambiental significa justamente reduzir exposição desigual ao risco e garantir cuidado mais onde há maior necessidade.
 
 A leitura correta para prova é: política pública em saúde funciona quando é intersetorial, territorializada e monitorada por indicador confiável.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Políticas Públicas Socioambientais e Saúde no Brasil
+
+**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ A leitura correta para prova é: política pública em saúde funciona quando é
 ### Frase-âncora para não esquecer
 
 > "Política pública de saúde só existe de verdade quando muda indicador no território."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Políticas Públicas Socioambientais e Saúde no Brasil** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
+| Pegadinha / contraste | Política pública ou ODS relacionado. |
+| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
+- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
+- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.

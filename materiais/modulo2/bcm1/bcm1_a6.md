@@ -1,4 +1,4 @@
-# BCM1 — Aula 6: Transcrição e Controle da Expressão Gênica
+﻿# BCM1 — Aula 6: Transcrição e Controle da Expressão Gênica
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A transcrição é o ponto onde o genoma "fala" — e o silenciamento ou a super
 
 A Uninove cobra transcrição e regulação integrados com SBRT antibióticos, epigenética e oncologia molecular. Esta aula costura a biologia molecular com suas aplicações clínicas mais modernas.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A6-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Transcrição: Visão Geral
 
@@ -132,3 +147,11 @@ A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em hip
 ### Frase-âncora para não esquecer
 
 > "Rifampicina pega a RNA Pol bacteriana pelo canal de saída do RNA — e de quebra acelera o fígado, tirando o efeito dos outros remédios. Dupla ação, duplo cuidado."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

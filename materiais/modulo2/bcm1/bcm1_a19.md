@@ -1,4 +1,4 @@
-# Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo
+﻿# Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Os erros inatos do metabolismo (EIM) são doenças genéticas causadas por defei
 
 A Uninove cobra essa temática com frequência por dois motivos: (1) o triagem neonatal ampliada (Programa Nacional de Triagem Neonatal — PNTN) é um tema de saúde pública relevante que os estudantes precisam dominar; (2) fenilcetonúria, galactosemia e doença da urina do xarope de bordo são questões clássicas que aparecem em provas de bioquímica clínica, genética e pediatria. A compreensão dos mecanismos dessas doenças é também a base para entender as terapias por dieta e reposição enzimática.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A19-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Conceito e Mecanismo Geral
 
@@ -218,3 +233,11 @@ Clinicamente: crise metabólica aguda em RN ou criança, especialmente precipita
 ### Frase-âncora para não esquecer
 
 > "Erros inatos = enzima furada na via metabólica. PKU fura a PAH e Phe envenena o cérebro. Galactosemia fura a GALT e galactose-1-P arruína fígado, olho e neutrófilos. MSUD fura a BCKDH e os BCAAs cheiram bordo e explodem o SNC. Homocistinúria fura a CBS e a Hcy entope as veias e torce o cristalino para baixo."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

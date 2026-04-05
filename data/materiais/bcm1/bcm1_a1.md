@@ -1,4 +1,4 @@
-# BCM1 — Aula 1: Organização da Célula Eucariótica
+﻿# BCM1 — Aula 1: Organização da Célula Eucariótica
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A célula eucariótica é a unidade funcional de todo o organismo humano. Compre
 
 Na Uninove, questões de BCM1 frequentemente integram morfologia celular com consequências clínicas — por exemplo, alterações do citoesqueleto de actina em doenças hemolíticas ou defeitos de cílios na síndrome de Kartagener. Esta aula é o mapa geral do qual todas as demais decorrem.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Membrana Plasmática
 
@@ -145,3 +160,11 @@ A **mucoviscidose (fibrose cística)** decorre de mutações no gene CFTR — um
 ### Frase-âncora para não esquecer
 
 > "RER faz proteínas para fora; REL faz lipídios e limpa a bagunça; o Golgi carimba o destino; o lisossomo destrói o lixo. Cada organela tem CEO diferente."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

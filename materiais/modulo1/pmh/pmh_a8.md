@@ -1,257 +1,90 @@
-# PMH - Aula 8: Colesterol, Lipoproteínas e Homeostase Lipídica
+# PMH — Aula 8: Colesterol, Lipoproteínas e Homeostase Lipídica
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Colesterol, Lipoproteínas e Homeostase Lipídica é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+**Colesterol** é estrutural (membranas), precursor de **esteroides** e **ácidos biliares**, e alvo de **transporte plasmático** via **lipoproteínas**. Compreender **LDL**, **HDL**, **VLDL**, **receptores** e **vias de síntese/degradação** fundamenta **prevenção cardiovascular**, **estatinas**, **ezetimiba** e **síndromes familiares** (ex.: **FH**). É uma das aulas mais cobradas na interface **bioquímica → cardiologia**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Colesterol: síntese e regulação
 
-Para dominar Colesterol, Lipoproteínas e Homeostase Lipídica, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**HMG-CoA redutase** (ER) é **enzima limitante** da síntese — **inibida por** **estatina** e **regulada** por **concentração intracelular** de colesterol (feedback via **SREBP**).
 
-## Construção de Hipótese e Validação
+**Síntese** ocorre principalmente **fígado**; **depósito** periférico depende de **lipoproteínas**.
 
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Colesterol, Lipoproteínas e Homeostase Lipídica fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Colesterol, Lipoproteínas e Homeostase Lipídica com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Colesterol, Lipoproteínas e Homeostase Lipídica.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Colesterol, Lipoproteínas e Homeostase Lipídica está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Colesterol, Lipoproteínas e Homeostase Lipídica, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Colesterol, Lipoproteínas e Homeostase Lipídica aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **Colesterol dietético** modula menos a homeostase que **síntese endógena** em muitos indivíduos — por isso **estatina** funciona mesmo com dieta.
 
 ---
 
-## Pontos-Chave para Prova
+## Lipoproteínas: função e densidade
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+- **Quilomícrons:** transportam **TG dietéticos** (intestino → tecidos).
+- **VLDL:** exporta **TG** hepáticos.
+- **LDL:** **colesterol** para tecidos periféricos — **receptor LDL (LDLR)** medeia captação.
+- **HDL:** **transporte reverso** — coleta colesterol periférico e retorna ao fígado (**SR-B1**, etc.).
+
+> **Pegadinha:** **LDL “ruim”** não é toxina intrínseca — é **partícula** que, quando **oxidada** e em excesso, promove **aterogênese**.
+
+---
+
+## Esterificação e transporte reverso
+
+**LECITHIN-CHOLESTEROL ACYLTRANSFERASE (LCAT)** esterifica colesterol no **HDL**. **CETP** transfere **ésteres** entre lipoproteínas — relevância em **fármacos** experimentais/terapêuticos.
+
+---
+
+## Ácidos biliares
+
+**Colesterol** → **ácidos biliares** (fígado) → **excreção** fecal (parte) e **ciclo entero-hepático**. **Secuestrantes** de ácidos biliares aumentam **conversão** hepática de colesterol em **ácidos biliares** (↓ LDL).
+
+---
+
+## LDL oxidado e inflamação vascular
+
+**Macrofagos** internalizam **LDL oxidado** → **células espumosas** → **ateroma**. **Estatinas** e **controle glicêmico** reduzem **estresse oxidativo** e **carga** de lipoproteínas aterogênicas — mecanismo **além** da simples queda numérica de LDL.
+
+O **microbioma** intestinal modula o **pool** de **ácidos biliares** e **sinalização** metabólica — área ativa de pesquisa em **cardiometabolismo**.
+
+---
+
+## Comparativo clínico rápido
+
+| Partícula | Elevação típica associada a |
+|-----------|----------------------------|
+| LDL | risco ASCVD; FH |
+| TG | resistência insulínica; hipertrigliceridemia |
+| HDL baixo | fator de risco inverso (contexto metabólico) |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Colesterol, Lipoproteínas e Homeostase Lipídica aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Paciente com LDL muito alto** e **xantomas** → pensar **FH** (defeito **LDLR**). **Hipertrigliceridemia severa** → risco de **pancreatite**. **Estatinas** reduzem síntese de colesterol; **ezetimiba** bloqueia **absorção intestinal** de colesterol. **PCSK9** aumenta degradação de **LDLR** — inibidores **mAbs** elevam captação de LDL.
+
+---
+
+## Pontos-Chave para Prova
+
+- **HMG-CoA redutase** = alvo de **estatina**.
+- **LDL** → tecidos via **LDLR**; **HDL** → transporte reverso.
+- **Quilomícron/VLDL** = **triglicerídeos** em trânsito.
+- **Ácidos biliares** ligam **colesterol** à **digestão** e **excreção**.
 
 ---
 
@@ -261,24 +94,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Densidade **↑** → mais **proteína** por lipídeo (HDL/LDL nomenclatura clássica).
+- **SREBP** regula **síntese** quando colesterol intracelular cai.
+- **LDL oxidado** e **disfunção endotelial** iniciam **aterosclerose**.
+- **Estatina** = primeira linha em muitos cenários de **prevenção**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| LDL | VLDL | LDL mais **colesterol**; VLDL mais **TG** exportados do fígado. |
+| Colesterol total | LDL-C | Risco guia-se por **LDL-C** e contexto; não só pelo total. |
+| Absorção | Síntese | Ezetimiba vs estatina — mecanismos distintos. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Partícula transporta lipídio; receptor decide onde o colesterol para.”

@@ -1,272 +1,75 @@
-# BMF1 - Aula 19: Anatomia dos Intestinos Delgado e Grosso
+# BMF1 — Aula 19: Anatomia dos Intestinos Delgado e Grosso
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Anatomia dos Intestinos Delgado e Grosso é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+O **intestino delgado** é sede principal de **digestão** e **absorção**; o **grosso** reabsorve **água** e **eletrólitos** e abriga **microbiota**. Conhecer **topografia**, **fixação** (**meso**), **válvula ileocecal** e **marcas** externas do cólon (**taenias**, **haustra**, **apêndice**) orienta **abdome agudo**, **imagem** e **cirurgia**. Em prova, confundir **jejuno** com **íleo** ou **cólon ascendente** com **descendente** por falta de **referência** é erro evitável.
 
 ---
 
-## Organização Topográfica
+## Intestino delgado: duodeno, jejuno e íleo
 
-A leitura de Anatomia dos Intestinos Delgado e Grosso começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+| Segmento | Posição / traço | Lembrete |
+|----------|-------------------|----------|
+| **Duodeno** | Em “C” ao redor da **cabeça do pâncreas**; parte **superior** intraperitoneal, partes **descendente/horizontal** retro | **Ampola** duodenal e **papila** maior — ponto de referência endoscópico |
+| **Jejuno** | Quadrante superior esquerdo predominante | **Alças** mais largas, **meso** mais curto, **plicas** mais altas (macro/micro) |
+| **Íleo** | Pelo quadrante inferior e fossa ilíaca | **Mais fino**, termina na **válvula ileocecal** |
 
-## Camadas, Compartimentos e Relações
+> **Dica de Prova:** **Válvula ileocecal** regula esvaziamento e **barreira** — patologias podem **refluxo** bacteriano ou **obstrução**; aqui você fixa **anatomia**.
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+### Figura sugerida
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
+**Figura-ID:** `BMF1-A19-F01`
 
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Anatomia dos Intestinos Delgado e Grosso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Anatomia dos Intestinos Delgado e Grosso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia dos Intestinos Delgado e Grosso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia dos Intestinos Delgado e Grosso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia dos Intestinos Delgado e Grosso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Anatomia dos Intestinos Delgado e Grosso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após delgado.
+- **O que mostrar:** esquema do abdome com delgado em alças, cólon em moldura e apêndice.
+- **Tipo sugerido:** ilustração estilo atlas.
+- **Legenda (rascunho):** “Delgado central; grosso periférico; apêndice na base cecal.”
+- **Notas (opcional):** Commons “large intestine anatomy diagram”.
 
 ---
 
-## Pontos-Chave para Prova
+## Intestino grosso: ceco, cólon, reto
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+**Ceco** é **bolsa** à direita com **válvula ileocecal** e **apêndice vermiforme** — posição **retrocecal** ou **pélvica** varia; daí a **dor** de apendicite em **sítios** diferentes. **Cólon ascendente**, **transverso**, **descendente** e **sigmoide** seguem a **moldura**; **reto** continua ao **canal anal** (esfíncter — fisiologia em outras aulas).
+
+---
+
+## Marcas externas do cólon
+
+**Taenias** (bandas longitudinais), **haustra** (sacos) e **apêndices epiploicos** (gordurinhas) ajudam a **identificar** cólon em **peça** e **imagem** — o delgado **não** tem esse trio clássico da mesma forma.
+
+---
+
+## Mesentério e fixação
+
+O **mesentério** do delgado **prende-se** à **raiz** perto do **duodeno** e **âncora** ampla área — **volvo** e **isquemia** mesentérica são **clínica** avançada, mas a **anatomia** explica **mobilidade**.
+
+---
+
+## Linfonodos e drenagem (visão mínima)
+
+O **delgado** drena para **linfonodos mesentéricos** ao longo dos **vasos**; o **cólon** segue **cadeias** parietais e **mesentéricos** conforme o segmento. Em prova de morfologia, basta saber que **metástases** e **linfomas** obedecem **rotas** anatômicas — o mapa fino fica para **oncologia** e **patologia**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Anatomia dos Intestinos Delgado e Grosso aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Obstrução** intestinal: **níveis hidroaéreos** e **distensão** em **alças** — saber se o problema é **delgado** ou **grosso** acelera hipótese. **Divertículos** do **sigmoide** versus **apendicite** — **local da dor** e **peritonismo** correlacionam com **topografia**. **Colonoscopia** segue **curvaturas** nomeadas (**hepática**, **esplênica**) — vocabulário anatômico aparece nos laudos.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Duodeno** em C e relação com **cabeça pancreática**.
+- **Jejuno** mais “em cima” e **alças** mais largas que **íleo** (tendência geral).
+- **Válvula ileocecal** e transição para **ceco**.
+- **Apêndice** na base do **ceco**; variação de posição.
+- **Taenias** e **haustra** como **marcas** do cólon.
 
 ---
 
@@ -276,24 +79,26 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Ordem do **tubo digestório** do **esôfago** ao **ânus** sem saltar segmentos.
+- Onde está a **papila** duodenal maior **funcionalmente** (duodeno descendente).
+- Uma diferença **jejuno** versus **íleo** aceita em prova.
+- Por que **apendicite** pode **doer** longe da **Fossa Ilíaca Direita** (conceito de posição do apêndice).
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Delgado | Grosso | Mesentério amplo vs taenias/haustra |
+| Ceco | Sigmoide | FID vs esquerdo inferior |
+| Válvula ileocecal | Piloro | Delgado-grosso versus estômago-delgado |
+| Mesentério | Omento | Suspensão jejuno-íleo vs pregas por estômago/cólon |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Delgado no centro com meso largo; grosso em moldura com bolsas e bandas.”
+
+---
+
+## Referências de estudo
+
+Moore (abdome e pelve); Netter (digestório); Gray’s para detalhes de **válvula** e **apêndice**; revisar **bmf1_a18** para peritônio e **bmf1_a20** para vasos.

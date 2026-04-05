@@ -1,4 +1,4 @@
-# BMF2 — Aula 15: Prática — Anatomia e Histologia Cardiovascular
+﻿# BMF2 — Aula 15: Prática — Anatomia e Histologia Cardiovascular
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As aulas práticas de morfologia são o espaço em que o conhecimento teórico s
 
 A Uninove utiliza questões de associação entre imagem histológica e estrutura cardiovascular, especialmente para diferenciar os tipos de músculo cardíaco, as camadas cardíacas e a histologia vascular. Este material consolida os pontos de maior rendimento para a prova prática e teórica.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A15-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Roteiro de Anatomia Macroscópica do Coração
 
@@ -134,3 +149,11 @@ A **comunicação interatrial (CIA)** persiste quando o forame oval não fecha a
 ### Frase-âncora para não esquecer
 
 > "Mitral de 2, Tricúspide de 3 — as duas com cordas. Aórtica e Pulmonar de 3 também, mas sem cordas — são semilunares livres."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

@@ -11,6 +11,19 @@ Se você tivesse que resumir imunologia clínica em uma pergunta, seria esta: po
 
 Na prática, esse tema explica a base de várias doenças autoimunes e também o racional de muitos imunomoduladores. Na Uninove, os professores costumam montar questões em que o aluno precisa decidir se o problema está na fase de seleção do linfócito, na fase de ativação periférica ou na falha de freios regulatórios. Quem entende essa lógica deixa de decorar nomes e passa a prever comportamento de doença.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Onde tudo começa: tolerância central no timo e na medula óssea

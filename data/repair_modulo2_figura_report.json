@@ -1,0 +1,424 @@
+{
+  "report": [
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a1.md",
+      "action": "repaired",
+      "id": "BCM1-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a10.md",
+      "action": "repaired",
+      "id": "BCM1-A10-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a11.md",
+      "action": "repaired",
+      "id": "BCM1-A11-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a12.md",
+      "action": "repaired",
+      "id": "BCM1-A12-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a13.md",
+      "action": "repaired",
+      "id": "BCM1-A13-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a14.md",
+      "action": "repaired",
+      "id": "BCM1-A14-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a15.md",
+      "action": "repaired",
+      "id": "BCM1-A15-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a16.md",
+      "action": "repaired",
+      "id": "BCM1-A16-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a17.md",
+      "action": "repaired",
+      "id": "BCM1-A17-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a18.md",
+      "action": "repaired",
+      "id": "BCM1-A18-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a19.md",
+      "action": "repaired",
+      "id": "BCM1-A19-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a2.md",
+      "action": "repaired",
+      "id": "BCM1-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a20.md",
+      "action": "repaired",
+      "id": "BCM1-A20-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a21.md",
+      "action": "repaired",
+      "id": "BCM1-A21-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a3.md",
+      "action": "repaired",
+      "id": "BCM1-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a4.md",
+      "action": "repaired",
+      "id": "BCM1-A4-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a5.md",
+      "action": "repaired",
+      "id": "BCM1-A5-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a6.md",
+      "action": "repaired",
+      "id": "BCM1-A6-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a7.md",
+      "action": "repaired",
+      "id": "BCM1-A7-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a8.md",
+      "action": "repaired",
+      "id": "BCM1-A8-F01"
+    },
+    {
+      "file": "materiais/modulo2/bcm1/bcm1_a9.md",
+      "action": "repaired",
+      "id": "BCM1-A9-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a1.md",
+      "action": "repaired",
+      "id": "BMF2-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a10.md",
+      "action": "repaired",
+      "id": "BMF2-A10-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a11.md",
+      "action": "repaired",
+      "id": "BMF2-A11-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a12.md",
+      "action": "repaired",
+      "id": "BMF2-A12-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a13.md",
+      "action": "repaired",
+      "id": "BMF2-A13-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a14.md",
+      "action": "repaired",
+      "id": "BMF2-A14-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a15.md",
+      "action": "repaired",
+      "id": "BMF2-A15-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a16.md",
+      "action": "repaired",
+      "id": "BMF2-A16-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a2.md",
+      "action": "repaired",
+      "id": "BMF2-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a3.md",
+      "action": "repaired",
+      "id": "BMF2-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a4.md",
+      "action": "repaired",
+      "id": "BMF2-A4-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a5.md",
+      "action": "repaired",
+      "id": "BMF2-A5-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a6.md",
+      "action": "repaired",
+      "id": "BMF2-A6-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a7.md",
+      "action": "repaired",
+      "id": "BMF2-A7-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a8.md",
+      "action": "repaired",
+      "id": "BMF2-A8-F01"
+    },
+    {
+      "file": "materiais/modulo2/bmf2/bmf2_a9.md",
+      "action": "repaired",
+      "id": "BMF2-A9-F01"
+    },
+    {
+      "file": "materiais/modulo2/ds/ds_a1.md",
+      "action": "repaired",
+      "id": "DS-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/ds/ds_a2.md",
+      "action": "repaired",
+      "id": "DS-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/ds/ds_a3.md",
+      "action": "repaired",
+      "id": "DS-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a1.md",
+      "action": "repaired",
+      "id": "IND-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a10.md",
+      "action": "repaired",
+      "id": "IND-A10-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a11.md",
+      "action": "repaired",
+      "id": "IND-A11-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a2.md",
+      "action": "repaired",
+      "id": "IND-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a3.md",
+      "action": "repaired",
+      "id": "IND-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a4.md",
+      "action": "repaired",
+      "id": "IND-A4-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a5.md",
+      "action": "repaired",
+      "id": "IND-A5-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a6.md",
+      "action": "repaired",
+      "id": "IND-A6-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a7.md",
+      "action": "repaired",
+      "id": "IND-A7-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a8.md",
+      "action": "repaired",
+      "id": "IND-A8-F01"
+    },
+    {
+      "file": "materiais/modulo2/indicadores/ind_a9.md",
+      "action": "repaired",
+      "id": "IND-A9-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a1.md",
+      "action": "repaired",
+      "id": "MAD1-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a10.md",
+      "action": "repaired",
+      "id": "MAD1-A10-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a11.md",
+      "action": "repaired",
+      "id": "MAD1-A11-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a12.md",
+      "action": "repaired",
+      "id": "MAD1-A12-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a13.md",
+      "action": "repaired",
+      "id": "MAD1-A13-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a14.md",
+      "action": "repaired",
+      "id": "MAD1-A14-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a15.md",
+      "action": "repaired",
+      "id": "MAD1-A15-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a16.md",
+      "action": "repaired",
+      "id": "MAD1-A16-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a17.md",
+      "action": "repaired",
+      "id": "MAD1-A17-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a18.md",
+      "action": "repaired",
+      "id": "MAD1-A18-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a19.md",
+      "action": "repaired",
+      "id": "MAD1-A19-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a2.md",
+      "action": "repaired",
+      "id": "MAD1-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a20.md",
+      "action": "repaired",
+      "id": "MAD1-A20-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a21.md",
+      "action": "repaired",
+      "id": "MAD1-A21-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a22.md",
+      "action": "repaired",
+      "id": "MAD1-A22-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a23.md",
+      "action": "repaired",
+      "id": "MAD1-A23-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a24.md",
+      "action": "repaired",
+      "id": "MAD1-A24-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a3.md",
+      "action": "repaired",
+      "id": "MAD1-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a4.md",
+      "action": "repaired",
+      "id": "MAD1-A4-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a5.md",
+      "action": "repaired",
+      "id": "MAD1-A5-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a6.md",
+      "action": "repaired",
+      "id": "MAD1-A6-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a7.md",
+      "action": "repaired",
+      "id": "MAD1-A7-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a8.md",
+      "action": "repaired",
+      "id": "MAD1-A8-F01"
+    },
+    {
+      "file": "materiais/modulo2/mad1/mad1_a9.md",
+      "action": "repaired",
+      "id": "MAD1-A9-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a1.md",
+      "action": "repaired",
+      "id": "SEMIO2-A1-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a2.md",
+      "action": "repaired",
+      "id": "SEMIO2-A2-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a3.md",
+      "action": "repaired",
+      "id": "SEMIO2-A3-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a4.md",
+      "action": "repaired",
+      "id": "SEMIO2-A4-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a5.md",
+      "action": "repaired",
+      "id": "SEMIO2-A5-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a6.md",
+      "action": "repaired",
+      "id": "SEMIO2-A6-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a7.md",
+      "action": "repaired",
+      "id": "SEMIO2-A7-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a8.md",
+      "action": "repaired",
+      "id": "SEMIO2-A8-F01"
+    },
+    {
+      "file": "materiais/modulo2/semiologia2/semio2_a9.md",
+      "action": "repaired",
+      "id": "SEMIO2-A9-F01"
+    }
+  ]
+}

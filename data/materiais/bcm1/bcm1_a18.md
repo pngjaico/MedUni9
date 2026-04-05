@@ -1,4 +1,4 @@
-# Herança Autossômica Recessiva 1
+﻿# Herança Autossômica Recessiva 1
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As doenças autossômicas recessivas (AR) constituem o maior grupo de doenças m
 
 Esta aula aborda os principais mecanismos moleculares e as doenças AR mais cobradas pela Uninove no grupo das doenças de depósito lisossômico e de canalopatias/doenças metabólicas. A aula seguinte (a19) trata dos erros inatos do metabolismo de aminoácidos e ácidos orgânicos. Juntas, elas formam a base da bioquímica clínica genética que aparece consistentemente nas provas práticas.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A18-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Bases Genéticas das Doenças Autossômicas Recessivas
 
@@ -186,3 +201,11 @@ Defeitos em enzimas de degradação de glicosaminoglicanos (GAG — heparana, de
 ### Frase-âncora para não esquecer
 
 > "Depósito lisossômico = enzima quebrada trava o acúmulo de substrato nos lisossomos. Gaucher guarda gordura nos macrófagos. Tay saai com o gangliosídeo nos neurônios e apaga o bebê. Pompe empaca glicogênio no músculo e no coração. FC engrossa o muco e afoga os pulmões."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

@@ -48,6 +48,13 @@ Questões de simulado extraídas de provas antigas. Contém enunciado, alternati
 ### data/codigos.json
 Códigos de ativação para alunos novos. Cada código tem um ID único e status de uso.
 
+### data/anatomia_atlas.json
+Catálogo da aba **Anatomia → Atlas interativo**: sistemas (como no Asclépio), divisões anatômicas e lâminas com URL de imagem e, opcionalmente, **pinos** (`x`/`y` em percentagem 0–100 sobre a imagem).
+
+- **`fonte`: `"asclepio"`** — use `urlImagem` do atlas UFU; preencha `credito` e mantenha o link em `referenciaAsclepio` no topo do JSON.
+- **`fonte`: `"commons"`** — prefira [Wikimedia Commons](https://commons.wikimedia.org/): `urlImagem` direto (`upload.wikimedia.org`), `urlPaginaFonte` para a página do ficheiro, `licenca` e `credito`.
+- Divisões com `laminas: []` aparecem como **Em breve** no app até você adicionar entradas.
+
 ---
 
 ## 2. COMO ADICIONAR FLASHCARDS

@@ -1,4 +1,4 @@
-# BMF2 — Aula 2: Propriedades do Músculo Cardíaco
+﻿# BMF2 — Aula 2: Propriedades do Músculo Cardíaco
 
 **Disciplina:** Bases Morfofuncionais 2
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 As propriedades do músculo cardíaco explicam por que o coração contrai com regularidade, adapta força ao retorno venoso e responde ao sistema nervoso autônomo. A Uninove costuma cobrar essas propriedades em questões que misturam fisiologia e clínica de insuficiência cardíaca, choque e arritmias.
 
 Na prática, esse conteúdo permite entender limites de desempenho cardíaco e resposta a drogas inotrópicas e cronotrópicas.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Excitabilidade, Automatismo e Condução
 
@@ -24,6 +37,17 @@ O músculo cardíaco apresenta **excitabilidade** para responder a estímulos, *
 A **contratilidade** depende de cálcio intracelular e pode variar conforme estímulo simpático e condição metabólica. A **refratariedade prolongada** impede tetania e permite alternância ordenada entre sístole e diástole. Esse equilíbrio é indispensável para manter débito eficaz.
 
 Em prova, o acerto vem quando o aluno conecta propriedade fisiológica a consequência hemodinâmica.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Propriedades do Músculo Cardíaco
+
+No **ambulatório** e no estágio, você verá pacientes com **FC**, **PA**, **edema** e queixas respiratórias — tudo ligado ao que esta aula cobre. Treine explicar **mecanismo** (por que o sinal aparece) e não só o nome do conceito.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ Em prova, o acerto vem quando o aluno conecta propriedade fisiológica a consequ
 ### Frase-âncora para não esquecer
 
 > "No miocárdio, eletricidade organizada vira contração eficiente."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Propriedades do Músculo Cardíaco** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Fisiologia aplicada ao mecanismo descrito na aula. |
+| Pegadinha / contraste | Diferença entre automatismo, condução e contratilidade quando couber. |
+| Por que importa na prática | Como isso muda FC, PA ou sintoma na prática. |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

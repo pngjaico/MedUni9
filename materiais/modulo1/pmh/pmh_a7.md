@@ -1,257 +1,85 @@
-# PMH - Aula 7: Beta-oxidação e Síntese de Ácidos Graxos
+# PMH — Aula 7: Beta-Oxidação e Síntese de Ácidos Graxos
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Beta-oxidação e Síntese de Ácidos Graxos é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+**Beta-oxidação** mitocondrial (e peroxissomal para cadeias muito longas) **degrada** ácidos graxos a **acetil-CoA**, gerando **NADH** e **FADH₂** para **ATP**. A **lipogênese** sintetiza **palmitato** a partir de **acetil-CoA** em **fígado** e **adiposo**. Defeitos de **carnitina**, **transporte** ou **enzimas** de beta-oxidação causam **hipocetonemia**, **hipoglicemia** e **miopatia** — conteúdo típico de prova clínica e bioquímica.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Ativação e transporte à mitocôndria
 
-Para dominar Beta-oxidação e Síntese de Ácidos Graxos, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**Ácidos graxos livres** são **ativados** a **acil-CoA** (citoplasma). **Carnitina palmitoiltransferase I (CPT I)** converte a **longa cadeia** em **acilcarnitina** para atravessar membrana interna — **passo regulatório** em jejum.
 
-## Construção de Hipótese e Validação
-
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Beta-oxidação e Síntese de Ácidos Graxos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Beta-oxidação e Síntese de Ácidos Graxos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Beta-oxidação e Síntese de Ácidos Graxos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Beta-oxidação e Síntese de Ácidos Graxos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Beta-oxidação e Síntese de Ácidos Graxos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Beta-oxidação e Síntese de Ácidos Graxos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **Malonil-CoA** (início de síntese) **inibe CPT I** — **síntese** e **oxidação** não ocorrem plenamente ao mesmo tempo no mesmo tecido.
 
 ---
 
-## Pontos-Chave para Prova
+## Beta-oxidação: ciclo espiral
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Sequência: **oxidação** → **hidratação** → **oxidação** → **tiólise**, liberando **acetil-CoA** e **acil-CoA** encurtado. **FAD** e **NAD⁺** carregam elétrons para **ETC**.
+
+**Ácidos ímpares** terminam em **propionil-CoA** → **succinil-CoA** (TCA).
+
+---
+
+## Cetogênese (visão integrada)
+
+**Acetil-CoA** abundante (jejum, DM descompensado) → **cetogênese hepática** (**HMG-CoA sintase** específica hepática) → **corpos cetônicos** (**acetacetato**, **beta-hidroxibutirato**, **acetona**).
+
+**Cérebro** pode usar **cetona** em **jejum prolongado** como combustível alternativo.
+
+> **Pegadinha:** **Cetose fisiológica** (jejum) ≠ **acidose cetótica** — o segundo inclui **hiperglicemia** e **ângulo aniônico** em contexto de **deficit de insulina**.
+
+---
+
+## Síntese de ácidos graxos (citoplasma)
+
+**Acetil-CoA carboxilase (ACC)** → **malonil-CoA** (passo **limitante**). **Ácido graxo sintase** elongando **palmitato (C16)**.
+
+**NADPH** vem principalmente da **PPP** e do **malato** (shuttle).
+
+**Insulina** ativa **lipogênese**; **jejum** inibe.
+
+---
+
+## Comparativo: oxidação vs síntese
+
+| | Beta-oxidação | Lipogênese |
+|---|---------------|------------|
+| Local principal | mitocôndria | citoplasma |
+| Hormônio | glucagon favorece oxidação | insulina favorece síntese |
+| Sinal CPT I | ativo em jejum | inibido por malonil-CoA |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Beta-oxidação e Síntese de Ácidos Graxos aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Deficiência de CPT II** ou **defeitos de beta-oxidação** → **crises** com **jejum**, **hipocetonemia** inapropriada, **aciduria orgânica**. **Fibratos** e **ácidos graxos ômega-3** atuam em **vias lipídicas** — conhecer **alvo enzimático** ajuda em farmaco. **Alcoolismo** crônico mistura **hepatopatia** e **dislipidemia**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **CPT I/carnitina** = transporte; **malonil-CoA** inibe.
+- Cada volta de beta-oxidação gera **acetil-CoA** + **NADH/FADH₂**.
+- **Lipogênese** usa **NADPH** e **malonil-CoA**.
+- **Cetonas** = combustível alternativo; **CAD** = excesso patológico.
 
 ---
 
@@ -261,24 +89,25 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Ativação** citoplasmática + **carnitina** para cadeias longas.
+- **Regulação recíproca** oxidação/síntese via **malonil-CoA**.
+- **Propionil-CoA** em cadeias ímpares.
+- **Insulina** favorece **armazenar**; **jejum** favorece **queimar**.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Cetose nutricional | CAD | Ausência de hiperglicemia grave e desequilíbrio ácido-base. |
+| Beta-oxidação peroxissomal | Mitocondrial | Cadeias **muito longas** e alguns ácidos — papéis distintos. |
+| Palmitato | Elongases/desaturases | Palmitato é **primeira síntese completa**; depois há remodelagem. |
+
+---
+
+## Ácidos graxos essenciais (menção)
+
+**ω-3** e **ω-6** não são sintetizados em quantidade adequada — devem vir da **dieta**; derivam **eicosanoides** com **efeitos** inflamatórios distintos (visão geral de prova).
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Malonil-CoA fecha a porta da mitocôndria para não queimar o que acabou de fazer.”

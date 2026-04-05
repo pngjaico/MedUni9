@@ -1,7 +1,7 @@
 /**
  * MedGrad+ — Servidor Admin Local
  * node server.js → http://localhost:3001/admin.html
- * Endpoints: /api/ping /api/data/:file /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
+ * Endpoints: /api/ping /api/data/:file (incl. materiais_figuras) /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
  *            /api/feedback/raw-pending /api/feedback/raw-approved /api/feedback/plans
  *            /api/feedback/raw/approve/:id /api/feedback/raw/deny/:id
  *            /api/feedback/plan/approve/:id /api/feedback/plan/deny/:id
@@ -14,6 +14,7 @@ const url  = require('url');
 
 const PORT = 3001;
 const ROOT = __dirname;
+const SERVER_LOG_FILE = path.join(ROOT, 'data', 'agent_logs', 'server_errors.log');
 
 const FEEDBACK_ROOT         = path.join(ROOT, 'data', 'feedback');
 const FEEDBACK_INCOMING_DIR = path.join(FEEDBACK_ROOT, 'incoming');
@@ -51,6 +52,17 @@ function json(res, code, obj) {
   res.end(JSON.stringify(obj));
 }
 
+function logServerError(scope, error, extra = null) {
+  try {
+    const now = new Date().toISOString();
+    const msg = error && error.stack ? error.stack : String(error);
+    const detail = extra ? `\nEXTRA: ${JSON.stringify(extra)}` : '';
+    const line = `[${now}] [${scope}] ${msg}${detail}\n\n`;
+    fs.mkdirSync(path.dirname(SERVER_LOG_FILE), { recursive: true });
+    fs.appendFileSync(SERVER_LOG_FILE, line, 'utf8');
+  } catch {}
+}
+
 function readBody(req) {
   return new Promise(resolve => {
     let body = '';
@@ -61,6 +73,7 @@ function readBody(req) {
 
 // Allowed data files (whitelist)
 const ALLOWED = ['materias', 'codigos', 'flashcards', 'questoes', 'questoes_antigas', 'questoes_ineditas',
+                 'embaixadores', 'cupons', 'vendas_mensais', 'materiais_figuras',
                  'agent_logs/status_curadoria', 'agent_logs/status_ingestao', 'agent_logs/status_deploy',
                  'agent_logs/status_feedback', 'agent_logs/status_feedback_planos'];
 
@@ -162,19 +175,20 @@ function movePlan(planId, finalStatus, notaAdmin) {
 }
 
 const server = http.createServer(async (req, res) => {
-  const parsed   = url.parse(req.url, true);
-  const pathname = parsed.pathname;
+  try {
+    const parsed   = url.parse(req.url, true);
+    const pathname = parsed.pathname;
 
-  // Preflight
-  if (req.method === 'OPTIONS') { cors(res); res.writeHead(200); res.end(); return; }
+    // Preflight
+    if (req.method === 'OPTIONS') { cors(res); res.writeHead(200); res.end(); return; }
 
-  // ── GET /api/ping ──────────────────────────────────────────────────────────
-  if (pathname === '/api/ping') {
-    return json(res, 200, { ok: true, mode: 'local', version: '1.0' });
-  }
+    // ── GET /api/ping ──────────────────────────────────────────────────────────
+    if (pathname === '/api/ping') {
+      return json(res, 200, { ok: true, mode: 'local', version: '1.0' });
+    }
 
-  // ── GET /api/data/:file ────────────────────────────────────────────────────
-  if (req.method === 'GET' && pathname.startsWith('/api/data/')) {
+    // ── GET /api/data/:file ────────────────────────────────────────────────────
+    if (req.method === 'GET' && pathname.startsWith('/api/data/')) {
     const key = pathname.replace('/api/data/', '');
     if (!ALLOWED.includes(key)) return json(res, 403, { error: 'Forbidden' });
     const filePath = path.join(ROOT, 'data', key + '.json');
@@ -183,11 +197,11 @@ const server = http.createServer(async (req, res) => {
       cors(res); res.writeHead(200, { 'Content-Type': 'application/json' });
       res.end(data);
     } catch { json(res, 404, { error: 'Not found' }); }
-    return;
-  }
+      return;
+    }
 
-  // ── PUT /api/data/:file ────────────────────────────────────────────────────
-  if (req.method === 'PUT' && pathname.startsWith('/api/data/')) {
+    // ── PUT /api/data/:file ────────────────────────────────────────────────────
+    if (req.method === 'PUT' && pathname.startsWith('/api/data/')) {
     const key = pathname.replace('/api/data/', '');
     if (!ALLOWED.includes(key)) return json(res, 403, { error: 'Forbidden' });
     const filePath = path.join(ROOT, 'data', key + '.json');
@@ -199,12 +213,12 @@ const server = http.createServer(async (req, res) => {
       fs.writeFileSync(filePath, body, 'utf8');
       json(res, 200, { ok: true });
     } catch (e) { json(res, 400, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── PUT /api/admin ─────────────────────────────────────────────────────────
+    // ── PUT /api/admin ─────────────────────────────────────────────────────────
   // Replaces ADMIN_HASH in admin.html when password changes
-  if (req.method === 'PUT' && pathname === '/api/admin') {
+    if (req.method === 'PUT' && pathname === '/api/admin') {
     const body = await readBody(req);
     try {
       const { hash } = JSON.parse(body);
@@ -218,22 +232,22 @@ const server = http.createServer(async (req, res) => {
       fs.writeFileSync(adminPath, content, 'utf8');
       json(res, 200, { ok: true });
     } catch (e) { json(res, 400, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── GET /api/git/status ────────────────────────────────────────────────────
-  if (req.method === 'GET' && pathname === '/api/git/status') {
+    // ── GET /api/git/status ────────────────────────────────────────────────────
+    if (req.method === 'GET' && pathname === '/api/git/status') {
     try {
       const status  = execSync('git status --short', { cwd: ROOT, encoding: 'utf8' });
       const log     = execSync('git log --oneline -8', { cwd: ROOT, encoding: 'utf8' });
       const branch  = execSync('git branch --show-current', { cwd: ROOT, encoding: 'utf8' }).trim();
       json(res, 200, { ok: true, status: status.trim(), log: log.trim(), branch });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/git/commit ───────────────────────────────────────────────────
-  if (req.method === 'POST' && pathname === '/api/git/commit') {
+    // ── POST /api/git/commit ───────────────────────────────────────────────────
+    if (req.method === 'POST' && pathname === '/api/git/commit') {
     const body = await readBody(req);
     try {
       const { message = 'chore: update via admin panel' } = JSON.parse(body || '{}');
@@ -245,57 +259,57 @@ const server = http.createServer(async (req, res) => {
       const hash = execSync('git rev-parse --short HEAD', { cwd: ROOT, encoding: 'utf8' }).trim();
       json(res, 200, { ok: true, commit: hash });
     } catch (e) { json(res, 500, { error: e.stderr || e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/deploy ───────────────────────────────────────────────────────
-  if (req.method === 'POST' && pathname === '/api/deploy') {
+    // ── POST /api/deploy ───────────────────────────────────────────────────────
+    if (req.method === 'POST' && pathname === '/api/deploy') {
     exec('firebase deploy --only hosting', { cwd: ROOT }, (err, stdout, stderr) => {
       if (err) json(res, 500, { error: stderr || err.message });
       else     json(res, 200, { ok: true, output: stdout });
     });
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/agent/run/:name ──────────────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/agent/run/')) {
+    // ── POST /api/agent/run/:name ──────────────────────────────────────────────
+    if (req.method === 'POST' && pathname.startsWith('/api/agent/run/')) {
     const name = pathname.replace('/api/agent/run/', '').replace(/[^a-z_]/g, '');
     const bat  = path.join(ROOT, '.agents', `run_${name}.bat`);
     if (!fs.existsSync(bat)) return json(res, 404, { error: 'Agent not found' });
     exec(`"${bat}"`, { cwd: ROOT }, (err, stdout) => {
       json(res, 200, { ok: !err, output: stdout || (err && err.message) });
     });
-    return;
-  }
+      return;
+    }
 
-  // ── GET /api/feedback/raw-pending ─────────────────────────────────────────
-  if (req.method === 'GET' && pathname === '/api/feedback/raw-pending') {
+    // ── GET /api/feedback/raw-pending ─────────────────────────────────────────
+    if (req.method === 'GET' && pathname === '/api/feedback/raw-pending') {
     try {
       const feedbacks = loadRawFeedbackPending().map(stripSourceMeta);
       json(res, 200, { ok: true, feedbacks });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // Compat route (old admin builds)
-  if (req.method === 'GET' && (pathname === '/api/feedback/requests' || pathname === '/api/feedback/incoming')) {
+    // Compat route (old admin builds)
+    if (req.method === 'GET' && (pathname === '/api/feedback/requests' || pathname === '/api/feedback/incoming')) {
     try {
       const feedbacks = loadRawFeedbackPending().map(stripSourceMeta);
       json(res, 200, { ok: true, requests: feedbacks, feedbacks });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── GET /api/feedback/raw-approved ────────────────────────────────────────
-  if (req.method === 'GET' && pathname === '/api/feedback/raw-approved') {
+    // ── GET /api/feedback/raw-approved ────────────────────────────────────────
+    if (req.method === 'GET' && pathname === '/api/feedback/raw-approved') {
     try {
       json(res, 200, { ok: true, feedbacks: loadJsonObjects(FEEDBACK_APPROVED_DIR) });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/feedback/raw/create ─────────────────────────────────────────
-  if (req.method === 'POST' && pathname === '/api/feedback/raw/create') {
+    // ── POST /api/feedback/raw/create ─────────────────────────────────────────
+    if (req.method === 'POST' && pathname === '/api/feedback/raw/create') {
     try {
       const body = await readBody(req);
       const payload = body ? JSON.parse(body) : {};
@@ -327,42 +341,42 @@ const server = http.createServer(async (req, res) => {
     } catch (e) {
       json(res, 500, { ok: false, error: e.message });
     }
-    return;
-  }
+      return;
+    }
 
-  // ── GET /api/feedback/plans ───────────────────────────────────────────────
-  if (req.method === 'GET' && pathname === '/api/feedback/plans') {
+    // ── GET /api/feedback/plans ───────────────────────────────────────────────
+    if (req.method === 'GET' && pathname === '/api/feedback/plans') {
     try {
       const plans = loadJsonObjects(FEEDBACK_PLANS_DIR).filter(item => item.status === 'pendente');
       json(res, 200, { ok: true, plans });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/feedback/raw/approve/:id ────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/approve/')) {
+    // ── POST /api/feedback/raw/approve/:id ────────────────────────────────────
+    if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/approve/')) {
     const id = pathname.replace('/api/feedback/raw/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
     try {
       const moved = moveRawFeedback(id, FEEDBACK_APPROVED_DIR, 'bruto_aprovado');
       if (!moved) return json(res, 404, { error: 'Feedback bruto não encontrado' });
       json(res, 200, { ok: true, feedback: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/feedback/raw/deny/:id ───────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/deny/')) {
+    // ── POST /api/feedback/raw/deny/:id ───────────────────────────────────────
+    if (req.method === 'POST' && pathname.startsWith('/api/feedback/raw/deny/')) {
     const id = pathname.replace('/api/feedback/raw/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
     try {
       const moved = moveRawFeedback(id, FEEDBACK_DENIED_DIR, 'bruto_negado');
       if (!moved) return json(res, 404, { error: 'Feedback bruto não encontrado' });
       json(res, 200, { ok: true, feedback: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/feedback/plan/approve/:id ───────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/approve/')) {
+    // ── POST /api/feedback/plan/approve/:id ───────────────────────────────────
+    if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/approve/')) {
     const id = pathname.replace('/api/feedback/plan/approve/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
     try {
       const body = await readBody(req);
@@ -372,11 +386,11 @@ const server = http.createServer(async (req, res) => {
       if (!moved) return json(res, 404, { error: 'Plano não encontrado' });
       json(res, 200, { ok: true, plan: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── POST /api/feedback/plan/deny/:id ──────────────────────────────────────
-  if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/deny/')) {
+    // ── POST /api/feedback/plan/deny/:id ──────────────────────────────────────
+    if (req.method === 'POST' && pathname.startsWith('/api/feedback/plan/deny/')) {
     const id = pathname.replace('/api/feedback/plan/deny/', '').replace(/[^a-zA-Z0-9_\-]/g, '');
     try {
       const body = await readBody(req);
@@ -386,33 +400,54 @@ const server = http.createServer(async (req, res) => {
       if (!moved) return json(res, 404, { error: 'Plano não encontrado' });
       json(res, 200, { ok: true, plan: moved });
     } catch (e) { json(res, 500, { error: e.message }); }
-    return;
-  }
+      return;
+    }
 
-  // ── Static files ───────────────────────────────────────────────────────────
-  let filePath = pathname === '/' ? '/admin.html' : pathname;
-  filePath = path.join(ROOT, filePath);
+    // ── Static files ───────────────────────────────────────────────────────────
+    let filePath = pathname === '/' ? '/admin.html' : pathname;
+    filePath = path.join(ROOT, filePath);
 
-  // Security: only serve files within ROOT
-  if (!filePath.startsWith(ROOT)) { res.writeHead(403); res.end('Forbidden'); return; }
+    // Security: only serve files within ROOT
+    if (!filePath.startsWith(ROOT)) { res.writeHead(403); res.end('Forbidden'); return; }
 
-  try {
-    const content     = fs.readFileSync(filePath);
-    const ext         = path.extname(filePath).toLowerCase();
-    const contentType = MIME[ext] || 'application/octet-stream';
-    cors(res);
-    res.writeHead(200, { 'Content-Type': contentType });
-    res.end(content);
-  } catch {
-    res.writeHead(404);
-    res.end('Not found');
+    try {
+      const content     = fs.readFileSync(filePath);
+      const ext         = path.extname(filePath).toLowerCase();
+      const contentType = MIME[ext] || 'application/octet-stream';
+      cors(res);
+      res.writeHead(200, { 'Content-Type': contentType });
+      res.end(content);
+    } catch {
+      res.writeHead(404);
+      res.end('Not found');
+    }
+  } catch (e) {
+    logServerError('request-handler', e, {
+      method: req?.method,
+      url: req?.url,
+      headers: req?.headers,
+    });
+    if (!res.headersSent) {
+      json(res, 500, { ok: false, error: 'Internal server error' });
+    }
   }
 });
 
-server.listen(PORT, '127.0.0.1', () => {
+process.on('uncaughtException', (err) => {
+  logServerError('uncaughtException', err);
+  console.error('Uncaught exception (server kept alive):', err && err.stack ? err.stack : err);
+});
+
+process.on('unhandledRejection', (reason) => {
+  logServerError('unhandledRejection', reason);
+  console.error('Unhandled rejection (server kept alive):', reason);
+});
+
+server.listen(PORT, () => {
   console.log('\n┌─────────────────────────────────────────────┐');
   console.log(`│  MedGrad+ Admin Server                       │`);
   console.log(`│  http://localhost:${PORT}/admin.html           │`);
+  console.log(`│  Figuras materiais: /figuras-materiais/       │`);
   console.log('│  Feche esta janela para encerrar.            │');
   console.log('└─────────────────────────────────────────────┘\n');
 });

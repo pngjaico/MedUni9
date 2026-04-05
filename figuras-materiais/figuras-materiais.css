@@ -1,0 +1,350 @@
+/* MedGrad+ — Painel Figuras dos materiais (Wikimedia / URLs) */
+:root {
+  --fm-bg0: #0a1628;
+  --fm-bg1: #0f2744;
+  --fm-surface: rgba(255, 255, 255, 0.05);
+  --fm-border: rgba(255, 255, 255, 0.1);
+  --fm-text: #e5e7eb;
+  --fm-muted: #9ca3af;
+  --fm-accent: #00b4d8;
+  --fm-success: #10b981;
+  --fm-warn: #f59e0b;
+  --fm-err: #ef4444;
+  --fm-font: "DM Sans", system-ui, sans-serif;
+  --fm-display: "Outfit", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--fm-font);
+  color: var(--fm-text);
+  background: linear-gradient(145deg, var(--fm-bg0) 0%, var(--fm-bg1) 55%, #0a1f35 100%);
+}
+
+a {
+  color: var(--fm-accent);
+}
+
+.fm-header {
+  padding: 28px 32px 12px;
+  border-bottom: 1px solid var(--fm-border);
+}
+
+.fm-header h1 {
+  font-family: var(--fm-display);
+  font-size: 1.65rem;
+  font-weight: 700;
+  margin: 0 0 8px;
+  color: var(--fm-accent);
+}
+
+.fm-header p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--fm-muted);
+  max-width: 720px;
+  line-height: 1.5;
+}
+
+.fm-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  padding: 16px 32px;
+  border-bottom: 1px solid var(--fm-border);
+  background: rgba(0, 0, 0, 0.15);
+}
+
+.fm-toolbar label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--fm-muted);
+  display: block;
+  margin-bottom: 4px;
+}
+
+.fm-input,
+.fm-select {
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--fm-border);
+  border-radius: 10px;
+  color: var(--fm-text);
+  padding: 10px 12px;
+  font-size: 0.9rem;
+  font-family: var(--fm-font);
+  min-width: 200px;
+}
+
+.fm-input:focus,
+.fm-select:focus {
+  outline: none;
+  border-color: var(--fm-accent);
+}
+
+.fm-btn {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 18px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: var(--fm-font);
+  cursor: pointer;
+  transition: background 0.15s, transform 0.1s;
+}
+
+.fm-btn:active {
+  transform: scale(0.98);
+}
+
+.fm-btn-primary {
+  background: var(--fm-accent);
+  color: #061018;
+}
+
+.fm-btn-primary:hover {
+  filter: brightness(1.08);
+}
+
+.fm-btn-ghost {
+  background: var(--fm-surface);
+  color: var(--fm-text);
+  border: 1px solid var(--fm-border);
+}
+
+.fm-btn-ghost:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.fm-status {
+  font-size: 0.85rem;
+  margin-left: auto;
+}
+
+.fm-status.ok {
+  color: var(--fm-success);
+}
+
+.fm-status.err {
+  color: var(--fm-err);
+}
+
+.fm-main {
+  padding: 20px 32px 48px;
+  overflow-x: auto;
+}
+
+.fm-table-wrap {
+  border: 1px solid var(--fm-border);
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--fm-surface);
+}
+
+table.fm-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.fm-table th {
+  text-align: left;
+  padding: 12px 10px;
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--fm-muted);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.68rem;
+  white-space: nowrap;
+}
+
+.fm-table td {
+  padding: 10px;
+  border-top: 1px solid var(--fm-border);
+  vertical-align: top;
+}
+
+.fm-table tr:hover td {
+  background: rgba(0, 180, 216, 0.04);
+}
+
+.fm-table code {
+  font-size: 0.75rem;
+  background: rgba(0, 0, 0, 0.35);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.fm-cell-input {
+  width: 100%;
+  min-width: 220px;
+  background: rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--fm-border);
+  border-radius: 8px;
+  color: var(--fm-text);
+  padding: 8px 10px;
+  font-size: 0.8rem;
+  font-family: ui-monospace, monospace;
+}
+
+.fm-cell-input:focus {
+  outline: none;
+  border-color: var(--fm-accent);
+}
+
+.fm-cell-small {
+  min-width: 100px;
+}
+
+.fm-preview {
+  max-width: 120px;
+  max-height: 80px;
+  object-fit: contain;
+  border-radius: 6px;
+  background: #000;
+  display: block;
+}
+
+.fm-badge {
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.fm-badge-pendente {
+  background: rgba(245, 158, 11, 0.2);
+  color: #fcd34d;
+}
+
+.fm-badge-encontrada {
+  background: rgba(59, 130, 246, 0.2);
+  color: #93c5fd;
+}
+
+.fm-badge-inserida {
+  background: rgba(16, 185, 129, 0.2);
+  color: #6ee7b7;
+}
+
+.fm-expand {
+  max-width: 280px;
+  font-size: 0.78rem;
+  color: var(--fm-muted);
+  line-height: 1.4;
+}
+
+.fm-row-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.fm-row-actions .fm-btn {
+  padding: 6px 10px;
+  font-size: 0.75rem;
+}
+
+.fm-footnote {
+  margin-top: 24px;
+  font-size: 0.8rem;
+  color: var(--fm-muted);
+  max-width: 900px;
+  line-height: 1.6;
+}
+
+@media (max-width: 1100px) {
+  .fm-table-wrap {
+    min-width: 900px;
+  }
+}
+
+/* Modal briefing editorial */
+.fm-dialog {
+  border: 1px solid var(--fm-border);
+  border-radius: 16px;
+  padding: 0;
+  max-width: min(640px, 96vw);
+  background: linear-gradient(180deg, #0f2744 0%, #0a1628 100%);
+  color: var(--fm-text);
+  box-shadow: 0 24px 80px rgba(0, 0, 0, 0.55);
+}
+
+.fm-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.fm-dialog-inner {
+  padding: 24px 26px 20px;
+}
+
+.fm-dialog-title {
+  font-family: var(--fm-display);
+  font-size: 1.15rem;
+  margin: 0 0 8px;
+  color: var(--fm-accent);
+}
+
+.fm-dialog-hint {
+  font-size: 0.82rem;
+  color: var(--fm-muted);
+  margin: 0 0 18px;
+  line-height: 1.45;
+}
+
+.fm-dialog-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px 14px;
+}
+
+.fm-dialog-grid label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--fm-muted);
+}
+
+.fm-dialog-grid label.fm-span-2 {
+  grid-column: 1 / -1;
+}
+
+.fm-textarea {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid var(--fm-border);
+  border-radius: 10px;
+  color: var(--fm-text);
+  padding: 10px 12px;
+  font-size: 0.88rem;
+  font-family: var(--fm-font);
+  resize: vertical;
+  min-height: 52px;
+}
+
+.fm-textarea:focus {
+  outline: none;
+  border-color: var(--fm-accent);
+}
+
+.fm-dialog-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--fm-border);
+}

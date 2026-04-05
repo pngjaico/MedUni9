@@ -1,4 +1,4 @@
-# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
+﻿# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A aula prática de anatomia e histologia respiratória é a síntese visual de t
 
 Esta aula também integra o conteúdo de todo o BMF2: embriologia, morfologia, histologia e fisiologia do sistema respiratório se unem aqui em uma revisão consolidada. É o momento de fechar lacunas antes da prova.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A16-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Roteiro de Anatomia Macroscópica do Sistema Respiratório
 
@@ -148,3 +163,11 @@ A **toracocentese** (punção de derrame pleural) deve ser realizada abaixo da e
 ### Frase-âncora para não esquecer
 
 > "Corpo estranho sempre vai para o brônquio direito — é mais vertical e curto. Derrame sempre começa no recesso costodiafragmático — é o ponto mais baixo do tórax."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

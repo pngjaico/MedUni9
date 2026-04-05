@@ -1,4 +1,4 @@
-# Biotecnologias e Bioinformática
+﻿# Biotecnologias e Bioinformática
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A medicina contemporânea é inseparável das ferramentas biotecnológicas. O di
 
 A bioinformática — o uso de algoritmos computacionais para análise de dados biológicos — tornou-se a espinha dorsal do sequenciamento genômico de nova geração (NGS), da identificação de variantes patogênicas e da medicina de precisão. Entender os princípios de PCR, eletroforese, CRISPR e sequenciamento é hoje tão básico para o médico moderno quanto interpretar um eletrocardiograma.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A12-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## PCR — Reação em Cadeia da Polimerase
 
@@ -207,3 +222,11 @@ Endonucleases que cortam DNA em sítios específicos (palindrômicos). *EcoRI* (
 ### Frase-âncora para não esquecer
 
 > "PCR copia DNA como uma fotocopiadora: você escolhe qual trecho (primers), aquece para separar (desnatura), esfria para grudar (anela) e esquenta para produzir (extende). RT-PCR precisa primeiro converter a fita de RNA em cDNA — o 'RT' é o tradutor do RNA para que o PCR possa copiar."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

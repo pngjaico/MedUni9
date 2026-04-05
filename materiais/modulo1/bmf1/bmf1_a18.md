@@ -1,272 +1,81 @@
-# BMF1 - Aula 18: Anatomia da Parede Abdominal e Peritônio
+# BMF1 — Aula 18: Anatomia da Parede Abdominal e Peritônio
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Anatomia da Parede Abdominal e Peritônio é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+A **parede abdominal** protege vísceras, gera **pressão intra-abdominal** para **tosse**, **parto** e **esforço**, e serve de **via** para **laparotomias** e **punções**. O **peritônio** — **serosa** que reveste a cavidade e envolve órgãos — define **planos** de **drenagem**, **abscesso** e **aderências**. Sem mapa de **camadas** e **regiões**, erros de **incisão** e interpretação de **imagem** multiplicam-se.
 
 ---
 
-## Organização Topográfica
-
-A leitura de Anatomia da Parede Abdominal e Peritônio começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
-
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Anatomia da Parede Abdominal e Peritônio fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Anatomia da Parede Abdominal e Peritônio com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Anatomia da Parede Abdominal e Peritônio.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Anatomia da Parede Abdominal e Peritônio está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Anatomia da Parede Abdominal e Peritônio, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Anatomia da Parede Abdominal e Peritônio aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## Regiões e planos (visão de superfície)
+
+| Região | Marco útil | Nota |
+|--------|------------|------|
+| **Região inguinal** | Ligamento inguinal, anel profundo/superficial | Hérnias e canal inguinal |
+| **Flanco** | Entre costelas e crista ilíaca | Acesso retroperitoneal em contexto avançado |
+| **Hipogástrio** | Acima da sínfise | Bexiga, útero (anatomia relativa) |
 
 ---
 
-## Pontos-Chave para Prova
+## Camadas da parede anterolateral (do superficial ao profundo)
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Camada | Conteúdo principal |
+|--------|-------------------|
+| Pele | Inervação segmentar (dermatomas) |
+| **Fáscia superficial** (Camper / Scarpa conforme sítio) | Gordura; **Scarpa** mais fibrosa inferiormente |
+| **Músculo** | **Retos** (linha alba), **oblíquo externo**, **oblíquo interno**, **transverso** |
+| **Fáscia transversal** | Profunda ao transverso |
+| **Peritônio parietal** | Reveste a parede da cavidade |
+
+> **Dica de Prova:** **Linha alba** — ponto **relativamente avascular** para incisões mediana, mas **aderências** e **variações** existem — o conceito é **topografia**, não “sempre zero sangramento”.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A18-F01`
+
+- **Momento:** após tabela das camadas.
+- **O que mostrar:** esquema frontal da parede com camadas nomeadas (oblíquos, reto, transverso) e linha alba.
+- **Tipo sugerido:** ilustração estilo atlas.
+- **Legenda (rascunho):** “Parede abdominal: planos musculares e fáscias.”
+- **Notas (opcional):** Wikimedia Commons “abdominal wall layers anatomy”.
+
+---
+
+## Canal inguinal (conceito integrado)
+
+O **canal inguinal** é um **túnel oblíquo** na parede **inferior**; contém o **ligamento redondo** na mulher e o **ducto deferente** + **vasos** no homem, com **fáscia** e **músculo** formando **teto** e **piso**. **Hérnia inguinal** direta versus indireta diferem em relação ao **triângulo de Hasselbach** e **anel profundo** — detalhe cirúrgico; em BMF1, fixe **local** e **estruturas** que passam.
+
+---
+
+## Peritônio: parietal, visceral, espaços
+
+O **peritônio parietal** adere à parede; o **visceral** reveste órgãos. Entre eles há **potencial** de **cavidade** com **líquido** livre em patologia. **Mesentério** ancora intestino delgado ao **retroperitônio**; **ligamentos** (ex.: **hepatoduodenal** na **porta**) organizam **vasos** e **vias biliares**.
+
+---
+
+## Retroperitônio versus peritônio
+
+Órgãos **retroperitônicos** (rim, ureter, parte do duodeno, pâncreas) têm **face** anterior coberta por **peritônio** ou **fascia** conforme o sítio — em prova, “**intraperitoneal**” versus “**retroperitoneal**” altera **mobilidade** e **padrão** de **abscesso**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Anatomia da Parede Abdominal e Peritônio aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Laparotomia** segue **planos** para **hematoma** limitado ou **difuso** conforme a **fáscia** rompida. **Pneumoperitônio** livre em **radiografia** sugere **perfuração** oca — anatomia explica **onde** procurar **origem** (estômago, cólon, etc.). **Punção** **suprapúbica** ou **paracentese** respeitam **camadas** e **vascularização**.
+
+---
+
+## Pontos-Chave para Prova
+
+- Ordem geral: **pele → fáscia superficial → músculos → fáscia transversal → peritônio parietal**.
+- **Reto abdominal** na **linha mediana**; **oblíquos** e **transverso** na **parede lateral**.
+- **Canal inguinal** — **obliqüidade** e **conteúdo** por sexo.
+- **Parietal** versus **visceral** peritônio.
+- **Mesentério** como **âncora** do delgado.
 
 ---
 
@@ -276,24 +85,26 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Nomear **três** músculos da parede **anterolateral** além do reto.
+- O que é **linha alba** e por que é referência.
+- Diferença **peritônio parietal** e **visceral** em uma frase.
+- O que atravessa o **canal inguinal** no homem (par).
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Camper | Scarpa | Gordura superficial vs lâmina mais fibrosa |
+| Intraperitoneal | Retroperitoneal | Mesentério completo vs fixação dorsal |
+| Peritônio parietal | Visceral | Parede da cavidade vs superfície do órgão |
+| Hérnia inguinal | Femoral | Anatomia do anel e localização clínica (visão geral) |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Da pele ao peritônio, cada fáscia é um plano onde o líquido ou o ar podem parar — ou não.”
+
+---
+
+## Referências de estudo
+
+Moore, Dalley e Agur (abdome); Netter para esquemas de camadas e canal inguinal; correlacionar com **bmf1_a19** para continuidade do tubo digestório.

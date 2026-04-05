@@ -1,272 +1,81 @@
-# BMF1 - Aula 12: Fisiologia da Contração Muscular
+# BMF1 — Aula 12: Fisiologia da Contração Muscular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Fisiologia da Contração Muscular é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+A contração muscular esquelética transforma energia química (ATP) em força e movimento através do ciclo de ligação cruzada entre miosina e actina, regulado por cálcio intracelular e pela troponina–tropomiosina. Dominar a **teoria dos filamentos deslizantes**, o papel do **Ca²⁺** liberado do retículo sarcoplasmático e a **curva comprimento–tensão** é base para farmacologia neuromuscular, interpretação de fadiga e raciocínio sobre bloqueio neuromuscular em anestesia. Em prova, confundir potencial de placa terminal com potencial de ação da fibra é erro clássico.
 
 ---
 
-## Organização Topográfica
+## Teoria dos filamentos deslizantes (resumo funcional)
 
-A leitura de Fisiologia da Contração Muscular começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+Com o aumento de Ca²⁺ sarcoplasmático, a troponina desloca a tropomiosina e expõe sítios de ligação da actina à cabeça da miosina. O ciclo de **ligação cruzada** hidrolisa ATP, gera movimento relativo dos filamentos e **encurtamento do sarcômero** sem encurtar os próprios filamentos. Quando o Ca²⁺ cai, a contração cessa — daí a importância de bombas de Ca²⁺ e do **SR** na relaxamento.
 
-## Camadas, Compartimentos e Relações
+### Figura sugerida
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+**Figura-ID:** `BMF1-A12-F01`
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Fisiologia da Contração Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Fisiologia da Contração Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fisiologia da Contração Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Fisiologia da Contração Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fisiologia da Contração Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Fisiologia da Contração Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após teoria dos filamentos.
+- **O que mostrar:** esquema do ciclo cross-bridge ou curva comprimento–tensão com região ótima de sobreposição actina–miosina.
+- **Tipo sugerido:** figura de livro-texto de fisiologia (Guyton/Costanzo) ou equivalente em Commons.
+- **Legenda (rascunho):** “Sobreposição de filamentos e tensão isométrica máxima.”
 
 ---
 
-## Pontos-Chave para Prova
+## Acoplamento excitação–contração
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Potencial de ação na membrana da fibra dispara descarga de Ca²⁺ do RS via canais de rianodina. **ATP** é necessário tanto para a miosina (ciclo) quanto para bombas que repõem gradientes. Bloqueadores de canal, distúrbios eletrolíticos e isquemia alteram este elo — clinicamente aparecem como fraqueza, rigidez ou arritmia quando o tecido é cardíaco.
+
+---
+
+## Unidade motora e tétano
+
+Um motoneurônio alfa inerva várias fibras; todas disparam juntas quando o neurônio dispara. Frequência de disparo alta produz **somatétano** — fusão de contrações parciais em tônus sustentado. Recrutamento progressivo mobiliza unidades motoras adicionais para mais força antes de atingir frequência máxima em cada unidade. Fadiga central versus periférica são conceitos distintos do conteúdo desta aula, mas o aluno deve saber onde a fisiologia muscular termina e onde começa o sistema nervoso central.
+
+---
+
+## Liberação de Ca²⁺ do retículo (passos lógicos)
+
+| Etapa | O que ocorre | Detalhe de prova |
+|-------|----------------|------------------|
+| 1 | Despolarização da membrana | Propagação ao longo da fibra e aos túbulos T |
+| 2 | Sinal para o RS | Canais de rianodina liberam Ca²⁺ do retículo |
+| 3 | Aumento citoplasmático | Troponina/tropomiosina permitem pontes cruzadas |
+| 4 | Relaxamento | Recaptação de Ca²⁺ consome **ATP** (bombas) |
+
+> **Pegadinha:** Confundir **potencial de placa** (evento local na junção) com **potencial de ação** da fibra inteira — a prova gosta de trocar os nomes no enunciado.
+
+---
+
+## Hipertermia maligna (menção integrativa)
+
+Mutações no receptor de rianodina podem desencadear **liberação descontrolada de Ca²⁺** e hipermetabolismo em resposta a certos anestésicos voláteis e succinilcolina — quadro de emergência em anestesia, não detalhado aqui, mas o vínculo com **Ca²⁺** e **RS** ancora a fisiologia desta aula.
+
+---
+
+## Tipos de contração e curva comprimento–tensão
+
+**Isométrica**: comprimento fixo, tensão varia. **Concêntrica**: fibra encurta. **Excêntrica**: fibra alonga sob tensão — alto estresse estrutural, comum em treino e lesão. A tensão isométrica máxima ocorre na **sobreposição ótima** entre filamentos; muito encurtado ou muito alongado reduz força (menos pontes cruzadas eficazes).
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Fisiologia da Contração Muscular aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Bloqueadores neuromuscular não despolarizantes competem com acetilcolina no receptor nicotínico da placa terminal — paralisam sem sedação. Hipercalemia eleva limiar de excitabilidade de membrana e pode agravar bloqueio. Distúrbios mitocondriais limitam ATP e favorecem fadiga precoce. Em UTI, “despertar” farmacológico exige entender que relaxamento muscular não implica ausência de dor percebida.
+
+---
+
+## Pontos-Chave para Prova
+
+- Papel do Ca²⁺ na ativação da contratilidade.  
+- ATP no ciclo da miosina e nas bombas.  
+- Diferença entre potencial de placa e potencial de fibra (conceito).  
+- Contração concêntrica versus excêntrica — implicação de lesão.  
+- Por que existe comprimento ótimo para tensão isométrica.
 
 ---
 
@@ -276,24 +85,27 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Nome dos filamentos grosso e fino e proteínas reguladoras principais.  
+- Sequência: despolarização → Ca²⁺ → remoção da inibição troponina → pontes cruzadas.  
+- O que é somatétano em uma frase.  
+- Por que excêntrico gera mais dano microestrutural que concêntrico em mesma carga.  
+- Que ATP é consumido no relaxamento ativo (bombas).
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Potencial de placa | Potencial de ação da fibra | Evento local nicotínico vs propagação por membrana |
+| Contração isométrica | Isotônica | Tensão sem mudança de comprimento vs comprimento muda |
+| Fadiga periférica | Central | Metabólito/mioplasmático vs comando e motivação |
+| Bloqueio despolarizante | Não despolarizante | Sucessiva despolarização vs competição competitiva |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sem Ca²⁺ na sarcoplasma, a miosina não ‘pega’ a actina — por isso o relaxamento é ativo.”
+
+---
+
+## Referências de estudo
+
+Guyton & Hall ou Costanzo (BRS Fisiologia) para curvas e integração; correlacionar com aula 11 de histologia para imagem do sarcômero.

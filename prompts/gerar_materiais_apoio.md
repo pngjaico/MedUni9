@@ -18,7 +18,7 @@ Este documento é o padrão canônico para criar e revisar materiais em `.md`.
 4. Cada aula deve ter **mais de 100 linhas**.
 5. Ao finalizar cada aula, obrigatoriamente:
    - validar estrutura e qualidade;
-   - validar integridade (acentuação, sem mojibake, sem placeholders);
+   - validar integridade (acentuação, sem mojibake, sem placeholders **genéricos** tipo `TODO`, `[inserir]` ou lacunas vazias — **exceção:** blocos `### Figura sugerida` no formato canônico, para produção futura de imagens);
    - informar a **quantidade de linhas**;
    - só então seguir para a próxima aula.
 
@@ -69,6 +69,72 @@ Os dois arquivos devem ter o mesmo conteúdo.
 - Tabelas quando realmente melhorarem comparação e memorização.
 - `---` para separar grandes blocos.
 
+### Fluxos, sequências e diagramas (padrão visual)
+
+Objetivo: **sequências lógicas** (ex.: inflamação → reparo, via metabólica, peristaltismo) devem ser **rápidas de ler** em qualquer tela — inclusive **app** que pode não estilizar Mermaid de forma bonita ou pode exibir **código cru**.
+
+**Ordem de preferência (do mais confiável ao mais dependente de renderizador):**
+
+1. **Tabela de etapas** — colunas como `Etapa | O que ocorre | Detalhe / prova` ou `Fase | Evento | Marco`. Funciona em todo renderizador Markdown e imprime bem.
+2. **Lista numerada encadeada** — parágrafos curtos; em cada item, **negrito** no conceito-chave; opcional usar seta `→` no texto quando a leitura fluir.
+3. **Mermaid** — só quando o fluxo for **simples e sequencial**; **nunca** como única fonte da informação (sempre repetir a sequência em **tabela** ou lista **abaixo** do diagrama, por acessibilidade e se o Mermaid falhar).
+
+**Se usar Mermaid, regras rígidas:**
+
+- Preferir `flowchart TD` (vertical) a `LR` em telas estreitas; **no máximo 5–6 nós**.
+- Rótulos **curtos** (2–4 palavras em português); **evitar** frases longas dentro de `[ ]`.
+- **Não** usar `subgraph`, cores, `style` ou temas customizados — renderização inconsistente entre GitHub, app e PDF.
+- **Evitar** fluxos “largos” que duplicam o que já está no parágrafo acima (ruído visual).
+
+**O que evitar:** diagramas só decorativos; blocos Mermaid enormes; fluxos que competem com tabelas já claras no mesmo tópico.
+
+### Figuras sugeridas (placeholders para o futuro)
+
+Objetivo: reservar **espaço editorial** e **briefing** para quando houver tempo de produzir ou licenciar imagens no app — sem obrigar todo material a ter figura.
+
+**Quantidade (critério de bom senso):**
+
+- Alguns temas são **quase só texto/tabela** (ética, epidemiologia leve): **zero** figuras ou no máximo **uma** se houver um esquema que realmente ajude.
+- Anatomia, histologia, semiologia física, interpretação de exame: **1 a 3** figuras bem escolhidas ao longo da aula — **poucas**, cada uma com função clara (não encher de decoração).
+- Materiais muito visuais (ex.: ossos, músculos, pele): pode chegar a **mais**, desde que cada bloco descreva **uma** necessidade visual distinta.
+
+**Onde colocar:** imediatamente **depois** do parágrafo ou seção que a figura ilustra melhor (o leitor lê o conceito e “enxerga” o reforço).
+
+**Formato canônico (copiar e preencher):** usar `### Figura sugerida` para aparecer no Markdown e ser fácil de buscar no repositório (`Figura sugerida`).
+
+```markdown
+### Figura sugerida
+
+**Figura-ID:** `SIGLA-AULA-F01`  ← obrigatório; deve ser o mesmo `id` em `data/materiais_figuras.json` para a imagem aparecer **neste ponto** do texto (sem repetir no rodapé do app).
+
+- **Momento:** qual seção/trecho esta imagem acompanha (ex.: “após tabela de ossificação”).
+- **O que mostrar:** descrição objetiva em 1–3 frases (o que deve aparecer na imagem).
+- **Tipo sugerido:** um de — esquema didático | ilustração estilo atlas (Netter/Moore) | fotomicrografia | radiografia/TC/US exemplo | foto de propedêutica | outro.
+- **Legenda (rascunho):** texto curto para a legenda final no app.
+- **Notas (opcional):** referência de capítulo/atlas, ângulo, ou o que **evitar** (ex.: “sem marca d’água”; “versão simplificada para mobile”).
+```
+
+**Fonte das imagens (equipe):** priorizar sempre o [Wikimedia Commons](https://commons.wikimedia.org/) — conteúdo gratuito, reutilizável e com licença explícita; os campos `buscaCommonsEn` / `buscaCommonsPt` no JSON e as descrições do briefing devem ser pensados para pesquisa **lá** (evitar referências só a atlas comerciais fechados como única pista).
+
+**Versão mínima** (quando uma figura basta com briefing curto):
+
+```markdown
+### Figura sugerida
+
+**Figura-ID:** `SIGLA-AULA-F01`
+
+Briefing: [1–2 frases: o quê + tipo sugerido]. Legenda rascunho: [frase].
+```
+
+**Regras:**
+
+- Não substituir texto obrigatório da aula: o material deve ser **completo** sem as imagens.
+- Não usar figuras para duplicar uma **tabela** que já é suficiente — prefira tabela para comparação e figura para **morphologia** ou **gesto clínico**.
+- Manter o mesmo bloco nos dois caminhos espelhados (`materiais/` e `data/materiais/`).
+- Registrar cada figura planejada em **`figuras-commons/inventario.md`** (ID, caminho da aula, momento, descrição, termos de busca EN/PT, status) para facilitar pesquisa futura no [Wikimedia Commons](https://commons.wikimedia.org/). Ver **`figuras-commons/README.md`**.
+- **App (aluno):** o PWA **não** exibe o texto longo do bloco `### Figura sugerida` — com **Figura-ID** o slot recebe a imagem do JSON **no ponto do texto**; sem ID, só o aviso **“Em breve: imagem neste ponto”**. URLs e legendas ficam em **`data/materiais_figuras.json`** (painel `figuras-materiais/`). Ver **`figuras-materiais/README.md`**.
+- **Automação futura:** um script poderá percorrer `materiais_figuras.json` (por `disciplina` / `aula`) e sugerir ou validar links do Commons em lote; manter IDs e termos de busca consistentes facilita isso.
+
 ### Direção de UX
 
 - Material deve ser fácil de revisar rapidamente antes da prova.
@@ -97,6 +163,8 @@ Os dois arquivos devem ter o mesmo conteúdo.
 ## [Bloco Temático 2]
 
 [Desenvolvimento]
+
+<!-- Opcional: após um trecho que peça reforço visual, incluir `### Figura sugerida` (ver seção "Figuras sugeridas" neste documento). -->
 
 ### [Subtópico comparativo]
 
@@ -179,8 +247,10 @@ Regras:
 - [ ] Contém `## Ponte com a Clínica`.
 - [ ] Termina com `## Pré-Prova` no formato canônico.
 - [ ] Há pelo menos uma tabela útil (não decorativa) quando o tema pede comparação.
+- [ ] Se houver **fluxo/sequência**, está em **tabela ou lista** OU Mermaid **curto** (regras acima) **com** redundância segura em texto/tabela.
 - [ ] Não há caracteres corrompidos (ex.: `Ã`, `�`, `???`).
 - [ ] Não há texto genérico repetido de outras aulas.
+- [ ] **Figuras (opcional):** se houver `### Figura sugerida`, está no formato canônico e a quantidade faz sentido para o tema (poucas onde bastam; mais só quando o conteúdo pede).
 - [ ] Conteúdo salvo nos dois caminhos espelhados.
 - [ ] Quantidade de linhas reportada.
 

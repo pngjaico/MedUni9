@@ -1,257 +1,83 @@
-# PMH - Aula 9: Aplicações Clínicas dos Lipídios
+# PMH — Aula 9: Aplicações Clínicas dos Lipídios
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Aplicações Clínicas dos Lipídios é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Exames de **lipídios** guiam **risco cardiovascular** e investigação de **pancreatite**, **xantomas** e **defeitos genéticos**. Interpretar **perfil lipídico**, **regra de Friedewald** (quando válida), **marcadores inflamatórios** associados e **metas terapêuticas** transforma a bioquímica em **conduta**: **estatina**, **EZE**, **fibratos**, **ômega-3**, **PCSK9i** — cada um com **mecanismo** e **indicação**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Painel básico: o que medir
 
-Para dominar Aplicações Clínicas dos Lipídios, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+- **Colesterol total**, **HDL-C**, **TG**, **LDL-C** (calculado ou direto).
+- **Não jejum** pode ser aceito para **colesterol** e **HDL** em alguns protocolos; **TG** mais sensível ao recente alimento.
 
-## Construção de Hipótese e Validação
-
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Aplicações Clínicas dos Lipídios fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Aplicações Clínicas dos Lipídios com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Aplicações Clínicas dos Lipídios.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Aplicações Clínicas dos Lipídios está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Aplicações Clínicas dos Lipídios, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Aplicações Clínicas dos Lipídios aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **TG muito alto** invalida **cálculo de LDL** por fórmula — LDL direto ou **ultracentrifugação** em laboratórios de referência.
 
 ---
 
-## Pontos-Chave para Prova
+## Friedewald e limitações
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+LDL estimado ≈ **Total − HDL − (TG/5)** em mg/dL (quando **TG < 400** e sem **quilomícron** excessivo). **Erro** aumenta com **hipertrigliceridemia**.
+
+---
+
+## Hipertrigliceridemia: gravidade
+
+- **Leve/moderada:** resistência insulínica, **síndrome metabólica**, **DM2**.
+- **Severa (TG > 1000 mg/dL):** risco de **pancreatite aguda** — prioridade **triglicerídeo**, não só LDL.
+
+**Causas secundárias:** **álcool**, **hipotireoidismo**, **gravidez**, **fármacos** (retinoides, antirretrovirais).
+
+> **Pegadinha:** **Baixar TG** com **fibrato** ou **ômega-3** não substitui **controle glicêmico** se a base for **resistência insulínica**.
+
+---
+
+## LDL elevado e risco
+
+**ESC/ACC** e diretrizes brasileiras usam **escores** e **fatores de risco** para definir **meta de LDL-C**. **FH** exige **suspeita clínica** (LDL muito alto, história familiar, **tendões**).
+
+---
+
+## Hipolipemiantes: mecanismo em uma linha
+
+| Classe | Mecanismo principal |
+|--------|---------------------|
+| Estatinas | inibem **HMG-CoA redutase** |
+| Ezetimiba | inibe **NPC1L1** (absorção intestinal) |
+| Fibratos | agonistas **PPARα** (↑ TG clearance, ↑ HDL) |
+| Ácidos graxos ômega-3 | reduzem **TG** hepáticos |
+| Inibidores PCSK9 | ↑ **LDLR** na superfície |
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Aplicações Clínicas dos Lipídios aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Paciente **DM2** com **TG alto** e **HDL baixo** — **síndrome metabólica**; priorizar **perda de peso**, **atividade** e **controle glicêmico**. **Paciente com pancreatite** e **líquido branco** no tubo — lembre **quilomícron** em **hipertrigliceridemia** massiva. **Monitorar** **creatinquinase** e **função hepática** com **estatina**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **LDL** como alvo principal na **maioria** dos cenários de **ASCVD**.
+- **TG** muito alto = **pancreatite**; investigar **causa secundária**.
+- **Friedewald** falha com **TG altos**.
+- **FH** = **LDL** extremo + **história familiar** — encaminhar especialista.
 
 ---
 
@@ -261,24 +87,27 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Interpretar **perfil** no contexto de **jejum** e **causa secundária**.
+- **TG** e **pancreatite** quando **muito elevado**.
+- **Estatina** primeira linha na maioria dos **ASCVD** primários/secundários (conforme diretriz).
+- **Combinações** (ex.: estatina + ezetimiba) quando **meta** não atingida.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| LDL elevado | HDL baixo | LDL aterogênico; HDL “protetivo” mas não droga isolada milagrosa. |
+| Primária | Secundária | Tireoide, álcool, drogas — sempre pensar antes de genética. |
+| Meta de LDL | Meta de TG | Contextos diferentes; prioridade muda com **pancreatite**. |
+
+---
+
+## Lipoproteína(a)
+
+**Lp(a)** — partícula **LDL-like** ligada a **apoproteína(a)**; marcador **genético** de risco em **ASCVD**; não corrigido por **estatina** isolada — opções específicas em casos selecionados (conforme diretriz).
+
+Em **TG moderadamente elevados**, **ômega-3** prescritos e **controle glicêmico** costumam preceder **fibrato** — decisão **individualizada**.
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Triglicerídeo altíssimo chama pancreatite; LDL alto chama placa.”

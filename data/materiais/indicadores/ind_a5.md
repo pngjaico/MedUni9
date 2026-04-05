@@ -1,4 +1,4 @@
-# IND — Aula 5: Indicadores de Morbidade
+﻿# IND — Aula 5: Indicadores de Morbidade
 
 **Disciplina:** Indicadores de Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Indicadores de morbidade são muito cobrados porque mostram frequência de doença sem depender apenas de óbito. A Uninove costuma trabalhar incidência e prevalência em cenários clínicos e populacionais para testar se o aluno entende o que cada medida realmente responde.
 
 Na prática, esses indicadores orientam vigilância, rastreio, organização de serviços e avaliação de impacto de intervenções em saúde.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `IND-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Incidência e Prevalência sem Confusão
 
@@ -24,6 +37,17 @@ A **incidência** mede casos novos em determinado período e é útil para avali
 Doenças de longa duração podem ter prevalência alta mesmo com incidência moderada. Doenças agudas com rápida resolução podem ter incidência alta e prevalência menor. Em prova, o diferencial é interpretar esse comportamento com base no curso clínico do agravo.
 
 No SUS, morbidade orienta priorização de linhas de cuidado e dimensionamento de demanda assistencial.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Indicadores de Morbidade
+
+Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ No SUS, morbidade orienta priorização de linhas de cuidado e dimensionamento d
 ### Frase-âncora para não esquecer
 
 > "Incidência conta quem entrou na doença; prevalência mostra quem ainda está nela."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Indicadores de Morbidade** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
+| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
+| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Gordis L. *Epidemiologia*. Elsevier.
+- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
+- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.

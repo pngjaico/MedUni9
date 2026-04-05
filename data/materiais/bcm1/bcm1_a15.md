@@ -1,4 +1,4 @@
-# Alterações Cromossômicas Estruturais
+﻿# Alterações Cromossômicas Estruturais
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Enquanto as alterações numéricas envolvem ganho ou perda de cromossomos intei
 
 Para o estudante da Uninove, o domínio das alterações estruturais é fundamental tanto para questões de genética clínica (síndromes de microdeleção) quanto para oncogenética (translocações em linfomas e leucemias). A banca frequentemente apresenta cariótipos ou descrições de fenótipos para que o aluno identifique o tipo de rearranjo e a síndrome correspondente.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A15-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Mecanismo Geral: Quebra, Reunião Anômala
 
@@ -168,3 +183,11 @@ Variantes de número de cópias — deleções ou duplicações submicroscópica
 ### Frase-âncora para não esquecer
 
 > "Philadelphia (9;22) = BCR-ABL = imatinibe mata. Burkitt (8;14) = MYC explode. M3 (15;17) = PML-RARA = ATRA cura. DiGeorge perde 22q11 e fica sem timo, sem cálcio, sem comunicação aórtica. Cri-du-chat perde o braço curto do 5 e chora como gato."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

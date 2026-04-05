@@ -1,4 +1,4 @@
-# BMF2 — Aula 5: Histologia Cardíaca
+﻿# BMF2 — Aula 5: Histologia Cardíaca
 
 **Disciplina:** Bases Morfofuncionais 2
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Histologia cardíaca cai em prova porque explica como estrutura microscópica sustenta função elétrica e mecânica do coração. A Uninove costuma cobrar reconhecimento de cardiomiócitos, discos intercalares, fibras de Purkinje e diferenças entre endocárdio, miocárdio e epicárdio.
 
 Na prática, esse conteúdo ajuda a compreender por que isquemia, inflamação e fibrose alteram condução e contratilidade.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Organização Microscópica da Parede Cardíaca
 
@@ -24,6 +37,17 @@ A parede cardíaca tem três camadas principais. O **endocárdio** reveste inter
 Cardiomiócitos são ramificados, com núcleo central e junções especializadas em discos intercalares. Essas junções integram adesão mecânica e comunicação elétrica, permitindo sincício funcional. Fibras de Purkinje exibem especialização para condução rápida.
 
 Em prova, o diferencial é associar achado histológico ao impacto funcional sobre contração e ritmo.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Histologia Cardíaca
+
+No **ambulatório** e no estágio, você verá pacientes com **FC**, **PA**, **edema** e queixas respiratórias — tudo ligado ao que esta aula cobre. Treine explicar **mecanismo** (por que o sinal aparece) e não só o nome do conceito.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ Em prova, o diferencial é associar achado histológico ao impacto funcional sob
 ### Frase-âncora para não esquecer
 
 > "No coração, microscopia já explica macrofunção."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Histologia Cardíaca** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Fisiologia aplicada ao mecanismo descrito na aula. |
+| Pegadinha / contraste | Diferença entre automatismo, condução e contratilidade quando couber. |
+| Por que importa na prática | Como isso muda FC, PA ou sintoma na prática. |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

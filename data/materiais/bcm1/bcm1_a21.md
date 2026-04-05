@@ -1,4 +1,4 @@
-# Herança Poligênica e Bases Genéticas do Câncer
+﻿# Herança Poligênica e Bases Genéticas do Câncer
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A maioria das doenças comuns que o médico enfrenta na prática — hipertensã
 
 O câncer, por sua vez, é fundamentalmente uma doença genética adquirida: mutações somáticas em proto-oncogenes, supressores de tumor e genes de reparo do DNA se acumulam progressivamente em um clone celular, conferindo vantagem proliferativa e invasiva. Compreender esse processo de múltiplos golpes (multi-hit), a distinção entre mutações somáticas e germinativas, e os principais oncogenes e supressores de tumor é obrigatório para qualquer médico que trate pacientes oncológicos ou prescreva rastreamento de câncer.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A21-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Herança Poligênica/Multifatorial
 
@@ -193,3 +208,11 @@ Na prática clínica, o modelo de Fearon-Vogelstein para cáncer colorretal ilus
 ### Frase-âncora para não esquecer
 
 > "Câncer = revolução celular em múltiplos golpes: os oncogenes são os aceleradores que travam no máximo (1 alelo basta para pisar fundo); os supressores são os freios que precisam ser destruídos DOIS VEZES antes de parar de funcionar. Quando os caretakers (reparadores) também quebram, as mutações se acumulam na velocidade do furacão."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

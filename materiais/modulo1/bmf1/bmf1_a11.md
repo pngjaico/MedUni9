@@ -1,272 +1,82 @@
-# BMF1 - Aula 11: Histologia do Tecido Muscular
+# BMF1 — Aula 11: Histologia do Tecido Muscular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Histologia do Tecido Muscular é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+Músculo esquelético, cardíaco e liso compartilham proteínas contráteis (actina, miosina), mas diferem em estriações, organização nuclear, junções celulares e controle nervoso. Em lâmina, reconhecer **sarcômero**, discos Z, bandas A e I e sistema de túbulos T é pré-requisito para entender miopatias, isquemia e cardiopatias na graduação. Em prova, a banca cobra correlação entre imagem histológica e função (condutor versus isolante, sincício versus células individuais).
 
 ---
 
-## Organização Topográfica
+## Músculo esquelético: sarcômero e retículo
 
-A leitura de Histologia do Tecido Muscular começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+Cada fibra é um sincício multinucleado. **Miofibrilas** contêm filamentos de actina (fina) e miosina (grossa) organizados em **sarcômeros** delimitados por **discos Z**. A banda **A** contém miosina e sobreposição com actina; a banda **I** só actina; a linha **H** no centro da banda A marca região só de miosina. O **retículo sarcoplasmático** armazena Ca²⁺; os **túbulos T** propagam o potencial de membrana para o interior da fibra — acoplamento excitação-contração.
 
-## Camadas, Compartimentos e Relações
+### Figura sugerida
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+**Figura-ID:** `BMF1-A11-F01`
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Histologia do Tecido Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Histologia do Tecido Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Histologia do Tecido Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Histologia do Tecido Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Histologia do Tecido Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Histologia do Tecido Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após parágrafo sobre sarcômero.
+- **O que mostrar:** diagrama de sarcômero com discos Z, bandas A e I, linha H; opcional micrografia de fibra esquelética em corte transversal.
+- **Tipo sugerido:** esquema didático ou micrografia (Junqueira / Commons).
+- **Legenda (rascunho):** “Sarcômero: organização dos filamentos espessos e finos.”
 
 ---
 
-## Pontos-Chave para Prova
+## Músculo cardíaco: particularidades
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Cardiomiócitos são mononucleados ou binucleados, ramificados, unidos por **disco intercalado** (desmossomas para força mecânica e junções comunicantes para propagação elétrica). Não há fusão em sincício longo como no esquelético; a coordenação vem do sistema de condução intrínseco. Regiões isquêmicas alteram contratilidade antes de alterar eletrocardiograma em alguns cenários — o mapa histológico explica “por que” a parede falha.
+
+---
+
+## Músculo liso: órgãos ocos e vasos
+
+Células fusiformes, núcleo central, sem estriações visíveis ao microscópio óptico clássico; filamentos e corpos densos organizam contração lenta e sustentada. Inervação autonômica e fatores locais (stretch, hormônios) modulam tônus. Digestório, respiratório, vascular e urogenital dependem desse tecido — em BMF1 o foco é comparar com esquelético para prova.
+
+---
+
+## Tipos de fibra esquelética (oxidativa versus glicolítica)
+
+No mesmo músculo coexistem fibras com perfil **oxidativo** (mais mitocôndrias, mais resistentes à fadiga) e **glicolítico rápido** (mais força explosiva, fadigam antes). Em prova, o que importa é o contraste conceitual — não decorar percentuais por músculo.
+
+| Aspecto | Tipo I (lenta, oxidativa) | Tipo II (rápida, glicolítica) |
+|---------|---------------------------|-------------------------------|
+| Fadiga | Mais tardia | Mais precoce em esforço máximo |
+| Uso típico | Postural, endurance | Sprint, levantamento rápido |
+| Cor em ATPase (se citado) | Reação diferente da tipo II | Comparar “escuro/claro” conforme o método |
+
+> **Dica de Prova:** “Mais mitocôndrias” costuma acompanhar **mais vascularização** e **mioglobina** — pense **cor** da carne e **função** ao escolher a alternativa.
+
+---
+
+## Junção neuromuscular (só o essencial)
+
+A placa motora concentra canais nicotínicos; a **acetilcolina** inicia despolarização local que, propagada, dispara o **potencial de ação** da fibra. O bloqueio farmacológico e as miastenias entram em farmacologia e clínica avançada — aqui fixe que **neuromuscular** liga **comando** a **contração**.
+
+---
+
+## Colorações e marcadores (visão de prova)
+
+HE mostra núcleos periféricos no esquelético e centrados no liso. Tricrômicos e imunohistoquímica entram em patologia avançada; para graduação, saiba **o que** cada banda representa em termos de proteína e por que o **SR** e os **túbulos T** importam para o ciclo de Ca²⁺.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Histologia do Tecido Muscular aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Rabdomiólise destrói fibra esquelética e libera mioglobina — contexto de esforço extremo, compressão ou toxinas. Miocardite inflama cardiomiócitos. Distrofias alteram proteínas de membrana ou ancora (diferentes genes, diferentes padrões). O exame histológico orienta, mas o cuidado ao paciente começa com clínica e enzimas — aqui você fixa a base anatômica.
+
+---
+
+## Pontos-Chave para Prova
+
+- Disco Z como limite do sarcômero.  
+- Banda A versus I — o que contém em filamentos.  
+- Papel do RS e túbulos T no Ca²⁺.  
+- Disco intercalado — onde e por quê.  
+- Diferença esquelético versus liso em núcleo e estriação.
 
 ---
 
@@ -276,24 +86,27 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Definição operacional de sarcômero.  
+- Filamento grosso = miosina; fino = actina (+ proteínas associadas).  
+- Por que o cardíaco ramifica e o esquelético não (conceito).  
+- Liso: ausência de estriações e função em órgãos ocos.  
+- Unidade estrutural mínima de repetição no esquelético estriado.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Banda A | Banda I | Sobreposição miosina-actina vs só actina |
+| Retículo sarcoplasmático | Túbulos T | Estoque de Ca²⁺ vs propagação do potencial |
+| Músculo esquelético | Cardíaco | Núcleo periférico vs ramificação e disco intercalado |
+| Esquelético | Liso | Estriações visíveis vs fusiforme sem estriação clássica |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sarcômero é a unidade que repete — se você enxerga a banda, já sabe onde está a força.”
+
+---
+
+## Referências de estudo
+
+Junqueira e Carneiro (histologia); Alberts (biologia celular) para visão molecular das proteínas contráteis; correlacionar com figuras de atlas para fixar padrão visual em prova.

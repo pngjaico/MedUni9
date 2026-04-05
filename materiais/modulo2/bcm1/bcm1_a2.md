@@ -1,4 +1,4 @@
-# BCM1 — Aula 2: Tampões Biológicos e Gasometria
+﻿# BCM1 — Aula 2: Tampões Biológicos e Gasometria
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A gasometria arterial é o exame mais interpretado em UTI e pronto-socorro, e ne
 
 Além do valor clínico imediato, este conteúdo é cobrado também em questões de fisiologia respiratória e nefrologia. Dominar a equação de Henderson-Hasselbalch e os sistemas tampão é a base de toda a fisiopatologia ácido-base.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Conceitos de pH e Ácido-Base
 
@@ -148,3 +163,11 @@ O paciente com **cetoacidose diabética (CAD)** apresenta pH baixo, HCO₃⁻ ba
 ### Frase-âncora para não esquecer
 
 > "Pulmão corrige em minutos; rim corrige em dias. Distúrbio primário e compensação vão sempre no mesmo sentido — se não forem, desconfie do misto."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

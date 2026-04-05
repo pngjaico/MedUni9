@@ -1,4 +1,4 @@
-# Herança Autossômica Dominante
+﻿# Herança Autossômica Dominante
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As doenças autossômicas dominantes (AD) têm como característica fundamental 
 
 Esta aula complementa as aulas de AR e XL ao completar o quadro dos padrões mendelianos. A Uninove costuma apresentar heredogramas para classificação do padrão ou questões clínicas diretas sobre as síndromes mais frequentes: síndrome de Marfan, neurofibromatose tipo 1, doença de Huntington, síndrome de Long QT, síndrome de BRCA1/2 e polipose adenomatosa familiar. Muitas dessas patologias têm mecanismos moleculares elegantes que explicam por que um único alelo é suficiente para causar a doença.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A20-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Mecanismos de Dominância
 
@@ -228,3 +243,11 @@ A mutação confere à proteína uma atividade nova ou hiperativa, prejudicial.
 ### Frase-âncora para não esquecer
 
 > "AD = UMA cópia mutada basta. Às vezes porque falta proteína (haploinsuficiência: Marfan, NF1, BRCA, PAF). Às vezes porque a proteína mutada envenena a normal (dominante negativo: colágeno OI). Às vezes porque a mutação cria um monstro que faz coisas que não devia (ganho de função: Huntington, acondroplasia)."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

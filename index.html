@@ -1798,6 +1798,46 @@
       min-width: 280px;
     }
 
+    /* Briefing ### Figura sugerida é removido no app; resta aviso “em breve” até haver URL no JSON */
+    .markdown-body .material-fig-placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      min-height: 56px;
+      margin: 14px 0;
+      padding: 12px 16px;
+      border-radius: 10px;
+      border: 1px dashed rgba(0, 200, 150, 0.28);
+      background: rgba(0, 200, 150, 0.06);
+      box-sizing: border-box;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.88rem;
+      color: rgba(226, 232, 240, 0.88);
+    }
+    .markdown-body .material-fig-placeholder-emoji {
+      font-size: 1.35rem;
+      line-height: 1;
+      opacity: 0.95;
+    }
+    .markdown-body .material-fig-placeholder-text {
+      font-weight: 500;
+      letter-spacing: 0.02em;
+    }
+    html[data-theme="light"] .markdown-body .material-fig-placeholder {
+      border-color: rgba(2, 132, 199, 0.3);
+      background: rgba(2, 132, 199, 0.07);
+      color: #334155;
+    }
+
+    .markdown-body .material-fig-slot {
+      margin: 12px 0 16px;
+      min-height: 4px;
+    }
+    .markdown-body .material-fig-inline {
+      margin: 0;
+    }
+
     /* Light mode: doc gets a paper feel */
     html[data-theme="light"] .markdown-body {
       background: rgba(255,255,255,0.92) !important;
@@ -3198,11 +3238,61 @@
       return html;
     }
 
+    function escapeFiguraIdAttr(id) {
+      return String(id || '').replace(/[^A-Z0-9-]/gi, '');
+    }
+
+    /** HTML de figura inline (Wikimedia / catálogo); textos escapados para atributos. */
+    function buildMaterialFigureHtml(fig) {
+      const esc = (t) => String(t ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      const src = esc(fig.urlImagem || '');
+      const leg = esc(fig.legenda || fig.id);
+      const cred = fig.credito ? ` — ${esc(fig.credito)}` : '';
+      const lic = fig.licenca
+        ? `<span style="display:block;margin-top:4px;font-size:0.75rem;opacity:0.85">${esc(fig.licenca)}</span>`
+        : '';
+      const link = fig.urlPaginaCommons
+        ? `<a href="${esc(fig.urlPaginaCommons)}" target="_blank" rel="noopener noreferrer" style="display:inline-block;margin-top:8px;font-size:0.78rem;color:#00C896">Ver no Wikimedia Commons</a>`
+        : '';
+      return (
+        `<figure class="material-fig-inline" style="margin:12px 0 16px;background:rgba(15,23,42,0.6);border:1px solid rgba(0,200,150,0.2);border-radius:12px;overflow:hidden">` +
+        `<img src="${src}" alt="${leg}" loading="lazy" style="width:100%;max-height:min(420px,55vh);object-fit:contain;display:block;background:#020617" />` +
+        `<figcaption style="padding:12px 14px;font-size:0.82rem;color:var(--text-secondary);line-height:1.5;border-top:1px solid rgba(0,200,150,0.12)">` +
+        `<span style="color:#e5e7eb;font-weight:600">${leg}</span>${cred}${lic}${link}</figcaption></figure>`
+      );
+    }
+
+    const MATERIAL_FIG_PENDING_HTML =
+      '<div class="material-fig-placeholder material-fig-placeholder--pending" role="note"><span class="material-fig-placeholder-emoji" aria-hidden="true">🖼️</span><span class="material-fig-placeholder-text">Em breve: imagem neste ponto.</span></div>';
+
+    /**
+     * Remove briefing de ### Figura sugerida.
+     * Se existir **Figura-ID:** igual ao id no JSON → slot inline (imagem no ponto do texto).
+     * Senão → só aviso “em breve”.
+     */
+    function stripFiguraSugeridaBlocksForCliente(md) {
+      if (!md || typeof md !== 'string') return md;
+      return md.replace(
+        /(^|\n)### Figura sugerida[^\n]*\n([\s\S]*?)(?=\n---\s*\n|\n## |$)/g,
+        (match, lead, body) => {
+          const idMatch = body.match(/\*\*Figura-ID:\*\*\s*`?([A-Z0-9-]+)`?/i);
+          if (idMatch) {
+            const id = escapeFiguraIdAttr(idMatch[1]);
+            if (!id) return match;
+            return `${lead}\n\n<div class="material-fig-slot" data-fig-id="${id}"></div>\n\n`;
+          }
+          return `${lead}\n\n${MATERIAL_FIG_PENDING_HTML}\n\n`;
+        }
+      );
+    }
+
     // ===================== Markdown renderer =====================
     function renderMd(text) {
-      const cleaned = text
-        .replace(/\r\n/g, '\n')
-        .replace(/(\|[^\n]*)\n\n+(?=\|)/g, '$1\n');
+      const cleaned = stripFiguraSugeridaBlocksForCliente(
+        text
+          .replace(/\r\n/g, '\n')
+          .replace(/(\|[^\n]*)\n\n+(?=\|)/g, '$1\n')
+      );
       let html = marked.parse(cleaned)
         .replace(/<table>/g, '<div class="table-wrap"><table>')
         .replace(/<\/table>/g, '</table></div>');
@@ -3626,12 +3716,35 @@
       </svg>
     );
 
+    const IconHistology = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+        <circle cx="12" cy="12" r="3.5"/>
+        <line x1="12" y1="2" x2="12" y2="5"/>
+        <line x1="12" y1="19" x2="12" y2="22"/>
+        <line x1="2" y1="12" x2="5" y2="12"/>
+        <line x1="19" y1="12" x2="22" y2="12"/>
+        <line x1="5.5" y1="5.5" x2="7.5" y2="7.5"/>
+        <line x1="16.5" y1="16.5" x2="18.5" y2="18.5"/>
+        <line x1="18.5" y1="5.5" x2="16.5" y2="7.5"/>
+        <line x1="5.5" y1="18.5" x2="7.5" y2="16.5"/>
+      </svg>
+    );
+
     const IconRocket = () => (
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
         <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/>
         <path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/>
         <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/>
         <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/>
+      </svg>
+    );
+
+    const IconCoupon = () => (
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M20 12a2 2 0 1 1 0-4V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v2a2 2 0 1 1 0 4v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2z"/>
+        <line x1="12" y1="8" x2="12" y2="8"/>
+        <line x1="12" y1="12" x2="12" y2="12"/>
+        <line x1="12" y1="16" x2="12" y2="16"/>
       </svg>
     );
 
@@ -3988,10 +4101,14 @@
       return null;
     }
 
+    function getAmbassadorModules() {
+      return Array.from({ length: 12 }, (_, idx) => idx + 1);
+    }
+
     function getAllowedModules(profile) {
       const normalized = normalizeModulesAccess(profile?.modulosAcesso);
       if (normalized) return normalized;
-      return Array.from({ length: 12 }, (_, idx) => idx + 1);
+      return getAmbassadorModules();
     }
 
     function hasModuleAccess(profile, moduloNum) {
@@ -4195,6 +4312,75 @@
       }
     }
 
+    async function checkAmbassadorQualification(profile) {
+      if (!profile || !profile.ambassadorVitalicio) return profile;
+
+      try {
+        const fullModules = getAmbassadorModules();
+        const lastCheck = profile.lastQualificationCheck ? new Date(profile.lastQualificationCheck) : null;
+        const now = new Date();
+        const daysSinceCheck = lastCheck ? (now - lastCheck) / (1000 * 60 * 60 * 24) : 999;
+
+        // First month grace period: starts approved and keeps full access for 30 days.
+        if (!lastCheck) {
+          const firstMonthApproved = {
+            ...profile,
+            qualificationStatus: 'approved',
+            lastQualificationCheck: now.toISOString(),
+            modulosAcesso: fullModules
+          };
+          if (window.__fbAuth?.currentUser) {
+            try {
+              await saveUserProfile(window.__fbAuth.currentUser, buildSessionTrackedProfile(firstMonthApproved), { merge: true });
+            } catch {}
+          }
+          return firstMonthApproved;
+        }
+
+        // Only check every 30 days
+        if (lastCheck && daysSinceCheck < 30) {
+          if (profile.qualificationStatus === 'suspended') return profile;
+          return { ...profile, modulosAcesso: fullModules };
+        }
+
+        // Fetch sales data for current month
+        const currentMonth = now.toISOString().slice(0, 7);
+        const response = await fetch('data/vendas_mensais.json?_=' + Date.now());
+        if (!response.ok) {
+          // Fallback: keep current status if fetch fails
+          return profile;
+        }
+
+        const salesData = await response.json();
+        const monthSales = salesData[currentMonth] || {};
+  const ambassadorRef = profile.ambassadorId || profile.uid;
+  const ambassadorSales = monthSales[ambassadorRef];
+
+        const hasMinSale = ambassadorSales && ambassadorSales.count >= 1;
+        const newStatus = hasMinSale ? 'approved' : 'suspended';
+
+        const updated = {
+          ...profile,
+          qualificationStatus: newStatus,
+          lastQualificationCheck: now.toISOString(),
+          modulosAcesso: newStatus === 'suspended' ? null : fullModules
+        };
+
+        // Save updated status
+        if (window.__fbAuth?.currentUser) {
+          try {
+            await saveUserProfile(window.__fbAuth.currentUser, buildSessionTrackedProfile(updated), { merge: true });
+          } catch {}
+        }
+
+        return updated;
+      } catch (err) {
+        // Fallback: keep existing profile on any error
+        console.warn('Ambassador qualification check failed:', err);
+        return profile;
+      }
+    }
+
     function persistLocalUser(profile) {
       const normalized = normalizeUserProfile(profile);
       localStorage.setItem('meduni9_user', JSON.stringify(normalized));
@@ -4224,12 +4410,16 @@
       const [loading, setLoading] = useState(false);
       const [validatedCode, setValidatedCode] = useState(null);
       const [regFirebaseUser, setRegFirebaseUser] = useState(null); // Firebase user after Google register
+      const [couponCode, setCouponCode] = useState('');
+      const [couponValid, setCouponValid] = useState(null); // null | true | false
+      const [validatedCouponEntry, setValidatedCouponEntry] = useState(null);
       const [showForgot, setShowForgot] = useState(false);
       const [forgotEmail, setForgotEmail] = useState('');
       const [forgotSent, setForgotSent] = useState(false);
-      const allowedSemesters = validatedCode?.modulosAcesso?.length
-        ? validatedCode.modulosAcesso
-        : Array.from({ length: 12 }, (_, idx) => idx + 1);
+      const ambassadorKeyDetected = String(validatedCode?.tipo || '').toLowerCase() === 'embaixador';
+      const allowedSemesters = ambassadorKeyDetected
+        ? getAmbassadorModules()
+        : (validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : getAmbassadorModules());
 
       useEffect(() => {
         generateDeviceFingerprint().then(fp => setFingerprint(fp));
@@ -4263,6 +4453,33 @@
         if (value.length > 8)      value = value.slice(0, 4) + '-' + value.slice(4, 8) + '-' + value.slice(8);
         else if (value.length > 4) value = value.slice(0, 4) + '-' + value.slice(4);
         setCode(value);
+      };
+
+      // ── validate coupon code ──────────────────────────────────────────────
+      const validateCoupon = async (coupon) => {
+        try {
+          const response = await fetch('data/cupons.json?_=' + Date.now());
+          if (!response.ok) {
+            setValidatedCouponEntry(null);
+            setCouponValid(false);
+            return false;
+          }
+          const allCoupons = await response.json();
+          const couponUpper = (coupon || '').toUpperCase();
+          const couponEntry = allCoupons[couponUpper];
+          if (couponEntry && couponEntry.ativo && new Date() <= new Date(couponEntry.validade_ate)) {
+            setValidatedCouponEntry(couponEntry);
+            setCouponValid(true);
+            return true;
+          }
+          setValidatedCouponEntry(null);
+          setCouponValid(false);
+          return false;
+        } catch (err) {
+          setValidatedCouponEntry(null);
+          setCouponValid(false);
+          return false;
+        }
       };
 
       // ── register step 1: validate code ────────────────────────────────────
@@ -4304,6 +4521,9 @@
             setError('Esta chave de módulo está sem configuração de acesso. Contate o suporte.');
             return;
           }
+          setValidatedCouponEntry(null);
+          setCouponCode('');
+          setCouponValid(null);
           setValidatedCode({ hash: codeHash, ...codeEntry, modulosAcesso: keyModules });
           if (currentFbUser) {
             setRegFirebaseUser(currentFbUser);
@@ -4388,8 +4608,29 @@
       const handleSemesterSubmit = async () => {
         setError('');
         if (!semester) { setError('Selecione seu módulo'); return; }
+        const ambassadorIdFromKey = validatedCode?.embaixadorId || null;
+        const ambassadorIdFromCoupon = validatedCouponEntry?.linkedToAmbassador || null;
+        const isAmbassadorKey = String(validatedCode?.tipo || '').toLowerCase() === 'embaixador';
+
+        if (isAmbassadorKey && !couponCode) {
+          setError('Para chave de embaixador, o cupom é obrigatório.');
+          return;
+        }
+
+        if (isAmbassadorKey && (!couponValid || !validatedCouponEntry)) {
+          setError('Cupom de embaixador inválido.');
+          return;
+        }
+
+        if (isAmbassadorKey && ambassadorIdFromKey && ambassadorIdFromCoupon && ambassadorIdFromKey !== ambassadorIdFromCoupon) {
+          setError('Este cupom não pertence ao embaixador desta chave.');
+          return;
+        }
+
+        const isAmbassador = isAmbassadorKey && couponValid === true;
+        const ambassadorModules = getAmbassadorModules();
         const keyModules = validatedCode?.modulosAcesso?.length ? validatedCode.modulosAcesso : null;
-        if (keyModules && !keyModules.includes(semester)) {
+        if (!isAmbassador && keyModules && !keyModules.includes(semester)) {
           setError('Este código não libera o módulo selecionado.');
           return;
         }
@@ -4403,13 +4644,20 @@
             plano:     validatedCode?.plano   || 'basico',
             semestre:  semester,
             modulo:    semester,
-            modulosAcesso: keyModules,
+            modulosAcesso: isAmbassador ? ambassadorModules : keyModules,
             faculdadeId: facultyId,
             campusId: campusId,
             codeHash:  validatedCode?.hash || '',
             deviceId:  fingerprint,
             deviceIds: fingerprint ? [fingerprint] : [],
             maxDispositivos: validatedCode?.maxDispositivos || 2,
+            couponCode: couponCode || null,
+            couponLinkedAt: couponCode ? new Date().toISOString() : null,
+            ambassadorVitalicio: isAmbassador,
+            ambassadorId: isAmbassador ? (ambassadorIdFromKey || ambassadorIdFromCoupon || null) : null,
+            ambassadorEmail: isAmbassador ? (fbUser.email || email || null) : null,
+            lastQualificationCheck: isAmbassador ? new Date().toISOString() : null,
+            qualificationStatus: isAmbassador ? 'approved' : 'pending',
             loginDate: new Date().toISOString(),
           };
           const trackedProfile = buildSessionTrackedProfile(profile, fingerprint);
@@ -4747,6 +4995,26 @@
                       </div>
                       <input className="form-input" type={showPass ? 'text' : 'password'} placeholder="Confirmar senha"
                         value={confirmPassword} onChange={e => { setConfirmPassword(e.target.value); setError(''); }} style={{ marginBottom: '16px' }} />
+                      <div style={{ marginBottom: '16px' }}>
+                        <label style={{ fontSize: '12px', color: 'var(--text-secondary)', display: 'block', marginBottom: '6px' }}>
+                          Tem um cupom de embaixadora? (opcional)
+                        </label>
+                        <input 
+                          className="form-input" 
+                          type="text" 
+                          placeholder="Código do cupom" 
+                          value={couponCode}
+                          onChange={async (e) => {
+                            const val = e.target.value.toUpperCase();
+                            setCouponCode(val);
+                            if (val.length > 3) await validateCoupon(val);
+                            else setCouponValid(null);
+                          }}
+                          style={{ marginBottom: '6px' }}
+                        />
+                        {couponValid === true && <p style={{ fontSize: '12px', color: 'var(--success, #10B981)' }}>✓ Cupom válido</p>}
+                        {couponValid === false && couponCode && <p style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Cupom não encontrado ou expirado</p>}
+                      </div>
                       <button className="btn btn-primary" onClick={handleCreateWithEmail} disabled={loading}>
                         {loading ? 'Criando conta...' : 'Criar conta com email'}
                       </button>
@@ -6038,8 +6306,49 @@
       const [materialLoading, setMaterialLoading] = useState(false);
       const [materialError, setMaterialError] = useState('');
       const [preProvaVisible, setPreProvaVisible] = useState(false);
+      const [figurasCatalog, setFigurasCatalog] = useState(null);
       const markdownRef = useRef(null);
       const restoredRouteRef = useRef('');
+
+      useEffect(() => {
+        let cancelled = false;
+        fetch('/data/materiais_figuras.json')
+          .then((r) => (r.ok ? r.json() : null))
+          .then((j) => {
+            if (cancelled) return;
+            if (j && Array.isArray(j.entries)) setFigurasCatalog(j);
+            else setFigurasCatalog({ version: 1, entries: [] });
+          })
+          .catch(() => {
+            if (!cancelled) setFigurasCatalog({ version: 1, entries: [] });
+          });
+        return () => { cancelled = true; };
+      }, []);
+
+      const figurasDestaAulaComLink = useMemo(() => {
+        if (!figurasCatalog?.entries || !selectedMaterial?.temaId) return [];
+        return figurasCatalog.entries.filter(
+          (e) => e.aula === selectedMaterial.temaId && String(e.urlImagem || '').trim()
+        );
+      }, [figurasCatalog, selectedMaterial?.temaId]);
+
+      const figurasPlanejadasCount = useMemo(() => {
+        if (!figurasCatalog?.entries || !selectedMaterial?.temaId) return 0;
+        return figurasCatalog.entries.filter((e) => e.aula === selectedMaterial.temaId).length;
+      }, [figurasCatalog, selectedMaterial?.temaId]);
+
+      /** Figuras com URL que não têm slot inline no texto (sem **Figura-ID:** no .md antes do Pré-Prova). */
+      const figurasRodapeAula = useMemo(() => {
+        if (!materialContent || !figurasDestaAulaComLink.length) return [];
+        const preRe = /^## Pr[eé][- ]?Prova/im;
+        const pre = preRe.exec(materialContent);
+        const main = pre ? materialContent.slice(0, pre.index) : materialContent;
+        const inlineIds = new Set();
+        const idRe = /\*\*Figura-ID:\*\*\s*`?([A-Z0-9-]+)`?/gi;
+        let mm;
+        while ((mm = idRe.exec(main))) inlineIds.add(mm[1]);
+        return figurasDestaAulaComLink.filter((f) => !inlineIds.has(f.id));
+      }, [materialContent, figurasDestaAulaComLink]);
 
       // Split markdown at "## Pré-Prova" section
       const splitAtPreProva = (content) => {
@@ -6078,6 +6387,28 @@
           ).join('');
         }
       }, [materialContent, selectedMaterial]);
+
+      // Hidratar slots .material-fig-slot com imagens do catálogo (inline no texto)
+      useEffect(() => {
+        if (!markdownRef.current || !figurasCatalog?.entries) return;
+        const root = markdownRef.current;
+        const slots = root.querySelectorAll('.material-fig-slot[data-fig-id]');
+        slots.forEach((slot) => {
+          const id = slot.getAttribute('data-fig-id');
+          if (!id) return;
+          const fig = figurasCatalog.entries.find((e) => e.id === id);
+          if (!fig) {
+            slot.innerHTML = MATERIAL_FIG_PENDING_HTML;
+            return;
+          }
+          if (String(fig.urlImagem || '').trim()) {
+            slot.innerHTML = buildMaterialFigureHtml(fig);
+            slot.classList.add('material-fig-slot--filled');
+          } else {
+            slot.innerHTML = MATERIAL_FIG_PENDING_HTML;
+          }
+        });
+      }, [materialContent, figurasCatalog, selectedMaterial?.path, selectedMaterial?.temaId]);
 
       // Enable interactive checkboxes with localStorage persistence
       useEffect(() => {
@@ -6457,26 +6788,105 @@
                     dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
 
-                  {/* Notice: imagens em breve */}
-                  <div style={{
-                    display: 'flex', gap: '12px', alignItems: 'center',
-                    background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
-                    borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
-                    fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
-                  }}>
-                    <span style={{
-                      flexShrink: 0,
-                      padding: '6px 8px',
-                      borderRadius: '999px',
-                      background: 'rgba(59,130,246,0.14)',
-                      color: '#93C5FD',
-                      fontSize: '10px',
-                      fontWeight: 800,
-                      letterSpacing: '0.08em',
-                      textTransform: 'uppercase'
-                    }}>Aviso</span>
-                    <span>Os materiais estão <strong style={{ color: '#93C5FD' }}>sem imagens por enquanto</strong>. Em breve adicionaremos ilustrações, diagramas e imagens anatômicas para complementar o conteúdo.</span>
-                  </div>
+                  {/* Figuras (data/materiais_figuras.json) ou aviso */}
+                  {figurasCatalog === null ? (
+                    <div style={{
+                      display: 'flex', gap: '12px', alignItems: 'center',
+                      background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
+                      borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
+                      fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
+                    }}>
+                      <span style={{
+                        flexShrink: 0,
+                        padding: '6px 8px',
+                        borderRadius: '999px',
+                        background: 'rgba(59,130,246,0.14)',
+                        color: '#93C5FD',
+                        fontSize: '10px',
+                        fontWeight: 800,
+                        letterSpacing: '0.08em',
+                        textTransform: 'uppercase'
+                      }}>Aviso</span>
+                      <span>Carregando catálogo de figuras…</span>
+                    </div>
+                  ) : figurasRodapeAula.length > 0 ? (
+                    <div style={{ marginTop: '14px' }}>
+                      <div style={{
+                        fontSize: '0.72rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase',
+                        color: '#6ee7b7', marginBottom: '10px', fontFamily: 'Outfit, sans-serif',
+                      }}>Figuras desta aula</div>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+                        {figurasRodapeAula.map((fig) => (
+                          <figure
+                            key={fig.id}
+                            style={{
+                              margin: 0,
+                              background: 'rgba(15,23,42,0.6)',
+                              border: '1px solid rgba(0,200,150,0.2)',
+                              borderRadius: '12px',
+                              overflow: 'hidden',
+                            }}
+                          >
+                            <img
+                              src={fig.urlImagem}
+                              alt={fig.legenda || fig.id}
+                              style={{ width: '100%', maxHeight: 'min(420px, 55vh)', objectFit: 'contain', display: 'block', background: '#020617' }}
+                              loading="lazy"
+                            />
+                            <figcaption style={{
+                              padding: '12px 14px',
+                              fontSize: '0.82rem',
+                              color: 'var(--text-secondary)',
+                              lineHeight: 1.5,
+                              borderTop: '1px solid rgba(0,200,150,0.12)',
+                            }}>
+                              <span style={{ color: '#e5e7eb', fontWeight: 600 }}>{fig.legenda || fig.id}</span>
+                              {fig.credito ? (
+                                <span> — {fig.credito}</span>
+                              ) : null}
+                              {fig.licenca ? (
+                                <span style={{ display: 'block', marginTop: '4px', fontSize: '0.75rem', opacity: 0.85 }}>{fig.licenca}</span>
+                              ) : null}
+                              {fig.urlPaginaCommons ? (
+                                <a
+                                  href={fig.urlPaginaCommons}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  style={{ display: 'inline-block', marginTop: '8px', fontSize: '0.78rem', color: '#00C896' }}
+                                >Ver no Wikimedia Commons</a>
+                              ) : null}
+                            </figcaption>
+                          </figure>
+                        ))}
+                      </div>
+                    </div>
+                  ) : (
+                    <div style={{
+                      display: 'flex', gap: '12px', alignItems: 'center',
+                      background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
+                      borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
+                      fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
+                    }}>
+                      <span style={{
+                        flexShrink: 0,
+                        padding: '6px 8px',
+                        borderRadius: '999px',
+                        background: 'rgba(59,130,246,0.14)',
+                        color: '#93C5FD',
+                        fontSize: '10px',
+                        fontWeight: 800,
+                        letterSpacing: '0.08em',
+                        textTransform: 'uppercase'
+                      }}>Aviso</span>
+                      <span>
+                        {figurasDestaAulaComLink.length > 0 && figurasRodapeAula.length === 0
+                          ? <>O material pode ganhar <strong style={{ color: '#93C5FD' }}>mais ilustrações e diagramas</strong> ao longo do tempo. O texto desta aula já está completo para estudo.</>
+                          : figurasPlanejadasCount > 0
+                            ? <>Estamos <strong style={{ color: '#93C5FD' }}>publicando imagens aos poucos</strong>. Parte do conteúdo visual ainda virá em atualizações futuras — use o texto e as tabelas como base principal.</>
+                            : <>Em breve este material pode incluir <strong style={{ color: '#93C5FD' }}>ilustrações e imagens</strong> para complementar o que você lê aqui.</>}
+                      </span>
+                    </div>
+                  )}
 
                   {/* Pré-Prova collapsible */}
                   {preProva && (
@@ -6788,6 +7198,10 @@
       const username = user.email ? user.email.split('@')[0] : 'Usuário';
       const avatarLetter = username.charAt(0).toUpperCase();
       const allowedProfileModules = getAllowedModules(user);
+      const isAmbassadorProfile = !!(user?.ambassadorId || user?.ambassadorVitalicio || user?.couponCode);
+      const lastCheckDate = user?.lastQualificationCheck ? new Date(user.lastQualificationCheck) : null;
+      const daysSinceLastCheck = lastCheckDate ? Math.floor((Date.now() - lastCheckDate.getTime()) / (1000 * 60 * 60 * 24)) : 0;
+      const daysUntilCheck = Math.max(0, 30 - daysSinceLastCheck);
 
       return (
         <>
@@ -6820,6 +7234,15 @@
             </div>
 
             <div className="profile-section">
+              {isAmbassadorProfile && (
+                <div style={{ marginBottom: '12px', padding: '12px', borderRadius: '12px', background: 'rgba(245,158,11,0.12)', border: '1px solid rgba(245,158,11,0.35)' }}>
+                  <div style={{ fontSize: '12px', fontWeight: 800, color: '#F59E0B', letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: '6px' }}>Conta de Embaixador</div>
+                  <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.6 }}>
+                    Status: <strong>{user?.qualificationStatus === 'suspended' ? 'Suspenso' : 'Aprovado'}</strong><br />
+                    Próxima verificação em: <strong>{daysUntilCheck} dia(s)</strong>
+                  </div>
+                </div>
+              )}
               <div className="profile-item">
                 <span className="profile-label">Email</span>
                 <span className="profile-value" style={{ fontSize: '13px' }}>{user.email}</span>
@@ -6939,6 +7362,109 @@
             </div>
           </div>
         </>
+      );
+    };
+
+    const AmbassadorScreen = ({ user }) => {
+      const [loading, setLoading] = useState(true);
+      const [dashboard, setDashboard] = useState({
+        status: user?.qualificationStatus || 'pending',
+        daysUntilCheck: 30,
+        salesCurrentMonth: 0,
+        couponCode: user?.couponCode || '—',
+        ambassadorId: user?.ambassadorId || '—',
+      });
+
+      useEffect(() => {
+        let isMounted = true;
+        const loadAmbassadorData = async () => {
+          try {
+            const [ambRes, salesRes] = await Promise.all([
+              fetch('data/embaixadores.json?_=' + Date.now()).then(r => r.ok ? r.json() : {}),
+              fetch('data/vendas_mensais.json?_=' + Date.now()).then(r => r.ok ? r.json() : {})
+            ]);
+
+            const ambassadors = ambRes || {};
+            const salesMonthly = salesRes || {};
+
+            const ambassadorId = user?.ambassadorId || Object.keys(ambassadors).find(id => ambassadors[id]?.email === user?.email) || null;
+            const ambassador = ambassadorId ? ambassadors[ambassadorId] : null;
+
+            const monthKey = new Date().toISOString().slice(0, 7);
+            const sales = ambassadorId ? (salesMonthly[monthKey]?.[ambassadorId]?.count || 0) : 0;
+
+            const lastCheck = user?.lastQualificationCheck ? new Date(user.lastQualificationCheck) : null;
+            const daysSince = lastCheck ? Math.floor((Date.now() - lastCheck.getTime()) / (1000 * 60 * 60 * 24)) : 0;
+            const daysUntilCheck = Math.max(0, 30 - daysSince);
+
+            if (!isMounted) return;
+            setDashboard({
+              status: user?.qualificationStatus || ambassador?.qualificacao_status || 'pending',
+              daysUntilCheck,
+              salesCurrentMonth: sales,
+              couponCode: user?.couponCode || ambassador?.cupomCode || '—',
+              ambassadorId: ambassadorId || '—',
+            });
+          } catch {
+            // keep fallback dashboard data on failure
+          } finally {
+            if (isMounted) setLoading(false);
+          }
+        };
+
+        loadAmbassadorData();
+        return () => { isMounted = false; };
+      }, [user?.email, user?.ambassadorId, user?.couponCode, user?.qualificationStatus, user?.lastQualificationCheck, user?.codeHash]);
+
+      return (
+        <div className="screen-content">
+          <div className="page-header" style={{ marginBottom: '18px' }}>
+            <h1 style={{ fontSize: '26px' }}>Área do Embaixador</h1>
+            <p style={{ color: 'var(--text-secondary)' }}>Acompanhe sua elegibilidade, vendas e dados de identificação.</p>
+          </div>
+
+          {loading && (
+            <div className="panel" style={{ marginBottom: '16px' }}>
+              <p style={{ color: 'var(--text-secondary)' }}>Carregando dados do embaixador...</p>
+            </div>
+          )}
+
+          <div className="profile-stats" style={{ marginBottom: '18px' }}>
+            <div className="profile-stat">
+              <div className="profile-stat-icon" style={{ color: dashboard.status === 'suspended' ? 'var(--error)' : 'var(--success)' }}><IconTarget /></div>
+              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.status === 'suspended' ? 'Suspenso' : 'Aprovado'}</div>
+              <div className="profile-stat-label">Status</div>
+            </div>
+            <div className="profile-stat">
+              <div className="profile-stat-icon" style={{ color: 'var(--warning)' }}><IconClock /></div>
+              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.daysUntilCheck}d</div>
+              <div className="profile-stat-label">Até verificação</div>
+            </div>
+            <div className="profile-stat">
+              <div className="profile-stat-icon" style={{ color: 'var(--primary)' }}><IconClipboardList /></div>
+              <div className="profile-stat-value" style={{ fontSize: '20px' }}>{dashboard.salesCurrentMonth}</div>
+              <div className="profile-stat-label">Vendas no mês</div>
+            </div>
+          </div>
+
+          <div className="profile-section">
+            <div className="profile-item">
+              <span className="profile-label">Cupom</span>
+              <span className="profile-value" style={{ fontFamily: 'monospace', fontSize: '13px' }}>{dashboard.couponCode}</span>
+            </div>
+            <div className="profile-item">
+              <span className="profile-label">ID do embaixador</span>
+              <span className="profile-value" style={{ fontFamily: 'monospace', fontSize: '12px' }}>{dashboard.ambassadorId}</span>
+            </div>
+          </div>
+
+          <div style={{ marginTop: '12px', padding: '12px', borderRadius: '12px', background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.06)' }}>
+            <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginBottom: '8px' }}>Regras de manutenção</div>
+            <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.6 }}>
+              Você começa aprovado no primeiro ciclo. Após 30 dias, é necessário ter ao menos 1 venda no mês para manter o acesso vitalício.
+            </div>
+          </div>
+        </div>
       );
     };
 
@@ -7103,147 +7629,651 @@
       },
     ];
 
+    /* ── Atlas SVG Icons (dedicated, consistent stroke) ── */
+    const AtlasIconBone = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M18.3 5.7a2.8 2.8 0 0 0-3.5-.4L12 7.5 9.2 5.3a2.8 2.8 0 0 0-3.5.4 2.8 2.8 0 0 0 .4 3.5L8.5 12l-2.4 2.8a2.8 2.8 0 0 0-.4 3.5 2.8 2.8 0 0 0 3.5.4L12 16.5l2.8 2.2a2.8 2.8 0 0 0 3.5-.4 2.8 2.8 0 0 0-.4-3.5L15.5 12l2.4-2.8a2.8 2.8 0 0 0 .4-3.5z"/></svg>);
+    const AtlasIconJoint = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v6.5M12 15.5V22M2 12h6.5M15.5 12H22"/></svg>);
+    const AtlasIconMuscle = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M6 18.5c2-1.5 3-5 3-6.5s1.5-4 3-5c1.5 1 3 3.5 3 5s1 5 3 6.5"/><path d="M6 18.5C4.5 17 3.5 14 4 11s2-6 4.5-7.5"/><path d="M18 18.5c1.5-1.5 2.5-4.5 2-7.5s-2-6-4.5-7.5"/></svg>);
+    const AtlasIconHeart = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>);
+    const AtlasIconLungs = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round"><line x1="12" y1="3" x2="12" y2="9"/><path d="M12 9Q7 9 5 13Q3 17 5 20Q7 22 9 20Q11 18 12 16"/><path d="M12 9Q17 9 19 13Q21 17 19 20Q17 22 15 20Q13 18 12 16"/></svg>);
+    const AtlasIconStomach = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M16 4c2 0 4 2 4 5s-1 5-3 7c-2 2-5 3-7 4s-4 .5-5-1c-.5-1 0-3 1.5-4s3.5-1 4.5-2 2-3 2-5V4z"/><path d="M16 4h-3"/></svg>);
+    const AtlasIconKidney = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M8 3C5 3 3 6 3 9c0 4 2 7 5 9s5 3 5 3 1-1 1-3-1-3-3-4-3-3-3-5 1.5-6 4.5-6 4.5 2 4.5 6-1 5-3 7-3 3-3 3"/></svg>);
+    const AtlasIconMale = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="10" cy="14" r="5"/><path d="M14.5 9.5L19 5M19 5h-4M19 5v4"/></svg>);
+    const AtlasIconFemale = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="9" r="5"/><line x1="12" y1="14" x2="12" y2="22"/><line x1="9" y1="18" x2="15" y2="18"/></svg>);
+    const AtlasIconBrain = () => (<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M9.5 2C6.5 2 4 4.5 4 8c0 2 .9 3.7 2.2 4.9L7 20h10l.8-7.1C19.1 11.7 20 10 20 8c0-3.5-2.5-6-5.5-6C13 2 12 3 12 3S11 2 9.5 2z"/><line x1="12" y1="3" x2="12" y2="11"/><path d="M9 8.5Q10.5 10.5 12 9.5Q13.5 8.5 15 10"/></svg>);
+    const AtlasIconChevron = () => (<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><polyline points="9 18 15 12 9 6"/></svg>);
+    const AtlasIconBack = () => (<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><polyline points="15 18 9 12 15 6"/></svg>);
+    const AtlasIconImage = () => (<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>);
+    const AtlasIconSearch = () => (<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="7"/><line x1="16.65" y1="16.65" x2="21" y2="21"/></svg>);
+    const AtlasIconPin = () => (<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>);
+
+    const ATLAS_ICON_MAP = {
+      bone: AtlasIconBone, joint: AtlasIconJoint, muscle: AtlasIconMuscle,
+      heart: AtlasIconHeart, lungs: AtlasIconLungs, stomach: AtlasIconStomach,
+      kidney: AtlasIconKidney, male: AtlasIconMale, female: AtlasIconFemale, brain: AtlasIconBrain,
+    };
+
+    const AnatomiaAtlasPlate = ({ lamina, accentColor, sistemaTitulo, divisaoTitulo, referenciaAsclepio, onBack }) => {
+      const [openPin, setOpenPin] = React.useState(null);
+      const [hoverPin, setHoverPin] = React.useState(null);
+      const [imgError, setImgError] = React.useState(false);
+      const [imgLoaded, setImgLoaded] = React.useState(false);
+      const wrapRef = React.useRef(null);
+      const reduceMotion = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      const pinos = lamina.pinos || [];
+      const hasImage = lamina.urlImagem && lamina.urlImagem.length > 0;
+      const showTip = (i) => openPin === i || hoverPin === i;
+
+      React.useEffect(() => {
+        setImgError(false); setImgLoaded(false); setOpenPin(null);
+      }, [lamina.id]);
+
+      React.useEffect(() => {
+        const el = wrapRef.current;
+        if (!el) return;
+        const onDoc = (e) => { if (!el.contains(e.target)) setOpenPin(null); };
+        document.addEventListener('touchstart', onDoc, { passive: true });
+        document.addEventListener('click', onDoc);
+        return () => { document.removeEventListener('touchstart', onDoc); document.removeEventListener('click', onDoc); };
+      }, []);
+
+      const backBtn = {
+        display: 'inline-flex', alignItems: 'center', gap: '6px', marginBottom: '16px',
+        padding: '8px 14px', borderRadius: '10px', border: '1px solid rgba(255,255,255,0.1)',
+        background: 'rgba(255,255,255,0.04)', color: 'var(--text-secondary)', fontSize: '13px', fontWeight: 600,
+        cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
+      };
+
+      return (
+        <div style={{ animation: reduceMotion ? 'none' : 'aboutFadeUp 0.3s ease both' }}>
+          <button type="button" onClick={onBack} style={backBtn} onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'} onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
+            <AtlasIconBack /> Voltar
+          </button>
+          <div style={{ marginBottom: '12px' }}>
+            <div style={{ fontSize: '11px', fontWeight: 700, color: accentColor, textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: '4px' }}>{sistemaTitulo}</div>
+            <h3 style={{ fontFamily: 'Outfit', fontSize: '20px', fontWeight: 800, color: 'var(--text-primary)', margin: 0, lineHeight: 1.3 }}>{lamina.titulo}</h3>
+            <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>{divisaoTitulo}</div>
+          </div>
+
+          {hasImage && !imgError ? (
+            <div ref={wrapRef} style={{
+              position: 'relative', borderRadius: '16px', overflow: 'hidden',
+              border: '1px solid rgba(255,255,255,0.08)',
+              boxShadow: '0 8px 32px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.2)',
+              background: '#0D1117',
+              aspectRatio: '4/3', minHeight: '200px',
+            }}>
+              {!imgLoaded && (
+                <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  <div style={{ width: '28px', height: '28px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: accentColor, borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                </div>
+              )}
+              <img
+                src={lamina.urlImagem}
+                alt={lamina.alt || lamina.titulo}
+                loading="lazy"
+                decoding="async"
+                onLoad={() => setImgLoaded(true)}
+                onError={() => setImgError(true)}
+                style={{ width: '100%', height: 'auto', display: 'block', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease' }}
+              />
+              {imgLoaded && pinos.map((p, i) => (
+                <button key={i} type="button" aria-label={p.rotulo} aria-pressed={showTip(i)}
+                  onClick={(e) => { e.stopPropagation(); setOpenPin(prev => prev === i ? null : i); }}
+                  onMouseEnter={() => setHoverPin(i)} onMouseLeave={() => setHoverPin(null)}
+                  style={{
+                    position: 'absolute', left: p.x + '%', top: p.y + '%', transform: 'translate(-50%, -50%)',
+                    width: '44px', height: '44px', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                    cursor: 'pointer', zIndex: showTip(i) ? 4 : 2,
+                  }}
+                >
+                  <span style={{
+                    position: 'absolute', left: '50%', top: '50%', transform: 'translate(-50%, -50%)',
+                    width: showTip(i) ? '16px' : '12px', height: showTip(i) ? '16px' : '12px', borderRadius: '50%',
+                    background: showTip(i) ? accentColor : 'rgba(255,255,255,0.9)',
+                    border: '2.5px solid ' + accentColor, boxShadow: '0 2px 8px rgba(0,0,0,0.5)',
+                    transition: reduceMotion ? 'none' : 'all 0.15s ease',
+                  }} />
+                </button>
+              ))}
+              {imgLoaded && pinos.map((p, i) => showTip(i) && (
+                <div key={'tip-' + i} role="status" style={{
+                  position: 'absolute', left: p.x + '%', top: p.y + '%',
+                  transform: p.y < 20 ? 'translate(-50%, 18px)' : 'translate(-50%, calc(-100% - 18px))',
+                  maxWidth: 'min(200px, 65vw)', padding: '7px 12px', borderRadius: '8px',
+                  background: 'rgba(10,10,15,0.94)', backdropFilter: 'blur(8px)',
+                  border: '1px solid rgba(255,255,255,0.12)', color: '#F5F3FF',
+                  fontSize: '12px', fontWeight: 700, lineHeight: 1.3, pointerEvents: 'none', zIndex: 5,
+                  boxShadow: '0 6px 20px rgba(0,0,0,0.5)',
+                }}>
+                  {p.rotulo}
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div style={{
+              borderRadius: '16px', overflow: 'hidden', border: '1px dashed rgba(255,255,255,0.12)',
+              background: 'linear-gradient(135deg, rgba(255,255,255,0.02) 0%, rgba(139,92,246,0.04) 100%)',
+              padding: '40px 24px', textAlign: 'center',
+            }}>
+              <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '14px', color: 'rgba(255,255,255,0.2)' }}>
+                <AtlasIconImage />
+              </div>
+              <div style={{ fontFamily: 'Outfit', fontWeight: 700, fontSize: '14px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
+                {imgError ? 'Imagem indisponível' : 'Imagem pendente'}
+              </div>
+              <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.35)', lineHeight: 1.6, margin: 0, maxWidth: '320px', marginLeft: 'auto', marginRight: 'auto' }}>
+                {lamina.descricaoNecessaria || lamina.alt || 'Esta lâmina ainda precisa de uma imagem. Volte em breve.'}
+              </p>
+            </div>
+          )}
+
+          <div style={{
+            marginTop: '14px', padding: '12px 14px', borderRadius: '12px',
+            background: 'rgba(255,255,255,0.03)', border: '1px solid rgba(255,255,255,0.06)',
+            fontSize: '11px', color: 'var(--text-secondary)', lineHeight: 1.6,
+          }}>
+            {lamina.fonte === 'commons' ? (
+              <div>
+                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Créditos e licença</div>
+                {lamina.credito && <div>{lamina.credito}</div>}
+                {lamina.licenca && <div style={{ marginTop: '2px', opacity: 0.8 }}>{lamina.licenca}</div>}
+                {lamina.urlPaginaFonte && (
+                  <a href={lamina.urlPaginaFonte} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, marginTop: '4px', display: 'inline-block' }}>
+                    Ver no Wikimedia Commons
+                  </a>
+                )}
+              </div>
+            ) : (
+              <div>
+                <div style={{ fontWeight: 700, color: 'var(--text-primary)', marginBottom: '4px', fontSize: '12px' }}>Fonte</div>
+                <div>{lamina.credito || referenciaAsclepio.nome}</div>
+                <a href={referenciaAsclepio.url} target="_blank" rel="noopener noreferrer" style={{ color: '#A78BFA', fontWeight: 600, display: 'inline-block', marginTop: '4px' }}>
+                  {referenciaAsclepio.nome}
+                </a>
+              </div>
+            )}
+          </div>
+        </div>
+      );
+    };
+
     const AnatomiaScreen = () => {
+      const [viewMode, setViewMode] = React.useState('atlas');
       const [openSystem, setOpenSystem] = React.useState(null);
       const [openSub, setOpenSub] = React.useState({});
       const [search, setSearch] = React.useState('');
+      const [atlasData, setAtlasData] = React.useState(null);
+      const [atlasErr, setAtlasErr] = React.useState(null);
+      const [atlasNav, setAtlasNav] = React.useState({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+
+      React.useEffect(() => {
+        fetch('data/anatomia_atlas.json?_=' + Date.now())
+          .then(r => { if (!r.ok) throw new Error('Falha ao carregar atlas'); return r.json(); })
+          .then(setAtlasData)
+          .catch(e => setAtlasErr(e.message || String(e)));
+      }, []);
 
       const q = search.toLowerCase().trim();
       const filtered = ANATOMY_SYSTEMS.map(sys => {
         if (!q) return sys;
         const subsMatch = sys.subsections.map(sub => {
-          const items = sub.items.filter(it =>
-            it.q.toLowerCase().includes(q) || it.a.toLowerCase().includes(q)
-          );
+          const items = sub.items.filter(it => it.q.toLowerCase().includes(q) || it.a.toLowerCase().includes(q));
           return items.length ? { ...sub, items } : null;
         }).filter(Boolean);
         if (!subsMatch.length && !sys.name.toLowerCase().includes(q)) return null;
         return { ...sys, subsections: subsMatch.length ? subsMatch : sys.subsections };
       }).filter(Boolean);
 
-      const toggleSystem = (id) => {
-        setOpenSystem(prev => prev === id ? null : id);
-        setOpenSub({});
-      };
+      const toggleSystem = (id) => { setOpenSystem(prev => prev === id ? null : id); setOpenSub({}); };
       const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
 
       React.useEffect(() => {
         if (q && filtered.length === 1) setOpenSystem(filtered[0].id);
       }, [q]);
 
+      const atlasSistema = atlasData && atlasNav.sistemaId ? atlasData.sistemas.find(s => s.id === atlasNav.sistemaId) : null;
+      const atlasDivisao = atlasSistema && atlasNav.divisaoId ? atlasSistema.divisoes.find(d => d.id === atlasNav.divisaoId) : null;
+
+      const atlasGoBack = () => {
+        if (atlasNav.step === 'plate') setAtlasNav({ step: 'laminas', sistemaId: atlasNav.sistemaId, divisaoId: atlasNav.divisaoId, laminaAtual: null });
+        else if (atlasNav.step === 'laminas') setAtlasNav({ step: 'divisions', sistemaId: atlasNav.sistemaId, divisaoId: null, laminaAtual: null });
+        else if (atlasNav.step === 'divisions') setAtlasNav({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+      };
+
+      const segBtnStyle = (active) => ({
+        flex: 1, padding: '10px 0', borderRadius: '10px', border: 'none',
+        fontSize: '13px', fontWeight: 700, fontFamily: 'Outfit, sans-serif', cursor: 'pointer',
+        transition: 'all 0.2s ease',
+        background: active ? 'linear-gradient(135deg, rgba(139,92,246,0.3), rgba(99,102,241,0.2))' : 'transparent',
+        color: active ? '#EDE9FE' : 'var(--text-secondary)',
+        boxShadow: active ? '0 2px 12px rgba(139,92,246,0.15)' : 'none',
+      });
+
+      const backBtn = {
+        display: 'inline-flex', alignItems: 'center', gap: '6px', marginBottom: '16px',
+        padding: '8px 14px', borderRadius: '10px', border: '1px solid rgba(255,255,255,0.1)',
+        background: 'rgba(255,255,255,0.04)', color: 'var(--text-secondary)', fontSize: '13px', fontWeight: 600,
+        cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
+      };
+
+      const totalLaminas = atlasSistema ? atlasSistema.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0) : 0;
+
       return (
         <div className="screen-content">
           <div style={{ maxWidth: '720px', margin: '0 auto' }}>
-            <h2 style={{ fontFamily: 'Outfit', fontSize: '22px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '4px' }}>Anatomia</h2>
-            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '20px' }}>Referência rápida por sistema. Toque para expandir.</p>
+            <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Anatomia</h2>
+            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '18px', lineHeight: 1.5 }}>
+              Atlas visual por sistema ou revisão rápida em texto para pré-prova.
+            </p>
 
-            {/* Beta Notice */}
             <div style={{
-              background: 'linear-gradient(135deg, rgba(139,92,246,0.12), rgba(99,102,241,0.08))',
-              border: '1px solid rgba(139,92,246,0.25)',
-              borderRadius: '14px', padding: '16px 18px', marginBottom: '20px',
-              display: 'flex', gap: '14px', alignItems: 'flex-start',
-              animation: 'aboutFadeUp 0.5s ease both',
+              display: 'flex', gap: '4px', padding: '4px',
+              background: 'rgba(255,255,255,0.03)', borderRadius: '12px',
+              border: '1px solid rgba(255,255,255,0.06)', marginBottom: '20px',
             }}>
-              <span style={{ fontSize: '24px', flexShrink: 0, lineHeight: 1 }}>🧪</span>
+              <button type="button" style={segBtnStyle(viewMode === 'atlas')} onClick={() => setViewMode('atlas')}>Atlas visual</button>
+              <button type="button" style={segBtnStyle(viewMode === 'revisao')} onClick={() => setViewMode('revisao')}>Revisão rápida</button>
+            </div>
+
+            {viewMode === 'atlas' && (
               <div>
-                <div style={{ fontFamily: 'Outfit', fontWeight: 700, fontSize: '14px', color: '#A78BFA', marginBottom: '4px', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                  Beta Version
-                  <span style={{ background: 'rgba(139,92,246,0.2)', padding: '2px 8px', borderRadius: '6px', fontSize: '10px', fontWeight: 700, color: '#C4B5FD', letterSpacing: '0.5px' }}>EM DESENVOLVIMENTO</span>
-                </div>
-                <p style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6, margin: 0 }}>
-                  A seção de Anatomia está em versão beta. Em breve teremos <strong style={{ color: '#C4B5FD' }}>imagens anatômicas interativas</strong>, explicações detalhadas com foco em provas e muito mais conteúdo visual. Fique ligado nas atualizações!
-                </p>
-              </div>
-            </div>
+                {atlasErr && (
+                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6 }}>
+                    Erro ao carregar o atlas. Verifique sua conexão e recarregue a página.
+                  </div>
+                )}
+                {!atlasData && !atlasErr && (
+                  <div style={{ padding: '48px 24px', textAlign: 'center' }}>
+                    <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#8B5CF6', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                    <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando atlas...</div>
+                  </div>
+                )}
 
-            <div style={{ position: 'relative', marginBottom: '20px' }}>
-              <input
-                type="text"
-                placeholder="Buscar estrutura, nervo, músculo..."
-                value={search}
-                onChange={e => setSearch(e.target.value)}
-                style={{
-                  width: '100%', padding: '10px 14px 10px 36px',
-                  background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(255,255,255,0.1)',
-                  borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
-                }}
-              />
-              <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', fontSize: '14px' }}>🔍</span>
-            </div>
-
-            {filtered.length === 0 && (
-              <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
-                Nenhum resultado para "{search}"
-              </div>
-            )}
-
-            {filtered.map(sys => (
-              <div key={sys.id} style={{ marginBottom: '10px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.07)', background: 'rgba(255,255,255,0.03)' }}>
-                <div
-                  onClick={() => toggleSystem(sys.id)}
-                  style={{
-                    display: 'flex', alignItems: 'center', gap: '12px', padding: '14px 16px',
-                    cursor: 'pointer', userSelect: 'none',
-                    borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.07)' : 'none',
-                  }}
-                >
-                  <span style={{ display: 'flex', alignItems: 'center', color: sys.color, flexShrink: 0 }}>{sys.icon}</span>
-                  <span style={{ fontWeight: 700, fontSize: '15px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
-                  <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
-                    {sys.subsections.reduce((t, s) => t + s.items.length, 0)} itens
-                  </span>
-                  <span style={{
-                    color: 'var(--text-secondary)', fontSize: '18px',
-                    display: 'inline-block', transition: 'transform 0.2s',
-                    transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)'
-                  }}>›</span>
-                </div>
-
-                {openSystem === sys.id && (
-                  <div style={{ padding: '8px 12px 12px' }}>
-                    {sys.subsections.map((sub, si) => {
-                      const subKey = sys.id + '_' + si;
+                {atlasData && atlasNav.step === 'systems' && (
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
+                    {atlasData.sistemas.map((sys, idx) => {
+                      const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
+                      const nLam = sys.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0);
                       return (
-                        <div key={subKey} style={{ marginBottom: '6px' }}>
-                          <div
-                            onClick={() => toggleSub(subKey)}
-                            style={{
-                              display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                              padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
-                              background: openSub[subKey] ? 'rgba(255,255,255,0.07)' : 'rgba(255,255,255,0.03)',
-                              fontSize: '13px', fontWeight: 600, color: sys.color,
-                            }}
-                          >
-                            <span>{sub.title}</span>
-                            <span style={{
-                              display: 'inline-block', transition: 'transform 0.2s',
-                              transform: openSub[subKey] ? 'rotate(90deg)' : 'none',
-                              fontSize: '16px', color: 'var(--text-secondary)'
-                            }}>›</span>
+                        <button key={sys.id} type="button"
+                          onClick={() => setAtlasNav({ step: 'divisions', sistemaId: sys.id, divisaoId: null, laminaAtual: null })}
+                          style={{
+                            display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
+                            padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
+                            border: '1px solid rgba(255,255,255,0.06)',
+                            background: 'rgba(255,255,255,0.025)',
+                            cursor: 'pointer', fontFamily: 'inherit',
+                            transition: 'background 0.15s ease, border-color 0.15s ease',
+                            animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
+                          }}
+                          onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
+                          onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
+                        >
+                          <div style={{
+                            width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                            background: sys.cor + '18', color: sys.cor,
+                          }}>
+                            <Icon />
                           </div>
-
-                          {openSub[subKey] && (
-                            <div style={{ padding: '6px 4px 0' }}>
-                              {sub.items.map((it, ii) => (
-                                <div key={ii} style={{
-                                  padding: '10px 12px', marginBottom: '6px',
-                                  background: 'rgba(255,255,255,0.04)', borderRadius: '8px',
-                                  borderLeft: `3px solid ${sys.color}`,
-                                }}>
-                                  <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
-                                  <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
-                                </div>
-                              ))}
+                          <div>
+                            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3, marginBottom: '3px' }}>{sys.titulo}</div>
+                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
+                              {sys.divisoes.length} div. {nLam > 0 ? ` · ${nLam} lam.` : ''}
                             </div>
-                          )}
-                        </div>
+                          </div>
+                        </button>
                       );
                     })}
                   </div>
                 )}
+
+                {atlasData && atlasNav.step === 'divisions' && atlasSistema && (() => {
+                  const Icon = ATLAS_ICON_MAP[atlasSistema.icone] || AtlasIconBone;
+                  return (
+                    <div>
+                      <button type="button" onClick={atlasGoBack} style={backBtn}
+                        onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
+                        onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
+                        <AtlasIconBack /> Todos os sistemas
+                      </button>
+                      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+                        <div style={{
+                          width: '40px', height: '40px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                          background: atlasSistema.cor + '1A', color: atlasSistema.cor,
+                        }}>
+                          <Icon />
+                        </div>
+                        <div>
+                          <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasSistema.titulo}</h3>
+                          <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '2px' }}>
+                            {atlasSistema.divisoes.length} divisões · {totalLaminas} lâminas
+                          </div>
+                        </div>
+                      </div>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                        {atlasSistema.divisoes.map((div, di) => {
+                          const n = div.laminas ? div.laminas.length : 0;
+                          const hasImgs = div.laminas && div.laminas.some(l => l.urlImagem);
+                          return (
+                            <button key={div.id} type="button"
+                              onClick={() => setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null })}
+                              style={{
+                                display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px',
+                                padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
+                                border: '1px solid rgba(255,255,255,0.06)',
+                                background: 'rgba(255,255,255,0.025)',
+                                cursor: 'pointer', fontFamily: 'inherit',
+                                transition: 'background 0.15s ease',
+                                animation: `aboutFadeUp 0.25s ease ${di * 0.04}s both`,
+                              }}
+                              onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.06)'}
+                              onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.025)'}
+                            >
+                              <div style={{ flex: 1 }}>
+                                <div style={{ fontWeight: 600, fontSize: '14px', color: 'var(--text-primary)' }}>{div.titulo}</div>
+                                <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '6px' }}>
+                                  {n} lâmina{n !== 1 ? 's' : ''}
+                                  {hasImgs && <span style={{ display: 'inline-flex', color: atlasSistema.cor, opacity: 0.7 }}><AtlasIconPin /></span>}
+                                  {!hasImgs && n > 0 && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)', color: 'var(--text-secondary)' }}>aguardando imagens</span>}
+                                </div>
+                              </div>
+                              <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                            </button>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  );
+                })()}
+
+                {atlasData && atlasNav.step === 'laminas' && atlasSistema && atlasDivisao && (
+                  <div>
+                    <button type="button" onClick={atlasGoBack} style={backBtn}
+                      onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
+                      onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
+                      <AtlasIconBack /> {atlasSistema.titulo}
+                    </button>
+                    <div style={{ marginBottom: '14px' }}>
+                      <div style={{ fontSize: '11px', fontWeight: 700, color: atlasSistema.cor, textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: '4px' }}>{atlasSistema.titulo}</div>
+                      <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasDivisao.titulo}</h3>
+                    </div>
+                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                      {atlasDivisao.laminas.map((lam, li) => {
+                        const hasImg = lam.urlImagem && lam.urlImagem.length > 0;
+                        const hasPins = lam.pinos && lam.pinos.length > 0;
+                        return (
+                          <button key={lam.id} type="button"
+                            onClick={() => setAtlasNav({ step: 'plate', sistemaId: atlasSistema.id, divisaoId: atlasDivisao.id, laminaAtual: lam })}
+                            style={{
+                              display: 'flex', alignItems: 'center', gap: '14px',
+                              padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
+                              border: '1px solid rgba(255,255,255,0.06)',
+                              background: hasImg ? 'linear-gradient(135deg, rgba(139,92,246,0.06), rgba(99,102,241,0.03))' : 'rgba(255,255,255,0.02)',
+                              cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
+                              animation: `aboutFadeUp 0.25s ease ${li * 0.04}s both`,
+                            }}
+                            onMouseEnter={e => e.currentTarget.style.background = hasImg ? 'rgba(139,92,246,0.12)' : 'rgba(255,255,255,0.05)'}
+                            onMouseLeave={e => e.currentTarget.style.background = hasImg ? 'linear-gradient(135deg, rgba(139,92,246,0.06), rgba(99,102,241,0.03))' : 'rgba(255,255,255,0.02)'}
+                          >
+                            <div style={{
+                              width: '38px', height: '38px', borderRadius: '10px', flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center',
+                              background: hasImg ? atlasSistema.cor + '18' : 'rgba(255,255,255,0.04)',
+                              color: hasImg ? atlasSistema.cor : 'rgba(255,255,255,0.2)',
+                            }}>
+                              <AtlasIconImage />
+                            </div>
+                            <div style={{ flex: 1 }}>
+                              <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3 }}>{lam.titulo}</div>
+                              <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '8px' }}>
+                                <span>{lam.fonte === 'commons' ? 'Wikimedia Commons' : 'Asclépio UFU'}</span>
+                                {hasPins && <span style={{ display: 'flex', alignItems: 'center', gap: '3px', color: atlasSistema.cor }}><AtlasIconPin /> {lam.pinos.length}</span>}
+                                {!hasImg && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)' }}>pendente</span>}
+                              </div>
+                            </div>
+                            <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
+
+                {atlasData && atlasNav.step === 'plate' && atlasNav.laminaAtual && atlasSistema && atlasDivisao && (
+                  <AnatomiaAtlasPlate
+                    lamina={atlasNav.laminaAtual}
+                    accentColor={atlasSistema.cor}
+                    sistemaTitulo={atlasSistema.titulo}
+                    divisaoTitulo={atlasDivisao.titulo}
+                    referenciaAsclepio={atlasData.referenciaAsclepio}
+                    onBack={atlasGoBack}
+                  />
+                )}
               </div>
-            ))}
+            )}
+
+            {viewMode === 'revisao' && (
+              <>
+                <div style={{ position: 'relative', marginBottom: '18px' }}>
+                  <input type="text" placeholder="Buscar estrutura, nervo, músculo..."
+                    value={search} onChange={e => setSearch(e.target.value)}
+                    style={{
+                      width: '100%', padding: '10px 14px 10px 38px',
+                      background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
+                      borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
+                      transition: 'border-color 0.15s ease',
+                    }}
+                    onFocus={e => e.target.style.borderColor = 'rgba(139,92,246,0.4)'}
+                    onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
+                  />
+                  <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
+                    <AtlasIconSearch />
+                  </span>
+                </div>
+
+                {filtered.length === 0 && (
+                  <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
+                    Nenhum resultado para "{search}"
+                  </div>
+                )}
+
+                {filtered.map(sys => (
+                  <div key={sys.id} style={{ marginBottom: '8px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)' }}>
+                    <div onClick={() => toggleSystem(sys.id)} style={{
+                      display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px',
+                      cursor: 'pointer', userSelect: 'none',
+                      borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none',
+                    }}>
+                      <span style={{ display: 'flex', alignItems: 'center', color: sys.color, flexShrink: 0 }}>{sys.icon}</span>
+                      <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
+                      <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
+                        {sys.subsections.reduce((t, s) => t + s.items.length, 0)} itens
+                      </span>
+                      <span style={{
+                        display: 'flex', transition: 'transform 0.2s',
+                        transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)',
+                        color: 'var(--text-secondary)', opacity: 0.5,
+                      }}><AtlasIconChevron /></span>
+                    </div>
+                    {openSystem === sys.id && (
+                      <div style={{ padding: '8px 12px 12px' }}>
+                        {sys.subsections.map((sub, si) => {
+                          const subKey = sys.id + '_' + si;
+                          return (
+                            <div key={subKey} style={{ marginBottom: '6px' }}>
+                              <div onClick={() => toggleSub(subKey)} style={{
+                                display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                                padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
+                                background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
+                                fontSize: '13px', fontWeight: 600, color: sys.color, transition: 'background 0.15s ease',
+                              }}>
+                                <span>{sub.title}</span>
+                                <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                              </div>
+                              {openSub[subKey] && (
+                                <div style={{ padding: '6px 4px 0' }}>
+                                  {sub.items.map((it, ii) => (
+                                    <div key={ii} style={{
+                                      padding: '10px 12px', marginBottom: '6px',
+                                      background: 'rgba(255,255,255,0.03)', borderRadius: '8px',
+                                      borderLeft: `3px solid ${sys.color}`,
+                                    }}>
+                                      <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{it.q}</div>
+                                      <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.7 }}>{it.a}</div>
+                                    </div>
+                                  ))}
+                                </div>
+                              )}
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </>
+            )}
+          </div>
+        </div>
+      );
+    };
+
+    const HistologiaScreen = () => {
+      const [data, setData] = React.useState(null);
+      const [err, setErr] = React.useState(null);
+      const [nav, setNav] = React.useState({ step: 'systems', sistemaId: null });
+
+      React.useEffect(() => {
+        fetch('data/histologia_atlas.json?_=' + Date.now())
+          .then(r => { if (!r.ok) throw new Error('Falha ao carregar'); return r.json(); })
+          .then(setData)
+          .catch(e => setErr(e.message || String(e)));
+      }, []);
+
+      const sistema = data && nav.sistemaId ? data.sistemas.find(s => s.id === nav.sistemaId) : null;
+      const SistIcon = sistema ? (ATLAS_ICON_MAP[sistema.icone] || AtlasIconBone) : null;
+
+      const backBtn = {
+        display: 'inline-flex', alignItems: 'center', gap: '6px', marginBottom: '16px',
+        padding: '8px 14px', borderRadius: '10px', border: '1px solid rgba(255,255,255,0.1)',
+        background: 'rgba(255,255,255,0.04)', color: 'var(--text-secondary)', fontSize: '13px', fontWeight: 600,
+        cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
+      };
+
+      return (
+        <div className="screen-content">
+          <div style={{ maxWidth: '720px', margin: '0 auto' }}>
+            <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Histologia</h2>
+            <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '14px', lineHeight: 1.5 }}>
+              Microanatomia por sistema — mesma ordem da aba Anatomia. Divisões por tecido e órgão entram na próxima fase.
+            </p>
+
+            {data && data.nota && (
+              <div style={{
+                padding: '12px 14px', borderRadius: '12px', marginBottom: '18px',
+                background: 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.06))',
+                border: '1px solid rgba(16,185,129,0.2)', fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55,
+              }}>
+                {data.nota}
+              </div>
+            )}
+
+            {err && (
+              <div style={{ padding: '14px', borderRadius: '12px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px' }}>
+                {err}
+              </div>
+            )}
+
+            {!data && !err && (
+              <div style={{ padding: '48px 24px', textAlign: 'center' }}>
+                <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#10B981', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando atlas de histologia…</div>
+              </div>
+            )}
+
+            {data && nav.step === 'systems' && (
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
+                {data.sistemas.map((sys, idx) => {
+                  const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
+                  return (
+                    <button key={sys.id} type="button"
+                      onClick={() => setNav({ step: 'divisions', sistemaId: sys.id })}
+                      style={{
+                        display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
+                        padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
+                        border: '1px solid rgba(255,255,255,0.06)',
+                        background: 'rgba(255,255,255,0.025)',
+                        cursor: 'pointer', fontFamily: 'inherit',
+                        transition: 'background 0.15s ease, border-color 0.15s ease',
+                        animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
+                      }}
+                      onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
+                      onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
+                    >
+                      <div style={{
+                        width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                        background: sys.cor + '18', color: sys.cor,
+                      }}>
+                        <Icon />
+                      </div>
+                      <div>
+                        <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3, marginBottom: '3px' }}>{sys.titulo}</div>
+                        <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
+                          {sys.divisoes && sys.divisoes.length ? `${sys.divisoes.length} divisões` : 'Divisões em breve'}
+                        </div>
+                      </div>
+                    </button>
+                  );
+                })}
+              </div>
+            )}
+
+            {data && nav.step === 'divisions' && sistema && (
+              <div>
+                <button type="button" onClick={() => setNav({ step: 'systems', sistemaId: null })} style={backBtn}
+                  onMouseEnter={e => e.currentTarget.style.background = 'rgba(255,255,255,0.08)'}
+                  onMouseLeave={e => e.currentTarget.style.background = 'rgba(255,255,255,0.04)'}>
+                  <AtlasIconBack /> Todos os sistemas
+                </button>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
+                  <div style={{
+                    width: '40px', height: '40px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center',
+                    background: sistema.cor + '1A', color: sistema.cor,
+                  }}>
+                    {SistIcon ? <SistIcon /> : null}
+                  </div>
+                  <div>
+                    <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '17px', color: 'var(--text-primary)', margin: 0 }}>{sistema.titulo}</h3>
+                    <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '2px' }}>Referência: Junqueira &amp; Carneiro · Ross &amp; Pawlina</div>
+                  </div>
+                </div>
+
+                {(!sistema.divisoes || sistema.divisoes.length === 0) ? (
+                  <div style={{
+                    borderRadius: '16px', padding: '28px 22px',
+                    border: '1px dashed rgba(16,185,129,0.35)',
+                    background: 'linear-gradient(160deg, rgba(16,185,129,0.06), rgba(6,182,212,0.04))',
+                    textAlign: 'center',
+                  }}>
+                    <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '14px', color: '#34D399' }}>
+                      <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+                        <circle cx="12" cy="12" r="3.5"/>
+                        <line x1="12" y1="2" x2="12" y2="5"/><line x1="12" y1="19" x2="12" y2="22"/>
+                        <line x1="2" y1="12" x2="5" y2="12"/><line x1="19" y1="12" x2="22" y2="12"/>
+                      </svg>
+                    </div>
+                    <div style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '16px', color: 'var(--text-primary)', marginBottom: '10px' }}>Divisões em preparação</div>
+                    <p style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: 1.65, margin: '0 0 12px' }}>
+                      Vamos organizar lâminas por <strong>tecido</strong> (epitélio de revestimento e glandular, conjuntivo, cartilagem, osso, sangue, músculo esquelético, cardíaco e liso, nervoso) e por <strong>órgão</strong>, no mesmo encadeamento sistemático da aba <strong>Anatomia</strong>.
+                    </p>
+                    <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.45)', lineHeight: 1.55, margin: 0 }}>
+                      Assim você revisa macro e micro na mesma ordem dos livros-base da graduação.
+                    </p>
+                  </div>
+                ) : (
+                  <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Conteúdo será listado aqui quando as divisões forem publicadas.</div>
+                )}
+              </div>
+            )}
           </div>
         </div>
       );
@@ -7496,7 +8526,7 @@
     };
 
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy', 'histology', 'ambassador'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
         if (raw === 'about-public') {
@@ -7528,6 +8558,7 @@
       const [user, setUser] = useState(null);
       const [routeState, setRouteState] = useState(initialRoute);
       const [currentTab, setCurrentTab] = useState(initialRoute.tab);
+      const isAmbassadorUser = !!(user?.ambassadorId || user?.ambassadorVitalicio || user?.couponCode);
       const [darkMode, setDarkMode] = useState(() => {
         const saved = localStorage.getItem('meduni9_theme');
         return saved ? saved !== 'light' : true;
@@ -7593,6 +8624,12 @@
         }
       }, [routeState.tab, routeState.materiaId]);
 
+      useEffect(() => {
+        if (currentTab === 'ambassador' && !isAmbassadorUser) {
+          navigateTo('home');
+        }
+      }, [currentTab, isAmbassadorUser]);
+
       const applyResolvedAuth = (profile) => {
         if (profile) { setUser(normalizeUserProfile(profile)); setStage('app'); }
         else          { setStage('auth'); }
@@ -7622,9 +8659,10 @@
               const p = await loadUserProfile(firebaseUser);
               if (p) {
                 const synced = await syncProfileAccessFromCodeEntry(firebaseUser, p);
-                const normalized = persistLocalUser(synced);
+                const qualified = await checkAmbassadorQualification(synced);
+                const normalized = persistLocalUser(qualified);
                 authStateRef.current = normalized;
-                if (splashDoneRef.current) applyResolvedAuth(synced);
+                if (splashDoneRef.current) applyResolvedAuth(qualified);
               } else {
                 if (cachedProfile) {
                   authStateRef.current = cachedProfile;
@@ -7840,10 +8878,14 @@
         { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
         { id: 'anatomy', label: 'Anatomia', icon: <IconAnatomy /> },
+        { id: 'histology', label: 'Histologia', icon: <IconHistology /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
         { id: 'about', label: 'Sobre', icon: <IconRocket /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
+      if (isAmbassadorUser) {
+        navItems.splice(8, 0, { id: 'ambassador', label: 'Embaixador', icon: <IconCoupon /> });
+      }
 
       // App UI with desktop sidebar
       return (
@@ -8052,8 +9094,16 @@
               }} />
             )}
 
+            {currentTab === 'ambassador' && isAmbassadorUser && (
+              <AmbassadorScreen user={user} />
+            )}
+
             {currentTab === 'anatomy' && (
               <AnatomiaScreen />
+            )}
+
+            {currentTab === 'histology' && (
+              <HistologiaScreen />
             )}
 
             {/* Bottom Navigation (mobile only) */}

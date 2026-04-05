@@ -1,4 +1,4 @@
-# SEMIO2 — Aula 9: Reunião Clínica — Casos Respiratórios
+﻿# SEMIO2 — Aula 9: Reunião Clínica — Casos Respiratórios
 
 **Disciplina:** Semiologia Cardiovascular e Respiratória
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Na reunião de casos respiratórios, o objetivo é transformar achado semiológico em decisão clínica com noção de gravidade. A Uninove costuma cobrar essa competência com cenários de dispneia, tosse, dor pleurítica, hipoxemia e sinais de síndrome ventilatória.
 
 Na prática, discutir caso respiratório com método evita atrasos perigosos em paciente que pode deteriorar rapidamente.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO2-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Estrutura de Raciocínio em Caso Respiratório
 
@@ -24,6 +37,17 @@ A apresentação deve priorizar padrão de dispneia, sinais de esforço respirat
 Boa reunião clínica define prioridades: suporte ventilatório quando necessário, hipóteses mais prováveis e exames com finalidade objetiva. Em prova, o diferencial é mostrar capacidade de reconhecer urgência sem perder precisão de raciocínio.
 
 O estudante precisa demonstrar que sabe equilibrar profundidade diagnóstica com rapidez de decisão.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Reunião Clínica — Casos Respiratórios
+
+Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ O estudante precisa demonstrar que sabe equilibrar profundidade diagnóstica com
 ### Frase-âncora para não esquecer
 
 > "No respiratório, quem reconhece gravidade cedo ganha tempo de vida."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Reunião Clínica — Casos Respiratórios** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Sequência e técnica do exame discutido. |
+| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
+| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
+- Porto CC. *Semiologia Médica*. Guanabara Koogan.
+- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.

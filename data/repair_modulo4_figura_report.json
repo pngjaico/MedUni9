@@ -1,0 +1,274 @@
+{
+  "report": [
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a1.md",
+      "action": "repaired",
+      "id": "BIOE-A1-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a10.md",
+      "action": "repaired",
+      "id": "BIOE-A10-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a11.md",
+      "action": "repaired",
+      "id": "BIOE-A11-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a12.md",
+      "action": "repaired",
+      "id": "BIOE-A12-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a2.md",
+      "action": "repaired",
+      "id": "BIOE-A2-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a3.md",
+      "action": "repaired",
+      "id": "BIOE-A3-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a4.md",
+      "action": "repaired",
+      "id": "BIOE-A4-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a5.md",
+      "action": "repaired",
+      "id": "BIOE-A5-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a6.md",
+      "action": "repaired",
+      "id": "BIOE-A6-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a7.md",
+      "action": "repaired",
+      "id": "BIOE-A7-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a8.md",
+      "action": "repaired",
+      "id": "BIOE-A8-F01"
+    },
+    {
+      "file": "materiais/modulo4/bioestatistica/bioe_a9.md",
+      "action": "repaired",
+      "id": "BIOE-A9-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a1.md",
+      "action": "repaired",
+      "id": "BMF4-A1-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a10.md",
+      "action": "repaired",
+      "id": "BMF4-A10-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a11.md",
+      "action": "repaired",
+      "id": "BMF4-A11-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a12.md",
+      "action": "repaired",
+      "id": "BMF4-A12-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a13.md",
+      "action": "repaired",
+      "id": "BMF4-A13-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a14.md",
+      "action": "repaired",
+      "id": "BMF4-A14-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a15.md",
+      "action": "repaired",
+      "id": "BMF4-A15-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a16.md",
+      "action": "repaired",
+      "id": "BMF4-A16-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a17.md",
+      "action": "repaired",
+      "id": "BMF4-A17-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a18.md",
+      "action": "repaired",
+      "id": "BMF4-A18-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a2.md",
+      "action": "repaired",
+      "id": "BMF4-A2-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a3.md",
+      "action": "repaired",
+      "id": "BMF4-A3-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a4.md",
+      "action": "repaired",
+      "id": "BMF4-A4-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a5.md",
+      "action": "repaired",
+      "id": "BMF4-A5-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a6.md",
+      "action": "repaired",
+      "id": "BMF4-A6-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a7.md",
+      "action": "repaired",
+      "id": "BMF4-A7-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a8.md",
+      "action": "repaired",
+      "id": "BMF4-A8-F01"
+    },
+    {
+      "file": "materiais/modulo4/bmf4/bmf4_a9.md",
+      "action": "repaired",
+      "id": "BMF4-A9-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a1.md",
+      "action": "repaired",
+      "id": "FF4-A1-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a10.md",
+      "action": "repaired",
+      "id": "FF4-A10-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a11.md",
+      "action": "repaired",
+      "id": "FF4-A11-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a12.md",
+      "action": "repaired",
+      "id": "FF4-A12-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a13.md",
+      "action": "repaired",
+      "id": "FF4-A13-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a14.md",
+      "action": "repaired",
+      "id": "FF4-A14-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a2.md",
+      "action": "repaired",
+      "id": "FF4-A2-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a3.md",
+      "action": "repaired",
+      "id": "FF4-A3-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a4.md",
+      "action": "repaired",
+      "id": "FF4-A4-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a5.md",
+      "action": "repaired",
+      "id": "FF4-A5-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a6.md",
+      "action": "repaired",
+      "id": "FF4-A6-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a7.md",
+      "action": "repaired",
+      "id": "FF4-A7-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a8.md",
+      "action": "repaired",
+      "id": "FF4-A8-F01"
+    },
+    {
+      "file": "materiais/modulo4/fisiopato_farmaco/ff4_a9.md",
+      "action": "repaired",
+      "id": "FF4-A9-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a1.md",
+      "action": "repaired",
+      "id": "SEMIO4-A1-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a10.md",
+      "action": "repaired",
+      "id": "SEMIO4-A10-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a2.md",
+      "action": "repaired",
+      "id": "SEMIO4-A2-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a3.md",
+      "action": "repaired",
+      "id": "SEMIO4-A3-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a4.md",
+      "action": "repaired",
+      "id": "SEMIO4-A4-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a5.md",
+      "action": "repaired",
+      "id": "SEMIO4-A5-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a6.md",
+      "action": "repaired",
+      "id": "SEMIO4-A6-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a7.md",
+      "action": "repaired",
+      "id": "SEMIO4-A7-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a8.md",
+      "action": "repaired",
+      "id": "SEMIO4-A8-F01"
+    },
+    {
+      "file": "materiais/modulo4/semiologia4/semio4_a9.md",
+      "action": "repaired",
+      "id": "SEMIO4-A9-F01"
+    }
+  ]
+}

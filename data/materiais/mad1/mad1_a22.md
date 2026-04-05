@@ -1,4 +1,4 @@
-# Parasitoses — Protozoários (Chagas, Malária, Leishmaniose)
+﻿# Parasitoses — Protozoários (Chagas, Malária, Leishmaniose)
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As doenças parasitárias por protozoários são causa significativa de morbimor
 
 A Uninove cobra as especificidades de cada doença: forma aguda vs. crônica da doença de Chagas, os tipos de Plasmodium, o diagnóstico laboratorial e o tratamento correto para cada protozoose.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A22-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Doença de Chagas (Trypanosoma cruzi)
 
@@ -178,3 +193,11 @@ A Uninove cobra as especificidades de cada doença: forma aguda vs. crônica da 
 ### Frase-âncora para não esquecer
 
 > "Barbeiro dá Chagas, mosquito dá malária, flebotomíneo (palha) dá Leishmania. Chagas crônica quebra o coração (BRD+BDASE) e dilata o esôfago. Malária por vivax volta se não dar primaquina."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -1,268 +1,92 @@
-# SUS - Aula 2: Antecedentes Históricos do SUS — Período Colonial ao Regime Militar
+# SUS — Aula 2: Antecedentes Históricos do SUS — Período Colonial ao Regime Militar
 
-**Disciplina:** Princípios e Diretrizes do SUS
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Princípios e Diretrizes do SUS  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Antecedentes Históricos do SUS — Período Colonial ao Regime Militar é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Entender o **percurso histórico** da saúde no Brasil explica por que o sistema atual é híbrido, desigual e ainda marcado por privilégios. A prova cobra **marcos temporais**, tipos de assistência (filantrópica, pública limitada, previdenciária) e o contexto político que **atrasou** uma reforma sanitária ampla até o fim do século XX. Sem esse mapa, o aluno decora “datas soltas” sem saber **por que** o SUS surge como projeto de democracia e universalização.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A2-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Relevância Populacional e Indicadores
+## Colônia e Império (1500–1889)
 
-Em Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, a leitura correta começa por magnitude do problema, população afetada e tendência temporal.
+Na Colônia, a saúde era **assistência religiosa e caridade**; havia isolamento de leprosos e ações pontuais contra epidemias. O Estado era mínimo. No Império, surgem as primeiras **faculdades de medicina** (contexto de elite) e iniciativas urbanísticas ligadas ao medo das epidemias (cólera, febre amarela), mas sem sistema universal.
 
-## Cadeia Epidemiológica e Pontos de Intervenção
-
-Descreva agente, via de transmissão, suscetibilidade e medidas de interrupção em prevenção primária, secundária e terciária.
-
-> **Dica de Prova:** Diferencie incidência de prevalência antes de interpretar impacto de política pública.
-
-## Interpretação de Estudos e Decisão em Saúde
-
-Associe desenho do estudo, viés provável e implicação para tomada de decisão clínica e de gestão.
-
-> **Pegadinha:** Valor de p isolado não substitui magnitude de efeito nem plausibilidade epidemiológica.
-
-| Conceito | Definição prática | Uso correto | Erro comum |
-|----------|-------------------|------------|------------|
-| Incidência | Casos novos no período | Avaliar risco | Confundir com estoque de casos |
-| Prevalência | Casos totais no momento | Medir carga | Inferir causalidade temporal |
-| Risco relativo | Comparação entre expostos e não expostos | Força de associação | Ignorar confundidores |
-| Intervalo de confiança | Faixa de incerteza da estimativa | Julgar precisão | Ler sem contexto clínico |
-
-### Núcleo de aprofundamento 1: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação em saúde coletiva
-Quando a lógica de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação em saúde coletiva
-Os professores costumam cobrar Antecedentes Históricos do SUS — Período Colonial ao Regime Militar com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação em saúde coletiva
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação em saúde coletiva
-Em Princípios e Diretrizes do SUS, o valor de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Antecedentes Históricos do SUS — Período Colonial ao Regime Militar, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação em saúde coletiva
-Na prática clínica, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** Associe “elite médica formada no Império” a **prática urbana** e pouca penetração no interior — isso explica desigualdade estrutural antiga.
 
 ---
 
-## Pontos-Chave para Prova
+## Primeira República (1889–1930)
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+O Brasil é majoritariamente **rural**; a saúde pública caminha com **campanhas sanitárias** pontuais e controle de portos. O modelo ainda é **assistencialista e focal**, sem integração com trabalho ou previdência de massa.
+
+---
+
+## Era Vargas (1930–1945)
+
+A centralização política fortalece a ideia de **Estado interventor**. Criam-se leis trabalhistas e bases para **políticas sociais seletivas**. A saúde do trabalhador urbano formal começa a ganhar proteção específica, mas a população rural e informal permanece excluída.
+
+> **Pegadinha:** “Vargas modernizou o Brasil” não significa **SUS** ou **APS universal** — significa **início de proteção social segmentada**.
+
+---
+
+## Redemocratização (1945–1964)
+
+Amplia-se o debate sobre **saúde pública** e **previdência**. Instituem-se serviços e fundos que cobrem **categorias trabalhistas**, reforçando um padrão **fragmentado**: quem tinha carteira tinha mais acesso; quem não tinha dependia de caridade ou pagamento direto.
+
+---
+
+## Regime militar (1964–1984)
+
+O regime **reprime movimentos sociais**, mas também acelera o **crescimento econômico** e a urbanização. A saúde segue **dual**: serviços públicos precários para a maioria e segmentos privados/previdenciários para minorias. Movimentos de **reforma sanitária** germinam na sociedade civil e entre profissionais, preparando o terreno para a **crítica ao modelo** que explodirá na redemocratização.
+
+### Linha do tempo rápida (para memorizar)
+
+| Período | Traço dominante na saúde |
+|---------|-------------------------|
+| Colônia/Império | Caridade, elite médica urbana, campanhas |
+| República Velha | Ruralidade, saneamento e portos |
+| Vargas | Estado forte, proteção trabalhista inicial, segmentação |
+| 1945–1964 | Previdência e fragmentação |
+| 1964–1984 | Crescimento com exclusão; base social da reforma sanitária |
+
+---
+
+## Fechamento do período: o que fica para a prova
+
+Para fechar o eixo **Colônia → Militar**, memorize três palavras: **fragmentação**, **segmentação**, **urbanização sem universalização**. A saúde pública avançou em **campanhas** e em **direitos trabalhistas parciais**, mas não houve **sistema único** nem **direito amplo à saúde**. Essa lacuna política e ética será o combustível da **Reforma Sanitária** e da Constituição de 1988 — temas das próximas aulas.
+
+Em questões de “caracterize o período”, busque sempre **quem tinha acesso** (urbano formal x rural/informal), **qual lógica** (caridade, campanha, previdência) e **qual exclusão** permaneceu.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Antecedentes Históricos do SUS — Período Colonial ao Regime Militar aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+O paciente idoso que “sempre pagou plano” e o que só acessa SUS hoje são heranças desse **processo histórico de segmentação**. Reconhecer isso ajuda a entender **por que** ainda existem filas, regionalização desigual e necessidade de **equidade**, não apenas de “mais hospitais”.
+
+---
+
+## Pontos-Chave para Prova
+
+- Saúde colonial/imperial: **sem sistema universal**; caridade e campanhas.
+- Primeira República: **campanhas sanitárias**; Brasil rural.
+- Vargas: **Estado interventor**; proteção **seletiva** ao trabalho formal.
+- 1945–1964: **previdência** e fragmentação.
+- 1964–1984: **crescimento com exclusão**; base para crítica sanitária posterior.
 
 ---
 
@@ -272,24 +96,18 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Antes do SUS:** sistema **fragmentado** (caridade, público limitado, previdência).
+- **Vargas:** modernização **sem** universalização da saúde.
+- **Regime militar:** exclusão persistente; germes da **Reforma Sanitária** na sociedade.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Campanha sanitária | Sistema universal | Campanha é pontual; universal exige direito e rede contínua. |
+| Previdência (segmentada) | SUS (universal) | Previdência cobre categoria; SUS cobre população (direito). |
+| Elite médica urbana | APS no SUS | Elite histórica ≠ modelo de território e equipe multiprofissional. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “O SUS nasce porque o Brasil nunca teve um sistema — só pedaços.”

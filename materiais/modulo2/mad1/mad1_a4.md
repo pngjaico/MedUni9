@@ -1,4 +1,4 @@
-# Inflamação Aguda e Crônica
+﻿# Inflamação Aguda e Crônica
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A inflamação é a resposta coordenada do organismo a qualquer dano tecidual �
 
 O tema é central em MAD1 porque prepara o estudante para entender praticamente qualquer patologia sistêmica. A Uninove adora cobrar os sinais cardinais, as diferenças entre aguda e crônica, os mediadores lipídicos e a composição do exsudato inflamatório.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Sinais Cardinais da Inflamação
 
@@ -170,3 +185,11 @@ Após a inflamação, o tecido busca a cura:
 ### Frase-âncora para não esquecer
 
 > "Aguda é o alarme de incêndio — rápido e barulhento (neutrófilos). Crônica é o combate de guerrilha — lento, persistente e deixa cicatriz (macrófagos e fibrose)."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

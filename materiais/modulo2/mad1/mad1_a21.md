@@ -1,4 +1,4 @@
-# Infecções Virais do SNC e Doenças Exantemáticas
+﻿# Infecções Virais do SNC e Doenças Exantemáticas
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções virais do sistema nervoso central e as doenças exantemáticas (c
 
 A Uninove cobra distinção entre os exantemas (qual vírus, qual aspecto, qual sequência), as complicações neurológicas de sarampo e polio, e as síndromes congênitas (rubéola).
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A21-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Poliovírus (Enterovírus Tipo 1, 2, 3)
 
@@ -177,3 +192,11 @@ Outras manifestações: microcefalia, hepatoesplenomegalia, púrpura ("blueberry
 ### Frase-âncora para não esquecer
 
 > "Koplik antes do sarampo avisa; rubéola no 1º trimestre cega (catarata), ensurdece (surdez) e quebra o coração (PCA). Parvovírus dá tapa na face e crise aplásica no falcêmico. Polio mata o neurônio do corno anterior."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -1,4 +1,4 @@
-# BMF2 — Aula 12: Volumes, Capacidades e Mecânica Pulmonar
+﻿# BMF2 — Aula 12: Volumes, Capacidades e Mecânica Pulmonar
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A espirometria é o exame funcional pulmonar mais solicitado na prática clínic
 
 A lei de Laplace aplicada aos alvéolos — e o papel do surfactante em sua estabilidade — integra histologia e mecânica de forma elegante. A Uninove frequentemente explora esses conceitos em questões mistas que cruzam anatomia, fisiologia e clínica, tornando esta aula um dos pivôs do módulo.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A12-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Volumes Pulmonares
 
@@ -162,3 +177,11 @@ Na **DPOC**, a hiperinsuflação pulmonar (CPT elevada, VR elevado) resulta da p
 ### Frase-âncora para não esquecer
 
 > "O pulmão obstrutivo não consegue expulsar — VEF₁/CVF cai. O pulmão restritivo não consegue encher — CPT cai."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

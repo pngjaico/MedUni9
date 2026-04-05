@@ -9,6 +9,17 @@
 
 A APS exige olhar **além do indivíduo**: família e comunidade são **contexto de risco e proteção**. Ferramentas como **genograma**, **ecomapa** e práticas de **educação popular em saúde** ajudam a mapear **redes**, **conflitos**, **recursos** e **barreiras de cuidado**. Em prova, aparecem como **instrumentos do cuidado integral** e como suporte à **territorialização**.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A9-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## Genograma: mapa de relações e riscos

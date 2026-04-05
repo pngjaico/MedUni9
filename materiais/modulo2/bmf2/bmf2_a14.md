@@ -1,4 +1,4 @@
-# BMF2 — Aula 14: Controle Central da Respiração
+﻿# BMF2 — Aula 14: Controle Central da Respiração
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A respiração é o único processo autonômico que também pode ser controlado 
 
 As questões da Uninove sobre esse tema frequentemente cruzam com farmacologia (opioides, benzodiazepínicos e depressão respiratória), fisiologia do exercício e fisiopatologia de síndromes como a apneia do sono e a síndrome de Ondine. É um tema de alto rendimento para quem domina a lógica dos quimiorreceptores.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A14-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Centro Respiratório Bulbo-Pontino
 
@@ -138,3 +153,11 @@ O conhecimento do controle respiratório é diretamente aplicado na **sedoanalge
 ### Frase-âncora para não esquecer
 
 > "CO₂ é o chefe do controle respiratório — o O₂ só assume quando o CO₂ falha, como no DPOC crônico. Dar O₂ demais para o retentor é como demitir o chefe e não contratar substituto."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

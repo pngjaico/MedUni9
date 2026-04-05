@@ -1,4 +1,4 @@
-# Infecções por Herpesvírus
+﻿# Infecções por Herpesvírus
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A família Herpesviridae inclui 8 vírus humanos (HHV-1 a 8) com uma caracterís
 
 A Uninove cobra principalmente as manifestações clínicas de cada herpesvírus, as diferenças entre infecção primária e reativação, e os tratamentos antivirais (aciclovir, ganciclovir).
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A20-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Herpes Simplex Vírus (HSV-1 e HSV-2)
 
@@ -189,3 +204,11 @@ Tríade clássica: **febre + faringoamigdalite exsudativa + linfadenomegalia cer
 ### Frase-âncora para não esquecer
 
 > "Os herpesvírus nunca vão embora — se instalam e dormem pelos anos, acordando quando o sistema imune fraqueja: herpes labial na gripe, zóster na velhice, CMV retinite na AIDS. Aciclovir para HSV/VZV, ganciclovir para CMV."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

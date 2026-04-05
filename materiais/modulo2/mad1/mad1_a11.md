@@ -1,4 +1,4 @@
-# Estrutura e Metabolismo Bacteriano
+﻿# Estrutura e Metabolismo Bacteriano
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ Entender a estrutura bacteriana é o alicerce para compreender como os antibiót
 
 A Uninove cobra muito a diferença entre Gram-positivas e Gram-negativas (estrutura de parede, coloração, componentes), os mecanismos de resistência bacteriana e o metabolismo dos microrganismos em relação ao oxigênio. Questões de microbiologia frequentemente partem da coloração de Gram para orientar a escolha antibiótica.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A11-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Estrutura Bacteriana
 
@@ -161,3 +176,11 @@ Componente exclusivo de Gram-negativas:
 ### Frase-âncora para não esquecer
 
 > "Gram positiva fica roxa (violeta) porque tem parede grossa — como um muro de tijolos. Gram negativa fica rosa porque tem membrana extra fina com lipídio A escondido — o veneno que causa o choque séptico."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

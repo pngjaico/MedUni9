@@ -1,4 +1,4 @@
-# IND — Aula 8: Sistemas de Informação em Saúde
+﻿# IND — Aula 8: Sistemas de Informação em Saúde
 
 **Disciplina:** Indicadores de Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Sistemas de informação em saúde são cobrados porque sem dado confiável não existe indicador confiável. A Uninove costuma explorar esse ponto ao pedir interpretação crítica de números produzidos por diferentes bases, mostrando que qualidade da decisão depende da qualidade do registro.
 
 Na prática, esses sistemas sustentam vigilância epidemiológica, planejamento de recursos e avaliação de políticas públicas no SUS.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `IND-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Do Registro à Decisão em Saúde
 
@@ -24,6 +37,17 @@ Um sistema de informação transforma eventos de saúde em dados estruturados, c
 Sub-registro, atraso de notificação e campos incompletos distorcem leitura epidemiológica. Por outro lado, quando bem alimentados, os sistemas permitem identificar tendências, monitorar surtos e direcionar ações com maior precisão.
 
 Em prova, o diferencial é reconhecer que sistema de informação não é fim em si: é ferramenta de gestão e de proteção da população.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Sistemas de Informação em Saúde
+
+Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ Em prova, o diferencial é reconhecer que sistema de informação não é fim em
 ### Frase-âncora para não esquecer
 
 > "Sem informação boa, até o melhor indicador aponta para o lugar errado."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Sistemas de Informação em Saúde** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
+| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
+| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Gordis L. *Epidemiologia*. Elsevier.
+- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
+- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.

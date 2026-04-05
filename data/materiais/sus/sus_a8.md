@@ -9,6 +9,17 @@
 
 A **Política Nacional de Atenção Básica (PNAB)** define diretrizes para a **APS** no Brasil, e a **Estratégia Saúde da Família (ESF)** é o modelo mais difundido de equipe multiprofissional adscrita ao território. Em prova, cobram-se **atributos essenciais da APS**, **composição mínima de equipe**, **territorialização** e **coordenação do cuidado**. Para o internato, isso vira **cadastro**, **visitas**, **grupos** e **linhas de cuidado** — o “SUS de verdade” no bairro.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## APS: definição e atributos (atenção máxima)

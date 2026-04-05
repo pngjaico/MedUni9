@@ -1,4 +1,4 @@
-# Ciclo Celular — p53 e Rb1
+﻿# Ciclo Celular — p53 e Rb1
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O ciclo celular é o conjunto de eventos coordenados que permite a uma célula d
 
 A relevância clínica vai além da teoria: inibidores de CDK4/6 como palbociclibe já são usados no câncer de mama; a expressão de p21 induzida por p53 é o mecanismo de ação de vários quimioterápicos; e a perda do retinoblastoma (Rb) é o evento definitório do retinoblastoma hereditário e de outros tumores. Dominar esses mecanismos é essencial para qualquer médico que pretenda entender terapia-alvo.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A10-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Fases do Ciclo Celular
 
@@ -159,3 +174,11 @@ Tumor da retina em crianças (<5 anos). Dois tipos:
 ### Frase-âncora para não esquecer
 
 > "Rb é a REPRESA que segura o E2F: enquanto não for fosforilada por CDK4/6 (com Ciclina D), a água não flui — a célula não entra em S. p53 é o FISCAL que para tudo quando há dano no DNA e ativa p21 para segurar a represa."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

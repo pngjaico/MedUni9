@@ -1,257 +1,91 @@
-# PMH - Aula 6: Regulação Hormonal e Aplicações Clínicas dos Carboidratos
+# PMH — Aula 6: Regulação Hormonal e Aplicações Clínicas dos Carboidratos
 
-**Disciplina:** Processos Metabólicos Humanos
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Processos Metabólicos Humanos  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Regulação Hormonal e Aplicações Clínicas dos Carboidratos é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Carboidratos atravessam **digestão**, **absorção**, **transporte plasmático** e **destinos metabólicos** distintos por hormônio e tecido. Integrar **insulina**, **GLUTs**, **glicemia de jejum**, **curva glicêmica** e **HbA1c** permite interpretar **DM1**, **DM2**, **gestacional** e **hipoglicemias**. Esta aula amarra **bioquímica** ao **raciocínio de propedêutica** e **tratamento**.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A6-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Fundamentos e Raciocínio Aplicado
+## Absorção e transporte
 
-Para dominar Regulação Hormonal e Aplicações Clínicas dos Carboidratos, integre definição, mecanismo e implicação prática. O foco é transformar conhecimento em decisão consistente.
+**Digestão** gera **monossacarídeos**; **SGLT1** (intestino) e **GLUT2** (basolateral) participam da **absorção**. No plasma, **glicose** é monitorada continuamente.
 
-## Construção de Hipótese e Validação
+**Insulina** não é necessária para **captação basal** em **cérebro** e **eritrócitos**; **GLUT4** em **músculo/adiposo** é **insulino-dependente** para acelerar captação pós-prandial.
 
-Use dados objetivos, contraste hipóteses concorrentes e justifique a conduta com lógica causal explícita.
-
-> **Dica de Prova:** A melhor alternativa costuma ser a mais coerente com mecanismo e contexto, não a mais detalhada.
-
-> **Pegadinha:** Informação acessória no enunciado pode desviar do critério central da questão.
-
-### Núcleo de aprofundamento 1: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração conceitual
-Quando a lógica de Regulação Hormonal e Aplicações Clínicas dos Carboidratos fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração conceitual
-Os professores costumam cobrar Regulação Hormonal e Aplicações Clínicas dos Carboidratos com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração conceitual
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Regulação Hormonal e Aplicações Clínicas dos Carboidratos.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração conceitual
-Em Processos Metabólicos Humanos, o valor de Regulação Hormonal e Aplicações Clínicas dos Carboidratos está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Regulação Hormonal e Aplicações Clínicas dos Carboidratos, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração conceitual
-Na prática clínica, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **Cérebro** capta glicose via **GLUT1** constitutivo — **hipoglicemia** neurológica ocorre com limiar típico a memorizar clinicamente (~70 mg/dL com variação).
 
 ---
 
-## Pontos-Chave para Prova
+## Insulina: alvos metabólicos
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Promove **glicólise**, **glicogênese**, **lipogênese** e **síntese proteica**; **inibe** **lipólise** e **gliconeogênese** hepática. Falha relativa (**DM2**) ou absoluta (**DM1**) altera **todas** as saídas.
+
+---
+
+## Glucagon e hormônios contrarreguladores
+
+**Glucagon** eleva **glicemia** por **fígado**. **Cortisol**, **GH** e **catecolaminas** contribuem em **estresse** e **jejum prolongado** — úteis para entender **hiperglicemia** perioperatória e **alba**.
+
+---
+
+## Marcadores clínicos (visão de prova)
+
+- **Glicemia de jejum:** triagem de **DM** (critérios diagnósticos atualizados por diretriz — espírito: **≥126 mg/dL** jejum clássico em adultos, confirmar com repetição/segundo teste conforme protocolo).
+- **TTGO / curva:** tolerância à glicose oral — **gestação** tem limiares específicos.
+- **HbA1c:** média glicêmica **~3 meses** — monitoramento terapêutico.
+
+> **Pegadinha:** HbA1c pode ser **falsamente baixa** em **hemólise** ou **anemia** (menor tempo de vida eritrocitário) — interpretar **contexto**.
+
+---
+
+## Cetoacidose vs estado hiperosmolar (quadro comparativo)
+
+| Aspecto | Cetoacidose (clássica DM1) | Estado hiperosmolar (DM2) |
+|---------|---------------------------|---------------------------|
+| Cetonas | elevadas | ausentes/leves |
+| Osmolaridade | pode elevar | muito elevada |
+| Paciente | mais jovem DM1 | idoso DM2 |
+
+---
+
+## Hipoglicemia: critério clínico
+
+**Whiff (Whipple):** sintomas com **glicemia baixa**, **alívio com glicose**. Causas: **insulina/sulfonilureia**, **insulinoma**, **hipocortisolismo**, **hepatopatia**, **sepse**. **HbA1c** pode ser **baixa** em hipoglicemias **recorrentes** — não diagnostica DM sozinha.
+
+Em **ambulatório**, confirme com **glicemia capilar** no episódio ou **curva** supervisionada quando houver suspeita de **hiperinsulinismo**.
+
+**Neuroglicopenia** pode mascarar-se como **confusão** ou **síncope** em idosos — sempre medir **glicemia** em **alteração súbita** do estado mental.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Regulação Hormonal e Aplicações Clínicas dos Carboidratos aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Insulina** exógena errada (dose, horário) → **hipoglicemia** com **neuroglicopenia**. **Sulfonilureia** em idoso frágil → **hipoglicemia** prolongada. **Infecção** em DM2 → **resistência insulínica aguda** e **descompensação**. O mapa hormonal desta aula é o mapa do **plantão** com **banco de glicemia** e **fluidos**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **GLUT4** depende de **insulina** (músculo/adiposo).
+- **Contrarregulação** explica **hiperglicemia** de estresse.
+- **HbA1c** = média; **glicemia** = instantâneo — funções diferentes.
+- **CAD** vs **HHS** — presença de **cetonas** e perfil de paciente.
 
 ---
 
@@ -261,24 +95,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Insulina** favorece **anabolismo** de carboidratos e **inibe** mobilização hepática.
+- **GLUTs** diferem por tecido — cérebro vs músculo.
+- **Critérios diagnósticos** combinam **jejum**, **TTGO**, **HbA1c** (seguir diretriz vigente no enunciado).
+- **Hipoglicemia** iatrogênica é causa frequente em ambiente hospitalar.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Glicemia | HbA1c | Instantâneo vs média ~90 dias. |
+| DM1 | DM2 | Autoimune/deficiência absoluta vs resistência relativa. |
+| Hipoglicemia | Glicemia normal baixa assintomática | Sintomas + limiar + contexto clínico. |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Carboidrato no sangue é sintoma; insulina é o termostato.”

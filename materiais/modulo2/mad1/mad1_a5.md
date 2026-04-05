@@ -1,4 +1,4 @@
-# Hemograma — Interpretação e Nomenclatura
+﻿# Hemograma — Interpretação e Nomenclatura
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O hemograma é o exame laboratorial mais solicitado na medicina — presente em 
 
 A Uninove cobra muito a interpretação de laudos com desvio à esquerda, as nomenclaturas dos leucócitos e as fórmulas dos índices eritrocitários (VCM, HCM, CHCM). Questões de caso clínico frequentemente pedem ao aluno identificar o padrão (ex: neutrofilia + desvio = infecção bacteriana aguda).
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A5-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Série Vermelha (Eritrograma)
 
@@ -171,3 +186,11 @@ Presença de formas jovens de neutrófilos no sangue periférico:
 ### Frase-âncora para não esquecer
 
 > "No hemograma, leia na ordem: hemoglobina (tem anemia?) → VCM (que tipo?) → leucócitos (que linhagem?) → desvio (bacteriana?) → plaquetas (tem risco de sangrar?)."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

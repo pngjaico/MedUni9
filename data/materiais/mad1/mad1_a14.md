@@ -1,4 +1,4 @@
-# Infecções Bacterianas do Sistema Urinário
+﻿# Infecções Bacterianas do Sistema Urinário
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções do trato urinário (ITUs) são as infecções bacterianas mais co
 
 A Uninove cobra as diferenças entre cistite e pielonefrite, os critérios diagnósticos de bacteriúria assintomática, os fatores de risco e os esquemas antibióticos. Questões sobre gravidez e cateter são recorrentes.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A14-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Anatomia e Fisiopatologia
 
@@ -181,3 +196,11 @@ Fatores que predispõem:
 ### Frase-âncora para não esquecer
 
 > "Cistite fica embaixo (bexiga) — nitrofurantoína resolve. Pielonefrite sobe (rim) — febre e dor no flanco avisam, e nitrofurantoína NÃO sobe com ela. Gestante com bactéria na urina: sempre tratar, mesmo sem sintoma."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

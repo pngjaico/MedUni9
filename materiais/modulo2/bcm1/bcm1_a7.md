@@ -1,4 +1,4 @@
-# BCM1 — Aula 7: Tradução de Proteínas
+﻿# BCM1 — Aula 7: Tradução de Proteínas
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A tradução é o processo pelo qual a informação codificada no mRNA é conver
 
 A Uninove frequentemente cobra perguntando qual subunidade ribossomal é alvo de determinado antibiótico, e qual a diferença entre bacteriostático e bactericida entre essas drogas. Esta aula é de alto rendimento para farmacologia de antibióticos.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## O Código Genético
 
@@ -151,3 +166,11 @@ A **linezolida** é usada em infecções por S. aureus resistente à meticilina 
 ### Frase-âncora para não esquecer
 
 > "30S = entrada do tRNA errada (aminoglicosídeo lê errado, tetraciclina não deixa entrar). 50S = cadeia não cresce (cloranfenicol corta no meio, macrolídeo trava a saída). Matar com aminoglic; parar com o resto."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

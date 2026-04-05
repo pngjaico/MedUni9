@@ -9,6 +9,17 @@
 
 **Bioenergética** estuda como o organismo **capta, transforma e usa energia** química para manter função celular, crescimento e resposta ao estresse. A **termodinâmica** fornece o vocabulário certo: **espontaneidade**, **acoplamento** de reações e **limite** do que a célula pode fazer sem gastar ATP. Em prova, isso aparece em questões sobre **ATP**, **NADH/FADH₂**, **ciclo de Krebs**, **cadeia respiratória** e situações clínicas de **hipóxia**, **acidose lática** e **disfunção mitocondrial**. Dominar o “porquê” energético evita decorar fórmulas soltas sem nexo.
 
+
+### Figura sugerida
+
+**Figura-ID:** `PMH-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## Primeira e segunda lei (visão biológica)

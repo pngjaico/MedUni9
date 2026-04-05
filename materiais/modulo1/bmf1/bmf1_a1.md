@@ -1,272 +1,106 @@
-# BMF1 - Aula 1: Introdução ao Estudo da Anatomia Humana
+# BMF1 — Aula 1: Introdução ao Estudo da Anatomia Humana
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Introdução ao Estudo da Anatomia Humana é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Anatomia é a **linguagem comum** entre exame físico, radiologia, cirurgia e fisioterapia. Dominar **planos**, **termos direcionais** e **regiões topográficas** evita erro em prova (“lesão **lateral** ao menisco” só faz sentido com **lateralidade do paciente** clara) e em plantão (descrever **incisão** ou **coleção** sem ambiguidade). Esta aula fixa o **vocabulário** que as próximas aulas vão usar sem repetir definições.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Organização Topográfica
+## Planos e cortes anatômicos
 
-A leitura de Introdução ao Estudo da Anatomia Humana começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+| Plano | O que divide | Uso típico |
+|-------|----------------|------------|
+| Sagital | Esquerda ↔ direita | RM de joelho “corte sagital medial” |
+| Coronal (frontal) | Anterior ↔ posterior | TC tórax “janela coronal” |
+| Axial (transverso) | Superior ↔ inferior | Sequência TC/RM em “fatias” |
 
-## Camadas, Compartimentos e Relações
+**Posição anatômica de referência:** em pé, palmas para frente, pés ligeiramente separados. Todos os termos (medial, proximal, superficial) assumem essa postura, a menos que o enunciado descreva outra.
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Introdução ao Estudo da Anatomia Humana fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Introdução ao Estudo da Anatomia Humana com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Introdução ao Estudo da Anatomia Humana.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Introdução ao Estudo da Anatomia Humana está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Introdução ao Estudo da Anatomia Humana, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Introdução ao Estudo da Anatomia Humana aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** Em **decúbito ventral**, “anterior” do joelho continua sendo a face **patelar** — confira se a questão fala em **paciente** ou **observador**.
 
 ---
 
-## Pontos-Chave para Prova
+## Termos direcionais essenciais
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Termo | Significado | Exemplo rápido |
+|-------|-------------|----------------|
+| Medial | Em direção à linha média | Maleolar medial da tíbia |
+| Lateral | Afastando-se da linha média | Epicôndilo lateral do úmero |
+| Proximal | Mais próximo do tronco (membros) | Terço proximal do úmero |
+| Distal | Mais longe do tronco | Falanges distais |
+| Superior / inferior | Cabeça ↔ pés | Face superior do crânio |
+| Superficial / profundo | Pele ↔ núcleo | Veia superficial vs artéria profunda |
+| Cranial / caudal | Eixo do embrião (também usado em animais) | Extensão medular |
+
+---
+
+## Movimentos nos principais eixos
+
+| Movimento | Eixo dominante | Articulação exemplo |
+|-----------|----------------|---------------------|
+| Flexão / extensão | Sagital (transverso anteroposterior) | Cotovelo, joelho |
+| Abdução / adução | Frontal | Ombro, quadril |
+| Rotação medial / lateral | Longitudinal | Quadril, coluna |
+| Pronação / supinação | Longitudinal | Radioulnares |
+| Inversão / eversão | Obliquo | Subtalar |
+
+> **Pegadinha:** **Circundução** não é um “movimento solto” — é **combinação** de flexão, abdução, extensão e adução em sequência (ombro).
+
+---
+
+## Regiões e marcos de superfície
+
+Conhecer **nome oficial** da região acelera **descrição** em evolução e **procedimento**:
+
+| Região | Limites úteis (visão prática) | Marco palpável |
+|--------|-------------------------------|----------------|
+| Região deltoide | Ombro lateral | Acrômio, terço médio do deltoide |
+| Fossa poplítea | Posterior do joelho | Pulso poplíteo (com cautela) |
+| Trígono carótico | Pescoço anterior | Pulso carotídeo (evitar massagem bilateral) |
+| Hipocôndrio direito | RCD costal direito | Borda hepática (contexto clínico) |
+
+---
+
+## Anatomia de imagem vs anatomia de peça
+
+| Aspecto | Cadáver / peça | TC / RM |
+|---------|----------------|---------|
+| Cor | Textura, vasos | Densidade/atenuação, sinal |
+| Plano | Dissecção manual | Reformatado multiplanar |
+| Profundidade | Visão direta | Janela e contraste |
+
+Treine associar **corte axial** da TC ao **desenho** do atlas — reduz tempo em plantão ao ler exames.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Introdução ao Estudo da Anatomia Humana aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Ao documentar **abscesso** ou **hematoma**, use **planos** e **regiões**: “coleção **subfascial** na face **medial** da **coxa**, terço **medial**, **10 cm** **distal** à **prega** inguinal”. Isso orienta **drenagem** e **comparece** em auditoria. Em **telemedicina**, pedir foto com **referência** (régua) e **lateralidade** explícita reduz erro.
+
+---
+
+## Pontos-Chave para Prova
+
+- Posição anatômica de referência e **lateralidade do paciente**.
+- Planos **sagital**, **coronal**, **axial** — associação com **imagem**.
+- Termos **medial/lateral**, **proximal/distal**, **superficial/profundo**.
+- Movimentos e **eixos** — flexão não é “qualquer dobra”.
 
 ---
 
@@ -276,24 +110,20 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Definir **plano sagital** e dar **um** exemplo de exame nesse plano.
+- Explicar por que **proximal** no **crânio** não usa o mesmo critério que no **membro** (uso de **rostral/caudal** em neuroanatomia em alguns textos).
+- Relacionar **tipo de movimento** ao **eixo** da articulação.
+- Nomear **três** regiões topográficas do **membro inferior** sem confundir com “lado da perna” informal.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Seção sagital mediana | Sagital paramediano | Mediano passa pelo **meio**; paramediano **lateral** ao meio |
+| Prone / supino | Ventral / dorsal | Prone = decúbito ventral; supino = decúbito dorsal |
+| Rotação | Circundução | Rotação = um eixo; circundução = **combinação** |
+| Proximal | Superior | No membro, proximal ≠ superior da cadeira |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Anatomia começa onde a ambiguidade termina: nomeie plano, lado e referência.”

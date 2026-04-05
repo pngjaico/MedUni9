@@ -1,4 +1,4 @@
-# BCM1 — Aula 8: Controle da Expressão Gênica e Doenças
+﻿# BCM1 — Aula 8: Controle da Expressão Gênica e Doenças
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A desregulação do controle da expressão gênica é o denominador comum do câ
 
 A Uninove frequentemente apresenta casos de câncer com um perfil molecular e solicita identificação do mecanismo desregulado — amplificação de oncogene, inativação de tumor supressor, instabilidade microsatélite ou alteração epigenética. Este conteúdo treina esse raciocínio.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A8-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Proto-Oncogenes e Oncogenes
 
@@ -140,3 +155,11 @@ O painel de reflexo para câncer colorretal recém-diagnosticado inclui obrigato
 ### Frase-âncora para não esquecer
 
 > "Oncogene = acelerador preso; supressor tumoral = freio cortado. O câncer precisa das duas coisas ao mesmo tempo: acelerar e não poder parar."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

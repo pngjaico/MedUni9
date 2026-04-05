@@ -1,4 +1,4 @@
-# DS — Aula 1: Desafios Socioambientais Globais e Saúde
+﻿# DS — Aula 1: Desafios Socioambientais Globais e Saúde
 
 **Disciplina:** Desafios Socioambientais e Saúde
 **Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
@@ -10,6 +10,19 @@
 Essa aula é importante porque rompe a ideia de que saúde depende só de diagnóstico e prescrição. A Uninove costuma cobrar como mudanças ambientais, desigualdade social, insegurança alimentar e crises climáticas alteram o perfil de adoecimento de populações inteiras.
 
 Na prática médica, isso muda tudo: aumenta doenças respiratórias em eventos extremos, afeta doenças infecciosas por alteração de ecossistemas e amplia vulnerabilidades em territórios pobres. Entender desafio socioambiental é ampliar o olhar clínico para o contexto real do paciente.
+
+
+
+
+### Figura sugerida
+
+**Figura-ID:** `DS-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ## Como Ambiente e Sociedade Entram no Processo Saúde-Doença
 
@@ -24,6 +37,17 @@ Saúde coletiva não é cenário de fundo, é parte da fisiopatologia social. Po
 Nem todos sofrem igualmente o mesmo evento ambiental. Populações em maior vulnerabilidade social acumulam exposição e têm menor capacidade de resposta. Por isso, falar em equidade é central: o sistema de saúde precisa direcionar recursos conforme necessidade, e não de forma cega e homogênea.
 
 A leitura correta em prova é integrar risco ambiental, determinantes sociais e capacidade do SUS de resposta territorial.
+
+
+
+
+## Ponte com a Clínica
+
+**Tema:** Desafios Socioambientais Globais e Saúde
+
+**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
+
+> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
 
 ---
 
@@ -65,3 +89,30 @@ A leitura correta em prova é integrar risco ambiental, determinantes sociais e 
 ### Frase-âncora para não esquecer
 
 > "Quando o ambiente adoece, a população adoece junto."
+
+
+---
+
+## Síntese rápida (mapa de prova)
+
+Consolidação do tema **Desafios Socioambientais Globais e Saúde** para revisão objetiva antes da avaliação da Uninove.
+
+| Pergunta típica | Resposta em uma frase |
+|-----------------|-------------------------|
+| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
+| Pegadinha / contraste | Política pública ou ODS relacionado. |
+| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
+
+### Última leitura (2 minutos)
+
+- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
+- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
+- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
+
+---
+
+## Referências
+
+- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
+- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
+- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.

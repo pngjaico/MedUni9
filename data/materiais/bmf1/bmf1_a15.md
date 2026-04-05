@@ -1,272 +1,81 @@
-# BMF1 - Aula 15: Tegumento — Tecido Epitelial Glandular
+# BMF1 — Aula 15: Tegumento — Tecido Epitelial Glandular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Tegumento — Tecido Epitelial Glandular é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+**Glândulas** são epitélios especializados em **secreção**. Separar **exócrinas** (com **ducto** até superfície ou lúmen) de **endócrinas** (sem ducto clássico, produto na **circulação**) organiza farmacologia, anatomia e oncologia: **adenocarcinomas** mimetizam arquitetura glandular — daí a importância de **acinos**, **tubos** e **tipos de secreção**.
 
 ---
 
-## Organização Topográfica
-
-A leitura de Tegumento — Tecido Epitelial Glandular começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
-
-## Camadas, Compartimentos e Relações
-
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Tegumento — Tecido Epitelial Glandular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Tegumento — Tecido Epitelial Glandular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tegumento — Tecido Epitelial Glandular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tegumento — Tecido Epitelial Glandular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tegumento — Tecido Epitelial Glandular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Tegumento — Tecido Epitelial Glandular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## Modos de secreção: merócrina, apócrina e holócrina
+
+| Modo | O que acontece com a célula | Exemplo típico em prova |
+|------|------------------------------|-------------------------|
+| **Merócrina** | Vesícula libera conteúdo; célula permanece | Sudor **écrino** |
+| **Apócrina** | Porção apical do citoplasma na secreção | Glândulas **mamárias** (contexto), sudor apócrino |
+| **Holócrina** | Célula inteira vira secreção | **Sebácea** |
+
+> **Dica de Prova:** **Holócrina** = lembra **sebácea** e renovação contínua do epitélio do folículo.
 
 ---
 
-## Pontos-Chave para Prova
+## Arquitetura: tubular, acinar e mista
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+A **morfologia** descreve como o epitélio se organiza: **tubular** (tubos), **acinar** ou **alveolar** (sacos), **túbulo-acinar** (combinação). **Serosa** (fina, aquosa) versus **mucosa** (viscosa, mucopolissacarídios) aparece em **coloração** e **texto** de microscopia — não só em prova de histologia.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A15-F01`
+
+- **Momento:** após modos de secreção e antes das glândulas salivares.
+- **O que mostrar:** esquema com três modos (merócrina, apócrina, holócrina) lado a lado, com célula “inteira” na holócrina.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** “Modos de secreção exócrina: o destino do citoplasma define o nome.”
+- **Notas (opcional):** Commons “holocrine merocrine apocrine gland diagram”.
+
+---
+
+## Glândulas salivares principais
+
+| Glândula | Predominância | Nota clínica |
+|----------|-----------------|--------------|
+| **Parótida** | Serosa | **Nervo facial (VII)** no trajeto — citar em cirurgia |
+| **Submandibular** | Mista | Ducto **de Wharton** |
+| **Sublingual** | Mucosa | Múltiplos ductos menores |
+
+**Sialolitíase** (cálculo no ducto) dá dor **colica** à **mastigação** e **inchaço** glandular — **anatomia do ducto** explica o quadro.
+
+---
+
+## Mama: arquitetura glandular (visão macro + micro)
+
+**Lóbulos** drenam para **ductos** que convergem à **papila**. Carcinomas **ductais** versus **lobulares** são **patologia** avançada; em BMF1, fixe **lóbulo → ducto → papila** e que **rastreio** imagológico segue **diretrizes** que mudam com idade e risco — não detalhar protocolos aqui.
+
+---
+
+## Endócrinas: interface rápida
+
+**Tireoide**, **paratireoides**, **córtex** e **medula** suprarrenal usam epitélios variados e **capilares** **fenestrados** ou sinusoides conforme o órgão — o conceito é **transporte** rápido do hormônio para o sangue, diferente da **exócrina** com **ducto**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Tegumento — Tecido Epitelial Glandular aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Obstrução** de ducto salivar → **infecção** secundária e **abscesso** — anatomia do **ducto** e **posição** da glândula orientam **imagem** e **drenagem**. **Biópsia** de massa salivar diferencia **benigno** e **maligno** por **padrão** histológico. **Acne** envolve **sebácea holócrina** e **folículo** — tratamento é clínica, mas a **base morfológica** cai em prova de BMF.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Exócrina** = ducto; **endócrina** = sem ducto clássico para o lúmen.
+- **Merócrina / apócrina / holócrina** — associar a **sudor** e **sebácea**.
+- **Parótida serosa**; **sublingual** mais **mucosa**; **submandibular** **mista**.
+- **Acinos** serosos “mais basofílicos” versus mucosos “pálidos” em muitas lâminas (visão geral).
+- **Risco cirúrgico** na parótida e **VII**.
 
 ---
 
@@ -276,24 +85,26 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Definir **glândula exócrina** em uma frase com **ducto**.
+- Nomear o modo de secreção da **glândula sebácea**.
+- Colocar **parótida**, **submandibular** e **sublingual** na tabela **serosa/mucosa/mista**.
+- Explicar por que **endócrina** precisa de **leito** vascular especializado.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Adenoma | Adenocarcinoma | Invasão ao estroma versus limite preservado |
+| Secreção serosa | Mucosa | Aquosa/rica em enzimas versus viscosa |
+| Glândula exócrina | Endócrina | Ducto até superfície vs produto no sangue |
+| Parótida | Sublingual | Serosa predominante vs mucosa predominante |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sem ducto, não é exócrina — é outro capítulo.”
+
+---
+
+## Referências de estudo
+
+Junqueira e Carneiro (glândulas salivares e tipos de secreção); Moore (anatomia da cabeça e pescoço para ductos e nervos).

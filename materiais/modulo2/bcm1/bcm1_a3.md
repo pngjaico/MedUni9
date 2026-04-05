@@ -1,4 +1,4 @@
-# BCM1 — Aula 3: Organização Genômica e Estrutura Gênica
+﻿# BCM1 — Aula 3: Organização Genômica e Estrutura Gênica
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ O genoma humano contém aproximadamente 3,2 bilhões de pares de bases e ~20.000
 
 Na Uninove, essa aula serve de base para as aulas de replicação, transcrição, tradução e genética médica que seguem, tornando o seu domínio imprescindível para o restante do módulo.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A3-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Organização do Genoma Humano
 
@@ -148,3 +163,11 @@ A **Síndrome de Lynch (HNPCC — câncer colorretal hereditário não polipose)
 ### Frase-âncora para não esquecer
 
 > "O genoma é enorme, mas 98% não faz proteína — só 1,5% codifica. O resto regula, silencia e varia. E cada variação pode ser uma doença ou uma resposta diferente ao medicamento."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

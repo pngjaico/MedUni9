@@ -1,272 +1,97 @@
-# BMF1 - Aula 4: Tecido Conjuntivo — Células e Matriz
+# BMF1 — Aula 4: Tecido Conjuntivo — Células e Matriz
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Tecido Conjuntivo — Células e Matriz é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+O tecido conjuntivo é o **esqueleto biológico** dos órgãos: sustenta, nutre epitélios, defende e repara. Em prova, cai a distinção entre **tipos** (frouxo denso regular/irregular, adiposo, cartilagem, osso, sangue como tecido conjuntivo especializado). Na clínica, **fibrose**, **granulação**, **desmoplasia** tumoral e **alterações** da **matriz** explicam evolução de feridas e resposta ao tratamento. A nomenclatura de **Junqueira & Carneiro** e a visão **funcional** de **Ross & Pawlina** costumam orientar o raciocínio de histologia na graduação.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `BMF1-A4-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Organização Topográfica
+## Matriz extracelular: fibras e substância fundamental
 
-A leitura de Tecido Conjuntivo — Células e Matriz começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+A matriz não é “enchimento”: ela define **propriedades mecânicas** e **sinalização**. **Fibroblastos** sintetizam colágeno e glicosaminoglicanos; **macrófagos** remodelam; **mastócitos** liberam mediadores.
 
-## Camadas, Compartimentos e Relações
+| Componente | Função principal | Lembrete de prova |
+|------------|------------------|-------------------|
+| Colágeno tipo I | Tração (pele derme, tendão, osso) | Cicatriz madura |
+| Colágeno tipo III | Reticulina, estroma fetal | Granulação inicial |
+| Elastina | Recoil após distensão | Artérias, pele |
+| GAGs + proteoglicanos | Hidratação, compressão | Cartilagem, sinóvia |
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
-
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Tecido Conjuntivo — Células e Matriz fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Tecido Conjuntivo — Células e Matriz com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Conjuntivo — Células e Matriz.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Conjuntivo — Células e Matriz está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Conjuntivo — Células e Matriz, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Tecido Conjuntivo — Células e Matriz aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+> **Dica de Prova:** **Reticulina** (rede de colágeno III) marca **estroma** de órgãos hematopoéticos — aparece em questões de **biópsia** de medula e fígado.
 
 ---
 
-## Pontos-Chave para Prova
+## Células residentes e migratórias
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Célula | Papel | Quando chama atenção na clínica |
+|--------|-------|--------------------------------|
+| Fibroblasto / miofibroblasto | Síntese de matriz; miofibroblasto contrai ferida | Retração cicatricial |
+| Macrófago | Fagocitose, citocinas | Granulação, fibrose crônica |
+| Mastócito | Histamina, triptase | Anafilaxia, urticária |
+| Plasmócito | Anticorpos | Infiltrado crônico |
+| Adipócito | Reserva energética, isolamento térmico | Obesidade, lipodistrofia |
+
+---
+
+## Classificação prática do conjuntivo (visão de atlas)
+
+| Tipo | Arranjo das fibras | Onde ver |
+|------|---------------------|----------|
+| Frouxo areolar | Fibras finas e dispersas | Lâmina própria sob epitélios |
+| Denso regular | Paralelas (tração unidirecional) | Tendão, ligamento |
+| Denso irregular | Entrelaçadas (multidirecional) | Derme reticular, cápsula de órgãos |
+| Adiposo | Vacúolo lipídico | Subcutâneo, mediastino |
+| Especializados | Cartilagem, osso, sangue | Módulos seguintes |
+
+> **Pegadinha:** “Conjuntivo” inclui **sangue** — células dispersas em **plasma** como matriz fluida (classificação clássica em livros-texto de histologia).
+
+---
+
+### Sequência: da lesão ao reparo (visão integrada)
+
+Ordem típica em **ferida aguda** bem conduzida — use a tabela como **mapa**; o texto ao lado do quadro já é o mesmo conteúdo (acessível em qualquer app).
+
+| Fase | O que predomina | Lembrete de prova |
+|------|-----------------|-------------------|
+| 1. Lesão | Interrupção da barreira | Hemostasia inicia |
+| 2. Inflamação aguda | Neutrófilos → macrófagos | Remoção de detritos |
+| 3. Granulação | Fibroblastos, **colágeno III**, neoangiogênese | Tecido de preenchimento |
+| 4. Remodelação | **Colágeno I**, maior resistência | Semanas a meses |
+| Desfecho | **Cicatriz** madura ou **fibrose** excessiva | Fibrose = excesso de matriz |
+
+Excesso de **deposição** sem remodelação adequada vira **fibrose** patológica (fígado, pulmão, peritônio).
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Tecido Conjuntivo — Células e Matriz aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+**Queloide** e **hipertrofia** cicatricial envolvem **excesso** de colágeno e atividade **fibroblástica** desregulada. **Esclerodermia** altera **microvasculatura** e **matriz** dérmica. Em **câncer**, **estroma reacional** (desmoplasia) pode ser tão denso quanto o **epitélio** tumoral — impacta **biópsia** e **imagem**.
+
+---
+
+## Pontos-Chave para Prova
+
+- Matriz = **fibras** + **substância fundamental** (não é “vazio”).
+- Colágeno I vs III — **contexto** de ferida e órgão.
+- Tipos de conjuntivo **frouxo** vs **denso** — **padrão** de fibras.
+- Sangue como tecido conjuntivo **especializado**.
+- Papéis de **fibroblasto**, **macrófago**, **mastócito**.
 
 ---
 
@@ -276,24 +101,28 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- **Definir** matriz extracelular e dar **dois** componentes.
+- **Por que** o tendão é **denso regular** e a **derme** profunda **denso irregular**.
+- Diferença entre **granulação** e **cicatriz madura** em **termos** de colágeno.
+- Papel do **miofibroblasto** na **contração** da ferida.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Colágeno I | Colágeno III | Força madura vs estroma fetal/ inicial |
+| Fibroblasto | Miofibroblasto | Síntese vs síntese + **contratilidade** |
+| Tecido frouxo | Denso | Densidade de fibras e **função** mecânica |
+| Adipócito branco | Marrom | Uma gota lipídica grande vs multilocular (termogênese) |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Conjuntivo é matriz viva: fibras carregam força, células carregam resposta.”
+
+---
+
+## Referências de apoio (graduação)
+
+- Junqueira L. C., Carneiro J. *Histologia Básica: Texto e Atlas*. (tecido conjuntivo, matriz, cicatrização.)  
+- Ross M. H., Pawlina W. *Histologia: Texto e Atlas em Cores*. (classificação e imagens.)  
+- Moore K. L. et al. *Anatomia Orientada para a Clínica*. (contexto macro de fáscias e compartimentos.)

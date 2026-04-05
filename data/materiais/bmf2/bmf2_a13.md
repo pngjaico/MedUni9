@@ -1,4 +1,4 @@
-# BMF2 — Aula 13: Trocas Gasosas e Relação Ventilação/Perfusão
+﻿# BMF2 — Aula 13: Trocas Gasosas e Relação Ventilação/Perfusão
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A troca gasosa é o objetivo final de todo o aparelho respiratório. Entender co
 
 A Uninove cobra esses tópicos especialmente em contextos de patologias respiratórias (pneumonia, TEP, DPOC, síndrome do desconforto respiratório agudo — SDRA) em que o aluno precisa identificar o mecanismo de hipoxemia. Dominar essa lógica transforma questões complexas em raciocínio direto.
 
+### Figura sugerida
+
+**Figura-ID:** `BMF2-A13-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Difusão de Gases na Membrana Alvéolo-Capilar
 
@@ -155,3 +170,11 @@ A interpretação correta da gasometria arterial começa exatamente por diferenc
 ### Frase-âncora para não esquecer
 
 > "Shunt = sangue que não passa por alvéolo — nenhuma quantidade de oxigênio ajuda. Espaço morto = alvéolo que não é regado — ar desperdiçado sem troca."
+
+---
+
+## Referências
+
+- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
+- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
+- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.

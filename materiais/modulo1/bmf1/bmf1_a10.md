@@ -1,272 +1,72 @@
-# BMF1 - Aula 10: Generalidades do Sistema Muscular
+# BMF1 — Aula 10: Generalidades do Sistema Muscular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Generalidades do Sistema Muscular é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+O músculo esquelético produz movimento, estabiliza articulações, participa da postura e consome energia de forma variável conforme o trabalho. Em prova, nomenclatura de origem e inserção, tipos de fibras (oxidativas versus glicolíticas), unidades motoras e arquitetura do ventre muscular aparecem em blocos de fisiologia, ortopedia e neurologia. Na prática, entender **por que** um músculo pennado gera mais força com menor excursionamento explica padrões de lesão por sobrecarga (tendinopatias) e adaptação ao treino.
 
 ---
 
-## Organização Topográfica
+## Hierarquia: do miócito ao órgão
 
-A leitura de Generalidades do Sistema Muscular começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+As fibras musculares são miócitos multinucleados organizados em **fascículos**, envoltos por **endomísio**, **perimísio** e **epimísio** — continuidade com o tendão na inserção óssea ou com aponeurose quando a inserção é achatada. O tecido conjuntivo intramuscular transmite força e abriga vasos e nervos. A unidade motora (um motoneurônio e as fibras que inerva) é a menor fração recrutável de forma independente; doenças que destroem neurônio ou junção neuromuscular alteram o recrutamento antes de mudar a força máxima isolada.
 
-## Camadas, Compartimentos e Relações
+### Figura sugerida
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+**Figura-ID:** `BMF1-A10-F01`
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Generalidades do Sistema Muscular fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Generalidades do Sistema Muscular com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Generalidades do Sistema Muscular.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Generalidades do Sistema Muscular está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Generalidades do Sistema Muscular, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Generalidades do Sistema Muscular aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após hierarquia estrutural.
+- **O que mostrar:** corte transversal de músculo esquelético com epimísio, fascículos e endomísio; opcional inserção tendínea.
+- **Tipo sugerido:** esquema didático ou ilustração de atlas (Commons).
+- **Legenda (rascunho):** “Organização do músculo esquelético: fascículos e envoltórios conjuntivos.”
 
 ---
 
-## Pontos-Chave para Prova
+## Arquitetura muscular e relação força–excursão
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+Músculos fusiformes (fibras paralelas ao eixo tendíneo) privilegiam **excursão** e velocidade de encurtamento. Músculos pennados (unipennados, bipennados) alinham fibras obliquamente ao tendão central ou aponeurótico — **mais seção transversal de fibra por área**, portanto **mais força** isométrica ou de carga, com **menor** excursionamento útil. Esfíncteres circulares fecham óstios. Em reabilitação, o desenho arquitetural explica por que alguns grupos respondem melhor a treino excêntrico ou isométrico.
+
+---
+
+## Origem, inserção e ação: convenções
+
+Por convenção, a **origem** costuma ser a fixação mais proximal ou medial e a **inserção** a mais distal ou lateral — mas o que importa clinicamente é qual extremidade se move em relação à outra durante a ação. Sinergistas cooperam na mesma ação; antagonistas oponhem-se. Ancônios e pontos de alavanca simplificam o raciocínio de biomecânica básica (braço, antebraço, perna).
+
+---
+
+## Tipos de fibra e adaptação
+
+Fibras tipo I (oxidativas lentas) sustentam trabalho prolongado; tipo II (rápidas) subdividem-se em oxidativas-glicolíticas e glicolíticas puras conforme mitocôndrias e mioglobina. Treino de resistência aumenta capilarização e enzimas oxidativas; treino de força hipertrofia e recrutamento neural. Em patologia, atrofia por imobilização ou desnervação segue lógica de perda de proteína contrátil e não só “falta de uso” estético.
+
+---
+
+## Inervação e circulação (visão integrada)
+
+Cada músculo recebe ramos motores de plexos ou nervos segmentares específicos — erro de mapeamento gera confusão com radiculopatia versus lesão periférica. A circulação é rica e variável; após trauma fechado, compartimento muscular pode elevar pressão (fasciotomia é decisão clínica, não de memorização de prova, mas o aluno deve saber **que** o músculo está em compartimento limitado por fáscia).
+
+> **Dica de Prova:** Quando a questão citar “SO / FOG / FG”, associe lentidão oxidativa a fibras mais resistentes à fadiga e fibras mais rápidas a sprint e pico de força — não decore percentuais por músculo, entenda o eixo.
+
+Treino crônico altera diâmetro de fibra e densidade capilar; desuso reduz síntese proteica contrátil. Em semiologia, testar força por grupo (flexores de punho, dorsiflexores) mapeia raízes e nervos periféricos — o conteúdo desta aula sustenta a lógica de “qual movimento falhou”.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Generalidades do Sistema Muscular aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Roturas musculares completas ocorrem mais em músculos biarticulares em elongamento rápido (isquiotibiais, adutor longo). Tendinopatias frequentemente acompanham sobrecarga excêntrica em músculos pennados de alta demanda (gastrocnêmio, supraespinal). Distrofias e miopatias alteram o padrão histológico — aqui o foco BMF permanece na anatomia funcional do músculo “normal” para interpretar o exame físico.
+
+---
+
+## Pontos-Chave para Prova
+
+- Endomísio, perimísio, epimísio — papel.  
+- Fusiforme versus pennado — trade-off força e excursionamento.  
+- Unidade motora — definição.  
+- Origem e inserção como convenção, não dogma absoluto.  
+- Tipos de fibra — eixo oxidativo versus glicolítico (visão geral).
 
 ---
 
@@ -276,24 +76,27 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Hierarquia miócito → fascículo → ventre muscular.  
+- Por que pennado gera mais força por área.  
+- Diferença conceitual entre sinergista e antagonista.  
+- Que fibras tipo I sustentam esforço prolongado.  
+- Que músculos biarticulares estão mais expostos a lesão por alongamento rápido.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Músculo fusiforme | Pennado | Fibras paralelas ao tendão vs oblíquas ao eixo tendíneo central |
+| Tipo I | Tipo II (rápida) | Resistência / oxidativo vs potência / glicólise relativa |
+| Endomísio | Epimísio | Cerca cada fibra vs envolve o músculo inteiro |
+| Aponeurose | Tendão | Folha achatada vs cordão denso |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “A arquitetura do ventre decide se você ganha força ou amplitude — não dá para maximizar os dois no mesmo desenho.”
+
+---
+
+## Leitura sugerida (graduação)
+
+Junqueira (histologia) para microarquitetura; Moore para inserções e ações por região; Guyton/Costanzo para unidade motora e tipos de fibra em fisiologia — use como referência de estudo, não como lista de decoreba.

@@ -1,272 +1,77 @@
-# BMF1 - Aula 8: Tecido Cartilaginoso
+# BMF1 — Aula 8: Tecido Cartilaginoso
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Tecido Cartilaginoso é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
-
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+A cartilagem é tecido conjuntivo especializado: na maior parte dos casos é **avascular** e **anéural**, trocando metabolitos por **difusão** através da matriz. Isso explica por que espessuras grandes limitam nutrição central e por que o **reparo** após lesão profunda raramente restitui cartilagem hialina madura. Em clínica, osteoartrite, alterações no disco intervertebral e lesões meniscais dialogam com a biologia da cartilagem — e em prova, a banca cobra tipos, matriz e modos de crescimento mais do que decoreba de nomes soltos.
 
 ---
 
-## Organização Topográfica
+## Matriz: fibras, água e células
 
-A leitura de Tecido Cartilaginoso começa por limites, relações e planos. Topografia correta evita erro de localização e melhora interpretação clínica e de imagem.
+Condroblastos ativos e condrócitos maduros (em lacunas) produzem **colágeno** (predominantemente tipo **II** na cartilagem hialina adulta, com isoformas IX e XI no contexto da rede) e **proteoglicanos** de grande porte (ex.: aggrecan) com glicosaminoglicanos sulfatados. A matriz retém água de forma osmoticamente relevante — daí a **metacromasia** e a basofilia variável conforme a técnica. Em lâmina, costuma distinguir-se **território capsular** (perilacunar, mais basófilo) de **território intersticial** entre grupos isogênicos.
 
-## Camadas, Compartimentos e Relações
+### Figura sugerida
 
-Descreva do superficial ao profundo, destacando conexões neurovasculares e implicações para exame físico e procedimento.
+**Figura-ID:** `BMF1-A8-F01`
 
-> **Dica de Prova:** Questões de anatomia cobram relação espacial mais do que definição isolada.
-
-## Correlação com Exame Físico
-
-Conecte marcos anatômicos a inspeção, palpação, percussão e ausculta quando aplicável.
-
-## Variações Anatômicas Relevantes
-
-Reconhecer variações evita classificar normalidade como patologia e reduz erro de conduta.
-
-> **Pegadinha:** Trocar referência superficial por estrutura profunda sem confirmação topográfica é erro recorrente.
-
-| Estrutura | Variação | Impacto clínico | Como diferenciar |
-|-----------|----------|-----------------|------------------|
-| Referência de superfície | Assimetria constitucional | Pode simular lesão | Comparação bilateral sistemática |
-| Trajeto neurovascular | Ramificação precoce | Risco em procedimento | Confirmar marco anatômico |
-| Plano fascial | Espessura variável | Dificulta palpação | Integrar inspeção e palpação |
-| Compartimento | Comunicação atípica | Altera disseminação | Correlacionar com território |
-
-### Núcleo de aprofundamento 1: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Integração anatômica
-Quando a lógica de Tecido Cartilaginoso fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Integração anatômica
-Os professores costumam cobrar Tecido Cartilaginoso com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Integração anatômica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Tecido Cartilaginoso.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Integração anatômica
-Em Bases Morfofuncionais 1 — Locomotor e Digestório, o valor de Tecido Cartilaginoso está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Tecido Cartilaginoso, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Integração anatômica
-Na prática clínica, Tecido Cartilaginoso aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+- **Momento:** após o parágrafo sobre matriz e células.
+- **O que mostrar:** microfotografia ou esquema de cartilagem hialina com condrócitos em lacunas, grupos isogênicos e matriz; opcional comparar com fibrocartilagem (mais fibras colágenas tipo I).
+- **Tipo sugerido:** fotomicrografia HE ou esquema didático (atlas histológico / Commons).
+- **Legenda (rascunho):** “Cartilagem hialina: condrócitos e organização da matriz.”
+- **Notas (opcional):** priorizar imagem com legenda clara para mobile.
 
 ---
 
-## Pontos-Chave para Prova
+## Três tipos principais: onde aparecem e o que fazem
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Tipo | Traço distintivo | Onde ver na prática anatômica |
+|------|------------------|-------------------------------|
+| Hialina | Matriz homogênea “vítrea”; colágeno II | Superfícies articulares, traqueia, placa epifisária em crescimento |
+| Elástica | Fibras elásticas entre colágeno | Orelha externa, epiglote, tubas auditivas |
+| Fibrocartilagem | Colágeno tipo I abundante + matriz cartilaginosa | Meniscos, disco intervertebral (anel), sínfises, zona de inserção tendínea |
+
+A **hialina** amortec e reduz atrito nas articulações sinoviais. A **fibrocartilagem** resiste a **cisalhamento** e tração — por isso anel fibroso e meniscos são alvos mecânicos clássicos.
+
+---
+
+## Crescimento aposicional e intersticial
+
+No crescimento **aposicional** (pericondral), novas camadas são acrescentadas na superfície a partir do pericôndrio. No **intersticial**, condrócitos dentro da matriz proliferam e depositam matriz — mecanismo central na epífise antes da ossificação endocondral. A **placa epifisária** organiza-se em zonas (reserva, proliferação, hipertrofia, calcificação) até a fusão: vulnerável a deficiências nutricionais, trauma e distúrbios endócrinos.
+
+---
+
+## Degeneração, reparo limitado e doenças
+
+> **Dica de Prova:** Em questões de “primeira alteração” na OA, pense em perda de proteoglicanos e alteração da água da matriz antes de estreitamento radiológico evidente — o enunciado costuma puxar pelo mecanismo, não só pelo achado tardio.
+
+Cartilagem madura não se regenera de modo completo após lesão osteocondral: o defeito tende a preencher com tecido fibroso ou fibrocartilagem funcionalmente inferior. Na **osteoartrite**, perda de proteoglicanos, fissuras e remodelação óssea subcondral alteram biomecânica e dor. **Condromalácia patelar** descreve amolecimento cartilaginoso com graduação clínica-imagem. Em vias aéreas, alterações crônicas podem associar-se a remodelação da cartilagem traqueal.
+
+---
+
+## Pericôndrio e transição com osso
+
+O **pericôndrio** fibroso envolve a cartilagem exceto na superfície articular (lubrificada pelo líquido sinovial). A camada condrogênica contribui para crescimento aposicional e para reparo limitado. Na metáfise, a interface entre cartilagem em hipertrofia e ossificação é o cenário fisiológico a contrastar com calcificações patológicas em outros tecidos.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Tecido Cartilaginoso aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Meniscectomia extensa pode redistribuir carga e acelerar degeneração compartimental. Hérnia de disco envolve núcleo pulposo e anel fibroso — fibrocartilagem e mecânica de pressão. Relapsing polychondrite ataca cartilagem hialina e elástica de orelhas e vias aéreas. Na imagem, **RM** avalia cartilagem articular melhor que radiografia precoce; radiografia mostra estreitamento e esclerose subcondral em fases avançadas.
+
+---
+
+## Pontos-Chave para Prova
+
+- Por que a cartilagem é avascular e qual o impacto no reparo.  
+- Hialina vs fibrocartilagem vs elástica (composição e exemplo anatômico).  
+- Condrócito em lacuna; grupo isogênico.  
+- Crescimento aposicional versus intersticial.  
+- Osteoartrite: conceito de degeneração da matriz e do osso subcondral.
 
 ---
 
@@ -276,24 +81,21 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Matriz: colágeno II (contexto hialina) e proteoglicanos de carga osmótica.  
+- Nutrição por difusão e limite de espessura.  
+- Onde entra fibrocartilagem no joelho e na coluna.  
+- Território capsular versus intersticial em lâmina.  
+- Por que defeitos profundos não voltam a ser hialina perfeita.
 
-### Diferenciações que a Uninove adora cobrar
+### Diferenciações que caem em prova
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| Cartilagem hialina | Fibrocartilagem | Predomínio de colágeno II e matriz “vítrea” vs colágeno I + função de ancoragem |
+| Crescimento aposicional | Intersticial | Acréscimo na superfície (pericôndrio) vs dentro da matriz existente |
+| Condroblasto | Condrócito | Célula sintética ativa versus madura na lacuna |
+| Cartilagem elástica | Hialina | Fibras elásticas evidentes versus matriz homogênea |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Sem vaso, a cartilagem lubrifica a articulação — e paga o preço quando rompe.”

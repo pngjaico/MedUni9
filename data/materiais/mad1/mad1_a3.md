@@ -1,4 +1,4 @@
-# Imunidade Adaptativa
+﻿# Imunidade Adaptativa
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ A imunidade adaptativa é o que nos protege de forma duradoura — é ela que ex
 
 No contexto clínico, o mau funcionamento da imunidade adaptativa está na raiz de doenças autoimunes, imunodeficiências graves (como AIDS, onde o HIV destrói CD4+) e rejeição de transplantes. A Uninove cobra muito as diferenças entre linfócitos T CD4+ e CD8+, as classes de anticorpos e o conceito de resposta primária vs. secundária.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A3-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Características Fundamentais
 
@@ -165,3 +180,11 @@ Ocorre no centro germinativo com ajuda de T CD4+ (via CD40L–CD40 + citocinas):
 ### Frase-âncora para não esquecer
 
 > "CD4 é o general que comanda o exército; CD8 é o atirador de elite que executa. Sem o general (CD4), o exército entra em colapso — como no HIV."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

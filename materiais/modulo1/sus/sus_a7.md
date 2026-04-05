@@ -9,6 +9,17 @@
 
 O **Pacto em Defesa do SUS** traduz compromissos para **fortalecer o sistema** frente a **subfinanciamento**, **privatização por omissão** e **terceirização sem regulação**. Em prova, aparece ligado a **financiamento público**, **participação social** e **defesa do caráter universal**. Para o médico, importa porque **fragilidade do SUS** chega ao consultório como **fila, insumos escassos e sobrecarga** — e a solução não é apenas individual, é **política**.
 
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A7-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
 ---
 
 ## Financiamento: o “oxigênio” do sistema

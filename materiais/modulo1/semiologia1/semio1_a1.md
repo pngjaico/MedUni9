@@ -1,274 +1,122 @@
-# SEMIO1 - Aula 1: Fundamentos da Semiologia Musculoesquelética
+# Semiologia 1 — Aula 1: Fundamentos da Semiologia Musculoesquelética
 
-**Disciplina:** Semiologia do Sistema Musculoesquelético
-**Módulo:** 1 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Semiologia do Aparelho Locomotor  
+**Módulo:** 1
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Fundamentos da Semiologia Musculoesquelética é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+A semiologia do aparelho locomotor organiza queixa, exame físico e hipóteses antes de exames complementares. Dor articular, limitação de movimento e fraqueza são queixas frequentes em ambulatório e emergência; inspecionar, palpar, medir amplitude e força reduz pedidos desnecessários de imagem e acelera o raciocínio sobre artrite, entorse, tendinopatias e dor vertebral. Em prova, a banca cobra termos corretos (por exemplo contratura versus bloqueio mecânico) e sequência lógica do exame — não apenas “achado isolado”.
 
-Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO1-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
 
 ---
 
-## Caso Clínico de Abertura
-
-Paciente de meia-idade chega com quadro compatível com Fundamentos da Semiologia Musculoesquelética, início recente e impacto funcional progressivo. O objetivo inicial é localizar o problema antes de fechar etiologia.
-
-## Anamnese Dirigida e Perguntas de Alto Valor
-
-Pergunte início, evolução temporal, lateralidade, sintomas associados, sinais de gravidade e impacto nas atividades de vida diária. Questões específicas com recorte temporal aumentam precisão diagnóstica.
-
-> **Dica de Prova:** Em semiologia, pergunta bem formulada reduz a lista diagnóstica antes mesmo do exame físico.
-
-## Exame Físico em Sequência
-
-A sequência recomendada é inspeção, testes dirigidos por hipótese, comparação bilateral e interpretação com localização topográfica. Sempre registre lateralidade, intensidade e repercussão funcional.
-
-## Síndromes Associadas
-
-Inclua diferenciação entre padrões centrais, periféricos e funcionais, destacando o achado que muda conduta imediata.
-
-> **Pegadinha:** Confundir sinal inespecífico com achado localizatório forte leva a erro diagnóstico clássico.
-
-## Diferencial Diagnóstico
-
-| Hipótese | Dado de anamnese | Achado de exame | Critério de desempate |
-|----------|------------------|-----------------|-----------------------|
-| Lesão central | Início súbito e déficit focal | Sinais de trato longo | Assimetria objetiva persistente |
-| Lesão periférica | Dor em trajeto neural | Déficit territorial | Reflexo reduzido no território |
-| Disfunção funcional | Variabilidade importante | Inconsistência de padrão | Ausência de coerência neuroanatômica |
-| Quadro misto | Evolução subaguda | Múltiplos sistemas | Hierarquizar o sinal de gravidade |
-
-### Núcleo de aprofundamento 1: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 2: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 3: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 4: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 5: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 6: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 7: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 8: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 9: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 10: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 11: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 12: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 13: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 14: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 15: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 16: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 17: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 18: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 19: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 20: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 21: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 22: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 23: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 24: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 25: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 26: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 27: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 28: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 29: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 30: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 31: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 32: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 33: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 34: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 35: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-### Núcleo de aprofundamento 36: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 37: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 38: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-> **Pegadinha:** O erro comum é responder por memória solta, sem nexo causal entre achado, mecanismo e decisão.
-
-### Núcleo de aprofundamento 39: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 40: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 41: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
-
-### Núcleo de aprofundamento 42: Aplicação semiológica
-Quando a lógica de Fundamentos da Semiologia Musculoesquelética fica clara, o estudante deixa de decorar e passa a interpretar.
-Depois, organize o raciocínio em sequência causal: gatilho, mecanismo, manifestação e consequência.
-
-### Núcleo de aprofundamento 43: Aplicação semiológica
-Os professores costumam cobrar Fundamentos da Semiologia Musculoesquelética com enunciado enxuto e pegadinhas de contexto.
-Esse encadeamento reduz erro por impulso e melhora a comunicação da justificativa clínica.
-
-### Núcleo de aprofundamento 44: Aplicação semiológica
-A integração de conceito, dado objetivo e conduta é o centro do domínio de Fundamentos da Semiologia Musculoesquelética.
-Quando duas hipóteses competem, um critério objetivo costuma definir a direção correta.
-
-### Núcleo de aprofundamento 45: Aplicação semiológica
-Em Semiologia do Sistema Musculoesquelético, o valor de Fundamentos da Semiologia Musculoesquelética está em transformar teoria em escolha clínica segura.
-Com essa estrutura, o estudante ganha precisão para prova e para prática supervisionada.
-
-> **Dica de Prova:** Em questões de Fundamentos da Semiologia Musculoesquelética, procure o dado que muda conduta; esse detalhe costuma decidir a alternativa correta.
-
-### Núcleo de aprofundamento 46: Aplicação semiológica
-Na prática clínica, Fundamentos da Semiologia Musculoesquelética aparece em cenários com decisão sob tempo curto.
-O passo inicial é identificar padrão dominante e separar achado nuclear de dado acessório.
+## Padrão temporal da dor: mecânica versus inflamatória
+
+| Padrão | História típica | Pista de prova |
+|--------|-------------------|----------------|
+| Mecânica / degenerativa | Piora com uso ao longo do dia; melhora com repouso | Osteoartrite, sobrecarga |
+| Inflamatória | Rigidez matinal prolongada (>30–60 min), melhora com movimento | Espondiloartrite, artrite reumatoide (contexto) |
+| Neuropática | Queimação, piora noturna, alodinia | Radiculopatia, síndrome do túnel |
+
+> **Dica de Prova:** Rigidez matinal longa pesa mais que “dor ao acordar” vago — peça tempo em minutos.
 
 ---
 
-## Pontos-Chave para Prova
+## Origem aparente da dor: articular, periarticular ou referida
 
-- **Definição operacional:** Interprete o conceito com base em critério objetivo.
-- **Nexo causal:** Relacione gatilho, mecanismo, manifestação e consequência.
-- **Dado discriminador:** Um marcador costuma separar hipóteses concorrentes.
-- **Erro comum:** Lista decorada sem lógica aumenta chance de pegadinha.
-- **Aplicação clínica:** Use o achado para orientar decisão prática.
-- **Integração final:** Contexto + mecanismo + conduta = acerto em prova e prática.
+| Origem | Onde dói “de verdade” | Observação |
+|--------|------------------------|------------|
+| Articular (sinovial) | Linha articular; sinovite com derrame | Punção pode esclarecer |
+| Periarticular | Tendão, bolsa, ponto máximo fora da rótula | Testes isométricos úteis |
+| Referida | Dor profunda mal localizada; pode irradiar | Correlacionar com visceral ou radicular |
+
+---
+
+## Sequência racional do exame (visão geral)
+
+Ordem clássica que evita “teste doloroso antes da inspeção”:
+
+1. Inspeção (postura, simetria, marcha quando possível).  
+2. Palpação (temperatura, edema, pontos dolorosos).  
+3. Amplitude de movimento ativa e depois passiva.  
+4. Testes especiais e força quando já houver contexto.
+
+> **Pegadinha:** Amplitude passiva normal com ativa limitada sugere dor, fraqueza ou inibição — não sempre lesão estrutural intra-articular “grande”.
+
+---
+
+## Amplitude de movimento (ADM): ativa versus passiva
+
+| Situação | Leitura típica |
+|----------|----------------|
+| Limitação ativa e passiva | Processo articular, capsulite, anquilose |
+| Limitação só ativa | Dor, fraqueza, lesão de partes moles sem bloqueio |
+| Passiva maior que ativa | Dor ou falta de cooperação; avaliar esforço |
+
+---
+
+## Força muscular: escala MRC (resumo)
+
+| Grau | Significado clínico breve |
+|------|---------------------------|
+| 5 | Normal contra resistência |
+| 4 | Vence gravidade; resistência parcial |
+| 3 | Apenas contra gravidade |
+| 2 | Movimento sem vencer gravidade |
+| 1 | Contração palpável |
+| 0 | Ausência de contração |
+
+Documentar lado e movimento testado (ex.: flexão de joelho direito).
+
+---
+
+## Sinais inflamatórios locais (mnemônico vulgar)
+
+Calor, rubor, edema, dor à função e dor à palpação sugerem processo inflamatório local; no joelho, derrame pode ser evidente (saco suprapatelar, manobras de líquido).
+
+---
+
+## Terminologia que confunde em prova
+
+| Termo | Uso correto em uma linha |
+|-------|---------------------------|
+| Artralgia | Dor em articulação sem critérios completos de artrite inflamatória |
+| Sinovite | Inflamação da membrana sinovial (clínica ou líquido) |
+| Tendinite / tendinopatia | Dor e irritação na inserção ou corpo tendíneo (termo clínico comum) |
+| Contratura | Perda estrutural de amplitude (fibrose, adaptação) |
+
+---
+
+## Red flags em dor articular e vertebral (lista mínima)
+
+Inclua na anamnese quando houver dor persistente ou padrão atípico: febre, perda ponderal inexplicada, déficit neurológico progressivo, trauma de alta energia, história de neoplasia, uso de drogas IV, imunossupressão grave. O objetivo é não rotular todo paciente como “postura” ou “desgaste” sem triagem.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática real, Fundamentos da Semiologia Musculoesquelética aparece com comorbidades, informação incompleta e necessidade de priorização.
-A ponte com a clínica está em reconhecer padrão dominante, identificar risco e justificar cada passo com critério objetivo.
+Monoartrite aguda com febre exige exclusão de causa séptica e indicação de punção quando o quadro e o protocolo local assim o exigirem. Lombalgia sem sinais de alarme raramente precisa de ressonância na primeira consulta: anamnese e exame bem conduzidos orientam conduta e reduzem exposição desnecessária a exames.
+
+---
+
+## Pontos-Chave para Prova
+
+- Diferenciar padrão mecânico e inflamatório pela história.  
+- ADM ativa versus passiva e o que cada padrão sugere.  
+- Escala MRC para documentar força.  
+- Red flags em dor vertebral e articular.
 
 ---
 
@@ -278,24 +126,19 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 
 ### O que você PRECISA saber
 
-- **Conceito central:** Entenda mecanismo antes de decorar definição.
-- **Critério objetivo:** Use dado mensurável para decidir hipótese.
-- **Sinal de gravidade:** Identifique o achado que muda conduta imediata.
-- **Contexto clínico:** O mesmo achado muda valor conforme o cenário.
-- **Erro evitável:** Associação não é causalidade automática.
-- **Comparação útil:** Diferencie entidades por marcador-chave.
-- **Aplicação prática:** Relacione teoria com decisão de atendimento.
-- **Memória de prova:** Priorize o que decide diagnóstico e conduta.
+- Sequência: inspeção → palpação → ADM → testes específicos conforme hipótese.  
+- Monoartrite aguda: infecção versus cristal versus inflamatório — papel do líquido sinovial.  
+- Rigidez matinal longa: bandeira inflamatória.  
+- Red flags lombares: déficit motor, febre, suspeita de malignidade, trauma grave.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Achado estrutural | Achado funcional | Estrutural localiza; funcional qualifica gravidade. |
-| Associação | Causalidade | Causalidade exige temporalidade e plausibilidade. |
-| Alteração aguda | Alteração crônica | Aguda muda conduta imediata; crônica orienta seguimento. |
-| Conduta empírica | Conduta dirigida | Conduta dirigida usa critério objetivo e reduz erro. |
+|------------|------------|------------------|
+| ADM ativa | ADM passiva | Quem produz o movimento |
+| Tendinopatia | Sinovite | Topo da dor e achados de derrame |
+| Fraqueza real | Limitação por dor | Isometria e observação da marcha |
 
 ### Frase-âncora para não esquecer
 
-> \
+> “Semiologia MSK é mapa antes do raio-X — não atalho para o raio-X.”

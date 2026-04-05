@@ -11,6 +11,19 @@ Pele é um órgão que o aluno acha fácil porque está visível. Justamente por
 
 Na prática clínica, esse assunto pesa muito porque infecção do tegumento é comum e hanseníase ainda é realidade no Brasil. Isso significa que o estudante precisa dominar tanto o quadro agudo de pele quente, dolorosa e inflamada quanto a lesão crônica com alteração de sensibilidade, que aponta para um mecanismo completamente diferente.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A6-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## Quando a pele inflama de forma aguda: erisipela, celulite e abscesso

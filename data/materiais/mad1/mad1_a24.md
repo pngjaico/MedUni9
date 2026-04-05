@@ -1,4 +1,4 @@
-# Infecções Fúngicas Sistêmicas e Superficiais
+﻿# Infecções Fúngicas Sistêmicas e Superficiais
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As micoses são causadas por fungos e se subdividem em superficiais (pele, mucos
 
 A Uninove cobra principalmente as micoses oportunistas do paciente com AIDS (criptococose, candidíase, pneumocistose) e as micoses superficiais (tinhas, candidíase mucocutânea).
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A24-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Micoses Sistêmicas
 
@@ -158,3 +173,11 @@ Tratamento das tinhas:
 ### Frase-âncora para não esquecer
 
 > "CD4 200 → profilaxia para PCP (SMX-TMP). CD4 100 → atenção à criptococose (meningite + tinta da China) e candida esofágica. CD4 50 → CMV retinite (pizza de tomate). Não é só bacteriano que mata o imunossuprimido — o fungo é tão perigoso quanto."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

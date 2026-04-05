@@ -1,4 +1,4 @@
-# ISTs Bacterianas — Treponema, Neisseria e Chlamydia
+﻿# ISTs Bacterianas — Treponema, Neisseria e Chlamydia
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As infecções sexualmente transmissíveis (ISTs) bacterianas são um problema d
 
 A Uninove cobra principalmente as fases da sífilis, o diagnóstico sorológico (FTA-Abs vs. VDRL), a diferença entre gonorreia e clamídia, e os critérios de tratamento de parceiros. Questões de caso clínico com descarga uretral ou úlcera genital são recorrentes.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD1-A12-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Treponema pallidum — Sífilis
 
@@ -164,3 +179,11 @@ A Uninove cobra principalmente as fases da sífilis, o diagnóstico sorológico 
 ### Frase-âncora para não esquecer
 
 > "Sífilis engana: começa sem dor (cancro duro), desaparece sozinha e volta anos depois como goma e aneurisma. Gonorreia grita: corrimento purulento. Clamídia sussurra: quase sem sintoma, mas danifica."
+
+---
+
+## Referências
+
+- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
+- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
+- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

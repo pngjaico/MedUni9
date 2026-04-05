@@ -11,6 +11,19 @@ Imunodeficiência primária é um daqueles temas que parecem raros na teoria, ma
 
 Na Uninove, os professores costumam cobrar exatamente essa lógica: criança com otite e sinusite de repetição, ou paciente com infecção oportunista cedo na vida, e a pergunta não é "qual nome raro da síndrome", mas sim "qual braço da imunidade está comprometido". Quem acerta esse passo inicial acerta diagnóstico, exame e conduta.
 
+### Figura sugerida
+
+**Figura-ID:** `MAD2-A1-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
 
 ## O Jeito Certo de Suspeitar: padrão de infecção vale mais que lista de exames

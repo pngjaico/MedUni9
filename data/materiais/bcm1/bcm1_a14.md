@@ -1,4 +1,4 @@
-# Alterações Cromossômicas Numéricas
+﻿# Alterações Cromossômicas Numéricas
 
 ## Relevância Clínica e Acadêmica
 
@@ -6,7 +6,22 @@ As alterações numéricas dos cromossomos — as aneuploidias — são a causa 
 
 Do ponto de vista acadêmico, a Uninove frequentemente apresenta fotografias de cariótipos e descrições clínicas para que o aluno identifique a síndrome correta. Além disso, o rastreamento pré-natal de aneuploidias com marcadores bioquímicos (β-hCG, AFP, PAPP-A), ultrassonografia e DNA fetal livre (cfDNA/NIPT) exige que o estudante entenda a base cromossômica das doenças.
 
+### Figura sugerida
+
+**Figura-ID:** `BCM1-A14-F01`
+
+- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
+- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
+- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+
+
+
+
 ---
+
+
 
 ## Conceitos Fundamentais
 
@@ -195,3 +210,11 @@ As aneuploidias de cromossomos sexuais são geralmente mais compatíveis com a v
 ### Frase-âncora para não esquecer
 
 > "Down = 21 (3 vias: não-disjunção, translocação, mosaico); Edwards = 18 dedos se fecham; Patau = 13 é caos (holoproencefalia, polidactilia). Turner perde um X e fica com pescoço alado; Klinefelter ganha um X e perde a fertilidade."
+
+---
+
+## Referências
+
+- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
+- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
+- Lodish H et al. *Biologia Celular e Molecular*. Artmed.
