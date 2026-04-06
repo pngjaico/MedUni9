@@ -1,72 +1,91 @@
-# Nós Manuais
-
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
+# Nos Manuais
 
 ## Relevância Clínica e Acadêmica
 
-Nós cirúrgicos devem ser seguros, estáveis e com tensão adequada — nem fracos nem estrangulando tecido. O nó simples é base; nó cirúrgico associa lançamentos para resistência. Em prova, dominam instrumental vs manual, direção dos lançamentos e erros (nó falso, deslizamento).
+No manual bem feito segura sutura; no mal feito solta no pos-operatório.
+A aula de nos manuais e treino de biomecânica aplicada.
+Nao basta decorar nome de no: e preciso entender friccao, alternancia de maos e tensão progressiva.
 
----
+## Principios mecanicos do no cirúrgico
 
-## Nó cirúrgico — técnica
+- no deve travar sem esmagar tecido;
+- os lances precisam ser simetricos e alternados;
+- fio com memoria alta exige mais cuidado de travamento;
+- cauda curta demais aumenta risco de desfazer;
+- no deve ficar lateral a linha de sutura, quando possivel.
 
-Primeiro tempo: instrumental ou manual com simetria de tração. Segundo tempo em direção oposta para aperto uniforme. Achatamento do nó — vários arremates conforme tensão do tecido.
+## Tipos clássicos cobrados no treinamento
 
-### Figura sugerida
+### No quadrado
 
-**Figura-ID:** `TCAR6-A06-F01`
+Base da maioria das suturas.
+Exige alternancia correta para não virar "falso no".
 
-- **Momento:** após nó — passos.
-- O que mostrar: sequência ilustrada de dois lançamentos do nó cirúrgico (1º e 2º).
-- **Tipo sugerido:** desenho passo a passo.
-- **Legenda (rascunho):** Nó cirúrgico: primeiro e segundo lançamentos.
+### No de cirurgiao
 
----
+Primeiro lance com volta adicional para aumentar atrito inicial.
+Util em situação de maior tensão local.
 
-## Erros comuns
+### No instrumental
 
-Nó falso — desfaz com tração; cortar fio curto demais; aperto assimétrico. Luvas úmidas dificultam — secar levemente.
-
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A06-F02`
-
-- **Momento:** após erros — comparação.
-- O que mostrar: lado a lado nó verdadeiro vs falso (diagrama).
-- **Tipo sugerido:** ilustração comparativa.
-- **Legenda (rascunho):** Nó verdadeiro versus nó falso (esquema).
-
----
-
-## Profundidade e visão
-
-Profundidade — porta-agulhas com ângulo adequado; superfície — pinça para eversão de bordas. Tensão — ajuda do auxiliar.
+Executado com porta-agulha quando espaco e reduzido.
+Mantem os mesmos principios mecanicos do no manual.
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A06-F03`
+**Figura-ID:** `TO-A6-F01`
 
-- **Momento:** após instrumentalização.
-- O que mostrar: mãos com porta-agulhas e pinça em posição de sutura (ilustração).
-- **Legenda (rascunho):** Uso do porta-agulhas: ergonomia e tração.
+- **Momento:** após descricao dos nos clássicos.
+- **O que mostrar:** sequência de maos no no quadrado e no de cirurgiao.
+- **Tipo sugerido:** esquema em quadros.
+- **Legenda (rascunho):** Diferenca entre alternancia correta e falso no.
 
----
+## Sequencia de treinamento recomendada
+
+1. Treino sem fio em movimento de maos.
+2. Treino com fio grosso em bancada seca.
+3. Reducao gradual do calibre do fio.
+4. Treino com limite de tempo sem perder qualidade.
+5. Aplicação em simulador de pele.
+
+Critérios de qualidade:
+- no não desliza com tração moderada;
+- tecido não fica estrangulado;
+- distancia entre bordas permanece simetrica;
+- caudas ficam com tamanho seguro.
+
+## Erros mais comuns do iniciante
+
+- repetir mesmo gesto de mao e formar no falso;
+- tracionar de forma brusca e cortar tecido;
+- apertar demais o primeiro lance;
+- "compensar" no ruim com excesso de lances;
+- perder orientação do fio por postura corporal inadequada.
 
 ## Ponte com a Clínica
 
-**Treinar** em **caixa de laparoscopia** ou **bandeja** com tecido simulado antes de paciente.
+Na prática ambulatorial, abertura parcial de ferida e no frequentemente tem relação com no mal travado.
+Em campo profundo, no inseguro pode significar sangramento ou deiscência de plano.
+Treinar no manual reduz dependência de improviso quando o ambiente fica desfavoravel.
+
+### Figura sugerida
+
+**Figura-ID:** `TO-A6-F02`
+
+- **Momento:** após ponte com a clínica.
+- **O que mostrar:** comparação de no estavel versus no que desliza sob tração.
+- **Tipo sugerido:** ilustração comparativa.
+- **Legenda (rascunho):** Estabilidade do no determina segurança da síntese.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Dois lançamentos em planos perpendiculares (conceito).
-- Tensão simétrica.
-- Nó falso vs verdadeiro.
-- Arremates suficientes.
+- No bom e resultado de técnica repetivel, não de força.
+- Alternancia correta de maos evita falso no.
+- Tensão progressiva protege tecido.
+- Numero de lances depende do fio usado.
+- Treino em bancada acelera desempenho em campo real.
 
 ---
 
@@ -74,48 +93,21 @@ Profundidade — porta-agulhas com ângulo adequado; superfície — pinça para
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Nó de cirurgião** — variação regional do nome.
-- **Ligadura** transfixiante em pedículo grosso.
+Nesta aula, pense em estabilidade mecânica do no.
+Se o enunciado citar soltura, deiscência ou sangramento sem causa evidente, suspeite de no mal confeccionado.
+No de cirurgiao e util em tensão maior, mas não substitui técnica correta.
+No instrumental segue os mesmos principios do manual: alternancia, tração controlada e travamento seguro.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Nó simples | cirúrgico | Número de arremates |
-| Manual | mecânico | Dispositivo de sutura |
+|---|---|---|
+| No quadrado | Falso no | quadrado alterna maos; falso repete gesto e desliza |
+| No de cirurgiao | No simples | de cirurgiao aumenta atrito inicial em maior tensão |
+| Tração firme | Tração brusca | firme ajusta borda; brusca lesa tecido |
 
 ### Frase-âncora para não esquecer
 
-> “**Segundo** lançamento **trava** o primeiro.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Prática em **modelo** de borracha ou **pele de porco**.
-
-### Leitura de reforço
-
-- Vídeos de técnica de nó da ACS/ASE
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o único dado que mais muda prognóstico ou conduta neste tema? Qual exame ou escore você pediria primeiro se o enunciado for vago? Onde a banca costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
-
-- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.
-
-- **Checklist:** antes de avaliar, repita mentalmente os passos em ordem — fluência evita falha sob pressão.
+> "No estavel fecha ferida; no instavel abre problema."

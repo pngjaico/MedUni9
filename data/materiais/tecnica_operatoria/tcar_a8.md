@@ -1,73 +1,93 @@
-# Suturas Contínuas
-
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
+# Suturas Continuas
 
 ## Relevância Clínica e Acadêmica
 
-A **sutura contínua** (running) **fecha** rapidamente longas incisões com **tensão** distribuída. **Risco**: se **romper** um ponto, **toda** a linha pode perder estanqueidade. Em prova, dominam **indicações** (fáscia, **algumas** mucosas), **técnica** de **avanço** e **fechamento** com **nó de segurança**.
+Sutura continua e técnica de fechamento rápido e eficiente quando bem indicada.
+Ela distribui tensão de forma linear e reduz tempo operatório em planos longos.
+Por outro lado, exige controle fino de tração porque um erro no inicio pode comprometer toda a linha.
 
----
+## Onde a técnica continua costuma ser usada
 
-## Técnica base
+- fechamento de aponeurose em contextos selecionados;
+- sutura de peritonio em escolas que mantem essa rotina;
+- intradermica continua para resultado estético em pele;
+- fechamento de planos extensos com hemostasia ja revisada.
 
-**Primeiro** ponto **ancorado** com nó; **lançamentos** sequenciais **sem** cortar entre cada avanço; **último** ponto **fechado** com **nó** sobre **alça** ou **duplo** para segurança.
+Nao e ideal quando:
+- ha contaminação significativa do campo;
+- existe grande variação de tensão em trechos curtos;
+- previsão de necessidade de abertura parcial de pontos.
 
-### Figura sugerida
+## Principais variantes
 
-**Figura-ID:** `TCAR6-A08-F01`
+### Chuleio simples
 
-- **Momento:** após contínua — esquema.
-- **O que mostrar:** **diagrama** de **sutura contínua** em **aponeurose** com setas de direção.
-- **Tipo sugerido:** ilustração técnica.
-- **Legenda (rascunho):** Sutura contínua: fechamento de aponeurose.
+Passadas sequênciais com mesmo padrao.
+Boa relação entre rapidez e controle em planos regulares.
 
----
+### Chuleio ancorado
 
-## Hemostasia e visão
+Inclui pontos de ancoragem para reduzir escorregamento em segmentos mais longos.
+Aumenta segurança em alguns fechamentos.
 
-**Pequenos** sangramentos devem ser **controlados** antes — **correr** não hemostasia sozinha. **Tração** uniforme ao **apertar** o fio.
+### Intradermica continua
 
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A08-F02`
-
-- **Momento:** após tensão — distribuição.
-- **O que mostrar:** **gráfico** de **tensão** ao longo da incisão em **contínua** vs **interrompida** (esquema).
-- **Tipo sugerido:** gráfico educacional.
-- **Legenda (rascunho):** Distribuição de tensão: sutura contínua.
-
----
-
-## Variações
-
-**Contínua** sobre **almofadinha** (subcutâneo), **PDS** em fáscia. **Cuidado** em **tecido frágil** — **mordida** excessiva.
+Foco em coaptação dermica com melhor acabamento estético.
+Depende de mordidas simetricas e tensão delicada.
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A08-F03`
+**Figura-ID:** `TO-A8-F01`
 
-- **Momento:** após laparoscopia.
-- **O que mostrar:** **imagem** de **sutura contínua** **laparoscópica** em tela (se disponível) ou esquema de **agulha** curva.
-- **Tipo sugerido:** captura de vídeo cirúrgico esquemática.
-- **Legenda (rascunho):** Sutura contínua em vídeo-laparoscopia (conceito).
+- **Momento:** após explicação das variantes.
+- **O que mostrar:** comparativo visual entre chuleio simples, ancorado e intradermico.
+- **Tipo sugerido:** esquema em tres colunas.
+- **Legenda (rascunho):** Diferencas técnicas entre padroes continuos.
 
----
+## Passo tecnico para evitar falhas
+
+1. Iniciar com no de ancoragem confiavel.
+2. Executar passadas equidistantes e de profundidade semelhante.
+3. Ajustar tensão progressivamente, sem "estrangular" trecho inicial.
+4. Revisar bordas periodicamente durante o avancar da sutura.
+5. Finalizar com no seguro e verificação de hemostasia.
+
+Erros frequentes:
+- hemostasia incompleta antes de fechar;
+- passadas irregulares com degrau de borda;
+- tração excessiva no ultimo terco da linha;
+- no final mal travado.
+
+| Vantagem | Cuidado necessário |
+|---|---|
+| rapidez | controle rigoroso de tensão |
+| menor volume de no | ancoragem inicial/final segura |
+| distribuicao linear de força | passadas regulares para evitar falha localizada |
 
 ## Ponte com a Clínica
 
-**Infecção** em linha de **contínua** — pode exigir **reabrir** segmento maior; **interrompida** localiza melhor.
+Em cirurgia geral, sutura continua bem executada poupa tempo anestesico e reduz manipulação desnecessária.
+Quando mal indicada ou mal tensionada, pode abrir toda a linha de fechamento de uma vez.
+A decisão correta depende de campo, tecido e risco de contaminação.
+
+### Figura sugerida
+
+**Figura-ID:** `TO-A8-F02`
+
+- **Momento:** após ponte com a clínica.
+- **O que mostrar:** linha de sutura continua com tensão adequada versus excessiva.
+- **Tipo sugerido:** ilustração comparativa.
+- **Legenda (rascunho):** Controle de tensão e determinante da segurança no fechamento continuo.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Contínua: rapidez, tensão distribuída.
-- Risco de falha em cadeia.
-- Nó de segurança no final.
-- Aponeurose comum.
+- Sutura continua e eficiente quando o campo esta bem preparado.
+- Hemostasia revisada deve preceder fechamento longo.
+- Regularidade de passadas vale mais que velocidade bruta.
+- Ancoragem inicial e final definem estabilidade da linha.
+- Em contaminação, reavalie se interrompida não e melhor escolha.
 
 ---
 
@@ -75,46 +95,21 @@ A **sutura contínua** (running) **fecha** rapidamente longas incisões com **te
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Locking** — variação com travamento a cada passo.
-- **Barbed** suture — sem nós (conceito).
+Nesta aula, relacione indicação e controle de tensão.
+A sutura continua ganha tempo, mas cobra técnica uniforme do inicio ao fim.
+Quando o enunciado trouxer campo contaminado ou tensão muito irregular, questione a indicação de continuidade longa.
+Em prática, no de ancoragem e passadas simetricas são os pilares do resultado.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Contínua | interrompida | Velocidade vs segurança local |
-| Aponeurose | pele | Camada e fio |
+|---|---|---|
+| Chuleio simples | Chuleio ancorado | ancorado inclui reforcos para reduzir escorregamento |
+| Continua | Interrompida | continua e mais rápida; interrompida permite controle segmentado |
+| Tensão uniforme | Tensão progressivamente excessiva | uniforme preserva borda; excessiva isquemia e deiscência |
 
 ### Frase-âncora para não esquecer
 
-> “**Contínua** fecha **rápido** — mas **rompe** em **cadeia** se errar.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Vídeos de **aponeurose** em **laparotomia** aberta.
-
-### Leitura de reforço
-
-- Atlas de técnicas de fechamento abdominal
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
-
-- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.
+> "Na sutura continua, regularidade e segurança."

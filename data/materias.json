@@ -2268,7 +2268,7 @@
   },
   "tecnica_operatoria": {
     "nome": "Técnica Operatória",
-    "sigla": "TCAR",
+    "sigla": "TO",
     "modulo": 6,
     "ativo": true,
     "icon": "",

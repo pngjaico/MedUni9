@@ -1,73 +1,98 @@
 # Suturas Interrompidas
 
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
-
 ## Relevância Clínica e Acadêmica
 
-A sutura interrompida (pontos separados) oferece segurança por ponto e facilita remoção parcial se complicação. Cada ponto é independente. Em prova, dominam indicações (pele, tração variável), espaçamento e comparação com contínua e em máquina.
+Sutura interrompida oferece controle ponto a ponto.
+E especialmente util quando ha variação de tensão ao longo da ferida ou risco de contaminação local.
+No treinamento de técnica operatória, ela e fundamental porque ensina precisão de entrada, saida e no individual.
 
----
+## Indicações práticas mais comuns
 
-## Técnica
+- fechamento de pele em cirurgia limpa;
+- ferida com risco de infecção, permitindo retirada seletiva de pontos;
+- bordas com tensão irregular;
+- reparo de pequenas lacerações em pronto atendimento.
 
-Entrada e saída simétricas; profundidade igual em ambos os lados; nó após cada ponto. Eversão de bordas na pele com auxílio de pinça.
+Vantagens:
+- ajuste fino da aproximação;
+- se um ponto falha, os demais mantem fechamento;
+- fácilita manejo de drenagem localizada.
+
+Limitações:
+- maior tempo de execucao que sutura continua;
+- maior consumo de fio;
+- necessidade de repeticao técnica em todos os pontos.
+
+## Principais técnicas interrompidas
+
+### Ponto simples
+
+Base de quase todo ensino inicial.
+Bom para aproximação de pele com bordas regulares.
+
+### Donati (vertical)
+
+Util para eversão de borda em pele com tendencia a inversão.
+Controla melhor tensão em algumas feridas.
+
+### Ponto em X
+
+Distribui força em area de tração maior.
+Pode ser util em reforco localizado.
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A07-F01`
+**Figura-ID:** `TO-A7-F01`
 
-- **Momento:** após técnica — esquema.
-- O que mostrar: diagrama de pontos interrompidos em linha com espaçamento uniforme.
-- **Tipo sugerido:** ilustração didática.
-- **Legenda (rascunho):** Sutura interrompida: espaçamento e profundidade.
+- **Momento:** após descricao dos tipos de ponto.
+- **O que mostrar:** comparação visual ponto simples, Donati e ponto em X.
+- **Tipo sugerido:** esquema didatico.
+- **Legenda (rascunho):** Diferentes pontos interrompidos e seus efeitos na borda.
 
----
+## Técnica de execucao que melhora resultado
 
-## Indicações
+1. Entrar e sair em distancias simetricas da borda.
+2. Manter profundidade equivalente nos dois lados.
+3. Fazer eversão suave da pele, sem estrangular.
+4. Espacar pontos de forma regular.
+5. Revisar perfusão da borda após cada no.
 
-Pele de tensão variável, áreas com risco infeccioso (ponto infectado pode ser retirado isoladamente), ensino — feedback por ponto.
+Erros frequentes:
+- mordida muito superficial e soltura precoce;
+- mordida profunda excessiva com deformação;
+- nos sobre a linha da ferida;
+- distancia irregular entre pontos, com degraus.
 
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A07-F02`
-
-- **Momento:** após pele — comparativo.
-- O que mostrar: foto comparando interrompida vs contínua em modelo (lado a lado).
-- **Tipo sugerido:** modelo de treinamento.
-- **Legenda (rascunho):** Comparativo: sutura interrompida e contínua.
-
----
-
-## Desvantagens
-
-Tempo maior que contínua em incisões longas; múltiplos nós — mais material residual se não aparar bem.
-
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A07-F03`
-
-- **Momento:** após remoção.
-- O que mostrar: instrumental para remoção de pontos (tesoura, pinça).
-- **Tipo sugerido:** foto de mesa.
-- **Legenda (rascunho):** Remoção de pontos de sutura cutânea.
-
----
+| Problema tecnico | Consequência clínica |
+|---|---|
+| Excesso de tensão | isquemia de borda, cicatriz ruim |
+| Pouca tensão | deiscência precoce |
+| Espacamento irregular | fechamento inestético e fragil |
 
 ## Ponte com a Clínica
 
-**Criança** — pontos rápidos e seguros; **contagem** de pontos na documentação.
+No pos-operatório de cirurgia geral, sutura interrompida bem indicada fácilita conduta quando surge hiperemia pontual.
+E possivel retirar apenas alguns pontos, mantendo fechamento do restante.
+Essa flexibilidade e uma das principais vantagens em campo potencialmente contaminado.
+
+### Figura sugerida
+
+**Figura-ID:** `TO-A7-F02`
+
+- **Momento:** após ponte com a clínica.
+- **O que mostrar:** retirada seletiva de pontos em area inflamada localizada.
+- **Tipo sugerido:** foto didática.
+- **Legenda (rascunho):** Vantagem do controle segmentado da sutura interrompida.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Interrompida: nós independentes.
-- Espaçamento e tensão uniformes.
-- Indicação: controle local de complicação.
-- Remoção conforme tempo do tecido.
+- Sutura interrompida = controle local e segurança segmentada.
+- Simetria de mordida melhora coaptação.
+- Eversão moderada favorece cicatriz.
+- Tensionar ate aproximar, não ate estrangular.
+- Escolha do tipo de ponto depende da borda e da tensão.
 
 ---
 
@@ -75,47 +100,21 @@ Tempo maior que contínua em incisões longas; múltiplos nós — mais material
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Colcho** — variação interrompida em “U”.
-- **Ponto em X** — cantos.
-- **Tempo** de remoção facial vs corpo.
+Nesta aula, foque no raciocinio "ponto a ponto".
+Sutura interrompida e escolha prática quando se deseja controle individual de cada segmento da ferida.
+Donati e ponto em X aparecem como variações para lidar com tensão e eversão.
+O resultado final depende mais de simetria, tensão e espacamento do que de velocidade.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Interrompida | contínua | Nós, tempo, infecção |
-| Ponto simples | em colcho | Aparência |
+|---|---|---|
+| Ponto simples | Donati | simples para aproximação basica; Donati para melhor eversão |
+| Interrompida | Continua | interrompida oferece controle segmentado e retirada seletiva |
+| Ajuste de tensão | Estrangulamento | ajuste aproxima bordas; estrangulamento compromete perfusão |
 
 ### Frase-âncora para não esquecer
 
-> “**Cada ponto** é um **seguro** — útil quando o risco é local.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Praticar **tempo** de **6–8** pontos em incisão linear simulada.
-
-### Leitura de reforço
-
-- Manual de técnicas de sutura — SBCC
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o único dado que mais muda prognóstico ou conduta neste tema? Qual exame ou escore você pediria primeiro se o enunciado for vago? Onde a banca costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
-
-- Relacione cada tópico a um **erro clássico de iniciante** e a **conduta segura** correspondente.
+> "Ponto bem colocado fecha tecido; ponto mal tensionado abre ferida."

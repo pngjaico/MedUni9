@@ -58,6 +58,7 @@ Os dois arquivos devem ter o mesmo conteúdo.
 - Tom didático, objetivo e clínico.
 - Evitar texto genérico, repetitivo ou "templateado".
 - Evitar blocos extensos: preferir parágrafos curtos e progressão lógica.
+- Padrão de capitalização: usar **Inicial Maiúscula** em Títulos, Frases Iniciais de Parágrafo, Cabeçalhos e Células de Tabelas (quando forem rótulos), além de Nomes Próprios.
 
 ### Hierarquia visual no markdown
 
@@ -272,6 +273,7 @@ Regras:
 - [ ] Se houver **fluxo/sequência**, está em **tabela ou lista** OU Mermaid **curto** (regras acima) **com** redundância segura em texto/tabela.
 - [ ] Não há caracteres corrompidos (ex.: `Ã`, `�`, `???`).
 - [ ] Não há texto genérico repetido de outras aulas.
+- [ ] Capitalização revisada: Inicial Maiúscula em Títulos, Inícios de Frase/Parágrafo, Rótulos de Tabela e Nomes Próprios.
 - [ ] **Figuras (opcional):** se houver `### Figura sugerida`, está no formato canônico e a quantidade faz sentido para o tema (poucas onde bastam; mais só quando o conteúdo pede).
 - [ ] **Mnemônicos:** só se forem **consagrados** e úteis; cada letra explicada; **nenhuma** sigla inventada pela redação.
 - [ ] Conteúdo salvo nos dois caminhos espelhados.

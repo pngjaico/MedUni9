@@ -1,73 +1,101 @@
-# O Ambiente Cirúrgico
-
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
+# O Ambiente Cirurgico
 
 ## Relevância Clínica e Acadêmica
 
-O **centro cirúrgico** organiza **fluxos** de pessoas e materiais para minimizar **contaminação**. **Salas** limpas, **circulação** unidirecional, **pressurização** e **filtros HEPA** em cenários de alta exigência. Em prova, dominam **zonas** (limpa, suja), **vestimenta** e **comportamento** (falar, movimentação).
+Ambiente cirúrgico não e apenas a sala de operação.
+E um sistema com fluxo, zonas de acesso, controle de pessoas, material esteril e comunicação.
+No livro de Goffi, o bloco operatório e tratado como estrutura técnica de segurança, não como detalhe logistico.
+Quem aprende isso cedo trabalha melhor no internato e comete menos erros evitaveis.
 
----
+## Zonas do centro cirúrgico e controle de circulação
 
-## Zonas e fluxo
+Divisão classica:
+- **Area não restrita:** circulação geral, sem traje esteril.
+- **Area semirrestrita:** circulação controlada, gorro e pijama privativo.
+- **Area restrita:** sala cirúrgica e area de escovação, com barreiras maximas.
 
-**Área restrita** — mesa, instrumentador. **Área semirrestrita** — circulante. **Área suja** — recebimento. **Fluxo** paciente: **entrada** → sala → **recuperação**.
+Por que essa divisão importa:
+- reduz trafego desnecessário;
+- diminui particulas em suspensão;
+- protege campo e instrumental;
+- organiza entrada/saida de equipe.
 
-### Figura sugerida
+> **Macete prático:** quanto mais próximo do campo operatório, maior o controle de roupa, movimento e fala.
 
-**Figura-ID:** `TCAR6-A02-F01`
+## Fluxo de material limpo e contaminado
 
-- **Momento:** após zonas — planta baixa.
-- **O que mostrar:** **planta baixa** de centro cirúrgico com **fluxo** de pessoal e material (setas).
-- **Tipo sugerido:** planta arquitetônica esquemática.
-- **Legenda (rascunho):** Centro cirúrgico: fluxo unidirecional de materiais.
+Um erro comum de estudante e cruzar trajeto de caixa esteril com material sujo.
+O fluxo correto deve ser unidirecional e com pontos de descarte definidos.
 
----
-
-## Ar e partículas
-
-**Trocas de ar** por hora; **umidade** e **temperatura** controladas. **Contagem de partículas** em salas de implante (conceito).
-
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A02-F02`
-
-- **Momento:** após ar — HEPA.
-- **O que mostrar:** esquema de **fluxo laminar** em sala de implante.
-- **Tipo sugerido:** diagrama de arquitetura de ar.
-- **Legenda (rascunho):** Fluxo laminar: redução de partículas no campo.
-
----
-
-## Comportamento na sala
-
-**Mínima** conversa; **portas** fechadas; **entrada** reduzida de pessoas durante procedimento. **Cap**, **máscara**, **roupa** adequada.
+| Elemento | Regra prática |
+|---|---|
+| Roupa privativa | uso exclusivo no bloco, sem sair para area externa |
+| Material esteril | armazenado seco, identificado e dentro da validade |
+| Material contaminado | sai por rota própria para expurgo/CME |
+| Caixa cirúrgica | confere integridade antes de abrir em sala |
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A02-F03`
+**Figura-ID:** `TO-A2-F01`
 
-- **Momento:** após EPI — equipe.
-- **O que mostrar:** **foto** de **equipe** com **vestimenta completa** (galo, máscara, óculos).
-- **Tipo sugerido:** ilustração educacional.
-- **Legenda (rascunho):** Vestimenta e EPI no centro cirúrgico.
+- **Momento:** após a tabela de fluxo.
+- **O que mostrar:** planta simples do bloco com setas de fluxo limpo e contaminado.
+- **Tipo sugerido:** esquema didatico.
+- **Legenda (rascunho):** Fluxo correto reduz risco de contaminação cruzada.
 
----
+## Paramentação e comportamento em sala
+
+Paramentação não e so vestir avental.
+Envolve sequência correta de higiene das maos, gorro, mascara, avental e luvas.
+Tambem inclui postura corporal em relação ao campo.
+
+Regras de ouro:
+1. Frente do avental e mangas são area esteril funcional.
+2. Regiao dorsal e abaixo da cintura não são consideradas esterilmente seguras.
+3. Nao se cruza entre dois campos estereis montados.
+4. Em duvida sobre contaminação, considera contaminado e troca.
+
+Erros frequentes do iniciante:
+- ajustar mascara tocando no campo;
+- virar de costas para mesa de instrumental esteril;
+- falar sobre o campo com excesso de movimento.
+
+## Checklist de sala e "time-out" antes da incisão
+
+No centro cirúrgico moderno, o "time-out" e etapa obrigatoria de segurança.
+Objetivo: confirmar paciente, procedimento, lado, material crítico e equipe.
+
+Itens mínimos:
+- identificação do paciente;
+- sitio e lateralidade;
+- profilaxia antibiotica no tempo correto;
+- disponibilidade de sangue e exames quando necessários;
+- contagem inicial de compressas/instrumentais.
+
+### Figura sugerida
+
+**Figura-ID:** `TO-A2-F02`
+
+- **Momento:** após lista do time-out.
+- **O que mostrar:** equipe em pausa de confirmação antes da incisão.
+- **Tipo sugerido:** ilustração de rotina.
+- **Legenda (rascunho):** Time-out bem feito previne erro grave de sala.
 
 ## Ponte com a Clínica
 
-**Obesidade** e **diabetes** aumentam risco infeccioso — **ambiente** não compensa técnica inadequada.
+Quando um evento adverso ocorre em cirurgia, raramente ele nasce de uma unica pessoa.
+Geralmente existe falha de sistema: ambiente desorganizado, fluxo ruim, checklist negligenciado.
+Por isso, discutir ambiente cirúrgico e discutir segurança assistencial real.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Zonas limpas/sujas.
-- Fluxo unidirecional.
-- Comportamento reduz contaminação.
-- Implantes: requisitos de sala.
+- Ambiente organizado reduz complicação e tempo operatório.
+- Zona restrita existe para proteger campo, não para burocracia.
+- Fluxo limpo/contaminado precisa ser respeitado de forma visivel.
+- Paramentação correta inclui comportamento, não apenas vestimenta.
+- Time-out antes da incisão salva paciente e equipe.
 
 ---
 
@@ -75,47 +103,21 @@ O **centro cirúrgico** organiza **fluxos** de pessoas e materiais para minimiza
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **RBAC** — rastreabilidade de materiais.
-- **Limpeza terminal** entre casos.
-- **Contagem de instrumentos** — checklist.
+Nesta aula, pense no centro cirúrgico como sistema de barreiras.
+A divisão por zonas, o fluxo de materiais e o checklist pre-incisão formam uma linha unica de segurança.
+Quando a questao trouxer pressa ou "atalho", a melhor conduta costuma ser manter os passos críticos de organização da sala.
+Em prática, equipe que respeita rotina de ambiente opera melhor e com menos intercorrencia.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Sala limpa | suja | Função e vestimenta |
-| Assepsia | antissepsia | Objetos vs pele |
-| Implante eletivo | urgência | Preparo do ambiente |
+|---|---|---|
+| Area semirrestrita | Area restrita | restrita exige controle máximo por proximidade do campo |
+| Roupa privativa | Paramentação esteril | privativa e barreira de ambiente; esteril e barreira de campo |
+| Checklist burocratico | Time-out efetivo | efetivo muda conduta e corrige erro antes da incisão |
 
 ### Frase-âncora para não esquecer
 
-> “**Porta aberta** = **partículas** — controle o fluxo.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Normas **NR-32** e biossegurança no trabalho em saúde.
-
-### Leitura de reforço
-
-- Manual de centros cirúrgicos — ABRASCIR
-- ANVISA — boas práticas
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+> "Sala organizada e cirurgia mais segura."

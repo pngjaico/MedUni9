@@ -1,78 +1,104 @@
-# A Equipe Cirúrgica e Instrumentação
-
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
+# A Equipe Cirurgica e Instrumentação
 
 ## Relevância Clínica e Acadêmica
 
-A **equipe cirúrgica** inclui **cirurgião**, **auxiliar**, **instrumentador**, **circulante** e **anestesista**. Cada papel reduz **erro** e **contaminação**. **Instrumentação** organizada em **mesas** estéreis e **passagem** de materiais sem quebrar campo. Em prova, dominam **funções**, **comunicação** e **nomenclatura** de instrumentos.
+Cirurgia segura e trabalho de equipe.
+No metodo classico ensinado em técnica operatória, cada membro tem função definida e responsabilidade clara.
+Quando papeis ficam confusos, o ato operatório perde ritmo, aumenta estresse e cresce risco de erro.
+Esta aula e essencial para quem vai entrar em campo como interno e precisa saber "onde ficar" e "o que fazer".
 
----
+## Composição da equipe e atribuições
 
-## Papéis principais
+| Função | Responsabilidade principal |
+|---|---|
+| Cirurgiao principal | estrategia operatória e decisões críticas |
+| Primeiro auxiliar | exposição, tração, hemostasia auxiliar |
+| Segundo auxiliar | apoio de campo e aspiração conforme necessidade |
+| Instrumentador | preparo, organização e passagem de instrumental |
+| Circulante | suprimento externo sem contaminar campo |
+| Anestesia | via aerea, analgesia, estabilidade hemodinamica |
 
-| Função | Responsabilidade |
-|--------|------------------|
-| Cirurgião | decisão técnica, hemostasia, síntese |
-| Instrumentador | passa instrumentos, mantém campo |
-| Circulante | materiais extras, documentação |
-| Anestesista | via aérea, hemodinâmica |
+Pontos práticos para o interno:
+- apresentar-se e confirmar papel antes do inicio;
+- manter campo visual e postura ergonomica;
+- avisar antes de qualquer movimento de troca de posição;
+- nunca "inventar" gesto sem comando do cirurgiao.
 
-### Figura sugerida
+## Posicionamento em sala e ergonomia
 
-**Figura-ID:** `TCAR6-A04-F01`
+Boa ergonomia reduz falha técnica no fim da cirurgia.
+Regras simples:
+1. Ajustar altura da mesa para evitar flexao lombar prolongada.
+2. Posicionar foco de luz antes da incisão.
+3. Manter bracos apoiados quando possivel.
+4. Evitar cruzamento de maos sobre campo sem necessidade.
 
-- **Momento:** após papéis — posições.
-- **O que mostrar:** **desenho** da **mesa operatória** com posições do **cirurgião**, **auxiliar**, **instrumentador** e **anestesista**.
-- **Tipo sugerido:** diagrama de sala.
-- **Legenda (rascunho):** Sala cirúrgica: posicionamento da equipe.
-
----
-
-## Instrumentação básica
-
-**Bisturi**, **pinças** (anatômica, dente de rato), **tesouras** (Metzenbaum, Mayo), **afastadores**, **sucção**. **Passagem** com **punho** ao instrumentador.
-
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A04-F02`
-
-- **Momento:** após instrumentos — caixa básica.
-- **O que mostrar:** **foto** de **caixa de instrumental** básico aberta com legenda.
-- **Tipo sugerido:** instrumentação.
-- **Legenda (rascunho):** Caixa básica: instrumentos fundamentais.
-
----
-
-## Comunicação e segurança
-
-**Confirmação** por nome ao pedir material; **read-back** de medicações. **Marcação** do sítio cirúrgico com paciente acordado quando aplicável.
+Erros frequentes:
+- auxiliar tracionando em direcao errada;
+- aspirador ocultando visão do operador;
+- troca de posição sem comunicar instrumentador.
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A04-F03`
+**Figura-ID:** `TO-A4-F01`
 
-- **Momento:** após WHO checklist.
-- **O que mostrar:** **checklist** cirúrgico impresso com itens marcados.
-- **Tipo sugerido:** formulário WHO.
-- **Legenda (rascunho):** Lista de verificação cirúrgica segura (WHO).
+- **Momento:** após bloco de ergonomia.
+- **O que mostrar:** posicionamento da equipe em cirurgia abdominal aberta.
+- **Tipo sugerido:** esquema de sala.
+- **Legenda (rascunho):** Distribuicao funcional da equipe no campo operatório.
 
----
+## Instrumentação: logica de passagem e antecipação
+
+Instrumentar não e "entregar metal".
+E antecipar o próximo passo tecnico.
+
+Sequencia esperada em procedimento simples:
+- montagem de mesa por tempos operatórios;
+- entrega orientada do bisturi;
+- pinças hemostaticas prontas para sangramento inicial;
+- material de síntese separado por plano de fechamento.
+
+Técnica de passagem segura:
+- entregar instrumento na mao de uso;
+- confirmar verbalmente quando solicitado;
+- recolher e reposicionar sem cruzar campo;
+- manter contagem de agulhas e compressas atualizada.
+
+## Comunicação em alça fechada
+
+Comunicação em alça fechada = ordem, repeticao e confirmação.
+Exemplo:
+- cirurgiao: "Porta-agulha, fio 2-0 absorvivel".
+- instrumentador: "Porta-agulha com 2-0 absorvivel".
+- entrega e confirmação visual.
+
+Isso reduz erro de material e retrabalho.
+Tambem protege paciente em momentos de pressão.
+
+### Figura sugerida
+
+**Figura-ID:** `TO-A4-F02`
+
+- **Momento:** após comunicação em alça fechada.
+- **O que mostrar:** diagrama curto de fluxo de comando e confirmação.
+- **Tipo sugerido:** fluxograma simples.
+- **Legenda (rascunho):** Comunicação estruturada reduz erro intraoperatório.
 
 ## Ponte com a Clínica
 
-**Cansaço** da equipe → **erro** — pausas institucionais quando possível. **Estudante** supervisionado — **não** substitui responsável técnico.
+No relato de eventos adversos em cirurgia, falha de equipe aparece com frequencia: ordem mal compreendida, instrumento errado, contagem incompleta.
+Treinar função e comunicação no módulo de técnica operatória prepara para o internato cirúrgico real.
+Equipe alinhada opera mais rápido e com menos intercorrencia.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Papéis e comunicação.
-- Técnica de passagem de instrumentos.
-- Checklist cirúrgico.
-- Contagem e documentação.
+- Papel de cada membro deve ser claro antes da incisão.
+- Ergonomia correta sustenta qualidade técnica.
+- Instrumentador antecipa, não apenas responde.
+- Comunicação em alça fechada evita erro de material.
+- Contagem e responsabilidade coletiva.
 
 ---
 
@@ -80,44 +106,21 @@ A **equipe cirúrgica** inclui **cirurgião**, **auxiliar**, **instrumentador**,
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Mesa** mayo vs instrumentador.
-- **Campo** estéril — limite.
-- **Gowning** e **gloving**.
+Nesta aula, o foco e reconhecer função, posição e comunicação da equipe.
+Quando a questao trouxer conflito de conduta em sala, a melhor resposta costuma ser a que reorganiza papeis e restabelece fluxo tecnico.
+Instrumentação correta depende de antecipação por tempos operatórios.
+Comunicação clara e parte da técnica cirúrgica, não um complemento administrativo.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Instrumentador | circulante | Campo estéril vs não |
-| Primeiro auxiliar | instrumentador | Função ativa na incisão |
+|---|---|---|
+| Auxiliar ativo | Auxiliar passivo | ativo melhora exposição e hemostasia; passivo atrapalha ritmo |
+| Entrega de instrumento | "passar objeto" | entrega correta orienta empunhadura e próximo gesto |
+| Ordem verbal solta | Alca fechada | alça fechada confirma material e reduz engano |
 
 ### Frase-âncora para não esquecer
 
-> “**Time** organizado **corta** o erro pela metade.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Vídeos de **passagem** de instrumentos em simulação.
-
-### Leitura de reforço
-
-- Manual de instrumental cirúrgico ilustrado
-- WHO — checklist traduzido
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
+> "Em cirurgia, técnica boa depende de equipe bem sincronizada."

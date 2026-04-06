@@ -1,73 +1,107 @@
 # Acessos Venosos
 
-**Disciplina:** Técnica Operatória  
-**Módulo:** 6 | **Referência principal:** *Brunicardi* — princípios de técnica cirúrgica e segurança do paciente | **Tempo de estudo sugerido:** 10–20 min
-
----
-
 ## Relevância Clínica e Acadêmica
 
-**Acesso venoso periférico** é procedimento mais frequiente em hospitais; **central** é necessário para **vasopressores**, **nefrotóxicos**, **TPN** e **monitorização**. Em prova, dominam **técnica** asséptica, **complicações** (extravasamento, **pneumotórax** em subclávia/jugular), **indicações** de cada via e **manutenção** com **fechamento** e **trocas** programadas.
+Obter acesso venoso com segurança e habilidade essencial para todo médico.
+No contexto de técnica operatória, o aluno deve dominar tanto punção periférica quanto principios do acesso central.
+Mais importante que "acertar de primeira" e executar com assepsia, indicação correta e vigilancia de complicações.
 
----
+## Acesso venoso periférico: fundamentos práticos
 
-## Periférico
+Indicações comuns:
+- hidratação e medicação endovenosa;
+- coleta seriada de exames;
+- reposição volêmica em situações selecionadas.
 
-**Calibro** adequado ao fluido/hemocomponente; **fixação** segura; **tempo** de permanência limitado; **extravasamento** de **vasopressor** — necrose tecidual.
+Escolha de veia e calibre:
+- priorizar veias retilineas e palpaveis;
+- ajustar calibre do cateter ao objetivo terapêutico;
+- evitar puncionar articulações quando ha alternativa.
+
+Passo a passo:
+1. Higiene de maos e antissepsia local.
+2. Garroteamento e identificação da veia.
+3. Puncao com angulo adequado.
+4. Avanco do cateter após refluxo.
+5. Fixação estavel e teste de perviedade.
+
+## Acesso venoso central e técnica de Seldinger
+
+Acesso central e indicado quando:
+- necessidade de droga vasoativa;
+- monitorização especifica;
+- acesso periférico inadequado;
+- terapia venosa prolongada em cenarios selecionados.
+
+Etapas gerais da técnica de Seldinger:
+- puncao da veia alvo;
+- introdução do fio-guia;
+- retirada da agulha mantendo guia;
+- dilatação;
+- passagem do cateter;
+- retirada do guia e fixação.
+
+| Etapa crítica | Risco se falhar |
+|---|---|
+| Antissepsia e barreira maxima | infecção relacionada a cateter |
+| Identificação correta de vaso | punção arterial acidental |
+| Controle do fio-guia | perda do guia/complicação mecânica |
+| Confirmação de posição | infusão em local inadequado |
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A10-F01`
+**Figura-ID:** `TO-A10-F01`
 
-- **Momento:** após periférico — punção.
-- **O que mostrar:** **ilustração** de **punção venosa** em **antebraço** com **ângulo** adequado.
-- **Tipo sugerido:** desenho técnico.
-- **Legenda (rascunho):** Punção venosa periférica: ângulo e fixação.
+- **Momento:** após tabela da técnica de Seldinger.
+- **O que mostrar:** sequência agulha -> fio-guia -> dilatador -> cateter.
+- **Tipo sugerido:** esquema procedimental.
+- **Legenda (rascunho):** Etapas basicas do acesso central por Seldinger.
 
----
+## Complicações que o aluno deve reconhecer cedo
 
-## Central
+Complicações mecânicas:
+- hematoma local;
+- punção arterial;
+- pneumotorax (em acessos torácicos);
+- mal posicionamento do cateter.
 
-**Vias**: **jugular interna**, **subclávia**, **femoral** (maior risco infeccioso). **Ultrassom** guia **punção** em muitos serviços. **Confirmação** por **aspiração**, **RX** com linha de **tip** (protocolo) ou **ecocardiografia** intraoperatória em casos.
+Complicações infecciosas:
+- colonização de insercao;
+- bacteremia associada a cateter.
+
+Complicações tromboticas:
+- trombose venosa associada a permanencia prolongada.
+
+Condutas de segurança:
+- usar checklist de insercao;
+- registrar data e local de insercao;
+- reavaliar necessidade de manter o cateter diariamente;
+- remover acesso desnecessário o quanto antes.
 
 ### Figura sugerida
 
-**Figura-ID:** `TCAR6-A10-F02`
+**Figura-ID:** `TO-A10-F02`
 
-- **Momento:** após central — anatomia.
-- **O que mostrar:** **anatomia** de **triângulo** de **punctura** da **jugular interna** com relação carotídea.
-- **Tipo sugerido:** ilustração cervical.
-- **Legenda (rascunho):** Acesso venoso central: triângulo de segurança jugular.
-
----
-
-## Complicações
-
-**Pneumotórax** (subclávia), **arterial** inadvertida, **embolia ar**, **infecção** de corrente sanguínea. **Bundle** de inserção — **checklist** higiene máxima.
-
-### Figura sugerida
-
-**Figura-ID:** `TCAR6-A10-F03`
-
-- **Momento:** após bundle — barreira.
-- **O que mostrar:** **checklist** de **inserção** de CVC com **barreira** completa (ilustração).
-- **Tipo sugerido:** infográfico de segurança paciente.
-- **Legenda (rascunho):** Bundle de inserção de cateter venoso central.
-
----
+- **Momento:** após bloco de complicações.
+- **O que mostrar:** comparativo de posicionamento correto e incorreto da ponta do cateter central.
+- **Tipo sugerido:** esquema radiologico simplificado.
+- **Legenda (rascunho):** Confirmação de posição reduz eventos adversos de infusão.
 
 ## Ponte com a Clínica
 
-**PICC** para **antibiótico** prolongado — **radiografia** de confirmação. **Intraósseo** em **reanimação** — **via** de emergência.
+Em paciente grave, acesso venoso adequado muda desfecho porque viabiliza condutas críticas no tempo certo.
+Por outro lado, acesso mal indicado ou mal cuidado vira fonte de complicação.
+A técnica correta inclui insercao, manutencao e retirada oportuna.
 
 ---
 
-## Pontos-Chave para Prova
+## Pontos-chave para prática diaria
 
-- Periférico: calibre e medicamentos vesicantes.
-- Central: indicações e complicações locais.
-- USG reduz tentativas.
-- Prevenção de infecção relacionada a cateter.
+- Acesso venoso e decisão clínica, não apenas gesto tecnico.
+- Puncao periférica bem feita evita escalonar sem necessidade.
+- Central exige assepsia rigorosa e técnica padronizada.
+- Confirmar posição e parte obrigatoria do procedimento.
+- Quanto mais tempo o cateter fica sem indicação, maior o risco.
 
 ---
 
@@ -75,47 +109,21 @@
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Trocas** de equipo e sistema fechado.
-- **Selo** de **heparina** vs **salina** (protocolo).
-- **Remoção** de CVC e **compressão**.
+Nesta aula, conecte indicação ao tipo de acesso.
+Periferico resolve grande parte das necessidades quando bem executado e bem fixado.
+Central e reservado para cenarios especificos e deve seguir técnica de Seldinger com barreira maxima.
+Raciocinio completo inclui prevenir, reconhecer e tratar complicações de forma precoce.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| CVC | PICC | Inserção, duração |
-| Jugular | femoral | Infecção, conforto |
-| Extravasamento | flebite | Dor, infusão |
+|---|---|---|
+| Acesso periférico | Acesso central | periférico para uso habitual; central para necessidade crítica/especifica |
+| Puncao venosa | Puncao arterial acidental | refluxo, pressão e comportamento do vaso orientam diferenciação |
+| Cateter necessário | Cateter mantido sem indicação | revisar diariamente para reduzir infecção e trombose |
 
 ### Frase-âncora para não esquecer
 
-> “**Via** errada **queima** — **vasopressor** precisa de **central**.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Diretrizes **CDC** e **ANVISA** para prevenção de infecção de corrente sanguínea.
-
-### Leitura de reforço
-
-- Manual de terapia intravenosa
-- Livro de procedimentos de emergência — acesso intraósseo
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o **único** dado que mais muda prognóstico ou conduta neste tema? Qual **exame** ou **escore** você pediria primeiro se o enunciado for vago? Onde a **banca** costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+> "Acesso venoso seguro e o que atende a necessidade com o menor risco."
