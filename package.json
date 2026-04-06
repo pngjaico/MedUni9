@@ -3,7 +3,9 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs"
+    "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs",
+    "stripe:list-prices": "node scripts/list-stripe-prices.mjs",
+    "deploy:functions": "firebase deploy --only functions"
   },
   "devDependencies": {
     "firebase-admin": "^13.0.0"

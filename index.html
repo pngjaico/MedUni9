@@ -640,8 +640,8 @@
 
     /* Quiz question card with better readability */
     .quiz-question-card {
-      background: rgba(255,255,255,0.06);
-      border: 1px solid rgba(255,255,255,0.1);
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.14);
       border-radius: 16px;
       padding: 20px 22px;
       margin-bottom: 20px;
@@ -822,20 +822,20 @@
       }
 
       .markdown-body table {
-        min-width: 240px;
-        font-size: 0.82rem;
+        min-width: 560px;
+        font-size: clamp(0.78rem, 2.1vw, 0.86rem);
       }
 
       .markdown-body th {
-        white-space: normal;
-        font-size: 0.72rem;
-        padding: 7px 8px;
+        white-space: nowrap;
+        font-size: clamp(0.68rem, 1.9vw, 0.78rem);
+        padding: 6px 8px;
         letter-spacing: 0.01em;
       }
 
       .markdown-body td {
         padding: 6px 8px;
-        font-size: 0.84rem;
+        font-size: clamp(0.76rem, 2.05vw, 0.84rem);
       }
 
       .material-doc-inner .flow-box {
@@ -1916,6 +1916,41 @@
 
     .quiz-action-bar {
       margin-top: 16px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .quiz-action-bar .btn-primary {
+      margin-left: 0;
+      flex: 1;
+    }
+
+    .quiz-report-btn {
+      width: auto;
+      min-width: 120px;
+      min-height: 44px;
+      padding: 10px 12px;
+      border-radius: 10px;
+      font-size: 13px;
+      font-weight: 700;
+      background: rgba(239,68,68,0.1);
+      border: 1px solid rgba(239,68,68,0.28);
+      color: #FCA5A5;
+      flex-shrink: 0;
+    }
+
+    .quiz-result-actions {
+      margin-top: 24px;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+
+    .quiz-result-secondary {
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.12);
+      color: var(--text-primary);
     }
 
     .subject-card-empty {
@@ -2063,14 +2098,15 @@
 
     .quiz-option {
       padding: 14px;
-      background: var(--bg-card);
-      border: 2px solid var(--border-card);
+      background: rgba(255,255,255,0.04);
+      border: 2px solid rgba(255,255,255,0.14);
       border-radius: 12px;
       color: var(--text-primary);
       cursor: pointer;
       transition: all 0.2s ease;
       font-size: 14px;
       text-align: left;
+      line-height: 1.45;
     }
 
     .quiz-option:active {
@@ -2084,12 +2120,20 @@
 
     .quiz-option.correct {
       border-color: var(--success);
-      background: rgba(16, 185, 129, 0.1);
+      background: rgba(16, 185, 129, 0.16);
     }
 
     .quiz-option.incorrect {
-      border-color: var(--error);
-      background: rgba(239, 68, 68, 0.1);
+      border-color: rgba(239,68,68,0.48);
+      background: rgba(239,68,68,0.16);
+      color: #FECACA;
+    }
+
+    .quiz-option.incorrect-selected {
+      border-color: #EF4444;
+      background: rgba(239,68,68,0.24);
+      color: #FFFFFF;
+      box-shadow: 0 0 0 1px rgba(239,68,68,0.28) inset;
     }
 
     .quiz-option.crossed-out {
@@ -2672,10 +2716,12 @@
       box-shadow: 0 2px 12px rgba(0,0,0,0.2), inset 0 1px 0 rgba(0,200,150,0.08);
     }
     .markdown-body table {
-      width: 100%;
+      width: max-content;
+      min-width: 100%;
+      max-width: none;
+      table-layout: auto;
       border-collapse: collapse;
       font-size: 0.98rem;
-      min-width: 360px;
     }
     .markdown-body thead tr {
       background: rgba(0, 200, 150, 0.18);
@@ -2689,13 +2735,20 @@
       white-space: nowrap;
       font-size: 0.92rem;
       letter-spacing: 0.02em;
-      text-transform: uppercase;
+      text-transform: none;
+      word-break: normal;
+      overflow-wrap: normal;
+      hyphens: none;
     }
     .markdown-body td {
       padding: 9px 14px;
       border-bottom: 1px solid rgba(255,255,255,0.05);
       color: #CBD5E1;
       line-height: 1.5;
+      white-space: normal;
+      word-break: normal;
+      overflow-wrap: normal;
+      hyphens: none;
     }
     .markdown-body tbody tr:nth-child(even) { background: rgba(255,255,255,0.03); }
     .markdown-body tbody tr:last-child td { border-bottom: none; }
@@ -3192,17 +3245,19 @@
     .tema-start-bar {
       position: sticky;
       bottom: 0;
-      background: rgba(10, 22, 40, 0.96);
+      background: rgba(10, 22, 40, 0.94);
       backdrop-filter: blur(16px);
       -webkit-backdrop-filter: blur(16px);
-      border-top: 1px solid var(--border-subtle);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
       padding: 12px 16px;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      margin: 0 -16px;
+      margin-top: 10px;
       gap: 12px;
       animation: screenFadeIn 0.2s var(--ease-spring);
+      box-shadow: 0 -8px 22px rgba(0, 0, 0, 0.22);
     }
 
     .subject-select-icon {
@@ -3621,6 +3676,49 @@
     .feedback-btn:active { opacity: 0.75; }
     .feedback-btn-primary { background: linear-gradient(135deg,#00C896,#0077B6); color: #fff; }
     .feedback-btn-secondary { background: rgba(255,255,255,0.08); color: var(--text-primary); }
+    .home-destination-actions {
+      display: grid;
+      gap: 10px;
+      margin-top: 2px;
+    }
+    .home-destination-actions .feedback-btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 46px;
+      text-align: center;
+    }
+    .home-destination-actions .feedback-btn.home-destination-option {
+      background: rgba(255,255,255,0.08);
+      color: var(--text-primary);
+      border: 1px solid rgba(255,255,255,0.12);
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+      transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    @media (hover: hover) {
+      .home-destination-actions .feedback-btn.home-destination-option:hover {
+        background: linear-gradient(135deg, rgba(0,200,150,0.70), rgba(0,119,182,0.68));
+        color: #fff;
+        border-color: rgba(0,200,150,0.45);
+        box-shadow: 0 8px 20px rgba(0, 180, 216, 0.22);
+      }
+    }
+    .home-destination-actions .feedback-btn.home-destination-cancel {
+      background: rgba(239,68,68,0.10);
+      color: #FCA5A5;
+      border: 1px solid rgba(239,68,68,0.28);
+      transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    @media (hover: hover) {
+      .home-destination-actions .feedback-btn.home-destination-cancel:hover {
+        background: linear-gradient(135deg, rgba(239,68,68,0.60), rgba(220,38,38,0.65));
+        color: #fff;
+        border-color: rgba(248,113,113,0.45);
+        box-shadow: 0 8px 20px rgba(239, 68, 68, 0.26);
+      }
+    }
     .feedback-success {
       display: flex; flex-direction: column; align-items: center;
       justify-content: center; padding: 32px 0; gap: 12px;
@@ -4164,6 +4262,46 @@
 
       throw new Error('Falha ao enviar feedback');
     }
+
+    const ContentReportModal = ({
+      open,
+      title,
+      subtitle,
+      reason,
+      setReason,
+      sending,
+      errorMsg,
+      onClose,
+      onSubmit,
+    }) => {
+      if (!open) return null;
+      return (
+        <div className="feedback-overlay" onClick={onClose}>
+          <div className="feedback-modal" onClick={(e) => e.stopPropagation()}>
+            <h3>{title}</h3>
+            <p>{subtitle}</p>
+            <label className="feedback-label">Descrição (opcional)</label>
+            <textarea
+              className="feedback-textarea"
+              placeholder="Descreva o problema encontrado..."
+              value={reason}
+              maxLength={500}
+              onChange={(e) => setReason(e.target.value)}
+            />
+            <div className="feedback-char-counter">{500 - reason.length} caracteres restantes</div>
+            {errorMsg && <p style={{ color: 'var(--error)', marginBottom: '10px' }}>{errorMsg}</p>}
+            <div className="feedback-actions">
+              <button className="feedback-btn feedback-btn-secondary" onClick={onClose} disabled={sending}>
+                Cancelar
+              </button>
+              <button className="feedback-btn feedback-btn-primary" onClick={onSubmit} disabled={sending}>
+                {sending ? 'Enviando...' : 'Enviar reporte'}
+              </button>
+            </div>
+          </div>
+        </div>
+      );
+    };
 
     // ===================== Módulos por Matéria (embutido no HTML) =====================
     // Todas as disciplinas lidas de data/materias.json — MODULOS_CONFIG mantido vazio.
@@ -4717,6 +4855,7 @@
       if (plan === 'ciclo_basico' || plan === 'ciclo') return [1, 2, 3, 4];
       if (plan === 'ciclo_clinico') return [5, 6, 7, 8];
       if (plan === 'ciclo_internato') return [9, 10, 11, 12];
+      if (plan === 'mensal') return [1, 2, 3, 4];
 
       if (plan === 'modulo') {
         const inferredModule = parseInt(
@@ -4738,6 +4877,7 @@
     function getAllowedModules(profile) {
       const normalized = normalizeModulesAccess(profile?.modulosAcesso);
       if (normalized) return normalized;
+      if (String(profile?.plano || '').toLowerCase() === 'gratuito') return [1];
       return getAmbassadorModules();
     }
 
@@ -4745,7 +4885,10 @@
       const modulo = parseInt(moduloNum, 10);
       if (!Number.isFinite(modulo) || modulo < 1) return false;
       const normalized = normalizeModulesAccess(profile?.modulosAcesso);
-      if (!normalized) return true;
+      if (!normalized) {
+        if (String(profile?.plano || '').toLowerCase() === 'gratuito') return modulo === 1;
+        return true;
+      }
       return normalized.includes(modulo);
     }
 
@@ -4945,7 +5088,47 @@
       if (!profile || !fbUser?.email) return profile;
       try {
         const grant = await loadEmailAccessGrant(fbUser.email);
-        if (!grant || !isEmailGrantValid(grant)) return profile;
+        if (!grant) {
+          const profileSource = String(profile.accessSource || '').toLowerCase();
+          if (profileSource === 'stripe' || profileSource === 'stripe_refund') {
+            const downgradedNoGrant = normalizeUserProfile({
+              ...profile,
+              plano: 'gratuito',
+              modulosAcesso: [1],
+              maxDispositivos: 2,
+              accessSource: 'stripe_refund',
+              emailGrantId: normalizeAuthEmail(fbUser.email),
+            });
+            try {
+              await saveUserProfile(fbUser, buildSessionTrackedProfile(downgradedNoGrant), { merge: true });
+            } catch {}
+            return downgradedNoGrant;
+          }
+          return profile;
+        }
+        if (!isEmailGrantValid(grant)) {
+          const profileSource = String(profile.accessSource || '').toLowerCase();
+          const grantSource = String(grant.accessSource || '').toLowerCase();
+          const shouldDowngradeFromGrant =
+            profileSource === 'stripe' ||
+            profileSource === 'stripe_refund' ||
+            grantSource === 'stripe' ||
+            grant.ativo === false;
+          if (!shouldDowngradeFromGrant) return profile;
+
+          const downgraded = normalizeUserProfile({
+            ...profile,
+            plano: 'gratuito',
+            modulosAcesso: [1],
+            maxDispositivos: 2,
+            accessSource: 'stripe_refund',
+            emailGrantId: grant.id || normalizeAuthEmail(fbUser.email),
+          });
+          try {
+            await saveUserProfile(fbUser, buildSessionTrackedProfile(downgraded), { merge: true });
+          } catch {}
+          return downgraded;
+        }
 
         const incomingModules = resolveModulesFromCodeEntry(grant);
         const currentModules = normalizeModulesAccess(profile.modulosAcesso);
@@ -4955,20 +5138,21 @@
         const safeIncomingModules = (normalizedPlan === 'modulo' && !incomingModules)
           ? (currentModules || null)
           : incomingModules;
+        const grantSource = grant.accessSource === 'stripe' ? 'stripe' : 'email_invite';
 
         const merged = normalizeUserProfile({
           ...profile,
           plano: incomingPlan,
           modulosAcesso: safeIncomingModules,
           maxDispositivos: incomingMax,
-          accessSource: 'email_invite',
+          accessSource: grantSource,
           emailGrantId: grant.id || normalizeAuthEmail(fbUser.email),
         });
 
         const modulesChanged = JSON.stringify(merged.modulosAcesso || null) !== JSON.stringify(currentModules || null);
         const planChanged = incomingPlan !== (profile.plano || 'basico');
         const maxChanged = incomingMax !== Number(profile.maxDispositivos || 2);
-        const sourceChanged = (profile.accessSource || '') !== 'email_invite';
+        const sourceChanged = (profile.accessSource || '') !== grantSource;
 
         if (!modulesChanged && !planChanged && !maxChanged && !sourceChanged) return profile;
 
@@ -5923,6 +6107,11 @@
       const [studying, setStudying] = useState(false);
       const [sessionDeck, setSessionDeck] = useState([]);
       const [srTick, setSrTick] = useState(0);
+      const [reportFlashOpen, setReportFlashOpen] = useState(false);
+      const [reportFlashReason, setReportFlashReason] = useState('');
+      const [reportFlashSending, setReportFlashSending] = useState(false);
+      const [reportFlashError, setReportFlashError] = useState('');
+      const [reportFlashTarget, setReportFlashTarget] = useState(null);
       const routeAulaAppliedRef = useRef(false);
       const srData = useMemo(() => JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'), [srTick]);
 
@@ -5957,10 +6146,21 @@
         if (routeAulaAppliedRef.current || !initialAulaId || !selectedMateria) return;
         const ok = pureFlashcards.some(f => f.materia === selectedMateria && f.tema === initialAulaId);
         if (ok) {
+          const temaCards = pureFlashcards.filter(
+            (f) => f.materia === selectedMateria && f.tema === initialAulaId && !srData[f.id]?.buried
+          );
+          const due = SM2.getDueCards(temaCards, srData);
+          const autoDeck = due.length > 0 ? due : [...temaCards].sort(() => Math.random() - 0.5);
           setSelectedTemas([initialAulaId]);
+          setSessionDeck(autoDeck);
+          setCurrentIndex(0);
+          setIsFlipped(false);
+          setSessionComplete(false);
+          setSessionStats({ correct: 0, total: 0 });
+          setStudying(true);
           routeAulaAppliedRef.current = true;
         }
-      }, [initialAulaId, selectedMateria, pureFlashcards]);
+      }, [initialAulaId, selectedMateria, pureFlashcards, srData]);
 
       const filtered = useMemo(() => {
         let pool = filteredByMateria.filter((f) => !srData[f.id]?.buried);
@@ -6088,23 +6288,36 @@
       const handleReport = () => {
         const card = currentCard;
         if (!card) return;
-        const reason = prompt('Descreva o erro do flashcard (opcional):', '');
-        if (reason === null) return;
+        setReportFlashTarget(card);
+        setReportFlashReason('');
+        setReportFlashError('');
+        setReportFlashOpen(true);
+      };
 
-        submitContentFeedback({
-          origem: 'flashcards',
-          mensagem: reason?.trim() || 'Erro reportado em flashcard',
-          itemId: card.id,
-          materia: card.materia,
-          tema: card.tema,
-          contexto: {
-            pergunta: card.pergunta,
-            resposta: card.resposta,
-            explicacao: card.explicacao || ''
-          }
-        })
-          .then(() => alert('Reporte enviado para o admin. Obrigado!'))
-          .catch(() => alert('Nao foi possivel enviar agora. Tente novamente em instantes.'));
+      const submitFlashReport = async () => {
+        if (!reportFlashTarget) return;
+        setReportFlashSending(true);
+        setReportFlashError('');
+        try {
+          await submitContentFeedback({
+            origem: 'flashcards',
+            mensagem: reportFlashReason?.trim() || 'Erro reportado em flashcard',
+            itemId: reportFlashTarget.id,
+            materia: reportFlashTarget.materia,
+            tema: reportFlashTarget.tema,
+            contexto: {
+              pergunta: reportFlashTarget.pergunta,
+              resposta: reportFlashTarget.resposta,
+              explicacao: reportFlashTarget.explicacao || ''
+            }
+          });
+          setReportFlashOpen(false);
+          setReportFlashTarget(null);
+        } catch (e) {
+          setReportFlashError('Nao foi possivel enviar agora. Tente novamente em instantes.');
+        } finally {
+          setReportFlashSending(false);
+        }
       };
 
       const resetSession = () => {
@@ -6397,7 +6610,7 @@
                     style={{ background: 'none', border: 'none', color: '#EF4444', cursor: 'pointer', fontSize: '15px', lineHeight: 1, padding: '4px', opacity: 0.72, transition: 'opacity 0.15s' }}
                     onMouseEnter={e => e.currentTarget.style.opacity = '1'}
                     onMouseLeave={e => e.currentTarget.style.opacity = '0.72'}
-                  >⚑</button>
+                  ><IconMessageSquare /></button>
                 </div>
                 {/* Rating buttons — no container box */}
                 <div style={{ display: 'flex', gap: '8px', justifyContent: 'center' }}>
@@ -6449,17 +6662,30 @@
               </div>
             )}
           </div>
+          <ContentReportModal
+            open={reportFlashOpen}
+            title="Reportar flashcard"
+            subtitle="Conte para a equipe o que está inconsistente neste card."
+            reason={reportFlashReason}
+            setReason={setReportFlashReason}
+            sending={reportFlashSending}
+            errorMsg={reportFlashError}
+            onClose={() => { if (!reportFlashSending) { setReportFlashOpen(false); setReportFlashTarget(null); } }}
+            onSubmit={submitFlashReport}
+          />
         </>
       );
     };
 
     // Quiz Screen
     const QuizScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester, initialAulaId }) => {
+      const QUIZ_PROGRESS_KEY = 'meduni9_quiz_progress';
       const [activeQuiz, setActiveQuiz] = useState(null);
       const [activeTemas, setActiveTemas] = useState([]);
       const [showTemaSelector, setShowTemaSelector] = useState(false);
       const [pendingQuiz, setPendingQuiz] = useState(null);
       const [pendingTemas, setPendingTemas] = useState([]);
+      const [pendingTemaSearch, setPendingTemaSearch] = useState('');
       const [currentQuestion, setCurrentQuestion] = useState(0);
       const [selectedOption, setSelectedOption] = useState(null);
       const [crossedOut, setCrossedOut] = useState(new Set());
@@ -6467,9 +6693,16 @@
       const [quizStats, setQuizStats] = useState({ correct: 0, total: 0 });
       const [startTime, setStartTime] = useState(Date.now());
       const [quizComplete, setQuizComplete] = useState(false);
+      const [answerResults, setAnswerResults] = useState({});
+      const [reviewQuestionIds, setReviewQuestionIds] = useState([]);
       const [semesterFilter, setSemesterFilter] = useState(userSemester || null);
       const [searchQuery, setSearchQuery] = useState('');
       const [showCadernoErros, setShowCadernoErros] = useState(false);
+      const [reportQuizOpen, setReportQuizOpen] = useState(false);
+      const [reportQuizReason, setReportQuizReason] = useState('');
+      const [reportQuizSending, setReportQuizSending] = useState(false);
+      const [reportQuizError, setReportQuizError] = useState('');
+      const [reportQuizTarget, setReportQuizTarget] = useState(null);
       const quizRouteAulaAppliedRef = useRef(false);
 
       // Caderno de erros — localStorage
@@ -6486,6 +6719,22 @@
         localStorage.setItem('meduni9_caderno_erros', JSON.stringify(erros));
       };
       const clearErros = () => localStorage.setItem('meduni9_caderno_erros', '[]');
+      const getQuizProgress = () => JSON.parse(localStorage.getItem(QUIZ_PROGRESS_KEY) || '{}');
+      const markQuizAsDone = (questionId, correct) => {
+        if (questionId == null) return;
+        const map = getQuizProgress();
+        const key = String(questionId);
+        const prev = map[key] || { attempts: 0, correctAttempts: 0, done: false };
+        map[key] = {
+          ...prev,
+          done: true,
+          attempts: (prev.attempts || 0) + 1,
+          correctAttempts: (prev.correctAttempts || 0) + (correct ? 1 : 0),
+          lastAnsweredAt: Date.now(),
+          lastResult: correct ? 'correct' : 'wrong'
+        };
+        localStorage.setItem(QUIZ_PROGRESS_KEY, JSON.stringify(map));
+      };
 
       const quizQuestions = useMemo(() => {
         return flashcards.filter(f => f.tipo === 'quiz' && f.opcoes && f.opcoes.length > 0);
@@ -6499,6 +6748,20 @@
         });
         return grouped;
       }, [quizQuestions, materias]);
+
+      const materiasById = useMemo(() => {
+        const map = {};
+        (materias || []).forEach((m) => { map[m.id] = m; });
+        return map;
+      }, [materias]);
+
+      const getTemaDisplayName = (materiaId, temaId) => {
+        if (!temaId) return '';
+        const materia = materiasById[materiaId];
+        const aulas = Array.isArray(materia?.aulas) ? materia.aulas : [];
+        const aula = aulas.find(a => a.id === temaId);
+        return aula?.tema || temaId;
+      };
 
       const filteredQuizzes = useMemo(() => {
         let result = { ...quizzes };
@@ -6554,11 +6817,14 @@
       const handleQuizStart = (materiaId, temasArray) => {
         setActiveQuiz(materiaId);
         setActiveTemas(temasArray || []);
+        setReviewQuestionIds([]);
+        setPendingTemaSearch('');
         setCurrentQuestion(0);
         setSelectedOption(null);
         setCrossedOut(new Set());
         setAnswered(false);
         setQuizStats({ correct: 0, total: 0 });
+        setAnswerResults({});
         setStartTime(Date.now());
         setShowTemaSelector(false);
         setPendingQuiz(null);
@@ -6577,6 +6843,7 @@
         if (temas.length > 1) {
           setPendingQuiz(materiaId);
           setPendingTemas([]);
+          setPendingTemaSearch('');
           setShowTemaSelector(true);
         } else {
           handleQuizStart(materiaId, []);
@@ -6616,6 +6883,10 @@
       };
 
       const getActiveCards = () => {
+        if (reviewQuestionIds.length > 0) {
+          const byId = new Map(quizQuestions.map(q => [q.id, q]));
+          return reviewQuestionIds.map(id => byId.get(id)).filter(Boolean);
+        }
         if (showCadernoErros) {
           const erros = getErros();
           return quizQuestions.filter(q => erros.includes(q.id));
@@ -6628,10 +6899,56 @@
           : quiz.cards;
       };
 
+      const parseQuizExplanation = (card) => {
+        const options = card?.opcoes || [];
+        const letters = options.map((_, idx) => String.fromCharCode(65 + idx));
+
+        const parseOptionMapFromText = (text) => {
+          if (!text || typeof text !== 'string') return {};
+          const map = {};
+          for (const letter of letters) {
+            const regex = new RegExp(`${letter}\\)\\s*(?:CORRETA\\.?|INCORRETA\\.?)?\\s*([\\s\\S]*?)(?=\\n[A-D]\\)|$)`, 'i');
+            const match = text.match(regex);
+            if (match && match[1]) map[letter] = match[1].trim();
+          }
+          return map;
+        };
+
+        const explicacoesOpcoes = Array.isArray(card?.explicacoes_opcoes)
+          ? card.explicacoes_opcoes.reduce((acc, txt, idx) => {
+              const letter = String.fromCharCode(65 + idx);
+              if (txt) acc[letter] = String(txt).trim();
+              return acc;
+            }, {})
+          : (card?.explicacoes_opcoes || {});
+
+        const parsedFromText = parseOptionMapFromText(card?.explicacao || '');
+        const optionMap = { ...parsedFromText, ...explicacoesOpcoes };
+
+        const resumoMatch = typeof card?.explicacao === 'string'
+          ? card.explicacao.match(/Resumo:\s*([\s\S]*?)(?=\n[A-D]\)|$)/i)
+          : null;
+        const generalRaw = card?.explicacao_geral || (resumoMatch ? resumoMatch[1].trim() : (card?.explicacao || ''));
+        const general = String(generalRaw || '').trim();
+
+        const optionExplanations = letters.map((letter, idx) => {
+          const explanation = optionMap[letter];
+          if (explanation) return explanation;
+          if (idx === card?.correta) return 'Alternativa correta para este enunciado.';
+          return 'Alternativa incorreta neste contexto.';
+        });
+
+        return { general, optionExplanations };
+      };
+
       const handleAnswer = () => {
         const activeCards = getActiveCards();
         const card = activeCards[currentQuestion];
         const correct = selectedOption === card.correta;
+        markQuizAsDone(card?.id, correct);
+        if (card?.id != null) {
+          setAnswerResults(prev => ({ ...prev, [card.id]: correct }));
+        }
 
         if (correct) {
           setQuizStats(prev => ({ ...prev, correct: prev.correct + 1 }));
@@ -6669,24 +6986,37 @@
         const activeCards = getActiveCards();
         const card = activeCards[currentQuestion];
         if (!card) return;
-        const reason = prompt('Descreva o erro da questão (opcional):', '');
-        if (reason === null) return;
+        setReportQuizTarget(card);
+        setReportQuizReason('');
+        setReportQuizError('');
+        setReportQuizOpen(true);
+      };
 
-        submitContentFeedback({
-          origem: 'questoes',
-          mensagem: reason?.trim() || 'Erro reportado em questão',
-          itemId: card.id,
-          materia: card.materia || activeQuiz,
-          tema: card.tema,
-          contexto: {
-            pergunta: card.pergunta,
-            opcoes: card.opcoes || [],
-            correta: card.correta,
-            explicacao: card.explicacao || ''
-          }
-        })
-          .then(() => alert('Reporte enviado para o admin. Obrigado!'))
-          .catch(() => alert('Nao foi possivel enviar agora. Tente novamente em instantes.'));
+      const submitQuizReport = async () => {
+        if (!reportQuizTarget) return;
+        setReportQuizSending(true);
+        setReportQuizError('');
+        try {
+          await submitContentFeedback({
+            origem: 'questoes',
+            mensagem: reportQuizReason?.trim() || 'Erro reportado em questão',
+            itemId: reportQuizTarget.id,
+            materia: reportQuizTarget.materia || activeQuiz,
+            tema: reportQuizTarget.tema,
+            contexto: {
+              pergunta: reportQuizTarget.pergunta,
+              opcoes: reportQuizTarget.opcoes || [],
+              correta: reportQuizTarget.correta,
+              explicacao: reportQuizTarget.explicacao || ''
+            }
+          });
+          setReportQuizOpen(false);
+          setReportQuizTarget(null);
+        } catch (e) {
+          setReportQuizError('Nao foi possivel enviar agora. Tente novamente em instantes.');
+        } finally {
+          setReportQuizSending(false);
+        }
       };
 
       const handleRestartQuiz = () => {
@@ -6696,6 +7026,8 @@
           setCrossedOut(new Set());
           setAnswered(false);
           setQuizStats({ correct: 0, total: 0 });
+          setAnswerResults({});
+          setReviewQuestionIds([]);
           setStartTime(Date.now());
           setQuizComplete(false);
         } else {
@@ -6708,36 +7040,118 @@
         onSelectMateria(null);
         setShowCadernoErros(true);
         setActiveQuiz('__erros__');
+        setReviewQuestionIds([]);
         setCurrentQuestion(0);
         setSelectedOption(null);
         setCrossedOut(new Set());
         setAnswered(false);
         setQuizStats({ correct: 0, total: 0 });
+        setAnswerResults({});
         setStartTime(Date.now());
         setQuizComplete(false);
+      };
+
+      const openTemaSelectorFromResult = () => {
+        if (showCadernoErros || !activeQuiz) return;
+        setQuizComplete(false);
+        setActiveQuiz(null);
+        setActiveTemas([]);
+        setShowCadernoErros(false);
+        setReviewQuestionIds([]);
+        setPendingQuiz(activeQuiz);
+        setPendingTemas([]);
+        setShowTemaSelector(true);
+      };
+
+      const startWrongOnlyReview = () => {
+        const activeCards = getActiveCards();
+        const wrongIds = activeCards
+          .filter(card => card?.id != null && answerResults[card.id] === false)
+          .map(card => card.id);
+        if (!wrongIds.length) return;
+        setQuizComplete(false);
+        setShowCadernoErros(false);
+        setReviewQuestionIds(wrongIds);
+        setCurrentQuestion(0);
+        setSelectedOption(null);
+        setCrossedOut(new Set());
+        setAnswered(false);
+        setQuizStats({ correct: 0, total: 0 });
+        setAnswerResults({});
+        setStartTime(Date.now());
+      };
+
+      const getNextRecommendedTemaId = () => {
+        if (!activeQuiz || showCadernoErros) return null;
+        const quiz = quizzes[activeQuiz];
+        const materia = materiasById[activeQuiz];
+        if (!quiz) return null;
+        const temasComQuestoes = [...new Set((quiz.cards || []).map(c => c.tema).filter(Boolean))];
+        if (!temasComQuestoes.length) return null;
+        const aulas = Array.isArray(materia?.aulas) ? materia.aulas : [];
+        const ordenadas = aulas.length
+          ? aulas.map(a => a.id).filter(id => temasComQuestoes.includes(id))
+          : temasComQuestoes;
+        if (!ordenadas.length) return null;
+        const temaAtual = activeTemas.length === 1 ? activeTemas[0] : (getActiveCards()[0]?.tema || null);
+        if (!temaAtual) return ordenadas[0];
+        const idx = ordenadas.indexOf(temaAtual);
+        if (idx >= 0 && idx < ordenadas.length - 1) return ordenadas[idx + 1];
+        return ordenadas.find(id => id !== temaAtual) || null;
+      };
+
+      const startNextRecommendedTema = () => {
+        const nextTema = getNextRecommendedTemaId();
+        if (!nextTema) return;
+        handleQuizStart(activeQuiz, [nextTema]);
       };
 
       if (quizComplete) {
         const activeCards = getActiveCards();
         const percentage = Math.round((quizStats.correct / Math.max(activeCards.length, 1)) * 100);
+        const wrongIds = activeCards
+          .filter(card => card?.id != null && answerResults[card.id] === false)
+          .map(card => card.id);
+        const nextTemaId = getNextRecommendedTemaId();
 
         return (
           <>
             <div className="screen-content">
               <div className="quiz-result-screen">
-                <div style={{ fontSize: '60px', marginBottom: '20px' }}>
-                  {percentage >= 70 ? '🎉' : percentage >= 50 ? '👍' : '💪'}
+                <div style={{
+                  width: '64px', height: '64px', margin: '0 auto 18px',
+                  borderRadius: '999px', border: '1px solid rgba(255,255,255,0.16)',
+                  background: percentage >= 70 ? 'rgba(16,185,129,0.12)' : 'rgba(255,255,255,0.06)',
+                  color: percentage >= 70 ? '#34D399' : 'var(--text-primary)',
+                  display: 'flex', alignItems: 'center', justifyContent: 'center',
+                }}>
+                  {percentage >= 70 ? <IconTrophy /> : <IconTarget />}
                 </div>
                 <div className="quiz-score">{percentage}%</div>
                 <p style={{ color: 'var(--text-secondary)', marginBottom: '8px' }}>
                   {quizStats.correct} de {activeCards.length} questões
-                  {activeTemas.length === 1 && <span> — {activeTemas[0]}</span>}
+                  {activeTemas.length === 1 && <span> — {getTemaDisplayName(activeQuiz, activeTemas[0])}</span>}
                   {activeTemas.length > 1 && <span> — {activeTemas.length} assuntos</span>}
                 </p>
                 <div className="quiz-time">{formatTime(Date.now() - startTime)}</div>
-                <div style={{ marginTop: '32px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
+                <div className="quiz-result-actions">
+                  {wrongIds.length > 0 && (
+                    <button className="btn quiz-result-secondary" onClick={startWrongOnlyReview}>
+                      <IconFileText /> Revisar apenas erradas
+                    </button>
+                  )}
+                  {!showCadernoErros && (
+                    <button className="btn quiz-result-secondary" onClick={openTemaSelectorFromResult}>
+                      <IconLayers /> Trocar aula ou assuntos
+                    </button>
+                  )}
+                  {!showCadernoErros && nextTemaId && (
+                    <button className="btn quiz-result-secondary" onClick={startNextRecommendedTema}>
+                      <IconChevronRight /> Próxima aula sugerida
+                    </button>
+                  )}
                   <button className="btn btn-primary" onClick={handleRestartQuiz}>Tentar Novamente</button>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); onSelectMateria(null); }}>Voltar</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setQuizComplete(false); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>Voltar</button>
                 </div>
               </div>
             </div>
@@ -6752,6 +7166,25 @@
         const aulas = materiaObj?.aulas || [];
         const hasAulas = aulas.length > 0;
         const temasFromCardsQ = [...new Set(quiz.cards.map(c => c.tema).filter(Boolean))];
+        const temaSearch = normalizeText(pendingTemaSearch || '');
+        const aulasFiltradas = hasAulas
+          ? aulas.filter((aula) => {
+              if (!temaSearch) return true;
+              return (
+                normalizeText(aula.tema || '').includes(temaSearch) ||
+                normalizeText(aula.descricao || '').includes(temaSearch) ||
+                normalizeText(aula.id || '').includes(temaSearch)
+              );
+            })
+          : [];
+        const temasFallbackFiltrados = hasAulas
+          ? []
+          : temasFromCardsQ.sort().filter((tema) => {
+              if (!temaSearch) return true;
+              const label = getTemaDisplayName(pendingQuiz, tema);
+              return normalizeText(label).includes(temaSearch) || normalizeText(tema).includes(temaSearch);
+            });
+        const hasTemaFilterResult = hasAulas ? aulasFiltradas.length > 0 : temasFallbackFiltrados.length > 0;
 
         return (
           <>
@@ -6761,6 +7194,16 @@
               <p style={{ color: 'var(--text-secondary)', fontSize: '14px', marginBottom: '16px' }}>
                 Selecione um ou mais assuntos:
               </p>
+              <div className="subject-search-wrap" style={{ marginBottom: '10px' }}>
+                <span className="subject-search-icon"><IconSearch /></span>
+                <input
+                  type="search"
+                  className="subject-search"
+                  placeholder="Buscar aula por nome..."
+                  value={pendingTemaSearch}
+                  onChange={(e) => setPendingTemaSearch(e.target.value)}
+                />
+              </div>
               <div className="subject-select-list" style={{ paddingBottom: pendingTemas.length > 0 ? '72px' : '0' }}>
                 <div className="subject-select-card" onClick={() => handleQuizStart(pendingQuiz, [])}
                   style={{ borderColor: 'var(--primary)', background: 'rgba(0,200,150,0.06)', marginBottom: '8px' }}>
@@ -6772,7 +7215,7 @@
                   <div style={{ color: 'var(--primary)' }}><IconChevronRight /></div>
                 </div>
                 {hasAulas ? (
-                  aulas.map(aula => {
+                  aulasFiltradas.map(aula => {
                     const count = quiz.cards.filter(c => c.tema === aula.id).length;
                     const isChecked = pendingTemas.includes(aula.id);
                     const hasQs = count > 0;
@@ -6787,19 +7230,24 @@
                     );
                   })
                 ) : (
-                  temasFromCardsQ.sort().map(tema => {
+                  temasFallbackFiltrados.map(tema => {
                     const count = quiz.cards.filter(c => c.tema === tema).length;
                     const isChecked = pendingTemas.includes(tema);
                     return (
                       <div key={tema} className={`subject-select-card${isChecked ? ' tema-selected' : ''}`} onClick={() => togglePendingTema(tema)}>
                         <div className={`tema-checkbox${isChecked ? ' tema-checkbox-checked' : ''}`}>{isChecked ? '✓' : ''}</div>
                         <div className="subject-select-info">
-                          <div className="subject-select-name">{tema}</div>
+                          <div className="subject-select-name">{getTemaDisplayName(pendingQuiz, tema)}</div>
                           <div className="subject-select-meta">{count} questões</div>
                         </div>
                       </div>
                     );
                   })
+                )}
+                {!hasTemaFilterResult && (
+                  <div style={{ textAlign: 'center', padding: '22px 0', color: 'var(--text-secondary)', fontSize: '13px' }}>
+                    Nenhuma aula encontrada para a busca.
+                  </div>
                 )}
               </div>
 
@@ -6828,11 +7276,19 @@
           return (
             <>
               <div className="screen-content">
-                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>← Questões</button>
+                <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>← Questões</button>
                 <div style={{ textAlign: 'center', marginTop: '60px' }}>
-                  <div style={{ fontSize: '60px', marginBottom: '20px' }}>{showCadernoErros ? '✨' : '🚧'}</div>
+                  <div style={{
+                    width: '64px', height: '64px', margin: '0 auto 20px',
+                    borderRadius: '999px', border: '1px solid rgba(255,255,255,0.14)',
+                    background: showCadernoErros ? 'rgba(239,68,68,0.12)' : 'rgba(255,255,255,0.06)',
+                    color: showCadernoErros ? 'var(--error)' : 'var(--text-primary)',
+                    display: 'flex', alignItems: 'center', justifyContent: 'center'
+                  }}>
+                    {showCadernoErros ? <IconFileText /> : <IconClipboardList />}
+                  </div>
                   <p style={{ color: 'var(--text-secondary)', marginBottom: '20px' }}>{emptyMsg}</p>
-                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>Voltar</button>
+                  <button className="btn btn-secondary" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>Voltar</button>
                 </div>
               </div>
             </>
@@ -6840,14 +7296,15 @@
         }
 
         const card = activeCards[currentQuestion];
+        const explanationBundle = parseQuizExplanation(card);
         const progress = ((currentQuestion + 1) / activeCards.length) * 100;
         const quizLabel = showCadernoErros ? 'Caderno de Erros' : (quizzes[activeQuiz]?.sigla || quizzes[activeQuiz]?.name || 'Questões');
 
         return (
           <>
             <div className="screen-content">
-              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); onSelectMateria(null); }}>
-                ← {activeTemas.length === 1 ? activeTemas[0] : quizLabel}
+              <button className="back-btn" onClick={() => { setActiveQuiz(null); setActiveTemas([]); setShowCadernoErros(false); setReviewQuestionIds([]); setAnswerResults({}); onSelectMateria(null); }}>
+                ← {activeTemas.length === 1 ? getTemaDisplayName(activeQuiz, activeTemas[0]) : quizLabel}
               </button>
               <div className="quiz-screen">
                 <div className="quiz-progress-section">
@@ -6856,7 +7313,7 @@
                   </div>
                   <div className="quiz-counter">
                     {currentQuestion + 1} de {activeCards.length}
-                    {card.tema && activeTemas.length !== 1 && <span style={{ marginLeft: '8px', color: 'var(--primary)', fontSize: '11px' }}>{card.tema}</span>}
+                    {card.tema && activeTemas.length !== 1 && <span style={{ marginLeft: '8px', color: 'var(--primary)', fontSize: '11px' }}>{getTemaDisplayName(card.materia || activeQuiz, card.tema)}</span>}
                   </div>
                 </div>
 
@@ -6875,7 +7332,9 @@
                       } ${
                         answered && idx === card.correta ? 'correct' : ''
                       } ${
-                        answered && selectedOption === idx && idx !== card.correta ? 'incorrect' : ''
+                        answered && idx !== card.correta ? 'incorrect' : ''
+                      } ${
+                        answered && selectedOption === idx && idx !== card.correta ? 'incorrect-selected' : ''
                       }`}
                       onClick={() => {
                         if (!answered && !crossedOut.has(idx)) setSelectedOption(idx);
@@ -6894,27 +7353,48 @@
                   ))}
                 </div>
 
-                {answered && card.explicacao && (
+                {answered && (
                   <div className="quiz-feedback">
-                    <div className="quiz-feedback-title">
-                      {selectedOption === card.correta ? '✓ Correto!' : '✗ Incorreto'}
+                    <div className="quiz-feedback-title" style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+                      {selectedOption === card.correta ? <IconCheck /> : <IconX />}
+                      <span>{selectedOption === card.correta ? 'Correto!' : 'Incorreto'}</span>
                     </div>
-                    <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6' }}>{card.explicacao}</p>
+                    {explanationBundle.general && (
+                      <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', marginBottom: '10px' }}>
+                        {explanationBundle.general}
+                      </p>
+                    )}
+                    <div style={{ display: 'grid', gap: '8px' }}>
+                      {card.opcoes.map((option, idx) => {
+                        const letter = String.fromCharCode(65 + idx);
+                        const text = String(option || '').replace(/^[A-D]\)\s*/, '').trim();
+                        const isCorrect = idx === card.correta;
+                        return (
+                          <div key={`exp-${idx}`} style={{
+                            border: `1px solid ${isCorrect ? 'rgba(34,197,94,0.35)' : 'rgba(148,163,184,0.25)'}`,
+                            borderRadius: '10px',
+                            padding: '8px 10px',
+                            background: isCorrect ? 'rgba(34,197,94,0.08)' : 'rgba(148,163,184,0.06)'
+                          }}>
+                            <div style={{ fontWeight: 700, fontSize: '12px', marginBottom: '4px', color: isCorrect ? '#22c55e' : 'var(--text-secondary)' }}>
+                              {letter}) {text} {isCorrect ? '— Correta' : '— Incorreta'}
+                            </div>
+                            <div style={{ color: 'var(--text-secondary)', fontSize: '13px', lineHeight: '1.45' }}>
+                              {explanationBundle.optionExplanations[idx]}
+                            </div>
+                          </div>
+                        );
+                      })}
+                    </div>
                   </div>
                 )}
 
                 <div className="quiz-action-bar">
                   <button
-                    className="btn"
+                    className="btn quiz-report-btn"
                     onClick={handleReportQuestion}
-                    style={{
-                      background: 'rgba(239,68,68,0.12)',
-                      border: '1px solid rgba(239,68,68,0.4)',
-                      color: '#EF4444',
-                      marginRight: '8px'
-                    }}
                   >
-                    ⚑ Reportar
+                    <IconMessageSquare /> Reportar
                   </button>
                   {!answered ? (
                     <button
@@ -6932,11 +7412,23 @@
                 </div>
               </div>
             </div>
+            <ContentReportModal
+              open={reportQuizOpen}
+              title="Reportar questão"
+              subtitle="Descreva o problema encontrado nesta questão."
+              reason={reportQuizReason}
+              setReason={setReportQuizReason}
+              sending={reportQuizSending}
+              errorMsg={reportQuizError}
+              onClose={() => { if (!reportQuizSending) { setReportQuizOpen(false); setReportQuizTarget(null); } }}
+              onSubmit={submitQuizReport}
+            />
           </>
         );
       }
 
       // Quiz list with caderno de erros, semester filter, search
+      const quizProgressMap = getQuizProgress();
       const semesters = [...new Set(Object.values(quizzes).filter(q => q.ativo !== false).map(q => q.semestre))].sort((a,b) => a-b);
       const errosCount = getErros().length;
 
@@ -6962,7 +7454,7 @@
             )}
 
             <div className="subject-search-wrap">
-              <span className="subject-search-icon">🔍</span>
+              <span className="subject-search-icon"><IconSearch /></span>
               <input
                 type="search"
                 className="subject-search"
@@ -6976,7 +7468,7 @@
             {errosCount > 0 && (
               <div className="subject-select-card caderno-erros-card" onClick={startCadernoErros}
                 style={{ borderColor: 'var(--error)', background: 'rgba(239,68,68,0.06)', marginBottom: '12px' }}>
-                <div className="subject-select-icon" style={{ background: 'rgba(239,68,68,0.15)', color: 'var(--error)', width: '40px', height: '40px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '18px' }}>📕</div>
+                <div className="subject-select-icon" style={{ background: 'rgba(239,68,68,0.15)', color: 'var(--error)', width: '40px', height: '40px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}><IconFileText /></div>
                 <div className="subject-select-info">
                   <div className="subject-select-name" style={{ color: 'var(--error)' }}>Caderno de Erros</div>
                   <div className="subject-select-meta">{errosCount} questões para revisar</div>
@@ -6991,20 +7483,24 @@
                   <p>Nenhuma questão encontrada.</p>
                 </div>
               )}
-              {Object.entries(filteredQuizzes).map(([id, quiz]) => (
+              {Object.entries(filteredQuizzes).map(([id, quiz]) => {
+                const doneCount = quiz.cards.filter((q) => quizProgressMap[String(q.id)]?.done).length;
+                return (
                 <div key={id} className={`subject-select-card${quiz.cards.length === 0 ? ' subject-card-empty' : ''}`} onClick={() => handleMateriaClick(id)}>
                   <SubjectIcon materiaId={id} icon={quiz.icon} cor={quiz.cor} />
                   <div className="subject-select-info">
                     <div className="subject-select-name">{quiz.sigla || quiz.name}</div>
                     <div className="subject-select-meta">
-                      {quiz.cards.length > 0 ? `${quiz.cards.length} questões — Módulo ${quiz.semestre}` : 'Em breve'}
+                      {quiz.cards.length > 0
+                        ? `${quiz.cards.length} questões — ${doneCount} feitas — Módulo ${quiz.semestre}`
+                        : 'Em breve'}
                     </div>
                   </div>
                   <div style={{ color: 'var(--text-secondary)' }}>
                     <IconChevronRight />
                   </div>
                 </div>
-              ))}
+              )})}
             </div>
           </div>
         </>
@@ -8099,6 +8595,22 @@
                 <div className="profile-stat-icon" style={{ color: 'var(--purple)' }}><IconClock /></div>
                 <div className="profile-stat-value">{stats.studyHours}h</div>
                 <div className="profile-stat-label">Estudo</div>
+              </div>
+            </div>
+
+            <div style={{ width: '100%', maxWidth: '420px', margin: '0 auto 16px' }}>
+              <div style={{ padding: '14px 16px', borderRadius: '14px', background: 'linear-gradient(145deg, rgba(0,200,150,0.14), rgba(0,180,216,0.08))', border: '1px solid rgba(0,180,216,0.28)' }}>
+                <div style={{ fontSize: '13px', fontWeight: 700, marginBottom: '6px', color: 'var(--text-primary)' }}>Planos e acesso</div>
+                <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55, marginBottom: '12px' }}>
+                  Quando mudar o semestre ou quiser ampliar o conteúdo, compre outro módulo, outro ciclo ou a assinatura mensal. Use o mesmo email da sua conta no checkout.
+                </div>
+                <a
+                  className="btn btn-primary"
+                  href={user.email ? `comprar.html?email=${encodeURIComponent(user.email)}` : 'comprar.html'}
+                  style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: '100%', textDecoration: 'none', boxSizing: 'border-box' }}
+                >
+                  Ver planos e comprar
+                </a>
               </div>
             </div>
 
@@ -10144,6 +10656,7 @@
       const [materias, setMaterias] = useState([]);
       const [flashcards, setFlashcards] = useState([]);
       const [selectedMateria, setSelectedMateria] = useState(null);
+      const [homeMateriaPicker, setHomeMateriaPicker] = useState({ open: false, materiaId: null, materiaNome: '' });
       const [loading, setLoading] = useState(true);
       const [showInstallTip, setShowInstallTip] = useState(false);
       const [installTipPlatform, setInstallTipPlatform] = useState('ios');
@@ -10313,6 +10826,8 @@
                 pergunta: q.enunciado,
                 resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
                 explicacao: q.explicacao,
+                explicacao_geral: q.explicacao_geral || '',
+                explicacoes_opcoes: q.explicacoes_opcoes || null,
                 opcoes: q.opcoes || [],
                 correta: q.correta,
                 tipo: 'quiz',
@@ -10354,6 +10869,27 @@
           console.error('Erro ao carregar dados:', error);
           setLoading(false);
         }
+      };
+
+      const openHomeMateriaPicker = (materiaId, materiaNome) => {
+        if (!materiaId) {
+          setSelectedMateria(null);
+          navigateTo('cards', { materiaId: null });
+          return;
+        }
+        setHomeMateriaPicker({ open: true, materiaId, materiaNome: materiaNome || 'Disciplina' });
+      };
+
+      const closeHomeMateriaPicker = () => {
+        setHomeMateriaPicker({ open: false, materiaId: null, materiaNome: '' });
+      };
+
+      const goFromHomeTo = (tab) => {
+        const materiaId = homeMateriaPicker.materiaId;
+        if (!materiaId) return;
+        setSelectedMateria(materiaId);
+        closeHomeMateriaPicker();
+        navigateTo(tab, { materiaId });
       };
 
       const handleAuthSuccess = (userData) => {
@@ -10615,8 +11151,13 @@
                 materias={accessFilteredMaterias}
                 flashcards={accessFilteredFlashcards}
                 onSelectMateria={(id) => {
-                  setSelectedMateria(id);
-                  navigateTo('cards', { materiaId: id });
+                  if (!id) {
+                    setSelectedMateria(null);
+                    navigateTo('cards', { materiaId: null });
+                    return;
+                  }
+                  const materia = accessFilteredMaterias.find((m) => m.id === id);
+                  openHomeMateriaPicker(id, materia?.nome || materia?.sigla || '');
                 }}
               />
             )}
@@ -10748,6 +11289,29 @@
                 mode={routeState.materiaId === 'histology' ? 'histology' : 'anatomy'}
                 onModeChange={(m) => navigateTo('anatomy_hist', { materiaId: m })}
               />
+            )}
+
+            {homeMateriaPicker.open && (
+              <div className="feedback-overlay" onClick={closeHomeMateriaPicker}>
+                <div className="feedback-modal" onClick={(e) => e.stopPropagation()}>
+                  <h3>Escolher destino</h3>
+                  <p>{homeMateriaPicker.materiaNome}</p>
+                  <div className="home-destination-actions">
+                    <button className="feedback-btn home-destination-option" onClick={() => goFromHomeTo('materials')}>
+                      <IconBookOpen /> Materiais
+                    </button>
+                    <button className="feedback-btn home-destination-option" onClick={() => goFromHomeTo('quiz')}>
+                      <IconClipboardList /> Questões
+                    </button>
+                    <button className="feedback-btn home-destination-option" onClick={() => goFromHomeTo('cards')}>
+                      <IconLayers /> Flashcards
+                    </button>
+                    <button className="feedback-btn home-destination-cancel" onClick={closeHomeMateriaPicker}>
+                      <IconX /> Cancelar
+                    </button>
+                  </div>
+                </div>
+              </div>
             )}
 
           </div>

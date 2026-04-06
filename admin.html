@@ -486,6 +486,8 @@
                     <button class="btn btn-warning" onclick="showPromoteExistingAmbassadorModal()">⭐ Promover conta existente</button>
                     <button class="btn btn-success" onclick="saveAmbassadorAreaNow()">💾 Salvar Alterações</button>
                     <button class="btn btn-success" onclick="runQualificationCheck()">🔄 Verificar Qualificações</button>
+                    <button class="btn btn-primary" onclick="loadStripeAmbassadorSalesPanel()">📥 Vendas Stripe (Firebase)</button>
+                    <button class="btn btn-warning" onclick="syncPendingStripeSalesToLocal()">↔ Sincronizar pendentes → contador</button>
                     <button class="btn btn-ghost" onclick="exportAmbassadors()">⬇ Exportar JSON</button>
                 </div>
                 <div id="ambassadorSaveHint" style="margin-top:-10px; margin-bottom:16px; font-size:12px; color: var(--text-secondary);"></div>
@@ -511,6 +513,33 @@
                                 </tr>
                             </thead>
                             <tbody id="ambassadorsTable"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div class="panel" style="margin-top: 24px;">
+                    <div class="panel-header">
+                        <h3>Vendas com cupom (Stripe → Firebase)</h3>
+                        <span class="badge badge-secondary">stripe_ambassador_sales</span>
+                    </div>
+                    <p style="font-size: 13px; color: var(--text-secondary); margin-bottom: 12px;">
+                        Conecte com Google no topo (Firebase). Registros são criados pela Cloud Function quando o checkout envia cupom + ID do embaixador. Use <strong>Sincronizar pendentes</strong> para somar no contador local (<code>vendas_mensais.json</code> + totais do embaixador).
+                    </p>
+                    <div class="table-wrap" style="max-height: 320px; overflow: auto;">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Data</th>
+                                    <th>Emb.</th>
+                                    <th>Cupom</th>
+                                    <th>Plano</th>
+                                    <th>R$</th>
+                                    <th>Sinc.</th>
+                                </tr>
+                            </thead>
+                            <tbody id="stripeAmbassadorSalesTable">
+                                <tr><td colspan="6" style="text-align:center;color:var(--text-secondary);">Clique em «Vendas Stripe (Firebase)» para carregar.</td></tr>
+                            </tbody>
                         </table>
                     </div>
                 </div>
@@ -1135,7 +1164,7 @@
     <script type="module">
         import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
         import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
-        import { getFirestore, collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+        import { getFirestore, collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc, query, where, orderBy, limit, writeBatch } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
 
         const fbConfig = window.__FIREBASE_CLIENT_CONFIG__;
         if (!fbConfig || !fbConfig.apiKey) {
@@ -1148,7 +1177,7 @@
             db: getFirestore(fbApp),
             provider: new GoogleAuthProvider(),
             fns: { signInWithPopup, signOut },
-            fs: { collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc },
+            fs: { collection, getDocs, doc, setDoc, updateDoc, deleteDoc, getDoc, query, where, orderBy, limit, writeBatch },
         };
     </script>
 
@@ -1426,6 +1455,7 @@
         let remoteUsers = [];
         let profileChangeRequests = [];
         let emailInvitesData = [];
+        let emailAccessGrantsByEmail = {};
 
         function showEmailInvitesFirebaseUI(connected) {
             const gate = document.getElementById('emailInvitesFirebaseGate');
@@ -1616,6 +1646,17 @@
 
         function normalizeEmailValue(value) {
             return String(value || '').trim().toLowerCase();
+        }
+
+        function isAdminGrantValid(grant) {
+            if (!grant || grant.ativo === false) return false;
+            if (grant.expira) {
+                const exp = new Date(grant.expira);
+                if (Number.isNaN(+exp)) return false;
+                const end = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 23, 59, 59, 999);
+                if (new Date() > end) return false;
+            }
+            return true;
         }
 
         function inferAmbassadorNameFromUser(user) {
@@ -1836,14 +1877,21 @@
 
             try {
                 const { collection, getDocs } = window.__adminFirebase.fs;
-                const [usersSnap, requestsSnap] = await Promise.all([
+                const [usersSnap, requestsSnap, grantsSnap] = await Promise.all([
                     getDocs(collection(window.__adminFirebase.db, 'users')),
                     getDocs(collection(window.__adminFirebase.db, 'profile_change_requests')),
+                    getDocs(collection(window.__adminFirebase.db, 'email_access')),
                 ]);
 
                 remoteUsers = usersSnap.docs.map(docSnap => ({ id: docSnap.id, ...docSnap.data() }));
                 profileChangeRequests = requestsSnap.docs.map(docSnap => ({ id: docSnap.id, ...docSnap.data() }))
                     .sort((a, b) => new Date(b.createdAt || 0) - new Date(a.createdAt || 0));
+                emailAccessGrantsByEmail = {};
+                grantsSnap.docs.forEach((docSnap) => {
+                    const grantEmail = normalizeEmailValue(docSnap.id);
+                    if (!grantEmail) return;
+                    emailAccessGrantsByEmail[grantEmail] = { id: docSnap.id, ...docSnap.data() };
+                });
 
                 try {
                     await syncAmbassadorsFromFirebaseUsers();
@@ -1919,28 +1967,107 @@
             if (!remoteUsers.length) {
                 usersEl.innerHTML = '<tr><td colspan="7" style="text-align:center;color:var(--text-secondary)">Nenhum usuário com perfil salvo.</td></tr>';
             } else {
-                usersEl.innerHTML = remoteUsers
+                const grouped = {};
+                remoteUsers.forEach((user) => {
+                    const email = normalizeEmailValue(user.email || '');
+                    const key = email || `uid:${user.id}`;
+                    if (!grouped[key]) grouped[key] = { email, users: [] };
+                    grouped[key].users.push(user);
+                });
+
+                const rows = Object.values(grouped)
                     .sort((a, b) => String(a.email || '').localeCompare(String(b.email || '')))
-                    .map(user => {
-                        const ids = Array.isArray(user.deviceIds) ? user.deviceIds.filter(Boolean) : [];
-                        const trackedCount = ids.length || (user.deviceId ? 1 : 0);
-                        const max = Number.isFinite(Number(user.maxDispositivos)) ? Number(user.maxDispositivos) : 2;
-                        const loginText = user.loginDate ? new Date(user.loginDate).toLocaleString('pt-BR') : '—';
-                        const deviceTip = ids.length
-                            ? `IDs: ${ids.map(id => escHtml(String(id).slice(0, 18))).join(', ')}`
-                            : (user.deviceId ? `ID: ${escHtml(String(user.deviceId).slice(0, 24))}` : 'Sem dispositivo registrado');
+                    .map((group) => {
+                        const usersSorted = [...group.users].sort((a, b) => {
+                            const ta = new Date(a.updatedAt || a.lastSeenAt || a.loginDate || 0).getTime();
+                            const tb = new Date(b.updatedAt || b.lastSeenAt || b.loginDate || 0).getTime();
+                            return tb - ta;
+                        });
+                        const primary = usersSorted[0] || {};
+                        const grant = group.email ? emailAccessGrantsByEmail[group.email] : null;
+                        const hasValidGrant = isAdminGrantValid(grant);
+                        const effectivePlan = hasValidGrant
+                            ? normalizePlan(grant.plano || primary.plano || 'gratuito')
+                            : (grant && grant.ativo === false ? 'gratuito' : normalizePlan(primary.plano || 'basico'));
+                        const effectiveModules = hasValidGrant
+                            ? (normalizeModulesAccess(grant.modulosAcesso) || getModulesFromPlan(grant.plano, null))
+                            : (normalizeModulesAccess(primary.modulosAcesso) || getModulesFromPlan(primary.plano, primary.semestre || primary.modulo));
+
+                        const moduleLabel = !effectiveModules || !effectiveModules.length
+                            ? '—'
+                            : (effectiveModules.length === 1 ? String(effectiveModules[0]) : `${effectiveModules[0]}-${effectiveModules[effectiveModules.length - 1]}`);
+                        const planBadge = getPlanBadgeClass(effectivePlan);
+                        const planLabel = getPlanLabel(effectivePlan);
+
+                        const allDeviceIds = [...new Set(group.users.flatMap((u) => {
+                            const ids = Array.isArray(u.deviceIds) ? u.deviceIds.filter(Boolean) : [];
+                            return ids.length ? ids : (u.deviceId ? [u.deviceId] : []);
+                        }))];
+                        const trackedCount = allDeviceIds.length;
+                        const max = Number.isFinite(Number(primary.maxDispositivos)) ? Number(primary.maxDispositivos) : 2;
+                        const loginText = primary.loginDate ? new Date(primary.loginDate).toLocaleString('pt-BR') : '—';
+                        const deviceTip = allDeviceIds.length
+                            ? `IDs: ${allDeviceIds.map(id => escHtml(String(id).slice(0, 18))).join(', ')}`
+                            : 'Sem dispositivo registrado';
+                        const duplicateLabel = group.users.length > 1
+                            ? `<div style="font-size:11px;color:var(--warning);margin-top:4px;">${group.users.length} perfis (UID)</div>`
+                            : '';
+                        const dedupeBtn = group.users.length > 1 && group.email
+                            ? `<button class="btn btn-sm btn-warning" style="margin-top:6px;" onclick="sanitizeDuplicateUsersByEmail('${escHtml(group.email)}')">Consolidar duplicados</button>`
+                            : '';
+
                         return `
                         <tr>
-                            <td>${escHtml(user.email || '—')}</td>
-                            <td>${escHtml(user.faculdadeNome || '—')}</td>
-                            <td>${escHtml(user.campusNome || '—')}</td>
-                            <td>${escHtml(String(user.semestre || user.modulo || '—'))}</td>
-                            <td><span class="badge badge-primary">${escHtml(user.plano || 'basico')}</span></td>
+                            <td>${escHtml(group.email || primary.email || '—')}${duplicateLabel}${dedupeBtn}</td>
+                            <td>${escHtml(primary.faculdadeNome || '—')}</td>
+                            <td>${escHtml(primary.campusNome || '—')}</td>
+                            <td>${escHtml(moduleLabel)}</td>
+                            <td><span class="badge ${planBadge}">${escHtml(planLabel)}</span></td>
                             <td><span title="${deviceTip}">${trackedCount}/${max}</span></td>
                             <td>${loginText}</td>
                         </tr>
                     `;
-                    }).join('');
+                    });
+                usersEl.innerHTML = rows.join('');
+            }
+        }
+
+        async function sanitizeDuplicateUsersByEmail(emailRaw) {
+            const email = normalizeEmailValue(emailRaw);
+            if (!email || !window.__adminFirebase) return;
+            const duplicates = remoteUsers.filter(u => normalizeEmailValue(u.email) === email);
+            if (duplicates.length < 2) {
+                showToast('Não há duplicados para este email.');
+                return;
+            }
+            if (!confirm(`Consolidar ${duplicates.length} perfis de ${email}?\n\nMantém o mais recente e rebaixa os demais para gratuito.`)) return;
+            const sorted = [...duplicates].sort((a, b) => {
+                const ta = new Date(a.updatedAt || a.lastSeenAt || a.loginDate || 0).getTime();
+                const tb = new Date(b.updatedAt || b.lastSeenAt || b.loginDate || 0).getTime();
+                return tb - ta;
+            });
+            const keeper = sorted[0];
+            const toDowngrade = sorted.slice(1);
+            const { doc, setDoc } = window.__adminFirebase.fs;
+            const nowIso = new Date().toISOString();
+            try {
+                await Promise.all(toDowngrade.map((u) => setDoc(
+                    doc(window.__adminFirebase.db, 'users', u.id),
+                    {
+                        plano: 'gratuito',
+                        modulosAcesso: [1],
+                        modulo: 1,
+                        semestre: 1,
+                        accessSource: 'dedupe_merged',
+                        mergedIntoUserId: keeper.id,
+                        updatedAt: nowIso,
+                    },
+                    { merge: true }
+                )));
+                showToast(`Duplicados consolidados (${toDowngrade.length} perfil(is) rebaixados).`);
+                await loadUsersSection();
+            } catch (e) {
+                showToast('Erro ao consolidar duplicados: ' + (e.message || e), true);
             }
         }
 
@@ -2435,10 +2562,26 @@
         function exportCodes() { _persistCodes(); }
 
         // ===================== AMBASSADORS =====================
+        const PUBLIC_COMPRAR_URL = 'https://medgradplus.web.app/comprar.html';
+
         const PLAN_PRICES = {
-            modulo: 39.90,
-            ciclo: 119.90,
+            modulo: 59.90,
+            ciclo: 169.90,
+            ciclo_clinico: 169.90,
+            mensal: 24.90,
         };
+
+        function getAmbassadorMonthField(d = new Date()) {
+            const mk = d.toISOString().slice(0, 7);
+            return 'vendas_' + mk.replace(/-/g, '_');
+        }
+
+        function getMonthVendasCount(amb) {
+            if (!amb) return 0;
+            const f = getAmbassadorMonthField();
+            if (amb[f] != null) return Number(amb[f]) || 0;
+            return Number(amb.vendas_abril_2026 || 0) || 0;
+        }
 
         function toCurrencyBRL(value) {
             const n = Number(value || 0);
@@ -2455,7 +2598,7 @@
 
             Object.entries(ambassadorsData).forEach(([id, amb]) => {
                 const statusClass = amb.qualificacao_status === 'approved' ? 'badge-success' : 'badge-error';
-                const vendas_mes = amb.vendas_abril_2026 || 0;  // TODO: dinamico por mes
+                const vendas_mes = getMonthVendasCount(amb);
                 const comissaoPercentual = Number(amb.comissao_percentual || 10);
                 const comissaoTotal = Number(amb.comissao_total || 0);
                 const ultimaVenda = amb.ultimaVendaEm ? new Date(amb.ultimaVendaEm).toLocaleDateString('pt-BR') : '—';
@@ -2471,6 +2614,7 @@
                     <td>R$ ${toCurrencyBRL(comissaoTotal)}</td>
                     <td>${ultimaVenda}</td>
                     <td>
+                        <button class="btn btn-sm btn-ghost" title="Copiar link de compra com cupom" onclick='copyAmbassadorCheckoutLink(${JSON.stringify(amb.cupomCode || "")})'>🔗</button>
                         <button class="btn btn-sm btn-primary" onclick="recordSaleModal('${id}')">+V</button>
                         <button class="btn btn-sm btn-ghost" onclick="editAmbassadorModal('${id}')">✎</button>
                         <button class="btn btn-sm btn-danger" onclick="deleteAmbassador('${id}')">🗑</button>
@@ -2778,6 +2922,67 @@
             }
         }
 
+        function copyAmbassadorCheckoutLink(cupomCode) {
+            const c = String(cupomCode || '').trim();
+            if (!c) {
+                showToast('Este embaixador ainda não tem cupom.', true);
+                return;
+            }
+            const u = `${PUBLIC_COMPRAR_URL}?cupom=${encodeURIComponent(c)}`;
+            navigator.clipboard.writeText(u).then(() => showToast('Link de compra copiado.')).catch(() => showToast(u, false));
+        }
+
+        async function applyAmbassadorSaleCore(ambassadorId, planType, saleDate, overrideSaleValue) {
+            const amb = ambassadorsData[ambassadorId];
+            if (!amb) return { ok: false, error: 'Embaixador não encontrado' };
+            const saleValue = overrideSaleValue != null && Number.isFinite(Number(overrideSaleValue))
+                ? Number(overrideSaleValue)
+                : Number(PLAN_PRICES[planType] || PLAN_PRICES.modulo);
+            const commissionPercent = Number(amb.comissao_percentual || 10);
+            const commissionValue = Number(((saleValue * commissionPercent) / 100).toFixed(2));
+
+            const monthKey = saleDate.toISOString().slice(0, 7);
+
+            if (!salesMonthlyData[monthKey]) salesMonthlyData[monthKey] = {};
+            if (!salesMonthlyData[monthKey][ambassadorId]) {
+                salesMonthlyData[monthKey][ambassadorId] = {
+                    count: 0,
+                    primeira_venda_em: null,
+                    ultima_venda_em: null,
+                    qualificou: false,
+                    total_bruto: 0,
+                    total_comissao: 0,
+                    modulo_count: 0,
+                    ciclo_count: 0,
+                    mensal_count: 0,
+                };
+            }
+
+            const agg = salesMonthlyData[monthKey][ambassadorId];
+            agg.count += 1;
+            agg.ultima_venda_em = saleDate.toISOString();
+            if (!agg.primeira_venda_em) agg.primeira_venda_em = saleDate.toISOString();
+            agg.qualificou = true;
+            agg.total_bruto = Number((Number(agg.total_bruto || 0) + saleValue).toFixed(2));
+            agg.total_comissao = Number((Number(agg.total_comissao || 0) + commissionValue).toFixed(2));
+            if (planType === 'ciclo' || planType === 'ciclo_clinico') {
+                agg.ciclo_count = Number(agg.ciclo_count || 0) + 1;
+            } else if (planType === 'mensal') {
+                agg.mensal_count = Number(agg.mensal_count || 0) + 1;
+            } else {
+                agg.modulo_count = Number(agg.modulo_count || 0) + 1;
+            }
+
+            amb.ultimaVendaEm = saleDate.toISOString();
+            const mf = getAmbassadorMonthField(saleDate);
+            amb[mf] = (Number(amb[mf]) || 0) + 1;
+            amb.qualificacao_status = 'approved';
+            amb.vendas_valor_total = Number((Number(amb.vendas_valor_total || 0) + saleValue).toFixed(2));
+            amb.comissao_total = Number((Number(amb.comissao_total || 0) + commissionValue).toFixed(2));
+
+            return { ok: true, commissionValue, saleValue };
+        }
+
         function recordSaleModal(ambassadorId) {
             const amb = ambassadorsData[ambassadorId];
             if (!amb) return;
@@ -2788,8 +2993,10 @@
                     <p style="color: var(--text-secondary); margin-bottom: 16px;">Embaixador: <strong>${amb.nome}</strong></p>
                     <input type="date" id="recordSaleDate" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;" value="${new Date().toISOString().split('T')[0]}">
                     <select id="recordSalePlan" style="width: 100%; padding: 10px; margin-bottom: 12px; background: rgba(0,0,0,0.2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: inherit;">
-                        <option value="modulo">Plano Módulo (R$ 39,90)</option>
-                        <option value="ciclo">Plano Ciclo (R$ 119,90)</option>
+                        <option value="modulo">Módulo (R$ 59,90)</option>
+                        <option value="ciclo">Ciclo Básico 1–4 (R$ 169,90)</option>
+                        <option value="ciclo_clinico">Ciclo Clínico 5–8 (R$ 169,90)</option>
+                        <option value="mensal">Mensal (R$ 24,90)</option>
                     </select>
                     <div style="display: flex; gap: 10px; margin-top: 20px;">
                         <button class="btn btn-success" style="flex: 1;" onclick="confirmRecordSale('${ambassadorId}')">✓ Registrar</button>
@@ -2800,60 +3007,101 @@
         }
 
         async function confirmRecordSale(ambassadorId) {
-            const amb = ambassadorsData[ambassadorId];
-            if (!amb) return;
-
             const dateStr = document.getElementById('recordSaleDate')?.value;
             if (!dateStr) {
                 showToast('Escolha uma data', true);
                 return;
             }
             const planType = document.getElementById('recordSalePlan')?.value || 'modulo';
-            const saleValue = Number(PLAN_PRICES[planType] || PLAN_PRICES.modulo);
-            const commissionPercent = Number(amb.comissao_percentual || 10);
-            const commissionValue = Number(((saleValue * commissionPercent) / 100).toFixed(2));
-
             const saleDate = new Date(dateStr);
-            const monthKey = saleDate.toISOString().slice(0, 7);  // "2026-04"
-
-            if (!salesMonthlyData[monthKey]) {
-                salesMonthlyData[monthKey] = {};
+            const r = await applyAmbassadorSaleCore(ambassadorId, planType, saleDate);
+            if (!r.ok) {
+                showToast(r.error || 'Erro', true);
+                return;
             }
-            if (!salesMonthlyData[monthKey][ambassadorId]) {
-                salesMonthlyData[monthKey][ambassadorId] = {
-                    count: 0,
-                    primeira_venda_em: null,
-                    ultima_venda_em: null,
-                    qualificou: false,
-                    total_bruto: 0,
-                    total_comissao: 0,
-                    modulo_count: 0,
-                    ciclo_count: 0
-                };
-            }
-
-            salesMonthlyData[monthKey][ambassadorId].count += 1;
-            salesMonthlyData[monthKey][ambassadorId].ultima_venda_em = saleDate.toISOString();
-            if (!salesMonthlyData[monthKey][ambassadorId].primeira_venda_em) {
-                salesMonthlyData[monthKey][ambassadorId].primeira_venda_em = saleDate.toISOString();
-            }
-            salesMonthlyData[monthKey][ambassadorId].qualificou = true;
-            salesMonthlyData[monthKey][ambassadorId].total_bruto = Number((Number(salesMonthlyData[monthKey][ambassadorId].total_bruto || 0) + saleValue).toFixed(2));
-            salesMonthlyData[monthKey][ambassadorId].total_comissao = Number((Number(salesMonthlyData[monthKey][ambassadorId].total_comissao || 0) + commissionValue).toFixed(2));
-            if (planType === 'ciclo') salesMonthlyData[monthKey][ambassadorId].ciclo_count = Number(salesMonthlyData[monthKey][ambassadorId].ciclo_count || 0) + 1;
-            else salesMonthlyData[monthKey][ambassadorId].modulo_count = Number(salesMonthlyData[monthKey][ambassadorId].modulo_count || 0) + 1;
-
-            amb.ultimaVendaEm = saleDate.toISOString();
-            amb.vendas_abril_2026 = (amb.vendas_abril_2026 || 0) + 1;  // TODO: dinamico
-            amb.qualificacao_status = 'approved';
-            amb.vendas_valor_total = Number((Number(amb.vendas_valor_total || 0) + saleValue).toFixed(2));
-            amb.comissao_total = Number((Number(amb.comissao_total || 0) + commissionValue).toFixed(2));
 
             renderAmbassadors();
             await _persistAmbassadors();
             await _persistSalesMonthly();
             closeModal('recordSaleModal');
-            showToast(`Venda (${planType === 'ciclo' ? 'Ciclo' : 'Módulo'}) registrada. Comissão: R$ ${toCurrencyBRL(commissionValue)}.`);
+            const label = planType === 'ciclo_clinico' ? 'Ciclo clínico' : planType === 'ciclo' ? 'Ciclo básico' : planType === 'mensal' ? 'Mensal' : 'Módulo';
+            showToast(`Venda (${label}) registrada. Comissão: R$ ${toCurrencyBRL(r.commissionValue)}.`);
+        }
+
+        async function loadStripeAmbassadorSalesPanel() {
+            const tbody = document.getElementById('stripeAmbassadorSalesTable');
+            if (!tbody) return;
+            if (!window.__adminFirebase?.auth?.currentUser) {
+                showToast('Conecte com Google (Firebase) no topo.', true);
+                return;
+            }
+            tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;">Carregando…</td></tr>';
+            try {
+                const { collection, getDocs } = window.__adminFirebase.fs;
+                const snap = await getDocs(collection(window.__adminFirebase.db, 'stripe_ambassador_sales'));
+                if (snap.empty) {
+                    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;color:var(--text-secondary);">Nenhum registro ainda.</td></tr>';
+                    return;
+                }
+                const rows = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+                rows.sort((a, b) => {
+                    const ta = a.createdAt && a.createdAt.toMillis ? a.createdAt.toMillis() : 0;
+                    const tb = b.createdAt && b.createdAt.toMillis ? b.createdAt.toMillis() : 0;
+                    return tb - ta;
+                });
+                tbody.innerHTML = '';
+                rows.slice(0, 80).forEach((s) => {
+                    const dt = s.createdAt && s.createdAt.toDate ? s.createdAt.toDate() : null;
+                    const tr = document.createElement('tr');
+                    tr.innerHTML = `
+                        <td>${dt ? dt.toLocaleString('pt-BR') : '—'}</td>
+                        <td><code style="font-size:11px;">${(s.embaixadorId || '').replace(/</g, '')}</code></td>
+                        <td>${(s.cupom || '').replace(/</g, '')}</td>
+                        <td>${(s.planPriceKey || s.plan || '').replace(/</g, '')}</td>
+                        <td>R$ ${toCurrencyBRL(s.amountBrl)}</td>
+                        <td>${s.syncedToLocal ? '✓' : '—'}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+                showToast(`${Math.min(rows.length, 80)} registro(s) carregado(s).`);
+            } catch (e) {
+                console.error(e);
+                tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;color:#f87171;">Erro ao ler Firebase. Crie o índice composto se pedido, ou use getDocs sem orderBy.</td></tr>';
+                showToast(e.message || 'Erro ao carregar vendas Stripe', true);
+            }
+        }
+
+        async function syncPendingStripeSalesToLocal() {
+            if (!window.__adminFirebase?.auth?.currentUser) {
+                showToast('Conecte com Google (Firebase) no topo.', true);
+                return;
+            }
+            try {
+                const { collection, getDocs, doc, updateDoc } = window.__adminFirebase.fs;
+                const snap = await getDocs(collection(window.__adminFirebase.db, 'stripe_ambassador_sales'));
+                let n = 0;
+                for (const d of snap.docs) {
+                    const s = d.data();
+                    if (s.syncedToLocal) continue;
+                    const embId = s.embaixadorId;
+                    const planKey = s.planPriceKey || 'modulo';
+                    if (!embId || !ambassadorsData[embId]) {
+                        showToast(`Embaixador ${embId} não encontrado no JSON local — importe ou crie antes.`, true);
+                        continue;
+                    }
+                    const saleDate = s.createdAt && s.createdAt.toDate ? s.createdAt.toDate() : new Date();
+                    await applyAmbassadorSaleCore(embId, planKey, saleDate, s.amountBrl);
+                    await updateDoc(doc(window.__adminFirebase.db, 'stripe_ambassador_sales', d.id), { syncedToLocal: true });
+                    n += 1;
+                }
+                renderAmbassadors();
+                await _persistAmbassadors();
+                await _persistSalesMonthly();
+                showToast(n ? `${n} venda(s) sincronizada(s) para o contador local.` : 'Nada pendente.');
+            } catch (e) {
+                console.error(e);
+                showToast(e.message || 'Erro na sincronização', true);
+            }
         }
 
         function editAmbassadorModal(ambassadorId) {

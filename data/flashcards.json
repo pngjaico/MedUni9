@@ -32845,6 +32845,846 @@
         "esus"
       ],
       "id": 2340
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Antissepsia visa reduzir microrganismos onde?",
+      "verso": "Em tecido vivo, com agente químico.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "antissepsia"
+      ],
+      "id": 2341
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Definição de esterilização.",
+      "verso": "Eliminação de todas as formas de vida microbiana, inclusive esporos.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "esterilizacao"
+      ],
+      "id": 2342
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Assepsia operatória é o quê?",
+      "verso": "Medidas que impedem contaminação do campo e do ato cirúrgico.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "assepsia"
+      ],
+      "id": 2343
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Sentido clássico do preparo de pele.",
+      "verso": "Do centro para a periferia, sem retornar ao centro com a mesma compressa.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "preparo-pele"
+      ],
+      "id": 2344
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Indicador biológico do ciclo térmico valida o quê?",
+      "verso": "Letalidade microbiana efetiva do processo (ex.: esporos em rotina).",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "cme"
+      ],
+      "id": 2345
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Clorexidina alcoólica: vantagem prática.",
+      "verso": "Ação residual e início rápido; cuidado em mucosa/olho.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "clorexidina"
+      ],
+      "id": 2346
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Quebra de esterilidade percebida. Conduta?",
+      "verso": "Comunicar, repor barreiras ou material e corrigir técnica.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "campo"
+      ],
+      "id": 2347
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Indicador químico no pacote informa?",
+      "verso": "Que o pacote foi exposto ao processo; não substitui biológico sozinho.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "indicador"
+      ],
+      "id": 2348
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Erro antes da incisão após antissepsia alcoólica.",
+      "verso": "Cortar com pele ainda muito úmida ou sem respeitar secagem/tempo de ação.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "seguranca"
+      ],
+      "id": 2349
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Desinfecção vs esterilização.",
+      "verso": "Desinfecção reduz carga; esterilização visa eliminar vida microbiana total, incluindo esporos.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "conceitos"
+      ],
+      "id": 2350
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Método frequente para esterilizar artigos compatíveis.",
+      "verso": "Autoclave com vapor saturado sob pressão em ciclo validado.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "autoclave"
+      ],
+      "id": 2351
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Esterilização válida exige embalagem?",
+      "verso": "Sim: barreira adequada e rastreabilidade integram a garantia de uso.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "embalagem"
+      ],
+      "id": 2352
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Três níveis clássicos de área no bloco.",
+      "verso": "Não restrita, semirrestrita e restrita (maior controle perto do campo).",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "zonas"
+      ],
+      "id": 2353
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Fluxo limpo e contaminado.",
+      "verso": "Unidirecional, com rotas separadas para evitar contaminação cruzada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "fluxo"
+      ],
+      "id": 2354
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Roupa privativa.",
+      "verso": "Uso restrito ao bloco; barreira básica de ambiente.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "paramentacao"
+      ],
+      "id": 2355
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Área restrita inclui tipicamente.",
+      "verso": "Sala cirúrgica e adjacências críticas ao campo estéril.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "restrita"
+      ],
+      "id": 2356
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Frente do avental estéril.",
+      "verso": "Considerada zona funcionalmente estéril para manuseio próximo ao campo.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "avental"
+      ],
+      "id": 2357
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Time-out antes da incisão.",
+      "verso": "Conferir paciente, sítio, lateralidade, antibioticoprofilaxia e recursos críticos.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "timeout"
+      ],
+      "id": 2358
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Dúvida sobre contaminação.",
+      "verso": "Tratar como contaminado e repor/trocar o necessário.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "seguranca"
+      ],
+      "id": 2359
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Material estéril armazenado.",
+      "verso": "Seco, identificado, validade e integridade de embalagem conferidos.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "armazenamento"
+      ],
+      "id": 2360
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Circulante.",
+      "verso": "Apoia fora do campo sem contaminar mesa estéril aberta.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "equipe"
+      ],
+      "id": 2361
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Costas do avental e abaixo da cintura.",
+      "verso": "Não são consideradas esterilmente seguras.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "avental"
+      ],
+      "id": 2362
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Abertura de caixa cirúrgica.",
+      "verso": "Conferir integridade, umidade anormal e validade antes do uso.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "caixa"
+      ],
+      "id": 2363
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "frente": "Time-out ineficaz.",
+      "verso": "Ritual que não muda plano quando há discrepância detectada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "cultura-seguranca"
+      ],
+      "id": 2364
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Diérese.",
+      "verso": "Abertura de planos: corte, dissecção ou energia adequada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "dierese"
+      ],
+      "id": 2365
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Hemostasia.",
+      "verso": "Controle de sangramento para visibilidade e estabilidade antes de síntese.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "hemostasia"
+      ],
+      "id": 2366
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Síntese.",
+      "verso": "Reaproximação de planos com tensão e perfusão adequadas.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "sintese"
+      ],
+      "id": 2367
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Tesoura Metzenbaum.",
+      "verso": "Dissecção de tecido delicado; Mayo costuma ser para tecido mais resistente.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "instrumental"
+      ],
+      "id": 2368
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Pinça mosquito.",
+      "verso": "Hemostasia de pequenos vasos ou sangramento localizado.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "mosquito"
+      ],
+      "id": 2369
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Mesa organizada por tempos.",
+      "verso": "Setores: diérese, hemostasia, exposição, síntese.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "mesa"
+      ],
+      "id": 2370
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Porta-agulha Mayo-Hegar.",
+      "verso": "Manipula agulha e facilita sutura com técnica segura.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "porta-agulha"
+      ],
+      "id": 2371
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Erro antes de fechar.",
+      "verso": "Síntese com hemostasia incompleta do plano.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "erro"
+      ],
+      "id": 2372
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Afastador.",
+      "verso": "Mantém exposição sem ocupar ambas as mãos do auxiliar.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "afastador"
+      ],
+      "id": 2373
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Bisturi.",
+      "verso": "Incisão com controle de profundidade, tração da pele e lâmina afiada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "bisturi"
+      ],
+      "id": 2374
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Sequência didática cirurgia limpa.",
+      "verso": "Abrir/dissecar → hemostasia → revisar → fechar por planos.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "sequencia"
+      ],
+      "id": 2375
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "frente": "Pinça anatômica vs dente de rato.",
+      "verso": "Escolha conforme tecido e necessidade de tração firme ou delicada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "pinca"
+      ],
+      "id": 2376
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Cirurgião principal.",
+      "verso": "Responsável pela estratégia e decisões críticas do ato.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "cirurgiao"
+      ],
+      "id": 2377
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Primeiro auxiliar.",
+      "verso": "Exposição, tração e hemostasia auxiliar sob comando.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "auxiliar"
+      ],
+      "id": 2378
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Instrumentador.",
+      "verso": "Antecipa passos e organiza mesa; passa instrumental com segurança.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "instrumentador"
+      ],
+      "id": 2379
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Alça fechada.",
+      "verso": "Ordem, repetição e confirmação antes de uso crítico.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "comunicacao"
+      ],
+      "id": 2380
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Ergonomia em sala.",
+      "verso": "Altura da mesa, luz e apoio de braços quando possível.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "ergonomia"
+      ],
+      "id": 2381
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Aspiração.",
+      "verso": "Limpar fluidos e melhorar visão sem bloquear o gesto principal.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "aspiracao"
+      ],
+      "id": 2382
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Contagem de compressas/agulhas.",
+      "verso": "Responsabilidade coletiva com comunicação explícita.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "contagem"
+      ],
+      "id": 2383
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Passar bisturi.",
+      "verso": "Orientar lâmina e entregar com segurança, sem arremesso.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "seguranca"
+      ],
+      "id": 2384
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Segundo auxiliar.",
+      "verso": "Apoio de campo, aspiração secundária e logística em geral.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "auxiliar-2"
+      ],
+      "id": 2385
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Mudar posição na mesa.",
+      "verso": "Avisar antes para evitar tração e choque instrumental.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "equipe"
+      ],
+      "id": 2386
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Causa comum de erro.",
+      "verso": "Comando verbal ambíguo sem confirmação.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "erro"
+      ],
+      "id": 2387
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "frente": "Dúvida sobre gesto.",
+      "verso": "Esclarecer com cirurgião antes de executar.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "internato"
+      ],
+      "id": 2388
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Monofilamento vs multifilamento (capilaridade).",
+      "verso": "Monofilamento tende a menor capilaridade; multifilamento pode favorecer capilaridade.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "fios"
+      ],
+      "id": 2389
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Poliglactina 910 (Vicryl).",
+      "verso": "Absorvível multifilamentar; usos conforme plano (ex.: subcutâneo/mucosa).",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "vicryl"
+      ],
+      "id": 2390
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Polipropileno (Prolene).",
+      "verso": "Inabsorvível monofilamentar, baixa reatividade; suporte prolongado.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "prolene"
+      ],
+      "id": 2391
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Agulha cortante.",
+      "verso": "Pele e tecidos que precisam penetração cortante controlada.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "agulha"
+      ],
+      "id": 2392
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Agulha cilíndrica (taper).",
+      "verso": "Tecidos friáveis/delicados com menor talha de fibras.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "taper"
+      ],
+      "id": 2393
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Multifilamento em campo sujo.",
+      "verso": "Maior cautela (capilaridade); decisão contextual.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "infeccao"
+      ],
+      "id": 2394
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Memória do monofilamento.",
+      "verso": "Pode dificultar ajuste fino da tensão do nó se mal controlado.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "no"
+      ],
+      "id": 2395
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "PDS (polidioxanona).",
+      "verso": "Absorvível de suporte mais prolongado; útil em planos de tensão.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "pds"
+      ],
+      "id": 2396
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Nó muito apertado.",
+      "verso": "Pode comprometer perfusão e favorecer isquemia/deiscência.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "noc"
+      ],
+      "id": 2397
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Nó seguro.",
+      "verso": "Lances alternados, tensão progressiva sem estrangular borda.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "noc"
+      ],
+      "id": 2398
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Nylon (poliamida).",
+      "verso": "Inabsorvível monofilamentar comum em sutura de pele.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "nylon"
+      ],
+      "id": 2399
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "frente": "Curvatura 1/2 vs 3/8.",
+      "verso": "1/2 ajuda em espaços profundos ou restritos; 3/8 em campo mais aberto.",
+      "explicacao": "",
+      "dificuldade": 2,
+      "categoria": "material",
+      "origem": "material",
+      "tags": [
+        "agulha"
+      ],
+      "id": 2400
     }
   ]
 }

@@ -2275,8 +2275,8 @@
     "cor": "#374151",
     "descricao": "Primeiro contato com a prática cirúrgica: assepsia, paramentação, instrumentação, diérese, hemostasia e síntese.",
     "professores": [],
-    "totalCards": 0,
-    "totalQuestoes": 0,
+    "totalCards": 60,
+    "totalQuestoes": 60,
     "aulas": [
       {
         "id": "tcar_a1",

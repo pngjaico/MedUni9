@@ -37,6 +37,22 @@ Análise de 101 questões do banco atual (bcm1, bmf1, sus):
 
 ---
 
+## Meta obrigatória por aula (rodada atual)
+
+- Gerar **10 questões por `aula_id`**.
+- Distribuição fixa por lote:
+  - **2** fáceis (`dificuldade: 1`)
+  - **5** médias (`dificuldade: 2`)
+  - **3** difíceis (`dificuldade: 3`)
+- Proporção clínica:
+  - Disciplinas clínicas/morfofuncionais (ex.: BMF, Semiologia, MAD, FP): **50%** de casos clínicos (5/10).
+  - Demais disciplinas: **30% a 40%** de casos clínicos (padrão 4/10).
+- Tamanho de enunciado:
+  - **20%** das questões do lote (2/10) devem ser um pouco mais longas, sem prolixidade.
+- Se houver bloco `extra`, ele deve permanecer estritamente no escopo da aula, sem repetição de superfície do bloco `material`.
+
+---
+
 ## Formato JSON
 
 ```json
@@ -74,12 +90,13 @@ Análise de 101 questões do banco atual (bcm1, bmf1, sus):
 
 ## Posição da correta — regra obrigatória
 
-Distribua a posição correta de forma equilibrada **dentro de cada lote gerado**:
+Distribua a posição correta de forma equilibrada **em todo lote da aula** (10 ou 12 questões, ou 30 se legado):
 
-Para cada 4 questões: uma correta em A, uma em B, uma em C, uma em D.
-Para 5 questões: distribua 4 posições diferentes e repita a de maior ausência.
+- **Alvo: ~25% em cada letra** (`A`, `B`, `C`, `D`), ou seja `correta` 0/1/2/3 com contagem próxima (em lotes de 10, típico **2–3 vezes por letra**; em 12 questões, **3 vezes cada**).
+- **Proibido** viés artificial (ex.: maioria das corretas em **B**).
+- Embaralhar alternativas **depois** de redigir o conteúdo, conferir contagem e reajustar se necessário.
 
-**Nunca** concentre mais de 2 questões com a mesma posição correta em sequência.
+Evitar sequências longas e previsíveis da mesma letra correta.
 
 ---
 
@@ -104,7 +121,13 @@ Para 5 questões: distribua 4 posições diferentes e repita a de maior ausênci
 **Negativa — usar com extrema parcimônia:**
 > "Qual das alternativas NÃO é característica de X?"
 
-Limite: máximo 1 questão negativa por lote de 5. Evite se possível — a Uninove usa pouco.
+Limite: máximo 2 questões negativas por lote de 30. Evite se possível — a Uninove usa pouco.
+
+Regra crítica de estilo:
+- Não escrever enunciados metatextuais ("na aula", "sobre o tema", "conforme o material").
+- O enunciado deve avaliar conteúdo médico real (fisiologia, patologia, clínica, terapêutica), não o material didático em si.
+- Não usar template genérico com troca mínima de substantivo entre questões.
+- O nome da aula (`aula_id`) é só para indexação em `tema`, não para aparecer no enunciado.
 
 ---
 
@@ -134,6 +157,11 @@ Cada distrator deve ser um erro que alunos realmente cometem. Tipos:
 
 Tamanho: 2–4 frases. Não deve ser maior que o enunciado.
 
+Formato preferencial para integração do app:
+- `explicacao_geral`: resumo curto do raciocínio da questão.
+- `explicacoes_opcoes`: objeto com chaves `A`, `B`, `C`, `D`, cada uma com justificativa objetiva.
+- Mesmo mantendo `explicacao` em texto, garantir que as 4 alternativas fiquem explicitamente justificadas.
+
 ---
 
 ## Tipos de questão — variar por lote
@@ -146,7 +174,7 @@ Tamanho: 2–4 frases. Não deve ser maior que o enunciado.
 | Consequência patológica | Dif. 2 e 3; "o que ocorre quando X falta?" |
 | Aplicação farmacológica | Dif. 3; "qual fármaco age neste mecanismo?" |
 
-Mínimo 3 tipos diferentes por lote de 5 questões.
+Mínimo 4 tipos diferentes por lote de 30 questões.
 
 ---
 
@@ -177,5 +205,38 @@ path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-
 - `tema` com nome livre — sempre `aula_id` (`pmh_a3`, não `"Glicólise"`)
 - Mais de 1 questão sobre o mesmo subtópico por lote
 - Dupla negação no enunciado
-- Mais de 2 questões com a mesma posição de resposta correta no mesmo lote
+- Mais de 2 questões com a mesma posição de resposta correta em sequência
+- Menos de 30% de casos clínicos em matérias com perfil clínico
+- Lote sem distribuição obrigatória **2/5/3** (fácil/média/difícil)
+- Lote sem proporção clínica obrigatória (**50%** em matérias clínicas; **30-40%** nas demais)
+- Lote sem **20% de enunciados mais longos** (2/10)
 - Questões duplicando conteúdo já existente para a mesma `tema`
+- Questões em formato-template repetido com troca mínima de palavras
+- Caso clínico sem dado clínico concreto (idade, contexto, achado relevante)
+- Repetir o mesmo conjunto de `opcoes` em duas ou mais questões do mesmo `aula_id`
+- Repetir explicações-curinga iguais em várias questões do mesmo `aula_id`
+- Explicação que não comenta especificamente o conteúdo da alternativa apresentada
+
+---
+
+## Fluxo obrigatório de execução (qualidade)
+
+- Gerar **aula por aula** (não gerar disciplina/módulo inteiro de uma vez).
+- Ao finalizar um `aula_id`:
+  - validar formato e checklist;
+  - revisar repetição e naturalidade textual;
+  - só então seguir para o próximo `aula_id`.
+
+### Validação antifalha (obrigatória antes de salvar)
+
+Para cada `aula_id`, só salvar se passar em tudo:
+
+1. `enunciado`: 10 distintos em 10 questões.
+2. `opcoes`: cada questão com 4 alternativas distintas.
+3. Conjunto de `opcoes`: 10 conjuntos distintos no lote.
+4. Distratores: o mesmo texto não pode repetir em mais de 2 questões do lote.
+5. `explicacao_geral`: deve variar entre questões e refletir foco específico da pergunta.
+6. `explicacoes_opcoes`: cada letra com justificativa própria; proibido copiar a mesma frase para todas.
+7. Sem metatexto em enunciado/opções/explicações (`aula`, `material`, `tema`).
+
+Se falhar em qualquer item, descartar o lote e refazer.

@@ -3,6 +3,9 @@
     "rules": "firestore.rules",
     "indexes": "firestore.indexes.json"
   },
+  "functions": {
+    "source": "functions"
+  },
   "hosting": {
     "public": ".",
     "ignore": [
@@ -36,6 +39,18 @@
           { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" },
           { "key": "Pragma", "value": "no-cache" },
           { "key": "Expires", "value": "0" }
+        ]
+      },
+      {
+        "source": "/comprar.html",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
+        ]
+      },
+      {
+        "source": "/stripe-config.js",
+        "headers": [
+          { "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }
         ]
       },
       {

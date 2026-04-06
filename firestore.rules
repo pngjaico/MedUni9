@@ -35,6 +35,30 @@ service cloud.firestore {
       allow read, write: if false;
     }
 
+    // Stripe: extensão firestore-stripe-payments (POSTINSTALL — leitura de produtos; cliente só o próprio UID)
+    match /customers/{uid} {
+      allow read: if request.auth != null && request.auth.uid == uid;
+      match /checkout_sessions/{id} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+      match /subscriptions/{id} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+      }
+      match /payments/{id} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+      }
+    }
+
+    match /products/{productId} {
+      allow read: if true;
+      match /prices/{priceId} {
+        allow read: if true;
+      }
+      match /tax_rates/{taxRateId} {
+        allow read: if true;
+      }
+    }
+
     // Users: each user can only read/write their own profile
     match /users/{userId} {
       allow read:   if (request.auth != null && request.auth.uid == userId) || isAdmin();
@@ -87,6 +111,12 @@ service cloud.firestore {
         request.auth.token.email != null &&
         request.auth.token.email.lower() == emailDocId
       );
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Vendas Stripe com cupom de embaixador (escrita só via Cloud Function / Admin SDK)
+    match /stripe_ambassador_sales/{saleId} {
+      allow read: if isAdmin();
       allow create, update, delete: if isAdmin();
     }
   }

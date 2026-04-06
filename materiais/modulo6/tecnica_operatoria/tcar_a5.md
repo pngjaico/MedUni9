@@ -1,150 +1,151 @@
-# Fios E Agulhas Cirúrgicas
-## Relevância Clínica E Acadêmica
+# Fios e agulhas cirúrgicas
 
-A Escolha De Fio E Agulha Define Segurança, Cicatrização E Resultado Funcional.
-Na Rotina De Cirurgia Geral, Essa Decisão Não É Detalhe De Mesa: É Parte Da Conduta.
-No Raciocínio Prático Descrito Em Goffi, O Fechamento Adequado Depende De Três Eixos: Tecido, Tensão E Tempo De Suporte.
-Quando O Material É Mal Selecionado, O Procedimento Pode Evoluir Com Deiscência, Isquemia De Borda, Seroma Ou Cicatriz Inestética.
+## Relevância clínica e acadêmica
 
-## Propriedades Dos Fios: O Que Deve Guiar A Escolha
+A escolha de fio e agulha define segurança, cicatrização e resultado funcional.
+Na rotina de cirurgia geral, essa decisão não é detalhe de mesa: é parte da conduta.
+No raciocínio prático descrito em Goffi, o fechamento adequado depende de três eixos: tecido, tensão e tempo de suporte.
+Quando o material é mal selecionado, o procedimento pode evoluir com deiscência, isquemia de borda, seroma ou cicatriz inestética.
 
-### Quanto À Absorção
+## Propriedades dos fios: o que deve guiar a escolha
 
-- **Absorvíveis:** Perdem Força Tensil Progressivamente E São Degradados No Organismo.
-- **Inabsorvíveis:** Mantêm Suporte Mecânico Prolongado, Com Menor Perda De Resistência No Tempo.
+### Quanto à absorção
 
-### Quanto À Estrutura
+- **Absorvíveis:** perdem força tensil progressivamente e são degradados no organismo.
+- **Inabsorvíveis:** mantêm suporte mecânico prolongado, com menor perda de resistência no tempo.
 
-- **Monofilamentares:** Menor Arrasto Tecidual E Menor Capilaridade; Exigem Técnica De Nó Mais Cuidadosa.
-- **Multifilamentares:** Melhor Manuseio E Segurança Inicial De Nó; Podem Ter Maior Capilaridade Em Campo Contaminado.
+### Quanto à estrutura
 
-### Quanto À Origem
+- **Monofilamentares:** menor arrasto tecidual e menor capilaridade; exigem técnica de nó mais cuidadosa.
+- **Multifilamentares:** melhor manuseio e segurança inicial de nó; podem ter maior capilaridade em campo contaminado.
 
-- **Sintéticos:** Comportamento Mais Previsível, Menor Variabilidade Entre Lotes.
-- **Naturais:** Maior Reação Tecidual Em Alguns Cenários E Uso Mais Restrito Atualmente.
+### Quanto à origem
 
-## Fios Cirúrgicos Mais Usados Com Nomes Comerciais
+- **Sintéticos:** comportamento mais previsível, menor variabilidade entre lotes.
+- **Naturais:** maior reação tecidual em alguns cenários e uso mais restrito atualmente.
 
-| Fio (Genérico) | Nome Comercial Frequente | Tipo | Perfil Prático | Indicações Comuns |
+## Fios cirúrgicos mais usados com nomes comerciais
+
+| Fio (genérico) | Nome comercial frequente | Tipo | Perfil prático | Indicações comuns |
 |---|---|---|---|---|
-| Poliglactina 910 | Vicryl | Absorvível Multifilamentar | Boa Maleabilidade E Nó Seguro | Subcutâneo, Mucosa, Planos Internos |
-| Polidioxanona | PDS II | Absorvível Monofilamentar | Suporte Prolongado E Menor Arrasto | Fáscia, Parede Abdominal, Planos Sob Tensão |
-| Poliglecaprone 25 | Monocryl | Absorvível Monofilamentar | Deslizamento Fácil, Bom Acabamento | Intradérmica, Subcutâneo, Fechamento Estético |
-| Polipropileno | Prolene | Inabsorvível Monofilamentar | Baixa Reatividade Tecidual | Pele, Herniorrafia, Anastomose Vascular |
-| Poliamida (Nylon) | Ethilon / Mononylon | Inabsorvível Monofilamentar | Resistente, Acessível, Uso Amplo | Sutura Cutânea E Pontos Externos |
-| Poliéster Trançado | Ethibond | Inabsorvível Multifilamentar | Alta Resistência Com Ótimo Nó | Tendão, Fixações, Planos De Alta Carga |
-| Seda | Silk | Inabsorvível Multifilamentar | Excelente Manuseio, Maior Reatividade | Ligaduras Selecionadas, Uso Pontual |
+| Poliglactina 910 | Vicryl | absorvível multifilamentar | boa maleabilidade e nó seguro | subcutâneo, mucosa, planos internos |
+| Polidioxanona | PDS II | absorvível monofilamentar | suporte prolongado e menor arrasto | fáscia, parede abdominal, planos sob tensão |
+| Poliglecaprone 25 | Monocryl | absorvível monofilamentar | deslizamento fácil, bom acabamento | intradérmica, subcutâneo, fechamento estético |
+| Polipropileno | Prolene | inabsorvível monofilamentar | baixa reatividade tecidual | pele, herniorrafia, anastomose vascular |
+| Poliamida (nylon) | Ethilon / Mononylon | inabsorvível monofilamentar | resistente, acessível, uso amplo | sutura cutânea e pontos externos |
+| Poliéster trançado | Ethibond | inabsorvível multifilamentar | alta resistência com ótimo nó | tendão, fixações, planos de alta carga |
+| Seda | Silk | inabsorvível multifilamentar | excelente manuseio, maior reatividade | ligaduras selecionadas, uso pontual |
 
-> **Observação Prática:** Nomes Comerciais Podem Variar Por Hospital, Mas O Raciocínio De Escolha Sempre Deve Partir Do Tipo De Fio E Do Tecido.
+> **Observação prática:** nomes comerciais podem variar por hospital, mas o raciocínio de escolha sempre deve partir do tipo de fio e do tecido.
 
-## Características Que Mais Influenciam O Desfecho
+## Características que mais influenciam o desfecho
 
-| Característica | Impacto Clínico | O Que Observar Na Prática |
+| Característica | Impacto clínico | O que observar na prática |
 |---|---|---|
-| Força Tensil | Mantém Coaptação Durante Cicatrização | Escolher Suporte Compatível Com O Plano |
-| Memória Do Fio | Dificulta Ou Facilita Manuseio | Monofilamento Costuma Exigir Mais Lances |
-| Capilaridade | Pode Favorecer Migração Microbiana | Evitar Multifilamentar Sem Critério Em Contaminação |
-| Reatividade Tecidual | Aumenta Inflamação Local | Preferir Material Menos Reativo Quando Possível |
-| Arrasto Tecidual | Relacionado A Trauma De Passagem | Ajustar Calibre E Tipo De Superfície |
+| Força tensil | mantém coaptação durante cicatrização | escolher suporte compatível com o plano |
+| Memória do fio | dificulta ou facilita manuseio | monofilamentar costuma exigir mais lances |
+| Capilaridade | pode favorecer migração microbiana | evitar multifilamentar sem critério em contaminação |
+| Reatividade tecidual | aumenta inflamação local | preferir material menos reativo quando possível |
+| Arrasto tecidual | relacionado a trauma de passagem | ajustar calibre e tipo de superfície |
 
 ### Figura sugerida
 
 **Figura-ID:** `TO-A5-F01`
 
-- **Momento:** Após A Tabela De Fios E Nomes Comerciais.
-- **O Que Mostrar:** Comparação Visual Entre Monofilamentar E Multifilamentar, Com Indicação De Capilaridade E Memória.
-- **Tipo Sugerido:** Esquema Didático.
-- **Legenda (Rascunho):** Estrutura Do Fio Modifica Manuseio, Risco Local E Segurança Do Nó.
+- **Momento:** após a tabela de fios e nomes comerciais.
+- **O que mostrar:** comparação visual entre monofilamentar e multifilamentar, com indicação de capilaridade e memória.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** estrutura do fio modifica manuseio, risco local e segurança do nó.
 
-## Agulhas Cirúrgicas: Tipo De Ponta, Curvatura E Aplicação
+## Agulhas cirúrgicas: tipo de ponta, curvatura e aplicação
 
-### Tipo De Ponta
+### Tipo de ponta
 
-- **Cilíndrica (Taper):** Indicada Para Tecidos Delicados, Com Menor Corte De Fibras.
-- **Cortante Convencional:** Útil Em Pele E Tecidos Resistentes.
-- **Cortante Reversa:** Mantém Boa Penetração Com Menor Risco De Rasgo Da Borda.
+- **Cilíndrica (taper):** indicada para tecidos delicados, com menor corte de fibras.
+- **Cortante convencional:** útil em pele e tecidos resistentes.
+- **Cortante reversa:** mantém boa penetração com menor risco de rasgo da borda.
 
-### Curvatura Mais Comum
+### Curvatura mais comum
 
-- **3/8 De Círculo:** Campo Mais Aberto, Manobra Mais Fácil.
-- **1/2 Círculo:** Campo Profundo Ou Espaço Reduzido.
-- **5/8 De Círculo:** Uso Mais Específico Em Áreas De Difícil Acesso.
+- **3/8 de círculo:** campo mais aberto, manobra mais fácil.
+- **1/2 círculo:** campo profundo ou espaço reduzido.
+- **5/8 de círculo:** uso mais específico em áreas de difícil acesso.
 
-### Sequência Técnica De Empunhadura
+### Sequência técnica de empunhadura
 
-1. Prender A Agulha No Terço Proximal Com Porta-Agulha.
-2. Entrar Perpendicular À Borda Com Movimento Controlado.
-3. Seguir O Arco Da Agulha Sem Tração Bruta.
-4. Sair Em Distância Simétrica Para Coaptação Regular.
-5. Ajustar Tensão Do Nó Sem Estrangular Perfusão Da Borda.
+1. Prender a agulha no terço proximal com porta-agulha.
+2. Entrar perpendicular à borda com movimento controlado.
+3. Seguir o arco da agulha sem tração bruta.
+4. Sair em distância simétrica para coaptação regular.
+5. Ajustar tensão do nó sem estrangular perfusão da borda.
 
-## Algoritmo Prático De Escolha (Mesa De Cirurgia Geral)
+## Algoritmo prático de escolha (mesa de cirurgia geral)
 
-Perguntas-Chave Que Devem Ser Feitas Antes Do Primeiro Ponto:
-- **Qual Tecido Será Fechado?**
-- **Qual Tempo De Suporte Esse Tecido Exige?**
-- **Há Contaminação Ou Campo Potencialmente Sujo?**
-- **O Objetivo É Resistência, Estética Ou Ambos?**
+Perguntas-chave que devem ser feitas antes do primeiro ponto:
+- **Qual tecido será fechado?**
+- **Qual tempo de suporte esse tecido exige?**
+- **Há contaminação ou campo potencialmente sujo?**
+- **O objetivo é resistência, estética ou ambos?**
 
-Aplicações Frequentes:
-- **Pele:** Nylon Ou Polipropileno Com Agulha Cortante/Reversa.
-- **Subcutâneo:** Absorvível De Menor Arrasto, Com Boa Coaptação.
-- **Fáscia/Aponeurose:** Fio De Maior Suporte Tensil (Ex.: PDS), Técnica Segura De Nó.
-- **Ligadura Vascular De Pequeno Calibre:** Escolha Institucional, Com Atenção À Segurança Mecânica.
+Aplicações frequentes:
+- **Pele:** nylon ou polipropileno com agulha cortante/reversa.
+- **Subcutâneo:** absorvível de menor arrasto, com boa coaptação.
+- **Fáscia/aponeurose:** fio de maior suporte tensil (ex.: PDS), técnica segura de nó.
+- **Ligadura vascular de pequeno calibre:** escolha institucional, com atenção à segurança mecânica.
 
 ### Figura sugerida
 
 **Figura-ID:** `TO-A5-F02`
 
-- **Momento:** Após O Algoritmo De Escolha Por Plano Anatômico.
-- **O Que Mostrar:** Quadro-Resumo "Tecido -> Fio -> Agulha -> Objetivo".
-- **Tipo Sugerido:** Quadro De Bolso.
-- **Legenda (Rascunho):** Escolha Racional De Fio E Agulha Para Cada Plano Cirúrgico.
+- **Momento:** após o algoritmo de escolha por plano anatômico.
+- **O que mostrar:** quadro-resumo "tecido → fio → agulha → objetivo".
+- **Tipo sugerido:** quadro de bolso.
+- **Legenda (rascunho):** escolha racional de fio e agulha para cada plano cirúrgico.
 
-## Erros Frequentes E Como Evitar
+## Erros frequentes e como evitar
 
-- **Escolher Calibre Grosso Sem Indicação:** Aumenta Trauma E Marca Cicatricial.
-- **Apertar Nó Em Excesso:** Compromete Perfusão E Predispõe Deiscência.
-- **Ignorar Contaminação Do Campo:** Elevar Risco Infeccioso Com Escolha Inadequada.
-- **Cortar Cauda Curta Demais:** Facilita Afrouxamento Precoce.
-- **Misturar Fios Sem Estratégia De Plano:** Dificulta Revisão E Padronização Da Equipe.
+- **Escolher calibre grosso sem indicação:** aumenta trauma e marca cicatricial.
+- **Apertar nó em excesso:** compromete perfusão e predispõe deiscência.
+- **Ignorar contaminação do campo:** elevar risco infeccioso com escolha inadequada.
+- **Cortar cauda curta demais:** facilita afrouxamento precoce.
+- **Misturar fios sem estratégia de plano:** dificulta revisão e padronização da equipe.
 
-## Ponte Com A Clínica
+## Ponte com a clínica
 
-No Ambulatório De Pós-Operatório, Muitas Complicações De Ferida Refletem A Decisão De Material Feita No Centro Cirúrgico.
-Quando O Profissional Escolhe Fio E Agulha Com Critério, O Fechamento Fica Mais Seguro, O Pós-Operatório Menos Doloroso E O Resultado Estético Melhor.
-Em Técnica Cirúrgica, "Dar Ponto" Sem Entender Material É Treino Incompleto.
+No ambulatório de pós-operatório, muitas complicações de ferida refletem a decisão de material feita no centro cirúrgico.
+Quando o profissional escolhe fio e agulha com critério, o fechamento fica mais seguro, o pós-operatório menos doloroso e o resultado estético melhor.
+Em técnica cirúrgica, "dar ponto" sem entender material é treino incompleto.
 
 ---
 
-## Pontos-Chave Para Prática Diária
+## Pontos-chave para prática diária
 
-- Escolha De Fio É Decisão Biológica E Mecânica.
-- Nome Comercial Ajuda Na Logística, Mas O Critério É O Tipo Do Material.
-- Monofilamentar E Multifilamentar Têm Vantagens Diferentes.
-- Agulha Deve Ser Compatível Com Resistência E Delicadeza Do Tecido.
-- Nó Seguro Sem Estrangulamento É Parte Do Resultado.
+- Escolha de fio é decisão biológica e mecânica.
+- Nome comercial ajuda na logística, mas o critério é o tipo do material.
+- Monofilamentar e multifilamentar têm vantagens diferentes.
+- Agulha deve ser compatível com resistência e delicadeza do tecido.
+- Nó seguro sem estrangulamento é parte do resultado.
 
 ---
 
 ## Pré-Prova
 
-> Leia Isso 30 Minutos Antes Da Prova. Vai Direto Ao Ponto.
+> Leia isto 30 minutos antes da prova. Vai direto ao ponto.
 
-### Síntese Para A Prova
+### Síntese para a prova
 
-Nesta Aula, O Centro Da Decisão É Relacionar Tecido, Objetivo E Tempo De Suporte.
-Ao Escolher Fio, Pense Em Força Tensil, Estrutura E Reatividade, E Não Apenas Em Hábito De Serviço.
-Nomes Comerciais São Úteis Para Reconhecimento Prático, Mas O Fundamento Técnico Sempre É O Tipo De Material.
+Nesta aula, o centro da decisão é relacionar tecido, objetivo e tempo de suporte.
+Ao escolher fio, pense em força tensil, estrutura e reatividade, e não apenas em hábito de serviço.
+Nomes comerciais são úteis para reconhecimento prático, mas o fundamento técnico sempre é o tipo de material.
 
-### Diferenciações Que A Uninove Adora Cobrar
+### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como Diferenciar |
+| Conceito A | Conceito B | Como diferenciar |
 |---|---|---|
-| Monofilamentar | Multifilamentar | Monofilamentar Tem Menor Capilaridade; Multifilamentar Tem Melhor Manuseio De Nó |
-| Absorvível | Inabsorvível | Absorvível Perde Suporte Com O Tempo; Inabsorvível Mantém Sustentação Prolongada |
-| Ponta Cilíndrica | Ponta Cortante | Cilíndrica Para Tecido Delicado; Cortante Para Pele E Tecido Resistente |
+| Monofilamentar | Multifilamentar | monofilamentar tem menor capilaridade; multifilamentar costuma ter melhor manuseio de nó |
+| Absorvível | Inabsorvível | absorvível perde suporte com o tempo; inabsorvível mantém sustentação prolongada |
+| Ponta cilíndrica | Ponta cortante | cilíndrica para tecido delicado; cortante para pele e tecido resistente |
 
-### Frase-Âncora Para Não Esquecer
+### Frase-âncora para não esquecer
 
-> "Fio Certo, Agulha Certa, Tecido Respeitado."
+> "Fio certo, agulha certa, tecido respeitado."

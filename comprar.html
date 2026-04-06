@@ -314,9 +314,60 @@
         opacity: 0;
       }
     }
+
+    .checkout-banner {
+      display: none;
+      max-width: 720px;
+      margin: 0 auto 0;
+      padding: 12px 24px;
+      font-size: 13px;
+      line-height: 1.5;
+      border-radius: 0 0 12px 12px;
+      border: 1px solid var(--border);
+      border-top: none;
+      background: rgba(0, 180, 216, 0.1);
+      color: var(--text);
+    }
+    .checkout-banner.is-visible { display: block; }
+    .checkout-banner.success { border-color: rgba(0, 200, 150, 0.35); background: rgba(0, 200, 150, 0.12); }
+    .checkout-banner.cancel { border-color: rgba(245, 158, 11, 0.35); background: rgba(245, 158, 11, 0.08); }
+    .plan-cta:disabled { opacity: 0.55; cursor: not-allowed; transform: none !important; }
+    .plan-select {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.18);
+      background: #121c33;
+      color: #E5E7EB;
+      font-size: 14px;
+      font-family: inherit;
+      -webkit-appearance: none;
+      appearance: none;
+    }
+    .plan-select:focus {
+      outline: 2px solid rgba(0,180,216,0.45);
+      outline-offset: 1px;
+      border-color: rgba(0,180,216,0.6);
+    }
+    .plan-select option {
+      background: #121c33;
+      color: #E5E7EB;
+    }
   </style>
+  <script type="importmap">
+  {
+    "imports": {
+      "firebase/app": "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js",
+      "firebase/auth": "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js",
+      "firebase/firestore": "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js",
+      "@invertase/firestore-stripe-payments": "https://unpkg.com/@invertase/firestore-stripe-payments@0.0.8/lib/index.mjs"
+    }
+  }
+  </script>
 </head>
 <body>
+
+  <div id="checkoutBanner" class="checkout-banner" role="status"></div>
 
   <!-- Navbar -->
   <nav class="navbar">
@@ -343,8 +394,11 @@
       ✅ Ciclo Básico disponível agora &nbsp;·&nbsp; Ciclo Clínico e Internato em breve
     </div>
     <div style="margin-top:28px;max-width:420px;margin-left:auto;margin-right:auto;text-align:left;">
-      <label for="comprarEmailHint" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Email da sua conta no app <span style="font-weight:500;opacity:0.85;">(usamos para liberar o acesso após o pagamento)</span></label>
+      <label for="comprarEmailHint" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Email da sua conta no app <span style="font-weight:500;opacity:0.85;">(obrigatório para comprar — o mesmo do login no app)</span></label>
       <input id="comprarEmailHint" type="email" inputmode="email" autocomplete="email" placeholder="seu@email.com" style="width:100%;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.12);background:rgba(255,255,255,0.04);color:var(--text);font-size:14px;font-family:inherit;" />
+      <label for="comprarCupom" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;margin-top:16px;">Código de indicação <span style="font-weight:500;opacity:0.85;">(opcional — apenas para contabilizar a venda)</span></label>
+      <input id="comprarCupom" type="text" autocomplete="off" placeholder="Digite o código que a pessoa que te indicou passou" style="width:100%;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.12);background:rgba(255,255,255,0.04);color:var(--text);font-size:14px;font-family:inherit;text-transform:uppercase;" />
+      <p style="font-size:11px;color:var(--muted);margin-top:8px;line-height:1.45;">Este código não aplica desconto. Descontos (quando existirem) são aplicados apenas no checkout do Stripe, no campo de cupom promocional.</p>
     </div>
   </section>
 
@@ -372,33 +426,67 @@
   <!-- Plans -->
   <section class="plans" style="grid-template-columns:repeat(auto-fit,minmax(270px,1fr));max-width:980px;">
 
-    <!-- Gratuito -->
+    <!-- Mensal (assinatura) -->
     <div class="plan-card">
-      <div class="plan-name">Gratuito</div>
-      <div class="plan-price"><sup></sup>R$ <span>0</span></div>
-      <div class="plan-period">para sempre</div>
+      <div class="plan-name">Mensal</div>
+      <div class="plan-price" style="font-size:28px;line-height:1.2;"><span id="precoMensalLabel">Mensal · valor no checkout</span></div>
+      <div class="plan-period">1 módulo à sua escolha · renovação mensal</div>
       <div class="plan-desc">
-        Conheça o app sem compromisso. Navegue pela grade, veja o que cada módulo cobre e decida antes de comprar.
+        Escolha um único módulo (1 a 12). Enquanto a assinatura estiver ativa, esse módulo fica liberado. Você pode trocar no próximo ciclo de compra.
+      </div>
+      <div style="margin-bottom:18px;">
+        <label for="mensalModuloSelect" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Qual módulo mensal?</label>
+        <select id="mensalModuloSelect" class="plan-select">
+          <option value="1">Módulo 1</option>
+          <option value="2">Módulo 2</option>
+          <option value="3">Módulo 3</option>
+          <option value="4">Módulo 4</option>
+          <option value="5">Módulo 5</option>
+          <option value="6">Módulo 6</option>
+          <option value="7">Módulo 7</option>
+          <option value="8">Módulo 8</option>
+          <option value="9">Módulo 9</option>
+          <option value="10">Módulo 10</option>
+          <option value="11">Módulo 11</option>
+          <option value="12">Módulo 12</option>
+        </select>
       </div>
       <ul class="plan-features">
-        <li class="muted"><span class="cross">✗</span> Flashcards e revisão espaçada</li>
-        <li class="muted"><span class="cross">✗</span> Banco de questões comentadas</li>
-        <li class="muted"><span class="cross">✗</span> Materiais de apoio por aula</li>
-        <li><span class="check">✓</span> Visualização da grade de matérias</li>
-        <li><span class="check">✓</span> Dashboard de desempenho</li>
+        <li><span class="check">✓</span> 1 módulo escolhido por você (durante a assinatura)</li>
+        <li><span class="check">✓</span> Flashcards, questões e materiais</li>
+        <li><span class="check">✓</span> Revisão espaçada (SM-2)</li>
+        <li><span class="check">✓</span> Até 2 dispositivos</li>
+        <li class="muted"><span class="cross">✗</span> Acesso permanente (é mensal, não vitalício)</li>
       </ul>
-      <button class="plan-cta secondary" onclick="window.location.href='index.html'">
-        Continuar gratuitamente
+      <button type="button" class="plan-cta secondary" id="btnCheckoutMensal" data-plan="mensal">
+        Assinar mensalmente
       </button>
     </div>
 
     <!-- Por Módulo -->
     <div class="plan-card">
       <div class="plan-name">Por Módulo</div>
-      <div class="plan-price"><sup>R$</sup>39<sub>,90</sub></div>
+      <div class="plan-price"><sup>R$</sup>59<sub>,90</sub></div>
       <div class="plan-period">por módulo · acesso permanente</div>
       <div class="plan-desc">
         Escolha um módulo e tenha acesso completo a ele para sempre. Ideal para focar no semestre atual sem pagar por conteúdo que você ainda não cursa.
+      </div>
+      <div style="margin-bottom:18px;">
+        <label for="comprarModuloSelect" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Qual módulo você quer liberar?</label>
+        <select id="comprarModuloSelect" class="plan-select">
+          <option value="1">Módulo 1</option>
+          <option value="2">Módulo 2</option>
+          <option value="3">Módulo 3</option>
+          <option value="4">Módulo 4</option>
+          <option value="5">Módulo 5</option>
+          <option value="6">Módulo 6</option>
+          <option value="7">Módulo 7</option>
+          <option value="8">Módulo 8</option>
+          <option value="9">Módulo 9</option>
+          <option value="10">Módulo 10</option>
+          <option value="11">Módulo 11</option>
+          <option value="12">Módulo 12</option>
+        </select>
       </div>
       <ul class="plan-features">
         <li><span class="check">✓</span> Flashcards do módulo escolhido</li>
@@ -408,7 +496,7 @@
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
         <li class="muted"><span class="cross">✗</span> Outros módulos</li>
       </ul>
-      <button class="plan-cta secondary" onclick="openWhatsAppPurchase('Módulo', '39,90')">
+      <button type="button" class="plan-cta secondary" id="btnCheckoutModulo" data-plan="modulo">
         Quero este módulo
       </button>
     </div>
@@ -417,10 +505,17 @@
     <div class="plan-card featured premium-cycle" style="border-color:rgba(255,200,50,0.45);background:linear-gradient(160deg,rgba(255,200,50,0.10) 0%,rgba(245,158,11,0.06) 40%,rgba(0,180,216,0.04) 100%);box-shadow:0 14px 32px rgba(245,158,11,0.12);">
       <div class="plan-badge-featured" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;">🏆 Premium</div>
       <div class="plan-name" style="color:#f59e0b;">Ciclo</div>
-      <div class="plan-price"><sup>R$</sup>119<sub>,90</sub></div>
+      <div class="plan-price"><sup>R$</sup>169<sub>,90</sub></div>
       <div class="plan-period">1 ciclo completo · acesso permanente</div>
       <div class="plan-desc">
-        Compre um ciclo inteiro de uma vez (4 módulos). Hoje, o Ciclo Básico (módulos 1 a 4) já está disponível. Ciclo Clínico e Internato serão liberados em sequência.
+        Compre um ciclo inteiro de uma vez (4 módulos): escolha abaixo se quer o <strong>Ciclo Básico</strong> (1 a 4) ou o <strong>Ciclo Clínico</strong> (5 a 8), conforme disponibilidade de conteúdo no app.
+      </div>
+      <div style="margin-bottom:18px;">
+        <label for="cicloVariantSelect" style="display:block;font-size:12px;font-weight:600;color:var(--muted);margin-bottom:8px;">Qual ciclo?</label>
+        <select id="cicloVariantSelect" class="plan-select">
+          <option value="basico">Ciclo Básico — módulos 1 a 4</option>
+          <option value="clinico">Ciclo Clínico — módulos 5 a 8</option>
+        </select>
       </div>
       <ul class="plan-features">
         <li><span class="check">✓</span> 1 ciclo completo (4 módulos) por compra</li>
@@ -431,7 +526,7 @@
         <li><span class="check">✓</span> Conteúdo específico para a sua faculdade</li>
         <li><span class="check">✓</span> Acesso em até 2 dispositivos</li>
       </ul>
-      <button class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" onclick="openWhatsAppPurchase('Ciclo', '119,90')">
+      <button type="button" class="plan-cta primary" style="background:linear-gradient(90deg,#f59e0b,#ef4444);color:#1b1200;" id="btnCheckoutCiclo" data-plan="ciclo">
         Quero um Ciclo
       </button>
     </div>
@@ -444,11 +539,11 @@
 
     <div class="faq-item">
       <div class="faq-q">Como recebo acesso após a compra?</div>
-      <div class="faq-a">Após a confirmação do pagamento, a equipe libera o acesso no <strong>mesmo email da sua conta</strong> no app. Envie o comprovante pelo WhatsApp e repita esse email na mensagem para agilizarmos a liberação.</div>
+      <div class="faq-a">O pagamento é pelo <strong>Stripe</strong>. Use o <strong>mesmo email do login</strong> no campo acima. Após a confirmação, o sistema <strong>libera o acesso automaticamente</strong> nesse email (em geral em poucos minutos). É só entrar no app com o mesmo email.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">O acesso é permanente?</div>
-      <div class="faq-a">Sim. Todos os planos pagos dão acesso permanente ao conteúdo dos módulos incluídos — sem assinatura, sem renovação, sem surpresa no cartão todo mês.</div>
+      <div class="faq-a">Nos planos <strong>Por módulo</strong> e <strong>Ciclo</strong>, sim: acesso permanente ao que foi comprado. No plano <strong>Mensal</strong>, o acesso vale enquanto a assinatura estiver ativa e é renovado automaticamente a cada ciclo de cobrança.</div>
     </div>
     <div class="faq-item">
       <div class="faq-q">Quais ciclos já estão disponíveis hoje?</div>
@@ -468,16 +563,22 @@
     </div>
     <div class="faq-item">
       <div class="faq-q">Como entro em contato?</div>
-      <div class="faq-a">Pelo Instagram ou WhatsApp. O checkout via Kiwify está sendo finalizado e será integrado aqui na página.</div>
+      <div class="faq-a">Pelo Instagram ou WhatsApp para dúvidas gerais. O pagamento dos planos é feito nesta página pelo <strong>Stripe</strong> (checkout seguro).</div>
     </div>
   </section>
 
   <!-- Footer -->
   <footer class="footer">
-    MedGradPlus+ · Feito para estudantes de medicina · <a href="index.html" style="color: var(--primary); text-decoration: none;">Voltar ao app</a>
+    MedGradPlus+ · Feito para estudantes de medicina · <a href="index.html" style="color: var(--primary); text-decoration: none;">Abrir o app</a>
+    <span style="opacity:0.7;"> · </span>
+    <a href="index.html" style="color: var(--muted); text-decoration: none;">Versão gratuita limitada no app</a>
   </footer>
 
-  <script>
+  <script src="firebase-config.js"></script>
+  <script src="stripe-config.js"></script>
+  <script type="module">
+    const CHECKOUT_FN_URL = 'https://southamerica-east1-medgradplus.cloudfunctions.net/createStripeCheckoutSession';
+
     function getComprarEmailHint() {
       var el = document.getElementById('comprarEmailHint');
       var v = (el && el.value || '').trim();
@@ -492,27 +593,168 @@
       return '';
     }
 
+    function isValidEmail(s) {
+      return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s);
+    }
+
+    function getComprarCupomMeta() {
+      var cupEl = document.getElementById('comprarCupom');
+      var cupom = (cupEl && cupEl.value || '').trim().toUpperCase();
+      return { cupom: cupom };
+    }
+
+    function getCicloVariant() {
+      var sel = document.getElementById('cicloVariantSelect');
+      var v = sel && sel.value ? String(sel.value).toLowerCase() : 'basico';
+      return v === 'clinico' ? 'clinico' : 'basico';
+    }
+
+    function showCheckoutBanner() {
+      try {
+        var q = new URLSearchParams(window.location.search).get('checkout');
+        var el = document.getElementById('checkoutBanner');
+        if (!el || !q) return;
+        if (q === 'success') {
+          el.textContent = 'Pagamento concluído com sucesso. Em breve o acesso será liberado no email informado (se ainda não aparecer, confira o spam ou fale com o suporte).';
+          el.classList.add('is-visible', 'success');
+        } else if (q === 'cancel') {
+          el.textContent = 'Checkout cancelado. Você pode escolher um plano de novo quando quiser.';
+          el.classList.add('is-visible', 'cancel');
+        }
+      } catch (e) {}
+    }
+
     document.addEventListener('DOMContentLoaded', function () {
       try {
         var p = new URLSearchParams(window.location.search).get('email');
         var el = document.getElementById('comprarEmailHint');
         if (p && el) el.value = decodeURIComponent(p).trim();
+        var q = new URLSearchParams(window.location.search);
+        var cup = q.get('cupom');
+        if (cup) {
+          var cEl = document.getElementById('comprarCupom');
+          if (cEl) cEl.value = decodeURIComponent(cup).trim().toUpperCase();
+        }
       } catch (e) {}
+      showCheckoutBanner();
     });
 
-    function openWhatsAppPurchase(planName, planPrice) {
-      var emailHint = getComprarEmailHint();
-      var emailLine = emailHint
-        ? 'Email da minha conta no app (para liberar o acesso): ' + emailHint + '.'
-        : 'Ainda não preenchi o email da conta no app — peço orientação para liberar o acesso após o pagamento.';
+    var stripeCfg = window.__STRIPE_PAYMENTS__;
+    if (!stripeCfg) {
+      console.error('[comprar] stripe-config.js ausente.');
+    } else {
+      (function () {
+        var el = document.getElementById('precoMensalLabel');
+        if (el && stripeCfg.labelPrecoMensal && String(stripeCfg.labelPrecoMensal).trim()) {
+          el.textContent = String(stripeCfg.labelPrecoMensal).trim();
+        }
+      })();
 
-      var message = [
-        'Olá! Tenho interesse no plano ' + planName + ' (R$ ' + planPrice + ') do MedGrad+.',
-        emailLine,
-        'Poderia enviar a chave PIX para pagamento? Assim que eu pagar, envio o comprovante pelo WhatsApp. Obrigado!'
-      ].join(' ');
+      function getComprarModuloNum() {
+        var sel = document.getElementById('comprarModuloSelect');
+        var n = sel ? parseInt(sel.value, 10) : 0;
+        return Number.isFinite(n) && n >= 1 && n <= 12 ? n : 1;
+      }
+      function getMensalModuloNum() {
+        var sel = document.getElementById('mensalModuloSelect');
+        var n = sel ? parseInt(sel.value, 10) : 0;
+        return Number.isFinite(n) && n >= 1 && n <= 12 ? n : 1;
+      }
 
-      window.open('https://wa.me/5519997300505?text=' + encodeURIComponent(message), '_blank');
+      async function resolvePriceIdForPlan(planKey) {
+        var manual = planKey === 'mensal'
+          ? stripeCfg.priceMensal
+          : planKey === 'ciclo'
+            ? stripeCfg.priceCiclo
+            : planKey === 'modulo'
+              ? stripeCfg.pricePorModulo
+              : '';
+        if (manual && String(manual).startsWith('price_')) return manual;
+        alert('Configure os Price IDs (price_...) no stripe-config.js para este plano.');
+        return null;
+      }
+
+      function withTimeout(promise, timeoutMs, message) {
+        return Promise.race([
+          promise,
+          new Promise(function (_, reject) {
+            setTimeout(function () { reject(new Error(message)); }, timeoutMs);
+          }),
+        ]);
+      }
+
+      async function startCheckout(planKey) {
+        var email = getComprarEmailHint();
+        if (!email || !isValidEmail(email)) {
+          alert('Informe um email válido da sua conta no app antes de continuar.');
+          return;
+        }
+        var base = window.location.origin + window.location.pathname;
+        var btnMod = document.getElementById('btnCheckoutModulo');
+        var btnCic = document.getElementById('btnCheckoutCiclo');
+        var btnMen = document.getElementById('btnCheckoutMensal');
+        var busy = [btnMod, btnCic, btnMen].filter(Boolean);
+        var originalLabels = busy.map(function (b) { return b.textContent; });
+        busy.forEach(function (b) { b.disabled = true; });
+        busy.forEach(function (b) { b.textContent = 'Abrindo checkout...'; });
+        try {
+          var priceId = await resolvePriceIdForPlan(planKey);
+          if (!priceId) return;
+          var isSub = planKey === 'mensal';
+          var meta = {
+            app_email: email,
+            plan: planKey,
+          };
+          if (planKey === 'modulo') {
+            meta.modulo_num = String(getComprarModuloNum());
+          }
+          if (planKey === 'ciclo') {
+            meta.ciclo_variant = getCicloVariant();
+          }
+          if (planKey === 'mensal') {
+            meta.modulo_num = String(getMensalModuloNum());
+          }
+          var cm = getComprarCupomMeta();
+          if (cm.cupom) meta.cupom = cm.cupom;
+          var response = await withTimeout(
+            fetch(CHECKOUT_FN_URL, {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({
+                price: priceId,
+                mode: isSub ? 'subscription' : 'payment',
+                success_url: base + '?checkout=success',
+                cancel_url: base + '?checkout=cancel',
+                metadata: meta,
+              }),
+            }),
+            30000,
+            'Timeout ao criar sessão de checkout. Verifique a função createStripeCheckoutSession no Firebase.'
+          );
+          var payload = await response.json().catch(function () { return null; });
+          if (!response.ok) {
+            throw new Error((payload && payload.error) ? payload.error : 'Falha ao iniciar checkout.');
+          }
+          if (payload && payload.url) {
+            window.location.assign(payload.url);
+            return;
+          }
+          alert('Não foi possível abrir o checkout. Tente de novo em instantes.');
+        } catch (err) {
+          console.error(err);
+          var msg = (err && err.message) ? err.message : 'Erro ao iniciar pagamento.';
+          alert(msg);
+        } finally {
+          busy.forEach(function (b, i) { b.disabled = false; b.textContent = originalLabels[i] || b.textContent; });
+        }
+      }
+
+      var btnM = document.getElementById('btnCheckoutModulo');
+      var btnC = document.getElementById('btnCheckoutCiclo');
+      var btnZ = document.getElementById('btnCheckoutMensal');
+      if (btnM) btnM.addEventListener('click', function () { startCheckout('modulo'); });
+      if (btnC) btnC.addEventListener('click', function () { startCheckout('ciclo'); });
+      if (btnZ) btnZ.addEventListener('click', function () { startCheckout('mensal'); });
     }
   </script>
 

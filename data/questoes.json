@@ -1259,23 +1259,6 @@
       "modulo": 1
     },
     {
-      "id": 66,
-      "materia": "sus",
-      "enunciado": "Os determinantes sociais de saúde (DSS) referem-se a quais tipos de fatores que influenciam o adoecimento da população?",
-      "opcoes": [
-        "A) Apenas fatores genéticos e hereditários individuais",
-        "B) Fatores sociais, econômicos, culturais, étnicos, psicológicos e comportamentais que influenciam a ocorrência de problemas de saúde",
-        "C) Exclusivamente condições ambientais de poluição e contaminação",
-        "D) Somente acesso a serviços médicos especializados",
-        "E) Apenas nível educacional e renda familiar"
-      ],
-      "correta": 1,
-      "explicacao": "Os DSS são fatores que vão além da biologia individual, incluindo condições socioeconômicas, culturais, étnicas, psicológicas e comportamentais. Eles explicam desigualdades em saúde e orientam políticas de saúde mais equitativas.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "modulo": 1
-    },
-    {
       "id": 67,
       "materia": "sus",
       "enunciado": "No MCCP (Método Clínico Centrado na Pessoa), qual é a principal diferença em relação ao modelo biomédico tradicional?",
@@ -1307,222 +1290,6 @@
       "explicacao": "O ACS tem atribuição exclusiva de visitar cada domicílio pelo menos uma vez por mês e ser o elo entre a comunidade e a equipe de saúde. Ele cadastra famílias, identifica problemas de saúde e estimula práticas saudáveis.",
       "tema": "sus_a8",
       "dificuldade": 2,
-      "modulo": 1
-    },
-    {
-      "id": 69,
-      "materia": "sus",
-      "enunciado": "Durante uma corrida matinal na orla, um jovem encontra um senhor caído sem movimentos. Após confirmar parada cardiorrespiratória (PCR), qual deve ser a primeira ação do socorrista leigo segundo o BLS (Suporte Básico de Vida)?",
-      "opcoes": [
-        "A) Iniciar ventilação boca-a-boca imediatamente",
-        "B) Checar pulso carotídeo por 30 segundos antes de qualquer ação",
-        "C) Ligar para o SAMU (192) ou solicitar que alguém ligue, e iniciar compressões torácicas de alta qualidade",
-        "D) Aguardar a chegada do SAMU para iniciar o atendimento",
-        "E) Colocar a vítima em decúbito lateral de segurança"
-      ],
-      "correta": 2,
-      "explicacao": "No BLS, após confirmar que a vítima não responde e não respira normalmente: (1) Acionar serviço de emergência (192/193), (2) Solicitar DEA, (3) Iniciar compressões torácicas (100-120/min, 5-6cm de profundidade). A checagem de pulso é feita em até 10 segundos (não 30).",
-      "tema": "sus_a1",
-      "subfocos": [
-        "pcr",
-        "rcp",
-        "dea",
-        "bls"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 70,
-      "materia": "sus",
-      "enunciado": "Durante uma PCR, o DEA (Desfibrilador Externo Automático) é instalado e ao analisar o ritmo cardíaco sinaliza que o choque NÃO é recomendado. Qual a conduta a ser tomada nesse momento?",
-      "opcoes": [
-        "A) Interromper a RCP e aguardar o SAMU",
-        "B) Reiniciar compressões torácicas imediatamente por 2 minutos e reavaliar",
-        "C) Desligar o DEA e colocar a vítima em posição lateral de segurança",
-        "D) Verificar pulso e, se ausente, administrar adrenalina IM",
-        "E) Realizar apenas ventilação assistida sem compressões"
-      ],
-      "correta": 1,
-      "explicacao": "Quando o DEA indica 'choque não recomendado', significa que o ritmo é assistolia ou AESP (ritmos não chocáveis). A conduta é reiniciar RCP imediatamente (ciclos de 30:2) por 2 minutos até nova análise do DEA. NÃO se interrompe a RCP.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "dea",
-        "pcr",
-        "ritmo_nao_chocavel"
-      ],
-      "dificuldade": 2,
-      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 71,
-      "materia": "sus",
-      "enunciado": "Uma pessoa em um restaurante apresenta obstrução total de vias aéreas por alimento (engasgo). Qual manobra de primeiros socorros deve ser aplicada para desobstruir as vias aéreas?",
-      "opcoes": [
-        "A) Manobra de Sellick",
-        "B) Manobra de Heimlich (compressões abdominais subdiafragmáticas)",
-        "C) Manobra de Valsalva",
-        "D) Manobra de jaw thrust",
-        "E) Manobra de chin lift"
-      ],
-      "correta": 1,
-      "explicacao": "A manobra de Heimlich consiste em compressões abdominais subdiafragmáticas para criar pressão positiva nas vias aéreas e expulsar o corpo estranho. Em gestantes e obesos, utilizam-se compressões torácicas. Em lactentes, alternância de 5 tapas dorsais com 5 compressões torácicas.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "obstrucao_vias_aereas",
-        "heimlich",
-        "engasgo"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 72,
-      "materia": "sus",
-      "enunciado": "Em um desastre em massa, uma vítima encontra-se desacordada, soterrada por 3 horas, com fratura exposta e perda de sangue em membro inferior. Na triagem pelo método START, esta paciente é classificada como:",
-      "opcoes": [
-        "A) Verde — pode aguardar atendimento (ferimento leve)",
-        "B) Amarelo — prioridade intermediária",
-        "C) Vermelho — prioridade imediata (imediato)",
-        "D) Preto — expectante ou óbito",
-        "E) Branco — sem lesões"
-      ],
-      "correta": 2,
-      "explicacao": "No método START, pacientes desacordados com sangramento ativo e fraturas expostas são classificados como VERMELHO (prioridade imediata). Avaliam-se: deambulação, respiração, circulação (pulso/enchimento capilar) e status neurológico. Desacordada + hemorragia = vermelha.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "triagem",
-        "start",
-        "desastre_massa"
-      ],
-      "dificuldade": 2,
-      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 73,
-      "materia": "sus",
-      "enunciado": "Paciente sofreu queimadura classificada como de 2º grau na porção anterior do membro superior direito e tronco anterior. A queimadura de 2º grau atinge quais camadas da pele?",
-      "opcoes": [
-        "A) Apenas a epiderme",
-        "B) Epiderme e parte da derme (com formação de bolhas/flictenas)",
-        "C) Apenas a derme",
-        "D) Epiderme, derme e tecido subcutâneo",
-        "E) Todas as camadas até o tecido muscular"
-      ],
-      "correta": 1,
-      "explicacao": "A queimadura de 2º grau (espessura parcial) atinge epiderme e parte da derme. Caracteriza-se por bolhas (flictenas), dor intensa e hiperemia. A de 1º grau atinge apenas epiderme (eritema). A de 3º grau atinge epiderme, derme completa e tecido subcutâneo (indolor, escaras).",
-      "tema": "sus_a1",
-      "subfocos": [
-        "queimaduras",
-        "classificacao",
-        "graus"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 74,
-      "materia": "sus",
-      "enunciado": "Paciente apresenta temperatura axilar de 36,5°C, PA de 110x80 mmHg e FC de 112 bpm. Como você classifica os sinais vitais deste paciente?",
-      "opcoes": [
-        "A) Febril, hipertenso e taquicárdico",
-        "B) Afebril, normotenso e taquicárdico",
-        "C) Febril, hipotenso e normocárdico",
-        "D) Afebril, hipertenso e bradicárdico",
-        "E) Afebril, normotenso e normocárdico"
-      ],
-      "correta": 1,
-      "explicacao": "Temperatura de 36,5°C é afebril (febre ≥37,8°C). PA de 110x80 mmHg é normal. FC de 112 bpm é taquicardia (normal: 60-100 bpm). Bradicardia é FC <60 bpm. Portanto: afebril, normotenso, taquicárdico.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "fc",
-        "taquicardia",
-        "bradicardia",
-        "sinais_vitais"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 75,
-      "materia": "sus",
-      "enunciado": "Antes de aferir a pressão arterial de um paciente, é necessário observar certos cuidados. Qual das afirmativas está CORRETA sobre a técnica de aferição?",
-      "opcoes": [
-        "A) O paciente pode ter ingerido café ou fumado imediatamente antes, sem interferência",
-        "B) Deve-se certificar que o paciente não está com bexiga cheia e que não ingeriu cafeína nos últimos 30 minutos",
-        "C) A posição do manguito não interfere nos valores da PA",
-        "D) A PA deve ser aferida apenas com o paciente em decúbito dorsal",
-        "E) O manguito deve ser colocado sobre a roupa para maior conforto"
-      ],
-      "correta": 1,
-      "explicacao": "Para aferição correta da PA: paciente deve estar sentado, com braço apoiado na altura do coração, bexiga vazia, sem ter fumado ou ingerido cafeína nos últimos 30 min. A cafeína estimula o sistema nervoso simpático, elevando artificialmente a PA.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "pa",
-        "aferir_pressao",
-        "cuidados_pa"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 76,
-      "materia": "sus",
-      "enunciado": "Na prática da Semiologia Médica, qual afirmativa melhor diferencia sinais de sintomas?",
-      "opcoes": [
-        "A) Sinais são subjetivos e relatados pelo paciente; sintomas são objetivos e detectados pelo médico",
-        "B) Sinais são achados objetivos detectáveis pelo médico ao exame; sintomas são manifestações subjetivas percebidas e relatadas pelo paciente",
-        "C) Ambos são sinônimos — não há diferença prática entre sinal e sintoma",
-        "D) Sinais só podem ser detectados por exames laboratoriais; sintomas por exame físico",
-        "E) Sinais são irrelevantes para a formulação de hipóteses diagnósticas"
-      ],
-      "correta": 1,
-      "explicacao": "Sinais são achados objetivos identificados pelo exame (febre, edema, sopro, crepitação). Sintomas são manifestações subjetivas relatadas pelo paciente (dor, tontura, náusea, prurido). A semiologia integra ambos para construir o raciocínio diagnóstico.",
-      "tema": "sus_a1",
-      "subfocos": [
-        "sinais_sintomas",
-        "semiologia_basica"
-      ],
-      "dificuldade": 1,
-      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
-      "ano": 2024,
-      "modulo": 1
-    },
-    {
-      "id": 77,
-      "materia": "sus",
-      "enunciado": "Paciente vítima de trauma cranioencefálico apresenta abertura ocular à dor, resposta verbal com sons incompreensíveis e resposta motora de retirada. Qual o escore na Escala de Coma de Glasgow?",
-      "opcoes": [
-        "A) GCS = 6 (Abrir olhos: 1 + Verbal: 2 + Motor: 3)",
-        "B) GCS = 8 (Abrir olhos: 2 + Verbal: 2 + Motor: 4)",
-        "C) GCS = 9 (Abrir olhos: 2 + Verbal: 3 + Motor: 4)",
-        "D) GCS = 10 (Abrir olhos: 3 + Verbal: 3 + Motor: 4)",
-        "E) GCS = 12 (Abrir olhos: 3 + Verbal: 4 + Motor: 5)"
-      ],
-      "correta": 1,
-      "explicacao": "Escala de Glasgow: Abertura ocular à dor = 2; Resposta verbal com sons incompreensíveis = 2; Resposta motora de retirada = 4. Total = 8. GCS ≤8 indica necessidade de proteção de via aérea (IOT). Mínimo = 3 (sem resposta). Máximo = 15 (normal).",
-      "tema": "sus_a1",
-      "subfocos": [
-        "glasgow",
-        "nivel_consciencia"
-      ],
-      "dificuldade": 2,
-      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
-      "ano": 2024,
       "modulo": 1
     },
     {
@@ -1789,166 +1556,6 @@
       "modulo": 1
     },
     {
-      "id": 89,
-      "materia": "sus",
-      "enunciado": "Um estudante de medicina precisa distinguir entre sinal e sintoma durante a anamnese. Qual conceito melhor define um SINTOMA?",
-      "opcoes": [
-        "A) Achado detectado pelo médico durante o exame físico, como crepitação pulmonar",
-        "B) Manifestação percebida e relatada pelo próprio paciente, como dor ou tontura",
-        "C) Resultado de exame laboratorial alterado",
-        "D) Conjunto de alterações associadas a mais de uma causa",
-        "E) Dado observado pelo médico durante a ausculta"
-      ],
-      "correta": 1,
-      "explicacao": "Sintoma é toda manifestação subjetiva percebida e relatada pelo próprio paciente (dor, fraqueza, tontura, dispneia). Sinal, ao contrário, é objetivamente detectado pelo médico ou por exames. A distinção é fundamental para a anamnese estruturada.",
-      "tema": "sus_a1",
-      "dificuldade": 1,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 90,
-      "materia": "sus",
-      "enunciado": "Durante uma consulta, o médico identifica um agrupamento de alterações fisiopatológicas que não possuem causa única definida. Este conjunto é denominado:",
-      "opcoes": [
-        "A) Diagnóstico definitivo",
-        "B) Sinal patognomônico",
-        "C) Síndrome",
-        "D) Doença crônica",
-        "E) Evento adverso"
-      ],
-      "correta": 2,
-      "explicacao": "Síndrome é um conjunto de sinais e sintomas associados a mais de uma causa possível. Difere de doença, que tem etiologia única e bem definida. Exemplos: síndrome metabólica, síndrome de Turner, síndrome de Down.",
-      "tema": "sus_a1",
-      "dificuldade": 1,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 91,
-      "materia": "sus",
-      "enunciado": "Uma adolescente de 16 anos com baixa estatura, amenorreia primária, pescoço alado e desenvolvimento sexual incompleto é investigada geneticamente. Qual alteração cromossômica melhor explica esse quadro?",
-      "opcoes": [
-        "A) Trissomia de cromossomo autossômico (ex: síndrome de Down)",
-        "B) Trissomia do cromossomo sexual (47,XXY — síndrome de Klinefelter)",
-        "C) Monossomia do cromossomo sexual (45,X0 — síndrome de Turner)",
-        "D) Inversão cromossômica",
-        "E) Translocação robertsoniana"
-      ],
-      "correta": 2,
-      "explicacao": "A Síndrome de Turner (45,X0) é uma monossomia do cromossomo X. Caracteriza-se por baixa estatura, amenorreia primária, pescoço alado (pterígio), infantilismo sexual e infertilidade. Klinefelter (47,XXY) afeta homens.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 92,
-      "materia": "sus",
-      "enunciado": "Segundo a Sociedade Brasileira de Endocrinologia, quais parâmetros são utilizados no diagnóstico de síndrome metabólica?",
-      "opcoes": [
-        "A) Proteína C reativa, ultrassonografia hepática e ferritina sérica",
-        "B) Pressão arterial, colesterol total e insulinemia de jejum",
-        "C) Obesidade central, glicemia alterada e HDL-colesterol reduzido",
-        "D) Tabagismo, TSH e história familiar de diabetes mellitus",
-        "E) Troponina, creatinina e LDH"
-      ],
-      "correta": 2,
-      "explicacao": "A síndrome metabólica é diagnosticada pela presença de obesidade central (circunferência abdominal aumentada) associada a pelo menos dois dos seguintes: glicemia alterada, HDL baixo, triglicerídeos elevados e hipertensão arterial.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 93,
-      "materia": "sus",
-      "enunciado": "A aterosclerose é uma condição sistêmica, crônica e progressiva. Qual dos fatores de risco abaixo está diretamente relacionado tanto ao desenvolvimento da aterosclerose quanto da síndrome metabólica?",
-      "opcoes": [
-        "A) Hipercolesterolemia (LDL elevado)",
-        "B) Alcoolismo moderado",
-        "C) Sedentarismo isolado",
-        "D) Tabagismo exclusivo",
-        "E) Hipotireoidismo subclínico"
-      ],
-      "correta": 0,
-      "explicacao": "A hipercolesterolemia (LDL elevado) é fator de risco central da aterosclerose (depósito de lipoproteínas na íntima vascular) e da síndrome metabólica (dislipidemia). Está diretamente ligada à formação de placas ateroscleróticas.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 94,
-      "materia": "sus",
-      "enunciado": "Um lactente apresenta sopro cardíaco e, após investigação, é diagnosticado com defeito do septo interatrial (CIA). Em um adulto saudável, qual estrutura impede a comunicação entre os átrios?",
-      "opcoes": [
-        "A) Septo interventricular",
-        "B) Valva tricúspide",
-        "C) Septo interatrial (com a fossa oval)",
-        "D) Óstio atrioventricular",
-        "E) Cordas tendíneas"
-      ],
-      "correta": 2,
-      "explicacao": "O septo interatrial, que contém a fossa oval (resquício do forame oval fetal), separa os átrios em adultos normais. Na CIA, esse septo não se fecha completamente, permitindo comunicação entre átrio direito e esquerdo.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 95,
-      "materia": "sus",
-      "enunciado": "Um adulto saudável apresenta, na ecocardiografia, uma estrutura oval na parede medial do átrio direito. Esta estrutura é o resquício de qual estrutura fetal?",
-      "opcoes": [
-        "A) Septo interventricular",
-        "B) Forame de Botalo / Forame oval",
-        "C) Valva de Eustáquio",
-        "D) Veia umbilical",
-        "E) Ductus arteriosus"
-      ],
-      "correta": 1,
-      "explicacao": "A fossa oval é o resquício do forame oval, estrutura que durante a vida intrauterina permite comunicação entre os átrios (shunt direito-esquerdo). Fecha-se funcionalmente ao nascimento e anatomicamente nas primeiras semanas de vida.",
-      "tema": "sus_a1",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 96,
-      "materia": "sus",
-      "enunciado": "O infarto agudo do miocárdio ocorre pela obstrução do fluxo sanguíneo em qual artéria que irriga o músculo cardíaco?",
-      "opcoes": [
-        "A) Artéria braquiocefálica",
-        "B) Artéria aorta descendente",
-        "C) Artéria coronária",
-        "D) Artéria carótida comum",
-        "E) Artéria subclávia"
-      ],
-      "correta": 2,
-      "explicacao": "As artérias coronárias (direita e esquerda) são os ramos da aorta ascendente responsáveis pela irrigação do miocárdio. A obstrução de um ramo coronário por placa aterosclerótica rompida causa o infarto agudo do miocárdio.",
-      "tema": "sus_a1",
-      "dificuldade": 1,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
       "id": 97,
       "materia": "sus",
       "enunciado": "O Sistema Único de Saúde (SUS) pode ser entendido como a política de saúde que busca principalmente:",
@@ -2002,26 +1609,6 @@
       "correta": 1,
       "explicacao": "A territorialização é o processo pelo qual as equipes de saúde conhecem e delimitam o território de atuação, mapeando famílias, identificando problemas de saúde e planejando ações estratégicas para a população adscrita.",
       "tema": "sus_a8",
-      "dificuldade": 2,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1
-    },
-    {
-      "id": 100,
-      "materia": "sus",
-      "enunciado": "Uma pesquisa sobre COVID-19 apresenta uma coluna com 'incidência por 100 mil habitantes'. Qual tipo de medida estatística é essa?",
-      "opcoes": [
-        "A) Frequência absoluta (número bruto de casos)",
-        "B) Frequência relativa — taxa ou proporção por tamanho populacional",
-        "C) Risco relativo entre grupos expostos e não expostos",
-        "D) Razão de chances (odds ratio)",
-        "E) Número absoluto de óbitos"
-      ],
-      "correta": 1,
-      "explicacao": "Incidência por 100 mil habitantes é uma medida de frequência relativa (taxa), pois relaciona o número de casos à população de referência. Medidas absolutas são apenas os contadores brutos; as relativas permitem comparar populações diferentes.",
-      "tema": "sus_a1",
       "dificuldade": 2,
       "fonte": "Prova Semestral",
       "ano": 2024,
@@ -3577,6 +3164,1616 @@
       "subfoco": "fluoroquinolonas-topoisomerase",
       "dificuldade": 1,
       "modulo": 1
+    },
+    {
+      "id": 192,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Na análise do processo saúde-doença, qual afirmação melhor representa o conceito de determinação social da saúde?",
+      "opcoes": [
+        "A) O adoecimento resulta apenas de escolhas individuais, independentemente do contexto.",
+        "B) Determinantes sociais impactam somente doenças infecciosas.",
+        "C) O território é irrelevante para planejamento em atenção primária.",
+        "D) Fatores sociais, econômicos e ambientais influenciam risco, acesso e desfecho em saúde."
+      ],
+      "correta": 3,
+      "dificuldade": 1,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: O adoecimento resulta apenas de escolhas individuais, independentemente do contexto.",
+        "B": "Incorreta: Determinantes sociais impactam somente doenças infecciosas.",
+        "C": "Incorreta: O território é irrelevante para planejamento em atenção primária.",
+        "D": "Correta: Fatores sociais, econômicos e ambientais influenciam risco, acesso e desfecho em saúde."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: O adoecimento resulta apenas de escolhas individuais, independentemente do contexto.\nB) INCORRETA. Incorreta: Determinantes sociais impactam somente doenças infecciosas.\nC) INCORRETA. Incorreta: O território é irrelevante para planejamento em atenção primária.\nD) CORRETA. Correta: Fatores sociais, econômicos e ambientais influenciam risco, acesso e desfecho em saúde."
+    },
+    {
+      "id": 193,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Paciente de 44 anos com hipertensão não controlada mora em área com baixa oferta de alimentos in natura e longas jornadas de trabalho. Qual conduta da equipe de APS está mais alinhada ao enfrentamento de vulnerabilidade social?",
+      "opcoes": [
+        "A) Construir plano terapêutico com metas factíveis e articulação com recursos comunitários.",
+        "B) Repetir prescrição e responsabilizar exclusivamente o paciente pela adesão.",
+        "C) Encerrar seguimento por baixa adesão inicial.",
+        "D) Encaminhar automaticamente para alta complexidade."
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Construir plano terapêutico com metas factíveis e articulação com recursos comunitários.",
+        "B": "Incorreta: Repetir prescrição e responsabilizar exclusivamente o paciente pela adesão.",
+        "C": "Incorreta: Encerrar seguimento por baixa adesão inicial.",
+        "D": "Incorreta: Encaminhar automaticamente para alta complexidade."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) CORRETA. Correta: Construir plano terapêutico com metas factíveis e articulação com recursos comunitários.\nB) INCORRETA. Incorreta: Repetir prescrição e responsabilizar exclusivamente o paciente pela adesão.\nC) INCORRETA. Incorreta: Encerrar seguimento por baixa adesão inicial.\nD) INCORRETA. Incorreta: Encaminhar automaticamente para alta complexidade."
+    },
+    {
+      "id": 194,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Em epidemiologia social, qual exemplo caracteriza iniquidade em saúde?",
+      "opcoes": [
+        "A) Diferença de incidência entre faixas etárias por curso natural de vida.",
+        "B) Variação sazonal de doenças respiratórias.",
+        "C) Maior mortalidade evitável em grupos socialmente vulneráveis por barreiras de acesso.",
+        "D) Diferença entre métodos diagnósticos com sensibilidades distintas."
+      ],
+      "correta": 2,
+      "dificuldade": 1,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Diferença de incidência entre faixas etárias por curso natural de vida.",
+        "B": "Incorreta: Variação sazonal de doenças respiratórias.",
+        "C": "Correta: Maior mortalidade evitável em grupos socialmente vulneráveis por barreiras de acesso.",
+        "D": "Incorreta: Diferença entre métodos diagnósticos com sensibilidades distintas."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Diferença de incidência entre faixas etárias por curso natural de vida.\nB) INCORRETA. Incorreta: Variação sazonal de doenças respiratórias.\nC) CORRETA. Correta: Maior mortalidade evitável em grupos socialmente vulneráveis por barreiras de acesso.\nD) INCORRETA. Incorreta: Diferença entre métodos diagnósticos com sensibilidades distintas."
+    },
+    {
+      "id": 195,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Paciente de 29 anos com diabetes tipo 1 falta repetidamente às consultas por dificuldade de transporte e cuidado de filhos. Qual abordagem é mais adequada pela lógica do cuidado centrado em vulnerabilidades?",
+      "opcoes": [
+        "A) Classificar como desinteresse e reduzir frequência de acompanhamento.",
+        "B) Reorganizar acompanhamento com apoio matricial e estratégias de acesso territorial.",
+        "C) Suspender monitoramento até melhora espontânea do vínculo.",
+        "D) Priorizar somente ajustes de insulina sem investigar barreiras."
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Classificar como desinteresse e reduzir frequência de acompanhamento.",
+        "B": "Correta: Reorganizar acompanhamento com apoio matricial e estratégias de acesso territorial.",
+        "C": "Incorreta: Suspender monitoramento até melhora espontânea do vínculo.",
+        "D": "Incorreta: Priorizar somente ajustes de insulina sem investigar barreiras."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Classificar como desinteresse e reduzir frequência de acompanhamento.\nB) CORRETA. Correta: Reorganizar acompanhamento com apoio matricial e estratégias de acesso territorial.\nC) INCORRETA. Incorreta: Suspender monitoramento até melhora espontânea do vínculo.\nD) INCORRETA. Incorreta: Priorizar somente ajustes de insulina sem investigar barreiras."
+    },
+    {
+      "id": 196,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Mulher de 63 anos, viúva, com depressão e dor crônica, vive sozinha e sem renda estável. Na estratificação de risco em APS, qual interpretação é mais consistente com o modelo biopsicossocial?",
+      "opcoes": [
+        "A) Tratar apenas o sintoma predominante e postergar avaliação social.",
+        "B) Limitar conduta a encaminhamento único para especialista.",
+        "C) Aguardar agravamento para acionar rede intersetorial.",
+        "D) Integrar condições clínicas, saúde mental, suporte social e funcionalidade no plano de cuidado."
+      ],
+      "correta": 3,
+      "dificuldade": 3,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Tratar apenas o sintoma predominante e postergar avaliação social.",
+        "B": "Incorreta: Limitar conduta a encaminhamento único para especialista.",
+        "C": "Incorreta: Aguardar agravamento para acionar rede intersetorial.",
+        "D": "Correta: Integrar condições clínicas, saúde mental, suporte social e funcionalidade no plano de cuidado."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Tratar apenas o sintoma predominante e postergar avaliação social.\nB) INCORRETA. Incorreta: Limitar conduta a encaminhamento único para especialista.\nC) INCORRETA. Incorreta: Aguardar agravamento para acionar rede intersetorial.\nD) CORRETA. Correta: Integrar condições clínicas, saúde mental, suporte social e funcionalidade no plano de cuidado."
+    },
+    {
+      "id": 197,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Qual indicador é mais útil para monitorar impacto de desigualdade social sobre desfechos sanitários em território adscrito?",
+      "opcoes": [
+        "A) Taxa de mortalidade infantil estratificada por área de vulnerabilidade.",
+        "B) Número absoluto de consultas médicas no município.",
+        "C) Quantidade de protocolos clínicos publicados no ano.",
+        "D) Média de permanência hospitalar estadual sem recorte territorial."
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Taxa de mortalidade infantil estratificada por área de vulnerabilidade.",
+        "B": "Incorreta: Número absoluto de consultas médicas no município.",
+        "C": "Incorreta: Quantidade de protocolos clínicos publicados no ano.",
+        "D": "Incorreta: Média de permanência hospitalar estadual sem recorte territorial."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) CORRETA. Correta: Taxa de mortalidade infantil estratificada por área de vulnerabilidade.\nB) INCORRETA. Incorreta: Número absoluto de consultas médicas no município.\nC) INCORRETA. Incorreta: Quantidade de protocolos clínicos publicados no ano.\nD) INCORRETA. Incorreta: Média de permanência hospitalar estadual sem recorte territorial."
+    },
+    {
+      "id": 198,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Paciente de 51 anos com DPOC mora em domicílio com exposição contínua à fumaça de biomassa. Qual intervenção da equipe tem maior potencial de reduzir risco clínico e reincidência?",
+      "opcoes": [
+        "A) Focar apenas broncodilatador de resgate sem ações no ambiente doméstico.",
+        "B) Associar manejo farmacológico com intervenção educativa e redução de exposição domiciliar.",
+        "C) Encaminhar para internação preventiva prolongada.",
+        "D) Restringir cuidado ao atendimento de exacerbações agudas."
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Focar apenas broncodilatador de resgate sem ações no ambiente doméstico.",
+        "B": "Correta: Associar manejo farmacológico com intervenção educativa e redução de exposição domiciliar.",
+        "C": "Incorreta: Encaminhar para internação preventiva prolongada.",
+        "D": "Incorreta: Restringir cuidado ao atendimento de exacerbações agudas."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Focar apenas broncodilatador de resgate sem ações no ambiente doméstico.\nB) CORRETA. Correta: Associar manejo farmacológico com intervenção educativa e redução de exposição domiciliar.\nC) INCORRETA. Incorreta: Encaminhar para internação preventiva prolongada.\nD) INCORRETA. Incorreta: Restringir cuidado ao atendimento de exacerbações agudas."
+    },
+    {
+      "id": 199,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "No planejamento local em saúde, qual afirmação sobre território está correta?",
+      "opcoes": [
+        "A) Território é apenas divisão geográfica administrativa, sem dimensão social.",
+        "B) Território deve ser considerado somente em vigilância de doenças transmissíveis.",
+        "C) Território inclui dinâmica social, rede de apoio e condições de vida que afetam risco e cuidado.",
+        "D) A adscrição territorial limita atuação intersetorial da equipe."
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Território é apenas divisão geográfica administrativa, sem dimensão social.",
+        "B": "Incorreta: Território deve ser considerado somente em vigilância de doenças transmissíveis.",
+        "C": "Correta: Território inclui dinâmica social, rede de apoio e condições de vida que afetam risco e cuidado.",
+        "D": "Incorreta: A adscrição territorial limita atuação intersetorial da equipe."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Território é apenas divisão geográfica administrativa, sem dimensão social.\nB) INCORRETA. Incorreta: Território deve ser considerado somente em vigilância de doenças transmissíveis.\nC) CORRETA. Correta: Território inclui dinâmica social, rede de apoio e condições de vida que afetam risco e cuidado.\nD) INCORRETA. Incorreta: A adscrição territorial limita atuação intersetorial da equipe."
+    },
+    {
+      "id": 200,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Paciente de 36 anos com obesidade, ansiedade e insegurança alimentar apresenta piora metabólica. A equipe discute cuidado longitudinal. Qual estratégia aumenta chance de efetividade terapêutica nesse contexto?",
+      "opcoes": [
+        "A) Definir metas rígidas padronizadas sem negociação com o paciente.",
+        "B) Fragmentar condutas em consultas isoladas sem coordenação.",
+        "C) Encaminhar precocemente para cirurgia sem manejo clínico inicial.",
+        "D) Estabelecer plano compartilhado com prioridades graduais, acompanhamento multiprofissional e revisão periódica."
+      ],
+      "correta": 3,
+      "dificuldade": 3,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Definir metas rígidas padronizadas sem negociação com o paciente.",
+        "B": "Incorreta: Fragmentar condutas em consultas isoladas sem coordenação.",
+        "C": "Incorreta: Encaminhar precocemente para cirurgia sem manejo clínico inicial.",
+        "D": "Correta: Estabelecer plano compartilhado com prioridades graduais, acompanhamento multiprofissional e revisão periódica."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Definir metas rígidas padronizadas sem negociação com o paciente.\nB) INCORRETA. Incorreta: Fragmentar condutas em consultas isoladas sem coordenação.\nC) INCORRETA. Incorreta: Encaminhar precocemente para cirurgia sem manejo clínico inicial.\nD) CORRETA. Correta: Estabelecer plano compartilhado com prioridades graduais, acompanhamento multiprofissional e revisão periódica."
+    },
+    {
+      "id": 201,
+      "materia": "sus",
+      "tema": "sus_a1",
+      "enunciado": "Qual alternativa melhor diferencia fator de risco individual de determinante social da saúde?",
+      "opcoes": [
+        "A) Sedentarismo é determinante social, enquanto renda é fator biológico.",
+        "B) Hábito alimentar é exclusivamente determinante estrutural e não individual.",
+        "C) Tabagismo pode ser fator individual, enquanto escolaridade e renda atuam como determinantes sociais.",
+        "D) Determinantes sociais são variáveis clínicas medidas apenas em prontuário hospitalar."
+      ],
+      "correta": 2,
+      "dificuldade": 3,
+      "modulo": 1,
+      "explicacao_geral": "Integra determinantes sociais, território e condutas em atenção primária.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Sedentarismo é determinante social, enquanto renda é fator biológico.",
+        "B": "Incorreta: Hábito alimentar é exclusivamente determinante estrutural e não individual.",
+        "C": "Correta: Tabagismo pode ser fator individual, enquanto escolaridade e renda atuam como determinantes sociais.",
+        "D": "Incorreta: Determinantes sociais são variáveis clínicas medidas apenas em prontuário hospitalar."
+      },
+      "explicacao": "Resumo: Integra determinantes sociais, território e condutas em atenção primária.\nA) INCORRETA. Incorreta: Sedentarismo é determinante social, enquanto renda é fator biológico.\nB) INCORRETA. Incorreta: Hábito alimentar é exclusivamente determinante estrutural e não individual.\nC) CORRETA. Correta: Tabagismo pode ser fator individual, enquanto escolaridade e renda atuam como determinantes sociais.\nD) INCORRETA. Incorreta: Determinantes sociais são variáveis clínicas medidas apenas em prontuário hospitalar."
+    },
+    {
+      "id": 202,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Antissepsia, na prática cirúrgica, objetiva principalmente:",
+      "opcoes": [
+        "A) Reduzir microrganismos em tecido vivo com agente químico adequado",
+        "B) Esterilizar instrumental metálico em autoclave",
+        "C) Eliminar esporos de superfícies de mesa não crítica",
+        "D) Substituir a troca de luvas perfuradas"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Antissepsia reduz flora em pele/mucosas vivas com antisséptico.",
+        "B": "Incorreta: Esterilização de metal é processo físico/químico em artigos, não antissepsia de pele.",
+        "C": "Incorreta: Redução em superfície refere-se mais a desinfecção, não antissepsia.",
+        "D": "Incorreta: Perfuração de luva exige troca; antissepsia não corrige quebra de barreira."
+      },
+      "explicacao": "Resumo: Antissepsia atua em tecido vivo; esterilização e desinfecção têm alvos distintos.\nA) CORRETA. Correta: Antissepsia reduz flora em pele/mucosas vivas com antisséptico.\nB) INCORRETA. Incorreta: Esterilização de metal é processo físico/químico em artigos, não antissepsia de pele.\nC) INCORRETA. Incorreta: Redução em superfície refere-se mais a desinfecção, não antissepsia.\nD) INCORRETA. Incorreta: Perfuração de luva exige troca; antissepsia não corrige quebra de barreira."
+    },
+    {
+      "id": 203,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Esterilização é definida como processo que:",
+      "opcoes": [
+        "A) Garante ausência apenas de fungos filamentosos",
+        "B) Elimina todas as formas microbianas, inclusive esporos",
+        "C) Equivale à antissepsia bem executada da pele",
+        "D) Reduz parcialmente bactérias vegetativas em objetos"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não se restringe a fungos.",
+        "B": "Correta: Definição clássica inclui destruição de esporos.",
+        "C": "Incorreta: Pele não é esterilizada; usa-se antissepsia.",
+        "D": "Incorreta: Redução parcial é desinfecção ou antissepsia, não esterilização."
+      },
+      "explicacao": "Resumo: Esterilização mira eliminação completa de vida microbiana, incluindo esporos.\nA) INCORRETA. Incorreta: Não se restringe a fungos.\nB) CORRETA. Correta: Definição clássica inclui destruição de esporos.\nC) INCORRETA. Incorreta: Pele não é esterilizada; usa-se antissepsia.\nD) INCORRETA. Incorreta: Redução parcial é desinfecção ou antissepsia, não esterilização."
+    },
+    {
+      "id": 204,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Em relação à assepsia operatória, qual afirmação é mais precisa?",
+      "opcoes": [
+        "A) Resume-se ao uso de luva estéril pelo cirurgião",
+        "B) É sinônimo de desinfecção de piso e macas",
+        "C) Conjunto de medidas para impedir contaminação do campo e do ato cirúrgico",
+        "D) Aplica-se somente ao paciente, não à equipe"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Luva é um elemento, não o conceito inteiro.",
+        "B": "Incorreta: Desinfecção ambiental complementa, mas não define assepsia cirúrgica.",
+        "C": "Correta: Conceito abrange barreiras e conduta para evitar introdução de germes.",
+        "D": "Incorreta: Equipe e paciente integram a cadeia asséptica."
+      },
+      "explicacao": "Resumo: Assepsia protege o procedimento e o campo; envolve equipe, fluxo e técnica.\nA) INCORRETA. Incorreta: Luva é um elemento, não o conceito inteiro.\nB) INCORRETA. Incorreta: Desinfecção ambiental complementa, mas não define assepsia cirúrgica.\nC) CORRETA. Correta: Conceito abrange barreiras e conduta para evitar introdução de germes.\nD) INCORRETA. Incorreta: Equipe e paciente integram a cadeia asséptica."
+    },
+    {
+      "id": 205,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Na antissepsia de pele antes de incisão, a orientação técnica usual do gesto é:",
+      "opcoes": [
+        "A) Da periferia para o centro, voltando para redistribuir produto",
+        "B) Circular aleatório sem critério de área",
+        "C) Somente horizontal em um único passe sem tempo de contato",
+        "D) Do centro para a periferia, sem retornar ao centro com a mesma compressa"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Periferia-centro arrasta germes para o centro.",
+        "B": "Incorreta: Falta lógica de barreira.",
+        "C": "Incorreta: Tempo de ação e técnica padronizada importam.",
+        "D": "Correta: Evita recontaminar área central preparada."
+      },
+      "explicacao": "Resumo: Movimento centro-periferia evita reintroduzir contaminantes na zona da incisão.\nA) INCORRETA. Incorreta: Periferia-centro arrasta germes para o centro.\nB) INCORRETA. Incorreta: Falta lógica de barreira.\nC) INCORRETA. Incorreta: Tempo de ação e técnica padronizada importam.\nD) CORRETA. Correta: Evita recontaminar área central preparada."
+    },
+    {
+      "id": 206,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "O indicador biológico em ciclo de esterilização visa principalmente:",
+      "opcoes": [
+        "A) Demonstrar morte microbiana eficaz frente ao processo validado",
+        "B) Substituir leitura de temperatura no painel do equipamento",
+        "C) Comprovar apenas que o pacote esteve no setor de expurgo",
+        "D) Medir umidade relativa exclusivamente da sala limpa"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Uso de esporos resistentes testa eficácia do ciclo.",
+        "B": "Incorreta: Parâmetro físico ainda é necessário; papéis são complementares.",
+        "C": "Incorreta: Setor de expurgo não valida esterilização.",
+        "D": "Incorreta: Umidade ambiente não é o objetivo do biológico."
+      },
+      "explicacao": "Resumo: Indicador biológico valida letalidade microbiana; físico e químico têm outros papéis.\nA) CORRETA. Correta: Uso de esporos resistentes testa eficácia do ciclo.\nB) INCORRETA. Incorreta: Parâmetro físico ainda é necessário; papéis são complementares.\nC) INCORRETA. Incorreta: Setor de expurgo não valida esterilização.\nD) INCORRETA. Incorreta: Umidade ambiente não é o objetivo do biológico."
+    },
+    {
+      "id": 207,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Clorexidina alcoólica, em preparo cutâneo, costuma se destacar por:",
+      "opcoes": [
+        "A) Não precisar de tempo de secagem antes da incisão",
+        "B) Apresentar ação residual prolongada em pele, com início rápido",
+        "C) Ser primeira escolha para irrigação de câmara anterior sem restrição",
+        "D) Substituir o controle físico de ciclo em autoclave"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Secagem adequada continua obrigatória.",
+        "B": "Correta: Perfil de ação residual é vantagem clássica frente a muitos esquemas.",
+        "C": "Incorreta: Uso ocular/mucoso não é livre; há risco e contraindicações.",
+        "D": "Incorreta: Validação de autoclave não se substitui por antisséptico."
+      },
+      "explicacao": "Resumo: Clorexidina alcoólica combina rapidez e efeito residual; há contraindicações (mucosa/olho).\nA) INCORRETA. Incorreta: Secagem adequada continua obrigatória.\nB) CORRETA. Correta: Perfil de ação residual é vantagem clássica frente a muitos esquemas.\nC) INCORRETA. Incorreta: Uso ocular/mucoso não é livre; há risco e contraindicações.\nD) INCORRETA. Incorreta: Validação de autoclave não se substitui por antisséptico."
+    },
+    {
+      "id": 208,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Suspeita de quebra de esterilidade do campo durante o procedimento. Conduta adequada:",
+      "opcoes": [
+        "A) Ignorar se o sangramento for pequeno",
+        "B) Prosseguir sem comunicar para não atrasar cirurgia",
+        "C) Comunicar imediatamente, repor barreira/material e ajustar técnica",
+        "D) Aplicar apenas mais antisséptico sobre campo já montado"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Gravidade não depende do volume de sangue.",
+        "B": "Incorreta: Comunicação é regra de segurança.",
+        "C": "Correta: Restabelecer condições assépticas ou substituir material contaminado.",
+        "D": "Incorreta: Campo aberto não se “reasssepta” com disfarce superficial."
+      },
+      "explicacao": "Resumo: Quebra de campo exige reconhecimento verbal e correção, não “tapar” o problema.\nA) INCORRETA. Incorreta: Gravidade não depende do volume de sangue.\nB) INCORRETA. Incorreta: Comunicação é regra de segurança.\nC) CORRETA. Correta: Restabelecer condições assépticas ou substituir material contaminado.\nD) INCORRETA. Incorreta: Campo aberto não se “reasssepta” com disfarce superficial."
+    },
+    {
+      "id": 209,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Indicador químico interno de pacote esterilizado informa, em geral, que:",
+      "opcoes": [
+        "A) O material é aprovado clinicamente sem necessidade de rastreio de lote",
+        "B) O teste biológico do dia foi negativo sem processar amostra",
+        "C) A embalagem dispensa tempo de exposição mínimo",
+        "D) O pacote foi exposto à condição do processo de esterilização"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Rastreabilidade e outros controles permanecem necessários.",
+        "B": "Incorreta: Químico não substitui biológico.",
+        "C": "Incorreta: Parâmetros de ciclo continuam obrigatórios.",
+        "D": "Correta: Confirma passagem pelo processo conforme classe do indicador."
+      },
+      "explicacao": "Resumo: Indicador químico documenta exposição ao ciclo; biológico valida letalidade.\nA) INCORRETA. Incorreta: Rastreabilidade e outros controles permanecem necessários.\nB) INCORRETA. Incorreta: Químico não substitui biológico.\nC) INCORRETA. Incorreta: Parâmetros de ciclo continuam obrigatórios.\nD) CORRETA. Correta: Confirma passagem pelo processo conforme classe do indicador."
+    },
+    {
+      "id": 210,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Antes da primeira incisão, após antissepsia alcoólica, é fundamental:",
+      "opcoes": [
+        "A) Respeitar tempo de ação e secagem do antisséptico antes de campos e bisturi",
+        "B) Iniciar a incisão com a pele ainda exuberantemente úmida de álcool",
+        "C) Pular antissepsia se o paciente já tomou banho no dia",
+        "D) Utilizar apenas compressa seca sem produto se houver alergia não investigada"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Evita incisão com campo úmido e vapor inflamável.",
+        "B": "Incorreta: Umidade excessiva é erro que compromete técnica e risco térmico.",
+        "C": "Incorreta: Banho não substitui preparo de pele em sala.",
+        "D": "Incorreta: Alergia deve ser investigada e substituir antisséptico com critério, não omitir preparo."
+      },
+      "explicacao": "Resumo: Secagem e tempo de contato influenciam eficácia e segurança (ex.: vapor de álcool).\nA) CORRETA. Correta: Evita incisão com campo úmido e vapor inflamável.\nB) INCORRETA. Incorreta: Umidade excessiva é erro que compromete técnica e risco térmico.\nC) INCORRETA. Incorreta: Banho não substitui preparo de pele em sala.\nD) INCORRETA. Incorreta: Alergia deve ser investigada e substituir antisséptico com critério, não omitir preparo."
+    },
+    {
+      "id": 211,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Desinfecção de superfície não crítica difere da esterilização porque:",
+      "opcoes": [
+        "A) Garante ausência total de esporos em qualquer artigo",
+        "B) Reduz carga microbiana, mas não equivale a eliminar toda vida microbiana como na esterilização",
+        "C) Só age contra vírus; bactérias resistem sempre",
+        "D) Só pode ser feita com autoclave portátil"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Ausência de esporos é meta da esterilização.",
+        "B": "Correta: Definição operacional correta do nível intermediário.",
+        "C": "Incorreta: Espectro e eficácia variam com agente e tempo; afirmação é falsa.",
+        "D": "Incorreta: Autoclave é esterilização, não desinfecção usual de superfície."
+      },
+      "explicacao": "Resumo: Desinfecção tem nível de letalidade menor que esterilização.\nA) INCORRETA. Incorreta: Ausência de esporos é meta da esterilização.\nB) CORRETA. Correta: Definição operacional correta do nível intermediário.\nC) INCORRETA. Incorreta: Espectro e eficácia variam com agente e tempo; afirmação é falsa.\nD) INCORRETA. Incorreta: Autoclave é esterilização, não desinfecção usual de superfície."
+    },
+    {
+      "id": 212,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Em cirurgia geral hospitalar, método frequente de esterilização de artigos compatíveis é:",
+      "opcoes": [
+        "A) Secagem ao ar ambiente de instrumental após uso",
+        "B) Irradiação ultravioleta de bancada como único passo",
+        "C) Autoclave com vapor saturado sob pressão em ciclo validado",
+        "D) Imersão em álcool 70% por 30 segundos sem enxágue"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Secagem não esteriliza.",
+        "B": "Incorreta: UV tem penetração limitada e não substitui ciclo termo.",
+        "C": "Correta: Processo clássico bem estabelecido.",
+        "D": "Incorreta: Álcool não esteriliza instrumental."
+      },
+      "explicacao": "Resumo: Vapor sob pressão é padrão para muitos artigos; requer validação e embalagem.\nA) INCORRETA. Incorreta: Secagem não esteriliza.\nB) INCORRETA. Incorreta: UV tem penetração limitada e não substitui ciclo termo.\nC) CORRETA. Correta: Processo clássico bem estabelecido.\nD) INCORRETA. Incorreta: Álcool não esteriliza instrumental."
+    },
+    {
+      "id": 213,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "enunciado": "Sobre embalagem e esterilização de instrumental, é correto afirmar que:",
+      "opcoes": [
+        "A) Pacote rasgado pode ser usado se o interior “parecer” íntegro",
+        "B) Indicador químico ausente dispensa abertura em sala",
+        "C) Lote e validade não precisam ser conferidos pelo usuário",
+        "D) Sem embalagem adequada e rastreabilidade não há garantia de esterilização válida para uso"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Antissepsia, assepsia, desinfecção e esterilização: barreiras, preparo de pele e rastreio de material.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Integridade da barreira é critério rígido.",
+        "B": "Incorreta: Falta de indicador exige segregação e análise.",
+        "C": "Incorreta: Usuário deve conferir identificação.",
+        "D": "Correta: Barreira estéril e documentação são inseparáveis do conceito de uso seguro."
+      },
+      "explicacao": "Resumo: Integridade, indicadores e rastreio são parte da cadeia de segurança.\nA) INCORRETA. Incorreta: Integridade da barreira é critério rígido.\nB) INCORRETA. Incorreta: Falta de indicador exige segregação e análise.\nC) INCORRETA. Incorreta: Usuário deve conferir identificação.\nD) CORRETA. Correta: Barreira estéril e documentação são inseparáveis do conceito de uso seguro."
+    },
+    {
+      "id": 214,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Área restrita do centro cirúrgico inclui tipicamente:",
+      "opcoes": [
+        "A) Sala cirúrgica e adjacências com barreira máxima junto ao campo",
+        "B) Farmácia central aberta ao público",
+        "C) Estacionamento externo e refeitório do hospital",
+        "D) Recepção administrativa sem vestimenta especial"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Definição de proximidade crítica ao ato.",
+        "B": "Incorreta: Ambiente não ligado ao fluxo cirúrgico restrito.",
+        "C": "Incorreta: Área não restrita.",
+        "D": "Incorreta: Circulação geral."
+      },
+      "explicacao": "Resumo: Zona restrita aproxima-se do campo e exige maior controle de circulação e paramentação.\nA) CORRETA. Correta: Definição de proximidade crítica ao ato.\nB) INCORRETA. Incorreta: Ambiente não ligado ao fluxo cirúrgico restrito.\nC) INCORRETA. Incorreta: Área não restrita.\nD) INCORRETA. Incorreta: Circulação geral."
+    },
+    {
+      "id": 215,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Fluxo de materiais limpos e contaminados no bloco deve ser, idealmente:",
+      "opcoes": [
+        "A) Aleatório conforme disponibilidade de staff",
+        "B) Unidirecional, com rotas definidas para evitar contaminação cruzada",
+        "C) Bidirecional no mesmo corredor para ganhar tempo",
+        "D) Convergente na mesa do instrumentador sem marcação"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Organização não é opcional.",
+        "B": "Correta: Princípio de segurança estrutural.",
+        "C": "Incorreta: Cruzamento é proscrito.",
+        "D": "Incorreta: Mesa estéril não recebe retorno de contaminado."
+      },
+      "explicacao": "Resumo: Separação lógica de trajetos reduz cruzamento sujo/limpo.\nA) INCORRETA. Incorreta: Organização não é opcional.\nB) CORRETA. Correta: Princípio de segurança estrutural.\nC) INCORRETA. Incorreta: Cruzamento é proscrito.\nD) INCORRETA. Incorreta: Mesa estéril não recebe retorno de contaminado."
+    },
+    {
+      "id": 216,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "A roupa “privativa” do centro cirúrgico destina-se principalmente a:",
+      "opcoes": [
+        "A) Identificar hierarquia médica apenas por cor",
+        "B) Substituir o scrub e campo estéril do cirurgião",
+        "C) Uso exclusivo no bloco como barreira básica de ambiente, sem levar a áreas externas",
+        "D) Proteção contra radiação ionizante isolada"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Finalidade é controle infeccioso, não formal.",
+        "B": "Incorreta: Não substitui paramentação para campo.",
+        "C": "Correta: Conceito de barreira de bloco com restrição de uso externo.",
+        "D": "Incorreta: Objetivo principal não é radioproteção."
+      },
+      "explicacao": "Resumo: Privativa limita contaminação partindo do corpo para o ambiente controlado.\nA) INCORRETA. Incorreta: Finalidade é controle infeccioso, não formal.\nB) INCORRETA. Incorreta: Não substitui paramentação para campo.\nC) CORRETA. Correta: Conceito de barreira de bloco com restrição de uso externo.\nD) INCORRETA. Incorreta: Objetivo principal não é radioproteção."
+    },
+    {
+      "id": 217,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Área semirrestrita difere da restrita sobretudo porque:",
+      "opcoes": [
+        "A) É equivalente ao estacionamento coberto",
+        "B) Permite street clothes e calçados externos",
+        "C) Exige o mesmo campo aberto da cirurgia",
+        "D) Há circulação controlada e traje adequado, mas menor proximidade ao campo que a zona restrita crítica"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não é área externa.",
+        "B": "Incorreta: Ainda há exigências de vestimenta.",
+        "C": "Incorreta: Campo só na sala adequada.",
+        "D": "Correta: Gradiente de proteção."
+      },
+      "explicacao": "Resumo: Camadas de controle aumentam à medida que se chega ao campo.\nA) INCORRETA. Incorreta: Não é área externa.\nB) INCORRETA. Incorreta: Ainda há exigências de vestimenta.\nC) INCORRETA. Incorreta: Campo só na sala adequada.\nD) CORRETA. Correta: Gradiente de proteção."
+    },
+    {
+      "id": 218,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Frente do avental e mangas estéreis funcionalmente são consideradas:",
+      "opcoes": [
+        "A) Áreas habitualmente tratadas como estéreis para manipulação próxima ao campo",
+        "B) Equivalentes à pele do paciente não preparada",
+        "C) Zonas potencialmente contaminadas como o dorso do tronco",
+        "D) Áreas não seguras abaixo da cintura sem exceção"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Frente e mangas são usadas como barreira válida.",
+        "B": "Incorreta: Paciente tem antissepsia própria.",
+        "C": "Incorreta: Dorso não é tratado como estéril.",
+        "D": "Incorreta: Abaixo da cintura não é zona segura."
+      },
+      "explicacao": "Resumo: Paramentação define zona “esterilizável” frontal versus dorso/cintura inferior.\nA) CORRETA. Correta: Frente e mangas são usadas como barreira válida.\nB) INCORRETA. Incorreta: Paciente tem antissepsia própria.\nC) INCORRETA. Incorreta: Dorso não é tratado como estéril.\nD) INCORRETA. Incorreta: Abaixo da cintura não é zona segura."
+    },
+    {
+      "id": 219,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Time-out cirúrgico imediatamente antes da incisão visa:",
+      "opcoes": [
+        "A) Reduzir número de compressas disponíveis na mesa",
+        "B) Pausa de segurança: conferir paciente, sítio, lateralidade e itens críticos",
+        "C) Documentar tempo operatório em minutos cirúrgicos",
+        "D) Substituir consentimento e marcação se já houve discussão informal"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não é inventário restritivo mal interpretado.",
+        "B": "Correta: Definição correta da pausa.",
+        "C": "Incorreta: Não é cronometria de peça.",
+        "D": "Incorreta: Consentimento e marcação permanecem obrigatórios."
+      },
+      "explicacao": "Resumo: Checklist WHO/time-out reduz erro de lado, procedimento e equipe despreparada.\nA) INCORRETA. Incorreta: Não é inventário restritivo mal interpretado.\nB) CORRETA. Correta: Definição correta da pausa.\nC) INCORRETA. Incorreta: Não é cronometria de peça.\nD) INCORRETA. Incorreta: Consentimento e marcação permanecem obrigatórios."
+    },
+    {
+      "id": 220,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Erro comum de paramentação que pode contaminar campo:",
+      "opcoes": [
+        "A) Manter máscara cobrindo nariz fixa sem ajustá-la com as mãos",
+        "B) Apoiar braços em suporte quando possível",
+        "C) Ajustar máscara tocando região frontal estéril do campo",
+        "D) Confirmar integridade das luvas após manuseio externo"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Correto.",
+        "B": "Incorreta: Melhora ergonomia.",
+        "C": "Correta: Contaminação típica.",
+        "D": "Incorreta: Boa prática."
+      },
+      "explicacao": "Resumo: Mãos “em campo” não tocam face; quebra de técnica vem de gestos reflexos.\nA) INCORRETA. Incorreta: Correto.\nB) INCORRETA. Incorreta: Melhora ergonomia.\nC) CORRETA. Correta: Contaminação típica.\nD) INCORRETA. Incorreta: Boa prática."
+    },
+    {
+      "id": 221,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Material estéril armazenado no bloco deve, em regra:",
+      "opcoes": [
+        "A) Ser reprocessado automaticamente após um único uso sem critério",
+        "B) Ficar úmido dentro de saco plástico comum sem identificação",
+        "C) Permitir empilhamento sem limite que comprima indicadores",
+        "D) Estar seco, identificado, com validade e integridade de embalagem verificável"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Reprocessamento segue normas, não é automático.",
+        "B": "Incorreta: Umidade compromete.",
+        "C": "Incorreta: Compressão pode romper barreira.",
+        "D": "Correta: Padrão mínimo."
+      },
+      "explicacao": "Resumo: Armazenamento conserva barreira microbiana e rastreio.\nA) INCORRETA. Incorreta: Reprocessamento segue normas, não é automático.\nB) INCORRETA. Incorreta: Umidade compromete.\nC) INCORRETA. Incorreta: Compressão pode romper barreira.\nD) CORRETA. Correta: Padrão mínimo."
+    },
+    {
+      "id": 222,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Circulante, na lógica de sala cirúrgica, posiciona-se para:",
+      "opcoes": [
+        "A) Fornecer suprimentos fora do campo sem contaminá-lo e sem tocar instrumental estéril aberto",
+        "B) Substituir o instrumentador na passagem de pinças sobre o campo",
+        "C) Realizar anestesia geral isoladamente",
+        "D) Realizar diérese principal no lugar do residente"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Definição clássica.",
+        "B": "Incorreta: Instrumentador cuida da mesa estéril.",
+        "C": "Incorreta: Anestesista é função distinta.",
+        "D": "Incorreta: Papel do cirurgião/auxiliar."
+      },
+      "explicacao": "Resumo: Circulante apoia sem invadir zona estéril da mesa montada.\nA) CORRETA. Correta: Definição clássica.\nB) INCORRETA. Incorreta: Instrumentador cuida da mesa estéril.\nC) INCORRETA. Incorreta: Anestesista é função distinta.\nD) INCORRETA. Incorreta: Papel do cirurgião/auxiliar."
+    },
+    {
+      "id": 223,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Ao duvidar se uma parte da barreira está contaminada, conduta tecnicamente segura:",
+      "opcoes": [
+        "A) Ignorar quando o procedimento está quase terminando",
+        "B) Tratar como contaminado e repor/trocar o necessário",
+        "C) Passar solução alcoólica sobre luva perfurada sem trocá-la",
+        "D) Assumir que segue estéril se ninguém viu o toque"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Prazo não desculpa violação.",
+        "B": "Correta: Princípio básico.",
+        "C": "Incorreta: Perfuração exige troca de luva.",
+        "D": "Incorreta: Risco inaceitável."
+      },
+      "explicacao": "Resumo: Na dúvida, quebrou: refaz barreira.\nA) INCORRETA. Incorreta: Prazo não desculpa violação.\nB) CORRETA. Correta: Princípio básico.\nC) INCORRETA. Incorreta: Perfuração exige troca de luva.\nD) INCORRETA. Incorreta: Risco inaceitável."
+    },
+    {
+      "id": 224,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "Caixa cirúrgica estéril aberta em sala deve ser conferida quanto a:",
+      "opcoes": [
+        "A) Peso total sem critério de conteúdo",
+        "B) Somente aparência estética do pano",
+        "C) Integridade da embalagem, umidade indevida e validade antes da abertura no campo",
+        "D) Cor do instrumental exclusivamente"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Peso não substitui conferência.",
+        "B": "Incorreta: Insuficiente.",
+        "C": "Correta: Checklist mínimo real.",
+        "D": "Incorreta: Cor não valida esterilidade."
+      },
+      "explicacao": "Resumo: Inspeção visual e documentação precedem abertura.\nA) INCORRETA. Incorreta: Peso não substitui conferência.\nB) INCORRETA. Incorreta: Insuficiente.\nC) CORRETA. Correta: Checklist mínimo real.\nD) INCORRETA. Incorreta: Cor não valida esterilidade."
+    },
+    {
+      "id": 225,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a2",
+      "enunciado": "“Time-out” mal realizado costuma falhar por:",
+      "opcoes": [
+        "A) Incluir antibioticoprofilaxia quando indicada",
+        "B) Ser lido em voz alta com confirmação ativa da equipe",
+        "C) Integrar lateralidade e site marcados antes do corte",
+        "D) Tornar-se ritual sem alterar conduta quando há discrepância"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Zonas do centro cirúrgico, fluxos, paramentação e time-out de segurança.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Item válido de checklist.",
+        "B": "Incorreta: Comportamento desejável.",
+        "C": "Incorreta: Elemento essencial.",
+        "D": "Correta: Falha de implementação real."
+      },
+      "explicacao": "Resumo: Checklist só protege se mudar plano quando há erro detectado.\nA) INCORRETA. Incorreta: Item válido de checklist.\nB) INCORRETA. Incorreta: Comportamento desejável.\nC) INCORRETA. Incorreta: Elemento essencial.\nD) CORRETA. Correta: Falha de implementação real."
+    },
+    {
+      "id": 226,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Diérese corresponde, em cirurgia, a:",
+      "opcoes": [
+        "A) Abertura de planos anatômicos por corte, dissecção ou energia adequada",
+        "B) Somente ligaduras definitivas de pedículos volumosos",
+        "C) Fechamento por planos com nós contínuos",
+        "D) Reposicionamento do paciente na mesa"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Abertura é diérese.",
+        "B": "Incorreta: Hemostasia.",
+        "C": "Incorreta: Síntese.",
+        "D": "Incorreta: Logística de mesa."
+      },
+      "explicacao": "Resumo: Tempos clássicos: diérese abre, hemostasia controla sangue, síntese aproxima.\nA) CORRETA. Correta: Abertura é diérese.\nB) INCORRETA. Incorreta: Hemostasia.\nC) INCORRETA. Incorreta: Síntese.\nD) INCORRETA. Incorreta: Logística de mesa."
+    },
+    {
+      "id": 227,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Hemostasia adequada antes da síntese visa principalmente:",
+      "opcoes": [
+        "A) Eliminar necessidade de contagem de compressas",
+        "B) Manter campo visível, reduzir sangramento e estabilizar paciente para fechamento seguro",
+        "C) Substituir drenagem em toda cirurgia",
+        "D) Adiar revisão de planos profundos"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Contagem é independente.",
+        "B": "Correta: Objetivo técnico e clínico.",
+        "C": "Incorreta: Drenagem é decisão à parte.",
+        "D": "Incorreta: Revisão não deve ser adiada."
+      },
+      "explicacao": "Resumo: Visibilidade e hemodinâmica precedem fechamento definitivo.\nA) INCORRETA. Incorreta: Contagem é independente.\nB) CORRETA. Correta: Objetivo técnico e clínico.\nC) INCORRETA. Incorreta: Drenagem é decisão à parte.\nD) INCORRETA. Incorreta: Revisão não deve ser adiada."
+    },
+    {
+      "id": 228,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Síntese tecidual deve respeitar, entre outros:",
+      "opcoes": [
+        "A) Ignorar eliminação de espaço morto quando indicado",
+        "B) Apenas velocidade de fechamento em qualquer tecido",
+        "C) Planos anatômicos, tensão adequada e perfusão de bordas",
+        "D) Uso exclusivo de fio grosso para “segurança aparente”"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Espaço morto pode complicar.",
+        "B": "Incorreta: Trauma e isquemia importam.",
+        "C": "Correta: Conjunto correto.",
+        "D": "Incorreta: Calibre excessivo machuca."
+      },
+      "explicacao": "Resumo: Fechamento é biofísico: plano, tensão, vascularização.\nA) INCORRETA. Incorreta: Espaço morto pode complicar.\nB) INCORRETA. Incorreta: Trauma e isquemia importam.\nC) CORRETA. Correta: Conjunto correto.\nD) INCORRETA. Incorreta: Calibre excessivo machuca."
+    },
+    {
+      "id": 229,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Tesoura Metzenbaum é mais adequada, em regra, para:",
+      "opcoes": [
+        "A) Corte de osso cortical",
+        "B) Amputação traumática em emergência sem hemostasia",
+        "C) Fáscia espessa e tendão sem funículo separado",
+        "D) Tecido delicado e dissecção fina"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Serra/ostetomia, não tesoura Metzenbaum.",
+        "B": "Incorreta: Não define instrumento; cenário inválido como foco.",
+        "C": "Incorreta: Perfil da Mayo.",
+        "D": "Correta: Uso clássico Metzenbaum."
+      },
+      "explicacao": "Resumo: Metzenbaum: delicada; Mayo: mais densa.\nA) INCORRETA. Incorreta: Serra/ostetomia, não tesoura Metzenbaum.\nB) INCORRETA. Incorreta: Não define instrumento; cenário inválido como foco.\nC) INCORRETA. Incorreta: Perfil da Mayo.\nD) CORRETA. Correta: Uso clássico Metzenbaum."
+    },
+    {
+      "id": 230,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Pinça hemostática tipo mosquito costuma servir para:",
+      "opcoes": [
+        "A) Clampar vasos pequenos ou bordas com sangramento localizado com precisão",
+        "B) Substituir afastador de grande porte abdominal",
+        "C) Realizar síntese contínua de pele sozinha",
+        "D) Preensão de víscera oca friável sem sangramento"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Uso típico em microvasos superficiais.",
+        "B": "Incorreta: Função de exposição.",
+        "C": "Incorreta: Necessita agulha/fio.",
+        "D": "Incorreta: Pode traumatizar; há pinças de exposição."
+      },
+      "explicacao": "Resumo: Instrumentos de hemostasia têm escalas de tamanho e mordida.\nA) CORRETA. Correta: Uso típico em microvasos superficiais.\nB) INCORRETA. Incorreta: Função de exposição.\nC) INCORRETA. Incorreta: Necessita agulha/fio.\nD) INCORRETA. Incorreta: Pode traumatizar; há pinças de exposição."
+    },
+    {
+      "id": 231,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Organização da mesa por “tempos operatórios” busca:",
+      "opcoes": [
+        "A) Misturar tudo para o circulante decidir ao acaso",
+        "B) Antecipar necessidade: diérese, hemostasia, exposição e síntese em setores lógicos",
+        "C) Impedir que o instrumentador veja o campo",
+        "D) Reduzir número de instrumentos a um único cabo"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Desorganização.",
+        "B": "Correta: Objetivo didático e prático.",
+        "C": "Incorreta: Instrumentador precisa de visão do ato.",
+        "D": "Incorreta: Minimalismo extremo nem sempre é seguro."
+      },
+      "explicacao": "Resumo: Setores funcionais aceleram e reduzem erro.\nA) INCORRETA. Incorreta: Desorganização.\nB) CORRETA. Correta: Objetivo didático e prático.\nC) INCORRETA. Incorreta: Instrumentador precisa de visão do ato.\nD) INCORRETA. Incorreta: Minimalismo extremo nem sempre é seguro."
+    },
+    {
+      "id": 232,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Erro frequente no aprendizado de técnica básica:",
+      "opcoes": [
+        "A) Revisar sangramento antes de fechar plano profundo",
+        "B) Harmonizar calibre de fio com resistência do tecido",
+        "C) Iniciar síntese com hemostasia incompleta do plano atual",
+        "D) Reconhecer limites de tração da pinça de exposição"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Correto.",
+        "B": "Incorreta: Correto.",
+        "C": "Correta: Erro clássico.",
+        "D": "Incorreta: Correto."
+      },
+      "explicacao": "Resumo: Fechar sob sangramento obscurece campo e aumenta risco de coleção.\nA) INCORRETA. Incorreta: Correto.\nB) INCORRETA. Incorreta: Correto.\nC) CORRETA. Correta: Erro clássico.\nD) INCORRETA. Incorreta: Correto."
+    },
+    {
+      "id": 233,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Porta-agulha Mayo-Hegar é usado principalmente para:",
+      "opcoes": [
+        "A) Cauterizar leito capilar difuso sem pinçar",
+        "B) Medir profundidade de cavidade apenas",
+        "C) Afastar retalhos sem contato com agulha",
+        "D) Segurar agulha, auxiliar arco de sutura e amarrar com técnica adequada"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Eletrocautério.",
+        "B": "Incorreta: Não é medida.",
+        "C": "Incorreta: Afastador.",
+        "D": "Correta: Função."
+      },
+      "explicacao": "Resumo: Porta-agulha é extensão da mão na sutura.\nA) INCORRETA. Incorreta: Eletrocautério.\nB) INCORRETA. Incorreta: Não é medida.\nC) INCORRETA. Incorreta: Afastador.\nD) CORRETA. Correta: Função."
+    },
+    {
+      "id": 234,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Bisturi, no tempo de diérese, exige:",
+      "opcoes": [
+        "A) Controle de profundidade, estabilização da pele e ergonomia para cortes precisos",
+        "B) Uso exclusivo com lâmina trocada após cada hora de relógio cirúrgico genérico",
+        "C) Evitar troca de lâmina para reduzir custo a qualquer preço",
+        "D) Incisão sem planejamento se o tecido “ceder” sozinho"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Conjunto técnico.",
+        "B": "Incorreta: Troca depende de desgaste e tecido.",
+        "C": "Incorreta: Lâmina cega aumenta trauma.",
+        "D": "Incorreta: Planejamento importa."
+      },
+      "explicacao": "Resumo: Técnica de incisão combina tração contrá, ângulo e lâmina afiada.\nA) CORRETA. Correta: Conjunto técnico.\nB) INCORRETA. Incorreta: Troca depende de desgaste e tecido.\nC) INCORRETA. Incorreta: Lâmina cega aumenta trauma.\nD) INCORRETA. Incorreta: Planejamento importa."
+    },
+    {
+      "id": 235,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Afastadores (ex.: Farabeuf, conforme caso) servem para:",
+      "opcoes": [
+        "A) Substituir punção de diagnóstico ecoguiada",
+        "B) Manter exposição do campo operatório sem ocupar ambas as mãos do auxiliar",
+        "C) Realizar eletrocoagulação bipolar profunda",
+        "D) Compactar órgãos para estética externa"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não relacionado.",
+        "B": "Correta: Definição.",
+        "C": "Incorreta: Pinça bipolar tem função distinta.",
+        "D": "Incorreta: Não é finalidade."
+      },
+      "explicacao": "Resumo: Exposição segura libera mãos para dissecção e hemostasia.\nA) INCORRETA. Incorreta: Não relacionado.\nB) CORRETA. Correta: Definição.\nC) INCORRETA. Incorreta: Pinça bipolar tem função distinta.\nD) INCORRETA. Incorreta: Não é finalidade."
+    },
+    {
+      "id": 236,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Sequência didática em cirurgia limpa simples costuma ser:",
+      "opcoes": [
+        "A) Afastamento sem diérese prévia sempre",
+        "B) Síntese plena antes de qualquer hemostasia",
+        "C) Diérese → dissecção controlada → hemostasia → revisão → síntese por planos",
+        "D) Hemostasia exclusiva antes de abrir qualquer plano"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Muitas vezes precisa de acesso primeiro.",
+        "B": "Incorreta: Incoerente.",
+        "C": "Correta: Sequência clássica.",
+        "D": "Incorreta: Inicialmente precisa abrir para tratar sangramento."
+      },
+      "explicacao": "Resumo: Fluxo lógico reduz sangramento oculto e deiscência.\nA) INCORRETA. Incorreta: Muitas vezes precisa de acesso primeiro.\nB) INCORRETA. Incorreta: Incoerente.\nC) CORRETA. Correta: Sequência clássica.\nD) INCORRETA. Incorreta: Inicialmente precisa abrir para tratar sangramento."
+    },
+    {
+      "id": 237,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a3",
+      "enunciado": "Pinça anatômica (“com dentes finos”) comparada à de “dente de rato” em pele:",
+      "opcoes": [
+        "A) Substitui pinça hemostática Kelly em pedículo de artéria mesentérica mayor",
+        "B) É sempre mais traumática para pele e fáscia",
+        "C) Não tem função em cirurgia geral",
+        "D) Oferece preensão menos trauma em tecido delicado quando usada corretamente frente ao dente de rato em certas camadas"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Tempos operatórios (diérese, hemostasia, síntese) e instrumental básico de mesa.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não substitui pinça hemostática em pedículo maior.",
+        "B": "Incorreta: A pinça anatômica nem sempre é “sempre” mais traumática; depende do uso.",
+        "C": "Incorreta: A pinça anatômica tem função em cirurgia geral.",
+        "D": "Correta: Em tecido delicado, a anatômica bem utilizada pode ser menos traumática que dente de rato."
+      },
+      "explicacao": "Resumo: Escolha de pinça de preensão depende de tecido e intento.\nA) INCORRETA. Incorreta: Não substitui pinça hemostática em pedículo maior.\nB) INCORRETA. Incorreta: A pinça anatômica nem sempre é “sempre” mais traumática; depende do uso.\nC) INCORRETA. Incorreta: A pinça anatômica tem função em cirurgia geral.\nD) CORRETA. Correta: Em tecido delicado, a anatômica bem utilizada pode ser menos traumática que dente de rato."
+    },
+    {
+      "id": 238,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Cirurgião principal tem como responsabilidade central:",
+      "opcoes": [
+        "A) Definir estratégia operatória e decidir momentos críticos do procedimento",
+        "B) Substituir anestesista na indução sem qualificação",
+        "C) Impedir comunicação com instrumentador para agilizar",
+        "D) Gerenciar somente documentação pós-operatória sem decisão em campo"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Definição.",
+        "B": "Incorreta: Funções separadas.",
+        "C": "Incorreta: Comunicação deve fluir.",
+        "D": "Incorreta: Papel clínico em sala é decisório."
+      },
+      "explicacao": "Resumo: Liderança técnica e decisão ficam com cirurgião principal.\nA) CORRETA. Correta: Definição.\nB) INCORRETA. Incorreta: Funções separadas.\nC) INCORRETA. Incorreta: Comunicação deve fluir.\nD) INCORRETA. Incorreta: Papel clínico em sala é decisório."
+    },
+    {
+      "id": 239,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Primeiro auxiliar apoia o cirurgião principal principalmente com:",
+      "opcoes": [
+        "A) Anestesia de via aérea avançada",
+        "B) Exposição, tração controlada e hemostasia auxiliar conforme comando",
+        "C) Processamento de material em autoclave durante o ato",
+        "D) Recepção de visitantes no bloco"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Anestesia.",
+        "B": "Correta: Funções clássicas.",
+        "C": "Incorreta: CME não intervém em mesa aberta dessa forma.",
+        "D": "Incorreta: Circulação e normas de visita."
+      },
+      "explicacao": "Resumo: Auxiliar ativo melhora campo e ritmo.\nA) INCORRETA. Incorreta: Anestesia.\nB) CORRETA. Correta: Funções clássicas.\nC) INCORRETA. Incorreta: CME não intervém em mesa aberta dessa forma.\nD) INCORRETA. Incorreta: Circulação e normas de visita."
+    },
+    {
+      "id": 240,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Instrumentador deve:",
+      "opcoes": [
+        "A) Opinar clinicamente sobre diagnóstico definitivo sem base",
+        "B) Entrar e sair da mesa estéril livremente sem avisar",
+        "C) Antecipar passos, organizar mesa por tempos e passar instrumental de modo seguro",
+        "D) Realizar troca de lâmpada céu operatório dentro do campo sem técnica"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Papel colaborativo sem usurpar médico.",
+        "B": "Incorreta: Movimentação comunicada e técnica.",
+        "C": "Correta: Definição competente.",
+        "D": "Incorreta: Manutenção segue protocolo."
+      },
+      "explicacao": "Resumo: Instrumentação é antecipação técnica, não só entrega passiva.\nA) INCORRETA. Incorreta: Papel colaborativo sem usurpar médico.\nB) INCORRETA. Incorreta: Movimentação comunicada e técnica.\nC) CORRETA. Correta: Definição competente.\nD) INCORRETA. Incorreta: Manutenção segue protocolo."
+    },
+    {
+      "id": 241,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Comunicação em “alça fechada” significa:",
+      "opcoes": [
+        "A) Uso exclusivo de gestos sem palavras",
+        "B) Ordem dita baixo para o paciente não ouvir",
+        "C) Comando único sem confirmação da equipe",
+        "D) Ordem clara, repetição pelo receptor e confirmação antes do uso crítico"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Verbalização padronizada.",
+        "B": "Incorreta: Não é sigilo para paciente.",
+        "C": "Incorreta: Confirmação é essência.",
+        "D": "Correta: Definição."
+      },
+      "explicacao": "Resumo: Fechamento do laço verbal reduz erro de material.\nA) INCORRETA. Incorreta: Verbalização padronizada.\nB) INCORRETA. Incorreta: Não é sigilo para paciente.\nC) INCORRETA. Incorreta: Confirmação é essência.\nD) CORRETA. Correta: Definição."
+    },
+    {
+      "id": 242,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Ergonomia em mesa cirúrgica inclui:",
+      "opcoes": [
+        "A) Ajustar altura da mesa, foco de luz e apoio de braços quando possível",
+        "B) Cruzar braços sobre campo por longos períodos",
+        "C) Flexão lombar prolongada sem ajuste de altura",
+        "D) Retroiluminação do campo aceitável para “economizar energia”"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Ajustar altura da mesa, foco de luz e apoio de braços reduz fadiga e erro.",
+        "B": "Incorreta: Manter braços cruzados sobre o campo por longos períodos atrapalha o ato.",
+        "C": "Incorreta: Flexão lombar prolongada sem ajuste de altura compromete ergonomia.",
+        "D": "Incorreta: Retroiluminação não substitui boa direção de luz ao leito operatório."
+      },
+      "explicacao": "Resumo: Postura sustenta precisão no tempo.\nA) CORRETA. Correta: Ajustar altura da mesa, foco de luz e apoio de braços reduz fadiga e erro.\nB) INCORRETA. Incorreta: Manter braços cruzados sobre o campo por longos períodos atrapalha o ato.\nC) INCORRETA. Incorreta: Flexão lombar prolongada sem ajuste de altura compromete ergonomia.\nD) INCORRETA. Incorreta: Retroiluminação não substitui boa direção de luz ao leito operatório."
+    },
+    {
+      "id": 243,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Aspiração no campo deve ser conduzida para:",
+      "opcoes": [
+        "A) Ocultar o campo do cirurgião durante todo o tempo",
+        "B) Remover fluidos e melhorar visibilidade sem interferir no gesto principal",
+        "C) Substituir hemostasia definitiva em vaso íntegro sangrando",
+        "D) Irrigar cavidade com pressão máxima contínua sem critério"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Erro de técnica.",
+        "B": "Correta: Objetivo.",
+        "C": "Incorreta: Clampagem/ligadura podem ser necessários.",
+        "D": "Incorreta: Irrigação tem parâmetros."
+      },
+      "explicacao": "Resumo: Aspirador é extensão da visão, não obstáculo permanente.\nA) INCORRETA. Incorreta: Erro de técnica.\nB) CORRETA. Correta: Objetivo.\nC) INCORRETA. Incorreta: Clampagem/ligadura podem ser necessários.\nD) INCORRETA. Incorreta: Irrigação tem parâmetros."
+    },
+    {
+      "id": 244,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Contagem de compressas e agulhas é responsabilidade:",
+      "opcoes": [
+        "A) Apenas do paciente em sedação",
+        "B) Exclusivamente administrativa pós-saída da sala",
+        "C) Coletiva do time cirúrgico com registro explícito em momentos definidos",
+        "D) Opcional em cirurgias “pequenas”"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Absurdo.",
+        "B": "Incorreta: Ocorre em sala com time.",
+        "C": "Correta: Definição de segurança.",
+        "D": "Incorreta: Porte não dispensa contagem."
+      },
+      "explicacao": "Resumo: Objeto retido é evento evitável com protocolo.\nA) INCORRETA. Incorreta: Absurdo.\nB) INCORRETA. Incorreta: Ocorre em sala com time.\nC) CORRETA. Correta: Definição de segurança.\nD) INCORRETA. Incorreta: Porte não dispensa contagem."
+    },
+    {
+      "id": 245,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Entrega segura de bisturi ao cirurgião inclui:",
+      "opcoes": [
+        "A) Entregar com lâmina voltada para o receptor sem aviso",
+        "B) Colocar na mesa fora do campo sem identificar destino",
+        "C) Arremesso parabólico sobre o campo",
+        "D) Orientar empunhadura e direção segura da lâmina, evitando punção acidental"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Deve anunciar orientação.",
+        "B": "Incorreta: Entrega direta preferível.",
+        "C": "Incorreta: Proibido.",
+        "D": "Correta: Técnica."
+      },
+      "explicacao": "Resumo: Passagem de instrumento cortante exige respeito à ponta.\nA) INCORRETA. Incorreta: Deve anunciar orientação.\nB) INCORRETA. Incorreta: Entrega direta preferível.\nC) INCORRETA. Incorreta: Proibido.\nD) CORRETA. Correta: Técnica."
+    },
+    {
+      "id": 246,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Segundo auxiliar, quando presente, costuma colaborar com:",
+      "opcoes": [
+        "A) Apoio de campo, sucção secundária e logística local conforme necessidade",
+        "B) Assinar alta hospitalar sozinho",
+        "C) Executar anestesia regional sem prescrição",
+        "D) Decidir indicação de antibioticoterapia empírica sem cultura em todos os casos"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Descrição típica.",
+        "B": "Incorreta: Papel administrativo médico.",
+        "C": "Incorreta: Competência legal e técnica.",
+        "D": "Incorreta: Médico assistente decide com critério."
+      },
+      "explicacao": "Resumo: Função de apoio móvel no campo.\nA) CORRETA. Correta: Descrição típica.\nB) INCORRETA. Incorreta: Papel administrativo médico.\nC) INCORRETA. Incorreta: Competência legal e técnica.\nD) INCORRETA. Incorreta: Médico assistente decide com critério."
+    },
+    {
+      "id": 247,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Trocar posição em relação ao cirurgião durante o ato exige:",
+      "opcoes": [
+        "A) Movimento brusco silencioso para não alarmar o paciente",
+        "B) Comunicação prévia para evitar tração inesperada e colisão instrumental",
+        "C) Apenas comando interno mental sem verbalização",
+        "D) Desligar luzes principais para privacidade"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Perigoso.",
+        "B": "Correta: Conduta correta.",
+        "C": "Incorreta: Falar antes de mover.",
+        "D": "Incorreta: Sem relação com privacidade."
+      },
+      "explicacao": "Resumo: Coordenação evita lesão e perda de campo.\nA) INCORRETA. Incorreta: Perigoso.\nB) CORRETA. Correta: Conduta correta.\nC) INCORRETA. Incorreta: Falar antes de mover.\nD) INCORRETA. Incorreta: Sem relação com privacidade."
+    },
+    {
+      "id": 248,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Falha de equipe em sala frequentemente decorre de:",
+      "opcoes": [
+        "A) Uso de checklist de segurança bem ensaiado",
+        "B) Comunicação fechada e confirmações redundantes em tarefas críticas",
+        "C) Mensagem verbal ambígua e falta de confirmação do material solicitado",
+        "D) Instrumentação antecipando próximo passo com mesa organizada"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Previne erro.",
+        "B": "Incorreta: Previne erro.",
+        "C": "Correta: Causa típica.",
+        "D": "Incorreta: Boa prática."
+      },
+      "explicacao": "Resumo: Erro humano cresce com linguagem imprecisa.\nA) INCORRETA. Incorreta: Previne erro.\nB) INCORRETA. Incorreta: Previne erro.\nC) CORRETA. Correta: Causa típica.\nD) INCORRETA. Incorreta: Boa prática."
+    },
+    {
+      "id": 249,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a4",
+      "enunciado": "Interno em cirurgia, ao identificar dúvida sobre gesto solicitado, deve:",
+      "opcoes": [
+        "A) Retirar-se da sala sem aviso",
+        "B) Executar mesmo sem entender para demonstrar iniciativa",
+        "C) Inventar alternativa sem consultar o cirurgião",
+        "D) Parar, esclarecer verbalmente e só então prosseguir com comando explícito"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Papéis da equipe, ergonomia, instrumentação e comunicação em alça fechada.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Comunicar saída se necessário.",
+        "B": "Incorreta: Arriscado.",
+        "C": "Incorreta: Inaceitável.",
+        "D": "Correta: Conduta profissional."
+      },
+      "explicacao": "Resumo: Cirurgia exige segurança psicomotora baseada em entendimento mútuo.\nA) INCORRETA. Incorreta: Comunicar saída se necessário.\nB) INCORRETA. Incorreta: Arriscado.\nC) INCORRETA. Incorreta: Inaceitável.\nD) CORRETA. Correta: Conduta profissional."
+    },
+    {
+      "id": 250,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Fio monofilamentar, em comparação clássica ao multifilamentar, tende a apresentar:",
+      "opcoes": [
+        "A) Menor arrasto tecidual e menor capilaridade quando comparado a multifilamento",
+        "B) Impossibilidade de uso em pele",
+        "C) Degradação enzimática imediata em todos os casos",
+        "D) Maior capilaridade e colonização relativa do sulco intersticial entre filamentos"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Correta: Vantagem típica do monofilamento.",
+        "B": "Incorreta: Pele usa monofilamento inabsorvível frequentemente.",
+        "C": "Incorreta: Absorvíveis têm taxas variáveis.",
+        "D": "Incorreta: Descreve multifilamento."
+      },
+      "explicacao": "Resumo: Monofilamento reduz sulcos microbianos; multifilamento pode ter mais capilaridade.\nA) CORRETA. Correta: Vantagem típica do monofilamento.\nB) INCORRETA. Incorreta: Pele usa monofilamento inabsorvível frequentemente.\nC) INCORRETA. Incorreta: Absorvíveis têm taxas variáveis.\nD) INCORRETA. Incorreta: Descreve multifilamento."
+    },
+    {
+      "id": 251,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Poliglactina 910 (ex.: Vicryl) caracteriza-se como fio:",
+      "opcoes": [
+        "A) Inabsorvível monofilamentar para hérnia de grande tensão isolada",
+        "B) Absorvível multifilamentar muito usado em planos intermediários e mucosas conforme indicação",
+        "C) Metalestruturado para osteossíntese",
+        "D) Só indicado para cardioextracorpóreo sem exceção"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não descreve poliglactina.",
+        "B": "Correta: Correto.",
+        "C": "Incorreta: Não é fio metálico.",
+        "D": "Incorreta: Uso cirúrgico geral amplo."
+      },
+      "explicacao": "Resumo: Vicryl é absorvível trançado clássico.\nA) INCORRETA. Incorreta: Não descreve poliglactina.\nB) CORRETA. Correta: Correto.\nC) INCORRETA. Incorreta: Não é fio metálico.\nD) INCORRETA. Incorreta: Uso cirúrgico geral amplo."
+    },
+    {
+      "id": 252,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Polipropileno costuma ser escolhido quando se deseja:",
+      "opcoes": [
+        "A) Uso exclusivo em nervo periférico sem microsutura",
+        "B) Perda rápida de força tensil em 7 dias",
+        "C) Manutenção prolongada de suporte por ser inabsorvível de baixa reatividade",
+        "D) Absorção aguda sem tração"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Indicações variam.",
+        "B": "Incorreta: Absorvível perde força.",
+        "C": "Correta: Perfil desejado.",
+        "D": "Incorreta: Não é absorvível."
+      },
+      "explicacao": "Resumo: Prolene é monofilamento inabsorvível de referência em muitas indicações.\nA) INCORRETA. Incorreta: Indicações variam.\nB) INCORRETA. Incorreta: Absorvível perde força.\nC) CORRETA. Correta: Perfil desejado.\nD) INCORRETA. Incorreta: Não é absorvível."
+    },
+    {
+      "id": 253,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Agulha com ponta cortante convencional costuma ser preferida para:",
+      "opcoes": [
+        "A) Mucosa gástrica sem trauma nunca",
+        "B) Sutura de nervópio desnudo sem visualização",
+        "C) Perfuração de fígado parenquimatoso friável exclusivamente com ponta romba",
+        "D) Pele e tecidos fibrosos que exigem penetração cortante controlada"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Mucosa pode usar taper; generalização falsa.",
+        "B": "Incorreta: Microcirurgia tem regras específicas.",
+        "C": "Incorreta: Ponta apropriação invertida.",
+        "D": "Correta: Indicação típica."
+      },
+      "explicacao": "Resumo: Ponta cortante facilita entrada em planos resistentes superficiais.\nA) INCORRETA. Incorreta: Mucosa pode usar taper; generalização falsa.\nB) INCORRETA. Incorreta: Microcirurgia tem regras específicas.\nC) INCORRETA. Incorreta: Ponta apropriação invertida.\nD) CORRETA. Correta: Indicação típica."
+    },
+    {
+      "id": 254,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Agulha cilíndrica (taper point) é mais indicada para:",
+      "opcoes": [
+        "A) Tecidos friáveis ou delicados em que se deseja menor corte de fibras na penetração",
+        "B) Osteodese com broca integrada",
+        "C) Fechamento rápido de tendão calcâneo sem técnica de tensão",
+        "D) Pele espessa em região palmoplantar sem exceção com corte agressivo"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Correta: Correto.",
+        "B": "Incorreta: Não é broca.",
+        "C": "Incorreta: Técnica e material específicos.",
+        "D": "Incorreta: Costuma ser cortante/reversa em pele espessa."
+      },
+      "explicacao": "Resumo: Taper dilata em vez de talhar agressivamente.\nA) CORRETA. Correta: Correto.\nB) INCORRETA. Incorreta: Não é broca.\nC) INCORRETA. Incorreta: Técnica e material específicos.\nD) INCORRETA. Incorreta: Costuma ser cortante/reversa em pele espessa."
+    },
+    {
+      "id": 255,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Em campo com risco infeccioso elevado, uso de multifilamento:",
+      "opcoes": [
+        "A) Deve ser ampliado sem critério pelo “melhor” manuseio",
+        "B) Requer cautela relacionada à capilaridade e colonização potencial versus monofilamento",
+        "C) É proibido em qualquer cirurgia eletiva do planeta",
+        "D) Substitui drenagem obliteratoria em todos os casos"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Risco aumenta sem critério.",
+        "B": "Correta: Raciocínio técnicamente correto.",
+        "C": "Incorreta: Hiperbole incorreta.",
+        "D": "Incorreta: Drenagem é decisão anatômica/clínica."
+      },
+      "explicacao": "Resumo: Contexto contaminado modula escolha de fio.\nA) INCORRETA. Incorreta: Risco aumenta sem critério.\nB) CORRETA. Correta: Raciocínio técnicamente correto.\nC) INCORRETA. Incorreta: Hiperbole incorreta.\nD) INCORRETA. Incorreta: Drenagem é decisão anatômica/clínica."
+    },
+    {
+      "id": 256,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Memória (“spring”) excessiva do fio durante nó dificulta:",
+      "opcoes": [
+        "A) Contagem de instrumentais",
+        "B) Somente escolha da agulha, nunca o arco",
+        "C) Ajuste fino da tensão e favorece nós frouxos ou instáveis se mal controlado",
+        "D) Perfuração em pele"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Sem relação.",
+        "B": "Incorreta: Afeta também manobra.",
+        "C": "Correta: Efeito clínico.",
+        "D": "Incorreta: Menos relacionado direto."
+      },
+      "explicacao": "Resumo: Monofilamentos exigem mais lances e controle de tensão.\nA) INCORRETA. Incorreta: Sem relação.\nB) INCORRETA. Incorreta: Afeta também manobra.\nC) CORRETA. Correta: Efeito clínico.\nD) INCORRETA. Incorreta: Menos relacionado direto."
+    },
+    {
+      "id": 257,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Polidioxanona (ex.: PDS) costuma ser escolhida quando:",
+      "opcoes": [
+        "A) Desejamos absorção em 24–48 h sem vestígio em todos os pacientes",
+        "B) O objetivo é sempre apenas estética da sutura cuticular sem resistência",
+        "C) Só é usada em oftalmologia pediátrica estrita",
+        "D) É necessário suporte absorvível prolongado em planos de tensão como parede/fáscia"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Não absorve tão rápido.",
+        "B": "Incorreta: Função mecânica importa.",
+        "C": "Incorreta: Uso mais amplo.",
+        "D": "Correta: Tempo de suporte maior."
+      },
+      "explicacao": "Resumo: PDS tem absorção lenta comparada a muitos absorvíveis rápidos.\nA) INCORRETA. Incorreta: Não absorve tão rápido.\nB) INCORRETA. Incorreta: Função mecânica importa.\nC) INCORRETA. Incorreta: Uso mais amplo.\nD) CORRETA. Correta: Tempo de suporte maior."
+    },
+    {
+      "id": 258,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Erro ao apertar o nó com excesso de tração pode causar:",
+      "opcoes": [
+        "A) Isquemia tecidual, necrose de borda e risco de deiscência",
+        "B) Cicatrização hipertrófica garantida positivamente",
+        "C) Eliminação automática de seroma",
+        "D) Aumento da perfusão da borda do ferimento"
+      ],
+      "correta": 0,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Correta: Correto.",
+        "B": "Incorreta: Não há garantia hipertrófica assim.",
+        "C": "Incorreta: Seroma depende de múltiplos fatores.",
+        "D": "Incorreta: Estrangulação reduz perfusão."
+      },
+      "explicacao": "Resumo: Tensão adequada coapta sem estrangular.\nA) CORRETA. Correta: Correto.\nB) INCORRETA. Incorreta: Não há garantia hipertrófica assim.\nC) INCORRETA. Incorreta: Seroma depende de múltiplos fatores.\nD) INCORRETA. Incorreta: Estrangulação reduz perfusão."
+    },
+    {
+      "id": 259,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Nó seguro exige, entre outros cuidados:",
+      "opcoes": [
+        "A) Ignorar simetria das mordidas em pele",
+        "B) Lances firmes alternados no eixo e controle de tensão sem “serração” da borda",
+        "C) Corte da cauda rente demais sem supervisão em qualquer plano",
+        "D) Cauda excessivamente longa sempre para facilitar retratação"
+      ],
+      "correta": 1,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Simetria importa para borda.",
+        "B": "Correta: Técnica correta.",
+        "C": "Incorreta: Cauda curta pode afrouxar.",
+        "D": "Incorreta: Cauda longa pode irritar."
+      },
+      "explicacao": "Resumo: Arquitetura do nó e tensão protegem borda.\nA) INCORRETA. Incorreta: Simetria importa para borda.\nB) CORRETA. Correta: Técnica correta.\nC) INCORRETA. Incorreta: Cauda curta pode afrouxar.\nD) INCORRETA. Incorreta: Cauda longa pode irritar."
+    },
+    {
+      "id": 260,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Poliamida (Nylon) como fio inabsorvível monofilamentar costuma ser aplicada em:",
+      "opcoes": [
+        "A) Fechamento temporário único de fáscia em neonato sem critério",
+        "B) Adesivos exclusivos subcutâneos sem passagem de agulha",
+        "C) Suturas de pele e situações que requerem resistência inicial e manejo com monofilamento",
+        "D) Resorção completa em poucas horas em qualquer paciente, sem variabilidade"
+      ],
+      "correta": 2,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Uso depende de protocolo neonatal.",
+        "B": "Incorreta: Não cobre todos os casos.",
+        "C": "Correta: Indicação típica.",
+        "D": "Incorreta: O tempo de manutenção da resistência varia; não há resorção “fixa em horas” universal."
+      },
+      "explicacao": "Resumo: Nylon/etilon é clássico em pele com agulha cortante.\nA) INCORRETA. Incorreta: Uso depende de protocolo neonatal.\nB) INCORRETA. Incorreta: Não cobre todos os casos.\nC) CORRETA. Correta: Indicação típica.\nD) INCORRETA. Incorreta: O tempo de manutenção da resistência varia; não há resorção “fixa em horas” universal."
+    },
+    {
+      "id": 261,
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a5",
+      "enunciado": "Escolha de agulha com curvatura 1/2, em relação a 3/8, costuma correlacionar-se com:",
+      "opcoes": [
+        "A) Ausência de necessidade de porta-agulha",
+        "B) Sempre cirurgia abdomininal superficial exclusiva",
+        "C) Campo superficial apenas sem exceção",
+        "D) Espaços mais profundos ou restritos onde arco completo auxilia manobra"
+      ],
+      "correta": 3,
+      "dificuldade": 2,
+      "modulo": 6,
+      "explicacao_geral": "Propriedades de fios, escolha por plano e agulhas (ponta e curvatura).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Porta-agulha quase sempre necessário.",
+        "B": "Incorreta: Generalização falsa.",
+        "C": "Incorreta: 3/8 costuma ser “campo aberto”.",
+        "D": "Correta: Uso clássico de 1/2 em profundidade."
+      },
+      "explicacao": "Resumo: Curvatura adequa-se à geometria do plano.\nA) INCORRETA. Incorreta: Porta-agulha quase sempre necessário.\nB) INCORRETA. Incorreta: Generalização falsa.\nC) INCORRETA. Incorreta: 3/8 costuma ser “campo aberto”.\nD) CORRETA. Correta: Uso clássico de 1/2 em profundidade."
     }
   ]
 }
