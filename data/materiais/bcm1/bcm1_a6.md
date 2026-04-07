@@ -62,7 +62,7 @@ O transcrito primário (pré-mRNA) sofre três modificações antes de sair do n
 
 **1. Capping 5' (m7GpppN):**
 - Adição de 7-metilguanosina na extremidade 5' — ocorre cotranscricionalmente
-- Funções: protège o mRNA da degradação por exonucleases 5'→3'; essencial para o reconhecimento pelo ribossomo (binding ao fator de iniciação eIF4E)
+- Funções: protege o mRNA da degradação por exonucleases 5'→3'; essencial para o reconhecimento pelo ribossomo (binding ao fator de iniciação eIF4E)
 
 **2. Splicing (remoção dos íntrons):**
 - Spliceosome: complexo de snRNPs (U1, U2, U4, U5, U6)
@@ -118,11 +118,9 @@ A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em hip
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
-
+### Síntese para a prova
 - **RNA Pol I**: rRNA (nucléolo); **RNA Pol II**: mRNA; **RNA Pol III**: tRNA
 - **RNA Pol**: não precisa de primer (contrário da DNA Pol)
 - **Capping 5' (m7G)**: proteção da extremidade 5' + sinalização ribossomal
@@ -145,13 +143,4 @@ A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em hip
 | Metilação DNA | Metilação histona H3K4 | DNA metilação = geralmente SILENCIA; H3K4 metilação = geralmente ATIVA |
 
 ### Frase-âncora para não esquecer
-
 > "Rifampicina pega a RNA Pol bacteriana pelo canal de saída do RNA — e de quebra acelera o fígado, tirando o efeito dos outros remédios. Dupla ação, duplo cuidado."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

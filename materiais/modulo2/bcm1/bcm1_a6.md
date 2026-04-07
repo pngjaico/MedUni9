@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A transcrição é o ponto onde o genoma "fala" — e o silenciamento ou a superexpressão de genes é a origem de doenças tão diversas quanto câncer, doenças autoimunes e erros inatos do metabolismo. Drogas como a rifampicina (antibiótico antituberculose) inibem diretamente a **RNA** polimerase bacteriana, e a terapia com inibidores de histona deacetilase (HDACi) como o vorinostat reclassificam genes silenciados em células tumorais. Entender onde e como o controle da expressão gênica é exercido é entender onde os fármacos e as doenças moleculares interferem.
+A transcrição é o ponto onde o genoma "fala" — e o silenciamento ou a superexpressão de genes é a origem de doenças tão diversas quanto câncer, doenças autoimunes e erros inatos do metabolismo. Drogas como a rifampicina (antibiótico antituberculose) inibem diretamente a RNA polimerase bacteriana, e a terapia com inibidores de histona deacetilase (HDACi) como o vorinostat reclassificam genes silenciados em células tumorais. Entender onde e como o controle da expressão gênica é exercido é entender onde os fármacos e as doenças moleculares interferem.
 
-A **Uninove** cobra transcrição e regulação integrados com SBRT antibióticos, epigenética e oncologia molecular. Esta aula costura a biologia molecular com suas aplicações clínicas mais modernas.
+A Uninove cobra transcrição e regulação integrados com SBRT antibióticos, epigenética e oncologia molecular. Esta aula costura a biologia molecular com suas aplicações clínicas mais modernas.
 
 ### Figura sugerida
 
@@ -52,17 +52,17 @@ Além do promotor central, a transcrição é regulada por elementos distais:
 - **Enhancers:** ativam a transcrição a grandes distâncias (até 1 Mb); os fatores de transcrição ativadores ligam-se aos enhancers e fazem contato com o complexo de pré-iniciação por dobrimento do DNA (loop)
 - **Silencers:** reprimem a transcrição; ligam repressores
 
-Complexo de pré-iniciação: TBP → TFIID → TFIIA, TFIIB, TFIIF + **RNA** Pol II → TFIIE e TFIIH (helicase, abre o **DNA**; cinase para fosforilação do CTD da RNA Pol II, liberando-a para elongação)
+Complexo de pré-iniciação: TBP → TFIID → TFIIA, TFIIB, TFIIF + RNA Pol II → TFIIE e TFIIH (helicase, abre o DNA; cinase para fosforilação do CTD da RNA Pol II, liberando-a para elongação)
 
 ---
 
 ## Processamento do pré-mRNA (hnRNA → mRNA maduro)
 
-O transcrito primário (pré-**mRNA**) sofre três modificações antes de sair do núcleo:
+O transcrito primário (pré-mRNA) sofre três modificações antes de sair do núcleo:
 
 **1. Capping 5' (m7GpppN):**
 - Adição de 7-metilguanosina na extremidade 5' — ocorre cotranscricionalmente
-- Funções: protège o mRNA da degradação por exonucleases 5'→3'; essencial para o reconhecimento pelo ribossomo (binding ao fator de iniciação eIF4E)
+- Funções: protege o mRNA da degradação por exonucleases 5'→3'; essencial para o reconhecimento pelo ribossomo (binding ao fator de iniciação eIF4E)
 
 **2. Splicing (remoção dos íntrons):**
 - Spliceosome: complexo de snRNPs (U1, U2, U4, U5, U6)
@@ -90,7 +90,7 @@ O controle da expressão gênica opera em múltiplos níveis:
 | Pós-traducional | Fosforilação, ubiquitinação, clivagem | Ubiquitinação → proteassoma → degradação proteica |
 
 **Controle por miRNA:**
-miRNAs (~22 nt) ligam-se a sequências complementares no 3'UTR do **mRNA**-alvo → silenciamento pós-transcricional (inibição da tradução + desestabilização do mRNA). Aberrações na expressão de miRNA são onipresentes no câncer.
+miRNAs (~22 nt) ligam-se a sequências complementares no 3'UTR do mRNA-alvo → silenciamento pós-transcricional (inibição da tradução + desestabilização do mRNA). Aberrações na expressão de miRNA são onipresentes no câncer.
 
 > **Pegadinha:** A rifampicina é potente **indutor** do CYP3A4 e de outras enzimas do sistema P450 — isso acelera a metabolização de contraceptivos orais, anticoagulantes e outros fármacos → reduz suas concentrações → falha terapêutica. Questão clássica: paciente em uso de rifampicina + contraceptivo oral → gestação indesejada.
 
@@ -113,24 +113,24 @@ miRNAs (~22 nt) ligam-se a sequências complementares no 3'UTR do **mRNA**-alvo 
 
 ## Ponte com a Clínica
 
-A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em **hipóxia**, o HIF-1α escapa da degradação pelo VHL (Von Hippel-Lindau) → se transloca para o núcleo → ativa a transcrição de EPO, VEGF e outros genes de adaptação à hipóxia. Mutações do gene VHL causam a síndrome de VHL (tumores renais de células claras, hemangioblastomas) — a inativação do supressor tumoral libera HIF permanentemente. Fármacos que inibem a prolil-hidroxilase (que marcam HIF para degradação) elevam o HIF e estimulam EPO — conceito por trás do daprodustat (usado em anemia por DRC). Toda esta em transcrição regulada por enhancers e fatores de transcrição.
+A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em hipóxia, o HIF-1α escapa da degradação pelo VHL (Von Hippel-Lindau) → se transloca para o núcleo → ativa a transcrição de EPO, VEGF e outros genes de adaptação à hipóxia. Mutações do gene VHL causam a síndrome de VHL (tumores renais de células claras, hemangioblastomas) — a inativação do supressor tumoral libera HIF permanentemente. Fármacos que inibem a prolil-hidroxilase (que marcam HIF para degradação) elevam o HIF e estimulam EPO — conceito por trás do daprodustat (usado em anemia por DRC). Toda esta em transcrição regulada por enhancers e fatores de transcrição.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-RNA Pol I: rRNA (nucléolo); RNA Pol II: mRNA; RNA Pol III: tRNA. RNA Pol: não precisa de primer (contrário da DNA Pol). Capping 5' (m7G): proteção da extremidade 5' + sinalização ribossomal.
-
-Splicing: GT (doador) → AG (aceptor); mutação → splicing aberrante → doença (talassemia). Splicing alternativo: mesmo gene → diferentes isoformas de proteína. Poly-A (AAUAAA): estabilidade do mRNA; ~200 adeninas 3'.
-
-Rifampicina: inibe RNA Pol bacteriana; indutor CYP3A4 → muitas interações farmacológicas. MiRNA: 22 nt; liga 3'UTR → silencia mRNA alvo; desregulado em cânceres. Metilação CpG: silências genes; hipometilação global + hipermetilação local em tumores.
-
-HDAC inibidores (vorinostat): acetilam histonas → reativam genes supressores em tumores.
+- **RNA Pol I**: rRNA (nucléolo); **RNA Pol II**: mRNA; **RNA Pol III**: tRNA
+- **RNA Pol**: não precisa de primer (contrário da DNA Pol)
+- **Capping 5' (m7G)**: proteção da extremidade 5' + sinalização ribossomal
+- **Splicing**: GT (doador) → AG (aceptor); mutação → splicing aberrante → doença (talassemia)
+- **Splicing alternativo**: mesmo gene → diferentes isoformas de proteína
+- **Poly-A (AAUAAA)**: estabilidade do mRNA; ~200 adeninas 3'
+- **Rifampicina**: inibe RNA Pol bacteriana; indutor CYP3A4 → muitas interações farmacológicas
+- **miRNA**: 22 nt; liga 3'UTR → silencia mRNA alvo; desregulado em cânceres
+- **Metilação CpG**: silências genes; hipometilação global + hipermetilação local em tumores
+- **HDAC inibidores (vorinostat)**: acetilam histonas → reativam genes supressores em tumores
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -143,13 +143,4 @@ HDAC inibidores (vorinostat): acetilam histonas → reativam genes supressores e
 | Metilação DNA | Metilação histona H3K4 | DNA metilação = geralmente SILENCIA; H3K4 metilação = geralmente ATIVA |
 
 ### Frase-âncora para não esquecer
-
 > "Rifampicina pega a RNA Pol bacteriana pelo canal de saída do RNA — e de quebra acelera o fígado, tirando o efeito dos outros remédios. Dupla ação, duplo cuidado."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

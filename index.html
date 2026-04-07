@@ -1806,14 +1806,14 @@
     }
 
     .flashcard-explanation {
-      font-size: 11px;
+      font-size: 12px;
       line-height: 1.45;
       color: var(--text-secondary);
       opacity: 0.38;
       margin-top: 10px;
       padding-top: 8px;
       border-top: 1px solid rgba(255, 255, 255, 0.05);
-      text-align: left;
+      text-align: center;
       width: 100%;
       font-weight: 400;
     }
@@ -2296,6 +2296,260 @@
       margin: 0 0 10px;
       padding-bottom: 6px;
       border-bottom: 1px solid rgba(0, 200, 150, 0.2);
+    }
+
+    /* TO Estudos — instrumentais (Materiais) */
+    .to-estudos-callout {
+      margin-bottom: 20px;
+      padding: 16px 18px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, rgba(55, 65, 81, 0.35), rgba(0, 200, 150, 0.12));
+      border: 1px solid rgba(0, 200, 150, 0.22);
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+    }
+    .to-estudos-callout h3 {
+      font-family: Outfit, sans-serif;
+      font-size: 1rem;
+      font-weight: 800;
+      color: #e5e7eb;
+      margin: 0 0 6px;
+      letter-spacing: -0.02em;
+    }
+    .to-estudos-callout p {
+      margin: 0 0 14px;
+      font-size: 0.82rem;
+      color: var(--text-secondary);
+      line-height: 1.55;
+    }
+    .to-estudos-callout-head {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px 10px;
+      margin-bottom: 6px;
+    }
+    .to-estudos-callout-head h3 {
+      margin: 0;
+    }
+    .to-estudos-beta-pill {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.62rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      padding: 3px 8px;
+      border-radius: 999px;
+      background: rgba(245, 158, 11, 0.18);
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      color: #fcd34d;
+    }
+    .to-estudos-beta-banner {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 12px;
+      margin-bottom: 14px;
+      border-radius: 10px;
+      background: rgba(245, 158, 11, 0.07);
+      border: 1px solid rgba(245, 158, 11, 0.26);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.76rem;
+      color: rgba(253, 230, 138, 0.94);
+      line-height: 1.5;
+    }
+    .to-estudos-beta-banner > span:last-child {
+      min-width: 0;
+    }
+    .to-estudos-callout-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .to-estudos-callout-actions button {
+      flex: 1;
+      min-width: 140px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.82rem;
+      font-weight: 700;
+      padding: 11px 16px;
+      border-radius: 10px;
+      cursor: pointer;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      background: rgba(15, 23, 42, 0.65);
+      color: #e5e7eb;
+      transition: background 0.2s, border-color 0.2s, transform 0.15s;
+    }
+    @media (hover: hover) {
+      .to-estudos-callout-actions button:hover {
+        background: linear-gradient(135deg, rgba(0, 200, 150, 0.2), rgba(59, 130, 246, 0.16));
+        border-color: rgba(0, 200, 150, 0.35);
+      }
+    }
+    .to-estudos-seg {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 18px;
+    }
+    .to-estudos-seg button {
+      flex: 1;
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 10px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text-secondary);
+      cursor: pointer;
+    }
+    .to-estudos-seg button.active {
+      background: rgba(0, 200, 150, 0.16);
+      border-color: rgba(0, 200, 150, 0.35);
+      color: #6ee7b7;
+    }
+    .to-estudos-guide-search {
+      width: 100%;
+      margin-bottom: 14px;
+    }
+    .to-estudos-card {
+      background: var(--surface-2);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 14px;
+      margin-bottom: 12px;
+      box-shadow: var(--shadow-sm);
+    }
+    /* Tabuleiro claro: PNGs com transparência leem-se bem; o bloco acompanha o tamanho real da imagem. */
+    .to-estudos-card-img-wrap {
+      border-radius: 12px;
+      overflow: hidden;
+      background: #ffffff;
+      border: 1px solid rgba(15, 23, 42, 0.1);
+      box-shadow:
+        0 2px 14px rgba(0, 0, 0, 0.14),
+        inset 0 1px 0 rgba(255, 255, 255, 0.85);
+      min-height: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 14px;
+      width: fit-content;
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+    .to-estudos-card-img-wrap img {
+      width: auto;
+      height: auto;
+      max-width: 100%;
+      max-height: min(52vh, 300px);
+      object-fit: contain;
+      display: block;
+      vertical-align: bottom;
+    }
+    html[data-theme="light"] .to-estudos-card-img-wrap {
+      border: 1px solid rgba(15, 23, 42, 0.14);
+      box-shadow: 0 2px 12px rgba(15, 23, 42, 0.08);
+    }
+    /* Placeholder sem imagem: área legível sobre fundo claro */
+    .to-estudos-card-img-wrap .to-estudos-ph {
+      background: linear-gradient(180deg, rgba(241, 245, 249, 0.98), rgba(226, 232, 240, 0.92));
+      color: #475569;
+      min-height: 120px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+    .to-estudos-ph {
+      text-align: center;
+      padding: 28px 16px;
+      font-size: 0.78rem;
+      color: #64748b;
+      line-height: 1.5;
+      width: 100%;
+      min-width: min(100%, 260px);
+      box-sizing: border-box;
+    }
+    .to-estudos-pill {
+      display: inline-block;
+      font-size: 0.68rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 4px 8px;
+      border-radius: 999px;
+      background: rgba(124, 58, 237, 0.18);
+      color: #c4b5fd;
+      margin-bottom: 8px;
+    }
+    .to-estudos-dl {
+      margin: 0;
+      font-size: 0.8rem;
+      line-height: 1.5;
+      color: #e5e7eb;
+    }
+    .to-estudos-dl dt {
+      font-size: 0.68rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #94a3b8;
+      margin-top: 10px;
+    }
+    .to-estudos-dl dd {
+      margin: 4px 0 0;
+      color: rgba(255, 255, 255, 0.92);
+    }
+    .to-estudos-confunde {
+      margin-top: 12px;
+      padding: 10px 12px;
+      border-radius: 10px;
+      background: rgba(245, 158, 11, 0.08);
+      border: 1px solid rgba(245, 158, 11, 0.25);
+      font-size: 0.78rem;
+      color: #fcd34d;
+      line-height: 1.5;
+    }
+    .to-quiz-progress {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      margin-bottom: 10px;
+      font-weight: 600;
+    }
+    .to-quiz-char-ok {
+      color: #4ade80;
+      font-weight: 700;
+    }
+    .to-quiz-char-bad {
+      color: #f87171;
+      font-weight: 700;
+    }
+    .to-quiz-gabarito {
+      margin-top: 12px;
+      padding: 12px 14px;
+      border-radius: 10px;
+      background: rgba(16, 185, 129, 0.08);
+      border: 1px solid rgba(16, 185, 129, 0.28);
+      font-size: 0.82rem;
+      color: #a7f3d0;
+    }
+    .to-quiz-review-block {
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .to-quiz-review-item {
+      background: rgba(239, 68, 68, 0.06);
+      border: 1px solid rgba(239, 68, 68, 0.22);
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 10px;
+      font-size: 0.78rem;
+      line-height: 1.5;
+      color: #fecaca;
     }
 
     .material-subject {
@@ -3778,7 +4032,7 @@
   <!-- Firebase SDK (Auth + Firestore + Analytics) -->
   <script type="module">
     import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js';
-    import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
+    import { getFirestore, collection, addDoc, doc, getDoc, setDoc, getDocs, query, where, updateDoc, deleteDoc } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js';
     import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut, sendPasswordResetEmail, updateProfile } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js';
     import { getAnalytics, isSupported } from 'https://www.gstatic.com/firebasejs/10.12.2/firebase-analytics.js';
 
@@ -3806,7 +4060,7 @@
     window.__fbAuth            = _auth;
     window.__fbDb              = _db;
     window.__fbGoogleProvider  = _gprov;
-    window.__fbFirestore       = { doc, getDoc, setDoc, collection, addDoc, getDocs, query, where, updateDoc };
+    window.__fbFirestore       = { doc, getDoc, setDoc, collection, addDoc, getDocs, query, where, updateDoc, deleteDoc };
     window.__fbAuthFns         = {
       createUserWithEmailAndPassword,
       signInWithEmailAndPassword,
@@ -6093,6 +6347,20 @@
       extra_livro: 'Extra (livro)',
     };
     const FC_CATEGORY_ORDER = ['definicao', 'mecanismo', 'clinica', 'diferenciacao', 'prova', 'extra_livro'];
+    const CLOZE_REGEX_GLOBAL = /\{\{c\d+::([^}|]+)(?:\|[^}]+)?\}\}/g;
+    const CLOZE_REGEX_SINGLE = /\{\{c\d+::([^}|]+)(?:\|[^}]+)?\}\}/;
+
+    function parseCloze(text) {
+      if (typeof text !== 'string' || !text.trim()) return null;
+      const matches = [...text.matchAll(CLOZE_REGEX_GLOBAL)];
+      if (!matches.length) return null;
+      const answers = matches.map((m) => (m[1] || '').trim()).filter(Boolean);
+      const frontMasked = text.replace(CLOZE_REGEX_GLOBAL, '_____');
+      return {
+        frontMasked,
+        answers,
+      };
+    }
 
     // Flashcards Screen
     const FlashcardsScreen = ({ flashcards, materias, selectedMateria, onSelectMateria, userSemester, initialAulaId }) => {
@@ -6198,6 +6466,7 @@
       }, [selectedMateria, filtered, buildDeck]);
 
       const currentCard = sessionDeck[currentIndex];
+      const currentCardCloze = parseCloze(currentCard?.pergunta);
 
       const handleRate = useCallback((quality) => {
         const card = currentCard;
@@ -6578,8 +6847,10 @@
               <div className="flashcard" onClick={() => setIsFlipped(!isFlipped)} style={{ cursor: 'pointer' }}>
                 <div className={`flashcard-inner ${isFlipped ? 'flipped' : ''}`}>
                   <div className="flashcard-front">
-                    <div className="flashcard-label">Pergunta</div>
-                    <div className="flashcard-text">{currentCard.pergunta}</div>
+                    <div className="flashcard-label">{currentCardCloze ? 'Lacuna' : 'Pergunta'}</div>
+                    <div className="flashcard-text">
+                      {currentCardCloze?.frontMasked || currentCard.pergunta}
+                    </div>
                     <div className="flashcard-hint">Espaço para virar</div>
                   </div>
                   <div className="flashcard-back">
@@ -7507,12 +7778,179 @@
       );
     };
 
+    const TO_ESTUDOS_MATERIA_ID = 'tecnica_operatoria';
+
+    function normalizeInstrumentAnswerText(s) {
+      const base = String(s || '')
+        .trim()
+        .replace(/\s+/g, ' ')
+        .toLowerCase();
+      try {
+        return base.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+      } catch (e) {
+        return base;
+      }
+    }
+
+    /**
+     * Aceita nome completo ou parte principal: ignora maiúsculas/minúsculas e acentos (após normalizar).
+     * Ex.: "farabeuf", "FARABEUF" ou "Afastador Farabeuf" para gabarito "Afastador Farabeuf".
+     */
+    function instrumentAnswerMatchesRelaxed(nu, ne) {
+      if (!nu || !ne) return false;
+      if (nu.length < 2) return false;
+      if (nu === ne) return true;
+      if (ne.endsWith(' ' + nu)) return true;
+      const tokens = ne.split(/\s+/).filter(Boolean);
+      const last = tokens[tokens.length - 1] || '';
+      if (nu === last) return true;
+      const stop = new Set(['de', 'da', 'do', 'das', 'dos', 'e', 'o', 'a', 'em', 'no', 'na', 'tipo', 'com', 'para']);
+      for (const t of tokens) {
+        if (t === nu && t.length >= 3 && !stop.has(t)) return true;
+      }
+      return false;
+    }
+
+    /** Compara resposta ao nome canônico; destaca caracteres (verde se acerto ou resposta aceita no modo flexível). */
+    function buildInstrumentAnswerDiff(userRaw, expectedNome) {
+      const nu = normalizeInstrumentAnswerText(userRaw);
+      const ne = normalizeInstrumentAnswerText(expectedNome);
+      if (!nu.length) {
+        return { isEmpty: true, isCorrect: false, userSpans: [], normalizedExpected: ne };
+      }
+      const relaxedOk = instrumentAnswerMatchesRelaxed(nu, ne);
+      const userSpans = [];
+      if (relaxedOk) {
+        for (let i = 0; i < nu.length; i += 1) {
+          userSpans.push({ ch: nu[i], ok: true });
+        }
+      } else {
+        for (let i = 0; i < nu.length; i += 1) {
+          const ch = nu[i];
+          const ok = i < ne.length && ne[i] === ch;
+          userSpans.push({ ch, ok });
+        }
+      }
+      return { isEmpty: false, isCorrect: relaxedOk, userSpans, normalizedUser: nu, normalizedExpected: ne };
+    }
+
+    function shuffleInstrumentIds(ids) {
+      const a = ids.slice();
+      for (let i = a.length - 1; i > 0; i -= 1) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    /** Codifica segmentos do path para img src (espaços e caracteres especiais nos nomes de ficheiro). */
+    function encodeLocalAssetPath(p) {
+      const s = String(p || '').trim();
+      if (!s) return s;
+      return s.split('/').map((seg) => (seg === '' ? '' : encodeURIComponent(seg))).join('/');
+    }
+
+    /** Negrito estilo Markdown `**trecho**` em texto inline (guia TO). */
+    function renderInlineBoldMarkdown(s, strongStyle) {
+      const str = String(s || '');
+      const style = strongStyle || { fontWeight: 700, color: 'inherit' };
+      const parts = str.split(/(\*\*.+?\*\*)/g);
+      return parts.map((part, i) => {
+        const m = part.match(/^\*\*([\s\S]+?)\*\*$/);
+        if (m) return <strong key={i} style={style}>{m[1]}</strong>;
+        return part ? <span key={i}>{part}</span> : null;
+      });
+    }
+
+    /**
+     * Troca pixels muito escuros (fundo preto “embutido” em raster) por branco.
+     * Quando r,g,b <= threshold. Cuidado: sombras muito escuras do instrumento também podem clarear.
+     */
+    function toEstudosWhitenEmbeddedBlackBg(img, opts) {
+      const threshold = opts && typeof opts.threshold === 'number' ? opts.threshold : 40;
+      const maxMegapixels = 18;
+      const w = img.naturalWidth;
+      const h = img.naturalHeight;
+      if (!w || !h) return false;
+      if (w * h > maxMegapixels * 1_000_000) return false;
+      const canvas = document.createElement('canvas');
+      canvas.width = w;
+      canvas.height = h;
+      const ctx = canvas.getContext('2d');
+      if (!ctx) return false;
+      ctx.drawImage(img, 0, 0);
+      let data;
+      try {
+        data = ctx.getImageData(0, 0, w, h);
+      } catch (e) {
+        return false;
+      }
+      const px = data.data;
+      let changed = false;
+      for (let i = 0; i < px.length; i += 4) {
+        const r = px[i];
+        const g = px[i + 1];
+        const b = px[i + 2];
+        if (r <= threshold && g <= threshold && b <= threshold) {
+          px[i] = 255;
+          px[i + 1] = 255;
+          px[i + 2] = 255;
+          changed = true;
+        }
+      }
+      if (!changed) return false;
+      ctx.putImageData(data, 0, 0);
+      try {
+        img.src = canvas.toDataURL('image/png');
+        return true;
+      } catch (e) {
+        return false;
+      }
+    }
+
+    function ToEstudosInstrumentFigure({ src, alt, onError }) {
+      const doneRef = useRef(false);
+      const onLoad = useCallback(
+        (e) => {
+          const el = e.currentTarget;
+          if (doneRef.current) return;
+          const s = String(src || '');
+          if (!/\.(png|jpe?g)(\?|#|$)/i.test(s)) return;
+          try {
+            if (toEstudosWhitenEmbeddedBlackBg(el, { threshold: 40 })) {
+              doneRef.current = true;
+            }
+          } catch (err) {}
+        },
+        [src],
+      );
+      return (
+        <img src={src} alt={alt} loading="lazy" decoding="async" onLoad={onLoad} onError={onError} />
+      );
+    }
+
     // Materials Screen — ciclos alinhados a resolveModulesFromCodeEntry (1–4 / 5–8 / 9–12)
     const MATERIALS_CYCLES = [
       { id: 'basico', label: 'Ciclo Básico', sub: 'Módulos 1 a 4', min: 1, max: 4, anchor: 'materials-cycle-basico' },
       { id: 'clinico', label: 'Ciclo Clínico', sub: 'Módulos 5 a 8', min: 5, max: 8, anchor: 'materials-cycle-clinico' },
       { id: 'internato', label: 'Internato', sub: 'Módulos 9 a 12', min: 9, max: 12, anchor: 'materials-cycle-internato' },
     ];
+
+    /** Alinhado a firestore.rules → isAdmin(): só JWT Firebase (email verificado). */
+    const MATERIAL_ADMIN_EMAILS = ['pngjaico@gmail.com'];
+    function isMaterialAdminSession() {
+      const cu = typeof window !== 'undefined' ? window.__fbAuth?.currentUser : null;
+      if (!cu) return false;
+      const em = normalizeAuthEmail(cu.email || '');
+      if (!MATERIAL_ADMIN_EMAILS.includes(em)) return false;
+      return cu.emailVerified === true;
+    }
+    /** Email na lista admin (Auth), ainda que falte no doc Firestore / perfil local. */
+    function isListedMaterialAdminAuth() {
+      const cu = typeof window !== 'undefined' ? window.__fbAuth?.currentUser : null;
+      if (!cu) return false;
+      return MATERIAL_ADMIN_EMAILS.includes(normalizeAuthEmail(cu.email || ''));
+    }
 
     const MaterialsScreen = ({ materias, materiasCatalog, user, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
@@ -7526,6 +7964,23 @@
       const [moduleFilterByCycle, setModuleFilterByCycle] = useState({ basico: null, clinico: null, internato: null });
       const markdownRef = useRef(null);
       const restoredRouteRef = useRef('');
+      const toInstrumentaisCacheRef = useRef(null);
+      const [toEstudosMode, setToEstudosMode] = useState(null);
+      const [toInstLoading, setToInstLoading] = useState(false);
+      const [toInstError, setToInstError] = useState('');
+      const [toInstItems, setToInstItems] = useState(null);
+      const [toInstTitulo, setToInstTitulo] = useState('');
+      const [toGuideSearch, setToGuideSearch] = useState('');
+      const [toQuiz, setToQuiz] = useState(null);
+      const [toImgBroken, setToImgBroken] = useState({});
+      const [toQuizInlineWarn, setToQuizInlineWarn] = useState('');
+      const materialBaseMdRef = useRef('');
+      const materialAdminTextareaRef = useRef(null);
+      const [materialHasFirestoreOverride, setMaterialHasFirestoreOverride] = useState(false);
+      const [materialAdminEditMode, setMaterialAdminEditMode] = useState(false);
+      const [materialAdminDraft, setMaterialAdminDraft] = useState('');
+      const [materialAdminBusy, setMaterialAdminBusy] = useState(false);
+      const [materialAdminMsg, setMaterialAdminMsg] = useState('');
 
       useEffect(() => {
         let cancelled = false;
@@ -7741,13 +8196,20 @@
           onRouteChange('materials', { materiaId: materia.id, aulaId: temaId });
         }
 
+        setMaterialAdminEditMode(false);
+        setMaterialAdminDraft('');
+        setMaterialAdminMsg('');
+        setMaterialHasFirestoreOverride(false);
+
         try {
           let loaded = false;
+          let baseText = '';
+          let resolvedPath = primaryPath;
           for (const p of fallbackPaths) {
             const res = await fetch(p);
             if (!res.ok) continue;
-            const text = await res.text();
-            setMaterialContent(text);
+            baseText = await res.text();
+            resolvedPath = p;
             setSelectedMaterial(prev => ({ ...prev, path: p }));
             loaded = true;
             break;
@@ -7756,11 +8218,162 @@
           if (!loaded) {
             throw new Error(`Material ainda nao disponivel para esta aula. Caminho tentado: ${primaryPath}`);
           }
+
+          materialBaseMdRef.current = baseText;
+          let shown = baseText;
+          let hasOv = false;
+
+          if (window.__fbAuth?.currentUser && window.__fbDb && window.__fbFirestore) {
+            try {
+              const { doc, getDoc } = window.__fbFirestore;
+              const ovKey = `${materia.id}__${temaId}`;
+              const snap = await getDoc(doc(window.__fbDb, 'material_overrides', ovKey));
+              if (snap.exists()) {
+                const d = snap.data();
+                const md = d && d.markdown != null ? String(d.markdown) : '';
+                if (md.trim().length) {
+                  shown = md;
+                  hasOv = true;
+                }
+              }
+            } catch (e) {
+              console.warn('[material_overrides] leitura ignorada:', e?.message || e);
+            }
+          }
+
+          setMaterialContent(shown);
+          setMaterialHasFirestoreOverride(hasOv);
         } catch (err) {
           setMaterialError(err?.message || 'Erro ao carregar material.');
+          materialBaseMdRef.current = '';
         } finally {
           setMaterialLoading(false);
         }
+      };
+
+      const getMaterialOverrideDocKey = () => {
+        if (!selectedMaterial?.materiaId || !selectedMaterial?.temaId) return null;
+        return `${selectedMaterial.materiaId}__${selectedMaterial.temaId}`;
+      };
+
+      const materialAdminInsertBold = () => {
+        const ta = materialAdminTextareaRef.current;
+        const v = materialAdminDraft;
+        const wrap = (start, end, inner) => `${v.slice(0, start)}**${inner}**${v.slice(end)}`;
+        if (!ta) {
+          setMaterialAdminDraft(wrap(0, v.length, (v && v.trim()) ? v : 'negrito'));
+          return;
+        }
+        const start = ta.selectionStart ?? 0;
+        const end = ta.selectionEnd ?? 0;
+        const sel = v.slice(start, end) || 'negrito';
+        setMaterialAdminDraft(wrap(start, end, sel));
+        setTimeout(() => {
+          try {
+            ta.focus();
+            const pos = start + 2 + sel.length + 2;
+            ta.setSelectionRange(pos, pos);
+          } catch (e) {}
+        }, 0);
+      };
+
+      const materialAdminInsertLink = () => {
+        const url = window.prompt('URL (https://… ou caminho /data/… /materiais/…):', 'https://');
+        if (url == null || !String(url).trim()) return;
+        const label = window.prompt('Texto do link:', 'link');
+        if (label == null) return;
+        const piece = `[${String(label).trim() || 'link'}](${String(url).trim()})`;
+        const ta = materialAdminTextareaRef.current;
+        const v = materialAdminDraft;
+        if (!ta) {
+          setMaterialAdminDraft((prev) => `${prev}${piece}`);
+          return;
+        }
+        const start = ta.selectionStart ?? 0;
+        const end = ta.selectionEnd ?? 0;
+        setMaterialAdminDraft(`${v.slice(0, start)}${piece}${v.slice(end)}`);
+        setTimeout(() => {
+          try {
+            ta.focus();
+            const pos = start + piece.length;
+            ta.setSelectionRange(pos, pos);
+          } catch (e) {}
+        }, 0);
+      };
+
+      const materialAdminSaveOverride = async () => {
+        const key = getMaterialOverrideDocKey();
+        if (!key || !isMaterialAdminSession()) return;
+        const cu = window.__fbAuth?.currentUser;
+        if (!cu?.email) {
+          setMaterialAdminMsg('É necessário sessão Firebase (mesmo email verificado).');
+          return;
+        }
+        const md = materialAdminDraft;
+        if (!String(md).trim().length) {
+          setMaterialAdminMsg('Markdown vazio.');
+          return;
+        }
+        if (String(md).length > 900000) {
+          setMaterialAdminMsg('Texto demasiado longo (limite ~900k caracteres).');
+          return;
+        }
+        setMaterialAdminBusy(true);
+        setMaterialAdminMsg('');
+        try {
+          const { doc, setDoc } = window.__fbFirestore;
+          await setDoc(
+            doc(window.__fbDb, 'material_overrides', key),
+            {
+              markdown: md,
+              updatedAt: new Date().toISOString(),
+              updatedBy: cu.email,
+              materiaId: selectedMaterial.materiaId,
+              temaId: selectedMaterial.temaId,
+              basePath: selectedMaterial.path || '',
+            },
+            { merge: true }
+          );
+          setMaterialContent(md);
+          setMaterialHasFirestoreOverride(true);
+          setMaterialAdminEditMode(false);
+          setMaterialAdminMsg('Guardado no Firestore (substitui o .md para utilizadores com login).');
+        } catch (e) {
+          setMaterialAdminMsg(e?.message || String(e) || 'Erro ao guardar (regras / rede / email verificado).');
+        } finally {
+          setMaterialAdminBusy(false);
+        }
+      };
+
+      const materialAdminCancelEdit = () => {
+        setMaterialAdminDraft(materialContent);
+        setMaterialAdminEditMode(false);
+        setMaterialAdminMsg('');
+      };
+
+      const materialAdminRevertToRepoFile = async () => {
+        const key = getMaterialOverrideDocKey();
+        if (!key || !isMaterialAdminSession()) return;
+        if (!window.confirm('Apagar a sobreposição no Firestore e voltar ao texto do ficheiro .md do site?')) return;
+        setMaterialAdminBusy(true);
+        setMaterialAdminMsg('');
+        try {
+          const { doc, deleteDoc } = window.__fbFirestore;
+          await deleteDoc(doc(window.__fbDb, 'material_overrides', key));
+        } catch (e) {
+          if ((e && e.code) !== 'not-found') {
+            setMaterialAdminMsg(e?.message || String(e) || 'Erro ao apagar.');
+            setMaterialAdminBusy(false);
+            return;
+          }
+        }
+        const base = materialBaseMdRef.current || '';
+        setMaterialContent(base);
+        setMaterialHasFirestoreOverride(false);
+        setMaterialAdminEditMode(false);
+        setMaterialAdminDraft('');
+        setMaterialAdminMsg('Reposto: versão do repositório (ficheiro estático).');
+        setMaterialAdminBusy(false);
       };
 
       const getMateriaModulos = (materia) => {
@@ -7778,6 +8391,23 @@
         if (!mods) return 0;
         return mods.reduce((acc, mod) => acc + (mod.temas?.length || 0), 0);
       };
+
+      /** Próxima aula da mesma disciplina, na ordem dos módulos/temas do catálogo. */
+      const nextSequentialMaterial = useMemo(() => {
+        if (!selectedMaterial?.materiaId || !selectedMaterial?.temaId) return null;
+        const materia = materias.find((m) => m.id === selectedMaterial.materiaId);
+        if (!materia) return null;
+        const modulos = getMateriaModulos(materia) || [];
+        const flatTemas = [];
+        for (const mod of modulos) {
+          for (const tema of mod.temas || []) {
+            if (tema && tema.id) flatTemas.push(tema);
+          }
+        }
+        const i = flatTemas.findIndex((t) => t.id === selectedMaterial.temaId);
+        if (i < 0 || i >= flatTemas.length - 1) return null;
+        return { materia, tema: flatTemas[i + 1] };
+      }, [selectedMaterial, materias]);
 
       const catalog = Array.isArray(materiasCatalog) ? materiasCatalog : [];
 
@@ -7823,6 +8453,147 @@
       const filteredMaterias = materias.filter((m) =>
         fuzzyMatch(searchQuery, m.nome) || fuzzyMatch(searchQuery, m.sigla || '')
       );
+
+      const showToEstudosEntry =
+        catalog.some((m) => m.id === TO_ESTUDOS_MATERIA_ID && m.ativo !== false) &&
+        hasModuleAccess(user || {}, 6);
+
+      const loadToInstrumentaisIfNeeded = () => {
+        const cached = toInstrumentaisCacheRef.current;
+        if (cached && Array.isArray(cached.items)) {
+          setToInstItems(cached.items);
+          if (cached.titulo) setToInstTitulo(cached.titulo);
+          setToInstError('');
+          setToInstLoading(false);
+          return;
+        }
+        setToInstLoading(true);
+        setToInstError('');
+        fetch('/data/to_instrumentais.json')
+          .then((r) => {
+            if (!r.ok) throw new Error('fetch');
+            return r.json();
+          })
+          .then((j) => {
+            const items = Array.isArray(j.instrumentos) ? j.instrumentos : [];
+            const titulo = j.titulo ? String(j.titulo) : '';
+            toInstrumentaisCacheRef.current = { items, titulo };
+            setToInstItems(items);
+            if (titulo) setToInstTitulo(titulo);
+          })
+          .catch(() => {
+            setToInstError('Não foi possível carregar o guia de instrumentais. Verifique a conexão e tente novamente.');
+            setToInstItems(null);
+          })
+          .finally(() => setToInstLoading(false));
+      };
+
+      const retryLoadToInstrumentais = () => {
+        toInstrumentaisCacheRef.current = null;
+        loadToInstrumentaisIfNeeded();
+      };
+
+      const openToEstudos = (mode) => {
+        setToGuideSearch('');
+        setToQuizInlineWarn('');
+        toInstrumentaisCacheRef.current = null;
+        setToEstudosMode(mode);
+        setToQuiz(null);
+        loadToInstrumentaisIfNeeded();
+      };
+
+      const closeToEstudos = () => {
+        setToEstudosMode(null);
+        setToQuiz(null);
+        setToGuideSearch('');
+        setToQuizInlineWarn('');
+      };
+
+      useEffect(() => {
+        if (toEstudosMode !== 'quiz' || !toInstItems?.length) return;
+        setToQuiz((prev) => {
+          if (prev && prev.phase === 'summary') return prev;
+          if (prev && prev.order?.length) return prev;
+          return {
+            order: shuffleInstrumentIds(toInstItems.map((i) => i.id)),
+            idx: 0,
+            input: '',
+            phase: 'play',
+            submittedForIdx: null,
+            log: [],
+          };
+        });
+      }, [toEstudosMode, toInstItems]);
+
+      const toGuideFiltered = useMemo(() => {
+        if (!toInstItems?.length) return [];
+        const q = String(toGuideSearch || '').trim();
+        if (!q) return toInstItems;
+        return toInstItems.filter(
+          (it) =>
+            fuzzyMatch(q, it.nome || '') ||
+            fuzzyMatch(q, it.categoria || '') ||
+            fuzzyMatch(q, it.funcao || '') ||
+            fuzzyMatch(q, String(it.id || ''))
+        );
+      }, [toInstItems, toGuideSearch]);
+
+      const getToInstrumentById = (id) => (toInstItems || []).find((i) => i.id === id);
+
+      const submitToQuizAnswer = () => {
+        if (!toQuiz || toQuiz.phase !== 'play') return;
+        const curId = toQuiz.order[toQuiz.idx];
+        const curInst = getToInstrumentById(curId);
+        if (!curInst) return;
+        if (toQuiz.submittedForIdx === toQuiz.idx) return;
+        const diff = buildInstrumentAnswerDiff(toQuiz.input, curInst.nome);
+        if (diff.isEmpty) {
+          setToQuizInlineWarn('Digite o nome do instrumental para conferir.');
+          return;
+        }
+        setToQuizInlineWarn('');
+        const entry = {
+          idx: toQuiz.idx,
+          id: curInst.id,
+          userRaw: toQuiz.input,
+          isCorrect: diff.isCorrect,
+          userSpans: diff.userSpans,
+          gabarito: curInst.nome,
+        };
+        setToQuiz({
+          ...toQuiz,
+          submittedForIdx: toQuiz.idx,
+          log: [...toQuiz.log, entry],
+        });
+      };
+
+      const goToNextToQuizQ = () => {
+        if (!toQuiz || toQuiz.phase !== 'play') return;
+        if (toQuiz.idx >= toQuiz.order.length - 1) {
+          setToQuiz({ ...toQuiz, phase: 'summary' });
+          return;
+        }
+        setToQuiz({
+          ...toQuiz,
+          idx: toQuiz.idx + 1,
+          input: '',
+          submittedForIdx: null,
+        });
+        setToQuizInlineWarn('');
+      };
+
+      const restartToQuiz = () => {
+        if (!toInstItems?.length) return;
+        setToQuizInlineWarn('');
+        setToQuiz({
+          order: shuffleInstrumentIds(toInstItems.map((i) => i.id)),
+          idx: 0,
+          input: '',
+          phase: 'play',
+          submittedForIdx: null,
+          log: [],
+        });
+      };
 
       const renderMateriaCard = (materia) => {
         const total = totalTemas(materia);
@@ -7920,6 +8691,58 @@
                 <span className="material-badge">Em breve</span>
               </div>
             </div>
+
+            {materia.id === TO_ESTUDOS_MATERIA_ID && showToEstudosEntry && (
+              <div
+                style={{
+                  marginTop: '12px',
+                  paddingTop: '12px',
+                  borderTop: '1px solid rgba(255,255,255,0.08)',
+                  display: 'flex',
+                  flexWrap: 'wrap',
+                  gap: '8px',
+                }}
+              >
+                <div style={{ width: '100%', display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '8px', marginBottom: '2px' }}>
+                  <span style={{ fontSize: '0.72rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.06em', color: '#6ee7b7' }}>TO Estudos</span>
+                  <span className="to-estudos-beta-pill">Beta</span>
+                </div>
+                <button
+                  type="button"
+                  onClick={() => openToEstudos('guide')}
+                  style={{
+                    flex: 1,
+                    minWidth: '120px',
+                    padding: '9px 12px',
+                    borderRadius: '10px',
+                    border: '1px solid rgba(0,200,150,0.35)',
+                    background: 'rgba(0,200,150,0.12)',
+                    color: '#6ee7b7',
+                    fontSize: '0.8rem',
+                    fontWeight: 700,
+                    cursor: 'pointer',
+                    fontFamily: 'DM Sans, sans-serif',
+                  }}
+                >Guia de instrumentais</button>
+                <button
+                  type="button"
+                  onClick={() => openToEstudos('quiz')}
+                  style={{
+                    flex: 1,
+                    minWidth: '120px',
+                    padding: '9px 12px',
+                    borderRadius: '10px',
+                    border: '1px solid rgba(124,58,237,0.4)',
+                    background: 'rgba(124,58,237,0.14)',
+                    color: '#c4b5fd',
+                    fontSize: '0.8rem',
+                    fontWeight: 700,
+                    cursor: 'pointer',
+                    fontFamily: 'DM Sans, sans-serif',
+                  }}
+                >Quiz de instrumentais</button>
+              </div>
+            )}
           </div>
         );
       };
@@ -8041,6 +8864,332 @@
         );
       };
 
+      // --- TO ESTUDOS (instrumentais) — tela dedicada dentro de Materiais ---
+      if (toEstudosMode) {
+        const headerTitulo = toInstTitulo || 'TO Estudos — Instrumentais';
+        const curQuizId = toQuiz?.order?.[toQuiz.idx];
+        const curQuizInst = curQuizId ? getToInstrumentById(curQuizId) : null;
+        const curQuizAttempt = toQuiz?.log?.find((l) => l.idx === toQuiz?.idx);
+        const quizCorrectCount = toQuiz?.log?.filter((l) => l.isCorrect).length ?? 0;
+        const quizTotal = toQuiz?.order?.length ?? 0;
+        const quizWrong = (toQuiz?.log || []).filter((l) => !l.isCorrect);
+
+        return (
+          <div className="screen-content screen-content--material-detail">
+            <div style={{
+              display: 'flex',
+              alignItems: 'center',
+              gap: '10px',
+              marginBottom: '18px',
+            }}>
+              <button
+                type="button"
+                onClick={() => {
+                  closeToEstudos();
+                  if (onRouteChange) onRouteChange('materials', {});
+                }}
+                style={{
+                  background: 'rgba(0,200,150,0.08)',
+                  border: '1px solid rgba(0,200,150,0.25)',
+                  borderRadius: '8px',
+                  color: '#00C896',
+                  fontSize: '0.82rem',
+                  fontWeight: 500,
+                  padding: '7px 13px',
+                  cursor: 'pointer',
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '5px',
+                  flexShrink: 0,
+                  fontFamily: 'DM Sans, sans-serif',
+                }}
+              >← Voltar</button>
+              <div style={{ minWidth: 0, flex: 1 }}>
+                <div style={{
+                  fontSize: '0.7rem',
+                  color: '#64748B',
+                  fontWeight: 500,
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.07em',
+                  marginBottom: '2px',
+                  fontFamily: 'DM Sans, sans-serif',
+                }}>Técnica Operatória</div>
+                <div style={{
+                  fontSize: '1rem',
+                  fontWeight: 700,
+                  color: '#F1F5F9',
+                  fontFamily: 'Outfit, sans-serif',
+                  lineHeight: 1.25,
+                }}>{headerTitulo}</div>
+              </div>
+            </div>
+
+            <div className="to-estudos-beta-banner" role="status">
+              <span className="to-estudos-beta-pill">Beta</span>
+              <span style={{ flex: 1, minWidth: 0 }}>
+                Área em evolução: instrumentais, textos e regras do quiz podem ser atualizados. Se algo parecer estranho, use o feedback do app.
+              </span>
+            </div>
+
+            <div className="to-estudos-seg" role="tablist">
+              <button
+                type="button"
+                role="tab"
+                className={toEstudosMode === 'guide' ? 'active' : ''}
+                onClick={() => { setToEstudosMode('guide'); setToQuizInlineWarn(''); }}
+                aria-selected={toEstudosMode === 'guide'}
+              >Guia</button>
+              <button
+                type="button"
+                role="tab"
+                className={toEstudosMode === 'quiz' ? 'active' : ''}
+                onClick={() => { setToEstudosMode('quiz'); setToQuizInlineWarn(''); }}
+                aria-selected={toEstudosMode === 'quiz'}
+              >Quiz</button>
+            </div>
+
+            {toInstLoading && (
+              <div style={{
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                gap: '12px',
+                padding: '40px 0',
+                color: '#64748B',
+                fontSize: '0.85rem',
+                fontFamily: 'DM Sans, sans-serif',
+              }}>
+                <div style={{
+                  width: '32px',
+                  height: '32px',
+                  border: '3px solid rgba(0,200,150,0.15)',
+                  borderTop: '3px solid #00C896',
+                  borderRadius: '50%',
+                  animation: 'spin 0.8s linear infinite',
+                }} />
+                Carregando instrumentais...
+              </div>
+            )}
+
+            {!toInstLoading && toInstError && (
+              <div style={{
+                background: 'rgba(239,68,68,0.08)',
+                border: '1px solid rgba(239,68,68,0.22)',
+                borderRadius: '12px',
+                padding: '14px 16px',
+                color: '#FCA5A5',
+                fontSize: '0.85rem',
+                marginBottom: '16px',
+              }}>
+                <div style={{ marginBottom: '10px' }}>{toInstError}</div>
+                <button
+                  type="button"
+                  className="btn btn-secondary"
+                  onClick={retryLoadToInstrumentais}
+                  style={{ fontSize: '0.82rem' }}
+                >Tentar novamente</button>
+              </div>
+            )}
+
+            {!toInstLoading && !toInstError && Array.isArray(toInstItems) && toInstItems.length === 0 && (
+              <div className="materials-cycle-empty">Nenhum instrumental cadastrado no momento.</div>
+            )}
+
+            {!toInstLoading && !toInstError && toInstItems?.length > 0 && toEstudosMode === 'guide' && (
+              <>
+                <input
+                  type="search"
+                  className="subject-search to-estudos-guide-search"
+                  placeholder="Buscar por nome, categoria ou função..."
+                  value={toGuideSearch}
+                  onChange={(e) => setToGuideSearch(e.target.value)}
+                />
+                {toGuideFiltered.length === 0 ? (
+                  <div className="materials-cycle-empty">Nenhum resultado para essa busca.</div>
+                ) : (
+                  toGuideFiltered.map((inst) => (
+                    <div key={inst.id} className="to-estudos-card">
+                      <div className="to-estudos-card-img-wrap">
+                        {(!inst.imagem || !String(inst.imagem).trim() || toImgBroken[inst.id]) ? (
+                          <div className="to-estudos-ph">
+                            {(inst.imagem && String(inst.imagem).trim() && toImgBroken[inst.id])
+                              ? 'Não foi possível carregar a imagem.'
+                              : 'Imagem não disponível — use o texto e as dicas para fixar o instrumental.'}
+                            <br />
+                            <span style={{ color: '#94a3b8', fontWeight: 600 }}>{inst.nome}</span>
+                          </div>
+                        ) : (
+                          <ToEstudosInstrumentFigure
+                            src={encodeLocalAssetPath(inst.imagem)}
+                            alt={inst.nome}
+                            onError={() => setToImgBroken((p) => ({ ...p, [inst.id]: true }))}
+                          />
+                        )}
+                      </div>
+                      {inst.categoria ? <span className="to-estudos-pill">{inst.categoria}</span> : null}
+                      <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 800, fontSize: '1.02rem', color: '#f1f5f9', marginBottom: '8px' }}>
+                        {inst.nome}
+                      </div>
+                      <dl className="to-estudos-dl">
+                        <dt>Função</dt>
+                        <dd>{renderInlineBoldMarkdown(inst.funcao)}</dd>
+                        <dt>Características e diferenciação</dt>
+                        <dd>{renderInlineBoldMarkdown(inst.caracteristicas)}</dd>
+                        <dt>Posição sugerida na mesa</dt>
+                        <dd>{renderInlineBoldMarkdown(inst.mesaPosicao)}</dd>
+                        <dt>Mnemônico</dt>
+                        <dd>{renderInlineBoldMarkdown(inst.mnemonico)}</dd>
+                      </dl>
+                      {inst.confundeCom && inst.confundeCom.nome ? (
+                        <div className="to-estudos-confunde">
+                          <strong style={{ color: '#FDE68A' }}>Não confunda com:</strong>{' '}
+                          {inst.confundeCom.nome}
+                        </div>
+                      ) : null}
+                    </div>
+                  ))
+                )}
+              </>
+            )}
+
+            {!toInstLoading && !toInstError && toInstItems?.length > 0 && toEstudosMode === 'quiz' && (
+              <>
+                {!toQuiz ? (
+                  <div className="materials-cycle-empty">Preparando o quiz...</div>
+                ) : toQuiz.phase === 'summary' ? (
+                  <div className="to-estudos-card">
+                    <div style={{ fontFamily: 'Outfit, sans-serif', fontWeight: 800, fontSize: '1.15rem', color: '#e5e7eb', marginBottom: '8px' }}>
+                      Resultado do quiz
+                    </div>
+                    <div style={{ fontSize: '0.9rem', color: '#a7f3d0', marginBottom: '6px' }}>
+                      Você acertou <strong>{quizCorrectCount}</strong> de <strong>{quizTotal}</strong>.
+                    </div>
+                    <div style={{ fontSize: '0.8rem', color: 'var(--text-secondary)', marginBottom: '16px', lineHeight: 1.55 }}>
+                      A correção ignora maiúsculas/minúsculas e acentuação. Revise os erros abaixo e repita o quiz quando quiser.
+                    </div>
+                    <button
+                      type="button"
+                      className="btn btn-primary"
+                      onClick={restartToQuiz}
+                      style={{ marginBottom: quizWrong.length ? '18px' : 0 }}
+                    >Novo quiz</button>
+
+                    {quizWrong.length > 0 ? (
+                      <div className="to-quiz-review-block">
+                        <div style={{ fontSize: '0.78rem', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '0.06em', color: '#fca5a5', marginBottom: '10px' }}>
+                          Revisão dos erros
+                        </div>
+                        {quizWrong.map((att) => {
+                          const inst = getToInstrumentById(att.id);
+                          return (
+                            <div key={`${att.idx}-${att.id}`} className="to-quiz-review-item">
+                              <div style={{ fontWeight: 800, color: '#fecaca', marginBottom: '6px' }}>{inst?.nome || att.gabarito}</div>
+                              <div style={{ marginBottom: '6px' }}>
+                                <span style={{ color: '#94a3b8', fontSize: '0.72rem', fontWeight: 700, textTransform: 'uppercase' }}>Sua resposta (comparação)</span>
+                                <div style={{ fontFamily: 'ui-monospace, monospace', marginTop: '4px' }}>
+                                  {(att.userSpans || []).map((s, si) => (
+                                    <span key={si} className={s.ok ? 'to-quiz-char-ok' : 'to-quiz-char-bad'}>{s.ch}</span>
+                                  ))}
+                                  {!att.userSpans?.length ? <span className="to-quiz-char-bad">(vazio)</span> : null}
+                                </div>
+                              </div>
+                              <div className="to-quiz-gabarito" style={{ marginTop: '8px' }}>
+                                <strong>Gabarito:</strong> {att.gabarito}
+                              </div>
+                            </div>
+                          );
+                        })}
+                      </div>
+                    ) : null}
+                  </div>
+                ) : curQuizInst ? (
+                  <div className="to-estudos-card">
+                    <div className="to-quiz-progress">
+                      Questão {toQuiz.idx + 1} de {toQuiz.order.length}
+                      {toQuiz.submittedForIdx === toQuiz.idx ? (
+                        <span style={{ marginLeft: '8px', color: curQuizAttempt?.isCorrect ? '#4ade80' : '#f87171' }}>
+                          {curQuizAttempt?.isCorrect ? ' — correto' : ' — incorreto ou incompleto'}
+                        </span>
+                      ) : null}
+                    </div>
+
+                    <div className="to-estudos-card-img-wrap">
+                      {(!curQuizInst.imagem || !String(curQuizInst.imagem).trim() || toImgBroken[curQuizInst.id]) ? (
+                        <div className="to-estudos-ph">
+                          {(curQuizInst.imagem && String(curQuizInst.imagem).trim() && toImgBroken[curQuizInst.id])
+                            ? 'Imagem indisponível.'
+                            : 'Sem imagem.'}
+                        </div>
+                      ) : (
+                        <ToEstudosInstrumentFigure
+                          src={encodeLocalAssetPath(curQuizInst.imagem)}
+                          alt="Instrumental em quiz"
+                          onError={() => setToImgBroken((p) => ({ ...p, [curQuizInst.id]: true }))}
+                        />
+                      )}
+                    </div>
+
+                    <label htmlFor="to-quiz-nome-input" style={{ display: 'block', fontSize: '0.72rem', fontWeight: 800, color: '#94a3b8', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '6px' }}>
+                      Nome do instrumental
+                    </label>
+                    <input
+                      id="to-quiz-nome-input"
+                      type="text"
+                      autoComplete="off"
+                      disabled={toQuiz.submittedForIdx === toQuiz.idx}
+                      value={toQuiz.input}
+                      onChange={(e) => {
+                        setToQuiz({ ...toQuiz, input: e.target.value });
+                        if (toQuizInlineWarn) setToQuizInlineWarn('');
+                      }}
+                      placeholder=""
+                      className="subject-search"
+                      style={{ marginBottom: '10px', width: '100%', boxSizing: 'border-box' }}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter') {
+                          e.preventDefault();
+                          if (toQuiz.submittedForIdx === toQuiz.idx) goToNextToQuizQ();
+                          else submitToQuizAnswer();
+                        }
+                      }}
+                    />
+
+                    {toQuizInlineWarn ? (
+                      <div style={{ fontSize: '0.78rem', color: '#fca5a5', marginBottom: '10px' }}>{toQuizInlineWarn}</div>
+                    ) : null}
+
+                    {toQuiz.submittedForIdx === toQuiz.idx && curQuizAttempt ? (
+                      <>
+                        <div style={{ fontSize: '0.72rem', fontWeight: 700, color: '#94a3b8', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: '6px' }}>
+                          Sua resposta (caractere a caractere)
+                        </div>
+                        <div style={{ fontFamily: 'ui-monospace, monospace', fontSize: '1.05rem', lineHeight: 1.65, marginBottom: '10px' }}>
+                          {curQuizAttempt.userSpans.map((s, si) => (
+                            <span key={si} className={s.ok ? 'to-quiz-char-ok' : 'to-quiz-char-bad'}>{s.ch}</span>
+                          ))}
+                        </div>
+                        <div className="to-quiz-gabarito">
+                          <strong>Gabarito:</strong> {curQuizInst.nome}
+                        </div>
+                        <button type="button" className="btn btn-primary" style={{ marginTop: '14px', width: '100%' }} onClick={goToNextToQuizQ}>
+                          {toQuiz.idx >= toQuiz.order.length - 1 ? 'Ver resultado' : 'Próxima'}
+                        </button>
+                      </>
+                    ) : (
+                      <button type="button" className="btn btn-primary" style={{ width: '100%' }} onClick={submitToQuizAnswer}>
+                        Conferir resposta
+                      </button>
+                    )}
+                  </div>
+                ) : (
+                  <div className="materials-cycle-empty">Preparando o quiz...</div>
+                )}
+              </>
+            )}
+          </div>
+        );
+      }
+
       // --- DETAIL VIEW: when a material is selected, replace entire screen ---
       if (selectedMaterial) {
         const preProvaMd = !materialLoading && materialContent ? splitAtPreProva(materialContent).preProva : null;
@@ -8051,6 +9200,7 @@
             <div style={{
               display: 'flex',
               alignItems: 'center',
+              flexWrap: 'wrap',
               gap: '10px',
               marginBottom: '20px',
             }}>
@@ -8059,6 +9209,11 @@
                   setSelectedMaterial(null);
                   setMaterialContent('');
                   setMaterialError('');
+                  setMaterialAdminEditMode(false);
+                  setMaterialAdminDraft('');
+                  setMaterialAdminMsg('');
+                  setMaterialHasFirestoreOverride(false);
+                  materialBaseMdRef.current = '';
                   if (onRouteChange) onRouteChange('materials', {});
                 }}
                 style={{
@@ -8100,6 +9255,36 @@
                   textOverflow: 'ellipsis',
                 }}>{selectedMaterial.temaNome}</div>
               </div>
+              {nextSequentialMaterial && (
+                <button
+                  type="button"
+                  disabled={materialLoading}
+                  title={`Abrir a próxima aula: ${nextSequentialMaterial.tema.nome || ''}`}
+                  onClick={() => {
+                    openMaterial(nextSequentialMaterial.materia, nextSequentialMaterial.tema);
+                    window.scrollTo(0, 0);
+                  }}
+                  style={{
+                    background: 'rgba(96,165,250,0.1)',
+                    border: '1px solid rgba(96,165,250,0.35)',
+                    borderRadius: '8px',
+                    color: '#93C5FD',
+                    fontSize: '0.82rem',
+                    fontWeight: 600,
+                    padding: '7px 13px',
+                    cursor: materialLoading ? 'not-allowed' : 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '6px',
+                    flexShrink: 0,
+                    opacity: materialLoading ? 0.55 : 1,
+                    transition: 'background 0.2s, opacity 0.2s',
+                    fontFamily: 'DM Sans, sans-serif',
+                  }}
+                >
+                  Próximo material<span aria-hidden="true">→</span>
+                </button>
+              )}
               {preProvaMd && (
                 <button
                   type="button"
@@ -8191,6 +9376,115 @@
                 >
                   ⚑ Reportar
                 </button>
+              </div>
+            )}
+
+            {isListedMaterialAdminAuth() && !isMaterialAdminSession() && selectedMaterial.temaId && (
+              <div style={{
+                marginBottom: '14px',
+                padding: '12px 14px',
+                borderRadius: '12px',
+                border: '1px solid rgba(248, 113, 113, 0.45)',
+                background: 'rgba(248, 113, 113, 0.08)',
+                fontFamily: 'DM Sans, sans-serif',
+                fontSize: '0.78rem',
+                color: '#fecaca',
+                lineHeight: 1.55,
+              }}>
+                <strong>Conta admin (lista interna)</strong>, mas o Firebase ainda marca o email como <strong>não verificado</strong>.
+                O painel de edição e as gravações em <code style={{ fontSize: '0.7rem' }}>material_overrides</code> só funcionam com email verificado (igual à regra <code style={{ fontSize: '0.7rem' }}>isAdmin()</code> no Firestore).
+                Confirme o email pelo link do Firebase ou reenvie o email de verificação a partir do fluxo de login.
+              </div>
+            )}
+
+            {isMaterialAdminSession() && selectedMaterial.temaId && (
+              <div style={{
+                marginBottom: '14px',
+                padding: '12px 14px',
+                borderRadius: '12px',
+                border: '1px solid rgba(234, 179, 8, 0.38)',
+                background: 'rgba(234, 179, 8, 0.09)',
+                fontFamily: 'DM Sans, sans-serif',
+                fontSize: '0.78rem',
+                color: '#fde68a',
+                lineHeight: 1.5,
+              }}>
+                <div style={{
+                  fontWeight: 800,
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.06em',
+                  marginBottom: '8px',
+                  color: '#fcd34d',
+                }}>Admin — edição de material</div>
+                {materialHasFirestoreOverride ? (
+                  <div style={{ marginBottom: '8px', color: '#a7f3d0' }}>
+                    A visualizar sobreposição Firestore (<code style={{ fontSize: '0.72rem' }}>material_overrides</code>) — prevalece sobre o .md do repositório.
+                  </div>
+                ) : (
+                  <div style={{ marginBottom: '8px', opacity: 0.95 }}>
+                    Texto base veio do ficheiro estático. Guardar cria ou atualiza a entrada <code style={{ fontSize: '0.72rem' }}>material_overrides/{selectedMaterial.materiaId}__{selectedMaterial.temaId}</code>.
+                  </div>
+                )}
+                {materialAdminMsg ? (
+                  <div style={{ marginBottom: '8px', color: '#fff', fontWeight: 600 }}>{materialAdminMsg}</div>
+                ) : null}
+                {!materialAdminEditMode ? (
+                  <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
+                    <button
+                      type="button"
+                      className="btn btn-secondary"
+                      disabled={materialAdminBusy || materialLoading || !materialContent}
+                      onClick={() => {
+                        setMaterialAdminDraft(materialContent);
+                        setMaterialAdminEditMode(true);
+                        setMaterialAdminMsg('');
+                      }}
+                      style={{ fontSize: '0.78rem' }}
+                    >Editar Markdown</button>
+                    {materialHasFirestoreOverride ? (
+                      <button
+                        type="button"
+                        className="btn btn-secondary"
+                        disabled={materialAdminBusy}
+                        onClick={materialAdminRevertToRepoFile}
+                        style={{
+                          fontSize: '0.78rem',
+                          borderColor: 'rgba(248, 113, 113, 0.45)',
+                          color: '#fecaca',
+                        }}
+                      >Repor ficheiro do site</button>
+                    ) : null}
+                  </div>
+                ) : (
+                  <>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px', marginBottom: '8px' }}>
+                      <button type="button" className="btn btn-secondary" disabled={materialAdminBusy} onClick={materialAdminInsertBold} style={{ fontSize: '0.72rem' }}>Negrito **</button>
+                      <button type="button" className="btn btn-secondary" disabled={materialAdminBusy} onClick={materialAdminInsertLink} style={{ fontSize: '0.72rem' }}>Inserir link</button>
+                      <button type="button" className="btn btn-primary" disabled={materialAdminBusy} onClick={materialAdminSaveOverride} style={{ fontSize: '0.72rem' }}>Guardar no Firestore</button>
+                      <button type="button" className="btn btn-secondary" disabled={materialAdminBusy} onClick={materialAdminCancelEdit} style={{ fontSize: '0.72rem' }}>Cancelar</button>
+                    </div>
+                    <textarea
+                      ref={materialAdminTextareaRef}
+                      value={materialAdminDraft}
+                      onChange={(e) => setMaterialAdminDraft(e.target.value)}
+                      spellCheck={true}
+                      style={{
+                        width: '100%',
+                        minHeight: 'min(48vh, 420px)',
+                        boxSizing: 'border-box',
+                        fontFamily: 'ui-monospace, Consolas, monospace',
+                        fontSize: '0.8rem',
+                        lineHeight: 1.45,
+                        padding: '12px',
+                        borderRadius: '10px',
+                        border: '1px solid rgba(148, 163, 184, 0.4)',
+                        background: 'rgba(15, 23, 42, 0.92)',
+                        color: '#e2e8f0',
+                        resize: 'vertical',
+                      }}
+                    />
+                  </>
+                )}
               </div>
             )}
 
@@ -8464,6 +9758,23 @@
               onChange={e => setSearchQuery(e.target.value)}
               style={{ marginBottom: '16px' }}
             />
+
+            {showToEstudosEntry && (
+              <div className="to-estudos-callout">
+                <div className="to-estudos-callout-head">
+                  <h3>TO Estudos — Instrumentais</h3>
+                  <span className="to-estudos-beta-pill">Beta</span>
+                </div>
+                <p>
+                  Guia visual com função, características e posição na mesa, mais quiz com correção letra a letra para fixar nomes de instrumentais de cirurgia geral.
+                </p>
+                <div className="to-estudos-callout-actions">
+                  <button type="button" onClick={() => openToEstudos('guide')}>Abrir guia</button>
+                  <button type="button" onClick={() => openToEstudos('quiz')}>Abrir quiz</button>
+                </div>
+              </div>
+            )}
+
             {MATERIALS_CYCLES.map((c) => renderCycleSection(c))}
           </div>
         </>
@@ -9064,19 +10375,82 @@
     const ATLAS_SHOW_SOURCE_ATTRIBUTION = false;
 
     const AnatomiaAtlasPlate = ({ lamina, accentColor, sistemaTitulo, divisaoTitulo, referenciaAsclepio, onBack }) => {
+      const formatLegendLine = (raw) => {
+        const text = String(raw || '').trim();
+        if (!text) return '';
+        const keep = ['HE', 'HF', 'H.E', 'H.F', 'DNA', 'RNA'];
+        const isMostlyUpper = /[A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ]/.test(text) && text === text.toUpperCase();
+        if (!isMostlyUpper) return text;
+        let pretty = text.toLowerCase();
+        pretty = pretty.charAt(0).toUpperCase() + pretty.slice(1);
+        keep.forEach((token) => {
+          const re = new RegExp(`\\b${token.toLowerCase().replace('.', '\\.')}\\b`, 'g');
+          pretty = pretty.replace(re, token);
+        });
+        return pretty;
+      };
+
       const [openPin, setOpenPin] = React.useState(null);
       const [hoverPin, setHoverPin] = React.useState(null);
       const [imgError, setImgError] = React.useState(false);
       const [imgLoaded, setImgLoaded] = React.useState(false);
+      const [lightboxOpen, setLightboxOpen] = React.useState(false);
       const wrapRef = React.useRef(null);
       const reduceMotion = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
       const pinos = lamina.pinos || [];
       const hasImage = lamina.urlImagem && lamina.urlImagem.length > 0;
       const showTip = (i) => openPin === i || hoverPin === i;
+      const urlAmpliada = lamina.urlImagemCompleta || lamina.urlImagemZoom || lamina.urlImagem;
+      const podeAmpliar = hasImage && urlAmpliada && String(urlAmpliada).length > 0;
+
+      const legendaBox = (opts) => {
+        const compact = opts && opts.compact;
+        if (!Array.isArray(lamina.legendaTranscrita) || lamina.legendaTranscrita.length === 0) return null;
+        return (
+          <div style={{
+            marginTop: compact ? '12px' : '14px', padding: '14px 16px', borderRadius: '14px',
+            border: '1px solid rgba(255,255,255,0.14)',
+            background: 'linear-gradient(180deg, rgba(18,28,46,0.92) 0%, rgba(12,22,38,0.96) 100%)',
+            boxShadow: '0 8px 28px rgba(0,0,0,0.24)',
+          }}>
+            <div style={{
+              fontFamily: 'Outfit', fontSize: compact ? '15px' : '16px', fontWeight: 700, color: '#EAF2FF',
+              marginBottom: '12px', letterSpacing: '0.01em',
+            }}>Legenda</div>
+            <div style={{ display: 'grid', gap: '8px' }}>
+              {lamina.legendaTranscrita.map((item, i) => (
+                <div key={(opts && opts.prefix ? opts.prefix : 'p') + '-' + lamina.id + '-legenda-' + i} style={{
+                  display: 'flex', alignItems: 'flex-start', gap: '9px',
+                  fontSize: '14px', color: '#DCE8FF', lineHeight: 1.62, fontWeight: 500,
+                }}>
+                  <span style={{ color: accentColor, marginTop: '1px', fontSize: '12px' }}>●</span>
+                  <span>
+                    {formatLegendLine(item)}
+                    {Array.isArray(lamina.legendaCategorias) && lamina.legendaCategorias[i] && (
+                      <span style={{
+                        marginLeft: '8px', fontSize: '11px', color: 'rgba(199,210,254,0.9)',
+                        background: 'rgba(99,102,241,0.16)', border: '1px solid rgba(129,140,248,0.35)',
+                        borderRadius: '999px', padding: '1px 7px', verticalAlign: 'middle', fontWeight: 600,
+                      }}>{lamina.legendaCategorias[i]}</span>
+                    )}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        );
+      };
 
       React.useEffect(() => {
-        setImgError(false); setImgLoaded(false); setOpenPin(null);
+        setImgError(false); setImgLoaded(false); setOpenPin(null); setLightboxOpen(false);
       }, [lamina.id]);
+
+      React.useEffect(() => {
+        if (!lightboxOpen) return;
+        const onKey = (e) => { if (e.key === 'Escape') setLightboxOpen(false); };
+        document.addEventListener('keydown', onKey);
+        return () => document.removeEventListener('keydown', onKey);
+      }, [lightboxOpen]);
 
       React.useEffect(() => {
         const el = wrapRef.current;
@@ -9118,15 +10492,35 @@
                   <div style={{ width: '28px', height: '28px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: accentColor, borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
                 </div>
               )}
-              <img
-                src={lamina.urlImagem}
-                alt={lamina.alt || lamina.titulo}
-                loading="lazy"
-                decoding="async"
-                onLoad={() => setImgLoaded(true)}
-                onError={() => setImgError(true)}
-                style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease' }}
-              />
+              <button
+                type="button"
+                onClick={() => { if (podeAmpliar) setLightboxOpen(true); }}
+                disabled={!podeAmpliar}
+                aria-label={podeAmpliar ? 'Ampliar fotografia da lâmina com legenda' : undefined}
+                style={{
+                  display: 'block', width: '100%', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                  cursor: podeAmpliar ? 'zoom-in' : 'default',
+                }}
+              >
+                <img
+                  src={lamina.urlImagem}
+                  alt={lamina.alt || lamina.titulo}
+                  loading="lazy"
+                  decoding="async"
+                  onLoad={() => setImgLoaded(true)}
+                  onError={() => setImgError(true)}
+                  style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease', pointerEvents: 'none' }}
+                />
+              </button>
+              {imgLoaded && podeAmpliar && (
+                <div style={{ position: 'absolute', bottom: '10px', right: '10px', zIndex: 3, pointerEvents: 'none' }}>
+                  <span style={{
+                    fontSize: '11px', fontWeight: 700, padding: '6px 10px', borderRadius: '10px',
+                    background: 'rgba(10,10,15,0.88)', color: '#E8EEFF', border: '1px solid rgba(255,255,255,0.12)',
+                    boxShadow: '0 4px 14px rgba(0,0,0,0.35)',
+                  }}>Toque para ampliar</span>
+                </div>
+              )}
               {imgLoaded && pinos.map((p, i) => (
                 <button key={i} type="button" className="atlas-pin-hitbox" aria-label={p.rotulo} aria-pressed={showTip(i)}
                   onClick={(e) => { e.stopPropagation(); setOpenPin(prev => prev === i ? null : i); }}
@@ -9167,6 +10561,52 @@
               <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.35)', lineHeight: 1.6, margin: 0, maxWidth: '320px', marginLeft: 'auto', marginRight: 'auto' }}>
                 {lamina.descricaoNecessaria || lamina.alt || 'Esta lâmina ainda precisa de uma imagem. Volte em breve.'}
               </p>
+            </div>
+          )}
+
+          {legendaBox()}
+
+          {lightboxOpen && podeAmpliar && (
+            <div
+              role="dialog"
+              aria-modal="true"
+              aria-labelledby={'atlas-lb-title-' + lamina.id}
+              style={{
+                position: 'fixed', inset: 0, zIndex: 10050, display: 'flex', flexDirection: 'column',
+                alignItems: 'center', justifyContent: 'flex-start', padding: '16px 14px 24px',
+                background: 'rgba(5,8,14,0.92)', backdropFilter: 'blur(10px)', overflowY: 'auto',
+              }}
+              onClick={(e) => { if (e.target === e.currentTarget) setLightboxOpen(false); }}
+            >
+              <div style={{ width: '100%', maxWidth: '900px', flexShrink: 0, display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '12px' }}>
+                <div id={'atlas-lb-title-' + lamina.id} style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '16px', color: '#F8FAFC', paddingRight: '12px', lineHeight: 1.35 }}>
+                  {lamina.titulo}
+                </div>
+                <button
+                  type="button"
+                  onClick={() => setLightboxOpen(false)}
+                  style={{
+                    flexShrink: 0, padding: '10px 16px', borderRadius: '12px', border: '1px solid rgba(255,255,255,0.18)',
+                    background: 'rgba(255,255,255,0.08)', color: '#F8FAFC', fontWeight: 700, fontSize: '13px', cursor: 'pointer', fontFamily: 'inherit',
+                  }}
+                >Fechar</button>
+              </div>
+              <div
+                style={{
+                  width: '100%', maxWidth: '900px', borderRadius: '14px', overflow: 'hidden',
+                  border: '1px solid rgba(255,255,255,0.12)', background: '#0D1117', boxShadow: '0 12px 48px rgba(0,0,0,0.45)',
+                }}
+                onClick={(e) => e.stopPropagation()}
+              >
+                <img
+                  src={urlAmpliada}
+                  alt={(lamina.alt || lamina.titulo) + ' — vista completa'}
+                  style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top' }}
+                />
+              </div>
+              <div style={{ width: '100%', maxWidth: '900px' }} onClick={(e) => e.stopPropagation()}>
+                {legendaBox({ compact: true, prefix: 'lb' })}
+              </div>
             </div>
           )}
 
@@ -9839,16 +11279,6 @@
 
             {viewMode === 'atlas' && (
               <div>
-                {atlasData && atlasData.nota && (
-                  <div style={{
-                    padding: '12px 14px', borderRadius: '12px', marginBottom: '18px',
-                    background: 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.06))',
-                    border: '1px solid rgba(16,185,129,0.2)', fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55,
-                  }}>
-                    {atlasData.nota}
-                  </div>
-                )}
-
                 {atlasErr && (
                   <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6 }}>
                     Erro ao carregar o atlas de histologia. Verifique sua conexão e recarregue a página.
@@ -10805,7 +12235,12 @@
             flashcardsData = (Array.isArray(cards) ? cards : []).map(c => ({
               ...c,
               pergunta: c.frente || c.pergunta,
-              resposta: c.verso || c.resposta
+              resposta:
+                c.verso ||
+                c.resposta ||
+                ((typeof (c.frente || c.pergunta) === 'string' && (c.frente || c.pergunta).match(CLOZE_REGEX_SINGLE))
+                  ? ((c.frente || c.pergunta).match(CLOZE_REGEX_SINGLE)[1] || '').trim()
+                  : '')
             }));
           }
 
@@ -10830,6 +12265,7 @@
                 explicacoes_opcoes: q.explicacoes_opcoes || null,
                 opcoes: q.opcoes || [],
                 correta: q.correta,
+                caso_clinico: q.caso_clinico === true,
                 tipo: 'quiz',
                 tema: q.tema,
                 dificuldade: q.dificuldade
@@ -10982,6 +12418,9 @@
       };
 
       const accessFilteredMaterias = (() => {
+        if (isMaterialAdminSession()) {
+          return materias.filter((m) => m.ativo !== false);
+        }
         if (isFreeTierUser(user)) {
           const full = materias.find((m) => m.id === FREE_TIER_DEMO.materiaId && m.ativo !== false);
           const sliced = sliceMateriaToFreeDemo(full);
