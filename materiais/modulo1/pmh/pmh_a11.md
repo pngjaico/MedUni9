@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As **Proteínas Plasmáticas** são muito mais que componentes do sangue; elas são marcadores de **inflamação**, **nutrição** e **função hepática**. Para a prova, entenda por que a **Albumina** é um péssimo marcador de desnutrição na fase aguda e como a **Pré-albumina** ajuda no monitoramento nutricional. Na clínica, domine o **Teste do Pezinho** e os **Erros Inatos do Metabolismo**, como a **PKU** e a **Homocistinúria**.
+As **Proteínas Plasmáticas** são marcadores de **inflamação**, **nutrição** e **função hepática**. Domine por que a **Albumina** é um péssimo marcador agudo e como a **Pré-albumina** ajuda no monitoramento. Domine o **Teste do Pezinho** e os **Erros Inatos** como a **PKU** e a **Homocistinúria**.
 
 
 ### Figura sugerida

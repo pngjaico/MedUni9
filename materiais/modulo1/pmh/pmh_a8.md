@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Colesterol** é vital para as membranas e hormônios, mas seu transporte é o que define o risco de **Aterosclerose**. Para a prova, domine a cascata das **Lipoproteínas** (**VLDL → LDL**) e o papel heróico do **HDL** no transporte reverso. Na clínica, entenda por que prescrevemos **Estatinas** (alvo: **HMG-CoA Redutase**) e como o **LDL Oxidado** recruta macrófagos para formar a placa de gordura.
+O **Colesterol** é vital para as membranas, mas seu transporte define o risco de **Aterosclerose**. Domine a cascata das **Lipoproteínas** (**VLDL → LDL**) e o papel do **HDL** no transporte reverso. Entenda o uso das **Estatinas** (alvo: **HMG-CoA Redutase**) e como o **LDL Oxidado** inicia a formação da placa de gordura.
 
 
 ### Figura sugerida

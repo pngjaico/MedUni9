@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Glicólise** (quebra) e a **Gliconeogênese** (síntese) são as vias centrais da economia de glicose. Enquanto a primeira gera **ATP** rápido (mesmo sem oxigênio), a segunda é o "salva-vidas" do cérebro durante o **jejum**, fabricando glicose a partir de **Lactato**, **Glicerol** e **Aminoácidos**. Para a prova, domine a **regulação recíproca** (o que liga uma, desliga a outra) e as **enzimas de bypass** que permitem ao fígado exportar glicose.
+A **Glicólise** (quebra) e a **Gliconeogênese** (síntese) são as vias centrais da glicose. Enquanto a primeira gera **ATP** rápido (mesmo sem O₂), a segunda fabrica glicose no **jejum** a partir de **Lactato**, **Glicerol** e **Aminoácidos**. Domine a **regulação recíproca** e as enzimas de **bypass** que permitem ao fígado exportar glicose.
 
 
 ### Figura sugerida

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Metabolismo de Aminoácidos** gira em torno da gestão segura do **Nitrogênio**. Como a **Amônia** é altamente neurotóxica, o corpo a converte em **Ureia** no fígado para excreção renal. Para a prova, domine a diferença entre **ALT** (específica para o fígado) e **AST**, e entenda por que a falha no **Ciclo da Ureia** leva à **Encefalopatia Hepática**. Na clínica, interpretamos as **Transaminases** como o termômetro da integridade do hepatócito.
+O **Metabolismo de Aminoácidos** gira em torno da gestão segura do **Nitrogênio**. Como a **Amônia** é neurotóxica, o corpo a converte em **Ureia** no fígado para excreção renal. Domine a diferença entre **ALT** e **AST**, e entenda por que a falha nesse ciclo leva à **Encefalopatia Hepática**. Na clínica, interpretamos as **Transaminases** como termômetro da integridade do hepatócito.
 
 
 ### Figura sugerida

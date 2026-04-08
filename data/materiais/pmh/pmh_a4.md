@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Ciclo de Krebs** e a **Fosforilação Oxidativa** são o coração da usina energética celular. Carbonos vindos da glicose, gordura ou proteínas convergem para o **Acetil-CoA**, que é oxidado a **CO₂** para produzir **NADH** e **FADH₂**. Esses "transportadores" entregam elétrons para a **Cadeia Respiratória**, criando um **Gradiente de Prótons** que a **ATP Sintase** usa para fabricar a moeda da vida. Para a prova, domine a **Regulação da PDH** e os efeitos letais de inibidores como o **Cianeto**.
+O **Ciclo de Krebs** e a **Fosforilação Oxidativa** são o coração da usina energética. O **Acetil-CoA** é oxidado para produzir **NADH** e **FADH₂**, que entregam elétrons para a **Cadeia Respiratória**, criando um **gradiente de prótons** para a síntese de **ATP**. Domine os efeitos letais de inibidores como o **Cianeto**.
 
 
 ### Figura sugerida

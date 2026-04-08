@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A interpretação do **Perfil Lipídico** é rotina na prática médica para estratificar o **Risco Cardiovascular**. Para a prova, domine a **Fórmula de Friedewald**, os critérios para **Pancreatite Aguda** por hipertrigliceridemia e os mecanismos das principais drogas hipolipemiantes. Na clínica, isso permite decidir entre **Estatinas**, **Fibratos** ou terapias combinadas como a **Ezetimiba**.
+O **Metabolismo de Proteínas** gera nitrogênio, que deve ser excretado via **Ciclo da Ureia** para evitar a **Hiperamonemia** (tóxica para o cérebro). Domine as reações de **Transaminação** (ALT/AST) e como o fígado transforma a amônia em ureia. Na clínica, a falha desse ciclo explica a **Encefalopatia Hepática**.
 
 
 ### Figura sugerida

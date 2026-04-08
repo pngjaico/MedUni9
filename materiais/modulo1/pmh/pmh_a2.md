@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Regulação Metabólica** é o que mantém a **homeostase** entre o comer e o jejuar. O organismo alterna entre **Catabolismo** (quebra) e **Anabolismo** (construção) guiado por um "maestro" hormonal (**Insulina vs Glucagon**) e sensores de energia celular (**AMPK e mTOR**). Para a prova, entenda como a **relação Insulina/Glucagon** dita se você vai **oxidar gordura** ou **sintetizar glicogênio**, e como o **estresse (Cortisol)** sabota esse equilíbrio no paciente crítico.
+A **Regulação Metabólica** garante a **homeostase** entre o comer e o jejuar. O organismo alterna entre **Catabolismo** (quebra) e **Anabolismo** (construção) guiado pela relação **Insulina/Glucagon**. Para a prova, entenda como esse balanço dita o destino dos combustíveis e como o **estresse (Cortisol)** sabota esse equilíbrio no paciente crítico.
 
 
 ### Figura sugerida
@@ -87,10 +87,10 @@ No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **g
 
 ## Pontos-Chave para Prova
 
-- **Insulina vs Glucagon:** A **razão entre eles** define o estado metabólico, não apenas o valor isolado.
-- **AMPK:** O sensor de **crise energética** (AMP alto). Desliga o **anabolismo** e liga a **oxidação**.
-- **mTOR:** O sensor de **abundância**. Ativado por **aminoácidos** e **insulina** para síntese proteica.
-- **Diabetes:** No **DM1**, a falta de **Insulina** deixa o **Glucagon** agir livremente, causando **Cetoacidose**.
+- **Insulina vs Glucagon:** A razão entre eles define o estado metabólico, não apenas o valor isolado.
+- **AMPK:** O sensor de **crise energética** (AMP alto). Desliga o anabolismo e liga a oxidação.
+- **mTOR:** O sensor de **abundância**. Ativado por aminoácidos e insulina para síntese proteica.
+- **Diabetes:** No **DM1**, a falta de insulina permite que o glucagon aja livremente, causando cetoacidose.
 - **Regulação:** Mistura de **curto prazo** (alosterismo) e **médio prazo** (hormonal/fosforilação).
 
 ---
@@ -101,9 +101,9 @@ No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **g
 
 ### Síntese para a prova
 
-- **Insulina:** Hormônio do **anabolismo**; ativa **armazenamento** e **síntese de proteínas**.
-- **Glucagon:** Hormônio do **jejum**; foco absoluto em manter a **glicemia** via fígado.
-- **AMPK:** Ativado pelo **exercício** e **jejum**; "queima" gordura e glicose para repor **ATP**.
+- **Insulina:** Hormônio do anabolismo; ativa armazenamento e síntese de proteínas.
+- **Glucagon:** Hormônio do **jejum**; foco absoluto em manter a glicemia via fígado.
+- **AMPK:** Ativado pelo **exercício**; "queima" gordura e glicose para repor ATP.
 - **Cortisol:** Aumenta a **Gliconeogênese** fornecendo **aminoácidos** a partir do músculo.
 
 | Ferramenta A | Ferramenta B | Diferencial para Prova |

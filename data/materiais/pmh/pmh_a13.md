@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Integração Metabólica** é o estudo de como os órgãos cooperam para manter a vida. O **Fígado** atua como o hub central, exportando glicose e corpos cetônicos; o **Músculo** é o grande consumidor e reserva de glicogênio local; e o **Tecido Adiposo** é o estoque de energia. Para a prova, domine os ciclos de comunicação entre eles (**Ciclo de Cori** e **Ciclo da Alanina**) e como o **Cérebro** se adapta ao jejum prolongado.
+A **Integração Metabólica** estuda como os órgãos cooperam. O **Fígado** é o hub central; o **Músculo** é o consumidor e reserva de glicogênio local; e o **Tecido Adiposo** é o estoque de gordura. Domine os ciclos de comunicação (**Cori** e **Alanina**) e como o **Cérebro** se adapta ao jejum prolongado.
 
 
 ### Figura sugerida

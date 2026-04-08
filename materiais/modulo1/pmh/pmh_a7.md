@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Beta-Oxidação** (quebra) e a **Lipogênese** (síntese) são as vias que gerenciam a nossa maior reserva de energia: a gordura. Enquanto a oxidação mitocondrial fornece **ATP** massivo durante o jejum, a síntese citoplasmática armazena o excesso de energia como **Triglicerídeos**. Para a prova, domine o sistema da **L-Carnitina**, o bloqueio pelo **Malonil-CoA** e a formação de **Corpos Cetônicos** no fígado.
+A **Beta-Oxidação** (quebra) e a **Lipogênese** (síntese) gerenciam nossa reserva de gordura. Enquanto a oxidação fornece **ATP** no jejum, a síntese armazena o excesso como **Triglicerídeos**. Domine o sistema da **L-Carnitina**, o bloqueio pelo **Malonil-CoA** e a formação de **Corpos Cetônicos** no fígado.
 
 
 ### Figura sugerida

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Adaptação Metabólica** é a estratégia do corpo para sobreviver ao **Jejum**, ao **Exercício** e ao **Estresse (Trauma/Sepse)**. Para a prova, entenda como a queda da **Insulina** e o aumento da **Contrarregulação** (**Glucagon**, **Cortisol**) reprogramam o metabolismo da Glicose para os **Corpos Cetônicos**. Na clínica, o ponto crítico é a **Síndrome de Realimentação (Refeeding)**, que pode ser fatal se não monitorada.
+A **Adaptação Metabólica** é a estratégia para sobreviver ao **Jejum**, **Exercício** e **Estresse (Sepse)**. Domine como a queda da **Insulina** e o aumento da **Contrarregulação** reprogramam o metabolismo. Na clínica, o ponto crítico é a **Síndrome de Realimentação (Refeeding)**.
 
 
 ### Figura sugerida

@@ -223,6 +223,36 @@
     html[data-theme="light"] .markdown-body {
       background: rgba(255, 255, 255, 0.95) !important;
     }
+
+    /* Grifar (Highlight) - Apenas no conteúdo do Material */
+    .markdown-body, 
+    .markdown-body *,
+    .preprova-content,
+    .preprova-content * {
+      -webkit-user-select: text !important;
+      user-select: text !important;
+    }
+
+    /* O restante do app continua não selecionável para manter a sensação de plataforma */
+
+    .mg-highlight {
+      background-color: rgba(254, 240, 138, 0.45) !important; /* Amarelo semi-transparente */
+      color: inherit !important; 
+      padding: 2px 0;
+      margin: 0 -1px;
+      border-radius: 3px;
+      cursor: pointer;
+      display: inline;
+      box-shadow: inset 0 -0.5em 0 rgba(254, 240, 138, 0.6); /* Efeito de caneta marca-texto na base */
+      transition: all 0.2s ease;
+    }
+    .mg-highlight:hover {
+      background-color: rgba(254, 240, 138, 0.6) !important;
+    }
+    html[data-theme="dark"] .mg-highlight {
+      background-color: rgba(253, 224, 71, 0.3) !important;
+      box-shadow: inset 0 -0.5em 0 rgba(253, 224, 71, 0.4);
+    }
     html[data-theme="light"] .material-header-card {
       background: rgba(255, 255, 255, 0.88) !important;
       border-color: rgba(0, 0, 0, 0.10) !important;
@@ -687,16 +717,17 @@
         display: none;
       }
 
-      /* Histologia Atlas Plate: Side-by-side for Desktop */
-      @media (min-width: 960px) {
+      /* Histologia Atlas Plate: Side-by-side for Desktop / Tablet */
+      @media (min-width: 800px) {
         .atlas-plate-layout {
-          grid-template-columns: 1fr 320px !important;
+          grid-template-columns: 1fr 340px !important;
           align-items: start !important;
-          gap: 20px !important;
+          gap: 24px !important;
         }
         .atlas-plate-legend {
           position: sticky;
           top: 10px;
+          z-index: 10;
         }
       }
     }
@@ -8204,6 +8235,58 @@
         });
       }, [materialContent, selectedMaterial]);
 
+      // Highlight (Grifar) logic - Temporary session only
+      useEffect(() => {
+        if (!markdownRef.current || !materialContent) return;
+        const root = markdownRef.current;
+
+        const handleMouseUp = (e) => {
+          const selection = window.getSelection();
+          if (!selection || selection.isCollapsed || selection.rangeCount === 0) return;
+
+          const range = selection.getRangeAt(0);
+          // Check if selection is within the markdown root
+          if (!root.contains(range.commonAncestorContainer)) return;
+
+          // Avoid highlighting if clicking on an interactive element (except already highlighted)
+          if (e.target.closest('button, a, input, .flow-box, .mg-highlight')) return;
+
+          const span = document.createElement('span');
+          span.className = 'mg-highlight';
+          
+          try {
+            range.surroundContents(span);
+          } catch (err) {
+            // surroundContents fails if selection crosses element boundaries (like bold to normal)
+            const fragment = range.extractContents();
+            span.appendChild(fragment);
+            range.insertNode(span);
+          }
+          
+          selection.removeAllRanges();
+        };
+
+        const handleClick = (e) => {
+          const target = e.target.closest('.mg-highlight');
+          if (target) {
+            // Remove highlight: move children out of span, then remove span
+            const parent = target.parentNode;
+            while (target.firstChild) {
+              parent.insertBefore(target.firstChild, target);
+            }
+            parent.removeChild(target);
+          }
+        };
+
+        root.addEventListener('mouseup', handleMouseUp);
+        root.addEventListener('click', handleClick);
+        
+        return () => {
+          root.removeEventListener('mouseup', handleMouseUp);
+          root.removeEventListener('click', handleClick);
+        };
+      }, [materialContent, selectedMaterial]);
+
       const toggleMateria = (id) => {
         setExpandedMaterias(prev => ({ ...prev, [id]: !prev[id] }));
       };
@@ -9567,27 +9650,25 @@
                       ref={materialAdminTextareaRef}
                       value={materialAdminDraft}
                       onChange={(e) => setMaterialAdminDraft(e.target.value)}
-                      spellCheck={true}
                       style={{
                         width: '100%',
-                        minHeight: 'min(48vh, 420px)',
-                        boxSizing: 'border-box',
-                        fontFamily: 'ui-monospace, Consolas, monospace',
-                        fontSize: '0.8rem',
-                        lineHeight: 1.45,
+                        minHeight: '350px',
                         padding: '12px',
                         borderRadius: '10px',
                         border: '1px solid rgba(148, 163, 184, 0.4)',
                         background: 'rgba(15, 23, 42, 0.92)',
                         color: '#e2e8f0',
                         resize: 'vertical',
+                        fontFamily: 'ui-monospace, monospace',
+                        fontSize: '0.85rem',
+                        lineHeight: 1.5,
                       }}
                     />
                   </>
                 )}
               </div>
             )}
-
+            
             {/* Loading */}
             {materialLoading && (
               <div style={{
@@ -9624,16 +9705,33 @@
               }}>{materialError}</div>
             )}
 
-            {/* Content */}
+            {/* Content Rendering */}
             {!materialLoading && !materialError && materialContent && (() => {
               const { main, preProva } = splitAtPreProva(materialContent);
-              return (
-                <div className="material-doc-outer">
-                  <div className="material-doc-inner">
+              
+              // Componente memoizado para evitar que o React limpe manualmente o innerHTML (onde ficam os grifos)
+              const MarkdownWrap = React.memo(({ html, isPre }) => {
+                const localRef = React.useRef(null);
+                const actualRef = isPre ? localRef : markdownRef;
+                
+                React.useEffect(() => {
+                  if (actualRef.current) {
+                    actualRef.current.innerHTML = html;
+                  }
+                }, [html]);
+                
+                return (
                   <div
-                    ref={markdownRef}
-                    className="markdown-body material-markdown-card"
-                    style={{
+                    ref={actualRef}
+                    className={`markdown-body ${isPre ? 'preprova-content material-markdown-card--pre' : 'material-markdown-card'}`}
+                    style={isPre ? {
+                      background: 'rgba(245, 158, 11, 0.05)',
+                      border: '1px solid rgba(245, 158, 11, 0.2)',
+                      borderTop: 'none',
+                      borderRadius: '0 0 12px 12px',
+                      padding: '18px 20px',
+                      wordBreak: 'break-word',
+                    } : {
                       background: 'linear-gradient(180deg, rgba(0,200,150,0.05) 0%, rgba(15,23,42,0.7) 120px)',
                       border: '1px solid rgba(0,200,150,0.15)',
                       borderTop: '3px solid #00C896',
@@ -9642,167 +9740,69 @@
                       wordBreak: 'break-word',
                       boxShadow: '0 8px 48px rgba(0,200,150,0.12), 0 2px 16px rgba(0,0,0,0.3)',
                     }}
-                    dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
+                );
+              });
 
-                  {/* Figuras (data/materiais_figuras.json) ou aviso */}
-                  {figurasCatalog === null ? (
-                    <div style={{
-                      display: 'flex', gap: '12px', alignItems: 'center',
-                      background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
-                      borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
-                      fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
-                    }}>
-                      <span style={{
-                        flexShrink: 0,
-                        padding: '6px 8px',
-                        borderRadius: '999px',
-                        background: 'rgba(59,130,246,0.14)',
-                        color: '#93C5FD',
-                        fontSize: '10px',
-                        fontWeight: 800,
-                        letterSpacing: '0.08em',
-                        textTransform: 'uppercase'
-                      }}>Aviso</span>
-                      <span>Carregando catálogo de figuras…</span>
-                    </div>
-                  ) : figurasRodapeAula.length > 0 ? (
-                    <div style={{ marginTop: '14px' }}>
-                      <div style={{
-                        fontSize: '0.72rem', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase',
-                        color: '#6ee7b7', marginBottom: '10px', fontFamily: 'Outfit, sans-serif',
-                      }}>Figuras desta aula</div>
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
-                        {figurasRodapeAula.map((fig) => (
-                          <figure
-                            key={fig.id}
-                            style={{
-                              margin: 0,
-                              background: 'rgba(15,23,42,0.6)',
-                              border: '1px solid rgba(0,200,150,0.2)',
-                              borderRadius: '12px',
-                              overflow: 'hidden',
-                            }}
-                          >
-                            <img
-                              src={fig.urlImagem}
-                              alt={fig.legenda || fig.id}
-                              style={{ width: '100%', maxHeight: 'min(420px, 55vh)', objectFit: 'contain', display: 'block', background: '#020617' }}
-                              loading="lazy"
-                            />
-                            <figcaption style={{
-                              padding: '12px 14px',
-                              fontSize: '0.82rem',
-                              color: 'var(--text-secondary)',
-                              lineHeight: 1.5,
-                              borderTop: '1px solid rgba(0,200,150,0.12)',
-                            }}>
-                              <span style={{ color: '#e5e7eb', fontWeight: 600 }}>{fig.legenda || fig.id}</span>
-                              {fig.credito ? (
-                                <span> — {fig.credito}</span>
-                              ) : null}
-                              {fig.licenca ? (
-                                <span style={{ display: 'block', marginTop: '4px', fontSize: '0.75rem', opacity: 0.85 }}>{fig.licenca}</span>
-                              ) : null}
-                              {fig.urlPaginaCommons ? (
-                                <a
-                                  href={fig.urlPaginaCommons}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  style={{ display: 'inline-block', marginTop: '8px', fontSize: '0.78rem', color: '#00C896' }}
-                                >Ver no Wikimedia Commons</a>
-                              ) : null}
-                            </figcaption>
-                          </figure>
-                        ))}
+              return (
+                <div className="material-doc-outer">
+                  <div className="material-doc-inner">
+                    <MarkdownWrap html={renderMd(main)} isPre={false} />
+
+                    {/* Figuras Catalogadas */}
+                    {figurasCatalog === null ? (
+                      <div className="figura-notice-box" style={{ padding: '16px', opacity: 0.7, fontSize: '12px' }}>Carregando catálogo de figuras...</div>
+                    ) : figurasRodapeAula.length > 0 ? (
+                      <div style={{ marginTop: '14px' }}>
+                        <div style={{ fontSize: '0.72rem', fontWeight: 700, color: '#6ee7b7', marginBottom: '10px', textTransform: 'uppercase' }}>Figuras desta aula</div>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '16px' }}>
+                          {figurasRodapeAula.map(fig => (
+                            <figure key={fig.id} style={{ margin: 0, background: 'rgba(15,23,42,0.6)', border: '1px solid rgba(0,200,150,0.2)', borderRadius: '12px', overflow: 'hidden' }}>
+                              <img src={fig.urlImagem} alt={fig.legenda} style={{ width: '100%', maxHeight: '420px', objectFit: 'contain', display: 'block' }} loading="lazy" />
+                              <figcaption style={{ padding: '12px 14px', fontSize: '0.82rem', color: 'var(--text-secondary)', borderTop: '1px solid rgba(0,200,150,0.12)' }}>
+                                <strong style={{ color: '#e5e7eb' }}>{fig.legenda || fig.id}</strong>
+                                {fig.credito && ` — ${fig.credito}`}
+                              </figcaption>
+                            </figure>
+                          ))}
+                        </div>
                       </div>
-                    </div>
-                  ) : (
-                    <div style={{
-                      display: 'flex', gap: '12px', alignItems: 'center',
-                      background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
-                      borderRadius: '12px', padding: '12px 16px', marginTop: '12px',
-                      fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6,
-                    }}>
-                      <span style={{
-                        flexShrink: 0,
-                        padding: '6px 8px',
-                        borderRadius: '999px',
-                        background: 'rgba(59,130,246,0.14)',
-                        color: '#93C5FD',
-                        fontSize: '10px',
-                        fontWeight: 800,
-                        letterSpacing: '0.08em',
-                        textTransform: 'uppercase'
-                      }}>Aviso</span>
-                      <span>
-                        {figurasDestaAulaComLink.length > 0 && figurasRodapeAula.length === 0
-                          ? <>O material pode ganhar <strong style={{ color: '#93C5FD' }}>mais ilustrações e diagramas</strong> ao longo do tempo. O texto desta aula já está completo para estudo.</>
-                          : figurasPlanejadasCount > 0
-                            ? <>Estamos <strong style={{ color: '#93C5FD' }}>publicando imagens aos poucos</strong>. Parte do conteúdo visual ainda virá em atualizações futuras — use o texto e as tabelas como base principal.</>
-                            : <>Em breve este material pode incluir <strong style={{ color: '#93C5FD' }}>ilustrações e imagens</strong> para complementar o que você lê aqui.</>}
-                      </span>
-                    </div>
-                  )}
+                    ) : (
+                      <div className="figura-notice-box" style={{ 
+                        marginTop: '12px', padding: '12px 16px', borderRadius: '12px', 
+                        background: 'rgba(59,130,246,0.08)', border: '1px solid rgba(59,130,246,0.2)',
+                        fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.6
+                      }}>
+                        <span>Aviso: Em breve este material pode incluir mais ilustrações. O texto está completo para estudo.</span>
+                      </div>
+                    )}
 
-                  {/* Pré-Prova collapsible */}
-                  {preProva && (
-                    <div id="material-preprova-block" className="material-preprova-block" style={{ marginTop: '16px' }}>
-                      <button
-                        type="button"
-                        onClick={() => setPreProvaVisible(v => !v)}
-                        style={{
-                          width: '100%',
-                          display: 'flex',
-                          alignItems: 'center',
-                          justifyContent: 'space-between',
-                          background: preProvaVisible
-                            ? 'rgba(245,158,11,0.15)'
-                            : 'rgba(245,158,11,0.08)',
-                          border: '1px solid rgba(245,158,11,0.3)',
-                          borderRadius: preProvaVisible ? '12px 12px 0 0' : '12px',
-                          padding: '13px 18px',
-                          cursor: 'pointer',
-                          transition: 'background 0.2s',
-                          fontFamily: 'Outfit, sans-serif',
-                        }}
-                      >
-                        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                          <span style={{ fontSize: '1.1rem' }}>⚡</span>
-                          <div style={{ textAlign: 'left' }}>
-                            <div style={{ fontSize: '0.78rem', color: '#D97706', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.07em' }}>
-                              Resumo
-                            </div>
-                            <div style={{ fontSize: '0.95rem', fontWeight: 700, color: '#FCD34D' }}>
-                              Pré-Prova
+                    {/* Pré-Prova Section */}
+                    {preProva && (
+                      <div id="material-preprova-block" className="material-preprova-block" style={{ marginTop: '16px' }}>
+                        <button
+                          type="button"
+                          onClick={() => setPreProvaVisible(!preProvaVisible)}
+                          style={{
+                            width: '100%', display: 'flex', alignItems: 'center', justifyContent: 'space-between',
+                            background: preProvaVisible ? 'rgba(245,158,11,0.15)' : 'rgba(245,158,11,0.08)',
+                            padding: '13px 18px', borderRadius: preProvaVisible ? '12px 12px 0 0' : '12px',
+                            border: '1px solid rgba(245,158,11,0.3)', cursor: 'pointer', fontFamily: 'Outfit, sans-serif'
+                          }}
+                        >
+                          <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                            <span style={{ fontSize: '1.1rem' }}>⚡</span>
+                            <div style={{ textAlign: 'left' }}>
+                              <div style={{ fontSize: '0.72rem', color: '#D97706', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '0.07em' }}>RESUMO</div>
+                              <div style={{ fontSize: '0.92rem', fontWeight: 800, color: '#FCD34D' }}>PRÉ-PROVA</div>
                             </div>
                           </div>
-                        </div>
-                        <span style={{
-                          color: '#FCD34D',
-                          fontSize: '1rem',
-                          transform: preProvaVisible ? 'rotate(180deg)' : 'rotate(0)',
-                          transition: 'transform 0.25s',
-                          display: 'inline-block',
-                        }}>▼</span>
-                      </button>
+                          <span style={{ transform: preProvaVisible ? 'rotate(180deg)' : 'none', color: '#FCD34D', transition: 'transform 0.25s' }}>▼</span>
+                        </button>
 
-                      {preProvaVisible && (
-                        <div
-                          className="markdown-body preprova-content material-markdown-card--pre"
-                          style={{
-                            background: 'rgba(245,158,11,0.05)',
-                            border: '1px solid rgba(245,158,11,0.2)',
-                            borderTop: 'none',
-                            borderRadius: '0 0 12px 12px',
-                            padding: '18px 20px',
-                            wordBreak: 'break-word',
-                          }}
-                          dangerouslySetInnerHTML={{ __html: renderMd(preProva) }}
-                        />
-                      )}
-                    </div>
-                  )}
+                        {preProvaVisible && <MarkdownWrap html={renderMd(preProva)} isPre={true} />}
+                      </div>
+                    )}
                   </div>
                 </div>
               );
@@ -10496,21 +10496,19 @@
         let buffer = "";
 
         for (let i = 0; i < lines.length; i++) {
-          let current = lines[i].trim();
+          let current = String(lines[i] || '').trim();
           if (!current) continue;
 
-          // Se o buffer não estiver vazio, decide se junta ou fecha
+          // OCR Cleanup
+          current = current.replace(/OUE/g, 'QUE').replace(/CILiN/g, 'CILIN');
+
           if (buffer) {
             const lastChar = buffer.slice(-1);
-            const firstChar = current.charAt(0);
             
-            // Critérios para juntar:
-            // 1. Termina em hífen (ex: "DESCON-")
-            // 2. Não termina em pontuação (., !, ?, :, ;) E a próxima linha não começa com letra maiúscula (provável continuação)
-            // 3. A linha atual é muito curta (menos de 5 chars)
-            const endsWithPunctuation = /[.!?:;]$/.test(buffer);
-            const startsWithUpper = /^[A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ]/.test(current);
-            const isContinuation = !endsWithPunctuation || !startsWithUpper || current.length < 5;
+            // Heurística de união
+            const endsWithPunctuation = /[.!?:;)]$/.test(buffer);
+            // Se a linha anterior não terminou em pontuação, ou termina em hífen, junta
+            const isContinuation = !endsWithPunctuation || lastChar === '-';
 
             if (lastChar === '-') {
               buffer = buffer.slice(0, -1) + current;
@@ -10525,7 +10523,7 @@
           }
         }
         if (buffer) healed.push(buffer);
-        return healed;
+        return healed.map(s => s.replace(/\s+/g, ' ').trim());
       };
 
       const [openPin, setOpenPin] = React.useState(null);

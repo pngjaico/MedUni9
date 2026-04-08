@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Glicogênio** é o nosso **estoque rápido** de glicose, essencial para manter a **glicemia** entre as refeições e fornecer energia explosiva para o **músculo**. Paralelamente, a **Via das Pentoses-Fosfato (PPP)** funciona como uma "fábrica" de **NADPH** e **Ribose**. Para a prova, domine a **Regulação Recíproca** das enzimas e a **Deficiência de G6PD**, que é o elo clínico entre metabolismo e **anemia hemolítica**.
+O **Glicogênio** é o nosso estoque rápido de energia, essencial para manter a **glicemia** e a força muscular. Paralelamente, a **Via das Pentoses (PPP)** produz **NADPH** e **Ribose**. Domine a **regulação recíproca** e a **Deficiência de G6PD**, elo entre metabolismo e **anemia hemolítica**.
 
 
 ### Figura sugerida

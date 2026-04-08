@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Metabolismo de Nucleotídeos** é fundamental para a vida, fornecendo as peças para o **DNA/RNA**, além de moléculas energéticas como o **ATP**. Para a prova, domine a diferença entre a **Síntese de Purinas** (montadas sobre a ribose) e a de **Pirimidinas**. Na clínica, esse conhecimento explica a origem da **Gota** (ácido úrico), a **Síndrome de Lesch-Nyhan** e como quimioterápicos como o **Metotrexato** e o **5-FU** bloqueiam o câncer.
+O **Metabolismo de Nucleotídeos** fornece as peças para o **DNA/RNA** e moléculas como o **ATP**. Domine a diferença entre a **Síntese de Purinas** e **Pirimidinas**. Entenda a origem da **Gota** (ácido úrico), a **Síndrome de Lesch-Nyhan** e como fármacos como o **Metotrexato** e **5-FU** bloqueiam o câncer.
 
 
 ### Figura sugerida

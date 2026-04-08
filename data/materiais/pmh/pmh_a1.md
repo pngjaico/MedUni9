@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Bioenergética** é a lógica por trás de como a célula **capta, transforma e usa energia**. A **termodinâmica** não é apenas física; é o que explica por que a **hipóxia** leva à **acidose lática** e como o **ATP** paga a conta de todos os processos vitais. Para a prova, domine o conceito de **espontaneidade (ΔG)**, o papel do **acoplamento** e a diferença fundamental entre **NADH** (energia) e **NADPH** (biossíntese/defesa).
+**Bioenergética** é a lógica de como a célula capta e usa energia. Para a prova, domine o conceito de **espontaneidade (ΔG)**, o papel do **acoplamento** e a diferença entre **NADH** (energia) e **NADPH** (biossíntese). Na clínica, a **hipóxia** explica a **acidose lática** por falha nesse balanço energético.
 
 
 ### Figura sugerida
@@ -28,7 +28,7 @@ A **primeira lei** (conservação de energia) diz que energia não nasce nem mor
 
 A **segunda lei** introduz **entropia**: processos espontâneos no universo aumentam desordem global. Células mantêm **baixa entropia interna** à custa de **aumentar entropia** no meio (dispersão de calor). Por isso **vida é anti-entropia local**, financiada por **fluxo de energia** (alimento → oxidação → ATP).
 
-> **Dica de Prova:** “Reação espontânea” na célula quase sempre significa **ΔG negativo** em condições fisiológicas — não “rápida” nem “importante” por si só.
+> **Dica de Prova:** Uma reação **espontânea** na célula exige um **ΔG negativo** (< 0). Isso não define a velocidade (enzimas fazem isso), apenas a direção termodinâmica.
 
 ---
 
@@ -47,9 +47,7 @@ Na prática de estudo, associe:
 
 ## ATP: moeda e “bateria” molecular
 
-O **ATP** liga energia liberada no **catabolismo** a processos **endergônicos** (transporte ativo, síntese, contração). A **hidrólise** de ATP → ADP + Pᵢ libera **energia livre** suficiente para acoplar trabalho celular (ordem de grandeza clássica em livros: ~**30,5 kJ/mol** em condições padrão — valores exatos variam com pH/Mg²⁺; em prova, o conceito importa mais que o número).
-
-Outras moléculas “ricas” aparecem em contexto (GTP, fosfoenolpiruvato, creatina-fosfato em músculo), mas **ATP** é o eixo central da bioenergética médica.
+O **ATP** é o eixo central da bioenergética médica. A hidrólise de **ATP → ADP + Pᵢ** libera a energia livre necessária para realizar **trabalho químico**, como a contração muscular ou o transporte ativo de íons.
 
 ---
 
