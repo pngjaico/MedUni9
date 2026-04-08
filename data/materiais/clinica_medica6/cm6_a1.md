@@ -42,7 +42,7 @@ A carga de doença hepática crônica relaciona-se sobretudo a **álcool**, infe
 | Autoimune | **Hepatite autoimune** |
 | Colestase crônica | **PBC/PSC** (conceito; nomenclatura evolui) |
 | Sobrecarga de metal | **Hemocromatose hereditária** |
-| Outras | **Wilson**, **alfa-1 antitripsina**, **DOCHV** etc. |
+| Outras | **Wilson**, **alfa-1 antitripsina**, **doença hepática congestiva** etc. |
 
 A investigação etiológica inclui **história detalhada**, **sorologias virais**, perfil **autoimune** quando indicado, **ferritina/saturação de transferrina**, **ceruloplasmina** e contexto clínico — o *Cecil* enfatiza **tratar a causa** sempre que possível (ex.: abstinência alcoólica, antiviral, controle metabólico).
 
@@ -141,7 +141,7 @@ Infecção do líquido ascítico **sem** foco cirúrgico evidente. Suspeitar com
 ### 3. Hemorragia digestiva alta por varizes
 
 **Fisiopatologia:** hipertensão portal → **varizes esofagogástricas** frágeis.  
-**Conduta inicial:** estabilização hemodinâmica, correção de coagulopatia quando indicado, **octreotide** ou análogos conforme protocolo, **antibiótico profilático** em pacientes com cirrose e sangramento (reduz infecção e mortalidade), **endoscopia** em janela adequada. **Betabloqueador não dialítico** para **profilaxia primária/secundária** em pacientes selecionados — contraindicar se hipotensão, bradicardia, asma grave etc.
+**Conduta inicial:** estabilização hemodinâmica, correção de coagulopatia quando indicado, **octreotide** ou análogos conforme protocolo, **antibiótico profilático** em pacientes com cirrose e sangramento (reduz infecção e mortalidade), **endoscopia** em janela adequada. **Betabloqueador não seletivo** para **profilaxia primária/secundária** em pacientes selecionados — contraindicar se hipotensão, bradicardia, asma grave etc.
 
 ### 4. Encefalopatia hepática
 
@@ -168,13 +168,13 @@ Rastreio periódico com **USG** ± **AFP** conforme protocolo assistencial. Nód
 
 ## Ponte com a Clínica
 
-Paciente cirrótico com **melena** e **sonolência** não é “só hemoglobina baixa”: o sangramento pode **precipitar encefalopatia** (amônia e outros); trate **volume**, **gordura** do sangramento (protocolo de endoscopia), **antibiótico profilático** quando indicado e **lactulose** com critério — sempre procurando **gatilhos infecciosos**. Ascite nova com **febre** ou **dor** deve levar à **paracentese** — a inércia aqui converte PBE em sepse.
+Paciente cirrótico com **melena** e **sonolência** não é “só hemoglobina baixa”: o sangramento pode **precipitar encefalopatia** (amônia e outros); trate **volume**, **fonte** do sangramento (protocolo de endoscopia), **antibiótico profilático** quando indicado e **lactulose** com critério — sempre procurando **gatilhos infecciosos**. Ascite nova com **febre** ou **dor** deve levar à **paracentese** — a inércia aqui converte PBE em sepse.
 
 ---
 
 ### Figura sugerida
 
-**Momento:** após a seção de fisiopatologia da hipertensão portal (reforço visual opcional; o texto acima já é autossuficiente).
+**Momento:** após a seção de fisiopatologia da hipertensão portal, como reforço visual da circulação colateral.
 
 **O que mostrar:** um **único esquema didático** com: veia porta, ramificações intra-hepáticas, setas de **circulação colateral** (esofágico, umbilical, esplenorrenal) e anotação de **pressão portal elevada**. Idealmente versão **limpa**, poucas cores, legenda em português.
 
@@ -182,7 +182,7 @@ Paciente cirrótico com **melena** e **sonolência** não é “só hemoglobina 
 
 **Legenda (rascunho):** Hipertensão portal na cirrose: resistência intra-hepática e desvio do fluxo por circulação colateral.
 
-**Notas (produção):** no *Cecil*, o raciocínio é o mesmo que o texto; a figura serve para **fixar anatomia funcional**. Se publicar no app mobile, preferir **largura única** e **fonte legível** em tela pequena. **Não** é obrigatório ter imagem para entender a aula.
+**Notas (produção):** no *Cecil*, o raciocínio é o mesmo do texto; a figura serve para **fixar anatomia funcional**. Se publicar no aplicativo móvel, preferir **largura única** e **fonte legível** em tela pequena.
 
 ---
 
@@ -202,15 +202,13 @@ Paciente cirrótico com **melena** e **sonolência** não é “só hemoglobina 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Cirrose:** estágio terminal de fibrose com **nódulos** e **disrupção vascular**.
-- **Hipertensão portal** explica ascite, varizes e parte da encefalopatia.
-- **Child-Pugh:** A/B/C; **MELD:** gravidade e fila de transplante (conceito).
-- **Ascite:** diuréticos espironolactona ± furosemida; paracentese com albumina em grande volume.
-- **PBE:** infecção do líquido ascítico — paracentese para diagnóstico.
-- **Encefalopatia:** gatilhos clássicos (sangue, infecção, constipação, drogas, eletrólitos).
-- **CHC:** rastreio em cirrose (USG ± marcadores conforme protocolo).
+Cirrose: estágio terminal de fibrose com nódulos e disrupção vascular. Hipertensão portal explica ascite, varizes e parte da encefalopatia. Child-Pugh: A/B/C; MELD: gravidade e fila de transplante (conceito).
+
+Ascite: diuréticos espironolactona ± furosemida; paracentese com albumina em grande volume. PBE: infecção do líquido ascítico — paracentese para diagnóstico. Encefalopatia: gatilhos clássicos (sangue, infecção, constipação, drogas, eletrólitos).
+
+CHC: rastreio em cirrose (USG ± marcadores conforme protocolo).
 
 ### Diferenciações que a Uninove adora cobrar
 

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O cérebro representa 2% do peso corporal mas consome 20% do oxigênio e 25% da glicose. Interromper o fluxo por apenas 4–6 minutos causa morte neuronal irreversível. Por isso a vascularização do **SNC** é um tema de urgência: AVCs matam e incapacitam. A **Uninove** cobra tanto a anatomia (qual artéria supre qual território) quanto a clínica (qual déficit emerge de cada território isquêmico). Saber o círculo de Willis e os três territórios cerebrais é suficiente para responder 80% das questões sobre AVC.
+O cérebro representa 2% do peso corporal mas consome 20% do oxigênio e 25% da glicose. Interromper o fluxo por apenas 4–6 minutos causa morte neuronal irreversível. Por isso a vascularização do SNC é um tema de urgência: AVCs matam e incapacitam. A Uninove cobra tanto a anatomia (qual artéria supre qual território) quanto a clínica (qual déficit emerge de cada território isquêmico). Saber o círculo de Willis e os três territórios cerebrais é suficiente para responder 80% das questões sobre AVC.
 
 ### Figura sugerida
 
@@ -117,22 +117,22 @@ O sangue venoso drena para os seios durais (espaços entre as lâminas da dura-m
 
 ## Ponte com a Clínica
 
-AVC isquêmico por oclusão da ACM — o mais comum: hemiplegia + hemianestesia proporcionais face + braço contralaterais, desvio do olhar conjugado ipsilateral à lesão (olhos olham para o lado da lesão), afasia de Broca (lesão do hemisfério esquerdo). Subaracnoide por aneurisma de comunicante anterior: hemorragia subaracnoide ("pior dor de cabeça da vida") + rigidez de nuca + **TC** com hiperdensidade nas cisternas. Dissecção de artéria carótida interna: jovem com dor cervical + síndrome de Horner ipsilateral + AVC isquêmico.
+AVC isquêmico por oclusão da ACM — o mais comum: hemiplegia + hemianestesia proporcionais face + braço contralaterais, desvio do olhar conjugado ipsilateral à lesão (olhos olham para o lado da lesão), afasia de Broca (lesão do hemisfério esquerdo). Subaracnoide por aneurisma de comunicante anterior: hemorragia subaracnoide ("pior dor de cabeça da vida") + rigidez de nuca + TC com hiperdensidade nas cisternas. Dissecção de artéria carótida interna: jovem com dor cervical + síndrome de Horner ipsilateral + AVC isquêmico.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-ACA: membro inferior contralateral fraco. AVC medial da perna. ACM: face + braço contralaterais + afasia (dominante). O mais comum. ACP: hemianopsia homônima contralateral; bilateral = cegueira cortical.
-
-PICA: síndrome de Wallenberg — ataxia + Horner (ipsilateral) + dor/temp (contralateral). Lenticuloestriados (ACM): irrigam cápsula interna → AVC lacunar → hemiplegia densa. Seio cavernoso: NC III, IV, V1, V2, VI + ACI. Trombose = oftalmoplegia.
-
-CO₂ ↑ → vasodilatação cerebral. Hiperventilação reduz PCO₂ → vasoconstrição → reduz PIC. Círculo de Willis: anastomose carotída + vertebrobasilar; incompleto em 50%.
+- **ACA:** membro inferior contralateral fraco. AVC medial da perna.
+- **ACM:** face + braço contralaterais + afasia (dominante). O mais comum.
+- **ACP:** hemianopsia homônima contralateral; bilateral = cegueira cortical.
+- **PICA:** síndrome de Wallenberg — ataxia + Horner (ipsilateral) + dor/temp (contralateral).
+- **Lenticuloestriados (ACM):** irrigam cápsula interna → AVC lacunar → hemiplegia densa.
+- **Seio cavernoso:** NC III, IV, V1, V2, VI + ACI. Trombose = oftalmoplegia.
+- **CO₂ ↑ → vasodilatação cerebral.** Hiperventilação reduz PCO₂ → vasoconstrição → reduz PIC.
+- **Círculo de Willis:** anastomose carotída + vertebrobasilar; incompleto em 50%.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -144,5 +144,4 @@ CO₂ ↑ → vasodilatação cerebral. Hiperventilação reduz PCO₂ → vasoc
 | Trombose seio cavernoso | Aneurisma de ACI | Ambos afetam NC III; trombose: também V1/V2, proptose/quemose |
 
 ### Frase-âncora para não esquecer
-
 > "ACM é a rainha: irriga o maior território, causa o maior AVC e ainda passa pela cápsula interna — tudo no mesmo bairro."

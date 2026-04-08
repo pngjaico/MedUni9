@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A histologia do esôfago e estômago fundamenta a compreensão de doenças extremamente prevalentes: refluxo gastroesofágico, esofagite, úlcera péptica e câncer gástrico. Saber identificar as camadas, os tipos celulares e o que cada célula secreta é essencial para interpretar biopsias e compreender a fisiopatologia. **Uninove** cobra sistematicamente a identificação de células gástricas por função e a diferença histológica dos segmentos esofágicos.
+A histologia do esôfago e estômago fundamenta a compreensão de doenças extremamente prevalentes: refluxo gastroesofágico, esofagite, úlcera péptica e câncer gástrico. Saber identificar as camadas, os tipos celulares e o que cada célula secreta é essencial para interpretar biopsias e compreender a fisiopatologia. Uninove cobra sistematicamente a identificação de células gástricas por função e a diferença histológica dos segmentos esofágicos.
 
 ### Figura sugerida
 
@@ -147,17 +147,17 @@ Na úlcera péptica gástrica, o desequilíbrio entre a secreção de HCl pelas 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Esôfago: epitélio escamoso estratificado não-queratinizado. Muscular esofágica: estriado (1/3 sup) → misto (1/3 méd) → liso (1/3 inf) — mnemônico EVL. Barrett: refluxo → metaplasia escamoso→colunar + células caliciformes → pré-maligno.
-
-Célula parietal: HCl + Fator Intrínseco (sem ela → sem B12 → anemia megaloblástica). Célula principal: pepsinogênio (ativado a pepsina pelo HCl). Célula G: no antro, secreta gastrina → estimula HCl.
-
-Fossetas profundas: antro; fossetas rasas: fundo/corpo. Esôfago tem adventícia (não serosa) — disseminação mediastinal do Ca esofágico.
+- **Esôfago:** epitélio escamoso estratificado não-queratinizado
+- **Muscular esofágica:** estriado (1/3 sup) → misto (1/3 méd) → liso (1/3 inf) — mnemônico EVL
+- **Barrett:** refluxo → metaplasia escamoso→colunar + células caliciformes → pré-maligno
+- **Célula parietal:** HCl + Fator Intrínseco (sem ela → sem B12 → anemia megaloblástica)
+- **Célula principal:** pepsinogênio (ativado a pepsina pelo HCl)
+- **Célula G:** no antro, secreta gastrina → estimula HCl
+- **Fossetas profundas:** antro; fossetas rasas: fundo/corpo
+- **Esôfago tem adventícia** (não serosa) — disseminação mediastinal do Ca esofágico
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -169,5 +169,4 @@ Fossetas profundas: antro; fossetas rasas: fundo/corpo. Esôfago tem adventícia
 | Esôfago superior | Esôfago inferior | Superior = músculo estriado (voluntário); inferior = músculo liso (involuntário) |
 
 ### Frase-âncora para não esquecer
-
 > "A parietal é a célula mais importante do estômago: faz HCl para digerir e Fator Intrínseco para não ter anemia — dois empregos numa só célula."

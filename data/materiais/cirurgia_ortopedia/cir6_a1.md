@@ -38,9 +38,9 @@
 
 ---
 
-## Exame físico (serial, não “snapshot”)
+## Exame físico (serial, não “avaliação isolada”)
 
-Inspeção (distensão, cicatrizes, massas), ausculta (ruídos hidroaéreos presentes/ausentes/altos), percussão e palpação com **attenção à descompressão súbita** (irritação peritoneal). Reavaliar após analgesia (a dose adequada **não** “some” com peritonite).
+Inspeção (distensão, cicatrizes, massas), ausculta (ruídos hidroaéreos presentes/ausentes/altos), percussão e palpação com **atenção à descompressão súbita** (irritação peritoneal). Reavaliar após analgesia (a dose adequada **não** “some” com peritonite).
 
 ### Sinais de irritação peritoneal
 
@@ -126,7 +126,7 @@ Rigidez, defesa, **Blumberg** (dor à descompressão brusca). Em idoso, **perito
 - **Momento:** após conduta em tabela (sinal radiológico complementar ao ar subdiafragmático).
 - **O que mostrar:** radiografia de abdome em **decúbito dorsal** com **sinal da parede dupla** (ar intra e intraluminal realçando ambas as faces da parede intestinal) — sinal secundário de pneumoperitônio.
 - **Tipo sugerido:** radiografia exemplo (abdome agudo supino).
-- **Legenda (rascunho):** Sinal da parede dupla (double wall sign) em pneumoperitônio.
+- **Legenda (rascunho):** Sinal da parede dupla (sinal da parede dupla) em pneumoperitônio.
 
 ---
 
@@ -159,18 +159,17 @@ Paciente com dor periumbilical que **migra** para FID em 12–24 h com anorexia 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Pneumoperitônio** em RX **ortostático** — forte apoio a perfuração (TC pode ser mais sensível).
-- **Lactato** alto — pense **hipoperfusão** e **isquemia** intestinal.
-- **Estrangulamento** — dor intensa, sinais sistêmicos, sem melhora espontânea.
-- **AAA** roto — hipotensão + dor lombar/pulsátil massa (nem sempre tríade completa).
+Na prova, lembre que Pneumoperitônio em RX ortostático — forte apoio a perfuração (TC pode ser mais sensível). Lactato alto — pense hipoperfusão e isquemia intestinal.
+
+Para não errar em cenário clínico, considere também Estrangulamento — dor intensa, sinais sistêmicos, sem melhora espontânea. AAA roto — hipotensão + dor lombar/pulsátil massa (nem sempre tríade completa).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Apendicite | adnexitis / gravidez ectópica | USG/TC, beta-HCG, ginecologia |
+| Apendicite | anexite / gravidez ectópica | USG/TC, beta-HCG, ginecologia |
 | Colecistite | úlcera perfurada | USG biliar, TC, foco inflamatório vs ar livre |
 | IAM mesentérica | colite infecciosa | TC com contraste, risco embólico, lactato |
 | Pancreatite aguda | perfuração duodenal | Lipase, TC, ar livre |

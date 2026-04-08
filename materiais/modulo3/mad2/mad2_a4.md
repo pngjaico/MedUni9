@@ -9,7 +9,7 @@
 
 Transplante e transfusão são dois cenários em que imunologia sai do papel e vira decisão que pode salvar ou matar em horas. Em ambos, o problema central é o mesmo: o sistema imune reconhece antígenos que não pertencem ao receptor e responde. A diferença é a escala e o tempo. No transplante, a batalha pode durar meses ou anos. Na transfusão incompatível, pode descompensar em minutos.
 
-Na **Uninove**, essa aula costuma aparecer em questões clínicas objetivas com foco em mecanismo: rejeição hiperaguda versus aguda, hemólise transfusional imediata versus reação febril não hemolítica, e conduta inicial segura. Quem entende o porquê de cada reação acerta a prova com menos esforço e erra menos na prática.
+Na Uninove, essa aula costuma aparecer em questões clínicas objetivas com foco em mecanismo: rejeição hiperaguda versus aguda, hemólise transfusional imediata versus reação febril não hemolítica, e conduta inicial segura. Quem entende o porquê de cada reação acerta a prova com menos esforço e erra menos na prática.
 
 ### Figura sugerida
 
@@ -86,7 +86,7 @@ Uma dica prática: quando o enunciado traz instabilidade hemodinâmica no contex
 
 ## Ponte com a Clínica
 
-No hospital, segurança em transplante e transfusão depende menos de decorar nomes e mais de reconhecer padrão de risco cedo. Profissional que sabe ler mecanismo imunológico interrompe cascata de dano antes de insuficiência de órgão, **choque** ou perda do enxerto. É esse ganho de tempo que separa conduta burocrática de conduta clínica madura.
+No hospital, segurança em transplante e transfusão depende menos de decorar nomes e mais de reconhecer padrão de risco cedo. Profissional que sabe ler mecanismo imunológico interrompe cascata de dano antes de insuficiência de órgão, choque ou perda do enxerto. É esse ganho de tempo que separa conduta burocrática de conduta clínica madura.
 
 ---
 
@@ -104,17 +104,19 @@ No hospital, segurança em transplante e transfusão depende menos de decorar no
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Crossmatch pré-transplante:** reduz risco de rejeição catastrófica.
+- **Hiperaguda:** anticorpo pré-formado e falha quase imediata.
+- **Aguda:** inflamação do enxerto em dias ou semanas.
+- **Crônica:** perda lenta por fibrose e lesão vascular.
+- **ABO incompatível:** risco de hemólise transfusional grave.
+- **Durante reação:** primeira ação é interromper transfusão.
+- **TRALI e TACO:** diferenciar causa respiratória muda conduta.
+- **Segurança real:** depende de protocolo e vigilância ativa.
 
-
-Crossmatch pré-transplante: reduz risco de rejeição catastrófica. Hiperaguda: anticorpo pré-formado e falha quase imediata. Aguda: inflamação do enxerto em dias ou semanas.
-
-Crônica: perda lenta por fibrose e lesão vascular. ABO incompatível: risco de hemólise transfusional grave. Durante reação: primeira ação é interromper transfusão.
-
-TRALI e TACO: diferenciar causa respiratória muda conduta. Segurança real: depende de protocolo e vigilância ativa.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -126,5 +128,4 @@ TRALI e TACO: diferenciar causa respiratória muda conduta. Segurança real: dep
 | TRALI | TACO | TRALI é lesão pulmonar inflamatória; TACO é sobrecarga volêmica |
 
 ### Frase-âncora para não esquecer
-
 > "Em transplante e transfusão, minuto ganho no reconhecimento evita órgão perdido."

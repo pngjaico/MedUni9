@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Nenhum órgão metaboliza isolado: **fígado** exporta **glicose** e **cetônicos**; **músculo** consome **glicose** e **ácidos graxos**; **adiposo** armazena **TAG**; **cérebro** consome **glicose** e, em jejum, **cetônicos**; **rim** gera **glicose** (gliconeogênese). **Ciclo de Cori**, **glicose-alanina** e **balanço energético** integram **jejum**, **exercício** e **doença**. Esta aula é o “mapa” para entender **por que** a hipoglicemia se manifesta em **falência hepática** e **por que** o **trauma** acelera **catabolismo**.
+A **Integração Metabólica** é o estudo de como os órgãos cooperam para manter a vida. O **Fígado** atua como o hub central, exportando glicose e corpos cetônicos; o **Músculo** é o grande consumidor e reserva de glicogênio local; e o **Tecido Adiposo** é o estoque de energia. Para a prova, domine os ciclos de comunicação entre eles (**Ciclo de Cori** e **Ciclo da Alanina**) e como o **Cérebro** se adapta ao jejum prolongado.
 
 
 ### Figura sugerida
@@ -58,11 +58,12 @@ Nenhum órgão metaboliza isolado: **fígado** exporta **glicose** e **cetônico
 
 ## Ciclos inter-orgânicos
 
-| Ciclo | Órgãos | Função |
-|-------|--------|--------|
-| Cori | músculo ↔ fígado | lactato → glicose |
-| Glicose-alanina | músculo ↔ fígado | amino → glicose |
-| Cahill (conceito) | integração proteína-glicose | catabolismo |
+| Ciclo Metabólico | Órgãos Envolvidos | Função "High-Yield" |
+|-------------------|-------------------|---------------------|
+| **Ciclo de Cori** | **Músculo ↔ Fígado** | Recicla **Lactato** em Glicose |
+| **Glicose-Alanina** | **Músculo ↔ Fígado** | Transporta **Nitrogênio** e Carbono |
+| **B-Oxidação** | Músculo/Fígado | Transforma **Gordura** em ATP |
+| **Cetogênese** | **Fígado → Cérebro** | Combustível alternativo p/ o **SNC** |
 
 ---
 
@@ -82,10 +83,11 @@ Pós-parto, **eixos** voltam ao **basal** em semanas — acompanhamento **glicê
 
 ## Pontos-Chave para Prova
 
-- **Fígado** = hub de **glicose**, **ureia**, **cetônicos**, **VLDL**.
-- **Músculo** = **glicogênio** local e **exportação** de **lactato/alanina**.
-- **Adiposo** = **reserva** e **glicerol** para **gliconeogênese**.
-- **Ciclos** integram **jejum** e **exercício**.
+- **Fígado:** O único que pode exportar glicose livre no sangue (**Glicose-6-Fosfatase**).
+- **Músculo:** Reserva de **Glicogênio** é egoísta; só ele usa. No esforço, gera **Lactato**.
+- **Tecido Adiposo:** No jejum, a **Lípase Hormônio-Sensível** libera **Ácidos Graxos** e **Glicerol**.
+- **Cérebro:** Consome **Glicose** (GLUT1/3), mas aceita **Corpos Cetônicos** em crises.
+- **Rins:** Responsáveis por até 20% da **Gliconeogênese** no jejum prolongado.
 
 ---
 
@@ -95,18 +97,17 @@ Pós-parto, **eixos** voltam ao **basal** em semanas — acompanhamento **glicê
 
 ### Síntese para a prova
 
+- **Cori:** Essencial para evitar a **acidose lática** excessiva durante o exercício.
+- **Alanina:** O principal aminoácido que o músculo "doa" para o fígado fazer glicose.
+- **Insulina:** Desliga a **Lipólise** e a **Gliconeogênese**; liga a **Glicogênese**.
+- **Glucagon:** Age quase exclusivamente no **Fígado**, estimulando a saída de glicose.
 
-Cori regenera glicose a partir de lactato muscular. Alanina carrega nitrogênio e carbono para o fígado.
-
-Cérebro flexível, mas dependente de glicose na alimentação mista. Doença grave altera fluxo entre órgãos — não só uma enzima.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Glicogenólise hepática | Muscular | Só hepática **eleva glicemia** sistêmica. |
-| Lipólise | Lipogênese | Jejum vs pós-prandial; **insulina** inverte. |
-| Lactato alto | Sempre hipóxia | Pode ser **sepse**, **toxinas**, **metástase** hepática — contexto. |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|----------------------|
+| **Glicogenólise Hepática** | **Muscular** | Mantém a **Glicemia** vs Gera **ATP Local** |
+| **Pós-Prandial** | **Jejum** | Governo da **Insulina** vs Governo do **Glucagon** |
+| **Glicerol** | **Ácido Graxo** | Usado na **Gliconeogênese** vs Usado na **B-Oxidação** |
+| **Cérebro** | **Hemácia** | Usa **Cetonas/Glicose** vs Usa **Apenas Glicose** |
 
 ### Frase-âncora para não esquecer
 

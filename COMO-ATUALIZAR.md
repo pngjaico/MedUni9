@@ -11,6 +11,10 @@ Antes de começar, entenda o que cada arquivo faz:
 ### index.html
 O arquivo principal do app. Contém a interface visual e toda a lógica do frontend. Você só precisa mexer aqui se quiser mudar o design ou adicionar novas funcionalidades (como filtros, nova tela, etc).
 
+**Materiais em Markdown e `material_overrides` (Firestore):** o texto das aulas vem dos ficheiros `.md` em `data/materiais/<materia>/` e `materiais/moduloN/<materia>/` (dupla versionada no Git). A conta admin (mesmo critério que `isAdmin()` em [`firestore.rules`](firestore.rules): email na lista e verificado) pode, no app autenticado com a aba **Materiais** e uma aula aberta, gravar uma **sobreposição** na coleção Firestore `material_overrides`, com ID `{materiaId}__{temaId}`. Esse texto **prevalece** sobre o `.md` servido pelo Hosting até **Repor ficheiro do site** no painel de edição (apaga o documento de override). Para tornar a alteração **canónica no repositório**, copie o Markdown de volta para os dois caminhos `.md` correspondentes e faça commit/deploy como de costume. Ao alterar regras desta coleção, faça deploy com `firebase deploy --only firestore:rules` no projeto **medgradplus** (ver [`FIREBASE_E_GIT.md`](FIREBASE_E_GIT.md)).
+
+- **Checagem automática da estrutura canónica** (`## Pré-Prova` único por fim, `### Síntese para a prova`, `### Figura sugerida`, sem `### O que você PRECISA saber`): `npm run validate:materiais` (falha só em ficheiros existentes; aulas ativas sem `.md` geram aviso, a menos que defina `VALIDATE_MATERIAIS_FAIL_ON_MISSING=1`). Scripts de manutenção em lote: `scripts/fix_precisa_to_sintese.mjs`, `scripts/fix_h2_after_preprova.mjs`, `scripts/fix_tcar_duplicate_preprova.mjs`, `scripts/add_figura_if_missing.mjs`, `scripts/sync_st_folder_from_saude_trabalhador.mjs`.
+
 ### admin.html
 Painel administrativo para gerenciar o app. Aqui você pode adicionar flashcards, questões e códigos de ativação sem mexer no código. Use este arquivo para operações de rotina.
 
@@ -40,11 +44,13 @@ Lista de todas as matérias, semestres e blocos do curso. Exemplo:
 ```
 
 ### data/flashcards.json
-Seus flashcards de estudo. Cada card tem pergunta, resposta, matéria e tema (`aula_id`); este é um dos arquivos que você vai atualizar com frequência. O modelo editorial atual (**v2**) está descrito no prompt canônico [`prompts/gerar_questoes_flashcards.md`](prompts/gerar_questoes_flashcards.md): **30 cards por aula** (`tema` = `aula_id`), **25** com `origem: "material"` e **5** com `origem: "extra"`, campo **`categoria`** (filtro no app), `frente`/`verso`/`explicacao` com limites de tamanho. O app aceita `pergunta`/`resposta` como alias de `frente`/`verso`.
+Seus flashcards de estudo. O modelo editorial atual (**cloze v3**) está descrito no prompt canônico [`prompts/gerar_questoes_flashcards.md`](prompts/gerar_questoes_flashcards.md): **30 cards por aula** (`tema` = `aula_id`), **25** com `origem: "material"` e **5** com `origem: "extra"`, campo **`categoria`** (filtro no app), e formato cloze em `frente` (`{{c1::...}}`) + `verso` apenas com o preenchimento da lacuna. `explicacao` segue curta para rodapé discreto. O app mantém fallback para cards legados (`pergunta`/`resposta`).
 
 - **Backup:** antes de um “wipe” ou regeneração em massa, mantenha uma cópia (ex.: `data/flashcards.json.bak`). Após substituir o JSON por um deck novo, chaves antigas do **SM-2** podem ficar órfãs no `localStorage` (`meduni9_sr_data`); isso é inofensivo e pode ser ignorado ou limpo manualmente se quiser.
 
-- **Geração por lote:** trabalhe **aula a aula** (ou blocos pequenos), valide o checklist do prompt (30 itens, proporção material/extra, categorias, anti-repetição) e faça uma passagem de QA para não duplicar perguntas entre cards próximos ou entre aulas.
+- **Geração por lote:** trabalhe **aula a aula** (ou blocos pequenos), valide o checklist do prompt (30 itens, proporção material/extra, categorias, anti-repetição) e faça uma passagem de QA para não duplicar cards semanticamente próximos.
+- **Validação cloze por disciplina:** `node scripts/validate_flashcards_cloze.cjs <materia_id>`
+- **Piloto DS pronto:** para referência de regeneração em cloze, existe `scripts/regenerate_ds_cloze.cjs`.
 
 ### data/questoes.json
 Questões de simulado extraídas de provas antigas. Contém enunciado, alternativas, resposta correta e explicação. Você vai atualizar bastante aqui.
@@ -66,13 +72,81 @@ Revisão escrita (**Anatomia → Revisão rápida**): `version`, `updatedAt`, `s
 Revisão em texto (**Histologia → Revisão rápida**): mesmo modelo que `anatomia_revisao.json` (`sistemas`, `subsections`, `blocks`). Ícones usam chaves do atlas (`bone`, `joint`, `heart`, …). Na interface, todo o conteúdo do JSON fica disponível; a busca filtra por texto. Opcional `regiao` permanece como metadado. Não há campo `livrosBase` no JSON gerado.
 
 ### data/histologia_atlas.json
-Atlas de lâminas (**Histologia → Atlas de lâminas**): `sistemas[]` com `divisoes[]` (tecido/órgão) e `laminas[]` (`titulo`, `urlImagem`, `descricaoNecessaria`, `pinos`). `referenciaAsclepio` no JSON reutiliza o nome do campo; conteúdo pode apontar para OpenStax/OER. Para regenerar a estrutura base: `node scripts/generate_histologia_content.js`.
+Atlas de lâminas (**Histologia → Atlas de lâminas**): `sistemas[]` com `divisoes[]` (tecido/órgão) e `laminas[]` (`titulo`, `urlImagem`, `descricaoNecessaria`, `pinos`).
+
+- Migração canônica do acervo legado local (`Meus Sites/Atlas Hisotlogia/.../images/laminas`) para o app:
+  - `python scripts/migrate_histologia_atlas_from_legacy.py`
+- Destino das imagens canônicas: `data/histologia/atlas/`
+- Metadados híbridos por lâmina:
+  - `aliasLegado` (nome original da imagem)
+  - `categoriaLegada` (ex.: `10_digestorio`)
+  - `urlImagemZoom` (quando existir versão ampliada)
+  - `urlImagemCompleta` — fotografia **com** legenda embutida (geralmente o mesmo ficheiro que era usado como principal antes dos recortes)
+  - `urlImagemRecorte` — opcional; JPG só com a área da lâmina (sem a faixa de legenda). Quando existe, `urlImagem` aponta para o recorte (vista compacta) e, no app, **Toque para ampliar** abre a vista completa com legenda em texto
+  - `auditoriaLegenda` — opcional; copiado de `data/histologia_atlas_legenda_audit.json` no rebuild (`estado`, `nota`, referência à página legada)
+  - `classificacaoRelevancia` (`alta`, `media`, `baixa`)
+- Relatórios de migração:
+  - `data/histologia_atlas_migracao_relatorio.json`
+  - `docs/histologia-atlas-migracao.md`
+
+**Legendas e QA (rebuild a partir do HTML UFG):** `python scripts/rebuild_histologia_atlas_structure.py` — regera `histologia_atlas.json` e `data/histologia_legendas_qc_relatorio.json` (inclui contagem por estado de auditoria e lâminas com recorte).
+
+**Inventário para revisão humana (uma lâmina por vez):** `python scripts/histologia_legenda_inventory.py` — atualiza `data/histologia_atlas_legenda_audit.json` e exporta `data/histologia_atlas_legenda_audit.csv`. Ao voltar a correr, preserva `estado` e `nota` já preenchidos por id. Valores típicos de `estado`: `pendente`, `ok`, `corrigido_manual`, `duvida`.
+
+**Recortes (Pillow):** `pip install pillow` se necessário. Configuração: `data/histologia_atlas_crop_config.json` (`defaultRel` em frações 0–1, overrides por categoria ou por id, `gerarSemAuditoriaOk` para gerar sem marcar `ok` na auditoria). Geração: `python scripts/generate_histologia_atlas_recortes.py` (por defeito só lâminas com `estado: ok` no audit); `python scripts/generate_histologia_atlas_recortes.py --todas` ignora a auditoria; `--max N` limita o lote. Saída: `data/histologia/atlas/<categoria>/recorte/*_recorte.jpg`. Depois volte a correr o **rebuild** para ligar `urlImagem` / `urlImagemRecorte`.
+
+**Peso no Git e deploy:** cada recorte duplica ~efeitos de armazenamento; para lotes grandes avalie `.gitignore` local dos `recorte/` até validar qualidade, ou Git LFS, ou gerar recortes só na máquina de deploy.
+
+`referenciaAsclepio` no JSON reutiliza o nome do campo; conteúdo pode apontar para OpenStax/OER. Para regenerar apenas estrutura base sem imagens: `node scripts/generate_histologia_content.js`.
 
 Planeamento extra: [`docs/histologia-revisao-roadmap.md`](docs/histologia-revisao-roadmap.md).
+
+### data/to_instrumentais.json
+Instrumentais de **Técnica Operatória** na aba **Materiais** (**TO Estudos**): guia com função, características, posição sugerida na mesa, mnemônico e bloco “não confunda com”, além de **quiz** com resposta digitada e correção **caractere a caractere** (verde/vermelho; comparação após normalizar: `trim`, espaços múltiplos → um espaço, minúsculas). Estrutura sugerida:
+
+- `version`, `updatedAt`, opcional `titulo`, `nota`
+- `instrumentos[]`: `id`, `nome`, `imagem` (URL ou caminho relativo ao site, ex.: `/data/instrumentais/mesa_p005_img01_xr123.png`, ou `""` para placeholder), `categoria`, `funcao`, `caracteristicas`, `mesaPosicao`, `mnemonico`, `dicaQuiz` (pode usar `**negrito**` no texto), `confundeCom`: `null` ou `{ "id", "nome" }`.
+
+O bloco de entrada aparece para quem tem acesso ao **módulo 6** e com a disciplina `tecnica_operatoria` ativa no catálogo; também há atalhos na ficha da disciplina TO na lista de materiais.
+
+**Catálogo PDF (34 instrumentos, brochura págs. 2–11):** lista fixa com variantes **curva/reta** onde o PDF separa (Kelly, Crille, Halsted, Rochester, Kocher, Foerster, Mayo; cabos nº 3 e nº 4; Adson com/sem dente; Metzenbaum; Hegar/Mathieu; Gosset/Doyen, etc.). Para regenerar `to_instrumentais.json` e `to_instrumentais_figuras_map.json` a partir da ordem em [`data/instrumentais/catalogo_visual_instrucoes.md`](data/instrumentais/catalogo_visual_instrucoes.md) (e paths `mesa_*` coerentes com a última extração): `python scripts/build_to_instrumentais_catalogo_pdf.py`. Depois de reextrair figuras (`extract_instrumentais_pdf.py`), **atualize** os paths em `ROWS` nesse script se `imgNN` ou `xr` mudarem.
+
+**Extrair figuras de PDF (material cirúrgico):** com o PDF em `conteudos/` (ex.: `3- Material cirúrgico e montagem da mesa*.pdf`), rode `python scripts/extract_instrumentais_pdf.py --text`. Por defeito cada figura sai como **PNG** só com **composito** da transparência sobre branco (`pillow`), **sem** repintar pixels escuros por limiar. O `extract_manifest.json` inclui **`rectPdf`**, **`captionGuess`** / **`captionNorm`** e **`imageSeqOnPage`** (ordem visual por página) para o `map_to_instrumentais_images.py`. Para bytes crus do PDF: `--no-white-bg`. As imagens vão para `data/instrumentais/`; os `.txt` são o texto bruto por página. **Nota:** reextrair pode mudar nomes (`imgNN` conforme posição na página); apague `mesa_p*.png` antigos se quiser pasta limpa; volte a correr o mapeamento ou atualize `imagem` em `to_instrumentais.json`.
+
+**Mapear figuras → `imagem` em lote:** após a extração, use `data/instrumentais/keyword_map.json` (termos por `id`) e:
+
+1. `python scripts/map_to_instrumentais_images.py` — gera ou sobrescreve `data/instrumentais/to_instrumentais_figuras_map.json` (scores por página, ordem de leitura das figuras, área mínima configurável com `--min-area`; órfãos sem texto no PDF podem ser preenchidos com `--fallback-min-area`, revisar ou apagar no mapa).
+2. Revisão humana do mapa usando o guia visual em [`data/instrumentais/catalogo_visual_instrucoes.md`](data/instrumentais/catalogo_visual_instrucoes.md) (ordem das figuras por página; na p. 11: Finochietto → Farabeuf → Gosset → Doyen, com ids `afastador_finochietto`, `afastador_farabeuf`, `afastador_gosset`, `afastador_doyen`).
+3. `python scripts/map_to_instrumentais_images.py --apply-only --pdf-nota "…"` — aplica só o mapa já editado a `data/to_instrumentais.json` (atualiza `imagem`, limpa `imagem` onde o mapa está vazio, e `nota` por instrumental); use isto após a revisão para não sobrescrever o mapa manualmente ajustado.
+
+**Ajustar figuras:** não há ferramenta de recategorização no browser. Edite `imagem` em `data/to_instrumentais.json`, ou volte a gerar com `build_to_instrumentais_catalogo_pdf.py` / `map_to_instrumentais_images.py` conforme acima.
 
 ---
 
 ## 2. COMO ADICIONAR FLASHCARDS
+
+### Novo padrão recomendado (cloze)
+
+Cada card deve ter:
+- `frente` com **uma lacuna** no formato `{{c1::resposta}}`
+- `verso` com **somente a resposta da lacuna**
+- `explicacao` curta (rodapé opaco no app)
+
+Exemplo:
+
+```json
+{
+  "materia": "mad2",
+  "tema": "mad2_a10",
+  "frente": "A latência do HSV ocorre principalmente no {{c1::gânglio sensitivo}}.",
+  "verso": "gânglio sensitivo",
+  "explicacao": "No HSV, a persistência neuronal explica reativações recorrentes.",
+  "dificuldade": 2,
+  "categoria": "mecanismo",
+  "origem": "material",
+  "tags": ["hsv", "latencia"]
+}
+```
 
 ### Manualmente via admin.html:
 1. Abra `admin.html` no navegador
@@ -382,6 +456,17 @@ A maioria das atualizações segue este fluxo simples:
 ```
 
 Você **não precisa** mexer em HTML, CSS ou JavaScript para adicionar conteúdo!
+
+### Escala com qualidade (1 disciplina por vez + paralelismo controlado)
+
+1. Atualize o prompt canônico.
+2. Rode piloto em 1 disciplina e valide no app.
+3. Para escala, processe disciplinas em paralelo (2-3 por vez), mas **sempre** valide cada disciplina antes de avançar.
+4. Em cada disciplina:
+   - gerar aula a aula;
+   - validar com `node scripts/validate_flashcards_cloze.cjs <materia_id>`;
+   - corrigir falhas e só então consolidar.
+5. Em caso de falha, bloquear avanço daquela disciplina até passar 100% no checklist.
 
 ### Para mudar FUNCIONALIDADE (nova tela, novo filtro, novo design):
 ```

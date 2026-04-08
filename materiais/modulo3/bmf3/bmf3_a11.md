@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O néfron é a unidade funcional do rim. Conhecer sua histologia e a de cada segmento é fundamental para entender os mecanismos de filtração, reabsorção e secreção, bem como as lesões seletivas observadas em glomerulopatias, nefrite intersticial e necrose tubular aguda. A **Uninove** cobra frequentemente as características histológicas que diferenciam o túbulo proximal do distal e o papel de cada célula do ducto coletor.
+O néfron é a unidade funcional do rim. Conhecer sua histologia e a de cada segmento é fundamental para entender os mecanismos de filtração, reabsorção e secreção, bem como as lesões seletivas observadas em glomerulopatias, nefrite intersticial e necrose tubular aguda. A Uninove cobra frequentemente as características histológicas que diferenciam o túbulo proximal do distal e o papel de cada célula do ducto coletor.
 
 ### Figura sugerida
 
@@ -141,22 +141,21 @@ Baixa [NaCl] na mácula densa + baixa pressão na aferente + estimulação simp�
 
 ## Ponte com a Clínica
 
-Na glomerulopatia por **IgA** (Doença de Berger), depósitos de IgA no mesângio causam ativação de células mesangiais e inflamação — levando a hematúria. Na nefropatia diabética, há espessamento da MBG e expansão mesangial pela deposição de glicoproteínas → proteinúria progressiva (início com microalbuminúria). Na NTA isquêmica (pós-choque), os tubulos proximais são os mais afetados por hipóxia relativa — histologicamente se observa necrose das células tubulares com desprendimento da membrana basal, levando à insuficiência renal aguda oligúrica.
+Na glomerulopatia por IgA (Doença de Berger), depósitos de IgA no mesângio causam ativação de células mesangiais e inflamação — levando a hematúria. Na nefropatia diabética, há espessamento da MBG e expansão mesangial pela deposição de glicoproteínas → proteinúria progressiva (início com microalbuminúria). Na NTA isquêmica (pós-choque), os tubulos proximais são os mais afetados por hipóxia relativa — histologicamente se observa necrose das células tubulares com desprendimento da membrana basal, levando à insuficiência renal aguda oligúrica.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Podócito: célula visceral da cápsula de Bowman; pedicelos formam fenda de filtração. MBG: carga negativa → barreira; destruída em glomerulonefrite → proteinúria. TCP: borda em escova, eosinofílico, lúmen estreito; reabsorve 65-70% do filtrado.
-
-TCD: sem borda em escova, lúmen mais largo; contém mácula densa. ASE (alça espessa ascendente): NKCC2 → gradiente medular; bloqueado por furosemida. Ducto coletor: célula principal (ADH/aquaporina-2 + aldosterona/ENaC); intercalada (H⁺/HCO₃⁻).
-
-JGA: células granulares (renina) + mácula densa ([NaCl] sensor).
+- **Podócito:** célula visceral da cápsula de Bowman; pedicelos formam fenda de filtração
+- **MBG:** carga negativa → barreira; destruída em glomerulonefrite → proteinúria
+- **TCP:** borda em escova, eosinofílico, lúmen estreito; reabsorve 65-70% do filtrado
+- **TCD:** sem borda em escova, lúmen mais largo; contém mácula densa
+- **ASE (alça espessa ascendente):** NKCC2 → gradiente medular; bloqueado por furosemida
+- **Ducto coletor:** célula principal (ADH/aquaporina-2 + aldosterona/ENaC); intercalada (H⁺/HCO₃⁻)
+- **JGA:** células granulares (renina) + mácula densa ([NaCl] sensor)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -168,5 +167,4 @@ JGA: células granulares (renina) + mácula densa ([NaCl] sensor).
 | Podócito | Célula mesangial | Podócito: fenda de filtração (barreira); Mesangial: suporte, fagocitose, contração |
 
 ### Frase-âncora para não esquecer
-
 > "O TCP tem borda em escova porque trabalha muito (reabsorve 65% do filtrado); o TCD é lisinho porque trabalha menos — só afina o resultado com ajuda do ADH e da aldosterona lá no coletor."

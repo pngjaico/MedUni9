@@ -4,7 +4,7 @@
 
 A célula eucariótica é a unidade funcional de todo o organismo humano. Compreender sua organização — organelas, citoesqueleto e dinâmica de membrana — é o pré-requisito para entender como mutações celulares levam ao câncer, como vírus sequestram o maquinário celular, como antibióticos e antimitóticos funcionam e como doenças do lisossomo (Gaucher, Niemann-Pick) destroem tecidos. Sem essa base, farmacologia, patologia e genética médica ficam sem alicerce.
 
-Na **Uninove**, questões de BCM1 frequentemente integram morfologia celular com consequências clínicas — por exemplo, alterações do citoesqueleto de actina em doenças hemolíticas ou defeitos de cílios na síndrome de Kartagener. Esta aula é o mapa geral do qual todas as demais decorrem.
+Na Uninove, questões de BCM1 frequentemente integram morfologia celular com consequências clínicas — por exemplo, alterações do citoesqueleto de actina em doenças hemolíticas ou defeitos de cílios na síndrome de Kartagener. Esta aula é o mapa geral do qual todas as demais decorrem.
 
 ### Figura sugerida
 
@@ -131,19 +131,19 @@ A **mucoviscidose (fibrose cística)** decorre de mutações no gene CFTR — um
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Na⁺/K⁺-ATPase: 3 Na⁺ saem, 2 K⁺ entram; digitálica inibe → ↑Ca²⁺ → inótropo+. RER: síntese de proteínas de secreção + membrana + lisossomais. REL: síntese de lipídios, esteroides, detoxificação (CYP450), Ca²⁺ (músculo).
-
-Golgi: glicosilação + mannose-6-fosfato → endereça ao lisossomo. Lisossomo pH ~4,5: hidrolases ácidas; defeito = doença de depósito (Gaucher, Tay-Sachs). Mitocôndria: DNA materno circular, ribossomo 70S, ATP nas cristas (fosforilação oxidativa).
-
-Ribossomo 70S: prokariotos + mitocôndria → alvo de antibióticos (aminoglicosídeos, tetraciclinas, macrolídeos). Microtúbulos: fuso mitótico + cílios; colchicina/vincristina/paclitaxel inibem. Síndrome de Kartagener: dineína defeituosa → cílios imóveis → situs inversus + bronquiectasias.
-
-Clatrina: endocitose mediada por receptor → entrada de LDL nas células.
+- **Na⁺/K⁺-ATPase**: 3 Na⁺ saem, 2 K⁺ entram; digitálica inibe → ↑Ca²⁺ → inótropo+
+- **RER**: síntese de proteínas de secreção + membrana + lisossomais
+- **REL**: síntese de lipídios, esteroides, detoxificação (CYP450), Ca²⁺ (músculo)
+- **Golgi**: glicosilação + mannose-6-fosfato → endereça ao lisossomo
+- **Lisossomo pH ~4,5**: hidrolases ácidas; defeito = doença de depósito (Gaucher, Tay-Sachs)
+- **Mitocôndria**: DNA materno circular, ribossomo 70S, ATP nas cristas (fosforilação oxidativa)
+- **Ribossomo 70S**: prokariotos + mitocôndria → alvo de antibióticos (aminoglicosídeos, tetraciclinas, macrolídeos)
+- **Microtúbulos**: fuso mitótico + cílios; colchicina/vincristina/paclitaxel inibem
+- **Síndrome de Kartagener**: dineína defeituosa → cílios imóveis → situs inversus + bronquiectasias
+- **Clatrina**: endocitose mediada por receptor → entrada de LDL nas células
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -156,13 +156,4 @@ Clatrina: endocitose mediada por receptor → entrada de LDL nas células.
 | Microtúbulos | Microfilamentos | Microtúbulos (25 nm) = fuso, cílios; Microfilamentos actina (7 nm) = contração, citocinese |
 
 ### Frase-âncora para não esquecer
-
 > "RER faz proteínas para fora; REL faz lipídios e limpa a bagunça; o Golgi carimba o destino; o lisossomo destrói o lixo. Cada organela tem CEO diferente."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

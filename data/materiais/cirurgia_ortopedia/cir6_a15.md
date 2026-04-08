@@ -44,7 +44,7 @@ Ativa e passiva — **perda de ADM passiva** sugere **contratura** articular ou 
 
 ## Testes especiais — amostra
 
-| Região | Teste | Interpretação (ideia) |
+| Região | Teste | Interpretação (visão de prova) |
 |--------|-------|------------------------|
 | Joelho | Lachman | LCA (sensível precocemente) |
 | Joelho | McMurray | menisco (menos específico isolado) |
@@ -104,11 +104,11 @@ Paciente pós-trauma com **dor em coxa** e rotação externa da perna: **não** 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Trendelenburg** — causa e mecanismo.
-- **Sinal de Finkelstein** — tenossinovite de De Quervain.
-- **Phalen** — Túnel do carpo.
+Na prova, lembre que Trendelenburg — causa e mecanismo. Sinal de Finkelstein — tenossinovite de De Quervain.
+
+Para não errar em cenário clínico, considere também Phalen — Túnel do carpo.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -121,14 +121,3 @@ Paciente pós-trauma com **dor em coxa** e rotação externa da perna: **não** 
 ### Frase-âncora para não esquecer
 
 > “**Sem neurovascular** documentado, o exame ortopédico está **incompleto**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione achados do exame com **indicação de imagem** — radiografia antes de RM na maioria dos traumas agudos. Exame repetido em séries (luxação reduzida).
-
-### Leitura de reforço
-
-- Manual de exame físico musculoesquelético
-- Algoritmos de trauma pediátrico (OSS)

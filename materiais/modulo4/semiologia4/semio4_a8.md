@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O médico clínico precisa saber indicar e interpretar os exames complementares em neurologia — não apenas ordenar a **TC**. Critérios de indicação, o que cada exame revela e quando o exame de imagem muda a conduta são habilidades cobradas em residência e OSCE. Esta aula conecta a semiologia com a propedêutica tecnológica.
+O médico clínico precisa saber indicar e interpretar os exames complementares em neurologia — não apenas ordenar a TC. Critérios de indicação, o que cada exame revela e quando o exame de imagem muda a conduta são habilidades cobradas em residência e OSCE. Esta aula conecta a semiologia com a propedêutica tecnológica.
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ O médico clínico precisa saber indicar e interpretar os exames complementares 
 
 ## Tomografia Computadorizada (TC) de Crânio
 
-A **TC** é o exame de primeira escolha em urgências neurológicas por sua rapidez e disponibilidade. O contraste não é necessário nos primeiros passos.
+A TC é o exame de primeira escolha em urgências neurológicas por sua rapidez e disponibilidade. O contraste não é necessário nos primeiros passos.
 
 **Indicações emergenciais:**
 - AVC suspeito (descartar hemorragia antes de tPA)
@@ -49,7 +49,7 @@ A **TC** é o exame de primeira escolha em urgências neurológicas por sua rapi
 
 ## Ressonância Magnética (RM) do Crânio e Coluna
 
-A **RM** tem maior resolução tecidual e não usa radiação ionizante. É o exame de escolha para lesões da fossa posterior, medula espinal e doença desmielinizante.
+A RM tem maior resolução tecidual e não usa radiação ionizante. É o exame de escolha para lesões da fossa posterior, medula espinal e doença desmielinizante.
 
 **Sequências essenciais:**
 
@@ -124,22 +124,20 @@ Avalia nervos periféricos (velocidade de condução) e músculo (eletromiografi
 
 ## Ponte com a Clínica
 
-Em urgência neurológica, a sequência prática é: **TC** crânio sem contraste → se hemorragia: neurocirurgia; se normalTC com déficit agudo: **RM** DWI + angioRM (AVC); se meningismo: punção lombar. A RM não é exame de urgência em hospitais públicos — saber indicar TC e interpretar corretamente é habilidade do clínico geral.
+Em urgência neurológica, a sequência prática é: TC crânio sem contraste → se hemorragia: neurocirurgia; se normalTC com déficit agudo: RM DWI + angioRM (AVC); se meningismo: punção lombar. A RM não é exame de urgência em hospitais públicos — saber indicar TC e interpretar corretamente é habilidade do clínico geral.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-TC hemorragia: hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h. RM DWI: detecta isquemia em minutos — padrão ouro para AVC agudo.
-
-EEG: diagnóstico de epilepsia; normal interictal não exclui. LCR purulento: neutrófilos + glicose baixa → meningite bacteriana.
-
-Guillain-Barré LCR: proteína alta + células normais (dissociação albuminocitológica). Contraindic. PL: efeito de massa na TC → risco de herniação.**.
+- **TC hemorragia:** hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h.
+- **RM DWI:** detecta isquemia em minutos — padrão ouro para AVC agudo.
+- **EEG:** diagnóstico de epilepsia; normal interictal não exclui.
+- **LCR purulento:** neutrófilos + glicose baixa → meningite bacteriana.
+- **Guillain-Barré LCR:** proteína alta + células normais (dissociação albuminocitológica).
+- **Contraindic. PL:** efeito de massa na TC → risco de herniação.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -151,5 +149,4 @@ Guillain-Barré LCR: proteína alta + células normais (dissociação albuminoci
 | LCR purulento | LCR linfocitário | Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB |
 
 ### Frase-âncora para não esquecer
-
 > "Na urgência neurológica: TC para excluir hemorragia, RM DWI para flagrar o AVC, PL para ouvir o LCR."

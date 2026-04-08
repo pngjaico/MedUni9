@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A motilidade gastrointestinal e sua regulação hormonal sustentam a digestão coordenada. Disfunções como refluxo, gastroparesia, síndrome do intestino irritável e íleo paralítico têm base nessa fisiologia. A **Uninove** cobra sistematicamente os hormônios gastrointestinais, seus estímulos e efeitos — especialmente gastrina, secretina, CCK e GIP.
+A motilidade gastrointestinal e sua regulação hormonal sustentam a digestão coordenada. Disfunções como refluxo, gastroparesia, síndrome do intestino irritável e íleo paralítico têm base nessa fisiologia. A Uninove cobra sistematicamente os hormônios gastrointestinais, seus estímulos e efeitos — especialmente gastrina, secretina, CCK e GIP.
 
 ### Figura sugerida
 
@@ -144,17 +144,17 @@ A gastroparesia diabética resulta da neuropatia autonômica que afeta as célul
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Gastrina: célula G, antro, proteínas → ↑HCl. Secretina: célula S, duodeno, H⁺ → ↑bicarbonato pancreático, ↓HCl. CCK: células I, duodeno, gordura → enzimas pancreáticas + contração da vesícula.
-
-GIP: células K, duodeno, glicose/gordura → ↑insulina (incretina). Motilina: jejum → MMC (limpeza intestinal a cada ~90 min). Plexo de Auerbach: motilidade; Plexo de Meissner: secreção.
-
-Células de Cajal: marcapasso do TGI. EEI relaxa via: VIP + NO.
+- **Gastrina:** célula G, antro, proteínas → ↑HCl
+- **Secretina:** célula S, duodeno, H⁺ → ↑bicarbonato pancreático, ↓HCl
+- **CCK:** células I, duodeno, gordura → enzimas pancreáticas + contração da vesícula
+- **GIP:** células K, duodeno, glicose/gordura → ↑insulina (incretina)
+- **Motilina:** jejum → MMC (limpeza intestinal a cada ~90 min)
+- **Plexo de Auerbach:** motilidade; Plexo de Meissner: secreção
+- **Células de Cajal:** marcapasso do TGI
+- **EEI relaxa via:** VIP + NO
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -166,5 +166,4 @@ Células de Cajal: marcapasso do TGI. EEI relaxa via: VIP + NO.
 | MMC | Peristaltismo pós-prandial | MMC = jejum, motilina, limpeza; Peristaltismo = durante refeição, progressão do quimo |
 
 ### Frase-âncora para não esquecer
-
 > "O duodeno é o fiscal do estômago: quando fica ácido demais, chama a secretina para apagar o fogo com bicarbonato; quando chega gordura, chama a CCK para acionar o pâncreas e a vesícula."

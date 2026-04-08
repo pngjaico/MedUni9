@@ -1,93 +1,104 @@
-# Suturas Continuas
+# Suturas contínuas
 
 ## Relevância Clínica e Acadêmica
 
-Sutura continua e técnica de fechamento rápido e eficiente quando bem indicada.
-Ela distribui tensão de forma linear e reduz tempo operatório em planos longos.
-Por outro lado, exige controle fino de tração porque um erro no inicio pode comprometer toda a linha.
+Sutura contínua é técnica de alto rendimento para fechamento de planos longos e homogêneos.
+Seu benefício principal é reduzir tempo operatório e manter distribuição linear de tensão.
+Seu risco principal é que um erro técnico pode comprometer um segmento extenso da síntese.
+Em prova e OSCE, a banca costuma cobrar indicação correta, regularidade das passadas e qualidade da ancoragem inicial/final.
 
-## Onde a técnica continua costuma ser usada
+## Quando indicar e quando evitar
 
-- fechamento de aponeurose em contextos selecionados;
-- sutura de peritonio em escolas que mantem essa rotina;
-- intradermica continua para resultado estético em pele;
-- fechamento de planos extensos com hemostasia ja revisada.
+A técnica contínua funciona melhor quando o plano tem espessura relativamente uniforme e hemostasia já conferida.
+Em cenário contaminado ou com tensão muito heterogênea, a decisão pode favorecer técnica interrompida.
 
-Nao e ideal quando:
-- ha contaminação significativa do campo;
-- existe grande variação de tensão em trechos curtos;
-- previsão de necessidade de abertura parcial de pontos.
+| Cenário | Contínua é adequada? | Racional |
+|--------|-----------------------|----------|
+| Linha longa com tensão regular | Sim | Eficiência e boa distribuição de força |
+| Campo com contaminação importante | Cautela | Falha local pode repercutir em trecho maior |
+| Plano com variação marcada de espessura | Menos favorável | Dificulta regularidade de mordidas |
+| Fechamento intradérmico estético | Sim, se técnica refinada | Boa coaptação sem marcas externas |
+
+> **Dica de Prova:** enunciado com “rapidez + linha extensa + hemostasia revisada” favorece sutura contínua.
+>
+> **Pegadinha:** velocidade não compensa irregularidade; passada torta no início repercute no restante da linha.
 
 ## Principais variantes
 
 ### Chuleio simples
 
-Passadas sequênciais com mesmo padrao.
-Boa relação entre rapidez e controle em planos regulares.
+Passadas seriadas com padrão uniforme.
+É opção frequente para planos regulares quando há domínio de tensão e espaçamento.
 
 ### Chuleio ancorado
 
-Inclui pontos de ancoragem para reduzir escorregamento em segmentos mais longos.
-Aumenta segurança em alguns fechamentos.
+Inclui pontos/estratégias de ancoragem para reduzir risco de deslizamento em segmentos mais longos.
+Útil quando se deseja reforçar estabilidade sem migrar para pontos totalmente interrompidos.
 
-### Intradermica continua
+### Intradérmica contínua
 
-Foco em coaptação dermica com melhor acabamento estético.
-Depende de mordidas simetricas e tensão delicada.
+Direcionada ao resultado estético em pele.
+Exige mordidas simétricas na derme e controle delicado da tensão para evitar “pregueamento”.
+
+| Variante | Vantagem | Cuidado crítico |
+|----------|----------|-----------------|
+| Chuleio simples | Rapidez e fluidez | Não perder padrão de profundidade |
+| Chuleio ancorado | Maior segurança de travamento | Evitar excesso de volume nos pontos de ancoragem |
+| Intradérmica contínua | Melhor acabamento estético | Tensão excessiva deforma borda |
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A8-F01`
+**Figura-ID:** `TCAR-A8-F01`
 
-- **Momento:** após explicação das variantes.
-- **O que mostrar:** comparativo visual entre chuleio simples, ancorado e intradermico.
-- **Tipo sugerido:** esquema em tres colunas.
-- **Legenda (rascunho):** Diferencas técnicas entre padroes continuos.
+- **Momento:** após comparação das variantes.
+- **O que mostrar:** três painéis com chuleio simples, ancorado e intradérmico, destacando trajeto do fio.
+- **Tipo sugerido:** esquema técnico comparativo.
+- **Legenda (rascunho):** Variantes da sutura contínua diferem em ancoragem e objetivo clínico.
 
-## Passo tecnico para evitar falhas
+## Sequência técnica de execução
 
-1. Iniciar com no de ancoragem confiavel.
-2. Executar passadas equidistantes e de profundidade semelhante.
-3. Ajustar tensão progressivamente, sem "estrangular" trecho inicial.
-4. Revisar bordas periodicamente durante o avancar da sutura.
-5. Finalizar com no seguro e verificação de hemostasia.
+1. Confirmar hemostasia do plano antes de iniciar a síntese.
+2. Realizar ancoragem inicial estável.
+3. Definir ritmo de passadas com distância e profundidade constantes.
+4. Ajustar tensão progressivamente, sem estrangular borda.
+5. Reavaliar alinhamento em intervalos regulares durante o fechamento.
+6. Finalizar com ancoragem terminal segura e conferência de coaptação.
 
-Erros frequentes:
-- hemostasia incompleta antes de fechar;
-- passadas irregulares com degrau de borda;
-- tração excessiva no ultimo terco da linha;
-- no final mal travado.
+Checklist prático de qualidade:
 
-| Vantagem | Cuidado necessário |
-|---|---|
-| rapidez | controle rigoroso de tensão |
-| menor volume de no | ancoragem inicial/final segura |
-| distribuicao linear de força | passadas regulares para evitar falha localizada |
+- linha sem degraus visíveis;
+- bordas aproximadas sem isquemia;
+- distância entre passadas homogênea;
+- travamento inicial e final sem deslizamento.
+
+> **Dica de OSCE:** pausar para checar coaptação no meio da linha mostra controle do processo, não insegurança.
+>
+> **Pegadinha:** “tensão constante” não significa “tensão alta”; tensão excessiva aumenta dor e risco de deiscência.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR-A8-F02`
+
+- **Momento:** após o checklist de qualidade.
+- **O que mostrar:** comparação entre linha contínua com tensão adequada e linha contínua hipertracionada.
+- **Tipo sugerido:** ilustração clínica comparativa.
+- **Legenda (rascunho):** Regularidade e tensão fisiológica determinam segurança da sutura contínua.
 
 ## Ponte com a Clínica
 
-Em cirurgia geral, sutura continua bem executada poupa tempo anestesico e reduz manipulação desnecessária.
-Quando mal indicada ou mal tensionada, pode abrir toda a linha de fechamento de uma vez.
-A decisão correta depende de campo, tecido e risco de contaminação.
-
-### Figura sugerida
-
-**Figura-ID:** `TO-A8-F02`
-
-- **Momento:** após ponte com a clínica.
-- **O que mostrar:** linha de sutura continua com tensão adequada versus excessiva.
-- **Tipo sugerido:** ilustração comparativa.
-- **Legenda (rascunho):** Controle de tensão e determinante da segurança no fechamento continuo.
+Na cirurgia geral, a sutura contínua economiza tempo anestésico quando bem indicada e bem executada.
+Entretanto, decisão técnica deve considerar risco infeccioso, qualidade tecidual e possibilidade de edema pós-operatório.
+No internato, o ganho real não é apenas “fechar rápido”, e sim fechar de forma previsível e reprodutível.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- Sutura continua e eficiente quando o campo esta bem preparado.
-- Hemostasia revisada deve preceder fechamento longo.
-- Regularidade de passadas vale mais que velocidade bruta.
-- Ancoragem inicial e final definem estabilidade da linha.
-- Em contaminação, reavalie se interrompida não e melhor escolha.
+- Contínua é eficiente em linhas longas e homogêneas.
+- Hemostasia prévia é pré-requisito para fechamento seguro.
+- Ancoragens inicial e final definem estabilidade global da linha.
+- Regularidade de passada pesa mais que velocidade.
+- Em tensão irregular importante, considere interrompida.
 
 ---
 
@@ -113,3 +124,4 @@ Em prática, no de ancoragem e passadas simetricas são os pilares do resultado.
 ### Frase-âncora para não esquecer
 
 > "Na sutura continua, regularidade e segurança."
+

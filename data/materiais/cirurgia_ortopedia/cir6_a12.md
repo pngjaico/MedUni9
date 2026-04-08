@@ -91,11 +91,11 @@ Confundir **colangite** com **hepatite** sem dilatação de vias; atrasar **CPRE
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **CHC vs metástases hepáticas** — imagem e história primária.
-- **AFP** — útil, não universalmente elevada.
-- **Stent plástico vs metálico** — contexto de malignidade e tempo esperado.
+Na prova, lembre que CHC vs metástases hepáticas — imagem e história primária. AFP — útil, não universalmente elevada.
+
+Para não errar em cenário clínico, considere também Stent plástico vs metálico — contexto de malignidade e tempo esperado.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Confundir **colangite** com **hepatite** sem dilatação de vias; atrasar **CPRE
 ### Frase-âncora para não esquecer
 
 > “**Icterícia febril** com dilatação de vias = **desobstruir** e tratar infecção **já**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **reseção hepática** com **volume remanescente**, **quimioembolização** e **terapia sistêmica** em estádios avançados. Transplante exige avaliação multidisciplinar rigorosa.
-
-### Leitura de reforço
-
-- BCLC algorithm (diagrama oficial)
-- Diretrizes de colangiocarcinoma e manejo de colangite

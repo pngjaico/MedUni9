@@ -91,11 +91,11 @@ Dor localizada, febre; **radiografia** tardia (10–14 dias); **RM** precoce (ed
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Kocher** — critérios para artrite séptica de quadril (sensibilidade limitada — usar com cautela).
-- **Diferencial** — artrite reumatóide súbita, reativa, gota.
-- **Biofilme** em implantes — desbridamento + antibiótico prolongado.
+Na prova, lembre que Kocher — critérios para artrite séptica de quadril (sensibilidade limitada — usar com cautela). Diferencial — artrite reumatóide súbita, reativa, gota.
+
+Para não errar em cenário clínico, considere também Biofilme em implantes — desbridamento + antibiótico prolongado.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Dor localizada, febre; **radiografia** tardia (10–14 dias); **RM** precoce (ed
 ### Frase-âncora para não esquecer
 
 > “**Articulação quente e tóxica** = **líquido** na agulha **hoje**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **lavagem articular** com **artroscopia** versus aberta conforme articulação e recursos. **Spacer** com antibiótico em revisão de prótese infectada — conceito de duas etapas.
-
-### Leitura de reforço
-
-- Diretrizes de artrite séptica (IDSA)
-- Osteomielite adulto e pediátrico — duração de antibiótico

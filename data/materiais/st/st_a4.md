@@ -1,58 +1,192 @@
-# ST — Aula 4: Legislação Trabalhista e Acidente de Trabalho
+# ST — Aula 4: Conduta inicial nos agravos de saúde do trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Doenças Ocupacionais
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+**Disciplina:** Saúde do trabalhador  
+**Módulo:** 3
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-O acidente de trabalho não é apenas um evento clínico. Ele tem consequência previdenciária, legal, assistencial e epidemiológica. A banca costuma usar esse tema para testar se o aluno sabe diferenciar acidente típico, de trajeto e doença relacionada ao trabalho, além de reconhecer a importância da CAT como instrumento formal de registro.
+A conduta inicial em agravo ocupacional exige rapidez, segurança e raciocínio estruturado.
+Na prova, esse tema aparece em cenários de urgência, intoxicação, acidente biológico e dor incapacitante.
+Na prática, decisão correta na primeira abordagem reduz dano imediato e evita recorrência.
 
-## Conceito Central
+O médico precisa equilibrar duas frentes:
 
-Acidente de trabalho é o evento que ocorre no exercício do trabalho a serviço da empresa ou em situações legalmente equiparadas, produzindo lesão corporal, perturbação funcional, morte ou perda/redução da capacidade laboral. O conceito envolve causalidade e contexto ocupacional, não apenas a presença de trauma físico.
+- tratar o quadro agudo;
+- reduzir exposição e organizar seguimento vigilante.
 
-## Tipos de Acidente e Agravo Relacionado
+Quando isso é feito de forma integrada, melhora o desfecho clínico e funcional.
 
-Há o acidente típico, ligado diretamente à atividade laboral; o acidente de trajeto, relacionado ao deslocamento; e as doenças ocupacionais, que podem ser profissionais ou do trabalho. A diferença é muito cobrada porque organiza nexo causal e consequências administrativas.
+### Figura sugerida
 
-## CAT
+**Figura-ID:** `ST-A4-F01`
 
-A Comunicação de Acidente de Trabalho formaliza o evento para fins previdenciários e epidemiológicos. Mais do que papelada, ela é documento que permite reconhecimento do agravo e produção de informação em saúde. Não preencher ou atrasar esse registro contribui para invisibilidade do problema.
+- **Momento:** após a seção de relevância.
+- **O que mostrar:** algoritmo de primeira abordagem (gravidade -> estabilização -> história ocupacional -> plano).
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Decisão clínica inicial em suspeita de agravo ocupacional."
 
-> **Dica de Prova:** doença relacionada ao trabalho pode ser tão importante quanto o acidente agudo traumático. O nexo ocupacional não depende apenas de um evento súbito.
+---
 
-## Direitos, Proteção e Nexo
+## Princípios da primeira abordagem
 
-O raciocínio prático exige identificar vínculo laboral, exposição, dinâmica do evento e repercussão funcional. A legislação protege o trabalhador porque reconhece que o processo produtivo pode gerar dano. O profissional de saúde não substitui o jurista, mas precisa saber registrar e caracterizar adequadamente o agravo.
+Quatro princípios orientam a conduta:
+
+1. afastar o trabalhador de risco imediato;
+2. estabilizar clinicamente quando houver gravidade;
+3. coletar história ocupacional de alto rendimento;
+4. definir plano de seguimento e prevenção.
+
+Esses passos valem para UBS, UPA e pronto-socorro, com adaptação conforme gravidade.
+
+> **Dica de Prova:** em cenário agudo, estabilização sempre precede discussões administrativas.
+
+> **Pegadinha:** atribuir quadro a "fator emocional isolado" sem avaliação de exposição ocupacional.
+
+---
+
+## História ocupacional rápida que muda a decisão
+
+Cinco perguntas aumentam a qualidade diagnóstica na primeira consulta:
+
+- qual função e tarefa principal;
+- qual agente de risco predominante;
+- qual tempo e intensidade de exposição;
+- há melhora em folga/férias;
+- colegas têm sintomas semelhantes.
+
+### Tabela útil: resposta e interpretação
+
+| Achado na anamnese | Interpretação | Próxima ação |
+|--------------------|---------------|--------------|
+| piora no fim do turno | nexo ocupacional provável | reduzir exposição e seguir investigação |
+| melhora em folga/férias | reforça relação temporal | manter hipótese ocupacional ativa |
+| casos semelhantes no setor | risco coletivo | acionar vigilância local |
+| exposição aguda intensa | risco de gravidade | manejo imediato e monitorização |
+
+---
+
+## Conduta inicial por tipo de agravo
+
+### Exposição química aguda
+
+- interromper exposição;
+- descontaminar conforme agente;
+- avaliar função respiratória e neurológica;
+- tratar suporte e monitorar evolução.
+
+### Acidente com material biológico
+
+- cuidado local imediato;
+- estratificação de risco da exposição;
+- protocolo pós-exposição conforme rotina;
+- seguimento clínico-laboratorial.
+
+### LER/DORT com dor intensa
+
+- excluir bandeira vermelha neurológica;
+- analgesia e orientação funcional;
+- evitar imobilização prolongada;
+- ajustar atividade e ergonomia.
+
+### Sofrimento mental relacionado ao trabalho
+
+- acolhimento e escuta qualificada;
+- avaliação de risco de autoagressão;
+- manejo inicial em saúde mental;
+- articulação multiprofissional.
+
+---
+
+## NRs aplicadas à conduta inicial
+
+NRs não são apêndice jurídico.
+Elas ajudam a explicar por que o evento ocorreu e o que previne repetição.
+
+| Situação clínica | NR prioritária | Implicação prática |
+|------------------|----------------|--------------------|
+| acidente com perfurocortante em hospital | NR-32 | reforçar protocolo e organização segura do fluxo |
+| dor cervical em teleatendimento | NR-17 | revisar posto, pausa e carga de tarefa |
+| perda auditiva em setor ruidoso | NR-7 e NR-9 | vigilância periódica e controle de exposição |
+| queimadura por químico sem proteção | NR-6 | revisar adequação de EPI e treinamento |
+
+Sem conexão entre clínica e NR, a tendência é repetir evento com novos trabalhadores.
+
+---
+
+## Afastamento, retorno e capacidade funcional
+
+Afastamento deve ser individualizado.
+Nem todo caso exige afastamento total.
+Em muitos cenários, atividade modificada temporária reduz incapacidade prolongada.
+
+Critérios úteis para decisão:
+
+- risco de agravamento se mantida a exposição;
+- limitação funcional para tarefa específica;
+- necessidade de monitorização clínica próxima;
+- possibilidade de readaptação transitória.
+
+Retorno protegido pede reavaliação periódica.
+Sem esse acompanhamento, recaída é frequente.
+
+### Figura sugerida
+
+**Figura-ID:** `ST-A4-F02`
+
+- **Momento:** após a seção de retorno ao trabalho.
+- **O que mostrar:** trilha de retorno protegido com checkpoints clínicos e funcionais.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** "Etapas de retorno ao trabalho com segurança e funcionalidade."
+
+---
 
 ## Ponte com a Clínica
 
-Uma perfuração com material biológico em plantão é acidente de trabalho. Uma lombalgia por sobrecarga repetida pode configurar doença relacionada ao trabalho. Um acidente no trajeto também entra na discussão legal. A prova gosta justamente desses cenários limítrofes, em que o aluno precisa raciocinar pelo nexo e não só pelo tipo de lesão.
+Operador de caldeira, 45 anos, chega com cefaleia intensa, tontura e náusea após jornada em local de ventilação precária.
+A conduta correta inclui retirada imediata da exposição, estabilização clínica e documentação ocupacional objetiva.
+Em paralelo, o caso precisa acionar vigilância para investigar risco coletivo no setor.
+Essa integração evita novo evento e melhora proteção de toda a equipe.
+
+---
+
+## Pontos-Chave para Prova
+
+- conduta inicial começa por segurança e estabilização;
+- história ocupacional curta e dirigida aumenta acerto diagnóstico;
+- NRs orientam prevenção de recorrência;
+- afastamento deve considerar risco e funcionalidade;
+- caso índice pode disparar intervenção coletiva.
+
+---
 
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Acidente de trabalho:** evento com repercussão funcional ligado ao contexto ocupacional.
-- **Acidente típico:** ocorre durante a atividade laboral.
-- **Acidente de trajeto:** ocorre no deslocamento relacionado ao trabalho.
-- **Doença ocupacional:** inclui doença profissional e doença do trabalho.
-- **CAT:** formaliza o acidente/doença para fins legais e de vigilância.
-- **Nexo causal:** é a chave para interpretação correta.
+No agravo ocupacional, a ordem da conduta importa.
+Primeiro protege e estabiliza; depois aprofunda nexo, registra e organiza vigilância.
+Inverter essa sequência é erro clássico de prova.
+
+A história ocupacional dirigida é decisiva para diferenciar caso inespecífico de caso relacionado ao trabalho.
+Mesmo com nexo ainda provável, a proteção imediata deve ser instituída.
+Questões bem elaboradas cobram essa atitude clínica responsável.
+
+NR-32, NR-17, NR-7/NR-9 e NR-6 aparecem como ponte entre dano agudo e prevenção.
+A resposta mais forte é a que trata o trabalhador hoje e reduz risco da equipe amanhã.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Acidente típico | Acidente de trajeto | Um ocorre no exercício direto da atividade; o outro no deslocamento relacionado |
-| Doença profissional | Doença do trabalho | A profissional se vincula à atividade específica; a do trabalho decorre das condições em que ele é realizado |
-| Registro clínico | CAT | O registro clínico assiste; a CAT formaliza o evento ocupacional |
-| Trauma agudo | Adoecimento crônico ocupacional | Ambos podem ter nexo, mas por mecanismos diferentes |
+| Urgência clínica | Burocracia administrativa | urgência é imediata; burocracia não pode atrasar cuidado |
+| Afastamento total | Atividade modificada | depende de risco e capacidade funcional |
+| Nexo provável | Nexo descartado | dúvida não impede proteção inicial |
+| Caso individual | Falha de processo | recorrência em colegas sugere falha de processo |
 
 ### Frase-âncora para não esquecer
 
-> "Em saúde do trabalhador, o dano só é plenamente entendido quando o nexo é reconhecido."
+> "Decisão inicial certa protege o paciente agora e a equipe depois."

@@ -4,7 +4,7 @@
 
 As infecções de pele e partes moles são algumas das mais comuns na prática médica ambulatorial e de pronto-socorro, variando de impetigo trivial a fasciíte necrosante com risco de vida. *Staphylococcus aureus* e *Streptococcus pyogenes* (estreptococo beta-hemolítico grupo A) dominam esse cenário, e sua diferenciação orienta o antibiótico correto. Já a hanseníase (*Mycobacterium leprae*) é doença crônica negligenciada, ainda endêmica no Brasil, com forte impacto neurológico.
 
-A **Uninove** cobra o diagnóstico diferencial das infecções de pele pelo agente etiológico, as síndromes mediadas por toxinas (*S. aureus*) e os critérios de classificação da hanseníase.
+A Uninove cobra o diagnóstico diferencial das infecções de pele pelo agente etiológico, as síndromes mediadas por toxinas (*S. aureus*) e os critérios de classificação da hanseníase.
 
 ### Figura sugerida
 
@@ -165,17 +165,17 @@ Nervos mais afetados:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Impetigo bolhoso:** *S. aureus* (toxina ET); **Impetigo crostoso (crosta de mel):** *S. pyogenes*
+- **TSST-1:** superantígeno → choque tóxico; **MRSA:** PBP2a → vancomicina
+- **FR:** após faringoamigdalite por Streptococo A; NÃO após impetigo
+- **GNPE:** após faringite OU impetigo (tipo III — imunocomplexos)
+- **Hanseníase:** BAAR; nervos palpáveis espessados; anestesia cutânea
+- **PB ≤ 5 lesões/6 m; MB > 5 lesões/12 m**
 
-
-Impetigo bolhoso: *S. aureus* (toxina ET); Impetigo crostoso (crosta de mel): *S. pyogenes*. TSST-1: superantígeno → choque tóxico; MRSA: PBP2a → vancomicina.
-
-FR: após faringoamigdalite por Streptococo A; NÃO após impetigo. GNPE: após faringite OU impetigo (tipo III — imunocomplexos).
-
-Hanseníase: BAAR; nervos palpáveis espessados; anestesia cutânea. PB ≤ 5 lesões/6 m; MB > 5 lesões/12 m.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -188,13 +188,4 @@ Hanseníase: BAAR; nervos palpáveis espessados; anestesia cutânea. PB ≤ 5 le
 | Reação tipo 1 (reversa) | Reação tipo 2 (ENH) | Tipo 1 = hipersensib. IV = neurite; Tipo 2 = imunocomplexos = nódulos dolorosos + febre |
 
 ### Frase-âncora para não esquecer
-
 > "*Staphylococcus* cachos, *Streptococcus* correntes — ambos causam infecção de pele, mas só o Estrepto causa febre reumática. Hanseníase: o único bacilo que destrói silenciosamente os nervos da pele."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

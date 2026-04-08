@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Aminoácidos são **deaminados** e o **nitrogênio** converge a **amônia** → **ureia** no **ciclo da ureia** (fígado), excretada pelos **rins**. **Transaminases** (ALT, AST) são marcadores de **injúria hepatocelular**; **amônia** elevada sugere **insuficiência hepática** ou **shunt**. Dominar **ciclo da ureia**, **células periportais vs perivenosas** e **deficiências enzimáticas** explica **encefalopatia hepática** e **alterações de amônia** em prova.
+O **Metabolismo de Aminoácidos** gira em torno da gestão segura do **Nitrogênio**. Como a **Amônia** é altamente neurotóxica, o corpo a converte em **Ureia** no fígado para excreção renal. Para a prova, domine a diferença entre **ALT** (específica para o fígado) e **AST**, e entenda por que a falha no **Ciclo da Ureia** leva à **Encefalopatia Hepática**. Na clínica, interpretamos as **Transaminases** como o termômetro da integridade do hepatócito.
 
 
 ### Figura sugerida
@@ -65,11 +65,12 @@ Aminoácidos são **deaminados** e o **nitrogênio** converge a **amônia** → 
 
 ## Comparativo: marcadores de lesão
 
-| Enzima | Tissue predominante | Uso clínico |
-|--------|---------------------|-------------|
-| ALT | hepatócito | hepatite, esteatose |
-| AST | fígado + outros | menos específica |
-| CK | músculo | rabdomiólise |
+| Marcador | Localização Predominante | Significado Clínico |
+|-----------|--------------------------|----------------------|
+| **ALT (TGP)** | **Hepatócito** (Citosol) | Indicador **específico** de lesão hepática |
+| **AST (TGO)** | Fígado, **Coração** e Músculo | Lesão tecidual inespecífica (Hepatite/IAM) |
+| **Amônia** | Sangue (Via ciclo da ureia) | **Neurotoxicidade**; Falência Hepática |
+| **Ureia** | Produção Hepática / Filtração Renal | Marcador de **Função Renal** e Hidratação |
 
 ---
 
@@ -81,10 +82,11 @@ Aminoácidos são **deaminados** e o **nitrogênio** converge a **amônia** → 
 
 ## Pontos-Chave para Prova
 
-- **ALT/AST** = injúria hepatocelular (contexto!).
-- **Ciclo da ureia** detoxifica **NH₃** → **ureia** (solúvel, renal).
-- **Defeitos** do ciclo → **hiperamonemia** neonatal/infantil.
-- **Alanina** liga **músculo** e **fígado** no jejum.
+- **ALT vs AST:** A **ALT** é o padrão-ouro para detectar **inflamação hepática** primária.
+- **Ciclo da Ureia:** Transforma o "lixo" neurotóxico (**NH3**) em um resíduo inócuo e solúvel (**Ureia**).
+- **Enzima OTC:** A deficiência mais comum do ciclo; herança **Ligada ao X** (afeta mais homens).
+- **Alanina:** O elo entre o **músculo** (proteólise) e a **glicemia** (fígado) via Ciclo de Cori/Alanina.
+- **Encefalopatia:** Manifestação clínica clássica do excesso de **Amônia** no SNC.
 
 ---
 
@@ -92,20 +94,19 @@ Aminoácidos são **deaminados** e o **nitrogênio** converge a **amônia** → 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Transaminação** move amino; **ureia** excreta nitrogênio.
-- **ALT** mais **hepática** que **AST**.
-- **CPSI, OTC, arginase** — nomes do ciclo da ureia.
-- **Amômia** ↑ em **insuficiência hepática** e **defeitos** metabólicos.
+- **ALT (específica)** vs **AST (compartilhada)** na lesão hepática aguda.
+- **CPSI:** Enzima marcapasso do ciclo da ureia (mitocondrial).
+- **Amônia Gastrossegregada:** O sangramento GI aumenta a amônia porque as bactérias degradam a hemoglobina.
+- **Glutamina:** O principal transportador de amônia dos tecidos para o fígado.
 
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Amônia | Ureia sérica | Amônia neurotóxica; ureia marcador de **função renal** + produção. |
-| Hepatite | Colestase | ALT/AST vs FA/GGT — padrões diferentes. |
-| Ciclo da ureia | Glicólise | Ureia = nitrogênio; glicólise = energia. |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|----------------------|
+| **Transaminação** | **Desaminação** | **Troca** de grupo amina vs **Liberação** de amônia livre |
+| **ALT** | **AST** | **Fígado** (Citoplasma) vs **Múltiplos** (Mitocôndria) |
+| **Hiperamonemia** | **Ureia Alta** | Problema **Hepático** vs Problema **Renal** |
+| **Piridoxina (B6)**| **Cofator** | Essencial para todas as **Transaminases** |
 
 ### Frase-âncora para não esquecer
 

@@ -1,4 +1,4 @@
-# SUS — Aula 2: Antecedentes Históricos do SUS — Período Colonial ao Regime Militar
+# SUS — Aula 2: Antecedentes históricos do SUS (Colônia ao regime militar)
 
 **Disciplina:** Princípios e Diretrizes do SUS  
 **Módulo:** 1
@@ -7,107 +7,106 @@
 
 ## Relevância Clínica e Acadêmica
 
-Entender o **percurso histórico** da saúde no Brasil explica por que o sistema atual é híbrido, desigual e ainda marcado por privilégios. A prova cobra **marcos temporais**, tipos de assistência (filantrópica, pública limitada, previdenciária) e o contexto político que **atrasou** uma reforma sanitária ampla até o fim do século XX. Sem esse mapa, o aluno decora “datas soltas” sem saber **por que** o SUS surge como projeto de democracia e universalização.
-
+Antes de 1988, a saúde no Brasil era uma **Mercadoria** ou um **Favor**. Para a prova, você deve entender que apenas quem tinha **Carteira Assinada** possuía direito pleno ao médico (Previdência). O resto da população dependia da caridade das **Santas Casas** ou de campanhas higienistas verticais. Na clínica, esse legado explica as grandes desigualdades que o SUS ainda luta para corrigir através da **Universalidade**.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a visão geral dos períodos históricos.
+- **O que mostrar:** linha do tempo do período colonial até 1984, com marcos sanitários e previdenciários.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** Da assistência segmentada ao cenário que antecede a Reforma Sanitária.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A2-F02`
+
+- **Momento:** após a tabela de comparação entre modelos.
+- **O que mostrar:** diagrama simples comparando cobertura por cidadania versus cobertura por vínculo trabalhista.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** Quem tinha acesso em cada modelo histórico de assistência.
 
 ---
 
-## Colônia e Império (1500–1889)
+## Colônia e Império: caridade, higiene pública e baixa cobertura
 
-Na Colônia, a saúde era **assistência religiosa e caridade**; havia isolamento de leprosos e ações pontuais contra epidemias. O Estado era mínimo. No Império, surgem as primeiras **faculdades de medicina** (contexto de elite) e iniciativas urbanísticas ligadas ao medo das epidemias (cólera, febre amarela), mas sem sistema universal.
+Durante a Colônia e boa parte do Império, a assistência era predominantemente filantrópica e religiosa, com atuação das Santas Casas e respostas localizadas a surtos epidêmicos. Não existia sistema nacional universal; a ação estatal era limitada e concentrada em interesses urbanos e comerciais.
 
-> **Dica de Prova:** Associe “elite médica formada no Império” a **prática urbana** e pouca penetração no interior — isso explica desigualdade estrutural antiga.
+No século XIX, o avanço da medicina acadêmica convive com ampla desigualdade territorial. Cidades portuárias recebiam maior atenção sanitária por razões econômicas e de circulação internacional, enquanto o interior permanecia com baixa presença institucional.
 
----
-
-## Primeira República (1889–1930)
-
-O Brasil é majoritariamente **rural**; a saúde pública caminha com **campanhas sanitárias** pontuais e controle de portos. O modelo ainda é **assistencialista e focal**, sem integração com trabalho ou previdência de massa.
+> **Dica de Prova:** Se o enunciado citar assistência caritativa e ausência de universalidade, a resposta tende a apontar para períodos pré-republicanos.
 
 ---
 
-## Era Vargas (1930–1945)
+## Primeira República: campanhas sanitárias e enfoque higienista
 
-A centralização política fortalece a ideia de **Estado interventor**. Criam-se leis trabalhistas e bases para **políticas sociais seletivas**. A saúde do trabalhador urbano formal começa a ganhar proteção específica, mas a população rural e informal permanece excluída.
+Entre 1889 e 1930, consolidam-se campanhas sanitárias voltadas ao controle de epidemias em centros urbanos, especialmente para proteção de circulação econômica. Há avanços importantes em saúde pública, mas sem integração em rede assistencial universal.
 
-> **Pegadinha:** “Vargas modernizou o Brasil” não significa **SUS** ou **APS universal** — significa **início de proteção social segmentada**.
-
----
-
-## Redemocratização (1945–1964)
-
-Amplia-se o debate sobre **saúde pública** e **previdência**. Instituem-se serviços e fundos que cobrem **categorias trabalhistas**, reforçando um padrão **fragmentado**: quem tinha carteira tinha mais acesso; quem não tinha dependia de caridade ou pagamento direto.
+A lógica higienista produz intervenções sobre ambiente e controle de vetores, porém não resolve a segmentação social do acesso ao cuidado clínico. Esse contraste entre campanha vertical e sistema integral é recorrente em questões históricas.
 
 ---
 
-## Regime militar (1964–1984)
+## Era Vargas e pós-1945: proteção social segmentada
 
-O regime **reprime movimentos sociais**, mas também acelera o **crescimento econômico** e a urbanização. A saúde segue **dual**: serviços públicos precários para a maioria e segmentos privados/previdenciários para minorias. Movimentos de **reforma sanitária** germinam na sociedade civil e entre profissionais, preparando o terreno para a **crítica ao modelo** que explodirá na redemocratização.
+| Marco Histórico | Característica Principal | Quem Tinha Acesso? |
+|------------------|---------------------------|-----------------------|
+| **Santas Casas** | Assistência Filantrópica | Pobres e Indigentes |
+| **Lei Eloy Chaves**| Criação das **CAPS** (1923) | Trabalhadores (Empresa)|
+| **IAPs** (Vargas) | Unificação por Categoria | Trabalhadores (Estado) |
+| **INAMPS** | Modelo Hospitalocêntrico | Só quem tinha Carteira |
 
-### Linha do tempo rápida (para memorizar)
+> **Dica de Prova:** Se a questão fala em "Saúde vinculada ao trabalho", ela se refere ao período pré-88. O SUS quebrou esse vínculo, tornando a saúde um **Direito de Cidadania**.
 
-| Período | Traço dominante na saúde |
-|---------|-------------------------|
-| Colônia/Império | Caridade, elite médica urbana, campanhas |
-| República Velha | Ruralidade, saneamento e portos |
-| Vargas | Estado forte, proteção trabalhista inicial, segmentação |
-| 1945–1964 | Previdência e fragmentação |
-| 1964–1984 | Crescimento com exclusão; base social da reforma sanitária |
+### Modelos de acesso antes do SUS
+
+| Modelo predominante | Critério de acesso | Limitação estrutural |
+|---------------------|--------------------|----------------------|
+| **Filantropia/caridade** | benemerência e oferta local | cobertura instável e desigual |
+| **Campanhas sanitárias** | prioridade epidemiológica e urbana | atuação pontual sem continuidade |
+| **Previdência contributiva** | **vínculo formal** de trabalho | **exclusão** de trabalhadores rurais e informais |
 
 ---
 
-## Fechamento do período: o que fica para a prova
+## Regime militar (1964–1984): expansão com exclusão e crise de modelo
 
-Para fechar o eixo **Colônia → Militar**, memorize três palavras: **fragmentação**, **segmentação**, **urbanização sem universalização**. A saúde pública avançou em **campanhas** e em **direitos trabalhistas parciais**, mas não houve **sistema único** nem **direito amplo à saúde**. Essa lacuna política e ética será o combustível da **Reforma Sanitária** e da Constituição de 1988 — temas das próximas aulas.
+No regime militar, ocorre modernização setorial e aumento de oferta de serviços, inclusive com maior participação privada contratada pelo poder público. Apesar disso, persistem desigualdades de acesso, foco curativo-hospitalar e baixa coordenação com ações territoriais de prevenção e promoção.
 
-Em questões de “caracterize o período”, busque sempre **quem tinha acesso** (urbano formal x rural/informal), **qual lógica** (caridade, campanha, previdência) e **qual exclusão** permaneceu.
+A urbanização acelerada e as mudanças demográficas ampliam demanda por cuidado contínuo. O arranjo institucional segmentado mostra limites financeiros e sanitários, abrindo espaço para crítica técnica e política da Reforma Sanitária.
+
+Esse período é decisivo porque explicita um paradoxo: cresce a estrutura assistencial, mas sem garantir universalidade com integralidade. A prova frequentemente cobra esse contraste.
+
+---
+
+## Especificidade normativa e histórica: por que o SUS foi necessário
+
+Historicamente, o Brasil passou por modelos de saúde orientados por **status social**, **inserção laboral** e **localização territorial**. Normativamente, faltava um fundamento constitucional de **saúde como direito de todos**. Esse vazio jurídico e político é o ponto de inflexão que será enfrentado na **Constituinte de 1987-1988**.
+
+Em leitura histórica para prova, memorize o encadeamento: **assistência caritativa** -> **campanhas sanitárias** -> **previdência segmentada** -> **crise de exclusão** -> **Reforma Sanitária**. Esse encadeamento é a chave para entender por que o SUS não nasce como ajuste técnico, mas como redefinição de **cidadania**.
 
 ---
 
 ## Ponte com a Clínica
 
-O paciente idoso que “sempre pagou plano” e o que só acessa SUS hoje são heranças desse **processo histórico de segmentação**. Reconhecer isso ajuda a entender **por que** ainda existem filas, regionalização desigual e necessidade de **equidade**, não apenas de “mais hospitais”.
+Quando um paciente idoso relata trajetória de acesso descontínuo, alternando pronto atendimento e consultas tardias, ele materializa heranças de um sistema historicamente fragmentado. A lógica atual da APS, do cuidado longitudinal e da coordenação de rede busca justamente corrigir esse padrão de cuidado episódico e desigual.
+
+Para a prova, lembrar o passado segmentado ajuda a escolher alternativas que valorizam universalidade, integralidade e regionalização como respostas estruturais, não apenas administrativas.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Saúde colonial/imperial: **sem sistema universal**; caridade e campanhas.
-- Primeira República: **campanhas sanitárias**; Brasil rural.
-- Vargas: **Estado interventor**; proteção **seletiva** ao trabalho formal.
-- 1945–1964: **previdência** e fragmentação.
-- 1964–1984: **crescimento com exclusão**; base para crítica sanitária posterior.
+- **Higienismo:** Foco no controle de pandemias (Febre Amarela/Varíola) para não prejudicar a economia. 
+- **Modelo Hospitalocêntrico:** Foco na cura e no hospital, negligenciando a prevenção (Marca do Regime Militar).
+- **8ª Conferência Nacional de Saúde (1986):** O grande divisor de águas onde a sociedade civil desenhou o SUS.
+- **Constituição de 1988:** O nascimento jurídico do SUS. Saúde como **Direito de Todos e Dever do Estado**.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Antes do SUS:** sistema **fragmentado** (caridade, público limitado, previdência).
-- **Vargas:** modernização **sem** universalização da saúde.
-- **Regime militar:** exclusão persistente; germes da **Reforma Sanitária** na sociedade.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Campanha sanitária | Sistema universal | Campanha é pontual; universal exige direito e rede contínua. |
-| Previdência (segmentada) | SUS (universal) | Previdência cobre categoria; SUS cobre população (direito). |
-| Elite médica urbana | APS no SUS | Elite histórica ≠ modelo de território e equipe multiprofissional. |
+| Período | Lógica de Acesso | O que mudou? |
+|---------|------------------|---------------|
+| **Pré-1923** | Caridade/Santas Casas| Ausência do Estado |
+| **1923 - 1988**| Trabalho (Previdência)| Excluiu os desempregados |
+| **Pós-1988** | **Universal** | Saúde para **Todos** |
 
 ### Frase-âncora para não esquecer
 
-> “O SUS nasce porque o Brasil nunca teve um sistema — só pedaços.”
+> "Antes de 88, para ter saúde você precisava de uma carteira de trabalho; hoje, você só precisa existir."

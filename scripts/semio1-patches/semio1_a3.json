@@ -1,0 +1,192 @@
+[
+  {
+    "enunciado": "Na inspeção do aparelho locomotor, qual princípio a aula estabelece como regra para reduzir erro de interpretação?",
+    "opcoes": [
+      "A) Comparar lado a lado regiões simétricas sempre que possível",
+      "B) Inspecionar apenas o lado sintomático para ganhar tempo",
+      "C) Evitar expor ambos os membros mesmo em ambiente privado",
+      "D) Descrever achado sem localizar lado, região ou padrão de edema"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "Inspeção comparativa (lado a lado) é central para detectar assimetria de volume, alinhamento e cor.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O texto enfatiza inspeção sempre comparativa.",
+      "B": "Incorreta: O lado contralateral serve de referência.",
+      "C": "Incorreta: Exposição adequada dos dois lados é necessária quando seguro.",
+      "D": "Incorreta: Precisão local é cobrada em prova."
+    },
+    "explicacao": "Resumo: Comparação bilateral reduz falso “normal”.\nA) CORRETA. Princípio explícito da aula.\nB) INCORRETA. Perde referência anatômica.\nC) INCORRETA. Compromete exame completo.\nD) INCORRETA. Descrição vaga não substitui topografia."
+  },
+  {
+    "enunciado": "Mulher com osteoartrite das interfalangeanas com nódulos dorsais. Na inspeção das mãos, qual achado a aula associa classicamente à OA?",
+    "opcoes": [
+      "A) Desvio ulnar acentuado como único achado, sem nódulos",
+      "B) Nódulos de Heberden e/ou Bouchard, segundo articulações acometidas",
+      "C) Atrofia tenar isolada sem alteração articular visível",
+      "D) Derrame tenso simétrico em todas as MCP com rigidez de segundos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "explicacao_geral": "Nódulos de Heberden/Bouchard aparecem na tabela de padrões de mão para OA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Desvio ulnar marcado associa-se mais a AR avançada no texto.",
+      "B": "Correta: Reproduz o padrão descrito para OA.",
+      "C": "Incorreta: Atrofia tenar sugere outro mecanismo (ex.: mediano).",
+      "D": "Incorreta: Padrão inflamatório simétrico difuso não é o foco da OA nodular."
+    },
+    "explicacao": "Resumo: Inspeção das mãos diferencia OA e AR.\nA) INCORRETA. Padrão dominante na tabela para OA são os nódulos.\nB) CORRETA. Heberden/Bouchard são âncoras da aula.\nC) INCORRETA. Achado típico de outro contexto.\nD) INCORRETA. Confunde com poliartrite inflamatória."
+  },
+  {
+    "enunciado": "Paciente com edema fusiforme em dedo. Qual leitura visual a aula sugere para esse padrão?",
+    "opcoes": [
+      "A) Edema difuso de antebraço sem foco articular",
+      "B) Lipoma subcutâneo móvel",
+      "C) Edema em fusiforme compatível com sinovite (dedo em fusiforme)",
+      "D) Apenas celulite sem envolvimento articular"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Edema fusiforme em dedo é lido como sinovite na tabela de contorno articular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Difuso sem foco não é o padrão fusiforme digital.",
+      "B": "Incorreta: Tumoração lipomatosa tem outra palpação e evolução.",
+      "C": "Correta: Corresponde à linha da aula.",
+      "D": "Incorreta: Celulite costuma ser mais difusa; sinovite centra-se na articulação."
+    },
+    "explicacao": "Resumo: Morfologia do edema orienta sinovite.\nA) INCORRETA. Não descreve fusiforme digital.\nB) INCORRETA. Lesão de partes moles distinta.\nC) CORRETA. Padrão clássico citado.\nD) INCORRETA. Quadro infeccioso de pele difere do achado articular."
+  },
+  {
+    "enunciado": "Paciente com queda de pé e marcha em que eleva excessivamente o joelho para não arrastar o pé ao andar. Na tabela de marcha, esse padrão é:",
+    "opcoes": [
+      "A) Claudicação antálgica por redução do tempo de apoio",
+      "B) Passo curto por evitar extensão de quadril",
+      "C) Marcha exclusivamente por dor patelofemoral isolada",
+      "D) Marcha em steppage, com elevação excessiva do pé e suspeita de queda do pé (ex.: fibular)"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Steppage associa-se a elevação excessiva do pé para compensar queda (fibular).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Antálgica prioriza dor no apoio, não compensação de queda de pé.",
+      "B": "Incorreta: Passo curto remete a quadril/lombar no texto, não ao padrão descrito.",
+      "C": "Incorreta: Dor patelofemoral não explica o mecanismo de steppage.",
+      "D": "Correta: Reproduz a linha marcha em steppage da tabela."
+    },
+    "explicacao": "Resumo: Marcha em steppage traduz déficit de elevação do pé.\nA) INCORRETA. Outro mecanismo de claudicação.\nB) INCORRETA. Padrão de passo curto é distinto.\nC) INCORRETA. Explicação incorreta do fenômeno.\nD) CORRETA. Definição e suspeita de fibular como na aula."
+  },
+  {
+    "enunciado": "Joelho com aumento de volume anterior após ajoelhamento prolongado. Na inspeção, esse contorno pode representar:",
+    "opcoes": [
+      "A) Bursite pré-patelar versus derrame intra-articular — distinguir com palpação e contexto",
+      "B) Somente hemartrose traumática aguda, sem outras hipóteses",
+      "C) Sempre trombose venosa profunda",
+      "D) Necrose avascular de quadril sem relação com o joelho"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "Bolha anterior pode ser bursite pré-patelar ou distensão articular; a inspeção orienta próximos passos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A tabela contrapõe bolha anterior a derrame intra-articular.",
+      "B": "Incorreta: Hemartrose é um contexto, não a única causa de volume anterior.",
+      "C": "Incorreta: TVP não se infere só pela inspeção do joelho.",
+      "D": "Incorreta: Confunde anatomia e diagnóstico."
+    },
+    "explicacao": "Resumo: Contorno anterior do joelho exige diferenciar bolsa superficial de derrame.\nA) CORRETA. Coerente com a tabela de contorno articular.\nB) INCORRETA. Generalização excessiva.\nC) INCORRETA. Diagnóstico vascular exige outros dados.\nD) INCORRETA. Região e patologia inadequadas."
+  },
+  {
+    "enunciado": "Ao inspecionar temperatura local num joelho agudamente inflamado, qual achado a aula considera pista de processo inflamatório ou infeccioso na região?",
+    "opcoes": [
+      "A) Calor bilateral simétrico em ambos os joelhos sem dor",
+      "B) Calor unilateral ao comparar com o lado contralateral",
+      "C) Pele fria e marmorizada bilateralmente",
+      "D) Eritema difuso em todo membro superior sem foco articular"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Calor unilateral sugere processo inflamatório/infeccioso na articulação ou partes moles adjacentes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Unilateralidade é o ponto — bilateral simétrico não destaca foco.",
+      "B": "Correta: Reproduz a linha da tabela sobre calor unilateral.",
+      "C": "Incorreta: Padrão de baixo fluxo não é o achado clássico de artrite aguda.",
+      "D": "Incorreta: Eritema extenso sem foco articular não substitui o sinal local."
+    },
+    "explicacao": "Resumo: Comparar calor com o lado contralateral é inspeção rápida.\nA) INCORRETA. Simetria não destaca processo unilateral.\nB) CORRETA. Calor unilateral é a pista citada.\nC) INCORRETA. Achado não típico de sinovite aguda local.\nD) INCORRETA. Falta focalização articular."
+  },
+  {
+    "enunciado": "Em inspeção de membros inferiores em ortostatismo, genu varo ou valgo refletem principalmente:",
+    "opcoes": [
+      "A) Apenas lesão aguda de menisco sempre sem desgaste",
+      "B) Somente fratura recente de tíbia em qualquer idade",
+      "C) Desgaste articular assimétrico (medial/lateral), desenvolvimento ou sobrecarga mecânica",
+      "D) Sempre neuropatia periférica isolada"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Genu varo/valgo relacionam-se a desgaste medial/lateral, desenvolvimento ou sobrecarga conforme a tabela de alinhamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Menisco agudo não explica varismo/valgo estático isoladamente.",
+      "B": "Incorreta: Fratura pode desviar, mas não é o significado principal da linha.",
+      "C": "Correta: Compatível com a coluna de contexto da aula.",
+      "D": "Incorreta: Neuropatia não é a leitura típica do alinhamento em varo/valgo."
+    },
+    "explicacao": "Resumo: Alinhamento do joelho integra mecânica e desgaste.\nA) INCORRETA. Associação simplista.\nB) INCORRETA. Nem todo varo/valgo é fratura aguda.\nC) CORRETA. Reflete desgaste assimétrico e fatores mecânicos.\nD) INCORRETA. Eixo motor não é o foco primário aqui."
+  },
+  {
+    "enunciado": "Criança trazida por claudicação sem febre após leve trauma. Pela “Ponte com a Clínica”, a inspeção inicial deve:",
+    "opcoes": [
+      "A) Ser omitida para não stressar a criança",
+      "B) Focar só na face, pois membro inferior é secundário",
+      "C) Ignorar marcha se a criança estiver calma no consultório",
+      "D) Incluir observação de marcha e comparação de membros, lembrando causas graves até descartadas pelo protocolo"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "explicacao_geral": "Claudicação infantil afebril exige investigação guiada; inspeção e marcha são parte da triagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Inspeção não deve ser abandonada.",
+      "B": "Incorreta: Membros inferiores são centrais na queixa.",
+      "C": "Incorreta: Marcha é teste funcional rápido mesmo com variabilidade.",
+      "D": "Correta: Alinha inspeção comparativa e alerta para causas graves conforme protocolo."
+    },
+    "explicacao": "Resumo: Claudicação pediátrica combina observação funcional e cautela.\nA) INCORRETA. Exame gentil, não omitido.\nB) INCORRETA. Foco errado da anamnese/exame.\nC) INCORRETA. Marcha permanece útil.\nD) CORRETA. Coerente com a ponte clínica da aula."
+  },
+  {
+    "enunciado": "Paciente em inspeção de coluna: escoliose visível. Qual complemento a aula sugere quando houver dúvida neurológica ou déficit?",
+    "opcoes": [
+      "A) Avaliar necessidade de investigação neurológica mais ampla se houver sinais associados",
+      "B) Ignorar completamente se a dor for leve",
+      "C) Tratar sempre como postura sem exame",
+      "D) Solicitar cirurgia imediata sem avaliação"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "explicacao_geral": "Escoliose na inspeção pode coexistir com dor; déficit neurológico manda ampliar avaliação.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A tabela de alinhamento cita necessidade de avaliação neurológica se déficit.",
+      "B": "Incorreta: Intensidade da dor não exclui comprometimento neurológico.",
+      "C": "Incorreta: Postura não fecha diagnóstico sem dados.",
+      "D": "Incorreta: Indicação cirúrgica requer critérios, não inspeção isolada."
+    },
+    "explicacao": "Resumo: Escoliose + sinais neurológicos elevam grau de investigação.\nA) CORRETA. Coerente com o texto sobre escoliose e avaliação neurológica.\nB) INCORRETA. Subestima gravidade possível.\nC) INCORRETA. Erro de conduta.\nD) INCORRETA. Precipitação indevida."
+  },
+  {
+    "enunciado": "Adulto com joelho em flexão leve e volume intenso após trauma em esporte de contato. Qual padrão visual a aula associa a hemartrose?",
+    "opcoes": [
+      "A) Ausência total de deformidade ou volume",
+      "B) Apenas eritema difuso em coxa sem joelho volumoso",
+      "C) Hemartrose com joelho frequentemente em flexão leve e tensão capsular",
+      "D) Edema em fusiforme exclusivamente em dedo sem envolvimento de joelho"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Hemartrose costuma distender a cápsula; o joelho pode permanecer em flexão com tensão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Hemartrose volumosa é visível na inspeção.",
+      "B": "Incorreta: Foco no joelho é central no trauma articular.",
+      "C": "Correta: Reproduz a linha hemartrose da tabela de contorno.",
+      "D": "Incorreta: Confunde com padrão digital fusiforme."
+    },
+    "explicacao": "Resumo: Sangue intra-articular distende e limita postura.\nA) INCORRETA. Incompatível com hemartrose significativa.\nB) INCORRETA. Desloca o foco anatômico.\nC) CORRETA. Padrão descrito na aula.\nD) INCORRETA. Região errada."
+  }
+]

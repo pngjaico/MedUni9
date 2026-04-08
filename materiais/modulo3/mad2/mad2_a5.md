@@ -99,17 +99,19 @@ Na vida real, IST bacteriana não é tema de ambulatório rápido e superficial.
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Úlcera indolor:** pensar primeiro em sífilis.
+- **Corrimento purulento:** sugere gonorreia.
+- **Clamídia silenciosa:** ainda pode deixar sequela grave.
+- **Dor pélvica + colo doloroso:** pensar em DIP.
+- **Sífilis tem fases:** quadro muda com o tempo.
+- **Parceiro entra no tratamento:** sempre que indicado.
+- **Gestante com sífilis:** risco fetal importante.
+- **Conduta precoce:** reduz transmissão e sequela.
 
-
-Úlcera indolor: pensar primeiro em sífilis. Corrimento purulento: sugere gonorreia. Clamídia silenciosa: ainda pode deixar sequela grave.
-
-Dor pélvica + colo doloroso: pensar em DIP. Sífilis tem fases: quadro muda com o tempo. Parceiro entra no tratamento: sempre que indicado.
-
-Gestante com sífilis: risco fetal importante. Conduta precoce: reduz transmissão e sequela.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -121,5 +123,4 @@ Gestante com sífilis: risco fetal importante. Conduta precoce: reduz transmiss�
 | DIP | Dor pélvica inespecífica | DIP associa-se a contexto infeccioso e dor à mobilização do colo |
 
 ### Frase-âncora para não esquecer
-
 > "IST mal tratada não termina no sintoma: termina em transmissão e sequela."

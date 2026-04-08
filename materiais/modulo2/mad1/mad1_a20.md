@@ -4,7 +4,7 @@
 
 A família Herpesviridae inclui 8 vírus humanos (HHV-1 a 8) com uma característica fundamental compartilhada: a **latência viral** — após a infecção primária, o vírus persiste indefinidamente no hospedeiro e pode reativar em situações de imunossupressão. Essa latência explica por que manifestações recorrentes ocorrem anos após a infecção inicial e por que são tão prevalentes em pacientes imunodeprimidos.
 
-A **Uninove** cobra principalmente as manifestações clínicas de cada herpesvírus, as diferenças entre infecção primária e reativação, e os tratamentos antivirais (aciclovir, ganciclovir).
+A Uninove cobra principalmente as manifestações clínicas de cada herpesvírus, as diferenças entre infecção primária e reativação, e os tratamentos antivirais (aciclovir, ganciclovir).
 
 ### Figura sugerida
 
@@ -180,17 +180,16 @@ Tríade clássica: **febre + faringoamigdalite exsudativa + linfadenomegalia cer
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Latência:** permanente em todos herpesvírus; reativação em imunossupressão
+- **Encefalite herpética (HSV-1):** lobo temporal; aciclovir EV urgente
+- **Mononucleose (EBV):** febre + amígdalas + linfadenomegalia posterior; amoxicilina → rash
+- **Zóster:** dermatomal unilateral; neuralgia pós-herpética; zóster oftálmico = urgência ocular
+- **CMV retinite:** pizza de tomate no fundo de olho; CD4 < 50; ganciclovir
 
-
-Latência: permanente em todos herpesvírus; reativação em imunossupressão. Encefalite herpética (HSV-1): lobo temporal; aciclovir EV urgente.
-
-Mononucleose (EBV): febre + amígdalas + linfadenomegalia posterior; amoxicilina → rash. Zóster: dermatomal unilateral; neuralgia pós-herpética; zóster oftálmico = urgência ocular.
-
-CMV retinite: pizza de tomate no fundo de olho; CD4 < 50; ganciclovir.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -203,13 +202,4 @@ CMV retinite: pizza de tomate no fundo de olho; CD4 < 50; ganciclovir.
 | Aciclovir | Ganciclovir | Aciclovir = HSV/VZV; Ganciclovir = CMV (mais potente, mais tóxico) |
 
 ### Frase-âncora para não esquecer
-
 > "Os herpesvírus nunca vão embora — se instalam e dormem pelos anos, acordando quando o sistema imune fraqueja: herpes labial na gripe, zóster na velhice, CMV retinite na AIDS. Aciclovir para HSV/VZV, ganciclovir para CMV."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

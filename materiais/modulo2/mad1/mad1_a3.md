@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A imunidade adaptativa é o que nos protege de forma duradoura — é ela que explica por que sarampo não ocorre duas vezes, por que vacinas funcionam e por que transplantes são rejeitados. Sua marca fundamental é a **especificidade antigênica** e a **memória imunológica**, geradas pela seleção clonal de linfócitos T e B com receptores únicos para cada antígeno.
+A imunidade adaptativa é o que nos protege de forma duradoura — é ela que explica por que sarampo não ocorre duas vezes, por que vacinas funcionam e por que transplantes são rejeitados. Sua marca fundamental é a especificidade antigênica e a memória imunológica, geradas pela seleção clonal de linfócitos T e B com receptores únicos para cada antígeno.
 
-No contexto clínico, o mau funcionamento da **imunidade adaptativa** está na raiz de doenças autoimunes, imunodeficiências graves (como AIDS, onde o HIV destrói CD4+) e rejeição de transplantes. A Uninove cobra muito as diferenças entre **linfócitos T CD4+** e CD8+, as classes de anticorpos e o conceito de resposta primária vs. secundária.
+No contexto clínico, o mau funcionamento da imunidade adaptativa está na raiz de doenças autoimunes, imunodeficiências graves (como AIDS, onde o HIV destrói CD4+) e rejeição de transplantes. A Uninove cobra muito as diferenças entre linfócitos T CD4+ e CD8+, as classes de anticorpos e o conceito de resposta primária vs. secundária.
 
 ### Figura sugerida
 
@@ -104,7 +104,7 @@ Requer **3 sinais**:
 
 ### Mudança de Classe (Switch de Isotipo)
 
-Ocorre no centro germinativo com ajuda de T **CD4+** (via CD40L–CD40 + citocinas):
+Ocorre no centro germinativo com ajuda de T CD4+ (via CD40L–CD40 + citocinas):
 - IL-4 → IgE e IgG1
 - TGF-β → IgA
 - IL-2 → IgG
@@ -155,17 +155,17 @@ Ocorre no centro germinativo com ajuda de T **CD4+** (via CD40L–CD40 + citocin
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **T CD4+:** coordena (helper); MHC II; Th1/Th2/Th17/Treg
+- **T CD8+:** mata (citotóxico); MHC I; perforina + granzimas
+- **3 sinais de ativação T:** TCR+MHC → coestimulação (CD28–B7) → citocinas (IL-2)
+- **Resposta primária:** IgM, lenta; **Secundária:** IgG, rápida → base para diagnóstico sorológico
+- **Switch de isotipo:** T-dependente; IL-4→IgE; TGF-β→IgA
+- **MHC I:** todas células nucleadas; **MHC II:** APC profissionais
 
-
-T CD4+: coordena (helper); MHC II; Th1/Th2/Th17/Treg. T CD8+: mata (citotóxico); MHC I; perforina + granzimas.
-
-3 sinais de ativação T: TCR+MHC → coestimulação (CD28–B7) → citocinas (IL-2). Resposta primária: IgM, lenta; Secundária: IgG, rápida → base para diagnóstico sorológico.
-
-Switch de isotipo: T-dependente; IL-4→IgE; TGF-β→IgA. MHC I: todas células nucleadas; MHC II: APC profissionais.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -178,13 +178,4 @@ Switch de isotipo: T-dependente; IL-4→IgE; TGF-β→IgA. MHC I: todas células
 | Seleção positiva | Seleção negativa | Positiva = aprende a reconhecer MHC; Negativa = elimina autorreativos |
 
 ### Frase-âncora para não esquecer
-
 > "CD4 é o general que comanda o exército; CD8 é o atirador de elite que executa. Sem o general (CD4), o exército entra em colapso — como no HIV."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

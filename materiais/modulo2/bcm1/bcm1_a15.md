@@ -4,7 +4,7 @@
 
 Enquanto as alterações numéricas envolvem ganho ou perda de cromossomos inteiros, as alterações estruturais resultam de quebras e reuniões anômalas dentro de um ou entre cromossomos. Elas podem gerar desde microdeleções clinicamente silenciosas até rearranjos que ativam oncogenes ou eliminam supressores de tumor. A translocação t(9;22) — que cria o cromossomo Philadelphia e o oncogene BCR-ABL — é um dos exemplos mais importantes na medicina, sendo o alvo do imatinibe na leucemia mielóide crônica.
 
-Para o estudante da **Uninove**, o domínio das alterações estruturais é fundamental tanto para questões de genética clínica (síndromes de microdeleção) quanto para oncogenética (translocações em linfomas e leucemias). A banca frequentemente apresenta cariótipos ou descrições de fenótipos para que o aluno identifique o tipo de rearranjo e a síndrome correspondente.
+Para o estudante da Uninove, o domínio das alterações estruturais é fundamental tanto para questões de genética clínica (síndromes de microdeleção) quanto para oncogenética (translocações em linfomas e leucemias). A banca frequentemente apresenta cariótipos ou descrições de fenótipos para que o aluno identifique o tipo de rearranjo e a síndrome correspondente.
 
 ### Figura sugerida
 
@@ -25,7 +25,7 @@ Para o estudante da **Uninove**, o domínio das alterações estruturais é fund
 
 ## Mecanismo Geral: Quebra, Reunião Anômala
 
-As alterações estruturais surgem quando há quebras de dupla fita (DSBs) no **DNA** de dois ou mais cromossomos (ou em dois pontos do mesmo cromossomo) que não são reparadas fielmente. O NHEJ (Non-Homologous End Joining) propenso a erros é o principal responsável por fusões anômalas. Elementos repetitivos (SINEs, LINEs) facilitam recombinação homóloga não-alélica (NAHR) → CNVs e deleções de regiões com sequências repetidas flanqueadoras.
+As alterações estruturais surgem quando há quebras de dupla fita (DSBs) no DNA de dois ou mais cromossomos (ou em dois pontos do mesmo cromossomo) que não são reparadas fielmente. O NHEJ (Non-Homologous End Joining) propenso a erros é o principal responsável por fusões anômalas. Elementos repetitivos (SINEs, LINEs) facilitam recombinação homóloga não-alélica (NAHR) → CNVs e deleções de regiões com sequências repetidas flanqueadoras.
 
 ---
 
@@ -106,7 +106,7 @@ As extremidades de um cromossomo quebram e se fusionam formando uma estrutura ci
 
 ### 7. CNVs (Copy Number Variations)
 
-Variantes de número de cópias — deleções ou duplicações submicroscópicas (< 1 Mb) presentes em > 1% da população. A maioria é benigna (polimorfismos), mas CNVs raras (rCNVs) causam doenças. Detectadas por array CGH ou **SNP** array.
+Variantes de número de cópias — deleções ou duplicações submicroscópicas (< 1 Mb) presentes em > 1% da população. A maioria é benigna (polimorfismos), mas CNVs raras (rCNVs) causam doenças. Detectadas por array CGH ou SNP array.
 
 **Exemplos:** Síndrome 22q11.2, 16p11.2 (autismo), 15q11-q13 (PWS/AS).
 
@@ -154,19 +154,19 @@ Variantes de número de cópias — deleções ou duplicações submicroscópica
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Del(5p) = cri-du-chat: choro de gato, microcefalia, deficiência intelectual. Del(22q11.2) = DiGeorge: cardiopatia conotruncal + hipocalcemia + imunodeficiência T. Del(7q11.23) = Williams: fácies de elfo, hipercalcemia, hipersociabilidade.
-
-T(9;22) = BCR-ABL = LMC → imatinibe. T(8;14) = MYC = Burkitt. T(15;17) = PML-RARA = LMA-M3 → ATRA + arsênio → cura.
-
-T(14;18) = BCL-2 = Linfoma folicular → venetoclax. Rob(14;21) = Down com 45 cromossomos. Inversão pericêntrica: inclui centrômero, risco em gametas.
-
-CNVs: variantes submicroscópicas de cópia; array CGH para detectar.
+- **del(5p) = cri-du-chat:** choro de gato, microcefalia, deficiência intelectual
+- **del(22q11.2) = DiGeorge:** cardiopatia conotruncal + hipocalcemia + imunodeficiência T
+- **del(7q11.23) = Williams:** fácies de elfo, hipercalcemia, hipersociabilidade
+- **t(9;22) = BCR-ABL = LMC** → imatinibe
+- **t(8;14) = MYC = Burkitt**
+- **t(15;17) = PML-RARA = LMA-M3** → ATRA + arsênio → cura
+- **t(14;18) = BCL-2 = Linfoma folicular** → venetoclax
+- **rob(14;21) = Down com 45 cromossomos**
+- **Inversão pericêntrica:** inclui centrômero, risco em gametas
+- **CNVs:** variantes submicroscópicas de cópia; array CGH para detectar
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -179,13 +179,4 @@ CNVs: variantes submicroscópicas de cópia; array CGH para detectar.
 | t(15;17) LMA-M3 | t(9;22) LMC | LMA-M3 = PML-RARA, CIVD, ATRA cura; LMC = BCR-ABL, progressiva, imatinibe controla |
 
 ### Frase-âncora para não esquecer
-
 > "Philadelphia (9;22) = BCR-ABL = imatinibe mata. Burkitt (8;14) = MYC explode. M3 (15;17) = PML-RARA = ATRA cura. DiGeorge perde 22q11 e fica sem timo, sem cálcio, sem comunicação aórtica. Cri-du-chat perde o braço curto do 5 e chora como gato."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

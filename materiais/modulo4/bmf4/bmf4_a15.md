@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As meninges não são apenas envoltórios passivos do encéfalo — são a sede das meningites, dos hematomas e das referências anatômicas para o neurocirurgião. O sistema ventricular produz o LCR que amortece o encéfalo, e sua obstrução causa hidrocefalia. A **barreira hematoencefálica** (BHE) explica por que tantos antibióticos não chegam ao SNC e por que o tratamento de meningite bacteriana é uma emergência. A **Uninove** cobra esses temas com vinhetas clínicas: "hematoma epidural vs subdural", "hidrocefalia comunicante vs não comunicante", "qual antibiótico penetra a BHE".
+As meninges não são apenas envoltórios passivos do encéfalo — são a sede das meningites, dos hematomas e das referências anatômicas para o neurocirurgião. O sistema ventricular produz o LCR que amortece o encéfalo, e sua obstrução causa hidrocefalia. A barreira hematoencefálica (BHE) explica por que tantos antibióticos não chegam ao SNC e por que o tratamento de meningite bacteriana é uma emergência. A Uninove cobra esses temas com vinhetas clínicas: "hematoma epidural vs subdural", "hidrocefalia comunicante vs não comunicante", "qual antibiótico penetra a BHE".
 
 ### Figura sugerida
 
@@ -54,7 +54,7 @@ Cisterna magna → espaço subaracnoideo
 Drenagem venosa
 ```
 
-O **LCR** é produzido à taxa de ~500 mL/dia, mas o volume total é ~150 mL (renovado ~3x/dia). Pressão normal do LCR: 7–18 cmH₂O deitado.
+O LCR é produzido à taxa de ~500 mL/dia, mas o volume total é ~150 mL (renovado ~3x/dia). Pressão normal do LCR: 7–18 cmH₂O deitado.
 
 > **Pegadinha:** Obstrução no aqueduto de Sylvius causa **hidrocefalia não comunicante** (obstrutiva) — o LCR não chega ao espaço subaracnoideo. Já a falha de reabsorção nas granulações aracnoides causa **hidrocefalia comunicante** — LCR circula, mas não é absorvido. Na prática: meningite crônica e hemorragia subaracnoide causam hidrocefalia comunicante por inflamação das granulações.
 
@@ -105,22 +105,22 @@ Antibióticos com boa penetração na BHE (especialmente inflamada): **ceftriaxo
 
 ## Ponte com a Clínica
 
-Meningite bacteriana em adulto: cefaleia + febre + rigidez de nuca + Kernig/Brudzinski positivos. **TC** antes da punção lombar se sinais focais ou papiledema (risco de herniação). Antibioterapia empírica NÃO deve ser atrasada para aguardar o resultado da PL. Hidrocefalia de pressão normal (tríade de Hakim-Adams): demência + distúrbio da marcha + incontinência urinária em idoso. Tratamento: derivação ventriculoperitoneal. Hematoma epidural: intervalo lúcido após TCE seguido de deterioração rápida = emergência cirúrgica.
+Meningite bacteriana em adulto: cefaleia + febre + rigidez de nuca + Kernig/Brudzinski positivos. TC antes da punção lombar se sinais focais ou papiledema (risco de herniação). Antibioterapia empírica NÃO deve ser atrasada para aguardar o resultado da PL. Hidrocefalia de pressão normal (tríade de Hakim-Adams): demência + distúrbio da marcha + incontinência urinária em idoso. Tratamento: derivação ventriculoperitoneal. Hematoma epidural: intervalo lúcido após TCE seguido de deterioração rápida = emergência cirúrgica.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Epidural: artéria meníngea média, intervalo lúcido, biconvexo na TC. Subdural: veias em ponte, idosos/anticoagulados, côncavo na TC. Subaracnoide: aneurisma, "pior dor de cabeça da vida", xantocrômico na PL.
-
-Aqueduto de Sylvius bloqueado: hidrocefalia não comunicante (obstrutiva). Granulações aracnoides comprometidas: hidrocefalia comunicante. LCR bacteriano: turvo, proteína ↑↑, glicose ↓, PMN. Viral: claro, linf, glicose normal.
-
-BHE: lipossolúvel passa; ceftriaxona, penicilina, rifampicina = boa penetração. Dexametasona: adjuvante na meningite bacteriana → reduz inflamação e sequelas.
+- **Epidural:** artéria meníngea média, intervalo lúcido, biconvexo na TC.
+- **Subdural:** veias em ponte, idosos/anticoagulados, côncavo na TC.
+- **Subaracnoide:** aneurisma, "pior dor de cabeça da vida", xantocrômico na PL.
+- **Aqueduto de Sylvius bloqueado:** hidrocefalia não comunicante (obstrutiva).
+- **Granulações aracnoides comprometidas:** hidrocefalia comunicante.
+- **LCR bacteriano:** turvo, proteína ↑↑, glicose ↓, PMN. Viral: claro, linf, glicose normal.
+- **BHE:** lipossolúvel passa; ceftriaxona, penicilina, rifampicina = boa penetração.
+- **Dexametasona:** adjuvante na meningite bacteriana → reduz inflamação e sequelas.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -132,5 +132,4 @@ BHE: lipossolúvel passa; ceftriaxona, penicilina, rifampicina = boa penetraçã
 | BHE saudável | BHE inflamada | Inflamada: maior permeabilidade → antibióticos penetram melhor |
 
 ### Frase-âncora para não esquecer
-
 > "Epidural é artéria (urgência máxima, biconvexo); subdural é veia (idoso anticoagulado, côncavo) — o formato na TC já conta a história."

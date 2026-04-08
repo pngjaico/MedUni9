@@ -12,6 +12,17 @@
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A7-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Linfoma de Hodgkin (LH)
 
 ### Características
@@ -85,12 +96,11 @@ Paciente com **linfadenopatia generalizada** e **febre B** há semanas: **não**
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Sintomas **B** em linfoma.  
-- **Biópsia** para classificação.  
-- **Mieloma:** lesões ósseas + monoclonal + medula plasmocitária.  
-- **MGUS** versus MM (critérios de tratamento).
+Sintomas B em linfoma. Biópsia para classificação.
+
+Mieloma: lesões ósseas + monoclonal + medula plasmocitária. MGUS versus MM (critérios de tratamento).
 
 ### Diferenciações que a Uninove adora cobrar
 

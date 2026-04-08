@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Hemorragia digestiva alta (HDA) tem origem proximal ao ligamento de Treitz (esôfago, estômago, duodeno proximal); hemorragia digestiva baixa (HDB) é distal. O raciocínio de prova integra estabilização, escores de estratificação, endoscopia oportuna e tratamento etiológico. Erro frequente: confundir hematoquezia com “sempre sangramento baixo” — hemorragias altas massivas ou com trânsito rápido podem cursar com eliminação retal de sangue vivo.
+**Hemorragia digestiva alta (HDA)** tem origem **proximal ao ligamento de Treitz** (esôfago, estômago, duodeno proximal); **hemorragia digestiva baixa (HDB)** é distal. O raciocínio de prova integra **estabilização**, **escores de estratificação**, **endoscopia oportuna** e **tratamento etiológico**. Erro frequente: confundir **hematoquezia** com “sempre sangramento baixo” — hemorragias altas massivas ou com trânsito rápido podem cursar com eliminação retal de sangue vivo.
 
 ---
 
@@ -24,13 +24,13 @@ Hemorragia digestiva alta (HDA) tem origem proximal ao ligamento de Treitz (esô
 
 ## Abordagem inicial (sempre ABC)
 
-Acesso venoso calibroso, monitorização, tipo e screen, hemograma, função renal, coagulação quando relevante. PPI em suspeita de etiologia ulcerosa após estabilização. Em varizes com suspeita clínica: octreotide conforme protocolo institucional; antibioticoprofilaxia em cirróticos com hemorragia varicosa. Transfusão guiada por sintomas, taquicardia persistente e limiares de hemoglobina — não “número mágico” isolado.
+Acesso **venoso calibroso**, monitorização, **tipo e screen**, hemograma, função renal, coagulação quando relevante. **PPI** em suspeita de etiologia ulcerosa após estabilização. Em varizes com suspeita clínica: **octreotide** conforme protocolo institucional; **antibioticoprofilaxia** em cirróticos com hemorragia varicosa. **Transfusão** guiada por sintomas, taquicardia persistente e limiares de hemoglobina — não “número mágico” isolado.
 
-### DDx rápida — HDA
+### diagnóstico diferencial rápida — HDA
 
 Úlcera péptica, **varizes esofagogástricas**, gastrite erosiva, **Mallory-Weiss**, neoplasia gástrica/esofágica, angiodisplasia (menos comum como primeira hipótese).
 
-### DDx rápida — HDB
+### diagnóstico diferencial rápida — HDB
 
 **Divertículo**, angiodisplasia, neoplasia colorretal, colite (infecciosa ou inflamatória), hemorroidas, fissura.
 
@@ -38,15 +38,15 @@ Acesso venoso calibroso, monitorização, tipo e screen, hemograma, função ren
 
 ## Escores: Rockall e Glasgow-Blatchford
 
-Glasgow-Blatchford ajuda a decidir internação vs manejo ambulatorial em certos cenários de HDA não varicosa. Rockall ( pré e pós-endoscópico) estratifica mortalidade — útil para comunicação e seguimento.
+**Glasgow-Blatchford** ajuda a decidir **internação vs manejo ambulatorial** em certos cenários de HDA não varicosa. **Rockall** ( pré e pós-endoscópico) estratifica **mortalidade** — útil para comunicação e seguimento.
 
-> **Pegadinha:** escore baixo não substitui julgamento clínico se houver comorbidade grave, uso de anticoagulante ou instabilidade oculta.
+> **Pegadinha:** escore baixo **não** substitui julgamento clínico se houver comorbidade grave, uso de anticoagulante ou instabilidade oculta.
 
 ---
 
 ## Endoscopia na HDA
 
-Nas primeiras 24 h em pacientes de alto risco. Terapêutica endoscópica conforme lesão: injeção, clipes, termocoagulação; ligadura elástica para varizes. Planeje segunda-look se alto risco de ressangramento (estigmas endoscópicos de risco — conceito Forrest).
+Nas primeiras **24 h** em pacientes de alto risco. **Terapêutica endoscópica** conforme lesão: injeção, **clipes**, termocoagulação; **ligadura elástica** para varizes. Planeje **segunda-look** se alto risco de ressangramento (estigmas endoscópicos de risco — conceito Forrest).
 
 ### Figura sugerida
 
@@ -61,7 +61,7 @@ Nas primeiras 24 h em pacientes de alto risco. Terapêutica endoscópica conform
 
 ## HDB — propedêutica escalonada
 
-Colonoscopia após preparo quando estável. TC com contraste (angiografia por TC) com sangramento ativo ou suspeita de angiodisplasia. Cápsula ou enteroscopia em obscurecimento após estudos negativos. Em sangramento maciço: abordagem conjunta com radiologia intervencionista (embolização) e cirurgia se necessário.
+**Colonoscopia** após preparo quando estável. **TC com contraste** (angiografia por TC) com sangramento ativo ou suspeita de angiodisplasia. **Cápsula** ou **enteroscopia** em obscurecimento após estudos negativos. Em sangramento maciço: abordagem conjunta com radiologia intervencionista (**embolização**) e cirurgia se necessário.
 
 ### Figura sugerida
 
@@ -76,7 +76,7 @@ Colonoscopia após preparo quando estável. TC com contraste (angiografia por TC
 
 ## Tratamento adjuvante e limites
 
-Inibidores de bomba de prótons pós-terapia endoscópica de úlcera com alto risco de ressangramento (conforme diretriz). Reversão de anticoagulação individualizada — não “parar tudo” sem avaliar trombose vs hemorragia. Balão de Sengstaken-Blakemore é ponte excepcional em falha endoscópica varicosa, com riscos próprios.
+**Inibidores de bomba de prótons** pós-terapia endoscópica de úlcera com alto risco de ressangramento (conforme diretriz). **Reversão de anticoagulação** individualizada — não “parar tudo” sem avaliar trombose vs hemorragia. **Balão de Sengstaken-Blakemore** é **ponte** excepcional em falha endoscópica varicosa, com riscos próprios.
 
 ### Figura sugerida
 
@@ -91,7 +91,7 @@ Inibidores de bomba de prótons pós-terapia endoscópica de úlcera com alto ri
 
 ## Ponte com a Clínica
 
-Paciente hipotenso com hematemese: proteção de via aérea se rebaixamento; noradrenalina após reposição volêmica adequada se choque persistente. Paciente em anticoagulação com HDA: equipe multidisciplinar para reversão e retomada segura. Documente resposta à primeira unidade de concentrado — não transfunda em piloto automático.
+Paciente **hipotenso** com hematemese: proteção de via aérea se rebaixamento; noradrenalina após reposição volêmica adequada se choque persistente. Paciente em **anticoagulação** com HDA: equipe multidisciplinar para **reversão** e **retomada** segura. Documente **resposta à primeira unidade de concentrado** — não transfunda em piloto automático.
 
 ---
 
@@ -109,12 +109,11 @@ Paciente hipotenso com hematemese: proteção de via aérea se rebaixamento; nor
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Forrest** — ideia de estigmas de alto risco de ressangramento.
-- **Antibioticoprofilaxia** no cirrótico com sangramento varicoso.
-- **Angiografia** com embolização em persistência.
-- **Isquemia mesentérica** pode sangrar — inclua no DDx de dor + sangue.
+Na prova, lembre que Forrest — ideia de estigmas de alto risco de ressangramento. Antibioticoprofilaxia no cirrótico com sangramento varicoso.
+
+Para não errar em cenário clínico, considere também Angiografia com embolização em persistência. Isquemia mesentérica pode sangrar — inclua no diagnóstico diferencial de dor + sangue.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,14 +127,3 @@ Paciente hipotenso com hematemese: proteção de via aérea se rebaixamento; nor
 ### Frase-âncora para não esquecer
 
 > “**Volume e oxigênio** primeiro; **endoscopia** no doente certo, no tempo certo.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com indicação, timing (eletivo x urgência), via de acesso e complicações previsíveis. Em caso de dúvida entre observação e intervenção, revise estabilidade hemodinâmica, comorbidades e recursos do serviço.
-
-### Leitura de reforço
-
-- Diretrizes de hemorragia digestiva alta e baixa (sociedades nacionais/internacionais)
-- Protocolos institucionais de transfusão e anticoagulação

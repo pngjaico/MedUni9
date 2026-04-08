@@ -1,0 +1,232 @@
+[
+  {
+    "id": 812,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "Ciclinas regulam o ciclo celular ligando-se a:",
+    "opcoes": [
+      "A) CDKs (quinases dependentes de ciclinas).",
+      "B) DNA polimerase γ exclusivamente.",
+      "C) Telomerase apenas.",
+      "D) Proteassoma sem substrato."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Ciclina + CDK — atividade quinase; checkpoints G1/S, G2/M.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ciclinas — CDK.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 813,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "p53 em resposta a dano ao DNA pode ativar:",
+    "opcoes": [
+      "A) Ciclin D1 constitutiva sem p21.",
+      "B) p21 (CDKI) promovendo pausa em G1.",
+      "C) Cdc25 sem regulação.",
+      "D) E2F livre sempre."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "p53 — p21 — inibição CDK — checkpoint.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: p53 — p21.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 814,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "RB hipofosforilado liga-se a E2F inibindo:",
+    "opcoes": [
+      "A) Tradução.",
+      "B) Replicação mitocondrial.",
+      "C) Transcrição de genes necessários para fase S.",
+      "D) Apoptose sempre."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "RB — freio G1/S; fosforilação libera E2F.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: RB — E2F.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 815,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "Checkpoint do spindle assembly ocorre principalmente em:",
+    "opcoes": [
+      "A) G1.",
+      "B) Transição G1/S apenas.",
+      "C) S.",
+      "D) Metáfase/anáfase garantindo ancoragem cromossômica ao fuso."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Mad2/Bub — anáfase; cinetocoros.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Spindle checkpoint.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 816,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "CDK4/6 fosforilam RB em resposta a:",
+    "opcoes": [
+      "A) Inativação de ciclin D.",
+      "B) Apenas hipóxia.",
+      "C) Sinal mitogênico com ciclin D.",
+      "D) DNA viral sem receptores."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ciclin D — CDK4/6 — RB — E2F.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ciclin D — CDK4/6.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 817,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "p16INK4a inibe:",
+    "opcoes": [
+      "A) Telomerase.",
+      "B) DNA pol α.",
+      "C) Topo I.",
+      "D) CDK4/6 ligando-se a ciclin D (competitivamente com ciclin D)."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "p16 — inibe CDK4/6 — RB não fosforilado.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: p16 — CDK4/6.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 818,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "MDM2 regula p53 por:",
+    "opcoes": [
+      "A) Ubiquitinação e proteólise de p53 diminuindo sua abundância.",
+      "B) Fosforilação constitutiva de p53.",
+      "C) Síntese de rRNA.",
+      "D) Replicação mitocondrial."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "MDM2 — E3 ubiquitin ligase — p53.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: MDM2 — p53.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 819,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "Ciclin B acumula-se para promover:",
+    "opcoes": [
+      "A) Início de G1.",
+      "B) Entrada em mitose (M).",
+      "C) Transição G1/S.",
+      "D) Apenas G0."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ciclin B — CDK1 — M.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ciclin B — M.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 820,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "Restrição em G1 (R) depende de integração de sinais mitogênicos e:",
+    "opcoes": [
+      "A) Apenas telômero.",
+      "B) Somente topo II.",
+      "C) RB e ciclin D/CDK4/6.",
+      "D) Exclusivamente apoptose."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ponto R — decisão de proliferar.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ponto R.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 821,
+    "materia": "bcm1",
+    "tema": "bcm1_a10",
+    "enunciado": "Anafase-promoting complex/ciclosoma (APC/C) marca para degradação:",
+    "opcoes": [
+      "A) Histona H1 apenas.",
+      "B) Ciclin A em S.",
+      "C) DNA pol III.",
+      "D) Securina permitindo separação de cromátides."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "APC/C — securina — coesina — anáfase.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: APC/C — anáfase.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  }
+]

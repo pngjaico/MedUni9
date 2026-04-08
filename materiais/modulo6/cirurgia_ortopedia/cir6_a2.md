@@ -7,15 +7,15 @@
 
 ## Relevância Clínica e Acadêmica
 
-A apendicite aguda é a causa cirúrgica mais comum de abdome agudo. O raciocínio integra fisiopatologia (obstrução → hipertensão luminal → isquemia → bacterial translocation), quadro temporal (migração da dor), escores clínicos (Alvarado/AIR; conceito, não dogma), imagem (USG x TC) e conduta (tempo cirúrgico, antibiótico, complicações). Em prova, a banca cobra populações especiais (grávida, idoso, criança) e diagnósticos miméticos.
+A **apendicite aguda** é a causa cirúrgica mais comum de abdome agudo. O raciocínio integra **fisiopatologia** (obstrução → hipertensão luminal → isquemia → bacterial translocation), **quadro temporal** (migração da dor), **escores clínicos** (Alvarado/AIR; conceito, não dogma), **imagem** (USG x TC) e **conduta** (tempo cirúrgico, antibiótico, complicações). Em prova, a banca cobra **populações especiais** (grávida, idoso, criança) e **diagnósticos miméticos**.
 
 ---
 
 ## Fisiopatologia (linha do tempo mental)
 
-Obstrução do lúmen por fecólito, hiperplasia linfoide (pico em crianças), parasitas ou estenose rara → aumento da pressão intraluminal → comprometimento venoso/arterial → isquemia mucosa → invasão bacteriana e inflamação transmural. Perfuração ocorre quando a parede não resiste; abscesso ou plastrão são respostas de contenção local.
+Obstrução do lúmen por **fecólito**, **hiperplasia linfoide** (pico em crianças), **parasitas** ou **estenose** rara → aumento da pressão intraluminal → comprometimento venoso/arterial → isquemia mucosa → invasão bacteriana e inflamação transmural. **Perfuração** ocorre quando a parede não resiste; **abscesso** ou **plastrão** são respostas de contenção local.
 
-> **Pegadinha:** Apêndice retrocecal pode alterar localização da dor e sensibilidade dos sinais clássicos — mantenha baixo limiar para imagem.
+> **Pegadinha:** **Apêndice retrocecal** pode alterar localização da dor e sensibilidade dos sinais clássicos — mantenha **baixo limiar** para imagem.
 
 ---
 
@@ -26,7 +26,7 @@ Obstrução do lúmen por fecólito, hiperplasia linfoide (pico em crianças), p
 3. Migração para **FID** em 12–48 h (irritação peritoneal parietal).  
 4. Febre baixa/modesta, leucocitose (podem faltar no início).
 
-### Escala de Alvarado (ideia para prova)
+### Escala de Alvarado (visão de prova)
 
 | Pontos | Critério |
 |--------|----------|
@@ -60,11 +60,11 @@ Obstrução do lúmen por fecólito, hiperplasia linfoide (pico em crianças), p
 
 | Diagnóstico | Pistas | Exame-chave |
 |-------------|--------|-------------|
-| Gastroenterite | Diarreia aquosa, múltiplos membros afetados | Evolução em 24–48 h, hidratação |
-| Adenite mesentérica | Criança, dor periumbilical, LNH | USG com linfonodos |
-| Divertículo de Meckel | Hemorragia, dor em FID atípica | TC, cintilografia se disponível |
-| Ginecopatologias | Dor pélvica, menstruação, corrimento | USG transvaginal, beta-HCG |
-| Ureterolitíase | Cólica lombar, hematúria | Urina, TC se indicado |
+| **Gastroenterite** | Diarreia aquosa, múltiplos membros afetados | Evolução em 24–48 h, hidratação |
+| **Adenite mesentérica** | Criança, dor periumbilical, LNH | USG com linfonodos |
+| **Divertículo de Meckel** | Hemorragia, dor em FID atípica | TC, cintilografia se disponível |
+| **Ginecopatologias** | Dor pélvica, menstruação, corrimento | USG transvaginal, beta-HCG |
+| **Ureterolitíase** | Cólica lombar, hematúria | Urina, TC se indicado |
 
 ### Figura sugerida
 
@@ -105,7 +105,7 @@ Obstrução do lúmen por fecólito, hiperplasia linfoide (pico em crianças), p
 
 ## Tratamento e complicações
 
-Apendicectomia (laparoscópica ou aberta) é padrão na maioria dos casos não complicados. Antibiótico pré-operatório reduz infecção de sítio cirúrgico; ampliar espectro se perfuração, abscesso ou peritonite. Protocolos de apendicite não complicada apenas com antibiótico existem — cabe ao serviço e à seleção rigorosa.
+**Apendicectomia** (laparoscópica ou aberta) é padrão na maioria dos casos não complicados. **Antibiótico** pré-operatório reduz infecção de sítio cirúrgico; **ampliar** espectro se perfuração, abscesso ou peritonite. Protocolos de **apendicite não complicada** apenas com antibiótico existem — cabe ao serviço e à seleção rigorosa.
 
 **Complicações:** abscesso, fístula, sepse, **De Garengeot** (apendicite em hérnia femoral — tema raro mas memorável).
 
@@ -113,7 +113,7 @@ Apendicectomia (laparoscópica ou aberta) é padrão na maioria dos casos não c
 
 ## Ponte com a Clínica
 
-Criança com anorexia nova e dor abdominal evolutiva merece reavaliação em horas, não “alta para casa” automática. Em idosos, perfuração pode ser precoce com sintomas discretos — documente horário do início dos sintomas e decisões.
+Criança com **anorexia nova** e dor abdominal evolutiva merece **reavaliação em horas**, não “alta para casa” automática. Em **idosos**, perfuração pode ser **precoce** com sintomas discretos — documente horário do início dos sintomas e decisões.
 
 ---
 
@@ -130,12 +130,11 @@ Criança com anorexia nova e dor abdominal evolutiva merece reavaliação em hor
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Alvarado** — componentes e limitações.
-- **Apendicite retrocecal** — apresentação atípica.
-- **Gravidez** — deslocamento do apêndice; USG primeiro.
-- **Perfuração** — peritonismo, leucocitose pode não disparar.
+Na prova, lembre que Alvarado — componentes e limitações. Apendicite retrocecal — apresentação atípica.
+
+Para não errar em cenário clínico, considere também Gravidez — deslocamento do apêndice; USG primeiro. Perfuração — peritonismo, leucocitose pode não disparar.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -149,14 +148,3 @@ Criança com anorexia nova e dor abdominal evolutiva merece reavaliação em hor
 ### Frase-âncora para não esquecer
 
 > “**Fome** nova em criança com dor abdominal = apendicite até provar o contrário.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione indicação, timing e via de acesso com estabilidade hemodinâmica e recursos. Consentimento e equipe definem segurança tanto quanto o passo técnico.
-
-### Leitura de reforço
-
-- Cirurgia geral / protocolos de antibiótico profilático
-- Diretrizes locais de apendicite não complicada (antibiótico primário)

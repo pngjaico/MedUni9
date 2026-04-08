@@ -15,7 +15,7 @@
 
 **Disphagia progressiva**, perda ponderal, odinofagia. **Esofagite grave** e Barrett são campos de **adenocarcinoma distal**. **Espinocelular** — sintomas precoces às vezes (disfagia), metástases locorregionais.
 
-### Tratamento (ideia)
+### Tratamento (visão de prova)
 
 **Ressecção** com neoadjuvância em estádios locais avançados; **quimiorradioterapia** em espinocelular conforme estadiamento. **Paliativo**: stent esofágico, nutrição enteral.
 
@@ -91,11 +91,11 @@ Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Dis
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Barrett** — vigilância endoscópica conforme protocolo.
-- **CEA** — seguimento pós-tratamento, não diagnóstico inicial.
-- **Metástase hepática** — ressecabilidade em discussão multidisciplinar.
+Na prova, lembre que Barrett — vigilância endoscópica conforme protocolo. CEA — seguimento pós-tratamento, não diagnóstico inicial.
+
+Para não errar em cenário clínico, considere também Metástase hepática — ressecabilidade em discussão multidisciplinar.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Dis
 ### Frase-âncora para não esquecer
 
 > “**Colonoscopia** salva vidas — **anemia** sem causa é **pista**, não acaso.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **cirurgia robótica**, **ostomias temporárias** e **reabilitação** em reto baixo. Consentimento informado deve incluir função esfincteriana e sexual.
-
-### Leitura de reforço
-
-- Diretrizes de rastreio colorretal
-- Protocolo Nigro e manejo de toxicidades da QRT

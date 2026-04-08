@@ -1,0 +1,232 @@
+[
+  {
+    "id": 912,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "O pH arterial em condições basais saudáveis situa-se aproximadamente em:",
+    "opcoes": [
+      "A) 7,35–7,45.",
+      "B) 7,00 exato (neutro).",
+      "C) 6,80–6,90.",
+      "D) 7,55–7,65."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "pH arterial normal 7,35–7,45; abaixo acidemia, acima alcalemia.",
+    "explicacoes_opcoes": {
+      "A": "Correta: faixa fisiológica usual.",
+      "B": "Incorreta: neutro não é o pH arterial fisiológico.",
+      "C": "Incorreta: muito ácido para sangue arterial.",
+      "D": "Incorreta: alcalemia acima da faixa fisiológica."
+    },
+    "explicacao": "Resumo: Sangue arterial é levemente alcalino.\nA) CORRETA. Correta: faixa fisiológica usual.\nB) INCORRETA. Incorreta: neutro não é o pH arterial fisiológico.\nC) INCORRETA. Incorreta: muito ácido para sangue arterial.\nD) INCORRETA. Incorreta: alcalemia acima da faixa fisiológica."
+  },
+  {
+    "id": 913,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "O principal sistema tampão do espaço extracelular no sangue é:",
+    "opcoes": [
+      "A) Sistema fosfato H₂PO₄⁻/HPO₄²⁻ como dominante plasmático.",
+      "B) Sistema bicarbonato/CO₂ dissolvido (integrado a ventilação e rim).",
+      "C) Hemoglobina livre no plasma.",
+      "D) Proteínas plasmáticas isoladas, sem participação do CO₂."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Bicarbonato/CO₂ é o principal tampão extracelular; fosfato e proteínas contribuem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fosfato é mais relevante intracelular/urinário.",
+      "B": "Correta: sistema bicarbonato/CO₂ descrito como principal extracelular.",
+      "C": "Incorreta: hemoglobina tampão está principalmente nos eritrócitos.",
+      "D": "Incorreta: ignora o papel central do par CO₂/HCO₃⁻."
+    },
+    "explicacao": "Resumo: CO₂/HCO₃⁻ é o eixo principal no plasma.\nA) INCORRETA. Incorreta: fosfato é mais relevante intracelular/urinário.\nB) CORRETA. Correta: sistema bicarbonato/CO₂ descrito como principal extracelular.\nC) INCORRETA. Incorreta: hemoglobina tampão está principalmente nos eritrócitos.\nD) INCORRETA. Incorreta: ignora o papel central do par CO₂/HCO₃⁻."
+  },
+  {
+    "id": 914,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Na equação de Henderson-Hasselbalch, o termo ligado à concentração de CO₂ dissolvido no plasma é proporcional a:",
+    "opcoes": [
+      "A) Saturação de O₂ pela hemoglobina.",
+      "B) Hematócrito isolado.",
+      "C) PCO₂ arterial.",
+      "D) Osmolaridade efetiva sem CO₂."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Henderson-Hasselbalch usa HCO₃⁻ e termo proporcional a PCO₂ (ex.: 0,03×PCO₂).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: O₂ não substitui o papel do CO₂ na equação.",
+      "B": "Incorreta: hematócrito não é o termo de CO₂ dissolvido.",
+      "C": "Correta: CO₂ dissolvido relaciona-se à PCO₂.",
+      "D": "Incorreta: a equação clássica inclui explicitamente o CO₂."
+    },
+    "explicacao": "Resumo: pH depende de HCO₃⁻ e PCO₂.\nA) INCORRETA. Incorreta: O₂ não substitui o papel do CO₂ na equação.\nB) INCORRETA. Incorreta: hematócrito não é o termo de CO₂ dissolvido.\nC) CORRETA. Correta: CO₂ dissolvido relaciona-se à PCO₂.\nD) INCORRETA. Incorreta: a equação clássica inclui explicitamente o CO₂."
+  },
+  {
+    "id": 915,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Paciente com exacerbação de DPOC; gasometria: pH baixo, PaCO₂ elevado e HCO₃⁻ elevado (compensação). O distúrbio primário mais coerente é:",
+    "opcoes": [
+      "A) Alcalose metabólica por retenção renal de HCO₃⁻.",
+      "B) Acidose metabólica com perda de bicarbonato.",
+      "C) Alcalose respiratória por hiperventilação.",
+      "D) Acidose respiratória por hipoventilação alveolar."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Acidose respiratória: pH↓, PCO₂↑ primário; HCO₃⁻ sobe como compensação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pH baixo não é alcalose metabólica primária.",
+      "B": "Incorreta: acidose metabólica primária reduz HCO₃⁻.",
+      "C": "Incorreta: hiperventilação reduz PCO₂ e eleva pH.",
+      "D": "Correta: retenção de CO₂ — padrão clássico."
+    },
+    "explicacao": "Resumo: CO₂ retido — acidose respiratória.\nA) INCORRETA. Incorreta: pH baixo não é alcalose metabólica primária.\nB) INCORRETA. Incorreta: acidose metabólica primária reduz HCO₃⁻.\nC) INCORRETA. Incorreta: hiperventilação reduz PCO₂ e eleva pH.\nD) CORRETA. Correta: retenção de CO₂ — padrão clássico."
+  },
+  {
+    "id": 916,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Mulher com hiperventilação por ansiedade aguda; pH elevado, PaCO₂ baixo e leve queda de HCO₃⁻. O mecanismo primário esperado é:",
+    "opcoes": [
+      "A) Acidose metabólica por perda renal de bicarbonato.",
+      "B) Retenção de CO₂ por depressão respiratória.",
+      "C) Alcalose respiratória por eliminação excessiva de CO₂.",
+      "D) Elevação primária de bicarbonato sérico."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Hiperventilação → ↓PCO₂ → pH↑; HCO₃⁻ pode cair levemente por compensação renal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pH alto não é acidose metabólica primária.",
+      "B": "Incorreta: depressão respiratória elevaria PCO₂.",
+      "C": "Correta: eliminação de CO₂ — alcalose respiratória.",
+      "D": "Incorreta: bicarbonato elevado primário seria alcalose metabólica."
+    },
+    "explicacao": "Resumo: Blow off de CO₂.\nA) INCORRETA. Incorreta: pH alto não é acidose metabólica primária.\nB) INCORRETA. Incorreta: depressão respiratória elevaria PCO₂.\nC) CORRETA. Correta: eliminação de CO₂ — alcalose respiratória.\nD) INCORRETA. Incorreta: bicarbonato elevado primário seria alcalose metabólica."
+  },
+  {
+    "id": 917,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Em acidose metabólica, a compensação respiratória pode ser estimada por Winter: PaCO₂ ≈ (1,5 × HCO₃⁻) + 8 (±2). Com HCO₃⁻ = 10 mEq/L, qual PaCO₂ (mmHg) melhor se alinha à compensação esperada?",
+    "opcoes": [
+      "A) ~40 mmHg",
+      "B) ~50 mmHg",
+      "C) ~15 mmHg",
+      "D) ~23 mmHg"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Winter: 1,5×10+8 = 23; hiperventilação compensatória reduz PCO₂.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: alto demais para compensação com HCO₃⁻ 10.",
+      "B": "Incorreta: sugere retenção de CO₂, não compensação metabólica.",
+      "C": "Incorreta: subestima em relação à fórmula para HCO₃⁻ 10.",
+      "D": "Correta: 1,5×10+8 = 23."
+    },
+    "explicacao": "Resumo: Winter prevê PCO₂ ~23 com HCO₃⁻ 10.\nA) INCORRETA. Incorreta: alto demais para compensação com HCO₃⁻ 10.\nB) INCORRETA. Incorreta: sugere retenção de CO₂, não compensação metabólica.\nC) INCORRETA. Incorreta: subestima em relação à fórmula para HCO₃⁻ 10.\nD) CORRETA. Correta: 1,5×10+8 = 23."
+  },
+  {
+    "id": 918,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "O ânion gap (AG) plasmático é calculado classicamente como Na⁺ − (Cl⁻ + HCO₃⁻). Um AG elevado com acidose metabólica é típico de:",
+    "opcoes": [
+      "A) Acúmulo de ácidos orgânicos não medidos (ex.: cetoacidose, acidose láctica).",
+      "B) Perda intestinal de HCO₃⁻ por diarreia (acidose hiperclorêmica).",
+      "C) Infusão excessiva de solução salina isotônica com predomínio de Cl⁻.",
+      "D) Obstrução urinária baixa sem componente ácido-base primário."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AG elevado: cetoacidose, lactato, toxinas; AG normal: diarreia, tubular, etc.",
+    "explicacoes_opcoes": {
+      "A": "Correta: aumenta ânions não medidos.",
+      "B": "Incorreta: diarreia costuma manter AG próximo do normal (hipercloremia).",
+      "C": "Incorreta: excesso de Cl⁻ tende a acidose hiperclorêmica (AG normal).",
+      "D": "Incorreta: não descreve mecanismo clássico de AG elevado."
+    },
+    "explicacao": "Resumo: AG alto — ácidos orgânicos.\nA) CORRETA. Correta: aumenta ânions não medidos.\nB) INCORRETA. Incorreta: diarreia costuma manter AG próximo do normal (hipercloremia).\nC) INCORRETA. Incorreta: excesso de Cl⁻ tende a acidose hiperclorêmica (AG normal).\nD) INCORRETA. Incorreta: não descreve mecanismo clássico de AG elevado."
+  },
+  {
+    "id": 919,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Qual afirmação sobre o sistema tampão fosfato (H₂PO₄⁻/HPO₄²⁻) é mais precisa?",
+    "opcoes": [
+      "A) É o principal tampão plasmático em concentração equivalente ao bicarbonato.",
+      "B) Tem pKa ~6,8, relevante intracelularmente e no túbulo renal.",
+      "C) Depende exclusivamente da albumina plasmática.",
+      "D) Substitui a ventilação na eliminação de CO₂."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Fosfato pKa ~6,8; importante intracelular e urinário.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: bicarbonato domina extracelular.",
+      "B": "Correta: alinhado ao material.",
+      "C": "Incorreta: mistura com tampão proteico sem descrever fosfato.",
+      "D": "Incorreta: CO₂ é eliminado pelos pulmões."
+    },
+    "explicacao": "Resumo: Fosfato complementa bicarbonato.\nA) INCORRETA. Incorreta: bicarbonato domina extracelular.\nB) CORRETA. Correta: alinhado ao material.\nC) INCORRETA. Incorreta: mistura com tampão proteico sem descrever fosfato.\nD) INCORRETA. Incorreta: CO₂ é eliminado pelos pulmões."
+  },
+  {
+    "id": 920,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Homem com vômitos persistentes, pH e HCO₃⁻ elevados, hipocloremia. O distúrbio primário mais provável é:",
+    "opcoes": [
+      "A) Acidose respiratória aguda.",
+      "B) Acidose metabólica por cetoacidose.",
+      "C) Alcalose metabólica por perda de H⁺ e Cl⁻.",
+      "D) Alcalose respiratória aguda isolada."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Vômito perde HCl — alcalose metabólica hipoclorêmica; material lista vômitos como causa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: acidose respiratória reduz pH.",
+      "B": "Incorreta: cetoacidose reduz pH e HCO₃⁻.",
+      "C": "Correta: perda gástrica de ácido e cloreto.",
+      "D": "Incorreta: hiperventilação não explica hipocloremia metabólica clássica."
+    },
+    "explicacao": "Resumo: Perda de HCl — alcalose metabólica.\nA) INCORRETA. Incorreta: acidose respiratória reduz pH.\nB) INCORRETA. Incorreta: cetoacidose reduz pH e HCO₃⁻.\nC) CORRETA. Correta: perda gástrica de ácido e cloreto.\nD) INCORRETA. Incorreta: hiperventilação não explica hipocloremia metabólica clássica."
+  },
+  {
+    "id": 921,
+    "materia": "bcm1",
+    "tema": "bcm1_a2",
+    "enunciado": "Na acidose metabólica primária, o componente químico que tipicamente se altera na direção do pH baixo é:",
+    "opcoes": [
+      "A) HCO₃⁻ elevado em relação ao basal.",
+      "B) PaCO₂ elevado como alteração primária isolada.",
+      "C) PaCO₂ sem relação com o metabolismo do bicarbonato.",
+      "D) HCO₃⁻ reduzido (primário)."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Acidose metabólica primária: HCO₃⁻↓ com pH↓; PCO₂ pode cair compensando.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: HCO₃⁻ alto seria alcalose metabólica.",
+      "B": "Incorreta: PCO₂ elevado primário define acidose respiratória.",
+      "C": "Incorreta: há compensação ventilatória esperada.",
+      "D": "Correta: consumo/perda de bicarbonato ou ganho de ácido."
+    },
+    "explicacao": "Resumo: Primário metabólico — queda de HCO₃⁻.\nA) INCORRETA. Incorreta: HCO₃⁻ alto seria alcalose metabólica.\nB) INCORRETA. Incorreta: PCO₂ elevado primário define acidose respiratória.\nC) INCORRETA. Incorreta: há compensação ventilatória esperada.\nD) CORRETA. Correta: consumo/perda de bicarbonato ou ganho de ácido."
+  }
+]

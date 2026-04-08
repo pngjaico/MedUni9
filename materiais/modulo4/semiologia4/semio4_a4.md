@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O exame motor e a avaliação dos reflexos tendíneos são os pilares da localização neurológica. Identificar se a lesão é do neurônio motor superior (NMS) ou inferior (NMI) guia todo diagnóstico diferencial — de AVC a ELA, de hérnia de disco a Guillain-Barré. A **Uninove** cobra essa distinção em questões de raciocínio clínico e em provas práticas com OSCE.
+O exame motor e a avaliação dos reflexos tendíneos são os pilares da localização neurológica. Identificar se a lesão é do neurônio motor superior (NMS) ou inferior (NMI) guia todo diagnóstico diferencial — de AVC a ELA, de hérnia de disco a Guillain-Barré. A Uninove cobra essa distinção em questões de raciocínio clínico e em provas práticas com OSCE.
 
 ### Figura sugerida
 
@@ -133,22 +133,20 @@ O reflexo de estiramento testa a integridade do arco: receptor fusiforme → fib
 
 ## Ponte com a Clínica
 
-No pronto-socorro neurológico, a distinção NMS vs NMI gera o diagnóstico diferencial: hemiplegia espástica → investigar AVC; paraplegia flácida com perda sensitiva → mielopatia aguda (compressão, **isquemia**, mielite); fraqueza proximal progressiva com fasciculações + espasticidade → ELA. Reflexos são rápidos, objetivos e não requerem cooperação plena do paciente.
+No pronto-socorro neurológico, a distinção NMS vs NMI gera o diagnóstico diferencial: hemiplegia espástica → investigar AVC; paraplegia flácida com perda sensitiva → mielopatia aguda (compressão, isquemia, mielite); fraqueza proximal progressiva com fasciculações + espasticidade → ELA. Reflexos são rápidos, objetivos e não requerem cooperação plena do paciente.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Grau 3 MRC: vence a gravidade sem resistência — ponto crítico da escala. Babinski positivo em adulto: extensão do hálux = lesão de NMS (trato piramidal).
-
-NMS crônico: espasticidade + hiper-reflexia + Babinski. NMI: flacidez + hipo/arreflexia + fasciculações + atrofia precoce.
-
-Choque neural agudo: flacidez transitória mesmo em lesão de NMS. Reflexo patelar = L2–L4; aquileu = S1–S2 — raízes para localização.
+- **Grau 3 MRC:** vence a gravidade sem resistência — ponto crítico da escala.
+- **Babinski positivo em adulto:** extensão do hálux = lesão de NMS (trato piramidal).
+- **NMS crônico:** espasticidade + hiper-reflexia + Babinski.
+- **NMI:** flacidez + hipo/arreflexia + fasciculações + atrofia precoce.
+- **Choque neural agudo:** flacidez transitória mesmo em lesão de NMS.
+- **Reflexo patelar = L2–L4; aquileu = S1–S2** — raízes para localização.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -160,5 +158,4 @@ Choque neural agudo: flacidez transitória mesmo em lesão de NMS. Reflexo patel
 | Hemiplegia aguda | Hemiplegia crônica | Aguda = flácida; crônica = espástica |
 
 ### Frase-âncora para não esquecer
-
 > "NMS: tudo para cima (tônus ↑, reflexos ↑, Babinski ↑). NMI: tudo para baixo (flacidez, arreflexia, atrofia)."

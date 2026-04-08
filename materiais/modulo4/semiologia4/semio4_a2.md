@@ -9,7 +9,7 @@
 
 A anamnese neurológica é o ponto de maior rendimento do atendimento: muitas vezes, antes de qualquer exame complementar, ela já define topografia provável, hipótese sindrômica e grau de urgência. Em neurologia, perguntar bem é tão importante quanto examinar bem, porque o padrão temporal e a distribuição dos sintomas carregam informação diagnóstica forte.
 
-Na **Uninove**, os casos costumam ser cobrados com enunciado curto e poucos achados de exame, justamente para testar se o aluno reconhece os dados-chave da história clínica. Quem organiza a anamnese por eixo temporal, eixo funcional e sinais de alarme costuma acertar mais.
+Na Uninove, os casos costumam ser cobrados com enunciado curto e poucos achados de exame, justamente para testar se o aluno reconhece os dados-chave da história clínica. Quem organiza a anamnese por eixo temporal, eixo funcional e sinais de alarme costuma acertar mais.
 
 ### Figura sugerida
 
@@ -72,7 +72,7 @@ Pergunte ainda por uso de anticoagulante, imunossupressão, história de câncer
 
 ## Histórico Neurológico Prévio, Comorbidades e Medicamentos
 
-A história pregressa organiza risco. AVC prévio, epilepsia, enxaqueca com aura, neuropatia diabética e doenças autoimunes mudam o **valor preditivo** de sintomas atuais. Comorbidades cardiovasculares elevam probabilidade de eventos isquêmicos.
+A história pregressa organiza risco. AVC prévio, epilepsia, enxaqueca com aura, neuropatia diabética e doenças autoimunes mudam o valor preditivo de sintomas atuais. Comorbidades cardiovasculares elevam probabilidade de eventos isquêmicos.
 
 Medicamentos também são parte da anamnese neurológica: sedativos, anticolinérgicos, antipsicóticos, anticonvulsivantes e retirada abrupta de fármacos podem causar ou simular quadro neurológico. Em idosos, polifarmácia aumenta risco de confusão diagnóstica.
 
@@ -111,7 +111,7 @@ Em alteração cognitiva, sempre caracterize instalação (aguda/subaguda/crôni
 
 A anamnese neurológica bem feita prepara o exame físico direcionado. Se a história sugere via longa central, você prioriza força segmentar, reflexos e sinal plantar. Se sugere padrão periférico, ganha peso a avaliação segmentar por território, trofismo e distribuição de déficit.
 
-Quando a história sugere **tronco encefálico**, os pares cranianos entram cedo na sequência de exame. Quando sugere síndrome cerebelar, as provas de coordenação e marcha tornam-se centrais. Essa integração evita exame “enciclopédico” e melhora eficiência clínica.
+Quando a história sugere tronco encefálico, os pares cranianos entram cedo na sequência de exame. Quando sugere síndrome cerebelar, as provas de coordenação e marcha tornam-se centrais. Essa integração evita exame “enciclopédico” e melhora eficiência clínica.
 
 Outro benefício é a qualidade da documentação. Em vez de anotar apenas “déficit neurológico”, registre hipótese sindrômica inicial, dados de história que sustentam essa hipótese e pontos que ainda precisam ser testados no exame físico.
 
@@ -189,17 +189,15 @@ Em cenário real, uma anamnese neurológica bem estruturada reduz erro, acelera 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Primeiro qualifique o sintoma: “fraqueza” e “tontura” precisam ser traduzidas clinicamente. Tempo de início orienta hipótese: súbito, subagudo e crônico não significam a mesma coisa.
-
-Distribuição do sintoma localiza: hemicorpo, dermátomo e padrão distal têm pesos diferentes. Sinais de alarme neurológico definem urgência e mudam prioridade de investigação.
-
-Medicação e comorbidades entram na hipótese, não apenas na burocracia da história. Boa hipótese inicial integra tempo + topografia + função.
+- **Primeiro qualifique o sintoma:** “fraqueza” e “tontura” precisam ser traduzidas clinicamente.
+- **Tempo de início orienta hipótese:** súbito, subagudo e crônico não significam a mesma coisa.
+- **Distribuição do sintoma localiza:** hemicorpo, dermátomo e padrão distal têm pesos diferentes.
+- **Sinais de alarme neurológico definem urgência** e mudam prioridade de investigação.
+- **Medicação e comorbidades entram na hipótese,** não apenas na burocracia da história.
+- **Boa hipótese inicial integra tempo + topografia + função.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -211,5 +209,4 @@ Medicação e comorbidades entram na hipótese, não apenas na burocracia da his
 | História desorganizada | História neurológica útil | Útil integra sintoma, tempo, topografia e impacto funcional |
 
 ### Frase-âncora para não esquecer
-
 > "Na neuro, história bem feita já aponta o caminho antes do exame começar."

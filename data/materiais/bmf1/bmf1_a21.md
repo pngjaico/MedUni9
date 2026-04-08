@@ -7,19 +7,17 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **fígado** metaboliza nutrientes, sintetiza **proteínas**, **coagulação** e **bile**; a **bile** segue **canais intra-hepáticos** até **ductos hepáticos** direito/esquerdo, **ducto hepático comum**, **cístico** e **colédoco** até a **ampola** duodenal. O **pâncreas** secreta **enzimas** (exócrino) e **hormônios** (endócrino). Compreender **porta hepática**, **vesícula** e **relação** com o **duodeno** evita confusão em **colelitíase**, **icterícia** e **imagem** de **massa** pancreática.
+O **Fígado** e o **Pâncreas** são as grandes glândulas anexas do digestório. Para a prova, domine a anatomia da **Árvore Biliar** (da vesícula ao **Colédoco**) e o conteúdo da **Porta Hepática**. Na clínica, o conhecimento sobre a **Ampola de Vater** e a relação da **Cabeça do Pâncreas** com o **Duodeno** é vital para entender a **Icterícia Obstrutiva** e o câncer pancreático.
 
 ---
 
 ## Superfícies e lobos do fígado
 
-O fígado tem **face diafragmática** e **visceral**, com **ligamento falciforme** separando **lobos direito** e **esquerdo** na superfície — **segmentação** funcional (Couinaud) é **cirurgia** avançada; em BMF1, **lobos** e **vesícula** na **fossa** são âncoras.
-
----
-
-## Porta hepática: conteúdo em ordem mnemônica
-
-Na **porta** (hilum), estruturas entram e saem em **arranjo** clássico: **veia porta** (atrás), **artéria hepática** e **ducto biliar** (anterior) — variações existem; use **atlas** para fixar **foto** mental.
+O fígado possui duas faces. A **Face Visceral** contém o "H" hepático, onde se localiza a **Porta Hepática** (Hilo).
+**Conteúdo da Porta Hepática (de anterior para posterior):**
+1.  **Ducto Biliar:** À direita.
+2.  **Artéria Hepática Própria:** À esquerda.
+3.  **Veia Porta:** Posteriormente (o maior vaso).
 
 ### Figura sugerida
 
@@ -35,7 +33,12 @@ Na **porta** (hilum), estruturas entram e saem em **arranjo** clássico: **veia 
 
 ## Vesícula biliar e árvore biliar
 
-A **vesícula** armazena e **concentra** bile; o **ducto cístico** une-se ao **hepático comum** formando o **colédoco**. **Obstrução** do colédoco → **icterícia** **obstrutiva** com padrão de **enzimas** e **imagem** dilatando **vias** — anatomia explica **onde** a pedra **trava**.
+A bile é produzida no fígado, armazenada na **Vesícula Biliar** e liberada após a ingestão de gordura.
+- **Ducto Cístico:** Sai da vesícula.
+- **Ducto Hepático Comum:** Vem do fígado.
+- **Colédoco:** União do Cístico + Hepático Comum. Desemboca na **Papila Maior** do duodeno.
+
+**Icterícia Obstrutiva:** Ocorre quando uma pedra (**Lítero**) trava no colédoco, impedindo a bile de chegar ao intestino. O paciente fica "amarelo" e as fezes ficam claras (**Acolia**).
 
 ---
 
@@ -65,40 +68,18 @@ O **hilo** hepático concentra **estruturas** e **linfonodos** de **drenagem** p
 
 ## Pontos-Chave para Prova
 
-- **Lobo direito** maior; **vesícula** na **fossa**.
-- **Porta**: **veia porta**, **artéria hepática**, **ducto** (disposição relativa).
-- **Colédoco** até **duodeno** descendente — **ampola**.
-- **Cabeça pancreática** e **duodeno**; **cauda** e **baço**.
-- **Ducto** pancreático principal e **papila** maior.
+- **Cabeça do Pâncreas:** Envolvida pelo Duodeno. Se houver tumor aqui, o paciente terá icterícia precoce.
+- **Cauda do Pâncreas:** Relaciona-se com o **Hio Esplênico** (Baço).
+- **Esfíncter de Oddi:** Músculo que regula a saída de bile e suco pancreático na **Ampola de Vater**.
+- **Veias Hepáticas:** Diferente da Veia Porta, estas drenam diretamente na **Veia Cava Inferior**.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Trajeto da **bile** do **fígado** ao **duodeno** em **cinco** estruturas nomeadas (parcialmente variável).
-- Onde está a **vesícula** em relação ao **lobo** hepático.
-- Uma frase sobre **papila** maior e **colédoco**/**Wirsung**.
-- Por que **obstrução** distal do **colédoco** pode dilatar **intra-hepático** (conceito).
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Ducto hepático comum | Colédoco | Antes vs depois da junção com cístico |
-| Veia porta | Veia hepática | Entrada nutricional vs saída para cava |
-| Cabeça pancreática | Corpo | Relação com duodeno versus mesentério |
-| Hepatócito | Célula acinar | Metabolismo hepático versus enzimas digestivas |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Cístico** | **Colédoco** | Ducto da Vesícula vs Ducto que vai ao Duodeno |
+| **Wirsung** | **Santorini** | Ducto Principal vs Ducto Acessório |
+| **Veia Porta** | **Art. Hepática** | 75% do sangue (Nutriente) vs 25% (Oxigênio) |
+| **Pâncreas** | **Baço** | Canto Direito/Centro vs Canto Esquerdo |
 
 ### Frase-âncora para não esquecer
 
 > “Bile desce por ductos; a cabeça do pâncreas abraça o duodeno onde tudo se encontra na papila.”
-
----
-
-## Referências de estudo
-
-Moore (abdome superior); Netter (hepatobiliar); revisar **bmf1_a19** (duodeno) e **bmf1_a20** (celíaca e portal).

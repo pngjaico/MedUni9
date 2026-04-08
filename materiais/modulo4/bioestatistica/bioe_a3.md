@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Quando um artigo científico apresenta os dados dos participantes, usa medidas de tendência central e dispersão para resumir a informação. "Pacientes tinham média de 58 ± 12 anos de idade" — o 58 é a média, o 12 é o desvio padrão. Saber interpretar esses números é essencial para avaliar se a amostra do estudo é parecida com seus pacientes e se as conclusões se aplicam à sua realidade. A **Uninove** cobra essas medidas tanto de forma conceitual ("qual medida de tendência central é mais adequada para variáveis com distribuição assimétrica?") quanto com cálculo direto.
+Quando um artigo científico apresenta os dados dos participantes, usa medidas de tendência central e dispersão para resumir a informação. "Pacientes tinham média de 58 ± 12 anos de idade" — o 58 é a média, o 12 é o desvio padrão. Saber interpretar esses números é essencial para avaliar se a amostra do estudo é parecida com seus pacientes e se as conclusões se aplicam à sua realidade. A Uninove cobra essas medidas tanto de forma conceitual ("qual medida de tendência central é mais adequada para variáveis com distribuição assimétrica?") quanto com cálculo direto.
 
 ### Figura sugerida
 
@@ -129,22 +129,24 @@ Um percentil divide a distribuição de forma que X% dos dados ficam abaixo dele
 
 ## Ponte com a Clínica
 
-Curvas de crescimento do SINASC/**OMS** usam percentis para identificar desnutrição (< P3) e sobrepeso (> P97). Um exame laboratorial "normal" significa que o resultado cai dentro da faixa que engloba 95% da população saudável (x̄ ± 2 DP) — portanto, 5% da população saudável terá resultado "fora do normal". Quanto mais exames você pede, maior a chance de um resultado falso positivo por pura variação estatística.
+Curvas de crescimento do SINASC/OMS usam percentis para identificar desnutrição (< P3) e sobrepeso (> P97). Um exame laboratorial "normal" significa que o resultado cai dentro da faixa que engloba 95% da população saudável (x̄ ± 2 DP) — portanto, 5% da população saudável terá resultado "fora do normal". Quanto mais exames você pede, maior a chance de um resultado falso positivo por pura variação estatística.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Distribuição assimétrica à direita:** Moda < Mediana < Média — usa mediana + IIQ.
+- **Distribuição normal/simétrica:** Média = Mediana = Moda — usa média ± DP.
+- **Moda:** única medida para variável nominal.
+- **Regra empírica:** ±1DP = 68%; ±2DP = 95%; ±3DP = 99,7%.
+- **IIQ = P75 − P25** (50% centrais dos dados); vai com mediana.
+- **EPM = DP/√n** — precisão da estimativa; DP = variabilidade dos dados individuais.
+- **Outlier:** puxa a média, não afeta a mediana.
+- **Percentis crescimento:** P3–P97 = faixa normal; abaixo P3 = baixo peso.
 
-
-Distribuição assimétrica à direita: Moda < Mediana < Média — usa mediana + IIQ. Distribuição normal/simétrica: Média = Mediana = Moda — usa média ± DP. Moda: única medida para variável nominal.
-
-Regra empírica: ±1DP = 68%; ±2DP = 95%; ±3DP = 99,7%. IIQ = P75 − P25 (50% centrais dos dados); vai com mediana. EPM = DP/√n — precisão da estimativa; DP = variabilidade dos dados individuais.
-
-Outlier: puxa a média, não afeta a mediana. Percentis crescimento: P3–P97 = faixa normal; abaixo P3 = baixo peso.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -156,5 +158,4 @@ Outlier: puxa a média, não afeta a mediana. Percentis crescimento: P3–P97 = 
 | Assimétrica direita | Assimétrica esquerda | Direita: cauda positiva, Média > Mediana; Esquerda: cauda negativa, Média < Mediana |
 
 ### Frase-âncora para não esquecer
-
 > "Outlier puxa a média mas nunca move a mediana — se tiver um milionário na sala, a renda média explode, mas a mediana mal se move."

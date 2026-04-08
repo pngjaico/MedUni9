@@ -1,0 +1,319 @@
+{
+  "version": 2,
+  "generatedAt": "2026-04-06",
+  "minImageArea": 40000,
+  "sourceManifest": "data/instrumentais/extract_manifest.json",
+  "missingKeywordEntries": [],
+  "unmappedInstrumentIds": [],
+  "reviewSuggestedIds": [],
+  "fallbackMinArea": null,
+  "note": "Gerado por build_to_instrumentais_catalogo_pdf.py — imagens fixas por ordem do catálogo PDF.",
+  "byInstrumentId": {
+    "cabo_bisturi_no3": {
+      "instrumentoId": "cabo_bisturi_no3",
+      "imagem": "/data/instrumentais/mesa_p002_img01_xr118.png",
+      "page": 2,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "cabo_bisturi_no4": {
+      "instrumentoId": "cabo_bisturi_no4",
+      "imagem": "/data/instrumentais/mesa_p002_img02_xr119.png",
+      "page": 2,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "tesoura_mayo_curva": {
+      "instrumentoId": "tesoura_mayo_curva",
+      "imagem": "/data/instrumentais/mesa_p002_img03_xr121.png",
+      "page": 2,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "tesoura_mayo_reta": {
+      "instrumentoId": "tesoura_mayo_reta",
+      "imagem": "/data/instrumentais/mesa_p002_img04_xr116.png",
+      "page": 2,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "tesoura_metzenbaum_curva": {
+      "instrumentoId": "tesoura_metzenbaum_curva",
+      "imagem": "/data/instrumentais/mesa_p003_img01_xr128.png",
+      "page": 3,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "tesoura_metzenbaum_reta": {
+      "instrumentoId": "tesoura_metzenbaum_reta",
+      "imagem": "/data/instrumentais/mesa_p003_img02_xr126.png",
+      "page": 3,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_kelly_curva": {
+      "instrumentoId": "pinca_kelly_curva",
+      "imagem": "/data/instrumentais/mesa_p004_img01_xr134.png",
+      "page": 4,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_kelly_reta": {
+      "instrumentoId": "pinca_kelly_reta",
+      "imagem": "/data/instrumentais/mesa_p004_img02_xr133.png",
+      "page": 4,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_crille_curva": {
+      "instrumentoId": "pinca_crille_curva",
+      "imagem": "/data/instrumentais/mesa_p004_img03_xr138.png",
+      "page": 4,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_crille_reta": {
+      "instrumentoId": "pinca_crille_reta",
+      "imagem": "/data/instrumentais/mesa_p004_img04_xr136.png",
+      "page": 4,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_halsted_curva": {
+      "instrumentoId": "pinca_halsted_curva",
+      "imagem": "/data/instrumentais/mesa_p005_img01_xr146.png",
+      "page": 5,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_halsted_reta": {
+      "instrumentoId": "pinca_halsted_reta",
+      "imagem": "/data/instrumentais/mesa_p005_img02_xr148.png",
+      "page": 5,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_rochester_curva": {
+      "instrumentoId": "pinca_rochester_curva",
+      "imagem": "/data/instrumentais/mesa_p005_img03_xr144.png",
+      "page": 5,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_rochester_reta": {
+      "instrumentoId": "pinca_rochester_reta",
+      "imagem": "/data/instrumentais/mesa_p005_img04_xr142.png",
+      "page": 5,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_kocher_curva": {
+      "instrumentoId": "pinca_kocher_curva",
+      "imagem": "/data/instrumentais/mesa_p006_img01_xr151.png",
+      "page": 6,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_kocher_reta": {
+      "instrumentoId": "pinca_kocher_reta",
+      "imagem": "/data/instrumentais/mesa_p006_img02_xr153.png",
+      "page": 6,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_anatomica": {
+      "instrumentoId": "pinca_anatomica",
+      "imagem": "/data/instrumentais/mesa_p007_img01_xr159.png",
+      "page": 7,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_dente_de_rato": {
+      "instrumentoId": "pinca_dente_de_rato",
+      "imagem": "/data/instrumentais/mesa_p007_img02_xr161.png",
+      "page": 7,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_adson_com_dente": {
+      "instrumentoId": "pinca_adson_com_dente",
+      "imagem": "/data/instrumentais/mesa_p007_img03_xr163.png",
+      "page": 7,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_adson_sem_dente": {
+      "instrumentoId": "pinca_adson_sem_dente",
+      "imagem": "/data/instrumentais/mesa_p007_img04_xr165.png",
+      "page": 7,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "porta_agulhas_hegar": {
+      "instrumentoId": "porta_agulhas_hegar",
+      "imagem": "/data/instrumentais/mesa_p008_img01_xr169.png",
+      "page": 8,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "porta_agulhas_mathieu": {
+      "instrumentoId": "porta_agulhas_mathieu",
+      "imagem": "/data/instrumentais/mesa_p008_img02_xr171.png",
+      "page": 8,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "cuba_rim": {
+      "instrumentoId": "cuba_rim",
+      "imagem": "/data/instrumentais/mesa_p009_img01_xr175.png",
+      "page": 9,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "grampo_backhaus": {
+      "instrumentoId": "grampo_backhaus",
+      "imagem": "/data/instrumentais/mesa_p009_img02_xr176.png",
+      "page": 9,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_cheron": {
+      "instrumentoId": "pinca_cheron",
+      "imagem": "/data/instrumentais/mesa_p009_img03_xr178.png",
+      "page": 9,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_mixter": {
+      "instrumentoId": "pinca_mixter",
+      "imagem": "/data/instrumentais/mesa_p009_img04_xr180.png",
+      "page": 9,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_foerster_curva": {
+      "instrumentoId": "pinca_foerster_curva",
+      "imagem": "/data/instrumentais/mesa_p010_img01_xr184.png",
+      "page": 10,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_foerster_reta": {
+      "instrumentoId": "pinca_foerster_reta",
+      "imagem": "/data/instrumentais/mesa_p010_img02_xr186.png",
+      "page": 10,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_allis": {
+      "instrumentoId": "pinca_allis",
+      "imagem": "/data/instrumentais/mesa_p010_img03_xr187.png",
+      "page": 10,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "pinca_coprostase": {
+      "instrumentoId": "pinca_coprostase",
+      "imagem": "/data/instrumentais/mesa_p010_img04_xr189.png",
+      "page": 10,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "afastador_finochietto": {
+      "instrumentoId": "afastador_finochietto",
+      "imagem": "/data/instrumentais/mesa_p011_img01_xr193.png",
+      "page": 11,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "afastador_farabeuf": {
+      "instrumentoId": "afastador_farabeuf",
+      "imagem": "/data/instrumentais/mesa_p011_img02_xr194.png",
+      "page": 11,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "afastador_gosset": {
+      "instrumentoId": "afastador_gosset",
+      "imagem": "/data/instrumentais/mesa_p011_img03_xr196.png",
+      "page": 11,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    },
+    "afastador_doyen": {
+      "instrumentoId": "afastador_doyen",
+      "imagem": "/data/instrumentais/mesa_p011_img04_xr197.png",
+      "page": 11,
+      "score": 0,
+      "captionTermMatches": 0,
+      "confidence": "catalog",
+      "rankedPages": []
+    }
+  }
+}

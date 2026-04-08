@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O equilíbrio ácido-básico é um dos tópicos mais cobrados em provas de medicina. O rim é o principal regulador crônico do **pH** sanguíneo, enquanto o pulmão regula agudamente. A interpretação de gasometria e a compreensão dos quatro distúrbios primários (acidose/alcalose metabólica e respiratória) são competências esperadas desde o módulo básico.
+O equilíbrio ácido-básico é um dos tópicos mais cobrados em provas de medicina. O rim é o principal regulador crônico do pH sanguíneo, enquanto o pulmão regula agudamente. A interpretação de gasometria e a compreensão dos quatro distúrbios primários (acidose/alcalose metabólica e respiratória) são competências esperadas desde o módulo básico.
 
 ### Figura sugerida
 
@@ -39,7 +39,7 @@ O equilíbrio ácido-básico é um dos tópicos mais cobrados em provas de medic
 
 ### Equação de Henderson-Hasselbalch
 
-$$**pH** = 6,1 + \log\frac{[HCO_3^-]}{0,03 \times PaCO_2}$$
+$$pH = 6,1 + \log\frac{[HCO_3^-]}{0,03 \times PaCO_2}$$
 
 - **HCO₃⁻ normal:** 22-26 mEq/L (regulado pelo rim)
 - **PaCO₂ normal:** 35-45 mmHg (regulado pelo pulmão)
@@ -161,17 +161,16 @@ Na cetoacidose diabética (CAD), a deficiência de insulina leva ao catabolismo 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-PH normal: 7,35-7,45 | HCO₃⁻: 22-26 mEq/L | PaCO₂: 35-45 mmHg. ROME: Respiratório = Oposto (pH e PaCO₂); Metabólico = Equal (pH e HCO₃⁻). AG = Na - (Cl + HCO₃) | Normal: 8-12.
-
-AG alto: MUDPILES (cetoacidose, uremia, lático, intoxicações). AG normal: diarreia, ATR (perda HCO₃⁻ com retenção Cl⁻). ATR Tipo 4: hipercalemia + acidose (sem aldosterona).
-
-Compensação renal: lenta (dias); compensação pulmonar: rápida (minutos).
+- **pH normal:** 7,35-7,45 | HCO₃⁻: 22-26 mEq/L | PaCO₂: 35-45 mmHg
+- **ROME:** Respiratório = Oposto (pH e PaCO₂); Metabólico = Equal (pH e HCO₃⁻)
+- **AG = Na - (Cl + HCO₃) | Normal: 8-12**
+- **AG alto:** MUDPILES (cetoacidose, uremia, lático, intoxicações)
+- **AG normal:** diarreia, ATR (perda HCO₃⁻ com retenção Cl⁻)
+- **ATR Tipo 4:** hipercalemia + acidose (sem aldosterona)
+- **Compensação renal:** lenta (dias); compensação pulmonar: rápida (minutos)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -183,5 +182,4 @@ Compensação renal: lenta (dias); compensação pulmonar: rápida (minutos).
 | Compensação respiratória | Compensação renal | Respiratória: minutos-horas; Renal: 3-5 dias |
 
 ### Frase-âncora para não esquecer
-
 > "ROME: no distúrbio Respiratório, pH e PaCO₂ apontam para direções Opostas; no Metabólico, pH e HCO₃⁻ andam Emparelhados."

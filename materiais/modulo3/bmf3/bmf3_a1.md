@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O TGI superior é onde a digestão começa e onde ocorrem algumas das patologias mais prevalentes: DRGE, esofagite, úlcera gástrica e câncer de estômago. Saber a anatomia detalhada — estreitamentos, relações topográficas, vascularização — é a base para entender por que o refluxo acontece, onde o endoscopista olha e onde o cirurgião liga vasos em uma gastrectomia. A **Uninove** cobra especialmente os estreitamentos esofágicos, as regiões do estômago e os pontos de referência cirúrgicos.
+O TGI superior é onde a digestão começa e onde ocorrem algumas das patologias mais prevalentes: DRGE, esofagite, úlcera gástrica e câncer de estômago. Saber a anatomia detalhada — estreitamentos, relações topográficas, vascularização — é a base para entender por que o refluxo acontece, onde o endoscopista olha e onde o cirurgião liga vasos em uma gastrectomia. A Uninove cobra especialmente os estreitamentos esofágicos, as regiões do estômago e os pontos de referência cirúrgicos.
 
 ### Figura sugerida
 
@@ -142,19 +142,21 @@ Paciente de 55 anos com disfagia progressiva para sólidos, perda de 8 kg e epis
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Esôfago: ~25 cm, de C6 a T11; atravessa o hiato esofágico em T10. 1° estreitamento: cricofaríngeo (C6) — músculo estriado. 2° estreitamento: arco aórtico + brônquio esquerdo (T4–T5) — extrínseco.
-
-3° estreitamento: hiato diafragmático (T10) — EEI. EES: músculo cricofaríngeo, estriado, voluntário, anatômico. EEI: zona funcional de alta pressão; hipotonia → DRGE; hipertonia sem relaxar → acalásia.
-
-Fundo gástrico: cúpula acima do cárdia = câmara de ar na radiografia. Antro: pré-pilórico, células G → gastrina. Gástrica esquerda: diretamente do tronco celíaco.
-
-Gástrica direita: da artéria hepática própria. Omento menor: hepatogástrico + hepatoduodenal (curvatura menor → fígado). Omento maior: gastrocólico ("avental" que pende da curvatura maior).
+- **Esôfago:** ~25 cm, de C6 a T11; atravessa o hiato esofágico em T10
+- **1° estreitamento:** cricofaríngeo (C6) — músculo estriado
+- **2° estreitamento:** arco aórtico + brônquio esquerdo (T4–T5) — extrínseco
+- **3° estreitamento:** hiato diafragmático (T10) — EEI
+- **EES:** músculo cricofaríngeo, estriado, voluntário, anatômico
+- **EEI:** zona funcional de alta pressão; hipotonia → DRGE; hipertonia sem relaxar → acalásia
+- **Fundo gástrico:** cúpula acima do cárdia = câmara de ar na radiografia
+- **Antro:** pré-pilórico, células G → gastrina
+- **Gástrica esquerda:** diretamente do tronco celíaco
+- **Gástrica direita:** da artéria hepática própria
+- **Omento menor:** hepatogástrico + hepatoduodenal (curvatura menor → fígado)
+- **Omento maior:** gastrocólico ("avental" que pende da curvatura maior)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -167,5 +169,4 @@ Gástrica direita: da artéria hepática própria. Omento menor: hepatogástrico
 | Omento menor | Omento maior | Menor: curvatura menor → fígado; Maior: curvatura maior → cólon (avental) |
 
 ### Frase-âncora para não esquecer
-
 > "Os 3 estreitamentos são os 3 C: Cricofaríngeo (C6), Carina/aorta (T4) e Crural/hiato (T10) — onde impacta, inflama e canceriniza."

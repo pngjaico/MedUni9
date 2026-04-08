@@ -1,0 +1,192 @@
+[
+  {
+    "enunciado": "Na anamnese OPQRST adaptada à dor musculoesquelética, a letra O documenta principalmente:",
+    "opcoes": [
+      "A) Se o início foi súbito ou gradual e a data aproximada dos sintomas",
+      "B) Apenas o resultado de exames de imagem já solicitados",
+      "C) Somente a frequência cardíaca em repouso",
+      "D) A classificação de Kellgren-Lawrence sem correlato clínico"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "O (onset) captura como e quando a queixa começou, separando trauma agudo de processos subagudos ou crônicos.",
+    "explicacoes_opcoes": {
+      "A": "Correta: É o conteúdo indicado na linha O da tabela OPQRST da aula.",
+      "B": "Incorreta: Imagem complementa; não substitui a história de início.",
+      "C": "Incorreta: Parâmetro cardiovascular não corresponde ao eixo O.",
+      "D": "Incorreta: Grau radiológico não define o onset clínico."
+    },
+    "explicacao": "Resumo: O registra início temporal e modo de aparecimento da queixa.\nA) CORRETA. Reflete onset súbito/gradual e data aproximada.\nB) INCORRETA. Exames são etapa distinta da anamnese dirigida.\nC) INCORRETA. Fora do escopo do O para dor MSK.\nD) INCORRETA. Radiografia descreve estrutura, não substitui a história."
+  },
+  {
+    "enunciado": "Homem de 30 anos apresenta dor intensa, calor e limitação em um único joelho há 48 horas, com febre baixa. O padrão de acometimento articular é classificado como:",
+    "opcoes": [
+      "A) Poliartrite simétrica de pequenas articulações",
+      "B) Monoartrite",
+      "C) Oligoartrite (duas a quatro articulações)",
+      "D) Artralgia sem compromisso articular objetivo"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "explicacao_geral": "Uma única articulação define monoartrite; a aula coloca infecção, cristal e hemartrose no topo do raciocínio agudo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Poliartrite envolve muitas articulações.",
+      "B": "Correta: Um único joelho inflamado encaixa em monoartrite.",
+      "C": "Incorreta: Oligoartrite descreve duas a quatro articulações.",
+      "D": "Incorreta: Há sinais inflamatórios locais claros."
+    },
+    "explicacao": "Resumo: Número de articulações guia o diagnóstico sindrômico inicial.\nA) INCORRETA. Padrão poli não se aplica.\nB) CORRETA. Monoartrite = uma articulação.\nC) INCORRETA. Oligo implica mais de uma articulação.\nD) INCORRETA. Há comprometimento articular objetivo."
+  },
+  {
+    "enunciado": "Jogador de futebol relata torção do joelho com estalo audível e hemartrose precoce. Segundo a tabela de mecanismos traumáticos, as estruturas mais frequentemente citadas como envolvidas nesse mecanismo são:",
+    "opcoes": [
+      "A) Apenas nervo fibular superficial",
+      "B) Exclusivamente bolsa infrapatelar superficial",
+      "C) Menisco e ligamento cruzado anterior",
+      "D) Somente cartilagem patelar sem ligamentos"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Torção/pivot associa-se a lesões de menisco e LCA no texto sobre mecanismos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fibular pode ser avaliado à parte; não é o par clássico do pivot.",
+      "B": "Incorreta: Bursite superficial não explica hemartrose aguda típica do giro traumático.",
+      "C": "Correta: Reproduz a associação menisco/LCA da tabela de mecanismos.",
+      "D": "Incorreta: Afirmação exclusiva de cartilagem patelar ignora menisco/LCA."
+    },
+    "explicacao": "Resumo: Mecanismo de torção no joelho direciona hipótese anatômica.\nA) INCORRETA. Não é o par principal do mecanismo ensinado.\nB) INCORRETA. Bolsa superficial não centraliza hemartrose pós-pivot.\nC) CORRETA. Menisco e LCA são os alvos frequentes do mecanismo.\nD) INCORRETA. Ignora estruturas ligamentares/meniscais centrais."
+  },
+  {
+    "enunciado": "Paciente com psoríase cutânea estabelecida desenvolve dor periférica e entesítica. Qual antecedente da aula altera o diagnóstico diferencial em direção a espondiloartrite/artrite psoriásica?",
+    "opcoes": [
+      "A) Hipertensão essencial controlada isoladamente",
+      "B) Uso ocasional apenas de multivitamínico",
+      "C) Epicondilite lateral prévia sem recidiva",
+      "D) Psoríase e outras manifestações imuno-inflamatórias associadas (ex.: uveíte, colite)"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Psoríase, colite ou uveíte aparecem na tabela de fatores que mudam a lista diagnóstica para espondiloartrite.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Comorbidade vascular não reclassifica o padrão articular.",
+      "B": "Incorreta: Vitamina não altera o espectro inflamatório axial/periférico.",
+      "C": "Incorreta: Tendinopatia local não substitui o contexto imunológico listado.",
+      "D": "Correta: O material liga psoríase/uveíte/colite a espondiloartrite na tabela de fatores."
+    },
+    "explicacao": "Resumo: Antecedentes imunoinflamatórios reordenam hipóteses em dor MSK.\nA) INCORRETA. Hipertensão não entra na lista de mudança de diferencial.\nB) INCORRETA. Suplemento isolado não reclassifica o caso.\nC) INCORRETA: Epicondilite prévia não substitui o elo psoríase–espondiloartrite.\nD) CORRETA. Psoríase e manifestações associadas direcionam o raciocínio."
+  },
+  {
+    "enunciado": "Paciente em uso recente de fluoroquinolona refere dor súbita e estalido no tendão de Aquiles. A aula cita essa classe terapêutica principalmente por qual alerta?",
+    "opcoes": [
+      "A) Risco de ruptura tendínea (evento incomum, mas cobrado)",
+      "B) Proteção documentada contra tendinopatia",
+      "C) Indicação clássica para hemartrose espontânea",
+      "D) Causa típica de poliartrite simétrica erosiva"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "Fluoroquinolona entra como fármaco que aumenta risco de ruptura tendínea na lista de antecedentes.",
+    "explicacoes_opcoes": {
+      "A": "Correta: É o alerta explícito do material.",
+      "B": "Incorreta: Não há efeito protetor descrito.",
+      "C": "Incorreta: Hemartrose não é o foco do fármaco.",
+      "D": "Incorreta: Padrão poli-inflamatório não é a associação ensinada."
+    },
+    "explicacao": "Resumo: Antecedente farmacológico modula suspeita de lesão tendínea aguda.\nA) CORRETA. Ruptura tendínea é o risco destacado.\nB) INCORRETA. Sem evidência de proteção.\nC) INCORRETA. Mecanismo hemático é outro contexto.\nD) INCORRETA. Erro de sistema inflamatório simétrico."
+  },
+  {
+    "enunciado": "Para explorar a qualidade da dor (letra Q do OPQRST), qual pergunta segue o roteiro da aula?",
+    "opcoes": [
+      "A) Qual o endereço residencial completo?",
+      "B) A dor é em punhalada, queimação, peso ou sensação de travamento?",
+      "C) Quantas internações o paciente teve na infância, sem detalhe clínico?",
+      "D) Qual time de futebol o paciente prefere"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Q (quality) pergunta o tipo de dor — punhalada, queimação, peso, travamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Dado administrativo não qualifica a dor.",
+      "B": "Correta: Espelha a linha Q da tabela OPQRST.",
+      "C": "Incorreta: História remota genérica não descreve qualidade atual.",
+      "D": "Incorreta: Irrelevante para semiologia MSK."
+    },
+    "explicacao": "Resumo: Q qualifica o sintoma em linguagem do paciente.\nA) INCORRETA. Endereço não descreve qualidade da dor.\nB) CORRETA. Pergunta direta sobre punhalada, queimação, peso, travamento.\nC) INCORRETA. Não captura qualidade sintomática.\nD) INCORRETA. Fora do escopo clínico."
+  },
+  {
+    "enunciado": "Paciente apresenta três articulações médias/grandes assimétricas dolorosas, sem padrão simétrico de metacarpofalangianas. Esse agrupamento corresponde ao termo:",
+    "opcoes": [
+      "A) Poliartrite com muitas articulações frequentemente simétricas",
+      "B) Monoartrite estrita",
+      "C) Oligoartrite (duas a quatro articulações)",
+      "D) Fibromialgia por definição"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Oligoartrite define duas a quatro articulações; exemplos incluem certas espondiloartrites e artrites reativas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Poliartrite envolve mais articulações e padrão diferente.",
+      "B": "Incorreta: Monoartrite é uma única articulação.",
+      "C": "Correta: Três articulações encaixam na faixa oligoarticular.",
+      "D": "Incorreta: Fibromialgia não se define por número de articulações inflamadas."
+    },
+    "explicacao": "Resumo: Contagem articular classifica o padrão sindrômico.\nA) INCORRETA. Poli excede a faixa oligo.\nB) INCORRETA. Mais de uma articulação exclui mono.\nC) CORRETA. Oligoartrite cobre 2–4 articulações.\nD) INCORRETA. Diagnóstico de exclusão com critérios próprios."
+  },
+  {
+    "enunciado": "Criança com claudicação afebril e história de trauma leve duvidoso. Qual conduta cognitiva a aula associa a esse cenário (dica de prova)?",
+    "opcoes": [
+      "A) Atribuir sempre a entorse residual sem investigação",
+      "B) Encaminhar imediatamente para procedimento invasivo sem anamnese",
+      "C) Fechar fibromialgia pediátrica na primeira entrevista",
+      "D) Manter cautela e excluir causas graves conforme protocolo local (incluindo causas ortopédicas sérias até prova em contrário)"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "explicacao_geral": "Claudicação infantil afebril exige exclusão de causa grave conforme protocolo — a aula alerta explicitamente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Minimizar pode atrasar diagnóstico de lesão importante.",
+      "B": "Incorreta: Invasivo precoce sem raciocínio não é o ensinamento.",
+      "C": "Incorreta: Fibromialgia não é hipótese inicial típica nesse perfil.",
+      "D": "Correta: Reflete a prioridade de excluir causas graves conforme protocolo."
+    },
+    "explicacao": "Resumo: Claudicação na criança sem febre não pode ser sempre banalizada.\nA) INCORRETA. Risco de subdiagnóstico.\nB) INCORRETA. Conduta invasiva precipitada não substitui avaliação clínica.\nC) INCORRETA. Hipótese inadequada para o contexto.\nD) CORRETA. Segue a dica de prova da aula."
+  },
+  {
+    "enunciado": "Homem de 26 anos com dor lombar subaguda, rigidez matinal prolongada, melhora com caminhada e boa resposta inicial a anti-inflamatório. Qual raciocínio é mais coerente com a “Ponte com a Clínica”?",
+    "opcoes": [
+      "A) Incluir espondiloartrite na hipótese antes de atribuir só lombalgia mecânica postural",
+      "B) Rotular como postura e encerrar sem considerar espondiloartrite",
+      "C) Ignorar o padrão por ser idade jovem",
+      "D) Diagnosticar hérnia discal aguda sem dados radiculares"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "explicacao_geral": "Dor inflamatória lombar jovem com melhora com exercício direciona para espondiloartrite antes de rotular postura.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O texto orienta pensar espondiloartrite antes de rotular postura.",
+      "B": "Incorreta: Postura não explica rigidez inflamatória prolongada.",
+      "C": "Incorreta: Juventude é típica do início, não contra-indica hipótese.",
+      "D": "Incorreta: Falta pista radicular clara."
+    },
+    "explicacao": "Resumo: Padrão inflamatório lombar muda o diferencial em jovens.\nA) CORRETA. Coerente com a ponte clínica da aula.\nB) INCORRETA. Subestima bandeira inflamatória.\nC) INCORRETA. Erro de interpretação etária.\nD) INCORRETA. Hérnia exige correlação clínica."
+  },
+  {
+    "enunciado": "Digitador refere dor em punho relacionada a jornada longa no teclado, sem febre ou padrão poli-inflamatório. A história ocupacional na aula serve principalmente para:",
+    "opcoes": [
+      "A) Substituir o exame físico em qualquer caso",
+      "B) Demonstrar que tendinopatias não existem em trabalho de escritório",
+      "C) Reconhecer cargas repetitivas e embasar ergonomia e pausas na conduta não farmacológica",
+      "D) Excluir punção de sinovite séptica em todo paciente"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Cargas repetitivas explicam tendinopatias sem achado sistêmico; ergonomia e pausas são conduta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Anamnese não dispensa inspeção e palpação.",
+      "B": "Incorreta: Escritório é cenário clássico de sobrecarga.",
+      "C": "Correta: O material liga trabalho repetitivo a tendinopatia e medidas não farmacológicas.",
+      "D": "Incorreta: Indicação de punção depende do quadro inflamatório infeccioso suspeito."
+    },
+    "explicacao": "Resumo: História de trabalho orienta mecanismo de sobrecarga e prevenção.\nA) INCORRETA. Exame físico permanece central.\nB) INCORRETA. Negação incorreta da epidemiologia descrita.\nC) CORRETA. Alinha ergonomia e pausas ao texto.\nD) INCORRETA. Generalização absurda sobre punção."
+  }
+]

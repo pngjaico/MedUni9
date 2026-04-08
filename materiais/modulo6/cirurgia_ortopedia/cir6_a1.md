@@ -7,9 +7,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-Abdome agudo é síndrome de início súbito (horas) de dor abdominal associada a possível necessidade de intervenção cirúrgica urgente ou, no mínimo, monitorização intensiva e imagem para fechar etiologia. Em prova e na emergência, você precisa dominar três eixos: classificação fisiopatológica (para gerar hipóteses), propedêutica (anamnese + exame físico serial + exames) e critérios de gravidade (peritonismo, instabilidade hemodinâmica, lactato, necessidade de sala de cirurgia).
+**Abdome agudo** é síndrome de início súbito (horas) de dor abdominal associada a possível necessidade de **intervenção cirúrgica urgente** ou, no mínimo, **monitorização intensiva** e **imagem** para fechar etiologia. Em prova e na emergência, você precisa dominar três eixos: **classificação fisiopatológica** (para gerar hipóteses), **propedêutica** (anamnese + exame físico serial + exames) e **critérios de gravidade** (peritonismo, instabilidade hemodinâmica, lactato, necessidade de sala de cirurgia).
 
-> **Dica de Prova:** “Abdome agudo” não é um diagnóstico — é porta de entrada. A banca cobra mecanismo (inflamatório, perfurativo, obstrutivo, isquêmico, hemorrágico) e primeiro exame (RX, USG, TC conforme contexto).
+> **Dica de Prova:** “Abdome agudo” **não é um diagnóstico** — é **porta de entrada**. A banca cobra **mecanismo** (inflamatório, perfurativo, obstrutivo, isquêmico, hemorrágico) e **primeiro exame** (RX, USG, TC conforme contexto).
 
 ---
 
@@ -17,13 +17,13 @@ Abdome agudo é síndrome de início súbito (horas) de dor abdominal associada 
 
 | Tipo | Mecanismo central | Exemplos típicos | Pista de imagem / exame |
 |------|-------------------|------------------|-------------------------|
-| Inflamatório | Inflamação visceral → irritação peritoneal | Apendicite, colecistite, diverticulite | USG/TC com foco inflamatório |
-| Perfurativo | Conteúdo luminal na cavidade | Úlcera perfurada, divertículo perfurado, trauma | Ar livre (RX/TC), líquido livre |
-| Obstrutivo | Bloqueio mecânico ou funcional | Aderências, hérnia encarcerada, íleo biliar | Níveis hidroaéreos, transição |
-| Isquêmico / vascular | Fluxo mesentérico comprometido | Isquemia mesentérica, torção de vôlvulo | TC com contraste, lactato alto |
-| Hemorrágico | Sangramento intra ou retroperitoneal | AAA roto, trauma, hemorragia digestiva maciça | Queda de Hb, estabilidade, foco |
+| **Inflamatório** | Inflamação visceral → irritação peritoneal | Apendicite, colecistite, diverticulite | USG/TC com foco inflamatório |
+| **Perfurativo** | Conteúdo luminal na cavidade | Úlcera perfurada, divertículo perfurado, trauma | Ar livre (RX/TC), líquido livre |
+| **Obstrutivo** | Bloqueio mecânico ou funcional | Aderências, hérnia encarcerada, íleo biliar | Níveis hidroaéreos, transição |
+| **Isquêmico / vascular** | Fluxo mesentérico comprometido | Isquemia mesentérica, torção de vôlvulo | TC com contraste, lactato alto |
+| **Hemorrágico** | Sangramento intra ou retroperitoneal | AAA roto, trauma, hemorragia digestiva maciça | Queda de Hb, estabilidade, foco |
 
-> **Pegadinha:** Idoso, imunossuprimido, diabético, grávida ou em uso de glicocorticoide podem ter apendicite/colecistite com dor e leucocitose discretas — mantenha baixo limiar para imagem e observação prolongada com reavaliação.
+> **Pegadinha:** **Idoso, imunossuprimido, diabético, grávida** ou em uso de **glicocorticoide** podem ter **apendicite/colecistite** com **dor e leucocitose discretas** — mantenha **baixo limiar** para imagem e observação prolongada com reavaliação.
 
 ---
 
@@ -33,20 +33,20 @@ Abdome agudo é síndrome de início súbito (horas) de dor abdominal associada 
 - **Tempo de evolução** e **ritmo** (minutos = perfuração/hemorragia; horas = inflamatório; dias com piora progressiva = obstrução complicada).  
 - **Síncope, lipotímia** (hemorragia, embolismo).  
 - **Última evacuação e flatos** (obstrução).  
-- Antecedentes: cirurgias prévias (aderências), AINEs, anticoagulação, etilismo, litíase biliar, doença cardiovascular (fibrilação e embolia mesentérica), AAA conhecido.  
+- **Antecedentes:** cirurgias prévias (aderências), **AINEs**, **anticoagulação**, **etilismo**, litíase biliar, **doença cardiovascular** (fibrilação e embolia mesentérica), **AAA** conhecido.  
 - **Gineco-obstétrico:** gravidez, DIU, dor pélvica (não esqueça **beta-HCG** antes de TC com radiação).
 
 ---
 
-## Exame físico (serial, não “snapshot”)
+## Exame físico (serial, não “avaliação isolada”)
 
-Inspeção (distensão, cicatrizes, massas), ausculta (ruídos hidroaéreos presentes/ausentes/altos), percussão e palpação com **attenção à descompressão súbita** (irritação peritoneal). Reavaliar após analgesia (a dose adequada **não** “some” com peritonite).
+Inspeção (distensão, cicatrizes, massas), ausculta (ruídos hidroaéreos presentes/ausentes/altos), percussão e palpação com **atenção à descompressão súbita** (irritação peritoneal). Reavaliar após analgesia (a dose adequada **não** “some” com peritonite).
 
 ### Sinais de irritação peritoneal
 
 Rigidez, defesa, **Blumberg** (dor à descompressão brusca). Em idoso, **peritonismo pode ser tardio**.
 
-Sinal de Giordano (percussão com punho sobre flancos) pode sugerir origem urológica (cólica nefrética) quando positivo — correlacionar com urina, hematúria e imagem de vias urinárias.
+**Sinal de Giordano** (percussão com punho sobre flancos) pode sugerir **origem urológica** (cólica nefrética) quando positivo — correlacionar com **urina**, **hematúria** e **imagem de vias urinárias**.
 
 ### Figura sugerida
 
@@ -68,7 +68,7 @@ Sinal de Giordano (percussão com punho sobre flancos) pode sugerir origem urol�
 - **Urina I** (cálculo, infecção urinária).  
 - **Gasometria** quando instabilidade ou suspeita de sepse.
 
-> **Pegadinha:** Analgesia precoce é segura quando há reavaliação — não deixe o paciente “sofrer” esperando exame; documente sinais antes/depois.
+> **Pegadinha:** **Analgesia precoce** é segura quando há **reavaliação** — não deixe o paciente “sofrer” esperando exame; documente sinais antes/depois.
 
 ---
 
@@ -76,18 +76,18 @@ Sinal de Giordano (percussão com punho sobre flancos) pode sugerir origem urol�
 
 | Situação | Primeira linha (geral) | Observação |
 |----------|------------------------|------------|
-| Suspeita de perfuração | RX de tórax em ortostatismo / decúbito lateral se possível | Ar livre; TC pode ser mais sensível |
-| Colecistite | USG abdominal | Sinais de Murphy sonográfico, paredes espessadas |
-| Apendicite | USG (especialmente jovens) ou TC | TC com contraste se quadro atípico ou complicado |
-| Obstrução | RX de abdome; TC se complicação | Níveis hidroaéreos, transição |
-| Isquemia mesentérica | TC angiográfico / protocolo arterial | Contexto de embolismo ou hipoperfusão |
+| Suspeita de **perfuração** | RX de tórax em ortostatismo / decúbito lateral se possível | Ar livre; TC pode ser mais sensível |
+| **Colecistite** | USG abdominal | Sinais de Murphy sonográfico, paredes espessadas |
+| **Apendicite** | USG (especialmente jovens) ou TC | TC com contraste se quadro atípico ou complicado |
+| **Obstrução** | RX de abdome; TC se complicação | Níveis hidroaéreos, transição |
+| **Isquemia mesentérica** | TC angiográfico / protocolo arterial | Contexto de embolismo ou hipoperfusão |
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A1-F02`
 
 - **Momento:** após tabela de indicações de imagem (abdome obstrutivo).
-- O que mostrar: radiografia abdominal em ortostatismo com alças dilatadas e níveis hidroaéreos compatíveis com obstrução intestinal.
+- **O que mostrar:** radiografia abdominal em **ortostatismo** com alças dilatadas e **níveis hidroaéreos** compatíveis com obstrução intestinal.
 - **Tipo sugerido:** radiografia real de exemplo didático.
 - **Legenda (rascunho):** Obstrução intestinal: distensão de alças e níveis hidroaéreos em RX.
 
@@ -97,12 +97,12 @@ Sinal de Giordano (percussão com punho sobre flancos) pode sugerir origem urol�
 
 | Passo | Ação |
 |-------|------|
-| 1 | Acesso venoso, monitoramento, reposição volêmica conforme resposta |
-| 2 | Analgesia e antiemético quando necessário (com reavaliação) |
-| 3 | Laboratório + urina + beta-HCG quando aplicável |
-| 4 | Imagem orientada pela hipótese (USG/TC/RX) |
-| 5 | Antibioticoterapia empírica se peritonite, sepse ou foco inflamatório grave (protocolo do serviço) |
-| 6 | Cirurgião acionado cedo — tempo de isquemia e perfuração contam |
+| 1 | Acesso venoso, monitoramento, **reposição volêmica** conforme resposta |
+| 2 | **Analgesia** e antiemético quando necessário (com reavaliação) |
+| 3 | Laboratório + urina + **beta-HCG** quando aplicável |
+| 4 | **Imagem** orientada pela hipótese (USG/TC/RX) |
+| 5 | Antibioticoterapia empírica se **peritonite**, sepse ou foco inflamatório grave (protocolo do serviço) |
+| 6 | **Cirurgião** acionado cedo — tempo de isquemia e perfuração contam |
 
 ---
 
@@ -110,31 +110,31 @@ Sinal de Giordano (percussão com punho sobre flancos) pode sugerir origem urol�
 
 | Se… | Então pense em… | Próximo passo prático |
 |-----|------------------|------------------------|
-| Dor difusa + rígido + instável | Peritonite difusa / perfuração / isquemia extensa | TC ou laparotomia conforme estabilidade; antibiótico amplo |
-| Dor FID migratória + anorexia | Apendicite | USG/TC; cirurgia se critérios |
-| Dor epigástria irradiando às costas + lipase | Pancreatite | Ranson/BISAP se indicado; suporte; TC se dúvida |
-| Icterícia + dor + febre | Colangite / colecistite obstrutiva | USG; antibiótico; drenagem urgente se necessário |
-| Hipotensão + dor lombar + massa pulsátil | AAA roto | Massa + controle de pressão; vascular + cirurgia |
-| FV + dor abdominal difusa em idoso | Embolia mesentérica | TC angiográfico; lactato |
+| Dor **difusa** + **rígido** + instável | Peritonite difusa / perfuração / isquemia extensa | TC ou laparotomia conforme estabilidade; antibiótico amplo |
+| Dor **FID** migratória + anorexia | Apendicite | USG/TC; cirurgia se critérios |
+| Dor **epigástria** irradiando às costas + lipase | Pancreatite | Ranson/BISAP se indicado; suporte; TC se dúvida |
+| **Icterícia** + dor + febre | Colangite / colecistite obstrutiva | USG; antibiótico; drenagem urgente se necessário |
+| **Hipotensão** + dor lombar + massa pulsátil | AAA roto | Massa + controle de pressão; vascular + cirurgia |
+| **FV** + dor abdominal difusa em idoso | Embolia mesentérica | TC angiográfico; lactato |
 
-> **Pegadinha:** em mulher com idade fértil com dor abdominal, gravidez ectópica entra no mesmo tempo que apendicite — beta-HCG antes de radiação.
+> **Pegadinha:** em **mulher com idade fértil** com dor abdominal, **gravidez ectópica** entra no **mesmo tempo** que apendicite — **beta-HCG** antes de radiação.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A1-F03`
 
 - **Momento:** após conduta em tabela (sinal radiológico complementar ao ar subdiafragmático).
-- O que mostrar: radiografia de abdome em decúbito dorsal com sinal da parede dupla (ar intra e intraluminal realçando ambas as faces da parede intestinal) — sinal secundário de pneumoperitônio.
+- **O que mostrar:** radiografia de abdome em **decúbito dorsal** com **sinal da parede dupla** (ar intra e intraluminal realçando ambas as faces da parede intestinal) — sinal secundário de pneumoperitônio.
 - **Tipo sugerido:** radiografia exemplo (abdome agudo supino).
-- **Legenda (rascunho):** Sinal da parede dupla (double wall sign) em pneumoperitônio.
+- **Legenda (rascunho):** Sinal da parede dupla (sinal da parede dupla) em pneumoperitônio.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com dor periumbilical que migra para FID em 12–24 h com anorexia e náuseas — padrão clássico de apendicite; não espere leucocitose “gigante” para encaminhar. Estrangulamento herniário ou torção com alça isquêmica: dor intensa, sinais sistêmicos, lactato — tempo cirúrgico crítico. AAA roto: dor em lombo, hipotensão, massa pulsátil — estabilize e vascular + cirurgia.
+Paciente com dor periumbilical que **migra** para FID em 12–24 h com anorexia e náuseas — padrão clássico de **apendicite**; não espere leucocitose “gigante” para encaminhar. **Estrangulamento** herniário ou **torção** com alça isquêmica: dor intensa, sinais sistêmicos, lactato — **tempo cirúrgico** crítico. **AAA** roto: dor em lombo, hipotensão, massa pulsátil — estabilize e **vascular + cirurgia**.
 
-Documentação: registre início dos sintomas, exame físico serial, hora da primeira dose de antibiótico (se sepse) e decisão de imagem — protege paciente e equipe em auditoria e ensino.
+**Documentação:** registre **início dos sintomas**, **exame físico serial**, **hora da primeira dose de antibiótico** (se sepse) e **decisão de imagem** — protege paciente e equipe em auditoria e ensino.
 
 ### Erros comuns em plantão
 
@@ -151,7 +151,7 @@ Documentação: registre início dos sintomas, exame físico serial, hora da pri
 - **Peritonite** = intervenção na maioria dos cenários (com estabilização pré-op quando possível).
 - **Beta-HCG** antes de irradiar mulher com idade fértil.
 - **Lactato** e **vital signs** guiam gravidade e isquemia.
-- Imagem é parte do exame — não substitui a história e o exame físico serial.
+- **Imagem** é parte do exame — não substitui a **história** e o **exame físico serial**.
 
 ---
 
@@ -159,18 +159,17 @@ Documentação: registre início dos sintomas, exame físico serial, hora da pri
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Pneumoperitônio** em RX **ortostático** — forte apoio a perfuração (TC pode ser mais sensível).
-- Lactato alto — pense hipoperfusão e isquemia intestinal.
-- **Estrangulamento** — dor intensa, sinais sistêmicos, sem melhora espontânea.
-- **AAA** roto — hipotensão + dor lombar/pulsátil massa (nem sempre tríade completa).
+Na prova, lembre que Pneumoperitônio em RX ortostático — forte apoio a perfuração (TC pode ser mais sensível). Lactato alto — pense hipoperfusão e isquemia intestinal.
+
+Para não errar em cenário clínico, considere também Estrangulamento — dor intensa, sinais sistêmicos, sem melhora espontânea. AAA roto — hipotensão + dor lombar/pulsátil massa (nem sempre tríade completa).
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|------------------|
-| Apendicite | adnexitis / gravidez ectópica | USG/TC, beta-HCG, ginecologia |
+| Apendicite | anexite / gravidez ectópica | USG/TC, beta-HCG, ginecologia |
 | Colecistite | úlcera perfurada | USG biliar, TC, foco inflamatório vs ar livre |
 | IAM mesentérica | colite infecciosa | TC com contraste, risco embólico, lactato |
 | Pancreatite aguda | perfuração duodenal | Lipase, TC, ar livre |

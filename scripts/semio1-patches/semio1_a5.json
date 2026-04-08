@@ -1,0 +1,192 @@
+[
+  {
+    "enunciado": "O teste de Lachman avalia principalmente a integridade de:",
+    "opcoes": [
+      "A) Ligamento cruzado anterior, com joelho em cerca de 20–30° de flexão",
+      "B) Ligamento colateral medial em extensão total",
+      "C) Menisco medial isoladamente",
+      "D) Nervo fibular profundo"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "Lachman é sensível para LCA no agudo, joelho parcialmente flexionado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a tabela Lachman/LCA.",
+      "B": "Incorreta: Colaterais avaliam-se com estresse em varo/valgo.",
+      "C": "Incorreta: Menisco não é o alvo primário do Lachman.",
+      "D": "Incorreta: Estrutura neural não é testada por Lachman."
+    },
+    "explicacao": "Resumo: Lachman isola translação tibial anterior (LCA).\nA) CORRETA. Definição da aula.\nB) INCORRETA. Estrutura errada.\nC) INCORRETA. Outro alvo.\nD) INCORRETA. Fora do escopo."
+  },
+  {
+    "enunciado": "A manobra de gaveta anterior no joelho avalia:",
+    "opcoes": [
+      "A) Apenas irritação da bolsa pré-patelar",
+      "B) Instabilidade do LCA, idealmente comparando com o lado contralateral",
+      "C) Compressão do nervo safeno",
+      "D) Rotura exclusiva do menisco lateral sem LCA"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "explicacao_geral": "Gaveta anterior avalia LCA; comparar lados é regra na aula.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bolsa superficial não é o alvo.",
+      "B": "Correta: Compatível com a tabela gaveta/LCA.",
+      "C": "Incorreta: Neural periférico não é avaliado assim.",
+      "D": "Incorreta: Afirmação exclusiva incorreta."
+    },
+    "explicacao": "Resumo: Gaveta traduz laxidade anterior tibial (LCA).\nA) INCORRETA. Topografia errada.\nB) CORRETA. Texto descreve gaveta e LCA.\nC) INCORRETA. Método inadequado.\nD) INCORRETA. Generalização falsa."
+  },
+  {
+    "enunciado": "O teste de Jobe (esvaziamento) avalia principalmente o músculo:",
+    "opcoes": [
+      "A) Redondo menor",
+      "B) Infraespinhal isoladamente",
+      "C) Supraespinhal do manguito rotador",
+      "D) Peitoral maior"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Jobe associa-se ao supraespinhal na tabela de ombro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Não é o músculo citado para Jobe.",
+      "B": "Incorreta: Outros testes avaliam infraespinhal.",
+      "C": "Correta: Reflete a linha Jobe–manguito.",
+      "D": "Incorreta: Peitoral não é alvo do Jobe."
+    },
+    "explicacao": "Resumo: Jobe isola supraespinhal.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "enunciado": "Phalen e Tinel no punho são usados para suspeita de:",
+    "opcoes": [
+      "A) Tenossinovite de De Quervain",
+      "B) Epicondilite lateral",
+      "C) Ruptura do ligamento colateral do polegar",
+      "D) Síndrome do túnel do carpo (nervo mediano)"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Phalen e Tinel são citados para compressão do mediano no túnel do carpo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: De Quervain usa Finkelstein.",
+      "B": "Incorreta: Epicondilite é cotovelo.",
+      "C": "Incorreta: Lesão ligamentar do polegar é outro contexto.",
+      "D": "Correta: Tabela punho–Phalen/Tinel."
+    },
+    "explicacao": "Resumo: Testes de punho mapeiam mediano.\nA) INCORRETA. Outro teste (Finkelstein).\nB) INCORRETA. Região errada.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "enunciado": "A manobra de Finkelstein reproduz dor típica na:",
+    "opcoes": [
+      "A) Tenossinovite de De Quervain (primeiro compartimento dorsal do punho)",
+      "B) Túnel do carpo",
+      "C) Articulação acromioclavicular",
+      "D) Epicôndilo medial"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "Finkelstein é listado para De Quervain na tabela punho/cotovelo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Associação explícita na aula.",
+      "B": "Incorreta: Túnel do carpo usa Phalen/Tinel.",
+      "C": "Incorreta: AC é ombro.",
+      "D": "Incorreta: Epicôndilo medial é outro local."
+    },
+    "explicacao": "Resumo: Finkelstein estressa o primeiro compartimento dorsal.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "enunciado": "O teste de Cozen é descrito para:",
+    "opcoes": [
+      "A) Túnel do carpo",
+      "B) Epicondilite lateral (extensores do punho)",
+      "C) Instabilidade glenoumeral anterior",
+      "D) Ruptura do LCA"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Cozen associa-se à epicondilite lateral na tabela.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Punho mediano usa outras manobras.",
+      "B": "Correta: Linha Cozen–epicondilite lateral.",
+      "C": "Incorreta: Instabilidade de ombro usa apreensão/Jobe etc.",
+      "D": "Incorreta: Joelho."
+    },
+    "explicacao": "Resumo: Cozen estressa origem comum dos extensores.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "enunciado": "Grau 3 na escala MRC significa:",
+    "opcoes": [
+      "A) Força normal contra resistência máxima",
+      "B) Movimento com resistência incompleta após vencer a gravidade",
+      "C) Movimento apenas contra gravidade, sem resistência adicional",
+      "D) Ausência de contração palpável"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Grau 3: apenas contra gravidade — tabela MRC.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Descreve grau 5.",
+      "B": "Incorreta: Resistência parcial é grau 4.",
+      "C": "Correta: Definição do grau 3.",
+      "D": "Incorreta: Grau 0 é ausência de contração."
+    },
+    "explicacao": "Resumo: MRC padroniza documentação de força.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "enunciado": "Em artropatia séptica suspeita, a aula recomenda:",
+    "opcoes": [
+      "A) Forçar imediatamente bateria máxima de testes ligamentares",
+      "B) Ignorar febre se o joelho mover bem no ativo",
+      "C) Realizar punção sem critério em qualquer dor",
+      "D) Priorizar estabilidade, analgesia e conduta guiada, evitando estresse máximo em ligamentos antes de estabilização/avaliação adequada"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "explicacao_geral": "Sepse suspeita: não forçar teste máximo; priorizar segurança e conduta guiada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraria quando não forçar o teste.",
+      "B": "Incorreta: Sistêmico não pode ser ignorado.",
+      "C": "Incorreta: Punção segue indicação clínica.",
+      "D": "Correta: Reflete prioridade de imobilização e cautela."
+    },
+    "explicacao": "Resumo: Infecção articular muda prioridade do exame.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "enunciado": "Pseudo-fraqueza durante manobra dolorosa deve ser distinguida de paresia real ao:",
+    "opcoes": [
+      "A) Documentar contexto, repetir quando seguro e considerar MRC após analgesia adequada",
+      "B) Aumentar sempre a força do examinador até o limite da dor",
+      "C) Ignorar o lado contralateral",
+      "D) Diagnosticar AVC com base isolada no teste"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "explicacao_geral": "Pseudo-fraqueza por dor não é paresia — documentar e repetir após analgesia quando seguro.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a pegadinha da aula.",
+      "B": "Incorreta: Força excessiva não diferencia dor de déficit.",
+      "C": "Incorreta: Comparação bilateral permanece regra.",
+      "D": "Incorreta: Critérios neurológicos completos faltam."
+    },
+    "explicacao": "Resumo: Dor limita esforço máximo.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "enunciado": "Neer e Hawkins são citados como manobras relacionadas a:",
+    "opcoes": [
+      "A) Compressão do nervo ulnar no cotovelo",
+      "B) Luxação patelar aguda",
+      "C) Impacto subacromial (sinal clínico, não patognomônico isolado)",
+      "D) Sinovite pura de punho"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Neer/Hawkins associam-se a impacto subacromial na tabela de ombro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ulnar no cotovelo usa outras manobras.",
+      "B": "Incorreta: Patela não é o alvo.",
+      "C": "Correta: Texto qualifica como sinal, não patognomônico sozinho.",
+      "D": "Incorreta: Punho não é o foco."
+    },
+    "explicacao": "Resumo: Testes de ombro sugerem impacto, com interpretação contextual.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  }
+]

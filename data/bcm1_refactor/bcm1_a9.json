@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1002,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "A apoptose difere da necrose principalmente porque:",
+    "opcoes": [
+      "A) Ocorre de forma ordenada, com fragmentação e geralmente sem reação inflamatória intensa.",
+      "B) É sempre patológica e inflamatória.",
+      "C) Não requer ATP.",
+      "D) Só ocorre em bactérias."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Apoptose — programada; necrose — inflamatória.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: descreve necrose.",
+      "C": "Incorreta: apoptose consome energia.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Apoptose — silenciosa.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: descreve necrose.\nC) INCORRETA. Incorreta: apoptose consome energia.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1003,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Caspases são:",
+    "opcoes": [
+      "A) Canais de sódio.",
+      "B) Proteases que executam a apoptose.",
+      "C) DNA polimerases.",
+      "D) Histonas."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Caspases — cascata apoptótica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Caspases.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1004,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Necrose tipicamente:",
+    "opcoes": [
+      "A) Preserva membrana até o fim.",
+      "B) Não atrai leucócitos.",
+      "C) Provoca inflamação por liberação de conteúdo intracelular.",
+      "D) Produz apenas corpos apoptóticos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Necrose — DAMPs, inflamação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Necrose — inflamação.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1005,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Na via intrínseca, citocromo c participa de:",
+    "opcoes": [
+      "A) Apenas respiração oxidativa.",
+      "B) Síntese de ATP sem apoptose.",
+      "C) Replicação nuclear.",
+      "D) Formação do apoptossomo com Apaf-1 e ativação de caspases iniciadoras."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Citocromo c — caspase 9.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Apoptossomo.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 1006,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Corpos apoptóticos são:",
+    "opcoes": [
+      "A) Cristais de urato.",
+      "B) Núcleos pycnoticos sem membrana.",
+      "C) Fragmentos envolvidos por membrana, prontos para fagocitose.",
+      "D) Agregados de mitocôndrias apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Blebs — corpos apoptóticos — clearance.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Corpos apoptóticos.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1007,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "IAM complica-se com inflamação intensa porque:",
+    "opcoes": [
+      "A) Apoptose pura sem necrose.",
+      "B) Não há morte celular.",
+      "C) Apenas apoptose silenciosa.",
+      "D) A necrose miocárdica libera alarminas e atrai leucócitos."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Necrose coagulativa — inflamação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: IAM — necrose.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 1008,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Fas ligado ao FasL ativa:",
+    "opcoes": [
+      "A) Via extrínseca com caspase 8.",
+      "B) Apenas síntese de lipídeos.",
+      "C) Topo I.",
+      "D) DNA ligase IV."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "CD95 — DISC — caspase 8.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Fas — extrínseca.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1009,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Bcl-2, em condições fisiológicas, tende a:",
+    "opcoes": [
+      "A) Aumentar permeabilização mitocondrial.",
+      "B) Reduzir liberação de citocromo c estabilizando a membrana mitocondrial externa.",
+      "C) Ativar necrose.",
+      "D) Inibir ribossomos 80S."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Bcl-2 — antiapoptótico na membrana externa mitocondrial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pró-morte.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Bcl-2 — proteção.\nA) INCORRETA. Incorreta: pró-morte.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1010,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "MOMP refere-se a:",
+    "opcoes": [
+      "A) Metáfase I.",
+      "B) Síntese de telômeros.",
+      "C) Permeabilização da membrana mitocondrial externa decisiva para apoptose intrínseca.",
+      "D) Entrada em S sem licença."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "MOMP — ponto sem retorno mitocondrial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: MOMP.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1011,
+    "materia": "bcm1",
+    "tema": "bcm1_a9",
+    "enunciado": "Comparando morfologia:",
+    "opcoes": [
+      "A) Apoptose — inchaço e ruptura precoce.",
+      "B) Necrose — encolhimento ordenado.",
+      "C) Ambas idênticas.",
+      "D) Necrose — inchaço e lise; apoptose — encolhimento e fragmentação."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Necrose — edema; apoptose — condensação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte.",
+      "B": "Incorreta: inverte.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Morfologia.\nA) INCORRETA. Incorreta: inverte.\nB) INCORRETA. Incorreta: inverte.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

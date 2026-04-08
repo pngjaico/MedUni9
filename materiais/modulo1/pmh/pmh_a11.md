@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Albumina**, **pré-albumina**, **PCR**, **hemoglobina glicada** e **marcadores de inflamação** integram **estado nutricional** e **doença aguda**. **Distúrbios de aminoácidos** (fenilcetonúria, homocistinúria) aparecem no **teste do pezinho**. Saber **função** de cada proteína plasmática e **interpretar** exames evita confundir **desnutrição** com **inflamação** — erro comum na **UTI** e no **pré-operatório**.
+As **Proteínas Plasmáticas** são muito mais que componentes do sangue; elas são marcadores de **inflamação**, **nutrição** e **função hepática**. Para a prova, entenda por que a **Albumina** é um péssimo marcador de desnutrição na fase aguda e como a **Pré-albumina** ajuda no monitoramento nutricional. Na clínica, domine o **Teste do Pezinho** e os **Erros Inatos do Metabolismo**, como a **PKU** e a **Homocistinúria**.
 
 
 ### Figura sugerida
@@ -48,11 +48,12 @@
 
 ## Erros inatos do metabolismo de aminoácidos (exemplos clássicos)
 
-| Doença | Defeito | Quadro / triagem |
-|--------|---------|-------------------|
-| PKU | fenilalanina hidroxilase | retardo, teste do pezinho |
-| Homocistinúria | cistationina beta-sintase | trombose, ectopia lenticular |
-| Maple syrup | desidrogenases de cadeia ramificada | odor, acidose |
+| Patologia | Defeito Enzimático | Manifestação / Screening |
+|------------|--------------------|--------------------------|
+| **PKU (Fenilcetonúria)** | **Fenilalanina Hidroxilase** | **Odor de mofo**; Teste do Pezinho |
+| **Homocistinúria** | **Cistationina Sintase** | **Tromboses** prematuras; Marfanoide |
+| **Urina de Xarope** | **BCKDC** (Ramificados) | **Odor adocicado** na urina; Acidose |
+| **Galactosemia** | **GALT** | Catarata precoce; **Hepatopatia** |
 
 > **Pegadinha:** **Dieta** restritiva precoce em **PKU** previne **dano neurológico** — tempo importa.
 
@@ -82,10 +83,11 @@
 
 ## Pontos-Chave para Prova
 
-- **Albumina** = longa meia-vida; **sensível** a inflamação.
-- **PCR** = fase aguda; não confundir com **infecção** sozinha (pós-operatório, autoinflamatório).
-- **EIM** de aminoácidos — **triagem neonatal** e **dieta** vitalícia em várias.
-- **BUN** interpretar com **creatinina** e **volume**.
+- **Albumina:** Meia-vida de **20 dias**. Cai na **inflamação** (escape capilar) e sinaliza **cronoficidade**.
+- **Pré-albumina:** Meia-vida de **2 dias**. Melhor para avaliar a **eficácia da dieta** recente.
+- **PCR:** Proteína de fase aguda positiva. Sobe no **trauma**, **infecção** e **cirurgia**.
+- **Balanço Nitrogenado:** Se **negativo**, indica que o paciente está perdendo **músculo** (catabolismo).
+- **PKU:** A dieta restritiva deve começar **imediatamente** para evitar lesão cerebral.
 
 ---
 
@@ -95,18 +97,17 @@
 
 ### Síntese para a prova
 
+- **Albumina:** Proteína negativa de fase aguda (cai no estresse). O edema deve-se à perda de **Pressão Oncótica**.
+- **Ferro:** Em inflamação, a **Ferritina** sobe (estoque), mas o ferro livre cai (sequestro pela **Hepcidina**).
+- **Mieloma:** Suspeite no idoso com **Pico Monoclonal** na eletroforese e anemia.
+- **Homocisteína:** Seu aumento causa lesão no **endotélio** e risco cardiovascular.
 
-Albumina não é marcador nutricional puro no grave. Fase aguda altera ferro, albumina, pré-albumina.
-
-PKU = fenilalanina; restrição precoce. Homocist(e)ina — metabolismo de metionina e cofatores.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Albumina | Pré-albumina | Meia-vida e sensibilidade ao estado agudo. |
-| Desnutrição | Inflamação | PCR, contagem leucocitária, clínica. |
-| PKU | Galactosemia | Aminoácido vs carboidrato — triagens distintas. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Albumina** | **Pré-albumina** | **Crônico** (20d) vs **Agudo** (2d) |
+| **Desnutrição** | **Inflamação** | PCR **Baixo** vs PCR **Alto** |
+| **PKU** | **Xarope de Bordo** | **Fenilalanina** vs **Leucina/Isoleucina/Valina** |
+| **Hepcidina** | **Ferritina** | **Bloqueador** de absorção vs **Estoque** tecidual |
 
 ### Frase-âncora para não esquecer
 

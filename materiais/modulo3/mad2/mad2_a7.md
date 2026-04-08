@@ -97,17 +97,19 @@ No mundo real, reconhecer sarampo e rubéola cedo não é apenas fazer diagnóst
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Febre alta + tosse:** pensar em sarampo.
+- **Gestante com rash:** lembrar de rubéola.
+- **Pródromo forte:** pesa para sarampo.
+- **Quadro brando:** não exclui risco importante.
+- **Estado vacinal:** muda probabilidade diagnóstica.
+- **Surto coletivo:** exige vigilância e bloqueio.
+- **Rubéola congênita:** é ponto central de prova.
+- **Exantema viral:** sempre pede contexto epidemiológico.
 
-
-Febre alta + tosse: pensar em sarampo. Gestante com rash: lembrar de rubéola. Pródromo forte: pesa para sarampo.
-
-Quadro brando: não exclui risco importante. Estado vacinal: muda probabilidade diagnóstica. Surto coletivo: exige vigilância e bloqueio.
-
-Rubéola congênita: é ponto central de prova. Exantema viral: sempre pede contexto epidemiológico.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -119,5 +121,4 @@ Rubéola congênita: é ponto central de prova. Exantema viral: sempre pede cont
 | Diagnóstico clínico isolado | Raciocínio clínico-epidemiológico | Exantema exige leitura do contexto vacinal e de contato |
 
 ### Frase-âncora para não esquecer
-
 > "No exantema viral, o rash aparece na pele, mas a resposta certa nasce do contexto."

@@ -8,13 +8,24 @@
 
 ## Relevância Clínica e Acadêmica
 
-A síndrome de fragilidade é um estado de vulnerabilidade a estressores em que múltiplos sistemas perdem reserva, aumentando risco de quedas, hospitalização, institucionalização e morte. No *Cecil*, o foco saiu de “só idade cronológica” para função (marcha, força, cognição, autonomia). Em prova, critérios de fragilidade (fenótipo de Fried ou adaptações) e instrumentos como velocidade da marcha e Short Physical Performance Battery (SPPB) aparecem como formas de estratificar risco e planejar intervenção (exercício, nutrição, revisão medicamentosa).
+A **síndrome de fragilidade** é um estado de **vulnerabilidade** a estressores em que múltiplos sistemas perdem reserva, aumentando risco de **quedas**, **hospitalização**, **institucionalização** e **morte**. No *Cecil*, o foco saiu de “só idade cronológica” para **função** (marcha, força, cognição, autonomia). Em prova, **critérios de fragilidade** (fenótipo de Fried ou adaptações) e instrumentos como **velocidade da marcha** e **Short Physical Performance Battery (SPPB)** aparecem como formas de **estratificar risco** e planejar intervenção (exercício, nutrição, revisão medicamentosa).
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A4-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Por que “funcionalidade” importa mais que o número no RG
 
-Atividades básicas da vida diária (ABVD) e instrumentais (AIVD) traduzem o impacto real da doença. Um paciente com PAH controlada mas impossibilitado de sair de casa tem prioridade de manejo distinta daquele que caminha todos os dias.
+**Atividades básicas da vida diária (ABVD)** e **instrumentais (AIVD)** traduzem o impacto real da doença. Um paciente com **PAH controlada** mas **impossibilitado de sair de casa** tem prioridade de manejo distinta daquele que **caminha todos os dias**.
 
 | Domínio | Exemplos de medida |
 |---------|-------------------|
@@ -23,7 +34,7 @@ Atividades básicas da vida diária (ABVD) e instrumentais (AIVD) traduzem o imp
 | Cognição | Mini-Mental, MoCA (conforme contexto) |
 | Nutrição | Perda de peso não intencional, albumina (interpretar com cautela) |
 
-> **Pegadinha:** fragilidade pode coexistir com IMC “normal” — sarcopenia e perda de massa muscular não se veem só na balança.
+> **Pegadinha:** **fragilidade** pode coexistir com **IMC “normal”** — sarcopenia e perda de massa muscular não se veem só na balança.
 
 ---
 
@@ -37,7 +48,7 @@ Critérios frequentemente citados na literatura (presença de **3 ou mais** comp
 4. **Lentidão da marcha** (tempo para percorrer distância padronizada).  
 5. **Fraqueza muscular** (força de preensão ajustada a sexo e IMC).
 
-> **Dica de Prova:** você não precisa decorar cortes numéricos soltos — precisa saber que são cinco domínios e que fragilidade é síndrome clínica, não só “idoso magro”.
+> **Dica de Prova:** você não precisa decorar cortes numéricos soltos — precisa saber **que são cinco domínios** e que fragilidade é **síndrome clínica**, não só “idoso magro”.
 
 ---
 
@@ -55,15 +66,15 @@ Avaliação geriátrica amplia (visão, audição, humor, cuidador, ambiente dom
 
 ## Pré-fragilidade e prevenção
 
-Intervenções com exercício multimodal (aeróbio + resistência + equilíbrio), suporte nutricional quando déficit, e redução de fármacos desnecessários podem atrasar transição para fragilidade estabelecida.
+Intervenções com **exercício multimodal** (aeróbio + resistência + equilíbrio), **suporte nutricional** quando déficit, e **redução de fármacos** desnecessários podem **atrasar** transição para fragilidade estabelecida.
 
-> **Pegadinha:** tratar pressão “número perfeito” com hipotensão ortostática e quedas — o alvo pressórico no idoso frágil é individualizado.
+> **Pegadinha:** tratar **pressão “número perfeito”** com hipotensão ortostática e quedas — o alvo pressórico no idoso frágil é **individualizado**.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente de 78 anos com HRC estável mas medo de cair e evita sair: avalie marcha, medicamentos (benzodiazepínicos, anti-hipertensivos), visão, ambiente (tapetes, iluminação). Fragilidade é tratável em parte — não é apenas encaminhar “para o lar” sem tentativa de reabilitação e segurança da casa.
+Paciente de 78 anos com **HRC** estável mas **medo de cair** e **evita sair**: avalie **marcha**, **medicamentos** (benzodiazepínicos, anti-hipertensivos), **visão**, **ambiente** (tapetes, iluminação). Fragilidade é **tratável em parte** — não é apenas encaminhar “para o lar” sem tentativa de **reabilitação** e **segurança da casa**.
 
 ---
 
@@ -71,7 +82,7 @@ Paciente de 78 anos com HRC estável mas medo de cair e evita sair: avalie march
 
 - Fragilidade = **síndrome** com componentes mensuráveis (Fried e outros modelos).  
 - **Função** (marcha, força) prediz melhor que idade sozinha.  
-- SPPB, TUG, velocidade da marcha são exemplos de testes funcionais.  
+- **SPPB**, **TUG**, **velocidade da marcha** são exemplos de testes funcionais.  
 - **Pré-fragilidade** é janela para intervenção.  
 - Metas clínicas (PA, glicemia) devem **respeitar** risco de quedas e ortostatismo.
 
@@ -81,12 +92,11 @@ Paciente de 78 anos com HRC estável mas medo de cair e evita sair: avalie march
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Critérios fenotípicos** de Fried (ideia dos 5 domínios).  
-- **Velocidade da marcha** e **SPPB** como prognóstico.  
-- Diferença frágil × pré-frágil × robusto (conceito).  
-- Objetivos **individualizados** em idoso frágil.
+Critérios fenotípicos de Fried (ideia dos 5 domínios). Velocidade da marcha e SPPB como prognóstico.
+
+Diferença frágil × pré-frágil × robusto (conceito). Objetivos individualizados em idoso frágil.
 
 ### Diferenciações que a Uninove adora cobrar
 

@@ -83,7 +83,7 @@ Em herpesvírus, diagnóstico não é só "qual agente é". É também "em que h
 
 Paciente imunocompetente com herpes labial recorrente, em geral, segue curso limitado. Paciente imunossuprimido com CMV, por outro lado, pode necessitar investigação aprofundada e acompanhamento rigoroso.
 
-Esse raciocínio é valorizado na **Uninove** porque aproxima o conteúdo da prática real: o quadro clínico não é uma fotografia isolada, mas resultado da interação agente-hospedeiro-ambiente.
+Esse raciocínio é valorizado na Uninove porque aproxima o conteúdo da prática real: o quadro clínico não é uma fotografia isolada, mas resultado da interação agente-hospedeiro-ambiente.
 
 ## Como a banca costuma construir a questão
 
@@ -128,17 +128,19 @@ Quando você identifica padrão de recorrência, localização das lesões e est
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Latência:** sem entender isso, você erra herpesvírus.
+- **HSV:** lesão dolorosa e recorrente em padrão típico.
+- **VZV primário:** quadro de varicela.
+- **VZV reativado:** zóster em dermátomo, geralmente unilateral.
+- **EBV:** pense em mononucleose-like com fadiga importante.
+- **CMV:** ganha peso em imunossupressão.
+- **Recidiva:** em herpes, costuma ser reativação.
+- **Hospedeiro:** imunidade muda apresentação e prognóstico.
 
-
-Latência: sem entender isso, você erra herpesvírus. HSV: lesão dolorosa e recorrente em padrão típico. VZV primário: quadro de varicela.
-
-VZV reativado: zóster em dermátomo, geralmente unilateral. EBV: pense em mononucleose-like com fadiga importante. CMV: ganha peso em imunossupressão.
-
-Recidiva: em herpes, costuma ser reativação. Hospedeiro: imunidade muda apresentação e prognóstico.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -150,5 +152,4 @@ Recidiva: em herpes, costuma ser reativação. Hospedeiro: imunidade muda aprese
 | CMV em imunossuprimido | Virose autolimitada | O contexto imune torna CMV muito mais relevante |
 
 ### Frase-âncora para não esquecer
-
 > "Herpesvírus não desaparece da história: ele silencia, fica latente e volta quando o hospedeiro perde defesa."

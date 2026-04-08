@@ -9,7 +9,7 @@
 
 Autoimunidade é o tema em que imunologia encontra o consultório de forma mais direta. É aqui que você entende por que o organismo, que deveria proteger, passa a atacar tecido próprio de maneira crônica. Para quem está estudando medicina, isso muda completamente o olhar sobre sintomas que parecem soltos, como fadiga, artralgia, rash, queda de função renal ou alterações hematológicas sem causa infecciosa evidente.
 
-Na **Uninove**, os professores costumam cobrar autoimunidade por raciocínio de mecanismo, não por lista de doenças. A pergunta típica não é apenas "qual diagnóstico", mas "qual tipo de resposta imune está causando dano". Quem aprende essa camada mecanística acerta melhor prova e toma decisões clínicas mais seguras.
+Na Uninove, os professores costumam cobrar autoimunidade por raciocínio de mecanismo, não por lista de doenças. A pergunta típica não é apenas "qual diagnóstico", mas "qual tipo de resposta imune está causando dano". Quem aprende essa camada mecanística acerta melhor prova e toma decisões clínicas mais seguras.
 
 ### Figura sugerida
 
@@ -106,17 +106,19 @@ No atendimento real, autoimunidade pede leitura dinâmica: atividade hoje, dano 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Autoimunidade:** resposta imune contra estruturas próprias.
+- **Surtos e remissões:** refletem atividade inflamatória variável.
+- **Imunocomplexo:** favorece padrão multissistêmico.
+- **Mecanismo celular:** pode dominar em doença órgão-específica.
+- **Exame sem clínica:** não fecha atividade de doença.
+- **Órgão em risco:** prioriza conduta e monitorização.
+- **Controle terapêutico:** precisa reduzir inflamação e toxicidade.
+- **Seguimento longitudinal:** evita perder progressão silenciosa.
 
-
-Autoimunidade: resposta imune contra estruturas próprias. Surtos e remissões: refletem atividade inflamatória variável. Imunocomplexo: favorece padrão multissistêmico.
-
-Mecanismo celular: pode dominar em doença órgão-específica. Exame sem clínica: não fecha atividade de doença. Órgão em risco: prioriza conduta e monitorização.
-
-Controle terapêutico: precisa reduzir inflamação e toxicidade. Seguimento longitudinal: evita perder progressão silenciosa.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,5 +130,4 @@ Controle terapêutico: precisa reduzir inflamação e toxicidade. Seguimento lon
 | Controle sintomático rápido | Controle de doença sustentado | Sustentado requer manutenção e monitorização contínua |
 
 ### Frase-âncora para não esquecer
-
 > "Na autoimunidade, não basta baixar sintoma: é preciso quebrar o ciclo de dano ao órgão."

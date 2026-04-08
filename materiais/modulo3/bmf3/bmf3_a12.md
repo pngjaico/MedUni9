@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A filtração glomerular é o primeiro passo da formação da urina. A Taxa de Filtração Glomerular (TFG) é o principal marcador da função renal e define os estágios da doença renal crônica. A **Uninove** cobra frequentemente os determinantes da TFG, a equação de Starling aplicada ao glomérulo e o cálculo do **clearance** de creatinina.
+A filtração glomerular é o primeiro passo da formação da urina. A Taxa de Filtração Glomerular (TFG) é o principal marcador da função renal e define os estágios da doença renal crônica. A Uninove cobra frequentemente os determinantes da TFG, a equação de Starling aplicada ao glomérulo e o cálculo do clearance de creatinina.
 
 ### Figura sugerida
 
@@ -157,17 +157,16 @@ Na diabetes mellitus tipo 2, a hiperglicemia crônica leva à glicosilação da 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-TFG normal: ~125 mL/min; 180 L/dia filtrados; ~1-2 L/dia de urina. Barreira: endotélio fenestrado → MBG (carga negativa) → fenda de filtração (nefrina). Albumina NÃO filtra: carga negativa repelida pela MBG.
-
-Creatinina: filtrada + levemente secretada pelo TCP → superestima TFG (~10%). Inulina: padrão-ouro (filtrada, não reabsorvida, não secretada) — só laboratorial. IECA/BRA: dilata eferente → ↓pressão intraglomerular → nefroprotetor.
-
-AINEs: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco.
+- **TFG normal:** ~125 mL/min; 180 L/dia filtrados; ~1-2 L/dia de urina
+- **Barreira:** endotélio fenestrado → MBG (carga negativa) → fenda de filtração (nefrina)
+- **Albumina NÃO filtra:** carga negativa repelida pela MBG
+- **Creatinina:** filtrada + levemente secretada pelo TCP → superestima TFG (~10%)
+- **Inulina:** padrão-ouro (filtrada, não reabsorvida, não secretada) — só laboratorial
+- **IECA/BRA:** dilata eferente → ↓pressão intraglomerular → nefroprotetor
+- **AINEs:** bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -179,5 +178,4 @@ AINEs: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco
 | MBG normal | MBG lesada | Normal: repele albumina (carga negativa); lesada: proteinúria, hematúria |
 
 ### Frase-âncora para não esquecer
-
 > "A TFG é o coração da função renal: filtra 180 litros por dia, mas te devolve 178 — e quando a creatinina sérica sobe ao dobro, a TFG caiu à metade."

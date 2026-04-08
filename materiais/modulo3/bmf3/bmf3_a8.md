@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As secreções digestivas são responsáveis pelo processamento químico dos alimentos. Compreender a composição, a regulação e o mecanismo de produção de cada secreção é essencial para entender doenças como úlcera péptica, pancreatite, fibrose cística (afeta secreção pancreática) e icterícia. **Uninove** cobra frequentemente as fases de secreção gástrica e os componentes da bile.
+As secreções digestivas são responsáveis pelo processamento químico dos alimentos. Compreender a composição, a regulação e o mecanismo de produção de cada secreção é essencial para entender doenças como úlcera péptica, pancreatite, fibrose cística (afeta secreção pancreática) e icterícia. Uninove cobra frequentemente as fases de secreção gástrica e os componentes da bile.
 
 ### Figura sugerida
 
@@ -155,17 +155,16 @@ Na fibrose cística, mutações no gene CFTR comprometem o transporte de Cl⁻ n
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Parótida: serosa, amilase salivar. Célula parietal: HCl (via H⁺/K⁺-ATPase) + FI; estimulada por ACh, gastrina, histamina. Célula principal: pepsinogênio → pepsina (ativada por HCl).
-
-Fases: cefálica (vago) → gástrica (gastrina) → intestinal (INIBIÇÃO). Enteroquinase: ativa tripsinogênio → tripsina (no duodeno). Sais biliares: absorvidos no íleo terminal (circulação êntero-hepática).
-
-IBP (omeprazol): bloqueia H⁺/K⁺-ATPase (não o receptor H2).
+- **Parótida:** serosa, amilase salivar
+- **Célula parietal:** HCl (via H⁺/K⁺-ATPase) + FI; estimulada por ACh, gastrina, histamina
+- **Célula principal:** pepsinogênio → pepsina (ativada por HCl)
+- **Fases:** cefálica (vago) → gástrica (gastrina) → intestinal (INIBIÇÃO)
+- **Enteroquinase:** ativa tripsinogênio → tripsina (no duodeno)
+- **Sais biliares:** absorvidos no íleo terminal (circulação êntero-hepática)
+- **IBP (omeprazol):** bloqueia H⁺/K⁺-ATPase (não o receptor H2)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -177,5 +176,4 @@ IBP (omeprazol): bloqueia H⁺/K⁺-ATPase (não o receptor H2).
 | Bilirrubina livre | Bilirrubina conjugada | Livre (indireta) = insolúvel, ligada à albumina; Conjugada (direta) = solúvel, excretada na bile |
 
 ### Frase-âncora para não esquecer
-
 > "A célula parietal é como uma fábrica de acidez com dois produtos: HCl para digerir e FI para não morrer de anemia — e quem apaga essa fábrica é o omeprazol, bloqueando a bomba de prótons."

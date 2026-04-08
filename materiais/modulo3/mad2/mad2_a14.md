@@ -9,7 +9,7 @@
 
 Helmintíases são frequentes em prova por associação entre ciclo parasitário, manifestações gastrointestinais e complicações em imunossuprimidos.
 
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo **fisiopatológico**, diferencial e conduta inicial.
+Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo fisiopatológico, diferencial e conduta inicial.
 
 
 
@@ -84,17 +84,16 @@ No cuidado real, rastrear parasitose antes de imunossupressão pode evitar desfe
 Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Síndrome dominante:** define direção da hipótese principal.
+- **Mecanismo-chave:** explica sinais e exames mais relevantes.
+- **Diferencial crítico:** separa alternativas muito parecidas.
+- **Marcador de gravidade:** muda urgência e nível de cuidado.
+- **Conduta inicial:** precisa ser segura e justificável.
 
-
-Síndrome dominante: define direção da hipótese principal. Mecanismo-chave: explica sinais e exames mais relevantes.
-
-Diferencial crítico: separa alternativas muito parecidas. Marcador de gravidade: muda urgência e nível de cuidado.
-
-Conduta inicial: precisa ser segura e justificável.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -106,13 +105,4 @@ Conduta inicial: precisa ser segura e justificável.
 | Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
 
 ### Frase-âncora para não esquecer
-
 > "Helmintíase pode ser silenciosa até encontrar um hospedeiro vulnerável."
-
-## Revisão Expressa em 5 Perguntas
-
-- Qual é o mecanismo fisiopatológico central desta aula?
-- Qual achado diferencia melhor o principal diagnóstico diferencial?
-- Qual sinal de gravidade muda conduta imediatamente?
-- Qual exame tem maior valor para confirmar hipótese principal?
-- Qual erro de prova é mais comum nesse tema?

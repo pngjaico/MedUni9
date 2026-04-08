@@ -4,7 +4,7 @@
 
 A vacinação é uma das intervenções de saúde pública mais eficazes da história — responsável pela erradicação da varíola e eliminação da poliomielite em grande parte do mundo. Do ponto de vista imunológico, ela explora o princípio da memória adaptativa: exposição controlada a um antígeno (ou fragmento dele) para gerar células de memória sem causar a doença.
 
-Para o médico em formação, entender os tipos de vacinas é essencial para orientar pacientes, respeitar contraindicações (especialmente em imunossuprimidos) e compreender falhas vacinais. A **Uninove** frequentemente cobra as diferenças entre imunização ativa/passiva, natural/artificial, e quais vacinas são contraindicadas em gestantes e imunossuprimidos.
+Para o médico em formação, entender os tipos de vacinas é essencial para orientar pacientes, respeitar contraindicações (especialmente em imunossuprimidos) e compreender falhas vacinais. A Uninove frequentemente cobra as diferenças entre imunização ativa/passiva, natural/artificial, e quais vacinas são contraindicadas em gestantes e imunossuprimidos.
 
 ### Figura sugerida
 
@@ -169,17 +169,17 @@ Substâncias que aumentam a imunogenicidade:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Ativa:** organismo produz anticorpos (vacina ou doença); **Passiva:** recebe prontos (soro, IgG materna)
+- **Atenuada:** imunidade forte; contraindicada em imunossuprimidos e gestantes
+- **Inativada/Subunidade:** segura para todos; pode precisar reforço
+- **Conjugada:** eficaz em < 2 anos (memória); **Polissacarídica pura:** sem memória — ineficaz < 2 anos
+- **mRNA:** não integra ao DNA; biodegradável
+- Hepatite B = recombinante (HBsAg sem vírus real) — segura em qualquer paciente
 
-
-Ativa: organismo produz anticorpos (vacina ou doença); Passiva: recebe prontos (soro, IgG materna). Atenuada: imunidade forte; contraindicada em imunossuprimidos e gestantes.
-
-Inativada/Subunidade: segura para todos; pode precisar reforço. Conjugada: eficaz em < 2 anos (memória); Polissacarídica pura: sem memória — ineficaz < 2 anos.
-
-MRNA: não integra ao DNA; biodegradável. Hepatite B = recombinante (HBsAg sem vírus real) — segura em qualquer paciente.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -192,13 +192,4 @@ MRNA: não integra ao DNA; biodegradável. Hepatite B = recombinante (HBsAg sem 
 | IgG materna (passiva natural) | Vacina (ativa artificial) | IgG materna = dura ~6 meses; Vacina = gera memória duradoura |
 
 ### Frase-âncora para não esquecer
-
 > "Imunossuprimido não pode receber vacina viva — como não se entrega um tigre domado para quem não tem força de segurá-lo. Use vacinas mortas (inativadas/subunidades): seguras para todos."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

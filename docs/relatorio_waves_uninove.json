@@ -1,0 +1,210 @@
+{
+  "date": "2026-04-07",
+  "strict_gate": "PASS nos 3 critérios por aula + >=7 por aula",
+  "wave1": [
+    {
+      "materia": "tecnica_operatoria",
+      "score": 2.67,
+      "n": 60,
+      "meta": 0,
+      "template": 0,
+      "table_like": 0,
+      "len_obvious": 16,
+      "dup_stem": 0
+    },
+    {
+      "materia": "bmf1",
+      "score": 7.95,
+      "n": 220,
+      "meta": 4,
+      "template": 0,
+      "table_like": 6,
+      "len_obvious": 88,
+      "dup_stem": 0
+    },
+    {
+      "materia": "bmf4",
+      "score": 8.39,
+      "n": 180,
+      "meta": 0,
+      "template": 0,
+      "table_like": 42,
+      "len_obvious": 34,
+      "dup_stem": 0
+    },
+    {
+      "materia": "mad2",
+      "score": 8.72,
+      "n": 200,
+      "meta": 1,
+      "template": 2,
+      "table_like": 5,
+      "len_obvious": 100,
+      "dup_stem": 0
+    },
+    {
+      "materia": "semiologia2",
+      "score": 9.44,
+      "n": 90,
+      "meta": 17,
+      "template": 0,
+      "table_like": 0,
+      "len_obvious": 7,
+      "dup_stem": 0
+    },
+    {
+      "materia": "fisiopato3",
+      "score": 10.23,
+      "n": 150,
+      "meta": 21,
+      "template": 0,
+      "table_like": 3,
+      "len_obvious": 41,
+      "dup_stem": 0
+    },
+    {
+      "materia": "bcm1",
+      "score": 11.07,
+      "n": 210,
+      "meta": 4,
+      "template": 1,
+      "table_like": 5,
+      "len_obvious": 148,
+      "dup_stem": 0
+    }
+  ],
+  "wave2": [
+    {
+      "materia": "sus",
+      "score": 12.72,
+      "n": 90,
+      "meta": 10,
+      "template": 0,
+      "table_like": 0,
+      "len_obvious": 47,
+      "dup_stem": 0
+    },
+    {
+      "materia": "semiologia1",
+      "score": 12.94,
+      "n": 90,
+      "meta": 13,
+      "template": 0,
+      "table_like": 1,
+      "len_obvious": 49,
+      "dup_stem": 0
+    },
+    {
+      "materia": "semiologia3",
+      "score": 14.33,
+      "n": 60,
+      "meta": 17,
+      "template": 0,
+      "table_like": 0,
+      "len_obvious": 17,
+      "dup_stem": 0
+    },
+    {
+      "materia": "bmf2",
+      "score": 14.37,
+      "n": 160,
+      "meta": 4,
+      "template": 2,
+      "table_like": 2,
+      "len_obvious": 52,
+      "dup_stem": 0
+    },
+    {
+      "materia": "mad1",
+      "score": 20.94,
+      "n": 240,
+      "meta": 14,
+      "template": 72,
+      "table_like": 83,
+      "len_obvious": 118,
+      "dup_stem": 2
+    },
+    {
+      "materia": "bioestatistica",
+      "score": 24.92,
+      "n": 120,
+      "meta": 0,
+      "template": 76,
+      "table_like": 56,
+      "len_obvious": 24,
+      "dup_stem": 3
+    }
+  ],
+  "wave3": [
+    {
+      "materia": "semiologia4",
+      "score": 26.0,
+      "n": 100,
+      "meta": 0,
+      "template": 57,
+      "table_like": 52,
+      "len_obvious": 38,
+      "dup_stem": 0
+    },
+    {
+      "materia": "indicadores",
+      "score": 27.05,
+      "n": 110,
+      "meta": 0,
+      "template": 75,
+      "table_like": 51,
+      "len_obvious": 27,
+      "dup_stem": 11
+    },
+    {
+      "materia": "saude_trabalhador",
+      "score": 27.69,
+      "n": 80,
+      "meta": 0,
+      "template": 48,
+      "table_like": 15,
+      "len_obvious": 49,
+      "dup_stem": 30
+    },
+    {
+      "materia": "ds",
+      "score": 28.67,
+      "n": 30,
+      "meta": 0,
+      "template": 19,
+      "table_like": 18,
+      "len_obvious": 9,
+      "dup_stem": 3
+    },
+    {
+      "materia": "pmh",
+      "score": 30.93,
+      "n": 140,
+      "meta": 0,
+      "template": 96,
+      "table_like": 98,
+      "len_obvious": 48,
+      "dup_stem": 4
+    },
+    {
+      "materia": "fisiopato_farmaco",
+      "score": 33.04,
+      "n": 140,
+      "meta": 0,
+      "template": 83,
+      "table_like": 103,
+      "len_obvious": 38,
+      "dup_stem": 62
+    },
+    {
+      "materia": "bmf3",
+      "score": 33.61,
+      "n": 220,
+      "meta": 0,
+      "template": 138,
+      "table_like": 179,
+      "len_obvious": 118,
+      "dup_stem": 11
+    }
+  ]
+}

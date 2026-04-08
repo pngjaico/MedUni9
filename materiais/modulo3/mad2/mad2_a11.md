@@ -9,7 +9,7 @@
 
 Poliovírus é um tema que costuma parecer antigo até o aluno perceber que ele condensa várias ideias centrais da medicina: transmissão fecal-oral, neurotropismo viral, diferença entre infecção assintomática e doença grave, além do papel decisivo da vacinação coletiva. É uma aula importante não só pelo agente em si, mas porque ensina como uma infecção aparentemente banal pode, em pequena parcela dos casos, atingir o sistema nervoso central e produzir sequela incapacitante.
 
-Na **Uninove**, a cobrança geralmente mistura microbiologia, clínica neurológica e saúde pública. A questão pode perguntar sobre a via de transmissão, o padrão de paralisia, o motivo de a vacinação ser tão importante ou o raciocínio que diferencia poliomielite de outras causas de fraqueza aguda. Quem entende a lógica do poliovírus como enterovírus com potencial neuroinvasivo não depende de decorar frases soltas.
+Na Uninove, a cobrança geralmente mistura microbiologia, clínica neurológica e saúde pública. A questão pode perguntar sobre a via de transmissão, o padrão de paralisia, o motivo de a vacinação ser tão importante ou o raciocínio que diferencia poliomielite de outras causas de fraqueza aguda. Quem entende a lógica do poliovírus como enterovírus com potencial neuroinvasivo não depende de decorar frases soltas.
 
 ### Figura sugerida
 
@@ -77,7 +77,7 @@ Para organizar melhor, vale seguir esta ordem: primeiro definir se o quadro é m
 
 ## O que diferencia poliomielite de outras infecções virais do SNC
 
-Nem toda infecção viral do **SNC** se apresenta como poliovírus. Muitas produzem meningite asséptica, encefalite, rebaixamento do nível de consciência ou convulsão. A poliomielite chama atenção porque o dano mais clássico recai sobre a função motora periférica, gerando a imagem semiológica da fraqueza flácida.
+Nem toda infecção viral do SNC se apresenta como poliovírus. Muitas produzem meningite asséptica, encefalite, rebaixamento do nível de consciência ou convulsão. A poliomielite chama atenção porque o dano mais clássico recai sobre a função motora periférica, gerando a imagem semiológica da fraqueza flácida.
 
 Esse detalhe ajuda muito quando a questão tenta confundir com outras viroses neurotrópicas. Se o núcleo do caso for alteração comportamental, convulsão ou encefalopatia difusa, o raciocínio principal provavelmente está em outro lugar. Se o enunciado puxa para paralisia flácida em contexto epidemiológico compatível, a pólio volta ao centro.
 
@@ -101,17 +101,19 @@ Na prática, o médico pode até nunca encontrar um caso clássico de poliomieli
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Via fecal-oral:** é a porta clássica da pólio.
+- **Enterovírus:** esse é o grupo do poliovírus.
+- **Paralisia flácida:** é o quadro neurológico mais cobrado.
+- **Motor mais que sensitivo:** esse contraste ajuda muito.
+- **Assimetria da fraqueza:** favorece pólio.
+- **Vacina:** é o eixo de prevenção real.
+- **Cobertura coletiva:** define proteção populacional.
+- **Vigilância:** continua essencial mesmo com baixa incidência.
 
-
-Via fecal-oral: é a porta clássica da pólio. Enterovírus: esse é o grupo do poliovírus. Paralisia flácida: é o quadro neurológico mais cobrado.
-
-Motor mais que sensitivo: esse contraste ajuda muito. Assimetria da fraqueza: favorece pólio. Vacina: é o eixo de prevenção real.
-
-Cobertura coletiva: define proteção populacional. Vigilância: continua essencial mesmo com baixa incidência.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -123,5 +125,4 @@ Cobertura coletiva: define proteção populacional. Vigilância: continua essenc
 | Via entérica | Via respiratória principal | Poliovírus é classicamente lembrado pela transmissão fecal-oral |
 
 ### Frase-âncora para não esquecer
-
 > "Pólio entra pelo intestino, mas a sequela que marca a história aparece no movimento."

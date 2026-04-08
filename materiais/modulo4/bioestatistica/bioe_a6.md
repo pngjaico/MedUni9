@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A pesquisa qualitativa responde perguntas sobre experiências, significados e processos que os números não conseguem capturar. Por que pacientes abandonam tratamento? Como famílias tomam decisões sobre vacinação? O que dificulta a adesão ao pré-natal? Essas perguntas exigem métodos qualitativos. A **Uninove** cobra a distinção entre abordagens qualitativas e quantitativas, os principais métodos e os critérios de validade que são exclusivos do paradigma qualitativo.
+A pesquisa qualitativa responde perguntas sobre experiências, significados e processos que os números não conseguem capturar. Por que pacientes abandonam tratamento? Como famílias tomam decisões sobre vacinação? O que dificulta a adesão ao pré-natal? Essas perguntas exigem métodos qualitativos. A Uninove cobra a distinção entre abordagens qualitativas e quantitativas, os principais métodos e os critérios de validade que são exclusivos do paradigma qualitativo.
 
 ### Figura sugerida
 
@@ -112,17 +112,18 @@ Em saúde pública e atenção primária, métodos qualitativos são essenciais 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Pesquisa qualitativa:** explora significados, processos e contextos — dados textuais, não numericos.
+- **Grupo focal:** 6-12 pessoas, discussao guiada, dados coletivos e de interacao.
+- **Entrevista em profundidade:** individual, roteiro aberto ou semiestruturado.
+- **Saturação teórica:** critério de parada da coleta — nao ha n pré-definido.
+- **Análise de conteúdo:** categorias tematicas extraidas do texto.
+- **Triangulação:** multiplas fontes para aumentar credibilidade dos achados.
+- **Transferibilidade:** achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).
 
-
-Pesquisa qualitativa: explora significados, processos e contextos — dados textuais, não numericos. Grupo focal: 6-12 pessoas, discussao guiada, dados coletivos e de interacao. Entrevista em profundidade: individual, roteiro aberto ou semiestruturado.
-
-Saturação teórica: critério de parada da coleta — nao ha n pré-definido. Análise de conteúdo: categorias tematicas extraidas do texto. Triangulação: multiplas fontes para aumentar credibilidade dos achados.
-
-Transferibilidade: achados aplicaveis a outros contextos similares (nao eh generalizacao estatistica).
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -134,5 +135,4 @@ Transferibilidade: achados aplicaveis a outros contextos similares (nao eh gener
 | Analise de conteudo | Analise de discurso | Conteudo: o que esta dito (temas); Discurso: como e por que se diz |
 
 ### Frase-âncora para não esquecer
-
 > "Na pesquisa qualitativa nao se generaliza para a populacao — transfere-se para contextos similares. E o tamanho amostral eh determinado pela saturacao, nao pelo n."

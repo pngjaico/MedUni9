@@ -99,12 +99,11 @@ Paciente com **disfagia progressiva** e perda de peso **não** é “DRGE” at�
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Los Angeles** — gravidade endoscópica da esofagite (ideia).
-- **Esofagite eosinofílica** — biópsia com eosinófilos (não responde como DRGE clássica).
-- **Hérnia hiatal** grande — componente anatômico do refluxo.
-- **POEM** — miotomia endoscópica (nome e indicação em acalásia).
+Na prova, lembre que Los Angeles — gravidade endoscópica da esofagite (visão de prova). Esofagite eosinofílica — biópsia com eosinófilos (não responde como DRGE clássica).
+
+Para não errar em cenário clínico, considere também Hérnia hiatal grande — componente anatômico do refluxo. POEM — miotomia endoscópica (nome e indicação em acalásia).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -118,14 +117,3 @@ Paciente com **disfagia progressiva** e perda de peso **não** é “DRGE” at�
 ### Frase-âncora para não esquecer
 
 > “**Disfagia** muda o jogo — **não é refluxo simples** até investigar.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **seleção de paciente**, **exames fisiológicos** e **expectativa realista** de sintomas pós-operatórios. **Consentimento** informado evita frustração em casos atípicos.
-
-### Leitura de reforço
-
-- Consensos de DRGE e indicação cirúrgica
-- Diretrizes de Barrett e displasia

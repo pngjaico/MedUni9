@@ -105,12 +105,11 @@ Paciente idoso com dor inguino-crural intensa e massa **irredutível** com parad
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Nyhus/Rutkow** — ideia de classificação inguinal.
-- **Ligamento de Cooper** — referência em reparo femoral/McVay (conceito).
-- **TEP x TAPP** — laparoscopia inguinal (ideia geral).
-- **Descompressão** em abdome agudo associado — prioridade clínica.
+Na prova, lembre que Nyhus/Rutkow — ideia de classificação inguinal. Ligamento de Cooper — referência em reparo femoral/McVay (conceito).
+
+Para não errar em cenário clínico, considere também TEP x TAPP — laparoscopia inguinal (ideia geral). Descompressão em abdome agudo associado — prioridade clínica.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -124,14 +123,3 @@ Paciente idoso com dor inguino-crural intensa e massa **irredutível** com parad
 ### Frase-âncora para não esquecer
 
 > “**Femoral pequena** pode **estrangular grande** alça.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **indicação**, **via de acesso** e **comorbidades** (anticoagulação, fragilidade). Sempre que citar técnica, lembre **consentimento** e **recursos** do centro.
-
-### Leitura de reforço
-
-- Livro-texto de hérnia / cirurgia geral
-- Consenso de antibiótico profilático em cirurgia limpa-contaminada

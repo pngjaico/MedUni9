@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-As micoses são causadas por fungos e se subdividem em superficiais (pele, mucosas, fâneros) e sistêmicas (órgãos internos). As micoses sistêmicas são frequentemente oportunistas em imunodeprimidos (**HIV**/**AIDS**, transplantados, neutropênicos), mas algumas causam doença em imunocompetentes (micoses endêmicas). No Brasil, Paracoccidioides brasiliensis e Histoplasma capsulatum são fungos endêmicos clinicamente relevantes.
+As micoses são causadas por fungos e se subdividem em superficiais (pele, mucosas, fâneros) e sistêmicas (órgãos internos). As micoses sistêmicas são frequentemente oportunistas em imunodeprimidos (HIV/AIDS, transplantados, neutropênicos), mas algumas causam doença em imunocompetentes (micoses endêmicas). No Brasil, Paracoccidioides brasiliensis e Histoplasma capsulatum são fungos endêmicos clinicamente relevantes.
 
-A **Uninove** cobra principalmente as micoses oportunistas do paciente com **AIDS** (criptococose, candidíase, pneumocistose) e as micoses superficiais (tinhas, candidíase mucocutânea).
+A Uninove cobra principalmente as micoses oportunistas do paciente com AIDS (criptococose, candidíase, pneumocistose) e as micoses superficiais (tinhas, candidíase mucocutânea).
 
 ### Figura sugerida
 
@@ -149,17 +149,16 @@ Tratamento das tinhas:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **PCP:** CD4 < 200; vidro fosco bilateral; SMX-TMP (profilaxia e tratamento)
+- **Criptococose:** CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina
+- **Aspergilose invasiva:** neutropênico; sinal do halo na TC; voriconazol
+- **Tinea versicolor:** Malassezia (não dermatófito); máculas hipocrômicas no tronco
+- **Candidíase esofágica:** disfagia em AIDS CD4 < 100; fluconazol empírico sem necessidade de EDA
 
-
-PCP: CD4 < 200; vidro fosco bilateral; SMX-TMP (profilaxia e tratamento). Criptococose: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina.
-
-Aspergilose invasiva: neutropênico; sinal do halo na TC; voriconazol. Tinea versicolor: Malassezia (não dermatófito); máculas hipocrômicas no tronco.
-
-Candidíase esofágica: disfagia em AIDS CD4 < 100; fluconazol empírico sem necessidade de EDA.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -172,13 +171,4 @@ Candidíase esofágica: disfagia em AIDS CD4 < 100; fluconazol empírico sem nec
 | Candidíase oral | Candidíase esofágica | Oral = placas brancas bucais; esofágica = odinofagia/disfagia → fluconazol |
 
 ### Frase-âncora para não esquecer
-
 > "CD4 200 → profilaxia para PCP (SMX-TMP). CD4 100 → atenção à criptococose (meningite + tinta da China) e candida esofágica. CD4 50 → CMV retinite (pizza de tomate). Não é só bacteriano que mata o imunossuprimido — o fungo é tão perigoso quanto."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

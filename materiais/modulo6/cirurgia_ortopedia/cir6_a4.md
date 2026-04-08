@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Icterícia reflete hiperbilirrubinemia detectável clinicamente; o raciocínio separa pré-hepática (hemólise), hepática (citolise/hepatite/tóxicos) e pós-hepática (colestase/obstrução). O cirurgião foca em obstrução biliar, colangite e neoplasias periampulares. Em prova, dominam padrão de enzimas, USG de vias biliares, papel da CPRE e urgência na sepse biliar (Reynolds).
+**Icterícia** reflete **hiperbilirrubinemia** detectável clinicamente; o raciocínio separa **pré-hepática** (hemólise), **hepática** (citolise/hepatite/tóxicos) e **pós-hepática** (**colestase/obstrução**). O cirurgião foca em **obstrução biliar**, **colangite** e **neoplasias** periampulares. Em prova, dominam **padrão de enzimas**, **USG** de vias biliares, papel da **CPRE** e **urgência** na sepse biliar (**Reynolds**).
 
 ---
 
@@ -15,11 +15,11 @@ Icterícia reflete hiperbilirrubinemia detectável clinicamente; o raciocínio s
 
 | Mecanismo | Bilirrubina | Enzimas / marcadores | Exemplo |
 |-----------|-------------|----------------------|---------|
-| Pré-hepática | Indireta ↑ | LDH, reticulócitos, queda de Hb | Hemólise |
-| Hepatocelular | Direta e indireta | ALT/AST ↑ | Hepatite, drogas |
-| Colestase/obstrução | Direta predominante | FA, GGT ↑ | Cálculo, tumor, colangite |
+| **Pré-hepática** | Indireta ↑ | LDH, reticulócitos, queda de Hb | Hemólise |
+| **Hepatocelular** | Direta e indireta | ALT/AST ↑ | Hepatite, drogas |
+| **Colestase/obstrução** | Direta predominante | FA, GGT ↑ | Cálculo, tumor, colangite |
 
-> **Pegadinha:** Colangite febril = tríade de Charcot (febre, dor, icterícia); pentada de Reynolds adiciona hipotensão e alteração mental — CPRE + antibiótico urgente + suporte (UTI).
+> **Pegadinha:** **Colangite** febril = tríade de **Charcot** (febre, dor, icterícia); **pentada de Reynolds** adiciona hipotensão e alteração mental — **CPRE** + antibiótico **urgente** + suporte (UTI).
 
 ---
 
@@ -44,7 +44,7 @@ Icterícia reflete hiperbilirrubinemia detectável clinicamente; o raciocínio s
 
 ## Exame físico e sinais de alerta
 
-Icterícia frequentemente escleral primeiro. Vesícula palpável indolor com icterícia progressiva e emagrecimento sugere malignidade distal (sinal de Courvoisier — regra mnemônica, não substituto de imagem). Ascite e esplenomegalia podem apontar doença hepática crônica.
+Icterícia frequentemente **escleral** primeiro. **Vesícula palpável indolor** com icterícia progressiva e emagrecimento sugere **malignidade distal** (sinal de **Courvoisier** — regra mnemônica, não substituto de imagem). Ascite e esplenomegalia podem apontar **doença hepática crônica**.
 
 ### Figura sugerida
 
@@ -59,7 +59,7 @@ Icterícia frequentemente escleral primeiro. Vesícula palpável indolor com ict
 
 ## Exames complementares e encaminhamento
 
-- Bilirrubinas fracionadas, FA, GGT, ALT/AST.  
+- **Bilirrubinas** fracionadas, **FA**, **GGT**, **ALT/AST**.  
 - **USG** — dilatação de vias intra/extrahepáticas, cálculos, vesícula.  
 - **TC/RM/MRCP** conforme suspeita oncológica ou estadiamento.  
 - **CPRE** terapêutico em obstrução com colangite ou coledocolitíase.
@@ -68,7 +68,7 @@ Icterícia frequentemente escleral primeiro. Vesícula palpável indolor com ict
 
 | Quadro | 1ª linha | Se confirma obstrução + sepse |
 |--------|----------|-------------------------------|
-| Icterícia + dor + febre | USG + labs | Antibiótico empírico + CPRE precoce |
+| Icterícia + dor + febre | USG + labs | Antibiótico empírico + **CPRE** precoce |
 | Icterícia progressiva + peso | TC/RM | Avaliação oncológica |
 | Suspeita hemólise | Esfregaço, LDH, haptoglobina | Hematologia |
 
@@ -77,7 +77,7 @@ Icterícia frequentemente escleral primeiro. Vesícula palpável indolor com ict
 **Figura-ID:** `CIR6-A4-F03`
 
 - **Momento:** após tríade de Charcot / colangite (correlação clínica).
-- O que mostrar: icterícia cutâneo-mucosa em contexto de colangite (exemplo ilustrativo).
+- **O que mostrar:** **icterícia** cutâneo-mucosa em contexto de **colangite** (exemplo ilustrativo).
 - **Tipo sugerido:** fotografia clínica.
 - **Legenda (rascunho):** Icterícia em paciente com colangite ascendente.
 
@@ -85,7 +85,7 @@ Icterícia frequentemente escleral primeiro. Vesícula palpável indolor com ict
 
 ## Abordagem cirúrgica x endoscópica
 
-Cálculo no colédoco com colangite: desobstrução endoscópica + antibiótico; colecistectomia quando estável. Tumor periampular com indicação: avaliação de ressecabilidade (Whipple ou alternativas paliativas conforme estágio e performance).
+**Cálculo no colédoco** com colangite: **desobstrução endoscópica** + antibiótico; **colecistectomia** quando estável. **Tumor periampular** com indicação: avaliação de **ressecabilidade** (Whipple ou alternativas paliativas conforme estágio e performance).
 
 ---
 
@@ -108,12 +108,11 @@ Paciente com **febre + hipotensão + icterícia** não é “virose” — é **
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Padrão de enzimas** separa hepatocelular de colestase.
-- **USG** como primeira imagem na maioria dos serviços.
-- **Reynolds** = colangite séptica — UTI/CPRE.
-- **Gilbert** — hiperbilirrubinemia indireta benigna (não é “cirúrgica”).
+Na prova, lembre que Padrão de enzimas separa hepatocelular de colestase. USG como primeira imagem na maioria dos serviços.
+
+Para não errar em cenário clínico, considere também Reynolds = colangite séptica — UTI/CPRE. Gilbert — hiperbilirrubinemia indireta benigna (não é “cirúrgica”).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -127,14 +126,3 @@ Paciente com **febre + hipotensão + icterícia** não é “virose” — é **
 ### Frase-âncora para não esquecer
 
 > “**Icterícia + febre + dor** = via biliar na **urgência** — não espere amanhã.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Integre estabilidade hemodinâmica, comorbidades e disponibilidade de CPRE. O melhor exame é o que seguramente confirma a causa e permite tratamento no tempo certo.
-
-### Leitura de reforço
-
-- Diretrizes de colangite (Tokyo/TG13 — conceito de gravidade)
-- Protocolos institucionais de antibiótico e suporte em sepse

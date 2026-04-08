@@ -1,0 +1,9 @@
+{
+  "status": "idle",
+  "rodou_em": null,
+  "lotes_processados": 0,
+  "questoes_curadas": 0,
+  "flashcards_gerados": 0,
+  "acoes": [],
+  "observacoes": "Aguardando primeira execução."
+}

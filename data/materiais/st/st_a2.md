@@ -1,58 +1,169 @@
-# ST — Aula 2: Notificação Compulsória e Regulamento Sanitário Internacional
+# ST — Aula 2: Normas Regulamentadoras e prevenção no cotidiano assistencial
 
-**Disciplina:** Saúde do Trabalhador e Doenças Ocupacionais
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+**Disciplina:** Saúde do trabalhador  
+**Módulo:** 3
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Nem todo agravo pode ficar restrito ao prontuário. Alguns eventos exigem resposta institucional imediata porque seu impacto extrapola o paciente individual. A prova gosta desse tema porque ele mostra que clínica, vigilância e legislação caminham juntas. Em saúde do trabalhador, notificar corretamente significa transformar sofrimento isolado em informação capaz de gerar proteção coletiva.
+As Normas Regulamentadoras (NRs) organizam prevenção de riscos ocupacionais.
+Na graduação, o erro clássico é decorar número de NR sem traduzir em decisão clínica.
+Em prova, a banca geralmente apresenta caso concreto e pergunta a medida mais efetiva.
 
-## Conceito Central
+Na prática médica, compreender NR evita condutas fragmentadas.
+Também melhora comunicação com vigilância e equipe multiprofissional.
+O resultado esperado é redução de recorrência de agravos no mesmo ambiente de trabalho.
 
-Notificação compulsória é a comunicação obrigatória de doenças, agravos ou eventos de saúde pública às autoridades sanitárias. O Regulamento Sanitário Internacional amplia essa lógica para situações com potencial repercussão internacional, exigindo capacidade de detecção, comunicação e resposta coordenada.
+### Figura sugerida
 
-## Por Que Notificar
+**Figura-ID:** `ST-A2-F01`
 
-Notificação não é burocracia vazia. Ela permite dimensionar problema, identificar surtos, planejar recursos, disparar investigação e orientar políticas públicas. Em saúde do trabalhador, subnotificação enfraquece a capacidade de reconhecer cadeias de adoecimento ligadas a ocupação, exposição ou acidente.
+- **Momento:** após a seção de relevância.
+- **O que mostrar:** mapa de integração entre NR-1, NR-6, NR-7, NR-17 e NR-32.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "NRs prioritárias na avaliação clínica ocupacional."
 
-## O Que a Prova Costuma Cobrar
+---
 
-A banca geralmente quer que o aluno reconheça a finalidade da notificação, a diferença entre assistência e vigilância e o papel dos sistemas de informação. Também costuma explorar a ideia de que alguns eventos precisam de resposta rápida por risco coletivo, mesmo antes de confirmação final completa.
+## NR-1 como base do gerenciamento de risco
 
-> **Dica de Prova:** notificação compulsória não depende de certeza absoluta em todos os casos. Em vários cenários, a suspeita já justifica comunicar para permitir ação precoce.
+NR-1 define lógica de gerenciamento de riscos ocupacionais.
+Isso significa sair da resposta pontual e pensar em prevenção estruturante.
+Quando o mesmo agravo se repete em trabalhadores de um setor, a falha tende a ser de processo.
 
-## Regulamento Sanitário Internacional
+Conduta alinhada à NR-1 valoriza hierarquia de controle:
 
-O RSI organiza cooperação entre países diante de eventos que possam constituir emergência de saúde pública de importância internacional. O conceito central não é decorar artigo legal, mas entender a necessidade de comunicação tempestiva, transparência e capacidade de resposta articulada.
+1. eliminar ou substituir a fonte de risco;
+2. adotar medidas de engenharia e organização;
+3. complementar com proteção individual.
+
+> **Dica de Prova:** se a questão fala em recorrência coletiva, priorize intervenção no processo de trabalho.
+
+---
+
+## NR-6 e eficácia real de EPI
+
+EPI não é só entrega de equipamento.
+É necessário verificar adequação ao agente, treinamento, ajuste, conservação e adesão.
+Sem esses elementos, a proteção é aparente e não efetiva.
+
+Exemplo prático:
+
+- luva inadequada para solvente orgânico pode aumentar risco por falsa sensação de segurança;
+- protetor auricular mal ajustado reduz proteção contra ruído;
+- máscara incompatível com tipo de aerossol não previne exposição crítica.
+
+> **Pegadinha:** alternativa que diz "fornecer EPI" pode estar incompleta se não houver treinamento e monitoramento de uso.
+
+---
+
+## NR-7, NR-9 e vigilância orientada por exposição
+
+NR-7 (PCMSO) e NR-9 se complementam.
+A avaliação médica periódica precisa dialogar com risco real do ambiente.
+Não é check-up genérico; é vigilância direcionada.
+
+### Tabela útil: exposição e monitoramento
+
+| Exposição predominante | Achado clínico esperado | Ação de vigilância |
+|------------------------|-------------------------|--------------------|
+| ruído crônico | piora auditiva progressiva | audiometria seriada e controle da fonte |
+| solvente volátil | cefaleia, tontura, irritação | reduzir exposição e revisar barreiras |
+| repetição e força | dor em membro superior | plano ergonômico e reabilitação |
+| material biológico | acidente perfurocortante | protocolo pós-exposição e seguimento |
+
+Essa integração entre norma e clínica é altamente cobrada em questões integradas de saúde coletiva.
+
+---
+
+## NR-17: ergonomia além da postura
+
+NR-17 aborda desenho de tarefa, ritmo, pausa, mobiliário e carga cognitiva.
+Reduzir DORT depende de organização do trabalho, não apenas de correção postural individual.
+
+Sinais de alerta no serviço:
+
+- aumento de afastamentos por dor musculoesquelética;
+- queixa de dor ao fim do turno com melhora parcial em folgas;
+- baixa autonomia sobre ritmo de tarefa;
+- metas incompatíveis com segurança operacional.
+
+Medidas iniciais combinam cuidado clínico e intervenção ocupacional.
+Sem essa dupla abordagem, há ciclo de melhora curta com recaída frequente.
+
+---
+
+## NR-32 e proteção de trabalhadores da saúde
+
+NR-32 é central para ambientes assistenciais.
+Seu foco inclui risco biológico, químico, físico e psicossocial.
+Em prova, acidente com agulha e exposição de mucosa são cenários clássicos.
+
+Conduta inicial em exposição biológica:
+
+1. cuidado local imediato;
+2. estratificação do risco;
+3. testagem conforme protocolo;
+4. avaliação de profilaxia pós-exposição;
+5. seguimento clínico-laboratorial.
+
+Falhas comuns: atraso, subregistro e orientação incompleta para seguimento.
+
+### Figura sugerida
+
+**Figura-ID:** `ST-A2-F02`
+
+- **Momento:** após a seção de NR-32.
+- **O que mostrar:** linha temporal da conduta pós-exposição (0h, 24h, seguimento).
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** "Conduta inicial e seguimento em acidente com material biológico."
+
+---
 
 ## Ponte com a Clínica
 
-Quando um profissional identifica agravo relacionado ao trabalho com relevância coletiva, ele não está apenas documentando o caso. Ele está alimentando uma rede de vigilância que pode evitar novos casos. O mesmo raciocínio vale para eventos com potencial de disseminação ampla: reconhecer cedo e comunicar cedo salva mais do que um paciente.
+Técnica de enfermagem de 27 anos sofre acidente com perfurocortante em plantão de alta demanda.
+Além da conduta imediata, a investigação do evento mostra descarte inadequado de perfurocortantes e sobrecarga de equipe.
+A resposta completa inclui manejo clínico e correção do processo de trabalho, alinhada à NR-32 e NR-1.
+
+---
+
+## Pontos-Chave para Prova
+
+- NR-1 orienta prevenção estruturante por hierarquia de controle;
+- NR-6 exige eficácia real de EPI, não só fornecimento;
+- NR-7 e NR-9 vinculam vigilância clínica à exposição;
+- NR-17 trata organização do trabalho e carga ergonômica;
+- NR-32 organiza resposta segura em serviços de saúde.
+
+---
 
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Notificação compulsória:** comunicação obrigatória ao sistema de vigilância.
-- **Finalidade:** detectar, monitorar e responder a agravos relevantes.
-- **Subnotificação:** fragiliza prevenção e política pública.
-- **Suspeita clínica:** muitas vezes já exige notificação.
-- **RSI:** coordena resposta a eventos com repercussão internacional.
-- **Saúde do trabalhador:** depende de informação confiável para intervir.
+A banca cobra aplicação prática de NR em cenário clínico.
+Você acerta quando identifica risco predominante, escolhe medida de maior impacto e integra cuidado imediato com prevenção.
+
+NR-1, NR-6, NR-7, NR-17 e NR-32 formam o núcleo mais frequente.
+Questões com repetição de agravos no mesmo setor costumam exigir resposta coletiva e organizacional.
+Questões com acidente biológico cobram protocolo inicial sem demora.
+
+Se a alternativa focar apenas no indivíduo e ignorar o processo de trabalho, desconfie.
+Em saúde do trabalhador, prevenir recorrência é parte da conduta correta.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Notificar | Confirmar diagnóstico definitivo | Notificar pode ocorrer na suspeita; confirmação é etapa diagnóstica posterior |
-| Caso clínico individual | Evento de interesse coletivo | O segundo exige comunicação ao sistema de vigilância |
-| Informação assistencial | Informação para saúde pública | A assistencial cuida do doente; a de vigilância protege a coletividade |
-| Normativa nacional | Regulamento internacional | O RSI amplia a lógica de resposta para risco transfronteiriço |
+| Entrega de EPI | Proteção efetiva | proteção efetiva exige adequação, treino e adesão |
+| Exame periódico genérico | Vigilância dirigida por risco | vigilância dirigida depende da exposição real |
+| Falha individual | Falha organizacional | recorrência coletiva sugere falha organizacional |
+| Atendimento do dano | Prevenção de recorrência | o segundo exige mudança no processo de trabalho |
 
 ### Frase-âncora para não esquecer
 
-> "O agravo que não é notificado continua invisível para o sistema."
+> "NR sem aplicação prática vira decoreba; com clínica, vira prevenção."

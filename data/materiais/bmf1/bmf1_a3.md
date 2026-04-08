@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O esqueleto sustenta, protege, permite alavancas musculares, abriga **medula hematopoética** e funciona como **reservatório mineral**. Em prova, questões exploram **classificação** de ossos, **partes do osso longo**, **tipos de ossificação** e **vulnerabilidade** da **placa de crescimento** na criança. Na clínica, **fraturas**, **metástases** e **alterações de densidade** fazem sentido quando você associa **anatomia macro** à **arquitetura** trabecular e cortical.
+O **Sistema Esquelético** é muito mais que um suporte rígido; ele é um **Órgão Endócrino e Metabólico** dinâmico. Para a prova, domine a **Hematopoese** (produção de sangue na medula vermelha) e o estoque de **Cálcio e Fósforo**. Na clínica, entenda que o osso é **Vivo**: ele se remodela sob carga (**Lei de Wolff**) e sofre em fraturas que atingem a **Placa de Crescimento** (Fise) em crianças.
 
 
 ### Figura sugerida
@@ -24,13 +24,13 @@ O esqueleto sustenta, protege, permite alavancas musculares, abriga **medula hem
 
 ## Funções: mais que “estrutura”
 
-| Função | Exemplo concreto | Implicação clínica |
-|--------|------------------|---------------------|
-| Proteção mecânica | Crânio, tórax, pélvis | Trauma contuso vs penetrante |
-| Hematopoiese | Medula em ossos planos e epífises | Biopsia, metástases “substitutivas” |
-| Reserva mineral | Hidroxiapatita no osso | Hipocalcemia crônica vs aguda |
-| Alavanca muscular | Trocanteres, tuberosidades | Força e ângulo de inserção |
-| Ancoragem | Cristas, tubérculos | Tendinopatias por tração |
+| Função do Osso | Exemplo Prático | Importância Clínica |
+|-----------------|------------------|----------------------|
+| **Hematopoiese**| Esterno e Ilíaco | **Biópsia de Medula** |
+| **Reserva Mineral**| Hidroxiapatita | Homeostase do **Cálcio** |
+| **Proteção** | Caixa Torácica | Escudo para Coração/Pulmão |
+| **Alavanca** | Tuberosidades | Inserção de **Tendões** |
+| **Reserva Lipídica**| Medula Amarela | Fonte de Energia |
 
 ---
 
@@ -38,8 +38,8 @@ O esqueleto sustenta, protege, permite alavancas musculares, abriga **medula hem
 
 | Divisão | Componentes principais | Observação de prova |
 |---------|------------------------|---------------------|
-| Axial | Crânio, coluna, tórax (esterno, costelas), hióide | Fraturas de costela → dor respiratória, não só “dor” |
-| Apendicular | Cinturas + membros | Luxações de ombro/ quadril são “apendiculares” |
+| **Axial** | Crânio, coluna, tórax (**esterno**, **costelas**), hióide | Fraturas de costela → dor respiratória |
+| **Apendicular** | Cinturas (**escapular** e **pélvica**) + membros | Luxações são mais comuns aqui |
 
 Contagem clássica de **206 ossos** no adulto; **variações** (sesamóides extras, suturas acessórias) são **normais** — não confunda com patologia em prova de anatomia descritiva.
 
@@ -47,25 +47,26 @@ Contagem clássica de **206 ossos** no adulto; **variações** (sesamóides extr
 
 ## Classificação morfológica dos ossos
 
-| Tipo | Características | Exemplos |
-|------|-----------------|----------|
-| Longo | Eixo + epífises | Fêmur, úmero, metacarpianos |
-| Curtos | Cuboside, absorção de impacto | Carpos, tarso |
-| Planos | Lâminas | Escápula, parietal |
-| Irregulares | Forma complexa | Vértebras, ossos faciais |
-| Pneumatizados | Cavidades aéreas | Ossos faciais (maxila, frontal) |
-| Sesamóides | Dentro de tendão | Patela, sesamóide do hálux |
+| Classificação | Características | Exemplo de Prova |
+|-----------------|-------------------|-------------------|
+| **Longo** | Diáfise e Epífises | **Fêmur** / Úmero |
+| **Curto** | Cuboides | **Carpo** / Tarso |
+| **Plano (Chato)**| Largos e Finos | **Esterno** / Escápula |
+| **Irregular** | Formas Complexas | **Vértebras** |
+| **Sesamoide** | Dentro do Tendão | **Patela** |
+| **Pneumático** | Cavidades de Ar | **Maxila** (Sinusite) |
 
 ---
 
 ## O osso longo: regiões e microarquitetura
 
-| Região | Local | Nota clínica |
-|--------|-------|--------------|
-| Epífise | Extremidade articular | Cartilagem de crescimento (fise) na criança |
-| Metáfise | Zona de transição | Metástases e hematogenia em alguns contextos |
-| Diáfise | Corpo / eixo | Fraturas expostas envolvem partes moles |
-| Medula óssea | Cavidade central | Amarela (gordura) vs vermelha (hematopoiese) |
+| Região do Osso Longo | Localização | Valor Clínico |
+|----------------------|---------------|----------------|
+| **Diáfise** | "Corpo" (Haste) | Tubo de osso compacto |
+| **Epífise** | Extremidades | Osso **Esponjoso** e Cartilagem |
+| **Fise** (Placa) | Entre Diáf. e Epíf.| **Crescimento** longitudinal |
+| **Periósteo** | Camada Externa | **Inervação** (Gera dor) |
+| **Endósteo** | Camada Interna | Reveste canal medular |
 
 **Compacta (cortical):** casca rígida, resistência a **torção**. **Esponjosa (trabecular):** organização em **trabéculas** segundo linhas de **tensão** (lei de Wolff).
 
@@ -77,8 +78,8 @@ Contagem clássica de **206 ossos** no adulto; **variações** (sesamóides extr
 
 | Tipo | Como ocorre | Exemplos |
 |------|-------------|----------|
-| Endocondral | Substitui **cartilagem modelo** | Maioria dos ossos longos |
-| Intramembranosa | Ossifica **matriz** mesenquimal direta | Vários ossos do crânio, clavícula (em parte) |
+| **Endocondral** | Substitui **molde de cartilagem** | Maioria dos ossos largos/membros |
+| **Intramembranosa** | Ossifica direto do mesênquima | Ossos do crânio, **clavícula** |
 
 **Centros de ossificação** primários e secundários explicam “linhas” e “núcleos” em radiografias pediátricas até a **fusão** epifário-diáfise.
 
@@ -106,11 +107,11 @@ Radiografia de **fêmur proximal** em idoso pós-queda: pense **osteoporose** + 
 
 ## Pontos-Chave para Prova
 
-- Funções do esqueleto além de suporte.
-- Axial vs apendicular com **exemplos**.
-- Tipos morfológicos e **um** exemplo cada.
-- Compacta vs esponjosa; lei de Wolff.
-- Endocondral vs intramembranosa; **fise** na criança.
+- **Esqueleto Axial:** Crânio, coluna e tórax (proteção vital).
+- **Esqueleto Apendicular:** Membros e cinturas (mobilidade).
+- **Cartilagem Articular:** Não tem vasos nem nervos; se desgasta na **Osteoartrose**.
+- **Periósteo:** É responsável pelo crescimento em **espessura** e pela reparação (calosidade).
+- **Salter-Harris:** Classificação de fraturas em crianças que atingem a **Placa Epifisária**.
 
 ---
 
@@ -118,21 +119,19 @@ Radiografia de **fêmur proximal** em idoso pós-queda: pense **osteoporose** + 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Diferença entre **epífise**, **metáfise** e **diáfise**.
-- Por que **sesamóides** existem (alavanca, proteção tendínea).
-- O que muda na radiografia quando há **perda** de **densidade** cortical vs trabecular.
-- Relação entre **placa epifisária** e risco em **fratura** pediátrica.
+- **Medula Vermelha:** Local de **Hematopoese**. Predomina em crianças; no adulto, fica em ossos planos.
+- **Medula Amarela:** Rica em **Gordura**. Substitui a vermelha na diáfise de ossos longos do adulto.
+- **Lei de Wolff:** O osso se torna mais **denso** onde há mais carga mecânica (ex: atletas).
+- **Ossificação Intramembranosa:** Não passa por cartilagem. Típica do **Crânio** e **Clavícula**.
 
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Ossificação endocondral | Intramembranosa | Há ou não **modelo cartilaginoso** substituído |
-| Osso longo | Osso curto | Eixo dominante vs bloco |
-| Osteoblasto | Osteoclasto | Deposição vs reabsorção de matriz |
-| Medula vermelha | Amarela | Hematopoiese vs gordura (com exceções) |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Osteoblasto** | **Osteoclasto** | **Forma** osso vs **Reabsorve** osso |
+| **Osso Compacto** | **Osso Esponjoso** | Resistência (Córtex) vs Metabolismo (Medula) |
+| **Endocondral** | **Intramembranosa** | Usa molde de **Cartilagem** vs Origem Direta |
+| **Hematopoese** | **Homeostase de Ca²⁺** | Produz sangue vs Regula Minerais |
 
 ### Frase-âncora para não esquecer
 

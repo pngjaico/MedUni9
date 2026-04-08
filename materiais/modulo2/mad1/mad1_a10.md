@@ -4,7 +4,7 @@
 
 As hipersensibilidades são respostas imunes exageradas ou inadequadas que causam dano tecidual ao invés de proteger o organismo. A classificação de Gell e Coombs em quatro tipos (I a IV) é uma das mais cobradas em todo o curso médico — ela organiza mecanismos que estão por trás de anafilaxia, doenças hemolíticas, vasculites, artrite reumatoide, tuberculose e contato alérgico.
 
-A **Uninove** frequentemente apresenta um quadro clínico e pede ao aluno identificar o tipo de hipersensibilidade envolvido, qual mediador está em jogo e qual o tratamento adequado. Saber os exemplos-chave de cada tipo é indispensável.
+A Uninove frequentemente apresenta um quadro clínico e pede ao aluno identificar o tipo de hipersensibilidade envolvido, qual mediador está em jogo e qual o tratamento adequado. Saber os exemplos-chave de cada tipo é indispensável.
 
 ### Figura sugerida
 
@@ -169,17 +169,16 @@ Não envolve anticorpos — mediada por **linfócitos T CD4+ (e CD8+)**
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Tipo I:** IgE → mastócito → histamina → minutos → anafilaxia = adrenalina IM
+- **Tipo II:** IgG/IgM na célula → lise, bloqueio ou estímulo → horas
+- **Tipo III:** imunocomplexos → depósito → vasculite → horas–dias → C3/C4 baixos
+- **Tipo IV:** T celular → 48–72 h → PPD, dermatite de contato, DM tipo 1
+- **Graves (tipo II estimulador)** vs. **Miastenia (tipo II bloqueador)**
 
-
-Tipo I: IgE → mastócito → histamina → minutos → anafilaxia = adrenalina IM. Tipo II: IgG/IgM na célula → lise, bloqueio ou estímulo → horas.
-
-Tipo III: imunocomplexos → depósito → vasculite → horas–dias → C3/C4 baixos. Tipo IV: T celular → 48–72 h → PPD, dermatite de contato, DM tipo 1.
-
-Graves (tipo II estimulador) vs. Miastenia (tipo II bloqueador).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -192,13 +191,4 @@ Graves (tipo II estimulador) vs. Miastenia (tipo II bloqueador).
 | Complement baixo em tipo III | Complement baixo em tipo I | Tipo III = consome complemento; Tipo I = não usa complemento |
 
 ### Frase-âncora para não esquecer
-
 > "I = Imediato (IgE + mastócito); II = célula-alvo destruída; III = complexos caem como bomba nos vasos; IV = tarde mas certeiro (T celular). Ordem = velocidade decrescente."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

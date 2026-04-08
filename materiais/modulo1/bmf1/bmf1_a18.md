@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **parede abdominal** protege vísceras, gera **pressão intra-abdominal** para **tosse**, **parto** e **esforço**, e serve de **via** para **laparotomias** e **punções**. O **peritônio** — **serosa** que reveste a cavidade e envolve órgãos — define **planos** de **drenagem**, **abscesso** e **aderências**. Sem mapa de **camadas** e **regiões**, erros de **incisão** e interpretação de **imagem** multiplicam-se.
+A **Parede Abdominal** é o escudo das vísceras. Para a prova, você deve dominar a hierarquia das camadas musculares (Os três **Oblíquos** e o **Transverso**) e a anatomia do **Canal Inguinal** (local clássico de **Hérnias**). Na clínica, entender o **Peritônio** (parietal vs visceral) é fundamental para diagnosticar quadros de **Peritonite** e planejar acessos cirúrgicos seguros.
 
 ---
 
@@ -23,15 +23,16 @@ A **parede abdominal** protege vísceras, gera **pressão intra-abdominal** para
 
 ## Camadas da parede anterolateral (do superficial ao profundo)
 
-| Camada | Conteúdo principal |
-|--------|-------------------|
-| Pele | Inervação segmentar (dermatomas) |
-| **Fáscia superficial** (Camper / Scarpa conforme sítio) | Gordura; **Scarpa** mais fibrosa inferiormente |
-| **Músculo** | **Retos** (linha alba), **oblíquo externo**, **oblíquo interno**, **transverso** |
-| **Fáscia transversal** | Profunda ao transverso |
-| **Peritônio parietal** | Reveste a parede da cavidade |
+| Camada | Estrutura Principal | Relevância de Prova |
+|--------|-------------------|-------------------|
+| **Pele** | Epiderme e Derme | Dermátomos T10 (Umbigo)|
+| **Fáscia Superficial**| **Camper** (Gordura) e **Scarpa** (Fibrosa)| Armazenamento e Tensão |
+| **Plano Muscular** | **Oblíquo Ext, Interno e Transverso** | O "sanduíche" da parede |
+| **Fáscia Transversal**| Profunda ao M. Transverso | Parede posterior do canal inguinal |
+| **Espaço Extraperit.**| Gordura Pré-peritoneal | Acesso Retropúbico |
+| **Peritônio Parietal**| Membrana Serosa | Sensível à **Dor Localizada** |
 
-> **Dica de Prova:** **Linha alba** — ponto **relativamente avascular** para incisões mediana, mas **aderências** e **variações** existem — o conceito é **topografia**, não “sempre zero sangramento”.
+A **Linha Alba** é a fusão das aponeuroses na linha média. É o local preferido para incisões (**Laparotomias**) por ser pouco vascularizada.
 
 ### Figura sugerida
 
@@ -47,7 +48,11 @@ A **parede abdominal** protege vísceras, gera **pressão intra-abdominal** para
 
 ## Canal inguinal (conceito integrado)
 
-O **canal inguinal** é um **túnel oblíquo** na parede **inferior**; contém o **ligamento redondo** na mulher e o **ducto deferente** + **vasos** no homem, com **fáscia** e **músculo** formando **teto** e **piso**. **Hérnia inguinal** direta versus indireta diferem em relação ao **triângulo de Hasselbach** e **anel profundo** — detalhe cirúrgico; em BMF1, fixe **local** e **estruturas** que passam.
+É um túnel oblíquo de aprox. 4cm. O que você precisa saber:
+- **Conteúdo Homem:** **Funiculo Espermático** (Ducto deferente + vasos).
+- **Conteúdo Mulher:** **Ligamento Redondo** do Útero.
+- **Hérnia Indireta:** Passa por **dentro** do canal (congênita). É a mais comum.
+- **Hérnia Direta:** Rompe a parede posterior no **Triângulo de Hasselbach** (adquirida).
 
 ---
 
@@ -71,40 +76,18 @@ O **peritônio parietal** adere à parede; o **visceral** reveste órgãos. Entr
 
 ## Pontos-Chave para Prova
 
-- Ordem geral: **pele → fáscia superficial → músculos → fáscia transversal → peritônio parietal**.
-- **Reto abdominal** na **linha mediana**; **oblíquos** e **transverso** na **parede lateral**.
-- **Canal inguinal** — **obliqüidade** e **conteúdo** por sexo.
-- **Parietal** versus **visceral** peritônio.
-- **Mesentério** como **âncora** do delgado.
+- **Mesentério:** Prega peritonal que suspende o intestino e leva **Vasos e Nervos**.
+- **Retroperitoneais:** Órgãos fixos atrás do peritônio (Rins, Pâncreas, Duodeno, Aorta).
+- **Grande Omento:** O "policial do abdome"; adere a inflamações para evitar **Peritonite Generalizada**.
+- **Espaço de Morrison:** Espaço entre Fígado e Rim; local onde o líquido da **Ascite** se acumula em decúbito.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-Nomear três músculos da parede anterolateral além do reto. O que é linha alba e por que é referência.
-
-Diferença peritônio parietal e visceral em uma frase. O que atravessa o canal inguinal no homem (par).
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Camper | Scarpa | Gordura superficial vs lâmina mais fibrosa |
-| Intraperitoneal | Retroperitoneal | Mesentério completo vs fixação dorsal |
-| Peritônio parietal | Visceral | Parede da cavidade vs superfície do órgão |
-| Hérnia inguinal | Femoral | Anatomia do anel e localização clínica (visão geral) |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Parietal** | **Visceral** | Dor Localizada vs Dor Vaga/Referida |
+| **Fáscia de Camper** | **Scarpa** | Camada Gordurosa vs Camada Fibrosa |
+| **Hérnia Direta** | **Indireta** | Por fora do anel vs **Por dentro do anel** |
+| **Epicôndilo** | **Ligam. Inguinal** | Referência Óssea vs Fronteira Abdome/Coxa |
 
 ### Frase-âncora para não esquecer
 
 > “Da pele ao peritônio, cada fáscia é um plano onde o líquido ou o ar podem parar — ou não.”
-
----
-
-## Referências de estudo
-
-Moore, Dalley e Agur (abdome); Netter para esquemas de camadas e canal inguinal; correlacionar com **bmf1_a19** para continuidade do tubo digestório.

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 892,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Doença autossômica recessiva exige para fenótipos típicos:",
+    "opcoes": [
+      "A) Dois alelos patogênicos (homozigoto ou compostos heterozigotos).",
+      "B) Um alelo apenas.",
+      "C) Herança exclusivamente paterna.",
+      "D) Sempre mosaicismo."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AR — dois alelos não funcionais.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: AD.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AR — homozigoto.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: AD.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 893,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Casal heterozigoto para mesma mutação AR tem risco por gestação de:",
+    "opcoes": [
+      "A) 100% afetados.",
+      "B) 25% de filho afetado.",
+      "C) 75% sempre aborto.",
+      "D) 0%."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Tabela de Punnett — 1/4.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AR — 1/4.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 894,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Endogamia aumenta probabilidade de:",
+    "opcoes": [
+      "A) Aneuploidias por não-disjunção apenas.",
+      "B) Trissomias do sexo apenas.",
+      "C) Homozigose de variantes raras autossômicas.",
+      "D) Infecção viral congênita."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Parentesco — z homozigoto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Consanguinidade — AR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 895,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Portadores AR são frequentemente:",
+    "opcoes": [
+      "A) Sempre sintomáticos graves.",
+      "B) Homozigotos dominantes.",
+      "C) Com fenótipo de doença dominante.",
+      "D) Heterozigotos clinicamente assintomáticos na maioria das doenças."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Portador — um alelo mutado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Portador AR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 896,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Alelos compostos heterozigotos referem-se a:",
+    "opcoes": [
+      "A) Duas mutações em genes diferentes sempre.",
+      "B) Trissomia.",
+      "C) Duas mutações diferentes no mesmo gene (trans) conferindo fenótipo recessivo.",
+      "D) Deleção de cromossomo inteiro apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "CFTR — dois alelos mutados distintos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: genes diferentes não é composto no mesmo gene.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Composto heterozigoto.\nA) INCORRETA. Incorreta: genes diferentes não é composto no mesmo gene.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 897,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Frequência de heterozigotos (2pq) em equilíbrio de Hardy-Weinberg para alelo raro q:",
+    "opcoes": [
+      "A) Sempre zero.",
+      "B) Igual a q².",
+      "C) Sempre 100%.",
+      "D) Aproximadamente 2q quando p≈1."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Para q pequeno, portadores ~2q.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: q² refere-se a homozigotos afetados.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: 2pq ~ 2q.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: q² refere-se a homozigotos afetados.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 898,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Quando ambos os pais são afetados por doença AR no mesmo gene, o risco de filho afetado é:",
+    "opcoes": [
+      "A) 100% se forem homozigotos para o mesmo alelo patogênico (alelos idênticos).",
+      "B) Sempre 0%.",
+      "C) 25% sempre.",
+      "D) 50% sempre."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Dois afetados homozigotos — filho 100% homozigoto se mesma mutação.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: 25% é típico de dois heterozigotos.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Dois afetados — 100% se alelos idênticos.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: 25% é típico de dois heterozigotos.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 899,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Triagem neonatal de fenilcetonúria (AR) visa:",
+    "opcoes": [
+      "A) Detectar aneuploidia.",
+      "B) Identificar elevação de fenilalanina para intervenção nutricional precoce.",
+      "C) Tratar infecção bacteriana neonatal.",
+      "D) Definir genótipo mitocondrial materno."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PKU — fenilalanina; restrição proteica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: PKU — triagem.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 900,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Aconselhamento genético para casal com primeiro filho AR deve incluir:",
+    "opcoes": [
+      "A) Apenas ultrassom morfológico.",
+      "B) Garantia de filho saudável.",
+      "C) Discussão de riscos recorrentes, opções de diagnóstico pré-natal e testes de portador.",
+      "D) Proibição de nova gestação."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Risco 25%; DPN; PGD.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: imagem não substitui teste molecular.",
+      "B": "Incorreta: não há garantia.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Aconselhamento.\nA) INCORRETA. Incorreta: imagem não substitui teste molecular.\nB) INCORRETA. Incorreta: não há garantia.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 901,
+    "materia": "bcm1",
+    "tema": "bcm1_a18",
+    "enunciado": "Pseudoautossômicos PAR1/PAR2 no X e Y permitem:",
+    "opcoes": [
+      "A) Eliminar inativação do X.",
+      "B) Herança mitocondrial.",
+      "C) Deleção de todo o Y.",
+      "D) Recombinação meiótica entre X e Y em regiões homólogas."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "PAR — pareamento na meiose masculina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: PAR — recombinação XY.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

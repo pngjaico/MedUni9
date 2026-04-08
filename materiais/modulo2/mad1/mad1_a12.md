@@ -4,7 +4,7 @@
 
 As infecções sexualmente transmissíveis (ISTs) bacterianas são um problema de saúde pública global, com altas taxas de subnotificação e complicações graves quando não tratadas — infertilidade, doença inflamatória pélvica (DIP), aneurisma aórtico, cegueira neonatal e até neurossífilis. O rastreamento pré-natal e o diagnóstico laboratorial correto são habilidades médicas essenciais.
 
-A **Uninove** cobra principalmente as fases da sífilis, o diagnóstico sorológico (FTA-Abs vs. VDRL), a diferença entre gonorreia e clamídia, e os critérios de tratamento de parceiros. Questões de caso clínico com descarga uretral ou úlcera genital são recorrentes.
+A Uninove cobra principalmente as fases da sífilis, o diagnóstico sorológico (FTA-Abs vs. VDRL), a diferença entre gonorreia e clamídia, e os critérios de tratamento de parceiros. Questões de caso clínico com descarga uretral ou úlcera genital são recorrentes.
 
 ### Figura sugerida
 
@@ -155,17 +155,16 @@ A **Uninove** cobra principalmente as fases da sífilis, o diagnóstico sorológ
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Cancro duro (sífilis 1ª):** indolor, borda endurecida; **Cancro mole (H. ducreyi):** doloroso
+- **VDRL:** monitorar cura; **FTA-Abs:** confirma sífilis, permanece + para sempre
+- **Gonorreia:** diplococo Gram-neg intracelular; ceftriaxona IM
+- **Clamídia:** intracelular obrigatória; NAAT; azitromicina ou doxiciclina
+- **Sífilis congênita tardia:** tríade de Hutchinson (surdez + ceratite + dentes)
 
-
-Cancro duro (sífilis 1ª): indolor, borda endurecida; Cancro mole (H. ducreyi): doloroso. VDRL: monitorar cura; FTA-Abs: confirma sífilis, permanece + para sempre.
-
-Gonorreia: diplococo Gram-neg intracelular; ceftriaxona IM. Clamídia: intracelular obrigatória; NAAT; azitromicina ou doxiciclina.
-
-Sífilis congênita tardia: tríade de Hutchinson (surdez + ceratite + dentes).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -178,13 +177,4 @@ Sífilis congênita tardia: tríade de Hutchinson (surdez + ceratite + dentes).
 | Corpo elementar | Corpo reticular (Chlamydia) | Elementar = infecta a célula; Reticular = replica dentro da célula |
 
 ### Frase-âncora para não esquecer
-
 > "Sífilis engana: começa sem dor (cancro duro), desaparece sozinha e volta anos depois como goma e aneurisma. Gonorreia grita: corrimento purulento. Clamídia sussurra: quase sem sintoma, mas danifica."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

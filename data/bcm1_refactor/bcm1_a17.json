@@ -1,0 +1,232 @@
+[
+  {
+    "id": 882,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Herança recessiva ligada ao X manifesta-se em homens porque:",
+    "opcoes": [
+      "A) Possuem um único X — hemizigotos para genes no X.",
+      "B) Têm dois cromossomos X.",
+      "C) Herdam sempre do pai afetado.",
+      "D) Não existe para genes no X."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "XR — homens XY vulneráveis; mulheres precisam 2 mutações.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: pai dá Y aos filhos.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: XR — hemizigose.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: pai dá Y aos filhos.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 883,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Hemofilia A (Fator VIII) segue padrão:",
+    "opcoes": [
+      "A) Autossômico dominante.",
+      "B) Recessivo ligado ao X — homens afetados, transmissão por mulheres portadoras.",
+      "C) Mitocondrial.",
+      "D) Y-linked."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Hemofilia — XR clássica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Hemofilia — XR.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 884,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Daltonismo ligado ao X em homem recebe o alelo mutado:",
+    "opcoes": [
+      "A) Do pai afetado.",
+      "B) Sempre do avô paterno.",
+      "C) Da mãe (portadora ou afetada homozigota).",
+      "D) Do cromossomo Y."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Homem recebe X da mãe; Y do pai.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: pai dá Y.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: XR — X maternal.\nA) INCORRETA. Incorreta: pai dá Y.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 885,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Herança dominante ligada ao X distingue-se porque:",
+    "opcoes": [
+      "A) Só homens são afetados.",
+      "B) Sempre recessiva.",
+      "C) Pai saudável transmite a todos os filhos.",
+      "D) Pai afetado transmite o alelo a todas as filhas e a nenhum filho (recebe Y paterno)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "X-linked dominant — hipofosfatemia; pai → todas as filhas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: XD padrão clássico.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: XD — pai afeta todas as filhas.\nA) INCORRETA. Incorreta: XD padrão clássico.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 886,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Inativação do X (lyonização) em mulheres heterozigotas para XR:",
+    "opcoes": [
+      "A) Impede qualquer manifestação sempre.",
+      "B) Elimina o cromossomo X.",
+      "C) Pode permitir expressão variável (caracterização) em portadoras sintomáticas.",
+      "D) Só ocorre em homens."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Mosaicismo X — portadoras podem ser sintomáticas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Lyonização — variável.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 887,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Distrofia muscular de Duchenne (DMD) — gene DMD no X — apresenta:",
+    "opcoes": [
+      "A) Herança autossômica dominante.",
+      "B) Apenas mulheres afetadas homozigotas.",
+      "C) Transmissão exclusivamente paterna para filhos homens.",
+      "D) Padrão recessivo ligado ao X com homens afetados na maioria dos casos."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "DMD — XR; deleções grandes; wheelchair.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: raras homozigotas.",
+      "C": "Incorreta: pai não passa X ao filho homem.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: DMD — XR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: raras homozigotas.\nC) INCORRETA. Incorreta: pai não passa X ao filho homem.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 888,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Para doença recessiva ligada ao X, risco de filho homem afetado de mãe portadora e pai saudável:",
+    "opcoes": [
+      "A) 50% (metade dos filhos homens).",
+      "B) 100%.",
+      "C) 25%.",
+      "D) 0%."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Filho herda Y do pai; X da mãe — 50% se mãe heterozigota.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: 25% é AR autossômico casal.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: XR — 50% filho homem.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: 25% é AR autossômico casal.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 889,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Síndrome de Rett (MECP2) ocorre quase sempre em:",
+    "opcoes": [
+      "A) Homens 46,XY.",
+      "B) Mulheres 46,XX — letal em hemizigose masculina na maioria das mutações.",
+      "C) Trissomia 21.",
+      "D) 45,X."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "MECP2 X-linked — fenótipo feminino predominante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Rett — MECP2.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 890,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "G6PD deficiência (ligada ao X) — crise hemolítica pode ser desencadeada por:",
+    "opcoes": [
+      "A) Jejum isolado sem fármacos.",
+      "B) Apenas hipóxia crônica sem drogas.",
+      "C) Certas drogas/antimaláricos e favas em indivíduos suscetíveis.",
+      "D) Vacinação rotineira universal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "G6PD — oxidantes; primaquina; favas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: G6PD — oxidantes.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 891,
+    "materia": "bcm1",
+    "tema": "bcm1_a17",
+    "enunciado": "Homozigose para alelo patogênico em gene ligado ao X em mulher (ex.: DMD) é:",
+    "opcoes": [
+      "A) Impossível biologicamente.",
+      "B) Comum na população geral.",
+      "C) Regra em todas as mulheres.",
+      "D) Evento raro dependendo da frequência alélica e consanguinidade."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Mulher com DMD — homozigota ou translocação; raro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Homozigoto XX — raro.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

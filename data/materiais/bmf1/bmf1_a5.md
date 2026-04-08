@@ -7,18 +7,18 @@
 
 ## Relevância Clínica e Acadêmica
 
-O osso é tecido conjuntivo mineralizado: fibras de colágeno tipo I compõem a matriz orgânica; cristais de hidroxiapatita conferem rigidez. Compreender osteons (sistemas de Havers), trabéculas, atividade de osteoblastos e osteoclastos e os modos de ossificação permite interpretar radiografias, densitometria e doenças como osteoporose, osteomalácia e consolidação anômala de fraturas. As descrições microscópicas seguem atlas histológico clássico (Junqueira; correlato macro em Moore/Netter).
+O **Osso** é um tecido vivo em constante renovação. Para a prova, domine a composição da matriz (**Colágeno Tipo I** + **Hidroxiapatita**) e a unidade funcional do osso compacto: o **Osteon** (Sistema de Havers). Na clínica, o equilíbrio entre **Osteoblastos** (construtores) e **Osteoclastos** (reabsorvedores) é a chave para tratar a **Osteoporose** e garantir a **Consolidação de Fraturas**.
 
 ---
 
 ## Macroarquitetura: cortical e esponjosa
 
-| Região | Organização | Função mecânica |
-|--------|-------------|-----------------|
-| Compacta (cortical) | Osteons, canais de Havers | Resistência a torção e flexão |
-| Esponjosa (trabecular) | Trabéculas entre espaços medulares | Distribuição de carga; direção segue tensão (lei de Wolff) |
+| Tipo de Osso | Organização | Função Dominante |
+|-------------------|-------------------|--------------------|
+| **Compacto** (Cortical) | **Osteons** e Havers | Resistência Mecânica |
+| **Esponjoso** (Trabecular)| Trabéculas e Medula | Metabolismo e Carga |
 
-O periósteo (camada fibrosa externa + camada osteogênica) e o endósteo revestem superfícies e participam do reparo. A medula óssea vermelha hematopoiética localiza-se em epífises e ossos planos; a amarela predomina no miolo da diáfise do adulto.
+O **Periósteo** é a membrana externa rica em nervos (causa dor na fratura), enquanto o **Endósteo** reveste o canal medular. A **Medula Vermelha** (Hematopoiética) predomina em crianças e ossos planos de adultos (**Esterno** e **Ilíaco**).
 
 ---
 
@@ -40,11 +40,12 @@ O osteon é a unidade funcional: canal de Havers neurovascular rodeado por lamel
 
 ## Células da linhagem óssea
 
-| Célula | Origem / papel |
-|--------|----------------|
-| Osteoblasto | Diferenciação local; sintetiza osteoide |
-| Osteócito | Osteoblasto incorporado; mecanotransdução |
-| Osteoclasto | Linhagem hematopoética; reabsorve matriz (superfície em serra) |
+| Célula Óssea | Origem e Função | Gatilho de Prova |
+|-----------------|-------------------|-------------------|
+| **Osteoblasto** | Origem Mesenquimal | **Forma** Matriz (Osteoide) |
+| **Osteoclasto** | Linhagem Monocitária| **Reabsorve** Matriz |
+| **Osteócito** | Osteoblasto maduro | **Sensor** de Carga (Wolff) |
+| **Osteoprogenitora**| Célula-tronco | Gera novos Blastos |
 
 O balanço formação–reabsorção define a massa óssea neta — alvo terapêutico em osteoporose (bifosfonatos, denosumabe, análogos de PTH).
 
@@ -54,12 +55,12 @@ O balanço formação–reabsorção define a massa óssea neta — alvo terapê
 
 ## Ossificação: dois grandes mecanismos
 
-| Tipo | Processo | Onde é típico |
-|------|----------|---------------|
-| Intramembranosa | Ossificação direta do mesênquima | Vários ossos do crânio, clavícula (parcialmente) |
-| Endocondral | Substituição de modelo cartilaginoso | Maioria dos ossos longos |
+| Tipo de Ossificação | Mecanismo | Onde ocorre |
+|-------------------|-------------|--------------|
+| **Intramembranosa**| Direto no Mesênquima| **Crânio** e Clavícula |
+| **Endocondral** | Molde de **Cartilagem**| Fêmur e Ossos Longos |
 
-Na placa epifisária (criança), zonas de reserva, proliferação, hipertrofia, calcificação e ossificação explicam crescimento em comprimento até a fusão epifário-diáfise.
+A **Placa Epifisária** (Fise) é o local do **Crescimento Longitudinal**. Lesões nesta placa em crianças (**Salter-Harris**) podem interromper o crescimento do membro.
 
 ### Figura sugerida
 
@@ -117,32 +118,18 @@ Osteoporose reduz massa óssea e aumenta risco de fratura por fragilidade (quadr
 
 ## Pontos-Chave para Prova
 
-- Compacta versus esponjosa; osteon e Havers.  
-- Osteoblasto, osteócito, osteoclasto — funções.  
-- Endocondral versus intramembranosa.  
-- Placa epifisária e crescimento.  
-- Sequência de consolidação da fratura.
+- **Canais de Havers:** Longitudinais (**Verticais**), levam vasos dentro do osteon.
+- **Canais de Volkmann:** Transversais (**Horizontais**), conectam os canais de Havers.
+- **Matriz Orgânica:** Colágeno I (dá **Flexibilidade**). Se faltar, o osso fica quebradiço.
+- **Matriz Inorgânica:** Hidroxiapatita (dá **Dureza**). Se faltar, o osso entorta (**Raquitismo**).
+- **Unidade de Remodelação:** Osteoclastos "escavam" o túnel e osteoblastos preenchem.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Lei de Wolff (adaptação da arquitetura à carga).  
-- Por que a medula é vermelha em certos ossos e amarela na diáfise adulta.  
-- Diferença entre remodelação patológica (Paget) e fisiológica.  
-- Papel da vitamina D e PTH na homeostase do cálcio (visão geral).
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Osteoporose | Osteomalácia | Massa versus mineralização da matriz |
-| Ossificação endocondral | Intramembranosa | Com ou sem modelo cartilaginoso |
-| Osteoblasto | Osteoclasto | Formação versus reabsorção |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Sist. de Havers** | **Trabéculas** | Osso Compacto vs Osso Esponjoso |
+| **PTH** | **Calcitonina** | Tira Cálcio do osso vs **Põe Cálcio** no osso |
+| **Osteoporose** | **Osteomalácia** | Pouco osso (Geral) vs Osso **Mole** (Mineral) |
+| **Calo Ósseo** | **Cicatriz** | Reparo com tecido igual vs Reparo com Fibrose |
 
 ### Frase-âncora para não esquecer
 

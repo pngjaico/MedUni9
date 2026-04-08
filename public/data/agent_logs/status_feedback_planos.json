@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "rodou_em": "02/04/2026 15:27",
+  "feedbacks_aprovados_lidos": 1,
+  "planos_gerados": 1,
+  "acoes": [
+    {
+      "tipo": "ok",
+      "hora": "15:27",
+      "texto": "1 plano(s) de ação gerado(s)."
+    },
+    {
+      "tipo": "ok",
+      "hora": "15:27",
+      "texto": "Plano plan_2026-04-02_001 criado"
+    }
+  ],
+  "observacoes": "1 plano(s) gerado(s) em 2026-04-02."
+}

@@ -7,15 +7,15 @@
 
 ## Relevância Clínica e Acadêmica
 
-Fraturas interrompem a continuidade óssea; luxações perdem congruência articular completa. Princípios: redução, estabilização (fixação interna/externa), imobilização quando adequado e reabilitação precoce segura. Fraturas abertas são emergência ortopédica — antibiótico, débito cirúrgico, classificação de Gustilo. Em prova, dominam síndrome compartimental, prioridades em politrauma e tipos de imobilização (gesso, tala, órtese).
+**Fraturas** interrompem a continuidade óssea; **luxações** perdem congruência articular completa. Princípios: **redução**, **estabilização** (fixação interna/externa), **imobilização** quando adequado e **reabilitação precoce** segura. **Fraturas abertas** são emergência ortopédica — **antibiótico**, **débito cirúrgico**, classificação de **Gustilo**. Em prova, dominam **síndrome compartimental**, **prioridades** em politrauma e **tipos de imobilização** (gesso, tala, órtese).
 
 ---
 
 ## Avaliação inicial
 
-ABC primeiro; sangramento com pressão, não garrote improvisado prolongado. Exame neurovascular antes e após qualquer manipulação. Imagem das articulações adjacentes quando indicado.
+**ABC** primeiro; **sangramento** com pressão, não garrote improvisado prolongado. **Exame neurovascular** antes e após qualquer manipulação. **Imagem** das articulações adjacentes quando indicado.
 
-### Fraturas abertas — Gustilo (ideia)
+### Fraturas abertas — Gustilo (visão de prova)
 
 | Grau | Característica | Mente |
 |------|----------------|-------|
@@ -23,7 +23,7 @@ ABC primeiro; sangramento com pressão, não garrote improvisado prolongado. Exa
 | II | Ferimento >1 cm sem desbridamento extenso | Antibiótico + cirurgia |
 | III | Lesão extensa, segmentar, contaminação | Equipe, reabilitação complexa |
 
-> **Pegadinha:** pulso presente não exclui síndrome compartimental — monitorize dor.
+> **Pegadinha:** **pulso presente** não exclui **síndrome compartimental** — monitorize dor.
 
 ---
 
@@ -40,20 +40,20 @@ ABC primeiro; sangramento com pressão, não garrote improvisado prolongado. Exa
 
 ## Luxações — redução urgente
 
-Ombro e cotovelo pediátrico (puxe) são comuns. Redução com analgesia/sedação adequada; radiografia pós-redução para confirmar e reavaliar neurovascular. Luxação de quadril — redução em horas para proteger vascularização da cabeça femoral.
+**Ombro** e **cotovelo** pediátrico (puxe) são comuns. **Redução** com analgesia/sedação adequada; **radiografia pós-redução** para confirmar e **reavaliar neurovascular**. **Luxação de quadril** — **redução em horas** para proteger vascularização da cabeça femoral.
 
 ---
 
 ## Imobilização
 
-Gesso circunferencial vs tala (menor risco de compartimento em fase aguda edematosa). Órteses articuladas permitem mobilização controlada. Tala dorsal de punho após redução de fratura do antebraço — elevação e observação de compartimento.
+**Gesso** circunferencial vs **tala** (menor risco de compartimento em fase aguda edematosa). **Órteses** articuladas permitem mobilização controlada. **Tala** dorsal de punho após redução de fratura do antebraço — **elevação** e **observação de compartimento**.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A18-F02`
 
 - **Momento:** após imobilização — tipos.
-- O que mostrar: fotos ou desenho de gesso em punho, tala e órtese de joelho.
+- **O que mostrar:** fotos ou desenho de **gesso em punho**, **tala** e **órtese** de joelho.
 - **Tipo sugerido:** ilustração comparativa.
 - **Legenda (rascunho):** Imobilização: gesso, tala e órtese.
 
@@ -61,14 +61,14 @@ Gesso circunferencial vs tala (menor risco de compartimento em fase aguda edemat
 
 ## Consolidação e complicações
 
-Calo — fases de reparo. Atraso de consolidação vs pseudoartrose — fatores mecânicos, infecciosos, metabólicos. Embolia gordurosa em fraturas longas — hipotensão, petéquias, confusão.
+**Calo** — fases de reparo. **Atraso de consolidação** vs **pseudoartrose** — fatores mecânicos, infecciosos, metabólicos. **Embolia gordurosa** em fraturas longas — hipotensão, petéquias, confusão.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A18-F03`
 
 - **Momento:** após consolidação — radiologia.
-- O que mostrar: radiografia de fratura com calo em consolidação (exemplo).
+- **O que mostrar:** **radiografia** de fratura com **calo** em consolidação (exemplo).
 - **Tipo sugerido:** RX de tíbia ou úmero.
 - **Legenda (rascunho):** Consolidação óssea: formação de calo visível ao RX.
 
@@ -76,7 +76,7 @@ Calo — fases de reparo. Atraso de consolidação vs pseudoartrose — fatores 
 
 ## Ponte com a Clínica
 
-Paciente com fratura bimalleolar e bolha de fricção: não dê alta sem regra de compartimento e orientação clara. Idoso com fratura de quadril: time cirúrgico precoce reduz complicações sistêmicas.
+Paciente com **fratura bimalleolar** e bolha de **fricção**: **não** dê alta sem regra de compartimento e orientação clara. **Idoso** com **fratura de quadril**: **time** cirúrgico precoce reduz complicações sistêmicas.
 
 ---
 
@@ -93,11 +93,11 @@ Paciente com fratura bimalleolar e bolha de fricção: não dê alta sem regra d
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Salter-Harris** — epifisiólise/fis (pediatria).
-- **Envergadura de compartimento** — medida de pressão se indicado.
-- **Fixação interna** — indicações por fratura instável.
+Na prova, lembre que Salter-Harris — epifisiólise/fis (pediatria). Envergadura de compartimento — medida de pressão se indicado.
+
+Para não errar em cenário clínico, considere também Fixação interna — indicações por fratura instável.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -110,14 +110,3 @@ Paciente com fratura bimalleolar e bolha de fricção: não dê alta sem regra d
 ### Frase-âncora para não esquecer
 
 > “**Neurovascular** antes e depois — **sempre** documentado.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione fixação (placa, haste intramedular, parafuso) com biomecânica e carga precoce. Politrauma: ATLS orienta prioridades.
-
-### Leitura de reforço
-
-- Trauma ortopédico ATLS / manual AO
-- Protocolos de antibiótico em fratura exposta

@@ -7,9 +7,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-**HIV** é um dos temas mais cobrados porque praticamente obriga o aluno a pensar em imunologia aplicada. Não é só uma infecção viral. É uma doença que muda toda a organização de risco do paciente, altera apresentação clínica de infecções comuns, abre porta para oportunistas e exige interpretação temporal de exame laboratorial. Quem entende HIV deixa de estudar infectologia como lista de agentes e passa a raciocinar por estado imune.
+HIV é um dos temas mais cobrados porque praticamente obriga o aluno a pensar em imunologia aplicada. Não é só uma infecção viral. É uma doença que muda toda a organização de risco do paciente, altera apresentação clínica de infecções comuns, abre porta para oportunistas e exige interpretação temporal de exame laboratorial. Quem entende HIV deixa de estudar infectologia como lista de agentes e passa a raciocinar por estado imune.
 
-Na prática, isso tem peso enorme. Diagnosticar cedo, iniciar terapia corretamente e acompanhar adesão muda sobrevida, transmissão e qualidade de vida. Na **Uninove**, os professores exploram principalmente janela diagnóstica, queda de CD4, carga viral e leitura clínica da imunossupressão progressiva.
+Na prática, isso tem peso enorme. Diagnosticar cedo, iniciar terapia corretamente e acompanhar adesão muda sobrevida, transmissão e qualidade de vida. Na Uninove, os professores exploram principalmente janela diagnóstica, queda de CD4, carga viral e leitura clínica da imunossupressão progressiva.
 
 ### Figura sugerida
 
@@ -28,9 +28,9 @@ Na prática, isso tem peso enorme. Diagnosticar cedo, iniciar terapia corretamen
 
 ## O que o HIV realmente faz: ataca a coordenação da resposta imune
 
-O **HIV** infecta principalmente células que expressam CD4, com destaque para linfócitos T auxiliares. O problema central não é apenas replicar como vírus, mas desmontar progressivamente a coordenação da resposta imune. Quando o CD4 cai, o corpo perde capacidade de resposta organizada contra diversos patógenos.
+O HIV infecta principalmente células que expressam CD4, com destaque para linfócitos T auxiliares. O problema central não é apenas replicar como vírus, mas desmontar progressivamente a coordenação da resposta imune. Quando o CD4 cai, o corpo perde capacidade de resposta organizada contra diversos patógenos.
 
-Isso explica por que o paciente não fica suscetível a uma única infecção específica, mas a um conjunto de doenças oportunistas e apresentações atípicas. O dano é gradual e clínico-laboratorial. Esse raciocínio é muito mais útil do que decorar apenas que "**HIV** baixa imunidade".
+Isso explica por que o paciente não fica suscetível a uma única infecção específica, mas a um conjunto de doenças oportunistas e apresentações atípicas. O dano é gradual e clínico-laboratorial. Esse raciocínio é muito mais útil do que decorar apenas que "HIV baixa imunidade".
 
 > **Dica de Prova:** HIV compromete principalmente a defesa mediada por **linfócitos T CD4**, o que aumenta risco de oportunistas.
 
@@ -59,13 +59,13 @@ Quando o CD4 está muito reduzido, cresce a chance de doenças oportunistas e ap
 
 A progressão sem tratamento abre espaço para infecções e neoplasias associadas à imunodeficiência. O importante aqui não é decorar listas gigantes, mas entender que o padrão clínico muda conforme o estado imune se deteriora. Oportunista em paciente jovem, perda ponderal, diarreia crônica, febre prolongada e infecções incomuns sempre devem acender alerta.
 
-Na prova, às vezes o **HIV** aparece sem ser citado. O enunciado mostra paciente com quadro compatível com imunossupressão importante e a resposta correta depende de perceber que o sistema imune de base está comprometido. Esse é um ponto clássico.
+Na prova, às vezes o HIV aparece sem ser citado. O enunciado mostra paciente com quadro compatível com imunossupressão importante e a resposta correta depende de perceber que o sistema imune de base está comprometido. Esse é um ponto clássico.
 
 ## TARV: tratamento não é detalhe, é eixo da história natural
 
-A terapia antirretroviral mudou completamente o curso da infecção pelo **HIV**. Antes, a progressão para **AIDS** era muito mais previsível e acelerada. Hoje, diagnóstico precoce e tratamento consistente permitem supressão viral, recuperação imune parcial e redução importante de morbidade.
+A terapia antirretroviral mudou completamente o curso da infecção pelo HIV. Antes, a progressão para AIDS era muito mais previsível e acelerada. Hoje, diagnóstico precoce e tratamento consistente permitem supressão viral, recuperação imune parcial e redução importante de morbidade.
 
-Mas a chave é adesão. Um paciente com esquema bom e baixa adesão pode evoluir pior do que outro com regime simples e seguimento consistente. Por isso, a prática clínica não se resume a prescrever. É monitorar, reforçar vínculo, avaliar **efeito adverso** e manter supressão sustentada.
+Mas a chave é adesão. Um paciente com esquema bom e baixa adesão pode evoluir pior do que outro com regime simples e seguimento consistente. Por isso, a prática clínica não se resume a prescrever. É monitorar, reforçar vínculo, avaliar efeito adverso e manter supressão sustentada.
 
 > **Dica de Prova:** carga viral indetectável em uso regular de TARV é marcador de bom controle, não de erradicação viral.
 
@@ -77,7 +77,7 @@ Primeiro pergunte: isso parece exposição recente com quadro agudo, infecção 
 
 ## Ponte com a Clínica
 
-No consultório e no ambulatório de infectologia, **HIV** é uma doença que exige leitura longitudinal. O momento do diagnóstico importa, mas não resolve tudo. O que realmente muda desfecho é a combinação entre testagem correta, início oportuno de tratamento, adesão e vigilância do estado imune ao longo do tempo.
+No consultório e no ambulatório de infectologia, HIV é uma doença que exige leitura longitudinal. O momento do diagnóstico importa, mas não resolve tudo. O que realmente muda desfecho é a combinação entre testagem correta, início oportuno de tratamento, adesão e vigilância do estado imune ao longo do tempo.
 
 ---
 
@@ -95,17 +95,19 @@ No consultório e no ambulatório de infectologia, **HIV** é uma doença que ex
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **CD4 baixo:** aumenta risco de oportunistas.
+- **Carga viral alta:** indica maior replicação.
+- **Teste negativo precoce:** pode estar na janela.
+- **Síndrome aguda:** parece virose.
+- **TARV funciona:** se houver adesão real.
+- **Indetectável:** é controle, não cura.
+- **Infecção oportunista:** pode revelar HIV avançado.
+- **Leitura temporal:** muda interpretação de exame.
 
-
-CD4 baixo: aumenta risco de oportunistas. Carga viral alta: indica maior replicação. Teste negativo precoce: pode estar na janela.
-
-Síndrome aguda: parece virose. TARV funciona: se houver adesão real. Indetectável: é controle, não cura.
-
-Infecção oportunista: pode revelar HIV avançado. Leitura temporal: muda interpretação de exame.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -117,5 +119,4 @@ Infecção oportunista: pode revelar HIV avançado. Leitura temporal: muda inter
 | Indetectável | Cura | Indetectável significa supressão virológica sustentada |
 
 ### Frase-âncora para não esquecer
-
 > "No HIV, CD4 mostra defesa; carga viral mostra fogo."

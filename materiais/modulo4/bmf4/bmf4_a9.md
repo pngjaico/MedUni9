@@ -26,7 +26,7 @@ O cerebelo não cria movimento nem sensação — ele afina os dois. Lesões cer
 
 ## Divisão Morfológica
 
-O cerebelo ocupa a fossa posterior, posterior ao **tronco encefálico**. Divide-se em:
+O cerebelo ocupa a fossa posterior, posterior ao tronco encefálico. Divide-se em:
 
 - **2 hemisférios cerebelares** — laterais, controlam coordenação dos membros ipsilaterais.
 - **Vermis** — faixa central, controla equilíbrio, postura e coordenação axial.
@@ -105,22 +105,20 @@ A saída principal é: células de Purkinje → núcleos profundos → pedúncul
 
 ## Ponte com a Clínica
 
-O meduloblastoma (tumor maligno mais comum do **SNC** em crianças) origina-se no verme cerebelar → ataxia de marcha + hidrocefalia do IV ventrículo. O astrocitoma cerebelar (tumor benigno mais comum em crianças, grau I) afeta os hemisférios → ataxia apendicular. Degeneração cerebelar alcoólica: afeta predominantemente o lobo anterior e vermis → ataxia de marcha sem comprometimento dos membros superiores.
+O meduloblastoma (tumor maligno mais comum do SNC em crianças) origina-se no verme cerebelar → ataxia de marcha + hidrocefalia do IV ventrículo. O astrocitoma cerebelar (tumor benigno mais comum em crianças, grau I) afeta os hemisférios → ataxia apendicular. Degeneração cerebelar alcoólica: afeta predominantemente o lobo anterior e vermis → ataxia de marcha sem comprometimento dos membros superiores.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Cerebelo = ipsilateral: lesão de hemisfério → ataxia do mesmo lado. Célula de Purkinje: GABAérgica, única saída cortical, camada gangliônica.
-
-Pedúnculo superior = saída: via denteado-rubro-talâmico → M1. Vermis: marcha e equilíbrio. Hemisférios: dismetria apendicular. Floculus: vestibular.
-
-Meduloblastoma: vermis cerebelar em crianças → hidrocefalia + ataxia de marcha. Fibras trepadeiras (oliva → Purkinje): aprendizado motor.
+- **Cerebelo = ipsilateral:** lesão de hemisfério → ataxia do mesmo lado.
+- **Célula de Purkinje:** GABAérgica, única saída cortical, camada gangliônica.
+- **Pedúnculo superior = saída:** via denteado-rubro-talâmico → M1.
+- **Vermis:** marcha e equilíbrio. **Hemisférios:** dismetria apendicular. **Floculus:** vestibular.
+- **Meduloblastoma:** vermis cerebelar em crianças → hidrocefalia + ataxia de marcha.
+- **Fibras trepadeiras (oliva → Purkinje):** aprendizado motor.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -132,5 +130,4 @@ Meduloblastoma: vermis cerebelar em crianças → hidrocefalia + ataxia de march
 | Pedúnculo superior | Pedúnculo inferior | Superior: saída; inferior: entrada proprioceptiva e vestibular |
 
 ### Frase-âncora para não esquecer
-
 > "Purkinje para — ela inibe. Se você perde o Purkinje, tudo fica hiperativo e descontrolado."

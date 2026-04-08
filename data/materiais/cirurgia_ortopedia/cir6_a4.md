@@ -108,12 +108,11 @@ Paciente com **febre + hipotensão + icterícia** não é “virose” — é **
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Padrão de enzimas** separa hepatocelular de colestase.
-- **USG** como primeira imagem na maioria dos serviços.
-- **Reynolds** = colangite séptica — UTI/CPRE.
-- **Gilbert** — hiperbilirrubinemia indireta benigna (não é “cirúrgica”).
+Na prova, lembre que Padrão de enzimas separa hepatocelular de colestase. USG como primeira imagem na maioria dos serviços.
+
+Para não errar em cenário clínico, considere também Reynolds = colangite séptica — UTI/CPRE. Gilbert — hiperbilirrubinemia indireta benigna (não é “cirúrgica”).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -127,14 +126,3 @@ Paciente com **febre + hipotensão + icterícia** não é “virose” — é **
 ### Frase-âncora para não esquecer
 
 > “**Icterícia + febre + dor** = via biliar na **urgência** — não espere amanhã.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Integre **estabilidade hemodinâmica**, **comorbidades** e **disponibilidade de CPRE**. O melhor exame é o que **seguramente** confirma a causa e permite **tratamento** no tempo certo.
-
-### Leitura de reforço
-
-- Diretrizes de colangite (Tokyo/TG13 — conceito de gravidade)
-- Protocolos institucionais de antibiótico e suporte em sepse

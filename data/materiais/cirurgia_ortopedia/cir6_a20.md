@@ -90,11 +90,11 @@ Atrasar **imagem** em claudicação afebril; confundir **Perthes** com **DDQ** s
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Ângulos de acetábulo** — ideia (centro-borda CE).
-- **LCP** — **Legg** — não confundir com **SLIPPED** capital femoral epiphysis.
-- **AVN** — risco de pinagem em epifisiólise.
+Na prova, lembre que Ângulos de acetábulo — ideia (centro-borda CE). LCP — Legg — não confundir com SLIPPED capital femoral epiphysis.
+
+Para não errar em cenário clínico, considere também AVN — risco de pinagem em epifisiólise.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -107,14 +107,3 @@ Atrasar **imagem** em claudicação afebril; confundir **Perthes** com **DDQ** s
 ### Frase-âncora para não esquecer
 
 > “**Dor no joelho** na criança pode ser **quadril** — olhe para cima.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **osteotomias** redutivas com **cobertura acetabular** e complicações de **necrose avascular**. Epifisiólise: **rastreio** do lado contralateral profilático em debate.
-
-### Leitura de reforço
-
-- Guidelines de displasia do desenvolvimento do quadril
-- Consenso internacional de SCFE

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O adenocarcinoma pancreático tem prognóstico reservado; apresenta-se tardiamente com emagrecimento, dor, icterícia obstrutiva (lesão de cabeça) e trombose venosa (Trousseau — pista). O adenocarcinoma gástrico associa-se a H. pylori, dieta e fatores genéticos. Tratamento curativo: reseção R0 — Whipple para tumores periampulares/cabeça pancreática, gastrectomia adequada ao estadiamento. Em prova, dominam bilirrubinas e coléstase, CA 19-9 (pancreático — não diagnóstico isolado) e neoadjuvância em casos fronteira ressecáveis.
+O **adenocarcinoma pancreático** tem prognóstico reservado; apresenta-se tardiamente com **emagrecimento**, **dor**, **icterícia obstrutiva** (lesão de cabeça) e **trombose venosa** (Trousseau — pista). O **adenocarcinoma gástrico** associa-se a **H. pylori**, dieta e fatores genéticos. Tratamento curativo: **reseção R0** — **Whipple** para tumores periampulares/cabeça pancreática, **gastrectomia** adequada ao estadiamento. Em prova, dominam **bilirrubinas e coléstase**, **CA 19-9** (pancreático — não diagnóstico isolado) e **neoadjuvância** em casos fronteira ressecáveis.
 
 ---
 
@@ -19,14 +19,14 @@ Icterícia **painless progressiva** com vesícula palpável (**Courvoisier** —
 
 ### Diagnóstico
 
-TC abdome com protocolo pancreático; CPRE com citologia/celularidade em suspeita de obstrução ductal; EUS para estadiamento local. CA 19-9 útil para seguimento, limitado em icterícia flutuante sem normalização.
+**TC** abdome com protocolo pancreático; **CPRE** com citologia/celularidade em suspeita de obstrução ductal; **EUS** para estadiamento local. **CA 19-9** útil para seguimento, limitado em icterícia flutuante sem normalização.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A13-F01`
 
 - **Momento:** após anatomia — tumor de cabeça pancreática.
-- O que mostrar: TC com massa na cabeça do pâncreas e dilatação do ducto colédoco/pancreático (sinal do ducto duplo).
+- **O que mostrar:** **TC** com massa na **cabeça do pâncreas** e dilatação do ducto colédoco/pancreático (sinal do **ducto duplo**).
 - **Tipo sugerido:** corte axial anotado.
 - **Legenda (rascunho):** Tumor pancreático de cabeça: obstrução biliar.
 
@@ -36,7 +36,7 @@ TC abdome com protocolo pancreático; CPRE com citologia/celularidade em suspeit
 
 **Whipple (pancreatoduodenectomia)** se ressecável sem metástases à distância e com vasos respeitáveis (conceito borderline resectable — protocolos). **Quimioterapia paliativa** (FOLFIRINOX, gemcitabina-nab-paclitaxel) em metastático. **Descompressão biliar** pré-operatória em icterícia prolongada — timing conforme equipe.
 
-> **Pegadinha:** lipase alta isolada não define adenocarcinoma — correlacione imagem.
+> **Pegadinha:** **lipase alta** isolada **não** define adenocarcinoma — correlacione imagem.
 
 ---
 
@@ -48,14 +48,14 @@ TC abdome com protocolo pancreático; CPRE com citologia/celularidade em suspeit
 
 ### Sintomas e diagnóstico
 
-Dispepsia refratária, anemia ferropriva, perda ponderal. Endoscopia com biópsia múltipla. Estadiamento: Ecoendoscopia para T profunda; TC para M; citologia de lavado em seleção.
+Dispepsia refratária, anemia ferropriva, perda ponderal. **Endoscopia com biópsia** múltipla. **Estadiamento**: **Ecoendoscopia** para T profunda; **TC** para M; **citologia de lavado** em seleção.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A13-F02`
 
 - **Momento:** após estômago — lesão endoscópica.
-- O que mostrar: endoscopia com lesão ulcerada/vegetante no estômago (imagem didática).
+- **O que mostrar:** **endoscopia** com **lesão ulcerada/vegetante** no estômago (imagem didática).
 - **Tipo sugerido:** foto endoscópica anônima.
 - **Legenda (rascunho):** Adenocarcinoma gástrico: lesão mucosa à endoscopia.
 
@@ -78,7 +78,7 @@ Dispepsia refratária, anemia ferropriva, perda ponderal. Endoscopia com biópsi
 
 ## Ponte com a Clínica
 
-Paciente ictérico com massa pancreática e colangite: estabilize infecção, desobstrua, depois planeje oncologia. Anemia em jovem com história familiar: pense síndromes hereditárias e genética.
+Paciente ictérico com **massa pancreática** e **colangite**: estabilize infecção, desobstrua, **depois** planeje oncologia. Anemia em **jovem** com história familiar: pense **síndromes hereditárias** e genética.
 
 ---
 
@@ -95,11 +95,11 @@ Paciente ictérico com massa pancreática e colangite: estabilize infecção, de
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Trousseau** — trombose migratória e neoplasia.
-- **Courvoisier** — vesícula palpável + icterícia (pista).
-- **Biópsia gástrica** — múltiplas áreas no subtipo difuso.
+Na prova, lembre que Trousseau — trombose migratória e neoplasia. Courvoisier — vesícula palpável + icterícia (pista).
+
+Para não errar em cenário clínico, considere também Biópsia gástrica — múltiplas áreas no subtipo difuso.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -112,14 +112,3 @@ Paciente ictérico com massa pancreática e colangite: estabilize infecção, de
 ### Frase-âncora para não esquecer
 
 > “**Icterícia + massa pancreática** = estadiamento **antes** de prometer cura.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **margens R0**, **tratamento neoadjuvante** e **suporte nutricional** pré-operatório. Em cirurgia pancreática, complicações definem internação e mortalidade.
-
-### Leitura de reforço
-
-- NCCN / guidelines pancreáticos e gástricos
-- Manejo multidisciplinar de tumores periampulares

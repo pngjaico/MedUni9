@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-"Células nervosas não se dividem" — essa máxima (parcialmente incorreta) e sua exceção interessam às Unidades Hospitalares que cobram tumores do **SNC**. Gliomas surgem de células da glia (que se dividem), não de neurônios. Conhecer os tipos de glia explica a patogênese de esclerose múltipla (desmielinização dos oligodendrócitos), doença de Alzheimer (tau em neurônios) e astrogliose pós-trauma.
+"Células nervosas não se dividem" — essa máxima (parcialmente incorreta) e sua exceção interessam às Unidades Hospitalares que cobram tumores do SNC. Gliomas surgem de células da glia (que se dividem), não de neurônios. Conhecer os tipos de glia explica a patogênese de esclerose múltipla (desmielinização dos oligodendrócitos), doença de Alzheimer (tau em neurônios) e astrogliose pós-trauma.
 
 ### Figura sugerida
 
@@ -106,22 +106,20 @@ O neurônio é a unidade funcional do SN. Componentes:
 
 ## Ponte com a Clínica
 
-Esclerose múltipla: desmielinização de oligodendrócitos do **SNC** → placas de desmielinização → surtos de déficits neurológicos reversíveis. Leucodistrofias: erro metabólico na síntese de mielina (ex.: adrenoleucodistrofia). Síndrome de Guillain-Barré: ataque imunomediado às células de Schwann do **SNP** → paralisia ascendente flácida com preservação de consciência. Tumores: glioblastoma multiforme (grau IV, astrócitos) é o tumor primário do SNC mais comum e mais agressivo no adulto.
+Esclerose múltipla: desmielinização de oligodendrócitos do SNC → placas de desmielinização → surtos de déficits neurológicos reversíveis. Leucodistrofias: erro metabólico na síntese de mielina (ex.: adrenoleucodistrofia). Síndrome de Guillain-Barré: ataque imunomediado às células de Schwann do SNP → paralisia ascendente flácida com preservação de consciência. Tumores: glioblastoma multiforme (grau IV, astrócitos) é o tumor primário do SNC mais comum e mais agressivo no adulto.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Nissl (RER): no corpo e dendritos, ausente no axônio — cromatolise indica lesão. Oligodendrócito: mielina no SNC, vários axônios por célula.
-
-Célula de Schwann: mielina no SNP, 1 axônio por célula. Microglia: origem mesenquimal (monócito), fagócito do SNC.
-
-Guillain-Barré: ataca SNP (Schwann). EM: ataca SNC (oligodendrócito). Condução saltatória: nódulo de Ranvier; fibras mielinizadas = mais rápidas.
+- **Nissl (RER):** no corpo e dendritos, ausente no axônio — cromatolise indica lesão.
+- **Oligodendrócito:** mielina no SNC, vários axônios por célula.
+- **Célula de Schwann:** mielina no SNP, 1 axônio por célula.
+- **Microglia:** origem mesenquimal (monócito), fagócito do SNC.
+- **Guillain-Barré:** ataca SNP (Schwann). EM: ataca SNC (oligodendrócito).
+- **Condução saltatória:** nódulo de Ranvier; fibras mielinizadas = mais rápidas.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -133,5 +131,4 @@ Guillain-Barré: ataca SNP (Schwann). EM: ataca SNC (oligodendrócito). Conduç�
 | Nissl no dendrito | Nissl no axônio | Nissl existe no dendrito, AUSENTE no axônio |
 
 ### Frase-âncora para não esquecer
-
 > "No SNC, o Oligo enrola vários; no SNP, a Schwann cuida de um só — como um zelador exclusivo vs. um gerente de vários prédios."

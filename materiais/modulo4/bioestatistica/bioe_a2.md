@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A classificação de variáveis é o ponto de partida de qualquer análise estatística — porque o tipo da variável determina qual teste usar, qual gráfico construir e como interpretar o resultado. Um erro aqui contamina tudo que vem depois. A **Uninove** cobra classificação de variáveis em questões de múltipla escolha ("Estadiamento tumoral I-IV é uma variável do tipo...") e também implicitamente em questões sobre escolha de testes ("Para comparar médias de dois grupos independentes, usa-se..."). Dominar essa classificação evita erros em toda a disciplina.
+A classificação de variáveis é o ponto de partida de qualquer análise estatística — porque o tipo da variável determina qual teste usar, qual gráfico construir e como interpretar o resultado. Um erro aqui contamina tudo que vem depois. A Uninove cobra classificação de variáveis em questões de múltipla escolha ("Estadiamento tumoral I-IV é uma variável do tipo...") e também implicitamente em questões sobre escolha de testes ("Para comparar médias de dois grupos independentes, usa-se..."). Dominar essa classificação evita erros em toda a disciplina.
 
 ### Figura sugerida
 
@@ -124,22 +124,24 @@ A escolha do gráfico também depende do tipo de variável:
 
 ## Ponte com a Clínica
 
-Na prática diária, variáveis quantitativas contínuas são categorizadas para facilitar decisão clínica: PA ≥ 140/90 = hipertensão (sim/não); HbA1c ≥ 6,5% = DM (sim/não); IMC ≥ 30 = obesidade. Mas os estudos de risco cardiovascular tratam essas variáveis como contínuas — porque o risco de **infarto** não "salta" bruscamente ao cruzar um limiar; ele sobe de forma gradual. A categorização cria um ponto de corte clínico útil, mas o risco biológico é um continuum.
+Na prática diária, variáveis quantitativas contínuas são categorizadas para facilitar decisão clínica: PA ≥ 140/90 = hipertensão (sim/não); HbA1c ≥ 6,5% = DM (sim/não); IMC ≥ 30 = obesidade. Mas os estudos de risco cardiovascular tratam essas variáveis como contínuas — porque o risco de infarto não "salta" bruscamente ao cruzar um limiar; ele sobe de forma gradual. A categorização cria um ponto de corte clínico útil, mas o risco biológico é um continuum.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Nominal:** sem ordem (sexo, diagnóstico). **Ordinal:** com ordem (estadiamento, NYHA).
+- **Discreta:** inteiros (nº gestações). **Contínua:** frações (peso, PA, glicemia).
+- **Escala de razão:** zero absoluto real (peso, altura). Intervalar: zero arbitrário (°C).
+- **Estadiamento tumoral I–IV = ordinal** (não intervalar — diferenças não são iguais).
+- **Variável de confusão:** associada à exposição E ao desfecho — distorce a associação.
+- **Histograma:** variável contínua. Barras: variável categórica.
+- **Perda de informação:** categorizar variável contínua reduz poder estatístico.
+- **Confundidores desconhecidos:** só a randomização controla.
 
-
-Nominal: sem ordem (sexo, diagnóstico). Ordinal: com ordem (estadiamento, NYHA). Discreta: inteiros (nº gestações). Contínua: frações (peso, PA, glicemia). Escala de razão: zero absoluto real (peso, altura). Intervalar: zero arbitrário (°C).
-
-Estadiamento tumoral I–IV = ordinal (não intervalar — diferenças não são iguais). Variável de confusão: associada à exposição E ao desfecho — distorce a associação. Histograma: variável contínua. Barras: variável categórica.
-
-Perda de informação: categorizar variável contínua reduz poder estatístico. Confundidores desconhecidos: só a randomização controla.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -151,5 +153,4 @@ Perda de informação: categorizar variável contínua reduz poder estatístico.
 | Variável dependente | Variável independente | Dependente: desfecho (o que mede); Independente: exposição/predictor |
 
 ### Frase-âncora para não esquecer
-
 > "Estadiamento é ordinal, não intervalar — estágio IV não é 'duas vezes pior' que estágio II, apenas 'mais avançado'. Ordem sem distância."

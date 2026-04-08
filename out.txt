@@ -1,3 +1,0 @@
-Chaves em MODULOS_CONFIG: ['bcm1']
-
-  bcm1: 31 temas hardcoded | 21 aulas em materias.json <-- COLISAO

@@ -25,8 +25,9 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 |----------|-------------------|
 | Materiais de apoio (`.md` de aula) | [prompts/gerar_materiais_apoio.md](prompts/gerar_materiais_apoio.md) |
 | Questões e flashcards (`data/questoes.json`, `data/flashcards.json`) | [prompts/gerar_questoes_flashcards.md](prompts/gerar_questoes_flashcards.md) |
+| **Curadoria de Negritos (Aesthetics)** | [prompts/padronizacao_negritos.md](prompts/padronizacao_negritos.md) |
 
-Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** (métricas, estilo, JSON); em conflito, prevalece `gerar_questoes_flashcards.md`.
+Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** (métricas, estilo, JSON); em conflito, prevalece `gerar_questoes_flashcards.md`. **A negritagem estratégica é obrigatória para legibilidade.**
 
 ## Glossário mínimo
 
@@ -36,6 +37,7 @@ Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** 
 | `aula_id` | ID da aula no catálogo (ex.: `bmf1_a3`); usado em arquivos `.md` e no campo `tema` em questões/flashcards. |
 | `modulo` | Número do módulo curricular (1–6); pasta `materiais/modulo{N}/`. |
 | Dupla de materiais | Mesmo conteúdo em `data/materiais/<materia>/<aula>.md` e `materiais/modulo<N>/<materia>/<aula>.md`. |
+| `caso_clinico` | Campo booleano em itens de `data/questoes.json`: vinheta clínica integral. Novas questões devem incluir; legado sem campo equivale a `false` no app. |
 
 ## Stack (verdade no código)
 

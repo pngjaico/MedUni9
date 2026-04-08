@@ -26,7 +26,7 @@ Obstrução do lúmen por **fecólito**, **hiperplasia linfoide** (pico em crian
 3. Migração para **FID** em 12–48 h (irritação peritoneal parietal).  
 4. Febre baixa/modesta, leucocitose (podem faltar no início).
 
-### Escala de Alvarado (ideia para prova)
+### Escala de Alvarado (visão de prova)
 
 | Pontos | Critério |
 |--------|----------|
@@ -130,12 +130,11 @@ Criança com **anorexia nova** e dor abdominal evolutiva merece **reavaliação 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Alvarado** — componentes e limitações.
-- **Apendicite retrocecal** — apresentação atípica.
-- **Gravidez** — deslocamento do apêndice; USG primeiro.
-- **Perfuração** — peritonismo, leucocitose pode não disparar.
+Na prova, lembre que Alvarado — componentes e limitações. Apendicite retrocecal — apresentação atípica.
+
+Para não errar em cenário clínico, considere também Gravidez — deslocamento do apêndice; USG primeiro. Perfuração — peritonismo, leucocitose pode não disparar.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -149,14 +148,3 @@ Criança com **anorexia nova** e dor abdominal evolutiva merece **reavaliação 
 ### Frase-âncora para não esquecer
 
 > “**Fome** nova em criança com dor abdominal = apendicite até provar o contrário.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **indicação**, **timing** e **via de acesso** com estabilidade hemodinâmica e recursos. **Consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
-
-### Leitura de reforço
-
-- Cirurgia geral / protocolos de antibiótico profilático
-- Diretrizes locais de apendicite não complicada (antibiótico primário)

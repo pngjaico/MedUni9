@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A anatomia do trato urinário é base para compreender litíase renal, hidronefrose, infecções urinárias e procedimentos como cateterismo e cistoscopia. A **Uninove** cobra a relação topográfica dos rins, os pontos de constrição ureteral e as diferenças entre a uretra masculina e feminina.
+A anatomia do trato urinário é base para compreender litíase renal, hidronefrose, infecções urinárias e procedimentos como cateterismo e cistoscopia. A Uninove cobra a relação topográfica dos rins, os pontos de constrição ureteral e as diferenças entre a uretra masculina e feminina.
 
 ### Figura sugerida
 
@@ -149,17 +149,16 @@ Na litíase renal, os cálculos formados na pelve descem pelo ureter e frequente
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Rins: T12-L3, retroperitônio; direito mais baixo que esquerdo. Hilo: VAU (frente para trás) — Veia, Artéria, Ureter. 3 constrições ureterais: JUP → cruzamento com ilíaca → JUV (mais estreito).
-
-Ureter + artéria uterina: ureter passa por baixo ("água sob a ponte"). Trígono vesical: sem rugas; 2 óstios ureterais + 1 óstio uretral. Uretra feminina: 3-4 cm → maior risco de ITU.
-
-Micção: parassimpático S2-S4; Continência: simpático L1-L2.
+- **Rins:** T12-L3, retroperitônio; direito mais baixo que esquerdo
+- **Hilo:** VAU (frente para trás) — Veia, Artéria, Ureter
+- **3 constrições ureterais:** JUP → cruzamento com ilíaca → JUV (mais estreito)
+- **Ureter + artéria uterina:** ureter passa por baixo ("água sob a ponte")
+- **Trígono vesical:** sem rugas; 2 óstios ureterais + 1 óstio uretral
+- **Uretra feminina:** 3-4 cm → maior risco de ITU
+- **Micção:** parassimpático S2-S4; Continência: simpático L1-L2
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -171,5 +170,4 @@ Micção: parassimpático S2-S4; Continência: simpático L1-L2.
 | Uretra masculina | Uretra feminina | Masculina = 18-20 cm, 4 segmentos, urinária + genital; Feminina = 3-4 cm, só urinária |
 
 ### Frase-âncora para não esquecer
-
 > "No hilo renal, a VEIA está na frente porque o sangue venoso quer sair logo; a ARTÉRIA está no meio; e o URETER, o mais tímido, fica lá atrás — VAU."

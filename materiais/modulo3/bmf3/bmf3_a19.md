@@ -148,17 +148,16 @@ Na fertilização in vitro (FIV), os ovócitos são coletados após estimulaçã
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Espermatogênese: contínua, puberdade, 74 dias, 4 gametas por evento. Ovogênese: inicia na vida fetal, dois bloqueios. Bloqueio 1: ovócito I em prófase I — ao nascimento.
-
-Bloqueio 2: ovócito II em metáfase II — na ovulação (liberado assim). Meiose II só completa com fertilização. Acrossomo: deriva do Golgi; contém hialuronidase + acrossina.
-
-Não-disjunção + idade materna: risco de trissomia 21 (Down).
+- **Espermatogênese:** contínua, puberdade, 74 dias, 4 gametas por evento
+- **Ovogênese:** inicia na vida fetal, dois bloqueios
+- **Bloqueio 1:** ovócito I em **prófase I** — ao nascimento
+- **Bloqueio 2:** ovócito II em **metáfase II** — na ovulação (liberado assim)
+- **Meiose II só completa com fertilização**
+- **Acrossomo:** deriva do Golgi; contém hialuronidase + acrossina
+- **Não-disjunção + idade materna:** risco de trissomia 21 (Down)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -170,5 +169,4 @@ Não-disjunção + idade materna: risco de trissomia 21 (Down).
 | Glóbulo polar | Ovócito maduro | Glóbulo polar: descartado, sem citoplasma; Ovócito: funcional, rico em citoplasma |
 
 ### Frase-âncora para não esquecer
-
 > "O ovócito nasce parado (prófase I desde o nascimento), ovula parado (metáfase II), e só termina a meiose se um espermatozoide chegar — é a célula mais procrastinadora do corpo."

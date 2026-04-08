@@ -7,21 +7,20 @@
 
 ## Relevância Clínica e Acadêmica
 
-Esta aula **integra** peça, **modelo** e **checklist**: você deve **navegar** da **boca** ao **ânus** sem **saltos**, nomeando **curvaturas**, **válvulas**, **peritônio** e **vasos** principais. O objetivo não é **listar** tudo, e sim **explicar relações** que aparecem em **estação prática** e **prova** integrada (**anatomia** + **clínica** leve).
+Esta aula **integra** peça, **modelo** e **checklist**. Você deve navegar da **Boca** ao **Ânus** sem saltos, nomeando curvaturas, válvulas e vasos principais. O objetivo é explicar as relações anatômicas que aparecem nas **Estações Práticas** e na prova integrada. Dominar os pontos de transição (como o **Piloro**) e as âncoras vasculares é o segredo para não se perder no abdome.
 
 ---
 
 ## Roteiro em peça ou modelo (ordem fixa)
 
-| Etapa | Estrutura | Pergunta que você se faz |
-|-------|-----------|--------------------------|
-| 1 | **Cavidade oral** → **faringe** | Onde **termina** oral e começa **orofarínge**? |
-| 2 | **Esôfago** | **Tórax** versus **abdome**; relação com **traqueia** |
-| 3 | **Estômago** | **Curvaturas**, **piloro**, **omento** maior |
-| 4 | **Fígado** e **vesícula** | **Porta**, **lobos**, **duodeno** |
-| 5 | **Delgado** e **mesentério** | **Válvula ileocecal** |
-| 6 | **Cólon** e **apêndice** | **Taenias** e **base cecal** |
-| 7 | **Reto** e **ânus** | **Continuidade** pélvica |
+| Etapa | Estrutura | "Pulo do Gato" na Peça |
+|-------|-----------|-------------------------|
+| 1 | **Esôfago** | Corre atrás da Traqueia |
+| 2 | **Estômago** | **Piloro** é o limite distal (esfíncter)|
+| 3 | **Fígado/Vesícula**| Vesícula fica no **Lobo Direito** |
+| 4 | **Delgado** | **Mesentério** leva os vasos à alça |
+| 5 | **Cólon** | Procure as **Tênias** (fitas brancas) |
+| 6 | **Pâncreas** | A **Cabeça** está no "C" do Duodeno |
 
 > **Dica de Prova:** Sempre **orientar** o modelo: **direita/esquerda** do **cadáver** = **paciente** em **decúbito dorsal** com **braços** ao lado.
 
@@ -49,7 +48,11 @@ Esta aula **integra** peça, **modelo** e **checklist**: você deve **navegar** 
 
 ## Vasos e nervos: modo “âncora”
 
-Antes de decorar **todos** os ramos, memorize **celíaca**–**AMS**–**AMI** e **veia porta** (**bmf1_a20**), **VII** na **parótida** e **XII** na **língua** (**bmf1_a17**), e **porta hepática** (**bmf1_a21**). Isso **segura** 80% das questões de **integração** de BMF1.
+Antes de decorar ramos finos, memorize os 4 pontos cardeais do abdome:
+- **Tronco Celíaco:** Estômago, fígado, baço.
+- **Mesentérica Superior (AMS):** Intestino delgado e metade do grosso.
+- **Mesentérica Inferior (AMI):** Metade final do grosso e reto.
+- **Veia Porta:** O "coletor" que leva o sangue ao fígado.
 
 ---
 
@@ -67,40 +70,18 @@ Na **semiologia** futura, **abdome agudo** será **localização** da dor + **ex
 
 ## Pontos-Chave para Prova
 
-- Sequência **oral → faringe → esôfago → estômago → duodeno** sem atalhos.
-- **Válvula ileocecal** e **apêndice**.
-- **Fígado** + **vesícula** + **colédoco** até **duodeno**.
-- **Três** artérias **mesentéricas** e **ideia** de **território**.
-- **Peritônio** **parietal**/**visceral** e **meso** do **delgado**.
+- **Válvula Ileocecal:** Marca a transição entre o **Íleo** e o **Ceco**.
+- **Flexura Hepática:** Ângulo do cólon à **Direita**.
+- **Flexura Esplênica:** Ângulo do cólon à **Esquerda**.
+- **Omento Maior:** Grande cortina de gordura que recobre o intestino.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-Percorrer o tubo digestório em 2 minutos falando alto. Apontar três estruturas na porta hepática.
-
-Dizer onde está a válvula ileocecal sem olhar o texto. Uma diferença macro jejuno/íleo aceitável.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Piloro | Válvula ileocecal | Estômago–duodeno vs delgado–grosso |
-| Omento maior | Mesentério | Estômago/cólon transverso vs jejuno-íleo |
-| Vesícula | Apêndice | Hipocôndrio direito vs FID |
-| Cólon ascendente | Descendente | Direita vs esquerda do abdome |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Cárdia** | **Piloro** | Entrada do Estômago vs **Saída** |
+| **Pequena Curvatura**| **Grande Curvatura**| Omento Menor vs **Omento Maior** |
+| **Colédoco** | **Cístico** | Ducto que vai ao Duodeno vs **Ducto da Vesícula**|
+| **Vago (X)** | **Hipoglosso (XII)**| Inerva Tubo Digestório vs **Inerva Língua** |
 
 ### Frase-âncora para não esquecer
 
 > “Prática boa é roteiro falado: se travar antes do duodeno, volta à boca e recomeça devagar.”
-
----
-
-## Referências de estudo
-
-Revisão encadeada das aulas **bmf1_a17** a **bmf1_a21**; Moore + Netter como atlas de apoio na mesma sessão de estudo.

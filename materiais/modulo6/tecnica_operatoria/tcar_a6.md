@@ -1,91 +1,110 @@
-# Nos Manuais
+# Nós manuais em técnica operatória
 
 ## Relevância Clínica e Acadêmica
 
-No manual bem feito segura sutura; no mal feito solta no pos-operatório.
-A aula de nos manuais e treino de biomecânica aplicada.
-Nao basta decorar nome de no: e preciso entender friccao, alternancia de maos e tensão progressiva.
+Nó cirúrgico é habilidade de segurança, não detalhe estético.
+Em prova prática (OSCE), o avaliador observa economia de movimento, simetria dos lances e controle da tensão.
+Na clínica real, um nó mal travado pode causar deiscência de pele, sangramento de plano profundo e necessidade de reabordagem.
+Por isso, esta aula integra biomecânica do fio, padronização de gestos e critérios objetivos de qualidade.
 
-## Principios mecanicos do no cirúrgico
+## Princípios mecânicos do nó cirúrgico
 
-- no deve travar sem esmagar tecido;
-- os lances precisam ser simetricos e alternados;
-- fio com memoria alta exige mais cuidado de travamento;
-- cauda curta demais aumenta risco de desfazer;
-- no deve ficar lateral a linha de sutura, quando possivel.
+Um nó estável depende de três pilares: **atrito**, **alternância** e **assentamento progressivo**.
+Atrito insuficiente facilita deslizamento; atrito excessivo com tração brusca lesa tecido.
+Alternância correta dos semilances transforma a sequência em nó quadrado estável.
+Assentamento progressivo aproxima bordas sem estrangular microcirculação.
 
-## Tipos clássicos cobrados no treinamento
+| Princípio | O que significa na mão do aluno | Erro clássico de prova/OSCE |
+|----------|----------------------------------|-----------------------------|
+| Atrito adequado | Escolher número de lances conforme fio e tensão | Achar que 2 lances sempre bastam |
+| Alternância | Inverter a direção dos semilances | Repetir o mesmo gesto e formar falso nó |
+| Assentamento | Apertar de forma contínua e controlada | Dar tranco final e deformar borda |
+| Posição do nó | Preferir lateralizar da linha quando possível | Deixar nó exatamente sobre a linha de coaptação |
 
-### No quadrado
-
-Base da maioria das suturas.
-Exige alternancia correta para não virar "falso no".
-
-### No de cirurgiao
-
-Primeiro lance com volta adicional para aumentar atrito inicial.
-Util em situação de maior tensão local.
-
-### No instrumental
-
-Executado com porta-agulha quando espaco e reduzido.
-Mantem os mesmos principios mecanicos do no manual.
+> **Dica de Prova:** quando a questão falar em “nó que escorrega”, pense primeiro em falta de alternância ou em fio monofilamentar com poucos lances.
+>
+> **Pegadinha:** “força” não corrige técnica ruim; excesso de tração pode estabilizar momentaneamente e falhar no pós-operatório.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A6-F01`
+**Figura-ID:** `TCAR-A6-F01`
 
-- **Momento:** após descricao dos nos clássicos.
-- **O que mostrar:** sequência de maos no no quadrado e no de cirurgiao.
-- **Tipo sugerido:** esquema em quadros.
-- **Legenda (rascunho):** Diferenca entre alternancia correta e falso no.
+- **Momento:** após os princípios mecânicos.
+- **O que mostrar:** comparação passo a passo entre sequência alternada correta e sequência repetida (falso nó).
+- **Tipo sugerido:** esquema didático em quatro quadros.
+- **Legenda (rascunho):** Alternância dos semilances é o principal determinante de estabilidade do nó manual.
 
-## Sequencia de treinamento recomendada
+## Tipos de nós cobrados no módulo
 
-1. Treino sem fio em movimento de maos.
-2. Treino com fio grosso em bancada seca.
-3. Reducao gradual do calibre do fio.
-4. Treino com limite de tempo sem perder qualidade.
-5. Aplicação em simulador de pele.
+### Nó quadrado
 
-Critérios de qualidade:
-- no não desliza com tração moderada;
-- tecido não fica estrangulado;
-- distancia entre bordas permanece simetrica;
-- caudas ficam com tamanho seguro.
+É o padrão de referência para síntese manual em planos sem tensão extrema.
+Deve ser construído com semilances alternados e caudas adequadas para o fio escolhido.
 
-## Erros mais comuns do iniciante
+### Nó de cirurgião
 
-- repetir mesmo gesto de mao e formar no falso;
-- tracionar de forma brusca e cortar tecido;
-- apertar demais o primeiro lance;
-- "compensar" no ruim com excesso de lances;
-- perder orientação do fio por postura corporal inadequada.
+Usa volta adicional no primeiro lance para aumentar atrito inicial.
+É útil quando há tendência imediata de abertura da borda por tensão local.
+Não substitui técnica; apenas melhora controle no primeiro assentamento.
+
+### Nó manual com porta-agulha (instrumental)
+
+Mantém os mesmos princípios biomecânicos do manual.
+Indicado quando o campo é profundo, restrito ou com limitação de espaço para pinça digital ampla.
+
+| Tipo de nó | Melhor cenário | Limitação relevante |
+|------------|----------------|---------------------|
+| Quadrado | Fechamento rotineiro com tensão moderada | Desliza se alternância estiver errada |
+| Cirurgião | Primeiro lance sob tensão maior | Pode virar volume excessivo se mal assentado |
+| Instrumental | Campo profundo e acesso difícil | Risco de movimento impreciso sem treino prévio |
+
+> **Dica de OSCE:** verbalize “alternância e assentamento progressivo” durante a execução; isso mostra domínio técnico e raciocínio.
+>
+> **Pegadinha:** confundir “mais voltas” com “mais segurança” em qualquer contexto; volume excessivo aumenta reação inflamatória local.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR-A6-F02`
+
+- **Momento:** após comparação entre tipos de nós.
+- **O que mostrar:** execução do nó de cirurgião com destaque para o primeiro lance duplo e o travamento subsequente.
+- **Tipo sugerido:** ilustração técnica sequencial.
+- **Legenda (rascunho):** Nó de cirurgião aumenta atrito inicial, mas exige finalização com alternância correta.
+
+## Checklist técnico de execução
+
+Sequência recomendada para treino em bancada e simulação:
+
+1. Posicionar corpo e mãos de forma estável, com campo visível.
+2. Definir mão dominante para controle do fio ativo.
+3. Executar primeiro semilance com alinhamento dos vetores de tração.
+4. Fazer segundo semilance em direção oposta (alternância real).
+5. Assentar o nó de forma progressiva até coaptação sem isquemia.
+6. Verificar estabilidade com tração leve e simétrica.
+7. Ajustar caudas conforme fio e plano, evitando excesso desnecessário.
+
+Critérios de qualidade observáveis:
+
+- nó não desliza com tração moderada;
+- bordas permanecem coaptadas e perfundidas;
+- não há esmagamento central do tecido;
+- o plano fica estável sem necessidade de “nós de resgate”.
 
 ## Ponte com a Clínica
 
-Na prática ambulatorial, abertura parcial de ferida e no frequentemente tem relação com no mal travado.
-Em campo profundo, no inseguro pode significar sangramento ou deiscência de plano.
-Treinar no manual reduz dependência de improviso quando o ambiente fica desfavoravel.
-
-### Figura sugerida
-
-**Figura-ID:** `TO-A6-F02`
-
-- **Momento:** após ponte com a clínica.
-- **O que mostrar:** comparação de no estavel versus no que desliza sob tração.
-- **Tipo sugerido:** ilustração comparativa.
-- **Legenda (rascunho):** Estabilidade do no determina segurança da síntese.
+Em ferida de pele sob tensão moderada, nó manual bem feito reduz deiscência e melhora resultado estético.
+Em cirurgia aberta, estabilidade do nó em planos profundos evita sangramento tardio por soltura de ligadura.
+No internato e na residência inicial, consistência técnica do nó manual diferencia execução segura de execução apenas “rápida”.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- No bom e resultado de técnica repetivel, não de força.
-- Alternancia correta de maos evita falso no.
-- Tensão progressiva protege tecido.
-- Numero de lances depende do fio usado.
-- Treino em bancada acelera desempenho em campo real.
+- Nó estável depende de alternância correta e tensão progressiva.
+- Nó de cirurgião é indicação de contexto, não substituto de técnica.
+- Falso nó costuma surgir por repetição do mesmo semilance.
+- Número de lances deve considerar tipo de fio e tensão do plano.
+- Em OSCE, segurança e reprodutibilidade valem mais que velocidade.
 
 ---
 
@@ -98,6 +117,7 @@ Treinar no manual reduz dependência de improviso quando o ambiente fica desfavo
 Nesta aula, pense em estabilidade mecânica do no.
 Se o enunciado citar soltura, deiscência ou sangramento sem causa evidente, suspeite de no mal confeccionado.
 No de cirurgiao e util em tensão maior, mas não substitui técnica correta.
+Nó de sapateiro aparece no edital como nome a reconhecer — na prática costuma coincidir com o **quadrado bem feito**.
 No instrumental segue os mesmos principios do manual: alternancia, tração controlada e travamento seguro.
 
 ### Diferenciações que a Uninove adora cobrar
@@ -105,9 +125,11 @@ No instrumental segue os mesmos principios do manual: alternancia, tração cont
 | Conceito A | Conceito B | Como diferenciar |
 |---|---|---|
 | No quadrado | Falso no | quadrado alterna maos; falso repete gesto e desliza |
+| Nó de sapateiro (programa) | Nó quadrado (texto) | na maior parte dos treinos, o “sapateiro” é o hábito bimanual correto do quadrado; validar detalhe com o NIS |
 | No de cirurgiao | No simples | de cirurgiao aumenta atrito inicial em maior tensão |
 | Tração firme | Tração brusca | firme ajusta borda; brusca lesa tecido |
 
 ### Frase-âncora para não esquecer
 
 > "No estavel fecha ferida; no instavel abre problema."
+

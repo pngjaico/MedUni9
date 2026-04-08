@@ -8,7 +8,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O envelhecimento não é uma doença: é um processo biológico que reduz reserva homeostática (conceito de homeostenose — menor capacidade de manter constantes fisiológicas sob estresse). No *Cecil*, a distinção entre senescência (mudanças “esperadas” de longo prazo) e senilidade (perda funcional excessiva ou multimorbidade descompensada) orienta quando investigar, quando tratar e quando evitar iatrogenia. Em prova e plantão, o idoso com sepse sem febre, IAM sem dor típica ou intoxicação digitálica com “apenas fraqueza” testa se você entende que a idade muda o quadro, não só a idade cronológica no prontuário.
+O **envelhecimento** não é uma doença: é um **processo biológico** que reduz **reserva homeostática** (conceito de **homeostenose** — menor capacidade de manter constantes fisiológicas sob estresse). No *Cecil*, a distinção entre **senescência** (mudanças “esperadas” de longo prazo) e **senilidade** (perda funcional excessiva ou multimorbidade descompensada) orienta **quando investigar**, **quando tratar** e **quando evitar iatrogenia**. Em prova e plantão, o idoso com **sepse sem febre**, **IAM sem dor típica** ou **intoxicação digitálica com “apenas fraqueza”** testa se você entende que **a idade muda o quadro**, não só a idade cronológica no prontuário.
 
 ---
 
@@ -16,11 +16,11 @@ O envelhecimento não é uma doença: é um processo biológico que reduz reserv
 
 | Termo | Definição prática |
 |-------|-------------------|
-| Senescência | Conjunto de alterações fisiológicas progressivas (celulares, hormonais, de tecidos) que ocorrem com o tempo. |
-| Senilidade (uso clínico amplo) | Estado de vulnerabilidade ou perda funcional que ultrapassa o esperado só pelo calendário — frequentemente associado a fragilidade e multimorbidade. |
-| Homeostenose | Perda da capacidade de resposta a estímulos; o mesmo insulto (infecção, hemorragia) descompensa mais cedo. |
+| **Senescência** | Conjunto de alterações fisiológicas progressivas (celulares, hormonais, de tecidos) que ocorrem com o tempo. |
+| **Senilidade** (uso clínico amplo) | Estado de **vulnerabilidade** ou **perda funcional** que ultrapassa o esperado só pelo calendário — frequentemente associado a **fragilidade** e **multimorbidade**. |
+| **Homeostenose** | Perda da **capacidade de resposta** a estímulos; o mesmo insulto (infecção, hemorragia) descompensa mais cedo. |
 
-> **Dica de Prova:** “É normal na idade” só é aceitável após excluir causas tratáveis — infecção, hipotireoidismo, B12, depressão, efeito de fármaco.
+> **Dica de Prova:** “É normal na idade” **só** é aceitável após excluir **causas tratáveis** — infecção, hipotireoidismo, B12, depressão, efeito de fármaco.
 
 ---
 
@@ -28,11 +28,11 @@ O envelhecimento não é uma doença: é um processo biológico que reduz reserv
 
 ### Cardiovascular
 
-Aumento da rigidez arterial, menor resposta cronotrópica ao esforço e aos beta-agonistas, maior prevalência de hipertensão sistólica isolada. O infarto pode cursar sem dor típica ou com fadiga/dispneia; o ECG pode ser menos específico se houver bloqueios prévios.
+**Aumento da rigidez arterial**, **menor resposta cronotrópica** ao esforço e aos beta-agonistas, maior prevalência de **hipertensão sistólica isolada**. O infarto pode cursar **sem dor típica** ou com **fadiga/dispneia**; o ECG pode ser menos específico se houver bloqueios prévios.
 
 ### Renal
 
-A TFG estimada cai em média com a idade; creatinina sérica pode permanecer “normal” com massa muscular reduzida. Ajuste de dose e cautela com AINEs, contrastes e nefrotóxicos são obrigatórios.
+A **TFG estimada** cai em média com a idade; **creatinina sérica** pode permanecer “normal” com **massa muscular reduzida**. Ajuste de dose e cautela com **AINEs**, contrastes e nefrotóxicos são obrigatórios.
 
 ### Neurológico
 
@@ -50,9 +50,9 @@ Mudanças na distribuição de gordura, sensibilidade à insulina e eixo **HPA**
 
 ## Farmacologia no idoso: por que “meia dose” não é regra universal
 
-Absorção pode variar; volume de distribuição muda com lipofilia e massa magra; metabolismo hepático e excreção renal frequentemente reduzem clearance. Polifarmácia aumenta interações e risco de quedas (sedativos, anti-hipertensivos, hipoglicemiantes).
+**Absorção** pode variar; **volume de distribuição** muda com lipofilia e massa magra; **metabolismo hepático** e **excreção renal** frequentemente **reduzem clearance**. **Polifarmácia** aumenta interações e risco de **quedas** (sedativos, anti-hipertensivos, hipoglicemiantes).
 
-> **Pegadinha:** digitálicos e antiarrítmicos com margem terapêutica estreita — toxicidade por função renal ou interação pode parecer “piora funcional inexplicável”.
+> **Pegadinha:** digitálicos e antiarrítmicos com **margem terapêutica estreita** — toxicidade por **função renal** ou **interação** pode parecer “piora funcional inexplicável”.
 
 ---
 
@@ -80,19 +80,19 @@ Absorção pode variar; volume de distribuição muda com lipofilia e massa magr
 
 **Momento:** após tabela de apresentação atípica (opcional; reforço visual).
 
-O que mostrar: fluxograma simples: queixa vaga no idoso → excluir causas agudas tratáveis → avaliar função → revisar fármacos.
+**O que mostrar:** fluxograma simples: **queixa vaga no idoso** → **excluir causas agudas tratáveis** → **avaliar função** → **revisar fármacos**.
 
-**Tipo sugerido:** esquema didático em uma coluna (app mobile).
+**Tipo sugerido:** esquema didático em uma coluna (aplicativo móvel).
 
 **Legenda (rascunho):** Abordagem inicial da queixa inespecífica no idoso.
 
-**Notas (produção):** o texto acima já cobre o raciocínio; figura é complemento.
+**Notas (produção):** a figura complementa a leitura e organiza o passo a passo inicial.
 
 ---
 
 ## Ponte com a Clínica
 
-Idoso com “só cansaço” há 48 h: não atribua a depressão sem ECG, radiografia ou pelo menos exame físico completo e laboratório mínimo conforme suspeita. A alta hospitalar segura inclui revisão de fármacos, suporte social e plano de reavaliação — senescência não exime de continuidade assistencial.
+Idoso com **“só cansaço”** há 48 h: não atribua a depressão sem **ECG**, **radiografia** ou pelo menos **exame físico completo** e **laboratório mínimo** conforme suspeita. A **alta hospitalar** segura inclui **revisão de fármacos**, **suporte social** e **plano de reavaliação** — senescência não exime de **continuidade assistencial**.
 
 ---
 
@@ -110,13 +110,13 @@ Idoso com “só cansaço” há 48 h: não atribua a depressão sem ECG, radiog
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Homeostenose** e **reserva funcional**.  
-- **Apresentação atípica** de sepse, IAM, pneumonia.  
-- **Ajuste** de dose por idade/renal/hepática.  
-- **Polifarmácia** como risco.  
-- **Não** atribuir tudo à idade sem investigação.
+Homeostenose e reserva funcional. Apresentação atípica de sepse, IAM, pneumonia.
+
+Ajuste de dose por idade/renal/hepática. Polifarmácia como risco.
+
+Não atribuir tudo à idade sem investigação.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,4 +128,4 @@ Idoso com “só cansaço” há 48 h: não atribua a depressão sem ECG, radiog
 
 ### Frase-âncora para não esquecer
 
-> “Idoso é **menos reserva** — o mesmo insulto derruba mais cedo; **vague complaints** pedem **lista de exclusão**, não só consolo.”
+> “Idoso é **menos reserva** — o mesmo insulto descompensa mais cedo; **queixa vaga** pede **lista de exclusão**, não só consolo.”

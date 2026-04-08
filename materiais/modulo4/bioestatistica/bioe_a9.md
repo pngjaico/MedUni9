@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O estudo de coorte é o design observacional mais próximo do experimento — por isso ocupa um nível elevado na hierarquia de evidências. Nele, a temporalidade fica clara: os participantes são selecionados pela exposição e acompanhados ao longo do tempo até desenvolver (ou não) o desfecho. Framingham, Nurses Health Study e UK Biobank são coortes que geraram décadas de evidências sobre doenças cardiovasculares, câncer e mortalidade. A **Uninove** cobra a lógica do desenho, o cálculo do Risco Relativo e as vantagens e limitações específicas desse tipo de estudo.
+O estudo de coorte é o design observacional mais próximo do experimento — por isso ocupa um nível elevado na hierarquia de evidências. Nele, a temporalidade fica clara: os participantes são selecionados pela exposição e acompanhados ao longo do tempo até desenvolver (ou não) o desfecho. Framingham, Nurses Health Study e UK Biobank são coortes que geraram décadas de evidências sobre doenças cardiovasculares, câncer e mortalidade. A Uninove cobra a lógica do desenho, o cálculo do Risco Relativo e as vantagens e limitações específicas desse tipo de estudo.
 
 ### Figura sugerida
 
@@ -139,17 +139,17 @@ O Framingham Heart Study, iniciado em 1948, é o exemplo clássico de coorte pro
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Coorte:** exposição primeiro, depois desfecho — temporalidade garantida.
+- **RR:** medida de efeito da coorte = incidência expostos / incidência não expostos.
+- **Prospectiva:** dados coletados para frente. Retrospectiva: dados históricos existentes.
+- **Vantagem sobre caso-controle:** mede incidência, sem viés de recall.
+- **Inadequada para:** doenças raras (precisa de muitos casos).
+- **Viés de perda diferencial:** compromete validade se os que abandonam diferem dos que ficam.
 
-
-Coorte: exposição primeiro, depois desfecho — temporalidade garantida. RR: medida de efeito da coorte = incidência expostos / incidência não expostos.
-
-Prospectiva: dados coletados para frente. Retrospectiva: dados históricos existentes. Vantagem sobre caso-controle: mede incidência, sem viés de recall.
-
-Inadequada para: doenças raras (precisa de muitos casos). Viés de perda diferencial: compromete validade se os que abandonam diferem dos que ficam.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -161,5 +161,4 @@ Inadequada para: doenças raras (precisa de muitos casos). Viés de perda difere
 | Perda aleatória | Perda diferencial | Aleatória: tolerável; Diferencial: compromete validade (viés de seleção) |
 
 ### Frase-âncora para não esquecer
-
 > "Coorte vai da exposição ao desfecho — por isso calcula RR e garante temporalidade. Cara, lenta, mas a mais próxima do experimento entre os observacionais."

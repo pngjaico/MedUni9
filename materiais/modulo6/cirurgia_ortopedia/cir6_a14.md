@@ -7,15 +7,15 @@
 
 ## Relevância Clínica e Acadêmica
 
-Carcinoma esofágico divide-se principalmente em espinocelular (tórax superior/médio, fatores tabaco/álcool) e adenocarcinoma (junção gastroesofágica, Barrett). Câncer colorretal é altamente rastreável (FOBT, colonoscopia). Neoplasia de canal anal associa-se a HPV; protocolo Nigro (quimiorradioterapia) pode preservar esfincter. Em prova, dominam estadiamento TNM, margens cirúrgicas e cirurgia mínima invasiva em reto/cólon.
+**Carcinoma esofágico** divide-se principalmente em **espinocelular** (tórax superior/médio, fatores tabaco/álcool) e **adenocarcinoma** (junção gastroesofágica, **Barrett**). **Câncer colorretal** é altamente rastreável (**FOBT**, **colonoscopia**). **Neoplasia de canal anal** associa-se a **HPV**; protocolo **Nigro** (**quimiorradioterapia**) pode preservar esfincter. Em prova, dominam **estadiamento TNM**, **margens** cirúrgicas e **cirurgia mínima invasiva** em reto/cólon.
 
 ---
 
 ## Esôfago — subtipos e apresentação
 
-Disphagia progressiva, perda ponderal, odinofagia. Esofagite grave e Barrett são campos de adenocarcinoma distal. Espinocelular — sintomas precoces às vezes (disfagia), metástases locorregionais.
+**Disphagia progressiva**, perda ponderal, odinofagia. **Esofagite grave** e Barrett são campos de **adenocarcinoma distal**. **Espinocelular** — sintomas precoces às vezes (disfagia), metástases locorregionais.
 
-### Tratamento (ideia)
+### Tratamento (visão de prova)
 
 **Ressecção** com neoadjuvância em estádios locais avançados; **quimiorradioterapia** em espinocelular conforme estadiamento. **Paliativo**: stent esofágico, nutrição enteral.
 
@@ -24,7 +24,7 @@ Disphagia progressiva, perda ponderal, odinofagia. Esofagite grave e Barrett sã
 **Figura-ID:** `CIR6-A14-F01`
 
 - **Momento:** após esôfago — estudo contrastado.
-- O que mostrar: esofagograma com lesão estenosante ou irregularidade mucosa.
+- **O que mostrar:** **esofagograma** com **lesão estenosante** ou irregularidade mucosa.
 - **Tipo sugerido:** RX com bário ou TC.
 - **Legenda (rascunho):** Carcinoma esofágico: estenose ao estudo contrastado.
 
@@ -32,7 +32,7 @@ Disphagia progressiva, perda ponderal, odinofagia. Esofagite grave e Barrett sã
 
 ## Colorretal — rastreio e genética
 
-Colonoscopia a cada 10 anos em risco médio (faixas etárias conforme diretriz local). Síndrome de Lynch e FAP alteram idade e frequência. Pólipo adenomatoso é lesão precursora — resecção endoscópica quando seguro.
+**Colonoscopia** a cada 10 anos em risco médio (faixas etárias conforme diretriz local). **Síndrome de Lynch** e **FAP** alteram idade e frequência. **Pólipo adenomatoso** é lesão precursora — resecção endoscópica quando seguro.
 
 ### Apresentação
 
@@ -43,7 +43,7 @@ Sangue oculto, alteração do hábito, anemia ferropriva, obstrução. **Lado di
 **Figura-ID:** `CIR6-A14-F02`
 
 - **Momento:** após rastreio — lesão endoscópica.
-- O que mostrar: colonoscopia com pólipo pedunculado ou massa (imagem didática).
+- **O que mostrar:** **colonoscopia** com **pólipo pedunculado** ou massa (imagem didática).
 - **Tipo sugerido:** endoscopia colorretal.
 - **Legenda (rascunho):** Neoplasia colorretal: lesão polipoide à colonoscopia.
 
@@ -51,9 +51,9 @@ Sangue oculto, alteração do hábito, anemia ferropriva, obstrução. **Lado di
 
 ## Tratamento colorretal
 
-Cirurgia oncológica com ressecção de meso e margens; quimioterapia adjuvante em estádios III (conceito). Reto baixo: TME (mesorreto total), preservação esfincteriana quando oncologicamente seguro. Neoadjuvância em reto médio/baixo localmente avançado.
+**Cirurgia oncológica** com ressecção de meso e margens; **quimioterapia adjuvante** em estádios III (conceito). **Reto baixo**: **TME** (mesorreto total), **preservação esfincteriana** quando oncologicamente seguro. **Neoadjuvância** em reto médio/baixo localmente avançado.
 
-> **Pegadinha:** metástase hepática não significa automaticamente incurável — ressecável com quimioterapia de conversão em casos selecionados.
+> **Pegadinha:** **metástase hepática** não significa automaticamente incurável — **ressecável** com quimioterapia de conversão em casos selecionados.
 
 ---
 
@@ -91,11 +91,11 @@ Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Dis
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Barrett** — vigilância endoscópica conforme protocolo.
-- **CEA** — seguimento pós-tratamento, não diagnóstico inicial.
-- **Metástase hepática** — ressecabilidade em discussão multidisciplinar.
+Na prova, lembre que Barrett — vigilância endoscópica conforme protocolo. CEA — seguimento pós-tratamento, não diagnóstico inicial.
+
+Para não errar em cenário clínico, considere também Metástase hepática — ressecabilidade em discussão multidisciplinar.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Anemia em homem >50 anos: **colonoscopia** mesmo sem sangramento visível. **Dis
 ### Frase-âncora para não esquecer
 
 > “**Colonoscopia** salva vidas — **anemia** sem causa é **pista**, não acaso.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **cirurgia robótica**, **ostomias temporárias** e **reabilitação** em reto baixo. Consentimento informado deve incluir função esfincteriana e sexual.
-
-### Leitura de reforço
-
-- Diretrizes de rastreio colorretal
-- Protocolo Nigro e manejo de toxicidades da QRT

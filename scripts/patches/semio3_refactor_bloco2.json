@@ -1,0 +1,462 @@
+[
+  {
+    "id": 2312,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Homem de 34 anos chega à emergência com dor súbita em flanco direito, irradiação para a virilha, nega febre. Qual conjunto de achados é mais compatível com cólica renal aguda típica?",
+    "opcoes": [
+      "A) Dor gradual, febre alta e paciente imóvel no leito.",
+      "B) Dor aguda com irradiação flanco-inguinal ou genital, sem febre, paciente frequentemente inquieto.",
+      "C) Disúria isolada, ausência de dor em flanco e evolução insidiosa em semanas.",
+      "D) Dor periumbilical difusa como único sintoma, sem irradiação inguinal."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A cólica renal clássica costuma ser súbita, com irradiação para inguinal/genitália e sem febre; o paciente muitas vezes não tolera ficar imóvel.",
+    "explicacoes_opcoes": {
+      "A": "Padrão mais sugestivo de processo infeccioso (ex.: pielonefrite) ou outra causa, não de cólica renal típica.",
+      "B": "Corresponde ao quadro descrito no material: dor aguda, irradiação flanco-inguinal e ausência de febre, com comportamento de inquietação.",
+      "C": "Cistite pode cursar com disúria, mas o enunciado descreve cólica renal com irradiação e dor em flanco.",
+      "D": "A cólica renal clássica irradia para inguinal/genitália; dor exclusivamente periumbilical não é o padrão principal descrito."
+    },
+    "explicacao": "Resumo: Cólica renal típica = dor aguda + irradiação flanco-inguinal + sem febre; contexto integra comportamento e sintomas associados.\nA) INCORRETA. Febre e imobilidade sugerem infecção sistêmica ou outro quadro, não cólica renal clássica.\nB) CORRETA. Alinha-se à apresentação clássica: irradiação flanco-inguinal/genital, ausência de febre e paciente muitas vezes agitado.\nC) INCORRETA. Não descreve cólica renal com o padrão de dor e irradiação esperados no caso.\nD) INCORRETA. A irradiação inguinal é característica; dor só periumbilical não fecha o padrão típico de cólica renal."
+  },
+  {
+    "id": 2313,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Mulher de 28 anos apresenta febre de 39 °C há 2 dias, dor em flanco esquerdo, disúria e náuseas. Ao exame, o toque costovertebral esquerdo é doloroso. Qual hipótese é a mais provável?",
+    "opcoes": [
+      "A) Nefrolitíase obstrutiva sem componente infeccioso.",
+      "B) Pielonefrite (infecção do trato urinário alto).",
+      "C) Cólica renal não complicada, sem necessidade de investigar urina.",
+      "D) Infarto renal por embolia, como primeira hipótese em jovem hígido."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Febre, dor em flanco, disúria e TCV doloroso compõem o quadro sugestivo de infecção do trato alto, como pielonefrite.",
+    "explicacoes_opcoes": {
+      "A": "Litíase pode coexistir, mas febre alta com disúria e TCV positivo pesa fortemente para infecção alta.",
+      "B": "Conjunto febre + dor + disúria + irritação renal ao TCV é compatível com pielonefrite, como no material.",
+      "C": "Ausência de febre é mais típica de cólica renal simples; aqui há febre sistêmica e foco infeccioso.",
+      "D": "Embolia renal é possível, porém incomum neste contexto infeccioso clássico com disúria e febre."
+    },
+    "explicacao": "Resumo: Pielonefrite integra dor lombar/flanco, febre, sintomas miccionais e sensibilidade costovertebral.\nA) INCORRETA. Sem febre e com padrão de cólica isolada seria mais litíase; o caso tem febre e sintomas de infecção.\nB) CORRETA. Febre, disúria, dor em flanco e TCV doloroso sustentam infecção renal alta (pielonefrite).\nC) INCORRETA. A febre elevada e o quadro infeccioso não são de cólica renal não complicada.\nD) INCORRETA. Embolia é diagnóstico diferencial menos provável que ITU alta neste cenário típico."
+  },
+  {
+    "id": 2314,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Na percussão leve sobre o ângulo costovertebral, o paciente refere dor. Qual interpretação é mais adequada?",
+    "opcoes": [
+      "A) Confirma diagnóstico de nefrolitíase.",
+      "B) Exclui qualquer forma de infecção renal.",
+      "C) Indica irritação/inflamação na região renal; a etiologia depende do contexto (cálculo, infecção, outras causas).",
+      "D) É achado patognomônico de neoplasia renal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "TCV positivo significa dor à percussão costovertebral, sugerindo irritação renal, mas não fecha diagnóstico etiológico sem anamnese e demais dados.",
+    "explicacoes_opcoes": {
+      "A": "Litíase é uma causa, mas TCV positivo também ocorre em infecção e outras condições.",
+      "B": "Infecção renal frequentemente associa-se a TCV doloroso.",
+      "C": "Corresponde ao material: TCV positivo aponta irritação renal; o quadro clínico diferencia causas.",
+      "D": "Neoplasia pode cursar com dor, mas TCV não é específico de tumor."
+    },
+    "explicacao": "Resumo: TCV positivo = sinal de irritação renal; a causa é definida pelo conjunto clínico, não pelo isolamento do achado.\nA) INCORRETA. Cálculo é uma possibilidade entre várias (infecção, inflamação, etc.).\nB) INCORRETA. Pielonefrite é causa frequente de TCV doloroso.\nC) CORRETA. O achado é sensível para irritação renal; a etiologia requer correlação clínica.\nD) INCORRETA. Não há especificidade para neoplasia apenas com TCV positivo."
+  },
+  {
+    "id": 2315,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Gestante de 24 semanas refere dor em flanco, febre e disúria. Considerando epidemiologia e risco na gravidez, qual conduta raciocínio é o mais adequado?",
+    "opcoes": [
+      "A) Tratar como cólica renal sem complicação até prova contrária.",
+      "B) Assumir baixa probabilidade de infecção urinária por ser gestação baixo risco.",
+      "C) Priorizar somente analgesia oral em casa, sem investigação de urina.",
+      "D) Reconhecer alto risco de ITU/pielonefrite na gravidez e tratar a suspeita com urgência e investigação adequada."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Na gestação, dor em flanco com febre e sintomas miccionais eleva fortemente a suspeita de infecção do trato alto, contexto de maior risco.",
+    "explicacoes_opcoes": {
+      "A": "Cólica renal clássica costuma ocorrer sem febre; febre com flanco e disúria exige foco infeccioso.",
+      "B": "O material destaca maior risco de ITU/pielonefrite na gravidez, não menor.",
+      "C": "Cenário potencialmente grave (mãe e feto) requer avaliação, não apenas sintomáticos isolados em domicílio.",
+      "D": "Alinha-se ao raciocínio de alto risco na gestante e necessidade de abordagem urgente da infecção urinária alta suspeita."
+    },
+    "explicacao": "Resumo: Gestante com dor em flanco, febre e disúria deve ser manejada como possível ITU alta com implicações sérias.\nA) INCORRETA. A febre e o padrão infeccioso não são típicos de cólica renal isolada.\nB) INCORRETA. A gravidez aumenta o risco de ITU complicada, não o diminui.\nC) INCORRETA. Omitir investigação pode atrasar tratamento de pielonefrite e complicações.\nD) CORRETA. Reflete o alerta epidemiológico do material e a necessidade de conduta acelerada."
+  },
+  {
+    "id": 2316,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Sobre a técnica do toque costovertebral (TCV), qual afirmação está correta?",
+    "opcoes": [
+      "A) Percussão leve com uma mão apoiada na região costovertebral e punho do examinador, buscando dor à manobra.",
+      "B) Palpação profunda exclusiva do epigástrio, sem contato com a parede posterior.",
+      "C) Ausculta renal obrigatória por três minutos antes de qualquer percussão.",
+      "D) A manobra só é válida na presença de hematúria macroscópica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O TCV avalia sensibilidade na região costovertebral por percussão, com apoio da mão sobre os processos espinhosos da cintura.",
+    "explicacoes_opcoes": {
+      "A": "Descreve a ideia central: percussão sobre flanco/costovertebral com apoio da mão, conforme o material.",
+      "B": "O foco é o ângulo costovertebral/flanco, não exclusivamente epigástrio.",
+      "C": "Não há essa sequência ou tempo de ausculta como pré-requisito do TCV no texto de referência.",
+      "D": "TCV pode ser positivo sem hematúria visível; a urina não valida ou invalida a manobra."
+    },
+    "explicacao": "Resumo: TCV = percussão na região costovertebral para detectar irritação renal.\nA) CORRETA. Compatível com a descrição de apoio na região e percussão leve com punho.\nB) INCORRETA. O alvo é o flanco/costovertebral, não apenas epigástrio.\nC) INCORRETA. Ausculta prolongada não faz parte da definição do TCV.\nD) INCORRETA. Hematúria não é condição para realizar ou interpretar o TCV."
+  },
+  {
+    "id": 2317,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Homem de 40 anos apresenta dor em flanco há 6 horas, sem febre, urina avermelhada e grande inquietação na maca. Qual diferenciação é mais coerente com o quadro?",
+    "opcoes": [
+      "A) Padrão típico de pielonefrite com sepse precoce.",
+      "B) Quadro mais compatível com nefrolitíase/cólica renal aguda do que com pielonefrite febril.",
+      "C) Infecção exclusivamente de bexiga, pela presença de sangue na urina.",
+      "D) Diverticulite aguda, pela irradiação referida para a virilha."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Ausência de febre, hematúria e cólica intensa com inquietação sugerem litíase/cólica; pielonefrite costuma associar febre e quadro sistêmico infeccioso.",
+    "explicacoes_opcoes": {
+      "A": "Pielonefrite tipicamente inclui febre; aqui a negação de febre afasta o padrão clássico.",
+      "B": "Sangue na urina com dor tipo cólica e sem febre alinha-se à nefrolitíase aguda descrita no material.",
+      "C": "Hematúria ocorre em litíase; não reduz o quadro à cistite simples.",
+      "D": "Irradiação inguinal é típica de cólica renal; diverticulite tem outro padrão epidemiológico e de dor."
+    },
+    "explicacao": "Resumo: Diferenciar cólica (dor + hematúria, sem febre, paciente inquieto) de pielonefrite (febre + sintomas miccionais + TCV).\nA) INCORRETA. Falta febre e o quadro é hiperágico como cólica, não séptico típico.\nB) CORRETA. Hematúria e dor com padrão de cólica sem febre sustentam litíase aguda.\nC) INCORRETA. Sangue na urina não implica apenas infecção baixa.\nD) INCORRETA. A irradiação flanco-inguinal é clássica em litíase, não critério de diverticulite."
+  },
+  {
+    "id": 2318,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Ao exame abdominal, o rim direito é palpável, indolor e aparentemente aumentado. Em adulto sem magreza extrema, qual conclusão é mais adequada?",
+    "opcoes": [
+      "A) Achado fisiológico frequente na população geral.",
+      "B) Normalidade esperada em qualquer adulto jovem.",
+      "C) Rim palpável não é esperado como normalidade; o achado requer explicação (aumento de volume, massa, hidronefrose, entre outras causas).",
+      "D) Indica exclusivamente neoplasia maligna renal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Em indivíduos normais os rins não costumam ser palpáveis; palpação de rim sugere aumento de volume ou outra alteração.",
+    "explicacoes_opcoes": {
+      "A": "O material afirma que rim não deve ser palpável na pessoa saudável.",
+      "B": "Idade jovem não torna palpação renal um achado normal por si só.",
+      "C": "Corresponde ao texto: rim palpável é anormal até se explicar (aumento, massa, etc.).",
+      "D": "Neoplasia é uma causa possível, mas não a única (hidronefrose, glomerulopatias com aumento, etc.)."
+    },
+    "explicacao": "Resumo: Palpação renal positiva é sinal de alerta, não variante normal.\nA) INCORRETA. Não é achado fisiológico habitual.\nB) INCORRETA. Não se espera rim palpável como padrão em adultos saudáveis.\nC) CORRETA. Rim palpável indica aumento ou massa até prova contrária, conforme o material.\nD) INCORRETA. Há múltiplas etiologias; não se pode afirmar exclusivamente malignidade."
+  },
+  {
+    "id": 2319,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Mulher com diagnóstico de pielonefrite apresenta febre de 39,5 °C, taquicardia e pressão arterial de 85/50 mmHg. Qual raciocínio condiz melhor com o material?",
+    "opcoes": [
+      "A) Tratar apenas com antitérmico em domicílio, por ser infecção urinária simples.",
+      "B) Considerar baixo risco de complicação por se tratar de infecção exclusivamente de vias altas.",
+      "C) Alta precoce sem monitorização, se a dor melhorar com analgesia.",
+      "D) Pode representar sepse associada à infecção urinária; requer avaliação e manejo de emergência."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Febre, taquicardia e hipotensão em contexto de infecção urinária alta sugerem disfunção circulatória e possível sepse.",
+    "explicacoes_opcoes": {
+      "A": "Hipotensão e taquicardia não são manejadas só com antitérmico domiciliar.",
+      "B": "ITU alta pode evoluir para sepse; hipotensão é sinal de gravidade.",
+      "C": "Melhora sintomática não substitui avaliação de perfusão e foco infeccioso em choque possível.",
+      "D": "Alinha-se ao alerta do material sobre sepse urinária e necessidade de intervenção urgente."
+    },
+    "explicacao": "Resumo: Pielonefrite com instabilidade hemodinâmica exige reconhecimento de sepse potencial.\nA) INCORRETA. Cenário de possível choque séptico não se resolve com antitérmico isolado em casa.\nB) INCORRETA. Infecção alta pode ser grave e sistêmica.\nC) INCORRETA. Alta precoce é insegura com hipotensão e taquicardia.\nD) CORRETA. Febre alta, taquicardia e hipotensão sugerem sepse; conduta de emergência é mandatória."
+  },
+  {
+    "id": 2320,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Paciente relata hematúria macroscópica após trauma contuso direto em flanco. Qual associação é mais correta?",
+    "opcoes": [
+      "A) Hematúria visível pode acompanhar nefrolitíase ou trauma renal, entre outras causas.",
+      "B) Hematúria macroscópica após trauma exclui lesão renal por definição.",
+      "C) Sangue visível na urina indica sempre neoplasia urotelial.",
+      "D) Hematúria só ocorre em infecção de vias urinárias baixas."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Hematúria macroscópica sugere sangramento no trato urinário; litíase e trauma renal são causas clássicas citadas no material.",
+    "explicacoes_opcoes": {
+      "A": "O material associa hematúria bruta a nefrolitíase ou trauma renal, sem fechar outras causas.",
+      "B": "Trauma em flanco com hematúria é compatível com lesão renal, não a exclui.",
+      "C": "Neoplasia é diagnóstico diferencial, mas não regra única para hematúria.",
+      "D": "Hematúria ocorre em múltiplos níveis e etiologias, não só ITU baixa."
+    },
+    "explicacao": "Resumo: Hematúria visível tem causas múltiplas; trauma e cálculo são exemplos centrais no texto.\nA) CORRETA. Reflete a associação explícita do material com litíase e trauma.\nB) INCORRETA. Trauma é justamente uma causa de hematúria.\nC) INCORRETA. Generalização oncológica é falsa.\nD) INCORRETA. Hematúria não é patognomônica de infecção baixa."
+  },
+  {
+    "id": 2321,
+    "materia": "semiologia3",
+    "tema": "semio3_a3",
+    "enunciado": "Em um paciente com cólica renal e hematúria macroscópica, a urina mostra predomínio de sangue. Em outro, com pielonefrite, há leucocitúria e nitrito positivo. Qual distinção é mais útil na prática?",
+    "opcoes": [
+      "A) Os dois quadros sempre apresentam o mesmo perfil urinário.",
+      "B) Sangue visível é mais sugestivo de litíase/trauma no contexto adequado; piúria e nitrito pesam para infecção.",
+      "C) Nitrito positivo exclui completamente nefrolitíase.",
+      "D) Leucócitos na urina só aparecem quando a infecção é exclusivamente vesical."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O material contrasta urina com sangue (cálculo) versus urina com piúria/nitrito (infecção), integrando anamnese e exame complementar.",
+    "explicacoes_opcoes": {
+      "A": "Os perfis diferem: sangue predomina em um contexto, leucocitúria/nitrito em outro.",
+      "B": "Reflete a tabela conceitual: sangue sugere cálculo/trauma; pus e nitrito sugerem infecção.",
+      "C": "Pode haver sobreposição laboratorial; o contexto clínico decide.",
+      "D": "Leucócitos podem aparecer em infecções altas e baixas."
+    },
+    "explicacao": "Resumo: Integrar sintomas, hematúria versus piúria e dados de fita urinária diferencia cólica/injúria de trato de pielonefrite.\nA) INCORRETA. Os perfis típicos não são idênticos.\nB) CORRETA. Sangue macroscópico alinha-se a litíase/trauma; piúria/nitrito fortalecem infecção.\nC) INCORRETA. Nitrito não exclui litíase de forma absoluta.\nD) INCORRETA. Piúria não é exclusiva da bexiga."
+  },
+  {
+    "id": 2322,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Sobre a palpação testicular em adulto hígido, qual descrição corresponde ao exame esperado?",
+    "opcoes": [
+      "A) Aproximadamente 4–5 cm de comprimento, consistência firme, indolor e bilateralmente simétrico.",
+      "B) Palpação só é possível com o paciente em decúbito dorsal obrigatoriamente.",
+      "C) Consistência amolecida bilateral é o padrão de normalidade.",
+      "D) Dor bilateral leve à palpação é achado esperado em homens saudáveis."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Testículos normais são firmes, simétricos, indolores e com dimensões próximas às citadas no material.",
+    "explicacoes_opcoes": {
+      "A": "Compatível com as medidas e características descritas para o testículo normal.",
+      "B": "A posição pode variar; não há exclusividade de decúbito na descrição.",
+      "C": "Normalidade associa-se a firmeza adequada, não amolecimento difuso.",
+      "D": "Dor não é esperada na palpação de órgãos normais."
+    },
+    "explicacao": "Resumo: Testículo saudável é firme, indolor e simétrico, com tamanho na faixa referida.\nA) CORRETA. Reflete o texto: cerca de 4–5 cm, firme, indolor, simétrico.\nB) INCORRETA. Não há obrigatoriedade de decúbito exclusivo.\nC) INCORRETA. Amolecimento não é padrão de normalidade.\nD) INCORRETA. Dor sugere patologia, não variante fisiológica."
+  },
+  {
+    "id": 2323,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Homem de 62 anos queixa-se de noctúria e jato urinário fraco há cerca de um ano. Ao toque retal, a próstata está aumentada, de superfície aparentemente regular e pouco dolorosa. Qual hipótese se alinha melhor ao quadro?",
+    "opcoes": [
+      "A) Prostatite aguda com risco imediato de choque séptico.",
+      "B) Quadro compatível com hipertrofia prostática benigna (obstrução ao fluxo) mais do que com prostatite aguda.",
+      "C) Carcinoma de próstata com metástase óssea comprovada pelo exame.",
+      "D) Uretrite gonocócica como primeira hipótese."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Homem idoso com sintomas obstrutivos baixos e próstata aumentada indolor sugere HBP; prostatite aguda costuma doer muito ao toque e cursar com febre.",
+    "explicacoes_opcoes": {
+      "A": "Prostatite aguda associa dor intensa à palpação e sintomas sistêmicos; aqui o exame é pouco doloroso.",
+      "B": "Sintomas mecânicos (noctúria, jato fraco) e aumento prostático indolor são típicos de HBP no material.",
+      "C": "Câncer não se confirma só pelo toque; superfície regular e quadro crônico obstrutivo apontam mais para HBP como hipótese inicial.",
+      "D": "Uretrite tem outro perfil (corrimento, disúria aguda) e não explica obstrução prostática crônica."
+    },
+    "explicacao": "Resumo: Diferenciar HBP (sintomas obstrutivos, próstata aumentada, pouca dor) de prostatite (dor extrema, febre).\nA) INCORRETA. Falta o padrão febril e a dor extrema ao toque da prostatite aguda.\nB) CORRETA. Idade, sintomas obstrutivos e próstata aumentada relativamente indolor sugerem HBP.\nC) INCORRETA. Não há elementos para afirmar metástase ou câncer comprovado.\nD) INCORRETA. Perfil incompatível com uretrite como explicação principal."
+  },
+  {
+    "id": 2324,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Homem de 22 anos nota nódulo firme no testículo esquerdo, inicialmente indolor. Qual conduta conceitual é a mais adequada?",
+    "opcoes": [
+      "A) Tranquilizar o paciente apenas pelo fato de não haver dor.",
+      "B) Iniciar antibiótico de amplo espectro sem investigação imagética ou laboratorial.",
+      "C) Considerar nódulo testicular como achado anormal que exige investigação urgente para excluir neoplasia, mesmo se houver dor associada.",
+      "D) Tratar como orquite viral sem avaliação complementar."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Nódulo testicular em jovem é alerta oncológico; a dor não exclui neoplasia e a investigação não deve ser postergada.",
+    "explicacoes_opcoes": {
+      "A": "Muitos tumores testiculares são indolores; ausência de dor não é tranquilizadora.",
+      "B": "Antibiótico empírico sem critério pode atrasar diagnóstico de câncer.",
+      "C": "O material enfatiza investigação urgente para neoplasia e que a dor não exclui o diagnóstico.",
+      "D": "Orquite costuma cursar com dor inflamatória difusa, não nódulo firme isolado típico de alerta oncológico."
+    },
+    "explicacao": "Resumo: Nódulo em testículo jovem = investigar malignidade até prova contrária.\nA) INCORRETA. Indolor não elimina tumor.\nB) INCORRETA. Uso indevido de antibiótico sem hipótese infecciosa clara atrasa o diagnóstico.\nC) CORRETA. Reflete a conduta de urgência e a ressalva de que dor pode coexistir.\nD) INCORRETA. Quadro não é típico só de orquite viral."
+  },
+  {
+    "id": 2325,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Homem jovem apresenta veias tortuosas palpáveis acima do testículo direito, em padrão de “saco de minhocas”, com aparecimento recente. Qual afirmação é mais adequada?",
+    "opcoes": [
+      "A) Varicocele unilateral à direita é sempre benigna e pode ser ignorada.",
+      "B) Varicocele bilateral nunca ocorre na prática clínica.",
+      "C) A varicocele só existe à esquerda, por definição anatômica.",
+      "D) Varicocele predominante ou isolada à direita de aparecimento recente merece investigação (ex.: compressão venosa ou trombose), diferentemente do padrão esquerdo mais comum."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Varicocele comum é esquerda e pode ser bilateral; direita isolada de novo sugere investigar causa compressiva ou trombótica.",
+    "explicacoes_opcoes": {
+      "A": "Direita isolada não deve ser ignorada; o material pede investigação.",
+      "B": "Varicocele bilateral pode ocorrer.",
+      "C": "Há varicocele à direita; o ponto é a assimetria atípica.",
+      "D": "Corresponde ao alerta do material sobre varicocele direita de novo surgimento."
+    },
+    "explicacao": "Resumo: Varicocele típica é esquerda; direita nova exige excluir compressão da veia.\nA) INCORRETA. Pode mascarar lesão retroperitoneal ou trombose.\nB) INCORRETA. Bilateralidade existe.\nC) INCORRETA. Anatomicamente pode haver à direita, com significado diferente.\nD) CORRETA. Alinha-se à recomendação de investigar direita isolada recente."
+  },
+  {
+    "id": 2326,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Ao toque retal, a próstata apresenta volume compatível com a idade, consistência firme e levemente elástica, sem dor importante. Qual leitura corresponde ao padrão descrito como próstata “normal” no material?",
+    "opcoes": [
+      "A) Cor castanha, firme-elástica e geralmente indolor ao toque.",
+      "B) Consistência rochosa, extremamente dolorosa, sempre com febre alta.",
+      "C) Amolecida e fria, como abscesso cutâneo.",
+      "D) Sempre impalpável em qualquer idade."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Próstata normal é descrita como tamanho semelhante a uma castanha, firme-elástica e sem sensibilidade marcada.",
+    "explicacoes_opcoes": {
+      "A": "Reflete a descrição de cor, consistência e ausência de dor típica da próstata normal.",
+      "B": "Dor extrema e febre sugerem prostatite aguda, não próstata normal.",
+      "C": "Textura amolecida fria não corresponde ao padrão descrito.",
+      "D": "Próstata normal é palpável no toque; não é ausência de órgão."
+    },
+    "explicacao": "Resumo: Próstata fisiológica = volume adequado, firme-elástica, indolor ao toque leve.\nA) CORRETA. Compatível com “castanha”, firme-elástica e indolor.\nB) INCORRETA. Descreve inflamação aguda, não normalidade.\nC) INCORRETA. Não é o padrão de próstata saudável.\nD) INCORRETA. Próstata normal é palpável no exame retal bem realizado."
+  },
+  {
+    "id": 2327,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Homem de 45 anos apresenta febre de 38,8 °C, disúria intensa e dor perineal. Ao toque retal, a próstata é extremamente dolorosa ao mínimo contato. Qual diagnóstico semiológico é o mais provável?",
+    "opcoes": [
+      "A) Hipertrofia prostática benigna assintomática.",
+      "B) Prostatite aguda, com próstata inflamada e muito sensível ao exame.",
+      "C) Disfunção erétil isolada de causa psicogênica.",
+      "D) Fimose congênita não diagnosticada na infância."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Febre, disúria e próstata dolorosa ao toque compõem o quadro clássico de prostatite aguda descrito no material.",
+    "explicacoes_opcoes": {
+      "A": "HBP costuma cursar com sintomas obstrutivos crônicos e próstata indolor ou pouco dolorosa.",
+      "B": "Sensibilidade extrema à palpação prostática com febre e disúria é típica de prostatite aguda.",
+      "C": "Queixa principal não é disfunção erétil isolada.",
+      "D": "Fimose não explica achado prostático retal febril."
+    },
+    "explicacao": "Resumo: Prostatite aguda = febre + sintomas miccionais + próstata muito dolorosa ao toque.\nA) INCORRETA. HBP não apresenta esse quadro febril agudo com dor extrema ao toque.\nB) CORRETA. Integra febre, disúria e sensibilidade prostática marcada.\nC) INCORRETA. Diagnóstico não se sustenta em DE isolada.\nD) INCORRETA. Patologia de prepúcio não explica o exame retal descrito."
+  },
+  {
+    "id": 2328,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Paciente com queixa de disfunção erétil. Qual abordagem anamnésica o material destaca como central para localizar a causa?",
+    "opcoes": [
+      "A) Restringir a investigação à idade e ao índice de massa corporal.",
+      "B) Focar exclusivamente no histórico do parceiro ou da parceira sexual.",
+      "C) Explorar separadamente libido, qualidade da ereção e da ejaculação, além de comorbidades, medicamentos e hábitos.",
+      "D) Evitar o tema se o paciente não trouxer a queixa espontaneamente na primeira frase."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A anamnese sexual estruturada separa componentes de desejo, ereção e ejaculação e busca fatores associados, conforme o texto.",
+    "explicacoes_opcoes": {
+      "A": "Dados antropométricos são insuficientes isoladamente.",
+      "B": "Parceiro importa, mas o núcleo é a função sexual do próprio paciente.",
+      "C": "Corresponde à sequência sugerida: libido, ereção, ejaculação e fatores de risco.",
+      "D": "O profissional deve conduzir com respeito, mas não omitir perguntas relevantes."
+    },
+    "explicacao": "Resumo: DE exige decomposição da queixa sexual e busca de comorbidades e iatrogenia.\nA) INCORRETA. Abordagem incompleta.\nB) INCORRETA. Não substitui a avaliação do paciente com queixa.\nC) CORRETA. Alinha-se à anamnese estruturada do material.\nD) INCORRETA. Omitir investigação atrasa diagnóstico e tratamento."
+  },
+  {
+    "id": 2329,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Casal com infertilidade. O homem relata volume ejaculatório baixo ocasionalmente, sem outras queixas. Qual afirmação é mais correta segundo o material?",
+    "opcoes": [
+      "A) Volume baixo comprova infertilidade sem necessidade de espermograma.",
+      "B) Volume baixo exclui causas vasculogênicas de disfunção erétil.",
+      "C) Se em algum episódio o volume foi normal, infertilidade masculina está excluída.",
+      "D) Volume ejaculatório isoladamente não fecha diagnóstico de fertilidade; o espermograma orienta a conduta."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O material alerta para não confundir volume percebido com infertilidade documentada; o espermograma é o exame que confirma ou refuta alterações reprodutivas.",
+    "explicacoes_opcoes": {
+      "A": "Volume subjetivo não substitui análise seminal.",
+      "B": "DE vasculogênica e volume ejaculatório são eixos distintos.",
+      "C": "Um episódio isolado não exclui patologia seminal.",
+      "D": "Reflete a ideia de que a percepção de volume não diagnostica infertilidade sem laboratório."
+    },
+    "explicacao": "Resumo: Infertilidade masculina requer dados objetivos; volume percebido é um dado fraco isolado.\nA) INCORRETA. Diagnóstico de infertilidade exige avaliação adequada, não impressão subjetiva.\nB) INCORRETA. Não há exclusão lógica entre temas diferentes.\nC) INCORRETA. Variabilidade não exclui investigação.\nD) CORRETA. Espermograma é central para confirmar fertilidade espermática."
+  },
+  {
+    "id": 2330,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "Na inspeção e palpação do cordão espermático em ortostatismo, observam-se veias tortuosas em “saco de minhocas” imediatamente acima do testículo. Qual termo descreve esse achado?",
+    "opcoes": [
+      "A) Varicocele.",
+      "B) Hidrocele.",
+      "C) Torção testicular.",
+      "D) Epididimite aguda."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Varicocele é definida por dilatação das veias do plexo pampiniforme, frequentemente palpável como cordão de “vermes” acima do testículo.",
+    "explicacoes_opcoes": {
+      "A": "Corresponde à descrição clássica de veias aumentadas no cordão espermático.",
+      "B": "Hidrocele é acúmulo de líquido na túnica vaginal, não plexo venoso dilatado.",
+      "C": "Torção é emergência com dor intensa e fluxo alterado; não o achado de veias tortuosas crônicas descrito.",
+      "D": "Epididimite costuma cursar com dor e aumento inflamatório, não padrão exclusivamente varicoso."
+    },
+    "explicacao": "Resumo: Varicocele = dilatação venosa palpável no cordão, piora muitas vezes em pé.\nA) CORRETA. Termo e semiologia coincidem com o material.\nB) INCORRETA. Hidrocele é coleção líquida peritesticular.\nC) INCORRETA. Quadro agudo de torção difere do padrão varicoso estável.\nD) INCORRETA. Epididimite tem perfil inflamatório infeccioso, não só varicoso."
+  },
+  {
+    "id": 2331,
+    "materia": "semiologia3",
+    "tema": "semio3_a4",
+    "enunciado": "O médico inicia anamnese sobre função sexual com linguagem profissional e perguntas estruturadas, em ambiente privado. Qual objetivo o material associa a essa prática?",
+    "opcoes": [
+      "A) Substituir completamente o exame físico genital.",
+      "B) Aumentar a chance de obter informações fidedignas e permitir investigar disfunção sexual e infertilidade com segurança.",
+      "C) Restringir esse tipo de abordagem exclusivamente ao ambiente hospitalar terciário.",
+      "D) Evitar educação sobre autoexame testicular na atenção primária."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Tom profissional e respeito reduzem constrangimento e melhoram a coleta de dados em temas sensíveis, além de viabilizar orientação (ex.: autoexame).",
+    "explicacoes_opcoes": {
+      "A": "Anamnese complementa, não substitui, o exame quando indicado.",
+      "B": "Reflete a ideia de que franqueza do médico aumenta franqueza do paciente e viabiliza cuidado integral.",
+      "C": "Atenção primária também deve abordar saúde sexual com ética e técnica.",
+      "D": "O material valoriza educação em autoexame testicular pelo médico."
+    },
+    "explicacao": "Resumo: Comunicação adequada em tema sensível melhora diagnóstico e adesão.\nA) INCORRETA. Exame físico mantém seu papel.\nB) CORRETA. Alinha-se ao texto sobre franqueza profissional e confiança do paciente.\nC) INCORRETA. APS é local central de prevenção e acolhimento.\nD) INCORRETA. Educação em autoexame é recomendada, não evitada."
+  }
+]

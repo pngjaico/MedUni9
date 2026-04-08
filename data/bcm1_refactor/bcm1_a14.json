@@ -1,0 +1,232 @@
+[
+  {
+    "id": 852,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Trissomia do 21 (síndrome de Down) resulta tipicamente de:",
+    "opcoes": [
+      "A) Não-disjunção na meiose I ou II (gameta com cromossomo 21 extra).",
+      "B) Deleção 5q.",
+      "C) Monossomia 21 viável em recém-nascidos.",
+      "D) Translocação Robertsoniana obrigatória em todos os casos."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Down — trissomia 21; translocação em minoria.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Down — não-disjunção.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 853,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Síndrome de Turner (45,X) associa-se a:",
+    "opcoes": [
+      "A) Hipotrofia de testículo em homem.",
+      "B) Fenótipo feminino com disgenesia gonadal e estatura baixa.",
+      "C) Trissomia sexual masculina.",
+      "D) Sempre mosaicismo 46,XY."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Turner — X0; baixa estatura, infertilidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Turner — 45,X.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 854,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Klinefelter (47,XXY) manifesta-se tipicamente com:",
+    "opcoes": [
+      "A) Fenótipo feminino típico.",
+      "B) Disgenesia gonadal puramente 45,X.",
+      "C) Hipogonadismo masculino, infertilidade e possível ginecomastia.",
+      "D) Síndrome de Down."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "XXY — testículos disgenéticos; infertilidade.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Klinefelter.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 855,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Trissomia 18 (Edwards) e 13 (Patau) são:",
+    "opcoes": [
+      "A) Compatíveis com vida longa sem anomalias.",
+      "B) Apenas deleções.",
+      "C) Sempre mosaicismo 46,XX.",
+      "D) Aneuploidias autossômicas graves com alto óbito perinatal."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "T18/T13 — malformações múltiplas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: T18/T13.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 856,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Não-disjunção materna aumenta risco com:",
+    "opcoes": [
+      "A) Idade paterna jovem.",
+      "B) Apenas infecção viral no parto.",
+      "C) Idade materna avançada na concepção.",
+      "D) Dieta vegana isolada."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Idade materna — trissomias (Down).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Idade materna.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 857,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Mosaicismo 46/47 em um indivíduo pode explicar:",
+    "opcoes": [
+      "A) Ausência de células diploides.",
+      "B) Sempre câncer imediato.",
+      "C) DNA mitocondrial homoplasmático.",
+      "D) Fenótipo mais leve que trissomia pura em parte dos tecidos."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Mosaico — linhagens com diferentes cariótipos.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Mosaicismo.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 858,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "XXX (47,XXX) costuma ser:",
+    "opcoes": [
+      "A) Fenótipo feminino, muitas vezes assintomática ou leve atraso.",
+      "B) Letal no primeiro trimestre sempre.",
+      "C) Masculino com hipospádia obrigatória.",
+      "D) Síndrome de Turner."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Trissomia X — variável; muitas assintomáticas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 47,XXX.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 859,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "XYY (47,XYY) associa-se a:",
+    "opcoes": [
+      "A) Fenótipo feminino.",
+      "B) Altura elevada e, na maioria, fertilidade preservada; fenótipo masculino.",
+      "C) Turner.",
+      "D) Sempre deficiência intelectual grave universal."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "XYY — estatura; variável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: XYY.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 860,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Abortos espontâneos precoces frequentemente revelam:",
+    "opcoes": [
+      "A) Apenas mutações pontuais sem aneuploidia.",
+      "B) Sempre infecção.",
+      "C) Aneuploidias como causa mais comum de perda embrionária.",
+      "D) Cariótipo 46,XY sempre."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "50–60% abortos — aneuploidia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Aborto — aneuploidia.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 861,
+    "materia": "bcm1",
+    "tema": "bcm1_a14",
+    "enunciado": "Cariótipo 69 triploide pode surgir por:",
+    "opcoes": [
+      "A) Apenas mitose somática.",
+      "B) Deleção 22q11 isolada.",
+      "C) Apenas herança mitocondrial.",
+      "D) Fertilização de um óvulo por dois espermatozoides (dispermia) ou duplicação parental."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Triploidia — dispermia ou duplicação paternal/maternal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Triploidia.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  }
+]

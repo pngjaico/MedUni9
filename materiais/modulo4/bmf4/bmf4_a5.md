@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O telencéfalo é a estrutura mais complexa do **SNC**. Conhecer a topografia dos lobos, os sulcos principais e os ventrículos laterais permite localizar lesões na **TC**/RM e correlacionar com sintomas. "O paciente perdeu a visão de metade do campo visual do olho direito e esquerdo para o mesmo lado — onde é a lesão?" Saber a morfologia telencefálica responde.
+O telencéfalo é a estrutura mais complexa do SNC. Conhecer a topografia dos lobos, os sulcos principais e os ventrículos laterais permite localizar lesões na TC/RM e correlacionar com sintomas. "O paciente perdeu a visão de metade do campo visual do olho direito e esquerdo para o mesmo lado — onde é a lesão?" Saber a morfologia telencefálica responde.
 
 ### Figura sugerida
 
@@ -118,17 +118,15 @@ Uma lesão do lobo occipital esquerdo no sulco calcarino causa hemianopsia homô
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Sulco de Rolando (central): separa M1 (frontal/pré-central) de S1 (parietal/pós-central). Sulco de Sylvius: separa temporal de frontal/parietal — dentro: Wernicke e ínsula.
-
-V1 (córtex visual): sulco calcarino, occipital medial. Hemisfério esquerdo: dominante para linguagem (Broca + Wernicke).
-
-Heminegligência: lesão parietal direito → ignora lado esquerdo do espaço. Forame de Monro: liga ventrículo lateral ao III — tumor aqui = hidrocefalia unilateral.
+- **Sulco de Rolando (central):** separa M1 (frontal/pré-central) de S1 (parietal/pós-central).
+- **Sulco de Sylvius:** separa temporal de frontal/parietal — dentro: Wernicke e ínsula.
+- **V1 (córtex visual):** sulco calcarino, occipital medial.
+- **Hemisfério esquerdo:** dominante para linguagem (Broca + Wernicke).
+- **Heminegligência:** lesão parietal direito → ignora lado esquerdo do espaço.
+- **Forame de Monro:** liga ventrículo lateral ao III — tumor aqui = hidrocefalia unilateral.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -140,5 +138,4 @@ Heminegligência: lesão parietal direito → ignora lado esquerdo do espaço. F
 | Estriado | Globo pálido | Estriado: entrada; GP: saída do circuito dos gânglios da base |
 
 ### Frase-âncora para não esquecer
-
 > "Rolando divide: na frente manda (motor), atrás sente (sensitivo). Sylvius divide de cima para baixo."

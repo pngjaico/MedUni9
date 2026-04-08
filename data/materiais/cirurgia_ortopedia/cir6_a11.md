@@ -15,7 +15,7 @@
 
 Predomina **sigmoide**; associa-se a dieta pobre em fibra, envelhecimento e alterações da motilidade. **Microperfuração** inicia o processo inflamatório; pode evoluir com coleções ou comunicação livre.
 
-### DDx da dor em FIE
+### diagnóstico diferencial da dor em FIE
 
 | Diagnóstico | Pista | Exame-chave |
 |-------------|-------|-------------|
@@ -100,11 +100,11 @@ Paciente jovem com dor direita e TC de “diverticulite” direita — considere
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Síndrome de Sweet** — não confundir com diverticulite (contexto).
-- **Recidiva** — discussão de colectomia eletiva em casos selecionados.
-- **Neoplasia** — colonoscopia após resolução se suspeita.
+Na prova, lembre que Síndrome de Sweet — não confundir com diverticulite (contexto). Recidiva — discussão de colectomia eletiva em casos selecionados.
+
+Para não errar em cenário clínico, considere também Neoplasia — colonoscopia após resolução se suspeita.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -117,14 +117,3 @@ Paciente jovem com dor direita e TC de “diverticulite” direita — considere
 ### Frase-âncora para não esquecer
 
 > “**TC primeiro** na suspeita complicada — **cirurgia** quando o abdome está ‘tóxico’.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** (laparoscopia vs aberta) e **ostomias** temporárias. Sempre que citar técnica, lembre **risco nutricional** e **comorbidades**.
-
-### Leitura de reforço
-
-- Diretrizes de diverticulite aguda (WSES, ACG)
-- Protocolos de antibioticoterapia empírica institucional

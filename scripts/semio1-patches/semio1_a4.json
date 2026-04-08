@@ -1,0 +1,192 @@
+[
+  {
+    "enunciado": "Na palpação musculoesquelética, qual técnica a aula recomenda para reduzir erro e aumentar confiança do paciente?",
+    "opcoes": [
+      "A) Pressão gradual com face distal dos dedos e comparação lado a lado",
+      "B) Pressão única máxima sem referência contralateral",
+      "C) Palpar só o ponto mais doloroso primeiro, sempre",
+      "D) Evitar tocar regiões não dolorosas em qualquer circunstância"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "Palpação gradual e comparativa é o método descrito; começar por áreas menos dolorosas quando possível.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Reproduz a seção de técnica geral.",
+      "B": "Incorreta: Falta comparação bilateral em membros simétricos.",
+      "C": "Incorreta: Sequência inadequada para ganhar confiança.",
+      "D": "Incorreta: Áreas menos dolorosas ajudam no início do exame."
+    },
+    "explicacao": "Resumo: Palpação sistemática e comparativa localiza estruturas.\nA) CORRETA. Técnica e comparação são centrais.\nB) INCORRETA. Perde referência.\nC) INCORRETA. Ordem não recomendada.\nD) INCORRETA. Contradiz o roteiro sugerido."
+  },
+  {
+    "enunciado": "Na palpação do joelho, a linha articular medial e lateral é o local típico para avaliar dor relacionada a:",
+    "opcoes": [
+      "A) Apenas bursite pré-patelar superficial",
+      "B) Menisco e estruturas colaterais, com dor à rotação em flexão no contexto clínico",
+      "C) Exclusivamente tendão patelar central",
+      "D) Nervo safeno sem componente articular"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "explicacao_geral": "Linha articular orienta menisco e colaterais na palpação do joelho.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bolsa anterior tem topografia distinta.",
+      "B": "Correta: Compatível com a tabela de palpação articular.",
+      "C": "Incorreta: Tendão patelar é anterior, não a linha mediolateral.",
+      "D": "Incorreta: Neuralgia isolada não é o foco da joint line."
+    },
+    "explicacao": "Resumo: Joint line direciona hipótese meniscal/colateral.\nA) INCORRETA. Topografia diferente.\nB) CORRETA. Reflete o texto.\nC) INCORRETA. Confunde faces palpáveis.\nD) INCORRETA. Eixo errado."
+  },
+  {
+    "enunciado": "Paciente com dor na face lateral do cotovelo após esforço repetitivo. Dor máxima à palpação do epicôndilo lateral sugere:",
+    "opcoes": [
+      "A) Epicondilite medial",
+      "B) Bursite olecraniana isolada",
+      "C) Epicondilite lateral (extensores do punho)",
+      "D) Compressão do nervo ulnar no sulco"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Epicôndilos são topografia para epicondilite medial ou lateral conforme o lado doloroso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lado medial é outro epicôndilo.",
+      "B": "Incorreta: Bolsa olecraniana tem ponto máximo posterior.",
+      "C": "Correta: Dor no epicôndilo lateral compatível com epicondilite lateral.",
+      "D": "Incorreta: Ulnar palpa-se na crista medial, não no epicôndilo lateral."
+    },
+    "explicacao": "Resumo: Topografia define tendinopatia lateral versus medial.\nA) INCORRETA. Lado oposto.\nB) INCORRETA. Região posterior.\nC) CORRETA. Coerente com a tabela de tendões e bolsas.\nD) INCORRETA. Neurocompressão distinta."
+  },
+  {
+    "enunciado": "Massa palpável na face posterior do joelho, compatível com cisto de Baker. A aula alerta que, na dúvida com edema de perna, deve-se:",
+    "opcoes": [
+      "A) Assumir sempre lipoma benigno",
+      "B) Ignorar trombose venosa profunda por ser rara",
+      "C) Tratar como celulite sem exame de imagem",
+      "D) Não confiar só no sinal de Homans e considerar ultrassom quando indicado"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Cisto de Baker pode confundir com TVP — ultrassom na dúvida, não confiar só em Homans.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Lipoma não substitui diagnóstico diferencial vascular.",
+      "B": "Incorreta: TVP deve ser considerada no edema de perna.",
+      "C": "Incorreta: Celulite é diagnóstico clínico distinto.",
+      "D": "Correta: Reproduz a nota sobre Baker, TVP e USG."
+    },
+    "explicacao": "Resumo: Massa poplítea exige diferenciar cisto de complicação venosa.\nA) INCORRETA. Simplificação perigosa.\nB) INCORRETA. Subdiagnóstico de TVP.\nC) INCORRETA. Confusão infecciosa.\nD) CORRETA. Conduta alinhada ao texto."
+  },
+  {
+    "enunciado": "Dor focal na tabaqueira anatômica após queda em mão estendida deve lembrar:",
+    "opcoes": [
+      "A) Suspeita de fratura do escafóide até prova em contrário, sabendo que radiografia inicial pode ser negativa",
+      "B) Entorse trivial sem necessidade de seguimento",
+      "C) Epicondilite lateral",
+      "D) Síndrome do túnel do carpo bilateral aguda"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "Tabaqueira é clássica para escafóide; imagem inicial pode não mostrar fratura.",
+    "explicacoes_opcoes": {
+      "A": "Correta: A ponte clínica cita dor na tabaqueira e fratura de escafóide.",
+      "B": "Incorreta: Ignora risco de fratura oculta.",
+      "C": "Incorreta: Epicôndilo é cotovelo.",
+      "D": "Incorreta: Túnel do carpo não é o foco pós-trauma na tabaqueira."
+    },
+    "explicacao": "Resumo: Trauma em punho exige pensar escafóide.\nA) CORRETA. Coerente com a ponte clínica.\nB) INCORRETA. Subestima gravidade.\nC) INCORRETA. Região errada.\nD) INCORRETA. Diagnóstico incoerente."
+  },
+  {
+    "enunciado": "Paciente com dor paravertebral profunda e febre. Qual raciocínio a palpação e o contexto sistêmico reforçam?",
+    "opcoes": [
+      "A) Rotular de imediato como lombalgia mecânica sem considerar causas infecciosas",
+      "B) Manter discite/osteomielite no diferencial e não tratar só como lombalgia trivial",
+      "C) Ignorar a febre se a palpação for pouco dolorosa",
+      "D) Suspender qualquer investigação por imagem"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "Fever + dor local profunda: infecção vertebral na lista — pegadinha da coluna.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Fechamento precoce de lombalgia ignora bandeira infecciosa.",
+      "B": "Correta: Reflete a nota sobre febre e dor profunda paravertebral.",
+      "C": "Incorreta: Febre não pode ser ignorada.",
+      "D": "Incorreta: Investigação segue indicação clínica."
+    },
+    "explicacao": "Resumo: Sinais sistêmicos mudam prioridade na coluna.\nA) INCORRETA. Erro de triagem.\nB) CORRETA. Inclui infecção vertebral no diferencial.\nC) INCORRETA. Conduta insegura.\nD) INCORRETA. Negligência diagnóstica."
+  },
+  {
+    "enunciado": "Para estimar temperatura local sem aparelho, a aula sugere como referência rápida:",
+    "opcoes": [
+      "A) Medir pressão arterial",
+      "B) Usar apenas a ponta dos dedos úmida",
+      "C) Comparar o dorso da mão do examinador com a articulação",
+      "D) Avaliar só a cor da unha"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "Comparar dorso da mão do examinador com a articulação é método citado para calor local.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PA não substitui avaliação térmica local.",
+      "B": "Incorreta: Não é o truque descrito.",
+      "C": "Correta: Reproduz o texto sobre temperatura e dor à palpação.",
+      "D": "Incorreta: Unha não substitui palpação térmica articular."
+    },
+    "explicacao": "Resumo: Triagem tátil de calor usa referência do examinador.\nA) INCORRETA. Parâmetro sistêmico irrelevante.\nB) INCORRETA. Método não citado.\nC) CORRETA. Definição da aula.\nD) INCORRETA. Substituição inadequada."
+  },
+  {
+    "enunciado": "Dor intensa à percussão de processo espinhoso após trauma de alta energia indica:",
+    "opcoes": [
+      "A) Continuar palpação profunda repetidamente sem imagem",
+      "B) Ignorar se não houver déficit neurológico",
+      "C) Apenas repouso domiciliar sem avaliação radiológica quando indicada",
+      "D) Tratar como possível fratura até investigação por imagem adequada"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "explicacao_geral": "Percussão dolorosa de proeminência com trauma sugere fratura — indicar imagem.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Insistência sem imagem pode ser prejudicial.",
+      "B": "Incorreta: Ausência de déficit não exclui fratura.",
+      "C": "Incorreta: Atrasar imagem pode ser perigoso no trauma.",
+      "D": "Correta: Coerente com a dica de percussão vertebral."
+    },
+    "explicacao": "Resumo: Trauma + percussão positiva eleva suspeita de lesão óssea.\nA) INCORRETA. Risco iatrogênico.\nB) INCORRETA. Critério insuficiente.\nC) INCORRETA. Negligência.\nD) CORRETA. Indica investigação por imagem."
+  },
+  {
+    "enunciado": "Dor desproporcional à palpação leve em quadro de dor crônica sugere, conforme a aula:",
+    "opcoes": [
+      "A) Componente neuropático ou sensibilização central (contexto de dor crônica)",
+      "B) Sempre bacteremia documentada",
+      "C) Ausência de qualquer causa periférica",
+      "D) Indicação obrigatória de artroscopia diagnóstica"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "explicacao_geral": "Dor desproporcional à palpação leve aponta para componente neuropático ou sensibilização central.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Cita o parágrafo sobre palpação e dor crônica.",
+      "B": "Incorreta: Sepse tem outros critérios.",
+      "C": "Incorreta: Afirmação absoluta não é feita.",
+      "D": "Incorreta: Invasão cirúrgica sem critério clínico."
+    },
+    "explicacao": "Resumo: Hiperestesia à palpação leve integra mecanismos centrais/neurais.\nA) CORRETA. Texto explícito.\nB) INCORRETA. Contexto infeccioso sistêmico não é exigido.\nC) INCORRETA. Generalização falsa.\nD) INCORRETA. Excesso terapêutico."
+  },
+  {
+    "enunciado": "Na palpação do tendão de Aquiles, espessamento e dor local sugerem tendinopatia; após ruptura aguda pode haver:",
+    "opcoes": [
+      "A) Sempre edema difuso bilateral em ambas pernas",
+      "B) Indoloridade total e marcha imediata sem limitação",
+      "C) Depressão palpável ou alteração de contorno compatível com ruptura",
+      "D) Calor bilateral simétrico sem história de trauma"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Aquiles: espessamento na tendinopatia; depressão pós-ruptura pode ser palpável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bilateralidade simétrica não é regra.",
+      "B": "Incorreta: Ruptura aguda costuma limitar marcha e gerar dor.",
+      "C": "Correta: Reflete a linha tendão de Aquiles da tabela.",
+      "D": "Incorreta: Padrão infeccioso bilateral não é o foco."
+    },
+    "explicacao": "Resumo: Palpação distingue tendinopatia de ruptura.\nA) INCORRETA. Padrão não descrito assim.\nB) INCORRETA. Incompatível com ruptura aguda.\nC) CORRETA. Achado de depressão pós-ruptura citado.\nD) INCORRETA. Contexto errado."
+  }
+]

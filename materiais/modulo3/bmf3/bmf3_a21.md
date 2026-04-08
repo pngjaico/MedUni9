@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A fertilização e a implantação são o início da vida embrionária. Falhas nesses processos são responsáveis pela maioria das perdas gestacionais precoces. A **Uninove** cobra o local da fertilização, as etapas do desenvolvimento embrionário precoce (clivagem, mórula, blastocisto), o processo de implantação e a origem das membranas extraembrionárias.
+A fertilização e a implantação são o início da vida embrionária. Falhas nesses processos são responsáveis pela maioria das perdas gestacionais precoces. A Uninove cobra o local da fertilização, as etapas do desenvolvimento embrionário precoce (clivagem, mórula, blastocisto), o processo de implantação e a origem das membranas extraembrionárias.
 
 ### Figura sugerida
 
@@ -139,17 +139,16 @@ Na gravidez ectópica tubária, o blastocisto implanta na ampola (ou outro segme
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Fertilização: ampola da tuba, ovócito fertilizável por 12-24h, espermatozoide por 48-72h. Reação acrossômica: perfura a zona pelúcida com acrossina. Bloqueio à polispermia: grânulos corticais alteram ZP2+ZP3 imediatamente.
-
-Cronologia: zigoto(0) → mórula(3) → blastocisto(4-5) → implantação(6-10). Embrioblasto: futuro embrião | Trofoblasto: futuro placenta + secreta hCG. HCG: sinciciotrofoblasto → mantém corpo lúteo → progesterona → sem menstruação.
-
-Decídua basal: entre embrião e miométrio (compõe a placenta).
+- **Fertilização:** ampola da tuba, ovócito fertilizável por 12-24h, espermatozoide por 48-72h
+- **Reação acrossômica:** perfura a zona pelúcida com acrossina
+- **Bloqueio à polispermia:** grânulos corticais alteram ZP2+ZP3 imediatamente
+- **Cronologia:** zigoto(0) → mórula(3) → blastocisto(4-5) → implantação(6-10)
+- **Embrioblasto:** futuro embrião | **Trofoblasto:** futuro placenta + secreta hCG
+- **hCG:** sinciciotrofoblasto → mantém corpo lúteo → progesterona → sem menstruação
+- **Decídua basal:** entre embrião e miométrio (compõe a placenta)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -161,5 +160,4 @@ Decídua basal: entre embrião e miométrio (compõe a placenta).
 | hCG | Progesterona | hCG: produzida pelo trofoblasto, mantém corpo lúteo; Progesterona: produzida pelo corpo lúteo (→ depois placenta) |
 
 ### Frase-âncora para não esquecer
-
 > "O blastocisto é como um astronauta que chega ao útero no dia 4, ainda dentro do capacete (zona pelúcida), e só pousa de vez quando joga o capacete fora (hatching) e adere ao endométrio — aí o sinciciotrofoblasto envia o sinal de socorro (hCG) para o corpo lúteo não regredir."

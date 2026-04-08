@@ -4,7 +4,7 @@
 
 As infecções do trato urinário (ITUs) são as infecções bacterianas mais comuns em mulheres e figuram entre as causas mais frequentes de consulta médica. A maioria (80–85%) é causada por *Escherichia coli* UPEC, com mecanismos de virulência adaptados para colonizar e invadir o trato urinário. O espectro vai de cistite simples (baixo risco) a pielonefrite e urossepse (alto risco de mortalidade).
 
-A **Uninove** cobra as diferenças entre cistite e pielonefrite, os critérios diagnósticos de bacteriúria assintomática, os fatores de risco e os esquemas antibióticos. Questões sobre gravidez e cateter são recorrentes.
+A Uninove cobra as diferenças entre cistite e pielonefrite, os critérios diagnósticos de bacteriúria assintomática, os fatores de risco e os esquemas antibióticos. Questões sobre gravidez e cateter são recorrentes.
 
 ### Figura sugerida
 
@@ -171,17 +171,17 @@ Fatores que predispõem:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Cistite:** disúria + polaciúria, sem febre; nitrofurantoína ou fosfomicina
+- **Pielonefrite:** febre + dor lombar + cilindros leucocitários no EAS
+- **Nitrofurantoína:** NUNCA na pielonefrite
+- **Bacteriúria assintomática:** tratar SOMENTE na gravidez e pré-procedimento urológico
+- **Proteus:** urease → cálculo de estruvita (coraliforme)
+- **S. saprophyticus:** ITU em jovem sexualmente ativa (coagulase-negativo, recorrente)
 
-
-Cistite: disúria + polaciúria, sem febre; nitrofurantoína ou fosfomicina. Pielonefrite: febre + dor lombar + cilindros leucocitários no EAS.
-
-Nitrofurantoína: NUNCA na pielonefrite. Bacteriúria assintomática: tratar SOMENTE na gravidez e pré-procedimento urológico.
-
-Proteus: urease → cálculo de estruvita (coraliforme). S. saprophyticus: ITU em jovem sexualmente ativa (coagulase-negativo, recorrente).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -194,13 +194,4 @@ Proteus: urease → cálculo de estruvita (coraliforme). S. saprophyticus: ITU e
 | Nitrofurantoína | Ciprofloxacino | Nitrofurantoína = cistite apenas; Cipro = cistite E pielonefrite |
 
 ### Frase-âncora para não esquecer
-
 > "Cistite fica embaixo (bexiga) — nitrofurantoína resolve. Pielonefrite sobe (rim) — febre e dor no flanco avisam, e nitrofurantoína NÃO sobe com ela. Gestante com bactéria na urina: sempre tratar, mesmo sem sintoma."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

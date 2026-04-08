@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Anatomia é a **linguagem comum** entre exame físico, radiologia, cirurgia e fisioterapia. Dominar **planos**, **termos direcionais** e **regiões topográficas** evita erro em prova (“lesão **lateral** ao menisco” só faz sentido com **lateralidade do paciente** clara) e em plantão (descrever **incisão** ou **coleção** sem ambiguidade). Esta aula fixa o **vocabulário** que as próximas aulas vão usar sem repetir definições.
+A **Anatomia Humana** é o alicerce de toda a prática médica. Para a prova, domine a **Posição Anatômica** (palmas para frente) e os **Planos de Seção** (**Sagital**, **Coronal** e **Axial**). Na clínica, descrever uma lesão como **"Distal"** ou **"Medial"** é o que garante que o cirurgião opere o local correto e que o radiologista interprete o exame com precisão.
 
 
 ### Figura sugerida
@@ -24,41 +24,45 @@ Anatomia é a **linguagem comum** entre exame físico, radiologia, cirurgia e fi
 
 ## Planos e cortes anatômicos
 
-| Plano | O que divide | Uso típico |
-|-------|----------------|------------|
-| Sagital | Esquerda ↔ direita | RM de joelho “corte sagital medial” |
-| Coronal (frontal) | Anterior ↔ posterior | TC tórax “janela coronal” |
-| Axial (transverso) | Superior ↔ inferior | Sequência TC/RM em “fatias” |
+| Plano de Seção | Divisão do Corpo | Aplicação em Imagem (TC/RM) |
+|-----------------|-------------------|-----------------------------|
+| **Sagital** | **Direita ↔ Esquerda** | Ver perfil e linha média |
+| **Coronal** | **Anterior ↔ Posterior** | Ver simetria de pulmões/rins |
+| **Axial** | **Superior ↔ Inferior** | Ver "fatias" transversais |
 
-**Posição anatômica de referência:** em pé, palmas para frente, pés ligeiramente separados. Todos os termos (medial, proximal, superficial) assumem essa postura, a menos que o enunciado descreva outra.
+**Posição anatômica de referência:** em pé, **palmas para frente**, pés ligeiramente separados. Todos os termos (**medial**, **proximal**, **superficial**) assumem essa postura, a menos que o enunciado descreva outra.
 
-> **Dica de Prova:** Em **decúbito ventral**, “anterior” do joelho continua sendo a face **patelar** — confira se a questão fala em **paciente** ou **observador**.
+> **Dica de Prova:** Em **decúbito ventral**, o lado **anterior** do joelho continua sendo a face **patelar** — confira se a questão fala em relação ao **paciente** ou ao **observador**.
 
 ---
 
 ## Termos direcionais essenciais
 
-| Termo | Significado | Exemplo rápido |
-|-------|-------------|----------------|
-| Medial | Em direção à linha média | Maleolar medial da tíbia |
-| Lateral | Afastando-se da linha média | Epicôndilo lateral do úmero |
-| Proximal | Mais próximo do tronco (membros) | Terço proximal do úmero |
-| Distal | Mais longe do tronco | Falanges distais |
-| Superior / inferior | Cabeça ↔ pés | Face superior do crânio |
-| Superficial / profundo | Pele ↔ núcleo | Veia superficial vs artéria profunda |
-| Cranial / caudal | Eixo do embrião (também usado em animais) | Extensão medular |
+| Termo Direcional | Significado Clínico | Exemplo Prático |
+|------------------|---------------------|-----------------|
+| **Medial** | Perto da **Linha Média** | O hálux é medial no pé |
+| **Lateral** | Longe da **Linha Média** | O V dedo é lateral no pé |
+| **Proximal** | Perto da **Origem** (Tronco) | O ombro é proximal ao cotovelo |
+| **Distal** | Longe da **Origem** | O punho é distal ao cotovelo |
+| **Superficial** | Perto da **Pele** | Veias superficiais (acesso) |
+| **Profundo** | Longe da **Pele** | Artérias e Vísceras |
+| **Cranial (Superior)**| Perto da **Cabeça** | Crânio é cranial ao pescoço |
+| **Caudal (Inferior)** | Perto dos **Pés** | Pelve é caudal ao tórax |
 
 ---
 
 ## Movimentos nos principais eixos
 
-| Movimento | Eixo dominante | Articulação exemplo |
-|-----------|----------------|---------------------|
-| Flexão / extensão | Sagital (transverso anteroposterior) | Cotovelo, joelho |
-| Abdução / adução | Frontal | Ombro, quadril |
-| Rotação medial / lateral | Longitudinal | Quadril, coluna |
-| Pronação / supinação | Longitudinal | Radioulnares |
-| Inversão / eversão | Obliquo | Subtalar |
+| Movimento | O que acontece | Articulação Exemplo |
+|-------------------|-------------------|----------------------|
+| **Flexão** | Reduz o **Ângulo** | Cotovelo, Joelho |
+| **Extensão** | Aumenta o **Ângulo** | Cotovelo, Joelho |
+| **Abdução** | Afasta da **Linha Média** | Ombro, Quadril |
+| **Adução** | Aproxima da **Linha Média** | Ombro, Quadril |
+| **Supinação** | Palma para **Cima** | Antebraço (Segura sopa) |
+| **Pronação** | Palma para **Baixo** | Antebraço (Pega o pão) |
+| **Dorsiflexão** | Pé para **Cima** | Tornozelo |
+| **Flexão Plantar** | Pé para **Baixo** | Tornozelo (Pisa no acelerador) |
 
 > **Pegadinha:** **Circundução** não é um “movimento solto” — é **combinação** de flexão, abdução, extensão e adução em sequência (ombro).
 
@@ -70,10 +74,10 @@ Conhecer **nome oficial** da região acelera **descrição** em evolução e **p
 
 | Região | Limites úteis (visão prática) | Marco palpável |
 |--------|-------------------------------|----------------|
-| Região deltoide | Ombro lateral | Acrômio, terço médio do deltoide |
-| Fossa poplítea | Posterior do joelho | Pulso poplíteo (com cautela) |
-| Trígono carótico | Pescoço anterior | Pulso carotídeo (evitar massagem bilateral) |
-| Hipocôndrio direito | RCD costal direito | Borda hepática (contexto clínico) |
+| **Região deltoide** | Ombro lateral | **Acrômio**, terço médio do deltoide |
+| **Fossa poplítea** | Posterior do joelho | **Pulso poplíteo** (com cautela) |
+| **Trígono carótico** | Pescoço anterior | **Pulso carotídeo** |
+| **Hipocôndrio direito** | RCD costal direito | **Borda hepática** (contexto clínico) |
 
 ---
 
@@ -81,9 +85,9 @@ Conhecer **nome oficial** da região acelera **descrição** em evolução e **p
 
 | Aspecto | Cadáver / peça | TC / RM |
 |---------|----------------|---------|
-| Cor | Textura, vasos | Densidade/atenuação, sinal |
-| Plano | Dissecção manual | Reformatado multiplanar |
-| Profundidade | Visão direta | Janela e contraste |
+| **Cor** | Textura, vasos | **Densidade/atenuação**, **sinal** |
+| **Plano** | Dissecção manual | **Reformatado multiplanar** |
+| **Profundidade** | Visão direta | **Janela** e **contraste** |
 
 Treine associar **corte axial** da TC ao **desenho** do atlas — reduz tempo em plantão ao ler exames.
 
@@ -97,10 +101,11 @@ Ao documentar **abscesso** ou **hematoma**, use **planos** e **regiões**: “co
 
 ## Pontos-Chave para Prova
 
-- Posição anatômica de referência e **lateralidade do paciente**.
-- Planos **sagital**, **coronal**, **axial** — associação com **imagem**.
-- Termos **medial/lateral**, **proximal/distal**, **superficial/profundo**.
-- Movimentos e **eixos** — flexão não é “qualquer dobra”.
+- **Posição Anatômica:** O corpo deve estar em pé, **Palmas voltadas para frente** e olhar no horizonte.
+- **Planos de Seção:** O corte **Axial** (Transverso) é o mais comum em Tomografias.
+- **Proximal vs Distal:** Termos usados apenas para os **Membros**. Para o tronco, use Superior/Inferior.
+- **Maleolos:** O **Medial** pertence à **Tíbia**; o **Lateral** pertence à **Fíbula**.
+- **Supinação:** Lembre-se de "suplicar" (palma para cima). Pronar é o inverso.
 
 ---
 
@@ -108,21 +113,17 @@ Ao documentar **abscesso** ou **hematoma**, use **planos** e **regiões**: “co
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### Síntese para a prova
+- **Decúbitos:** **Supino** (Dorsal - olha pro teto) vs **Prono** (Ventral - olha pro chão).
+- **Abdução vs Adução:** Abduzir é afastar (**Abrir**); Aduzir é aproximar (**Adicionar** ao centro).
+- **Plano Sagital Mediano:** Divide o corpo em duas metades **Exatas**.
+- **Eixos:** Os movimentos de **Flexão/Extensão** ocorrem no **Eixo Transversal**.
 
-
-Definir plano sagital e dar um exemplo de exame nesse plano. Explicar por que proximal no crânio não usa o mesmo critério que no membro (uso de rostral/caudal em neuroanatomia em alguns textos).
-
-Relacionar tipo de movimento ao eixo da articulação. Nomear três regiões topográficas do membro inferior sem confundir com “lado da perna” informal.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Seção sagital mediana | Sagital paramediano | Mediano passa pelo **meio**; paramediano **lateral** ao meio |
-| Prone / supino | Ventral / dorsal | Prone = decúbito ventral; supino = decúbito dorsal |
-| Rotação | Circundução | Rotação = um eixo; circundução = **combinação** |
-| Proximal | Superior | No membro, proximal ≠ superior da cadeira |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Plano Sagital** | **Plano Coronal** | Divide em **Lados** vs Divide em **Frente/Trás** |
+| **Medial** | **Proximal** | Distância da **Linha Média** vs Distância da **Origem** |
+| **Circundução** | **Rotação** | 360º (Cone) vs Giro no próprio eixo |
+| **Palmar** | **Plantar** | Palma da mão vs Sola do pé |
 
 ### Frase-âncora para não esquecer
 

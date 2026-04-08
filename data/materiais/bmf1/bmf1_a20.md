@@ -7,19 +7,19 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **perfusão** do tubo digestório vem de **troncos** embriológicos (**celíaca**, **mesentérica superior**, **mesentérica inferior**) que mapeiam **estômago**–**reto** em **territórios**. A **veia porta** concentra o sangue **nutritivo** do intestino para o **fígado** antes do **sistema cava**. O **sistema nervoso entérico** e os **autonômicos** (**simpático** e **parassimpático**) regulam **motilidade** e **secreção** — base para **ileus**, **refluxo** e efeitos de **fármacos**.
+O sistema digestório é movido por três grandes troncos arteriais: **Celíaco**, **Mesentérica Superior** e **Inferior**. Cada um domina um território do tubo. Para a prova, domine a formação da **Veia Porta** (confluência esplenomesentérica) e o papel do **Vago** na motilidade. Na clínica, o conhecimento sobre a **Isquemia Mesentérica** e o **Sistema Nervoso Entérico** explica desde dores pós-prandiais até a constipação por fármacos.
 
 ---
 
 ## Artérias: três territórios clássicos
 
-| Tronco | Território principal | Ramos que caem em prova |
-|--------|----------------------|-------------------------|
-| **Tronco celíaco** | Esôfago abdominal, estômago, fígado, baço, duodeno proximal | **Hepática**, **gástricas**, **esplênica** |
-| **Artéria mesentérica superior (AMS)** | Delgado (exceto proximal), cólon proximal até **flexura esplênica** | **Íleo-cólica**, **cólicas** |
-| **Artéria mesentérica inferior (AMI)** | Cólon distal, reto superior | **Hemorroidárias superiores** (contexto) |
+| Tronco Arterial | Órgãos Irrigados | Ramos de Prova |
+|-----------------|------------------|-----------------|
+| **Tronco Celíaco** | Estômago, Fígado e Baço| Hepática e Esplênica |
+| **Mesentérica Sup.**| Delgado e Cólon Proximal| Ileocólica |
+| **Mesentérica Inf.**| Cólon Distal e Reto | Cólica Esquerda |
 
-> **Pegadinha:** A **flexura esplênica** é **zona de transição** entre territórios — questões gostam de **anastomoses** e **margens isquêmicas** “no limite”.
+> **Dica de Ouro:** A **Flexura Esplênica** é a zona de transição entre as duas mesentéricas. É o ponto mais frágil e vulnerável à isquemia no idoso.
 
 ### Figura sugerida
 
@@ -35,18 +35,11 @@ A **perfusão** do tubo digestório vem de **troncos** embriológicos (**celíac
 
 ## Veia porta: composição e destino
 
-A **veia porta** forma-se pela **confluência** **esplenomesentérica** (ramos do **baço**, **delgado** e **cólon** proximal) e **drena** ao **fígado**. **Hipertensão portal** redistribui fluxo por **anastomoses** **porto-sistêmicas** — **clínica** detalhada em hepatologia; aqui fixe **origem** e **destino** do sangue **digestório**.
-
----
-
-## Inervação autonômica: eixo geral
-
-| Sistema | Efeito global no tubo | Nervo / via |
-|---------|------------------------|-------------|
-| **Parassimpático** (via **vago** e **sacral**) | Aumenta **motilidade** e **secreção** | Vago (tórax e abdome superior), nervos pélvicos (reto/bexiga) |
-| **Simpático** | **Vasoconstrição** mesentérica, **reduz** motilidade em stress | Cadeia **simpática** e **esplanâcnica** |
-
-O **plexo mioentérico** (Auerbach) e **submucoso** (Meissner) compõem o **sistema nervoso entérico** — “**cérebro** no abdome” para **peristalse** local.
+- **Veia Porta:** Formada pela união da **Veia Esplênica** + **Mesentérica Superior**. Leva os nutrientes ao fígado.
+- **Vago (X):** Principal via **Parassimpática**. Liga o botão "ligar" da digestão (aumenta secreção e peristalse).
+- **Simpático:** Desliga a digestão em situações de estresse (**Luta ou Fuga**).
+- **Plexo de Auerbach:** Localizado na camada **Muscular**. Comanda os movimentos peristálticos.
+- **Plexo de Meissner:** Localizado na **Submucosa**. Comanda a secreção das glândulas.
 
 ---
 
@@ -64,40 +57,18 @@ O **plexo mioentérico** (Auerbach) e **submucoso** (Meissner) compõem o **sist
 
 ## Pontos-Chave para Prova
 
-- **Celíaca**, **AMS**, **AMI** — **ordem** crânio-caudal dos territórios.
-- **Veia porta** — **duas** fontes principais de tributárias antes do fígado (conceito).
-- **Vago** — **parassimpático** digestório superior.
-- **Simpático** — **vasoconstrição** esplanâcnica.
-- **Plexos** **Auerbach** e **Meissner** — localização **muscular** versus **submucosa**.
+- **Shunts Porto-Sistêmicos:** Em doenças do fígado, o sangue desvia para o esôfago, causando **Varizes**.
+- **Peristalse:** Movimento coordenado pelo plexo mioentérico para empurrar o bolo alimentar.
+- **Artéria Esplênica:** Tem um trajeto **Tortuoso** acima do pâncreas.
+- **Mesentérica Superior:** Pode "pinçar" o duodeno em casos de perda de gordura extrema.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Qual tronco arterial irriga o **delgado** médio em linhas gerais.
-- Onde o sangue **intestinal** vai antes de retornar ao **coração** (via **fígado**).
-- Uma frase sobre **vago** e **digestão**.
-- Diferença **simpático** versus **parassimpático** no **tônus** vascular **mesentérico**.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| AMS | AMI | Delgado e cólon proximal vs distal |
-| Veia porta | Veia cava | Fígado como filtro metabólico primeiro |
-| Plexo mioentérico | Submucoso | Motilidade versus secreção local |
-| Simpático | Parassimpático | Vasoconstrição / bradisecretório vs pro-motilidade |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Vago** | **Simpático** | Digestão "ON" vs Digestão "OFF" |
+| **Auerbach** | **Meissner** | Motilidade vs **Secreção** |
+| **Veia Porta** | **Veia Hepática** | Traz ao Fígado vs **Leva à Cava** |
+| **AMS** | **Amit** | Intestino Médio vs **Intestino Posterior** |
 
 ### Frase-âncora para não esquecer
 
 > “Três artérias desenham o mapa; a porta leva tudo ao fígado antes da volta ao coração.”
-
----
-
-## Referências de estudo
-
-Moore (vasos e nervos do abdome); Netter (ilustrações de troncos); Guyton/Costanzo para **fluxo portal** integrado; correlacionar com **bmf1_a21** (fígado e vias biliares).

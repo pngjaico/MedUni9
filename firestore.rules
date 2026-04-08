@@ -14,6 +14,11 @@
 // Document ID: email em minúsculas (normalizado)
 // Fields: ativo, plano, modulosAcesso, maxDispositivos, expira, nota, criadoEm, atualizadoEm
 //
+// Collection: material_overrides
+// Document ID: "{materiaId}__{temaId}" (ex.: tecnica_operatoria__tcar_a3)
+// Fields: markdown (string), updatedAt (string ISO), updatedBy (email), materiaId, temaId, basePath (opcional)
+// Leitura: utilizadores autenticados. Escrita: isAdmin() apenas.
+//
 // Collection: users
 // Document ID: Firebase Auth UID
 // Fields:
@@ -62,8 +67,16 @@ service cloud.firestore {
     // Users: each user can only read/write their own profile
     match /users/{userId} {
       allow read:   if (request.auth != null && request.auth.uid == userId) || isAdmin();
-      allow create: if (request.auth != null && request.auth.uid == userId) || isAdmin();
-      allow update: if (request.auth != null && request.auth.uid == userId) || isAdmin();
+      allow create: if isAdmin() || (
+        request.auth != null &&
+        request.auth.uid == userId &&
+        isSafeSelfUserCreate()
+      );
+      allow update: if isAdmin() || (
+        request.auth != null &&
+        request.auth.uid == userId &&
+        isSafeSelfUserUpdate()
+      );
       allow delete: if false;
     }
 
@@ -119,12 +132,19 @@ service cloud.firestore {
       allow read: if isAdmin();
       allow create, update, delete: if isAdmin();
     }
+
+    // Sobreposição de materiais .md (Hosting estático + Firestore para admin)
+    match /material_overrides/{docId} {
+      allow read: if request.auth != null;
+      allow create, update, delete: if isAdmin();
+    }
   }
 
   function isAdmin() {
     return request.auth != null &&
            request.auth.token.email_verified == true &&
-           request.auth.token.email in ['pngjaico@gmail.com'];
+           request.auth.token.email is string &&
+           request.auth.token.email.lower() == 'pngjaico@gmail.com';
   }
 
   // ===============================================================
@@ -147,6 +167,34 @@ service cloud.firestore {
            d.email is string &&
            d.plano is string &&
            d.semestre is number && d.semestre >= 1 && d.semestre <= 6;
+  }
+
+  // D0 hardening: cliente autenticado nao pode auto-elevar plano/modulosAcesso.
+  function isSafeSelfUserCreate() {
+    let d = request.resource.data;
+    return d.email is string &&
+           d.plano is string && d.plano in ['basico', 'gratuito', 'trial'] &&
+           d.semestre is number && d.semestre >= 1 && d.semestre <= 6 &&
+           (
+             !('modulosAcesso' in d) ||
+             d.modulosAcesso == null ||
+             (d.modulosAcesso is list && d.modulosAcesso.size() <= 1 && d.modulosAcesso[0] == 1)
+           ) &&
+           (
+             !('maxDispositivos' in d) ||
+             (d.maxDispositivos is number && d.maxDispositivos <= 2)
+           );
+  }
+
+  function isSafeSelfUserUpdate() {
+    return resource != null &&
+           request.resource.data.plano == resource.data.plano &&
+           request.resource.data.modulosAcesso == resource.data.modulosAcesso &&
+           request.resource.data.maxDispositivos == resource.data.maxDispositivos &&
+           request.resource.data.accessSource == resource.data.accessSource &&
+           request.resource.data.emailGrantId == resource.data.emailGrantId &&
+           request.resource.data.semestre == resource.data.semestre &&
+           request.resource.data.modulo == resource.data.modulo;
   }
 
   function isValidTipo() {

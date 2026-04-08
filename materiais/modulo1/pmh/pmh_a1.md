@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Bioenergética** estuda como o organismo **capta, transforma e usa energia** química para manter função celular, crescimento e resposta ao estresse. A **termodinâmica** fornece o vocabulário certo: **espontaneidade**, **acoplamento** de reações e **limite** do que a célula pode fazer sem gastar ATP. Em prova, isso aparece em questões sobre **ATP**, **NADH/FADH₂**, **ciclo de Krebs**, **cadeia respiratória** e situações clínicas de **hipóxia**, **acidose lática** e **disfunção mitocondrial**. Dominar o “porquê” energético evita decorar fórmulas soltas sem nexo.
+**Bioenergética** é a lógica por trás de como a célula **capta, transforma e usa energia**. A **termodinâmica** não é apenas física; é o que explica por que a **hipóxia** leva à **acidose lática** e como o **ATP** paga a conta de todos os processos vitais. Para a prova, domine o conceito de **espontaneidade (ΔG)**, o papel do **acoplamento** e a diferença fundamental entre **NADH** (energia) e **NADPH** (biossíntese/defesa).
 
 
 ### Figura sugerida
@@ -75,10 +75,10 @@ A **fosforilação oxidativa** depende de **oxigênio** como aceptor final de el
 
 ## Comparativo rápido: exergônica vs endergônica
 
-| Tipo | ΔG (visão geral) | Exemplo de papel |
-|------|------------------|------------------|
-| Exergônica | negativo | oxidação de substrato, hidrólise de ATP quando “quebrado” para pagar outra reação |
-| Endergônica | positivo sozinha | síntese de éster, transporte ativo — precisa acoplamento |
+| Tipo de Reação | ΔG (Variação de Energia) | Papel Metabólico |
+|-----------------|--------------------------|-------------------|
+| **Exergônica** | **Negativo (ΔG < 0)** | Liberação de energia; **Oxidação** |
+| **Endergônica** | **Positivo (ΔG > 0)** | Requer **Acoplamento**; Biossíntese |
 
 ---
 
@@ -90,11 +90,11 @@ Paciente em **choque** ou **sepse** com **lactato elevado** reflete, em parte, *
 
 ## Pontos-Chave para Prova
 
-- **1ª lei:** conservação; **2ª lei:** entropia e irreversibilidade global.
-- **ΔG < 0:** espontâneo (na condição dada); **velocidade** é enzima.
-- **ATP** acopla **catabolismo** a **trabalho celular** endergônico.
-- **NADH/FADH₂** carregam **redução** para a **cadeia respiratória**.
-- **Hipóxia** → dependência de vias **sem oxidação completa** + **lactato** como “preço” de regenerar NAD⁺.
+- **1ª Lei:** Energia se transforma; metabolicamente, nada se perde, tudo vira **trabalho** ou **calor**.
+- **ΔG < 0:** Único critério de **espontaneidade**. Se o ΔG for positivo, a reação **não ocorre** sem **ATP**.
+- **Acoplamento:** A célula usa a "quebra" do **ATP** (exergônico) para "comprar" reações endergônicas.
+- **NADPH vs NADH:** **NADPH** é para **anabolismo** (fábrica) e **antioxidante**; **NADH** é para gerar **ATP** (usina).
+- **Lactato:** É o plano B na **hipóxia** para regenerar **NAD+** e manter a glicólise rodando.
 
 ---
 
@@ -104,21 +104,21 @@ Paciente em **choque** ou **sepse** com **lactato elevado** reflete, em parte, *
 
 ### Síntese para a prova
 
+- **ΔG Negativo:** Define a **direção** da via; **Enzimas** definem a **velocidade**.
+- **ATP:** Intermediário comum entre **oxidação** de nutrientes e **trabalho celular**.
+- **Hipóxia:** Bloqueia a **Cadeia Respiratória**; sobra **NADH**, piruvato vira **Lactato** (**Acidose**).
+- **Poder Redutor:** **NADPH** é o combustível da **biossíntese** e proteção contra **Radicais Livres**.
 
-Espontaneidade metabólica: ΔG (energia livre), não só calor. ATP como intermediário entre oxidação de alimentos e processos que exigem energia.
-
-Oxidação libera elétrons; cadeia respiratória recicla aceptores com O₂ final. Anaerobiose mantém ATP baixo com custo (lactato/acidose em contexto patológico).
-
-NADPH ≠ NADH em função típica (anabolismo/defesa vs geração de energia oxidativa).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| ΔG | Velocidade (Vmax) | ΔG = direção termodinâmica; enzima = velocidade. |
-| Exergônica | Espontânea em laboratório sem enzima | Na célula, **enzima** canaliza fluxo; espontâneo ≠ imediato. |
-| Hipóxia tecidual | Acidose por outra causa | Lactato sobe em várias situações — correlacione com **oferta de O₂** e **perfusão**. |
-| Oxidação | Combustão aberta | Oxidação biológica é **gradual** e **acoplada** a síntese de ATP. |
+| Diferença Central | Conceito A (ΔG) | Conceito B (Cinética) |
+|-------------------|-----------------|-----------------------|
+| **O que define?** | **Se ocorre** (direção) | **Quão rápido** ocorre |
+| **Dependência** | Estado inicial/final | **Enzimas** (catalisadores) |
+| **Lactato** | Marcador de **Hipóxia** | Pode subir na **Sepse** por disfunção mitocondrial |
+| **Oxidação** | Libera elétrons (**NADH**) | **Aceptor Final** é o **Oxigênio (O2)** |
 
 ### Frase-âncora para não esquecer
 

@@ -1,0 +1,1796 @@
+{
+  "questoes": [
+    {
+      "id": 1,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma paciente de 35 anos chega ao pronto-socorro com dispneia, cefaleia e letargia. O gasométrico arterial mostra: pH 7,28, PaCO2 32 mmHg, HCO3- 15 mEq/L, PaO2 95 mmHg. A anamnese revela uso crônico de diuréticos para controle de hipertensão. Qual é o distúrbio ácido-base primário?",
+      "opcoes": [
+        "A) Acidose metabólica simples",
+        "B) Alcalose respiratória simples",
+        "C) Acidose respiratória com compensação",
+        "D) Alcalose metabólica com compensação respiratória"
+      ],
+      "correta": 0,
+      "explicacao": "O pH baixo (7,28) indica acidemia. O HCO3- reduzido (15) confirma acidose metabólica como problema primário. A PaCO2 baixa (32) representa compensação respiratória apropriada.",
+      "tema": "bcm1_acido_base",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 2,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um atleta de 28 anos se apresenta com fraqueza muscular, cãibras e arritmia cardíaca após 4 horas de exercício intenso em ambiente quente. A gasometria mostra: pH 7,52, PaCO2 28 mmHg, HCO3- 22 mEq/L. Qual mecanismo fisiopatológico melhor explica este achado?",
+      "opcoes": [
+        "A) Alcalose respiratória primária por hiperventilação",
+        "B) Acidose metabólica compensada",
+        "C) Distúrbio misto com alcalose respiratória e metabólica",
+        "D) Acidose respiratória com compensação inadequada"
+      ],
+      "correta": 0,
+      "explicacao": "O pH elevado (7,52) com PaCO2 reduzida (28) e HCO3- normal indicam alcalose respiratória primária. A hiperventilação durante exercício intenso em ambiente quente causa perda excessiva de CO2.",
+      "tema": "bcm1_acido_base",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 3,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma criança de 6 anos com desnutrição moderada apresenta apatia, hipotonia muscular e parada do crescimento. Estudos bioquímicos mostram deficiência de aminoácidos essenciais plasmáticos. Qual aminoácido é particularmente importante para síntese de proteínas estruturais e imunológicas nesta faixa etária?",
+      "opcoes": [
+        "A) Alanina",
+        "B) Leucina",
+        "C) Glutamato",
+        "D) Aspartato"
+      ],
+      "correta": 1,
+      "explicacao": "A leucina é um aminoácido de cadeia ramificada essencial para síntese proteica, especialmente crítica em crianças em crescimento. Atua como sinal anabólico via mTOR, estimulando síntese de proteínas musculares e imunológicas.",
+      "tema": "bcm1_aminoacidos",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 4,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com queimadura extensa (30% da superfície corporal) apresenta edema local importante e vazamento de plasma. O edema é causado principalmente pela alteração de qual componente da membrana plasmática?",
+      "opcoes": [
+        "A) Diminuição de proteína C reativa integrada",
+        "B) Aumento de permeabilidade vascular por lesão do glicocálix e tight junctions do endotélio",
+        "C) Deposição de colesterol nas camadas lipídicas",
+        "D) Aumento de ATPase Na+/K+ pelas células endoteliais"
+      ],
+      "correta": 1,
+      "explicacao": "Em queimaduras, a lesão térmica danifica o endotélio vascular, especialmente o glicocálix e as tight junctions. Isso aumenta dramaticamente a permeabilidade vascular, permitindo vazamento de plasma para o interstício.",
+      "tema": "bcm1_membrana",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 5,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com infarto agudo do miocárdio apresenta eletrocardiograma com elevação de ST. Qual via metabólica é primariamente comprometida no tecido isquêmico?",
+      "opcoes": [
+        "A) Glicólise apenas",
+        "B) Fosforilação oxidativa, levando a deficiência de ATP",
+        "C) Via das pentoses apenas",
+        "D) Ciclo de Krebs sem envolvimento da cadeia respiratória"
+      ],
+      "correta": 1,
+      "explicacao": "A isquemia interrompe o aporte de oxigênio, impedindo a fosforilação oxidativa. Sem oxigênio, o NADH não pode ser reoxidado, bloqueando o Ciclo de Krebs. A produção de ATP cai drasticamente (2 ATP/glicose vs 30-32 aeróbica).",
+      "tema": "bcm1_fosforilacao",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 6,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente diabético em uso de metformina apresenta mialgia, fraqueza proximal e nível sérico de CK elevado (1200 U/L). A metformina interfere em qual organela muscular, causando acúmulo de lactato?",
+      "opcoes": [
+        "A) Mitocôndria, reduzindo a oxidação de piruvato e NADH",
+        "B) Retículo endoplasmático",
+        "C) Ribossomo",
+        "D) Complexo de Golgi"
+      ],
+      "correta": 0,
+      "explicacao": "A metformina inibe a respiração mitocondrial (Complexo I), reduzindo a reoxidação de NADH e a oxidação de piruvato. Isso causa acúmulo de ácido láctico, levando à miopatia.",
+      "tema": "bcm1_enzimas_cinetica",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 7,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma mulher de 42 anos com cirrose hepática apresenta hipoalbuminemia grave (2,1 g/dL) e edema periférico refratário a diuréticos. A deficiência de síntese hepática de qual proteína também contribui para a descompensação circulatória?",
+      "opcoes": [
+        "A) Imunoglobulinas",
+        "B) Proteínas de fase aguda",
+        "C) Protrombina e fatores de coagulação vitamina K-dependentes",
+        "D) Proteína C reativa"
+      ],
+      "correta": 2,
+      "explicacao": "O fígado sintetiza protrombina e fatores II, VII, IX e X (vitamina K-dependentes). Sua deficiência causa coagulopatia, contribuindo para hemorragia e piora da descompensação circulatória.",
+      "tema": "bcm1_aminoacidos",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 8,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com gota aguda apresenta cristais de ácido úrico nos macrófagos. Qual via catabólica de purina está upregulada, levando ao aumento de ácido úrico sérico?",
+      "opcoes": [
+        "A) Síntese de novo apenas",
+        "B) Via de salvamento de nucleotídeos",
+        "C) Via catabólica: purina → hipoxantina → xantina → ácido úrico",
+        "D) Glicogenólise"
+      ],
+      "correta": 2,
+      "explicacao": "A gota resulta do catabolismo excessivo de purinas via xantina oxidase: purinas → hipoxantina → xantina → ácido úrico. O aumento sérico (>6,8 mg/dL) causa precipitação de cristais e inflamação via NLRP3.",
+      "tema": "bcm1_nucleotideos",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 9,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um neonato de 2 dias de vida apresenta icterícia intensa. A bilirrubina indireta está elevada (18 mg/dL). O fígado imaturo não consegue metabolizar adequadamente a bilirrubina por deficiência de qual enzima?",
+      "opcoes": [
+        "A) Fosfatase alcalina",
+        "B) Uridina 5'-difosfato glucuronosiltransferase (UGT1A1)",
+        "C) Aspartato aminotransferase",
+        "D) Lactase"
+      ],
+      "correta": 1,
+      "explicacao": "A UGT1A1 conjuga bilirrubina indireta com ácido glucurônico, tornando-a hidrossolúvel. Em neonatos, esta enzima está imatura, resultando em hiperbilirrubinemia não-conjugada (icterícia neonatal).",
+      "tema": "bcm1_enzimas_cinetica",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 10,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com deficiência de vitamina B12 apresenta anemia macrocítica e neuropatia periférica. A B12 atua como cofator em qual reação essencial para síntese de nucleotídeos?",
+      "opcoes": [
+        "A) Hidroxilação de prolina",
+        "B) Transferência de grupos metilos para conversão de dUMP em dTMP",
+        "C) Transferência de grupos metilos para formação de metionina a partir de homocisteína",
+        "D) Formação de queratina"
+      ],
+      "correta": 2,
+      "explicacao": "A vitamina B12 é cofator da metionina sintase, que converte homocisteína em metionina. A deficiência acumula homocisteína, compromete a mielinização (neuropatia) e reduz síntese de DNA (anemia macrocítica).",
+      "tema": "bcm1_vitaminas",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 11,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um homem de 50 anos sofre fratura de fêmur e apresenta dor intensa no local. Durante o acompanhamento, a fratura consolida com deposição de cálcio. Este processo envolve qual tipo de célula óssea?",
+      "opcoes": [
+        "A) Osteoclastos apenas",
+        "B) Osteócitos",
+        "C) Osteoblastos diferenciados em osteócitos",
+        "D) Condrócitos"
+      ],
+      "correta": 2,
+      "explicacao": "A consolidação de fratura é realizada por osteoblastos que sintetizam a matriz óssea e promovem sua mineralização. Os osteoblastos são então enclausurados na matriz, diferenciando-se em osteócitos.",
+      "tema": "bmf1_tec_osseo",
+      "dificuldade": 1,
+      "modulo": 1
+    },
+    {
+      "id": 12,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma radiografia de tórax de um paciente de 68 anos com osteoporose mostra corpos vertebrais com densidade reduzida e colapso anterior de T12. Qual componente da matriz óssea está primariamente afetado?",
+      "opcoes": [
+        "A) Componente mineral (hidroxiapatita)",
+        "B) Componente orgânico (colágeno tipo I e proteoglicanos)",
+        "C) Ambos em proporção reduzida",
+        "D) Apenas a água intersticial"
+      ],
+      "correta": 2,
+      "explicacao": "Na osteoporose, há redução na quantidade total de osso — tanto do componente mineral quanto orgânico — mas a proporção permanece normal. O volume total é reduzido, tornando o osso mais frágil.",
+      "tema": "bmf1_tec_osseo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 13,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um judoca de 25 anos sofre lesão de cartilagem articular no joelho durante competição. Por que a regeneração desta cartilagem é limitada, ao contrário da reparação óssea?",
+      "opcoes": [
+        "A) Porque a cartilagem não possui matriz extracelular resistente",
+        "B) Porque os condrócitos estão envolvidos em matriz avascular e apresentam baixa capacidade proliferativa",
+        "C) Porque a cartilagem não contém colágeno",
+        "D) Porque os condrócitos produzem apenas proteoglicanos, não colágeno"
+      ],
+      "correta": 1,
+      "explicacao": "A cartilagem hialina é avascular e anerva. Os condrócitos ficam isolados em lacunas de densa matriz e têm baixa capacidade mitótica em adultos. Não há células mesenquimais periféricas para regeneração.",
+      "tema": "bmf1_tec_cartilaginems",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 14,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente apresenta fratura de clavícula com deslocamento. Durante a consolidação, observa-se reação periosteal. Qual camada do periósteo é mais ativa na formação de calo ósseo externo?",
+      "opcoes": [
+        "A) Camada fibrosa externa apenas",
+        "B) Camada osteogênica (interna), contendo osteoblastos",
+        "C) Ambas igualmente",
+        "D) Nenhuma, pois o calo é formado pelo endósteo"
+      ],
+      "correta": 1,
+      "explicacao": "O periósteo tem camada fibrosa (externa) e osteogênica (interna). A camada osteogênica contém osteoblastos e células osteoprogenitoras, sendo altamente ativa na formação do calo ósseo após fratura.",
+      "tema": "bmf1_tec_osseo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 15,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma criança de 7 anos apresenta alargamento de epífises em ossos longos. A biópsia óssea mostra desorganização da zona de proliferação da cartilagem epifisária com deficiência de mineralização. Este achado é consistente com deficiência de qual vitamina?",
+      "opcoes": [
+        "A) Vitamina A",
+        "B) Vitamina D",
+        "C) Vitamina C",
+        "D) Vitamina K"
+      ],
+      "correta": 1,
+      "explicacao": "A vitamina D é essencial para absorção de cálcio e fósforo e mineralização óssea. Sua deficiência causa raquitismo, com desorganização da placa epifisária e alargamento metafisário característico.",
+      "tema": "bmf1_tec_cartilaginems",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 16,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente sofre lesão grave do tendão de Aquiles durante exercício. O tendão, composto principalmente por fibras colágenas, apresenta qual tipo de tecido conjuntivo?",
+      "opcoes": [
+        "A) Tecido conjuntivo frouxo",
+        "B) Tecido conjuntivo denso regular (fibras paralelas)",
+        "C) Tecido adiposo",
+        "D) Tecido cartilaginoso"
+      ],
+      "correta": 1,
+      "explicacao": "Tendões são compostos de tecido conjuntivo denso regular com fibras colágenas tipo I dispostas em feixes paralelos, otimizando transmissão de forças de tensão. A baixa vascularização explica a lenta regeneração.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 1,
+      "modulo": 1
+    },
+    {
+      "id": 17,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com inflamação crônica do tecido subcutâneo desenvolve fibrose. Qual célula está primariamente responsável pela síntese excessiva de colágeno?",
+      "opcoes": [
+        "A) Macrófagos",
+        "B) Fibroblastos diferenciados em miofibroblastos",
+        "C) Células epiteliais",
+        "D) Condrócitos"
+      ],
+      "correta": 1,
+      "explicacao": "Em inflamação crônica, fibroblastos são ativados por citocinas (IL-1, TGF-β) e se diferenciam em miofibroblastos. Essas células sintetizam em excesso colágeno tipos I e III, levando à fibrose.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 18,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma criança de 3 anos apresenta frouxidão ligamentar generalizada, cicatrização deficiente e equimoses espontâneas. Qual defeito estrutural de colágeno está presente?",
+      "opcoes": [
+        "A) Deficiente reticulação entre moléculas de colágeno",
+        "B) Redução de hidroxilação de lisina e prolina",
+        "C) Deficiência de fibronectina",
+        "D) Aumento de elastina"
+      ],
+      "correta": 1,
+      "explicacao": "A síndrome de Ehlers-Danlos resulta de defeitos na hidroxilação de prolina e lisina (via vitamina C e lisil oxidase), reduzindo a estabilidade do colágeno. Causa frouxidão articular, fragilidade vascular e cicatrização deficiente.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 19,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um atleta apresenta epicondilite lateral (cotovelo de tenista) com dor à extensão do punho. A inflamação persistente do pericôndrio do processo condiloide do úmero pode levar a qual complicação?",
+      "opcoes": [
+        "A) Necrose cartilaginosa e possível impotência funcional",
+        "B) Apenas dor local, sem sequelas estruturais",
+        "C) Ossificação heterotópica do tendão",
+        "D) Transformação para cartilagem fibrosa"
+      ],
+      "correta": 0,
+      "explicacao": "O pericôndrio é essencial para nutrição da cartilagem. Inflamação persistente compromete essa nutrição, podendo levar à necrose da cartilagem subjacente e degeneração articular com perda de função.",
+      "tema": "bmf1_tec_cartilaginems",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 20,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Durante avaliação articular, observa-se que o cotovelo permite principalmente flexão/extensão com pequena pronação/supinação. Este é um exemplo de qual classificação articular?",
+      "opcoes": [
+        "A) Sinartroses",
+        "B) Anfiartroses",
+        "C) Diartroses uniaxiais (gínglimo)",
+        "D) Diartroses triaxiais"
+      ],
+      "correta": 2,
+      "explicacao": "O cotovelo é uma diartroses uniaxial (gínglimo) com movimento em um eixo (flexão/extensão). A pronação/supinação ocorre principalmente na articulação radioulnar proximal.",
+      "tema": "bmf1_sist_articular",
+      "dificuldade": 1,
+      "modulo": 1
+    },
+    {
+      "id": 21,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "Um hospital implementa protocolo de segurança do paciente baseado na PNSP. Qual das seguintes ações NÃO faz parte dos seis objetivos principais da PNSP?",
+      "opcoes": [
+        "A) Higienização das mãos para prevenir infecções relacionadas à assistência",
+        "B) Segurança na prescrição, uso e administração de medicamentos",
+        "C) Prevenção de úlceras por pressão",
+        "D) Maximização do lucro hospitalar através de redução de custos"
+      ],
+      "correta": 3,
+      "explicacao": "A PNSP foca em segurança clínica. Os seis objetivos incluem: higienização de mãos, segurança na medicação, prevenção de infecções, prevenção de quedas, prevenção de úlceras e cirurgia segura. Lucratividade não é objetivo da política.",
+      "tema": "PNSP - Objetivos",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 22,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "Um paciente hospitalizado apresenta febre, tosse produtiva e infiltrado pulmonar, iniciado 5 dias após internação. O médico diagnostica pneumonia associada à ventilação mecânica (PAVM). Este evento é classificado como:",
+      "opcoes": [
+        "A) Near miss (quase erro)",
+        "B) Evento adverso relacionado à assistência",
+        "C) Erro diagnóstico",
+        "D) Falha de comunicação"
+      ],
+      "correta": 1,
+      "explicacao": "Um evento adverso é um incidente que resulta em dano ao paciente causado pela assistência à saúde. A PAVM, embora seja complicação conhecida da ventilação mecânica, representa dano causado pela assistência e deve ser notificada.",
+      "tema": "Tipos de Incidentes de Segurança",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 23,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "Durante a pandemia de COVID-19, qual teste diagnóstico tem maior sensibilidade para detecção de SARS-CoV-2 em fase aguda?",
+      "opcoes": [
+        "A) Teste sorológico (anticorpos) realizado no 1º dia de sintomas",
+        "B) RT-PCR de amostra de nasofaringe coletada nos primeiros 5-7 dias",
+        "C) Teste rápido de antígeno realizado após 10 dias de sintomas",
+        "D) Radiografia de tórax apenas"
+      ],
+      "correta": 1,
+      "explicacao": "O RT-PCR é o padrão-ouro para diagnóstico de SARS-CoV-2, com sensibilidade de 95-98% na fase aguda (primeiros 5-7 dias). Testes sorológicos só detectam anticorpos dias após a infecção.",
+      "tema": "COVID-19 / SARS-CoV-2 - Diagnóstico",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 24,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com suspeita de COVID-19 é intubado com insuficiência respiratória e SDRA. Qual estratégia ventilatória é apropriada conforme protocolos de SDRA?",
+      "opcoes": [
+        "A) Ventilação com volume corrente elevado (>10 mL/kg) para otimizar oxigenação",
+        "B) Ventilação protetora com volume corrente baixo (6-8 mL/kg do peso predito)",
+        "C) CPAP de baixa pressão sem intubação",
+        "D) Ventilação apenas ao detectar SpO2 < 85%"
+      ],
+      "correta": 1,
+      "explicacao": "Ventilação protetora com volume corrente baixo (6-8 mL/kg) reduz barotrauma e lesão pulmonar associada à ventilação (VILI). Volumes elevados aumentam o dano pulmonar em SDRA.",
+      "tema": "Protocolos de Manejo de COVID-19",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 25,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "Qual movimento revolucionou a prática clínica ao introduzir rigor científico, observação sistemática e autópsias como método de ensino?",
+      "opcoes": [
+        "A) Renascimento (século XV)",
+        "B) Medicina Hipocrática apenas",
+        "C) Medicina Científica do século XIX (Virchow, Pasteur, Koch)",
+        "D) Período medieval (500-1500 d.C.)"
+      ],
+      "correta": 2,
+      "explicacao": "O século XIX marcou a revolução científica com a patologia celular de Virchow, a teoria microbiana de Pasteur e os postulados de Koch. Esta era fundou a medicina moderna baseada em evidência.",
+      "tema": "História da Medicina - Período Moderno",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 26,
+      "materia": "ips",
+      "categoria": "inedita",
+      "enunciado": "V ou F: A Era de Ouro da Medicina no século XX incluiu desenvolvimento de antibióticos (Fleming, 1928), vacinas (Salk, poliomielite) e antibióticos de amplo espectro, elevando significativamente a expectativa de vida global.",
+      "opcoes": [
+        "A) Verdadeiro",
+        "B) Falso"
+      ],
+      "correta": 0,
+      "explicacao": "Verdadeiro. O século XX presenciou a descoberta de penicilina (Fleming, 1928), vacina de poliomielite (Salk, 1955) e múltiplos antibióticos. Essas inovações transformaram o tratamento de doenças infecciosas globalmente.",
+      "tema": "História da Medicina - Século XX",
+      "dificuldade": 1,
+      "modulo": 1
+    },
+    {
+      "id": 43,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Os determinantes sociais de saúde (DSS) referem-se a quais tipos de fatores que influenciam o adoecimento da população?",
+      "opcoes": [
+        "A) Apenas fatores genéticos e hereditários individuais",
+        "B) Fatores sociais, econômicos, culturais, étnicos, psicológicos e comportamentais que influenciam a ocorrência de problemas de saúde",
+        "C) Exclusivamente condições ambientais de poluição e contaminação",
+        "D) Somente acesso a serviços médicos especializados",
+        "E) Apenas nível educacional e renda familiar"
+      ],
+      "correta": 1,
+      "explicacao": "Os DSS são fatores que vão além da biologia individual, incluindo condições socioeconômicas, culturais, étnicas, psicológicas e comportamentais. Eles explicam desigualdades em saúde e orientam políticas de saúde mais equitativas.",
+      "tema": "Determinantes Sociais de Saúde",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 44,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "No MCCP (Método Clínico Centrado na Pessoa), qual é a principal diferença em relação ao modelo biomédico tradicional?",
+      "opcoes": [
+        "A) O MCCP prioriza exames complementares antes da anamnese",
+        "B) O MCCP foca na doença como objeto central, desconsiderando o contexto social",
+        "C) O MCCP integra a experiência subjetiva do paciente, seu contexto familiar e social ao processo diagnóstico e terapêutico",
+        "D) O MCCP reduz o tempo de consulta ao focar apenas no sintoma principal",
+        "E) O MCCP elimina a necessidade de exame físico detalhado"
+      ],
+      "correta": 2,
+      "explicacao": "O MCCP propõe que a consulta seja centrada no paciente como um todo, não apenas na doença. Integra experiência da doença, entendimento do contexto biopsicossocial, elaboração de diagnóstico integrado e um plano conjunto de cuidado com o paciente.",
+      "tema": "MCCP - Conceitos",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 45,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "A Estratégia de Saúde da Família (ESF) é o modelo assistencial principal da atenção básica no Brasil. Qual é a atribuição EXCLUSIVA do Agente Comunitário de Saúde (ACS) na equipe?",
+      "opcoes": [
+        "A) Realizar consultas clínicas e prescrição de medicamentos básicos",
+        "B) Executar procedimentos de enfermagem no domicílio",
+        "C) Visitar cada domicílio pelo menos uma vez por mês, fazendo a ligação entre família e serviço de saúde",
+        "D) Supervisionar o trabalho dos demais membros da equipe",
+        "E) Realizar exames laboratoriais básicos nas visitas domiciliares"
+      ],
+      "correta": 2,
+      "explicacao": "O ACS tem atribuição exclusiva de visitar cada domicílio pelo menos uma vez por mês e ser o elo entre a comunidade e a equipe de saúde. Ele cadastra famílias, identifica problemas de saúde e estimula práticas saudáveis.",
+      "tema": "ESF - Atribuições da Equipe",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 46,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente de 45 anos sofreu queda sobre o ombro direito e apresenta dor intensa à abdução do braço. A radiografia evidencia fratura do tubérculo maior do úmero. O tubérculo maior é ponto de inserção de três dos quatro músculos do manguito rotador. Assinale a alternativa que apresenta CORRETAMENTE esses músculos:",
+      "opcoes": [
+        "A) Supraespinal, infraespinal e redondo menor",
+        "B) Supraespinal, infraespinal e subescapular",
+        "C) Infraespinal, redondo menor e redondo maior",
+        "D) Supraespinal, subescapular e redondo menor",
+        "E) Subescapular, infraespinal e deltóide"
+      ],
+      "correta": 0,
+      "explicacao": "O tubérculo maior do úmero é local de inserção de três músculos do manguito rotador: supraespinal (face superior), infraespinal (face posterior-média) e redondo menor (face posterior-inferior). O subescapular se insere no tubérculo menor. Todos são inervados pelo nervo supraescapular (supra e infraespinal) e axilar (redondo menor).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "manguito_rotador",
+        "acidentes_osseos",
+        "membro_superior"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 47,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Sexo feminino, 34 anos, apresenta fraqueza muscular no membro superior direito, principalmente ao realizar rotação lateral. A eletromiografia evidenciou comprometimento do músculo redondo menor. Sobre esse músculo e sua inervação, assinale a alternativa CORRETA:",
+      "opcoes": [
+        "A) É inervado pelo nervo supraescapular e faz rotação medial do braço",
+        "B) É inervado pelo nervo axilar e participa da rotação lateral do braço",
+        "C) É inervado pelo nervo musculocutâneo e faz abdução do braço",
+        "D) É inervado pelo nervo radial e faz extensão do antebraço",
+        "E) É inervado pelo nervo subescapular inferior e faz rotação medial"
+      ],
+      "correta": 1,
+      "explicacao": "O músculo redondo menor é inervado pelo nervo axilar (C5-C6), ramo do fascículo posterior do plexo braquial. Sua ação principal é a rotação lateral do braço. Faz parte do manguito rotador junto com supraespinal, infraespinal e subescapular.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "plexo_braquial",
+        "inervacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 48,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um professor teve a região posterior do antebraço picada por mosquito, sentindo forte irritação local. Qual o nome do nervo responsável pela inervação sensitiva dessa região?",
+      "opcoes": [
+        "A) Nervo mediano",
+        "B) Nervo ulnar",
+        "C) Nervo musculocutâneo",
+        "D) Nervo radial",
+        "E) Nervo axilar"
+      ],
+      "correta": 3,
+      "explicacao": "O nervo radial (C5-T1) é responsável pela inervação sensitiva da face posterior do antebraço através do ramo cutâneo posterior do antebraço. Também inerva a face posterior do braço e dorso da mão (exceto dedos 4-5). É o principal nervo do compartimento posterior do membro superior.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "plexo_lombossacral"
+      ],
+      "dificuldade": 1,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 49,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta \"pé caído\" com dificuldade em realizar dorsiflexão do pé. Considerando o caso, qual é a provável causa do problema?",
+      "opcoes": [
+        "A) Laceração do nervo tibial",
+        "B) Ruptura do músculo fibular longo",
+        "C) Lesão do nervo fibular comum (fibular profundo)",
+        "D) Compressão do nervo safeno",
+        "E) Secção do nervo obturatório"
+      ],
+      "correta": 2,
+      "explicacao": "O 'pé caído' é causado pela lesão do nervo fibular comum ou seu ramo profundo. O nervo fibular profundo inerva os músculos do compartimento anterior da perna (tibial anterior, extensor longo dos dedos), responsáveis pela dorsiflexão. A lesão é comum por trauma na cabeça da fíbula.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "pe_caido"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 50,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente relata dificuldade na eversão do tornozelo. Exames mostram diminuição da condução nervosa da inervação local. Qual nervo provavelmente está comprometido?",
+      "opcoes": [
+        "A) Nervo tibial",
+        "B) Nervo fibular profundo",
+        "C) Nervo fibular superficial",
+        "D) Nervo safeno",
+        "E) Nervo sural"
+      ],
+      "correta": 2,
+      "explicacao": "O nervo fibular superficial inerva os músculos fibulares longo e curto, responsáveis pela eversão do pé. Já o nervo fibular profundo inerva a dorsiflexão. A lesão do fibular superficial causa perda da eversão e hipoestesia no dorso do pé.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "membro_inferior",
+        "eversao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 51,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente com síndrome do túnel do carpo apresenta comprometimento motor e sensitivo. Qual dos músculos abaixo atravessa o túnel do carpo, age no polegar e é inervado pelo nervo comprometido?",
+      "opcoes": [
+        "A) Abdutor longo do polegar",
+        "B) Extensor curto do polegar",
+        "C) Flexor longo do polegar",
+        "D) Adutor do polegar",
+        "E) Extensor longo do polegar"
+      ],
+      "correta": 2,
+      "explicacao": "O flexor longo do polegar é inervado pelo nervo mediano (ramo interósseo anterior) e seu tendão passa pelo túnel do carpo. A síndrome do túnel do carpo resulta da compressão do nervo mediano, causando parestesia nos dedos 1-3 e fraqueza na oposição e flexão do polegar.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "nervos_perifericos",
+        "tunel_carpo",
+        "membro_superior"
+      ],
+      "dificuldade": 3,
+      "fonte": "AV2 BMF1 - Teórico-Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 52,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "A hérnia discal lombar se direciona posteriormente em direção ao canal medular. Qual ligamento encontramos nessa região, cuja função é auxiliar na contenção da hérnia?",
+      "opcoes": [
+        "A) Ligamento longitudinal anterior",
+        "B) Ligamento amarelo (flavo)",
+        "C) Ligamento interespinhoso",
+        "D) Ligamento longitudinal posterior",
+        "E) Ligamento supraespinhoso"
+      ],
+      "correta": 3,
+      "explicacao": "O ligamento longitudinal posterior (LLP) está localizado na face posterior dos corpos vertebrais, dentro do canal vertebral. Ele auxilia na contenção de hérnias discais posteriores. O ligamento longitudinal anterior (LLA) está na face anterior e impede a hiperextensão.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "coluna_vertebral",
+        "hernia_discal",
+        "ligamentos"
+      ],
+      "dificuldade": 2,
+      "fonte": "AV2 BMF1 - Teórico-Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 53,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente após trauma no joelho direito apresentou lesão do componente acessório que impede a anteriorização da tíbia em relação ao fêmur. Qual é a estrutura em questão?",
+      "opcoes": [
+        "A) Menisco medial",
+        "B) Bursa suprapatelar",
+        "C) Ligamento cruzado anterior",
+        "D) Ligamento colateral medial",
+        "E) Ligamento cruzado posterior"
+      ],
+      "correta": 2,
+      "explicacao": "O ligamento cruzado anterior (LCA) impede a translação anterior da tíbia sobre o fêmur. É testado pelo teste da gaveta anterior e pelo teste de Lachman. O LCA origina-se no côndilo lateral do fêmur e insere-se na área intercondiliana anterior da tíbia.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "articulacao_sinovial",
+        "joelho"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 54,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma avaliação médica revelou lesão nos componentes articulares essenciais e acessórios do joelho direito. Quais são os componentes ESSENCIAIS de qualquer articulação sinovial?",
+      "opcoes": [
+        "A) Meniscos, ligamentos e bursa sinovial",
+        "B) Cápsula articular, membrana sinovial, líquido sinovial, ligamentos e bursa",
+        "C) Superfícies articulares revestidas por cartilagem, cápsula articular e cavidade articular com líquido sinovial",
+        "D) Ligamentos cruzados, meniscos e cartilagem articular",
+        "E) Disco articular, membrana fibrosa e gordura infrapatelar"
+      ],
+      "correta": 2,
+      "explicacao": "Os componentes essenciais de uma articulação sinovial são: superfícies articulares revestidas por cartilagem hialina, cápsula articular (membrana fibrosa + membrana sinovial) e cavidade articular preenchida por líquido sinovial. Meniscos, discos, ligamentos e bursas são componentes acessórios.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "articulacao_sinovial"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 55,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu queda e estendeu o braço como proteção. O exame radiográfico evidenciou fratura de ossos do carpo. Como os ossos do carpo são classificados morfologicamente?",
+      "opcoes": [
+        "A) Ossos longos",
+        "B) Ossos curtos",
+        "C) Ossos planos (chatos)",
+        "D) Ossos irregulares",
+        "E) Ossos sesamóides"
+      ],
+      "correta": 1,
+      "explicacao": "Os ossos do carpo (escafóide, semilunar, piramidal, pisiforme, trapézio, trapezóide, capitato e hamato) são classificados como ossos curtos — suas dimensões são aproximadamente iguais nos três eixos. Ossos longos têm comprimento maior que largura (fêmur). Ossos planos são laminares (escápula).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "classificacao_ossea",
+        "fraturas"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 56,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta processo inflamatório agudo da estrutura que reveste externamente o osso. Qual é o nome da estrutura inflamada e qual é sua principal função?",
+      "opcoes": [
+        "A) Endósteo — nutrição da medula óssea",
+        "B) Periósteo — proteção, nutrição (vascularização) e crescimento ósseo em espessura",
+        "C) Cartilagem epifisária — crescimento longitudinal",
+        "D) Medula óssea — produção de células sanguíneas",
+        "E) Cápsula articular — proteção da articulação"
+      ],
+      "correta": 1,
+      "explicacao": "O periósteo é a membrana que reveste externamente os ossos (exceto nas superfícies articulares). Suas funções incluem: proteção mecânica, nutrição óssea (vascularização), crescimento em espessura (camada osteogênica) e reparo de fraturas. A periostite é a inflamação do periósteo.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "periosteo",
+        "revestimento_osseo"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 57,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente de 24 anos sofreu fratura oblíqua em espiral por queda da própria altura. Qual osso do membro inferior, classificado como longo, é mais comumente fraturado na diáfise nesse mecanismo de trauma?",
+      "opcoes": [
+        "A) Escafóide; osso curto",
+        "B) Patela; osso sesamóide",
+        "C) Tíbia; osso longo",
+        "D) Calcâneo; osso curto",
+        "E) Fíbula; osso irregular"
+      ],
+      "correta": 2,
+      "explicacao": "A tíbia é um osso longo do membro inferior, sendo o osso mais comumente fraturado. Fraturas oblíquas em espiral na diáfise ocorrem por mecanismo rotacional. A tíbia é classificada como osso longo (comprimento maior que largura) e a fratura na diáfise é a região mais frequente.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "osteologia",
+        "fraturas",
+        "classificacao_ossea"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 58,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Em uma lâmina histológica corada com HE, observa-se tecido com células cilíndricas multinucleadas com estriações transversais visíveis. O corte foi realizado no eixo longitudinal. Qual tecido e tipo de corte foram observados?",
+      "opcoes": [
+        "A) Corte transversal; tecido muscular liso",
+        "B) Corte longitudinal; tecido muscular estriado cardíaco",
+        "C) Corte longitudinal; tecido muscular estriado esquelético",
+        "D) Corte oblíquo; tecido muscular liso",
+        "E) Corte transversal; tecido conjuntivo denso"
+      ],
+      "correta": 2,
+      "explicacao": "O tecido muscular estriado esquelético apresenta fibras longas, cilíndricas, multinucleadas com núcleos periféricos e estriações transversais (bandas A e I). No corte longitudinal, as estriações são visíveis. No corte transversal, os núcleos periféricos são mais evidentes.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_muscular_estriado",
+        "corte_histologico"
+      ],
+      "dificuldade": 1,
+      "fonte": "P2 BMF1 - Avaliação Prática",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 59,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um professor ensina seu residente sobre células próprias e células residentes do tecido conjuntivo. Assinale a alternativa que contempla APENAS células residentes (próprias) do tecido conjuntivo:",
+      "opcoes": [
+        "A) Fibroblastos, macrófagos e neutrófilos",
+        "B) Fibroblastos, mastócitos e células mesenquimais",
+        "C) Neutrófilos, eosinófilos e linfócitos",
+        "D) Plasmócitos, fibroblastos e hemácias",
+        "E) Macrófagos, linfócitos e monócitos"
+      ],
+      "correta": 1,
+      "explicacao": "As células residentes (próprias) do tecido conjuntivo são aquelas que se originam e permanecem no local: fibroblastos/fibrócitos, mastócitos, células mesenquimais indiferenciadas, macrófagos (originados de monócitos que migraram) e adipócitos. Neutrófilos, eosinófilos e linfócitos são células transitórias (vindas do sangue).",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_conjuntivo",
+        "celulas_conjuntivas"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 60,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Sobre o tecido ósseo, assinale a alternativa que contempla a célula responsável pela deposição (síntese) de matriz óssea e a principal molécula que fixa o cálcio:",
+      "opcoes": [
+        "A) Osteoclasto — hidroxiapatita",
+        "B) Osteócito — fosfatase ácida",
+        "C) Osteoblasto — fosfatase alcalina (que participa da mineralização por hidroxiapatita)",
+        "D) Condroblasto — proteoglicanos",
+        "E) Fibroblasto — colágeno tipo III"
+      ],
+      "correta": 2,
+      "explicacao": "O osteoblasto é a célula responsável pela síntese e secreção da matriz orgânica óssea (osteóide). A fosfatase alcalina, produzida pelo osteoblasto, participa do processo de mineralização, criando condições para o depósito de cristais de hidroxiapatita (cálcio + fosfato) na matriz. O osteoclasto faz reabsorção óssea.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_osseo",
+        "osteoblasto",
+        "matriz_ossea"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 61,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Uma doença genética impede a síntese adequada da principal fibra que compõe a matriz orgânica óssea. Assinale a alternativa que contém a célula produtora e a fibra afetada:",
+      "opcoes": [
+        "A) Osteoclasto — fibra elástica",
+        "B) Osteócito — fibra reticular",
+        "C) Osteoblasto — fibra colágena tipo I",
+        "D) Condrócito — fibra colágena tipo II",
+        "E) Fibroblasto — fibra colágena tipo III"
+      ],
+      "correta": 2,
+      "explicacao": "A principal fibra da matriz orgânica óssea é o colágeno tipo I (90% da matriz orgânica), sintetizado pelos osteoblastos. A osteogênese imperfeita ('ossos de vidro') é causada por mutação no gene do colágeno tipo I, resultando em fragilidade óssea extrema. Colágeno tipo II é da cartilagem hialina.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_osseo",
+        "fibras_colagenas",
+        "osteogenese_imperfeita"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 62,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Observe uma lâmina histológica com coloração rósea predominante nas fibras extracelulares. A coloração rósea deve-se a qual corante?",
+      "opcoes": [
+        "A) Hematoxilina, pois cora estruturas ácidas de roxo/azul",
+        "B) Eosina, pois é um corante ácido que cora estruturas básicas (acidófilas) em rosa",
+        "C) PAS, pois cora glicoproteínas em magenta",
+        "D) Tricrômico de Masson, pois cora colágeno em azul",
+        "E) Azul de toluidina, pois é um corante metacromático"
+      ],
+      "correta": 1,
+      "explicacao": "A eosina é um corante ácido (aniônico) que cora estruturas básicas (acidófilas) em tons de rosa/vermelho. As fibras colágenas, citoplasma e proteínas são acidófilas. A hematoxilina é básica e cora estruturas ácidas (núcleo, RNA) em roxo/azul.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecnicas_histologicas",
+        "coloracao_he"
+      ],
+      "dificuldade": 1,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 63,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresentou lesão no menisco medial do joelho causando processo inflamatório. O menisco é composto por qual tipo de cartilagem?",
+      "opcoes": [
+        "A) Cartilagem hialina",
+        "B) Cartilagem elástica",
+        "C) Cartilagem fibrosa (fibrocartilagem)",
+        "D) Tecido conjuntivo denso modelado",
+        "E) Tecido ósseo compacto"
+      ],
+      "correta": 2,
+      "explicacao": "Os meniscos são compostos por fibrocartilagem (cartilagem fibrosa), que contém abundantes fibras colágenas tipo I dispostas em feixes densos. A fibrocartilagem é encontrada em regiões que suportam grandes pressões: meniscos, discos intervertebrais, sínfise púbica e inserção de tendões.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_cartilaginoso",
+        "cartilagem_hialina",
+        "menisco"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 64,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Na etapa do potencial de ação em que a célula parte de +30 mV e passa por -70 mV, ocorre:",
+      "opcoes": [
+        "A) Despolarização — abertura dos canais de Na+ voltagem-dependentes",
+        "B) Repolarização seguida de hiperpolarização — abertura tardia dos canais de K+ e fechamento dos canais de Na+",
+        "C) Período refratário absoluto — todos os canais estão inativados",
+        "D) Potencial de repouso — equilíbrio pelo gradiente de K+",
+        "E) Despolarização — ativação da bomba Na+/K+ ATPase"
+      ],
+      "correta": 1,
+      "explicacao": "A fase de +30mV até abaixo de -70mV corresponde à repolarização (retorno ao repouso) seguida de hiperpolarização (ultrapassagem do potencial de repouso). Isso ocorre pela abertura tardia dos canais de K+ voltagem-dependentes (efluxo de K+) e inativação dos canais de Na+.",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "potencial_acao",
+        "canais_ionicos",
+        "repolarizacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 65,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "O potencial de ação (PA) do neurônio segue um princípio fundamental. Analisando as alternativas, assinale a CORRETA sobre o PA:",
+      "opcoes": [
+        "A) O pico do PA varia de acordo com a intensidade do estímulo — estímulos maiores geram potenciais maiores",
+        "B) O PA segue a lei do 'tudo ou nada' — atingido o limiar, a amplitude é sempre a mesma, independente da intensidade do estímulo",
+        "C) O PA pode ser graduado, semelhante aos potenciais sinápticos",
+        "D) Quanto maior a intensidade do estímulo, maior a duração do PA",
+        "E) O PA depende apenas da concentração de cloreto extracelular"
+      ],
+      "correta": 1,
+      "explicacao": "O potencial de ação segue a lei do 'tudo ou nada': uma vez atingido o limiar de excitabilidade (aprox. -55mV), o PA dispara com amplitude máxima constante. A intensidade do estímulo é codificada pela frequência de potenciais de ação, não pela amplitude.",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "potencial_acao",
+        "lei_tudo_ou_nada"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 66,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente internado recebeu substância que causou hipocalemia (potássio plasmático abaixo do normal), hiperpolarizando a membrana. O paciente queixa-se de 'moleza'. Qual alternativa melhor explica a causa deste sintoma?",
+      "opcoes": [
+        "A) O excesso de K+ causa despolarização sustentada e paralisia",
+        "B) A hipocalemia hiperpolariza a membrana, dificultando que o neurônio atinja o limiar para disparo de potenciais de ação na placa motora",
+        "C) A falta de K+ bloqueia diretamente a liberação de acetilcolina",
+        "D) A hipocalemia aumenta a velocidade de condução do impulso nervoso",
+        "E) O K+ baixo causa aumento da contração muscular tetânica"
+      ],
+      "correta": 1,
+      "explicacao": "A hipocalemia (K+ baixo) hiperpolariza a membrana celular (potencial de repouso mais negativo, ex: -90mV ao invés de -70mV). Isso dificulta que a célula atinja o limiar de excitabilidade, reduzindo a capacidade de gerar potenciais de ação, o que resulta em fraqueza muscular ('moleza').",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "hipocalemia",
+        "placa_motora",
+        "fraqueza_muscular"
+      ],
+      "dificuldade": 3,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 67,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Jovem fisiculturista, ao treinar supino, teve distensão grau 3 no componente anatômico do músculo responsável pela contração. Qual componente foi lesionado e qual é a unidade contrátil do músculo?",
+      "opcoes": [
+        "A) Tendão; sarcômero",
+        "B) Ventre muscular (fibras musculares); sarcômero",
+        "C) Fáscia muscular; miofibrila",
+        "D) Aponeurose; fascículo",
+        "E) Epimísio; actina"
+      ],
+      "correta": 1,
+      "explicacao": "O ventre muscular (composto por fibras musculares) é o componente responsável pela contração. A distensão grau 3 é a ruptura completa das fibras. O sarcômero é a unidade contrátil do músculo estriado esquelético, delimitado por duas linhas Z, contendo filamentos de actina (finos) e miosina (grossos).",
+      "tema": "Biofísica Celular e Neuromuscular",
+      "subfocos": [
+        "contracao_muscular",
+        "sarcomero",
+        "actina_miosina"
+      ],
+      "dificuldade": 2,
+      "fonte": "P2 BMF1 - Avaliação Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 68,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Na imagem anatômica, a seta amarela superior aponta para um acidente ósseo do cotovelo e a seta inferior para o osso correspondente. Assinale a alternativa que identifica corretamente o acidente ósseo e o osso:",
+      "opcoes": [
+        "A) Epidôndilo medial e o osso é a ulna",
+        "B) Epicôndilo medial e o osso é o rádio",
+        "C) Epicôndilo lateral e o osso é o rádio",
+        "D) Epicôndilo medial e o osso é o úmero",
+        "E) Olécrano e o osso é a ulna"
+      ],
+      "correta": 3,
+      "explicacao": "O epicôndilo medial (epitróclea) e o epicôndilo lateral são acidentes ósseos da extremidade distal do úmero. O epicôndilo medial é ponto de origem dos músculos flexores do antebraço; o lateral, dos extensores. Ambos pertencem ao úmero, não à ulna ou ao rádio.",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "acidentes_osseos",
+        "epicondilo",
+        "membro_superior"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 69,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu luxação acromioclavicular e um ligamento presente nessa articulação foi lesionado. A seta na imagem indica o local do ligamento. Assinale o nome do ligamento em questão:",
+      "opcoes": [
+        "A) Ligamento conóide",
+        "B) Ligamento coracoacromial",
+        "C) Ligamento acromioclavicular",
+        "D) Ligamento coracoclavicular",
+        "E) Ligamento glenoumeral superior"
+      ],
+      "correta": 2,
+      "explicacao": "O ligamento acromioclavicular conecta o acrômio à clavícula e estabiliza a articulação acromioclavicular. Na luxação AC, este ligamento é o primeiro a ser lesionado (grau I). Os ligamentos coracoclaviculares (conóide e trapezóide) são lesionados em graus mais elevados (III-V).",
+      "tema": "Anatomia do Sistema Locomotor",
+      "subfocos": [
+        "artrologia",
+        "ligamentos",
+        "ombro"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 70,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Médico aplica ácido hialurônico intra-articular e explica que tem benefícios para os elementos da articulação. Assinale a alternativa que explica corretamente esses benefícios:",
+      "opcoes": [
+        "A) O ácido hialurônico tem propriedades antiinflamatórias que diminuem o edema local",
+        "B) O ácido hialurônico aumenta a viscosidade do líquido sinovial, melhorando a lubrificação e absorção de impacto articular",
+        "C) O ácido hialurônico se converte em colágeno tipo II na cartilagem",
+        "D) O ácido hialurônico tem propriedades adesivas que mantêm a cartilagem firme",
+        "E) O ácido hialurônico substitui as células da cartilagem danificada"
+      ],
+      "correta": 1,
+      "explicacao": "O ácido hialurônico é um glicosaminoglicano (GAG) que aumenta a viscosidade e propriedades viscoelásticas do líquido sinovial, melhorando a lubrificação articular e a absorção de impacto. É o principal componente da matriz extracelular do líquido sinovial.",
+      "tema": "Histologia dos Tecidos de Suporte",
+      "subfocos": [
+        "tecido_conjuntivo",
+        "acido_hialuronico"
+      ],
+      "dificuldade": 2,
+      "fonte": "P1 BMF1 - Prova Teórica",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 71,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante uma corrida matinal na orla, um jovem encontra um senhor caído sem movimentos. Após confirmar parada cardiorrespiratória (PCR), qual deve ser a primeira ação do socorrista leigo segundo o BLS (Suporte Básico de Vida)?",
+      "opcoes": [
+        "A) Iniciar ventilação boca-a-boca imediatamente",
+        "B) Checar pulso carotídeo por 30 segundos antes de qualquer ação",
+        "C) Ligar para o SAMU (192) ou solicitar que alguém ligue, e iniciar compressões torácicas de alta qualidade",
+        "D) Aguardar a chegada do SAMU para iniciar o atendimento",
+        "E) Colocar a vítima em decúbito lateral de segurança"
+      ],
+      "correta": 2,
+      "explicacao": "No BLS, após confirmar que a vítima não responde e não respira normalmente: (1) Acionar serviço de emergência (192/193), (2) Solicitar DEA, (3) Iniciar compressões torácicas (100-120/min, 5-6cm de profundidade). A checagem de pulso é feita em até 10 segundos (não 30).",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "pcr",
+        "rcp",
+        "dea",
+        "bls"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 72,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante uma PCR, o DEA (Desfibrilador Externo Automático) é instalado e ao analisar o ritmo cardíaco sinaliza que o choque NÃO é recomendado. Qual a conduta a ser tomada nesse momento?",
+      "opcoes": [
+        "A) Interromper a RCP e aguardar o SAMU",
+        "B) Reiniciar compressões torácicas imediatamente por 2 minutos e reavaliar",
+        "C) Desligar o DEA e colocar a vítima em posição lateral de segurança",
+        "D) Verificar pulso e, se ausente, administrar adrenalina IM",
+        "E) Realizar apenas ventilação assistida sem compressões"
+      ],
+      "correta": 1,
+      "explicacao": "Quando o DEA indica 'choque não recomendado', significa que o ritmo é assistolia ou AESP (ritmos não chocáveis). A conduta é reiniciar RCP imediatamente (ciclos de 30:2) por 2 minutos até nova análise do DEA. NÃO se interrompe a RCP.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "dea",
+        "pcr",
+        "ritmo_nao_chocavel"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 73,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Uma pessoa em um restaurante apresenta obstrução total de vias aéreas por alimento (engasgo). Qual manobra de primeiros socorros deve ser aplicada para desobstruir as vias aéreas?",
+      "opcoes": [
+        "A) Manobra de Sellick",
+        "B) Manobra de Heimlich (compressões abdominais subdiafragmáticas)",
+        "C) Manobra de Valsalva",
+        "D) Manobra de jaw thrust",
+        "E) Manobra de chin lift"
+      ],
+      "correta": 1,
+      "explicacao": "A manobra de Heimlich consiste em compressões abdominais subdiafragmáticas para criar pressão positiva nas vias aéreas e expulsar o corpo estranho. Em gestantes e obesos, utilizam-se compressões torácicas. Em lactentes, alternância de 5 tapas dorsais com 5 compressões torácicas.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "obstrucao_vias_aereas",
+        "heimlich",
+        "engasgo"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 74,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Em um desastre em massa, uma vítima encontra-se desacordada, soterrada por 3 horas, com fratura exposta e perda de sangue em membro inferior. Na triagem pelo método START, esta paciente é classificada como:",
+      "opcoes": [
+        "A) Verde — pode aguardar atendimento (ferimento leve)",
+        "B) Amarelo — prioridade intermediária",
+        "C) Vermelho — prioridade imediata (imediato)",
+        "D) Preto — expectante ou óbito",
+        "E) Branco — sem lesões"
+      ],
+      "correta": 2,
+      "explicacao": "No método START, pacientes desacordados com sangramento ativo e fraturas expostas são classificados como VERMELHO (prioridade imediata). Avaliam-se: deambulação, respiração, circulação (pulso/enchimento capilar) e status neurológico. Desacordada + hemorragia = vermelha.",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "triagem",
+        "start",
+        "desastre_massa"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 75,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente sofreu queimadura classificada como de 2º grau na porção anterior do membro superior direito e tronco anterior. A queimadura de 2º grau atinge quais camadas da pele?",
+      "opcoes": [
+        "A) Apenas a epiderme",
+        "B) Epiderme e parte da derme (com formação de bolhas/flictenas)",
+        "C) Apenas a derme",
+        "D) Epiderme, derme e tecido subcutâneo",
+        "E) Todas as camadas até o tecido muscular"
+      ],
+      "correta": 1,
+      "explicacao": "A queimadura de 2º grau (espessura parcial) atinge epiderme e parte da derme. Caracteriza-se por bolhas (flictenas), dor intensa e hiperemia. A de 1º grau atinge apenas epiderme (eritema). A de 3º grau atinge epiderme, derme completa e tecido subcutâneo (indolor, escaras).",
+      "tema": "Primeiros Socorros e Emergências",
+      "subfocos": [
+        "queimaduras",
+        "classificacao",
+        "graus"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 76,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente apresenta temperatura axilar de 36,5°C, PA de 110x80 mmHg e FC de 112 bpm. Como você classifica os sinais vitais deste paciente?",
+      "opcoes": [
+        "A) Febril, hipertenso e taquicárdico",
+        "B) Afebril, normotenso e taquicárdico",
+        "C) Febril, hipotenso e normocárdico",
+        "D) Afebril, hipertenso e bradicárdico",
+        "E) Afebril, normotenso e normocárdico"
+      ],
+      "correta": 1,
+      "explicacao": "Temperatura de 36,5°C é afebril (febre ≥37,8°C). PA de 110x80 mmHg é normal. FC de 112 bpm é taquicardia (normal: 60-100 bpm). Bradicardia é FC <60 bpm. Portanto: afebril, normotenso, taquicárdico.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "fc",
+        "taquicardia",
+        "bradicardia",
+        "sinais_vitais"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 77,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Antes de aferir a pressão arterial de um paciente, é necessário observar certos cuidados. Qual das afirmativas está CORRETA sobre a técnica de aferição?",
+      "opcoes": [
+        "A) O paciente pode ter ingerido café ou fumado imediatamente antes, sem interferência",
+        "B) Deve-se certificar que o paciente não está com bexiga cheia e que não ingeriu cafeína nos últimos 30 minutos",
+        "C) A posição do manguito não interfere nos valores da PA",
+        "D) A PA deve ser aferida apenas com o paciente em decúbito dorsal",
+        "E) O manguito deve ser colocado sobre a roupa para maior conforto"
+      ],
+      "correta": 1,
+      "explicacao": "Para aferição correta da PA: paciente deve estar sentado, com braço apoiado na altura do coração, bexiga vazia, sem ter fumado ou ingerido cafeína nos últimos 30 min. A cafeína estimula o sistema nervoso simpático, elevando artificialmente a PA.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "pa",
+        "aferir_pressao",
+        "cuidados_pa"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 78,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Na prática da Semiologia Médica, qual afirmativa melhor diferencia sinais de sintomas?",
+      "opcoes": [
+        "A) Sinais são subjetivos e relatados pelo paciente; sintomas são objetivos e detectados pelo médico",
+        "B) Sinais são achados objetivos detectáveis pelo médico ao exame; sintomas são manifestações subjetivas percebidas e relatadas pelo paciente",
+        "C) Ambos são sinônimos — não há diferença prática entre sinal e sintoma",
+        "D) Sinais só podem ser detectados por exames laboratoriais; sintomas por exame físico",
+        "E) Sinais são irrelevantes para a formulação de hipóteses diagnósticas"
+      ],
+      "correta": 1,
+      "explicacao": "Sinais são achados objetivos identificados pelo exame (febre, edema, sopro, crepitação). Sintomas são manifestações subjetivas relatadas pelo paciente (dor, tontura, náusea, prurido). A semiologia integra ambos para construir o raciocínio diagnóstico.",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "sinais_sintomas",
+        "semiologia_basica"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 79,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente vítima de trauma cranioencefálico apresenta abertura ocular à dor, resposta verbal com sons incompreensíveis e resposta motora de retirada. Qual o escore na Escala de Coma de Glasgow?",
+      "opcoes": [
+        "A) GCS = 6 (Abrir olhos: 1 + Verbal: 2 + Motor: 3)",
+        "B) GCS = 8 (Abrir olhos: 2 + Verbal: 2 + Motor: 4)",
+        "C) GCS = 9 (Abrir olhos: 2 + Verbal: 3 + Motor: 4)",
+        "D) GCS = 10 (Abrir olhos: 3 + Verbal: 3 + Motor: 4)",
+        "E) GCS = 12 (Abrir olhos: 3 + Verbal: 4 + Motor: 5)"
+      ],
+      "correta": 1,
+      "explicacao": "Escala de Glasgow: Abertura ocular à dor = 2; Resposta verbal com sons incompreensíveis = 2; Resposta motora de retirada = 4. Total = 8. GCS ≤8 indica necessidade de proteção de via aérea (IOT). Mínimo = 3 (sem resposta). Máximo = 15 (normal).",
+      "tema": "Sinais Vitais e Exame Físico",
+      "subfocos": [
+        "glasgow",
+        "nivel_consciencia"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 80,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Os 5 momentos para higienização das mãos são reconhecidos mundialmente pela OMS e adotados pela ANVISA. Três deles são: (1) antes do contato com o paciente, (2) antes da realização de procedimento, (3) após exposição a fluidos corporais. Quais são o 4° e o 5° momento?",
+      "opcoes": [
+        "A) Antes de calçar luvas e após tirar a máscara",
+        "B) Após contato com o paciente e após contato com superfícies próximas ao paciente",
+        "C) Antes de preparar medicações e após término do plantão",
+        "D) Após refeições e antes de entrar no ambiente hospitalar",
+        "E) Antes de registrar no prontuário e após usar o banheiro"
+      ],
+      "correta": 1,
+      "explicacao": "Os 5 momentos OMS/ANVISA: (1) Antes do contato com paciente, (2) Antes de procedimento asséptico, (3) Após risco de exposição a fluidos corporais, (4) Após contato com o paciente, (5) Após contato com as superfícies próximas ao paciente.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "higiene_maos",
+        "cinco_momentos",
+        "anvisa"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 81,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "A Política Nacional de Segurança do Paciente (PNSP) definiu protocolos básicos de segurança. Quais representam dois desses protocolos?",
+      "opcoes": [
+        "A) Identificação do paciente e prevenção de quedas",
+        "B) Maximização do lucro hospitalar e redução de leitos",
+        "C) Controle de orçamento e auditoria financeira",
+        "D) Padronização de cardápio e decoração de quartos",
+        "E) Seleção de fornecedores e compra de equipamentos"
+      ],
+      "correta": 0,
+      "explicacao": "Os 6 protocolos da PNSP são: (1) Identificação do paciente, (2) Segurança na prescrição e uso de medicamentos, (3) Cirurgia segura, (4) Prática de higiene das mãos, (5) Prevenção de quedas, (6) Prevenção de úlceras por pressão. Todos visam reduzir incidentes em serviços de saúde.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "pnsp",
+        "seguranca_paciente",
+        "protocolo"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 82,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Durante treinamento, um técnico de enfermagem realizou as duas técnicas de higienização das mãos. Qual é a duração correta de cada técnica?",
+      "opcoes": [
+        "A) Água e sabão: 40-60 segundos; Preparação alcoólica: 20-30 segundos",
+        "B) Água e sabão: 20-30 segundos; Preparação alcoólica: 40-60 segundos",
+        "C) Ambas devem durar exatamente 15 segundos",
+        "D) Água e sabão: 10 segundos; Preparação alcoólica: 5 segundos",
+        "E) Não há tempo recomendado, depende da preferência do profissional"
+      ],
+      "correta": 0,
+      "explicacao": "Segundo ANVISA/OMS: higienização com água e sabonete deve durar 40-60 segundos; fricção antisséptica com preparação alcoólica deve durar 20-30 segundos. A técnica inclui todas as superfícies das mãos, entre os dedos e unhas.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "higiene_maos",
+        "tecnica_lavagem"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 83,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com suspeita de meningite bacteriana necessita de punção lombar para coleta de líquido cefalorraquidiano. Quais EPIs devem fazer parte da paramentação do profissional de saúde?",
+      "opcoes": [
+        "A) Apenas luvas de procedimento",
+        "B) Luvas estéreis, máscara cirúrgica, avental descartável e óculos de proteção",
+        "C) Somente avental e máscara N95",
+        "D) Apenas luvas e propés",
+        "E) Nenhum EPI é necessário para esse procedimento"
+      ],
+      "correta": 1,
+      "explicacao": "A punção lombar é procedimento invasivo com risco de exposição a fluidos corporais. Exige: luvas estéreis, máscara cirúrgica, avental descartável e óculos de proteção. A NR-32 regulamenta segurança em serviços de saúde, incluindo uso de EPIs.",
+      "tema": "Biossegurança e Segurança do Paciente",
+      "subfocos": [
+        "epi",
+        "paramentacao",
+        "nr32"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 84,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Aluno do 1° semestre de Medicina inicia aulas práticas de anatomia com cadáver. De acordo com o Código de Ética do Estudante de Medicina, qual artigo se aplica a essa situação?",
+      "opcoes": [
+        "A) Art. 5 — É vedado ao estudante fotografar ou filmar cadáveres para fins pessoais",
+        "B) Art. 12 — O estudante deve tratar o cadáver com respeito e dignidade como parte essencial de sua formação",
+        "C) Art. 17 — Cabe ao estudante denunciar conduta antiética e preconceituosa de acadêmicos e docentes",
+        "D) Art. 3 — O estudante deve manter sigilo sobre informações do cadáver",
+        "E) Art. 8 — O estudante pode recusar atividades práticas com cadáver por objeção de consciência"
+      ],
+      "correta": 1,
+      "explicacao": "O Código de Ética do Estudante de Medicina estabelece que o cadáver deve ser tratado com respeito e dignidade. É vedado qualquer tipo de desrespeito, fotografia não autorizada ou conduta inadequada durante as aulas de anatomia.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "codigo_etica",
+        "estudante_medicina",
+        "cadaver"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 85,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Médico em plantão deixa de atender um paciente grave alegando estar em trânsito após viagem pessoal. Qual artigo do Código de Ética Médica se correlaciona com essa situação?",
+      "opcoes": [
+        "A) Art. 1 — É vedado ao médico causar dano ao paciente por ação ou omissão, comprometendo a beneficência e não-maleficência",
+        "B) Art. 15 — O médico pode escolher quais pacientes atender conforme conveniência",
+        "C) Art. 20 — O médico tem direito a recusar atendimento desde que comunique ao hospital",
+        "D) Art. 30 — A presença física do médico não é obrigatória durante o plantão",
+        "E) Art. 5 — O médico pode delegar todo atendimento ao residente"
+      ],
+      "correta": 0,
+      "explicacao": "O CEM (Capítulo III, Art. 1) estabelece que é vedado causar dano ao paciente por ação ou OMISSÃO. O médico em plantão tem obrigação de estar disponível. A recusa de atendimento configura omissão de socorro, violando princípios de beneficência e não-maleficência.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "codigo_etica_medica",
+        "responsabilidade",
+        "omissao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 86,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com doença avançada e sem possibilidade de cura. De acordo com o CEM e o princípio da integralidade do SUS, a conduta do médico responsável deve ser:",
+      "opcoes": [
+        "A) Retirar todas as medidas terapêuticas e dar alta para que o paciente fique com a família",
+        "B) Manter tratamento agressivo e invasivo a qualquer custo, buscando a cura",
+        "C) Oferecer cuidados paliativos, garantindo alívio do sofrimento, conforto e dignidade no processo de morrer",
+        "D) Transferir para outro serviço imediatamente",
+        "E) Suspender hidratação e alimentação sem consultar o paciente ou família"
+      ],
+      "correta": 2,
+      "explicacao": "O CEM e a Resolução CFM 1.805/2006 permitem a ortotanásia: suspensão de tratamentos fúteis em pacientes terminais, mantendo cuidados paliativos (controle de dor, conforto, dignidade). A integralidade do SUS inclui cuidados paliativos como direito do paciente.",
+      "tema": "Ética Médica e Código de Ética",
+      "subfocos": [
+        "cuidados_paliativos",
+        "ortotanasia",
+        "fim_de_vida"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P1 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 87,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente submetido a prostatectomia permaneceu com sondagem para irrigação vesical contínua. Esse tipo de sondagem utiliza qual dispositivo?",
+      "opcoes": [
+        "A) Sonda nasogástrica (Levine)",
+        "B) Sonda vesical de demora com irrigação (3 vias / Foley tríplice lúmen)",
+        "C) Sonda endotraqueal",
+        "D) Dreno de Penrose",
+        "E) Cateter venoso central"
+      ],
+      "correta": 1,
+      "explicacao": "A sonda vesical de demora de 3 vias (Foley tríplice lúmen) permite: drenagem da urina, inflação do balão e irrigação contínua. É utilizada pós-prostatectomia para eliminar coágulos e manter a permeabilidade da via urinária.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sondagem",
+        "sonda_vesical",
+        "iot"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 88,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com apendicite e vômitos recorrentes necessita de analgesia. Qual via de administração é mais adequada nesse caso e por quê?",
+      "opcoes": [
+        "A) Via oral — é sempre a via preferencial",
+        "B) Via intramuscular ou endovenosa — pois o vômito impede absorção oral adequada",
+        "C) Via retal — é a única alternativa ao vômito",
+        "D) Via sublingual — absorção mais rápida",
+        "E) Via intranasal — não é afetada pelo vômito"
+      ],
+      "correta": 1,
+      "explicacao": "Em pacientes com vômitos, a via oral é contraindicada (perda do medicamento). As vias parenterais (IM ou EV) garantem absorção completa. A via EV permite início de ação mais rápido; a via IM é alternativa quando o acesso venoso não está disponível.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "via_administracao",
+        "im",
+        "medicamentos"
+      ],
+      "dificuldade": 1,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 89,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Paciente com laceração facial necessita de sutura estética. Qual tipo de fio de sutura é mais indicado para resultado cosmético adequado nessa região?",
+      "opcoes": [
+        "A) Fio multifilamentar absorvível grosso (catgut cromado 2-0)",
+        "B) Fio monofilamentar não absorvível fino (nylon 5-0 ou 6-0)",
+        "C) Fio de aço inoxidável",
+        "D) Fio multifilamentar não absorvível grosso (seda 2-0)",
+        "E) Grampo metálico (agrafe)"
+      ],
+      "correta": 1,
+      "explicacao": "Para suturas estéticas (face), utiliza-se fio monofilamentar não absorvível fino (nylon 5-0 ou 6-0). Monofilamentares causam menor reação tecidual; fios finos deixam menos marcas. Fios multifilamentares acumulam bactérias nos interstícios e são evitados em áreas expostas.",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sutura",
+        "fios_cirurgicos",
+        "cicatrizacao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 90,
+      "materia": "sus",
+      "categoria": "inedita",
+      "enunciado": "Um paciente necessita de nutrição enteral por impossibilidade de alimentação oral. A sonda nasoenteral percorre as cavidades nasal, esôfago, estômago e intestino delgado. Sobre essa sonda, é correto afirmar:",
+      "opcoes": [
+        "A) Seu posicionamento não requer confirmação radiológica",
+        "B) É a via mais segura e menos traumática para administração de dietas, hidratação e medicação em pacientes que não podem se alimentar por via oral",
+        "C) Deve ser inserida exclusivamente por médicos",
+        "D) Não permite administração de medicamentos, apenas dieta",
+        "E) A sonda nasoenteral substitui permanentemente a alimentação oral"
+      ],
+      "correta": 1,
+      "explicacao": "A sonda nasoenteral (SNE) fornece via segura e menos traumática para dietas, hidratação e medicação em pacientes com impossibilidade de alimentação oral. Seu posicionamento DEVE ser confirmado por radiografia para evitar complicações (inserção pulmonar).",
+      "tema": "Procedimentos Básicos em Saúde",
+      "subfocos": [
+        "sondagem",
+        "sonda_nasoenteral",
+        "nutricao"
+      ],
+      "dificuldade": 2,
+      "fonte": "PROVA P2 - Introdução às Práticas de Saúde",
+      "ano": 2024,
+      "modulo": 1
+    },
+    {
+      "id": 91,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma enzima apresenta Km de 0,5 mM para seu substrato. Ao adicionar um inibidor competitivo, o Km aparente sobe para 2 mM enquanto a Vmax permanece inalterada. O que ocorre quando a concentração de substrato é aumentada progressivamente na presença desse inibidor?",
+      "opcoes": [
+        "A) A inibição se torna permanente e irreversível",
+        "B) A atividade enzimática permanece zero independentemente da concentração de substrato",
+        "C) O substrato compete pelo sítio ativo e, em altas concentrações, supera a inibição restaurando a atividade máxima",
+        "D) O inibidor é degradado pelo substrato",
+        "E) A Vmax diminui proporcionalmente ao aumento do substrato"
+      ],
+      "correta": 2,
+      "explicacao": "Na inibição competitiva, o inibidor ocupa o mesmo sítio ativo que o substrato. Como essa ligação é reversível, excesso de substrato desloca o inibidor por competição de massa, restaurando a Vmax original. Por isso o Km aparente aumenta (maior [S] necessário para atingir 50% Vmax), mas a Vmax não muda.",
+      "tema": "bcm1_enzimas_cinetica",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 92,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com escorbuto apresenta feridas que não cicatrizam, sangramento gengival e equimoses. A deficiência de vitamina C compromete qual etapa específica da biossíntese de colágeno?",
+      "opcoes": [
+        "A) Síntese de glicina no ribossomo",
+        "B) Hidroxilação de resíduos de prolina e lisina pela prolil e lisil-hidroxilase",
+        "C) Clivagem do propeptídeo extracelular",
+        "D) Formação das fibras de colágeno no espaço intersticial",
+        "E) Transporte do procolágeno pelo complexo de Golgi"
+      ],
+      "correta": 1,
+      "explicacao": "A vitamina C (ácido ascórbico) é cofator essencial das enzimas prolil-hidroxilase e lisil-hidroxilase. Sem hidroxilação adequada de prolina e lisina, as cadeias de tropocolágeno não formam a tripla hélice estável. O resultado é colágeno fraco, levando às manifestações clínicas do escorbuto.",
+      "tema": "bcm1_vitaminas",
+      "dificuldade": 2,
+      "modulo": 2
+    },
+    {
+      "id": 93,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Um paciente com gota crônica em uso de alopurinol apresenta redução significativa do ácido úrico sérico. O alopurinol atua como análogo estrutural de qual substrato, inibindo qual enzima?",
+      "opcoes": [
+        "A) Análogo de adenosina; inibe adenosina desaminase",
+        "B) Análogo de hipoxantina; inibe xantina oxidase de forma competitiva e irreversível (suicídio enzimático)",
+        "C) Análogo de guanina; inibe HGPRT",
+        "D) Análogo de uracila; inibe timidilato sintase",
+        "E) Análogo de xantina; inibe purina nucleosídeo fosforilase"
+      ],
+      "correta": 1,
+      "explicacao": "O alopurinol é análogo estrutural de hipoxantina. É oxidado pela própria xantina oxidase a aloxantina (oxipurinol), que inibe irreversivelmente a enzima (mecanismo suicídio). Bloqueia a conversão hipoxantina→xantina→ácido úrico, reduzindo hiperuricemia.",
+      "tema": "bcm1_nucleotideos",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 94,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "O 2,4-dinitrofenol (DNP) foi usado ilegalmente como emagrecedor e causa mortes por hipertermia. Qual é o mecanismo bioquímico responsável pelo aumento de temperatura?",
+      "opcoes": [
+        "A) Inibe a ATP sintase diretamente, acumulando prótons que liberam calor",
+        "B) Bloqueia a cadeia transportadora de elétrons no complexo III",
+        "C) Transporta prótons pela membrana mitocondrial interna dissipando o gradiente eletroquímico como calor em vez de ATP",
+        "D) Ativa a glicólise anaeróbia produzindo lactato e calor",
+        "E) Inibe o transportador de ADP/ATP da membrana interna"
+      ],
+      "correta": 2,
+      "explicacao": "O DNP é um desacoplador: como ácido fraco lipofílico, carreia prótons (H⁺) de volta ao interior mitocondrial sem passar pela ATP sintase. O gradiente de prótons criado pela cadeia respiratória é dissipado como calor. A célula compensa aumentando a oxidação de combustíveis, gerando hipertermia fatal.",
+      "tema": "bcm1_fosforilacao",
+      "dificuldade": 3,
+      "modulo": 2
+    },
+    {
+      "id": 95,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Uma hemácia mantém K⁺ intracelular ~140 mEq/L contra ~4 mEq/L no plasma, e Na⁺ intracelular baixo, ao contrário do plasma. Qual mecanismo mantém esse gradiente iônico?",
+      "opcoes": [
+        "A) Difusão facilitada por aquaporinas",
+        "B) Osmose passiva pelo gradiente de pressão oncótica",
+        "C) Bomba Na⁺/K⁺-ATPase que consome ATP para exportar 3 Na⁺ e importar 2 K⁺ por ciclo",
+        "D) Canal iônico voltagem-dependente de K⁺",
+        "E) Co-transportador NKCC2"
+      ],
+      "correta": 2,
+      "explicacao": "A bomba Na⁺/K⁺-ATPase hidrolisa uma molécula de ATP por ciclo para exportar 3 Na⁺ e importar 2 K⁺, contra seus gradientes eletroquímicos. É transporte ativo primário que mantém o potencial de membrana e o volume celular, consumindo ~30% do ATP celular em repouso.",
+      "tema": "bcm1_membrana",
+      "dificuldade": 1,
+      "modulo": 2
+    },
+    {
+      "id": 96,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Durante reação alérgica aguda, mastócitos do tecido conjuntivo dérmico liberam histamina em resposta à ligação de IgE ao receptor FcεRI. Qual é a consequência imediata dessa degranulação no tecido local?",
+      "opcoes": [
+        "A) Vasoconstrição e redução da permeabilidade capilar",
+        "B) Vasodilatação e aumento da permeabilidade vascular, causando edema e eritema",
+        "C) Ativação de fibroblastos com deposição de colágeno",
+        "D) Recrutamento de linfócitos T citotóxicos",
+        "E) Inibição da fagocitose por macrófagos residentes"
+      ],
+      "correta": 1,
+      "explicacao": "Os mastócitos armazenam histamina em grânulos. Sua liberação provoca vasodilatação (rubor, calor) e aumento da permeabilidade vascular (edema). A histamina age em receptores H1 do endotélio, permitindo extravasamento de plasma — base fisiopatológica da urticária e angioedema.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 97,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Após cirurgia abdominal, paciente desenvolve cicatriz hipertrófica com excesso de colágeno. Qual célula do tecido conjuntivo é a principal responsável pela produção excessiva de colágeno nessa cicatriz?",
+      "opcoes": [
+        "A) Mastócito",
+        "B) Macrófago M2",
+        "C) Miofibroblasto (fibroblasto ativado por TGF-β)",
+        "D) Plasmócito",
+        "E) Eosinófilo"
+      ],
+      "correta": 2,
+      "explicacao": "Na cicatrização, fibroblastos são ativados por TGF-β a se diferenciar em miofibroblastos. Essas células sintetizam grandes quantidades de colágeno tipo I e III e contraem a ferida. Quando a ativação persiste além do necessário, ocorre fibrose excessiva: cicatriz hipertrófica ou queloide.",
+      "tema": "bmf1_tec_conjuntivo",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 98,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "Um atleta sofre lesão no menisco do joelho. O cirurgião explica que a recuperação será lenta porque o menisco é formado por fibrocartilagem. Qual característica histológica explica sua baixa capacidade regenerativa?",
+      "opcoes": [
+        "A) Ausência de condrócitos e presença exclusiva de fibroblastos",
+        "B) Rica vascularização que impede a difusão de nutrientes",
+        "C) É avascular e com poucos condrócitos em lacunas, dependendo de difusão lenta para nutrição",
+        "D) Presença de canais de Havers que limitam a migração celular",
+        "E) Alto teor de proteoglicanos que inibe mitose dos condrócitos"
+      ],
+      "correta": 2,
+      "explicacao": "A fibrocartilagem (meniscos, discos intervertebrais, sínfise púbica) é avascular — recebe nutrição por difusão a partir do líquido sinovial ou vasos periféricos. Tem poucos condrócitos dispersos em lacunas entre feixes de colágeno tipo I. Sem suprimento vascular direto, a regeneração é extremamente limitada.",
+      "tema": "bmf1_tec_cartilaginems",
+      "dificuldade": 2,
+      "modulo": 1
+    },
+    {
+      "id": 99,
+      "materia": "bmf1",
+      "categoria": "inedita",
+      "enunciado": "DXA de paciente de 70 anos mostra T-score de -2,8 com reativação de unidades multicelulares básicas (BMUs). Quais células formam o BMU e qual é a sequência correta do remodelamento ósseo?",
+      "opcoes": [
+        "A) Osteócitos → osteoblastos, sem reabsorção prévia",
+        "B) Osteoclastos (reabsorção) → osteoblastos (formação) — sequência ARF: Ativação-Reabsorção-Formação",
+        "C) Osteoblastos (formação) → osteoclastos (reabsorção) — sequência invertida",
+        "D) Apenas osteócitos que sinalizam apoptose sem remodelamento",
+        "E) Macrófagos → condrócitos → osteoblastos"
+      ],
+      "correta": 1,
+      "explicacao": "O remodelamento ósseo segue a sequência ARF: Ativação (sinalização por osteócitos/RANKL) → Reabsorção (osteoclastos cavam a lacuna de Howship) → Formação (osteoblastos preenchem com osteoide que mineraliza). Na osteoporose, reabsorção supera formação. T-score ≤ -2,5 define osteoporose.",
+      "tema": "bmf1_tec_osseo",
+      "dificuldade": 3,
+      "modulo": 1
+    },
+    {
+      "id": 100,
+      "materia": "bcm1",
+      "categoria": "inedita",
+      "enunciado": "Paciente de 45 anos em uso crônico de corticoides para lúpus desenvolve fraqueza muscular proximal e enzimas musculares elevadas. Biópsia mostra atrofia de fibras tipo II. Qual mecanismo bioquímico explica a miopatia induzida por corticoides?",
+      "opcoes": [
+        "A) Inibição da fosforilação oxidativa mitocondrial",
+        "B) Ativação do sistema ubiquitina-proteassoma via atrogenes (MuRF1/atrogina-1), causando proteólise muscular",
+        "C) Bloqueio da síntese de glicogênio muscular",
+        "D) Inibição da recaptação de cálcio pelo retículo sarcoplasmático",
+        "E) Deficiência de carnitina por inibição do transporte mitocondrial"
+      ],
+      "correta": 1,
+      "explicacao": "Glicocorticoides upregulam atrogenes (MuRF1 e atrogina-1/MAFbx) que codificam ubiquitina ligases. Essas enzimas marcam proteínas musculares para degradação pelo proteassoma. As fibras tipo II (glicolíticas, rápidas) são preferencialmente afetadas, causando fraqueza proximal — clássica miopatia esteroidal.",
+      "tema": "bcm1_aminoacidos",
+      "dificuldade": 3,
+      "modulo": 2
+    }
+  ]
+}

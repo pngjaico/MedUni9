@@ -4,7 +4,7 @@
 
 Os distúrbios da diferenciação sexual (DDS) — antes chamados de "intersexo" ou "hermafroditismo" — abrangem condições em que o desenvolvimento cromossômico, gonadal ou anatômico do sexo não segue o padrão usual. São situações que desafiam o médico a integrar genética, embriologia, endocrinologia e ética clínica. Com prevalência estimada em 1:4.000 a 1:5.000 nascidos vivos (para os casos clinicamente relevantes), o tema aparece tanto em provas de biologia celular quanto em ginecologia, urologia e pediatria.
 
-A **Uninove** costuma cobrar os mecanismos moleculares básicos da diferenciação sexual normal (gene SRY, testosterona, hormônio anti-mülleriano), bem como três condições clássicas: síndrome de insensibilidade aos andrógenos, hiperplasia congênita das suprarrenais e síndrome de Turner. O entendimento preciso de cada um evita erros frequentes sobre fenótipo vs. cariótipo.
+A Uninove costuma cobrar os mecanismos moleculares básicos da diferenciação sexual normal (gene SRY, testosterona, hormônio anti-mülleriano), bem como três condições clássicas: síndrome de insensibilidade aos andrógenos, hiperplasia congênita das suprarrenais e síndrome de Turner. O entendimento preciso de cada um evita erros frequentes sobre fenótipo vs. cariótipo.
 
 ### Figura sugerida
 
@@ -168,17 +168,17 @@ Sem 21-OH → cortisol ↓ → ACTH ↑ (feedback negativo ausente) → hiperpla
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-SRY em Yp → TDF → SOX9 → testículo; sem SRY → ovário. Testosterona → ductos de Wolff; DHT → genitália externa masc.; AMH → regride Müller. CAIS: 46,XY, AR disfuncional, fenótipo feminino, SEM útero (AMH funcionou), SEM pelos, amenorreia primária.
-
-HCA def. 21-OH: AR, 17OH-P elevada; virilização XX; perdedora de sal = hipoNa + hiperK no RN. Def. 5α-redutase: 46,XY, nasce feminino, viriliza na puberdade. Swyer 46,XY: estria gonadal, fenótipo feminino, útero presente (sem AMH) → gonadoblastoma.
-
-Sem gônada → fenótipo feminino (sem T e sem AMH). Diagnóstico DDS RN: 17OH-P + cariótipo + eletrólitos urgente.
+- **SRY em Yp → TDF → SOX9 → testículo;** sem SRY → ovário
+- **Testosterona → ductos de Wolff; DHT → genitália externa masc.; AMH → regride Müller**
+- **CAIS:** 46,XY, AR disfuncional, fenótipo feminino, SEM útero (AMH funcionou), SEM pelos, amenorreia primária
+- **HCA def. 21-OH:** AR, 17OH-P elevada; virilização XX; perdedora de sal = hipoNa + hiperK no RN
+- **Def. 5α-redutase:** 46,XY, nasce feminino, viriliza na puberdade
+- **Swyer 46,XY:** estria gonadal, fenótipo feminino, útero presente (sem AMH) → gonadoblastoma
+- **Sem gônada → fenótipo feminino** (sem T e sem AMH)
+- **Diagnóstico DDS RN:** 17OH-P + cariótipo + eletrólitos urgente
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -191,13 +191,4 @@ Sem gônada → fenótipo feminino (sem T e sem AMH). Diagnóstico DDS RN: 17OH-
 | SRY + | SRY − | SRY+ → testículo → masculino; SRY− → ovário → feminino ("padrão default") |
 
 ### Frase-âncora para não esquecer
-
 > "SRY comanda o testículo, que envia 3 mensageiros: Testosterona (viriliza por dentro), DHT (viriliza por fora) e AMH (apaga o Müller). Se qualquer mensageiro falha, o feminino prevalece — mas os detalhes clínicos identificam ONDE a falha ocorreu."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

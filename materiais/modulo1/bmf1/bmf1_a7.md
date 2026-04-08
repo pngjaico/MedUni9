@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Articulações distribuem cargas e permitem movimento dentro de limites seguros. Classificar por tecido de união (fibrosa, cartilaginosa, sinovial) e por forma da superfície articular explica por que o ombro mobiliza muito e o quadril é mais estável, e por que certas lesões (menisco, labrum, ligamento) são típicas de cada tipo.
+As **Articulações** são os pontos de conexão que permitem o movimento e a proteção do corpo. Para a prova, domine a tríade: **Fibrosas** (estabilidade), **Cartilaginosas** (movimento limitado) e **Sinoviais** (mobilidade livre). Na clínica, entenda que o foco está nas articulações **Sinoviais** e em seus componentes vitais, como o **Líquido Sinovial** e a **Cartilagem Hialina**.
 
 
 ### Figura sugerida
@@ -26,23 +26,22 @@ Articulações distribuem cargas e permitem movimento dentro de limites seguros.
 
 | Tipo | Característica | Exemplo |
 |------|----------------|---------|
-| Fibrosa | Pouco ou nenhum movimento | suturas do crânio; sindesmose tibiofibular distal |
-| Cartilaginosa | Movimento limitado | disco intervertebral; sínfise púbica |
-| Sinovial | Cavidade, líquido sinovial, cartilagem hialina | joelho, ombro |
+| **Fibrosa** | Pouco ou nenhum movimento | **Suturas** do crânio; **Sindesmose** |
+| **Cartilaginosa** | Movimento limitado | **Disco intervertebral**; **Sínfise púbica** |
+| **Sinovial** | Cavidade, líquido, cartilagem hialina | **Joelho**, **Ombro**, **Quadril** |
 
 ---
 
 ## Classificação funcional (sinoviais)
 
-| Forma | Movimento típico | Exemplo |
-|-------|------------------|---------|
-| Plana (deslizamento) | Pouco deslizamento | articulações intercarpais |
-| Dobradiça (ginglimo) | Flexão/extensão | cotovelo, interfalangeanas |
-| Pivô (trocoide) | Rotação | atlantoaxial (dens) |
-| Esferóide | Multiaxial | ombro, quadril |
-| Elipsoide | Flex/ext + desvio | radiocarpiana |
-| Selar | Oposição do polegar | 1ª metacarpofalangeana (polegar) |
-| Côndilo | Flex/ext + leve rotação | joelho (com meniscos) |
+| Tipo Mecânico | Movimentos permitidos | Localização Clássica |
+|-------------------|-----------------------|----------------------|
+| **Plana** | Deslizamento | Ossos do **Carpo** |
+| **Gínglimo** (Dobradiça)| Flexão e Extensão | **Cotovelo** e Joelho |
+| **Trocoide** (Pivô) | Rotação | **Atlantoaxial** (C1-C2) |
+| **Esferoide** | Global (3 eixos) | **Ombro** e Quadril |
+| **Selar** | Oposição e encaixe | **Base do Polegar** |
+| **Condilar** | 2 eixos simétricos | Mandíbula (**ATM**) |
 
 ---
 
@@ -57,11 +56,11 @@ Articulações distribuem cargas e permitem movimento dentro de limites seguros.
 
 ## Estabilidade versus mobilidade — regra prática
 
-| Articulação | Tendência |
-|-------------|-----------|
-| Ombro | Alta mobilidade, baixa estabilidade — luxação anterior comum |
-| Quadril | Alta estabilidade, mobilidade menor — cabeça profunda no acetábulo |
-| Joelho | Dobradiça + complexo meniscal e ligamentar — lesões esportivas |
+| Articulação | Biomecânica Predominante | Consequência Clínica |
+|-------------|-------------------------|----------------------|
+| **Ombro (Glenoumeral)** | Máxima **mobilidade** | Baixa estabilidade; comum a **Luxação Anterior** |
+| **Quadril (Coxofemoral)** | Máxima **estabilidade** | Encaixe profundo no **acetábulo**; fraturas de colo |
+| **Joelho (Femorotibial)** | **Estabilidade Dinâmica** | Depende de **LCA / LCP** e meniscos para não luxar |
 
 ---
 
@@ -73,10 +72,12 @@ Ultrafiltrado do plasma com hialuronato — lubrificação e nutrição da carti
 
 ## Cartilagem articular versus fibrocartilagem
 
-| Tecido | Onde | Função |
-|--------|------|--------|
-| Hialina | superfícies articulares | amortecimento, deslizamento |
-| Fibrocartilagem | meniscos, disco TMJ | resistência a compressão e cisalhamento |
+| Tecido Articular | Função Mecânica | Exemplos de Prova |
+|-----------------|------------------|-------------------|
+| **Hialina** | Amortecimento liso | **Superfície dos Ossos**|
+| **Fibrocartilagem**| Resistência à carga | **Meniscos** e Discos |
+| **Membrana Sinovial**| Produção de Líquido| Revestimento da Cápsula|
+| **Líquido Sinovial**| Nutrição e Lubrificação| Espaço Articular |
 
 ---
 
@@ -88,10 +89,11 @@ Luxação glenoumeral anterior lesiona labrum (Bankart); impacto repetitivo pode
 
 ## Pontos-Chave para Prova
 
-- Três tipos de união (fibrosa, cartilaginosa, sinovial) com exemplos.  
-- Sinovial: componentes (cartilagem, cápsula, sinóvia, líquido).  
-- Formas sinoviais: dobradiça, esferóide, pivô — exemplos.  
-- Compromisso mobilidade–estabilidade ombro versus quadril.
+- **Cartilagem Hialina:** Não possui vasos ou nervos. A lesão é de difícil reparo (cicatrização pobre).
+- **Esferoides:** São as articulações com maior **Amplitude de Movimento** (Ombro).
+- **Suturas:** Articulações fibrosas que se tornam **Sinostoses** (osso com osso) no adulto.
+- **Sínfises:** Articulações cartilaginosas que funcionam como amortecedores de choque (ex: Pelve).
+- **Gínglimo:** Trabalha em um único eixo (Uniaxial), como o movimento de porta.
 
 ---
 
@@ -101,18 +103,17 @@ Luxação glenoumeral anterior lesiona labrum (Bankart); impacto repetitivo pode
 
 ### Síntese para a prova
 
+- **Sinovite:** Inflamação da membrana que produz o líquido; causa derrame ("água no joelho").
+- **Osteoartrose:** Desgate progressivo da **Cartilagem Hialina** por carga ou idade.
+- **Ligamentos:** Conectam **Osso a Osso**. Tendões conectam **Músculo a Osso**.
+- **Luxação:** Perda total do contato entre as superfícies ósseas de uma articulação.
 
-Por que menisco é fibrocartilagem e não hialina. Diferença entre sinovite e bursite em uma frase cada.
-
-O que é sindesmose e um exemplo. Qual articulação é “côndilo” clássica em prova.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Cartilagem hialina | Fibrocartilagem | superfície versus disco/menisco |
-| Articulação sinovial | Cartilaginosa | cavidade e líquido versus disco/sínfise |
-| Luxação | Subluxação | perda completa versus parcial do contato |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Gínglimo** | **Trocoide** | Dobradiça vs **Pivô (Giro)** |
+| **Menisco** | **Bursa** | Amortezedor de carga vs Sacos de lubrificação |
+| **Sindesmose** | **Sutura** | Membrana entre ossos vs Serreado craniano |
+| **Plana** | **Selar** | Apenas desliza vs Encaixe côncavo-convexo |
 
 ### Frase-âncora para não esquecer
 

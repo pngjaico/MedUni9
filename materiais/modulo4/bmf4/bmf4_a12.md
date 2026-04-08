@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Entender neurotransmissão é entender metade da farmacologia. Cada classe de droga psiquiátrica, anestésica ou neurológica atua num ponto desse processo: síntese, liberação, receptor ou recaptação. A **Uninove** cobra essa aula especialmente quando conecta ao mecanismo de doenças — miastenia gravis, parkinson, epilepsia, depressão. Saber o circuito completo — **potencial de ação** → vesícula → fenda → receptor → resposta — é o fundamento que sustenta toda neurologia e farmacologia que vem depois.
+Entender neurotransmissão é entender metade da farmacologia. Cada classe de droga psiquiátrica, anestésica ou neurológica atua num ponto desse processo: síntese, liberação, receptor ou recaptação. A Uninove cobra essa aula especialmente quando conecta ao mecanismo de doenças — miastenia gravis, parkinson, epilepsia, depressão. Saber o circuito completo — potencial de ação → vesícula → fenda → receptor → resposta — é o fundamento que sustenta toda neurologia e farmacologia que vem depois.
 
 ### Figura sugerida
 
@@ -119,22 +119,22 @@ Após a liberação, o neurotransmissor deve ser removido da fenda. **Recaptaç�
 
 ## Ponte com a Clínica
 
-Intoxicação por organofosforados inibe acetilcolinesterase → acúmulo de ACh → síndrome colinérgica (SLUDGE: salivação, lacrimejamento, urina, diarreia, distúrbio GI, êmese). Tratamento: atropina (antagonista muscarínico) + pralidoxima (reativa a enzima antes da ligação envelhecer). Na doença de Parkinson, degeneração nigroestriatal reduz **dopamina** → levodopa repõe o precursor direto. ISRS + tramadol ou linezolida → síndrome serotoninérgica: hipertermia + tremor/mioclonia + agitação — potencialmente fatal.
+Intoxicação por organofosforados inibe acetilcolinesterase → acúmulo de ACh → síndrome colinérgica (SLUDGE: salivação, lacrimejamento, urina, diarreia, distúrbio GI, êmese). Tratamento: atropina (antagonista muscarínico) + pralidoxima (reativa a enzima antes da ligação envelhecer). Na doença de Parkinson, degeneração nigroestriatal reduz dopamina → levodopa repõe o precursor direto. ISRS + tramadol ou linezolida → síndrome serotoninérgica: hipertermia + tremor/mioclonia + agitação — potencialmente fatal.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Fibra C: amielinizada, 0,5–2 m/s, dor lenta/difusa — bloqueada por último pela anestesia local. Fibra Aα: mielinizada, 70–120 m/s, propriocepção e motor esquelético. Ca²⁺: dispara exocitose vesicular — essencial para toda neurotransmissão química.
-
-Ionotrópico: canal diretamente acoplado ao receptor (rápido). Nicotínico = ionotrópico. Metabotrópico: via proteína G e 2º mensageiro (lento). Muscarínico = metabotrópico. Toxina botulínica: cliva SNARE → sem ACh → paralisia flácida.
-
-Miastenia gravis: anti-AChR nicotínico → fraqueza que piora com fadiga. Organofosforado: inibe AChE → SLUDGE + bradicardia.
+- **Fibra C:** amielinizada, 0,5–2 m/s, dor lenta/difusa — bloqueada por último pela anestesia local.
+- **Fibra Aα:** mielinizada, 70–120 m/s, propriocepção e motor esquelético.
+- **Ca²⁺:** dispara exocitose vesicular — essencial para toda neurotransmissão química.
+- **Ionotrópico:** canal diretamente acoplado ao receptor (rápido). Nicotínico = ionotrópico.
+- **Metabotrópico:** via proteína G e 2º mensageiro (lento). Muscarínico = metabotrópico.
+- **Toxina botulínica:** cliva SNARE → sem ACh → paralisia flácida.
+- **Miastenia gravis:** anti-AChR nicotínico → fraqueza que piora com fadiga.
+- **Organofosforado:** inibe AChE → SLUDGE + bradicardia.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -146,5 +146,4 @@ Miastenia gravis: anti-AChR nicotínico → fraqueza que piora com fadiga. Organ
 | Toxina botulínica | Organofosforado | Botulinica: bloqueia liberação de ACh; Organofosfato: inibe degradação de ACh |
 
 ### Frase-âncora para não esquecer
-
 > "Sem cálcio, sem vesícula, sem sinal — Ca²⁺ é a chave que abre a porta da sinapse, e a toxina botulínica jogou a chave fora."

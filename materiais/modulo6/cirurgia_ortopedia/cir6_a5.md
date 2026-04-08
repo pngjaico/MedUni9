@@ -7,15 +7,15 @@
 
 ## Relevância Clínica e Acadêmica
 
-A pancreatite aguda é inflamação pancreática com dor epigástrica intensa e elevação de lipase (mais específica que amilase). Causas clássicas: biliar, alcoólica, hipertrigliceridemia, pós-ERCP, trauma, medicamentos. Em prova, destacam-se critérios de gravidade (BISAP, Ranson conceitual), TC para necrose/complicações, hidratação agressiva, nutrição enteral quando necessária e papel cirúrgico/radiológico em necrose infectada.
+A **pancreatite aguda** é inflamação pancreática com dor epigástrica intensa e elevação de **lipase** (mais específica que amilase). Causas clássicas: **biliar**, **alcoólica**, **hipertrigliceridemia**, **pós-ERCP**, **trauma**, **medicamentos**. Em prova, destacam-se **critérios de gravidade** (BISAP, Ranson conceitual), **TC** para necrose/complicações, **hidratação** agressiva, **nutrição enteral** quando necessária e **papel cirúrgico/radiológico** em necrose infectada.
 
 ---
 
 ## Fisiopatologia (por que fica grave?)
 
-Autodigestão por ativação enzimática → edema intersticial ou necrose. SIRS e falência orgânica definem gravidade. Coleções peripancreáticas podem evoluir para necrose infectada, pseudoquisto ou fístulas.
+Autodigestão por ativação enzimática → **edema intersticial** ou **necrose**. **SIRS** e falência orgânica definem gravidade. Coleções peripancreáticas podem evoluir para **necrose infectada**, **pseudoquisto** ou **fístulas**.
 
-> **Pegadinha:** Em pancreatite crônica avançada, a lipase pode não estar altíssima — imagem e contexto importam.
+> **Pegadinha:** Em **pancreatite crônica** avançada, a lipase pode não estar altíssima — **imagem** e contexto importam.
 
 ---
 
@@ -23,15 +23,15 @@ Autodigestão por ativação enzimática → edema intersticial ou necrose. SIRS
 
 - Dor **em faixa** epigástrica irradiando ao dorso; alívio parcial com posição antálgica.  
 - **Lipase** elevada (múltiplo do limite superior — usar referência local).  
-- Excluir perfuração péptica, IAM, cólica biliar isolada.
+- Excluir **perfuração péptica**, **IAM**, **cólica biliar** isolada.
 
-### Critérios de gravidade (ideia)
+### Critérios de gravidade (visão de prova)
 
 | Ferramenta | O que mede | Uso prático |
 |------------|------------|-------------|
-| BISAP | BUN, alteração mental, SIRS, idade, derrame | Rápido à admissão |
-| Ranson | Parâmetros 0h e 48h | Clássico didático |
-| CT com contraste | Necrose, complicações | Após 48–72h se dúvida |
+| **BISAP** | BUN, alteração mental, SIRS, idade, derrame | Rápido à admissão |
+| **Ranson** | Parâmetros 0h e 48h | Clássico didático |
+| **CT com contraste** | Necrose, complicações | Após 48–72h se dúvida |
 
 ### Figura sugerida
 
@@ -46,7 +46,7 @@ Autodigestão por ativação enzimática → edema intersticial ou necrose. SIRS
 
 ## Tratamento inicial e suporte
 
-Cristaloides em protocolo institucional, analgesia multimodal, oxigenoterapia se necessário. Antibiótico profilático não é rotina na necrose estéril — reservar para infecção documentada ou suspeita clínico-radiológica forte (conduta varia em estudos; siga diretriz do serviço).
+**Cristaloides** em protocolo institucional, analgesia multimodal, oxigenoterapia se necessário. **Antibiótico profilático** não é rotina na necrose **estéril** — reservar para **infecção** documentada ou suspeita clínico-radiológica forte (conduta varia em estudos; siga diretriz do serviço).
 
 ### Nutrição
 
@@ -57,7 +57,7 @@ Início precoce de **via oral** quando tolerado. Se íleo prolongado, **nutriç�
 **Figura-ID:** `CIR6-A5-F02`
 
 - **Momento:** após complicações (coleções / pseudoquisto).
-- O que mostrar: TC com pseudoquisto pancreático ou coleção adjacente ao estômago (exemplo didático).
+- **O que mostrar:** **TC** com **pseudoquisto** pancreático ou coleção adjacente ao estômago (exemplo didático).
 - **Tipo sugerido:** TC com legenda anatômica.
 - **Legenda (rascunho):** Pseudoquisto pancreático ao TC (relação com estômago).
 
@@ -65,14 +65,14 @@ Início precoce de **via oral** quando tolerado. Se íleo prolongado, **nutriç�
 
 ## Complicações e papel da intervenção
 
-Síndrome compartimental, coleções infectadas, pseudoaneurisma (ex.: artéria esplênica), fístulas. Necrosectomia minimamente invasiva ou drenagem percutânea em centros especializados — laparotomia “descompressiva” é exceção.
+**Síndrome compartimental**, **coleções infectadas**, **pseudoaneurisma** (ex.: artéria esplênica), **fístulas**. Necrosectomia minimamente invasiva ou drenagem percutânea em centros especializados — **laparotomia “descompressiva”** é exceção.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A5-F03`
 
 - **Momento:** após menção ao escore de **Balthazar** / necrose na TC.
-- O que mostrar: TC com contraste evidenciando necrose pancreática ou painel esquemático dos graus de Balthazar (se optar por figura composta).
+- **O que mostrar:** **TC** com contraste evidenciando **necrose pancreática** ou painel esquemático dos graus de Balthazar (se optar por figura composta).
 - **Tipo sugerido:** tomografia exemplo **ou** esquema didático dos graus.
 - **Legenda (rascunho):** Pancreatite necrotizante: TC com áreas não realçadas (necrose).
 
@@ -103,12 +103,11 @@ Paciente com **taquicardia desproporcional**, **oligúria** e dor intensa perten
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Balthazar** na TC — grau de necrose (ideia).
-- **SIRS** e disfunção orgânica → UTI.
-- **TG** muito elevada — papel da plasmaférese em contexto selecionado.
-- **Pseudoquisto** — complicação tardia; conduta conforme sintomas e tamanho.
+Na prova, lembre que Balthazar na TC — grau de necrose (visão de prova). SIRS e disfunção orgânica → UTI.
+
+Para não errar em cenário clínico, considere também TG muito elevada — papel da plasmaférese em contexto selecionado. Pseudoquisto — complicação tardia; conduta conforme sintomas e tamanho.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -122,14 +121,3 @@ Paciente com **taquicardia desproporcional**, **oligúria** e dor intensa perten
 ### Frase-âncora para não esquecer
 
 > “**Pancreatite** grave é doença de **terapia intensiva** — volume e órgãos.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Priorize suporte, causa (biliar, álcool, medicamento) e timing de intervenções. Consentimento e decisão em equipe definem segurança em procedimentos invasivos.
-
-### Leitura de reforço
-
-- Revisões de pancreatite aguda (manejo de fluidos, nutrição)
-- Protocolos de antibiótico em infecção de necrose

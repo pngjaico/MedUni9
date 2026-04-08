@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O ciclo menstrual é um dos temas mais cobrados em toda a medicina básica. Compreender os dois ciclos paralelos — ovariano e endometrial — e sua regulação hormonal (eixo HPG) é essencial para entender contracepção, infertilidade, distúrbios menstruais e climatério. A **Uninove** cobra frequentemente o pico de LH, a fase secretora vs proliferativa e os efeitos do estrogênio e da progesterona.
+O ciclo menstrual é um dos temas mais cobrados em toda a medicina básica. Compreender os dois ciclos paralelos — ovariano e endometrial — e sua regulação hormonal (eixo HPG) é essencial para entender contracepção, infertilidade, distúrbios menstruais e climatério. A Uninove cobra frequentemente o pico de LH, a fase secretora vs proliferativa e os efeitos do estrogênio e da progesterona.
 
 ### Figura sugerida
 
@@ -140,17 +140,16 @@ Na síndrome dos ovários policísticos (SOP), há excesso de LH em relação ao
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Fase folicular (1-14): FSH → folículo → estrogênio ↑ → pico de LH (dia 12-14) → ovulação. Fase lútea (14-28): corpo lúteo → progesterona → endométrio secretor → sem gravidez: regressão → menstruação. Fase lútea = sempre 14 dias (fixa); fase folicular varia.
-
-Estrogênio: proliferação endometrial, muco filante, osso protegido. Progesterona: endométrio secretor, muco espesso, ↑temperatura basal. Menopausa: FSH > 40 UI/mL (feedback negativo perdido).
-
-HCG: mantém corpo lúteo na gravidez (e é base do teste de gravidez).
+- **Fase folicular (1-14):** FSH → folículo → estrogênio ↑ → pico de LH (dia 12-14) → ovulação
+- **Fase lútea (14-28):** corpo lúteo → progesterona → endométrio secretor → sem gravidez: regressão → menstruação
+- **Fase lútea = sempre 14 dias** (fixa); fase folicular varia
+- **Estrogênio:** proliferação endometrial, muco filante, osso protegido
+- **Progesterona:** endométrio secretor, muco espesso, ↑temperatura basal
+- **Menopausa:** FSH > 40 UI/mL (feedback negativo perdido)
+- **hCG:** mantém corpo lúteo na gravidez (e é base do teste de gravidez)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -162,5 +161,4 @@ HCG: mantém corpo lúteo na gravidez (e é base do teste de gravidez).
 | Corpo lúteo | Corpo albicante | Lúteo: secreta progesterona; albicante: regressivo, sem secreção |
 
 ### Frase-âncora para não esquecer
-
 > "No ciclo, o estrogênio constrói (prolifera o endométrio) e a progesterona decora (secreta, prepara para o embrião) — e se ninguém aparecer para implantar, as duas caem, o endométrio descama e o ciclo recomeça."

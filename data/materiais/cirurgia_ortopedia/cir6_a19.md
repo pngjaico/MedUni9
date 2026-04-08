@@ -87,11 +87,11 @@ Liberar **retorno ao esporte** só por “sumiu a dor” sem testes de saltos/es
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **O'Donoghue** — triade málefica (LCM, menisco medial, LCP) — conceito histórico.
-- **Segond** — avulsão lateral em LCA (RX).
-- **RTP** — return to play critérios objetivos.
+Na prova, lembre que O'Donoghue — triade málefica (LCM, menisco medial, LCP) — conceito histórico. Segond — avulsão lateral em LCA (RX).
+
+Para não errar em cenário clínico, considere também RTP — return to play critérios objetivos.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -104,22 +104,3 @@ Liberar **retorno ao esporte** só por “sumiu a dor” sem testes de saltos/es
 ### Frase-âncora para não esquecer
 
 > “**Hemartrose** não é só LCA — **fratura** até provar o contrário.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **reconstrução do LCA** com enxerto e **reabilitação** em fases. **Plasma rico em plaquetas** — evidência variável — não substitui base científica sólida.
-
-### Leitura de reforço
-
-- Consenso de joelho esportivo
-- Reabilitação de tendão de Aquiles
-
----
-
-### Reflexão final — fechamento da aula
-
-Antes de encerrar o estudo deste arquivo, responda mentalmente: qual teste físico mudaria sua suspeita de LCA? Quando você pediria RM sem radiografia? Onde a banca costuma confundir entorse com fratura?
-
-Releia o bloco **Pré-Prova** no dia seguinte — revisão espaçada fixa melhor que maratonar a mesma aula.

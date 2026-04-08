@@ -4,7 +4,7 @@
 
 O hemograma é o exame laboratorial mais solicitado na medicina — presente em praticamente toda consulta, pronto-socorro e internação. Além de rastrear anemia e infecções, ele fornece pistas diagnósticas sobre leucemias, doenças autoimunes, deficiências nutricionais e estados inflamatórios. Saber lê-lo com fluência é habilidade essencial desde o módulo 2.
 
-A **Uninove** cobra muito a interpretação de laudos com desvio à esquerda, as nomenclaturas dos leucócitos e as fórmulas dos índices eritrocitários (VCM, HCM, CHCM). Questões de caso clínico frequentemente pedem ao aluno identificar o padrão (ex: neutrofilia + desvio = infecção bacteriana aguda).
+A Uninove cobra muito a interpretação de laudos com desvio à esquerda, as nomenclaturas dos leucócitos e as fórmulas dos índices eritrocitários (VCM, HCM, CHCM). Questões de caso clínico frequentemente pedem ao aluno identificar o padrão (ex: neutrofilia + desvio = infecção bacteriana aguda).
 
 ### Figura sugerida
 
@@ -162,17 +162,16 @@ Presença de formas jovens de neutrófilos no sangue periférico:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **VCM:** < 80 = microcítica (ferropriva); > 100 = macrocítica (B12/folato)
+- **Desvio à esquerda:** bastões > 5% = infecção bacteriana; + leucocitose = regenerativo (bom)
+- **Neutrofilia:** bacteriana; **Linfocitose:** viral; **Eosinofilia:** parasita/alergia; **Basofilia:** LMC
+- **Reticulócito ↑:** hemólise ou sangramento (medula OK); **↓:** aplasia ou déficit nutricional
+- **Plaquetas < 50.000:** risco sangramento; **< 20.000:** crítico
 
-
-VCM: < 80 = microcítica (ferropriva); > 100 = macrocítica (B12/folato). Desvio à esquerda: bastões > 5% = infecção bacteriana; + leucocitose = regenerativo (bom).
-
-Neutrofilia: bacteriana; Linfocitose: viral; Eosinofilia: parasita/alergia; Basofilia: LMC. Reticulócito ↑: hemólise ou sangramento (medula OK); ↓: aplasia ou déficit nutricional.
-
-Plaquetas < 50.000: risco sangramento; < 20.000: crítico.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -185,13 +184,4 @@ Plaquetas < 50.000: risco sangramento; < 20.000: crítico.
 | Valor % leucocitário | Valor absoluto | Absoluto é mais confiável — % pode enganar em leucocitose total |
 
 ### Frase-âncora para não esquecer
-
 > "No hemograma, leia na ordem: hemoglobina (tem anemia?) → VCM (que tipo?) → leucócitos (que linhagem?) → desvio (bacteriana?) → plaquetas (tem risco de sangrar?)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

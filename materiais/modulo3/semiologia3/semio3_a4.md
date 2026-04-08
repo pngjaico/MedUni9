@@ -1,97 +1,203 @@
 # SEMIO3 — Aula 4: Semiologia do Aparelho Reprodutor Masculino
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+**Disciplina:** Semiologia dos Aparelhos Renal e Reprodutor  
+**Módulo:** 3 | **Tempo de estudo sugerido:** 30 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Exame do aparelho reprodutor masculino ainda é executado com certo incômodo por alunos — mas a **Uninove** cobra conhecimento de anamnese estruturada em temas sensíveis e técnica apropriada de palpação testicular. Câncer de testículo em jovem pode ser detectado por autoexame — educação do paciente é responsabilidade do médico. Disfunção érectil e infertilidade são frequentes na prática e exame bem feito diferencia causas vasculares, neurológicas e hormonais. Prostatite aguda pode simular abdominalgia — o toque retal diferencia.
+A semiologia do aparelho reprodutor masculino é um tema clássico de prova porque combina comunicação clínica, exame físico dirigido e tomada de decisão em cenários sensíveis. Na graduação, o estudante precisa dominar o passo a passo da anamnese e do exame para diferenciar queixas benignas de sinais que exigem investigação rápida.
 
+Na prática, muitas demandas urológicas e sexuais chegam com vergonha, linguagem vaga e medo de julgamento. Uma entrevista estruturada, respeitosa e objetiva melhora adesão, reduz omissões e evita tanto subdiagnóstico quanto excesso de encaminhamentos.
 
-
+A banca costuma explorar situações com dor escrotal, massa testicular, sintomas urinários baixos, disfunção erétil e indicação de toque retal no contexto adequado. O acerto depende de reconhecer padrões, red flags e limites da própria avaliação inicial.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO3-A4-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a introdução da relevância clínica.
+- **O que mostrar:** fluxograma visual simples da abordagem inicial do homem com queixa urogenital, separando eixos urinário, genital doloroso, função sexual e risco oncológico.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Abordagem inicial das queixas urológicas e sexuais na anamnese dirigida."
 
-## Conceitos Essenciais
+## Anamnese direcionada: queixas urológicas e sexuais
 
-**Anamnese em tema sensível:** Começa com privacidade e respeito. "Você tem parceria sexual? Há quanto tempo? Alguma dificuldade na vida sexual?" Se responde sim, você pergunta se é na ereção, ejaculação, libido ou prazer. Não é pergunta indiscreta — é profissional investigando queixa. (Se paciente menciona infertilidade, quantos anos tenta? Já fez espermograma?)
+A anamnese deve começar com acolhimento e consentimento para abordar saúde sexual e genital. Explique por que as perguntas são necessárias e normalize o tema com linguagem profissional.
 
-**Exame externo de pênis:** Inspeciona glande (lesões, secreção?), prepúcio (fimose?), escroto (assimetria, aumento, lesões?). Palpação testicular: palpa bimanualmente cada testículo, comprimento ~ 4-5 cm, consistência firme (não mole nem pétreo). Testículo aumentado, endurecido ou com nódulo = investigação urgente (suspeita neoplasia).
+Um roteiro útil é organizar por quatro eixos: sintomas urinários, sintomas genitais, função sexual e contexto de risco.
 
-> **Dica de Prova:** Nódulo testicular não dói. Se paciente refere dor localizada em testículo com nódulo palpável, ainda investiga neoplasia — a dor não exclui. Inflamação testicular (orquite) causa dor sem nódulo; neoplasia causa nódulo às vezes com dor.
+### Eixo 1: sintomas urinários
 
-**Palpação do cordão espermático:** Acima testículo. Varicocele (veias aumentadas, "saco de minhocas")? Posicionamento paciente em pé melhora visualização. Varicocele bilateral? Sempre. Varicocele unilateral à direita de novo? Investigar causa (trombose VRC).
+Pergunte por disúria, urgência, polaciúria, noctúria, jato fraco, hesitação miccional, sensação de esvaziamento incompleto, gotejamento terminal e hematúria. Caracterize início, duração, progressão e fatores de alívio/piora.
 
-**Toque retal:** Palpa próstata (tamanho, consistência, sensibilidade). Normal: tamanho castanha, consistência firme mas levemente elástica, sem sensibilidade. Prostata aumentada (hipertrofia benigna ou prostatite)? Hiperemia? Sensibilidade extrema = prostatite aguda, prescreve antibiótico.
+Em homens acima de 50 anos, sintomas do trato urinário inferior sugerem hiperplasia prostática benigna como hipótese frequente, mas nunca excluem infecção, estenose uretral, neoplasia ou causa neurológica.
 
-**Exame de fertilidade:** Se histórico infertilidade, perguntar frequência ejaculatória, volume de ejaculado (normal ~2-4 mL), cor (leitosa vs aquosa = volume baixo), odor. Palpação testicular em infértil: agenesia em um lado? Testículo pequeno bilateral (hipogonalismo)? Encaminha espermograma.
+### Eixo 2: sintomas genitais
 
-> **Pegadinha:** Paciente com dificuldade ejaculatória pode ter volume baixo de ejaculado mas fertilidade normal. Aluno confunde "volume baixo = infertilidade". É desconforto, não diagnóstico direto. Espermograma confirma.
+Investigue dor testicular aguda versus crônica, aumento de volume escrotal, sensação de peso, nódulo palpável, edema, hiperemia, secreção uretral, lesões penianas, prurido e ulcerações.
 
-**Contexto epidemiológico:** Idade importa muito. Homem > 50 anos com sintomas urinários (jato fraco, frequência noturna) = hipertrofia de próstata. Homem 18-35 anos com nódulo testicular = preocupação oncológica. Parceiro de mulher com DIP (doença inflamatória pélvica)? Investigar uretrite/prostatite.
+Dor escrotal súbita e intensa com náuseas exige pensar primeiro em torção testicular até prova em contrário. Dor com febre e sintomas urinários favorece epididimite/orquiepididimite.
 
-## Consulta de Reprodução Masculina: Sequência
+### Eixo 3: função sexual
 
-Paciente entra: "tenho dificuldade para manter ereção há 3 meses, antes era normal". Você pergunta, respirando normalmente: "Libido mantém? Começou quando?" Ele responde: "Sim, quero, mas não consigo firmar". Perguntas seguintes: "Usa medicação? Tem consumo álcool/drogas? Estresse? Diabetes ou pressão alta?" Exame: inspeção genitália (normal), palpação testicular (firme 4-5 cm ambos), cordão normal, toque retal prostata aumentada mas indolor. Contexto: hipertrofia benigna prostatica gerando compressão vascular → ED vascular, começa com bloqueador alfa.
+Diferencie desejo, ereção, ejaculação e orgasmo. Perguntas curtas evitam confusão:
+
+- "A dificuldade é para ter ereção, manter ereção, ejacular ou falta de desejo?"
+- "As ereções noturnas/matinais ainda acontecem?"
+- "A queixa começou de forma súbita ou progressiva?"
+
+Esse bloco ajuda a separar causas psicogênicas, vasculares, neurogênicas, hormonais e medicamentosas.
+
+### Eixo 4: contexto de risco
+
+Inclua parceiros sexuais, uso de preservativo, história prévia de IST, procedimentos urológicos, trauma perineal, cirurgia inguinoescrotal, criptorquidia na infância, infertilidade, uso de anabolizantes, tabagismo, álcool e drogas.
+
+Também vale revisar comorbidades (diabetes, hipertensão, doença vascular, depressão), medicações (anti-hipertensivos, antidepressivos, opioides) e sintomas sistêmicos (febre, perda ponderal, dor óssea).
+
+> **Dica de Prova:** em caso clínico extenso, organize mentalmente em "urinário + genital + sexual + risco". Essa estrutura reduz omissões e aumenta precisão diagnóstica.
+
+> **Pegadinha:** disfunção erétil não é sinônimo de hipogonadismo. Muitos casos têm base vascular, medicamentosa ou psicossocial; libido reduzida isolada não fecha diagnóstico hormonal sem correlação clínica e laboratorial.
+
+## Exame físico genital masculino
+
+O exame deve ser feito em ambiente privado, com luvas, iluminação adequada e explicação de cada etapa. Sempre peça consentimento antes de inspeção genital e antes de qualquer manobra invasiva.
+
+### Inspeção
+
+Observe pênis, prepúcio, meato uretral e escroto:
+
+- lesões verrucosas, ulceradas ou vesiculares;
+- secreção uretral;
+- fimose/parafimose;
+- assimetria escrotal;
+- hiperemia, edema ou alterações cutâneas.
+
+### Palpação testicular e epididimária
+
+Palpe cada testículo entre polegar e dedos, avaliando tamanho, contorno, consistência e sensibilidade. O testículo normal costuma ser firme-elástico, superfície regular e sem dor significativa.
+
+Palpe epidídimo e cordão espermático em busca de espessamento, dor localizada, dilatação venosa e massas.
+
+Achados de atenção:
+
+- nódulo testicular endurecido e indolor: suspeita oncológica;
+- dor epididimária com febre/disúria: epididimite provável;
+- massa "em saco de vermes" que piora em ortostase: varicocele.
+
+### Manobras úteis no escroto
+
+A transiluminação pode ajudar na hipótese de hidrocele (conteúdo líquido translúcido), sem substituir ultrassonografia quando houver dúvida.
+
+A elevação escrotal pode aliviar dor inflamatória, mas não deve ser usada isoladamente para excluir torção.
+
+### Tabela útil para prova e prática
+
+| Achado no exame | Hipótese mais provável | Como diferenciar no contexto |
+|-----------------|------------------------|------------------------------|
+| Dor súbita intensa + testículo alto | Torção testicular | Início abrupto, náusea/vômito, urgência cirúrgica |
+| Dor gradual + febre + disúria | Epididimite/orquiepididimite | Quadro infeccioso associado, dor localizada epididimária |
+| Nódulo duro indolor | Neoplasia testicular | Massa sólida persistente, investigação oncológica imediata |
+| Escroto translúcido à luz | Hidrocele | Conteúdo líquido, geralmente sem dor intensa |
+| Veias escrotais tortuosas em pé | Varicocele | Piora em ortostase, sensação de peso, pode associar infertilidade |
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO3-A4-F02`
+
+- **Momento:** após a tabela de diferenciação dos achados escrotais.
+- **O que mostrar:** ilustração comparativa de anatomia palpável (testículo, epidídimo e cordão) com destaques de varicocele, hidrocele e nódulo testicular.
+- **Tipo sugerido:** ilustração estilo atlas (Netter/Moore) simplificada para mobile.
+- **Legenda (rascunho):** "Referências anatômicas e principais padrões palpáveis no exame genital masculino."
+
+## Toque retal no contexto clínico
+
+O toque retal não é exame de rastreio universal automático em todo jovem com queixa genital. Ele deve ser indicado conforme hipótese clínica, sintomas urinários, dor pélvica, febre sem foco definido, suspeita de prostatite ou avaliação prostática em faixa etária apropriada.
+
+Antes do exame, explique o objetivo, obtenha consentimento, descreva desconforto esperado e preserve dignidade do paciente. A técnica correta e a comunicação reduzem recusa e aumentam qualidade do achado.
+
+No toque, avalie tamanho, simetria, limites, consistência e dor da próstata.
+
+Padrões clássicos:
+
+- próstata aumentada, lisa e fibroelástica: padrão sugestivo de hiperplasia benigna;
+- dor importante à palpação, com febre/disúria: sugestivo de prostatite aguda;
+- assimetria nodular endurecida: sinal de alerta para neoplasia prostática.
+
+Em suspeita forte de prostatite aguda febril, evite manobras repetitivas traumáticas e conduza investigação/tratamento conforme gravidade.
+
+## ISTs e diferenciais comuns
+
+Na semiologia masculina, IST entra como diagnóstico frequente e como diagnóstico diferencial obrigatório em uretrite, lesões genitais e dor pélvica.
+
+Principais síndromes sindrômicas cobradas:
+
+- uretrite (gonocócica e não gonocócica): disúria, secreção uretral;
+- úlcera genital: sífilis, herpes, cancroide (conforme padrão de dor e lesão);
+- verrugas anogenitais: HPV;
+- epididimite em jovens sexualmente ativos: considerar agente sexualmente transmissível.
+
+Sempre correlacione com tempo de incubação, padrão da lesão, sintomas sistêmicos e histórico sexual recente. O diagnóstico definitivo depende de testes apropriados, mas a hipótese sindrômica orienta conduta inicial e aconselhamento.
+
+## Sinais de alarme (red flags)
+
+Alguns achados exigem ação imediata ou investigação prioritária:
+
+- dor escrotal aguda intensa de início súbito;
+- massa testicular sólida persistente;
+- retenção urinária aguda;
+- hematúria macroscópica recorrente;
+- febre alta com dor perineal/urinária e toxemia;
+- secreção uretral com dor importante e edema progressivo;
+- perda de peso involuntária associada a sintomas urológicos.
+
+Na prova, o erro clássico é tratar red flag como quadro ambulatorial simples sem estratificar gravidade.
 
 ## Ponte com a Clínica
 
-A franqueza do paciente ao descrever dificuldade sexual depende da franqueza do médico. Um examinador que fala em tom profissional, sem constrangimento, afasta medo do paciente. Educação sobre autoexame testicular salva vidas — jovem que sabe palpar e encontra nódulo manda diagnóstico 6 meses mais cedo.
+A qualidade da semiologia masculina depende menos de "decorar manobras" e mais de integrar comunicação, hipótese diagnóstica e priorização de risco. Quando o aluno conduz uma entrevista clara, examina de forma respeitosa e reconhece red flags, ele melhora segurança do paciente e também seu desempenho em casos clínicos discursivos.
 
-## Pontos-Chave para Prova
-
-- **Testículo normal:** tamanho 4-5 cm, firme, indolor; bilateral simétrico.
-- **Nódulo testicular:** pode não doer; investigação urgente para neoplasia.
-- **Varicocele:** veias aumentadas acima testículo; bilateral normal; unilateral direita = investigar.
-- **Próstata normal:** castanha, firme-elástica, indolor ao toque retal.
-- **ED (disfunção érectil):** perguntar libido, ereção, ejaculação — diferenciam causas.
-- **Infertilidade:** volume ejaculado, frequência relacional, história de criptorquidia.
-- **Prostatite aguda:** febre + disúria + próstata dura + sensibilidade extrema.
-- **Fimose:** dificuldade retrair prepúcio; pode comprometer higiene genital.
+No ambulatório, muitos pacientes chegam após semanas de sintomas por constrangimento. Uma abordagem acolhedora pode antecipar diagnóstico de IST, identificar neoplasia testicular em fase inicial e evitar atraso em situações urológicas urgentes.
 
 ---
 
-## Erros Comuns de Prova
+## Pontos-Chave para Prova
 
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
+- Estruture a anamnese em quatro eixos: urinário, genital, sexual e fatores de risco.
+- Dor escrotal súbita é torção até exclusão adequada.
+- Nódulo testicular duro e indolor é red flag oncológica.
+- Toque retal é contextual: depende de hipótese clínica, sintomas e faixa etária.
+- Disfunção erétil exige separar desejo, ereção, ejaculação e contexto psicossocial/vascular.
+- ISTs devem entrar no diferencial de uretrite, úlcera genital e dor epididimária em jovens.
+- Reconhecer sinais de alarme muda prioridade de conduta e encaminhamento.
 
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+---
 
 ## Pré-Prova
 
-> Leia 30 minutos antes da prova. Vai direto ao ponto.
+> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+A semiologia do aparelho reprodutor masculino é cobrada como raciocínio clínico estruturado. Comece pela anamnese dirigida, separando sintomas urinários, sintomas genitais, função sexual e fatores de risco. Essa organização evita perguntas soltas e aumenta chance de acertar o diagnóstico sindrômico inicial.
 
-Palpação testicular: bilateralmente, tamanho 4-5 cm, firme, indolor. Nódulo testicular: é anormal até prova contrária; não confunda com dor exclusiva. Toque retal próstata: tamanho, consistência, sensibilidade; não fazer sem consentimento.
+No exame físico, a banca valoriza sequência correta: inspeção, palpação testicular/epididimária, avaliação do cordão e interpretação contextual dos achados. Nódulo testicular sólido é sempre prioridade diagnóstica, enquanto dor escrotal de início súbito impõe exclusão rápida de torção.
 
-ED: perguntar componente: ereção, libido, ejaculação — localiza problema. Varicocele: "bolsinha de vermes" acima testículo; unilateral direita = investigar VRC. Prostatite aguda: febre + micção dolorosa + fezes duras + próstata pétrea.
+O toque retal deve ser entendido como exame contextual, não reflexo automático. Ele ganha relevância quando há sintomas prostáticos, dor pélvica, febre sem foco definido ou necessidade de avaliação prostática direcionada. O achado só faz sentido quando integrado à história clínica.
 
-Infertilidade: volume ejaculado, frequência, consistência + espermograma confirma. Constrangimento: normaliza pergunta com tom profissional; educação sobre autoexame salva vidas.
+ISTs entram tanto como hipótese principal quanto como diferencial frequente em uretrite, lesões genitais e epididimite no jovem sexualmente ativo. Em prova, o melhor desempenho vem de reconhecer padrões clínicos e, ao mesmo tempo, identificar sinais de alarme que mudam urgência e conduta.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Achado | Hipertrofia Benigna | Prostatite Aguda | Como diferenciar |
-|--------|------------------|------------------|-----------------|
-| Consistência | Aumentada, firme | Pétreo, duro | HBP de suave expansão; prostatite endurecida |
-| Sensibilidade | Leve ou nenhuma | EXTREMA | Toque retal em prostatite causa dor intensa |
-| Febre | Ausente | PRESENTE (38-40°C) | Infecção sempre tem febre sistêmica |
-| Sintomas | Noctúria, jato fraco | Disúria, dor, tenesmo | HBP é mecânica; prostatite inflamatória/infecciosa |
-| Nódulo | Não | Pode ter | Nódulo em prostatite sugere abscessificação |
+| Conceito A | Conceito B | Como diferenciar |
+|------------|------------|-----------------|
+| Torção testicular | Epididimite | Torção: dor súbita intensa e urgência cirúrgica; epididimite: dor mais progressiva com contexto infeccioso |
+| Neoplasia testicular | Orquite inflamatória | Neoplasia: nódulo duro geralmente pouco doloroso; orquite: dor, calor local e sinais inflamatórios |
+| Hiperplasia prostática benigna | Prostatite aguda | HPB: sintomas obstrutivos sem toxemia; prostatite: febre, dor pélvica e próstata dolorosa |
+| Uretrite por IST | Cistite masculina | Uretrite: secreção uretral e história sexual de risco; cistite: sintomas miccionais baixos sem secreção típica |
+| Disfunção erétil psicogênica | Disfunção erétil orgânica | Psicogênica: início situacional e ereções espontâneas preservadas; orgânica: padrão progressivo com fatores vasculares/metabólicos |
 
 ### Frase-âncora para não esquecer
 
-> **"Testículo 4-5 cm, nódulo = oncologia. Próstata firme indolor = HBP; próstata dura dolorosa = prostatite. Varicocele bilat normal; unilat direita = trombose."**
+> "Na semiologia masculina, quem organiza anamnese por eixos, examina com técnica e reconhece red flag quase sempre acerta a conduta inicial."

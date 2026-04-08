@@ -15,7 +15,7 @@
 
 Internas acima da **linha pectínea** (derivado embriológico diferente das externas). Sangramento e prolapso guiam o grau (I–IV). Externas trombosadas causam dor intensa — não confunda com **abscesso** (febre, flutuação).
 
-| Grau (ideia) | Quadro | Conduta típica |
+| Grau (visão de prova) | Quadro | Conduta típica |
 |--------------|--------|----------------|
 | I | Sangra, sem prolapso | Conservador, ligadura se persistente |
 | II | Prolapso que reduz espontaneamente | Ligadura, bandagens |
@@ -100,11 +100,11 @@ Paciente com **múltiplas fístulas** e **perda de peso**: pense **Crohn** — c
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Diferenciar** trombose hemorroidária de abscesso (febre, sinais sistêmicos).
-- **Incontinência** pós-fístula — risco esfincteriano.
-- **HPV** — rastreio e biópsia de lesões atípicas.
+Na prova, lembre que Diferenciar trombose hemorroidária de abscesso (febre, sinais sistêmicos). Incontinência pós-fístula — risco esfincteriano.
+
+Para não errar em cenário clínico, considere também HPV — rastreio e biópsia de lesões atípicas.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -118,14 +118,3 @@ Paciente com **múltiplas fístulas** e **perda de peso**: pense **Crohn** — c
 ### Frase-âncora para não esquecer
 
 > “**Sangue no papel** exige **exame** — idoso merece **colonoscopia**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade**, **imunidade** e recursos do serviço.
-
-### Leitura de reforço
-
-- Livro-texto de cirurgia colorretal
-- Consenso de fístula perianal e doença inflamatória intestinal

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **cavidade oral** é porta de entrada para **alimentação**, **fala** e **primeira linha imune**. Dominar **músculos da língua** e **inervação** (**hipoglosso**, XII) evita erro em **AVC** e trauma. **Glândulas salivares** e **ductos** explicam **sialolitíase** e **parotidectomia**; a **faringe** conecta **nasofarínge**, **orofarínge** e **laringofarínge** — chave para **deglutição** e **aspiração**.
+A **Cavidade Oral** é a porta de entrada para a nutrição e deglutição. Para a prova, domine a **Inervação da Língua** (Nervo Hipoglosso - **XII**) e a anatomia das **Glândulas Salivares**, com foco especial no trajeto do **Nervo Facial (VII)** dentro da parótida. Na clínica, falhas na coordenação da **Faringe** (deglutição) são as principais causas de **Pneumonia por Aspiração**.
 
 ---
 
@@ -19,7 +19,10 @@ O **vestíbulo** é o espaço entre **lábio/bochecha** e **gengiva**. **Arcadas
 
 ## Língua: músculos intrínsecos e extrínsecos
 
-Músculos **intrínsecos** mudam **formato** da língua; **extrínsecos** (genioglosso, hioglosso, estiloglosso, palatoglosso) **fixam** e **movem** a língua em relação ao **osso hióide** e **base do crânio**. **Inervação motora** da língua: **nervo hipoglosso (XII)** — lesão puxa a língua para o **lado lesado** na protrusão (memorize o padrão clássico).
+A língua é uma massa muscular inervada motoramente pelo **Nervo Hipoglosso (XII)**. Se houver lesão, a língua **Desvia para o Lado Lesado** ao ser protruída.
+- **Sensibilidade Geral:** Nervo Lingual (ramo do **V**).
+- **Sensibilidade Especial (Gosto):** VII e IX.
+- **Músculo Genioglosso:** O principal responsável por levar a língua para fora.
 
 > **Pegadinha:** **Sensibilidade** geral da língua envolve **trigêmeo** (V); **palato** e **faringe** têm **IX** e **X** no reflexo — não misturar **motor** com **sensorial**.
 
@@ -27,13 +30,13 @@ Músculos **intrínsecos** mudam **formato** da língua; **extrínsecos** (genio
 
 ## Glândulas salivares: localização e ductos
 
-| Glândula | Ducto principal | Relação cirúrgica |
-|----------|-----------------|-------------------|
-| **Parótida** | **Stensen** — atravessa **masseter** | **Nervo facial (VII)** atravessa a glândula |
-| **Submandibular** | **Wharton** — **sublingual** medial | Próximo ao **músculo milo-hióideo** |
-| **Sublingual** | Vários **ductos** menores (Bartholin / Rivinus) | Acima do **músculo milo-hióideo** |
+| Glândula | Ducto Principal | Relação Clínica |
+|----------|-----------------|------------------|
+| **Parótida** | **Stensen** | Atravessada pelo **Nervo VII** |
+| **Submandibular**| **Wharton** | Local comum de **Cálculos** |
+| **Sublingual** | **Rivinus** | Fica acima do M. Milo-hióideo|
 
-**Parótida** é sobretudo **serosa**; **sublingual** **mucosa**; **submandibular** **mista** — cai em prova integrada com histologia.
+**Gatilho de Prova:** Cirurgias de parótida podem causar **Paralisia Facial** se o nervo VII for lesionado. O ducto de Stensen desemboca no nível do **2º molar superior**.
 
 ### Figura sugerida
 
@@ -67,40 +70,19 @@ O **feixe** **neurovascular** da cabeça e pescoço segue **fascias** e **planos
 
 ## Pontos-Chave para Prova
 
-- **XII** — **motor** da língua.
-- **Parótida** — **serosa**; ducto **Stensen**; **VII** na glândula.
-- **Submandibular** — ducto **Wharton**; **mista**.
-- **Sublingual** — **mucosa**; ductos **menores**.
-- **Três** porções da **faringe** e **transição** alimentar/ar.
+- **Istmo das Fauces:** Fronteira entre a boca e a faringe.
+- **Nasofaringe:** Contém a **Tonsila Faríngea** (Adenoide) e a abertura da **Tuba Auditiva**.
+- **Orofaringe:** Contém as **Tonsilas Palatinas** (Amigdalas).
+- **Laringofaringe:** Ponto onde o sistema digestório se separa do respiratório.
+- **Hipoglosso (XII):** Se o paciente desvia a língua, o problema é motor (**Nervo XII**).
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Onde desemboca o ducto da **parótida** em relação ao **músculo masseter**.
-- Por que **VII** importa na **cirurgia** da parótida.
-- Nomear **três** músculos **extrínsecos** da língua.
-- Definir **orofarínge** em uma frase.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Hipoglosso (XII) | Lingual (V) | Motor versus sensorial principal |
-| Parótida | Submandibular | Serosa predominante vs mista |
-| Orofarínge | Nasofarínge | Palato mole como referência |
-| Ducto de Stensen | Wharton | Parótida vs submandibular |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Ducto Stensen** | **Wharton** | Parótida (em cima) vs Submandibular |
+| **Nervo Facial** | **Nervo Hipoglosso** | Expressão Facial/Parótida vs **Língua** |
+| **Valécula** | **Piriforme** | Recesso na língua vs Recesso na laringe |
+| **Palato Duro** | **Palato Mole** | Ósseo vs **Muscular (Deglutição)** |
 
 ### Frase-âncora para não esquecer
 
 > “Saliva é rota: parótida lateral, submandibular medial, sublingual por baixo da língua.”
-
----
-
-## Referências de estudo
-
-Moore, Dalley e Agur (anatomia orientada clinicamente); Netter (Atlas) para visão espacial; revisar **bmf1_a15** para histologia das glândulas.

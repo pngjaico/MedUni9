@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A prática simulada é onde o conhecimento teórico vira habilidade clínica real. Trabalhar com manequins e atores padronizados (APs) permite cometer erros num ambiente seguro e aprender com feedback imediato. A **Uninove** avalia essa estação em OSCE com checklist específico — saber a sequência correta do exame neurológico valida pontos objetivos.
+A prática simulada é onde o conhecimento teórico vira habilidade clínica real. Trabalhar com manequins e atores padronizados (APs) permite cometer erros num ambiente seguro e aprender com feedback imediato. A Uninove avalia essa estação em OSCE com checklist específico — saber a sequência correta do exame neurológico valida pontos objetivos.
 
 ### Figura sugerida
 
@@ -112,17 +112,15 @@ A simulação com manequins e APs é o método mais eficaz de preparar o estudan
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Sequência OSCE: higiene → apresentação → anamnese → exame sequencial → síntese. Cefaleia em trovoada: pensar em HSA → TC urgente → se negativa: PL.
-
-Kernig: flexão de quadril, extensão de joelho resistida = sinal meníngeo. VPPB: posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.
-
-AVC vs AIT: AIT resolve em <24h sem déficit residual — risco alto de AVC nos próximos dias. Sinais meníngeos negativos: não excluem meningite em idosos e imunossuprimidos.
+- **Sequência OSCE:** higiene → apresentação → anamnese → exame sequencial → síntese.
+- **Cefaleia em trovoada:** pensar em HSA → TC urgente → se negativa: PL.
+- **Kernig:** flexão de quadril, extensão de joelho resistida = sinal meníngeo.
+- **VPPB:** posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.
+- **AVC vs AIT:** AIT resolve em <24h sem déficit residual — risco alto de AVC nos próximos dias.
+- **Sinais meníngeos negativos:** não excluem meningite em idosos e imunossuprimidos.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -134,5 +132,4 @@ AVC vs AIT: AIT resolve em <24h sem déficit residual — risco alto de AVC nos 
 | AIT | AVC | AIT: resolve <24h; AVC: déficit permanente |
 
 ### Frase-âncora para não esquecer
-
 > "No OSCE: sequência, comunicação, hipótese. Na clínica: o mesmo — mas o paciente real surpreende."

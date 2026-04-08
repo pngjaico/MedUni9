@@ -7,9 +7,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-Promoção da Saúde — Alimentação Saudável e Atividade Física é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e **tomada de decisão**. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
+Promoção da Saúde — Alimentação Saudável e Atividade Física é conteúdo de alto impacto porque conecta base teórica, interpretação clínica e tomada de decisão. Na prática, ele aparece em discussão de caso, prova objetiva e atendimento supervisionado.
 
-Na **Uninove**, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
+Na Uninove, o desempenho melhora quando o estudante explica o porquê dos achados, e não apenas repete definições. Por isso, este material prioriza raciocínio causal, critérios objetivos e aplicação direta.
 
 
 ### Figura sugerida
@@ -271,7 +271,6 @@ A ponte com a clínica está em reconhecer padrão dominante, identificar risco 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
 
 Conceito central: Entenda mecanismo antes de decorar definição. Critério objetivo: Use dado mensurável para decidir hipótese. Sinal de gravidade: Identifique o achado que muda conduta imediata.
 

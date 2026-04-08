@@ -1,58 +1,134 @@
-# ST — Aula 6: Doenças Ocupacionais — LER/DORT, Pneumoconioses e PAIR
+# ST — Aula 6: Indicadores de Saúde do Trabalhador e leitura epidemiológica
 
-**Disciplina:** Saúde do Trabalhador e Doenças Ocupacionais
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde  
+**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Aqui a saúde do trabalhador deixa de ser abstrata e ganha nome de doença. LER/DORT, pneumoconioses e PAIR aparecem bastante em prova porque traduzem, de forma muito clara, a relação entre exposição e adoecimento. O aluno precisa ir além da sigla: deve compreender mecanismo, contexto ocupacional e possibilidade de prevenção.
+Indicadores em saúde do trabalhador transformam eventos dispersos em evidência para decisão. Sem indicadores, a equipe só reage a casos isolados; com indicadores, consegue identificar padrão de risco, priorizar prevenção e avaliar resultado de intervenção.
 
-## Conceito Central
+A cobrança em avaliação costuma focar interpretação: diferença entre incidência e prevalência, leitura de coeficientes, subnotificação e limite de comparações entre setores com perfis ocupacionais distintos.
 
-Doença ocupacional é o agravo cuja origem ou agravamento se relaciona ao trabalho. LER/DORT envolve sobrecarga biomecânica repetitiva. Pneumoconioses decorrem da inalação crônica de poeiras minerais. PAIR resulta da exposição prolongada a níveis nocivos de ruído. Em todos os casos, o ambiente de trabalho participa do mecanismo da doença.
+### Figura sugerida
 
-## LER/DORT
+**Figura-ID:** `ST-A6-F01`
 
-Lesões por esforço repetitivo e distúrbios osteomusculares relacionados ao trabalho surgem quando há repetição, força excessiva, postura inadequada, ritmo intenso e pouca recuperação. O quadro costuma envolver dor, fadiga, parestesia e limitação funcional. A banca gosta porque é doença comum e diretamente ligada à organização do trabalho.
+- **Momento:** após a introdução conceitual de indicadores.
+- **O que mostrar:** painel com poucos indicadores-chave (incidência de acidentes, gravidade, absenteísmo e cobertura de exames), com setas de tendência.
+- **Tipo sugerido:** infográfico didático.
+- **Legenda (rascunho):** "Indicadores essenciais para monitorar risco e desempenho em saúde do trabalhador."
+- **Notas (opcional):** priorizar contraste alto e elementos legíveis em tela pequena.
 
-## Pneumoconioses
+---
 
-Pneumoconioses são doenças pulmonares causadas pela inalação de poeiras minerais, como sílica, asbesto e carvão. O processo é crônico, fibrosante e associado a exposição prolongada. O raciocínio de prova costuma ligar atividade ocupacional, exposição ambiental e padrão respiratório progressivo.
+## Tipos de indicadores e utilidade prática
 
-> **Dica de Prova:** pneumoconiose não é asma ocupacional e nem infecção pulmonar. O mecanismo principal é inalação crônica de partículas com reação tecidual e fibrose.
+Na saúde ocupacional, os indicadores podem ser organizados em quatro grupos:
 
-## PAIR
+- **Estrutura:** recursos disponíveis (equipe, EPI, protocolos).
+- **Processo:** execução de ações (cobertura de treinamento, adesão a fluxos, investigação de eventos).
+- **Resultado:** desfechos (acidente, adoecimento, afastamento, incapacidade).
+- **Impacto:** efeito de longo prazo na população trabalhadora.
 
-A perda auditiva induzida por ruído é sensorioneural, progressiva e geralmente irreversível. Surge por exposição prolongada a ruído intenso. O erro clássico é enxergá-la como evento agudo ou como simples “envelhecimento da audição”. O contexto ocupacional muda tudo.
+Esse enquadramento evita confundir atividade realizada com resultado alcançado.
+
+> **Dica de Prova:** indicador de processo mede "o que foi feito"; indicador de resultado mede "o que aconteceu com a saúde".
+
+---
+
+## Indicadores epidemiológicos mais cobrados
+
+### Incidência de agravos ocupacionais
+
+Expressa casos novos em período definido, em população exposta. É útil para detectar aumento recente de risco após mudança de processo produtivo.
+
+### Prevalência de adoecimento relacionado ao trabalho
+
+Mostra o total de casos existentes em determinado momento, incluindo quadros antigos. Ajuda a estimar carga de doença e necessidade assistencial contínua.
+
+### Taxa de frequência e gravidade de acidentes
+
+Muito utilizada em gestão de segurança:
+- **Frequência:** quantos acidentes ocorrem em relação à exposição (horas trabalhadas, por exemplo).
+- **Gravidade:** quanto os acidentes impactam dias perdidos, sequelas ou óbitos.
+
+### Indicadores de absenteísmo por causa ocupacional
+
+Permitem detectar setores com sofrimento organizacional, sobrecarga física e possíveis falhas de prevenção.
+
+---
+
+## Quadro comparativo para interpretação
+
+| Indicador | O que mede | Melhor uso | Limitação clássica |
+|----------|------------|------------|--------------------|
+| Incidência | Casos novos | Detectar mudança recente de risco | Sensível à subnotificação |
+| Prevalência | Casos totais existentes | Medir carga de doença | Pode parecer alta mesmo sem casos novos |
+| Frequência de acidente | Número de eventos por exposição | Comparar períodos de uma mesma unidade | Comparação entre setores exige cautela |
+| Gravidade de acidente | Impacto em dias perdidos/sequela | Priorizar eventos de maior dano | Pode subestimar acidentes leves recorrentes |
+| Absenteísmo ocupacional | Afastamentos por motivo de trabalho | Vigilância de desgaste coletivo | Dependente da qualidade do registro |
+
+> **Pegadinha:** queda de incidência não prova melhora real se houve piora da notificação.
+
+---
+
+## Fontes de dados e qualidade da informação
+
+Os dados ocupacionais são obtidos de notificações, prontuários, CAT, sistemas de vigilância e registros administrativos de RH.  
+Problema frequente: preencher campos incompletos (ocupação, setor, agente causal, circunstância), o que inviabiliza análise robusta.
+
+A boa prática inclui:
+1. Padronizar definição de caso.
+2. Treinar equipe notificadora.
+3. Auditar consistência dos bancos.
+4. Devolver análise para quem coleta dado.
+
+Sem esse ciclo, indicador vira apenas número em relatório.
+
+---
 
 ## Ponte com a Clínica
 
-Secretária com dor em punho e ombro, operador de mineração com dispneia progressiva, trabalhador fabril com perda auditiva bilateral de altas frequências: são cenários diferentes, mas todos exigem a mesma pergunta central, que a prova adora cobrar: qual exposição ocupacional explica esse adoecimento?
+Imagine uma unidade hospitalar com aumento de lombalgia entre técnicos de enfermagem. A prevalência pode estar alta há meses, mas a incidência subiu após mudança de escala e redução de pausas. O dado orienta intervenção ergonômica e reorganização do processo de trabalho.
+
+Se, após três meses, cai a frequência de afastamentos e melhora a adesão a medidas de prevenção, o serviço ganha evidência de efetividade da ação. Isso é epidemiologia aplicada ao cuidado do trabalhador.
+
+---
+
+## Pontos-Chave para Prova
+
+- Indicadores de estrutura, processo e resultado respondem perguntas diferentes.
+- Incidência capta casos novos; prevalência capta carga total existente.
+- Taxa de frequência e gravidade de acidente são complementares, não concorrentes.
+- Qualidade de dado é condição para interpretação válida.
+- Subnotificação pode simular melhora artificial.
+- Banca valoriza leitura crítica, não apenas fórmula decorada.
+
+---
 
 ## Pré-Prova
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **LER/DORT:** agravos osteomusculares ligados à repetição, força e postura.
-- **Pneumoconiose:** doença pulmonar por inalação crônica de poeira mineral.
-- **PAIR:** perda auditiva sensorioneural por ruído ocupacional.
-- **Prevenção:** depende de intervenção no processo de trabalho.
-- **Nexo ocupacional:** é essencial para interpretar corretamente o quadro.
-- **Crônico e cumulativo:** padrão frequente nas doenças ocupacionais.
+Em saúde do trabalhador, indicador bom é aquele que muda decisão. Se a questão citar casos novos em período, a lógica é incidência; se citar todos os casos existentes, é prevalência. Para acidente, lembre que frequência e gravidade se complementam: uma mostra quantos eventos ocorrem, a outra mostra o tamanho do dano.
+
+A interpretação correta depende da qualidade da informação. Subnotificação, erro de preenchimento e mudança de critério diagnóstico distorcem tendência temporal. Por isso, comparar setores diferentes sem ajustar contexto pode levar a conclusão errada.
+
+Quando a banca traz cenário prático, a resposta mais forte costuma ligar indicador a ação: detectar problema, intervir e reavaliar.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| LER/DORT | Trauma agudo | LER/DORT é cumulativo e repetitivo; trauma agudo é súbito |
-| Pneumoconiose | Infecção respiratória | Pneumoconiose decorre de poeira e fibrose, não de agente infeccioso |
-| PAIR | Presbiacusia | A PAIR depende de ruído ocupacional e padrão característico de exposição |
-| Tratar sintoma | Intervir na causa | Sem mudar o trabalho, o adoecimento tende a persistir |
+| Incidência | Prevalência | Incidência mede casos novos; prevalência mede total de casos existentes |
+| Indicador de processo | Indicador de resultado | Processo mede execução da ação; resultado mede efeito em saúde |
+| Frequência de acidente | Gravidade de acidente | Frequência conta eventos; gravidade quantifica impacto do evento |
+| Queda de notificação | Queda real de risco | Menos registros pode ser subnotificação, não melhora real |
 
 ### Frase-âncora para não esquecer
 
-> "Quando a exposição se repete todos os dias, a doença também se constrói aos poucos."
+> "Indicador sem contexto engana; indicador com boa base guia prevenção."

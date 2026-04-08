@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A semiologia ortopédica segue inspeção, palpação, amplitude de movimento (ADM), testes de estabilidade e avaliação neurovascular. Correlacionar dor referida (radiculopatia L5 vs S1), linhas de Bryant/Galeazzi (trauma pediátrico) e testes como Lachman e Jobe permite hipótese diagnóstica antes da imagem. Em prova, cobram-se padrões de trauma (menisco, LCA, manguito) e red flags (infecção, tumor).
+A **semiologia ortopédica** segue **inspeção**, **palpação**, **amplitude de movimento (ADM)**, **testes de estabilidade** e **avaliação neurovascular**. Correlacionar **dor referida** (radiculopatia L5 vs S1), **linhas de Bryant/Galeazzi** (trauma pediátrico) e testes como **Lachman** e **Jobe** permite hipótese diagnóstica antes da imagem. Em prova, cobram-se **padrões de trauma** (menisco, LCA, manguito) e **red flags** (infecção, tumor).
 
 ---
 
@@ -23,7 +23,7 @@ Simetria, **edema**, hematoma, **deformidades** (depressão supraespinal, “de 
 
 ## Palpação
 
-Pontos de referência ósseos (epicôndilos, maleolos, tuberosidade tibial). Dor à palpação na linha de fratura, tendões (Aquiles, rotuliano), cavidades articulares (derrame).
+Pontos de referência ósseos (**epicôndilos**, **maleolos**, **tuberosidade tibial**). **Dor à palpação** na linha de fratura, **tendões** (Aquiles, rotuliano), **cavidades articulares** (derrame).
 
 ---
 
@@ -44,20 +44,20 @@ Ativa e passiva — **perda de ADM passiva** sugere **contratura** articular ou 
 
 ## Testes especiais — amostra
 
-| Região | Teste | Interpretação (ideia) |
+| Região | Teste | Interpretação (visão de prova) |
 |--------|-------|------------------------|
 | Joelho | Lachman | LCA (sensível precocemente) |
 | Joelho | McMurray | menisco (menos específico isolado) |
 | Ombro | Jobe | supraespinal / impacto |
 | Tornozelo | anterior drawer | ligamento talofibular anterior |
 
-> **Pegadinha:** RM “positiva para menisco” em assintomático idoso — correlacione clínica.
+> **Pegadinha:** **RM** “positiva para menisco” em assintomático idoso — correlacione clínica.
 
 ---
 
 ## Avaliação neurovascular
 
-Pulsos, perfusão, capilar, motricidade, sensibilidade. Pós-redução de luxação ou fratura: documentar antes e depois. Síndrome compartimental: dor desproporcional, dor à passiva dos dedos — não esperar pulso ausente.
+**Pulsos**, **perfusão**, **capilar**, **motricidade**, **sensibilidade**. Pós-redução de luxação ou fratura: **documentar** antes e depois. **Síndrome compartimental**: dor desproporcional, dor à passiva dos dedos — **não** esperar pulso ausente.
 
 ### Figura sugerida
 
@@ -72,7 +72,7 @@ Pulsos, perfusão, capilar, motricidade, sensibilidade. Pós-redução de luxaç
 
 ## Dor irradiada e coluna
 
-L4 — face medial perna/pé; L5 — dorso do pé; S1 — borda lateral do pé. Confundir joelho com radiculopatia atrasa diagnóstico.
+**L4** — face medial perna/pé; **L5** — dorso do pé; **S1** — borda lateral do pé. Confundir **joelho** com **radiculopatia** atrasa diagnóstico.
 
 ### Figura sugerida
 
@@ -87,7 +87,7 @@ L4 — face medial perna/pé; L5 — dorso do pé; S1 — borda lateral do pé. 
 
 ## Ponte com a Clínica
 
-Paciente pós-trauma com dor em coxa e rotação externa da perna: não caminhe até excluir fratura de quadril no idoso. Criança com claudicação afebril: DDQ, Perthes, epifisiólise na lista.
+Paciente pós-trauma com **dor em coxa** e rotação externa da perna: **não** caminhe até excluir **fratura de quadril** no idoso. Criança com **claudicação** afebril: **DDQ**, **Perthes**, **epifisiólise** na lista.
 
 ---
 
@@ -104,11 +104,11 @@ Paciente pós-trauma com dor em coxa e rotação externa da perna: não caminhe 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Trendelenburg** — causa e mecanismo.
-- **Sinal de Finkelstein** — tenossinovite de De Quervain.
-- **Phalen** — Túnel do carpo.
+Na prova, lembre que Trendelenburg — causa e mecanismo. Sinal de Finkelstein — tenossinovite de De Quervain.
+
+Para não errar em cenário clínico, considere também Phalen — Túnel do carpo.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -121,14 +121,3 @@ Paciente pós-trauma com dor em coxa e rotação externa da perna: não caminhe 
 ### Frase-âncora para não esquecer
 
 > “**Sem neurovascular** documentado, o exame ortopédico está **incompleto**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione achados do exame com **indicação de imagem** — radiografia antes de RM na maioria dos traumas agudos. Exame repetido em séries (luxação reduzida).
-
-### Leitura de reforço
-
-- Manual de exame físico musculoesquelético
-- Algoritmos de trauma pediátrico (OSS)

@@ -7,129 +7,114 @@
 
 ## Relevância Clínica e Acadêmica
 
-A APS exige olhar **além do indivíduo**: família e comunidade são **contexto de risco e proteção**. Ferramentas como **genograma**, **ecomapa** e práticas de **educação popular em saúde** ajudam a mapear **redes**, **conflitos**, **recursos** e **barreiras de cuidado**. Em prova, aparecem como **instrumentos do cuidado integral** e como suporte à **territorialização**.
-
+No contexto do SUS, a saúde é indissociável da **Família** e do **Território**. As ferramentas de abordagem familiar são as lentes que permitem enxergar além do sintoma biológico. Para a prova, domine a diferença técnica entre **Genograma** (estrutura interna) e **Ecomapa** (rede de apoio externa), além dos princípios da **Educação Popular em Saúde**. Na prática, esses instrumentos resolvem casos de **baixa adesão** e sofrimento psíquico.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após explicação inicial de genograma.
+- **O que mostrar:** exemplo didático de genograma com três gerações, marcadores de doença crônica e evento crítico recente.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Genograma clínico: estrutura familiar, eventos de vida e pistas para decisão terapêutica."
+- **Notas (opcional):** manter simbologia padronizada e legenda curta.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A9-F02`
+
+- **Momento:** após bloco de ecomapa e rede de apoio.
+- **O que mostrar:** ecomapa com família central e vínculos fortes, frágeis e conflituosos com escola, trabalho, UBS, CAPS e assistência social.
+- **Tipo sugerido:** infográfico de rede.
+- **Legenda (rascunho):** "Ecomapa revela barreiras e potências do território para o cuidado continuado."
+- **Notas (opcional):** destacar utilidade para planejamento intersetorial.
 
 ---
 
-## Genograma: mapa de relações e riscos
+O **Genograma** é um desenho que mostra pelo menos **3 gerações** da família. 
+- **Quadrado:** Homem.
+- **Círculo:** Mulher.
+- **Linha Dupla:** Vínculo muito forte.
+- **Linha Pontilhada:** Vínculo frágil.
+- **Linha com Zig-zag:** Conflito.
 
-O **genograma** é um diagrama padronizado que registra **parentesco**, **eventos críticos** (nascimento, morte, separação), e frequentemente **doenças familiares relevantes** (hipertensão, DM, neoplasias, doença mental). Símbolos simples representam **sexo**, **idade**, **falecimento**, **casamento/união**.
-
-> **Dica de Prova:** Genograma não é “árvore genealógica decorativa”: é **ferramenta clínica** para **risco**, **herança** e **dinâmica familiar**.
-
-### Como usar em raciocínio de prova
-
-- **Padrão de doenças crônicas** na família → reforça **prevenção** e **rastreio**.
-- **Eventos recentes** (luto, violência) → explica **adesão** e **sintomas**.
-- **Estrutura familiar** (monoparental, extensa) → organiza **plano terapêutico** e **rede de apoio**.
+> **Gatilho de Prova:** Se a questão fala em "mapear doenças hereditárias" ou "ver quem mora com quem", a ferramenta é o **Genograma**.
 
 ---
 
-## Ecomapa: rede social e forças externas
+## Ecomapa: contexto social e institucional do cuidado
 
-O **ecomapa** representa a família no centro e ligações com **trabalho**, **escola**, **vizinhança**, **serviços**, **religião**, **saúde**. Linhas indicam **qualidade da relação** (forte, tensa, frágil). Serve para identificar **isolamento social**, **suporte real** e **estresse**.
+O ecomapa posiciona a família no centro e mapeia qualidade dos vínculos com instituições e recursos do território: escola, trabalho, UBS, CAPS, CRAS, vizinhança, grupos religiosos e redes informais.
 
-> **Pegadinha:** Ecomapa não substitui diagnóstico psiquiátrico — **contextualiza** adesão e vulnerabilidade.
+Esse instrumento revela por que condutas tecnicamente corretas podem fracassar quando existem barreiras sociais invisíveis no consultório.
 
----
-
-## Educação Popular em Saúde (EPS)
-
-A EPS dialoga com tradições como **Paulo Freire**: problematização, diálogo horizontal, **evitar “banking education”** em saúde. Em equipes, aparece em **grupos terapêuticos**, **oficinas** e **ações comunitárias**. O foco é **autonomia** e **empoderamento**, não apenas “palestra informativa”.
-
-### Diferença prática
-
-| Abordagem vertical | Abordagem popular |
-|--------------------|-------------------|
-| transmite regra | constrói sentido |
-| culpabiliza | problematiza estrutura |
-| mede adesão só pelo resultado | entende barreiras |
+Exemplo no SUS real: paciente com depressão moderada sem melhora, apesar de medicação adequada. O ecomapa mostra vínculo frágil com rede de apoio e ruptura com trabalho. A equipe reorganiza plano com apoio psicossocial e articulação intersetorial.
 
 ---
 
-## Integração com territorialização
+## Educação popular em saúde: método para autonomia
 
-Sem **território**, genograma e ecomapa viram “desenho solto”. O vínculo com **microárea** e **cadastro** permite **priorizar visitas** e **ações interprofissionais** (CAPS, CRAS, escola).
+A educação popular em saúde não é aula expositiva unilateral. É construção compartilhada de sentido sobre saúde-doença, valorizando saber local e autonomia.
 
----
+No cotidiano da UBS, isso aparece em rodas de conversa, grupos de condições crônicas, ações comunitárias e elaboração conjunta de metas factíveis de autocuidado.
 
-## Genograma: convenções que caem em prova
+### Tabela útil: ferramenta, finalidade e erro comum
 
-Memorize o básico: **círculo** para mulher, **quadrado** para homem, **traço** de união, **filhos** alinhados sob o casal. **Linha cortada** pode indicar separação; **hachura** pode marcar falecimento (seguir legenda do enunciado). **Idade** anotada ajuda a calcular **risco obstétrico**, **vacinação** e **rastreio**.
-
-> **Pegadinha:** Se a prova mostrar **doenças repetidas em gerações**, pense em **rastreio dirigido** e **aconselhamento genético** quando aplicável — não em “coincidência”.
-
----
-
-## Ecomapa: leitura rápida das linhas
-
-Linhas **grossas** costumam indicar **forte vínculo**; linhas **tracejadas** ou **quebradas** sugerem **tenção** ou **fragilidade**. Serviços públicos mal conectados explicam **falhas de continuidade** mesmo com diagnóstico correto na UBS.
+| Instrumento | Foco do Diagnóstico | Aplicação Clínica Prática |
+|--------------|---------------------|---------------------------|
+| **Genograma** | Estrutura Familiar interna (3 gerações) | Identificar padrões de **doença hereditária** e luto |
+| **Ecomapa** | Relações externas (Instituições) | Mapear **vínculos frágeis** ou suporte social |
+| **Educação Popular**| Produção de **Autonomia** | Grupos de crônicos e **Empoderamento** do paciente |
 
 ---
 
-## Sigilo, consentimento e registro
+## Territorialização e priorização de risco
 
-Ferramentas gráficas contêm **dados sensíveis**. A equipe deve **explicar o porquê** do genograma/ecomapa e **registrar** de forma objetiva na evolução — sem julgamento moral. Isso protege o paciente e **profissionaliza** o cuidado familiar.
+As ferramentas familiares e comunitárias fazem sentido quando conectadas ao território adscrito. A equipe precisa transformar informação em ação: visita domiciliar, busca ativa, plano compartilhado e articulação com rede intersetorial.
 
----
+Sem territorialização, o cuidado vira resposta episódica. Com territorialização, a APS antecipa risco e reduz agravamentos evitáveis.
 
-## ACS e abordagem comunitária: encaixe prático
-
-O **ACS** costuma ser quem **inicia vínculo** e **atualiza informações** de território. Genograma/ecomapa ajudam a **traduzir** achados comunitários para o médico e enfermeiro, evitando decisões só com “o que o paciente lembra na consulta de 15 minutos”.
+No SUS real, essa lógica é decisiva em saúde mental, pré-natal de risco social, cuidado de idosos frágeis e manejo de doenças crônicas com baixa adesão.
 
 ---
 
-## Grupos, oficinas e educação em saúde
+## Registro ético, sigilo e consentimento
 
-Quando a aula cita **grupos de hipertensos**, **oficinas de diabetes** ou **roda de conversa**, conecte com **EPS** e **integralidade**: promoção e tratamento caminham juntos. O foco é **autonomia** com **acompanhamento**, não culpabilização.
+Genograma e ecomapa lidam com dados sensíveis. A equipe deve explicar objetivo do instrumento, obter concordância do usuário e registrar apenas informações necessárias para o cuidado.
+
+Boas práticas:
+
+- evitar linguagem estigmatizante no prontuário;
+- registrar fatos clinicamente relevantes de forma objetiva;
+- compartilhar dados somente com profissionais envolvidos no cuidado;
+- revisar periodicamente informações familiares e comunitárias.
+
+Essa postura protege paciente, equipe e qualidade do plano terapêutico.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente com asma mal controlada pode ter **fumaça em casa**, **superlotação** ou **conflito familiar** — o genograma/ecomapa ajudam a ver **onde** intervir além do broncodilatador. Registrar isso é **cuidado integral**, não invasão de privacidade: requer **ética** e **consentimento**.
+Pense em uma idosa com insuficiência cardíaca, múltiplas reinternações e baixa adesão. O genograma identifica filha cuidadora exausta e conflito entre irmãos sobre divisão de tarefas. O ecomapa mostra vínculo fraco com assistência social e ausência de apoio comunitário. Com essas informações, a equipe reorganiza acompanhamento domiciliar, articula rede social e melhora aderência terapêutica.
+
+Esse exemplo mostra que ferramenta familiar e comunitária não é conteúdo decorativo: é tecnologia leve de alto impacto clínico no SUS real.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Genograma:** relações, doenças, eventos; risco herdado e dinâmica.
-- **Ecomapa:** suporte social e estresse ambiental.
-- **EPS:** diálogo, autonomia, método freiriano (visão geral).
-- **Territorialização:** ancora ferramentas na realidade do bairro.
+- **Ecomapa:** Desenha o "Mundo" da família. Mostra se eles usam a igreja, a escola, o CAPS ou o hospital.
+- **Educação Popular (Paulo Freire):** Troca de saberes entre médico e paciente. O foco é a **Autonomia**.
+- **PRACTICE:** Acrônimo para avaliar problemas complexos na família.
+- **FIRO:** Avalia a dinâmica de inclusão, controle e afeto na família.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Genograma:** símbolos, linhas, história familiar.
-- **Ecomapa:** qualidade das conexões externas à família.
-- **EPS:** método participativo; evitar verticalismo.
-- **APS:** ferramentas servem **integralidade** e **território**.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Genograma | Ecomapa | Genograma = parentesco/doenças; ecomapa = **rede social** externa. |
-| EPS | Marketing de hospital | EPS é **processo dialógico**; marketing é persuasão comercial. |
-| Territorialização | “Ir na comunidade uma vez” | Territorialização é **vínculo** e **planejamento contínuo**. |
+| Instrumento | O que ele mede? | Diferencial para Prova |
+|--------------|------------------|-------------------------|
+| **Genograma** | Estrutura Interna| Genética e **Vínculos Familiares** |
+| **Ecomapa** | Meio Externo | Apoio Social e **Instituições** |
+| **PICC** | Funcionalidade| **Adaptação** da família à crise |
+| **Acolhimento**| Escuta Qualificada| Não é triagem; é **Cuidado** |
 
 ### Frase-âncora para não esquecer
 
-> “Família não é detalhe — é cenário onde a doença vive.”
+> "Genograma revela o passado e o sangue; Ecomapa revela o presente e o suporte."

@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "validate:materiais": "node scripts/validate_materiais_md.mjs",
     "restore:firestore-backup": "node scripts/restore-firestore-from-dump.mjs",
     "stripe:list-prices": "node scripts/list-stripe-prices.mjs",
     "deploy:functions": "firebase deploy --only functions"

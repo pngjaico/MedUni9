@@ -12,6 +12,17 @@ A **síndrome de fragilidade** é um estado de **vulnerabilidade** a estressores
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A4-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Por que “funcionalidade” importa mais que o número no RG
 
 **Atividades básicas da vida diária (ABVD)** e **instrumentais (AIVD)** traduzem o impacto real da doença. Um paciente com **PAH controlada** mas **impossibilitado de sair de casa** tem prioridade de manejo distinta daquele que **caminha todos os dias**.
@@ -81,12 +92,11 @@ Paciente de 78 anos com **HRC** estável mas **medo de cair** e **evita sair**: 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Critérios fenotípicos** de Fried (ideia dos 5 domínios).  
-- **Velocidade da marcha** e **SPPB** como prognóstico.  
-- Diferença **frágil** × **pré-frágil** × **robusto** (conceito).  
-- Objetivos **individualizados** em idoso frágil.
+Critérios fenotípicos de Fried (ideia dos 5 domínios). Velocidade da marcha e SPPB como prognóstico.
+
+Diferença frágil × pré-frágil × robusto (conceito). Objetivos individualizados em idoso frágil.
 
 ### Diferenciações que a Uninove adora cobrar
 

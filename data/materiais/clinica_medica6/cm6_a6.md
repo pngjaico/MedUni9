@@ -12,6 +12,17 @@ As **leucemias** são neoplasias **hematopoiéticas** caracterizadas por **acúm
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A6-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Classificação essencial (mapa mental)
 
 | Categoria | Subtipos principais (nomenclatura WHO evolui) | Comentário clínico |
@@ -81,13 +92,13 @@ Paciente com **púrpura**, **febre** e **blastos** no hemograma: não espere bi�
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Blastos** → pensar **aguda**.  
-- **PML-RARA** / **APL** e risco de sangramento.  
-- **BCR-ABL** e **LMC**.  
-- **LLC:** fenótipo típico, quando tratar.  
-- **Crise blástica** na LMC.
+Blastos → pensar aguda. PML-RARA / APL e risco de sangramento.
+
+BCR-ABL e LMC. LLC: fenótipo típico, quando tratar.
+
+Crise blástica na LMC.
 
 ### Diferenciações que a Uninove adora cobrar
 

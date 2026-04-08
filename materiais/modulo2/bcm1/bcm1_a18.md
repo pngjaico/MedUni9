@@ -4,7 +4,7 @@
 
 As doenças autossômicas recessivas (AR) constituem o maior grupo de doenças monogênicas, com mais de 3.000 condições catalogadas. Diferentemente das doenças dominantes, nas quais um único alelo mutado já produz fenótipo, as AR exigem dois alelos não funcionais — o que significa que pais portadores assintomáticos podem gerar filhos afetados sem qualquer aviso clínico prévio. Isso faz do aconselhamento genético pré-concepcional e do diagnóstico pré-natal instrumentos insubstituíveis na medicina preventiva.
 
-Esta aula aborda os principais mecanismos moleculares e as doenças AR mais cobradas pela **Uninove** no grupo das doenças de depósito lisossômico e de canalopatias/doenças metabólicas. A aula seguinte (a19) trata dos erros inatos do metabolismo de aminoácidos e ácidos orgânicos. Juntas, elas formam a base da bioquímica clínica genética que aparece consistentemente nas provas práticas.
+Esta aula aborda os principais mecanismos moleculares e as doenças AR mais cobradas pela Uninove no grupo das doenças de depósito lisossômico e de canalopatias/doenças metabólicas. A aula seguinte (a19) trata dos erros inatos do metabolismo de aminoácidos e ácidos orgânicos. Juntas, elas formam a base da bioquímica clínica genética que aparece consistentemente nas provas práticas.
 
 ### Figura sugerida
 
@@ -173,17 +173,18 @@ Defeitos em enzimas de degradação de glicosaminoglicanos (GAG — heparana, de
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-FC: CFTR/7q31, ΔF508, Cl⁻ suor > 60, pulmão + pâncreas + reprodução afetados. Moduladores CFTR: ivacaftor (G551D), elexacaftor/tezacaftor/ivacaftor (ΔF508). Gaucher tipo 1: β-glucocerebrosidase, macrófagos, hepatoesplenomegalia + citopenias, judeus; ERT.
-
-Tay-Sachs: hexosaminidase A, GM2, mancha vermelho-cereja, hiperacusia, regressão neurológica fatal. Pompe: GAA, glicogênio lisossômico, floppy infant + cardiomegalia; ERT urgente. MPS I Hurler: iduronidase, fácies grossa + DI + opacidade corneal; AR.
-
-MPS II Hunter: XLR! iduronato sulfatase, sem opacidade corneal. Portador AR = heterozigoto saudável; 25% risco para filhos de dois portadores. Consanguinidade aumenta risco de AR (IBD).
+- **FC:** CFTR/7q31, ΔF508, Cl⁻ suor > 60, pulmão + pâncreas + reprodução afetados
+- **Moduladores CFTR:** ivacaftor (G551D), elexacaftor/tezacaftor/ivacaftor (ΔF508)
+- **Gaucher tipo 1:** β-glucocerebrosidase, macrófagos, hepatoesplenomegalia + citopenias, judeus; ERT
+- **Tay-Sachs:** hexosaminidase A, GM2, mancha vermelho-cereja, hiperacusia, regressão neurológica fatal
+- **Pompe:** GAA, glicogênio lisossômico, floppy infant + cardiomegalia; ERT urgente
+- **MPS I Hurler:** iduronidase, fácies grossa + DI + opacidade corneal; AR
+- **MPS II Hunter:** XLR! iduronato sulfatase, sem opacidade corneal
+- **Portador AR = heterozigoto saudável; 25% risco para filhos de dois portadores**
+- **Consanguinidade aumenta risco de AR** (IBD)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -196,13 +197,4 @@ MPS II Hunter: XLR! iduronato sulfatase, sem opacidade corneal. Portador AR = he
 | Heterozigoto composto | Homozigoto | Composto = 2 alelos mutados diferentes; Homozigoto = 2 cópias idênticas da mutação |
 
 ### Frase-âncora para não esquecer
-
 > "Depósito lisossômico = enzima quebrada trava o acúmulo de substrato nos lisossomos. Gaucher guarda gordura nos macrófagos. Tay saai com o gangliosídeo nos neurônios e apaga o bebê. Pompe empaca glicogênio no músculo e no coração. FC engrossa o muco e afoga os pulmões."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

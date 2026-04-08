@@ -1,87 +1,126 @@
-# FF4 — Aula 14: Diagnósticos Diferenciais — Integração Clínica Endócrina
+# ST — Aula 1: Fundamentos de saúde do trabalhador
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 4
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-12 min
+**Disciplina:** Saúde do trabalhador  
+**Módulo:** 3
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A última aula de FF4 integra os diagnósticos diferenciais das endocrinopatias estudadas no módulo. Questões integradoras frequentemente apresentam um quadro clínico amplo e pedem para o aluno identificar a síndrome, o hormônio alterado e o exame diagnóstico. Esse tipo de questão exige visão sistêmica — exatamente o objetivo desta aula.
+Saúde do trabalhador é tema transversal entre clínica, medicina preventiva e vigilância.
+Na prova, a banca costuma oferecer um caso comum e esconder a exposição ocupacional no enunciado.
+Na prática, reconhecer esse vínculo muda diagnóstico, prognóstico e prevenção de novos casos.
+
+Essa base inicial também orienta decisões mais seguras na APS, urgência e ambulatórios.
+O foco não é apenas tratar doença instalada, mas identificar processo de trabalho que produz risco.
+Sem essa leitura, cresce a subnotificação e o cuidado fica incompleto.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
-
-
+- **Momento:** após a contextualização de relevância.
+- **O que mostrar:** fluxo de cuidado no SUS para caso com suspeita de nexo ocupacional.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Da porta de entrada à vigilância em saúde do trabalhador."
 
 ---
 
-## Abordagem ao Paciente com Hipertensão Endócrina
+## Conceitos que estruturam o raciocínio
 
-Nem toda HAS é primária (essencial). Causas endócrinas de HAS secundária:
-- **Aldosteronismo primário** (síndrome de Conn): hipocalemia + HAS resistente + aldosterona alta + renina suprimida. Investigado com relação aldosterona/renina.
-- **Feocromocitoma:** crises paroxísticas (cefaleia, sudorese, palpitações) + metanefrinas urinárias elevadas.
-- **Síndrome de Cushing:** HAS + obesidade central + DM + estrias.
-- **Hipotireoidismo:** HAS diastólica + bradicardia + mixedema.
-- **Hipertireoidismo:** HAS sistólica + taquicardia + tremor.
+**Perigo** é a fonte potencial de dano.
+**Risco** é a probabilidade de dano diante de intensidade, frequência e tempo de exposição.
+**Nexo ocupacional** é a relação plausível entre trabalho e agravo, sustentada por dados clínicos e contexto.
 
-> **Dica de Prova:** HAS + hipocalemia + sem uso de diurético = pensar em aldosteronismo primário primeiro. HAS em crises paroxísticas = feocromocitoma.
+Três perguntas guiam a consulta inicial:
 
----
+1. Qual tarefa concreta o trabalhador executa?
+2. Qual exposição relevante ocorre durante a jornada?
+3. Há relação temporal entre trabalho e sintoma?
 
-## Síndrome Metabólica — Diagnóstico Integrado
+> **Dica de Prova:** profissão, turno, jornada e ambiente quase sempre são pistas de nexo.
 
-A síndrome metabólica (SM) é um conjunto de fatores que aumentam risco cardiovascular e de DM2:
-- Circunferência abdominal: H > 102 cm (ATP III) ou > 90 cm (IDF para latino-americanos); M > 88 cm / > 80 cm.
-- Triglicerídeos ≥ 150 mg/dL.
-- HDL baixo: H < 40, M < 50 mg/dL.
-- PA ≥ 130/85 mmHg.
-- Glicemia jejum ≥ 100 mg/dL.
-**Critério:** 3 de 5 presentes = SM (ATP III).
+> **Pegadinha:** ausência de documento prévio não exclui doença relacionada ao trabalho.
 
 ---
 
-## Hipotireoidismo vs. Hipertireoidismo
+## Riscos ocupacionais: visão prática
 
-| Característica | Hipotireoidismo | Hipertireoidismo |
-|----------------|-----------------|------------------|
-| FC | Bradicardia | Taquicardia |
-| Peso | Aumento | Perda |
-| Pele | Seca, fria, mixedema | Úmida, quente |
-| TSH | Alto (1ário) | Baixo |
-| T4 livre | Baixo | Alto |
-| Causa mais comum | Tireoidite Hashimoto | Doença de Graves |
+| Grupo | Exemplos de exposição | Agravos frequentes | Medida inicial |
+|-------|------------------------|--------------------|----------------|
+| Físicos | ruído, calor, vibração | PAIR, estresse térmico | controle ambiental e vigilância periódica |
+| Químicos | solventes, poeiras, metais | asma, dermatite, intoxicação | reduzir exposição e monitorar |
+| Biológicos | sangue e secreções | hepatites, tuberculose | precauções padrão e protocolo pós-exposição |
+| Ergonômicos | repetição e postura forçada | LER/DORT, lombalgia | ajuste de posto, pausa e reabilitação |
+| Acidentários | máquinas sem proteção | trauma e amputação | bloquear risco e treinar equipe |
+| Psicossociais | assédio e metas abusivas | ansiedade, burnout | intervenção organizacional e cuidado multiprofissional |
 
-> **Pegadinha:** no hipotireoidismo secundário (hipopituitarismo), o TSH é baixo e o T4 é baixo — confunde com hipertireoidismo no TSH. Diferencial: T4 livre baixo confirma hipotireoidismo.
+Risco não é fixo.
+Ele se altera com mudanças de jornada, equipe, tarefa e barreiras de proteção.
+Por isso, vigilância precisa ser contínua.
 
 ---
 
-## Múltiplas Neoplasias Endócrinas (MEN)
+## NRs mais cobradas neste início
 
-| Tipo | Componentes | Mnemônico |
-|------|-------------|-----------|
-| MEN1 | Hipófise + Paratireoide + Pâncreas | "3 P" |
-| MEN2A | Tireóide (Ca medular) + Feocromocitoma + Paratireoide | "Tir-Feo-Para" |
-| MEN2B | Ca medular tireóide + Feo + Neuromas mucosos mucosos | - |
+- **NR-1:** base do gerenciamento de riscos ocupacionais.
+- **NR-6:** seleção, uso e eficácia real de EPI.
+- **NR-7:** PCMSO e vigilância médica orientada por risco.
+- **NR-9:** avaliação e controle de exposições.
+- **NR-17:** ergonomia e organização do trabalho.
+- **NR-32:** segurança em serviços de saúde.
+
+### Tabela rápida: NR e cenário clínico
+
+| NR | Cenário típico | O que o aluno deve concluir |
+|----|----------------|-----------------------------|
+| NR-7 | audiometria alterada em trabalhador exposto a ruído | há nexo provável e necessidade de seguimento ocupacional |
+| NR-17 | dor crônica em teleatendimento com pausas insuficientes | falha ergonômica de processo, não só problema individual |
+| NR-32 | acidente com perfurocortante em hospital | conduta imediata e prevenção institucional |
+| NR-6 | queimadura química sem proteção adequada | EPI inadequado ou uso incorreto deve ser revisado |
+
+---
+
+## Vigilância em saúde do trabalhador
+
+A vigilância integra assistência e prevenção.
+Não termina na notificação.
+Inclui investigação do processo produtivo, análise de padrão de casos e intervenção coletiva.
+
+Na rotina assistencial:
+
+- registrar função e exposição no prontuário;
+- qualificar hipótese de nexo com cronologia;
+- orientar redução de risco imediato;
+- articular rede quando houver recorrência no setor.
+
+### Figura sugerida
+
+**Figura-ID:** `ST-A1-F02`
+
+- **Momento:** após a seção de vigilância.
+- **O que mostrar:** matriz exposição-agente-agravo-conduta.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** "Raciocínio clínico-ocupacional da exposição ao plano de ação."
+
+---
+
+## Ponte com a Clínica
+
+Paciente de 33 anos, auxiliar de limpeza, relata chiado e tosse com piora no fim do turno.
+No fim de semana, sintomas reduzem parcialmente.
+Com anamnese ocupacional dirigida, surge exposição intensa a saneantes voláteis em ambiente pouco ventilado.
+Conduta correta: manejar quadro respiratório, reduzir exposição, registrar nexo provável e ativar fluxo de vigilância.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Aldosteronismo primário:** HAS + hipocalemia + aldosterona alta + renina baixa.
-- **Feocromocitoma:** crises + metanefrinas urinárias.
-- **SM:** 3 de 5 critérios (IDF/ATP III).
-- **Hashimoto:** hipotireoidismo 1ário; TSH alto + T4 baixo.
-- **Graves:** hipertireoidismo; TSH baixo + T4 alto + anticorpos.
-- **MEN1 = 3P:** pituitária + paratireoide + pâncreas.
+- saúde do trabalhador combina clínica, prevenção e vigilância;
+- risco ocupacional exige leitura de tarefa, agente e tempo;
+- NRs devem ser aplicadas como ferramenta prática;
+- registro clínico bem feito fortalece nexo e continuidade;
+- caso individual pode sinalizar problema coletivo.
 
 ---
 
@@ -91,23 +130,24 @@ A síndrome metabólica (SM) é um conjunto de fatores que aumentam risco cardio
 
 ### Síntese para a prova
 
+Em saúde do trabalhador, o erro mais comum é tratar sintoma e ignorar o contexto laboral.
+A prova costuma premiar quem reconhece nexo ocupacional pela história de exposição e cronologia dos sintomas.
+Mesmo sem confirmação administrativa imediata, o cuidado clínico deve começar na primeira consulta.
 
-HAS + hipocalemia = aldosteronismo primário. HAS em crises = feocromocitoma.
+NR-1, NR-7, NR-17 e NR-32 formam núcleo recorrente em questões.
+Elas aparecem quando a banca pergunta qual intervenção previne recorrência: geralmente a resposta inclui medida coletiva no processo de trabalho, e não apenas orientação individual.
 
-SM: 3 de 5 critérios (cintura, TG, HDL, PA, glicemia). Hipotireoidismo: TSH alto + T4 baixo; causa = Hashimoto.
-
-Hipertireoidismo: TSH baixo + T4 alto; causa = Graves. MEN1 = 3P (hipófise + para + pâncreas).
+A sequência segura é simples: estabilizar quando necessário, investigar exposição, registrar com clareza, orientar proteção e acionar vigilância conforme o fluxo local.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Aldosteronismo primário | Feocromocitoma | Aldoster.: hipocalemia, sem crises; Feo: crises + metanefrinas |
-| Hipotireoidismo primário | Hipotireoidismo secundário | Primário: TSH alto; secundário: TSH baixo |
-| Hashimoto | Graves | Hashimoto: hipotireoidismo autoimune; Graves: hipertireoidismo + exoftalmia |
-| MEN1 | MEN2A | MEN1: 3P; MEN2A: Ca medular + Feo + paratireoide |
-| Síndrome metabólica | DM2 | SM: 3 critérios (pode ter glicemia normal); DM2: glicemia ≥ 126 |
+| Perigo | Risco | perigo é fonte; risco é chance real de dano |
+| Doença comum | Doença relacionada ao trabalho | na segunda há vínculo plausível com exposição ocupacional |
+| EPI entregue | EPI eficaz | eficácia exige indicação, ajuste e adesão |
+| Cuidado clínico | Trâmite administrativo | cuidado é imediato; trâmite ocorre em paralelo |
 
 ### Frase-âncora para não esquecer
 
-> "HAS com hipocalemia = conecta com aldosterona; HAS em crises = conecta com adrenalina do feocromocitoma."
+> "Perguntar sobre trabalho cedo evita erro diagnóstico tarde."

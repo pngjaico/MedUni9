@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A gasometria arterial é o exame mais interpretado em UTI e pronto-socorro, e nenhum médico pode trabalhar em urgência sem dominar a leitura dos distúrbios ácido-base. A **Uninove** integra este tema de bioquímica básica com a fisiologia renal e respiratória, tornando-o um dos tópicos de maior rendimento por aula. Tampões biológicos, compensações e regras práticas de interpretação gasométrica são ferramentas que o aluno usará diariamente desde o internato.
+A gasometria arterial é o exame mais interpretado em UTI e pronto-socorro, e nenhum médico pode trabalhar em urgência sem dominar a leitura dos distúrbios ácido-base. A Uninove integra este tema de bioquímica básica com a fisiologia renal e respiratória, tornando-o um dos tópicos de maior rendimento por aula. Tampões biológicos, compensações e regras práticas de interpretação gasométrica são ferramentas que o aluno usará diariamente desde o internato.
 
 Além do valor clínico imediato, este conteúdo é cobrado também em questões de fisiologia respiratória e nefrologia. Dominar a equação de Henderson-Hasselbalch e os sistemas tampão é a base de toda a fisiopatologia ácido-base.
 
@@ -34,7 +34,7 @@ Além do valor clínico imediato, este conteúdo é cobrado também em questões
 
 ## Sistemas Tampão Biológicos
 
-Um tampão é uma solução que resiste a mudanças de **pH** quando ácidos ou bases são adicionados. Compõe-se de ácido fraco + sua base conjugada.
+Um tampão é uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados. Compõe-se de ácido fraco + sua base conjugada.
 
 **1. Sistema Bicarbonato/CO₂ (principal tampão extracelular):**
 
@@ -42,13 +42,13 @@ $$\text{CO}_2 + \text{H}_2\text{O} \xrightarrow{\text{anidrase carbônica}} \tex
 
 Equação de Henderson-Hasselbalch:
 
-$$\text{**pH**} = 6{,}1 + \log\frac{[\text{HCO}_3^-]}{0{,}03 \times \text{PCO}_2}$$
+$$\text{pH} = 6{,}1 + \log\frac{[\text{HCO}_3^-]}{0{,}03 \times \text{PCO}_2}$$
 
-Valores normais: **pH** 7,40; HCO₃⁻ = 24 mEq/L; PCO₂ = 40 mmHg.
+Valores normais: pH 7,40; HCO₃⁻ = 24 mEq/L; PCO₂ = 40 mmHg.
 Numericamente: log(24 / (0,03 × 40)) = log(24/1,2) = log(20) ≈ 1,3 → 6,1 + 1,3 = **7,4** ✓
 
 **2. Sistema Fosfato (principal tampão intracelular e urinário):**
-H₂PO₄⁻ ⇌ H⁺ + HPO₄²⁻; pKa ~6,8 (ideal para **pH** intracelular ~7,0)
+H₂PO₄⁻ ⇌ H⁺ + HPO₄²⁻; pKa ~6,8 (ideal para pH intracelular ~7,0)
 
 **3. Proteínas/Hemoglobina (principal tampão intracelular):**
 Histidinas carregam H⁺; hemoglobina desoxigenada tem maior capacidade tampão (efeito Haldane)
@@ -134,19 +134,19 @@ O paciente com **cetoacidose diabética (CAD)** apresenta pH baixo, HCO₃⁻ ba
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-PH normal: 7,35–7,45; PCO₂ normal: 40 mmHg; HCO₃⁻ normal: 24 mEq/L. Acidose respiratória: PCO₂ ↑, pH ↓ (DPOC, depressão ventilatória). Alcalose respiratória: PCO₂ ↓, pH ↑ (hiperventilação, TEP, ansiedade).
-
-Acidose metabólica: HCO₃⁻ ↓, pH ↓; PCO₂ cai compensatoriamente. Alcalose metabólica: HCO₃⁻ ↑, pH ↑ (vômito, diurético). Fórmula de Winter: PCO₂ esperada = 1,5 × HCO₃⁻ + 8 ± 2 (acidose metabólica).
-
-AG = Na − (Cl + HCO₃⁻): normal 8–12; AG alto → MUDPILES. Diarreia → acidose hiperclorêmica (AG normal); vômito → alcalose hipoclorêmica. Compensação renal: lenta (horas a dias); compensação respiratória: rápida (minutos).
-
-Delta-delta: para detectar distúrbio misto oculto em AG elevado.
+- **pH normal**: 7,35–7,45; **PCO₂ normal**: 40 mmHg; **HCO₃⁻ normal**: 24 mEq/L
+- **Acidose respiratória**: PCO₂ ↑, pH ↓ (DPOC, depressão ventilatória)
+- **Alcalose respiratória**: PCO₂ ↓, pH ↑ (hiperventilação, TEP, ansiedade)
+- **Acidose metabólica**: HCO₃⁻ ↓, pH ↓; PCO₂ cai compensatoriamente
+- **Alcalose metabólica**: HCO₃⁻ ↑, pH ↑ (vômito, diurético)
+- **Fórmula de Winter**: PCO₂ esperada = 1,5 × HCO₃⁻ + 8 ± 2 (acidose metabólica)
+- **AG = Na − (Cl + HCO₃⁻)**: normal 8–12; AG alto → MUDPILES
+- **Diarreia → acidose hiperclorêmica (AG normal)**; **vômito → alcalose hipoclorêmica**
+- **Compensação renal**: lenta (horas a dias); **compensação respiratória**: rápida (minutos)
+- **Delta-delta**: para detectar distúrbio misto oculto em AG elevado
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -159,13 +159,4 @@ Delta-delta: para detectar distúrbio misto oculto em AG elevado.
 | Acidose aguda | Acidose crônica | Aguda: ↑HCO₃⁻ 1 mEq / 10 ↑PCO₂; Crônica: ↑HCO₃⁻ 3,5 mEq / 10 ↑PCO₂ |
 
 ### Frase-âncora para não esquecer
-
 > "Pulmão corrige em minutos; rim corrige em dias. Distúrbio primário e compensação vão sempre no mesmo sentido — se não forem, desconfie do misto."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

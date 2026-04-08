@@ -1,0 +1,232 @@
+[
+  {
+    "id": 822,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Dano por radiação UV-B causa principalmente:",
+    "opcoes": [
+      "A) Dímeros de pirimidina (fotoprodutos) reparados por excisão de nucleotídeos.",
+      "B) Quebras duplas apenas em G2.",
+      "C) Desaminação de todos os purinos.",
+      "D) Replicação conservativa anômala."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "UV — dímeros TT; NER.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: UV — pirimidina.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 823,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Reparo por pareamento de bases errado (mismatch) em eucariotos envolve:",
+    "opcoes": [
+      "A) Apenas DNA pol I.",
+      "B) Complexos MSH/MLH homólogos aos de E. coli MutS/MutL.",
+      "C) Topoisomerase IV humana.",
+      "D) RNA pol III."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "MMR — Lynch se defeituoso.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: MMR.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 824,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Agente alquilante pode gerar:",
+    "opcoes": [
+      "A) Apenas mutação sinônima.",
+      "B) Sem lesão no DNA.",
+      "C) Adutos que distorcem a dupla-fita e são removidos por vias de reparo.",
+      "D) Síntese de proteína sem mRNA."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Alquilantes — bases modificadas; mutagênese.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Alquilação.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 825,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Síndrome de Xeroderma Pigmentoso reflete defeito em:",
+    "opcoes": [
+      "A) Reparo de pareamento.",
+      "B) Recombinação homóloga BRCA.",
+      "C) Ligação de fragmentos apenas.",
+      "D) Reparo por excisão de nucleotídeos (NER) após UV."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "XP — genes NER; risco de câncer de pele.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: XP — NER.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 826,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Quebra de fita dupla pode ser reparada fielmente por:",
+    "opcoes": [
+      "A) Apenas junção de extremidades não homólogas sem erro.",
+      "B) NHEJ sempre sem perda.",
+      "C) Recombinação homóloga usando cromátide irmã como molde.",
+      "D) Apenas exonuclease 5'→3' solta."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "HR — alta fidelidade; NHEJ pode ser error-prone.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: DSB — HR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 827,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Tabagismo é mutagênico principalmente por:",
+    "opcoes": [
+      "A) Apenas nicotina sem radicais.",
+      "B) Oxigênio puro.",
+      "C) Ausência de alcatrão.",
+      "D) Carcinógenos policíclicos que formam adutos no DNA."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Benzo[a]pireno — adutos; câncer pulmão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Fumo — adutos.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 828,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Ataxia telangiectasia envolve defeito em:",
+    "opcoes": [
+      "A) ATM (checkpoint a lesões DSB).",
+      "B) DNA pol γ exclusivamente.",
+      "C) Hemoglobina.",
+      "D) Canal CFTR."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "ATM — kinase checkpoint; radiosensibilidade.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: ATM.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 829,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "BER (excisão de base) corrige:",
+    "opcoes": [
+      "A) Apenas dímeros TT.",
+      "B) Lesões de base simples após remoção pela glicosilase.",
+      "C) Crosslinks inter-fita apenas.",
+      "D) Aneuploidia."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "BER — uracila, oxo-8-guanina, etc.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: BER.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 830,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "Conversão de citosina em uracila no DNA é corrigida por:",
+    "opcoes": [
+      "A) Apenas NER.",
+      "B) Junção não homóloga.",
+      "C) BER reconhecendo U como não pertencente ao DNA.",
+      "D) Replicativo sem enzimas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Desaminação — U:G — BER.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: U no DNA — BER.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 831,
+    "materia": "bcm1",
+    "tema": "bcm1_a11",
+    "enunciado": "HNPCC (Lynch) associa-se a defeitos em genes de:",
+    "opcoes": [
+      "A) Reparo de crosslinks inter-cadeia apenas.",
+      "B) Telomerase.",
+      "C) Síntese de hemoglobina.",
+      "D) Reparo de mismatch (MMR) como MLH1/MSH2."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Lynch — MMR — MSI.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Lynch — MMR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

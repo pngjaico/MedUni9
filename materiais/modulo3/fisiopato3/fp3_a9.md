@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A farmacoterapia do câncer é um campo em rápida evolução, mas a **Uninove** foca nos mecanismos clássicos e nos principais efeitos adversos. Questões frequentes: por que os antineoplásicos causam mielossupressão e alopecia (tecidos de alta renovação), diferença entre agentes alquilantes vs. antimetabólitos, e o mecanismo dos agentes mais modernos (anticorpos monoclonais, inibidores de tirosina quinase). Também é cobrada a toxicidade específica de cada classe.
+A farmacoterapia do câncer é um campo em rápida evolução, mas a Uninove foca nos mecanismos clássicos e nos principais efeitos adversos. Questões frequentes: por que os antineoplásicos causam mielossupressão e alopecia (tecidos de alta renovação), diferença entre agentes alquilantes vs. antimetabólitos, e o mecanismo dos agentes mais modernos (anticorpos monoclonais, inibidores de tirosina quinase). Também é cobrada a toxicidade específica de cada classe.
 
 ### Figura sugerida
 
@@ -88,17 +88,17 @@ Os **antimetabólitos** mimetizam precursores normais do DNA ou RNA e interferem
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Mielossupressão: universal; nadir em 10–14 dias; febre + neutropenia = emergência. Ciclofosfamida + cistite hemorrágica → mesna (neutraliza acroleína). Cisplatina → nefrotóxica + ototóxica (hidratação IV preventiva).
-
-Metotrexato → DHFR bloqueada (folato) → leucovorina como antídoto. Antraciclinas → cardiomiopatia dose-dependente (doxorrubicina). Taxanos → estabilizam microtúbulos (neuropatia periférica).
-
-Vincristina → inibe polimerização microtúbulos (neuropatia grave). Imatinibe → BCR-ABL (LMC) = tratamento oral que transformou a doença.
+- **Mielossupressão:** universal; nadir em 10–14 dias; febre + neutropenia = emergência.
+- **Ciclofosfamida + cistite hemorrágica → mesna** (neutraliza acroleína).
+- **Cisplatina → nefrotóxica + ototóxica** (hidratação IV preventiva).
+- **Metotrexato → DHFR bloqueada** (folato) → leucovorina como antídoto.
+- **Antraciclinas → cardiomiopatia** dose-dependente (doxorrubicina).
+- **Taxanos → estabilizam microtúbulos** (neuropatia periférica).
+- **Vincristina → inibe polimerização** microtúbulos (neuropatia grave).
+- **Imatinibe → BCR-ABL (LMC)** = tratamento oral que transformou a doença.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -111,5 +111,4 @@ Vincristina → inibe polimerização microtúbulos (neuropatia grave). Imatinib
 | Quimioterapia clássica | Terapia-alvo | Clássica: inespecífica, afeta todo o ciclo celular; alvo: inibe proteína específica do tumor |
 
 ### Frase-âncora para não esquecer
-
 > "Quimioterapia clássica não pergunta quem é célula boa ou ruim — mata tudo que se divide; por isso cai cabelo, cai neutrófilos e dói a boca."

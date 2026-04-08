@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **pele** e as **mucosas** são barreiras de primeiro plano entre o organismo e o meio. Reconhecer **camadas da epiderme**, **tipos de epitélio** conforme o sítio e a **função** (proteção, permeabilidade, secreção) explica desde **dermatoses** até **margens cirúrgicas** em neoplasias. Em prova, a banca costuma pedir correlação entre **microscopia** e **clínica** (ex.: espessamento do estrato córneo em regiões de fricção).
+A **Pele** é o maior órgão do corpo e sua principal barreira contra o mundo externo. Para a prova, domine a hierarquia das camadas da **Epiderme** (da Basal à Córnea) e as funções das células especializadas, como os **Melanócitos** e as **Células de Langerhans**. Na clínica, o conhecimento sobre a **Derme** vascularizada e seus anexos explica a gravidade das **Queimaduras** e a formação de **Escaras**.
 
 ---
 
@@ -21,14 +21,14 @@ Epitélios de revestimento podem ser **simples** (uma camada de células) ou **e
 
 Na pele fina ou espessa, a sequência clássica é:
 
-| Camada | Característica funcional |
-|--------|-------------------------|
-| Estrato córneo | Células achatadas, **queratinizadas**, barreira mecânica e hidrofóbica |
-| Estrato granuloso | Grânulos de **queratohialina**; início da queratinização |
-| Estrato espinhoso | Desmossomas visíveis (“espinhos”); **forte coesão** |
-| Estrato basal | **Proliferação**; contato com a membrana basal |
+| Camada da Epiderme | Função e Característica | Importância Clínica |
+|--------------------|-------------------------|----------------------|
+| **Estrato Córneo** | Células mortas com **Queratina**| Barreira Impermeável |
+| **Estrato Granuloso**| Grânulos de Querato-hialina | Início da Morte Celular |
+| **Estrato Espinhoso**| Muitos **Desmossomos** | Resistência ao Atrito |
+| **Estrato Basal** | Células-tronco (Mitoses) | **Renovação** Constante |
 
-> **Dica de Prova:** A epiderme é **avascular** — oxigênio e nutrientes chegam por **difusão** a partir da **derme** através da **membrana basal**.
+A epiderme é **Avascular**. Ela depende totalmente da derme subjacente para receber nutrientes por **Difusão**. Por isso, queimaduras que destroem a derme impedem a regeneração natural da pele.
 
 ### Figura sugerida
 
@@ -44,7 +44,12 @@ Na pele fina ou espessa, a sequência clássica é:
 
 ## Células não queratinócitos na epiderme
 
-**Melanócitos** produzem **melanina** e transferem pigmento às células vizinhas — proteção frente a UV, não “saco” de cor isolado. **Células de Merkel** participam de **mecanorrecepção**. **Langerhans** são **apresentação antigênica** (sistema imune de pele). Confundir **melanócito** com **queratinócito** é erro comum em questão de primeira fase.
+| Célula Especialista | Função Principal | Gatilho de Prova |
+|---------------------|-------------------|-------------------|
+| **Melanócito** | Produz **Melanina** | Proteção contra Raios UV|
+| **Célula de Merkel**| Mecanorrecepção | Tato Fino (Pressão) |
+| **Célula de Langerhans**| Vigilância Imune | Apresentadora de Antígeno|
+| **Queratinócito** | Produz Queratina | Barreira Física Principal|
 
 ---
 
@@ -78,40 +83,19 @@ A derme **papilar** projeta-se na epiderme formando **papilas dérmicas** — au
 
 ## Pontos-Chave para Prova
 
-- Sequência **córneo → granuloso → espinhoso → basal** na epiderme espessa.
-- Epiderme **avascular**; derme **vascularizada**.
-- Papel de **melanócito**, **Langerhans** e **Merkel** em uma frase cada.
-- Diferença **écrina** versus **apócrina** em **função** e **distribuição**.
-- Epitélio **estrato** e **forma** da superfície nomeiam o tipo.
+- **Derme Papilar:** Camada superficial, rica em capilares e terminações nervosas.
+- **Derme Reticular:** Camada profunda, rica em **Colágeno Tipo I** (dá força à pele).
+- **Glândulas Écrinas:** Espalhadas pelo corpo; responsáveis pelo suor da **Termorregulação**.
+- **Glândulas Apócrinas:** Axilas e região pubiana; suor com odor característico.
+- **Melanina:** É transferida para os queratinócitos para proteger o **DNA** celular.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Por que o **estômago** não tem estrato córneo como a palma da mão.
-- O que muda na **pele espessa** versus **fina** ao microscópio (espessura do córneo).
-- Relação **UV** — **melanina** — **risco** de neoplasia (conceito, não tabela de risco populacional).
-- Onde entra **queratinização** na **barreira** de água.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Queratinócito | Melanócito | Forma barreira versus produz/transfere melanina |
-| Carcinoma espinocelular | Basocelular | Origem e comportamento típico (visão geral de BMF) |
-| Mucosa oral | Pele fina | Queratinização e espessura do epitélio |
-| Derme papilar | Derme reticular | Projeta papilas versus feixes de colágeno mais grossos |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Pele Espessa** | **Pele Fina** | Palmas/Plantas vs Resto do Corpo |
+| **Glând. Sebácea** | **Músculo Eretor**| Lubrificação vs "Arrepiar" o pelo |
+| **Hipoderme** | **Derme** | Gordura (Isolante) vs Tecido Conjuntivo |
+| **Estratificado** | **Simples** | Epiderme vs Endotélio (Vaso) |
 
 ### Frase-âncora para não esquecer
 
 > “Revestimento é compromisso: o epitélio escolhe entre proteger, trocar ou absorver — nunca os três ao mesmo tempo no mesmo grau.”
-
----
-
-## Referências de estudo
-
-Junqueira e Carneiro (histologia); Fitzpatrick ou equivalente de dermatologia para visão clínica das camadas; atlas de anatomia para localização dos anexos.

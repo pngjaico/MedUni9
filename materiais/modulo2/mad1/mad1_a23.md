@@ -4,7 +4,7 @@
 
 As helmintíases são infecções por vermes (helmintos) e representam as doenças parasitárias mais prevalentes no mundo, afetando principalmente populações de baixa renda em países tropicais. Os helmintos se dividem em nematelmintos (vermes cilíndricos — nematoides) e platelmintos (vermes chatos — cestoides e trematodas). No Brasil, as mais importantes clinicamente são: ascaridíase, ancilostomíase, estrongiloidíase, teníase/cisticercose e esquistossomose.
 
-A **Uninove** foca especialmente na diferença entre teníase e cisticercose (armadilha clássica de prova), na síndrome de hiperinfestação por Strongyloides e nas manifestações sistêmicas de cada helmintíase.
+A Uninove foca especialmente na diferença entre teníase e cisticercose (armadilha clássica de prova), na síndrome de hiperinfestação por Strongyloides e nas manifestações sistêmicas de cada helmintíase.
 
 ### Figura sugerida
 
@@ -158,17 +158,16 @@ A **Uninove** foca especialmente na diferença entre teníase e cisticercose (ar
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Teníase vs cisticercose:** teníase = carne crua = verme intestinal; cisticercose = ovos fecal-oral = larva no tecido
+- **Strongyloides + corticoide:** síndrome de hiperinfestação fatal → rastrear antes de imunossupressor
+- **Neurocisticercose:** causa mais comum de epilepsia de início tardio no Brasil
+- **Ancilostomíase:** anemia ferropriva crônica + larva entra pela pele de andar descalço
+- **Praziquantel:** trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide)
 
-
-Teníase vs cisticercose: teníase = carne crua = verme intestinal; cisticercose = ovos fecal-oral = larva no tecido. Strongyloides + corticoide: síndrome de hiperinfestação fatal → rastrear antes de imunossupressor.
-
-Neurocisticercose: causa mais comum de epilepsia de início tardio no Brasil. Ancilostomíase: anemia ferropriva crônica + larva entra pela pele de andar descalço.
-
-Praziquantel: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -181,13 +180,4 @@ Praziquantel: trata esquistossomose e teníase; albendazol: teníase, Ascaris, S
 | Ancilostomíase | Bicho geográfico | Ancylostoma duodenale/Necator = humano; A. braziliense (animal) = larva migrans cutânea |
 
 ### Frase-âncora para não esquecer
-
 > "Come carne de porco crua → teníase (verme no intestino). Come ovos de tênia (mãos sujas) → cisticercose (larva no cérebro = epilepsia). Strongyloides não perdoa quem toma corticoide sem rastrear."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -4,7 +4,7 @@
 
 As infecções por Gram-negativas e pela tuberculose representam desafios clínicos distintos, mas igualmente relevantes. As enterobactérias e *Pseudomonas* causam infecções hospitalares graves com alta resistência antimicrobiana, enquanto *Mycobacterium tuberculosis* é a bactéria que mais mata no mundo (excluindo pandemia de COVID). Sua compreensão é central para infectologia, pneumologia e saúde pública.
 
-A **Uninove** cobra o diagnóstico de TB (critérios, PPD, BAAR, RX), os esquemas de tratamento (RIPE) e o diagnóstico diferencial das pneumonias por Gram-negativas, especialmente em contexto hospitalar.
+A Uninove cobra o diagnóstico de TB (critérios, PPD, BAAR, RX), os esquemas de tratamento (RIPE) e o diagnóstico diferencial das pneumonias por Gram-negativas, especialmente em contexto hospitalar.
 
 ### Figura sugerida
 
@@ -174,17 +174,17 @@ Indicação de tratar (isoniazida 270 dias ou rifampicina 120 dias):
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **EHEC O157:** toxina Shiga → SHU → NÃO dar antibiótico
+- **Pseudomonas:** multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso
+- **TB:** BAAR; aeróbio; cavitação apical; RIPE × 6 meses
+- **Rifampicina:** indutor CYP → reduz ACO; coloração alaranjada das secreções
+- **Etambutol:** neurite óptica → monitorar visão
+- **PPD ≥ 5 mm:** HIV/imunodeprimido; **≥ 10 mm:** população geral
 
-
-EHEC O157: toxina Shiga → SHU → NÃO dar antibiótico. Pseudomonas: multirresistente; piocianina; pneumonia nosocomial; ectima gangrenoso.
-
-TB: BAAR; aeróbio; cavitação apical; RIPE × 6 meses. Rifampicina: indutor CYP → reduz ACO; coloração alaranjada das secreções.
-
-Etambutol: neurite óptica → monitorar visão. PPD ≥ 5 mm: HIV/imunodeprimido; ≥ 10 mm: população geral.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -197,13 +197,4 @@ Etambutol: neurite óptica → monitorar visão. PPD ≥ 5 mm: HIV/imunodeprimid
 | Rifampicina | Isoniazida | Rifampicina = indutor CYP450, hepatotóxico; Isoniazida = neuropatia periférica (repor B6) |
 
 ### Frase-âncora para não esquecer
-
 > "RIPE são as quatro armas contra a TB: R de rifampicina (cuidado com ACO), I de isoniazida (repor vitamina B6), P de pirazinamida (cuidado com gota), E de etambutol (cuidado com a visão)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

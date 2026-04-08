@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **glicogênio** é o **estoque rápido** de glicose em **fígado** e **músculo**. **Glicogenólise** e **glicogênese** respondem em minutos a **glucagon/insulina** e **epinefrina**. A **via das pentoses-fosfato (PPP)** gera **NADPH** e **ribose-5-fosfato** — indispensável para **defesa antioxidante**, **síntese de ácidos graxos** e **nucleotídeos**. Doenças como **deficiência de G6PD** aparecem diretamente nesta aula.
+O **Glicogênio** é o nosso **estoque rápido** de glicose, essencial para manter a **glicemia** entre as refeições e fornecer energia explosiva para o **músculo**. Paralelamente, a **Via das Pentoses-Fosfato (PPP)** funciona como uma "fábrica" de **NADPH** e **Ribose**. Para a prova, domine a **Regulação Recíproca** das enzimas e a **Deficiência de G6PD**, que é o elo clínico entre metabolismo e **anemia hemolítica**.
 
 
 ### Figura sugerida
@@ -67,10 +67,12 @@ O **glicogênio** é o **estoque rápido** de glicose em **fígado** e **múscul
 
 ## Comparativo rápido
 
-| Via | Produto principal | Tecido-chave |
-|-----|-------------------|--------------|
-| Glicogênio | glicose mobilizável | fígado/músculo |
-| PPP (oxidativa) | **NADPH** | fígado, adipócitos, hemácias |
+| Via Metabólica | Produto de Ouro | Função / Destino |
+|-----------------|------------------|-------------------|
+| **Glicogênese** | Glicogênio (Estoque) | Armazenar excesso de **G6P** |
+| **Glicogenólise**| **Glicose livre** (Fígado) | Manter **Glicemia** no jejum |
+| **Via das Pentoses**| **NADPH** | Defesa **Antioxidante** e Síntese de Gordura |
+| **Fase Não-Oxidativa**| **Ribose-5P** | Produção de **Ácidos Nucleicos** (DNA/RNA) |
 
 ---
 
@@ -82,10 +84,11 @@ Paciente **G6PD deficiente** com **anemia hemolítica** após **primaquina** ou 
 
 ## Pontos-Chave para Prova
 
-- **Fosforilase** = degradação; **sintase** = síntese; regulação **recíproca**.
-- **Fígado** exporta glicose; **músculo** não.
-- **PPP:** **G6PD** e **NADPH**; sensível a **estresse oxidativo**.
-- **G6PD** = hemólise induzida por **drogas** e **infecção**.
+- **Fígado vs Músculo:** O fígado doa glicose para o corpo (**G6Pase**); o músculo usa tudo para si (faltam bypasses).
+- **Glicogênio Fosforilase:** Ativada por **Glucagon** e **Adrenalina** (via fosforilação).
+- **Glicogênio Sintase:** Ativada por **Insulina** (via desfosforilação).
+- **NADPH:** O "segurança" da célula. Sem ele, os **Radicais Livres** matam a hemácia (**Hemólise**).
+- **G6PD:** A enzima marcapasso da via das pentoses; sua falta causa **Corpusculos de Heinz**.
 
 ---
 
@@ -95,18 +98,17 @@ Paciente **G6PD deficiente** com **anemia hemolítica** após **primaquina** ou 
 
 ### Síntese para a prova
 
+- **Glicogênio Hepático:** Sustenta o **cérebro** por até **24 horas** de jejum.
+- **Glicogênio Muscular:** Não libera glicose no sangue; falta a enzima **Glicose-6-Fosfatase**.
+- **PPP:** Única via que gera **NADPH**, vital para a **Glutationa** combater o estresse oxidativo.
+- **Hemólise:** Ocorre após comer **favas** ou usar **antimaláricos** em pacientes com **G6PD baixo**.
 
-Glicogênio hepático vs muscular — papel na glicemia. Glucagon/insulina regulam fosforilação de enzimas glicogênicas.
-
-PPP fornece NADPH e ribose; não substitui glicólise para ATP rápido. G6PD — deficiência mais comum de enzima humana em provas clínicas.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Glicogenólise hepática | Muscular | Só fígado **libera glicose** livre (G6Pase). |
-| NADPH | NADH | NADPH = anabolismo/defesa; NADH = ETC energética. |
-| PPP | Glicólise | PPP não substitui oxidação completa de glicose para ATP. |
+| Diferença Central | Conceito A (Hepático) | Conceito B (Muscular) |
+|-------------------|-----------------------|-----------------------|
+| **Exporta Glicose?** | **Sim** (Uso Sistêmico) | **Não** (Uso Local) |
+| **Hormônio Chave** | **Glucagon** estimula | **Adrenalina** e **AMP** estimulam |
+| **Finalidade** | **Glicemia** Constante | **Contração Muscular** |
+| **NADPH** | **NADH** | **Defesa/Anabolismo** vs **Geração de ATP** |
 
 ### Frase-âncora para não esquecer
 

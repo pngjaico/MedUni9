@@ -1,0 +1,232 @@
+[
+  {
+    "id": 972,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "Em eucariotos, a RNA polimerase I transcreve principalmente:",
+    "opcoes": [
+      "A) Genes de rRNA (28S, 18S, 5,8S) no nucléolo.",
+      "B) mRNA codificador de proteínas.",
+      "C) tRNA e 5S rRNA.",
+      "D) Somente snRNA citoplasmático."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Pol I — rRNA; Pol II — mRNA; Pol III — tRNA, 5S.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: Pol II.",
+      "C": "Incorreta: Pol III.",
+      "D": "Incorreta: Pol II."
+    },
+    "explicacao": "Resumo: Pol I — rRNA.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: Pol II.\nC) INCORRETA. Incorreta: Pol III.\nD) INCORRETA. Incorreta: Pol II."
+  },
+  {
+    "id": 973,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "A rifampicina inibe a transcrição bacteriana ao:",
+    "opcoes": [
+      "A) Bloquear DNA girase.",
+      "B) Obstruir o canal de saída do RNA na RNA polimerase bacteriana.",
+      "C) Inibir ribossomo 30S.",
+      "D) Ativar guanil ciclase."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Rifampicina — RNA Pol bacteriana; uso em TB.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fluoroquinolonas.",
+      "B": "Correta.",
+      "C": "Incorreta: aminoglicosídeos/tetraciclinas.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Rifampicina — elongação.\nA) INCORRETA. Incorreta: fluoroquinolonas.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta: aminoglicosídeos/tetraciclinas.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 974,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "O capping 5' (m7G) do pré-mRNA contribui para:",
+    "opcoes": [
+      "A) Splicing sem spliceossomo.",
+      "B) Replicação telomérica.",
+      "C) Estabilidade da extremidade 5' e reconhecimento na tradução.",
+      "D) Sintese de DNA fita descontínua."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cap — proteção; ligação eIF4E.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Cap 5'.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 975,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "Enhancers são elementos regulatórios que:",
+    "opcoes": [
+      "A) Só funcionam colados ao terminador.",
+      "B) Codificam microRNA obrigatoriamente.",
+      "C) Reprimem sempre a transcrição.",
+      "D) Podem estar longe do gene e ativar transcrição por looping do DNA."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Enhancers — distância; fatores ligam e contatam PIC.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: silencers.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Enhancer.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: silencers.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 976,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "A poliadenilação 3' do pré-mRNA depende de:",
+    "opcoes": [
+      "A) TATA box.",
+      "B) Shine-Dalgarno.",
+      "C) Sinal AAUAAA com clivagem e adição de cauda poly-A.",
+      "D) Primase bacteriana."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AAUAAA — poli-A ~200 A.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: promotor.",
+      "B": "Incorreta: procarioto.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Poly-A.\nA) INCORRETA. Incorreta: promotor.\nB) INCORRETA. Incorreta: procarioto.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 977,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "O reconhecimento de sítios de splicing em íntrons eucarióticos envolve:",
+    "opcoes": [
+      "A) DNA pol III.",
+      "B) Helicase da forquilha de replicação.",
+      "C) Apenas histona H1.",
+      "D) Complexo de snRNPs (spliceossomo) e motivos GU–AG no RNA."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Spliceossomo — U1–U6; regra GT-AG DNA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Splicing.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 978,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "A RNA polimerase III transcreve tipicamente:",
+    "opcoes": [
+      "A) tRNA e 5S rRNA.",
+      "B) mRNA nuclear.",
+      "C) rRNA 45S pré-cursor.",
+      "D) Genoma mitocondrial completo."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Pol III — tRNA, 5S; Pol I — rRNA grande.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: Pol II.",
+      "C": "Incorreta: Pol I.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Pol III.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: Pol II.\nC) INCORRETA. Incorreta: Pol I.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 979,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "A TATA box situa-se tipicamente:",
+    "opcoes": [
+      "A) No telômero TTAGGG.",
+      "B) A montante do início de transcrição (~−25 a −30 pb).",
+      "C) Exclusivamente no éxon 3.",
+      "D) No centômero apenas."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TATA — promotor; TBP/TFIID.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: TATA proximal.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 980,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "Metilação de ilhas CpG em promotores costuma:",
+    "opcoes": [
+      "A) Aumentar sempre a transcrição.",
+      "B) Substituir o papel do spliceossomo.",
+      "C) Correlacionar-se com silenciamento gênico.",
+      "D) Converter DNA em proteína sem RNA."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Hipermetilação promotora — gene off.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: CpG metilado — silêncio.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 981,
+    "materia": "bcm1",
+    "tema": "bcm1_a6",
+    "enunciado": "O complexo TFIIH possui atividades de:",
+    "opcoes": [
+      "A) Sintetizar aminoacil-tRNA.",
+      "B) Degradar mRNA no citoplasma.",
+      "C) Polimerizar cDNA.",
+      "D) Helicase e fosforilação do CTD da RNA Pol II."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "TFIIH — abre DNA; libera elongação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: TFIIH.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  }
+]

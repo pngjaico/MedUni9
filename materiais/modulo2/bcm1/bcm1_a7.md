@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A tradução é o processo pelo qual a informação codificada no **mRNA** é convertida em sequência de aminoácidos — a proteína funcional. Os ribossomos são alvos de uma das maiores classes de antibióticos em uso clínico: aminoglicosídeos, macrolídeos, tetraciclinas, cloranfenicol, linezolida e clindamicina todos interferem em diferentes etapas da síntese proteica bacteriana. Compreender o mecanismo da tradução não só explica a farmacologia desses antibióticos como permite prever seus padrões de toxicidade e resistência.
+A tradução é o processo pelo qual a informação codificada no mRNA é convertida em sequência de aminoácidos — a proteína funcional. Os ribossomos são alvos de uma das maiores classes de antibióticos em uso clínico: aminoglicosídeos, macrolídeos, tetraciclinas, cloranfenicol, linezolida e clindamicina todos interferem em diferentes etapas da síntese proteica bacteriana. Compreender o mecanismo da tradução não só explica a farmacologia desses antibióticos como permite prever seus padrões de toxicidade e resistência.
 
-A **Uninove** frequentemente cobra perguntando qual subunidade ribossomal é alvo de determinado antibiótico, e qual a diferença entre bacteriostático e bactericida entre essas drogas. Esta aula é de alto rendimento para farmacologia de antibióticos.
+A Uninove frequentemente cobra perguntando qual subunidade ribossomal é alvo de determinado antibiótico, e qual a diferença entre bacteriostático e bactericida entre essas drogas. Esta aula é de alto rendimento para farmacologia de antibióticos.
 
 ### Figura sugerida
 
@@ -25,7 +25,7 @@ A **Uninove** frequentemente cobra perguntando qual subunidade ribossomal é alv
 
 ## O Código Genético
 
-O código genético é a correspondência entre trincas de bases no **mRNA** (códons) e os aminoácidos.
+O código genético é a correspondência entre trincas de bases no mRNA (códons) e os aminoácidos.
 
 **Características:**
 - **Tripleto:** 3 bases por códon → 4³ = 64 combinações para 20 aminoácidos + códons de parada
@@ -137,19 +137,19 @@ A **linezolida** é usada em infecções por S. aureus resistente à meticilina 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-AUG = início (Met/fMet); UAA, UAG, UGA = parada (nonsense). Ribossomo 70S (bactérias) = 50S + 30S; 80S (eucariotos) = 60S + 40S. Sítios A-P-E: A = entra; P = peptídeo; E = sai.
-
-30S alvo: aminoglicosídeos (bactericida, ototóxico) e tetraciclinas (bacteriostático). 50S alvo: cloranfenicol (aplasia!) + macrolídeos + clindamicina + linezolida. Cloranfenicol inibe peptidiltransferase: bacteriostático + aplasia medular (mitocôndria).
-
-Aminoglicosídeos: bactericidas; dose única diária; monitorar nefro + otoxicidade. IRES: iniciação cap-independente em vírus RNA (poliovírus). Ubiquitinação + proteassoma: degradação proteica; bortezomibe (mieloma).
-
-Pró-insulina → insulina: clivagem do peptídeo C (modificação pós-traducional).
+- **AUG = início** (Met/fMet); **UAA, UAG, UGA = parada (nonsense)**
+- **Ribossomo 70S** (bactérias) = 50S + 30S; **80S** (eucariotos) = 60S + 40S
+- **Sítios A-P-E**: A = entra; P = peptídeo; E = sai
+- **30S alvo**: aminoglicosídeos (bactericida, ototóxico) e tetraciclinas (bacteriostático)
+- **50S alvo**: cloranfenicol (aplasia!) + macrolídeos + clindamicina + linezolida
+- **Cloranfenicol inibe peptidiltransferase**: bacteriostático + aplasia medular (mitocôndria)
+- **Aminoglicosídeos**: bactericidas; dose única diária; monitorar nefro + otoxicidade
+- **IRES**: iniciação cap-independente em vírus RNA (poliovírus)
+- **Ubiquitinação + proteassoma**: degradação proteica; bortezomibe (mieloma)
+- **pró-insulina → insulina**: clivagem do peptídeo C (modificação pós-traducional)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -162,13 +162,4 @@ Pró-insulina → insulina: clivagem do peptídeo C (modificação pós-traducio
 | Modificação co-traducional | Modificação pós-traducional | Co: glicosilação N-linked no RER; Pós: fosforilação, ubiquitinação, clivagem (insulina) |
 
 ### Frase-âncora para não esquecer
-
 > "30S = entrada do tRNA errada (aminoglicosídeo lê errado, tetraciclina não deixa entrar). 50S = cadeia não cresce (cloranfenicol corta no meio, macrolídeo trava a saída). Matar com aminoglic; parar com o resto."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

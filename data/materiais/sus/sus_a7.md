@@ -7,111 +7,118 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Pacto em Defesa do SUS** traduz compromissos para **fortalecer o sistema** frente a **subfinanciamento**, **privatização por omissão** e **terceirização sem regulação**. Em prova, aparece ligado a **financiamento público**, **participação social** e **defesa do caráter universal**. Para o médico, importa porque **fragilidade do SUS** chega ao consultório como **fila, insumos escassos e sobrecarga** — e a solução não é apenas individual, é **política**.
-
+O **Pacto em Defesa do SUS** é o braço político do sistema. Para a prova, entenda que ele foca na **Repolitização** da saúde, combatendo o subfinanciamento e garantindo que o SUS seja uma **Política de Estado**, não de governo. Na clínica, esse pacto se reflete na luta por melhores condições de trabalho e na garantia de que o paciente tenha acesso a medicamentos e exames sem interrupções por falta de verba.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após esta seção de relevância, antes dos fundamentos do pacto.
+- **O que mostrar:** infográfico simples com três eixos do pacto (defesa pública do SUS, financiamento adequado, participação social) e exemplos práticos em município brasileiro.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Pacto em Defesa do SUS: compromissos políticos que sustentam acesso e equidade no cotidiano da rede."
+- **Notas (opcional):** priorizar visual limpo para leitura mobile.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A7-F02`
+
+- **Momento:** após a tabela comparativa de cenários de financiamento.
+- **O que mostrar:** linha do tempo curta com marcos de consolidação do SUS e momentos de pressão por subfinanciamento.
+- **Tipo sugerido:** infográfico cronológico.
+- **Legenda (rascunho):** "Quando o financiamento oscila, a capacidade de resposta da rede também oscila."
+- **Notas (opcional):** destacar que pacto é processo contínuo, não evento isolado.
 
 ---
 
-## Financiamento: o “oxigênio” do sistema
+| Pilar do Pacto | Objetivo Principal | Ação Prática |
+|-----------------|---------------------|---------------|
+| **Político** | Repolitização do SUS | Mobilizar a sociedade civil |
+| **Financeiro** | Verba Suficiente | Lutar contra o subfinanciamento |
+| **Social** | Controle Popular | Fortalecer os Conselhos |
 
-O SUS exige **recursos estáveis e crescentes** em termos reais. A Constituição prevê **fontes** e **vinculações** que garantem **piso de financiamento** (atenção à legislação vigente e atualizações — provas costumam cobrar **espírito** mais que alíquota pontual de um único ano).
-
-> **Dica de Prova:** Saúde **não é favor**; é **direito** — logo, financiamento é **dever estatal**, não esmola.
-
----
-
-## Ameaças recorrentes ao projeto do SUS
-
-- **Subfinanciamento crônico:** filas, demora diagnóstica, precarização trabalhista.
-- **Privilégios fiscais** e **distorções** que favorecem segmentos privados sem contrapartida social.
-- **Fragmentação assistencial** quando a coordenação do cuidado se perde.
-
-> **Pegadinha:** “Ampliar plano privado resolve fila do SUS” — em geral, **não resolve equidade**; pode **selecionar risco** e agravar **injustiça**.
+> **Dica de Prova:** O Pacto em Defesa do SUS é o único que foca explicitamente na **Imagem do SUS** perante a sociedade, tentando mostrar que o sistema funciona e é eficiente.
 
 ---
 
-## Participação social como defesa
+## Financiamento público: do texto legal à fila da UBS
 
-**Conselhos** e **conferências** são instrumentos de **controle social**. A defesa do SUS passa por **transparência de dados**, **auditoria** e **escuta da comunidade**. Medicina não é neutra: reconhecer **determinantes** e **direitos** é condição para **advocacy** ético.
+No plano normativo, financiamento define capacidade de oferta. No plano prático, ele determina tempo de espera, cobertura de equipes, manutenção de equipamentos e continuidade de programas.
 
----
+Quando há subfinanciamento persistente, o resultado aparece como:
 
-## Universalização e equidade como bandeiras
+- fila prolongada para especialidades;
+- rotatividade de profissionais por vínculos precários;
+- interrupções de cuidado crônico;
+- sobrecarga da urgência por falha da APS.
 
-Defender o SUS é defender **acesso** para quem mais precisa. **Equidade** exige **correção de desigualdades** históricas (raça, território, renda). Em prova, cenários de “dois sistemas” cobram posição crítica: **integração regulada** versus **exclusão**.
+No SUS real, municípios com melhor planejamento financeiro e governança conseguem proteger linhas de cuidado prioritárias mesmo em cenário de restrição fiscal.
 
----
+### Comparativo útil: impactos de diferentes cenários de financiamento
 
-## Constituição e direito à saúde: âncora para a banca
-
-O **art. 196** define saúde como **direito de todos e dever do Estado**, com acesso **pelo SUS**. Os arts. **198–200** tratam da **organização** e da **finança** do sistema. Em questões discursivas, conectar **direito** → **financiamento** → **oferta territorial** costuma ser o caminho da nota máxima.
-
-> **Dica de Prova:** Direito à saúde **não** é “o que o orçamento permitir no fim do ano” — é **dever** com **organização** e **controle social**.
-
----
-
-## Conselhos e conferências: o que você precisa diferenciar
-
-**Conselhos** (municipais/estaduais/federal) fiscalizam e **deliberam** sobre diretrizes e alocação. **Conferências** mobilizam periodicamente **debate ampliado** e encaminham propostas. Ambos materializam **participação social** — não são “evento de formatura” de gestor.
+| Cenário de gestão | Efeito imediato na rede | Impacto para o paciente | Como cai na prova |
+|-------------------|-------------------------|--------------------------|-------------------|
+| **Financiamento estável** | Equipes completas e regulação previsível | Menor **peregrinação** | Equidade e Integralidade |
+| **Subfinanciamento crônico** | Filas longas e descontinuidade | Atraso diagnóstico e pior prognóstico | Violação do **Direito à Saúde** |
+| **Recurso pontual** | Ações isoladas (vitrine) | Melhora curta sem sustentação | Crítica à fragmentação |
 
 ---
 
-## Complementaridade privada e SUS: pegadinha clássica
+## Participação social e controle: defesa institucional do SUS
 
-A Constituição admite **participação complementar da iniciativa privada**, mas o **SUS permanece o núcleo** do acesso universal. Erro comum na prova: tratar complementaridade como **licença para desfinanciar o público**. A banca costuma punir confusão entre **complemento** e **substituição**.
+Conselhos de saúde e conferências não são formalidades burocráticas. Eles funcionam como mecanismo de legitimidade democrática para definição de prioridades, fiscalização de gastos e avaliação de políticas.
+
+No cotidiano, o controle social melhora resposta local quando identifica gargalos ignorados pela gestão técnica, como dificuldade de acesso de população ribeirinha, barreiras linguísticas de comunidades indígenas ou ausência de acolhimento para população em situação de rua.
+
+A prova costuma cobrar a diferença entre "ouvir a população" e "deliberar com participação social organizada". O segundo é o núcleo do pacto.
 
 ---
 
-## Advocacy médico: ética sem oportunismo
+## Equidade como critério de decisão
 
-Defender o SUS no cotidiano pode significar **registrar déficits**, **solicitar insumos por protocolo** e **encaminhar violações** aos canais corretos. Isso é **dever profissional** quando há risco ao paciente — distinto de **militância partidária** no consultório.
+Defender o SUS implica reconhecer que tratar todos de forma idêntica em contextos desiguais produz injustiça. A equidade orienta maior esforço onde há maior necessidade sanitária.
+
+Exemplos práticos no SUS real:
+
+- ampliação de equipe e horário em território com alta vulnerabilidade;
+- busca ativa de gestantes com pré-natal irregular;
+- fortalecimento de cuidado para condições crônicas em áreas com baixa escolaridade e baixa renda;
+- integração com assistência social para casos de insegurança alimentar.
+
+Essas medidas não são "favores", mas estratégia técnica coerente com princípios doutrinários.
+
+---
+
+## Relação entre defesa do SUS e prática médica
+
+Para o médico generalista, o pacto aparece em decisões aparentemente simples: preencher corretamente referência e contrarreferência, registrar desfechos, comunicar risco sanitário e participar de ações coletivas quando necessário.
+
+Sem essa postura, o cuidado vira sequência de atos isolados. Com ela, há continuidade clínica e melhor uso da rede.
 
 ---
 
 ## Ponte com a Clínica
 
-Quando você documenta **violência obstétrica**, **racismo** ou **negligência programática**, está registrando **dano social** que extrapassa o caso individual. Encaminhar ao núcleo de apoio, participar de **grupos de saúde coletiva** e defender **protocolos** é parte do **cuidado em rede** e da **defesa do sistema**.
+Imagine uma paciente com diabetes descompensado, dificuldade de transporte e baixa adesão por insegurança alimentar. A resposta clínica adequada vai além de ajustar medicação: exige coordenação com APS, assistência social e regulação de exames. Esse é o SUS real funcionando sob lógica de pacto: **direito, financiamento, território e rede integrada**.
+
+Quando o sistema falha nesses pontos, o desfecho piora mesmo com conduta médica correta no papel. Por isso, compreender o pacto é parte da competência clínica e não apenas conteúdo de saúde coletiva.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Pacto em Defesa do SUS:** fortalecimento institucional e financiamento.
-- **Participação social:** conselhos/conferências como controle.
-- **Privatização/mercantilização:** distinga **complementaridade regulada** de **exclusão**.
-- **Equidade:** centro ético do projeto.
+- **Subfinanciamento:** O grande vilão que gera filas e falta de médicos.
+- **Intersetorialidade:** Quando a saúde conversa com a educação e o saneamento para resolver o problema na raiz.
+- **Identidade do SUS:** Criar um sentimento de orgulho e pertencimento na população brasileira.
+- **Saúde como Direito:** Reforçar o Art. 196 da CF/88 em todas as frentes.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Financiamento é **condição** para direito à saúde.
-- Defesa do SUS envolve **política**, não só técnica assistencial.
-- **Controle social** legitima e fiscaliza prioridades.
-- **Equidade** é princípio doutrinário — cobrado junto de universalidade.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Complementaridade (CF) | Substituir o SUS | Complementaridade é **extra** ao sistema público; não pode elidir o público. |
-| Controle social | Marketing institucional | Controle social tem **deliberação e fiscalização**; marketing não. |
-| Equidade | Eficiência financeira fria | Equidade pode exigir **mais gasto** onde há **mais necessidade**. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Pela Vida** | **Em Defesa** | Metas de Saúde vs **Verba e Política** |
+| **Social** | **Privado** | Direito de Todos vs **Mercadoria/Lucro** |
+| **Política de Estado**| **Política de Governo**| Permanente vs **Passageira (Mandato)**|
+| **Conselho** | **Gestão** | Sociedade Deliberando vs Estado Executando |
 
 ### Frase-âncora para não esquecer
 
-> “Sem financiamento, não há SUS — só discurso.”
+> "Vida cuida da doença; Gestão cuida da rede; Defesa cuida do futuro do sistema." 

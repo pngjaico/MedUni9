@@ -7,13 +7,13 @@
 
 ## Relevância Clínica e Acadêmica
 
-A doença do refluxo gastroesofágico (DRGE) é refluxo de conteúdo gástrico com sintomas e/ou lesões. Acalásia e distúrbios de motilidade primários alteram o esvaziamento esofágico. O cirurgião aborda hérnia hiatal, fundoplicatura em casos selecionados e miotomia (Heller, POEM) na acalásia. Em prova, dominam alarmes, classificação de Los Angeles, pHmetria/impedâniometria, manometria e critérios de indicação cirúrgica.
+A **doença do refluxo gastroesofágico (DRGE)** é refluxo de conteúdo gástrico com sintomas e/ou lesões. **Acalásia** e **distúrbios de motilidade** primários alteram o esvaziamento esofágico. O cirurgião aborda **hérnia hiatal**, **fundoplicatura** em casos selecionados e **miotomia** (Heller, **POEM**) na acalásia. Em prova, dominam **alarmes**, **classificação de Los Angeles**, **pHmetria/impedâniometria**, **manometria** e critérios de **indicação cirúrgica**.
 
 ---
 
 ## DRGE — diagnóstico e estratificação
 
-Sintomas típicos: pirose, regurgitação. Atípicos: tosse crônica, rouquidão, dor torácica. PPI em teste terapêutico pode ajudar, mas alarmes exigem endoscopia: disfagia, sangramento, emagrecimento, idade avançada.
+Sintomas típicos: **pirose**, regurgitação. Atípicos: tosse crônica, rouquidão, dor torácica. **PPI** em teste terapêutico pode ajudar, mas **alarmes** exigem **endoscopia**: disfagia, sangramento, emagrecimento, idade avançada.
 
 ### Complicações
 
@@ -41,7 +41,7 @@ Esofagite erosiva, **estenose** péptica, **Barrett** (metaplasia — programa d
 **Figura-ID:** `CIR6-A7-F02`
 
 - **Momento:** após complicações / esofagite grave (correlação radiológica).
-- O que mostrar: radiografia com contraste mostrando refluxo esofagogástrico (ex.: estudo com bário).
+- **O que mostrar:** **radiografia** com contraste mostrando **refluxo** esofagogástrico (ex.: estudo com bário).
 - **Tipo sugerido:** RX com contraste.
 - **Legenda (rascunho):** Estudo contrastado: refluxo gastroesofágico evidente.
 
@@ -49,7 +49,7 @@ Esofagite erosiva, **estenose** péptica, **Barrett** (metaplasia — programa d
 
 ## Tratamento clínico x cirúrgico
 
-Medidas (peso, horários, elevação cabeceira), PPI em doses adequadas. Cirurgia (fundoplicatura laparoscópica) para bem selecionados: boa resposta a PPI, achados objetivos de refluxo, sem dismotilidade esofágica grave.
+**Medidas** (peso, horários, elevação cabeceira), **PPI** em doses adequadas. **Cirurgia** (fundoplicatura laparoscópica) para **bem selecionados**: boa resposta a PPI, achados objetivos de refluxo, **sem** dismotilidade esofágica grave.
 
 ---
 
@@ -57,18 +57,18 @@ Medidas (peso, horários, elevação cabeceira), PPI em doses adequadas. Cirurgi
 
 ### Acalásia
 
-Disfagia para sólidos e líquidos, regurgitação não ácida, perda ponderal. Radiografia: achatamento distal com bico de pássaro. Manometria: aperistalse e falha de relaxamento do EEI.
+**Disfagia** para sólidos e líquidos, regurgitação não ácida, perda ponderal. **Radiografia:** achatamento distal com **bico de pássaro**. **Manometria:** aperistalse e **falha de relaxamento** do EEI.
 
 ### Tratamentos
 
-Cardiomiotomia de Heller + fundoplicatura parcial; dilatação pneumática; POEM em centros; toxina botulínica paliativa.
+**Cardiomiotomia de Heller** + fundoplicatura parcial; **dilatação pneumática**; **POEM** em centros; **toxina botulínica** paliativa.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A7-F03`
 
 - **Momento:** após acalásia (diagnóstico por estudo contrastado).
-- O que mostrar: série radiológica de deglutição com bário com dilatação esofágica e estreitamento distal (padrão de acalásia).
+- **O que mostrar:** série radiológica de **deglutição com bário** com dilatação esofágica e estreitamento distal (padrão de **acalásia**).
 - **Tipo sugerido:** radiografia com contraste.
 - **Legenda (rascunho):** Acalásia: atraso no esvaziamento esofágico ao estudo com bário.
 
@@ -82,7 +82,7 @@ Dor torácica com achados manométricos específicos — tratamento medicamentos
 
 ## Ponte com a Clínica
 
-Paciente com disfagia progressiva e perda de peso não é “DRGE” até endoscopia excluir malignidade. Alarmes primeiro, sempre.
+Paciente com **disfagia progressiva** e perda de peso **não** é “DRGE” até **endoscopia** excluir **malignidade**. Alarmes primeiro, sempre.
 
 ---
 
@@ -99,12 +99,11 @@ Paciente com disfagia progressiva e perda de peso não é “DRGE” até endosc
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Los Angeles** — gravidade endoscópica da esofagite (ideia).
-- **Esofagite eosinofílica** — biópsia com eosinófilos (não responde como DRGE clássica).
-- **Hérnia hiatal** grande — componente anatômico do refluxo.
-- **POEM** — miotomia endoscópica (nome e indicação em acalásia).
+Na prova, lembre que Los Angeles — gravidade endoscópica da esofagite (visão de prova). Esofagite eosinofílica — biópsia com eosinófilos (não responde como DRGE clássica).
+
+Para não errar em cenário clínico, considere também Hérnia hiatal grande — componente anatômico do refluxo. POEM — miotomia endoscópica (nome e indicação em acalásia).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -118,14 +117,3 @@ Paciente com disfagia progressiva e perda de peso não é “DRGE” até endosc
 ### Frase-âncora para não esquecer
 
 > “**Disfagia** muda o jogo — **não é refluxo simples** até investigar.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione seleção de paciente, exames fisiológicos e expectativa realista de sintomas pós-operatórios. Consentimento informado evita frustração em casos atípicos.
-
-### Leitura de reforço
-
-- Consensos de DRGE e indicação cirúrgica
-- Diretrizes de Barrett e displasia

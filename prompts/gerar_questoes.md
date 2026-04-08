@@ -44,9 +44,7 @@ Análise de 101 questões do banco atual (bcm1, bmf1, sus):
   - **2** fáceis (`dificuldade: 1`)
   - **5** médias (`dificuldade: 2`)
   - **3** difíceis (`dificuldade: 3`)
-- Proporção clínica:
-  - Disciplinas clínicas/morfofuncionais (ex.: BMF, Semiologia, MAD, FP): **50%** de casos clínicos (5/10).
-  - Demais disciplinas: **30% a 40%** de casos clínicos (padrão 4/10).
+- Proporção clínica (ver canônico): regra padrão **2 ou 3 `caso_clinico: true` por lote de 10** (~25%); para BMF (`bmf1`-`bmf4`), usar **3 ou 4** por lote (30-40%). Restante com `caso_clinico: false`; campo obrigatório em toda geração nova.
 - Tamanho de enunciado:
   - **20%** das questões do lote (2/10) devem ser um pouco mais longas, sem prolixidade.
 - Se houver bloco `extra`, ele deve permanecer estritamente no escopo da aula, sem repetição de superfície do bloco `material`.
@@ -67,6 +65,7 @@ Análise de 101 questões do banco atual (bcm1, bmf1, sus):
     "D) Vitamina C — antioxidante protetor do sistema nervoso central"
   ],
   "correta": 0,
+  "caso_clinico": true,
   "explicacao": "A Síndrome de Wernicke é causada por deficiência de tiamina (B1), cofator do complexo piruvato desidrogenase. Sem tiamina, a glicose não entra no ciclo de Krebs — o encéfalo, dependente exclusivo de glicose, sofre disfunção aguda. B12 causa neuropatia subaguda, não encefalopatia aguda. B6 e C não causam este quadro.",
   "tema": "pmh_a3",
   "dificuldade": 3,
@@ -206,9 +205,9 @@ path.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-
 - Mais de 1 questão sobre o mesmo subtópico por lote
 - Dupla negação no enunciado
 - Mais de 2 questões com a mesma posição de resposta correta em sequência
-- Menos de 30% de casos clínicos em matérias com perfil clínico
+- Lote fora da faixa de `caso_clinico`: padrão 2-3/10; BMF 3-4/10
 - Lote sem distribuição obrigatória **2/5/3** (fácil/média/difícil)
-- Lote sem proporção clínica obrigatória (**50%** em matérias clínicas; **30-40%** nas demais)
+- Lote sem contagem correta de `caso_clinico` (padrão **2 ou 3** `true` por 10; BMF **3 ou 4** por 10, ver canônico)
 - Lote sem **20% de enunciados mais longos** (2/10)
 - Questões duplicando conteúdo já existente para a mesma `tema`
 - Questões em formato-template repetido com troca mínima de palavras

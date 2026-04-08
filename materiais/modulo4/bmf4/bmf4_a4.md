@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A anatomia do crânio é essencial para interpretar fraturas no TCE, localizar sangramentos intracranianos e entender a transmissão de tumores pela base do crânio. As fossas cranianas delimitam onde estão os lobos cerebrais e quais estruturas neurovasculares passam por cada forame — tudo cobrado em localizações de lesão nas questões da **Uninove**.
+A anatomia do crânio é essencial para interpretar fraturas no TCE, localizar sangramentos intracranianos e entender a transmissão de tumores pela base do crânio. As fossas cranianas delimitam onde estão os lobos cerebrais e quais estruturas neurovasculares passam por cada forame — tudo cobrado em localizações de lesão nas questões da Uninove.
 
 ### Figura sugerida
 
@@ -111,22 +111,20 @@ Trombose do seio cavernoso: proptose, quemose, paralisia de NC III/IV/VI, dor or
 
 ## Ponte com a Clínica
 
-Trauma craniano: identificar a fossa lesada orienta o sangramento esperado. Fratura de base anterior = rinorreia = risco de meningite. Fratura temporal = hematoma extradural. Fratura de fossa posterior = comprometimento de tronco e cerebelo. A anatomia de crânio é radiologia aplicada antes de abrir o laudo da **TC**.
+Trauma craniano: identificar a fossa lesada orienta o sangramento esperado. Fratura de base anterior = rinorreia = risco de meningite. Fratura temporal = hematoma extradural. Fratura de fossa posterior = comprometimento de tronco e cerebelo. A anatomia de crânio é radiologia aplicada antes de abrir o laudo da TC.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Fontanela anterior: 18 meses. Abaulada = HIC. Deprimida = desidratação. Artéria meníngea média: forame espinhoso, fratura temporal → hematoma extradural.
-
-Fissura orbital superior: NC III, IV, V1, VI — lesão = oftalmoplegia total. Forame jugular: NC IX, X, XI — lesão = síndrome do forame jugular.
-
-Fossa posterior: cerebelo + tronco, forame magno = bulbo/medula. Rinorreia liquórica: fratura de etmoide/fossa anterior.**.
+- **Fontanela anterior:** 18 meses. Abaulada = HIC. Deprimida = desidratação.
+- **Artéria meníngea média:** forame espinhoso, fratura temporal → hematoma extradural.
+- **Fissura orbital superior:** NC III, IV, V1, VI — lesão = oftalmoplegia total.
+- **Forame jugular:** NC IX, X, XI — lesão = síndrome do forame jugular.
+- **Fossa posterior:** cerebelo + tronco, forame magno = bulbo/medula.
+- **Rinorreia liquórica:** fratura de etmoide/fossa anterior.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -138,5 +136,4 @@ Fossa posterior: cerebelo + tronco, forame magno = bulbo/medula. Rinorreia liqu�
 | Seio cavernoso | Canal óptico | Cavernoso: NC III,IV,V1,V2,VI; Canal óptico: só NC II + a. oftálmica |
 
 ### Frase-âncora para não esquecer
-
 > "A meníngea média passa pelo espinhoso — temporal fratura, artéria rompe, sangue entre osso e dura."

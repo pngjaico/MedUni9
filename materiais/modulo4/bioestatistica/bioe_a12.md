@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O Ensaio Clínico Randomizado (RCT) é o padrão-ouro para avaliar eficácia de intervenções — tratamentos, vacinas, programas de rastreamento. Por ser experimental e não apenas observacional, é o único design que pode controlar por confundimento desconhecido. A **Uninove** cobra os componentes do RCT (randomização, mascaramento, grupo controle), as medidas de efeito (NNT, RRR, RAR) e os princípios de análise (ITT vs per-protocol). O ensaio comunitário — versão coletiva do RCT — é cobrado em saúde coletiva.
+O Ensaio Clínico Randomizado (RCT) é o padrão-ouro para avaliar eficácia de intervenções — tratamentos, vacinas, programas de rastreamento. Por ser experimental e não apenas observacional, é o único design que pode controlar por confundimento desconhecido. A Uninove cobra os componentes do RCT (randomização, mascaramento, grupo controle), as medidas de efeito (NNT, RRR, RAR) e os princípios de análise (ITT vs per-protocol). O ensaio comunitário — versão coletiva do RCT — é cobrado em saúde coletiva.
 
 ### Figura sugerida
 
@@ -87,7 +87,7 @@ NNT = 1 / RRA
 - **NNT alto (100, 1000):** intervenção modesta — tratar muitos para beneficiar poucos.
 
 ### 5.3 NNH (Número Necessário para Causar Dano)
-Para efeitos adversos: NNH = 1 / risco absoluto de dano. NNH alto = **efeito adverso** raro.
+Para efeitos adversos: NNH = 1 / risco absoluto de dano. NNH alto = efeito adverso raro.
 
 > **Dica de Prova:** RRR impressiona mas pode enganar. Redução de 50% do risco relativo soa ótima — mas se o risco basal era de 2%, a RRA é apenas 1% e NNT = 100. Sempre analise o NNT!
 
@@ -148,17 +148,18 @@ Quase todo fármaco aprovado pela ANVISA e FDA passou por um RCT fase III bem co
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **RCT:** padrao-ouro. Randomizacao elimina confundimento.
+- **Duplo-cego:** nem participante nem pesquisador sabem a alocacao.
+- **NNT = 1/RRA.** NNT baixo = intervencao muito eficaz.
+- **RRR impressiona, NNT informa:** sempre calcule o NNT antes de concluir eficacia.
+- **ITT:** analise primaria, mantem randomizacao, pode subestimar efeito.
+- **Per-protocol:** analise secundaria, pode superestimar efeito.
+- **Ensaio comunitario:** unidade = comunidade; menor poder que RCT individual.
 
-
-RCT: padrao-ouro. Randomizacao elimina confundimento. Duplo-cego: nem participante nem pesquisador sabem a alocacao. NNT = 1/RRA. NNT baixo = intervencao muito eficaz.
-
-RRR impressiona, NNT informa: sempre calcule o NNT antes de concluir eficacia. ITT: analise primaria, mantem randomizacao, pode subestimar efeito. Per-protocol: analise secundaria, pode superestimar efeito.
-
-Ensaio comunitario: unidade = comunidade; menor poder que RCT individual.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -170,5 +171,4 @@ Ensaio comunitario: unidade = comunidade; menor poder que RCT individual.
 | Fase II | Fase III | Fase II: eficácia inicial, n pequeno; Fase III: eficácia definitiva, n grande, aprovacao |
 
 ### Frase-âncora para não esquecer
-
 > "RCT randomiza para eliminar confundimento. ITT preserva essa randomizacao. NNT traduz eficácia em linguagem clinica: quantos tratar para salvar um."

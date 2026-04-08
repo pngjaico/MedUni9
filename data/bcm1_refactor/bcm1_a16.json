@@ -1,0 +1,232 @@
+[
+  {
+    "id": 872,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "Disgenesia gonadal 46,XY pode apresentar genitália ambígua por:",
+    "opcoes": [
+      "A) Defeito na produção ou ação de andrógenos na diferenciação fetal.",
+      "B) Herança mitocondrial exclusiva.",
+      "C) Trissomia 21 obrigatória.",
+      "D) Apenas deleção 22q11."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "DDS — andrógenos e receptores.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 46,XY DSD.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 873,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "HAC por deficiência de 21-hidroxilase clássica costuma causar:",
+    "opcoes": [
+      "A) Apenas hiponatremia sem genitália.",
+      "B) Virilização de genitália 46,XX por excesso de andrógenos fetais.",
+      "C) Feminização 46,XY típica.",
+      "D) Sempre cariótipo 45,X."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Bloqueio cortisol — ACTH — andrógenos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: HAC — XX virilizada.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 874,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "AIS com receptor de andrógeno mutado em 46,XY pode cursar com:",
+    "opcoes": [
+      "A) Puberdade masculina típica.",
+      "B) Síndrome de Turner.",
+      "C) Genitália feminina ou ambígua com testículos e ausência de útero (AMH).",
+      "D) Trissomia 18."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AIS — resistência ao andrógeno.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AIS.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 875,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "Investigação inicial de DDS deve incluir:",
+    "opcoes": [
+      "A) Apenas USG sem laboratório.",
+      "B) Só cariótipo sem hormônios.",
+      "C) Apenas gasometria.",
+      "D) Cariótipo, painel hormonal (17-OH progesterona, eletrólitos, testosterona, LH/FSH) e imagem conforme caso."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Abordagem multidisciplinar.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Investigação DDS.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 876,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "Deficiência de 5α-redutase tipo 2 em 46,XY:",
+    "opcoes": [
+      "A) Causa DHT elevada.",
+      "B) Impede síntese de testosterona.",
+      "C) Reduz DHT periférica — genitália ambígua ao nascer; pode virilizar na puberdade.",
+      "D) Causa Turner."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "5αR2 — DHT baixo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 5αR2.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 877,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "SRY translocado para um X pode produzir:",
+    "opcoes": [
+      "A) 46,XX com fenótipo masculino típico.",
+      "B) Turner.",
+      "C) Klinefelter.",
+      "D) 46,XX com desenvolvimento testicular por presença do gene SRY."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "XX sex reversal — SRY+.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: variável.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: SRY no X.\nA) INCORRETA. Incorreta: variável.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 878,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "Regressão dos ductos de Müller em 46,XY depende de:",
+    "opcoes": [
+      "A) AMH (MIS) secretado pelos testículos.",
+      "B) Estrogênio placentário apenas.",
+      "C) Prolactina.",
+      "D) Insulina."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AMH — ductos müllerianos.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AMH.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 879,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "DDS ovotesticular caracteriza-se por:",
+    "opcoes": [
+      "A) Apenas gônada ovariana.",
+      "B) Tecido ovariano e testicular (gônada mista ou bilateral assimétrica).",
+      "C) Sempre 47,XXY.",
+      "D) Apenas adrenal."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ovotesticular — raro.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ovotesticular.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 880,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "Princípio ético atual em DDS inclui:",
+    "opcoes": [
+      "A) Decisão unilateral sem informação.",
+      "B) Proibir acompanhamento psicológico.",
+      "C) Abordagem multidisciplinar, transparência e respeito à identidade.",
+      "D) Cirurgia genital obrigatória no primeiro dia de vida sem consentimento."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Consentimento e tempo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Ética DDS.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 881,
+    "materia": "bcm1",
+    "tema": "bcm1_a16",
+    "enunciado": "NR5A1 (SF-1) é fator de transcrição importante para:",
+    "opcoes": [
+      "A) Hemoglobina.",
+      "B) Visão cromática.",
+      "C) Canal de sódio ENaC apenas.",
+      "D) Desenvolvimento adrenal e gonadal."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "SF-1 — esteroidogênese e gonadas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: SF-1.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  }
+]

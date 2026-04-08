@@ -1,0 +1,21 @@
+{
+  "name": "MedGradPlus",
+  "short_name": "MedGradPlus",
+  "description": "Plataforma de estudos para estudantes de medicina",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#181C27",
+  "theme_color": "#181C27",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%230A1628'/><rect x='38' y='84' width='116' height='24' rx='8' fill='%2300B4D8'/><rect x='84' y='38' width='24' height='116' rx='8' fill='%2300B4D8'/><rect x='78' y='78' width='36' height='36' rx='6' fill='%2300C9E8'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "medical"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}

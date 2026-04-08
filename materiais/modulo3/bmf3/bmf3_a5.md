@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A histologia intestinal é a base para compreender má-absorção, doenças inflamatórias intestinais, pólipos e neoplasias. Saber diferenciar o intestino delgado do grosso microscopicamente — e distinguir duodeno de jejuno de íleo — é competência exigida nas provas da **Uninove**. A presença ou ausência de vilosidades, glândulas, células caliciformes e células especializadas são os marcadores histológicos essenciais.
+A histologia intestinal é a base para compreender má-absorção, doenças inflamatórias intestinais, pólipos e neoplasias. Saber diferenciar o intestino delgado do grosso microscopicamente — e distinguir duodeno de jejuno de íleo — é competência exigida nas provas da Uninove. A presença ou ausência de vilosidades, glândulas, células caliciformes e células especializadas são os marcadores histológicos essenciais.
 
 ### Figura sugerida
 
@@ -139,17 +139,16 @@ Na doença celíaca, o glúten (proteína do trigo) desencadeia resposta imune q
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Intestino delgado: vilosidades + criptas de Lieberkühn + células de Paneth (na base das criptas). Duodeno: glândulas de Brunner na SUBMUCOSA (único segmento). Jejuno: vilosidades mais longas, sem Brunner, sem Peyer.
-
-Íleo: placas de Peyer + muitas células caliciformes. Intestino grosso: SEM vilosidades, criptas profundas, muitas caliciformes, colonócitos. Células de Paneth: delgado + apêndice; ausência no grosso (marco diferencial).
-
-Doença celíaca: atrofia vilositária no duodeno/jejuno.
+- **Intestino delgado:** vilosidades + criptas de Lieberkühn + células de Paneth (na base das criptas)
+- **Duodeno:** glândulas de Brunner na SUBMUCOSA (único segmento)
+- **Jejuno:** vilosidades mais longas, sem Brunner, sem Peyer
+- **Íleo:** placas de Peyer + muitas células caliciformes
+- **Intestino grosso:** SEM vilosidades, criptas profundas, muitas caliciformes, colonócitos
+- **Células de Paneth:** delgado + apêndice; ausência no grosso (marco diferencial)
+- **Doença celíaca:** atrofia vilositária no duodeno/jejuno
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -161,5 +160,4 @@ Doença celíaca: atrofia vilositária no duodeno/jejuno.
 | Doença de Crohn | RCU | Crohn: granuloma, transmural, skip; RCU: microabscessos, mucosa, contínuo |
 
 ### Frase-âncora para não esquecer
-
 > "No intestino delgado tudo tem vilosidades para absorver; no grosso, tudo sumiu — só sobraram criptas fundas e muco para empurrar o que não presta."

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Farmacoterapia é a aplicação racional dos princípios farmacocinéticos e farmacodinâmicos à prescrição clínica. A Uninove não cobra apenas nomes de drogas — cobra por que uma droga funciona, como o organismo a processa e o que acontece quando esse processamento falha. Conceitos como **biodisponibilidade**, **meia-vida** e índice terapêutico aparecem em praticamente todas as questões de farmacologia dos módulos 3 e 4.
+Farmacoterapia é a aplicação racional dos princípios farmacocinéticos e farmacodinâmicos à prescrição clínica. A Uninove não cobra apenas nomes de drogas — cobra por que uma droga funciona, como o organismo a processa e o que acontece quando esse processamento falha. Conceitos como biodisponibilidade, meia-vida e índice terapêutico aparecem em praticamente todas as questões de farmacologia dos módulos 3 e 4.
 
 ### Figura sugerida
 
@@ -78,17 +78,17 @@ A **dose de ataque (loading dose)** é usada quando se precisa atingir concentra
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-ADME: absorção → distribuição → metabolismo → excreção. Biodisponibilidade oral < IV: por efeito de primeira passagem. IT estreito: varfarina, digoxina, lítio, fenitoína — monitorizar nível sérico.
-
-Steady-state: atingido em 4–5 meias-vidas. Agonista parcial: eficácia menor que o agonista completo. Antagonista competitivo: revertido com dose alta do agonista (desloca curva).
-
-Fase I (CYP450): oxidação/redução; fase II: conjugação → hidrossolúvel. Hipoalbuminemia: fração livre dos fármacos ácidos aumenta → ajustar dose.
+- **ADME:** absorção → distribuição → metabolismo → excreção.
+- **Biodisponibilidade oral < IV:** por efeito de primeira passagem.
+- **IT estreito:** varfarina, digoxina, lítio, fenitoína — monitorizar nível sérico.
+- **Steady-state:** atingido em 4–5 meias-vidas.
+- **Agonista parcial:** eficácia menor que o agonista completo.
+- **Antagonista competitivo:** revertido com dose alta do agonista (desloca curva).
+- **Fase I (CYP450):** oxidação/redução; fase II: conjugação → hidrossolúvel.
+- **Hipoalbuminemia:** fração livre dos fármacos ácidos aumenta → ajustar dose.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -101,5 +101,4 @@ Fase I (CYP450): oxidação/redução; fase II: conjugação → hidrossolúvel.
 | Pró-fármaco | Fármaco ativo | Pró-fármaco: precisa de ativação metabólica (ex: codeína → morfina) |
 
 ### Frase-âncora para não esquecer
-
 > "O índice terapêutico é a margem de segurança — estreito exige olhar o nível sérico antes de cada dose."

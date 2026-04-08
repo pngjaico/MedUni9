@@ -4,7 +4,7 @@
 
 As infecções respiratórias virais representam a principal causa de morbidade infecciosa aguda mundialmente, com destaque para influenza e SARS-CoV-2. Ambos os vírus demonstraram capacidade de causar crises sanitárias globais, e sua compreensão vai muito além do quadro clínico leve: envolve mecanismos de evasão imune, resposta inflamatória exagerada ("tempestade de citocinas") e resistência antiviral.
 
-A **Uninove** cobra principalmente as diferenças entre influenza A, B e C, os mecanismos de variação antigênica, a fisiopatologia da COVID-19 grave e as indicações de antivirais.
+A Uninove cobra principalmente as diferenças entre influenza A, B e C, os mecanismos de variação antigênica, a fisiopatologia da COVID-19 grave e as indicações de antivirais.
 
 ### Figura sugerida
 
@@ -151,17 +151,17 @@ A **Uninove** cobra principalmente as diferenças entre influenza A, B e C, os m
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Drift:** mutação → epidemia sazonal; **Shift:** rearranjo → pandemia
+- **Oseltamivir:** inibe neuraminidase; iniciar < 48 h para máximo benefício
+- **Síndrome de Reye:** AAS + influenza/varicela em criança → encefalopatia + hepatite → NUNCA dar AAS < 12 anos
+- **COVID grave:** dexametasona + anticoagulação; tocilizumabe se hiperinflamação
+- **RSV:** bronquiolite em lactentes; tosse + sibilância + hipoxemia
+- **Croup (parainfluenza):** estridor inspiratório, sinal da torre no RX
 
-
-Drift: mutação → epidemia sazonal; Shift: rearranjo → pandemia. Oseltamivir: inibe neuraminidase; iniciar < 48 h para máximo benefício.
-
-Síndrome de Reye: AAS + influenza/varicela em criança → encefalopatia + hepatite → NUNCA dar AAS < 12 anos. COVID grave: dexametasona + anticoagulação; tocilizumabe se hiperinflamação.
-
-RSV: bronquiolite em lactentes; tosse + sibilância + hipoxemia. Croup (parainfluenza): estridor inspiratório, sinal da torre no RX.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -174,13 +174,4 @@ RSV: bronquiolite em lactentes; tosse + sibilância + hipoxemia. Croup (parainfl
 | Oseltamivir | Corticoide | Oseltamivir = antiviral gripe; Corticoide = anti-inflamatório COVID grave (contraindicado na gripe não-complicada) |
 
 ### Frase-âncora para não esquecer
-
 > "Influenza: drift = desvio anual (vacine todo ano); shift = salto pandêmico (prepare-se para o pior). COVID: de leve vira grave quando o sistema imune perde o controle — daí o cortisol para frear a tempestade."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

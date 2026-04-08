@@ -9,7 +9,7 @@
 
 Se você tivesse que resumir imunologia clínica em uma pergunta, seria esta: por que o sistema imune não destrói o próprio corpo o tempo todo? A resposta é tolerância imunológica. Sem ela, cada contato com autoantígeno poderia virar inflamação persistente. Com ela, o organismo mantém defesa contra o que é estranho e autocontrole contra o que é próprio.
 
-Na prática, esse tema explica a base de várias doenças autoimunes e também o racional de muitos imunomoduladores. Na **Uninove**, os professores costumam montar questões em que o aluno precisa decidir se o problema está na fase de seleção do linfócito, na fase de ativação periférica ou na falha de freios regulatórios. Quem entende essa lógica deixa de decorar nomes e passa a prever comportamento de doença.
+Na prática, esse tema explica a base de várias doenças autoimunes e também o racional de muitos imunomoduladores. Na Uninove, os professores costumam montar questões em que o aluno precisa decidir se o problema está na fase de seleção do linfócito, na fase de ativação periférica ou na falha de freios regulatórios. Quem entende essa lógica deixa de decorar nomes e passa a prever comportamento de doença.
 
 ### Figura sugerida
 
@@ -28,7 +28,7 @@ Na prática, esse tema explica a base de várias doenças autoimunes e também o
 
 ## Onde tudo começa: tolerância central no timo e na medula óssea
 
-A primeira barreira contra autoagressão é a **tolerância central**. Durante a maturação, linfócitos que reconhecem autoantígenos com alta afinidade são eliminados ou editados antes de entrar em circulação. Em termos simples, é o filtro de qualidade inicial do sistema imune.
+A primeira barreira contra autoagressão é a tolerância central. Durante a maturação, linfócitos que reconhecem autoantígenos com alta afinidade são eliminados ou editados antes de entrar em circulação. Em termos simples, é o filtro de qualidade inicial do sistema imune.
 
 Nos linfócitos T, esse processo ocorre principalmente no timo, com seleção positiva e negativa. Nos linfócitos B, ocorre na medula óssea, com edição de receptor e deleção clonal. Isso não é perfeito, e parte dos clones potencialmente autorreativos escapa, mas já reduz muito o risco de autoimunidade grave precoce.
 
@@ -38,11 +38,11 @@ Nos linfócitos T, esse processo ocorre principalmente no timo, com seleção po
 
 ## O freio que decide o dia a dia: tolerância periférica
 
-Como nenhum filtro biológico é absoluto, o corpo precisa de freios contínuos na periferia. A **tolerância periférica** funciona por três mecanismos clássicos: anergia, supressão por células T reguladoras e deleção por ativação repetida sem suporte adequado.
+Como nenhum filtro biológico é absoluto, o corpo precisa de freios contínuos na periferia. A tolerância periférica funciona por três mecanismos clássicos: anergia, supressão por células T reguladoras e deleção por ativação repetida sem suporte adequado.
 
 A anergia aparece quando o linfócito reconhece antígeno sem coestimulação suficiente. Ele não morre na hora, mas fica funcionalmente inativo. Já as T reguladoras atuam como moduladoras de intensidade, limitando resposta inflamatória e evitando escalada autoagressiva em tecido saudável.
 
-A deleção periférica acontece quando a célula é estimulada de forma persistente em contexto inadequado, evoluindo para **apoptose**. Esse mecanismo ganha relevância em inflamação crônica, onde o risco de quebra de tolerância aumenta por exposição prolongada de antígenos próprios.
+A deleção periférica acontece quando a célula é estimulada de forma persistente em contexto inadequado, evoluindo para apoptose. Esse mecanismo ganha relevância em inflamação crônica, onde o risco de quebra de tolerância aumenta por exposição prolongada de antígenos próprios.
 
 > **Dica de Prova:** antígeno sem coestímulo adequado leva mais a anergia do que a ativação plena.
 
@@ -67,7 +67,7 @@ Muitos tratamentos de doenças autoimunes são, na prática, tentativas de resta
 
 Sem entender tolerância, o tratamento parece só uma lista de classes. Com a fisiologia em mente, você consegue prever benefício e risco: reduzir dano tecidual pode aumentar suscetibilidade infecciosa; bloquear uma via pode não resolver se o eixo dominante for outro.
 
-Em prova, isso aparece como pergunta de mecanismo terapêutico: por que determinada droga melhora doença autoimune, e qual **efeito adverso** é esperado por interferir na resposta imune normal. A resposta boa conecta via imunológica, efeito clínico e risco infeccioso.
+Em prova, isso aparece como pergunta de mecanismo terapêutico: por que determinada droga melhora doença autoimune, e qual efeito adverso é esperado por interferir na resposta imune normal. A resposta boa conecta via imunológica, efeito clínico e risco infeccioso.
 
 > **Pegadinha:** confundir imunossupressão com cura etiológica. Na maioria dos casos, o objetivo é controle de atividade e prevenção de lesão acumulada.
 
@@ -104,17 +104,19 @@ No ambulatório, tolerância imunológica é o que separa interpretação superf
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Central no timo/medula:** filtra clones perigosos.
+- **Periférica no tecido:** freia os clones que escapam.
+- **Sem coestimulação:** favorece anergia.
+- **T reguladora baixa:** aumenta risco de autoagressão.
+- **Infecção isolada:** não basta para autoimunidade.
+- **Mimetismo molecular:** é mecanismo de gatilho plausível.
+- **Atividade de doença:** não é igual a sorologia isolada.
+- **Tratamento imune:** pede balanço entre controle e segurança.
 
-
-Central no timo/medula: filtra clones perigosos. Periférica no tecido: freia os clones que escapam. Sem coestimulação: favorece anergia.
-
-T reguladora baixa: aumenta risco de autoagressão. Infecção isolada: não basta para autoimunidade. Mimetismo molecular: é mecanismo de gatilho plausível.
-
-Atividade de doença: não é igual a sorologia isolada. Tratamento imune: pede balanço entre controle e segurança.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -126,5 +128,4 @@ Atividade de doença: não é igual a sorologia isolada. Tratamento imune: pede 
 | Gatilho infeccioso | Causa única obrigatória | Infecção pode precipitar, mas depende de suscetibilidade |
 
 ### Frase-âncora para não esquecer
-
 > "Tolerância central seleciona, tolerância periférica segura: se os dois falham, a autoimunidade acelera."

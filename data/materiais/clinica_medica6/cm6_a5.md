@@ -12,6 +12,17 @@ As **grandes síndromes geriátricas** — entre elas **quedas**, **incontinênc
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A5-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Visão integrada: cascata geriátrica
 
 | Síndrome | Mecanismo frequentemente associado | Consequência se não tratada |
@@ -88,13 +99,13 @@ Idoso com **três quedas em um mês** e uso de **benzodiazepínico noturno**: o 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Cascata** queda–imobilidade–delirium.  
-- Tipos de **incontinência** e pistas clínicas.  
-- **Polifarmácia** e sedativos como causa de queda.  
-- **Constipação** agravando bexiga.  
-- Nada de **“normal pela idade”** sem investigar.
+Cascata queda–imobilidade–delirium. Tipos de incontinência e pistas clínicas.
+
+Polifarmácia e sedativos como causa de queda. Constipação agravando bexiga.
+
+Nada de “normal pela idade” sem investigar.
 
 ### Diferenciações que a Uninove adora cobrar
 

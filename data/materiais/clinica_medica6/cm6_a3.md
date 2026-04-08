@@ -82,11 +82,11 @@ Mudanças na distribuição de gordura, sensibilidade à insulina e eixo **HPA**
 
 **O que mostrar:** fluxograma simples: **queixa vaga no idoso** → **excluir causas agudas tratáveis** → **avaliar função** → **revisar fármacos**.
 
-**Tipo sugerido:** esquema didático em uma coluna (app mobile).
+**Tipo sugerido:** esquema didático em uma coluna (aplicativo móvel).
 
 **Legenda (rascunho):** Abordagem inicial da queixa inespecífica no idoso.
 
-**Notas (produção):** o texto acima já cobre o raciocínio; figura é complemento.
+**Notas (produção):** a figura complementa a leitura e organiza o passo a passo inicial.
 
 ---
 
@@ -110,13 +110,13 @@ Idoso com **“só cansaço”** há 48 h: não atribua a depressão sem **ECG**
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Homeostenose** e **reserva funcional**.  
-- **Apresentação atípica** de sepse, IAM, pneumonia.  
-- **Ajuste** de dose por idade/renal/hepática.  
-- **Polifarmácia** como risco.  
-- **Não** atribuir tudo à idade sem investigação.
+Homeostenose e reserva funcional. Apresentação atípica de sepse, IAM, pneumonia.
+
+Ajuste de dose por idade/renal/hepática. Polifarmácia como risco.
+
+Não atribuir tudo à idade sem investigação.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,4 +128,4 @@ Idoso com **“só cansaço”** há 48 h: não atribua a depressão sem **ECG**
 
 ### Frase-âncora para não esquecer
 
-> “Idoso é **menos reserva** — o mesmo insulto derruba mais cedo; **vague complaints** pedem **lista de exclusão**, não só consolo.”
+> “Idoso é **menos reserva** — o mesmo insulto descompensa mais cedo; **queixa vaga** pede **lista de exclusão**, não só consolo.”

@@ -4,7 +4,7 @@
 
 Os erros inatos do metabolismo (EIM) são doenças genéticas causadas por defeitos enzimáticos que bloqueiam vias metabólicas essenciais, resultando em acúmulo de precursores tóxicos e/ou deficiência de produtos indispensáveis. Descritos por Archibald Garrod em 1908 (alkaptonúria, conceito de "erros inatos do metabolismo"), esses distúrbios desafiam o médico a integrar bioquímica, genética e clínica pediátrica. A grande maioria segue herança autossômica recessiva.
 
-A **Uninove** cobra essa temática com frequência por dois motivos: (1) o triagem neonatal ampliada (Programa Nacional de Triagem Neonatal — PNTN) é um tema de saúde pública relevante que os estudantes precisam dominar; (2) fenilcetonúria, galactosemia e doença da urina do xarope de bordo são questões clássicas que aparecem em provas de bioquímica clínica, genética e pediatria. A compreensão dos mecanismos dessas doenças é também a base para entender as terapias por dieta e reposição enzimática.
+A Uninove cobra essa temática com frequência por dois motivos: (1) o triagem neonatal ampliada (Programa Nacional de Triagem Neonatal — PNTN) é um tema de saúde pública relevante que os estudantes precisam dominar; (2) fenilcetonúria, galactosemia e doença da urina do xarope de bordo são questões clássicas que aparecem em provas de bioquímica clínica, genética e pediatria. A compreensão dos mecanismos dessas doenças é também a base para entender as terapias por dieta e reposição enzimática.
 
 ### Figura sugerida
 
@@ -206,17 +206,17 @@ Clinicamente: crise metabólica aguda em RN ou criança, especialmente precipita
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-PKU: PAH, Phe acumula, DI + cabelo louro + odor de rato; dieta hipoproteica; triagem neonatal. PKU materna: controlar Phe antes e durante gestação — teratogênese fetal. Galactosemia: GALT, galactose-1-P, cataratas + sepse E. coli + icterícia neonatal; retirar lactose.
-
-MSUD: BCKDH, Leu+Ile+Val, odor de bordo; emergência neonatal; diâlise. Homocistinúria: CBS, Hcy, ectopia INFERIOR do cristalino + trombose jovem; B6 + betaína. Alcaptonúria: homogentisato oxidase, urina escurece ao ar, ocronose articular; nitisinona.
-
-MS/MS: rastreia dezenas de EIM numa gota de sangue seco. Mecanismo EIM: enzima defeituosa → substrato tóxico acumula → produto ausente.
+- **PKU:** PAH, Phe acumula, DI + cabelo louro + odor de rato; dieta hipoproteica; triagem neonatal
+- **PKU materna:** controlar Phe antes e durante gestação — teratogênese fetal
+- **Galactosemia:** GALT, galactose-1-P, cataratas + sepse E. coli + icterícia neonatal; retirar lactose
+- **MSUD:** BCKDH, Leu+Ile+Val, odor de bordo; emergência neonatal; diâlise
+- **Homocistinúria:** CBS, Hcy, ectopia INFERIOR do cristalino + trombose jovem; B6 + betaína
+- **Alcaptonúria:** homogentisato oxidase, urina escurece ao ar, ocronose articular; nitisinona
+- **MS/MS:** rastreia dezenas de EIM numa gota de sangue seco
+- **Mecanismo EIM:** enzima defeituosa → substrato tóxico acumula → produto ausente
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -229,13 +229,4 @@ MS/MS: rastreia dezenas de EIM numa gota de sangue seco. Mecanismo EIM: enzima d
 | MSUD | Acidemia propiônica | MSUD = BCAAs acumulam, cheiro bordo; Propiônica = ácido propiônico, acidose + hiperamonemia |
 
 ### Frase-âncora para não esquecer
-
 > "Erros inatos = enzima furada na via metabólica. PKU fura a PAH e Phe envenena o cérebro. Galactosemia fura a GALT e galactose-1-P arruína fígado, olho e neutrófilos. MSUD fura a BCKDH e os BCAAs cheiram bordo e explodem o SNC. Homocistinúria fura a CBS e a Hcy entope as veias e torce o cristalino para baixo."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

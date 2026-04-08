@@ -1,13 +1,13 @@
 # Fios e agulhas cirúrgicas
 
-## Relevância clínica e acadêmica
+## Relevância Clínica e Acadêmica
 
 A escolha de fio e agulha define segurança, cicatrização e resultado funcional.
 Na rotina de cirurgia geral, essa decisão não é detalhe de mesa: é parte da conduta.
 No raciocínio prático descrito em Goffi, o fechamento adequado depende de três eixos: tecido, tensão e tempo de suporte.
 Quando o material é mal selecionado, o procedimento pode evoluir com deiscência, isquemia de borda, seroma ou cicatriz inestética.
 
-## Propriedades dos fios: o que deve guiar a escolha
+## Propriedades dos Fios: o que Deve Guiar a Escolha
 
 ### Quanto à absorção
 
@@ -24,7 +24,7 @@ Quando o material é mal selecionado, o procedimento pode evoluir com deiscênci
 - **Sintéticos:** comportamento mais previsível, menor variabilidade entre lotes.
 - **Naturais:** maior reação tecidual em alguns cenários e uso mais restrito atualmente.
 
-## Fios cirúrgicos mais usados com nomes comerciais
+## Fios Cirúrgicos mais Usados com Nomes Comerciais
 
 | Fio (genérico) | Nome comercial frequente | Tipo | Perfil prático | Indicações comuns |
 |---|---|---|---|---|
@@ -38,7 +38,11 @@ Quando o material é mal selecionado, o procedimento pode evoluir com deiscênci
 
 > **Observação prática:** nomes comerciais podem variar por hospital, mas o raciocínio de escolha sempre deve partir do tipo de fio e do tecido.
 
-## Características que mais influenciam o desfecho
+> **Dica de Prova:** quando a questão mistura marca comercial e indicação clínica, acerte primeiro o tipo de fio (absorvível/inabsorvível; mono/multifilamentar).
+
+> **Pegadinha:** a banca pode insinuar que "fio mais forte sempre é melhor"; sem avaliar tecido e tensão, essa lógica está errada.
+
+## Características que mais Influenciam o Desfecho
 
 | Característica | Impacto clínico | O que observar na prática |
 |---|---|---|
@@ -50,14 +54,22 @@ Quando o material é mal selecionado, o procedimento pode evoluir com deiscênci
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A5-F01`
+**Figura-ID:** `TCAR-A5-F01`
 
 - **Momento:** após a tabela de fios e nomes comerciais.
 - **O que mostrar:** comparação visual entre monofilamentar e multifilamentar, com indicação de capilaridade e memória.
 - **Tipo sugerido:** esquema didático.
 - **Legenda (rascunho):** estrutura do fio modifica manuseio, risco local e segurança do nó.
 
-## Agulhas cirúrgicas: tipo de ponta, curvatura e aplicação
+<!--
+Wikimedia (referência guardada; não exibir no leitor por ora) · TO-A5-F01
+Descrição: Fio absorvível multifilamentar empacotado (referência visual de material de síntese; contraste com monofilamento fica no texto).
+Página: https://commons.wikimedia.org/wiki/File:CHROMIC_(sterilized_surgical_suture).2_USP.37mm.JPG
+Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/CHROMIC_%28sterilized_surgical_suture%29.2_USP.37mm.JPG/960px-CHROMIC_%28sterilized_surgical_suture%29.2_USP.37mm.JPG
+Atribuição: آرمین / Wikimedia Commons (autor em domínio público)
+-->
+
+## Agulhas Cirúrgicas: Tipo de Ponta, Curvatura e Aplicação
 
 ### Tipo de ponta
 
@@ -79,7 +91,7 @@ Quando o material é mal selecionado, o procedimento pode evoluir com deiscênci
 4. Sair em distância simétrica para coaptação regular.
 5. Ajustar tensão do nó sem estrangular perfusão da borda.
 
-## Algoritmo prático de escolha (mesa de cirurgia geral)
+## Algoritmo Prático de Escolha (Mesa de Cirurgia Geral)
 
 Perguntas-chave que devem ser feitas antes do primeiro ponto:
 - **Qual tecido será fechado?**
@@ -95,14 +107,22 @@ Aplicações frequentes:
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A5-F02`
+**Figura-ID:** `TCAR-A5-F02`
 
 - **Momento:** após o algoritmo de escolha por plano anatômico.
 - **O que mostrar:** quadro-resumo "tecido → fio → agulha → objetivo".
 - **Tipo sugerido:** quadro de bolso.
 - **Legenda (rascunho):** escolha racional de fio e agulha para cada plano cirúrgico.
 
-## Erros frequentes e como evitar
+<!--
+Wikimedia (referência guardada; não exibir no leitor por ora) · TO-A5-F02
+Descrição: Esquema de pontos simples interrompidos (passagem de agulha e distribuição ao longo da borda).
+Página: https://commons.wikimedia.org/wiki/File:Simple_interrupted_suture.svg
+Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Simple_interrupted_suture.svg/960px-Simple_interrupted_suture.svg.png
+Atribuição: Olek Remesz / Wikimedia Commons, CC BY-SA 2.5
+-->
+
+## Erros Frequentes e Como Evitar
 
 - **Escolher calibre grosso sem indicação:** aumenta trauma e marca cicatricial.
 - **Apertar nó em excesso:** compromete perfusão e predispõe deiscência.
@@ -110,7 +130,7 @@ Aplicações frequentes:
 - **Cortar cauda curta demais:** facilita afrouxamento precoce.
 - **Misturar fios sem estratégia de plano:** dificulta revisão e padronização da equipe.
 
-## Ponte com a clínica
+## Ponte com a Clínica
 
 No ambulatório de pós-operatório, muitas complicações de ferida refletem a decisão de material feita no centro cirúrgico.
 Quando o profissional escolhe fio e agulha com critério, o fechamento fica mais seguro, o pós-operatório menos doloroso e o resultado estético melhor.
@@ -118,7 +138,7 @@ Em técnica cirúrgica, "dar ponto" sem entender material é treino incompleto.
 
 ---
 
-## Pontos-chave para prática diária
+## Pontos-Chave para Prova
 
 - Escolha de fio é decisão biológica e mecânica.
 - Nome comercial ajuda na logística, mas o critério é o tipo do material.
@@ -130,13 +150,13 @@ Em técnica cirúrgica, "dar ponto" sem entender material é treino incompleto.
 
 ## Pré-Prova
 
-> Leia isto 30 minutos antes da prova. Vai direto ao ponto.
+> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
 Nesta aula, o centro da decisão é relacionar tecido, objetivo e tempo de suporte.
 Ao escolher fio, pense em força tensil, estrutura e reatividade, e não apenas em hábito de serviço.
-Nomes comerciais são úteis para reconhecimento prático, mas o fundamento técnico sempre é o tipo de material.
+Nomes comerciais ajudam no reconhecimento prático, mas o fundamento técnico é sempre o tipo de material e o plano anatômico.
 
 ### Diferenciações que a Uninove adora cobrar
 

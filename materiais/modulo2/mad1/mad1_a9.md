@@ -4,7 +4,7 @@
 
 O transplante de órgãos é uma das conquistas médicas mais avançadas do século XX, mas depende de um equilíbrio delicado entre suprimir a rejeição (o sistema imune do receptor atacando o enxerto) sem suprimir excessivamente e abrir portas para infecções oportunistas. A transfusão sanguínea, por sua vez, obedece ao mesmo princípio imunológico: compatibilidade antigênica entre doador e receptor.
 
-A **Uninove** frequentemente cobra os tipos de rejeição (hiperaguda, aguda, crônica), os mecanismos imunológicos envolvidos e as regras de compatibilidade ABO/Rh em transfusão. Questões de caso clínico com pacientes pós-transplante deteriorando clinicamente são frequentes.
+A Uninove frequentemente cobra os tipos de rejeição (hiperaguda, aguda, crônica), os mecanismos imunológicos envolvidos e as regras de compatibilidade ABO/Rh em transfusão. Questões de caso clínico com pacientes pós-transplante deteriorando clinicamente são frequentes.
 
 ### Figura sugerida
 
@@ -162,17 +162,17 @@ A **Uninove** frequentemente cobra os tipos de rejeição (hiperaguda, aguda, cr
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Hiperaguda:** Ac pré-formados → minutos → remoção do enxerto
+- **Aguda:** T celular → dias–semanas → corticoide em pulso
+- **Crônica:** vasculopatia → meses–anos → sem tratamento
+- **GVHD:** linfócito T do doador ataca receptor (no TMO)
+- **Grupo O:** doador universal hemácias (sem antígenos A nem B)
+- **Anti-D (RhoGAM):** mãe Rh− após parto/aborto para prevenir DHRN no próximo filho
 
-
-Hiperaguda: Ac pré-formados → minutos → remoção do enxerto. Aguda: T celular → dias–semanas → corticoide em pulso.
-
-Crônica: vasculopatia → meses–anos → sem tratamento. GVHD: linfócito T do doador ataca receptor (no TMO).
-
-Grupo O: doador universal hemácias (sem antígenos A nem B). Anti-D (RhoGAM): mãe Rh− após parto/aborto para prevenir DHRN no próximo filho.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -185,13 +185,4 @@ Grupo O: doador universal hemácias (sem antígenos A nem B). Anti-D (RhoGAM): m
 | HLA classe I | HLA classe II | Classe I = todas células nucleadas → CD8+; Classe II = APCs → CD4+ |
 
 ### Frase-âncora para não esquecer
-
 > "No transplante, o tempo fala: minutos = bomba já armada (Ac pré-formados); semanas = exército se reagrupando (T celular); anos = erosão silenciosa (vasculopatia crônica)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

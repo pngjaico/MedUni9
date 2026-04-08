@@ -2,106 +2,102 @@
 
 ## Relevância Clínica e Acadêmica
 
-Antissepsia, assepsia e esterilização são a base de toda cirurgia segura.
-Na prática, o erro mais comum do iniciante e achar que "limpo" e igual a "esteril".
-No raciocinio tecnico descrito por Goffi, cada etapa tem objetivo próprio e não pode ser trocada.
-Se a cadeia de barreiras falha, o risco de infecção de sitio cirúrgico aumenta mesmo com antibiotico adequado.
-Por isso, esta aula deve ser estudada com foco em execucao, rotina e disciplina de equipe.
+Antissepsia, assepsia e esterilização sustentam a segurança de qualquer procedimento cirúrgico.
+Na prática, a banca costuma explorar a diferença entre "material limpo" e "material estéril", porque essa confusão gera erro real.
+No raciocínio técnico-operatório, cada barreira tem função própria e não é substituível por antibiótico ou por "experiência de sala".
+Quando a cadeia de prevenção falha, aumenta o risco de infecção de sítio cirúrgico, deiscência e tempo de internação.
 
-## Conceitos fundamentais que não podem confundir
+## Conceitos Fundamentais e Aplicação Imediata
 
 - **Antissepsia:** redução de microrganismos em tecido vivo com agente químico.
-- **Assepsia:** conjunto de medidas para impedir contaminação do campo e do ato operatório.
-- **Desinfecção:** redução de carga microbiana em superfícies e materiais não críticos.
+- **Assepsia:** conjunto de condutas para impedir contaminação do campo e do ato operatório.
+- **Desinfecção:** redução de carga microbiana em superfícies e artigos não críticos.
 - **Esterilização:** eliminação de todas as formas de vida microbiana, inclusive esporos.
-- **Campo esteril:** area protegida que so pode ser tocada por material ou profissional esteril.
+- **Campo estéril:** área protegida que só pode ser tocada por material ou profissional estéril.
 
-> **Dica prática:** quando surgir duvida entre conceitos, pergunte "em que superfície estou atuando?" (tecido vivo, superfície inerte ou artigo crítico).
+> **Dica de Prova:** se surgir dúvida entre conceitos, pergunte primeiro "em que superfície estou atuando?" (tecido vivo, superfície inerte ou artigo crítico).
 
-## Antissepsia da pele do paciente: passo tecnico
+> **Pegadinha:** a alternativa que sugere "desinfetar" instrumental crítico no lugar de esterilizar está errada, mesmo quando o produto tem amplo espectro.
 
-1. Confirmar alergias relevantes (iodo, clorexidina e adesivos).
-2. Fazer higiene inicial quando indicada e secagem adequada da pele.
-3. Aplicar antisseptico em movimento do centro para periferia, sem retorno ao centro.
-4. Respeitar tempo de ação e tempo de secagem antes de campos e bisturi.
-5. Nao tocar novamente a area preparada com luva não esteril.
+## Antissepsia da Pele do Paciente: Sequência Técnica
 
-Erros frequentes de execucao:
-- "repintar" o centro com compressa ja usada na periferia;
-- iniciar incisão antes da secagem do alcool;
-- delimitar campo pequeno para cirurgia que pode ampliar.
+1. Confirmar alergias a iodo, clorexidina, adesivos e antissépticos prévios.
+2. Fazer limpeza inicial quando indicada e garantir pele seca antes do antisséptico.
+3. Aplicar antisséptico do centro para a periferia, sem retornar ao centro com a mesma compressa.
+4. Respeitar tempo de contato e secagem completa antes de campo e incisão.
+5. Não tocar novamente a área preparada com luva não estéril.
 
-### Comparação objetiva de antissepticos
+Erros clássicos de execução:
+- repintar o centro com compressa já usada;
+- iniciar incisão antes da secagem da solução alcoólica;
+- delimitar campo pequeno para cirurgia com chance de ampliação.
 
-| Agente | Vantagem principal | Limite prático |
-|---|---|---|
-| Clorexidina alcoolica | ação residual e inicio rápido | evitar contato em mucosa/olho |
-| PVPI alcoolico | amplo espectro | menor efeito residual que clorexidina |
-| PVPI aquoso | util em mucosas | ação mais lenta que formulação alcoolica |
+### Comparação Prática de Antissépticos
+
+| Agente | Ponto forte | Limite importante | Uso frequente |
+|---|---|---|---|
+| Clorexidina alcoólica | início rápido e ação residual | evitar mucosa, olho e orelha média | pele íntegra em cirurgias limpas |
+| PVPI alcoólico | amplo espectro | menor efeito residual | preparo cutâneo em cenários selecionados |
+| PVPI aquoso | menor irritação em mucosa | ação mais lenta | mucosas e áreas sensíveis |
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A1-F01`
+**Figura-ID:** `TCAR-A1-F01`
 
-- **Momento:** após o passo a passo de preparo de pele.
-- **O que mostrar:** sequência centro-periferia da antissepsia em parede abdominal.
-- **Tipo sugerido:** esquema didatico.
+- **Momento:** após o passo a passo da antissepsia da pele.
+- **O que mostrar:** movimento centro-periferia em campo abdominal.
+- **Tipo sugerido:** esquema didático.
 - **Legenda (rascunho):** Sentido correto da antissepsia para evitar recontaminação.
 
-## Assepsia da equipe: comportamento importa tanto quanto técnica
+## Assepsia da Equipe e Comportamento de Campo
 
-Assepsia não e apenas "usar luva".
-Inclui circulação em sala, abertura de pacotes, distancia de campo, troca de luva e comunicação.
-No treinamento de técnica operatória, conduta silenciosa e previsivel evita quebra de campo.
+Assepsia não é apenas vestir luva.
+Inclui circulação, abertura de pacotes, distância do campo e comunicação de quebra de esterilidade.
+No treino de técnica operatória, postura previsível e linguagem clara evitam contaminação silenciosa.
 
-Pontos obrigatorios na rotina:
+Condutas mínimas:
 - retirar adornos antes de entrar no bloco;
 - manter unhas curtas e sem esmalte;
-- respeitar areas restritas e fluxo de entrada;
-- identificar quebra de esterilidade e comunicar imediatamente;
-- trocar luva sempre que houver toque indevido.
+- respeitar áreas restritas e fluxo de entrada;
+- comunicar quebra de esterilidade imediatamente;
+- trocar luvas após toque indevido.
 
-## Esterilização de materiais: o que o interno precisa dominar
+## Esterilização de Materiais: Leitura que o Interno Precisa Dominar
 
-O metodo mais usado em cirurgia geral e autoclave a vapor saturado sob pressão.
-O ciclo precisa de temperatura, tempo e penetração adequados.
-Sem embalagem correta, não existe esterilização valida.
+O método mais comum em cirurgia geral é autoclave a vapor sob pressão.
+Para validar o ciclo, não basta "sair quente": é preciso cumprir tempo, temperatura e penetração.
+Sem embalagem correta e rastreabilidade, não há esterilização confiável.
 
-Monitorização minima que deve ser compreendida:
-- parametro físico do equipamento (tempo, temperatura, pressão);
-- indicador químico em cada pacote;
-- indicador biológico em rotina institucional.
-
-| Tipo de monitorização | O que responde | Exemplo de uso |
+| Tipo de monitorização | O que responde | Exemplo prático |
 |---|---|---|
-| Fisica | se o ciclo rodou como programado | leitura do painel da autoclave |
-| Quimica | se o pacote foi exposto ao processo | fita/indicador classe aprópriada |
-| Biologica | se houve morte microbiana efetiva | teste com esporos em rotina |
+| Física | se o ciclo executou parâmetros programados | leitura de tempo/temperatura/pressão da autoclave |
+| Química | se o pacote foi exposto ao processo | indicador químico externo e interno no pacote |
+| Biológica | se houve morte microbiana efetiva | teste com esporos em rotina institucional |
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A1-F02`
+**Figura-ID:** `TCAR-A1-F02`
 
-- **Momento:** após tabela de monitorização.
-- **O que mostrar:** pacote esteril correto, com identificação de lote e indicador.
+- **Momento:** após a tabela de monitorização.
+- **O que mostrar:** pacote estéril identificado com lote, data e indicador.
 - **Tipo sugerido:** foto técnica.
-- **Legenda (rascunho):** Rastreabilidade minima de material esteril no centro cirúrgico.
+- **Legenda (rascunho):** Rastreabilidade mínima de material estéril no centro cirúrgico.
 
 ## Ponte com a Clínica
 
-No pos-operatório com hiperemia e dor de ferida, nem sempre o problema esta no antibiotico.
-Muitas vezes a origem e falha de barreira no intraoperatório: preparo de pele ruim, quebra de campo, luva perfurada não trocada ou material inadequadamente processado.
-Na discussão de caso, vale reconstruir a linha do procedimento e não apenas prescrever novo farmaco.
+No pós-operatório com hiperemia de ferida, dor local e secreção, nem sempre o problema é "falha do antibiótico".
+Muitas vezes a origem está na cadeia intraoperatória: preparo inadequado da pele, quebra de campo não reconhecida, luva perfurada não trocada ou material mal processado.
+Por isso, a revisão de caso deve reconstruir o processo do ato operatório, não apenas trocar antimicrobiano.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- Nao existe cirurgia "pequena" para controle de infecção.
-- Antissepsia exige técnica e tempo de contato, não apenas "passar produto".
-- Campo esteril e responsabilidade de todos na sala.
-- Esterilização sem rastreabilidade perde valor de segurança.
-- Reconhecer e corrigir quebra de técnica cedo evita complicação maior.
+- Antissepsia, assepsia, desinfecção e esterilização não são sinônimos.
+- Em tecido vivo, fala-se em antissepsia; em artigo crítico, exige-se esterilização.
+- Campo estéril depende de técnica e comportamento de equipe.
+- Indicador químico não substitui monitorização biológica da instituição.
+- Segurança cirúrgica começa antes da incisão, no preparo e na disciplina do fluxo.
 
 ---
 
@@ -111,19 +107,19 @@ Na discussão de caso, vale reconstruir a linha do procedimento e não apenas pr
 
 ### Síntese para a prova
 
-Nesta aula, o essencial e diferenciar com clareza antissepsia, assepsia, desinfecção e esterilização.
-Quando a questao trouxer conduta prática, a resposta mais segura costuma ser a que preserva a cadeia completa de barreiras.
-Lembre que preparo de pele sem secagem adequada, quebra de campo não reconhecida e material mal processado são falhas classicas de execucao.
-Na prática real, revisão de processo e rastreabilidade do material valem tanto quanto escolha do antisseptico.
+Nesta aula, o núcleo da cobrança é diferenciar com precisão antissepsia, assepsia, desinfecção e esterilização.
+Na questão prática, a conduta correta quase sempre preserva toda a cadeia de barreiras, mesmo quando parece "mais demorada".
+Lembre que antisséptico sem tempo de contato, campo mal delimitado e quebra de esterilidade não comunicada são falhas clássicas de prova e de vida real.
+Em cenários clínicos, rastreabilidade do processamento do material é tão importante quanto a escolha do produto de preparo cutâneo.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |---|---|---|
-| Antissepsia | Esterilização | antissepsia e em tecido vivo; esterilização e de material |
-| Assepsia | Desinfecção | assepsia previne contaminação do ato; desinfecção reduz carga em superfície |
-| Indicador químico | Indicador biológico | químico mostra exposição ao processo; biológico valida eficácia microbiana |
+| Antissepsia | Esterilização | antissepsia é em tecido vivo; esterilização é de artigo crítico |
+| Assepsia | Desinfecção | assepsia previne contaminação do ato; desinfecção reduz carga microbiana em superfície |
+| Indicador químico | Indicador biológico | químico confirma exposição ao processo; biológico confirma eficácia microbiana |
 
 ### Frase-âncora para não esquecer
 
-> "Cirurgia segura comeca antes da incisão, na disciplina da assepsia."
+> "Cirurgia segura começa antes da incisão: barreira boa é barreira respeitada."

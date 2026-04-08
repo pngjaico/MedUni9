@@ -110,17 +110,16 @@ A Organização Mundial da Saúde usa sistematicamente estudos ecológicos para 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Ecológico:** unidade = populacao. Dados agregados (taxas, médias). Nao o individuo.
+- **Falácia ecológica:** associação grupal NAO implica associação individual — o erro central.
+- **Legítimo para:** vigilância, hipóteses, avaliação de politicas coletivas.
+- **Nao para:** provar causalidade individual, substituir estudos individuais.
+- **Confundimento ecológico:** variáveis de grupo que distorcem a associação.
 
-
-Ecológico: unidade = populacao. Dados agregados (taxas, médias). Nao o individuo. Falácia ecológica: associação grupal NAO implica associação individual — o erro central.
-
-Legítimo para: vigilância, hipóteses, avaliação de politicas coletivas. Nao para: provar causalidade individual, substituir estudos individuais.
-
-Confundimento ecológico: variáveis de grupo que distorcem a associação.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -132,5 +131,4 @@ Confundimento ecológico: variáveis de grupo que distorcem a associação.
 | Série temporal | Comparação geográfica | Temporal: mesma populacao, diferentes momentos; Geográfica: diferentes regioes, mesmo momento |
 
 ### Frase-âncora para não esquecer
-
 > "Estudo ecológico compara grupos, nao individuos. A falácia ecológica é concluir o que vale para o grupo vale para cada pessoa — isso pode ser completamente falso."

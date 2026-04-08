@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O diencéfalo é a estação de retransmissão entre o córtex e o resto do encéfalo. Uma lesão talâmica localizada pode produzir hemianestesia completa contralateral, síndrome da dor central ou mesmo distúrbios do sono. O hipotálamo controla funções vitais — temperatura, sede, fome, ritmo circadiano — e é o "chefe" do **SNA**. A **Uninove** cobra lesões específicas do tálamo e hipotálamo.
+O diencéfalo é a estação de retransmissão entre o córtex e o resto do encéfalo. Uma lesão talâmica localizada pode produzir hemianestesia completa contralateral, síndrome da dor central ou mesmo distúrbios do sono. O hipotálamo controla funções vitais — temperatura, sede, fome, ritmo circadiano — e é o "chefe" do SNA. A Uninove cobra lesões específicas do tálamo e hipotálamo.
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ O diencéfalo é a estação de retransmissão entre o córtex e o resto do enc�
 
 ## Divisões do Diencéfalo
 
-O diencéfalo localiza-se entre o **tronco encefálico** e o telencéfalo, flanqueando o III ventrículo. Quatro componentes:
+O diencéfalo localiza-se entre o tronco encefálico e o telencéfalo, flanqueando o III ventrículo. Quatro componentes:
 
 1. **Tálamo** — 80% do diencéfalo.
 2. **Hipotálamo** — abaixo do sulco hipotalâmico.
@@ -115,17 +115,15 @@ Diabetes insípido (déficit de ADH) pode ser central por tumor hipotalâmico ou
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-VPL → S1 corpo; VPM → S1 face. Síndrome de Déjerine-Roussy = lesão VPL → hemianestesia + dor central. Hipotálamo lateral = fome; ventromedial = saciedade.
-
-ADH = núcleo supra-óptico; ocitocina = para-ventricular. Pineal — Síndrome de Parinaud: paralisia do olhar para cima.
-
-Subtálamo (Luys): lesão → hemibalismo contralateral. Corpos mamilares: Wernicke-Korsakoff (deficiência de B1).
+- **VPL → S1 corpo; VPM → S1 face.** Síndrome de Déjerine-Roussy = lesão VPL → hemianestesia + dor central.
+- **Hipotálamo lateral = fome; ventromedial = saciedade.**
+- **ADH = núcleo supra-óptico; ocitocina = para-ventricular.**
+- **Pineal — Síndrome de Parinaud:** paralisia do olhar para cima.
+- **Subtálamo (Luys):** lesão → hemibalismo contralateral.
+- **Corpos mamilares:** Wernicke-Korsakoff (deficiência de B1).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -137,5 +135,4 @@ Subtálamo (Luys): lesão → hemibalismo contralateral. Corpos mamilares: Werni
 | Geniculado lateral | Geniculado medial | Lateral = visão (V1); medial = audição (A1) |
 
 ### Frase-âncora para não esquecer
-
 > "O tálamo dirige o tráfego sensorial: cada núcleo tem endereço cortical fixo — confunda o endereço e perde a sensação."

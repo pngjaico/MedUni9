@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema reprodutor feminino é complexo, cíclico e hormônio-dependente. A anatomia uterina, ovariana e tubária fundamenta o entendimento de endometriose, aborto espontâneo, gravidez ectópica, miomatose e neoplasias ginecológicas. A **Uninove** cobra frequentemente a histologia do ovário, endométrio e colo uterino.
+O sistema reprodutor feminino é complexo, cíclico e hormônio-dependente. A anatomia uterina, ovariana e tubária fundamenta o entendimento de endometriose, aborto espontâneo, gravidez ectópica, miomatose e neoplasias ginecológicas. A Uninove cobra frequentemente a histologia do ovário, endométrio e colo uterino.
 
 ### Figura sugerida
 
@@ -154,22 +154,21 @@ Endométrio no período secretor (fase lútea):
 
 ## Ponte com a Clínica
 
-Na endometriose, o endométrio funcional migra para fora da cavidade uterina (ovários, peritônio, trompas) — onde implanta e sangra ciclicamente, causando inflamação crônica e fibrose → dismenorreia, dispareunia e infertilidade. Na síndrome dos ovários policísticos (SOP), há múltiplos folículos antrais pequenos que não progridem para De Graaf → sem ovulação → anovulação crônica. No carcinoma do colo do útero, o HPV (tipos 16 e 18) integra seu **DNA** ao genoma das células da JEC, bloqueando p53 e Rb → proliferação descontrolada → displasia → carcinoma.
+Na endometriose, o endométrio funcional migra para fora da cavidade uterina (ovários, peritônio, trompas) — onde implanta e sangra ciclicamente, causando inflamação crônica e fibrose → dismenorreia, dispareunia e infertilidade. Na síndrome dos ovários policísticos (SOP), há múltiplos folículos antrais pequenos que não progridem para De Graaf → sem ovulação → anovulação crônica. No carcinoma do colo do útero, o HPV (tipos 16 e 18) integra seu DNA ao genoma das células da JEC, bloqueando p53 e Rb → proliferação descontrolada → displasia → carcinoma.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Fertilização: ampola da tuba | Implantação: endométrio do corpo uterino. Folículos: primordial → primário → secundário → De Graaf → corpo lúteo → albicante. Corpo lúteo: produz progesterona + estrogênio (após ovulação).
-
-Endométrio funcional: descama na menstruação | basal: regenera. JEC: zona de transformação = local de carcinoma cervical + Papanicolaou. Cílios das tubas: batem em direção ao útero (empurram ovócito).
-
-Ovário: sem serosa (epitélio germinativo cúbico).
+- **Fertilização:** ampola da tuba | **Implantação:** endométrio do corpo uterino
+- **Folículos:** primordial → primário → secundário → De Graaf → corpo lúteo → albicante
+- **Corpo lúteo:** produz progesterona + estrogênio (após ovulação)
+- **Endométrio funcional:** descama na menstruação | basal: regenera
+- **JEC:** zona de transformação = local de carcinoma cervical + Papanicolaou
+- **Cílios das tubas:** batem em direção ao útero (empurram ovócito)
+- **Ovário:** sem serosa (epitélio germinativo cúbico)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -181,5 +180,4 @@ Ovário: sem serosa (epitélio germinativo cúbico).
 | Corpo lúteo | Corpo albicante | Lúteo: ativo, secreta progesterona; albicante: regressivo, cicatriz |
 
 ### Frase-âncora para não esquecer
-
 > "Fertilização é na ampola, implantação é no endométrio — confundir esses dois lugares é confundir o encontro com o casamento: um acontece na tuba, o outro acontece no útero."

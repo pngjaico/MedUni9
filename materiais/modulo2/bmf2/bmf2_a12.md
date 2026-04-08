@@ -2,184 +2,188 @@
 
 ## Relevância Clínica e Acadêmica
 
-A espirometria é o exame funcional pulmonar mais solicitado na prática clínica, e seu entendimento depende inteiramente do domínio dos volumes e capacidades pulmonares. Distinguir padrão obstrutivo de restritivo a partir dos valores espirométricos é uma competência exigida desde internato e cobrada em provas de residência. Da mesma forma, a compreensão da complacência, da elastância e dos músculos respiratórios fundamenta o raciocínio sobre quando e por que ventilar mecanicamente um paciente.
+Dominar volumes e capacidades pulmonares é essencial para interpretar a espirometria e reconhecer padrões respiratórios na prova e na prática clínica. Esse tema conecta fisiologia básica com decisões reais, como diferenciar asma de DPOC, suspeitar de doença intersticial e entender por que um paciente evolui para fadiga respiratória.
 
-A lei de Laplace aplicada aos alvéolos — e o papel do surfactante em sua estabilidade — integra histologia e mecânica de forma elegante. A **Uninove** frequentemente explora esses conceitos em questões mistas que cruzam anatomia, fisiologia e clínica, tornando esta aula um dos pivôs do módulo.
+Na formação médica, a banca costuma integrar conceitos: volume residual, relação VEF1/CVF, complacência, resistência das vias aéreas e trabalho respiratório aparecem em casos clínicos curtos com pegadinhas conceituais. Por isso, esta aula organiza a mecânica pulmonar em blocos objetivos, com foco no que mais cai e no que mais confunde.
+
+---
+
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A12-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
 - **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
 
+## Volumes e Capacidades Pulmonares
 
+Os volumes pulmonares são medidas primárias; as capacidades são combinações desses volumes.
 
+### Volumes pulmonares
 
----
+| Volume | Sigla | Definição | Valor de referência aproximado |
+|--------|-------|-----------|--------------------------------|
+| Volume corrente | VT (VC) | Ar inspirado e expirado em respiração tranquila | 500 mL |
+| Volume de reserva inspiratória | IRV (VRI) | Ar adicional inspirado após uma inspiração normal | 3.000 mL |
+| Volume de reserva expiratória | ERV (VRE) | Ar adicional expirado após expiração normal | 1.100 a 1.200 mL |
+| Volume residual | RV (VR) | Ar que permanece após expiração máxima | 1.200 mL |
 
+### Capacidades pulmonares
 
+| Capacidade | Sigla | Fórmula | Valor de referência aproximado |
+|------------|-------|---------|--------------------------------|
+| Capacidade inspiratória | CI | VT + IRV | 3.500 mL |
+| Capacidade residual funcional | CRF | ERV + RV | 2.300 a 2.400 mL |
+| Capacidade vital | CV | IRV + VT + ERV | 4.500 a 4.800 mL |
+| Capacidade pulmonar total | CPT (TLC) | CV + RV | 5.800 a 6.000 mL |
 
-## Volumes Pulmonares
+A CRF representa o ponto de equilíbrio mecânico entre a retração elástica pulmonar (para dentro) e a tendência expansiva da caixa torácica (para fora). Em repouso, é o volume ao final da expiração tranquila.
 
-Os volumes pulmonares são medições simples, não sobreponíveis entre si.
+> **Dica de Prova:** o RV (e tudo que depende dele, como CRF e CPT) não é medido por espirometria simples. Se o enunciado diz "espirometria isolada", pense que RV/CRF/CPT não saem diretamente desse exame.
 
-| Volume | Sigla | Definição | Valor típico (adulto) |
-|--------|-------|-----------|----------------------|
-| Volume corrente | VC (VT) | Ar inspirado/expirado em respiração tranquila | ~500 mL |
-| Volume de reserva inspiratório | VRI | Ar extra além do VC, inspiração forçada | ~3.000 mL |
-| Volume de reserva expiratório | VRE | Ar extra expirado abaixo do VC em expiração forçada | ~1.200 mL |
-| Volume residual | VR | Ar que permanece no pulmão após expiração máxima | ~1.200 mL |
-
-> **Dica de Prova:** O Volume Residual (VR) NÃO pode ser medido pela espirometria convencional — não dá para expirar todo o VR. É medido por diluição de hélio ou pletismografia corporal. Questões que cobram "qual volume não é mensurado pela espirometria" têm o VR como resposta.
-
----
-
-## Capacidades Pulmonares
-
-As capacidades são somas de dois ou mais volumes.
-
-| Capacidade | Fórmula | Valor típico |
-|------------|---------|-------------|
-| Capacidade inspiratória (CI) | VC + VRI | ~3.500 mL |
-| Capacidade residual funcional (CRF) | VRE + VR | ~2.400 mL |
-| Capacidade vital (CV) | VRI + VC + VRE | ~4.700 mL |
-| Capacidade pulmonar total (CPT) | CV + VR | ~5.900 mL |
-
-A **CRF** é o volume de ar nos pulmões ao final de uma expiração tranquila — é o ponto de equilíbrio entre a retração elástica pulmonar (tendência de colapso) e a retração elástica torácica (tendência de expansão).
-
-> **Pegadinha:** A Capacidade Vital Forçada (CVF) é a CV medida com esforço máximo e velocidade. Não confundir com CV (medida lentamente). Na DPOC, CVF pode ser menor que CV porque as vias aéreas colapsam durante a expiração forçada (air trapping).
+> **Pegadinha:** CV não é sinônimo perfeito de CVF. Em doenças obstrutivas, a CVF pode cair mais por aprisionamento aéreo durante expiração forçada.
 
 ---
 
-## Espirometria: Padrões Obstrutivo e Restritivo
+## Espirometria Básica e Interpretação Inicial
 
-**VEF₁ (FEV1):** volume expirado no primeiro segundo da expiração forçada
-**CVF (FVC):** capacidade vital forçada
-**VEF₁/CVF (relação de Tiffeneau):** valor normal ≥ 0,70 (ou ≥ 70%)
+A espirometria básica responde primeiro a duas perguntas: há obstrução? há suspeita de restrição?
 
-| Padrão | VEF₁ | CVF | VEF₁/CVF | CPT | Exemplos |
-|--------|------|-----|-----------|-----|--------|
-| Obstrutivo | ↓ | Normal ou ↓ | **↓ (< 0,70)** | Normal ou ↑ | Asma, DPOC |
-| Restritivo | ↓ | ↓ | Normal ou ↑ | **↓** | Fibrose, cifose, obesidade |
-| Misto | ↓ | ↓↓ | ↓ | ↓ | Fibrose + tabagismo |
+Parâmetros centrais:
+- **VEF1 (FEV1):** volume expirado no primeiro segundo da manobra forçada.
+- **CVF (FVC):** volume total expirado com esforço máximo.
+- **VEF1/CVF:** relação usada para triagem de obstrução.
 
-> **Dica de Prova:** O critério DIAGNÓSTICO de obstrução é a relação VEF₁/CVF < 0,70. Na asma leve, a CVF pode ser normal e o VEF₁ pode estar pouco reduzido, mas a RELAÇÃO cai. Reversibilidade: melhora do VEF₁ ≥ 12% e ≥ 200 mL após broncodilatador → confirma asma (vs DPOC, que tem pouca reversibilidade).
+| Padrão funcional | VEF1 | CVF | VEF1/CVF | CPT | Exemplo típico |
+|------------------|------|-----|----------|-----|----------------|
+| Obstrutivo | reduzido | normal ou reduzido | reduzida | normal ou aumentada | asma, DPOC |
+| Restritivo | reduzido | reduzida | normal ou aumentada | reduzida | fibrose, deformidade torácica |
+| Misto | reduzido | reduzida | reduzida | reduzida | DPOC + doença intersticial |
 
----
+Na obstrução, o problema principal é o fluxo expiratório; na restrição, é a limitação da expansão pulmonar total. Para confirmar restrição verdadeira, a CPT precisa estar reduzida.
 
-## Mecânica Pulmonar: Complacência e Elastância
-
-**Complacência (C):** variação de volume por variação de pressão (C = ΔV/ΔP). Mede a facilidade de expansão do pulmão.
-- Alta complacência = pulmão "flácido", se expande fácil → enfisema (destruição do tecido elástico)
-- Baixa complacência = pulmão "rígido", difícil de expandir → fibrose pulmonar, edema
-
-**Elastância (E):** inverso da complacência (E = 1/C = ΔP/ΔV). Tendência de retornar à posição de repouso.
-- Alta elastância = baixa complacência (pulmão fibrótico)
-
-**Curva pressão-volume:** a histerese (área entre curva de inspiração e expiração) demonstra que durante a expiração o pulmão retorna com menos esforço — a energia elástica armazenada na inspiração é liberada.
+> **Dica de Prova:** VEF1/CVF < 0,70 sugere obstrução no critério fixo mais cobrado em graduação.
 
 ---
 
-## Lei de Laplace e Surfactante
+## Complacência e Elastância
 
-**Lei de Laplace para uma esfera:**
+A mecânica pulmonar pode ser entendida pelo balanço entre distensibilidade e recolhimento elástico.
 
-$$P = \frac{2 \gamma}{r}$$
+- **Complacência (C):** quanto o volume varia para uma mesma variação de pressão (C = dV/dP).
+- **Elastância (E):** tendência de retornar ao volume inicial (E = dP/dV), inverso da complacência.
 
-onde P = pressão de colapso, γ = tensão superficial, r = raio.
+| Situação | Complacência | Elastância | Consequência clínica |
+|----------|--------------|------------|----------------------|
+| Enfisema | aumentada | reduzida | pulmão "fácil de encher", difícil de esvaziar |
+| Fibrose pulmonar | reduzida | aumentada | pulmão rígido, maior trabalho inspiratório |
+| Edema intersticial | reduzida | aumentada | dispneia e taquipneia precoce |
 
-- Sem surfactante: alvéolo pequeno (r menor) teria P maior → esvaziaria para alvéolo grande (r maior) → colapso dos menores
-- Com surfactante: quanto menor o alvéolo, mais tenso fica o surfactante (moléculas mais comprimidas) → γ cai proporcionalmente ao r → P se mantém igual em alvéolos grandes e pequenos → **estabilidade alveolar**
-
----
-
-## Músculos Respiratórios
-
-**Inspiração tranquila:**
-- **Diafragma** (principal): inervado pelo nervo frênico (C3–C5); contração abaixa o domo diafragmático, aumentando o volume torácico vertical
-- Intercostais externos: elevam costelas, expandem tórax horizontal e ântero-posteriormente
-
-**Inspiração forçada (músculos acessórios):**
-- Esternocleidomastoideo, escalenos, peitoral menor
-
-**Expiração tranquila:** passiva — retração elástica pulmonar e da caixa torácica
-
-**Expiração forçada:**
-- Abdominais (reto abdominal, transverso, oblíquos): comprimem o abdome → empurram diafragma para cima
-- Intercostais internos: abaixam costelas
-
-> **Pegadinha:** A expiração TRANQUILA é PASSIVA (sem contração muscular ativa). Apenas na expiração FORÇADA (tossir, soprar, exercício intenso) há contração dos abdominais e intercostais internos. A questão frequente é "qual músculo ativa na expiração tranquila?" — resposta: nenhum (é passiva).
+Quando a complacência cai, o paciente precisa gerar mais pressão negativa para o mesmo volume corrente. Isso aumenta esforço respiratório e risco de fadiga muscular.
 
 ---
 
-## Espaço Morto
+## Resistência das Vias Aéreas
 
-- **Espaço morto anatômico:** ~150 mL — ar nas vias de condução (não participa da troca)
-- **Espaço morto alveolar:** alvéolos ventilados mas não perfundidos (V/Q → ∞)
-- **Espaço morto fisiológico:** soma dos dois — em indivíduo saudável, praticamente igual ao anatômico
+A resistência ao fluxo depende principalmente do calibre das vias aéreas e do padrão de fluxo (laminar ou turbulento).
 
-Ventilação alveolar = (VC − espaço morto) × FR = (500 − 150) × 12 = **4.200 mL/min**
+No modelo simplificado:
+- Resistência aumenta quando o raio da via aérea diminui.
+- Pequenas reduções do raio elevam muito a resistência.
+- Broncoconstrição, secreção e edema de mucosa elevam resistência.
+
+| Condição | Efeito no calibre | Efeito na resistência | Impacto funcional |
+|----------|-------------------|-----------------------|-------------------|
+| Asma em crise | broncoconstrição importante | grande aumento | queda de fluxo expiratório |
+| DPOC com muco | obstrução difusa | aumento persistente | aprisionamento aéreo |
+| Broncodilatação | aumento do raio | redução | melhora de VEF1 e sintomas |
+
+Em prova, o aumento da resistência costuma se traduzir por maior dificuldade expiratória, sibilância e redução dos fluxos forçados.
 
 ---
 
-## Pontos-Chave
+## Trabalho Respiratório e Músculos Respiratórios
 
-- Volumes pulmonares: VT, VRI, VRE, VR — apenas o VR não é medido pela espirometria
-- Capacidades: CI, CRF, CV, CPT — CPT = CV + VR
-- VEF₁/CVF < 0,70 = padrão obstrutivo; CPT↓ = padrão restritivo
-- Diagnóstico de asma: obstrução reversível (melhora ≥ 12% e ≥ 200 mL com broncodilatador)
-- Complacência alta = enfisema; complacência baixa = fibrose
-- Surfactante estabiliza alvéolos pela Lei de Laplace (γ cai com r pequeno)
-- Diafragma (C3–C5 via frênico): principal músculo inspiratório
-- Expiração tranquila é passiva; expiração forçada recruta abdominais e intercostais internos
-- Ventilação alveolar = (VC − 150 mL) × FR
-- CRF = ponto de equilíbrio entre retração pulmonar e retração da parede torácica
+O trabalho respiratório é a energia necessária para ventilar o pulmão e vencer dois componentes principais:
+- trabalho elástico (vencer elastância pulmão/parede torácica);
+- trabalho resistivo (vencer resistência das vias aéreas).
+
+Quando resistência e/ou elastância aumentam, o custo ventilatório sobe e surge padrão de respiração mais rápida, com recrutamento muscular acessório.
+
+### Músculos respiratórios
+
+| Fase | Principais músculos | Papel |
+|------|---------------------|-------|
+| Inspiração tranquila | diafragma, intercostais externos | expansão torácica fisiológica |
+| Inspiração forçada | esternocleidomastoideo, escalenos, peitoral menor | ganho adicional de volume |
+| Expiração tranquila | sem contração ativa predominante | processo passivo por recuo elástico |
+| Expiração forçada | abdominais e intercostais internos | aumento da pressão expiratória |
+
+O diafragma é o principal músculo inspiratório e recebe inervação do nervo frênico (C3-C5).
+
+> **Pegadinha:** expiração tranquila é passiva. Se a questão perguntar "músculo ativo na expiração em repouso", a resposta correta é que não há recrutamento ativo relevante.
+
+---
+
+## Tabela Útil de Revisão Rápida
+
+| Tema | Cai como | Chave para acertar |
+|------|----------|--------------------|
+| VT, IRV, ERV, RV | definição direta | decorar o que é volume primário |
+| CV e CPT | cálculo simples | CPT sempre inclui RV |
+| Obstrução x restrição | interpretação de espirometria | obstrução reduz VEF1/CVF; restrição reduz CPT |
+| Complacência x elastância | conceito inverso | lembrar que uma sobe quando a outra cai |
+| Resistência de vias aéreas | fisiologia aplicada | redução de raio aumenta muito resistência |
+| Trabalho respiratório | caso clínico | piora com pulmão rígido ou via aérea estreita |
 
 ---
 
 ## Ponte com a Clínica
 
-Na **DPOC**, a hiperinsuflação pulmonar (CPT elevada, VR elevado) resulta da perda do recuo elástico e do air trapping. O diafragma fica planificado, perde eficiência mecânica — é por isso que pacientes com DPOC advanced usam músculos acessórios e têm dispneia aos pequenos esforços. Na **fibrose pulmonar idiopática**, a complacência está drasticamente reduzida, o padrão é restritivo (CPT baixa) e a relação VEF₁/CVF é preservada ou elevada. Reconhecer esses padrões espirométricos é uma competência fundamental para a prova de residência.
+No ambulatório, a mesma lógica mecânica explica fenótipos diferentes de dispneia. No enfisema, a complacência elevada e a perda de recuo elástico favorecem aprisionamento aéreo e hiperinsuflação, com tórax mais expandido e dificuldade para expirar. Na fibrose, a complacência reduzida impõe respiração curta e rápida, com grande esforço para inspirar pequenos volumes.
+
+Na urgência, exacerbações obstrutivas elevam a resistência das vias aéreas, aumentam o trabalho respiratório e podem levar à fadiga. Reconhecer cedo esse ciclo (resistência alta, esforço alto, queda de desempenho muscular) ajuda a indicar suporte ventilatório no momento correto.
+
+---
+
+## Pontos-Chave para Prova
+
+- VT, IRV, ERV e RV são volumes; CV e CPT são capacidades compostas.
+- RV não sai da espirometria simples.
+- Obstrução: queda de VEF1/CVF; restrição: CPT reduzida.
+- Complacência e elastância são inversamente relacionadas.
+- Resistência de vias aéreas aumenta quando o calibre bronquiolar diminui.
+- Trabalho respiratório cresce quando aumenta elastância e/ou resistência.
+- Diafragma é o principal músculo inspiratório (frênico C3-C5).
+- Expiração em repouso é passiva; expiração forçada recruta abdominais.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+Na prova, comece separando volumes de capacidades: VT, IRV, ERV e RV são medidas básicas; CV e CPT são somas, e CPT sempre inclui RV. Esse detalhe resolve várias questões de fórmula e elimina alternativas incorretas rapidamente.
 
+Para interpretação funcional, use a lógica em duas etapas: primeiro veja a relação VEF1/CVF; se estiver reduzida, pense em padrão obstrutivo. Depois observe se há queda de volumes totais (especialmente CPT) para discutir restrição. Quando o enunciado mistura os dois achados, considere padrão misto.
 
-VR: único volume NÃO mensurado pela espirometria (nécessita diluição de He ou pletismografia). CPT = CV + VR; CRF = VRE + VR; CV = VRI + VC + VRE. VEF₁/CVF < 0,70: critério de obstrução (asma, DPOC).
+Mecânica pulmonar costuma ser cobrada com contraste entre enfisema e fibrose: enfisema aumenta complacência e reduz recuo elástico; fibrose reduz complacência e aumenta elastância. Some isso à resistência de vias aéreas para entender por que alguns pacientes falham por dificuldade expiratória (obstrução) e outros por limitação inspiratória (restrição rígida).
 
-CPT < 80% previsto: critério de restrição (fibrose, obesidade, cifoescoliose). Complacência: fácil de expandir = alta; fibrose = baixa; enfisema = alta. Lei de Laplace: P = 2γ/r; surfactante reduz γ proporcionalmente → estabiliza alvéolos pequenos.
-
-Expiração tranquila = passiva: sem contração muscular ativa. Diafragma: inervado pelo nervo frênico (C3–C5). Ventilação alveolar: (VC − 150) × FR; aumentar FR sem VC pode aumentar espaço morto relativo.
-
-Reversibilidade: asma × DPOC: asma reverte ≥ 12% e ≥ 200 mL com broncodilatador.
+No bloco de músculos respiratórios, lembre o núcleo duro: diafragma é principal motor da inspiração, e expiração tranquila é passiva. Se houver recrutamento abdominal e intercostal interno, você está diante de expiração forçada ou desconforto respiratório.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Padrão obstrutivo | Padrão restritivo | Obstrutivo: VEF₁/CVF ↓; Restritivo: CPT ↓, relação normal ou ↑ |
-| Complacência | Elastância | Complacência = ΔV/ΔP (fácil de expandir); Elastância = ΔP/ΔV (tendência de retornar) |
-| Enfisema | Fibrose | Enfisema: complacência ↑, CPT ↑, VR ↑; Fibrose: complacência ↓, CPT ↓ |
-| Expiração tranquila | Expiração forçada | Tranquila = passiva; Forçada = abdominais + intercostais internos |
-| VEF₁ | CVF | VEF₁ = volume no 1º segundo; CVF = volume total forçado; a RELAÇÃO é o que diagnóstica |
+|------------|------------|------------------|
+| Volume pulmonar | Capacidade pulmonar | volume é medida única; capacidade é soma de volumes |
+| Obstrução | Restrição | obstrução reduz VEF1/CVF; restrição confirma com CPT reduzida |
+| Complacência alta | Complacência baixa | alta no enfisema; baixa na fibrose |
+| Expiração tranquila | Expiração forçada | tranquila é passiva; forçada recruta abdominais/intercostais internos |
+| Resistência aumentada | Elastância aumentada | resistência envolve fluxo em via aérea; elastância envolve rigidez do sistema |
 
 ### Frase-âncora para não esquecer
-
-> "O pulmão obstrutivo não consegue expulsar — VEF₁/CVF cai. O pulmão restritivo não consegue encher — CPT cai."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "Obstrução prende o ar para sair; restrição impede o pulmão de entrar em volume."

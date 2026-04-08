@@ -4,7 +4,7 @@
 
 As imunodeficiências são condições em que o sistema imune falha em proteger adequadamente o organismo, tornando o indivíduo vulnerável a infecções oportunistas, infecções recorrentes e neoplasias. Podem ser genéticas (primárias) ou adquiridas (secundárias), e o padrão do patógeno que causa a infecção orienta diretamente o diagnóstico: infecções por bactérias encapsuladas apontam para deficiência de anticorpos; infecções por vírus e fungos sugerem deficiência celular.
 
-A **Uninove** cobra muito o raciocínio clínico: dado o padrão de infecções, qual componente imune está deficiente? As principais entidades — agamaglobulinemia de Bruton, SCID, síndrome de DiGeorge, deficiência de complemento — são alvos frequentes em questões de caso clínico.
+A Uninove cobra muito o raciocínio clínico: dado o padrão de infecções, qual componente imune está deficiente? As principais entidades — agamaglobulinemia de Bruton, SCID, síndrome de DiGeorge, deficiência de complemento — são alvos frequentes em questões de caso clínico.
 
 ### Figura sugerida
 
@@ -150,17 +150,17 @@ A **Uninove** cobra muito o raciocínio clínico: dado o padrão de infecções,
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Bruton:** sem B cells; ligada ao X; meninos; infecções por encapsuladas; IVIG
+- **DiGeorge:** sem timo; 3 achados: coração + hipocalcemia + imunodéficit celular
+- **SCID:** sem T e B; infecções oportunistas; TMO = único curativo; BCG contraindicado
+- **DGC:** neutrófilo não mata (NADPH-ox defeituosa); *S. aureus*, *Aspergillus*
+- **Deficiência C3:** todas as bactérias; **C5-C9:** só *Neisseria*
+- **IgA secretória ausente:** risco de anafilaxia com hemoderivados
 
-
-Bruton: sem B cells; ligada ao X; meninos; infecções por encapsuladas; IVIG. DiGeorge: sem timo; 3 achados: coração + hipocalcemia + imunodéficit celular.
-
-SCID: sem T e B; infecções oportunistas; TMO = único curativo; BCG contraindicado. DGC: neutrófilo não mata (NADPH-ox defeituosa); *S. aureus*, *Aspergillus*.
-
-Deficiência C3: todas as bactérias; C5-C9: só *Neisseria*. IgA secretória ausente: risco de anafilaxia com hemoderivados.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -173,13 +173,4 @@ Deficiência C3: todas as bactérias; C5-C9: só *Neisseria*. IgA secretória au
 | Imunodeficiência primária | Imunodeficiência secundária | Primária = genética; Secundária = adquirida (HIV, QT, corticoide) |
 
 ### Frase-âncora para não esquecer
-
 > "Quem infecta mais diz o que falta: encapsuladas → falta anticorpo (Bruton/CVID); vírus e fungos → falta célula T (DiGeorge, HIV); *Neisseria* recorrente → falta complemento terminal (C5-C9)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

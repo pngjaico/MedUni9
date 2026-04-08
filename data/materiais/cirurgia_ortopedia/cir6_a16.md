@@ -95,11 +95,11 @@ Paciente com **trauma** e dor importante mas **RX normal**: considere **fratura 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Classificação AO** — ideia de estabilidade (não decorar todos os códigos).
-- **Artefato** em RM — metal próximo ao campo.
-- **Gadolínio** — função renal (risco NSF histórico).
+Na prova, lembre que Classificação AO — ideia de estabilidade (não decorar todos os códigos). Artefato em RM — metal próximo ao campo.
+
+Para não errar em cenário clínico, considere também Gadolínio — função renal (risco NSF histórico).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -112,14 +112,3 @@ Paciente com **trauma** e dor importante mas **RX normal**: considere **fratura 
 ### Frase-âncora para não esquecer
 
 > “**RX** responde ‘osso quebrado?’; **RM** responde ‘ligamento e menisco?’.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione imagem com **classificação** (Garden, Neer, Salter-Harris) e **timing** cirúrgico. Sempre que pedir exame caro, **justifique** clinicamente.
-
-### Leitura de reforço
-
-- Radiologia ortopédica essencial (manual ilustrado)
-- Protocolos de RM de joelho e ombro

@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A medicina contemporânea é inseparável das ferramentas biotecnológicas. O diagnóstico de uma infecção por SARS-CoV-2, a identificação de uma mutação em BRCA2, o desenvolvimento de uma vacina de **mRNA** e o tratamento de uma criança com imunodeficiência combinada grave por terapia gênica são todos impossíveis sem as técnicas abordadas nesta aula. Para o estudante de medicina da **Uninove**, o domínio dessas ferramentas é exigido tanto nas provas teóricas quanto na interpretação de exames modernos.
+A medicina contemporânea é inseparável das ferramentas biotecnológicas. O diagnóstico de uma infecção por SARS-CoV-2, a identificação de uma mutação em BRCA2, o desenvolvimento de uma vacina de mRNA e o tratamento de uma criança com imunodeficiência combinada grave por terapia gênica são todos impossíveis sem as técnicas abordadas nesta aula. Para o estudante de medicina da Uninove, o domínio dessas ferramentas é exigido tanto nas provas teóricas quanto na interpretação de exames modernos.
 
 A bioinformática — o uso de algoritmos computacionais para análise de dados biológicos — tornou-se a espinha dorsal do sequenciamento genômico de nova geração (NGS), da identificação de variantes patogênicas e da medicina de precisão. Entender os princípios de PCR, eletroforese, CRISPR e sequenciamento é hoje tão básico para o médico moderno quanto interpretar um eletrocardiograma.
 
@@ -25,7 +25,7 @@ A bioinformática — o uso de algoritmos computacionais para análise de dados 
 
 ## PCR — Reação em Cadeia da Polimerase
 
-A PCR amplifica exponencialmente uma sequência específica de **DNA** a partir de quantidades mínimas de material genético. Criada por Kary Mullis em 1983 (Nobel de Química, 1993).
+A PCR amplifica exponencialmente uma sequência específica de DNA a partir de quantidades mínimas de material genético. Criada por Kary Mullis em 1983 (Nobel de Química, 1993).
 
 ### Componentes Essenciais
 
@@ -61,7 +61,7 @@ Após n ciclos: 2ⁿ cópias teóricas.
 
 ## Eletroforese em Gel de Agarose
 
-Separa fragmentos de **DNA** por tamanho em campo elétrico. DNA carregado negativamente (fosfatos) migra em direção ao polo positivo. Fragmentos menores migram mais rápido na malha de agarose. Após corrida, corado com brometo de etídio ou SYBR Green e visualizado sob UV.
+Separa fragmentos de DNA por tamanho em campo elétrico. DNA carregado negativamente (fosfatos) migra em direção ao polo positivo. Fragmentos menores migram mais rápido na malha de agarose. Após corrida, corado com brometo de etídio ou SYBR Green e visualizado sob UV.
 
 **Aplicações:** Confirmar produto de PCR, analisar tamanho de fragmentos de restrição, padrão de fragmentação (escada de ~200 pb = apoptose), Southern blot.
 
@@ -75,7 +75,7 @@ Usa didesoxinucleotídeos (ddNTPs) marcados com fluorescência — cada ddNTP te
 
 ### NGS — Sequenciamento de Nova Geração (2ª/3ª geração)
 
-Sequencia milhões a bilhões de fragmentos em paralelo ("shotgun"). Plataformas: Illumina (por síntese), Ion Torrent (detecção de **pH**), PacBio/Nanopore (leitura longa).
+Sequencia milhões a bilhões de fragmentos em paralelo ("shotgun"). Plataformas: Illumina (por síntese), Ion Torrent (detecção de pH), PacBio/Nanopore (leitura longa).
 
 | Aspecto | Sanger | NGS |
 |--------|--------|-----|
@@ -95,7 +95,7 @@ Sequencia milhões a bilhões de fragmentos em paralelo ("shotgun"). Plataformas
 
 ### Enzimas de Restrição
 
-Endonucleases que cortam **DNA** em sítios específicos (palindrômicos). *EcoRI* (G↓AATTC), *BamHI* (G↓GATCC). Geram extremidades "pegajosas" (sticky ends) ou cegas (blunt ends). Base da clonagem tradicional e do mapeamento de restrição.
+Endonucleases que cortam DNA em sítios específicos (palindrômicos). *EcoRI* (G↓AATTC), *BamHI* (G↓GATCC). Geram extremidades "pegajosas" (sticky ends) ou cegas (blunt ends). Base da clonagem tradicional e do mapeamento de restrição.
 
 ### Vetores de Clonagem
 
@@ -193,19 +193,19 @@ Endonucleases que cortam **DNA** em sítios específicos (palindrômicos). *EcoR
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-PCR: amplifica DNA; Taq polimerase termoestável; 3 etapas (desnaturação, anelamento, extensão). RT-PCR: RNA → cDNA (transcriptase reversa) ANTES do PCR — detecta SARS-CoV-2, HIV. QPCR: mede fluorescência em tempo real → quantificação (carga viral, expressão).
-
-Sanger: ddNTPs terminadores; confirma variante única; padrão-ouro. NGS: shotgun massivo; WES = exoma; WGS = genoma completo; painéis = genes selecionados. CRISPR-Cas9: gRNA (20 nt) + Cas9; corte dupla fita; PAM = NGG; NHEJ cria knockout.
-
-Casgevy = CRISPR aprovado 2023: falciforme + β-talassemia. Enzima de restrição: corte em sítio palindrômico → base da clonagem. BLAST: compara sequências versus banco de dados.
-
-Proteínas recombinantes: insulina (E. coli), EPO/anticorpos (células CHO).
+- **PCR:** amplifica DNA; Taq polimerase termoestável; 3 etapas (desnaturação, anelamento, extensão)
+- **RT-PCR:** RNA → cDNA (transcriptase reversa) ANTES do PCR — detecta SARS-CoV-2, HIV
+- **qPCR:** mede fluorescência em tempo real → quantificação (carga viral, expressão)
+- **Sanger:** ddNTPs terminadores; confirma variante única; padrão-ouro
+- **NGS:** shotgun massivo; WES = exoma; WGS = genoma completo; painéis = genes selecionados
+- **CRISPR-Cas9:** gRNA (20 nt) + Cas9; corte dupla fita; PAM = NGG; NHEJ cria knockout
+- **Casgevy = CRISPR aprovado 2023:** falciforme + β-talassemia
+- **Enzima de restrição:** corte em sítio palindrômico → base da clonagem
+- **BLAST:** compara sequências versus banco de dados
+- **Proteínas recombinantes:** insulina (E. coli), EPO/anticorpos (células CHO)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -218,13 +218,4 @@ Proteínas recombinantes: insulina (E. coli), EPO/anticorpos (células CHO).
 | Plasmídeo | Vetor viral (AAV) | Plasmídeo = E. coli, proteínas recombinantes; AAV = terapia gênica in vivo (Zolgensma/AME) |
 
 ### Frase-âncora para não esquecer
-
 > "PCR copia DNA como uma fotocopiadora: você escolhe qual trecho (primers), aquece para separar (desnatura), esfria para grudar (anela) e esquenta para produzir (extende). RT-PCR precisa primeiro converter a fita de RNA em cDNA — o 'RT' é o tradutor do RNA para que o PCR possa copiar."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

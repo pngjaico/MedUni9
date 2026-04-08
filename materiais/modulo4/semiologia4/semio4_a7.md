@@ -132,22 +132,20 @@ Crise epiléptica = descarga neuronal excessiva e sincrônica. **Focal → gener
 
 ## Ponte com a Clínica
 
-Saber qual síndrome estará diante de você define o próximo passo: AVC → **TC** e tPA; parkinson → levodopa; síndrome piramidal aguda → investigação de AVC vs. EM. A semiologia não termina no diagnóstico topográfico — ela guia a propedêutica e o tratamento imediato.
+Saber qual síndrome estará diante de você define o próximo passo: AVC → TC e tPA; parkinson → levodopa; síndrome piramidal aguda → investigação de AVC vs. EM. A semiologia não termina no diagnóstico topográfico — ela guia a propedêutica e o tratamento imediato.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Síndromes do NMS: espasticidade, hiper-reflexia, Babinski — localiza acima da medula. Parkinson: tremor de repouso 4–6 Hz, roda dentada, bradicinesia — substância negra.
-
-Cerebelar: ipsilateral, dismetria, disdiadococinesia, nistagmo horizontal. AVC isquêmico: janela 4,5h tPA; ACM esquerda = afasia + hemiplegia direita.
-
-Paralisia de Todd: hemiparesia pós-ictal que resolve — confunde com AVC. DCL: parkinsonismo + alucinações visuais + flutuação — cuidado com antipsicóticos típicos.**.
+- **Síndromes do NMS:** espasticidade, hiper-reflexia, Babinski — localiza acima da medula.
+- **Parkinson:** tremor de repouso 4–6 Hz, roda dentada, bradicinesia — substância negra.
+- **Cerebelar:** ipsilateral, dismetria, disdiadococinesia, nistagmo horizontal.
+- **AVC isquêmico:** janela 4,5h tPA; ACM esquerda = afasia + hemiplegia direita.
+- **Paralisia de Todd:** hemiparesia pós-ictal que resolve — confunde com AVC.
+- **DCL:** parkinsonismo + alucinações visuais + flutuação — cuidado com antipsicóticos típicos.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -159,5 +157,4 @@ Paralisia de Todd: hemiparesia pós-ictal que resolve — confunde com AVC. DCL:
 | Alzheimer | DCL | Alzheimer: memória 1.º; DCL: parkinsonismo + alucinações visuais |
 
 ### Frase-âncora para não esquecer
-
 > "Piramidal vai para cima (reflexos), Parkinson trava (rigidez), Cerebelar escorrega (dismetria)."

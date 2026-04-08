@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Saber como o nervo espinal se forma — raízes sensitivas e motoras, dermátomos e miótamos — é essencial para localizar lesões de hérnia de disco, tumores de canal vertebral e radiculopatias. A **Uninove** adora questões de dermátomo: "paciente com dor na face lateral da coxa — qual raiz?". Essa aula responde isso com anatomia.
+Saber como o nervo espinal se forma — raízes sensitivas e motoras, dermátomos e miótamos — é essencial para localizar lesões de hérnia de disco, tumores de canal vertebral e radiculopatias. A Uninove adora questões de dermátomo: "paciente com dor na face lateral da coxa — qual raiz?". Essa aula responde isso com anatomia.
 
 ### Figura sugerida
 
@@ -138,17 +138,15 @@ Localizar a radiculopatia é o exercício diário do ortopedista, neurocirurgiã
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Raiz dorsal: sensitiva, contém GRD. Raiz ventral: motora. 31 pares: 8C (1 a mais que as vértebras), 12T, 5L, 5S, 1Co.
-
-T4 = mamilo; T10 = umbigo; S1 = planta do pé. C3–4–5 = frênico = diafragma — lesão cervical alta = parada respiratória.
-
-Cauda equina: abaixo L2, NMI, bexiga flácida, anestesia em sela. L5: dorso do pé e hálux. S1: planta e calcanhar + reflexo aquileu.
+- **Raiz dorsal:** sensitiva, contém GRD. **Raiz ventral:** motora.
+- **31 pares:** 8C (1 a mais que as vértebras), 12T, 5L, 5S, 1Co.
+- **T4 = mamilo; T10 = umbigo; S1 = planta do pé.**
+- **C3–4–5 = frênico = diafragma** — lesão cervical alta = parada respiratória.
+- **Cauda equina:** abaixo L2, NMI, bexiga flácida, anestesia em sela.
+- **L5:** dorso do pé e hálux. **S1:** planta e calcanhar + reflexo aquileu.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -160,5 +158,4 @@ Cauda equina: abaixo L2, NMI, bexiga flácida, anestesia em sela. L5: dorso do p
 | 8 nervos cervicais | 7 vértebras cervicais | C1 emerge acima de C1; C8 emerge abaixo de C7 |
 
 ### Frase-âncora para não esquecer
-
 > "C3–4–5 mantém você vivo; L4–5 te mantém andando; S1 te mantém em pé na ponta dos pés."

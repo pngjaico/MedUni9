@@ -4,7 +4,7 @@
 
 As doenças parasitárias por protozoários são causa significativa de morbimortalidade no Brasil e em países tropicais. Doença de Chagas, malária e leishmaniose estão entre as doenças negligenciadas mais prevalentes e são recorrentes em questões de saúde pública e clínica médica. O entendimento do ciclo biológico, vetor, manifestações clínicas e tratamento é essencial para o médico generalista.
 
-A **Uninove** cobra as especificidades de cada doença: forma aguda vs. crônica da doença de Chagas, os tipos de Plasmodium, o diagnóstico laboratorial e o tratamento correto para cada protozoose.
+A Uninove cobra as especificidades de cada doença: forma aguda vs. crônica da doença de Chagas, os tipos de Plasmodium, o diagnóstico laboratorial e o tratamento correto para cada protozoose.
 
 ### Figura sugerida
 
@@ -169,17 +169,16 @@ A **Uninove** cobra as especificidades de cada doença: forma aguda vs. crônica
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Sinal de Romaña:** edema bipalpebral unilateral = Chagas aguda por inoculação ocular
+- **BRD + BDASE no ECG:** pensar Chagas crônica até prova em contrário
+- **Gota espessa:** diagnóstico de malária no Brasil (padrão)
+- **Primaquina:** necessária no P. vivax/ovale para eliminar hipnozoítos (verificar G6PD!)
+- **Calazar:** febre irregular + esplenomegalia massiva + pancitopenia → glucantime
 
-
-Sinal de Romaña: edema bipalpebral unilateral = Chagas aguda por inoculação ocular. BRD + BDASE no ECG: pensar Chagas crônica até prova em contrário.
-
-Gota espessa: diagnóstico de malária no Brasil (padrão). Primaquina: necessária no P. vivax/ovale para eliminar hipnozoítos (verificar G6PD!).
-
-Calazar: febre irregular + esplenomegalia massiva + pancitopenia → glucantime.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -192,13 +191,4 @@ Calazar: febre irregular + esplenomegalia massiva + pancitopenia → glucantime.
 | Cloroquina | Primaquina | Cloroquina = malária eritrocítica; primaquina = hipnozoítos (forma hepática) |
 
 ### Frase-âncora para não esquecer
-
 > "Barbeiro dá Chagas, mosquito dá malária, flebotomíneo (palha) dá Leishmania. Chagas crônica quebra o coração (BRD+BDASE) e dilata o esôfago. Malária por vivax volta se não dar primaquina."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

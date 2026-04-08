@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema reprodutor masculino produz espermatozoides e testosterona, além de conduzir os gametas ao exterior. A anatomia do percurso espermático e a histologia do testículo são cobradas em questões sobre infertilidade masculina, criptorquidia, varicocele e câncer testicular. A **Uninove** explora a histologia dos túbulos seminíferos e os tipos celulares do testículo.
+O sistema reprodutor masculino produz espermatozoides e testosterona, além de conduzir os gametas ao exterior. A anatomia do percurso espermático e a histologia do testículo são cobradas em questões sobre infertilidade masculina, criptorquidia, varicocele e câncer testicular. A Uninove explora a histologia dos túbulos seminíferos e os tipos celulares do testículo.
 
 ### Figura sugerida
 
@@ -142,17 +142,16 @@ No varicocele (dilatação das veias do plexo pampiniforme), o aumento da temper
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Percurso: Testículo → Epidídimo → Deferente → Ejaculatório → Uretra (TESTED). Leydig: interstício, testosterona, responde ao LH. Sertoli: intracanal, suporte + barreira hematotesticular + AMH + inibina B; responde ao FSH.
-
-Epidídimo: estereocílios (não cílios); maturação espermática; ~12 dias de trânsito. Vesícula seminal: frutose (~60% volume seminal). Próstata: zona de transição = HPB; zona periférica = carcinoma.
-
-Criptorquidia: T° alta → falha na espermatogênese + risco de tumor.
+- **Percurso:** Testículo → Epidídimo → Deferente → Ejaculatório → Uretra (TESTED)
+- **Leydig:** interstício, testosterona, responde ao LH
+- **Sertoli:** intracanal, suporte + barreira hematotesticular + AMH + inibina B; responde ao FSH
+- **Epidídimo:** estereocílios (não cílios); maturação espermática; ~12 dias de trânsito
+- **Vesícula seminal:** frutose (~60% volume seminal)
+- **Próstata:** zona de transição = HPB; zona periférica = carcinoma
+- **Criptorquidia:** T° alta → falha na espermatogênese + risco de tumor
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -164,5 +163,4 @@ Criptorquidia: T° alta → falha na espermatogênese + risco de tumor.
 | Vesícula seminal | Próstata | Vesícula: frutose (60%); Próstata: proteases/PSA/zinco (25-30%) |
 
 ### Frase-âncora para não esquecer
-
 > "Leydig e Sertoli dividem o testículo: Leydig fica no interstício fazendo testosterona quando o LH chama; Sertoli fica dentro do túbulo fazendo de tudo para os espermatozoides sobreviverem — inclusive construindo uma barreira para protegê-los do sistema imune."

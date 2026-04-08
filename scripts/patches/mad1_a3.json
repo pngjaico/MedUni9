@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1482,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Linfócitos T CD4+ reconhecem peptídeos apresentados em qual classe de molécula do MHC e em quais apresentadores típicos?",
+    "opcoes": [
+      "A) MHC II em APC profissionais (ex.: macrófago, célula dendrítica, linfócito B)",
+      "B) MHC I em qualquer célula nucleada infectada",
+      "C) MHC I apenas em hepatócitos",
+      "D) MHC II somente em timócitos imaturos"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "CD4+ vê antígeno exógeno processado e apresentado via MHC II por APCs.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinhamento à tabela CD4+ vs CD8+ do material.",
+      "B": "Incorreta: MHC I é eixo do CD8+ citotóxico.",
+      "C": "Incorreta: MHC I está em todas as células nucleadas, não só fígado.",
+      "D": "Incorreta: APCs periféricos apresentam via MHC II ao CD4+."
+    },
+    "explicacao": "Resumo: CD4+ = MHC II = coordenação da resposta.\nA) CORRETA. Via exógena e APCs.\nB) INCORRETA. Descreve CD8+.\nC) INCORRETA. Restrição incorreta.\nD) INCORRETA. Contexto tímico não responde à pergunta."
+  },
+  {
+    "id": 1483,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Linfócitos T CD8+ citotóxicos reconhecem antígenos apresentados por:",
+    "opcoes": [
+      "A) MHC II em macrófagos exclusivamente",
+      "B) MHC I em células nucleadas, incluindo infectadas ou tumorais",
+      "C) Apenas receptores Toll-like na membrana",
+      "D) IgE ligada a mastócitos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "CD8+ vigia o citoplasma via MHC I (via endógena).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é para CD4+.",
+      "B": "Correta: mnemônico 8×I = interior.",
+      "C": "Incorreta: PRRs são inatos, não apresentação ao TCR.",
+      "D": "Incorreta: IgE participa de hipersensibilidade tipo I."
+    },
+    "explicacao": "Resumo: CD8+ elimina células que exibem antígeno endógeno no MHC I.\nA) INCORRETA. Classe errada.\nB) CORRETA. MHC I amplo.\nC) INCORRETA. Mecanismo inato paralelo.\nD) INCORRETA. Imunidade humoral tipo I."
+  },
+  {
+    "id": 1484,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "A ativação completa de linfócitos T naive exige três sinais. Qual alternativa inclui coestimulação típica entre T e APC?",
+    "opcoes": [
+      "A) Apenas ligação do TCR ao peptídeo–MHC",
+      "B) TCR + peptídeo–MHC e IL-2 autocrina, sem contato celular",
+      "C) CD28 no linfócito T com B7 (CD80/86) na APC",
+      "D) Apenas citocinas IL-4 no plasma"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Sinal 2 = CD28–B7; sem coestimulação pode ocorrer anergia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: só o sinal 1 é insuficiente.",
+      "B": "Incorreta: omite coestimulação de superfície.",
+      "C": "Correta: descrição do sinal 2.",
+      "D": "Incorreta: IL-4 orienta Th2; não substitui o par CD28–B7."
+    },
+    "explicacao": "Resumo: Três sinais: TCR-MHC, coestimulação, citocinas.\nA) INCORRETA. Anergia possível.\nB) INCORRETA. Ignora B7.\nC) CORRETA. Coestimulação clássica.\nD) INCORRETA. Sinal 3 não é só IL-4 solúvel genérica."
+  },
+  {
+    "id": 1485,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Na primeira exposição a um antígeno proteico novo, qual padrão de anticorpo e cinética é esperado na resposta primária?",
+    "opcoes": [
+      "A) IgG elevada em 24 horas",
+      "B) IgA secretória dominante na primeira semana",
+      "C) IgE imediata sem latência",
+      "D) IgM predominante com latência de cerca de 7–10 dias"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Resposta primária: latência maior, pico menor, predomínio de IgM.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: IgG domina na secundária.",
+      "B": "Incorreta: IgA mucosa não define a primária sistêmica típica.",
+      "C": "Incorreta: IgE é eixo alérgico, não resposta primária padrão a proteína.",
+      "D": "Correta: tabela primária vs secundária."
+    },
+    "explicacao": "Resumo: Primária = IgM, mais lenta.\nA) INCORRETA. Cinética secundária.\nB) INCORRETA. Contexto mucoso específico.\nC) INCORRETA. Perfil alérgico.\nD) CORRETA. Latência e isotipo."
+  },
+  {
+    "id": 1486,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Homem HIV+ com CD4+ 60 células/mm³ e pneumonia por Pneumocystis jirovecii. Qual explicação integra melhor a vulnerabilidade a esse fungo oportunista?",
+    "opcoes": [
+      "A) Perda de linfócitos T CD4+ compromete coordenação Th1/macrófagos e respostas dependentes de ajuda celular",
+      "B) Deficiência isolada de IgA secretória",
+      "C) Bloqueio apenas da via alternativa do complemento",
+      "D) Aumento exclusivo de basófilos"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "CD4+ é o \"general\"; sem ele, imunidade celular contra oportunistas falha.",
+    "explicacoes_opcoes": {
+      "A": "Correta: caso do material com P. jirovecii e CD4 baixo.",
+      "B": "Incorreta: não explica o padrão de imunodeficiência celular do HIV.",
+      "C": "Incorreta: complemento não é o núcleo do caso.",
+      "D": "Incorreta: irrelevante ao mecanismo."
+    },
+    "explicacao": "Resumo: HIV mata CD4+ → falha da imunidade mediada por células.\nA) CORRETA. Coerência com Th1 e controle de P. jirovecii.\nB) INCORRETA. Hipogamaglobulinemia seletiva não é o foco.\nC) INCORRETA. Outro compartimento.\nD) INCORRETA. Sem base no caso."
+  },
+  {
+    "id": 1487,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Abatacept é usado em algumas doenças autoimunes. Qual interação bloqueia para reduzir ativação de linfócitos T?",
+    "opcoes": [
+      "A) IL-2 com receptor de alta afinidade apenas",
+      "B) CD28 em linfócitos T com B7 (CD80/86) em APCs",
+      "C) TCR com superantígeno",
+      "D) IgE com FcεRI em mastócitos"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Bloqueio do sinal 2 (CD28–B7) reduz coestimulação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: basiliximabe age em IL-2R; não é abatacept.",
+      "B": "Correta: citado no material como imunossupressor de coestimulação.",
+      "C": "Incorreta: superantígeno não é o alvo farmacológico aqui.",
+      "D": "Incorreta: eixo alérgico, não transplante/autoimune por coestimulação."
+    },
+    "explicacao": "Resumo: Sem B7, o T não recebe sinal 2.\nA) INCORRETA. Outro fármaco/mecanismo.\nB) CORRETA. Bloqueio CD28–B7.\nC) INCORRETA. Contexto infeccioso diferente.\nD) INCORRETA. Tipo I."
+  },
+  {
+    "id": 1488,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Qual perfil de subtipo de T CD4+ e citocina é mais associado à ativação de macrófagos para combate a microrganismos intracelulares?",
+    "opcoes": [
+      "A) Th2 com IL-4 predominante",
+      "B) Treg com IL-10 apenas",
+      "C) Th2 com IL-5 apenas",
+      "D) Th1 com IFN-γ"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Th1/IFN-γ ativa macrófagos contra patógenos intracelulares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Th2 é parasitos/alergia.",
+      "B": "Incorreta: Treg suprime, não ativa M1.",
+      "C": "Incorreta: IL-5 eosinofilia, não ativação macrofágica clássica.",
+      "D": "Correta: tabela Th1 no material."
+    },
+    "explicacao": "Resumo: Th1 coordena resposta contra bacilos intracelulares.\nA) INCORRETA. Perfil Th2.\nB) INCORRETA. Supressão.\nC) INCORRETA. Eixo alérgico/parasitário.\nD) CORRETA. IFN-γ ativa macrófagos."
+  },
+  {
+    "id": 1489,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Na resposta secundária à reexposição, o que o material destaca em relação à latência e ao isotipo predominante?",
+    "opcoes": [
+      "A) Resposta mais rápida (cerca de 2–3 dias) e IgG em geral predominante",
+      "B) Apenas IgE elevada",
+      "C) Latência maior que 10 dias sempre",
+      "D) Latência semelhante à primária e IgM dominante"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Memória acelera resposta e desloca para IgG (ou IgA/IgE conforme contexto).",
+    "explicacoes_opcoes": {
+      "A": "Correta: tabela primária vs secundária.",
+      "B": "Incorreta: IgE não define memória sistêmica típica.",
+      "C": "Incorreta: secundária é mais rápida, não mais lenta.",
+      "D": "Incorreta: descreve primária."
+    },
+    "explicacao": "Resumo: Memória = rápida e intensa, com IgG típica.\nA) CORRETA. Cinética e isotipo.\nB) INCORRETA. Perfil alérgico específico.\nC) INCORRETA. Tempo errado.\nD) INCORRETA. Mistura com primária."
+  },
+  {
+    "id": 1490,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Antígenos polissacarídeos de cápsula bacteriana podem ativar linfócitos B de modo T-independente. Qual consequência o material associa a esse tipo de resposta?",
+    "opcoes": [
+      "A) Centro germinativo obrigatório e hipermutação precoce",
+      "B) Switch robusto para IgG e memória de longa duração na primeira exposição",
+      "C) Predomínio de IgM e ausência de memória típica",
+      "D) Dependência exclusiva de IL-4 para ativação"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Resposta T-independente a polissacarídeos → principalmente IgM e pouca memória; vacinas conjugadas induzem resposta T-dependente mais robusta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: centro germinativo e hipermutação são típicos da ativação T-dependente.",
+      "B": "Incorreta: switch para IgG com memória exige ajuda de T CD4+.",
+      "C": "Correta: apenas IgM e sem memória robusta, conforme o texto.",
+      "D": "Incorreta: IL-4 participa de mudança de classe em contexto Th2; não define ativação T-independente de polissacarídeo."
+    },
+    "explicacao": "Resumo: T-independente não gera memória nem switch como a T-dependente.\nA) INCORRETA. Eventos de centro germinativo são T-dependentes.\nB) INCORRETA. Descreve resposta T-dependente.\nC) CORRETA. IgM e falta de memória.\nD) INCORRETA. Citocina errada para o contexto."
+  },
+  {
+    "id": 1491,
+    "materia": "mad1",
+    "tema": "mad1_a3",
+    "enunciado": "Na apresentação de antígeno endógeno (ex.: proteínas virais no citoplasma), qual molécula do MHC costuma exibir peptídeos às células T CD8+?",
+    "opcoes": [
+      "A) MHC II apenas em macrófagos",
+      "B) MHC I em células nucleadas",
+      "C) CD1d para linfócitos NK",
+      "D) HLA-G exclusivamente na placenta"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Via endógena → MHC I → CD8+ citotóxico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é via exógena para CD4+.",
+      "B": "Correta: qualquer célula nucleada pode apresentar via MHC I.",
+      "C": "Incorreta: CD1d apresenta lipídios a NKT, não o eixo clássico descrito.",
+      "D": "Incorreta: HLA-G é tolerância placentária, não regra geral da apresentação viral."
+    },
+    "explicacao": "Resumo: CD8+ vê o que a célula \"fabrica\" no citosol via MHC I.\nA) INCORRETA. Classe errada.\nB) CORRETA. Via endógena.\nC) INCORRETA. Outro sistema de apresentação.\nD) INCORRETA. Contexto imunológico distinto."
+  }
+]

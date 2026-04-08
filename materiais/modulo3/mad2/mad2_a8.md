@@ -9,7 +9,7 @@
 
 Hepatite viral é um tema clássico porque obriga o aluno a juntar clínica, epidemiologia e interpretação de exames sem cair em respostas automáticas. Não basta saber que o paciente está ictérico. É preciso entender qual via de transmissão faz sentido, qual vírus costuma cronificar, qual marcador indica fase da infecção e quando o risco muda de patamar.
 
-Na prática, esse é um assunto que influencia triagem de gestante, acompanhamento ambulatorial, prevenção populacional e abordagem de hepatopatia aguda ou crônica. Na **Uninove**, a pergunta costuma explorar exatamente isso: o vírus certo aparece quando você cruza história, sorologia e tempo de doença.
+Na prática, esse é um assunto que influencia triagem de gestante, acompanhamento ambulatorial, prevenção populacional e abordagem de hepatopatia aguda ou crônica. Na Uninove, a pergunta costuma explorar exatamente isso: o vírus certo aparece quando você cruza história, sorologia e tempo de doença.
 
 ### Figura sugerida
 
@@ -98,17 +98,19 @@ Na prática, hepatite viral é um ótimo exemplo de como história clínica e la
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **A e E:** via fecal-oral.
+- **B e C:** podem cronificar.
+- **D precisa de B:** sempre lembrar.
+- **Surto hídrico:** puxa A/E.
+- **Exposição sanguínea:** puxa B/C.
+- **Sorologia:** interpreta fase da infecção.
+- **Melhora clínica:** não exclui cronicidade futura.
+- **Seguimento hepático:** faz parte da conduta.
 
-
-A e E: via fecal-oral. B e C: podem cronificar. D precisa de B: sempre lembrar.
-
-Surto hídrico: puxa A/E. Exposição sanguínea: puxa B/C. Sorologia: interpreta fase da infecção.
-
-Melhora clínica: não exclui cronicidade futura. Seguimento hepático: faz parte da conduta.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -120,5 +122,4 @@ Melhora clínica: não exclui cronicidade futura. Seguimento hepático: faz part
 | Sorologia decorada | Sorologia interpretada | O que vale é entender fase, exposição e imunidade |
 
 ### Frase-âncora para não esquecer
-
 > "Na hepatite viral, transmissão diz de onde veio; sorologia diz em que fase está."

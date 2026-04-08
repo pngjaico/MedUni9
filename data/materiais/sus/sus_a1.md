@@ -1,4 +1,4 @@
-# SUS — Aula 1: Processo Saúde-Doença e Determinantes Sociais
+# SUS — Aula 1: Processo saúde-doença e determinantes sociais da saúde
 
 **Disciplina:** Princípios e Diretrizes do SUS  
 **Módulo:** 1
@@ -7,113 +7,103 @@
 
 ## Relevância Clínica e Acadêmica
 
-Esta aula é a base para entender **por que** o SUS existe e **como** o cuidado deve ser organizado. O processo saúde-doença não é “ter ou não ter doença”: é uma trajetória em que fatores biológicos, comportamentais, ambientais e sociais se combinam. Os **determinantes sociais da saúde (DSS)** explicam por que pessoas em situações diferentes têm riscos e desfechos diferentes, mesmo diante da mesma doença.
-
-Na prova, a banca cobra definições (O que é saúde? O que é DSS?), associações entre **condições de vida, trabalho e acesso**, e leitura crítica de cenários de vulnerabilidade. Na APS, isso vira anamnese ampliada, territorialização e priorização — não apenas prescrição.
-
+A saúde não é apenas a ausência de doença; é o resultado do **Modo de Vida**. Para a prova, domine a diferença entre os níveis de **Prevenção** (Primária, Secundária e Terciária) e como os **Determinantes Sociais** (renda, moradia, saneamento) moldam a saúde da população. Na clínica, entender a **Equidade** é o segredo para tratar pacientes com realidades diferentes sem oferecer a mesma conduta genérica para todos.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a definição de processo saúde-doença.
+- **O que mostrar:** esquema em camadas com indivíduo no centro e determinantes proximais, intermediários e estruturais ao redor.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** DSS em camadas: do contexto estrutural ao risco individual.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A1-F02`
+
+- **Momento:** após a tabela de níveis de prevenção.
+- **O que mostrar:** linha contínua da história natural da doença com pontos de intervenção primária, secundária e terciária.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** Onde cada nível de prevenção atua no tempo do adoecimento.
 
 ---
 
-## Conceitos de saúde e o processo saúde-doença
+## Conceito ampliado de saúde e processo saúde-doença
 
-**Saúde** não é apenas ausência de doença. Na Constituição e no campo da APS, prevalece uma visão **ampla**: bem-estar físico, mental, social e capacidade de autonomia. **Doença** é um estado com desconforto, disfunção ou sofrimento que pode (ou não) estar associado a um diagnóstico médico formal.
+No referencial clássico da OMS e na tradição da Reforma Sanitária brasileira, saúde é mais do que ausência de doença: envolve bem-estar físico, mental e social, com capacidade funcional e autonomia para viver no território. Isso não significa ideal inalcançável de perfeição, mas uma abordagem ampla para cuidado, prevenção e promoção da saúde.
 
-O **processo saúde-doença** descreve **mudanças ao longo da vida**: da saúde plena passando por estados de risco, agravos subclínicos, doença manifesta, sequelas e óbito — com possibilidade de recuperação, estabilização ou cronicidade. Esse olhar evita reduzir o paciente ao CID e lembra que **tempo, contexto e rede de apoio** importam.
+O processo saúde-doença é dinâmico. Uma pessoa transita por estados de risco, agravos subclínicos, doença manifesta, possíveis sequelas e recuperação parcial ou plena. Fatores protetores e fatores de risco atuam o tempo todo, o que exige raciocínio clínico integrado com vigilância e ações intersetoriais.
 
-> **Dica de Prova:** Quando a questão pedir “níveis de prevenção”, pense em **quando** intervir: antes do agravo (primária), na detecção precoce (secundária), na limitação de sequelas (terciária) ou na redução de danos iatrogênicos/overmedicalization (quaternária, quando citada).
+> **Dica de Prova:** Se o enunciado discutir **risco antes de sintomas**, pense em **prevenção primária**; se discutir **rastreio em assintomático**, pense em **prevenção secundária**.
 
-> **Pegadinha:** Confundir **prevenção secundária** (rastreamento, diagnóstico precoce) com **primária** (reduzir exposição ao risco antes da doença estabelecida) é erro clássico.
+> **Pegadinha:** Tratar **prevenção secundária** como sinônimo de tratamento. Secundária é **detecção precoce** em população-alvo; tratamento já integra linha de cuidado após diagnóstico.
 
-### Níveis de prevenção (Leavell & Clark) — visão sintética
+### História natural da doença e prevenção
 
-| Nível | Objetivo central | Exemplos na prática |
-|-------|------------------|---------------------|
-| Primária | Evitar que o agravo ocorra | vacinação, saneamento, educação em saúde |
-| Secundária | Detectar e tratar cedo | rastreamento, exames de rastreio em população definida |
-| Terciária | Limitar incapacidade e sequelas | reabilitação, manejo de crônico, prevenção de complicações |
-| Quaternária | Evitar intervenções desnecessárias | não fazer exame sem indicação, revisão de polifarmácia |
+| Nível de Prevenção | Momento da Intervenção | Exemplo de Prova |
+|--------------------|------------------------|-------------------|
+| **Primária** | Antes da doença (Risco) | **Vacinação** / Camisinha |
+| **Secundária** | Doença Assintomática | **Papanicolau** / Mamografia |
+| **Terciária** | Doença Manifesta | **Reabilitação** (Fisio pós-AVC) |
+| **Quaternária** | Risco de Iatrogenia | Evitar exames desnecessários |
 
----
-
-## Determinantes sociais da saúde (DSS)
-
-Os DSS são **condições em que as pessoas nascem, crescem, trabalham, envelhecem** e os sistemas que estruturam oportunidades de vida. Incluem **renda, educação, moradia, saneamento, trabalho, gênero, raça/etnia, acesso a direitos** e redes de proteção social.
-
-A desigualdade social produz **gradientes de saúde**: quanto maior a vulnerabilidade material e simbólica, maior tendência a adoecimento e menor capacidade de recuperação. O SUS, ao priorizar **equidade**, reconhece que “igualdade de acesso” não basta se **necessidades** são diferentes.
-
-> **Pegadinha:** DSS **não é** “falta de vontade do paciente”. DSS são **estruturais** e se ligam a políticas públicas, mercado de trabalho e discriminação — o papel do médico inclui reconhecer isso sem culpabilizar o indivíduo.
-
-### Vulnerabilidade
-
-**Vulnerabilidade** integra dimensões como:
-
-- **Individual:** idade, sexo, biologia, comportamentos.
-- **Social:** rede de apoio, isolamento, violência.
-- **Programática:** barreiras de acesso (geográficas, econômicas, culturais, administrativas).
-
-Na prova, cenários com “fila, transporte, turno de trabalho, ausência de creche” pedem leitura em **DSS + acesso**, não só diagnóstico clínico.
+> **Gatilho de Prova:** Se a questão fala em "evitar que a doença ocorra", é **Primária**. Se fala em "descobrir cedo/rastreio", é **Secundária**.
 
 ---
 
-## Integração: por que isso sustenta o SUS
+## Determinantes sociais da saúde: base normativa e implicações
 
-O campo da Saúde Coletiva critica modelos centrados apenas no biomédico individual. Políticas de **atenção primária**, **vigilância em saúde** e **proteção social** existem para atuar sobre causas estruturais do adoecimento — coerente com a Constituição (direito à saúde) e com a lógica de **território** e **cuidado longitudinal**.
+A Comissão Nacional sobre Determinantes Sociais da Saúde (CNDSS) e a literatura de Saúde Coletiva reforçam que saúde é produzida socialmente. Condições de renda, escolaridade, emprego, segurança alimentar, saneamento, transporte e ambiente urbano moldam exposição a riscos e capacidade de cuidado.
 
-| Enfoque restrito | Enfoque ampliado (APS/SUS) |
-|------------------|----------------------------|
-| Tratar só o sintoma | Entender contexto e continuidade do cuidado |
-| Culpar o “estilo de vida” | Reconhecer determinantes e barreiras |
-| Consultório como único lugar | Equipe, território e articulação em rede |
+No campo normativo brasileiro, o princípio da equidade obriga reconhecer necessidades distintas. Isso tem tradução prática: flexibilizar horários de atendimento, articular cuidado com assistência social, priorizar busca ativa de grupos vulneráveis e organizar linhas de cuidado com maior apoio para quem enfrenta barreiras estruturais.
+
+A Constituição Federal de 1988 estabelece saúde como direito de todos e dever do Estado, a ser garantido por políticas sociais e econômicas. Portanto, DSS não são detalhe periférico; são núcleo do dever público de reduzir risco de doença e garantir acesso universal e igualitário às ações e serviços.
+
+### Determinantes e exemplos clínicos no território
+
+| Determinante Social (DSS) | Impacto na Saúde |
+|---------------------------|-------------------|
+| **Saneamento Básico** | Doenças infectocontagiosas (Diarreia)|
+| **Renda/Emprego** | Acesso a alimentos e medicações |
+| **Escolaridade** | Compreensão da terapia e autocuidado |
+| **Moradia** | Exposição a vetores e aglomeração |
+
+A **Equidade** é dar mais a quem precisa de mais. Se um paciente mora longe e não tem dinheiro para o ônibus, a unidade deve priorizar sua consulta ou realizar **Visita Domiciliar**. Isso não é privilégio, é justiça social.
+
+---
+
+## Especificidade histórica do tema no SUS
+
+A transição do modelo previdenciário segmentado para o SUS universal reposicionou o entendimento de doença no Brasil. Antes, parte relevante da população dependia de vínculo formal de trabalho para acessar assistência regular. Com a Reforma Sanitária, consolidou-se a noção de cidadania sanitária: o direito à saúde independe de contribuição previdenciária individual.
+
+Esse deslocamento histórico é central para prova: quando a questão compara igualdade e equidade, ela cobra justamente a mudança de paradigma de um sistema excludente para uma política pública universal orientada por necessidades de saúde.
 
 ---
 
 ## Ponte com a Clínica
 
-Na recepção de um paciente hipertenso com jornada de trabalho informal e dificuldade de comparecimento, o plano terapêutico falha se ignorar **transporte, custo indireto e apoio familiar**. Registrar e considerar isso não é “sair do médico”: é **resolutividade em saúde**, alinhada ao cuidado centrado na pessoa e ao papel da ESF no território.
+Em ambulatório de APS, um paciente hipertenso faltoso pode não ser “não aderente” por escolha, mas por barreira de transporte, trabalho informal e ausência de apoio familiar para cuidado contínuo. A conduta tecnicamente correta inclui prescrição apropriada, mas também ajuste de plano terapêutico à realidade social, coordenação com equipe multiprofissional e acompanhamento longitudinal no território.
+
+Na prática, isso reduz risco cardiovascular de modo mais efetivo do que repetir orientações descontextualizadas. Em prova, o melhor item costuma ser o que combina clínica com organização de rede e abordagem de DSS.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Processo saúde-doença:** trajetória dinâmica; não reduzir a “estar doente ou não”.
-- **DSS:** condições de vida e trabalho; desigualdade → gradientes de saúde.
-- **Equidade:** tratar desigualmente os desiguais, conforme necessidade.
-- **Vulnerabilidade:** individual + social + programática.
-- **Prevenção:** dominar definições e exemplos de primária, secundária e terciária.
+- **Promoção da Saúde:** Foca nos determinantes (ex: criar ciclovias, praças).
+- **Proteção da Saúde:** Foca em riscos específicos (ex: vacinar contra Influenza).
+- **História Natural da Doença:** Curso da doença sem intervenção médica.
+- **Determinantes Intermediários:** Estilo de vida e condições de trabalho.
+- **Determinantes Estruturais:** Política, economia e estratificação social.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- **Processo saúde-doença:** mudanças ao longo da vida; saúde e doença como processos.
-- **DSS:** onde e como se vive; desigualdade em saúde.
-- **Equidade vs igualdade:** igualdade trata igual; equidade ajusta pela necessidade.
-- **Vulnerabilidade:** mais que “pobreza” — inclui acesso e redes.
-- **Prevenção:** primária evita; secundária rastreia precocemente; terciária reduz sequelas.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Saúde (ampla) | Ausência de doença | Saúde inclui bem-estar e autonomia; não só “sem diagnóstico”. |
-| Determinação social | “Escolha individual” | DSS são estruturais; evitar culpabilização do paciente. |
-| Prevenção primária | Secundária | Primária age antes; secundária detecta cedo doença já em curso. |
-| Equidade | Igualdade formal | Equidade corrige desvantagens; igualdade pode perpetuar injustiça. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Igualdade** | **Equidade** | Mesmo para todos vs **Mais para quem precisa** |
+| **Primária** | **Secundária** | Evitar vs **Rastrear (Diagnóstico Precoce)** |
+| **Determinante** | **Condicionante** | Causa Social vs Fator Ambiental/Biológico|
+| **Universalidade** | **Equidade** | Todos têm direito vs **Tratar desigualdades** |
 
 ### Frase-âncora para não esquecer
 
-> “Sem DSS, não existe SUS de verdade — só consultório.”
+> "No SUS, clínica sem contexto social vira conduta incompleta."

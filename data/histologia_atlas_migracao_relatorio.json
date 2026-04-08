@@ -1,0 +1,154 @@
+{
+  "geradoEm": "2026-04-07T15:48:30.601055+00:00",
+  "origem": "Meus Sites/Atlas Hisotlogia/histologia.icb.ufg.br/images/laminas",
+  "destino": "data/histologia/atlas",
+  "totalCategorias": 18,
+  "totalImagens": 276,
+  "totalComZoom": 271,
+  "categorias": [
+    {
+      "categoriaLegada": "10_digestorio",
+      "totalImagens": 56,
+      "totalZoom": 56,
+      "relevanciaAlta": 56,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 0
+    },
+    {
+      "categoriaLegada": "11_pele",
+      "totalImagens": 8,
+      "totalZoom": 8,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 8
+    },
+    {
+      "categoriaLegada": "12_respiratorio",
+      "totalImagens": 12,
+      "totalZoom": 12,
+      "relevanciaAlta": 1,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 11
+    },
+    {
+      "categoriaLegada": "13_urinario",
+      "totalImagens": 13,
+      "totalZoom": 13,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 1,
+      "relevanciaBaixa": 12
+    },
+    {
+      "categoriaLegada": "14_endocrinas",
+      "totalImagens": 13,
+      "totalZoom": 13,
+      "relevanciaAlta": 8,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 5
+    },
+    {
+      "categoriaLegada": "15_sentido",
+      "totalImagens": 1,
+      "totalZoom": 1,
+      "relevanciaAlta": 1,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 0
+    },
+    {
+      "categoriaLegada": "16_masculino",
+      "totalImagens": 18,
+      "totalZoom": 18,
+      "relevanciaAlta": 18,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 0
+    },
+    {
+      "categoriaLegada": "17_feminino",
+      "totalImagens": 28,
+      "totalZoom": 28,
+      "relevanciaAlta": 25,
+      "relevanciaMedia": 3,
+      "relevanciaBaixa": 0
+    },
+    {
+      "categoriaLegada": "18_embrionario",
+      "totalImagens": 4,
+      "totalZoom": 4,
+      "relevanciaAlta": 4,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 0
+    },
+    {
+      "categoriaLegada": "1_citologia",
+      "totalImagens": 8,
+      "totalZoom": 8,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 8
+    },
+    {
+      "categoriaLegada": "2_epitelio",
+      "totalImagens": 17,
+      "totalZoom": 17,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 17
+    },
+    {
+      "categoriaLegada": "3_conjuntivo",
+      "totalImagens": 26,
+      "totalZoom": 23,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 4,
+      "relevanciaBaixa": 22
+    },
+    {
+      "categoriaLegada": "4_cartilagem",
+      "totalImagens": 8,
+      "totalZoom": 6,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 1,
+      "relevanciaBaixa": 7
+    },
+    {
+      "categoriaLegada": "5_osso",
+      "totalImagens": 12,
+      "totalZoom": 12,
+      "relevanciaAlta": 1,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 11
+    },
+    {
+      "categoriaLegada": "6_musculo",
+      "totalImagens": 8,
+      "totalZoom": 8,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 8
+    },
+    {
+      "categoriaLegada": "7_nervoso",
+      "totalImagens": 15,
+      "totalZoom": 15,
+      "relevanciaAlta": 1,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 14
+    },
+    {
+      "categoriaLegada": "8_vascular",
+      "totalImagens": 18,
+      "totalZoom": 18,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 18
+    },
+    {
+      "categoriaLegada": "9_linfatico",
+      "totalImagens": 11,
+      "totalZoom": 11,
+      "relevanciaAlta": 0,
+      "relevanciaMedia": 0,
+      "relevanciaBaixa": 11
+    }
+  ]
+}

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Toda afirmação científica sobre eficácia de um tratamento, associação entre fator de risco e doença, ou diferença entre grupos é sustentada por um teste de hipótese. Saber interpretar um valor-p, distinguir **significância estatística** de relevância clínica e reconhecer os tipos de erro é competência essencial tanto para a prova quanto para a leitura crítica de artigos científicos. A **Uninove** cobra esses conceitos diretamente e também embutidos em questões de epidemiologia e ensaio clínico.
+Toda afirmação científica sobre eficácia de um tratamento, associação entre fator de risco e doença, ou diferença entre grupos é sustentada por um teste de hipótese. Saber interpretar um valor-p, distinguir significância estatística de relevância clínica e reconhecer os tipos de erro é competência essencial tanto para a prova quanto para a leitura crítica de artigos científicos. A Uninove cobra esses conceitos diretamente e também embutidos em questões de epidemiologia e ensaio clínico.
 
 ### Figura sugerida
 
@@ -124,17 +124,17 @@ Na prática de medicina baseada em evidências, ao avaliar um artigo deve-se sem
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **H0:** sem efeito. H1: com efeito.
+- **Valor-p:** probabilidade dos resultados (ou mais extremos) se H0 for verdadeira.
+- **p menor ou igual a 0,05:** rejeita H0. p maior que 0,05: nao rejeita (nao "prova" H0).
+- **Erro tipo I:** falso positivo. Erro tipo II: falso negativo.
+- **Poder = 1 menos beta:** chance de detectar efeito real. Minimo: 80%.
+- **IC 95%:** se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.
 
-
-H0: sem efeito. H1: com efeito. Valor-p: probabilidade dos resultados (ou mais extremos) se H0 for verdadeira.
-
-P menor ou igual a 0,05: rejeita H0. p maior que 0,05: nao rejeita (nao "prova" H0). Erro tipo I: falso positivo. Erro tipo II: falso negativo.
-
-Poder = 1 menos beta: chance de detectar efeito real. Minimo: 80%. IC 95%: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -146,5 +146,4 @@ Poder = 1 menos beta: chance de detectar efeito real. Minimo: 80%. IC 95%: se na
 | IC 95% | p-valor | IC informa precisao e magnitude; p so informa decisao binaria |
 
 ### Frase-âncora para não esquecer
-
 > "O valor-p diz quao improvavel sao os dados SE nao ha efeito. Nao diz a probabilidade de o efeito ser real."

@@ -1,0 +1,764 @@
+{
+  "materias_alvo": [
+    "bmf1",
+    "bcm1",
+    "pmh",
+    "mad1",
+    "mad2",
+    "fisiopato_farmaco"
+  ],
+  "config": {
+    "max_aulas": 24,
+    "por_materia": 4,
+    "force": false
+  },
+  "gerados_total": 24,
+  "gerados": [
+    "conteudos/materiais/modulo1/bmf1/bmf1_a5.md",
+    "conteudos/materiais/modulo1/bmf1/bmf1_a6.md",
+    "conteudos/materiais/modulo1/bmf1/bmf1_a7.md",
+    "conteudos/materiais/modulo1/bmf1/bmf1_a8.md",
+    "conteudos/materiais/modulo2/bcm1/bcm1_a5.md",
+    "conteudos/materiais/modulo2/bcm1/bcm1_a6.md",
+    "conteudos/materiais/modulo2/bcm1/bcm1_a7.md",
+    "conteudos/materiais/modulo2/bcm1/bcm1_a8.md",
+    "conteudos/materiais/modulo1/pmh/pmh_a5.md",
+    "conteudos/materiais/modulo1/pmh/pmh_a6.md",
+    "conteudos/materiais/modulo1/pmh/pmh_a7.md",
+    "conteudos/materiais/modulo1/pmh/pmh_a8.md",
+    "conteudos/materiais/modulo2/mad1/mad1_a5.md",
+    "conteudos/materiais/modulo2/mad1/mad1_a6.md",
+    "conteudos/materiais/modulo2/mad1/mad1_a7.md",
+    "conteudos/materiais/modulo2/mad1/mad1_a8.md",
+    "conteudos/materiais/modulo3/mad2/mad2_a5.md",
+    "conteudos/materiais/modulo3/mad2/mad2_a6.md",
+    "conteudos/materiais/modulo3/mad2/mad2_a7.md",
+    "conteudos/materiais/modulo3/mad2/mad2_a8.md",
+    "conteudos/materiais/modulo4/fisiopato_farmaco/ff4_a5.md",
+    "conteudos/materiais/modulo4/fisiopato_farmaco/ff4_a6.md",
+    "conteudos/materiais/modulo4/fisiopato_farmaco/ff4_a7.md",
+    "conteudos/materiais/modulo4/fisiopato_farmaco/ff4_a8.md"
+  ],
+  "top_prioridades": [
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a5",
+      "aula_tema": "Tecido Ósseo — Estrutura e Ossificação",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a6",
+      "aula_tema": "Prática — Ossos da Coluna, Membros Superiores e Inferiores",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a7",
+      "aula_tema": "Generalidades do Sistema Articular",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a8",
+      "aula_tema": "Tecido Cartilaginoso",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a9",
+      "aula_tema": "Prática — Articulações da Coluna e Membros",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a10",
+      "aula_tema": "Generalidades do Sistema Muscular",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a11",
+      "aula_tema": "Histologia do Tecido Muscular",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a12",
+      "aula_tema": "Fisiologia da Contração Muscular",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a13",
+      "aula_tema": "Prática — Músculos da Coluna, Membros Superiores e Inferiores",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a14",
+      "aula_tema": "Tegumento — Tecido Epitelial de Revestimento",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a15",
+      "aula_tema": "Tegumento — Tecido Epitelial Glandular",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a16",
+      "aula_tema": "Prática — Histologia do Tegumento e Tecido Adiposo",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a17",
+      "aula_tema": "Anatomia da Boca, Língua, Glândulas Salivares e Faringe",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a18",
+      "aula_tema": "Anatomia da Parede Abdominal e Peritônio",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a19",
+      "aula_tema": "Anatomia dos Intestinos Delgado e Grosso",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a20",
+      "aula_tema": "Inervação e Vascularização Gastrointestinal",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a21",
+      "aula_tema": "Anatomia do Fígado, Vias Biliares e Pâncreas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bmf1",
+      "aula_id": "bmf1_a22",
+      "aula_tema": "Prática — Sistema Digestório em Anatomia",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a5",
+      "aula_tema": "Replicação do DNA e PCR",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a6",
+      "aula_tema": "Transcrição e Controle da Expressão Gênica",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a7",
+      "aula_tema": "Tradução de Proteínas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a8",
+      "aula_tema": "Controle da Expressão Gênica e Doenças",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a9",
+      "aula_tema": "Necrose vs Apoptose",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a10",
+      "aula_tema": "Ciclo Celular — p53 e Rb1",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a11",
+      "aula_tema": "Mutações, Agentes Mutagênicos e Reparo de DNA",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a12",
+      "aula_tema": "Biotecnologias e Bioinformática",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a13",
+      "aula_tema": "Genética Médica — Heredograma e Padrões de Herança",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a14",
+      "aula_tema": "Alterações Cromossômicas Numéricas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a15",
+      "aula_tema": "Alterações Cromossômicas Estruturais",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a16",
+      "aula_tema": "Distúrbios de Diferenciação Sexual",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a17",
+      "aula_tema": "Herança Ligada ao X — Dominante e Recessiva",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a18",
+      "aula_tema": "Herança Autossômica Recessiva 1",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a19",
+      "aula_tema": "Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a20",
+      "aula_tema": "Herança Autossômica Dominante",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "bcm1",
+      "aula_id": "bcm1_a21",
+      "aula_tema": "Herança Poligênica e Bases Genéticas do Câncer",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a5",
+      "aula_tema": "Metabolismo de Glicogênio e Via das Pentoses",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a6",
+      "aula_tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a7",
+      "aula_tema": "Beta-oxidação e Síntese de Ácidos Graxos",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a8",
+      "aula_tema": "Colesterol, Lipoproteínas e Homeostase Lipídica",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a9",
+      "aula_tema": "Aplicações Clínicas dos Lipídios",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a10",
+      "aula_tema": "Transaminação, Desaminação e Ciclo da Ureia",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a11",
+      "aula_tema": "Aplicações Clínicas de Proteínas e Aminoácidos",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a12",
+      "aula_tema": "Biossíntese e Degradação de Nucleotídeos",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a13",
+      "aula_tema": "Integração Metabólica entre Órgãos",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "pmh",
+      "aula_id": "pmh_a14",
+      "aula_tema": "Adaptações Metabólicas e Aplicações Clínicas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a5",
+      "aula_tema": "Hemograma — Interpretação e Nomenclatura",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a6",
+      "aula_tema": "Imunização — Tipos de Vacinas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a7",
+      "aula_tema": "Imunodeficiências",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a8",
+      "aula_tema": "Tolerância Imunológica e Autoimunidade",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a9",
+      "aula_tema": "Transplantes e Transfusão Sanguínea",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a10",
+      "aula_tema": "Hipersensibilidades (Tipos I a IV)",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a11",
+      "aula_tema": "Estrutura e Metabolismo Bacteriano",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a12",
+      "aula_tema": "ISTs Bacterianas — Treponema, Neisseria e Chlamydia",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a13",
+      "aula_tema": "Infecções Bacterianas do Sistema Tegumentar",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a14",
+      "aula_tema": "Infecções Bacterianas do Sistema Urinário",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a15",
+      "aula_tema": "Infecções por Gram-negativas e Mycobacterium tuberculosis",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a16",
+      "aula_tema": "Infecções Respiratórias Virais",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a17",
+      "aula_tema": "Infecções por Arbovírus",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a18",
+      "aula_tema": "Hepatites Virais (A, B, C, D, E)",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a19",
+      "aula_tema": "Infecção pelo HIV e AIDS",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a20",
+      "aula_tema": "Infecções por Herpesvírus",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a21",
+      "aula_tema": "Infecções Virais do SNC e Doenças Exantemáticas",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a22",
+      "aula_tema": "Parasitoses — Protozoários (Chagas, Malária, Leishmaniose)",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a23",
+      "aula_tema": "Helmintíases e Cestoidoses",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad1",
+      "aula_id": "mad1_a24",
+      "aula_tema": "Infecções Fúngicas Sistêmicas e Superficiais",
+      "score": 204,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a5",
+      "aula_tema": "ISTs Bacterianas — Treponema, Neisseria, Chlamydia",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a6",
+      "aula_tema": "Infecções Bacterianas do Tegumento e Hanseníase",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a7",
+      "aula_tema": "Doenças Exantemáticas Virais (Sarampo, Rubéola)",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a8",
+      "aula_tema": "Hepatites Virais (A a E)",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a9",
+      "aula_tema": "Infecção pelo HIV e AIDS",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a10",
+      "aula_tema": "Infecções por Herpesvírus",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a11",
+      "aula_tema": "Infecções Virais do SNC — Poliovírus",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a12",
+      "aula_tema": "Infecções por Arbovírus",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a13",
+      "aula_tema": "Protozooses — Malária, Chagas e Toxoplasmose",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a14",
+      "aula_tema": "Helmintíases — Nematódeos e Estrongiloidíase",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a15",
+      "aula_tema": "Cestoidoses — Teníase e Cisticercose",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a16",
+      "aula_tema": "Antibióticos — Inibidores de Síntese de Parede",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a17",
+      "aula_tema": "Antibióticos — Inibidores de Síntese Proteica",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a18",
+      "aula_tema": "Antibióticos — Inibidores de Síntese de DNA e Antimetabólitos",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    },
+    {
+      "materia": "mad2",
+      "aula_id": "mad2_a19",
+      "aula_tema": "Antivirais",
+      "score": 200,
+      "material_exists": false,
+      "flashcards": 0,
+      "questoes": 0
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 902,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Erro inato do metabolismo (EIM) ocorre tipicamente quando:",
+    "opcoes": [
+      "A) Uma enzima deficiente altera o fluxo metabólico — acúmulo de substrato e/ou falta de produto essencial.",
+      "B) Existe apenas aneuploidia numérica sem envolvimento enzimático.",
+      "C) O DNA viral integra-se ao genoma sem qualquer consequência clínica.",
+      "D) Toda mutação gênica aumenta a síntese proteica de forma benéfica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "EIM — bloqueio enzimático; acúmulo e/ou déficit de produto.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: EIM é por defeito enzimático, não por número de cromossomos.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Conceito de EIM.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: EIM é por defeito enzimático, não por número de cromossomos.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 903,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "A fenilcetonúria clássica associa-se principalmente à deficiência de:",
+    "opcoes": [
+      "A) Galactose-1-fosfato uridiltransferase (GALT).",
+      "B) Fenilalanina hidroxilase (PAH) hepática.",
+      "C) Complexo BCKDH mitocondrial.",
+      "D) Hexosaminidase A lisossomal."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "PKU — PAH; acúmulo de fenilalanina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: galactosemia.",
+      "B": "Correta.",
+      "C": "Incorreta: MSUD — aminoácidos de cadeia ramificada.",
+      "D": "Incorreta: doença de Tay-Sachs."
+    },
+    "explicacao": "Resumo: PKU — enzima.\nA) INCORRETA. Incorreta: galactosemia.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta: MSUD — aminoácidos de cadeia ramificada.\nD) INCORRETA. Incorreta: doença de Tay-Sachs."
+  },
+  {
+    "id": 904,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Recém-nascido com odor de xarope de bordo, acidemia e encefalopatia precoce sugere, entre os EIM:",
+    "opcoes": [
+      "A) Fenilcetonúria não tratada com odor de \"rato\".",
+      "B) Galactosemia por acúmulo de galactose-1-P.",
+      "C) Doença da urina do xarope de bordo por deficiência de BCKDH e acúmulo de BCAA.",
+      "D) Hipotireoidismo congênito isolado sem alteração de aminoácidos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "MSUD — odor de bordo; BCKDH; leucina, isoleucina, valina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: odor típico de PKU costuma ser descrito como \"rato\"/urina, não xarope de bordo.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta: TSH elevado; sem perfil clássico de MSUD."
+    },
+    "explicacao": "Resumo: MSUD — quadro.\nA) INCORRETA. Incorreta: odor típico de PKU costuma ser descrito como \"rato\"/urina, não xarope de bordo.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: TSH elevado; sem perfil clássico de MSUD."
+  },
+  {
+    "id": 905,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Na história do Programa Nacional de Triagem Neonatal no Brasil, a fase I (1992) incluiu o rastreio de:",
+    "opcoes": [
+      "A) Apenas fibrose cística.",
+      "B) Apenas hemoglobinopatias.",
+      "C) Apenas acidúrias orgânicas por MS/MS.",
+      "D) Fenilcetonúria e hipotireoidismo congênito."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PNTN — expansão por fases; Fase I clássica PKU + TSH.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: FC entrou em fase posterior.",
+      "B": "Incorreta: hemoglobinopatias — fase II.",
+      "C": "Incorreta: MS/MS — expansão mais recente.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: PNTN fase I.\nA) INCORRETA. Incorreta: FC entrou em fase posterior.\nB) INCORRETA. Incorreta: hemoglobinopatias — fase II.\nC) INCORRETA. Incorreta: MS/MS — expansão mais recente.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 906,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Sapropterina (BH4 sintético) no tratamento da PKU aplica-se:",
+    "opcoes": [
+      "A) A todos os pacientes sem teste de resposta.",
+      "B) Sempre como substituto completo da dieta em qualquer gravidade.",
+      "C) Em formas BH4-responsivas, após critérios clínicos e bioquímicos de resposta.",
+      "D) Apenas em lactentes com hiperfenilalaninemia leve e sem acompanhamento nutricional."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "BH4-responsividade — subgrupo; monitorizar Phe.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: dieta e metas de Phe permanecem centrais na maioria.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Sapropterina.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: dieta e metas de Phe permanecem centrais na maioria.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 907,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Pegvaliase no manejo da PKU refere-se a:",
+    "opcoes": [
+      "A) Fórmula isenta apenas de leucina.",
+      "B) Cofator de BH4 por via oral em qualquer idade.",
+      "C) Transplante hepático profilático em lactentes.",
+      "D) Terapia enzimática substitutiva subcutânea indicada em adultos com PKU grave refratária."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Pegvaliase — fenilalanina amônia-liase conjugada; adultos selecionados.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: sapropterina é BH4.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Pegvaliase.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: sapropterina é BH4.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 908,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "A espectrometria de massa em tandem (MS/MS) na triagem neonatal ampliada permite:",
+    "opcoes": [
+      "A) Quantificar simultaneamente múltiplos metabólitos em sangue seco, expandindo o painel de doenças.",
+      "B) Medir exclusivamente TSH para hipotireoidismo.",
+      "C) Diagnosticar apenas hemoglobinopatias.",
+      "D) Substituir a coleta entre 3–5 dias de vida."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "MS/MS — painel ampliado; aminoácidos, acilcarnitinas.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: TSH é método específico para tireoide.",
+      "C": "Incorreta.",
+      "D": "Incorreta: janela de coleta mantém-se relevante."
+    },
+    "explicacao": "Resumo: MS/MS triagem.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: TSH é método específico para tireoide.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: janela de coleta mantém-se relevante."
+  },
+  {
+    "id": 909,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Crises metabólicas agudas em muitos EIM são frequentemente precipitadas por:",
+    "opcoes": [
+      "A) Hidratação venosa isolada em ambiente estável.",
+      "B) Catabolismo (jejum prolongado, infecção, trauma) aumentando degradação proteica.",
+      "C) Uso regular de vacinas de rotina como única causa.",
+      "D) Aleitamento materno exclusivo sem qualquer contraindicação específica."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Catabolismo — libera aminoácidos; risco de descompensação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta: pode ser fator em doenças específicas, mas não regra geral."
+    },
+    "explicacao": "Resumo: Crise metabólica.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: pode ser fator em doenças específicas, mas não regra geral."
+  },
+  {
+    "id": 910,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "Galactosemia clássica por deficiência de GALT exige manejo com:",
+    "opcoes": [
+      "A) Restrição apenas de frutose na dieta.",
+      "B) Suplementação livre de galactose para estimular a enzima.",
+      "C) Eliminação de lactose e fontes de galactose, com fórmulas adequadas e seguimento.",
+      "D) Observação até os 2 anos sem mudança dietética."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Galactosemia — retirar lactose; catarata, sepse E. coli, hepatopatia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: contraindicado.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Galactosemia — tratamento.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: contraindicado.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 911,
+    "materia": "bcm1",
+    "tema": "bcm1_a19",
+    "enunciado": "A inclusão de aminoacidopatias, acidúrias orgânicas e defeitos de β-oxidação ampliados por tecnologia (ex.: MS/MS) no PNTN corresponde à:",
+    "opcoes": [
+      "A) Fase I apenas com PKU e TSH.",
+      "B) Fase II com hemoglobinopatias.",
+      "C) Fase III com fibrose cística e biotinidase.",
+      "D) Fase IV em expansão com painel metabólico ampliado."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Fase IV — expansão por MS/MS e critérios regionais.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: PNTN fases.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

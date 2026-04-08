@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Beta-oxidação** mitocondrial (e peroxissomal para cadeias muito longas) **degrada** ácidos graxos a **acetil-CoA**, gerando **NADH** e **FADH₂** para **ATP**. A **lipogênese** sintetiza **palmitato** a partir de **acetil-CoA** em **fígado** e **adiposo**. Defeitos de **carnitina**, **transporte** ou **enzimas** de beta-oxidação causam **hipocetonemia**, **hipoglicemia** e **miopatia** — conteúdo típico de prova clínica e bioquímica.
+A **Beta-Oxidação** (quebra) e a **Lipogênese** (síntese) são as vias que gerenciam a nossa maior reserva de energia: a gordura. Enquanto a oxidação mitocondrial fornece **ATP** massivo durante o jejum, a síntese citoplasmática armazena o excesso de energia como **Triglicerídeos**. Para a prova, domine o sistema da **L-Carnitina**, o bloqueio pelo **Malonil-CoA** e a formação de **Corpos Cetônicos** no fígado.
 
 
 ### Figura sugerida
@@ -60,11 +60,13 @@ Sequência: **oxidação** → **hidratação** → **oxidação** → **tiólis
 
 ## Comparativo: oxidação vs síntese
 
-| | Beta-oxidação | Lipogênese |
-|---|---------------|------------|
-| Local principal | mitocôndria | citoplasma |
-| Hormônio | glucagon favorece oxidação | insulina favorece síntese |
-| Sinal CPT I | ativo em jejum | inibido por malonil-CoA |
+| Característica | Beta-Oxidação | Lipogênese |
+|-----------------|----------------|-------------|
+| **Localização** | **Mitocôndria** | **Citoplasma** |
+| **Transportador**| **L-Carnitina** (Shuttle)| **Citrato** (Sai da mito) |
+| **Inibidor Chave**| **Malonil-CoA** (Bloqueia CPT1)| **Jejum** (Glucagon) |
+| **Cofator Redox**| **NAD+** e **FAD** (Oxidação) | **NADPH** (Síntese) |
+| **Hormônio** | **Glucagon** e Adrenalina | **Insulina** |
 
 ---
 
@@ -76,10 +78,11 @@ Sequência: **oxidação** → **hidratação** → **oxidação** → **tiólis
 
 ## Pontos-Chave para Prova
 
-- **CPT I/carnitina** = transporte; **malonil-CoA** inibe.
-- Cada volta de beta-oxidação gera **acetil-CoA** + **NADH/FADH₂**.
-- **Lipogênese** usa **NADPH** e **malonil-CoA**.
-- **Cetonas** = combustível alternativo; **CAD** = excesso patológico.
+- **CPT1:** A "porteira" da mitocôndria. Se o **Malonil-CoA** estiver alto, a gordura não entra para quebrar.
+- **Cetogênese:** O plano de emergência do fígado. Transforma **Acetil-CoA** em combustível para o **Cérebro**.
+- **NADPH:** O co-fator obrigatório para a **Ácido Graxo Sintase** elongar a cadeia.
+- **Carnitina:** Sua deficiência causa **fraqueza muscular** e **hipoglicemia hipocetótica** (não gera cetonas).
+- **Ácidos Graxos Ímpares:** Únicos que podem gerar glicose (via **Succinil-CoA**).
 
 ---
 
@@ -89,24 +92,17 @@ Sequência: **oxidação** → **hidratação** → **oxidação** → **tiólis
 
 ### Síntese para a prova
 
+- **Porta Carnitina:** Só ácidos graxos de **cadeia longa** precisam dela para entrar na mitocôndria.
+- **Malonil-CoA:** O grande regulador. Se você está fabricando gordura, não pode queimá-la (**Inibição da CPT1**).
+- **Acetil-CoA Carboxilase (ACC):** Enzima marcapasso da síntese de gordura; ativada por **Insulina**.
+- **Corpos Cetônicos:** **Acetacetato** e **Beta-hidroxibutirato**. O fígado produz, mas **não os consome**.
 
-Ativação citoplasmática + carnitina para cadeias longas. Regulação recíproca oxidação/síntese via malonil-CoA.
-
-Propionil-CoA em cadeias ímpares. Insulina favorece armazenar; jejum favorece queimar.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Cetose nutricional | CAD | Ausência de hiperglicemia grave e desequilíbrio ácido-base. |
-| Beta-oxidação peroxissomal | Mitocondrial | Cadeias **muito longas** e alguns ácidos — papéis distintos. |
-| Palmitato | Elongases/desaturases | Palmitato é **primeira síntese completa**; depois há remodelagem. |
-
----
-
-## Ácidos graxos essenciais (menção)
-
-**ω-3** e **ω-6** não são sintetizados em quantidade adequada — devem vir da **dieta**; derivam **eicosanoides** com **efeitos** inflamatórios distintos (visão geral de prova).
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Gordura Pár** | **Gordura Ímpar** | Gera só **Acetil-CoA** vs Gera **Propionil-CoA** (glicogênico) |
+| **CAD** | **Jejum Fisiológico** | **Hiperglicemia** + Acidez vs Glicemia Normal |
+| **Lipoproteína** | **Ácido Graxo Livre** | Transporte em **Vesícula** vs Ligado à **Albumina** |
+| **L-Carnitina** | **Citrato** | Transporta **para dentro** da mito vs **para fora** |
 
 ### Frase-âncora para não esquecer
 

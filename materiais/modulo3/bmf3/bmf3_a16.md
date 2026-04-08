@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Os hormônios suprarrenais são essenciais para a sobrevivência: o cortisol é crítico na resposta ao estresse agudo e crônico, a aldosterona controla a pressão arterial e as catecolaminas são a resposta imediata a situações de perigo. A **Uninove** cobra mecanismos de ação, regulação (eixo HPA, RAAS) e disfunções (Addison, Cushing, hiperaldosteronismo, feocromocitoma).
+Os hormônios suprarrenais são essenciais para a sobrevivência: o cortisol é crítico na resposta ao estresse agudo e crônico, a aldosterona controla a pressão arterial e as catecolaminas são a resposta imediata a situações de perigo. A Uninove cobra mecanismos de ação, regulação (eixo HPA, RAAS) e disfunções (Addison, Cushing, hiperaldosteronismo, feocromocitoma).
 
 ### Figura sugerida
 
@@ -152,22 +152,20 @@ Tirosina → DOPA → Dopamina → Noradrenalina → Adrenalina (PNMT, induzida 
 
 ## Ponte com a Clínica
 
-Na crise addisoniana, o estresse crônico ou agudo (cirurgia, infecção) em paciente com insuficiência suprarrenal não tratada leva a colapso: cortisol insuficiente não consegue manter a resposta vascular às catecolaminas → hipotensão refratária → **choque** distributivo. O tratamento é hidrocortisona endovenosa de urgência. Na síndrome de Cushing exógena (uso crônico de corticoides), o feedback negativo prolongado atrofia o eixo HPA — a retirada abrupta causa insuficiência suprarrenal iatrogênica. Por isso, corticoides são sempre desmamados progressivamente.
+Na crise addisoniana, o estresse crônico ou agudo (cirurgia, infecção) em paciente com insuficiência suprarrenal não tratada leva a colapso: cortisol insuficiente não consegue manter a resposta vascular às catecolaminas → hipotensão refratária → choque distributivo. O tratamento é hidrocortisona endovenosa de urgência. Na síndrome de Cushing exógena (uso crônico de corticoides), o feedback negativo prolongado atrofia o eixo HPA — a retirada abrupta causa insuficiência suprarrenal iatrogênica. Por isso, corticoides são sempre desmamados progressivamente.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Eixo HPA: CRH (hipotálamo) → ACTH (hipófise) → cortisol (fasciculada); ritmo circadiano, pico matinal. Cortisol: gliconeogênese + catabolismo proteico + anti-inflamatório + osteoporose.
-
-Aldosterona: RAAS/K⁺ → ENaC → ↑Na⁺, ↑H₂O, ↓K⁺ → alcalose. Conn: aldosterona alta + renina BAIXA + hipocalemia + HAS.
-
-Adrenalina: PNMT induzida por cortisol (90% da medula é adrenalina). Addison: ↓cortisol + ↓aldosterona → hipotensão + hiperpigmentação + hipercalemia.
+- **Eixo HPA:** CRH (hipotálamo) → ACTH (hipófise) → cortisol (fasciculada); ritmo circadiano, pico matinal
+- **Cortisol:** gliconeogênese + catabolismo proteico + anti-inflamatório + osteoporose
+- **Aldosterona:** RAAS/K⁺ → ENaC → ↑Na⁺, ↑H₂O, ↓K⁺ → alcalose
+- **Conn:** aldosterona alta + renina BAIXA + hipocalemia + HAS
+- **Adrenalina:** PNMT induzida por cortisol (90% da medula é adrenalina)
+- **Addison:** ↓cortisol + ↓aldosterona → hipotensão + hiperpigmentação + hipercalemia
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -179,5 +177,4 @@ Adrenalina: PNMT induzida por cortisol (90% da medula é adrenalina). Addison: �
 | HAC (def. 21-OH) | Feocromocitoma | HAC: excesso andrógenos (virilização), cortisol baixo; Feocromocitoma: excesso catecolaminas (HAS paroxística) |
 
 ### Frase-âncora para não esquecer
-
 > "Na Addison falta tudo no córtex — sem cortisol e sem aldosterona, o paciente fica hipotônico, escuro e hipercalêmico; o cortisol baixo deixa o ACTH gritando, e o ACTH excessivo escurece a pele."

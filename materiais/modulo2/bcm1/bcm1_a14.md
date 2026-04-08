@@ -4,7 +4,7 @@
 
 As alterações numéricas dos cromossomos — as aneuploidias — são a causa mais comum de abortos espontâneos no primeiro trimestre (50–60%) e a principal causa genética de deficiência intelectual reconhecida ao nascimento. A trissomia do 21 (síndrome de Down) afeta 1 em cada 600 a 800 nascidos vivos e é o diagnóstico genético mais frequente na medicina. Compreender os mecanismos que geram aneuploidia e as características clínicas de cada síndrome é obrigatório para o médico generalista.
 
-Do ponto de vista acadêmico, a **Uninove** frequentemente apresenta fotografias de cariótipos e descrições clínicas para que o aluno identifique a síndrome correta. Além disso, o rastreamento pré-natal de aneuploidias com marcadores bioquímicos (β-hCG, AFP, PAPP-A), ultrassonografia e **DNA** fetal livre (cfDNA/NIPT) exige que o estudante entenda a base cromossômica das doenças.
+Do ponto de vista acadêmico, a Uninove frequentemente apresenta fotografias de cariótipos e descrições clínicas para que o aluno identifique a síndrome correta. Além disso, o rastreamento pré-natal de aneuploidias com marcadores bioquímicos (β-hCG, AFP, PAPP-A), ultrassonografia e DNA fetal livre (cfDNA/NIPT) exige que o estudante entenda a base cromossômica das doenças.
 
 ### Figura sugerida
 
@@ -181,19 +181,19 @@ As aneuploidias de cromossomos sexuais são geralmente mais compatíveis com a v
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Trissomia 21 (Down): 1:700, DSAV, hipotonia, mongoloide, Alzheimer precoce; 95% não disjunção. Trissomia 18 (Edwards): mãos fechadas sobrepostas, pé cadeira balanço, gravíssimo. Trissomia 13 (Patau): holoproencefalia, polidactilia, ciclopia; gravíssimo.
-
-Turner 45,X: fenótipo feminino, pescoço alado, coarctação aorta, amenorreia primária. Klinefelter 47,XXY: macho infértil, ginecomastia, testículo pequeno, azoospermia. Corpúsculo de Barr = X − 1: 46,XX → 1; 47,XXX → 2; 47,XXY → 1; 45,X → 0.
-
-Não-disjunção meiose I materna: mais comum; risco cresce com idade materna. Mosaicismo: não-disjunção mitótica → fenótipo mais leve. NIPT: rastreamento (cfDNA), não diagnóstico; confirmar com amniocentese.
-
-Down por translocação: 46 cromossomos, mas material 21 fundido; recorrência maior.
+- **Trissomia 21 (Down):** 1:700, DSAV, hipotonia, mongoloide, Alzheimer precoce; 95% não disjunção
+- **Trissomia 18 (Edwards):** mãos fechadas sobrepostas, pé cadeira balanço, gravíssimo
+- **Trissomia 13 (Patau):** holoproencefalia, polidactilia, ciclopia; gravíssimo
+- **Turner 45,X:** fenótipo feminino, pescoço alado, coarctação aorta, amenorreia primária
+- **Klinefelter 47,XXY:** macho infértil, ginecomastia, testículo pequeno, azoospermia
+- **Corpúsculo de Barr = X − 1:** 46,XX → 1; 47,XXX → 2; 47,XXY → 1; 45,X → 0
+- **Não-disjunção meiose I materna:** mais comum; risco cresce com idade materna
+- **Mosaicismo:** não-disjunção mitótica → fenótipo mais leve
+- **NIPT:** rastreamento (cfDNA), não diagnóstico; confirmar com amniocentese
+- **Down por translocação:** 46 cromossomos, mas material 21 fundido; recorrência maior
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -206,13 +206,4 @@ Down por translocação: 46 cromossomos, mas material 21 fundido; recorrência m
 | Mosaicismo | Trissomia pura | Mosaicismo = fenótipo mais leve (alguns 46, outros 47); Trissomia pura = todos os 47 |
 
 ### Frase-âncora para não esquecer
-
 > "Down = 21 (3 vias: não-disjunção, translocação, mosaico); Edwards = 18 dedos se fecham; Patau = 13 é caos (holoproencefalia, polidactilia). Turner perde um X e fica com pescoço alado; Klinefelter ganha um X e perde a fertilidade."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

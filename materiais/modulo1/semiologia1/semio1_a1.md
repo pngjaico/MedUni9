@@ -1,4 +1,4 @@
-# Semiologia 1 — Aula 1: Fundamentos da Semiologia Musculoesquelética
+# Semiologia 1 — Aula 1: Fundamentos da semiologia do aparelho locomotor
 
 **Disciplina:** Semiologia do Aparelho Locomotor  
 **Módulo:** 1
@@ -7,116 +7,117 @@
 
 ## Relevância Clínica e Acadêmica
 
-A semiologia do aparelho locomotor organiza queixa, exame físico e hipóteses antes de exames complementares. Dor articular, limitação de movimento e fraqueza são queixas frequentes em ambulatório e emergência; inspecionar, palpar, medir amplitude e força reduz pedidos desnecessários de imagem e acelera o raciocínio sobre artrite, entorse, tendinopatias e dor vertebral. Em prova, a banca cobra termos corretos (por exemplo contratura versus bloqueio mecânico) e sequência lógica do exame — não apenas “achado isolado”.
-
+A **Semiologia do Aparelho Locomotor** é a arte de distinguir a dor articular da dor miofascial ou neurológica. Para a prova, domine a diferenciação entre **Dor Mecânica** e **Dor Inflamatória**, além da sequência obrigatória do exame físico: **Inspeção**, **Palpação**, **Movimentação** e **Testes Específicos**. Na clínica, o seu objetivo principal é identificar as **Red Flags** que sugerem patologias graves como fraturas ou infecções.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO1-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a explicação da sequência do exame físico.
+- **O que mostrar:** fluxograma visual simples com as quatro etapas do exame locomotor: inspeção, palpação, amplitude de movimento e testes especiais.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Sequência prática do exame locomotor do geral para o específico."
+- **Notas (opcional):** manter layout vertical para leitura em mobile.
 
 ---
 
-## Padrão temporal da dor: mecânica versus inflamatória
+## Dor musculoesquelética: primeiro filtro clínico
 
-| Padrão | História típica | Pista de prova |
-|--------|-------------------|----------------|
-| Mecânica / degenerativa | Piora com uso ao longo do dia; melhora com repouso | Osteoartrite, sobrecarga |
-| Inflamatória | Rigidez matinal prolongada (>30–60 min), melhora com movimento | Espondiloartrite, artrite reumatoide (contexto) |
-| Neuropática | Queimação, piora noturna, alodinia | Radiculopatia, síndrome do túnel |
+O primeiro filtro é temporal e funcional: quando a dor aparece, o que piora, o que alivia e como ela interfere na função. Esse filtro define se o exame vai priorizar articulação, partes moles ou avaliação neurológica.
 
-> **Dica de Prova:** Rigidez matinal longa pesa mais que “dor ao acordar” vago — peça tempo em minutos.
+| Padrão de Dor | História Típica | Sugestão Diagnóstica |
+|----------------|-----------------|----------------------|
+| **Mecânica** | Piora com o **uso/carga**; melhora no repouso | Osteoartrite, sobrecarga |
+| **Inflamatória**| **Rigidez matinal > 30 min**; melhora com movimento | Artrite Reumatoide, Espondilite |
+| **Neuropática** | Choque, queimação e **parestesia** | Radiculopatia, compressão |
 
----
-
-## Origem aparente da dor: articular, periarticular ou referida
-
-| Origem | Onde dói “de verdade” | Observação |
-|--------|------------------------|------------|
-| Articular (sinovial) | Linha articular; sinovite com derrame | Punção pode esclarecer |
-| Periarticular | Tendão, bolsa, ponto máximo fora da rótula | Testes isométricos úteis |
-| Referida | Dor profunda mal localizada; pode irradiar | Correlacionar com visceral ou radicular |
+> **Dica de Prova:** perguntar o tempo da rigidez matinal em minutos tem mais valor que registrar apenas "acorda travado".
 
 ---
 
-## Sequência racional do exame (visão geral)
+## Topografia da dor: articular, periarticular e referida
 
-Ordem clássica que evita “teste doloroso antes da inspeção”:
+Localizar o ponto de máxima dor e compará-lo com a linha articular muda o diagnóstico diferencial. Dor exatamente na interlinha articular favorece acometimento articular; dor em tendão ou bursa aponta para processo periarticular.
 
-1. Inspeção (postura, simetria, marcha quando possível).  
-2. Palpação (temperatura, edema, pontos dolorosos).  
-3. Amplitude de movimento ativa e depois passiva.  
-4. Testes especiais e força quando já houver contexto.
-
-> **Pegadinha:** Amplitude passiva normal com ativa limitada sugere dor, fraqueza ou inibição — não sempre lesão estrutural intra-articular “grande”.
-
----
-
-## Amplitude de movimento (ADM): ativa versus passiva
-
-| Situação | Leitura típica |
-|----------|----------------|
-| Limitação ativa e passiva | Processo articular, capsulite, anquilose |
-| Limitação só ativa | Dor, fraqueza, lesão de partes moles sem bloqueio |
-| Passiva maior que ativa | Dor ou falta de cooperação; avaliar esforço |
+| Origem provável | Achado predominante | Exemplo clínico frequente |
+|-----------------|---------------------|---------------------------|
+| Articular | Dor na interlinha, edema articular, limitação passiva | Artrite, artrose em atividade |
+| Periarticular | Dor focal em tendão/bursa, dor à contração resistida | Tendinopatia, bursite |
+| Referida | Dor mal delimitada, exame local pobre | Dor de quadril referida no joelho |
 
 ---
 
-## Força muscular: escala MRC (resumo)
+## Sequência canônica do exame físico locomotor
 
-| Grau | Significado clínico breve |
-|------|---------------------------|
-| 5 | Normal contra resistência |
-| 4 | Vence gravidade; resistência parcial |
-| 3 | Apenas contra gravidade |
-| 2 | Movimento sem vencer gravidade |
-| 1 | Contração palpável |
-| 0 | Ausência de contração |
+A sequência recomendada é simples e reproduzível. Ela protege contra erro comum de "caçar teste especial" antes de construir hipótese.
 
-Documentar lado e movimento testado (ex.: flexão de joelho direito).
+1. **Inspeção:** postura, simetria, deformidades, marcha e atitude antálgica.  
+2. **Palpação:** temperatura, dor à palpação, derrame, crepitação e pontos gatilho.  
+3. **Amplitude de movimento:** ativa primeiro e passiva depois, sempre comparando lados.  
+4. **Testes especiais e força:** apenas após hipótese inicial definida.
+
+> **Pegadinha:** limitação ativa com passiva preservada não significa, por si só, lesão estrutural grave; pode representar dor, inibição muscular ou receio de movimento.
 
 ---
 
-## Sinais inflamatórios locais (mnemônico vulgar)
+## Amplitude de movimento e significado semiológico
 
-Calor, rubor, **edema**, dor à função e dor à palpação sugerem processo inflamatório local; no joelho, derrame pode ser evidente (saco suprapatelar, manobras de líquido).
+| Padrão na avaliação | O que sugere |
+|---------------------|--------------|
+| Ativa e passiva reduzidas | Comprometimento articular/capsular |
+| Apenas ativa reduzida | Dor, fraqueza, ruptura parcial de partes moles |
+| Passiva maior que ativa com dor | Inibição por dor ou déficit de força |
 
----
-
-## Terminologia que confunde em prova
-
-| Termo | Uso correto em uma linha |
-|-------|---------------------------|
-| Artralgia | Dor em articulação sem critérios completos de artrite inflamatória |
-| Sinovite | Inflamação da membrana sinovial (clínica ou líquido) |
-| Tendinite / tendinopatia | Dor e irritação na inserção ou corpo tendíneo (termo clínico comum) |
-| Contratura | Perda estrutural de amplitude (fibrose, adaptação) |
+A descrição deve incluir lado, plano de movimento e grau de limitação. Termos vagos como "movimenta pouco" diminuem a qualidade da evolução clínica.
 
 ---
 
-## Red flags em dor articular e vertebral (lista mínima)
+## Força muscular: escala MRC aplicada ao exame
 
-Inclua na anamnese quando houver dor persistente ou padrão atípico: febre, perda ponderal inexplicada, déficit neurológico progressivo, trauma de alta energia, história de neoplasia, uso de drogas IV, imunossupressão grave. O objetivo é não rotular todo paciente como “postura” ou “desgaste” sem triagem.
+| Grau MRC | Tradução Clínica |
+|-----------|------------------|
+| **Grau 5**| Força **Normal** contra resistência máxima |
+| **Grau 4**| Vence a gravidade e **resistência parcial** |
+| **Grau 3**| Vence a gravidade, mas **não a resistência** |
+| **Grau 2**| Movimenta apenas se **eliminar a gravidade** |
+| **Grau 1**| Apenas **esboço** de contração (sem movimento) |
+| **Grau 0**| **Paralisia** total |
+
+Registrar apenas o número não basta; é essencial anotar qual movimento foi testado e em qual membro.
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO1-A1-F02`
+
+- **Momento:** após a tabela da escala MRC.
+- **O que mostrar:** quadro visual da escala de força muscular com exemplos rápidos de aplicação em ombro, joelho e tornozelo.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Escala MRC e leitura clínica durante o exame físico."
+- **Notas (opcional):** evitar excesso de texto na arte.
+
+---
+
+## Red flags que não podem ser ignoradas
+
+Antes de concluir que a dor é benigna, é obrigatório rastrear sinais de alarme: febre, perda ponderal inexplicada, trauma relevante, imunossupressão, antecedente oncológico, dor noturna progressiva e déficit neurológico.
+
+Esses dados não fecham diagnóstico sozinhos, mas mudam prioridade de investigação e nível de urgência.
 
 ---
 
 ## Ponte com a Clínica
 
-Monoartrite aguda com febre exige exclusão de causa séptica e indicação de punção quando o quadro e o protocolo local assim o exigirem. Lombalgia sem sinais de alarme raramente precisa de ressonância na primeira consulta: anamnese e exame bem conduzidos orientam conduta e reduzem exposição desnecessária a exames.
+Paciente de 62 anos, dor lombar há seis semanas e perda de peso não intencional: mesmo com radiografia inicial pouco expressiva, a presença de red flag impede conduta simplista de "analgésico e retorno em três meses". Em contraste, lombalgia mecânica típica, sem red flags e com exame neurológico normal, geralmente permite manejo conservador inicial com reavaliação programada.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Diferenciar padrão mecânico e inflamatório pela história.  
-- ADM ativa versus passiva e o que cada padrão sugere.  
-- Escala MRC para documentar força.  
-- Red flags em dor vertebral e articular.
+- **Sequência do Exame:** Respeite a ordem **Inspeção → Palpação → Movimentação (Ativa/Passiva) → Testes**.
+- **Rigidez Matinal:** Se for prolongada (**> 30-60 min**), o diagnóstico é **Inflamatório**.
+- **Red Flags:** Febre, **Perda de Peso**, trauma recente ou déficit neurológico exigem imagem imediata.
+- **Escala MRC:** O **Grau 3** é o divisor de águas (vence a gravidade, mas falha contra o médico).
+- **Interlinha Articular:** A dor exatamente no "vão" articular sugere lesão de **Cartilagem** ou **Menisco**.
 
 ---
 
@@ -126,19 +127,18 @@ Monoartrite aguda com febre exige exclusão de causa séptica e indicação de p
 
 ### Síntese para a prova
 
+- **Dor Mecânica:** O paciente acorda bem e piora ao longo do dia (**Uso**).
+- **Dor Inflamatória:** O paciente acorda mal (rigidez) e melhora ao se exercitar (**Inactivity stiffness**).
+- **Limitação de Movimento:** Se a mobilidade **Passiva** for normal, mas a **Ativa** for reduzida, o problema é **Dor ou Tendão/Músculo**, não a articulação em si.
+- **Derrame Articular:** Sinais de **Flutuação** ou choque de patela indicam líquido dentro da cápsula.
 
-Sequência: inspeção → palpação → ADM → testes específicos conforme hipótese. Monoartrite aguda: infecção versus cristal versus inflamatório — papel do líquido sinovial.
-
-Rigidez matinal longa: bandeira inflamatória. Red flags lombares: déficit motor, febre, suspeita de malignidade, trauma grave.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| ADM ativa | ADM passiva | Quem produz o movimento |
-| Tendinopatia | Sinovite | Topo da dor e achados de derrame |
-| Fraqueza real | Limitação por dor | Isometria e observação da marcha |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Dor Mecânica** | **Dor Inflamatória** | Melhora com Repouso vs Melhora com Movimento |
+| **Grau 3 MRC** | **Grau 4 MRC** | Não vence resistência vs Vence resistência parcial |
+| **Ativo < Passivo**| **Ativo = Passivo** | Problema **Extra-articular** vs **Intra-articular** |
+| **Monoartrite** | **Poliartrite** | Urgência (Infecção?) vs Doença Sistêmica |
 
 ### Frase-âncora para não esquecer
 
-> “Semiologia MSK é mapa antes do raio-X — não atalho para o raio-X.”
+> "Antes de pedir imagem, organize o mapa clínico: padrão da dor, exame em sequência e red flags."

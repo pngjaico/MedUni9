@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O organismo alterna **catabolismo** e **anabolismo** conforme **disponibilidade de substrato**, **hormônios** e **demanda energética**. Entender **insulina**, **glucagon**, **cortisol**, **catecolaminas** e sensores intracelulares (**AMPK**, **mTOR**) explica por que o mesmo tecido **oxida gordura** em jejum e **armazena glicogênio** após refeição — e por que **diabetes**, **estresse** e **exercício** mudam o quadro metabólico inteiro.
+A **Regulação Metabólica** é o que mantém a **homeostase** entre o comer e o jejuar. O organismo alterna entre **Catabolismo** (quebra) e **Anabolismo** (construção) guiado por um "maestro" hormonal (**Insulina vs Glucagon**) e sensores de energia celular (**AMPK e mTOR**). Para a prova, entenda como a **relação Insulina/Glucagon** dita se você vai **oxidar gordura** ou **sintetizar glicogênio**, e como o **estresse (Cortisol)** sabota esse equilíbrio no paciente crítico.
 
 
 ### Figura sugerida
@@ -58,17 +58,18 @@ O organismo alterna **catabolismo** e **anabolismo** conforme **disponibilidade 
 
 ## Regulação alostérica e fosforilação
 
-Enzimas como **fosfofrutoquinase-1** (glicólise) e **piruvato desidrogenase** respondem a **substratos**, **ATP/ADP** e **fosforilação** hormona. **Isoformas teciduais** explicam por que o **fígado** e o **músculo** não se comportam igual.
+Enzimas marcapasso, como a **Fosfofrutoquinase-1 (PFK-1)**, respondem a reguladores **alostéricos** (ATP/AMP) e ao sinal hormonal via **fosforilação**. No fígado, a **Insulina** desfosforila para ativar a síntese; o **Glucagon** fosforila para ativar a quebra.
 
 ---
 
 ## Comparativo: hormônio → efeito hepático típico
 
-| Sinal | Tendência no fígado (visão geral) |
-|-------|-----------------------------------|
-| Insulina alta | síntese de glicogênio; inibe gliconeogênese |
-| Glucagon | glicogenólise/gliconeogênese |
-| Cortisol (sustentado) | substrato para gliconeogênese |
+| Sinal Hormonal | Principal Efeito Hepático | Tendência Metabólica |
+|-----------------|---------------------------|----------------------|
+| **Insulina Alta** | **Glicogênese** e Lipogênese | **Anabolismo** (Estoque) |
+| **Glucagon Alto** | **Glicogenólise** e Gliconeogênese | **Catabolismo** (Mobilização) |
+| **Cortisol** | **Gliconeogênese** sustentada | Resposta ao **Estresse Crônico** |
+| **Adrenalina** | **Glicogenólise** rápida | Resposta de **Luta ou Fuga** |
 
 ---
 
@@ -86,10 +87,11 @@ No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **g
 
 ## Pontos-Chave para Prova
 
-- **Insulina** = armazenamento; **glucagon** = mobilização (fígado em destaque).
-- **AMPK** = baixa energia intracelular; **mTOR** = nutrientes/crescimento.
-- **Cortisol/catecolaminas** = estresse agudo/crônico e hiperglicemia.
-- **Estado prandial** define predominância de vias anabólicas vs catabólicas.
+- **Insulina vs Glucagon:** A **razão entre eles** define o estado metabólico, não apenas o valor isolado.
+- **AMPK:** O sensor de **crise energética** (AMP alto). Desliga o **anabolismo** e liga a **oxidação**.
+- **mTOR:** O sensor de **abundância**. Ativado por **aminoácidos** e **insulina** para síntese proteica.
+- **Diabetes:** No **DM1**, a falta de **Insulina** deixa o **Glucagon** agir livremente, causando **Cetoacidose**.
+- **Regulação:** Mistura de **curto prazo** (alosterismo) e **médio prazo** (hormonal/fosforilação).
 
 ---
 
@@ -99,18 +101,17 @@ No **aeróbio prolongado**, **AMPK** favorece **oxidação**; em **sprint**, **g
 
 ### Síntese para a prova
 
+- **Insulina:** Hormônio do **anabolismo**; ativa **armazenamento** e **síntese de proteínas**.
+- **Glucagon:** Hormônio do **jejum**; foco absoluto em manter a **glicemia** via fígado.
+- **AMPK:** Ativado pelo **exercício** e **jejum**; "queima" gordura e glicose para repor **ATP**.
+- **Cortisol:** Aumenta a **Gliconeogênese** fornecendo **aminoácidos** a partir do músculo.
 
-Insulina ativa armazenamento; glucagon mobiliza substratos hepáticos. AMPK responde a AMP/ATP; mTOR a nutrientes e insulina.
-
-Cortisol prolonga gliconeogênese; adrenalina acelera glicogenólise muscular/hepática. Regulação mistura alosterismo e fosforilação por cascatas hormonais.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Insulina | Glucagon | Insulina = pós-prandial; glucagon = jejum (fígado). |
-| AMPK | mTOR | AMPK = “falta energia”; mTOR = “crescimento com nutrientes”. |
-| Resistência insulínica | Deficiência absoluta de insulina | DM2 vs DM1 — mecanismo e cetose diferem. |
+| Ferramenta A | Ferramenta B | Diferencial para Prova |
+|--------------|--------------|-------------------------|
+| **Insulina** | **Glucagon** | **Hipoglicemiante** (estoque) vs **Hiperglicemiante** (quebra) |
+| **AMPK** | **mTOR** | **Gasto** de energia vs **Construção** tecidual |
+| **Jejum Curto** | **Jejum Longo** | **Glicogenólise** (24h) vs **Gliconeogênese** (>24h) |
+| **Adrenalina** | **Cortisol** | Resposta **Aguda** (segundos) vs **Crônica** (horas) |
 
 ### Frase-âncora para não esquecer
 

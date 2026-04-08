@@ -147,6 +147,9 @@ Documento oficial de cada disciplina que contém:
 | `scripts/build_materias.py` | `/scripts/` | Script Python que gera `materias.json` |
 | `data/questoes.json` | `/data/` | Banco de questões de estudo |
 | `data/flashcards.json` | `/data/` | Flashcards por disciplina |
+| `data/histologia_atlas.json` | `/data/` | Atlas de histologia usado na aba Anatomia/Histologia |
+| `data/histologia/atlas/` | `/data/histologia/` | Imagens canônicas do atlas de histologia (nome híbrido com alias legado) |
+| `scripts/migrate_histologia_atlas_from_legacy.py` | `/scripts/` | Migra e organiza acervo legado de histologia para o formato canônico do app |
 
 ### Fluxo de Atualização
 

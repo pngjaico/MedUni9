@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **acetil-CoA** entra no **ciclo de Krebs** (tricarboxílico) para **oxidar** carbonos a **CO₂**, gerar **NADH**, **FADH₂** e **GTP** (equivalente a ATP), e fornecer **precursores biosintéticos**. A **fosforilação oxidativa** transfere energia redox da **cadeia respiratória** para **ATP sintase** via **gradiente de prótons**. Tudo isso explica **hipóxia**, **intoxicações** (ex.: **inibidores da cadeia**), **defeitos mitocondriais** e **acidose láctica** em contexto de **falência de oxidação**.
+O **Ciclo de Krebs** e a **Fosforilação Oxidativa** são o coração da usina energética celular. Carbonos vindos da glicose, gordura ou proteínas convergem para o **Acetil-CoA**, que é oxidado a **CO₂** para produzir **NADH** e **FADH₂**. Esses "transportadores" entregam elétrons para a **Cadeia Respiratória**, criando um **Gradiente de Prótons** que a **ATP Sintase** usa para fabricar a moeda da vida. Para a prova, domine a **Regulação da PDH** e os efeitos letais de inibidores como o **Cianeto**.
 
 
 ### Figura sugerida
@@ -60,10 +60,11 @@ O **acetil-CoA** entra no **ciclo de Krebs** (tricarboxílico) para **oxidar** c
 
 ## Comparativo: NADH vs FADH₂ na cadeia
 
-| Entrada | Entra em | ATP aproximado |
-|---------|----------|----------------|
-| NADH (mito) | Complexo I | maior |
-| FADH₂ | Complexo II | menor |
+| Molécula | Ponto de Entrada (Cadeia) | Produção de ATP (Aprox.) |
+|-----------|---------------------------|--------------------------|
+| **NADH** | **Complexo I** (NADH Deidrog.) | **2,5 ATP** |
+| **FADH₂** | **Complexo II** (Succinato Deidrog.)| **1,5 ATP** |
+| **GTP** | Produzido no **Krebs** | **1,0 ATP** (Direto) |
 
 ---
 
@@ -81,10 +82,11 @@ O **NADH** da **glicólise** não atravessa a membrana mitocondrial livremente. 
 
 ## Pontos-Chave para Prova
 
-- **PDH** liga glicólise ao **ciclo de Krebs**.
-- Krebs: **NADH/FADH₂/GTP** + **precursores biosintéticos**.
-- **Cadeia respiratória** + **ATP sintase** = **fosforilação oxidativa**.
-- **Inibidores** e **hipóxia** convergem em **falência energética**.
+- **Complexo PDH:** O elo entre o citoplasma (Glicólise) e a mitocôndria (Krebs). Exige **Tiamina (B1)**.
+- **Ciclo de Krebs:** Gera **3 NADH**, **1 FADH₂** e **1 GTP** por cada Acetil-CoA.
+- **Cadeia Respiratória:** Transforma energia de elétrons em um **Gradiente Eletroquímico de Prótons**.
+- **Incritores do C. IV:** **Cianeto (CN-)** e **Monóxido de Carbono (CO)** matam por asfixia celular.
+- **Desacopladores:** Dissipam o gradiente como **Calor**; usados para termogênese (ex: **Tecido Adiposo Marrom**).
 
 ---
 
@@ -94,18 +96,17 @@ O **NADH** da **glicólise** não atravessa a membrana mitocondrial livremente. 
 
 ### Síntese para a prova
 
+- **Acetil-CoA:** O substrato universal; sua oxidação completa gera **CO2**.
+- **O2:** O **aceptor final** de elétrons; se faltar, a cadeia para e o ATP cai.
+- **ATP Sintase:** Funciona como uma turbina movida pela força **Próton-Motriz**.
+- **Termogenina (UCP-1):** Desacoplador fisiológico que gera calor em **recém-nascidos**.
 
-Acetil-CoA alimenta Krebs; CO₂ sai em dois passos de descarboxilação. NADH/FADH₂ alimentam ETC; O₂ é aceptor final.
-
-ATP sintase depende de gradiente de prótons. PDH e cofatores (B1) ligam clínica a bioquímica.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Ciclo de Krebs | Glicólise | Krebs é **mitocondrial** (matriz); glicólise **citoplasmática**. |
-| Inibir ETC | Inibir ATP sintase | ETC para → sem gradiente; oligomicina → gradiente sem ATP. |
-| NADH citoplasmático | NADH mitocondrial | **Shuttle** define quanto ATP entra na ETC. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Inibidores** | **Desacopladores** | **Bloqueiam** o fluxo vs **Dissipam** o gradiente |
+| **Complexo I** | **Complexo II** | Bombeia Prótons vs **Não bombeia** (gera menos ATP) |
+| **Tiamina (B1)** | **Acidose Lática** | Deficiência de cofator causa bloqueio da **PDH** |
+| **Cianeto** | **Oligomicina** | Inibe o **Complexo IV** vs Inibe a **ATP Sintase** |
 
 ### Frase-âncora para não esquecer
 

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A embriologia do sistema nervoso explica as malformações mais comuns do **SNC**: espinha bífida, anencefalia, hidrocefalia congênita e displasias corticais. Cada fase do desenvolvimento tem seu ponto de vulnerabilidade — e a **Uninove** explora isso em questões que relacionam defeito embriológico ao diagnóstico pré-natal ou neonatal.
+A embriologia do sistema nervoso explica as malformações mais comuns do SNC: espinha bífida, anencefalia, hidrocefalia congênita e displasias corticais. Cada fase do desenvolvimento tem seu ponto de vulnerabilidade — e a Uninove explora isso em questões que relacionam defeito embriológico ao diagnóstico pré-natal ou neonatal.
 
 ### Figura sugerida
 
@@ -96,7 +96,7 @@ Hidrocefalia congênita por estenose do aqueduto de Sylvius é a forma mais comu
 
 ## Mielinização
 
-A mielina no **SNC** é produzida pelos oligodendrócitos; no **SNP**, pelas células de Schwann. A mielinização começa no 3.º trimestre e continua até os 2 anos de vida. Isso explica:
+A mielina no SNC é produzida pelos oligodendrócitos; no SNP, pelas células de Schwann. A mielinização começa no 3.º trimestre e continua até os 2 anos de vida. Isso explica:
 - Recém-nascidos: reflexos primitivos presentes (Moro, preensão) — trato piramidal ainda não mielinizado.
 - Babinski normal até ~18–24 meses.
 - Velocidade de condução nervosa menor em prematuros.
@@ -121,17 +121,15 @@ O diagnóstico pré-natal de defeitos do tubo neural é feito por ultrassonograf
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Neuróporo anterior fecha 25.º dia: falha → anencefalia. Neuróporo posterior fecha 27.º dia: falha → espinha bífida.
-
-Ácido fólico: periconcepcional, reduz defeitos do tubo neural. Cristas neurais: SNP, SNA, medula suprarrenal, melanócitos, Schwann.
-
-5 vesículas secundárias: telencéfalo, diencéfalo, mesencéfalo, metencéfalo, mielencéfalo. Babinski normal: até 18–24 meses (mielinização piramidal incompleta).
+- **Neuróporo anterior fecha 25.º dia:** falha → anencefalia.
+- **Neuróporo posterior fecha 27.º dia:** falha → espinha bífida.
+- **Ácido fólico:** periconcepcional, reduz defeitos do tubo neural.
+- **Cristas neurais:** SNP, SNA, medula suprarrenal, melanócitos, Schwann.
+- **5 vesículas secundárias:** telencéfalo, diencéfalo, mesencéfalo, metencéfalo, mielencéfalo.
+- **Babinski normal:** até 18–24 meses (mielinização piramidal incompleta).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -143,5 +141,4 @@ Neuróporo anterior fecha 25.º dia: falha → anencefalia. Neuróporo posterior
 | Oligodendrócito | Célula de Schwann | Oligo: mielina SNC; Schwann: mielina SNP |
 
 ### Frase-âncora para não esquecer
-
 > "O tubo fecha como um zíper: trava antes (25.º dia) = anencefalia; trava depois (27.º dia) = espinha bífida."

@@ -4,7 +4,7 @@
 
 Os genes localizados no cromossomo X seguem padrões de herança distintos dos genes autossômicos porque homens (XY) possuem apenas um X — são hemizigóticos para qualquer alelo presente nesse cromossomo. Isso cria as assimetrias clássicas da herança ligada ao X: doenças recessivas manifestam-se quase exclusivamente em homens, enquanto as mães portadoras são geralmente sadias. Já em doenças dominantes, as mulheres são afetadas com maior frequência e o pai afetado transmite para TODAS as filhas (mas nenhum filho).
 
-Para o estudante da **Uninove**, esse tema é cobrado tanto pelo reconhecimento de padrões em heredogramas quanto por questões de conteúdo clínico direto: hemofilia A e B, distrofia muscular de Duchenne e síndrome do X-frágil são algumas das condições mais prevalentes entre as doenças genéticas e aparecem com frequência nas provas.
+Para o estudante da Uninove, esse tema é cobrado tanto pelo reconhecimento de padrões em heredogramas quanto por questões de conteúdo clínico direto: hemofilia A e B, distrofia muscular de Duchenne e síndrome do X-frágil são algumas das condições mais prevalentes entre as doenças genéticas e aparecem com frequência nas provas.
 
 ### Figura sugerida
 
@@ -187,19 +187,19 @@ Em células femininas (XX), um dos dois cromossomos X é inativado aleatoriament
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-XLR: pai afetado → NENHUM filho afetado; TODAS as filhas portadoras. XLR: mãe portadora → 50% filhos afetados; 50% filhas portadoras. Hemofilia A: F8, TTPA alonga, FVIII baixo; hemartrose; emicizumabe.
-
-Hemofilia B: F9, idêntica clínica; terapia gênica AAV aprovada. DMD: deleção out-of-frame no DMD, CK altíssima, Gowers, cadeira rodas ~12 anos. Becker: deleção in-frame, distrofina truncada, fenótipo mais leve.
-
-X-frágil: CGG > 200 no FMR1, antecipação materna, macrorquidia pós-puberal, DI. XLD: pai afetado → 100% filhas afetadas, 0% filhos. Rett: MECP2, regressão autística em meninas, letal em homens.
-
-Inativação do X = corpúsculo de Barr = nº X − 1.
+- **XLR: pai afetado → NENHUM filho afetado; TODAS as filhas portadoras**
+- **XLR: mãe portadora → 50% filhos afetados; 50% filhas portadoras**
+- **Hemofilia A:** F8, TTPA alonga, FVIII baixo; hemartrose; emicizumabe
+- **Hemofilia B:** F9, idêntica clínica; terapia gênica AAV aprovada
+- **DMD:** deleção out-of-frame no DMD, CK altíssima, Gowers, cadeira rodas ~12 anos
+- **Becker:** deleção in-frame, distrofina truncada, fenótipo mais leve
+- **X-frágil:** CGG > 200 no FMR1, antecipação materna, macrorquidia pós-puberal, DI
+- **XLD: pai afetado → 100% filhas afetadas, 0% filhos**
+- **Rett:** MECP2, regressão autística em meninas, letal em homens
+- **Inativação do X = corpúsculo de Barr = nº X − 1**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -212,13 +212,4 @@ Inativação do X = corpúsculo de Barr = nº X − 1.
 | X-frágil pré-mutação | Mutação plena | Pré = 55–200 CGG, risco FXTAS/POI; Plena = > 200, DI em meninos |
 
 ### Frase-âncora para não esquecer
-
 > "XLR: o Y do homem denuncia — sem segundo X para esconder a mutação, ele adoece. O pai afetado não passa para o filho (dá o Y), mas toda filha fica portadora (recebe o X mutado). XLD inverte: pai afetado contamina TODAS as filhas, nenhum filho."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

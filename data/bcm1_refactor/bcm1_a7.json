@@ -1,0 +1,232 @@
+[
+  {
+    "id": 982,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "O códon de início na tradução eucariótica é tipicamente:",
+    "opcoes": [
+      "A) AUG (metionina).",
+      "B) UAA.",
+      "C) UAG.",
+      "D) UGA."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AUG inicia tradução; UAA/UAG/UGA são parada.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: parada.",
+      "C": "Incorreta: parada.",
+      "D": "Incorreta: parada."
+    },
+    "explicacao": "Resumo: Start AUG.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: parada.\nC) INCORRETA. Incorreta: parada.\nD) INCORRETA. Incorreta: parada."
+  },
+  {
+    "id": 983,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Ribossomos eucarióticos citoplasmáticos são:",
+    "opcoes": [
+      "A) 70S (50S+30S).",
+      "B) 80S (60S+40S).",
+      "C) 50S isolado.",
+      "D) 100S."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "80S eucariota; 70S proca e mitocôndria.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: procarioto.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 80S.\nA) INCORRETA. Incorreta: procarioto.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 984,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "O ribossomo possui sítios A, P e E para tRNA. O sítio A:",
+    "opcoes": [
+      "A) Contém apenas o tRNA descarregado que sai.",
+      "B) Liga só o fator de liberação.",
+      "C) Recebe o aminoacil-tRNA de entrada.",
+      "D) Catalisa ligação peptídica sem tRNA."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A=aminoacil; P=peptidil; E=exit.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sítio E.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta: peptidiltransferase no rRNA."
+    },
+    "explicacao": "Resumo: Sítio A — entrada aa-tRNA.\nA) INCORRETA. Incorreta: sítio E.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: peptidiltransferase no rRNA."
+  },
+  {
+    "id": 985,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Aminoglicosídeos atuam tipicamente:",
+    "opcoes": [
+      "A) DNA girase.",
+      "B) Subunidade 50S exclusivamente em todos.",
+      "C) RNA polimerase II.",
+      "D) Subunidade 30S bacteriana."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Aminoglicosídeos — 30S; macrolídeos — 50S; etc.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: fluoroquinolonas.",
+      "B": "Incorreta: macrolídeos/cloranfenicol.",
+      "C": "Incorreta: rifampicina bacteriana.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Aminoglicosídeo — 30S.\nA) INCORRETA. Incorreta: fluoroquinolonas.\nB) INCORRETA. Incorreta: macrolídeos/cloranfenicol.\nC) INCORRETA. Incorreta: rifampicina bacteriana.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 986,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Macrolídeos (ex.: eritromicina) ligam-se principalmente:",
+    "opcoes": [
+      "A) Subunidade 30S.",
+      "B) DNA topoisomerase II humana.",
+      "C) Subunidade 50S bacteriana.",
+      "D) Parede celular diretamente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Macrolídeos — túnel 50S; aminoglicosídeo 30S.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta: beta-lactâmicos parede."
+    },
+    "explicacao": "Resumo: Macrolídeo — 50S.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: beta-lactâmicos parede."
+  },
+  {
+    "id": 987,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Mutação nonsense cria:",
+    "opcoes": [
+      "A) Sinônima silenciosa.",
+      "B) Apenas troca de base na posição wobble sem mudar aminoácido.",
+      "C) Nova ligação peptídica.",
+      "D) Códon de parada prematuro e proteína truncada."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Nonsense = códon stop; missense troca aa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: silenciosa.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Nonsense — stop prematuro.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: silenciosa.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 988,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "A atividade peptidiltransferase do ribossomo é catalisada por:",
+    "opcoes": [
+      "A) RNA ribossomal (ribozima), não proteína sozinha.",
+      "B) DNA polimerase III.",
+      "C) Primase.",
+      "D) Proteína EF-G exclusivamente."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Peptidiltransferase — rRNA 23S/28S.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta: EF-G translocação."
+    },
+    "explicacao": "Resumo: Ribozima — rRNA.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: EF-G translocação."
+  },
+  {
+    "id": 989,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Em eucariotos, a iniciação da tradução costuma depender do:",
+    "opcoes": [
+      "A) Shine-Dalgarno no mRNA.",
+      "B) Reconhecimento do cap 5' (m7G) e scanning até o primeiro AUG em contexto favorável.",
+      "C) Absoluta ausência de fatores eIF.",
+      "D) Ligação direta do ribossomo ao promotor DNA."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cap → eIF4F → scanning; SD é procarioto.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: procarioto.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Cap — iniciação eucariótica.\nA) INCORRETA. Incorreta: procarioto.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 990,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "A degenerescência do código genético significa que:",
+    "opcoes": [
+      "A) Um aminoácido nunca tem mais de um códon.",
+      "B) Vários aminoácidos compartilham um só códon.",
+      "C) A maioria dos aminoácidos é codificada por mais de um códon.",
+      "D) O código não é universal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Degenerado = redundância na 3ª posição (wobble).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta: quase universal."
+    },
+    "explicacao": "Resumo: Degenerado — múltiplos códons por aa.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: quase universal."
+  },
+  {
+    "id": 991,
+    "materia": "bcm1",
+    "tema": "bcm1_a7",
+    "enunciado": "Cloranfenicol inibe principalmente:",
+    "opcoes": [
+      "A) Subunidade 30S.",
+      "B) Síntese de parede.",
+      "C) DNA girase.",
+      "D) Peptidiltransferase na subunidade 50S bacteriana."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Cloranfenicol — 50S; aminoglicosídeo 30S.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: aminoglicosídeos.",
+      "B": "Incorreta: beta-lactâmicos.",
+      "C": "Incorreta: fluoroquinolonas.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Cloranfenicol — 50S.\nA) INCORRETA. Incorreta: aminoglicosídeos.\nB) INCORRETA. Incorreta: beta-lactâmicos.\nC) INCORRETA. Incorreta: fluoroquinolonas.\nD) CORRETA. Correta."
+  }
+]

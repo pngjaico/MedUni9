@@ -2,163 +2,193 @@
 
 ## Relevância Clínica e Acadêmica
 
-A histologia do sistema respiratório é o alicerce para compreender doenças como asma, DPOC, carcinoma broncogênico e pneumonia. A mucosa respiratória, com seu epitélio pseudoestratificado colunar ciliado, é uma barreira ativa — e quando ela falha (como na bronquite crônica do tabagista, que sofre **metaplasia** escamosa), as consequências clínicas são diretamente rastreáveis à histologia. A organização em túnicas — mucosa, submucosa e adventícia — repete o padrão histológico de outros tubos do organismo, facilitando o aprendizado comparativo.
+A histologia do sistema respiratório conecta morfologia e clínica de forma direta. Quando você entende o tipo de epitélio em cada segmento, a presença ou ausência de cartilagem, o papel do músculo liso e a composição dos septos alveolares, fica mais fácil explicar sintomas como sibilância, hipoxemia e retenção de secreções.
 
-Os alvéolos merecem atenção especial: é no nível histológico que se entende por que a membrana alvéolo-capilar é tão eficiente para a difusão gasosa, e por que sua espessura aumentada (como no edema pulmonar ou na fibrose) prejudica a oxigenação. A **Uninove** costuma integrar histologia com fisiologia respiratória em questões que testam a capacidade de correlacionar estrutura e função.
+Em prova, a banca costuma misturar estrutura e função: pergunta o que muda da traqueia para o bronquíolo, qual célula produz surfactante, por que a barreira alvéolo-capilar é eficiente e como o tabagismo altera o epitélio. Na prática, esses conceitos ajudam a interpretar asma, bronquite crônica, enfisema, pneumonia, edema pulmonar e fibrose.
+
+---
+
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A11-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
 - **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
 
+## Organização Histológica das Vias Aéreas Condutoras
 
+Do ponto de vista clássico, as vias condutoras (traqueia, brônquios e bronquíolos terminais) apresentam três componentes de parede: mucosa, submucosa e adventícia. A proporção desses componentes varia conforme o calibre da via aérea.
 
+### Mucosa
 
----
+A mucosa inclui epitélio e lâmina própria.
 
+Na traqueia e nos brônquios maiores, o epitélio é **pseudoestratificado colunar ciliado** com células caliciformes. Essa combinação sustenta o sistema mucociliar: o muco retém partículas e os cílios as deslocam em direção à faringe.
 
+A lâmina própria contém tecido conjuntivo frouxo, fibras elásticas, vasos e células imunes. Esse leito sustenta o epitélio e participa da resposta inflamatória local.
 
-## Organização Histológica Geral das Vias Aéreas
+### Submucosa
 
-As vias aéreas (da traqueia aos bronquíolos terminais) possuem uma organização em três túnicas principais:
+A submucosa é mais evidente na traqueia e nos brônquios maiores, com glândulas seromucosas que contribuem para hidratação e proteção da superfície.
 
-**Túnica Mucosa:**
-- Revestida por **epitélio pseudoestratificado colunar ciliado** (epitélio respiratório) com células caliciformes (secretoras de muco)
-- A camada de muco retém partículas e micro-organismos; os cílios as deslocam em direção à faringe (clearance mucociliar)
-- A lâmina própria contém fibras elásticas e vasos
+À medida que o calibre reduz, glândulas submucosas ficam menos abundantes e podem desaparecer.
 
-**Túnica Submucosa:**
-- Glândulas seromucosas (especialmente na traqueia e brônquios grandes) que contribuem para o muco
-- Tecido conjuntivo frouxo
+### Adventícia
 
-**Túnica Adventícia:**
-- Tecido conjuntivo denso que ancora a via aérea à estrutura adjacente
-- Nos brônquios maiores: anéis ou placas de cartilagem hialina (sustentação)
-- Nos brônquios pequenos: apenas fibras elásticas e músculo liso (sem cartilagem)
-- Nos bronquíolos: musculatura lisa proeminente, SEM cartilagem e SEM células caliciformes
+A adventícia é tecido conjuntivo externo de fixação e continuidade com estruturas vizinhas.
 
-> **Dica de Prova:** À medida que descemos a árvore respiratória, ocorrem mudanças progressivas: (1) cartilagem diminui e desaparece nos bronquíolos; (2) células caliciformes diminuem e desaparecem nos bronquíolos; (3) músculo liso aumenta proporcionalmente; (4) epitélio vai de pseudoestratificado → colunar simples → cúbico simples nos bronquíolos terminais.
+Nos segmentos proximais, associa-se à cartilagem hialina de sustentação. Nos segmentos distais, sem cartilagem, o suporte depende mais de fibras elásticas e da interação com o parênquima pulmonar.
+
+> **Dica de Prova:** Se aparecer "glândulas seromucosas + epitélio pseudoestratificado ciliado + cartilagem", pense em traqueia ou brônquio, não em bronquíolo.
 
 ---
 
-## Traqueia
+## Epitélios por Segmento da Árvore Respiratória
 
-A traqueia mede ~12 cm e possui ~16–20 anéis de cartilagem hialina em forma de **"C"** (ferradura aberta para o posterior). A parede posterior é fechada pelo **músculo traqueal** (músculo liso), que permite a dilatação esofágica durante a deglutição.
+A transição epitelial é progressiva e acompanha a mudança funcional de condução para troca gasosa.
 
-Histologicamente da luz para fora: epitélio respiratório → lâmina própria → submucosa com glândulas → pericôndrio → cartilagem hialina em "C" → adventícia.
-
----
-
-## Brônquios e Bronquíolos
-
-| Estrutura | Cartilagem | Células caliciformes | Epitélio | Músculo liso |
-|-----------|-----------|----------------------|---------|-------------|
-| Brônquios principais | Anéis completos → placas | Sim | Pseudoestratificado ciliado | Presente |
-| Brônquios lobares/segmentares | Placas irregulares | Sim | Pseudoestratificado ciliado | Aumenta |
-| Bronquíolos | Ausente | Ausente | Cilíndrico simples ciliado | Proeminente |
-| Bronquíolos terminais | Ausente | Ausente | Cúbico simples ciliado / células de Clara | Proeminente |
-
-**Células de Clara (células Club):** células secretoras dos bronquíolos terminais; produzem proteínas surfactantes, têm função metabólica e de reparo; não são caliciformes.
+| Segmento | Epitélio predominante | Células-chave | Função dominante |
+|----------|------------------------|----------------|------------------|
+| Cavidade nasal respiratória | Pseudoestratificado colunar ciliado | Caliciformes, ciliadas | Filtrar, aquecer, umidificar |
+| Nasofaringe e laringe respiratória | Pseudoestratificado colunar ciliado | Ciliadas, caliciformes | Condução e limpeza mucociliar |
+| Traqueia | Pseudoestratificado colunar ciliado | Ciliadas, caliciformes, basais | Condução com depuração |
+| Brônquios | Pseudoestratificado colunar ciliado (mais baixo distalmente) | Ciliadas, caliciformes | Condução e condicionamento do ar |
+| Bronquíolos grandes | Colunar simples ciliado | Ciliadas | Condução fina e regulação do fluxo |
+| Bronquíolos terminais | Cúbico simples ciliado | Células Club | Condução final, proteção epitelial |
+| Bronquíolos respiratórios | Cúbico simples baixo com áreas alveolares | Club, poucas ciliadas | Início da troca gasosa |
+| Ductos e sacos alveolares | Pavimentoso simples | Pneumócitos I e II | Troca gasosa |
 
 ---
 
-## Histologia Alveolar
+## Brônquios vs Bronquíolos: diferenças de alta cobrança
 
-Os alvéolos são as unidades de troca gasosa. Suas paredes (septos alveolares) contêm:
+Brônquios e bronquíolos são frequentemente confundidos. O critério mais útil em histologia é lembrar o conjunto cartilagem + glândulas + epitélio.
 
-**Pneumócito tipo I (célula alveolar plana):**
-- Células escamosas muito delgadas (~0,2 µm de espessura)
-- Cobrem ~95% da superfície alveolar interna
-- Permitem difusão rápida de gases (superfície grande + espessura mínima)
-- Pouca capacidade de divisão celular
+| Critério | Brônquios | Bronquíolos |
+|----------|-----------|-------------|
+| Cartilagem | Presente (placas) | Ausente |
+| Glândulas submucosas | Presentes (mais nos maiores) | Ausentes |
+| Células caliciformes | Presentes (reduzem distalmente) | Ausentes nos terminais |
+| Epitélio | Pseudoestratificado ciliado (proximal) | Colunar/cúbico simples ciliado |
+| Músculo liso | Presente | Relativamente mais proeminente |
+| Papel clínico | Condução de maior calibre | Principal sítio de broncoconstrição na asma |
 
-**Pneumócito tipo II (célula alveolar granular / grande):**
-- Células cúbicas, com núcleo central e **corpos lamelares** (organelas que produzem e armazenam surfactante)
-- Cobrem ~5% da superfície, mas são as células mais numerosas numericamente
-- Produzem surfactante (DPPC e proteínas SP-A, SP-B, SP-C, SP-D)
-- Proliferam após lesão alveolar e se diferenciam em tipo I — são as células-tronco alveolares
+Nos bronquíolos terminais, as células Club substituem o protagonismo secretor das células caliciformes. Elas secretam componentes protetores, participam da detoxificação e ajudam na regeneração do epitélio bronquiolar.
 
-**Macrófagos alveolares (células de poeira):**
-- Derivados de monócitos; residem no lúmen alveolar
-- Fagocitam partículas, micro-organismos e células apoptóticas
-- Nos tabagistas, são vistos repletos de partículas de carbono (antracose) → aspecto escuro nos tecidos
-
-**Membrana alvéolo-capilar:**
-Composta por: epitélio alveolar (tipo I) + membrana basal alveolar + membrana basal capilar + endotélio capilar. Total: ~0,5 µm de espessura em condições normais — extremamente fina para difusão eficiente.
-
-> **Pegadinha:** No edema pulmonar, líquido acumula no espaço intersticial e no lúmen, AUMENTANDO a distância de difusão → hipoxemia. O mesmo ocorre na pneumonia (exsudato) e na fibrose pulmonar (deposição de colágeno na parede alveolar).
+> **Pegadinha:** "Via aérea pequena com epitélio cúbico simples e sem cartilagem" define bronquíolo, mesmo que o enunciado cite inflamação e muco.
 
 ---
 
-## Pleura
+## Região Respiratória e Alvéolos
 
-- **Mesotélio:** epitélio simples pavimentoso que reveste a pleura visceral e parietal
-- Abaixo do mesotélio: tecido conjuntivo frouxo com fibras elásticas e colágeno
-- A pleura parietal possui nervos sensitivos; a visceral não — daí a dor pleurítica ao respirar (irritação parietal)
+A porção respiratória começa nos bronquíolos respiratórios e segue para ductos alveolares, sacos alveolares e alvéolos.
 
-> **Dica de Prova:** O **mesotelioma** é o tumor maligno da pleura, fortemente associado à exposição ao **asbesto (amianto)**. Diferente do carcinoma broncogênico (que surge no epitélio respiratório), o mesotelioma origina-se das células mesoteliais.
+Os septos alveolares têm capilares abundantes e matriz conjuntiva delicada (fibras elásticas e reticulares), formando superfície extremamente fina para difusão.
+
+### Pneumócito tipo I
+
+É célula pavimentosa, muito delgada, cobrindo a maior parte da superfície alveolar.
+
+Sua principal função é permitir difusão rápida de O2 e CO2. Tem baixa capacidade proliferativa.
+
+### Pneumócito tipo II
+
+É célula cúbica, mais volumosa, geralmente em ângulos do alvéolo.
+
+Contém **corpos lamelares**, onde armazena surfactante antes da secreção.
+
+Além de produzir surfactante, é a principal célula reparadora do epitélio alveolar, podendo proliferar e originar pneumócitos tipo I após lesão.
+
+### Macrófago alveolar
+
+Fica no lúmen alveolar e também no interstício.
+
+Realiza fagocitose de partículas inaladas, microrganismos e detritos celulares, sendo peça central da defesa inata pulmonar.
+
+Em indivíduos expostos à fumaça, pode acumular pigmento de carbono (antracose).
 
 ---
 
-## Pontos-Chave
+## Barreira alvéolo-capilar e impacto funcional
 
-- Epitélio respiratório: pseudoestratificado colunar ciliado com células caliciformes — clearance mucociliar
-- Cartilagem: anéis completos na traqueia; placas nos brônquios; ausente nos bronquíolos
-- Células caliciformes desaparecem e músculo liso predomina nos bronquíolos
-- Pneumócito tipo I: escamoso, 95% da superfície, difusão gasosa
-- Pneumócito tipo II: cúbico, corpos lamelares, produz surfactante, célula-tronco alveolar
-- Macrófago alveolar: defesa imune, fagocita partículas; antracose em tabagistas
-- Membrana alvéolo-capilar: ~0,5 µm — qualquer espessamento prejudica difusão
-- Mesotélio: epitélio simples pavimentoso da pleura; mesotelioma associado ao asbesto
-- Células de Clara (Club): bronquíolos terminais; secretoras, sem muco
-- Metaplasia escamosa do epitélio respiratório: clássica no tabagismo → pré-carcinogênica
+A barreira de troca gasosa inclui:
+
+1. citoplasma do pneumócito tipo I;
+2. lâmina basal epitelial;
+3. lâmina basal capilar (frequentemente fusionada à epitelial);
+4. endotélio capilar.
+
+Essa arquitetura minimiza distância de difusão. Qualquer aumento de espessura ou preenchimento do espaço aéreo reduz eficiência de hematose.
+
+Correlação direta:
+
+- edema pulmonar: líquido aumenta distância de difusão;
+- pneumonia: exsudato preenche alvéolos;
+- fibrose: aumenta componente intersticial;
+- SDRA: dano difuso altera permeabilidade e troca.
+
+---
+
+## Correlação clínica básica que mais cai
+
+Na **asma**, o broncoespasmo ocorre sobretudo em vias de pequeno calibre com músculo liso relativamente importante (bronquíolos), somando-se a edema de mucosa e secreção.
+
+Na **bronquite crônica**, há aumento de células mucosas e glândulas, com hipersecreção persistente.
+
+No **enfisema**, o problema central é destruição de septos alveolares, reduzindo área de troca.
+
+Na **síndrome do desconforto respiratório neonatal**, a deficiência de surfactante (pneumócito II imaturo) favorece colapso alveolar.
+
+No tabagismo crônico, pode ocorrer **metaplasia escamosa** em epitélio respiratório, alteração adaptativa associada a maior risco de neoplasia.
 
 ---
 
 ## Ponte com a Clínica
 
-A **asma** é uma doença inflamatória das vias aéreas caracterizada por hipertrofia da musculatura lisa brônquica, espessamento da membrana basal e hipersecreção de muco por células caliciformes aumentadas em número — toda essa fisiopatologia se lê direto da histologia. Já a **DPOC** forma-se em dois padrões: na bronquite crônica, há hipertrofia das glândulas submucosas (índice de Reid > 0,5) e metaplasia do epitélio; no enfisema, há destruição dos septos alveolares e perda de superfície de troca. O **carcinoma epidermoide de pulmão**, mais central, origina-se quase sempre de metaplasia escamosa do epitélio respiratório — história direta de tabagismo.
+O raciocínio integrado é: alteração histológica gera alteração mecânica ou de difusão, que gera sinal clínico. Se há broncoconstrição e muco em pequenas vias, aparece sibilância e obstrução expiratória. Se há septo espessado ou alvéolo preenchido, surge hipoxemia. Se há perda de septo, cai área de troca e piora dispneia aos esforços.
+
+Esse encadeamento entre estrutura e função é o que separa a memorização superficial de uma resposta de prova bem fundamentada.
+
+---
+
+## Pontos-Chave para Prova
+
+- Mucosa respiratória clássica: epitélio pseudoestratificado colunar ciliado com caliciformes.
+- Submucosa com glândulas é típica de vias maiores (traqueia e brônquios).
+- Adventícia associa-se ao suporte externo; cartilagem está em traqueia/brônquios, não em bronquíolos.
+- Brônquio tem cartilagem; bronquíolo não tem cartilagem nem glândula.
+- Bronquíolo terminal: epitélio simples (colunar baixo/cúbico), com células Club.
+- Alvéolo: pneumócito I para difusão e pneumócito II para surfactante e reparo.
+- Macrófago alveolar é defesa local e remove partículas inaladas.
+- Barreira alvéolo-capilar fina é essencial para boa hematose.
+- Edema, exsudato ou fibrose aumentam a distância de difusão e prejudicam oxigenação.
+- Tabagismo pode induzir metaplasia escamosa no epitélio respiratório.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+Na árvore respiratória, a lógica histológica é de simplificação progressiva do epitélio e perda de estruturas de suporte. Traqueia e brônquios exibem epitélio pseudoestratificado ciliado com células caliciformes, além de submucosa com glândulas e suporte cartilaginoso. Quando você chega aos bronquíolos, desaparecem cartilagem e glândulas, o epitélio vira simples e o músculo liso ganha importância relativa.
 
+Nos alvéolos, lembre sempre da dupla funcional: pneumócito tipo I (fino, difusão) e pneumócito tipo II (surfactante e regeneração). O macrófago alveolar faz defesa e limpeza contínua. A banca gosta de perguntar isso em associação com doença: deficiência de surfactante no neonato, redução de área no enfisema, e piora da difusão em edema, pneumonia e fibrose.
 
-Epitélio respiratório: pseudoestratificado colunar ciliado + células caliciformes (mucosas). Cartilagem: traqueia = anéis em "C"; brônquios = placas; bronquíolos = AUSENTE. Células caliciformes: desaparecem nos bronquíolos (substituídas por células de Clara).
-
-Pneumócito tipo I: escamoso, 95% da área, difusão gasosa. Pneumócito tipo II: cúbico, corpos lamelares, surfactante (DPPC), célula-tronco alveolar. Macrófago alveolar: fagocitose; com partículas de carbono = antracose (tabagista).
-
-Membrana alvéolo-capilar: ~0,5 µm; espessamento → hipoxemia. Índice de Reid > 0,5: bronquite crônica (glândulas submucosas hipertrofiadas). Mesotelioma: tumor do mesotélio pleural; causado por asbesto/amianto.
-
-Metaplasia escamosa: epitélio respiratório em tabagistas → risco de carcinoma epidermoide.
+Se o enunciado descreve "via aérea sem cartilagem, com epitélio simples e broncoespasmo", pense em bronquíolo e asma. Se descreve "placas cartilaginosas e glândulas", pense em brônquio. Se descreve "parede alveolar delgada para troca gasosa", pense na barreira alvéolo-capilar e nos pneumócitos tipo I.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Pneumócito tipo I | Pneumócito tipo II | Tipo I = plano, difusão, 95% área; Tipo II = cúbico, corpos lamelares, surfactante |
-| Célula caliciforme | Célula de Clara | Caliciforme = secretora de muco, brônquios; Clara = secretora de proteínas, bronquíolos |
-| Bronquite crônica | Enfisema | Bronquite = hipertrofia glândulas, índice Reid > 0,5; Enfisema = destruição septos alveolares |
-| Mesotelioma | Carcinoma broncogênico | Mesotelioma = células mesoteliais pleurais (asbesto); Carcinoma = epitélio respiratório |
-| Antracose | Siderose | Antracose = partículas de carbono (tabagismo/poluição); Siderose = Fe (mineradores) |
+| Brônquio | Bronquíolo | Brônquio tem cartilagem e glândulas; bronquíolo não tem |
+| Pneumócito tipo I | Pneumócito tipo II | Tipo I = pavimentoso, difusão; Tipo II = cúbico, surfactante e reparo |
+| Célula caliciforme | Célula Club | Caliciforme secreta muco em vias maiores; Club predomina em bronquíolos |
+| Bronquite crônica | Enfisema | Bronquite: hipersecreção e alteração de via aérea; enfisema: destruição septal e perda de área |
+| Edema alveolar | Fibrose intersticial | Edema preenche/altera espaço de troca agudamente; fibrose espessa septo de modo crônico |
 
 ### Frase-âncora para não esquecer
-
-> "Tipo I é fino para difundir; Tipo II é cheio de corpos lamelares para criar surfactante e renascer após lesão."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "Da traqueia ao alvéolo, a parede simplifica para conduzir melhor e trocar mais rápido; quando espessa ou obstrui, a oxigenação cai."

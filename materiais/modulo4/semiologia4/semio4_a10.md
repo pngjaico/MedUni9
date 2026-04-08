@@ -112,17 +112,15 @@ Esta aula sintetiza todo o módulo. O estudante que passou pelas aulas anteriore
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Consulta neurológica: livre → dirigida → exame focado → apresentação sistematizada. Documentação padrão: consciência → NCs → motor → sensitivo → cerebelar → marcha.
-
-Consentimento: obrigatório antes do exame, explicação em linguagem acessível. Cefaleia crônica: enxaqueca (5 crises, 4–72h, unilateral, pulsátil, náusea/fotofobia).
-
-Epilepsia: orientar proibição de dirigir + banho sentado + aderência. Ajuda imediata: achado inesperado grave → chama supervisor, não tenta resolver sozinho.
+- **Consulta neurológica:** livre → dirigida → exame focado → apresentação sistematizada.
+- **Documentação padrão:** consciência → NCs → motor → sensitivo → cerebelar → marcha.
+- **Consentimento:** obrigatório antes do exame, explicação em linguagem acessível.
+- **Cefaleia crônica:** enxaqueca (5 crises, 4–72h, unilateral, pulsátil, náusea/fotofobia).
+- **Epilepsia:** orientar proibição de dirigir + banho sentado + aderência.
+- **Ajuda imediata:** achado inesperado grave → chama supervisor, não tenta resolver sozinho.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -134,5 +132,4 @@ Epilepsia: orientar proibição de dirigir + banho sentado + aderência. Ajuda i
 | Surto de EM | Pseudosurto | Pseudosurto = piora de sintomas por febre/calor (sinal de Uhthoff), sem nova lesão |
 
 ### Frase-âncora para não esquecer
-
 > "Ambulatório real = teoria + ética + julgamento. Simulação ensina a sequência; o paciente real ensina quando quebrá-la."

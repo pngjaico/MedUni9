@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A integridade do genoma é constantemente ameaçada por agentes endógenos e exógenos. Cada célula humana sofre aproximadamente 10.000 lesões no **DNA** por dia, a grande maioria corrigida por sistemas de reparo especializados. Quando esses sistemas falham — seja por defeito genético ou sobrecarga mutagênica — mutações se fixam, podendo resultar em câncer, doenças hereditárias ou envelhecimento precoce. Essa aula fornece o vocabulário e o mecanismo para entender por que o tabagismo causa câncer de pulmão, por que o sol provoca melanoma e por que o câncer colorretal hereditário sem polipose ocorre em famílias específicas.
+A integridade do genoma é constantemente ameaçada por agentes endógenos e exógenos. Cada célula humana sofre aproximadamente 10.000 lesões no DNA por dia, a grande maioria corrigida por sistemas de reparo especializados. Quando esses sistemas falham — seja por defeito genético ou sobrecarga mutagênica — mutações se fixam, podendo resultar em câncer, doenças hereditárias ou envelhecimento precoce. Essa aula fornece o vocabulário e o mecanismo para entender por que o tabagismo causa câncer de pulmão, por que o sol provoca melanoma e por que o câncer colorretal hereditário sem polipose ocorre em famílias específicas.
 
 Na clínica, os sistemas de reparo são alvos terapêuticos: inibidores de PARP (olaparibe) matam seletivamente tumores com mutações em BRCA1/2, aproveitando a "lethality sintética". O teste de instabilidade de microssatélites (MSI) guia o uso de imunoterapia com anti-PD-1. Entender os mecanismos de reparo é, portanto, essencial para a medicina de precisão.
 
@@ -178,19 +178,20 @@ Tumores MSI-H respondem ao pembrolizumabe (anti-PD-1) — aprovação para qualq
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-BER: bases únicas danificadas (oxidação, desaminação); glicosilase → APE1 → pol β → ligase. NER: lesões volumosas (UV, benzopireno); excisa ~25 nt; XP = defeito NER. MMR: erros de replicação; MSH2/MLH1; Lynch = defeito MMR → MSI-H.
-
-HRR: DSBs em S/G2; BRCA1/2 + RAD51; alta fidelidade. NHEJ: DSBs em G1; Ku70/80; propenso a erro. BRCA mutado + PARP inibido = letalidade sintética → olaparibe.
-
-Missense: troca de aminoácido (ex: Glu→Val na falciforme). Nonsense: cria stop prematuro → proteína truncada. Frameshift: indel não múltipla de 3 → leitura completamente alterada.
-
-UV → dímeros de pirimidina → NER — se NER falha → XP. CpG hot spot: desaminação de 5-MeC → T; frequente em TP53.
+- **BER:** bases únicas danificadas (oxidação, desaminação); glicosilase → APE1 → pol β → ligase
+- **NER:** lesões volumosas (UV, benzopireno); excisa ~25 nt; XP = defeito NER
+- **MMR:** erros de replicação; MSH2/MLH1; Lynch = defeito MMR → MSI-H
+- **HRR:** DSBs em S/G2; BRCA1/2 + RAD51; alta fidelidade
+- **NHEJ:** DSBs em G1; Ku70/80; propenso a erro
+- **BRCA mutado + PARP inibido = letalidade sintética** → olaparibe
+- **Missense:** troca de aminoácido (ex: Glu→Val na falciforme)
+- **Nonsense:** cria stop prematuro → proteína truncada
+- **Frameshift:** indel não múltipla de 3 → leitura completamente alterada
+- **UV → dímeros de pirimidina → NER** — se NER falha → XP
+- **CpG hot spot:** desaminação de 5-MeC → T; frequente em TP53
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -203,13 +204,4 @@ UV → dímeros de pirimidina → NER — se NER falha → XP. CpG hot spot: des
 | Transição | Transversão | Transição = purina↔purina ou pirimidina↔pirimidina; Transversão = troca de tipo (mais rara) |
 
 ### Frase-âncora para não esquecer
-
 > "BER conserta BASE única; NER conserta NUCLEOTÍDEO volumoso; MMR conserta MISMATCH da replicação; HRR conserta DUPLA QUEBRA com FIDELIDADE (exige irmã); NHEJ une tudo a fórceps — às vezes com erro."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

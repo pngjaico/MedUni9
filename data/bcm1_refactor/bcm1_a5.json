@@ -1,0 +1,232 @@
+[
+  {
+    "id": 962,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "A replicação do DNA é descrita como semiconservativa porque:",
+    "opcoes": [
+      "A) Cada molécula-filha contém uma fita parental e uma nova.",
+      "B) Cada fita filha é inteiramente nova em ambos os duplex.",
+      "C) Ambas as fitas parentais são destruídas.",
+      "D) Apenas uma das duas fitas é copiada."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Meselson-Stahl: semiconservativa — 1 velha + 1 nova por duplex.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: conservativa seria ambas velhas ou ambas novas juntas.",
+      "B": "Correta: definição.",
+      "C": "Incorreta: parental serve de molde.",
+      "D": "Incorreta: replicação bidirecional em ambas."
+    },
+    "explicacao": "Resumo: Fita parental conservada no duplex.\nA) INCORRETA. Incorreta: conservativa seria ambas velhas ou ambas novas juntas.\nB) CORRETA. Correta: definição.\nC) INCORRETA. Incorreta: parental serve de molde.\nD) INCORRETA. Incorreta: replicação bidirecional em ambas."
+  },
+  {
+    "id": 963,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "Em eucariotos, a fita retardada é sintetizada como fragmentos de Okazaki porque:",
+    "opcoes": [
+      "A) A DNA polimerase sintetiza 3'→5'.",
+      "B) A síntese ocorre 5'→3' e o molde está orientado desfavoravelmente.",
+      "C) Não há primers de RNA.",
+      "D) A helicase não atua no eucarioto."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Antiparalelismo: uma fita é contínua (líder), outra descontínua (Okazaki).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: polimerase sintetiza 5'→3'.",
+      "B": "Correta: geometria da forquilha.",
+      "C": "Incorreta: há primase.",
+      "D": "Incorreta: helicase desenrola DNA."
+    },
+    "explicacao": "Resumo: 5'→3' só — fita retardada em pedaços.\nA) INCORRETA. Incorreta: polimerase sintetiza 5'→3'.\nB) CORRETA. Correta: geometria da forquilha.\nC) INCORRETA. Incorreta: há primase.\nD) INCORRETA. Incorreta: helicase desenrola DNA."
+  },
+  {
+    "id": 964,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "Fluoroquinolonas inibem principalmente em bactérias:",
+    "opcoes": [
+      "A) Primase exclusivamente.",
+      "B) DNA ligase humana.",
+      "C) DNA girase (topoisomerase II) e topoisomerase IV bacterianas.",
+      "D) RNA polimerase II eucariótica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Fluoroquinolonas — topo II/IV bacterianas; aliviam superenrolamento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é alvo clássico.",
+      "B": "Incorreta: seletividade bacteriana.",
+      "C": "Correta: material.",
+      "D": "Incorreta: rifampicina age em RNA pol bacteriana."
+    },
+    "explicacao": "Resumo: Topo bacteriana — fluoroquinolona.\nA) INCORRETA. Incorreta: não é alvo clássico.\nB) INCORRETA. Incorreta: seletividade bacteriana.\nC) CORRETA. Correta: material.\nD) INCORRETA. Incorreta: rifampicina age em RNA pol bacteriana."
+  },
+  {
+    "id": 965,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "A telomerase é relevante porque:",
+    "opcoes": [
+      "A) Remove íntrons do pré-mRNA.",
+      "B) Sintetiza DNA a partir de primers virais.",
+      "C) Replica mitocondrias inteiras.",
+      "D) Estende telômeros usando componente RNA molde em células que a expressam."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Telomerase ribonucleoproteína — repõe TTAGGG; tumores reativam.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: spliceossomo.",
+      "B": "Incorreta: não descreve telomerase.",
+      "C": "Incorreta: não replica organela inteira.",
+      "D": "Correta: mecanismo clássico."
+    },
+    "explicacao": "Resumo: Telômeros — encurtamento vs telomerase.\nA) INCORRETA. Incorreta: spliceossomo.\nB) INCORRETA. Incorreta: não descreve telomerase.\nC) INCORRETA. Incorreta: não replica organela inteira.\nD) CORRETA. Correta: mecanismo clássico."
+  },
+  {
+    "id": 966,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "Na PCR, a etapa a ~95°C tem como função:",
+    "opcoes": [
+      "A) Ligar fragmentos de Okazaki.",
+      "B) Sintetizar cDNA a partir de RNA viral.",
+      "C) Desnaturar o DNA de fita dupla em fitas simples.",
+      "D) Adicionar cauda poly-A ao mRNA."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PCR: desnaturação → anelamento → extensão 72°C.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ligase em replicação in vivo.",
+      "B": "Correta: quebra de pontes de H.",
+      "C": "Incorreta: RT-PCR usa etapa RT separada.",
+      "D": "Incorreta: processamento eucariótico."
+    },
+    "explicacao": "Resumo: Calor — separar fitas.\nA) INCORRETA. Incorreta: ligase em replicação in vivo.\nB) CORRETA. Correta: quebra de pontes de H.\nC) INCORRETA. Incorreta: RT-PCR usa etapa RT separada.\nD) INCORRETA. Incorreta: processamento eucariótico."
+  },
+  {
+    "id": 967,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "RT-PCR para detecção de SARS-CoV-2 requer etapa de transcriptase reversa porque:",
+    "opcoes": [
+      "A) O vírus tem genoma DNA dupla-fita.",
+      "B) A Taq polimerase copia RNA diretamente sem primer.",
+      "C) O exame mede apenas anticorpos IgM.",
+      "D) O genoma viral é RNA e deve ser convertido em cDNA antes da amplificação por DNA polimerase."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "RNA → cDNA (RT) → PCR; coronavírus RNA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: SARS-CoV-2 é RNA.",
+      "B": "Correta: RT primeiro.",
+      "C": "Incorreta: DNA pol não inicia de RNA molde sozinha na PCR clássica.",
+      "D": "Incorreta: sorologia é outro exame."
+    },
+    "explicacao": "Resumo: RNA viral — RT então PCR.\nA) INCORRETA. Incorreta: SARS-CoV-2 é RNA.\nB) CORRETA. Correta: RT primeiro.\nC) INCORRETA. Incorreta: DNA pol não inicia de RNA molde sozinha na PCR clássica.\nD) INCORRETA. Incorreta: sorologia é outro exame."
+  },
+  {
+    "id": 968,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "Em eucariotos, a DNA polimerase associada principalmente à fita líder (leading) costuma ser citada como:",
+    "opcoes": [
+      "A) Pol ε.",
+      "B) Pol I bacteriana.",
+      "C) Primase isolada.",
+      "D) Topo I apenas."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Pol ε leading; Pol δ lagging — material tabula.",
+    "explicacoes_opcoes": {
+      "A": "Correta: síntese contínua.",
+      "B": "Incorreta: procarioto.",
+      "C": "Incorreta: RNA primer, não elongação DNA principal.",
+      "D": "Incorreta: topoisomerase, não pol."
+    },
+    "explicacao": "Resumo: Líder — Pol ε eucariota.\nA) CORRETA. Correta: síntese contínua.\nB) INCORRETA. Incorreta: procarioto.\nC) INCORRETA. Incorreta: RNA primer, não elongação DNA principal.\nD) INCORRETA. Incorreta: topoisomerase, não pol."
+  },
+  {
+    "id": 969,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "A Taq polimerase na PCR é:",
+    "opcoes": [
+      "A) DNA polimerase RNA-dependent.",
+      "B) Termoestável, de Thermus aquaticus.",
+      "C) Ligase que une fragmentos de Okazaki.",
+      "D) Helicase que abre DNA a 37°C."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Taq suporta ciclos térmicos; estende a 72°C.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: isso é transcriptase reversa.",
+      "B": "Correta: origem e propriedade.",
+      "C": "Incorreta: ligase diferente.",
+      "D": "Incorreta: não é helicase."
+    },
+    "explicacao": "Resumo: Taq — termoestável.\nA) INCORRETA. Incorreta: isso é transcriptase reversa.\nB) CORRETA. Correta: origem e propriedade.\nC) INCORRETA. Incorreta: ligase diferente.\nD) INCORRETA. Incorreta: não é helicase."
+  },
+  {
+    "id": 970,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "O encurtamento telomérico em células somáticas está associado a:",
+    "opcoes": [
+      "A) Excesso de telomerase em todos os tecidos.",
+      "B) Deleção de todos os exons.",
+      "C) Replicação incompleta da extremidade da fita 5' no cromossomo linear.",
+      "D) Conversão de DNA em RNA sem polimerase."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Problema da extremidade 5' da fita retardada — encurtamento; Hayflick.",
+    "explicacoes_opcoes": {
+      "A": "Correta: replicação de extremidades.",
+      "B": "Incorreta: somáticas têm pouca telomerase.",
+      "C": "Incorreta: não é mecanismo telomérico.",
+      "D": "Incorreta: transcrição é outro processo."
+    },
+    "explicacao": "Resumo: Extremidade — replicação incompleta.\nA) CORRETA. Correta: replicação de extremidades.\nB) INCORRETA. Incorreta: somáticas têm pouca telomerase.\nC) INCORRETA. Incorreta: não é mecanismo telomérico.\nD) INCORRETA. Incorreta: transcrição é outro processo."
+  },
+  {
+    "id": 971,
+    "materia": "bcm1",
+    "tema": "bcm1_a5",
+    "enunciado": "qPCR (PCR em tempo real) difere da PCR convencional principalmente por:",
+    "opcoes": [
+      "A) Não usar primers.",
+      "B) Amplificar RNA sem cDNA.",
+      "C) Usar termociclador sem desnaturação.",
+      "D) Monitorar fluorescência durante a amplificação para quantificação."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "qPCR quantifica em tempo real; curva de amplificação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: precisa primers.",
+      "B": "Incorreta: RNA precisa RT antes se for alvo.",
+      "C": "Incorreta: desnaturação continua necessária.",
+      "D": "Correta: leitura cinética."
+    },
+    "explicacao": "Resumo: Real-time — quantificação.\nA) INCORRETA. Incorreta: precisa primers.\nB) INCORRETA. Incorreta: RNA precisa RT antes se for alvo.\nC) INCORRETA. Incorreta: desnaturação continua necessária.\nD) CORRETA. Correta: leitura cinética."
+  }
+]

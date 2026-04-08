@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A replicação fiel do DNA é a garantia da transmissão do material genético a cada divisão celular. Quando esse processo falha, surgem mutações que podem culminar em câncer ou doenças genéticas. Além disso, as enzimas envolvidas na replicação são alvos específicos de antibióticos (fluoroquinolonas, sulfonamidas) e antivirais (aciclovir), tornando este conteúdo diretamente relevante para farmacologia. A PCR — **reação em cadeia** da polimerase — é a tecnologia que revolucionou o diagnóstico médico e que teve seu papel dramático ampliado durante a pandemia de COVID-19: entender seus princípios permite compreender desde o diagnóstico molecular de **HIV** até a detecção de BRCA1/2  em triagem oncológica.
+A replicação fiel do DNA é a garantia da transmissão do material genético a cada divisão celular. Quando esse processo falha, surgem mutações que podem culminar em câncer ou doenças genéticas. Além disso, as enzimas envolvidas na replicação são alvos específicos de antibióticos (fluoroquinolonas, sulfonamidas) e antivirais (aciclovir), tornando este conteúdo diretamente relevante para farmacologia. A PCR — reação em cadeia da polimerase — é a tecnologia que revolucionou o diagnóstico médico e que teve seu papel dramático ampliado durante a pandemia de COVID-19: entender seus princípios permite compreender desde o diagnóstico molecular de HIV até a detecção de BRCA1/2  em triagem oncológica.
 
 ### Figura sugerida
 
@@ -65,7 +65,7 @@ A replicação é **semiconservativa**: cada fita original serve de molde para u
 
 ## PCR — Reação em Cadeia da Polimerase
 
-A PCR amplifica exponencialmente uma sequência específica de **DNA** in vitro. Cada ciclo dupla o número de cópias → após n ciclos: 2ⁿ cópias.
+A PCR amplifica exponencialmente uma sequência específica de DNA in vitro. Cada ciclo dupla o número de cópias → após n ciclos: 2ⁿ cópias.
 
 **Componentes:**
 - DNA molde
@@ -113,19 +113,19 @@ O **aciclovir** inibe a DNA Pol viral do herpesvírus: após ser ativado pela ti
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Replicação: semiconservativa; precisa de RNA primer; DNA Pol só adiciona 5'→3'. Proofreading: exonuclease 3'→5' da DNA Pol corrige erros de incorporação. Fragmentos de Okazaki: fita retardada; removidos por RNase/DNA Pol; ligados pela ligase.
-
-Fluoroquinolonas: inibem DNA girase (topoisomerase II bacteriana). Telomerase: restora TTAGGG; ausente em somáticas; ativa em tumores (imortalidade). PCR: desnaturação 95°C → anelamento → extensão 72°C (Taq); 2ⁿ cópias por ciclo.
-
-RT-PCR: RNA → cDNA → PCR; diagnóstico de vírus RNA (HIV, COVID). QPCR: quantificação em tempo real; carga viral HIV, HBV, HCV. Aciclovir: incorpora-se ao DNA viral (sem 3'-OH) → termina cadeia; ações via TK viral.
-
-KRAS: proto-oncogene; mutação → RAS sempre ativo (GTPase perdida).
+- **Replicação**: semiconservativa; precisa de RNA primer; DNA Pol só adiciona 5'→3'
+- **Proofreading**: exonuclease 3'→5' da DNA Pol corrige erros de incorporação
+- **Fragmentos de Okazaki**: fita retardada; removidos por RNase/DNA Pol; ligados pela ligase
+- **Fluoroquinolonas**: inibem DNA girase (topoisomerase II bacteriana)
+- **Telomerase**: restora TTAGGG; ausente em somáticas; ativa em tumores (imortalidade)
+- **PCR**: desnaturação 95°C → anelamento → extensão 72°C (Taq); 2ⁿ cópias por ciclo
+- **RT-PCR**: RNA → cDNA → PCR; diagnóstico de vírus RNA (HIV, COVID)
+- **qPCR**: quantificação em tempo real; carga viral HIV, HBV, HCV
+- **Aciclovir**: incorpora-se ao DNA viral (sem 3'-OH) → termina cadeia; ações via TK viral
+- **KRAS**: proto-oncogene; mutação → RAS sempre ativo (GTPase perdida)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -138,13 +138,4 @@ KRAS: proto-oncogene; mutação → RAS sempre ativo (GTPase perdida).
 | Topoisomerase I | Topoisomerase II (girase) | Topo I: corta 1 fita; Topo II: corta 2 fitas (alvo das fluoroquinolonas bacterianas) |
 
 ### Frase-âncora para não esquecer
-
 > "DNA Pol não começa do zero — precisa do primer de RNA. PCR imita a replicação com calor: 95°C separa, resfria para anelar, 72°C para copiar. A Taq não morre de calor — vem de uma bactéria termal."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

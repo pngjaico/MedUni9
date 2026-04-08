@@ -1,0 +1,192 @@
+[
+  {
+    "enunciado": "Paciente relata dor em articulações com rigidez após período sem movimento. Na história, o dado mais útil para distinguir padrão inflamatório de padrão mecânico/degenerativo típico é:",
+    "opcoes": [
+      "A) Quantificar quanto tempo a rigidez matinal ou pós-repouso persiste (muitas vezes >30–60 min sugere componente inflamatório)",
+      "B) Concluir inflamatório apenas se houver febre documentada no momento do exame",
+      "C) Considerar padrão mecânico sempre que a dor piorar em algum momento do dia",
+      "D) Atribuir neuropatia quando a dor for descrita como em queimação, sem outros dados"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "explicacao_geral": "Rigidez matinal ou pós-inatividade prolongada pesa como pista inflamatório; padrão mecânico costuma piorar com carga e melhorar com repouso.",
+    "explicacoes_opcoes": {
+      "A": "Correta: O material destaca rigidez matinal longa como bandeira inflamatória; pedir tempo em minutos é o passo prático.",
+      "B": "Incorreta: Febre ajuda em causas específicas, mas não substitui o tempo de rigidez para separar mecânico de inflamatório.",
+      "C": "Incorreta: Piora diurna com uso é típica de padrão mecânico/degenerativo, não invalida o passo de quantificar rigidez.",
+      "D": "Incorreta: Queimação pode sugerir neuropático, mas a pergunta cobra diferenciação inflamatório versus mecânico na história."
+    },
+    "explicacao": "Resumo: Tempo de rigidez matinal/pós-repouso diferencia inflamatório versus mecânico na história.\nA) CORRETA. Quantificar a rigidez orienta: durações longas favorecem inflamatório, ao passo que o padrão mecânico clássico piora com uso.\nB) INCORRETA. Ausência de febre não exclui doença inflamatória seronegativa ou baixa atividade sistêmica.\nC) INCORRETA. Oscilação diurna por si só não fecha o padrão sem o eixo rigidez-tempo.\nD) INCORRETA. Mistura eixos; o trecho da aula contrasta mecânico, inflamatório e neuropático."
+  },
+  {
+    "enunciado": "Idosa de 68 anos refere joelho direito que dói mais ao fim do dia, quando caminha para o mercado, e melhora ao sentar e elevá-lo. Esse relato temporal é mais compatível com:",
+    "opcoes": [
+      "A) Padrão neuropático com alodinia predominante",
+      "B) Padrão mecânico/degenerativo, com piora relacionada ao uso e melhora com repouso",
+      "C) Monoartrite séptica típica, mesmo sem outros dados no enunciado",
+      "D) Poliartrite inflamatória simétrica com rigidez matinal breve, em minutos"
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "explicacao_geral": "O material associa piora com atividade diurna e alívio com repouso ao padrão mecânico/degenerativo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Neuropatia é associada a queimação, piora noturna e sensibilidade anormal ao estímulo leve.",
+      "B": "Correta: Compatível com a linha mecânica/degenerativa da tabela de padrões temporais.",
+      "C": "Incorreta: Sepse costuma ser aguda, com sinais inflamatórios intensos e frequentemente toxinfeccioso, não quadro domiciliar rotineiro descrito.",
+      "D": "Incorreta: Doença inflamatória sistêmica muitas vezes traz rigidez matinal prolongada, não padrão puramente mecânico de fim de dia."
+    },
+    "explicacao": "Resumo: Dor que acumula com uso e alivia com repouso segue o padrão mecânico da aula.\nA) INCORRETA. Faltam dados de neuropatia.\nB) CORRETA. História espelha mecânica/degenerativa.\nC) INCORRETA. Diagnóstico infeccioso não é suportado pelo enunciado.\nD) INCORRETA. Rigidez breve e padrão poli-inflamatório não são o melhor encaixe."
+  },
+  {
+    "enunciado": "Operador de máquinas vibratórias apresenta dor e formigamento noturno na mão direita, piora com repouso e referência de fisgadas ao punho. Qual conjunto de qualidades da dor se alinha ao padrão neuropático descrito na aula?",
+    "opcoes": [
+      "A) Dor exclusivamente na linha articular, sem dados de dormência",
+      "B) Dor em peso que melhora apenas após semanas de repouso absoluto no leito",
+      "C) Queimação ou choque, piora noturna, hiperestesia a estímulos leves e contexto de compressão nervosa periférica",
+      "D) Rigidez matinal longa só em grandes articulações, sem sintomas distais"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "explicacao_geral": "O material define neuropático como queimação, piora noturna e alodinia, como em compressão nervosa ou radicular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Foco puramente sinovial sem componente neural não reproduz a linha neuropática.",
+      "B": "Incorreta: Imobilização prolongada não é o marcador do padrão; neuropatia frequentemente incomoda à noite.",
+      "C": "Correta: Reúne qualidade, cronologia e mecanismo descritos para dor neuropática.",
+      "D": "Incorreta: Rigidez matinal longa em grandes articulações remete ao eixo inflamatório, não ao neuropático."
+    },
+    "explicacao": "Resumo: Dor neuropática combina queimação/choque, piora noturna e alteração sensitiva.\nA) INCORRETA. Não há sinovite como fio condutor.\nB) INCORRETA. Não corresponde ao padrão temporal neuropático.\nC) CORRETA. Reflete o perfil neuropático da aula.\nD) INCORRETA. Descreve outro eixo fisiopatológico (inflamatório)."
+  },
+  {
+    "enunciado": "Atleta de 22 anos refere dor máxima na face anterior do joelho, sobre o tendão patelar e região pré-patelar, com pico ao correr ladeira abaixo; o ponto mais doloroso não coincide com a linha femorotibial e a extensão resistida reproduz o sintoma. A origem aparente é mais sugestiva de:",
+    "opcoes": [
+      "A) Sinovite pura com derrame tenso e dor máxima exatamente na linha articular",
+      "B) Processo viscero-referido retroperitoneal sem irradiação para membro",
+      "C) Lesão exclusivamente ligamentar intra-articular com bloqueio mecânico completo",
+      "D) Dor periarticular em tendão/bolsa, fora da linha articular, com utilidade de manobras isométricas"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Periarticular localiza dor em tendão ou bolsa fora da linha articular; o material cita testes isométricos como auxiliares.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Sinovite costuma centralizar-se na articulação com sinais de derrame.",
+      "B": "Incorreta: Dor referida costuma ser mal localizada; aqui há topografia tendínea e esforço.",
+      "C": "Incorreta: Bloqueio completo não foi descrito; irritação tendínea predomina.",
+      "D": "Correta: Encaixa na linha periarticular: tendão/bolsa, fora da joint line, isometria útil."
+    },
+    "explicacao": "Resumo: Topografia tendínea e isometria positiva sugerem periarticular.\nA) INCORRETA. Padrão sinovial difere na localização da dor máxima.\nB) INCORRETA. Não há ponte visceral plausível no caso.\nC) INCORRETA. Quadro não sugere trava articular completa.\nD) CORRETA. Compatível com tendão/bolsa e manobras isométricas da aula."
+  },
+  {
+    "enunciado": "Ao abordar ombro doloroso agudo após queda, qual sequência respeita o exame físico racional proposto, evitando estresse antes da observação?",
+    "opcoes": [
+      "A) Inspeção comparativa, palpação, amplitude ativa e passiva, depois testes especiais quando indicados",
+      "B) Varredura com testes especiais máximos antes de inspecionar, para ganhar tempo",
+      "C) Punção articular imediata antes de qualquer inspeção externa",
+      "D) Solicitação de ressonância magnética antes de tocar o paciente"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "explicacao_geral": "A ordem clássica é inspeção, palpação, ADM ativa e passiva, testes especiais por fim.",
+    "explicacoes_opcoes": {
+      "A": "Correta: Repete o roteiro explícito do material.",
+      "B": "Incorreta: Contraria a lógica de não forçar antes de observar.",
+      "C": "Incorreta: Procedimento invasivo tem indicação; não substitui etapas básicas.",
+      "D": "Incorreta: Imagem segue anamnese e exame semiológico dirigido."
+    },
+    "explicacao": "Resumo: Sequência ordenada reduz dor iatrogênica e otimiza hipóteses.\nA) CORRETA. Inspeção → palpação → ADM → testes condicionais.\nB) INCORRETA. Estresse precoce viola o princípio da aula.\nC) INCORRETA. Punção não é passo universal inicial.\nD) INCORRETA. Exame físico precede indicação de imagem."
+  },
+  {
+    "enunciado": "Joelho com calor local, rubor e aumento de volume. Qual pacote melhor corresponde aos sinais inflamatórios locais citados pela aula?",
+    "opcoes": [
+      "A) Apenas estalidos secos indolores ao movimento",
+      "B) Calor, rubor, edema, dor à função e dor à palpação, sugerindo inflamação local",
+      "C) Força 4/5 isolada, sem dor ou alteração térmica",
+      "D) Atrofia tenar bilateral simétrica sem calor articular"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "explicacao_geral": "O texto agrupa calor, rubor, edema, dor à função e dor à palpação como inflamação local.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Crepitação isolada não resume o conjunto inflamatório.",
+      "B": "Correta: Reproduz o bloco semiológico ensinado.",
+      "C": "Incorreta: Achado de força isolado não substitui o conjunto vascular-inflamatório.",
+      "D": "Incorreta: Atrofia tenar remete a outro contexto (ex.: nervo mediano)."
+    },
+    "explicacao": "Resumo: Inflamação articular/local costuma reunir hiperemia, tumefação e dor mecânica.\nA) INCORRETA. Pode ocorrer em artropatia crônica sem flogose aguda completa.\nB) CORRETA. É o pacote do material.\nC) INCORRETA. Não descreve processo inflamatório local típico.\nD) INCORRETA. Desvia para neuropatia de mão, não para sinovite aguda."
+  },
+  {
+    "enunciado": "Mulher de 29 anos, três semanas após entorse de tornozelo, apresenta flexão dorsal igualmente limitada no teste ativo e quando o examinador move o pé passivamente. Segundo a tabela da aula sobre ADM, o achado sugere predominantemente:",
+    "opcoes": [
+      "A) Lesão de partes moles sem bloqueio, com passiva plena e só limite ativo",
+      "B) Dor ou inibição pura, pois a passiva sempre deve ser maior que a ativa nesse cenário",
+      "C) Processo articular, capsular ou bloqueio intra-articular, por limitação concordante ativa e passiva",
+      "D) Sempre falta de cooperação voluntária, sem outras causas fisiológicas"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Limitação igual na ativa e na passiva aponta para envolvimento articular/capsular ou bloqueio intra-articular.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Passiva preservada caracterizaria padrão só ativo (dor/fraqueza/inibição).",
+      "B": "Incorreta: Passiva maior que ativa existe em alguns contextos, mas não invalida o padrão concordante limitado aqui descrito.",
+      "C": "Correta: É a leitura explícita da tabela de ADM.",
+      "D": "Incorreta: Cooperação deve ser considerada, mas a concordância ativa-passiva tem interpretação estrutural forte."
+    },
+    "explicacao": "Resumo: Bloqueio/capsulite reduz ADM nos dois modos de teste.\nA) INCORRETA. Incompatível com passiva também limitada.\nB) INCORRETA. Generalização incorreta diante de limitação passiva real.\nC) CORRETA. Segue o material sobre limitação ativa e passiva concordantes.\nD) INCORRETA. Afirmação absoluta não condiz com a abordagem semiológica."
+  },
+  {
+    "enunciado": "Homem de 54 anos, ex-tabagista intenso, com dor lombar recente após queda de escada, febre baixa persistente, mal-estar e dor profunda local que interfere no sono; ainda sem avaliação neurológica formal no enunciado. Qual postura diagnóstica a aula reforça frente a esse perfil?",
+    "opcoes": [
+      "A) Encerrar como lombalgia postural mecânica sem investigar outras causas",
+      "B) Evitar exame físico para não desconfortar o paciente",
+      "C) Prescrever analgésico comum e remarcar consulta apenas em vários meses, sem critérios de alarme",
+      "D) Manter alerta para red flags (febre, trauma, possível déficit a explorar, perda ponderal quando presente) e não rotular tudo como desgaste sem triagem"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "explicacao_geral": "Red flags em dor vertebral/articular incluem febre, déficit neurológico progressivo, trauma relevante e perda de peso inexplicada.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Contraria o alerta para não ignorar sinais sistêmicos ou atípicos.",
+      "B": "Incorreta: Exame deve ser realizado com técnica adequada, não suprimido.",
+      "C": "Incorreta: Atrasar reavaliação sem critérios de alarme ignora padrão atípico com febre e trauma.",
+      "D": "Correta: Coerente com a lista de red flags e triagem antes de fechar hipótese funcional."
+    },
+    "explicacao": "Resumo: Quadro sistêmico-atípico exige cautela diagnóstica.\nA) INCORRETA. Febre e traumatismo recente elevam suspeita.\nB) INCORRETA. Semiologia continua obrigatória.\nC) INCORRETA. Conduta expectante longa sem rede de alarme ignora padrão atípico.\nD) CORRETA. Reflete o raciocínio de red flags da aula."
+  },
+  {
+    "enunciado": "Na documentação de força, o paciente estende o joelho contra gravidade, mas cede quando o examinador opõe resistência moderada. Segundo a escala MRC resumida na aula, qual grau descreve melhor o achado?",
+    "opcoes": [
+      "A) Grau 2 — movimento sem vencer a gravidade",
+      "B) Grau 5 — normal contra resistência plena",
+      "C) Grau 4 — vence a gravidade, porém com resistência incompleta ao examinador",
+      "D) Grau 0 — ausência de contração palpável"
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "explicacao_geral": "Grau 4 corresponde a superar gravidade com resistência apenas parcial; grau 3 seria somente contra gravidade sem sustentar resistência.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Grau 2 não supera o peso do membro.",
+      "B": "Incorreta: Força normal suporta resistência sem ceder de pronto.",
+      "C": "Correta: Casa com resistência parcial após vencer gravidade.",
+      "D": "Incorreta: Há contração e movimento contra gravidade."
+    },
+    "explicacao": "Resumo: Falha sob resistência após vencer gravidade corresponde ao grau 4 na tabela.\nA) INCORRETA. Paciente venceu gravidade.\nB) INCORRETA. Resistência plena não foi mantida.\nC) CORRETA. Definição explícita do grau 4 no material.\nD) INCORRETA. Contração está presente."
+  },
+  {
+    "enunciado": "Paciente move o ombro passivamente com amplitude aparentemente completa, porém reluta ou falha na elevação ativa após lesão recente. Pela tabela da aula (ADM ativa versus passiva), a leitura mais adequada é:",
+    "opcoes": [
+      "A) Bloqueio mecânico intra-articular com anquilose confirmada na passiva",
+      "B) Limitação apenas por processo articular com passiva e ativa igualmente reduzidas",
+      "C) Certeza de ruptura completa do manguito sem necessidade de correlacionar com contexto",
+      "D) Dor, fraqueza ou inibição como causas de limitação predominantemente ativa, sem bloqueio estrutural completo capturado na passiva"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "explicacao_geral": "Passiva preservada com ativa limitada sugere dor, fraqueza ou inibição — alerta da aula contra assumir lesão intra-articular grave só pelo achado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Bloqueio estrutural costuma limitar também a passiva.",
+      "B": "Incorreta: Aqui a passiva foi descrita como preservada em relação à ativa.",
+      "C": "Incorreta: Diagnóstico estrutural definitivo exige correlação clínica e exames quando indicados.",
+      "D": "Correta: Reflete o ensinamento sobre discrepância ativa-passiva sem bloqueio completo."
+    },
+    "explicacao": "Resumo: ADM passiva normal com ativa limitada não equivale automaticamente a lesão intra-articular extensa.\nA) INCORRETA. Anquilose típica restringe a passiva.\nB) INCORRETA. O padrão descrito é divergente entre ativa e passiva.\nC) INCORRETA. Conclusão precipitada sem dados adicionais.\nD) CORRETA. Alinha-se à pegadinha explícita do material."
+  }
+]

@@ -7,20 +7,18 @@
 
 ## Relevância Clínica e Acadêmica
 
-Na **prática de microscopia**, pele e **tecido adiposo** são lâminas frequentes: treinar o olho para **epitélio estratificado**, **derme** com **colágeno** e **adipócitos** com **gordura** dissolvida em rotina HE evita confundir artefato com patologia. Em prova, descrever **do superficial ao profundo** e saber **branco** versus **marrom** ancora metabolismo, termorregulação e obesidade na fisiologia posterior.
+Na **Prática de Microscopia**, pele e **Tecido Adiposo** são as lâminas mais frequentes. Para a prova, você deve saber diferenciar o **Epitélio Estratificado** da epiderme da **Derme** com colágeno, além de distinguir os adipócitos **Brancos** (reserva) dos **Marrons** (calor). Na clínica, entender essa estrutura é a base para o estudo da **Obesidade** e da **Termorregulação** em recém-nascidos.
 
 ---
 
 ## Roteiro na lâmina de pele
 
-| Etapa | O que procurar primeiro |
-|-------|-------------------------|
-| 1 | Limite **epiderme/derme** — epiderme mais **basofílica** em geral |
-| 2 | **Papilas** dérmicas projetando-se na epiderme |
-| 3 | **Folículo** piloso e **glândulas** sebáceas em corte oblíquo |
-| 4 | **Estrato córneo** espessado na **pele espessa** |
+1.  **Epiderme:** Camada superficial, mais **Basofílica** (roxa/azulada). Procure o **Estrato Córneo** no topo.
+2.  **Limite Epiderme/Derme:** Siga as **Papilas Dérmicas** que "entram" na epiderme.
+3.  **Derme:** Camada rosada (**Eosinofílica**) com vasos e nervos.
+4.  **Hipoderme:** Local onde estão os **Adipócitos** (células que parecem vazias).
 
-> **Dica de Prova:** “Epiderme **sem vasos**” — se ver estruturas parecidas com capilares na camada mais superficial, reveja se não é **derme** invaginando.
+> **Gatilho de Prova:** Se vir vasos sanguíneos na "pele", você está na **Derme**. A epiderme é **Avascular**.
 
 ### Figura sugerida
 
@@ -56,11 +54,12 @@ Do ápice à base: **córneo** (anucleado, rosado), **granuloso** (grânulos), *
 
 Mais presente em **lactentes** e regiões específicas no adulto. **Múltiplas gotículas** de gordura e **mitocôndrias** com **proteína desacopladora** (UCP1) — **termogênese** não tremulante. Compare **único vacúolo** (branco) versus **multilocular** (marrom).
 
-| Característica | Branco | Marrom |
-|----------------|--------|--------|
-| Vacúolos | Um (único) | Vários |
-| Função principal | Reserva | Calor (adaptativo) |
-| Cor em lâmina | Claro, núcleo fino | Mais eosinofílico granular |
+| Tecido Adiposo | Estrutura na Lâmina | Função de Prova |
+|----------------|----------------------|------------------|
+| **Branco** | **Unilocular** (Gota única)| Reserva de Energia|
+| **Marrom** | **Multilocular** (Várias gotas)| **Termogênese** |
+
+O **Adipócito Branco** parece uma "célula vazia" porque a gordura é dissolvida durante o preparo da lâmina (processamento em álcool/xol). O **Adipócito Marrom** é rico em **Mitocôndrias** e na proteína **UCP1** (Termogenina), essencial para aquecer bebês.
 
 ---
 
@@ -78,40 +77,18 @@ Mais presente em **lactentes** e regiões específicas no adulto. **Múltiplas g
 
 ## Pontos-Chave para Prova
 
-- Epiderme **avascular**; derme **vascularizada**.
-- **Adipócito branco** — **núcleo periférico** e **grande vacúolo**.
-- **Marrom** — **multilocular** e **termogênese** (conceito).
-- Papilar **frouxo**; reticular **denso**.
-- Diferença **pele espessa** versus **fina** no **córneo**.
+- **Pele Espessa:** Possui estrato córneo volumoso. Presente em **Palmas e Plantas**.
+- **Papilas Dérmicas:** Ondulações que aumentam a adesão entre camadas e evitam o descolamento da pele.
+- **Paliçada:** Disposição das células na **Camada Basal** da epiderme.
+- **Derme Reticular:** Onde fica a maior resistência mecânica da pele (colágeno grosso).
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Ordem das **camadas** epidérmicas no **corte**.
-- Por que o **adipócito** parece “vazio” no HE.
-- Uma diferença **microscópica** branco **marrom**.
-- O que são **papilas** dérmicas em **uma** frase.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Artefato de coração | Bolha de montagem | Contexto da borda da lamina |
-| Folículo em corte transversal | Cisto | Sequência de camadas do folículo |
-| Adipócito | Célula vacuolada outra | Núcleo achatado na periferia |
-| Derme papilar | Reticular | Vaso fino e CT frouxo vs feixes grossos |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Adipócito Branco** | **Marrom** | Um Vacúolo vs **Muitos Vacúolos** |
+| **Derme Papilar** | **Reticular** | Tecido Frouxo vs **Tecido Denso** |
+| **Epiderme** | **Derme** | Origem Ectodérmica vs Mesodérmica |
+| **Sebácea** | **Sudorípara** | Holócrina vs **Merócrina** |
 
 ### Frase-âncora para não esquecer
 
 > “Gordura branca é um balão único; marrom é um enxame de gotinhas que aquece.”
-
----
-
-## Referências de estudo
-
-Junqueira e Carneiro (pele e adiposo); atlas histológico para comparar **pele fina** e **espessa** na mesma sessão de estudo.

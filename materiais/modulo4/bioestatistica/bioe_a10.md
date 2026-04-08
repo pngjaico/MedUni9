@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O estudo caso-controle é o design mais eficiente para investigar doenças raras e para gerar hipóteses etiológicas rapidamente. Foi com esse design que Doll e Hill (1950) estabeleceram a associação entre tabagismo e câncer de pulmão, e que epidemiologistas identificaram a causa da Síndrome da Imunodeficiência Adquirida antes mesmo do **HIV** ser conhecido. A **Uninove** cobra sua lógica, o cálculo do Odds Ratio (OR), a distinção em relação à coorte e as principais fontes de viés.
+O estudo caso-controle é o design mais eficiente para investigar doenças raras e para gerar hipóteses etiológicas rapidamente. Foi com esse design que Doll e Hill (1950) estabeleceram a associação entre tabagismo e câncer de pulmão, e que epidemiologistas identificaram a causa da Síndrome da Imunodeficiência Adquirida antes mesmo do HIV ser conhecido. A Uninove cobra sua lógica, o cálculo do Odds Ratio (OR), a distinção em relação à coorte e as principais fontes de viés.
 
 ### Figura sugerida
 
@@ -130,17 +130,17 @@ Na investigação de surtos e doenças emergentes, o caso-controle é o design d
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Caso-controle:** casos (tem a doença) vs controles (nao tem). Compara exposicao passada.
+- **OR = (a x d) / (b x c)** — produto cruzado da tabela 2x2.
+- **OR aproxima RR quando doença rara** (prevalência menor que 10%).
+- **Ideal para doenças raras** — coorte seria impraticável.
+- **Viés de recall:** principal viés — casos recordam a exposição de forma diferente.
+- **NAO calcula incidência nem RR** diretamente.
 
-
-Caso-controle: casos (tem a doença) vs controles (nao tem). Compara exposicao passada. OR = (a x d) / (b x c) — produto cruzado da tabela 2x2.
-
-OR aproxima RR quando doença rara (prevalência menor que 10%). Ideal para doenças raras — coorte seria impraticável.
-
-Viés de recall: principal viés — casos recordam a exposição de forma diferente. NAO calcula incidência nem RR diretamente.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -152,5 +152,4 @@ Viés de recall: principal viés — casos recordam a exposição de forma difer
 | Casos incidentes | Casos prevalentes | Incidentes: novos; Prevalentes: existentes — evitar prevalentes para nao ter vies de sobrevivencia |
 
 ### Frase-âncora para não esquecer
-
 > "Caso-controle: do efeito para a causa, mede OR. Ideal para doenças raras. Viés de recall é o inimigo numero um."

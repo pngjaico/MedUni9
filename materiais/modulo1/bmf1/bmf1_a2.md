@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Os quatro tecidos básicos — epitelial, conjuntivo, muscular e nervoso — compõem órgãos e explicam resposta à lesão, inflamação e neoplasia. Em prova, **histologia** cobra estrutura-função: epitélio como barreira; conjuntivo como suporte e reparo; músculo como contração; nervo como condução. Em clínica, **cicatrização**, **fibrose** e **metaplasia** fazem sentido quando você reconhece **qual tecido** está sendo substituído ou destruído.
+A **Histologia** é o estudo da arquitetura microscópica que sustenta a vida. Os quatro tecidos básicos — **Epitelial**, **Conjuntivo**, **Muscular** e **Nervoso** — não são apenas slides de microscópio; eles definem como o corpo se repara, secreta e se defende. Para a prova, entenda a **Especialização** de cada um e como a falha neles leva às principais patologias clínicas.
 
 
 ### Figura sugerida
@@ -24,24 +24,25 @@ Os quatro tecidos básicos — epitelial, conjuntivo, muscular e nervoso — com
 
 ## Os quatro tecidos: visão panorâmica
 
-| Tecido | Função central | Local típico | Palavra-chave de prova |
-|--------|----------------|--------------|------------------------|
-| Epitelial | Revestir, secretar, absorver | Pele, mucosas, glândulas | Polaridade apical-basal |
-| Conjuntivo | Suporte, defesa, reparo | Derme, osso, sangue | Matriz extracelular |
-| Muscular | Contração | Esquelético, cardíaco, liso | Actina/miosina |
-| Nervoso | Condução e integração | ENCE, nervos periféricos | Neurônio + glia |
+| Tecido Básico | Especialidade Funcional | Localização Típica | Foco de Prova |
+|-------------------|-------------------------|--------------------|---------------|
+| **Epitelial** | Revestimento e Secreção | Pele e Glândulas | **Polaridade Celular** |
+| **Conjuntivo** | Sustentação e Preenchimento| Derme e Tendões | **Matriz Extracelular**|
+| **Muscular** | Movimento e Contração | Esqueleto e Coração | **Citoesqueleto** |
+| **Nervoso** | Impulso e Coordenação | Cérebro e Nervos | **Sinapses** |
 
 ---
 
 ## Epitélio: classificação por camadas e formato celular
 
-| Tipo | Descrição | Onde aparece (exemplos) |
-|------|-----------|-------------------------|
-| Escamoso simples | Uma camada, achatado | Endotélio vascular, alvéolos |
-| Cuboidal simples | Uma camada, cúbicas | Túbulos renais |
-| Colunar simples | Uma camada, altas | Trato digestório (absorção) |
-| Estratificado escamoso | Várias camadas; superficial achatado | Pele (queratinizado), esôfago |
-| Pseudostratificado | Todas tocam membrana basal; núcleos em níveis | Traqueia (com cílios) |
+| Tipo de Epitélio | Formato e Camada | Exemplo Clínico |
+|-----------------|-------------------|-----------------|
+| **Simples Pavimentoso**| Uma camada achatada | **Alvéolos** e Vasos (Endotélio) |
+| **Simples Cúbico** | Uma camada em cubo | **Dutos Renais** |
+| **Simples Prismático**| Uma camada alta | **Intestino** (Absorção) |
+| **Estratificado Pavimentoso**| Várias camadas | **Pele** (Proteção) |
+| **Pseudoestratificado**| Alturas variadas | **Traqueia** (Ciliado) |
+| **Transição** | Células em raquete | **Bexiga** |
 
 > **Dica de Prova:** “Estratificado” não significa “queratinizado” automaticamente — **mucosa oral** é estratificado **não queratinizado** (contexto).
 
@@ -49,14 +50,14 @@ Os quatro tecidos básicos — epitelial, conjuntivo, muscular e nervoso — com
 
 ## Tecido conjuntivo: fibras e células
 
-| Elemento | Papel | Lembrete clínico |
-|----------|-------|------------------|
-| Colágeno tipo I | Resistência à tração | Cicatriz madura |
-| Elastina | Retorno elástico | Pele, artérias grandes |
-| Reticular | Estroma de órgãos linfoides | “Arcabouço” de linfonodo |
-| Fibroblasto | Produz matriz | Cicatrização |
-| Macrófago | Fagocitose | Granulação |
-| Mastócito | Histamina e mediadores | Alergia, anafilaxia |
+| Célula / Fibra | Função Principal | Correlação Clínica |
+|------------------|-------------------|--------------------|
+| **Fibroblasto** | Produz colágeno | **Cicatriz** e Fibrose |
+| **Macrófago** | Defesa e "limpeza" | **Inflamação Crônica** |
+| **Colágeno I** | Resistência pura | Tendões e **Osso** |
+| **Elastina** | Elasticidade | Artérias e Pulmão |
+| **Glicosoaminoglicanos** (GAGs) | Retenção de água | Hidratação tecidual |
+| **Mastócito** | Libera Histamina | **Choque Anafilático** |
 
 Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conjuntivo de epitélio “denso em células”.
 
@@ -66,9 +67,9 @@ Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conju
 
 | Tipo | Estriações | Núcleo | Controle | Exemplo |
 |------|------------|--------|----------|---------|
-| Esquelético | Sim | Múltiplos, periféricos | Voluntário | Membros, parede abdominal |
-| Cardíaco | Sim | Central, comum | Involuntário | Coração |
-| Liso | Não | Central, único | Involuntário | Viscoeras, vasos |
+| **Esquelético** | Sim | **Múltiplos**, periféricos | **Voluntário** | Membros |
+| **Cardíaco** | Sim | **Central**, único/dois | **Involuntário** | Coração |
+| **Liso** | Não | **Central**, único | **Involuntário** | Vísceras, vasos |
 
 ---
 
@@ -76,11 +77,11 @@ Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conju
 
 | Célula | Função resumida |
 |--------|-----------------|
-| Neurônio | Gera e conduz potencial de ação |
-| Astrocito (SNC) | Suporte metabólico, barreira hematoencefálica |
-| Oligodendrócito | Mielina no SNC |
-| Célula de Schwann | Mielina no PNS |
-| Microglia | Imunidade do SNC |
+| **Neurônio** | Gera e conduz **potencial de ação** |
+| **Astrócito** | Suporte e **barreira hematoencefálica** |
+| **Oligodendrócito** | **Mielina no SNC** |
+| **Célula de Schwann** | **Mielina no Nervo Periférico** |
+| **Microglia** | Imunidade e **fagocitose no SNC** |
 
 ---
 
@@ -88,9 +89,9 @@ Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conju
 
 | Fase | O que predomina | Marco |
 |------|-----------------|-------|
-| Inflamatória | Neutrófilos, depois macrófagos | Primeiras horas/dias |
-| Proliferativa | Fibroblastos, granulação | Dias |
-| Remodelação | Colágeno tipo III → I | Semanas a meses |
+| **Inflamatória** | Neutrófilos, depois macrófagos | Primeiras horas/dias |
+| **Proliferativa** | Fibroblastos, **granulação** | Dias |
+| **Remodelação** | Colágeno tipo III → I | Semanas a meses |
 
 > **Pegadinha:** **Metaplasia** é substituição **adulta** de um epitélio por outro (adaptação); **displasia** é **alteração** de **organização** celular — **não** são sinônimos.
 
@@ -104,12 +105,11 @@ Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conju
 
 ## Pontos-Chave para Prova
 
-- Quatro tecidos básicos e **função** de cada um.
-- Classificação de epitélio por **camadas** e **forma** das células superficiais.
-- Colágeno vs elastina vs reticular.
-- Músculo esquelético vs cardíaco vs liso — **núcleo** e **controle**.
-- Mielina: SNC (oligodendrócito) vs PNS (Schwann).
-- Metaplasia vs displasia — definições.
+- **Epitélios:** São **Avasculares**. Nutrem-se por difusão a partir do tecido conjuntivo subjacente.
+- **Diferença de Contrações:** O músculo **Esquelético** é voluntário; o **Cardíaco** e o **Liso** são involuntários.
+- **Mielina:** O **Oligodendrócito** faz a bainha no SNC; a **Célula de Schwann** faz no Nervo Periférico.
+- **Metaplasia:** Substituição reversível de um tecido por outro (ex: esôfago de Barrett).
+- **Matriz Extracelular:** É abundante no conjuntivo e escassa no epitelial.
 
 ---
 
@@ -119,19 +119,17 @@ Substância amorfa + fibras = **matriz extracelular**; é o que diferencia conju
 
 ### Síntese para a prova
 
+- **Colágeno III vs I:** Na cicatrização inicial usamos o **Tipo III** (fácil de quebrar), que depois é trocado pelo **Tipo I** (resistente).
+- **Neuroglia:** A **Microglia** é o "macrófago" do cérebro. Os **Astrócitos** fazem a barreira sangue-cérebro.
+- **Tipos Musculares:** O **Cardíaco** tem **Discos Intercalares** (comunicação rápida).
+- **Epitélio de Transição:** Só existe no trato urinário; muda de forma conforme a bexiga enche.
 
-Por que epitélio é avascular e como se nutre. Diferença entre hiperplasia (mais células) e hipertrofia (células maiores).
-
-O que é granulação na ferida. Papel do macrófago na cicatrização.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Metaplasia | Displasia | Adaptação **substitutiva** vs **desorganização** |
-| Regeneração | Reparo fibroso | Resta **tecido igual** vs **cicatriz** |
-| Adenocarcinoma | Carcinoma espinocelular | Origem **glandular** vs **revestimento** |
-| Inflamação aguda | Crônica | Neutrófilo vs linfócito/macrófago (visão geral) |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Metaplasia** | **Displasia** | Reversível/Benigno vs Pré-maligno |
+| **Exócrina** | **Endócrina** | Tem ducto vs **Lança no sangue** |
+| **Tecido Denso** | **Tecido Frouxo**| Muita fibra vs Muitos vasos/células |
+| **Axônio** | **Dendrito** | Leva o sinal vs Recebe o sinal |
 
 ### Frase-âncora para não esquecer
 

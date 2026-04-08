@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As suprarrenais são fundamentais para a resposta ao estresse, homeostase do sódio, pressão arterial e função sexual. Cada camada do córtex produz um tipo diferente de hormônio — e a histologia de cada zona é distinta. **Uninove** cobra frequentemente a organização zonal cortical e as consequências das disfunções (Addison, Cushing, hiperaldosteronismo, feocromocitoma).
+As suprarrenais são fundamentais para a resposta ao estresse, homeostase do sódio, pressão arterial e função sexual. Cada camada do córtex produz um tipo diferente de hormônio — e a histologia de cada zona é distinta. Uninove cobra frequentemente a organização zonal cortical e as consequências das disfunções (Addison, Cushing, hiperaldosteronismo, feocromocitoma).
 
 ### Figura sugerida
 
@@ -91,7 +91,7 @@ O córtex é dividido em três zonas claramente distintas histologicamente:
 
 ### Resposta ao Estresse Agudo ("Fight or Flight")
 
-Estímulo → **SNC** → fibras pré-ganglionares colinérgicas → cromafins → liberação de adrenalina e **noradrenalina** → efeitos adrenérgicos sistêmicos.
+Estímulo → SNC → fibras pré-ganglionares colinérgicas → cromafins → liberação de adrenalina e noradrenalina → efeitos adrenérgicos sistêmicos.
 
 ---
 
@@ -135,17 +135,16 @@ Na doença de Addison (insuficiência suprarrenal primária), há destruição d
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-GFR de fora para dentro: Glomerulosa (aldosterona) → Fasciculada (cortisol) → Reticular (andrógenos). Córtex: origem mesoderma | Medula: origem crista neural (ectoderma). Espongiócitos: zona fasciculada, lipídios, cortisol.
-
-Células cromafins: medula, adrenalina (80%) + noradrenalina (20%). Feocromocitoma: tumor cromafim → HAS paroxística + cefaleia + sudorese. Addison: sem cortisol + sem aldosterona → hipotensão + hiperpigmentação + hipercalemia.
-
-Regulação: aldosterona → RAAS/K⁺; cortisol → ACTH (eixo HPA).
+- **GFR de fora para dentro:** Glomerulosa (aldosterona) → Fasciculada (cortisol) → Reticular (andrógenos)
+- **Córtex:** origem mesoderma | **Medula:** origem crista neural (ectoderma)
+- **Espongiócitos:** zona fasciculada, lipídios, cortisol
+- **Células cromafins:** medula, adrenalina (80%) + noradrenalina (20%)
+- **Feocromocitoma:** tumor cromafim → HAS paroxística + cefaleia + sudorese
+- **Addison:** sem cortisol + sem aldosterona → hipotensão + hiperpigmentação + hipercalemia
+- **Regulação:** aldosterona → RAAS/K⁺; cortisol → ACTH (eixo HPA)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -157,5 +156,4 @@ Regulação: aldosterona → RAAS/K⁺; cortisol → ACTH (eixo HPA).
 | Zona fasciculada | Zona reticular | Fasciculada: cordões retos, espongiócitos (lipídios abundantes) → cortisol; Reticular: rede, menos lipídios → DHEA |
 
 ### Frase-âncora para não esquecer
-
 > "GFR de fora para dentro: Glomerulosa faz sal (aldosterona), Fasciculada faz açúcar (cortisol), Reticular faz sexo (andrógenos) — e a medula, lá no centro, faz adrenalina porque veio da crista neural, não do mesodérma."

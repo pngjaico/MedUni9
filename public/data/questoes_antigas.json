@@ -1,0 +1,361 @@
+{
+  "questoes": [
+    {
+      "id": 27,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Um estudante de medicina precisa distinguir entre sinal e sintoma durante a anamnese. Qual conceito melhor define um SINTOMA?",
+      "opcoes": [
+        "A) Achado detectado pelo médico durante o exame físico, como crepitação pulmonar",
+        "B) Manifestação percebida e relatada pelo próprio paciente, como dor ou tontura",
+        "C) Resultado de exame laboratorial alterado",
+        "D) Conjunto de alterações associadas a mais de uma causa",
+        "E) Dado observado pelo médico durante a ausculta"
+      ],
+      "correta": 1,
+      "explicacao": "Sintoma é toda manifestação subjetiva percebida e relatada pelo próprio paciente (dor, fraqueza, tontura, dispneia). Sinal, ao contrário, é objetivamente detectado pelo médico ou por exames. A distinção é fundamental para a anamnese estruturada.",
+      "tema": "Semiótica - Definições Básicas",
+      "dificuldade": 1,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 28,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Durante uma consulta, o médico identifica um agrupamento de alterações fisiopatológicas que não possuem causa única definida. Este conjunto é denominado:",
+      "opcoes": [
+        "A) Diagnóstico definitivo",
+        "B) Sinal patognomônico",
+        "C) Síndrome",
+        "D) Doença crônica",
+        "E) Evento adverso"
+      ],
+      "correta": 2,
+      "explicacao": "Síndrome é um conjunto de sinais e sintomas associados a mais de uma causa possível. Difere de doença, que tem etiologia única e bem definida. Exemplos: síndrome metabólica, síndrome de Turner, síndrome de Down.",
+      "tema": "Semiótica - Definições Básicas",
+      "dificuldade": 1,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 29,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Uma adolescente de 16 anos com baixa estatura, amenorreia primária, pescoço alado e desenvolvimento sexual incompleto é investigada geneticamente. Qual alteração cromossômica melhor explica esse quadro?",
+      "opcoes": [
+        "A) Trissomia de cromossomo autossômico (ex: síndrome de Down)",
+        "B) Trissomia do cromossomo sexual (47,XXY — síndrome de Klinefelter)",
+        "C) Monossomia do cromossomo sexual (45,X0 — síndrome de Turner)",
+        "D) Inversão cromossômica",
+        "E) Translocação robertsoniana"
+      ],
+      "correta": 2,
+      "explicacao": "A Síndrome de Turner (45,X0) é uma monossomia do cromossomo X. Caracteriza-se por baixa estatura, amenorreia primária, pescoço alado (pterígio), infantilismo sexual e infertilidade. Klinefelter (47,XXY) afeta homens.",
+      "tema": "Genética - Síndromes Cromossômicas",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 30,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Segundo a Sociedade Brasileira de Endocrinologia, quais parâmetros são utilizados no diagnóstico de síndrome metabólica?",
+      "opcoes": [
+        "A) Proteína C reativa, ultrassonografia hepática e ferritina sérica",
+        "B) Pressão arterial, colesterol total e insulinemia de jejum",
+        "C) Obesidade central, glicemia alterada e HDL-colesterol reduzido",
+        "D) Tabagismo, TSH e história familiar de diabetes mellitus",
+        "E) Troponina, creatinina e LDH"
+      ],
+      "correta": 2,
+      "explicacao": "A síndrome metabólica é diagnosticada pela presença de obesidade central (circunferência abdominal aumentada) associada a pelo menos dois dos seguintes: glicemia alterada, HDL baixo, triglicerídeos elevados e hipertensão arterial.",
+      "tema": "Síndrome Metabólica - Diagnóstico",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 31,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "A aterosclerose é uma condição sistêmica, crônica e progressiva. Qual dos fatores de risco abaixo está diretamente relacionado tanto ao desenvolvimento da aterosclerose quanto da síndrome metabólica?",
+      "opcoes": [
+        "A) Hipercolesterolemia (LDL elevado)",
+        "B) Alcoolismo moderado",
+        "C) Sedentarismo isolado",
+        "D) Tabagismo exclusivo",
+        "E) Hipotireoidismo subclínico"
+      ],
+      "correta": 0,
+      "explicacao": "A hipercolesterolemia (LDL elevado) é fator de risco central da aterosclerose (depósito de lipoproteínas na íntima vascular) e da síndrome metabólica (dislipidemia). Está diretamente ligada à formação de placas ateroscleróticas.",
+      "tema": "Aterosclerose - Fatores de Risco",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 32,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Um lactente apresenta sopro cardíaco e, após investigação, é diagnosticado com defeito do septo interatrial (CIA). Em um adulto saudável, qual estrutura impede a comunicação entre os átrios?",
+      "opcoes": [
+        "A) Septo interventricular",
+        "B) Valva tricúspide",
+        "C) Septo interatrial (com a fossa oval)",
+        "D) Óstio atrioventricular",
+        "E) Cordas tendíneas"
+      ],
+      "correta": 2,
+      "explicacao": "O septo interatrial, que contém a fossa oval (resquício do forame oval fetal), separa os átrios em adultos normais. Na CIA, esse septo não se fecha completamente, permitindo comunicação entre átrio direito e esquerdo.",
+      "tema": "Anatomia Cardíaca - Septos",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 33,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Um adulto saudável apresenta, na ecocardiografia, uma estrutura oval na parede medial do átrio direito. Esta estrutura é o resquício de qual estrutura fetal?",
+      "opcoes": [
+        "A) Septo interventricular",
+        "B) Forame de Botalo / Forame oval",
+        "C) Valva de Eustáquio",
+        "D) Veia umbilical",
+        "E) Ductus arteriosus"
+      ],
+      "correta": 1,
+      "explicacao": "A fossa oval é o resquício do forame oval, estrutura que durante a vida intrauterina permite comunicação entre os átrios (shunt direito-esquerdo). Fecha-se funcionalmente ao nascimento e anatomicamente nas primeiras semanas de vida.",
+      "tema": "Anatomia Cardíaca - Circulação Fetal",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 34,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "O infarto agudo do miocárdio ocorre pela obstrução do fluxo sanguíneo em qual artéria que irriga o músculo cardíaco?",
+      "opcoes": [
+        "A) Artéria braquiocefálica",
+        "B) Artéria aorta descendente",
+        "C) Artéria coronária",
+        "D) Artéria carótida comum",
+        "E) Artéria subclávia"
+      ],
+      "correta": 2,
+      "explicacao": "As artérias coronárias (direita e esquerda) são os ramos da aorta ascendente responsáveis pela irrigação do miocárdio. A obstrução de um ramo coronário por placa aterosclerótica rompida causa o infarto agudo do miocárdio.",
+      "tema": "Anatomia Cardíaca - Irrigação",
+      "dificuldade": 1,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 35,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "O Sistema Único de Saúde (SUS) pode ser entendido como a política de saúde que busca principalmente:",
+      "opcoes": [
+        "A) Organizar a relação financeira entre setor público e privado com fins lucrativos",
+        "B) Reformular e reorganizar política e organizacionalmente os serviços e ações de saúde no país",
+        "C) Regular apenas a atuação de clínicas particulares conveniadas",
+        "D) Financiar exclusivamente hospitais universitários públicos",
+        "E) Centralizar todos os serviços de saúde em hospitais terciários"
+      ],
+      "correta": 1,
+      "explicacao": "O SUS é uma política pública que busca a reformulação do modelo de saúde no Brasil, garantindo acesso universal, integral e igualitário. Baseia-se nos princípios da universalidade, equidade e integralidade.",
+      "tema": "SUS - Conceitos e Princípios",
+      "dificuldade": 1,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 36,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "A Unidade Básica de Saúde (UBS) pertence a qual nível de atenção do SUS e qual é sua principal característica?",
+      "opcoes": [
+        "A) Atenção terciária — responsável por procedimentos de alta complexidade hospitalar",
+        "B) Atenção secundária — responsável por consultas com especialistas",
+        "C) Atenção primária — considerada a porta de entrada preferencial do SUS",
+        "D) Atenção quaternária — voltada para prevenção de procedimentos desnecessários",
+        "E) Atenção secundária — responsável pelo controle de epidemias regionais"
+      ],
+      "correta": 2,
+      "explicacao": "A UBS pertence à atenção primária à saúde (APS) e é considerada a porta de entrada preferencial do SUS. Realiza ações de promoção, prevenção, diagnóstico e tratamento de problemas de saúde de menor complexidade.",
+      "tema": "Atenção Primária - UBS",
+      "dificuldade": 1,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 37,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "A territorialização em saúde na Atenção Básica consiste em:",
+      "opcoes": [
+        "A) Delimitar apenas os leitos hospitalares disponíveis na região",
+        "B) Fazer o reconhecimento do território, mapear a área, levantar problemas de saúde e elaborar diagnóstico e planejamento estratégico das ações",
+        "C) Centralizar os atendimentos de urgência nas UBS para reduzir filas hospitalares",
+        "D) Distribuir medicamentos conforme a densidade populacional do município",
+        "E) Organizar filas de espera para consultas especializadas"
+      ],
+      "correta": 1,
+      "explicacao": "A territorialização é o processo pelo qual as equipes de saúde conhecem e delimitam o território de atuação, mapeando famílias, identificando problemas de saúde e planejando ações estratégicas para a população adscrita.",
+      "tema": "Territorialização em Saúde",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 38,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "Uma pesquisa sobre COVID-19 apresenta uma coluna com 'incidência por 100 mil habitantes'. Qual tipo de medida estatística é essa?",
+      "opcoes": [
+        "A) Frequência absoluta (número bruto de casos)",
+        "B) Frequência relativa — taxa ou proporção por tamanho populacional",
+        "C) Risco relativo entre grupos expostos e não expostos",
+        "D) Razão de chances (odds ratio)",
+        "E) Número absoluto de óbitos"
+      ],
+      "correta": 1,
+      "explicacao": "Incidência por 100 mil habitantes é uma medida de frequência relativa (taxa), pois relaciona o número de casos à população de referência. Medidas absolutas são apenas os contadores brutos; as relativas permitem comparar populações diferentes.",
+      "tema": "Medidas Epidemiológicas - Frequência",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 39,
+      "materia": "sus",
+      "categoria": "antiga",
+      "enunciado": "No Método Clínico Centrado na Pessoa (MCCP), ao explorar a experiência da doença, o médico deve prioritariamente:",
+      "opcoes": [
+        "A) Focar no diagnóstico diferencial e excluir doenças graves imediatamente",
+        "B) Utilizar perguntas fechadas para ganhar tempo e eficiência na consulta",
+        "C) Dar espaço para o paciente se abrir, usando perguntas abertas e identificando sentimentos, ideias e expectativas",
+        "D) Prescrever tratamento antes de compreender o impacto psicossocial da doença",
+        "E) Encaminhar para especialista sem explorar o contexto do paciente"
+      ],
+      "correta": 2,
+      "explicacao": "O MCCP propõe explorar a experiência da doença com perguntas abertas, identificando: sentimentos sobre estar doente, ideias sobre o que está acontecendo, impacto na vida do paciente e expectativas em relação ao médico — construindo uma compreensão integrada.",
+      "tema": "MCCP - Experiência da Doença",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 40,
+      "materia": "bmf1",
+      "categoria": "antiga",
+      "enunciado": "Um jovem sofre laceração profunda na face anterior do pé direito. O pulso está reduzido na face dorsal do pé, entre o tendão do extensor longo do hálux e o extensor longo dos dedos. Qual vaso foi provavelmente lesionado?",
+      "opcoes": [
+        "A) Artéria plantar lateral",
+        "B) Artéria tibial posterior",
+        "C) Artéria dorsal do pé (artéria pediosa)",
+        "D) Artéria plantar medial",
+        "E) Artéria fibular"
+      ],
+      "correta": 2,
+      "explicacao": "A artéria dorsal do pé (pediosa) é continuação da artéria tibial anterior. Passa na face dorsal do pé, entre o tendão do extensor longo do hálux e o extensor longo dos dedos. Sua lesão reduz o pulso pedioso.",
+      "tema": "Anatomia Vascular - Membro Inferior",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 41,
+      "materia": "bmf1",
+      "categoria": "antiga",
+      "enunciado": "Na cirurgia de revascularização do miocárdio (bypass), qual vaso do membro inferior é habitualmente utilizado como enxerto venoso?",
+      "opcoes": [
+        "A) Veia safena parva (pequena safena)",
+        "B) Veia femoral profunda",
+        "C) Veia femoral superficial",
+        "D) Veia safena magna (grande safena)",
+        "E) Veia poplítea"
+      ],
+      "correta": 3,
+      "explicacao": "A veia safena magna (grande safena) é o principal enxerto venoso utilizado no bypass coronariano. Corre medialmente no membro inferior, do tornozelo até a junção safenofemoral. Seu comprimento e calibre são adequados para a revascularização.",
+      "tema": "Anatomia Vascular - Veias do Membro Inferior",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 42,
+      "materia": "bmf1",
+      "categoria": "antiga",
+      "enunciado": "Uma criança com sobrepeso queixa-se de dor na face medial da coxa acima do joelho. O joelho está normal ao exame físico. Qual nervo comprometido explicaria irradiação de dor do quadril para a face medial da coxa?",
+      "opcoes": [
+        "A) Nervo isquiático",
+        "B) Nervo cutâneo femoral lateral",
+        "C) Nervo safeno",
+        "D) Nervo obturatório",
+        "E) Nervo femoral"
+      ],
+      "correta": 3,
+      "explicacao": "O nervo obturatório (L2-L4) inerva a face medial da coxa e a articulação do quadril. Dor referida do quadril frequentemente se manifesta na face medial da coxa em crianças, confundindo com patologia de joelho — padrão clássico da epifisiólise de cabeça femoral.",
+      "tema": "Anatomia Neurológica - Nervo Obturatório",
+      "dificuldade": 3,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 1
+    },
+    {
+      "id": 46,
+      "materia": "indicadores",
+      "categoria": "antiga",
+      "enunciado": "Em um estudo sobre amamentação exclusiva, os dados foram classificados por temáticas: conhecimento sobre amamentação, processo de amamentação e influências recebidas. Como classificar as variáveis desse estudo?",
+      "opcoes": [
+        "A) Variáveis quantitativas, pois utilizam valores numéricos",
+        "B) Variáveis quantitativas, pois são definidas por categorias mensuráveis",
+        "C) Variáveis qualitativas, pois são definidas por categorias e não por valores numéricos",
+        "D) Variáveis contínuas, pois permitem subdivisões infinitas",
+        "E) Variáveis discretas, pois representam contagens"
+      ],
+      "correta": 2,
+      "explicacao": "Variáveis qualitativas (ou categóricas) são definidas por categorias, grupos ou atributos sem valor numérico inerente. Neste estudo, as temáticas são categorias qualitativas. Variáveis quantitativas representam medidas numéricas (peso, altura, pressão).",
+      "tema": "Metodologia Científica - Tipos de Variáveis",
+      "dificuldade": 2,
+      "fonte": "Prova Semestral",
+      "ano": 2024,
+      "semestre": "1/2024",
+      "modulo": 2
+    }
+  ]
+}

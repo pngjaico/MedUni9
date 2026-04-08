@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A morte celular programada e a morte celular patológica são fenômenos opostos em mecanismo, morfologia e consequência para o organismo. Compreender a diferença entre necrose e apoptose é fundamental para entender por que um infarto do miocárdio provoca inflamação intensa enquanto a renovação do epitélio intestinal ocorre silenciosamente todos os dias. Esse tema é recorrente nas provas da **Uninove** e serve de base para toda a fisiopatologia dos módulos seguintes.
+A morte celular programada e a morte celular patológica são fenômenos opostos em mecanismo, morfologia e consequência para o organismo. Compreender a diferença entre necrose e apoptose é fundamental para entender por que um infarto do miocárdio provoca inflamação intensa enquanto a renovação do epitélio intestinal ocorre silenciosamente todos os dias. Esse tema é recorrente nas provas da Uninove e serve de base para toda a fisiopatologia dos módulos seguintes.
 
-Na prática clínica, a distinção entre os dois processos informa decisões terapêuticas. O valor de troponina elevado na síndrome coronariana aguda indica **necrose** de cardiomiócitos. A ativação de caspases é o alvo de drogas antineoplásicas que forçam células tumorais a entrar em **apoptose**. Saber identificar o padrão histológico de cada processo — e por que ele ocorre — é o que a banca espera que o aluno saiba fazer.
+Na prática clínica, a distinção entre os dois processos informa decisões terapêuticas. O valor de troponina elevado na síndrome coronariana aguda indica necrose de cardiomiócitos. A ativação de caspases é o alvo de drogas antineoplásicas que forçam células tumorais a entrar em apoptose. Saber identificar o padrão histológico de cada processo — e por que ele ocorre — é o que a banca espera que o aluno saiba fazer.
 
 ### Figura sugerida
 
@@ -138,19 +138,21 @@ Estímulos como radiação, quimioterápicos, falta de fatores de crescimento ou
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Necrose: passiva, grupos celulares, inflamação sempre presente, membrana rompe cedo. Apoptose: ativa (gasta ATP), célula única, SEM inflamação, membrana intacta até o final. Via extrínseca: FasL → caspase-8 iniciadora.
-
-Via intrínseca: dano → citocromo c → caspase-9 iniciadora. Caspase efetora: caspase-3 (ambas as vias convergem aqui). BCL-2: anti-apoptótico; linfoma folicular t(14;18) → superexpressão de BCL-2.
-
-Necrose caseosa: TB — granuloma com centro "queijo fresco". Necrose coagulativa: isquemia (exceto SNC) — "sombra fantasma" ao microscópio. Necrose liquefativa: abscesso bacteriano E isquemia do SNC.
-
-DNA ladder: fragmentação em múltiplos de 200 pb = diagnóstico de apoptose. Troponina: marcador de necrose miocárdica. Venetoclax: inibe BCL-2 → apoptose em LLC.
+- **Necrose:** passiva, grupos celulares, inflamação sempre presente, membrana rompe cedo
+- **Apoptose:** ativa (gasta ATP), célula única, SEM inflamação, membrana intacta até o final
+- **Via extrínseca:** FasL → caspase-8 iniciadora
+- **Via intrínseca:** dano → citocromo c → caspase-9 iniciadora
+- **Caspase efetora:** caspase-3 (ambas as vias convergem aqui)
+- **BCL-2:** anti-apoptótico; linfoma folicular t(14;18) → superexpressão de BCL-2
+- **Necrose caseosa:** TB — granuloma com centro "queijo fresco"
+- **Necrose coagulativa:** isquemia (exceto SNC) — "sombra fantasma" ao microscópio
+- **Necrose liquefativa:** abscesso bacteriano E isquemia do SNC
+- **DNA ladder:** fragmentação em múltiplos de 200 pb = diagnóstico de apoptose
+- **Troponina:** marcador de necrose miocárdica
+- **Venetoclax:** inibe BCL-2 → apoptose em LLC
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -163,13 +165,4 @@ DNA ladder: fragmentação em múltiplos de 200 pb = diagnóstico de apoptose. T
 | Caspase-8 | Caspase-9 | Caspase-8 = via extrínseca (receptor de morte); Caspase-9 = via intrínseca (mitocôndria) |
 
 ### Frase-âncora para não esquecer
-
 > "Na NEcrose a célula INfla e INflama tudo ao redor; na Apoptose ela se apoSenta silenciosamente em corpinhos arrumados — sem chamar a guarda (inflamação)."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

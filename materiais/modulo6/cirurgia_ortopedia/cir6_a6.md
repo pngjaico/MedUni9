@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Colelitíase é extremamente frequente e muitas vezes assintomática. Os quadros de prova giram em torno de cólica biliar, colecistite aguda, coledocolitíase e colangite. Você precisa reconhecer tríade de Charcot, pentada de Reynolds, síndrome de Mirizzi, indicações de colecistectomia laparoscópica e o papel da CPRE na retirada de cálculo no colédoco.
+**Colelitíase** é extremamente frequente e muitas vezes **assintomática**. Os quadros de prova giram em torno de **cólica biliar**, **colecistite aguda**, **coledocolitíase** e **colangite**. Você precisa reconhecer **tríade de Charcot**, **pentada de Reynolds**, **síndrome de Mirizzi**, indicações de **colecistectomia** laparoscópica e o papel da **CPRE** na retirada de cálculo no colédoco.
 
 ---
 
@@ -15,7 +15,7 @@ Colelitíase é extremamente frequente e muitas vezes assintomática. Os quadros
 
 Cálculos de **colesterol** (maioria) ou **pigmentados** (hemólise). **Lama biliar** e dislipidemia contribuem. Obesidade, emagrecimento rápido, certas drogas e etnia alteram risco.
 
-> **Pegadinha:** Amilase/lipase podem subir na coledocolitíase por obstrução do ducto pancreático comum — interprete junto com imagem ductal.
+> **Pegadinha:** **Amilase/lipase** podem subir na coledocolitíase por obstrução do ducto pancreático comum — interprete junto com imagem ductal.
 
 ---
 
@@ -46,14 +46,14 @@ Icterícia, colúria, dilatação de colédoco; **colangite** = **antibiótico**
 
 ## Diagnóstico por imagem
 
-USG primeira linha: cálculos móveis, sombra acústica, espessamento parietal. Sinal WES (wall-echo-shadow) em vesícula repleta de cálculos. MRCP para mapear árvore sem invasão; CPRE diagnóstico/terapêutico.
+**USG** primeira linha: cálculos móveis, sombra acústica, espessamento parietal. **Sinal WES** (wall-echo-shadow) em vesícula repleta de cálculos. **MRCP** para mapear árvore sem invasão; **CPRE** diagnóstico/terapêutico.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A6-F02`
 
 - **Momento:** após USG na colecistite / litíase (correlação).
-- O que mostrar: ultrassom com sinal WES (parede–eco–sombra) em vesícula contraída com cálculos.
+- **O que mostrar:** **ultrassom** com **sinal WES** (parede–eco–sombra) em vesícula contraída com cálculos.
 - **Tipo sugerido:** USG real com legenda.
 - **Legenda (rascunho):** Sinal WES: vesícula com cálculos e sombra posterior.
 
@@ -73,7 +73,7 @@ USG primeira linha: cálculos móveis, sombra acústica, espessamento parietal. 
 **Figura-ID:** `CIR6-A6-F03`
 
 - **Momento:** após coledocolitíase (mapeamento ductal).
-- O que mostrar: MRCP com cálculos na vesícula e no colédoco (árvore biliar).
+- **O que mostrar:** **MRCP** com cálculos na vesícula e no **colédoco** (árvore biliar).
 - **Tipo sugerido:** imagem de RM colangiográfica.
 - **Legenda (rascunho):** MRCP: coledocolitíase e vesícula com cálculos.
 
@@ -104,12 +104,11 @@ USG primeira linha: cálculos móveis, sombra acústica, espessamento parietal. 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Charcot** e **Reynolds** — reconhecimento imediato.
-- **Colecistite acalculosa** em UTI — prognóstico mais grave.
-- **Cálculo residual** pós-colecistectomia — suspeitar se icterícia recorrente.
-- Indicações de colecistectomia em assintomático (contextos especiais — discussão).
+Na prova, lembre que Charcot e Reynolds — reconhecimento imediato. Colecistite acalculosa em UTI — prognóstico mais grave.
+
+Para não errar em cenário clínico, considere também Cálculo residual pós-colecistectomia — suspeitar se icterícia recorrente. Indicações de colecistectomia em assintomático (contextos especiais — discussão).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -123,14 +122,3 @@ USG primeira linha: cálculos móveis, sombra acústica, espessamento parietal. 
 ### Frase-âncora para não esquecer
 
 > “**Vesícula** inflamada com **colédoco** dilatado = pense **pedra no caminho**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Integre estabilidade, comorbidades e experiência com CPRE/laparoscopia. Documente achados ductais no pré-operatório para evitar surpresa intraoperatória.
-
-### Leitura de reforço
-
-- Diretrizes de colecistite aguda
-- Consensos de manejo de coledocolitíase (intraoperatório vs CPRE prévio)

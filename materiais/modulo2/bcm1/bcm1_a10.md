@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O ciclo celular é o conjunto de eventos coordenados que permite a uma célula duplicar seu **DNA** e se dividir com fidelidade. Sua regulação por ciclinas, quinases dependentes de ciclinas (CDKs) e proteínas supressoras de tumor como p53 e Rb é o centro da biologia do câncer. Praticamente toda neoplasia humana apresenta alteração em algum ponto do controle do ciclo celular — o que explica por que esse tema aparece em provas de biologia celular, genética médica e em toda a fisiopatologia oncológica.
+O ciclo celular é o conjunto de eventos coordenados que permite a uma célula duplicar seu DNA e se dividir com fidelidade. Sua regulação por ciclinas, quinases dependentes de ciclinas (CDKs) e proteínas supressoras de tumor como p53 e Rb é o centro da biologia do câncer. Praticamente toda neoplasia humana apresenta alteração em algum ponto do controle do ciclo celular — o que explica por que esse tema aparece em provas de biologia celular, genética médica e em toda a fisiopatologia oncológica.
 
 A relevância clínica vai além da teoria: inibidores de CDK4/6 como palbociclibe já são usados no câncer de mama; a expressão de p21 induzida por p53 é o mecanismo de ação de vários quimioterápicos; e a perda do retinoblastoma (Rb) é o evento definitório do retinoblastoma hereditário e de outros tumores. Dominar esses mecanismos é essencial para qualquer médico que pretenda entender terapia-alvo.
 
@@ -60,7 +60,7 @@ O ciclo possui três pontos de controle onde a maquinaria verifica se as condiç
 Verifica tamanho celular, nutrientes e integridade do DNA. **Rb** é o guardião principal. Rb hipofosforilado aprisiona E2F (fator de transcrição necessário para genes da fase S). Ciclina D/CDK4 fosforila Rb → libera E2F → células entram em S.
 
 **2. Checkpoint G2/M:**
-Verifica se o **DNA** foi corretamente replicado. CDK1/Ciclina B deve ser ativado. ATM/ATR detectam DSBs → ativam Chk1/Chk2 → inibem CDK1 → célula para em G2.
+Verifica se o DNA foi corretamente replicado. CDK1/Ciclina B deve ser ativado. ATM/ATR detectam DSBs → ativam Chk1/Chk2 → inibem CDK1 → célula para em G2.
 
 **3. Checkpoint do Fuso (Spindle Assembly Checkpoint — SAC):**
 Verifica se todos os cromossomos estão corretamente ligados aos microtúbulos. Qualquer cinetócoro não ligado produz sinal de espera. Falha nesse checkpoint → aneuploidia → CIN (instabilidade cromossômica).
@@ -145,19 +145,19 @@ Tumor da retina em crianças (<5 anos). Dois tipos:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Rb hipofosforilado: ATIVO como supressor → prende E2F → sem fase S. Rb hiperfosforilado: perde função supressora → E2F livre → fase S. Ciclina D/CDK4/6: fosforila Rb → ponto-chave de G1/S.
-
-P53 → p21 → inibe CDK: parada em G1 + reparo DNA ou apoptose se irreparável. TP53: mutado em ~50% dos cânceres; 17p13; Li-Fraumeni = mutação germline. RB1: 13q14; retinoblastoma hereditário = bilateral, precoce, dois golpes.
-
-P16 (CDKN2A): inibe CDK4/6; silenciado por metilação em melanoma. Palbociclibe: inibe CDK4/6 → Rb ativo → usado em câncer de mama HR+. HPV E6 degrada p53; HPV E7 inativa Rb — mecanismo do câncer do colo.
-
-Checkpoint do fuso: falha → aneuploidia → CIN.
+- **Rb hipofosforilado:** ATIVO como supressor → prende E2F → sem fase S
+- **Rb hiperfosforilado:** perde função supressora → E2F livre → fase S
+- **Ciclina D/CDK4/6:** fosforila Rb → ponto-chave de G1/S
+- **p53 → p21 → inibe CDK:** parada em G1 + reparo DNA ou apoptose se irreparável
+- **TP53:** mutado em ~50% dos cânceres; 17p13; Li-Fraumeni = mutação germline
+- **RB1:** 13q14; retinoblastoma hereditário = bilateral, precoce, dois golpes
+- **p16 (CDKN2A):** inibe CDK4/6; silenciado por metilação em melanoma
+- **Palbociclibe:** inibe CDK4/6 → Rb ativo → usado em câncer de mama HR+
+- **HPV E6 degrada p53; HPV E7 inativa Rb** — mecanismo do câncer do colo
+- **Checkpoint do fuso:** falha → aneuploidia → CIN
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -170,13 +170,4 @@ Checkpoint do fuso: falha → aneuploidia → CIN.
 | HPV E6 | HPV E7 | E6 degrada p53; E7 inativa Rb — ambos oncoproteínas de HPV alto risco |
 
 ### Frase-âncora para não esquecer
-
 > "Rb é a REPRESA que segura o E2F: enquanto não for fosforilada por CDK4/6 (com Ciclina D), a água não flui — a célula não entra em S. p53 é o FISCAL que para tudo quando há dano no DNA e ativa p21 para segurar a represa."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

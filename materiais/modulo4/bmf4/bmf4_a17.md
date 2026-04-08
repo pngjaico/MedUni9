@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Olho, ouvido, nariz e língua são os órgãos que traduzem o mundo físico em sinais neurais. Cada um tem uma estrutura especial que faz essa tradução — e cada um tem síndromes clínicas específicas que a **Uninove** cobra. A perda visual por glaucoma, a surdez neurossensorial vs condutiva, o nistagmo em lesão vestibular, o anosmia em fratura de lâmina cribriforme — tudo começa na anatomia e histologia desses órgãos.
+Olho, ouvido, nariz e língua são os órgãos que traduzem o mundo físico em sinais neurais. Cada um tem uma estrutura especial que faz essa tradução — e cada um tem síndromes clínicas específicas que a Uninove cobra. A perda visual por glaucoma, a surdez neurossensorial vs condutiva, o nistagmo em lesão vestibular, o anosmia em fratura de lâmina cribriforme — tudo começa na anatomia e histologia desses órgãos.
 
 ### Figura sugerida
 
@@ -129,22 +129,22 @@ O labirinto vestibular compreende o **utrículo** e o **sáculo** (detectam acel
 
 ## Ponte com a Clínica
 
-Glaucoma de ângulo aberto: perda de campo visual periférico insidiosa ("perde a visão pelas bordas"). Pressão ocular > 21 mmHg, perda de fibras do NC II. Otosclerose: fixação do estribo ao forame oval → surdez condutiva progressiva; tratamento cirúrgico (stapedectomia). Schwannoma vestibular (neurinoma do acústico): surdez unilateral progressiva + zumbido + desequilíbrio; diagnóstico por **RM**. Presbyacusia: perda de células ciliadas da base coclear progressiva com a idade → perda de altas frequências bilateral.
+Glaucoma de ângulo aberto: perda de campo visual periférico insidiosa ("perde a visão pelas bordas"). Pressão ocular > 21 mmHg, perda de fibras do NC II. Otosclerose: fixação do estribo ao forame oval → surdez condutiva progressiva; tratamento cirúrgico (stapedectomia). Schwannoma vestibular (neurinoma do acústico): surdez unilateral progressiva + zumbido + desequilíbrio; diagnóstico por RM. Presbyacusia: perda de células ciliadas da base coclear progressiva com a idade → perda de altas frequências bilateral.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Cones: cor e acuidade na fóvea. Bastonetes: visão noturna na periferia. Adenoma hipofisário: comprime quiasma → hemianopsia bitemporal ("visores de cavalo"). Weber condutivo: lateraliza para o ouvido surdo. Weber neurossensorial: para o ouvido são.
-
-Aminoglicosídeos: ototóxicos, afetam base da cóclea → perda de altas frequências primeiro. VPPB: otólitos no canal posterior → Manobra de Epley. Glaucoma: bloqueio do canal de Schlemm → hipertensão ocular → perda periférica.
-
-NC I: anosmia por fratura da lâmina cribriforme; projeta direto ao telencéfalo. Paladar 2/3 ant.: NC VII; 1/3 post.: NC IX.
+- **Cones:** cor e acuidade na fóvea. Bastonetes: visão noturna na periferia.
+- **Adenoma hipofisário:** comprime quiasma → hemianopsia bitemporal ("visores de cavalo").
+- **Weber condutivo:** lateraliza para o ouvido surdo. Weber neurossensorial: para o ouvido são.
+- **Aminoglicosídeos:** ototóxicos, afetam base da cóclea → perda de altas frequências primeiro.
+- **VPPB:** otólitos no canal posterior → Manobra de Epley.
+- **Glaucoma:** bloqueio do canal de Schlemm → hipertensão ocular → perda periférica.
+- **NC I:** anosmia por fratura da lâmina cribriforme; projeta direto ao telencéfalo.
+- **Paladar 2/3 ant.:** NC VII; 1/3 post.: NC IX.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -156,5 +156,4 @@ NC I: anosmia por fratura da lâmina cribriforme; projeta direto ao telencéfalo
 | VPPB | Neurite vestibular | VPPB: posicional, nistagmo transitório; neurite: contínua, sem nistagmo posicional |
 
 ### Frase-âncora para não esquecer
-
 > "Adenoma comprime o quiasma pelo meio — só as fibras nasais cruzam ali — então cega os campos temporais de ambos os olhos: visores de cavalo."

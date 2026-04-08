@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Colesterol** é estrutural (membranas), precursor de **esteroides** e **ácidos biliares**, e alvo de **transporte plasmático** via **lipoproteínas**. Compreender **LDL**, **HDL**, **VLDL**, **receptores** e **vias de síntese/degradação** fundamenta **prevenção cardiovascular**, **estatinas**, **ezetimiba** e **síndromes familiares** (ex.: **FH**). É uma das aulas mais cobradas na interface **bioquímica → cardiologia**.
+O **Colesterol** é vital para as membranas e hormônios, mas seu transporte é o que define o risco de **Aterosclerose**. Para a prova, domine a cascata das **Lipoproteínas** (**VLDL → LDL**) e o papel heróico do **HDL** no transporte reverso. Na clínica, entenda por que prescrevemos **Estatinas** (alvo: **HMG-CoA Redutase**) e como o **LDL Oxidado** recruta macrófagos para formar a placa de gordura.
 
 
 ### Figura sugerida
@@ -65,11 +65,12 @@ O **microbioma** intestinal modula o **pool** de **ácidos biliares** e **sinali
 
 ## Comparativo clínico rápido
 
-| Partícula | Elevação típica associada a |
-|-----------|----------------------------|
-| LDL | risco ASCVD; FH |
-| TG | resistência insulínica; hipertrigliceridemia |
-| HDL baixo | fator de risco inverso (contexto metabólico) |
+| Partícula | Carga Principal | Risco Clínico | "High-Yield" |
+|-----------|-----------------|---------------|--------------|
+| **Quilomícron**| **Triglicerídeos** (Dieta) | Pancreatite (se >1000) | Leva gordura ao tecido adiposo |
+| **VLDL** | **Triglicerídeos** (Fígado) | Esteatose Hepática | Exporta gordura endógena |
+| **LDL** | **Colesterol** | **Aterosclerose** | Entrega colesterol na periferia |
+| **HDL** | Proteína / Éster | **Cardioprotetor** | **Transporte Reverso** (Faxina) |
 
 ---
 
@@ -81,10 +82,11 @@ O **microbioma** intestinal modula o **pool** de **ácidos biliares** e **sinali
 
 ## Pontos-Chave para Prova
 
-- **HMG-CoA redutase** = alvo de **estatina**.
-- **LDL** → tecidos via **LDLR**; **HDL** → transporte reverso.
-- **Quilomícron/VLDL** = **triglicerídeos** em trânsito.
-- **Ácidos biliares** ligam **colesterol** à **digestão** e **excreção**.
+- **HMG-CoA Redutase:** A enzima marcapasso da síntese de colesterol. Inibida por **Estatinas**.
+- **LDL Oxidado:** O verdadeiro vilão. Ativa a formação de **Células Espumosas** na parede arterial.
+- **HDL:** Esterifica o colesterol via **LCAT** para facilitar o transporte de volta ao fígado.
+- **Ezetimiba:** Bloqueia o transportador **NPC1L1**, reduzindo a absorção de colesterol no intestino.
+- **PCSK9:** Uma proteína que "come" receptores de LDL; inibi-la faz o fígado captar mais LDL do sangue.
 
 ---
 
@@ -92,20 +94,20 @@ O **microbioma** intestinal modula o **pool** de **ácidos biliares** e **sinali
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
 - Densidade **↑** → mais **proteína** por lipídeo (HDL/LDL nomenclatura clássica).
-- **SREBP** regula **síntese** quando colesterol intracelular cai.
-- **LDL oxidado** e **disfunção endotelial** iniciam **aterosclerose**.
-- **Estatina** = primeira linha em muitos cenários de **prevenção**.
+- **Estatinas:** Devem ser tomadas à **noite**, pois a síntese de colesterol é maior durante o sono.
+- **Xantomas:** Sinal clínico de acúmulo de colesterol na pele, sugerindo **Hipercolesterolemia Familiar**.
+- **Ácidos Biliares:** O único caminho de **excreção** do colesterol.
+- **Apo B-100:** Proteína presente no VLDL e LDL; marcador de partículas **Aterogênicas**.
 
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| LDL | VLDL | LDL mais **colesterol**; VLDL mais **TG** exportados do fígado. |
-| Colesterol total | LDL-C | Risco guia-se por **LDL-C** e contexto; não só pelo total. |
-| Absorção | Síntese | Ezetimiba vs estatina — mecanismos distintos. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **VLDL** | **Quilomícron** | **Gordura do Fígado** vs **Gordura da Dieta** |
+| **Estatina** | **Ezetimiba** | **Bloqueia Síntese** (Fígado) vs **Bloqueia Absorção** (Intestino) |
+| **LDL** | **Apo B** | Partícula vs Proteína que "carimba" a partícula ruim |
+| **HDL** | **LCAT** | A partícula "faxineira" vs A enzima que ajuda na "faxina" |
 
 ### Frase-âncora para não esquecer
 

@@ -1,100 +1,110 @@
-# Anestesia Local, Drenagem de Abscessos e Exerese em Fuso
+# Anestesia local, drenagem de abscesso e exérese em fuso
 
 ## Relevância Clínica e Acadêmica
 
-Esta aula e uma das mais práticas da disciplina.
-Aqui o aluno precisa integrar analgesia local, técnica de pequena cirurgia e cuidado de ferida.
-No dia a dia, boa execucao evita dor desnecessária, retorno precoce e complicação infecciosa.
+Esta aula reúne três competências de alta aplicabilidade ambulatorial: anestesiar com segurança, drenar coleção purulenta e planejar exérese cutânea.
+No OSCE, costuma avaliar não só o gesto técnico, mas também raciocínio de indicação, prevenção de complicações e orientação pós-procedimento.
+Na prática clínica, erros nesses passos geram dor evitável, recidiva infecciosa e cicatriz de pior qualidade.
 
-## Anestesia local: técnica que melhora experiencia do paciente
+## Anestesia local: técnica e segurança
 
-Objetivo da anestesia local:
-- bloquear dor sem comprometer segurança sistemica;
-- permitir procedimento preciso em ambiente ambulatorial.
+Anestesia local eficaz depende de **dose correta**, **infiltração adequada** e **latência respeitada**.
+A infiltração lenta reduz dor de aplicação e melhora distribuição do anestésico no plano-alvo.
 
-Pontos tecnicos essenciais:
-1. Calcular dose maxima pelo peso.
-2. Aspirar antes de infiltrar.
-3. Injetar lentamente para reduzir dor.
-4. Respeitar tempo de latência do anestesico.
-5. Testar analgesia antes da incisão.
+| Etapa | Boa prática | Falha frequente |
+|-------|-------------|-----------------|
+| Cálculo de dose | Basear em peso e concentração da solução | Infiltrar sem estimar dose máxima |
+| Aspiração prévia | Aspirar antes de injetar em cada reposicionamento | Injeção intravascular inadvertida |
+| Velocidade de infiltração | Injetar lentamente em pequenos volumes | Dor intensa e distorção tecidual |
+| Teste de analgesia | Confirmar antes da incisão | Incisar com bloqueio incompleto |
 
-Dicas de execucao:
-- usar agulha fina quando possivel;
-- infiltrar borda e planos ao redor da lesão;
-- evitar infiltrar diretamente em cavidade purulenta muito acida (menor eficácia).
+> **Dica de Prova:** se a questão citar toxicidade sistêmica, a conduta preventiva chave é cálculo de dose + aspiração + infiltração lenta.
+>
+> **Pegadinha:** “mais anestésico = mais segurança” é falso; dose excessiva aumenta risco sem melhorar técnica ruim.
 
-## Drenagem de abscesso: o que faz diferenca
+### Técnica em leque
 
-Quando ha flutuação, a conduta principal e drenagem adequada.
-Antibiotico isolado raramente resolve abscesso maduro.
-
-Passo a passo prático:
-- antissepsia ampla da area;
-- anestesia em anel ao redor;
-- incisão suficientemente ampla no ponto mais declive;
-- ruptura delicada de loculações;
-- limpeza conforme necessidade;
-- curativo e retorno programado.
-
-| Erro | Consequência |
-|---|---|
-| Incisão minima | drenagem incompleta e recidiva |
-| Nao romper septos | persistencia de loja infecciosa |
-| Fechar cedo demais | reacumulo de secrecao |
-| Falta de orientação | piora em casa sem retorno precoce |
+A infiltração em leque permite cobrir área maior a partir de poucos pontos de entrada.
+É útil para procedimentos cutâneos em que se deseja reduzir múltiplas punções dolorosas na borda.
+Deve ser combinada com boa antissepsia e respeito aos limites de dose.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A9-F01`
+**Figura-ID:** `TCAR-A9-F01`
 
-- **Momento:** após tabela de erros.
-- **O que mostrar:** esquema do trajeto de incisão e abertura de loja abscedada.
-- **Tipo sugerido:** esquema procedimental.
-- **Legenda (rascunho):** Drenagem efetiva depende de abertura adequada e desbridamento suave.
+- **Momento:** após explicação de técnica em leque.
+- **O que mostrar:** vetores de infiltração em leque a partir de um ponto de entrada, delimitando campo anestésico.
+- **Tipo sugerido:** esquema procedimental didático.
+- **Legenda (rascunho):** Infiltração em leque amplia cobertura analgésica com menos punções.
 
-## Exerese em fuso: geometria da boa cicatriz
+## Drenagem de abscesso: princípio é esvaziar a loja
 
-A exérese em fuso deve ser planejada antes do bisturi.
-O desenho errado causa "orelha de cachorro", excesso de tensão e cicatriz de pior qualidade.
+Abscesso flutuante maduro tem tratamento principal cirúrgico local.
+Antibiótico isolado geralmente é insuficiente quando há coleção organizada.
 
-Principios tecnicos:
-- eixo maior alinhado a linhas de tensão da pele;
-- proporcao comprimento/largura adequada ao fechamento linear;
-- bordas simetricas para coaptação uniforme;
-- hemostasia completa antes da sutura final.
+Passos técnicos essenciais:
 
-Sequencia recomendada:
-1. Marcar lesão e margem.
-2. Desenhar fuso completo antes de infiltrar.
-3. Infiltrar ao redor sem distorcer em excesso.
-4. Excisar em bloco.
-5. Fechar por planos, aliviando tensão profunda quando preciso.
+1. Antissepsia ampla e preparo de campo.
+2. Anestesia periférica em anel ao redor do foco.
+3. Incisão no ponto de maior flutuação/declive.
+4. Abertura adequada da cavidade e ruptura suave de septações.
+5. Lavagem conforme contexto e protocolo local.
+6. Curativo e plano de reavaliação precoce.
+
+| Erro técnico | Consequência clínica | Como evitar |
+|--------------|----------------------|-------------|
+| Incisão muito pequena | Drenagem incompleta e recidiva | Incisão suficiente para escoamento efetivo |
+| Não romper loculações | Persistência de coleção | Explorar cavidade com delicadeza |
+| Fechamento precoce | Reacúmulo de secreção | Manter drenagem conforme avaliação local |
+| Falta de orientação | Retorno tardio por piora | Definir sinais de alarme e retorno |
+
+> **Dica de OSCE:** verbalize “abscesso formado = drenagem” para mostrar decisão baseada em fisiopatologia.
+>
+> **Pegadinha:** trocar drenagem por antibiótico em coleção bem delimitada e flutuante.
+
+## Exérese em fuso: geometria para boa cicatriz
+
+A exérese em fuso precisa de planejamento pré-incisão.
+Orientação inadequada do eixo e proporção ruim aumentam tensão de fechamento e deformidades de extremidade.
+
+Princípios práticos:
+
+- alinhar eixo maior às linhas de tensão da pele quando possível;
+- definir margens antes da infiltração para evitar distorção;
+- manter simetria das bordas do fuso;
+- revisar hemostasia antes da síntese final.
+
+| Elemento de planejamento | Conduta correta | Risco se negligenciado |
+|--------------------------|-----------------|------------------------|
+| Eixo da elipse | Alinhar ao melhor vetor de fechamento | Cicatriz alargada/deformada |
+| Proporção do fuso | Compatível com fechamento linear sem sobra | “Orelha de cachorro” |
+| Profundidade de exérese | Em bloco, respeitando plano | Ressecção incompleta ou trauma excessivo |
+| Fechamento por planos | Alívio de tensão profunda quando indicado | Tensão superficial exagerada |
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A9-F02`
+**Figura-ID:** `TCAR-A9-F02`
 
-- **Momento:** após sequência da exérese.
-- **O que mostrar:** desenho do fuso com orientação por linhas de tensão e fechamento linear.
-- **Tipo sugerido:** esquema geometrico.
-- **Legenda (rascunho):** Planejamento da elipse determina resultado funcional e estético.
+- **Momento:** após tabela de planejamento da exérese.
+- **O que mostrar:** desenho de elipse orientada, linhas de tensão e fechamento linear resultante.
+- **Tipo sugerido:** esquema geométrico-clínico.
+- **Legenda (rascunho):** Planejamento correto da elipse reduz tensão e melhora desfecho cicatricial.
 
 ## Ponte com a Clínica
 
-No ambulatorio cirúrgico, boa técnica de drenagem e exérese reduz retorno por dor, secrecao persistente e deiscência.
-A diferenca entre procedimento "simples" bem feito e mal feito aparece em 48-72 horas.
-Por isso, nesta aula, foco principal e capricho tecnico e orientação pós-procedimento.
+No ambulatório, técnica refinada em pequenos procedimentos reduz dor, retorno não programado e complicações precoces.
+A combinação de anestesia adequada, drenagem completa e fechamento planejado transforma um procedimento “simples” em cuidado de alta qualidade.
+Para prova prática, demonstrar organização sequencial e critérios de segurança costuma ser mais valorizado que velocidade.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- Anestesia local exige dose segura e infiltração correta.
-- Abscesso maduro pede drenagem, não apenas antibioticoterapia.
-- Incisão adequada e desbridamento suave diminuem recidiva.
-- Exerese em fuso e planejamento geometrico, não corte improvisado.
-- Fechamento sem tensão melhora cicatriz e conforto.
+- Dose e técnica de infiltração definem segurança da anestesia local.
+- Em abscesso maduro, drenagem adequada é pilar terapêutico.
+- Incisão insuficiente e loculação não rompida causam recidiva.
+- Exérese em fuso depende de planejamento geométrico prévio.
+- Fechamento sem tensão excessiva melhora resultado funcional e estético.
 
 ---
 
@@ -116,7 +126,9 @@ Procedimento ambulatorial de qualidade depende de técnica e de orientação cla
 | Antibiotico isolado | Drenagem de abscesso | abscesso formado exige abordagem cirúrgica local |
 | Fuso planejado | Elipse improvisada | planejado reduz deformidade e tensão de fechamento |
 | Infiltração lenta | Infiltração rápida | lenta reduz dor e melhora distribuicao do anestesico |
+| Campo em leque | Anel ao redor do abscesso | leque expande analgesia por setor a partir de pivôs; anel isola foco purulento |
 
 ### Frase-âncora para não esquecer
 
 > "Pequena cirurgia com técnica grande gera grande resultado."
+

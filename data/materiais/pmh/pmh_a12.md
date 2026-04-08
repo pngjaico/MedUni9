@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Nucleotídeos** sustentam **DNA/RNA**, **ATP/GTP**, **cofatores** (**NAD**, **FAD**, **CoA**) e **segundos mensageiros** (**cAMP**). A **biossíntese de purinas e pirimidinas** difere: **purinas** montam-se sobre **ribose**; **pirimidinas** sintetizam **anel** antes de ligar à **ribose**. Inibidores como **metotrexato**, **5-FU** e **alopurinol** atuam nessas vias — ponte direta com **onco**, **gota** e **imunossupressão**.
+O **Metabolismo de Nucleotídeos** é fundamental para a vida, fornecendo as peças para o **DNA/RNA**, além de moléculas energéticas como o **ATP**. Para a prova, domine a diferença entre a **Síntese de Purinas** (montadas sobre a ribose) e a de **Pirimidinas**. Na clínica, esse conhecimento explica a origem da **Gota** (ácido úrico), a **Síndrome de Lesch-Nyhan** e como quimioterápicos como o **Metotrexato** e o **5-FU** bloqueiam o câncer.
 
 
 ### Figura sugerida
@@ -66,10 +66,12 @@ Converte **NDP** → **dNDP** para **DNA** — alvo de **hidroxiureia** e regula
 
 ## Comparativo purina vs pirimidina
 
-| | Purinas | Pirimidinas |
-|---|---------|-------------|
-| Anel | duplo anel | anel simples |
-| Exemplo | AMP, GMP | CMP, UMP, TMP |
+| Característica | Purinas (A, G) | Pirimidinas (C, U, T) |
+|-----------------|----------------|-----------------------|
+| **Estrutura** | **Dois anéis** fusionados | **Anel simples** |
+| **Síntese Base** | Sobre o **PRPP** (Ribose) | Anel pronto primeiro |
+| **Degradação** | **Ácido Úrico** | CO2, NH4 e Beta-alanina |
+| **Patologia** | **Gota** e Lesch-Nyhan | Acidúria Orótica |
 
 ---
 
@@ -81,10 +83,12 @@ Converte **NDP** → **dNDP** para **DNA** — alvo de **hidroxiureia** e regula
 
 ## Pontos-Chave para Prova
 
-- **PRPP** e **THF** são pivôs de síntese.
-- **HGPRT** — via **salvage**; deficiência = **Lesch-Nyhan**.
-- **Xantina oxidase** — alvo do **alopurinol**.
-- **Pirimidinas** começam com **carbamoil fosfato citoplasmático** (CAD).
+- **Ácido Úrico:** Produto final da degradação das **Purinas**. Se em excesso, causa **Gota**.
+- **Alopurinol:** O medicamento que inibe a **Xantina Oxidase**, impedindo a formação de urato.
+- **Lesch-Nyhan:** Deficiência da **HGPRT** (Via de Recuperação). Causa automutilação e **Hiperuricemia**.
+- **Metotrexato:** Bloqueia o **Tetraidrofolato (THF)**, impedindo o fornecimento de carbonos para o DNA.
+- **5-FU (Fluorouracil):** Inibe a **Timidilato Sintase**, "matando" a célula por falta de **Timina**.
+- **CPS II:** Enzima marcapasso da síntese de Pirimidinas (no **Citoplasma**).
 
 ---
 
@@ -92,20 +96,19 @@ Converte **NDP** → **dNDP** para **DNA** — alvo de **hidroxiureia** e regula
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Purinas: **IMP** ramifica para **AMP/GMP**.
-- **Uratos** precipitam em **articulação** (gota) e **rim**.
-- **Inibidores** de síntese (anticâncer) exploram **divisão celular rápida**.
-- **Síndrome de lise** monitorar **urato** e **função renal**.
+- **Síndrome de Lise Tumoral:** Explosão de células libera **Purinas** que viram **Ácido Úrico** e entopem os rins.
+- **Gota:** Não é apenas ácido úrico alto; exige **Cristais de Urato** e inflamação na articulação.
+- **Folato:** Essencial para a síntese de nucleotídeos; sua falta causa **Anemia Megaloblástica**.
+- **Via de Recuperação:** Permite reciclar bases livres, economizando o alto custo energético da via *de novo*.
 
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| CPS I ureia | CPS II pirimidina | Mitocôndria vs citoplasma; funções distintas. |
-| Hiperuricemia | Gota | Cristais + inflamação = gota. |
-| Metotrexato | 5-FU | Folato vs timidilato sintase — mecanismos diferentes. |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|----------------------|
+| **Xantina Oxidase**| **Alopurinol** | **Enzima** que gera urato vs **Droga** que a bloqueia |
+| **Purina** | **Pirimidina** | **A/G** (grande) vs **C/U/T** (pequeno) |
+| **Metotrexato** | **5-Fluorouracil** | Ataca o **Folato** vs Ataca a **Timidilato Sintase** |
+| **CPS I** | **CPS II** | **Ureia** (Mito) vs **Pirimidina** (Cito) |
 
 ### Frase-âncora para não esquecer
 

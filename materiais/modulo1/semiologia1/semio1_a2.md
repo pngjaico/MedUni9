@@ -1,4 +1,4 @@
-# Semiologia 1 — Aula 2: Anamnese Dirigida do Aparelho Locomotor
+# Semiologia 1 — Aula 2: Anamnese dirigida em queixas do aparelho locomotor
 
 **Disciplina:** Semiologia do Aparelho Locomotor  
 **Módulo:** 1
@@ -7,86 +7,119 @@
 
 ## Relevância Clínica e Acadêmica
 
-A anamnese dirigida transforma “dói o joelho” em lateralidade, mecanismo de lesão, tempo de evolução e impacto funcional. Enunciados de prova costumam trazer idade, esporte, febre ou cirurgia prévia; quem domina perguntas-chave fecha o diagnóstico diferencial antes do exame físico. Na prática, o tempo de consulta é curto — um roteiro mental reduz exames redundantes e erros de conduta.
-
+A **Anamnese Dirigida** é o filtro que transforma uma queixa vaga em um diagnóstico provável. Para a prova, domine o roteiro **OPQRST** adaptado ao aparelho locomotor e saiba diferenciar a distribuição das dores (**Mono**, **Oligo** ou **Poliarticular**). Na clínica, o seu papel é identificar o **Mecanismo do Trauma** e os **Antecedentes Sistêmicos** (como Psoríase ou Diabetes) que mudam completamente o prognóstico do paciente.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO1-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a seção de método de entrevista.
+- **O que mostrar:** roteiro visual em etapas para anamnese musculoesquelética: dor, função, mecanismo, antecedentes e red flags.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Passo a passo da anamnese dirigida no aparelho locomotor."
+- **Notas (opcional):** destacar que red flags podem aparecer em qualquer etapa.
 
 ---
 
-## OPQRST adaptado à queixa músculo-esquelética
+## Método de entrevista: do sintoma ao contexto
 
-| Letra | Pergunta útil |
-|-------|----------------|
-| O (Onset) | Início súbito ou gradual? Data aproximada? |
-| P (Provocation) | O que piora: carga, repouso, posição, esforço repetitivo? |
-| Q (Quality) | Dor em punhalada, queimação, peso, “travamento”? |
-| R (Radiation) | Irradia para membro, dorso, glúteo? Padrão dermatomal? |
-| S (Severity) | Escala 0–10; limita trabalho, sono, marcha? |
-| T (Timing) | Constante, intermitente, matinal, noturna? |
+O objetivo não é apenas registrar dor, mas entender o comportamento clínico dela. Comece com pergunta aberta, depois feche com perguntas objetivas. Essa alternância evita perda de informação relevante e melhora a precisão semiológica.
 
----
+| Etapa da entrevista | Pergunta central | Ganho clínico |
+|---------------------|------------------|---------------|
+| Queixa principal | "Onde dói e desde quando?" | Define foco anatômico e cronologia |
+| Caracterização | "Como é a dor e o que a modifica?" | Diferencia padrão mecânico, inflamatório e neuropático |
+| Função | "O que você deixou de conseguir fazer?" | Quantifica gravidade funcional |
+| Contexto | "Teve trauma, infecção, nova medicação?" | Direciona hipóteses etiológicas |
 
-## Mecanismo traumático: o que perguntar
-
-| Mecanismo | Estruturas frequentemente envolvidas |
-|-----------|----------------------------------------|
-| Torção / pivot em joelho | Menisco, ligamento cruzado anterior |
-| Queda em mão estendida | Punho, clavícula, ombro |
-| Hiperextensão cervical | Disco, facetas, ligamentos (contexto) |
-| Baixa energia em idoso | Fratura por fragilidade mesmo com mecanismo leve |
+> **Dica de Prova:** quando a dor "melhora ao movimentar" após rigidez matinal prolongada, valorize padrão inflamatório.
 
 ---
 
-## Padrão de articulações: mono, oligo ou poli
+## OPQRST adaptado para semiologia locomotora
 
-| Padrão | Número de articulações | Exemplos de linha de raciocínio |
-|--------|------------------------|----------------------------------|
-| Monoartrite | Uma | Séptica, gota, hemartrose traumática |
-| Oligoartrite | Poucas (2–4) | Espondiloartrite, algumas reativas |
-| Poliartrite | Muitas, frequentemente simétricas | Artrite reumatoide (suspeita), OA nodular (padrão diferente) |
-
----
-
-## Antecedentes que mudam a lista diagnóstica
-
-| Fator | Por que importa |
-|-------|-----------------|
-| Psoríase, colite, uveíte | Espondiloartrite / artrite psoriásica |
-| DM, imunossupressão | Infecção, Charcot (pé) |
-| Uso de fluoroquinolona | Ruptura tendínea (raro, mas cobrado) |
-| Anticoagulação | Risco em punção; hematoma |
+| Item | Foco da Pergunta | O que observar no registro |
+|------|------------------|----------------------------|
+| **O (Onset)** | Início súbito ou gradual? | Trauma agudo vs Doença degenerativa |
+| **P (Provocation)**| O que agrava ou alivia? | **Carga** (Mecânica) vs **Repouso** (Inflamatória) |
+| **Q (Quality)** | Como é o tipo de dor? | **Queimação** (Nervo) vs **Pontada** (Articulação) |
+| **R (Radiation)** | A dor se espalha? | Dermátomos (Radiculopatia) |
+| **S (Severity)** | Intensidade (Escala 0-10)| Impacto nas **Atividades de Vida Diária** |
+| **T (Timing)** | Quando dói mais? | Rigidez **Matinal** vs Cansaço **Vespertino** |
 
 ---
 
-## História ocupacional e esportiva
+## Mecanismo e energia do trauma
 
-Cargas repetitivas (digitador, vibrador, levantamento de peso) explicam tendinopatias sem achado sistêmico. Perguntar sobre ergonomia e pausas ajuda na conduta não farmacológica.
+Mecanismo de lesão não é detalhe: ele organiza a probabilidade pré-teste de cada hipótese. Torção com pé fixo em atleta jovem sugere lesão ligamentar ou meniscal; queda de baixa energia em idoso pode esconder fratura por fragilidade.
 
-> **Dica de Prova:** Mecanismo + idade definem prioridade: criança com claudicação afebril exige exclusão de causa grave (coxa pérvia, até prova em contrário, conforme protocolo).
+| Mecanismo | Estruturas mais suspeitas | Conduta inicial de raciocínio |
+|-----------|---------------------------|--------------------------------|
+| Torção com pivot | Menisco, LCA, cápsula | Priorizar estabilidade e derrame |
+| Impacto direto | Contusão, fratura cortical | Avaliar dor óssea focal e edema |
+| Hiperextensão | Lesão capsuloligamentar | Correlacionar com instabilidade |
+| Sobrecarga repetitiva | Tendão, bursa, entese | Relacionar com esporte/trabalho |
+
+> **Pegadinha:** ausência de trauma importante não exclui lesão relevante em idosos ou pacientes osteopênicos.
+
+---
+
+## Padrão de acometimento articular
+
+| Distribuição | Articulações | Principais Suspeitas |
+|---------------|-----------------|----------------------|
+| **Monoarticular**| **Apenas 1** | Infecção (Artrite Séptica), Cristal (Gota), Trauma |
+| **Oligoarticular**| **2 a 4** | Espondiloartrites, Artrite Reativa |
+| **Poliarticular** | **5 ou mais** | **Artrite Reumatoide**, Osteoartrite Generalizada |
+
+A simetria também importa: comprometimento bilateral e simétrico de pequenas articulações tem peso diferente de dor assimétrica em grandes articulações de carga.
+
+---
+
+## Antecedentes e exposições que mudam conduta
+
+A boa anamnese inclui antecedentes que alteram risco de infecção, doença inflamatória e eventos adversos terapêuticos.
+
+| Dado de contexto | Implicação clínica |
+|------------------|--------------------|
+| Psoríase, uveíte, doença intestinal inflamatória | Aumenta suspeita de espondiloartrite |
+| Diabetes e imunossupressão | Eleva risco de infecção osteoarticular |
+| Uso de corticoide crônico | Fragilidade óssea e risco de necrose |
+| Uso de anticoagulante | Impacta punção e risco de hematoma |
+
+---
+
+## Função e impacto na vida diária
+
+Registrar limitação funcional torna a evolução objetiva. Perguntas simples sobre marcha, escadas, sono, trabalho e autocuidado ajudam a estratificar gravidade e a monitorar resposta terapêutica.
+
+Quando a dor impede atividades básicas, mesmo sem diagnóstico fechado, o caso ganha prioridade de manejo e seguimento.
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO1-A2-F02`
+
+- **Momento:** após o bloco de impacto funcional.
+- **O que mostrar:** quadro resumido de atividades de vida diária úteis para monitorar evolução (marchar, agachar, subir escadas, vestir-se).
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Indicadores funcionais simples para acompanhar dor locomotora."
+- **Notas (opcional):** manter linguagem visual objetiva.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente jovem com dor inflamatória lombar, melhora com exercício e rigidez matinal prolongada — pensar espondiloartrite antes de rotular postura. Idoso com dor de quadril e perda ponderal — manter suspeita de neoplasia ou metástase na lista até dados clínicos e imagem adequados.
+Paciente de 28 anos com dor lombar há meses, pior em repouso, rigidez matinal de 50 minutos e melhora ao exercício: a anamnese já aponta para perfil inflamatório e direciona exame para sinais de espondiloartrite. Já em paciente de 67 anos com dor no quadril após queda da própria altura, dor óssea focal e limitação para apoio, a prioridade é excluir fratura por fragilidade.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- OPQRST adaptado a dor MSK.  
-- Monoartrite aguda: infecção e cristal no topo da triagem.  
-- Mecanismo e idade como priorizadores.  
-- Antecedentes sistêmicos e medicamentos.
+- **Distribuição:** Comece contando as articulações (**Mono vs Poli**) para afunilar o diagnóstico.
+- **Mecanismo:** Saiba se foi **Torção**, **Impacto Direto** ou **Sobrecarga** crônica.
+- **Simetria:** A bilateralidade simétrica em mãos é o "carimbo" da **Artrite Reumatoide**.
+- **Impacto Funcional:** Pergunte sobre sono e trabalho; dor que desperta à noite é sinal de alerta (**Red Flag**).
+- **Antecedentes:** Psoríase na pele pode significar **Artrite Psoriásica** nas articulações.
 
 ---
 
@@ -96,19 +129,18 @@ Paciente jovem com dor inflamatória lombar, melhora com exercício e rigidez ma
 
 ### Síntese para a prova
 
+- **Padrão Inflamatório:** Rigidez matinal > 30-60 min. Melhora com o movimento (**Aquecimento**).
+- **Padrão Mecânico:** Melhora com o repouso. Piora ao longo do dia com o uso da articulação.
+- **Monoartrite Aguda:** Sempre excluir **Infecção** antes de qualquer outra hipótese.
+- **Uveíte ou Psoríase:** Se o paciente tem isso, a dor articular provavelmente é uma **Espondiloartrite**.
 
-Diferenciar padrão mecânico, inflamatório e neuropático na história. Classificar monoartrite versus poliartrite.
-
-Perguntar sobre febre, peso, imunidade, viagens, DST. Documentar impacto funcional (escadas, trabalho, sono).
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Dor referida | Dor primária articular | Exame de outras regiões e visceral |
-| Entorse grau I | Fratura | Dor óssea focal, mecanismo, imagem |
-| Lombalgia mecânica | Espondiloartrite | Idade jovem, padrão inflamatório |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Monoartrite** | **Poliartite** | **Agudo/Cirúrgico** vs Crônico/Sistêmico |
+| **Dor Referida** | **Dor Irradiada** | Dor de outro órgão vs Dor seguindo o **Nervo** |
+| **Simétrico** | **Assimétrico** | Sistêmico (AR) vs Mecânico/Reativo |
+| **Red Flag** | **Sinal Clínico** | Perigo de morte/sequela vs Apenas achado do exame |
 
 ### Frase-âncora para não esquecer
 
-> “Anamnese boa reduz metade dos exames ruins.”
+> "Anamnese dirigida é diagnóstico em construção: padrão, mecanismo, distribuição e sinal de alarme."

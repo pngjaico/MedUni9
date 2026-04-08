@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As hérnias são protrusões de conteúdo (geralmente pré-peritoneal ou visceral) por ponto fraco anatômico. Você precisa dominar anatomia do canal inguinal (anel profundo/superficial, triângulo de Hesselbach), diferença inguinal x femoral, risco de estrangulamento (femoral alto) e estratégia de reparo (tela, TEP/TAPP, aberta). Em prova, timing (eletivo x urgência) e sinais de alarme são cobrança constante.
+As **hérnias** são protrusões de conteúdo (geralmente pré-peritoneal ou visceral) por **ponto fraco** anatômico. Você precisa dominar **anatomia do canal inguinal** (anel profundo/superficial, triângulo de Hesselbach), **diferença inguinal x femoral**, **risco de estrangulamento** (femoral alto) e **estratégia de reparo** (tela, TEP/TAPP, aberta). Em prova, **timing** (eletivo x urgência) e **sinais de alarme** são cobrança constante.
 
 ---
 
@@ -15,27 +15,27 @@ As hérnias são protrusões de conteúdo (geralmente pré-peritoneal ou viscera
 
 | Tipo | Local | Notas clínicas |
 |------|-------|----------------|
-| Inguinal indireta | Por anel inguinal profundo | Mais comum em jovens; segue canal |
-| Inguinal direta | Parede posterior (Hesselbach) | Associa-se a fraqueza da fáscia; idosos |
-| Femoral | Abaixo do ligamento inguinal, canal femoral | Menos frequente que inguinal; maior risco proporcional de estrangulamento |
-| Umbilical / epigástrica / Spigel | Pontos específicos da linha média / lateral | Obesidade, gravidez, ascite |
-| Incisional | Cicatriz prévia | Tensão + tecido fibroso frágil |
+| **Inguinal indireta** | Por anel inguinal profundo | Mais comum em jovens; segue canal |
+| **Inguinal direta** | Parede posterior (Hesselbach) | Associa-se a fraqueza da fáscia; idosos |
+| **Femoral** | Abaixo do ligamento inguinal, canal femoral | Menos frequente que inguinal; **maior risco proporcional** de estrangulamento |
+| **Umbilical / epigástrica / Spigel** | Pontos específicos da linha média / lateral | Obesidade, gravidez, ascite |
+| **Incisional** | Cicatriz prévia | Tensão + tecido fibroso frágil |
 
-> **Pegadinha:** Femoral é “pequena” na incidência, mas estrangula com frequência relativa maior — não subestime massa dolorosa inguino-crural em mulher idosa.
+> **Pegadinha:** **Femoral** é “pequena” na incidência, mas **estrangula** com frequência relativa maior — não subestime massa dolorosa inguino-crural em **mulher idosa**.
 
 ---
 
 ## Quadro clínico e exame físico
 
-Massa que aumenta com esforço ou tosse, frequentemente redutível. Dor súbita, irredutibilidade, náuseas e sinais sistêmicos → pense complicação. Exame em decúbito e ortostatismo; palpação do anel inguinal com tosse.
+Massa que **aumenta com esforço** ou tosse, frequentemente **redutível**. Dor súbita, irredutibilidade, náuseas e sinais sistêmicos → pense **complicação**. Exame em **decúbito** e **ortostatismo**; palpação do anel inguinal com tosse.
 
 ### Complicações: incarcerada x estrangulada
 
 | Estado | Definição prática | Urgência |
 |--------|-------------------|----------|
-| Redutível | Retorna ao abdome | Eletivo conforme sintomas |
-| Incarcerada | Não reduz, sem sinais de isquemia ainda | Urgência relativa — tentar reduzir com critério |
-| Estrangulada | Compromisso vascular do conteúdo | Emergência cirúrgica |
+| **Redutível** | Retorna ao abdome | Eletivo conforme sintomas |
+| **Incarcerada** | Não reduz, sem sinais de isquemia ainda | Urgência relativa — tentar reduzir com critério |
+| **Estrangulada** | Compromisso vascular do conteúdo | **Emergência cirúrgica** |
 
 ### Figura sugerida
 
@@ -50,7 +50,7 @@ Massa que aumenta com esforço ou tosse, frequentemente redutível. Dor súbita,
 
 ## Diagnóstico por imagem
 
-USG dinâmico é útil em dúvida ou obesidade. TC em suspeita de complicação, obstrução ou diagnóstico confuso. Em estragulamento, não “complete” investigação com exames demorados — estabilize e opere.
+**USG** dinâmico é útil em dúvida ou obesidade. **TC** em suspeita de complicação, obstrução ou diagnóstico confuso. Em **estragulamento**, não “complete” investigação com exames demorados — **estabilize** e **opere**.
 
 ### Figura sugerida
 
@@ -65,13 +65,13 @@ USG dinâmico é útil em dúvida ou obesidade. TC em suspeita de complicação,
 
 ## Tratamento (ideias de prova)
 
-Eletivo: reparo com tela em muitas técnicas modernas (Lichtenstein aberta; TEP/TAPP laparoscópicas). Urgência: laparotomia ou laparoscopia conforme experiência; revisar viabilidade intestinal se alça estrangulada.
+**Eletivo:** reparo com **tela** em muitas técnicas modernas (Lichtenstein aberta; **TEP/TAPP** laparoscópicas). **Urgência:** laparotomia ou laparoscopia conforme experiência; revisar **viabilidade intestinal** se alça estrangulada.
 
 ### Inguinal x femoral (decisão)
 
 | Pergunta | Implicação |
 |----------|------------|
-| Massa abaixo do ligamento inguinal medial? | Pensar femoral |
+| Massa abaixo do ligamento inguinal medial? | Pensar **femoral** |
 | Dor intensa + irredutível + obstrução? | Estrangulamento — tempo |
 | Bilateralidade suspeita? | Laparoscopia pode avaliar ambos os lados |
 
@@ -88,7 +88,7 @@ Eletivo: reparo com tela em muitas técnicas modernas (Lichtenstein aberta; TEP/
 
 ## Ponte com a Clínica
 
-Paciente idoso com dor inguino-crural intensa e massa irredutível com parada de eliminação de flatos não recebe apenas analgesia: cirurgia e avaliação de obstrução. O lactato e a perfusão periférica guiam gravidade.
+Paciente idoso com dor inguino-crural intensa e massa **irredutível** com parada de eliminação de flatos não recebe apenas analgesia: **cirurgia** e avaliação de **obstrução**. O **lactato** e a perfusão periférica guiam gravidade.
 
 ---
 
@@ -105,12 +105,11 @@ Paciente idoso com dor inguino-crural intensa e massa irredutível com parada de
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Nyhus/Rutkow** — ideia de classificação inguinal.
-- **Ligamento de Cooper** — referência em reparo femoral/McVay (conceito).
-- **TEP x TAPP** — laparoscopia inguinal (ideia geral).
-- **Descompressão** em abdome agudo associado — prioridade clínica.
+Na prova, lembre que Nyhus/Rutkow — ideia de classificação inguinal. Ligamento de Cooper — referência em reparo femoral/McVay (conceito).
+
+Para não errar em cenário clínico, considere também TEP x TAPP — laparoscopia inguinal (ideia geral). Descompressão em abdome agudo associado — prioridade clínica.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -124,14 +123,3 @@ Paciente idoso com dor inguino-crural intensa e massa irredutível com parada de
 ### Frase-âncora para não esquecer
 
 > “**Femoral pequena** pode **estrangular grande** alça.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione indicação, via de acesso e comorbidades (anticoagulação, fragilidade). Sempre que citar técnica, lembre consentimento e recursos do centro.
-
-### Leitura de reforço
-
-- Livro-texto de hérnia / cirurgia geral
-- Consenso de antibiótico profilático em cirurgia limpa-contaminada

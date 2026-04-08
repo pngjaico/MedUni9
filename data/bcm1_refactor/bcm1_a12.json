@@ -1,0 +1,232 @@
+[
+  {
+    "id": 832,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "qPCR quantifica amplificação principalmente por:",
+    "opcoes": [
+      "A) Detecção de fluorescência durante ciclos (proporcional ao produto).",
+      "B) Eletroforese final obrigatória sem leitura cinética.",
+      "C) Microscopia óptica.",
+      "D) Cultura bacteriana."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "qPCR — Ct; sondas ou SYBR.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: qPCR — fluorescência.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 833,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "Sequenciamento de nova geração (NGS) difere de Sanger principalmente por:",
+    "opcoes": [
+      "A) Usar apenas um primer.",
+      "B) Alto rendimento paralelo de milhões de fragmentos.",
+      "C) Não usar DNA molde.",
+      "D) Ser exclusivamente proteômico."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "NGS — paralelização; WES/WGS.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: NGS — throughput.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 834,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "CRISPR-Cas9 atua como:",
+    "opcoes": [
+      "A) DNA polimerase.",
+      "B) Ligase.",
+      "C) Sistema de edição gênica guiado por RNA para introduzir cortes dirigidos no DNA.",
+      "D) RNA polimerase II."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Cas9 — nuclease; gRNA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: CRISPR — edição.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 835,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "BLAST é ferramenta de bioinformática usada para:",
+    "opcoes": [
+      "A) Cultura de células-soma.",
+      "B) Western blot.",
+      "C) Apenas desenho de primers exclusivamente.",
+      "D) Alinhar sequências e buscar homologias em bases de dados."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "BLAST — similaridade de sequências.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: BLAST — alinhamento.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 836,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "Microarray de DNA mede tipicamente:",
+    "opcoes": [
+      "A) Massa proteica total.",
+      "B) Apenas metabolitos urinários.",
+      "C) Expressão gênica relativa por hibridização de cDNA a sondas fixas.",
+      "D) Potencial de membrana."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Microarray — transcriptoma; RNA → cDNA marcado.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Microarray — expressão.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 837,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "GWAS (estudo de associação do genoma completo) identifica:",
+    "opcoes": [
+      "A) Causa monogênica sempre.",
+      "B) Apenas vírus.",
+      "C) Karyotype em metáfase.",
+      "D) Variantes comuns associadas a traços ou doenças poligênicas."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "GWAS — SNPs; associação estatística.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: GWAS — SNPs.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 838,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "FISH (hibridização in situ fluorescente) permite:",
+    "opcoes": [
+      "A) Visualizar localização de sequências específicas em cromossomos/células.",
+      "B) Medir glicose sérica.",
+      "C) Cultivar vírus em ovo.",
+      "D) Dosar creatinina."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "FISH — translocações, microdeleções.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: FISH — localização.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 839,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "Biblioteca de DNA genômico para clonagem requer:",
+    "opcoes": [
+      "A) Apenas RNA viral.",
+      "B) Fragmentação do DNA e inserção em vetor (ex.: plasmídeo).",
+      "C) Síntese de proteína pura.",
+      "D) PCR sem primers."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Bibliotecas — fragmentos em vetores; screening.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Biblioteca — vetor.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 840,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "Western blot detecta:",
+    "opcoes": [
+      "A) RNA mensageiro.",
+      "B) DNA dupla-fita nativo.",
+      "C) Proteínas específicas por anticorpos após eletroforese e transferência.",
+      "D) Apenas lipídeos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Western — proteína; Northern RNA; Southern DNA.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Northern.",
+      "B": "Incorreta: Southern.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Western — proteína.\nA) INCORRETA. Incorreta: Northern.\nB) INCORRETA. Incorreta: Southern.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 841,
+    "materia": "bcm1",
+    "tema": "bcm1_a12",
+    "enunciado": "Southern blot é usado para:",
+    "opcoes": [
+      "A) Quantificar glicose.",
+      "B) Cultura de fungos.",
+      "C) PCR em tempo real.",
+      "D) Detectar sequências de DNA específicas após digestão e transferência para membrana."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Southern — DNA; Northern RNA; Western proteína.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Southern — DNA.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

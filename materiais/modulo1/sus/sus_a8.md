@@ -7,119 +7,120 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **Política Nacional de Atenção Básica (PNAB)** define diretrizes para a **APS** no Brasil, e a **Estratégia Saúde da Família (ESF)** é o modelo mais difundido de equipe multiprofissional adscrita ao território. Em prova, cobram-se **atributos essenciais da APS**, **composição mínima de equipe**, **territorialização** e **coordenação do cuidado**. Para o internato, isso vira **cadastro**, **visitas**, **grupos** e **linhas de cuidado** — o “SUS de verdade” no bairro.
-
+A **Estratégia Saúde da Família (ESF)** é a "menina dos olhos" do SUS. Para a prova, domine os **Atributos da APS** (Acesso, Longitudinalidade, Integralidade e Coordenação) e entenda que a Unidade Básica é a **Ordenadora da Rede**. Na clínica, a ESF permite que você conheça o paciente pelo nome, entenda sua família e seu território, transformando a medicina em um cuidado contínuo e não apenas episódico.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a apresentação dos atributos da APS.
+- **O que mostrar:** esquema de fluxo do cuidado na ESF: cadastro territorial, acolhimento, acompanhamento longitudinal e encaminhamento regulado.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "A APS coordenando o cuidado: entrada, seguimento e integração da rede."
+- **Notas (opcional):** manter poucos elementos para leitura rápida em celular.
+
+### Figura sugerida
+
+**Figura-ID:** `SUS-A8-F02`
+
+- **Momento:** após o bloco sobre microárea e ACS.
+- **O que mostrar:** mapa simplificado de território com microáreas e distribuição de risco sanitário para exemplificar priorização de visitas.
+- **Tipo sugerido:** infográfico territorial.
+- **Legenda (rascunho):** "Territorialização transforma cadastro em ação clínica e comunitária."
+- **Notas (opcional):** destacar ligação entre território e equidade.
 
 ---
 
-## APS: definição e atributos (atenção máxima)
+Os **Atributos de Starfield** são a bíblia da APS. Memorize para a prova:
+1.  **Acesso (Primeiro Contato):** Porta de entrada preferencial.
+2.  **Longitudinalidade:** Vínculo ao longo do tempo (Médico e paciente se conhecem).
+3.  **Integralidade:** Atender todas as necessidades (Prevenção ao tratamento).
+4.  **Coordenação:** Organizar o fluxo do paciente na rede (Referência/Contrarreferência).
 
-A APS é o **primeiro contato** da pessoa com o sistema e deve resolver a maior parte dos problemas de saúde, além de **coordenar** o cuidado integral. Atributos clássicos (memorize):
+> **Pulo do Gato:** Se a questão fala em "vínculo" e "acompanhamento por anos", o atributo é a **Longitudinalidade**. Se fala em "organizar a fila", é **Coordenação**.
 
-1. **Acesso de primeiro contato** — porta de entrada preferencial.
-2. **Longitudinalidade** — cuidado ao longo do tempo.
-3. **Coordenação do cuidado** — referência ordenada e continuidade.
-4. **Integralidade** — amplo leque de ações (promoção, prevenção, cura, reabilitação).
-5. **Orientação familiar e comunitária** — olhar ampliado do indivíduo.
+> **Dica de Prova:** Se o enunciado descreve repetidas idas ao pronto atendimento por doença crônica sem seguimento, o problema central costuma ser falha de longitudinalidade e coordenação da APS.
 
-> **Dica de Prova:** “Primeiro contato” não é “qualquer atendimento”: é **acesso preferencial na APS** com resolutividade e vínculo.
-
----
-
-## ESF: equipe e território
-
-A ESF trabalha com **território definido** e população adscrita. A equipe típica inclui **médico, enfermeiro, técnico/auxiliar de enfermagem**, e frequentemente **ACS** (Agente Comunitário de Saúde). Outros profissionais (dentista, NASF, etc.) ampliam resolutividade conforme PNAB vigente.
-
-> **Pegadinha:** ACS não substitui enfermagem/medicina: faz **vínculo**, **cadastro** e **encaminhamento** inteligente.
+> **Pegadinha:** A banca pode chamar qualquer posto de saúde de ESF. ESF pressupõe **território adscrito, equipe estruturada e responsabilidade sanitária definida**.
 
 ---
 
-## PNAB: o que a política reforça
+## PNAB na prática: da diretriz ao cotidiano da equipe
 
-A PNAB reforça **planejamento**, **educação permanente**, **qualidade**, **redução de iniquidades** e **integração com vigilância** e **urgência**. Também orienta **financiamento federal** vinculado a **incentivos** e **metas** (conforme período).
+A PNAB orienta o trabalho da atenção básica com foco em acesso, qualidade, vínculo e redução de iniquidades. Ela também articula planejamento local, educação permanente e avaliação de indicadores.
 
-### Comparativo rápido: APS forte vs APS fraca
+No SUS real, isso aparece em ações como:
 
-| APS forte | APS fraca |
-|-----------|-----------|
-| cadastro ativo e territorial | cadastro incompleto |
-| coordenação com especialistas | encaminhamento “em branco” |
-| vigilância integrada | vigilância separada do consultório |
-
----
-
-## Procedimentos e linhas de cuidado
-
-A APS organiza **hipertensão, diabetes, pré-natal, saúde mental, saúde bucal**, entre outros. A prova cobra **critérios de estadiamento**, **condutas** e **encaminhamento** quando há risco.
+- agenda combinando demanda espontânea e programada;
+- acompanhamento de linhas de cuidado prioritárias;
+- reuniões de equipe com discussão de casos complexos;
+- monitoramento de cobertura vacinal e condições crônicas;
+- pactuação com vigilância e rede de apoio social.
 
 ---
 
-## NASF e apoio matricial
+## ESF e composição de equipe: responsabilidade por território
 
-O **Núcleo de Apoio à Saúde da Família (NASF)** existe para **fortalecer a resolutividade** da equipe de ESF/APS com **apoio matricial**: psicologia, fisioterapia, nutrição, assistência social — conforme composição local. A ideia não é “substituir” a UBS, e sim **somar competências** em **projetos terapêuticos**, **grupos** e **visitas** compartilhadas.
+A equipe de ESF atua sobre população adscrita e precisa conhecer risco clínico e social do território. O arranjo multiprofissional aumenta resolutividade e evita cuidado episódico.
 
-> **Dica de Prova:** Apoio matricial é **método de trabalho** (caso clínico discutido em equipe), não apenas “mais um especialista passando consultório”.
+Além do núcleo mínimo, arranjos de apoio ampliam intervenção em saúde mental, reabilitação, nutrição e cuidado social, sempre com lógica de compartilhamento de caso e não mera soma de atendimentos paralelos.
+
+### Tabela útil: APS forte versus APS frágil no SUS real
+
+| Elemento | APS forte | APS frágil |
+|----------|-----------|------------|
+| **Cadastro** | Atualizado e para **busca ativa** | Apenas nominal e passivo |
+| **Crônicos** | Monitoramento constante (ESF) | Apenas consulta eventual |
+| **Referência** | Fluxo com **contrarreferência** | Encaminhamento "solto" |
+| **Vigilância** | Ação territorial e vigilante | Centrada no hospital |
 
 ---
 
-## Microárea, ACS e cadastro: vínculo operacional
+## Microárea, ACS e territorialização inteligente
 
-A **microárea** fragmenta o território para **responsabilização** do ACS e da equipe. O **cadastro** ativo identifica gestantes, crianças, hipertensos e outros grupos — base para **busca ativa** e **indicadores**. Sem cadastro, a APS vira **demanda espontânea** sem planejamento.
+A microárea permite dividir responsabilidade sanitária e organizar vigilância ativa. O ACS é peça central para identificar gestantes sem pré-natal, abandono terapêutico, condições habitacionais críticas e barreiras de acesso.
 
-> **Pegadinha:** “Cadastro é burocracia” — na prova, cadastro é **instrumento de equidade** e **priorização**.
+Sem territorialização, a APS tende a funcionar por demanda passiva; com territorialização, ela antecipa risco e atua preventivamente.
+
+Exemplo prático no SUS real: aumento de faltas em consultas de puericultura pode sinalizar barreira de transporte ou conflito de horário com trabalho informal. A equipe replaneja agenda e ação comunitária em vez de apenas registrar "não adesão".
 
 ---
 
-## Vigilância em saúde integrada à APS
+## Coordenação do cuidado e regulação
 
-Na APS, vigilância não é só central estadual: inclui **notificação**, **acompanhamento de agregados** e **ações de bloqueio** (vacina, orientação, encaminhamento). Integrar vigilância ao consultório evita **surto invisível** e **tratamento individualizado sem contexto**.
+Coordenar não é só encaminhar. É garantir que o usuário chegue ao ponto de atenção adequado, com informação clínica suficiente, e retorne para seguimento longitudinal na APS.
+
+Quando a coordenação funciona:
+
+- há menos duplicidade de exames;
+- há mais segurança medicamentosa;
+- o tempo de resposta da rede melhora;
+- o usuário entende seu plano terapêutico.
 
 ---
 
 ## Ponte com a Clínica
 
-Quando você **fecha o diagnóstico** na UBS e **evita ida desnecessária ao PS**, você economiza recursos e reduz **risco iatrogênico**. Quando faz **encaminhamento** com **resumo clínico**, você sustenta a **coordenação** — atributo central da APS.
+Paciente com hipertensão e diabetes descompensadas, múltiplas idas ao pronto atendimento e baixa adesão. A solução não é apenas intensificar prescrição: é reorganizar seguimento na ESF, mapear barreiras familiares e sociais, incluir educação em saúde e coordenar avaliação especializada quando necessário.
+
+Esse é o núcleo da PNAB aplicada: cuidado contínuo, territorial e orientado por risco, com a APS como coordenadora da rede.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **APS:** atributos essenciais (acesso, longitudinalidade, coordenação, integralidade, familiar/comunitário).
-- **ESF:** equipe + território + vínculo.
-- **PNAB:** diretrizes nacionais da atenção básica.
-- **ACS:** função de vínculo e territorialidade.
+- **Territorialização:** Dividir a cidade em pedaços e dar um "dono" (equipe) para cada pedaço.
+- **ACS (Agente Comunitário):** O elo entre a comunidade e a UBS. Faz a **Busca Ativa**.
+- **Adscrição:** O ato de cadastrar as pessoas de um território em uma equipe específica.
+- **NASF (eNASF):** Equipe multiprofissional (Fisio, Psico, Nutri) que dá suporte à ESF.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-PNAB normatiza a APS; ESF é estratégia de equipe. Primeiro contato e longitudinalidade são pilares.
-
-Territorialização: adscrição de população. NASF: apoio matricial (reforço) — não confundir com substituição da APS.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| APS | Urgência | APS é cuidado longitudinal; urgência é episódico e para agravos agudos. |
-| ESF | Posto sem território | ESF pressupõe **território** e **equipe mínima** vinculada. |
-| Coordenação | Apenas encaminhar papel | Coordenação exige **informação** e **retorno** planejado. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Longitudinalidade**| **Continuidade** | Vínculo no tempo vs Apenas não interromper |
+| **APS** | **Atenção Básica** | Termos usados como sinônimos no Brasil (PNAB)|
+| **Integralidade** | **Integracionalidade**| Atender tudo vs Unir serviços da rede |
+| **Demanda Espontânea**| **Demanda Programada**| O que chega na hora vs O que é agendado |
 
 ### Frase-âncora para não esquecer
 
-> “APS não é ‘consulta barata’ — é sistema que segura a rede.”
+> "APS é o centro de comunicação da rede; sem ela, o paciente vira um náufrago no SUS." 

@@ -12,6 +12,17 @@ A **hemostasia** integra **vaso**, **plaquetas** e **cascata de coagulação** (
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A8-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Fisiologia resumida (mapa)
 
 | Componente | Função principal | Pista clínica de falha |
@@ -109,13 +120,13 @@ Paciente com **hematoma expansivo** pós-pequeno trauma e **TTPa isoladamente lo
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Algoritmo **TP / TTPa / plaquetas**.  
-- **Mistura** para TTPa prolongado.  
-- Padrão **hemofilia** (TTPa longo, TP ok).  
-- **DIC** não é só “dímero alto”.  
-- **Vitamina K** e **fígado** no paciente com **INR** alto.
+Algoritmo TP / TTPa / plaquetas. Mistura para TTPa prolongado.
+
+Padrão hemofilia (TTPa longo, TP ok). DIC não é só “dímero alto”.
+
+Vitamina K e fígado no paciente com INR alto.
 
 ### Diferenciações que a Uninove adora cobrar
 

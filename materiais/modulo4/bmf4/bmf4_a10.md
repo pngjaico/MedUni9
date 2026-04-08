@@ -106,17 +106,15 @@ Punção lombar: realizada em L3–L4 ou L4–L5 — abaixo do cone medular, ati
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Medula termina em L1–L2 no adulto; abaixo = cauda equina. Corno ventral = NMI (alfa e gama motoneurônios); lesão = paralisia flácida.
-
-Funículo posterior: propriocepção e tato epicrítico (fascículos grácil e cuneiforme). 8 nervos cervicais, 7 vértebras: C8 sai entre C7 e T1.
-
-Punção lombar em L3–L4 ou L4–L5 — abaixo do cone, seguro. Brown-Séquard: deficits ipsilaterais (motor + propriocepção) e contralateral (dor/temp).
+- **Medula termina em L1–L2** no adulto; abaixo = cauda equina.
+- **Corno ventral = NMI** (alfa e gama motoneurônios); lesão = paralisia flácida.
+- **Funículo posterior:** propriocepção e tato epicrítico (fascículos grácil e cuneiforme).
+- **8 nervos cervicais, 7 vértebras:** C8 sai entre C7 e T1.
+- **Punção lombar em L3–L4 ou L4–L5** — abaixo do cone, seguro.
+- **Brown-Séquard:** deficits ipsilaterais (motor + propriocepção) e contralateral (dor/temp).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,5 +126,4 @@ Punção lombar em L3–L4 ou L4–L5 — abaixo do cone, seguro. Brown-Séquard
 | Cauda equina | Cone medular | Cauda: raízes (NMI); Cone: medula real, pode dar NMS + NMI |
 
 ### Frase-âncora para não esquecer
-
 > "A medula acaba em L1–L2 — abaixo só raízes, então punção em L4 é segura como picar no oceano sem medula por perto."

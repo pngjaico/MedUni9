@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **tronco encefálico** concentra estruturas vitais (centros respiratório e cardiovascular), 10 dos 12 pares de nervos cranianos e vias motoras e sensitivas longas. Uma lesão pequena aqui causa quadros devastadores. A síndrome alterna — NC ipsilateral + piramidal contralateral — é a marca registrada do tronco e é amplamente cobrada em questões de localização neurológica.
+O tronco encefálico concentra estruturas vitais (centros respiratório e cardiovascular), 10 dos 12 pares de nervos cranianos e vias motoras e sensitivas longas. Uma lesão pequena aqui causa quadros devastadores. A síndrome alterna — NC ipsilateral + piramidal contralateral — é a marca registrada do tronco e é amplamente cobrada em questões de localização neurológica.
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ O **tronco encefálico** concentra estruturas vitais (centros respiratório e ca
 
 ## Divisões do Tronco Encefálico
 
-O **tronco encefálico** tem três segmentos, de superior para inferior:
+O tronco encefálico tem três segmentos, de superior para inferior:
 
 1. **Mesencéfalo** — mais superior, abaixo do diencéfalo.
 2. **Ponte** — médio, volumoso, com cerebelo posterior.
@@ -120,22 +120,20 @@ Localiza-se posterior à ponte e ao bulbo, anterior ao cerebelo. Comunica-se com
 
 ## Ponte com a Clínica
 
-O **tronco encefálico** é território de risco isquêmico do sistema vértebro-basilar. AVC de tronco pode causar "locked-in": tetraplegia + anartria com consciência preservada (lesão pontina ventral bilateral). GCS pode ser 15 com o paciente completamente paralisado. Diagnóstico por RM — **TC** frequentemente negativa nas primeiras horas.
+O tronco encefálico é território de risco isquêmico do sistema vértebro-basilar. AVC de tronco pode causar "locked-in": tetraplegia + anartria com consciência preservada (lesão pontina ventral bilateral). GCS pode ser 15 com o paciente completamente paralisado. Diagnóstico por RM — TC frequentemente negativa nas primeiras horas.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Mesencéfalo: NC III (ant., pupila) e NC IV (dorsal, oblíquo superior). Ponte: NC V a VIII. PPRF = olhar horizontal.
-
-Bulbo: NC IX–XII, pirâmides, decussação, oliva. Síndrome alterna = NC ipsi + via longa contra → localiza no tronco.
-
-Wallenberg (PICA/bulbo lat.): ataxia ipsi + dor/temp contra, sem hemiplegia. Substância negra: dopamina → Parkinson.
+- **Mesencéfalo:** NC III (ant., pupila) e NC IV (dorsal, oblíquo superior).
+- **Ponte:** NC V a VIII. PPRF = olhar horizontal.
+- **Bulbo:** NC IX–XII, pirâmides, decussação, oliva.
+- **Síndrome alterna = NC ipsi + via longa contra** → localiza no tronco.
+- **Wallenberg (PICA/bulbo lat.):** ataxia ipsi + dor/temp contra, sem hemiplegia.
+- **Substância negra:** dopamina → Parkinson.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -147,5 +145,4 @@ Wallenberg (PICA/bulbo lat.): ataxia ipsi + dor/temp contra, sem hemiplegia. Sub
 | Locked-in | Coma | Locked-in: consciência preservada, só pisca; coma: sem consciência |
 
 ### Frase-âncora para não esquecer
-
 > "Tronco = cruzamento de estradas: NC ipsi + via longa contra = sindrome alterna = lesão aqui."

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Os 12 pares de nervos cranianos são a apresentação mais cobrada da neuroanatomia na **Uninove**. Cada par tem número romano, nome, tipo de fibras, ponto de saída do crânio e função clínica — e a prova adora misturar esses atributos. Uma lesão do NC III cause ptose + midríase + estrabismo divergente. Uma lesão do NC VII causa paralisia facial periférica (toda hemifaciface). Dominar esses pares é essencial para a semiologia neurológica que vem nos módulos seguintes.
+Os 12 pares de nervos cranianos são a apresentação mais cobrada da neuroanatomia na Uninove. Cada par tem número romano, nome, tipo de fibras, ponto de saída do crânio e função clínica — e a prova adora misturar esses atributos. Uma lesão do NC III cause ptose + midríase + estrabismo divergente. Uma lesão do NC VII causa paralisia facial periférica (toda hemifaciface). Dominar esses pares é essencial para a semiologia neurológica que vem nos módulos seguintes.
 
 ### Figura sugerida
 
@@ -69,7 +69,7 @@ Para o tipo: **"Sensitivo Motor Ambos — Some Say Marry Money But My Brother Sa
 
 ## Vias Descendentes — Controle Motor
 
-As vias descendentes levam comandos motores do córtex e **tronco encefálico** até os motoneurônios inferiores. As principais:
+As vias descendentes levam comandos motores do córtex e tronco encefálico até os motoneurônios inferiores. As principais:
 
 | Via | Origem | Função | Decussação |
 |-----|--------|--------|-----------|
@@ -109,17 +109,17 @@ Aneurisma de artéria comunicante posterior comprime o NC III → midríase + pt
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-NC III: oculomotor — ptose + midríase + olho "para baixo e fora" em lesão completa. NC VII periférico vs central: periférico = fronte comprometida; central (AVC) = fronte poupada. NC V3: único ramo motor do trigêmeo — mastigação; mandíbula desvia para lado da lesão.
-
-NC X: lesão = rouquidão + disfagia + ausência de reflexo nauseoso. NC XI: esternocleido + trapézio; NC XII: língua (desvia para lado da lesão). Trato corticospinal lateral: decussa nas pirâmides → déficit contralateral na lesão cortical.
-
-Herniação uncal → comprime NC III → midríase ipsilateral: sinal de alerta. Cápsula interna: AVC pequeníssimo → hemiplegia densa completa.
+- **NC III:** oculomotor — ptose + midríase + olho "para baixo e fora" em lesão completa.
+- **NC VII periférico vs central:** periférico = fronte comprometida; central (AVC) = fronte poupada.
+- **NC V3:** único ramo motor do trigêmeo — mastigação; mandíbula desvia para lado da lesão.
+- **NC X:** lesão = rouquidão + disfagia + ausência de reflexo nauseoso.
+- **NC XI:** esternocleido + trapézio; NC XII: língua (desvia para lado da lesão).
+- **Trato corticospinal lateral:** decussa nas pirâmides → déficit contralateral na lesão cortical.
+- **Herniação uncal → comprime NC III → midríase ipsilateral:** sinal de alerta.
+- **Cápsula interna:** AVC pequeníssimo → hemiplegia densa completa.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -131,5 +131,4 @@ Herniação uncal → comprime NC III → midríase ipsilateral: sinal de alerta
 | Lesão acima da decussação | Lesão abaixo da decussação | Acima (cortical): déficit contralateral; Abaixo (medular): déficit ipsilateral |
 
 ### Frase-âncora para não esquecer
-
 > "NC III é o 'chefão' do olho — ele perde o emprego primeiro na herniação e leva pupila, pálpebra e quatro músculos junto."

@@ -1,107 +1,99 @@
-# Acessos Venosos
+# Acessos venosos: periférico e central
 
 ## Relevância Clínica e Acadêmica
 
-Obter acesso venoso com segurança e habilidade essencial para todo médico.
-No contexto de técnica operatória, o aluno deve dominar tanto punção periférica quanto principios do acesso central.
-Mais importante que "acertar de primeira" e executar com assepsia, indicação correta e vigilancia de complicações.
+Acesso venoso é procedimento transversal da medicina e aparece cedo em avaliação prática.
+Na técnica operatória, o aluno deve dominar desde punção periférica segura até fundamentos do acesso central por técnica de Seldinger.
+A diferença entre procedimento correto e iatrogênico está em indicação, assepsia, execução padronizada e vigilância de complicações.
 
-## Acesso venoso periférico: fundamentos práticos
+## Acesso venoso periférico
 
-Indicações comuns:
-- hidratação e medicação endovenosa;
-- coleta seriada de exames;
-- reposição volêmica em situações selecionadas.
+O periférico resolve grande parte das necessidades de terapia intravenosa no ambiente hospitalar.
+A escolha do sítio e do calibre deve considerar objetivo terapêutico, fluxo necessário e preservação de veias.
 
-Escolha de veia e calibre:
-- priorizar veias retilineas e palpaveis;
-- ajustar calibre do cateter ao objetivo terapêutico;
-- evitar puncionar articulações quando ha alternativa.
+| Etapa | Conduta recomendada | Erro comum |
+|-------|----------------------|------------|
+| Seleção de veia | Veia retilínea, palpável e de bom enchimento | Punção repetida em área inadequada |
+| Antissepsia | Tempo de contato e secagem corretos | Punção antes de secagem do antisséptico |
+| Ângulo de entrada | Ajustado ao plano da veia | Ângulo alto com transfixação |
+| Avanço do cateter | Avançar após refluxo sanguíneo | Retirar e repuncionar sem necessidade |
+| Fixação | Curativo estável e identificação | Fixação frouxa e perda precoce do acesso |
 
-Passo a passo:
-1. Higiene de maos e antissepsia local.
-2. Garroteamento e identificação da veia.
-3. Puncao com angulo adequado.
-4. Avanco do cateter após refluxo.
-5. Fixação estavel e teste de perviedade.
+> **Dica de Prova:** periférico bem feito é sempre preferível antes de escalar para acesso central sem indicação forte.
+>
+> **Pegadinha:** “não conseguiu de primeira, então é central” é raciocínio incompleto; primeiro reavalie técnica e estratégia periférica.
+
+### Figura sugerida
+
+**Figura-ID:** `TCAR-A10-F01`
+
+- **Momento:** após tabela de etapas do acesso periférico.
+- **O que mostrar:** punção periférica com destaque para ângulo de entrada, refluxo e avanço do cateter.
+- **Tipo sugerido:** ilustração procedimental.
+- **Legenda (rascunho):** Sequência correta da punção periférica reduz falhas e trauma venoso.
 
 ## Acesso venoso central e técnica de Seldinger
 
-Acesso central e indicado quando:
-- necessidade de droga vasoativa;
-- monitorização especifica;
-- acesso periférico inadequado;
-- terapia venosa prolongada em cenarios selecionados.
+O acesso central é indicado em cenários específicos: drogas vasoativas, monitorização hemodinâmica, terapias prolongadas ou dificuldade periférica persistente.
+A técnica de Seldinger organiza o procedimento em etapas reprodutíveis e seguras.
 
-Etapas gerais da técnica de Seldinger:
-- puncao da veia alvo;
-- introdução do fio-guia;
-- retirada da agulha mantendo guia;
-- dilatação;
-- passagem do cateter;
-- retirada do guia e fixação.
+Sequência clássica:
 
-| Etapa crítica | Risco se falhar |
-|---|---|
-| Antissepsia e barreira maxima | infecção relacionada a cateter |
-| Identificação correta de vaso | punção arterial acidental |
-| Controle do fio-guia | perda do guia/complicação mecânica |
-| Confirmação de posição | infusão em local inadequado |
+1. Punção venosa guiada por marcos anatômicos e/ou ultrassom.
+2. Introdução do fio-guia com controle contínuo.
+3. Retirada da agulha mantendo guia estável.
+4. Dilatação do trajeto conforme necessidade.
+5. Progressão do cateter sobre o guia.
+6. Retirada do guia, fixação e curativo estéreo.
+7. Confirmação de posição e vigilância de complicações.
+
+| Etapa crítica da Seldinger | Risco se falhar | Medida de segurança |
+|----------------------------|-----------------|---------------------|
+| Punção do vaso alvo | Punção arterial acidental | Técnica cuidadosa e confirmação do vaso |
+| Controle do fio-guia | Perda de guia/lesão | Nunca perder contato manual com a extremidade |
+| Barreiras máximas | Infecção relacionada ao cateter | Campos amplos, paramentação completa e antissepsia rigorosa |
+| Confirmação pós-inserção | Posição inadequada da ponta | Checagem por método institucional |
+
+> **Dica de OSCE:** ao descrever Seldinger, cite explicitamente “controle do fio-guia” e “confirmação de posição” para pontuar segurança.
+>
+> **Pegadinha:** tratar passagem do cateter como “procedimento encerrado” sem etapa obrigatória de conferência final.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A10-F01`
+**Figura-ID:** `TCAR-A10-F02`
 
 - **Momento:** após tabela da técnica de Seldinger.
-- **O que mostrar:** sequência agulha -> fio-guia -> dilatador -> cateter.
-- **Tipo sugerido:** esquema procedimental.
-- **Legenda (rascunho):** Etapas basicas do acesso central por Seldinger.
+- **O que mostrar:** esquema em sequência agulha → fio-guia → dilatador → cateter, com foco em controle do guia.
+- **Tipo sugerido:** esquema técnico sequencial.
+- **Legenda (rascunho):** Seldinger padroniza o acesso central e reduz eventos mecânicos quando cada etapa é respeitada.
 
-## Complicações que o aluno deve reconhecer cedo
+## Complicações e prevenção
 
-Complicações mecânicas:
-- hematoma local;
-- punção arterial;
-- pneumotorax (em acessos torácicos);
-- mal posicionamento do cateter.
+Complicações mecânicas incluem hematoma, punção arterial, pneumotórax (dependendo do sítio) e mau posicionamento de cateter.
+Complicações infecciosas e trombóticas aumentam com tempo de permanência e manipulação inadequada.
 
-Complicações infecciosas:
-- colonização de insercao;
-- bacteremia associada a cateter.
+Medidas preventivas essenciais:
 
-Complicações tromboticas:
-- trombose venosa associada a permanencia prolongada.
-
-Condutas de segurança:
-- usar checklist de insercao;
-- registrar data e local de insercao;
-- reavaliar necessidade de manter o cateter diariamente;
-- remover acesso desnecessário o quanto antes.
-
-### Figura sugerida
-
-**Figura-ID:** `TO-A10-F02`
-
-- **Momento:** após bloco de complicações.
-- **O que mostrar:** comparativo de posicionamento correto e incorreto da ponta do cateter central.
-- **Tipo sugerido:** esquema radiologico simplificado.
-- **Legenda (rascunho):** Confirmação de posição reduz eventos adversos de infusão.
+- checklist de inserção e manutenção;
+- revisão diária de necessidade do cateter;
+- assepsia rigorosa em manipulações;
+- retirada precoce quando não houver mais indicação.
 
 ## Ponte com a Clínica
 
-Em paciente grave, acesso venoso adequado muda desfecho porque viabiliza condutas críticas no tempo certo.
-Por outro lado, acesso mal indicado ou mal cuidado vira fonte de complicação.
-A técnica correta inclui insercao, manutencao e retirada oportuna.
+Em paciente crítico, acesso venoso adequado impacta diretamente tempo de tratamento e segurança terapêutica.
+No cuidado diário, complicações evitáveis costumam estar ligadas a falhas básicas: indicação frouxa, técnica sem padronização e manutenção inadequada.
+Na formação prática, dominar periférico e central com critério reduz iatrogenias e melhora desfechos.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- Acesso venoso e decisão clínica, não apenas gesto tecnico.
-- Puncao periférica bem feita evita escalonar sem necessidade.
-- Central exige assepsia rigorosa e técnica padronizada.
-- Confirmar posição e parte obrigatoria do procedimento.
-- Quanto mais tempo o cateter fica sem indicação, maior o risco.
+- Periférico é primeira escolha na maioria dos cenários.
+- Central deve ter indicação clínica clara.
+- Técnica de Seldinger exige controle contínuo do fio-guia.
+- Confirmação da posição do cateter é etapa obrigatória.
+- Revisão diária de necessidade reduz infecção e trombose.
 
 ---
 
@@ -111,19 +103,21 @@ A técnica correta inclui insercao, manutencao e retirada oportuna.
 
 ### Síntese para a prova
 
-Nesta aula, conecte indicação ao tipo de acesso.
-Periferico resolve grande parte das necessidades quando bem executado e bem fixado.
-Central e reservado para cenarios especificos e deve seguir técnica de Seldinger com barreira maxima.
-Raciocinio completo inclui prevenir, reconhecer e tratar complicações de forma precoce.
+Quando a banca aborda acesso venoso, o raciocínio começa na indicação: usar o menor nível de invasividade capaz de resolver a necessidade clínica. Acesso periférico bem executado cobre grande parte das situações, desde que haja técnica de punção, fixação e monitoramento adequados.
+
+No acesso central, a técnica de Seldinger é frequentemente cobrada como sequência lógica de segurança. O ponto mais lembrado em prova prática é não perder o controle do fio-guia durante nenhuma etapa, seguido da confirmação de posição do cateter antes de uso pleno.
+
+Complicações não são “azar do procedimento”; muitas são preveníveis com barreira máxima, checklist e revisão diária de necessidade. Em resumo, acesso venoso seguro combina boa indicação, execução padronizada e manutenção responsável.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Acesso periférico | Acesso central | periférico para uso habitual; central para necessidade crítica/especifica |
-| Puncao venosa | Puncao arterial acidental | refluxo, pressão e comportamento do vaso orientam diferenciação |
-| Cateter necessário | Cateter mantido sem indicação | revisar diariamente para reduzir infecção e trombose |
+|------------|------------|-----------------|
+| Acesso periférico | Acesso central | Periférico para maioria dos usos; central para indicações específicas de maior complexidade |
+| Punção venosa | Punção arterial acidental | Fluxo, pressão e características do vaso orientam reconhecimento |
+| Inserção correta | Manutenção inadequada | Inserção é só o início; risco aumenta sem cuidado diário |
+| Cateter indicado | Cateter sem indicação atual | Reavaliação diária define permanência segura |
 
 ### Frase-âncora para não esquecer
 
-> "Acesso venoso seguro e o que atende a necessidade com o menor risco."
+> "Bom acesso venoso é o necessário, no tempo certo, com o menor risco."

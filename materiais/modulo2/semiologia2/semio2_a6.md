@@ -1,114 +1,189 @@
 ﻿# SEMIO2 — Aula 6: Prática Simulada — Manequins e Pacientes Padronizados
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Semiologia Cardiovascular e Respiratória  
+**Módulo:** 2 | **Tempo de estudo sugerido:** 25-35 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Prática simulada é cobrada porque transforma teoria em habilidade observável. A **Uninove** costuma valorizar capacidade técnica, comunicação com paciente padronizado e organização do exame sob tempo limitado. Não basta saber o conceito; é preciso executar corretamente.
+A prática simulada é o momento em que a semiologia deixa de ser apenas conteúdo teórico e passa a ser desempenho observável. Em prova prática, a banca avalia sequência técnica, comunicação com paciente padronizado, raciocínio clínico e postura profissional.
 
-Na prática médica, simulação reduz erro inicial e melhora segurança antes do contato com paciente real.
+No internato e no plantão, essa base reduz erros evitáveis: você examina com método, explica o que está fazendo e transforma achados em conduta inicial segura.
 
+> **Dica de Prova:** em OSCE, uma sequência lógica e reprodutível costuma valer mais do que termos sofisticados sem execução adequada.
 
+> **Pegadinha:** iniciar ausculta sem higiene das mãos, sem identificação e sem consentimento explícito.
 
+## Roteiro de simulação (fluxo prático da estação)
+
+1. **Entrada na estação (20-30 segundos):** cumprimente, identifique-se, confirme o nome do paciente e explique o objetivo do exame.
+2. **Segurança e preparo:** higiene das mãos, organização do estetoscópio, posicionamento do paciente e garantia de privacidade.
+3. **Anamnese dirigida (1-2 minutos):** queixa principal, início, fatores de piora/melhora e sintomas associados (dispneia, dor torácica, tosse, palpitações).
+4. **Inspeção e sinais gerais:** frequência respiratória, padrão ventilatório, cianose, uso de musculatura acessória e edema periférico.
+5. **Ausculta respiratória sistemática:** de ápices a bases, com comparação bilateral, incluindo região posterior quando indicado.
+6. **Ausculta cardíaca sistemática:** focos clássicos, ritmo, frequência, bulhas, sopros e manobras simples orientadas.
+7. **Síntese verbal final:** apresente achados principais, hipótese sindrômica inicial e próximo passo.
+8. **Fechamento profissional:** agradeça, garanta conforto, higienize as mãos novamente e encerre com respeito.
+
+## Objetivos por estação
+
+### Estação 1 — Técnica de ausculta respiratória
+
+- Executar ausculta em sequência padronizada e comparativa bilateral.
+- Diferenciar murmúrio vesicular fisiológico de ruídos adventícios.
+- Correlacionar achados com síndrome provável (obstrutiva, restritiva, consolidação, derrame pleural).
+
+### Estação 2 — Técnica de ausculta cardíaca
+
+- Posicionar campânula e diafragma corretamente nos focos.
+- Reconhecer ritmo regular/irregular, bulhas normais e alterações grosseiras.
+- Identificar sopro relevante e descrevê-lo em linguagem semiológica básica (tempo, foco, irradiação inicial).
+
+### Estação 3 — Comunicação com paciente padronizado
+
+- Traduzir linguagem técnica para explicação clara e respeitosa.
+- Demonstrar empatia, escuta ativa e validação de desconforto.
+- Explicar conduta inicial sem alarmismo e sem falsa garantia.
+
+### Estação 4 — Integração clínica e feedback
+
+- Construir síntese de 30-60 segundos com hipótese sindrômica.
+- Priorizar risco imediato (desconforto respiratório, instabilidade hemodinâmica, dor torácica sugestiva de gravidade).
+- Receber feedback sem defensividade e definir plano de melhoria.
+
+## Checklist de técnica de ausculta (pronto para treino)
+
+### Checklist de ausculta respiratória
+
+- [ ] Higienizar as mãos antes do contato.
+- [ ] Expor o tórax de forma ética, mantendo privacidade.
+- [ ] Solicitar respiração pela boca em ritmo confortável.
+- [ ] Iniciar em região superior e descer em pontos simétricos.
+- [ ] Comparar lado direito e esquerdo em cada nível.
+- [ ] Diferenciar som normal de sibilos, roncos, estertores ou atrito pleural.
+- [ ] Registrar intensidade, localização e fase respiratória predominante.
+- [ ] Repetir ponto duvidoso antes de concluir.
+
+### Checklist de ausculta cardíaca
+
+- [ ] Posicionar o paciente em decúbito e, quando útil, em leve inclinação.
+- [ ] Auscultar focos aórtico, pulmonar, tricúspide e mitral com método.
+- [ ] Avaliar frequência e regularidade do ritmo.
+- [ ] Identificar bulhas B1 e B2 com segurança.
+- [ ] Pesquisar sopros com diafragma e campânula quando necessário.
+- [ ] Relatar achados de forma objetiva, sem superinterpretação.
+
+## Comunicação com paciente padronizado
+
+A estação não mede apenas técnica. Mede também clareza, ética e segurança comunicativa. O estudante que explica cada etapa reduz ansiedade do paciente e melhora cooperação durante o exame.
+
+Boas práticas:
+
+- Apresentar-se com nome e função.
+- Pedir permissão antes de tocar.
+- Avisar o que será feito em cada etapa.
+- Checar conforto térmico e dor durante as manobras.
+- Encerrar com resumo em linguagem simples.
+
+Frases úteis em estação:
+
+- "Vou ouvir seu pulmão em alguns pontos para comparar os dois lados, tudo bem?"
+- "Se sentir dor ou tontura, me avise imediatamente."
+- "Terminei o exame físico; agora vou resumir o que encontrei."
+
+## Erros comuns e correção imediata
+
+| Erro comum | Impacto na avaliação | Correção prática imediata |
+|------------|----------------------|---------------------------|
+| Ausculta sem comparação bilateral | Perda de sensibilidade para assimetria | Repetir pontos em pares (direita/esquerda) |
+| Pressa excessiva | Aumenta risco de falso negativo | Reduzir velocidade e padronizar sequência |
+| Jargão sem explicação | Queda em comunicação e empatia | Traduzir termos técnicos para linguagem simples |
+| Não higienizar as mãos | Falha grave de segurança | Higienizar antes e depois, sempre |
+| Fechar diagnóstico cedo demais | Erro de raciocínio | Apresentar hipótese sindrômica e plano inicial |
+
+## Tabela útil de estação (achado, erro e correção)
+
+| Estação | Achado esperado | Erro frequente | Correção orientada |
+|---------|-----------------|----------------|--------------------|
+| Respiratória | Sibilos difusos expiratórios | Auscultar poucos pontos | Cobrir ápices, campos médios e bases bilateralmente |
+| Respiratória | Estertores bibasais finos | Não comparar os lados | Fazer pares simétricos e repetir base posterior |
+| Cardíaca | Ritmo irregular | Focar apenas em sopro | Avaliar primeiro ritmo e frequência |
+| Cardíaca | Sopro sistólico apical | Não descrever tempo do sopro | Classificar como sistólico/diastólico e citar foco principal |
+| Comunicação | Paciente ansioso | Ignorar emoção do paciente | Validar ansiedade e explicar cada passo |
+| Integração | Hipótese sindrômica coerente | Pular síntese final | Encerrar com resumo estruturado em 3 frases |
+
+## Achado da estação -> hipótese sindrômica -> próximo passo
+
+| Achado da estação | Hipótese sindrômica inicial | Próximo passo imediato |
+|-------------------|-----------------------------|------------------------|
+| Sibilos difusos + expiração prolongada + uso de musculatura acessória | Síndrome obstrutiva grave | Oxigênio, broncodilatador de resgate e reavaliação clínica seriada |
+| Ausência unilateral de murmúrio vesicular + hipotensão + desvio traqueal | Pneumotórax hipertensivo | Reconhecer emergência e indicar descompressão imediata |
+| Estertores bibasais finos + ortopneia | Síndrome congestiva pulmonar | Elevar cabeceira, monitorizar e acionar avaliação médica prioritária |
+| Macicez basal + murmúrio vesicular reduzido em hemitórax | Síndrome pleural (derrame) | Confirmar extensão com imagem e correlacionar ao contexto clínico |
+
+## Microcasos de banca (ultra-curtos)
+
+1. **Obstrutiva grave:** paciente dispneico, fala entrecortada, sibilos difusos, FR elevada e uso de musculatura acessória. **Próximo passo:** tratar como obstrução grave com oxigênio, broncodilatador de resgate e reavaliação imediata.
+2. **Pneumotórax hipertensivo:** dor torácica súbita, dispneia intensa, hipotensão, murmúrio vesicular abolido à direita e desvio traqueal contralateral. **Próximo passo:** reconhecer emergência e indicar descompressão torácica imediata, sem aguardar radiografia.
 
 ### Figura sugerida
 
-**Figura-ID:** `SEMIO2-A6-F01`
+Mapa dos pontos de ausculta respiratória e cardíaca (anterior e posterior), com marcação dos focos clássicos e sequência bilateral comparativa.
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+### Figura sugerida
 
-## O Que Treinar na Simulação Cardiorrespiratória
+Fluxograma OSCE em 8 passos: entrada -> higiene -> anamnese dirigida -> inspeção -> ausculta respiratória -> ausculta cardíaca -> síntese sindrômica -> fechamento profissional.
 
-O treino deve reproduzir sequência de atendimento: abordagem inicial, higiene e posicionamento, anamnese dirigida, exame físico técnico e síntese clínica. Manequins ajudam na repetição técnica; pacientes padronizados treinam comunicação e **tomada de decisão** sob variabilidade clínica.
+## Feedback estruturado (como evoluir rápido)
 
-> **Dica de Prova:** em estação prática, organização e sequência contam tanto quanto o acerto do diagnóstico final.
+Modelo curto após cada simulação:
 
-> **Pegadinha:** focar apenas no estetoscópio e esquecer identificação, consentimento e explicação do exame ao paciente.
+1. **O que funcionou bem:** técnica, fluxo, comunicação ou síntese.
+2. **O que precisa ajuste:** um erro prioritário por vez.
+3. **Como corrigir no próximo treino:** meta objetiva e mensurável.
+4. **Repetição deliberada:** repetir a mesma estação até consolidar consistência.
 
-## Feedback e Aprendizado Deliberado
-
-A simulação funciona quando há feedback objetivo sobre técnica, raciocínio e atitude profissional. O erro na simulação é ferramenta de aprendizado, não fracasso. Em prova, os professores tendem a cobrar maturidade de processo: reconhecer limite, corrigir método e justificar conduta.
-
-
-
+Exemplo de meta útil: "Na próxima rodada, vou completar ausculta respiratória comparativa em 8 pontos, sem quebrar a sequência e explicando cada etapa ao paciente em linguagem simples."
 
 ## Ponte com a Clínica
 
-**Tema:** Prática Simulada — Manequins e Pacientes Padronizados
+No cenário real, o paciente não chega organizado como no livro. A simulação treina exatamente essa transição: examinar com método, comunicar com clareza e decidir com prudência.
 
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Quem domina esta aula tende a errar menos na triagem cardiorrespiratória e a sustentar conduta inicial com mais segurança, mesmo antes de exames complementares.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Simulação:** ponte entre conteúdo teórico e execução clínica.
-- **Sequência da estação:** organização melhora desempenho.
-- **Comunicação clínica:** parte obrigatória da avaliação prática.
-- **Técnica de exame:** precisa ser padronizada e reprodutível.
-- **Feedback estruturado:** acelera ganho de competência.
-- **Segurança do paciente:** começa no treinamento simulado.
+- Simulação avalia método, não apenas memória.
+- Sequência técnica consistente reduz omissões.
+- Comunicação clínica faz parte da nota.
+- Ausculta exige padrão comparativo bilateral.
+- Síntese final deve ser objetiva e sindrômica.
+- Feedback efetivo é específico, breve e acionável.
+- Segurança do paciente começa no treino.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+Na prática simulada, a banca busca execução segura e reprodutível. Você precisa entrar com postura profissional, estabelecer vínculo rápido, aplicar técnica em sequência e encerrar com síntese clínica coerente.
 
+Erros que mais derrubam nota: iniciar sem higiene de mãos, não pedir consentimento, auscultar sem comparação bilateral e não verbalizar hipótese sindrômica com próximo passo.
 
-Simulação clínica: treino seguro antes do cenário real. Manequim: fortalece técnica repetitiva. Paciente padronizado: treina comunicação e empatia.
-
-Estação prática: exige método e clareza. Consentimento e explicação: são avaliados. Feedback: parte central do aprendizado.
-
-Erro controlado: oportunidade de correção. Síntese final: mostra raciocínio clínico.
+Para acertar as estações de ausculta, pense em três blocos: organização do exame, qualidade da escuta e interpretação sindrômica inicial. Na comunicação com paciente padronizado, o diferencial é combinar clareza e empatia, explicando manobras e validando desconfortos.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Saber teoria | Executar técnica | Teoria informa; execução demonstra competência real |
-| Manequim | Paciente padronizado | Um foca técnica; outro adiciona comunicação e contexto |
-| Exame mecânico | Exame clínico completo | Completo inclui relação médico-paciente e síntese |
-| Falha pontual | Falha de método | A de método compromete todo o desempenho da estação |
+| Execução mecânica | Execução clínica completa | A execução completa integra técnica, comunicação e síntese final |
+| Achado isolado | Padrão sindrômico | O padrão combina múltiplos achados em lógica fisiopatológica |
+| Diagnóstico precoce fechado | Hipótese inicial segura | A hipótese inicial reconhece incerteza e orienta próximos passos |
+| Feedback genérico | Feedback acionável | O acionável define erro específico e medida de correção |
 
 ### Frase-âncora para não esquecer
-
-> "Na simulação, cada repetição bem feita vira segurança no paciente real."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Prática Simulada — Manequins e Pacientes Padronizados** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Na estação prática, método + comunicação + síntese valem mais do que pressa para nomear diagnóstico."

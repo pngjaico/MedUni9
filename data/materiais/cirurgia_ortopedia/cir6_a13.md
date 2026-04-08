@@ -95,11 +95,11 @@ Paciente ictérico com **massa pancreática** e **colangite**: estabilize infec�
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Trousseau** — trombose migratória e neoplasia.
-- **Courvoisier** — vesícula palpável + icterícia (pista).
-- **Biópsia gástrica** — múltiplas áreas no subtipo difuso.
+Na prova, lembre que Trousseau — trombose migratória e neoplasia. Courvoisier — vesícula palpável + icterícia (pista).
+
+Para não errar em cenário clínico, considere também Biópsia gástrica — múltiplas áreas no subtipo difuso.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -112,14 +112,3 @@ Paciente ictérico com **massa pancreática** e **colangite**: estabilize infec�
 ### Frase-âncora para não esquecer
 
 > “**Icterícia + massa pancreática** = estadiamento **antes** de prometer cura.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **margens R0**, **tratamento neoadjuvante** e **suporte nutricional** pré-operatório. Em cirurgia pancreática, complicações definem internação e mortalidade.
-
-### Leitura de reforço
-
-- NCCN / guidelines pancreáticos e gástricos
-- Manejo multidisciplinar de tumores periampulares

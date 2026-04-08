@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **glicólise** converte **glicose** em **piruvato** com rendimento líquido de **ATP** (anaeróbio) ou prepara carbonos para **mitocôndria**. A **gliconeogênese** sintetiza **glicose** a partir de **lactato**, **glicerol** e **aminoácidos glicogênicos** — essencial em **jejum** e **corrimento renal**. Em prova, caem **regulação recíproca**, **enzimas exclusivas** de cada via e situações como **alcalose** (fosfoenolpiruvato carboxiquinase) e **exercício intenso** (lactato).
+A **Glicólise** (quebra) e a **Gliconeogênese** (síntese) são as vias centrais da economia de glicose. Enquanto a primeira gera **ATP** rápido (mesmo sem oxigênio), a segunda é o "salva-vidas" do cérebro durante o **jejum**, fabricando glicose a partir de **Lactato**, **Glicerol** e **Aminoácidos**. Para a prova, domine a **regulação recíproca** (o que liga uma, desliga a outra) e as **enzimas de bypass** que permitem ao fígado exportar glicose.
 
 
 ### Figura sugerida
@@ -28,7 +28,7 @@ Fase **preparatória** gasta ATP; fase **pagadora** gera **ATP** e **NADH**. O *
 
 **Enzimas regulatórias clássicas:** **hexoquinase** (fígado: glucoquinase), **fosfofrutoquinase-1 (PFK-1)**, **piruvato quinase**.
 
-> **Dica de Prova:** PFK-1 é **principal ponto de controle** da glicólise — inibida por **ATP/citratos** e ativada por **AMP/ADP** e **frutose-2,6-bifosfato** (fígado).
+> **Dica de Prova:** A **PFK-1** é o principal **sensor metabólico**; ela para a via se houver muito **ATP** (energia de sobra) e acelera se houver **AMP** (crise energética). No fígado, a **Frutose-2,6-bifosfato** é o sinalizador que força a glicólise mesmo com ATP alto, garantindo o processamento do excesso de açúcar.
 
 ---
 
@@ -47,7 +47,7 @@ Requer **enzimas de bypass** para contornar **passos irreversíveis** da glicól
 3. **Frutose-1,6-bifosfatase** (frutose-1,6-bisP → frutose-6P).
 4. **Glicose-6-fosfatase** (só **fígado/rim** — libera glicose livre).
 
-> **Pegadinha:** Músculo **não** expressa **glicose-6-fosfatase** — não exporta glicose; o fígado sim.
+> **Pegadinha:** Músculo **não** possui a **Glicose-6-fosfatase**. Logo, o glicogênio muscular só serve para o próprio músculo; o **Fígado** e o **Rim** são os únicos que podem doar glicose para o sangue.
 
 ---
 
@@ -69,11 +69,12 @@ Requer **enzimas de bypass** para contornar **passos irreversíveis** da glicól
 
 ## Comparativo rápido
 
-| Aspecto | Glicólise | Gliconeogênese |
-|---------|-----------|----------------|
-| Principal local | várias células | **fígado** (principal), **córtex renal** |
-| ATP líquido | produz (aeróbio/anaeróbio) | **consome** |
-| Destino clássico | piruvato/lactato | **glicose livre** (com G6Pase) |
+| Característica | Glicólise | Gliconeogênese |
+|-----------------|-----------|-----------------|
+| **Local Principal**| Praticamente **todas as células** | **Fígado** e Córtex Renal |
+| **Saldo de ATP** | **Produz** ATP líquido | **Consome** ATP/GTP |
+| **Aceptor Final** | **Piruvato** (ou Lactato) | **Glicose Livre** |
+| **Hormônio Ativador** | **Insulina** | **Glucagon** e Cortisol |
 
 ---
 
@@ -85,10 +86,11 @@ Requer **enzimas de bypass** para contornar **passos irreversíveis** da glicól
 
 ## Pontos-Chave para Prova
 
-- **PFK-1** e **F2,6BP** regulam glicólise hepática.
-- **Gliconeogênese** usa **4 bypasses**; **G6Pase** define exportação de glicose.
-- **Lactato** e **alanina** são substratos clássicos.
-- **Insulina/glucagon** controlam **reciprocidade** das vias.
+- **PFK-1 vs F1,6BPase:** A **regulação recíproca** impede o "ciclo fútil" (queimar e sintetizar ao mesmo tempo).
+- **Enzima Chave:** A **F-2,6-BP** liga a Glicólise e desliga a Gliconeogênese.
+- **Bypasses:** São os **4 passos termodinâmicos** que contornam as reações irreversíveis da glicólise.
+- **Ciclo de Cori:** Reciclagem de **Lactato** muscular em glicose hepática — evita o desperdício de carbono.
+- **Alanina:** O aminoácido mais usado para fabricar glicose via **Ciclo Alanina-Glicose**.
 
 ---
 
@@ -98,18 +100,17 @@ Requer **enzimas de bypass** para contornar **passos irreversíveis** da glicól
 
 ### Síntese para a prova
 
+- **Diferencial de Exportação:** Só o fígado libera glicose pois possui a **G6-Pase**.
+- **Piruvato Carboxilase:** Reação mitocondrial que exige **Biotina** para iniciar a Gliconeogênese.
+- **Lactato:** Não é lixo; é **combustível** para o fígado durante o exercício.
+- **Glicogenólise vs Gliconeogênese:** A primeira é rápida (estoque); a segunda é o **sustento de longo prazo**.
 
-Glicólise: ATP e NADH; piruvato/lactato conforme oxigênio. Gliconeogênese: PEPCK, piruvato carboxilase, F1,6BPase, G6Pase.
-
-Músculo não libera glicose (sem G6Pase). F2,6BP liga glicólise e gliconeogênese no fígado.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Glicólise reversa | Gliconeogênese | Precisa **enzimas diferentes** nos passos irreversíveis. |
-| Lactato no sangue | Lactato “inútil” | Lactato é **substrato gluconeogênico** no fígado. |
-| Glucoquinase | Hexoquinase muscular | **Km alto** no fígado — sensível a pós-prandial. |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|----------------------|
+| **Glicólise** | **Gliconeogênese** | **Aeróbio/Anaeróbio** vs Apenas **Aeróbio** (consome ATP) |
+| **Hexoquinase** | **Glucoquinase** | **Inibida por G6P** vs **Sem inibição** (trabalha no excesso) |
+| **F-2,6-BP** | **Amp/ATP** | Controle **Hormonal** vs Controle **Energético** |
+| **Córtex Renal** | **Medula Renal** | Faz **Gliconeogênese** vs Faz **Glicólise** (anaeróbia) |
 
 ### Frase-âncora para não esquecer
 

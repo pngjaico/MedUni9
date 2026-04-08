@@ -9,7 +9,7 @@
 
 Imunodeficiência primária é um daqueles temas que parecem raros na teoria, mas aparecem toda semana na prática quando alguém trata infecção de repetição como "azar". O ponto central é que o sistema imune não falha de forma aleatória: ele falha por compartimento. Quando você aprende a ler o padrão de infecção, começa a enxergar o defeito por trás do quadro clínico em vez de apenas trocar antibiótico em cada consulta.
 
-Na **Uninove**, os professores costumam cobrar exatamente essa lógica: criança com otite e sinusite de repetição, ou paciente com infecção oportunista cedo na vida, e a pergunta não é "qual nome raro da síndrome", mas sim "qual braço da imunidade está comprometido". Quem acerta esse passo inicial acerta diagnóstico, exame e conduta.
+Na Uninove, os professores costumam cobrar exatamente essa lógica: criança com otite e sinusite de repetição, ou paciente com infecção oportunista cedo na vida, e a pergunta não é "qual nome raro da síndrome", mas sim "qual braço da imunidade está comprometido". Quem acerta esse passo inicial acerta diagnóstico, exame e conduta.
 
 ### Figura sugerida
 
@@ -46,7 +46,7 @@ Se o enunciado trouxer pneumococo recorrente, hemófilo, necessidade repetida de
 
 ## Quando o defeito é celular: infecção oportunista e gravidade precoce
 
-Defeitos de **imunidade celular**, especialmente de linfócitos T, mudam o perfil de risco de maneira drástica. O paciente passa a ter maior suscetibilidade a vírus, fungos e germes oportunistas, muitas vezes com início precoce, evolução arrastada e maior chance de internação.
+Defeitos de imunidade celular, especialmente de linfócitos T, mudam o perfil de risco de maneira drástica. O paciente passa a ter maior suscetibilidade a vírus, fungos e germes oportunistas, muitas vezes com início precoce, evolução arrastada e maior chance de internação.
 
 Nesses cenários, candidíase mucocutânea persistente, pneumonias graves e infecções de repetição fora do padrão bacteriano comum apontam para falha da defesa mediada por células. Quando o problema envolve simultaneamente T e B, você entra no território das imunodeficiências combinadas, que exigem encaminhamento rápido.
 
@@ -100,17 +100,19 @@ No ambulatório de pediatria e clínica médica, imunodeficiência primária ent
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Encapsulados recorrentes:** sugerem defeito de anticorpos.
+- **Oportunistas precoces:** sugerem falha de imunidade celular.
+- **Meningococo recorrente:** lembra deficiência de complemento terminal.
+- **Abscessos repetidos:** apontam para disfunção de fagócitos.
+- **História clínica boa:** vale mais que painel amplo sem hipótese.
+- **Infecção + baixo crescimento:** é sinal de alto risco.
+- **Triagem inicial:** hemograma e imunoglobulinas são base.
+- **Conduta na prova:** estabilizar e investigar de forma dirigida.
 
-
-Encapsulados recorrentes: sugerem defeito de anticorpos. Oportunistas precoces: sugerem falha de imunidade celular. Meningococo recorrente: lembra deficiência de complemento terminal.
-
-Abscessos repetidos: apontam para disfunção de fagócitos. História clínica boa: vale mais que painel amplo sem hipótese. Infecção + baixo crescimento: é sinal de alto risco.
-
-Triagem inicial: hemograma e imunoglobulinas são base. Conduta na prova: estabilizar e investigar de forma dirigida.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -122,5 +124,4 @@ Triagem inicial: hemograma e imunoglobulinas são base. Conduta na prova: estabi
 | Meningite esporádica | Meningite meningocócica recorrente | Recorrência por Neisseria sugere investigar complemento |
 
 ### Frase-âncora para não esquecer
-
 > "Quem repete infecção no mesmo padrão não está sem sorte, está sem defesa no braço certo."

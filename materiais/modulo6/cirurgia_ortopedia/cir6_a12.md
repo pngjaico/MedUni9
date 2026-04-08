@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O carcinoma hepatocelular (CHC) surge principalmente em fígado cirrótico; colangiocarcinoma pode ser intra ou extra-hepático (hilar — Klatskin). Rastreio em cirróticos: USG + AFP semestral (conforme protocolo). Tratamento curativo: reseção, transplante (critérios Milão/estendidos selecionados), ablação em não cirúrgicos. Em prova, dominam BCLC (conceito de estadiamento), drenagem biliar no colangiocarcinoma obstrutivo e CPRE vs drenagem percutânea.
+O **carcinoma hepatocelular (CHC)** surge principalmente em **fígado cirrótico**; **colangiocarcinoma** pode ser intra ou extra-hepático (**hilar — Klatskin**). Rastreio em cirróticos: **USG + AFP** semestral (conforme protocolo). Tratamento curativo: **reseção**, **transplante** (critérios **Milão**/estendidos selecionados), **ablação** em não cirúrgicos. Em prova, dominam **BCLC** (conceito de estadiamento), drenagem biliar no colangiocarcinoma obstrutivo e **CPRE** vs **drenagem percutânea**.
 
 ---
 
@@ -24,7 +24,7 @@ Vírus B/C, álcool, **NASH** em ascensão. Pode ser assintomático (nódulo em 
 **Figura-ID:** `CIR6-A12-F01`
 
 - **Momento:** após CHC — imagem característica.
-- O que mostrar: TC ou RM hepática com lesão nodular realçada em fase arterial (esquema ou caso didático).
+- **O que mostrar:** **TC** ou **RM** hepática com **lesão nodular** realçada em fase arterial (esquema ou caso didático).
 - **Tipo sugerido:** imagem radiológica anotada.
 - **Legenda (rascunho):** CHC: realce típico em estudo multiphase.
 
@@ -32,22 +32,22 @@ Vírus B/C, álcool, **NASH** em ascensão. Pode ser assintomático (nódulo em 
 
 ## Tratamento do CHC
 
-Ressecção se função hepática e volume futuro adequados. Transplante nos critérios Milão (um nódulo ≤5 cm ou até 3 nódulos ≤3 cm — memorizar o conceito, não só números soltos). TACE, ablação percutânea, terapias sistêmicas conforme estágio BCLC.
+**Ressecção** se função hepática e volume futuro adequados. **Transplante** nos critérios Milão (um nódulo ≤5 cm ou até 3 nódulos ≤3 cm — memorizar o conceito, não só números soltos). **TACE**, **ablação percutânea**, **terapias sistêmicas** conforme estágio BCLC.
 
-> **Pegadinha:** Child C avançado nem sempre é candidato a agressividade — priorize paliativo e transplante só em seleção muito específica.
+> **Pegadinha:** **Child C** avançado nem sempre é candidato a agressividade — priorize **paliativo** e transplante só em seleção muito específica.
 
 ---
 
 ## Colangiocarcinoma
 
-Intra-hepático vs hilar (Klatskin) vs distal. Obstrução biliar → icterícia colestática, coluria, acolia. CPRE com drenagem (stent) para colangite ou preparo; TC/MRCP para estadiamento. Ressecção com linfadenectomia quando ressecável.
+**Intra-hepático** vs **hilar (Klatskin)** vs **distal**. Obstrução biliar → **icterícia colestática**, coluria, acolia. **CPRE** com **drenagem** (stent) para colangite ou preparo; **TC/MRCP** para estadiamento. **Ressecção** com **linfadenectomia** quando ressecável.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A12-F02`
 
 - **Momento:** após vias biliares — obstrução hilar.
-- O que mostrar: MRCP ou esquema de Klatskin com estreitamento das vias proximais.
+- **O que mostrar:** **MRCP** ou esquema de **Klatskin** com estreitamento das vias proximais.
 - **Tipo sugerido:** colangiorressonância ou desenho esquemático.
 - **Legenda (rascunho):** Tumor hilar: dilatação de ductos intra-hepáticos.
 
@@ -55,14 +55,14 @@ Intra-hepático vs hilar (Klatskin) vs distal. Obstrução biliar → icterícia
 
 ## Colangite e estabilização
 
-Triade de Charcot (febre, dor, icterícia) / Pentada de Reynolds (choque + alteração mental) — antibiótico e desobstrução biliar urgentes. Não procrastine drenagem no colangite grave.
+**Triade de Charcot** (febre, dor, icterícia) / **Pentada de Reynolds** (choque + alteração mental) — **antibiótico** e **desobstrução biliar** urgentes. Não procrastine drenagem no colangite grave.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A12-F03`
 
 - **Momento:** após colangite — desobstrução endoscópica.
-- O que mostrar: CPRE com stent biliar (radiografia fluoroscópica).
+- **O que mostrar:** **CPRE** com **stent biliar** (radiografia fluoroscópica).
 - **Tipo sugerido:** imagem endoscópica/radioscopia.
 - **Legenda (rascunho):** Drenagem biliar endoscópica: stent em via biliar.
 
@@ -74,7 +74,7 @@ Cirrótico com **nódulo novo** e **AFP normal** — ainda assim investigue (ima
 
 ### Erros comuns em plantão
 
-Confundir colangite com hepatite sem dilatação de vias; atrasar CPRE em obstrução com sepse; pedir biópsia hepática desnecessária quando critérios radiológicos bastam em cirrose (seguir protocolo local).
+Confundir **colangite** com **hepatite** sem dilatação de vias; atrasar **CPRE** em obstrução com sepse; pedir **biópsia** hepática desnecessária quando critérios radiológicos bastam em cirrose (seguir protocolo local).
 
 ---
 
@@ -91,11 +91,11 @@ Confundir colangite com hepatite sem dilatação de vias; atrasar CPRE em obstru
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **CHC vs metástases hepáticas** — imagem e história primária.
-- **AFP** — útil, não universalmente elevada.
-- **Stent plástico vs metálico** — contexto de malignidade e tempo esperado.
+Na prova, lembre que CHC vs metástases hepáticas — imagem e história primária. AFP — útil, não universalmente elevada.
+
+Para não errar em cenário clínico, considere também Stent plástico vs metálico — contexto de malignidade e tempo esperado.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Confundir colangite com hepatite sem dilatação de vias; atrasar CPRE em obstru
 ### Frase-âncora para não esquecer
 
 > “**Icterícia febril** com dilatação de vias = **desobstruir** e tratar infecção **já**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione reseção hepática com volume remanescente, quimioembolização e terapia sistêmica em estádios avançados. Transplante exige avaliação multidisciplinar rigorosa.
-
-### Leitura de reforço
-
-- BCLC algorithm (diagrama oficial)
-- Diretrizes de colangiocarcinoma e manejo de colangite

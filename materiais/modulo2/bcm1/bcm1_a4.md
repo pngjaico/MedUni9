@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A maioria dos fármacos modernos age em receptores de sinalização celular — dos antihipertensivos às terapias-alvo oncológicas. Entender os tipos de receptores, os segundos mensageiros e as vias de transdução é compreender diretamente a farmacologia. β-bloqueadores, agonistas β₂, insulina, hormônios de crescimento, fatores de crescimento oncogênicos — todos exercem seus efeitos por essas vias. A **Uninove** integra sinalização celular com farmacologia e oncologia molecular com frequência crescente nos últimos ciclos de provas.
+A maioria dos fármacos modernos age em receptores de sinalização celular — dos antihipertensivos às terapias-alvo oncológicas. Entender os tipos de receptores, os segundos mensageiros e as vias de transdução é compreender diretamente a farmacologia. β-bloqueadores, agonistas β₂, insulina, hormônios de crescimento, fatores de crescimento oncogênicos — todos exercem seus efeitos por essas vias. A Uninove integra sinalização celular com farmacologia e oncologia molecular com frequência crescente nos últimos ciclos de provas.
 
 Além disso, as vias de sinalização são o elo entre o ambiente extracelular e a expressão gênica — compreender como um sinal hormonal chega ao núcleo e ativa um gene é a base para entender tanto a homeostase quanto o câncer.
 
@@ -55,7 +55,7 @@ Os mais numerosos no genoma humano (~800). Sete domínios transmembrana.
 | Gq | Gq → ↑PLC | Fosfolipase C ↑ | IP₃ + DAG → ↑Ca²⁺, ↑PKC | α₁, M₁, M₃, H₁, AT₁ |
 
 **Via Gs → cAMP:**
-agonista → Gs → adenilil ciclase ↑ → **cAMP** ↑ → PKA → fosforila alvos (canais, enzimas, fatores de transcrição CREB)
+agonista → Gs → adenilil ciclase ↑ → cAMP ↑ → PKA → fosforila alvos (canais, enzimas, fatores de transcrição CREB)
 
 **Via Gq → IP₃/DAG:**
 agonista → Gq → PLC-β → IP₃ (libera Ca²⁺ do RE) + DAG (ativa PKC) → contração muscular lisa, secreção, ativação imune
@@ -110,19 +110,19 @@ O **transtuzumabe (Herceptin®)** é um anticorpo monoclonal que bloqueia o rece
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Gs (β, D₁, H₂): adenilil ciclase ↑ → cAMP ↑ → PKA (broncodilatação, taquicardia). Gi (α₂, M₂, D₂): adenilil ciclase ↓ → cAMP ↓ (bradicardia vagal, inibição neuronal). Gq (α₁, M₁, H₁, AT₁): PLC → IP₃ (↑Ca²⁺) + DAG → PKC (contração vascular, secreção).
-
-Toxina cólera: Gsα ativa → cAMP↑ → diarreia aquosa. RTK: dimerização → autofosforilação → RAS → MAPK → proliferação. KRAS: oncogene, mutado em ~30% cânceres; sotorasibe para KRAS G12C pulmão.
-
-Insulina: RTK → PI3K → Akt → GLUT4 → captação glicose músculo e gordura. Receptor nuclear: esteroides, T3, Vit D — lipossolúveis — agem no núcleo (fator de transcrição). NO/sildenafil: cGMP → vasodilatação (sildenafil = iPDE5 → ↑cGMP peniano).
-
-Ionotrópico: resposta imediata (ms); GPCR: segundos; nuclear: horas.
+- **Gs (β, D₁, H₂)**: adenilil ciclase ↑ → cAMP ↑ → PKA (broncodilatação, taquicardia)
+- **Gi (α₂, M₂, D₂)**: adenilil ciclase ↓ → cAMP ↓ (bradicardia vagal, inibição neuronal)
+- **Gq (α₁, M₁, H₁, AT₁)**: PLC → IP₃ (↑Ca²⁺) + DAG → PKC (contração vascular, secreção)
+- **Toxina cólera**: Gsα ativa → cAMP↑ → diarreia aquosa
+- **RTK**: dimerização → autofosforilação → RAS → MAPK → proliferação
+- **KRAS**: oncogene, mutado em ~30% cânceres; sotorasibe para KRAS G12C pulmão
+- **Insulina**: RTK → PI3K → Akt → GLUT4 → captação glicose músculo e gordura
+- **Receptor nuclear**: esteroides, T3, Vit D — lipossolúveis — agem no núcleo (fator de transcrição)
+- **NO/sildenafil**: cGMP → vasodilatação (sildenafil = iPDE5 → ↑cGMP peniano)
+- **ionotrópico**: resposta imediata (ms); GPCR: segundos; nuclear: horas
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -135,13 +135,4 @@ Ionotrópico: resposta imediata (ms); GPCR: segundos; nuclear: horas.
 | IP₃ | DAG | IP₃ = libera Ca²⁺ do RE; DAG = ativa PKC (ambos produtos do PLC-PIP₂) |
 
 ### Frase-âncora para não esquecer
-
 > "Gs estimula; Gi inibe; Gq mexe com cálcio. Proteico age na membrana; esteroide entra no núcleo. RAS mutado é acelerador sem freio — é o oncogene mais comum dos cânceres humanos."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **sensibilidade** é o caminho inverso do movimento: ao invés de comandos saindo do cérebro, informações chegam da periferia. Saber as vias — onde elas cruzam, em que nível e para qual tálamo — explica os déficits das lesões medulares e do tronco. A síndrome de Brown-Séquard, a dor no dermátomo, a dissociação sensitiva da siringomielia: tudo depende de entender os dois grandes sistemas sensitivos (lemnisco medial e via espinotalâmica) e onde cada um decussa.
+A sensibilidade é o caminho inverso do movimento: ao invés de comandos saindo do cérebro, informações chegam da periferia. Saber as vias — onde elas cruzam, em que nível e para qual tálamo — explica os déficits das lesões medulares e do tronco. A síndrome de Brown-Séquard, a dor no dermátomo, a dissociação sensitiva da siringomielia: tudo depende de entender os dois grandes sistemas sensitivos (lemnisco medial e via espinotalâmica) e onde cada um decussa.
 
 ### Figura sugerida
 
@@ -114,7 +114,7 @@ Cada raiz espinal inerva uma faixa de pele chamada **dermátomo**. Referências 
 
 ## 5. Modulação da Dor — Teoria do Portão
 
-A teoria do portão (Melzack e Wall, 1965) propõe que interneurônios no corno dorsal da medula regulam a transmissão da dor. Fibras grandes mielinizadas (Aβ — toque, vibração) ativam esses interneurônios e inibem a transmissão de dor pelas fibras C e Aδ. Por isso massagem ou TENS (estimulação elétrica nervosa) alivia dor. O sistema opioide endógeno (encefalinas, endorfinas, dinorfinas) atua na mesma região — inibindo a transmissão nociceptiva nos cornos dorsais, na **substância cinzenta** periaquedutal e nos núcleos do rafe.
+A teoria do portão (Melzack e Wall, 1965) propõe que interneurônios no corno dorsal da medula regulam a transmissão da dor. Fibras grandes mielinizadas (Aβ — toque, vibração) ativam esses interneurônios e inibem a transmissão de dor pelas fibras C e Aδ. Por isso massagem ou TENS (estimulação elétrica nervosa) alivia dor. O sistema opioide endógeno (encefalinas, endorfinas, dinorfinas) atua na mesma região — inibindo a transmissão nociceptiva nos cornos dorsais, na substância cinzenta periaquedutal e nos núcleos do rafe.
 
 ---
 
@@ -138,17 +138,17 @@ Tabes dorsalis (neurossífilis terciária): desmielinização de funículos post
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Lemnisco medial: propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral. Espinotalâmico: dor, temperatura — decussa na medula — déficit contralateral. Brown-Séquard: motor + propriocepção ipsilateral + dor/temp contralateral perdidos.
-
-Siringomielia: perda bilateral e suspensa de dor/temp (dissociação sensitiva). Dermátomo T4 = mamilo; T10 = umbigo; S1 = calcanhar. Fuso muscular (Ia): comprimento; Golgi (Ib): tensão. Arco reflexo = monossináptico.
-
-Romberg (+): fecha olhos e cai → perda de propriocepção (via posterior). Herpes zóster: dermátomo unilateral com vesículas — não cruza linha média.
+- **Lemnisco medial:** propriocepção, vibração, tato fino — decussa no bulbo — déficit ipsilateral.
+- **Espinotalâmico:** dor, temperatura — decussa na medula — déficit contralateral.
+- **Brown-Séquard:** motor + propriocepção ipsilateral + dor/temp contralateral perdidos.
+- **Siringomielia:** perda bilateral e suspensa de dor/temp (dissociação sensitiva).
+- **Dermátomo T4 = mamilo; T10 = umbigo; S1 = calcanhar.**
+- **Fuso muscular (Ia):** comprimento; Golgi (Ib): tensão. Arco reflexo = monossináptico.
+- **Romberg (+):** fecha olhos e cai → perda de propriocepção (via posterior).
+- **Herpes zóster:** dermátomo unilateral com vesículas — não cruza linha média.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -160,5 +160,4 @@ Romberg (+): fecha olhos e cai → perda de propriocepção (via posterior). Her
 | Fuso muscular | Golgi tendinoso | Fuso: comprimento do músculo (Ia, II); Golgi: tensão do tendão (Ib) |
 
 ### Frase-âncora para não esquecer
-
 > "Lemnisco sobe sem cruzar e cruza no bulbo — espinotalâmico cruza logo ao entrar na medula. Errou o nível da decussação, errou o lado do déficit."

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 992,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "Proto-oncogenes podem tornar-se oncogenes por:",
+    "opcoes": [
+      "A) Mutação ativadora, amplificação ou translocação que aumenta sinal de crescimento.",
+      "B) Perda de ambos os alelos sem expressão.",
+      "C) Silenciamento por miRNA apenas.",
+      "D) Aneuploidia do 21 como único mecanismo."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Ganho de função: RAS, HER2, fusões.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: supressor.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Oncogene — ativação.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: supressor.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 993,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "O cromossomo Philadelphia resulta de:",
+    "opcoes": [
+      "A) Trissomia 21.",
+      "B) Translocação t(9;22) com BCR-ABL.",
+      "C) Deleção 5q.",
+      "D) Inversão do Y."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "LMC — tirosina cinase constitutiva.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: t(9;22).\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 994,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "Supressores tumorais como RB1 classificam-se por:",
+    "opcoes": [
+      "A) Dominância do alelo mutado com hiperfenótipo imediato.",
+      "B) Amplificação obrigatória do gene.",
+      "C) Tipicamente perda de função nos dois alelos (Knudson).",
+      "D) Fusão BCR-ABL."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Dois golpes; LOH.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: oncogene.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Supressor — dois hits.\nA) INCORRETA. Incorreta: oncogene.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 995,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "Amplificação HER2/neu é cenário-alvo em:",
+    "opcoes": [
+      "A) LMC.",
+      "B) Linfoma de Burkitt c-Myc.",
+      "C) Glioma IDH.",
+      "D) Câncer de mama HER2+."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Terapias anti-HER2.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ph.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: HER2 — mama.\nA) INCORRETA. Incorreta: Ph.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 996,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "Hipermetilação de CpG em promotor de supressor pode:",
+    "opcoes": [
+      "A) Aumentar transcrição.",
+      "B) Reduzir metilação global sempre.",
+      "C) Silenciar o gene sem alterar a sequência de DNA.",
+      "D) Criar fusão gênica."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Epigenética — metilação supressor.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Metilação — silêncio.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 997,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "Defeito em MLH1/MSH2 predispõe a:",
+    "opcoes": [
+      "A) LMC.",
+      "B) Talassemia.",
+      "C) Fibrose cística.",
+      "D) Síndrome de Lynch com tumores MSI+."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "MMR — câncer colorretal hereditário.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Lynch — MMR.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 998,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "A fusão t(14;18) com sobreexpressão de BCL-2 é marcador clássico de:",
+    "opcoes": [
+      "A) Linfoma folicular.",
+      "B) LMC.",
+      "C) Retinoblastoma.",
+      "D) Neuroblastoma."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "BCL-2 antiapoptótico — folicular.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: t(14;18) — folicular.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 999,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "p53 ativado por dano ao DNA frequentemente promove:",
+    "opcoes": [
+      "A) Entrada imediata em mitose sem checkpoint.",
+      "B) Indução de p21, pausa em G1 e/ou apoptose conforme contexto.",
+      "C) Apenas síntese de rRNA.",
+      "D) Ativação constitutiva de telomerase somática."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Guardião do genoma; p21 CDK inhibitor.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: p53 — checkpoint.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1000,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "BRCA1/BRCA2 participam principalmente de:",
+    "opcoes": [
+      "A) Síntese de hemoglobina fetal.",
+      "B) Degradação de HIF no VHL.",
+      "C) Reparo de quebras bicatenárias por recombinação homóloga.",
+      "D) Montagem de nucleossomo apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "HR deficiency — sensibilidade a PARPi.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: VHL.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: BRCA — HR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: VHL.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 1001,
+    "materia": "bcm1",
+    "tema": "bcm1_a8",
+    "enunciado": "O gene APC na via Wnt está associado classicamente a:",
+    "opcoes": [
+      "A) Leucemia promielocítica.",
+      "B) Carcinoma medular de tireoide RET.",
+      "C) Síndrome de Klinefelter.",
+      "D) Polipose adenomatosa familiar e desregulação de β-catenina."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "APC degrada β-catenina; FAP colorretal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: PML-RARA.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: APC — Wnt/FAP.\nA) INCORRETA. Incorreta: PML-RARA.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  }
+]

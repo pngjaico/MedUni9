@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O estudo transversal — também chamado de estudo transversal, seccional ou de prevalência — é o desenho mais frequente em pesquisa epidemiológica nacional. A maioria dos inquéritos de saúde pública (PNAD, PNS, ISA) usa esse desenho. Por ser rápido, barato e aplicável a grandes populações, é amplamente usado para estimar prevalência de doenças e fatores de risco. A **Uninove** cobra suas características, medidas de efeito, vantagens e principalmente suas limitações — especialmente a impossibilidade de estabelecer causalidade.
+O estudo transversal — também chamado de estudo transversal, seccional ou de prevalência — é o desenho mais frequente em pesquisa epidemiológica nacional. A maioria dos inquéritos de saúde pública (PNAD, PNS, ISA) usa esse desenho. Por ser rápido, barato e aplicável a grandes populações, é amplamente usado para estimar prevalência de doenças e fatores de risco. A Uninove cobra suas características, medidas de efeito, vantagens e principalmente suas limitações — especialmente a impossibilidade de estabelecer causalidade.
 
 ### Figura sugerida
 
@@ -106,17 +106,17 @@ A Pesquisa Nacional de Saúde (PNS, 2013 e 2019) é o maior estudo transversal d
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Transversal:** fotografia — exposição e desfecho medidos ao mesmo tempo.
+- **Medida:** Razão de Prevalência (RP). Pode usar OR em regressão logistica.
+- **Principal limitação:** nao estabelece causalidade (temporalidade desconhecida).
+- **Viés de prevalência (Neyman):** sobreviventes sub-representam doenças fatais.
+- **Adequado para:** prevalência, inquéritos populacionais, planejamento de saúde.
+- **Nao adequado para:** doenças raras, provar causalidade, medir incidência.
 
-
-Transversal: fotografia — exposição e desfecho medidos ao mesmo tempo. Medida: Razão de Prevalência (RP). Pode usar OR em regressão logistica.
-
-Principal limitação: nao estabelece causalidade (temporalidade desconhecida). Viés de prevalência (Neyman): sobreviventes sub-representam doenças fatais.
-
-Adequado para: prevalência, inquéritos populacionais, planejamento de saúde. Nao adequado para: doenças raras, provar causalidade, medir incidência.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,5 +128,4 @@ Adequado para: prevalência, inquéritos populacionais, planejamento de saúde. 
 | Viés de prevalência | Viés de seleção | Prevalência: subrrepresenta doenças fatais; Seleção: amostra nao representa a populacao |
 
 ### Frase-âncora para não esquecer
-
 > "Estudo transversal é fotografia — captura tudo ao mesmo tempo. Por isso nao pode estabelecer causalidade: nao sabe o que veio primeiro."

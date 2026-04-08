@@ -686,6 +686,19 @@
       .mobile-app-top-bar {
         display: none;
       }
+
+      /* Histologia Atlas Plate: Side-by-side for Desktop */
+      @media (min-width: 960px) {
+        .atlas-plate-layout {
+          grid-template-columns: 1fr 320px !important;
+          align-items: start !important;
+          gap: 20px !important;
+        }
+        .atlas-plate-legend {
+          position: sticky;
+          top: 10px;
+        }
+      }
     }
 
     /* Mobile / tablet estreito: drawer lateral + barra com hamburger */
@@ -799,8 +812,8 @@
       }
 
       .material-doc-inner .markdown-body.material-markdown-card {
-        padding: 16px 12px 20px !important;
-        border-radius: 12px !important;
+        padding: 24px 18px 36px !important;
+        border-radius: 18px !important;
       }
 
       .markdown-body.preprova-content.material-markdown-card--pre {
@@ -853,7 +866,7 @@
     /* Tablet: leitura de materiais um pouco mais compacta; desktop largo intacto */
     @media (min-width: 769px) and (max-width: 1024px) {
       .material-doc-inner .markdown-body.material-markdown-card {
-        padding: 22px 20px 26px !important;
+        padding: 36px 32px 42px !important;
       }
 
       .markdown-body table {
@@ -2615,7 +2628,7 @@
     }
 
     .material-doc-inner {
-      max-width: 960px;
+      max-width: 1120px;
       width: 100%;
       min-width: 280px;
     }
@@ -2679,7 +2692,7 @@
     html[data-theme="light"] .markdown-body h3 { color: #0284C7 !important; }
     html[data-theme="light"] .markdown-body h4 { color: #0369A1 !important; }
     html[data-theme="light"] .markdown-body p { color: #334155; }
-    html[data-theme="light"] .markdown-body strong { color: #1E293B !important; font-weight: 500 !important; }
+    html[data-theme="light"] .markdown-body strong { color: #000000 !important; font-weight: 700 !important; }
     html[data-theme="light"] .markdown-body em { color: #475569 !important; }
     html[data-theme="light"] .markdown-body ul li::marker { color: var(--mint) !important; }
     html[data-theme="light"] .markdown-body ol li::marker { color: var(--mint) !important; }
@@ -2726,6 +2739,7 @@
     /* ── Markdown Reader ───────────────────────────────────────── */
     .markdown-body {
       font-family: 'Lexend', 'DM Sans', sans-serif;
+      font-weight: 300;
       font-size: 1.0625rem;
       line-height: 1.75;
       color: #D1D9E6;
@@ -2815,8 +2829,8 @@
     .markdown-body p { margin: 0 0 0.85em; }
     .markdown-body strong {
       font-family: 'DM Sans', sans-serif;
-      font-weight: 500;
-      color: #E2E8F0;
+      font-weight: 700;
+      color: #FFFFFF;
     }
     .markdown-body em { color: #94A3B8; font-style: italic; }
 
@@ -3979,15 +3993,62 @@
       color: var(--text-primary); font-size: 15px; text-align: center;
     }
     .feedback-success-icon { font-size: 40px; }
+    .update-banner {
+      position: fixed;
+      top: 12px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 99999;
+      display: none;
+      align-items: center;
+      gap: 10px;
+      padding: 10px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.2);
+      background: rgba(16, 24, 40, 0.92);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.35);
+      color: #fff;
+      font-size: 14px;
+      backdrop-filter: blur(6px);
+    }
+    .update-banner button {
+      border: 0;
+      border-radius: 8px;
+      padding: 7px 12px;
+      background: #4f8cff;
+      color: #fff;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .update-banner button:hover { filter: brightness(1.06); }
   </style>
 </head>
 <body>
   <div id="root"></div>
+  <div id="updateBanner" class="update-banner" role="status" aria-live="polite">
+    <span>Atualização disponível.</span>
+    <button id="updateBannerBtn" type="button">Atualizar</button>
+  </div>
 
   <!-- Service Worker: registro + limpeza de SWs antigos de deploys anteriores -->
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function() {
+        var refreshing = false;
+
+        function showUpdateBanner(registration) {
+          var banner = document.getElementById('updateBanner');
+          var btn = document.getElementById('updateBannerBtn');
+          if (!banner || !btn || !registration || !registration.waiting) return;
+          banner.style.display = 'flex';
+          btn.onclick = function() {
+            try {
+              registration.waiting.postMessage({ type: 'SKIP_WAITING' });
+            } catch (e) {
+              window.location.reload();
+            }
+          };
+        }
 
         // Limpar SWs de versões anteriores registrados em paths diferentes
         navigator.serviceWorker.getRegistrations().then(function(registrations) {
@@ -4000,14 +4061,14 @@
         // Registrar SW atual
         navigator.serviceWorker.register('/sw.js').then(function(registration) {
           if (registration.waiting) {
-            registration.waiting.postMessage({ type: 'SKIP_WAITING' });
+            showUpdateBanner(registration);
           }
           registration.addEventListener('updatefound', function() {
             var newWorker = registration.installing;
             if (!newWorker) return;
             newWorker.addEventListener('statechange', function() {
               if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                newWorker.postMessage({ type: 'SKIP_WAITING' });
+                showUpdateBanner(registration);
               }
             });
           });
@@ -4015,8 +4076,7 @@
           console.warn('MedGrad+: SW registration failed:', err);
         });
 
-        // Recarregar quando novo SW assumir o controle
-        var refreshing = false;
+        // Recarregar apenas depois de o usuário clicar em "Atualizar"
         navigator.serviceWorker.addEventListener('controllerchange', function() {
           if (refreshing) return;
           refreshing = true;
@@ -4239,6 +4299,27 @@
     }
 
     // ===================== Markdown renderer =====================
+    function capitalizeFirstLetterForTableCell(text) {
+      const s = String(text || '');
+      const m = s.match(/^(\s*)([a-zà-öø-ÿ])/i);
+      if (!m) return s;
+      const i = m[1].length;
+      return s.slice(0, i) + s.charAt(i).toLocaleUpperCase('pt-BR') + s.slice(i + 1);
+    }
+
+    function normalizeTableCellCasing(html) {
+      const host = document.createElement('div');
+      host.innerHTML = html;
+      host.querySelectorAll('table th, table td').forEach((cell) => {
+        // Só aplica em célula texto puro para não mexer em links/código interno.
+        if (cell.children.length > 0) return;
+        const current = cell.textContent || '';
+        const next = capitalizeFirstLetterForTableCell(current);
+        if (next !== current) cell.textContent = next;
+      });
+      return host.innerHTML;
+    }
+
     function renderMd(text) {
       const cleaned = stripFiguraSugeridaBlocksForCliente(
         text
@@ -4248,6 +4329,7 @@
       let html = marked.parse(cleaned)
         .replace(/<table>/g, '<div class="table-wrap"><table>')
         .replace(/<\/table>/g, '</table></div>');
+      html = normalizeTableCellCasing(html);
       html = html.replace(
         /<pre><code class="language-flow">([\s\S]*?)<\/code><\/pre>/g,
         (_, content) => {
@@ -5341,17 +5423,34 @@
     async function syncProfileAccessFromEmailGrant(fbUser, profile) {
       if (!profile || !fbUser?.email) return profile;
       try {
+        const profileSource = String(profile.accessSource || '').toLowerCase();
+        const legacySourceSet = new Set([
+          'legacy_key', 'legacy_code', 'codigo', 'code', 'key', 'cupom', 'coupon', 'manual_key'
+        ]);
+        const hasLegacyCode = !!String(profile.codeHash || '').trim();
+        const isLegacyKeyOnlyProfile =
+          hasLegacyCode ||
+          legacySourceSet.has(profileSource) ||
+          (
+            profileSource &&
+            profileSource !== 'stripe' &&
+            profileSource !== 'stripe_refund' &&
+            profileSource !== 'email_invite' &&
+            profileSource !== 'demo_account' &&
+            profileSource !== 'ambassador'
+          );
+
         const grant = await loadEmailAccessGrant(fbUser.email);
         if (!grant) {
-          const profileSource = String(profile.accessSource || '').toLowerCase();
-          if (profileSource === 'stripe' || profileSource === 'stripe_refund') {
+          if (profileSource === 'stripe' || profileSource === 'stripe_refund' || isLegacyKeyOnlyProfile) {
             const downgradedNoGrant = normalizeUserProfile({
               ...profile,
               plano: 'gratuito',
               modulosAcesso: [1],
               maxDispositivos: 2,
-              accessSource: 'stripe_refund',
+              accessSource: isLegacyKeyOnlyProfile ? 'email_required' : 'stripe_refund',
               emailGrantId: normalizeAuthEmail(fbUser.email),
+              codeHash: '',
             });
             try {
               await saveUserProfile(fbUser, buildSessionTrackedProfile(downgradedNoGrant), { merge: true });
@@ -5401,6 +5500,7 @@
           maxDispositivos: incomingMax,
           accessSource: grantSource,
           emailGrantId: grant.id || normalizeAuthEmail(fbUser.email),
+          codeHash: '',
         });
 
         const modulesChanged = JSON.stringify(merged.modulosAcesso || null) !== JSON.stringify(currentModules || null);
@@ -5978,11 +6078,11 @@
                       <button type="button" className="auth-free-compact-btn" onClick={handleFreeAccess} disabled={loading} aria-label="Experimentar gratuitamente sem cadastro">
                         Experimentar grátis
                       </button>
-                      <a href={email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? `comprar.html?email=${encodeURIComponent(email)}` : 'comprar.html'} style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 2px 10px rgba(0,200,150,0.25)' }}>
+                      <a href={email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ? `landing.html?email=${encodeURIComponent(email)}` : 'landing.html'} style={{ display: 'inline-block', background: 'linear-gradient(135deg, #00C896, #00A87A)', color: '#fff', fontFamily: 'Outfit', fontWeight: 700, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', boxShadow: '0 2px 10px rgba(0,200,150,0.25)' }}>
                         Ver planos
                       </a>
-                      <a href="#about-public" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.06)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 600, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.12)' }}>
-                        Conhecer o app
+                      <a href="landing.html" style={{ display: 'inline-block', background: 'rgba(255,255,255,0.06)', color: 'var(--text-primary)', fontFamily: 'Outfit', fontWeight: 600, fontSize: '12px', padding: '8px 14px', borderRadius: '8px', textDecoration: 'none', border: '1px solid rgba(255,255,255,0.12)' }}>
+                        Saiba mais sobre o app
                       </a>
                     </div>
                   </div>
@@ -6211,8 +6311,8 @@
                 <button type="button" className="upsell-banner-btn" onClick={() => {
                   const em = user?.email;
                   window.location.href = (em && !user.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
-                    ? `comprar.html?email=${encodeURIComponent(em)}`
-                    : 'comprar.html';
+                    ? `landing.html?email=${encodeURIComponent(em)}`
+                    : 'landing.html';
                 }}>
                   Ver planos
                 </button>
@@ -9537,10 +9637,10 @@
                       background: 'linear-gradient(180deg, rgba(0,200,150,0.05) 0%, rgba(15,23,42,0.7) 120px)',
                       border: '1px solid rgba(0,200,150,0.15)',
                       borderTop: '3px solid #00C896',
-                      borderRadius: '14px',
-                      padding: '28px 28px 32px',
+                      borderRadius: '18px',
+                      padding: '44px 44px 52px',
                       wordBreak: 'break-word',
-                      boxShadow: '0 4px 32px rgba(0,200,150,0.08), 0 2px 12px rgba(0,0,0,0.3)',
+                      boxShadow: '0 8px 48px rgba(0,200,150,0.12), 0 2px 16px rgba(0,0,0,0.3)',
                     }}
                     dangerouslySetInnerHTML={{ __html: renderMd(main) }}
                   />
@@ -10390,6 +10490,44 @@
         return pretty;
       };
 
+      const healLegends = (lines) => {
+        if (!Array.isArray(lines) || lines.length === 0) return [];
+        const healed = [];
+        let buffer = "";
+
+        for (let i = 0; i < lines.length; i++) {
+          let current = lines[i].trim();
+          if (!current) continue;
+
+          // Se o buffer não estiver vazio, decide se junta ou fecha
+          if (buffer) {
+            const lastChar = buffer.slice(-1);
+            const firstChar = current.charAt(0);
+            
+            // Critérios para juntar:
+            // 1. Termina em hífen (ex: "DESCON-")
+            // 2. Não termina em pontuação (., !, ?, :, ;) E a próxima linha não começa com letra maiúscula (provável continuação)
+            // 3. A linha atual é muito curta (menos de 5 chars)
+            const endsWithPunctuation = /[.!?:;]$/.test(buffer);
+            const startsWithUpper = /^[A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ]/.test(current);
+            const isContinuation = !endsWithPunctuation || !startsWithUpper || current.length < 5;
+
+            if (lastChar === '-') {
+              buffer = buffer.slice(0, -1) + current;
+            } else if (isContinuation) {
+              buffer += " " + current;
+            } else {
+              healed.push(buffer);
+              buffer = current;
+            }
+          } else {
+            buffer = current;
+          }
+        }
+        if (buffer) healed.push(buffer);
+        return healed;
+      };
+
       const [openPin, setOpenPin] = React.useState(null);
       const [hoverPin, setHoverPin] = React.useState(null);
       const [imgError, setImgError] = React.useState(false);
@@ -10405,38 +10543,44 @@
 
       const legendaBox = (opts) => {
         const compact = opts && opts.compact;
-        if (!Array.isArray(lamina.legendaTranscrita) || lamina.legendaTranscrita.length === 0) return null;
+        const rawLines = Array.isArray(lamina.legendaTranscrita) ? lamina.legendaTranscrita : [];
+        const lines = healLegends(rawLines);
+        
+        if (lines.length === 0) return null;
+        
         return (
           <div style={{
-            marginTop: compact ? '12px' : '14px', padding: '14px 16px', borderRadius: '14px',
+            marginTop: compact ? '0' : '14px', 
+            padding: compact ? '12px' : '14px 16px', 
+            borderRadius: '14px',
             border: '1px solid rgba(255,255,255,0.14)',
             background: 'linear-gradient(180deg, rgba(18,28,46,0.92) 0%, rgba(12,22,38,0.96) 100%)',
             boxShadow: '0 8px 28px rgba(0,0,0,0.24)',
+            height: compact ? '100%' : 'auto',
+            overflowY: compact ? 'auto' : 'visible'
           }}>
             <div style={{
-              fontFamily: 'Outfit', fontSize: compact ? '15px' : '16px', fontWeight: 700, color: '#EAF2FF',
-              marginBottom: '12px', letterSpacing: '0.01em',
-            }}>Legenda</div>
-            <div style={{ display: 'grid', gap: '8px' }}>
-              {lamina.legendaTranscrita.map((item, i) => (
-                <div key={(opts && opts.prefix ? opts.prefix : 'p') + '-' + lamina.id + '-legenda-' + i} style={{
-                  display: 'flex', alignItems: 'flex-start', gap: '9px',
-                  fontSize: '14px', color: '#DCE8FF', lineHeight: 1.62, fontWeight: 500,
+              fontFamily: 'Outfit', fontSize: compact ? '14px' : '16px', fontWeight: 700, color: '#EAF2FF',
+              marginBottom: '10px', letterSpacing: '0.01em', display: 'flex', alignItems: 'center', gap: '8px'
+            }}>
+               <span style={{ opacity: 0.6 }}>📋</span> Legenda
+            </div>
+            <div style={{ display: 'grid', gap: '10px' }}>
+              {lines.map((item, i) => (
+                <div key={(opts && opts.prefix ? opts.prefix : 'p') + '-' + lamina.id + '-leg_h-' + i} style={{
+                  display: 'flex', alignItems: 'flex-start', gap: '10px',
+                  fontSize: compact ? '13px' : '14px', color: '#DCE8FF', lineHeight: 1.55, fontWeight: 500,
                 }}>
-                  <span style={{ color: accentColor, marginTop: '1px', fontSize: '12px' }}>●</span>
-                  <span>
-                    {formatLegendLine(item)}
-                    {Array.isArray(lamina.legendaCategorias) && lamina.legendaCategorias[i] && (
-                      <span style={{
-                        marginLeft: '8px', fontSize: '11px', color: 'rgba(199,210,254,0.9)',
-                        background: 'rgba(99,102,241,0.16)', border: '1px solid rgba(129,140,248,0.35)',
-                        borderRadius: '999px', padding: '1px 7px', verticalAlign: 'middle', fontWeight: 600,
-                      }}>{lamina.legendaCategorias[i]}</span>
-                    )}
-                  </span>
+                  <span style={{ color: accentColor, marginTop: '4px', fontSize: '10px', flexShrink: 0 }}>●</span>
+                  <span>{formatLegendLine(item)}</span>
                 </div>
               ))}
             </div>
+            {lamina.notaTranscricao && (
+              <div style={{ marginTop: '12px', paddingTop: '10px', borderTop: '1px solid rgba(255,255,255,0.08)', fontSize: '11px', color: 'rgba(255,255,255,0.4)', fontStyle: 'italic' }}>
+                {lamina.notaTranscricao}
+              </div>
+            )}
           </div>
         );
       };
@@ -10479,92 +10623,102 @@
             <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '4px' }}>{divisaoTitulo}</div>
           </div>
 
-          {hasImage && !imgError ? (
-            <div ref={wrapRef} style={{
-              position: 'relative', borderRadius: '16px', overflow: 'hidden',
-              border: '1px solid rgba(255,255,255,0.08)',
-              boxShadow: '0 8px 32px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.2)',
-              background: '#0D1117',
-              minHeight: imgLoaded ? undefined : '220px',
-            }}>
-              {!imgLoaded && (
-                <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1 }}>
-                  <div style={{ width: '28px', height: '28px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: accentColor, borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
-                </div>
-              )}
-              <button
-                type="button"
-                onClick={() => { if (podeAmpliar) setLightboxOpen(true); }}
-                disabled={!podeAmpliar}
-                aria-label={podeAmpliar ? 'Ampliar fotografia da lâmina com legenda' : undefined}
-                style={{
-                  display: 'block', width: '100%', padding: 0, margin: 0, border: 'none', background: 'transparent',
-                  cursor: podeAmpliar ? 'zoom-in' : 'default',
-                }}
-              >
-                <img
-                  src={lamina.urlImagem}
-                  alt={lamina.alt || lamina.titulo}
-                  loading="lazy"
-                  decoding="async"
-                  onLoad={() => setImgLoaded(true)}
-                  onError={() => setImgError(true)}
-                  style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease', pointerEvents: 'none' }}
-                />
-              </button>
-              {imgLoaded && podeAmpliar && (
-                <div style={{ position: 'absolute', bottom: '10px', right: '10px', zIndex: 3, pointerEvents: 'none' }}>
-                  <span style={{
-                    fontSize: '11px', fontWeight: 700, padding: '6px 10px', borderRadius: '10px',
-                    background: 'rgba(10,10,15,0.88)', color: '#E8EEFF', border: '1px solid rgba(255,255,255,0.12)',
-                    boxShadow: '0 4px 14px rgba(0,0,0,0.35)',
-                  }}>Toque para ampliar</span>
-                </div>
-              )}
-              {imgLoaded && pinos.map((p, i) => (
-                <button key={i} type="button" className="atlas-pin-hitbox" aria-label={p.rotulo} aria-pressed={showTip(i)}
-                  onClick={(e) => { e.stopPropagation(); setOpenPin(prev => prev === i ? null : i); }}
-                  onMouseEnter={() => setHoverPin(i)} onMouseLeave={() => setHoverPin(null)}
-                  style={{
-                    position: 'absolute', left: p.x + '%', top: p.y + '%', transform: 'translate(-50%, -50%)',
-                    width: '48px', height: '48px', padding: 0, margin: 0, border: 'none', background: 'transparent',
-                    cursor: 'pointer', zIndex: showTip(i) ? 4 : 2,
-                  }}
-                />
-              ))}
-              {imgLoaded && pinos.map((p, i) => showTip(i) && (
-                <div key={'tip-' + i} role="status" style={{
-                  position: 'absolute', left: p.x + '%', top: p.y + '%',
-                  transform: p.y < 20 ? 'translate(-50%, 18px)' : 'translate(-50%, calc(-100% - 18px))',
-                  maxWidth: 'min(200px, 65vw)', padding: '7px 12px', borderRadius: '8px',
-                  background: 'rgba(10,10,15,0.94)', backdropFilter: 'blur(8px)',
-                  border: '1px solid rgba(255,255,255,0.12)', color: '#F5F3FF',
-                  fontSize: '12px', fontWeight: 700, lineHeight: 1.3, pointerEvents: 'none', zIndex: 5,
-                  boxShadow: '0 6px 20px rgba(0,0,0,0.5)',
+          <div className="atlas-plate-layout" style={{
+            display: 'grid',
+            gridTemplateColumns: 'minmax(0, 1fr)',
+            gap: '16px'
+          }}>
+            <div className="atlas-plate-media" style={{ minWidth: 0 }}>
+              {hasImage && !imgError ? (
+                <div ref={wrapRef} style={{
+                  position: 'relative', borderRadius: '16px', overflow: 'hidden',
+                  border: '1px solid rgba(255,255,255,0.08)',
+                  boxShadow: '0 8px 32px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.2)',
+                  background: '#0D1117',
+                  minHeight: imgLoaded ? undefined : '220px',
                 }}>
-                  {p.rotulo}
+                  {!imgLoaded && (
+                    <div style={{ position: 'absolute', inset: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1 }}>
+                      <div style={{ width: '28px', height: '28px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: accentColor, borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                    </div>
+                  )}
+                  <button
+                    type="button"
+                    onClick={() => { if (podeAmpliar) setLightboxOpen(true); }}
+                    disabled={!podeAmpliar}
+                    aria-label={podeAmpliar ? 'Ampliar fotografia da lâmina com legenda' : undefined}
+                    style={{
+                      display: 'block', width: '100%', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                      cursor: podeAmpliar ? 'zoom-in' : 'default',
+                    }}
+                  >
+                    <img
+                      src={lamina.urlImagem}
+                      alt={lamina.alt || lamina.titulo}
+                      loading="lazy"
+                      decoding="async"
+                      onLoad={() => setImgLoaded(true)}
+                      onError={() => setImgError(true)}
+                      style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease', pointerEvents: 'none' }}
+                    />
+                  </button>
+                  {imgLoaded && podeAmpliar && (
+                    <div style={{ position: 'absolute', bottom: '10px', right: '10px', zIndex: 3, pointerEvents: 'none' }}>
+                      <span style={{
+                        fontSize: '11px', fontWeight: 700, padding: '6px 10px', borderRadius: '10px',
+                        background: 'rgba(10,10,15,0.88)', color: '#E8EEFF', border: '1px solid rgba(255,255,255,0.12)',
+                        boxShadow: '0 4px 14px rgba(0,0,0,0.35)',
+                      }}>Toque para ampliar</span>
+                    </div>
+                  )}
+                  {imgLoaded && pinos.map((p, i) => (
+                    <button key={i} type="button" className="atlas-pin-hitbox" aria-label={p.rotulo} aria-pressed={showTip(i)}
+                      onClick={(e) => { e.stopPropagation(); setOpenPin(prev => prev === i ? null : i); }}
+                      onMouseEnter={() => setHoverPin(i)} onMouseLeave={() => setHoverPin(null)}
+                      style={{
+                        position: 'absolute', left: p.x + '%', top: p.y + '%', transform: 'translate(-50%, -50%)',
+                        width: '48px', height: '48px', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                        cursor: 'pointer', zIndex: showTip(i) ? 4 : 2,
+                      }}
+                    />
+                  ))}
+                  {imgLoaded && pinos.map((p, i) => showTip(i) && (
+                    <div key={'tip-' + i} role="status" style={{
+                      position: 'absolute', left: p.x + '%', top: p.y + '%',
+                      transform: p.y < 20 ? 'translate(-50%, 18px)' : 'translate(-50%, calc(-100% - 18px))',
+                      maxWidth: 'min(200px, 65vw)', padding: '7px 12px', borderRadius: '8px',
+                      background: 'rgba(10,10,15,0.94)', backdropFilter: 'blur(8px)',
+                      border: '1px solid rgba(255,255,255,0.12)', color: '#F5F3FF',
+                      fontSize: '12px', fontWeight: 700, lineHeight: 1.3, pointerEvents: 'none', zIndex: 5,
+                      boxShadow: '0 6px 20px rgba(0,0,0,0.5)',
+                    }}>
+                      {p.rotulo}
+                    </div>
+                  ))}
                 </div>
-              ))}
+              ) : (
+                <div style={{
+                  borderRadius: '16px', overflow: 'hidden', border: '1px dashed rgba(255,255,255,0.12)',
+                  background: 'linear-gradient(135deg, rgba(255,255,255,0.02) 0%, rgba(139,92,246,0.04) 100%)',
+                  padding: '40px 24px', textAlign: 'center',
+                }}>
+                  <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '14px', color: 'rgba(255,255,255,0.2)' }}>
+                    <AtlasIconImage />
+                  </div>
+                  <div style={{ fontFamily: 'Outfit', fontWeight: 700, fontSize: '14px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
+                    {imgError ? 'Imagem indisponível' : 'Imagem pendente'}
+                  </div>
+                  <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.35)', lineHeight: 1.6, margin: 0, maxWidth: '320px', marginLeft: 'auto', marginRight: 'auto' }}>
+                    {lamina.descricaoNecessaria || lamina.alt || 'Esta lâmina ainda precisa de uma imagem. Volte em breve.'}
+                  </p>
+                </div>
+              )}
             </div>
-          ) : (
-            <div style={{
-              borderRadius: '16px', overflow: 'hidden', border: '1px dashed rgba(255,255,255,0.12)',
-              background: 'linear-gradient(135deg, rgba(255,255,255,0.02) 0%, rgba(139,92,246,0.04) 100%)',
-              padding: '40px 24px', textAlign: 'center',
-            }}>
-              <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '14px', color: 'rgba(255,255,255,0.2)' }}>
-                <AtlasIconImage />
-              </div>
-              <div style={{ fontFamily: 'Outfit', fontWeight: 700, fontSize: '14px', color: 'var(--text-secondary)', marginBottom: '8px' }}>
-                {imgError ? 'Imagem indisponível' : 'Imagem pendente'}
-              </div>
-              <p style={{ fontSize: '12px', color: 'rgba(255,255,255,0.35)', lineHeight: 1.6, margin: 0, maxWidth: '320px', marginLeft: 'auto', marginRight: 'auto' }}>
-                {lamina.descricaoNecessaria || lamina.alt || 'Esta lâmina ainda precisa de uma imagem. Volte em breve.'}
-              </p>
-            </div>
-          )}
 
-          {legendaBox()}
+            <div className="atlas-plate-legend" style={{ minWidth: 0 }}>
+              {legendaBox()}
+            </div>
+          </div>
 
           {lightboxOpen && podeAmpliar && (
             <div
@@ -10808,7 +10962,7 @@
                   }}>
                     <div style={{ marginBottom: '10px' }}>{atlasDemoNotice}</div>
                     <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
-                      <a href={(!user?.isGuest && user?.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(user.email)) ? `comprar.html?email=${encodeURIComponent(user.email)}` : 'comprar.html'} className="btn btn-primary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>Ver planos</a>
+                      <a href={(!user?.isGuest && user?.email && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(user.email)) ? `landing.html?email=${encodeURIComponent(user.email)}` : 'landing.html'} className="btn btn-primary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>Ver planos</a>
                       <button type="button" className="btn btn-secondary" style={{ width: 'auto', padding: '8px 14px', fontSize: '12px' }} onClick={() => setAtlasDemoNotice(null)}>Fechar</button>
                     </div>
                   </div>
@@ -11141,7 +11295,7 @@
       const [search, setSearch] = React.useState('');
       const [atlasData, setAtlasData] = React.useState(null);
       const [atlasErr, setAtlasErr] = React.useState(null);
-      const [atlasNav, setAtlasNav] = React.useState({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+      const [atlasNav, setAtlasNav] = React.useState({ step: 'categories', categoryId: null, systemId: null, organId: null, laminaAtual: null });
       const [revisaoData, setRevisaoData] = React.useState(null);
       const [revisaoErr, setRevisaoErr] = React.useState(null);
       const [histoIntroOpen, setHistoIntroOpen] = React.useState(() => {
@@ -11149,7 +11303,7 @@
       });
 
       React.useEffect(() => {
-        fetch('data/histologia_atlas.json?_=' + Date.now())
+        fetch('data/histologia_atlas_v2.json?_=' + Date.now())
           .then(r => { if (!r.ok) throw new Error('Falha ao carregar atlas'); return r.json(); })
           .then(setAtlasData)
           .catch(e => setAtlasErr(e.message || String(e)));
@@ -11163,25 +11317,37 @@
       }, []);
 
       const q = search.toLowerCase().trim();
-      const sistemasBase = revisaoData && Array.isArray(revisaoData.sistemas) ? revisaoData.sistemas : [];
 
-      const filtered = React.useMemo(() => {
+      const atlasResults = React.useMemo(() => {
+        if (!atlasData || !q || viewMode !== 'atlas') return [];
+        const results = [];
+        atlasData.categorias.forEach(cat => {
+          cat.sistemas.forEach(sys => {
+            sys.orgaos.forEach(org => {
+              org.laminas.forEach(lam => {
+                const combined = ((lam.titulo || '') + ' ' + (org.titulo || '') + ' ' + (sys.titulo || '') + ' ' + (cat.titulo || '')).toLowerCase();
+                if (combined.includes(q)) {
+                  results.push({ ...lam, category: cat, system: sys, organ: org });
+                }
+              });
+            });
+          });
+        });
+        return results;
+      }, [atlasData, q, viewMode]);
+
+      const sistemasBase = revisaoData && Array.isArray(revisaoData.sistemas) ? revisaoData.sistemas : [];
+      const filteredRevisao = React.useMemo(() => {
         if (!sistemasBase.length) return [];
         return sistemasBase.map(sys => {
           const regionFiltered = sys.subsections || [];
-          if (!q) {
-            return { ...sys, subsections: regionFiltered };
-          }
+          if (!q) return { ...sys, subsections: regionFiltered };
           const nameMatch = (sys.name || '').toLowerCase().includes(q);
           const matchingSubs = regionFiltered.filter(sub => subsectionMatchesRevisaoQuery(sub, q));
           let finalSubs;
-          if (matchingSubs.length) {
-            finalSubs = matchingSubs.map(sub => applyRevisaoQueryToSub(sub, q));
-          } else if (nameMatch) {
-            finalSubs = regionFiltered.map(sub => applyRevisaoQueryToSub(sub, q));
-          } else {
-            return null;
-          }
+          if (matchingSubs.length) finalSubs = matchingSubs.map(sub => applyRevisaoQueryToSub(sub, q));
+          else if (nameMatch) finalSubs = regionFiltered.map(sub => applyRevisaoQueryToSub(sub, q));
+          else return null;
           return { ...sys, subsections: finalSubs };
         }).filter(sys => sys && (sys.subsections || []).length > 0);
       }, [sistemasBase, q]);
@@ -11190,16 +11356,18 @@
       const toggleSub = (key) => setOpenSub(prev => ({ ...prev, [key]: !prev[key] }));
 
       React.useEffect(() => {
-        if (q && filtered.length === 1) setOpenSystem(filtered[0].id);
-      }, [q, filtered]);
+        if (q && viewMode === 'revisao' && filteredRevisao.length === 1) setOpenSystem(filteredRevisao[0].id);
+      }, [q, filteredRevisao, viewMode]);
 
-      const atlasSistema = atlasData && atlasNav.sistemaId ? atlasData.sistemas.find(s => s.id === atlasNav.sistemaId) : null;
-      const atlasDivisao = atlasSistema && atlasNav.divisaoId ? atlasSistema.divisoes.find(d => d.id === atlasNav.divisaoId) : null;
+      const atlasCategory = atlasData && atlasNav.categoryId ? atlasData.categorias.find(c => c.id === atlasNav.categoryId) : null;
+      const atlasSystem = atlasCategory && atlasNav.systemId ? atlasCategory.sistemas.find(s => s.id === atlasNav.systemId) : null;
+      const atlasOrgan = atlasSystem && atlasNav.organId ? atlasSystem.orgaos.find(o => o.id === atlasNav.organId) : null;
 
       const atlasGoBack = () => {
-        if (atlasNav.step === 'plate') setAtlasNav({ step: 'laminas', sistemaId: atlasNav.sistemaId, divisaoId: atlasNav.divisaoId, laminaAtual: null });
-        else if (atlasNav.step === 'laminas') setAtlasNav({ step: 'divisions', sistemaId: atlasNav.sistemaId, divisaoId: null, laminaAtual: null });
-        else if (atlasNav.step === 'divisions') setAtlasNav({ step: 'systems', sistemaId: null, divisaoId: null, laminaAtual: null });
+        if (atlasNav.step === 'plate') setAtlasNav(prev => ({ ...prev, step: 'laminas', laminaAtual: null }));
+        else if (atlasNav.step === 'laminas') setAtlasNav(prev => ({ ...prev, step: 'organs', organId: null }));
+        else if (atlasNav.step === 'organs') setAtlasNav(prev => ({ ...prev, step: 'systems', systemId: null }));
+        else if (atlasNav.step === 'systems') setAtlasNav(prev => ({ ...prev, step: 'categories', categoryId: null }));
       };
 
       const histoSegBtnStyle = (active) => ({
@@ -11218,16 +11386,14 @@
         cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
       };
 
-      const totalLaminas = atlasSistema ? atlasSistema.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0) : 0;
-
       return (
         <div className="screen-content">
           <div style={{ maxWidth: '720px', margin: '0 auto' }}>
             <h2 style={{ fontFamily: 'Outfit', fontSize: '24px', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '2px', letterSpacing: '-0.02em' }}>Histologia</h2>
             <p style={{ fontSize: '13px', color: 'var(--text-secondary)', marginBottom: '14px', lineHeight: 1.5 }}>
               {viewMode === 'revisao'
-                ? 'Texto para revisar microanatomia por sistema e por órgão. Abra cada bloco na ordem que preferir e use a busca para achar um tópico.'
-                : 'Atlas de lâminas: escolha um sistema, depois uma divisão (órgão ou grupo de tecidos) e abra cada lâmina. As imagens serão acrescentadas aos poucos com fontes abertas.'}
+                ? 'Texto para revisar microanatomia por sistema e por órgão. Abra cada bloco na ordem que preferir.'
+                : 'Atlas categorizado por Sistema e Órgão. Use a busca para achar tecidos ou lâminas específicas.'}
             </p>
 
             {histoIntroOpen && (
@@ -11236,36 +11402,15 @@
                 border: '1px solid rgba(16,185,129,0.35)',
                 background: 'linear-gradient(165deg, rgba(16,185,129,0.12), rgba(6,182,212,0.06))',
               }}>
-                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#6EE7B7', marginBottom: '10px', fontFamily: 'Outfit, sans-serif' }}>Primeira leitura</div>
+                <div style={{ fontSize: '12px', fontWeight: 800, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#6EE7B7', marginBottom: '10px', fontFamily: 'Outfit, sans-serif' }}>Novo Sistema de Atlas</div>
                 <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
-                  <strong style={{ display: 'block', marginBottom: '8px' }}>O que é histologia</strong>
-                  É o estudo dos tecidos ao microscópio. A anatomia descreve formas e relações visíveis a olho nu; a histologia mostra como células e matriz se organizam nos órgãos. Em laboratório, o material costuma ser cortado em lâminas finas, corado (por exemplo com hematoxilina e eosina, que colore núcleos e citoplasma de forma distinta) e observado com aumento adequado.
+                  <strong>Navegação Hierárquica:</strong> Organizamos as lâminas por <strong>Categorias &rarr; Sistemas &rarr; Órgãos</strong>. <br/>
+                  <strong>Busca Global:</strong> Encontre qualquer lâmina ou estrutura instantaneamente usando a barra de busca abaixo.
                 </div>
-                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '12px' }}>
-                  <strong style={{ display: 'block', marginBottom: '8px' }}>Os quatro tipos de tecido</strong>
-                  Epitélio (reveste superfícies e forma glândulas), tecido conjuntivo (suporta, nutre e repara), tecido muscular (gera movimento) e tecido nervoso (conduz sinais e integra funções). Todo órgão combina esses tipos de maneira característica.
-                </div>
-                <div style={{ fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.65, marginBottom: '14px' }}>
-                  <strong style={{ display: 'block', marginBottom: '8px' }}>Como usar este ecrã</strong>
-                  Em <strong>Atlas de lâminas</strong>, navegue por sistema, depois por divisão (órgão ou grupo de tecidos) e escolha o título da lâmina. Em <strong>Revisão rápida</strong>, todo o conteúdo por sistema fica disponível; use sequências e cartões. A busca ajuda a achar um tecido ou órgão rapidamente.
-                </div>
-                <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', alignItems: 'center' }}>
-                  <button type="button" className="btn btn-primary" style={{ padding: '8px 16px', fontSize: '12px' }} onClick={() => { try { localStorage.setItem(HISTOLOGIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setHistoIntroOpen(false); }}>
-                    Entendi, continuar
-                  </button>
-                  <button type="button" className="btn btn-secondary" style={{ padding: '8px 14px', fontSize: '12px' }} onClick={() => { try { localStorage.setItem(HISTOLOGIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setHistoIntroOpen(false); }}>
-                    Fechar
-                  </button>
-                </div>
+                <button type="button" className="btn btn-primary" style={{ padding: '8px 16px', fontSize: '12px', background: 'linear-gradient(135deg, #10B981, #06B6D4)', border: 'none' }} onClick={() => { try { localStorage.setItem(HISTOLOGIA_INTRO_STORAGE_KEY, '1'); } catch (e) {} setHistoIntroOpen(false); }}>
+                  Entendi, continuar
+                </button>
               </div>
-            )}
-            {!histoIntroOpen && (
-              <button type="button" onClick={() => setHistoIntroOpen(true)} style={{
-                marginBottom: '16px', padding: 0, border: 'none', background: 'none', cursor: 'pointer',
-                fontSize: '12px', fontWeight: 700, color: '#6EE7B7', textDecoration: 'underline', fontFamily: 'Outfit, sans-serif',
-              }}>
-                Ver introdução à histologia de novo
-              </button>
             )}
 
             <div style={{
@@ -11273,16 +11418,33 @@
               background: 'rgba(255,255,255,0.03)', borderRadius: '12px',
               border: '1px solid rgba(255,255,255,0.06)', marginBottom: '20px',
             }}>
-              <button type="button" style={histoSegBtnStyle(viewMode === 'atlas')} onClick={() => setViewMode('atlas')}>Atlas de lâminas</button>
-              <button type="button" style={histoSegBtnStyle(viewMode === 'revisao')} onClick={() => setViewMode('revisao')}>Revisão rápida</button>
+              <button type="button" style={histoSegBtnStyle(viewMode === 'atlas')} onClick={() => {setViewMode('atlas'); setSearch('');}}>Atlas de lâminas</button>
+              <button type="button" style={histoSegBtnStyle(viewMode === 'revisao')} onClick={() => {setViewMode('revisao'); setSearch('');}}>Revisão rápida</button>
             </div>
 
+            {atlasNav.step !== 'plate' && (
+              <div style={{ position: 'relative', marginBottom: '18px' }}>
+                <input type="text" placeholder={viewMode === 'atlas' ? 'Buscar lâmina, órgão ou categoria...' : 'Buscar estrutura, sistema ou tópico...'}
+                  value={search} onChange={e => setSearch(e.target.value)}
+                  style={{
+                    width: '100%', padding: '10px 14px 10px 38px',
+                    background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
+                    borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
+                    transition: 'border-color 0.15s ease',
+                  }}
+                  onFocus={e => e.target.style.borderColor = 'rgba(16,185,129,0.45)'}
+                  onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
+                />
+                <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
+                  <AtlasIconSearch />
+                </span>
+              </div>
+            )}
+
             {viewMode === 'atlas' && (
-              <div>
+              <div style={{ animation: 'aboutFadeIn 0.3s ease' }}>
                 {atlasErr && (
-                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6 }}>
-                    Erro ao carregar o atlas de histologia. Verifique sua conexão e recarregue a página.
-                  </div>
+                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6 }}> {atlasErr} </div>
                 )}
                 {!atlasData && !atlasErr && (
                   <div style={{ padding: '48px 24px', textAlign: 'center' }}>
@@ -11291,231 +11453,131 @@
                   </div>
                 )}
 
-                {atlasData && atlasNav.step === 'systems' && (
-                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
-                    {atlasData.sistemas.map((sys, idx) => {
-                      const Icon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
-                      const nLam = sys.divisoes.reduce((t, d) => t + (d.laminas ? d.laminas.length : 0), 0);
-                      return (
-                        <button key={sys.id} type="button"
-                          onClick={() => setAtlasNav({ step: 'divisions', sistemaId: sys.id, divisaoId: null, laminaAtual: null })}
-                          style={{
-                            display: 'flex', flexDirection: 'column', alignItems: 'flex-start', gap: '10px',
-                            padding: '16px 14px', borderRadius: '14px', textAlign: 'left',
-                            border: '1px solid rgba(255,255,255,0.06)',
-                            background: 'rgba(255,255,255,0.025)',
-                            cursor: 'pointer', fontFamily: 'inherit',
-                            transition: 'background 0.15s ease, border-color 0.15s ease',
-                            animation: `aboutFadeUp 0.3s ease ${idx * 0.04}s both`,
-                          }}
-                          onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.12)'; }}
-                          onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; e.currentTarget.style.borderColor = 'rgba(255,255,255,0.06)'; }}
-                        >
-                          <div style={{
-                            width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                            background: sys.cor + '18', color: sys.cor,
-                          }}>
-                            <Icon />
-                          </div>
-                          <div>
-                            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3, marginBottom: '3px' }}>{sys.titulo}</div>
-                            <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>
-                              {sys.divisoes.length} div. {nLam > 0 ? ` · ${nLam} lam.` : ''}
-                            </div>
-                          </div>
-                        </button>
-                      );
-                    })}
+                {atlasData && q && atlasNav.step !== 'plate' && (
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                    <div style={{ fontSize: '12px', fontWeight: 700, color: 'var(--text-secondary)', marginBottom: '4px' }}> Resultados ({atlasResults.length}) </div>
+                    {atlasResults.length === 0 && (
+                      <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0' }}>Nenhum resultado encontrado.</div>
+                    )}
+                    {atlasResults.map((lam, li) => (
+                      <button key={lam.id + li} type="button"
+                        onClick={() => { setSearch(''); setAtlasNav({ step: 'plate', categoryId: lam.category.id, systemId: lam.system.id, organId: lam.organ.id, laminaAtual: lam }); }}
+                        style={{ display: 'flex', alignItems: 'center', gap: '14px', padding: '14px 16px', borderRadius: '12px', textAlign: 'left', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)', cursor: 'pointer', fontFamily: 'inherit' }}
+                      >
+                         <div style={{ flex: 1 }}>
+                            <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)' }}>{lam.titulo}</div>
+                            <div style={{ fontSize: '10px', color: 'var(--text-secondary)', marginTop: '2px', textTransform: 'uppercase' }}> {lam.category.titulo} &bull; {lam.system.titulo} &bull; {lam.organ.titulo} </div>
+                         </div>
+                         <AtlasIconChevron />
+                      </button>
+                    ))}
                   </div>
                 )}
 
-                {atlasData && atlasNav.step === 'divisions' && atlasSistema && (() => {
-                  const Icon = ATLAS_ICON_MAP[atlasSistema.icone] || AtlasIconBone;
-                  return (
-                    <div>
-                      <button type="button" onClick={atlasGoBack} style={backBtn}
-                        onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
-                        onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
-                        <AtlasIconBack /> Todos os sistemas
-                      </button>
-                      <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '16px' }}>
-                        <div style={{
-                          width: '40px', height: '40px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                          background: atlasSistema.cor + '1A', color: atlasSistema.cor,
-                        }}>
-                          <Icon />
-                        </div>
-                        <div>
-                          <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasSistema.titulo}</h3>
-                          <div style={{ fontSize: '12px', color: 'var(--text-secondary)', marginTop: '2px' }}>
-                            {atlasSistema.divisoes.length} divisões · {totalLaminas} lâminas
-                          </div>
-                        </div>
-                      </div>
-                      <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                        {atlasSistema.divisoes.map((div, di) => {
-                          const n = div.laminas ? div.laminas.length : 0;
-                          const hasImgs = div.laminas && div.laminas.some(l => l.urlImagem);
+                {atlasData && !q && (
+                  <>
+                    {atlasNav.step === 'categories' && (
+                      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(1, 1fr)', gap: '10px' }}>
+                        {atlasData.categorias.map((cat, idx) => {
+                          const Icon = ATLAS_ICON_MAP[cat.icone] || AtlasIconBone;
                           return (
-                            <button key={div.id} type="button"
-                              onClick={() => setAtlasNav({ step: 'laminas', sistemaId: atlasSistema.id, divisaoId: div.id, laminaAtual: null })}
-                              style={{
-                                display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px',
-                                padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
-                                border: '1px solid rgba(255,255,255,0.06)',
-                                background: 'rgba(255,255,255,0.025)',
-                                cursor: 'pointer', fontFamily: 'inherit',
-                                transition: 'background 0.15s ease',
-                                animation: `aboutFadeUp 0.25s ease ${di * 0.04}s both`,
-                              }}
-                              onMouseEnter={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.06)'; }}
-                              onMouseLeave={e => { e.currentTarget.style.background = 'rgba(255,255,255,0.025)'; }}
+                            <button key={cat.id} type="button" onClick={() => setAtlasNav({ ...atlasNav, step: 'systems', categoryId: cat.id })}
+                              style={{ display: 'flex', alignItems: 'center', gap: '16px', padding: '24px 20px', borderRadius: '16px', textAlign: 'left', border: '1px solid rgba(255,255,255,0.08)', background: 'linear-gradient(135deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01))', cursor: 'pointer', fontFamily: 'inherit', animation: `aboutFadeUp 0.3s ease ${idx * 0.05}s both` }}
                             >
+                              <div style={{ width: '48px', height: '48px', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', background: cat.cor + '22', color: cat.cor, flexShrink: 0 }}> <Icon /> </div>
                               <div style={{ flex: 1 }}>
-                                <div style={{ fontWeight: 600, fontSize: '14px', color: 'var(--text-primary)' }}>{div.titulo}</div>
-                                <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                                  {n} lâmina{n !== 1 ? 's' : ''}
-                                  {hasImgs && <span style={{ display: 'inline-flex', color: atlasSistema.cor, opacity: 0.7 }}><AtlasIconPin /></span>}
-                                  {!hasImgs && n > 0 && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)', color: 'var(--text-secondary)' }}>aguardando imagens</span>}
-                                </div>
+                                <div style={{ fontWeight: 800, fontSize: '16px', color: 'var(--text-primary)', marginBottom: '4px', fontFamily: 'Outfit' }}>{cat.titulo}</div>
+                                <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Explore sistemas e órgãos</div>
                               </div>
-                              <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
+                              <AtlasIconChevron />
                             </button>
                           );
                         })}
                       </div>
-                    </div>
-                  );
-                })()}
+                    )}
 
-                {atlasData && atlasNav.step === 'laminas' && atlasSistema && atlasDivisao && (
-                  <div>
-                    <button type="button" onClick={atlasGoBack} style={backBtn}
-                      onMouseEnter={e => e.currentTarget.style.background='rgba(255,255,255,0.08)'}
-                      onMouseLeave={e => e.currentTarget.style.background='rgba(255,255,255,0.04)'}>
-                      <AtlasIconBack /> {atlasSistema.titulo}
-                    </button>
-                    <div style={{ marginBottom: '14px' }}>
-                      <div style={{ fontSize: '11px', fontWeight: 700, color: atlasSistema.cor, textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: '4px' }}>{atlasSistema.titulo}</div>
-                      <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', margin: 0 }}>{atlasDivisao.titulo}</h3>
-                    </div>
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
-                      {atlasDivisao.laminas.map((lam, li) => {
-                        const hasImg = lam.urlImagem && lam.urlImagem.length > 0;
-                        const hasPins = lam.pinos && lam.pinos.length > 0;
-                        return (
-                          <button key={lam.id} type="button"
-                            onClick={() => setAtlasNav({ step: 'plate', sistemaId: atlasSistema.id, divisaoId: atlasDivisao.id, laminaAtual: lam })}
-                            style={{
-                              display: 'flex', alignItems: 'center', gap: '14px',
-                              padding: '14px 16px', borderRadius: '12px', textAlign: 'left',
-                              border: '1px solid rgba(255,255,255,0.06)',
-                              background: hasImg ? 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.04))' : 'rgba(255,255,255,0.02)',
-                              cursor: 'pointer', fontFamily: 'inherit', transition: 'background 0.15s ease',
-                              animation: `aboutFadeUp 0.25s ease ${li * 0.04}s both`,
-                            }}
-                            onMouseEnter={e => e.currentTarget.style.background = hasImg ? 'rgba(16,185,129,0.14)' : 'rgba(255,255,255,0.05)'}
-                            onMouseLeave={e => e.currentTarget.style.background = hasImg ? 'linear-gradient(135deg, rgba(16,185,129,0.08), rgba(6,182,212,0.04))' : 'rgba(255,255,255,0.02)'}
-                          >
-                            <div style={{
-                              width: '38px', height: '38px', borderRadius: '10px', flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center',
-                              background: hasImg ? atlasSistema.cor + '18' : 'rgba(255,255,255,0.04)',
-                              color: hasImg ? atlasSistema.cor : 'rgba(255,255,255,0.2)',
-                            }}>
-                              <AtlasIconImage />
-                            </div>
-                            <div style={{ flex: 1 }}>
-                              <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', lineHeight: 1.3 }}>{lam.titulo}</div>
-                              <div style={{ fontSize: '11px', color: 'var(--text-secondary)', marginTop: '3px', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                                {hasPins && <span style={{ display: 'flex', alignItems: 'center', gap: '3px', color: atlasSistema.cor }}><AtlasIconPin /> {lam.pinos.length}</span>}
-                                {!hasImg && <span style={{ fontSize: '10px', padding: '1px 6px', borderRadius: '4px', background: 'rgba(255,255,255,0.06)' }}>pendente</span>}
-                              </div>
-                            </div>
-                            <span style={{ color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
-                          </button>
-                        );
-                      })}
-                    </div>
-                  </div>
-                )}
+                    {atlasNav.step === 'systems' && atlasCategory && (
+                      <div>
+                        <button type="button" onClick={atlasGoBack} style={backBtn}> <AtlasIconBack /> Categorias </button>
+                        <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', marginBottom: '16px' }}>{atlasCategory.titulo}</h3>
+                        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '8px' }}>
+                          {atlasCategory.sistemas.map((sys) => (
+                            <button key={sys.id} type="button" onClick={() => setAtlasNav({ ...atlasNav, step: 'organs', systemId: sys.id })}
+                              style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-start', padding: '16px 18px', borderRadius: '12px', textAlign: 'left', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)', cursor: 'pointer', fontFamily: 'inherit' }}
+                            >
+                              <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', marginBottom: '4px' }}>{sys.titulo}</span>
+                              <span style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>{sys.orgaos.length} grupos</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
 
-                {atlasData && atlasNav.step === 'plate' && atlasNav.laminaAtual && atlasSistema && atlasDivisao && (
-                  <AnatomiaAtlasPlate
-                    lamina={atlasNav.laminaAtual}
-                    accentColor={atlasSistema.cor}
-                    sistemaTitulo={atlasSistema.titulo}
-                    divisaoTitulo={atlasDivisao.titulo}
-                    referenciaAsclepio={atlasData.referenciaAsclepio || { nome: '', url: '' }}
-                    onBack={atlasGoBack}
-                  />
+                    {atlasNav.step === 'organs' && atlasSystem && (
+                      <div>
+                        <button type="button" onClick={atlasGoBack} style={backBtn}> <AtlasIconBack /> {atlasCategory.titulo} </button>
+                        <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', marginBottom: '16px' }}>{atlasSystem.titulo}</h3>
+                        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: '10px' }}>
+                          {atlasSystem.orgaos.map((org) => (
+                            <button key={org.id} type="button" onClick={() => setAtlasNav({ ...atlasNav, step: 'laminas', organId: org.id })}
+                              style={{ padding: '14px', borderRadius: '12px', textAlign: 'left', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)', cursor: 'pointer', fontFamily: 'inherit' }}
+                            >
+                              <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)', marginBottom: '4px' }}>{org.titulo}</div>
+                              <div style={{ fontSize: '11px', color: 'var(--text-secondary)' }}>{org.laminas.length} lâminas</div>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {atlasNav.step === 'laminas' && atlasOrgan && (
+                      <div>
+                        <button type="button" onClick={atlasGoBack} style={backBtn}> <AtlasIconBack /> {atlasSystem.titulo} </button>
+                        <h3 style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '18px', color: 'var(--text-primary)', marginBottom: '16px' }}>{atlasOrgan.titulo}</h3>
+                        <div style={{ display: 'flex', flexDirection: 'column', gap: '8px' }}>
+                          {atlasOrgan.laminas.map((lam) => (
+                            <button key={lam.id} type="button" onClick={() => setAtlasNav({ ...atlasNav, step: 'plate', laminaAtual: lam })}
+                              style={{ display: 'flex', alignItems: 'center', gap: '14px', padding: '14px 16px', borderRadius: '12px', textAlign: 'left', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)', cursor: 'pointer', fontFamily: 'inherit' }}
+                            >
+                              <div style={{ width: '32px', height: '32px', borderRadius: '8px', flexShrink: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', background: 'rgba(255,255,255,0.04)', color: 'rgba(255,255,255,0.2)' }}> <AtlasIconImage /> </div>
+                              <div style={{ flex: 1 }}> <div style={{ fontWeight: 700, fontSize: '13px', color: 'var(--text-primary)' }}>{lam.titulo}</div> </div>
+                              <AtlasIconChevron />
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {atlasNav.step === 'plate' && atlasNav.laminaAtual && (
+                      <AnatomiaAtlasPlate lamina={atlasNav.laminaAtual} accentColor={atlasCategory.cor} sistemaTitulo={atlasSystem.titulo} divisaoTitulo={atlasOrgan.titulo} referenciaAsclepio={atlasData.referenciaAsclepio || { nome: '', url: '' }} onBack={atlasGoBack} />
+                    )}
+                  </>
                 )}
               </div>
             )}
 
             {viewMode === 'revisao' && (
-              <>
-                {revisaoErr && (
-                  <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6, marginBottom: '16px' }}>
-                    Erro ao carregar a revisão escrita. Verifique sua conexão e recarregue a página.
-                  </div>
-                )}
+              <div style={{ animation: 'aboutFadeIn 0.3s ease' }}>
+                {revisaoErr && ( <div style={{ padding: '16px', borderRadius: '14px', background: 'rgba(239,68,68,0.08)', border: '1px solid rgba(239,68,68,0.2)', color: '#FCA5A5', fontSize: '13px', lineHeight: 1.6, marginBottom: '16px' }}> Erro ao carregar revisão. </div> )}
                 {!revisaoData && !revisaoErr && (
                   <div style={{ padding: '48px 24px', textAlign: 'center', marginBottom: '8px' }}>
                     <div style={{ width: '28px', height: '28px', margin: '0 auto 12px', border: '3px solid rgba(255,255,255,0.1)', borderTopColor: '#10B981', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
                     <div style={{ fontSize: '13px', color: 'var(--text-secondary)' }}>Carregando revisão...</div>
                   </div>
                 )}
-
                 {revisaoData && (
                   <>
-                    <div style={{ position: 'relative', marginBottom: '18px' }}>
-                      <input type="text" placeholder="Buscar tecido, órgão, sequência..."
-                        value={search} onChange={e => setSearch(e.target.value)}
-                        style={{
-                          width: '100%', padding: '10px 14px 10px 38px',
-                          background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.08)',
-                          borderRadius: '10px', color: 'var(--text-primary)', fontSize: '14px', outline: 'none',
-                          transition: 'border-color 0.15s ease',
-                        }}
-                        onFocus={e => e.target.style.borderColor = 'rgba(16,185,129,0.45)'}
-                        onBlur={e => e.target.style.borderColor = 'rgba(255,255,255,0.08)'}
-                      />
-                      <span style={{ position: 'absolute', left: '12px', top: '50%', transform: 'translateY(-50%)', color: 'var(--text-secondary)', pointerEvents: 'none', display: 'flex' }}>
-                        <AtlasIconSearch />
-                      </span>
-                    </div>
-
-                    {filtered.length === 0 && (
-                      <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>
-                        Nenhum resultado para "{search}"
-                      </div>
-                    )}
-
-                    {filtered.map(sys => {
+                    {filteredRevisao.length === 0 && ( <div style={{ textAlign: 'center', color: 'var(--text-secondary)', padding: '40px 0', fontSize: '14px' }}>Nenhum resultado para "{search}".</div> )}
+                    {filteredRevisao.map(sys => {
                       const SysIcon = ATLAS_ICON_MAP[sys.icone] || AtlasIconBone;
                       const nItems = (sys.subsections || []).reduce((t, s) => t + countRevisaoSubItems(s), 0);
                       return (
                         <div key={sys.id} style={{ marginBottom: '8px', borderRadius: '14px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.06)', background: 'rgba(255,255,255,0.02)' }}>
-                          <div onClick={() => toggleSystem(sys.id)} style={{
-                            display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px',
-                            cursor: 'pointer', userSelect: 'none',
-                            borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none',
-                          }}>
-                            <span style={{
-                              width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center',
-                              background: (sys.color || '#10B981') + '22', color: sys.color || '#10B981', flexShrink: 0,
-                            }}>
-                              <SysIcon />
-                            </span>
+                          <div onClick={() => toggleSystem(sys.id)} style={{ display: 'flex', alignItems: 'center', gap: '12px', padding: '13px 16px', cursor: 'pointer', userSelect: 'none', borderBottom: openSystem === sys.id ? '1px solid rgba(255,255,255,0.06)' : 'none' }}>
+                            <span style={{ width: '36px', height: '36px', borderRadius: '10px', display: 'flex', alignItems: 'center', justifyContent: 'center', background: (sys.color || '#10B981') + '22', color: sys.color || '#10B981', flexShrink: 0 }}> <SysIcon /> </span>
                             <span style={{ fontWeight: 700, fontSize: '14px', color: 'var(--text-primary)', flex: 1 }}>{sys.name}</span>
-                            <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>
-                              {nItems === 1 ? '1 item' : `${nItems} itens`}
-                            </span>
-                            <span style={{
-                              display: 'flex', transition: 'transform 0.2s',
-                              transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)',
-                              color: 'var(--text-secondary)', opacity: 0.5,
-                            }}><AtlasIconChevron /></span>
+                            <span style={{ fontSize: '11px', color: 'var(--text-secondary)', marginRight: '4px' }}>{nItems} itens</span>
+                            <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSystem === sys.id ? 'rotate(90deg)' : 'rotate(0deg)', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
                           </div>
                           {openSystem === sys.id && (
                             <div style={{ padding: '8px 12px 12px' }}>
@@ -11524,12 +11586,7 @@
                                 const blocks = normalizeRevisaoBlocks(sub);
                                 return (
                                   <div key={subKey} style={{ marginBottom: '6px' }}>
-                                    <div onClick={() => toggleSub(subKey)} style={{
-                                      display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                                      padding: '9px 12px', borderRadius: '9px', cursor: 'pointer',
-                                      background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)',
-                                      fontSize: '13px', fontWeight: 600, color: 'var(--text-primary)', transition: 'background 0.15s ease',
-                                    }}>
+                                    <div onClick={() => toggleSub(subKey)} style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', padding: '9px 12px', borderRadius: '9px', cursor: 'pointer', background: openSub[subKey] ? 'rgba(255,255,255,0.06)' : 'rgba(255,255,255,0.02)', fontSize: '13px', fontWeight: 600, color: 'var(--text-primary)', transition: 'background 0.15s ease' }}>
                                       <span>{sub.title}</span>
                                       <span style={{ display: 'flex', transition: 'transform 0.2s', transform: openSub[subKey] ? 'rotate(90deg)' : 'none', color: 'var(--text-secondary)', opacity: 0.5 }}><AtlasIconChevron /></span>
                                     </div>
@@ -11537,15 +11594,9 @@
                                       <div style={{ padding: '8px 4px 0' }}>
                                         {blocks.map((block, bi) => (
                                           <div key={bi}>
-                                            {block.type === 'sequence' && (
-                                              <RevisaoSequenceBlock block={block} accentColor={sys.color} />
-                                            )}
-                                            {block.type === 'hub' && (
-                                              <RevisaoHubBlock block={block} accentColor={sys.color} />
-                                            )}
-                                            {block.type === 'cards' && (
-                                              <RevisaoCardsBlock block={block} accentColor={sys.color} />
-                                            )}
+                                            {block.type === 'sequence' && <RevisaoSequenceBlock block={block} accentColor={sys.color} />}
+                                            {block.type === 'hub' && <RevisaoHubBlock block={block} accentColor={sys.color} />}
+                                            {block.type === 'cards' && <RevisaoCardsBlock block={block} accentColor={sys.color} />}
                                           </div>
                                         ))}
                                       </div>
@@ -11560,7 +11611,7 @@
                     })}
                   </>
                 )}
-              </>
+              </div>
             )}
           </div>
         </div>
@@ -11722,10 +11773,16 @@
               ),
               React.createElement('div', { style: { padding: '28px 24px', borderRadius: '20px', textAlign: 'center', background: 'linear-gradient(135deg, rgba(245,158,11,0.14), rgba(139,92,246,0.12))', border: '1px solid rgba(245,158,11,0.20)', animation: 'gbFadeUp 0.9s ease 0.3s both' } },
                 React.createElement('div', { style: { fontFamily: 'Outfit, sans-serif', fontSize: 'clamp(22px, 4vw, 32px)', fontWeight: 800, color: 'var(--text-primary)', marginBottom: '10px', letterSpacing: '-0.02em' } }, 'Constru\u00eddo para quem vai ao internato.'),
-                React.createElement('p', { style: { fontSize: '14px', color: 'var(--text-secondary)', lineHeight: 1.8, marginBottom: '22px', maxWidth: '480px', margin: '0 auto 22px' } }, 'Acompanhe o desenvolvimento no GitHub \u2014 o reposit\u00f3rio est\u00e1 aberto. Assim que lan\u00e7ar, sua conta MedGradPlus j\u00e1 vai estar conectada.'),
-                React.createElement('div', { style: { display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '12px' } },
-                  React.createElement('a', { href: 'https://github.com/pngjaico/GradBookApp', target: '_blank', rel: 'noopener noreferrer', className: 'gb-cta-btn' }, '\u2b50 Ver reposit\u00f3rio'),
-                  React.createElement('button', { onClick: () => onNavigate('about'), style: { border: '1px solid var(--border-subtle)', background: 'var(--surface-1)', color: 'var(--text-primary)', borderRadius: '14px', padding: '14px 20px', fontSize: '14px', fontWeight: 700, cursor: 'pointer', fontFamily: 'DM Sans, sans-serif' } }, 'Sobre o MedGradPlus')
+                React.createElement('div', { style: { display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '12px', marginTop: '16px' } },
+                  React.createElement('button', { 
+                    onClick: () => {
+                      const em = user?.email;
+                      window.location.href = (em && !user?.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
+                        ? `landing.html?email=${encodeURIComponent(em)}`
+                        : 'landing.html';
+                    }, 
+                    style: { border: '1px solid var(--border-subtle)', background: 'var(--surface-1)', color: 'var(--text-primary)', borderRadius: '14px', padding: '14px 24px', fontSize: '15px', fontWeight: 700, cursor: 'pointer', fontFamily: 'DM Sans, sans-serif', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' } 
+                  }, 'Conhe\u00e7a o MedGrad+')
                 )
               )
             )
@@ -11827,8 +11884,8 @@
                         onClick={() => {
                           const em = user?.email;
                           window.location.href = (em && !user?.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
-                            ? `comprar.html?email=${encodeURIComponent(em)}`
-                            : 'comprar.html';
+                            ? `landing.html?email=${encodeURIComponent(em)}`
+                            : 'landing.html';
                         }}
                         style={{
                           border: '1px solid rgba(255,255,255,0.18)',
@@ -12065,6 +12122,13 @@
       );
 
       const navigateTo = (tab, options = {}) => {
+        if (tab === 'about') {
+          const em = user?.email;
+          window.location.href = (em && !user?.isGuest && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em))
+            ? `landing.html?email=${encodeURIComponent(em)}`
+            : 'landing.html';
+          return;
+        }
         const resolvedTab = VALID_TABS.includes(tab) ? tab : 'home';
         const materiaIdForAnatomyHist = options.materiaId !== undefined ? options.materiaId : 'anatomy';
         const nextRoute = {
@@ -12380,7 +12444,7 @@
                     <button className="btn btn-secondary" style={{ width: 'auto', padding: '10px 16px' }} onClick={() => { window.location.hash = ''; const next = { tab: 'home', materiaId: null, aulaId: null, publicOnly: false }; setRouteState(next); setCurrentTab(next.tab); }}>
                       ← Voltar ao login
                     </button>
-                    <a href="comprar.html" className="btn btn-primary" style={{ width: 'auto', padding: '10px 16px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>
+                    <a href="landing.html" className="btn btn-primary" style={{ width: 'auto', padding: '10px 16px', textDecoration: 'none', display: 'inline-flex', alignItems: 'center' }}>
                       🎓 Ver planos e preços
                     </a>
                   </div>

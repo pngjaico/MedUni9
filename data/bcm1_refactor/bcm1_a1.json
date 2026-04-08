@@ -1,0 +1,232 @@
+[
+  {
+    "id": 802,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "A membrana plasmática humana é frequentemente descrita como bicamada lipídica fluida. Qual afirmação descreve melhor o papel do colesterol nessa estrutura?",
+    "opcoes": [
+      "A) Intercala-se na bicamada, influenciando fluidez e estabilidade da membrana.",
+      "B) Constitui a principal barreira impermeável que impede difusão de O₂ e CO₂.",
+      "C) É o principal componente estrutural do glicocálix visível ao microscópio.",
+      "D) Substitui fosfolipídios na face hidrofóbica, eliminando a necessidade de proteínas."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Colesterol modula fluidez da bicamada; gases pequenos e lipossolúveis atravessam por difusão simples; glicocálix é de carboidratos ligados a proteínas/lipídios.",
+    "explicacoes_opcoes": {
+      "A": "Correta: o colesterol intercala-se entre caudas de fosfolipídios e modula rigidez/fluidez.",
+      "B": "Incorreta: O₂ e CO₂ difundem pela bicamada; a barreira não é feita pelo colesterol isoladamente.",
+      "C": "Incorreta: glicocálix é carboidrato na superfície; não é colesterol.",
+      "D": "Incorreta: fosfolipídios permanecem essenciais; colesterol não os substitui."
+    },
+    "explicacao": "Resumo: Colesterol fino-tuna a bicamada sem ser a única barreira ou o glicocálix.\nA) CORRETA. Correta: o colesterol intercala-se entre caudas de fosfolipídios e modula rigidez/fluidez.\nB) INCORRETA. Incorreta: O₂ e CO₂ difundem pela bicamada; a barreira não é feita pelo colesterol isoladamente.\nC) INCORRETA. Incorreta: glicocálix é carboidrato na superfície; não é colesterol.\nD) INCORRETA. Incorreta: fosfolipídios permanecem essenciais; colesterol não os substitui."
+  },
+  {
+    "id": 803,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Qual é a razão stoichiometrica usual da bomba Na⁺/K⁺-ATPase em repouso?",
+    "opcoes": [
+      "A) 2 Na⁺ saem da célula para cada 3 K⁺ que entram.",
+      "B) 3 Na⁺ são expelidos e 2 K⁺ são recaptados por ciclo catalítico.",
+      "C) Troca eletroneutra 1:1 de Na⁺ por K⁺ sem consumo líquido de ATP.",
+      "D) 3 K⁺ saem e 2 Na⁺ entram, gerando gradiente exclusivamente apical."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Na⁺/K⁺-ATPase move 3 Na⁺ para fora e 2 K⁺ para dentro por ATP hidrolisado, gerando potencial e gradientes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte a razão correta.",
+      "B": "Correta: 3 Na⁺ out / 2 K⁺ in é a descrição clássica da bomba.",
+      "C": "Incorreta: o transporte consome ATP e não é 1:1.",
+      "D": "Incorreta: direção e razão estão erradas; não é especificidade apical universal."
+    },
+    "explicacao": "Resumo: A bomba é 3:2 e eletrogênica.\nA) INCORRETA. Incorreta: inverte a razão correta.\nB) CORRETA. Correta: 3 Na⁺ out / 2 K⁺ in é a descrição clássica da bomba.\nC) INCORRETA. Incorreta: o transporte consome ATP e não é 1:1.\nD) INCORRETA. Incorreta: direção e razão estão erradas; não é especificidade apical universal."
+  },
+  {
+    "id": 804,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Em comparação com o retículo endoplasmático rugoso (RER), o retículo endoplasmático liso (REL) é especializado principalmente em:",
+    "opcoes": [
+      "A) Síntese de proteínas ligadas a ribossomos 80S aderidos à membrana.",
+      "B) Produção de imunoglobulinas para secreção na corrente sanguínea.",
+      "C) Síntese de lipídios, metabolismo de esteroides e detoxificação (ex.: citocromo P450), conforme contexto celular.",
+      "D) Montagem de nucleossomos e compactação da cromatina no núcleo."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "RER = proteínas de secreção/membrana com ribossomos; REL = lipídios, esteroides, detox, reserva de Ca²⁺ em certos tecidos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve RER, não REL.",
+      "B": "Incorreta: imunoglobulinas são síntese ribossomal típica do RER em plasmócitos.",
+      "C": "Correta: funções clássicas do REL no material.",
+      "D": "Incorreta: nucleossomos são organização de DNA nuclear, não função do REL."
+    },
+    "explicacao": "Resumo: REL não carrega ribossomos para síntese proteica secretória como o RER.\nA) INCORRETA. Incorreta: descreve RER, não REL.\nB) INCORRETA. Incorreta: imunoglobulinas são síntese ribossomal típica do RER em plasmócitos.\nC) CORRETA. Correta: funções clássicas do REL no material.\nD) INCORRETA. Incorreta: nucleossomos são organização de DNA nuclear, não função do REL."
+  },
+  {
+    "id": 805,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Paciente com esplenomegalia e anemia, biópsia com macrófagos cheios de material em falso de tecido. O defeito enzimático mais coerente com doença de depósito lisossomal do material citado (esfingolipídeo) é:",
+    "opcoes": [
+      "A) Hexosaminidase A deficiente, típica de acúmulo de GM2 no neurônio.",
+      "B) Esfingomielinase deficiente, com predomínio de depósito em neurônios e fígado.",
+      "C) α-L-iduronidase deficiente, típica de mucopolissacaridose.",
+      "D) β-glucocerebrosidase deficiente, associada ao acúmulo de glucocerebroside em macrófagos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Gaucher: deficiência de β-glucocerebrosidase, depósito em macrófagos; Tay-Sachs é hexosaminidase A; Niemann-Pick esfingomielinase.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: perfil é Tay-Sachs (neurológico predominante), não o quadro de macrófagos Gaucher.",
+      "B": "Incorreta: Niemann-Pick é esfingomielinase; quadro clássico de macrófagos em falso de tecido é Gaucher.",
+      "C": "Incorreta: MPS por enzimas de glicosaminoglicanos, não glucocerebroside.",
+      "D": "Correta: Gaucher — β-glucocerebrosidase — células em falso de tecido."
+    },
+    "explicacao": "Resumo: Macrófagos com aspecto em falso de tecido apontam para Gaucher.\nA) INCORRETA. Incorreta: perfil é Tay-Sachs (neurológico predominante), não o quadro de macrófagos Gaucher.\nB) INCORRETA. Incorreta: Niemann-Pick é esfingomielinase; quadro clássico de macrófagos em falso de tecido é Gaucher.\nC) INCORRETA. Incorreta: MPS por enzimas de glicosaminoglicanos, não glucocerebroside.\nD) CORRETA. Correta: Gaucher — β-glucocerebrosidase — células em falso de tecido."
+  },
+  {
+    "id": 806,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Qual característica distingue mitocôndrias de ribossomos citoplasmáticos típicos de células humanas?",
+    "opcoes": [
+      "A) Ribossomos mitocondriais são 80S, iguais ao citoplasma, evitando toxicidade de antibióticos.",
+      "B) DNA mitocondrial é linear e de herança predominantemente paterna.",
+      "C) Mitocôndrias contêm DNA circular e ribossomos do tipo 70S, alinhados a procariotos.",
+      "D) A cadeia respiratória localiza-se exclusivamente na membrana plasmática em neurônios."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "DNA mt circular, herança materna; ribossomos 70S mitocondriais; cadeia respiratória nas cristas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: citoplasma 80S; mitocôndria 70S.",
+      "B": "Incorreta: DNA mt é circular e herança materna.",
+      "C": "Correta: alinhamento endossimbiótico e base para toxicidade de alguns antibióticos.",
+      "D": "Incorreta: fosforilação oxidativa ocorre na membrana mitocondrial interna."
+    },
+    "explicacao": "Resumo: 70S + DNA circular são marcas mitocondriais.\nA) INCORRETA. Incorreta: citoplasma 80S; mitocôndria 70S.\nB) INCORRETA. Incorreta: DNA mt é circular e herança materna.\nC) CORRETA. Correta: alinhamento endossimbiótico e base para toxicidade de alguns antibióticos.\nD) INCORRETA. Incorreta: fosforilação oxidativa ocorre na membrana mitocondrial interna."
+  },
+  {
+    "id": 807,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Homem jovem com infertilidade, bronquiectasias crônicas e situs inversus. A hipótese fisiopatológica mais coerente com o material (cílios imóveis por defeito de dineína) é:",
+    "opcoes": [
+      "A) Defeito de integrinas na membrana basolateral do epitélio respiratório.",
+      "B) Mutação no gene da espectrina eritrocitária causando esferocitose.",
+      "C) Disgenesia gonadal puramente hormonal sem alteração estrutural dos flagelos.",
+      "D) Síndrome de Kartagener (disquinésia ciliar primária) com alteração do axonema."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Kartagener: dineína defeituosa, cílios imóveis, situs inversus, bronquiectasias, infertilidade masculina por flagelo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: integrinas — adesão; não explicam tríade clássica de cílio.",
+      "B": "Incorreta: espectrina/actina — hemólise; não situs inversus.",
+      "C": "Incorreta: ignora defeito estrutural ciliar bem documentado.",
+      "D": "Correta: tríade clássica + defeito de motilidade ciliar/flagelar."
+    },
+    "explicacao": "Resumo: Tríade respiratória + situs + infertilidade aponta disquinésia ciliar primária.\nA) INCORRETA. Incorreta: integrinas — adesão; não explicam tríade clássica de cílio.\nB) INCORRETA. Incorreta: espectrina/actina — hemólise; não situs inversus.\nC) INCORRETA. Incorreta: ignora defeito estrutural ciliar bem documentado.\nD) CORRETA. Correta: tríade clássica + defeito de motilidade ciliar/flagelar."
+  },
+  {
+    "id": 808,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "A internalização do receptor de LDL pelas células hepáticas e periféricas ocorre predominantemente por:",
+    "opcoes": [
+      "A) Endocitose mediada por receptor com revestimento de clatrina.",
+      "B) Difusão simples do LDL pela bicamada lipídica.",
+      "C) Transporte apenas por GLUT1 sem vesícula.",
+      "D) Fagocitose não específica independente de colesterol."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "LDL entra por endocitose mediada por receptor; clatrina reveste invaginações; base da farmacologia de estatinas induzindo receptores.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mecanismo clássico descrito no material.",
+      "B": "Incorreta: LDL não cruza membrana por difusão simples em quantidade relevante.",
+      "C": "Incorreta: GLUT transporta glicose, não partículas de LDL.",
+      "D": "Incorreta: é via receptor específico, não fagocitose macro inespecífica."
+    },
+    "explicacao": "Resumo: LDL — receptor — clatrina — endossomo.\nA) CORRETA. Correta: mecanismo clássico descrito no material.\nB) INCORRETA. Incorreta: LDL não cruza membrana por difusão simples em quantidade relevante.\nC) INCORRETA. Incorreta: GLUT transporta glicose, não partículas de LDL.\nD) INCORRETA. Incorreta: é via receptor específico, não fagocitose macro inespecífica."
+  },
+  {
+    "id": 809,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Lactente com fibrose cística (CFTR ΔF508). A proteínas mutadas tendem a ser retidas no retículo endoplasmático com dobramento defeituoso, sem chegar à membrana apical dos ductos. Esse aspecto ilustra diretamente a relação entre:",
+    "opcoes": [
+      "A) Peroxissomo e β-oxidação de ácidos graxos de cadeia muito longa.",
+      "B) Controle de qualidade no RER e tráfego vesicular até a superfície celular.",
+      "C) Lisossomo e digestão exclusiva de lipídeos de membrana plasmática.",
+      "D) Síntese de DNA mitocondrial e herança exclusivamente paterna."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "CFTR mal dobrada retém-se no RER; integra síntese proteica, QC e exportação; material cita mucoviscidose explicitamente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: peroxissomos — outro compartimento; não o foco CFTR.",
+      "B": "Correta: retenção no RE e falha de exportação à membrana.",
+      "C": "Incorreta: lisossomo não explica retenção de CFTR no RER.",
+      "D": "Incorreta: herança mitocondrial é materna; CFTR é nuclear."
+    },
+    "explicacao": "Resumo: ΔF508 — misfolding — RER — não chega à membrana.\nA) INCORRETA. Incorreta: peroxissomos — outro compartimento; não o foco CFTR.\nB) CORRETA. Correta: retenção no RE e falha de exportação à membrana.\nC) INCORRETA. Incorreta: lisossomo não explica retenção de CFTR no RER.\nD) INCORRETA. Incorreta: herança mitocondrial é materna; CFTR é nuclear."
+  },
+  {
+    "id": 810,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Idoso com insuficiência cardíaca em uso de digoxina. O efeito inotrópio positivo é explicado, em parte, pela inibição da Na⁺/K⁺-ATPase no cardiomiócito, com aumento subsequente de cálcio intracelular mediado pelo trocador Na⁺/Ca²⁺. Qual etapa inicial está corretamente descrita?",
+    "opcoes": [
+      "A) Bloqueio da bomba aumenta Na⁺ intracelular, reduzindo efluxo de Ca²⁺ via NCX.",
+      "B) Estimulação da bomba aumenta K⁺ extracelular e fecha canais de Ca²⁺.",
+      "C) Inibição da bomba eleva Na⁺ intracelular, favorecendo entrada de Ca²⁺ pelo NCX (menor gradiente eletroquímico para troca).",
+      "D) A digoxina ativa diretamente receptores β-adrenérgicos sem envolver sódio."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Digitálica inibe Na/K-ATPase → ↑Na⁺ i → NCX reverte menos ou importa Ca²⁺ → ↑Ca²⁺ i → inotropismo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: direção do efeito no Ca²⁺ via NCX está mal explicada (queremos ↑Ca²⁺ i).",
+      "B": "Incorreta: inibição, não estimulação; mecanismo não é esse.",
+      "C": "Correta: alinhado ao material (Na⁺ sobe → mecanismo do NCX e Ca²⁺).",
+      "D": "Incorreta: alvo primário clássico é a bomba, não agonismo β direto."
+    },
+    "explicacao": "Resumo: Inibição Na/K → desbalanceamento Na⁺ → Ca²⁺ cardíaco.\nA) INCORRETA. Incorreta: direção do efeito no Ca²⁺ via NCX está mal explicada (queremos ↑Ca²⁺ i).\nB) INCORRETA. Incorreta: inibição, não estimulação; mecanismo não é esse.\nC) CORRETA. Correta: alinhado ao material (Na⁺ sobe → mecanismo do NCX e Ca²⁺).\nD) INCORRETA. Incorreta: alvo primário clássico é a bomba, não agonismo β direto."
+  },
+  {
+    "id": 811,
+    "materia": "bcm1",
+    "tema": "bcm1_a1",
+    "enunciado": "Antineoplásicos como a vincristina interferem na polimerização dos microtúbulos. Qual função celular é diretamente afetada?",
+    "opcoes": [
+      "A) Síntese de ácidos graxos no peroxissomo.",
+      "B) Ligação peptídica catalisada exclusivamente pela subunidade 40S.",
+      "C) Degradação de proteínas no proteassoma 20S sem envolvimento de membrana.",
+      "D) Montagem do fuso mitótico e transporte vesicular ao longo do citoesqueleto de tubulina."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Microtúbulos: fuso, cílios, transporte axônico; vinca alcaloides ligam tubulina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: peroxissomo — β-oxidação; não microtúbulos.",
+      "B": "Incorreta: tradução ribossomal, eixo distinto.",
+      "C": "Incorreta: proteassoma não é o alvo clássico da vincristina.",
+      "D": "Correta: fuso e tráfego dependem de microtúbulos."
+    },
+    "explicacao": "Resumo: Tubulina/microtúbulo — mitose e tráfego.\nA) INCORRETA. Incorreta: peroxissomo — β-oxidação; não microtúbulos.\nB) INCORRETA. Incorreta: tradução ribossomal, eixo distinto.\nC) INCORRETA. Incorreta: proteassoma não é o alvo clássico da vincristina.\nD) CORRETA. Correta: fuso e tráfego dependem de microtúbulos."
+  }
+]

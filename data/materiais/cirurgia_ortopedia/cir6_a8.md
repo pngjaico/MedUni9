@@ -26,11 +26,11 @@
 
 Acesso **venoso calibroso**, monitorização, **tipo e screen**, hemograma, função renal, coagulação quando relevante. **PPI** em suspeita de etiologia ulcerosa após estabilização. Em varizes com suspeita clínica: **octreotide** conforme protocolo institucional; **antibioticoprofilaxia** em cirróticos com hemorragia varicosa. **Transfusão** guiada por sintomas, taquicardia persistente e limiares de hemoglobina — não “número mágico” isolado.
 
-### DDx rápida — HDA
+### diagnóstico diferencial rápida — HDA
 
 Úlcera péptica, **varizes esofagogástricas**, gastrite erosiva, **Mallory-Weiss**, neoplasia gástrica/esofágica, angiodisplasia (menos comum como primeira hipótese).
 
-### DDx rápida — HDB
+### diagnóstico diferencial rápida — HDB
 
 **Divertículo**, angiodisplasia, neoplasia colorretal, colite (infecciosa ou inflamatória), hemorroidas, fissura.
 
@@ -109,12 +109,11 @@ Paciente **hipotenso** com hematemese: proteção de via aérea se rebaixamento;
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Forrest** — ideia de estigmas de alto risco de ressangramento.
-- **Antibioticoprofilaxia** no cirrótico com sangramento varicoso.
-- **Angiografia** com embolização em persistência.
-- **Isquemia mesentérica** pode sangrar — inclua no DDx de dor + sangue.
+Na prova, lembre que Forrest — ideia de estigmas de alto risco de ressangramento. Antibioticoprofilaxia no cirrótico com sangramento varicoso.
+
+Para não errar em cenário clínico, considere também Angiografia com embolização em persistência. Isquemia mesentérica pode sangrar — inclua no diagnóstico diferencial de dor + sangue.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -128,14 +127,3 @@ Paciente **hipotenso** com hematemese: proteção de via aérea se rebaixamento;
 ### Frase-âncora para não esquecer
 
 > “**Volume e oxigênio** primeiro; **endoscopia** no doente certo, no tempo certo.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Em caso de dúvida entre **observação** e **intervenção**, revise **estabilidade hemodinâmica**, **comorbidades** e recursos do serviço.
-
-### Leitura de reforço
-
-- Diretrizes de hemorragia digestiva alta e baixa (sociedades nacionais/internacionais)
-- Protocolos institucionais de transfusão e anticoagulação

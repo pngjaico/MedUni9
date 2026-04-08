@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O córtex cerebral é a estrutura que distingue o encéfalo humano. Sua organização em camadas e colunas explica desde a espasticidade pós-AVC até as afasias e a epilepsia focal. As áreas de Brodmann são o mapa funcional que neuroimagem e neurologia clínica usam até hoje — e a **Uninove** cobra as mais importantes.
+O córtex cerebral é a estrutura que distingue o encéfalo humano. Sua organização em camadas e colunas explica desde a espasticidade pós-AVC até as afasias e a epilepsia focal. As áreas de Brodmann são o mapa funcional que neuroimagem e neurologia clínica usam até hoje — e a Uninove cobra as mais importantes.
 
 ### Figura sugerida
 
@@ -107,17 +107,15 @@ A lesão do giro pré-central (M1, área 4) causa hemiparesia contralateral. Les
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Camada IV: entrada talâmica, espessa nos koniocórtex sensoriais. Camada V (Betz): saída motora principal → trato piramidal.
-
-Área 4: M1, giro pré-central. Área 6: planejamento motor. Áreas 44–45 (Broca): expressão verbal esquerda.
-
-Área 22 (Wernicke): recepção verbal esquerda. V1 = área 17 (sulco calcarino). A1 = áreas 41–42 (Heschl).
+- **Camada IV:** entrada talâmica, espessa nos koniocórtex sensoriais.
+- **Camada V (Betz):** saída motora principal → trato piramidal.
+- **Área 4:** M1, giro pré-central. **Área 6:** planejamento motor.
+- **Áreas 44–45 (Broca):** expressão verbal esquerda.
+- **Área 22 (Wernicke):** recepção verbal esquerda.
+- **V1 = área 17** (sulco calcarino). **A1 = áreas 41–42** (Heschl).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -129,5 +127,4 @@ Camada IV: entrada talâmica, espessa nos koniocórtex sensoriais. Camada V (Bet
 | Camada IV | Camada V | IV: entrada sensorial; V: saída motora |
 
 ### Frase-âncora para não esquecer
-
 > "IV recebe o mundo (tálamo), V manda o mundo se mover (Betz → pirâmide)."

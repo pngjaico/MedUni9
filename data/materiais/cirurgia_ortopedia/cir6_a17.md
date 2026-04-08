@@ -91,11 +91,11 @@ Tratar **FRAX** como substituto de julgamento em paciente já com **fratura por 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Contraindicações relativas** a bifosfonatos (insuficiência renal, esofagite).
-- **Teste de supressão** em hiperparatireoidismo se indicado.
-- **Cálcio alimentar** vs suplementos.
+Na prova, lembre que Contraindicações relativas a bifosfonatos (insuficiência renal, esofagite). Teste de supressão em hiperparatireoidismo se indicado.
+
+Para não errar em cenário clínico, considere também Cálcio alimentar vs suplementos.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -108,14 +108,3 @@ Tratar **FRAX** como substituto de julgamento em paciente já com **fratura por 
 ### Frase-âncora para não esquecer
 
 > “**Fratura por fragilidade** obriga tratamento — **DXA** não pode ser ‘normal’ demais para ignorar.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **osteoporose** com **cirurgia de fraturas** — fixação pode falhar em osso poroso; **cimentação**, **parafusos expansivos** em contextos específicos.
-
-### Leitura de reforço
-
-- Diretrizes de osteoporose pós-menopausa (NOF, IOF)
-- Protocolos de prevenção de quedas

@@ -4,7 +4,7 @@
 
 A maioria das doenças comuns que o médico enfrenta na prática — hipertensão arterial, diabetes tipo 2, esquizofrenia, doença cardiovascular, asma — não segue padrões mendelianos simples. São doenças de herança complexa (poligênica/multifatorial), em que múltiplos genes de efeito pequeno interagem com fatores ambientais para determinar o risco individual. Essa herança cria um espectro contínuo de fenótipos e explica por que a predisposição genética pode ser alta sem que todos os parentes afetados. É a genética da maioria dos pacientes.
 
-O câncer, por sua vez, é fundamentalmente uma doença genética adquirida: mutações somáticas em proto-oncogenes, supressores de tumor e genes de reparo do **DNA** se acumulam progressivamente em um clone celular, conferindo vantagem proliferativa e invasiva. Compreender esse processo de múltiplos golpes (multi-hit), a distinção entre mutações somáticas e germinativas, e os principais oncogenes e supressores de tumor é obrigatório para qualquer médico que trate pacientes oncológicos ou prescreva rastreamento de câncer.
+O câncer, por sua vez, é fundamentalmente uma doença genética adquirida: mutações somáticas em proto-oncogenes, supressores de tumor e genes de reparo do DNA se acumulam progressivamente em um clone celular, conferindo vantagem proliferativa e invasiva. Compreender esse processo de múltiplos golpes (multi-hit), a distinção entre mutações somáticas e germinativas, e os principais oncogenes e supressores de tumor é obrigatório para qualquer médico que trate pacientes oncológicos ou prescreva rastreamento de câncer.
 
 ### Figura sugerida
 
@@ -69,7 +69,7 @@ Em doenças complexas, os genes de susceptibilidade são identificados por GWAS:
 O câncer resulta do acúmulo de mutações somáticas em uma única célula (clonalidade) que conferem vantagem seletiva progressiva: divisão ilimitada, resistência à morte, invasão e metástase. O processo é multistep — múltiplos golpes ao longo de anos a décadas.
 
 **Sequência adenoma–carcinoma coloretal (Fearon e Vogelstein, 1990):** modelo paradigmático.
-Epitélio normal → **APC** mutada → adenoma pequeno → KRAS mutado → adenoma avançado → SMAD4/TP53 mutado → carcinoma → metástase.
+Epitélio normal → APC mutada → adenoma pequeno → KRAS mutado → adenoma avançado → SMAD4/TP53 mutado → carcinoma → metástase.
 Cada passo representa uma vantagem clonal adicional.
 
 ### Oncogenes
@@ -117,7 +117,7 @@ Supressores de tumor bloqueiam a proliferação ou promovem apoptose. **Precisam
 
 ### Genes de Estabilidade do Genoma (Caretakers)
 
-Reparadores de **DNA** que, quando defeituosos, permitem o acúmulo acelerado de mutações nos demais genes (oncogenes e supressores).
+Reparadores de DNA que, quando defeituosos, permitem o acúmulo acelerado de mutações nos demais genes (oncogenes e supressores).
 
 - **MMR (MLH1, MSH2, MSH6, PMS2):** Lynch → MSI-H → acúmulo rápido de mutações em microssatélites
 - **NER (XPA-XPG):** Xeroderma Pigmentoso → mutações por UV
@@ -179,19 +179,19 @@ Na prática clínica, o modelo de Fearon-Vogelstein para cáncer colorretal ilus
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Herança multifatorial: múltiplos genes + ambiente; distribuição normal; modelo de limiar. Herança complexa: DM2, HAS, cardiopatia coronária, esquizofrenia, autismo. Oncogene = ganho de função: basta UM alelo mutado (dominante); KRAS, HER2, BCR-ABL, MYC.
-
-Supressor de tumor = perda de função: precisam de DOIS golpes (Knudson); TP53, RB1, APC, BRCA. KRAS mutado → anti-EGFR ineficaz no CCR — questão-padrão de oncologia. Sequência adenoma-carcinoma: APC → KRAS → SMAD4 → TP53 (CCR).
-
-Hereditário: germinativo, precoce, bilateral, múltiplo, 5–10%. Esporádico: somático, tardio, 90–95%. MSI-H: defeito MMR → Lynch; pembrolizumabe funciona em MSI-H de qualquer órgão.
-
-HER2 amplificado: mama, gástrico; trastuzumabe.
+- **Herança multifatorial:** múltiplos genes + ambiente; distribuição normal; modelo de limiar
+- **Herança complexa:** DM2, HAS, cardiopatia coronária, esquizofrenia, autismo
+- **Oncogene = ganho de função:** basta UM alelo mutado (dominante); KRAS, HER2, BCR-ABL, MYC
+- **Supressor de tumor = perda de função:** precisam de DOIS golpes (Knudson); TP53, RB1, APC, BRCA
+- **KRAS mutado → anti-EGFR ineficaz no CCR** — questão-padrão de oncologia
+- **Sequência adenoma-carcinoma: APC → KRAS → SMAD4 → TP53** (CCR)
+- **Hereditário:** germinativo, precoce, bilateral, múltiplo, 5–10%
+- **Esporádico:** somático, tardio, 90–95%
+- **MSI-H:** defeito MMR → Lynch; pembrolizumabe funciona em MSI-H de qualquer órgão
+- **HER2 amplificado:** mama, gástrico; trastuzumabe
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -204,13 +204,4 @@ HER2 amplificado: mama, gástrico; trastuzumabe.
 | Caretaker | Gatekeeper | Caretaker = reparo DNA (BRCA, MMR); Gatekeeper = regulação do ciclo/crescimento (RB, APC, TP53) |
 
 ### Frase-âncora para não esquecer
-
 > "Câncer = revolução celular em múltiplos golpes: os oncogenes são os aceleradores que travam no máximo (1 alelo basta para pisar fundo); os supressores são os freios que precisam ser destruídos DOIS VEZES antes de parar de funcionar. Quando os caretakers (reparadores) também quebram, as mutações se acumulam na velocidade do furacão."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

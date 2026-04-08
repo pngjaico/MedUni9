@@ -1,73 +1,107 @@
-# Doenças Respiratórias na APS — IVAS e PAC
+# Longitudinalidade e clínica ampliada na MFC: cuidado de condições crônicas na APS
 
 **Disciplina:** Medicina de Família e Comunidade 6  
-**Módulo:** 6 | **Referência principal:** WONCA, SBMFC e Ministério da Saúde (APS) — síntese para graduação | **Tempo de estudo sugerido:** 10–20 min
+**Módulo:** 6 | **Referência principal:** WONCA, SBMFC, PNAB e Linhas de Cuidado da APS | **Tempo de estudo sugerido:** 20-30 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Infecções virais agudas das vias aéreas superiores (IVAS) são autolimitadas; antibiótico raramente indicado. Pneumonia adquirida na comunidade (PAC) na APS exige decisão de local de tratamento (domiciliar vs hospitalar) com critérios de gravidade e encaminhamento rápido se hipóxia ou instabilidade. Em prova, dominam centro de Saúde como hub de rastreio (tuberculose, tabagismo), vacinação e educação.
+Longitudinalidade é o atributo que transforma consultas isoladas em trajetória de cuidado. Em MFC, doenças crônicas como hipertensão, diabetes, DPOC e depressão não são manejadas como "eventos", mas como processos que exigem vínculo, revisão de metas e coordenação interprofissional contínua.
+
+Na prova, esse tema aparece em casos de baixa adesão, múltiplas comorbidades e repetidas idas à urgência. A alternativa correta geralmente é a que combina acompanhamento estruturado, clínica ampliada e integração com território, em vez de intensificar conduta farmacológica sem plano de seguimento.
 
 ---
 
-## IVAS — abordagem
+## Longitudinalidade: o que muda no desfecho
 
-Sintomas: coriza, dor de garganta, tosse. Duração <10 dias em adulto sem complicações. Tratamento sintomático, não amoxicilina de rotina. Sinusite bacteriana — critérios rigorosos (tempo, piora dupla, febre, purulência).
+Quando a mesma equipe acompanha o paciente por longo período, ela reconhece padrões de piora, barreiras de adesão e gatilhos psicossociais mais cedo. Isso reduz descompensações e hospitalizações evitáveis.
+
+A longitudinalidade também melhora decisão terapêutica porque permite avaliar resposta real ao tratamento no contexto de vida da pessoa, e não apenas em consulta pontual. Na APS, tempo é ferramenta clínica.
+
+> **Dica de Prova:** se a questão descreve "paciente sempre atendido por profissionais diferentes", pense em perda de longitudinalidade como causa de falhas no controle.
+
+> **Pegadinha:** chamar retorno eventual de "seguimento longitudinal". Sem vínculo estável e plano revisitado, não há longitudinalidade de fato.
+
+### Comparativo de modelos de acompanhamento
+
+| Modelo | Característica principal | Efeito esperado |
+|--------|---------------------------|-----------------|
+| Atendimento episódico | Foco na queixa imediata | Alívio pontual, pouca prevenção de recaídas |
+| Seguimento protocolar sem vínculo | Cumpre checklist, mas sem projeto terapêutico compartilhado | Adesão variável e pouca personalização |
+| Longitudinalidade em MFC | Vínculo, metas pactuadas e revisão contínua | Melhor controle crônico e menos uso de urgência |
 
 ### Figura sugerida
 
-**Figura-ID:** `MFC6-A03-F01`
+**Figura-ID:** `MFC-A3-F01`
 
-- **Momento:** após IVAS — anatomia.
-- **O que mostrar:** esquema de **vias aéreas superiores** (faringe, seios, ouvido médio).
-- **Tipo sugerido:** anatomia sagital.
-- **Legenda (rascunho):** IVAS: sítios mais acometidos.
+- **Momento:** após a tabela de modelos.
+- **O que mostrar:** linha do tempo de 12 meses com consultas, ajustes terapêuticos e prevenção de descompensações.
+- **Tipo sugerido:** diagrama temporal clínico.
+- **Legenda (rascunho):** Longitudinalidade permite pequenos ajustes contínuos que evitam grandes desfechos.
 
 ---
 
-## PAC na APS
+## Clínica ampliada e projeto terapêutico singular
 
-Sinais de alarme: dispneia importante, hipotensão, alteração de consciência, saturação baixa, incapacidade de oralizar. Internar ou observação conforme protocolo. Antibiótico empírico conforme pneumologia local.
+Clínica ampliada considera simultaneamente doença, subjetividade e contexto social. Em condições crônicas, isso significa que conduta eficaz depende de rotina de trabalho, apoio familiar, renda, literacia em saúde e saúde mental.
+
+O projeto terapêutico singular (PTS) organiza objetivos graduais e realistas para cada pessoa. Em vez de prescrever metas inalcançáveis, a equipe pactua prioridades possíveis, com revisão periódica e corresponsabilização.
+
+Exemplo: paciente com diabetes mal controlado, insônia e insegurança alimentar. Conduta centrada apenas em aumentar dose de medicação tende a falhar. Conduta ampliada inclui ajuste farmacológico, educação em saúde, articulação territorial e plano de retorno com monitoramento ativo.
 
 ### Figura sugerida
 
-**Figura-ID:** `MFC6-A03-F02`
+**Figura-ID:** `MFC-A3-F02`
 
-- **Momento:** após PAC — CURB.
-- **O que mostrar:** tabela **CURB-65** com pontuação visual.
-- **Tipo sugerido:** tabela clínica.
-- **Legenda (rascunho):** CURB-65: estratificação de gravidade na PAC.
+- **Momento:** após o exemplo de PTS.
+- **O que mostrar:** quadro de PTS com metas clínicas, metas funcionais e ações de suporte territorial.
+- **Tipo sugerido:** esquema de plano de cuidado.
+- **Legenda (rascunho):** Projeto terapêutico singular integra objetivo biomédico e viabilidade social.
 
 ---
 
-## Oximetria e educação
+## Território, autocuidado apoiado e equipe multiprofissional
 
-**Oxímetro** na UBS ajuda triagem. **Cartilha** do paciente sobre **sinais de alerta** na pneumonia domiciliar.
+Longitudinalidade robusta depende de território conhecido. A equipe identifica fatores que dificultam autocuidado, como insegurança alimentar, jornada de trabalho instável, violência e ausência de cuidador.
 
-### Figura sugerida
+Com essa leitura, o cuidado crônico deixa de ser "orientação genérica" e vira estratégia específica: plano alimentar compatível com renda, medicação em horários possíveis, contatos programados e apoio do ACS para reforço de conduta.
 
-**Figura-ID:** `MFC6-A03-F03`
+O autocuidado apoiado exige linguagem simples, objetivos de curto prazo e checagem de compreensão. A equipe multiprofissional fortalece adesão quando mantém mensagem coerente e metas comuns.
 
-- **Momento:** após educação — oxigênio.
-- **O que mostrar:** **uso de oxímetro de pulso** no dedo (demonstração).
-- **Tipo sugerido:** fotografia educativa.
-- **Legenda (rascunho):** Oximetria de pulso na APS.
+| Barreira no território | Impacto clínico | Resposta da equipe de APS |
+|------------------------|-----------------|----------------------------|
+| Dificuldade de transporte | Perda de retorno e exames | Agenda integrada e priorização de demandas no mesmo dia |
+| Baixa alfabetização em saúde | Uso incorreto de medicação | Educação com linguagem acessível e técnica de "ensinar de volta" |
+| Sobrecarga familiar/cuidado | Abandono de metas terapêuticas | Plano simplificado e divisão de prioridades por etapas |
+
+---
+
+## Coordenação da rede em condições crônicas
+
+Longitudinalidade não exclui encaminhamento; ela organiza encaminhamento com propósito. O especialista contribui em pontos específicos, enquanto a APS mantém visão global e continuidade do plano.
+
+A cada transição, a equipe deve revisar medicações, metas e sinais de alarme. Essa rotina reduz eventos adversos de fragmentação, especialmente em polifarmácia e multimorbidade.
+
+> **Dica de Prova:** a melhor alternativa costuma incluir retorno programado após mudança terapêutica importante.
+
+> **Pegadinha:** "encaminhar e aguardar" sem plano intermediário da APS em paciente de alto risco.
 
 ---
 
 ## Ponte com a Clínica
 
-Tuberculose — tosse >3 semanas, perda ponderal — teste rápido ou escarro conforme fluxo local. COVID-19 — protocolos epidemiológicos variáveis.
+Em caso de hipertensão resistente associada a ansiedade e baixa adesão, a abordagem de MFC é longitudinal e ampliada: revisar técnica de uso, simplificar esquema, pactuar meta progressiva, acionar apoio multiprofissional e monitorar de perto nos primeiros meses. O ganho vem da continuidade, não de uma intervenção única.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- IVAS: suporte; antibiótico selecionado.
-- PAC: gravidade, oximetria, encaminhamento.
-- TB: rastreio na APS.
-- Vacina influenza e pneumococo.
+- Longitudinalidade melhora desfecho em crônicos por vínculo e ajuste progressivo.
+- Clínica ampliada integra doença, subjetividade e condições de vida.
+- PTS é ferramenta prática para metas factíveis e revisáveis.
+- Território orienta intensidade de seguimento e desenho da conduta.
+- Coordenação com especialista mantém APS como eixo do plano global.
 
 ---
 
@@ -75,47 +109,24 @@ Tuberculose — tosse >3 semanas, perda ponderal — teste rápido ou escarro co
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Faringoamigdalite estreptocócica** — Centor/McIsaac.
-- **Bronquiolite** — lavagem nasal, sem broncodilatador rotineiro.
-- **Tabagismo** — cessação em cada consulta.
+Longitudinalidade é mais do que agendar retorno: é construir relação clínica estável que permite decisões melhores ao longo do tempo. Em doenças crônicas, esse atributo reduz descompensações porque antecipa problemas de adesão e ajusta condutas de forma contínua.
+
+Clínica ampliada aparece quando o enunciado traz fatores sociais e emocionais interferindo no controle da doença. A resposta correta incorpora esses elementos ao plano terapêutico, em vez de tratar contexto como "detalhe extra".
+
+Projeto terapêutico singular traduz essa lógica em prática: metas graduais, corresponsabilização e revisão periódica. A banca valoriza alternativas que mostrem viabilidade no território, não apenas ideal técnico.
+
+Mesmo com encaminhamento, a APS mantém coordenação e seguimento. Em MFC, continuidade é o que transforma prescrição em resultado.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| IVAS | sinusite bacteriana | Critérios temporais |
-| PAC | TEP | Probabilidade, D-dímero |
-| Asma exacerbada | PAC | Sibilos, história |
+|------------|------------|-----------------|
+| Longitudinalidade | Retorno eventual | Longitudinalidade pressupõe vínculo e revisão contínua do plano |
+| Clínica ampliada | Conduta biomédica isolada | Clínica ampliada inclui contexto psicossocial no núcleo da decisão |
+| PTS | Plano padrão para todos | PTS é individualizado, pactuado e adaptado ao território |
 
 ### Frase-âncora para não esquecer
 
-> “**Tosse viral** não pede **amoxicilina** por padrão.”
-
----
-
-## Aprofundamento — raciocínio clínico
-
-Integre **e-SUS** — registro de condições respiratórias crônicas.
-
-### Leitura de reforço
-
-- MS — protocolo de manejo de síndromes respiratórias
-- IDSA — pneumonia comunitária (resumo)
-
----
-
-### Erros comuns em prova e plantão
-
-- Confiar em um único exame ou escore sem integrar anamnese, exame físico e epidemiologia.
-- Indicar propedêutica invasiva ou cara antes de esgotar medidas clínicas e laboratoriais bem direcionados.
-- Esquecer interações medicamentosas, gestação e comorbidades ao fechar conduta.
-
-### Reflexão final
-
-Qual é o único dado que mais muda prognóstico ou conduta neste tema? Qual exame ou escore você pediria primeiro se o enunciado for vago? Onde a banca costuma armar pegadinha (mecanismo, indicação ou contraindicação)?
-
-Releia apenas o bloco **Pré-Prova** no dia seguinte — a revisão espaçada fixa melhor que maratonar a mesma aula.
-
-- **Dica integrativa:** ao revisar, escreva um miniesquema de conduta em 5 linhas sem olhar o texto — isso expõe lacunas.
+> "Na APS, crônico bem cuidado é resultado de vínculo no tempo, plano possível e coordenação ativa."

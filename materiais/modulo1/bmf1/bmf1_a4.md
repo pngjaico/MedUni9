@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O tecido conjuntivo é o **esqueleto biológico** dos órgãos: sustenta, nutre epitélios, defende e repara. Em prova, cai a distinção entre **tipos** (frouxo denso regular/irregular, adiposo, cartilagem, osso, sangue como tecido conjuntivo especializado). Na clínica, **fibrose**, **granulação**, **desmoplasia** tumoral e **alterações** da **matriz** explicam evolução de feridas e resposta ao tratamento. A nomenclatura de **Junqueira & Carneiro** e a visão **funcional** de **Ross & Pawlina** costumam orientar o raciocínio de histologia na graduação.
+O **Tecido Conjuntivo** é o "esqueleto invisível" que une e protege o corpo. Para a prova, domine a diferença entre o **Colágeno Tipo I** (resistente) e o **Tipo III** (reparação/granulação). Na clínica, o conhecimento sobre **Fibroblastos** e **Mastócitos** explica desde a cicatrização de uma ferida até a gravidade de um **Choque Anafilático**.
 
 
 ### Figura sugerida
@@ -26,12 +26,12 @@ O tecido conjuntivo é o **esqueleto biológico** dos órgãos: sustenta, nutre 
 
 A matriz não é “enchimento”: ela define **propriedades mecânicas** e **sinalização**. **Fibroblastos** sintetizam colágeno e glicosaminoglicanos; **macrófagos** remodelam; **mastócitos** liberam mediadores.
 
-| Componente | Função principal | Lembrete de prova |
-|------------|------------------|-------------------|
-| Colágeno tipo I | Tração (pele derme, tendão, osso) | Cicatriz madura |
-| Colágeno tipo III | Reticulina, estroma fetal | Granulação inicial |
-| Elastina | Recoil após distensão | Artérias, pele |
-| GAGs + proteoglicanos | Hidratação, compressão | Cartilagem, sinóvia |
+| Componente da Matriz | Função Central | "Gatilho" de Prova |
+|----------------------|------------------|--------------------|
+| **Colágeno Tipo I** | Resistência à tração| **Ossos**, Tendão e Cicatriz |
+| **Colágeno Tipo III**| Suporte e Reparo | **Fibras Reticulares** (Órgãos)|
+| **Fibras Elásticas** | Retorno Elástico | **Artérias Grandes** e Pulmão |
+| **Glicosaminoglicanos**| Hidratação | Retenção de água (Turgor) |
 
 > **Dica de Prova:** **Reticulina** (rede de colágeno III) marca **estroma** de órgãos hematopoéticos — aparece em questões de **biópsia** de medula e fígado.
 
@@ -39,13 +39,13 @@ A matriz não é “enchimento”: ela define **propriedades mecânicas** e **si
 
 ## Células residentes e migratórias
 
-| Célula | Papel | Quando chama atenção na clínica |
-|--------|-------|--------------------------------|
-| Fibroblasto / miofibroblasto | Síntese de matriz; miofibroblasto contrai ferida | Retração cicatricial |
-| Macrófago | Fagocitose, citocinas | Granulação, fibrose crônica |
-| Mastócito | Histamina, triptase | Anafilaxia, urticária |
-| Plasmócito | Anticorpos | Infiltrado crônico |
-| Adipócito | Reserva energética, isolamento térmico | Obesidade, lipodistrofia |
+| Célula do Conjuntivo | Papel Fisiológico | Relevância Clínica |
+|-----------------------|-------------------|--------------------|
+| **Fibroblasto** | Produção de Matriz | **Cicatriz** e Fibrose |
+| **Macrófago** | Fagocitose e Defesa | **Limpeza** de feridas |
+| **Mastócito** | Liberação de Grânulos| **Histamina** (Alergia)|
+| **Plasmócito** | Produtor de Anticorpos| **Inflamação Crônica** |
+| **Adipócito** | Reserva Energética | Tecido Gorduroso |
 
 ---
 
@@ -63,17 +63,11 @@ A matriz não é “enchimento”: ela define **propriedades mecânicas** e **si
 
 ---
 
-### Sequência: da lesão ao reparo (visão integrada)
-
-Ordem típica em **ferida aguda** bem conduzida — use a tabela como **mapa**; o texto ao lado do quadro já é o mesmo conteúdo (acessível em qualquer app).
-
-| Fase | O que predomina | Lembrete de prova |
-|------|-----------------|-------------------|
-| 1. Lesão | Interrupção da barreira | Hemostasia inicia |
-| 2. Inflamação aguda | Neutrófilos → macrófagos | Remoção de detritos |
-| 3. Granulação | Fibroblastos, **colágeno III**, neoangiogênese | Tecido de preenchimento |
-| 4. Remodelação | **Colágeno I**, maior resistência | Semanas a meses |
-| Desfecho | **Cicatriz** madura ou **fibrose** excessiva | Fibrose = excesso de matriz |
+- **Tecido Linfoide:** Rico em **Fibras Reticulares** (Colágeno III), funciona como uma peneira para linfa.
+- **Cicatrização:** O corpo primeiro usa o **Tipo III** no tecido de granulação, depois substitui pelo **Tipo I**.
+- **Fibrose:** É a deposição excessiva de colágeno, destruindo a arquitetura normal (ex: **Cirrose**).
+- **Miofibroblastos:** São responsáveis pela **Contração** da ferida; sua hiperatividade causa deformidades.
+- **Sangue:** É considerado um tecido conjuntivo especializado com matriz líquida (**Plasma**).
 
 Excesso de **deposição** sem remodelação adequada vira **fibrose** patológica (fígado, pulmão, peritônio).
 
@@ -95,34 +89,24 @@ Excesso de **deposição** sem remodelação adequada vira **fibrose** patológi
 
 ---
 
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-Definir matriz extracelular e dar dois componentes. Por que o tendão é denso regular e a derme profunda denso irregular.
-
-Diferença entre granulação e cicatriz madura em termos de colágeno. Papel do miofibroblasto na contração da ferida.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Colágeno I | Colágeno III | Força madura vs estroma fetal/ inicial |
-| Fibroblasto | Miofibroblasto | Síntese vs síntese + **contratilidade** |
-| Tecido frouxo | Denso | Densidade de fibras e **função** mecânica |
-| Adipócito branco | Marrom | Uma gota lipídica grande vs multilocular (termogênese) |
-
-### Frase-âncora para não esquecer
-
-> “Conjuntivo é matriz viva: fibras carregam força, células carregam resposta.”
-
----
-
 ## Referências de apoio (graduação)
 
 - Junqueira L. C., Carneiro J. *Histologia Básica: Texto e Atlas*. (tecido conjuntivo, matriz, cicatrização.)  
 - Ross M. H., Pawlina W. *Histologia: Texto e Atlas em Cores*. (classificação e imagens.)  
 - Moore K. L. et al. *Anatomia Orientada para a Clínica*. (contexto macro de fáscias e compartimentos.)
+
+- **Frouxo vs Denso:** O **Frouxo** suporta epitélios; o **Denso** suporta forças mecânicas puras.
+- **Denso Regular:** Fibras paralelas. Exemplo único: **Tendão**.
+- **Adipócito Marrom:** Especializado na geração de calor (**Termogênese**) em neonatos.
+- **Granulação:** É o tecido vermelho, vivo e sangrante que preenche feridas abertas.
+
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Colágeno I** | **Colágeno III** | Resistência Final vs Suporte Inicial |
+| **Fibroblasto** | **Histiócito** | **Construtor** da matriz vs **Fagocitador** (Macrófago)|
+| **Denso Irregular**| **Denso Regular** | Derme (Força 360º) vs Tendão (Força Unidirecional)|
+| **Linfócito** | **Plasmócito** | Célula de vigilância vs Fábrica de **Anticorpos** |
+
+### Frase-âncora para não esquecer
+
+> “Conjuntivo é matriz viva: fibras carregam força, células carregam resposta.”

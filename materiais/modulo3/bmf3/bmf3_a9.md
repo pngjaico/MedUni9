@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A absorção intestinal é o processo final da digestão e o mecanismo que sustenta a nutrição. Disfunções absortivas levam à desnutrição, deficiências vitamínicas e doenças graves. A **Uninove** cobra com frequência a absorção de vitaminas lipossolúveis, vitamina B12, ferro e os mecanismos de transporte (ativo, passivo, cotransporte).
+A absorção intestinal é o processo final da digestão e o mecanismo que sustenta a nutrição. Disfunções absortivas levam à desnutrição, deficiências vitamínicas e doenças graves. A Uninove cobra com frequência a absorção de vitaminas lipossolúveis, vitamina B12, ferro e os mecanismos de transporte (ativo, passivo, cotransporte).
 
 ### Figura sugerida
 
@@ -156,17 +156,15 @@ Na doença celíaca, a atrofia das vilosidades do intestino delgado compromete a
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Glicose: SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada). Lipídios de cadeia longa: micelas → enterócito → quilomícron → linfa (não sangue portal).
-
-B12: FI (célula parietal) + receptor cubilina no íleo terminal. Ferro: Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina.
-
-Vitaminas A D E K: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência. Hepcidina: bloqueia ferroportina → ↓absorção de ferro (↑na inflamação crônica).
+- **Glicose:** SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada)
+- **Lipídios de cadeia longa:** micelas → enterócito → quilomícron → **linfa** (não sangue portal)
+- **B12:** FI (célula parietal) + receptor cubilina no **íleo terminal**
+- **Ferro:** Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina
+- **Vitaminas A D E K:** dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência
+- **Hepcidina:** bloqueia ferroportina → ↓absorção de ferro (↑na inflamação crônica)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -178,5 +176,4 @@ Vitaminas A D E K: dependem de sais biliares/micelas — colestase ou ressecçã
 | SGLT1 | GLUT5 | SGLT1: glicose/galactose, ativo (Na⁺); GLUT5: frutose, difusão facilitada |
 
 ### Frase-âncora para não esquecer
-
 > "A gordura é metida a besta: não vai direto pro sangue como a glicose — precisa de micela, quilomícron e até da linfa para chegar ao destino."

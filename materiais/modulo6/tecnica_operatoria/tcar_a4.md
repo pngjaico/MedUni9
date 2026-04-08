@@ -1,104 +1,113 @@
-# A Equipe Cirurgica e Instrumentação
+# A Equipe Cirúrgica e Instrumentação
 
 ## Relevância Clínica e Acadêmica
 
-Cirurgia segura e trabalho de equipe.
-No metodo classico ensinado em técnica operatória, cada membro tem função definida e responsabilidade clara.
-Quando papeis ficam confusos, o ato operatório perde ritmo, aumenta estresse e cresce risco de erro.
-Esta aula e essencial para quem vai entrar em campo como interno e precisa saber "onde ficar" e "o que fazer".
+Cirurgia segura é trabalho de equipe.
+No método técnico-operatório, cada membro tem função definida e responsabilidade clara.
+Quando papéis ficam confusos, o ato perde ritmo, aumenta o estresse e cresce o risco de erro.
+Esta aula prepara o interno para entrar em campo sabendo onde ficar, como comunicar e quando agir.
 
-## Composição da equipe e atribuições
+## Composição da Equipe e Atribuições
 
 | Função | Responsabilidade principal |
 |---|---|
-| Cirurgiao principal | estrategia operatória e decisões críticas |
-| Primeiro auxiliar | exposição, tração, hemostasia auxiliar |
-| Segundo auxiliar | apoio de campo e aspiração conforme necessidade |
+| Cirurgião principal | estratégia operatória e decisões críticas |
+| Primeiro auxiliar | exposição, tração e hemostasia auxiliar |
+| Segundo auxiliar | apoio de campo, aspiração e reposicionamento |
 | Instrumentador | preparo, organização e passagem de instrumental |
-| Circulante | suprimento externo sem contaminar campo |
-| Anestesia | via aerea, analgesia, estabilidade hemodinamica |
+| Circulante | suprimento externo sem contaminar o campo |
+| Anestesia | via aérea, analgesia e estabilidade hemodinâmica |
 
 Pontos práticos para o interno:
-- apresentar-se e confirmar papel antes do inicio;
-- manter campo visual e postura ergonomica;
-- avisar antes de qualquer movimento de troca de posição;
-- nunca "inventar" gesto sem comando do cirurgiao.
+- apresentar-se e confirmar papel antes do início;
+- manter campo visual e postura ergonômica;
+- avisar antes de trocar posição;
+- não improvisar gesto sem comando do cirurgião.
 
-## Posicionamento em sala e ergonomia
+> **Dica de Prova:** em itens de equipe, a alternativa correta costuma priorizar função definida, comunicação e ergonomia antes de velocidade.
 
-Boa ergonomia reduz falha técnica no fim da cirurgia.
-Regras simples:
-1. Ajustar altura da mesa para evitar flexao lombar prolongada.
+> **Pegadinha:** "bom auxiliar é o que improvisa sem avisar" está errado; improviso sem comando aumenta risco.
+
+## Posicionamento em Sala e Ergonomia
+
+Boa ergonomia reduz falha técnica no fim do procedimento.
+
+1. Ajustar altura da mesa para evitar flexão lombar prolongada.
 2. Posicionar foco de luz antes da incisão.
-3. Manter bracos apoiados quando possivel.
-4. Evitar cruzamento de maos sobre campo sem necessidade.
+3. Manter braços apoiados quando possível.
+4. Evitar cruzar mãos sobre o campo sem necessidade.
 
 Erros frequentes:
-- auxiliar tracionando em direcao errada;
-- aspirador ocultando visão do operador;
-- troca de posição sem comunicar instrumentador.
+- tração em direção errada;
+- aspirador escondendo o plano de dissecção;
+- troca de posição sem comunicar instrumentador e cirurgião.
+
+Variações conforme o tipo de cirurgia:
+- **Acesso abdominal amplo:** cirurgião e primeiro auxiliar em lateralidade útil; segundo auxiliar complementa exposição.
+- **Membro com lateralidade marcada:** operador no lado da lesão, com confirmação no time-out.
+- **Mudança de decúbito:** equipe redefine antecipadamente foco, aspiração e passagem de material.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A4-F01`
+**Figura-ID:** `TCAR-A4-F01`
 
-- **Momento:** após bloco de ergonomia.
-- **O que mostrar:** posicionamento da equipe em cirurgia abdominal aberta.
+- **Momento:** após o bloco de posicionamento e ergonomia.
+- **O que mostrar:** distribuição da equipe em cirurgia abdominal aberta.
 - **Tipo sugerido:** esquema de sala.
-- **Legenda (rascunho):** Distribuicao funcional da equipe no campo operatório.
+- **Legenda (rascunho):** Posicionamento correto melhora exposição e reduz fadiga da equipe.
 
-## Instrumentação: logica de passagem e antecipação
+## Instrumentação: Lógica de Passagem e Antecipação
 
-Instrumentar não e "entregar metal".
-E antecipar o próximo passo tecnico.
+Instrumentar não é apenas "passar metal".
+É antecipar o próximo passo técnico com segurança.
 
-Sequencia esperada em procedimento simples:
-- montagem de mesa por tempos operatórios;
+Sequência esperada em procedimento simples:
+- montagem da mesa por tempos operatórios;
 - entrega orientada do bisturi;
-- pinças hemostaticas prontas para sangramento inicial;
-- material de síntese separado por plano de fechamento.
+- pinças hemostáticas prontas para sangramento inicial;
+- material de síntese preparado por plano de fechamento.
 
 Técnica de passagem segura:
-- entregar instrumento na mao de uso;
-- confirmar verbalmente quando solicitado;
+- entregar o instrumento na mão de uso;
+- confirmar verbalmente o pedido;
 - recolher e reposicionar sem cruzar campo;
 - manter contagem de agulhas e compressas atualizada.
 
-## Comunicação em alça fechada
+## Comunicação em Alça Fechada
 
-Comunicação em alça fechada = ordem, repeticao e confirmação.
+Comunicação em alça fechada segue ordem, repetição e confirmação.
+
 Exemplo:
-- cirurgiao: "Porta-agulha, fio 2-0 absorvivel".
-- instrumentador: "Porta-agulha com 2-0 absorvivel".
-- entrega e confirmação visual.
+- cirurgião: "Porta-agulha, fio 2-0 absorvível."
+- instrumentador: "Porta-agulha com 2-0 absorvível."
+- entrega, confirmação visual e continuidade do passo.
 
-Isso reduz erro de material e retrabalho.
-Tambem protege paciente em momentos de pressão.
+Essa rotina reduz erro de material, retrabalho e tensão em momentos críticos.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A4-F02`
+**Figura-ID:** `TCAR-A4-F02`
 
-- **Momento:** após comunicação em alça fechada.
-- **O que mostrar:** diagrama curto de fluxo de comando e confirmação.
+- **Momento:** após o exemplo de alça fechada.
+- **O que mostrar:** fluxo curto de comando e confirmação entre cirurgião e instrumentador.
 - **Tipo sugerido:** fluxograma simples.
 - **Legenda (rascunho):** Comunicação estruturada reduz erro intraoperatório.
 
 ## Ponte com a Clínica
 
-No relato de eventos adversos em cirurgia, falha de equipe aparece com frequencia: ordem mal compreendida, instrumento errado, contagem incompleta.
-Treinar função e comunicação no módulo de técnica operatória prepara para o internato cirúrgico real.
-Equipe alinhada opera mais rápido e com menos intercorrencia.
+Em eventos adversos cirúrgicos, falha de equipe é causa frequente: ordem mal compreendida, instrumento inadequado e contagem incompleta.
+Treinar função e comunicação na técnica operatória prepara o aluno para o internato real.
+Equipe alinhada opera de forma mais fluida e com menos intercorrência.
 
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
-- Papel de cada membro deve ser claro antes da incisão.
-- Ergonomia correta sustenta qualidade técnica.
-- Instrumentador antecipa, não apenas responde.
+- Papel de cada membro deve estar claro antes da incisão.
+- Ergonomia correta sustenta qualidade técnica ao longo do ato.
+- Instrumentador antecipa o passo seguinte, não apenas reage.
 - Comunicação em alça fechada evita erro de material.
-- Contagem e responsabilidade coletiva.
+- Contagem de compressas e agulhas é responsabilidade coletiva.
 
 ---
 
@@ -108,19 +117,19 @@ Equipe alinhada opera mais rápido e com menos intercorrencia.
 
 ### Síntese para a prova
 
-Nesta aula, o foco e reconhecer função, posição e comunicação da equipe.
-Quando a questao trouxer conflito de conduta em sala, a melhor resposta costuma ser a que reorganiza papeis e restabelece fluxo tecnico.
-Instrumentação correta depende de antecipação por tempos operatórios.
-Comunicação clara e parte da técnica cirúrgica, não um complemento administrativo.
+Nesta aula, o foco é reconhecer função, posição e comunicação da equipe cirúrgica.
+Quando a questão trouxer conflito de conduta em sala, a resposta mais segura costuma ser reorganizar papéis e restabelecer fluxo técnico.
+Instrumentação correta depende de antecipação por tempos operatórios, não de pressa.
+Comunicação clara é parte da técnica cirúrgica e impacta diretamente desfecho clínico.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |---|---|---|
 | Auxiliar ativo | Auxiliar passivo | ativo melhora exposição e hemostasia; passivo atrapalha ritmo |
-| Entrega de instrumento | "passar objeto" | entrega correta orienta empunhadura e próximo gesto |
-| Ordem verbal solta | Alca fechada | alça fechada confirma material e reduz engano |
+| Entrega técnica de instrumento | "Passar objeto" | entrega técnica orienta empunhadura e próximo gesto |
+| Ordem verbal solta | Alça fechada | alça fechada confirma material e reduz engano |
 
 ### Frase-âncora para não esquecer
 
-> "Em cirurgia, técnica boa depende de equipe bem sincronizada."
+> "Em cirurgia, equipe sincronizada também é técnica."

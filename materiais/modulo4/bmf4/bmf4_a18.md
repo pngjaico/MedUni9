@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O sistema endócrino regula metabolismo, crescimento, reprodução, resposta ao estresse e equilíbrio hidroeletrolítico — tudo por meio de hormônios que agem a distância. Cada glândula endócrina tem localização anatômica, histologia específica e hormônios cobrados em questões sobre hipotireoidismo, diabetes mellitus, síndrome de Cushing e insuficiência adrenal. A **Uninove** explora esses eixos com vinhetas clínicas: "o que explica o ganho de peso + lentidão + pele seca do hipotireoidismo?" ou "por que a hipoglicemia é mais perigosa para o cérebro do que para o músculo?".
+O sistema endócrino regula metabolismo, crescimento, reprodução, resposta ao estresse e equilíbrio hidroeletrolítico — tudo por meio de hormônios que agem a distância. Cada glândula endócrina tem localização anatômica, histologia específica e hormônios cobrados em questões sobre hipotireoidismo, diabetes mellitus, síndrome de Cushing e insuficiência adrenal. A Uninove explora esses eixos com vinhetas clínicas: "o que explica o ganho de peso + lentidão + pele seca do hipotireoidismo?" ou "por que a hipoglicemia é mais perigosa para o cérebro do que para o músculo?".
 
 ### Figura sugerida
 
@@ -150,17 +150,17 @@ Síndrome de Cushing (excesso de cortisol): obesidade central, estrias roxas, hi
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Hipófise anterior: GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina. T3 > T4: T4 é pró-hormônio; PTU inibe síntese E conversão periférica. "GFR = Sal, Açúcar, Sexo": zonas do córtex adrenal e seus hormônios.
-
-Célula β: insulina (↓ glicemia, anabólica). Célula α: glucagon (↑ glicemia). PTH: hipocalcemia → PTH ↑ → osso libera Ca²⁺ + rim retém Ca²⁺ + vit D ativa. Doença de Addison: hipotensão + hiperpigmentação + hipercalemia.
-
-Cushing: obesidade central, estrias roxas, hiperglicemia, HAS. Feocromocitoma: HAS paroxística — tumor de medula adrenal (crista neural).
+- **Hipófise anterior:** GH, TSH, ACTH, FSH, LH, PRL. Posterior: ADH e ocitocina.
+- **T3 > T4:** T4 é pró-hormônio; PTU inibe síntese E conversão periférica.
+- **"GFR = Sal, Açúcar, Sexo":** zonas do córtex adrenal e seus hormônios.
+- **Célula β:** insulina (↓ glicemia, anabólica). Célula α: glucagon (↑ glicemia).
+- **PTH:** hipocalcemia → PTH ↑ → osso libera Ca²⁺ + rim retém Ca²⁺ + vit D ativa.
+- **Doença de Addison:** hipotensão + hiperpigmentação + hipercalemia.
+- **Cushing:** obesidade central, estrias roxas, hiperglicemia, HAS.
+- **Feocromocitoma:** HAS paroxística — tumor de medula adrenal (crista neural).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -172,5 +172,4 @@ Cushing: obesidade central, estrias roxas, hiperglicemia, HAS. Feocromocitoma: H
 | Hiperparatireoidismo | Hipoparatireoidismo | Hiper: PTH ↑, Ca ↑, P ↓; Hipo: PTH ↓, Ca ↓, P ↑ |
 
 ### Frase-âncora para não esquecer
-
 > "GFR = Sal, Açúcar, Sexo — da glomerulosa para dentro: quanto mais profundo, mais doce o hormônio (cortisol regula glucose)."

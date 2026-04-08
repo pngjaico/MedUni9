@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A inflamação é o mecanismo central da patologia — praticamente toda doença envolve inflamação de alguma forma, seja como causa primária (artrite reumatoide, doença inflamatória intestinal) ou como resposta a dano (necrose, infecção). A **Uninove** cobra os eventos vasculares e celulares da inflamação aguda, os mediadores-chave, a morfologia do exsudato e a diferença entre reparo por regeneração e por fibrose. Esta aula é base direta para anti-inflamatórios (próxima aula).
+A inflamação é o mecanismo central da patologia — praticamente toda doença envolve inflamação de alguma forma, seja como causa primária (artrite reumatoide, doença inflamatória intestinal) ou como resposta a dano (necrose, infecção). A Uninove cobra os eventos vasculares e celulares da inflamação aguda, os mediadores-chave, a morfologia do exsudato e a diferença entre reparo por regeneração e por fibrose. Esta aula é base direta para anti-inflamatórios (próxima aula).
 
 ### Figura sugerida
 
@@ -26,7 +26,7 @@ A inflamação é o mecanismo central da patologia — praticamente toda doença
 
 ## Inflamação Aguda — A Sequência Vascular e Celular
 
-A inflamação aguda é a resposta imediata ao dano tecidual, caracterizada pelos sinais clássicos: rubor, calor, tumor, dor e perda de função (rubor, calor = vasodilatação; tumor = **edema**; dor = prostaglandinas + bradicinina).
+A inflamação aguda é a resposta imediata ao dano tecidual, caracterizada pelos sinais clássicos: rubor, calor, tumor, dor e perda de função (rubor, calor = vasodilatação; tumor = edema; dor = prostaglandinas + bradicinina).
 
 **Fase vascular:** vasodilatação arteriolar mediada por histamina, prostaglandinas e óxido nítrico → aumento do fluxo → rubor e calor. Concomitantemente, aumento da permeabilidade capilar (retração das células endoteliais, alargamento das junções interendoteliais) → extravasamento de plasma rico em proteínas → edema inflamatório (exsudato).
 
@@ -88,17 +88,17 @@ A cicatrização de feridas segue fases: **hemostasia** (vasoconstrição + tamp
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Neutrófilos = inflamação aguda; linfócitos/macrófagos = inflamação crônica. Prostaglandinas: febre + dor (alvo dos AINEs via COX). Leucotrienos (5-LOX): broncoespasmo — AINEs não bloqueiam (asma aspirínica).
-
-Granuloma com caseose = TB; sem caseose = sarcoidose. Abscesso: pus encapsulado (bactérias piogênicas). Quelóide: cicatriz que ultrapassa os limites da ferida.
-
-TGF-β: indutor de fibrose. Reparo máximo: ferida nunca recupera 100% da resistência original (máx. 80%).
+- **Neutrófilos = inflamação aguda; linfócitos/macrófagos = inflamação crônica.**
+- **Prostaglandinas:** febre + dor (alvo dos AINEs via COX).
+- **Leucotrienos (5-LOX):** broncoespasmo — AINEs não bloqueiam (asma aspirínica).
+- **Granuloma com caseose = TB; sem caseose = sarcoidose.**
+- **Abscesso:** pus encapsulado (bactérias piogênicas).
+- **Quelóide:** cicatriz que ultrapassa os limites da ferida.
+- **TGF-β:** indutor de fibrose.
+- **Reparo máximo:** ferida nunca recupera 100% da resistência original (máx. 80%).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -111,5 +111,4 @@ TGF-β: indutor de fibrose. Reparo máximo: ferida nunca recupera 100% da resist
 | Exsudato seroso | Exsudato purulento | Seroso: aquoso, viral; purulento: neutrófilos, bacteriano |
 
 ### Frase-âncora para não esquecer
-
 > "Neutrófilos chegam primeiro e morrem depressa; macrófagos chegam depois e ficam — essa sequência no microscópio diz quanto tempo durou a inflamação."

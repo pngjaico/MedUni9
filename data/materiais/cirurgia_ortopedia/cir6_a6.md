@@ -104,12 +104,11 @@ Icterícia, colúria, dilatação de colédoco; **colangite** = **antibiótico**
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Charcot** e **Reynolds** — reconhecimento imediato.
-- **Colecistite acalculosa** em UTI — prognóstico mais grave.
-- **Cálculo residual** pós-colecistectomia — suspeitar se icterícia recorrente.
-- Indicações de colecistectomia em assintomático (contextos especiais — discussão).
+Na prova, lembre que Charcot e Reynolds — reconhecimento imediato. Colecistite acalculosa em UTI — prognóstico mais grave.
+
+Para não errar em cenário clínico, considere também Cálculo residual pós-colecistectomia — suspeitar se icterícia recorrente. Indicações de colecistectomia em assintomático (contextos especiais — discussão).
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -123,14 +122,3 @@ Icterícia, colúria, dilatação de colédoco; **colangite** = **antibiótico**
 ### Frase-âncora para não esquecer
 
 > “**Vesícula** inflamada com **colédoco** dilatado = pense **pedra no caminho**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Integre **estabilidade**, **comorbidades** e **experiência** com CPRE/laparoscopia. Documente **achados ductais** no pré-operatório para evitar surpresa intraoperatória.
-
-### Leitura de reforço
-
-- Diretrizes de colecistite aguda
-- Consensos de manejo de coledocolitíase (intraoperatório vs CPRE prévio)

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A qualidade de qualquer estudo começa antes de coletar o primeiro dado — começa na decisão de como selecionar a amostra. Uma amostra mal desenhada produz resultados sistematicamente errados, não importa quão sofisticada seja a análise. Da mesma forma, saber se os dados seguem distribuição normal define quais testes estatísticos podem ser usados. A **Uninove** cobra esses conceitos em questões sobre viés de seleção, tamanho amostral adequado e escolha entre testes paramétricos e não-paramétricos.
+A qualidade de qualquer estudo começa antes de coletar o primeiro dado — começa na decisão de como selecionar a amostra. Uma amostra mal desenhada produz resultados sistematicamente errados, não importa quão sofisticada seja a análise. Da mesma forma, saber se os dados seguem distribuição normal define quais testes estatísticos podem ser usados. A Uninove cobra esses conceitos em questões sobre viés de seleção, tamanho amostral adequado e escolha entre testes paramétricos e não-paramétricos.
 
 ### Figura sugerida
 
@@ -73,7 +73,7 @@ O tamanho amostral (n) ideal depende de quatro parâmetros interdependentes:
 ## 4. Erros Amostrais e Vieses
 
 ### 4.1 Erro Amostral (Variação por Chance)
-Variação aleatória inevitável entre amostras diferentes da mesma população. Diminui com o aumento de n. É quantificado pelo **intervalo de confiança**.
+Variação aleatória inevitável entre amostras diferentes da mesma população. Diminui com o aumento de n. É quantificado pelo intervalo de confiança.
 
 ### 4.2 Viés de Seleção
 Ocorre quando a amostra não representa a população-alvo — sistematicamente inclui ou exclui tipos específicos de pessoas. Exemplos: estudar tabagismo em voluntários saudáveis (viés do trabalhador saudável); estudar mortalidade por câncer só em hospital terciário (viés de referência, que superestima gravidade).
@@ -132,17 +132,19 @@ Em ensaios clínicos randomizados, o tamanho amostral é calculado antes de inic
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Amostragem probabilística:** garante representatividade e inferência válida.
+- **Estratificada:** subgrupos representados — usada quando há subgrupos de interesse distintos.
+- **Conglomerados:** unidades maiores selecionadas — PNS e PNAD usam este método.
+- **Tamanho amostral:** depende de alfa, poder (1 menos beta), tamanho do efeito, variabilidade.
+- **Viés não diminui com n maior** — precisa ser corrigido no desenho do estudo.
+- **Shapiro-Wilk p maior que 0,05:** normal, use paramétrico. p menor ou igual 0,05: use não-paramétrico.
+- **Mann-Whitney:** alternativa não-paramétrica ao teste t de 2 grupos independentes.
+- **Kruskal-Wallis:** alternativa não-paramétrica à ANOVA para 3 ou mais grupos.
 
-
-Amostragem probabilística: garante representatividade e inferência válida. Estratificada: subgrupos representados — usada quando há subgrupos de interesse distintos. Conglomerados: unidades maiores selecionadas — PNS e PNAD usam este método.
-
-Tamanho amostral: depende de alfa, poder (1 menos beta), tamanho do efeito, variabilidade. Viés não diminui com n maior — precisa ser corrigido no desenho do estudo. Shapiro-Wilk p maior que 0,05: normal, use paramétrico. p menor ou igual 0,05: use não-paramétrico.
-
-Mann-Whitney: alternativa não-paramétrica ao teste t de 2 grupos independentes. Kruskal-Wallis: alternativa não-paramétrica à ANOVA para 3 ou mais grupos.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -154,5 +156,4 @@ Mann-Whitney: alternativa não-paramétrica ao teste t de 2 grupos independentes
 | Erro tipo I (alfa) | Erro tipo II (beta) | Tipo I: falso positivo — rejeita H0 verdadeira; Tipo II: falso negativo — não rejeita H0 falsa |
 
 ### Frase-âncora para não esquecer
-
 > "Viés é sistemático — amostra maior só nos dá mais certeza do resultado errado. Corrija no desenho, não com mais pacientes."

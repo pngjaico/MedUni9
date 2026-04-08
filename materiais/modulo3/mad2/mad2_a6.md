@@ -9,7 +9,7 @@
 
 Pele é um órgão que o aluno acha fácil porque está visível. Justamente por isso, essa aula costuma enganar. Lesão cutânea infecciosa pode parecer simples na superfície e esconder gravidade, profundidade ou acometimento neural importante. Quando o tema entra em prova, o objetivo não é saber decorar nome de bactéria: é diferenciar profundidade de acometimento, reconhecer sinal de gravidade e não perder doenças crônicas como hanseníase.
 
-Na prática clínica, esse assunto pesa muito porque infecção do tegumento é comum e hanseníase ainda é realidade no Brasil. Isso significa que o estudante precisa dominar tanto o quadro agudo de pele quente, dolorosa e inflamada quanto a lesão crônica com alteração de **sensibilidade**, que aponta para um mecanismo completamente diferente.
+Na prática clínica, esse assunto pesa muito porque infecção do tegumento é comum e hanseníase ainda é realidade no Brasil. Isso significa que o estudante precisa dominar tanto o quadro agudo de pele quente, dolorosa e inflamada quanto a lesão crônica com alteração de sensibilidade, que aponta para um mecanismo completamente diferente.
 
 ### Figura sugerida
 
@@ -38,7 +38,7 @@ Essa diferença não é só semântica. Ela ajuda a decidir conduta, necessidade
 
 ## Profundidade importa: o que o exame físico precisa responder
 
-No exame do tegumento, a primeira pergunta é: isso é superficial, profundo ou já complicado? Inspeção isolada não basta. É preciso palpar temperatura, extensão, dor, consistência e presença de flutuação. Também vale procurar linfangite, **edema** adjacente, **necrose**, bolhas e sinais sistêmicos.
+No exame do tegumento, a primeira pergunta é: isso é superficial, profundo ou já complicado? Inspeção isolada não basta. É preciso palpar temperatura, extensão, dor, consistência e presença de flutuação. Também vale procurar linfangite, edema adjacente, necrose, bolhas e sinais sistêmicos.
 
 A prova gosta de situações em que o quadro parece banal, mas há um detalhe que muda tudo: dor desproporcional, progressão muito rápida, toxemia ou comprometimento de partes profundas. Nesses casos, o raciocínio precisa sair do espectro "infecção simples" e entrar no espectro de gravidade cirúrgica ou infecciosa maior.
 
@@ -63,11 +63,11 @@ A grande sacada é entender que hanseníase não é uniforme. O espectro clínic
 
 O dano maior da hanseníase não é estético, é funcional. Perda sensitiva leva a trauma repetido, úlceras, deformidades e incapacidade. Se o diagnóstico atrasa, o paciente pode perder função antes mesmo de a doença parecer exuberante ao olhar apressado.
 
-Por isso, a avaliação neurológica periférica é central. Testar **sensibilidade**, força e palpar nervos periféricos muda completamente o valor do exame clínico. Em prova, isso costuma aparecer como pergunta indireta: o enunciado descreve lesão cutânea discreta, mas o achado que fecha a hipótese é neurológico.
+Por isso, a avaliação neurológica periférica é central. Testar sensibilidade, força e palpar nervos periféricos muda completamente o valor do exame clínico. Em prova, isso costuma aparecer como pergunta indireta: o enunciado descreve lesão cutânea discreta, mas o achado que fecha a hipótese é neurológico.
 
 ## Como separar quadro bacteriano agudo de doença crônica infecciosa
 
-Infecção aguda de pele tende a cursar com dor, calor, vermelhidão, **edema** e evolução mais rápida. Hanseníase, ao contrário, costuma sugerir curso mais arrastado, alteração sensitiva e menos exuberância inflamatória sistêmica. Esse contraste é extremamente cobrado porque evita erro de enquadramento.
+Infecção aguda de pele tende a cursar com dor, calor, vermelhidão, edema e evolução mais rápida. Hanseníase, ao contrário, costuma sugerir curso mais arrastado, alteração sensitiva e menos exuberância inflamatória sistêmica. Esse contraste é extremamente cobrado porque evita erro de enquadramento.
 
 Outra diferença importante é a lógica terapêutica. Quadro piogênico pede foco em controle infeccioso agudo e complicação local. Hanseníase pede diagnóstico classificatório, abordagem longitudinal e prevenção de incapacidade. Misturar essas duas rotas clínicas é erro clássico de prova e de prática.
 
@@ -86,7 +86,7 @@ O segredo é responder em sequência: qual é a profundidade do processo, há co
 
 ## Ponte com a Clínica
 
-No atendimento real, uma pele vermelha não é sempre a mesma coisa. Em alguns casos, o risco está na disseminação rápida de infecção. Em outros, está no atraso diagnóstico de uma doença crônica que rouba **sensibilidade** e função aos poucos. O exame físico bem feito é o que separa essas duas histórias.
+No atendimento real, uma pele vermelha não é sempre a mesma coisa. Em alguns casos, o risco está na disseminação rápida de infecção. Em outros, está no atraso diagnóstico de uma doença crônica que rouba sensibilidade e função aos poucos. O exame físico bem feito é o que separa essas duas histórias.
 
 ---
 
@@ -104,17 +104,19 @@ No atendimento real, uma pele vermelha não é sempre a mesma coisa. Em alguns c
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Borda nítida:** favorece erisipela.
+- **Placa difusa:** lembra mais celulite.
+- **Flutuação:** sugere abscesso.
+- **Hipoestesia:** pensar em hanseníase.
+- **Hanseníase é neural:** não só cutânea.
+- **Nervo espessado:** pesa muito no diagnóstico.
+- **Infecção aguda:** pede leitura de gravidade.
+- **Doença crônica:** pede prevenção de incapacidade.
 
-
-Borda nítida: favorece erisipela. Placa difusa: lembra mais celulite. Flutuação: sugere abscesso.
-
-Hipoestesia: pensar em hanseníase. Hanseníase é neural: não só cutânea. Nervo espessado: pesa muito no diagnóstico.
-
-Infecção aguda: pede leitura de gravidade. Doença crônica: pede prevenção de incapacidade.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -126,5 +128,4 @@ Infecção aguda: pede leitura de gravidade. Doença crônica: pede prevenção 
 | Dermatose inespecífica | Hanseníase | Hanseníase exige pensar em nervo e déficit sensitivo |
 
 ### Frase-âncora para não esquecer
-
 > "Na pele, profundidade muda conduta; no nervo, atraso vira incapacidade."

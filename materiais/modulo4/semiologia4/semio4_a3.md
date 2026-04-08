@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Avaliar o nível de consciência e os nervos cranianos é o primeiro passo do exame neurológico focado em urgência. A Escala de Coma de Glasgow (**ECG**) define tratamento, transferência e prognóstico em minutos. Um NC alterado pode ser o único sinal de lesão de tronco — herniação, aneurisma, esclerose. A **Uninove** explora esse tema com vinhetas de OSCE e questões sobre qual NC avalia qual função.
+Avaliar o nível de consciência e os nervos cranianos é o primeiro passo do exame neurológico focado em urgência. A Escala de Coma de Glasgow (ECG) define tratamento, transferência e prognóstico em minutos. Um NC alterado pode ser o único sinal de lesão de tronco — herniação, aneurisma, esclerose. A Uninove explora esse tema com vinhetas de OSCE e questões sobre qual NC avalia qual função.
 
 ### Figura sugerida
 
@@ -36,7 +36,7 @@ A ECG foi criada em 1974 para padronizar a avaliação de consciência em TCE. E
 
 > **Dica:** A motora tem **6** pontos (decora: M6 = obedece). Verbal tem 5 (V5 = orientado). Na prova, "flexão anormal" (decorticação) vale 3, não 2.
 
-TCE leve: **ECG** 14–15. Moderado: 9–13. Grave: ≤8 (intubar!). O componente motor é o mais preditivo de prognóstico isolado.
+TCE leve: ECG 14–15. Moderado: 9–13. Grave: ≤8 (intubar!). O componente motor é o mais preditivo de prognóstico isolado.
 
 ---
 
@@ -106,9 +106,9 @@ Na paralisia de Bell (VII periférico), há comprometimento de TODA hemiface inc
 
 ## Mini-Caso Clínico
 
-Homem 68 anos, HAS, encontrado inconsciente. **ECG** = 7 (O:2, V:2, M:3). Pupila direita midriática, sem reação. MOE: olho direito "para baixo e fora". PA: 200×110 mmHg.
+Homem 68 anos, HAS, encontrado inconsciente. ECG = 7 (O:2, V:2, M:3). Pupila direita midriática, sem reação. MOE: olho direito "para baixo e fora". PA: 200×110 mmHg.
 
-**ECG** 7 → TCE grave → intubar. Pupila midriática + olho para baixo e fora → NC III comprimido → herniação uncal → **TC** urgente. Este quadro é uma emergência neurocirúrgica.
+ECG 7 → TCE grave → intubar. Pupila midriática + olho para baixo e fora → NC III comprimido → herniação uncal → TC urgente. Este quadro é uma emergência neurocirúrgica.
 
 ---
 
@@ -126,22 +126,20 @@ Homem 68 anos, HAS, encontrado inconsciente. **ECG** = 7 (O:2, V:2, M:3). Pupila
 
 ## Ponte com a Clínica
 
-Essas habilidades são essenciais em plantão: um **ECG** de 14 pode cair para 8 em minutos. O médico que sabe avaliar pupilas e MOE rapidamente localiza a lesão antes da **TC**. Em medicina de emergência, o exame neurológico é o exame de imagem de baixo custo e imediato.
+Essas habilidades são essenciais em plantão: um ECG de 14 pode cair para 8 em minutos. O médico que sabe avaliar pupilas e MOE rapidamente localiza a lesão antes da TC. Em medicina de emergência, o exame neurológico é o exame de imagem de baixo custo e imediato.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-ECG ≤8: indica coma grave, necessidade de via aérea definitiva. Motor M6 = obedece, M3 = flexão anormal (decorticação), M2 = extensão (descerebração).
-
-NC III comprimido: midríase ipsilateral + ptose + olho para baixo e fora (herniação uncal). NC VI pseudolocalizado: lesão em HIC por tracção do nervo, NÃO indica lesão local.
-
-Paralisia facial periférica vs central: periférica compromete testa; central preserva. OIN (fascículo longitudinal medial): adulcente ativo, adutor ipsilateral parético + nistagmo → EM.
+- **ECG ≤8:** indica coma grave, necessidade de via aérea definitiva.
+- **Motor M6 = obedece, M3 = flexão anormal (decorticação), M2 = extensão (descerebração).**
+- **NC III comprimido:** midríase ipsilateral + ptose + olho para baixo e fora (herniação uncal).
+- **NC VI pseudolocalizado:** lesão em HIC por tracção do nervo, NÃO indica lesão local.
+- **Paralisia facial periférica vs central:** periférica compromete testa; central preserva.
+- **OIN (fascículo longitudinal medial):** adulcente ativo, adutor ipsilateral parético + nistagmo → EM.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -153,5 +151,4 @@ Paralisia facial periférica vs central: periférica compromete testa; central p
 | OIN | Paralisia do NC VI | OIN: abdução OK mas adução falha |
 
 ### Frase-âncora para não esquecer
-
 > "O III abre tudo (pupila, pálpebra, olho) — quando comprimido, fecha tudo num sinal de herniação."

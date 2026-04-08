@@ -1,0 +1,462 @@
+[
+  {
+    "id": 2292,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Jovem de 22 anos refere dor abdominal há cerca de 12 horas, iniciada periumbilical e migrando para a fossa ilíaca direita, com piora ao caminhar e à inspiração profunda. Qual elemento da história atual reforça mais a hipótese de irritação peritoneal?",
+    "opcoes": [
+      "A) Dor localizada que piora com movimento, tosse ou respiração profunda.",
+      "B) Dor difusa em todo o abdome, sem ponto de máxima intensidade.",
+      "C) Dor em cólica intermitente, com melhora acentuada ao mudar de posição na cama, sem piora com movimento.",
+      "D) Dor exclusivamente periumbilical, sem alteração do padrão ao longo das horas."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na dor peritoneal, o estímulo do peritôneo parietal costuma piorar com qualquer movimento do abdome (deambulação, tosse, respiração profunda), o que ajuda a diferenciá-la de padrões mais compatíveis com dor visceral ou cólica.",
+    "explicacoes_opcoes": {
+      "A": "Correta: descreve mecanicamente a piora com movimento típica de irritação peritoneal.",
+      "B": "Incorreta: dor difusa é menos específica e não caracteriza tão bem o padrão peritoneal focal de apendicite em evolução.",
+      "C": "Incorreta: padrão de cólica com busca de posição e sem piora com movimento sugere mais dor visceral/cólica (ex.: ureteral) do que peritonite.",
+      "D": "Incorreta: ignora a migração e a piora com movimento já descritas, incompatível com a evolução típica de apendicite com irritação peritoneal."
+    },
+    "explicacao": "Resumo: irritação peritoneal costuma piorar com movimento do abdome; cólica ureteral tende a gerar inquietação, mas o padrão de piora com tosse/marcha aponta mais para peritôneo parietal.\nA) CORRETA. Compatível com dor peritoneal por estimulação do peritôneo parietal.\nB) INCORRETA. Dor difusa não é o achado que melhor reforça peritonite focal em apendicite.\nC) INCORRETA. Descreve quadro mais típico de dor visceral/cólica do que peritonite.\nD) INCORRETA. Contradiz a história de migração e piora com movimento já apresentada."
+  },
+  {
+    "id": 2293,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente com quadro de dor abdominal intensa e sinais de peritonite. Em relação à ordem temporal entre dor e vômito, qual associação é mais coerente com esse contexto?",
+    "opcoes": [
+      "A) O vômito costuma preceder a dor como sintoma inicial isolado.",
+      "B) É comum a dor intensa se instalar e o vômito ocorrer depois, na sequência do processo peritoneal.",
+      "C) O vômito ocorre exclusivamente antes de qualquer dor abdominal, em todos os casos.",
+      "D) Peritonite elimina por definição a ocorrência de vômito."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na peritonite, a náusea/vômito frequentemente seguem-se à instalação da dor e ao processo inflamatório peritoneal, ao contrário de quadros em que o vômito é o primeiro sinal.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: vômito isolado como primeiro evento não é o padrão clássico descrito para peritonite.",
+      "B": "Correta: alinha-se à ideia de que, na peritonite, o vômito costuma vir após a dor instalada.",
+      "C": "Incorreta: generalização absoluta é falsa; há variações e outros diagnósticos com vômito precedendo dor.",
+      "D": "Incorreta: vômito pode ocorrer em peritonite; não há exclusão automática."
+    },
+    "explicacao": "Resumo: na peritonite, vômito frequentemente é fenômeno secundário à dor e ao processo inflamatório peritoneal.\nA) INCORRETA. Não é o padrão típico enfatizado para peritonite.\nB) CORRETA. Reflete a sequência dor → vômito descrita para quadro peritoneal.\nC) INCORRETA. Afirmação rígida e incorreta.\nD) INCORRETA. Peritonite não exclui vômito."
+  },
+  {
+    "id": 2294,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Mulher de 28 anos procura atendimento com dor abdominal baixa aguda. Na anamnese dirigida, qual informação deve ser priorizada para não negligenciar causas ginecológicas graves?",
+    "opcoes": [
+      "A) Detalhar o cardápio das últimas 48 horas, antes de qualquer outro dado.",
+      "B) Questionar apenas histórico familiar de neoplasias digestivas.",
+      "C) Investigar possibilidade de gravidez, método contraceptivo, atraso menstrual e sintomas ginecológicos associados (ex.: corrimento, dispareunia).",
+      "D) Restringir a entrevista a hábito intestinal, excluindo dados reprodutivos."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Em mulher em idade reprodutiva com dor abdominal baixa, a história reprodutiva e o risco de gravidez ectópica ou infecções pélvicas devem ser abordadas cedo na anamnese.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: dieta recente não substitui a triagem de causas ginecológicas urgentes.",
+      "B": "Incorreta: história familiar isolada não cobre o risco imediato de gravidez ectópica ou DIP.",
+      "C": "Correta: dados reprodutivos e sintomas ginecológicos são centrais na abordagem inicial.",
+      "D": "Incorreta: omitir eixo reprodutivo é conduta insegura neste perfil."
+    },
+    "explicacao": "Resumo: dor baixa em mulher jovem exige exclusão de gravidez ectópica e causas pélvicas infecciosas/inflamatórias.\nA) INCORRETA. Prioridade inadequada.\nB) INCORRETA. Insuficiente e deslocado do problema.\nC) CORRETA. Endereça o eixo reprodutivo obrigatório.\nD) INCORRETA. Excluir dados reprodutivos é erro de conduta."
+  },
+  {
+    "id": 2295,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Homem de 65 anos apresenta distensão abdominal progressiva, vômito com aspecto bilioso (amarelado), parada de eliminação de fezes e de gases. Qual hipótese deve ficar no topo da lista diagnóstica até que se prove o contrário?",
+    "opcoes": [
+      "A) Gastroenterite viral autolimitada.",
+      "B) Síndrome do intestino irritável em exacerbação.",
+      "C) Colelitíase assintomática com dor inespecífica.",
+      "D) Obstrução intestinal, devendo ser investigada e tratada como tal inicialmente."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Vômito bilioso associado a distensão e parada de fezes/gases compõe o padrão clássico que eleva a suspeita de obstrução intestinal, exigindo investigação urgente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: gastroenterite viral raramente cursa com obstrutivo completo e distensão progressiva desse modo.",
+      "B": "Incorreta: SII não explica parada de gases e quadro obstrutivo agudo.",
+      "C": "Incorreta: colelitíase não justifica isoladamente o conjunto obstrutivo descrito.",
+      "D": "Correta: o triunfo vômito bilioso + distensão + ausência de eliminação aponta para obstrução até prova contrária."
+    },
+    "explicacao": "Resumo: sinais de obstrução (vômito bilioso, distensão, parada de eliminação) impõem hipótese de obstrução intestinal e conduta correspondente.\nA) INCORRETA. Quadro incompatível com gastroenterite simples.\nB) INCORRETA. Diagnóstico funcional não cobre obstrução aguda.\nC) INCORRETA. Não explica o padrão obstrutivo completo.\nD) CORRETA. Hipótese que melhor integra os achados."
+  },
+  {
+    "id": 2296,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente refere \"vontade intensa de vomitar\", sem eliminação de conteúdo gástrico até o momento. Esse relato corresponde semiologicamente a:",
+    "opcoes": [
+      "A) Ânsia (náusea intensa sem vômito efetivo até então).",
+      "B) Vômito bilioso.",
+      "C) Vômito fecaloide.",
+      "D) Regurgitação pós-prandial fisiológica."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "Ânsia é a sensação de náusea ou necessidade de vomitar sem necessariamente ocorrer emese; vômito implica expulsão de conteúdo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: distingue ânsia de vômito efetivo, como no material.",
+      "B": "Incorreta: vômito bilioso pressupõe emese com conteúdo; aqui não houve vômito.",
+      "C": "Incorreta: fecaloide sugere obstrução baixa e conteúdo específico; não há descrição compatível.",
+      "D": "Incorreta: regurgitação é outro mecanismo e não equivale à queixa relatada."
+    },
+    "explicacao": "Resumo: diferenciar ânsia de vômito evita erro de documentação e de hipóteses diagnósticas.\nA) CORRETA. Define ânsia sem emese até o momento.\nB) INCORRETA. Exige vômito com características biliosas.\nC) INCORRETA. Contexto e definição não batem.\nD) INCORRETA. Fenômeno distinto."
+  },
+  {
+    "id": 2297,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Você precisa diferenciar, pela história, uma cólica renal de uma dor peritoneal focal (por exemplo, apendicite com irritação local). Qual pergunta traz mais poder discriminatório quando bem explorada?",
+    "opcoes": [
+      "A) \"O senhor toma regularmente anti-histamínicos para rinite?\"",
+      "B) \"A dor irradia para flanco ou lombar, melhora com banho quente ou é focal e piora claramente com movimento e tosse?\"",
+      "C) \"Qual o horário preferido do café da manhã?\"",
+      "D) \"Quantas vezes por ano faz check-up odontológico?\""
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Cólica renal costuma irradiar para flanco/costas e ter padrão cólico; dor peritoneal focal tende a piorar com movimento — perguntas que capturem irradiação, fatores de melhora e relação com movimento são decisivas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: dado alérgico não discrimina os quadros.",
+      "B": "Correta: endereça irradiação, fatores de alívio e piora com movimento, eixos centrais na diferenciação.",
+      "C": "Incorreta: irrelevante para o problema.",
+      "D": "Incorreta: irrelevante para o problema."
+    },
+    "explicacao": "Resumo: explorar padrão de irradiação e fatores que pioram ou melhoram a dor separa cólica ureteral de processos peritoneais.\nA) INCORRETA. Sem valor discriminativo aqui.\nB) CORRETA. Captura elementos-chave da semiologia descrita.\nC) INCORRETA. Ruído na anamnese.\nD) INCORRETA. Ruído na anamnese."
+  },
+  {
+    "id": 2298,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Idoso com dor abdominal crônica em uso contínuo de anti-inflamatório não hormonal por osteoartrose. Na anamnese digestiva, qual aspecto ganha destaque adicional por conta desse contexto?",
+    "opcoes": [
+      "A) Cor preferida das fezes na infância.",
+      "B) Rotina de exercícios aeróbicos na adolescência.",
+      "C) Risco aumentado de úlcera péptica e sangramento digestivo relacionados ao uso de AINE.",
+      "D) Tipo de tecido do pijama usado à noite."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "AINEs são causa frequente de lesão gástrica e duodenal; em dor abdominal, investigar sangramento, dispepsia e fatores de risco é essencial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: dado sem relevância frente ao uso de AINE.",
+      "B": "Incorreta: histórico de exercício não substitui triagem de complicação por AINE.",
+      "C": "Correta: conecta medicação ao risco de mucosa digestiva.",
+      "D": "Incorreta: irrelevante."
+    },
+    "explicacao": "Resumo: AINE é fator de risco para úlcera e sangramento; a anamnese deve buscar sinais de alarme digestivos.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA. Mecanismo e conduta de triagem coerentes.\nD) INCORRETA."
+  },
+  {
+    "id": 2299,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Ao investigar hábito intestinal em paciente com queixa digestiva nova, qual achado deve ser interpretado como sinal de alarme (\"red flag\")?",
+    "opcoes": [
+      "A) Evacuação uma vez ao dia com fezes formadas, estável há anos.",
+      "B) Uso ocasional de laxante somente em viagens longas.",
+      "C) Preferência por fibras na salada, sem mudança do ritmo evacuatório.",
+      "D) Mudança recente do ritmo intestinal, sangue visível nas fezes ou melena."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Alteração do hábito intestinal ou sangramento (hematoquezia/melena) são alertas que exigem investigação etiológica, não apenas manejo sintomático.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão crônico estável não é red flag isolado.",
+      "B": "Incorreta: laxante ocasional em contexto de viagem não equivale a mudança de hábito patológica.",
+      "C": "Incorreta: dieta rica em fibras sem alteração do ritmo não constitui alarme por si só.",
+      "D": "Correta: mudança de hábito e sangue/melena são sinais de alarme digestivos."
+    },
+    "explicacao": "Resumo: red flags intestinais incluem sangramento e mudança persistente do hábito.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "id": 2300,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Paciente descreve dor abdominal em cólica extremamente intensa, com incapacidade de permanecer imóvel na maca, nega piora marcada com tosse ou respiração profunda, e refere irradiação a partir do flanco em direção à região inguinal. Qual interpretação é mais coerente com esse quadro?",
+    "opcoes": [
+      "A) Peritonite generalizada com abdome em tábua e rigidez difusa como primeira hipótese.",
+      "B) Irritação peritoneal precoce difusa sem componente visceral.",
+      "C) Padrão mais compatível com dor visceral por cólica ureteral (ex.: litíase), com inquietação e irradiação típica.",
+      "D) Dor parietal exclusiva sem participação de vísceras abdominais."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Cólica renal costuma ser intensa, com inquietação e irradiação flanco-inguinal; a ausência de piora clara com movimento peritoneal ajuda a afastar padrão típico de peritonite difusa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: peritonite generalizada não se sugere quando não há piora com movimento e o quadro é de cólica com irradiação ureteral.",
+      "B": "Incorreta: descrição não é de peritonite difusa precoce.",
+      "C": "Correta: integra cólica, inquietação, irradiação e relativa ausência de irritação peritoneal marcada.",
+      "D": "Incorreta: dor exclusivamente parietal não explica bem o padrão cólico visceral descrito."
+    },
+    "explicacao": "Resumo: cólica ureteral — dor intensa, paciente inquieto, irradiação costo-inguinal; peritonite costuma piorar com movimento.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2301,
+    "materia": "semiologia3",
+    "tema": "semio3_a1",
+    "enunciado": "Na história da moléstia atual de dor abdominal, pedir ao paciente que aponte com o dedo o local da dor tem como principal finalidade:",
+    "opcoes": [
+      "A) Substituir o exame físico abdominal completo.",
+      "B) Atender apenas requisitos administrativos, sem impacto na hipótese diagnóstica.",
+      "C) Evitar perguntas sobre duração e progressão da dor.",
+      "D) Obter localização precisa da dor, orientando o diagnóstico diferencial (ex.: FID versus difuso)."
+    ],
+    "correta": 3,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A localização apontada pelo paciente é mais fiel que termos vagos como \"dói a barriga toda\" e direciona hipóteses (apendicite focal, cólica renal, etc.).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: anamnese complementa, não substitui, o exame físico.",
+      "B": "Incorreta: há valor clínico direto na precisão da localização.",
+      "C": "Incorreta: não dispensa outras perguntas estruturadas da HMA.",
+      "D": "Correta: captura foco da dor para raciocínio diferencial."
+    },
+    "explicacao": "Resumo: \"mostrar com o dedo\" aumenta a precisão da localização e reduz ambiguidade.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "id": 2302,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Qual é a sequência recomendada para o exame físico abdominal sistemático?",
+    "opcoes": [
+      "A) Inspeção, ausculta, palpação superficial, palpação profunda e, por fim, manobras especiais.",
+      "B) Palpação profunda, inspeção, ausculta e manobras especiais.",
+      "C) Manobras especiais antes de qualquer inspeção ou ausculta.",
+      "D) Ausculta apenas depois de palpação profunda em todos os quadrantes."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A sequência clássica prioriza inspeção, depois ausculta (antes de palpar, para não alterar ruídos), seguida de palpação em camadas e manobras especiais ao final.",
+    "explicacoes_opcoes": {
+      "A": "Correta: corresponde à ordem ensinada: inspeção → ausculta → palpação superficial → profunda → manobras.",
+      "B": "Incorreta: inverte etapas iniciais e ignora ausculta antes da palpação.",
+      "C": "Incorreta: manobras especiais não precedem inspeção e ausculta.",
+      "D": "Incorreta: ausculta deve preceder a palpação, não seguir palpação profunda obrigatoriamente."
+    },
+    "explicacao": "Resumo: ordem fixa evita artefato na ausculta e estrutura o exame.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2303,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Jovem com história sugestiva de apendicite. À palpação profunda da fossa ilíaca esquerda, reproduz-se dor na fossa ilíaca direita. Esse achado, integrado à clínica, é compatível com:",
+    "opcoes": [
+      "A) Ausência de qualquer irritação peritoneal.",
+      "B) Sinal de Rovsing positivo, indicando irritação peritoneal à custa de víscera (ex.: apendicular) quando correlacionado à anamnese.",
+      "C) Diagnóstico exclusivo de colecistite aguda litiásica.",
+      "D) Confirmação de gravidez ectópica rota apenas pelo exame físico, sem outros dados."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Rovsing: compressão de um quadrante contralateral desencadeia dor no quadrante afetado, útil na suspeita de irritação peritoneal em apendicite, sempre interpretado junto à história.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o achado descrito é justamente sugestivo de irritação peritoneal.",
+      "B": "Correta: descreve o sinal de Rovsing e seu significado clínico.",
+      "C": "Incorreta: colecistite segue outro contexto e topografia (RUQ).",
+      "D": "Incorreta: exame isolado não confirma gravidez ectópica; integra-se com história e exames complementares."
+    },
+    "explicacao": "Resumo: Rovsing positivo apoia irritação peritoneal em contexto de apendicite suspeita.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2304,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Na palpação abdominal, qual distinção conceitual entre rigidez de parede e defesa muscular está correta?",
+    "opcoes": [
+      "A) São termos sinônimos e podem ser usados indistintamente.",
+      "B) Rigidez é voluntária e defesa é sempre involuntária.",
+      "C) Rigidez é involuntária (como na \"placa\" ou abdome em tábua); defesa muscular é contração voluntária ante o estímulo do exame.",
+      "D) Defesa ocorre apenas em dor exclusivamente visceral, nunca em peritonite."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Rigidez reflete espasmo involuntário da parede; defesa é o paciente que contrai voluntariamente para proteger-se do toque — implicações semiológicas diferentes.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: confundir os termos leva a erro de interpretação.",
+      "B": "Incorreta: inverte os papéis de voluntário e involuntário.",
+      "C": "Correta: alinha-se à definição do material.",
+      "D": "Incorreta: defesa pode ocorrer em irritação peritoneal; afirmação é falsa."
+    },
+    "explicacao": "Resumo: separar rigidez (involuntária) de defesa (voluntária) é ponto clássico de prova.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2305,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Considerando distribuição topográfica da dor abdominal, qual afirmação está mais alinhada à semiologia abdominal?",
+    "opcoes": [
+      "A) A colecistite aguda manifesta-se tipicamente com dor exclusivamente em fossa ilíaca esquerda.",
+      "B) Dor peritoneal nunca é difusa, sendo sempre estritamente focal.",
+      "C) Dor visceral pura não pode ser referida para regiões aparentemente localizadas.",
+      "D) Processos peritoneais difusos podem cursar com dor ampla; já a colecistite aguda frequentemente predomina no hipocôndrio direito."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Peritonite pode ser difusa; processos de parede ou víscera regional (como vesícula biliar) tendem a dor mais localizada em RUQ.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a colecistite clássica relaciona-se a dor em hipocôndrio direito (e eventual irradiação), não em FIE.",
+      "B": "Incorreta: peritonite pode ser difusa; a afirmação é falsa.",
+      "C": "Incorreta: dor visceral pode ser referida e parecer focal.",
+      "D": "Correta: reconcilia padrão difuso em peritonite com predomínio regional em colecistite."
+    },
+    "explicacao": "Resumo: comparar distribuição difusa (peritonite) versus regional (colecistite em RUQ) é ponto central.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "id": 2306,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Mulher de 45 anos refere dor em hipocôndrio direito após refeições gordurosas. À palpação profunda do hipocôndrio direito, interrompe a inspiração por dor (sinal de Murphy). Esse achado é mais especificamente descrito como:",
+    "opcoes": [
+      "A) Sinal de Murphy positivo, sugestivo de colecistite aguda no contexto clínico adequado.",
+      "B) Ponto de McBurney isolado, patognomônico de apendicite.",
+      "C) Manobra de Rovsing para avaliação exclusiva de obstrução intestinal alta.",
+      "D) Sinal de Blumberg, indicando apenas gastroenterite viral."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O sinal de Murphy associa-se à colecistite: dor à palpação do hipocôndrio direito que limita a inspiração profunda.",
+    "explicacoes_opcoes": {
+      "A": "Correta: define a manobra e a correlação clínica típica.",
+      "B": "Incorreta: McBurney refere-se ao apêndice, não à vesícula.",
+      "C": "Incorreta: Rovsing avalia irritação peritoneal em outro contexto topográfico.",
+      "D": "Incorreta: Blumberg é rebote peritoneal, não Murphy, e não caracteriza gastroenterite viral."
+    },
+    "explicacao": "Resumo: Murphy + RUQ pós-prandial aponta para vesícula; não confundir com manobras de apendicite.\nA) CORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2307,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Jovem com quadro sugestivo de apendicite. A dor máxima à palpação entre a espinha ilíaca anterossuperior direita e o umbigo, no terço médio dessa distância, corresponde ao:",
+    "opcoes": [
+      "A) Ponto de Giordano.",
+      "B) Ponto de McBurney.",
+      "C) Ponto de Traube.",
+      "D) Projeção exclusiva do corpo do pâncreas."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O ponto de McBurney localiza-se entre a EIAS direita e o umbigo, no terço externo dessa linha, referência clássica para apendicite.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Giordano relaciona-se a avaliação de rins, não ao apêndice.",
+      "B": "Correta: define o ponto de McBurney.",
+      "C": "Incorreta: Traube é área de macicez gástrica no esquerdo, não apêndice.",
+      "D": "Incorreta: topografia pancreática não corresponde ao ponto descrito."
+    },
+    "explicacao": "Resumo: McBurney é o marco clássico de sensibilidade apendicular à palpação.\nA) INCORRETA.\nB) CORRETA.\nC) INCORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2308,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Sobre o valor isolado de manobras especiais do abdome, qual assertiva é mais adequada?",
+    "opcoes": [
+      "A) Qualquer sinal positivo, sem história, basta para fechar diagnóstico etiológico.",
+      "B) Rovsing negativo exclui apendicite com segurança absoluta.",
+      "C) Sinal positivo sem correlação anamnésica não diagnostica sozinho; integra-se com a história e o restante do exame.",
+      "D) Manobras especiais substituem a inspeção e a ausculta."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A semiologia abdominal exige integração: sinais isolados têm significado relativo e dependem do contexto clínico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: diagnóstico não se apoia apenas em um sinal isolado.",
+      "B": "Incorreta: sensibilidade/especificidade não permitem exclusão absoluta pelo Rovsing negativo.",
+      "C": "Correta: alinha-se à regra de integrar achados com anamnese.",
+      "D": "Incorreta: exame segue sequência lógica; manobras não substituem etapas anteriores."
+    },
+    "explicacao": "Resumo: manobra sem contexto é sinal solto; integrar com história é obrigatório.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2309,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Na ausculta intestinal, qual conduta melhor reflete o método descrito para avaliar ruídos hidroaéreos?",
+    "opcoes": [
+      "A) Ouvir menos de 3 segundos por quadrante para agilizar o atendimento.",
+      "B) Realizar ausculta somente após percussão extensa obrigatória em todos os andares.",
+      "C) Ignorar alterações de ruídos em paciente com distensão abdominal.",
+      "D) Manter o paciente em silêncio e avaliar cada região por tempo suficiente (por exemplo, pelo menos cerca de 15 segundos por área)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A ausculta abdominal requer tempo mínimo por região para caracterizar presença, aumento ou diminuição/ausência de ruídos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tempo insuficiente perde achados relevantes.",
+      "B": "Incorreta: ausculta precede palpação; percussão não substitui o tempo de escuta.",
+      "C": "Incorreta: distensão é justamente o contexto em que RHA importam (ex.: obstrução, íleo).",
+      "D": "Correta: reproduz o método recomendado no material."
+    },
+    "explicacao": "Resumo: escuta atenta e prolongada por região faz parte da semiologia intestinal.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  },
+  {
+    "id": 2310,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Paciente com dor peritoneal parietal. Ao compressão profunda seguida de soltura rápida, refere dor intensa (rebote doloroso). Esse padrão corresponde classicamente ao:",
+    "opcoes": [
+      "A) Sinal de Murphy.",
+      "B) Manobra de Rovsing.",
+      "C) Sinal de Blumberg (rebote).",
+      "D) Ponto de McBurney isolado, sem outro achado."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "Blumberg (rebote) avalia irritação do peritônio parietal pela dor ao soltar a mão após compressão.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Murphy é inspiração interrompida na palpação do HD, não rebote.",
+      "B": "Incorreta: Rovsing é dor referida cruzada em FID ao palpar FIE.",
+      "C": "Correta: define o sinal de Blumberg/rebote.",
+      "D": "Incorreta: McBurney é topografia de dor à palpação, não o fenômeno de rebote."
+    },
+    "explicacao": "Resumo: rebote = Blumberg; integra irritação parietal.\nA) INCORRETA.\nB) INCORRETA.\nC) CORRETA.\nD) INCORRETA."
+  },
+  {
+    "id": 2311,
+    "materia": "semiologia3",
+    "tema": "semio3_a2",
+    "enunciado": "Na palpação profunda do abdome em adultos, o achado de baço palpável deve ser interpretado como:",
+    "opcoes": [
+      "A) Variante normal frequente, sem necessidade de investigação.",
+      "B) Indicador exclusivo de trombose esplênica, descartando outras causas.",
+      "C) Achado que ocorre apenas em crianças pequenas, nunca em adultos.",
+      "D) Anormal até prova contrária, merecendo investigação da causa da esplenomegalia."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Em adultos, baço palpável sugere aumento esplênico ou deslocamento; não é considerado achado trivial.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: baço palpável em adulto não é tratado como normal por padrão.",
+      "B": "Incorreta: esplenomegalia tem múltiplas etiologias além de trombose.",
+      "C": "Incorreta: o achado pode ocorrer em adultos e exige explicação.",
+      "D": "Correta: alinha-se ao texto: baço palpável é anormal até prova contrária."
+    },
+    "explicacao": "Resumo: esplenomegalia palpável não é ignorada na prática semiológica.\nA) INCORRETA.\nB) INCORRETA.\nC) INCORRETA.\nD) CORRETA."
+  }
+]

@@ -7,6 +7,10 @@
   <title>MedGradPlus - Estude com direção e constância</title>
   <meta name="description" content="Organize seus estudos de Medicina por módulo, revise com repetição espaçada e treine com questões comentadas.">
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <!-- Firebase SDK (Compat) -->
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.22.1/firebase-firestore-compat.js"></script>
+  <script src="firebase-config.js"></script>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
     html, body { margin: 0; padding: 0; }
@@ -136,9 +140,25 @@
       background: rgba(0,180,216,0.12);
       border: 1px solid rgba(0,180,216,0.28);
       border-radius: 999px;
-      padding: 6px 12px;
+      padding: 6px 14px;
       margin-bottom: 14px;
+      box-shadow: 0 4px 12px rgba(0, 180, 216, 0.1);
     }
+    
+    /* Scroll Reveal Initial States */
+    .reveal {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: all 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
+      will-change: transform, opacity;
+    }
+    .reveal.active {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .delay-1 { transition-delay: 0.1s; }
+    .delay-2 { transition-delay: 0.2s; }
+    .delay-3 { transition-delay: 0.3s; }
     h1 {
       font-family: "Outfit", sans-serif;
       line-height: 1.02;
@@ -620,7 +640,7 @@
   <main>
     <section class="hero">
       <div class="container hero-grid">
-        <div>
+        <div class="reveal">
           <div class="pill">Método de estudo para prova real</div>
           <h1>Pare de estudar no improviso. Estude com direção, retenção e constância.</h1>
           <p class="hero-lead">
@@ -632,7 +652,7 @@
           </div>
           <p class="hero-note"><span class="typewrite">Disponível agora para Ciclo Básico, Clínico e Internato quando aplicável para a sua faculdade.</span></p>
         </div>
-        <aside class="hero-card" aria-label="Resumo de valor">
+        <aside class="hero-card reveal delay-1" aria-label="Resumo de valor">
           <h2 class="hero-card-title">O que muda na prática (feedback de alunos)</h2>
           <ul class="hero-list">
             <li><span class="feedback-icon fb1">SG</span><p class="feedback-copy">"Parece que as matérias finalmente conversam. O app separou tudo por módulo e deu uma clareada absurda no estudo."</p></li>
@@ -646,19 +666,19 @@
     </section>
 
     <section class="section">
-      <div class="container">
+      <div class="container reveal">
         <h2 class="section-title">Por que só IA, PDF e prova antiga isolada não resolvem sozinhos?</h2>
         <p class="section-sub">Essas fontes podem ajudar, mas sem sistema você perde consistência e memoriza pior no médio prazo.</p>
         <div class="grid-3">
-          <article class="card bad">
+          <article class="card bad reveal delay-1">
             <h3>Excesso de material, pouca direção</h3>
             <p>Você até encontra conteúdo, mas gasta energia decidindo por onde começar e quando revisar.</p>
           </article>
-          <article class="card bad">
+          <article class="card bad reveal delay-2">
             <h3>Estudo quebrado em apps diferentes</h3>
             <p>Quando cada etapa fica em um lugar, o atrito aumenta e a constância despenca.</p>
           </article>
-          <article class="card good">
+          <article class="card good reveal delay-3">
             <h3>Com o MedGradPlus</h3>
             <p>Material, questões e revisão ficam integrados para você estudar com foco no que realmente cai.</p>
           </article>
@@ -667,32 +687,32 @@
     </section>
 
     <section class="section">
-      <div class="container">
+      <div class="container reveal">
         <h2 class="section-title">Como o MedGradPlus converte esforço em resultado</h2>
         <p class="section-sub">Um mecanismo simples para sustentar desempenho: organizar, praticar, revisar e repetir.</p>
         <div class="steps">
-          <article class="step">
+          <article class="step reveal delay-1">
             <span class="step-num">1</span>
             <div>
               <h3>Comece pelo módulo certo</h3>
               <p>Você entra no módulo e disciplina da sua fase atual sem perder tempo em conteúdo desalinhado.</p>
             </div>
           </article>
-          <article class="step">
+          <article class="step reveal delay-2">
             <span class="step-num">2</span>
             <div>
               <h3>Estude material objetivo por aula</h3>
               <p>Resumo enxuto para avançar com clareza, sem inflar leitura quando a prioridade é prova.</p>
             </div>
           </article>
-          <article class="step">
+          <article class="step reveal delay-1">
             <span class="step-num">3</span>
             <div>
               <h3>Treine com questões comentadas</h3>
               <p>Prática orientada para fortalecer entendimento e detectar lacunas antes da avaliação.</p>
             </div>
           </article>
-          <article class="step">
+          <article class="step reveal delay-2">
             <span class="step-num">4</span>
             <div>
               <h3>Reforce com repetição espaçada</h3>
@@ -703,7 +723,7 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section reveal">
       <div class="container offer-wrap">
         <div class="card">
           <h2 class="section-title" style="font-size:clamp(24px,3.6vw,34px); margin-bottom:8px;">O que você recebe hoje</h2>
@@ -719,7 +739,7 @@
             <a href="#lista-prioridade" class="btn btn-secondary js-lead-cta" data-cta-position="offer">Quero receber novidades</a>
           </div>
         </div>
-        <aside class="roadmap">
+        <aside class="roadmap reveal delay-1">
           <span class="roadmap-badge">Estratégia e Análise</span>
           <h3>Disponibilidade Progressiva</h3>
           <p>
@@ -730,7 +750,7 @@
       </div>
     </section>
 
-    <section class="section" id="lista-prioridade">
+    <section class="section reveal" id="lista-prioridade">
       <div class="container">
         <div class="lead-box">
           <h2 class="section-title" style="font-size:clamp(24px,3.8vw,32px); margin-bottom:4px;">Ainda não vai comprar hoje?</h2>
@@ -753,23 +773,23 @@
       </div>
     </section>
 
-    <section class="section">
+    <section class="section reveal">
       <div class="container">
         <h2 class="section-title">Dúvidas que travam a decisão</h2>
         <div class="faq">
-          <details>
+          <details class="reveal delay-1">
             <summary>Preciso abandonar IA e PDF para usar o app?</summary>
             <p>Não. O objetivo é transformar IA e PDF em apoio, não em centro do estudo. O app vira sua base de execução diária.</p>
           </details>
-          <details>
+          <details class="reveal delay-2">
             <summary>Como funciona o acesso após comprar?</summary>
             <p>O checkout é feito em `comprar.html` e a liberação ocorre no email da sua conta. O processo foi desenhado para ser rápido e direto.</p>
           </details>
-          <details>
+          <details class="reveal delay-3">
             <summary>Tem para todos os semestres hoje?</summary>
             <p>O foco atual está no Ciclo Básico e o restante entra em expansão progressiva. A página de compra sempre mostra o status atualizado.</p>
           </details>
-          <details>
+          <details class="reveal delay-1">
             <summary>E se eu não me adaptar?</summary>
             <p>A compra segue política de garantia de 7 dias. A ideia é reduzir risco e te dar espaço para testar na sua rotina.</p>
           </details>
@@ -777,7 +797,7 @@
       </div>
     </section>
 
-    <section class="container">
+    <section class="container reveal">
       <div class="cta-band">
         <h2>Se sua meta é performar melhor nas provas, você precisa de sistema, não de improviso.</h2>
         <p>
@@ -801,6 +821,29 @@
 
   <script>
     (function () {
+      // 1. Initialize Firebase
+      let db = null;
+      try {
+        if (window.__FIREBASE_CLIENT_CONFIG__) {
+          firebase.initializeApp(window.__FIREBASE_CLIENT_CONFIG__);
+          db = firebase.firestore();
+        }
+      } catch (e) {
+        console.error("Firebase init error:", e);
+      }
+
+      // 2. Scroll Reveal Observer
+      const scrollObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('active');
+          }
+        });
+      }, { threshold: 0.1 });
+
+      document.querySelectorAll('.reveal').forEach(el => scrollObserver.observe(el));
+
+      // 3. Lead Tracking & Analytics
       var tracked = { s50: false, s90: false };
       var leadForm = document.getElementById("leadForm");
       var leadMessage = document.getElementById("leadMessage");
@@ -845,6 +888,67 @@
         });
       }
 
+      // 4. Form Submission
+      if (leadForm) {
+        leadForm.addEventListener("submit", async function (ev) {
+          ev.preventDefault();
+          const btn = leadForm.querySelector('button');
+          const originalText = btn.textContent;
+          
+          var name = (leadName.value || "").trim();
+          var email = (leadEmail.value || "").trim();
+
+          if (!safeEmail(email)) {
+            leadMessage.textContent = "Informe um email válido para entrar na lista.";
+            leadMessage.style.color = "#f97373";
+            return;
+          }
+
+          // Loading state
+          btn.disabled = true;
+          btn.textContent = "Enviando...";
+          btn.style.opacity = "0.7";
+
+          var leadPayload = {
+            name: name,
+            email: email,
+            source: "landing_medgradplus",
+            userAgent: navigator.userAgent,
+            created_at: firebase.firestore.FieldValue.serverTimestamp() || new Date().toISOString()
+          };
+
+          try {
+            // Save to Firestore (Real)
+            if (db) {
+              await db.collection('leads').add(leadPayload);
+            }
+            
+            // Local backup
+            var key = "medgradplus_landing_leads";
+            var oldData = JSON.parse(localStorage.getItem(key) || "[]");
+            oldData.push({...leadPayload, created_at: new Date().toISOString()});
+            localStorage.setItem(key, JSON.stringify(oldData));
+
+            emitEvent("landing_cta_lead_click", { position: "lead_form_submit", status: "success" });
+            
+            leadMessage.textContent = "Excelente! Você foi adicionado à lista com sucesso.";
+            leadMessage.style.color = "#bef7da";
+            leadForm.reset();
+            passEmailToBuyLinks();
+          } catch (err) {
+            console.error("Lead submission error:", err);
+            leadMessage.textContent = "Erro ao enviar. Tente novamente em instantes.";
+            leadMessage.style.color = "#f97373";
+            emitEvent("landing_cta_lead_click", { position: "lead_form_submit", status: "error" });
+          } finally {
+            btn.disabled = false;
+            btn.textContent = originalText;
+            btn.style.opacity = "1";
+          }
+        });
+      }
+
+      // 5. Events & Tracking
       document.querySelectorAll(".js-buy-cta").forEach(function (btn) {
         btn.addEventListener("click", function () {
           passEmailToBuyLinks();
@@ -880,37 +984,6 @@
         }
       }
       window.addEventListener("scroll", trackScroll, { passive: true });
-
-      if (leadForm) {
-        leadForm.addEventListener("submit", function (ev) {
-          ev.preventDefault();
-          var name = (leadName.value || "").trim();
-          var email = (leadEmail.value || "").trim();
-          if (!safeEmail(email)) {
-            leadMessage.textContent = "Informe um email válido para entrar na lista.";
-            leadMessage.style.color = "#ffd2d2";
-            return;
-          }
-
-          var leadPayload = {
-            name: name,
-            email: email,
-            source: "landing_medgradplus",
-            created_at: new Date().toISOString()
-          };
-          try {
-            var key = "medgradplus_landing_leads";
-            var oldData = JSON.parse(localStorage.getItem(key) || "[]");
-            oldData.push(leadPayload);
-            localStorage.setItem(key, JSON.stringify(oldData));
-          } catch (e) {}
-
-          emitEvent("landing_cta_lead_click", { position: "lead_form_submit" });
-          leadMessage.textContent = "Recebido. Você entrou na lista de prioridade.";
-          leadMessage.style.color = "#bef7da";
-          passEmailToBuyLinks();
-        });
-      }
 
       leadEmail.addEventListener("blur", passEmailToBuyLinks);
       passEmailToBuyLinks();

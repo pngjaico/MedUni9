@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-A epidemiologia analítica é a caixa de ferramentas que permite demonstrar se uma exposição causa ou está associada a um desfecho de saúde. Identificar que tabagismo causa câncer de pulmão, que vacinação previne difteria ou que hipertensão é fator de risco para AVC — tudo isso é produto da epidemiologia analítica. A **Uninove** cobra medidas de associação (RR, OR), critérios de causalidade e os diferentes desenhos de estudos analíticos.
+A epidemiologia analítica é a caixa de ferramentas que permite demonstrar se uma exposição causa ou está associada a um desfecho de saúde. Identificar que tabagismo causa câncer de pulmão, que vacinação previne difteria ou que hipertensão é fator de risco para AVC — tudo isso é produto da epidemiologia analítica. A Uninove cobra medidas de associação (RR, OR), critérios de causalidade e os diferentes desenhos de estudos analíticos.
 
 ### Figura sugerida
 
@@ -114,7 +114,7 @@ Uma terceira variável que está associada tanto à exposição quanto ao desfec
 Controle do confundimento: randomização (RCT), pareamento, estratificação, regressão multivariada.
 
 ### 6.2 Modificação de Efeito (Interação)
-A magnitude da associação entre exposição e desfecho varia em diferentes subgrupos da população. Exemplo: o RR de **infarto** por hipertensão é diferente em diabéticos e não-diabéticos. A modificação de efeito não é viés — é um achado biologicamente relevante.
+A magnitude da associação entre exposição e desfecho varia em diferentes subgrupos da população. Exemplo: o RR de infarto por hipertensão é diferente em diabéticos e não-diabéticos. A modificação de efeito não é viés — é um achado biologicamente relevante.
 
 ---
 
@@ -137,17 +137,17 @@ Os grandes estudos que embasam as diretrizes clínicas dependem de medidas de as
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Incidência:** novos casos. **Prevalência:** casos em um momento (novos + antigos).
+- **RR:** coorte prospectiva, razão de incidências.
+- **OR:** caso-controle, razão de odds de exposição.
+- **RR = OR quando a doença eh rara** (prevalência menor que 10%).
+- **Temporalidade:** unico criterio obrigatorio de causalidade — exposição precede desfecho.
+- **Confundimento:** variavel que distorce a associação. Controle: randomizacao, pareamento, regressao.
 
-
-Incidência: novos casos. Prevalência: casos em um momento (novos + antigos). RR: coorte prospectiva, razão de incidências.
-
-OR: caso-controle, razão de odds de exposição. RR = OR quando a doença eh rara (prevalência menor que 10%).
-
-Temporalidade: unico criterio obrigatorio de causalidade — exposição precede desfecho. Confundimento: variavel que distorce a associação. Controle: randomizacao, pareamento, regressao.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -159,5 +159,4 @@ Temporalidade: unico criterio obrigatorio de causalidade — exposição precede
 | Risco atribuivel | Fração atribuivel | RA: diferença absoluta; FA: proporção do risco explicada pela exposição |
 
 ### Frase-âncora para não esquecer
-
 > "RR compara riscos em coorte. OR compara odds de exposição em caso-controle. A temporalidade é o unico criterio causal indispensavel."

@@ -4,7 +4,7 @@
 
 A desregulação do controle da expressão gênica é o denominador comum do câncer. Proto-oncogenes transformados em oncogenes, supressores tumorais inativados, genes de reparo silenciados por metilação — todos esses eventos são falhas no controle que normalmente regula o que, quando e quanto um gene é expresso. Esta aula integra os mecanismos de regulação das aulas anteriores (transcrição, epigenética, pós-transcrição) com as bases moleculares das neoplasias, tornando-a de altíssimo rendimento para medicina oncológica básica.
 
-A **Uninove** frequentemente apresenta casos de câncer com um perfil molecular e solicita identificação do mecanismo desregulado — amplificação de oncogene, inativação de tumor supressor, instabilidade microsatélite ou alteração epigenética. Este conteúdo treina esse raciocínio.
+A Uninove frequentemente apresenta casos de câncer com um perfil molecular e solicita identificação do mecanismo desregulado — amplificação de oncogene, inativação de tumor supressor, instabilidade microsatélite ou alteração epigenética. Este conteúdo treina esse raciocínio.
 
 ### Figura sugerida
 
@@ -70,7 +70,7 @@ Categorias funcionais de oncoproteínas:
 
 ## Epigenética e Câncer
 
-Além das mutações do **DNA**, alterações epigenéticas são ubíquas no câncer:
+Além das mutações do DNA, alterações epigenéticas são ubíquas no câncer:
 
 **Metilação de DNA em ilhas CpG:**
 - Ilhas CpG em regiões promotoras de genes supressores de tumor → silenciamento (sem mutação da sequência)
@@ -126,19 +126,19 @@ O painel de reflexo para câncer colorretal recém-diagnosticado inclui obrigato
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Oncogene: ganho de função (mutação, amplificação, translocação). Supressor tumoral: perda de função; dois golpes (Knudson). BCR-ABL (t9;22): LMC; tirosina cinase; imatinibe.
-
-C-Myc (t8;14): linfoma de Burkitt; fator de transcrição. BCL-2 (t14;18): linfoma folicular; antiapoptótico. RB1: retinoblastoma bilateral precoce (familiar) × unilateral tardio (esporádico).
-
-TP53: guarda do genoma; responde a dano no DNA; mutado em >50% dos cânceres. BRCA1/2: reparo por recombinação homóloga; mama + ovário hereditários. MSI-H (deficiência de MMR): marcador de resposta a pembrolizumabe (anti-PD1).
-
-Metilação de ilhas CpG: silência supressores sem mutar sequência (epigenético).
+- **Oncogene**: ganho de função (mutação, amplificação, translocação)
+- **Supressor tumoral**: perda de função; dois golpes (Knudson)
+- **BCR-ABL (t9;22)**: LMC; tirosina cinase; imatinibe
+- **c-Myc (t8;14)**: linfoma de Burkitt; fator de transcrição
+- **BCL-2 (t14;18)**: linfoma folicular; antiapoptótico
+- **RB1**: retinoblastoma bilateral precoce (familiar) × unilateral tardio (esporádico)
+- **TP53**: guarda do genoma; responde a dano no DNA; mutado em >50% dos cânceres
+- **BRCA1/2**: reparo por recombinação homóloga; mama + ovário hereditários
+- **MSI-H (deficiência de MMR)**: marcador de resposta a pembrolizumabe (anti-PD1)
+- **Metilação de ilhas CpG**: silência supressores sem mutar sequência (epigenético)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -151,13 +151,4 @@ Metilação de ilhas CpG: silência supressores sem mutar sequência (epigenéti
 | BRCA1/2 (reparo) | MLH1/MSH2 (reparo) | BRCA: recombinação homóloga (DSB); MLH1/MSH2: mismatch repair (erros de replicação) |
 
 ### Frase-âncora para não esquecer
-
 > "Oncogene = acelerador preso; supressor tumoral = freio cortado. O câncer precisa das duas coisas ao mesmo tempo: acelerar e não poder parar."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

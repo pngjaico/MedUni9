@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O exame sensorial e as provas cerebelares revelam lesões que o exame motor não detecta. Dissociação sensitiva — perda de uma modalidade com preservação de outra — localiza lesões com precisão surpreendente. A síndrome cerebelar caracteriza-se por ataxia sem déficit de força, confundindo o estudante na vinheta clínica. A **Uninove** cobra tabelas sensitivas e sinal de Romberg em questões de localização.
+O exame sensorial e as provas cerebelares revelam lesões que o exame motor não detecta. Dissociação sensitiva — perda de uma modalidade com preservação de outra — localiza lesões com precisão surpreendente. A síndrome cerebelar caracteriza-se por ataxia sem déficit de força, confundindo o estudante na vinheta clínica. A Uninove cobra tabelas sensitivas e sinal de Romberg em questões de localização.
 
 ### Figura sugerida
 
@@ -72,7 +72,7 @@ A sensibilidade divide-se em **superficial** (protopática) e **profunda** (epic
 
 ## Nível Sensitivo — Como Definir na Medula
 
-Para encontrar o nível de lesão medular, teste a **sensibilidade** de cima para baixo com alfinete nas laterais do tronco. O nível sensitivo é o dermátomo mais alto com sensibilidade abolida. Marcos clínicos:
+Para encontrar o nível de lesão medular, teste a sensibilidade de cima para baixo com alfinete nas laterais do tronco. O nível sensitivo é o dermátomo mais alto com sensibilidade abolida. Marcos clínicos:
 
 - **T4:** mamilo
 - **T10:** umbigo
@@ -124,17 +124,15 @@ A combinação de achados sensitivos e cerebelares é essencial para localizar l
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Espinotalâmico lateral: dor/temperatura, cruza em 2–3 segmentos → lesão causa perda contralateral. Coluna posterior: vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.
-
-Brown-Séquard: motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo). Siringomielia: perda de dor/temperatura bilateral no nível da lesão, propriocepção intacta.
-
-Romberg positivo → coluna posterior; Romberg negativo passado em cerebelar. Dismetria + tremor intencional + base alargada → síndrome cerebelar ipsilateral.
+- **Espinotalâmico lateral:** dor/temperatura, cruza em 2–3 segmentos → lesão causa perda contralateral.
+- **Coluna posterior:** vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.
+- **Brown-Séquard:** motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).
+- **Siringomielia:** perda de dor/temperatura bilateral no nível da lesão, propriocepção intacta.
+- **Romberg positivo → coluna posterior; Romberg negativo passado em cerebelar.**
+- **Dismetria + tremor intencional + base alargada → síndrome cerebelar ipsilateral.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -146,5 +144,4 @@ Romberg positivo → coluna posterior; Romberg negativo passado em cerebelar. Di
 | Neuropatia periférica | Lesão de coluna posterior | Neuropatia = perda distal, luva/meia; col. post. = bilateral nível |
 
 ### Frase-âncora para não esquecer
-
 > "A coluna posterior guarda memória do espaço — sem ela, fecha os olhos e cai."

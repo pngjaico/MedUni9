@@ -1,0 +1,232 @@
+[
+  {
+    "id": 942,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "O genoma humano haploide contém aproximadamente:",
+    "opcoes": [
+      "A) 3,2 bilhões de pares de bases.",
+      "B) 3,2 milhões de pares de bases.",
+      "C) 320 milhões de pares de bases.",
+      "D) 32 bilhões de pares de bases."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "~3,2×10⁹ pb haploide no material.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ordem de grandeza usual.",
+      "B": "Incorreta: ordem errada.",
+      "C": "Incorreta: subestima.",
+      "D": "Incorreta: superestima."
+    },
+    "explicacao": "Resumo: Haplóide ~3,2 Gbp.\nA) CORRETA. Correta: ordem de grandeza usual.\nB) INCORRETA. Incorreta: ordem errada.\nC) INCORRETA. Incorreta: subestima.\nD) INCORRETA. Incorreta: superestima."
+  },
+  {
+    "id": 943,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Aproximadamente que fração do genoma humano corresponde a exons codificantes de proteínas?",
+    "opcoes": [
+      "A) ~50%.",
+      "B) ~1,5%.",
+      "C) ~24%.",
+      "D) ~100%."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Exons ~1,5%; introns/flanqueantes ~24%.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: superestima.",
+      "B": "Correta: tabela do material.",
+      "C": "Incorreta: inclui introns.",
+      "D": "Incorreta: maior parte não codifica proteínas diretamente."
+    },
+    "explicacao": "Resumo: Poucos % são exons.\nA) INCORRETA. Incorreta: superestima.\nB) CORRETA. Correta: tabela do material.\nC) INCORRETA. Incorreta: inclui introns.\nD) INCORRETA. Incorreta: maior parte não codifica proteínas diretamente."
+  },
+  {
+    "id": 944,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "O nucleossomo é composto por DNA enrolado em torno de um octâmero de histonas. Qual descrição está correta?",
+    "opcoes": [
+      "A) Octâmero apenas de H1.",
+      "B) Tetrâmero exclusivo H3-H4.",
+      "C) Duas cópias cada de H2A, H2B, H3 e H4.",
+      "D) Somente H2A e H2B em duplas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Octâmero (H2A,H2B,H3,H4)×2; H1 liga entre nucleossomos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: H1 é linker.",
+      "B": "Incorreta: incompleto.",
+      "C": "Correta: descrição clássica.",
+      "D": "Incorreta: incompleto."
+    },
+    "explicacao": "Resumo: Nucleossomo — octâmero de core histonas.\nA) INCORRETA. Incorreta: H1 é linker.\nB) INCORRETA. Incorreta: incompleto.\nC) CORRETA. Correta: descrição clássica.\nD) INCORRETA. Incorreta: incompleto."
+  },
+  {
+    "id": 945,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "A regra GT-AG (GU-AG no RNA) nas junções de splicing eucariótico indica:",
+    "opcoes": [
+      "A) Início e fim da tradução.",
+      "B) Origem única de replicação em eucariotos.",
+      "C) Ligação peptídica no ribossomo 80S.",
+      "D) Sítios doador (5' GU) e aceitador (3' AG) típicos de íntrons."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Íntron começa com GU e termina com AG no RNA; mutações causam splicing aberrante.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: tradução — códons.",
+      "B": "Incorreta: múltiplas origens em eucariotos.",
+      "C": "Incorreta: ribossomo.",
+      "D": "Correta: regra do material."
+    },
+    "explicacao": "Resumo: Splicing — junções conservadas.\nA) INCORRETA. Incorreta: tradução — códons.\nB) INCORRETA. Incorreta: múltiplas origens em eucariotos.\nC) INCORRETA. Incorreta: ribossomo.\nD) CORRETA. Correta: regra do material."
+  },
+  {
+    "id": 946,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Mulher 46,XX: quantos corpúsculos de Barr espera-se em núcleos interfasínicos (regra prática)?",
+    "opcoes": [
+      "A) Nenhum.",
+      "B) Dois.",
+      "C) Um.",
+      "D) Três."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Barr ≈ número de X − 1; 46,XX → 1.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: há inativação de um X.",
+      "B": "Incorreta: dois X ativos não ocorrem.",
+      "C": "Correta: 2 X − 1.",
+      "D": "Incorreta: não aplicável."
+    },
+    "explicacao": "Resumo: Lyonização.\nA) INCORRETA. Incorreta: há inativação de um X.\nB) INCORRETA. Incorreta: dois X ativos não ocorrem.\nC) CORRETA. Correta: 2 X − 1.\nD) INCORRETA. Incorreta: não aplicável."
+  },
+  {
+    "id": 947,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Qual conjunto descreve melhor o DNA mitocondrial humano?",
+    "opcoes": [
+      "A) Linear, herança paterna, sem genes de RNA.",
+      "B) Circular, herança materna, sem proteínas codificadas.",
+      "C) Linear, 46 cromossomos diploides.",
+      "D) Circular, ~16,5 kb, herança materna, 37 genes típicos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "mtDNA circular, maternal, 37 genes (13 proteínas cadeia respiratória + rRNA + tRNA).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: mtDNA é circular e maternal.",
+      "B": "Incorreta: codifica proteínas da cadeia respiratória.",
+      "C": "Incorreta: confunde com genoma nuclear.",
+      "D": "Correta: síntese do material."
+    },
+    "explicacao": "Resumo: mtDNA pequeno e maternal.\nA) INCORRETA. Incorreta: mtDNA é circular e maternal.\nB) INCORRETA. Incorreta: codifica proteínas da cadeia respiratória.\nC) INCORRETA. Incorreta: confunde com genoma nuclear.\nD) CORRETA. Correta: síntese do material."
+  },
+  {
+    "id": 948,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Paciente com investigação de miopatia mitocondrial; biópsia com ‘ragged red fibers’. A explicação mais direta ligada ao genoma mitocondrial é:",
+    "opcoes": [
+      "A) Mutações no mtDNA comprometem cadeia respiratória e ATP.",
+      "B) Defeito exclusivo no DNA nuclear sem relação com mtDNA.",
+      "C) Ribossomos mitocondriais 80S como na tradução citoplasmática.",
+      "D) Herança paterna do DNA mitocondrial."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "mtDNA codifica subunidades da cadeia respiratória; disfunção → fibras alteradas.",
+    "explicacoes_opcoes": {
+      "A": "Correta: integra bioenergética mitocondrial.",
+      "B": "Incorreta: nuclear pode estar envolvido, mas a questão foca mtDNA.",
+      "C": "Incorreta: ribossomos mt são 70S.",
+      "D": "Incorreta: herança materna."
+    },
+    "explicacao": "Resumo: mtDNA — energia.\nA) CORRETA. Correta: integra bioenergética mitocondrial.\nB) INCORRETA. Incorreta: nuclear pode estar envolvido, mas a questão foca mtDNA.\nC) INCORRETA. Incorreta: ribossomos mt são 70S.\nD) INCORRETA. Incorreta: herança materna."
+  },
+  {
+    "id": 949,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Telômeros humanos são enriquecidos em repetições:",
+    "opcoes": [
+      "A) CGCGCG.",
+      "B) TTAGGG.",
+      "C) AATAAA.",
+      "D) TATAAA."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TTAGGG; telomerase; AATAAA é sinal de poliadenilação.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é a sequência clássica.",
+      "B": "Correta: repetitivo terminal.",
+      "C": "Incorreta: poly(A).",
+      "D": "Incorreta: TATA promotor."
+    },
+    "explicacao": "Resumo: TTAGGG — telômero.\nA) INCORRETA. Incorreta: não é a sequência clássica.\nB) CORRETA. Correta: repetitivo terminal.\nC) INCORRETA. Incorreta: poly(A).\nD) INCORRETA. Incorreta: TATA promotor."
+  },
+  {
+    "id": 950,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Um SNP (polimorfismo de nucleotídeo único) representa:",
+    "opcoes": [
+      "A) Aneuploidia de cromossomo inteiro.",
+      "B) CNV em tandem sempre sintomática.",
+      "C) Variação de um único nucleotídeo em locus definido.",
+      "D) Translocação balanceada entre dois cromossomos."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "SNP = variante pontual; base de estudos de associação e farmacogenômica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: número cromossômico.",
+      "B": "Incorreta: CNV ≠ SNP.",
+      "C": "Correta: definição.",
+      "D": "Incorreta: rearranjo estrutural."
+    },
+    "explicacao": "Resumo: SNP — variante pontual.\nA) INCORRETA. Incorreta: número cromossômico.\nB) INCORRETA. Incorreta: CNV ≠ SNP.\nC) CORRETA. Correta: definição.\nD) INCORRETA. Incorreta: rearranjo estrutural."
+  },
+  {
+    "id": 951,
+    "materia": "bcm1",
+    "tema": "bcm1_a3",
+    "enunciado": "Qual exemplo ilustra exceção ao dogma central clássico citada no material?",
+    "opcoes": [
+      "A) Replicação conservativa do DNA.",
+      "B) Tradução 5'→3' sem ribossomo.",
+      "C) Síntese de DNA a partir de RNA nuclear sem enzimas especializadas.",
+      "D) Retrovirídeos com transcriptase reversa (RNA → DNA)."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Retroviruses usam RT; príons e víroides são outras exceções.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: replicação é semiconservativa, parte do dogma.",
+      "B": "Incorreta: tradução requer ribossomo.",
+      "C": "Incorreta: RT é a enzima-chave.",
+      "D": "Correta: fluxo reverso RNA→DNA."
+    },
+    "explicacao": "Resumo: RT quebra linearidade DNA→RNA→proteína.\nA) INCORRETA. Incorreta: replicação é semiconservativa, parte do dogma.\nB) INCORRETA. Incorreta: tradução requer ribossomo.\nC) INCORRETA. Incorreta: RT é a enzima-chave.\nD) CORRETA. Correta: fluxo reverso RNA→DNA."
+  }
+]

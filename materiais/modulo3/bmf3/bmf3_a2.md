@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-O intestino delgado é o maior órgão de absorção do corpo e o intestino grosso é onde se completa a recuperação de água e eletrólitos. Anatomia precisa destes segmentos é obrigatória para entender doença de Crohn (íleo terminal), retocolite ulcerativa (reto/cólon), câncer colorretal (sigmoide/reto), apendicite (ceco) e hemorragias digestivas (distinção alta/baixa pelo ligamento de Treitz). A **Uninove** cobra as subdivisões do delgado, os marcos do grosso, a válvula ileocecal e a diferença de irrigação entre cólon direito e esquerdo.
+O intestino delgado é o maior órgão de absorção do corpo e o intestino grosso é onde se completa a recuperação de água e eletrólitos. Anatomia precisa destes segmentos é obrigatória para entender doença de Crohn (íleo terminal), retocolite ulcerativa (reto/cólon), câncer colorretal (sigmoide/reto), apendicite (ceco) e hemorragias digestivas (distinção alta/baixa pelo ligamento de Treitz). A Uninove cobra as subdivisões do delgado, os marcos do grosso, a válvula ileocecal e a diferença de irrigação entre cólon direito e esquerdo.
 
 ### Figura sugerida
 
@@ -142,24 +142,26 @@ A fronteira da irrigação do cólon é na **flexura esplênica** (ponto de Grif
 
 ## Ponte com a Clínica
 
-Paciente de 23 anos chega com dor em FID há 12 horas, febre 38,2°C e leucocitose. Dor ao soltar a mão no ponto de McBurney — sinal de descompressão positivo. Apendicite aguda. O cirurgião incide na FID, localiza o ceco e segue as tênias cólicas até a base do apêndice — é assim que se acha o apêndice cirurgicamente quando a inflamação deforma a anatomia. Se o apêndice fosse retrocecal e não encontrado rapidamente, a laparoscopia seria essencial. Outro cenário: paciente em choque hemorrágico, melena escura e cólicas abdominais. Colonoscopia mostra sangramento no ângulo hepático — território da AMS. Uma **embolia** para a AMS em idoso com fibrilação atrial pode causar **infarto** de todo o intestino delgado e metade do grosso.
+Paciente de 23 anos chega com dor em FID há 12 horas, febre 38,2°C e leucocitose. Dor ao soltar a mão no ponto de McBurney — sinal de descompressão positivo. Apendicite aguda. O cirurgião incide na FID, localiza o ceco e segue as tênias cólicas até a base do apêndice — é assim que se acha o apêndice cirurgicamente quando a inflamação deforma a anatomia. Se o apêndice fosse retrocecal e não encontrado rapidamente, a laparoscopia seria essencial. Outro cenário: paciente em choque hemorrágico, melena escura e cólicas abdominais. Colonoscopia mostra sangramento no ângulo hepático — território da AMS. Uma embolia para a AMS em idoso com fibrilação atrial pode causar infarto de todo o intestino delgado e metade do grosso.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Ligamento de Treitz: junção duodenojejunal; HDA = acima; HDB = abaixo. Papila duodenal maior: 2ª porção do duodeno → desembocadura do colédoco + ducto pancreático. Bulbo duodenal: 1ª porção, intraperitoneal — sítio da úlcera duodenal.
-
-Válvula ileocecal: impede refluxo do ceco para o íleo; íleo desemboca no ceco aqui. Tênias cólicas: convergem para a base do apêndice — guia cirúrgico. Flexura esplênica: fronteira AMS/AMI — zona de isquemia (ponto de Griffiths).
-
-AMS: íleo terminal→cólon ascendente→transverso proximal (até flexura esplênica). AMI: transverso distal→descendente→sigmoide→reto superior. Hemorroida interna: acima da linha pectínea, drenagem portal, indolor.
-
-Hemorroida externa: abaixo, drenagem sistêmica (ilíaca interna→cava), dolorosa. Apêndice: posição mais comum = retrocecal (~65%); ponto de McBurney = 1/3 lateral da linha espinhoumbilical. Metástases do câncer colorretal: vão ao fígado porque a drenagem venosa de todo o cólon é portal.
+- **Ligamento de Treitz:** junção duodenojejunal; HDA = acima; HDB = abaixo
+- **Papila duodenal maior:** 2ª porção do duodeno → desembocadura do colédoco + ducto pancreático
+- **Bulbo duodenal:** 1ª porção, intraperitoneal — sítio da úlcera duodenal
+- **Válvula ileocecal:** impede refluxo do ceco para o íleo; íleo desemboca no ceco aqui
+- **Tênias cólicas:** convergem para a base do apêndice — guia cirúrgico
+- **Flexura esplênica:** fronteira AMS/AMI — zona de isquemia (ponto de Griffiths)
+- **AMS:** íleo terminal→cólon ascendente→transverso proximal (até flexura esplênica)
+- **AMI:** transverso distal→descendente→sigmoide→reto superior
+- **Hemorroida interna:** acima da linha pectínea, drenagem portal, indolor
+- **Hemorroida externa:** abaixo, drenagem sistêmica (ilíaca interna→cava), dolorosa
+- **Apêndice:** posição mais comum = retrocecal (~65%); ponto de McBurney = 1/3 lateral da linha espinhoumbilical
+- **Metástases do câncer colorretal:** vão ao fígado porque a drenagem venosa de todo o cólon é portal
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -172,5 +174,4 @@ Hemorroida externa: abaixo, drenagem sistêmica (ilíaca interna→cava), doloro
 | Flexura hepática | Flexura esplênica | Hepática: direita, mais baixa, mais móvel; Esplênica: esquerda, mais alta, mais fixa |
 
 ### Frase-âncora para não esquecer
-
 > "Treitz divide HDA de HDB. AMS vai até a Esplênica. AMI vai do Esquerdo ao Reto. Tênias levam ao Apêndice. Hemorroida Interna = portal = Indolor; Externa = Embaixo = dói."

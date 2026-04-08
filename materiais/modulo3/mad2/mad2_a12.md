@@ -9,7 +9,7 @@
 
 Arboviroses são tema obrigatório porque mostram como infectologia, imunologia, epidemiologia e clínica ambulatorial se misturam em problemas extremamente prevalentes no Brasil. Dengue, Zika e Chikungunya aparecem juntas porque costumam circular no mesmo território, compartilhar vetor e gerar confusão diagnóstica inicial, mas não são a mesma doença. O que a prova quer saber não é se você decorou febre e exantema. Ela quer saber se você consegue diferenciar padrão clínico, complicação central e impacto em saúde pública.
 
-Na vida real, esse assunto é importante porque o primeiro atendimento costuma ocorrer antes de qualquer confirmação laboratorial sofisticada. O médico precisa raciocinar com clínica, contexto epidemiológico e sinais de alarme. Na **Uninove**, a cobrança costuma seguir exatamente essa linha: reconhecer a síndrome provável, distinguir o que aponta para dengue, Zika ou Chikungunya, e entender quando a gravidade deixa de ser apenas sintomática e passa a exigir vigilância maior.
+Na vida real, esse assunto é importante porque o primeiro atendimento costuma ocorrer antes de qualquer confirmação laboratorial sofisticada. O médico precisa raciocinar com clínica, contexto epidemiológico e sinais de alarme. Na Uninove, a cobrança costuma seguir exatamente essa linha: reconhecer a síndrome provável, distinguir o que aponta para dengue, Zika ou Chikungunya, e entender quando a gravidade deixa de ser apenas sintomática e passa a exigir vigilância maior.
 
 ### Figura sugerida
 
@@ -38,7 +38,7 @@ A melhor forma de pensar é lembrar que o início pode ser parecido, mas o peso 
 
 ## Dengue: a arbovirose em que gravidade é palavra obrigatória
 
-Dengue ocupa posição especial porque a prova quase sempre explora a transição entre quadro febril inicial e formas mais graves. O estudante precisa entender que o problema não é apenas a febre alta com dor no corpo. O que torna dengue decisiva é o risco de extravasamento plasmático, sangramento, **choque** e piora rápida em fase crítica.
+Dengue ocupa posição especial porque a prova quase sempre explora a transição entre quadro febril inicial e formas mais graves. O estudante precisa entender que o problema não é apenas a febre alta com dor no corpo. O que torna dengue decisiva é o risco de extravasamento plasmático, sangramento, choque e piora rápida em fase crítica.
 
 Isso significa que sinais de alarme têm muito mais valor do que o desconforto inespecífico do início. Dor abdominal intensa, vômitos persistentes, sangramento, letargia, hipotensão ou piora clínica após defervescência não podem ser lidos como detalhe. Em dengue, o momento em que a febre cai não é necessariamente o momento em que o paciente melhora. Essa inversão derruba muita gente em prova.
 
@@ -98,17 +98,19 @@ No atendimento real, arbovirose exige triagem inteligente. O profissional precis
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Mesmo vetor:** não significa mesma doença.
+- **Dengue:** pensa em gravidade e extravasamento.
+- **Queda da febre:** pode anteceder piora na dengue.
+- **Chikungunya:** pensa em artralgia intensa.
+- **Zika:** pensa em exantema e gestação.
+- **Contexto local:** pesa muito no diagnóstico.
+- **Sinal de alarme:** muda conduta na dengue.
+- **Dor persistente:** lembra Chikungunya.
 
-
-Mesmo vetor: não significa mesma doença. Dengue: pensa em gravidade e extravasamento. Queda da febre: pode anteceder piora na dengue.
-
-Chikungunya: pensa em artralgia intensa. Zika: pensa em exantema e gestação. Contexto local: pesa muito no diagnóstico.
-
-Sinal de alarme: muda conduta na dengue. Dor persistente: lembra Chikungunya.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -120,5 +122,4 @@ Sinal de alarme: muda conduta na dengue. Dor persistente: lembra Chikungunya.
 | Sintoma genérico | Sintoma dominante | Em arbovirose, o sintoma que lidera o quadro geralmente decide a hipótese |
 
 ### Frase-âncora para não esquecer
-
 > "Nas arboviroses, o mosquito aproxima os diagnósticos; a complicação central é que separa cada um."

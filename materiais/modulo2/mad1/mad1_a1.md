@@ -4,7 +4,7 @@
 
 O sistema imune é o principal responsável pela homeostase do organismo — ele distingue o "eu" do "não-eu", elimina agentes patogênicos e células neoplásicas, e mantém tolerância ao próprio tecido. Sem esse reconhecimento preciso, o resultado é infecção descontrolada, autoimunidade ou câncer. Entender sua organização é o pré-requisito de praticamente toda a disciplina de MAD.
 
-Na prática médica, a interpretação de qualquer exame inflamatório — hemograma, PCR, complemento, imunofenotipagem — depende de saber quais células fazem o quê. A **Uninove** cobra muito a hierarquia de ação: primeiro a **imunidade inata**, depois a adaptativa, com cooperação obrigatória entre elas.
+Na prática médica, a interpretação de qualquer exame inflamatório — hemograma, PCR, complemento, imunofenotipagem — depende de saber quais células fazem o quê. A Uninove cobra muito a hierarquia de ação: primeiro a imunidade inata, depois a adaptativa, com cooperação obrigatória entre elas.
 
 ### Figura sugerida
 
@@ -156,17 +156,17 @@ Convergem em **C3 → C3a + C3b**, resultando em:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Inata vs. Adaptativa:** inata = imediata + sem memória; adaptativa = 4–7 dias + memória
+- **Timo:** matura T; seleção positiva (aprende MHC) e negativa (elimina autorreativos)
+- **Medula óssea:** matura B e NK
+- **IgM:** pentâmero, 1ª resposta, ativa complemento; **IgG:** mais abundante, atravessa placenta
+- **Complemento:** C3 é o pivô; C3b opsoniza; C3a/C5a recrutam neutrófilos; MAC (C5b-9) lisa
+- **Esplenectomia:** risco de sepse por encapsulados → vacinar
 
-
-Inata vs. Adaptativa: inata = imediata + sem memória; adaptativa = 4–7 dias + memória. Timo: matura T; seleção positiva (aprende MHC) e negativa (elimina autorreativos).
-
-Medula óssea: matura B e NK. IgM: pentâmero, 1ª resposta, ativa complemento; IgG: mais abundante, atravessa placenta.
-
-Complemento: C3 é o pivô; C3b opsoniza; C3a/C5a recrutam neutrófilos; MAC (C5b-9) lisa. Esplenectomia: risco de sepse por encapsulados → vacinar.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -179,13 +179,4 @@ Complemento: C3 é o pivô; C3b opsoniza; C3a/C5a recrutam neutrófilos; MAC (C5
 | Complemento via clássica | Complemento via alternativa | Clássica = precisa de anticorpo; Alternativa = direto na superfície bacteriana, sem anticorpo |
 
 ### Frase-âncora para não esquecer
-
 > "O imunológico é como um exército: infantaria rápida (inata) segura a frente enquanto os especialistas (adaptativa) preparam o ataque certeiro com memória de batalha."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

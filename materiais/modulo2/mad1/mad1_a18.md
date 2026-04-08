@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-As hepatites virais são infecções hepáticas causadas por vírus hepatotrópicos distintos, com vias de transmissão, curso clínico e consequências muito diferentes. Hepatite B é a principal causa mundial de cirrose e carcinoma hepatocelular viral, enquanto hepatite C é altamente curável com antivirais de ação direta. A **Uninove** cobra especialmente os marcadores sorológicos do HBV (HBsAg, anti-HBc, anti-HBs) e as vias de transmissão/prevenção de cada vírus.
+As hepatites virais são infecções hepáticas causadas por vírus hepatotrópicos distintos, com vias de transmissão, curso clínico e consequências muito diferentes. Hepatite B é a principal causa mundial de cirrose e carcinoma hepatocelular viral, enquanto hepatite C é altamente curável com antivirais de ação direta. A Uninove cobra especialmente os marcadores sorológicos do HBV (HBsAg, anti-HBc, anti-HBs) e as vias de transmissão/prevenção de cada vírus.
 
 ### Figura sugerida
 
@@ -180,17 +180,17 @@ As hepatites virais são infecções hepáticas causadas por vírus hepatotrópi
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **HBsAg+:** ativo (infectado); se > 6 meses = crônico
+- **Anti-HBs+:** imunidade (cura ou vacina); se anti-HBc− = SÓ VACINADO
+- **Anti-HBc IgM+:** infecção aguda ou janela
+- **HBeAg+:** alta replicação = alta transmissibilidade
+- **HCV:** 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade
+- **HDV:** só com HBV; vacina HBV protege contra HDV
 
-
-HBsAg+: ativo (infectado); se > 6 meses = crônico. Anti-HBs+: imunidade (cura ou vacina); se anti-HBc− = SÓ VACINADO.
-
-Anti-HBc IgM+: infecção aguda ou janela. HBeAg+: alta replicação = alta transmissibilidade.
-
-HCV: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade. HDV: só com HBV; vacina HBV protege contra HDV.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -203,13 +203,4 @@ HCV: 80% cronifica; DAA curam > 95%; anti-HCV é triagem; PCR confirma atividade
 | Anti-HCV positivo | HCV-RNA positivo | Anti-HCV = contato (não cura); HCV-RNA = vírus circulante (doença ativa) |
 
 ### Frase-âncora para não esquecer
-
 > "No HBV, leia na ordem: HBsAg (tem vírus?) → anti-HBs (está protegido?) → anti-HBc IgM (é agudo?). Na hepatite C, anti-HCV é o sinal de alerta, mas só o PCR confirma a infecção ativa — e hoje > 95% tem cura com os novos antivirais."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

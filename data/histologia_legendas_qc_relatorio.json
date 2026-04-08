@@ -1,0 +1,100 @@
+{
+  "geradoEm": "2026-04-07T17:02:25.594758+00:00",
+  "porCategoria": {
+    "1_citologia": {
+      "total": 8,
+      "fallbackSemMatch": 0,
+      "comRecorte": 1
+    },
+    "2_epitelio": {
+      "total": 17,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "3_conjuntivo": {
+      "total": 26,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "4_cartilagem": {
+      "total": 8,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "5_osso": {
+      "total": 12,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "6_musculo": {
+      "total": 8,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "7_nervoso": {
+      "total": 15,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "8_vascular": {
+      "total": 18,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "9_linfatico": {
+      "total": 11,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "10_digestorio": {
+      "total": 56,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "11_pele": {
+      "total": 8,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "12_respiratorio": {
+      "total": 12,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "13_urinario": {
+      "total": 13,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "14_endocrinas": {
+      "total": 13,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "15_sentido": {
+      "total": 1,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "16_masculino": {
+      "total": 18,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "17_feminino": {
+      "total": 28,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    },
+    "18_embrionario": {
+      "total": 4,
+      "fallbackSemMatch": 0,
+      "comRecorte": 0
+    }
+  },
+  "totalFallback": 0,
+  "auditoriaLegendasPorEstado": {
+    "pendente": 276
+  },
+  "laminasComRecorte": 1
+}

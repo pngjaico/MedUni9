@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1422,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Na imunidade inata, qual leucócito é descrito como o primeiro a se acumular intensamente no sítio de uma infecção bacteriana aguda, em poucas horas?",
+    "opcoes": [
+      "A) Neutrófilo",
+      "B) Linfócito B naive circulante",
+      "C) Eosinófilo",
+      "D) Plasmócito de memória"
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "O neutrófilo lidera o infiltrado inicial na maioria das infecções bacterianas agudas.",
+    "explicacoes_opcoes": {
+      "A": "Correta: conforme o material (primeira célula a chegar; fagocitose inicial).",
+      "B": "Incorreta: linfócito B não lidera a primeira onda celular em horas.",
+      "C": "Incorreta: eosinófilos predominam em contextos de parasitas/alergia.",
+      "D": "Incorreta: plasmócito aparece após ativação adaptativa, não na primeira onda."
+    },
+    "explicacao": "Resumo: Neutrófilos são a primeira linha celular no foco infeccioso agudo.\nA) CORRETA. Primeira onda e fagocitose.\nB) INCORRETA. Papel adaptativo tardio em relação ao infiltrado inicial.\nC) INCORRETA. Perfil típico distinto da infecção bacteriana aguda.\nD) INCORRETA. Célula de anticorpos, não de chegada precoce."
+  },
+  {
+    "id": 1423,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Paciente com sepse por bacilo Gram-negativo. O LPS da parede externa ativa macrófagos e induz grande liberação de citocinas pró-inflamatórias. Qual receptor de membrana costuma ser citado como principal sensor do LPS?",
+    "opcoes": [
+      "A) TLR2 (ácido lipoteicóico de Gram-positiva)",
+      "B) TLR4 (LPS de Gram-negativa)",
+      "C) TLR9 (DNA CpG no endossomo)",
+      "D) RIG-I (RNA viral no citoplasma)"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TLR4 reconhece LPS; o material associa TLR4 + LPS a grande produção de TNF-α e IL-6.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: TLR2 liga-se a padrões de Gram-positiva, não ao LPS central.",
+      "B": "Correta: alinhamento com a tabela de PRRs do material.",
+      "C": "Incorreta: TLR9 reconhece DNA CpG, não LPS de membrana.",
+      "D": "Incorreta: RIG-I é para RNA viral no citoplasma."
+    },
+    "explicacao": "Resumo: LPS → TLR4 → tempestade de citocinas na sepse por Gram-negativa.\nA) INCORRETA. Ligante típico diferente.\nB) CORRETA. Receptor clássico do LPS.\nC) INCORRETA. Eixo nucleotídico endossomal.\nD) INCORRETA. Sensor de vírus, não de LPS bacteriano."
+  },
+  {
+    "id": 1424,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Qual célula é descrita como APC profissional por excelência, captando antígeno no tecido, migrando ao linfonodo e ativando linfócitos T naive?",
+    "opcoes": [
+      "A) Neutrófilo segmentado",
+      "B) Mastócito tecidual",
+      "C) Célula dendrítica",
+      "D) Basófilo circulante"
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "A célula dendrítica faz a ponte obrigatória entre inata e adaptativa.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: neutrófilo fagocita, mas não é a APC profissional central para ativação primária de T naive.",
+      "B": "Incorreta: mastócito participa de IgE e degranulação, não desse papel de APC profissional.",
+      "C": "Correta: descrição do material sobre migração e ativação de T naive.",
+      "D": "Incorreta: basófilo não desempenha esse papel de ponte inata–adaptativa."
+    },
+    "explicacao": "Resumo: DC = APC profissional que liga inata à adaptativa.\nA) INCORRETA. Efetor da resposta aguda.\nB) INCORRETA. Hipersensibilidade tipo I.\nC) CORRETA. Captura, migra e apresenta antígeno.\nD) INCORRETA. Papel distinto na resposta imune."
+  },
+  {
+    "id": 1425,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Homem com lesão tumoral na qual parte das células reduz expressão de MHC-I como mecanismo de evasão. Qual célula da imunidade inata reconhece preferencialmente células com perda de MHC-I (\"missing self\")?",
+    "opcoes": [
+      "A) Macrófago alveolar por fagocitose dependente apenas de IgG",
+      "B) Linfócito T CD8+ por TCR específico",
+      "C) Eosinófilo por parasitos",
+      "D) Célula NK"
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "NK elimina células com MHC-I baixo/ausente; o material descreve o princípio \"missing self\".",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: macrófago não é definido por esse reconhecimento de MHC-I ausente.",
+      "B": "Incorreta: CD8+ reconhece MHC-I apresentando peptídeo; NK não depende desse mesmo tipo de ativação específica.",
+      "C": "Incorreta: eosinófilo para parasitos/alergia, não vigilância por MHC-I.",
+      "D": "Correta: NK mata células sem MHC-I conforme o texto."
+    },
+    "explicacao": "Resumo: NK vigia células que escondem MHC-I.\nA) INCORRETA. Mecanismo distinto.\nB) INCORRETA. Linfócito adaptativo com outra lógica de reconhecimento.\nC) INCORRETA. Perfil infeccioso diferente.\nD) CORRETA. \"Missing self\"."
+  },
+  {
+    "id": 1426,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Mulher de 28 anos com sepse por Klebsiella pneumoniae, hipotensão e PCR 280 mg/L. Qual citocina derivada de macrófago é destacada no material como central na inflamação sistêmica e no choque séptico quando em excesso?",
+    "opcoes": [
+      "A) TNF-α",
+      "B) IL-4",
+      "C) IL-10",
+      "D) IL-13"
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "TNF-α de macrófago medeia inflamação intensa; em excesso contribui para choque séptico.",
+    "explicacoes_opcoes": {
+      "A": "Correta: conforme o caso clínico e a tabela de citocinas.",
+      "B": "Incorreta: IL-4 é citocina Th2/alérgica, não o eixo principal descrito na sepse.",
+      "C": "Incorreta: IL-10 é anti-inflamatória no material.",
+      "D": "Incorreta: IL-13 associa-se a fibrose/Th2, não ao núcleo do choque séptico descrito."
+    },
+    "explicacao": "Resumo: Macrófago → TNF-α → vasodilatação e disfunção sistêmica na sepse.\nA) CORRETA. Citocina-chave do excesso inflamatório.\nB) INCORRETA. Eixo Th2.\nC) INCORRETA. Reguladora.\nD) INCORRETA. Não é o mediador central citado."
+  },
+  {
+    "id": 1427,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Criança com infecções bacterianas recorrentes por múltiplos patógenos encapsulados distintos. Qual deficiência do complemento melhor explica susceptibilidade ampla a bactérias encapsuladas?",
+    "opcoes": [
+      "A) Deficiência isolada do fator H da via alternativa",
+      "B) Deficiência de C3",
+      "C) Deficiência do complexo de ataque à membrana (C5–C9)",
+      "D) Deficiência apenas de C1q"
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "C3 é o pivô das três vias; sua deficiência predispõe a infecções por muitas bactérias.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o padrão clássico citado para amplo espectro bacteriano.",
+      "B": "Correta: o material contrasta deficiência de C3 (todas as bactérias) com terminal (Neisseria).",
+      "C": "Incorreta: C5–C9 predispõe especialmente a Neisseria, não amplo espectro.",
+      "D": "Incorreta: C1q associa-se mais a lúpus/autoimunidade na tabela, não a esse padrão infeccioso."
+    },
+    "explicacao": "Resumo: Sem C3, falha opsonização e cascata para muitos germes.\nA) INCORRETA. Foco não é esse.\nB) CORRETA. Pivô central do complemento.\nC) INCORRETA. Perfil mais restrito a Neisseria.\nD) INCORRETA. Via clássica inicial, não o padrão encapsulado amplo."
+  },
+  {
+    "id": 1428,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Como primeira barreira física, a epiderme com queratinização e pH ácido contribui principalmente para:",
+    "opcoes": [
+      "A) Apresentação de antígeno exógeno via MHC II",
+      "B) Produção de IgG T-dependente",
+      "C) Barreira mecânica e redução da penetração microbiana",
+      "D) Ativação de linfócitos T CD8+ naive"
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "A pele atua como barreira físico-química antes da resposta imune específica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: MHC II é de APCs, não função primária da queratina.",
+      "B": "Incorreta: anticorpos são adaptativos; a barreira é pré-imune.",
+      "C": "Correta: queratina impermeável e ambiente ácido limitam entrada.",
+      "D": "Incorreta: ativação de T não é o papel da barreira epidérmica."
+    },
+    "explicacao": "Resumo: Barreiras físicas bloqueiam entrada de patógenos.\nA) INCORRETA. Função de APC.\nB) INCORRETA. Resposta humoral adaptativa.\nC) CORRETA. Barreira físico-química.\nD) INCORRETA. Imunidade adaptativa celular."
+  },
+  {
+    "id": 1429,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "A PCR é produzida pelo fígado na fase aguda e é usada clinicamente como marcador inflamatório. Qual função imune adicional lhe é atribuída no material?",
+    "opcoes": [
+      "A) Bloquear síntese de interferon tipo I",
+      "B) Inibir apenas eosinófilos",
+      "C) Ser exclusivamente um índice laboratorial sem papel no reconhecimento de patógenos",
+      "D) Atuar como opsonina"
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PCR é proteína de fase aguda induzida por IL-6 e também funciona como opsonina.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é o papel descrito.",
+      "B": "Incorreta: não há essa especificidade eosinofílica.",
+      "C": "Incorreta: o material atribui função opsonizante além do marcador.",
+      "D": "Correta: opsonina e marcador inflamatório."
+    },
+    "explicacao": "Resumo: PCR participa da resposta de fase aguda e opsonização.\nA) INCORRETA. Sem relação descrita.\nB) INCORRETA. Mecanismo incorreto.\nC) INCORRETA. Há função opsonizante.\nD) CORRETA. Papel citado no texto."
+  },
+  {
+    "id": 1430,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Paciente com urticária aguda pós-exposição alimentar. Na hipersensibilidade imediata, a degranulação mastocitária libera, em minutos, mediador que aumenta permeabilidade vascular e prurido. Qual mediador é o mais característico dessa fase?",
+    "opcoes": [
+      "A) Histamina",
+      "B) IL-17",
+      "C) IFN-γ",
+      "D) TGF-β"
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Mastócito + IgE liberam histamina, mediador central da fase imediata.",
+    "explicacoes_opcoes": {
+      "A": "Correta: histamina causa vasodilatação, permeabilidade e prurido.",
+      "B": "Incorreta: IL-17 é eixo Th17, não a fase imediata mastocitária.",
+      "C": "Incorreta: IFN-γ ativa macrófagos/Th1, perfil distinto.",
+      "D": "Incorreta: TGF-β regula fibrose/tolerância, não a degranulação imediata."
+    },
+    "explicacao": "Resumo: Histamina é o mediador clássico da fase imediata tipo I.\nA) CORRETA. Degranulação mastocitária.\nB) INCORRETA. Citocina adaptativa diferente.\nC) INCORRETA. Não é o mediador imediato descrito.\nD) INCORRETA. Citoquina reguladora, não histamina."
+  },
+  {
+    "id": 1431,
+    "materia": "mad1",
+    "tema": "mad1_a2",
+    "enunciado": "Lágrimas e saliva contêm enzima antimicrobiana que cliva peptidoglicana da parede bacteriana. Trata-se de:",
+    "opcoes": [
+      "A) Elastase neutrofílica",
+      "B) Lisozima",
+      "C) Colagenase tecidual",
+      "D) Proteinase 3"
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Lisozima nas secreções cliva peptidoglicana; consta da tabela de barreiras químicas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: elastase não é o enzima citada para lágrima/saliva no material.",
+      "B": "Correta: descrição exata do mecanismo.",
+      "C": "Incorreta: não é o alvo da questão.",
+      "D": "Incorreta: PR3 é marcador de vasculite, não o enzima das lágrimas."
+    },
+    "explicacao": "Resumo: Lisozima = barreira química em secreções.\nA) INCORRETA. Outro contexto enzimático.\nB) CORRETA. Clivagem de peptidoglicana.\nC) INCORRETA. Enzima irrelevante aqui.\nD) INCORRETA. Contexto clínico distinto."
+  }
+]

@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **HIV** (Human Immunodeficiency Virus) é um dos maiores desafios da medicina moderna. Desde sua identificação nos anos 1980, transformou-se de sentença de morte em doença crônica tratável graças à terapia antirretroviral de alta eficácia (TARV). Entender seu ciclo replicativo é fundamental para compreender como cada classe de antirretroviral age e por que surgem resistências.
+O HIV (Human Immunodeficiency Virus) é um dos maiores desafios da medicina moderna. Desde sua identificação nos anos 1980, transformou-se de sentença de morte em doença crônica tratável graças à terapia antirretroviral de alta eficácia (TARV). Entender seu ciclo replicativo é fundamental para compreender como cada classe de antirretroviral age e por que surgem resistências.
 
-A **Uninove** cobra principalmente o ciclo viral, as classes de TARV, os critérios de **AIDS** (CD4 < 200 ou doença definidora), a profilaxia pré e pós-exposição e as infecções oportunistas mais comuns.
+A Uninove cobra principalmente o ciclo viral, as classes de TARV, os critérios de AIDS (CD4 < 200 ou doença definidora), a profilaxia pré e pós-exposição e as infecções oportunistas mais comuns.
 
 ### Figura sugerida
 
@@ -181,17 +181,17 @@ A **Uninove** cobra principalmente o ciclo viral, as classes de TARV, os critér
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Ciclo HIV:** gp120+CD4+co-receptor → fusão (gp41) → RT → integrase → protease
+- **AIDS:** CD4 < 200 OU doença definidora
+- **PCP (pneumocistose):** profilaxia SMZ-TMP se CD4 < 200
+- **Toxoplasmose cerebral:** CD4 < 100; lesões múltiplas com halo; pirimetamina + sulfadiazina
+- **PEP:** < 72 h, 28 dias; **PrEP:** diário, > 99% eficaz
+- **I=I:** indetectável = intransmissível
 
-
-Ciclo HIV: gp120+CD4+co-receptor → fusão (gp41) → RT → integrase → protease. AIDS: CD4 < 200 OU doença definidora.
-
-PCP (pneumocistose): profilaxia SMZ-TMP se CD4 < 200. Toxoplasmose cerebral: CD4 < 100; lesões múltiplas com halo; pirimetamina + sulfadiazina.
-
-PEP: < 72 h, 28 dias; PrEP: diário, > 99% eficaz. I=I: indetectável = intransmissível.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -204,13 +204,4 @@ PEP: < 72 h, 28 dias; PrEP: diário, > 99% eficaz. I=I: indetectável = intransm
 | HIV-1 | HIV-2 | HIV-1 = pandemia global; HIV-2 = África ocidental, menos virulento, TARV diferente |
 
 ### Frase-âncora para não esquecer
-
 > "HIV tem 4 enzimas para atacar: Transcriptase reversa (copia), Integrase (gruda), Protease (matura), Fusão (entra). TARV bloqueia pelo menos 3 delas — por isso funciona tão bem quando tomada corretamente."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -1,0 +1,462 @@
+[
+  {
+    "id": 2332,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Mulher de 22 anos refere dismenorreia desde a menarca, com ciclos regulares e sem antecedente de cirurgias pélvicas. Qual perfil temporal é mais compatível com dismenorreia primária?",
+    "opcoes": [
+      "A) Dor pélvica que iniciou apenas após infecção sexual tratada.",
+      "B) Irregularidade menstrual intensa que começou na perimenopausa.",
+      "C) Dor menstrual presente desde o início da vida reprodutiva, habitualmente sem lesão anatômica estrutural inicial.",
+      "D) Padrão em que a dor surge anos após ciclos indolores, sugerindo primeiro causas funcionais hormonais simples."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A dismenorreia primária costuma existir desde os primeiros ciclos, enquanto a secundária aparece após um período de menstruações sem dor ou com outra alteração anatômica.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: esse tempo de início sugere relação com evento infeccioso, não o padrão clássico de primária desde a menarca.",
+      "B": "Incorreta: irregularidade marcada na perimenopausa não define o critério temporal da dismenorreia primária.",
+      "C": "Correta: alinha-se ao material: dor desde o início, em geral associada a disfunção prostaglandínica, sem causa anatômica aparente no início.",
+      "D": "Incorreta: início tardio da dor após anos indolores caracteriza dismenorreia secundária, não primária."
+    },
+    "explicacao": "Resumo: A primária é a que “sempre doeu”; a secundária “passou a doer depois”.\nA) INCORRETA. Não é o padrão temporal típico da primária.\nB) INCORRETA. Contexto de perimenopausa não é o critério definidor da primária.\nC) CORRETA. Concorda com a definição operacional da aula.\nD) INCORRETA. Descreve evolução compatível com secundária."
+  },
+  {
+    "id": 2333,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Mulher de 28 anos apresenta corrimento vaginal acinzentado, odor desagradável descrito como “de peixe”, com pouca ou nenhuma coceira. Qual hipótese diagnóstica semiológica é a mais provável?",
+    "opcoes": [
+      "A) Corrimento fisiológico do período ovulatório.",
+      "B) Vaginose bacteriana.",
+      "C) Candidíase vulvovaginal intensa.",
+      "D) Apenas hiperplasia endometrial, sem envolvimento vaginal."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O odor acentuado tipo “peixe” com corrimento acinzentado e pouca coceira é o padrão clássico de vaginose bacteriana na tabela da aula.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: corrimento fisiológico é claro, pouco e sem odor forte.",
+      "B": "Correta: combina acinzentado, odor “peixe” e coceira leve ou ausente.",
+      "C": "Incorreta: candidíase costuma cursar com corrimento branco grumoso e prurido intenso.",
+      "D": "Incorreta: hiperplasia endometrial não explica o quadro vaginal descrito isoladamente."
+    },
+    "explicacao": "Resumo: Cor diferencia e o odor é chave entre BV e candidíase.\nA) INCORRETA. Não há odor forte típico no corrimento fisiológico.\nB) CORRETA. Perfil compatível com BV.\nC) INCORRETA. O prurido intenso predomina na candidíase, não na BV.\nD) INCORRETA. Diagnóstico extrapola o quadro local."
+  },
+  {
+    "id": 2334,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Mulher de 35 anos refere que menstruava sem dor relevante até cerca dos 30 anos e que, nos últimos anos, a dismenorreia piorou progressivamente. Qual orientação diagnóstica melhor reflete a dismenorreia secundária?",
+    "opcoes": [
+      "A) Deve-se considerar causas anatômicas como endometriose ou leiomioma até prova contrária.",
+      "B) Trata-se, por definição, de dismenorreia primária por disfunção prostaglandínica isolada.",
+      "C) O padrão é típico de adolescência e tende a resolução espontânea sem investigação.",
+      "D) A queixa isola-se do útero e descarta alterações em anexos ou ligamentos."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A secundária começa depois de período prévio sem dor ou piora progressiva, sugerindo patologia pélvica estrutural.",
+    "explicacoes_opcoes": {
+      "A": "Correta: endometriose e mioma entram no diagnóstico diferencial conforme a aula.",
+      "B": "Incorreta: primária costuma existir desde o início, não surge após anos assintomáticos.",
+      "C": "Incorreta: piora progressiva na idade adulta exige investigação, não expectativa.",
+      "D": "Incorreta: a avaliação não se restringe ao útero em quadros de dor pélvica progressiva."
+    },
+    "explicacao": "Resumo: “Começou a doer depois” aponta para secundária.\nA) CORRETA. Integra o raciocínio da aula.\nB) INCORRETA. Confunde primária com secundária.\nC) INCORRETA. Ignora gravidade progressiva.\nD) INCORRETA. Limitação anatômica falsa."
+  },
+  {
+    "id": 2335,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Mulher de 48 anos apresenta nódulo mamário palpável e secreção papilar unilateral persistente. Qual atitude é mais coerente com o alerta semiológico descrito no material?",
+    "opcoes": [
+      "A) Atribuir a mastalgia cíclica benigna e encerrar o rastreamento.",
+      "B) Iniciar antifúngico oral pelo corrimento associado, sem avaliar a mama.",
+      "C) Explicar apenas como perimenopausa, sem exames complementares.",
+      "D) Encaminhar investigação adequada (imagem/bioquímica conforme protocolo) porque nódulo com secreção exige avaliação."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A aula enfatiza que secreção unilateral com massa é sinal de alerta, não rotina benigna.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: mastalgia cíclica não explica nódulo com secreção unilateral.",
+      "B": "Incorreta: corrimento vaginal não substitui investigação mamária.",
+      "C": "Incorreta: perimenopausa não explica isoladamente o achado focal com secreção.",
+      "D": "Correta: alinha-se à “pegadinha” da aula: nódulo + secreção exige investigação."
+    },
+    "explicacao": "Resumo: achado focal + secreção unilateral ≠ benignidade imediata.\nA) INCORRETA. Subestima o achado.\nB) INCORRETA. Conduta inadequada ao foco mamário.\nC) INCORRETA. Atribuição insuficiente.\nD) CORRETA. Conduta prudente e alinhada ao texto."
+  },
+  {
+    "id": 2336,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Em uma mulher com ciclos eutróficos, qual intervalo intermenstrual aproximado é considerado usual no material?",
+    "opcoes": [
+      "A) 25 a 35 dias.",
+      "B) 15 a 20 dias.",
+      "C) 40 a 50 dias.",
+      "D) 7 a 10 dias."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O ciclo normal é descrito como intervalo de aproximadamente 25–35 dias.",
+    "explicacoes_opcoes": {
+      "A": "Correta: repete o intervalo citado na aula.",
+      "B": "Incorreta: valor abaixo do padrão usual descrito.",
+      "C": "Incorreta: intervalo longo demais para o “ciclo normal” do texto.",
+      "D": "Incorreta: confunde duração do fluxo com intervalo entre menstruações."
+    },
+    "explicacao": "Resumo: memorizar faixa de regularidade do ciclo.\nA) CORRETA. Número do material.\nB) INCORRETA. Subestima o intervalo.\nC) INCORRETA. Superestima o intervalo habitual.\nD) INCORRETA. Categoria errada de medida."
+  },
+  {
+    "id": 2337,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Adolescente de 15 anos, menarquia há 2 anos, ciclos ainda irregulares, sem outras queixas ou sinais de alarme. Segundo o contexto epidemiológico da aula, qual assertiva é mais adequada?",
+    "opcoes": [
+      "A) Irregularidade nesse período exige sempre curetagem diagnóstica.",
+      "B) Deve-se presumir menopausa precoce até prova contrária.",
+      "C) Irregularidade pode ser fisiológica até cerca de três anos após a menarquia.",
+      "D) O achado indica pielonefrite comprovada apenas pela anamnese."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "Na adolescência, o texto admite irregularidade inicial sem drama, até cerca de três anos após a menarquia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: conduta invasiva sem indicação clínica.",
+      "B": "Incorreta: faixa etária e tempo de menarquia não sustentam menopausa.",
+      "C": "Correta: reproduz o limite temporal do material.",
+      "D": "Incorreta: ausência de dados renais ou infecciosos."
+    },
+    "explicacao": "Resumo: adolescente ≠ automaticamente patologia ginecológica grave.\nA) INCORRETA. Exagero diagnóstico.\nB) INCORRETA. Incompatível com idade.\nC) CORRETA. Consistente com a aula.\nD) INCORRETA. Diagnóstico renal infundado."
+  },
+  {
+    "id": 2338,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Como o corrimento vaginal fisiológico costuma ser descrito na anamnese?",
+    "opcoes": [
+      "A) Acinzentado, com odor forte tipo “peixe”.",
+      "B) Verde-amarelado, fétido e abundante.",
+      "C) Claro, em pequena quantidade e sem odor significativo.",
+      "D) Branco grumoso, com prurido intenso e ardor."
+    ],
+    "correta": 2,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O fisiológico é claro, pouco e sem odor, distinguindo-se de infecções.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: padrão típico de vaginose bacteriana, não fisiológico.",
+      "B": "Incorreta: sugere infecção, não corrimento fisiológico.",
+      "C": "Correta: coincide com o texto da aula.",
+      "D": "Incorreta: descreve candidíase, não fisiologia."
+    },
+    "explicacao": "Resumo: fisiológico = discreto e sem odor.\nA) INCORRETA. Patológico.\nB) INCORRETA. Patológico.\nC) CORRETA. Definição do material.\nD) INCORRETA. Quadro infeccioso fúngico."
+  },
+  {
+    "id": 2339,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Corrimento branco grumoso (“leite coalhado”), prurido vulvar intenso e ardor à micção, sem odor típico de “peixe”. Qual diagnóstico semiológico é o mais compatível?",
+    "opcoes": [
+      "A) Vaginose bacteriana isolada.",
+      "B) Corrimento fisiológico ovulatório.",
+      "C) Tricomoníase com odor fétido como único dado.",
+      "D) Candidíase vulvovaginal."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A tríade corrimento grumoso + prurido intenso + ardor é compatível com candidíase na aula.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: BV predomina odor e acinzentado, não prurido extremo.",
+      "B": "Incorreta: fisiológico não gera grumos e prurido intenso.",
+      "C": "Incorreta: tricomoníase costuma trazer odor e corrimento diferente do descrito.",
+      "D": "Correta: corresponde ao exemplo da aula (incluindo teste com KOH no contexto clínico)."
+    },
+    "explicacao": "Resumo: candidíase = grumoso + coceira forte.\nA) INCORRETA. Perfil de BV.\nB) INCORRETA. Incompatível com intensidade dos sintomas.\nC) INCORRETA. Quadro não típico de tricomoníase isolada.\nD) CORRETA. Melhor ajuste clínico."
+  },
+  {
+    "id": 2340,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Na anamnese contraceptiva, perguntas sobre método usado, tempo de uso, esquecimento de doses e parcerias são especialmente úteis para:",
+    "opcoes": [
+      "A) Estimar adesão e risco de gravidez não planejada, além de orientar proteção contra IST.",
+      "B) Substituir o exame especular em qualquer queixa de corrimento.",
+      "C) Diagnosticar endometriose profunda sem exame físico.",
+      "D) Definir cirurgia de mioma com base exclusiva na entrevista."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A aula destaca que contracepção e atividade sexual guiam investigação e risco reprodutivo/infeccioso.",
+    "explicacoes_opcoes": {
+      "A": "Correta: reflete efetividade subjetiva, planejamento e IST.",
+      "B": "Incorreta: anamnese não dispensa exame quando indicado.",
+      "C": "Incorreta: endometriose não se diagnostica só pela pílula.",
+      "D": "Incorreta: decisão cirúrgica exige dados objetivos."
+    },
+    "explicacao": "Resumo: contracepção contextualiza risco e conduta.\nA) CORRETA. Uso clínico da anamnese.\nB) INCORRETA. Exagera papel da entrevista.\nC) INCORRETA. Inferência inválida.\nD) INCORRETA. Conduta precipitada."
+  },
+  {
+    "id": 2341,
+    "materia": "semiologia3",
+    "tema": "semio3_a5",
+    "enunciado": "Na tabela de diferenciação da aula, qual achado típico contrasta candidíase e vaginose bacteriana em relação ao prurido vulvovaginal?",
+    "opcoes": [
+      "A) Coceira intensa é marca da vaginose bacteriana e ausente na candidíase.",
+      "B) Coceira costuma ser intensa na candidíase e leve ou ausente na vaginose bacteriana.",
+      "C) Ambas cursam sempre com prurido igualmente intenso.",
+      "D) O prurido não tem valor discriminativo entre as duas condições."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O material destaca coceira extrema na candidíase e coceira leve ou nenhuma na BV.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: inverte os papéis descritos na tabela.",
+      "B": "Correta: reproduz a linha “coceira” da tabela comparativa.",
+      "C": "Incorreta: ignora diferença clássica entre os quadros.",
+      "D": "Incorreta: o prurido é justamente um dos eixos de diferenciação."
+    },
+    "explicacao": "Resumo: coceira “grita” candidíase; BV costuma ser mais odor.\nA) INCORRETA. Contradiz a tabela.\nB) CORRETA. Alinhada ao texto.\nC) INCORRETA. Generalização falsa.\nD) INCORRETA. Nega dado útil."
+  },
+  {
+    "id": 2342,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Em ambiente ambulatorial, você vai realizar exame dos genitais em paciente do sexo feminino. Antes de qualquer contato, qual conduta alinha consentimento informado e prática ética?",
+    "opcoes": [
+      "A) Explicar o procedimento, obter permissão explícita e oferecer acompanhante se desejado.",
+      "B) Iniciar a inspeção sem avisar para reduzir ansiedade.",
+      "C) Pedir assinatura de termo em papel antes de qualquer conversa verbal.",
+      "D) Delegar o consentimento exclusivamente à recepção da unidade."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "A aula define consentimento como explicar procedimento, perguntar permissão e permitir acompanhante.",
+    "explicacoes_opcoes": {
+      "A": "Correta: integra explicação, permissão e opção de presença de terceiro.",
+      "B": "Incorreta: viola transparência e aumenta desconforto.",
+      "C": "Incorreta: documentação formal não substitui diálogo e pode ser desnecessária como primeiro passo em rotina.",
+      "D": "Incorreta: o profissional que examina deve obter o consentimento relevante."
+    },
+    "explicacao": "Resumo: consentimento primeiro, sempre.\nA) CORRETA. Conduta adequada.\nB) INCORRETA. Falta ética básica.\nC) INCORRETA. Rígida demais e não substitui conversa.\nD) INCORRETA. Responsabilidade do examinador."
+  },
+  {
+    "id": 2343,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Durante treino em manequim de simulação urogenital, qual limitação importante você deve lembrar ao interpretar “dor” ao toque?",
+    "opcoes": [
+      "A) O modelo refere dor autêntica mediada pelo mesmo arcado reflexo do paciente real.",
+      "B) O modelo não reproduz propriocepção/dor real; o feedback é técnico, não fisiológico.",
+      "C) Dor em simulação indica sempre erro de técnica grave.",
+      "D) A ausência de dor no manequim prova que o paciente real não terá desconforto."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 3,
+    "explicacao_geral": "O texto afirma que o modelo não tem sensibilidade proprioceptiva real; serve para lapidar movimento.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: confunde simulação com neurofisiologia humana.",
+      "B": "Correta: reproduz a advertência central da aula.",
+      "C": "Incorreta: “dor” no simulador não replica dor verdadeira.",
+      "D": "Incorreta: paciente real pode ter dor e ansiedade mesmo com técnica adequada."
+    },
+    "explicacao": "Resumo: simulação treina gesto; não substitui sensação real.\nA) INCORRETA. Erro conceitual.\nB) CORRETA. Fidelidade ao material.\nC) INCORRETA. Interpretação literal indevida.\nD) INCORRETA. Generalização inválida."
+  },
+  {
+    "id": 2344,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Qual sequência geral de exame abdominal/pélvico a aula apresenta como técnica estruturada em simulação?",
+    "opcoes": [
+      "A) Manobras especiais antes de qualquer inspeção.",
+      "B) Palpação profunda antes da inspeção.",
+      "C) Inspeção, ausculta, palpação superficial, palpação profunda e manobras.",
+      "D) Toque retal antes da inspeção abdominal."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A lista dos pontos-chave ordena inspeção → ausculta → palpações → manobras.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: manobras vêm após etapas básicas.",
+      "B": "Incorreta: inspeção precede palpação profunda.",
+      "C": "Correta: coincide com o “técnica simulação” do material.",
+      "D": "Incorreta: ordem anatômica/lógica inadequada para o protocolo descrito."
+    },
+    "explicacao": "Resumo: sequência lógica evita erro e padroniza documentação.\nA) INCORRETA. Inverte ordem.\nB) INCORRETA. Inspeção vem primeiro.\nC) CORRETA. Texto da aula.\nD) INCORRETA. Toque não substitui inspeção inicial."
+  },
+  {
+    "id": 2345,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Após exame do aparelho urogenital, qual característica a documentação deve priorizar, segundo a aula?",
+    "opcoes": [
+      "A) Frases vagas como “exame dentro da normalidade” sem detalhar achados.",
+      "B) Hipóteses diagnósticas firmes sem correlacionar com o que foi observado.",
+      "C) Relato de suposições não verificadas ao exame físico.",
+      "D) Descrição objetiva do que foi inspecionado e palpado, com precisão para continuidade do cuidado."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A aula exemplifica registro com achados concretos (tamanhos, simetria, consistência), não achismos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: falta especificidade e prejudica continuidade assistencial.",
+      "B": "Incorreta: diagnóstico sem base documental não substitui descrição.",
+      "C": "Incorreta: documentação precisa deve refletir o exame, não suposições.",
+      "D": "Correta: alinha-se ao exemplo de registro estruturado do texto."
+    },
+    "explicacao": "Resumo: documentar o que se viu e se tocou.\nA) INCORRETA. Imprecisa.\nB) INCORRETA. Salto diagnóstico sem dados.\nC) INCORRETA. Antiético e pouco clínico.\nD) CORRETA. Padrão desejável."
+  },
+  {
+    "id": 2346,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Durante toque sensitivo em paciente real, ele verbaliza desconforto extremo e pede para interromper o exame. Qual postura profissional é obrigatória?",
+    "opcoes": [
+      "A) Interromper imediatamente e respeitar o limite do paciente.",
+      "B) Completar o exame rapidamente “para não perder o aprendizado”.",
+      "C) Insistir porque o exame é mais importante que o desconforto subjetivo.",
+      "D) Solicitar apenas que o paciente silencie até o final da manobra."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O material afirma que o paciente pode parar o exame a qualquer momento; o profissional deve acatar.",
+    "explicacoes_opcoes": {
+      "A": "Correta: ética e segurança do paciente prevalecem.",
+      "B": "Incorreta: viola autonomia e consentimento contínuo.",
+      "C": "Incorreta: abusivo e contrário ao texto.",
+      "D": "Incorreta: desconsidera sofrimento e direito de recusar prosseguimento."
+    },
+    "explicacao": "Resumo: consentimento é contínuo, não só inicial.\nA) CORRETA. Conduta correta.\nB) INCORRETA. Prioridade invertida.\nC) INCORRETA. Inaceitável.\nD) INCORRETA. Desrespeito ao paciente."
+  },
+  {
+    "id": 2347,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Na avaliação de queixa renal, a aula enfatiza que a percussão/palpação das fossas costais (TCV) bilateral:",
+    "opcoes": [
+      "A) Pode ser omitida se o aluno se sentir constrangido.",
+      "B) Deve ser realizada quando integrada à avaliação clínica, por ser achado objetivo relevante.",
+      "C) Substitui a necessidade de anamnese sobre disúria ou febre.",
+      "D) É reservada apenas a ambiente hospitalar de alta complexidade."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A “pegadinha” da aula diz que o constrangimento do examinador não dispensa o exame indicado, como TCV.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: o texto reprova omitir exame por desconforto do examinador.",
+      "B": "Correta: TCV faz parte da avaliação objetiva do caso renal descrito.",
+      "C": "Incorreta: exame físico complementa, não substitui, a história.",
+      "D": "Incorreta: não há restrição de cenário para essa manobra quando indicada."
+    },
+    "explicacao": "Resumo: TCV é exame objetivo; fazer quando indicado.\nA) INCORRETA. Profissionalismo exige completar propedêutica.\nB) CORRETA. Coerente com a aula.\nC) INCORRETA. Anamnese continua necessária.\nD) INCORRETA. Restrição falsa."
+  },
+  {
+    "id": 2348,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Comparando simulação e paciente real, qual diferença central a aula destaca além da técnica manual?",
+    "opcoes": [
+      "A) Em ambos, a comunicação é idêntica e não precisa ser ajustada.",
+      "B) O paciente real nunca apresenta constrangimento, então dispensa explicações.",
+      "C) No paciente real, a comunicação empática e contínua é mais exigente que no modelo.",
+      "D) Simulação dispensa consentimento porque não há pessoa física."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "A mesma técnica exige mais empatia e informação quando há pessoa ansiosa e sensível.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: a tabela contrasta prática de linguagem vs informação + conforto.",
+      "B": "Incorreta: constrangimento é esperado no real.",
+      "C": "Correta: reflete “comunicação diferencia simulação de real”.",
+      "D": "Incorreta: simulação também treina ética e protocolo de consentimento."
+    },
+    "explicacao": "Resumo: técnica igual; vínculo humano diferente.\nA) INCORRETA. Ignora ansiedade real.\nB) INCORRETA. Falso para adolescentes e adultos.\nC) CORRETA. Mensagem da aula.\nD) INCORRETA. Consentimento é treinado também."
+  },
+  {
+    "id": 2349,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Homem de 52 anos refere dor em flanco esquerdo há 48 horas, febre 38 °C, calafrios e disúria. Ao exame, dor à percussão do flanco esquerdo (TCV positivo à esquerda). Qual integração semiológica o caso ilustra, conforme o roteiro da aula?",
+    "opcoes": [
+      "A) Dor lombar isolada sem dados urinários ou térmicos.",
+      "B) Padrão exclusivamente de litíase renal sem sinais inflamatórios.",
+      "C) Achado que dispensa documentação porque o diagnóstico é clínico puro.",
+      "D) Triagem anamnésica (sintomas urinários e febre) associada a achado objetivo de dor renal à percussão, sugerindo investigação e conduta de infecção do trato superior."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "O exemplo da aula junta disúria, febre e TCV doloroso para compor quadro compatível com pielonefrite e orientar conduta.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ignora disúria e febre presentes no enunciado.",
+      "B": "Incorreta: febre e TCV positivo apontam inflamatório/infeccioso, não litíase “pura”.",
+      "C": "Incorreta: a aula valoriza documentação após o exame.",
+      "D": "Correta: reproduz a lógica “anamnese + exame + integração” do texto."
+    },
+    "explicacao": "Resumo: caso renal = história + TCV + síndrome sistêmica.\nA) INCORRETA. Dados ignorados.\nB) INCORRETA. Diagnóstico alternativo pouco sustentado.\nC) INCORRETA. Documentação não é dispensável.\nD) CORRETA. Integração pedida pela aula."
+  },
+  {
+    "id": 2350,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Após estação prática em simulação, o instrutor aponta que você foi apressado no toque retal. Segundo a aula, qual é o significado pedagógico desse erro?",
+    "opcoes": [
+      "A) É dado útil para ajustar técnica na próxima tentativa, sem equivaler a falha pessoal definitiva.",
+      "B) Deve ser ignorado, pois simulação não permite feedback.",
+      "C) Significa reprovação automática do estudante no curso.",
+      "D) Indica que o exame retal não deve ser mais treinado."
+    ],
+    "correta": 0,
+    "dificuldade": 2,
+    "modulo": 3,
+    "explicacao_geral": "O texto diz que erro em simulação é oportunidade de melhora, com feedback construtivo.",
+    "explicacoes_opcoes": {
+      "A": "Correta: alinha-se à ideia de feedback e aprendizado sem culpa absoluta.",
+      "B": "Incorreta: a aula valoriza feedback pós-estação.",
+      "C": "Incorreta: exagero punitivo não aparece no material.",
+      "D": "Incorreta: o problema foi ritmo, não a indicação de treinar a manobra."
+    },
+    "explicacao": "Resumo: simulação = erro corrigível.\nA) CORRETA. Mensagem pedagógica.\nB) INCORRETA. Contradiz a aula.\nC) INCORRETA. Punitivo indevido.\nD) INCORRETA. Conclusão errada."
+  },
+  {
+    "id": 2351,
+    "materia": "semiologia3",
+    "tema": "semio3_a6",
+    "enunciado": "Durante exame genital masculino em paciente real, ocorre ereção peniana involuntária. Qual conduta é mais adequada, segundo o material?",
+    "opcoes": [
+      "A) Encerrar o atendimento e encaminhar por “inconduzível”.",
+      "B) Normalizar o fenômeno com linguagem profissional e prosseguir o exame se o paciente concordar.",
+      "C) Rir discretamente para reduzir tensão ambiental.",
+      "D) Repreender o paciente por falta de controle voluntário."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 3,
+    "explicacao_geral": "A aula ensina normalizar ereção involuntária como comum e seguir profissionalmente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: abandono desnecessário se o paciente aceita continuar.",
+      "B": "Correta: reproduz a normalização e continuidade profissional descritas.",
+      "C": "Incorreta: pode aumentar constrangimento e falta respeito.",
+      "D": "Incorreta: culpabiliza resposta fisiológica involuntária."
+    },
+    "explicacao": "Resumo: profissionalismo = desdramatizar e manter foco clínico.\nA) INCORRETA. Evita responsabilidade indevida.\nB) CORRETA. Conduta do texto.\nC) INCORRETA. Inadequada.\nD) INCORRETA. Violenta e falsa."
+  }
+]

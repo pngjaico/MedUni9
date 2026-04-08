@@ -4,7 +4,7 @@
 
 As infecções virais do sistema nervoso central e as doenças exantemáticas (com exantema cutâneo como sinal predominante) constituem um conjunto clinicamente importante e historicamente relevante em saúde pública. Muitas foram controladas por vacinação, tornando-as tema frequente de questões about erradicação, características clínicas e complicações.
 
-A **Uninove** cobra distinção entre os exantemas (qual vírus, qual aspecto, qual sequência), as complicações neurológicas de sarampo e polio, e as síndromes congênitas (rubéola).
+A Uninove cobra distinção entre os exantemas (qual vírus, qual aspecto, qual sequência), as complicações neurológicas de sarampo e polio, e as síndromes congênitas (rubéola).
 
 ### Figura sugerida
 
@@ -168,17 +168,16 @@ Outras manifestações: microcefalia, hepatoesplenomegalia, púrpura ("blueberry
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Koplik:** manchas brancas na mucosa bucal = patognomônico do sarampo; surgem ANTES do exantema
+- **Rubéola congênita:** catarata + cardiopatia (PCA) + surdez → 1º trimestre
+- **PESS:** complicação tardia (7–10 anos) do sarampo → encefalite fatal
+- **Polio:** Saalk (injetável) em imunossuprimido; Sabin (oral) risco rarísimo de polio vaccinal
+- **Parvovírus B19:** "tapa na face"; crise aplásica em falcêmicos; hidropsia fetal
 
-
-Koplik: manchas brancas na mucosa bucal = patognomônico do sarampo; surgem ANTES do exantema. Rubéola congênita: catarata + cardiopatia (PCA) + surdez → 1º trimestre.
-
-PESS: complicação tardia (7–10 anos) do sarampo → encefalite fatal. Polio: Saalk (injetável) em imunossuprimido; Sabin (oral) risco rarísimo de polio vaccinal.
-
-Parvovírus B19: "tapa na face"; crise aplásica em falcêmicos; hidropsia fetal.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -191,13 +190,4 @@ Parvovírus B19: "tapa na face"; crise aplásica em falcêmicos; hidropsia fetal
 | Varicela | Sarampo | Varicela: vesicular, todos estágios juntos, sem Koplik; sarampo: maculopapular, cefalocaudal, Koplik |
 
 ### Frase-âncora para não esquecer
-
 > "Koplik antes do sarampo avisa; rubéola no 1º trimestre cega (catarata), ensurdece (surdez) e quebra o coração (PCA). Parvovírus dá tapa na face e crise aplásica no falcêmico. Polio mata o neurônio do corno anterior."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

@@ -1,97 +1,214 @@
 # SEMIO3 — Aula 3: Semiologia Renal — Anamnese e Exame Físico
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+**Disciplina:** Semiologia dos Aparelhos Renal e Reprodutor  
+**Módulo:** 3 | **Tempo de estudo sugerido:** 25 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Dor renal é frequente e a diferença entre cólica renal, inflamação renal e outras causas abdominais se faz na anamnese estruturada + exame renal dirigido. A **Uninove** cobra o toque costovertebral (TCV), a localização de dor e sinais de sepse renal. Pacientes com infecção urinária alta (pielonefrite) podem evoluir para choque séptico em horas — reconhecer é urgente.
+A avaliação semiológica renal está entre os blocos mais úteis para prova e prática clínica, porque sintomas urinários podem sinalizar desde condições benignas até urgências potencialmente graves. Na prova, a banca costuma apresentar casos com dor lombar, edema, alteração da urina e hipertensão para testar se você diferencia síndrome miccional baixa, acometimento do trato urinário alto, glomerulopatias e sobrecarga volêmica.
 
-
-
+Na prática, uma anamnese bem conduzida reduz erros de encaminhamento e antecipa diagnósticos importantes como pielonefrite, nefrolitíase complicada e doença renal crônica em evolução. O exame físico renal, mesmo simples, ganha valor quando integrado ao contexto clínico: pressão arterial, padrão de edema, sinais de congestão e sensibilidade lombar mudam conduta.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO3-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a introdução de relevância clínica.
+- **O que mostrar:** esquema de triagem da queixa renal por eixos (síndrome miccional, dor lombar, edema e alterações da urina) com setas para hipóteses principais.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Raciocínio inicial na semiologia renal: sintomas-guia e hipóteses mais prováveis."
 
-## Conceitos Essenciais
+## Anamnese renal orientada por problemas
 
-**Anamnese renal:** Quando começou a dor? Irradiação? Cólica renal classicamente irradia do flanco para inguinal e genitália. Começou agudo ou gradualmente? Febre associada? Disúria (dor ao urinar)? Hematúria (sangue na urina)? Frequência urinária? Já teve litíase anterior?
+A anamnese renal começa com caracterização cronológica e sindrômica. Pergunte quando os sintomas começaram, se houve instalação súbita ou progressiva, fatores desencadeantes, evolução temporal e impacto funcional. Em seguida, organize o raciocínio por blocos de sintomas para não perder informações críticas.
 
-> **Dica de Prova:** Cólica renal = dor aguda + irradiação flanco-inguinal + paciente em movimento. Pielonefrite = dor + febre + disúria + estase urinária (prévio ou gestação). Ordem temporal diferencia.
+### Síndrome miccional
 
-**Toque costovertebral (TCV):** Mão apoiada nos processos espinhosos da cintura, percute levemente com o punho fechado. Paciente sente dor no flanco? Positivo sugere sorologia renal. Dor localizada em flanco sem irradiação? Nefrolitíase. Dor + febre + disúria? Pielonefrite. Dor + hematúria bruta? Provavelmente nefrolitíase.
+A síndrome miccional inclui disúria, polaciúria, urgência miccional, noctúria, sensação de esvaziamento incompleto e dor suprapúbica. Em prova, o ponto-chave é reconhecer padrão de trato urinário baixo versus acometimento alto.
 
-**Exame renal abdominal:** Palpa rins bimanualmente — mão posterior (costas), mão anterior (abdomen). Rins não devem ser palpáveis em pessoa normal. Rim palpável sugere aumento (glomerulonefrite?) ou neoplasia. Massa abdominal? Importante.
+- **Disúria com polaciúria sem febre alta:** sugere cistite.
+- **Disúria com febre, calafrios e dor lombar:** sugere pielonefrite.
+- **Noctúria e poliúria crônicas:** podem indicar perda de capacidade de concentração urinária.
 
-**Sinais sistêmicos:** Febre presente? Quanto? Taquicardia? Pressão arterial normal ou baixa? Paciente séptico? Pielonefrite + febre alta + taquicardia + hipotensão = sepse urinária, precisa macrolídeo e UTI.
+Pergunte ainda sobre retenção urinária, jato fraco e hesitação, pois obstrução infravesical pode predispor infecção e hidronefrose.
 
-> **Pegadinha:** Aluno confunde "TCV positivo" com "diagnóstico de nefrolitíase". TCV positivo apenas indica irritação renal — pode ser inflamação, infecção, cálculo ou tumor. Contexto clínico interpretaliza.
+### Edema
 
-**Contexto epidemiológico:** Idade? Homem com cólica renal é nefrolitíase até prova contrária. Mulher gestante com dor flanco = pielonefrite até prova contrária (grávida tem risco 10x). Paciente com SOP (diabetes, obesidade)? Maior risco cálculo.
+Edema em contexto renal deve ser detalhado por início, distribuição e ritmo diário.
 
-## Apresentação Clássica de Cólica Renal
+- **Periorbitário matinal:** clássico de síndrome nefrítica/nefrótica.
+- **Membros inferiores vespertinos:** também pode aparecer por insuficiência venosa ou cardíaca.
+- **Anasarca progressiva:** sugere retenção hidrossalina significativa.
 
-Paciente chega: "acordei de madrugada com dor no flanco esquerdo, piora quando fico imóvel, melhora quando caminho, e a dor desce até virilha". Você pergunta: "Tem febre?". "Não, zero". "Urina saiu vermelha?". "Sim, bastante sangue". Toca TCV esquerdo: "Ai, dói!" Contexto integrado: nefrolitíase aguda corretamente localizada.
+Associe ganho de peso recente, redução do volume urinário e dispneia, porque esses elementos aumentam probabilidade de sobrecarga volêmica por disfunção renal.
 
-Contraste: Paciente diferente chega: "febre há 2 dias, dor nas costas, e dói quando faço xixi". Febre 38.5°C. TCV direito positivo. Urina com nitrito + leucócitos. Contexto: pielonefrite, prescreve antibiótico, monitora sepse.
+### Hematúria
+
+Hematúria é sintoma de alto valor semiológico e deve ser classificada.
+
+- **Macroscópica (urina avermelhada visível):** costuma alarmar o paciente.
+- **Microscópica (detectada em exame):** pode ser assintomática.
+
+Pergunte cor da urina, presença de coágulos, relação com dor e eventos prévios.
+
+- **Hematúria dolorosa com cólica:** favorece litíase.
+- **Hematúria indolor persistente:** exige investigação estrutural e oncológica.
+- **Urina "cor de coca-cola" pós-infecção:** sugere origem glomerular.
+
+### Cólica renal
+
+A cólica renal é dor intensa em flanco/lombar, em ondas, frequentemente com irradiação para fossa ilíaca, região inguinal ou genitália ipsilateral. O paciente costuma ficar inquieto, sem posição antálgica estável.
+
+Diferencie de dor musculoesquelética lombar (geralmente piora com movimento específico e palpação paravertebral) e de abdome agudo de outras etiologias.
+
+### ITU recorrente
+
+ITU recorrente (episódios repetidos ao longo do ano) deve acender investigação de fatores predisponentes:
+
+- atividade sexual e uso de espermicidas;
+- menopausa e atrofia urogenital;
+- obstrução urinária;
+- litíase associada;
+- alterações anatômicas;
+- esvaziamento vesical incompleto;
+- diabetes e imunossupressão.
+
+Na prova, recorrência sem investigação de fator de base costuma ser apresentada como erro de conduta.
+
+### Nefrolitíase prévia
+
+História de cálculo prévio aumenta risco de recorrência. Pergunte composição conhecida do cálculo, ingesta hídrica, padrão alimentar (sal/proteína), uso de suplementos, episódios familiares e intervenções urológicas anteriores.
+
+A relação entre cólica atual e histórico de litíase orienta probabilidade pré-teste e priorização diagnóstica.
+
+### HAS, DM e nefrotoxinas
+
+Hipertensão arterial sistêmica (HAS) e diabetes mellitus (DM) são os principais fatores de risco para doença renal crônica. Sempre quantifique tempo de doença, adesão terapêutica e sinais de lesão de órgão-alvo.
+
+No bloco de nefrotoxinas, pergunte ativamente sobre:
+
+- anti-inflamatórios não esteroidais de uso frequente;
+- contraste iodado recente;
+- fitoterápicos sem rastreabilidade;
+- antibióticos potencialmente nefrotóxicos;
+- automedicação crônica.
+
+Esse trecho é altamente cobrado em casos clínicos porque conecta anamnese simples com prevenção de injúria renal evitável.
+
+> **Dica de Prova:** em questão longa, organize mentalmente a anamnese renal em oito eixos: síndrome miccional, edema, hematúria, dor tipo cólica, ITU recorrente, litíase prévia, HAS/DM e nefrotoxinas. Esse roteiro reduz chance de errar por omissão.
+
+> **Pegadinha:** banca adora induzir diagnóstico de "cistite simples" em paciente com disúria quando há febre alta, dor lombar e vômitos. Nesse cenário, pense primeiro em pielonefrite (trato alto), não em infecção baixa isolada.
+
+## Exame físico renal dirigido
+
+O exame físico deve ser sistemático e sempre integrado ao quadro hemodinâmico e respiratório.
+
+### Pressão arterial (PA)
+
+Aferição correta da PA é obrigatória em toda suspeita renal.
+
+- **PA elevada persistente:** pode ser causa e consequência de doença renal.
+- **PA baixa com febre e taquicardia:** sugere sepse de foco urinário.
+
+Na interpretação de prova, não trate PA como dado isolado; relacione com diurese, edema e sinais de perfusão.
+
+### Edema e distribuição
+
+Inspecione face, região periorbitária, membros inferiores e região sacral (quando acamado). Palpe para verificar cacifo e graduar intensidade.
+
+Edema bilateral simétrico com ganho ponderal e oligúria reforça retenção hidrossalina. Assimetria importante sugere outras hipóteses (venosa/linfática), reduzindo especificidade renal.
+
+### Sinais de sobrecarga
+
+Procure sinais clínicos de congestão:
+
+- turgência jugular;
+- crepitações bibasais;
+- ortopneia;
+- hepatomegalia congestiva em contexto avançado.
+
+A presença desses sinais junto de edema e redução da diurese orienta estado de hiper-hidratação com impacto cardiopulmonar.
+
+### Punho-percussão lombar
+
+A punho-percussão no ângulo costovertebral (manobra de Giordano) é peça clássica da semiologia renal. Técnica adequada e comparação bilateral são essenciais.
+
+- **Positiva com febre e síndrome miccional:** favorece pielonefrite.
+- **Positiva com dor em cólica e hematúria:** favorece nefrolitíase sintomática.
+
+A manobra positiva não fecha diagnóstico sozinha; ela aumenta plausibilidade em conjunto com história e sinais sistêmicos.
+
+### Avaliação volêmica
+
+A avaliação de volemia fecha o exame físico renal porque direciona conduta imediata.
+
+- **Hipovolemia:** mucosas secas, hipotensão postural, extremidades frias, enchimento capilar lento.
+- **Hipervolemia:** edema, crepitações, turgência jugular, ganho de peso e dispneia.
+
+Na prova, o acerto costuma depender de reconhecer se o paciente precisa expansão, restrição hídrica, diurético, antibiótico imediato ou encaminhamento urgente.
+
+### Tabela útil de integração semiológica
+
+| Achado principal | Interpretação mais provável | Próximo passo clínico esperado |
+|------------------|-----------------------------|---------------------------------|
+| Disúria + polaciúria sem febre alta | ITU baixa (cistite) | Confirmar sinais de alarme e tratar conforme protocolo |
+| Disúria + febre + Giordano positivo | ITU alta (pielonefrite) | Avaliar gravidade, antibioticoterapia e risco de sepse |
+| Dor em cólica + hematúria | Nefrolitíase | Analgesia, estratificação de complicação e imagem conforme contexto |
+| Edema + HAS + oligúria | Síndrome de retenção hidrossalina renal | Avaliar função renal e estado volêmico |
+| Hematúria indolor persistente | Possível origem estrutural/urológica | Encaminhar investigação etiológica dirigida |
+| Uso crônico de AINE + piora renal | Nefrotoxicidade medicamentosa | Suspender agressor e reavaliar função renal |
+
+### Figura sugerida
+
+**Figura-ID:** `SEMIO3-A3-F02`
+
+- **Momento:** após a tabela de integração semiológica.
+- **O que mostrar:** ilustração da manobra de punho-percussão lombar com posicionamento correto do examinador e área anatômica do ângulo costovertebral.
+- **Tipo sugerido:** foto de propedêutica ou esquema anatômico funcional.
+- **Legenda (rascunho):** "Manobra de Giordano: técnica e interpretação clínica no exame renal."
 
 ## Ponte com a Clínica
 
-Na urgência, identificar cólica renal vs pielonefrite em horas é crítico porque tratamentos são opostos. Cólica renal = analgesia, hidratação, passa sozinha. Pielonefrite = antibiótico urgente. Erro de diagnóstico custa internação ou piora para sepse.
-
-## Pontos-Chave para Prova
-
-- **Cólica renal:** dor aguda + irradiação flanco-inguinal + ausência febre.
-- **Pielonefrite:** dor + febre + disúria + TCV positivo.
-- **TCV:** percussão sobre flanco; dor = irritação renal (cálculo, inflamação, infecção).
-- **Rim normal:** não palpável; rim palpável é achado anormal.
-- **Hematúria bruta:** sugere nefrolitíase ou trauma renal.
-- **Contexto epidemiológico:** homem = cálculo; gestante = infecção.
-- **Sepse renal:** febre alta + rigidez + hipotensão = emergência.
-- **Ordem histórica:** febre antes dor = pielonefrite; dor antes febre = cólica → inflamação.
+No ambulatório e na urgência, semiologia renal bem executada evita subdiagnóstico de pielonefrite, reduz atraso em doença renal progressiva e melhora segurança terapêutica ao identificar nefrotoxinas precocemente. A integração entre anamnese estruturada e exame físico dirigido é o diferencial entre decorar sintomas e tomar decisão clínica correta.
 
 ---
 
-## Erros Comuns de Prova
+## Pontos-Chave para Prova
 
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
+- Síndrome miccional deve ser classificada em padrão baixo versus alto com base em febre e dor lombar.
+- Edema renal ganha força diagnóstica quando associado a oligúria, ganho de peso e alteração pressórica.
+- Hematúria precisa de classificação (macro/micro; dolorosa/indolor) para orientar hipótese inicial.
+- Cólica renal típica é dor em ondas com irradiação para trajeto ureteral e inquietação do paciente.
+- ITU recorrente exige busca de fatores predisponentes; tratar sem investigar causa de base é erro frequente.
+- HAS, DM e exposição a nefrotoxinas são perguntas obrigatórias em qualquer anamnese renal completa.
+- No exame físico, PA, edema, sobrecarga, Giordano e estado volêmico formam o núcleo de decisão clínica.
 
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+---
 
 ## Pré-Prova
 
-> Leia 30 minutos antes da prova. Vai direto ao ponto.
+> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Na anamnese renal, a banca espera organização: síndrome miccional, edema, hematúria, dor tipo cólica, recorrência de ITU, história de nefrolitíase, comorbidades (HAS/DM) e exposição a nefrotoxinas. Se você cobre esses eixos de forma sistemática, reduz omissões e melhora muito a acurácia diagnóstica em questão de caso clínico.
 
-TCV: percussão sobre ângulo costovertebral; dor = irritação renal. Cólica renal irradiação: flanco → inguinal → genitália (não para em abdomen). Pielonefrite + febre alta: sepse renal em potencial; antibiótico AGORA.
+Disúria isolada sem febre alta aponta mais para trato urinário baixo, enquanto disúria com febre, dor lombar e sinais sistêmicos sugere acometimento alto. A hematúria não deve ser tratada como detalhe: padrão doloroso com cólica favorece litíase; padrão indolor persistente exige investigação estruturada. Em edema, descreva distribuição, progressão e associação com ganho de peso e oligúria.
 
-Disúria: dor ao urinar; com febre = infecção alta (bexiga geralmente sem febre). Hematúria: visível (macroscópica) = nefrolitíase ou trauma; não visível (microscópica) = investigar. Rim palpável: anormal; pode ser hidronefrose, neoplasia ou aumento.
-
-Contexto gestante: sempre assume pielonefrite até prova; risco 10x maior. Espectro de apresentação: cólica → inflamação leve → pielonefrite → sepse.
+No exame físico renal, não existe "manobra mágica" isolada. A interpretação correta vem da soma de PA, padrão de edema, sinais de sobrecarga, Giordano e avaliação volêmica. Em prova e prática, esse conjunto orienta urgência, risco de sepse urinária e necessidade de conduta imediata.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Achado | Cólica Renal | Pielonefrite | Como diferenciar |
-|--------|-------------|-----------|----|
-| Febre | Ausente | PRESENTE (38-40°C) | Pielonefrite é infecção |
-| Movimento paciente | MUITO agitado | Imóvel na cama | Cólica piora com repouso; infecção com movimento |
-| TCV | Positivo | Positivo com febre | TCV + febre = infecção |
-| Disúria | Sim durante passagem | Sim durante micção | Cálculo irrita canal; infecção inflama bexiga |
-| Urina | Hematúria bruta comum | Piúria, nitrito, leucócitos | Sangue = cálculo; pus = infecção |
+| Conceito A | Conceito B | Como diferenciar |
+|------------|------------|-----------------|
+| ITU baixa (cistite) | ITU alta (pielonefrite) | Cistite: disúria/polaciúria sem toxicidade sistêmica importante; pielonefrite: febre, dor lombar e possível Giordano positivo |
+| Cólica renal | Dor lombar musculoesquelética | Cólica: dor em ondas com irradiação ureteral e inquietação; musculoesquelética: dor mecânica relacionada a movimento/palpação paravertebral |
+| Edema renal | Edema venoso periférico | Renal: costuma associar oligúria, ganho de peso e contexto laboratorial/pressórico; venoso: piora gravitacional típica sem marcadores renais centrais |
+| Hematúria glomerular | Hematúria não glomerular | Glomerular: urina escura tipo "coca-cola" e contexto nefrítico; não glomerular: sangue vivo/coágulos e origem urológica mais provável |
+| Hipervolemia | Hipovolemia | Hipervolemia: edema, crepitações, turgência jugular; hipovolemia: mucosa seca, hipotensão postural e sinais de baixa perfusão |
 
 ### Frase-âncora para não esquecer
 
-> **"Cólica = agitação + hematúria sem febre. Pielonefrite = febre alta + imobilidade + TCV duro. TCV + febre = sepse em potencial."**
+> "Semiologia renal boa é roteiro completo: perguntar por oito eixos, examinar cinco pilares e integrar tudo antes de concluir."

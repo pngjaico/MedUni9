@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-O genoma humano contém aproximadamente 3,2 bilhões de pares de bases e ~20.000 genes codificadores de proteínas — uma fração surpreendentemente pequena (~1,5%) do **DNA** total. Compreender como o genoma é organizado, como os genes são estruturados e como o dogma central da biologia molecular opera é o fundamento de toda a genética médica, oncologia molecular e farmacogenômica. Saber distinguir exon de íntron, entender o que é um polimorfismo de nucleotídeo único (**SNP**) e reconhecer que a maioria do genoma é "não codificante" (mas não necessariamente "não funcional") são competências que aparecem em questões de diagnóstico molecular, pesquisa e racionalização terapêutica.
+O genoma humano contém aproximadamente 3,2 bilhões de pares de bases e ~20.000 genes codificadores de proteínas — uma fração surpreendentemente pequena (~1,5%) do DNA total. Compreender como o genoma é organizado, como os genes são estruturados e como o dogma central da biologia molecular opera é o fundamento de toda a genética médica, oncologia molecular e farmacogenômica. Saber distinguir exon de íntron, entender o que é um polimorfismo de nucleotídeo único (SNP) e reconhecer que a maioria do genoma é "não codificante" (mas não necessariamente "não funcional") são competências que aparecem em questões de diagnóstico molecular, pesquisa e racionalização terapêutica.
 
-Na **Uninove**, essa aula serve de base para as aulas de replicação, transcrição, tradução e genética médica que seguem, tornando o seu domínio imprescindível para o restante do módulo.
+Na Uninove, essa aula serve de base para as aulas de replicação, transcrição, tradução e genética médica que seguem, tornando o seu domínio imprescindível para o restante do módulo.
 
 ### Figura sugerida
 
@@ -134,19 +134,19 @@ A **Síndrome de Lynch (HNPCC — câncer colorretal hereditário não polipose)
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-~1,5% do genoma codifica proteínas; o resto inclui regulatório, repetitivo, pseudogenes. Nucleossomo: DNA em torno de octâmero de histonas (H2A/H2B/H3/H4 × 2) + H1 linker. Lyonização: inativação de 1 X feminino → corpúsculo de Barr = n° de X − 1.
-
-Exon: permanece no mRNA; Íntron: removido por splicing (GT no início, AG no final). GT-AG rule: mutação → splicing aberrante → doença (talassemia β). Promotor: upstream; TATA box ~−30; sítio de iniciação da transcrição.
-
-Telômero: TTAGGG; telomerase em germinativas e tumorais. SNP: 1 nucleotídeo, ≥ 1% da população; farmacogenômica. Metilação CpG: silencia genes; hipermetilação de supressores tumorais no câncer.
-
-Retrovírus: RNA → DNA (transcriptase reversa) — exceção ao dogma central.
+- **~1,5% do genoma** codifica proteínas; o resto inclui regulatório, repetitivo, pseudogenes
+- **Nucleossomo**: DNA em torno de octâmero de histonas (H2A/H2B/H3/H4 × 2) + H1 linker
+- **Lyonização**: inativação de 1 X feminino → corpúsculo de Barr = n° de X − 1
+- **Exon**: permanece no mRNA; **Íntron**: removido por splicing (GT no início, AG no final)
+- **GT-AG rule**: mutação → splicing aberrante → doença (talassemia β)
+- **Promotor**: upstream; TATA box ~−30; sítio de iniciação da transcrição
+- **Telômero**: TTAGGG; telomerase em germinativas e tumorais
+- **SNP**: 1 nucleotídeo, ≥ 1% da população; farmacogenômica
+- **Metilação CpG**: silencia genes; hipermetilação de supressores tumorais no câncer
+- **Retrovírus**: RNA → DNA (transcriptase reversa) — exceção ao dogma central
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -159,13 +159,4 @@ Retrovírus: RNA → DNA (transcriptase reversa) — exceção ao dogma central.
 | Telômero | Centrômero | Telômero = extremidade cromossômica (TTAGGG); Centrômero = ancoragem do cinetocoro (divisão) |
 
 ### Frase-âncora para não esquecer
-
 > "O genoma é enorme, mas 98% não faz proteína — só 1,5% codifica. O resto regula, silencia e varia. E cada variação pode ser uma doença ou uma resposta diferente ao medicamento."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

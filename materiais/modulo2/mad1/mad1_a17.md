@@ -4,7 +4,7 @@
 
 Os arbovírus (arthropod-borne viruses) são transmitidos por artrópodes (principalmente mosquitos *Aedes aegypti*) e representam um desafio crescente de saúde pública no Brasil e no mundo, especialmente com as mudanças climáticas ampliando a distribuição do vetor. Dengue, Zika e Chikungunya circulam simultaneamente no Brasil, e o diagnóstico diferencial entre eles é essencial porque o manejo difere — especialmente a contraindicação de AAS na dengue.
 
-A **Uninove** cobra principalmente os critérios de gravidade da dengue, o diagnóstico laboratorial (NS1, **IgM**, PCR) e as diferenças clínicas entre as três arboviroses.
+A Uninove cobra principalmente os critérios de gravidade da dengue, o diagnóstico laboratorial (NS1, IgM, PCR) e as diferenças clínicas entre as três arboviroses.
 
 ### Figura sugerida
 
@@ -162,17 +162,16 @@ A **Uninove** cobra principalmente os critérios de gravidade da dengue, o diagn
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Dengue:** AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação
+- **Zika:** prurido + conjuntivite; Guillain-Barré + microcefalia (1º trimestre)
+- **Chikungunya:** artralgia intensa e simétrica; artrite crônica = maior morbidade
+- **Todos:** *Aedes aegypti*; eliminar água parada; PCR (< 7 dias) ou IgM (> 5–7 dias)
+- **Dengvaxia:** só para soropositivos; Qdenga: mais segura
 
-
-Dengue: AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação. Zika: prurido + conjuntivite; Guillain-Barré + microcefalia (1º trimestre).
-
-Chikungunya: artralgia intensa e simétrica; artrite crônica = maior morbidade. Todos: *Aedes aegypti*; eliminar água parada; PCR (< 7 dias) ou IgM (> 5–7 dias).
-
-Dengvaxia: só para soropositivos; Qdenga: mais segura.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -185,13 +184,4 @@ Dengvaxia: só para soropositivos; Qdenga: mais segura.
 | Dengvaxia | Qdenga | Dengvaxia = só soropositivos; Qdenga = 4–60 anos, mais segura em soronagativos |
 
 ### Frase-âncora para não esquecer
-
 > "Dengue sangra, Zika pica com prurido e deforma o bebê, Chikungunya entorta de dor — e todos chegaram pelo mesmo Aedes. Nunca dê AAS na dengue: ela já sangra sozinha."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

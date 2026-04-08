@@ -4,7 +4,7 @@
 
 As doenças autossômicas dominantes (AD) têm como característica fundamental o fato de um único alelo mutado ser suficiente para produzir fenótipo patológico. Isso significa que 50% dos descendentes de um indivíduo afetado herdarão a doença — independentemente do sexo — e que a condição tende a aparecer em todas as gerações de uma família (padrão vertical). Para o médico, reconhecer esse padrão e conhecer as principais síndromes AD é crucial para orientar famílias, indicar rastreamento e aplicar terapia-alvo.
 
-Esta aula complementa as aulas de AR e XL ao completar o quadro dos padrões mendelianos. A **Uninove** costuma apresentar heredogramas para classificação do padrão ou questões clínicas diretas sobre as síndromes mais frequentes: síndrome de Marfan, neurofibromatose tipo 1, doença de Huntington, síndrome de Long QT, síndrome de BRCA1/2 e polipose adenomatosa familiar. Muitas dessas patologias têm mecanismos moleculares elegantes que explicam por que um único alelo é suficiente para causar a doença.
+Esta aula complementa as aulas de AR e XL ao completar o quadro dos padrões mendelianos. A Uninove costuma apresentar heredogramas para classificação do padrão ou questões clínicas diretas sobre as síndromes mais frequentes: síndrome de Marfan, neurofibromatose tipo 1, doença de Huntington, síndrome de Long QT, síndrome de BRCA1/2 e polipose adenomatosa familiar. Muitas dessas patologias têm mecanismos moleculares elegantes que explicam por que um único alelo é suficiente para causar a doença.
 
 ### Figura sugerida
 
@@ -215,17 +215,18 @@ A mutação confere à proteína uma atividade nova ou hiperativa, prejudicial.
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-AD: vertical, 50%, ambos os sexos; exceções: penetrância incompleta, nova mutação, antecipação. Marfan: FBN1, ectopia SUPERIOR, dilatação aórtica, aracnodactilia; losartana + betabloqueador. NF1: 17q11, manchas café-com-leite (≥6) + nódulos Lisch + neurofibromas; AD mais comum; 50% novas mutações.
-
-Huntington: CAG > 40, coreia + demência, antecipação paterna; ganho de função polyQ. Acondroplasia: FGFR3 ganho de função; 80% novas mutações; nanismo rizomélico; inteligência normal. PAF: APC, centenas de pólipos, CCR obrigatório sem colectomia; CIN (não MSI).
-
-BRCA1/2: mama + ovário; HRR defeituoso; PARP inibidor; mastectomia/oforectomia preventiva. Long QT: KCNQ1/KCNH2/SCN5A; QTc alargado; torsades; betabloqueador. Haploinsuficiência x ganho de função: NF1/Marfan = haplo; FGFR3/HTT = ganho de função.
+- **AD:** vertical, 50%, ambos os sexos; exceções: penetrância incompleta, nova mutação, antecipação
+- **Marfan:** FBN1, ectopia SUPERIOR, dilatação aórtica, aracnodactilia; losartana + betabloqueador
+- **NF1:** 17q11, manchas café-com-leite (≥6) + nódulos Lisch + neurofibromas; AD mais comum; 50% novas mutações
+- **Huntington:** CAG > 40, coreia + demência, antecipação paterna; ganho de função polyQ
+- **Acondroplasia:** FGFR3 ganho de função; 80% novas mutações; nanismo rizomélico; inteligência normal
+- **PAF:** APC, centenas de pólipos, CCR obrigatório sem colectomia; CIN (não MSI)
+- **BRCA1/2:** mama + ovário; HRR defeituoso; PARP inibidor; mastectomia/oforectomia preventiva
+- **Long QT:** KCNQ1/KCNH2/SCN5A; QTc alargado; torsades; betabloqueador
+- **Haploinsuficiência x ganho de função:** NF1/Marfan = haplo; FGFR3/HTT = ganho de função
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -238,13 +239,4 @@ BRCA1/2: mama + ovário; HRR defeituoso; PARP inibidor; mastectomia/oforectomia 
 | Long QT Romano-Ward | Long QT Jervell e Lange-Nielsen | Romano-Ward = AD, sem surdez; Jervell = AR, com surdez |
 
 ### Frase-âncora para não esquecer
-
 > "AD = UMA cópia mutada basta. Às vezes porque falta proteína (haploinsuficiência: Marfan, NF1, BRCA, PAF). Às vezes porque a proteína mutada envenena a normal (dominante negativo: colágeno OI). Às vezes porque a mutação cria um monstro que faz coisas que não devia (ganho de função: Huntington, acondroplasia)."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

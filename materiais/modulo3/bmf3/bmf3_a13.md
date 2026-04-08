@@ -144,17 +144,15 @@ Na síndrome de Bartter (mutação no NKCC2), há perda de Na⁺, K⁺ e Cl⁻ d
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-TCP: reabsorve 65-70% de Na⁺; SGLT2 reabsorve toda glicose; NHE3 reabsorve HCO₃⁻. ASE: NKCC2 (bomba tripla Na/K/2Cl); impermeável à água; furosemida age aqui.
-
-TCD: NCC (tiazídico age aqui); PTH → ↑Ca²⁺; tiazídico → ↓excreção Ca²⁺. DC: ENaC (aldosterona → ↑Na⁺, ↓K⁺); AQP2 (ADH → ↑reabsorção de água).
-
-Hipercalemia + HAS + aldosterona baixa: Pensar em hipoaldosteronismo ou uso de poupadores de K⁺. SGLT2i (flozins): bloqueiam SGLT2 → glicosúria → ↓glicemia + efeito cardioprotetor/nefroprotetor.
+- **TCP:** reabsorve 65-70% de Na⁺; SGLT2 reabsorve toda glicose; NHE3 reabsorve HCO₃⁻
+- **ASE:** NKCC2 (bomba tripla Na/K/2Cl); impermeável à água; furosemida age aqui
+- **TCD:** NCC (tiazídico age aqui); PTH → ↑Ca²⁺; tiazídico → ↓excreção Ca²⁺
+- **DC:** ENaC (aldosterona → ↑Na⁺, ↓K⁺); AQP2 (ADH → ↑reabsorção de água)
+- **Hipercalemia + HAS + aldosterona baixa:** Pensar em hipoaldosteronismo ou uso de poupadores de K⁺
+- **SGLT2i (flozins):** bloqueiam SGLT2 → glicosúria → ↓glicemia + efeito cardioprotetor/nefroprotetor
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -166,5 +164,4 @@ Hipercalemia + HAS + aldosterona baixa: Pensar em hipoaldosteronismo ou uso de p
 | ENaC | SGLT2 | ENaC: DC, Na⁺ (aldosterona); SGLT2: TCP, Na⁺+glicose (gliflozins) |
 
 ### Frase-âncora para não esquecer
-
 > "A alça de Henle é a bomba de concentração do rim: o ramo espesso joga Na⁺ para fora sem levar água, criando o gradiente que vai concentrar a urina lá no ducto coletor — se a furosemida apaga essa bomba, o rim perde o poder de concentrar."

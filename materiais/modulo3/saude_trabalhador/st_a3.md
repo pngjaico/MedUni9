@@ -1,71 +1,166 @@
-# ST — Aula 3: Política Nacional de Saúde do Trabalhador (PNSTT)
+# ST — Aula 3: Vigilância em saúde do trabalhador e investigação do nexo
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+**Disciplina:** Saúde do trabalhador  
+**Módulo:** 3
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A Política Nacional de Saúde do Trabalhador e da Trabalhadora (PNSTT, Portaria 1.823/2012) é o marco regulatório da saúde ocupacional no **SUS**. A **Uninove** cobra os princípios, as redes de atenção (RENAST), os CEREST e a integração com a atenção básica. É essencial para questões de medicina preventiva e saúde coletiva.
+Vigilância em saúde do trabalhador (VISAT) transforma caso individual em ação coletiva.
+Esse raciocínio é muito cobrado em saúde coletiva e medicina preventiva.
+Na prática, ele evita repetir adoecimento no mesmo território produtivo.
+
+A VISAT integra cuidado clínico, notificação qualificada e intervenção no processo de trabalho.
+Sem esse ciclo, a rede trata consequências e deixa a causa ativa.
+Com esse ciclo, o serviço aprende e previne novos eventos.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
-
-
-
+- **Momento:** após a introdução da VISAT.
+- **O que mostrar:** ciclo identificar-investigar-notificar-intervir-monitorar.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Ciclo operacional da vigilância em saúde do trabalhador."
 
 ---
 
-## PNSTT — Princípios e Objetivos
+## VISAT: o que é e como funciona
 
-A PNSTT tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do **SUS** para o desenvolvimento da atenção integral à saúde do trabalhador. Princípios:
-- **Universalidade:** todo trabalhador, formal ou informal.
-- **Integralidade:** articula promoção, prevenção, assistência e reabilitação.
-- **Equidade:** prioriza populações mais vulneráveis (trabalhadores informais, rurais, domésticos).
-- **Territorialidade:** articulação com os serviços locais.
+A VISAT reúne ações para detectar, analisar e intervir em riscos relacionados ao trabalho.
+Ela articula vigilância epidemiológica, sanitária, ambiental e assistência.
+O objetivo é proteger trabalhadores e reduzir agravos evitáveis.
 
----
+Pilares operacionais:
 
-## RENAST — Rede Nacional de Atenção Integral à Saúde do Trabalhador
+- identificação de eventos sentinela;
+- análise territorial por atividade econômica;
+- investigação do processo produtivo;
+- recomendação de medidas de controle;
+- monitoramento da efetividade.
 
-A RENAST é a estratégia de organização e gestão das ações de saúde do trabalhador no **SUS**. Integra:
-- **CEREST** (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.
-- **Atenção Básica** — porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.
-- **Média e Alta Complexidade** — hospitais e serviços especializados.
-
-Os CEREST existem em nível estadual e regional, não têm porta de entrada para atendimento direto — são de suporte técnico e pedagógico.
-
-> **Dica de Prova:** CEREST não é porta de entrada. Atendimento do trabalhador começa na Atenção Básica (UBS/ESF). O CEREST faz suporte, capacitação e vigilância, mas não consultas de rotina.
+> **Dica de Prova:** questão com vários casos parecidos no mesmo setor sugere evento sentinela e ação de vigilância.
 
 ---
 
-## Vigilância em Saúde do Trabalhador (VISAT)
+## Nexo ocupacional: método para reduzir erro
 
-Conjunto de ações que visa:
-- Conhecer a realidade de saúde e doença dos trabalhadores.
-- Detectar e intervir nos processos produtivos que causam doenças.
-- Notificar e investigar os acidentes e doenças do trabalho (Comunicação de Acidente de Trabalho — CAT).
+Investigar nexo exige método clínico-ocupacional.
+Sem método, surgem registros frágeis e decisões inconsistentes.
 
-A CAT é obrigatória em todo acidente de trabalho, doença ocupacional ou trajeto. Emitida pelo empregador ou pelo próprio trabalhador/médico.
+Roteiro prático:
+
+1. cronologia de exposição e sintomas;
+2. descrição da tarefa crítica e do agente;
+3. relação melhora-piora com jornada, folga e férias;
+4. presença de colegas com sintomas semelhantes;
+5. diferenciais não ocupacionais relevantes;
+6. conclusão com grau de probabilidade.
+
+> **Pegadinha:** não haver CAT prévia não invalida suspeita de doença relacionada ao trabalho.
+
+---
+
+## Agravos frequentes na vigilância
+
+| Agravo | Exposição típica | Sinal de nexo | Conduta inicial |
+|--------|------------------|---------------|-----------------|
+| PAIR | ruído ocupacional crônico | piora auditiva bilateral progressiva | reduzir exposição e seguir vigilância |
+| Dermatite ocupacional | químicos irritantes e sensibilizantes | melhora parcial em afastamento | tratar pele e revisar barreiras |
+| Asma ocupacional | poeiras e vapores | piora no turno e melhora em folga | manejo respiratório e controle ambiental |
+| LER/DORT | repetição e força | dor progressiva com tarefa | analgesia funcional e intervenção ergonômica |
+| Transtorno mental relacionado ao trabalho | assédio, metas abusivas | sintomas vinculados ao contexto laboral | acolhimento e plano multiprofissional |
+
+Tabela de agravos ajuda a banca a cobrar diferenciação entre causalidade ocupacional provável e hipótese inespecífica.
+
+---
+
+## Registro e notificação com qualidade
+
+Notificar não é burocracia.
+É parte da conduta e orienta decisão sanitária territorial.
+A qualidade do registro define a qualidade da vigilância.
+
+No prontuário, registrar:
+
+- função e ocupação atual;
+- agente e via de exposição;
+- tempo e intensidade da exposição;
+- padrão temporal dos sintomas;
+- hipótese de nexo e conduta adotada.
+
+Registros genéricos enfraquecem continuidade de cuidado e reduzem capacidade de intervenção coletiva.
+
+---
+
+## Rede de cuidado: APS, vigilância e CEREST
+
+APS costuma ser a principal porta de entrada para casos não graves.
+Vigilância municipal organiza investigação territorial e resposta intersetorial.
+CEREST oferece suporte técnico, formação e articulação regional.
+
+### Tabela útil: papel de cada ponto da rede
+
+| Ponto da rede | Função central | Limite comum |
+|---------------|----------------|--------------|
+| UBS/ESF | cuidado longitudinal e suspeição de nexo | subregistro de ocupação |
+| Vigilância municipal | análise e intervenção no território | baixa integração com assistência |
+| CEREST | apoio técnico e educação permanente | expectativa de função ambulatorial direta |
+| Atenção especializada | confirmação diagnóstica e reabilitação | pouca devolutiva para APS |
+
+---
+
+## Conduta inicial em cenários recorrentes
+
+**Intoxicação leve por químico:**
+
+- interromper exposição imediatamente;
+- avaliar sinais de gravidade;
+- tratar suporte clínico;
+- documentar e sinalizar vigilância.
+
+**Lombalgia ocupacional sem bandeira vermelha:**
+
+- manejo da dor e orientação funcional;
+- evitar imobilização prolongada;
+- revisar carga e ergonomia da tarefa;
+- planejar retorno protegido.
+
+**Sofrimento psíquico relacionado ao trabalho:**
+
+- acolher sem culpabilização;
+- avaliar risco de autoagressão;
+- iniciar manejo em saúde mental;
+- articular cuidado multiprofissional.
+
+### Figura sugerida
+
+**Figura-ID:** `ST-A3-F02`
+
+- **Momento:** após cenários de conduta.
+- **O que mostrar:** painel comparativo com gatilho clínico, ação imediata e ação de vigilância.
+- **Tipo sugerido:** infográfico.
+- **Legenda (rascunho):** "Conduta inicial e desdobramento vigilante por tipo de agravo."
+
+---
+
+## Ponte com a Clínica
+
+Em uma UBS, três trabalhadores de frigorífico procuram atendimento em duas semanas com dor em punho e parestesia noturna.
+A leitura isolada trataria cada um com analgesia e afastamento curto.
+A leitura vigilante identifica padrão setorial, orienta intervenção ergonômica coletiva e melhora desfecho.
+Esse é o núcleo prático da VISAT: aprender com repetição para evitar novos casos.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **PNSTT:** universal (formal + informal), integral, equânime.
-- **RENAST:** rede SUS para saúde do trabalhador.
-- **CEREST:** suporte técnico, não porta de entrada.
-- **Atenção Básica (ESF):** porta de entrada do trabalhador no SUS.
-- **CAT:** Comunicação de Acidente de Trabalho — obrigatória.
-- **VISAT:** vigilância dos processos produtivos e agravos.
+- VISAT integra clínica, território e prevenção coletiva;
+- nexo ocupacional exige cronologia, exposição e coerência;
+- registro qualificado aumenta força da vigilância;
+- APS, vigilância e CEREST têm papéis complementares;
+- caso sentinela deve gerar ação além do cuidado individual.
 
 ---
 
@@ -75,22 +170,26 @@ A CAT é obrigatória em todo acidente de trabalho, doença ocupacional ou traje
 
 ### Síntese para a prova
 
+VISAT é competência de raciocínio aplicado.
+Na prova, você precisa mostrar que sabe sair do sintoma individual para hipótese de risco coletivo.
+A sequência de maior valor é: cuidar, investigar exposição, registrar bem, notificar e intervir no território.
 
-PNSTT: Portaria 1.823/2012; universal, integral, equitativo. RENAST: rede integrando CEREST + UBS + hospitais.
+Nexo ocupacional não depende de um único dado.
+Ele se fortalece quando cronologia, tarefa e padrão coletivo apontam na mesma direção.
+Quanto melhor o registro clínico-ocupacional, maior a capacidade da rede em prevenir recorrência.
 
-CEREST: suporte técnico, NÃO é porta de entrada. ESF: identifica e notifica agravos ocupacionais.
-
-CAT: obrigatória em todo acidente, doença ou trajeto.
+Lembre que CEREST é suporte técnico da rede.
+Ele não substitui a porta de entrada assistencial da APS.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| CEREST | UBS | CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador |
-| RENAST | PNSTT | RENAST: rede de serviços; PNSTT: política (princípios e diretrizes) |
-| Acidente de trabalho | Doença ocupacional | Acidente: evento súbito; doença: processo gradual |
-| CAT | SINAN | CAT: acidente de trabalho (previdência); SINAN: agravos de notificação (saúde pública) |
+| Caso isolado | Evento sentinela | evento sentinela sugere risco coletivo |
+| Nexo temporal | Causalidade confirmada | temporalidade ajuda, mas não basta sozinha |
+| Notificação | Cuidado clínico | são complementares e simultâneos |
+| CEREST | UBS/ESF | CEREST apoia tecnicamente; UBS atende longitudinalmente |
 
 ### Frase-âncora para não esquecer
 
-> "CEREST é consultor, não médico — quem atende é a UBS; o CEREST ensina e vigia."
+> "Sem vigilância, o caso volta; com vigilância, o território muda."

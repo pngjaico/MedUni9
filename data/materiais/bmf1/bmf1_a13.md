@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Saber **nome**, **origem**, **inserção**, **ação** e **innervação** dos principais grupos musculares permite **palpação** segura, **teste de força** por **segmento** (MRC) e **entender** padrões de **lesão** (manguito, adutores, isquiotibiais). Esta aula organiza a **prática** em **compartimentos** — não lista infinita — e liga **movimento** a **nervo** e **nível** raquidiano quando útil para **prova** integrada.
+Saber o **Nome**, **Ação** e **Inervação** dos músculos permite realizar um exame físico preciso. Para a prova, não decore listas; entenda os **Compartimentos** e quais nervos os comandam (ex: **Radial** para extensores). Na prática, quadros como o **Manguito Rotador** e a **Marcha Escavante** (pé caído) são os grandes favoritos das bancas de anatomia clínica.
 
 
 ### Figura sugerida
@@ -47,26 +47,26 @@ Saber **nome**, **origem**, **inserção**, **ação** e **innervação** dos pr
 
 ## Membro superior: manguito e deltoide
 
-| Músculo | Rotação do ombro | Nervo |
-|---------|------------------|-------|
-| Supraespinhal | Abdução iniciada (0–15°) | Supraescapular |
-| Infraespinhal | Rotação lateral | Supraescapular |
-| Redondo menor | Rotação lateral | Axilar |
-| Subescapular | Rotação medial | Subescapular |
-| Deltoide | Abdução principal | Axilar |
+| Músculo do Manguito | Função no Ombro | Nervo Responsável |
+|---------------------|-----------------|-------------------|
+| **Supraespinhal** | Inicia Abdução | Supraescapular |
+| **Infraespinhal** | Rotação Lateral | Supraescapular |
+| **Redondo Menor** | Rotação Lateral | Axilar |
+| **Subescapular** | Rotação Medial | Subescapular |
+| **Deltoide** | Abdução Principal | Axilar |
 
-**Lesão** do **axilar** pode afetar **deltoide** e **sensibilidade** lateral do braço — **mapa** neuro ajuda na **semiologia**.
+O **Manguito Rotador** estabiliza a cabeça do úmero na glenoide. A fraqueza no **Supraespinhal** é a causa mais comum de dor crônica no ombro do adulto.
 
 ---
 
 ## Braço e antebraço: flexores vs extensores
 
-| Compartimento | Exemplo | Nervo principal |
-|-----------------|---------|-----------------|
-| Anterior braço | Bíceps, braquial | Musculocutâneo (bíceps), radial (braquial) |
-| Posterior braço | Tríceps | Radial |
-| Flexores antebraço (superficial) | Carpos radiais, palmar longo | Mediano (maioria) + ulnar (FCU) |
-| Extensores antebraço | Extensores dos dedos | Radial |
+| Membro Superior | Nervo Dominante | Ação Perdida na Lesão |
+|-----------------|------------------|-----------------------|
+| **Braço Anterior**| **Musculocutâneo**| Flexão do Cotovelo |
+| **Braço Posterior**| **Radial** | Extensão do Cotovelo |
+| **Antebr. Post.** | **Radial** | **Mão Caída** (Extensão) |
+| **Antebr. Ant.** | **Mediano / Ulnar** | Flexão de Punho/Dedos |
 
 ---
 
@@ -85,24 +85,15 @@ Saber **nome**, **origem**, **inserção**, **ação** e **innervação** dos pr
 
 ## Coxa: compartimento anterior / medial / posterior
 
-| Compartimento | Função global | Observação |
-|---------------|---------------|------------|
-| Anterior | Flexão joelho (exceto TFL), extensão quadril (reto femoral) | Nervo femoral |
-| Medial | Adução | Obturador + ramos do femoral |
-| Posterior | Extensão joelho + extensão quadril | Ciático (tibial + fibular comum) |
+| Segmento Inferior | Nervo Principal | "Gatilho" Clínico |
+|-------------------|------------------|--------------------|
+| **Coxa Anterior** | **Femoral** | Extensão do Joelho |
+| **Coxa Medial** | **Obturador** | Adução da Coxa |
+| **Coxa Posterior** | **Ciático** | Flexão do Joelho |
+| **Perna Anterior** | **Fibular Profundo**| **Pé Caído** (Dorsiflexão)|
+| **Perna Posterior** | **Tibial** | Ponta do pé (Flexão) |
 
----
-
-## Perna e pé: músculos que caem em prova
-
-| Região | Músculos | Innervação |
-|--------|----------|------------|
-| Anterior da perna | Tibial anterior, extensor longo dos dedos | Fibular profundo |
-| Lateral | Fibulares longo e curto | Fibular superficial |
-| Superficial posterior | Gastrocnêmio, sóleo | Tibial |
-| Profundo posterior | Tibial posterior, flexor longo | Tibial |
-
-**Queda do pé** (equino) + **marcha** em **steppage** → **fibular** comum (trauma de cabeça de fíbula, postura prolongada).
+**Marcha Escavante (Steppage):** Ocorre na lesão do **Nervo Fibular Comum**. O paciente não consegue levantar o pé e tropeça na própria ponta dos dedos.
 
 ---
 
@@ -114,31 +105,18 @@ Saber **nome**, **origem**, **inserção**, **ação** e **innervação** dos pr
 
 ## Pontos-Chave para Prova
 
-- Manguito do ombro: **quatro** músculos + **nervos**.
-- Compartimentos da **coxa** e **innervação** geral.
-- **Fibular** vs **tibial** na **perna** — **queda** do pé e **inversão/eversão**.
-- Relação **prática** entre **nível** raquidiano e **teste** motor (visão integrada).
+- **Diafragma:** Principal músculo respiratório. Inervado pelo **Nervo Frênico** (C3-C5).
+- **Glúteo Médio:** Estabiliza a pelve. Sua fraqueza causa a **Marcha de Trendelenburg**.
+- **Quadríceps:** Formado por 4 ventres. O **Reto Femoral** é o único que também flexiona o quadril.
+- **Tríceps Sural:** Gastrocnêmios + Sóleo. Inserem-se no Calcâneo pelo **Tendão de Aquiles**.
+- **Músculos da Mastigação:** Temporal e Masseter. Inervados pelo **Trigemio (V3)**.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Diferença entre **ação** do **músculo** e **movimento** da **articulação** em cadeia cinética.
-- **MRC 0–5** em **grupo** muscular (não “força boa”).
-- **Manguito** e **deltoide** — **por que** ombro se **lesiona** com **queda** em **abdução**.
-- **Ciático** na **coxa** → **ramos** na **perna** (tibial e fibular).
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Lesão de raiz | Lesão de nervo periférico | Padrão **myotomal** vs **compartimento** |
-| Tendinite | Ruptura | Lacuna de **força** com **teste** específico |
-| Fraqueza | Dor limitante | **Teste** isométrico sem **arco** completo |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Nervo Radial** | **Nervo Mediano** | Extensores vs Flexores (Mão) |
+| **Nervo Femoral** | **Nervo Obturador** | Extensão Joelho vs Adução Coxa |
+| **Supraespinhal** | **Deltoide** | Início da abdução vs Abdução total |
+| **Agonista** | **Antagonista** | Faz o movimento vs Se opõe a ele |
 
 ### Frase-âncora para não esquecer
 

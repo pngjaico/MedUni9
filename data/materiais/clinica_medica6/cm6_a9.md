@@ -12,6 +12,17 @@ A **prova de função pulmonar (PFP)** traduz a **mecânica respiratória** e as
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A9-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Indicações principais
 
 | Situação | Por que pedir PFP |
@@ -103,13 +114,13 @@ Paciente **fumante** com dispneia: **espirometria** é rápida e barata — mas 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Definição de **VEF1**, **CVF**, **relação VEF1/CVF**.  
-- Obstrutivo versus restritivo — **uma frase cada**.  
-- Papel do **broncodilatador**.  
-- **DLCO** — quando pensar fibrose versus enfisema.  
-- Indicações: **dispneia**, **asma/DPOC**, **pré-op**.
+Definição de VEF1, CVF, relação VEF1/CVF. Obstrutivo versus restritivo — uma frase cada.
+
+Papel do broncodilatador. DLCO — quando pensar fibrose versus enfisema.
+
+Indicações: dispneia, asma/DPOC, pré-op.
 
 ### Diferenciações que a Uninove adora cobrar
 

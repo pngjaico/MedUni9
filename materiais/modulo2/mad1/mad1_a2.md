@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A **imunidade inata** é a primeira barreira do organismo — responde em minutos, sem necessidade de exposição prévia ao patógeno. Ela reconhece padrões moleculares conservados nos microrganismos (PAMPs) por meio de receptores de reconhecimento de padrões (PRRs), como os receptores Toll-like (TLRs). Sem ela, infecções simples seriam letais antes que a **imunidade adaptativa** tivesse tempo de agir.
+A imunidade inata é a primeira barreira do organismo — responde em minutos, sem necessidade de exposição prévia ao patógeno. Ela reconhece padrões moleculares conservados nos microrganismos (PAMPs) por meio de receptores de reconhecimento de padrões (PRRs), como os receptores Toll-like (TLRs). Sem ela, infecções simples seriam letais antes que a imunidade adaptativa tivesse tempo de agir.
 
-Do ponto de vista acadêmico e clínico, entender a **imunidade inata** é essencial para compreender sepse, inflamação, febre, e por que certos pacientes — como neonatos ou imunossuprimidos — são mais vulneráveis a infecções oportunistas. A **Uninove** frequentemente cobra os componentes celulares e humorais da inata e o sistema complemento em questões de caso clínico.
+Do ponto de vista acadêmico e clínico, entender a imunidade inata é essencial para compreender sepse, inflamação, febre, e por que certos pacientes — como neonatos ou imunossuprimidos — são mais vulneráveis a infecções oportunistas. A Uninove frequentemente cobra os componentes celulares e humorais da inata e o sistema complemento em questões de caso clínico.
 
 ### Figura sugerida
 
@@ -114,7 +114,7 @@ Depois: **C5 convertase → C5b + C5a** → formação do **MAC (C5b-9)** → li
 > **Pegadinha clássica:** C3b opsoniza → facilita fagocitose por neutrófilos e macrófagos. Paciente com deficiência de C3 tem infecções recorrentes por TODAS as bactérias. Deficiência de C5-C9 → apenas *Neisseria*.
 
 ### Proteínas de Fase Aguda
-Produzidas pelo fígado em resposta a **IL-6**:
+Produzidas pelo fígado em resposta a IL-6:
 - **PCR (Proteína C-Reativa):** opsonina; marcador clínico de inflamação
 - **Fibrinogênio:** coagulação; eleva VHS
 - **Ferritina:** sequestra ferro (priva bactérias)
@@ -172,17 +172,18 @@ Sequência:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **PAMPs → PRRs (TLRs):** TLR4 reconhece LPS (Gram-negativa); TLR2 reconhece ácido lipoteicóico (Gram-positiva)
+- **Neutrófilo:** 1ª célula no foco; burst oxidativo; vida curta nas tecidos
+- **Macrófago:** fagocita + apresenta Ag via MHC II + produz IL-1, IL-6, TNF-α
+- **NK:** mata células sem MHC-I (vírus e cânceres) — "missing self"
+- **Complemento:** C3b opsoniza; C3a/C5a = anafilatoxinas; MAC = lise
+- **PCR:** marcador de inflamação produzido pelo fígado em resposta à IL-6
+- **Mastócito + IgE:** hipersensibilidade tipo I (anafilaxia)
 
-
-PAMPs → PRRs (TLRs): TLR4 reconhece LPS (Gram-negativa); TLR2 reconhece ácido lipoteicóico (Gram-positiva). Neutrófilo: 1ª célula no foco; burst oxidativo; vida curta nas tecidos. Macrófago: fagocita + apresenta Ag via MHC II + produz IL-1, IL-6, TNF-α.
-
-NK: mata células sem MHC-I (vírus e cânceres) — "missing self". Complemento: C3b opsoniza; C3a/C5a = anafilatoxinas; MAC = lise. PCR: marcador de inflamação produzido pelo fígado em resposta à IL-6.
-
-Mastócito + IgE: hipersensibilidade tipo I (anafilaxia).
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -195,13 +196,4 @@ Mastócito + IgE: hipersensibilidade tipo I (anafilaxia).
 | Eosinofilia | Neutrofilia | Eosinofilia = parasitas/alergia; Neutrofilia = infecção bacteriana aguda |
 
 ### Frase-âncora para não esquecer
-
 > "A inata é o segurança da porta: reconhece o crachá errado (PAMP) e age imediatamente — sem precisar consultar a lista VIP da adaptativa."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

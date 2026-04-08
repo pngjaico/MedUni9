@@ -141,17 +141,15 @@ Rastrear cognição no idoso em consulta de rotina com MEEM leva menos de 5 minu
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Afasia de Broca: fala não fluente, compreensão OK, F3 esquerdo. Afasia de Wernicke: fala fluente mas sem sentido, compreensão ruim, T1 esquerdo.
-
-MEEM: 30 pontos, corte ≥24 (ajuste por escolaridade). Delirium: início agudo, flutuante, causa orgânica aguda — reversível.
-
-Korsakoff: amnésia anterógrada + confabulação + tiamina — irreversível. Apraxia = praxias normais mas não executa gesto → lesão parietal.
+- **Afasia de Broca:** fala não fluente, compreensão OK, F3 esquerdo.
+- **Afasia de Wernicke:** fala fluente mas sem sentido, compreensão ruim, T1 esquerdo.
+- **MEEM:** 30 pontos, corte ≥24 (ajuste por escolaridade).
+- **Delirium:** início agudo, flutuante, causa orgânica aguda — reversível.
+- **Korsakoff:** amnésia anterógrada + confabulação + tiamina — irreversível.
+- **Apraxia = praxias normais mas não executa gesto → lesão parietal.**
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -163,5 +161,4 @@ Korsakoff: amnésia anterógrada + confabulação + tiamina — irreversível. A
 | Apraxia ideomotora | Paralisia | Motricidade OK na paralisia; apraxia: movimento específico falha |
 
 ### Frase-âncora para não esquecer
-
 > "Broca faz, não fala. Wernicke fala, não faz sentido. Um está preso, o outro está perdido."

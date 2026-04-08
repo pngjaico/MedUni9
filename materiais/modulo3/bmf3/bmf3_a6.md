@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Fígado e pâncreas são glândulas essenciais para digestão e metabolismo. A histologia desses órgãos é cobrada diretamente em questões sobre hepatite, cirrose, pancreatite e diabetes. Identificar o lóbulo hepático clássico, os ácinos pancreáticos e a estrutura da vesícula biliar são competências esperadas nas avaliações da **Uninove**.
+Fígado e pâncreas são glândulas essenciais para digestão e metabolismo. A histologia desses órgãos é cobrada diretamente em questões sobre hepatite, cirrose, pancreatite e diabetes. Identificar o lóbulo hepático clássico, os ácinos pancreáticos e a estrutura da vesícula biliar são competências esperadas nas avaliações da Uninove.
 
 ### Figura sugerida
 
@@ -155,17 +155,17 @@ Na cirrose hepática, a ativação crônica das **células de Ito** por agressã
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Tríade portal: artéria hepática + veia porta + ducto biliar (nos ângulos do hexágono hepático). VCL: no centro do lóbulo clássico; sangue flui da tríade → VCL; bile flui VCL → tríade (sentidos opostos). Célula de Kupffer: macrófago hepático (fagocita bactérias/eritrócitos velhos).
-
-Célula de Ito: armazena vitamina A; ativada → colágeno → cirrose. Zona 3 (centrolobular): mais vulnerável à isquemia/necrose por álcool/paracetamol. Células centroacinosas: exclusivas do pâncreas (no interior do ácino).
-
-Ilhotas: β-centro (insulina), α-periferia (glucagon). Vesícula: epitélio colunar concentrador, sem submucosa, seios de Rokitansky-Aschoff.
+- **Tríade portal:** artéria hepática + veia porta + ducto biliar (nos ângulos do hexágono hepático)
+- **VCL:** no centro do lóbulo clássico; sangue flui da tríade → VCL; bile flui VCL → tríade (sentidos opostos)
+- **Célula de Kupffer:** macrófago hepático (fagocita bactérias/eritrócitos velhos)
+- **Célula de Ito:** armazena vitamina A; ativada → colágeno → cirrose
+- **Zona 3 (centrolobular):** mais vulnerável à isquemia/necrose por álcool/paracetamol
+- **Células centroacinosas:** exclusivas do pâncreas (no interior do ácino)
+- **Ilhotas:** β-centro (insulina), α-periferia (glucagon)
+- **Vesícula:** epitélio colunar concentrador, sem submucosa, seios de Rokitansky-Aschoff
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -177,5 +177,4 @@ Ilhotas: β-centro (insulina), α-periferia (glucagon). Vesícula: epitélio col
 | Lóbulo clássico | Ácino de Rappaport | Clássico = hexágono com VCL no centro; Rappaport = eixo porta-arterial com zonas 1-2-3 |
 
 ### Frase-âncora para não esquecer
-
 > "No fígado, o sangue e a bile são rios que correm ao contrário: o sangue entra pela tríade e sai pela veia central; a bile nasce nos hepatócitos e drena para a tríade."

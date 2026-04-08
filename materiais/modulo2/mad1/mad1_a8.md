@@ -4,7 +4,7 @@
 
 A tolerância imunológica é o mecanismo pelo qual o sistema imune aprende a não atacar os próprios tecidos — é o oposto da resposta imune. Quando essa tolerância falha, o resultado são as doenças autoimunes, que afetam ~5% da população e representam uma das principais causas de morbidade crônica. Lúpus eritematoso sistêmico, artrite reumatoide, diabetes mellitus tipo 1, esclerose múltipla e doença de Hashimoto são todas consequências da autoimunidade.
 
-O tema é relevante tanto para a prática clínica quanto para o ENEM e residências médicas. A **Uninove** frequentemente cobra os mecanismos de tolerância (central vs. periférica), os fatores que induzem autoimunidade e as doenças autoimunes mais prevalentes.
+O tema é relevante tanto para a prática clínica quanto para o ENEM e residências médicas. A Uninove frequentemente cobra os mecanismos de tolerância (central vs. periférica), os fatores que induzem autoimunidade e as doenças autoimunes mais prevalentes.
 
 ### Figura sugerida
 
@@ -43,7 +43,7 @@ Ocorre nos **órgãos linfoides primários** durante o desenvolvimento do linfó
 
 ## Tolerância Periférica
 
-Mecanismos para lidar com linfócitos autorreativos que escapam da **tolerância central**:
+Mecanismos para lidar com linfócitos autorreativos que escapam da tolerância central:
 
 | Mecanismo | Descrição |
 |---|---|
@@ -134,17 +134,17 @@ Mecanismos para lidar com linfócitos autorreativos que escapam da **tolerância
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Tolerância central:** timo (T) e medula óssea (B) — elimina/inativa autorreativos
+- **AIRE:** expressa auto-Ag no timo; mutação → APECED (poliendocrinopatia)
+- **Tregs:** CD4+CD25+FoxP3+ → IL-10 + TGF-β → supressão; FoxP3 mutado → IPEX
+- **Mimetismo molecular:** *Streptococcus* → febre reumática; *Campylobacter* → Guillain-Barré
+- **Anti-dsDNA:** específico para LES + marcador de atividade
+- **C3/C4 baixos em LES:** consumo pelo complemento via imunocomplexos
 
-
-Tolerância central: timo (T) e medula óssea (B) — elimina/inativa autorreativos. AIRE: expressa auto-Ag no timo; mutação → APECED (poliendocrinopatia).
-
-Tregs: CD4+CD25+FoxP3+ → IL-10 + TGF-β → supressão; FoxP3 mutado → IPEX. Mimetismo molecular: *Streptococcus* → febre reumática; *Campylobacter* → Guillain-Barré.
-
-Anti-dsDNA: específico para LES + marcador de atividade. C3/C4 baixos em LES: consumo pelo complemento via imunocomplexos.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -157,13 +157,4 @@ Anti-dsDNA: específico para LES + marcador de atividade. C3/C4 baixos em LES: c
 | Graves | Hashimoto | Graves: IgG estimula TSHr → hipertireoidismo; Hashimoto: destruição inflamatória → hipotireoidismo |
 
 ### Frase-âncora para não esquecer
-
 > "Tolerância é a escola do sistema imune: o timo ensina (central) e a periferia pune quem burla as regras (anergia, Treg). Quando a escola falha, o sistema vira contra si mesmo — autoimunidade."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

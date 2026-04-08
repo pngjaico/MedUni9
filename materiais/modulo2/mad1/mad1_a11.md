@@ -4,7 +4,7 @@
 
 Entender a estrutura bacteriana é o alicerce para compreender como os antibióticos funcionam, por que certos microrganismos são mais virulentos e como o sistema imune os reconhece. A parede celular, as fímbrias, as cápsulas e os flagelos não são detalhes acadêmicos — são alvos terapêuticos e determinantes de patogenicidade.
 
-A **Uninove** cobra muito a diferença entre Gram-positivas e Gram-negativas (estrutura de parede, coloração, componentes), os mecanismos de resistência bacteriana e o metabolismo dos microrganismos em relação ao oxigênio. Questões de microbiologia frequentemente partem da coloração de Gram para orientar a escolha antibiótica.
+A Uninove cobra muito a diferença entre Gram-positivas e Gram-negativas (estrutura de parede, coloração, componentes), os mecanismos de resistência bacteriana e o metabolismo dos microrganismos em relação ao oxigênio. Questões de microbiologia frequentemente partem da coloração de Gram para orientar a escolha antibiótica.
 
 ### Figura sugerida
 
@@ -151,17 +151,17 @@ Componente exclusivo de Gram-negativas:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Gram+:** violeta, peptidoglicana espessa; **Gram−:** rosa, membrana externa + LPS
+- **LPS / lipídio A:** endotoxina → TLR4 → choque séptico (Gram-negativas)
+- **Cápsula:** anti-fagocitária; vacinas conjugadas ensinam anticorpos anti-cápsula
+- **Esporolação:** *Clostridium* e *Bacillus*; não eliminados por álcool
+- **Exotoxina:** proteína específica termolábil → toxoide = vacina
+- **MRSA:** PBP2a → sem beta-lactâmico; tratar com vancomicina
 
-
-Gram+: violeta, peptidoglicana espessa; Gram−: rosa, membrana externa + LPS. LPS / lipídio A: endotoxina → TLR4 → choque séptico (Gram-negativas).
-
-Cápsula: anti-fagocitária; vacinas conjugadas ensinam anticorpos anti-cápsula. Esporolação: *Clostridium* e *Bacillus*; não eliminados por álcool.
-
-Exotoxina: proteína específica termolábil → toxoide = vacina. MRSA: PBP2a → sem beta-lactâmico; tratar com vancomicina.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -174,13 +174,4 @@ Exotoxina: proteína específica termolábil → toxoide = vacina. MRSA: PBP2a �
 | Cápsula | Fímbria | Cápsula = anti-fagocitária; Fímbria = adesão à mucosa |
 
 ### Frase-âncora para não esquecer
-
 > "Gram positiva fica roxa (violeta) porque tem parede grossa — como um muro de tijolos. Gram negativa fica rosa porque tem membrana extra fina com lipídio A escondido — o veneno que causa o choque séptico."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

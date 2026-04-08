@@ -1,0 +1,232 @@
+[
+  {
+    "id": 862,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Translocação balanceada t(9;22) pode ser assintomática no portador porque:",
+    "opcoes": [
+      "A) Não há perda líquida de material genético significativo no balanceamento.",
+      "B) Sempre causa deficiência intelectual.",
+      "C) Elimina todos os genes.",
+      "D) Apenas afeta RNA viral."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Translocação balanceada — risco de gametas desbalanceados na prole.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Balanceada — portador assintomático.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 863,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Síndrome de Wolf-Hirschhorn (4p-) é exemplo de:",
+    "opcoes": [
+      "A) Trissomia.",
+      "B) Microdeleção terminal do braço curto do cromossomo 4.",
+      "C) Aneuploidia do Y.",
+      "D) Triploidia."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Microdeleções — síndromes fenotípicas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 4p-.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 864,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Síndrome de DiGeorge (22q11.2) envolve tipicamente:",
+    "opcoes": [
+      "A) Apenas hipertensão.",
+      "B) Sem cardiopatia.",
+      "C) Defeitos do terceiro e quarto arcos branquiais, hipocalcemia e imunodeficiência.",
+      "D) Trissomia 21."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "22q11 — deleção; TAR, timo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 22q11.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 865,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Inversão paracentrômica envolve:",
+    "opcoes": [
+      "A) Apenas cromossomo Y.",
+      "B) Troca entre cromossomos não homólogos.",
+      "C) Segmento duplicado em tandem.",
+      "D) Dois pontos de quebra no mesmo cromossomo, sem incluir o centômero na região invertida."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Paracentrômica — sem centômero; pericêntrica inclui centômero.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Inversão paracentrômica.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 866,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Isocromossomo do braço longo do X [i(Xq)] pode causar:",
+    "opcoes": [
+      "A) Síndrome de Down.",
+      "B) Síndrome de Klinefelter.",
+      "C) Fenótipo similar a Turner por monossomia funcional do X.",
+      "D) Trissomia 18."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "i(Xq) — desequilíbrio X; fenótipo Turner-like.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: i(Xq).\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 867,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Cromossomo de Filadélfia é:",
+    "opcoes": [
+      "A) Deleção 5q.",
+      "B) Trissomia 8 isolada.",
+      "C) Monossomia 7.",
+      "D) Translocação t(9;22) formando oncogene BCR-ABL."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Ph — LMC; imatinibe.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Ph — t(9;22).\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 868,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "CNV (variação no número de cópias) pode ser detectada por:",
+    "opcoes": [
+      "A) Array-CGH ou sequenciamento comparando cobertura.",
+      "B) Apenas hemograma.",
+      "C) Gasometria.",
+      "D) ECG isolado."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "aCGH — CNV; WGS.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: CNV — array.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 869,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Síndrome cri-du-chat (5p-) caracteriza-se por:",
+    "opcoes": [
+      "A) Hipertrofia cardíaca neonatal obrigatória.",
+      "B) Miado de gato, deficiência intelectual e microcefalia.",
+      "C) Sempre leucemia.",
+      "D) Gigantismo."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Deleção 5p — cri-du-chat.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: 5p-.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 870,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Translocação de Robertson une:",
+    "opcoes": [
+      "A) Apenas autossexuais X e Y.",
+      "B) Dois telômeros de cromátides irmãs.",
+      "C) Dois cromossomos acrocêntricos (13,14,15,21,22) pelo centrômero.",
+      "D) DNA mitocondrial."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Rob(14;21) — risco Down em descendência.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Robertson — acrocêntricos.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 871,
+    "materia": "bcm1",
+    "tema": "bcm1_a15",
+    "enunciado": "Fusão gênica PML-RARA t(15;17) define:",
+    "opcoes": [
+      "A) LMC.",
+      "B) Linfoma folicular.",
+      "C) Neuroblastoma.",
+      "D) Leucemia promielocítica aguda tratável com ATRA."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "APL — t(15;17); ATRA/arsênico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: Ph.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: APL — t(15;17).\nA) INCORRETA. Incorreta: Ph.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

@@ -1,4 +1,4 @@
-# SUS — Aula 5: Pacto pela Vida
+# SUS — Aula 5: Pacto pela Vida, prioridades sanitárias e execução em rede
 
 **Disciplina:** Princípios e Diretrizes do SUS  
 **Módulo:** 1
@@ -7,114 +7,139 @@
 
 ## Relevância Clínica e Acadêmica
 
-O **Pacto pela Vida** organiza prioridades do Ministério da Saúde em torno de **resultados em saúde** e **redução de risco** em temas de alto impacto epidemiológico e social. Em prova, aparece ligado a **programas** (saúde do idoso, câncer de colo e mama, mortalidade materno-infantil, vigilância de doenças emergentes e endemias). O estudante precisa saber **o que é pactuação**, **quais metas simbólicas** se buscam e **como isso desce para APS e vigilância** — não apenas o nome dos programas.
-
+O **Pacto pela Saúde** (2006) veio para simplificar o SUS, substituindo as antigas NOBs e NOAS. Para a prova, domine os três componentes: **Pacto pela Vida** (metas de saúde), **Pacto em Defesa do SUS** (política e verba) e **Pacto de Gestão** (organização). Na clínica, esse pacto define por que o governo prioriza o pré-natal e o rastreamento de **Câncer de Colo e Mama** em vez de outras ações menos urgentes.
 
 ### Figura sugerida
 
 **Figura-ID:** `SUS-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a seção de relevância.
+- **O que mostrar:** diagrama simples de ciclo gestão-indicador-ação na APS-vigilância.
+- **Tipo sugerido:** infográfico didático.
+- **Legenda (rascunho):** prioridades sanitárias só funcionam quando viram rotina de rede.
+- **Notas (opcional):** enfatizar leitura rápida para revisão pré-prova.
 
 ---
 
-## O que é “pactuação” no SUS
+## O que significa pactuar no SUS
 
-**Pactuar** é combinar responsabilidades entre gestores federal, estaduais e municipais, em um processo de **negociação** com metas, indicadores e repasse condicionado a resultados (conforme o período e a regulamentação vigente). O **Pacto pela Vida** expressa **prioridades sanitárias** que atravessam redes de atenção: da APS ao hospital, passando pela vigilância.
+Pactuar é negociar responsabilidades entre entes federativos com metas, indicadores e monitoramento.  
+Não é anúncio político; é contrato de execução sanitária com consequências organizacionais.
 
-> **Dica de Prova:** Pacto **não substitui** princípios constitucionais; **operacionaliza** foco e monitoramento.
+Quando a pactuação é bem-feita, a rede sabe o que priorizar e como medir avanço.  
+Quando é fraca, as equipes trabalham sem norte comum e os indicadores pioram.
 
----
-
-## Eixos típicos do Pacto pela Vida (memorização útil)
-
-1. **Saúde do idoso** — promoção de autonomia, prevenção de quedas, vacinação, cuidado de crônicos, atenção à polifarmácia.
-2. **Controle do câncer de colo e mama** — rastreamento organizado com população-alvo definida, seguimento e garantia de tratamento.
-3. **Redução da mortalidade materna e infantil** — pré-natal, parto seguro, puericultura, aleitamento e vigilância de óbitos evitáveis.
-4. **Doenças emergentes e endemias** — resposta rápida, vigilância laboratorial e ações de controle vetorial/higiênico-sanitárias quando aplicável.
-
-> **Pegadinha:** “Rastrear sem tratar” não resolve: integralidade pressupõe **linha de cuidado completa** quando há alteração de rastreio.
+> **Dica de Prova:** pacto não substitui princípio constitucional; ele operacionaliza prioridade.
 
 ---
 
-## Relação com APS e vigilância
+O componente **Pacto pela Vida** define as prioridades nacionais. Se cair na prova, lembre-se destas 6 prioridades originais:
+1.  **Saúde do Idoso:** (Funcionalidade e quedas).
+2.  **Câncer de Colo e Mama:** (Redução da mortalidade).
+3.  **Mortalidade Infantil e Materna:** (Redução de óbitos evitáveis).
+4.  **Doenças Emergentes/Endemias:** (Dengue, Hanseníase, Malária, TB).
+5.  **Promoção da Saúde:** (Atividade física e alimentação).
+6.  **Atenção Básica (APS):** (Fortalecimento como porta de entrada).
 
-Na APS, o pacto aparece como **metas assistenciais** (ex.: cobertura vacinal, pré-natal adequado) e **lista de procedimentos** priorizados. Na vigilância, aparece como **monitoramento de indicadores**, **investigação de surtos** e **articulação intersetorial** (educação, assistência social, meio ambiente).
+### Tabela de raciocínio rápido por eixo
 
-| Área | Exemplo de ação pactuada |
-|------|-------------------------|
-| APS | pré-natal, hipertensão, diabetes, saúde bucal |
-| Vigilância | notificação, investigação, bloqueio vacinal |
-| Rede de urgência | reduzir mortes evitáveis por causa mal assistida |
-
----
-
-## Indicadores: leitura para prova
-
-Questões podem trazer **taxa de mortalidade infantil**, **cobertura de exame preventivo**, **óbitos maternos evitáveis**. Saiba interpretar: **numerador/denominador**, se é taxa ou proporção, e se o indicador mede **risco**, **carga** ou **desempenho do serviço**.
-
-### Exemplos rápidos (o que cada um “conta”)
-
-- **Mortalidade infantil (por mil nascidos vivos):** desfecho populacional; sensível a APS, saneamento e nutrição.
-- **Cobertura vacinal:** desempenho do programa e confiança da população.
-- **Óbito materno:** evento raro mas grave — exige investigação e ações de redução de risco obstétrico.
-
-Em prova, “melhorar indicador” quase sempre implica **ações combinadas** (APS + urgência + vigilância), não medida isolada.
+| Eixo Prioritário | Meta Sanitária Principal | Indicador de Monitoramento |
+|------------------|--------------------------|----------------------------|
+| **Saúde do Idoso** | Manter **funcionalidade** | Taxa de internação por quedas |
+| **Câncer (Colo/Mama)**| Detecção **Precoce** | Cobertura de **Papanicolau/Mamografia** |
+| **Materno-Infantil** | Reduzir **Mortalidade Evitável** | Proporção de **7 consultas de Pré-natal** |
+| **Endemias (Dengue)** | Controle de surtos | Índice de Infestação Predial (LIRAa) |
 
 ---
 
-## Onde o Pacto pela Vida se encaixa entre os pactos
+## APS, vigilância e gestão: tríade da execução
 
-O **Pacto pela Vida** traduz **prioridades sanitáveis** em metas. Ele convive com o **Pacto pela Saúde** (organização da assistência), o **Pacto pela Gestão** (governança e indicadores administrativos) e o **Pacto em Defesa do SUS** (fortalecimento e financiamento). Em prova, não confunda: **Vida** = **resultados em saúde**; **Gestão** = **capacidade de gerir**; **Defesa** = **sustentação política e financeira** do sistema.
+A **APS** é o braço operacional de proximidade com a população.  
+A vigilância oferece inteligência epidemiológica.  
+A gestão articula recursos, metas e avaliação.
 
-| Pacto | Foco típico |
-|-------|----------------|
-| Pacto pela Vida | mortalidade, rastreamento, idoso, vigilância de agravos |
-| Pacto pela Gestão | pactuação, PPI, metas de gestão |
-| Defesa do SUS | financiamento, controle social, equidade |
+Sem essa tríade, o pacto vira lista de intenções.  
+Com essa tríade, vira linha de cuidado efetiva.
+
+> **Pegadinha:** aumentar exame sem garantir tratamento não melhora desfecho de forma sustentável.
+
+---
+
+## Indicadores: como a banca costuma cobrar
+
+A banca pode apresentar taxa de mortalidade infantil, cobertura vacinal, proporção de pré-natal adequado ou rastreamento.  
+A pergunta quase sempre avalia se você entende o que o indicador mede e qual intervenção é plausível.
+
+### Erros frequentes na interpretação
+
+- Confundir indicador de processo com indicador de desfecho.
+- Propor intervenção hospitalocêntrica para problema claramente de APS.
+- Ignorar determinantes sociais em indicadores populacionais.
+
+### Microcaso 1
+
+Município eleva coleta de citologia, mas mantém alta taxa de câncer invasivo diagnosticado tardiamente.  
+A leitura correta é falha de continuidade: rastreou, mas não garantiu confirmação diagnóstica e tratamento oportuno.
+
+### Microcaso 2
+
+Cobertura vacinal infantil cai em área com alta rotatividade populacional.  
+Estratégia mais efetiva combina busca ativa territorial, sala de vacina acessível e comunicação comunitária.
+
+---
+
+## Financiamento e prioridade: o elo que define viabilidade
+
+Prioridade sem financiamento vira retórica.  
+No SUS, pactuação precisa conversar com orçamento, capacidade instalada e força de trabalho.
+
+A boa gestão alinha meta, recurso e logística.  
+A má gestão cria meta sem sustentação operacional.
+
+Isso cai em prova quando o enunciado descreve objetivo ambicioso sem estrutura mínima de execução.
+
+---
+
+## Relação com os demais pactos
+
+| Pacto | Foco | O que saber para a prova? |
+|-------|------|----------------------------|
+| **Pela Vida** | Saúde | Metas de **Mortalidade e Doenças** |
+| **Em Defesa do SUS**| Política | Luta por **Financiamento** e Direitos |
+| **De Gestão** | Máquina| Descentralização e Regionalização |
+
+**Dica de Prova:** O Pacto de Gestão unifica os repasses financeiros em **Blocos de Financiamento**, facilitando a vida do prefeito para usar o dinheiro.
 
 ---
 
 ## Ponte com a Clínica
 
-Ao acolher gestante sem pré-natal, você está diante de **falha de linha de cuidado** que o pacto tenta corrigir com **prioridade materno-infantil**. Ao revisar vacinas no idoso, você executa **prioridade do idoso**. O pacto “desce” para o consultório como **lista de verificação** e **responsabilidade compartilhada**.
+Uma gestante que inicia pré-natal tardiamente não é apenas caso individual.  
+Ela sinaliza falha de acesso, vínculo territorial e busca ativa, portanto falha de execução do pacto.
+
+Um idoso com múltiplas quedas sem plano integrado também expressa falha de rede.  
+A resposta clínica adequada depende de articulação multiprofissional e coordenação pela APS.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Pacto pela Vida:** prioridades nacionais com foco em resultados.
-- **Eixos:** idoso, câncer (colo/mama), materno-infantil, emergentes/endemias.
-- **Pactuação:** acordo entre gestores com metas e responsabilidades.
-- **APS + vigilância:** onde o pacto se materializa no cuidado cotidiano.
+- **Indicadores de Saúde:** São bússolas para a gestão. Ex: Se a **Mortalidade Infantil** está alta, a prefeitura deve investir mais em **Pré-natal**.
+- **Regionalização:** Organizar serviços por territórios para que ninguém precise viajar 500km para um exame.
+- **COAP:** Contrato de Ação Pública que formaliza as responsabilidades de cada ente.
+- **Redes de Atenção (RAS):** Integração de todos os níveis para o paciente não "se perder" no sistema.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-Pacto pela Vida agrega programas de alto impacto. Câncer de colo/mama: rastreamento + vínculo ao tratamento.
-
-Materno-infantil: mortes evitáveis com pré-natal/parto seguro. Idoso: prevenção de agravos e promoção de autonomia.
-
-Emergentes/endemias: resposta e vigilância.
-
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Meta de pacto | Direito individual isolado | Pacto é política coletiva com indicadores; direito é individual mas se efetiva no sistema. |
-| Rastreamento | Diagnóstico oportunista | Rastreamento é população assintomática definida; oportunista é “deu tempo, faz exame”. |
-| Vigilância | Apenas laboratório | Vigilância inclui ação em saúde pública, não só exame. |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Pacto pela Vida** | **Pacto de Gestão** | Saúde (Pessoas) vs Organização (Máquina) |
+| **Indicador** | **Meta** | Como medimos vs **Onde queremos chegar** |
+| **Mortalidade** | **Prevalência**| Mortes vs **Número de doentes atuais** |
+| **Pacto 2006** | **NOBs anteriores** | Bloco de Financiamento vs Pagamento por serviço |
 
 ### Frase-âncora para não esquecer
 
-> “Pacto é prioridade medida em vidas — não em slogan.”
+> "Pela Vida foca no paciente; De Gestão foca na rede; Em Defesa foca no direito."
+
+### Frase-âncora para não esquecer
+
+> "No Pacto pela Vida, meta só vale quando vira cuidado contínuo na rede."

@@ -1,0 +1,277 @@
+id,estado,nota,categoria,alias,pagina,ancora,urlImagem,titulo
+tf_citologia_001,pendente,,1_citologia,a11.jpg,citologia.html,a11,/data/histologia/atlas/1_citologia/recorte/histo_1_citologia_a11_recorte.jpg,A1 Raiz de cebola - HF — Intérfase - (a)
+tf_citologia_002,pendente,,1_citologia,a12.jpg,citologia.html,a12,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a12_zoom.jpg,A1 Raiz de cebola - HF — Prófase - (b)
+tf_citologia_003,pendente,,1_citologia,a13.jpg,citologia.html,a13,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a13_zoom.jpg,A1 Raiz de cebola - HF — Anáfase - (d)
+tf_citologia_004,pendente,,1_citologia,a14.jpg,citologia.html,a11,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a14_zoom.jpg,A1 Raiz de cebola - HF — Metáfase - (c)
+tf_citologia_005,pendente,,1_citologia,a21.jpg,citologia.html,a21,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a21_zoom.jpg,A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Eritrócitos (hemácias) - (seta)
+tf_citologia_006,pendente,,1_citologia,a22.jpg,citologia.html,a22,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a22_zoom.jpg,A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Leucócitos
+tf_citologia_007,pendente,,1_citologia,a23.jpg,citologia.html,a21,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a23_zoom.jpg,A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)
+tf_citologia_008,pendente,,1_citologia,a3.jpg,citologia.html,a3,/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a3_zoom.jpg,A3 - Sangue de Ave - May Grunwald-Giemsa (Romanovsky modificado)
+tf_embriologia_001,pendente,,18_embrionario,r1.jpg,embri.html,r1,/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_zoom.jpg,R1 - Placenta - HE — (Menor Aumento)
+tf_embriologia_002,pendente,,18_embrionario,r1-2.jpg,embri.html,r1-2,/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_2_zoom.jpg,R1 - Placenta - HE — (Médio Aumento)
+tf_embriologia_003,pendente,,18_embrionario,r1-3.jpg,embri.html,r1,/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_3_zoom.jpg,R1 - Placenta - HE — (Maior Aumento)
+tf_embriologia_004,pendente,,18_embrionario,r2.jpg,embri.html,r2,/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r2_zoom.jpg,R2 - Cordão umbilical - HE
+tf_epitelio_001,pendente,,2_epitelio,b1.jpg,epite.html,img1,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b1_zoom.jpg,B1 - Mesentério (PRATA) — Epitélio nitratado (células pavimentosas)
+tf_epitelio_002,pendente,,2_epitelio,b10.jpg,epite.html,b10,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_zoom.jpg,B15 - Ovário - HE — Epitélio simples cúbico - (A) ou
+tf_epitelio_003,pendente,,2_epitelio,b10-2.jpg,epite.html,b10,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_2_zoom.jpg,B15 - Ovário - HE — Epitélio simples pavimentoso - (B)
+tf_epitelio_004,pendente,,2_epitelio,b2.jpg,epite.html,img2,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b2_zoom.jpg,B2 - Células descamadas do epitélio oral — Núcleo central - (seta a)
+tf_epitelio_005,pendente,,2_epitelio,b3-2.jpg,epite.html,img6,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_2_zoom.jpg,"B3 - Pele Espessa, planta do pé - HE — Epitélio estratificado pavimentoso queratinizado - (a)"
+tf_epitelio_006,pendente,,2_epitelio,b3-4.jpg,epite.html,img8,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_4_zoom.jpg,"B3 - Pele Espessa, planta do pé - HE — Epitélio glandular exócrino (glândula sudorípara) - (c)"
+tf_epitelio_007,pendente,,2_epitelio,b3-5.jpg,epite.html,b3-5,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_5_zoom.jpg,"B4 - Pele Delgada, pavilhão da orelha - Mallory — Epitélio estratificado pavimentoso queratinizado - (a)"
+tf_epitelio_008,pendente,,2_epitelio,b4.jpg,epite.html,b4,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_zoom.jpg,B6- Esôfago (corte transversal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)
+tf_epitelio_009,pendente,,2_epitelio,b4-2.jpg,epite.html,img11,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_2_zoom.jpg,B5 - Esôfago (corte longitudinal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)
+tf_epitelio_010,pendente,,2_epitelio,b5.jpg,epite.html,b5,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b5_zoom.jpg,B7 - Traquéia - HE — Epitélio pseudo-estratificado cilíndrico ciliado
+tf_epitelio_011,pendente,,2_epitelio,b6.jpg,epite.html,b6,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_zoom.jpg,"B8 - Estômago (Fundo e corpo) - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)"
+tf_epitelio_012,pendente,,2_epitelio,b6-2.jpg,epite.html,b6-2,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_2_zoom.jpg,"B10- Jejuno-íleo - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)"
+tf_epitelio_013,pendente,,2_epitelio,b6-3.jpg,epite.html,b6-3,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_3_zoom.jpg,"B9 - Transição estômago-duodeno - HE — Epitélio simples cilíndrico (prismático, colunar)"
+tf_epitelio_014,pendente,,2_epitelio,b7.jpg,epite.html,b7,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_zoom.jpg,B12 - Bexiga - HE — Epitélio misto ou polimorfo - (a)
+tf_epitelio_015,pendente,,2_epitelio,b7-2.jpg,epite.html,b7-2,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_2_zoom.jpg,B11 - Ureter - HE — Epitélio misto ou polimorfo - (a)
+tf_epitelio_016,pendente,,2_epitelio,b8-2.jpg,epite.html,b8-2,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b8_2_zoom.jpg,B13 - Parótida - HE — Epitélio glandular exócrino
+tf_epitelio_017,pendente,,2_epitelio,b9.jpg,epite.html,b9,/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b9_zoom.jpg,B14- Tireóide - HE — Epitélio glandular endócrino (Epitélio cúbico simples) - (seta a)
+tf_pele_001,pendente,,11_pele,k1-1.jpg,pele.html,imgk1-1,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_1_zoom.jpg,"K1 - Pele, planta do pé - HE — Epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)"
+tf_pele_002,pendente,,11_pele,k1-2.jpg,pele.html,imgk1-2,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_2_zoom.jpg,"K1 - Pele, planta do pé - HE — Camadas da epiderme"
+tf_pele_003,pendente,,11_pele,k1-3.jpg,pele.html,imgk1-3,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_3_zoom.jpg,"K1 - Pele, planta do pé - HE — Derme Reticular - (5)"
+tf_pele_004,pendente,,11_pele,k1-4.jpg,pele.html,imgk1-4,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_4_zoom.jpg,"K1 - Pele, planta do pé - HE — Glândula sudorípara - (circundado)"
+tf_pele_005,pendente,,11_pele,k1-5.jpg,pele.html,imgk1-1,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_5_zoom.jpg,"K1 - Pele, planta do pé - HE — Derme Papilar - (seta longa)"
+tf_pele_006,pendente,,11_pele,k2-1.jpg,pele.html,k2-1,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_1_zoom.jpg,"K2 - Pele, pavilhão da orelha — Epiderme"
+tf_pele_007,pendente,,11_pele,k2-2.jpg,pele.html,k2-2,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_2_zoom.jpg,"K2 - Pele, pavilhão da orelha"
+tf_pele_008,pendente,,11_pele,k2-3.jpg,pele.html,k2-1,/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_3_zoom.jpg,"K2 - Pele, pavilhão da orelha — Derme (tecido conjuntivo Denso) - (1)"
+tf_conjuntivo_001,pendente,,3_conjuntivo,c10.jpg,conj.html,imgc10,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c10_zoom.jpg,C10 - Derme - HE — Tecido conjuntivo denso não modelado - (a)
+tf_conjuntivo_002,pendente,,3_conjuntivo,c11.jpg,conj.html,imgc11,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c11_zoom.jpg,C11 - Tecido Adiposo - HE — Tecido conjuntivo adiposo
+tf_conjuntivo_003,pendente,,3_conjuntivo,c1-04.jpg,conj.html,imgc3,/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c1_04.jpg,C1 - Processo infeccioso crônico - HE
+tf_conjuntivo_004,pendente,,3_conjuntivo,c1-1.jpg,conj.html,imgc2,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_1_zoom.jpg,C1 - Processo infeccioso crônico - HE
+tf_conjuntivo_005,pendente,,3_conjuntivo,c1-2.jpg,conj.html,imgc3,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_2_zoom.jpg,C1 - Processo infeccioso crônico - HE — Processo infeccioso crônico
+tf_conjuntivo_006,pendente,,3_conjuntivo,c1-3.jpg,conj.html,imgc1,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_3_zoom.jpg,C1 - Processo infeccioso crônico - HE
+tf_conjuntivo_007,pendente,,3_conjuntivo,c2.jpg,conj.html,imgc21,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_zoom.jpg,C2 - Granuloma de corpo estranho - HE — Granuloma de corpo estranho - (circundado)
+tf_conjuntivo_008,pendente,,3_conjuntivo,c2-2.jpg,conj.html,imgc21,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_2_zoom.jpg,C2 - Granuloma de corpo estranho - HE
+tf_conjuntivo_009,pendente,,3_conjuntivo,c3.jpg,conj.html,imgc31,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c3_zoom.jpg,C3 - Adenite tuberculosa - HE
+tf_conjuntivo_010,pendente,,3_conjuntivo,c4-1.jpg,conj.html,imgc41,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_1_zoom.jpg,C4 - Mesentério - Azul de toluidina
+tf_conjuntivo_011,pendente,,3_conjuntivo,c4-2.jpg,conj.html,imgq42,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_2_zoom.jpg,C4 - Mesentério - Azul de toluidina
+tf_conjuntivo_012,pendente,,3_conjuntivo,c5-1.jpg,conj.html,imgc51,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_1_zoom.jpg,C5 - Fígado - Coloração vital — Células de Kupffer
+tf_conjuntivo_013,pendente,,3_conjuntivo,c5-11.jpg,conj.html,imgc51,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_11_zoom.jpg,C5 - Fígado - Coloração vital
+tf_conjuntivo_014,pendente,,3_conjuntivo,c5-2.jpg,conj.html,imgc52,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_2_zoom.jpg,C5 - Fígado - Coloração vital
+tf_conjuntivo_015,pendente,,3_conjuntivo,c5-4.jpg,conj.html,imgc54,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_4_zoom.jpg,C5 - Fígado - Coloração vital
+tf_conjuntivo_016,pendente,,3_conjuntivo,c6-1.jpg,conj.html,imgc61,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_1_zoom.jpg,C6 - Artéria de calibre grande - Mallory — ARTÉRIA DE CALIBRE GRANDE
+tf_conjuntivo_017,pendente,,3_conjuntivo,c6-2.jpg,conj.html,imgc61,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_2_zoom.jpg,C6 - Artéria de calibre grande - Mallory
+tf_conjuntivo_018,pendente,,3_conjuntivo,c7-1.jpg,conj.html,imgc71,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_1_zoom.jpg,C7 - Artéria de calibre grande - Weigert
+tf_conjuntivo_019,pendente,,3_conjuntivo,c7-2.jpg,conj.html,imgc72,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_2_zoom.jpg,C7 - Artéria de calibre grande - Weigert — Mesentério - Lâminas elásticas
+tf_conjuntivo_020,pendente,,3_conjuntivo,c7-3.jpg,conj.html,imgc73,/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c7_3.jpg,C7 - Mesentério - Hart — Fibras elástica coradas em azul - (a)
+tf_conjuntivo_021,pendente,,3_conjuntivo,c7-4.jpg,conj.html,imgc73,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_4_zoom.jpg,C7 - Mesentério - Hart
+tf_conjuntivo_022,pendente,,3_conjuntivo,c8-1.jpg,conj.html,imgc81,/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c8_1.jpg,C8 - Fígado - Prata — Fibras reticulares e Colágenas
+tf_conjuntivo_023,pendente,,3_conjuntivo,c8-2.jpg,conj.html,imgc81,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c8_2_zoom.jpg,C8 - Fígado - Prata
+tf_conjuntivo_024,pendente,,3_conjuntivo,c9-1.jpg,conj.html,imgc91,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_1_zoom.jpg,C9 - Tendão - HE — Tecido conjuntivo denso modelado
+tf_conjuntivo_025,pendente,,3_conjuntivo,c9-2.jpg,conj.html,imgc92,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_2_zoom.jpg,C9 - Tendão - HE
+tf_conjuntivo_026,pendente,,3_conjuntivo,c9-3.jpg,conj.html,imgc91,/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_3_zoom.jpg,C9 - Tendão - HE
+se_cartilagem_001,pendente,,4_cartilagem,d1-1.jpg,cartilagem.html,img1-1,/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d1_1.jpg,D1 - Traqueia - HE — Cartilagem Hialina - HE
+se_cartilagem_002,pendente,,4_cartilagem,d1-2.jpg,cartilagem.html,img1-1,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d1_2_zoom.jpg,D1 - Traqueia - HE — Matriz
+se_cartilagem_003,pendente,,4_cartilagem,d2-01.jpg,cartilagem.html,imgd201,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_01_zoom.jpg,D2 - Pavilhão da orelha - Mallory — Cartilagem Elástica
+se_cartilagem_004,pendente,,4_cartilagem,d2-03.jpg,cartilagem.html,imgd201,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_03_zoom.jpg,D2 - Pavilhão da orelha - Mallory
+se_cartilagem_005,pendente,,4_cartilagem,d2-1.jpg,cartilagem.html,imgd22,/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d2_1.jpg,D2 - Pavilhão da orelha - Mallory
+se_cartilagem_006,pendente,,4_cartilagem,d3-01.jpg,cartilagem.html,imgd31,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_01_zoom.jpg,D3 - Menisco - HE
+se_cartilagem_007,pendente,,4_cartilagem,d3-02.jpg,cartilagem.html,imgd32,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_02_zoom.jpg,D3 - Menisco - HE
+se_cartilagem_008,pendente,,4_cartilagem,d3-03.jpg,cartilagem.html,imgd33,/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_03_zoom.jpg,D3 - Menisco - HE
+se_osso_001,pendente,,5_osso,e12.jpg,osso.html,e12,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e12_zoom.jpg,E1 - Osso compacto desgastado (corte transversal do fêmur)
+se_osso_002,pendente,,5_osso,e13.jpg,osso.html,e13,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e13_zoom.jpg,E1 - Osso compacto desgastado (corte transversal do fêmur) — Sistema de Havers (Osteon) - (c)
+se_osso_003,pendente,,5_osso,e2-1.jpg,osso.html,e2,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_1_zoom.jpg,E2 - Osso esponjoso desgastado(crânio) — Parte esponjosa:
+se_osso_004,pendente,,5_osso,e2-2.jpg,osso.html,e22,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_2_zoom.jpg,E2 - Osso esponjoso desgastado(crânio)
+se_osso_005,pendente,,5_osso,e3.jpg,osso.html,e3,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e3_zoom.jpg,E3 - Osso desmineralizado - HE
+se_osso_006,pendente,,5_osso,e32.jpg,osso.html,e32,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e32_zoom.jpg,E3 - Osso desmineralizado - HE
+se_osso_007,pendente,,5_osso,e4.jpg,osso.html,e4,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e4_zoom.jpg,E4 - Ossificação Endocondral -HE
+se_osso_008,pendente,,5_osso,e43.jpg,osso.html,e43,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e43_zoom.jpg,E4 - Ossificação Endocondral -HE
+se_osso_009,pendente,,5_osso,e5.jpg,osso.html,e5,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e5_zoom.jpg,E5 - Cabeça de feto- HE — Ossificação intramembramosa
+se_osso_010,pendente,,5_osso,e52.jpg,osso.html,e5,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e52_zoom.jpg,E5 - Cabeça de feto- HE
+se_osso_011,pendente,,5_osso,e6.jpg,osso.html,e6,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e6_zoom.jpg,E6 - Disco epifisário (cartilagem hialina)- HE — Ossificação endocondral
+se_osso_012,pendente,,5_osso,e62.jpg,osso.html,e6,/data/histologia/atlas/5_osso/zoom/histo_5_osso_e62_zoom.jpg,E6 - Disco epifisário (cartilagem hialina)- HE
+sm_histologia_001,pendente,,6_musculo,f1.jpg,musc.html,f1,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_zoom.jpg,"F1 - Língua, porção anterior - H.E / H.F — Músculo estriado esquelético"
+sm_histologia_002,pendente,,6_musculo,f1-2.jpg,musc.html,f12,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_2_zoom.jpg,"F1 - Língua, porção anterior - H.E / H.F"
+sm_histologia_003,pendente,,6_musculo,f1-3.jpg,musc.html,f1,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_3_zoom.jpg,"F1 - Língua, porção anterior - H.E / H.F"
+sm_histologia_004,pendente,,6_musculo,f2.jpg,musc.html,f2,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_zoom.jpg,F2 - Coração - H.E / H.F — Músculo estriado cardíaco
+sm_histologia_005,pendente,,6_musculo,f22.jpg,musc.html,f22,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f22_zoom.jpg,F2 - Coração - H.E / H.F
+sm_histologia_006,pendente,,6_musculo,f2-3.jpg,musc.html,f2,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_3_zoom.jpg,F2 - Coração - H.E / H.F
+sm_histologia_007,pendente,,6_musculo,f3.jpg,musc.html,f3,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f3_zoom.jpg,F3 - Útero - HE F3: Jejuno-íleo - HE — Músculo liso
+sm_histologia_008,pendente,,6_musculo,f32.jpg,musc.html,f3,/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f32_zoom.jpg,F3 - Útero - HE F3: Jejuno-íleo - HE
+sc_linfoide_001,pendente,,9_linfatico,l11.jpg,linfa.html,l11,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l11_zoom.jpg,I1 - Linfonodo - HE — Cápsula - (seta a)
+sc_linfoide_002,pendente,,9_linfatico,l12.jpg,linfa.html,l12,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l12_zoom.jpg,I1 - Linfonodo - HE
+sc_linfoide_003,pendente,,9_linfatico,l13.jpg,linfa.html,l11,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l13_zoom.jpg,I1 - Linfonodo - HE — Cortical (externa) - (*)
+sc_linfoide_004,pendente,,9_linfatico,l21.jpg,linfa.html,l21,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l21_zoom.jpg,I2 - Timo - HE — Cápsula - (1)
+sc_linfoide_005,pendente,,9_linfatico,l22.jpg,linfa.html,l21,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l22_zoom.jpg,I2 - Timo - HE — Lóbulos - (circundado)
+sc_linfoide_006,pendente,,9_linfatico,l31.jpg,linfa.html,l31,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l31_zoom.jpg,I3 - Baço - HE
+sc_linfoide_007,pendente,,9_linfatico,l32.jpg,linfa.html,l32,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l32_zoom.jpg,I3 - Baço - HE
+sc_linfoide_008,pendente,,9_linfatico,l33.jpg,linfa.html,l33,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l33_zoom.jpg,I3 - Baço - HE
+sc_linfoide_009,pendente,,9_linfatico,l41.jpg,linfa.html,l41,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l41_zoom.jpg,I4 - Tonsila palatina (amígdala) - HE
+sc_linfoide_010,pendente,,9_linfatico,l42.jpg,linfa.html,l42,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l42_zoom.jpg,I4 - Tonsila palatina (amígdala) - HE
+sc_linfoide_011,pendente,,9_linfatico,l5.jpg,linfa.html,l5,/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l5_zoom.jpg,I5 - Íleo: Placa de Peyer - HE
+sc_vasos_001,pendente,,8_vascular,h11.jpg,vasc.html,h11,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h11_zoom.jpg,H1 - Coração - HE — Epicárdio - (a) imagem 1
+sc_vasos_002,pendente,,8_vascular,h12.jpg,vasc.html,h12,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h12_zoom.jpg,H1 - Coração - HE — Epicárdio - (a) imagem 2
+sc_vasos_003,pendente,,8_vascular,h13.jpg,vasc.html,h11,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h13_zoom.jpg,H1 - Coração - HE — Endocardio
+sc_vasos_004,pendente,,8_vascular,h14.jpg,vasc.html,h14,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h14_zoom.jpg,H1 - Coração - HE — Miocárdio
+sc_vasos_005,pendente,,8_vascular,h21.jpg,vasc.html,h21,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h21_zoom.jpg,H2 - Coração - HF — Músculo estriado cardíaco (miocárdio)
+sc_vasos_006,pendente,,8_vascular,h31.jpg,vasc.html,h31,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h31_zoom.jpg,H3 - Artéria de calibre grande (tipo elástico) - Weigert (fucsina) — Lâminas elásticas coradas especificamente - (seta a
+sc_vasos_007,pendente,,8_vascular,h41.jpg,vasc.html,h41,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h41_zoom.jpg,H4 - Artéria de calibre grande (tipo elástico) - Mallory
+sc_vasos_008,pendente,,8_vascular,h42.jpg,vasc.html,h42,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h42_zoom.jpg,H4 - Artéria de calibre grande (tipo elástico) - Mallory
+sc_vasos_009,pendente,,8_vascular,h51.jpg,vasc.html,h51,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h51_zoom.jpg,H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica íntima ou interna - (a)
+sc_vasos_010,pendente,,8_vascular,h52.jpg,vasc.html,h52,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h52_zoom.jpg,H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica média - (b)
+sc_vasos_011,pendente,,8_vascular,h53.jpg,vasc.html,h53,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h53_zoom.jpg,H5 - Artéria de calibre médio (tipo muscular) - HE
+sc_vasos_012,pendente,,8_vascular,h54.jpg,vasc.html,h54,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h54_zoom.jpg,H5 - Artéria de calibre médio (tipo muscular) - HE
+sc_vasos_013,pendente,,8_vascular,h55.jpg,vasc.html,h51,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h55_zoom.jpg,H5 - Artéria de calibre médio (tipo muscular) - HE
+sc_vasos_014,pendente,,8_vascular,h61.jpg,vasc.html,h61,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h61_zoom.jpg,H6 - VASO LINFÁTICO - HE — Vaso linfático
+sc_vasos_015,pendente,,8_vascular,h62.jpg,vasc.html,h61,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h62_zoom.jpg,H6 - VASO LINFÁTICO - HE
+sc_vasos_016,pendente,,8_vascular,h71.jpg,vasc.html,h71,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h71_zoom.jpg,"H7 - Arteríolas, Vênulas e capilares sanguíneos- HE"
+sc_vasos_017,pendente,,8_vascular,h72.jpg,vasc.html,h72,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h72_zoom.jpg,"H7 - Arteríolas, Vênulas e capilares sanguíneos- HE"
+sc_vasos_018,pendente,,8_vascular,h73.jpg,vasc.html,h73,/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h73_zoom.jpg,"H7 - Arteríolas, Vênulas e capilares sanguíneos- HE"
+sr_laminas_atlas_001,pendente,,12_respiratorio,l1-1.jpg,respi.html,l1-1,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_1_zoom.jpg,L1 - Traqueia - HE
+sr_laminas_atlas_002,pendente,,12_respiratorio,l1-2.jpg,respi.html,l1-2,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_2_zoom.jpg,L1 - Traqueia - HE — Mucosa
+sr_laminas_atlas_003,pendente,,12_respiratorio,l1-3.jpg,respi.html,l1-2,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_3_zoom.jpg,L1 - Traqueia - HE — Submucosa
+sr_laminas_atlas_004,pendente,,12_respiratorio,l2-1.jpg,respi.html,l2-1,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_1_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Alvéolo - (H)"
+sr_laminas_atlas_005,pendente,,12_respiratorio,l2-3.jpg,respi.html,l2-1,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_3_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Pleura visceral - (seta 1)"
+sr_laminas_atlas_006,pendente,,12_respiratorio,l2-4.jpg,respi.html,l2-2,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_4_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Lobar (grande brônquio de distribuição) - ("
+sr_laminas_atlas_007,pendente,,12_respiratorio,l2-5.jpg,respi.html,l2-3,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_5_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — P.P.D. - propriamente dito - (seta C)"
+sr_laminas_atlas_008,pendente,,12_respiratorio,l2-6.jpg,respi.html,l2-5,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_6_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Terminal - (seta D)"
+sr_laminas_atlas_009,pendente,,12_respiratorio,l2-7.jpg,respi.html,l2-6,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_7_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Respiratório - (E)"
+sr_laminas_atlas_010,pendente,,12_respiratorio,l2-9.jpg,respi.html,l2-4,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_9_zoom.jpg,"L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Segmentar (interlobular) - (seta B)"
+sr_laminas_atlas_011,pendente,,12_respiratorio,l4-1.jpg,respi.html,l4-1,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_1_zoom.jpg,L4 - Pulmão fetal - HE
+sr_laminas_atlas_012,pendente,,12_respiratorio,l4-2.jpg,respi.html,l4-2,/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_2_zoom.jpg,L4 - Pulmão fetal - HE
+sd_laminas_atlas_001,pendente,,10_digestorio,j101.jpg,diges.html,j101,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j101_zoom.jpg,J10 - Íleo: Placa de Peyer - HE — Mucosa - (A)
+sd_laminas_atlas_002,pendente,,10_digestorio,j102.jpg,diges.html,j102,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j102_zoom.jpg,J10 - Íleo: Placa de Peyer - HE — Submucosa - (B)
+sd_laminas_atlas_003,pendente,,10_digestorio,j103.jpg,diges.html,j101,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j103_zoom.jpg,J10 - Íleo: Placa de Peyer - HE — Muscular (músculo liso) - (C)
+sd_laminas_atlas_004,pendente,,10_digestorio,j11.jpg,diges.html,imgj11,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j11_zoom.jpg,"J1/J2-Língua, porção anterior- HE — Mucosa ventral"
+sd_laminas_atlas_005,pendente,,10_digestorio,j111.jpg,diges.html,j111,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j111_zoom.jpg,J11 - Apêndice vermiforme ou cecal- HE — Mucosa
+sd_laminas_atlas_006,pendente,,10_digestorio,j112.jpg,diges.html,j111,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j112_zoom.jpg,J11 - Apêndice vermiforme ou cecal- HE — Submucosa - (4)
+sd_laminas_atlas_007,pendente,,10_digestorio,j12.jpg,diges.html,imgj13,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j12_zoom.jpg,"J1/J2-Língua, porção anterior- HE — Feixe vásculo-nervoso"
+sd_laminas_atlas_008,pendente,,10_digestorio,j13.jpg,diges.html,imgj13,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j13_zoom.jpg,"J1/J2-Língua, porção anterior- HE — Mucosa dorsal"
+sd_laminas_atlas_009,pendente,,10_digestorio,j133.jpg,diges.html,j133,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j133_zoom.jpg,"J13 - Intestino grosso, corte Longitudinal - HE — Muscular (músculo liso) - (C)"
+sd_laminas_atlas_010,pendente,,10_digestorio,j134.jpg,diges.html,j131,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j134_zoom.jpg,"J13 - Intestino grosso, corte Longitudinal - HE — Serosa (delgada)- (D)"
+sd_laminas_atlas_011,pendente,,10_digestorio,j141.jpg,diges.html,j141,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j141_zoom.jpg,J14-Glândula parótida-HE — Glândula multilobulada
+sd_laminas_atlas_012,pendente,,10_digestorio,j142.jpg,diges.html,j141,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j142_zoom.jpg,J14-Glândula parótida-HE — Excretor - (3)
+sd_laminas_atlas_013,pendente,,10_digestorio,j143.jpg,diges.html,j143,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j143_zoom.jpg,J14-Glândula parótida-HE — Cápsula - (seta A)
+sd_laminas_atlas_014,pendente,,10_digestorio,j144.jpg,diges.html,j144,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j144_zoom.jpg,J14-Glândula parótida-HE — Estriado - (2)
+sd_laminas_atlas_015,pendente,,10_digestorio,j151.jpg,diges.html,j151,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j151_zoom.jpg,J15 - Glândula submandibular - HE — Glândula multilobulada
+sd_laminas_atlas_016,pendente,,10_digestorio,j152.jpg,diges.html,j152,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j152_zoom.jpg,J15 - Glândula submandibular - HE — Ductos
+sd_laminas_atlas_017,pendente,,10_digestorio,j153.jpg,diges.html,j153,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j153_zoom.jpg,J15 - Glândula submandibular - HE
+sd_laminas_atlas_018,pendente,,10_digestorio,j154.jpg,diges.html,j151,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j154_zoom.jpg,J15 - Glândula submandibular - HE — Excretor - (3)
+sd_laminas_atlas_019,pendente,,10_digestorio,j161.jpg,diges.html,j161,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j161_zoom.jpg,J16 - Glândula sublingual - HE — Glândula multilobulada
+sd_laminas_atlas_020,pendente,,10_digestorio,j162.jpg,diges.html,j162,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j162_zoom.jpg,J16 - Glândula sublingual - HE — Ductos
+sd_laminas_atlas_021,pendente,,10_digestorio,j163.jpg,diges.html,j161,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j163_zoom.jpg,J16 - Glândula sublingual - HE — Estriado - (2)
+sd_laminas_atlas_022,pendente,,10_digestorio,j171.jpg,diges.html,j171,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j171_zoom.jpg,J17-Pâncreas - HE — Exócrino Formados por ácinos serosos (glândula serosa pura) e ductos
+sd_laminas_atlas_023,pendente,,10_digestorio,j172.jpg,diges.html,j172,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j172_zoom.jpg,J17-Pâncreas - HE
+sd_laminas_atlas_024,pendente,,10_digestorio,j173.jpg,diges.html,j173,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j173_zoom.jpg,J17-Pâncreas - HE — Endócrino
+sd_laminas_atlas_025,pendente,,10_digestorio,j174.jpg,diges.html,j174,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j174_zoom.jpg,J17-Pâncreas - HE
+sd_laminas_atlas_026,pendente,,10_digestorio,j175.jpg,diges.html,j171,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j175_zoom.jpg,J17-Pâncreas - HE
+sd_laminas_atlas_027,pendente,,10_digestorio,j181.jpg,diges.html,j181,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j181_zoom.jpg,J19 - Fígado - H.E.
+sd_laminas_atlas_028,pendente,,10_digestorio,j182.jpg,diges.html,j182,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j182_zoom.jpg,J19 - Fígado - H.E. — Espaço porta
+sd_laminas_atlas_029,pendente,,10_digestorio,j191.jpg,diges.html,j191,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j191_zoom.jpg,J19 - Fígado - H.E. — Lóbulos hepáticos
+sd_laminas_atlas_030,pendente,,10_digestorio,j192.jpg,diges.html,j191,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j192_zoom.jpg,J19 - Fígado - H.E.
+sd_laminas_atlas_031,pendente,,10_digestorio,j201.jpg,diges.html,j201,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j201_zoom.jpg,J20 - Fígado - Impregnação por prata
+sd_laminas_atlas_032,pendente,,10_digestorio,j202.jpg,diges.html,j202,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j202_zoom.jpg,J20 - Fígado - Impregnação por prata
+sd_laminas_atlas_033,pendente,,10_digestorio,j21.jpg,diges.html,imgj21,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j21_zoom.jpg,"J1/J2-Língua, porção anterior- HE"
+sd_laminas_atlas_034,pendente,,10_digestorio,j211.jpg,diges.html,j211,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j211_zoom.jpg,J21 - Fígado - Coloração vital — Células de Kupffer (macrófagos do fígado) - (seta curta)
+sd_laminas_atlas_035,pendente,,10_digestorio,j212.jpg,diges.html,j211,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j212_zoom.jpg,J21 - Fígado - Coloração vital
+sd_laminas_atlas_036,pendente,,10_digestorio,j221.jpg,diges.html,j221,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j221_zoom.jpg,J22 - Fígado - P.A.S.
+sd_laminas_atlas_037,pendente,,10_digestorio,j222.jpg,diges.html,j222,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j222_zoom.jpg,J22 - Fígado - P.A.S. — Grânulos de glicogênio - (seta longa)
+sd_laminas_atlas_038,pendente,,10_digestorio,j231.jpg,diges.html,j231,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j231_zoom.jpg,J23 - Vesícula biliar - HE — Adventícia - (8)
+sd_laminas_atlas_039,pendente,,10_digestorio,j232.jpg,diges.html,j232,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j232_zoom.jpg,J23 - Vesícula biliar - HE — Mucosa
+sd_laminas_atlas_040,pendente,,10_digestorio,j233.jpg,diges.html,j232,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j233_zoom.jpg,J23 - Vesícula biliar - HE — Serosa - (7)
+sd_laminas_atlas_041,pendente,,10_digestorio,j31.jpg,diges.html,imgj31,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j31_zoom.jpg,"J3 - Língua, ""V"" lingual - HE — Papila caliciforme, valada ou circunvalada"
+sd_laminas_atlas_042,pendente,,10_digestorio,j32.jpg,diges.html,imgj32,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j32_zoom.jpg,"J3 - Língua, ""V"" lingual - HE"
+sd_laminas_atlas_043,pendente,,10_digestorio,j33.jpg,diges.html,imgj31,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j33_zoom.jpg,"J3 - Língua, ""V"" lingual - HE"
+sd_laminas_atlas_044,pendente,,10_digestorio,j41.jpg,diges.html,imgj41,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j41_zoom.jpg,"J4/J5 - Esôfago, corte longitudinal - HE"
+sd_laminas_atlas_045,pendente,,10_digestorio,j42.jpg,diges.html,imgj42,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j42_zoom.jpg,"J4/J5 - Esôfago, corte longitudinal - HE — Esôfago, corte longitudinal - HE"
+sd_laminas_atlas_046,pendente,,10_digestorio,j61.jpg,diges.html,imgj61,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j61_zoom.jpg,J6 - Transição esôfago-estômago -HE
+sd_laminas_atlas_047,pendente,,10_digestorio,j62.jpg,diges.html,imgj62,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j62_zoom.jpg,J6 - Transição esôfago-estômago -HE
+sd_laminas_atlas_048,pendente,,10_digestorio,j64.jpg,diges.html,imgj64,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j64_zoom.jpg,J6 - Transição esôfago-estômago -HE
+sd_laminas_atlas_049,pendente,,10_digestorio,j71.jpg,diges.html,imgj71,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j71_zoom.jpg,"J7 - Estômago, fundo e corpo - HE"
+sd_laminas_atlas_050,pendente,,10_digestorio,j72.jpg,diges.html,imgj72,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j72_zoom.jpg,"J7 - Estômago, fundo e corpo - HE — Mucosa - (A)"
+sd_laminas_atlas_051,pendente,,10_digestorio,j81.jpg,diges.html,j81,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j81_zoom.jpg,J8 - Transição estômago-duodeno - HE — Estômago - (A)
+sd_laminas_atlas_052,pendente,,10_digestorio,j82.jpg,diges.html,j82,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j82_zoom.jpg,J8 - Transição estômago-duodeno - HE — Mucosa
+sd_laminas_atlas_053,pendente,,10_digestorio,j83.jpg,diges.html,j83,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j83_zoom.jpg,J8 - Transição estômago-duodeno - HE — Duodeno - (B)
+sd_laminas_atlas_054,pendente,,10_digestorio,j84.jpg,diges.html,j81,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j84_zoom.jpg,J8 - Transição estômago-duodeno - HE
+sd_laminas_atlas_055,pendente,,10_digestorio,j91.jpg,diges.html,j91,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j91_zoom.jpg,J9 - Jejuno-íleo - HE — Mucosa - (A)
+sd_laminas_atlas_056,pendente,,10_digestorio,j92.jpg,diges.html,j91,/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j92_zoom.jpg,J9 - Jejuno-íleo - HE — Muscular (músculo liso) - (C)
+su_laminas_atlas_001,pendente,,13_urinario,m11.jpg,urina.html,m11,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m11_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Cortical (córtex) - (A)
+su_laminas_atlas_002,pendente,,13_urinario,m12.jpg,urina.html,m12,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m12_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Glomérulo
+su_laminas_atlas_003,pendente,,13_urinario,m13.jpg,urina.html,m13,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m13_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Medular - (c)
+su_laminas_atlas_004,pendente,,13_urinario,m14.jpg,urina.html,m14,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m14_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE
+su_laminas_atlas_005,pendente,,13_urinario,m15.jpg,urina.html,m15,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m15_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE
+su_laminas_atlas_006,pendente,,13_urinario,m16.jpg,urina.html,m11,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m16_zoom.jpg,M1 - Rim unilobular - HE M2 - Rim multilobular - HE
+su_laminas_atlas_007,pendente,,13_urinario,m31.jpg,urina.html,m31,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m31_zoom.jpg,M3 - Ureter - HE — Ureter - HE
+su_laminas_atlas_008,pendente,,13_urinario,m32.jpg,urina.html,m32,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m32_zoom.jpg,M3 - Ureter - HE — Camada muscular (músculo liso) - (3)
+su_laminas_atlas_009,pendente,,13_urinario,m33.jpg,urina.html,m31,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m33_zoom.jpg,M3 - Ureter - HE — Mucosa
+su_laminas_atlas_010,pendente,,13_urinario,m41.jpg,urina.html,m41,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m41_zoom.jpg,M4 - Bexiga - HE
+su_laminas_atlas_011,pendente,,13_urinario,m42.jpg,urina.html,m42,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m42_zoom.jpg,M4 - Bexiga - HE — Serosa - (C)
+su_laminas_atlas_012,pendente,,13_urinario,m43.jpg,urina.html,m43,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m43_zoom.jpg,M4 - Bexiga - HE
+su_laminas_atlas_013,pendente,,13_urinario,m44.jpg,urina.html,m44,/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m44_zoom.jpg,M4 - Bexiga - HE — Mucosa - (A)
+sgm_laminas_atlas_001,pendente,,16_masculino,p1-1.jpg,masc.html,imgp1-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_1_zoom.jpg,P1-Testículo e epidídimo - HE — Testiculo - (A)
+sgm_laminas_atlas_002,pendente,,16_masculino,p1-2.jpg,masc.html,imgp1-2,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_2_zoom.jpg,P1-Testículo e epidídimo - HE
+sgm_laminas_atlas_003,pendente,,16_masculino,p1-3.jpg,masc.html,imgp1-3,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_3_zoom.jpg,P1-Testículo e epidídimo - HE — Interstício - (C)
+sgm_laminas_atlas_004,pendente,,16_masculino,p1-5.jpg,masc.html,imgp1-5,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_5_zoom.jpg,P1-Testículo e epidídimo - HE — Epidídimo - (B)
+sgm_laminas_atlas_005,pendente,,16_masculino,p1-6.jpg,masc.html,imgp1-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_6_zoom.jpg,P1-Testículo e epidídimo - HE
+sgm_laminas_atlas_006,pendente,,16_masculino,p2-1.jpg,masc.html,imgp2-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_1_zoom.jpg,P2- Canal deferente-HE
+sgm_laminas_atlas_007,pendente,,16_masculino,p2-2.jpg,masc.html,imgp2-2,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_2_zoom.jpg,P2- Canal deferente-HE — Mucosa
+sgm_laminas_atlas_008,pendente,,16_masculino,p2-3.jpg,masc.html,imgp2-3,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_3_zoom.jpg,P2- Canal deferente-HE — Adventícia - (2)
+sgm_laminas_atlas_009,pendente,,16_masculino,p2-4.jpg,masc.html,imgp2-2,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_4_zoom.jpg,P2- Canal deferente-HE — Muscular - (1)
+sgm_laminas_atlas_010,pendente,,16_masculino,p3-1.jpg,masc.html,imgp3-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_1_zoom.jpg,P3-Vesícula seminal-HE — Mucosa
+sgm_laminas_atlas_011,pendente,,16_masculino,p3-2.jpg,masc.html,imgp3-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_2_zoom.jpg,P3-Vesícula seminal-HE
+sgm_laminas_atlas_012,pendente,,16_masculino,p4-1.jpg,masc.html,imgp4-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_1_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_013,pendente,,16_masculino,p4-2.jpg,masc.html,imgp4-2,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_2_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_014,pendente,,16_masculino,p4-3.jpg,masc.html,imgp4-3,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_3_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_015,pendente,,16_masculino,p4-4.jpg,masc.html,imgp4-4,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_4_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_016,pendente,,16_masculino,p4-5.jpg,masc.html,imgp4-5,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_5_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_017,pendente,,16_masculino,p4-6.jpg,masc.html,imgp4-6,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_6_zoom.jpg,P4-Próstata-HE
+sgm_laminas_atlas_018,pendente,,16_masculino,p5-1.jpg,masc.html,imgp5-1,/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p5_1_zoom.jpg,"P5-Pênis, corte transversal-HE"
+sgf_laminas_atlas_001,pendente,,17_feminino,q1-1.jpg,repfem.html,imgq1-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_1_zoom.jpg,Q1-Ovário - HE — Folículos em crescimento secundário e maduro
+sgf_laminas_atlas_002,pendente,,17_feminino,q1-2.jpg,repfem.html,imgq1-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_2_zoom.jpg,Q1-Ovário - HE — Q1-Ovário - HE
+sgf_laminas_atlas_003,pendente,,17_feminino,q1-3.jpg,repfem.html,imgq1-3,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_3_zoom.jpg,Q1-Ovário - HE
+sgf_laminas_atlas_004,pendente,,17_feminino,q1-4.jpg,repfem.html,imgq1-4,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_4_zoom.jpg,Q1-Ovário - HE — Cortical - (A)
+sgf_laminas_atlas_005,pendente,,17_feminino,q1-6.jpg,repfem.html,imgq1-6,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_6_zoom.jpg,Q1-Ovário - HE — Folículos primordiais - (seta E)
+sgf_laminas_atlas_006,pendente,,17_feminino,q1-7.jpg,repfem.html,imgq1-7,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_7_zoom.jpg,Q1-Ovário - HE
+sgf_laminas_atlas_007,pendente,,17_feminino,q2-1.jpg,repfem.html,img2-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_1_zoom.jpg,Q2-Ovário -HE
+sgf_laminas_atlas_008,pendente,,17_feminino,q2-2.jpg,repfem.html,img2-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_2_zoom.jpg,Q2-Ovário -HE
+sgf_laminas_atlas_009,pendente,,17_feminino,q2-3.jpg,repfem.html,img2-3,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_3_zoom.jpg,Q2-Ovário -HE
+sgf_laminas_atlas_010,pendente,,17_feminino,q3-1.jpg,repfem.html,imgq3-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_1_zoom.jpg,Q3- Ovário-HE
+sgf_laminas_atlas_011,pendente,,17_feminino,q3-2.jpg,repfem.html,imgq3-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_2_zoom.jpg,Q3- Ovário-HE
+sgf_laminas_atlas_012,pendente,,17_feminino,q3-3.jpg,repfem.html,imgq3-3,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_3_zoom.jpg,Q3- Ovário-HE
+sgf_laminas_atlas_013,pendente,,17_feminino,q4-1.jpg,repfem.html,imgq4-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_1_zoom.jpg,Q4-Corpo albicans - HE
+sgf_laminas_atlas_014,pendente,,17_feminino,q4-2.jpg,repfem.html,imgq4-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_2_zoom.jpg,Q4-Corpo albicans - HE
+sgf_laminas_atlas_015,pendente,,17_feminino,q5-1.jpg,repfem.html,imgq5-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_1_zoom.jpg,"Q5-Tuba uterina, ampola- HE"
+sgf_laminas_atlas_016,pendente,,17_feminino,q5-2.jpg,repfem.html,imgq5-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_2_zoom.jpg,"Q5-Tuba uterina, ampola- HE — Mucosa - (A)"
+sgf_laminas_atlas_017,pendente,,17_feminino,q5-3.jpg,repfem.html,imgq5-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_3_zoom.jpg,"Q5-Tuba uterina, ampola- HE"
+sgf_laminas_atlas_018,pendente,,17_feminino,q6-2.jpg,repfem.html,imgq6-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_2_zoom.jpg,"Q6-Útero, fase proliferativa- HE"
+sgf_laminas_atlas_019,pendente,,17_feminino,q6-3.jpg,repfem.html,imgq6-3,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_3_zoom.jpg,"Q6-Útero, fase proliferativa- HE — Endométrio"
+sgf_laminas_atlas_020,pendente,,17_feminino,q7-1.jpg,repfem.html,imgq7-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_1_zoom.jpg,"Q7-Útero, fase secretora- HE — Endométrio"
+sgf_laminas_atlas_021,pendente,,17_feminino,q7-2.jpg,repfem.html,imgq7-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_2_zoom.jpg,"Q7-Útero, fase secretora- HE — Útero, fase secretora"
+sgf_laminas_atlas_022,pendente,,17_feminino,q8-1.jpg,repfem.html,imgq8-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_1_zoom.jpg,Q8- Colo uterino - HE — Ectocérvix - mucosa
+sgf_laminas_atlas_023,pendente,,17_feminino,q8-2.jpg,repfem.html,imgq8-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_2_zoom.jpg,Q8- Colo uterino - HE — Endocérvix - mucosa
+sgf_laminas_atlas_024,pendente,,17_feminino,q9-1.jpg,repfem.html,imgq9-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_1_zoom.jpg,Q9-Mama - HE — Lóbulos
+sgf_laminas_atlas_025,pendente,,17_feminino,q9-2.jpg,repfem.html,imgq9-2,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_2_zoom.jpg,Q9-Mama - HE
+sgf_laminas_atlas_026,pendente,,17_feminino,q9-3.jpg,repfem.html,imgq9-3,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_3_zoom.jpg,Q9-Mama - HE — Região interlobular
+sgf_laminas_atlas_027,pendente,,17_feminino,q9-4.jpg,repfem.html,imgq9-4,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_4_zoom.jpg,Q9-Mama - HE
+sgf_laminas_atlas_028,pendente,,17_feminino,q9-5.jpg,repfem.html,imgq9-1,/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_5_zoom.jpg,Q9-Mama - HE
+sn_endocrino_001,pendente,,14_endocrinas,n1-1.jpg,endoc.html,imgn1-1,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_1_zoom.jpg,N1 - Hipófise ou Pituitária - Mallory — Pars distalis ou adenohipófise (lobo anterior) - (A)
+sn_endocrino_002,pendente,,14_endocrinas,n1-2.jpg,endoc.html,imgn1-2,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_2_zoom.jpg,N1 - Hipófise ou Pituitária - Mallory — Pars intermédia (maior aumento) - (B)
+sn_endocrino_003,pendente,,14_endocrinas,n1-3.jpg,endoc.html,imgn1-1,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_3_zoom.jpg,N1 - Hipófise ou Pituitária - Mallory — Pars nervosa ou neurohipófise (lobo posterior) - (C)
+sn_endocrino_004,pendente,,14_endocrinas,n1-4.jpg,endoc.html,imgn1-4,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_4_zoom.jpg,N1 - Hipófise ou Pituitária - Mallory
+sn_endocrino_005,pendente,,14_endocrinas,n2-1.jpg,endoc.html,imgn2-1,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_1_zoom.jpg,N2 - Tireóide e paratireóide - HE
+sn_endocrino_006,pendente,,14_endocrinas,n2-2.jpg,endoc.html,imgn2-4,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_2_zoom.jpg,N2 - Tireóide e paratireóide - HE — Paratireóide - (B)
+sn_endocrino_007,pendente,,14_endocrinas,n2-3.jpg,endoc.html,imgn2-3,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_3_zoom.jpg,N2 - Tireóide e paratireóide - HE
+sn_endocrino_008,pendente,,14_endocrinas,n2-4.jpg,endoc.html,imgn2-4,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_4_zoom.jpg,N2 - Tireóide e paratireóide - HE — Tireóide - (A)
+sn_endocrino_009,pendente,,14_endocrinas,n3-1.jpg,endoc.html,imgn3-1,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_1_zoom.jpg,N3 -Adrenal ou supra-renal - HE
+sn_endocrino_010,pendente,,14_endocrinas,n3-2.jpg,endoc.html,imgn3-2,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_2_zoom.jpg,N3 -Adrenal ou supra-renal - HE — Cortical - (A)
+sn_endocrino_011,pendente,,14_endocrinas,n3-3.jpg,endoc.html,n3-3,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_3_zoom.jpg,N3 -Adrenal ou supra-renal - HE — Medular - (B)
+sn_endocrino_012,pendente,,14_endocrinas,n4-1.jpg,endoc.html,imgn4-1,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_1_zoom.jpg,N4 - Pineal - Mallory
+sn_endocrino_013,pendente,,14_endocrinas,n4-2.jpg,endoc.html,imgn4-2,/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_2_zoom.jpg,N4 - Pineal - Mallory
+sn_neuronio_001,pendente,,7_nervoso,g1.jpg,nervo.html,g12,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g1_zoom.jpg,G1 - Medula espinhal - HE — Substância branca (córtex) - (a)
+sn_neuronio_002,pendente,,7_nervoso,g12.jpg,nervo.html,g12,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g12_zoom.jpg,G1 - Medula espinhal - HE
+sn_neuronio_003,pendente,,7_nervoso,g2.jpg,nervo.html,g2,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_zoom.jpg,G2 - Medula espinhal - Prata
+sn_neuronio_004,pendente,,7_nervoso,g2-2.jpg,nervo.html,g2-2,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_2_zoom.jpg,G2 - Medula espinhal - Prata
+sn_neuronio_005,pendente,,7_nervoso,g3.jpg,nervo.html,g3,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g3_zoom.jpg,G3 - Cérebro - HE
+sn_neuronio_006,pendente,,7_nervoso,g32.jpg,nervo.html,g32,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g32_zoom.jpg,G3 - Cérebro - HE
+sn_neuronio_007,pendente,,7_nervoso,g4.jpg,nervo.html,g4,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g4_zoom.jpg,G4 - Cérebro - Prata
+sn_neuronio_008,pendente,,7_nervoso,g42.jpg,nervo.html,g42,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g42_zoom.jpg,G4 - Cérebro - Prata
+sn_neuronio_009,pendente,,7_nervoso,g43.jpg,nervo.html,g43,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g43_zoom.jpg,G4 - Cérebro - Prata
+sn_neuronio_010,pendente,,7_nervoso,g6.jpg,nervo.html,g6,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g6_zoom.jpg,G6 - Cerebelo (Prata) — Substância cinzenta (cortical)
+sn_neuronio_011,pendente,,7_nervoso,g7.jpg,nervo.html,g7,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g7_zoom.jpg,G7 - Gânglio raquídeo - HE
+sn_neuronio_012,pendente,,7_nervoso,g72.jpg,nervo.html,g72,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g72_zoom.jpg,G7 - Gânglio raquídeo - HE
+sn_neuronio_013,pendente,,7_nervoso,g8.jpg,nervo.html,g8,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g8_zoom.jpg,G8-Nervo periférico - H.E / H.F — Nervo periférico - (circundado)
+sn_neuronio_014,pendente,,7_nervoso,g82.jpg,nervo.html,g82,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g82_zoom.jpg,G8-Nervo periférico - H.E / H.F
+sn_neuronio_015,pendente,,7_nervoso,g83.jpg,nervo.html,g8,/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g83_zoom.jpg,G8-Nervo periférico - H.E / H.F
+sn_sentidos_001,pendente,,15_sentido,o1.jpg,senti.html,imgo1,/data/histologia/atlas/15_sentido/zoom/histo_15_sentido_o1_zoom.jpg,O1 - Olho e anexos - HE — Olho e anexos - HE

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Bioestatística é a ferramenta que transforma dados clínicos em conhecimento científico. Sem ela, não sabemos se um tratamento funciona, se um exame é preciso ou se uma doença está aumentando na população. A **Uninove** cobra bioestatística em dois contextos: interpretação de tabelas e gráficos em questões de epidemiologia, e cálculo de medidas de associação em estudos clínicos. Nesta aula, construímos o vocabulário fundamental que sustenta todas as aulas seguintes.
+Bioestatística é a ferramenta que transforma dados clínicos em conhecimento científico. Sem ela, não sabemos se um tratamento funciona, se um exame é preciso ou se uma doença está aumentando na população. A Uninove cobra bioestatística em dois contextos: interpretação de tabelas e gráficos em questões de epidemiologia, e cálculo de medidas de associação em estudos clínicos. Nesta aula, construímos o vocabulário fundamental que sustenta todas as aulas seguintes.
 
 ### Figura sugerida
 
@@ -30,7 +30,7 @@ Bioestatística é a ferramenta que transforma dados clínicos em conhecimento c
 
 ### 1.1 Por que um médico precisa saber isso?
 
-Porque toda evidência clínica vem de estudos que usam estatística. Um ensaio clínico randomizado diz "o medicamento A reduziu a mortalidade em 30% — **p < 0,05**". Para interpretar esse dado corretamente — saber se é real, relevante e aplicável ao seu paciente — você precisa entender o que é valor-p, o que significa p < 0,05, o que é **intervalo de confiança** e o que é tamanho de efeito. Isso não é luxo acadêmico; é medicina baseada em evidências.
+Porque toda evidência clínica vem de estudos que usam estatística. Um ensaio clínico randomizado diz "o medicamento A reduziu a mortalidade em 30% — p < 0,05". Para interpretar esse dado corretamente — saber se é real, relevante e aplicável ao seu paciente — você precisa entender o que é valor-p, o que significa p < 0,05, o que é intervalo de confiança e o que é tamanho de efeito. Isso não é luxo acadêmico; é medicina baseada em evidências.
 
 ---
 
@@ -121,22 +121,24 @@ Antes de entrar nos estudos específicos (nas aulas seguintes), é útil ter o m
 
 ## Ponte com a Clínica
 
-Quando você lê que "metformina reduziu eventos cardiovasculares em 15% (IC 95%: 8–22%, p = 0,001)", está usando todos os conceitos desta aula: a amostra do estudo estimou um parâmetro da população (redução real); o IC 95% quantifica a incerteza; o **p < 0,05** indica que o resultado é improvável de ser acaso. Se o IC 95% cruzasse o zero (ou o 1, para razão de risco), o resultado não seria estatisticamente significativo — e a metformina poderia não ter efeito real. Saber ler esses números é o que distingue o médico que evidencia suas condutas daquele que segue protocolo de cor.
+Quando você lê que "metformina reduziu eventos cardiovasculares em 15% (IC 95%: 8–22%, p = 0,001)", está usando todos os conceitos desta aula: a amostra do estudo estimou um parâmetro da população (redução real); o IC 95% quantifica a incerteza; o p < 0,05 indica que o resultado é improvável de ser acaso. Se o IC 95% cruzasse o zero (ou o 1, para razão de risco), o resultado não seria estatisticamente significativo — e a metformina poderia não ter efeito real. Saber ler esses números é o que distingue o médico que evidencia suas condutas daquele que segue protocolo de cor.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Estatística descritiva:** resume dados observados (média, mediana, desvio padrão).
+- **Estatística inferencial:** usa amostra para concluir sobre população (p-valor, IC 95%).
+- **Parâmetro (população):** letras gregas — μ (média), σ (DP). Estatística (amostra): x̄, s.
+- **Nominal:** sem ordem (sexo, tipo sanguíneo). Ordinal: com ordem (estadiamento).
+- **Intervalar:** sem zero absoluto (°C). Razão: com zero absoluto (peso, PA, glicemia).
+- **SIM:** mortalidade. SINASC: nascidos vivos. SINAN: doenças notificáveis.
+- **RCT:** causalidade. Observacional: apenas associação.
+- **IC 95% não cruzando o nulo:** resultado estatisticamente significativo.
 
-
-Estatística descritiva: resume dados observados (média, mediana, desvio padrão). Estatística inferencial: usa amostra para concluir sobre população (p-valor, IC 95%). Parâmetro (população): letras gregas — μ (média), σ (DP). Estatística (amostra): x̄, s.
-
-Nominal: sem ordem (sexo, tipo sanguíneo). Ordinal: com ordem (estadiamento). Intervalar: sem zero absoluto (°C). Razão: com zero absoluto (peso, PA, glicemia). SIM: mortalidade. SINASC: nascidos vivos. SINAN: doenças notificáveis.
-
-RCT: causalidade. Observacional: apenas associação. IC 95% não cruzando o nulo: resultado estatisticamente significativo.
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -148,5 +150,4 @@ RCT: causalidade. Observacional: apenas associação. IC 95% não cruzando o nul
 | Estudo observacional | Estudo experimental | Observacional: sem intervenção, só associação; Experimental: intervenção, causalidade possível |
 
 ### Frase-âncora para não esquecer
-
 > "Parâmetro é da população (letra grega), estatística é da amostra (letra latina) — a inferência é a ponte entre os dois, com IC e p-valor como guardrails."

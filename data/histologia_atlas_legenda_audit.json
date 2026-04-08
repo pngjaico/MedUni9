@@ -1,0 +1,4398 @@
+{
+  "version": 1,
+  "geradoEm": "2026-04-07T17:05:12.450927+00:00",
+  "porId": {
+    "tf_citologia_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A1 Raiz de cebola - HF — Intérfase - (a)",
+      "aliasLegado": "a11.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/recorte/histo_1_citologia_a11_recorte.jpg",
+      "legendaTranscrita": [
+        "Intérfase - (a)",
+        "Maioria das células. Núcleo com carioteca apresentando cromatina frouxa e nucléolo"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a11",
+      "tituloSecaoH2": "A1 Raiz de cebola - HF"
+    },
+    "tf_citologia_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A1 Raiz de cebola - HF — Prófase - (b)",
+      "aliasLegado": "a12.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a12_zoom.jpg",
+      "legendaTranscrita": [
+        "Prófase - (b)",
+        "Os filamentos de cromatina, que constituem os cromossomos, se apresentam muito alongados,",
+        "dando ao núcleo um aspecto de novelo. Ainda se observa a carioteca"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a12",
+      "tituloSecaoH2": "A1 Raiz de cebola - HF"
+    },
+    "tf_citologia_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A1 Raiz de cebola - HF — Anáfase - (d)",
+      "aliasLegado": "a13.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a13_zoom.jpg",
+      "legendaTranscrita": [
+        "Anáfase - (d)",
+        "Separação das cromátides e migração dos cromossomos aos pólos",
+        "Telófase - (e)",
+        "Desaparecimento dos microtúbulos dos cinetócoros, descondensação da cromatina, reorganização dos nucléolos reconstituição da carioteca, citocinese",
+        "centrífuga em vegetais (formação da lamela média) em animais a citocinese é centrípeta"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a13",
+      "tituloSecaoH2": "A1 Raiz de cebola - HF"
+    },
+    "tf_citologia_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A1 Raiz de cebola - HF — Metáfase - (c)",
+      "aliasLegado": "a14.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a14_zoom.jpg",
+      "legendaTranscrita": [
+        "Metáfase - (c)",
+        "Os cromossomos se dispõem no equador das células e desaparece a carioteca",
+        "Fases completas da mitose",
+        "Intérfase (1) Prófase (2) Metáfase (3) Anáfase (4) Telófase (5)"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a11",
+      "tituloSecaoH2": "A1 Raiz de cebola - HF"
+    },
+    "tf_citologia_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Eritrócitos (hemácias) - (seta)",
+      "aliasLegado": "a21.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a21_zoom.jpg",
+      "legendaTranscrita": [
+        "Eritrócitos (hemácias) - (seta)"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a21",
+      "tituloSecaoH2": "A2: Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)"
+    },
+    "tf_citologia_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Leucócitos",
+      "aliasLegado": "a22.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a22_zoom.jpg",
+      "legendaTranscrita": [
+        "Leucócitos",
+        "Neutrófilo (60 a 70%) - (a)",
+        "Eosinófilo (2 a 4%) - (b)",
+        "Basófilo (0 a 0.1%) - (c)",
+        "Linfócito (20 a 30%) - (d)",
+        "Monócito (3 a 8%) - (e)",
+        "Plaquetas - (*)"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a22",
+      "tituloSecaoH2": "A2: Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)"
+    },
+    "tf_citologia_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)",
+      "aliasLegado": "a23.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a23_zoom.jpg",
+      "legendaTranscrita": [
+        "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a21",
+      "tituloSecaoH2": "A2: Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)"
+    },
+    "tf_citologia_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "A3 - Sangue de Ave - May Grunwald-Giemsa (Romanovsky modificado)",
+      "aliasLegado": "a3.jpg",
+      "categoriaLegada": "1_citologia",
+      "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a3_zoom.jpg",
+      "legendaTranscrita": [
+        "Eritrócitos nucleados - (seta curta)"
+      ],
+      "paginaLegada": "citologia.html",
+      "ancora": "a3",
+      "tituloSecaoH2": "A3: Sangue de Ave - May Grunwald-Giemsa (Romanovsky modificado)"
+    },
+    "tf_embriologia_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "R1 - Placenta - HE — (Menor Aumento)",
+      "aliasLegado": "r1.jpg",
+      "categoriaLegada": "18_embrionario",
+      "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_zoom.jpg",
+      "legendaTranscrita": [
+        "(Menor Aumento)",
+        "Parte materna - (a)",
+        "Parte fetal (vilosidade coriônica) - (b)",
+        "Espaço interviloso: ocupado por sangue materno (lago placentário) - (c)"
+      ],
+      "paginaLegada": "embri.html",
+      "ancora": "r1",
+      "tituloSecaoH2": "R1 - Placenta - HE"
+    },
+    "tf_embriologia_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "R1 - Placenta - HE — (Médio Aumento)",
+      "aliasLegado": "r1-2.jpg",
+      "categoriaLegada": "18_embrionario",
+      "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "(Médio Aumento)",
+        "Parte materna - (a)",
+        "Células deciduais - (1)",
+        "Parte fetal (vilosidade coriônica) - (b)",
+        "Espaço interviloso: ocupado por sangue materno (lago placentário) - (c)"
+      ],
+      "paginaLegada": "embri.html",
+      "ancora": "r1-2",
+      "tituloSecaoH2": "R1 - Placenta - HE"
+    },
+    "tf_embriologia_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "R1 - Placenta - HE — (Maior Aumento)",
+      "aliasLegado": "r1-3.jpg",
+      "categoriaLegada": "18_embrionario",
+      "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "(Maior Aumento)",
+        "Citotrofoblasto - (seta 2)",
+        "Sinciciotrofoblasto - (seta 3)",
+        "Tecido conjuntivo (mesoderma embrionário) - (4)",
+        "Capilar fetal - (5)"
+      ],
+      "paginaLegada": "embri.html",
+      "ancora": "r1",
+      "tituloSecaoH2": "R1 - Placenta - HE"
+    },
+    "tf_embriologia_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "R2 - Cordão umbilical - HE",
+      "aliasLegado": "r2.jpg",
+      "categoriaLegada": "18_embrionario",
+      "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio amniótico (âmnio) - (seta a)",
+        "Geléia umbilical (de Wharton) - (b)",
+        "Tecido conjuntivo mucóide (mixóide)",
+        "Artérias umbilicais - (seta c)",
+        "Veia umbilical - (seta d)"
+      ],
+      "paginaLegada": "embri.html",
+      "ancora": "r2",
+      "tituloSecaoH2": "R2 - Cordão umbilical - HE"
+    },
+    "tf_epitelio_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B1 - Mesentério (PRATA) — Epitélio nitratado (células pavimentosas)",
+      "aliasLegado": "b1.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b1_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio nitratado (células pavimentosas)",
+        "Observar o limite celular em negro (impregnado pela prata) - (seta)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "img1",
+      "tituloSecaoH2": "B1: Mesentério (PRATA)"
+    },
+    "tf_epitelio_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B15 - Ovário - HE — Epitélio simples cúbico - (A) ou",
+      "aliasLegado": "b10.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio simples cúbico - (A) ou"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b10",
+      "tituloSecaoH2": "B15 - Ovário - HE"
+    },
+    "tf_epitelio_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B15 - Ovário - HE — Epitélio simples pavimentoso - (B)",
+      "aliasLegado": "b10-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio simples pavimentoso - (B)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b10",
+      "tituloSecaoH2": "B15 - Ovário - HE"
+    },
+    "tf_epitelio_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B2 - Células descamadas do epitélio oral — Núcleo central - (seta a)",
+      "aliasLegado": "b2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b2_zoom.jpg",
+      "legendaTranscrita": [
+        "Núcleo central - (seta a)",
+        "Citoplasma periférico homogêneo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "img2",
+      "tituloSecaoH2": "B2: Células descamadas do epitélio oral"
+    },
+    "tf_epitelio_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B3 - Pele Espessa, planta do pé - HE — Epitélio estratificado pavimentoso queratinizado - (a)",
+      "aliasLegado": "b3-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio estratificado pavimentoso queratinizado - (a)",
+        "Porção de tecido conjutivo denso - (b)",
+        "queratina espessa - (*)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "img6",
+      "tituloSecaoH2": "B3 - Pele Espessa, planta do pé - HE"
+    },
+    "tf_epitelio_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B3 - Pele Espessa, planta do pé - HE — Epitélio glandular exócrino (glândula sudorípara) - (c)",
+      "aliasLegado": "b3-4.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio glandular exócrino (glândula sudorípara) - (c)",
+        "Porção secretora - (seta longa)",
+        "Porção excretora - (seta curta)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "img8",
+      "tituloSecaoH2": "B3 - Pele Espessa, planta do pé - HE"
+    },
+    "tf_epitelio_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B4 - Pele Delgada, pavilhão da orelha - Mallory — Epitélio estratificado pavimentoso queratinizado - (a)",
+      "aliasLegado": "b3-5.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_5_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio estratificado pavimentoso queratinizado - (a)",
+        "Tecido conjuntivo denso - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b3-5",
+      "tituloSecaoH2": "B4 - Pele Delgada, pavilhão da orelha - Mallory"
+    },
+    "tf_epitelio_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B6- Esôfago (corte transversal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
+      "aliasLegado": "b4.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio estratificado pavimentoso não queratinizado - (a)",
+        "Tecido conjuntivo frouxo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b4",
+      "tituloSecaoH2": "B6- Esôfago (corte transversal) - HE"
+    },
+    "tf_epitelio_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B5 - Esôfago (corte longitudinal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
+      "aliasLegado": "b4-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio estratificado pavimentoso não queratinizado - (a)",
+        "Tecido conjuntivo frouxo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "img11",
+      "tituloSecaoH2": "B5 - Esôfago (corte longitudinal) - HE"
+    },
+    "tf_epitelio_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B7 - Traquéia - HE — Epitélio pseudo-estratificado cilíndrico ciliado",
+      "aliasLegado": "b5.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b5_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio pseudo-estratificado cilíndrico ciliado",
+        "Cílios - (seta a)",
+        "Células caliciformes - (seta b)",
+        "Células de reserva ou basais - (seta c)",
+        "Tecido conjutivo frouxo - (d)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b5",
+      "tituloSecaoH2": "B7 - Traquéia - HE"
+    },
+    "tf_epitelio_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B8 - Estômago (Fundo e corpo) - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
+      "aliasLegado": "b6.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio simples cilíndrico (prismático, colunar) - (a)",
+        "Tecido conjutivo frouxo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b6",
+      "tituloSecaoH2": "B8 - Estômago (Fundo e corpo) - HE"
+    },
+    "tf_epitelio_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B10- Jejuno-íleo - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
+      "aliasLegado": "b6-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio simples cilíndrico (prismático, colunar) - (a)",
+        "Célula caliciforme - (*)",
+        "Borda em escova - (seta)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b6-2",
+      "tituloSecaoH2": "B10- Jejuno-íleo - HE"
+    },
+    "tf_epitelio_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B9 - Transição estômago-duodeno - HE — Epitélio simples cilíndrico (prismático, colunar)",
+      "aliasLegado": "b6-3.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio simples cilíndrico (prismático, colunar)",
+        "Estômago - (seta a)",
+        "Duodeno - (seta b)",
+        "Esfíncter pilórico - (c)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b6-3",
+      "tituloSecaoH2": "B9 - Transição estômago-duodeno - HE"
+    },
+    "tf_epitelio_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B12 - Bexiga - HE — Epitélio misto ou polimorfo - (a)",
+      "aliasLegado": "b7.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio misto ou polimorfo - (a)",
+        "Tecido conjuntivo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b7",
+      "tituloSecaoH2": "B12 - Bexiga - HE"
+    },
+    "tf_epitelio_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B11 - Ureter - HE — Epitélio misto ou polimorfo - (a)",
+      "aliasLegado": "b7-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio misto ou polimorfo - (a)",
+        "Tecido conjuntivo - (b)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b7-2",
+      "tituloSecaoH2": "B11 - Ureter - HE"
+    },
+    "tf_epitelio_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B13 - Parótida - HE — Epitélio glandular exócrino",
+      "aliasLegado": "b8-2.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b8_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio glandular exócrino",
+        "(ácinos serosos formados por epitélio cúbico simples) - (circundado)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b8-2",
+      "tituloSecaoH2": "B13 - Parótida - HE"
+    },
+    "tf_epitelio_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "B14- Tireóide - HE — Epitélio glandular endócrino (Epitélio cúbico simples) - (seta a)",
+      "aliasLegado": "b9.jpg",
+      "categoriaLegada": "2_epitelio",
+      "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b9_zoom.jpg",
+      "legendaTranscrita": [
+        "Epitélio glandular endócrino (Epitélio cúbico simples) - (seta a)"
+      ],
+      "paginaLegada": "epite.html",
+      "ancora": "b9",
+      "tituloSecaoH2": "B14- Tireóide - HE"
+    },
+    "tf_pele_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K1 - Pele, planta do pé - HE — Epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)",
+      "aliasLegado": "k1-1.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)",
+        "Camadas da queratina"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "imgk1-1",
+      "tituloSecaoH2": "K1 - Pele, planta do pé - HE"
+    },
+    "tf_pele_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K1 - Pele, planta do pé - HE — Camadas da epiderme",
+      "aliasLegado": "k1-2.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Camadas da epiderme"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "imgk1-2",
+      "tituloSecaoH2": "K1 - Pele, planta do pé - HE"
+    },
+    "tf_pele_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K1 - Pele, planta do pé - HE — Derme Reticular - (5)",
+      "aliasLegado": "k1-3.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Derme Reticular - (5)",
+        "Tecido conjuntivo denso não-modelado"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "imgk1-3",
+      "tituloSecaoH2": "K1 - Pele, planta do pé - HE"
+    },
+    "tf_pele_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K1 - Pele, planta do pé - HE — Glândula sudorípara - (circundado)",
+      "aliasLegado": "k1-4.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Glândula sudorípara - (circundado)",
+        "Parte secretora - (seta 6)",
+        "Ducto excretor - (seta 7)",
+        "Tecido adiposo - (*)"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "imgk1-4",
+      "tituloSecaoH2": "K1 - Pele, planta do pé - HE"
+    },
+    "tf_pele_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K1 - Pele, planta do pé - HE — Derme Papilar - (seta longa)",
+      "aliasLegado": "k1-5.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_5_zoom.jpg",
+      "legendaTranscrita": [
+        "Derme Papilar - (seta longa)"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "imgk1-1",
+      "tituloSecaoH2": "K1 - Pele, planta do pé - HE"
+    },
+    "tf_pele_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K2 - Pele, pavilhão da orelha — Epiderme",
+      "aliasLegado": "k2-1.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Epiderme",
+        "Epitélio estratificado pavimentoso queratinizado - (seta curta) com queratina delgada - (seta longa) (mais simples e fina, faltando-lhe",
+        "freqüentemente as camadas granulosa e lúcida e apresentando camada córnea muito reduzida).",
+        "Folículo piloso (pilosebáceo) - (*)",
+        "Glândula sebácea - (ponta da seta)"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "k2-1",
+      "tituloSecaoH2": "K2 - Pele, pavilhão da orelha"
+    },
+    "tf_pele_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K2 - Pele, pavilhão da orelha",
+      "aliasLegado": "k2-2.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "K2 - Pele, pavilhão da orelha"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "k2-2",
+      "tituloSecaoH2": "K2 - Pele, pavilhão da orelha"
+    },
+    "tf_pele_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "K2 - Pele, pavilhão da orelha — Derme (tecido conjuntivo Denso) - (1)",
+      "aliasLegado": "k2-3.jpg",
+      "categoriaLegada": "11_pele",
+      "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Derme (tecido conjuntivo Denso) - (1)"
+      ],
+      "paginaLegada": "pele.html",
+      "ancora": "k2-1",
+      "tituloSecaoH2": "K2 - Pele, pavilhão da orelha"
+    },
+    "tf_conjuntivo_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C10 - Derme - HE — Tecido conjuntivo denso não modelado - (a)",
+      "aliasLegado": "c10.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c10_zoom.jpg",
+      "legendaTranscrita": [
+        "Tecido conjuntivo denso não modelado - (a)",
+        "(fibras colágenas dispostas em várias direções)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc10",
+      "tituloSecaoH2": "C10: Derme - HE"
+    },
+    "tf_conjuntivo_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C11 - Tecido Adiposo - HE — Tecido conjuntivo adiposo",
+      "aliasLegado": "c11.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c11_zoom.jpg",
+      "legendaTranscrita": [
+        "Tecido conjuntivo adiposo",
+        "Espaço ocupado pela gotícula de gordura desolvida no processo de preparação da lâmina - (*)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc11",
+      "tituloSecaoH2": "C11: Tecido Adiposo - HE"
+    },
+    "tf_conjuntivo_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C1 - Processo infeccioso crônico - HE",
+      "aliasLegado": "c1-04.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c1_04.jpg",
+      "legendaTranscrita": [
+        "C1 - Processo infeccioso crônico - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc3",
+      "tituloSecaoH2": "C1: Processo infeccioso crônico - HE"
+    },
+    "tf_conjuntivo_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C1 - Processo infeccioso crônico - HE",
+      "aliasLegado": "c1-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "C1 - Processo infeccioso crônico - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc2",
+      "tituloSecaoH2": "C1: Processo infeccioso crônico - HE"
+    },
+    "tf_conjuntivo_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C1 - Processo infeccioso crônico - HE — Processo infeccioso crônico",
+      "aliasLegado": "c1-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Processo infeccioso crônico",
+        "Fibroblasto - (a)",
+        "Fibrócito - (b)",
+        "Plasmócito - (c)",
+        "Linfócito - (d)",
+        "Macrófago - (e)",
+        "Polimorfonucleares (neutrófilos, eosinófilos) - (f)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc3",
+      "tituloSecaoH2": "C1: Processo infeccioso crônico - HE"
+    },
+    "tf_conjuntivo_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C1 - Processo infeccioso crônico - HE",
+      "aliasLegado": "c1-3.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "C1 - Processo infeccioso crônico - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc1",
+      "tituloSecaoH2": "C1: Processo infeccioso crônico - HE"
+    },
+    "tf_conjuntivo_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C2 - Granuloma de corpo estranho - HE — Granuloma de corpo estranho - (circundado)",
+      "aliasLegado": "c2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_zoom.jpg",
+      "legendaTranscrita": [
+        "Granuloma de corpo estranho - (circundado)",
+        "Células gigantes de corpo estranho (Fusão de macrófagos) - (seta longa)",
+        "originadas pela inserção de algodão na região subcutânea da pele - (seta curta)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc21",
+      "tituloSecaoH2": "C2: Granuloma de corpo estranho - HE"
+    },
+    "tf_conjuntivo_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C2 - Granuloma de corpo estranho - HE",
+      "aliasLegado": "c2-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C2 - Granuloma de corpo estranho - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc21",
+      "tituloSecaoH2": "C2: Granuloma de corpo estranho - HE"
+    },
+    "tf_conjuntivo_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C3 - Adenite tuberculosa - HE",
+      "aliasLegado": "c3.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c3_zoom.jpg",
+      "legendaTranscrita": [
+        "Células gigantes de corpo estranho (célula de Langhans) tecido conjuntivo comprometido, circundado por macrófagos fusionados ordenadamente - (circundado)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc31",
+      "tituloSecaoH2": "C3: Adenite tuberculosa - HE"
+    },
+    "tf_conjuntivo_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C4 - Mesentério - Azul de toluidina",
+      "aliasLegado": "c4-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_1_zoom.jpg",
+      "legendaTranscrita": [
+        "C4 - Mesentério - Azul de toluidina"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc41",
+      "tituloSecaoH2": "C4: Mesentério - Azul de toluidina"
+    },
+    "tf_conjuntivo_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C4 - Mesentério - Azul de toluidina",
+      "aliasLegado": "c4-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C4 - Mesentério - Azul de toluidina"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgq42",
+      "tituloSecaoH2": "C4: Mesentério - Azul de toluidina"
+    },
+    "tf_conjuntivo_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C5 - Fígado - Coloração vital — Células de Kupffer",
+      "aliasLegado": "c5-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Células de Kupffer",
+        "Células de Kupffer (sistema mononuclear fagocitário) - (setas)",
+        "Tonalidade avermelhada do citoplasma ocasionada pelo corante carmim acético e negro pelo corante nanquim."
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc51",
+      "tituloSecaoH2": "C5: Fígado - Coloração vital"
+    },
+    "tf_conjuntivo_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C5 - Fígado - Coloração vital",
+      "aliasLegado": "c5-11.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_11_zoom.jpg",
+      "legendaTranscrita": [
+        "C5 - Fígado - Coloração vital"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc51",
+      "tituloSecaoH2": "C5: Fígado - Coloração vital"
+    },
+    "tf_conjuntivo_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C5 - Fígado - Coloração vital",
+      "aliasLegado": "c5-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C5 - Fígado - Coloração vital"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc52",
+      "tituloSecaoH2": "C5: Fígado - Coloração vital"
+    },
+    "tf_conjuntivo_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C5 - Fígado - Coloração vital",
+      "aliasLegado": "c5-4.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_4_zoom.jpg",
+      "legendaTranscrita": [
+        "C5 - Fígado - Coloração vital"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc54",
+      "tituloSecaoH2": "C5: Fígado - Coloração vital"
+    },
+    "tf_conjuntivo_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C6 - Artéria de calibre grande - Mallory — ARTÉRIA DE CALIBRE GRANDE",
+      "aliasLegado": "c6-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_1_zoom.jpg",
+      "legendaTranscrita": [
+        "ARTÉRIA DE CALIBRE GRANDE",
+        "Colágeno corado em azul - (seta a)",
+        "Lâminas elásticas coradas em vermelho - (seta b)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc61",
+      "tituloSecaoH2": "C6: Artéria de calibre grande - Mallory"
+    },
+    "tf_conjuntivo_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C6 - Artéria de calibre grande - Mallory",
+      "aliasLegado": "c6-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C6 - Artéria de calibre grande - Mallory"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc61",
+      "tituloSecaoH2": "C6: Artéria de calibre grande - Mallory"
+    },
+    "tf_conjuntivo_018": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C7 - Artéria de calibre grande - Weigert",
+      "aliasLegado": "c7-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_1_zoom.jpg",
+      "legendaTranscrita": [
+        "C7 - Artéria de calibre grande - Weigert"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc71",
+      "tituloSecaoH2": "C7: Artéria de calibre grande - Weigert"
+    },
+    "tf_conjuntivo_019": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C7 - Artéria de calibre grande - Weigert — Mesentério - Lâminas elásticas",
+      "aliasLegado": "c7-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Mesentério - Lâminas elásticas",
+        "Fibras elásticas coradas em púrpura."
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc72",
+      "tituloSecaoH2": "C7: Artéria de calibre grande - Weigert"
+    },
+    "tf_conjuntivo_020": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C7 - Mesentério - Hart — Fibras elástica coradas em azul - (a)",
+      "aliasLegado": "c7-3.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c7_3.jpg",
+      "legendaTranscrita": [
+        "Fibras elástica coradas em azul - (a)",
+        "Mastócito - (b)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc73",
+      "tituloSecaoH2": "C7: Mesentério - Hart"
+    },
+    "tf_conjuntivo_021": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C7 - Mesentério - Hart",
+      "aliasLegado": "c7-4.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_4_zoom.jpg",
+      "legendaTranscrita": [
+        "C7 - Mesentério - Hart"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc73",
+      "tituloSecaoH2": "C7: Mesentério - Hart"
+    },
+    "tf_conjuntivo_022": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C8 - Fígado - Prata — Fibras reticulares e Colágenas",
+      "aliasLegado": "c8-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c8_1.jpg",
+      "legendaTranscrita": [
+        "Fibras reticulares e Colágenas",
+        "Fibras reticulares - (pretas-seta a)",
+        "Fibras colágenas - (castanho-seta b)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc81",
+      "tituloSecaoH2": "C8: Fígado - Prata"
+    },
+    "tf_conjuntivo_023": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C8 - Fígado - Prata",
+      "aliasLegado": "c8-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c8_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C8 - Fígado - Prata"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc81",
+      "tituloSecaoH2": "C8: Fígado - Prata"
+    },
+    "tf_conjuntivo_024": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C9 - Tendão - HE — Tecido conjuntivo denso modelado",
+      "aliasLegado": "c9-1.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Tecido conjuntivo denso modelado",
+        "Fibras colágenas orientadas em uma única direção - (a)",
+        "Fibroblastos e fibrócitos - (seta)"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc91",
+      "tituloSecaoH2": "C9: Tendão - HE"
+    },
+    "tf_conjuntivo_025": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C9 - Tendão - HE",
+      "aliasLegado": "c9-2.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_2_zoom.jpg",
+      "legendaTranscrita": [
+        "C9 - Tendão - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc92",
+      "tituloSecaoH2": "C9: Tendão - HE"
+    },
+    "tf_conjuntivo_026": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "C9 - Tendão - HE",
+      "aliasLegado": "c9-3.jpg",
+      "categoriaLegada": "3_conjuntivo",
+      "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_3_zoom.jpg",
+      "legendaTranscrita": [
+        "C9 - Tendão - HE"
+      ],
+      "paginaLegada": "conj.html",
+      "ancora": "imgc91",
+      "tituloSecaoH2": "C9: Tendão - HE"
+    },
+    "se_cartilagem_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D1 - Traqueia - HE — Cartilagem Hialina - HE",
+      "aliasLegado": "d1-1.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d1_1.jpg",
+      "legendaTranscrita": [
+        "Cartilagem Hialina - HE",
+        "Pericôndrio fibroso - (a)"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "img1-1",
+      "tituloSecaoH2": "D1: Traqueia - HE"
+    },
+    "se_cartilagem_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D1 - Traqueia - HE — Matriz",
+      "aliasLegado": "d1-2.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Matriz",
+        "Territorial (basófila circundando a célula) - (seta 4)"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "img1-1",
+      "tituloSecaoH2": "D1: Traqueia - HE"
+    },
+    "se_cartilagem_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D2 - Pavilhão da orelha - Mallory — Cartilagem Elástica",
+      "aliasLegado": "d2-01.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_01_zoom.jpg",
+      "legendaTranscrita": [
+        "Cartilagem Elástica",
+        "Pericôndrio fibroso - (a)"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd201",
+      "tituloSecaoH2": "D2: Pavilhão da orelha - Mallory"
+    },
+    "se_cartilagem_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D2 - Pavilhão da orelha - Mallory",
+      "aliasLegado": "d2-03.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_03_zoom.jpg",
+      "legendaTranscrita": [
+        "D2 - Pavilhão da orelha - Mallory"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd201",
+      "tituloSecaoH2": "D2: Pavilhão da orelha - Mallory"
+    },
+    "se_cartilagem_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D2 - Pavilhão da orelha - Mallory",
+      "aliasLegado": "d2-1.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d2_1.jpg",
+      "legendaTranscrita": [
+        "D2 - Pavilhão da orelha - Mallory"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd22",
+      "tituloSecaoH2": "D2: Pavilhão da orelha - Mallory"
+    },
+    "se_cartilagem_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D3 - Menisco - HE",
+      "aliasLegado": "d3-01.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_01_zoom.jpg",
+      "legendaTranscrita": [
+        "D3 - Menisco - HE"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd31",
+      "tituloSecaoH2": "D3: Menisco - HE"
+    },
+    "se_cartilagem_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D3 - Menisco - HE",
+      "aliasLegado": "d3-02.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_02_zoom.jpg",
+      "legendaTranscrita": [
+        "D3 - Menisco - HE"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd32",
+      "tituloSecaoH2": "D3: Menisco - HE"
+    },
+    "se_cartilagem_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "D3 - Menisco - HE",
+      "aliasLegado": "d3-03.jpg",
+      "categoriaLegada": "4_cartilagem",
+      "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_03_zoom.jpg",
+      "legendaTranscrita": [
+        "D3 - Menisco - HE"
+      ],
+      "paginaLegada": "cartilagem.html",
+      "ancora": "imgd33",
+      "tituloSecaoH2": "D3: Menisco - HE"
+    },
+    "se_osso_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E1 - Osso compacto desgastado (corte transversal do fêmur)",
+      "aliasLegado": "e12.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e12_zoom.jpg",
+      "legendaTranscrita": [
+        "E1 - Osso compacto desgastado (corte transversal do fêmur)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e12",
+      "tituloSecaoH2": "E1: Osso compacto desgastado (corte transversal do fêmur)"
+    },
+    "se_osso_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E1 - Osso compacto desgastado (corte transversal do fêmur) — Sistema de Havers (Osteon) - (c)",
+      "aliasLegado": "e13.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e13_zoom.jpg",
+      "legendaTranscrita": [
+        "Sistema de Havers (Osteon) - (c)",
+        "Sistema intermediário (remanescente do Sistema de Havers) - (b)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e13",
+      "tituloSecaoH2": "E1: Osso compacto desgastado (corte transversal do fêmur)"
+    },
+    "se_osso_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E2 - Osso esponjoso desgastado(crânio) — Parte esponjosa:",
+      "aliasLegado": "e2-1.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Parte esponjosa:",
+        "Trabéculas ósseas constituídas de lamínulas - (b)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e2",
+      "tituloSecaoH2": "E2: Osso esponjoso desgastado(crânio)"
+    },
+    "se_osso_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E2 - Osso esponjoso desgastado(crânio)",
+      "aliasLegado": "e2-2.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "E2 - Osso esponjoso desgastado(crânio)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e22",
+      "tituloSecaoH2": "E2: Osso esponjoso desgastado(crânio)"
+    },
+    "se_osso_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E3 - Osso desmineralizado - HE",
+      "aliasLegado": "e3.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e3_zoom.jpg",
+      "legendaTranscrita": [
+        "Trabéculas ósseas - (a)",
+        "(Matriz desmineralizada) - (b)",
+        "Osteoblastos - (seta 1)",
+        "Osteócitos - (seta 2)",
+        "Ostoclastos em coluna de reabsorção (Howship) - (seta 3)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e3",
+      "tituloSecaoH2": "E3: Osso desmineralizado - HE"
+    },
+    "se_osso_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E3 - Osso desmineralizado - HE",
+      "aliasLegado": "e32.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e32_zoom.jpg",
+      "legendaTranscrita": [
+        "E3 - Osso desmineralizado - HE"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e32",
+      "tituloSecaoH2": "E3: Osso desmineralizado - HE"
+    },
+    "se_osso_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E4 - Ossificação Endocondral -HE",
+      "aliasLegado": "e4.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e4_zoom.jpg",
+      "legendaTranscrita": [
+        "Zona de cartilagem em repouso - (1)",
+        "Zona de cartilagem seriada ou de multiplicação - (2)",
+        "Zona de cartilagem hipertrófica - (3)",
+        "Zona de cartilagem calcificada - (4)",
+        "Zona de ossificação (5) (com espículas ósseas - {ponta de seta} )"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e4",
+      "tituloSecaoH2": "E4: Ossificação Endocondral -HE"
+    },
+    "se_osso_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E4 - Ossificação Endocondral -HE",
+      "aliasLegado": "e43.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e43_zoom.jpg",
+      "legendaTranscrita": [
+        "Zona de cartilagem em repouso - (1)",
+        "Zona de cartilagem seriada ou de multiplicação - (2)",
+        "Zona de cartilagem hipertrófica - (3)",
+        "Zona de cartilagem calcificada - (4)",
+        "Zona de ossificação (5) (com espículas ósseas - {ponta de seta} )"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e43",
+      "tituloSecaoH2": "E4: Ossificação Endocondral -HE"
+    },
+    "se_osso_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E5 - Cabeça de feto- HE — Ossificação intramembramosa",
+      "aliasLegado": "e5.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e5_zoom.jpg",
+      "legendaTranscrita": [
+        "Ossificação intramembramosa",
+        "Membrana de natureza conjuntiva com células indiferenciadas - (a)",
+        "Trabéculas ósseas - (b)",
+        "Osteblastos - (1)",
+        "Osteócitos (no interior da matriz) - (2)",
+        "Osteoclastos - (3)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e5",
+      "tituloSecaoH2": "E5: Cabeça de feto- HE"
+    },
+    "se_osso_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E5 - Cabeça de feto- HE",
+      "aliasLegado": "e52.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e52_zoom.jpg",
+      "legendaTranscrita": [
+        "E5 - Cabeça de feto- HE"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e5",
+      "tituloSecaoH2": "E5: Cabeça de feto- HE"
+    },
+    "se_osso_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E6 - Disco epifisário (cartilagem hialina)- HE — Ossificação endocondral",
+      "aliasLegado": "e6.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e6_zoom.jpg",
+      "legendaTranscrita": [
+        "Ossificação endocondral",
+        "Disco epifisário - (*)",
+        "Pericôndrio - (a)",
+        "Condroblastos - (b)",
+        "Condrócitos (no interior dos condroplastos) - (c)",
+        "Grupos isógenos axiais - (d)"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e6",
+      "tituloSecaoH2": "E6: Disco epifisário (cartilagem hialina)- HE"
+    },
+    "se_osso_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "E6 - Disco epifisário (cartilagem hialina)- HE",
+      "aliasLegado": "e62.jpg",
+      "categoriaLegada": "5_osso",
+      "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e62_zoom.jpg",
+      "legendaTranscrita": [
+        "E6 - Disco epifisário (cartilagem hialina)- HE"
+      ],
+      "paginaLegada": "osso.html",
+      "ancora": "e6",
+      "tituloSecaoH2": "E6: Disco epifisário (cartilagem hialina)- HE"
+    },
+    "sm_histologia_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F1 - Língua, porção anterior - H.E / H.F — Músculo estriado esquelético",
+      "aliasLegado": "f1.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_zoom.jpg",
+      "legendaTranscrita": [
+        "Músculo estriado esquelético",
+        "Fibras Musculares (células longas e multinucleadas) - (1)",
+        "Núcleos periféricos - (seta 2)",
+        "Presença de estrias transversais - (seta 3)",
+        "Núcleo de fibroblastos no endomísio - (seta 4)",
+        "Corte transversal - (circundado)"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f1",
+      "tituloSecaoH2": "F1: Língua, porção anterior - H.E / H.F"
+    },
+    "sm_histologia_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F1 - Língua, porção anterior - H.E / H.F",
+      "aliasLegado": "f1-2.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "F1 - Língua, porção anterior - H.E / H.F"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f12",
+      "tituloSecaoH2": "F1: Língua, porção anterior - H.E / H.F"
+    },
+    "sm_histologia_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F1 - Língua, porção anterior - H.E / H.F",
+      "aliasLegado": "f1-3.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "F1 - Língua, porção anterior - H.E / H.F"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f1",
+      "tituloSecaoH2": "F1: Língua, porção anterior - H.E / H.F"
+    },
+    "sm_histologia_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F2 - Coração - H.E / H.F — Músculo estriado cardíaco",
+      "aliasLegado": "f2.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_zoom.jpg",
+      "legendaTranscrita": [
+        "Músculo estriado cardíaco",
+        "Fibras (células alongadas - com anastomoses irregulares) - (1)",
+        "Um ou dois núcleos centrais - (seta 2)",
+        "Presença de estrias transversais - (seta 3)",
+        "Discos intercalares (traços escalariformes) - (seta 4)"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f2",
+      "tituloSecaoH2": "F2: Coração - H.E / H.F"
+    },
+    "sm_histologia_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F2 - Coração - H.E / H.F",
+      "aliasLegado": "f22.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f22_zoom.jpg",
+      "legendaTranscrita": [
+        "F2 - Coração - H.E / H.F"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f22",
+      "tituloSecaoH2": "F2: Coração - H.E / H.F"
+    },
+    "sm_histologia_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F2 - Coração - H.E / H.F",
+      "aliasLegado": "f2-3.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "F2 - Coração - H.E / H.F"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f2",
+      "tituloSecaoH2": "F2: Coração - H.E / H.F"
+    },
+    "sm_histologia_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F3 - Útero - HE F3: Jejuno-íleo - HE — Músculo liso",
+      "aliasLegado": "f3.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f3_zoom.jpg",
+      "legendaTranscrita": [
+        "Músculo liso",
+        "Fibras com células longas e finas - (1)",
+        "Núcleo longo e central na célula - (seta 2)",
+        "Ausência de estrias transversais - (seta 3)",
+        "Corte longitudinal - (4)",
+        "Corte transversal - (5)"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f3",
+      "tituloSecaoH2": "F3: Útero - HE F3: Jejuno-íleo - HE"
+    },
+    "sm_histologia_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "F3 - Útero - HE F3: Jejuno-íleo - HE",
+      "aliasLegado": "f32.jpg",
+      "categoriaLegada": "6_musculo",
+      "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f32_zoom.jpg",
+      "legendaTranscrita": [
+        "F3 - Útero - HE F3: Jejuno-íleo - HE"
+      ],
+      "paginaLegada": "musc.html",
+      "ancora": "f3",
+      "tituloSecaoH2": "F3: Útero - HE F3: Jejuno-íleo - HE"
+    },
+    "sc_linfoide_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I1 - Linfonodo - HE — Cápsula - (seta a)",
+      "aliasLegado": "l11.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l11_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (seta a)",
+        "Seio subcapsular (tecido linfóide frouxo) - (ponta da seta preta - b)",
+        "Vasos linfáticos aferentes (menores e centrípetos) - (seta c)",
+        "Emite septos ou trabéculas de conjuntivo - (ponta da seta amarela - d)",
+        "Seio peritrabecular ou perinodular (tecido linfóide frouxo) - (ponta da seta alaranjada - e)",
+        "Medular",
+        "Cordões medulares tecido linfóide denso formando trabéculas - (seta longa azul f)",
+        "Seios medulares (espaços entre os cordões) - tecido linfóide frouxo - (seta g)",
+        "Hilo (h)",
+        "Vasos linfáticos eferentes (maiores e centrífugos) - (i)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l11",
+      "tituloSecaoH2": "I1 - Linfonodo - HE"
+    },
+    "sc_linfoide_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I1 - Linfonodo - HE",
+      "aliasLegado": "l12.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l12_zoom.jpg",
+      "legendaTranscrita": [
+        "I1 - Linfonodo - HE"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l12",
+      "tituloSecaoH2": "I1 - Linfonodo - HE"
+    },
+    "sc_linfoide_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I1 - Linfonodo - HE — Cortical (externa) - (*)",
+      "aliasLegado": "l13.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l13_zoom.jpg",
+      "legendaTranscrita": [
+        "Cortical (externa) - (*)",
+        "Seio peritrabecular ou perinodular (tecido linfóide frouxo) - (ponta da seta alaranjada e)",
+        "Nódulo linfático"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l11",
+      "tituloSecaoH2": "I1 - Linfonodo - HE"
+    },
+    "sc_linfoide_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I2 - Timo - HE — Cápsula - (1)",
+      "aliasLegado": "l21.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l21_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (1)",
+        "Tecido conjuntivo interlobular (septos conjuntivos oriundos da cápsula) - (seta a)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l21",
+      "tituloSecaoH2": "I2: Timo - HE"
+    },
+    "sc_linfoide_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I2 - Timo - HE — Lóbulos - (circundado)",
+      "aliasLegado": "l22.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l22_zoom.jpg",
+      "legendaTranscrita": [
+        "Lóbulos - (circundado)",
+        "Cortical - (2)",
+        "Predomínio de linfócitos maduros"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l21",
+      "tituloSecaoH2": "I2: Timo - HE"
+    },
+    "sc_linfoide_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I3 - Baço - HE",
+      "aliasLegado": "l31.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l31_zoom.jpg",
+      "legendaTranscrita": [
+        "I3 - Baço - HE"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l31",
+      "tituloSecaoH2": "I3: Baço - HE"
+    },
+    "sc_linfoide_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I3 - Baço - HE",
+      "aliasLegado": "l32.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l32_zoom.jpg",
+      "legendaTranscrita": [
+        "Polpa branca (corpúsculo de Malpighi) - (circundado)",
+        "Nódulo linfático com arteríola central - (seta a) (normalmente é excêntrica)",
+        "Polpa vermelha - (2)",
+        "Sinusóides (seios esplênicos) - (seta b)",
+        "Cordões esplênicos (de Billroth) - (circundado c)",
+        "Artérias e veias trabeculares - (3)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l32",
+      "tituloSecaoH2": "I3: Baço - HE"
+    },
+    "sc_linfoide_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I3 - Baço - HE",
+      "aliasLegado": "l33.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l33_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (1)",
+        "Presença de músculo liso"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l33",
+      "tituloSecaoH2": "I3: Baço - HE"
+    },
+    "sc_linfoide_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I4 - Tonsila palatina (amígdala) - HE",
+      "aliasLegado": "l41.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l41_zoom.jpg",
+      "legendaTranscrita": [
+        "Criptas - (*)",
+        "Tecido linfóide denso - faixa sob o epitélio, contendo",
+        "nódulos linfáticos, em geral com centros germinativos - (1)",
+        "Epitélio estratificado pavimentoso - (a)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l41",
+      "tituloSecaoH2": "I4: Tonsila palatina (amígdala) - HE"
+    },
+    "sc_linfoide_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I4 - Tonsila palatina (amígdala) - HE",
+      "aliasLegado": "l42.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l42_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (seta longa)",
+        "Tecido conjuntivo denso com vasos (ácinos salivares mucosos) - (seta curta)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l42",
+      "tituloSecaoH2": "I4: Tonsila palatina (amígdala) - HE"
+    },
+    "sc_linfoide_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "I5 - Íleo: Placa de Peyer - HE",
+      "aliasLegado": "l5.jpg",
+      "categoriaLegada": "9_linfatico",
+      "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l5_zoom.jpg",
+      "legendaTranscrita": [
+        "Presença de grande quantidade de nódulos linfáticos no ÍLEO. - (seta longa)"
+      ],
+      "paginaLegada": "linfa.html",
+      "ancora": "l5",
+      "tituloSecaoH2": "I5: Íleo: Placa de Peyer - HE"
+    },
+    "sc_vasos_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H1 - Coração - HE — Epicárdio - (a) imagem 1",
+      "aliasLegado": "h11.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h11_zoom.jpg",
+      "legendaTranscrita": [
+        "Epicárdio - (a) imagem 1",
+        "Folheto visceral do pericárdio seroso (Mesotélio) - (seta curta)",
+        "e (camada sub-mesotelial) - (a partir da seta longa até o miocárdio) - (c)",
+        "Células adiposas (adipócitos)- (1) , vasos - (2) e nervos - (3)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h11",
+      "tituloSecaoH2": "H1: Coração - HE"
+    },
+    "sc_vasos_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H1 - Coração - HE — Epicárdio - (a) imagem 2",
+      "aliasLegado": "h12.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h12_zoom.jpg",
+      "legendaTranscrita": [
+        "Epicárdio - (a) imagem 2",
+        "Folheto visceral do pericárdio seroso (Mesotélio) - (seta curta)",
+        "e (camada sub-mesotelial) - (miocárdio) - (c)",
+        "Endocárdio - (d)",
+        "Células adiposas (adipócitos)- (1) , vasos - (2) e nervos - (3)",
+        "Cordas Tendíneas - (4)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h12",
+      "tituloSecaoH2": "H1: Coração - HE"
+    },
+    "sc_vasos_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H1 - Coração - HE — Endocardio",
+      "aliasLegado": "h13.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h13_zoom.jpg",
+      "legendaTranscrita": [
+        "Endocardio",
+        "Endotélio (Epitélio pavimentoso simples) (seta curta verde)",
+        "Camada subendotelial (seta longa verde)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h11",
+      "tituloSecaoH2": "H1: Coração - HE"
+    },
+    "sc_vasos_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H1 - Coração - HE — Miocárdio",
+      "aliasLegado": "h14.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h14_zoom.jpg",
+      "legendaTranscrita": [
+        "Miocárdio",
+        "Músculo estriado cardíaco"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h14",
+      "tituloSecaoH2": "H1: Coração - HE"
+    },
+    "sc_vasos_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H2 - Coração - HF — Músculo estriado cardíaco (miocárdio)",
+      "aliasLegado": "h21.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h21_zoom.jpg",
+      "legendaTranscrita": [
+        "Músculo estriado cardíaco (miocárdio)",
+        "Observar os discos intercalares (traços escuros transversais à fibra) - (seta) ."
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h21",
+      "tituloSecaoH2": "H2: Coração - HF"
+    },
+    "sc_vasos_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H3 - Artéria de calibre grande (tipo elástico) - Weigert (fucsina) — Lâminas elásticas coradas especificamente - (seta amarela)",
+      "aliasLegado": "h31.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h31_zoom.jpg",
+      "legendaTranscrita": [
+        "Lâminas elásticas coradas especificamente - (seta amarela)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h31",
+      "tituloSecaoH2": "H3: Artéria de calibre grande (tipo elástico) - Weigert (fucsina)"
+    },
+    "sc_vasos_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H4 - Artéria de calibre grande (tipo elástico) - Mallory",
+      "aliasLegado": "h41.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h41_zoom.jpg",
+      "legendaTranscrita": [
+        "Túnica íntima (indistintas) - (a)",
+        "Túnica Média - (b)",
+        "apresentando colágeno corado em azul - (1)",
+        "e membranas elásticas em púrpura - (2)",
+        "Túnica Adventícia - (c)",
+        "Tecido conjuntivo com vasos e nervos",
+        "Vasa vasorum (vaso do vaso) - (seta)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h41",
+      "tituloSecaoH2": "H4: Artéria de calibre grande (tipo elástico) - Mallory"
+    },
+    "sc_vasos_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H4 - Artéria de calibre grande (tipo elástico) - Mallory",
+      "aliasLegado": "h42.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h42_zoom.jpg",
+      "legendaTranscrita": [
+        "H4 - Artéria de calibre grande (tipo elástico) - Mallory"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h42",
+      "tituloSecaoH2": "H4: Artéria de calibre grande (tipo elástico) - Mallory"
+    },
+    "sc_vasos_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica íntima ou interna - (a)",
+      "aliasLegado": "h51.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h51_zoom.jpg",
+      "legendaTranscrita": [
+        "Túnica íntima ou interna - (a)",
+        "Endotélio (epitélio simples pavimentoso) - (1)",
+        "Camada subendotelial- (2)",
+        "Limitante elástica interna - (seta)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h51",
+      "tituloSecaoH2": "H5: Artéria de calibre médio (tipo muscular) - HE"
+    },
+    "sc_vasos_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica média - (b)",
+      "aliasLegado": "h52.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h52_zoom.jpg",
+      "legendaTranscrita": [
+        "Túnica média - (b)",
+        "Músculo liso - (3)",
+        "Limitante elástica externa - (ponta da seta)",
+        "Túnica adventícia ou externa - (c)",
+        "Vasa vasorum (vaso do vaso)",
+        "Nervos - (4)",
+        "Tecido conjuntivo - (*)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h52",
+      "tituloSecaoH2": "H5: Artéria de calibre médio (tipo muscular) - HE"
+    },
+    "sc_vasos_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+      "aliasLegado": "h53.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h53_zoom.jpg",
+      "legendaTranscrita": [
+        "H5 - Artéria de calibre médio (tipo muscular) - HE"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h53",
+      "tituloSecaoH2": "H5: Artéria de calibre médio (tipo muscular) - HE"
+    },
+    "sc_vasos_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+      "aliasLegado": "h54.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h54_zoom.jpg",
+      "legendaTranscrita": [
+        "H5 - Artéria de calibre médio (tipo muscular) - HE"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h54",
+      "tituloSecaoH2": "H5: Artéria de calibre médio (tipo muscular) - HE"
+    },
+    "sc_vasos_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+      "aliasLegado": "h55.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h55_zoom.jpg",
+      "legendaTranscrita": [
+        "H5 - Artéria de calibre médio (tipo muscular) - HE"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h51",
+      "tituloSecaoH2": "H5: Artéria de calibre médio (tipo muscular) - HE"
+    },
+    "sc_vasos_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H6 - VASO LINFÁTICO - HE — Vaso linfático",
+      "aliasLegado": "h61.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h61_zoom.jpg",
+      "legendaTranscrita": [
+        "Vaso linfático",
+        "Morfologia parecida com a das veias.",
+        "Possui parede mais delgada sem separação nítida entre as túnicas íntima, média e adventícia.",
+        "Válvula - (seta a) .",
+        "Endotélio - (seta b)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h61",
+      "tituloSecaoH2": "H6: VASO LINFÁTICO - HE"
+    },
+    "sc_vasos_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H6 - VASO LINFÁTICO - HE",
+      "aliasLegado": "h62.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h62_zoom.jpg",
+      "legendaTranscrita": [
+        "H6 - VASO LINFÁTICO - HE"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h61",
+      "tituloSecaoH2": "H6: VASO LINFÁTICO - HE"
+    },
+    "sc_vasos_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+      "aliasLegado": "h71.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h71_zoom.jpg",
+      "legendaTranscrita": [
+        "Arteríola - (seta curta)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h71",
+      "tituloSecaoH2": "H7: Arteríolas, Vênulas e capilares sanguíneos- HE"
+    },
+    "sc_vasos_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+      "aliasLegado": "h72.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h72_zoom.jpg",
+      "legendaTranscrita": [
+        "Vênula - (seta longa)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h72",
+      "tituloSecaoH2": "H7: Arteríolas, Vênulas e capilares sanguíneos- HE"
+    },
+    "sc_vasos_018": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+      "aliasLegado": "h73.jpg",
+      "categoriaLegada": "8_vascular",
+      "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h73_zoom.jpg",
+      "legendaTranscrita": [
+        "Capilar - (ponta de seta)"
+      ],
+      "paginaLegada": "vasc.html",
+      "ancora": "h73",
+      "tituloSecaoH2": "H7: Arteríolas, Vênulas e capilares sanguíneos- HE"
+    },
+    "sr_laminas_atlas_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L1 - Traqueia - HE",
+      "aliasLegado": "l1-1.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "L1 - Traqueia - HE"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l1-1",
+      "tituloSecaoH2": "L1 - Traqueia - HE"
+    },
+    "sr_laminas_atlas_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L1 - Traqueia - HE — Mucosa",
+      "aliasLegado": "l1-2.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Epitélio pseudo-estratificado cilíndrico ciliado - (ponta da seta)",
+        "Cílios - (seta A)",
+        "Célula cilíndrica ciliada - (1)",
+        "Célula caliciforme - (2)",
+        "Célula basal (de renovação ou substituição) - (seta B)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l1-2",
+      "tituloSecaoH2": "L1 - Traqueia - HE"
+    },
+    "sr_laminas_atlas_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L1 - Traqueia - HE — Submucosa",
+      "aliasLegado": "l1-3.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Submucosa",
+        "Glândulas seromucosas e mucosas - (seta longa amarela)",
+        "Arco cartilaginoso (cartilagem hialina com pericôndrio) - (seta)",
+        "Músculo traqueal - (seta C)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l1-2",
+      "tituloSecaoH2": "L1 - Traqueia - HE"
+    },
+    "sr_laminas_atlas_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Alvéolo - (H)",
+      "aliasLegado": "l2-1.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Alvéolo - (H)",
+        "Saco alveolar (conjunto de alvéolos)",
+        "Septos interalveolares",
+        "Capilar do tipo contínuo - (seta 12)",
+        "Pneumócito I - (seta 13)",
+        "Pneumócito II - (seta 14)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-1",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Pleura visceral - (seta 1)",
+      "aliasLegado": "l2-3.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Pleura visceral - (seta 1)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-1",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Lobar (grande brônquio de distribuição) - (seta A)",
+      "aliasLegado": "l2-4.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Brônquio Lobar (grande brônquio de distribuição) - (seta A)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-2",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — P.P.D. - propriamente dito - (seta C)",
+      "aliasLegado": "l2-5.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_5_zoom.jpg",
+      "legendaTranscrita": [
+        "P.P.D. - propriamente dito - (seta C)",
+        "Epitélio simples cilíndrico com células caliciformes - (seta 8)",
+        "Luz festonada ou pregueada",
+        "Músculo liso (Reisseissen) - (seta 9)",
+        "Não há glândulas"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-3",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Terminal - (seta D)",
+      "aliasLegado": "l2-6.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_6_zoom.jpg",
+      "legendaTranscrita": [
+        "Terminal - (seta D)",
+        "Parede pouco festonada (dobras), mas não descontínua - (seta 10)",
+        "Epitélio simples cúbico com células ciliadas e não-ciliadas",
+        "Ausência de células caliciformes",
+        "Células de Clara na superfície"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-5",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Respiratório - (E)",
+      "aliasLegado": "l2-7.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_7_zoom.jpg",
+      "legendaTranscrita": [
+        "Respiratório - (E)",
+        "Epitélio simples cúbico",
+        "Parede descontínua",
+        "Presença de músculo liso - (seta 11)",
+        "Ducto alveolar - (F)",
+        "Dicotomia do bronquíolo respiratório em condutos alveolares",
+        "Epitélio cúbico com células muito baixas",
+        "Parede muito descontínua",
+        "Presença de músculo liso (algumas células)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-6",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Segmentar (interlobular) - (seta B)",
+      "aliasLegado": "l2-9.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_9_zoom.jpg",
+      "legendaTranscrita": [
+        "Brônquio Segmentar (interlobular) - (seta B)",
+        "Mucosa",
+        "Epitélio pseudo estratificado cilíndrico ciliado - (seta 3)",
+        "Lâmina própria - (seta 4)",
+        "Músculo liso (Reisseissen) - (seta 5)",
+        "Submucosa",
+        "Glândulas seromucosas (mistas) e mucosas - (6)",
+        "Peças cartilaginosas (cartilagem hialina com pericôndrio ) - (seta 2)",
+        "Adventícia (delgada) - (seta 7)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l2-4",
+      "tituloSecaoH2": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE"
+    },
+    "sr_laminas_atlas_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L4 - Pulmão fetal - HE",
+      "aliasLegado": "l4-1.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Bronquíolos em formação apresentando epitélio simples cúbico",
+        "Dicotomia brônquica - (seta longa)",
+        "Tecido conjuntivo - (1)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l4-1",
+      "tituloSecaoH2": "L4 - Pulmão fetal - HE"
+    },
+    "sr_laminas_atlas_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "L4 - Pulmão fetal - HE",
+      "aliasLegado": "l4-2.jpg",
+      "categoriaLegada": "12_respiratorio",
+      "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Bronquíolos em formação apresentando epitélio simples cúbico",
+        "Dicotomia brônquica - (seta longa)",
+        "Tecido conjuntivo - (1)"
+      ],
+      "paginaLegada": "respi.html",
+      "ancora": "l4-2",
+      "tituloSecaoH2": "L4 - Pulmão fetal - HE"
+    },
+    "sd_laminas_atlas_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J10 - Íleo: Placa de Peyer - HE — Mucosa - (A)",
+      "aliasLegado": "j101.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j101_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa - (A)",
+        "Vilos revestidos por epitélio cilíndrico simples",
+        "com células M - (seta 6) e células caliciformes - (seta 7)",
+        "Lâmina própria - (8)",
+        "Glândula (cripta) de Lieberkühn (gls. intestinais) - (9)",
+        "Muscular da mucosa (contínua) - (11)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j101",
+      "tituloSecaoH2": "J10 - Íleo: Placa de Peyer - HE"
+    },
+    "sd_laminas_atlas_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J10 - Íleo: Placa de Peyer - HE — Submucosa - (B)",
+      "aliasLegado": "j102.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j102_zoom.jpg",
+      "legendaTranscrita": [
+        "Submucosa - (B)",
+        "Presença de grande quantidade de nódulos linfáticos (formando a placa de Peyer) - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j102",
+      "tituloSecaoH2": "J10 - Íleo: Placa de Peyer - HE"
+    },
+    "sd_laminas_atlas_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J10 - Íleo: Placa de Peyer - HE — Muscular (músculo liso) - (C)",
+      "aliasLegado": "j103.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j103_zoom.jpg",
+      "legendaTranscrita": [
+        "Muscular (músculo liso) - (C)",
+        "Camada circular interna - (13)",
+        "Camada longitudinal externa - (14)",
+        "Serosa (delgada) - (D)",
+        "Mesotélio",
+        "Camada submesotelial"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j101",
+      "tituloSecaoH2": "J10 - Íleo: Placa de Peyer - HE"
+    },
+    "sd_laminas_atlas_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J1/J2-Língua, porção anterior- HE — Mucosa ventral",
+      "aliasLegado": "j11.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j11_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa ventral",
+        "Epitélio estratificado pavimentoso não queratinizado - (ponta de seta)",
+        "Lâmina própria - (5)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj11",
+      "tituloSecaoH2": "J1/J2-Língua, porção anterior- HE"
+    },
+    "sd_laminas_atlas_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J11 - Apêndice vermiforme ou cecal- HE — Mucosa",
+      "aliasLegado": "j111.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j111_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Epitélio simples cilíndrico",
+        "Lâmina própria",
+        "Células absortivas",
+        "Células caliciformes em grande quantidade - (seta 8)",
+        "Poucas glândulas de Lieberkühn (glândulas intestinais) - (1)",
+        "Numerosos nódulos linfáticos - (2)",
+        "Muscular da mucosa (músculo liso) - (3)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j111",
+      "tituloSecaoH2": "J11 - Apêndice vermiforme ou cecal- HE"
+    },
+    "sd_laminas_atlas_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J11 - Apêndice vermiforme ou cecal- HE — Submucosa - (4)",
+      "aliasLegado": "j112.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j112_zoom.jpg",
+      "legendaTranscrita": [
+        "Submucosa - (4)",
+        "Presença de nódulos linfáticos",
+        "Muscular (músculo liso)",
+        "Camada circular interna - (5)",
+        "Camada longitudinal externa - (6)",
+        "Serosa - (7)",
+        "Mesotélio - (seta curta)",
+        "Camada submesotelial - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j111",
+      "tituloSecaoH2": "J11 - Apêndice vermiforme ou cecal- HE"
+    },
+    "sd_laminas_atlas_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J1/J2-Língua, porção anterior- HE — Feixe vásculo-nervoso",
+      "aliasLegado": "j12.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j12_zoom.jpg",
+      "legendaTranscrita": [
+        "Feixe vásculo-nervoso",
+        "Artéria - (A)",
+        "Veia - (B)",
+        "Nervo - (C)",
+        "Músculo estriado esquelético - (3)",
+        "Tecido adiposo - (4)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj13",
+      "tituloSecaoH2": "J1/J2-Língua, porção anterior- HE"
+    },
+    "sd_laminas_atlas_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J1/J2-Língua, porção anterior- HE — Mucosa dorsal",
+      "aliasLegado": "j13.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j13_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa dorsal",
+        "Epitélio estratificado pavimentoso (2) com queratina delgada (1) (não queratinizado no humano.)",
+        "Papilas fungiformes - (seta longa)",
+        "Papilas Filiformes - (seta curta)",
+        "Lâmina própria - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj13",
+      "tituloSecaoH2": "J1/J2-Língua, porção anterior- HE"
+    },
+    "sd_laminas_atlas_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J13 - Intestino grosso, corte Longitudinal - HE — Muscular (músculo liso) - (C)",
+      "aliasLegado": "j133.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j133_zoom.jpg",
+      "legendaTranscrita": [
+        "Muscular (músculo liso) - (C)",
+        "Camada circular interna - (5)",
+        "Camada longitudinal externa - (6)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j133",
+      "tituloSecaoH2": "J13 - Intestino grosso, corte Longitudinal - HE"
+    },
+    "sd_laminas_atlas_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J13 - Intestino grosso, corte Longitudinal - HE — Serosa (delgada)- (D)",
+      "aliasLegado": "j134.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j134_zoom.jpg",
+      "legendaTranscrita": [
+        "Serosa (delgada)- (D)",
+        "Mesotélio - (seta curta)",
+        "Camada submesotelial - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j131",
+      "tituloSecaoH2": "J13 - Intestino grosso, corte Longitudinal - HE"
+    },
+    "sd_laminas_atlas_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J14-Glândula parótida-HE — Glândula multilobulada",
+      "aliasLegado": "j141.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j141_zoom.jpg",
+      "legendaTranscrita": [
+        "Glândula multilobulada",
+        "Ácinos serosos (glândula serosa pura) - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j141",
+      "tituloSecaoH2": "J14-Glândula parótida-HE"
+    },
+    "sd_laminas_atlas_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J14-Glândula parótida-HE — Excretor - (3)",
+      "aliasLegado": "j142.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j142_zoom.jpg",
+      "legendaTranscrita": [
+        "Excretor - (3)",
+        "Epitélio estratificado cilíndrico (envolvido por uma camada bem desenvolvida de tecido conjuntivo interlobular) - (4)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j141",
+      "tituloSecaoH2": "J14-Glândula parótida-HE"
+    },
+    "sd_laminas_atlas_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J14-Glândula parótida-HE — Cápsula - (seta A)",
+      "aliasLegado": "j143.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j143_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (seta A)",
+        "Trabeculas - (seta - B)",
+        "Ductos",
+        "Intercalar - (1)",
+        "Epitélio simples cúbico"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j143",
+      "tituloSecaoH2": "J14-Glândula parótida-HE"
+    },
+    "sd_laminas_atlas_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J14-Glândula parótida-HE — Estriado - (2)",
+      "aliasLegado": "j144.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j144_zoom.jpg",
+      "legendaTranscrita": [
+        "Estriado - (2)",
+        "Epitélio simples cúbico/Epitélio simples cilíndrico"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j144",
+      "tituloSecaoH2": "J14-Glândula parótida-HE"
+    },
+    "sd_laminas_atlas_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J15 - Glândula submandibular - HE — Glândula multilobulada",
+      "aliasLegado": "j151.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j151_zoom.jpg",
+      "legendaTranscrita": [
+        "Glândula multilobulada",
+        "Glândula mista com predominância serosa"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j151",
+      "tituloSecaoH2": "J15 - Glândula submandibular - HE"
+    },
+    "sd_laminas_atlas_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J15 - Glândula submandibular - HE — Ductos",
+      "aliasLegado": "j152.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j152_zoom.jpg",
+      "legendaTranscrita": [
+        "Ductos",
+        "Intercalar - (1)",
+        "Epitélio simples cúbico",
+        "Estriado - (2)",
+        "Epitélio simples cúbico/Epitélio simples cilíndrico"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j152",
+      "tituloSecaoH2": "J15 - Glândula submandibular - HE"
+    },
+    "sd_laminas_atlas_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J15 - Glândula submandibular - HE",
+      "aliasLegado": "j153.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j153_zoom.jpg",
+      "legendaTranscrita": [
+        "J15 - Glândula submandibular - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j153",
+      "tituloSecaoH2": "J15 - Glândula submandibular - HE"
+    },
+    "sd_laminas_atlas_018": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J15 - Glândula submandibular - HE — Excretor - (3)",
+      "aliasLegado": "j154.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j154_zoom.jpg",
+      "legendaTranscrita": [
+        "Excretor - (3)",
+        "Epitélio estratificado cilíndrico (envolvido por uma camada bem desenvolvida de tecido conjuntivo interlobular) - (4)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j151",
+      "tituloSecaoH2": "J15 - Glândula submandibular - HE"
+    },
+    "sd_laminas_atlas_019": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J16 - Glândula sublingual - HE — Glândula multilobulada",
+      "aliasLegado": "j161.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j161_zoom.jpg",
+      "legendaTranscrita": [
+        "Glândula multilobulada",
+        "Glândula mista com predominância mucosa (células serosas e mucosas formando apenas ácinos mistos)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j161",
+      "tituloSecaoH2": "J16 - Glândula sublingual - HE"
+    },
+    "sd_laminas_atlas_020": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J16 - Glândula sublingual - HE — Ductos",
+      "aliasLegado": "j162.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j162_zoom.jpg",
+      "legendaTranscrita": [
+        "Ductos",
+        "Intercalar - (1)",
+        "Epitélio simples cúbico",
+        "Excretor - (3)",
+        "Epitélio estratificado cilíndrico (envolvido por uma camada bem desenvolvida de tecido conjuntivo interlobular) - (4)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j162",
+      "tituloSecaoH2": "J16 - Glândula sublingual - HE"
+    },
+    "sd_laminas_atlas_021": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J16 - Glândula sublingual - HE — Estriado - (2)",
+      "aliasLegado": "j163.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j163_zoom.jpg",
+      "legendaTranscrita": [
+        "Estriado - (2)",
+        "Epitélio simples cúbico/Epitélio simples cilíndrico"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j161",
+      "tituloSecaoH2": "J16 - Glândula sublingual - HE"
+    },
+    "sd_laminas_atlas_022": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J17-Pâncreas - HE — Exócrino Formados por ácinos serosos (glândula serosa pura) e ductos",
+      "aliasLegado": "j171.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j171_zoom.jpg",
+      "legendaTranscrita": [
+        "Exócrino Formados por ácinos serosos (glândula serosa pura) e ductos",
+        "Ácinos serosos - (1) com células centroacinosas - (seta A)",
+        "Ductos",
+        "Intercalar - (4)",
+        "Epitélio simples cúbico",
+        "Intralobular - (seta B)",
+        "Ducto estriado (não existe no órgão)",
+        "Excretor - (2)",
+        "Epitélio estratificado ou simples cilíndrico (envolvido por grande quantidade de tecido conjutivo - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j171",
+      "tituloSecaoH2": "J17-Pâncreas - HE"
+    },
+    "sd_laminas_atlas_023": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J17-Pâncreas - HE",
+      "aliasLegado": "j172.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j172_zoom.jpg",
+      "legendaTranscrita": [
+        "J17-Pâncreas - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j172",
+      "tituloSecaoH2": "J17-Pâncreas - HE"
+    },
+    "sd_laminas_atlas_024": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J17-Pâncreas - HE — Endócrino",
+      "aliasLegado": "j173.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j173_zoom.jpg",
+      "legendaTranscrita": [
+        "Endócrino",
+        "Ilhotas pancreáticas (de Langenhans) - (3)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j173",
+      "tituloSecaoH2": "J17-Pâncreas - HE"
+    },
+    "sd_laminas_atlas_025": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J17-Pâncreas - HE",
+      "aliasLegado": "j174.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j174_zoom.jpg",
+      "legendaTranscrita": [
+        "J17-Pâncreas - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j174",
+      "tituloSecaoH2": "J17-Pâncreas - HE"
+    },
+    "sd_laminas_atlas_026": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J17-Pâncreas - HE",
+      "aliasLegado": "j175.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j175_zoom.jpg",
+      "legendaTranscrita": [
+        "J17-Pâncreas - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j171",
+      "tituloSecaoH2": "J17-Pâncreas - HE"
+    },
+    "sd_laminas_atlas_027": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J19 - Fígado - H.E.",
+      "aliasLegado": "j181.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j181_zoom.jpg",
+      "legendaTranscrita": [
+        "J19 - Fígado - H.E."
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j181",
+      "tituloSecaoH2": "J19 - Fígado - H.E."
+    },
+    "sd_laminas_atlas_028": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J19 - Fígado - H.E. — Espaço porta",
+      "aliasLegado": "j182.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j182_zoom.jpg",
+      "legendaTranscrita": [
+        "Espaço porta",
+        "Artéria (ramo da artéria hepática) - (2)",
+        "Veia (ramo da veia porta) - (3)",
+        "Ducto bilífero - (4)",
+        "Vaso linfático - (5)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j182",
+      "tituloSecaoH2": "J19 - Fígado - H.E."
+    },
+    "sd_laminas_atlas_029": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J19 - Fígado - H.E. — Lóbulos hepáticos",
+      "aliasLegado": "j191.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j191_zoom.jpg",
+      "legendaTranscrita": [
+        "Lóbulos hepáticos",
+        "Veia centrolobular ou central do lóbulo - (1)",
+        "Hepatócitos (formando trabéculas organizadas radialmente) - (seta longa)",
+        "Sinusóides - (seta curta)",
+        "Tecido conjuntivo interlobular - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j191",
+      "tituloSecaoH2": "J19 - Fígado - H.E."
+    },
+    "sd_laminas_atlas_030": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J19 - Fígado - H.E.",
+      "aliasLegado": "j192.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j192_zoom.jpg",
+      "legendaTranscrita": [
+        "J19 - Fígado - H.E."
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j191",
+      "tituloSecaoH2": "J19 - Fígado - H.E."
+    },
+    "sd_laminas_atlas_031": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J20 - Fígado - Impregnação por prata",
+      "aliasLegado": "j201.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j201_zoom.jpg",
+      "legendaTranscrita": [
+        "Fibras reticulares (delgadas e negras) - (A)",
+        "Fibras colágenas (castanhas e espessas) - (B)",
+        "Veia centro lobular - (C)",
+        "Lóbulo - (circundado)",
+        "Hepatócitos - (E)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j201",
+      "tituloSecaoH2": "J20 - Fígado - Impregnação por prata"
+    },
+    "sd_laminas_atlas_032": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J20 - Fígado - Impregnação por prata",
+      "aliasLegado": "j202.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j202_zoom.jpg",
+      "legendaTranscrita": [
+        "Fibras reticulares (delgadas e negras) - (A)",
+        "Fibras colágenas (castanhas e espessas) - (B)",
+        "Veia centro lobular - (C)",
+        "Lóbulo - (circundado)",
+        "Hepatócitos - (E)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j202",
+      "tituloSecaoH2": "J20 - Fígado - Impregnação por prata"
+    },
+    "sd_laminas_atlas_033": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J1/J2-Língua, porção anterior- HE",
+      "aliasLegado": "j21.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j21_zoom.jpg",
+      "legendaTranscrita": [
+        "J1/J2-Língua, porção anterior- HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj21",
+      "tituloSecaoH2": "J1/J2-Língua, porção anterior- HE"
+    },
+    "sd_laminas_atlas_034": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J21 - Fígado - Coloração vital — Células de Kupffer (macrófagos do fígado) - (seta curta)",
+      "aliasLegado": "j211.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j211_zoom.jpg",
+      "legendaTranscrita": [
+        "Células de Kupffer (macrófagos do fígado) - (seta curta)",
+        "com granulações pretas no citoplasma causadas pela fagocitose do corante nanquim",
+        "e vermelhas pelo corante carmim acético."
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j211",
+      "tituloSecaoH2": "J21 - Fígado - Coloração vital"
+    },
+    "sd_laminas_atlas_035": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J21 - Fígado - Coloração vital",
+      "aliasLegado": "j212.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j212_zoom.jpg",
+      "legendaTranscrita": [
+        "J21 - Fígado - Coloração vital"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j211",
+      "tituloSecaoH2": "J21 - Fígado - Coloração vital"
+    },
+    "sd_laminas_atlas_036": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J22 - Fígado - P.A.S.",
+      "aliasLegado": "j221.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j221_zoom.jpg",
+      "legendaTranscrita": [
+        "J22 - Fígado - P.A.S."
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j221",
+      "tituloSecaoH2": "J22 - Fígado - P.A.S."
+    },
+    "sd_laminas_atlas_037": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J22 - Fígado - P.A.S. — Grânulos de glicogênio - (seta longa)",
+      "aliasLegado": "j222.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j222_zoom.jpg",
+      "legendaTranscrita": [
+        "Grânulos de glicogênio - (seta longa)",
+        "no citoplasma do hepatócito",
+        "indicados pela reação P.A.S."
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j222",
+      "tituloSecaoH2": "J22 - Fígado - P.A.S."
+    },
+    "sd_laminas_atlas_038": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J23 - Vesícula biliar - HE — Adventícia - (8)",
+      "aliasLegado": "j231.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j231_zoom.jpg",
+      "legendaTranscrita": [
+        "Adventícia - (8)",
+        "Na parte conectada ao fígado - (*)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j231",
+      "tituloSecaoH2": "J23 - Vesícula biliar - HE"
+    },
+    "sd_laminas_atlas_039": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J23 - Vesícula biliar - HE — Mucosa",
+      "aliasLegado": "j232.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j232_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Epitélio simples cilíndrico - (2)",
+        "Pseudovilos - (1)",
+        "Lâmina própria - (3)",
+        "Muscular (músculo liso) - (4)",
+        "Camada de tecido conjuntivo perimuscular: (fibromuscular) bastante desenvolvida"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j232",
+      "tituloSecaoH2": "J23 - Vesícula biliar - HE"
+    },
+    "sd_laminas_atlas_040": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J23 - Vesícula biliar - HE — Serosa - (7)",
+      "aliasLegado": "j233.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j233_zoom.jpg",
+      "legendaTranscrita": [
+        "Serosa - (7)",
+        "Na parte livre voltada para a cavidade abdominal",
+        "com mesotélio - (seta longa)",
+        "e estrato submesotélial - (seta 5)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j232",
+      "tituloSecaoH2": "J23 - Vesícula biliar - HE"
+    },
+    "sd_laminas_atlas_041": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J3 - Língua, \"V\" lingual - HE — Papila caliciforme, valada ou circunvalada",
+      "aliasLegado": "j31.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j31_zoom.jpg",
+      "legendaTranscrita": [
+        "Papila caliciforme, valada ou circunvalada",
+        "Botões gustativos (corpúsculos gustativos) - (seta curta)",
+        "Glândulas de Von Ebner (ácinos serosos e mucosos) - (*)",
+        "Músculo estriado esquelético - (1)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj31",
+      "tituloSecaoH2": "J3 - Língua, \"V\" lingual - HE"
+    },
+    "sd_laminas_atlas_042": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J3 - Língua, \"V\" lingual - HE",
+      "aliasLegado": "j32.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j32_zoom.jpg",
+      "legendaTranscrita": [
+        "J3 - Língua, \"V\" lingual - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj32",
+      "tituloSecaoH2": "J3 - Língua, \"V\" lingual - HE"
+    },
+    "sd_laminas_atlas_043": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J3 - Língua, \"V\" lingual - HE",
+      "aliasLegado": "j33.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j33_zoom.jpg",
+      "legendaTranscrita": [
+        "J3 - Língua, \"V\" lingual - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj31",
+      "tituloSecaoH2": "J3 - Língua, \"V\" lingual - HE"
+    },
+    "sd_laminas_atlas_044": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J4/J5 - Esôfago, corte longitudinal - HE",
+      "aliasLegado": "j41.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j41_zoom.jpg",
+      "legendaTranscrita": [
+        "J4/J5 - Esôfago, corte longitudinal - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj41",
+      "tituloSecaoH2": "J4/J5 - Esôfago, corte longitudinal - HE"
+    },
+    "sd_laminas_atlas_045": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J4/J5 - Esôfago, corte longitudinal - HE — Esôfago, corte longitudinal - HE",
+      "aliasLegado": "j42.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j42_zoom.jpg",
+      "legendaTranscrita": [
+        "Esôfago, corte longitudinal - HE",
+        "Mucosa - (A)",
+        "Epitélio estratificado pavimento não queratinizado - (1)",
+        "Lâmina própria - (2)",
+        "Muscular da mucosa (muscularis mucosae) - (3)",
+        "Submucosa - (B)",
+        "Glândulas esofágicas (ácinos mucosos) - (seta curta)",
+        "Tecido conjuntivo",
+        "Vasos e nervos - (4)",
+        "Muscular - (5)",
+        "Circular interna (5.1) e longitudinal externa (5.2)",
+        "Serosa - (C)",
+        "Estrato submesotelial - (6)",
+        "Mesotélio - (7)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj42",
+      "tituloSecaoH2": "J4/J5 - Esôfago, corte longitudinal - HE"
+    },
+    "sd_laminas_atlas_046": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J6 - Transição esôfago-estômago -HE",
+      "aliasLegado": "j61.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j61_zoom.jpg",
+      "legendaTranscrita": [
+        "J6 - Transição esôfago-estômago -HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj61",
+      "tituloSecaoH2": "J6 - Transição esôfago-estômago -HE"
+    },
+    "sd_laminas_atlas_047": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J6 - Transição esôfago-estômago -HE",
+      "aliasLegado": "j62.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j62_zoom.jpg",
+      "legendaTranscrita": [
+        "J6 - Transição esôfago-estômago -HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj62",
+      "tituloSecaoH2": "J6 - Transição esôfago-estômago -HE"
+    },
+    "sd_laminas_atlas_048": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J6 - Transição esôfago-estômago -HE",
+      "aliasLegado": "j64.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j64_zoom.jpg",
+      "legendaTranscrita": [
+        "J6 - Transição esôfago-estômago -HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj64",
+      "tituloSecaoH2": "J6 - Transição esôfago-estômago -HE"
+    },
+    "sd_laminas_atlas_049": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J7 - Estômago, fundo e corpo - HE",
+      "aliasLegado": "j71.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j71_zoom.jpg",
+      "legendaTranscrita": [
+        "J7 - Estômago, fundo e corpo - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj71",
+      "tituloSecaoH2": "J7 - Estômago, fundo e corpo - HE"
+    },
+    "sd_laminas_atlas_050": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J7 - Estômago, fundo e corpo - HE — Mucosa - (A)",
+      "aliasLegado": "j72.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j72_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa - (A)",
+        "Fovéolas, fossetas ou criptas gástricas (1) revestidas por epitélio simples cilíndrico (2)",
+        "Muscular da mucosa - (3)",
+        "Lâmina própria - (4)",
+        "Glândulas fúndicas (glândula tubular) - (5)",
+        "Células principais ou zimogênicas (basófilas) - (seta grande)",
+        "Células parietais ou oxínticas (acidófilas) - (seta curta)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "imgj72",
+      "tituloSecaoH2": "J7 - Estômago, fundo e corpo - HE"
+    },
+    "sd_laminas_atlas_051": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J8 - Transição estômago-duodeno - HE — Estômago - (A)",
+      "aliasLegado": "j81.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j81_zoom.jpg",
+      "legendaTranscrita": [
+        "Estômago - (A)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j81",
+      "tituloSecaoH2": "J8 - Transição estômago-duodeno - HE"
+    },
+    "sd_laminas_atlas_052": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J8 - Transição estômago-duodeno - HE — Mucosa",
+      "aliasLegado": "j82.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j82_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Fovéolas, fossetas ou criptas gástricas revestidas por epitélio simples cilíndrico - (seta 1)",
+        "Lâmina Própria - (seta 2)",
+        "Glândulas pilóricas (tubulosas-mucosas) - (seta 3)",
+        "Muscular da mucosa (músculo liso) (contínua) - (seta 4)",
+        "Submucosa (ausência de glândulas) - (seta 5)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j82",
+      "tituloSecaoH2": "J8 - Transição estômago-duodeno - HE"
+    },
+    "sd_laminas_atlas_053": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J8 - Transição estômago-duodeno - HE — Duodeno - (B)",
+      "aliasLegado": "j83.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j83_zoom.jpg",
+      "legendaTranscrita": [
+        "Duodeno - (B)",
+        "Mucosa - (C)",
+        "Vilos revestidos por epitélio cilíndrico simples",
+        "com células absortivas - (seta 6) e células caliciformes - (seta 7)",
+        "Lâmina Própria - (8)",
+        "Glândula (cripta) de Lieberkühn (gls. intestinais) - (9)",
+        "Muscular da mucosa (descontínua) - (10) e (contínua) - (11)",
+        "Submucosa - (D)",
+        "Glândulas de Brünner ou duodenais - (12)",
+        "Muscular (músculo liso) - (E)",
+        "Camada circular interna - (13)",
+        "Camada longitudinal externa - (14)",
+        "Serosa - (F)",
+        "Mesotélio"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j83",
+      "tituloSecaoH2": "J8 - Transição estômago-duodeno - HE"
+    },
+    "sd_laminas_atlas_054": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J8 - Transição estômago-duodeno - HE",
+      "aliasLegado": "j84.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j84_zoom.jpg",
+      "legendaTranscrita": [
+        "J8 - Transição estômago-duodeno - HE"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j81",
+      "tituloSecaoH2": "J8 - Transição estômago-duodeno - HE"
+    },
+    "sd_laminas_atlas_055": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J9 - Jejuno-íleo - HE — Mucosa - (A)",
+      "aliasLegado": "j91.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j91_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa - (A)",
+        "Vilos revestidos por epitélio cilíndrico simples",
+        "com células absortivas - (seta 6) e células caliciformes - (seta 7)",
+        "Lâmina Própria - (8)",
+        "Glândula (cripta) de Lieberkühn (gls. intestinais) - (9)",
+        "Muscular da mucosa (contínua) - (11)",
+        "Submucosa - (B)",
+        "Sem presença de glândulas.",
+        "Serosa (Delgada) - (D)",
+        "Mesotélio",
+        "Camada submesotelial"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j91",
+      "tituloSecaoH2": "J9 - Jejuno-íleo - HE"
+    },
+    "sd_laminas_atlas_056": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "J9 - Jejuno-íleo - HE — Muscular (músculo liso) - (C)",
+      "aliasLegado": "j92.jpg",
+      "categoriaLegada": "10_digestorio",
+      "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j92_zoom.jpg",
+      "legendaTranscrita": [
+        "Muscular (músculo liso) - (C)",
+        "Camada circular interna - (13)",
+        "Camada longitudinal externa - (14)"
+      ],
+      "paginaLegada": "diges.html",
+      "ancora": "j91",
+      "tituloSecaoH2": "J9 - Jejuno-íleo - HE"
+    },
+    "su_laminas_atlas_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Cortical (córtex) - (A)",
+      "aliasLegado": "m11.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m11_zoom.jpg",
+      "legendaTranscrita": [
+        "Cortical (córtex) - (A)",
+        "Cápsula",
+        "Glomérulo (Corpúsculo renal de Malpighi) - (B)"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m11",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Glomérulo",
+      "aliasLegado": "m12.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m12_zoom.jpg",
+      "legendaTranscrita": [
+        "Glomérulo",
+        "Cápsula de Bowman",
+        "Folheto parietal - (ponta da seta)",
+        "Alças capilares (com folheto viseral da cápsula de Bowman) - (*)",
+        "Espaço capsular - (seta curta)",
+        "Túbulo contorcido proximal (T.C.P.) - (1)",
+        "Epitélio simples cúbico",
+        "Células com citoplasma fortemente acidófilo",
+        "Luz aparece reduzida pelo borda em escova (microvilosidades)",
+        "Túbulo contorcido distal (T.C.D.) - (2)",
+        "Epitélio simples cúbico",
+        "Pouco acidófilo",
+        "Luz bem definida"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m12",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Medular - (c)",
+      "aliasLegado": "m13.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m13_zoom.jpg",
+      "legendaTranscrita": [
+        "Medular - (c)",
+        "Alça de Henle Ramo delgado - (3)",
+        "Epitélio simples pavimentoso",
+        "Ramo espesso - (4)",
+        "Epitélio simples cúbico",
+        "Tubo coletor (de Bellini) - (5)",
+        "Epitélio simples cúbico",
+        "Papila renal - (circundado)",
+        "Epitélio simples cilíndrico das papilas / Polimorfo",
+        "Lâmina Crivosa"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m13",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+      "aliasLegado": "m14.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m14_zoom.jpg",
+      "legendaTranscrita": [
+        "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m14",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+      "aliasLegado": "m15.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m15_zoom.jpg",
+      "legendaTranscrita": [
+        "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m15",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+      "aliasLegado": "m16.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m16_zoom.jpg",
+      "legendaTranscrita": [
+        "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m11",
+      "tituloSecaoH2": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE"
+    },
+    "su_laminas_atlas_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M3 - Ureter - HE — Ureter - HE",
+      "aliasLegado": "m31.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m31_zoom.jpg",
+      "legendaTranscrita": [
+        "Ureter - HE",
+        "Luz - (1)",
+        "Adventícia - (4)",
+        "Tecido conjuntivo",
+        "Vasos",
+        "Nervos"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m31",
+      "tituloSecaoH2": "M3 - Ureter - HE"
+    },
+    "su_laminas_atlas_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M3 - Ureter - HE — Camada muscular (músculo liso) - (3)",
+      "aliasLegado": "m32.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m32_zoom.jpg",
+      "legendaTranscrita": [
+        "Camada muscular (músculo liso) - (3)",
+        "Longitudinal interna",
+        "Circular externa"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m32",
+      "tituloSecaoH2": "M3 - Ureter - HE"
+    },
+    "su_laminas_atlas_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M3 - Ureter - HE — Mucosa",
+      "aliasLegado": "m33.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m33_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Epitélio misto, polimorfo ou de transição - (seta)",
+        "Lâmina própria - (2)"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m31",
+      "tituloSecaoH2": "M3 - Ureter - HE"
+    },
+    "su_laminas_atlas_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M4 - Bexiga - HE",
+      "aliasLegado": "m41.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m41_zoom.jpg",
+      "legendaTranscrita": [
+        "M4 - Bexiga - HE"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m41",
+      "tituloSecaoH2": "M4 - Bexiga - HE"
+    },
+    "su_laminas_atlas_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M4 - Bexiga - HE — Serosa - (C)",
+      "aliasLegado": "m42.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m42_zoom.jpg",
+      "legendaTranscrita": [
+        "Serosa - (C)",
+        "Mesotélio - (seta curta)",
+        "Camada submesotelial- (D) com tecido conjuntivo, vasos e nervos"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m42",
+      "tituloSecaoH2": "M4 - Bexiga - HE"
+    },
+    "su_laminas_atlas_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M4 - Bexiga - HE",
+      "aliasLegado": "m43.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m43_zoom.jpg",
+      "legendaTranscrita": [
+        "M4 - Bexiga - HE"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m43",
+      "tituloSecaoH2": "M4 - Bexiga - HE"
+    },
+    "su_laminas_atlas_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "M4 - Bexiga - HE — Mucosa - (A)",
+      "aliasLegado": "m44.jpg",
+      "categoriaLegada": "13_urinario",
+      "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m44_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa - (A)",
+        "Epitélio misto, polimorfo ou de transição - (1)",
+        "Lâmina própria - (2)",
+        "Muscular - (B)",
+        "Camada muscular (músculo liso) - (seta longa)",
+        "Longitudinal interna e circular externa mal definidas",
+        "muscular em várias direções - (4)"
+      ],
+      "paginaLegada": "urina.html",
+      "ancora": "m44",
+      "tituloSecaoH2": "M4 - Bexiga - HE"
+    },
+    "sgm_laminas_atlas_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P1-Testículo e epidídimo - HE — Testiculo - (A)",
+      "aliasLegado": "p1-1.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Testiculo - (A)",
+        "Túnica albugínea (cápsula) - (1)",
+        "Túbulos seminíferos - (2)",
+        "Células mióides - (seta 3)",
+        "Espermatôgonias - (seta 4)",
+        "Células de Sertoli - (seta 5)",
+        "Espermatócitos - (seta 6)",
+        "Espermátides - (seta 7)",
+        "Espermatozóides - (seta 8)"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp1-1",
+      "tituloSecaoH2": "P1-Testículo e epidídimo - HE"
+    },
+    "sgm_laminas_atlas_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P1-Testículo e epidídimo - HE",
+      "aliasLegado": "p1-2.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "P1-Testículo e epidídimo - HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp1-2",
+      "tituloSecaoH2": "P1-Testículo e epidídimo - HE"
+    },
+    "sgm_laminas_atlas_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P1-Testículo e epidídimo - HE — Interstício - (C)",
+      "aliasLegado": "p1-3.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Interstício - (C)",
+        "Células intersticiais (de Leydig) - (seta 9)",
+        "Tecido conjuntivo (vasos e nervos)"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp1-3",
+      "tituloSecaoH2": "P1-Testículo e epidídimo - HE"
+    },
+    "sgm_laminas_atlas_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P1-Testículo e epidídimo - HE — Epidídimo - (B)",
+      "aliasLegado": "p1-5.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_5_zoom.jpg",
+      "legendaTranscrita": [
+        "Epidídimo - (B)",
+        "Epitélio simples cilíndico - (10) com estereocilíos - (seta 11)",
+        "e células basais de subsitituição (pseudo-estratificado)",
+        "Apoia-se sobre uma lâmina basal, envolta por células de m. liso e tecido conjuntivo frouxo"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp1-5",
+      "tituloSecaoH2": "P1-Testículo e epidídimo - HE"
+    },
+    "sgm_laminas_atlas_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P1-Testículo e epidídimo - HE",
+      "aliasLegado": "p1-6.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_6_zoom.jpg",
+      "legendaTranscrita": [
+        "P1-Testículo e epidídimo - HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp1-1",
+      "tituloSecaoH2": "P1-Testículo e epidídimo - HE"
+    },
+    "sgm_laminas_atlas_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P2- Canal deferente-HE",
+      "aliasLegado": "p2-1.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "P2- Canal deferente-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp2-1",
+      "tituloSecaoH2": "P2- Canal deferente-HE"
+    },
+    "sgm_laminas_atlas_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P2- Canal deferente-HE — Mucosa",
+      "aliasLegado": "p2-2.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Epitélio de revestimento semelhante ao do epidídimo (epitélio simples cilíndrico com estereocílios) - (seta curta)",
+        "Lâmina própria - (A)"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp2-2",
+      "tituloSecaoH2": "P2- Canal deferente-HE"
+    },
+    "sgm_laminas_atlas_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P2- Canal deferente-HE — Adventícia - (2)",
+      "aliasLegado": "p2-3.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Adventícia - (2)",
+        "Tecido conjuntivo, vasos e nervos"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp2-3",
+      "tituloSecaoH2": "P2- Canal deferente-HE"
+    },
+    "sgm_laminas_atlas_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P2- Canal deferente-HE — Muscular - (1)",
+      "aliasLegado": "p2-4.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Muscular - (1)",
+        "Espessa, costituída por células musculares lisas dispostas em espiral"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp2-2",
+      "tituloSecaoH2": "P2- Canal deferente-HE"
+    },
+    "sgm_laminas_atlas_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P3-Vesícula seminal-HE — Mucosa",
+      "aliasLegado": "p3-1.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa",
+        "Muscular (músculo liso) - (2)",
+        "Circular interna",
+        "Longitudinal externa",
+        "Adventícia (delgada) - (3)",
+        "Tecido conjuntivo",
+        "Vasos",
+        "Nervos"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp3-1",
+      "tituloSecaoH2": "P3-Vesícula seminal-HE"
+    },
+    "sgm_laminas_atlas_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P3-Vesícula seminal-HE",
+      "aliasLegado": "p3-2.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_2_zoom.jpg",
+      "legendaTranscrita": [
+        "P3-Vesícula seminal-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp3-1",
+      "tituloSecaoH2": "P3-Vesícula seminal-HE"
+    },
+    "sgm_laminas_atlas_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-1.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_1_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-1",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-2.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-2",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-3.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_3_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-3",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-4.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_4_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-4",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-5.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_5_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-5",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P4-Próstata-HE",
+      "aliasLegado": "p4-6.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_6_zoom.jpg",
+      "legendaTranscrita": [
+        "P4-Próstata-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp4-6",
+      "tituloSecaoH2": "P4-Próstata-HE"
+    },
+    "sgm_laminas_atlas_018": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "P5-Pênis, corte transversal-HE",
+      "aliasLegado": "p5-1.jpg",
+      "categoriaLegada": "16_masculino",
+      "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p5_1_zoom.jpg",
+      "legendaTranscrita": [
+        "P5-Pênis, corte transversal-HE"
+      ],
+      "paginaLegada": "masc.html",
+      "ancora": "imgp5-1",
+      "tituloSecaoH2": "P5-Pênis, corte transversal-HE"
+    },
+    "sgf_laminas_atlas_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE — Folículos em crescimento secundário e maduro",
+      "aliasLegado": "q1-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Folículos em crescimento secundário e maduro",
+        "Teca externa - (1)",
+        "Teca interna - (2)",
+        "Membrana granulosa (células foliculares) - (3)",
+        "Cumulus oophorus - (4)",
+        "Corona radiata - (5)",
+        "Antro folicular - (6)",
+        "Zona pelúcida - (seta 7)",
+        "Ovócito - (*)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-2",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE — Q1-Ovário - HE",
+      "aliasLegado": "q1-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q1-Ovário - HE",
+        "Epitélio germinativo",
+        "(revestido por epitélio simples cúbico em sua maior extensão, apresentando-se pavimentoso em certas áreas) - (seta longa)",
+        "Medular - (B)",
+        "Constituída por tecido conjutivo frouxo, no qual se encontram inúmeros vasos sangüíneos e nervos"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-2",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE",
+      "aliasLegado": "q1-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Q1-Ovário - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-3",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE — Cortical - (A)",
+      "aliasLegado": "q1-4.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Cortical - (A)",
+        "Albulgínea- Células fusiformes - (seta C)",
+        "Estroma - (seta D)",
+        "Parênquima (folículos ovarianos)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-4",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE — Folículos primordiais - (seta E)",
+      "aliasLegado": "q1-6.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_6_zoom.jpg",
+      "legendaTranscrita": [
+        "Folículos primordiais - (seta E)",
+        "Célula folicular pavimentosa - (seta F)",
+        "Folículos em crescimento",
+        "Primário unilaminar - (seta G)",
+        "Folículo em crescimento primário multilaminar (Várias camadas de células foliculares com ausência do antro folicular). - (seta I)",
+        "Célula folicular cúbica - (seta H)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-6",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q1-Ovário - HE",
+      "aliasLegado": "q1-7.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_7_zoom.jpg",
+      "legendaTranscrita": [
+        "Q1-Ovário - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq1-7",
+      "tituloSecaoH2": "Q1-Ovário - HE"
+    },
+    "sgf_laminas_atlas_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q2-Ovário -HE",
+      "aliasLegado": "q2-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Q2-Ovário -HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "img2-1",
+      "tituloSecaoH2": "Q2-Ovário -HE"
+    },
+    "sgf_laminas_atlas_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q2-Ovário -HE",
+      "aliasLegado": "q2-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q2-Ovário -HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "img2-2",
+      "tituloSecaoH2": "Q2-Ovário -HE"
+    },
+    "sgf_laminas_atlas_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q2-Ovário -HE",
+      "aliasLegado": "q2-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Q2-Ovário -HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "img2-3",
+      "tituloSecaoH2": "Q2-Ovário -HE"
+    },
+    "sgf_laminas_atlas_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q3- Ovário-HE",
+      "aliasLegado": "q3-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Q3- Ovário-HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq3-1",
+      "tituloSecaoH2": "Q3- Ovário-HE"
+    },
+    "sgf_laminas_atlas_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q3- Ovário-HE",
+      "aliasLegado": "q3-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q3- Ovário-HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq3-2",
+      "tituloSecaoH2": "Q3- Ovário-HE"
+    },
+    "sgf_laminas_atlas_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q3- Ovário-HE",
+      "aliasLegado": "q3-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Q3- Ovário-HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq3-3",
+      "tituloSecaoH2": "Q3- Ovário-HE"
+    },
+    "sgf_laminas_atlas_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q4-Corpo albicans - HE",
+      "aliasLegado": "q4-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Q4-Corpo albicans - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq4-1",
+      "tituloSecaoH2": "Q4-Corpo albicans - HE"
+    },
+    "sgf_laminas_atlas_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q4-Corpo albicans - HE",
+      "aliasLegado": "q4-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q4-Corpo albicans - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq4-2",
+      "tituloSecaoH2": "Q4-Corpo albicans - HE"
+    },
+    "sgf_laminas_atlas_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q5-Tuba uterina, ampola- HE",
+      "aliasLegado": "q5-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Q5-Tuba uterina, ampola- HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq5-1",
+      "tituloSecaoH2": "Q5-Tuba uterina, ampola- HE"
+    },
+    "sgf_laminas_atlas_016": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q5-Tuba uterina, ampola- HE — Mucosa - (A)",
+      "aliasLegado": "q5-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Mucosa - (A)",
+        "Epitélio simples cilíndrico ciliado, com células caliciformes (revestindo as dobras ou pregas longitudinais da mucosa.) - (seta longa)",
+        "Lâmina própria (tecido conjuntivo) - (seta curta)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq5-2",
+      "tituloSecaoH2": "Q5-Tuba uterina, ampola- HE"
+    },
+    "sgf_laminas_atlas_017": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q5-Tuba uterina, ampola- HE",
+      "aliasLegado": "q5-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Q5-Tuba uterina, ampola- HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq5-2",
+      "tituloSecaoH2": "Q5-Tuba uterina, ampola- HE"
+    },
+    "sgf_laminas_atlas_018": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q6-Útero, fase proliferativa- HE",
+      "aliasLegado": "q6-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q6-Útero, fase proliferativa- HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq6-2",
+      "tituloSecaoH2": "Q6-Útero, fase proliferativa- HE"
+    },
+    "sgf_laminas_atlas_019": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q6-Útero, fase proliferativa- HE — Endométrio",
+      "aliasLegado": "q6-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Endométrio",
+        "Glândulas endometriais aparecem como glândulas tubulares retas (bordos lisos) (setas curtas)",
+        "Em razão da rápida proliferação, as células glandulares podem assumir uma estratificação aparente"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq6-3",
+      "tituloSecaoH2": "Q6-Útero, fase proliferativa- HE"
+    },
+    "sgf_laminas_atlas_020": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q7-Útero, fase secretora- HE — Endométrio",
+      "aliasLegado": "q7-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Endométrio",
+        "Glândulas tubulares, de contorno tortuoso e luz dilatada, conferindo ao endométrio o clássico aspecto esponjoso (seta curta)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq7-1",
+      "tituloSecaoH2": "Q7-Útero, fase secretora- HE"
+    },
+    "sgf_laminas_atlas_021": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q7-Útero, fase secretora- HE — Útero, fase secretora",
+      "aliasLegado": "q7-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Útero, fase secretora"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq7-2",
+      "tituloSecaoH2": "Q7-Útero, fase secretora- HE"
+    },
+    "sgf_laminas_atlas_022": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q8- Colo uterino - HE — Ectocérvix - mucosa",
+      "aliasLegado": "q8-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Ectocérvix - mucosa",
+        "Epitélio estratificado pavimentoso - (4)",
+        "Lâmina própia - (5)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq8-1",
+      "tituloSecaoH2": "Q8- Colo uterino - HE"
+    },
+    "sgf_laminas_atlas_023": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q8- Colo uterino - HE — Endocérvix - mucosa",
+      "aliasLegado": "q8-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Endocérvix - mucosa",
+        "Epitélio simples cilíndrico (seta curta)",
+        "Lâmina própia - (1)",
+        "Glândulas cervicais - (2)",
+        "Cisto de Naboth - (3)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq8-2",
+      "tituloSecaoH2": "Q8- Colo uterino - HE"
+    },
+    "sgf_laminas_atlas_024": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q9-Mama - HE — Lóbulos",
+      "aliasLegado": "q9-1.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Lóbulos",
+        "Alveólos (epitélio glandular) - (seta longa)",
+        "Células mioepiteliais (contráteis) - (ponta da seta)",
+        "Tecido conjuntivo intralobular (seta curta)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq9-1",
+      "tituloSecaoH2": "Q9-Mama - HE"
+    },
+    "sgf_laminas_atlas_025": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q9-Mama - HE",
+      "aliasLegado": "q9-2.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Q9-Mama - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq9-2",
+      "tituloSecaoH2": "Q9-Mama - HE"
+    },
+    "sgf_laminas_atlas_026": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q9-Mama - HE — Região interlobular",
+      "aliasLegado": "q9-3.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Região interlobular",
+        "Ducto excretor - (seta amarela)",
+        "Tecido conjuntivo - (a)",
+        "Tecido adiposo (*)"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq9-3",
+      "tituloSecaoH2": "Q9-Mama - HE"
+    },
+    "sgf_laminas_atlas_027": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q9-Mama - HE",
+      "aliasLegado": "q9-4.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Q9-Mama - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq9-4",
+      "tituloSecaoH2": "Q9-Mama - HE"
+    },
+    "sgf_laminas_atlas_028": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "Q9-Mama - HE",
+      "aliasLegado": "q9-5.jpg",
+      "categoriaLegada": "17_feminino",
+      "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_5_zoom.jpg",
+      "legendaTranscrita": [
+        "Q9-Mama - HE"
+      ],
+      "paginaLegada": "repfem.html",
+      "ancora": "imgq9-1",
+      "tituloSecaoH2": "Q9-Mama - HE"
+    },
+    "sn_endocrino_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N1 - Hipófise ou Pituitária - Mallory — Pars distalis ou adenohipófise (lobo anterior) - (A)",
+      "aliasLegado": "n1-1.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_1_zoom.jpg",
+      "legendaTranscrita": [
+        "Pars distalis ou adenohipófise (lobo anterior) - (A)",
+        "Células acidófilas (alfa) - (1)",
+        "Células basófilas (beta) - (2)",
+        "Células cromófobas (gama) - (3)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn1-1",
+      "tituloSecaoH2": "N1 - Hipófise ou Pituitária - Mallory"
+    },
+    "sn_endocrino_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N1 - Hipófise ou Pituitária - Mallory — Pars intermédia (maior aumento) - (B)",
+      "aliasLegado": "n1-2.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Pars intermédia (maior aumento) - (B)",
+        "Células fracamente basófilas"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn1-2",
+      "tituloSecaoH2": "N1 - Hipófise ou Pituitária - Mallory"
+    },
+    "sn_endocrino_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N1 - Hipófise ou Pituitária - Mallory — Pars nervosa ou neurohipófise (lobo posterior) - (C)",
+      "aliasLegado": "n1-3.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Pars nervosa ou neurohipófise (lobo posterior) - (C)",
+        "Pituicitos (células de sustentação: semelhantes aos astrócitos do S.N.C.) - (seta curta)",
+        "Fibras nervosas (axônios amielínicos de células nervosas secretoras) - (seta longa)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn1-1",
+      "tituloSecaoH2": "N1 - Hipófise ou Pituitária - Mallory"
+    },
+    "sn_endocrino_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N1 - Hipófise ou Pituitária - Mallory",
+      "aliasLegado": "n1-4.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_4_zoom.jpg",
+      "legendaTranscrita": [
+        "N1 - Hipófise ou Pituitária - Mallory"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn1-4",
+      "tituloSecaoH2": "N1 - Hipófise ou Pituitária - Mallory"
+    },
+    "sn_endocrino_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N2 - Tireóide e paratireóide - HE",
+      "aliasLegado": "n2-1.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_1_zoom.jpg",
+      "legendaTranscrita": [
+        "N2 - Tireóide e paratireóide - HE"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn2-1",
+      "tituloSecaoH2": "N2 - Tireóide e paratireóide - HE"
+    },
+    "sn_endocrino_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N2 - Tireóide e paratireóide - HE — Paratireóide - (B)",
+      "aliasLegado": "n2-2.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Paratireóide - (B)",
+        "Cápsula - (1B)",
+        "Células principais (citoplasma fracamente acidófilo) - (3)",
+        "Células oxífilas (acidófila citoplasmática mais acentuada) - (4)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn2-4",
+      "tituloSecaoH2": "N2 - Tireóide e paratireóide - HE"
+    },
+    "sn_endocrino_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N2 - Tireóide e paratireóide - HE",
+      "aliasLegado": "n2-3.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_3_zoom.jpg",
+      "legendaTranscrita": [
+        "N2 - Tireóide e paratireóide - HE"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn2-3",
+      "tituloSecaoH2": "N2 - Tireóide e paratireóide - HE"
+    },
+    "sn_endocrino_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N2 - Tireóide e paratireóide - HE — Tireóide - (A)",
+      "aliasLegado": "n2-4.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_4_zoom.jpg",
+      "legendaTranscrita": [
+        "Tireóide - (A)",
+        "Cápsula - (1)",
+        "folículos - (2)",
+        "Colóide - (*)",
+        "Células foliculares (produzem T3 e T4) - (seta curta)",
+        "Células parafoliculares (produzem calcitonina) - (seta longa)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn2-4",
+      "tituloSecaoH2": "N2 - Tireóide e paratireóide - HE"
+    },
+    "sn_endocrino_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N3 -Adrenal ou supra-renal - HE",
+      "aliasLegado": "n3-1.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_1_zoom.jpg",
+      "legendaTranscrita": [
+        "N3 -Adrenal ou supra-renal - HE"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn3-1",
+      "tituloSecaoH2": "N3 -Adrenal ou supra-renal - HE"
+    },
+    "sn_endocrino_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N3 -Adrenal ou supra-renal - HE — Cortical - (A)",
+      "aliasLegado": "n3-2.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Cortical - (A)",
+        "Cápsula - (seta curta)",
+        "Zona glomerulosa - (1)",
+        "Zona fasciculada - (2)",
+        "Zona reticulada - (3)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn3-2",
+      "tituloSecaoH2": "N3 -Adrenal ou supra-renal - HE"
+    },
+    "sn_endocrino_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N3 -Adrenal ou supra-renal - HE — Medular - (B)",
+      "aliasLegado": "n3-3.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_3_zoom.jpg",
+      "legendaTranscrita": [
+        "Medular - (B)",
+        "Células medulares (cromafins) - (seta 4)",
+        "Vasos sangüíneos - (seta 5)"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "n3-3",
+      "tituloSecaoH2": "N3 -Adrenal ou supra-renal - HE"
+    },
+    "sn_endocrino_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N4 - Pineal - Mallory",
+      "aliasLegado": "n4-1.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_1_zoom.jpg",
+      "legendaTranscrita": [
+        "N4 - Pineal - Mallory"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn4-1",
+      "tituloSecaoH2": "N4 - Pineal - Mallory"
+    },
+    "sn_endocrino_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "N4 - Pineal - Mallory",
+      "aliasLegado": "n4-2.jpg",
+      "categoriaLegada": "14_endocrinas",
+      "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_2_zoom.jpg",
+      "legendaTranscrita": [
+        "N4 - Pineal - Mallory"
+      ],
+      "paginaLegada": "endoc.html",
+      "ancora": "imgn4-2",
+      "tituloSecaoH2": "N4 - Pineal - Mallory"
+    },
+    "sn_neuronio_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G1 - Medula espinhal - HE — Substância branca (córtex) - (a)",
+      "aliasLegado": "g1.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g1_zoom.jpg",
+      "legendaTranscrita": [
+        "Substância branca (córtex) - (a)",
+        "Núcleos das células da neuróglia (Astrócito fibroso)",
+        "Substância cinzenta - (b)",
+        "Meninges - (c)",
+        "Canal ependimário com células ependimárias - (d)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g12",
+      "tituloSecaoH2": "G1: Medula espinhal - HE"
+    },
+    "sn_neuronio_002": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G1 - Medula espinhal - HE",
+      "aliasLegado": "g12.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g12_zoom.jpg",
+      "legendaTranscrita": [
+        "Núcleos das células da neuróglia"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g12",
+      "tituloSecaoH2": "G1: Medula espinhal - HE"
+    },
+    "sn_neuronio_003": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G2 - Medula espinhal - Prata",
+      "aliasLegado": "g2.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_zoom.jpg",
+      "legendaTranscrita": [
+        "Corpos de neurônios",
+        "apresentando neurofibrilas - (seta branca)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g2",
+      "tituloSecaoH2": "G2: Medula espinhal - Prata"
+    },
+    "sn_neuronio_004": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G2 - Medula espinhal - Prata",
+      "aliasLegado": "g2-2.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_2_zoom.jpg",
+      "legendaTranscrita": [
+        "Corpúsculos de Nissl - (seta longa)",
+        "(tigróides) - ergastoplasma e ribossomos"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g2-2",
+      "tituloSecaoH2": "G2: Medula espinhal - Prata"
+    },
+    "sn_neuronio_005": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G3 - Cérebro - HE",
+      "aliasLegado": "g3.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g3_zoom.jpg",
+      "legendaTranscrita": [
+        "G3 - Cérebro - HE"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g3",
+      "tituloSecaoH2": "G3: Cérebro - HE"
+    },
+    "sn_neuronio_006": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G3 - Cérebro - HE",
+      "aliasLegado": "g32.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g32_zoom.jpg",
+      "legendaTranscrita": [
+        "Pia-máter - (seta 1)",
+        "Substância cinzenta (cortical) - (2)",
+        "Substância branca (medular) - (3)",
+        "Camada molecular - (a)",
+        "Camada granular externa - (b)",
+        "Camada piramidal - (c)",
+        "Camada multiforme - (d)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g32",
+      "tituloSecaoH2": "G3: Cérebro - HE"
+    },
+    "sn_neuronio_007": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G4 - Cérebro - Prata",
+      "aliasLegado": "g4.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g4_zoom.jpg",
+      "legendaTranscrita": [
+        "G4 - Cérebro - Prata"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g4",
+      "tituloSecaoH2": "G4: Cérebro - Prata"
+    },
+    "sn_neuronio_008": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G4 - Cérebro - Prata",
+      "aliasLegado": "g42.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g42_zoom.jpg",
+      "legendaTranscrita": [
+        "Substância branca - (3)",
+        "Astrócito fibroso (prolongamentos longos, delgados, pouco ramificados) - (seta b)",
+        "Pés vasculares da neuróglia. - (seta c)",
+        "(Dilatações das porções terminais dos prolongamentos dos astrócitos",
+        "envolvendo a parede endotelial dos capilares)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g42",
+      "tituloSecaoH2": "G4: Cérebro - Prata"
+    },
+    "sn_neuronio_009": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G4 - Cérebro - Prata",
+      "aliasLegado": "g43.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g43_zoom.jpg",
+      "legendaTranscrita": [
+        "Substância cinzenta - (2)",
+        "Astrócito protoplasmático",
+        "(prolongamentos ramificados, curtos e espessos) - (seta a)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g43",
+      "tituloSecaoH2": "G4: Cérebro - Prata"
+    },
+    "sn_neuronio_010": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G6 - Cerebelo (Prata) — Substância cinzenta (cortical)",
+      "aliasLegado": "g6.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g6_zoom.jpg",
+      "legendaTranscrita": [
+        "Substância cinzenta (cortical)",
+        "Células de Purkinje - (seta a)",
+        "(axônio voltado para a camada granulosa e arborização dendritica",
+        "voltada para a camada molecular)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g6",
+      "tituloSecaoH2": "G6: Cerebelo (Prata)"
+    },
+    "sn_neuronio_011": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G7 - Gânglio raquídeo - HE",
+      "aliasLegado": "g7.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g7_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (seta a)",
+        "Neurônios pseudo-unipolares - (b) com células satélites - (seta 1)",
+        "Feixes de fibras nervosas amielínicas e mielínicas - (c)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g7",
+      "tituloSecaoH2": "G7: Gânglio raquídeo - HE"
+    },
+    "sn_neuronio_012": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G7 - Gânglio raquídeo - HE",
+      "aliasLegado": "g72.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g72_zoom.jpg",
+      "legendaTranscrita": [
+        "Cápsula - (seta a)",
+        "Neurônios pseudo-unipolares - (b) com células satélites - (seta 1)",
+        "Feixes de fibras nervosas amielínicas e mielínicas - (c)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g72",
+      "tituloSecaoH2": "G7: Gânglio raquídeo - HE"
+    },
+    "sn_neuronio_013": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G8-Nervo periférico - H.E / H.F — Nervo periférico - (circundado)",
+      "aliasLegado": "g8.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g8_zoom.jpg",
+      "legendaTranscrita": [
+        "Nervo periférico - (circundado)",
+        "Epineuro (camada fibrosa mais externa de tecido conjuntivo) - (seta a)",
+        "Perineuro (bainha de várias camadas de células achatadas, justapostas, constituindo uma barreira à passagem de macromoléculas) - (seta b)",
+        "Endoneuro (constituídas de fibras reticulares) produzidas por células de Schwann - (seta c)",
+        "Axônio com bainha de mielina - (seta d)"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g8",
+      "tituloSecaoH2": "G8-Nervo periférico - H.E / H.F"
+    },
+    "sn_neuronio_014": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G8-Nervo periférico - H.E / H.F",
+      "aliasLegado": "g82.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g82_zoom.jpg",
+      "legendaTranscrita": [
+        "G8-Nervo periférico - H.E / H.F"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g82",
+      "tituloSecaoH2": "G8-Nervo periférico - H.E / H.F"
+    },
+    "sn_neuronio_015": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "G8-Nervo periférico - H.E / H.F",
+      "aliasLegado": "g83.jpg",
+      "categoriaLegada": "7_nervoso",
+      "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g83_zoom.jpg",
+      "legendaTranscrita": [
+        "G8-Nervo periférico - H.E / H.F"
+      ],
+      "paginaLegada": "nervo.html",
+      "ancora": "g8",
+      "tituloSecaoH2": "G8-Nervo periférico - H.E / H.F"
+    },
+    "sn_sentidos_001": {
+      "estado": "pendente",
+      "nota": "",
+      "titulo": "O1 - Olho e anexos - HE — Olho e anexos - HE",
+      "aliasLegado": "o1.jpg",
+      "categoriaLegada": "15_sentido",
+      "urlImagem": "/data/histologia/atlas/15_sentido/zoom/histo_15_sentido_o1_zoom.jpg",
+      "legendaTranscrita": [
+        "Olho e anexos - HE",
+        "Córnea (seta curta)"
+      ],
+      "paginaLegada": "senti.html",
+      "ancora": "imgo1",
+      "tituloSecaoH2": "O1 - Olho e anexos - HE"
+    }
+  },
+  "notas": {
+    "estados": [
+      "pendente",
+      "ok",
+      "corrigido_manual",
+      "duvida"
+    ],
+    "normalize": "Use scripts/histologia_legenda_inventory.normalize_legend_compare para comparar texto da figura com legendaTranscrita."
+  }
+}

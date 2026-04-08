@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Displasia do desenvolvimento do quadril (DDQ) predispõe luxação, coxa vara e artrose precoce. Doença de Legg-Calvé-Perthes é osteonecrose idiopática da cabeça femoral pediátrica. Epifisiólise do colo femoral é deslizamento da placa de crescimento em adolescente, frequentemente obeso. Em prova, dominam triagem ao nascimento (Ortolani/Barlow), radiografia em suspeita e condutas (arnês de Pavlik, osteotomias, in situ fixation na epifisiólise).
+**Displasia do desenvolvimento do quadril (DDQ)** predispõe **luxação**, **coxa vara** e **artrose** precoce. **Doença de Legg-Calvé-Perthes** é **osteonecrose** idiopática da cabeça femoral pediátrica. **Epifisiólise** do colo femoral é deslizamento da **placa de crescimento** em adolescente, frequentemente **obeso**. Em prova, dominam **triagem ao nascimento** (Ortolani/Barlow), **radiografia** em suspeita e **condutas** (arnês de Pavlik, osteotomias, **in situ fixation** na epifisiólise).
 
 ---
 
@@ -15,7 +15,7 @@ Displasia do desenvolvimento do quadril (DDQ) predispõe luxação, coxa vara e 
 
 ### Rastreio
 
-Teste de Ortolani (redução) e Barlow (luxação) em recém-nascidos de risco. USG em protocolos por idade (Graf). Radiografia após ossificação da cabeça femoral (centragens de acetábulo e cabeça).
+**Teste de Ortolani** (redução) e **Barlow** (luxação) em recém-nascidos de risco. **USG** em protocolos por idade (Graf). **Radiografia** após ossificação da cabeça femoral (centragens de **acetábulo** e **cabeça**).
 
 ### Figura sugerida
 
@@ -30,22 +30,22 @@ Teste de Ortolani (redução) e Barlow (luxação) em recém-nascidos de risco. 
 
 ### Tratamento
 
-Arnês de Pavlik em displasia instável diagnosticada precocemente. Redução fechada ou cirúrgica se tardio. Osteotomias acetabulares/femorais em casos residuais.
+**Arnês de Pavlik** em displasia instável diagnosticada precocemente. **Redução fechada** ou **cirúrgica** se tardio. **Osteotomias** acetabulares/femorais em casos residuais.
 
-> **Pegadinha:** assimetria das pregas — não diagnóstico isolado; correlacione exame e imagem.
+> **Pegadinha:** **assimetria** das pregas — **não** diagnóstico isolado; correlacione exame e imagem.
 
 ---
 
 ## Legg-Calvé-Perthes
 
-Apresentação com claudicação e dor de quadril (pode referir joelho). Radiografia com achatamento, fragmentação da cabeça femoral. RM em fases iniciais. Tratamento: contenção, mobilidade conforme estágio; prognóstico ligado à idade e extensão da necrose.
+Apresentação com **claudicação** e dor de quadril (pode referir joelho). **Radiografia** com **achatamento**, **fragmentação** da cabeça femoral. **RM** em fases iniciais. Tratamento: **contenção**, **mobilidade** conforme estágio; **prognóstico** ligado à idade e **extensão** da necrose.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A20-F02`
 
 - **Momento:** após Perthes — radiografia.
-- O que mostrar: radiografia de quadril com Perthes (cabeça femoral irregular, achatada).
+- **O que mostrar:** **radiografia** de quadril com **Perthes** (cabeça femoral irregular, achatada).
 - **Tipo sugerido:** RX pélvico pediátrico.
 - **Legenda (rascunho):** Doença de Perthes: alterações da cabeça femoral.
 
@@ -53,7 +53,7 @@ Apresentação com claudicação e dor de quadril (pode referir joelho). Radiogr
 
 ## Epifisiólise do colo femoral
 
-Adolescente obeso ou muito magro; dor e claudicação; rotação externa ao caminhar. Radiografia em incidência Lauenstein e frog — deslizamento da metáfise em relação à epífise.
+Adolescente **obeso** ou muito magro; **dor** e **claudicação**; **rotação externa** ao caminhar. **Radiografia** em **incidência Lauenstein** e **frog** — **deslizamento** da metáfise em relação à epífise.
 
 **Tratamento**: **fixação in situ** com parafuso — **não** forçar redução vigorosa no deslizamento agudo (risco vascular).
 
@@ -62,7 +62,7 @@ Adolescente obeso ou muito magro; dor e claudicação; rotação externa ao cami
 **Figura-ID:** `CIR6-A20-F03`
 
 - **Momento:** após epifisiólise — imagem.
-- O que mostrar: RX com slip do colo femoral (linha de Klein / desalinhamento).
+- **O que mostrar:** **RX** com **slip** do colo femoral (linha de Klein / desalinhamento).
 - **Tipo sugerido:** radiografia em projeção lateral ou frog.
 - **Legenda (rascunho):** Epifisiólise: deslizamento da placa de crescimento.
 
@@ -70,11 +70,11 @@ Adolescente obeso ou muito magro; dor e claudicação; rotação externa ao cami
 
 ## Ponte com a Clínica
 
-Criança com dor no joelho sem trauma: sempre olhe o quadril (irradiado). Bilateralidade em epifisiólise — monitorar o lado contralateral. RN de risco (breech, oligoidrâmio): seguir protocolo de triagem.
+Criança com **dor no joelho** sem trauma: **sempre** olhe o **quadril** (irradiado). Bilateralidade em epifisiólise — monitorar o lado contralateral. **RN** de risco (breech, oligoidrâmio): seguir protocolo de triagem.
 
 ### Erros comuns
 
-Atrasar imagem em claudicação afebril; confundir Perthes com DDQ sem radiografias seriadas; redução agressiva na epifisiólise aguda (risco de AVN).
+Atrasar **imagem** em claudicação afebril; confundir **Perthes** com **DDQ** sem radiografias seriadas; **redução agressiva** na epifisiólise aguda (risco de AVN).
 
 ---
 
@@ -90,11 +90,11 @@ Atrasar imagem em claudicação afebril; confundir Perthes com DDQ sem radiograf
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Ângulos de acetábulo** — ideia (centro-borda CE).
-- LCP — Legg — não confundir com SLIPPED capital femoral epiphysis.
-- **AVN** — risco de pinagem em epifisiólise.
+Na prova, lembre que Ângulos de acetábulo — ideia (centro-borda CE). LCP — Legg — não confundir com SLIPPED capital femoral epiphysis.
+
+Para não errar em cenário clínico, considere também AVN — risco de pinagem em epifisiólise.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -107,14 +107,3 @@ Atrasar imagem em claudicação afebril; confundir Perthes com DDQ sem radiograf
 ### Frase-âncora para não esquecer
 
 > “**Dor no joelho** na criança pode ser **quadril** — olhe para cima.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione osteotomias redutivas com cobertura acetabular e complicações de necrose avascular. Epifisiólise: rastreio do lado contralateral profilático em debate.
-
-### Leitura de reforço
-
-- Guidelines de displasia do desenvolvimento do quadril
-- Consenso internacional de SCFE

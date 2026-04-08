@@ -18,7 +18,7 @@ A **doença ulcerosa péptica (DUP)** resulta do desequilíbrio entre **fatores 
 - **Estresse** crítico (úlcera de **Curling/Cushing** em contextos específicos de UTI/gravidade).  
 - **Hipercloridria** secundária a **gastrinoma (Zollinger-Ellison)** — rara, mas “cai” como diagnóstico diferencial de úlceras recorrentes/refratárias.
 
-### Tabela — localização e pitfall
+### Tabela — localização e armadilha
 
 | Sítio | Lembrete clínico | Cuidado |
 |-------|------------------|---------|
@@ -72,7 +72,7 @@ Dor epigástrica em **queimação** ou peso, relação variável com alimento. *
 
 ---
 
-## Classificação de Forrest (ideia para prova)
+## Classificação de Forrest (visão de prova)
 
 Estigmas de **alto risco de ressangramento** orientam terapêutica endoscópica e PPI parenteral contínuo. Memorize o conceito (“vascular exposto” pior que “base limpa”), não só o nome.
 
@@ -107,12 +107,11 @@ Idoso em AINE com anemia ferropriva: **endoscopia** antes de cronicizar PPI sem 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Localização** duodenal vs gástrica — câncer mais comum no estômago.
-- **Zollinger-Ellison** — úlceras múltiplas/refratárias + diarreia (contexto).
-- **Gastrite atrófica** — vigilância conforme protocolo.
-- **Síndrome de Ménétrier** — rara; hipertrofia mucosa.
+Na prova, lembre que Localização duodenal vs gástrica — câncer mais comum no estômago. Zollinger-Ellison — úlceras múltiplas/refratárias + diarreia (contexto).
+
+Para não errar em cenário clínico, considere também Gastrite atrófica — vigilância conforme protocolo. Síndrome de Ménétrier — rara; hipertrofia mucosa.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -126,14 +125,3 @@ Idoso em AINE com anemia ferropriva: **endoscopia** antes de cronicizar PPI sem 
 ### Frase-âncora para não esquecer
 
 > “**Úlcera** exige **etiologia tratada** — infecção, AINE ou hipercloridria rara.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com **indicação**, **timing** (eletivo x urgência), **via de acesso** e **complicações** previsíveis. Sempre que citar técnica, lembre que **consentimento** e **equipe** definem segurança tanto quanto o passo técnico.
-
-### Leitura de reforço
-
-- Consenso internacional de H. pylori (Maastricht)
-- Protocolos de antibiótico profilático e anticoagulação perioperatória

@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Fígado, pâncreas e vesícula biliar são órgãos acessórios do TGI — não fazem parte do tubo, mas sem eles a digestão é impossível. São também alvo frequente de patologias graves: cirrose hepática, pancreatite aguda, câncer de pâncreas e colelitíase. A anatomia cirúrgica do triângulo de Calot, a segmentação hepática de Couinaud e as relações do pâncreas com os vasos mesentéricos superiores são pontos obrigatórios de prova. A **Uninove** cobra especialmente a segmentação hepática, o hilo hepático e o trajeto da bile da produção até o duodeno.
+Fígado, pâncreas e vesícula biliar são órgãos acessórios do TGI — não fazem parte do tubo, mas sem eles a digestão é impossível. São também alvo frequente de patologias graves: cirrose hepática, pancreatite aguda, câncer de pâncreas e colelitíase. A anatomia cirúrgica do triângulo de Calot, a segmentação hepática de Couinaud e as relações do pâncreas com os vasos mesentéricos superiores são pontos obrigatórios de prova. A Uninove cobra especialmente a segmentação hepática, o hilo hepático e o trajeto da bile da produção até o duodeno.
 
 ### Figura sugerida
 
@@ -191,24 +191,25 @@ Esta arcade articular anterior e posterior em torno da cabeça pancreática expl
 
 ## Ponte com a Clínica
 
-Paciente de 65 anos, icterícia indolor progressiva há 3 semanas, colúria, acolia fecal e emagrecimento de 7 kg. Ao exame: vesícula biliar palpável e indolor (sinal de Courvoisier). **TC** abdome: massa na cabeça do pâncreas comprimindo o ducto colédoco — justamente onde o colédoco atravessa a cabeça do pâncreas antes de chegar à ampola de Vater. Como a obstrução é lenta e progressiva, a vesícula se dilata (ao contrário da colelitíase crônica, onde a vesícula fica fibrosada). O cirurgião que vai tentar ressecção (duodenopancreatectomia — cirurgia de Whipple) precisa dominar a anatomia vascular da cabeça pancreática: a AMS passa posterior ao colo do pâncreas — se o tumor já a envolveu, a cirurgia é irressecável.
+Paciente de 65 anos, icterícia indolor progressiva há 3 semanas, colúria, acolia fecal e emagrecimento de 7 kg. Ao exame: vesícula biliar palpável e indolor (sinal de Courvoisier). TC abdome: massa na cabeça do pâncreas comprimindo o ducto colédoco — justamente onde o colédoco atravessa a cabeça do pâncreas antes de chegar à ampola de Vater. Como a obstrução é lenta e progressiva, a vesícula se dilata (ao contrário da colelitíase crônica, onde a vesícula fica fibrosada). O cirurgião que vai tentar ressecção (duodenopancreatectomia — cirurgia de Whipple) precisa dominar a anatomia vascular da cabeça pancreática: a AMS passa posterior ao colo do pâncreas — se o tumor já a envolveu, a cirurgia é irressecável.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Maior glândula do corpo: fígado (~1,5 kg), hipocôndrio direito + epigástrio. 4 lobos clássicos: direito, esquerdo, caudado (Spiegel), quadrado. 8 segmentos de Couinaud: para cirurgia hepática; segmento I = lobo caudado, drenagem independente.
-
-Hilo hepático: veia porta (posterior) + artéria hepática própria (anterior-lateral) + ducto hepático (anterior-medial). Veia porta: 75% do fluxo hepático; traz nutrientes do intestino. Triângulo de Calot: ducto hepático + ducto cístico + fígado → artéria cística dentro.
-
-Artéria cística: ramo da artéria hepática direita. Ampola de Vater: colédoco + ducto de Wirsung na 2ª porção do duodeno; esfíncter de Oddi. Cauda do pâncreas: intraperitoneal, toca o baço.
-
-Sinal de Courvoisier: vesícula palpável + icterícia indolor = câncer de cabeça de pâncreas. Varizes esofágicas: derivação portossistêmica por hipertensão portal via veia gástrica esquerda.
+- **Maior glândula do corpo:** fígado (~1,5 kg), hipocôndrio direito + epigástrio
+- **4 lobos clássicos:** direito, esquerdo, caudado (Spiegel), quadrado
+- **8 segmentos de Couinaud:** para cirurgia hepática; segmento I = lobo caudado, drenagem independente
+- **Hilo hepático:** veia porta (posterior) + artéria hepática própria (anterior-lateral) + ducto hepático (anterior-medial)
+- **Veia porta:** 75% do fluxo hepático; traz nutrientes do intestino
+- **Triângulo de Calot:** ducto hepático + ducto cístico + fígado → artéria cística dentro
+- **Artéria cística:** ramo da artéria hepática direita
+- **Ampola de Vater:** colédoco + ducto de Wirsung na 2ª porção do duodeno; esfíncter de Oddi
+- **Cauda do pâncreas:** intraperitoneal, toca o baço
+- **Sinal de Courvoisier:** vesícula palpável + icterícia indolor = câncer de cabeça de pâncreas
+- **Varizes esofágicas:** derivação portossistêmica por hipertensão portal via veia gástrica esquerda
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -221,5 +222,4 @@ Sinal de Courvoisier: vesícula palpável + icterícia indolor = câncer de cabe
 | Cauda do pâncreas | Demais porções | Cauda: intraperitoneal; cabeça/corpo/colo: retroperitoneais |
 
 ### Frase-âncora para não esquecer
-
 > "Calot contém a Cística (ramo da hepática direita) — errar esse triângulo na colecistectomia corta o duto hepático. Courvoisier = vesícula cheia + icterícia indolor = câncer na cabeça do pâncreas com colédoco obstruído."

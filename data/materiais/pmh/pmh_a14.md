@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Jejum curto**, **jejum prolongado**, **exercício**, **gravidez**, **trauma** e **sepse** mudam **prioridades** metabólicas: **insulina** cai ou perde efeito, **contrarregulação** sobe, **catabolismo** de proteína e **lipólise** aumentam. Integrar essas respostas explica **nutrição perioperatória**, **suporte calórico** em UTI, **refeeding syndrome** e **metabolismo do câncer** — tópicos frequentes em **prova integrada** e **clínica médica**.
+A **Adaptação Metabólica** é a estratégia do corpo para sobreviver ao **Jejum**, ao **Exercício** e ao **Estresse (Trauma/Sepse)**. Para a prova, entenda como a queda da **Insulina** e o aumento da **Contrarregulação** (**Glucagon**, **Cortisol**) reprogramam o metabolismo da Glicose para os **Corpos Cetônicos**. Na clínica, o ponto crítico é a **Síndrome de Realimentação (Refeeding)**, que pode ser fatal se não monitorada.
 
 
 ### Figura sugerida
@@ -72,11 +72,12 @@ Reintrodução **rápida** de **calorias** (especialmente **glicose**) em **desn
 
 ## Comparativo: estado metabólico
 
-| Estado | Insulina | Cetonas | Glicemia |
-|--------|----------|---------|----------|
-| Pós-prandial | alta | baixas | controlada |
-| Jejum prolongado | baixa | altas | mantida (adaptado) |
-| Sepse | resistência | variável | frequentemente alta |
+| Estado Metabólico | Hormônio Dominante | Combustível Principal | Glicemia |
+|-------------------|--------------------|-----------------------|----------|
+| **Pós-Prandial** | **Insulina** | **Glicose** (Dieta) | Estável |
+| **Jejum Curto** | **Glucagon** | **Glicogênio** Hepático | Mantida |
+| **Jejum Prolongado**| **Glucagon/Cortisol**| **Corpos Cetônicos** | Baixa-Normal |
+| **Estresse/Sepse** | **Catecolaminas** | **Hipercatabolismo** | **Elevada** |
 
 ---
 
@@ -88,10 +89,11 @@ Reintrodução **rápida** de **calorias** (especialmente **glicose**) em **desn
 
 ## Pontos-Chave para Prova
 
-- **Jejum** progressivo: **glicogênio** → **gliconeogênese** → **cetose**.
-- **Estresse** agudo → **hiperglicemia** e **catabolismo**.
-- **Refeeding** = **risco eletrolítico** e **cardíaco**.
-- **Exercício** muda **substrato** preferencial ao longo do tempo.
+- **Jejum Prolongado:** O cérebro se adapta para queimar **Corpos Cetônicos**, poupando a massa magra.
+- **Síndrome de Realimentação:** Ocorre pela liberação súbita de **Insulina** após longo jejum, causando queda fatal de **Fósforo (P)**, **Potássio (K)** e **Magnésio (Mg)**.
+- **Efeito Warburg:** O câncer prefere fazer **Glicólise Anaeróbia** mesmo na presença de oxigênio para crescer rápido.
+- **Hiperglicemia de Estresse:** Ocorre pelo bloqueio da insulina via **Cortisol/Adrenalina**; comum na **UTI**.
+- **Caquexia:** Desnutrição com componente inflamatório (**TNF-Alfa**); diferente do jejum simples.
 
 ---
 
@@ -99,20 +101,19 @@ Reintrodução **rápida** de **calorias** (especialmente **glicose**) em **desn
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Contrarregulação** domina em **agudo**.
-- **Cetose** nutricional ≠ **CAD** — contexto hormonal.
-- **Refeeding:** monitorar **P**, **K**, **Mg**.
-- **Cachexia** ≠ **desnutrição simples** — inflamação presente.
+- **Refeeding:** O perigo é o **Fosfato Baixo**. Repor eletrólitos ANTES da carga de glicose.
+- **Jejum de 24h:** A reserva de **Glicogênio Hepático** acaba; a vida depende agora da **Gliconeogênese**.
+- **Sepse:** Paciente catabólico. Quebra proteína muscular para fabricar **Imunoglobulinas** e reagentes de fase aguda.
+- **Lactato:** Sobe no exercício intenso e no **Choque Sético**.
 
-### Diferenciações que a Uninove adora cobrar
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Hiperglicemia de estresse | DM descompensado | Contexto agudo + PCR vs descompensação crônica. |
-| Jejum terapêutico | Inanição | Supervisão, hidratação, eletrólitos. |
-| Lipólise fisiológica | Lipólise patológica | Extensão e contexto (sepse, toxinas). |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|----------------------|
+| **Jejum** | **Estresse/Sepse** | **Hipometabólico** (Paupa) vs **Hipermetabólico** (Queima) |
+| **Hipofosfatemia**| **Refeeding** | A marca registrada da realimentação perigosa |
+| **Marasmo** | **Kwashiorkor** | Deficiência **Calórica** vs Deficiência **Proteica** (Edema) |
+| **Glicogênio** | **Ácido Graxo** | Energia de **Minutos** vs Energia de **Semanas** |
 
 ### Frase-âncora para não esquecer
 

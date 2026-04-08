@@ -1,0 +1,191 @@
+{
+  "geradoEm": "2026-04-07T19:29:48.960501+00:00",
+  "modo": "ocr_visual_puro_imagem",
+  "blocos": [
+    {
+      "start": 0,
+      "end": 12,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 12,
+      "end": 24,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 24,
+      "end": 36,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 36,
+      "end": 48,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 48,
+      "end": 60,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 60,
+      "end": 72,
+      "changed": 12,
+      "empty": 1,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 72,
+      "end": 84,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 84,
+      "end": 96,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 96,
+      "end": 108,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 108,
+      "end": 120,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 120,
+      "end": 132,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 132,
+      "end": 144,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 144,
+      "end": 156,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 156,
+      "end": 168,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 168,
+      "end": 180,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 180,
+      "end": 192,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 192,
+      "end": 204,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 204,
+      "end": 216,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 216,
+      "end": 228,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 228,
+      "end": 240,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 240,
+      "end": 252,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 252,
+      "end": 264,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    },
+    {
+      "start": 264,
+      "end": 276,
+      "changed": 12,
+      "empty": 0,
+      "errors": 0,
+      "total": 276
+    }
+  ],
+  "totalLaminas": 276
+}

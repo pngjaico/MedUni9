@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Hemorroidas, fissura anal, abscesso e fístula perianal compõem o dia-a-dia da proctologia. A semiologia separa sangue vivo no papel (baixo) de melena (alto). A inspeção, toque retal e anoscopia definem grau hemorroidário e presença de fissura. Em prova, destacam-se classificação de Park (fístulas), conduta do abscesso (drenagem primeiro) e rastreio de neoplasia no sangramento anal do idoso.
+**Hemorroidas**, **fissura anal**, **abscesso** e **fístula perianal** compõem o dia-a-dia da proctologia. A semiologia separa **sangue vivo no papel** (baixo) de **melena** (alto). A inspeção, **toque retal** e **anoscopia** definem grau hemorroidário e presença de fissura. Em prova, destacam-se **classificação de Park** (fístulas), conduta do **abscesso** (drenagem primeiro) e **rastreio de neoplasia** no sangramento anal do idoso.
 
 ---
 
@@ -15,27 +15,27 @@ Hemorroidas, fissura anal, abscesso e fístula perianal compõem o dia-a-dia da 
 
 Internas acima da **linha pectínea** (derivado embriológico diferente das externas). Sangramento e prolapso guiam o grau (I–IV). Externas trombosadas causam dor intensa — não confunda com **abscesso** (febre, flutuação).
 
-| Grau (ideia) | Quadro | Conduta típica |
+| Grau (visão de prova) | Quadro | Conduta típica |
 |--------------|--------|----------------|
 | I | Sangra, sem prolapso | Conservador, ligadura se persistente |
 | II | Prolapso que reduz espontaneamente | Ligadura, bandagens |
 | III | Prolapso manualmente redutível | Ligadura, procedimentos destrutivos selecionados |
 | IV | Prolapso irredutível | Hemorroidectomia frequentemente indicada |
 
-> **Pegadinha:** sangue anal em >40–50 anos sem colonoscopia prévia — investigue neoplasia colorretal, não atribua só a hemorroida.
+> **Pegadinha:** sangue anal em **>40–50 anos** sem colonoscopia prévia — investigue **neoplasia colorretal**, não atribua só a hemorroida.
 
 ---
 
 ## Fissura anal
 
-Dor a facadas durante e após evacuação, sangue vivo em pequena quantidade. Aguda: fibras, hidratação, analgésicos. Crônica: hipertônico esfincteriano — nitroglicerina/diltiazem tópicos, toxina botulínica, esfincterotomia lateral interna se refratária e sem incontinência de risco.
+Dor **a facadas** durante e após evacuação, sangue vivo em pequena quantidade. **Aguda:** fibras, hidratação, analgésicos. **Crônica:** hipertônico esfincteriano — **nitroglicerina/diltiazem tópicos**, **toxina botulínica**, **esfincterotomia lateral** interna se refratária e sem incontinência de risco.
 
 ### Figura sugerida
 
 **Figura-ID:** `CIR6-A10-F01`
 
 - **Momento:** após hemorroidas — anatomia anal.
-- O que mostrar: diagrama da linha pectínea, zonas hemorroidárias interna/externa e canal anal.
+- **O que mostrar:** diagrama da **linha pectínea**, **zonas** hemorroidárias interna/externa e canal anal.
 - **Tipo sugerido:** ilustração sagital anatômica.
 - **Legenda (rascunho):** Canal anal: linha pectínea e hemorroidas.
 
@@ -53,7 +53,7 @@ Dor pulsátil, febre, massa dolorosa. **Drenagem cirúrgica** é prioridade; ant
 - **Transesfincteriana** — atravessa esfincter externo.  
 - **Supraesfincteriana / extrasfincteriana** — mais complexas; **RM da pelve** frequentemente necessária.
 
-Tratamento: fistulectomia vs fistulotomia vs seton conforme trajeto e risco esfincteriano. Doença de Crohn muda tudo — imunossupressor/biológico antes de cirurgia destrutiva em muitos casos.
+Tratamento: **fistulectomia** vs **fistulotomia** vs **seton** conforme trajeto e risco esfincteriano. **Doença de Crohn** muda tudo — imunossupressor/biológico antes de cirurgia destrutiva em muitos casos.
 
 ### Figura sugerida
 
@@ -68,7 +68,7 @@ Tratamento: fistulectomia vs fistulotomia vs seton conforme trajeto e risco esfi
 
 ## Outras causas — não esqueça
 
-Neoplasia anal (HPV, NIA), proctite infecciosa, retocolite ulcerativa com acometimento distal. Prurido anal tem lista longa (dermatite, parasitas, diabetes).
+**Neoplasia anal** (HPV, NIA), **proctite** infecciosa, **retocolite ulcerativa** com acometimento distal. **Prurido anal** tem lista longa (dermatite, parasitas, diabetes).
 
 ### Figura sugerida
 
@@ -100,11 +100,11 @@ Paciente com **múltiplas fístulas** e **perda de peso**: pense **Crohn** — c
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Diferenciar** trombose hemorroidária de abscesso (febre, sinais sistêmicos).
-- **Incontinência** pós-fístula — risco esfincteriano.
-- **HPV** — rastreio e biópsia de lesões atípicas.
+Na prova, lembre que Diferenciar trombose hemorroidária de abscesso (febre, sinais sistêmicos). Incontinência pós-fístula — risco esfincteriano.
+
+Para não errar em cenário clínico, considere também HPV — rastreio e biópsia de lesões atípicas.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -118,14 +118,3 @@ Paciente com **múltiplas fístulas** e **perda de peso**: pense **Crohn** — c
 ### Frase-âncora para não esquecer
 
 > “**Sangue no papel** exige **exame** — idoso merece **colonoscopia**.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione o conteúdo com indicação, timing (eletivo x urgência), via de acesso e complicações previsíveis. Em caso de dúvida entre observação e intervenção, revise estabilidade, imunidade e recursos do serviço.
-
-### Leitura de reforço
-
-- Livro-texto de cirurgia colorretal
-- Consenso de fístula perianal e doença inflamatória intestinal

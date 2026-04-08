@@ -1,24 +1,24 @@
-# Operações Fundamentais e Material Cirurgico
+# Operações Fundamentais e Material Cirúrgico
 
 ## Relevância Clínica e Acadêmica
 
 Os tempos operatórios clássicos (diérese, hemostasia e síntese) estruturam qualquer cirurgia.
-No ensino de Goffi, a qualidade da operação depende mais de sequência e economia de gesto do que de "força de mao".
-Quem domina material cirúrgico básico trabalha com mais precisão, menos trauma e melhor visão de campo.
+No ensino técnico-operatório, a qualidade da operação depende mais de sequência e economia de gesto do que de "força de mão".
+Quem domina o material cirúrgico básico trabalha com mais precisão, menos trauma tecidual e melhor visão de campo.
 
-## Tempos operatórios: conceito e aplicação
+## Tempos Operatórios: Conceito e Aplicação
 
 ### Dierese
 
-E a abertura de planos anatômicos.
+É a abertura de planos anatômicos.
 Pode ser:
 - **mecânica cortante** (bisturi, tesoura);
 - **mecânica romba** (dissecção digital ou com pinça adequada);
-- **energética** (eletrocauterio em situações selecionadas).
+- **energética** (eletrocautério em situações selecionadas).
 
 ### Hemostasia
 
-Controle do sangramento para manter campo visivel e estabilidade.
+Controle do sangramento para manter campo visível e estabilidade.
 Recursos comuns:
 - compressão;
 - pinçamento;
@@ -34,77 +34,121 @@ Reaproximação dos tecidos respeitando:
 - perfusão da borda;
 - eliminação de espaco morto quando necessário.
 
-## Instrumentais de uma mesa de cirurgia geral
+## Instrumentais de uma Mesa de Cirurgia Geral
 
 Conjunto mínimo que o aluno deve reconhecer sem hesitar:
 - **Bisturi** (cabo 3/4 com laminas apropriadas);
 - **Tesoura Mayo** (tecido mais denso) e **Metzenbaum** (tecido delicado);
 - **Pinça anatômica** e **pinça dente de rato**;
-- **Pinças hemostaticas** (Kelly, Crile, Halsted/Mosquito);
+- **Pinças hemostáticas** (Kelly, Crile, Halsted/Mosquito);
 - **Porta-agulha Mayo-Hegar**;
 - **Afastadores** (Farabeuf, Doyen, Balfour conforme porte da cirurgia);
 - **Pinça de campo Backhaus**;
 - **Cuba rim**, compressas e aspiração.
 
-### Divisões práticas da mesa de instrumental
+### Instrumentais em Roteiros Ampliados
+
+O material de sala costuma repetir a mesma lógica dos tempos operatórios, mas com mais nomes no kit.
+Vale reconhecer sem decorar ficha técnica.
+
+- **Curva e reta:** **Mayo** e **Metzenbaum**; **Kelly**, **Crile**, **Halsted** e **Rochester-Pean** aparecem nas duas formas — ranhura completa na face (ex.: Crile) versus ranhura só na porção distal (ex.: Kelly típica) continua sendo o macete de prova.
+- **Kocher:** pinça traumática com dentes; tração em planos firmes (ex.: aponeurose), não para pele delicada.
+- **Adson:** dissecção superficial, com ou sem dente, haste curta ou longa.
+- **Porta-agulha:** além do **Mayo-Hegar**, o **Mathieu** tem trava/mola e aparece em sequências de fechamento com uma mão dominante.
+- **Campo e compressa:** **Backhaus** já estava na lista mínima; em mesa completa surgem **Chéron** (comum em manipulação de compressa/campo) e **Foerster** (pinça de gazes, curva para cavidade; reta em trabalho mais “pesado” de conteúdo).
+- **Mixter:** curvatura marcante para dissecção profunda ao redor de estruturas e ligadura em espaço estreito (texto de referência cita pedículos).
+- **Allis** e **Coprostase / intestinal:** preensão firme de bordas ou manejo de alça com pinça longa em campo úmido.
+- **Afastadores:** somam-se ao **Farabeuf** e **Doyen** o **Gosset** (boa exposição abdominal ampla) e o **Finochietto** (tórax). O **Balfour** segue típico em kits de parede abdominal em livros-texto.
+
+### Divisões Práticas da Mesa de Instrumental
 
 Uma organização didática muito usada:
 | Setor da mesa | Conteúdo principal | Função |
 |---|---|---|
-| Dierese | cabos, laminas, tesouras | iniciar acesso e dissecção |
-| Hemostasia | pinças hemostaticas, ligaduras | controlar sangramento |
+| Diérese | cabos, lâminas, tesouras | iniciar acesso e dissecção |
+| Hemostasia | pinças hemostáticas, ligaduras | controlar sangramento |
 | Exposição | afastadores, pinças de preensão | manter visualização |
 | Sintese | porta-agulha, fios, agulhas, tesouras finas | fechamento por planos |
 
-> **Dica prática:** mesa organizada por tempo operatório acelera passagem de instrumental e reduz erro.
+> **Dica de Prova:** mesa organizada por tempo operatório acelera a passagem de instrumental e reduz erro de sequência.
+
+> **Pegadinha:** trocar Metzenbaum por Mayo em plano delicado é erro clássico em prova prática e em estação simulada.
+
+### Montagem da Mesa no Treinamento
+
+O conteúdo programático pede reconhecer materiais cirúrgicos no ambiente de prática e executar a montagem da mesa.
+No NIS-TO (ou bancada de simulação), essa lógica deve seguir uma sequência.
+
+1. **Conferência:** antes de “abrir” o procedimento simulado, confira se o instrumental mínimo está completo (cabo/lâmina compatíveis, tesouras, pinças de dissecção e hemostasia, porta-agulha, afastador se o roteiro pedir).
+2. **Dispor por tempo operatório:** mantenha os grupos da tabela separados para evitar mistura de instrumentos.
+3. **Consumíveis e ordem:** compressas e troca de lâmina só no fluxo do roteiro; na síntese, preparar porta-agulha e material de fio antes do fechamento.
+4. **Hábito para prova e prática:** ao pegar uma peça, associe nome, função e tempo (ex.: Metzenbaum para diérese em plano delicado).
+
+Isso explicita o eixo conhecimento para habilidade do módulo, sem duplicar a aula de equipe e instrumentação (`tcar_a4`).
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A3-F01`
+**Figura-ID:** `TCAR-A3-F01`
 
 - **Momento:** após tabela de divisão da mesa.
 - **O que mostrar:** foto esquematizada de mesa de cirurgia geral com setores nomeados.
 - **Tipo sugerido:** foto didática com marcação.
 - **Legenda (rascunho):** Organização funcional da mesa por tempos operatórios.
 
-## Sequencia de uso do material durante cirurgia limpa simples
+<!--
+Wikimedia (referência guardada; não exibir no leitor por ora) · TO-A3-F01
+Descrição: Instrumental cirúrgico básico disposto em superfície (referência visual de mesa).
+Página: https://commons.wikimedia.org/wiki/File:Surgical_Instruments_01.jpg
+Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Surgical_Instruments_01.jpg/960px-Surgical_Instruments_01.jpg
+Atribuição: Saltanat ebli / Wikimedia Commons, CC0
+-->
+
+## Sequência de Uso do Material em Cirurgia Limpa Simples
 
 1. Campo montado e materiais conferidos.
 2. Dierese inicial com bisturi.
-3. Dissecao com tesoura e pinças de preensão apropriadas.
+3. Dissecção com tesoura e pinças de preensão apropriadas.
 4. Hemostasia por pinçamento e ligadura conforme necessidade.
 5. Revisão de cavidade e controle final de sangramento.
 6. Fechamento por planos com material de síntese adequado.
 
 Erros comuns no treinamento:
-- usar pinça traumatica em tecido fragil sem necessidade;
+- usar pinça traumática em tecido frágil sem necessidade;
 - pedir instrumental de forma desordenada;
 - hemostasia incompleta antes da síntese;
 - confundir Mayo com Metzenbaum em momento crítico.
 
 ## Ponte com a Clínica
 
-Na prática, ma exposição e hemostasia insuficiente prolongam tempo operatório e elevam risco.
+Na prática, má exposição e hemostasia insuficiente prolongam tempo operatório e elevam risco.
 Em cirurgia geral, boa técnica com instrumental básico costuma resolver mais problema do que dependência excessiva de tecnologia.
 Para o interno, dominar mesa e tempos operatórios melhora desempenho em qualquer especialidade cirúrgica.
 
 ### Figura sugerida
 
-**Figura-ID:** `TO-A3-F02`
+**Figura-ID:** `TCAR-A3-F02`
 
 - **Momento:** após a ponte com a clínica.
 - **O que mostrar:** comparação de campo bem exposto versus campo com hemostasia inadequada.
 - **Tipo sugerido:** ilustração comparativa.
 - **Legenda (rascunho):** Como exposição e hemostasia mudam a segurança do ato operatório.
 
+<!--
+Wikimedia (referência guardada; não exibir no leitor por ora) · TO-A3-F02
+Descrição: Centro cirúrgico moderno com mesa, iluminação e equipe ao redor do campo (visão geral de setup).
+Página: https://commons.wikimedia.org/wiki/File:Laparoscopic_operating_theatre.jpg
+Direto: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Laparoscopic_operating_theatre.jpg/960px-Laparoscopic_operating_theatre.jpg
+Atribuição: Dr.jayesh amin / Wikimedia Commons, CC BY-SA 3.0
+-->
+
 ---
 
-## Pontos-chave para prática diaria
+## Pontos-Chave para Prova
 
 - Todo procedimento cirúrgico passa por diérese, hemostasia e síntese.
-- Instrumental deve ser escolhido pelo tecido e pelo objetivo, não por habito.
+- Instrumental deve ser escolhido pelo tecido e pelo objetivo, não por hábito.
 - Mesa dividida por função melhora ritmo e segurança.
-- Exposição ruim induz erro tecnico.
+- Exposição ruim induz erro técnico.
 - Hemostasia vem antes de "fechar rápido".
 
 ---
@@ -115,9 +159,9 @@ Para o interno, dominar mesa e tempos operatórios melhora desempenho em qualque
 
 ### Síntese para a prova
 
-O cerne desta aula e conectar tempo operatório com instrumental correspondente.
+A essência desta aula é conectar tempo operatório com instrumental correspondente.
 Se o enunciado pedir conduta, pense no fluxo real da cirurgia: abrir, dissecar, controlar sangramento e fechar por planos.
-Quando houver duvida entre instrumentos, priorize o que causa menor trauma tecidual para aquela tarefa.
+Quando houver dúvida entre instrumentos, priorize o que causa menor trauma tecidual para aquela tarefa.
 A mesa bem organizada por setores antecipa necessidade e evita perda de tempo.
 
 ### Diferenciações que a Uninove adora cobrar
@@ -127,6 +171,7 @@ A mesa bem organizada por setores antecipa necessidade e evita perda de tempo.
 | Tesoura Mayo | Tesoura Metzenbaum | Mayo para tecido mais resistente; Metzenbaum para tecido delicado |
 | Pinça anatômica | Dente de rato | anatômica menos traumatica; dente de rato para preensão firme de pele/fascia |
 | Hemostasia temporaria | Hemostasia definitiva | temporaria ganha campo; definitiva evita ressangramento |
+| Kelly | Crile | Kelly costuma ter ranhuras distais; Crile tem ranhuras em maior extensão da mandíbula |
 
 ### Frase-âncora para não esquecer
 

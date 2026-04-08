@@ -2,7 +2,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Estima-se que cerca de 6.000 doenças monogênicas afetam coletivamente 1 em cada 17 pessoas em algum momento da vida. Reconhecer o padrão de herança ao analisar uma árvore genealógica (heredograma) é habilidade fundamental que o médico usa para orientar famílias sobre riscos de recorrência, indicar testes genéticos e estabelecer diagnóstico sindrômico. Essa competência é cobrada sistematicamente em provas da **Uninove** — desde a identificação de um portador em herança recessiva até o cálculo de probabilidade em genética mendeliana.
+Estima-se que cerca de 6.000 doenças monogênicas afetam coletivamente 1 em cada 17 pessoas em algum momento da vida. Reconhecer o padrão de herança ao analisar uma árvore genealógica (heredograma) é habilidade fundamental que o médico usa para orientar famílias sobre riscos de recorrência, indicar testes genéticos e estabelecer diagnóstico sindrômico. Essa competência é cobrada sistematicamente em provas da Uninove — desde a identificação de um portador em herança recessiva até o cálculo de probabilidade em genética mendeliana.
 
 A transição entre as "regras de Mendel" do ensino médio e a genética clínica real exige entender as exceções: penetrância incompleta, expressividade variável, imprinting genômico, mosaicismo e herança mitocondrial. Esses conceitos explicam por que dois irmãos com a mesma mutação em BRCA1 podem ter manifestações clínicas muito diferentes.
 
@@ -176,19 +176,19 @@ Ambos os cromossomos de um par vêm do mesmo genitor. Se o cromossomo carrega ge
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-AD: vertical, 50% risco, ambos sexos, pleiotropia/penetrância incompleta possíveis. AR: horizontal, 25% risco, portadores saudáveis, consanguinidade aumenta risco. XLR: só homens afetados, mãe portadora, pai afetado → filhas TODAS portadoras.
-
-Mitocondrial: só pela MÃE, heteroplasmia, expressão variável. Antecipação: CAG em HTT (Huntington), CTG em DMPK (Miotônica), CGG em FMR1 (X-frágil). 15q11: paterno ausente = Prader-Willi; materno ausente = Angelman.
-
-Penetrância incompleta: AD que pula geração — não confunda com AR. Pleiotropia: Marfan (FBN1): aorta + olho + esqueleto. Nova mutação: acondroplasia 80% são novas mutações (pais normais).
-
-Portador AR: heterozigoto saudável; portador XLR: mulher heterozigota saudável.
+- **AD:** vertical, 50% risco, ambos sexos, pleiotropia/penetrância incompleta possíveis
+- **AR:** horizontal, 25% risco, portadores saudáveis, consanguinidade aumenta risco
+- **XLR:** só homens afetados, mãe portadora, pai afetado → filhas TODAS portadoras
+- **Mitocondrial:** só pela MÃE, heteroplasmia, expressão variável
+- **Antecipação:** CAG em HTT (Huntington), CTG em DMPK (Miotônica), CGG em FMR1 (X-frágil)
+- **15q11:** paterno ausente = Prader-Willi; materno ausente = Angelman
+- **Penetrância incompleta:** AD que pula geração — não confunda com AR
+- **Pleiotropia:** Marfan (FBN1): aorta + olho + esqueleto
+- **Nova mutação:** acondroplasia 80% são novas mutações (pais normais)
+- **Portador AR:** heterozigoto saudável; portador XLR: mulher heterozigota saudável
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -201,13 +201,4 @@ Portador AR: heterozigoto saudável; portador XLR: mulher heterozigota saudável
 | Antecipação | Expressividade variável | Antecipação = piora ENTRE gerações por expansão de repetição; Expressividade = variação DENTRO de uma geração |
 
 ### Frase-âncora para não esquecer
-
 > "Vertical e 50%? AD. Horizontal e 25%? AR. Só nos meninos e pula nos pais? XLR. Só pela mãe, sem exceção? Mitocondrial. 15q sem o pai = Prader-Willi; 15q sem a mãe = Angelman — memorize pela letra: P(aternal ausente)→P(rader-Willi); M(aternal ausente)→a(ngel)M(an)."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.

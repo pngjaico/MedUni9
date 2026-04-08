@@ -2,9 +2,9 @@
 
 ## Relevância Clínica e Acadêmica
 
-A inflamação é a resposta coordenada do organismo a qualquer dano tecidual — seja infecção, trauma, **necrose** ou corpo estranho. Longe de ser apenas o "inchaço e vermelhão" da lesão, trata-se de um processo altamente regulado com fases bem definidas: início, amplificação, resolução ou cronicidade. Quando desregulada, a inflamação é o mecanismo-base de doenças como aterosclerose, artrite reumatoide, doença inflamatória intestinal e sepse.
+A inflamação é a resposta coordenada do organismo a qualquer dano tecidual — seja infecção, trauma, necrose ou corpo estranho. Longe de ser apenas o "inchaço e vermelhão" da lesão, trata-se de um processo altamente regulado com fases bem definidas: início, amplificação, resolução ou cronicidade. Quando desregulada, a inflamação é o mecanismo-base de doenças como aterosclerose, artrite reumatoide, doença inflamatória intestinal e sepse.
 
-O tema é central em MAD1 porque prepara o estudante para entender praticamente qualquer patologia sistêmica. A **Uninove** adora cobrar os sinais cardinais, as diferenças entre aguda e crônica, os mediadores lipídicos e a composição do exsudato inflamatório.
+O tema é central em MAD1 porque prepara o estudante para entender praticamente qualquer patologia sistêmica. A Uninove adora cobrar os sinais cardinais, as diferenças entre aguda e crônica, os mediadores lipídicos e a composição do exsudato inflamatório.
 
 ### Figura sugerida
 
@@ -160,17 +160,17 @@ Após a inflamação, o tecido busca a cura:
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+- **Aguda:** neutrófilo, rápida, reversível; rubor/calor = vasodilatação; tumor = ↑permeabilidade
+- **Crônica:** macrófago + linfócito T, longa, destruição + reparo simultâneos
+- **Granuloma caseoso:** tuberculose; **não-caseoso:** sarcoidose
+- **Histamina:** mastócito → vasodilatação e ↑permeabilidade (1ª resposta)
+- **AINEs:** inibem COX → ↓ PGs → menos dor/febre mas não afetam leucotrienos
+- **Diapedese:** selectinas → integrinas (ICAM-1) → PECAM-1
 
-
-Aguda: neutrófilo, rápida, reversível; rubor/calor = vasodilatação; tumor = ↑permeabilidade. Crônica: macrófago + linfócito T, longa, destruição + reparo simultâneos.
-
-Granuloma caseoso: tuberculose; não-caseoso: sarcoidose. Histamina: mastócito → vasodilatação e ↑permeabilidade (1ª resposta).
-
-AINEs: inibem COX → ↓ PGs → menos dor/febre mas não afetam leucotrienos. Diapedese: selectinas → integrinas (ICAM-1) → PECAM-1.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -183,13 +183,4 @@ AINEs: inibem COX → ↓ PGs → menos dor/febre mas não afetam leucotrienos. 
 | Macrófago M1 | Macrófago M2 | M1 = ativado por IFN-γ, pró-inflamatório (mata); M2 = ativado por IL-4/IL-13, reparo/fibrose |
 
 ### Frase-âncora para não esquecer
-
 > "Aguda é o alarme de incêndio — rápido e barulhento (neutrófilos). Crônica é o combate de guerrilha — lento, persistente e deixa cicatriz (macrófagos e fibrose)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).

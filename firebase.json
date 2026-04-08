@@ -7,24 +7,10 @@
     "source": "functions"
   },
   "hosting": {
-    "public": ".",
+    "public": "public",
     "ignore": [
-      "firebase.json",
-      "firestore.rules",
-      "firestore.indexes.json",
       "**/.*",
-      "README.md",
-      "COMO-ATUALIZAR.md",
-      "conteudos/**",
-      "node_modules/**",
-      "*.bat",
-      "*.ps1",
-      "server.js",
-      ".agents/**",
-      "prompts/**",
-      "scripts/**",
-      "organizar.js",
-      "data/feedback/**"
+      "**/node_modules/**"
     ],
     "rewrites": [
       {

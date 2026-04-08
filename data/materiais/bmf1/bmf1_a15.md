@@ -7,17 +7,19 @@
 
 ## Relevância Clínica e Acadêmica
 
-**Glândulas** são epitélios especializados em **secreção**. Separar **exócrinas** (com **ducto** até superfície ou lúmen) de **endócrinas** (sem ducto clássico, produto na **circulação**) organiza farmacologia, anatomia e oncologia: **adenocarcinomas** mimetizam arquitetura glandular — daí a importância de **acinos**, **tubos** e **tipos de secreção**.
+As **Glândulas** são fábricas celulares especializadas em **Secreção**. Para a prova, domine a diferença entre as **Exócrinas** (com **Ducto**) e as **Endócrinas** (lançam no **Sangue**). Na clínica, o conhecimento sobre os modos de secreção (como a **Holócrina**) e a anatomia das glândulas salivares explica desde a **Acne** até paralisias faciais pós-cirúrgicas.
 
 ---
 
 ## Modos de secreção: merócrina, apócrina e holócrina
 
-| Modo | O que acontece com a célula | Exemplo típico em prova |
-|------|------------------------------|-------------------------|
-| **Merócrina** | Vesícula libera conteúdo; célula permanece | Sudor **écrino** |
-| **Apócrina** | Porção apical do citoplasma na secreção | Glândulas **mamárias** (contexto), sudor apócrino |
-| **Holócrina** | Célula inteira vira secreção | **Sebácea** |
+| Modo de Secreção | Destino da Célula | Exemplo Clássico |
+|-------------------|-----------------------------|-------------------|
+| **Merócrina** | Apenas o produto sai | **Sudorípara** Écrina |
+| **Apócrina** | Sai produto + ápice celular | **Mamária** |
+| **Holócrina** | A célula **inteira** morre/sai | **Sebácea** |
+
+> **Gatilho de Prova:** Se a questão fala em "célula se sacrifica para secretar", a resposta é **Holócrina** (Gland. Sebácea).
 
 > **Dica de Prova:** **Holócrina** = lembra **sebácea** e renovação contínua do epitélio do folículo.
 
@@ -41,13 +43,13 @@ A **morfologia** descreve como o epitélio se organiza: **tubular** (tubos), **a
 
 ## Glândulas salivares principais
 
-| Glândula | Predominância | Nota clínica |
-|----------|-----------------|--------------|
-| **Parótida** | Serosa | **Nervo facial (VII)** no trajeto — citar em cirurgia |
-| **Submandibular** | Mista | Ducto **de Wharton** |
-| **Sublingual** | Mucosa | Múltiplos ductos menores |
+| Glândula Salivar | Tipo de Saliva | Risco Clínico / Ducto |
+|------------------|-----------------|------------------------|
+| **Parótida** | **Serosa** (Aquosa) | Nervo Facial (**VII**) |
+| **Submandibular**| **Mista** | Ducto de **Wharton** |
+| **Sublingual** | **Mucosa** (Viscosa)| Inchaço sob a língua |
 
-**Sialolitíase** (cálculo no ducto) dá dor **colica** à **mastigação** e **inchaço** glandular — **anatomia do ducto** explica o quadro.
+**Sialolitíase:** Formação de cálculos ("pedras") no ducto. A **Submandibular** é a mais afetada devido ao trajeto ascendente do ducto de Wharton.
 
 ---
 
@@ -71,40 +73,18 @@ A **morfologia** descreve como o epitélio se organiza: **tubular** (tubos), **a
 
 ## Pontos-Chave para Prova
 
-- **Exócrina** = ducto; **endócrina** = sem ducto clássico para o lúmen.
-- **Merócrina / apócrina / holócrina** — associar a **sudor** e **sebácea**.
-- **Parótida serosa**; **sublingual** mais **mucosa**; **submandibular** **mista**.
-- **Acinos** serosos “mais basofílicos” versus mucosos “pálidos” em muitas lâminas (visão geral).
-- **Risco cirúrgico** na parótida e **VII**.
+- **Acinos Serosos:** Secretam enzimas (proteínas). Coram-se intensamente (**Escuros**).
+- **Acinos Mucosos:** Secretam muco (carboidratos). Coram-se fracamente (**Claros**).
+- **Endócrina:** Não tem ducto. Ex: **Tireoide** e Adrenal.
+- **Unicellular:** A **Célula Caliciforme** (vias aéreas/intestino) é uma glândula de uma célula só.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### O que você PRECISA saber
-
-- Definir **glândula exócrina** em uma frase com **ducto**.
-- Nomear o modo de secreção da **glândula sebácea**.
-- Colocar **parótida**, **submandibular** e **sublingual** na tabela **serosa/mucosa/mista**.
-- Explicar por que **endócrina** precisa de **leito** vascular especializado.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Adenoma | Adenocarcinoma | Invasão ao estroma versus limite preservado |
-| Secreção serosa | Mucosa | Aquosa/rica em enzimas versus viscosa |
-| Glândula exócrina | Endócrina | Ducto até superfície vs produto no sangue |
-| Parótida | Sublingual | Serosa predominante vs mucosa predominante |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Exócrina** | **Endócrina** | Ducto vs **Capilar Sanguíneo** |
+| **Célula Caliciforme**| **Adenômero** | Única vs Complexo de Células |
+| **Serosa** | **Mucosa** | Fluida/Enzimas vs Espessa/Proteção |
+| **Papila Mamária** | **Lóbulo** | Saída (Mamilo) vs Fábrica de Leite |
 
 ### Frase-âncora para não esquecer
 
 > “Sem ducto, não é exócrina — é outro capítulo.”
-
----
-
-## Referências de estudo
-
-Junqueira e Carneiro (glândulas salivares e tipos de secreção); Moore (anatomia da cabeça e pescoço para ductos e nervos).

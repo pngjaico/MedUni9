@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Exames de **lipídios** guiam **risco cardiovascular** e investigação de **pancreatite**, **xantomas** e **defeitos genéticos**. Interpretar **perfil lipídico**, **regra de Friedewald** (quando válida), **marcadores inflamatórios** associados e **metas terapêuticas** transforma a bioquímica em **conduta**: **estatina**, **EZE**, **fibratos**, **ômega-3**, **PCSK9i** — cada um com **mecanismo** e **indicação**.
+A interpretação do **Perfil Lipídico** é rotina na prática médica para estratificar o **Risco Cardiovascular**. Para a prova, domine a **Fórmula de Friedewald**, os critérios para **Pancreatite Aguda** por hipertrigliceridemia e os mecanismos das principais drogas hipolipemiantes. Na clínica, isso permite decidir entre **Estatinas**, **Fibratos** ou terapias combinadas como a **Ezetimiba**.
 
 
 ### Figura sugerida
@@ -56,13 +56,14 @@ LDL estimado ≈ **Total − HDL − (TG/5)** em mg/dL (quando **TG < 400** e se
 
 ## Hipolipemiantes: mecanismo em uma linha
 
-| Classe | Mecanismo principal |
-|--------|---------------------|
-| Estatinas | inibem **HMG-CoA redutase** |
-| Ezetimiba | inibe **NPC1L1** (absorção intestinal) |
-| Fibratos | agonistas **PPARα** (↑ TG clearance, ↑ HDL) |
-| Ácidos graxos ômega-3 | reduzem **TG** hepáticos |
-| Inibidores PCSK9 | ↑ **LDLR** na superfície |
+| Classe de Droga | Mecanismo Prático | Alvo Principal |
+|-----------------|-------------------|----------------|
+| **Estatinas** | Inibe **HMG-CoA Redutase** | Reduzir **LDL-C** |
+| **Ezetimiba** | Inibe **NPC1L1** (absorção) | Adjuvante pós-estatina |
+| **Fibratos** | Ativa **PPAR-alfa** | Reduzir **Triglicerídeos** |
+| **Ômega-3** | Reduz **VLDL** hepático | Hipertrigliceridemia grave |
+| **PCSK9i** | Aumenta **Receptores LDL** | **LDL refratário** |
+| **Colestiramina**| Sequestra **Ácidos Biliares** | Redução de LDL (segunda linha) |
 
 ---
 
@@ -74,10 +75,11 @@ Paciente **DM2** com **TG alto** e **HDL baixo** — **síndrome metabólica**; 
 
 ## Pontos-Chave para Prova
 
-- **LDL** como alvo principal na **maioria** dos cenários de **ASCVD**.
-- **TG** muito alto = **pancreatite**; investigar **causa secundária**.
-- **Friedewald** falha com **TG altos**.
-- **FH** = **LDL** extremo + **história familiar** — encaminhar especialista.
+- **Friedewald:** Só vale se **TG < 400 mg/dL**. É o cálculo clássico: **CT - HDL - (TG/5)**.
+- **Pancreatite:** O risco torna-se grave quando **TG > 500-1000 mg/dL**.
+- **Metas de LDL:** Definidas pelo **Risco Cardiovascular** total do paciente (baixo, médio, alto, muito alto).
+- **Mecanismos:** **Estatina** (bloqueia fábrica), **Ezetimiba** (bloqueia mercado/absorção).
+- **FH:** Suspeite de **Hipercolesterolemia Familiar** se **LDL > 190 mg/dL** em adultos.
 
 ---
 
@@ -87,26 +89,23 @@ Paciente **DM2** com **TG alto** e **HDL baixo** — **síndrome metabólica**; 
 
 ### Síntese para a prova
 
+Na prática de prova, o painel lipídico deve ser interpretado com contexto: estado de **jejum**, presença de **causas secundárias** e padrão global de risco cardiovascular. O erro clássico é olhar apenas um número isolado sem considerar síndrome metabólica, hipotireoidismo, álcool ou fármacos.
 
-Interpretar perfil no contexto de jejum e causa secundária. TG e pancreatite quando muito elevado.
+Outro ponto central é a prioridade clínica: **LDL-C** costuma ser o principal alvo de prevenção cardiovascular, mas **TG muito alto** muda a urgência por risco de **pancreatite**. Quando a meta de LDL não é atingida, a banca costuma cobrar escalonamento terapêutico com associação racional, como **estatina + ezetimiba**.
 
-Estatina primeira linha na maioria dos ASCVD primários/secundários (conforme diretriz). Combinações (ex.: estatina + ezetimiba) quando meta não atingida.
+Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
 
-### Diferenciações que a Uninove adora cobrar
+- **Perfil de Jejum:** Atualmente não é obrigatório para colesteróis, mas é preferível para **Triglicerídeos**.
+- **Tratamento de TG:** Se **TG > 500**, trate o risco de **Pancreatite** antes de focar na meta de LDL.
+- **Associação:** **Estatina + Ezetimiba** é a primeira escolha para quem não atinge meta em dose máxima.
+- **Hipotireoidismo:** Uma causa clássica de **Hipercolesterolemia Secundária**.
 
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| LDL elevado | HDL baixo | LDL aterogênico; HDL “protetivo” mas não droga isolada milagrosa. |
-| Primária | Secundária | Tireoide, álcool, drogas — sempre pensar antes de genética. |
-| Meta de LDL | Meta de TG | Contextos diferentes; prioridade muda com **pancreatite**. |
-
----
-
-## Lipoproteína(a)
-
-**Lp(a)** — partícula **LDL-like** ligada a **apoproteína(a)**; marcador **genético** de risco em **ASCVD**; não corrigido por **estatina** isolada — opções específicas em casos selecionados (conforme diretriz).
-
-Em **TG moderadamente elevados**, **ômega-3** prescritos e **controle glicêmico** costumam preceder **fibrato** — decisão **individualizada**.
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Fibratos** | **Estatinas** | Foco em **TG** vs Foco em **LDL** |
+| **CAD** | **Xantelasma** | Complicação **Glicêmica** vs Sinal **Lipídico** |
+| **LDLR** | **PCSK9** | **Captação** de LDL vs **Destruição** do receptor |
+| **Direto** | **Calculado** | Precisão no **TG alto** vs Erro no **TG alto** |
 
 ### Frase-âncora para não esquecer
 

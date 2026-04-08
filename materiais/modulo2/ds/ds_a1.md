@@ -1,64 +1,130 @@
-﻿# DS — Aula 1: Desafios Socioambientais Globais e Saúde
+# DS — Aula 1: Desafios Socioambientais Globais e Saúde
 
-**Disciplina:** Desafios Socioambientais e Saúde
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Desafios Socioambientais e Saúde  
+**Módulo:** 2 | **Tempo de estudo sugerido:** 25-35 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Essa aula é importante porque rompe a ideia de que saúde depende só de diagnóstico e prescrição. A **Uninove** costuma cobrar como mudanças ambientais, desigualdade social, insegurança alimentar e crises climáticas alteram o perfil de adoecimento de populações inteiras.
+Desafios socioambientais globais não são tema "extra" da medicina: eles mudam padrão de adoecimento, sobrecarga de serviços e mortalidade. Em prova, a banca costuma cobrar a ligação entre ambiente, organização social e desfechos clínicos concretos.
 
-Na prática médica, isso muda tudo: aumenta doenças respiratórias em eventos extremos, afeta doenças infecciosas por alteração de ecossistemas e amplia vulnerabilidades em territórios pobres. Entender desafio socioambiental é ampliar o olhar clínico para o contexto real do paciente.
+Na prática, o estudante precisa conectar **mudanças climáticas**, **poluição**, **saneamento**, **segurança alimentar**, **urbanização** e **iniquidades sociais** com risco de doença, gravidade e chance de recuperação. Esse raciocínio é central para APS, urgência, vigilância e gestão do cuidado.
 
+---
 
+## Mudanças climáticas e desfechos em saúde
 
+Mudanças climáticas aumentam frequência e intensidade de eventos extremos, como ondas de calor, secas, enchentes e tempestades. Esses eventos geram efeitos diretos (trauma, desidratação, choque térmico) e indiretos (falta de água, piora nutricional, interrupção de tratamento crônico).
+
+Em ondas de calor, há aumento de exaustão térmica, golpe de calor, descompensação de insuficiência cardíaca e maior mortalidade em idosos, crianças pequenas e pessoas com comorbidades. Em enchentes, além de trauma e afogamento, cresce risco de leptospirose, diarreias infecciosas e contaminação ambiental.
+
+Do ponto de vista de prova, a chave é lembrar que o evento climático atua como multiplicador de risco quando encontra sistema social frágil.
+
+> **Dica de Prova:** quando a questão citar desastre climático, pense em três camadas: dano imediato, doença infecciosa subsequente e piora de doença crônica por ruptura de acesso.
+
+> **Pegadinha:** reduzir impacto climático apenas a "morte no evento agudo" e ignorar o aumento de internações nas semanas seguintes.
 
 ### Figura sugerida
 
 **Figura-ID:** `DS-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após o bloco de mudanças climáticas.
+- **O que mostrar:** fluxo "evento extremo -> dano imediato -> agravos infecciosos/crônicos -> impacto em mortalidade".
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** Eventos climáticos extremos ampliam risco por vias diretas e indiretas.
+- **Notas (opcional):** versão com texto curto para leitura em mobile.
 
-## Como Ambiente e Sociedade Entram no Processo Saúde-Doença
+---
 
-Saúde coletiva não é cenário de fundo, é parte da fisiopatologia social. Poluição do ar, escassez hídrica, ondas de calor, enchentes e ocupação urbana precária modificam exposição, risco e acesso ao cuidado. Quando esses fatores se somam à desigualdade socioeconômica, o impacto em morbimortalidade cresce.
+## Poluição ambiental e carga de doença
 
-> **Dica de Prova:** determinante socioambiental não é fator "secundário"; ele participa diretamente do risco de adoecimento.
+A poluição do ar (material particulado fino, ozônio troposférico, óxidos de nitrogênio) está associada a exacerbação de asma e DPOC, maior risco cardiovascular e aumento de mortalidade prematura. Em cidades grandes, dias de pior qualidade do ar acompanham mais procura por pronto atendimento respiratório.
 
-> **Pegadinha:** tratar mudança climática apenas como tema ambiental e não como tema de saúde pública com efeito clínico direto.
+Poluição da água, por sua vez, se relaciona a gastroenterites, hepatites de transmissão hídrica e intoxicações por metais/compostos químicos em cenários específicos. Em áreas com baixa fiscalização ambiental, populações vulneráveis ficam mais expostas por morar perto de fontes poluidoras.
 
-## Vulnerabilidade, Iniquidade e Resposta em Saúde
+Raciocínio de prova clássico: se o enunciado descreve aumento de doença respiratória em período seco com queimadas, a leitura correta envolve exposição ambiental + vulnerabilidade prévia + resposta de vigilância/APS.
 
-Nem todos sofrem igualmente o mesmo evento ambiental. Populações em maior vulnerabilidade social acumulam exposição e têm menor capacidade de resposta. Por isso, falar em equidade é central: o sistema de saúde precisa direcionar recursos conforme necessidade, e não de forma cega e homogênea.
+---
 
-A leitura correta em prova é integrar risco ambiental, determinantes sociais e capacidade do **SUS** de resposta territorial.
+## Saneamento básico, doenças infecciosas e dignidade
 
+Saneamento inadequado (água insegura, coleta de esgoto insuficiente, drenagem precária) mantém ciclo de doenças evitáveis. A ausência de esgotamento sanitário e água tratada aumenta incidência de diarreias, parasitoses e outras infecções relacionadas ao ambiente.
 
+Em enchentes urbanas, a combinação de esgoto a céu aberto e água contaminada potencializa surtos. A questão de prova pode trocar termos, mas o núcleo é o mesmo: saneamento é intervenção estruturante de saúde pública, não só obra de infraestrutura.
 
+Para o cuidado clínico, isso implica anamnese territorial: origem da água, descarte de resíduos, histórico de alagamento e condições domiciliares podem explicar padrão recorrente de adoecimento familiar.
+
+---
+
+## Segurança alimentar e nutricional como eixo de saúde
+
+Segurança alimentar não é apenas quantidade de comida, mas acesso regular a alimento adequado e de qualidade. Crises climáticas, inflação, cadeias de abastecimento frágeis e desigualdade de renda aumentam insegurança alimentar.
+
+Na saúde, os desfechos incluem dupla carga: desnutrição/carências específicas em grupos vulneráveis e aumento de ultraprocessados baratos em contextos urbanos, com maior risco de obesidade, diabetes e hipertensão.
+
+Em prova, quando aparecer comunidade com piora econômica e consumo alimentar de baixa qualidade, o raciocínio correto integra determinantes sociais com risco metabólico e pior prognóstico de doenças crônicas.
+
+---
+
+## Urbanização acelerada e riscos sanitários
+
+Urbanização sem planejamento adequado gera adensamento, ilhas de calor, mobilidade precária, poluição atmosférica e déficit de áreas verdes. Esse cenário amplia estresse térmico, doenças respiratórias, sofrimento mental e acidentes.
+
+Moradias em áreas de risco (encostas, margens de córrego) tornam populações mais expostas a deslizamentos e enchentes. A distribuição desigual da infraestrutura urbana cria territórios onde o risco é estrutural.
+
+A banca costuma cobrar a diferença entre "cidade grande" e "urbanização desigual": o problema central não é tamanho urbano em si, mas como o espaço urbano é produzido e para quem.
+
+### Figura sugerida
+
+**Figura-ID:** `DS-A1-F02`
+
+- **Momento:** após o bloco de urbanização e iniquidades.
+- **O que mostrar:** mapa conceitual com exposição ambiental, acesso a serviços e desfecho de saúde por território.
+- **Tipo sugerido:** infográfico territorial.
+- **Legenda (rascunho):** Território urbano desigual concentra risco e pior desfecho.
+- **Notas (opcional):** destacar contraste entre área com infraestrutura e área periférica.
+
+---
+
+## Iniquidades sociais: quem adoece mais e por quê
+
+Iniquidade social em saúde é diferença injusta e evitável de risco, adoecimento e morte entre grupos sociais. Populações de baixa renda, negras, indígenas, migrantes e moradores de periferias tendem a concentrar exposições ambientais nocivas e menor acesso a cuidado oportuno.
+
+Não basta afirmar que "todos sofrem com o clima". A pergunta correta é: quem tem menos proteção, menos capacidade de prevenção e menor chance de recuperação rápida? Esse recorte diferencia análise superficial de análise de saúde coletiva.
+
+Em prova, se duas populações enfrentam o mesmo evento ambiental com desfechos diferentes, a resposta costuma envolver determinantes sociais, acesso desigual e necessidade de políticas de equidade.
+
+### Comparativo de alto rendimento
+
+| Eixo socioambiental | Exposição principal | Desfechos de saúde associados | Ponto de prova para diferenciar |
+|---------------------|---------------------|-------------------------------|---------------------------------|
+| Mudanças climáticas | calor extremo, enchente, seca | golpe de calor, leptospirose, descompensação crônica | lembrar efeitos imediatos e tardios |
+| Poluição | ar contaminado, água contaminada | asma/DPOC, evento cardiovascular, gastroenterites | relacionar tipo de poluente ao sistema afetado |
+| Saneamento precário | esgoto inadequado, água insegura | diarreias, parasitoses, surtos pós-enchente | saneamento como prevenção primária estrutural |
+| Insegurança alimentar | baixa renda, acesso irregular a alimento | desnutrição e piora de DCNT | dupla carga nutricional em territórios vulneráveis |
+| Urbanização desigual | adensamento sem infraestrutura | estresse térmico, trauma, sofrimento mental | risco não é "cidade"; é desigualdade territorial |
+| Iniquidade social | discriminação e barreiras de acesso | maior morbimortalidade evitável | equidade = resposta proporcional à necessidade |
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Desafios Socioambientais Globais e Saúde
+Imagine uma UBS após período de chuvas intensas em área periférica. Você observa aumento de diarreia aguda, suspeitas de leptospirose, crise asmática e descompensação hipertensiva por interrupção de medicamento. O caso não se explica por um único agente etiológico: ele expressa interação entre ambiente, infraestrutura e vulnerabilidade social.
 
-**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+A conduta clinicamente competente combina manejo individual (diagnóstico e tratamento) com ação territorial: notificação, educação em saúde, busca ativa de grupos de risco, articulação com vigilância e assistência social. Essa integração é exatamente o que diferencia resposta biomédica isolada de prática em saúde coletiva.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Determinante socioambiental:** influencia risco, adoecimento e desfecho.
-- **Mudança climática:** produz impacto sanitário direto e indireto.
-- **Vulnerabilidade social:** amplifica efeito de risco ambiental.
-- **Iniquidade em saúde:** distribuição desigual de dano e acesso.
-- **Equidade:** resposta proporcional à necessidade de cada grupo.
-- **Saúde pública:** exige integração entre clínica e território.
+- Mudanças climáticas atuam por vias diretas e indiretas, com impacto agudo e prolongado.
+- Poluição do ar eleva carga respiratória e cardiovascular; poluição hídrica amplia doenças infecciosas.
+- Saneamento básico é intervenção estruturante de prevenção e redução de iniquidades.
+- Segurança alimentar inadequada gera desfechos tanto de carência nutricional quanto metabólicos.
+- Urbanização desigual distribui risco ambiental de forma assimétrica no território.
+- Iniquidades sociais explicam por que o mesmo evento produz desfechos diferentes entre grupos.
+- Em prova, equidade significa ajustar recursos conforme necessidade sanitária real.
 
 ---
 
@@ -68,49 +134,28 @@ A leitura correta em prova é integrar risco ambiental, determinantes sociais e 
 
 ### Síntese para a prova
 
+Na Uninove, esse tema costuma ser cobrado com casos que misturam evento ambiental e contexto social. A leitura correta é sempre integrada: clima, poluição, saneamento, alimentação e urbanização não são capítulos separados, mas determinantes que interagem e modulam risco, gravidade e recuperação.
 
-Socioambiental: componente direto do processo saúde-doença. Clima extremo: aumenta risco de agravos populacionais. Poluição: eleva carga de doença respiratória e cardiovascular.
+Se o enunciado trouxer enchente, onda de calor ou seca, pense além do dano imediato. A banca espera que você reconheça desfechos infecciosos, piora de crônicos, barreira de acesso e sobrecarga da rede local nas semanas seguintes.
 
-Desigualdade social: agrava vulnerabilidade sanitária. Equidade: princípio-chave para resposta efetiva. Território: define exposição e acesso ao cuidado.
+Quando a questão comparar grupos populacionais expostos ao mesmo cenário, a resposta geralmente depende de iniquidade social. Quem vive em território com pior infraestrutura, menor renda e menor acesso ao cuidado tende a adoecer mais e morrer mais, mesmo diante do mesmo perigo ambiental.
 
-Saúde coletiva: integra ambiente, sociedade e clínica. Risco acumulado: maior em populações vulneráveis.
+Outro ponto recorrente é confundir igualdade com equidade. Em saúde coletiva, resposta adequada não é distribuir o mesmo para todos, mas priorizar quem apresenta maior vulnerabilidade e maior risco de dano evitável.
+
+Para acertar questões discursivas, use estrutura de raciocínio: exposição socioambiental -> mecanismo de risco -> desfecho clínico/epidemiológico -> intervenção de cuidado e política pública. Essa sequência mostra domínio conceitual e aplicação prática.
+
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| Igualdade | Equidade | Igualdade distribui igual; equidade distribui conforme necessidade |
-| Fator ambiental isolado | Determinante socioambiental | Determinante integra ambiente, condição social e resposta em saúde |
-| Evento climático | Impacto sanitário | Evento é fenômeno; impacto é desfecho em saúde da população |
-| Risco individual | Risco coletivo territorial | O coletivo depende de contexto social e ambiental compartilhado |
+| Igualdade | Equidade | igualdade distribui igual; equidade distribui conforme necessidade e risco |
+| Evento climático | Desastre em saúde | evento é fenômeno físico; desastre inclui impacto humano e falha de resposta |
+| Fator de risco isolado | Determinante socioambiental | determinante integra ambiente, organização social e acesso ao cuidado |
+| Prevenção clínica individual | Intervenção estrutural coletiva | a primeira atua no paciente; a segunda reduz exposição no território |
+| Insegurança alimentar | Fome aguda isolada | insegurança é condição contínua de acesso inadequado, com múltiplos desfechos |
 
 ### Frase-âncora para não esquecer
 
-> "Quando o ambiente adoece, a população adoece junto."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Desafios Socioambientais Globais e Saúde** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
-| Pegadinha / contraste | Política pública ou ODS relacionado. |
-| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
-- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
-- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.
+> "Na saúde coletiva, o clima acende o risco, mas a desigualdade decide quem mais adoece e quem menos se recupera."

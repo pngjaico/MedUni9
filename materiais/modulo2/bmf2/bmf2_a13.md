@@ -1,178 +1,188 @@
-﻿# BMF2 — Aula 13: Trocas Gasosas e Relação Ventilação/Perfusão
+﻿# BMF2 — Aula 13: Trocas gasosas e relação ventilação/perfusão
 
 ## Relevância Clínica e Acadêmica
 
-A troca gasosa é o objetivo final de todo o aparelho respiratório. Entender como o O₂ vai do ar alveolar ao sangue arterial e como o CO₂ percorre o caminho inverso é fundamental para interpretar a gasometria arterial — exame obrigatório em qualquer paciente grave. As zonas de West, a relação V̇/Q̇ e os mecanismos de hipoxemia compõem um framework lógico que aparece diretamente em questões de clínica médica, pneumologia e terapia intensiva.
+Troca gasosa não é detalhe de fisiologia: é o desfecho final da mecânica respiratória e do transporte sanguíneo. Quando a banca apresenta gasometria arterial, saturação, dispneia e imagem pulmonar, ela está testando se você entende como O2 e CO2 atravessam a membrana alvéolo-capilar e como ventilação e perfusão se distribuem no pulmão real.
 
-A **Uninove** cobra esses tópicos especialmente em contextos de patologias respiratórias (pneumonia, TEP, DPOC, síndrome do desconforto respiratório agudo — SDRA) em que o aluno precisa identificar o mecanismo de hipoxemia. Dominar essa lógica transforma questões complexas em raciocínio direto.
+Na prática clínica, esse raciocínio diferencia condições comuns e graves: asma e DPOC (desigualdade V/Q), pneumonia lobar (shunt regional), tromboembolismo pulmonar (efeito espaço morto) e SDRA (shunt importante). Em prova, quem domina o mecanismo fisiopatológico erra menos mesmo quando o enunciado muda de cenário.
+
+---
+
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A13-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
 - **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
 
+## Difusão alvéolo-capilar e gradientes de pressão parcial
 
+A passagem de gases pela membrana respiratória ocorre por difusão passiva, dirigida por gradientes de pressão parcial. O modelo clássico é a Lei de Fick:
 
+Vgas = (A x D x DeltaP) / T
 
----
+Em termos clínicos:
+- **A (área):** quanto maior a superfície disponível, maior a difusão.
+- **D (difusibilidade):** depende da solubilidade e da massa molecular do gás.
+- **DeltaP (gradiente):** é a força motriz da troca.
+- **T (espessura):** quanto mais espessa a barreira, menor a difusão.
 
+A membrana alvéolo-capilar normal é extremamente fina, o que favorece trocas rápidas. Isso explica por que o sangue capilar costuma atingir equilíbrio com o gás alveolar antes de sair do capilar pulmonar em repouso.
 
+### Gradientes típicos de O2 e CO2
 
-## Difusão de Gases na Membrana Alvéolo-Capilar
+| Compartimento | PO2 (mmHg) | PCO2 (mmHg) | Interpretação fisiológica |
+|---|---:|---:|---|
+| Ar inspirado seco | ~159 | ~0,3 | Valor teórico antes da umidificação |
+| Alvéolo | ~100 | ~40 | Referência para troca eficiente |
+| Sangue venoso misto | ~40 | ~46 | Sangue que chega ao capilar pulmonar |
+| Sangue arterial | ~95 a 100 | ~40 | Resultado final da hematose |
 
-A troca gasosa ocorre por **difusão passiva** segundo a Lei de Fick:
+O gradiente de O2 entre alvéolo e sangue venoso misto é grande, o que favorece difusão. Já o gradiente de CO2 é menor, mas o CO2 difunde com facilidade porque é muito mais solúvel.
 
-$$\dot{V}_{gas} = \frac{A \times D \times (P_1 - P_2)}{T}$$
+> **Dica de Prova:** se a pergunta sugerir "problema de difusão", pense primeiro em queda de O2. Alteração isolada de CO2 por difusão é menos típica no início.
 
-Onde:
-- A = área de superfície alveolar (~70 m²)
-- D = coeficiente de difusão (proporcional à solubilidade e inversamente proporcional à raiz da massa molecular)
-- P₁ − P₂ = gradiente de pressão parcial
-- T = espessura da membrana
+### Por que o CO2 atravessa tão bem?
 
-**Comparando O₂ e CO₂:**
-- CO₂ é ~20× mais solúvel que O₂ → difunde ~20× mais facilmente
-- Por isso, hipercapnia (↑CO₂) raramente é causada por problema de difusão — quase sempre é falência ventilatória
-- Hipoxemia pode resultar de difusão prejudicada (espessamento da membrana em fibrose, SDRA)
-
----
-
-## Pressões Parciais dos Gases
-
-| Gás | Ar inspirado | Ar alveolar | Sangue venoso misto | Sangue arterial |
-|-----|-------------|-------------|--------------------|----|
-| O₂ (PO₂) | 159 mmHg | ~100 mmHg | ~40 mmHg | ~95–100 mmHg |
-| CO₂ (PCO₂) | ~0 mmHg | ~40 mmHg | ~46 mmHg | ~40 mmHg |
-
-O O₂ difunde do alvéolo (~100 mmHg) para o sangue venoso (~40 mmHg) → gradiente de 60 mmHg.
-O CO₂ difunde do sangue (~46 mmHg) para o alvéolo (~40 mmHg) → gradiente menor (6 mmHg), mas compensado pela alta solubilidade.
-
-> **Dica de Prova:** A PaO₂ normal é ~95–100 mmHg em jovens ao nível do mar. Com a idade, a PaO₂ esperada cai: fórmula aproximada = 100 − (0,3 × idade). Um idoso de 70 anos pode ter PaO₂ de 79 mmHg normalmente.
+Apesar de gradiente de pressão menor, o CO2 é aproximadamente 20 vezes mais difusível que o O2. Por isso:
+- doença intersticial costuma causar hipoxemia antes de hipercapnia;
+- hipercapnia importante sugere também falha ventilatória global;
+- em esforço, a limitação de difusão aparece primeiro no O2.
 
 ---
 
-## Transporte de O₂ e CO₂ no Sangue
+## Curva de dissociação Hb-O2 e deslocamentos
 
-**O₂:**
-- Ligado à hemoglobina: ~98,5% (como oxiemoglobina)
-- Dissolvido no plasma: ~1,5%
-- Conteúdo arterial de O₂ (CaO₂) = (Hb × 1,34 × SatO₂) + (PaO₂ × 0,003)
+A maior parte do O2 circula ligada à hemoglobina. A relação entre PO2 e saturação da Hb é sigmoide, o que permite captação pulmonar eficiente e liberação tecidual responsiva.
 
-**Curva de dissociação da Hb-O₂:**
-- Forma sigmoide; p50 = PO₂ em que Hb está 50% saturada (~26–27 mmHg)
-- Desvio à direita (↓Sat para mesma PO₂): acidose, ↑CO₂, ↑temperatura, ↑2,3-DPG → favorece liberação de O₂ nos tecidos
-- Desvio à esquerda (↑Sat): alcalose, ↓CO₂, ↓temperatura, carboxiemoglobina (CO) → prejudica liberação de O₂
+### Conceitos centrais da curva
 
-**CO₂:**
-- Bicarbonato (HCO₃⁻): ~70% — CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻ (anidrase carbônica nas hemácias)
-- Carbaminoemoglobina: ~23%
-- Dissolvido: ~7%
+- **Trecho plano (PO2 alta):** mantém saturação mesmo com pequenas quedas de PO2.
+- **Trecho íngreme (PO2 tecidual):** pequena queda de PO2 libera muito O2.
+- **P50 (~26-27 mmHg):** PO2 na qual a Hb está 50% saturada.
 
-> **Pegadinha:** O CO (monóxido de carbono) tem afinidade pela Hb ~240× maior que o O₂. O envenenamento por CO causa hipoxemia com PaO₂ NORMAL na gasometria convencional — porque a PaO₂ mede O₂ dissolvido, não o ligado à Hb. A oximetria de pulso convencional também pode estar FALSAMENTE NORMAL (lê carboxiemoglobina como oxiemoglobina). O exame correto é a co-oximetria.
+### Deslocamento para a direita vs esquerda
 
----
+| Deslocamento | Fatores clássicos | Efeito na afinidade | Consequência clínica |
+|---|---|---|---|
+| Direita | acidose, aumento de CO2, aumento de temperatura, aumento de 2,3-DPG | Diminui afinidade Hb-O2 | Facilita liberação de O2 aos tecidos |
+| Esquerda | alcalose, redução de CO2, redução de temperatura, Hb fetal, CO | Aumenta afinidade Hb-O2 | Dificulta entrega tecidual de O2 |
 
-## Relação Ventilação/Perfusão (V̇/Q̇)
+No contexto de prova, lembre-se do efeito Bohr: aumento de CO2 e H+ favorece a descarga de O2 nos tecidos (desvio à direita).
 
-A relação V̇/Q̇ é o índice mais importante para a troca gasosa eficiente. O valor normal global é ~0,8 (4 L/min de ventilação alveolar ÷ 5 L/min de débito cardíaco).
-
-**Variações fisiológicas (Zonas de West — pulmão em posição vertical):**
-
-| Zona | Localização | V̇/Q̇ | PO₂ alveolar | PCO₂ alveolar |
-|------|------------|------|-------------|--------------|
-| Zona 1 (ápice) | Parte superior | > 1 (V > Q) | Alta (~130 mmHg) | Baixa (~28 mmHg) |
-| Zona 2 | Região média | ~1 (equilíbrio) | ~100 mmHg | ~40 mmHg |
-| Zona 3 (base) | Base pulmonar | < 1 (Q > V) | Baixa (~89 mmHg) | Alta (~42 mmHg) |
-
-> **Dica de Prova:** Por que a tuberculose prefere o ápice pulmonar? Alta V̇/Q̇ no ápice = alta PO₂ alveolar = ambiente mais rico em O₂, favorecendo o crescimento de M. tuberculosis, que é aeróbio estrito.
-
-**Casos extremos da relação V̇/Q̇:**
-- V̇/Q̇ = 0: alvéolo perfundido mas não ventilado → **shunt** (sangue venoso passa sem trocar gases)
-- V̇/Q̇ = ∞: alvéolo ventilado mas não perfundido → **espaço morto alveolar**
+> **Pegadinha:** em intoxicação por monóxido de carbono, a PaO2 pode estar normal, mas o conteúdo total de O2 está reduzido e a curva desloca à esquerda para o O2 remanescente ligado à Hb.
 
 ---
 
-## Mecanismos de Hipoxemia e Hipercapnia
+## Relação ventilação/perfusão (V/Q)
 
-Existem 5 mecanismos de hipoxemia:
+A relação V/Q expressa o equilíbrio entre ar que chega ao alvéolo (ventilação alveolar) e sangue que chega ao capilar (perfusão). O valor global médio é cerca de 0,8, mas essa média esconde variações regionais fisiológicas importantes.
 
-| Mecanismo | Exemplo | Responde à O₂ 100%? | Gradiente A-a |
-|-----------|---------|----------------------|--------------|
-| Baixa PiO₂ (altitude) | Altitude elevada | Sim | Normal |
-| Hipoventilação | Sedação, fraqueza muscular | Sim | Normal |
-| Distúrbio de difusão | Fibrose, SDRA | Sim | Aumentado |
-| V̇/Q̇ desigual | DPOC, asma, pneumonia | Parcialmente | Aumentado |
-| Shunt (V̇/Q̇ = 0) | Cardiopatia congênita, SDRA grave | **Não** | Aumentado |
+### Zonas de West e distribuição vertical
 
-**Gradiente A-a de O₂:**
-= PAO₂ − PaO₂ (normal < 10–15 mmHg em jovens; aumenta com idade)
-PAO₂ (alveolar) = FiO₂ × (Patm − PH₂O) − PaCO₂/0,8
+Em posição ortostática, ventilação e perfusão aumentam da região apical para a basal. No entanto, a perfusão aumenta proporcionalmente mais, o que cria um gradiente regional de V/Q.
 
-O shunt é o único mecanismo de hipoxemia que **NÃO responde** adequadamente ao O₂ a 100% — porque o sangue que passa pelo shunt nunca contacta alveólos, por mais O₂ que se ofereça.
+| Zona de West | Relação de pressões | Tendência de V/Q | Característica de gases |
+|---|---|---|---|
+| Zona 1 (ápice) | PA > Pa > Pv | Alta V/Q (>1) | PO2 mais alta e PCO2 mais baixa |
+| Zona 2 (média) | Pa > PA > Pv | Intermediária | Valores próximos da média |
+| Zona 3 (base) | Pa > Pv > PA | Baixa V/Q (<1) | PO2 menor e PCO2 maior |
 
-> **Pegadinha:** Na **embolia pulmonar (TEP)**, o mecanismo primário é aumento do espaço morto (zona de West com V̇/Q̇ → ∞: alvéolos ventilados sem perfusão). Paradoxalmente, a hipoxemia na TEP muitas vezes se deve ao aumento da V̇/Q̇ desigual global + possível shunt pela reabertura do forame oval.
+Interpretação prática:
+- ápice: relativamente mais ventilado que perfundido;
+- base: relativamente mais perfundida que ventilada;
+- pulmão normal já apresenta desigualdade V/Q fisiológica.
+
+### Extremos da relação V/Q
+
+- **V/Q = 0:** há perfusão sem ventilação local, equivalente a **shunt**.
+- **V/Q muito alto (tendendo ao infinito):** há ventilação sem perfusão local, equivalente a **efeito espaço morto**.
+
+Esses extremos são conceitos-chave para interpretar hipoxemia e resposta ao oxigênio suplementar.
 
 ---
 
-## Pontos-Chave
+## Shunt e efeito espaço morto: interpretação clínica básica
 
-- Difusão segue Lei de Fick: proporcional a área, solubilidade e gradiente de P; inversamente proporcional à espessura
-- CO₂ difunde 20× mais que O₂ (mais solúvel) → hipercapnia é quase sempre por hipoventilação
-- PaO₂ normal ~95–100 mmHg; PaCO₂ normal ~40 mmHg; SpO₂ normal ≥ 95%
-- Desvio à direita da curva Hb-O₂: acidose, ↑T°, ↑CO₂, ↑2,3-DPG → libera mais O₂ nos tecidos
-- V̇/Q̇ global ~0,8; ápice > 1 (mais ventilado); base < 1 (mais perfundida)
-- TB prefere ápice: alta PO₂ local (alta V̇/Q̇)
-- Shunt (V̇/Q̇ = 0): único mecanismo de hipoxemia que não responde ao O₂ a 100%
-- Gradiente A-a elevado + sem resposta ao O₂ = shunt
-- TEP: aumento de espaço morto alveolar (V̇/Q̇ → ∞)
-- CO (monóxido): PaO₂ normal, SpO₂ normal convencional → diagnóstico por co-oximetria
+### Shunt (V/Q = 0)
+
+No shunt, parte do sangue atravessa o pulmão sem contato efetivo com alvéolo ventilado. Exemplos:
+- atelectasia importante;
+- pneumonia com consolidação extensa;
+- edema alveolar e SDRA.
+
+Comportamento típico:
+- hipoxemia relevante;
+- resposta limitada ao aumento de FiO2 quando o shunt é grande.
+
+### Efeito espaço morto (V/Q muito alto)
+
+No efeito espaço morto, há alvéolo ventilado com pouca ou nenhuma perfusão. Exemplo clássico:
+- tromboembolismo pulmonar.
+
+Comportamento típico:
+- ventilação "desperdiçada";
+- aumento do trabalho respiratório;
+- hipoxemia por redistribuição V/Q e não apenas pelo território obstruído.
+
+### Tabela comparativa de alto rendimento
+
+| Ponto | Shunt | Efeito espaço morto |
+|---|---|---|
+| Fisiologia | Perfusão sem ventilação | Ventilação sem perfusão |
+| Relação V/Q | 0 | Muito alta (tendendo ao infinito) |
+| Exemplo clássico | Pneumonia/atelectasia/SDRA | Tromboembolismo pulmonar |
+| Resposta a O2 | Pior resposta quando grave | Em geral melhora parcial |
+| Imagem mental | "sangue que não vê ar" | "ar que não vê sangue" |
+
+> **Dica de Prova:** se o enunciado disser "hipoxemia refratária mesmo com alta FiO2", o mecanismo mais provável é shunt importante.
+
+> **Pegadinha:** nem toda hipoxemia com doença pulmonar é shunt puro. Em DPOC e asma, o padrão dominante costuma ser desigualdade V/Q, não shunt anatômico total.
 
 ---
 
 ## Ponte com a Clínica
 
-A interpretação correta da gasometria arterial começa exatamente por diferenciar esses mecanismos. Um paciente com PaO₂ de 60 mmHg que não melhora com O₂ a 100% tem quase certamente um **shunt** — seja por cardiopatia congênita com shunt D→E, seja por SDRA grave com alvéolos inundados (V̇/Q̇ = 0). Um paciente com TEP maciço pode ter hipoxemia com PaO₂ que responde parcialmente ao O₂ (espaço morto modulável plus redistribuição de fluxo). Já no paciente com DPOC descompensado, a hipercapnia progressiva indica que a hipoventilação alveolar supera a capacidade de compensação — o gatilho para ventilação mecânica não invasiva (VNI).
+Em paciente com dispneia aguda, o raciocínio pode ser sequencial: primeiro, identificar se há insuficiência respiratória; depois, inferir o mecanismo da hipoxemia. Se a clínica e a imagem sugerem consolidação lobar, e a resposta ao O2 é pobre, o componente de shunt é dominante. Se há dor pleurítica súbita, taquicardia e fatores de risco tromboembólicos, pense em efeito de espaço morto por TEP, com aumento de ventilação ineficaz.
+
+Na UTI, esse entendimento orienta conduta: recrutamento alveolar e PEEP buscam reduzir shunt; anticoagulação e reperfusão atacam causa de espaço morto tromboembólico; ajuste ventilatório corrige hipoventilação e CO2. Fisiologia bem feita vira decisão terapêutica mais rápida e segura.
+
+---
+
+## Pontos-Chave para Prova
+
+- Troca gasosa depende de gradiente de pressão parcial e integridade da membrana alvéolo-capilar.
+- CO2 difunde mais facilmente que O2, então distúrbio inicial de difusão costuma aparecer como hipoxemia.
+- Curva Hb-O2 desloca à direita com acidose, hipercapnia, hipertermia e aumento de 2,3-DPG.
+- Relação V/Q varia regionalmente no pulmão e explica parte da diferença entre ápice e base.
+- Zonas de West são cobradas para interpretar distribuição de perfusão e ventilação.
+- Shunt e efeito espaço morto são extremos fisiopatológicos com implicações distintas na resposta ao O2.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
+A hematose normal depende de três pilares que a banca adora misturar: difusão alvéolo-capilar, transporte pela hemoglobina e acoplamento ventilação/perfusão. Se o enunciado trouxer alteração de membrana (fibrose, edema intersticial), espere queda de O2 antes de retenção de CO2, porque o CO2 é muito mais difusível.
 
+Na curva Hb-O2, grave a lógica dos deslocamentos: direita facilita entrega tecidual de oxigênio (acidose, hipercapnia, febre, 2,3-DPG alto), esquerda dificulta entrega (alcalose, hipotermia, Hb fetal, CO). Esse detalhe aparece em questão de gasometria e também em contexto de sepse, intoxicação e choque.
 
-Lei de Fick: difusão ∝ área × solubilidade × gradiente / espessura. CO₂ 20× mais solúvel: hipercapnia = hipoventilação; hipoxemia pode ser difusão ou V̇/Q̇. PaO₂ normal: ~95–100 mmHg (jovem); cai com idade (~100 − 0,3×idade).
-
-Desvio direito curva Hb: acidose, ↑T°, ↑CO₂, ↑2,3-DPG → libera O₂ nos tecidos (Bohr). V̇/Q̇ = 0 = shunt: único mecanismo que NÃO responde ao O₂ 100%. V̇/Q̇ = ∞ = espaço morto alveolar: TEP é o exemplo clássico.
-
-Gradiente A-a elevado: problema intrapulmonar (difusão, V̇/Q̇ ou shunt); A-a normal = causa extrapulmonar (hipoventilação, altitude). TB no ápice: alta V̇/Q̇ → alta PO₂ local → favorece crescimento de M. tuberculosis. CO: PaO₂ normal (dissolto ok), SpO₂ convencional falsa → co-oximetria para diagnóstico.
-
-SDRA: shunt (alvéolos inundados) + V̇/Q̇ desigual → hipoxemia grave refratária.
+Quando a pergunta migrar para V/Q, pense em extremos: shunt é perfusão sem ventilação (V/Q = 0) e espaço morto é ventilação sem perfusão (V/Q muito alto). O diferencial prático mais cobrado é a resposta ao O2: shunt importante tende a responder mal, enquanto desigualdade V/Q e espaço morto costumam ter alguma melhora com oxigenoterapia.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
-|------------|------------|-----------------|
-| Shunt (V̇/Q̇=0) | Espaço morto (V̇/Q̇=∞) | Shunt: perfusado sem ventilação (TEP, hipoxemia refratária); Espaço morto: ventilado sem perfusão |
-| Desvio direito | Desvio esquerdo curva Hb | Direito = libera O₂ (acidose, febre); Esquerdo = segura O₂ (alcalose, hipotermia, CO) |
-| Hipoxemia por V̇/Q̇ | Hipoxemia por shunt | V̇/Q̇: responde parcialmente ao O₂; Shunt: não responde ao O₂ 100% |
-| Gradiente A-a normal | Gradiente A-a elevado | A-a normal + hipoxemia = altitude ou hipoventilação; A-a↑ = problema alvéolo-capilar |
-| TEP (espaço morto) | Atelectasia (shunt) | TEP: V̇/Q̇↑ (ventilado + sem perfusão); Atelectasia: V̇/Q̇=0 (perfundido + sem ventilação) |
+|---|---|---|
+| Distúrbio de difusão | Hipoventilação alveolar | Difusão: problema de barreira e gradiente; hipoventilação: queda global da ventilação com retenção de CO2 |
+| Desvio à direita da curva Hb-O2 | Desvio à esquerda da curva Hb-O2 | Direita libera O2 ao tecido; esquerda prende O2 na Hb |
+| Shunt | Efeito espaço morto | Shunt: sangue sem contato com alvéolo ventilado; espaço morto: alvéolo sem fluxo sanguíneo eficaz |
+| V/Q desigual | Shunt maciço | V/Q desigual geralmente melhora com O2; shunt importante pode permanecer refratário |
+| Zona 1 apical | Zona 3 basal | Zona 1 com V/Q mais alto; zona 3 com V/Q mais baixo |
 
 ### Frase-âncora para não esquecer
-
-> "Shunt = sangue que não passa por alvéolo — nenhuma quantidade de oxigênio ajuda. Espaço morto = alvéolo que não é regado — ar desperdiçado sem troca."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "Se o sangue não encontra ar, é shunt; se o ar não encontra sangue, é espaço morto."

@@ -15,7 +15,7 @@
 
 **ABC** primeiro; **sangramento** com pressão, não garrote improvisado prolongado. **Exame neurovascular** antes e após qualquer manipulação. **Imagem** das articulações adjacentes quando indicado.
 
-### Fraturas abertas — Gustilo (ideia)
+### Fraturas abertas — Gustilo (visão de prova)
 
 | Grau | Característica | Mente |
 |------|----------------|-------|
@@ -93,11 +93,11 @@ Paciente com **fratura bimalleolar** e bolha de **fricção**: **não** dê alta
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Salter-Harris** — epifisiólise/fis (pediatria).
-- **Envergadura de compartimento** — medida de pressão se indicado.
-- **Fixação interna** — indicações por fratura instável.
+Na prova, lembre que Salter-Harris — epifisiólise/fis (pediatria). Envergadura de compartimento — medida de pressão se indicado.
+
+Para não errar em cenário clínico, considere também Fixação interna — indicações por fratura instável.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -110,14 +110,3 @@ Paciente com **fratura bimalleolar** e bolha de **fricção**: **não** dê alta
 ### Frase-âncora para não esquecer
 
 > “**Neurovascular** antes e depois — **sempre** documentado.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Relacione **fixação** (placa, haste intramedular, parafuso) com **biomecânica** e **carga precoce**. Politrauma: **ATLS** orienta prioridades.
-
-### Leitura de reforço
-
-- Trauma ortopédico ATLS / manual AO
-- Protocolos de antibiótico em fratura exposta

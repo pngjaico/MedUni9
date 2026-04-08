@@ -1,0 +1,232 @@
+[
+  {
+    "id": 842,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Em herança autossômica recessiva, portadores heterozigotos:",
+    "opcoes": [
+      "A) Costumam ser clinicamente assintomáticos na maioria das doenças.",
+      "B) Sempre têm fenótipo grave.",
+      "C) Transmitem sempre para 100% dos filhos afetados.",
+      "D) Só existem em ligadas ao X."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AR — dois alelos mutados para fenótipo; heterozigoto = portador.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Portador AR.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 843,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Herança autossômica dominante mostra:",
+    "opcoes": [
+      "A) Apenas consanguinidade.",
+      "B) Transmissão vertical em gerações; risco 50% com um progenitor afetado.",
+      "C) Só afeta mulheres.",
+      "D) Sempre polidactilia."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AD — fenótipo em heterozigoto; padrão vertical.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AD — 50%.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 844,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Consanguinidade aumenta risco de:",
+    "opcoes": [
+      "A) Apenas doenças ligadas ao Y.",
+      "B) Trissomias por não-disjunção materna apenas.",
+      "C) Doenças autossômicas recessivas por homozigose de variantes raras.",
+      "D) Infecção viral adquirida."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Parentesco — homozigose; AR.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Consanguinidade — AR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 845,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Um heredograma com apenas afetados do sexo masculino e transmissão por mãas portadoras sugere:",
+    "opcoes": [
+      "A) Herança mitocondrial.",
+      "B) Autossômica dominante pura.",
+      "C) Y-linked obrigatório.",
+      "D) Padrão compatível com recessividade ligada ao X."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "XR — homens afetados; mulheres portadoras.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: materna bilateral.",
+      "B": "Incorreta.",
+      "C": "Incorreta: pai a todos os filhos.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: XR — padrão.\nA) INCORRETA. Incorreta: materna bilateral.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: pai a todos os filhos.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 846,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Em AD com penetrância incompleta:",
+    "opcoes": [
+      "A) Todos os heterozigotos têm fenótipo idêntico.",
+      "B) O gene não existe.",
+      "C) Indivíduos com genótipo mutado podem não manifestar fenótipo.",
+      "D) Herança é sempre recessiva."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Penetrância — % com fenótipo; expressividade variável.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Penetrância.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 847,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Alelos múltiplos em um mesmo locus (ex.: grupo sanguíneo ABO) explicam:",
+    "opcoes": [
+      "A) Herança exclusivamente mitocondrial.",
+      "B) Apenas deleções cromossômicas.",
+      "C) Poliploidia.",
+      "D) Um gene com >2 alelos na população, embora cada indivíduo carregue no máximo dois."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "ABO — IA, IB, i.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Alelos múltiplos.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 848,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Ligação gênica (genes no mesmo cromossomo) pode ser inferida quando:",
+    "opcoes": [
+      "A) Frequências de gametas parentais > recombinantes em estudos familiares.",
+      "B) Fenótipos são sempre independentes na meiose.",
+      "C) Não há recombinação.",
+      "D) Genes estão em cromossomos diferentes."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Linkage — desvio de segregação independente; θ < 50%.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: recombinação ocorre.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Linkage.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: recombinação ocorre.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 849,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Em casal com dois filhos afetados por doença AR e pais não afetados, a probabilidade de próximo filho afetado é:",
+    "opcoes": [
+      "A) 100%.",
+      "B) 25% (probabilidade de homozigose se ambos forem heterozigotos).",
+      "C) 0%.",
+      "D) 75%."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "AR — risco recorrência 25% com pais heterozigotos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: AR — 1/4.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 850,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Herança ligada ao Y implica:",
+    "opcoes": [
+      "A) Transmissão apenas de mãe para filha.",
+      "B) Padrão mitocondrial.",
+      "C) Transmissão de pai para todos os filhos homens para genes no cromossomo Y.",
+      "D) Afetar apenas mulheres."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Holandric — cromossomo Y.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Y — pai-filho.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 851,
+    "materia": "bcm1",
+    "tema": "bcm1_a13",
+    "enunciado": "Herança mitocondrial caracteriza-se por:",
+    "opcoes": [
+      "A) Transmissão biparental.",
+      "B) Risco 50% com pai afetado.",
+      "C) Apenas doenças do cromossomo Y.",
+      "D) Transmissão materna do DNA mitocondrial à prole."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "mtDNA — mãe para todos os filhos; heteroplasmy.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: mtDNA — maternal.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 952,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Hormônio liberado na circulação com efeito em órgãos distantes configura comunicação:",
+    "opcoes": [
+      "A) Endócrina.",
+      "B) Parácrina.",
+      "C) Autócrina.",
+      "D) Apenas juxtácrina sem sangue."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Endócrina = sangue; parácrina = vizinhança; autócrina = auto.",
+    "explicacoes_opcoes": {
+      "A": "Correta: mensageiro sistêmico.",
+      "B": "Incorreta: local sem circulação obrigatória.",
+      "C": "Incorreta: autoestímulo.",
+      "D": "Incorreta: contato direto não define hormônio clássico."
+    },
+    "explicacao": "Resumo: Sangue — endócrino.\nA) CORRETA. Correta: mensageiro sistêmico.\nB) INCORRETA. Incorreta: local sem circulação obrigatória.\nC) INCORRETA. Incorreta: autoestímulo.\nD) INCORRETA. Incorreta: contato direto não define hormônio clássico."
+  },
+  {
+    "id": 953,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Receptores acoplados à proteína G do subtipo Gs aumentem, em geral:",
+    "opcoes": [
+      "A) IP₃ por PLC.",
+      "B) cAMP por ativação da adenilil ciclase.",
+      "C) Apenas canal de sódio.",
+      "D) DAG sem GPCR."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Gs → ↑AC → cAMP; Gi inibe; Gq → PLC.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: via Gq.",
+      "B": "Correta: cascata Gs.",
+      "C": "Incorreta: ionotrópico.",
+      "D": "Incorreta: DAG vem de PLC/Gq."
+    },
+    "explicacao": "Resumo: Gs — cAMP.\nA) INCORRETA. Incorreta: via Gq.\nB) CORRETA. Correta: cascata Gs.\nC) INCORRETA. Incorreta: ionotrópico.\nD) INCORRETA. Incorreta: DAG vem de PLC/Gq."
+  },
+  {
+    "id": 954,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "A toxina do cólera aumenta cAMP no enterócito principalmente porque:",
+    "opcoes": [
+      "A) Inativa Giα permanentemente.",
+      "B) ADP-ribosila Gsα mantendo-a ativa.",
+      "C) Bloqueia canal de sódio ENaC.",
+      "D) Inibe PKA diretamente."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Toxina cólera → Gsα ON → cAMP↑ → secreção.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: coqueluche age em Gi.",
+      "B": "Incorreta: texto errado para cólera.",
+      "C": "Correta: mecanismo do material.",
+      "D": "Incorreta: PKA é ativada por cAMP."
+    },
+    "explicacao": "Resumo: Gs ribosilado — diarreia.\nA) INCORRETA. Incorreta: coqueluche age em Gi.\nB) INCORRETA. Incorreta: texto errado para cólera.\nC) CORRETA. Correta: mecanismo do material.\nD) INCORRETA. Incorreta: PKA é ativada por cAMP."
+  },
+  {
+    "id": 955,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Hormônios esteróides (ex.: cortisol) exercem ação predominante:",
+    "opcoes": [
+      "A) Só em canais de membrana sem entrar na célula.",
+      "B) Via segundo mensageiro cAMP universal.",
+      "C) Exclusivamente no nucléolo sintetizando rRNA.",
+      "D) Por receptores intracelulares/nucleares modulando transcrição."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Esteróides lipossolúveis — receptor nuclear — transcrição.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: atravessam membrana.",
+      "B": "Incorreta: não usam cAMP como eixo principal.",
+      "C": "Incorreta: alvo não é síntese de rRNA direta.",
+      "D": "Correta: material."
+    },
+    "explicacao": "Resumo: Cortisol — receptor nuclear.\nA) INCORRETA. Incorreta: atravessam membrana.\nB) INCORRETA. Incorreta: não usam cAMP como eixo principal.\nC) INCORRETA. Incorreta: alvo não é síntese de rRNA direta.\nD) CORRETA. Correta: material."
+  },
+  {
+    "id": 956,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "RTKs ativados por fatores de crescimento, após ligar o ligante, tipicamente:",
+    "opcoes": [
+      "A) Abrem Cl⁻ sem multimerização.",
+      "B) Ligam DNA no núcleo sem dimerização.",
+      "C) Dimerizam, autofosforilam e recrutam vias como RAS→MAPK.",
+      "D) Funcionam só como GPCR."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "RTK: dimerização → autofosforilação → downstream.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ionotrópico.",
+      "B": "Correta: sequência clássica.",
+      "C": "Incorreta: não é receptor nuclear.",
+      "D": "Incorreta: classes distintas."
+    },
+    "explicacao": "Resumo: RTK — dimerização.\nA) INCORRETA. Incorreta: ionotrópico.\nB) CORRETA. Correta: sequência clássica.\nC) INCORRETA. Incorreta: não é receptor nuclear.\nD) INCORRETA. Incorreta: classes distintas."
+  },
+  {
+    "id": 957,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Óxido nítrico ativa preferencialmente:",
+    "opcoes": [
+      "A) Adenilil ciclase.",
+      "B) RNA pol II.",
+      "C) Canal de sódio voltagem.",
+      "D) Guanil ciclase solúvel elevando cGMP."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "NO → GC solúvel → cGMP; ANP usa GC de membrana.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: não é primário do NO.",
+      "B": "Incorreta: não direto.",
+      "C": "Incorreta: não é mecanismo clássico do NO.",
+      "D": "Correta: vasodilatação."
+    },
+    "explicacao": "Resumo: NO — cGMP.\nA) INCORRETA. Incorreta: não é primário do NO.\nB) INCORRETA. Incorreta: não direto.\nC) INCORRETA. Incorreta: não é mecanismo clássico do NO.\nD) CORRETA. Correta: vasodilatação."
+  },
+  {
+    "id": 958,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Paciente com diarreia aquosa após toxina que ADP-ribosila Gsα. O segundo mensageiro central no enterócito é:",
+    "opcoes": [
+      "A) cAMP.",
+      "B) cGMP apenas.",
+      "C) IP₃ isolado.",
+      "D) Ca²⁺ sem receptores."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Gs constitutivo → cAMP elevado.",
+    "explicacoes_opcoes": {
+      "A": "Correta: secreção de Cl⁻/água.",
+      "B": "Incorreta: eixo diferente.",
+      "C": "Incorreta: Gq não é o caso aqui.",
+      "D": "Incorreta: não descreve o mecanismo."
+    },
+    "explicacao": "Resumo: Cólera — cAMP.\nA) CORRETA. Correta: secreção de Cl⁻/água.\nB) INCORRETA. Incorreta: eixo diferente.\nC) INCORRETA. Incorreta: Gq não é o caso aqui.\nD) INCORRETA. Incorreta: não descreve o mecanismo."
+  },
+  {
+    "id": 959,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "nAChR na placa neuromuscular é:",
+    "opcoes": [
+      "A) GPCR.",
+      "B) Canal iônico ligante-dependente.",
+      "C) RTK.",
+      "D) Receptor nuclear."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Ionotrópico — resposta rápida.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Nicotínico — canal.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 960,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Mutações ativadoras em RAS mantêm RAS frequentemente ligada a:",
+    "opcoes": [
+      "A) GDP inativo.",
+      "B) Receptor de estrogênio.",
+      "C) GTP com sinalização constitutiva.",
+      "D) Topoisomerase II."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "RAS ativa com GTP; mutações reduzem hidrólise.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: GDP inativo.",
+      "B": "Correta: oncogene.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: RAS — GTP.\nA) INCORRETA. Incorreta: GDP inativo.\nB) CORRETA. Correta: oncogene.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 961,
+    "materia": "bcm1",
+    "tema": "bcm1_a4",
+    "enunciado": "Prostaglandina de célula endotelial agindo em músculo liso adjacente é:",
+    "opcoes": [
+      "A) Endócrina.",
+      "B) Autócrina.",
+      "C) Sinapse química clássica.",
+      "D) Parácrina."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Parácrina = local.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: sangue distante.",
+      "B": "Correta: vizinhança.",
+      "C": "Incorreta: mesma célula.",
+      "D": "Incorreta: não é neurônio-músculo sináptico."
+    },
+    "explicacao": "Resumo: Local — parácrino.\nA) INCORRETA. Incorreta: sangue distante.\nB) CORRETA. Correta: vizinhança.\nC) INCORRETA. Incorreta: mesma célula.\nD) INCORRETA. Incorreta: não é neurônio-músculo sináptico."
+  }
+]

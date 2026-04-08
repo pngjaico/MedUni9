@@ -6,7 +6,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Parto, puerpério e lactação encerram o ciclo reprodutivo iniciado com a fertilização. A fisiopatologia do início do trabalho de parto, o papel da ocitocina e das prostaglandinas, as alterações do puerpério e o controle endócrino da lactação são temas cobrados desde a morfofunção básica até a obstetrícia. A **Uninove** explora especialmente os mecanismos hormonais do parto e da lactação.
+Parto, puerpério e lactação encerram o ciclo reprodutivo iniciado com a fertilização. A fisiopatologia do início do trabalho de parto, o papel da ocitocina e das prostaglandinas, as alterações do puerpério e o controle endócrino da lactação são temas cobrados desde a morfofunção básica até a obstetrícia. A Uninove explora especialmente os mecanismos hormonais do parto e da lactação.
 
 ### Figura sugerida
 
@@ -140,22 +140,21 @@ No final da gestação, o equilíbrio hormonal muda:
 
 ## Ponte com a Clínica
 
-Na indução do parto com misoprostol (análogo de PGE1), o objetivo é promover o amadurecimento cervical (apagamento) e estimular contrações. Na tocólise (inibição da contração prematura), usam-se agonistas β2 (ritodrina, terbutalina) que relaxam o miométrio via **cAMP**. Na hipergalactia por tumor hipofisário produtor de prolactina (prolactinoma), a galactorreia (saída de leite fora da gestação) e amenorreia são sintomas cardinais — o excesso de prolactina suprime GnRH → hipogonadismo. O tratamento é com agonistas da **dopamina** (cabergolina, bromocriptina) que inibem a produção de prolactina pelo tumor.
+Na indução do parto com misoprostol (análogo de PGE1), o objetivo é promover o amadurecimento cervical (apagamento) e estimular contrações. Na tocólise (inibição da contração prematura), usam-se agonistas β2 (ritodrina, terbutalina) que relaxam o miométrio via cAMP. Na hipergalactia por tumor hipofisário produtor de prolactina (prolactinoma), a galactorreia (saída de leite fora da gestação) e amenorreia são sintomas cardinais — o excesso de prolactina suprime GnRH → hipogonadismo. O tratamento é com agonistas da dopamina (cabergolina, bromocriptina) que inibem a produção de prolactina pelo tumor.
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-Início do parto: ↓progesterona + ↑receptores ocitocina + ↑PGE2/PGF2α + ↑CRH placentário. Ocitocina: neurohipófise, contrai miométrio, reflexo de Ferguson (feedback positivo). Puerpério: 6-8 semanas; involução uterina; lóquios.
-
-Prolactina: produção do leite (inibida por estrogênio na gravidez). Ocitocina: ejeção do leite (via células mioepiteliais). Amenorreia lactacional: prolactina alta suprime GnRH (< 6 meses, amamentação exclusiva).
-
-HPL: antagoniza insulina → resistência insulínica na gravidez (diabetogênico).
+- **Início do parto:** ↓progesterona + ↑receptores ocitocina + ↑PGE2/PGF2α + ↑CRH placentário
+- **Ocitocina:** neurohipófise, contrai miométrio, reflexo de Ferguson (feedback positivo)
+- **Puerpério:** 6-8 semanas; involução uterina; lóquios
+- **Prolactina:** produção do leite (inibida por estrogênio na gravidez)
+- **Ocitocina:** ejeção do leite (via células mioepiteliais)
+- **Amenorreia lactacional:** prolactina alta suprime GnRH (< 6 meses, amamentação exclusiva)
+- **hPL:** antagoniza insulina → resistência insulínica na gravidez (diabetogênico)
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -167,5 +166,4 @@ HPL: antagoniza insulina → resistência insulínica na gravidez (diabetogênic
 | Progesterona na gravidez | Progesterona pós-parto | Na gravidez: alta → inibe prolactina; Pós-parto: cai → prolactina age → lactação |
 
 ### Frase-âncora para não esquecer
-
 > "No parto, a ocitocina é o acelerador: o reflexo de Ferguson garante que quanto mais o bebê empurra, mais ocitocina sai e mais o útero contrai — até o bebê nascer. Depois, a ocitocina vira o garçom: quando o bebê chupa, ela ejecta o leite que a prolactina preparou."

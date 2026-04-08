@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "description": "Termos por id para to_instrumentais.json (34 itens, catálogo PDF págs. 2–11). Usado por map_to_instrumentais_images.py.",
+  "entries": {
+    "cabo_bisturi_no3": {
+      "terms": ["cabo de bisturi n", "numero 3", "número 3", "n 3", "nº 3"],
+      "must_not": ["numero 4", "número 4", "n 4"]
+    },
+    "cabo_bisturi_no4": {
+      "terms": ["cabo de bisturi n", "numero 4", "número 4", "n 4", "nº 4"],
+      "must_not": ["numero 3", "número 3"]
+    },
+    "tesoura_mayo_curva": {
+      "terms": ["mayo curva", "tesoura de mayo"],
+      "must_not": ["metzenbaum"],
+      "extra_boost": ["curva"]
+    },
+    "tesoura_mayo_reta": {
+      "terms": ["mayo reta", "tesoura de mayo"],
+      "must_not": ["metzenbaum", "curva"],
+      "extra_boost": ["reta"]
+    },
+    "tesoura_metzenbaum_curva": {
+      "terms": ["metzenbaum", "tesoura de metzenbaum"],
+      "extra_boost": ["curva"]
+    },
+    "tesoura_metzenbaum_reta": {
+      "terms": ["metzenbaum", "tesoura de metzenbaum"],
+      "must_not": ["curva"],
+      "extra_boost": ["reta"]
+    },
+    "pinca_kelly_curva": {
+      "terms": ["kelly curva", "pinça de kelly", "pinca de kelly"],
+      "must_not": ["crille", "kocher"]
+    },
+    "pinca_kelly_reta": {
+      "terms": ["kelly reta", "pinça de kelly", "pinca de kelly"],
+      "must_not": ["crille", "kocher", "curva"]
+    },
+    "pinca_crille_curva": {
+      "terms": ["crille curva", "pinça de crille", "pinca de crille", "crille"],
+      "must_not": ["kocher"]
+    },
+    "pinca_crille_reta": {
+      "terms": ["crille reta", "pinça de crille", "pinca de crille"],
+      "must_not": ["kocher", "curva"]
+    },
+    "pinca_halsted_curva": {
+      "terms": ["halsted curva", "mosquito", "pinça de halsted", "pinca de halsted"],
+      "extra_boost": ["curva"]
+    },
+    "pinca_halsted_reta": {
+      "terms": ["halsted reta", "mosquito", "pinça de halsted"],
+      "must_not": ["curva"],
+      "extra_boost": ["reta"]
+    },
+    "pinca_rochester_curva": {
+      "terms": ["rochester curva", "pinça de rochester", "pinca de rochester", "pean"],
+      "extra_boost": ["curva"]
+    },
+    "pinca_rochester_reta": {
+      "terms": ["rochester reta", "pinça de rochester", "pinca de rochester"],
+      "must_not": ["curva"],
+      "extra_boost": ["reta"]
+    },
+    "pinca_kocher_curva": {
+      "terms": ["kocher curva", "pinça de kocher", "pinca de kocher"],
+      "extra_boost": ["curva"]
+    },
+    "pinca_kocher_reta": {
+      "terms": ["kocher reta", "pinça de kocher", "pinca de kocher"],
+      "must_not": ["curva"],
+      "extra_boost": ["reta"]
+    },
+    "pinca_anatomica": {
+      "terms": ["pinça anatômica", "pinça anatomica", "anatômica"],
+      "must_not": ["adson com", "dente"]
+    },
+    "pinca_dente_de_rato": {
+      "terms": ["dente de rato", "pinca dente", "pinça dente"],
+      "must_not": []
+    },
+    "pinca_adson_com_dente": {
+      "terms": ["adson", "com dente"],
+      "must_not": [],
+      "extra_boost": ["dente"]
+    },
+    "pinca_adson_sem_dente": {
+      "terms": ["adson", "sem dente"],
+      "must_not": []
+    },
+    "porta_agulhas_hegar": {
+      "terms": ["hegar", "porta agulha de hegar", "porta-agulhas hegar", "de hegar"],
+      "must_not": ["mathieu"]
+    },
+    "porta_agulhas_mathieu": {
+      "terms": ["mathieu", "porta agulha de mathieu", "porta-agulhas mathieu"],
+      "must_not": ["hegar"]
+    },
+    "cuba_rim": {
+      "terms": ["cuba rim", "cuba-rim", "cuba"],
+      "must_not": []
+    },
+    "grampo_backhaus": {
+      "terms": ["backaus", "backhaus", "backa", "grampo", "pinça backaus"],
+      "must_not": []
+    },
+    "pinca_cheron": {
+      "terms": ["cheron", "chéron", "pinça cheron", "pinca cheron"],
+      "must_not": []
+    },
+    "pinca_mixter": {
+      "terms": ["mixter", "pinça de mixter", "pinca de mixter"],
+      "must_not": []
+    },
+    "pinca_foerster_curva": {
+      "terms": ["foerster", "pinça de foerster", "pinca de foerster"],
+      "extra_boost": ["curva"]
+    },
+    "pinca_foerster_reta": {
+      "terms": ["foerster", "pinça de foerster"],
+      "must_not": ["curva"],
+      "extra_boost": ["reta"]
+    },
+    "pinca_allis": {
+      "terms": ["allis", "pinça de allis", "pinca de allis"],
+      "must_not": []
+    },
+    "pinca_coprostase": {
+      "terms": ["coprostase", "pinça de coprostase", "pinca de coprostase"],
+      "must_not": []
+    },
+    "afastador_finochietto": {
+      "terms": ["finochietto", "afastador de finochietto", "finoquet"],
+      "must_not": []
+    },
+    "afastador_farabeuf": {
+      "terms": ["farabeuf", "afastador de farabeuf"],
+      "must_not": []
+    },
+    "afastador_gosset": {
+      "terms": ["gosset", "afastador de gosset", "richardson"],
+      "must_not": []
+    },
+    "afastador_doyen": {
+      "terms": ["doyen", "afastador de doyen", "deaver"],
+      "must_not": []
+    }
+  }
+}

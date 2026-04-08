@@ -12,6 +12,17 @@ As **hepatites virais** A a E não são “um único tema”: são **cinco agent
 
 ---
 
+
+### Figura sugerida
+
+**Figura-ID:** `CM6-A2-F01`
+
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
+- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+
 ## Visão panorâmica: cinco vírus
 
 | Agente | Via principal | Cronificação | Vacina |
@@ -153,14 +164,13 @@ Um laudo “positivo para hepatite” sem especificar **vírus** e **marcador** 
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Transmissão** por vírus (fecal-oral × parenteral/sexual).  
-- **HBV:** painel sorológico e **DNA**.  
-- **HCV:** anti-HCV + **RNA**.  
-- **Vacinas:** HAV e HBV; sem vacina universal para HCV.  
-- **HDV** depende de **HBsAg**.  
-- **HEV** e **gravidez** (maior gravidade possível).
+Transmissão por vírus (fecal-oral × parenteral/sexual). HBV: painel sorológico e DNA.
+
+HCV: anti-HCV + RNA. Vacinas: HAV e HBV; sem vacina universal para HCV.
+
+HDV depende de HBsAg. HEV e gravidez (maior gravidade possível).
 
 ### Diferenciações que a Uninove adora cobrar
 

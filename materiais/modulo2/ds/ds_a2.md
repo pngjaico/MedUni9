@@ -1,64 +1,145 @@
-﻿# DS — Aula 2: Sustentabilidade, ODS e Saúde nas Cidades
+# DS — Aula 2: Sustentabilidade, ODS e Saúde nas Cidades
 
-**Disciplina:** Desafios Socioambientais e Saúde
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Desafios Socioambientais e Saúde  
+**Módulo:** 2  
+**Tempo de estudo sugerido:** 25-35 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-A **Uninove** cobra essa aula porque saúde urbana não depende só de hospital. Mobilidade, saneamento, habitação, áreas verdes, gestão de resíduos e segurança alimentar impactam diretamente o perfil epidemiológico das cidades. Os Objetivos de Desenvolvimento Sustentável (ODS) entram como linguagem de planejamento intersetorial para transformar essas condições.
+A saúde urbana é determinada por decisões de planejamento feitas fora do hospital: saneamento, desenho viário, habitação, áreas verdes, drenagem, gestão de resíduos e acesso a serviços.
 
-Para a prática médica, isso significa compreender que prevenção real exige políticas urbanas sustentáveis. O consultório recebe o efeito final de decisões tomadas muito antes do sintoma.
+Na prática da prova e da clínica, isso significa que o adoecimento coletivo não é aleatório. Ele segue o padrão de exposição ambiental e social da cidade.
 
+Quando a cidade falha em infraestrutura básica, aumentam doenças infecciosas, crises respiratórias, agravos cardiovasculares, violência, sofrimento psíquico e perda de anos de vida saudáveis.
 
-
+Por isso, os ODS entram como linguagem de governança para integrar saúde, urbanismo, meio ambiente, assistência social, educação e transporte.
 
 ### Figura sugerida
 
 **Figura-ID:** `DS-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** após a contextualização da relevância clínica.
+- **O que mostrar:** mapa esquemático de cidade com camadas de risco (calor, enchente, poluição, saneamento precário) e desfechos em saúde.
+- **Tipo sugerido:** esquema didático.
+- **Legenda (rascunho):** "Determinantes urbanos moldam o risco de adoecimento por território."
 
-## ODS e Saúde: Conexões que Caem em Prova
+## ODS Prioritários para Saúde Urbana
 
-Os **ODS** não são lista decorativa. Eles conectam pobreza, educação, água e saneamento, energia, trabalho, cidades sustentáveis e ação climática com desfechos em saúde. Em cidade mal planejada, aumentam doenças infecciosas, agravos crônicos, transtornos mentais e violência.
+O **ODS 3** (saúde e bem-estar) é o eixo sanitário explícito, mas depende de outros objetivos para produzir efeito real no território.
 
-> **Dica de Prova:** o ODS 3 (saúde e bem-estar) depende de metas de outros ODS; saúde não se resolve isoladamente.
+O **ODS 6** (água potável e saneamento) reduz diarreias, hepatites de transmissão fecal-oral, leptospirose e surtos associados a enchentes.
 
-> **Pegadinha:** reduzir sustentabilidade a pauta ambiental sem considerar dimensão social, econômica e sanitária.
+O **ODS 11** (cidades e comunidades sustentáveis) organiza mobilidade, habitação, segurança viária, resiliência e acesso equitativo a serviços.
 
-## Cidade Saudável é Política Pública Integrada
+O **ODS 13** (ação contra a mudança do clima) orienta mitigação de emissões e adaptação a ondas de calor, eventos extremos e alteração de vetores.
 
-Saúde nas cidades melhora quando há planejamento territorial, transporte adequado, saneamento universal, mitigação de ilhas de calor e redução de desigualdade. Em prova, o raciocínio esperado é intersetorial: saúde, urbanismo, educação e assistência social atuando juntos.
+Em análise de prova, o erro comum é tratar cada ODS como silo. O raciocínio correto é de rede causal compartilhada.
 
-O estudante precisa reconhecer que sustentabilidade em saúde é estratégia de prevenção de longo prazo, não apenas resposta a desastres.
+> **Dica de Prova:** se a questão pedir "melhor estratégia", prefira a intervenção que melhora mais de um ODS ao mesmo tempo.
 
+> **Pegadinha:** marcar alternativa que propõe ação pontual em saúde sem enfrentar exposição urbana de base.
 
+## Determinantes Urbanos de Saúde
 
+Determinantes urbanos são condições materiais e sociais que distribuem risco e proteção entre bairros e grupos populacionais.
+
+Incluem renda, densidade domiciliar, acesso à água, esgoto, manejo de resíduos, conectividade do transporte público, oferta de alimentação adequada, segurança e cobertura de APS.
+
+A desigualdade territorial faz duas cidades coexistirem na mesma metrópole: uma com proteção e outra com vulnerabilidade acumulada.
+
+O impacto clínico aparece como multimorbidade precoce, pior controle de doenças crônicas, maior incidência de agravos evitáveis e mortalidade desproporcional.
+
+## Mobilidade Urbana e Saúde
+
+Mobilidade é tema de saúde porque define exposição a acidentes, poluentes e sedentarismo, além de determinar acesso real a cuidado e trabalho.
+
+Cidades com transporte público confiável e infraestrutura ativa (calçada contínua, ciclovia protegida, travessia segura) tendem a reduzir trauma de trânsito e estimular atividade física cotidiana.
+
+Já o deslocamento longo e inseguro aumenta estresse tóxico, piora adesão terapêutica e reduz tempo de autocuidado.
+
+Políticas urbanas eficazes combinam acalmamento de tráfego, fiscalização de velocidade, integração modal e desenho viário centrado em segurança humana.
+
+## Habitação, Saneamento e Risco Sanitário
+
+Habitação inadequada amplia exposição a umidade, mofo, vetores, violência e sobrecarga térmica.
+
+Saneamento insuficiente perpetua ciclo de doença infecciosa e eleva custo assistencial com eventos evitáveis.
+
+Em regiões periféricas, ausência de drenagem e ocupação em área de risco ampliam impacto de chuvas extremas com perdas materiais, deslocamento e surtos.
+
+A resposta sustentável envolve urbanização de assentamentos, regularização fundiária com infraestrutura, vigilância territorial e financiamento contínuo.
+
+## Ilhas de Calor, Clima e Eventos Extremos
+
+Ilhas de calor urbanas elevam temperatura local por excesso de concreto/asfalto, baixa arborização e alta emissão térmica.
+
+Os mais afetados são idosos, crianças, trabalhadores ao ar livre, gestantes e pessoas com doença cardiovascular, respiratória, renal ou transtorno mental grave.
+
+A adaptação inclui arborização com equidade territorial, telhados frios, sombreamento de corredores de pedestres, pontos de hidratação e protocolo de alerta para ondas de calor.
+
+Eventos extremos (chuva intensa, enchente, deslizamento) exigem plano integrado entre defesa civil, atenção primária, vigilância epidemiológica e comunicação de risco.
+
+### Figura sugerida
+
+**Figura-ID:** `DS-A2-F02`
+
+- **Momento:** após o bloco de clima urbano e ilhas de calor.
+- **O que mostrar:** comparação visual entre bairro com baixa arborização e bairro com infraestrutura verde, destacando diferença térmica e impacto em saúde.
+- **Tipo sugerido:** infográfico comparativo.
+- **Legenda (rascunho):** "Infraestrutura verde reduz calor urbano e risco de agravos em grupos vulneráveis."
+
+## Vigilância em Saúde Urbana e Indicadores de Monitoramento
+
+Sem indicador, não há gestão. Vigilância urbana precisa integrar dados ambientais, sociodemográficos e de serviço para decisão rápida e auditável.
+
+Um painel municipal mínimo deve acompanhar exposição, processo e desfecho, com recorte por território e vulnerabilidade.
+
+| Eixo | Indicador prático | Como interpretar para decisão |
+|------|-------------------|-------------------------------|
+| Saneamento | % de domicílios com coleta e tratamento de esgoto | Cobertura baixa indica prioridade de investimento estrutural |
+| Água | % de amostras de água dentro do padrão | Queda sinaliza risco de surto e necessidade de ação imediata |
+| Mobilidade | Taxa de óbitos no trânsito por 100 mil hab. | Alta taxa pede intervenção viária e fiscalização |
+| Clima urbano | Nº de dias/ano com temperatura crítica por bairro | Orienta plano de calor e alocação de pontos de resfriamento |
+| Doença respiratória | Internações por asma/DPOC em períodos de poluição | Ajuda a ajustar alerta ambiental e manejo preventivo |
+| Vetores | Índice de infestação predial e incidência de arboviroses | Direciona bloqueio territorial e comunicação de risco |
+| APS e acesso | Tempo médio de deslocamento até UBS | Tempo alto indica barreira de acesso e risco de cuidado tardio |
+| Equidade | Diferença de mortalidade prematura entre bairros | Mede injustiça sanitária e efetividade de políticas redistributivas |
+
+Tabela forte para prova: banca costuma trocar indicador de processo por desfecho final. Leia sempre o verbo do enunciado (cobrir, reduzir, prevenir, monitorar).
+
+## Exemplos de Políticas Urbanas com Impacto em Saúde
+
+1. **Zona 30 e desenho seguro de vias locais:** reduz gravidade de trauma e mortalidade no trânsito.
+2. **Corredor de ônibus com integração tarifária:** melhora acesso a cuidado e reduz exposição a poluentes por frota otimizada.
+3. **Programa de urbanização de assentamentos precários:** combina saneamento, drenagem e habitação saudável.
+4. **Plano municipal de arborização em áreas quentes:** mitiga ilha de calor e reduz risco em ondas térmicas.
+5. **Sistema de alerta climático com protocolo da APS:** antecipa cuidado de grupos vulneráveis.
+6. **Compras públicas de alimentação saudável para escolas e equipamentos sociais:** melhora segurança alimentar urbana.
+
+Critério de qualidade de política: ter meta, indicador, prazo, orçamento, governança e avaliação periódica.
 
 ## Ponte com a Clínica
 
-**Tema:** Sustentabilidade, ODS e Saúde nas Cidades
+No ambulatório, você enxerga o desfecho biológico de uma cadeia urbana: paciente que falta consulta por transporte ruim, exacerba asma em dia de poluição, descompensa hipertensão durante onda de calor e vive em área com drenagem insuficiente.
 
-**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
+Em prova, a melhor conduta populacional quase sempre combina cuidado individual com ação territorial: notificação, vigilância, educação em saúde e articulação intersetorial.
 
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Para prática profissional, pense em três perguntas: onde esse paciente mora, como ele se desloca e a que risco ambiental está exposto.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **ODS:** estrutura global para desenvolvimento com impacto em saúde.
-- **ODS 3:** depende de integração com outros objetivos.
-- **Cidade sustentável:** reduz exposição a riscos e iniquidades.
-- **Saneamento e habitação:** determinantes centrais de saúde urbana.
-- **Intersetorialidade:** condição para política pública efetiva.
-- **Prevenção estrutural:** mais custo-efetiva no longo prazo.
+- ODS em saúde urbana funcionam de forma integrada, não isolada.
+- ODS 3 depende de saneamento, cidade sustentável e adaptação climática.
+- Determinantes urbanos distribuem risco por território e classe social.
+- Mobilidade é política de prevenção de trauma, doença crônica e barreira de acesso.
+- Habitação e saneamento inadequados amplificam agravos evitáveis.
+- Ilhas de calor aumentam mortalidade e descompensação em grupos vulneráveis.
+- Vigilância efetiva exige indicadores de exposição, processo e desfecho.
+- Política urbana boa tem meta mensurável, financiamento e monitoramento contínuo.
 
 ---
 
@@ -68,49 +149,26 @@ O estudante precisa reconhecer que sustentabilidade em saúde é estratégia de 
 
 ### Síntese para a prova
 
+Na lógica da banca, saúde urbana é resultado de política pública territorial. ODS não aparecem como lista decorativa, mas como estrutura para ligar infraestrutura, clima e equidade aos desfechos clínicos.
 
-ODS: guiam políticas com repercussão sanitária. Saúde urbana: depende de infraestrutura e equidade. Saneamento: reduz doenças infecciosas e vulnerabilidade.
+Se a questão comparar alternativas, priorize a que reduz exposição de base (saneamento, mobilidade segura, habitação adequada, mitigação de calor) e não apenas a que aumenta atendimento após o dano.
 
-Mobilidade segura: também é política de saúde. Ilha de calor: agrava risco em populações urbanas frágeis. Intersetorialidade: não há solução apenas no setor saúde.
+Indicadores são parte da resposta correta: cobertura de esgoto, mortalidade no trânsito, dias de calor crítico, internação por doença respiratória e desigualdade de mortalidade entre bairros mostram se a política funciona.
 
-Planejamento territorial: influencia adoecimento coletivo. Sustentabilidade: prevenção contínua, não ação pontual.
+A diferença entre resposta mediana e resposta forte está em mencionar intersetorialidade com métrica prática, recorte territorial e proteção de grupos vulneráveis.
+
+Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
 
 ### Diferenciações que a Uninove adora cobrar
 
 | Conceito A | Conceito B | Como diferenciar |
 |------------|------------|-----------------|
-| ODS 3 isolado | ODS integrados | Saúde melhora quando metas sociais e ambientais caminham juntas |
-| Crescimento urbano | Urbanização saudável | Crescer não garante saneamento, mobilidade e proteção social |
-| Intervenção assistencial | Intervenção estrutural | Assistencial trata efeito; estrutural reduz causa coletiva |
-| Sustentabilidade ambiental | Sustentabilidade socioambiental | A socioambiental inclui justiça social e desfecho em saúde |
+| ODS 3 isolado | ODS 3 + ODS 6/11/13 integrados | Integração atua na causa urbana; isolamento atua tardiamente no efeito |
+| Ação assistencial após evento | Prevenção estrutural territorial | Assistencial responde ao dano; estrutural reduz incidência futura |
+| Mobilidade como transporte | Mobilidade como determinante de saúde | Na segunda visão, conta trauma, poluição, atividade física e acesso ao cuidado |
+| Indicador de processo | Indicador de desfecho | Processo mede implementação; desfecho mede impacto real em saúde |
+| Cidade sustentável estética | Cidade saudável e equitativa | Sustentabilidade válida exige redução de risco e desigualdade sanitária |
 
 ### Frase-âncora para não esquecer
 
-> "Cidade sustentável não é mais bonita; é menos doente."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Sustentabilidade, ODS e Saúde nas Cidades** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
-| Pegadinha / contraste | Política pública ou ODS relacionado. |
-| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
-- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
-- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.
+> "Sem urbanismo saudável, o hospital só administra o prejuízo da cidade."

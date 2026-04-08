@@ -7,13 +7,18 @@
 
 ## Relevância Clínica e Acadêmica
 
-Músculo esquelético, cardíaco e liso compartilham proteínas contráteis (actina, miosina), mas diferem em estriações, organização nuclear, junções celulares e controle nervoso. Em lâmina, reconhecer **sarcômero**, discos Z, bandas A e I e sistema de túbulos T é pré-requisito para entender miopatias, isquemia e cardiopatias na graduação. Em prova, a banca cobra correlação entre imagem histológica e função (condutor versus isolante, sincício versus células individuais).
+O movimento humano nasce na microestrutura. Para a prova, domine a anatomia do **Sarcômero** (unidade funcional) e a tríade muscular: **Esquelético** (voluntário), **Cardíaco** (sincício elétrico) e **Liso** (visceral). Na clínica, entenda que falhas no acoplamento entre o **Retículo Sarcoplasmático** (estoque de Ca²⁺) e os **Túbulos T** (propagação) explicam desde cãibras até arritmias graves.
 
 ---
 
 ## Músculo esquelético: sarcômero e retículo
 
-Cada fibra é um sincício multinucleado. **Miofibrilas** contêm filamentos de actina (fina) e miosina (grossa) organizados em **sarcômeros** delimitados por **discos Z**. A banda **A** contém miosina e sobreposição com actina; a banda **I** só actina; a linha **H** no centro da banda A marca região só de miosina. O **retículo sarcoplasmático** armazena Ca²⁺; os **túbulos T** propagam o potencial de membrana para o interior da fibra — acoplamento excitação-contração.
+O **Sarcômero** é o espaço entre dois **Discos Z**.
+- **Banda A:** Ocupa todo o comprimento da **Miosina** (filamento grosso). Não muda de tamanho na contração.
+- **Banda I:** Contém apenas **Actina** (filamento fino). Encurta na contração.
+- **Banda H:** Zona central só de miosina. "Desaparece" na contração máxima.
+- **Túbulos T:** Invaginações da membrana que levam o comando elétrico para o fundo da fibra.
+- **Reticulo Sarcoplasmático (RS):** Reservatório de **Cálcio**. Libera Ca²⁺ após o sinal dos Túbulos T.
 
 ### Figura sugerida
 
@@ -28,13 +33,13 @@ Cada fibra é um sincício multinucleado. **Miofibrilas** contêm filamentos de 
 
 ## Músculo cardíaco: particularidades
 
-Cardiomiócitos são mononucleados ou binucleados, ramificados, unidos por **disco intercalado** (desmossomas para força mecânica e junções comunicantes para propagação elétrica). Não há fusão em sincício longo como no esquelético; a coordenação vem do sistema de condução intrínseco. Regiões isquêmicas alteram contratilidade antes de alterar eletrocardiograma em alguns cenários — o mapa histológico explica “por que” a parede falha.
+Diferente do esquelético, o músculo cardíaco é formado por células ramificadas unidas pelos **Discos Intercalados**. Esses discos possuem **Junções Comunicantes** (Gap Junctions) que permitem ao coração bater como um todo coordenado (**Sincício Funcional**). Isquemias (Infarto) destroem esses discos, bloqueando a condução elétrica.
 
 ---
 
 ## Músculo liso: órgãos ocos e vasos
 
-Células fusiformes, núcleo central, sem estriações visíveis ao microscópio óptico clássico; filamentos e corpos densos organizam contração lenta e sustentada. Inervação autonômica e fatores locais (stretch, hormônios) modulam tônus. Digestório, respiratório, vascular e urogenital dependem desse tecido — em BMF1 o foco é comparar com esquelético para prova.
+Encontrado em vasos sanguíneos e no trato digestório. Suas células são **Fusiformes**, mononucleadas e **Sem Estriações**. A contração é lenta, involuntária e altamente resistente à fadiga, ideal para manter o tônus vascular.
 
 ---
 
@@ -72,42 +77,18 @@ Rabdomiólise destrói fibra esquelética e libera mioglobina — contexto de es
 
 ## Pontos-Chave para Prova
 
-- Disco Z como limite do sarcômero.  
-- Banda A versus I — o que contém em filamentos.  
-- Papel do RS e túbulos T no Ca²⁺.  
-- Disco intercalado — onde e por quê.  
-- Diferença esquelético versus liso em núcleo e estriação.
+- **Discos Z:** São as âncoras da actina; aproximam-se na contração.
+- **Junção Neuromuscular:** Local onde o nervo libera **Acetilcolina** para disparar o músculo.
+- **Músculo Liso:** Não possui sarcômeros organizados; usa **Corpos Densos** para ancorar os filamentos.
+- **Tríade:** Conjunto de um Túbulo T + duas cisternas de Retículo Sarcoplasmático.
 
----
-
-## Pré-Prova
-
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
-### Síntese para a prova
-
-
-Definição operacional de sarcômero. Filamento grosso = miosina; fino = actina (+ proteínas associadas).
-
-Por que o cardíaco ramifica e o esquelético não (conceito). Liso: ausência de estriações e função em órgãos ocos.
-
-Unidade estrutural mínima de repetição no esquelético estriado.
-
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Banda A | Banda I | Sobreposição miosina-actina vs só actina |
-| Retículo sarcoplasmático | Túbulos T | Estoque de Ca²⁺ vs propagação do potencial |
-| Músculo esquelético | Cardíaco | Núcleo periférico vs ramificação e disco intercalado |
-| Esquelético | Liso | Estriações visíveis vs fusiforme sem estriação clássica |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Esquelético** | **Cardíaco** | Núcleo Periférico vs Núcleo Central/Disco |
+| **Banda A** | **Banda I** | Estática (Miosina) vs **Encurta** (Actina) |
+| **Linha M** | **Banda H** | Centro do sarcômero vs Zona só de Miosina |
+| **Sincício** | **Disco Intercalado**| Fusão celular vs Conexão por Junções |
 
 ### Frase-âncora para não esquecer
 
 > “Sarcômero é a unidade que repete — se você enxerga a banda, já sabe onde está a força.”
-
----
-
-## Referências de estudo
-
-Junqueira e Carneiro (histologia); Alberts (biologia celular) para visão molecular das proteínas contráteis; correlacionar com figuras de atlas para fixar padrão visual em prova.

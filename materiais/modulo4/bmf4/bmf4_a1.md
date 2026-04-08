@@ -7,7 +7,7 @@
 
 ## Relevância Clínica e Acadêmica
 
-Entender as divisões do sistema nervoso é a base de toda a neurologia clínica. Quando um médico diz "lesão de NMS" ou "disfunção do **SNA** simpático", está usando essa classificação. A **Uninove** cobra a distinção entre as divisões em questões de localização de lesão e fisiologia autonômica.
+Entender as divisões do sistema nervoso é a base de toda a neurologia clínica. Quando um médico diz "lesão de NMS" ou "disfunção do SNA simpático", está usando essa classificação. A Uninove cobra a distinção entre as divisões em questões de localização de lesão e fisiologia autonômica.
 
 ### Figura sugerida
 
@@ -108,22 +108,20 @@ Esta inversão (cinzenta fora no encéfalo, cinzenta dentro na medula) é cláss
 
 ## Ponte com a Clínica
 
-Entender o SNA é essencial para farmacologia: betabloqueadores (bloqueiam receptor β-adrenérgico = simpático), atropina (bloqueia M muscarínico = parassimpático), neostigmina (inibe acetilcolinesterase = potencializa parassimpático). A divisão anatômica explica por que lesões do **SNC** causam espasticidade (perde controle inibitório do NMS) enquanto lesões do **SNP** causam flacidez (perde o próprio NMI).
+Entender o SNA é essencial para farmacologia: betabloqueadores (bloqueiam receptor β-adrenérgico = simpático), atropina (bloqueia M muscarínico = parassimpático), neostigmina (inibe acetilcolinesterase = potencializa parassimpático). A divisão anatômica explica por que lesões do SNC causam espasticidade (perde controle inibitório do NMS) enquanto lesões do SNP causam flacidez (perde o próprio NMI).
 
 ---
 
 ## Pré-Prova
-
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-
-
-SNC vs. SNP: SNC = encéfalo + medula; SNP = nervos e gânglios. Cinzenta fora/branca dentro no encéfalo; cinzenta dentro/branca fora na medula.
-
-Tronco encefálico = mesencéfalo + ponte + bulbo (cerebelo é rombencéfalo mas não tronco). Simpático: toracolumbar, noradrenalina pós-ganglionar, α e β receptores.
-
-Parassimpático: crânio-sacral, ACh pós-ganglionar, receptor muscarínico. Todo pré-ganglionar = ACh + nicotínico, independente da divisão.
+- **SNC vs. SNP:** SNC = encéfalo + medula; SNP = nervos e gânglios.
+- **Cinzenta fora/branca dentro no encéfalo; cinzenta dentro/branca fora na medula.**
+- **Tronco encefálico = mesencéfalo + ponte + bulbo** (cerebelo é rombencéfalo mas não tronco).
+- **Simpático:** toracolumbar, noradrenalina pós-ganglionar, α e β receptores.
+- **Parassimpático:** crânio-sacral, ACh pós-ganglionar, receptor muscarínico.
+- **Todo pré-ganglionar = ACh + nicotínico**, independente da divisão.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -135,5 +133,4 @@ Parassimpático: crânio-sacral, ACh pós-ganglionar, receptor muscarínico. Tod
 | SNC | SNP | SNC = dentro do crânio/coluna; SNP = fora |
 
 ### Frase-âncora para não esquecer
-
 > "O cérebro inverteu a ordem: cinzenta por fora, branca por dentro. A medula faz o contrário."

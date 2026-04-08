@@ -1,0 +1,232 @@
+[
+  {
+    "id": 932,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Em relação às doenças complexas, a herança multifatorial/poligênica difere da mendeliana porque:",
+    "opcoes": [
+      "A) Múltiplos loci de efeito pequeno e fatores ambientais contribuem para o risco individual.",
+      "B) Um único gene determina 100% do fenótipo em todos os casos.",
+      "C) O padrão no heredograma é sempre horizontal apenas.",
+      "D) O risco recorrente é idêntico entre primeiro e terceiro graus."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Doenças comuns — poligenia + ambiente; GWAS, PRS.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: descreve traço monogênico.",
+      "C": "Incorreta.",
+      "D": "Incorreta: risco cai com parentesco."
+    },
+    "explicacao": "Resumo: Herança complexa.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: descreve traço monogênico.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: risco cai com parentesco."
+  },
+  {
+    "id": 933,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "No modelo de limiar para doenças multifatoriais, a doença manifesta-se quando:",
+    "opcoes": [
+      "A) A herança é exclusivamente mitocondrial.",
+      "B) A suscetibilidade acumulada ultrapassa um limiar fenotípico crítico.",
+      "C) Um único SNP deletério está homozigoto.",
+      "D) O ambiente deixa de influenciar o fenótipo."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Limiar — distribuição contínua de suscetibilidade; recorrência maior com caso mais grave.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta: ambiente modula."
+    },
+    "explicacao": "Resumo: Modelo de limiar.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: ambiente modula."
+  },
+  {
+    "id": 934,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Estudos de associação genômica ampla (GWAS) em doenças complexas mostram tipicamente que:",
+    "opcoes": [
+      "A) Cada SNP associado confere odds ratio muito alto isoladamente na maioria dos loci.",
+      "B) Apenas variantes mitocondriais explicam o risco.",
+      "C) Diversos variantes com efeitos pequenos individuais contribuem para arquitetura poligênica.",
+      "D) Existe um único gene causal para diabetes tipo 2 em toda a população."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "GWAS — OR modestas; soma de riscos; PRS.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: ORs costumam ser modestos.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: GWAS.\nA) INCORRETA. Incorreta: ORs costumam ser modestos.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 935,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Concordância maior em gêmeos monozigóticos do que dizigóticos para uma doença complexa sugere:",
+    "opcoes": [
+      "A) Componente exclusivamente ambiental sem genética.",
+      "B) Padrão mendeliano recessivo puro com dois alelos raros em todos os casos.",
+      "C) Ausência de qualquer contribuição genética ao risco.",
+      "D) Contribuição genética relevante, embora a concordância em MZ raramente seja 100% (ambiente importa)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Gêmeos — herda­bilidade; MZ>DZ implica genética + ambiente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Estudos de gêmeos.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 936,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Um proto-oncogene torna-se oncogênico por:",
+    "opcoes": [
+      "A) Perda de ambas as cópias aleatórias sem transcrição.",
+      "B) Mutações que tipicamente inativam completamente a proteína desde o nascimento.",
+      "C) Mutação, amplificação ou fusão que aumenta sinalização proliferativa ou sobrevida.",
+      "D) Silenciamento epigenético bilateral sem expressão."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Oncogene — ganho de função; RAS, MYC, fusões.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: supressor — dois hits.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Proto-oncogene.\nA) INCORRETA. Incorreta: supressor — dois hits.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 937,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Genes supressores de tumor clássicos (ex.: TP53, APC) em carcinogênese espontânea costumam exigir:",
+    "opcoes": [
+      "A) Um único evento de ganho de função dominante na primeira cópia apenas.",
+      "B) Duplicação cromossômica constitucional sem mutação alélica.",
+      "C) Expressão apenas em linhagem germinativa sem eventos somáticos.",
+      "D) Perda de função por mutações ou deleções em ambas as cópias (dois eventos somáticos ou germinativa + somática)."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Dois golpes — Knudson; LOH comum.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: descreve oncogene.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Supressor de tumor.\nA) INCORRETA. Incorreta: descreve oncogene.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 938,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Na maioria dos cânceres esporádicos de órgãos sólidos, a origem clonal caracteriza-se por:",
+    "opcoes": [
+      "A) Acúmulo sequencial de mutações somáticas que conferem vantagem proliferativa ao clone.",
+      "B) Herança exclusivamente poligênica sem mutação somática.",
+      "C) Infecção viral como única etiologia em todos os casos.",
+      "D) Carótipo fetal normal sem alterações adquiridas."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Câncer — multihit; clonalidade; evolução darwiniana celular.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: importante em subconjuntos, não universal.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Carcinogênese somática.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: importante em subconjuntos, não universal.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 939,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "O modelo adenoma–carcinoma colorretal ilustra:",
+    "opcoes": [
+      "A) Progressão exclusivamente viral sem mutações humanas.",
+      "B) Progressão multistep com mutações somáticas em vias como APC, KRAS e TP53 ao longo do tempo.",
+      "C) Câncer hereditário sem componente somático.",
+      "D) Apenas hiperplasia reversível sem invasão."
+    ],
+    "correta": 1,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Sequência Vogelstein — adenoma → carcinoma; ordem de eventos.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Adenoma-carcinoma.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 940,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Instabilidade de microssatélites (MSI-H) por deficiência de genes de reparo do DNA (MMR) associa-se fortemente a:",
+    "opcoes": [
+      "A) Carcinoma pulmonar por tabagismo apenas.",
+      "B) Linfoma de Hodgkin clássico.",
+      "C) Câncer colorretal hereditário não polipósico (síndrome de Lynch) e subconjuntos esporádicos com metilação de MLH1.",
+      "D) Melanoma cutâneo exclusivamente por UV sem outras vias."
+    ],
+    "correta": 2,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Lynch — MMR germinativo; MSI em tumor; imunoterapia.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: MSI / MMR.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 941,
+    "materia": "bcm1",
+    "tema": "bcm1_a21",
+    "enunciado": "Escore poligênico de risco (PRS) combina:",
+    "opcoes": [
+      "A) Um único SNP com penetrance mendeliana completa.",
+      "B) Aparente exclusivamente de história familiar sem dados genômicos.",
+      "C) Exclusivamente biomarcadores proteicos sem DNA.",
+      "D) Muitos polimorfismos de efeito pequeno ponderados num índice numérico de suscetibilidade."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "PRS — soma de efeitos; calibração populacional em desenvolvimento clínico.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: PRS.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

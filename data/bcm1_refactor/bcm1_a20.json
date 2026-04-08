@@ -1,0 +1,232 @@
+[
+  {
+    "id": 922,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Haploinsuficiência em doença autossômica dominante explica que:",
+    "opcoes": [
+      "A) Uma cópia mutada pode ser suficiente se a dose da proteína funcional ficar abaixo do limiar celular.",
+      "B) Sempre são necessários dois alelos mutados para fenótipo.",
+      "C) O mecanismo só ocorre em genes ligados ao Y.",
+      "D) A proteína mutada nunca interfere com a wild-type."
+    ],
+    "correta": 0,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "Haploinsuficiência — 50% da proteína insuficiente (ex.: Marfan, alguns contextos BRCA).",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta: descreve recessividade.",
+      "C": "Incorreta.",
+      "D": "Incorreta: isso aproxima-se de dominante negativo, não haploinsuficiência pura."
+    },
+    "explicacao": "Resumo: Haploinsuficiência.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta: descreve recessividade.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: isso aproxima-se de dominante negativo, não haploinsuficiência pura."
+  },
+  {
+    "id": 923,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "No padrão autossômico dominante, o risco para cada filho de um progenitor afetado heterozigoto e parceiro geneticamente típico é tipicamente:",
+    "opcoes": [
+      "A) 0%.",
+      "B) 50% por gestação.",
+      "C) 100%.",
+      "D) 25%."
+    ],
+    "correta": 1,
+    "dificuldade": 1,
+    "modulo": 2,
+    "explicacao_geral": "AD — 50% se heterozigoto; transmissão vertical.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta: salvo homozigoto (geralmente raro/inviável).",
+      "D": "Incorreta: 25% é típico AR entre dois heterozigotos."
+    },
+    "explicacao": "Resumo: Risco AD.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta: salvo homozigoto (geralmente raro/inviável).\nD) INCORRETA. Incorreta: 25% é típico AR entre dois heterozigotos."
+  },
+  {
+    "id": 924,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Efeito dominante negativo é bem ilustrado quando:",
+    "opcoes": [
+      "A) O alelo mutado é completamente silencioso.",
+      "B) Perde-se apenas uma cópia sem interação entre subunidades.",
+      "C) A proteína mutante integra complexos multiméricos e prejudica a função global.",
+      "D) Há deleção homozigota de supressor de tumor no mesmo clone somático apenas."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Dominante negativo — subunidade tóxica ao complexo (ex.: alguns colágenos, p53 mutante).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: aproxima haploinsuficiência simples.",
+      "C": "Correta.",
+      "D": "Incorreta: mecanismo de supressor — perda de função."
+    },
+    "explicacao": "Resumo: Dominante negativo.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: aproxima haploinsuficiência simples.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta: mecanismo de supressor — perda de função."
+  },
+  {
+    "id": 925,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Penetrância incompleta em doença autossômica dominante significa que:",
+    "opcoes": [
+      "A) Apenas homens manifestam o fenótipo.",
+      "B) Todo portador do alelo mutado apresenta doença com igual severidade.",
+      "C) Gêmeos monozigóticos têm sempre fenótipo idêntico.",
+      "D) Indivíduos com o alelo patogênico podem permanecer assintomáticos."
+    ],
+    "correta": 3,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Penetrância — fração com fenótipo; incompleta \"pula\" gerações aparentemente.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta: AD afeta ambos os sexos.",
+      "B": "Incorreta: isso seria penetrância completa.",
+      "C": "Incorreta: expressividade pode variar.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Penetrância.\nA) INCORRETA. Incorreta: AD afeta ambos os sexos.\nB) INCORRETA. Incorreta: isso seria penetrância completa.\nC) INCORRETA. Incorreta: expressividade pode variar.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 926,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "A acondroplasia associa-se a mutação ativadora em FGFR3 com mecanismo de:",
+    "opcoes": [
+      "A) Perda total de função do receptor.",
+      "B) Homozigose recessiva obrigatória.",
+      "C) Ganho de função com inibição da proliferação de condrócitos na placa de crescimento.",
+      "D) Ligação exclusiva ao DNA como supressor de transcrição."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "Acondroplasia — FGFR3 constitutivo; nanismo.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta: AD.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Acondroplasia.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta: AD.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 927,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "A doença de Huntington caracteriza-se por:",
+    "opcoes": [
+      "A) Deleção de grandes segmentos em BRCA1.",
+      "B) Hipometilação global do genoma sem expansão de repeats.",
+      "C) Mosaicismo confinado ao fígado sem envolvimento neural.",
+      "D) Expansão de repeats CAG no gene HTT com toxicidade de ganho de função e antecipação fenotípica entre gerações."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Huntington — poliQ expansivo; piora nas gerações (antecipação).",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Huntington.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  },
+  {
+    "id": 928,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Nova mutação (de novo) em síndrome de Marfan explica cenários em que:",
+    "opcoes": [
+      "A) Pais fenotipicamente típicos têm filho com mutação nova em FBN1.",
+      "B) Não há mutação em FBN1 no indivíduo afetado.",
+      "C) Apenas o parentesco materno transmite o alelo.",
+      "D) A penetrância do alelo é obrigatoriamente zero."
+    ],
+    "correta": 0,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Marfan — ~25% de novo; critérios de Ghent.",
+    "explicacoes_opcoes": {
+      "A": "Correta.",
+      "B": "Incorreta.",
+      "C": "Incorreta: AD autossômica.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: Marfan de novo.\nA) CORRETA. Correta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta: AD autossômica.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 929,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Neurofibromatose tipo 1 (NF1) segue padrão:",
+    "opcoes": [
+      "A) Autossômico recessivo com consanguinidade obrigatória.",
+      "B) Autossômico dominante com expressividade variável.",
+      "C) Ligado ao X recessivo.",
+      "D) Exclusivamente somático sem transmissão familiar."
+    ],
+    "correta": 1,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "NF1 — gene NF1; manchas café com leite, neurofibromas.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Correta.",
+      "C": "Incorreta.",
+      "D": "Incorreta: germinativa comum."
+    },
+    "explicacao": "Resumo: NF1.\nA) INCORRETA. Incorreta.\nB) CORRETA. Correta.\nC) INCORRETA. Incorreta.\nD) INCORRETA. Incorreta: germinativa comum."
+  },
+  {
+    "id": 930,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Polipose adenomatosa familiar (PAF) associa-se classicamente a:",
+    "opcoes": [
+      "A) Mutações dominante negativas em colágeno tipo I.",
+      "B) Herança mitocondrial pura.",
+      "C) Múltiplos adenomas coloretais por mutação germinativa no gene APC.",
+      "D) Trissomia do cromossomo 21."
+    ],
+    "correta": 2,
+    "dificuldade": 2,
+    "modulo": 2,
+    "explicacao_geral": "FAP — APC; adenoma-carcinoma; colectomia profilática.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Correta.",
+      "D": "Incorreta."
+    },
+    "explicacao": "Resumo: PAF.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) CORRETA. Correta.\nD) INCORRETA. Incorreta."
+  },
+  {
+    "id": 931,
+    "materia": "bcm1",
+    "tema": "bcm1_a20",
+    "enunciado": "Expressividade variável em doença autossômica dominante implica:",
+    "opcoes": [
+      "A) Risco nulo para filhos de indivíduo afetado.",
+      "B) Penetrância sempre completa em todos os portadores.",
+      "C) Apenas mulheres apresentam manifestações.",
+      "D) A severidade e o espectro clínico podem diferir entre portadores do mesmo alelo."
+    ],
+    "correta": 3,
+    "dificuldade": 3,
+    "modulo": 2,
+    "explicacao_geral": "Expressividade — grau fenotípico; penetrância — presença/ausência.",
+    "explicacoes_opcoes": {
+      "A": "Incorreta.",
+      "B": "Incorreta.",
+      "C": "Incorreta.",
+      "D": "Correta."
+    },
+    "explicacao": "Resumo: Expressividade.\nA) INCORRETA. Incorreta.\nB) INCORRETA. Incorreta.\nC) INCORRETA. Incorreta.\nD) CORRETA. Correta."
+  }
+]

@@ -25,7 +25,7 @@ Autodigestão por ativação enzimática → **edema intersticial** ou **necrose
 - **Lipase** elevada (múltiplo do limite superior — usar referência local).  
 - Excluir **perfuração péptica**, **IAM**, **cólica biliar** isolada.
 
-### Critérios de gravidade (ideia)
+### Critérios de gravidade (visão de prova)
 
 | Ferramenta | O que mede | Uso prático |
 |------------|------------|-------------|
@@ -103,12 +103,11 @@ Paciente com **taquicardia desproporcional**, **oligúria** e dor intensa perten
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- **Balthazar** na TC — grau de necrose (ideia).
-- **SIRS** e disfunção orgânica → UTI.
-- **TG** muito elevada — papel da plasmaférese em contexto selecionado.
-- **Pseudoquisto** — complicação tardia; conduta conforme sintomas e tamanho.
+Na prova, lembre que Balthazar na TC — grau de necrose (visão de prova). SIRS e disfunção orgânica → UTI.
+
+Para não errar em cenário clínico, considere também TG muito elevada — papel da plasmaférese em contexto selecionado. Pseudoquisto — complicação tardia; conduta conforme sintomas e tamanho.
 
 ### Diferenciações que a Uninove adora cobrar
 
@@ -122,14 +121,3 @@ Paciente com **taquicardia desproporcional**, **oligúria** e dor intensa perten
 ### Frase-âncora para não esquecer
 
 > “**Pancreatite** grave é doença de **terapia intensiva** — volume e órgãos.”
-
----
-
-## Aprofundamento — visão cirúrgica e propedêutica
-
-Priorize **suporte**, **causa** (biliar, álcool, medicamento) e **timing** de intervenções. **Consentimento** e decisão em equipe definem segurança em procedimentos invasivos.
-
-### Leitura de reforço
-
-- Revisões de pancreatite aguda (manejo de fluidos, nutrição)
-- Protocolos de antibiótico em infecção de necrose

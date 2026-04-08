@@ -7,13 +7,13 @@
 
 ## Relevância Clínica e Acadêmica
 
-A cartilagem é tecido conjuntivo especializado: na maior parte dos casos é **avascular** e **anéural**, trocando metabolitos por **difusão** através da matriz. Isso explica por que espessuras grandes limitam nutrição central e por que o **reparo** após lesão profunda raramente restitui cartilagem hialina madura. Em clínica, osteoartrite, alterações no disco intervertebral e lesões meniscais dialogam com a biologia da cartilagem — e em prova, a banca cobra tipos, matriz e modos de crescimento mais do que decoreba de nomes soltos.
+O **Tecido Cartilaginoso** é o amortecedor biológico do corpo. Suas características únicas são ser **Avascular** e **Anervado**, o que explica por que lesões articulares doem pouco no início, mas têm um **Reparo Limitado**. Para a prova, domine a diferença entre a cartilagem **Hialina** (vidro), **Elástica** (mola) e a **Fibrocartilagem** (escudo). Na clínica, entenda que a perda desse tecido é o marco da **Osteoartrite**.
 
 ---
 
 ## Matriz: fibras, água e células
 
-Condroblastos ativos e condrócitos maduros (em lacunas) produzem **colágeno** (predominantemente tipo **II** na cartilagem hialina adulta, com isoformas IX e XI no contexto da rede) e **proteoglicanos** de grande porte (ex.: aggrecan) com glicosaminoglicanos sulfatados. A matriz retém água de forma osmoticamente relevante — daí a **metacromasia** e a basofilia variável conforme a técnica. Em lâmina, costuma distinguir-se **território capsular** (perilacunar, mais basófilo) de **território intersticial** entre grupos isogênicos.
+**Condroblastos** e **Condrócitos** (em lacunas) sintetizam a matriz rica em **Colágeno tipo II** e **Proteoglicanos** (Aggrecan), que atraem água e garantem a **resiliência** ao choque. O **reparo cartilaginoso** é limitado; em lesões profundas, o osso o substitui por **fibrocartilagem**, que é mecanicamente inferior à hialina.
 
 ### Figura sugerida
 
@@ -29,11 +29,11 @@ Condroblastos ativos e condrócitos maduros (em lacunas) produzem **colágeno** 
 
 ## Três tipos principais: onde aparecem e o que fazem
 
-| Tipo | Traço distintivo | Onde ver na prática anatômica |
-|------|------------------|-------------------------------|
-| Hialina | Matriz homogênea “vítrea”; colágeno II | Superfícies articulares, traqueia, placa epifisária em crescimento |
-| Elástica | Fibras elásticas entre colágeno | Orelha externa, epiglote, tubas auditivas |
-| Fibrocartilagem | Colágeno tipo I abundante + matriz cartilaginosa | Meniscos, disco intervertebral (anel), sínfises, zona de inserção tendínea |
+| Tipo de Cartilagem | Fibra Dominante | Localização Prova |
+|--------------------|------------------|-------------------|
+| **Hialina** | **Colágeno II** | Articulações e Traqueia|
+| **Elástica** | Elastina | Orelha e **Epiglote** |
+| **Fibrocartilagem** | **Colágeno I** | **Meniscos** e Discos |
 
 A **hialina** amortec e reduz atrito nas articulações sinoviais. A **fibrocartilagem** resiste a **cisalhamento** e tração — por isso anel fibroso e meniscos são alvos mecânicos clássicos.
 
@@ -41,37 +41,11 @@ A **hialina** amortec e reduz atrito nas articulações sinoviais. A **fibrocart
 
 ## Crescimento aposicional e intersticial
 
-No crescimento **aposicional** (pericondral), novas camadas são acrescentadas na superfície a partir do pericôndrio. No **intersticial**, condrócitos dentro da matriz proliferam e depositam matriz — mecanismo central na epífise antes da ossificação endocondral. A **placa epifisária** organiza-se em zonas (reserva, proliferação, hipertrofia, calcificação) até a fusão: vulnerável a deficiências nutricionais, trauma e distúrbios endócrinos.
-
----
-
-## Degeneração, reparo limitado e doenças
-
-> **Dica de Prova:** Em questões de “primeira alteração” na OA, pense em perda de proteoglicanos e alteração da água da matriz antes de estreitamento radiológico evidente — o enunciado costuma puxar pelo mecanismo, não só pelo achado tardio.
-
-Cartilagem madura não se regenera de modo completo após lesão osteocondral: o defeito tende a preencher com tecido fibroso ou fibrocartilagem funcionalmente inferior. Na **osteoartrite**, perda de proteoglicanos, fissuras e remodelação óssea subcondral alteram biomecânica e dor. **Condromalácia patelar** descreve amolecimento cartilaginoso com graduação clínica-imagem. Em vias aéreas, alterações crônicas podem associar-se a remodelação da cartilagem traqueal.
-
----
-
-## Pericôndrio e transição com osso
-
-O **pericôndrio** fibroso envolve a cartilagem exceto na superfície articular (lubrificada pelo líquido sinovial). A camada condrogênica contribui para crescimento aposicional e para reparo limitado. Na metáfise, a interface entre cartilagem em hipertrofia e ossificação é o cenário fisiológico a contrastar com calcificações patológicas em outros tecidos.
-
----
-
-## Ponte com a Clínica
-
-Meniscectomia extensa pode redistribuir carga e acelerar degeneração compartimental. Hérnia de disco envolve núcleo pulposo e anel fibroso — fibrocartilagem e mecânica de pressão. Relapsing polychondrite ataca cartilagem hialina e elástica de orelhas e vias aéreas. Na imagem, **RM** avalia cartilagem articular melhor que radiografia precoce; radiografia mostra estreitamento e esclerose subcondral em fases avançadas.
-
----
-
-## Pontos-Chave para Prova
-
-- Por que a cartilagem é avascular e qual o impacto no reparo.  
-- Hialina vs fibrocartilagem vs elástica (composição e exemplo anatômico).  
-- Condrócito em lacuna; grupo isogênico.  
-- Crescimento aposicional versus intersticial.  
-- Osteoartrite: conceito de degeneração da matriz e do osso subcondral.
+- **Pericôndrio:** Tecido conjuntivo que nutre e repara (exceto na cartilagem articular).
+- **Grupos Isogênicos:** Prole de um único condrócito; marca o **Crescimento Intersticial**.
+- **Osteoartrite:** Começa com a perda de **Proteoglicanos** (matriz amolece) antes do osso bater.
+- **Fibrocartilagem de Reparo:** O corpo não repõe hialina; ele preenche com fibrocartilagem, que é mais rígida e menos lisa.
+- **Vias Aéreas:** A hialina mantém a traqueia aberta (patência). Se amolece, ocorre a **Traqueomalácia**.
 
 ---
 
@@ -79,22 +53,19 @@ Meniscectomia extensa pode redistribuir carga e acelerar degeneração compartim
 
 > Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-### O que você PRECISA saber
+### Síntese para a prova
 
-- Matriz: colágeno II (contexto hialina) e proteoglicanos de carga osmótica.  
-- Nutrição por difusão e limite de espessura.  
-- Onde entra fibrocartilagem no joelho e na coluna.  
-- Território capsular versus intersticial em lâmina.  
-- Por que defeitos profundos não voltam a ser hialina perfeita.
+- **Colágeno II vs I:** O II é exclusivo da hialina; o I dá força à fibrocartilagem.
+- **Nutrição:** Por **Difusão**. Por isso a cartilagem não pode ser muito grossa (morreria de fome).
+- **Osteócito vs Condrócito:** Ambos em lacunas, mas o condrócito não tem canalículos de comunicação.
+- **Crescimento Aposicional:** Novas células vêm do pericôndrio (de fora para dentro).
 
-### Diferenciações que caem em prova
-
-| Conceito A | Conceito B | Como diferenciar |
-|------------|------------|------------------|
-| Cartilagem hialina | Fibrocartilagem | Predomínio de colágeno II e matriz “vítrea” vs colágeno I + função de ancoragem |
-| Crescimento aposicional | Intersticial | Acréscimo na superfície (pericôndrio) vs dentro da matriz existente |
-| Condroblasto | Condrócito | Célula sintética ativa versus madura na lacuna |
-| Cartilagem elástica | Hialina | Fibras elásticas evidentes versus matriz homogênea |
+| Conceito A | Conceito B | Diferencial para Prova |
+|------------|------------|-------------------------|
+| **Hialina** | **Fibrosa** | Lisa/Fricção vs Resistente/Carga |
+| **Condroblasto** | **Condrócito** | Produtor Ativo vs Célula de Manutenção |
+| **Epiglote** | **Placa Epifisária** | Elástica vs Hialina |
+| **Intersticial** | **Aposicional** | Cresce por dentro vs Cresce por fora |
 
 ### Frase-âncora para não esquecer
 
