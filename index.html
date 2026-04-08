@@ -224,11 +224,15 @@
       background: rgba(255, 255, 255, 0.95) !important;
     }
 
-    /* Grifar (Highlight) - Apenas no conteúdo do Material */
+    /* Grifar (Highlight) - Áreas permitidas */
     .markdown-body, 
     .markdown-body *,
     .preprova-content,
-    .preprova-content * {
+    .preprova-content *,
+    .quiz-screen,
+    .quiz-screen *,
+    .flashcard-container,
+    .flashcard-container * {
       -webkit-user-select: text !important;
       user-select: text !important;
     }
@@ -6521,14 +6525,14 @@
       const [reportFlashError, setReportFlashError] = useState('');
       const [reportFlashTarget, setReportFlashTarget] = useState(null);
       const routeAulaAppliedRef = useRef(false);
-      const quizRef = useRef(null);
+      const highlighterRef = useRef(null);
       const srData = useMemo(() => JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'), [srTick]);
 
-      // Highlight logic for Quiz questions
+      // Highlight logic for Quiz and Flashcards
       useEffect(() => {
-        if (!quizRef.current || !studying) return;
-        return setupHighlighter(quizRef.current);
-      }, [studying, currentIndex, sessionComplete]);
+        if (!highlighterRef.current || !studying) return;
+        return setupHighlighter(highlighterRef.current);
+      }, [studying, currentIndex, isFlipped, sessionComplete]);
 
       useEffect(() => {
         setCurrentIndex(0);
@@ -6990,7 +6994,7 @@
               </div>
             </div>
 
-            <div className="flashcard-container">
+            <div className="flashcard-container" ref={highlighterRef}>
               <div className="flashcard" onClick={() => setIsFlipped(!isFlipped)} style={{ cursor: 'pointer' }}>
                 <div className={`flashcard-inner ${isFlipped ? 'flipped' : ''}`}>
                   <div className="flashcard-front">
@@ -7735,8 +7739,8 @@
                   </div>
                 </div>
 
-                <div className="quiz-question-card">
-                  <div className="quiz-question" ref={quizRef}>{card.pergunta}</div>
+                <div className="quiz-question-card" ref={highlighterRef}>
+                  <div className="quiz-question">{card.pergunta}</div>
                 </div>
 
                 <div className="quiz-options">
