@@ -236,22 +236,44 @@
     /* O restante do app continua não selecionável para manter a sensação de plataforma */
 
     .mg-highlight {
-      background-color: rgba(254, 240, 138, 0.45) !important; /* Amarelo semi-transparente */
-      color: inherit !important; 
-      padding: 2px 0;
-      margin: 0 -1px;
-      border-radius: 3px;
+      background-color: #fef08a !important; 
+      color: #000 !important;
+      padding: 1px 0;
+      border-radius: 0;
       cursor: pointer;
       display: inline;
-      box-shadow: inset 0 -0.5em 0 rgba(254, 240, 138, 0.6); /* Efeito de caneta marca-texto na base */
+      box-shadow: 0 0 6px rgba(254, 240, 138, 0.4);
       transition: all 0.2s ease;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
     }
-    .mg-highlight:hover {
-      background-color: rgba(254, 240, 138, 0.6) !important;
+    .mg-hl-start {
+      padding-left: 4px !important;
+      border-top-left-radius: 4px !important;
+      border-bottom-left-radius: 4px !important;
+    }
+    .mg-hl-end {
+      padding-right: 4px !important;
+      border-top-right-radius: 4px !important;
+      border-bottom-right-radius: 4px !important;
+    }
+    /* Garante que negritos, itálicos e títulos dentro do grifo fiquem pretos para contraste */
+    .mg-highlight *, 
+    .mg-highlight strong, 
+    .mg-highlight b, 
+    .mg-highlight h1, 
+    .mg-highlight h2, 
+    .mg-highlight h3, 
+    .mg-highlight h4 {
+      color: #000 !important;
+      font-weight: 800 !important; /* Reforça o negrito para destacar no fundo amarelo */
     }
     html[data-theme="dark"] .mg-highlight {
-      background-color: rgba(253, 224, 71, 0.3) !important;
-      box-shadow: inset 0 -0.5em 0 rgba(253, 224, 71, 0.4);
+      background-color: #fde047 !important;
+      color: #000 !important;
+    }
+    html[data-theme="dark"] .mg-highlight * {
+      color: #000 !important;
     }
     html[data-theme="light"] .material-header-card {
       background: rgba(255, 255, 255, 0.88) !important;
@@ -717,19 +739,6 @@
         display: none;
       }
 
-      /* Histologia Atlas Plate: Side-by-side for Desktop / Tablet */
-      @media (min-width: 800px) {
-        .atlas-plate-layout {
-          grid-template-columns: 1fr 340px !important;
-          align-items: start !important;
-          gap: 24px !important;
-        }
-        .atlas-plate-legend {
-          position: sticky;
-          top: 10px;
-          z-index: 10;
-        }
-      }
     }
 
     /* Mobile / tablet estreito: drawer lateral + barra com hamburger */
@@ -6512,7 +6521,14 @@
       const [reportFlashError, setReportFlashError] = useState('');
       const [reportFlashTarget, setReportFlashTarget] = useState(null);
       const routeAulaAppliedRef = useRef(false);
+      const quizRef = useRef(null);
       const srData = useMemo(() => JSON.parse(localStorage.getItem('meduni9_sr_data') || '{}'), [srTick]);
+
+      // Highlight logic for Quiz questions
+      useEffect(() => {
+        if (!quizRef.current || !studying) return;
+        return setupHighlighter(quizRef.current);
+      }, [studying, currentIndex, sessionComplete]);
 
       useEffect(() => {
         setCurrentIndex(0);
@@ -7720,7 +7736,7 @@
                 </div>
 
                 <div className="quiz-question-card">
-                  <div className="quiz-question">{card.pergunta}</div>
+                  <div className="quiz-question" ref={quizRef}>{card.pergunta}</div>
                 </div>
 
                 <div className="quiz-options">
@@ -8238,53 +8254,7 @@
       // Highlight (Grifar) logic - Temporary session only
       useEffect(() => {
         if (!markdownRef.current || !materialContent) return;
-        const root = markdownRef.current;
-
-        const handleMouseUp = (e) => {
-          const selection = window.getSelection();
-          if (!selection || selection.isCollapsed || selection.rangeCount === 0) return;
-
-          const range = selection.getRangeAt(0);
-          // Check if selection is within the markdown root
-          if (!root.contains(range.commonAncestorContainer)) return;
-
-          // Avoid highlighting if clicking on an interactive element (except already highlighted)
-          if (e.target.closest('button, a, input, .flow-box, .mg-highlight')) return;
-
-          const span = document.createElement('span');
-          span.className = 'mg-highlight';
-          
-          try {
-            range.surroundContents(span);
-          } catch (err) {
-            // surroundContents fails if selection crosses element boundaries (like bold to normal)
-            const fragment = range.extractContents();
-            span.appendChild(fragment);
-            range.insertNode(span);
-          }
-          
-          selection.removeAllRanges();
-        };
-
-        const handleClick = (e) => {
-          const target = e.target.closest('.mg-highlight');
-          if (target) {
-            // Remove highlight: move children out of span, then remove span
-            const parent = target.parentNode;
-            while (target.firstChild) {
-              parent.insertBefore(target.firstChild, target);
-            }
-            parent.removeChild(target);
-          }
-        };
-
-        root.addEventListener('mouseup', handleMouseUp);
-        root.addEventListener('click', handleClick);
-        
-        return () => {
-          root.removeEventListener('mouseup', handleMouseUp);
-          root.removeEventListener('click', handleClick);
-        };
+        return setupHighlighter(markdownRef.current);
       }, [materialContent, selectedMaterial]);
 
       const toggleMateria = (id) => {
@@ -10261,6 +10231,101 @@
     };
 
     // ===================== Main App =====================
+    function setupHighlighter(root) {
+      if (!root) return () => {};
+      
+      const handleMouseUp = (e) => {
+        const selection = window.getSelection();
+        if (!selection || selection.isCollapsed || selection.rangeCount === 0) return;
+
+        const range = selection.getRangeAt(0);
+        if (!root.contains(range.commonAncestorContainer)) return;
+
+        // Evita grifar se clicar em elementos interativos ou se ja estiver grifado
+        if (e.target.closest('button, a, input, .flow-box, .mg-highlight')) return;
+
+        const group = 'hl-' + Date.now();
+        let textNodes = [];
+        
+        const walker = document.createTreeWalker(
+          range.commonAncestorContainer.nodeType === Node.TEXT_NODE ? range.commonAncestorContainer.parentNode : range.commonAncestorContainer,
+          NodeFilter.SHOW_TEXT,
+          null,
+          false
+        );
+
+        let node = walker.nextNode();
+        while (node) {
+          if (range.intersectsNode(node) && node.textContent.trim().length > 0) {
+            textNodes.push(node);
+          }
+          node = walker.nextNode();
+        }
+
+        if (textNodes.length === 0 && range.commonAncestorContainer.nodeType === Node.TEXT_NODE && range.commonAncestorContainer.textContent.trim().length > 0) {
+          textNodes.push(range.commonAncestorContainer);
+        }
+
+        textNodes.forEach((tNode, index) => {
+          const isFirst = (index === 0);
+          const isLast = (index === textNodes.length - 1);
+
+          const isStart = (tNode === range.startContainer);
+          const isEnd = (tNode === range.endContainer);
+          
+          let start = isStart ? range.startOffset : 0;
+          let end = isEnd ? range.endOffset : tNode.textContent.length;
+          
+          if (start === end) return;
+
+          let targetNode = tNode;
+          if (isEnd) targetNode.splitText(end);
+          if (isStart || !isEnd) {
+            const mid = targetNode.splitText(start);
+            targetNode = mid;
+          }
+
+          const span = document.createElement('span');
+          span.className = 'mg-highlight';
+          if (isFirst) span.classList.add('mg-hl-start');
+          if (isLast) span.classList.add('mg-hl-end');
+          span.setAttribute('data-hl-group', group);
+          
+          targetNode.parentNode.replaceChild(span, targetNode);
+          span.appendChild(targetNode);
+        });
+        
+        selection.removeAllRanges();
+      };
+
+      const handleClick = (e) => {
+        const target = e.target.closest('.mg-highlight');
+        if (target) {
+          const group = target.getAttribute('data-hl-group');
+          const toRemove = group 
+            ? root.querySelectorAll(`[data-hl-group="${group}"]`)
+            : [target];
+          
+          toRemove.forEach(el => {
+            const parent = el.parentNode;
+            if (!parent) return;
+            while (el.firstChild) {
+              parent.insertBefore(el.firstChild, el);
+            }
+            parent.removeChild(el);
+          });
+        }
+      };
+
+      root.addEventListener('mouseup', handleMouseUp);
+      root.addEventListener('click', handleClick);
+      
+      return () => {
+        root.removeEventListener('mouseup', handleMouseUp);
+        root.removeEventListener('click', handleClick);
+      };
+    }
+
     function normalizeText(str) {
       return (str || '').toLowerCase()
         .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
@@ -10657,7 +10722,18 @@
                       decoding="async"
                       onLoad={() => setImgLoaded(true)}
                       onError={() => setImgError(true)}
-                      style={{ width: '100%', height: 'auto', display: 'block', verticalAlign: 'top', opacity: imgLoaded ? 1 : 0, transition: reduceMotion ? 'none' : 'opacity 0.25s ease', pointerEvents: 'none' }}
+                      style={{ 
+                        width: '132%', 
+                        maxWidth: 'none',
+                        height: 'auto', 
+                        display: 'block', 
+                        verticalAlign: 'top', 
+                        opacity: imgLoaded ? 1 : 0, 
+                        transition: reduceMotion ? 'none' : 'opacity 0.25s ease', 
+                        pointerEvents: 'none',
+                        objectFit: 'cover',
+                        objectPosition: 'left center'
+                      }}
                     />
                   </button>
                   {imgLoaded && podeAmpliar && (
