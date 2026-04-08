@@ -22,7 +22,7 @@
             {
               "id": "tf_citologia_001",
               "titulo": "Intérfase - (a)",
-              "alt": "A1 Raiz de cebola - HF — Intérfase - (a)",
+              "alt": "Raiz de cebola - HF — Intérfase - (a)",
               "urlImagem": "/data/histologia/atlas/1_citologia/recorte/histo_1_citologia_a11_recorte.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a11.jpg",
@@ -32,7 +32,7 @@
               "urlImagemRecorte": "/data/histologia/atlas/1_citologia/recorte/histo_1_citologia_a11_recorte.jpg",
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Raiz de cebola-HF interfase - (a) maioria das celulas. nucleo com carioteca apresentando cromatina frouxa e nucleolo. telofase - (e) desaparecimento dos microtubulos dos ci netocoros, descondensacao da cromatina, reorganizacao dos nucleolos.re"
+                "Raiz de cebola-HF interfase - (a) maioria das celulas. nucleo com carioteca apresentando cromatina frouxa e nucleolo. telofase - (e) desaparecimento dos microtubulos dos cinetocoros, descondensacao da cromatina, reorganizacao dos nucleolos.re"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -62,7 +62,7 @@
             {
               "id": "tf_citologia_002",
               "titulo": "Prófase - (b)",
-              "alt": "A1 Raiz de cebola - HF — Prófase - (b)",
+              "alt": "Raiz de cebola - HF — Prófase - (b)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a12.jpg",
@@ -102,7 +102,7 @@
             {
               "id": "tf_citologia_003",
               "titulo": "Anáfase - (d)",
-              "alt": "A1 Raiz de cebola - HF — Anáfase - (d)",
+              "alt": "Raiz de cebola - HF — Anáfase - (d)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a13.jpg",
@@ -142,7 +142,7 @@
             {
               "id": "tf_citologia_004",
               "titulo": "Metáfase - (c)",
-              "alt": "A1 Raiz de cebola - HF — Metáfase - (c)",
+              "alt": "Raiz de cebola - HF — Metáfase - (c)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a14_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a14.jpg",
@@ -176,7 +176,7 @@
             {
               "id": "tf_citologia_005",
               "titulo": "Sangue humano - may grunwald-giemsa (romanovsky modificado) — eritrócitos (hemácias) - (seta)",
-              "alt": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Eritrócitos (hemácias) - (seta)",
+              "alt": "- Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Eritrócitos (hemácias) - (seta)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a21_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a21.jpg",
@@ -208,7 +208,7 @@
             {
               "id": "tf_citologia_006",
               "titulo": "Sangue humano - may grunwald-giemsa (romanovsky modificado) — leucócitos",
-              "alt": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Leucócitos",
+              "alt": "- Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado) — Leucócitos",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a22_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a22.jpg",
@@ -240,7 +240,7 @@
             {
               "id": "tf_citologia_007",
               "titulo": "Sangue humano - may grunwald-giemsa (romanovsky modificado)",
-              "alt": "A2 - Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)",
+              "alt": "- Sangue Humano - May Grunwald-Giemsa (Romanovsky modificado)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a23_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a23.jpg",
@@ -270,7 +270,7 @@
             {
               "id": "tf_citologia_008",
               "titulo": "Sangue de ave - may grunwald-giemsa (romanovsky modificado)",
-              "alt": "A3 - Sangue de Ave - May Grunwald-Giemsa (Romanovsky modificado)",
+              "alt": "- Sangue de Ave - May Grunwald-Giemsa (Romanovsky modificado)",
               "urlImagem": "/data/histologia/atlas/1_citologia/zoom/histo_1_citologia_a3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "a3.jpg",
@@ -308,7 +308,7 @@
             {
               "id": "tf_embriologia_001",
               "titulo": "Placenta - HE — (menor aumento)",
-              "alt": "R1 - Placenta - HE — (Menor Aumento)",
+              "alt": "- Placenta - HE — (Menor Aumento)",
               "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "r1.jpg",
@@ -342,7 +342,7 @@
             {
               "id": "tf_embriologia_002",
               "titulo": "Placenta - HE — (médio aumento)",
-              "alt": "R1 - Placenta - HE — (Médio Aumento)",
+              "alt": "- Placenta - HE — (Médio Aumento)",
               "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "r1-2.jpg",
@@ -377,7 +377,7 @@
             {
               "id": "tf_embriologia_003",
               "titulo": "Placenta - HE — (maior aumento)",
-              "alt": "R1 - Placenta - HE — (Maior Aumento)",
+              "alt": "- Placenta - HE — (Maior Aumento)",
               "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "r1-3.jpg",
@@ -410,7 +410,7 @@
             {
               "id": "tf_embriologia_004",
               "titulo": "Cordão umbilical - HE",
-              "alt": "R2 - Cordão umbilical - HE",
+              "alt": "- Cordão umbilical - HE",
               "urlImagem": "/data/histologia/atlas/18_embrionario/zoom/histo_18_embrionario_r2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "r2.jpg",
@@ -451,7 +451,7 @@
             {
               "id": "tf_epitelio_001",
               "titulo": "Mesentério (PRATA) — epitélio nitratado (células pavimentosas)",
-              "alt": "B1 - Mesentério (PRATA) — Epitélio nitratado (células pavimentosas)",
+              "alt": "- Mesentério (PRATA) — Epitélio nitratado (células pavimentosas)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b1.jpg",
@@ -483,7 +483,7 @@
             {
               "id": "tf_epitelio_002",
               "titulo": "Ovário - HE — epitélio simples cúbico - (a) ou",
-              "alt": "B15 - Ovário - HE — Epitélio simples cúbico - (A) ou",
+              "alt": "- Ovário - HE — Epitélio simples cúbico - (A) ou",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b10.jpg",
@@ -512,7 +512,7 @@
             {
               "id": "tf_epitelio_003",
               "titulo": "Ovário - HE — epitélio simples pavimentoso - (b)",
-              "alt": "B15 - Ovário - HE — Epitélio simples pavimentoso - (B)",
+              "alt": "- Ovário - HE — Epitélio simples pavimentoso - (B)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b10_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b10-2.jpg",
@@ -541,7 +541,7 @@
             {
               "id": "tf_epitelio_004",
               "titulo": "Células descamadas do epitélio oral — núcleo central - (seta a)",
-              "alt": "B2 - Células descamadas do epitélio oral — Núcleo central - (seta a)",
+              "alt": "- Células descamadas do epitélio oral — Núcleo central - (seta a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b2.jpg",
@@ -572,7 +572,7 @@
             {
               "id": "tf_epitelio_005",
               "titulo": "Pele espessa, planta do pé - HE — epitélio estratificado pavimentoso queratinizado - (a)",
-              "alt": "B3 - Pele Espessa, planta do pé - HE — Epitélio estratificado pavimentoso queratinizado - (a)",
+              "alt": "- Pele Espessa, planta do pé - HE — Epitélio estratificado pavimentoso queratinizado - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b3-2.jpg",
@@ -582,7 +582,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Peleespessa,planta do pé-HE epitelio estratificado pavimentoso que ratinizado - (a) porcao de tecido conjutivo denso - (b) queratina espessa (*) epitelio glandular exocrino iglandula sudorípara) - (c)"
+                "Espessa,planta do pé-HE epitelio estratificado pavimentoso que ratinizado - (a) porcao de tecido conjutivo denso - (b) queratina espessa (*) epitelio glandular exocrino iglandula sudorípara) - (c)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -609,7 +609,7 @@
             {
               "id": "tf_epitelio_006",
               "titulo": "Pele espessa, planta do pé - HE — epitélio glandular exócrino (glândula sudorípara) - (c)",
-              "alt": "B3 - Pele Espessa, planta do pé - HE — Epitélio glandular exócrino (glândula sudorípara) - (c)",
+              "alt": "- Pele Espessa, planta do pé - HE — Epitélio glandular exócrino (glândula sudorípara) - (c)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b3-4.jpg",
@@ -619,7 +619,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Peleespessa planta do pe-HE epitelio glandular exocrinoiglandula sudorípara) porcao secretora (seta longa) porcao excretora (setacurta)"
+                "Espessa planta do pe-HE epitelio glandular exocrinoiglandula sudorípara) porcao secretora (seta longa) porcao excretora (setacurta)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -642,7 +642,7 @@
             {
               "id": "tf_epitelio_007",
               "titulo": "Pele delgada, pavilhão da orelha - MALLORY — epitélio estratificado pavimentoso queratinizado - (a)",
-              "alt": "B4 - Pele Delgada, pavilhão da orelha - Mallory — Epitélio estratificado pavimentoso queratinizado - (a)",
+              "alt": "- Pele Delgada, pavilhão da orelha - Mallory — Epitélio estratificado pavimentoso queratinizado - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b3_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b3-5.jpg",
@@ -652,7 +652,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Peledelgada,pavilhao da orelha-MALLORY epitelio estratificado pavimentoso que ratinizado - (a) tecido conjuntivo denso- (b) epitelio glandular exocrino iglandula sebacea) -(c) queratina-(seta)"
+                "Delgada,pavilhao da orelha-MALLORY epitelio estratificado pavimentoso que ratinizado - (a) tecido conjuntivo denso- (b) epitelio glandular exocrino iglandula sebacea) -(c) queratina-(seta)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -679,7 +679,7 @@
             {
               "id": "tf_epitelio_008",
               "titulo": "Esôfago (corte transversal) - HE — epitélio estratificado pavimentoso não queratinizado - (a)",
-              "alt": "B6- Esôfago (corte transversal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
+              "alt": "Esôfago (corte transversal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b4.jpg",
@@ -712,7 +712,7 @@
             {
               "id": "tf_epitelio_009",
               "titulo": "Esôfago (corte longitudinal) - HE — epitélio estratificado pavimentoso não queratinizado - (a)",
-              "alt": "B5 - Esôfago (corte longitudinal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
+              "alt": "- Esôfago (corte longitudinal) - HE — Epitélio estratificado pavimentoso não queratinizado - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b4-2.jpg",
@@ -745,7 +745,7 @@
             {
               "id": "tf_epitelio_010",
               "titulo": "Traquéia - HE — epitélio pseudo-estratificado cilíndrico ciliado",
-              "alt": "B7 - Traquéia - HE — Epitélio pseudo-estratificado cilíndrico ciliado",
+              "alt": "- Traquéia - HE — Epitélio pseudo-estratificado cilíndrico ciliado",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b5.jpg",
@@ -781,7 +781,7 @@
             {
               "id": "tf_epitelio_011",
               "titulo": "Estômago (fundo e corpo) - HE — epitélio simples cilíndrico (prismático, colunar) - (a)",
-              "alt": "B8 - Estômago (Fundo e corpo) - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
+              "alt": "- Estômago (Fundo e corpo) - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b6.jpg",
@@ -813,7 +813,7 @@
             {
               "id": "tf_epitelio_012",
               "titulo": "Jejuno-íleo - HE — epitélio simples cilíndrico (prismático, colunar) - (a)",
-              "alt": "B10- Jejuno-íleo - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
+              "alt": "Jejuno-íleo - HE — Epitélio simples cilíndrico (prismático, colunar) - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b6-2.jpg",
@@ -845,7 +845,7 @@
             {
               "id": "tf_epitelio_013",
               "titulo": "Transição estômago-duodeno - HE — epitélio simples cilíndrico (prismático, colunar)",
-              "alt": "B9 - Transição estômago-duodeno - HE — Epitélio simples cilíndrico (prismático, colunar)",
+              "alt": "- Transição estômago-duodeno - HE — Epitélio simples cilíndrico (prismático, colunar)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b6_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b6-3.jpg",
@@ -879,7 +879,7 @@
             {
               "id": "tf_epitelio_014",
               "titulo": "Bexiga - HE — epitélio misto ou polimorfo - (a)",
-              "alt": "B12 - Bexiga - HE — Epitélio misto ou polimorfo - (a)",
+              "alt": "- Bexiga - HE — Epitélio misto ou polimorfo - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b7.jpg",
@@ -909,7 +909,7 @@
             {
               "id": "tf_epitelio_015",
               "titulo": "Ureter - HE — epitélio misto ou polimorfo - (a)",
-              "alt": "B11 - Ureter - HE — Epitélio misto ou polimorfo - (a)",
+              "alt": "- Ureter - HE — Epitélio misto ou polimorfo - (a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b7_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b7-2.jpg",
@@ -939,7 +939,7 @@
             {
               "id": "tf_epitelio_016",
               "titulo": "Parótida - HE — epitélio glandular exócrino",
-              "alt": "B13 - Parótida - HE — Epitélio glandular exócrino",
+              "alt": "- Parótida - HE — Epitélio glandular exócrino",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b8_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b8-2.jpg",
@@ -971,7 +971,7 @@
             {
               "id": "tf_epitelio_017",
               "titulo": "Tireóide - HE — epitélio glandular endócrino (epitélio cúbico simples) - (seta a)",
-              "alt": "B14- Tireóide - HE — Epitélio glandular endócrino (Epitélio cúbico simples) - (seta a)",
+              "alt": "Tireóide - HE — Epitélio glandular endócrino (Epitélio cúbico simples) - (seta a)",
               "urlImagem": "/data/histologia/atlas/2_epitelio/zoom/histo_2_epitelio_b9_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "b9.jpg",
@@ -1007,7 +1007,7 @@
             {
               "id": "tf_pele_001",
               "titulo": "Pele, planta do pé - HE — epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)",
-              "alt": "K1 - Pele, planta do pé - HE — Epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)",
+              "alt": "- Pele, planta do pé - HE — Epiderme - (epitélio estratificado pavimentoso queratinizado com queratina espessa)",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k1-1.jpg",
@@ -1017,7 +1017,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele,planta do pé-HE epiderme-epitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato descamante : (ponta deseta) estrato corneo (3) estrato lucido (ca mada mais acidofila, apos camada granulosa) - (seta a)"
+                ",planta do pé-HE epiderme-epitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato descamante : (ponta deseta) estrato corneo (3) estrato lucido (ca mada mais acidofila, apos camada granulosa) - (seta a)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1047,7 +1047,7 @@
             {
               "id": "tf_pele_002",
               "titulo": "Pele, planta do pé - HE — camadas da epiderme",
-              "alt": "K1 - Pele, planta do pé - HE — Camadas da epiderme",
+              "alt": "- Pele, planta do pé - HE — Camadas da epiderme",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k1-2.jpg",
@@ -1057,7 +1057,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele,planta do pé-HE epiderme-iepitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato corneo: (三) estrato lucido ica mada mais acidofila apos camada granulosa) - (setaa) camadas da epiderme"
+                ",planta do pé-HE epiderme-iepitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato corneo: (三) estrato lucido ica mada mais acidofila apos camada granulosa) - (setaa) camadas da epiderme"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1087,7 +1087,7 @@
             {
               "id": "tf_pele_003",
               "titulo": "Pele, planta do pé - HE — derme reticular - (5)",
-              "alt": "K1 - Pele, planta do pé - HE — Derme Reticular - (5)",
+              "alt": "- Pele, planta do pé - HE — Derme Reticular - (5)",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k1-3.jpg",
@@ -1097,7 +1097,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele,planta do pé-HE epiderme-epitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato corneo estrato lucido ica mada mais acidofila, apos camada granulosa) - (seta a) camadas daepiderme"
+                ",planta do pé-HE epiderme-epitelio es tratificadopavimen tosoqueratinizado com queratinaespessa) camadasda queratina estrato corneo estrato lucido ica mada mais acidofila, apos camada granulosa) - (seta a) camadas daepiderme"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1127,7 +1127,7 @@
             {
               "id": "tf_pele_004",
               "titulo": "Pele, planta do pé - HE — glândula sudorípara - (circundado)",
-              "alt": "K1 - Pele, planta do pé - HE — Glândula sudorípara - (circundado)",
+              "alt": "- Pele, planta do pé - HE — Glândula sudorípara - (circundado)",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k1-4.jpg",
@@ -1137,7 +1137,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele,planta do pé-HE dermereticular tecido conjuntivo densonao-modelado glandula sudoripara (circundado tecido adiposo (*)"
+                ",planta do pé-HE dermereticular tecido conjuntivo densonao-modelado glandula sudoripara (circundado tecido adiposo (*)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1160,7 +1160,7 @@
             {
               "id": "tf_pele_005",
               "titulo": "Pele, planta do pé - HE — derme papilar - (seta longa)",
-              "alt": "K1 - Pele, planta do pé - HE — Derme Papilar - (seta longa)",
+              "alt": "- Pele, planta do pé - HE — Derme Papilar - (seta longa)",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k1_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k1-5.jpg",
@@ -1170,7 +1170,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele,planta do pé-HE glandula sudorípara partesecretora (seta 6) ducto excretor (seta 7)"
+                ",planta do pé-HE glandula sudorípara partesecretora (seta 6) ducto excretor (seta 7)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1191,7 +1191,7 @@
             {
               "id": "tf_pele_006",
               "titulo": "Pele, pavilhão da orelha — epiderme",
-              "alt": "K2 - Pele, pavilhão da orelha — Epiderme",
+              "alt": "- Pele, pavilhão da orelha — Epiderme",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k2-1.jpg",
@@ -1201,7 +1201,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele pavilhaoda orelha tricromicode MALLORY epiderme epitelio estratificado pavimentoso que ratinizado-(seta curtaj com queratina del gada - (seta longa) (mais simples e fina faltando-lhe frequentemente as camadas granulosa"
+                "Pavilhaoda orelha tricromicode MALLORY epiderme epitelio estratificado pavimentoso que ratinizado-(seta curtaj com queratina del gada - (seta longa) (mais simples e fina faltando-lhe frequentemente as camadas granulosa"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1231,7 +1231,7 @@
             {
               "id": "tf_pele_007",
               "titulo": "Pele, pavilhão da orelha",
-              "alt": "K2 - Pele, pavilhão da orelha",
+              "alt": "- Pele, pavilhão da orelha",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k2-2.jpg",
@@ -1241,7 +1241,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele pavilhao da orelha tricromicode MALLORY epiderme epitelio estratificado pavimentoso que ratinizado-(seta curta) com queratina del gada - (seta longa) (mais simples e fina faltando-lhe frequentementeas camadas granulosa"
+                "Pavilhao da orelha tricromicode MALLORY epiderme epitelio estratificado pavimentoso que ratinizado-(seta curta) com queratina del gada - (seta longa) (mais simples e fina faltando-lhe frequentementeas camadas granulosa"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1271,7 +1271,7 @@
             {
               "id": "tf_pele_008",
               "titulo": "Pele, pavilhão da orelha — derme (Tecido conjuntivo denso) - (1)",
-              "alt": "K2 - Pele, pavilhão da orelha — Derme (tecido conjuntivo Denso) - (1)",
+              "alt": "- Pele, pavilhão da orelha — Derme (Tecido conjuntivo Denso) - (1)",
               "urlImagem": "/data/histologia/atlas/11_pele/zoom/histo_11_pele_k2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "k2-3.jpg",
@@ -1281,7 +1281,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Pele pavilhao da orelha h.e epiderme epitelio estratificado pavimentoso que:ratinizado -(seta curta) com queratina del gada - (seta longa) (mais simples e fina) faltando-lhe frequentementeas camadas granulosa e lucida e apresen"
+                "Pavilhao da orelha h.e epiderme epitelio estratificado pavimentoso que:ratinizado -(seta curta) com queratina del gada - (seta longa) (mais simples e fina) faltando-lhe frequentementeas camadas granulosa e lucida e apresen"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -1317,7 +1317,7 @@
             {
               "id": "tf_conjuntivo_001",
               "titulo": "Derme - HE — Tecido conjuntivo denso não modelado - (a)",
-              "alt": "C10 - Derme - HE — Tecido conjuntivo denso não modelado - (a)",
+              "alt": "- Derme - HE — Tecido conjuntivo denso não modelado - (a)",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c10_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c10.jpg",
@@ -1348,7 +1348,7 @@
             {
               "id": "tf_conjuntivo_002",
               "titulo": "Tecido adiposo - HE — Tecido conjuntivo adiposo",
-              "alt": "C11 - Tecido Adiposo - HE — Tecido conjuntivo adiposo",
+              "alt": "- Tecido adiposo - HE — Tecido conjuntivo adiposo",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c11.jpg",
@@ -1382,7 +1382,7 @@
             {
               "id": "tf_conjuntivo_003",
               "titulo": "Processo infeccioso crônico - HE",
-              "alt": "C1 - Processo infeccioso crônico - HE",
+              "alt": "- Processo infeccioso crônico - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c1_04.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c1-04.jpg",
@@ -1409,7 +1409,7 @@
             {
               "id": "tf_conjuntivo_004",
               "titulo": "Processo infeccioso crônico - HE",
-              "alt": "C1 - Processo infeccioso crônico - HE",
+              "alt": "- Processo infeccioso crônico - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c1-1.jpg",
@@ -1439,7 +1439,7 @@
             {
               "id": "tf_conjuntivo_005",
               "titulo": "Processo infeccioso crônico - HE — processo infeccioso crônico",
-              "alt": "C1 - Processo infeccioso crônico - HE — Processo infeccioso crônico",
+              "alt": "- Processo infeccioso crônico - HE — Processo infeccioso crônico",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c1-2.jpg",
@@ -1473,7 +1473,7 @@
             {
               "id": "tf_conjuntivo_006",
               "titulo": "Processo infeccioso crônico - HE",
-              "alt": "C1 - Processo infeccioso crônico - HE",
+              "alt": "- Processo infeccioso crônico - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c1-3.jpg",
@@ -1503,7 +1503,7 @@
             {
               "id": "tf_conjuntivo_007",
               "titulo": "Granuloma de corpo estranho - HE — granuloma de corpo estranho - (circundado)",
-              "alt": "C2 - Granuloma de corpo estranho - HE — Granuloma de corpo estranho - (circundado)",
+              "alt": "- Granuloma de corpo estranho - HE — Granuloma de corpo estranho - (circundado)",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c2.jpg",
@@ -1534,7 +1534,7 @@
             {
               "id": "tf_conjuntivo_008",
               "titulo": "Granuloma de corpo estranho - HE",
-              "alt": "C2 - Granuloma de corpo estranho - HE",
+              "alt": "- Granuloma de corpo estranho - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c2-2.jpg",
@@ -1570,7 +1570,7 @@
             {
               "id": "tf_conjuntivo_009",
               "titulo": "Adenite tuberculosa - HE",
-              "alt": "C3 - Adenite tuberculosa - HE",
+              "alt": "- Adenite tuberculosa - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c3.jpg",
@@ -1606,7 +1606,7 @@
             {
               "id": "tf_conjuntivo_010",
               "titulo": "Mesentério - azul de toluidina",
-              "alt": "C4 - Mesentério - Azul de toluidina",
+              "alt": "- Mesentério - Azul de toluidina",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c4-1.jpg",
@@ -1637,7 +1637,7 @@
             {
               "id": "tf_conjuntivo_011",
               "titulo": "Mesentério - azul de toluidina",
-              "alt": "C4 - Mesentério - Azul de toluidina",
+              "alt": "- Mesentério - Azul de toluidina",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c4-2.jpg",
@@ -1668,7 +1668,7 @@
             {
               "id": "tf_conjuntivo_012",
               "titulo": "Fígado - coloração vital — células de kupffer",
-              "alt": "C5 - Fígado - Coloração vital — Células de Kupffer",
+              "alt": "- Fígado - Coloração vital — Células de Kupffer",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c5-1.jpg",
@@ -1704,7 +1704,7 @@
             {
               "id": "tf_conjuntivo_013",
               "titulo": "Fígado - coloração vital",
-              "alt": "C5 - Fígado - Coloração vital",
+              "alt": "- Fígado - Coloração vital",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c5-11.jpg",
@@ -1740,7 +1740,7 @@
             {
               "id": "tf_conjuntivo_014",
               "titulo": "Fígado - coloração vital",
-              "alt": "C5 - Fígado - Coloração vital",
+              "alt": "- Fígado - Coloração vital",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c5-2.jpg",
@@ -1776,7 +1776,7 @@
             {
               "id": "tf_conjuntivo_015",
               "titulo": "Fígado - coloração vital",
-              "alt": "C5 - Fígado - Coloração vital",
+              "alt": "- Fígado - Coloração vital",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c5_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c5-4.jpg",
@@ -1812,7 +1812,7 @@
             {
               "id": "tf_conjuntivo_016",
               "titulo": "Artéria de calibre grande - MALLORY — artéria de calibre grande",
-              "alt": "C6 - Artéria de calibre grande - Mallory — ARTÉRIA DE CALIBRE GRANDE",
+              "alt": "- Artéria de calibre grande - Mallory — ARTÉRIA DE CALIBRE GRANDE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c6-1.jpg",
@@ -1846,7 +1846,7 @@
             {
               "id": "tf_conjuntivo_017",
               "titulo": "Artéria de calibre grande - MALLORY",
-              "alt": "C6 - Artéria de calibre grande - Mallory",
+              "alt": "- Artéria de calibre grande - Mallory",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c6_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c6-2.jpg",
@@ -1879,7 +1879,7 @@
             {
               "id": "tf_conjuntivo_018",
               "titulo": "Artéria de calibre grande - weigert",
-              "alt": "C7 - Artéria de calibre grande - Weigert",
+              "alt": "- Artéria de calibre grande - Weigert",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c7-1.jpg",
@@ -1912,7 +1912,7 @@
             {
               "id": "tf_conjuntivo_019",
               "titulo": "Artéria de calibre grande - weigert — mesentério - lâminas elásticas",
-              "alt": "C7 - Artéria de calibre grande - Weigert — Mesentério - Lâminas elásticas",
+              "alt": "- Artéria de calibre grande - Weigert — Mesentério - Lâminas elásticas",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c7-2.jpg",
@@ -1945,7 +1945,7 @@
             {
               "id": "tf_conjuntivo_020",
               "titulo": "Mesentério - hart — fibras elástica coradas em azul - (a)",
-              "alt": "C7 - Mesentério - Hart — Fibras elástica coradas em azul - (a)",
+              "alt": "- Mesentério - Hart — Fibras elástica coradas em azul - (a)",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c7_3.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c7-3.jpg",
@@ -1972,7 +1972,7 @@
             {
               "id": "tf_conjuntivo_021",
               "titulo": "Mesentério - hart",
-              "alt": "C7 - Mesentério - Hart",
+              "alt": "- Mesentério - Hart",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c7_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c7-4.jpg",
@@ -2003,7 +2003,7 @@
             {
               "id": "tf_conjuntivo_022",
               "titulo": "Fígado - PRATA — fibras reticulares e colágenas",
-              "alt": "C8 - Fígado - Prata — Fibras reticulares e Colágenas",
+              "alt": "- Fígado - Prata — Fibras reticulares e Colágenas",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/histo_3_conjuntivo_c8_1.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c8-1.jpg",
@@ -2030,7 +2030,7 @@
             {
               "id": "tf_conjuntivo_023",
               "titulo": "Fígado - PRATA",
-              "alt": "C8 - Fígado - Prata",
+              "alt": "- Fígado - Prata",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c8_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c8-2.jpg",
@@ -2062,7 +2062,7 @@
             {
               "id": "tf_conjuntivo_024",
               "titulo": "Tendão - HE — Tecido conjuntivo denso modelado",
-              "alt": "C9 - Tendão - HE — Tecido conjuntivo denso modelado",
+              "alt": "- Tendão - HE — Tecido conjuntivo denso modelado",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c9-1.jpg",
@@ -2096,7 +2096,7 @@
             {
               "id": "tf_conjuntivo_025",
               "titulo": "Tendão - HE",
-              "alt": "C9 - Tendão - HE",
+              "alt": "- Tendão - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c9-2.jpg",
@@ -2130,7 +2130,7 @@
             {
               "id": "tf_conjuntivo_026",
               "titulo": "Tendão - HE",
-              "alt": "C9 - Tendão - HE",
+              "alt": "- Tendão - HE",
               "urlImagem": "/data/histologia/atlas/3_conjuntivo/zoom/histo_3_conjuntivo_c9_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "c9-3.jpg",
@@ -2179,7 +2179,7 @@
             {
               "id": "se_cartilagem_001",
               "titulo": "Traqueia - HE — Cartilagem hialina - HE",
-              "alt": "D1 - Traqueia - HE — Cartilagem Hialina - HE",
+              "alt": "- Traqueia - HE — Cartilagem hialina - HE",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d1_1.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d1-1.jpg",
@@ -2206,7 +2206,7 @@
             {
               "id": "se_cartilagem_002",
               "titulo": "Traqueia - HE — matriz",
-              "alt": "D1 - Traqueia - HE — Matriz",
+              "alt": "- Traqueia - HE — Matriz",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d1-2.jpg",
@@ -2246,7 +2246,7 @@
             {
               "id": "se_cartilagem_003",
               "titulo": "Pavilhão da orelha - MALLORY — cartilagem elástica",
-              "alt": "D2 - Pavilhão da orelha - Mallory — Cartilagem Elástica",
+              "alt": "- Pavilhão da orelha - Mallory — Cartilagem Elástica",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_01_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d2-01.jpg",
@@ -2276,7 +2276,7 @@
             {
               "id": "se_cartilagem_004",
               "titulo": "Pavilhão da orelha - MALLORY",
-              "alt": "D2 - Pavilhão da orelha - Mallory",
+              "alt": "- Pavilhão da orelha - Mallory",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d2_03_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d2-03.jpg",
@@ -2310,7 +2310,7 @@
             {
               "id": "se_cartilagem_005",
               "titulo": "Pavilhão da orelha - MALLORY",
-              "alt": "D2 - Pavilhão da orelha - Mallory",
+              "alt": "- Pavilhão da orelha - Mallory",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/histo_4_cartilagem_d2_1.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d2-1.jpg",
@@ -2337,7 +2337,7 @@
             {
               "id": "se_cartilagem_006",
               "titulo": "Menisco - HE",
-              "alt": "D3 - Menisco - HE",
+              "alt": "- Menisco - HE",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_01_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d3-01.jpg",
@@ -2347,7 +2347,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Cartilagem fibrosa-HE artefato de técnica (ponta de seta)"
+                "Artefato de técnica (ponta de seta)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2367,7 +2367,7 @@
             {
               "id": "se_cartilagem_007",
               "titulo": "Menisco - HE",
-              "alt": "D3 - Menisco - HE",
+              "alt": "- Menisco - HE",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_02_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d3-02.jpg",
@@ -2377,7 +2377,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Cartilagem fibrosa-HE ausencia de pericondrio condrocitos formando grupos isógenos axiais - (b) matriz apresentando grande quantidade de fibras colagenas (c)"
+                "Ausencia de pericondrio condrocitos formando grupos isógenos axiais - (b) matriz apresentando grande quantidade de fibras colagenas (c)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2404,7 +2404,7 @@
             {
               "id": "se_cartilagem_008",
               "titulo": "Menisco - HE",
-              "alt": "D3 - Menisco - HE",
+              "alt": "- Menisco - HE",
               "urlImagem": "/data/histologia/atlas/4_cartilagem/zoom/histo_4_cartilagem_d3_03_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "d3-03.jpg",
@@ -2414,7 +2414,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Cartilagem fibrosa-HE ausencia de pericondrio condrocitos formando grupos isógenos axiais - (b) matriz apresentando grande quantidade de fibras colagenas (c) com poucas celulas"
+                "Ausencia de pericondrio condrocitos formando grupos isógenos axiais - (b) matriz apresentando grande quantidade de fibras colagenas (c) com poucas celulas"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2448,7 +2448,7 @@
             {
               "id": "se_osso_001",
               "titulo": "Osso compacto desgastado (corte transversal do fêmur)",
-              "alt": "E1 - Osso compacto desgastado (corte transversal do fêmur)",
+              "alt": "- Osso compacto desgastado (corte transversal do fêmur)",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e12.jpg",
@@ -2458,7 +2458,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Ossocompactodesgastado icorte transversaldofemur sistema intermediario (remanescentedo sis tema de havers) (b) sistema de havers (os teon) - (c) canal de volkmann : (seta d)"
+                "Compactodesgastado icorte transversaldofemur sistema intermediario (remanescentedo sis tema de havers) (b) sistema de havers (os teon) - (c) canal de volkmann : (seta d)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2481,7 +2481,7 @@
             {
               "id": "se_osso_002",
               "titulo": "Osso compacto desgastado (corte transversal do fêmur) — sistema de havers (osteon) - (c)",
-              "alt": "E1 - Osso compacto desgastado (corte transversal do fêmur) — Sistema de Havers (Osteon) - (c)",
+              "alt": "- Osso compacto desgastado (corte transversal do fêmur) — Sistema de Havers (Osteon) - (c)",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e13.jpg",
@@ -2491,7 +2491,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Ossocompactodesgastado icorte transversaldofemur sistema intermediario (remanescente do sis tema de havers) - (b) lamelas concentri cas - (1) osteoplastos - (2) canal de havers - (3)"
+                "Compactodesgastado icorte transversaldofemur sistema intermediario (remanescente do sis tema de havers) - (b) lamelas concentri cas - (1) osteoplastos - (2) canal de havers - (3)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2515,7 +2515,7 @@
             {
               "id": "se_osso_003",
               "titulo": "Osso esponjoso desgastado(crânio) — parte esponjosa:",
-              "alt": "E2 - Osso esponjoso desgastado(crânio) — Parte esponjosa:",
+              "alt": "- Osso esponjoso desgastado(crânio) — Parte esponjosa:",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e2-1.jpg",
@@ -2525,7 +2525,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Ossoesponjoso desgastadoicranio parteesponjosa:trabeculas osseas constituidas de lami nulas - (b)"
+                "Esponjoso desgastadoicranio parteesponjosa:trabeculas osseas constituidas de lami nulas - (b)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2547,7 +2547,7 @@
             {
               "id": "se_osso_004",
               "titulo": "Osso esponjoso desgastado(crânio)",
-              "alt": "E2 - Osso esponjoso desgastado(crânio)",
+              "alt": "- Osso esponjoso desgastado(crânio)",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e2-2.jpg",
@@ -2579,7 +2579,7 @@
             {
               "id": "se_osso_005",
               "titulo": "Osso desmineralizado - HE",
-              "alt": "E3 - Osso desmineralizado - HE",
+              "alt": "- Osso desmineralizado - HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e3.jpg",
@@ -2589,7 +2589,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Osso desmineralizado-HE trabeculas osseas (a) osteoblastos (seta 1) osteocitos (seta 2) ostoclastos em coluna de reabsor cao (howship) (seta3)"
+                "Desmineralizado-HE trabeculas osseas (a) osteoblastos (seta 1) osteocitos (seta 2) ostoclastos em coluna de reabsor cao (howship) (seta3)"
               ],
               "legendaCategorias": [
                 "Estrutura",
@@ -2612,7 +2612,7 @@
             {
               "id": "se_osso_006",
               "titulo": "Osso desmineralizado - HE",
-              "alt": "E3 - Osso desmineralizado - HE",
+              "alt": "- Osso desmineralizado - HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e32.jpg",
@@ -2622,7 +2622,7 @@
               "urlImagemRecorte": null,
               "classificacaoRelevancia": "alta",
               "legendaTranscrita": [
-                "Osso desmineralizado-HE (matriz desminerali 30histo zada) - (b) osteoblastos (seta 1) osteocitos (seta 2) ostoclastos em coluna de reabsor cao (howship) (seta 3)"
+                "Desmineralizado-HE (matriz desminerali 30histo zada) - (b) osteoblastos (seta 1) osteocitos (seta 2) ostoclastos em coluna de reabsor cao (howship) (seta 3)"
               ],
               "legendaCategorias": [
                 "Matriz/Fibra",
@@ -2646,7 +2646,7 @@
             {
               "id": "se_osso_007",
               "titulo": "Ossificação endocondral -HE",
-              "alt": "E4 - Ossificação Endocondral -HE",
+              "alt": "- Ossificação Endocondral -HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e4.jpg",
@@ -2678,7 +2678,7 @@
             {
               "id": "se_osso_008",
               "titulo": "Ossificação endocondral -HE",
-              "alt": "E4 - Ossificação Endocondral -HE",
+              "alt": "- Ossificação Endocondral -HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e43_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e43.jpg",
@@ -2714,7 +2714,7 @@
             {
               "id": "se_osso_009",
               "titulo": "Cabeça de feto- HE — ossificação intramembramosa",
-              "alt": "E5 - Cabeça de feto- HE — Ossificação intramembramosa",
+              "alt": "- Cabeça de feto- HE — Ossificação intramembramosa",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e5.jpg",
@@ -2749,7 +2749,7 @@
             {
               "id": "se_osso_010",
               "titulo": "Cabeça de feto- HE",
-              "alt": "E5 - Cabeça de feto- HE",
+              "alt": "- Cabeça de feto- HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e52_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e52.jpg",
@@ -2787,7 +2787,7 @@
             {
               "id": "se_osso_011",
               "titulo": "Disco epifisário (Cartilagem hialina)- HE — ossificação endocondral",
-              "alt": "E6 - Disco epifisário (cartilagem hialina)- HE — Ossificação endocondral",
+              "alt": "- Disco epifisário (Cartilagem hialina)- HE — Ossificação endocondral",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e6.jpg",
@@ -2820,7 +2820,7 @@
             {
               "id": "se_osso_012",
               "titulo": "Disco epifisário (Cartilagem hialina)- HE",
-              "alt": "E6 - Disco epifisário (cartilagem hialina)- HE",
+              "alt": "- Disco epifisário (Cartilagem hialina)- HE",
               "urlImagem": "/data/histologia/atlas/5_osso/zoom/histo_5_osso_e62_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "e62.jpg",
@@ -2880,7 +2880,7 @@
             {
               "id": "sm_histologia_001",
               "titulo": "Língua, porção anterior - h.e / h.f — músculo estriado esquelético",
-              "alt": "F1 - Língua, porção anterior - H.E / H.F — Músculo estriado esquelético",
+              "alt": "- Língua, porção anterior - H.E / H.F — Músculo estriado esquelético",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f1.jpg",
@@ -2919,7 +2919,7 @@
             {
               "id": "sm_histologia_002",
               "titulo": "Língua, porção anterior - h.e / h.f",
-              "alt": "F1 - Língua, porção anterior - H.E / H.F",
+              "alt": "- Língua, porção anterior - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f1-2.jpg",
@@ -2956,7 +2956,7 @@
             {
               "id": "sm_histologia_003",
               "titulo": "Língua, porção anterior - h.e / h.f",
-              "alt": "F1 - Língua, porção anterior - H.E / H.F",
+              "alt": "- Língua, porção anterior - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f1-3.jpg",
@@ -2995,7 +2995,7 @@
             {
               "id": "sm_histologia_004",
               "titulo": "Coração - h.e / h.f — músculo estriado cardíaco",
-              "alt": "F2 - Coração - H.E / H.F — Músculo estriado cardíaco",
+              "alt": "- Coração - H.E / H.F — Músculo estriado cardíaco",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f2.jpg",
@@ -3034,7 +3034,7 @@
             {
               "id": "sm_histologia_005",
               "titulo": "Coração - h.e / h.f",
-              "alt": "F2 - Coração - H.E / H.F",
+              "alt": "- Coração - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f22_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f22.jpg",
@@ -3073,7 +3073,7 @@
             {
               "id": "sm_histologia_006",
               "titulo": "Coração - h.e / h.f",
-              "alt": "F2 - Coração - H.E / H.F",
+              "alt": "- Coração - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f2-3.jpg",
@@ -3112,7 +3112,7 @@
             {
               "id": "sm_histologia_007",
               "titulo": "Útero - HE jejuno-íleo - HE — músculo liso",
-              "alt": "F3 - Útero - HE F3: Jejuno-íleo - HE — Músculo liso",
+              "alt": "- Útero - HE Jejuno-íleo - HE — Músculo liso",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f3.jpg",
@@ -3148,7 +3148,7 @@
             {
               "id": "sm_histologia_008",
               "titulo": "Útero - HE jejuno-íleo - HE",
-              "alt": "F3 - Útero - HE F3: Jejuno-íleo - HE",
+              "alt": "- Útero - HE Jejuno-íleo - HE",
               "urlImagem": "/data/histologia/atlas/6_musculo/zoom/histo_6_musculo_f32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "f32.jpg",
@@ -3193,7 +3193,7 @@
             {
               "id": "sc_linfoide_001",
               "titulo": "Linfonodo - HE — cápsula - (seta a)",
-              "alt": "I1 - Linfonodo - HE — Cápsula - (seta a)",
+              "alt": "- Linfonodo - HE — Cápsula - (seta a)",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l11.jpg",
@@ -3233,7 +3233,7 @@
             {
               "id": "sc_linfoide_002",
               "titulo": "Linfonodo - HE",
-              "alt": "I1 - Linfonodo - HE",
+              "alt": "- Linfonodo - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l12.jpg",
@@ -3273,7 +3273,7 @@
             {
               "id": "sc_linfoide_003",
               "titulo": "Linfonodo - HE — cortical (externa) - (*)",
-              "alt": "I1 - Linfonodo - HE — Cortical (externa) - (*)",
+              "alt": "- Linfonodo - HE — Cortical (externa) - (*)",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l13.jpg",
@@ -3307,7 +3307,7 @@
             {
               "id": "sc_linfoide_004",
               "titulo": "Timo - HE — cápsula - (1)",
-              "alt": "I2 - Timo - HE — Cápsula - (1)",
+              "alt": "- Timo - HE — Cápsula - (1)",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l21_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l21.jpg",
@@ -3345,7 +3345,7 @@
             {
               "id": "sc_linfoide_005",
               "titulo": "Timo - HE — lóbulos - (circundado)",
-              "alt": "I2 - Timo - HE — Lóbulos - (circundado)",
+              "alt": "- Timo - HE — Lóbulos - (circundado)",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l22_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l22.jpg",
@@ -3377,7 +3377,7 @@
             {
               "id": "sc_linfoide_006",
               "titulo": "Baço - HE",
-              "alt": "I3 - Baço - HE",
+              "alt": "- Baço - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l31_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l31.jpg",
@@ -3411,7 +3411,7 @@
             {
               "id": "sc_linfoide_007",
               "titulo": "Baço - HE",
-              "alt": "I3 - Baço - HE",
+              "alt": "- Baço - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l32.jpg",
@@ -3449,7 +3449,7 @@
             {
               "id": "sc_linfoide_008",
               "titulo": "Baço - HE",
-              "alt": "I3 - Baço - HE",
+              "alt": "- Baço - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l33_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l33.jpg",
@@ -3488,7 +3488,7 @@
             {
               "id": "sc_linfoide_009",
               "titulo": "Tonsila palatina (amígdala) - HE",
-              "alt": "I4 - Tonsila palatina (amígdala) - HE",
+              "alt": "- Tonsila palatina (amígdala) - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l41_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l41.jpg",
@@ -3525,7 +3525,7 @@
             {
               "id": "sc_linfoide_010",
               "titulo": "Tonsila palatina (amígdala) - HE",
-              "alt": "I4 - Tonsila palatina (amígdala) - HE",
+              "alt": "- Tonsila palatina (amígdala) - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l42_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l42.jpg",
@@ -3558,7 +3558,7 @@
             {
               "id": "sc_linfoide_011",
               "titulo": "Íleo: placa de peyer - HE",
-              "alt": "I5 - Íleo: Placa de Peyer - HE",
+              "alt": "- Íleo: Placa de Peyer - HE",
               "urlImagem": "/data/histologia/atlas/9_linfatico/zoom/histo_9_linfatico_l5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l5.jpg",
@@ -3594,7 +3594,7 @@
             {
               "id": "sc_vasos_001",
               "titulo": "Coração - HE — epicárdio - (a) imagem 1",
-              "alt": "H1 - Coração - HE — Epicárdio - (a) imagem 1",
+              "alt": "- Coração - HE — Epicárdio - (a) imagem 1",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h11.jpg",
@@ -3632,7 +3632,7 @@
             {
               "id": "sc_vasos_002",
               "titulo": "Coração - HE — epicárdio - (a) imagem 2",
-              "alt": "H1 - Coração - HE — Epicárdio - (a) imagem 2",
+              "alt": "- Coração - HE — Epicárdio - (a) imagem 2",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h12.jpg",
@@ -3672,7 +3672,7 @@
             {
               "id": "sc_vasos_003",
               "titulo": "Coração - HE — endocardio",
-              "alt": "H1 - Coração - HE — Endocardio",
+              "alt": "- Coração - HE — Endocardio",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h13.jpg",
@@ -3705,7 +3705,7 @@
             {
               "id": "sc_vasos_004",
               "titulo": "Coração - HE — miocárdio",
-              "alt": "H1 - Coração - HE — Miocárdio",
+              "alt": "- Coração - HE — Miocárdio",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h14_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h14.jpg",
@@ -3736,7 +3736,7 @@
             {
               "id": "sc_vasos_005",
               "titulo": "Coração - HF — músculo estriado cardíaco (miocárdio)",
-              "alt": "H2 - Coração - HF — Músculo estriado cardíaco (miocárdio)",
+              "alt": "- Coração - HF — Músculo estriado cardíaco (miocárdio)",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h21_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h21.jpg",
@@ -3769,7 +3769,7 @@
             {
               "id": "sc_vasos_006",
               "titulo": "Artéria de calibre grande (tipo elástico) - weigert (fucsina) — lâminas elásticas coradas especificamente - (seta amarela)",
-              "alt": "H3 - Artéria de calibre grande (tipo elástico) - Weigert (fucsina) — Lâminas elásticas coradas especificamente - (seta amarela)",
+              "alt": "- Artéria de calibre grande (tipo elástico) - Weigert (fucsina) — Lâminas elásticas coradas especificamente - (seta amarela)",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h31_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h31.jpg",
@@ -3801,7 +3801,7 @@
             {
               "id": "sc_vasos_007",
               "titulo": "Artéria de calibre grande (tipo elástico) - MALLORY",
-              "alt": "H4 - Artéria de calibre grande (tipo elástico) - Mallory",
+              "alt": "- Artéria de calibre grande (tipo elástico) - Mallory",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h41_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h41.jpg",
@@ -3841,7 +3841,7 @@
             {
               "id": "sc_vasos_008",
               "titulo": "Artéria de calibre grande (tipo elástico) - MALLORY",
-              "alt": "H4 - Artéria de calibre grande (tipo elástico) - Mallory",
+              "alt": "- Artéria de calibre grande (tipo elástico) - Mallory",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h42_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h42.jpg",
@@ -3874,7 +3874,7 @@
             {
               "id": "sc_vasos_009",
               "titulo": "Artéria de calibre médio (tipo muscular) - HE — túnica íntima ou interna - (a)",
-              "alt": "H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica íntima ou interna - (a)",
+              "alt": "- Artéria de calibre médio (tipo muscular) - HE — Túnica íntima ou interna - (a)",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h51_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h51.jpg",
@@ -3907,7 +3907,7 @@
             {
               "id": "sc_vasos_010",
               "titulo": "Artéria de calibre médio (tipo muscular) - HE — túnica média - (b)",
-              "alt": "H5 - Artéria de calibre médio (tipo muscular) - HE — Túnica média - (b)",
+              "alt": "- Artéria de calibre médio (tipo muscular) - HE — Túnica média - (b)",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h52_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h52.jpg",
@@ -3947,7 +3947,7 @@
             {
               "id": "sc_vasos_011",
               "titulo": "Artéria de calibre médio (tipo muscular) - HE",
-              "alt": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+              "alt": "- Artéria de calibre médio (tipo muscular) - HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h53_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h53.jpg",
@@ -3982,7 +3982,7 @@
             {
               "id": "sc_vasos_012",
               "titulo": "Artéria de calibre médio (tipo muscular) - HE",
-              "alt": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+              "alt": "- Artéria de calibre médio (tipo muscular) - HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h54_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h54.jpg",
@@ -4014,7 +4014,7 @@
             {
               "id": "sc_vasos_013",
               "titulo": "Artéria de calibre médio (tipo muscular) - HE",
-              "alt": "H5 - Artéria de calibre médio (tipo muscular) - HE",
+              "alt": "- Artéria de calibre médio (tipo muscular) - HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h55_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h55.jpg",
@@ -4047,7 +4047,7 @@
             {
               "id": "sc_vasos_014",
               "titulo": "Vaso linfático - HE — vaso linfático",
-              "alt": "H6 - VASO LINFÁTICO - HE — Vaso linfático",
+              "alt": "- VASO LINFÁTICO - HE — Vaso linfático",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h61_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h61.jpg",
@@ -4083,7 +4083,7 @@
             {
               "id": "sc_vasos_015",
               "titulo": "Vaso linfático - HE",
-              "alt": "H6 - VASO LINFÁTICO - HE",
+              "alt": "- VASO LINFÁTICO - HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h62_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h62.jpg",
@@ -4121,7 +4121,7 @@
             {
               "id": "sc_vasos_016",
               "titulo": "Arteríolas, vênulas e capilares sanguíneos- HE",
-              "alt": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+              "alt": "- Arteríolas, Vênulas e capilares sanguíneos- HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h71_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h71.jpg",
@@ -4151,7 +4151,7 @@
             {
               "id": "sc_vasos_017",
               "titulo": "Arteríolas, vênulas e capilares sanguíneos- HE",
-              "alt": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+              "alt": "- Arteríolas, Vênulas e capilares sanguíneos- HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h72_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h72.jpg",
@@ -4180,7 +4180,7 @@
             {
               "id": "sc_vasos_018",
               "titulo": "Arteríolas, vênulas e capilares sanguíneos- HE",
-              "alt": "H7 - Arteríolas, Vênulas e capilares sanguíneos- HE",
+              "alt": "- Arteríolas, Vênulas e capilares sanguíneos- HE",
               "urlImagem": "/data/histologia/atlas/8_vascular/zoom/histo_8_vascular_h73_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "h73.jpg",
@@ -4226,7 +4226,7 @@
             {
               "id": "sr_laminas_atlas_001",
               "titulo": "Traqueia - HE",
-              "alt": "L1 - Traqueia - HE",
+              "alt": "- Traqueia - HE",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l1-1.jpg",
@@ -4253,7 +4253,7 @@
             {
               "id": "sr_laminas_atlas_002",
               "titulo": "Traqueia - HE — mucosa",
-              "alt": "L1 - Traqueia - HE — Mucosa",
+              "alt": "- Traqueia - HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l1-2.jpg",
@@ -4291,7 +4291,7 @@
             {
               "id": "sr_laminas_atlas_003",
               "titulo": "Traqueia - HE — submucosa",
-              "alt": "L1 - Traqueia - HE — Submucosa",
+              "alt": "- Traqueia - HE — Submucosa",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l1-3.jpg",
@@ -4331,7 +4331,7 @@
             {
               "id": "sr_laminas_atlas_004",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — alvéolo - (h)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Alvéolo - (H)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Alvéolo - (H)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-1.jpg",
@@ -4368,7 +4368,7 @@
             {
               "id": "sr_laminas_atlas_005",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — pleura visceral - (seta 1)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Pleura visceral - (seta 1)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Pleura visceral - (seta 1)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-3.jpg",
@@ -4403,7 +4403,7 @@
             {
               "id": "sr_laminas_atlas_006",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — brônquio lobar (grande brônquio de distribuição) - (seta a)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Lobar (grande brônquio de distribuição) - (seta A)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Brônquio Lobar (grande brônquio de distribuição) - (seta A)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-4.jpg",
@@ -4443,7 +4443,7 @@
             {
               "id": "sr_laminas_atlas_007",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — p.p.d. - propriamente dito - (seta c)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — P.P.D. - propriamente dito - (seta C)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — P.P.D. - propriamente dito - (seta C)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-5.jpg",
@@ -4483,7 +4483,7 @@
             {
               "id": "sr_laminas_atlas_008",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — terminal - (seta d)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Terminal - (seta D)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Terminal - (seta D)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-6.jpg",
@@ -4523,7 +4523,7 @@
             {
               "id": "sr_laminas_atlas_009",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — respiratório - (e)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Respiratório - (E)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Respiratório - (E)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_7_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-7.jpg",
@@ -4563,7 +4563,7 @@
             {
               "id": "sr_laminas_atlas_010",
               "titulo": "Pulmão, porção proximal - HE - pulmão, porção distal - HE — brônquio segmentar (interlobular) - (seta b)",
-              "alt": "L2 - Pulmão, porção proximal - HE L3 - Pulmão, porção distal - HE — Brônquio Segmentar (interlobular) - (seta B)",
+              "alt": "- Pulmão, porção proximal - HE - Pulmão, porção distal - HE — Brônquio Segmentar (interlobular) - (seta B)",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l2_9_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l2-9.jpg",
@@ -4603,7 +4603,7 @@
             {
               "id": "sr_laminas_atlas_011",
               "titulo": "Pulmão fetal - HE",
-              "alt": "L4 - Pulmão fetal - HE",
+              "alt": "- Pulmão fetal - HE",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l4-1.jpg",
@@ -4636,7 +4636,7 @@
             {
               "id": "sr_laminas_atlas_012",
               "titulo": "Pulmão fetal - HE",
-              "alt": "L4 - Pulmão fetal - HE",
+              "alt": "- Pulmão fetal - HE",
               "urlImagem": "/data/histologia/atlas/12_respiratorio/zoom/histo_12_respiratorio_l4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "l4-2.jpg",
@@ -4684,7 +4684,7 @@
             {
               "id": "sd_laminas_atlas_001",
               "titulo": "Íleo: placa de peyer - HE — mucosa - (a)",
-              "alt": "J10 - Íleo: Placa de Peyer - HE — Mucosa - (A)",
+              "alt": "- Íleo: Placa de Peyer - HE — Mucosa - (A)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j101_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j101.jpg",
@@ -4724,7 +4724,7 @@
             {
               "id": "sd_laminas_atlas_002",
               "titulo": "Íleo: placa de peyer - HE — submucosa - (b)",
-              "alt": "J10 - Íleo: Placa de Peyer - HE — Submucosa - (B)",
+              "alt": "- Íleo: Placa de Peyer - HE — Submucosa - (B)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j102_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j102.jpg",
@@ -4764,7 +4764,7 @@
             {
               "id": "sd_laminas_atlas_003",
               "titulo": "Íleo: placa de peyer - HE — muscular (músculo liso) - (c)",
-              "alt": "J10 - Íleo: Placa de Peyer - HE — Muscular (músculo liso) - (C)",
+              "alt": "- Íleo: Placa de Peyer - HE — Muscular (músculo liso) - (C)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j103_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j103.jpg",
@@ -4804,7 +4804,7 @@
             {
               "id": "sd_laminas_atlas_004",
               "titulo": "/língua, porção anterior- HE — mucosa ventral",
-              "alt": "J1/J2-Língua, porção anterior- HE — Mucosa ventral",
+              "alt": "/Língua, porção anterior- HE — Mucosa ventral",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j11.jpg",
@@ -4844,7 +4844,7 @@
             {
               "id": "sd_laminas_atlas_005",
               "titulo": "Apêndice vermiforme ou cecal- HE — mucosa",
-              "alt": "J11 - Apêndice vermiforme ou cecal- HE — Mucosa",
+              "alt": "- Apêndice vermiforme ou cecal- HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j111_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j111.jpg",
@@ -4884,7 +4884,7 @@
             {
               "id": "sd_laminas_atlas_006",
               "titulo": "Apêndice vermiforme ou cecal- HE — submucosa - (4)",
-              "alt": "J11 - Apêndice vermiforme ou cecal- HE — Submucosa - (4)",
+              "alt": "- Apêndice vermiforme ou cecal- HE — Submucosa - (4)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j112_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j112.jpg",
@@ -4924,7 +4924,7 @@
             {
               "id": "sd_laminas_atlas_007",
               "titulo": "/língua, porção anterior- HE — feixe vásculo-nervoso",
-              "alt": "J1/J2-Língua, porção anterior- HE — Feixe vásculo-nervoso",
+              "alt": "/Língua, porção anterior- HE — Feixe vásculo-nervoso",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j12.jpg",
@@ -4959,7 +4959,7 @@
             {
               "id": "sd_laminas_atlas_008",
               "titulo": "/língua, porção anterior- HE — mucosa dorsal",
-              "alt": "J1/J2-Língua, porção anterior- HE — Mucosa dorsal",
+              "alt": "/Língua, porção anterior- HE — Mucosa dorsal",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j13.jpg",
@@ -4997,7 +4997,7 @@
             {
               "id": "sd_laminas_atlas_009",
               "titulo": "Intestino grosso, corte longitudinal - HE — muscular (músculo liso) - (c)",
-              "alt": "J13 - Intestino grosso, corte Longitudinal - HE — Muscular (músculo liso) - (C)",
+              "alt": "- Intestino grosso, corte Longitudinal - HE — Muscular (músculo liso) - (C)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j133_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j133.jpg",
@@ -5037,7 +5037,7 @@
             {
               "id": "sd_laminas_atlas_010",
               "titulo": "Intestino grosso, corte longitudinal - HE — serosa (delgada)- (d)",
-              "alt": "J13 - Intestino grosso, corte Longitudinal - HE — Serosa (delgada)- (D)",
+              "alt": "- Intestino grosso, corte Longitudinal - HE — Serosa (delgada)- (D)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j134_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j134.jpg",
@@ -5069,7 +5069,7 @@
             {
               "id": "sd_laminas_atlas_011",
               "titulo": "Glândula parótida-HE — glândula multilobulada",
-              "alt": "J14-Glândula parótida-HE — Glândula multilobulada",
+              "alt": "Glândula parótida-HE — Glândula multilobulada",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j141_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j141.jpg",
@@ -5102,7 +5102,7 @@
             {
               "id": "sd_laminas_atlas_012",
               "titulo": "Glândula parótida-HE — excretor - (3)",
-              "alt": "J14-Glândula parótida-HE — Excretor - (3)",
+              "alt": "Glândula parótida-HE — Excretor - (3)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j142_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j142.jpg",
@@ -5136,7 +5136,7 @@
             {
               "id": "sd_laminas_atlas_013",
               "titulo": "Glândula parótida-HE — cápsula - (seta a)",
-              "alt": "J14-Glândula parótida-HE — Cápsula - (seta A)",
+              "alt": "Glândula parótida-HE — Cápsula - (seta A)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j143_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j143.jpg",
@@ -5172,7 +5172,7 @@
             {
               "id": "sd_laminas_atlas_014",
               "titulo": "Glândula parótida-HE — estriado - (2)",
-              "alt": "J14-Glândula parótida-HE — Estriado - (2)",
+              "alt": "Glândula parótida-HE — Estriado - (2)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j144_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j144.jpg",
@@ -5204,7 +5204,7 @@
             {
               "id": "sd_laminas_atlas_015",
               "titulo": "Glândula submandibular - HE — glândula multilobulada",
-              "alt": "J15 - Glândula submandibular - HE — Glândula multilobulada",
+              "alt": "- Glândula submandibular - HE — Glândula multilobulada",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j151_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j151.jpg",
@@ -5244,7 +5244,7 @@
             {
               "id": "sd_laminas_atlas_016",
               "titulo": "Glândula submandibular - HE — ductos",
-              "alt": "J15 - Glândula submandibular - HE — Ductos",
+              "alt": "- Glândula submandibular - HE — Ductos",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j152_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j152.jpg",
@@ -5281,7 +5281,7 @@
             {
               "id": "sd_laminas_atlas_017",
               "titulo": "Glândula submandibular - HE",
-              "alt": "J15 - Glândula submandibular - HE",
+              "alt": "- Glândula submandibular - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j153_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j153.jpg",
@@ -5317,7 +5317,7 @@
             {
               "id": "sd_laminas_atlas_018",
               "titulo": "Glândula submandibular - HE — excretor - (3)",
-              "alt": "J15 - Glândula submandibular - HE — Excretor - (3)",
+              "alt": "- Glândula submandibular - HE — Excretor - (3)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j154_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j154.jpg",
@@ -5357,7 +5357,7 @@
             {
               "id": "sd_laminas_atlas_019",
               "titulo": "Glândula sublingual - HE — glândula multilobulada",
-              "alt": "J16 - Glândula sublingual - HE — Glândula multilobulada",
+              "alt": "- Glândula sublingual - HE — Glândula multilobulada",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j161_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j161.jpg",
@@ -5395,7 +5395,7 @@
             {
               "id": "sd_laminas_atlas_020",
               "titulo": "Glândula sublingual - HE — ductos",
-              "alt": "J16 - Glândula sublingual - HE — Ductos",
+              "alt": "- Glândula sublingual - HE — Ductos",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j162_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j162.jpg",
@@ -5435,7 +5435,7 @@
             {
               "id": "sd_laminas_atlas_021",
               "titulo": "Glândula sublingual - HE — estriado - (2)",
-              "alt": "J16 - Glândula sublingual - HE — Estriado - (2)",
+              "alt": "- Glândula sublingual - HE — Estriado - (2)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j163_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j163.jpg",
@@ -5474,7 +5474,7 @@
             {
               "id": "sd_laminas_atlas_022",
               "titulo": "Pâncreas - HE — exócrino formados por ácinos serosos (glândula serosa pura) e ductos",
-              "alt": "J17-Pâncreas - HE — Exócrino Formados por ácinos serosos (glândula serosa pura) e ductos",
+              "alt": "Pâncreas - HE — Exócrino Formados por ácinos serosos (glândula serosa pura) e ductos",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j171_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j171.jpg",
@@ -5512,7 +5512,7 @@
             {
               "id": "sd_laminas_atlas_023",
               "titulo": "Pâncreas - HE",
-              "alt": "J17-Pâncreas - HE",
+              "alt": "Pâncreas - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j172_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j172.jpg",
@@ -5548,7 +5548,7 @@
             {
               "id": "sd_laminas_atlas_024",
               "titulo": "Pâncreas - HE — endócrino",
-              "alt": "J17-Pâncreas - HE — Endócrino",
+              "alt": "Pâncreas - HE — Endócrino",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j173_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j173.jpg",
@@ -5584,7 +5584,7 @@
             {
               "id": "sd_laminas_atlas_025",
               "titulo": "Pâncreas - HE",
-              "alt": "J17-Pâncreas - HE",
+              "alt": "Pâncreas - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j174_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j174.jpg",
@@ -5620,7 +5620,7 @@
             {
               "id": "sd_laminas_atlas_026",
               "titulo": "Pâncreas - HE",
-              "alt": "J17-Pâncreas - HE",
+              "alt": "Pâncreas - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j175_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j175.jpg",
@@ -5660,7 +5660,7 @@
             {
               "id": "sd_laminas_atlas_027",
               "titulo": "Fígado - h.e.",
-              "alt": "J19 - Fígado - H.E.",
+              "alt": "- Fígado - H.E.",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j181_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j181.jpg",
@@ -5697,7 +5697,7 @@
             {
               "id": "sd_laminas_atlas_028",
               "titulo": "Fígado - h.e. — espaço porta",
-              "alt": "J19 - Fígado - H.E. — Espaço porta",
+              "alt": "- Fígado - H.E. — Espaço porta",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j182_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j182.jpg",
@@ -5737,7 +5737,7 @@
             {
               "id": "sd_laminas_atlas_029",
               "titulo": "Fígado - h.e. — lóbulos hepáticos",
-              "alt": "J19 - Fígado - H.E. — Lóbulos hepáticos",
+              "alt": "- Fígado - H.E. — Lóbulos hepáticos",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j191_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j191.jpg",
@@ -5774,7 +5774,7 @@
             {
               "id": "sd_laminas_atlas_030",
               "titulo": "Fígado - h.e.",
-              "alt": "J19 - Fígado - H.E.",
+              "alt": "- Fígado - H.E.",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j192_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j192.jpg",
@@ -5809,7 +5809,7 @@
             {
               "id": "sd_laminas_atlas_031",
               "titulo": "Fígado - impregnação por PRATA",
-              "alt": "J20 - Fígado - Impregnação por prata",
+              "alt": "- Fígado - Impregnação por prata",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j201_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j201.jpg",
@@ -5841,7 +5841,7 @@
             {
               "id": "sd_laminas_atlas_032",
               "titulo": "Fígado - impregnação por PRATA",
-              "alt": "J20 - Fígado - Impregnação por prata",
+              "alt": "- Fígado - Impregnação por prata",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j202_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j202.jpg",
@@ -5871,7 +5871,7 @@
             {
               "id": "sd_laminas_atlas_033",
               "titulo": "/língua, porção anterior- HE",
-              "alt": "J1/J2-Língua, porção anterior- HE",
+              "alt": "/Língua, porção anterior- HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j21_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j21.jpg",
@@ -5909,7 +5909,7 @@
             {
               "id": "sd_laminas_atlas_034",
               "titulo": "Fígado - coloração vital — células de kupffer (macrófagos do fígado) - (seta curta)",
-              "alt": "J21 - Fígado - Coloração vital — Células de Kupffer (macrófagos do fígado) - (seta curta)",
+              "alt": "- Fígado - Coloração vital — Células de Kupffer (macrófagos do fígado) - (seta curta)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j211_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j211.jpg",
@@ -5945,7 +5945,7 @@
             {
               "id": "sd_laminas_atlas_035",
               "titulo": "Fígado - coloração vital",
-              "alt": "J21 - Fígado - Coloração vital",
+              "alt": "- Fígado - Coloração vital",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j212_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j212.jpg",
@@ -5983,7 +5983,7 @@
             {
               "id": "sd_laminas_atlas_036",
               "titulo": "Fígado - p.a.s.",
-              "alt": "J22 - Fígado - P.A.S.",
+              "alt": "- Fígado - P.A.S.",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j221_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j221.jpg",
@@ -6014,7 +6014,7 @@
             {
               "id": "sd_laminas_atlas_037",
               "titulo": "Fígado - p.a.s. — grânulos de glicogênio - (seta longa)",
-              "alt": "J22 - Fígado - P.A.S. — Grânulos de glicogênio - (seta longa)",
+              "alt": "- Fígado - P.A.S. — Grânulos de glicogênio - (seta longa)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j222_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j222.jpg",
@@ -6047,7 +6047,7 @@
             {
               "id": "sd_laminas_atlas_038",
               "titulo": "Vesícula biliar - HE — adventícia - (8)",
-              "alt": "J23 - Vesícula biliar - HE — Adventícia - (8)",
+              "alt": "- Vesícula biliar - HE — Adventícia - (8)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j231_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j231.jpg",
@@ -6081,7 +6081,7 @@
             {
               "id": "sd_laminas_atlas_039",
               "titulo": "Vesícula biliar - HE — mucosa",
-              "alt": "J23 - Vesícula biliar - HE — Mucosa",
+              "alt": "- Vesícula biliar - HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j232_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j232.jpg",
@@ -6121,7 +6121,7 @@
             {
               "id": "sd_laminas_atlas_040",
               "titulo": "Vesícula biliar - HE — serosa - (7)",
-              "alt": "J23 - Vesícula biliar - HE — Serosa - (7)",
+              "alt": "- Vesícula biliar - HE — Serosa - (7)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j233_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j233.jpg",
@@ -6161,7 +6161,7 @@
             {
               "id": "sd_laminas_atlas_041",
               "titulo": "Língua, \"v\" lingual - HE — papila caliciforme, valada ou circunvalada",
-              "alt": "J3 - Língua, \"V\" lingual - HE — Papila caliciforme, valada ou circunvalada",
+              "alt": "- Língua, \"V\" lingual - HE — Papila caliciforme, valada ou circunvalada",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j31_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j31.jpg",
@@ -6195,7 +6195,7 @@
             {
               "id": "sd_laminas_atlas_042",
               "titulo": "Língua, \"v\" lingual - HE",
-              "alt": "J3 - Língua, \"V\" lingual - HE",
+              "alt": "- Língua, \"V\" lingual - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j32.jpg",
@@ -6230,7 +6230,7 @@
             {
               "id": "sd_laminas_atlas_043",
               "titulo": "Língua, \"v\" lingual - HE",
-              "alt": "J3 - Língua, \"V\" lingual - HE",
+              "alt": "- Língua, \"V\" lingual - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j33_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j33.jpg",
@@ -6262,7 +6262,7 @@
             {
               "id": "sd_laminas_atlas_044",
               "titulo": "/- esôfago, corte longitudinal - HE",
-              "alt": "J4/J5 - Esôfago, corte longitudinal - HE",
+              "alt": "/- Esôfago, corte longitudinal - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j41_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j41.jpg",
@@ -6302,7 +6302,7 @@
             {
               "id": "sd_laminas_atlas_045",
               "titulo": "/- esôfago, corte longitudinal - HE — esôfago, corte longitudinal - HE",
-              "alt": "J4/J5 - Esôfago, corte longitudinal - HE — Esôfago, corte longitudinal - HE",
+              "alt": "/- Esôfago, corte longitudinal - HE — Esôfago, corte longitudinal - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j42_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j42.jpg",
@@ -6336,7 +6336,7 @@
             {
               "id": "sd_laminas_atlas_046",
               "titulo": "Transição esôfago-estômago -HE",
-              "alt": "J6 - Transição esôfago-estômago -HE",
+              "alt": "- Transição esôfago-estômago -HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j61_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j61.jpg",
@@ -6376,7 +6376,7 @@
             {
               "id": "sd_laminas_atlas_047",
               "titulo": "Transição esôfago-estômago -HE",
-              "alt": "J6 - Transição esôfago-estômago -HE",
+              "alt": "- Transição esôfago-estômago -HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j62_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j62.jpg",
@@ -6416,7 +6416,7 @@
             {
               "id": "sd_laminas_atlas_048",
               "titulo": "Transição esôfago-estômago -HE",
-              "alt": "J6 - Transição esôfago-estômago -HE",
+              "alt": "- Transição esôfago-estômago -HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j64_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j64.jpg",
@@ -6456,7 +6456,7 @@
             {
               "id": "sd_laminas_atlas_049",
               "titulo": "Estômago, fundo e corpo - HE",
-              "alt": "J7 - Estômago, fundo e corpo - HE",
+              "alt": "- Estômago, fundo e corpo - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j71_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j71.jpg",
@@ -6496,7 +6496,7 @@
             {
               "id": "sd_laminas_atlas_050",
               "titulo": "Estômago, fundo e corpo - HE — mucosa - (a)",
-              "alt": "J7 - Estômago, fundo e corpo - HE — Mucosa - (A)",
+              "alt": "- Estômago, fundo e corpo - HE — Mucosa - (A)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j72_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j72.jpg",
@@ -6536,7 +6536,7 @@
             {
               "id": "sd_laminas_atlas_051",
               "titulo": "Transição estômago-duodeno - HE — estômago - (a)",
-              "alt": "J8 - Transição estômago-duodeno - HE — Estômago - (A)",
+              "alt": "- Transição estômago-duodeno - HE — Estômago - (A)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j81_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j81.jpg",
@@ -6566,7 +6566,7 @@
             {
               "id": "sd_laminas_atlas_052",
               "titulo": "Transição estômago-duodeno - HE — mucosa",
-              "alt": "J8 - Transição estômago-duodeno - HE — Mucosa",
+              "alt": "- Transição estômago-duodeno - HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j82_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j82.jpg",
@@ -6606,7 +6606,7 @@
             {
               "id": "sd_laminas_atlas_053",
               "titulo": "Transição estômago-duodeno - HE — duodeno - (b)",
-              "alt": "J8 - Transição estômago-duodeno - HE — Duodeno - (B)",
+              "alt": "- Transição estômago-duodeno - HE — Duodeno - (B)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j83_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j83.jpg",
@@ -6646,7 +6646,7 @@
             {
               "id": "sd_laminas_atlas_054",
               "titulo": "Transição estômago-duodeno - HE",
-              "alt": "J8 - Transição estômago-duodeno - HE",
+              "alt": "- Transição estômago-duodeno - HE",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j84_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j84.jpg",
@@ -6686,7 +6686,7 @@
             {
               "id": "sd_laminas_atlas_055",
               "titulo": "Jejuno-íleo - HE — mucosa - (a)",
-              "alt": "J9 - Jejuno-íleo - HE — Mucosa - (A)",
+              "alt": "- Jejuno-íleo - HE — Mucosa - (A)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j91_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j91.jpg",
@@ -6726,7 +6726,7 @@
             {
               "id": "sd_laminas_atlas_056",
               "titulo": "Jejuno-íleo - HE — muscular (músculo liso) - (c)",
-              "alt": "J9 - Jejuno-íleo - HE — Muscular (músculo liso) - (C)",
+              "alt": "- Jejuno-íleo - HE — Muscular (músculo liso) - (C)",
               "urlImagem": "/data/histologia/atlas/10_digestorio/zoom/histo_10_digestorio_j92_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "j92.jpg",
@@ -6781,7 +6781,7 @@
             {
               "id": "su_laminas_atlas_001",
               "titulo": "Rim unilobular - HE - rim multilobular - HE — cortical (córtex) - (a)",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Cortical (córtex) - (A)",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE — Cortical (córtex) - (A)",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m11_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m11.jpg",
@@ -6815,7 +6815,7 @@
             {
               "id": "su_laminas_atlas_002",
               "titulo": "Rim unilobular - HE - rim multilobular - HE — glomérulo",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Glomérulo",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE — Glomérulo",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m12.jpg",
@@ -6855,7 +6855,7 @@
             {
               "id": "su_laminas_atlas_003",
               "titulo": "Rim unilobular - HE - rim multilobular - HE — medular - (c)",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE — Medular - (c)",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE — Medular - (c)",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m13_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m13.jpg",
@@ -6893,7 +6893,7 @@
             {
               "id": "su_laminas_atlas_004",
               "titulo": "Rim unilobular - HE - rim multilobular - HE",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m14_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m14.jpg",
@@ -6932,7 +6932,7 @@
             {
               "id": "su_laminas_atlas_005",
               "titulo": "Rim unilobular - HE - rim multilobular - HE",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m15_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m15.jpg",
@@ -6971,7 +6971,7 @@
             {
               "id": "su_laminas_atlas_006",
               "titulo": "Rim unilobular - HE - rim multilobular - HE",
-              "alt": "M1 - Rim unilobular - HE M2 - Rim multilobular - HE",
+              "alt": "- Rim unilobular - HE - Rim multilobular - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m16_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m16.jpg",
@@ -7006,7 +7006,7 @@
             {
               "id": "su_laminas_atlas_007",
               "titulo": "Ureter - HE — ureter - HE",
-              "alt": "M3 - Ureter - HE — Ureter - HE",
+              "alt": "- Ureter - HE — Ureter - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m31_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m31.jpg",
@@ -7046,7 +7046,7 @@
             {
               "id": "su_laminas_atlas_008",
               "titulo": "Ureter - HE — camada muscular (músculo liso) - (3)",
-              "alt": "M3 - Ureter - HE — Camada muscular (músculo liso) - (3)",
+              "alt": "- Ureter - HE — Camada muscular (músculo liso) - (3)",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m32.jpg",
@@ -7086,7 +7086,7 @@
             {
               "id": "su_laminas_atlas_009",
               "titulo": "Ureter - HE — mucosa",
-              "alt": "M3 - Ureter - HE — Mucosa",
+              "alt": "- Ureter - HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m33_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m33.jpg",
@@ -7122,7 +7122,7 @@
             {
               "id": "su_laminas_atlas_010",
               "titulo": "Bexiga - HE",
-              "alt": "M4 - Bexiga - HE",
+              "alt": "- Bexiga - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m41_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m41.jpg",
@@ -7162,7 +7162,7 @@
             {
               "id": "su_laminas_atlas_011",
               "titulo": "Bexiga - HE — serosa - (c)",
-              "alt": "M4 - Bexiga - HE — Serosa - (C)",
+              "alt": "- Bexiga - HE — Serosa - (C)",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m42_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m42.jpg",
@@ -7202,7 +7202,7 @@
             {
               "id": "su_laminas_atlas_012",
               "titulo": "Bexiga - HE",
-              "alt": "M4 - Bexiga - HE",
+              "alt": "- Bexiga - HE",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m43_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m43.jpg",
@@ -7234,7 +7234,7 @@
             {
               "id": "su_laminas_atlas_013",
               "titulo": "Bexiga - HE — mucosa - (a)",
-              "alt": "M4 - Bexiga - HE — Mucosa - (A)",
+              "alt": "- Bexiga - HE — Mucosa - (A)",
               "urlImagem": "/data/histologia/atlas/13_urinario/zoom/histo_13_urinario_m44_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "m44.jpg",
@@ -7279,7 +7279,7 @@
             {
               "id": "sgm_laminas_atlas_001",
               "titulo": "Testículo e epidídimo - HE — testiculo - (a)",
-              "alt": "P1-Testículo e epidídimo - HE — Testiculo - (A)",
+              "alt": "Testículo e epidídimo - HE — Testiculo - (A)",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p1-1.jpg",
@@ -7319,7 +7319,7 @@
             {
               "id": "sgm_laminas_atlas_002",
               "titulo": "Testículo e epidídimo - HE",
-              "alt": "P1-Testículo e epidídimo - HE",
+              "alt": "Testículo e epidídimo - HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p1-2.jpg",
@@ -7348,7 +7348,7 @@
             {
               "id": "sgm_laminas_atlas_003",
               "titulo": "Testículo e epidídimo - HE — interstício - (c)",
-              "alt": "P1-Testículo e epidídimo - HE — Interstício - (C)",
+              "alt": "Testículo e epidídimo - HE — Interstício - (C)",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p1-3.jpg",
@@ -7385,7 +7385,7 @@
             {
               "id": "sgm_laminas_atlas_004",
               "titulo": "Testículo e epidídimo - HE — epidídimo - (b)",
-              "alt": "P1-Testículo e epidídimo - HE — Epidídimo - (B)",
+              "alt": "Testículo e epidídimo - HE — Epidídimo - (B)",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p1-5.jpg",
@@ -7424,7 +7424,7 @@
             {
               "id": "sgm_laminas_atlas_005",
               "titulo": "Testículo e epidídimo - HE",
-              "alt": "P1-Testículo e epidídimo - HE",
+              "alt": "Testículo e epidídimo - HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p1_6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p1-6.jpg",
@@ -7464,7 +7464,7 @@
             {
               "id": "sgm_laminas_atlas_006",
               "titulo": "Canal deferente-HE",
-              "alt": "P2- Canal deferente-HE",
+              "alt": "Canal deferente-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p2-1.jpg",
@@ -7504,7 +7504,7 @@
             {
               "id": "sgm_laminas_atlas_007",
               "titulo": "Canal deferente-HE — mucosa",
-              "alt": "P2- Canal deferente-HE — Mucosa",
+              "alt": "Canal deferente-HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p2-2.jpg",
@@ -7543,7 +7543,7 @@
             {
               "id": "sgm_laminas_atlas_008",
               "titulo": "Canal deferente-HE — adventícia - (2)",
-              "alt": "P2- Canal deferente-HE — Adventícia - (2)",
+              "alt": "Canal deferente-HE — Adventícia - (2)",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p2-3.jpg",
@@ -7583,7 +7583,7 @@
             {
               "id": "sgm_laminas_atlas_009",
               "titulo": "Canal deferente-HE — muscular - (1)",
-              "alt": "P2- Canal deferente-HE — Muscular - (1)",
+              "alt": "Canal deferente-HE — Muscular - (1)",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p2_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p2-4.jpg",
@@ -7623,7 +7623,7 @@
             {
               "id": "sgm_laminas_atlas_010",
               "titulo": "Vesícula seminal-HE — mucosa",
-              "alt": "P3-Vesícula seminal-HE — Mucosa",
+              "alt": "Vesícula seminal-HE — Mucosa",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p3-1.jpg",
@@ -7650,7 +7650,7 @@
             {
               "id": "sgm_laminas_atlas_011",
               "titulo": "Vesícula seminal-HE",
-              "alt": "P3-Vesícula seminal-HE",
+              "alt": "Vesícula seminal-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p3_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p3-2.jpg",
@@ -7690,7 +7690,7 @@
             {
               "id": "sgm_laminas_atlas_012",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-1.jpg",
@@ -7726,7 +7726,7 @@
             {
               "id": "sgm_laminas_atlas_013",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-2.jpg",
@@ -7762,7 +7762,7 @@
             {
               "id": "sgm_laminas_atlas_014",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-3.jpg",
@@ -7799,7 +7799,7 @@
             {
               "id": "sgm_laminas_atlas_015",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-4.jpg",
@@ -7837,7 +7837,7 @@
             {
               "id": "sgm_laminas_atlas_016",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-5.jpg",
@@ -7872,7 +7872,7 @@
             {
               "id": "sgm_laminas_atlas_017",
               "titulo": "Próstata-HE",
-              "alt": "P4-Próstata-HE",
+              "alt": "Próstata-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p4_6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p4-6.jpg",
@@ -7908,7 +7908,7 @@
             {
               "id": "sgm_laminas_atlas_018",
               "titulo": "Pênis, corte transversal-HE",
-              "alt": "P5-Pênis, corte transversal-HE",
+              "alt": "Pênis, corte transversal-HE",
               "urlImagem": "/data/histologia/atlas/16_masculino/zoom/histo_16_masculino_p5_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "p5-1.jpg",
@@ -7959,7 +7959,7 @@
             {
               "id": "sgf_laminas_atlas_001",
               "titulo": "Ovário - HE — folículos em crescimento secundário e maduro",
-              "alt": "Q1-Ovário - HE — Folículos em crescimento secundário e maduro",
+              "alt": "Ovário - HE — Folículos em crescimento secundário e maduro",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-1.jpg",
@@ -7999,7 +7999,7 @@
             {
               "id": "sgf_laminas_atlas_002",
               "titulo": "Ovário - HE — ovário - HE",
-              "alt": "Q1-Ovário - HE — Q1-Ovário - HE",
+              "alt": "Ovário - HE — Ovário - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-2.jpg",
@@ -8039,7 +8039,7 @@
             {
               "id": "sgf_laminas_atlas_003",
               "titulo": "Ovário - HE",
-              "alt": "Q1-Ovário - HE",
+              "alt": "Ovário - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-3.jpg",
@@ -8079,7 +8079,7 @@
             {
               "id": "sgf_laminas_atlas_004",
               "titulo": "Ovário - HE — cortical - (a)",
-              "alt": "Q1-Ovário - HE — Cortical - (A)",
+              "alt": "Ovário - HE — Cortical - (A)",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-4.jpg",
@@ -8116,7 +8116,7 @@
             {
               "id": "sgf_laminas_atlas_005",
               "titulo": "Ovário - HE — folículos primordiais - (seta e)",
-              "alt": "Q1-Ovário - HE — Folículos primordiais - (seta E)",
+              "alt": "Ovário - HE — Folículos primordiais - (seta E)",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-6.jpg",
@@ -8153,7 +8153,7 @@
             {
               "id": "sgf_laminas_atlas_006",
               "titulo": "Ovário - HE",
-              "alt": "Q1-Ovário - HE",
+              "alt": "Ovário - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q1_7_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q1-7.jpg",
@@ -8192,7 +8192,7 @@
             {
               "id": "sgf_laminas_atlas_007",
               "titulo": "Ovário -HE",
-              "alt": "Q2-Ovário -HE",
+              "alt": "Ovário -HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q2-1.jpg",
@@ -8228,7 +8228,7 @@
             {
               "id": "sgf_laminas_atlas_008",
               "titulo": "Ovário -HE",
-              "alt": "Q2-Ovário -HE",
+              "alt": "Ovário -HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q2-2.jpg",
@@ -8264,7 +8264,7 @@
             {
               "id": "sgf_laminas_atlas_009",
               "titulo": "Ovário -HE",
-              "alt": "Q2-Ovário -HE",
+              "alt": "Ovário -HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q2-3.jpg",
@@ -8304,7 +8304,7 @@
             {
               "id": "sgf_laminas_atlas_010",
               "titulo": "Ovário-HE",
-              "alt": "Q3- Ovário-HE",
+              "alt": "Ovário-HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q3-1.jpg",
@@ -8337,7 +8337,7 @@
             {
               "id": "sgf_laminas_atlas_011",
               "titulo": "Ovário-HE",
-              "alt": "Q3- Ovário-HE",
+              "alt": "Ovário-HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q3-2.jpg",
@@ -8376,7 +8376,7 @@
             {
               "id": "sgf_laminas_atlas_012",
               "titulo": "Ovário-HE",
-              "alt": "Q3- Ovário-HE",
+              "alt": "Ovário-HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q3_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q3-3.jpg",
@@ -8415,7 +8415,7 @@
             {
               "id": "sgf_laminas_atlas_013",
               "titulo": "Corpo albicans - HE",
-              "alt": "Q4-Corpo albicans - HE",
+              "alt": "Corpo albicans - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q4-1.jpg",
@@ -8447,7 +8447,7 @@
             {
               "id": "sgf_laminas_atlas_014",
               "titulo": "Corpo albicans - HE",
-              "alt": "Q4-Corpo albicans - HE",
+              "alt": "Corpo albicans - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q4-2.jpg",
@@ -8479,7 +8479,7 @@
             {
               "id": "sgf_laminas_atlas_015",
               "titulo": "Tuba uterina, ampola- HE",
-              "alt": "Q5-Tuba uterina, ampola- HE",
+              "alt": "Tuba uterina, ampola- HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q5-1.jpg",
@@ -8519,7 +8519,7 @@
             {
               "id": "sgf_laminas_atlas_016",
               "titulo": "Tuba uterina, ampola- HE — mucosa - (a)",
-              "alt": "Q5-Tuba uterina, ampola- HE — Mucosa - (A)",
+              "alt": "Tuba uterina, ampola- HE — Mucosa - (A)",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q5-2.jpg",
@@ -8559,7 +8559,7 @@
             {
               "id": "sgf_laminas_atlas_017",
               "titulo": "Tuba uterina, ampola- HE",
-              "alt": "Q5-Tuba uterina, ampola- HE",
+              "alt": "Tuba uterina, ampola- HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q5_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q5-3.jpg",
@@ -8599,7 +8599,7 @@
             {
               "id": "sgf_laminas_atlas_018",
               "titulo": "Útero, fase proliferativa- HE",
-              "alt": "Q6-Útero, fase proliferativa- HE",
+              "alt": "Útero, fase proliferativa- HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q6-2.jpg",
@@ -8638,7 +8638,7 @@
             {
               "id": "sgf_laminas_atlas_019",
               "titulo": "Útero, fase proliferativa- HE — endométrio",
-              "alt": "Q6-Útero, fase proliferativa- HE — Endométrio",
+              "alt": "Útero, fase proliferativa- HE — Endométrio",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q6_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q6-3.jpg",
@@ -8677,7 +8677,7 @@
             {
               "id": "sgf_laminas_atlas_020",
               "titulo": "Útero, fase secretora- HE — endométrio",
-              "alt": "Q7-Útero, fase secretora- HE — Endométrio",
+              "alt": "Útero, fase secretora- HE — Endométrio",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q7-1.jpg",
@@ -8712,7 +8712,7 @@
             {
               "id": "sgf_laminas_atlas_021",
               "titulo": "Útero, fase secretora- HE — útero, fase secretora",
-              "alt": "Q7-Útero, fase secretora- HE — Útero, fase secretora",
+              "alt": "Útero, fase secretora- HE — Útero, fase secretora",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q7_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q7-2.jpg",
@@ -8747,7 +8747,7 @@
             {
               "id": "sgf_laminas_atlas_022",
               "titulo": "Colo uterino - HE — ectocérvix - mucosa",
-              "alt": "Q8- Colo uterino - HE — Ectocérvix - mucosa",
+              "alt": "Colo uterino - HE — Ectocérvix - mucosa",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q8-1.jpg",
@@ -8784,7 +8784,7 @@
             {
               "id": "sgf_laminas_atlas_023",
               "titulo": "Colo uterino - HE — endocérvix - mucosa",
-              "alt": "Q8- Colo uterino - HE — Endocérvix - mucosa",
+              "alt": "Colo uterino - HE — Endocérvix - mucosa",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q8_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q8-2.jpg",
@@ -8816,7 +8816,7 @@
             {
               "id": "sgf_laminas_atlas_024",
               "titulo": "Mama - HE — lóbulos",
-              "alt": "Q9-Mama - HE — Lóbulos",
+              "alt": "Mama - HE — Lóbulos",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q9-1.jpg",
@@ -8854,7 +8854,7 @@
             {
               "id": "sgf_laminas_atlas_025",
               "titulo": "Mama - HE",
-              "alt": "Q9-Mama - HE",
+              "alt": "Mama - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q9-2.jpg",
@@ -8886,7 +8886,7 @@
             {
               "id": "sgf_laminas_atlas_026",
               "titulo": "Mama - HE — região interlobular",
-              "alt": "Q9-Mama - HE — Região interlobular",
+              "alt": "Mama - HE — Região interlobular",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q9-3.jpg",
@@ -8921,7 +8921,7 @@
             {
               "id": "sgf_laminas_atlas_027",
               "titulo": "Mama - HE",
-              "alt": "Q9-Mama - HE",
+              "alt": "Mama - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q9-4.jpg",
@@ -8954,7 +8954,7 @@
             {
               "id": "sgf_laminas_atlas_028",
               "titulo": "Mama - HE",
-              "alt": "Q9-Mama - HE",
+              "alt": "Mama - HE",
               "urlImagem": "/data/histologia/atlas/17_feminino/zoom/histo_17_feminino_q9_5_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "q9-5.jpg",
@@ -8999,7 +8999,7 @@
             {
               "id": "sn_endocrino_001",
               "titulo": "Hipófise ou pituitária - MALLORY — pars distalis ou adenohipófise (lobo anterior) - (a)",
-              "alt": "N1 - Hipófise ou Pituitária - Mallory — Pars distalis ou adenohipófise (lobo anterior) - (A)",
+              "alt": "- Hipófise ou Pituitária - Mallory — Pars distalis ou adenohipófise (lobo anterior) - (A)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n1-1.jpg",
@@ -9033,7 +9033,7 @@
             {
               "id": "sn_endocrino_002",
               "titulo": "Hipófise ou pituitária - MALLORY — pars intermédia (maior aumento) - (b)",
-              "alt": "N1 - Hipófise ou Pituitária - Mallory — Pars intermédia (maior aumento) - (B)",
+              "alt": "- Hipófise ou Pituitária - Mallory — Pars intermédia (maior aumento) - (B)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n1-2.jpg",
@@ -9073,7 +9073,7 @@
             {
               "id": "sn_endocrino_003",
               "titulo": "Hipófise ou pituitária - MALLORY — pars nervosa ou neurohipófise (lobo posterior) - (c)",
-              "alt": "N1 - Hipófise ou Pituitária - Mallory — Pars nervosa ou neurohipófise (lobo posterior) - (C)",
+              "alt": "- Hipófise ou Pituitária - Mallory — Pars nervosa ou neurohipófise (lobo posterior) - (C)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n1-3.jpg",
@@ -9112,7 +9112,7 @@
             {
               "id": "sn_endocrino_004",
               "titulo": "Hipófise ou pituitária - MALLORY",
-              "alt": "N1 - Hipófise ou Pituitária - Mallory",
+              "alt": "- Hipófise ou Pituitária - Mallory",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n1_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n1-4.jpg",
@@ -9152,7 +9152,7 @@
             {
               "id": "sn_endocrino_005",
               "titulo": "Tireóide e paratireóide - HE",
-              "alt": "N2 - Tireóide e paratireóide - HE",
+              "alt": "- Tireóide e paratireóide - HE",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n2-1.jpg",
@@ -9182,7 +9182,7 @@
             {
               "id": "sn_endocrino_006",
               "titulo": "Tireóide e paratireóide - HE — paratireóide - (b)",
-              "alt": "N2 - Tireóide e paratireóide - HE — Paratireóide - (B)",
+              "alt": "- Tireóide e paratireóide - HE — Paratireóide - (B)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n2-2.jpg",
@@ -9217,7 +9217,7 @@
             {
               "id": "sn_endocrino_007",
               "titulo": "Tireóide e paratireóide - HE",
-              "alt": "N2 - Tireóide e paratireóide - HE",
+              "alt": "- Tireóide e paratireóide - HE",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n2-3.jpg",
@@ -9251,7 +9251,7 @@
             {
               "id": "sn_endocrino_008",
               "titulo": "Tireóide e paratireóide - HE — tireóide - (a)",
-              "alt": "N2 - Tireóide e paratireóide - HE — Tireóide - (A)",
+              "alt": "- Tireóide e paratireóide - HE — Tireóide - (A)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n2_4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n2-4.jpg",
@@ -9285,7 +9285,7 @@
             {
               "id": "sn_endocrino_009",
               "titulo": "Adrenal ou supra-renal - HE",
-              "alt": "N3 -Adrenal ou supra-renal - HE",
+              "alt": "-Adrenal ou supra-renal - HE",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n3-1.jpg",
@@ -9318,7 +9318,7 @@
             {
               "id": "sn_endocrino_010",
               "titulo": "Adrenal ou supra-renal - HE — cortical - (a)",
-              "alt": "N3 -Adrenal ou supra-renal - HE — Cortical - (A)",
+              "alt": "-Adrenal ou supra-renal - HE — Cortical - (A)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n3-2.jpg",
@@ -9351,7 +9351,7 @@
             {
               "id": "sn_endocrino_011",
               "titulo": "Adrenal ou supra-renal - HE — medular - (b)",
-              "alt": "N3 -Adrenal ou supra-renal - HE — Medular - (B)",
+              "alt": "-Adrenal ou supra-renal - HE — Medular - (B)",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n3_3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n3-3.jpg",
@@ -9382,7 +9382,7 @@
             {
               "id": "sn_endocrino_012",
               "titulo": "Pineal - MALLORY",
-              "alt": "N4 - Pineal - Mallory",
+              "alt": "- Pineal - Mallory",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n4-1.jpg",
@@ -9413,7 +9413,7 @@
             {
               "id": "sn_endocrino_013",
               "titulo": "Pineal - MALLORY",
-              "alt": "N4 - Pineal - Mallory",
+              "alt": "- Pineal - Mallory",
               "urlImagem": "/data/histologia/atlas/14_endocrinas/zoom/histo_14_endocrinas_n4_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "n4-2.jpg",
@@ -9451,7 +9451,7 @@
             {
               "id": "sn_neuronio_001",
               "titulo": "Medula espinhal - HE — substância branca (córtex) - (a)",
-              "alt": "G1 - Medula espinhal - HE — Substância branca (córtex) - (a)",
+              "alt": "- Medula espinhal - HE — Substância branca (córtex) - (a)",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g1.jpg",
@@ -9487,7 +9487,7 @@
             {
               "id": "sn_neuronio_002",
               "titulo": "Medula espinhal - HE",
-              "alt": "G1 - Medula espinhal - HE",
+              "alt": "- Medula espinhal - HE",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g12_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g12.jpg",
@@ -9524,7 +9524,7 @@
             {
               "id": "sn_neuronio_003",
               "titulo": "Medula espinhal - PRATA",
-              "alt": "G2 - Medula espinhal - Prata",
+              "alt": "- Medula espinhal - Prata",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g2.jpg",
@@ -9555,7 +9555,7 @@
             {
               "id": "sn_neuronio_004",
               "titulo": "Medula espinhal - PRATA",
-              "alt": "G2 - Medula espinhal - Prata",
+              "alt": "- Medula espinhal - Prata",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g2_2_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g2-2.jpg",
@@ -9586,7 +9586,7 @@
             {
               "id": "sn_neuronio_005",
               "titulo": "Cérebro - HE",
-              "alt": "G3 - Cérebro - HE",
+              "alt": "- Cérebro - HE",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g3_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g3.jpg",
@@ -9617,7 +9617,7 @@
             {
               "id": "sn_neuronio_006",
               "titulo": "Cérebro - HE",
-              "alt": "G3 - Cérebro - HE",
+              "alt": "- Cérebro - HE",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g32_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g32.jpg",
@@ -9653,7 +9653,7 @@
             {
               "id": "sn_neuronio_007",
               "titulo": "Cérebro - PRATA",
-              "alt": "G4 - Cérebro - Prata",
+              "alt": "- Cérebro - Prata",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g4_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g4.jpg",
@@ -9690,7 +9690,7 @@
             {
               "id": "sn_neuronio_008",
               "titulo": "Cérebro - PRATA",
-              "alt": "G4 - Cérebro - Prata",
+              "alt": "- Cérebro - Prata",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g42_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g42.jpg",
@@ -9730,7 +9730,7 @@
             {
               "id": "sn_neuronio_009",
               "titulo": "Cérebro - PRATA",
-              "alt": "G4 - Cérebro - Prata",
+              "alt": "- Cérebro - Prata",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g43_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g43.jpg",
@@ -9762,7 +9762,7 @@
             {
               "id": "sn_neuronio_010",
               "titulo": "Cerebelo (PRATA) — substância cinzenta (cortical)",
-              "alt": "G6 - Cerebelo (Prata) — Substância cinzenta (cortical)",
+              "alt": "- Cerebelo (Prata) — Substância cinzenta (cortical)",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g6_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g6.jpg",
@@ -9796,7 +9796,7 @@
             {
               "id": "sn_neuronio_011",
               "titulo": "Gânglio raquídeo - HE",
-              "alt": "G7 - Gânglio raquídeo - HE",
+              "alt": "- Gânglio raquídeo - HE",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g7_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g7.jpg",
@@ -9831,7 +9831,7 @@
             {
               "id": "sn_neuronio_012",
               "titulo": "Gânglio raquídeo - HE",
-              "alt": "G7 - Gânglio raquídeo - HE",
+              "alt": "- Gânglio raquídeo - HE",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g72_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g72.jpg",
@@ -9867,7 +9867,7 @@
             {
               "id": "sn_neuronio_013",
               "titulo": "Nervo periférico - h.e / h.f — nervo periférico - (circundado)",
-              "alt": "G8-Nervo periférico - H.E / H.F — Nervo periférico - (circundado)",
+              "alt": "Nervo periférico - H.E / H.F — Nervo periférico - (circundado)",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g8_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g8.jpg",
@@ -9896,7 +9896,7 @@
             {
               "id": "sn_neuronio_014",
               "titulo": "Nervo periférico - h.e / h.f",
-              "alt": "G8-Nervo periférico - H.E / H.F",
+              "alt": "Nervo periférico - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g82_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g82.jpg",
@@ -9936,7 +9936,7 @@
             {
               "id": "sn_neuronio_015",
               "titulo": "Nervo periférico - h.e / h.f",
-              "alt": "G8-Nervo periférico - H.E / H.F",
+              "alt": "Nervo periférico - H.E / H.F",
               "urlImagem": "/data/histologia/atlas/7_nervoso/zoom/histo_7_nervoso_g83_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "g83.jpg",
@@ -9982,7 +9982,7 @@
             {
               "id": "sn_sentidos_001",
               "titulo": "Olho e anexos - HE — olho e anexos - HE",
-              "alt": "O1 - Olho e anexos - HE — Olho e anexos - HE",
+              "alt": "- Olho e anexos - HE — Olho e anexos - HE",
               "urlImagem": "/data/histologia/atlas/15_sentido/zoom/histo_15_sentido_o1_zoom.jpg",
               "descricaoNecessaria": "Lâmina organizada a partir do atlas-base com legenda transcrita.",
               "aliasLegado": "o1.jpg",
