@@ -477,6 +477,16 @@
       text-align: center;
     }
 
+    .quiz-explanation-text {
+      font-size: 15px;
+      line-height: 1.6;
+      color: var(--text-primary); /* Menos opaco, mais nítido */
+      opacity: 0.95;
+    }
+    .quiz-explanation-text strong {
+      color: var(--primary); /* Negrito em cor destaque Plus */
+      font-weight: 700;
+    }
     .screen-content {
       flex: 1;
       min-height: 0;
@@ -4730,6 +4740,12 @@
       </svg>
     );
 
+    const IconChevronLeft = () => (
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    );
+
     const IconCheck = () => (
       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
         <polyline points="20 6 9 17 4 12"></polyline>
@@ -7211,6 +7227,21 @@
           const card = activeCards[currentQuestion];
           if (!card) return;
 
+          // Atalhos de Navegação (Setas)
+          if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            handleNextQuestion();
+          }
+          if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            if (currentQuestion > 0) {
+              setCurrentQuestion(prev => prev - 1);
+              setSelectedOption(null);
+              setAnswered(false);
+              setCrossedOut(new Set());
+            }
+          }
+
           if (!answered) {
             // 1-5 select option
             const num = parseInt(e.key);
@@ -7809,26 +7840,55 @@
                   </div>
                 )}
 
-                <div className="quiz-action-bar">
+                <div className="quiz-action-bar" style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
                   <button
                     className="btn quiz-report-btn"
                     onClick={handleReportQuestion}
+                    style={{ flex: 'none' }}
                   >
-                    <IconMessageSquare /> Reportar
+                    <IconMessageSquare />
                   </button>
-                  {!answered ? (
-                    <button
-                      className="btn btn-primary"
-                      onClick={handleAnswer}
-                      disabled={selectedOption === null}
-                    >
-                      Confirmar Resposta <span className="kbd-hint">Enter</span>
-                    </button>
-                  ) : (
-                    <button className="btn btn-primary" onClick={handleNextQuestion}>
-                      {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'} <span className="kbd-hint">Enter</span>
-                    </button>
-                  )}
+
+                  <div style={{ flex: 1, display: 'flex', gap: '8px' }}>
+                    {currentQuestion > 0 && (
+                      <button
+                        className="btn btn-secondary"
+                        style={{ flex: 1, padding: '10px' }}
+                        onClick={() => {
+                          setCurrentQuestion(prev => prev - 1);
+                          setSelectedOption(null);
+                          setAnswered(false);
+                          setCrossedOut(new Set());
+                        }}
+                      >
+                         <IconChevronLeft /> Anterior
+                      </button>
+                    )}
+
+                    {!answered ? (
+                      <>
+                        <button
+                          className="btn btn-secondary"
+                          style={{ flex: 1, padding: '10px' }}
+                          onClick={handleNextQuestion}
+                        >
+                          Pular <IconChevronRight />
+                        </button>
+                        <button
+                          className="btn btn-primary"
+                          style={{ flex: 2, padding: '10px' }}
+                          onClick={handleAnswer}
+                          disabled={selectedOption === null}
+                        >
+                          Confirmar <span className="kbd-hint">Enter</span>
+                        </button>
+                      </>
+                    ) : (
+                      <button className="btn btn-primary" style={{ flex: 1 }} onClick={handleNextQuestion}>
+                        {currentQuestion === activeCards.length - 1 ? 'Finalizar' : 'Próxima Questão'} <span className="kbd-hint">Enter</span>
+                      </button>
+                    )}
+                  </div>
                 </div>
               </div>
             </div>
