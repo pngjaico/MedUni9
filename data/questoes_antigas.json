@@ -19,7 +19,7 @@
         "C": "[INCORRETA] Assim como na opção B, **bicarbonato maior que o normal** está incorreto para um quadro de **acidose metabólica**. Adicionalmente, uma **pCO2 maior que o normal** indicaria hipoventilação, o que agravaria a acidose e não representaria uma compensação respiratória eficaz.",
         "D": "[CORRETA] Na **cetoacidose metabólica**, o aumento da produção de **ácidos cetônicos** consome o **bicarbonato**, levando a uma diminuição dos seus níveis e, consequentemente, à queda do **pH** (acidose). A **hiperventilação** é um mecanismo de **compensação respiratória** que visa eliminar o **CO2** (um ácido volátil), reduzindo a **pCO2** e tentando restaurar o pH para a normalidade. Portanto, os resultados esperados são **pH baixo, bicarbonato baixo e pCO2 baixa**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -43,7 +43,7 @@
         "C": "[CORRETA] A **hemoglobina glicada (HbA1c)** é o resultado da **glicação** da hemoglobina, que é um processo **não enzimático** e **espontâneo**, onde a glicose se liga de forma irreversível aos grupos amino da hemoglobina. A quantidade de HbA1c formada é diretamente proporcional aos níveis de **glicose no sangue** ao longo do tempo, o que a torna um excelente indicador do controle glicêmico a longo prazo (2-3 meses).",
         "D": "[INCORRETA] A **hemoglobina glicada** não perde sua função essencial de transporte de oxigênio, embora a glicação possa causar pequenas alterações em suas propriedades. Além disso, a glicação envolve a ligação da glicose *à* hemoglobina, e não a formação de ligações glicosídicas *entre moléculas de glicose* que depois se ligam à hemoglobina."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -67,7 +67,7 @@
         "C": "[INCORRETA] Quando o inibidor e o substrato se ligam a sítios diferentes na enzima, o tipo de inibição é chamado de **inibição não competitiva** (se o inibidor liga-se tanto à enzima livre quanto ao complexo ES) ou **inibição acompetitiva** (se o inibidor liga-se apenas ao complexo ES), e não competitiva.",
         "D": "[INCORRETA] Na **inibição competitiva**, a competição ocorre pelo **sítio ativo** da enzima, não por um **sítio alostérico**. A ligação a um sítio alostérico, que está em uma região diferente do sítio ativo, é característica da regulação alostérica ou de inibidores alostéricos."
       },
-      "tema": "Regulação Metabólica Geral",
+      "tema": "pmh_a2",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a2"
@@ -91,7 +91,7 @@
         "C": "[INCORRETA] Embora o **colágeno** seja uma **proteína fibrosa**, sua estrutura característica não é formada predominantemente por **folhas beta** (que são comuns em outras proteínas, como a fibroína da seda). A estrutura primária do colágeno possui repetições de Glicina-X-Y, onde X e Y são frequentemente Prolina e Hidroxiprolina, que favorecem a formação da tripla hélice.",
         "D": "[INCORRETA] O **colágeno** é uma **proteína fibrosa**, não globular. E embora suas cadeias individuais sejam alfa-hélices, a estrutura quaternária do colágeno é a **tripla hélice**, não uma única longa cadeia alfa-hélice."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -115,7 +115,7 @@
         "C": "[INCORRETA] Os **sistemas-tampão** (bicarbonato, fosfato e proteínas) são cruciais para a **manutenção imediata do pH**, absorvendo ou liberando íons H+ para minimizar as flutuações. No entanto, eles não são os únicos responsáveis pela manutenção do pH a longo prazo; os **pulmões** (regulação do CO2) e os **rins** (excreção de ácidos não voláteis e regeneração de bicarbonato) são essenciais para a eliminação do excesso de ácido produzido e a regulação final.",
         "D": "[INCORRETA] O **metabolismo** do organismo é, na maioria das vezes, **netamente produtor de ácidos**, e não de quantidades equivalentes de substâncias ácidas e básicas. Isso exige mecanismos de eliminação e tamponamento para evitar a acidose."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -139,7 +139,7 @@
         "C": "[CORRETA] Um dos principais mecanismos para lidar com a **hipóxia** e garantir a entrega de oxigênio aos tecidos é o **Efeito Bohr**. A **acidificação dos tecidos** (diminuição do pH devido à produção de H+ e CO2 do metabolismo) e o aumento da **pCO2** diminuem a **afinidade da hemoglobina pelo oxigênio**. Isso faz com que a hemoglobina libere mais oxigênio para os tecidos que estão metabolicamente ativos e em hipóxia.",
         "D": "[INCORRETA] O **aumento da afinidade da hemoglobina pelo oxigênio** com a **acidificação dos tecidos** seria contraproducente em situações de hipóxia, pois dificultaria a liberação do oxigênio onde ele é mais necessário. O que ocorre é o oposto (diminuição da afinidade)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -163,7 +163,7 @@
         "C": "[INCORRETA] A **protonação** da hemoglobina nos **pulmões** (onde o pH é mais alto, ou seja, menos H+) não ocorre de forma significativa e, se ocorresse, dificultaria a captura de oxigênio. A **desprotonação** nos **tecidos** (onde há mais H+) também é incorreta para a liberação de O2.",
         "D": "[INCORRETA] A **desprotonação** nos **tecidos** é inconsistente com o ambiente ácido dos tecidos ativos. A **protonação** nos **pulmões** reduziria a captura de oxigênio, o que é o oposto do que é necessário para a oxigenação do sangue."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -187,7 +187,7 @@
         "C": "[INCORRETA] A **Glicina** é o menor e mais simples aminoácido, não essencial, e atua como neurotransmissor inibitório e componente de proteínas como o colágeno.",
         "D": "[CORRETA] O **Triptofano** é um **aminoácido essencial** (não pode ser sintetizado pelo corpo humano, devendo ser obtido pela dieta) e aromático. É um precursor crucial na síntese de importantes biomoléculas, como o neurotransmissor **serotonina**, o hormônio **melatonina** e a **niacina** (vitamina B3)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -209,7 +209,7 @@
         "B": "[INCORRETA] A **hemoglobina adulta (HbA)** é composta por duas cadeias **alfa** e duas cadeias **beta** (α2β2), não gamas. A composição com cadeias gama (α2γ2) é da **hemoglobina fetal (HbF)**. Além disso, o grupo heme se localiza em uma cavidade **hidrofóbica**, não hidrofílica, e é delimitado por aminoácidos apolares.",
         "C": "[CORRETA] Cada subunidade da hemoglobina possui uma **estrutura terciária** formada por uma única cadeia polipeptídica. O grupo **heme** está, de fato, localizado dentro de uma cavidade **hidrofóbica**, delimitada sobretudo por **aminoácidos apolares**, o que é essencial para prevenir a oxidação do ferro e garantir a ligação reversível ao oxigênio."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -233,7 +233,7 @@
         "C": "[INCORRETA] A deficiência de **dopamina** é central na **Doença de Parkinson**, e ela é de fato derivada da **tirosina**. No entanto, a **dopamina** exógena não consegue atravessar a **barreira hematoencefálica** em quantidades clinicamente significativas, tornando sua administração direta ineficaz para atingir o SNC.",
         "D": "[CORRETA] A **Doença de Parkinson** é causada pela degeneração de neurônios produtores de **dopamina** no **SNC**, sendo a dopamina sintetizada a partir do **aminoácido tirosina**. A **levodopa** (L-DOPA) é um precursor da dopamina que, ao contrário da própria dopamina, é capaz de atravessar a **barreira hematoencefálica** e ser convertida em dopamina no cérebro por enzimas locais, sendo o principal tratamento para aliviar os sintomas da doença."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -257,7 +257,7 @@
         "C": "[INCORRETA] Um **pKa de 4,8** está muito distante do pH desejado (7,0-7,5), não sendo um tampão eficaz para manter a solução dentro da faixa de estabilidade do fármaco.",
         "D": "[CORRETA] Para que um sistema tampão seja mais eficaz, seu **pKa** deve ser o mais próximo possível do **pH** que se deseja manter. A faixa de estabilidade do medicamento é de pH 7,0 a 7,5. Um **pKa de 6,8** é o valor que se aproxima mais do centro dessa faixa (por exemplo, pH 7,4), conferindo ao tampão a máxima capacidade de resistir a variações de pH e manter o pH da solução em **7,4**, que está dentro da faixa de estabilidade do medicamento."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -281,7 +281,7 @@
         "C": "[INCORRETA] Uma **acidose metabólica** é caracterizada por um **pH diminuído** e um **HCO3- diminuído** (abaixo do valor de referência). Os resultados do paciente mostram pH e HCO3- elevados, o oposto de uma acidose metabólica.",
         "D": "[CORRETA] O **pH de 7,52** está elevado (indicando alcalemia). A **pCO2 de 39 mmHg** está dentro dos valores de referência (35-45 mmHg), o que sugere que o problema não é respiratório ou que não há compensação respiratória. O **HCO3- de 31 mEq/L** está elevado (VR: 22-26 mEq/L). Um pH elevado combinado com um HCO3- elevado e pCO2 normal é o quadro clássico de uma **alcalose metabólica**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -305,7 +305,7 @@
         "C": "[CORRETA] O **amido** e o **glicogênio** são polissacarídeos de glicose conectados predominantemente por **ligações glicosídicas α-(1-4)**. A inibição da **glicosidase** pela **Acarbose** impede a quebra dessas ligações no intestino, retardando a digestão e absorção de glicose e auxiliando no controle da **Diabetes Mellitus tipo 2**.",
         "D": "[INCORRETA] Embora o glicogênio e a amilopectina (componente do amido) possuam ligações **α-(1-6)-glicose** em seus pontos de ramificação, as ligações **β-(1-6)-glicose** não são as principais ligações presentes nesses polissacarídeos e, portanto, não seriam o alvo primário da Acarbose."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -329,7 +329,7 @@
         "C": "[INCORRETA] A deficiência na produção de cadeias **alfa globínicas** (alfa-talassemia) afetaria a formação de todas as hemoglobinas que contêm cadeias alfa, incluindo HbA1, HbA2 e HbF. O perfil eletroforético descrito (aumento de HbF e HbA2) não seria compatível com a alfa-talassemia grave.",
         "D": "[INCORRETA] A deficiência na redução do **Fe+3** (férrico) para **Fe+2** (ferroso) está relacionada à **meta-hemoglobinemia**, uma condição em que o ferro do grupo heme permanece no estado oxidado, incapaz de ligar oxigênio. Esta condição não se manifesta com o padrão de eletroforese de hemoglobinas descrito e não é uma hemoglobinopatia por alteração na síntese de cadeias de globina."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -353,7 +353,7 @@
         "C": "[INCORRETA] Uma **acidose metabólica** é caracterizada por **pH baixo**, **HCO3- baixo** e uma PaCO2 que pode estar normal ou baixa (se houver compensação respiratória). Neste caso, a PaCO2 está marcadamente elevada (80 mmHg), indicando que o distúrbio primário é de origem respiratória, não metabólica.",
         "D": "[CORRETA] O **pH de 7,20** está acentuadamente abaixo do normal (acidemia). A **PaCO2 de 80 mmHg** está muito acima do valor de referência (35-45 mmHg), indicando uma **acidose de origem respiratória**. O **Bicarbonato (Bic) de 23 mM/L** está dentro da faixa de referência (22-26 mEq/L), o que significa que não houve tempo para o sistema renal realizar uma compensação metabólica. A **respiração superficial** e a overdose de **tranquilizantes** são causas comuns de depressão respiratória aguda, resultando em retenção de CO2 e, consequentemente, em uma **acidose respiratória descompensada** (aguda)."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -375,7 +375,7 @@
         "B": "[INCORRETA] Embora a **hemoglobina adulta** tenha estrutura quaternária e quatro cadeias polipeptídicas, as cadeias são duas **alfas** e duas **betas**, não **gamas** (estas últimas são encontradas na **hemoglobina fetal**, **HbF**). Adicionalmente, o grupo **heme** localiza-se em uma cavidade hidrofóbica, não hidrofílica.",
         "C": "[CORRETA] Embora a **hemoglobina adulta** como um todo possua estrutura quaternária (e cada subunit individualmente tenha estrutura terciária), esta opção descreve corretamente a natureza da cavidade do grupo **heme**: é hidrofóbica e delimitada por aminoácidos apolares. Esta característica é fundamental para a função do **heme** de ligar **oxigênio** sem oxidação do **ferro**. As outras opções erram em aspectos cruciais da natureza da cavidade do **heme** (descrevendo-a como hidrofílica)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -399,7 +399,7 @@
         "C": "[INCORRETA] A **Doença de Parkinson** é de fato uma deficiência de **dopamina** no **SNC**, derivada da **tirosina**. No entanto, a própria **dopamina** não consegue atravessar a **barreira hemato-encefálica (BHE)**, tornando-a ineficaz para tratamento oral nesse contexto.",
         "D": "[CORRETA] A **Doença de Parkinson** é causada pela deficiência de **dopamina** no **SNC**, um neurotransmissor derivado do aminoácido **tirosina**. A **levodopa** (**L-DOPA**) é o precursor da **dopamina** que é capaz de atravessar a **barreira hemato-encefálica (BHE)** e ser metabolizada em **dopamina** pelos neurônios do **SNC**, aliviando os sintomas da doença."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -423,7 +423,7 @@
         "C": "[INCORRETA] O **pH** de 7,4 está na faixa de estabilidade, mas o **pKa** de 4,8 está muito distante do **pH** 7,4, tornando o sistema ineficaz para tamponar nessa faixa.",
         "D": "[CORRETA] O **pH** de 7,4 se encontra dentro da faixa de estabilidade do medicamento (7,0 a 7,5). Um **pKa** de 6,8 é o mais adequado para manter um **pH** de 7,4, pois a capacidade tamponante máxima ocorre quando o **pH** é igual ao **pKa**, e o sistema ainda é eficaz dentro de uma unidade de **pH** do **pKa** (ou seja, de 5,8 a 7,8 para um pKa de 6,8)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -447,7 +447,7 @@
         "C": "[INCORRETA] A **acidose metabólica** seria caracterizada por um **pH** baixo e um **HCO3-** baixo. Neste caso, o **pH** e o **HCO3-** estão elevados.",
         "D": "[CORRETA] O **pH** de 7,52 está elevado (alcalemia), indicando um quadro de **alcalose**. O **pCO2** de 39 mmHg está dentro da faixa de normalidade, descartando um componente respiratório primário. O **HCO3-** de 31 mEq/L está elevado, o que é a causa primária da **alcalose** identificada, caracterizando uma **Alcalose Metabólica**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -471,7 +471,7 @@
         "C": "[CORRETA] O **amido** e o **glicogênio** são compostos por unidades de **glicose** ligadas principalmente por ligações **glicosídicas α-(1-4)**. A inibição da quebra dessas ligações pela **Acarbose** retarda a digestão e absorção da **glicose**, sendo benéfica para o tratamento do **Diabetes Mellitus tipo 2**.",
         "D": "[INCORRETA] Ligações **β-(1-6)** não são as ligações predominantes no **amido** e **glicogênio**. As ramificações do **glicogênio** são **α-(1-6)**, mas a principal inibição pela **Acarbose** foca nas ligações lineares **α-(1-4)** para atrasar a absorção de glicose."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -495,7 +495,7 @@
         "C": "[INCORRETA] A deficiência na produção de cadeias **alfa globínicas** (como na **Talassemia Alfa**) afetaria a formação de **HbA1**, **HbF** e **HbA2**, pois todas contêm cadeias **alfa**. Isso levaria a um padrão diferente, como a formação de **Hb Barts** ou **Hb H**.",
         "D": "[INCORRETA] A deficiência na redução de **Fe+3** (férrico) para **Fe+2** (ferroso) resultaria em **meta-hemoglobinemia**, onde a **hemoglobina** não consegue ligar **oxigênio** eficientemente, mas o padrão de **eletroforese de hemoglobinas** seria diferente."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -519,7 +519,7 @@
         "C": "[INCORRETA] A **acidose metabólica** seria caracterizada por um **pH** baixo e um **Bic** baixo. O **PaCO2** poderia estar normal ou baixo (compensação respiratória). Neste caso, o **Bic** está normal e o **PaCO2** está elevado.",
         "D": "[CORRETA] O **pH** de 7,20 está significativamente baixo (acidemia), indicando **acidose**. O **PaCO2** de 80 mmHg está muito elevado, o que é a causa primária da **acidose** e caracteriza um distúrbio respiratório. O **Bicarbonato (Bic)** de 23 mM/L está dentro da faixa de normalidade, indicando que não houve tempo para o sistema renal compensar ou que a compensação ainda não se iniciou de forma significativa. Portanto, trata-se de uma **Acidose Respiratória Descompensada**. O uso de **tranquilizantes** pode levar à depressão respiratória e consequente retenção de **CO2**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -543,7 +543,7 @@
         "C": "[INCORRETA] Esta afirmação é incorreta. A **gordura trans** geralmente **reduz** os níveis de **HDL-colesterol** (lipoproteína de alta densidade), que tem um papel protetor contra a aterosclerose, e não os eleva. Sua ingestão, portanto, aumenta o risco cardiovascular.",
         "D": "[INCORRETA] Esta afirmação é o oposto do que ocorre. O consumo de **gordura trans** **aumenta** os níveis de **LDL-colesterol** no sangue, e não os reduz, o que, por sua vez, eleva o risco de **aterosclerose**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -567,7 +567,7 @@
         "C": "[INCORRETA] Esta opção descreve aspectos da **beta-oxidação de ácidos graxos** e **cetogênese**, que ocorrem na mitocôndria, mas não é a função principal da cadeia transportadora de elétrons. A CTE não quebra ácidos graxos nem gera corpos cetônicos diretamente através do bombeamento de prótons para este fim. A produção de corpos cetônicos ocorre em resposta ao acúmulo de acetil-CoA em condições específicas.",
         "D": "[CORRETA] Esta afirmação descreve corretamente a função essencial da **cadeia transportadora de elétrons**. Ela capta **elétrons de alta energia** (de NADH e FADH2), os transfere através de uma série de complexos proteicos na **membrana mitocondrial interna**, e a energia liberada nesse processo é utilizada para bombear **prótons (H+)** para o espaço intermembranar. Este **gradiente de prótons** é a força motriz para a **síntese de ATP** pela **ATP sintase** (fosforilação oxidativa)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -591,7 +591,7 @@
         "C": "[INCORRETA] O **glucagon** ativa a **glicogenólise**, não a glicogênese. A **insulina** ativa a glicogênese e inibe a glicogenólise, não o contrário.",
         "D": "[INCORRETA] O **glucagon** ativa a **glicogenólise**, não a glicogênese. A adrenalina ativa a glicogenólise, o que está correto nesta parte, mas a primeira parte da afirmação está errada."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -615,7 +615,7 @@
         "C": "[INCORRETA] A **niacina** é precursora de **NAD+ (nicotinamida adenina dinucleotídeo)**, que, ao ser reduzido, forma NADH. A **alfa-cetoglutarato desidrogenase** realmente utiliza NAD+ (e TPP), mas sua função é descarboxilar o **alfa-cetoglutarato** a **succinil-CoA** no ciclo de Krebs, não a acetilação de glicose a Acetil-CoA.",
         "D": "[INCORRETA] Embora a **tiamina** seja precursora de **TPP**, a **glicoquinase** é uma enzima que fosforila a glicose a glicose-6-fosfato e não está envolvida na descarboxilação de Acetil-CoA a piruvato. A conversão de piruvato a Acetil-CoA é irreversível e o Acetil-CoA não pode ser convertido de volta a piruvato para gliconeogênese em humanos."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -639,7 +639,7 @@
         "C": "[CORRETA] O **glicogênio muscular** serve exclusivamente como fonte de energia para o próprio músculo. Diferente do fígado, o músculo não possui a enzima **glicose-6-fosfatase**, que é essencial para remover o grupo fosfato da glicose-6-fosfato e liberar glicose livre na corrente sanguínea. Sem essa enzima, a glicose fosforilada fica retida dentro da célula muscular.",
         "D": "[INCORRETA] A **glicogênese** é o processo de **síntese de glicogênio a partir de glicose**, com o propósito de armazenamento de energia. O uso de glicose para produção de energia e manutenção da glicemia é um papel da glicólise e da glicogenólise hepática, mas a glicogênese é o processo oposto à quebra para energia imediata."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -663,7 +663,7 @@
         "C": "[CORRETA] O principal papel do **piruvato** na gliconeogênese é ser convertido a **oxaloacetato** pela enzima **piruvato carboxilase**, uma reação que ocorre na mitocôndria. O oxaloacetato é então transportado ou convertido a malato para ser transportado para o citosol, onde continua o processo de síntese de glicose.",
         "D": "[INCORRETA] A enzima **piruvato desidrogenase** converte piruvato em **acetil-CoA**. Esta é uma reação irreversível e o acetil-CoA não pode ser convertido em glicose em humanos, pois não há via para reverter a formação de piruvato a partir de acetil-CoA. Além disso, o piruvato não é convertido 'diretamente em glicose'."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -687,7 +687,7 @@
         "C": "[CORRETA] Para promover o emagrecimento a partir das gorduras acumuladas, o produto deve acelerar o **catabolismo** (quebra) dessas gorduras. A quebra de moléculas complexas, como as gorduras, é um processo **exergônico**, que resulta na **liberação de energia** para o organismo.",
         "D": "[INCORRETA] **Anabolismo** é síntese de gordura (ganho de peso), e embora a afirmação sobre ser exergônico (libera energia) seja incorreta para o anabolismo (que consome energia), mesmo que fosse exergônico, o anabolismo não resultaria em emagrecimento."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -711,7 +711,7 @@
         "C": "[INCORRETA] O Ciclo de Krebs é um processo **aeróbio**, não anaeróbio. Ocorre na **mitocôndria**, não no citosol. Além disso, oxigênio e água não são os produtos líquidos do ciclo em si; CO2 e transportadores de elétrons reduzidos (NADH e FADH2) são os produtos principais.",
         "D": "[CORRETA] O **Ciclo de Krebs** é, de fato, uma componente fundamental da **respiração celular aeróbica** e ocorre **especificamente na matriz mitocondrial** das células eucarióticas, onde o acetil-CoA é oxidado."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -735,7 +735,7 @@
         "C": "[INCORRETA] A **lipólise** é a **quebra de triglicerídeos** armazenados em ácidos graxos e glicerol. A lipólise periférica libera ácidos graxos que podem ser captados pelo fígado, mas a lipólise em si não é a via responsável pelo aumento da produção de VLDL; na verdade, VLDL transporta triglicerídeos para serem hidrolisados por lipoproteína lipase.",
         "D": "[CORRETA] A **lipogênese** é a via metabólica para a **síntese de ácidos graxos e triglicerídeos** no fígado (e tecido adiposo). Quando a ingestão de carboidratos excede a capacidade de armazenamento de glicogênio, o excesso é convertido em ácidos graxos e triglicerídeos, que são empacotados em **VLDL** e secretados pelo fígado, causando o aumento dessa lipoproteína."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -759,7 +759,7 @@
         "C": "[INCORRETA] A deficiência de G6PD afeta a via das pentoses fosfato nos eritrócitos, mas não está diretamente associada à **hipoglicemia**. O metabolismo da glicose para produção de energia principal (glicólise) não é afetado diretamente de forma a causar hipoglicemia.",
         "D": "[INCORRETA] **Rabdomiólise** é a quebra de tecido muscular. Embora a deficiência de G6PD possa afetar outras células, sua principal manifestação clínica grave e direta está nos eritrócitos, causando hemólise, e não rabdomiólise."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -783,7 +783,7 @@
         "C": "[INCORRETA] O **sorbitol** é o álcool açúcar formado a partir da redução da **glicose**, não da galactose. Seu acúmulo está associado a complicações em pacientes com diabetes mellitus (ex: neuropatia, retinopatia), não com galactosemia.",
         "D": "[INCORRETA] O **lactitol** é um álcool açúcar sintético derivado da lactose, utilizado como adoçante ou laxante, e não é um produto metabólico que se acumula na galactosemia."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -807,7 +807,7 @@
         "C": "[INCORRETA] Esta afirmação descreve o oposto do que ocorre: o **NAD+ é reduzido a NADH** *na glicólise*, e na formação de lactato, o NADH é oxidado a NAD+. Além disso, o **piruvato é reduzido**, não oxidado, a lactato.",
         "D": "[INCORRETA] A enzima **lactato desidrogenase** catalisa a **redução do piruvato** em lactato, não a sua oxidação. A oxidação implicaria a perda de elétrons, enquanto a formação de lactato envolve o ganho de elétrons pelo piruvato."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -831,7 +831,7 @@
         "C": "[CORRETA] A **hipertermia** é o efeito característico e mais perigoso da substância 2,4-dinitrofenol (DNP), um desacoplador da fosforilação oxidativa. Ao dissipar o gradiente de prótons na mitocôndria, a energia da cadeia de transporte de elétrons é liberada como calor, levando a um aumento descontrolado da temperatura corporal.",
         "D": "[INCORRETA] A **cetoacidose** está associada à deficiência de insulina e/ou aumento de hormônios contrarreguladores, levando à produção excessiva de corpos cetônicos. Não é uma consequência direta do mecanismo de ação dos desacopladores da fosforilação oxidativa, embora distúrbios metabólicos secundários possam ocorrer em quadros graves."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -855,7 +855,7 @@
         "C": "[INCORRETA] A **glicólise** não ocorre na **mitocôndria**, mas sim no **citosol**. Além disso, a glicólise não produz **CO2**; este é um produto da respiração celular aeróbica subsequente (descarboxilação do piruvato e Ciclo de Krebs).",
         "D": "[CORRETA] Esta afirmação está correta. A **glicólise** ocorre no **citosol** e resulta na produção de **ATP** (por fosforilação ao nível do substrato), **Piruvato** (o produto final da via) e **NADH** (equivalentes redutores)."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -879,7 +879,7 @@
         "C": "[INCORRETA] **Lactato** e **glicerol** são precursores válidos. No entanto, o **glicogênio** é uma forma de armazenamento de glicose e é quebrado para liberar glicose (glicogenólise), mas não é um precursor da síntese de nova glicose através da **gliconeogênese**.",
         "D": "[CORRETA] Esta alternativa lista os principais precursores da **gliconeogênese**: **Aminoácidos** (especialmente os glicogênicos, que podem ser convertidos em intermediários do ciclo de Krebs ou piruvato), **glicerol** (proveniente da quebra de triglicerídeos) e **lactato** (produzido na glicólise anaeróbica)."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -903,7 +903,7 @@
         "C": "[INCORRETA] As **glicoproteínas** são formadas por uma proteína ligada a cadeias de carboidratos. O **colesterol** não faz parte diretamente das glicoproteínas; sua associação com a membrana é de inserção na bicamada lipídica.",
         "D": "[INCORRETA] O **colesterol** é um precursor de **hormônios esteróides** (como estrogênio, testosterona, cortisol, aldosterona) e **ácidos biliares**, mas não é precursor da **insulina**. A insulina é um **hormônio peptídico** (proteico) e não um hormônio lipídico."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 1,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -927,7 +927,7 @@
         "C": "[INCORRETA] A **fosfofrutoquinase-1 (PFK-1)** é uma enzima chave da **glicólise**, regulando a conversão de frutose-6-fosfato em frutose-1,6-bisfosfato. Sua deficiência pode causar uma miopatia metabólica com intolerância ao exercício, mas não está diretamente relacionada à intolerância à frutose com hipoglicemia pós-ingestão de frutas.",
         "D": "[INCORRETA] A **fosfofrutoquinase-2 (PFK-2)** é uma enzima bifuncional que regula os níveis de **frutose-2,6-bisfosfato**, um ativador alostérico da PFK-1 e inibidor da frutose-1,6-bisfosfatase. Ela não está diretamente envolvida no metabolismo da frutose proveniente da dieta, mas sim na regulação da glicólise e gliconeogênese via **frutose-2,6-bisfosfato**."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -951,7 +951,7 @@
         "C": "[CORRETA] Esta afirmação está correta. A **bicamada lipídica** da membrana plasmática permite a passagem livre de **substâncias lipofílicas** (solúveis em lipídios), como gases (**O2, CO2**), álcoois pequenos (**etanol**) e algumas vitaminas lipossolúveis, pois estas conseguem se dissolver na porção hidrofóbica da membrana.",
         "D": "[INCORRETA] As membranas são amplamente **impermeáveis a íons** devido à sua carga elétrica. Íons como Na+, K+, Ca2+ e Cl- não conseguem atravessar a bicamada lipídica e necessitam de canais iônicos ou transportadores específicos para sua passagem."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -975,7 +975,7 @@
         "C": "[CORRETA] Esta afirmação descreve corretamente um mecanismo de estimulação da **lipogênese**. Em um estado de alta energia, o excesso de **acetil-CoA** na mitocôndria é convertido em **citrato**. O **citrato** é então transportado para o citosol, onde serve como fonte de **acetil-CoA** para a síntese de ácidos graxos e atua como ativador alostérico da **acetil-CoA carboxilase**, a enzima chave que forma **malonil-CoA**, um intermediário e regulador importante da lipogênese.",
         "D": "[INCORRETA] A **lipogênese** é estimulada pela **insulina**, que sinaliza um estado de abundância energética. No entanto, o acúmulo de **ADP** (adenosina difosfato) indica um estado de baixa energia e consumo de ATP, o que inibiria a lipogênese, que é um processo anabólico e consumidor de energia."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -999,7 +999,7 @@
         "C": "[INCORRETA] A ingestão de **gordura trans** na verdade **diminui** os níveis de **HDL** (lipoproteína de alta densidade), que é o colesterol protetor, e **aumenta** os níveis de **LDL**. Isso eleva, e não reduz, o risco de formação de **placas ateroscleróticas**.",
         "D": "[INCORRETA] O consumo de **gordura trans** **aumenta** os níveis de **LDL** (lipoproteína de baixa densidade), o que, por sua vez, **aumenta** o risco de **aterosclerose**, ao contrário do que a alternativa sugere."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1023,7 +1023,7 @@
         "C": "[INCORRETA] A quebra de **ácidos graxos** em **acetil-CoA** ocorre na **beta-oxidação**, e a formação de **corpos cetônicos** (cetogênese) acontece na **mitocôndria** (não no citosol para a maioria das células) quando há excesso de acetil-CoA. A CTE não está diretamente envolvida na criação de gradiente para a produção de corpos cetônicos; ela utiliza elétrons para criar um gradiente de prótons para a síntese de **ATP**.",
         "D": "[CORRETA] Esta alternativa descreve precisamente a função da **cadeia transportadora de elétrons**. Ela recebe **elétrons de alta energia** (de **NADH** e **FADH2**), que são transferidos sequencialmente pelos **complexos proteicos** na **membrana mitocondrial interna**. A energia liberada nesse processo é usada para **bombear prótons (H+)** do interior da mitocôndria (matriz) para o **espaço intermembrana**, criando um **gradiente eletroquímico de prótons**. Esse gradiente é essencial para a **ATP sintase** produzir a maior parte do **ATP** celular, em um processo conhecido como **fosforilação oxidativa**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1047,7 +1047,7 @@
         "C": "[INCORRETA] O **glucagon** ativa a **glicogenólise**, não a **glicogênese**. A **insulina** ativa a **glicogênese**, não a **glicogenólise**.",
         "D": "[INCORRETA] O **glucagon** ativa a **glicogenólise**, não a **glicogênese**. A **adrenalina** ativa a **glicogenólise**, mas a primeira parte da afirmação está incorreta."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1071,7 +1071,7 @@
         "C": "[INCORRETA] A **niacina** (vitamina B3) é precursora do **NAD+** (nicotinamida adenina dinucleotídeo), e não diretamente **NADH**. Embora o **NAD+** seja utilizado pela **alfa-cetoglutarato desidrogenase** no ciclo de Krebs, a afirmação de \"acetilação de glicose a Acetil-CoA\" está incorreta. A **glicose** não é acetilada diretamente a **Acetil-CoA** por essa via.",
         "D": "[INCORRETA] A **tiamina** é precursora de **TPP**, mas a **glicoquinase** não utiliza **TPP** e não realiza a descarboxilação de **Acetil-CoA** a **piruvato**. A **glicoquinase** é uma enzima que fosforila a glicose no fígado."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1095,7 +1095,7 @@
         "C": "[CORRETA] O **glicogênio** armazenado nos **músculos** é utilizado exclusivamente para as necessidades energéticas do próprio músculo. A **glicose-6-fosfatase**, enzima crucial para remover o grupo fosfato da **glicose-6-fosfato** e permitir que a **glicose** livre seja liberada na corrente sanguínea, está presente no **fígado** mas ausente no **músculo**. Consequentemente, o **músculo** não pode liberar **glicose** para a manutenção da **glicemia**.",
         "D": "[INCORRETA] A **glicogênese** é o processo de síntese (armazenamento) de **glicogênio** a partir de **glicose**, não o \"uso de glicose para produção de energia\". Embora a **glicose** possa ser usada para energia, a **glicogênese** em si é um processo anabólico de armazenamento. A manutenção da **glicemia** é primariamente função do **glicogênio hepático** via **glicogenólise** ou **gliconeogênese**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1119,7 +1119,7 @@
         "C": "[CORRETA] O **piruvato** entra na via da **gliconeogênese** sendo primeiramente convertido em **oxaloacetato** pela enzima **piruvato carboxilase**, localizada na mitocôndria. O **oxaloacetato** é então transportado para o citosol (diretamente ou como malato/aspartato) e convertido em **fosfoenolpiruvato (PEP)** pela **fosfoenolpiruvato carboxiquinase**, dando continuidade à síntese de **glicose**.",
         "D": "[INCORRETA] A enzima **piruvato desidrogenase** converte **piruvato** em **Acetil-CoA**, uma etapa que conecta a glicólise ao ciclo de Krebs, mas que é irreversível em mamíferos. O **Acetil-CoA** não pode ser convertido diretamente em **glicose** pela via da **gliconeogênese**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1143,7 +1143,7 @@
         "C": "[CORRETA] O **emagrecimento** envolve a degradação das **gorduras** acumuladas, um processo denominado **catabolismo lipídico**. As reações **catabólicas** são caracteristicamente **exergônicas**, ou seja, liberam **energia** para o sistema, que pode ser utilizada para diversas funções celulares ou dissipada como calor. Este processo é o fundamento do emagrecimento.",
         "D": "[INCORRETA] O **anabolismo** é a síntese de gorduras, o oposto do que levaria ao emagrecimento. Além disso, reações **anabólicas** são **endergônicas**, necessitando de **energia**, e não \"liberando energia\" (exergônicas)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1167,7 +1167,7 @@
         "C": "[INCORRETA] O **oxigênio** é consumido na **cadeia transportadora de elétrons** (parte final da respiração aeróbica), não produzido no **Ciclo de Krebs**. A **água** também é produzida na **cadeia transportadora de elétrons**. Além disso, o **Ciclo de Krebs** é parte da **respiração aeróbia**, não anaeróbia, e ocorre na **mitocôndria**, não no **citosol**.",
         "D": "[CORRETA] O **Ciclo de Krebs** é uma das principais vias do metabolismo energético e ocorre como uma etapa essencial da **respiração celular aeróbica**. A sua localização é, de fato, na **matriz mitocondrial** das células eucarióticas, onde as enzimas do ciclo estão presentes."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1191,7 +1191,7 @@
         "C": "[INCORRETA] A **lipólise** é o processo de quebra de **triglicerídeos** armazenados em **ácidos graxos** e **glicerol**, principalmente no tecido adiposo. Se a **lipólise** estivesse aumentada sem um uso correspondente da energia, o fígado poderia tentar re-esterificar os **ácidos graxos** e secretar mais **VLDL**, mas a via *diretamente* responsável pela formação do **VLDL** (que são os triglicerídeos que ele carrega) é a síntese, não a quebra.",
         "D": "[CORRETA] A **lipogênese** é a via metabólica responsável pela síntese de **ácidos graxos** e sua posterior esterificação em **triglicerídeos**. Quando a **lipogênese** hepática está ativada (por exemplo, por um excesso de carboidratos na dieta), há uma maior produção de **triglicerídeos** que são empacotados em **VLDL** e secretados na corrente sanguínea, resultando em níveis elevados dessa lipoproteína."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1215,7 +1215,7 @@
         "C": "[INCORRETA] A **deficiência de G6PD** afeta o metabolismo das **hemácias** e a proteção contra o estresse oxidativo, mas não tem como consequência direta a **hipoglicemia** (níveis baixos de glicose no sangue). As vias de regulação da glicemia são distintas.",
         "D": "[INCORRETA] A **rabdomiólise** é a quebra de tecido muscular esquelético, liberando componentes intracelulares no sangue. Embora a deficiência de **G6PD** possa, em casos raros e sob estresse oxidativo extremo, estar associada a algum grau de dano muscular, a principal e mais direta consequência é a **anemia hemolítica**, especialmente evidente no quadro descrito."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1239,7 +1239,7 @@
         "C": "[INCORRETA] O **sorbitol** é o álcool açucarado derivado da **glicose**, não da **galactose**. Ele se acumula no cristalino em casos de **diabetes mellitus** mal controlado, contribuindo para a **catarata diabética**, mas não está diretamente envolvido na patogênese da **catarata** na **galactosemia**.",
         "D": "[INCORRETA] O **lactitol** é um álcool açucarado sintético, usado como adoçante e laxante. Não é um metabólito fisiológico da **galactose** e não se acumula no cristalino na **galactosemia** para causar catarata."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1263,7 +1263,7 @@
         "C": "[INCORRETA] Esta opção descreve o processo inverso em relação ao **NAD+/NADH** e a oxidação/redução do **piruvato**. O **NAD+** é formado pela **oxidação** do **NADH**, não pela sua redução. Além disso, o **piruvato** é **reduzido** a **lactato**, não oxidado.",
         "D": "[INCORRETA] A **enzima lactato desidrogenase** catalisa a **redução** do **piruvato** a **lactato**, utilizando os elétrons do **NADH**. A afirmação de que ela realiza a \"oxidação do piruvato em lactato\" está incorreta."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1287,7 +1287,7 @@
         "C": "[CORRETA] O **2,4-dinitrofenol (DNP)** é um **desacoplador da fosforilação oxidativa**. Isso significa que a energia gerada pela **cadeia transportadora de elétrons**, que normalmente seria usada para bombear prótons e sintetizar **ATP**, é liberada como **calor**. Este aumento descontrolado da produção de **calor** no corpo é a causa direta e mais grave da **hipertermia**, que pode ser fatal.",
         "D": "[INCORRETA] A **cetoacidose** é uma condição caracterizada pelo acúmulo de **corpos cetônicos** e acidose metabólica, frequentemente associada ao diabetes descompensado ou jejum prolongado severo. Embora o **DNP** possa influenciar o metabolismo de gorduras, a **cetoacidose** não é a consequência primária ou mais característica da sua intoxicação."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1311,7 +1311,7 @@
         "C": "[INCORRETA] A glicólise não ocorre na **mitocôndria**. A produção de **CO2** na via de oxidação da glicose é um evento mitocondrial, posterior à glicólise.",
         "D": "[CORRETA] Esta afirmação está correta. A **glicólise** ocorre no **citosol** e seus principais produtos incluem **ATP** (por fosforilação em nível de substrato), **NADH** e **piruvato**. Estes produtos são essenciais para a continuação do metabolismo energético ou para a própria formação de energia de maneira rápida."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -1335,7 +1335,7 @@
         "C": "[INCORRETA] O **glicogênio** é a forma de armazenamento de glicose, e sua quebra (glicogenólise) libera glicose. Ele não é um precursor para a *síntese de nova glicose* a partir de fontes não-carboidratos. Lactato e glicerol são precursores válidos.",
         "D": "[CORRETA] Esta alternativa lista corretamente os principais precursores não-carboidratos da **gliconeogênese**: **aminoácidos glicogênicos** (a maioria dos aminoácidos, exceto leucina e lisina), **glicerol** (proveniente da hidrólise de triglicerídeos) e **lactato** (produzido na glicólise anaeróbica e ciclo de Cori)."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -1359,7 +1359,7 @@
         "C": "[INCORRETA] As **glicoproteínas** são proteínas que possuem cadeias de oligossacarídeos ligadas covalentemente. O colesterol não é um componente direto das glicoproteínas.",
         "D": "[INCORRETA] A **insulina** é um **hormônio peptídico** (proteico) produzido pelas células beta do pâncreas, e não um hormônio lipídico. O colesterol não é seu precursor. Hormônios esteróides como cortisol e estrogênio, sim, são derivados do colesterol."
       },
-      "tema": "Aplicações Clínicas dos Lipídios",
+      "tema": "pmh_a9",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a9"
@@ -1383,7 +1383,7 @@
         "C": "[INCORRETA] A **Fosfofrutoquinase-1 (PFK-1)** é uma enzima-chave da **glicólise**. Sua deficiência (doença de Tarui) afeta o metabolismo da glicose e causa intolerância ao exercício e dor muscular, mas não os sintomas específicos relacionados à ingestão de frutose ou à IHF.",
         "D": "[INCORRETA] A **Fosfofrutoquinase-2 (PFK-2)** é uma enzima reguladora da glicólise/gliconeogênese, que controla os níveis de frutose-2,6-bifosfato. Sua deficiência não está diretamente ligada à Intolerância Hereditária à Frutose."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -1407,7 +1407,7 @@
         "C": "[CORRETA] Esta é uma característica fundamental da bicamada lipídica da **membrana celular**. A porção hidrofóbica da membrana permite a passagem livre de **substâncias lipofílicas** (que se dissolvem em lipídios), independentemente do seu tamanho (até certo ponto, como esteróides).",
         "D": "[INCORRETA] As membranas celulares são **impermeáveis à íons** devido à sua carga elétrica e à camada de hidratação (moléculas de água) que os envolve. A passagem de íons é mediada por **canais iônicos** ou **transportadores específicos**, que são proteínas transmembrana."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1431,7 +1431,7 @@
         "C": "[CORRETA] O **citrato** se acumula na **matriz mitocondrial** quando há excesso de acetil-CoA e ATP, indicando alta carga energética. Ele é transportado para o **citosol**, onde serve como fonte de acetil-CoA para a síntese de ácidos graxos. O aumento do acetil-CoA no citosol leva à formação de **malonil-CoA**, um intermediário essencial e potente regulador alostérico da lipogênese (ativa a Acetil-CoA carboxilase e inibe a CPT-1).",
         "D": "[INCORRETA] A **insulina** é um potente estimulador da **lipogênese**, promovendo a conversão de carboidratos em gordura. No entanto, o acúmulo de **ADP** sinaliza baixa carga energética na célula e, consequentemente, **inibiria** processos anabólicos que consomem ATP, como a lipogênese."
       },
-      "tema": "Aplicações Clínicas dos Lipídios",
+      "tema": "pmh_a9",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a9"
@@ -1455,7 +1455,7 @@
         "C": "[INCORRETA] Esta opção apresenta um **pH** **menor que o normal** (acidose) com **bicarbonato maior que o normal** e **pCO2 maior que o normal**. Níveis elevados de bicarbonato são característicos de **alcalose metabólica**, e um pCO2 elevado de **acidose respiratória**, não se encaixando no quadro de **cetoacidose metabólica com compensação respiratória**.",
         "D": "[CORRETA] Na **cetoacidose metabólica**, há produção excessiva de **corpos cetônicos** (ácidos), levando a uma diminuição do **pH** sanguíneo (acidose) e consumo de **bicarbonato (HCO3-)**, que diminui. O corpo tenta compensar essa acidose pela **hiperventilação** (aumento da frequência e profundidade respiratória), o que leva à eliminação de mais **CO2** pelos pulmões, diminuindo a **pCO2** abaixo do normal, caracterizando a **compensação respiratória**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -1479,7 +1479,7 @@
         "C": "[CORRETA] A **hemoglobina glicada** é o resultado da **glicação** da hemoglobina. Este é um processo **não enzimático** e **espontâneo** que ocorre quando os níveis de **glicose no sangue** estão elevados, como na **diabetes não controlada**. A glicose se liga de forma irreversível à **hemoglobina**, e a quantidade de HbA1c reflete os níveis médios de glicose nos últimos 2-3 meses.",
         "D": "[INCORRETA] A **hemoglobina glicada** não perde sua função de transportar oxigênio de forma significativa no contexto clínico da sua formação como marcador. Além disso, a **glicação** é a ligação da **glicose** a uma **proteína** (hemoglobina), não a formação de ligações glicosídicas entre moléculas de glicose."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1503,7 +1503,7 @@
         "C": "[INCORRETA] Quando o inibidor e o substrato se ligam a **sítios diferentes** na enzima (o inibidor a um sítio alostérico e o substrato ao sítio ativo), isso descreve a **inibição não competitiva** ou **mista**, não a inibição competitiva clássica.",
         "D": "[INCORRETA] A inibição competitiva ocorre pela ligação ao **sítio ativo**, não ao **sítio alostérico**. A ligação a um sítio alostérico (diferente do sítio ativo) é característica da **inibição alostérica**, que pode modular a atividade da enzima de várias formas, mas não é a definição primária de inibição competitiva."
       },
-      "tema": "Regulação Metabólica Geral",
+      "tema": "pmh_a2",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a2"
@@ -1527,7 +1527,7 @@
         "C": "[INCORRETA] Embora o **colágeno** seja uma **proteína fibrosa**, sua principal estrutura secundária e terciária que forma a unidade funcional é a **tripla hélice**, não folhas beta. As **folhas beta** são características de outras proteínas estruturais, como as queratinas beta ou as fibrinas. (Nota: 'brosa' é corrigido para **fibrosa** na explicação, mas transcrito fielmente na opção).",
         "D": "[INCORRETA] O **colágeno** não é uma proteína globular e sua estrutura principal não é uma longa cadeia de estrutura secundária do tipo **alfa hélice**. Embora as cadeias individuais tenham regiões em conformação de hélice (hélice do colágeno, que é diferente da alfa-hélice), a estrutura funcional é a **tripla hélice** formada por três dessas cadeias."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1551,7 +1551,7 @@
         "C": "[INCORRETA] Os tampões **fosfato** e as **proteínas** são importantes. No entanto, o principal sistema tampão extracelular é o sistema **bicarbonato-ácido carbônico (HCO3-/H2CO3)**, não simplesmente 'carbonato'. O 'carbonato' (CO3^2-) tem papel muito secundário ou inexistente como tampão primário no sangue em comparação com o sistema bicarbonato.",
         "D": "[INCORRETA] O organismo não se mantém quimicamente neutro; ele está em um estado dinâmico de produção e eliminação de **ácidos**, com os sistemas tampão e órgãos excretores trabalhando constantemente para manter o **pH** dentro da faixa fisiológica. A produção de substâncias ácidas é geralmente maior do que a de básicas, necessitando de mecanismos de eliminação robustos."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1575,7 +1575,7 @@
         "C": "[CORRETA] O **Efeito Bohr** é um mecanismo crucial: a **acidificação dos tecidos** (diminuição do **pH**, devido ao aumento de **CO2** e **ácido láctico**) **diminui a afinidade da hemoglobina pelo oxigênio**. Isso significa que a hemoglobina libera mais facilmente o oxigênio onde ele é mais necessário (tecidos com alta demanda metabólica e consequentemente mais ácidos), auxiliando a combater a **hipóxia**. (Nota: 'a nidade' e 'acidi cação' são corrigidos para **afinidade** e **acidificação** na explicação, mas transcritos fielmente nas opções).",
         "D": "[INCORRETA] O **aumento da afinidade da hemoglobina pelo oxigênio com a acidificação dos tecidos** é o oposto do que ocorre. A acidificação diminui a afinidade da hemoglobina pelo O2, promovendo a sua liberação para os tecidos, conforme o **Efeito Bohr**. (Nota: 'a nidade' e 'acidi cação' são corrigidos para **afinidade** e **acidificação** na explicação, mas transcritos fielmente nas opções)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1599,7 +1599,7 @@
         "C": "[INCORRETA] A **protonação da hemoglobina nos pulmões** seria desfavorável à captura de oxigênio (diminuiria a afinidade). A **desprotonação nos tecidos** levaria à maior afinidade por O2, dificultando a liberação, o que é o oposto do necessário para a entrega de oxigênio aos tecidos.",
         "D": "[INCORRETA] A **desprotonação da hemoglobina nos tecidos** aumentaria a afinidade pelo oxigênio, dificultando sua liberação. A **protonação nos pulmões** diminuiria a afinidade, prejudicando a captação de oxigênio. Ambas as partes da afirmação estão incorretas em relação à fisiologia do transporte de gases."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1623,7 +1623,7 @@
         "C": "[INCORRETA] Se o **KM (1mM)** é muito próximo da concentração fisiológica de **CO2 (1,2mM)**, isso implica que a enzima *não está* saturada. A saturação ocorre quando a concentração de substrato é significativamente maior que o **KM**, fazendo com que a velocidade da reação se aproxime da velocidade máxima (**Vmax**).",
         "D": "[INCORRETA] Pelo contrário, quando a enzima não está saturada (como é o caso aqui, com [S] ≈ KM), um aumento na concentração de substrato (**CO2**) resultará em um aumento na velocidade da reação. A velocidade só não aumentaria se a enzima já estivesse operando em sua **Vmax** devido à saturação completa."
       },
-      "tema": "Regulação Metabólica Geral",
+      "tema": "pmh_a2",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a2"
@@ -1647,7 +1647,7 @@
         "C": "[CORRETA] Esta é a principal razão para a eficácia do tampão bicarbonato. O **pulmão** regula rapidamente os níveis de **CO2** (e, por consequência, o **ácido carbônico H2CO3** através da anidrase carbônica), enquanto os **rins** controlam a excreção e reabsorção de **íons bicarbonato (HCO3-)**. Essa regulação fisiológica contínua e integrada permite que o pH do sangue seja mantido próximo a **7,4**.",
         "D": "[INCORRETA] Para que a concentração de ácido carbônico fosse igual à concentração de bicarbonato, o **pH** teria que ser igual ao **pKa** do sistema (aproximadamente **6,1**), de acordo com a equação de Henderson-Hasselbalch. O pH sanguíneo fisiológico é **7,4**, o que indica uma proporção muito maior de bicarbonato em relação ao ácido carbônico (cerca de 20:1)."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1671,7 +1671,7 @@
         "C": "[CORRETA] A perda da função da **fenilalanina hidroxilase** leva ao acúmulo de **fenilalanina** no sangue, que então atravessa a barreira hematoencefálica e se acumula no **SNC**. Esses **níveis elevados de fenilalanina** são a principal causa da neurotoxicidade e dos danos ao desenvolvimento cerebral, incluindo o retardo mental.",
         "D": "[INCORRETA] Embora a deficiência da enzima também leve a **níveis baixos de tirosina** (que é um precursor de neurotransmissores como dopamina e noradrenalina), a **hipotirosinemia** não é a principal causa dos danos neurológicos graves observados na **PKU**. O efeito tóxico direto da **fenilalanina** acumulada é o fator predominante."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1695,7 +1695,7 @@
         "C": "[CORRETA] As **vitaminas** funcionam como **precursoras de coenzimas**. As **coenzimas** são moléculas **orgânicas** essenciais que se ligam às enzimas e participam diretamente da catálise, transportando grupos químicos ou elétrons. A deficiência de uma vitamina, como a **tiamina (vitamina B1)**, compromete a formação da sua coenzima (**tiamina pirofosfato**) e, consequentemente, o funcionamento das enzimas do metabolismo energético.",
         "D": "[INCORRETA] As **vitaminas** não são as coenzimas em si, mas sim os **precursores** das coenzimas. No entanto, é correto que as coenzimas derivadas de vitaminas são **moléculas orgânicas** essenciais para o funcionamento enzimático."
       },
-      "tema": "Regulação Metabólica Geral",
+      "tema": "pmh_a2",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a2"
@@ -1719,7 +1719,7 @@
         "C": "[INCORRETA] Embora as **beta-talassemias** sejam um alvo, o tratamento aumenta os níveis de **HbF**, não de **HbA1**. Além disso, o foco primário é em doenças da cadeia beta, onde a **HbF** pode substituir a cadeia beta defeituosa. Alfa-talassemias envolvem defeitos nas cadeias alfa e geralmente não são diretamente compensadas pela produção de HbF, que ainda requer cadeias alfa.",
         "D": "[INCORRETA] O tratamento visa aumentar os níveis de **HbF**, o que está correto. No entanto, enquanto beneficia **Beta-talassemias**, ele não é o tratamento primário ou mais direto para **Alfa-talassemias**, pois estas são causadas por defeitos nas cadeias α, que são essenciais tanto para **HbA1** quanto para **HbF**."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1743,7 +1743,7 @@
         "C": "[INCORRETA] Aumentar o **KM** da enzima pelo substrato significa que a enzima tem *menos afinidade* pelo seu substrato natural. Isso dificultaria a função da enzima e não seria um mecanismo de resistência contra um inibidor competitivo, a menos que a afinidade pelo inibidor diminuísse ainda mais drasticamente.",
         "D": "[CORRETA] Um mecanismo comum de resistência contra inibidores competitivos é o **aumento da concentração do substrato natural**. Se a bactéria produzir mais **ácido para-aminobenzóico (PABA)**, ela pode superar o efeito do **sulfametoxazol**, pois haverá substrato suficiente para competir com o inibidor e permitir que a **DHPS** sintetize folato, essencial para o crescimento bacteriano."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1767,7 +1767,7 @@
         "C": "[INCORRETA] A substituição de uma **Lisina (Lys)** por uma **Histidina (His)** na posição 82 não alteraria significativamente a carga positiva líquida do sítio de ligação, pois ambos são aminoácidos básicos e positivamente carregados no pH fisiológico. Além disso, a **Lisina na posição 82** está presente tanto na cadeia beta quanto na gama, de modo que essa posição é conservada em termos de carga.",
         "D": "[INCORRETA] A substituição de uma **Lisina (Lys)** por uma **Arginina (Arg)** na posição 82 manteria a carga positiva do sítio de ligação, pois ambos são aminoácidos básicos. Isso não explicaria a perda de afinidade da **HbF** pelo **2,3-BPG**, que depende da redução das cargas positivas."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1791,7 +1791,7 @@
         "C": "[CORRETA] O **ácido hialurônico** é um **glicosaminoglicano (GAG)**, que por sua vez é um tipo de **heteropolissacarídeo**. É formado por polímeros lineares de unidades de dissacarídeos repetidas (**N-acetilglicosamina e ácido glucurônico**). Ele é único entre os GAGs por não ser sulfatado e por não se ligar covalentemente a proteínas para formar **proteoglicanos** diretamente (embora interaja com eles).",
         "D": "[INCORRETA] Embora seja um **heteropolissacarídeo** e um **glicosaminoglicano**, o **ácido hialurônico** não é um **proteoglicano**. Os **proteoglicanos** são compostos por uma **proteína central** à qual várias cadeias de GAGs (exceto o ácido hialurônico, que se associa a eles) estão ligadas covalentemente. O ácido hialurônico não é ramificado e não é, por definição, um proteoglicano."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -1815,7 +1815,7 @@
         "C": "[INCORRETA] A hemoglobina adulta (HbA) é formada por **duas cadeias alfa** e **duas cadeias beta**, não por duas cadeias alfa e duas cadeias gama. A composição de **duas cadeias alfa e duas cadeias gama** caracteriza a **hemoglobina fetal (HbF)**. Adicionalmente, a cavidade do grupo heme é **hidrofóbica**, não hidrofílica.",
         "D": "[INCORRETA] A hemoglobina possui **estrutura quaternária** (com múltiplas cadeias polipeptídicas), não terciária. Embora afirme corretamente que o grupo heme está em uma **cavidade hidrofóbica** delimitada por **aminoácidos apolares**, a descrição da estrutura como terciária está incorreta para a hemoglobina funcional."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1839,7 +1839,7 @@
         "C": "[INCORRETA] A paciente de fato apresenta **deficiência de dopamina** no SNC, que é derivada do **aminoácido tirosina**. No entanto, a **dopamina** por si só não é utilizada no tratamento da doença de Parkinson porque **não consegue atravessar eficazmente a barreira hematoencefálica (BHE)** para atingir o SNC.",
         "D": "[CORRETA] A **Doença de Parkinson** é caracterizada por **deficiência de dopamina** no SNC, um neurotransmissor sintetizado a partir do **aminoácido tirosina**. A **levodopa (L-Dopa)** é o precursor da dopamina e é o tratamento mais eficaz, pois, ao contrário da dopamina, a **levodopa é capaz de atravessar a barreira hematoencefálica** e ser convertida em dopamina por meio da enzima **descarboxilase de L-aminoácidos aromáticos** dentro do SNC, aliviando os sintomas."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1863,7 +1863,7 @@
         "C": "[INCORRETA] Similarmente aos pKa's de 5,8 e 8,8, um **pKa de 4,8** é muito baixo para ser eficaz na faixa de pH desejada de 7,0-7,5.",
         "D": "[CORRETA] Para manter o pH entre **7,0 e 7,5**, um sistema tampão deve ter um **pKa próximo a essa faixa**. Um **pKa de 6,8** está idealmente situado para tamponar eficazmente em um pH como **7,4**, que está dentro do intervalo de estabilidade do medicamento e é o pH fisiológico do sangue, tornando esta a opção mais adequada."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1887,7 +1887,7 @@
         "C": "[INCORRETA] A **acidose metabólica** seria caracterizada por **pH diminuído** e **HCO3- diminuído**. O paciente apresenta **pH elevado** e **HCO3- elevado**, o oposto da acidose metabólica.",
         "D": "[CORRETA] O **pH de 7,52** está elevado (alcalemia). O **pCO2 de 39 mmHg** está dentro da faixa normal (35-45 mmHg), indicando que não há componente respiratório primário. O **HCO3- de 31 mEq/L** está elevado (VR: 22-26 mEq/L). Um **pH elevado com HCO3- elevado e pCO2 normal** é a definição de **alcalose metabólica**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
@@ -1911,7 +1911,7 @@
         "C": "[CORRETA] O **amido** e o **glicogênio** são polímeros de glicose unidos predominantemente por ligações **glicosídicas alfa-(1->4)**. As enzimas **alfa-glicosidases** (como a amilase e sacarase) inibidas pela **Acarbose** são responsáveis por hidrolisar essas ligações, liberando monossacarídeos para absorção.",
         "D": "[INCORRETA] Ligações **glicose-β-(1-6)-glicose** não são as principais ligações presentes no amido ou glicogênio para digestão primária pelas alfa-glicosidases. O glicogênio possui ramificações via ligações **alfa-(1->6)-glicose**, mas a principal cadeia e a maioria das ligações quebradas para a digestão são as alfa-(1->4). Além disso, a ligação beta é incorreta."
       },
-      "tema": "Glicólise e Gliconeogênese",
+      "tema": "pmh_a3",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a3"
@@ -1935,7 +1935,7 @@
         "C": "[INCORRETA] A **deficiência na produção de cadeias alfa globínicas** (alfa-talassemia) levaria à ausência ou redução de HbA1, HbF e HbA2, já que as cadeias alfa são essenciais para todas elas. No entanto, o padrão de aumento de HbF e HbA2 é mais específico da talassemia beta.",
         "D": "[INCORRETA] A deficiência na redução de **Fe+3 para Fe+2** se refere à **meta-hemoglobinemia**, onde o ferro do grupo heme está no estado férrico, incapaz de ligar oxigênio, levando à cianose e não ao perfil de talassemia com alterações na eletroforese de cadeias globínicas."
       },
-      "tema": "Bioenergética e Termodinâmica do Metabolismo",
+      "tema": "pmh_a1",
       "dificuldade": 3,
       "depende_de_imagem": false,
       "aula_id": "pmh_a1"
@@ -1959,7 +1959,7 @@
         "C": "[INCORRETA] A **acidose metabólica** seria caracterizada por **pH baixo** e **bicarbonato baixo**. Embora o pH esteja baixo, o **Bic está normal**, e o **pCO2 está muito elevado**, indicando que a causa primária é respiratória.",
         "D": "[CORRETA] O **pH de 7,20** está significativamente abaixo do valor de referência (7,35-7,45), indicando **acidemia**. O **PaCO2 de 80 mmHg** está muito elevado (VR: 35-45 mmHg), o que aponta para uma **acidose de origem respiratória** (hipoventilação). O **Bicarbonato (Bic) de 23 mM/L** está dentro da faixa normal (22-26 mEq/L), o que significa que o corpo **não iniciou ou não conseguiu completar nenhuma compensação metabólica** para o excesso de CO2. Portanto, o distúrbio é uma **acidose respiratória descompensada**."
       },
-      "tema": "Regulação Hormonal e Aplicações Clínicas dos Carboidratos",
+      "tema": "pmh_a6",
       "dificuldade": 2,
       "depende_de_imagem": false,
       "aula_id": "pmh_a6"
