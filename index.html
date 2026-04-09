@@ -704,11 +704,11 @@
 
     /* Quiz question card with better readability */
     .quiz-question-card {
-      background: rgba(255,255,255,0.04);
-      border: 1px solid rgba(255,255,255,0.09);
-      border-radius: 14px;
-      padding: 16px 18px;
-      margin-bottom: 14px;
+      background: rgba(255,255,255,0.035);
+      border: 1px solid rgba(255,255,255,0.07);
+      border-radius: 12px;
+      padding: 12px 14px;
+      margin-bottom: 8px;
     }
 
     @media (min-width: 769px) {
@@ -734,7 +734,7 @@
       }
 
       .desktop-layout .quiz-question {
-        font-size: 20px;
+        font-size: 15px;
       }
 
       .sidebar-toggle-btn {
@@ -903,6 +903,302 @@
         font-size: clamp(0.76rem, 2.05vw, 0.84rem);
       }
 
+      /* ── Material Mini Quiz ───────────────────────────────────── */
+      @keyframes mgFadeSlide {
+        from { opacity: 0; transform: translateY(6px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+
+      .material-mini-quiz {
+        margin: 20px 0 4px;
+        border-radius: 14px;
+        border: 1px solid rgba(255, 255, 255, 0.09);
+        border-top: 2px solid rgba(0, 200, 150, 0.55);
+        background: rgba(0, 200, 150, 0.03);
+        overflow: hidden;
+        animation: mgFadeSlide 0.3s ease;
+      }
+
+      .material-mini-quiz--empty {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 14px 18px;
+        opacity: 0.75;
+      }
+
+      .material-mini-quiz-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 14px 18px 10px;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+      }
+
+      .material-mini-quiz-title {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        font-family: 'Outfit', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--primary);
+      }
+
+      .material-mini-quiz-counter {
+        font-size: 11px;
+        color: var(--text-secondary);
+        font-family: 'Outfit', sans-serif;
+      }
+
+      .material-mini-quiz-progress {
+        height: 2px;
+        background: rgba(255,255,255,0.07);
+        border-radius: 1px;
+        overflow: hidden;
+        margin: 0 18px 0;
+      }
+
+      .material-mini-quiz-progress-fill {
+        height: 100%;
+        background: var(--primary);
+        border-radius: 1px;
+        transition: width 0.35s ease;
+      }
+
+      .material-mini-quiz-body {
+        padding: 14px 18px 16px;
+        animation: mgFadeSlide 0.25s ease;
+      }
+
+      .material-mini-quiz-question {
+        font-size: 13.5px;
+        font-weight: 500;
+        color: var(--text-primary);
+        line-height: 1.5;
+        margin-bottom: 12px;
+      }
+
+      .material-mini-quiz-options {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        margin-bottom: 12px;
+      }
+
+      .material-mini-quiz-option {
+        display: flex;
+        align-items: flex-start;
+        gap: 8px;
+        padding: 8px 11px;
+        border-radius: 9px;
+        border: 1px solid rgba(255,255,255,0.07);
+        background: rgba(255,255,255,0.02);
+        cursor: pointer;
+        font-size: 12.5px;
+        color: rgba(255,255,255,0.78);
+        line-height: 1.4;
+        transition: border-color 0.15s, background 0.15s;
+        text-align: left;
+        width: 100%;
+        font-family: 'DM Sans', sans-serif;
+      }
+
+      .material-mini-quiz-option:hover:not(:disabled) {
+        border-color: rgba(0,200,150,0.4);
+        background: rgba(0,200,150,0.05);
+      }
+
+      .material-mini-quiz-option.selected {
+        border-color: rgba(0,200,150,0.65);
+        background: rgba(0,200,150,0.09);
+      }
+
+      .material-mini-quiz-option.correct {
+        border-color: rgba(16,185,129,0.7);
+        background: rgba(16,185,129,0.1);
+        color: #6EE7B7;
+      }
+
+      .material-mini-quiz-option.incorrect {
+        border-color: rgba(239,68,68,0.4);
+        background: rgba(239,68,68,0.07);
+        color: rgba(255,255,255,0.45);
+      }
+
+      .material-mini-quiz-option-letter {
+        font-size: 10px;
+        font-weight: 700;
+        background: rgba(255,255,255,0.07);
+        border-radius: 4px;
+        width: 18px;
+        height: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        margin-top: 1px;
+        font-family: 'Outfit', sans-serif;
+        letter-spacing: 0;
+        color: var(--text-secondary);
+      }
+
+      .material-mini-quiz-feedback {
+        font-size: 12.5px;
+        line-height: 1.5;
+        color: var(--text-secondary);
+        padding: 10px 12px;
+        border-radius: 9px;
+        background: rgba(255,255,255,0.03);
+        border: 1px solid rgba(255,255,255,0.07);
+        margin-bottom: 12px;
+        animation: mgFadeSlide 0.2s ease;
+      }
+
+      .material-mini-quiz-action {
+        display: flex;
+        justify-content: flex-end;
+      }
+
+      .material-mini-quiz-btn {
+        font-family: 'Outfit', sans-serif;
+        font-size: 12px;
+        font-weight: 700;
+        padding: 8px 18px;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        transition: opacity 0.15s;
+      }
+
+      .material-mini-quiz-btn--primary {
+        background: var(--primary);
+        color: #000;
+        opacity: 1;
+      }
+
+      .material-mini-quiz-btn--primary:disabled {
+        opacity: 0.35;
+        cursor: not-allowed;
+      }
+
+      .material-mini-quiz-btn--secondary {
+        background: rgba(255,255,255,0.07);
+        color: var(--text-primary);
+        border: 1px solid rgba(255,255,255,0.12);
+      }
+
+      .material-mini-quiz-result {
+        padding: 20px 18px;
+        text-align: center;
+        animation: mgFadeSlide 0.3s ease;
+      }
+
+      html[data-theme="light"] .material-mini-quiz {
+        background: rgba(0,150,100,0.03);
+        border-top-color: var(--primary);
+      }
+
+      html[data-theme="light"] .material-mini-quiz-option {
+        background: rgba(255,255,255,0.8);
+        border-color: rgba(0,0,0,0.1);
+        color: var(--text-primary);
+      }
+
+      .mg-flow-wrapper {
+        margin: 24px 0;
+        padding: 8px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+      }
+
+      .mg-flow-step {
+        width: 100%;
+        max-width: 320px;
+        background: rgba(255, 255, 255, 0.04);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: 12px;
+        padding: 12px 16px;
+        text-align: center;
+        position: relative;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease, border-color 0.2s ease;
+      }
+
+      .mg-flow-step:hover {
+        border-color: var(--primary);
+        transform: translateY(-2px);
+      }
+
+      .mg-flow-step strong {
+        display: block;
+        color: var(--text-primary);
+        font-size: 0.95rem;
+        margin-bottom: 2px;
+      }
+
+      .mg-flow-step span {
+        font-size: 0.75rem;
+        color: var(--text-secondary);
+        display: block;
+      }
+
+      /* Connectors */
+      .mg-flow-connector {
+        height: 32px;
+        width: 2px;
+        background: linear-gradient(to bottom, var(--primary), transparent);
+        position: relative;
+        margin: 0 auto;
+      }
+
+      .mg-flow-connector::after {
+        content: '▼';
+        position: absolute;
+        bottom: -6px;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 10px;
+        color: var(--primary);
+        opacity: 0.6;
+      }
+
+      /* Enzyme Badge */
+      .mg-flow-enzyme {
+        position: absolute;
+        right: -10px;
+        top: 50%;
+        transform: translateY(-50%) translateX(100%);
+        background: rgba(16, 185, 129, 0.15);
+        border: 1px solid rgba(16, 185, 129, 0.3);
+        color: #6EE7B7;
+        font-size: 0.65rem;
+        font-weight: 800;
+        padding: 4px 8px;
+        border-radius: 6px;
+        white-space: nowrap;
+        pointer-events: none;
+        z-index: 2;
+        letter-spacing: 0.02em;
+        text-transform: uppercase;
+      }
+
+      html[data-theme="light"] .mg-flow-step {
+        background: rgba(255, 255, 255, 0.8);
+        border-color: rgba(0, 0, 0, 0.1);
+      }
+
+      html[data-theme="light"] .mg-flow-enzyme {
+        background: #ECFDF5;
+        color: #065F46;
+        border-color: #A7F3D0;
+      }
+
+      /* Legacy support */
       .material-doc-inner .flow-box {
         padding-left: 12px;
         padding-right: 12px;
@@ -1967,16 +2263,16 @@
     .quiz-option-number {
       font-size: 11px;
       font-weight: 700;
-      opacity: 0.55;
-      min-width: 20px;
-      height: 20px;
-      border-radius: 5px;
+      opacity: 0.8;
+      min-width: 22px;
+      height: 22px;
+      border-radius: 6px;
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      background: rgba(255,255,255,0.07);
-      border: 1px solid rgba(255,255,255,0.1);
-      margin-right: 9px;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.12);
+      margin-right: 12px;
       flex-shrink: 0;
       letter-spacing: 0;
       font-family: 'Outfit', sans-serif;
@@ -2120,9 +2416,9 @@
     }
 
     .quiz-screen {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      width: 100%;
     }
 
     .quiz-progress-section {
@@ -2153,9 +2449,9 @@
     .quiz-question {
       font-size: 15px;
       font-weight: 400;
-      color: rgba(255,255,255,0.92);
+      color: rgba(255,255,255,0.95);
       margin-bottom: 0;
-      line-height: 1.65;
+      line-height: 1.5;
       letter-spacing: 0.01em;
     }
 
@@ -2163,23 +2459,23 @@
       display: flex;
       flex-direction: column;
       gap: 8px;
-      margin-bottom: 20px;
+      margin-bottom: 14px;
     }
 
     .quiz-option {
-      padding: 11px 12px 11px 10px;
-      background: rgba(255,255,255,0.03);
-      border: 1.5px solid rgba(255,255,255,0.09);
-      border-radius: 10px;
-      color: rgba(255,255,255,0.88);
+      padding: 10px 14px;
+      background: rgba(255,255,255,0.025);
+      border: 1.2px solid rgba(255,255,255,0.08);
+      border-radius: 12px;
+      color: rgba(255,255,255,0.9);
       cursor: pointer;
-      transition: all 0.18s ease;
-      font-size: 13.5px;
+      transition: all 0.12s ease;
+      font-size: 14px;
       text-align: left;
-      line-height: 1.5;
+      line-height: 1.45;
       font-weight: 400;
       position: relative;
-      padding-right: 40px;
+      padding-right: 36px;
     }
 
     .quiz-option:hover:not(.crossed-out):not(.correct):not(.incorrect):not(.incorrect-selected) {
@@ -2254,20 +2550,25 @@
     }
 
     .quiz-feedback {
-      background: rgba(255,255,255,0.03);
-      border: 1px solid rgba(255,255,255,0.08);
+      background: rgba(255,255,255,0.02);
+      border: 1px solid rgba(255,255,255,0.07);
       border-radius: 12px;
-      padding: 14px 16px;
-      margin-bottom: 18px;
-      font-size: 12.5px;
-      line-height: 1.65;
+      padding: 12px 14px;
+      margin-bottom: 16px;
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .quiz-feedback strong {
+      font-weight: 700;
+      color: rgba(255,255,255,0.95);
     }
 
     .quiz-feedback-title {
-      font-weight: 600;
-      margin-bottom: 8px;
+      font-weight: 700;
+      margin-bottom: 6px;
       color: var(--text-primary);
-      font-size: 13px;
+      font-size: 13.5px;
     }
 
     .quiz-result-screen {
@@ -7780,7 +8081,7 @@
                 </div>
 
                 <div className="quiz-question-card" ref={highlighterRef}>
-                  <div className="quiz-question">{card.pergunta}</div>
+                  <div className="quiz-question" dangerouslySetInnerHTML={{ __html: renderMarkdown(card.pergunta) }} />
                 </div>
 
                 <div className="quiz-options">
@@ -7802,8 +8103,8 @@
                         if (!answered && !crossedOut.has(idx)) setSelectedOption(idx);
                       }}
                     >
-                      <span className="quiz-option-number">{idx + 1}</span>
-                      <span>{option}</span>
+                      <span className="quiz-option-number">{String.fromCharCode(65 + idx)}</span>
+                      <span dangerouslySetInnerHTML={{ __html: renderMarkdown(option) }} />
                       {!answered && !crossedOut.has(idx) && (
                         <button
                           className="cross-btn"
@@ -7822,28 +8123,31 @@
                       <span>{selectedOption === card.correta ? 'Correto!' : 'Incorreto'}</span>
                     </div>
                     {explanationBundle.general && (
-                      <p style={{ color: 'var(--text-secondary)', lineHeight: '1.6', marginBottom: '10px' }}>
-                        {explanationBundle.general}
-                      </p>
+                      <p 
+                        style={{ color: 'rgba(255, 255, 255, 0.85)', lineHeight: '1.55', marginBottom: '12px', fontSize: '13px' }}
+                        dangerouslySetInnerHTML={{ __html: renderMarkdown(explanationBundle.general) }}
+                      />
                     )}
                     <div style={{ display: 'grid', gap: '8px' }}>
                       {card.opcoes.map((option, idx) => {
                         const letter = String.fromCharCode(65 + idx);
                         const text = String(option || '').replace(/^[A-D]\)\s*/, '').trim();
                         const isCorrect = idx === card.correta;
+                        const cleanExp = (explanationBundle.optionExplanations[idx] || '').replace(/^\[(?:IN)?CORRETA\]\s*/i, '');
                         return (
                           <div key={`exp-${idx}`} style={{
-                            border: `1px solid ${isCorrect ? 'rgba(34,197,94,0.35)' : 'rgba(148,163,184,0.25)'}`,
+                            border: `1px solid ${isCorrect ? 'rgba(34,197,94,0.3)' : 'rgba(255,255,255,0.08)'}`,
                             borderRadius: '10px',
                             padding: '8px 10px',
-                            background: isCorrect ? 'rgba(34,197,94,0.08)' : 'rgba(148,163,184,0.06)'
+                            background: isCorrect ? 'rgba(34,197,94,0.06)' : 'rgba(255,255,255,0.02)'
                           }}>
-                            <div style={{ fontWeight: 700, fontSize: '12px', marginBottom: '4px', color: isCorrect ? '#22c55e' : 'var(--text-secondary)' }}>
-                              {letter}) {text} {isCorrect ? '— Correta' : '— Incorreta'}
+                            <div style={{ fontWeight: 700, fontSize: '12px', marginBottom: '4px', color: isCorrect ? '#22c55e' : '#ef4444' }}>
+                              {letter}) <span dangerouslySetInnerHTML={{ __html: renderMarkdown(text) }} />
                             </div>
-                            <div style={{ color: 'var(--text-secondary)', fontSize: '13px', lineHeight: '1.45' }}>
-                              {explanationBundle.optionExplanations[idx]}
-                            </div>
+                            <div 
+                              style={{ color: 'rgba(255, 255, 255, 0.85)', fontSize: '13px', lineHeight: '1.5' }}
+                              dangerouslySetInnerHTML={{ __html: renderMarkdown(cleanExp) }}
+                            />
                           </div>
                         );
                       })}
@@ -8171,6 +8475,108 @@
       if (!cu) return false;
       return MATERIAL_ADMIN_EMAILS.includes(normalizeAuthEmail(cu.email || ''));
     }
+
+
+    // ── Material Mini Quiz Component ────────────────────────────────────────
+    const MaterialMiniQuiz = ({ questions, materialId }) => {
+      const qs = Array.isArray(questions) && questions.length > 0 ? questions : [];
+      const [phase, setPhase] = React.useState('quiz');
+      const [current, setCurrent] = React.useState(0);
+      const [selected, setSelected] = React.useState(null);
+      const [answered, setAnswered] = React.useState(false);
+      const [score, setScore] = React.useState(0);
+
+      React.useEffect(() => {
+        setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0);
+      }, [materialId]);
+
+      if (qs.length === 0) {
+        return (
+          <div className="material-mini-quiz material-mini-quiz--empty">
+            <span style={{ fontSize: '18px' }}>⚡</span>
+            <div>
+              <div style={{ fontFamily: 'Outfit', fontSize: '12px', fontWeight: 700, color: 'var(--primary)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '2px' }}>Fixação Rápida</div>
+              <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Questões conceituais em breve para esta aula.</div>
+            </div>
+            <span className="material-badge" style={{ marginLeft: 'auto', flexShrink: 0 }}>Em breve</span>
+          </div>
+        );
+      }
+
+      const q = qs[current];
+      const progress = ((current + (answered ? 1 : 0)) / qs.length) * 100;
+
+      const handleConfirm = () => {
+        if (selected === null) return;
+        if (selected === q.correta) setScore(s => s + 1);
+        setAnswered(true);
+      };
+
+      const handleNext = () => {
+        if (current < qs.length - 1) { setCurrent(c => c + 1); setSelected(null); setAnswered(false); }
+        else setPhase('result');
+      };
+
+      const handleReset = () => { setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0); };
+
+      if (phase === 'result') {
+        const pct = Math.round((score / qs.length) * 100);
+        const great = pct >= 70;
+        return (
+          <div className="material-mini-quiz">
+            <div className="material-mini-quiz-result">
+              <div style={{ fontSize: '28px', marginBottom: '8px' }}>{great ? '🎯' : '📚'}</div>
+              <div style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '22px', color: great ? 'var(--primary)' : 'var(--text-primary)', marginBottom: '4px' }}>{pct}%</div>
+              <div style={{ fontSize: '12.5px', color: 'var(--text-secondary)', marginBottom: '16px' }}>
+                {score} de {qs.length} corretas · {great ? 'Ótimo trabalho!' : 'Continue revisando.'}
+              </div>
+              <button className="material-mini-quiz-btn material-mini-quiz-btn--secondary" onClick={handleReset}>Tentar novamente</button>
+            </div>
+          </div>
+        );
+      }
+
+      return (
+        <div className="material-mini-quiz">
+          <div className="material-mini-quiz-header">
+            <div className="material-mini-quiz-title"><span>⚡</span> Fixação Rápida</div>
+            <div className="material-mini-quiz-counter">{current + 1} / {qs.length}</div>
+          </div>
+          <div className="material-mini-quiz-progress">
+            <div className="material-mini-quiz-progress-fill" style={{ width: `${progress}%` }} />
+          </div>
+          <div className="material-mini-quiz-body" key={current}>
+            <div className="material-mini-quiz-question">{q.pergunta}</div>
+            <div className="material-mini-quiz-options">
+              {q.opcoes.map((op, idx) => {
+                let cls = 'material-mini-quiz-option';
+                if (answered && idx === q.correta) cls += ' correct';
+                else if (answered && idx === selected && idx !== q.correta) cls += ' incorrect';
+                else if (!answered && idx === selected) cls += ' selected';
+                return (
+                  <button key={idx} className={cls} onClick={() => !answered && setSelected(idx)} disabled={answered}>
+                    <span className="material-mini-quiz-option-letter">{String.fromCharCode(65 + idx)}</span>
+                    <span>{op}</span>
+                  </button>
+                );
+              })}
+            </div>
+            {answered && q.explicacao && (
+              <div className="material-mini-quiz-feedback">{q.explicacao}</div>
+            )}
+            <div className="material-mini-quiz-action">
+              {!answered ? (
+                <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleConfirm} disabled={selected === null}>Confirmar</button>
+              ) : (
+                <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleNext}>
+                  {current < qs.length - 1 ? 'Próxima →' : 'Ver resultado →'}
+                </button>
+              )}
+            </div>
+          </div>
+        </div>
+      );
+    };
 
     const MaterialsScreen = ({ materias, materiasCatalog, user, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
@@ -9820,6 +10226,12 @@
                       </div>
                     )}
 
+                    {/* ── Mini Quiz de Fixação ── */}
+                    <MaterialMiniQuiz
+                      questions={[]}
+                      materialId={selectedMaterial?.temaId}
+                    />
+
                     {/* Pré-Prova Section */}
                     {preProva && (
                       <div id="material-preprova-block" className="material-preprova-block" style={{ marginTop: '16px' }}>
@@ -10403,6 +10815,16 @@
       return (str || '').toLowerCase()
         .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
         .replace(/\s+/g, '').replace(/[^a-z0-9]/g, '');
+    }
+    
+    function renderMarkdown(text) {
+      if (!text || typeof text !== 'object' && typeof text !== 'string') return '';
+      let str = String(text);
+      // Bold: **text**
+      str = str.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+      // Italic: _text_
+      str = str.replace(/_(.*?)_/g, '<em>$1</em>');
+      return str;
     }
     function fuzzyMatch(query, target) {
       const q = normalizeText(query);
@@ -12367,7 +12789,7 @@
         }
         const { onAuthStateChanged, signOut: fbSignOut } = window.__fbAuthFns;
         const unsubscribe = onAuthStateChanged(window.__fbAuth, async (firebaseUser) => {
-          const APP_VERSION = '2026-04-09-v4'; // Timestamp/versão para cache-busting do JSON data
+          const APP_VERSION = '2026-04-09-v8'; // Timestamp/versão para cache-busting do JSON data
           if (firebaseUser) {
             let cachedProfile = null;
             try {
