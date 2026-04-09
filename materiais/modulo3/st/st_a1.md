@@ -1,153 +1,95 @@
-# ST — Aula 1: Fundamentos de saúde do trabalhador
+# ST — Aula 1: Fundamentos de Saúde do Trabalhador
 
-**Disciplina:** Saúde do trabalhador  
-**Módulo:** 3
+A Saúde do Trabalhador é o campo da medicina que investiga como o emprego de alguém pode estar deixando-o doente. Na prova, os temas centrais são a distinção entre **Perigo e Risco**, o reconhecimento do **Nexo Ocupacional** (a prova de que o trabalho causou a doença) e o conhecimento das **Normas Regulamentadoras (NRs)** que protegem o trabalhador.
+
+Na prática, o médico deve ser um "detetive": muitas vezes o paciente chega com uma asma ou dor nas costas que só melhora no fim de semana. Se você não perguntar "com o que você trabalha?", você tratará o sintoma, mas não a causa, e o paciente nunca ficará bom.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Saúde do trabalhador é tema transversal entre clínica, medicina preventiva e vigilância.
-Na prova, a banca costuma oferecer um caso comum e esconder a exposição ocupacional no enunciado.
-Na prática, reconhecer esse vínculo muda diagnóstico, prognóstico e prevenção de novos casos.
-
-Essa base inicial também orienta decisões mais seguras na APS, urgência e ambulatórios.
-O foco não é apenas tratar doença instalada, mas identificar processo de trabalho que produz risco.
-Sem essa leitura, cresce a subnotificação e o cuidado fica incompleto.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A1-F01`
 
-- **Momento:** após a contextualização de relevância.
-- **O que mostrar:** fluxo de cuidado no SUS para caso com suspeita de nexo ocupacional.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Da porta de entrada à vigilância em saúde do trabalhador."
+- **Momento:** Seção de conceitos (Perigo vs Risco).
+- **O que mostrar:** O "Tubarão no Aquário": Um tubarão no mar é um **Perigo** (fonte de dano). Um tubarão atrás de um vidro reforçado é um **Risco Baixo** (probabilidade de dano controlada). Um mergulhador sem proteção com o tubarão é um **Risco Alto**. Essa metáfora ajuda a entender que o perigo sempre existe, mas o risco depende da exposição e das proteções.
+- **Tipo sugerido:** Infográfico didático | Ilustração metafórica.
+- **Legenda (rascunho):** Diferença fundamental entre perigo (a fonte) e risco (a probabilidade de dano).
+
+## 1. Conceitos que Estruturam o Raciocínio
+
+Para a Saúde do Trabalhador, precisamos dominar três termos:
+- **Perigo:** É a fonte do dano (ex: um fio desencapado ou um produto químico tóxico).
+- **Risco:** É a **Probabilidade** de o perigo causar um acidente ou doença. O risco depende da intensidade e do tempo de exposição.
+- **Nexo Ocupacional:** É a "ponte" que o médico estabelece entre a doença do paciente e o seu trabalho.
 
 ---
 
-## Conceitos que estruturam o raciocínio
+## 2. Os Riscos Ocupacionais (Os 5 Grupos)
 
-**Perigo** é a fonte potencial de dano.
-**Risco** é a probabilidade de dano diante de intensidade, frequência e tempo de exposição.
-**Nexo ocupacional** é a relação plausível entre trabalho e agravo, sustentada por dados clínicos e contexto.
-
-Três perguntas guiam a consulta inicial:
-
-1. Qual tarefa concreta o trabalhador executa?
-2. Qual exposição relevante ocorre durante a jornada?
-3. Há relação temporal entre trabalho e sintoma?
-
-> **Dica de Prova:** profissão, turno, jornada e ambiente quase sempre são pistas de nexo.
-
-> **Pegadinha:** ausência de documento prévio não exclui doença relacionada ao trabalho.
+O médico deve classificar o ambiente de trabalho em grupos de risco:
+- **Físicos:** Ruído, calor, radiação e vibração.
+- **Químicos:** Poeiras, fumos, solventes e metais pesados.
+- **Biológicos:** Vírus, bactérias e fungos (comum em hospitais).
+- **Ergonômicos:** Postura errada, movimentos repetitivos e estresse mental.
+- **Acidentários:** Máquinas sem proteção, eletricidade ou quedas.
 
 ---
 
-## Riscos ocupacionais: visão prática
+## 3. As NRs: As Leis do Trabalho
 
-| Grupo | Exemplos de exposição | Agravos frequentes | Medida inicial |
-|-------|------------------------|--------------------|----------------|
-| Físicos | ruído, calor, vibração | PAIR, estresse térmico | controle ambiental e vigilância periódica |
-| Químicos | solventes, poeiras, metais | asma, dermatite, intoxicação | reduzir exposição e monitorar |
-| Biológicos | sangue e secreções | hepatites, tuberculose | precauções padrão e protocolo pós-exposição |
-| Ergonômicos | repetição e postura forçada | LER/DORT, lombalgia | ajuste de posto, pausa e reabilitação |
-| Acidentários | máquinas sem proteção | trauma e amputação | bloquear risco e treinar equipe |
-| Psicossociais | assédio e metas abusivas | ansiedade, burnout | intervenção organizacional e cuidado multiprofissional |
-
-Risco não é fixo.
-Ele se altera com mudanças de jornada, equipe, tarefa e barreiras de proteção.
-Por isso, vigilância precisa ser contínua.
+As Normas Regulamentadoras (NRs) são os manuais de segurança. As mais cobradas são:
+- **NR-1:** Regra geral de gerenciamento de riscos.
+- **NR-7 (PCMSO):** Obriga a empresa a fazer exames médicos (admissional, periódico, demissional).
+- **NR-17 (Ergonomia):** Foca no conforto e na saúde mental do trabalhador.
+- **NR-32:** Segurança específica para quem trabalha em **Serviços de Saúde**.
 
 ---
 
-## NRs mais cobradas neste início
+## 4. Vigilância e Notificação
 
-- **NR-1:** base do gerenciamento de riscos ocupacionais.
-- **NR-6:** seleção, uso e eficácia real de EPI.
-- **NR-7:** PCMSO e vigilância médica orientada por risco.
-- **NR-9:** avaliação e controle de exposições.
-- **NR-17:** ergonomia e organização do trabalho.
-- **NR-32:** segurança em serviços de saúde.
-
-### Tabela rápida: NR e cenário clínico
-
-| NR | Cenário típico | O que o aluno deve concluir |
-|----|----------------|-----------------------------|
-| NR-7 | audiometria alterada em trabalhador exposto a ruído | há nexo provável e necessidade de seguimento ocupacional |
-| NR-17 | dor crônica em teleatendimento com pausas insuficientes | falha ergonômica de processo, não só problema individual |
-| NR-32 | acidente com perfurocortante em hospital | conduta imediata e prevenção institucional |
-| NR-6 | queimadura química sem proteção adequada | EPI inadequado ou uso incorreto deve ser revisado |
-
----
-
-## Vigilância em saúde do trabalhador
-
-A vigilância integra assistência e prevenção.
-Não termina na notificação.
-Inclui investigação do processo produtivo, análise de padrão de casos e intervenção coletiva.
-
-Na rotina assistencial:
-
-- registrar função e exposição no prontuário;
-- qualificar hipótese de nexo com cronologia;
-- orientar redução de risco imediato;
-- articular rede quando houver recorrência no setor.
-
-### Figura sugerida
-
-**Figura-ID:** `ST-A1-F02`
-
-- **Momento:** após a seção de vigilância.
-- **O que mostrar:** matriz exposição-agente-agravo-conduta.
-- **Tipo sugerido:** infográfico.
-- **Legenda (rascunho):** "Raciocínio clínico-ocupacional da exposição ao plano de ação."
+Toda doença que o médico suspeita ter relação com o trabalho deve ser registrada.
+- **CAT (Comunicação de Acidente de Trabalho):** Documento que informa ao INSS que ocorreu um acidente ou doença do trabalho. Deve ser emitida mesmo se não houver afastamento.
+- **SINAN:** Sistema de notificação compulsória para agravos graves (ex: acidente com agulha ou intoxicação por agrotóxico).
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente de 33 anos, auxiliar de limpeza, relata chiado e tosse com piora no fim do turno.
-No fim de semana, sintomas reduzem parcialmente.
-Com anamnese ocupacional dirigida, surge exposição intensa a saneantes voláteis em ambiente pouco ventilado.
-Conduta correta: manejar quadro respiratório, reduzir exposição, registrar nexo provável e ativar fluxo de vigilância.
+No consultório, o "pulo do gato" é a **Cronologia dos Sintomas**. Se o paciente diz que a tosse piora na segunda-feira e melhora no sábado, o culpado é o ambiente de trabalho. Pergunte sobre o uso de **EPIs** (Equipamentos de Proteção Individual), mas lembre-se: o EPI é a **Última Escolha** na hierarquia de proteção. O ideal é que a empresa elimine o risco na fonte (proteção coletiva) antes de pedir para o trabalhador usar uma máscara ou protetor auricular.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- saúde do trabalhador combina clínica, prevenção e vigilância;
-- risco ocupacional exige leitura de tarefa, agente e tempo;
-- NRs devem ser aplicadas como ferramenta prática;
-- registro clínico bem feito fortalece nexo e continuidade;
-- caso individual pode sinalizar problema coletivo.
+- **Nexo Ocupacional**: A relação causal entre a tarefa executada e o surgimento da doença.
+- **NR-7**: Define a obrigatoriedade dos exames periódicos para monitorar a saúde dos funcionários.
+- **NR-32**: Norma fundamental para o estudante de medicina; foca em riscos biológicos e perfurocortantes.
+- **EPI vs EPC**: O Equipamento de Proteção Coletiva (EPC) sempre tem prioridade sobre o Individual (EPI).
+- **Notificação**: Agravos relacionados ao trabalho devem ser notificados mesmo em trabalhadores informais.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Em saúde do trabalhador, o erro mais comum é tratar sintoma e ignorar o contexto laboral.
-A prova costuma premiar quem reconhece nexo ocupacional pela história de exposição e cronologia dos sintomas.
-Mesmo sem confirmação administrativa imediata, o cuidado clínico deve começar na primeira consulta.
+Para gabaritar Saúde do Trabalhador, foque na anamnese. 
+**Trabalho** = Pergunta obrigatória em qualquer consulta. Se a questão descreve um risco e pergunta qual a norma, pense em **NR-1** (Geral) ou **NR-32** (Hospital). Se pergunta sobre a probabilidade de adoecer, a resposta é **Risco**.
 
-NR-1, NR-7, NR-17 e NR-32 formam núcleo recorrente em questões.
-Elas aparecem quando a banca pergunta qual intervenção previne recorrência: geralmente a resposta inclui medida coletiva no processo de trabalho, e não apenas orientação individual.
-
-A sequência segura é simples: estabilizar quando necessário, investigar exposição, registrar com clareza, orientar proteção e acionar vigilância conforme o fluxo local.
+A Uninove adora o **Nexo**. Lembre-se: não precisa de prova absoluta para suspeitar de doença do trabalho; basta a dúvida razoável para iniciar a investigação e notificação. Outro ponto forte: o **PCMSO (NR-7)** é o programa que rege os exames médicos na empresa. Por fim, saiba que o acidente de trajeto (ida ou volta do trabalho) também é considerado **Acidente de Trabalho** para fins de direitos e CAT.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Perigo | Risco | perigo é fonte; risco é chance real de dano |
-| Doença comum | Doença relacionada ao trabalho | na segunda há vínculo plausível com exposição ocupacional |
-| EPI entregue | EPI eficaz | eficácia exige indicação, ajuste e adesão |
-| Cuidado clínico | Trâmite administrativo | cuidado é imediato; trâmite ocorre em paralelo |
+| **Perigo** | **Risco** | A **Fonte** (Tubarão) vs a **Chance** (Mergulhar) |
+| **EPI** | **EPC** | Protege **Um** (Máscara) vs Protege **Todos** (Ventilação) |
+| **Doença Profissional** | **Doença do Trabalho** | Típica da **Profissão** vs Causada por **Condição** do local |
+| **NR-7** | **NR-9** | Foco na **Pessoa** (Exames) vs Foco no **Ambiente** (Riscos) |
+| **SINAN** | **CAT** | Vigilância **Epidemiológica** vs Seguro **Previdenciário** |
 
 ### Frase-âncora para não esquecer
 
-> "Perguntar sobre trabalho cedo evita erro diagnóstico tarde."
+> "O perigo está lá, o risco é você se expor. Na dúvida, abra a CAT e pergunte: o que você faz no trabalho? A saúde de quem produz é o motor da nação."

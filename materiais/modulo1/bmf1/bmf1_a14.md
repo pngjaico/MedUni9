@@ -1,101 +1,103 @@
 # BMF1 — Aula 14: Tegumento — Tecido Epitelial de Revestimento
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+A **Pele** é o maior órgão do corpo e a principal barreira do sistema imune contra o mundo externo. Na prova, os temas centrais são a hierarquia de camadas da **Epiderme** (da Basal à Córnea), a função das células intraepidérmicas e a diferença entre **Pele Fina** e **Pele Espessa**.
+
+Na clínica, entender a estratificação epitelial e a vascularização da derme subjacente é o que explica a gravidade das **Queimaduras**. Se uma queimadura de 3º grau destrói a camada basal (células-tronco), a pele não se regenera sozinha. Da mesma forma, entender os anexos epidérmicos (glândulas sebáceas) decifra o mecanismo fisiopatológico clássico da **Acne**.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A **Pele** é o maior órgão do corpo e sua principal barreira contra o mundo externo. Para a prova, domine a hierarquia das camadas da **Epiderme** (da Basal à Córnea) e as funções das células especializadas, como os **Melanócitos** e as **Células de Langerhans**. Na clínica, o conhecimento sobre a **Derme** vascularizada e seus anexos explica a gravidade das **Queimaduras** e a formação de **Escaras**.
-
----
-
-## Epitélio: princípios de classificação
-
-Epitélios de revestimento podem ser **simples** (uma camada de células) ou **estratificados** (várias). A **forma** da célula superficial nomeia o epitélio (escamoso, cúbico, colunar). A **presença ou não de queratina** na superfície separa **queratinizado** de **não queratinizado** — decisivo na pele versus mucosa oral, por exemplo.
-
----
-
-## Epiderme: camadas do superficial ao profundo
-
-Na pele fina ou espessa, a sequência clássica é:
-
-| Camada da Epiderme | Função e Característica | Importância Clínica |
-|--------------------|-------------------------|----------------------|
-| **Estrato Córneo** | Células mortas com **Queratina**| Barreira Impermeável |
-| **Estrato Granuloso**| Grânulos de Querato-hialina | Início da Morte Celular |
-| **Estrato Espinhoso**| Muitos **Desmossomos** | Resistência ao Atrito |
-| **Estrato Basal** | Células-tronco (Mitoses) | **Renovação** Constante |
-
-A epiderme é **Avascular**. Ela depende totalmente da derme subjacente para receber nutrientes por **Difusão**. Por isso, queimaduras que destroem a derme impedem a regeneração natural da pele.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A14-F01`
 
-- **Momento:** após tabela das camadas da epiderme.
-- **O que mostrar:** esquema em corte da pele com epiderme em camadas, papilas dérmicas e anexos (pelo, glândula) em visão simplificada.
-- **Tipo sugerido:** ilustração estilo atlas (Netter/Moore) ou esquema didático.
-- **Legenda (rascunho):** “Epiderme estratificada: da borda ao estrato córneo.”
-- **Notas (opcional):** buscar no Wikimedia Commons “skin layers epidermis” / “camadas da pele esquema”.
+- **Momento:** Após a seção das camadas da epiderme.
+- **O que mostrar:** O "Muro de Proteção": Um corte em 3D da pele mostrando a **Epiderme** no topo, com suas células empilhadas e a grossa camada amarela do **Estrato Córneo** descamando em cima. Abaixo, as "ondas" das **Papilas Dérmicas** se interdigitando com a epiderme. Mostrar a raiz de um **Pelo** mergulhada na Derme com uma **Glândula Sebácea** agrupada a ele.
+- **Tipo sugerido:** Infográfico de anatomia tegumentar.
+- **Legenda (rascunho):** A arquitetura da pele: defesa na epiderme avascular e suporte estrutural na derme vascularizada.
+
+## 1. Princípios de Classificação Epitelial
+
+O tecido epitelial serve para revestir ou secretar. A regra de ouro é: "A forma dita a função".
+1.  **Número de Camadas:** 
+    - **Simples** (Uma camada): Ideal para secreção e absorção (Ex: Intestino).
+    - **Estratificado** (Várias camadas): Ideal para áreas de alto atrito e proteção (Ex: Pele).
+2.  **Forma da Célula (Da mais externa):** Escamoso/Pavimentoso (chato), Cúbico (quadrado) ou Colunar (cilíndrico).
+3.  **Presença de Queratina:** Secreção de uma proteína morta e seca na base que cria a impermeabilização máxima (Esôfago é *não* queratinizado; a Pele é *queratinizada*).
 
 ---
 
-## Células não queratinócitos na epiderme
+## 2. A Epiderme: Ascensão e Descamamento
 
-| Célula Especialista | Função Principal | Gatilho de Prova |
-|---------------------|-------------------|-------------------|
-| **Melanócito** | Produz **Melanina** | Proteção contra Raios UV|
-| **Célula de Merkel**| Mecanorrecepção | Tato Fino (Pressão) |
-| **Célula de Langerhans**| Vigilância Imune | Apresentadora de Antígeno|
-| **Queratinócito** | Produz Queratina | Barreira Física Principal|
+A epiderme é um epitélio **Estratificado Pavimentoso Queratinizado**. Ela é completamente **Avascular** (não sangra); depende dos vasos da derme que estão logo abaixo para se nutrir por difusão.
 
----
-
-## Derme e interface com epiderme
-
-A derme **papilar** projeta-se na epiderme formando **papilas dérmicas** — aumenta área de troca e ancora a epiderme. O **tecido conjuntivo** subjacente dá **resistência** e abriga **vasos**, **nervos** e **anexos**.
+As células iniciam a vida no fundo e morrem secas no topo:
+| Camada | Função Biológica | Importância Clínica |
+|--------------------|-------------------------|----------------------|
+| **Estrato Córneo** | A superfície morta com **Queratina**. | Proteção Absoluta contra perda de água. |
+| **Estrato Lúcido** | Camada translúcida extra. | **Exclusiva da Pele Espessa** (Palma e Planta). |
+| **Estrato Granuloso**| Acúmulo de Querato-hialina. | É o ponto sem volta da **Morte Celular**. |
+| **Estrato Espinhoso**| Rico em **Desmossomos** (fortes conexões).| Cria enorme Resistência ao Atrito (Rasgo). |
+| **Estrato Basal** | Assenta na Membrana Basal; faz mitoses. | Aqui residem as Células-tronco da **Renovação**. |
 
 ---
 
-## Anexos epidérmicos: visão integrada
+## 3. As Patrulhas Invisíveis da Epiderme
 
-**Unha** é placa córnea sobre leito; **pelos** saem de **folículos** com **músculo eretor** da pilosidade. **Glândulas sudoríparas écrinas** distribuem-se amplamente e respondem a **termorregulação**; **apócrinas** em regiões específicas contribuem ao **odor** após metabolismo bacteriano. **Glândulas sebáceas** associam-se a folículos — base para entender **acne** como eixo **óleo–ducto–bactéria–inflamação**.
+A epiderme não é feita apenas de queratinócitos. Outros especialistas moram nela:
+- **Melanócitos (Camada Basal):** Produzem **Melanina** e a "injetam" nos queratinócitos para agir como guarda-sol nuclear, protegendo o DNA contra a Radiação UV (Câncer de Pele).
+- **Células de Langerhans:** Células Imunes da linha de frente. Capturam bactérias (Apresentadoras de Antígeno) e correm para o linfonodo.
+- **Células de Merkel:** Receptores neurais para o **Tato Fino** (pressão leve).
 
 ---
 
-## Mucosas versus pele
+## 4. Derme (O Suporte) e Os Anexos 
 
-| Sítio | Epitélio típico | Observação |
-|-------|-----------------|------------|
-| Esôfago (porção muscular) | Estratificado escamoso **não queratinizado** | Protege sem dessecar |
-| Estômago | Simples colunar com células especializadas | Secreção e barreira |
-| Intestino | Simples colunar com **vilo** | Absorção |
+A derme fixa a epiderme. Ela tem uma fina camada **Papilar** no topo (que faz "ondas" para aumentar a área de ancoragem e nutrir a epiderme) e uma grossa camada **Reticular** embaixo, cheia de **Colágeno Tipo I** para resistência extrema.
+
+Os **Anexos** nascem como invaginações da epiderme, mas vivem fundos na derme e hipoderme:
+- **Folículo Piloso + Músculo Eretor:** A raiz do pelo e o músculo involuntário que o arrepia para reter calor.
+- **Glândulas Sebáceas:** Estão sempre anexadas aos pelos. Secretam sebo (óleo hidrofóbico). É o entupimento e inflamação bacteriana deste duto que gera a **Acne Vulgar**.
+- **Glândulas Écrinas:** O suor térmico. Estão em toda a pele, e os dutos se abrem direto na superfície para a **Termorregulação**.
+- **Glândulas Apócrinas:** Suor espesso descarregado junto ao folículo no assoalho capilar de regiões restritas (Axilas/Púbis); ao serem degradadas por bactérias geram o **Odor** e não participam do controle térmico.
 
 ---
 
 ## Ponte com a Clínica
 
-**Úlcera de pressão** isquemia **proeminências ósseas** — **prevenção** com mudança de decúbito e superfície de distribuição de pressão. **Queimaduras** profundas destroem anexos e exigem **enxerto** quando a regeneração epidérmica não basta. **Biópsia** de lesão suspeita deve considerar **margem** e **profundidade** histológicas para **estadiamento**.
+Quando um paciente fica muito tempo deitado na mesma posição (acamados em UTIs), o peso do seu osso contra a cama esmaga a vascularização da **Derme**. Sem sangue, as células não respiram e o tecido sofre necrose; a pele despenca e forma um buraco chamado de **Úlcera de Pressão** (Escara) na proeminência óssea (ex: Sacro, Calcanhar). Na suspeita oncológica (**Melanoma**), uma **Biópsia** excisional jamais retira apenas a epiderme; ela deve buscar **profundidade** suficiente (até a hipoderme) para o patologista documentar a margem e até que camada o tumor infiltrou (Índice de Breslow).
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Derme Papilar:** Camada superficial, rica em capilares e terminações nervosas.
-- **Derme Reticular:** Camada profunda, rica em **Colágeno Tipo I** (dá força à pele).
-- **Glândulas Écrinas:** Espalhadas pelo corpo; responsáveis pelo suor da **Termorregulação**.
-- **Glândulas Apócrinas:** Axilas e região pubiana; suor com odor característico.
-- **Melanina:** É transferida para os queratinócitos para proteger o **DNA** celular.
+- **Membrana Basal:** É o "cimento" que une a Epiderme e a Derme. Um tumor *in situ* é câncer que ainda *não cruzou* a membrana basal.
+- **Epitélio Mucoso:** Exige ambiente úmido para as células da superfície viverem, como na Boca e Esôfago. É **Não-Queratinizado**.
+- **Microvilosidades:** Extensões da membrana para **Absorção** no Trato Gastrointestinal (Epitélio Simples Colunar com Vilos).
+- **Pele Grossa vs Pele Fina:** Pele grossa tem Estrato **Lúcido** e uma gigantesca camada de Estrato Córneo; **Não possui folículo piloso**, nem glândulas sebáceas (ex: Sola do Pé).
 
-| Conceito A | Conceito B | Diferencial para Prova |
+---
+
+## Pré-Prova
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### Síntese para a prova
+
+Para gabaritar tecido epitelial tegumentar, foque na **Organização Laminar**.
+**Queratina** = Barreira invencível e seca na Epiderme. **Colágeno Type I** = Super-resistência tensional da Derme. As glândulas e os folículos moram afundados no "sótão" (derme) mas derivam da "sacada" (epiderme). 
+
+A Uninove adora cobrar o eixo das células especializadas. O **Melanócito** faz o escudo biológico; se ele sofre mutação agressiva, surge o Melanoma. As **Células de Langerhans** fazem a polícia imunológica. Não confunda a secreção **Écrina** (suor aquoso normal termorregulador espalhado pelo corpo) com a **Apócrina** (suor nas axilas atrelado a odor via digestão bacteriana). Nos epitélios em si, se fala de atrito e ingestão ríspida (boca, esôfago), pense no pavimento para aguentar: **Estratificado Pavimentoso Não Queratinizado**.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Pele Espessa** | **Pele Fina** | Palmas/Plantas vs Resto do Corpo |
-| **Glând. Sebácea** | **Músculo Eretor**| Lubrificação vs "Arrepiar" o pelo |
-| **Hipoderme** | **Derme** | Gordura (Isolante) vs Tecido Conjuntivo |
-| **Estratificado** | **Simples** | Epiderme vs Endotélio (Vaso) |
+| **Estrato Basal** | **Estrato Córneo** | Células-Tronco Vivas (Base) vs Células Sem Núcleo/Mortas (Superfície) |
+| **Derme Papilar** | **Derme Reticular** | Topo nutritivo ondulado vs Parte profunda cheia de colágeno forte |
+| **Gland. Écrina** | **Gland. Apócrina** | Drena na superfície da derme (Febre/Calor) vs Drena no Folículo Pilar (Axila) |
+| **Melanócito** | **Célula de Langerhans**| Faz Proteína **Melanina** vs Faz a **Defesa Imunológica** Local |
+| **Simples Colunar** | **Estratificado Pavim.** | Órgãos focados em **Absorção** vs Focados em **Proteção contra Atrito** |
 
 ### Frase-âncora para não esquecer
 
-> “Revestimento é compromisso: o epitélio escolhe entre proteger, trocar ou absorver — nunca os três ao mesmo tempo no mesmo grau.”
+> "O basal faz a tropa, o espinhoso amarra tudo; o granuloso avisa do fim, o córneo seca e fica mudo. A derme segura a onda com vaso, papila e colar; se queimar até o fundo, a pele perde o dom de se recuperar."

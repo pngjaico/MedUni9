@@ -1,183 +1,93 @@
 # BMF3 — Aula 12: Fisiologia Renal — Filtração Glomerular e TFG
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A filtração glomerular é o primeiro passo para a formação da urina e a limpeza do sangue. Na prova, os temas centrais são a **Taxa de Filtração Glomerular (TFG)** — o melhor termômetro da saúde dos rins —, como a **Barreira de Filtração** impede a perda de proteínas e por que a **Creatinina** é usada para medir tudo isso.
+
+Na prática, saber interpretar a TFG de um paciente é o que permite ao médico diagnosticar uma Doença Renal Crônica (DRC) e ajustar doses de medicamentos para evitar intoxicações.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A filtração glomerular é o primeiro passo da formação da urina. A Taxa de Filtração Glomerular (TFG) é o principal marcador da função renal e define os estágios da doença renal crônica. A **Uninove** cobra frequentemente os determinantes da TFG, a equação de Starling aplicada ao glomérulo e o cálculo do **clearance** de creatinina.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A12-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de pressões de filtração.
+- **O que mostrar:** O "Cabo de Guerra" Glomerular: Um esquema mostrando as forças que empurram o sangue para fora (Pressão Hidrostática) e as que puxam para dentro (Pressão Oncótica das proteínas). Destacar a **Arteríola Eferente** mais apertada que a Aferente para criar pressão.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Forças de Starling e regulação da pressão intraglomerular.
 
+## 1. A Barreira de Filtração: Tripla Proteção
 
-
-
----
-
-## 1. O Processo de Filtração Glomerular
-
-### O que é Filtrado?
-
-O glomérulo filtra o **plasma** pela barreira de filtração para o espaço de Bowman:
-- O ultrafiltrado glomerular é semelhante ao plasma, **exceto** por: proteínas grandes (albumina, globulinas — NÃO filtradas) e células sanguíneas
-
-### Barreira de Filtração (três camadas)
-
-| Camada | Estrutura | Característica |
-|--------|-----------|---------------|
-| 1. Endotélio fenestrado | Poros 60-80 nm | Barreira mecânica (células e grandes moléculas) |
-| 2. Membrana Basal Glomerular (MBG) | Colágeno IV + proteoglicanos | Barreira de carga negativa (repele albumina) |
-| 3. Fenda de filtração dos podócitos | Poros 6-8 nm + nefrina | Barreira final de tamanho e carga |
-
-> **Proteinúria = falha na barreira de filtração** (lesão de podócito, MBG, ou endotélio)
+O glomérulo é uma peneira sofisticada que filtra 180 litros de plasma por dia, mas não deixa passar o que é importante.
+- **Fendas de Filtração:** Criadas pelos podócitos, barram moléculas grandes.
+- **Membrana Basal (MBG):** Tem carga **Negativa**. Como as proteínas (como a albumina) também são negativas, elas se repelem.
+- **Ultrafiltrado:** O líquido que passa é idêntico ao plasma, mas **sem proteínas** e sem células. Se houver proteína na urina (**Proteinúria**), a peneira está furada.
 
 ---
 
-## 2. Forças de Starling no Glomérulo
+## 2. A Pressão que Move o Rim: Starling
 
-A TFG é determinada pelo balanço de forças hidrostáticas e oncóticas:
-
-$$TFG = K_f \times [(P_{cap} - P_{Bowman}) - (\pi_{cap} - \pi_{Bowman})]$$
-
-Onde:
-- $K_f$ = coeficiente de filtração (permeabilidade × área)
-- $P_{cap}$ ≈ 60 mmHg (pressão hidrostática capilar — força motora)
-- $P_{Bowman}$ ≈ 15 mmHg (pressão hidrostática na cápsula — opõe filtração)
-- $\pi_{cap}$ ≈ 32 mmHg (pressão oncótica do plasma — opõe filtração)
-- $\pi_{Bowman}$ ≈ 0 mmHg (quase sem proteína no filtrado)
-
-**Pressão efetiva de filtração ≈ 60 - 15 - 32 = 13 mmHg**
+Para a urina ser formada, a pressão do sangue dentro do glomérulo precisa ser maior que a resistência de fora.
+- **Pressão Hidrostática:** Empurra o líquido para virar urina. É controlada pelo calibre das arteríolas.
+- **Pressão Oncótica:** As proteínas que ficaram no sangue tentam "puxar" a água de volta.
+- **Arteríola Eferente:** Se você aperta a "saída" do glomérulo (eferente), a pressão lá dentro aumenta e a filtração sobe. Quem faz isso é a **Angiotensina II**.
 
 ---
 
-## 3. Taxa de Filtração Glomerular (TFG)
+## 3. TFG e Clearance: Medindo a Função Renal
 
-- **Valor normal:** ~125 mL/min (~180 L/dia filtrados; ~99% reabsorvidos)
-- **Volume de urina final:** ~1-2 L/dia
-- A TFG é controlada por mecanismos autorregulatórios
-
-### Regulação da TFG
-
-#### Autorregulação Renal (miogênica + feedback túbulo-glomerular)
-
-O rim mantém TFG constante com PA sistêmica entre 80-180 mmHg:
-- **Mecanismo miogênico:** artéria aferente contrai quando PA aumenta (evita hiperfiltração)
-- **Feedback túbulo-glomerular (FTG):** mácula densa detecta ↑NaCl → libera adenosina → vasoconstrição da aferente → ↓TFG
-
-#### Regulação Neural e Hormonal
-
-| Estímulo | Artéria Aferente | Artéria Eferente | Efeito na TFG |
-|---------|-----------------|-----------------|---------------|
-| Angiotensina II | Vasoconstritora | Vasoconstritora (mais intensa) | ↑ pressão glomérulo / ↓ TFG se severo |
-| Simpático intenso | Vasoconstritora | — | ↓ TFG |
-| Prostaglandinas E2 | Vasodilatadora | — | Mantém TFG (importante quando simpático alto) |
-| ANP | Vasodilatadora | Vasoconstritora | ↑ TFG |
-
-> **Na ICC:** uso de AINH bloqueia prostaglandinas → vasoconstricção aferente → queda da TFG → IRA
+Como saber se o rim está funcionando? Medindo quanto ele limpa de sangue por minuto.
+- **O Marcador Ideal:** Seria a **Inulina**, mas como é cara e difícil de usar, usamos a **Creatinina**.
+- **Creatinina:** É um resíduo dos músculos. Se o rim para de filtrar, a creatinina **sobe** no sangue.
+- **Atenção:** Se a creatinina dobra de valor (de 1 para 2), significa que o rim perdeu **metade (50%)** da sua função!
 
 ---
 
-## 4. Marcadores de TFG — Clearance
+## 4. Estágios da Doença Renal (DRC)
 
-### Clearance (Depuração)
-
-$$C = \frac{U_x \times \dot{V}}{P_x}$$
-
-- $C$ = clearance (mL/min)
-- $U_x$ = concentração urinária da substância
-- $\dot{V}$ = fluxo urinário (mL/min)
-- $P_x$ = concentração plasmática
-
-### Inulina — Marcador Ideal (não usado clinicamente)
-
-- Filtrada livremente, **não reabsorvida nem secretada** → clearance da inulina = TFG exata
-
-### Creatinina — Marcador Clínico
-
-- Produzida pelo músculo, filtrada livremente, levemente secretada pelo TCP
-- Clearance de creatinina superestima levemente a TFG (~10%)
-- **CKD-EPI e MDRD:** equações para estimar TFG por creatinina sérica + idade + sexo + raça
-- **Valor normal creatinina sérica:** 0,7-1,2 mg/dL (homens); 0,5-1,0 mg/dL (mulheres)
-
-### Ureia (BUN)
-
-- Produzida no fígado, filtrada, reabsorvida ~40-50% → não é marcador preciso da TFG
-- Aumenta em catabolismo, desidratação (pré-renal) e desproporcionalmente → razão BUN/creatinina > 20 = pré-renal
-
----
-
-## 5. Estadiamento da DRC pela TFG (KDIGO)
-
-| Estágio | Descrição | TFG (mL/min/1,73m²) |
-|---------|-----------|---------------------|
-| G1 | Normal ou elevada + marcador de dano | ≥ 90 |
-| G2 | Levemente reduzida | 60-89 |
-| G3a | Leve a moderada | 45-59 |
-| G3b | Moderada a severa | 30-44 |
-| G4 | Severa | 15-29 |
-| G5 | Falência renal | < 15 |
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Albumina NÃO é filtrada normalmente:** A barreira de carga negativa repele a albumina (carga negativa). Proteinúria albuminúrica indica lesão glomerular.
-2. **Creatinina superestima a TFG:** Porque é levemente secretada pelo TCP (além de filtrada). A inulina é o padrão-ouro mas não é usada clinicamente.
-3. **Autorregulação renal: PA entre 80-180 mmHg:** Fora desse range, a TFG cai (hipotensão grave) ou aumenta (crise hipertensiva descontrolada).
-4. **Angiotensina II: constringe mais a eferente que a aferente:** Por isso, IECA e BRA (bloqueadores do RAAS) causam dilatação da eferente → ↓pressão intraglomerular → reduzem proteinúria — efeito nefroprotetor em DRC diabética.
-5. **AINEs são nefrotóxicos em pacientes com baixo fluxo:** Bloqueiam prostaglandinas → vasoconstricção aferente → queda da TFG → IRA pré-renal.
-6. **Razão BUN/Creatinina > 20 = pré-renal:** Na pré-renal, a ureia é reabsorvida mais (baixo fluxo tubular) → aumenta desproporcional em relação à creatinina.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei as três camadas da barreira de filtração e o papel de cada uma
-- [ ] Sei calcular a pressão efetiva de filtração com as forças de Starling
-- [ ] Sei a TFG normal (~125 mL/min) e o que é filtrado vs reabsorvido
-- [ ] Entendo por que creatinina superestima a TFG (por ser levemente secretada)
-- [ ] Sei os estágios da DRC pela TFG (G1-G5)
-- [ ] Sei o efeito de AINEs na TFG (bloqueio de prostaglandinas → vasoconstrição aferente)
+A TFG normal é acima de **90 mL/min**. Conforme ela cai, a doença piora:
+- **G1 a G2:** Rins funcionando bem ou com perda leve.
+- **G3 (A e B):** Perda moderada. Aqui o paciente já precisa de acompanhamento rigoroso.
+- **G5 (Falência):** TFG abaixo de **15 mL/min**. O paciente geralmente precisa de Diálise ou Transplante.
 
 ---
 
 ## Ponte com a Clínica
 
-Na diabetes mellitus tipo 2, a hiperglicemia crônica leva à glicosilação da MBG, expansão mesangial e espessamento da barreira de filtração que paradoxalmente aumenta a permeabilidade a proteínas. O resultado é microalbuminúria progressiva — o primeiro sinal de nefropatia diabética. O uso de inibidores do RAAS (IECA ou BRA) nesse contexto dilata a artéria eferente, reduzindo a pressão intraglomerular e a proteinúria. Na sepse grave, a hipotensão compromete a autorregulação renal e a TFG cai abruptamente — é a IRA pré-renal por hipoperfusão que, se mantida, evolui para NTA isquêmica.
+O uso de **Anti-inflamatórios (AINEs)**, como o Ibuprofeno, é perigoso para o rim porque eles bloqueiam as Prostaglandinas. Normalmente, as prostaglandinas mantêm a "torneira de entrada" (arteríola aferente) aberta. Se você toma muito AINE, a entrada fecha, a pressão no glomérulo cai e o rim para de filtrar, causando uma **Insuficiência Renal Aguda**. Por isso, pacientes com rins doentes nunca devem abusar de anti-inflamatórios.
+
+---
+
+## Pontos-Chave para Prova
+
+- **TFG Normal**: Aproximadamente **125 mL/min**.
+- **Carga Negativa**: A barreira que impede a **Albumina** de sair na urina.
+- **Angiotensina II**: Aperta a saída (Eferente) para manter a filtração quando a pressão cai.
+- **IBPs e IECA/BRA**: Remédios que protegem o rim ao baixar a pressão interna do glomérulo.
+- **Clearance de Creatinina**: A principal conta matemática para estimar o estágio da DRC.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Fisiologia da Filtração, decore as forças e os remédios. 
+A filtração acontece porque a entrada (**Aferente**) é larga e a saída (**Eferente**) é estreita — isso cria pressão. Se você dilata a saída (com remédios como **IECA/Enalapril**), a pressão cai e o rim descansa (nefroproteção). Se você fecha a entrada (com **AINEs**), o rim seca.
 
-TFG normal: ~125 mL/min; 180 L/dia filtrados; ~1-2 L/dia de urina. Barreira: endotélio fenestrado → MBG (carga negativa) → fenda de filtração (nefrina). Albumina NÃO filtra: carga negativa repelida pela MBG.
-
-Creatinina: filtrada + levemente secretada pelo TCP → superestima TFG (~10%). Inulina: padrão-ouro (filtrada, não reabsorvida, não secretada) — só laboratorial. IECA/BRA: dilata eferente → ↓pressão intraglomerular → nefroprotetor.
-
-AINEs: bloqueiam PGE2 → vasoconstricção aferente → ↓TFG → IRA em risco.
+A Uninove ama cobrar sobre a **Creatinina**. Lembre-se: ela superestima um pouco a filtração porque uma parte pequena é secretada pelo tubo, não apenas filtrada. No diabetes, a peneira (MBG) engrossa mas fura, deixando a albumina passar — o primeiro sinal é a **Microalbuminúria**. Por fim, saiba os números: DRC é TFG < 60 por mais de 3 meses. G5 é o fim da linha (< 15).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Inulina | Creatinina | Inulina: padrão-ouro (filtrada pura); creatinina: clínica (filtrada + secretada pelo TCP) |
-| IRA pré-renal | IRA renal | BUN/Cr > 20: pré-renal (reabsorção ↑ de ureia); BUN/Cr ~10-15: renal (NTA) |
-| IECA | AINEs em DRC | IECA: dilata eferente → nefroprotetor; AINEs: constringe aferente → nefrotóxico |
-| MBG normal | MBG lesada | Normal: repele albumina (carga negativa); lesada: proteinúria, hematúria |
+| **Arteríola Aferente** | **Arteríola Eferente** | A **Entrada** (controlada por Prostaglandinas) vs A **Saída** (Angiotensina II) |
+| **Inulina** | **Creatinina** | Medida **Exata** (pesquisa) vs Medida **Estimada** (prática clínica) |
+| **Pressão Hidrostática** | **Pressão Oncótica** | **Empurra** o líquido pra fora vs **Puxa** o líquido pra dentro |
+| **Microalbuminúria** | **Macroalbuminúria** | Sinal de lesão **Incial** vs Sinal de lesão **Grave** |
+| **Autorregulação** | **Feedback Túbulo-Glomerular**| Resposta do vaso à **Pressão** vs Resposta ao **Sal (Mácula Densa)** |
 
 ### Frase-âncora para não esquecer
 
-> "A TFG é o coração da função renal: filtra 180 litros por dia, mas te devolve 178 — e quando a creatinina sérica sobe ao dobro, a TFG caiu à metade."
+> "Entrada aberta (Prostaglandinas) e saída apertada (Angiotensina) fazem o rim filtrar. Se a peneira fura, a albumina escapa; se o cano entope, a creatinina no sangue sobe. Inulina é o sonho, Creatinina é a realidade."

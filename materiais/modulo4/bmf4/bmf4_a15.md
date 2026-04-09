@@ -1,135 +1,90 @@
-# BMF4 — Aula 15: Meninges, Sistema Ventricular e Barreiras Encefálicas
+# BMF4 — Aula 15: Meninges e Líquor — A Proteção Hidráulica
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+O sistema nervoso central é extremamente frágil e, por isso, vive dentro de uma "armadura" de membranas e mergulhado em um líquido protetor. Na prova, os temas centrais são o reconhecimento das **Meninges** (especialmente os hematomas Epidural e Subdural), a circulação do **Líquor (LCR)** e a função da **Barreira Hematoencefálica**.
+
+Na prática, as meninges são as sentinelas do cérebro. Quando uma bactéria as invade, temos a **Meningite**, uma emergência médica gravíssima. Além disso, o líquido que as banha serve como um amortecedor e um sistema de limpeza. Saber como esse líquido circula é o segredo para entender por que a cabeça de uma criança pode crescer anormalmente (**Hidrocefalia**).
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As meninges não são apenas envoltórios passivos do encéfalo — são a sede das meningites, dos hematomas e das referências anatômicas para o neurocirurgião. O sistema ventricular produz o LCR que amortece o encéfalo, e sua obstrução causa hidrocefalia. A barreira hematoencefálica (BHE) explica por que tantos antibióticos não chegam ao SNC e por que o tratamento de meningite bacteriana é uma emergência. A Uninove cobra esses temas com vinhetas clínicas: "hematoma epidural vs subdural", "hidrocefalia comunicante vs não comunicante", "qual antibiótico penetra a BHE".
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A15-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de meninges.
+- **O que mostrar:** O "Sanduíche de Membranas": Um corte lateral da cabeça mostrando do couro cabeludo ao cérebro. Destacar a **Dura-máter** (grossa), a **Aracnoide** (parecendo teia de aranha) e a **Pia-máter** (fina e colada no cérebro). Mostrar os vasos sangrando para diferenciar o hematoma **Epidural** (acima da dura) do **Subdural** (abaixo da dura).
+- **Tipo sugerido:** Ilustração anatômica em camadas.
+- **Legenda (rascunho):** Camadas meníngeas e espaços de sangramento clínico.
 
+## 1. As Três Camadas (Dura, Aracnoide e Pia)
 
-
-
----
-
-## As Três Meninges — Camadas e Espaços
-
-O encéfalo é envolvido por três camadas meníngeas, de fora para dentro:
-
-**Dura-máter:** camada mais espessa, composta de tecido fibroso denso. No crânio, tem duas lâminas — a lâmina perióstea (adere ao crânio) e a lâmina meníngea. Entre as duas lâminas ficam os seios venosos durais. A dura-máter forma pregas como a **foice do cérebro** (entre os hemisférios), a **tenda do cerebelo** (tentorium, entre cérebro e cerebelo) e a **foice do cerebelo**. O espaço entre a dura e o crânio é o **espaço epidural** (praticamente virtual no crânio — distinto da medula onde é real e gordurosamente preenchido).
-
-**Aracnoide:** camada intermediária avascular, aderida à dura internamente. Projeta as **vilosidades aracnoides** (granulações de Pacchioni) para os seios venosos, onde o LCR é reabsorvido. O espaço entre aracnoide e pia-máter é o **espaço subaracnoideo**, preenchido por LCR.
-
-**Pia-máter:** camada mais interna, altamente vascularizada, adere diretamente à superfície do encéfalo e da medula, acompanhando todos os sulcos e giros.
-
-> **Dica de Prova:** Hematoma **epidural** — entre crânio e dura, geralmente por ruptura da artéria meníngea média (trauma frontal/temporal). Hematoma **subdural** — entre dura e aracnoide, geralmente por ruptura de veias em ponte (trauma leve em idosos, tomadores de anticoagulante). Hemorragia **subaracnoide** — no espaço subaracnoideo, geralmente por ruptura de aneurisma.
+- **Dura-máter:** É a mais externa e resistente. No crânio, ela fica colada no osso.
+- **Aracnoide:** A camada do meio. Ela tem trabéculas que parecem teia de aranha. É no espaço abaixo dela (**Subaracnoideo**) que o líquor corre.
+- **Pia-máter:** A camada mais interna e delicada. Ela é como um insufilm colado em cada dobra do cérebro.
 
 ---
 
-## Sistema Ventricular — Os Quatro Ventrículos e o LCR
+## 2. Sangramentos: Epidural vs Subdural
 
-O LCR é produzido principalmente pelos **plexos corioides** que revestem o interior dos ventrículos. O sistema ventricular compreende:
-
-```flow
-Ventrículos laterais (um em cada hemisfério)
-        ↓ Forame interventricular de Monro
-Terceiro ventrículo (diencéfalo)
-        ↓ Aqueduto de Sylvius (mesencéfalo)
-Quarto ventrículo (entre tronco e cerebelo)
-        ↓ Forame de Magendie (medial) e Forame de Luschka (laterais)
-Cisterna magna → espaço subaracnoideo
-        ↓ Granulações aracnoides → seio sagital superior
-Drenagem venosa
-```
-
-O LCR é produzido à taxa de ~500 mL/dia, mas o volume total é ~150 mL (renovado ~3x/dia). Pressão normal do LCR: 7–18 cmH₂O deitado.
-
-> **Pegadinha:** Obstrução no aqueduto de Sylvius causa **hidrocefalia não comunicante** (obstrutiva) — o LCR não chega ao espaço subaracnoideo. Já a falha de reabsorção nas granulações aracnoides causa **hidrocefalia comunicante** — LCR circula, mas não é absorvido. Na prática: meningite crônica e hemorragia subaracnoide causam hidrocefalia comunicante por inflamação das granulações.
+- **Hematoma Epidural:** Sangue **Arterial** (principalmente a Meníngea Média) entre o osso e a dura. É rápido e perigoso. O paciente pode ter o "Intervalo Lúcido" (acorda, fala e morre em seguida).
+- **Hematoma Subdural:** Sangue **Venoso** (veias em ponte) abaixo da dura. É mais lento. É comum em idosos que sofrem quedas leves, aparecendo dias ou semanas depois.
+- **Hemorragia Subaracnoide:** Sangue no líquor. O paciente grita que é a "pior dor de cabeça da vida".
 
 ---
 
-## LCR — Composição e Alterações
+## 3. Líquor: O Amortecedor Cerebral
 
-LCR normal:
-- Aspecto: cristalino ("água de rocha")
-- Proteínas: 15–45 mg/dL
-- Glicose: ~60% da glicemia (40–80 mg/dL)
-- Células: < 5 linfócitos/mm³
-
-| Condição | Aspecto | Proteínas | Glicose | Células |
-|----------|---------|----------|---------|---------|
-| Meningite bacteriana | Turvo | ↑↑↑ | ↓↓ | ↑ PMN |
-| Meningite viral | Claro/xantocrômico | ↑ leve | Normal | ↑ Linf |
-| Meningite tuberculosa | Xantocrômico | ↑↑ | ↓ | ↑ Linf |
-| Hemorragia subaracnoide | Xantocrômico/sanguinolento | ↑ | Normal | Hemácias |
-
-> **Dica de Prova:** Glicose do LCR < 45 mg/dL (ou < 50% da sérica) = infecção bacteriana ou fúngica consumindo glicose. Glicose normal afasta meningite bacteriana.
+O **Líquor (LCR)** é produzido no "filtro de sangue" do cérebro, o **Plexo Corioide**:
+- **Caminho:** Ventrículos Laterais -> III Ventrículo -> IV Ventrículo -> Espaço Subaracnoideo.
+- **Reabsorção:** Depois de rodar tudo, ele é jogado de volta no sangue pelas **Granulações Aracnoides**.
+- **Hidrocefalia:** Se o caminho entope (ex: aqueduto estreito), o líquor acumula e dilata o cérebro. Se o entupimento é no caminho, é **Não Comunicante**; se é na reabsorção final, é **Comunicante**.
 
 ---
 
-## Barreira Hematoencefálica (BHE)
+## 4. Barreira Hematoencefálica (BHE)
 
-A BHE é formada pelas **células endoteliais dos capilares cerebrais**, com junções apertadas (tight junctions) que impedem a passagem paracella de substâncias. Os astrócitos, com seus pés terminais ao redor dos capilares, induzem e mantêm essas junções. A BHE é seletiva: passam livremente moléculas lipossolúveis, gases (O₂, CO₂), e glicose (por transportadores GLUT1). Não passam moléculas hidrossolúveis, proteínas, e a maioria dos antibióticos hidrofílicos.
-
-Antibióticos com boa penetração na BHE (especialmente inflamada): **ceftriaxona**, **penicilina G**, **ampicilina**, **metronidazol**, **rifampicina**, **doxiciclina**. Antibióticos com má penetração: aminoglicosídeos, cefalosporinas de 1ª geração (cefalexina).
-
-> **Dica de Prova:** A dexametasona é usada adjuvantemente na meningite bacteriana para reduzir a inflamação meníngea — que, paradoxalmente, reduziria a permeabilidade da BHE e a penetração de antibióticos à medida que a inflamação diminui.
-
----
-
-## Pontos-Chave para Prova
-
-- **Dura-máter:** duas lâminas no crânio; seios venosos entre elas. Foice + tenda = pregas durais.
-- **Espaço epidural crânio:** praticamente virtual; hematoma epidural = artéria meníngea média.
-- **Espaço subdural:** entre dura e aracnoide; hematoma subdural = veias em ponte.
-- **Espaço subaracnoideo:** LCR; hemorragia aqui = aneurisma até prova em contrário.
-- **Aqueduto de Sylvius:** estreitamento crítico; obstrução = hidrocefalia não comunicante.
-- **Granulações aracnoides:** reabsorção do LCR → seio sagital superior.
-- **BHE:** junções apertadas + astrócitos; lipossolúveis passam; hidrossolúveis não.
-- **LCR meningite bacteriana:** turvo, proteína alta, glicose baixa, neutrófilos.
-- **Ceftriaxona:** antibiótico de primeira escolha para meningite (boa penetração de BHE).
+O cérebro é "chato" com o que entra. Os vasos cerebrais são selados por **Astrócitos**:
+- **Função:** Impedir que bactérias e toxinas do sangue passem para os neurônios.
+- **Dificuldade:** Muitos antibióticos também não conseguem passar. Por isso, para tratar meningite, usamos doses altíssimas de remédios específicos que conseguem atravessar esse "muro".
 
 ---
 
 ## Ponte com a Clínica
 
-Meningite bacteriana em adulto: cefaleia + febre + rigidez de nuca + Kernig/Brudzinski positivos. TC antes da punção lombar se sinais focais ou papiledema (risco de herniação). Antibioterapia empírica NÃO deve ser atrasada para aguardar o resultado da PL. Hidrocefalia de pressão normal (tríade de Hakim-Adams): demência + distúrbio da marcha + incontinência urinária em idoso. Tratamento: derivação ventriculoperitoneal. Hematoma epidural: intervalo lúcido após TCE seguido de deterioração rápida = emergência cirúrgica.
+No seu exame físico, ao realizar a **Punção Lombar**, você analisará o aspecto do líquor. O normal é ele ser translúcido como **"Água de Rocha"**. Se ele sair turvo ou purulento, você está diante de uma **Meningite Bacteriana**. O laboratório confirmará a queda da glicose no líquor (as bactérias a estão comendo) e o aumento de proteínas e células de defesa (combate à infecção).
+
+---
+
+## Pontos-Chave para Prova
+
+- **Plexo Corioide**: Garante a produção contínua do líquor (LCR) dentro dos ventrículos.
+- **Espaço Subaracnoideo**: Localização real onde circula o líquor e onde ocorrem as hemorragias por aneurisma.
+- **Granulações Aracnoides**: Responsáveis pela reabsorção do LCR para o sistema venoso (seio sagital superior).
+- **Barreira Hematoencefálica**: Formada por junções oclusivas entre as células endoteliais e os pés dos astrócitos.
+- **Hidrocefalia Obstrutiva**: Decorrente do bloqueio no fluxo do LCR (comum no aqueduto de Sylvius).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Epidural:** artéria meníngea média, intervalo lúcido, biconvexo na TC.
-- **Subdural:** veias em ponte, idosos/anticoagulados, côncavo na TC.
-- **Subaracnoide:** aneurisma, "pior dor de cabeça da vida", xantocrômico na PL.
-- **Aqueduto de Sylvius bloqueado:** hidrocefalia não comunicante (obstrutiva).
-- **Granulações aracnoides comprometidas:** hidrocefalia comunicante.
-- **LCR bacteriano:** turvo, proteína ↑↑, glicose ↓, PMN. Viral: claro, linf, glicose normal.
-- **BHE:** lipossolúvel passa; ceftriaxona, penicilina, rifampicina = boa penetração.
-- **Dexametasona:** adjuvante na meningite bacteriana → reduz inflamação e sequelas.
+
+Para gabaritar meninges e líquor, foque nos espaços de sangramento. 
+**Epidural** = Artéria/Temporal. **Subdural** = Veia/Idoso. **Subaracnoide** = Aneurisma/Cisterna. A circulação do líquor sempre começa no **Plexo Corioide** e termina no **Sangue Venoso**.
+
+A Uninove adora o **Líquor na Meningite**. Lembre-se: Bacteriana = Turvo, **Glicose Baixa** e muita Proteína. Viral = Claro e Glicose Normal. Outro ponto forte: o **Aqueduto de Sylvius** é o ponto mais estreito; se ele fecha, o cérebro "incha" em cima (**Hidrocefalia não-comunicante**). Por fim, saiba que o **LCR** normal não tem quase nenhuma célula de defesa.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Hematoma epidural | Hematoma subdural | Epidural: artéria, biconvexo, intervalo lúcido; Subdural: veia, côncavo, idoso |
-| Hidrocefalia comunicante | Não comunicante | Comunicante: reabsorção; Não comunicante: obstrução (ex: aqueduto) |
-| Meningite bacteriana | Meningite viral | Bacteriana: turvo, PMN, glicose baixa; Viral: claro, linfócitos, glicose normal |
-| BHE saudável | BHE inflamada | Inflamada: maior permeabilidade → antibióticos penetram melhor |
+| **H. Epidural** | **H. Subdural** | **Biconvexo** (Limão) vs **Côncavo** (Banana) |
+| **H. Subaracnoide** | **Meningite** | **Sangue** no líquor vs **Pus/Infecção** no líquor |
+| **Hidro. Comunicante** | **H. Ñ-Comunicante** | Falha na **Reabsorção** vs Falha no **Caminho/Bloqueio** |
+| **Astrócito (BHE)** | **Plexo Corioide** | Quem **Protege/Bloqueia** vs Quem **Produz Líquor** |
+| **Pia-máter** | **Dura-máter** | Fina e **Inseparável** vs Grossa e **Fibrosa** |
 
 ### Frase-âncora para não esquecer
-> "Epidural é artéria (urgência máxima, biconvexo); subdural é veia (idoso anticoagulado, côncavo) — o formato na TC já conta a história."
+
+> "Acima da dura é artéria letal; abaixo da dura é veia senil. No meio das teias é líquor real, se o vago entupir, a cabeça amplia o perfil. Se a glicose cair, tem bactéria no sal; se o líquor for rocha, tá tudo normal."

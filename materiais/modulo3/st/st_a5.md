@@ -1,129 +1,95 @@
-# ST — Aula 5: Normas Regulamentadoras aplicadas à Saúde do Trabalhador
+# ST — Aula 5: Normas Regulamentadoras Aplicadas à Saúde
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+As Normas Regulamentadoras (NRs) são os pilares que sustentam a segurança e a saúde no ambiente de trabalho. Na prova, os temas centrais são o funcionamento do **GGR/PGR** (gestão de riscos), o papel do **PCMSO** (vigilância médica) e as diferenças fundamentais entre **Insalubridade** e **Periculosidade**.
+
+Na prática, as NRs são as regras do jogo. O médico deve saber que a **NR-32** é a sua maior aliada no hospital, definindo desde a proibição de adornos até a obrigatoriedade da vacinação. Entender essas normas permite que você não apenas trate o trabalhador, mas que exija da empresa as condições seguras para que ele possa exercer sua função sem adoecer.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As Normas Regulamentadoras (NRs) estruturam o padrão mínimo de proteção em saúde e segurança do trabalho no Brasil. Na prática médica, elas orientam condutas de prevenção, vigilância, emissão de documentos e discussão de nexo ocupacional.
-
-Em prova, o erro mais comum é decorar número de NR sem entender função operacional. A banca costuma cobrar o que cada norma exige no cotidiano do serviço, especialmente em hospitais, ambulatórios e empresas com exposição a riscos químicos, físicos, biológicos, ergonômicos e de acidentes.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A5-F01`
 
-- **Momento:** após a contextualização inicial da aula.
-- **O que mostrar:** linha do tempo simples ligando admissão do trabalhador, avaliação de risco, monitoramento clínico e desfecho previdenciário.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Integração entre NRs no ciclo de prevenção e vigilância em saúde do trabalhador."
-- **Notas (opcional):** manter visual limpo para leitura em mobile, com termos curtos.
+- **Momento:** Seção de integração das NRs.
+- **O que mostrar:** O "Ciclo da NR": Um triângulo onde a base é a **NR-1** (Identificar os riscos), um lado é a **NR-7** (Monitorar o trabalhador) e o outro lado é a **NR-32** (Proteção no serviço de saúde). No centro, o resultado: **Trabalhador Saudável**.
+- **Tipo sugerido:** Esquema didático | Infográfico.
+- **Legenda (rascunho):** Integração sistêmica das Normas Regulamentadoras na gestão de saúde ocupacional.
+
+## 1. NR-1: O Cérebro da Segurança (GRO e PGR)
+
+A NR-1 mudou a forma como as empresas olham para o risco através do **Gerenciamento de Riscos Ocupacionais (GRO)**.
+- **O que é o PGR?** É o Programa de Gerenciamento de Riscos. É um documento vivo que deve listar todos os perigos (químicos, físicos, biológicos) e dizer exatamente o que a empresa vai fazer para eliminá-los ou controlá-los.
+- **Para a Prova:** Se a questão fala em "inventário de riscos" ou "plano de ação", a resposta é **NR-1**.
 
 ---
 
-## NR-1 e GRO/PGR: base de gestão do risco ocupacional
+## 2. NR-7: O PCMSO (O Olhar do Médico)
 
-A NR-1 estabelece disposições gerais e introduz o **Gerenciamento de Riscos Ocupacionais (GRO)**, operacionalizado pelo **Programa de Gerenciamento de Riscos (PGR)**. O foco é transformar risco em plano de ação contínuo.
-
-O PGR deve mapear perigos, avaliar riscos, priorizar controles e acompanhar eficácia das medidas. Em serviços de saúde, isso inclui exposição biológica, jornada, sobrecarga postural e risco de acidentes perfurocortantes.
-
-> **Dica de Prova:** quando aparecer "gestão contínua de risco com inventário e plano de ação", pense em **GRO/PGR (NR-1)**.
-
----
-
-## NR-7 e PCMSO: vigilância clínica do trabalhador
-
-A NR-7 organiza o **Programa de Controle Médico de Saúde Ocupacional (PCMSO)**, que transforma o mapa de risco em acompanhamento clínico individual e coletivo.
-
-Os exames ocupacionais clássicos são:
-- **Admissional:** antes do início das atividades.
-- **Periódico:** em intervalos definidos por risco e protocolo.
-- **Retorno ao trabalho:** após afastamento por período relevante.
-- **Mudança de função:** quando muda o perfil de exposição.
-- **Demissional:** na saída do vínculo, conforme critérios legais.
-
-O médico responsável pelo PCMSO precisa articular dados clínicos com informação ambiental, evitando um modelo apenas burocrático.
-
-> **Pegadinha:** PCMSO não substitui gestão ambiental do risco. Ele complementa o PGR com foco clínico-epidemiológico.
+É o programa que transforma os riscos ambientais em exames médicos. O médico do trabalho coordena o **PCMSO**.
+- **Exames Obrigatórios:**
+    - **Admissional:** Antes de começar a trabalhar.
+    - **Periódico:** Em tempos em tempos (geralmente anual).
+    - **Retorno ao Trabalho:** Se o trabalhador ficou doente ou teve bebê (afastado por >30 dias).
+    - **Mudança de Função:** Antes de ele assumir riscos novos.
+    - **Demissional:** Para garantir que ele saia da empresa tão saudável quanto entrou.
 
 ---
 
-## NR-9 no contexto atual e integração com NR-1
+## 3. Insalubridade (NR-15) vs. Periculosidade (NR-16)
 
-Historicamente, a NR-9 tratava do PPRA. Com as atualizações normativas, a lógica foi absorvida e ampliada no modelo de GRO/PGR da NR-1.
-
-Para prova, o ponto central é entender o raciocínio:
-1. Identificar perigos e exposições.
-2. Avaliar magnitude e probabilidade.
-3. Definir controles coletivos, administrativos e individuais.
-4. Monitorar se houve queda real do risco.
-
-Ou seja, saiu o foco de documento isolado e entrou o foco de gestão integrada.
+Essa é uma "pegadinha" clássica de prova:
+- **Insalubridade (NR-15):** É o risco "gotinha". A exposição prolongada causa doença ao longo do tempo (ruído, calor, radiação, produtos químicos). O adicional é de **10%, 20% ou 40% do salário mínimo**.
+- **Periculosidade (NR-16):** É o risco "bomba". Um erro e você morre na hora (explosivos, inflamáveis, eletricidade, radiação ionizante ou roubo/violência). O adicional é de **30% do salário base**.
 
 ---
 
-## NR-15, NR-16 e NR-32: quando a clínica encontra direito do trabalho
+## 4. NR-32: A Proteção de Quem Cuida
 
-A **NR-15** define atividades insalubres com base em exposição nociva e prevê adicional de insalubridade em graus distintos.  
-A **NR-16** define atividades perigosas com risco acentuado de evento grave e prevê adicional de periculosidade.  
-A **NR-32** especifica proteção em serviços de saúde, incluindo imunização ocupacional, biossegurança e conduta pós-exposição.
-
-Na rotina médica, essas normas orientam decisões sobre aptidão, afastamento, prevenção de agravos e qualidade do ambiente de trabalho.
-
-### Quadro comparativo de cobrança frequente
-
-| Norma | Objeto principal | Aplicação prática em saúde | Erro comum de prova |
-|-------|------------------|-----------------------------|---------------------|
-| NR-1 | GRO/PGR | Inventário de riscos e plano de ação | Tratar como mera introdução sem efeito prático |
-| NR-7 | PCMSO | Vigilância médica ocupacional | Confundir com programa exclusivamente documental |
-| NR-15 | Insalubridade | Exposição nociva com adicional específico | Achar que todo risco gera insalubridade automática |
-| NR-16 | Periculosidade | Risco acentuado de acidente grave | Confundir com insalubridade |
-| NR-32 | Serviços de saúde | Biossegurança, imunização e protocolos pós-exposição | Reduzir apenas a uso de EPI |
+Esta norma é exclusiva para estabelecimentos de saúde.
+- **Quimioterápicos:** Regras rígidas para manipulação.
+- **Resíduos:** Descarte correto de agulhas.
+- **Vacinação:** A empresa é obrigada a fornecer gratuitamente as vacinas para Hepatite B, Tétano e Difteria (Dupla Adulto) e outras conforme o risco.
+- **Adornos:** Proibição de anéis e pulseiras para quem tem contato com biológicos (regra de ouro da biossegurança).
 
 ---
 
 ## Ponte com a Clínica
 
-Em ambulatório ocupacional hospitalar, uma técnica de enfermagem com acidentes perfurocortantes repetidos exige análise integrada: revisão de processo de trabalho (NR-1), acompanhamento clínico e sorológico (NR-7), protocolo de exposição biológica (NR-32) e avaliação de condições de risco no setor.
-
-Quando a equipe aplica a lógica integrada das NRs, deixa de atuar apenas "após o dano" e passa a interromper cadeias de adoecimento e acidente.
+No ambulatório ocupacional, se um trabalhador chega para o exame demissional com uma perda auditiva que não estava no admissional, você tem uma evidência clara de falha na **NR-7** e na **NR-15**. O médico não deve ser apenas um "carimbador" de guias; ele deve confrontar o **ASO** (Atestado de Saúde Ocupacional) com os riscos descritos no **PGR** da empresa. Essa vigilância clínica protege o trabalhador de agravos silenciosos e garante que a empresa cumpra seu papel social de prevenir doenças.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- NRs são instrumentos operacionais, não apenas lista para memorização.
-- NR-1 organiza GRO/PGR com ciclo contínuo de identificação, controle e monitoramento.
-- NR-7 converte risco ocupacional em vigilância clínica pelo PCMSO.
-- NR-15 e NR-16 tratam de naturezas diferentes de exposição e repercussão trabalhista.
-- NR-32 é central para quem atua em serviços de saúde e envolve biossegurança ampliada.
-- Questões da Uninove valorizam integração entre norma, cenário clínico e decisão prática.
+- **PGR**: Documento de gestão que substituiu o antigo PPRA; foca na ação e controle dos riscos.
+- **PCMSO**: Deve ter caráter preventivo e ser integrado com as avaliações de risco do ambiente.
+- **Insalubridade**: Calculada sobre o salário mínimo; Periculosidade é sobre o salário base.
+- **NR-32**: Projeta a saúde do profissional de saúde; biológico é o risco central.
+- **Mudança de Função**: O exame deve ser realizado **Antes** que o trabalhador mude de posto.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Na prova, pense que as NRs funcionam como peças de um mesmo sistema. A NR-1 organiza a gestão global do risco com GRO/PGR, enquanto a NR-7 garante vigilância médica por meio do PCMSO. Se a questão trouxer exames ocupacionais, o eixo costuma ser NR-7; se trouxer inventário de risco e plano preventivo, tende a ser NR-1.
+Para gabaritar Normas Regulamentadoras, foque nos nomes e funções. 
+**NR-1** = Gestão e Plano de Ação. **NR-7** = Exames Médicos. **NR-15** = Doença lenta (Insalubridade). **NR-16** = Morte rápida (Periculosidade). **NR-32** = Hospital e Proibição de Anéis.
 
-NR-15 e NR-16 aparecem muito em comparação. A primeira se relaciona à exposição nociva com repercussão sobre saúde ao longo do tempo; a segunda se relaciona a risco acentuado de evento grave. Em situações de serviços de saúde, lembre da NR-32 como norma aplicada ao ambiente assistencial real.
-
-Em casos clínico-ocupacionais, a resposta forte é sempre integrada: descrever risco, medida de controle, monitoramento clínico e ação de vigilância. Esse raciocínio costuma diferenciar alternativas parecidas.
+A Uninove adora o **ASO**. Lembre-se: o resultado do exame médico deve ser comunicado ao trabalhador e à empresa. Se a questão cita "adicional de 40%", o tema é Insalubridade em grau máximo. Outro ponto forte: o exame demissional pode ser dispensado se o trabalhador tiver feito um periódico há pouco tempo (o prazo varia conforme o grau de risco da empresa). Por fim, saiba que o **GRO** é o processo de gerir e o **PGR** é o documento onde tudo isso fica registrado.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| NR-1 (GRO/PGR) | NR-7 (PCMSO) | NR-1 gerencia riscos do ambiente; NR-7 acompanha saúde do trabalhador exposto |
-| Insalubridade (NR-15) | Periculosidade (NR-16) | Insalubridade: exposição nociva; periculosidade: risco acentuado de acidente grave |
-| Vigilância clínica | Gestão ambiental do risco | Clínica monitora desfecho no trabalhador; gestão ambiental atua na fonte do perigo |
-| NR-32 | Demais NRs gerais | NR-32 detalha especificamente o contexto de serviços de saúde |
+| **PGR** | **PCMSO** | Olhar para o **Ambiente** vs Olhar para o **Corpo** |
+| **Insalubridade** | **Periculosidade** | Doença **Lenta/Crônica** vs Acidente **Rápido/Fatal** |
+| **Mudança de Função** | **Retorno ao Trabalho** | Risco **Novo** vs Retorno após **Afastamento/Parto** |
+| **NR-15** | **NR-16** | Salário **Mínimo** (%) vs Salário **Base** (30%) |
+| **EPI** | **EPC** | Solução **Individual** vs Solução **Coletiva** |
 
 ### Frase-âncora para não esquecer
 
-> "No trabalho, primeiro eu reconheço e controlo o risco (NR-1), depois vigio o trabalhador exposto (NR-7); em saúde, tudo passa pela lente da NR-32."
+> "NR-1 planeja, NR-7 vigia e a NR-32 te protege no hospital. Insalubridade adoece aos poucos, Periculosidade mata de uma vez. Conhecer a regra é a primeira medida de prevenção."

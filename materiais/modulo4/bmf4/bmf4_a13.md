@@ -1,134 +1,94 @@
-# BMF4 — Aula 13: Nervos Cranianos e Vias Descendentes
+# BMF4 — Aula 13: Nervos Cranianos e Vias Descendentes — O Comando Central
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+Os 12 pares de nervos cranianos e as vias motoras são os "cabos de comando" que ligam o cérebro à face e ao corpo. Na prova, os temas centrais são o funcionamento de cada **Nervo Craniano** (especialmente o III e o VII), a diferença entre a **Paralisia Facial Central e Periférica** e o trajeto do **Trato Corticoespinal**.
+
+Na prática, o exame dos nervos cranianos é a ferramenta mais poderosa do neurologista. Quando você pede para o paciente sorrir ou acompanhar o seu dedo com o olhar, está testando diretamente circuitos específicos do tronco encefálico. Se um lado da face não move, mas a testa enruga, você já sabe: o problema não é no nervo em si, mas em algum lugar dentro do cérebro (**AVC**).
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Os 12 pares de nervos cranianos são a apresentação mais cobrada da neuroanatomia na Uninove. Cada par tem número romano, nome, tipo de fibras, ponto de saída do crânio e função clínica — e a prova adora misturar esses atributos. Uma lesão do NC III cause ptose + midríase + estrabismo divergente. Uma lesão do NC VII causa paralisia facial periférica (toda hemifaciface). Dominar esses pares é essencial para a semiologia neurológica que vem nos módulos seguintes.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A13-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de nervos cranianos.
+- **O que mostrar:** O "Relógio dos Cranianos": Um esquema numerado de I a XII mostrando onde cada nervo atua (olho, língua, face, ouvido, vísceras). Usar cores para destacar os **Motores** (azul), **Sensitivos** (vermelho) e **Mistos** (roxo).
+- **Tipo sugerido:** Infográfico didático circular.
+- **Legenda (rascunho):** Funções e territórios de inervação dos doze pares de nervos cranianos.
 
+## 1. O Time dos 12: Nervos Cranianos
 
-
-
----
-
-## Os 12 Nervos Cranianos — Visão Geral
-
-O mnemônico clássico para os nomes: **"Oh Oh Oh To Touch And Feel Very Good Velvet, Ah Heaven"** (Olfatório, Óptico, Oculomotor, Troclear, Trigêmeo, Abducente, Facial, Vestibulococlear, Glossofaríngeo, Vago, Acessório, Hipoglosso).
-
-Para o tipo: **"Sensitivo Motor Ambos — Some Say Marry Money But My Brother Says Big Brains Matter More"** — ou simplesmente memorize a tabela abaixo:
-
-| NC | Nome | Tipo | Saída do Crânio | Função principal |
-|----|------|------|----------------|-----------------|
-| I | Olfatório | S | Lâmina cribriforme | Olfação |
-| II | Óptico | S | Canal óptico | Visão |
-| III | Oculomotor | M | Fissura orbitária superior | Movimentos oculares (exceto SO e LR); pupila; elevador da pálpebra |
-| IV | Troclear | M | Fissura orbitária superior | Músculo oblíquo superior |
-| V | Trigêmeo | A | V1: FOS; V2: forame redondo; V3: forame oval | Sensibilidade face; mastigação (V3) |
-| VI | Abducente | M | Fissura orbitária superior | Músculo reto lateral |
-| VII | Facial | A | Forame estilomastoideo | Expressão facial; gustação 2/3 ant.; lacrimação; salivação |
-| VIII | Vestibulococlear | S | Meato acústico interno | Audição e equilíbrio |
-| IX | Glossofaríngeo | A | Forame jugular | Gustação 1/3 post.; reflexo de vômito; parótida |
-| X | Vago | A | Forame jugular | Faringe, laringe, vísceras; reflexo de tosse |
-| XI | Acessório | M | Forame jugular | Esternocleidomastoideo e trapézio |
-| XII | Hipoglosso | M | Canal do hipoglosso | Movimentos da língua |
-
-> **Dica de Prova:** Os únicos NC puramente motores são: III, IV, VI, XI e XII. Os únicos puramente sensitivos: I, II e VIII. Todos os demais são mistos.
+Cada par tem um nome e uma função sagrada:
+- **NC III, IV e VI:** O trio que move o **Olho**. O **III (Oculomotor)** também cuida da pupila e de levantar a pálpebra. Se o III falha, o olho "cai" (ptose) e a pupila dilata.
+- **NC V (Trigêmeo):** É o nervo da **Sensibilidade da Face** e dos músculos da mordida.
+- **NC VII (Facial):** O nervo do **Sorriso**. Cuida da expressão facial e do gosto na ponta da língua.
+- **NC X (Vago):** O grande nervo das **Vísceras**. Cuida da voz, da deglutição e do coração.
+- **NC XII (Hipoglosso):** Manda na **Língua**. Se um lado falha, a língua "aponta" para o lado da lesão quando o paciente a coloca para fora.
 
 ---
 
-## Nervos Cranianos de Alta Frequência em Prova
+## 2. Paralisia Facial: Central vs Periférica
 
-**NC III (Oculomotor):** controla 4 músculos extrínsecos (RS, RI, RM, OI), o elevador da pálpebra e a pupila (via fibras parassimpáticas). Lesão completa do NC III = ptose + midríase + olho voltado "para baixo e para fora" (ação remanescente do NC IV e VI).
-
-> **Pegadinha:** Na hérnia de uncus (herniação tentorial), o NC III é comprimido primeiro porque corre pelo bordo livre do tentório. O sinal precoce é **midríase ipsilateral** — pupilas diferentes é urgência neurológica.
-
-**NC V (Trigêmeo):** três divisões: V1 (oftálmica), V2 (maxilar), V3 (mandibular). A neuralgia do trigêmeo é dor lancinante unilateral em distribuição de um ou mais ramos. A V3 também carrega fibras motoras para mastigação — mordida desviada para o lado da lesão (masseter fraco ipsilateral).
-
-**NC VII (Facial):** paralisia periférica (lesão do NC VII em si) afeta toda a hemiface ipsilateral — paciente não fecha o olho nem levanta a sobrancelha. Paralisia central (lesão supranuclear = AVC) poupa a fronte ipsilateral (porque a fronte tem inervação bilateral cortical).
-
-> **Dica de Prova:** **Periférico = toda a face fraca** (incluindo fronte). **Central = fronte preservada** (AVC contralateral). Isso cai em prova toda vez.
-
-**NC VIII (Vestibulococlear):** lesão coclear = surdez neurossensorial; lesão vestibular = vertigem + nistagmo. Schwannoma vestibular (neurinoma do acústico) comprime o NC VIII no meato acústico interno → surdez unilateral progressiva + zumbido.
-
-**NC X (Vago):** inerva cordas vocais (via nervo laríngeo recorrente), faringe e vísceras torácicas/abdominais. Lesão do NC X = rouquidão + disfagia + ausência de reflexo de tosse. O nervo laríngeo recorrente esquerdo contorna o arco aórtico — tumores mediastinais podem comprimi-lo.
+Essa é a pegadinha favorita em qualquer prova médica:
+- **Paralisia Periférica (Lesão do Nervo):** O rosto inteiro de um lado "derrete". O paciente **NÃO** consegue enrugar a testa.
+- **Paralisia Central (AVC):** A parte inferior do rosto entorta, mas o paciente **CONSEGUE** enrugar a testa. Isso acontece porque a testa recebe comando dos dois lados do cérebro ao mesmo tempo.
+- **Regra de Ouro:** Se a testa enruga, pense em **AVC**. Se a testa está lisa, pense em **Bell (paralisia do nervo)**.
 
 ---
 
-## Vias Descendentes — Controle Motor
+## 3. Vias Descendentes: O Caminho do Movimento
 
-As vias descendentes levam comandos motores do córtex e tronco encefálico até os motoneurônios inferiores. As principais:
-
-| Via | Origem | Função | Decussação |
-|-----|--------|--------|-----------|
-| **Corticospinal lateral** | Córtex motor (área 4) | Movimentos finos dos membros | Pirâmides bulbares (80–85%) |
-| **Corticospinal anterior** | Córtex motor | Movimentos axiais e proximais | Nível medular (15–20%) |
-| **Corticobulbar** | Córtex motor | Musculatura da cabeça e pescoço (NC motores) | Variável por NC |
-| **Rubrospinal** | Núcleo rubro (mesencéfalo) | Membros superiores (menor papel em humanos) | Imediata ao nível |
-| **Reticulospinal** | Formação reticular | Tônus muscular e postura | Mista |
-| **Vestibuloespinal** | Núcleo vestibular | Equilíbrio e postura antigravitacional | Ipsilateral |
-
-> **Dica de Prova:** O trato corticospinal lateral é a via piramidal clássica. Lesão acima da decussação (córtex, cápsula interna) = déficit motor **contralateral** ao lado da lesão. Lesão abaixo da decussação (medula) = déficit motor **ipsilateral** ao lado da lesão.
+O comando para você mover o braço nasce no córtex e desce:
+- **Trato Corticoespinal Lateral:** É a via principal do **Movimento Fino**. 
+- **Decussação das Pirâmides:** Lá no final do bulbo, 90% das fibras cruzam de lado. É por isso que uma lesão no lado esquerdo do cérebro paralisa o braço **Direito**.
+- **Cápsula Interna:** É um "funil" onde todas as fibras passam juntas. Um AVC minúsculo aqui pode causar uma catástrofe motora total.
 
 ---
 
-## Cápsula Interna — Organização Topográfica
+## 4. O Nervo Vago e a Vida
 
-A cápsula interna concentra todas as fibras corticospinais e corticobulbares. Divide-se em joelho (fibras corticobulbares) e ramo posterior (fibras corticospinais, sensoriais). Um AVC lacunar na cápsula interna pode causar hemiplegia densa completa por lesão pequena — porque todas as fibras estão concentradas num espaço mínimo.
-
----
-
-## Pontos-Chave para Prova
-
-- **NC III, IV, VI saem pela FOS** — lesão do seio cavernoso pode afetar os três simultaneamente.
-- **NC VII periférico:** toda hemiface fraca (fronte + inferior). NC VII central: fronte preservada.
-- **NC III comprimido em herniação uncal:** midríase ipsilateral — urgência neurológica.
-- **Trato corticospinal lateral:** decussa nas pirâmides bulbares → lesão cortical = déficit contralateral.
-- **Lesão de NC X:** rouquidão + disfagia + ausência de reflexo de tosse.
-- **NC XI:** inerva esternocleidomastoideo e trapézio — teste clínico: rotação da cabeça e elevação do ombro.
-- **Cápsula interna:** concentra fibras piramidais — AVC pequeno = hemiplegia densa.
+O **NC X (Vago)** é o nervo mais longo do corpo. Ele sai do crânio (pelo forame jugular) e desce até o intestino.
+- **Voz:** Ele inerva as cordas vocais. Se o paciente está rouco há muito tempo, o vago (ou o seu ramo laríngeo) pode estar sendo pressionado.
+- **Reflexos:** Ele é responsável pelo reflexo do vômito e da tosse.
 
 ---
 
 ## Ponte com a Clínica
 
-Aneurisma de artéria comunicante posterior comprime o NC III → midríase + ptose aguda = emergência neurovascular. Herpes zoster no gânglio geniculado (NC VII) → síndrome de Ramsay Hunt: paralisia facial periférica + vesículas na orelha + surdez. Tumor do ângulo pontocerebelar (schwannoma vestibular) comprime NC VII e VIII simultaneamente → surdez + paralisia facial ipsilateral. AVC de artéria cerebral média (ramos lenticuloestriados) → lesão de cápsula interna → hemiplegia contralateral densa com desvio do olhar conjugado ipsilateral à lesão.
+No seu exame físico, se encontrar um paciente com **Midríase** (pupila dilatada e fixa) após um acidente, isso é um sinal de alerta máximo. O nervo **NC III** está sendo esmagado pela pressão dentro do crânio (**Herniação Uncal**). Isso indica que o cérebro está tentando sair pelo buraco da base do crânio. Você tem poucos minutos para agir antes que a lesão se torne fatal.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Nervo Oculomotor (NC III)**: Controla a pupila e o elevador da pálpebra; sua paralisia gera ptose e midríase.
+- **Paralisia Facial Periférica**: Atinge tanto o quadrante inferior quanto o **Superior (Testa)** da face.
+- **Trato Corticoespinal Lateral**: Cruza nas **Pirâmides do Bulbo**; responsável pelo controle motor voluntário fino.
+- **Nervo Trigêmeo (NC V)**: Dividido em três ramos (V1, V2, V3); V3 é o único ramo com função **Motora** (mastigação).
+- **Cápsula Interna**: Local de passagem de todas as fibras motoras; AVC aqui gera hemiplegia completa e densa.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **NC III:** oculomotor — ptose + midríase + olho "para baixo e fora" em lesão completa.
-- **NC VII periférico vs central:** periférico = fronte comprometida; central (AVC) = fronte poupada.
-- **NC V3:** único ramo motor do trigêmeo — mastigação; mandíbula desvia para lado da lesão.
-- **NC X:** lesão = rouquidão + disfagia + ausência de reflexo nauseoso.
-- **NC XI:** esternocleido + trapézio; NC XII: língua (desvia para lado da lesão).
-- **Trato corticospinal lateral:** decussa nas pirâmides → déficit contralateral na lesão cortical.
-- **Herniação uncal → comprime NC III → midríase ipsilateral:** sinal de alerta.
-- **Cápsula interna:** AVC pequeníssimo → hemiplegia densa completa.
+
+Para gabaritar nervos cranianos e vias, foque na lateralidade e nos testes físicos. 
+**NC III** = Pupila e Pálpebra. **NC VII** = Sorriso. **NC XII** = Língua. No motor, lembre-se: se a lesão é no cérebro, o corpo para do lado **Oposto**. Se a lesão é na medula, o corpo para do **Mesmo Lado**.
+
+A Uninove adora a **Diferenciação Facial**. Lembre-se: Testa lisa = Nervo (Periferia). Testa enrugada = Cérebro (Central/AVC). Outro ponto forte: o **Trigêmeo (V)** é sensibilidade; se o paciente tem dor no rosto ao escovar os dentes, é o V. Por fim, saiba que o **Forame Jugular** é a saída dos nervos IX, X e XI.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Paralisia facial periférica | Paralisia facial central | Periférica: toda face (fronte + inferior); Central: poupou a fronte |
-| NC III lesão | NC VI lesão | NC III: midríase + ptose + olho para baixo-fora; NC VI: estrabismo convergente |
-| Surdez condutiva | Surdez neurossensorial | Condutiva: Weber lateraliza para lado doente; Neurossensorial: para lado são |
-| Lesão acima da decussação | Lesão abaixo da decussação | Acima (cortical): déficit contralateral; Abaixo (medular): déficit ipsilateral |
+| **P. Facial Periférica** | **P. Facial Central** | **Testa Lisa** vs **Testa Enrugada** |
+| **NC III Lesão** | **NC VI Lesão** | **Ptose/Pupila** vs **Olho vesgo p/ dentro** |
+| **Trato Lateral** | **Trato Anterior** | **Movimento Fino** vs **Equilíbrio/Tronco** |
+| **NC V (Trigêmeo)** | **NC VII (Facial)** | **Sensibilidade** vs **Movimento Facial** |
+| **Decussação** | **Nível Medular** | **Bulbo** (corpo cruza) vs **Medula** (dor cruza) |
 
 ### Frase-âncora para não esquecer
-> "NC III é o 'chefão' do olho — ele perde o emprego primeiro na herniação e leva pupila, pálpebra e quatro músculos junto."
+
+> "Se a testa enruga, o cérebro chora (AVC). Se a testa é lisa, o nervo foi embora. III dilata o olho, XII aponta o lado mudo. Cruza no bulbo pra mandar em tudo."

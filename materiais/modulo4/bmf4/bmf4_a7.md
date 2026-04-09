@@ -1,138 +1,95 @@
-# Morfologia do Diencéfalo
+# BMF4 — Aula 7: Diencéfalo — O Centro de Controle Interno
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a7
+O diencéfalo é a "estação central" de informações do cérebro. Quase tudo o que você sente ou decide passa por aqui antes de chegar ao córtex. Na prova, os temas centrais são os **Núcleos do Tálamo** (especialmente VPL e VPM), o controle hormonal e térmico do **Hipotálamo** e a função da **Glândula Pineal**.
+
+Na prática, o diencéfalo cuida da sua sobrevivência automática. Se você sente sede, fome ou sono, é o seu diencéfalo trabalhando. Além disso, se um paciente apresenta uma dor estranha e intensa em um lado do corpo após um AVC, mesmo sem lesão na pele, o culpado pode ser o **Tálamo**.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O diencéfalo é a estação de retransmissão entre o córtex e o resto do encéfalo. Uma lesão talâmica localizada pode produzir hemianestesia completa contralateral, síndrome da dor central ou mesmo distúrbios do sono. O hipotálamo controla funções vitais — temperatura, sede, fome, ritmo circadiano — e é o "chefe" do SNA. A Uninove cobra lesões específicas do tálamo e hipotálamo.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de núcleos do tálamo.
+- **O que mostrar:** O "Painel de Controle": Um desenho do diencéfalo destacando o **Tálamo** (o grande ovo central) e o **Hipotálamo** (o cone abaixo). No tálamo, usar setas para mostrar a informação do corpo indo para o núcleo **VPL** e a da face para o **VPM**.
+- **Tipo sugerido:** Esquema anatômico central didático.
+- **Legenda (rascunho):** Divisão funcional do diencéfalo e principais núcleos talamo-hipotalâmicos.
 
+## 1. Tálamo: O Secretário do Cérebro
 
-
-
----
-
-## Divisões do Diencéfalo
-
-O diencéfalo localiza-se entre o tronco encefálico e o telencéfalo, flanqueando o III ventrículo. Quatro componentes:
-
-1. **Tálamo** — 80% do diencéfalo.
-2. **Hipotálamo** — abaixo do sulco hipotalâmico.
-3. **Epitálamo** — glândula pineal, habênula.
-4. **Subtálamo** — abaixo do tálamo, lateral ao hipotálamo.
+O **Tálamo** é a porta de entrada para o córtex. Nada entra no cérebro (exceto o olfato) sem passar pelo tálamo:
+- **Núcleo VPL (Ventral Postero-Lateral):** Recebe toda a sensibilidade do **Corpo** (dor, tato, frio).
+- **Núcleo VPM (Ventral Postero-Medial):** Recebe a sensibilidade da **Face**.
+- **Corpo Geniculado Lateral:** É o "núcleo da visão".
+- **Corpo Geniculado Medial:** É o "núcleo da audição".
+- **Clínica:** Lesões no tálamo podem causar a **Síndrome de Déjerine-Roussy**, onde o paciente sente dores excruciantes em um lado do corpo que não passam com analgésicos comuns.
 
 ---
 
-## Tálamo — Estação de Retransmissão Cortical
+## 2. Hipotálamo: O Chefe da Sobrevivência
 
-O tálamo é dividido por uma lâmina medular interna em grupos nucleares. Cada núcleo projeta para uma área cortical específica:
-
-| Núcleo talâmico | Projeta para | Função |
-|----------------|-------------|--------|
-| VPL (ventral posterolateral) | S1 parietal | Sensibilidade somática do corpo |
-| VPM (ventral posteromedial) | S1 face | Sensibilidade da face (NC V) |
-| LGN (geniculado lateral) | V1 occipital | Via visual |
-| MGN (geniculado medial) | A1 temporal | Via auditiva |
-| VA/VL (vent. ant./lat.) | M1, área 6 | Circuito motor, gânglios da base/cerebelo |
-| MD (dorsomedial) | Córtex pré-frontal | Cognição, humor |
-| Pulvinar | Parietal, occipital, temporal | Integração multimodal |
-
-> **Dica:** VPL → corpo; VPM → face. "L de 'lateral' = corpo lateral (todo o corpo); M de 'medial' = face (medial à face)".
-
-**Síndrome talâmica de Déjerine-Roussy:** lesão do tálamo posterolateral → hemianestesia + dor central intratável (alodínia) + hemiparesia transitória. Ocorre por AVC na artéria talâmica posterolateral (ramo da artéria cerebral posterior).
+O **Hipotálamo** é o maestro do seu corpo, controlando o sistema nervoso autônomo e as glândulas:
+- **Centro da Fome:** Fica na parte **Lateral**. Se lesionar, o paciente para de comer (anorexia).
+- **Centro da Saciedade:** Fica na parte **Ventromedial**. Se lesionar, o paciente não para de comer (obesidade).
+- **Termostato:** Controla a temperatura corporal.
+- **Hormônios:** Produz o **ADH** (que segura o xixi) e a **Ocitocina** (hormônio do parto e do afeto).
 
 ---
 
-## Hipotálamo — Centro Regulatório Visceral
+## 3. Epitálamo e a Glândula Pineal
 
-O hipotálamo ocupa o assoalho e paredes do III ventrículo. Seus núcleos coordenam:
-
-| Núcleo | Função |
-|--------|---------|
-| Supra-óptico | Síntese de ADH (vasopressina) |
-| Paraventricular | Síntese de ocitocina e ADH |
-| Pré-óptico | Termorregulação (área anterior = resfriamento) |
-| Lateral | Centro da fome/saciedade: lesão = hipofagia; estimulação = hiperfagia |
-| Ventromedial | Centro da saciedade: lesão = hiperfagia/obesidade |
-| Mamilar | Memória (parte do circuito de Papez) |
-| Supraquiasmático | Ritmo circadiano (sincronizado pela luz via retina) |
-
-> **Dica:** Lesão do hipotálamo lateral = anorexia (perde o centro da fome). Lesão do hipotálamo ventromedial = hiperfagia/obesidade. "Lateral = fome; ventromedial = saciedade".
+O epitálamo fica na parte de trás e abriga a **Glândula Pineal**.
+- **Melatonina:** A pineal produz melatonina quando o ambiente escurece, avisando o corpo que é hora de **Dormir**.
+- **Ritmo Circadiano:** É o nosso relógio biológico de 24 horas.
+- **Clínica:** Tumores na região da pineal podem pressionar o tronco encefálico e causar a **Síndrome de Parinaud**, onde o paciente perde a capacidade de olhar para cima.
 
 ---
 
-## Epitálamo
+## 4. Subtálamo e os Movimentos Bruscos
 
-Composto pela **glândula pineal** (secreta melatonina — regula sono/vigília) e pelas **habênulas** (conectam sistema límbico a tronco).
-
-**Síndrome de Parinaud:** lesão da região pineal/placa quadrigeminal → paralisia de olhar para cima + dissociação luz-acomodação. Causa: tumores pineais (pineocitoma, germinoma).
-
----
-
-## Subtálamo
-
-Contém o **núcleo subtalâmico de Luys**, componente da via indireta dos gânglios da base. Lesão = **hemibalismo** — movimentos violentos, arremessando o hemicorpo contralateral (AVC lacunar).
-
----
-
-## III Ventrículo
-
-O III ventrículo é a cavidade do diencéfalo. Comunica-se:
-- **Anteriormente:** com os ventrículos laterais pelo forame de Monro.
-- **Posteriormente:** com o IV ventrículo pelo aqueduto de Sylvius.
-
-Massa intermediária: aderência talâmica que cruza o III ventrículo (ausente em ~30% das pessoas).
-
----
-
-## Pontos-Chave
-
-- VPL: sensibilidade do corpo → S1. VPM: sensibilidade da face → S1.
-- Núcleo latera geniculado → V1. Medial geniculado → A1.
-- Hipotálamo lateral = fome; ventromedial = saciedade.
-- ADH: núcleo supra-óptico. Ocitocina: núcleo paraventricular.
-- Síndrome de Parinaud: tumor pineal, paralisia de olhar para cima.
-- Hemibalismo: lesão subtálamo (núcleo de Luys) contralateral.
+O subtálamo ajuda a frear os movimentos.
+- **Núcleo Subtalâmico:** Essencial para o controle motor.
+- **Hemibalismo:** Se o subtálamo de um lado sofrer uma lesão (AVC), o paciente começa a apresentar movimentos violentos e involuntários de arremesso do braço e perna do outro lado. Parece que ele está tentando jogar algo longe sem querer.
 
 ---
 
 ## Ponte com a Clínica
 
-Diabetes insípido (déficit de ADH) pode ser central por tumor hipotalâmico ou lesão da haste hipofisária (trauma, sarcoidose). Síndrome de Wernicke-Korsakoff = lesão dos corpos mamilares por deficiência de tiamina (B1) → confusão + ataxia + oftalmoplegia (Wernicke agudo) → amnésia + confabulação (Korsakoff crônico). O diencéfalo é território de doenças com apresentações raras mas altamente específicas.
+No seu consultório, se chegar um paciente com uma fome insaciável e ganho de peso repentino, acompanhado de alterações de temperatura, você deve suspeitar de uma massa (tumor) comprimindo o **Hipotálamo**. Já em pacientes idosos com deficiência de vitamina B1 (comum em etilistas), a lesão dos **Corpos Mamilares** (parte do diencéfalo) causa a **Síndrome de Wernicke-Korsakoff**, onde o paciente fica confuso e começa a "inventar" histórias (confabulação) para preencher os brancos da memória.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Núcleo VPL**: Retransmite a sensibilidade do corpo para o córtex parietal.
+- **Núcleo VPM**: Retransmite a sensibilidade da face para o córtex parietal.
+- **ADH**: Hormônio antidiurético produzido no núcleo supra-óptico do hipotálamo.
+- **Ocitocina**: Hormônio produzido no núcleo paraventricular do hipotálamo.
+- **Hemibalismo**: Movimento involuntário violento decorrente de lesão no núcleo subtalâmico de Luys.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **VPL → S1 corpo; VPM → S1 face.** Síndrome de Déjerine-Roussy = lesão VPL → hemianestesia + dor central.
-- **Hipotálamo lateral = fome; ventromedial = saciedade.**
-- **ADH = núcleo supra-óptico; ocitocina = para-ventricular.**
-- **Pineal — Síndrome de Parinaud:** paralisia do olhar para cima.
-- **Subtálamo (Luys):** lesão → hemibalismo contralateral.
-- **Corpos mamilares:** Wernicke-Korsakoff (deficiência de B1).
+
+Para gabaritar diencéfalo, mapeie as funções por "andar". 
+**Tálamo** = Sensibilidade (VPL Corpo, VPM Face). **Hipotálamo** = Fome, Sede e Hormônios. **Epitálamo** = Sono (Pineal/Melatonina). **Subtálamo** = Freio Motor (Luys).
+
+A Uninove adora o **Hipotálamo**. Lembre-se: **Lateral** dá fome (Late a barriga). **Ventromedial** dá saciedade (Vento cheio). Outro ponto forte: o **Corpo Geniculado Lateral** é Visão (L de Luz). O **Medial** é Audição (M de Música). Por fim, saiba que o **ADH** controla a água do corpo; se o hipotálamo falha nisso, o paciente urina litros sem parar (Diabetes Insípidus).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Núcleo A | Núcleo B | Diferença |
-|----------|----------|-----------|
-| VPL | VPM | VPL: corpo; VPM: face (NC V) |
-| Hipotálamo lat. (fome) | Hipotálamo ventromedial (saciedade) | Lat. lesão = anorexia; VM lesão = obesidade |
-| Sínd. de Parinaud | Sínd. talâmica | Parinaud: olhar para cima; Déjerine: hemianestesia + dor |
-| Geniculado lateral | Geniculado medial | Lateral = visão (V1); medial = audição (A1) |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Núcleo VPL** | **Núcleo VPM** | Sensibilidade do **Corpo** vs Sensibilidade da **Face** |
+| **Hipotálamo Lat.** | **H. Ventromedial** | Centro da **Fome** vs Centro da **Saciedade** |
+| **G. Lateral** | **G. Medial** | Via **Visual** (Luz) vs Via **Auditiva** (Música) |
+| **Pineal** | **Hipotálamo** | Controle do **Sono** (Melatonina) vs Controle da **Sede/Fome/ADH** |
+| **Hemibalismo** | **Parkinson** | Lesão no **Subtálamo** (Violento) vs Lesão na **Subst. Negra** (Tremor/Lento) |
 
 ### Frase-âncora para não esquecer
-> "O tálamo dirige o tráfego sensorial: cada núcleo tem endereço cortical fixo — confunda o endereço e perde a sensação."
+
+> "Tálamo sente, Hipotálamo vive. Lateral tem fome, Ventromedial se sacia. Pineal escurece e o sono convive. Se o Luys falhar, o braço arremessa e a calma se esvazia."

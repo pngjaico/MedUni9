@@ -1,175 +1,91 @@
 # BMF3 — Aula 10: Anatomia dos Rins, Ureteres, Bexiga e Uretra
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12 min
+O sistema urinário é o grande filtro do corpo e o caminho de saída dos resíduos. Na prova, os temas centrais são a anatomia topográfica dos **Rins**, os três pontos onde pedras ficam presas nos **Ureteres** e as diferenças críticas entre a **Uretra** masculina e feminina.
+
+Na prática, saber que o ureter passa "por baixo da ponte" da artéria uterina ou entender por que as mulheres têm muito mais infecção urinária (ITU) do que os homens é o que define o raciocínio clínico em urologia e ginecologia.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A anatomia do trato urinário é base para compreender litíase renal, hidronefrose, infecções urinárias e procedimentos como cateterismo e cistoscopia. A **Uninove** cobra a relação topográfica dos rins, os pontos de constrição ureteral e as diferenças entre a uretra masculina e feminina.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A10-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de rins e ureteres.
+- **O que mostrar:** O "Caminho da Urina": Um esquema mostrando os dois rins (o direito mais baixo), os ureteres com os três pontos de estrangulamento (JUP, Ilíaca e JUV) e a bexiga. No rim, destacar o **Hilo (VAU)**.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Anatomia do trato urinário superior e inferior.
 
+## 1. Rins: Os Filtros do Sangue
 
-
-
----
-
-## 1. Rins
-
-### Localização e Relações Topográficas
-
-- **Retroperitônio**, entre T12 e L3
-- **Rim direito:** ligeiramente mais baixo que o esquerdo (relação com o fígado)
-- **Adjacências:** suprarrenais (polo superior), omento maior, cólon (anterior)
-- **Hilo renal:** face medial — entrada de artéria renal, saída de veia renal e ureter (da frente para trás: V, A, U — mnemônico **VAU**)
-
-### Dimensões Normais
-
-- Comprimento: ~10-12 cm | Largura: ~5-6 cm | Espessura: ~3-4 cm
-- Peso: ~150 g cada
-
-### Anatomia Interna
-
-| Estrutura | Localização | Função |
-|-----------|-------------|--------|
-| **Córtex** | Camada externa | Filtração (glomérulos, túbulos proximais e distais) |
-| **Medula** | Interna, dividida em pirâmides de Malpighi | Concentração urinária (alças de Henle, ductos coletores) |
-| **Coluna de Bertin** | Extensões corticais entre pirâmides | Vascularização |
-| **Papila renal** | Ápice da pirâmide → cálice menor | Drenagem da urina |
-| **Cálices menores** (8-12) | Ao redor das papilas | Coleta urina |
-| **Cálices maiores** (2-3) | Unem cálices menores | Drena para pelve |
-| **Pelve renal** | Expansão do ureter no hilo | Reservatório antes do ureter |
+Os rins ficam no fundo do abdome (**Retroperitônio**). 
+- **Posição:** O **Rim Direito** é mais baixo que o esquerdo porque o fígado o empurra para baixo.
+- **Hilo Renal:** É a porta de entrada. A ordem de frente para trás é **VAU**: **V**eia renal, **A**rtéria renal e **U**reter (o ureter é sempre o mais posterior).
+- **Interior:** Dividido em **Córtex** (externo, onde filtra) e **Medula** (interno, onde concentra a urina nas pirâmides).
 
 ---
 
-## 2. Ureteres
+## 2. Ureteres: Onde as Pedras Param
 
-### Trajeto
-
-- Do hilo renal → bexiga (retroperitoneal)
-- Comprimento: ~25-30 cm
-- Calibre: 3-4 mm (pode ser menor nos pontos de constrição)
-
-### Três Pontos de Constrição Natural (onde cálculos ficam presos)
-
-| Ponto | Local |
-|-------|-------|
-| 1º | Junção ureteropélvica (JUP) |
-| 2º | Cruzamento com os vasos ilíacos (borda da pelve) |
-| 3º | Junção ureterovesical (JUV) — mais estreite |
-
-> **Clinicamente:** A dor da cólica renal irradia do flanco para a virilha/testículo/lábio maior — seguindo o trajeto do ureter.
-
-### Relação com Estruturas Importantes
-
-- **Ureter direito:** cruza sob a artéria ilíaca comum direita
-- **Ureter esquerdo:** cruza sob a artéria ilíaca comum esquerda
-- **Em mulheres:** o ureter passa **abaixo** da artéria uterina ("a água passa por baixo da ponte") — risco de lesão em histerectomia
+Os ureteres são tubos de 30 cm que levam a urina até a bexiga. Existem três pontos de aperto natural onde as pedras costumam entalar:
+1.  **Junção Ureteropélvica (JUP):** Logo na saída do rim.
+2.  **Cruzamento com as Ilíacas:** Onde o ureter passa por cima dos grandes vasos da pelve.
+3.  **Junção Ureterovesical (JUV):** Onde o ureter entra na bexiga. Este é o ponto **mais estreito** de todos.
 
 ---
 
-## 3. Bexiga Urinária
+## 3. Bexiga e o Trígono Vesical
 
-### Anatomia
-
-- Órgão muscular oco (músculo detrusor) na pelve menor
-- Vazia: retropúbica; cheia: sobe acima do púbis → pode ser palpada
-- Capacidade funcional: 300-400 mL; máxima: ~600-800 mL
-
-### Trígono Vesical
-
-- Região triangular na parede posterior da bexiga
-- Vértices: dois **óstios ureterais** + **óstio interno da uretra**
-- Não tem rugas (fixo, sem dobras) — diferente do resto da bexiga
-- Clinicamente: zona de implantação dos ureteres e saída da uretra; explorado na cistoscopia
-
-### Músculo Detrusor
-
-- Músculo liso (3 camadas mal definidas: longitudinal interna, circular média, longitudinal externa)
-- Contração = micção; relaxamento = continência
-- Inervação parassimpática (S2-S4, via nervo pélvico) → micção
-- Inervação simpática (L1-L2, via nervo hipogástrico) → continência (relaxa detrusor, contrai esfincter interno)
+A bexiga é um saco muscular (músculo **Detrusor**).
+- **O Trígono:** Na base da bexiga existe uma região triangular lisa (sem dobras) chamada Trígono Vesical. É delimitada pela entrada dos dois ureteres e pela saída da uretra.
+- **Controle:** O **Parassimpático** manda a bexiga contrair (micção), enquanto o **Simpático** manda ela relaxar para guardar urina.
 
 ---
 
-## 4. Uretra
+## 4. Uretra: Masculina vs Feminina
 
-| Parâmetro | Masculina | Feminina |
-|-----------|-----------|----------|
-| Comprimento | 18-20 cm | 3-4 cm |
-| Segmentos | 4: prostática, membranosa, bulbar, peniana | 1 segmento |
-| Função | Urinária + reprodutiva (ejaculação) | Somente urinária |
-| ISC (infecção) | Menos frequente (longa, distante do meato) | Muito mais frequente |
-| Esfíncter externo | Músculo estriado (diafragma urogenital) | Idem |
-
-### Segmentos da Uretra Masculina
-
-1. **Prostática:** atravessa a próstata; recebe ductos ejaculatórios e prostáticos; **Cólculo seminal** (verumontanum)
-2. **Membranosa:** mais curta (1-2 cm); esfíncter uretral externo; mais vulnerável a ruptura por trauma
-3. **Bulbar (esponjosa proximal):** início do corpo esponjoso do pênis
-4. **Peniana/esponjosa:** no corpo esponjoso até o meato
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Rim direito mais baixo, não mais alto:** O fígado empurra o rim direito para baixo. O esquerdo fica mais alto.
-2. **Hilo renal — ordem VAU (frente → trás):** Veia renal (anterior), Artéria renal (meio), Ureter (posterior).
-3. **Terceiro ponto de constrição = JUV:** É o mais estreito, onde os cálculos mais impactam.
-4. **Ureter passa ABAIXO da artéria uterina:** Mnemônico "água sob a ponte" — importantíssimo para cirurgia ginecológica.
-5. **Trígono vesical não tem rugas:** O resto da bexiga faz dobras; o trígono é liso.
-6. **Uretra feminina = 3-4 cm:** Por isso ITU é muito mais frequente na mulher (bactérias chegam facilmente à bexiga).
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei a localização dos rins e que o direito é mais baixo
-- [ ] Sei a ordem VAU no hilo renal
-- [ ] Sei os três pontos de constrição ureteral (JUP, ilíaca, JUV)
-- [ ] Sei a relação do ureter com a artéria uterina ("água sob a ponte")
-- [ ] Sei o que é o trígono vesical e por que não tem rugas
-- [ ] Distingo a uretra masculina (4 segmentos) da feminina (curta, 3-4 cm)
+Aqui está a grande diferença entre os sexos:
+- **Uretra Feminina:** Curta (3 a 4 cm). Por ser tão curta e próxima do ânus, as bactérias sobem fácil, causando muita **ITU**.
+- **Uretra Masculina:** Longa (20 cm) e dividida em 4 partes: Prostática, Membranosa, Bulbar e Peniana. Serve para passar urina e também o sêmen.
 
 ---
 
 ## Ponte com a Clínica
 
-Na litíase renal, os cálculos formados na pelve descem pelo ureter e frequentemente ficam retidos nos três pontos de constrição. A dor do cólico renal é causada pelo espasmo ureteral ao redor do cálculo e irradia conforme o dermátomo do nível onde está o cálculo. Na cirurgia de histerectomia total abdominal, o ureter pode ser acidentalmente seccionado ou ligado quando o cirurgião divide a artéria uterina — por isso o conhecimento da relação "água sob a ponte" é vital. Na bexiga neurogênica por lesão medular alta (acima de T12), perde-se o controle inibitório supraespinal → hiperatividade do detrusor → incontinência.
+O medo de todo cirurgião ginecológico é o ureter. Na mulher, o ureter passa exatamente **por baixo** da Artéria Uterina. O mnemônico é: **"A água (ureter) passa por baixo da ponte (artéria)"**. Se o cirurgião não tomar cuidado ao tirar o útero (**Histerectomia**) e grampear a artéria, ele pode grampear o ureter junto, destruindo o rim da paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Localização**: Rins ficam entre T12 e L3.
+- **VAU**: Ordem do hilo renal (Veia, Artéria, Ureter).
+- **Cólica Renal**: Dor que "migra" do flanco para a genitália, seguindo o ureter.
+- **Trígono Vesical**: Zona liso e fixa da bexiga; local frequente de infecções e tumores.
+- **Uretra Membranosa**: A parte mais frágil da uretra masculina, que se rompe em traumas de bacia (quedas "a cavaleiro").
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Anatomia Urinária, foque nos níveis e nos apertos. 
+O **Rim Direito** é mais baixo. O **Hilo** é V-A-U. O local onde a pedra mais para é a **JUV** (chegada na bexiga). Na mulher, lembre-se da "água sob a ponte". Na bexiga, o músculo é o **Detrusor** e a parte lisa é o **Trígono**.
 
-Rins: T12-L3, retroperitônio; direito mais baixo que esquerdo. Hilo: VAU (frente para trás) — Veia, Artéria, Ureter. 3 constrições ureterais: JUP → cruzamento com ilíaca → JUV (mais estreito).
-
-Ureter + artéria uterina: ureter passa por baixo ("água sob a ponte"). Trígono vesical: sem rugas; 2 óstios ureterais + 1 óstio uretral. Uretra feminina: 3-4 cm → maior risco de ITU.
-
-Micção: parassimpático S2-S4; Continência: simpático L1-L2.
+A Uninove adora cobrar os segmentos da uretra masculina. A **Prostática** é a que cresce no idoso e impede de urinar. A **Membranosa** é a que quebra no trauma. Se a questão falar de uma mulher com infecções repetidas, o motivo anatômico é a **Uretra Curta**. Para a micção, o comando vem do **Parassimpático (S2-S4)**; se houver lesão nesses nervos, a bexiga para de esvaziar.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Rim direito | Rim esquerdo | Direito mais baixo (fígado acima); esquerdo mais alto |
-| JUP | JUV | JUP = onde ureter sai da pelve renal; JUV = onde entra na bexiga (mais estreito) |
-| Trígono vesical | Restante da bexiga | Trígono = liso (sem rugas); restante = dobrado quando vazio |
-| Uretra masculina | Uretra feminina | Masculina = 18-20 cm, 4 segmentos, urinária + genital; Feminina = 3-4 cm, só urinária |
+| **Rim Direito** | **Rim Esquerdo** | **Mais Baixo** vs Mais Alto |
+| **JUP** | **JUV** | Saída do Rim vs **Entrada na Bexiga (Mais Estreito)** |
+| **Uretra Masculina** | **Uretra Feminina** | **Longa (20cm)** vs Curta (4cm) |
+| **Córtex Renal** | **Medula Renal** | Onde **Filtra** vs Onde **Concentra** a urina |
+| **Parassimpático** | **Simpático** | **Contrai** a bexiga (Mija) vs **Relaxa** a bexiga (Guarda) |
 
 ### Frase-âncora para não esquecer
 
-> "No hilo renal, a VEIA está na frente porque o sangue venoso quer sair logo; a ARTÉRIA está no meio; e o URETER, o mais tímido, fica lá atrás — VAU."
+> "O rim direito abaixa pro fígado passar. O hilo é VAU pra não errar. O ureter é a água que passa por baixo da ponte uterina. A uretra feminina é um atalho curto para a bactéria chegar na bexiga."

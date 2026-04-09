@@ -1,150 +1,91 @@
-# Bioestatística — Aula 5: Análise Inferencial — Testes de Hipóteses
+# BIOE — Aula 5: Testes de Hipóteses e Valor-p — Decifrando a Signfância
 
-**Disciplina:** Bioestatística e Estudos em Saúde
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+Como saber se o resultado de um estudo é real ou apenas "sorte"? Na prova, os temas centrais são a lógica da **Hipótese Nula (H0)**, a interpretação correta do **Valor-p** e a diferença entre os **Erros Tipo I e Tipo II**.
+
+Na prática, o teste de hipótese é como um julgamento no tribunal. O remédio é considerado "inocente" (**Hipótese Nula**) até que se prove, com dados matemáticos, que ele realmente funciona (**Hipótese Alternativa**). O **p-valor** é a ferramenta que nos diz o quão forte é essa prova. Mas atenção: um resultado pode ser estatisticamente significante (p < 0,05) e mesmo assim ser inútil na prática clínica. Aprender essa diferença é o que protege você de ser enganado por estudos mal interpretados.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Toda afirmação científica sobre eficácia de um tratamento, associação entre fator de risco e doença, ou diferença entre grupos é sustentada por um teste de hipótese. Saber interpretar um valor-p, distinguir **significância estatística** de relevância clínica e reconhecer os tipos de erro é competência essencial tanto para a prova quanto para a leitura crítica de artigos científicos. A **Uninove** cobra esses conceitos diretamente e também embutidos em questões de epidemiologia e ensaio clínico.
 
 ### Figura sugerida
 
 **Figura-ID:** `BIOE-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Erros Tipo I e II.
+- **O que mostrar:** O "Tribunal da Estatística": Uma tabela de decisão. 1. **Erro Tipo I (α)**: Condenar um inocente (Dizer que o remédio funciona quando não funciona). 2. **Erro Tipo II (β)**: Soltar um culpado (Dizer que o remédio não funciona quando ele funciona). 3. **Poder**: Achar a verdade (Detectar o efeito real).
+- **Tipo sugerido:** Quadro comparativo de decisões clínicas.
+- **Legenda (rascunho):** Os erros fundamentais do teste de hipótese e suas consequências na segurança do paciente.
 
+## 1. As Duas Hipóteses: H0 vs H1
 
-
-
----
-
-## 1. A Lógica do Teste de Hipóteses
-
-Um teste de hipóteses começa pela formulação de duas hipóteses opostas. A **hipótese nula (H0)** afirma que não existe efeito, diferença ou associação — é a posição de ceticismo científico. A **hipótese alternativa (H1 ou Ha)** afirma que existe um efeito real. O teste avalia a probabilidade de observar os dados obtidos (ou dados mais extremos) assumindo que H0 é verdadeira — esse é o valor-p.
-
-O objetivo não é provar a hipótese alternativa, mas sim reunir evidências suficientes para rejeitar a hipótese nula. A analogia jurídica é conveniente: H0 é "inocente até prova em contrário", e o valor-p define quão improvável seria observar esses resultados se a inocência fosse verdade. O pesquisador define antes do estudo qual limiar de probabilidade aceitará para rejeitar H0 — esse é o nível de significância alfa.
+Todo estudo começa com uma briga entre duas ideias:
+- **Hipótese Nula (H0):** "Não há diferença". O remédio é igual ao placebo. É o ponto de partida de todo cientista cético.
+- **Hipótese Alternativa (H1):** "Há uma diferença". O remédio funciona melhor. É o que o pesquisador quer provar.
+- **A Decisão:** Você nunca "prova" que H1 é verdade. Você apenas reúne provas suficientes para **Rejeitar H0**.
 
 ---
 
-## 2. Valor-p — Definição Correta e Erros Comuns
+## 2. O famoso Valor-p (p-value): O Limiar da Dúvida
 
-O **valor-p** é a probabilidade de obter uma estatística de teste igual ou mais extrema do que a observada, **supondo que H0 seja verdadeira**. É uma probabilidade condicional: P(dados | H0).
-
-Interpretações **incorretas** sobre o valor-p são cobradas com frequência:
-- [ERRADO] "Probabilidade de H0 ser verdadeira"
-- [ERRADO] "Probabilidade de o resultado ser ao acaso" (impreciso)
-- [ERRADO] "O tamanho do efeito" — p não informa magnitude
-- [CORRETO] "Probabilidade de obter esses resultados — ou mais extremos — se H0 for verdadeira"
-
-> **Dica de Prova:** Um p = 0,03 significa que, se não houvesse diferença real, haveria apenas 3% de chance de observar uma diferença tão grande ou maior por acaso. Com alfa = 0,05, rejeita-se H0.
+O valor-p responde à pergunta: "Se a Hipótese Nula fosse verdade, qual a chance de eu ter achado esses números por pura coincidência?"
+- **p < 0,05 (Significativo):** A chance de ser coincidência é menor que 5%. Rejeitamos a H0 e dizemos: "O resultado é estatisticamente significante".
+- **p > 0,05 (Não Significativo):** A coincidência é muito provável. Não podemos dizer que o remédio funciona.
+- **ERRO COMUM:** p < 0,05 NÃO significa que o efeito é grande ou importante; significa apenas que ele é improvável de ser por acaso.
 
 ---
 
-## 3. Nível de Significância e Decisão
+## 3. Erro Tipo I e Tipo II: Os Perigos da Decisão
 
-O **nível de significância alfa** é o limiar pré-definido para decidir quando rejeitar H0. Convencionalmente alfa = 0,05 (5%).
-
-**Regra de decisão:**
-- Se p menor ou igual a alfa: rejeita H0 — resultado **estatisticamente significativo**
-- Se p maior que alfa: não rejeita H0 — resultado não significativo
-
-> **Pegadinha:** "Não rejeitar H0" NAO significa "provar que H0 é verdadeira". Significa apenas que as evidências não foram suficientes para rejeitá-la com o n e alfa escolhidos.
+- **Erro Tipo I (Alfa - α):** É o **Falso Positivo**. Você diz que o remédio funciona, o médico prescreve, mas o paciente não melhora. É o erro que a ciência mais tenta evitar (limite de 5%).
+- **Erro Tipo II (Beta - β):** É o **Falso Negativo**. O remédio funciona, mas o estudo foi pequeno ou mal feito e concluiu que "não há diferença". O paciente perde a chance de ser tratado.
+- **Poder Estatístico (1 - β):** É a capacidade do estudo de não comer bola. Um bom estudo deve ter pelo menos **80% de Poder**.
 
 ---
 
-## 4. Erros Tipo I e Tipo II
+## 4. Intervalo de Confiança (IC 95%)
 
-### 4.1 Erro Tipo I (alfa) — Falso Positivo
-Ocorre quando se rejeita H0 sendo ela verdadeira — ou seja, conclui-se que há efeito quando na verdade não há. A probabilidade de cometer erro tipo I é exatamente alfa. Com alfa = 0,05, aceita-se 5% de chance de falso positivo.
-
-Exemplo prático: o medicamento não funciona, mas o estudo conclui que sim.
-
-### 4.2 Erro Tipo II (beta) — Falso Negativo
-Ocorre quando não se rejeita H0 sendo ela falsa — o estudo não detecta um efeito que existe. A probabilidade de erro tipo II é beta. Convencionalmente beta deve ser menor ou igual a 0,20 (20%).
-
-Exemplo prático: o medicamento funciona, mas o estudo não detecta o efeito (normalmente por amostra insuficiente — estudo subpotente).
-
-### 4.3 Poder Estatístico (1 menos beta)
-O **poder** é a probabilidade de detectar um efeito real quando ele existe. Poder = 1 menos beta. Convencionalmente deve ser no mínimo 80%. Aumenta com: maior n, maior tamanho de efeito, menor variabilidade e alfa mais permissivo.
-
-| Decisão do estudo | H0 Verdadeira | H0 Falsa |
-|-------------------|-----------|----|
-| Rejeita H0 | Erro tipo I (alfa) | Decisao correta = Poder |
-| Nao rejeita H0 | Decisao correta | Erro tipo II (beta) |
-
----
-
-## 5. Intervalo de Confiança (IC 95%)
-
-O **intervalo de confiança de 95%** é o intervalo que, repetindo o estudo muitas vezes, conteria o parâmetro verdadeiro em 95% das amostras. Fornece informação tanto sobre a magnitude do efeito quanto sobre a precisão da estimativa.
-
-Relação com o valor-p: se o IC 95% de uma diferença **não contém o zero** (para diferenças entre médias) ou **não contém 1** (para razões como RR e OR), o resultado é significativo com alfa = 0,05, equivalente a p menor ou igual a 0,05.
-
-> **Dica de Prova:** IC 95% é mais informativo que o valor-p isolado porque informa tanto a direção quanto a precisão do efeito. Um p = 0,001 com IC 95% estreito e um p = 0,001 com IC 95% amplíssimo têm o mesmo nível de significância, mas impacto clínico muito diferente.
-
----
-
-## 6. Teste Uni vs Bilateral
-
-**Teste bilateral (two-tailed):** testa se existe diferença em qualquer direção — maior ou menor. É o padrão para a maioria dos estudos clínicos, pois na maioria das situações o efeito contrário também seria clinicamente relevante.
-
-**Teste unilateral (one-tailed):** testa diferença em apenas uma direção específica. Tem mais poder para detectar diferença naquela direção, porém não deve ser usado quando o efeito contrário seria clinicamente importante. É raramente justificado — e seu uso inadequado pode ser manipulação estatística.
-
----
-
-## 7. Significância Estatística vs Relevância Clínica
-
-Com amostras muito grandes, diferenças mínimas e clinicamente irrelevantes tornam-se estatisticamente significativas. Exemplo: um RCT com 50.000 pacientes detecta que um anti-hipertensivo reduz a PA em 0,5 mmHg com p menor que 0,0001. A diferença é real e estatisticamente significativa, mas tem pouca importância clínica. O julgamento correto exige avaliar também a magnitude do efeito, o NNT e o impacto na morbimortalidade.
-
----
-
-## Pontos-Chave para Prova
-
-- **H0:** hipótese da ausência de efeito — é a que o teste tenta rejeitar.
-- **Valor-p:** probabilidade dos dados observados (ou mais extremos) se H0 for verdadeira.
-- **p menor ou igual a 0,05:** rejeita H0 — resultado estatisticamente significativo.
-- **Erro tipo I (alfa):** falso positivo — rejeita H0 verdadeira.
-- **Erro tipo II (beta):** falso negativo — não rejeita H0 falsa.
-- **Poder (1 menos beta):** probabilidade de detectar efeito real — minimo de 80%.
-- **IC 95% sem o zero (diferenças) ou sem o 1 (razões):** resultado significativo.
-- **p pequeno nao igual a efeito grande** — tamanho amostral influencia o p.
+O IC 95% é o "parceiro fiel" do p-valor. Ele dá uma margem de erro para o resultado:
+- **Regra de Ouro (Diferença):** Se o intervalo de confiança entre duas médias **cruzar o Zero**, o resultado **não é significante** (p > 0,05).
+- **Regra de Ouro (Risco):** Se o intervalo de Risco Relativo (RR) ou Odds Ratio (OR) **cruzar o 1**, o resultado **não é significante**.
 
 ---
 
 ## Ponte com a Clínica
 
-Na prática de medicina baseada em evidências, ao avaliar um artigo deve-se sempre verificar além do valor-p: o tamanho do efeito (RR, OR, diferença de médias), o IC 95% e o NNT. Organizações como GRADE e o movimento "New Statistics" defendem reportar efeitos com IC em vez de apenas p menor que 0,05, pois um resultado com p = 0,049 e IC 95%: (0,1% a 14%) é muito diferente clinicamente de p = 0,049 com IC 95%: (5% a 12%) — mesmo nível de significância, mas precisões completamente distintas.
+No seu dia a dia, você verá anúncios dizendo: "Novo medicamento reduz a mortalidade com p < 0,001". Isso parece fantástico, mas olhe a **Significância Clínica**. Se a redução foi de apenas 0,1% na mortalidade, você precisaria tratar 1.000 pessoas para salvar uma única vida, e o remédio pode custar caro e ter muitos efeitos colaterais. **Estatística é matemática; Clínica é benefício real para o paciente**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Hipótese Nula (H0)**: Sempre afirma a ausência de efeito ou igualdade entre os grupos.
+- **Valor-p**: Quanto menor, mais forte é a evidência contra a hipótese nula.
+- **Erro Tipo I**: Rejeitar H0 quando ela é verdadeira (Dizer que funciona, mas não funciona).
+- **Amostra e Poder**: Quanto maior a amostra (**n**), maior o poder de detectar diferenças reais e menor o Erro Tipo II.
+- **IC 95%**: Se não cruza o valor nulo (0 para diferenças, 1 para razões), p < 0,05.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar testes de hipótese, foque na Rejeição. 
+**Rejeitar H0** = Vitória do pesquisador (Venceu o ceticismo). **Não Rejeitar H0** = O estudo não provou nada.
 
-H0: sem efeito. H1: com efeito. Valor-p: probabilidade dos resultados (ou mais extremos) se H0 for verdadeira.
-
-P menor ou igual a 0,05: rejeita H0. p maior que 0,05: nao rejeita (nao "prova" H0). Erro tipo I: falso positivo. Erro tipo II: falso negativo.
-
-Poder = 1 menos beta: chance de detectar efeito real. Minimo: 80%. IC 95%: se nao inclui 0 (diferencas) ou 1 (RR/OR), resultado significativo.
+A Uninove adora o **Valor Nulo**. Lembre-se: Em testes de média, o nulo é **0**. Em testes de risco (RR/OR), o nulo é **1**. Se o Intervalo de Confiança "abraçar" o nulo, o p-valor é maior que 0,05. Outro ponto forte: o **Erro Tipo I**. Ele é o erro do otimista (achar que achou algo). O **Erro Tipo II** é o erro do míope (não enxergar o que está lá). Por fim, saiba que o **p-valor de 0,05** é apenas uma convenção, não uma verdade absoluta da natureza.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Erro tipo I (alfa) | Erro tipo II (beta) | Tipo I: falso positivo; Tipo II: falso negativo |
-| Valor-p baixo | Efeito grande | p depende do n; efeito depende da magnitude real |
-| Nao rejeitar H0 | Provar H0 verdadeira | Nunca provamos H0 — apenas falta evidencia para rejeitá-la |
-| IC 95% | p-valor | IC informa precisao e magnitude; p so informa decisao binaria |
+| **Significância Estatística** | **Relevância Clínica** | O **Cálculo** disse que é real vs O **Paciente** sente o benefício |
+| **Erro Tipo I (α)** | **Erro Tipo II (β)** | **Falso Positivo** vs **Falso Negativo** |
+| **Poder (1-β)** | **Amostra (n)** | **Capacidade** de ver vs **Ferramenta** para ver |
+| **H0 (Nula)** | **H1 (Alternativa)** | **Igualdade** vs **Diferença** |
+| **Bilateral (2-caudas)** | **Unilateral (1-cauda)**| Testa se muda para **Mais ou Menos** vs Testa apenas **Uma direção** |
 
 ### Frase-âncora para não esquecer
 
-> "O valor-p diz quao improvavel sao os dados SE nao ha efeito. Nao diz a probabilidade de o efeito ser real."
+> "H0 é o ceticismo, o p-valor é o cinismo. Abaixo de 5% a nula se desfaz, acima disso a dúvida é tenaz. O erro I é o falso alarme, o erro II é o sono que desarme. Se o IC o nulo cruzar, não há motivo para comemorar. O poder nasce do n, e a clínica decide se o resultado convém."

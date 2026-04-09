@@ -1,154 +1,95 @@
-# Nível de Consciência e Nervos Cranianos
+# SEMIO4 — Aula 3: Nível de Consciência e Nervos Cranianos — O Alerta Vermelho
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 4 | **Aula:** semio4_a3
+Avaliar a consciência e os nervos cranianos é o primeiro passo para salvar a vida de um paciente neurológico grave. Na prova, os temas centrais são a **Escala de Coma de Glasgow (ECG)**, o exame das **Pupilas** e a diferenciação clínica dos 12 pares de **Nervos Cranianos**.
+
+Na prática, a Escala de Glasgow é a linguagem universal das emergências. Se você diz "Glasgow 15", todos sabem que o paciente está bem; se diz "**Glasgow 8**", a equipe já prepara o tubo para entubação. Saber examinar os nervos cranianos permite que você identifique se o cérebro está sofrendo uma pressão fatal antes mesmo de o paciente chegar à tomografia.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Avaliar o nível de consciência e os nervos cranianos é o primeiro passo do exame neurológico focado em urgência. A Escala de Coma de Glasgow (ECG) define tratamento, transferência e prognóstico em minutos. Um NC alterado pode ser o único sinal de lesão de tronco — herniação, aneurisma, esclerose. A Uninove explora esse tema com vinhetas de OSCE e questões sobre qual NC avalia qual função.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO4-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Glasgow.
+- **O que mostrar:** O "Cartão de Bolso do Glasgow": Uma tabela visual compacta da **ECG-P** (incluindo a reatividade pupilar). Destacar os marcos: **3 a 8** (Grave), **9 a 12** (Moderado), **13 a 15** (Leve). Usar ícones para Ocular (olho), Verbal (boca) e Motora (braço).
+- **Tipo sugerido:** Infográfico de consulta rápida.
+- **Legenda (rascunho):** Escala de Coma de Glasgow atualizada e classificação de gravidade.
 
+## 1. Escala de Coma de Glasgow (ECG)
 
-
-
----
-
-## Escala de Coma de Glasgow
-
-A ECG foi criada em 1974 para padronizar a avaliação de consciência em TCE. Ela soma três domínios independentes: **abertura ocular** (1–4), **resposta verbal** (1–5) e **resposta motora** (1–6). A pontuação mínima é 3 (coma profundo) e a máxima é 15 (normal).
-
-| Domínio | 1 | 2 | 3 | 4 | 5 | 6 |
-|---------|---|---|---|---|---|---|
-| Abertura ocular | Nenhuma | A dor | A voz | Espontânea | — | — |
-| Verbal | Nenhuma | Sons | Palavras | Confuso | Orientado | — |
-| Motora | Nenhuma | Extensão | Flexão anormal | Flexão normal | Localiza dor | Obedece |
-
-> **Dica:** A motora tem **6** pontos (decora: M6 = obedece). Verbal tem 5 (V5 = orientado). Na prova, "flexão anormal" (decorticação) vale 3, não 2.
-
-TCE leve: ECG 14–15. Moderado: 9–13. Grave: ≤8 (intubar!). O componente motor é o mais preditivo de prognóstico isolado.
+A escala avalia a "profundidade" do coma através de três respostas:
+- **Abertura Ocular (até 4 pontos):** Espontânea (4), à voz (3), à dor (2), nenhuma (1).
+- **Resposta Verbal (até 5 pontos):** Orientado (5), confuso (4), palavras soltas (3), sons (2), nenhuma (1).
+- **Resposta Motora (até 6 pontos):** Obedece comandos (6), localiza a dor (5), flexão normal (4), **Flexão Anormal/Decorticação** (3), **Extensão/Descerebração** (2), nenhuma (1).
+- **Glasgow ≤ 8:** É a definição técnica de coma e indicação clássica de proteção de via aérea (entubação).
 
 ---
 
-## Avaliação do Nível de Consciência além da ECG
+## 2. As Pupilas: A Janela do Tronco
 
-Antes da ECG, identifique o **nível de consciência** em termos qualitativos:
-
-- **Alerta:** responde a estímulos normais de voz.
-- **Sonolento (letárgico):** abre os olhos ao ser chamado, responde mas adormece logo.
-- **Estupor:** só responde a estímulos vigorosos; sem estímulo fica inconsciente.
-- **Coma:** sem resposta a qualquer estímulo.
-
-O **Pupilometer** e o **reflexo pupilar** são fundamentais para localização de lesão: pupila midriática unilateral com ptose = NC III comprimido (herniação uncal). Pupilas puntiformes bilaterais = lesão pontina ou opioides.
+As pupilas dizem muito sobre a gravidade da lesão:
+- **Isocóricas:** Normais e iguais.
+- **Anisocoria:** Uma pupila maior que a outra. Se for súbito após um trauma, indica que o **Nervo Oculomotor (NC III)** está sendo esmagado (Herniação).
+- **Midríase:** Pupilas dilatadas (pense em parada cardíaca ou morte cerebral).
+- **Miose Puntiforme:** Pupilas minúsculas, como ponta de agulha (pense em overdose de opioides ou lesão na **Ponte**).
 
 ---
 
-## Os 12 Nervos Cranianos — Tabela Mnemônica
+## 3. Os 12 Pares: Onde testar?
 
-| NC | Nome | Função principal | Como testar |
-|----|------|-----------------|-------------|
-| I | Olfatório | Olfato | Substância aromática cada narina |
-| II | Óptico | Visão | Acuidade, campo visual, fundo |
-| III | Oculomotor | Pupila, elevação pálpebra, 4 MEO | Reflexo fotomotor, MOE, ptose |
-| IV | Troclear | MEO (↓ interno) | Olhar para baixo e interno |
-| V | Trigêmeo | Sensibilidade face + mastigação | Algodão e alfinete V1/V2/V3 |
-| VI | Abducente | Abdução do olho | Desvio lateral do olhar |
-| VII | Facial | Mímica facial + paladar 2/3 ant | Franzir testa, fechar olhos |
-| VIII | Vestibulococlear | Audição + equilíbrio | Rinne, Weber, Romberg |
-| IX | Glossofaríngeo | Paladar 1/3 post + deglutição | Reflexo de vômito, fonação |
-| X | Vago | Vísceras + pálato | Úvula centralizada, rouquidão |
-| XI | Acessório | Trapézio + ECM | Resistência ao ombro e cabeça |
-| XII | Hipoglosso | Língua | Protrusão, lateralidade |
-
-> **Pegadinha:** O **NC IV** é o único que emerge dorsalmente do tronco; lesão causa dificuldade de olhar para baixo na escada. O **NC VI** tem o maior trajeto — vulnerável em HIC (pseudolocalizado).
+Você não precisa decorar tudo, mas precisa saber testar os principais:
+- **NC II (Óptico):** Teste de visão e campo visual.
+- **NC III, IV e VI:** Movimentos dos olhos. Peça para seguir o dedo em formato de "H".
+- **NC VII (Facial):** Peça para sorrir e enrugar a testa. Lembre-se: se a testa não mexe, a paralisia é do nervo (**Periférica**); se mexe, é do cérebro (**Central/AVC**).
+- **NC X (Vago) e IX:** Peça para abrir a boca e dizer "Aaa". A úvula deve subir reta. Se entortar, há lesão.
 
 ---
 
-## Reflexo Pupilar — Vias e Implicações
+## 4. Reflexos do Tronco
 
-O reflexo fotomotor direto e consensual é mediado pela via aferente (NC II → mesencéfalo) e eferente (NC III → esfíncter pupilar). A dissociação luz-acomodação (pupila reage à acomodação mas não à luz) indica lesão pretectal = sífilis terciária ou síndrome de Parinaud.
-
-Anisocoria com ptose e enoftalmia = síndrome de Horner (interrupção do simpático cervical — verificar tumor de Pancoast). Anisocoria + ptose + desvio "para baixo e fora" do olho = NC III comprimido por aneurisma de comunicante posterior.
-
----
-
-## Movimentos Extraoculares
-
-NC III, IV e VI controlam seis músculos extraoculares. O teste é feito pedindo ao paciente para seguir o dedo em "H". A diplopia revela qual músculo está parético. Na síndrome do nó sinusal: paralisia do olhar conjugado horizontal (lesão da ponte).
-
-> **Dica:** Na oftalmoplegia internuclear (OIN) — lesão fascículo longitudinal medial — o olho ipsilateral não aduz; nistagmo no abduzente. Clássico de esclerose múltipla.
-
----
-
-## Avaliação da Deglutição e Fonação (NC IX e X)
-
-Peça ao paciente para falar "aaa" — observe a úvula: deve subir e permanecer central. Desvio para o lado sano = lesão do vago ipsilateral. Rouquidão + disfagia = lesão bilateral do vago. Reflexo de vômito avalia IX (aferente) e X (eferente) — ausência bilateral = lesão grave de tronco.
-
----
-
-## Integrando ECG + NC no Exame Neurológico de Urgência
-
-**Algoritmo prático:** 1) ECG → define urgência; 2) Pupilas → localiza (mesencéfalo vs. ponte vs. periférico); 3) MOE → tronco vs. nervo periférico; 4) Pares bulbares (IX, X, XII) → lesão de tronco ou SNP; 5) Assimetria facial (VII) → AVC cortical vs. periférico.
-
-Na paralisia de Bell (VII periférico), há comprometimento de TODA hemiface incluindo testa. No AVC (VII central), a testa é poupada — fibras corticais bilaterais para a fronte.
-
----
-
-## Mini-Caso Clínico
-
-Homem 68 anos, HAS, encontrado inconsciente. ECG = 7 (O:2, V:2, M:3). Pupila direita midriática, sem reação. MOE: olho direito "para baixo e fora". PA: 200×110 mmHg.
-
-ECG 7 → TCE grave → intubar. Pupila midriática + olho para baixo e fora → NC III comprimido → herniação uncal → TC urgente. Este quadro é uma emergência neurocirúrgica.
-
----
-
-## Pontos-Chave
-
-- ECG 3–15: motor (6), verbal (5), ocular (4). ECG ≤8 = coma grave → intubação.
-- Pupilas puntiformes bilaterais = opioides ou lesão pontina.
-- NC III: pupila, pálpebra e 4 MEO. Lesão = midríase + ptose + olho "para baixo e fora".
-- NC VI tem maior trajeto: lesão em HIC = pseudolocalização.
-- Paralisia facial central: testa preservada. Periférica (Bell): testa comprometida.
-- OIN: olho ipsilateral não aduz → lesão FLM → EM.
-- Disociação luz-acomodação → sífilis ou Parinaud.
+Em pacientes inconscientes, testamos os reflexos automáticos:
+- **Reflexo Fotomotor:** Luz no olho faz a pupila fechar.
+- **Reflexo de Tosse/Vômito:** Tocar a garganta com uma espátula ou aspirar a traqueia. Se o paciente não reage, o tronco encefálico (que manda na vida) está muito comprometido.
 
 ---
 
 ## Ponte com a Clínica
 
-Essas habilidades são essenciais em plantão: um ECG de 14 pode cair para 8 em minutos. O médico que sabe avaliar pupilas e MOE rapidamente localiza a lesão antes da TC. Em medicina de emergência, o exame neurológico é o exame de imagem de baixo custo e imediato.
+No seu plantão, se chegar um paciente que sofreu um acidente e o Glasgow dele caiu de 14 para 9 em frente aos seus olhos, isso é uma **Hemorragia** em expansão. Se além disso a pupila direita ficar maior que a esquerda, você sabe com 100% de certeza que o sangue está empurrando o cérebro para baixo do lado direito. Não espere a tomografia para chamar o neurocirurgião; esse paciente precisa de alívio da pressão imediatamente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Glasgow 8**: Marco clínico para intubação orotraqueal em pacientes com rebaixamento de consciência.
+- **Extensão (M2)**: Pior prognóstico que a flexão anormal (M3), indicando lesão em nível mais baixo do tronco.
+- **Herniação Uncal**: Causa clássica de anisocoria por compressão do **NC III** ipsilateral.
+- **Paralisia de Bell**: Paralisia facial periférica que atinge obrigatoriamente a **Testa**.
+- **Reflexo Fotomotor Consensual**: Quando você ilumina um olho e o outro também fecha a pupila; testa os nervos II e III.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **ECG ≤8:** indica coma grave, necessidade de via aérea definitiva.
-- **Motor M6 = obedece, M3 = flexão anormal (decorticação), M2 = extensão (descerebração).**
-- **NC III comprimido:** midríase ipsilateral + ptose + olho para baixo e fora (herniação uncal).
-- **NC VI pseudolocalizado:** lesão em HIC por tracção do nervo, NÃO indica lesão local.
-- **Paralisia facial periférica vs central:** periférica compromete testa; central preserva.
-- **OIN (fascículo longitudinal medial):** adulcente ativo, adutor ipsilateral parético + nistagmo → EM.
+
+Para gabaritar consciência e nervos, decore os números do Glasgow e os nomes dos nervos motores do olho. 
+**ECG 8** = Tubo. **Extensão** é pior que Flexão. **Pupila grande** no trauma é sinal de que o cérebro está descendo (Herniação).
+
+A Uninove adora o **Nervo Facial (VII)**. Lembre-se: Testa lisa = Nervo (Bell). Testa enrugada = AVC (Central). Outro ponto forte: o **Aparato Ocular**. O **NC III** faz quase tudo; o **VI** só joga o olho pra fora e o **IV** olha pra baixo. Por fim, saiba que na escala de Glasgow nova, se o paciente não tem um membro, você anota o melhor lado possível.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Situação A | Situação B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| NC III comprimido (aneurisma) | Síndrome de Horner | III = midríase; Horner = miose |
-| Paralisia facial central | Paralisia facial periférica | Central preserva testa; periférica não |
-| Lesão pontina | Intoxicação por opioide | Ambas causam miose bilateral |
-| OIN | Paralisia do NC VI | OIN: abdução OK mas adução falha |
+| **Glasgow 3** | **Glasgow 15** | **Coma Profundo** (mínimo) vs **Alerta Total** (máximo) |
+| **Descerebração (M2)** | **Decorticação (M3)** | **Extensão** (Pior) vs **Flexão Anormal** |
+| **NC III Lesão** | **Nervo Óptico (II)** | Problema no **Motor/Pupila** vs Problema na **Visão** |
+| **Anisocoria** | **Midríase Bilateral** | Lesão **Focal/Localizada** vs Lesão **Global/Morte** |
+| **Afasia de Broca** | **Disartria** | **Não consegue falar** vs **Consegue falar, mas enrolado** |
 
 ### Frase-âncora para não esquecer
-> "O III abre tudo (pupila, pálpebra, olho) — quando comprimido, fecha tudo num sinal de herniação."
+
+> "8 ou menos, o tubo é o caminho. Extensão é treva, flexão é vizinho. O III abre o olho e fecha a pupila; se ele parar, a herniação desfila. Testa lisa é Bell, testa rugosa é AVC cruel."

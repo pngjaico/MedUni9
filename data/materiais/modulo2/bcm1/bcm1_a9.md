@@ -1,175 +1,91 @@
-﻿# Necrose vs Apoptose
+# BCM1 — Aula 9: Necrose vs Apoptose
 
-## Relevância Clínica e Acadêmica
+As células morrem de duas maneiras: ou por um acidente trágico ou por um suicídio planejado. Na prova, o tema central é a diferença entre a **Necrose** (morte barulhenta com inflamação) e a **Apoptose** (morte silenciosa e programada), além de saber identificar os tipos de necrose em doenças como a **Tuberculose** ou o **Infarto**.
 
-A morte celular programada e a morte celular patológica são fenômenos opostos em mecanismo, morfologia e consequência para o organismo. Compreender a diferença entre necrose e apoptose é fundamental para entender por que um infarto do miocárdio provoca inflamação intensa enquanto a renovação do epitélio intestinal ocorre silenciosamente todos os dias. Esse tema é recorrente nas provas da **Uninove** e serve de base para toda a fisiopatologia dos módulos seguintes.
+Na prática, quando você pede um exame de **Troponina** para um paciente com dor no peito, você está procurando por sinais de necrose no coração.
 
-Na prática clínica, a distinção entre os dois processos informa decisões terapêuticas. O valor de troponina elevado na síndrome coronariana aguda indica **necrose** de cardiomiócitos. A ativação de caspases é o alvo de drogas antineoplásicas que forçam células tumorais a entrar em **apoptose**. Saber identificar o padrão histológico de cada processo — e por que ele ocorre — é o que a banca espera que o aluno saiba fazer.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de comparação direta.
+- **O que mostrar:** O "Duelo da Morte": De um lado a Necrose (Célula inchada, estourando e chamando os neutrófilos/inflamação). Do outro a Apoptose (Célula encolhendo, se quebrando em pedaços organizados e sendo comida por macrófagos sem fazer barulho).
+- **Tipo sugerido:** Infográfico comparativo.
+- **Legenda (rascunho):** Necrose vs Apoptose: a diferença entre o caos e a ordem.
 
+## 1. Necrose: A Morte Acidental
 
-
-
----
-
-
-
-## Necrose: Morte Celular Não Programada
-
-A necrose ocorre quando a célula é exposta a um dano intenso e súbito — isquemia, toxinas, trauma, infecção — que ultrapassa sua capacidade de manutenção da homeostase. O evento central é a falência das bombas iônicas dependentes de ATP, especialmente a Na⁺/K⁺-ATPase. Sem energia, o sódio se acumula no citoplasma e água entra por osmose, causando **tumefação celular** (edema celular). A dissolução das membranas libera o conteúdo intracelular no interstício, disparando resposta inflamatória vigorosa com neutrófilos, edema e dor.
-
-### Tipos de Necrose
-
-| Tipo | Mecanismo/Exemplo | Aspecto Macro |
-|------|-------------------|---------------|
-| **Coagulativa** | Isquemia (exceto SNC); proteínas desnaturadas preservam o contorno | Área pálida, firme, "sombra fantasma" |
-| **Liquefativa** | Abscesso bacteriano; SNC isquêmico (enzimas líticas dominam) | Cavidade com material purulento ou liquefeito |
-| **Caseosa** | Tuberculose; granuloma com centro necrótico "queijo fresco" | Área esbranquiçada, pastosa |
-| **Gordurosa** | Pancreatite aguda (lipases liberam ácidos graxos → saponificação) | Manchas branco-giz no pâncreas/peritônio |
-| **Gangrenosa** | Isquemia + bactérias (úmida) ou seca (sem infecção) | Tecido escurecido, odor fétido |
-| **Fibrinoide** | Vasculite, pré-eclâmpsia; imunocomplexos na parede vascular | Parede vascular espessada, rósea intensa |
-
-> **Dica Uninove:** A necrose caseosa é patognomônica de tuberculose. Se a questão falar em "centro necrótico granulomatoso com aspecto de queijo fresco", é TB até prova em contrário.
+Ocorre quando a célula sofre um dano súbito (falta de oxigênio, veneno, trauma).
+- **Processo:** A célula incha, a membrana estoura e o conteúdo vaza. 
+- **Consequência:** Sempre causa **Inflamação** (dor, vermelhidão, pus).
+- **Tipos que caem na prova:**
+  - **Coagulativa:** Típica do **Infarto** (exceto no cérebro). A célula morre mas mantém o formato por um tempo.
+  - **Liquefativa:** Comum em infecções com **Pus** (abscessos) ou no **AVC** (infarto cerebral).
+  - **Caseosa:** Exclusiva da **Tuberculose**. Parece "queijo fresco" a olho nu.
+  - **Gordurosa:** Acontece na **Pancreatite**. O pâncreas "se digere" e vira manchas brancas de sabão.
 
 ---
 
-## Apoptose: Morte Celular Programada
+## 2. Apoptose: O Suicídio Programado
 
-A apoptose é um processo ativo, geneticamente controlado, que elimina células individualmente sem desencadear inflamação. A célula "se suicida" de forma ordenada: condensa a cromatina, fragmenta o DNA em múltiplos de ~200 pb (escala de DNA), retrai o citoplasma e forma **corpos apoptóticos** envoltos por membrana. Macrófagos fagocitam esses corpos antes que o conteúdo seja liberado — por isso não há neutrófilos nem dor.
-
-### Vias da Apoptose
-
-**Via Extrínseca (receptor de morte):**
-Ligantes como FasL ou TNF-α se ligam a receptores de morte (Fas/CD95, TNFR1) na superfície celular. Isso recruta proteínas adaptadoras (FADD) e ativa **caspase-8** (caspase iniciadora). A caspase-8 ativa caspases efetoras (caspase-3, -6, -7) que executam a morte celular. Utilizada na eliminação de linfócitos autorreativos e células infectadas por vírus.
-
-**Via Intrínseca (mitocondrial):**
-Estímulos como radiação, quimioterápicos, falta de fatores de crescimento ou dano ao DNA ativam proteínas pró-apoptóticas da família Bcl-2 (Bax, Bak, Bad, Bid). Essas proteínas abrem poros na membrana mitocondrial externa, liberando **citocromo c** para o citosol. O citocromo c forma o **apoptossomo** com Apaf-1 e pró-caspase-9, ativando **caspase-9** e depois caspase-3.
-
-> **Pegadinha:** BCL-2 *anti*apoptótico — superexpresso no linfoma folicular (t(14;18)). BCL-2 *bloqueia* Bax/Bak. Bax/Bak *promovem* apoptose. Muita gente confunde a família inteira.
-
-### Regulação: Família Bcl-2
-
-| Proteína | Função | Gene/Localização |
-|----------|--------|-----------------|
-| BCL-2, BCL-XL, MCL-1 | Anti-apoptótico; inibe Bax/Bak | Membrana mitocondrial externa |
-| BAX, BAK | Pró-apoptótico; forma poros na mitocôndria | Citosol/mitocôndria |
-| BH3-only (Bad, Bid, Bim, Puma, Noxa) | Pró-apoptótico; neutraliza BCL-2 | Regulados por p53, privação de crescimento |
-
-### Caspases: Iniciadoras e Efetoras
-
-| Grupo | Caspases | Função |
-|-------|----------|--------|
-| Iniciadoras | 8 (extrínseca), 9 (intrínseca) | Clivam e ativam efetoras |
-| Efetoras | 3, 6, 7 | Clivam substratos: PARP, lamininas, citoesqueleto |
-
-> **Dica:** Inibidores de caspases (IAP — inhibitors of apoptosis proteins) são superexpressos em cânceres resistentes a quimioterapia. A droga venetoclax inibe BCL-2 e restaura a apoptose em leucemia linfocítica crônica (LLC).
+A célula decide morrer para o bem do corpo (Ex: dedos do bebê se separando no útero).
+- **Processo:** A célula murcha, o DNA é cortado em pedaços organizados e a membrana fica **intacta** até o fim.
+- **Consequência:** **Não causa inflamação**. O lixo é recolhido discretamente.
+- **Vias de Ativação:**
+  - **Via Intrínseca (Mitocôndria):** A célula percebe o erro interno e libera **Citocromo C**.
+  - **Via Extrínseca:** A célula recebe uma ordem de morte externa (Fas-L).
+  - **Executores:** As enzimas chamadas **Caspases** são as "carrascas" que fazem o serviço.
 
 ---
 
-## Apoptose Fisiológica vs Patológica
+## 3. O Equilíbrio do Câncer
 
-**Fisiológica:**
-- Eliminação de células T autorreativas no timo (tolerância central)
-- Involução endometrial na menstruação
-- Formação de dedos no embrião (apoptose interdigital)
-- Eliminação de neutrófilos envelhecidos
-
-**Patológica (apoptose excessiva):**
-- Doenças neurodegenerativas (Alzheimer, Parkinson — perda neuronal)
-- Hepatite viral (corpos de Councilman no fígado)
-- Rejeição de transplante
-
-**Patológica (apoptose insuficiente):**
-- Câncer — células tumorais escapam da morte programada
-- Doenças autoimunes — linfócitos autorreativos sobrevivem
-
----
-
-## Comparação Direta: Necrose × Apoptose
-
-| Característica | Necrose | Apoptose |
-|---------------|---------|----------|
-| Origem | Acidental/patológica | Programada/fisiológica |
-| Células afetadas | Grupos de células | Células individuais |
-| Morfologia | Tumefação, ruptura de membrana | Retração, condensação da cromatina |
-| Fragmentação do DNA | Aleatória (smear) | Escada de nucleossomo (~200 pb) |
-| Membrana plasmática | Rompida precocemente | Intacta até corpos apoptóticos |
-| Inflamação | Sempre presente | Ausente |
-| Energia (ATP) | Desnecessária (passivo) | Necessária (ativo) |
-| Mecanismo central | Falência de Na⁺/K⁺-ATPase | Ativação de caspases |
-| Marcador histológico | "Sombra fantasma" (coagulativa) | Corpo apoptótico redondo/basofílico |
-
----
-
-## Pontos-Chave
-
-- **Necrose** = morte passiva, não programada, ATP-independente, SEMPRE gera inflamação
-- **Apoptose** = morte ativa, programada, ATP-dependente, NÃO gera inflamação
-- **Necrose coagulativa** é o padrão da isquemia; a **liquefativa** ocorre em abscessos e no SNC
-- **Necrose caseosa** = tuberculose (granuloma caseoso)
-- **Via extrínseca:** FasL → Fas → FADD → caspase-8 → caspase-3
-- **Via intrínseca:** dano → Bax/Bak → poros → citocromo c → apoptossomo → caspase-9 → caspase-3
-- **BCL-2** = anti-apoptótico; superexpresso no linfoma folicular t(14;18)
-- A escada de DNA ("DNA ladder") em gel de eletroforese é diagnóstica de apoptose
-- Venetoclax (inibidor de BCL-2) → induz apoptose em LLC/LMC
-- Corpos de councilman no fígado = hepatite viral (apoptose de hepatócitos)
+O câncer é mestre em evitar a apoptose. 
+- **BCL-2:** É uma proteína que diz "não morra". Muitos tumores fabricam BCL-2 demais para nunca entrarem em apoptose, mesmo quando levam pancada da quimioterapia. 
+- **Uso Clínico:** Drogas modernas (como o Venetoclax) bloqueiam o BCL-2 para forçar o câncer a finalmente morrer por apoptose.
 
 ---
 
 ## Ponte com a Clínica
 
-**Infarto do Miocárdio:** oclusão coronariana → isquemia → necrose coagulativa → liberação de troponina, CK-MB → inflamação → leucocitose, febre, dor. O marcador bioquímico de necrose miocárdica é a **troponina I ou T** (elevação em 3–6h, pico em 24h, retorno em 10–14 dias).
+Quando um paciente tem um **Infarto do Miocárdio**, as células do coração morrem por **Necrose Coagulativa**. Como a membrana delas estoura, as proteínas lá de dentro (como a **Troponina**) caem no sangue. O médico mede essa troponina no laboratório: se ela estiver alta, confirmamos que o coração está sofrendo morte celular. O corpo responde a essa necrose mandando glóbulos brancos, o que pode causar febre baixa no paciente nos primeiros dias após o infarto.
 
-**Tuberculose:** M. tuberculosis induz granuloma com necrose caseosa central. A banca adora pedir o tipo de necrose da TB e compará-la com abscesso bacteriano (liquefativa).
+---
 
-**Venetoclax na LLC:** células de LLC superexpressam BCL-2. Venetoclax (ABT-199) bloqueia BCL-2, libera Bax/Bak, e induz apoptose seletiva das células tumorais — exemplo de terapia-alvo baseada na via intrínseca.
+## Pontos-Chave para Prova
 
-**Pancreatite aguda:** lipases pancreáticas clivam triglicerídeos → ácidos graxos livres + cálcio → saponificação → necrose gordurosa (manchas branco-giz no peritônio e mesentério).
+- **Necrose**: Incha, estoura, **Inflama**.
+- **Apoptose**: Murcha, fragmenta, **Não inflama**.
+- **Caseosa**: Tuberculose (Lembre do queijo).
+- **Caspases**: As carrascas da apoptose.
+- **Citocromo C**: O sinal de morte que vem da mitocôndria.
+- **Espectro de DNA**: Na apoptose, o DNA cortadinho parece uma "escada" nos exames.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Morte Celular, foque na inflamação. 
+A Uninove adora comparar os dois processos. Se a questão falar em "tumefação" (inchaço) e "ruptura de membrana", a resposta é **Necrose**. Se falar em "corpos apoptóticos" e "fagocitose silenciosa", é **Apoptose**. Decore que o AVC é a exceção do infarto: no cérebro a necrose é **Liquefativa**, em todo o resto é **Coagulativa**.
 
-Necrose: passiva, grupos celulares, inflamação sempre presente, membrana rompe cedo. Apoptose: ativa (gasta ATP), célula única, SEM inflamação, membrana intacta até o final. Via extrínseca: FasL → caspase-8 iniciadora.
-
-Via intrínseca: dano → citocromo c → caspase-9 iniciadora. Caspase efetora: caspase-3 (ambas as vias convergem aqui). BCL-2: anti-apoptótico; linfoma folicular t(14;18) → superexpressão de BCL-2.
-
-Necrose caseosa: TB — granuloma com centro "queijo fresco". Necrose coagulativa: isquemia (exceto SNC) — "sombra fantasma" ao microscópio. Necrose liquefativa: abscesso bacteriano E isquemia do SNC.
-
-DNA ladder: fragmentação em múltiplos de 200 pb = diagnóstico de apoptose. Troponina: marcador de necrose miocárdica. Venetoclax: inibe BCL-2 → apoptose em LLC.
+Sobre as caspases, lembre-se: a **8** começa a via externa e a **9** começa a via interna mitocondrial. Mas as duas terminam na **Caspase 3**, que é a executora final. E nunca esqueça: **BCL-2** é o protetor da célula (anti-apoptótico). Se houver muito BCL-2, a célula não morre, o que é péssimo se essa célula for um Linfoma.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Necrose coagulativa | Necrose liquefativa | Coagulativa = isquemia geral, contorno preservado; liquefativa = abscesso + SNC isquêmico |
-| Necrose caseosa | Necrose coagulativa | Caseosa = TB, granuloma, centro "queijo"; coagulativa = qualquer isquemia sem granuloma |
-| Apoptose fisiológica | Apoptose patológica | Fisiológica = timo, menstruação, embrião; patológica = hepatite (Councilman), neurodegeneração |
-| BCL-2 (anti) | BAX (pró) | BCL-2 bloqueia BAX/BAK; BAX abre poros mitocondriais; BCL-2 alto = tumor resistente |
-| Caspase-8 | Caspase-9 | Caspase-8 = via extrínseca (receptor de morte); Caspase-9 = via intrínseca (mitocôndria) |
+| **Necrose** | **Apoptose** | Caos e Inflamação vs **Ordem e Silêncio** |
+| **Coagulativa** | **Liquefativa** | Preserva o contorno (Coração) vs **Vira líquido/pus (Cérebro/Abscesso)** |
+| **Via Intrínseca** | **Via Extrínseca** | Mitocôndria (Caspase 9) vs **Receptor de Morte (Caspase 8)** |
+| **BAX / BAK** | **BCL-2** | Pró-morte (furam a mitocôndria) vs **Anti-morte (bloqueiam o furo)** |
+| **Troponina** | **Caspsase 3** | Marcador de Necrose vs **Marcador de Apoptose** |
 
 ### Frase-âncora para não esquecer
 
-> "Na NEcrose a célula INfla e INflama tudo ao redor; na Apoptose ela se apoSenta silenciosamente em corpinhos arrumados — sem chamar a guarda (inflamação)."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.
+> "Necrose é explosão, inchaço e inflamação; apoptose é retração, limpeza e discrição. O queijo é da caseosa e o líquido é do pulmão ou do cabeção."

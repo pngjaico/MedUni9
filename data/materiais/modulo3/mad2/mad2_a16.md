@@ -1,118 +1,95 @@
 # MAD2 — Aula 16: Antibióticos — Inibidores de Síntese de Parede
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+Os inibidores da síntese de parede celular são a "supercola" que falha na mão das bactérias. Na prova, os temas centrais são os **Beta-lactâmicos** (Penicilinas, Cefalosporinas, Carbapenêmicos) e os **Glicopeptídeos** (Vancomicina), focando em seus espectros de ação e nos mecanismos de resistência.
+
+Na prática, esses são os antibióticos mais usados na medicina, e o médico deve saber qual geração de cefalosporina escolher para cobrir desde uma simples dor de garganta até uma meningite bacteriana grave.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Antibióticos de parede são cobrados por espectro, mecanismo e resistência bacteriana. Questões clássicas pedem escolha inicial e ajuste.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo **fisiopatológico**, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A16-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo de ação.
+- **O que mostrar:** A "Explosão Bacteriana": Um desenho da parede celular bacteriana sendo construída. O antibiótico chegando e bloqueando as **PBPs** (as proteínas que fazem a liga da parede). O resultado é a água entrando na bactéria até ela estourar (**Lise Osmótica**).
+- **Tipo sugerido:** Infográfico didático | Esquema molecular simplificado.
+- **Legenda (rascunho):** Mecanismo de ação dos beta-lactâmicos sobre a parede celular bacteriana.
 
-## Conceito Central
+## 1. Beta-Lactâmicos: A Família Real
 
-Inibição da parede bacteriana compromete viabilidade celular, especialmente em fase de replicação ativa.
+Eles agem impedindo a formação da parede de peptideoglicano da bactéria.
+- **Penicilinas:** A **Penicilina G** é a droga de escolha para Sífilis. A **Amoxicilina** é o padrão para sinusites e otites.
+- **Cefalosporinas:** São divididas em gerações para facilitar o estudo:
+    - **1ª Geração (Cefalexina):** Foco em **Gram-positivos** (coisas da pele).
+    - **2ª Geração (Cefuroxima):** Começa a pegar alguns Gram-negativos.
+    - **3ª Geração (Ceftriaxona):** Excelente para **Meningite** e Pneumonia (atravessa a barreira do cérebro).
+    - **4ª Geração (Cefepime):** "Antipseudomonas", usada em infecções hospitalares graves.
+- **Carbapenêmicos (Meropenem):** O "coringa" do hospital para bactérias multirresistentes.
 
-## Eixo 1
+---
 
-Beta-lactâmicos: alvo em proteínas ligadoras de penicilina.
+## 2. Inibidores de Beta-Lactamase: Os Guarda-Costas
 
-## Eixo 2
+Algumas bactérias produzem uma enzima (tesoura) chamada **Beta-lactamase** que corta o antibiótico antes de ele agir.
+- **A Solução:** Misturamos o antibiótico com um "guarda-costas" que trava a tesoura da bactéria.
+- **Exemplo:** Amoxicilina + **Clavulanato** ou Piperacilina + **Tazobactam**. Isso devolve o poder ao antibiótico contra bactérias resistentes.
 
-Glicopeptídeos: atuação em parede de Gram-positivos selecionados.
+---
 
-## Eixo 3
+## 3. Glicopeptídeos: A Artilharia Pesada (Vancomicina)
 
-Resistência: beta-lactamase, alteração de alvo e barreira de permeabilidade.
+Eles agem em um lugar diferente da parede, sendo muito potentes.
+- **Espectro:** Só funcionam para **Gram-positivos**. São a droga de escolha para tratar o temido **MRSA** (Estafilococo resistente à penicilina/oxacilina).
+- **Atenção:** Se aplicar Vancomicina muito rápido na veia, o paciente pode ficar todo vermelho (**Síndrome do Homem Vermelho**). Não é alergia, é liberação de histamina! Basta correr o soro mais devagar.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Infecção por pneumococo sensível | Inibição de síntese de parede | Boa resposta em replicação ativa |
-| MRSA suspeito | Necessidade de cobertura específica | Ajustar classe conforme risco |
-| Falha terapêutica precoce | Resistência bacteriana | Reavaliar microbiologia e esquema |
+## 4. Resistência Bacteriana: O Contra-Ataque
 
-## Checklist de Raciocínio
+As bactérias aprendem a se defender de três formas principais:
+1.  **Mudança do Alvo (PBP):** A bactéria muda a "fechadura" onde o antibiótico se ligava. É o que o **MRSA** faz.
+2.  **Produção de Enzimas:** A já citada beta-lactamase (tesoura).
+3.  **Bombas de Efluxo:** A bactéria "cospe" o antibiótico para fora assim que ele entra.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-No uso prático, antibiótico eficaz depende de alvo correto, dose adequada e revisão com cultura sempre que possível.
+No dia a dia, o uso indiscriminado de antibióticos de parede (como Ceftriaxona para qualquer gripe) está destruindo nossa capacidade de tratar infecções. O médico deve sempre praticar o **Descalonamento**: se o resultado da cultura chegou e mostra que a bactéria é sensível a uma penicilina simples, tire o Meropenem ou a Vancomicina e use o remédio mais simples. Isso salva a vida dos próximos pacientes e economiza recursos do hospital.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **PBPs (Proteínas Ligadoras de Penicilina)**: Alvo molecular dos beta-lactâmicos.
+- **Ceftriaxona (3ª Ger)**: Antibiótico de escolha para meningites por atravessar bem a barreira hematoencefálica.
+- **Clavulanato**: Inibidor de beta-lactamase; amplia o espectro da amoxicilina.
+- **Vancomicina**: Indicada para **Gram-positivos resistentes** (MRSA e Enterococos).
+- **Lise Osmótica**: Resultado final da inibição da síntese de parede celular.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Antibióticos de Parede, foque nas gerações. 
+**Pele/Cefalexina** = 1ª Geração. **Pulmão/Meningite/Ceftriaxona** = 3ª Geração. **Pseudomonas/Cefepime** = 4ª Geração. Se o paciente tem uma infecção hospitalar por estafilococo que não morre com nada, a resposta é **Vancomicina**. Lembre-se: beta-lactâmicos matam a maioria, mas se houver resistência por beta-lactamase, você precisa associar o Clavulanato ou usar Carbapenêmicos.
 
-Síndrome dominante: define direção da hipótese principal. Mecanismo-chave: explica sinais e exames mais relevantes.
-
-Diferencial crítico: separa alternativas muito parecidas. Marcador de gravidade: muda urgência e nível de cuidado.
-
-Conduta inicial: precisa ser segura e justificável.
+A Uninove adora o **Meropenem**. Saiba que ele é o "porto seguro" para bactérias Gram-negativas que produzem ESBL (super tesouras). Outro ponto forte: o **Aztreonam** é o único beta-lactâmico que pode ser usado em pacientes com alergia grave à penicilina, pois ele não tem a mesma estrutura de cruzamento. Por fim, saiba que os glicopeptídeos (Vanco) não pegam Gram-negativos porque a molécula é grande demais para passar pelos "buracos" (porinas) da parede deles.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Penicilina G** | **Oxacilina** | Trata Sífilis/Garganta vs **Trata Estafilococo de pele** |
+| **Ceftriaxona (3ª)** | **Cefalexina (1ª)** | Ótimo p/ Gram-negativos (Interno) vs Ótimo p/ Gram-positivos (Externo) |
+| **Bactericida** | **Bacteriostático** | Mata a bactéria (Parede) vs Apenas impede o crescimento |
+| **Beta-lactamase** | **Mudança da PBP** | Tesoura que corta o remédio vs Mudança da fechadura (MRSA) |
+| **Vancomicina** | **Penicilinas** | Só Gram-positivos graves vs Espectro mais amplo |
 
 ### Frase-âncora para não esquecer
 
-> "Antibiótico de parede funciona melhor quando alvo, dose e tempo estão alinhados."
-
-## Revisão Expressa em 5 Perguntas
-
-- Qual é o mecanismo fisiopatológico central desta aula?
-- Qual achado diferencia melhor o principal diagnóstico diferencial?
-- Qual sinal de gravidade muda conduta imediatamente?
-- Qual exame tem maior valor para confirmar hipótese principal?
-- Qual erro de prova é mais comum nesse tema?
+> "Beta-lactâmicos quebram o tijolo (PBP) e fazem a bactéria murchar; se a bactéria tem tesoura, o Clavulanato vai travar. Se o bicho é pele e é brabo, a Vancomicina é quem vai comandar. Mas cuidado com o homem vermelho se o soro rápido demais você deixar."

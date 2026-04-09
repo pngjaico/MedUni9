@@ -1,173 +1,84 @@
 # BMF3 — Aula 4: Histologia do Esôfago e Estômago
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A histologia do esôfago e do estômago explica por que sofremos de refluxo ou anemia. Na prova, os temas centrais são a transição de epitélio no **Esôfago de Barrett**, as camadas musculares por **Terços** e a função de cada célula da glândula gástrica — com destaque para as **Parietais** e as **Células G**.
+
+Na prática, saber que a falta de uma célula no estômago pode causar uma anemia grave ou que o fumo muda o tipo de células do esôfago é a base do raciocínio clínico em gastroenterologia.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A histologia do esôfago e estômago fundamenta a compreensão de doenças extremamente prevalentes: refluxo gastroesofágico, esofagite, úlcera péptica e câncer gástrico. Saber identificar as camadas, os tipos celulares e o que cada célula secreta é essencial para interpretar biopsias e compreender a fisiopatologia. **Uninove** cobra sistematicamente a identificação de células gástricas por função e a diferença histológica dos segmentos esofágicos.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A4-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de glândulas gástricas.
+- **O que mostrar:** A "Fábrica de Ácido": Um esquema de uma glândula gástrica mostrando as células coloridas: **Parietais** (grandes e vermelhas), **Principais** (azuladas na base) e **Células G** (no antro). Mostrar o que cada uma produz (HCl, Pepsinogênio, Gastrina).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Tipos celulares da mucosa gástrica e suas funções.
 
+## 1. Histologia do Esôfago: Proteção e Transporte
 
-
-
----
-
-## 1. Histologia do Esôfago
-
-### Epitélio de Revestimento
-
-O esôfago é revestido por **epitélio escamoso estratificado não-queratinizado** — proteção contra o atrito do bolo alimentar. É a característica histológica mais cobrada do esôfago.
-
-- **Lâmina própria:** tecido conjuntivo frouxo com glândulas esofágicas superficiais esparsas (mucosas)
-- **Muscular da mucosa (MM):** camada de músculo liso — mais espessa no esôfago que em outros segmentos
-- **Submucosa:** glândulas esofágicas profundas (mucossecreting), produzem muco lubrificante
-- **Muscular propria:** **variação por terço** — ponto crucial para prova
-
-### Variação da Muscular Própria por Terços
-
-| Terço | Tipo de Músculo | Explicação Fisiológica |
-|-------|----------------|------------------------|
-| Superior (1/3 proximal) | Estriado esquelético | Controle voluntário da deglutição |
-| Médio (1/3 médio) | Misto (estriado + liso) | Zona de transição |
-| Inferior (1/3 distal) | Liso | Peristaltismo involuntário |
-
-> **Mnemônico:** "EVL" — Estriado, misto (V = variado), Liso — de cima para baixo.
-
-### Adventícia vs Serosa
-
-O esôfago **não tem serosa** na maior parte de sua extensão (adventícia fibrosa). Apenas o pequeníssimo segmento abdominal possui serosa — isso explica por que tumores esofágicos se disseminam facilmente pelo mediastino.
+O esôfago precisa ser resistente ao atrito da comida seca.
+- **Epitélio:** Escamoso Estratificado Não-Queratinizado (várias camadas de células achatadas).
+- **Músculo (Importante!):** Ele muda conforme desce. No **1/3 Superior** é estriado (voluntário); no **1/3 Médio** é misto; no **1/3 Inferior** é liso (involuntário).
+- **Adventícia:** O esôfago quase não tem serosa, o que facilita a propagação de câncer para os órgãos vizinhos no tórax.
 
 ---
 
-## 2. Junção Esofagogástrica (JEG) e Metaplasia de Barrett
+## 2. Esôfago de Barrett: A Mudança de Epitélio
 
-### Histologia Normal da JEG
-
-- Transição abrupta: epitélio escamoso → epitélio colunar simples gástrico
-- Essa linha é chamada **linha Z** (ou ora serrata) — visível endoscopicamente como linha irregular avermelhada
-
-### Esôfago de Barrett
-
-Condição adquirida por refluxo gastroesofágico crônico (DRGE):
-- Substituição do epitélio escamoso por **epitélio colunar com células caliciformes** (metaplasia intestinal especializada)
-- Se encontrar células caliciformes no esôfago → **diagnóstico de Barrett**
-- Importância clínica: lesão pré-maligna → risco aumentado de adenocarcinoma esofágico
-
-> **Regra para prova:** Barrett = metaplasia escamoso→colunar com células caliciformes = lesão pré-cancerosa
+O ácido do estômago não deveria subir. Quando sobe cronicamente (**DRGE**), o esôfago tenta se defender mudando de pele.
+- **O que é:** O epitélio escamoso vira **Epitélio Colunar** (igual ao do intestino), com presença de **Células Caliciformes**.
+- **Perigo:** Isso é uma **Metaplasia**. É uma lesão pré-cancerosa que pode virar Adenocarcinoma se não for tratada.
 
 ---
 
-## 3. Histologia do Estômago — Visão Geral
+## 3. As Glândulas do Estômago: Quem faz o quê?
 
-O estômago é dividido em **cárdia, fundo, corpo** e **piloro/antro**. A mucosa gástrica é revestida por **epitélio colunar simples** com invaginações profundas chamadas **fossetas gástricas** (fovéolas).
-
-### Estrutura Geral da Mucosa Gástrica
-
-1. **Epitélio superficial:** células mucosas superficiais — secretam muco neutro insolúvel (proteção)
-2. **Fosseta gástrica (fovéola):** invaginação do epitélio superficial
-3. **Glândulas gástricas:** desembocam nas fossetas — composição varia por região
-4. **Lâmina própria:** tecido conjuntivo entre as glândulas
-5. **Muscular da mucosa:** camada fina de músculo liso
-
----
-
-## 4. Tipos Celulares das Glândulas Gástricas
-
-### Glândulas Fúndicas/Corporais (as mais importantes)
-
-| Célula | Localização na Glândula | Secreção | Função/Importância Clínica |
-|--------|------------------------|----------|---------------------------|
-| **Célula mucosa do colo** | Colo (transição) | Muco solúvel ácido | Renovação celular da mucosa |
-| **Célula parietal (oxíntica)** | Corpo e fundo | HCl + Fator Intrínseco (FI) | HCl ativa pepsinogênio; FI absorve B12 |
-| **Célula principal (zimogênica)** | Base da glândula | Pepsinogênio | Convertido para pepsina pelo HCl |
-| **Célula G** | Antro (pilórica) | Gastrina | Estimula secreção de HCl |
-| **Célula ECL** | Corpo/Fundo | Histamina | Estimula célula parietal via H2 |
-| **Célula D** | Antro/Piloro | Somatostatina | Inibe gastrina e HCl (feedback negativo) |
-
-### Resumo: Quem estimula quem?
-
-```flow
-Refeição → Célula G (antro) → Gastrina → Célula ECL → Histamina → Célula Parietal → HCl
-                                                                ↑
-                                          Sistema nervoso entérico (ACh)
-```
-
----
-
-## 5. Diferenças entre Glândulas Gástricas por Região
-
-| Região | Profundidade das Fossetas | Tipo Glandular | Células Predominantes |
-|--------|--------------------------|----------------|----------------------|
-| **Cárdia** | Rasas | Mucosas simples | Células mucosas (muco neutro) |
-| **Fundo/Corpo** | Moderada profundidade | Fúndicas (oxínticas) | Parietais + Principais + ECL |
-| **Antro/Piloro** | Profundas (>50% espessura) | Pilóricas (mucosas) | Células G + D + mucosas |
-
-> **Dica de prova:** Fossetas gástricas PROFUNDAS = antro pilórico. Fossetas RASAS = fundo/corpo.
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Confundir o local da célula G:** Célula G fica no **antro** (não no fundo). O fundo tem parietais e principais.
-2. **Esquecer o Fator Intrínseco:** A célula parietal secreta **tanto HCl quanto Fator Intrínseco**. FI é essencial para absorção de vitamina B12. Gastrectomia causa deficiência de B12.
-3. **Muscular do esôfago:** Não é toda lisa nem toda estriada — é por **terços** (estriado / misto / liso).
-4. **Barrett = metaplasia, não displasia:** Barrett é metaplasia (escamoso→colunar intestinalizado). Displasia vem depois, dentro do Barrett.
-5. **Serosa do esôfago:** O esôfago tem **adventícia**, não serosa (exceto pequeno segmento abdominal).
-6. **Pepsina vs pepsinogênio:** A célula principal secreta **pepsinogênio** (zimogênio inativo). O HCl das parietais converte para pepsina ativa.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei o tipo de epitélio do esôfago (escamoso estratificado não-queratinizado)
-- [ ] Sei a variação da muscular própria por terços (EVL)
-- [ ] Sei o que é e o que causa o Esôfago de Barrett
-- [ ] Consigo nomear as 6 células das glândulas fúndicas e suas secreções
-- [ ] Sei que a célula parietal faz HCl E Fator Intrínseco
-- [ ] Sei diferenciar as fossetas do fundo vs do antro (rasas vs profundas)
-- [ ] Sei onde fica a célula G (antro, não fundo)
+O estômago é revestido por epitélio colunar simples. O segredo está nas glândulas:
+- **Células Parietais:** Produzem **Ácido Clorídrico (HCl)** e o **Fator Intrínseco** (essencial para absorver vitamina B12).
+- **Células Principais:** Produzem **Pepsinogênio** (que vira pepsina para digerir proteínas).
+- **Células G:** Ficam no **Antro** e produzem **Gastrina** (o hormônio que manda as parietais fabricarem ácido).
+- **Células D:** Produzem **Somatostatina**, que freia a produção de ácido (o "freio" do estômago).
 
 ---
 
 ## Ponte com a Clínica
 
-Na úlcera péptica gástrica, o desequilíbrio entre a secreção de HCl pelas células parietais e a proteção mucosa (muco + bicarbonato + renovação celular) resulta em erosão da mucosa. A infecção por *Helicobacter pylori* destrói precisamente as células mucosas do colo, comprometendo a renovação epitelial. Na anemia perniciosa autoimune, anticorpos destroem as células parietais — resultando em falta de Fator Intrínseco e má-absorção de B12, com consequente anemia megaloblástica. Compreender a histologia de cada região gástrica permite localizar e interpretar lesões com precisão.
+Pacientes que fazem **Cirurgia Bariátrica** ou têm gastrite atrófica perdem muitas **Células Parietais**. Sem elas, não há produção de **Fator Intrínseco**. Sem fator intrínseco, o corpo não consegue absorver a **Vitamina B12** no intestino, levando à **Anemia Perniciosa**. Por isso, esses pacientes precisam repor a vitamina pelo resto da vida, muitas vezes em injeções, já que a via oral não funciona sem o estômago.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Epitélio do Esôfago**: Escamoso Estratificado; mudou para colunar? É **Barrett**.
+- **Terço Superior do Esôfago**: Músculo estriado esquelético (voluntário).
+- **Células Parietais**: Responsáveis pelo **HCl** e **Fator Intrínseco**.
+- **Células G**: Localizadas no **Antro**; combustível principal para a acidez.
+- **Proteção Gástrica**: Feita por muco neutro e bicarbonato (estímulo das Prostaglandinas).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Histologia do TGI Superior, decore as células. 
+As **Parietais** são as estrelas: fazem o ácido e ajudam na absorção da B12. Se elas morrem, o paciente tem anemia e má digestão. As **Principais** fazem o "suco" de digestão (pepsina). No esôfago, lembre-se da regra dos terços e que a falta de serosa é o que faz o câncer de esôfago ser tão agressivo.
 
-Esôfago: epitélio escamoso estratificado não-queratinizado. Muscular esofágica: estriado (1/3 sup) → misto (1/3 méd) → liso (1/3 inf) — mnemônico EVL. Barrett: refluxo → metaplasia escamoso→colunar + células caliciformes → pré-maligno.
-
-Célula parietal: HCl + Fator Intrínseco (sem ela → sem B12 → anemia megaloblástica). Célula principal: pepsinogênio (ativado a pepsina pelo HCl). Célula G: no antro, secreta gastrina → estimula HCl.
-
-Fossetas profundas: antro; fossetas rasas: fundo/corpo. Esôfago tem adventícia (não serosa) — disseminação mediastinal do Ca esofágico.
+A Uninove ama o **Esôfago de Barrett**. Se a lâmina mostrar células "completamente diferentes" (colunares) onde deveria ser escamoso, marque Barrett. Outro ponto garantido: o estômago se protege com muco; remédios como **Anti-inflamatórios (AINEs)** cortam essa proteção e causam úlceras porque inibem as prostaglandinas que mandam fabricar esse muco.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Célula parietal | Célula principal | Parietal = HCl+FI (oxíntica, grande, eosinofílica); Principal = pepsinogênio (basofílica, base da glândula) |
-| Célula G | Célula D | G = gastrina (estimula HCl); D = somatostatina (inibe gastrina) |
-| Barrett (metaplasia) | Displasia esofágica | Barrett = substituição benigna com células caliciformes; displasia = atipia celular dentro do Barrett |
-| Esôfago superior | Esôfago inferior | Superior = músculo estriado (voluntário); inferior = músculo liso (involuntário) |
+| **Célula Parietal** | **Célula Principal** | Faz **Ácido/B12** vs Faz **Digestão de Proteínas** |
+| **Célula G** | **Célula D** | **Acelera** o ácido (Gastrina) vs **Freia** o ácido (Somatostatina) |
+| **Epitélio Esofágico** | **Epitélio Gástrico** | **Escamoso (Proteção)** vs **Colunar (Secreção)** |
+| **Esfíncter Superior** | **Esfíncter Inferior** | Músculo Estriado vs **Músculo Liso** |
+| **Metaplasia** | **Displasia** | Mudança de tipo celular vs **Célula que começa a ficar "feia" (pré-câncer)** |
 
 ### Frase-âncora para não esquecer
 
-> "A parietal é a célula mais importante do estômago: faz HCl para digerir e Fator Intrínseco para não ter anemia — dois empregos numa só célula."
+> "Parietal é o patrão: faz o ácido e compra a vitamina B12. A principal é o operário: só digere. No esôfago, o Barrett é a pele de cordeiro (colunar) tentando proteger o lobo (ácido) — mas o preço é o câncer."

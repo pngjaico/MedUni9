@@ -1,116 +1,85 @@
-﻿# IND — Aula 7: Indicadores de Mortalidade Materno-Infantil e Perinatal
+# IND — Aula 7: Mortalidade Materno-Infantil e Perinatal
 
-**Disciplina:** Indicadores de Saúde
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A mortalidade de mães e bebês é o principal indicador da qualidade de um sistema de saúde. Na prova, o tema central é saber dividir a **Mortalidade Infantil** em seus componentes (Neonatal e Pós-neonatal) e entender a **Razão de Mortalidade Materna**, sempre prestando atenção nos denominadores.
+
+Na prática, esses números dizem se o problema está no pré-natal (morte fetal), no parto (neonatal precoce) ou nas condições de vida da família (pós-neonatal).
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Mortalidade materno-infantil e perinatal é tema clássico porque sintetiza qualidade da atenção pré-natal, parto, puerpério e cuidado neonatal. A **Uninove** costuma cobrar conceitos e interpretação desses indicadores como marcadores sensíveis de desempenho do sistema de saúde.
-
-Na prática, taxas elevadas nesses grupos apontam falhas assistenciais e desigualdades sociais, exigindo resposta rápida e estruturada.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `IND-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de componentes da mortalidade infantil.
+- **O que mostrar:** Linha do tempo do nascimento (0 dias) até 1 ano (364 dias), dividida em: Neonatal Precoce (0-6d), Neonatal Tardia (7-27d) e Pós-neonatal (28-364d).
+- **Tipo sugerido:** Infográfico didático (Régua do tempo).
+- **Legenda (rascunho):** Os componentes da mortalidade infantil e o que cada um revela sobre a saúde pública.
 
-## O Que Cada Indicador Mostra
+## 1. Razão de Mortalidade Materna (RMM)
 
-A mortalidade materna reflete risco de óbito relacionado à gestação, parto e puerpério. A mortalidade infantil recorta óbitos em menores de um ano, incluindo componentes neonatal e pós-neonatal. A mortalidade perinatal integra eventos no período final da gestação e primeira semana de vida, funcionando como termômetro da qualidade obstétrica e neonatal.
+Mede as mortes de mulheres por causas ligadas à gravidez, parto ou puerpério (até 42 dias após o parto).
+- **Fórmula:** (Óbitos Maternos / Nascidos Vivos) x **100.000**.
+- **Cuidado:** O multiplicador é 100 mil, diferente da maioria dos outros que é 1.000.
+- **O que indica:** Se a RMM é alta, o sistema de pré-natal e assistência ao parto está falhando.
 
-> **Dica de Prova:** neonatal precoce e perinatal costumam refletir diretamente qualidade da assistência ao parto e ao recém-nascido.
+---
 
-> **Pegadinha:** interpretar queda global da mortalidade infantil como melhora homogênea de todos os componentes sem olhar neonatal versus pós-neonatal.
+## 2. Mortalidade Infantil (Menores de 1 ano)
 
-## Leitura Crítica e Implicações em Saúde
+É dividida para sabermos onde está o erro:
 
-Esses indicadores são fortemente influenciados por acesso, qualidade do cuidado e condições socioeconômicas. Em prova, o aluno deve evitar análise simplista e considerar também sub-registro e desigualdade territorial.
+| Componente | Idade | Causa mais comum | O que indica? |
+|---|---|---|---|
+| **Neonatal Precoce** | 0 a 6 dias | Asfixia, prematuridade. | Má qualidade no **Parto**. |
+| **Neonatal Tardia** | 7 a 27 dias | Infecção hospitalar, malformação. | Cuidado na **UTI Neonatal**. |
+| **Pós-neonatal** | 28 a 364 dias | Diarreia, pneumonia, desnutrição. | Má qualidade de **Vida/Saneamento**. |
 
-No **SUS**, monitorar esses desfechos orienta investimento em atenção primária, rede obstétrica, qualificação de parto e cuidado neonatal oportuno.
+---
 
+## 3. Mortalidade Perinatal e Fetal
 
+- **Mortalidade Fetal:** Bebês que nascem mortos (Natimortos). Denominador: Nascidos Vivos + Óbitos Fetais (**Nascimentos Totais**).
+- **Mortalidade Perinatal:** Soma os **Óbitos Fetais** + **Neonatais Precoces** (até 6 dias). É o indicador mais sensível para avaliar o momento do parto.
 
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Indicadores de Mortalidade Materno-Infantil e Perinatal
-
-Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Ao analisar os dados de um município, o médico percebe que a **Mortalidade Pós-neonatal** caiu, mas a **Neonatal Precoce** subiu. Isso significa que as condições de vida das famílias melhoraram (menos diarreia/infecção), mas o hospital da cidade está com problemas na assistência ao parto ou na reanimação dos bebês que nascem com dificuldade. A gestão deve focar em treinar os obstetras e pediatras da sala de parto.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Mortalidade materna:** marcador de qualidade da linha de cuidado obstétrico.
-- **Mortalidade infantil:** inclui componentes neonatal e pós-neonatal.
-- **Mortalidade perinatal:** sensível à assistência no final da gestação e início da vida.
-- **Desigualdade territorial:** altera fortemente os indicadores.
-- **Sub-registro:** pode distorcer análise e planejamento.
-- **Uso estratégico:** orientar políticas de proteção materno-infantil.
+- **Neonatal Precoce (0-6d)**: É o componente mais difícil de baixar; ligado ao parto.
+- **Pós-neonatal (28-364d)**: É o que mais cai com saneamento e vacinas.
+- **RMM**: Sempre por **100.000 Nascidos Vivos**.
+- **Denominador Perinatal**: Usa **Nascimentos Totais** (Vivos + Fetais).
+- **Óbito Evitável**: A grande maioria dessas mortes poderia ser impedida com assistência adequada no SUS.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Materno-Infantil, decore os prazos. 
+**Neonatal Precoce** é a "semana do parto" (0 a 6 dias). Se esse número estiver alto, o problema é o hospital. **Pós-neonatal** é o "resto do ano" (até completar 1 ano). Se esse número estiver alto, o problema é a pobreza, falta de esgoto ou falta de vacina.
 
-Mortalidade materna: óbito relacionado ao ciclo gravídico-puerperal. Mortalidade infantil: óbito antes de 1 ano de idade. Neonatal: componente mais ligado à assistência perinatal.
-
-Pós-neonatal: relaciona-se mais a condições sociais e ambientais. Perinatal: avalia momento crítico em torno do parto. Indicadores sensíveis: refletem qualidade da rede de cuidado.
-
-Desigualdade regional: afeta fortemente os resultados. Monitoramento contínuo: essencial para reduzir óbitos evitáveis.
+A Uninove adora cobrar a **Razão de Mortalidade Materna**. Lembre-se: o denominador são os **Nascidos Vivos**, não a população de mulheres da cidade. E o multiplicador é **100.000**. Outra dica: mortes maternas por causas acidentais (ex: atropelamento de uma grávida) **NÃO** entram na RMM. Só contam mortes ligadas diretamente à gestação ou parto.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Mortalidade materna | Mortalidade infantil | Uma foca gestante/puérpera; outra foca menores de 1 ano |
-| Neonatal | Pós-neonatal | Neonatal ocorre no início da vida; pós-neonatal é período seguinte |
-| Infantil global | Componentes da infantil | Componentes revelam onde está a principal falha assistencial |
-| Queda de taxa média | Equidade de cuidado | Taxa média pode cair sem reduzir desigualdade entre territórios |
+| **RMM** | **Mortalidade Infantil** | Risco da MÃE (x100.000) vs **Risco do BEBÊ (x1.000)** |
+| **Neonatal Precoce** | **Neonatal Tardia** | 0-6 dias (Parto) vs **7-27 dias (Pós-Parto)** |
+| **Óbito Fetal** | **Nascido Vivo** | Nasceu sem vida vs **Qualquer sinal de vida** |
+| **Perinatal** | **Neonatal** | Inclui fetos mortos vs **Só conta quem nasceu vivo** |
+| **Evitabilidade** | **Inevitabilidade** | Falha do sistema vs **Malformações incompatíveis com a vida** |
 
 ### Frase-âncora para não esquecer
 
-> "Quando mãe e bebê morrem mais, o problema é da rede inteira, não de um ponto isolado."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Indicadores de Mortalidade Materno-Infantil e Perinatal** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
-| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
-| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Gordis L. *Epidemiologia*. Elsevier.
-- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
-- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.
+> "Precoce é parto, pós é social; materna é cem mil e feto é perinatal."

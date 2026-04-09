@@ -1,193 +1,95 @@
-﻿# Helmintíases e Cestoidoses
+# MAD1 — Aula 23: Helmintíases e Cestoidoses
 
-## Relevância Clínica e Acadêmica
+Os helmintoses (doenças causadas por vermes) são extremamente prevalentes em locais com saneamento básico precário. Na prova, os temas centrais são a diferenciação crucial entre **Teníase e Cisticercose**, o ciclo de vida dos vermes que passam pelo pulmão (**Ciclo de Löffler**) e o perigo da **Estrongiloidíase** em pacientes que usam corticoides.
 
-As helmintíases são infecções por vermes (helmintos) e representam as doenças parasitárias mais prevalentes no mundo, afetando principalmente populações de baixa renda em países tropicais. Os helmintos se dividem em nematelmintos (vermes cilíndricos — nematoides) e platelmintos (vermes chatos — cestoides e trematodas). No Brasil, as mais importantes clinicamente são: ascaridíase, ancilostomíase, estrongiloidíase, teníase/cisticercose e esquistossomose.
+Na prática, saber que "comer carne de porco" não causa cisticercose cerebral é uma das distinções mais importantes que um médico deve saber explicar.
 
-A **Uninove** foca especialmente na diferença entre teníase e cisticercose (armadilha clássica de prova), na síndrome de hiperinfestação por Strongyloides e nas manifestações sistêmicas de cada helmintíase.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A23-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Teníase vs. Cisticercose.
+- **O que mostrar:** Quadro comparativo: Homem comendo carne (Teníase - verme no intestino) vs. Homem ingerindo água/alimento com ovos (Cisticercose - larva no cérebro).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Diferença biológica entre Teníase e Cisticercose humana.
 
+## 1. Nematoides (Vermes Cilíndricos)
 
+### Ascaris lumbricoides (Lombriga)
+- **Transmissão:** Ingestão de ovos.
+- **Ciclo de Löffler:** A larva passeia pelo pulmão antes de ir para o intestino. Causa tosse e catarro com muitos eosinófilos.
+- **Perigo:** Em grandes quantidades, pode causar obstrução intestinal ("bolo de áscaris").
 
+### Ancilostomíase (Amarelão)
+- **Causa:** *Ancylostoma* ou *Necator*. A larva entra pela pele (pé descalço).
+- **Clínica:** O verme suga sangue no intestino, causando **Anemia Ferropriva** grave (o paciente fica pálido/amarelo).
 
----
-
-
-
-## Nematoides (Vermes Cilíndricos)
-
-### Ascaris lumbricoides (Ascaridíase)
-
-- Maior nematoide intestinal humano (fêmea até 35 cm)
-- **Transmissão:** fecal-oral (ingestão de ovos embrionados em solo/alimentos contaminados)
-- **Ciclo de Löffler:** larvas migram pulmão → tosse, eosinofilia (síndrome de Löffler = pneumonite eosinofílica transitória)
-- **Fase intestinal:** maioria assintomática; abdômen distendido, dor periumbilical, desnutrição
-- **Complicações:** oclusão intestinal (bolha de vermes, especialmente em crianças), colangite/pancreatite obstrutiva por migração para ducto biliar/pancreático
-- Tratamento: albendazol ou mebendazol
-
-### Ancylostoma duodenale / Necator americanus (Ancilostomíase)
-
-- Nematoide hematófago intestinal (cápsula bucal com dentes/lâminas cortadoras)
-- **Transmissão:** larvas filarioides penetram pele (solo contaminado, andar descalço)
-- **Larva migrans cutânea ("bicho geográfico"):** larvas de Ancylostoma de animais (A. braziliense) migram na pele sem completar ciclo → túnel serpiginoso pruriginoso
-- **Clínica sistêmica:** **anemia ferropriva** (perda de sangue intestinal crônica) + hipoproteinemia
-- Síndrome de Loesch: tosse + eosino­filia durante migração pulmonar
-- Tratamento: albendazol ou mebendazol
-
-### Strongyloides stercoralis (Estrongiloidíase)
-
-> Helminto com comportamento único: pode completar ciclo dentro do hospedeiro (autoinfestação)
-
-- **Transmissão:** larvas filarioides penetram pele
-- **Clínica leve:** larva currens (erupção cutânea linear migratória no abdômen/nádegas, migra rapidamente), dor abdominal, diarreia
-- **Síndrome de Hiperinfestação** (em imunossuprimidos — corticoide, HTLV-1, AIDS):
-  - Massiva autoinfestação → larvas invadem todo intestino, pulmão, SNC
-  - Sepse por gram-negativos (larvas carregam flora intestinal)
-  - Alta mortalidade
-- Diagnóstico: método de Baermann-Moraes; cultura em coprocultura; sorologia
-- Tratamento: **ivermectina** (1ª linha); albendazol (alternativa)
-
-> **Pegadinha crítica:** Strongyloides + imunossupressão por corticoide = risco de síndrome de hiperinfestação fatal. Sempre rastrear estrongiloidíase antes de imunossupressor em área endêmica.
-
-### Enterobius vermicularis (Oxiuríase / Pinworm)
-
-- Mais comum em crianças
-- Fêmea migra à noite para região perianal e deposita ovos → **prurido anal noturno**
-- Diagnóstico: fita adesiva perianal de manhã (teste de Graham)
-- Tratamento: albendazol dose única (tratar toda a família)
-
-### Trichuris trichiura (Tricuríase)
-
-- Verme em chicote no cólon
-- Transmissão fecal-oral
-- Clínica: diarreia, prolapso retal em infecções maciças em crianças
-- Tratamento: mebendazol ou albendazol
+### Strongyloides stercoralis
+- **O Perigo:** É o único que se reproduz sozinho dentro do corpo.
+- **Hiperinfestação:** Se o paciente tomar **Corticoide**, o verme se multiplica descontroladamente e espalha bactérias do intestino pelo sangue, causando sepse fulminante. **Sempre rastrear antes de dar corticoide!**
 
 ---
 
-## Cestoides (Vermes Chatos — Segmentados)
+## 2. Teníase e Cisticercose (Taenia solium)
 
-### Taenia spp. — Teníase vs. Cisticercose
+Esta é a pegadinha favorita das provas. Decore a diferença:
 
-> **Esta é a diferença mais cobrada na prova!**
-
-| Aspecto | Teníase | Cisticercose |
+| Doença | Como pega? | Onde o verme fica? |
 |---|---|---|
-| Agente | T. solium ou T. saginata (adulto intestinal) | T. solium (larva — cisticerco) |
-| Forma infectante ingerida | Carne bovina (T. saginata) ou suína (T. solium) crua com cisticercos | Ovos de T. solium em alimentos/água (fecal-oral) |
-| Localização do parasita | Intestino delgado (verme adulto) | Tecidos como cérebro, músculo, olho, subcutâneo |
-| Sintomas | Geralmente assintomática; proglotes nas fezes | Neurocisticercose: epilepsia, cefaleia, hidrocefalia |
-| Diagnóstico | Proglotes em fezes / ovos em fezes | TC/RMN crânio (cistos com ou sem escólex); sorologia |
-| Tratamento | Praziquantel ou niclosamida | Albendazol + corticoide (neurocisticercose ativa); praziquantel |
+| **Teníase** | Comendo **Carne** mal cozida com cisticerco. | No intestino (Verme solitária). |
+| **Cisticercose** | Ingerindo **Ovos** (mãos sujas/verduras). | No cérebro, músculos ou olhos. |
 
-> **Regra:** teníase = come carne com cisticerco → verme adulto no intestino. Cisticercose = ingere ovos de T. solium → larvas nos tecidos. Só T. solium causa cisticercose humana (humano como hospedeiro intermediário). T. saginata NÃO causa cisticercose.
-
-### Neurocisticercose
-- Causa mais frequente de epilepsia de início tardio no Brasil
-- Cisticercos no SNC em diferentes estágios (ativo, em degeneração, calcificado)
-- TC: lesões hipodensas com realce anelar (vesicular) ou calcificações
-- Tratamento: albendazol 400 mg 2×/dia × 8–30 dias + dexametasona (reduz inflamação)
-
-### Echinococcus granulosus (Hidatidose)
-
-- Tênio do cão; humano = hospedeiro intermediário acidental
-- Ingestão de ovos → cisto hidático no fígado (e outros órgãos)
-- Clínica: massa hepática de crescimento lento; ruptura → choque anafilático + disseminação
-- Diagnóstico: ultrassom "sinal de duplo halo" + sorologia
-- Tratamento: cirurgia (técnica PAIR — punção, aspiração, injeção escolicida, re-aspiração) + albendazol
+> **Dica de Prova:** A **Neurocisticercose** (larva no cérebro) é a principal causa de epilepsia (convulsão) que começa na idade adulta no Brasil.
 
 ---
 
-## Trematodas (Vermes Chatos Não Segmentados)
+## 3. Esquistossomose (Xistose)
 
-### Schistosoma mansoni (Esquistossomose)
-
-- Brasil: endêmica no Nordeste, MG, ES
-- **Transmissão:** larvas cercariae penetram pele em água doce (planorbídeos — Biomphalaria)
-- **Fases:**
-  - Dermatite cercariana (prurido ao entrar na água)
-  - Fase aguda (febre de Katayama): febre, urticária, eosinofilia, hepatoesplenomegalia → meses após infecção
-  - Fase crônica hepatoesplênica: fibrose periportal + hipertensão portal
-  - Complicação: varizes esofágicas → hemorragia digestiva alta; esplenomegalia
-- Diagnóstico: exame parasitológico de fezes (Kato-Katz) + sorologia
-- Tratamento: **praziquantel** (dose única)
-
----
-
-## Tabela Resumo
-
-| Helminto | Transmissão | Diagnóstico | Tratamento |
-|---|---|---|---|
-| Ascaris | Fecal-oral (ovos) | EPF (ovos) | Albendazol/mebendazol |
-| Ancylostoma/Necator | Larva penetra pele | EPF (ovos) | Albendazol |
-| Strongyloides | Larva penetra pele | Baermann-Moraes | Ivermectina |
-| Taenia (teníase) | Carne crua com cisticerco | Proglotes em fezes | Praziquantel |
-| Cisticercose | Ovos de T. solium (fecal-oral) | TC/RMN + sorologia | Albendazol + corticoide |
-| Schistosoma | Cercária na água doce | Kato-Katz | Praziquantel |
-
----
-
-## Pontos-Chave
-
-- Teníase = verme adulto intestinal (carne crua); cisticercose = ovos fecal-oral → larvas nos tecidos
-- Só T. solium causa cisticercose; T. saginata não
-- Strongyloides + imunossupressão (corticoide) = síndrome de hiperinfestação fatal → rastrear antes
-- Anemia ferropriva + eosinofilia em criança = ancilostomíase até prova em contrário
-- Prurido anal noturno na criança = Enterobius; diagnóstico pelo teste de Graham (fita adesiva)
-- Esquistossomose crônica: hipertensão portal + fibrose periportal + praziquantel
+- **Transmissão:** Penetração da cercária (larva) na pele em água doce (lagoas). "Se nadou e coçou, é porque o bicho entrou".
+- **Hospedeiro:** Caramujo *Biomphalaria*.
+- **Fase Crônica:** Causa o aumento do fígado e do baço (**Barriga D'água**) e varizes no esôfago que podem sangrar.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Homem de 30 anos, lavrador no Nordeste, com histórico de convulsões de início recente. TC de crânio revela múltiplas lesões hipodensas arredondadas com captação anelar de contraste, algumas com ponto hiperdenso central (escólex). Nível socioeconômico baixo; consumo de carne de porco mal cozida.
-- Diagnóstico: **neurocisticercose** por T. solium
-- Investigação adicional: proglotes/ovos em fezes, sorologia
-- Tratamento: albendazol 400 mg 2×/dia × 8 semanas + dexametasona
-- Prevenção: saneamento básico, cozimento adequado de carne, higiene das mãos
+Um homem de 40 anos, sem histórico de doenças, apresenta sua primeira crise de convulsão. A tomografia de crânio mostra pontos brancos calcificados no cérebro. O diagnóstico provável é **Neurocisticercose**. Ao contrário do que muitos pensam, ele não pegou isso comendo carne de porco, mas sim ingerindo ovos de *Taenia solium* eliminados por alguém que tinha a solitária intestinal (higiene precária).
+
+---
+
+## Pontos-Chave para Prova
+
+- **Ciclo de Löffler**: Vermes que passam pelo pulmão (*Ascaris, Ancylostoma, Strongyloides*).
+- **Ivermectina**: Remédio de escolha para *Strongyloides*.
+- **Anemia Grave**: Característica da Ancilostomíase.
+- **Neurocisticercose**: Ver cistos no cérebro (imagem de "ponto no centro").
+- **Praziquantel**: Tratamento de ouro para a Esquistossomose.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Verminoses, foque no "comer" vs "pisar". 
+Você **come** o ovo da **Lombriga** (*Ascaris*) e da **Tênia** (Cisticercose). Você **pisa** na larva do **Amarelão** (*Ancilostoma*) e do ***Strongyloides***. Se a questão fala de anemia brava, marque Amarelão. Se fala de convulsão, marque Neurocisticercose.
 
-Teníase vs cisticercose: teníase = carne crua = verme intestinal; cisticercose = ovos fecal-oral = larva no tecido. Strongyloides + corticoide: síndrome de hiperinfestação fatal → rastrear antes de imunossupressor.
-
-Neurocisticercose: causa mais comum de epilepsia de início tardio no Brasil. Ancilostomíase: anemia ferropriva crônica + larva entra pela pele de andar descalço.
-
-Praziquantel: trata esquistossomose e teníase; albendazol: teníase, Ascaris, Strongyloides, neurocisticercose (com corticoide).
+A maior pegadinha: **Carne de porco dá Tênia no intestino (Teníase); Ovos da Tênia (fezes) dão Cisticercose no cérebro**. E o segredo do médico esperto: antes de dar corticoide para um paciente que veio da roça, dê um remédio para verme ou peça exame de fezes, senão o ***Strongyloides*** vai fazer uma festa fatal no corpo dele (Hiperinfestação).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Teníase | Cisticercose | Teníase = carne com cisticerco → verme adulto intestinal; cisticercose = ovos fecal-oral → larva cerebral |
-| T. solium | T. saginata | T. solium = suína + causa cisticercose; T. saginata = bovina, NÃO causa cisticercose |
-| Strongyloides (leve) | Hiperinfestação | Leve = larva currens + diarreia; hiper = translocação bacteriana + sepse + alta mortalidade |
-| Ascaris | Trichuris | Ascaris = verme grande, obstrução intestinal, Löffler; Trichuris = chicote colônico, prolapso retal |
-| Ancilostomíase | Bicho geográfico | Ancylostoma duodenale/Necator = humano; A. braziliense (animal) = larva migrans cutânea |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Teníase** | **Cisticercose** | Comeu Carne vs **Comeu Ovo (Higiene)** |
+| **Strongyloides** | **Ascaris** | Autoinfecção (Grave/Corticoide) vs **Ciclo Simples** |
+| **Hospedeiro Definitivo** | **Intermediário** | Onde o verme é adulto (Humano) vs Onde é larva (Porco/Boi) |
+| **Linfócitos** | **Eosinófilos** | Vírus vs **Vermes (Aumento na fase aguda)** |
+| **Praziquantel** | **Albendazol** | Xistose/Tênia vs **Maioria dos outros vermes** |
 
 ### Frase-âncora para não esquecer
 
-> "Come carne de porco crua → teníase (verme no intestino). Come ovos de tênia (mãos sujas) → cisticercose (larva no cérebro = epilepsia). Strongyloides não perdoa quem toma corticoide sem rastrear."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).
+> "Pisar descalço amarela e o Strongyloides acelera; Carne de porco é teníase, mas o ovo é cisticercose que o cérebro altera."

@@ -1,165 +1,91 @@
 # BMF3 — Aula 21: Fertilização, Embriologia Inicial e Implantação
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O início da vida é uma corrida contra o tempo e uma sequência perfeita de eventos químicos. Na prova, os temas centrais são o local exato da **Fertilização** (Ampola da Tuba), as fases de desenvolvimento do embrião (**Mórula e Blastocisto**) e como ele "se enterra" no útero durante a **Implantação**.
+
+Na prática, entender esses primeiros dias é fundamental para compreender a infertilidade, as perdas gestacionais precoces e a perigosa gravidez **Ectópica**.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A fertilização e a implantação são o início da vida embrionária. Falhas nesses processos são responsáveis pela maioria das perdas gestacionais precoces. A **Uninove** cobra o local da fertilização, as etapas do desenvolvimento embrionário precoce (clivagem, mórula, blastocisto), o processo de implantação e a origem das membranas extraembrionárias.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A21-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de cronologia do desenvolvimento.
+- **O que mostrar:** A "Viagem do Embrião": Um esquema da tuba uterina e do útero mostrando o dia 0 (Fertilização na Ampola), o dia 3 (Mórula na tuba), o dia 5 (Blastocisto chegando ao útero) e o dia 7 (Implantação/Nidação).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Cronologia da primeira semana de desenvolvimento humano.
 
+## 1. Fertilização: O Grande Encontro
 
-
-
----
-
-## 1. Fertilização
-
-### Local
-
-- **Ampola da tuba uterina** (1/3 lateral) — mais comum
-- Janela de fertilidade: ovócito viável por **12-24h**; espermatozoide viável por **48-72h**
-
-### Etapas da Fertilização
-
-| Etapa | Evento |
-|-------|--------|
-| 1. Penetração da corona radiata | Hialuronidase do acrossomo dissolve complexo cumulus |
-| 2. Ligação à zona pelúcida | Receptor ZP3 (zona pelúcida) liga à glicoproteína espermática |
-| 3. Reação acrossômica | Exocitose do acrossomo → acrossina perfura a zona pelúcida |
-| 4. Fusão de membranas | Espermatozoide entra no citoplasma do ovócito II |
-| 5. Reação cortical (bloqueio à polispermia) | Grânulos corticais liberam enzimas → ZP2 e ZP3 se alteram → zona pelúcida impermeável |
-| 6. Conclusão da meiose II | Ovócito II completa meiose → ovócito maduro (óvulo) + 2º glóbulo polar |
-| 7. Formação do zigoto | Pronúcleo feminino + pronúcleo masculino → singamia → zigoto **2n** |
+A fertilização ocorre quase sempre na **Ampola da Tuba Uterina**.
+1.  **Reação Acrossômica:** O espermatozoide usa seu "capacete" de enzimas para furar a proteção do óvulo (**Zona Pelúcida**).
+2.  **Bloqueio à Polispermia:** Assim que o primeiro espermatozoide entra, o óvulo "tranca a porta" quimicamente para nenhum outro entrar.
+3.  **Final da Meiose:** O óvulo só termina sua divisão celular **DEPOIS** que o espermatozoide entra.
 
 ---
 
-## 2. Desenvolvimento Embrionário Precoce — Clivagem
+## 2. A Primeira Semana: De 1 a Centenas de Células
 
-### Cronologia
-
-| Dia | Evento | Local |
-|-----|--------|-------|
-| 0 | Fertilização (zigoto) | Ampola |
-| 1-3 | Clivagem mitótica → **mórula** (16-32 células, blastômeros) | Tuba → útero |
-| 4 | **Blastocisto** (cavidade blastocélica + embrioblasto + trofoblasto) | Útero |
-| 5-6 | **Eclosão** (hatching) — zona pelúcida se dissolve | Útero |
-| 6-10 | **Implantação** | Endométrio |
-
-### Blastocisto — Estrutura
-
-| Componente | Origem | Destino |
-|-----------|--------|---------|
-| **Embrioblasto** (massa celular interna, MCI) | Polo interno | Embrião propriamente dito + âmnio + saco vitelínico |
-| **Trofoblasto** | Camada externa | Placenta + membranas corionicas |
-| **Blastocele** | Cavidade interna | Saco blastocístico |
+Nos primeiros dias, o bebê viaja pela trompa em direção ao útero enquanto suas células se dividem:
+- **Mórula (Dia 3):** O embrião parece uma "amora", uma bola maciça de 16 a 32 células.
+- **Blastocisto (Dia 5):** É aqui que a mágica acontece. O embrião cria uma cavidade com líquido e se divide em dois grupos: o **Embrioblasto** (que será o bebê) e o **Trofoblasto** (que será a placenta).
+- **Eclosão (Hatching):** O blastocisto precisa "sair da casca" (Zona Pelúcida) para conseguir encostar no útero.
 
 ---
 
-## 3. Implantação
+## 3. Implantação (Nidação): O Pouso
 
-### Local Normal
-
-- **Corpo do útero** (parede posterior > anterior) — endométrio na fase secretora (progesterona)
-- Profundidade: intersticial (trofoblasto invade estroma endometrial)
-
-### Etapas da Implantação
-
-1. **Aposição:** blastocisto se aproxima do endométrio (polo do embrioblasto voltado para o endométrio)
-2. **Adesão:** moléculas de adesão (integrinas + L-selectinas) ligam trofoblasto ao epitélio endometrial
-3. **Invasão:** **Citotrofoblasto** → **Sinciciotrofoblasto** (células multinucleadas, invasoras)
-   - Sinciciotrofoblasto produz enzimas proteolíticas → invade estroma
-   - **Secreta hCG** → mantém corpo lúteo → progesterona sustentada → sem menstruação
-
-### Decídua
-
-- Nome dado ao endométrio materno modificado durante a gravidez
-- **Decídua basal:** entre o embrião e o miométrio (forma a placa basal da placenta)
-- **Decídua capsular:** sobre o embrião
-- **Decídua parietal (vera):** restante do endométrio
+O blastocisto chega ao útero e precisa se enterrar no **Endométrio** (que está fofinho por causa da progesterona).
+- **Sinciciotrofoblasto:** É a parte "invasora" do embrião. Ele solta enzimas que digerem a parede do útero para o bebê entrar.
+- **O Sinal de Vida (hCG):** Assim que implanta, o embrião começa a produzir o **hCG**. Esse hormônio avisa ao ovário para NÃO deixar a menstruação descer, mantendo a gravidez. É este hormônio que o teste de farmácia detecta.
 
 ---
 
-## 4. Membranas Extraembrionárias
+## 4. Decídua: O Útero Grávido
 
-| Membrana | Origem | Função |
-|---------|--------|--------|
-| **Âmnio** | Embrioblasto (ectoderma) | Envolve o embrião; produz líquido amniótico |
-| **Saco vitelínico** | Endoderma do embrioblasto | Hematopoiese primitiva; origem das células germinativas primordiais |
-| **Alantoide** | Endoderma + mesoderma | Hematopoiese; vasos umbilicais |
-| **Cório** | Trofoblasto + mesoderma extraembrionário | Componente fetal da placenta |
-
----
-
-## 5. hCG (Gonadotrofina Coriônica Humana)
-
-- Secretada pelo **sinciciotrofoblasto** a partir do dia 6-8 pós-fertilização
-- Detectável no soro materno a partir de ~8-10 dias; na urina ~14 dias (base do teste de gravidez)
-- **Função:** manter o corpo lúteo → produção de progesterona → implantação estável
-- Pico: ~10 semanas de gestação; depois a placenta assume a produção de progesterona
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Fertilização é na ampola; implantação é no endométrio:** Dois eventos, dois locais. Gravidez ectópica = implantação fora do útero (principalmente na ampola).
-2. **Sinciciotrofoblasto é o invasor e produtor de hCG:** Citotrofoblasto diferencia-se em sinciciotrofoblasto. O sinciciotrofoblasto não tem fronteiras celulares — é uma massa multinucleada.
-3. **Blastocisto eclode na zona pelúcida antes de implantar:** A zona pelúcida precisa se dissolver (hatching) para que a implantação ocorra.
-4. **Mórula está na tuba → blastocisto chega ao útero:** A clivagem ocorre ainda na tuba durante o trânsito. O útero é chegado no estágio de blastocisto (dia 4-5).
-5. **hCG mantém o corpo lúteo (não o cria):** Sem hCG, o corpo lúteo regrediria no dia 21-28. Com hCG, ele persiste por ~10 semanas.
-6. **Saco vitelínico = origem das células germinativas primordiais:** Não produz nutrição (em humanos) — essa função é mínima. A principal em humanos é a origem das CGP que colonizarão as gônadas.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei o local e as etapas da fertilização (ampola, reação acrossômica, bloqueio à polispermia)
-- [ ] Sei a cronologia clivagem → mórula → blastocisto → implantação (dias 0-10)
-- [ ] Sei os componentes do blastocisto (embrioblasto, trofoblasto, blastocele)
-- [ ] Sei que hCG é secretada pelo sinciciotrofoblasto e mantém o corpo lúteo
-- [ ] Sei as três regiões da decídua (basal, capsular, parietal)
-- [ ] Sei a origem e função de cada membrana extraembrionária
+Após a implantação, o endométrio muda de nome e passa a se chamar **Decídua**.
+- **Decídua Basal:** É o "chão" onde o bebê pousou e onde a **Placenta** vai crescer.
+- **Decídua Capsular:** É a "coberta" que fecha o bebê dentro da parede do útero.
 
 ---
 
 ## Ponte com a Clínica
 
-Na gravidez ectópica tubária, o blastocisto implanta na ampola (ou outro segmento da tuba), onde a mucosa carece da capacidade de sustentar a invasão trofoblástica e de decidualizar adequadamente. O crescimento embrionário rompe a tuba (~6-8 semanas) → hemorragia intraperitoneal → hipotensão, dor abdominal e sinal de Blumberg positivo. É emergência cirúrgica. O diagnóstico precoce usa β-hCG sérico + ultrassonografia transvaginal (sem saco gestacional intrauterino + β-hCG > 1500 mUI/mL = gravidez ectópica até prova em contrário). Na doença trofoblástica gestacional (mola hidatiforme), o trofoblasto prolifera de forma anormal → β-hCG muito alto + útero grande sem embrião viável.
+A **Gravidez Ectópica** é quando o embrião, por algum motivo (como cicatrizes de infecções passadas), não consegue chegar ao útero e implanta na própria **Trompa (Ampola)**. Como a trompa não foi feita para esticar, ela acaba rompendo por volta da 8ª semana, causando uma hemorragia interna gravíssima. Por isso, toda dor abdominal forte em mulher em idade fértil deve ser investigada com um teste de gravidez (**Beta-hCG**).
+
+---
+
+## Pontos-Chave para Prova
+
+- **Ampola da Tuba**: Local onde ocorre a união do gameta masculino e feminino.
+- **Zona Pelúcida**: Camada que deve ser perfurada pelo espermatozoide e depois "abandonada" no útero.
+- **Blastocisto**: O estágio em que o embrião finalmente chega ao útero para implantar.
+- **hCG**: Produzido pelo **Sinciciotrofoblasto** para salvar o corpo lúteo no ovário.
+- **Nidação**: Processo de fixação do embrião no endométrio, ocorrendo entre o **6º e 10º dia**.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Embriologia Inicial, foque na cronologia. 
+O encontro é no **Dia 0 (Ampola)**. A **Mórula** (amora) é no **Dia 3**. O **Blastocisto** (bola com buraco) chega no útero no **Dia 5**. A **Implantação** começa no **Dia 6 ou 7**. Se a prova perguntar qual parte do embrião vira a placenta, a resposta é **Trofoblasto**. Se perguntar qual parte vira o bebê, é **Embrioblasto**.
 
-Fertilização: ampola da tuba, ovócito fertilizável por 12-24h, espermatozoide por 48-72h. Reação acrossômica: perfura a zona pelúcida com acrossina. Bloqueio à polispermia: grânulos corticais alteram ZP2+ZP3 imediatamente.
-
-Cronologia: zigoto(0) → mórula(3) → blastocisto(4-5) → implantação(6-10). Embrioblasto: futuro embrião | Trofoblasto: futuro placenta + secreta hCG. HCG: sinciciotrofoblasto → mantém corpo lúteo → progesterona → sem menstruação.
-
-Decídua basal: entre embrião e miométrio (compõe a placenta).
+A Uninove ama cobrar sobre o **hCG**. Lembre-se: ele é o "SOS" enviado pelo embrião para o ovário não deixar a progesterona cair. Sem hCG, o corpo lúteo morre e a mulher menstrua, perdendo o bebê. No microscópio, saiba diferenciar a mórula (sem buraco) do blastocisto (com cavidade). Por fim, lembre-se que o óvulo só termina a sua segunda divisão (Meiose II) se houver fertilização.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Mórula | Blastocisto | Mórula: 16-32 células sem cavidade; blastocisto: com blastocele, embrioblasto e trofoblasto separados |
-| Citotrofoblasto | Sinciciotrofoblasto | Citotrofoblasto: células discretas (stem cells); Sinciciotrofoblasto: masse multinucleada invasora (hCG) |
-| Gravidez ectópica | Gravidez normal | Ectópica: implantação fora do endométrio uterino (mais comum na ampola) |
-| hCG | Progesterona | hCG: produzida pelo trofoblasto, mantém corpo lúteo; Progesterona: produzida pelo corpo lúteo (→ depois placenta) |
+| **Mórula** | **Blastocisto** | Bola **Maciça** (Dia 3) vs Bola com **Cavidade** (Dia 5) |
+| **Embrioblasto** | **Trofoblasto** | Vira o **Bebê** vs Vira a **Placenta** |
+| **Sinciciotrofoblasto** | **Citotrofoblasto** | O invasor que produz **hCG** vs As células de suporte |
+| **Fertilização** | **Implantação** | Encontro na **Tuba** vs Fixação no **Útero** |
+| **Hatching (Eclosão)** | **Nidação** | **Sair da casca** vs **Entrar no útero** |
 
 ### Frase-âncora para não esquecer
 
-> "O blastocisto é como um astronauta que chega ao útero no dia 4, ainda dentro do capacete (zona pelúcida), e só pousa de vez quando joga o capacete fora (hatching) e adere ao endométrio — aí o sinciciotrofoblasto envia o sinal de socorro (hCG) para o corpo lúteo não regredir."
+> "O amor nasce na ampola, vira uma amora (mórula) no caminho e chega ao útero como blastocisto. Para morar lá, ele sai da casca e envia um sinal (hCG) para que a menstruação não o leve embora."

@@ -65,10 +65,32 @@ Os dois arquivos devem ter o mesmo conteúdo.
 - `#` para título da aula.
 - `##` para blocos principais.
 - `###` para subtópicos.
-- `**negrito**` para conceitos-chave.
+- `**negrito**` para conceitos-chave (ver seção Elite Bolding abaixo).
 - `>` para dica clínica, pegadinha e macete de prova.
 - Tabelas quando realmente melhorarem comparação e memorização.
 - `---` para separar grandes blocos.
+
+### Destaque Estratégico e Negritagem (Elite Bolding)
+
+Para garantir legibilidade premium e escaneabilidade de alto nível, utilize o protocolo **Elite Bolding**. O segredo não é o que você negrite, mas o que você deixa de negritar para que o essencial brilhe.
+
+1. **Densidade no Corpo do Texto (10-15%):**
+   - **Limpeza e "Thinning":** Se o texto original tiver muita negritagem, remova o excesso. Deixe apenas o que for crucial.
+   - **Lente do Médico (Triggers):** Negrite sintomas patognomônicos, condutas imediatas e sinais de alerta (ex.: **Rigidez de nuca**, **Sinal de Blumberg**, **Adrenalina IM**).
+   - **Lente do Aluno (Gatilhos de Prova):** Negrite termos técnicos que servem de "âncora" para a resposta (ex.: **Células de Reed-Sternberg**, **Pico Monoclonal**).
+   - **Proibido:** Negritar verbos de ligação, preposições ou frases explicativas inteiras. Use precisão cirúrgica em substantivos e adjetivos críticos.
+
+2. **Densidade nas Seções de Revisão (30-40%):**
+   - Nas seções `## Pontos-Chave para Prova` e `## Pré-Prova`, a intensidade deve ser **significativamente maior**.
+   - O objetivo é que o aluno consiga ler apenas as partes em negrito e entender o resumo da aula.
+   - Exemplo: "A **Estenose Aórtica** apresenta um **sopro sistólico** em diamante, que irradia para as **carótidas**."
+
+3. **Tabelas e Listas (Regra MANDATÓRIA):**
+   - **Chaves em Negrito:** A primeira coluna das tabelas (ou o termo inicial de um item de lista) deve estar **sempre em negrito**.
+   - Isso permite ao cérebro mapear a estrutura da tabela em milissegundos.
+
+4. **Hierarquia:**
+   - Não negrite títulos (`##` ou `###`). Eles já possuem peso visual nativo.
 
 ### Fluxos, sequências e diagramas (padrão visual)
 
@@ -277,6 +299,7 @@ Regras:
 - [ ] **Figuras (opcional):** se houver `### Figura sugerida`, está no formato canônico e a quantidade faz sentido para o tema (poucas onde bastam; mais só quando o conteúdo pede).
 - [ ] **Mnemônicos:** só se forem **consagrados** e úteis; cada letra explicada; **nenhuma** sigla inventada pela redação.
 - [ ] Conteúdo salvo nos dois caminhos espelhados.
+- [ ] **Negritagem (Elite Bolding):** Densidade cirúrgica (10-15%) no corpo; Alta densidade (30-40%) no Pré-Prova; Chaves de tabelas em negrito.
 - [ ] Quantidade de linhas reportada.
 
 ---

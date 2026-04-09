@@ -1,120 +1,103 @@
-# BMF1 — Aula 7: Articulações — Classificação e Estrutura
+# BMF1 — Aula 7: Articulações — A Engenharia do Movimento
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+As articulações são o prêmio que a evolução nos deu para transformar ossos rígidos em um sistema fluido de locomoção. Na prova, os temas centrais são a **Classificação Estrutural** (o material que as une) e a **Mobilidade** permitida.
+
+Na prática clínica, o foco cirúrgico e reumatológico está quase 100% nas **Articulações Sinoviais**, onde ocorrem os derrames ("água no joelho"), as luxações e o desgaste da cartilagem (**Osteoartrite**). Compreender a diferença entre uma sutura craniana e uma cápsula articular é o que separa um leitor de raios-x básico de um médico cirurgião.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As **Articulações** são os pontos de conexão que permitem o movimento e a proteção do corpo. Para a prova, domine a tríade: **Fibrosas** (estabilidade), **Cartilaginosas** (movimento limitado) e **Sinoviais** (mobilidade livre). Na clínica, entenda que o foco está nas articulações **Sinoviais** e em seus componentes vitais, como o **Líquido Sinovial** e a **Cartilagem Hialina**.
-
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Estrutura Sinovial.
+- **O que mostrar:** O "Motor Biológico": O detalhamento de uma articulação sinovial típica (ex: joelho). Mostrar a **Cápsula Fibrosa** externa blindando o sistema, a **Membrana Sinovial** interna gotejando o líquido, e a **Cartilagem Hialina** cobrindo as extremidades ósseas como um capacete de vidro.
+- **Tipo sugerido:** Infográfico de corte coronal (anatômico/fisiológico).
+- **Legenda (rascunho):** A anatomia de uma articulação sinovial: lubrificação contínua para atrito zero.
+
+## 1. Classificação Estrutural: As Três Famílias
+
+| Família | Material de União | Mobilidade | Exemplo Clássico |
+|------|----------------|---------|---------|
+| **Fibrosa** | Fibras de Colágeno curtas | **Imóvel** (Sinartrose)| **Suturas** do crânio |
+| **Cartilaginosa**| Cartilagem hialina ou fibrosa | **Limitada** (Anfiartrose)| **Sínfise púbica** e Discos |
+| **Sinovial** | Cápsula + Líquido | **Livre** (Diartrose)| **Joelho**, **Ombro**, Quadril |
+
+> **Detalhe Clínico:** Com a idade, as suturas fibrosas do crânio se calcificam, fundindo os ossos em uma peça única (**Sinostose**).
 
 ---
 
-## União por tecido — três famílias
+## 2. A Articulação Sinovial Master (Obrigações da Prova)
 
-| Tipo | Característica | Exemplo |
-|------|----------------|---------|
-| **Fibrosa** | Pouco ou nenhum movimento | **Suturas** do crânio; **Sindesmose** |
-| **Cartilaginosa** | Movimento limitado | **Disco intervertebral**; **Sínfise púbica** |
-| **Sinovial** | Cavidade, líquido, cartilagem hialina | **Joelho**, **Ombro**, **Quadril** |
+Toda articulação sinovial *deve* ter obrigatoriamente três coisas:
+1.  **Cápsula Articular:** A embalagem externa, resistente.
+2.  **Líquido Sinovial:** O óleo do motor, secretado pela **Membrana Sinovial**. Nutre e lubrifica.
+3.  **Cartilagem Articular (Hialina):** A "capa de gelo" sobre os ossos. É **Avascular** (não sangra) e **Anervada** (não dói, até que desgaste no osso).
 
----
-
-## Classificação funcional (sinoviais)
-
-| Tipo Mecânico | Movimentos permitidos | Localização Clássica |
-|-------------------|-----------------------|----------------------|
-| **Plana** | Deslizamento | Ossos do **Carpo** |
-| **Gínglimo** (Dobradiça)| Flexão e Extensão | **Cotovelo** e Joelho |
-| **Trocoide** (Pivô) | Rotação | **Atlantoaxial** (C1-C2) |
-| **Esferoide** | Global (3 eixos) | **Ombro** e Quadril |
-| **Selar** | Oposição e encaixe | **Base do Polegar** |
-| **Condilar** | 2 eixos simétricos | Mandíbula (**ATM**) |
+Algumas possuem acessórios como **Bursas** ("sacos" de lubrificante sob os tendões) e **Meniscos** (amortecedores de impacto extra).
 
 ---
 
-## Estrutura da articulação sinovial
+## 3. O Trade-off: Estabilidade versus Mobilidade
 
-- Cartilagem articular hialina (não vascularizada — nutrição pelo líquido sinovial).  
-- Cápsula fibrosa externa; membrana sinovial interna (produz líquido).  
-- Ligamentos (reforço periarticular).  
-- Extras: meniscos (joelho), labrum (ombro/quadril), bursas (reduzem atrito).
+Na biomecânica do corpo, você não pode ter ambos. Se é móvel, é frágil; se é estável, é duro.
 
----
-
-## Estabilidade versus mobilidade — regra prática
-
-| Articulação | Biomecânica Predominante | Consequência Clínica |
+| Articulação | Biomecânica Dominante | Consequência Clínica |
 |-------------|-------------------------|----------------------|
-| **Ombro (Glenoumeral)** | Máxima **mobilidade** | Baixa estabilidade; comum a **Luxação Anterior** |
-| **Quadril (Coxofemoral)** | Máxima **estabilidade** | Encaixe profundo no **acetábulo**; fraturas de colo |
-| **Joelho (Femorotibial)** | **Estabilidade Dinâmica** | Depende de **LCA / LCP** e meniscos para não luxar |
+| **Ombro (Glenoumeral)** | Máxima **Mobilidade** | Baixa estabilidade; alvo fácil para **Luxação** |
+| **Quadril (Coxofemoral)**| Máxima **Estabilidade** | Encaixe ósseo profundo; sofre mais **Fratura** (Colo) do que luxação |
+| **Joelho (Femorotibial)**| Estabilidade **Ligamentar** | Depende fortemente dos ligamentos cruzados (**LCA/LCP**) para não falhar |
 
 ---
 
-## Líquido sinovial
+## 4. Subtipos Sinoviais Funcionais
 
-Ultrafiltrado do plasma com hialuronato — lubrificação e nutrição da cartilagem. Sinovite aumenta volume e altera composição (inflamação, artrite).
-
----
-
-## Cartilagem articular versus fibrocartilagem
-
-| Tecido Articular | Função Mecânica | Exemplos de Prova |
-|-----------------|------------------|-------------------|
-| **Hialina** | Amortecimento liso | **Superfície dos Ossos**|
-| **Fibrocartilagem**| Resistência à carga | **Meniscos** e Discos |
-| **Membrana Sinovial**| Produção de Líquido| Revestimento da Cápsula|
-| **Líquido Sinovial**| Nutrição e Lubrificação| Espaço Articular |
+| Formato Mecânico | Grau de Liberdade | Exemplo de Prova |
+|-------------------|-----------------------|----------------------|
+| **Plana** | Desliza (0 eixos puros) | Ossos do **Carpo** |
+| **Gínglimo** (Dobradiça)| **Uniaxial** (Flexo/Extensão) | **Cotovelo** |
+| **Trocoide** (Pivô) | **Uniaxial** (Rotação) | **Rádio-Ulnar Proximal** e C1-C2 |
+| **Sela** | **Biaxial** (Oposição) | Base do **Polegar** |
+| **Esferoide** | **Triaxial** (Global) | **Ombro** e Quadril |
 
 ---
 
 ## Ponte com a Clínica
 
-Luxação glenoumeral anterior lesiona labrum (Bankart); impacto repetitivo pode levar a síndrome do impacto. LCA rompido altera cinemática do joelho e predispõe menisco. Gonartrose destrói cartilagem — estreitamento de espaço articular na radiografia.
+O termo correto faz a conduta. **Entorse** é quando você "vira o pé" e estira os ligamentos, mas o osso volta pro lugar. **Luxação** é perda **Total** de contato articular (requer redução médica de urgência). **Subluxação** é a perda parcial. Em um quadro inflamatório crônico como a **Artrite Reumatoide**, o próprio sistema imune ataca a **Membrana Sinovial** ("Pannus"), destruindo a articulação de dentro para fora.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Cartilagem Hialina:** Não possui vasos ou nervos. A lesão é de difícil reparo (cicatrização pobre).
-- **Esferoides:** São as articulações com maior **Amplitude de Movimento** (Ombro).
-- **Suturas:** Articulações fibrosas que se tornam **Sinostoses** (osso com osso) no adulto.
-- **Sínfises:** Articulações cartilaginosas que funcionam como amortecedores de choque (ex: Pelve).
-- **Gínglimo:** Trabalha em um único eixo (Uniaxial), como o movimento de porta.
+- **Ligamentos vs Tendões:** Ligamento une **Osso com Osso**. Tendão une **Músculo com Osso**.
+- **Nutrição da Hialina:** Única no corpo, ela "bebe" o **Líquido Sinovial** compressão durante o movimento, já que é avascular.
+- **Sincondrose vs Sínfise:** Sincondrose tem **Hialina** (Crescimento); Sínfise tem **Fibrocartilagem** (Impacto na Pelve).
+- **Líquido Sinovial:** Torna-se espesso no repouso e mais ralo/viscoso no movimento ("aquecimento" do treino).
+- **Gínglimo vs Esferoide:** Gínglimo (Cotovelo) = Movimento 2D. Esferoide (Ombro) = Movimento 3D.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-- **Sinovite:** Inflamação da membrana que produz o líquido; causa derrame ("água no joelho").
-- **Osteoartrose:** Desgate progressivo da **Cartilagem Hialina** por carga ou idade.
-- **Ligamentos:** Conectam **Osso a Osso**. Tendões conectam **Músculo a Osso**.
-- **Luxação:** Perda total do contato entre as superfícies ósseas de uma articulação.
+Para gabaritar articulações, o raciocínio é simples: quanto menos o tecido é vascularizado, mais ele demora para curar. A **Cartilagem Hialina** e os ligamentos intracapsulares (LCA) praticamente não cicatrizam se rompidos sozinhos.
 
-| Conceito A | Conceito B | Diferencial para Prova |
+A Uninove foca na **Classificação Estrutural**. Lembre-se: **Sindesmose** é tipo Membrana (entre rádio e ulna). A base do crânio é cheia de **Suturas** fibróticas que não podem mover para proteger o cérebro. Outro ponto forte de pegadinha é a base do dedo da mão: o **Polegar** é uma articulação em **Sela** (permite oposição, o que nos faz humanos).
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Gínglimo** | **Trocoide** | Dobradiça vs **Pivô (Giro)** |
-| **Menisco** | **Bursa** | Amortezedor de carga vs Sacos de lubrificação |
-| **Sindesmose** | **Sutura** | Membrana entre ossos vs Serreado craniano |
-| **Plana** | **Selar** | Apenas desliza vs Encaixe côncavo-convexo |
+| **Fibrosa** | **Sináptica** | Pegadinha; a junção óssea fibrótica é **Sinartrose**, não sinapse. |
+| **Luxação** | **Entorse** | Deslocamento **Total/Perfeito** do osso vs Apenas **Estiramento** Ligamentar |
+| **Menisco** | **Bursa** | Amortezedor de carga **Intra-articular** vs "Almofada" **Extra-articular** |
+| **Gínglimo** | **Trocoide** | Movimento em **Dobradiça/Porta** vs Movimento no próprio **Eixo/Pivô** |
+| **Hialina** | **Fibrocartilagem**| Capa de vidro **lisa** dos ossos vs **Amortecedor/Disco** resistente |
 
 ### Frase-âncora para não esquecer
 
-> “Sinovial = cavidade + líquido; o resto é união mais rígida.”
+> "Onde há vida há atrito, e a sinovial vem para lubrificar. Esferoide baila em 3D, gínglimo abre a porta num vai e vem. No limite entre mobilidade e fratura, a estabilidade e o ligamento ditam a postura."

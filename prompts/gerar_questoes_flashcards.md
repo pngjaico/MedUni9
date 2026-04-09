@@ -139,40 +139,29 @@ Evitar “caso clínico fake” genérico sem dado clínico real.
 
 ### Explicação obrigatória (alternativa por alternativa + resumo geral)
 
-Campo `explicacao` deve conter:
+O campo `explicacao` deve ser estruturado de forma que o app possa processar o resumo e as justificativas individuais.
 
-1. Um resumo curto do raciocínio.
-2. Julgamento de cada alternativa no formato abaixo:
+**Regras de Redação:**
+1. **Resumo Geral**: Mínimo 100 caracteres; explica a lógica central da questão e o mecanismo fisiopatológico.
+2. **Justificativa por Alternativa**: Descrever objetivamente por que cada uma das 4 opções está CORRETA ou INCORRETA.
+3. **Transcrição Fiel (PDF)**: No caso de extração de provas, nunca resumir o conteúdo original. Transcrever palavra por palavra.
+4. **Proibido Placeholders**: É terminantemente proibido usar frases como "Alternativa incorreta" ou "Não é esta". Cada justificativa deve ser técnica.
 
-```text
-Resumo: [mecanismo clínico/fisiopatológico central em 1-2 frases].
-A) INCORRETA. [motivo objetivo].
-B) CORRETA. [justificativa objetiva].
-C) INCORRETA. [motivo objetivo].
-D) INCORRETA. [motivo objetivo].
-```
-
-Regra: explicar a correta e todas as erradas, sem deixar alternativa sem comentário.
-
-### Estrutura recomendada para o app (preferencial)
-
-Além de `explicacao` em texto, quando possível incluir:
-
+**Estrutura de Dados (JSON):**
 ```json
-"caso_clinico": false,
 "explicacao_geral": "Resumo curto do raciocínio da questão.",
 "explicacoes_opcoes": {
-  "A": "Motivo da alternativa A.",
-  "B": "Motivo da alternativa B.",
-  "C": "Motivo da alternativa C.",
-  "D": "Motivo da alternativa D."
+  "A": "[INCORRETA]. Motivo específico baseado no conteúdo médico.",
+  "B": "[CORRETA]. Justificativa técnica da veracidade da afirmação.",
+  "C": "[INCORRETA]. Motivo do erro ou confusão comum.",
+  "D": "[INCORRETA]. Motivo do erro técnico."
 }
 ```
 
 Regras:
 - `explicacao_geral` deve existir sempre.
-- `explicacoes_opcoes` deve cobrir as 4 letras.
-- Após resposta do aluno (certa ou errada), o app deve mostrar `explicacao_geral` + explicações das 4 alternativas.
+- `explicacoes_opcoes` deve cobrir as 4 alternativas (A, B, C, D).
+- Cada explicação de alternativa deve começar com [CORRETA] ou [INCORRETA].
 
 ---
 

@@ -1,169 +1,92 @@
-# ST — Aula 2: Normas Regulamentadoras e prevenção no cotidiano assistencial
+# ST — Aula 2: Normas Regulamentadoras e o Dia a Dia Médico
 
-**Disciplina:** Saúde do trabalhador  
-**Módulo:** 3
+As Normas Regulamentadoras (NRs) são o "código de conduta" da Saúde do Trabalhador. Na prova, os temas centrais são a aplicação prática das normas mais comuns (**NR-7, NR-17 e NR-32**) e a compreensão da **Hierarquia de Controle**, que prioriza a proteção de todos antes da proteção individual.
+
+Na prática, o médico deve usar as NRs como ferramentas de defesa. Se um paciente chega ferido porque a máquina não tinha proteção, você deve saber que a empresa falhou em uma norma básica. Conhecer as NRs permite que você oriente o paciente sobre seus direitos e ajude a prevenir que outros colegas dele sofram o mesmo acidente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As Normas Regulamentadoras (NRs) organizam prevenção de riscos ocupacionais.
-Na graduação, o erro clássico é decorar número de NR sem traduzir em decisão clínica.
-Em prova, a banca geralmente apresenta caso concreto e pergunta a medida mais efetiva.
-
-Na prática médica, compreender NR evita condutas fragmentadas.
-Também melhora comunicação com vigilância e equipe multiprofissional.
-O resultado esperado é redução de recorrência de agravos no mesmo ambiente de trabalho.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A2-F01`
 
-- **Momento:** após a seção de relevância.
-- **O que mostrar:** mapa de integração entre NR-1, NR-6, NR-7, NR-17 e NR-32.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "NRs prioritárias na avaliação clínica ocupacional."
+- **Momento:** Seção de Hierarquia de Controle (NR-1).
+- **O que mostrar:** A "Pirâmide Invertida": No topo (mais importante), a **Eliminação** do risco. No meio, as **Medidas de Engenharia** (EPCs - Equipamentos de Proteção Coletiva). Na base (menos eficaz, usado apenas se nada mais funcionar), o **EPI** (Equipamento de Proteção Individual).
+- **Tipo sugerido:** Infográfico didático | Esquema de pirâmide.
+- **Legenda (rascunho):** Hierarquia das medidas de controle de riscos ocupacionais conforme a NR-1.
+
+## 1. NR-1 e a Hierarquia de Controle
+
+A NR-1 diz que o médico e a empresa não devem apenas "dar uma máscara" ao trabalhador. Existe uma ordem obrigatória de proteção:
+1.  **Eliminação/Substituição:** Tirar o perigo do local (ex: trocar um produto tóxico por um inofensivo).
+2.  **Proteção Coletiva (EPC):** Instalar um exaustor ou uma barreira na máquina que proteja todo mundo ao mesmo tempo.
+3.  **Medidas Administrativas:** Rodízio de funcionários e pausas para diminuir o tempo de exposição.
+4.  **Proteção Individual (EPI):** Usar luvas, botas e capacetes. É a **Última Escolha** quando as outras não bastam.
 
 ---
 
-## NR-1 como base do gerenciamento de risco
+## 2. PCMSO (NR-7): O Olhar Médico na Empresa
 
-NR-1 define lógica de gerenciamento de riscos ocupacionais.
-Isso significa sair da resposta pontual e pensar em prevenção estruturante.
-Quando o mesmo agravo se repete em trabalhadores de um setor, a falha tende a ser de processo.
-
-Conduta alinhada à NR-1 valoriza hierarquia de controle:
-
-1. eliminar ou substituir a fonte de risco;
-2. adotar medidas de engenharia e organização;
-3. complementar com proteção individual.
-
-> **Dica de Prova:** se a questão fala em recorrência coletiva, priorize intervenção no processo de trabalho.
+O Programa de Controle Médico de Saúde Ocupacional é o "prontuário da empresa".
+- **Objetivo:** Prevenir, rastrear e diagnosticar precocemente as doenças do trabalho.
+- **Exames Obrigatórios:** Admissional (antes de começar), Periódico (durante o contrato), de Retorno ao Trabalho (após doença/parto), de Mudança de Riscos e o Demissional.
+- **ASO (Atestado de Saúde Ocupacional):** É o documento que diz se o trabalhador está **Apto ou Inapto** para aquela função específica.
 
 ---
 
-## NR-6 e eficácia real de EPI
+## 3. Ergonomia (NR-17): Muito além da Cadeira
 
-EPI não é só entrega de equipamento.
-É necessário verificar adequação ao agente, treinamento, ajuste, conservação e adesão.
-Sem esses elementos, a proteção é aparente e não efetiva.
-
-Exemplo prático:
-
-- luva inadequada para solvente orgânico pode aumentar risco por falsa sensação de segurança;
-- protetor auricular mal ajustado reduz proteção contra ruído;
-- máscara incompatível com tipo de aerossol não previne exposição crítica.
-
-> **Pegadinha:** alternativa que diz "fornecer EPI" pode estar incompleta se não houver treinamento e monitoramento de uso.
+A ergonomia estuda a adaptação do trabalho ao homem, não o contrário.
+- **Foco:** Evitar as LER/DORT (Lesões por Esforços Repetitivos).
+- **O que a NR-17 protege:** Postura sentada ou em pé, levantamento de peso, iluminação, ruído e, principalmente, a **Organização do Trabalho** (metas abusivas e ritmo acelerado que causam estresse mental).
 
 ---
 
-## NR-7, NR-9 e vigilância orientada por exposição
+## 4. NR-32: A Nossa Norma (Saúde)
 
-NR-7 (PCMSO) e NR-9 se complementam.
-A avaliação médica periódica precisa dialogar com risco real do ambiente.
-Não é check-up genérico; é vigilância direcionada.
-
-### Tabela útil: exposição e monitoramento
-
-| Exposição predominante | Achado clínico esperado | Ação de vigilância |
-|------------------------|-------------------------|--------------------|
-| ruído crônico | piora auditiva progressiva | audiometria seriada e controle da fonte |
-| solvente volátil | cefaleia, tontura, irritação | reduzir exposição e revisar barreiras |
-| repetição e força | dor em membro superior | plano ergonômico e reabilitação |
-| material biológico | acidente perfurocortante | protocolo pós-exposição e seguimento |
-
-Essa integração entre norma e clínica é altamente cobrada em questões integradas de saúde coletiva.
-
----
-
-## NR-17: ergonomia além da postura
-
-NR-17 aborda desenho de tarefa, ritmo, pausa, mobiliário e carga cognitiva.
-Reduzir DORT depende de organização do trabalho, não apenas de correção postural individual.
-
-Sinais de alerta no serviço:
-
-- aumento de afastamentos por dor musculoesquelética;
-- queixa de dor ao fim do turno com melhora parcial em folgas;
-- baixa autonomia sobre ritmo de tarefa;
-- metas incompatíveis com segurança operacional.
-
-Medidas iniciais combinam cuidado clínico e intervenção ocupacional.
-Sem essa dupla abordagem, há ciclo de melhora curta com recaída frequente.
-
----
-
-## NR-32 e proteção de trabalhadores da saúde
-
-NR-32 é central para ambientes assistenciais.
-Seu foco inclui risco biológico, químico, físico e psicossocial.
-Em prova, acidente com agulha e exposição de mucosa são cenários clássicos.
-
-Conduta inicial em exposição biológica:
-
-1. cuidado local imediato;
-2. estratificação do risco;
-3. testagem conforme protocolo;
-4. avaliação de profilaxia pós-exposição;
-5. seguimento clínico-laboratorial.
-
-Falhas comuns: atraso, subregistro e orientação incompleta para seguimento.
-
-### Figura sugerida
-
-**Figura-ID:** `ST-A2-F02`
-
-- **Momento:** após a seção de NR-32.
-- **O que mostrar:** linha temporal da conduta pós-exposição (0h, 24h, seguimento).
-- **Tipo sugerido:** infográfico.
-- **Legenda (rascunho):** "Conduta inicial e seguimento em acidente com material biológico."
+Esta é a norma mais importante para médicos e enfermeiros, pois foca nos riscos do ambiente hospitalar.
+- **Riscos Biológicos:** Determina o uso de luvas, aventais e o descarte correto de **Perfurocortantes** (agulhas e bisturis).
+- **Regra de Ouro:** Proibição de **Reencapar Agulhas** e proibição do uso de adornos (anéis, pulseiras, relógios) para evitar que carreguem bactérias para fora do hospital.
 
 ---
 
 ## Ponte com a Clínica
 
-Técnica de enfermagem de 27 anos sofre acidente com perfurocortante em plantão de alta demanda.
-Além da conduta imediata, a investigação do evento mostra descarte inadequado de perfurocortantes e sobrecarga de equipe.
-A resposta completa inclui manejo clínico e correção do processo de trabalho, alinhada à NR-32 e NR-1.
+No pronto-socorro, se você atender um colega médico ou enfermeiro que se furou com uma agulha de um paciente com HIV ou Hepatite, a conduta deve ser imediata. Siga o protocolo da **NR-32**: lave com água e sabão (nunca use álcool ou água sanitária no furo), avalie o risco do paciente fonte e inicie a **Profilaxia Pós-Exposição (PEP)** preferencialmente nas primeiras **2 horas**. O registro do acidente biológico em prontuário e a emissão de CAT são passos fundamentais para a segurança do profissional.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- NR-1 orienta prevenção estruturante por hierarquia de controle;
-- NR-6 exige eficácia real de EPI, não só fornecimento;
-- NR-7 e NR-9 vinculam vigilância clínica à exposição;
-- NR-17 trata organização do trabalho e carga ergonômica;
-- NR-32 organiza resposta segura em serviços de saúde.
+- **Hierarquia de Controle**: EPC (Coletivo) sempre vem antes do EPI (Individual).
+- **Adornos Proibidos**: A NR-32 proíbe anéis e brincos para todos que trabalham em áreas de risco biológico.
+- **ASO**: O documento final de cada exame médico ocupacional; deve ser emitido em duas vias.
+- **Mudança de Riscos**: Exame obrigatório quando o trabalhador muda de setor e passa a ter novos perigos.
+- **Reencape de Agulhas**: Prática expressamente proibida pela NR-32 para evitar acidentes.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-A banca cobra aplicação prática de NR em cenário clínico.
-Você acerta quando identifica risco predominante, escolhe medida de maior impacto e integra cuidado imediato com prevenção.
+Para gabaritar Normas Regulamentadoras, foque na segurança. 
+**EPC > EPI** sempre. Se a questão pergunta qual a melhor medida para proteger contra ruído, a resposta certa é isolar a máquina (EPC), não dar protetor de ouvido (EPI). No hospital, a norma é a **NR-32**: proteção contra agulhas e proibição de anéis/relógios.
 
-NR-1, NR-6, NR-7, NR-17 e NR-32 formam o núcleo mais frequente.
-Questões com repetição de agravos no mesmo setor costumam exigir resposta coletiva e organizacional.
-Questões com acidente biológico cobram protocolo inicial sem demora.
-
-Se a alternativa focar apenas no indivíduo e ignorar o processo de trabalho, desconfie.
-Em saúde do trabalhador, prevenir recorrência é parte da conduta correta.
+A Uninove adora o **PCMSO (NR-7)**. Lembre-se: o exame demissional deve ser feito em até 10 dias após o desligamento (se o último periódico for antigo). Outro ponto forte: o exame de **Mudança de Riscos** é feito antes de o trabalhador assumir a nova função. Por fim, saiba que a **NR-17** foca no ajuste do trabalho ao corpo humano, visando evitar dores e burnout por excesso de carga mental ou física.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Entrega de EPI | Proteção efetiva | proteção efetiva exige adequação, treino e adesão |
-| Exame periódico genérico | Vigilância dirigida por risco | vigilância dirigida depende da exposição real |
-| Falha individual | Falha organizacional | recorrência coletiva sugere falha organizacional |
-| Atendimento do dano | Prevenção de recorrência | o segundo exige mudança no processo de trabalho |
+| **EPC** | **EPI** | Protege a **Máquina/Ambiente** vs Protege a **Pessoa** |
+| **NR-7** | **NR-32** | Exames de **Todos** os trabalhadores vs Regras de **Hospitais** |
+| **Apto** | **Apto com Restrições** | Pode fazer **Tudo** vs Pode fazer quase tudo (Cuidado!) |
+| **Admissional** | **Periódico** | **Antes** de entrar vs **Durante** o tempo de casa |
+| **Carga Física** | **Carga Cognitiva** | Peso e Postura (**Lombalgia**) vs Estresse e Metas (**Burnout**) |
 
 ### Frase-âncora para não esquecer
 
-> "NR sem aplicação prática vira decoreba; com clínica, vira prevenção."
+> "O EPC salva o grupo, o EPI salva o indivíduo. No hospital, obedeça a NR-32: agulha no descarte e braço sem adorno. Ajuste o trabalho ao homem e a saúde não será o preço da produção."

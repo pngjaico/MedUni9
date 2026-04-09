@@ -1,123 +1,95 @@
-# MAD2 — Aula 7: Doenças Exantemáticas Virais (Sarampo, Rubéola)
+# MAD2 — Aula 7: Doenças Exantemáticas Virais (Sarampo e Rubéola)
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+As doenças exantemáticas são aquelas que "pintam" a pele da criança ou do adulto. Na prova, os temas centrais são a diferenciação entre o **Sarampo** (muito grave e barulhento) e a **Rubéola** (mais silenciosa, mas perigosa para gestantes), além da importância do calendário vacinal.
+
+Na prática, o médico deve saber reconhecer os sinais de alerta de um surto de sarampo e proteger as mulheres grávidas contra a rubéola, que pode causar danos irreversíveis ao feto.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Exantema viral parece um tema pediátrico simples até o estudante perceber que ele mistura clínica, infectologia, epidemiologia e vacinação em uma única questão. Sarampo e rubéola são ensinados juntos porque compartilham a presença de rash, mas a semelhança para por aí. O que a prova quer saber é se você consegue diferenciar padrão clínico, gravidade e impacto coletivo.
-
-Isso importa muito no Brasil porque essas doenças não são apenas capítulos históricos. Baixa cobertura vacinal, surtos e risco gestacional mantêm o tema vivo. Na prática, reconhecer cedo o padrão certo muda isolamento, vigilância e orientação de contato.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação clínica.
+- **O que mostrar:** O "Duelo dos Exantemas": De um lado, o **Sarampo** com olhos vermelhos, febre alta e as manchas de **Koplik** na boca. Do outro, a **Rubéola** com febre baixa e ínguas (**Linfonodos**) inchadas atrás da orelha e na nuca.
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Sinais patognomônicos e diferenciais entre Sarampo e Rubéola.
 
+## 1. Sarampo: A Virose Explosiva
 
-
+O sarampo é uma das doenças mais contagiosas que existem. Ele não começa com as manchas na pele, mas com sintomas de um "resfriado forte".
+- **Pródromo (Antes das manchas):** Febre muito alta, tosse seca, coriza e **Conjuntivite** (olhos vermelhos e sensíveis à luz).
+- **Sinal de Koplik:** Pequenos pontos brancos na parte interna da bochecha. Se você vir isso, o diagnóstico de sarampo está fechado mesmo antes das manchas surgirem.
+- **Exantema (Manchas):** Começa atrás da orelha e na testa e desce para o corpo (**Craniocaudal**). As manchas "se juntam" e a pele fica bem vermelha.
+- **Complicação:** A principal causa de morte por sarampo é a **Pneumonia**.
 
 ---
 
-## Sarampo: a virose exantemática que nunca deve ser subestimada
+## 2. Rubéola: A Ameaça Silenciosa
 
-Sarampo costuma começar com pródromo marcante: febre alta, tosse, coriza e conjuntivite. Esse pródromo é muito mais forte do que o de várias viroses exantemáticas comuns, e esse detalhe costuma aparecer como pista em prova. Depois, surge o exantema, geralmente em progressão típica craniocaudal.
+A rubéola é muito mais "leve" que o sarampo no paciente comum, mas é uma tragédia em gestantes.
+- **Sinais Clínicos:** Febre baixa, mal-estar e um achado clássico: **Linfonodos palpáveis** atrás da orelha (retroauriculares) e na nuca (occipitais).
+- **O Perigo Real:** Se uma grávida pegar rubéola, o vírus atravessa a placenta e causa a **Síndrome da Rubéola Congênita (SRC)**. O bebê pode nascer cego (catarata), surdo ou com problemas graves no coração.
 
-O erro clássico é enxergar apenas o rash e ignorar o contexto respiratório intenso. Em sarampo, o quadro sistêmico e a alta transmissibilidade pesam muito. Não é uma "mancha na pele"; é uma doença potencialmente grave, com complicações respiratórias, neurológicas e nutricionais em pacientes vulneráveis.
+---
 
-> **Dica de Prova:** febre alta + tosse + conjuntivite + exantema é combinação muito mais sugestiva de sarampo do que de rubéola.
+## 3. Prevenção: A Vacina é a Única Arma
 
-> **Pegadinha:** achar que melhora parcial da febre exclui sarampo. O diagnóstico depende do conjunto clínico e epidemiológico, não de um sintoma isolado.
+Ambas as doenças são prevenidas pela vacina **Tríplice Viral** (Sarampo, Caxumba e Rubéola).
+- **Bloqueio:** Quando surge um caso suspeito em uma escola ou creche, devemos fazer a vacinação de bloqueio em todos os contatos em até 72 horas para impedir o surto.
+- **Isolamento:** Pacientes com sarampo devem ficar em isolamento respiratório por aerois (máscara N95 para o médico) até 4 dias após o surgimento das manchas.
 
-## Rubéola: quadro mais brando, risco muito maior na gestação
+---
 
-Rubéola costuma ter apresentação mais suave, com febre baixa ou ausente, linfonodomegalia e exantema menos dramático. O grande peso clínico da doença não está na intensidade do quadro do paciente comum, mas no risco de síndrome congênita quando ocorre em gestante, especialmente em fases precoces da gravidez.
+## 4. Diferenças Cruciais para não errar
 
-Esse é o motivo pelo qual rubéola costuma ser cobrada em contexto obstétrico e epidemiológico. O estudante precisa entender que doença aparentemente leve para a mãe pode ser devastadora para o feto. É uma aula sobre contraste entre gravidade clínica individual e gravidade populacional/reprodutiva.
+| Característica | Sarampo | Rubéola |
+|----------------|---------|---------|
+| **Febre** | Muito Alta | Baixa ou ausente |
+| **Estado Geral** | Paciente parece muito doente | Paciente parece bem (bom estado geral) |
+| **Olhos** | Conjuntivite intensa | Sem conjuntivite importante |
+| **Boca** | Manchas de Koplik | Manchas de Forchheimer (pontos vermelhos no palato) |
+| **Linfonodos** | Inespecíficos | **Atrás da orelha e nuca** (Marcante) |
 
-> **Dica de Prova:** exantema em gestante sem comprovação vacinal sempre deve acender preocupação com rubéola e risco fetal.
-
-## Exantema é só a ponta do raciocínio: contexto epidemiológico decide muito
-
-Em doenças exantemáticas, a história de contato, o estado vacinal, a presença de surto e a idade do paciente mudam muito a probabilidade diagnóstica. Isso faz diferença porque, em prova, os sinais podem ser propositalmente sobrepostos. O que destrava a questão é o contexto.
-
-Contato escolar, ausência de vacinação e pródromo respiratório forte puxam para sarampo. Gestante suscetível com rash e adenopatia muda o centro do raciocínio para rubéola. A clínica continua importante, mas a epidemiologia organiza a interpretação.
-
-| Achado clínico/epidemiológico | Sarampo | Rubéola | Como diferenciar melhor |
-|-------------------------------|---------|---------|--------------------------|
-| Febre alta e pródromo intenso | Muito comum | Menos exuberante | Sarampo costuma ser mais tóxico |
-| Tosse, coriza e conjuntivite | Marcantes | Menos típicos | Tríade respiratória pesa para sarampo |
-| Linfonodomegalia | Pode ocorrer | Muito lembrada | Rubéola costuma chamar atenção por adenopatia |
-| Risco gestacional | Indireto | Muito relevante | Rubéola pesa pelo risco congênito |
-
-## Complicações: onde mora a gravidade real
-
-No sarampo, a gravidade costuma vir de complicações respiratórias, desidratação, piora nutricional e, em alguns casos, acometimento neurológico. Em paciente vulnerável, o problema não é apenas a infecção viral inicial, mas a cascata de complicações que ela desencadeia.
-
-Na rubéola, a principal gravidade é fetal quando a infecção acontece na gestação. O estudante que tenta medir as duas doenças só pela intensidade dos sintomas do paciente da questão perde o ponto central do tema. Gravidade pode significar risco de complicação individual ou impacto sobre terceiro vulnerável, como o feto.
-
-> **Pegadinha:** quadro brando não significa baixo risco global. Rubéola em gestante é o melhor exemplo disso.
-
-## O papel da vacinação e do bloqueio de surto
-
-Essa aula tem forte componente de prevenção. Em sarampo e rubéola, vacinação muda completamente o cenário epidemiológico. Por isso, a prova frequentemente inclui estado vacinal não como detalhe decorativo, mas como pista decisiva para probabilidade diagnóstica e medida de saúde pública.
-
-A lógica é simples: doença altamente transmissível em ambiente coletivo exige resposta além do cuidado individual. Isolamento, vigilância e bloqueio vacinal entram no raciocínio. Quem responde apenas "tratar sintoma e alta" perde a dimensão real do problema.
-
-## Como a questão costuma ser montada
-
-A estrutura clássica é comparar dois exantemas por pródromo, estado vacinal e repercussão especial. Outra forma comum é apresentar gestante com exantema e perguntar qual é o principal risco clínico. Nessas situações, a resposta certa quase sempre vem de uma leitura combinada entre clínica e epidemiologia.
-
-A melhor ordem de raciocínio é: intensidade do pródromo, padrão de sintomas respiratórios, presença de adenopatia, situação vacinal e contexto epidemiológico. Esse roteiro resolve a maior parte das alternativas.
+---
 
 ## Ponte com a Clínica
 
-No mundo real, reconhecer sarampo e rubéola cedo não é apenas fazer diagnóstico bonito. É impedir transmissão, proteger gestantes, orientar contatos e evitar surtos. Em doenças exantemáticas, o olhar clínico individual precisa caminhar junto com responsabilidade coletiva.
+No pronto-atendimento, o médico deve estar atento: se chegar uma criança com febre alta e tosse, e você notar que os olhos dela estão vermelhos e lacrimejando, olhe dentro da boca! As **Manchas de Koplik** são a "assinatura" do sarampo e aparecem antes das manchas no corpo. Notificar um caso suspeito de sarampo imediatamente pode evitar que centenas de outras pessoas adoeçam, já que o vírus fica suspenso no ar por horas.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Sarampo:** costuma ter pródromo mais intenso e respiratório.
-- **Conjuntivite + tosse + febre alta:** reforçam hipótese de sarampo.
-- **Rubéola:** costuma ser mais branda no indivíduo não gestante.
-- **Rubéola na gestação:** tem alto peso por risco congênito.
-- **Estado vacinal:** é peça diagnóstica e epidemiológica central.
-- **Surto escolar:** aumenta importância de sarampo no diferencial.
-- **Exantema sozinho:** não resolve a questão sem contexto clínico.
-- **Prevenção vacinal:** é parte do raciocínio da aula.
+- **Manchas de Koplik**: Sinal patognomônico do sarampo (pontos brancos na bochecha).
+- **Tríade do Sarampo**: Tosse + Coriza + Conjuntivite.
+- **Linfonodomegalia Retroauricular**: Clássica da rubéola.
+- **Síndrome da Rubéola Congênita**: Catarata, surdez e cardiopatia (Tríade de Gregg).
+- **Vacinação de Bloqueio**: Deve ser feita em até 72 horas após o contato suspeito.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Doenças Exantemáticas, olhe para a febre e para os olhos. 
+**Febre alta + conjuntivite + tosse** = Sarampo. **Febre baixa + íngua atrás da orelha** = Rubéola. Lembre-se que o sarampo deixa o paciente "derrubado", enquanto na rubéola a criança costuma estar brincando normalmente. Na boca, Koplik (sarampo) é branco; Forchheimer (rubéola) é vermelho.
 
-Febre alta + tosse: pensar em sarampo. Gestante com rash: lembrar de rubéola. Pródromo forte: pesa para sarampo.
-
-Quadro brando: não exclui risco importante. Estado vacinal: muda probabilidade diagnóstica. Surto coletivo: exige vigilância e bloqueio.
-
-Rubéola congênita: é ponto central de prova. Exantema viral: sempre pede contexto epidemiológico.
+A Uninove adora cobrar sobre a **Gestante**. Se a questão trouxer uma gestante com rash, a primeira preocupação é rubéola por causa da catarata e surdez do bebê. No sarampo, a vitamina A é usada no tratamento para reduzir complicações graves e mortalidade. Por fim, saiba que as manchas do sarampo descamam após alguns dias, deixando a pele com um aspecto "sujo" (descamação furfurácea).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Sarampo | Rubéola | Sarampo tende a pródromo respiratório mais intenso |
-| Exantema viral comum | Sarampo | Sarampo pesa por febre alta, conjuntivite e transmissibilidade |
-| Quadro leve em gestante | Baixo risco fetal | Em rubéola, leveza materna não reduz risco congênito |
-| Diagnóstico clínico isolado | Raciocínio clínico-epidemiológico | Exantema exige leitura do contexto vacinal e de contato |
+| **Manchas de Koplik** | **Manchas de Forchheimer** | **Brancas** (Sarampo) vs **Vermelhas** (Rubéola) |
+| **Sarampo** | **Roséola (Exantema Súbito)** | Febre sobe com o rash vs **Febre some e o rash aparece** |
+| **Tríplice Viral** | **Tetra Viral** | Protege contra 3 doenças vs Protege contra 4 (+ Varicela) |
+| **Aerossóis (N95)** | **Gotículas** | Sarampo (voa longe) vs Rubéola (contato mais próximo) |
+| **Pneumonia** | **Catarata Congênita** | Principal morte no **Sarampo** vs Principal sequela na **Rubéola** |
 
 ### Frase-âncora para não esquecer
 
-> "No exantema viral, o rash aparece na pele, mas a resposta certa nasce do contexto."
+> "Sarampo é fogo alto, tosse e olho vermelho; Koplik na boca é o sinal do espelho. Rubéola é íngua na nuca e febre baixinha; o perigo real mora na barriga da mãezinha."

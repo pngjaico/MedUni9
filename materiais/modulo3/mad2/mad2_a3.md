@@ -1,133 +1,91 @@
 # MAD2 — Aula 3: Autoimunidade
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+A autoimunidade é o cenário onde o sistema de defesa "perde a bússola" e passa a atacar o próprio corpo como se fosse um invasor. Na prova, os temas centrais são a diferença entre doenças **Sistêmicas** e **Órgão-específicas**, e os mecanismos de dano: se o problema são os **Autoanticorpos** ou os **Linfócitos T**.
+
+Na prática, o médico deve ser capaz de identificar quando sintomas genéricos (como cansaço e dor articular) escondem um ataque silencioso aos rins, sangue ou glândulas, agindo antes que o dano seja permanente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Autoimunidade é o tema em que imunologia encontra o consultório de forma mais direta. É aqui que você entende por que o organismo, que deveria proteger, passa a atacar tecido próprio de maneira crônica. Para quem está estudando medicina, isso muda completamente o olhar sobre sintomas que parecem soltos, como fadiga, artralgia, rash, queda de função renal ou alterações hematológicas sem causa infecciosa evidente.
-
-Na Uninove, os professores costumam cobrar autoimunidade por raciocínio de mecanismo, não por lista de doenças. A pergunta típica não é apenas "qual diagnóstico", mas "qual tipo de resposta imune está causando dano". Quem aprende essa camada mecanística acerta melhor prova e toma decisões clínicas mais seguras.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismos de dano.
+- **O que mostrar:** O "Esquema da Traição": De um lado, anticorpos atacando células do sangue ou receptores (**Dano Direto**). Do outro, complexos de anticorpos e proteínas entupindo os vasos do rim (**Imunocomplexos**).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Diferentes formas de agressão autoimune ao organismo.
 
+## 1. Doenças Sistêmicas vs Órgão-Específicas
 
-
+- **Sistêmicas (Ex: Lúpus):** O corpo produz anticorpos contra coisas que existem em todas as células (como o DNA). Por isso, o ataque atinge pele, articulações, rins e sangue ao mesmo tempo.
+- **Órgão-Específicas (Ex: Diabetes Tipo 1 ou Tireoidite):** O ataque é focado em um único alvo. No Diabetes, o sistema imune destrói apenas as células do pâncreas que produzem insulina.
 
 ---
 
-## O que transforma defesa em agressão: perda de tolerância com inflamação sustentada
+## 2. Mecanismos de Agressão: Como o corpo se machuca
 
-A base da autoimunidade é a quebra de tolerância contra autoantígenos. Isso não acontece por um único motivo. Em geral, existe uma soma entre predisposição genética, gatilho ambiental e ambiente inflamatório que permite ativação de clones autorreativos. O processo começa silencioso e pode levar meses ou anos até gerar síndrome clínica clara.
+Existem três formas principais de o sistema imune causar estrago:
+1.  **Imunocomplexos:** São "bolos" de anticorpos grudados em antígenos que circulam no sangue e entopem pequenos vasos, causando inflamação no rim (**Glomerulonefrite**) ou na pele.
+2.  **Ataque Direto (Citotóxico):** O anticorpo gruda na célula (ex: hemácia) e manda o sistema imune destruí-la na hora, causando **Anemia Autoimune**.
+3.  **Bloqueio de Função:** O anticorpo não destroi a célula, mas "entope" o receptor de carga dela (ex: na Miastenia Gravis, ele bloqueia o receptor de movimento do músculo).
 
-Quando essa ativação se mantém, o tecido-alvo vira fonte contínua de antígeno e de sinal inflamatório. Forma-se um ciclo: lesão libera mais antígenos, que alimentam mais resposta imune, que gera mais lesão. Esse ciclo é o que explica cronificação e surtos recorrentes.
+---
 
-> **Dica de Prova:** autoimunidade não é evento agudo isolado; a marca é **inflamação persistente com alvo próprio**.
+## 3. O Diagnóstico: Clínica x laboratório
 
-> **Pegadinha:** atribuir todo autoanticorpo positivo a doença ativa. Sorologia isolada não define atividade sem correlação clínica e inflamatória.
+Cuidado com a pegadinha: ter o exame positivo (como o FAN) não significa que o paciente tem a doença.
+- **FAN Positivo:** Muitas pessoas saudáveis têm FAN positivo em títulos baixos. O diagnóstico exige **Sintomas Clínicos**.
+- **Marcadores de Inflamação:** Exames como o PCR e o VHS dizem se a "guerra" está ativa no momento, ajudando a decidir se é hora de aumentar o remédio.
+- **Função do Órgão:** O mais importante é ver se o órgão está sofrendo (ex: dosar creatinina para ver o rim).
 
-## Dois caminhos principais de dano: autoanticorpo e linfócito T
+---
 
-Em alguns quadros, o autoanticorpo é protagonista. Ele pode formar imunocomplexos, ativar complemento, opsonizar células ou até alterar função de receptor sem destruir tecido diretamente. Em outros, o principal mecanismo é celular, com linfócitos T sustentando inflamação e citotoxicidade local.
+## 4. Tratamento: A Escada da Imunossupressão
 
-Na prática, muitos pacientes têm sobreposição de mecanismos. O que muda entre as doenças é o peso relativo de cada braço e o tecido mais vulnerável. Entender isso ajuda a interpretar exame, prever complicação e escolher tratamento com melhor alvo.
+O tratamento busca silenciar o ataque sem deixar o paciente sem defesa nenhuma.
+- **Crise Aguda:** Usamos doses altas de **Corticoides** para "apagar o incêndio" rápido.
+- **Manutenção:** Usamos remédios "poupadores de corticoide" que mantêm a imunidade sob controle no dia a dia com menos efeitos colaterais.
+- **Biológicos:** São remédios modernos que miram apenas a "arma" específica que está causando o dano, poupando o resto do sistema.
 
-| Mecanismo dominante | Como causa dano | Padrão clínico mais comum | Exemplo clássico de cobrança |
-|---------------------|-----------------|---------------------------|-------------------------------|
-| Imunocomplexos | Depósito tecidual + complemento | Quadro sistêmico com múltiplos órgãos | Rash + artrite + nefrite |
-| Autoanticorpo citotóxico | Opsonização/ lise celular | Alterações hematológicas ou teciduais específicas | Citopenia autoimune |
-| Autoanticorpo funcional | Bloqueio/estimulação de receptor | Disfunção orgânica sem destruição intensa inicial | Alteração endócrina autoimune |
-| Linfócito T autorreativo | Inflamação e citotoxicidade local | Doença órgão-específica progressiva | Lesão tecidual crônica localizada |
-
-## Sistêmica versus órgão-específica: como não errar o enquadramento
-
-Doença autoimune sistêmica costuma combinar manifestações em mais de um sistema, com sinais constitucionais e inflamação laboratorial mais difusa. Já a autoimunidade órgão-específica concentra dano em um alvo principal, com repercussão secundária posterior.
-
-Esse enquadramento não é só didático. Ele organiza sua hipótese, define quais exames pedem prioridade e orienta monitorização. Em caso sistêmico, você rastreia dano multiorgânico desde cedo. Em caso órgão-específico, aprofunda avaliação funcional do órgão-alvo sem perder vigilância para expansão do quadro.
-
-> **Dica de Prova:** quando o enunciado traz pele, articulação e rim juntos, pense primeiro em padrão sistêmico por imunocomplexo.
-
-## Leitura de exames sem decorar painel inteiro
-
-Exame em autoimunidade precisa responder perguntas clínicas reais: há inflamação ativa? qual órgão está sofrendo? há risco de dano irreversível? Pedir painel amplo sem hipótese só aumenta ruído e falso positivo.
-
-Marcadores gerais de inflamação ajudam contexto, mas não fecham diagnóstico. Autoanticorpos aumentam probabilidade quando combinados com fenótipo clínico coerente. Já exame de função de órgão (renal, hepática, hematológica, endocrinológica) é o que define urgência de conduta em muitos cenários.
-
-Na prova, a armadilha comum é oferecer marcador altamente sensível, porém pouco específico, e induzir fechamento precipitado. O caminho correto é integrar clínica, padrão temporal e órgão em risco.
-
-| Situação do enunciado | Erro frequente | Leitura correta |
-|-----------------------|----------------|-----------------|
-| Autoanticorpo positivo em paciente assintomático | Diagnosticar doença ativa imediata | Acompanhar contexto clínico e evolução |
-| PCR elevada isolada | Fechar autoimunidade por inflamação inespecífica | Inflamação não define etiologia sozinha |
-| Queda de função renal + sinais sistêmicos | Tratar só sintoma articular | Priorizar risco de lesão de órgão-alvo |
-| Melhora parcial com corticoide curto | Declarar remissão sustentada | Remissão exige monitorização longitudinal |
-
-## Tratamento é controle de atividade e proteção de órgão
-
-Em autoimunidade, terapêutica é sempre um equilíbrio entre controlar inflamação e reduzir dano de tratamento. Em fase de atividade alta com risco de órgão, a prioridade é suprimir o processo inflamatório de forma mais intensa. Em manutenção, o foco é reduzir recidiva e minimizar toxicidade acumulada.
-
-Corticoides têm papel importante em atividade aguda, mas o plano de longo prazo costuma exigir poupadores ou terapias-alvo para evitar carga esteroidal crônica. Isso vale tanto para segurança metabólica quanto para risco infeccioso. Não existe tratamento "forte" universal; existe tratamento proporcional ao risco clínico atual.
-
-> **Pegadinha:** interpretar ausência de dor como ausência de atividade. Em várias doenças autoimunes, lesão de órgão pode progredir com sintomas discretos.
-
-## Como o professor costuma montar a questão clínica
-
-A estrutura recorrente é: paciente com combinação de sintomas sistêmicos, um achado laboratorial sugestivo e um sinal de possível comprometimento de órgão. A pergunta vem em formato de mecanismo predominante, próxima conduta ou diferencial entre dois diagnósticos parecidos.
-
-Se você responder em ordem, erra menos: primeiro identifica padrão (sistêmico ou órgão-específico), depois define mecanismo provável de dano, depois decide prioridade clínica com base no órgão em risco. Esse roteiro simples evita cair na tentação de escolher alternativa pela palavra mais familiar.
+---
 
 ## Ponte com a Clínica
 
-No atendimento real, autoimunidade pede leitura dinâmica: atividade hoje, dano acumulado ontem e risco de progressão amanhã. Quando você domina mecanismo, deixa de tratar apenas crise e passa a proteger função de órgão no longo prazo, que é o que realmente muda prognóstico e qualidade de vida.
+No pronto-socorro, o maior perigo de um paciente autoimune em crise (como um surto de Lúpus) não é apenas a doença, mas o risco de **Infecção**. Como o paciente usa remédios que baixam a imunidade, uma febre que parece simples pode ser uma pneumonia grave. O médico deve sempre se perguntar: "O sintoma atual é da doença atacando ou é uma infecção aproveitando a defesa baixa?".
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Quebra de tolerância:** abre caminho para resposta contra autoantígenos.
-- **Inflamação crônica:** mantém ciclo de lesão e exposição antigênica.
-- **Mecanismo de dano:** pode ser humoral, celular ou misto.
-- **Imunocomplexo:** costuma associar-se a manifestação sistêmica.
-- **Doença órgão-específica:** exige foco funcional no alvo principal.
-- **Autoanticorpo isolado:** não define atividade sem clínica compatível.
-- **Risco de órgão:** determina intensidade e urgência terapêutica.
-- **Remissão verdadeira:** depende de seguimento clínico-laboratorial contínuo.
+- **Autoimunidade Sistêmica**: Envolve múltiplos órgãos; mecanismo comum é o depósito de **Imunocomplexos**.
+- **Autoimunidade Órgão-Específica**: Alvo restrito; comum em doenças endócrinas.
+- **FAN**: Exame de triagem, mas sozinho não dá diagnóstico.
+- **Inflamação Sustentada**: O ciclo de lesão libera mais proteínas que ativam mais o sistema imune.
+- **Mimetismo Molecular**: Quando uma infecção do passado "ensina" o corpo a atacar a si mesmo.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Autoimunidade:** resposta imune contra estruturas próprias.
-- **Surtos e remissões:** refletem atividade inflamatória variável.
-- **Imunocomplexo:** favorece padrão multissistêmico.
-- **Mecanismo celular:** pode dominar em doença órgão-específica.
-- **Exame sem clínica:** não fecha atividade de doença.
-- **Órgão em risco:** prioriza conduta e monitorização.
-- **Controle terapêutico:** precisa reduzir inflamação e toxicidade.
-- **Seguimento longitudinal:** evita perder progressão silenciosa.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Autoimunidade, foque na integração. 
+Se a questão traz **Pele + Articulação + Rim**, pense em Lúpus (Sistêmica). Se traz apenas **Hipotiroidismo**, pense em Hashimoto (Órgão-específica). Lembre-se: o tratamento de ataque é sempre **Corticoide**, mas ele não pode ser usado para sempre por causa dos efeitos colaterais (diabetes, pressão alta, osteoporose).
+
+A Uninove adora cobrar a interpretação de anticorpos. Saiba que existem anticorpos que **estimulam** (como no Graves, que causa hipertiroidismo) e anticorpos que **bloqueiam** (como na Miastenia). Se o paciente tem a doença mas o anticorpo deu negativo, lembre-se que linfócitos T também podem atacar sozinhos sem precisar de anticorpos. Por fim, o risco de vida em autoimunidade quase sempre vem da **Insuficiência Renal** ou de **Infecções Oportunistas**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Autoimunidade sistêmica | Autoimunidade órgão-específica | Sistêmica envolve múltiplos órgãos; órgão-específica concentra alvo principal |
-| Autoanticorpo positivo | Doença ativa | Atividade exige fenótipo clínico e inflamatório compatível |
-| Resposta inflamatória inespecífica | Processo autoimune definido | Autoimune precisa coerência clínico-imunológica |
-| Controle sintomático rápido | Controle de doença sustentado | Sustentado requer manutenção e monitorização contínua |
+| **Lúpus (LES)** | **Tireoidite de Hashimoto** | Doença **Sistêmica** vs Doença **Órgão-específica** |
+| **Imunocomplexos** | **Citotoxicidade Direta** | Entope os vasos vs **Destrói a célula** alvo |
+| **FAN** | **Anti-DNA / Anti-Sm** | Muito sensível (triagem) vs **Muito específico (confirmação)** |
+| **Remissão** | **Atividade (Flare)** | Doença controlada vs **Ataque agudo ao órgão** |
+| **Anticorpo Bloqueador** | **Anticorpo Estimulador** | Causa perda de função (fraqueza) vs **Excesso de função (hormônio alto)** |
 
 ### Frase-âncora para não esquecer
-> "Na autoimunidade, não basta baixar sintoma: é preciso quebrar o ciclo de dano ao órgão."
+
+> "Na autoimunidade, o anticorpo é o mensageiro do caos e o linfócito T é o carrasco. Se o ataque é geral, o corpo todo inflama; se é específico, um órgão para. O segredo é frear o ataque antes que o órgão vire cicatriz."

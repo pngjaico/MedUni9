@@ -1,185 +1,90 @@
 # BMF3 — Aula 14: Fisiologia Renal — Equilíbrio Ácido-Básico
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O corpo humano é extremamente sensível a mudanças no pH do sangue; qualquer variação mínima pode ser fatal. Na prova, os temas centrais são os **Distúrbios Ácido-Básicos** (Acidose e Alcalose), o cálculo do **Ânion Gap** e a famosa regra **ROME** para identificar rapidamente o que está acontecendo com o paciente.
+
+Na prática, saber interpretar uma gasometria é o que permite ao médico salvar um paciente em coma diabético ou ajustar o respirador de alguém com pneumonia grave.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O equilíbrio ácido-básico é um dos tópicos mais cobrados em provas de medicina. O rim é o principal regulador crônico do pH sanguíneo, enquanto o pulmão regula agudamente. A interpretação de gasometria e a compreensão dos quatro distúrbios primários (acidose/alcalose metabólica e respiratória) são competências esperadas desde o módulo básico.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A14-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de distúrbios ácido-básicos.
+- **O que mostrar:** O "Gráfico do pH": Uma escala de pH (7,35 a 7,45) mostrando para onde o ponteiro vai na Acidose (abaixo de 7,35) e na Alcalose (acima de 7,45). Destacar o **Bicarbonato** como o controle do rim e o **CO2** como o controle do pulmão.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Parâmetros de normalidade e os pilares do equilíbrio ácido-básico.
 
+## 1. Os Pilares do pH: Pulmão e Rim
 
-
-
----
-
-## 1. pH Normal e Sistemas-Tampão
-
-- **pH arterial normal:** 7,35–7,45
-- **pH < 7,35:** acidemia | **pH > 7,45:** alcalemia
-
-### Sistemas-Tampão
-
-| Tampão | Localização | Importância |
-|--------|-------------|-------------|
-| **Bicarbonato/CO₂** | Plasma (principal) | Sistema mais importante clinicamente |
-| Hemoglobina | Eritrócitos | Tampão rápido intraeritrocitário |
-| Fosfato (H₂PO₄⁻/HPO₄²⁻) | Urina >> Plasma | Importante na excreção renal de H⁺ |
-| Proteínas plasmáticas | Plasma | Tampão secundário |
-
-### Equação de Henderson-Hasselbalch
-
-$$pH = 6,1 + \log\frac{[HCO_3^-]}{0,03 \times PaCO_2}$$
-
-- **HCO₃⁻ normal:** 22-26 mEq/L (regulado pelo rim)
-- **PaCO₂ normal:** 35-45 mmHg (regulado pelo pulmão)
+O pH do sangue depende de uma conta entre o ácido (CO2) e a base (Bicarbonato).
+- **Pulmão (Rápido):** Controla o **CO2**. Se você respira rápido (hiperventila), joga o CO2 fora e o sangue fica básico. Se respira devagar, o CO2 acumula e o sangue fica ácido.
+- **Rim (Lento, mas forte):** Controla o **Bicarbonato**. Ele reabsorve o bicarbonato para o sangue ou o joga fora na urina. Leva de 3 a 5 dias para atingir o máximo de sua força.
 
 ---
 
-## 2. Papel do Rim no Equilíbrio Ácido-Básico
+## 2. A Regra de Ouro: ROME
 
-O rim atua de 3 formas:
-
-### 1. Reabsorção de HCO₃⁻ Filtrado
-
-- 80-90% reabsorvidos no **TCP** via NHE3 (Na⁺-H⁺ antiporter)
-  - H⁺ secretado + HCO₃⁻ filtrado = H₂CO₃ → CO₂ + H₂O (anidrase carbônica luminal)
-  - CO₂ entra no célula → H₂CO₃ → H⁺ (secretado) + HCO₃⁻ (fica na célula → sai basolateralmente)
-- 10-20% reabsorvidos no **TCD e DC**
-
-### 2. Excreção de H⁺ como Ácidos Titulávels
-
-No ducto coletor, as **células intercaladas tipo A** secretam H⁺ que é tamponado pelo fosfato urinário:
-$$H^+ + HPO_4^{2-} \rightarrow H_2PO_4^-$$
-Isso torna o fosfato "permanentemente ácido" — excretado na urina.
-
-### 3. Síntese e Excreção de Amônia (NH₃/NH₄⁺)
-
-O **TCP** produz amônia a partir da **glutamina** (glutaminase):
-- NH₃ + H⁺ → NH₄⁺ (fica preso no lúmen — "ion trapping")
-- **Acidose crônica → glutaminase ↑ → mais NH₄⁺ excretado** (principal mecanismo adaptativo renal)
+Para não errar na prova, use o mnemônico **ROME** (em inglês, Respiratory Opposite, Metabolic Equal):
+- **R - Respiratório / O - Oposto:** No problema respiratório, o pH e o CO2 andam em direções **opostas**. (Ex: pH baixo e CO2 alto = Acidose Respiratória).
+- **M - Metabólico / E - Igual (Equal):** No problema metabólico, o pH e o Bicarbonato andam na **mesma direção**. (Ex: pH baixo e Bicarbonato baixo = Acidose Metabólica).
 
 ---
 
-## 3. Os Quatro Distúrbios Primários
+## 3. Ânion Gap: O Detetive da Acidose
 
-| Distúrbio | pH | Alteração Primária | Compensação |
-|----------|----|--------------------|------------|
-| **Acidose metabólica** | ↓ | ↓HCO₃⁻ | ↓PaCO₂ (hiperventilação) |
-| **Alcalose metabólica** | ↑ | ↑HCO₃⁻ | ↑PaCO₂ (hipoventilação) |
-| **Acidose respiratória** | ↓ | ↑PaCO₂ | ↑HCO₃⁻ (renal — dias) |
-| **Alcalose respiratória** | ↑ | ↓PaCO₂ | ↓HCO₃⁻ (renal — dias) |
-
-### Regra Mnemônica — ROME
-
-- **R**espiratory **O**pposite: No distúrbio respiratório, pH e PaCO₂ variam em sentidos **opostos**
-- **M**etabolic **E**qual: No distúrbio metabólico, pH e HCO₃⁻ variam em sentidos **iguais**
+Se o paciente tem uma acidose metabólica, precisamos saber de onde veio o ácido. Usamos a conta do **Ânion Gap**:
+- **Ânion Gap Alto:** Significa que o corpo está fabricando ou recebendo ácidos estranhos (ex: venenos, ácido da diabetes, ou ácido da falta de oxigênio).
+- **Ânion Gap Normal:** Significa que o paciente está perdendo bicarbonato "puro" (ex: **Diarreia** ou problemas no próprio rim).
 
 ---
 
-## 4. Acidose Metabólica — Análise do Ânion Gap
+## 4. O Rim como Fabricante de Bicarbonato
 
-### Ânion Gap (AG)
-
-$$AG = Na^+ - (Cl^- + HCO_3^-)$$
-
-**Valor normal:** 8–12 mEq/L (representa ânions não medidos: albumina, fosfato, sulfato)
-
-| AG Aumentado (> 12) | AG Normal (acidose hiperclorêmica) |
-|--------------------|------------------------------------|
-| **MUDPILES** | Diarreia (perda de HCO₃⁻) |
-| M — Metanol | Acidose tubular renal (ATR) |
-| U — Uremia | Fístulas pancreáticas/biliares |
-| D — Cetoacidose Diabética | Expansão de volume com SF 0,9% |
-| P — Paraldehyde | Acetazolamida |
-| I — Isoniazida/Intoxicação de Fe | — |
-| L — Acidose Lática | — |
-| E — Etilenoglicol | — |
-| S — Salicilatos | — |
-
----
-
-## 5. Alcalose Metabólica — Causas
-
-**Geração:** perda de ácido ou ganho de base
-- Vômitos (perda de HCl → ↑HCO₃⁻)
-- Diuréticos (furosemida, tiazídico → contração de volume → ↑HCO₃⁻)
-- Hiperaldosteronismo (↑secreção de H⁺ pelo DC)
-
-**Manutenção (por que não excreta HCO₃⁻ em excesso?):**
-- Hipovolemia → ↑reabsorção de HCO₃⁻ no TCP para manter volume
-- Hipocalemia → troca K⁺ por H⁺ → acidúria paradoxal
-
----
-
-## 6. Acidose Tubular Renal (ATR)
-
-| Tipo | Localização | Defeito | pH Urina | K⁺ plasmático |
-|------|------------|---------|----------|---------------|
-| **ATR Tipo 1** (distal) | DC | ↓secreção de H⁺ (célula intercalada) | > 5,5 (não acidifica) | ↓ (hipocalemia) |
-| **ATR Tipo 2** (proximal) | TCP | ↓reabsorção HCO₃⁻ | < 5,5 (acidifica quando HCO₃⁻ cai) | ↓ |
-| **ATR Tipo 4** | DC | ↓aldosterona ou resistência | < 5,5 | ↑ (hipercalemia) |
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Compensação respiratória é rápida (minutos-horas); compensação renal é lenta (dias):** Em acidose aguda, o rim leva 3-5 dias para compensar totalmente.
-2. **Acidúria paradoxal na alcalose metabólica:** A urina é ácida mesmo com alcalose plasmática porque a depleção de K⁺ leva o rim a secretar H⁺ em vez de K⁺.
-3. **AG aumentado → causa INTRACELULAR de produção de ácido (cetoacidos, lactato, toxinas):** AG normal → causa EXTERNA de perda de HCO₃⁻ (diarreia, ATR).
-4. **ATR Tipo 4 tem hipercalemia (não hipocalemia):** Por falta de aldosterona → menos secreção de K⁺ E H⁺ no DC. Tipos 1 e 2 têm hipocalemia.
-5. **Compensação nunca ultrapassa o normal:** O pH compensado pode se aproximar do normal, mas nunca corrige totalmente (senão seria um segundo distúrbio).
-6. **PaCO₂ aumentado + pH baixo = acidose respiratória (ROME — sentidos opostos).**
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei os valores normais de pH, HCO₃⁻ e PaCO₂
-- [ ] Sei os 4 distúrbios primários e suas compensações
-- [ ] Sei calcular e interpretar o ânion gap (AG normal vs aumentado)
-- [ ] Sei as causas de AG aumentado (MUDPILES)
-- [ ] Sei os 3 tipos de ATR e seus achados (pH urina, K⁺ plasmático)
-- [ ] Entendo a regra ROME para não confundir respiratório e metabólico
+O rim não apenas filtra; ele fabrica bicarbonato novo para neutralizar os ácidos da dieta.
+- **Túbulo Proximal:** Reabsorve 85% do bicarbonato filtrado.
+- **Amônia (NH3):** O rim fabrica amônia para "trudar" no ácido e jogá-lo fora na urina.
+- **Ducto Coletor:** É o toque final, onde as **Células Intercaladas** decidem se jogam ácido pra fora ou se o guardam.
 
 ---
 
 ## Ponte com a Clínica
 
-Na cetoacidose diabética (CAD), a deficiência de insulina leva ao catabolismo lipídico excessivo → corpos cetônicos (ácido acetoacético, β-hidroxibutirato) → acidose metabólica com AG aumentado. O tratamento inclui insulina, hidratação e reposição de K⁺ (que deple com a correção da acidose). Na diarreia aguda grave, há perda direta de HCO₃⁻ → acidose metabólica com AG normal (hiperclorêmica) — tratada com hidratação e, se grave, bicarbonato endovenoso.
+Na **Cetoacidose Diabética**, o paciente não tem insulina, então o corpo começa a queimar gordura desesperadamente, gerando "corpos cetônicos" (ácidos). Isso causa uma **Acidose Metabólica com Ânion Gap Alto**. O corpo tenta se defender fazendo o paciente respirar muito rápido e fundo (**Respiração de Kussmaul**) para jogar o CO2 fora e tentar subir o pH. É uma emergência médica que requer insulina e muito soro.
+
+---
+
+## Pontos-Chave para Prova
+
+- **pH Normal**: Faixa estreita entre **7,35 e 7,45**.
+- **ROME**: Respiratório = Oposto; Metabólico = Igual.
+- **Ânion Gap**: Útil para diferenciar causas de acidose metabólica.
+- **Cetoacidose e Acidose Lática**: Causas clássicas de Ânion Gap **Aumentado**.
+- **Diarreia**: Causa clássica de Acidose Metabólica com Ânion Gap **Normal**.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **pH normal:** 7,35-7,45 | HCO₃⁻: 22-26 mEq/L | PaCO₂: 35-45 mmHg
-- **ROME:** Respiratório = Oposto (pH e PaCO₂); Metabólico = Equal (pH e HCO₃⁻)
-- **AG = Na - (Cl + HCO₃) | Normal: 8-12**
-- **AG alto:** MUDPILES (cetoacidose, uremia, lático, intoxicações)
-- **AG normal:** diarreia, ATR (perda HCO₃⁻ com retenção Cl⁻)
-- **ATR Tipo 4:** hipercalemia + acidose (sem aldosterona)
-- **Compensação renal:** lenta (dias); compensação pulmonar: rápida (minutos)
+
+Para gabaritar Equilíbrio Ácido-Básico, decore os valores e a regra ROME. 
+pH baixo é **Acidose**; pH alto é **Alcalose**. Se o problema é no CO2, a culpa é do pulmão (**Respiratório**). Se o problema é no Bicarbonato, a culpa é do rim (**Metabólico**). A compensação sempre tenta puxar o pH de volta pro normal: se o rim falha, o pulmão ajuda; se o pulmão falha, o rim ajuda.
+
+A Uninove ama o **Ânion Gap**. Se a conta der alta (> 12), pense em "sujeira" no sangue (diabetes, choque, intoxicação). Se der normal, pense em perda por "baixo" (diarreia). Lembre-se também que o rim produz bicarbonato novo através da quebra da **Glutamina**. Por fim, saiba que a alcalose metabólica costuma vir acompanhada de **Potássio Baixo** (hipocalemia), pois o corpo troca o potássio pelo ácido na tentativa de se equilibrar.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Acidose AG alto | Acidose AG normal | AG alto = ácido endógeno/toxina; AG normal = perda de HCO₃⁻ |
-| ATR tipo 1 | ATR tipo 4 | Tipo 1: pH urina > 5,5, hipocalemia; Tipo 4: pH urina < 5,5, hipercalemia |
-| Acidose respiratória | Acidose metabólica | Respiratória: ↑PaCO₂ (causa); Metabólica: ↓HCO₃⁻ (causa) |
-| Compensação respiratória | Compensação renal | Respiratória: minutos-horas; Renal: 3-5 dias |
+| **Acidose Respiratória** | **Acidose Metabólica** | **CO2 Alto** vs **Bicarbonato Baixo** |
+| **Ânion Gap Alto** | **Ânion Gap Normal** | Produção de **Ácido Extra** vs Perda de **Bicarbonato** |
+| **Compensação Pulmonar** | **Compensação Renal** | **Imediata (Minutos)** vs Lenta (Dias) |
+| **Célula Intercalada A** | **Célula Intercalada B** | Joga o **Ácido fora** vs Joga o **Bicarbonato fora** |
+| **Acidemia** | **Acidose** | O **estado do sangue (pH < 7,35)** vs O **processo da doença** |
 
 ### Frase-âncora para não esquecer
-> "ROME: no distúrbio Respiratório, pH e PaCO₂ apontam para direções Opostas; no Metabólico, pH e HCO₃⁻ andam Emparelhados."
+
+> "ROME não foi feita em um dia, mas resolve a gasometria: Respiratório é Oposto, Metabólico é Igual (Equal). Se o pH cai e o CO2 sobe, o pulmão parou; se os dois caem juntos, o rim falhou ou o ácido acumulou."

@@ -1,152 +1,91 @@
-# Propedêutica Complementar em Neurologia
+# SEMIO4 — Aula 8: Propedêutica Complementar — Os Olhos da Neurologia
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 4 | **Aula:** semio4_a8
+Os exames complementares são extensões do exame físico que permitem "ver" dentro do cérebro e dos nervos. Na prova, os temas centrais são a indicação da **Tomografia (TC)** na urgência, o uso da **Ressonância (RM)** para diagnósticos finos, a análise do **Líquor (LCR)** e o papel do **Eletroencefalograma (EEG)**.
+
+Na prática, o clínico não deve ser um "pedidor de exames", mas sim um estrategista. Saber que a Tomografia é excelente para ver sangue, mas péssima para ver um AVC isquêmico nas primeiras horas, evita que você dê um diagnóstico errado de "normalidade" para um paciente que está infartando o cérebro. O exame deve confirmar sua suspeita, não substituir seu raciocínio.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O médico clínico precisa saber indicar e interpretar os exames complementares em neurologia — não apenas ordenar a TC. Critérios de indicação, o que cada exame revela e quando o exame de imagem muda a conduta são habilidades cobradas em residência e OSCE. Esta aula conecta a semiologia com a propedêutica tecnológica.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO4-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de exames de imagem.
+- **O que mostrar:** O "Branco ou Preto?": Uma comparação entre uma **TC de Crânio** com um **AVC Hemorrágico** (sangue branco brilhante) e uma **RM de Difusão (DWI)** com um **AVC Isquêmico** (área branca brilhante). Mostrar que a TC é cega para o isquêmico no início.
+- **Tipo sugerido:** Infográfico radiológico comparativo.
+- **Legenda (rascunho):** Diferenciação entre TC e RM no diagnóstico do Acidente Vascular Cerebral.
 
+## 1. Tomografia (TC) de Crânio: A Rainha da Urgência
 
-
-
----
-
-## Tomografia Computadorizada (TC) de Crânio
-
-A TC é o exame de primeira escolha em urgências neurológicas por sua rapidez e disponibilidade. O contraste não é necessário nos primeiros passos.
-
-**Indicações emergenciais:**
-- AVC suspeito (descartar hemorragia antes de tPA)
-- TCE moderado a grave
-- Cefaleia em trovoada (aneurisma roto)
-- Síndrome de hipertensão intracraniana (papiledema, rebaixamento, vômito em jato)
-- Primeira crise convulsiva em adulto
-
-**O que a TC mostra bem:**
-- Hemorragia aguda (hiperdenso — branco) — identifica hematoma intraparenquimatoso, subdural, epidural, hemorrragia subaracnoide.
-- Hidrocefalia: ventrículos alargados.
-- Efeito de massa: desvio de linha média, apagamento de sulcos.
-- Calcificações.
-
-**Limitações:** isquemia nas primeiras 6 horas não aparece (zona de penumbra). Fossa posterior (cerebelo, tronco) tem muito artefato ósseo.
-
-> **Dica:** Na hemorragia subaracnóidea por aneurisma, a TC tem sensibilidade de ~98% nas primeiras 6 horas. Se negativa com clínica típica → punção lombar (xantocromia).
+É o exame de escolha no pronto-socorro porque é rápido e barato:
+- **O que ela vê bem:** **Sangue Agudo** (aparece branco na imagem). É essencial para descartar um AVC Hemorrágico antes de dar o remédio que dissolve o coágulo.
+- **O que ela NÃO vê:** **AVC Isquêmico** nas primeiras 6 a 12 horas. Se a TC vier normal em um paciente com o corpo parado, isso **REFORÇA** a suspeita de AVC Isquêmico (pois excluiu o sangramento).
+- **Contraste:** Na urgência do AVC/Trauma, fazemos a TC **Sem Contraste**.
 
 ---
 
-## Ressonância Magnética (RM) do Crânio e Coluna
+## 2. Ressonância Magnética (RM): A Lente de Aumento
 
-A RM tem maior resolução tecidual e não usa radiação ionizante. É o exame de escolha para lesões da fossa posterior, medula espinal e doença desmielinizante.
-
-**Sequências essenciais:**
-
-| Sequência | O que destaca | Uso principal |
-|-----------|--------------|---------------|
-| T1 | Gordura = branco; líquido = escuro | Anatomia, lesão hemorrágica subaguda |
-| T2/FLAIR | Líquido/água = branco | Edema, lesão desmielinizante (EM), tumor |
-| DWI (difusão) | Isquemia aguda = restrita (brilhante) | AVC isquêmico nas primeiras horas |
-| FLAIR | Suprime LCR, realça lesões corticais | Hemorragia subaracnóidea subaguda, EM |
-| Gadolínio | Ruptura de barreira h.-encefálica | Tumor, abscesso, EM ativa |
-
-> **Pegadinha:** Na EM, as placas são periventriculares, perpendiculares ao ventrículo em T2 ("dedos de Dawson"). Na RM de difusão (DWI), o AVC isquêmico acende em minutos — antes que apareça na TC.
+É um exame mais demorado e caro, usado para detalhes:
+- **Difusão (DWI):** É a sequência mágica que consegue ver o **AVC Isquêmico** após apenas 30 minutos do início dos sintomas.
+- **FLAIR:** Uma sequência ótima para ver cicatrizes e placas de **Esclerose Múltipla**.
+- **Indicação:** Quando a TC não resolve ou quando precisamos ver a **Medula Espinal** ou o **Cerebelo** (fossa posterior) com clareza.
 
 ---
 
-## Eletroencefalograma (EEG)
+## 3. Líquor (LCR): No Centro da Infecção
 
-Registra atividade elétrica cortical. Indicado em:
-
-- Diagnóstico de epilepsia e classificação das crises.
-- Estado de mal epiléptico não convulsivo (em paciente sedado que não acorda).
-- Encefalopatias difusas (delirium, metabólica, anoxia cerebral).
-- Morte encefálica (EEG isoelétrico em 2 registros).
-
-**Padrões:** ritmo alpha (8–12 Hz, occipital, olhos fechados) é o padrão de vigília normal. Onda-espícula indica epilepsia. Ondas trifásicas em encefalopatia hepática. Lentificação difusa em encefalopatia.
-
-> **Dica:** EEG **interictal** (entre crises) pode ser normal em 40–50% das epilepsias. Um EEG normal não exclui epilepsia — a crise precisa ser capturada (EEG longo ou vídeo-EEG).
+A punção lombar serve para colher o líquido que banha o cérebro:
+- **Aspecto Normal:** Límpido e incolor ("Água de Rocha").
+- **Meningite Bacteriana:** O líquor sai turvo, com muita **Proteína**, muitas células de defesa (neutrófilos) e **Glicose Baixa** (as bactérias comem o açúcar).
+- **HSA (Aneurisma):** Se a TC for normal mas a suspeita for alta, o líquor pode vir com sangue ou amarelado (**Xantocrômico**).
 
 ---
 
-## Punção Lombar e Análise do LCR
+## 4. Eletroencefalograma e Eletroneuromiografia
 
-**Indicações principais:**
-- Meningite/encefalite suspeita
-- Hemorragia subaracnóidea com TC negativa
-- Hidrocefalia de pressão normal (diagnóstico e tratamento)
-- Polineuropatia de Guillain-Barré (dissociação albumino-citológica)
-
-**Contraindicações:** hipertensão intracraniana com efeito de massa na TC (herniação!). Avaliar fundo de olho ou realizar TC antes.
-
-**Análise do LCR normal:** incolor, cristalino, pressão 70–180 mmH₂O, proteína 15–45 mg/dL, glicose 50–80 mg/dL (>60% da glicemia), leucócitos <5/mm³.
-
-| Padrão | Proteína | Glicose | Células | Causa |
-|--------|---------|--------|--------|-------|
-| Purulento | ↑↑ | ↓↓ | Neutrófilos | Meningite bacteriana |
-| Linfocitário | ↑ | Normal ou ↓ | Linfócitos | Viral, TB |
-| Xantocromia | ↑ | Normal | Hemácias/normais | HSA |
-| Albuminoso puro | ↑↑ | Normal | Normal | Guillain-Barré |
-
----
-
-## Eletroneuromiografia (ENMG)
-
-Avalia nervos periféricos (velocidade de condução) e músculo (eletromiografia). Essencial para:
-
-- Diferenciar neuropatia desmielinizante (velocidade reduzida) de axonal.
-- Diagnosticar Guillain-Barré, CIDP, ELA, miastenia (eletromio com eletrodo de agulha).
-- Avaliar síndrome do túnel do carpo, radiculopatias.
-
----
-
-## Pontos-Chave
-
-- TC crânio: exame de urgência, detecta hemorragia aguda (hiperdenso). AVC isquêmico: negativo nas primeiras horas.
-- RM DWI: detecta isquemia em minutos. RM T2/FLAIR: EM, edema, tumor.
-- EEG: diagnóstico de epilepsia. Estado de mal não convulsivo não tem clínica óbvia.
-- LCR purulento: neutrófilos + glicose baixa = meningite bacteriana.
-- Guillain-Barré: dissociação albumino-citológica (proteína alta, celularidade normal).
-- Punção lombar contraindicada com hipertensão intracraniana + efeito de massa.
+- **EEG:** Mede a eletricidade do cérebro. É fundamental para diagnosticar **Epilepsia**. Lembre-se: um EEG normal entre crises não exclui a doença.
+- **ENMG:** Mede o funcionamento dos nervos e músculos. É o exame para diagnosticar a **Síndrome de Guillain-Barré** (quando o corpo ataca os próprios nervos) ou o **Túnel do Carpo**.
 
 ---
 
 ## Ponte com a Clínica
 
-Em urgência neurológica, a sequência prática é: TC crânio sem contraste → se hemorragia: neurocirurgia; se normalTC com déficit agudo: RM DWI + angioRM (AVC); se meningismo: punção lombar. A RM não é exame de urgência em hospitais públicos — saber indicar TC e interpretar corretamente é habilidade do clínico geral.
+No seu plantão, se você receber um paciente com fraqueza que começou nos pés e está subindo para as mãos, você suspeitará de **Guillain-Barré**. O diagnóstico será confirmado com a punção lombar, que mostrará um fenômeno clássico: muita **Proteína** no líquor, mas com pouquíssimas **Células** de defesa. Isso se chama "Dissociação Albumino-Citológica" e é a prova de fogo para essa doença em provas de residência.
+
+---
+
+## Pontos-Chave para Prova
+
+- **TC Sem Contraste**: Primeiro exame a ser feito em qualquer suspeita de AVC.
+- **RM Difusão (DWI)**: Sequência mais sensível para diagnóstico precoce de isquemia cerebral.
+- **Meningite Bacteriana**: No líquor, o diagnóstico é feito pela **Hipoglicorraquia** (glicose baixa).
+- **Eletroencefalograma**: Necessário para classificar crises epilépticas e diagnosticar o Estado de Mal Epiléptico não convulsivo.
+- **Punção Lombar**: Contraindicada se houver sinais de hipertensão intracraniana grave (risco de herniação).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **TC hemorragia:** hiperdenso (branco). AVC isquêmico agudo: negativo nas primeiras 6h.
-- **RM DWI:** detecta isquemia em minutos — padrão ouro para AVC agudo.
-- **EEG:** diagnóstico de epilepsia; normal interictal não exclui.
-- **LCR purulento:** neutrófilos + glicose baixa → meningite bacteriana.
-- **Guillain-Barré LCR:** proteína alta + células normais (dissociação albuminocitológica).
-- **Contraindic. PL:** efeito de massa na TC → risco de herniação.**
+
+Para gabaritar propedêutica, foque no que cada exame "ama". 
+**TC** ama sangue. **RM** ama inflamação e nervo. **Líquor** com glicose baixa ama bactéria.
+
+A Uninove adora o **Líquor**. Lembre-se: Bacteriana = Glicose ↓. Viral = Glicose Normal. Outro ponto forte: o **AVC**. Se a questão diz que a TC está normal mas o paciente tem déficit, o AVC é **Isquêmico** e a Difusão da RM estaria branca. Por fim, saiba que a **Eletroneuromiografia** é o exame de escolha para doenças de músculo e nervo periférico.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Exame A | Exame B | Quando usar A vs B |
-|---------|---------|-------------------|
-| TC crânio | RM crânio | TC: urgência, hemorragia, TCE. RM: fossa post., EM, isquemia precoce |
-| EEG | RM | EEG: atividade elétrica (epilepsia). RM: estrutura/lesão |
-| DWI + | FLAIR + | DWI: isquemia aguda (minutos-horas). FLAIR: lesão subaguda/crônica |
-| LCR purulento | LCR linfocitário | Purulento = bacteriana (urgent. ATB). Linfocitário = viral/TB |
+| Exame A | Exame B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **TC de Crânio** | **RM de Crânio** | **Rápida/Barata/Sangue** vs **Lenta/Cara/Detalhes** |
+| **Isquemia na TC** | **Sangue na TC** | **Preto/Cinza** (Tardio) vs **Branco** (Imediato) |
+| **DWI (RM)** | **FLAIR (RM)** | **Isquemia Aguda** vs **Cicatriz/Inflamação** |
+| **EEG** | **EKG (Eletro)** | Ondas do **Cérebro** vs Ondas do **Coração** |
+| **LCR Purulento**| **LCR Límpido** | **Infecção Bacteriana** vs **Normal ou Viral** |
 
 ### Frase-âncora para não esquecer
-> "Na urgência neurológica: TC para excluir hemorragia, RM DWI para flagrar o AVC, PL para ouvir o LCR."
+
+> "Branco na TC é sangue vilão; preto na TC é o infarto em ação. Glicose baixa no líquor é sinal de infecção; Difusão na RM é a prova do vilão. Se a proteína subiu e a célula parou, o Guillain-Barré o nervo atacou."

@@ -1,118 +1,87 @@
 # MAD2 — Aula 14: Helmintíases — Nematódeos e Estrongiloidíase
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+As helmintíases (vermes cilíndricos) são as infecções parasitárias mais comuns do mundo. Na prova, os temas centrais são o **Ciclo de Loos** (passagem pelo pulmão), a interpretação da **Eosinofilia** no hemograma e o perigo mortal da **Hiperinfecção por Strongyloides** em pacientes que usam corticoides.
+
+Na prática, o médico deve saber que tratar um verme hoje pode evitar uma sepse fatal amanhã, especialmente antes de iniciar tratamentos que baixam a imunidade do paciente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Helmintíases são frequentes em prova por associação entre ciclo parasitário, manifestações gastrointestinais e complicações em imunossuprimidos.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo **fisiopatológico**, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A14-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção do Ciclo de Loos.
+- **O que mostrar:** O "Mapa da Viagem": Um corpo humano mostrando a larva entrando pela pele (pé), viajando pelo sangue até o **Pulmão**, subindo pela traqueia, sendo engolida e finalmente morando no **Intestino**.
+- **Tipo sugerido:** Infográfico didático | Esquema anatômico.
+- **Legenda (rascunho):** Trajeto das larvas de nematódeos (Ciclo de Loos) e órgãos atingidos.
 
-## Conceito Central
+## 1. O Ciclo de Loos: A Passagem pelo Pulmão
 
-Nematódeos podem causar doença intestinal, pulmonar e sistêmica conforme carga parasitária e estado imune.
+Vários vermes (Ascaris, Ancilostomídeos e Strongyloides) precisam passar pelo pulmão para amadurecer.
+- **A Clínica:** Durante essa passagem, o paciente pode apresentar a **Síndrome de Löffler**: Tosse seca, falta de ar e manchas passageiras no Raio-X de tórax.
+- **O Hemograma:** A pista mestre é a **Eosinofilia** (aumento dos eosinófilos). Sempre que houver verme "passeando" pelo sangue ou pulmão, os eosinófilos estarão altos.
 
-## Eixo 1
+---
 
-Nematódeos intestinais: manifestação digestiva e impacto nutricional.
+## 2. Ascaris e Ancilostomídeos: Os Clássicos
 
-## Eixo 2
+- **Ascaris lumbricoides (Lombriga):** O maior verme intestinal. O principal risco é a **Obstrução Intestinal** ("bolo de áscaris") em crianças com carga parasitária muito alta.
+- **Ancilostomídeos (Amarelão):** Esses vermes "mordem" a parede do intestino e sugam sangue. A consequência clássica é a **Anemia Ferropriva** grave e o cansaço extremo (daí o nome amarelão).
 
-Estrongiloidíase: risco de hiperinfecção em imunossupressão.
+---
 
-## Eixo 3
+## 3. Estrongiloidíase: A Mais Perigosa
 
-Diagnóstico: correlação clínico-epidemiológica e investigação parasitológica.
+O *Strongyloides stercoralis* tem uma característica única: ele consegue se reproduzir sozinho dentro do corpo humano (**Autoinfecção**).
+- **Larva Currens:** Uma marca na pele que parece um "caminho de minhoca" que se move rápido, geralmente nas nádegas ou abdome.
+- **Hiperinfecção:** Se um paciente com *Strongyloides* começar a usar **Corticoides** em doses altas, o verme se multiplica descontroladamente. Milhares de larvas perfuram o intestino e levam bactérias para o sangue, causando uma **Sepse por Gram-Negativos** que mata rápido.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Dor abdominal + eosinofilia | Helmintíase provável | Correlacionar parasitológico |
-| Imunossuprimido com sepse e larvas disseminadas | Hiperinfecção por Strongyloides | Tratar de forma urgente |
-| Baixa estatura e anemia em área vulnerável | Parasitose crônica | Avaliar impacto nutricional |
+## 4. Diagnóstico e Tratamento
 
-## Checklist de Raciocínio
+- **Exame de Fezes (EPF):** É o básico. Para o *Strongyloides*, usamos técnicas específicas (como **Baermann-Moraes**), pois as larvas são difíceis de ver no exame comum.
+- **Dica de Ouro:** Antes de dar corticoide para um paciente (especialmente se ele for do interior ou tiver contato com solo), é prudente tratar vermes preventivamente com **Ivermectina** ou Albendazol.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-No cuidado real, rastrear parasitose antes de imunossupressão pode evitar desfechos graves preveníveis.
+No hospital, um paciente imunossuprimido que apresenta pneumonia grave e meningite por bactérias do intestino ao mesmo tempo pode, na verdade, estar sofrendo de **Estrongiloidíase Disseminada**. As larvas carregam as bactérias do intestino nas suas "costas" enquanto migram pelo corpo. O médico deve sempre desparasitar pacientes candidatos a transplantes ou quimioterapia para evitar esse desfecho catastrófico.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **Ciclo de Loos**: Passagem obrigatória pelo pulmão; causa a Síndrome de Löffler.
+- **Eosinofilia Marcante**: Principal pista laboratorial para migração de helmintos.
+- **Anemia Ferropriva**: Complicação clássica da infecção por Ancilostomídeos.
+- **Corticoides e Strongyloides**: Combinação perigosa que leva à hiperinfecção e sepse.
+- **Ivermectina**: Droga de escolha para o tratamento da estrongiloidíase.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Helmintíases, foque no pulmão e no sangue. 
+Se a questão traz **Tosse + Manchas no Raio-X + Eosinofilia**, a resposta é Síndrome de Löffler (Ascaris ou Strongyloides). Se fala de uma criança pálida e cansada, pense em Ancilostomídeos (Amarelão). Na prova, a palavra-chave para Strongyloides é **Autoinfecção**.
 
-Síndrome dominante: define direção da hipótese principal. Mecanismo-chave: explica sinais e exames mais relevantes.
-
-Diferencial crítico: separa alternativas muito parecidas. Marcador de gravidade: muda urgência e nível de cuidado.
-
-Conduta inicial: precisa ser segura e justificável.
+A Uninove ama cobrar sobre a **Hiperinfecção**. Lembre-se: paciente que vai tomar corticoide alto (ex: Lúpus ou Transplante) TEM que tratar verme antes! No tratamento, o Albendazol serve para quase todos, mas para o *Strongyloides* a **Ivermectina** é superior. Por fim, saiba que o diagnóstico de vermes é feito pelo EPF, mas o Strongyloides exige o método de Baermann (larvas vivas na água morna).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Síndrome de Löffler** | **Pneumonia Comum** | Tem **Eosinofilia** e manchas que "mudam de lugar" |
+| **Ascaris** | **Ancilostomídeo** | Causa **Obstrução** vs Causa **Anemia** |
+| **Strongyloides** | **Outros vermes** | Único que faz **Autoinfecção** e sepse por corticoide |
+| **Eosinófilo Alto** | **Neutrófilo Alto** | Reação a **Parasita/Alergia** vs Reação a **Bactéria** |
+| **Albendazol** | **Ivermectina** | Mata a maioria vs **Droga padrão para Strongyloides** |
 
 ### Frase-âncora para não esquecer
 
-> "Helmintíase pode ser silenciosa até encontrar um hospedeiro vulnerável."
-
-## Revisão Expressa em 5 Perguntas
-
-- Qual é o mecanismo fisiopatológico central desta aula?
-- Qual achado diferencia melhor o principal diagnóstico diferencial?
-- Qual sinal de gravidade muda conduta imediatamente?
-- Qual exame tem maior valor para confirmar hipótese principal?
-- Qual erro de prova é mais comum nesse tema?
+> "Entra pelo pé, passeia no pulmão e mora no intestino: o ciclo de Loos é o caminho do verme. Ascaris entope, Ancilostomo suga o sangue e Strongyloides espera o corticoide para invadir o corpo todo. Trate a verme antes do remédio, para a sepse não virar o desfecho."

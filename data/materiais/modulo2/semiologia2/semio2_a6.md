@@ -1,114 +1,91 @@
-﻿# SEMIO2 — Aula 6: Prática Simulada — Manequins e Pacientes Padronizados
+# SEMIO2 — Aula 6: Prática Simulada — Manequins e Pacientes
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A prática simulada (OSCE) avalia não apenas o conhecimento, mas a **Sequência Técnica**, a **Comunicação** e a postura profissional. Na prova, o sucesso depende de seguir um roteiro rígido de exame e saber verbalizar a hipótese sindrômica ao final da estação.
+
+Na prática, a simulação treina a segurança do atendimento em ambiente controlado, preparando o aluno para a triagem real de urgências cardiorrespiratórias.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Prática simulada é cobrada porque transforma teoria em habilidade observável. A **Uninove** costuma valorizar capacidade técnica, comunicação com paciente padronizado e organização do exame sob tempo limitado. Não basta saber o conceito; é preciso executar corretamente.
-
-Na prática médica, simulação reduz erro inicial e melhora segurança antes do contato com paciente real.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A6-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Roteiro de simulação.
+- **O que mostrar:** Fluxograma OSCE: Identificação → Higienização → Consentimento → Exame (Inspeção/Ausculta) → Síntese Sindrômica.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Fluxo de atendimento em estação de habilidades médicas.
 
-## O Que Treinar na Simulação Cardiorrespiratória
+## Roteiro da Estação (Passo a Passo)
 
-O treino deve reproduzir sequência de atendimento: abordagem inicial, higiene e posicionamento, anamnese dirigida, exame físico técnico e síntese clínica. Manequins ajudam na repetição técnica; pacientes padronizados treinam comunicação e **tomada de decisão** sob variabilidade clínica.
+1. **Apresentação e Ética:** Cumprimente, identifique-se e peça consentimento para examinar.
+2. **Segurança:** **Higienize as mãos** (etapa eliminatória em muitas provas).
+3. **Anamnese Dirigida:** Focada na queixa principal (Dor? Falta de ar? Tosse?).
+4. **Exame Físico Sistematizado:**
+   - **Respiratório:** Técnica comparativa (ziguezague) de ápices a bases.
+   - **Cardíaco:** Focos clássicos, ritmo e presença de bulhas acessórias.
+5. **Síntese Verbal:** Ao final, diga: "Meu achado foi [X], minha hipótese é a Síndrome [Y] e minha conduta inicial é [Z]".
 
-> **Dica de Prova:** em estação prática, organização e sequência contam tanto quanto o acerto do diagnóstico final.
+---
 
-> **Pegadinha:** focar apenas no estetoscópio e esquecer identificação, consentimento e explicação do exame ao paciente.
+## Checklists de Avaliação (Treino do Aluno)
 
-## Feedback e Aprendizado Deliberado
+| Técnica Respiratória | Técnica Cardíaca | Comunicação |
+|---|---|---|
+| Comparação bilateral obrigatória. | Localização correta dos focos. | Explicar cada passo ao paciente. |
+| Pedir para respirar pela boca. | Avaliar ritmo e frequência. | **Evitar jargões técnicos** complexos. |
+| Identificar ruídos adventícios. | Pesquisar sopros e bulhas. | Validar a dor/desconforto. |
 
-A simulação funciona quando há feedback objetivo sobre técnica, raciocínio e atitude profissional. O erro na simulação é ferramenta de aprendizado, não fracasso. Em prova, os professores tendem a cobrar maturidade de processo: reconhecer limite, corrigir método e justificar conduta.
+---
 
+## Diagnóstico em Tempo Real (Ação na Estação)
 
+| Se ouvir na estação... | A hipótese sindrômica é... | Sua ação imediata é... |
+|---|---|---|
+| **Sibilos difusos** | Síndrome Obstrutiva (Asma/DPOC) | Broncodilatador e O2. |
+| **Estertores bibasais** | Síndrome Congestiva (IC) | Diurético e Elevação de cabeceira. |
+| **MV Abolido + Hipertimpanismo** | **Pneumotórax** | Reconhecer emergência (Descompressão). |
+| **Dor opressiva + Sudorese** | **SCA (Infarto)** | ECG em 10 minutos e Monitorização. |
 
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Prática Simulada — Manequins e Pacientes Padronizados
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+No cenário simulado, o manequim ou o ator pode apresentar sinais de instabilidade (ex: agitação, cianose). O estudante deve ser capaz de interromper o exame físico detalhado para priorizar o suporte básico de vida, demonstrando **Segurança Clínica** — a qualidade mais valorizada em um futuro médico.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Simulação:** ponte entre conteúdo teórico e execução clínica.
-- **Sequência da estação:** organização melhora desempenho.
-- **Comunicação clínica:** parte obrigatória da avaliação prática.
-- **Técnica de exame:** precisa ser padronizada e reprodutível.
-- **Feedback estruturado:** acelera ganho de competência.
-- **Segurança do paciente:** começa no treinamento simulado.
+- **Higiene das Mãos**: Faça no início e no fim da estação.
+- **Comparativo**: Nunca ausculte apenas um lado.
+- **Comunicação**: O paciente simula reações; valide o sofrimento dele.
+- **Síntese Sindrômica**: É o fechamento da nota; seja claro e direto.
+- **Postura**: Mantenha a calma, mesmo se o manequim "piorar".
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para o OSCE (exame prático), o segredo não é saber o diagnóstico difícil, é não esquecer o básico. **Apresse-se em higienizar as mãos** e pedir licença — isso costuma ser metade da nota de postura. Na ausculta, o avaliador está olhando se você compara o lado direito com o esquerdo (ziguezague); se você ouvir apenas um lado, sua nota cai drasticamente.
 
-Simulação clínica: treino seguro antes do cenário real. Manequim: fortalece técnica repetitiva. Paciente padronizado: treina comunicação e empatia.
+Se a estação for de comunicação, fale "pacientês": não diga "apresenta dispneia paroxística", diga "o senhor acorda à noite sentindo falta de ar?". Se o paciente reclamar de dor, pare o que está fazendo, valide a dor e prossiga com cuidado.
 
-Estação prática: exige método e clareza. Consentimento e explicação: são avaliados. Feedback: parte central do aprendizado.
-
-Erro controlado: oportunidade de correção. Síntese final: mostra raciocínio clínico.
+No final, você terá que dar uma síntese. Seja objetivo: "Paciente com **Sibilos** e **Uso de musculatura acessória**, hipótese de **Crise de Asma**, conduta: oxigênio e medicação inalatória". Não enrole; a banca quer precisão.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Saber teoria | Executar técnica | Teoria informa; execução demonstra competência real |
-| Manequim | Paciente padronizado | Um foca técnica; outro adiciona comunicação e contexto |
-| Exame mecânico | Exame clínico completo | Completo inclui relação médico-paciente e síntese |
-| Falha pontual | Falha de método | A de método compromete todo o desempenho da estação |
+| **Higiene de Mãos** | **Consentimento** | Ambos são obrigatórios no início da estação |
+| **Ausculta em Ziguezague** | **Ausculta Unilateral** | Padrão Ouro (deve ser comparativa) vs Erro grave |
+| **Síntese Sindrômica** | **Diagnóstico Etiológico** | Dizer "Síndrome Obstrutiva" (Geral) vs Dizer "Asma" (Específico) |
+| **Comunicação Verbal** | **Linguagem Corporal** | Explicar procedimentos vs Demonstrar calma e respeito |
+| **Cenário Estável** | **Cenário Instável** | Exame detalhado vs **Ação de emergência prioritária** |
 
 ### Frase-âncora para não esquecer
 
-> "Na simulação, cada repetição bem feita vira segurança no paciente real."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Prática Simulada — Manequins e Pacientes Padronizados** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Lave as mãos, peça licença, compare os lados e feche com a síndrome; o OSCE é teatro com técnica e rima."

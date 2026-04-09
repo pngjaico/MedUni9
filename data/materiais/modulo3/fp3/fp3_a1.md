@@ -1,107 +1,91 @@
 # FP3 — Aula 1: Patologia Geral — Lesão Celular e Morte Celular
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A patologia celular é a base de toda a medicina: antes de o órgão falhar, a célula adoece. Na prova, os temas centrais são a diferenciação entre **Lesão Reversível** (edema) e **Irreversível** (morte), as diferenças entre **Necrose** (morte por acidente) e **Apoptose** (morte programada), e o reconhecimento dos 4 tipos principais de necrose e suas causas clínicas.
+
+Na prática, entender o "ponto de não retorno" da célula ajuda a compreender por que o tempo é músculo no infarto do coração e por que a reoxigenação rápida pode, por vezes, gerar os temidos radicais livres da lesão de reperfusão.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A patologia celular é o alicerce de toda fisiopatologia: antes de entender por que um órgão falha, você precisa entender por que suas células morrem ou ficam doentes. A **Uninove** cobra sistematicamente a diferença entre necrose e apoptose (já vista em BCM1, mas aqui com foco em contexto clínico patológico), os tipos morfológicos de necrose e a reversibilidade da lesão celular. Questões de fisiopatologia do módulo 3 frequentemente partem de "lesão de X tipo" e pedem o mecanismo ou a consequência clínica.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de necrose vs apoptose.
+- **O que mostrar:** O "Destino da Célula": De um lado, a **Necrose**, com a célula inchando, a membrana estourando e liberando "lixo" inflamatório. Do outro, a **Apoptose**, com a célula murchando, embalando-se em pequenos pacotes (**Corpos Apoptóticos**) e sendo "comida" discretamente por um macrófago.
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenças morfológicas entre os mecanismos de morte celular por necrose e apoptose.
 
+## 1. O Espectro da Lesão: Do Inchaço à Morte
 
-
-
----
-
-## O Espectro da Lesão Celular — Do Estresse à Morte
-
-A célula vive em equilíbrio dinâmico com seu ambiente. Quando o estresse supera a capacidade adaptativa, ocorre **lesão celular**, que pode ser **reversível** (a célula sobrevive se o estressor for removido) ou **irreversível** (a célula morre). A linha entre reversível e irreversível é definida pelo tempo de isquemia, pela intensidade do dano oxidativo e pela integridade da mitocôndria.
-
-Na **lesão reversível**, o primeiro sinal é o **edema celular** (tumefação turva): a falência da bomba Na⁺/K⁺-ATPase (por falta de ATP em isquemia) faz sódio e água entrarem na célula, o citoplasma fica turvo e granular. A célula volta ao normal se a perfusão é restabelecida a tempo.
-
-Quando a lesão progride para **irreversível**, dois eventos marcam o ponto de não retorno: (1) disfunção mitocondrial grave com queda irreversível de ATP e (2) lesão das membranas lysossômicas com liberação de enzimas que autodigerem a célula. O resultado final é a **morte celular** por necrose ou apoptose.
-
-> **Dica de Prova:** a lesão de isquemia-reperfusão é cobrada frequentemente. O paradoxo: a reperfusão após isquemia prolongada gera um surto de radicais livres de oxigênio (pela entrada do oxigênio em mitocôndrias já danificadas), que aumenta a área de necrose em vez de salvá-la. É a base do uso de antioxidantes em IAM.
+A célula tenta se adaptar ao estresse, mas se o limite for ultrapassado, ela sofre lesão.
+- **Lesão Reversível (Edema Celular):** É o primeiro sinal. A célula perde energia (ATP), a bomba de sódio para e a água entra. Se o sangue voltar a correr, a célula sobrevive. No microscópio, vemos a **Tumefação Turva**.
+- **Lesão Irreversível (Ponto de Não Retorno):** Ocorre quando a mitocôndria explode e as enzimas ácidas dos lisossomos vazam para dentro da própria célula, digerindo-a. A partir daqui, a morte é inevitável.
 
 ---
 
-## Necrose — A Morte Descuidada
+## 2. Necrose: A Morte com Escândalo
 
-A **necrose** é a morte celular patológica: o conteúdo intracelular vaza para o espaço extracelular, ativando inflamação local. Morfologicamente, os núcleos apresentam três padrões de degeneração: **picnose** (condensação e encolhimento do núcleo), **cariorrexe** (fragmentação do núcleo) e **cariólise** (dissolução do núcleo — o mais avançado).
-
-Os tipos morfológicos de **necrose** têm significado clínico direto:
-
-**Necrose coagulativa:** o arcabouço proteico das células é desnaturado pelo calor ou isquemia, mantendo o contorno celular como "fantasma". É o tipo do infarto de órgãos sólidos (rim, coração, baço). Característica: o tecido fica firme, pálido ou amarelado.
-
-**Necrose liquefativa:** em tecido cerebral (sem muito arcabouço proteico) e em infecções bacterianas (enzimas leucocitárias digerem tudo). Forma pus ou cavidade cística. Exemplo: abscesso cerebral, AVC isquêmico, pneumonia com necrose.
-
-**Necrose caseosa:** aspecto de "queijo branco" — combinação de necrose coagulativa e liquefativa, com zona central granular e amarelada. É o padrão da tuberculose — o granuloma tuberculoso tem necrose caseosa no centro. Também ocorre em histoplasmose.
-
-**Necrose gordurosa:** em pâncreas (pancreatite aguda: lipases lançadas no parênquima digerem as gorduras, formando saponificação — manchas brancas calcárias) e em mama (trauma, gordura se liquefaz e é fagocitada por macrófagos → lipogranuloma).
-
-**Necrose gangrenosa:** não é tipo distinto — é um termo clínico para necrose isquêmica de membros com infecção bacteriana. Gangrena seca (coagulativa, sem infecção) versus gangrena úmida (com bactérias, odor fétido, progressiva).
-
-> **Pegadinha:** o cérebro faz necrose liquefativa (não coagulativa) porque é rico em lipídios e tem pouco arcabouço proteico. A Uninove frequentemente coloca infarto cerebral junto com infarto renal — são necrose coagulativa vs. liquefativa.
+A necrose é sempre **Patológica** e gera **Inflamação** (espalha o lixo para os vizinhos).
+- **Necrose Coagulativa:** O tecido fica firme. É a marca do **Infarto em Órgãos Sólidos** (Rins, Coração), exceto o cérebro.
+- **Necrose Liquefativa:** O tecido vira pus ou líquido. Ocorre em **Abscessos Bacterianos** e no **AVC Isquêmico (Cérebro)**.
+- **Necrose Caseosa:** Parece "queijo branco". É a marca registrada da **Tuberculose**.
+- **Necrose Gordurosa:** Ocorre na **Pancreatite Aguda**. As gorduras derretem e formam manchas brancas calcárias (Saponificação).
 
 ---
 
-## Apoptose — A Morte Programada
+## 3. Apoptose: A Morte Silenciosa
 
-A **apoptose** é a morte celular programada: a célula fragmenta seu próprio DNA, encapsula os fragmentos em vesículas (corpos apoptóticos) e é fagocitada sem inflamação. É crucial para o desenvolvimento embrionário, renovação de tecidos e eliminação de células danificadas.
+A apoptose é o "suicídio celular" planejado. Pode ser fisiológica (dedos que se separam no embrião) ou patológica (célula com câncer que decide morrer).
+- **Sem Inflamação:** A membrana continua inteira até o fim. A célula vira "corpos apoptóticos" que são limpos sem barulho.
+- **Vias:** Ativada por proteínas como a **p53** (quando o DNA está estragado) ou por comandos externos (via dos receptores de morte).
 
-A apoptose tem duas vias principais: a **via intrínseca** (mitocondrial), ativada por dano ao DNA, estresse oxidativo — a p53 induz Bax, que abre poros na mitocôndria liberando citocromo c para ativar caspases 9 e 3; e a **via extrínseca** (receptor de morte), ativada por ligantes como FasL ou TNF que ativam caspases 8 e 3 diretamente.
+---
 
-> **Dica de Prova:** apoptose × necrose: apoptose = sem inflamação, núcleo fragmenta em corpos apoptóticos, membrana intacta; necrose = com inflamação, célula incha e rompe, conteúdo vaza. Na histologia, a apoptose mostra "pontinhos" escuros no tecido (corpos apoptóticos); a necrose mostra "fantasmas" de células com núcleo degradado.
+## 4. O Paradoxo da Reperfusão
+
+Quando um vaso entupido é aberto (como no cateterismo pós-infarto), o sangue volta trazendo oxigênio e nutrientes. 
+- **O Problema:** Em tecidos muito lesionados, esse oxigênio novo gera um surto de **Radicais Livres de Oxigênio**.
+- **Consequência:** Esses radicais podem terminar o trabalho que a isquemia começou, matando células que ainda estavam lutando para sobreviver. Por isso, a reabertura do vaso deve ser o mais rápida e controlada possível.
+
+---
+
+## Ponte com a Clínica
+
+No consultório, você verá os resultados da **Necrose Gordurosa** na mama após um trauma (acidente de carro/cinto de segurança). A gordura lesada cicatriza e forma um nódulo duro que pode ser confundido com câncer na palpação. Saber que a gordura sofre esse processo de saponificação e fibrose tranquiliza a paciente e evita biópsias desnecessárias. Já na emergência, exames como **Troponina** só aparecem no sangue porque a membrana da célula do coração estourou (necrose), permitindo que as proteínas de dentro vazem para a circulação.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Lesão reversível:** edema celular (tumefação turva), bomba Na/K falha, retorna se estressor remove.
-- **Lesão irreversível:** disfunção mitocondrial + lysossômos rompidos = necrose ou apoptose.
-- **Necrose coagulativa:** infarto de órgão sólido (rim, coração, baço) — contorno celular preservado.
-- **Necrose liquefativa:** cérebro e abscessos bacterianos — forma cavidade.
-- **Necrose caseosa:** tuberculose — aspecto de queijo branco.
-- **Necrose gordurosa:** pancreatite — saponificação com manchas calcárias.
-- **Apoptose:** morte programada, sem inflamação, corpos apoptóticos.
-- **Lesão de reperfusão:** radicais livres ao reoxigenar tecido isquêmico = piora da necrose.
+- **Bomba de Na+/K+**: Sua falência causa o edema celular (lesão reversível).
+- **Isquemia**: Principal causa de lesão celular; falta de oxigênio interrompe o ATP.
+- **Puncta (Picnose / Cariorrexe / Cariólise)**: A sequência de destruição do núcleo na necrose.
+- **p53 (Maestro da Apoptose)**: Proteína que decide se a célula se recupera ou morre.
+- **Saponificação**: Processo químico da necrose gordurosa típico da pancreatite.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Patologia Geral, foque nos tipos de necrose. 
+**Infarto de Rim/Coração** = Coagulativa. **Cérebro/Pus** = Liquefativa. **Tuberculose** = Caseosa. **Pancreátite** = Gordurosa. Lembrar que a lesão reversível é o inchaço (edema), enquanto a irreversível é o estouro da membrana e da mitocôndria.
 
-Necrose coagulativa: infarto + contorno celular preservado (órgãos sólidos). Necrose liquefativa: AVC isquêmico + abscessos (cerebro e pus). Necrose caseosa: tuberculose — "queijo branco" no centro do granuloma.
-
-Necrose gordurosa: pancreatite aguda — saponificação. Apoptose: morte sem inflamação — p53 ativa via mitocondrial. Edema celular: lesão reversível — bomba Na/K falha por falta de ATP.
-
-Lesão de reperfusão: radicais livres = piora após restabelecimento do fluxo. Picnose → cariorrexe → cariólise: sequência nuclear na necrose.
+A Uninove adora a **Apoptose**. Lembre-se: ela NÃO causa inflamação. Se a questão citar o termo "corpos apoptóticos" ou "caspases", marque apoptose na hora. Outro ponto forte: o **Cérebro é a exceção**. Enquanto todos os outros órgãos sólidos fazem necrose coagulativa no infarto, o cérebro faz sempre liquefativa devido ao alto teor de gordura e pouca estrutura de sustentação. Por fim, a Isquemia mata por falta de oxigênio para fabricar ATP.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Necrose coagulativa | Necrose liquefativa | Coagulativa: contorno preservado, órgão sólido; liquefativa: cavidade, cérebro/pus |
-| Apoptose | Necrose | Apoptose: sem inflamação, corpos apoptóticos; necrose: com inflamação, célula rompe |
-| Necrose caseosa | Necrose coagulativa | Caseosa: aspecto de queijo (TB); coagulativa: pálida e firme (infarto) |
-| Lesão reversível | Lesão irreversível | Reversível: edema + bomba falha; irreversível: mitocôndria + lysossômos disfuncionais |
-| Via intrínseca | Via extrínseca apoptose | Intrínseca: dano DNA → p53 → Bax → caspase 9; extrínseca: FasL/TNF → caspase 8 |
+| **Necrose** | **Apoptose** | **Inflama** (Grita) vs **Não Inflama** (Sussurra) |
+| **Coagulativa** | **Liquefativa** | Mantém a **Arquitetura** vs Vira **Líquido/Pus** |
+| **Edema Celular** | **Lise Celular** | **Reversível** (Inchaço) vs **Morte** (Irreversível/Corte) |
+| **Gangrena Seca** | **Gangrena Úmida** | Só isquemia (**Coagulativa**) vs Isquemia + **Bactéria (Pus)** |
+| **Isquemia** | **Reperfusão** | Falta de comida vs **Surto de Radicais Livres** |
 
 ### Frase-âncora para não esquecer
 
-> "Necrose é morte com escândalo — vaza conteúdo e inflama; apoptose é morte discreta — embala os fragmentos e some sem deixar rastro."
+> "A necrose explode a ponte e chama a vizinhança para o protesto (inflamação). A apoptose recolhe os móveis e desliga a luz sem fazer barulho. O segredo está na membrana: se ela rompeu, a morte foi por necrose."

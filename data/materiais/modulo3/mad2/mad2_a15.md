@@ -1,118 +1,93 @@
 # MAD2 — Aula 15: Cestoidoses — Teníase e Cisticercose
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+A Teníase e a Cisticercose são duas doenças diferentes causadas pelo mesmo parasita, a *Taenia solium* (o "verme solitário"). Na prova, o segredo é não confundir **COMO** a pessoa pega cada uma: comer carne de porco com larva dá o verme no intestino (**Teníase**); comer ovos do verme nas mãos ou verduras dá o verme no cérebro (**Cisticercose**).
+
+Na prática, a neurocisticercose é uma das maiores causas de crises convulsivas no Brasil, e entender o ciclo de transmissão é fundamental para a prevenção e o diagnóstico correto de lesões cerebrais.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Tema cobrado por ciclo biológico e manifestações neurológicas da cisticercose. A diferença entre hospedeiro definitivo e intermediário é essencial.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo **fisiopatológico**, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A15-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação dos ciclos.
+- **O que mostrar:** O "Duelo da Transmissão": De um lado, o ciclo da **Teníase** (Carne de porco malpassada -> Verme adulto no intestino -> Ovos nas fezes). Do outro, o ciclo da **Cisticercose** (Ingestão de ovos -> Larvas migram para os tecidos/cérebro).
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenças na via de infecção entre teníase intestinal e cisticercose tecidual.
 
-## Conceito Central
+## 1. Teníase: O Verme "Solitário" no Intestino
 
-Teníase e cisticercose são doenças relacionadas, porém com mecanismos de aquisição e repercussão clínica diferentes.
+A teníase ocorre quando você é o **Hospedeiro Definitivo**.
+- **Como se pega:** Ingestão de **Carne de Porco ou Boi Malpassada** contendo o cisticerco (a larva).
+- **O que acontece:** A larva vira um verme adulto gigante (pode chegar a 10 metros!) que gruda no seu intestino e rouba seus nutrientes.
+- **Sintomas:** Frequentemente nenhum, mas o paciente nota a eliminação de pedaços do verme (**Proglotes**) nas fezes, que parecem macarrão ou "canjica" que se mexe.
 
-## Eixo 1
+---
 
-Teníase: infecção intestinal por forma adulta do parasita.
+## 2. Cisticercose: A Larva nos Tecidos
 
-## Eixo 2
+A cisticercose ocorre quando você age como se fosse o porco (Hospedeiro Intermediário).
+- **Como se pega:** Ingestão de **Ovos de Taenia solium** (presentes em águas contaminadas, mãos sujas ou verduras lavadas com água de esgoto).
+- **O que acontece:** Os ovos liberam larvas que atravessam o intestino, caem no sangue e se instalam nos tecidos, como músculos, olhos e, principalmente, o **Cérebro**.
 
-Cisticercose: infecção tecidual por forma larvária, inclusive **SNC**.
+---
 
-## Eixo 3
+## 3. Neurocisticercose (NCC)
 
-Prevenção: saneamento, higiene e controle de cadeia alimentar.
+É a forma mais grave da doença e ataca o sistema nervoso central.
+- **Crise Convulsiva:** É o sintoma mais comum. O cisto irrita o cérebro e dispara a crise.
+- **Fases dos Cistos (O que a Uninove ama):**
+    1.  **Cisto Viável:** A larva está lá dentro, ainda "viva", protegida.
+    2.  **Cisto Coloidal:** O sistema imune ataca o cisto; há muita inflamação (é quando o paciente costuma ter sintomas).
+    3.  **Cisto Calcificado:** O cisto morre e vira uma "pedrinha" no cérebro. Pode continuar causando convulsões para sempre.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Eliminação de proglotes | Teníase intestinal | Relacionar ciclo e fonte alimentar |
-| Crise convulsiva em área endêmica | Neurocisticercose | Neuroimagem é decisiva |
-| Condições sanitárias precárias | Transmissão facilitada | Prevenção comunitária reduz incidência |
+## 4. Diagnóstico e Tratamento
 
-## Checklist de Raciocínio
+- **Teníase:** Exame de Fezes (EPF) procurando ovos ou proglotes. Tratamento com Praziquantel ou Albendazol.
+- **Cisticercose:** O diagnóstico é feito por **Tomografia (TC) ou Ressonância (RM)**, que mostram os "buraquinhos" ou pontos brancos no cérebro.
+- **Tratamento da NCC:** É complexo. Usa-se Albendazol + **Corticoides** (para evitar que a morte do verme cause um edema cerebral fatal) + Anticonvulsivantes.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-Diferenciar teníase de cisticercose evita erros de abordagem e melhora orientação preventiva ao paciente e família.
+No consultório, saiba que o paciente com cisticercose cerebral **NÃO transmite** a doença para outras pessoas pelas fezes (a menos que ele também tenha o verme adulto no intestino). O perigo é a higiene de quem manipula os alimentos. Uma pessoa com teníase intestinal (solitária) é um perigo público, pois elimina milhares de ovos todos os dias, podendo causar cisticercose em toda a sua família.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **Hospedeiro Definitivo**: O humano na teníase intestinal (come carne com cisto).
+- **Hospedeiro Intermediário**: O humano na cisticercose (come ovo do verme).
+- **Taenia solium**: Única que causa cisticercose humana significativa.
+- **Crise Convulsiva**: Principal manifestação da neurocisticercose.
+- **Tomografia de Crânio**: Exame essencial para graduar as fases da cisticercose.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Teníase/Cisticercose, lembre-se da via de entrada. 
+Comer **Carne** = Teníase (Verme no intestino). Comer **Cocô/Ovos** = Cisticercose (Verme no cérebro). A Taenia saginata (boi) NÃO causa cisticercose no homem; apenas a **Taenia solium (porco)** é capaz desse estrago neurológico. Se a questão mostrar uma TC de crânio com "pontinhos brancos" em área endêmica, a resposta é Neurocisticercose.
 
-Síndrome dominante: define direção da hipótese principal. Mecanismo-chave: explica sinais e exames mais relevantes.
-
-Diferencial crítico: separa alternativas muito parecidas. Marcador de gravidade: muda urgência e nível de cuidado.
-
-Conduta inicial: precisa ser segura e justificável.
+A Uninove adora o tratamento. Grave: Tratar cisticercose ativamente no cérebro sem dar **Corticoide** é erro grave, pois a reação inflamatória mata o paciente. No ciclo, saiba que o porco é o hospedeiro intermediário natural e o homem é o definitivo. Por fim, lembre-se: saneamento básico e lavar as mãos são as melhores vacinas contra essas doenças.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Teníase** | **Cisticercose** | Comeu a **Larva na Carne** vs Comeu o **Ovo nas fezes** |
+| **T. solium (porco)** | **T. saginata (boi)** | Pode dar **Cisticercose** vs Só dá o verme no intestino |
+| **Cisto Coloidal** | **Cisto Calcificado** | Fase de **Inflamação** vs Fase de Cicatriz (Patinha branca na TC) |
+| **Praziquantel** | **Corticoide** | Mata o verme vs **Diminui o inchaço do cérebro** |
+| **Proglote** | **Ovo** | Parte do verme visível vs Microscópico |
 
 ### Frase-âncora para não esquecer
 
-> "Mesmo parasito, doenças diferentes: intestino na teníase, tecido na cisticercose."
-
-## Revisão Expressa em 5 Perguntas
-
-- Qual é o mecanismo fisiopatológico central desta aula?
-- Qual achado diferencia melhor o principal diagnóstico diferencial?
-- Qual sinal de gravidade muda conduta imediatamente?
-- Qual exame tem maior valor para confirmar hipótese principal?
-- Qual erro de prova é mais comum nesse tema?
+> "Tenha medo da carne malpassada: ela te dá a solitária. Mas tenha pavor da mão suja: ela leva o ovo ao cérebro e faz a larva morar lá dentro. No intestino, o verme rouba o prato; no cérebro, ele rouba o sentido."

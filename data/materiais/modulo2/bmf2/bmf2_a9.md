@@ -1,120 +1,118 @@
-﻿# BMF2 — Aula 9: Circulação Coronariana, Microcirculação e Linfática
+# BMF2 — Aula 9: Circulação Coronariana, Microcirculação e Linfática
 
-## Relevância Clínica e Acadêmica
+A circulação coronariana integra anatomia e fisiologia em um raciocínio clínico único. Questões sobre **Infarto** e **Angina** exigem que você relacione o território arterial ao momento do ciclo cardíaco.
 
-A circulação coronariana merece destaque especial porque é a única circulação do corpo que recebe fluxo predominantemente durante a **diástole**, não a sístole. Esse detalhe tem implicações diretas na fisiopatologia do infarto e na indicação de tratamentos — um coração taquicárdico encurta a diástole e reduz a perfusão coronariana, o que explica por que a taquicardia é tão prejudicial em coronariopatas. Conhecer a anatomia das artérias coronárias e as áreas que irrigam é essencial para interpretar o ECG e prever as complicações de cada tipo de infarto.
+A microcirculação e o sistema linfático explicam o que ocorre no leito tecidual: as **Forças de Starling** ditam o equilíbrio entre capilares e interstício, sendo a chave para entender a formação de **Edema**.
 
-A microcirculação e o sistema linfático completam o quadro: são eles que garantem a troca de nutrientes, o recolhimento de proteínas extravasadas e a vigilância imunológica dos tecidos. A **Uninove** cobra esses temas associados à fisiopatologia do edema e da isquemia miocárdica, integrando morfologia e função de forma direta.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
+- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
+- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
 - **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
+- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
 
+## Coronárias direita e esquerda: anatomia funcional e territórios
 
+As artérias coronárias nascem da aorta ascendente, logo acima da valva aórtica, nos seios de Valsalva. O padrão de irrigação é previsível o bastante para orientar diagnóstico sindrômico, mas tem variações anatômicas cobradas em prova.
 
+### Coronária esquerda
 
----
+O tronco da coronária esquerda geralmente é curto e se divide em:
 
+- **Artéria descendente anterior (DA):** irriga parede anterior do ventrículo esquerdo, grande parte do septo interventricular (especialmente porção anterior) e ápice.
+- **Artéria circunflexa (CX):** irriga parede lateral do ventrículo esquerdo; em dominância esquerda pode irrigar parte da parede inferior.
 
+Ramos importantes da DA incluem septais e diagonais. Ramos marginais obtusos são típicos da CX.
 
-## Anatomia das Artérias Coronárias
+### Coronária direita
 
-O coração é irrigado por duas artérias coronárias que emergem diretamente dos **seios de Valsalva** da aorta ascendente, logo acima da valva aórtica.
+A coronária direita percorre o sulco atrioventricular direito e costuma irrigar:
 
-**Artéria Coronária Esquerda (ACE) / Tronco de Coronária Esquerda:**
-- Bifurca-se em **Artéria Descendente Anterior (DA)** e **Artéria Circunflexa (CX)**
-- DA: irriga parede anterior do VE, septo interventricular anterior, ápice cardíaco (ramos diagonais e septais)
-- CX: irriga parede lateral do VE; em dominância esquerda, também a parede inferior
+- parede livre do ventrículo direito;
+- parte da parede inferior do ventrículo esquerdo (dependendo da dominância);
+- nódulo sinoatrial em parcela relevante dos indivíduos;
+- nódulo atrioventricular na maioria dos casos.
 
-**Artéria Coronária Direita (ACD):**
-- Irriga VD, nódulo SA (em ~60% dos casos), nódulo AV (em ~85–90% dos casos)
-- Em **dominância direita** (prevalente em ~70% da população): ACD dá origem à Artéria Descendente Posterior (ADP), que irriga parede inferior do VE e septo posterior
+### Dominância coronariana e implicação clínica
 
-> **Dica de Prova:** Dominância coronariana é definida por qual artéria origina a ADP. Dominância DIREITA é a mais comum (~70%). O nódulo AV é irrigado pela ADP em 85% → infarto inferior (oclusão de ACD) pode causar bloqueio AV.
+Dominância é definida por quem origina a artéria interventricular posterior (descendente posterior):
 
-**Territórios e consequências clínicas:**
-- Oclusão da DA proximal → infarto anterior extenso, disfunção de VE, bloqueio de ramo esquerdo
-- Oclusão da ACD → infarto inferior + infarto de VD, bloqueio AV, bradicardia
-- Oclusão da CX → infarto lateral, às vezes silencioso no ECG convencional
+- **Direita (mais comum):** descendente posterior vem da coronária direita.
+- **Esquerda:** descendente posterior vem da circunflexa.
+- **Codominância:** contribuição de ambas.
 
----
+> **Dica de Prova:** a dominância não é definida por quem irriga “mais miocárdio”, mas por quem dá origem à descendente posterior. Esse detalhe semântico é uma pegadinha recorrente.
 
-## Fisiologia da Circulação Coronariana
+### Tabela comparativa de territórios e achados esperados
 
-O fluxo coronariano total em repouso é de aproximadamente **250 mL/min** (~5% do débito cardíaco), podendo aumentar 4–5 vezes no exercício (reserva coronariana).
-
-**Por que o fluxo coronariano ocorre na diástole?**
-Durante a sístole, a contração ventricular comprime os vasos intramurais, especialmente no subendocárdio — a pressão intramural supera a pressão aórtica de perfusão. Assim, o fluxo coronariano do **ventrículo esquerdo** ocorre quase exclusivamente na diástole. O VD, por ter menor pressão intramural, mantém algum fluxo sistólico.
-
-Regulação do fluxo coronariano:
-- **Metabólica (principal):** adenosina (produto do metabolismo do ATP miocárdico) é vasodilatador coronariano potente; também CO₂, H⁺ e K⁺
-- **Neural:** simpático (β₂) → vasodilatação indireta; α₁ → vasoconstrição discreta
-- **Endotelial:** NO → vasodilatação; endotelina → vasoconstrição
-
-> **Pegadinha:** O coração extrai em média **70–75% do O₂** que recebe no sangue arterial — a maior taxa de extração de O₂ de qualquer órgão. Logo, quando a demanda aumenta, o único recurso é AUMENTAR O FLUXO (não aumentar extração, que já está no limite). Essa é a base da angina de esforço.
+| Artéria acometida | Território predominante | Achados clássicos em prova | Complicações associadas |
+|---|---|---|---|
+| **DA proximal** | Parede anterior do VE, septo anterior, ápice | Supra em precordiais anteriores (V1-V4) | Choque cardiogênico, bloqueios |
+| **Coronária direita** | Parede inferior, VD, sistema de condução | Supra inferior (DII, DIII, aVF) | Bradicardia, Infarto de VD |
+| **Circunflexa** | Parede lateral do VE | Alterações laterais (I, aVL, V5-V6) | Subdiagnóstico em ECG de 12 derivações |
 
 ---
 
-## Microcirculação
+## Perfusão miocárdica no ciclo cardíaco
 
-A microcirculação compreende arteríolas, capilares e vênulas pós-capilares. É o local onde ocorrem as trocas entre sangue e tecido.
+A perfusão coronariana do ventrículo esquerdo ocorre majoritariamente na **diástole**. Durante a sístole, a pressão intramiocárdica comprime os vasos intramurais, sobretudo no subendocárdio, reduzindo fluxo efetivo.
 
-**Forças de Starling nas trocas capilares:**
+A perfusão coronariana depende de três pilares:
+1. **Pressão de perfusão diastólica aórtica**.
+2. **Tempo diastólico** (encurtado na taquicardia).
+3. **Resistência vascular coronariana**.
 
-| Força | Direção | Magnitude típica |
-|-------|---------|-----------------|
-| Pressão hidrostática capilar (Pc) | Filtração (saída) | ~32 mmHg arteriolar → ~15 mmHg venular |
-| Pressão oncótica plasmática (πp) | Reabsorção (entrada) | ~25 mmHg |
-| Pressão hidrostática intersticial (Pi) | Reabsorção | ~−3 mmHg (sob−pressão) |
-| Pressão oncótica intersticial (πi) | Filtração | ~8 mmHg |
-
-No polo arteriolar, a filtração predomina (~10 mmHg líquidos); no polo venular, a reabsorção predomina. O excedente (~10% do filtrado) é recolhido pelo sistema linfático.
-
-**Causas de edema (desequilíbrio de Starling):**
-- Aumento de Pc: IC congestiva, obstrução venosa
-- Queda de πp: hipoalbuminemia (cirrose, síndrome nefrótica, desnutrição)
-- Aumento de permeabilidade capilar: inflamação, queimaduras, anafilaxia
-- Bloqueio linfático: linfedema, filariose
+> **Pegadinha:** “O miocárdio aumenta a extração de oxigênio no esforço.” Errado. A extração basal já é alta; o ajuste é por **Vasodilatação** e aumento do fluxo.
 
 ---
 
-## Sistema Linfático
+## Microcirculação e Forças de Starling
 
-Os capilares linfáticos iniciais são permeáveis a proteínas e células, ao contrário dos capilares sanguíneos. O linfa flui por gânglios linfáticos regionais, linfonodos e retorna à corrente sanguínea pelo ducto torácico (que drena na junção jugular-subclávia esquerda).
+As trocas de água no capilar são descritas pelas **Forças de Starling**:
 
-Funções:
-- Recolher proteínas e líquido intersticial excedente (evita edema)
-- Transporte de gorduras absorvidas no intestino (quilomícrons via quilíferos)
-- Vigilância imunológica (linfonodos filtram antígenos)
+- **Pressão hidrostática capilar (Pc):** favorece saída (filtração).
+- **Pressão oncótica plasmática:** favorece entrada (reabsorção).
 
-> **Dica de Prova:** O bloqueio dos vasos linfáticos por filariose (Wuchereria bancrofti) causa **elefantíase** — linfedema progressivo de membros inferiores e bolsa escrotal. Também importante: mastectomia radical com esvaziamento axilar pode causar linfedema ipsilateral do braço.
+Mecanismos de Edema:
+| Mecanismo | O que muda | Exemplo clínico |
+|---|---|---|
+| **Pressão Hidrostática** | Pc sobe | Insuficiência cardíaca |
+| **Pressão Oncótica** | Cai a plasmática | Síndrome nefrótica, Cirrose |
+| **Permeabilidade** | Sobe o extravasamento | Inflamação, Sepse |
+| **Drenagem Linfática** | Reduzida | Filariose, Pós-cirurgia |
 
 ---
 
-## Pontos-Chave
+## Fisiopatologia da Isquemia Miocárdica
 
-- ADA/DA: parede anterior do VE e septo; ACD: parede inferior + VD + nódulo SA/AV; CX: parede lateral
-- Dominância coronariana direita em ~70%: ADP origina-se da ACD
-- Fluxo coronariano do VE ocorre predominantemente na DIÁSTOLE (sístole comprime vasos intramurais)
-- Miocárdio extrai ~70–75% do O₂ arterial — máxima taxa de extração do organismo
-- Adenosina é o principal vasodilatador coronariano metabólico (acúmulo de AMP)
-- Forças de Starling: Pc e πi favorecem filtração; πp e Pi favorecem reabsorção
-- Edema = excesso de filtração ou bloqueio de reabsorção/drenagem linfática
-- Linfedema = bloqueio linfático (filariose, pós-cirurgia com esvaziamento ganglionar)
-- BNP e ANP reconhecem distensão e antagonizam sobrecarga de volume
-- Isquemia subendocárdica: região mais vulnerável por ser a mais distante do lúmen coronariano
+A sequência clássica inclui:
+1. Redução de **ATP**;
+2. Mudança para metabolismo **Anaeróbio** (lactato);
+3. Disfunção de bomba iônica;
+4. Perda de contratilidade regional;
+5. **Necrose** (se persistir).
+
+O **Subendocárdio** é a zona mais vulnerável por sofrer maior compressão sistólica.
 
 ---
 
 ## Ponte com a Clínica
 
-O **infarto agudo do miocárdio** (IAM) é a expressão máxima da falência da circulação coronariana. A localização do IAM determina quais estruturas estão ameaçadas: oclusão proximal da DA pode causar bloqueio de ramo esquerdo e choque cardiogênico; oclusão da ACD frequentemente produz bloqueio AV e infarto de VD, exigindo cuidado especial para não reduzir a pré-carga (contraindicação de nitratos). O uso de adenosina em testes de estresse farmacológico (cintilografia miocárdica) baseia-se diretamente na vasodilatação coronariana dependente de adenosina — um coração com estenose coronariana não dilata o vaso obstruído, revelando a isquemia por redistribuição de fluxo.
+Paciente com dor torácica e supra em parede inferior: pense em **Coronária Direita**. Cuidado com a pré-carga, pois o VD infartado depende dela para manter o débito. Se houver edema em membros inferiores, o mecanismo dominante é o aumento da **Pressão Hidrostática**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **DA** na parede anterior; **CX** na lateral; **Direita** na inferior/VD.
+- VE perfunde na **diástole**.
+- Extração de O2 do miocárdio é máxima; reserva depende de **Fluxo**.
+- Edema: hidrostática, oncótica, permeabilidade ou linfático.
 
 ---
 
@@ -124,33 +122,29 @@ O **infarto agudo do miocárdio** (IAM) é a expressão máxima da falência da 
 
 ### Síntese para a prova
 
+Na prova, mapeie os territórios coronarianos:
+- **Descendente Anterior (DA):** Parede anterior do VE e septo interventricular.
+- **Circunflexa (CX):** Parede lateral do VE.
+- **Coronária Direita:** Parede inferior, VD e sistema de condução (**Nó AV**).
 
-DA: parede anterior VE + septo anterior — oclusão → infarto anterior extenso. ACD: parede inferior VE + VD + nódulo SA/AV — oclusão → infarto inferior + bloqueio AV. CX: parede lateral VE — oclusão → infarto lateral (pode ser silencioso no ECG).
+Ponto Crítico: O **Ventrículo Esquerdo** recebe perfusão majoritariamente na **Diástole**, pois a sístole comprime os vasos intramurais. Taquicardia reduz esse tempo de oferta. Como o coração já extrai muito oxigênio, a compensação no esforço depende do **Aumento do Fluxo** (vasodilatação), não de extração adicional.
 
-Dominância direita (~70%): ADP sai da ACD — define qual artéria irriga a parede inferior. Fluxo coronariano na diástole: sístole comprime vasos intramurais do VE. Extração de O₂ miocárdica ~70–75%: para aumentar oferta, só aumentando fluxo.
-
-Adenosina: acúmulo de AMP → vasodilatação coronariana (mecanismo da angina). Edema: desequilíbrio de Starling — Pc↑ (IC), πp↓ (hipoalbuminemia), permeabilidade↑ (inflamação). Linfedema: bloqueio do retorno linfático (filariose = elefantíase; pós-mastectomia).
-
-Ducto torácico: drena linfa na junção jugular-subclávia ESQUERDA.
+No interstício, o **Edema** segue as **Forças de Starling**:
+1. Aumento de **Pressão Hidrostática** (ex.: IC).
+2. Queda de **Pressão Oncótica** (ex.: Hipoalbuminemia).
+3. Aumento de **Permeabilidade** (ex.: Inflamação).
+4. Obstrução da drenagem **Linfática**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Infarto anterior (DA) | Infarto inferior (ACD) | Anterior: V1–V4 no ECG; Inferior: D2, D3, aVF |
-| Dominância direita | Dominância esquerda | Direita = ADP da ACD (~70%); Esquerda = ADP da CX (~30%) |
-| Fluxo coronariano VE | Fluxo coronariano VD | VE: principalmente na diástole; VD: também na sístole (menor Pint) |
-| Edema cardiogênico | Edema por hipoalbuminemia | Cardiogênico: Pc↑ (IC); Hipoalbuminemia: πp↓ (cirrose, nefrótico) |
-| Linfedema | Edema inflamatório | Linfedema: bloqueio linfático, proteína alta; Inflamatório: permeabilidade capilar↑ |
+| **Dominância Direta** | **Dominância Esquerda** | Origem da **Artéria Descendente Posterior** |
+| **Perfusão do VE** | **Perfusão do VD** | Ocorre na **Diástole** vs Ocorre em ambos (baixa pressão) |
+| **Isquemia** | **Infarto** | Desequilíbrio oferta-demanda vs **Necrose** tecidual |
+| **Edema IC** | **Edema Nefrótico** | Hidrostática elevada vs **Oncótica plasmática baixa** |
+| **Linfedema** | **Edema Venoso** | Falha de drenagem vs Falha de retorno (estase) |
 
 ### Frase-âncora para não esquecer
 
-> "O coração já extrai quase tudo do sangue que recebe — quando precisa mais, só pede mais fluxo. E esse fluxo só chega na diástole."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "VE perfunde na **Diástole**; o interstício se mantém seco pelas forças de **Starling** e a drenagem linfática."

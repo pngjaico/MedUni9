@@ -1,135 +1,96 @@
-# Prática Simulada — Manequins e Pacientes Padronizados
+# SEMIO4 — Aula 9: Prática Simulada (OSCE) — O Teatro do Diagnóstico
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 4 | **Aula:** semio4_a9
+A prática simulada é o ensaio geral para a vida real. Na prova, os temas centrais são a organização da estação de **OSCE**, a execução do **Checklist** em ordem lógica e o domínio dos sintomas em **Atores Padronizados**.
+
+Na prática, em uma estação de OSCE, o tempo é seu maior inimigo. Você tem poucos minutos para entrar, se apresentar, lavar as mãos, ouvir a queixa do paciente, examiná-lo e dar uma hipótese diagnóstica. Saber a sequência do exame de cor não é apenas para passar na prova; é para garantir que, no estresse de um plantão real, você não esqueça de testar algo vital como as pupilas ou a força nos pés.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A prática simulada é onde o conhecimento teórico vira habilidade clínica real. Trabalhar com manequins e atores padronizados (APs) permite cometer erros num ambiente seguro e aprender com feedback imediato. A Uninove avalia essa estação em OSCE com checklist específico — saber a sequência correta do exame neurológico valida pontos objetivos.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO4-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de sequência de exame.
+- **O que mostrar:** O "Cronômetro do OSCE": Um gráfico circular dividindo os 10 minutos de uma estação típica. 1 min (Introdução/Lavar mãos); 2 min (Anamnese); 5 min (Exame Físico Focado); 2 min (Síntese e Conduta).
+- **Tipo sugerido:** Infográfico de gestão de tempo em provas práticas.
+- **Legenda (rascunho):** Divisão estratégica de tempo para estações de habilidades neurológicas.
 
+## 1. A Regra de Ouro: Comunicação e Ética
 
-
-
----
-
-## Estrutura da Estação OSCE em Neurologia
-
-Uma estação típica de semiologia neurológica dura 10–12 minutos:
-
-1. **Introdução (1 min):** higienização das mãos, apresentação, consentimento verbal.
-2. **Anamnese dirigida (2–3 min):** queixa principal, cronologia, fatores de risco (HAS, DM, tabagismo, FA).
-3. **Exame neurológico (6–7 min):** sequência padronizada.
-4. **Síntese (1 min):** hipótese diagnóstica e próximo passo.
+Em uma prova prática, o examinador não está vendo apenas se você sabe medicina, mas se você sabe ser médico:
+- **Lave as mãos:** É o primeiro passo e vale pontos fáceis.
+- **Apresente-se:** "Olá, sou o Dr. [Seu Nome], serei seu médico hoje".
+- **Explique o que vai fazer:** "Vou testar seus reflexos com este martelo, tudo bem?". Isso acalma o paciente e mostra domínio da técnica.
+- **Privacidade:** Garanta que o paciente se sinta confortável durante as manobras.
 
 ---
 
-## Sequência Padronizada do Exame Neurológico Completo
+## 2. A Sequência do Exame no OSCE
 
-Adapte conforme o cenário, mas memorize a ordem:
-
-1. **Nível de consciência e orientação** — ECG verbal, temporal, espacial.
-2. **Nervos cranianos** — Pupilas + MOE + face (VII) + deglutição (IX/X) + língua (XII).
-3. **Força muscular** — MRC nos 4 membros (proximal e distal).
-4. **Tônus** — Movimentação passiva.
-5. **Reflexos tendíneos** — Bicipital, tricipital, patelar, aquileu.
-6. **Reflexos patológicos** — Babinski bilateral.
-7. **Sensibilidade** — Dor (alfinete), vibração (diapasão), propriocepção hálux.
-8. **Provas cerebelares** — Dedo-nariz, calcanhar-joelho, disdiadococinesia.
-9. **Marcha e equilíbrio** — Romberg, marcha sobre linha reta, na ponta dos pés, no calcanhar.
-10. **Funções cognitivas** — Orientação, memória (3 palavras), linguagem.
-
-> **Dica:** No OSCE, o checklist não perdoa passos omitidos. Treine a sequência até virar automático. Anunciar o que vai fazer ("vou testar seus reflexos agora") demonstra comunicação e pontua.
+Tente não pular de um lado para o outro. Siga uma ordem direta:
+1.  **Consciência:** "Sr. [Nome], sabe onde estamos? Que dia é hoje?".
+2.  **Pares Cranianos:** Pupilas (luz), Sorriso (facial) e Língua.
+3.  **Força e Reflexo:** Testar braços e pernas. Sempre compare os dois lados (**Simetria**).
+4.  **Coordenação:** Dedo-nariz e Marcha.
+5.  **Sinais de Alerta:** Testar se há pescoço duro (**Rigidez de Nuca**) se o caso for de dor de cabeça.
 
 ---
 
-## Cenários Comuns de APs — Abordagem
+## 3. Casos Clássicos de Atores (APs)
 
-**Cefaleia aguda intensa:**
-- Perguntar: início (súbito = alarme), características, febre, rigidez de nuca, fotofobia.
-- Exame: sinais meníngeos (Kernig, Brudzinski), pupilas, fundo de olho (papiledema).
-- Hipótese: HSA (cefaleia em trovoada) vs. meningite vs. enxaqueca.
-
-**Vertigem:**
-- Perguntar: rotação do ambiente vs. desequilíbrio, náusea, zumbido, perda de audição.
-- Exame: Nylen-Bárány (VPPB), Romberg, prova dedo-nariz, equilíbrio.
-- Hipótese: VPPB (posicional, sem déficit auditivo) vs. neurite vestibular vs. AVC de fossa posterior (Romberg positivo com sinais cerebelares).
-
-**Fraqueza súbita de membros:**
-- Perguntar: início (súbito = AVC), progressão, simetria, história de AIT.
-- Exame: força MRC, reflexos, Babinski, linguagem (afasia?), pupilas.
-- Hipótese: AVC em território ACM vs. EM vs. ELA (fraqueza progressiva + fasciculações).
+Existem três tipos de pacientes que costumam aparecer no teatro da prova:
+- **O "Lado Parado":** O ator finge que não mexe um lado do corpo. Sua missão é identificar se é AVC (início rápido) e se há perda de fala.
+- **O "Tonto":** O ator reclama de vertigem ao deitar. Você deve fazer a manobra de **Dix-Hallpike** e, se o olho dele "tremer", diagnosticar a **VPPB**.
+- **O "Confuso":** Um familiar traz o paciente que "não está bem". Foque em ver se há febre e sinais de meningite (**Kernig e Brudzinski**).
 
 ---
 
-## Sinais Meníngeos — Técnica
+## 4. Síntese e Próximo Passo
 
-**Rigidez de nuca:** mão sob a cabeça, flexão passiva do pescoço. Resistência = positivo.
-
-**Kernig:** paciente deitado, flexiona quadril a 90° → tenta estender joelho. Dor/resistência = positivo.
-
-**Brudzinski:** ao fletir o pescoço, os joelhos se flexionam involuntariamente = positivo.
-
-> **Pegadinha:** Sinais meníngeos podem ser negativos em imunossuprimidos, idosos e no início da meningite. A ausência deles não exclui.
-
----
-
-## Comunicação Efetiva no Exame
-
-- Explique cada passo ao paciente.
-- Pergunte sobre dor antes de prosseguir.
-- Mantenha postura profissional mesmo com o AP.
-- Documente mentalmente os achados para a síntese final.
-
----
-
-## Pontos-Chave
-
-- OSCE neurológico: introdução → anamnese → exame sequência fixa → síntese com hipótese e próximo passo.
-- Cefaleia em trovoada: sempre pensar em HSA → TC crânio urgente.
-- Sinais meníngeos: rigidez de nuca + Kernig + Brudzinski → meningite/encefalite ou HSA.
-- VPPB: vertigem posicional, Nylen-Bárány positivo, sem déficit auditivo.
-- AVC vs. AIT: AVC dura mais 24h com déficit permanente; AIT resolve completamente.
-- Anunciar cada passo = comunicação = pontos no OSCE.
+Ao final da estação, você deve dizer claramente:
+- **Hipótese:** "Minha principal suspeita para este paciente é um AVC Isquêmico agudo".
+- **Conduta:** "Solicito uma **Tomografia de Crânio sem contraste** imediatamente e avalio a indicação de trombolítico".
+- **Dica:** O examinador quer ouvir termos técnicos como "Sinal de Babinski presente" ou "Anisocoria à direita".
 
 ---
 
 ## Ponte com a Clínica
 
-A simulação com manequins e APs é o método mais eficaz de preparar o estudante para o pronto-socorro real. Os erros cometidos no laboratório não prejudicam pacientes reais. Pacientes simulados reagem como esperado — o real nunca reage como esperado. A diferença é que a sequência sistematizada ensaiada na simulação passa a ser automática, liberando atenção cognitiva para o raciocínio clínico.
+No laboratório de simulação, você aprende que a pressa é inimiga da perfeição. Se você sair correndo para o exame motor sem lavar as mãos ou se apresentar, perderá pontos que podem custar a aprovação. Na vida real, o "OSCE" acontece em todo atendimento. Se você for grosseiro ou desorganizado, o paciente não confiará em você, e um diagnóstico correto pode ser ignorado por falta de uma boa relação médico-paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Checklist**: É a sua bússola; siga a ordem proposta para não omitir manobras essenciais.
+- **Anunciar Achados**: No OSCE, se você viu que a pupila é normal, diga em voz alta: "Pupilas isocóricas e fotorreativas". Isso garante o ponto.
+- **Sinais Meníngeos**: Brudzinski (flexão do pescoço gera flexão das pernas) e Kernig (dor ao esticar a perna com o quadril fletido).
+- **VPPB**: A manobra de diagnóstico é a **Dix-Hallpike**, e a de tratamento é a de **Epley**.
+- **Segurança do Paciente**: No OSCE de trauma, nunca mova o pescoço do boneco/ator sem antes garantir que a coluna cervical está protegida.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Sequência OSCE:** higiene → apresentação → anamnese → exame sequencial → síntese.
-- **Cefaleia em trovoada:** pensar em HSA → TC urgente → se negativa: PL.
-- **Kernig:** flexão de quadril, extensão de joelho resistida = sinal meníngeo.
-- **VPPB:** posicional, sem zumbido, Nylen-Bárány + → manobra de Epley.
-- **AVC vs AIT:** AIT resolve em <24h sem déficit residual — risco alto de AVC nos próximos dias.
-- **Sinais meníngeos negativos:** não excluem meningite em idosos e imunossuprimidos.
+
+Para gabaritar o OSCE, foque na postura e na sistematização. 
+**Lave as mãos** -> **Fale com o paciente** -> **Exame ordenado** -> **Hipótese clara**.
+
+A Uninove adora **Manobras**. Lembre-se: **Babinski** é raspar o pé; **Romberg** é fechar o olho. Outro ponto forte: o **AVV**. Se o paciente tem boca torta e fala ruim, a conduta é TC e acionar o protocolo de AVC. Por fim, saiba que no exame físico, o lado afetado sempre manda na topografia: se a fraqueza é na direita, a lesão é no cérebro esquerdo.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Cenário A | Cenário B | Como diferenciar |
-|-----------|-----------|-----------------|
-| VPPB | Neurite vestibular | VPPB: posicional, breve; neurite: persistente, sem surdez |
-| HSA | Enxaqueca | HSA: súbita "pior da vida"; enxaqueca: progressiva, recorrente |
-| Kernig + meningite | Kernig - em imunossup. | Imunossup. pode não ter sinais apesar de ter meningite |
-| AIT | AVC | AIT: resolve <24h; AVC: déficit permanente |
+| Passo A | Passo B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Anamnese** | **Exame Físico** | **O que o paciente diz** vs **O que você encontra** |
+| **Sinal de Kernig** | **Sinal de Brudzinski** | Dor na **Perna/Joelho** vs Flexão do **Pescoço** |
+| **Dix-Hallpike** | **Epley** | Manobra de **Diagnosticar** vs Manobra de **Tratar** |
+| **Parada Cardíaca** | **Coma (Glasgow 3)** | **Sem Pulso** vs **Com Pulso**, mas sem resposta |
+| **Hemiparesia** | **Hemiplegia** | Perda **Parcial** de força vs Perda **Total** |
 
 ### Frase-âncora para não esquecer
-> "No OSCE: sequência, comunicação, hipótese. Na clínica: o mesmo — mas o paciente real surpreende."
+
+> "Entrou, lavou, falou, examinou. No OSCE o silêncio é o seu pior erro: se você viu, diga para o examinador ouvir. Pescoço duro é medo de meninge; hálux pra cima é o cérebro que infringe. Se o tempo acabou, a hipótese você anunciou."

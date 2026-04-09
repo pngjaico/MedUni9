@@ -4094,11 +4094,13 @@
           if (!banner || !btn || !registration || !registration.waiting) return;
           banner.style.display = 'flex';
           btn.onclick = function() {
-            try {
+            btn.disabled = true;
+            btn.innerText = 'Atualizando...';
+            if (registration.waiting) {
               registration.waiting.postMessage({ type: 'SKIP_WAITING' });
-            } catch (e) {
-              window.location.reload();
             }
+            // Fallback: se o controllerchange não disparar em 1.5s, força o reload
+            setTimeout(function() { window.location.reload(true); }, 1500);
           };
         }
 
@@ -12356,6 +12358,7 @@
         }
         const { onAuthStateChanged, signOut: fbSignOut } = window.__fbAuthFns;
         const unsubscribe = onAuthStateChanged(window.__fbAuth, async (firebaseUser) => {
+          const APP_VERSION = '2026-04-09-v3'; // Timestamp/versão para cache-busting do JSON data
           if (firebaseUser) {
             let cachedProfile = null;
             try {
@@ -12412,12 +12415,13 @@
 
       const loadAppData = async () => {
         try {
-          // Load data from external JSON files
+          const APP_VERSION = 'v1.0.' + Date.now();
+          // Load data from external JSON files with cache-busting
           const [materiasRes, flashcardsRes, questoesRes, antigasRes] = await Promise.all([
-            fetch('data/materias.json').catch(() => null),
-            fetch('data/flashcards.json').catch(() => null),
-            fetch('data/questoes.json').catch(() => null),
-            fetch('data/questoes_antigas.json').catch(() => null)
+            fetch(`data/materias.json?v=${APP_VERSION}`).catch(() => null),
+            fetch(`data/flashcards.json?v=${APP_VERSION}`).catch(() => null),
+            fetch(`data/questoes.json?v=${APP_VERSION}`).catch(() => null),
+            fetch(`data/questoes_antigas.json?v=${APP_VERSION}`).catch(() => null)
           ]);
 
           let materiasData = [];

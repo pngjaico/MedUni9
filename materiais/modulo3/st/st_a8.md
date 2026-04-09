@@ -1,155 +1,92 @@
-# ST — Aula 8: Prevenção e vigilância em saúde do trabalhador
+# ST — Aula 8: Prevenção e Vigilância em Saúde do Trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A prevenção e a vigilância são o "escudo" e a "luneta" da Saúde do Trabalhador. Na prova, os temas centrais são os **Níveis de Prevenção** (Primária, Secundária e Terciária) e a compreensão de como a rede do SUS (**RENAST e CEREST**) atua para proteger quem trabalha.
+
+Na prática, o médico não deve se contentar em apenas tratar o doente. A verdadeira medicina do trabalho acontece quando você identifica um **Evento Sentinela** (um acidente que não deveria ter acontecido) e move as peças da vigilância para que as máquinas sejam consertadas ou o processo seja mudado, garantindo que o próximo trabalhador não sofra o mesmo dano.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Prevenção e vigilância são o núcleo da saúde do trabalhador porque deslocam o foco do atendimento tardio para a intervenção precoce no risco. A prática médica não termina no diagnóstico individual: ela precisa retroalimentar mudanças no ambiente e no processo de trabalho.
-
-Em prova, o tema aparece como integração entre vigilância epidemiológica, vigilância sanitária, assistência, notificação e gestão de risco institucional.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A8-F01`
 
-- **Momento:** após o conceito de vigilância integrada.
-- **O que mostrar:** ciclo contínuo "identificar risco -> intervir -> monitorar indicador -> reavaliar processo".
-- **Tipo sugerido:** esquema didático em ciclo.
-- **Legenda (rascunho):** "Ciclo de prevenção e vigilância em saúde do trabalhador."
-- **Notas (opcional):** usar setas simples e palavras curtas para leitura rápida.
+- **Momento:** Seção de níveis de prevenção.
+- **O que mostrar:** O "Escudo Progressivo": Três barreiras protegendo o trabalhador. 1. **Primária:** A barreira que impede o perigo de chegar (Eliminação do risco). 2. **Secundária:** A barreira que acha a doença no início (Exames). 3. **Terciária:** A barreira que evita que o estrago aumente (Reabilitação).
+- **Tipo sugerido:** Infográfico didático | Esquema de barreiras.
+- **Legenda (rascunho):** Os três níveis de prevenção aplicados à rotina de saúde ocupacional.
+
+## 1. Os Três Níveis de Prevenção
+
+- **Prevenção Primária (Evitar a Doença):** É a mais eficaz. Foca em reduzir a exposição.
+    - **Exemplos:** Trocar um produto químico tóxico por água, instalar ventiladores ou treinar a equipe.
+- **Prevenção Secundária (Achar Cedo):** Foca em diagnosticar antes que o trabalhador perceba que está doente.
+    - **Exemplos:** Realizar audiometrias periódicas para achar surdez no início ou fazer triagens de humor para evitar depressão.
+- **Prevenção Terciária (Reduzir o Estrago):** Foca no trabalhador que já adoeceu.
+    - **Exemplos:** Fisioterapia para quem tem LER, adaptação de função (readaptação) e garantir que o retorno ao trabalho seja seguro.
 
 ---
 
-## Níveis de prevenção no contexto ocupacional
+## 2. Vigilância Integrada: Ambiente, Agravo e Resposta
 
-### Prevenção primária
-
-Atua antes do adoecimento, reduzindo exposição e vulnerabilidade:
-- eliminação/substituição de agente perigoso,
-- controle de engenharia,
-- organização de jornada e pausas,
-- capacitação e cultura de segurança.
-
-### Prevenção secundária
-
-Busca detectar precocemente agravo relacionado ao trabalho:
-- vigilância ativa de sintomas,
-- rastreio em grupos expostos,
-- exames ocupacionais periódicos,
-- notificação oportuna de eventos sentinela.
-
-### Prevenção terciária
-
-Minimiza incapacidade e recorrência:
-- reabilitação funcional,
-- adaptação de posto e tarefas,
-- retorno ao trabalho com plano assistido,
-- monitoramento longitudinal do caso.
-
-> **Dica de Prova:** prevenção primária reduz exposição; secundária detecta cedo; terciária reduz dano e incapacidade.
+A vigilância de verdade não é só contar mortos, é uma engrenagem de três frentes:
+1.  **Vigilância de Ambientes:** Ir até a fábrica e ver se o perigo está lá (fiscalização).
+2.  **Vigilância de Agravos:** Olhar os registros de acidentes e doenças (epidemiologia).
+3.  **Vigilância de Resposta:** Verificar se, depois do acidente, a empresa realmente mudou o que era preciso.
 
 ---
 
-## Vigilância em saúde do trabalhador: componentes essenciais
+## 3. A Rede do SUS para o Trabalhador
 
-A vigilância efetiva combina três frentes:
-
-1. **Vigilância de ambientes e processos:** identifica perigos no local de trabalho.
-2. **Vigilância de agravos:** acompanha acidentes, intoxicações, transtornos e doenças ocupacionais.
-3. **Vigilância de resposta institucional:** mede se a intervenção foi implementada e funcionou.
-
-Sem integração dessas frentes, o serviço entra em ciclo de repetição de eventos.
-
-### Figura sugerida
-
-**Figura-ID:** `ST-A8-F02`
-
-- **Momento:** após os componentes essenciais da vigilância.
-- **O que mostrar:** diagrama de três blocos conectados (ambiente, agravo, resposta institucional).
-- **Tipo sugerido:** infográfico simples.
-- **Legenda (rascunho):** "Componentes que sustentam a vigilância em saúde do trabalhador."
-- **Notas (opcional):** evitar excesso de texto nas caixas.
+O SUS tem uma estrutura específica para isso chamada **RENAST** (Rede Nacional de Atenção Integral à Saúde do Trabalhador).
+- **O CEREST:** É o Centro de Referência. Ele não atende "qualquer coisa"; ele é a inteligência que apoia as UBS e hospitais. Se você atende um caso de intoxicação por agrotóxico, o **CEREST** é quem te ajuda a investigar qual veneno foi e como proteger a plantação toda.
 
 ---
 
-## RENAST, CEREST e rede assistencial
+## 4. O Evento Sentinela: O Sinal de Alerta
 
-No SUS, a **RENAST** articula ações de vigilância e cuidado em saúde do trabalhador, com apoio dos **CEREST** regionais/estaduais.  
-O objetivo é apoiar municípios e serviços na investigação de agravos, capacitação de equipes e proposição de medidas preventivas.
-
-A assistência clínica deve dialogar com essa rede. Quando o caso é atendido e notificado, mas não gera ação no território, a vigilância fica incompleta.
-
----
-
-## Tabela comparativa: prevenção x vigilância na prática
-
-| Eixo | Pergunta central | Exemplo prático | Indicador de acompanhamento |
-|------|------------------|-----------------|-----------------------------|
-| Prevenção primária | Como evitar que o evento ocorra? | Troca de solvente tóxico por alternativa menos nociva | Redução de exposição medida no ambiente |
-| Prevenção secundária | Como detectar cedo o dano? | Triagem periódica de sintomas respiratórios em setor de risco | Proporção de casos detectados em fase inicial |
-| Prevenção terciária | Como reduzir sequelas e recorrência? | Retorno ao trabalho com adaptação gradual de função | Taxa de reintegração sem novo afastamento |
-| Vigilância de agravos | Onde e com quem o dano está ocorrendo? | Mapa de acidentes por setor e turno | Incidência por setor ao longo do tempo |
-| Vigilância de resposta | A intervenção funcionou? | Auditoria após mudança de protocolo | Queda sustentada de frequência e gravidade |
-
-> **Pegadinha:** ação educativa isolada, sem mudança de processo de trabalho, raramente sustenta prevenção efetiva.
-
----
-
-## Eventos sentinela e resposta rápida
-
-Alguns eventos exigem resposta imediata por alto potencial de dano coletivo:
-- acidente grave com risco de repetição,
-- exposição química aguda em múltiplos trabalhadores,
-- surto de sintomas em setor específico,
-- falha sistêmica de barreira de segurança.
-
-A resposta rápida inclui investigação, medida corretiva emergencial, comunicação para gestão e monitoramento intensivo de curto prazo.
+Um evento sentinela é aquele acidente ou doença que, por si só, diz que "algo está muito errado".
+- **Exemplos:** Um óbito no trabalho, um acidente com muitos feridos ao mesmo tempo ou um caso de câncer em um setor onde todos tomam a mesma substância.
+- **A Conduta:** Esses casos exigem **Investigação Imediata**. O médico não pode esperar o mês acabar para notificar; o risco de repetição é alto e vidas estão em perigo.
 
 ---
 
 ## Ponte com a Clínica
 
-Uma UPA registra aumento de acidentes com perfurocortante no plantão noturno. A equipe percebe que a maioria ocorre no descarte de material após sobrecarga de demanda. A intervenção combina reorganização do fluxo, reforço de barreiras físicas, reposicionamento de caixas coletoras e supervisão no turno crítico.
-
-Nos meses seguintes, a incidência cai de forma sustentada e o indicador de gravidade também melhora. Esse é o exemplo clássico de integração entre vigilância de risco e prevenção efetiva.
+No seu plantão, se você atender uma enfermeira que se furou com uma agulha e ela relatar que as caixas de descarte de perfurocortante estão sempre superlotadas, você identificou uma falha de **Prevenção Primária** (falha na estrutura). A sua conduta não é apenas dar os remédios (Prevenção Terciária), mas sim relatar essa superlotação para a Comissão de Controle de Infecção Hospitalar (CCIH). Essa integração entre o seu atendimento clínico e a gestão do hospital é o que evita que o próximo colega se fure amanhã.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Prevenção primária, secundária e terciária têm objetivos distintos e complementares.
-- Vigilância em saúde do trabalhador precisa unir ambiente, agravo e resposta institucional.
-- RENAST/CEREST são estruturas de apoio técnico e articulação no SUS.
-- Evento sentinela exige investigação e intervenção rápida.
-- Indicador só tem valor se gerar decisão concreta de prevenção.
-- Questões clínicas cobram ligação entre caso individual e ação coletiva no território.
+- **Prevenção Primária**: Atua na fonte; é a única que realmente evita a ocorrência do dano.
+- **RENAST**: A rede que une todos os pontos do SUS (Posto, Hospital, Vigilância) em prol do trabalhador.
+- **Evento Sentinela**: Funciona como um "trauma" no sistema; exige resposta rápida e mudança de protocolo.
+- **Vigilância Sanitária ocupacional**: O poder do estado de entrar na empresa e exigir mudanças sob pena de multa.
+- **Reabilitação Profissional**: O foco central da prevenção terciária; evitar que o trabalhador vire um inválido precoce.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Em saúde do trabalhador, prevenção e vigilância caminham juntas. Prevenção atua para evitar adoecimento e reduzir dano; vigilância identifica onde, como e por que os eventos estão acontecendo para ajustar a intervenção. Quando a questão descreve aumento de casos em setor específico, o caminho esperado é investigar processo de trabalho e medir efeito da mudança.
+Para gabaritar Prevenção e Vigilância, foque no tempo da ação. 
+**Antes de adoecer** = Primária. **Achar no início** = Secundária. **Já adoeceu, quer recuperar** = Terciária. Se a questão cita um surto ou um acidente grave, a resposta é ligada a **Evento Sentinela**.
 
-Lembre dos três níveis de prevenção: primária evita exposição, secundária detecta precocemente e terciária reduz incapacidade. A banca costuma misturar conceitos para induzir erro, então vale identificar o momento do cuidado em que a ação acontece.
-
-No SUS, RENAST e CEREST fortalecem essa lógica de rede. A resposta de maior qualidade sempre conecta caso clínico, notificação, análise do risco e ação preventiva no serviço.
+A Uninove adora o **CEREST**. Lembre-se: ele é o "professor" da rede; dá suporte e investiga casos complexos. Outro ponto forte: mudar a tarefa do trabalhador para ele não piorar é **Prevenção Terciária**. Por fim, saiba que a vigilância de "Resposta Institucional" é a que mede se as promessas de segurança da empresa saíram do papel e viraram proteção real.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Prevenção primária | Prevenção secundária | Primária evita exposição; secundária detecta agravo precoce |
-| Vigilância de agravos | Vigilância de resposta | Agravos descrevem ocorrência; resposta mede efeito da intervenção |
-| Ação pontual educativa | Mudança estruturada de processo | Pontual tem efeito curto; estruturada tende a efeito sustentado |
-| Rede assistencial | Rede de vigilância | Assistencial trata indivíduo; vigilância transforma risco coletivo |
+| **Primária** | **Secundária** | Tirar o **Ruído** vs Fazer **Audiometria** |
+| **Secundária** | **Terciária** | Rastrear a **Doença** vs Tratar a **Sequela** |
+| **CEREST** | **VISAT** | Centro de **Referência** vs Ação de **Vigilância** em si |
+| **Evento Sentinela** | **Caso Comum** | Alerta de **Risco Coletivo** vs Adoecimento Individual |
+| **EPC** | **Mudança de Prática** | Barreira **Física** vs Barreira de **Comportamento** |
 
 ### Frase-âncora para não esquecer
 
-> "Sem vigilância, a prevenção é cega; sem prevenção, a vigilância vira contagem de danos."
+> "Primária evita, Secundária acha, Terciária cura. A vigilância é o olho que vê o perigo antes dele virar um enterro. Evento sentinela não se anota, se investiga com urgência."

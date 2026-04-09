@@ -1,176 +1,91 @@
-﻿# Imunodeficiências
+# MAD1 — Aula 7: Imunodeficiências
 
-## Relevância Clínica e Acadêmica
+As imunodeficiências ocorrem quando o sistema imune falha em proteger o organismo, seja por causas genéticas (**Primárias**) ou adquiridas (**Secundárias**). Na prova, o tema central é correlacionar o **Tipo de Patógeno** com a deficiência específica (ex: bactérias encapsuladas sugerem falta de anticorpos).
 
-As imunodeficiências são condições em que o sistema imune falha em proteger adequadamente o organismo, tornando o indivíduo vulnerável a infecções oportunistas, infecções recorrentes e neoplasias. Podem ser genéticas (primárias) ou adquiridas (secundárias), e o padrão do patógeno que causa a infecção orienta diretamente o diagnóstico: infecções por bactérias encapsuladas apontam para deficiência de anticorpos; infecções por vírus e fungos sugerem deficiência celular.
+Na prática, o diagnóstico precoce — especialmente em crianças com infecções recorrentes — é vital para evitar sequelas graves e instituir a reposição de imunoglobulinas ou o transplante de medula.
 
-A Uninove cobra muito o raciocínio clínico: dado o padrão de infecções, qual componente imune está deficiente? As principais entidades — agamaglobulinemia de Bruton, SCID, síndrome de DiGeorge, deficiência de complemento — são alvos frequentes em questões de caso clínico.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de classificação.
+- **O que mostrar:** Infográfico relacionando o defeito imune ao patógeno clássico: B-cell (Pneumococo), T-cell (Fungos/Vírus), Complemento (Neisseria) e Fagócito (Staph/Aspergillus).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Padrões de infecção nas imunodeficiências primárias.
 
+## Imunodeficiências Primárias (Genéticas)
 
+### 1. Defeitos de Linfócito B (Humoral)
+- **Agamaglobulinemia de Bruton (XLA):** Mutação no gene **BTK**. Afeta meninos (**Ligada ao X**). Ausência total de anticorpos e linfócitos B maduros.
+- **Imunodeficiência Comum Variável (CVID):** B-cells presentes, mas não funcionam. Surge no adulto.
+- **Deficiência de IgA:** A mais comum de todas. Frequentemente assintomática, mas pode causar anafilaxia em transfusões de sangue (devido aos anti-IgA do paciente).
 
+### 2. Defeitos de Linfócito T (Celular)
+- **Síndrome de DiGeorge:** Falha no desenvolvimento do **Timo**. Causa a tríade: 1. Cardiopatia; 2. Hipocalcemia; 3. Infecções por fungos e vírus.
 
----
-
-
-
-## Imunodeficiências Primárias (Congênitas)
-
-### Classificação pelo Compartimento Afetado
-
-| Compartimento | Deficiência | Padrão de Infecções |
-|---|---|---|
-| Linfócito B / Anticorpos | Bruton, CVID, deficiência de IgA | Bactérias encapsuladas, enterovírus |
-| Linfócito T | DiGeorge, síndrome de Wiskott-Aldrich | Vírus, fungos, protozoários, BCG |
-| Combinado (T + B) | SCID | Todos os patógenos, inclusive oportunistas |
-| Fagócitos | Doença granulomatosa crônica (DGC), síndrome de Chédiak-Higashi | Bactérias catalase-positivas, fungos |
-| Complemento | Deficiência C3, C5-C9 | C3: todas as bactérias; C5-C9: *Neisseria* |
-| NK | Defeito de NK | Infecções herpéticas graves |
+### 3. Defeito Combinado Grave (SCID)
+- **"Menino da bolha":** Falta de Linfócitos T e B. Emergência pediátrica.
+- **Contraindicação:** **NÃO aplicar vacina BCG** ao nascer se houver histórico familiar, pois o vírus atenuado pode causar doença disseminada fatal.
 
 ---
 
-### Agamaglobulinemia de Bruton (XLA)
+## Defeitos de Fagócitos e Complemento
 
-- **Deficiência:** mutação no gene BTK (Bruton tirosina-quinase) → bloqueio na maturação de células B
-- **Herdança:** ligada ao X → afeta meninos
-- **Achado:** ausência de células B maduras (CD19−) + ausência de todas as imunoglobulinas
-- **Apresentação:** infecções recorrentes por *S. pneumoniae*, *H. influenzae*, *N. meningitidis* após os 6 meses (quando acabam os anticorpos maternos)
-- **Tratamento:** imunoglobulina humana EV (IVIG) mensal
-
-> **Dica:** Bruton = sem B cells = sem anticorpos → bactérias encapsuladas. "BTK = quebra o trilho dos trens B."
-
----
-
-### Imunodeficiência Comum Variável (CVID)
-
-- Deficiência de anticorpos adquirida na vida adulta (mais comum imunodeficiência primária em adultos)
-- Células B presentes mas incapazes de diferenciar em plasmócitos
-- Risco aumentado de doenças autoimunes e linfomas
-- Tratamento: IVIG
-
----
-
-### Deficiência Seletiva de IgA
-
-- Mais comum imunodeficiência primária no geral
-- IgA ausente, mas IgG e IgM normais
-- Maioria assintomática; quando sintomático: infecções de mucosas (sinusite, pneumonia, diarreia)
-- **Risco de anafilaxia a hemo­derivados** ricos em IgA (anti-IgA já presentes no paciente)
-
----
-
-### Síndrome de DiGeorge (Deleção 22q11)
-
-- **Deficiência:** hipoplasia ou aplasia do **timo** → ↓ ou ausência de linfócitos T maduros
-- Tríade: conotruncais (cardiopatias), hipocalcemia (hipoplasia de paratireoide), imunodeficiência celular
-- **Achado:** células T ausentes ou ↓; células B e anticorpos normais
-- Infecções virais, fúngicas, *Pneumocystis*, micobactérias
-- **Mnemônico:** "Di**GEORGE** tem 3 G's faltando: Glândulas (paratireoide + timo), coração (Great vessels)"
-
----
-
-### SCID — Imunodeficiência Combinada Grave
-
-- Ausência ou disfunção grave de linfócitos T **e** B (e frequentemente NK)
-- Causa mais comum: deficiência de **ADA** (adenosina desaminase) → acúmulo de deoxi-ATP → tóxico para linfócitos
-- Também: mutação em cadeia γ do receptor de IL-2 (ligada ao X — mais comum)
-- Apresentação: infecções oportunistas desde os primeiros meses de vida (sem proteção após anticorpos maternos)
-- **Único tratamento curativo:** transplante de medula óssea
-- BCG contraindicada → pode causar doença disseminada
-
-> **Pegadinha:** SCID não pode receber BCG ao nascer → pediatra deve investigar histórico familiar antes de vacinar.
-
----
-
-### Doença Granulomatosa Crônica (DGC)
-
-- Defeito em NADPH-oxidase → neutrófilos fagocitam mas **não conseguem matar** bactérias catalase-positivas
-- Bactérias catalase-positivas destroem o H₂O₂ que o neutrófilo produziria como alternativa
-- Patógenos: *S. aureus*, *Klebsiella*, *Aspergillus*, *Serratia*, *Nocardia*
-- Formação de granulomas (tentativa de conter infecção não eliminada)
-- Diagnóstico: teste do diidrorodamina (DHR) ou teste do NBT (negativo)
-- Tratamento: profilaxia com cotrimoxazol + itraconazol; IFN-γ
-
----
-
-### Deficiências do Complemento
-
-| Deficiência | Consequência Clínica |
-|---|---|
-| C1q, C2, C4 (via clássica) | Lúpus eritematoso sistêmico (C2 = mais comum associada a LES) |
-| C3 | Infecções recorrentes por todas as bactérias encapsuladas |
-| C5-C9 (MAC) | Infecções recorrentes por *Neisseria gonorrhoeae* e *N. meningitidis* |
-| Inibidor de C1 (C1-INH) | Angioedema hereditário — ativação descontrolada de bradicinina |
+- **Doença Granulomatosa Crônica (DGC):** Neutrófilo não consegue matar bactérias **Catalase-Positivas** (ex: *S. aureus*). Marcada por infecções purulentas e granulomas.
+- **Deficiência de C3:** Infecções por **Todas as bactérias**.
+- **Deficiência de C5-C9 (MAC):** Infecções recorrentes especificamente por **Neisseria** (Meningite/Gonorreia).
 
 ---
 
 ## Imunodeficiências Secundárias (Adquiridas)
 
-| Causa | Compartimento afetado |
-|---|---|
-| HIV/AIDS | T CD4+ → celular e humoral |
-| Quimioterapia/radioterapia | Pancitopenia → neutropenia |
-| Corticosteroide crônico | Linfócitos, neutrófilos (reduz marginalização) |
-| Esplenectomia | Opsonização de encapsuladas; resposta TI |
-| Desnutrição grave | Todos os compartimentos |
-| Diabetes mellitus | Função neutrofílica ↓ |
-| Prematuridade | IgG materna insuficiente |
-
----
-
-## Pontos-Chave
-
-- Padrão das infecções orienta o diagnóstico: encapsuladas → B/anticorpos; vírus e fungos → T celular; *Neisseria* → C5-C9
-- **Bruton (XLA):** sem linfócito B → sem anticorpos → meninos → tras os 6 meses → IVIG
-- **DiGeorge:** sem timo → sem T cells → cardiopatia + hipocalcemia + infecções celulares
-- **SCID:** sem T e sem B → infecções oportunistas graves → TMO; BCG contraindicado
-- **DGC:** neutrófilo fagocita mas não mata → bactérias catalase-positivas e fungos
-- **Deficiência C3:** todas as bactérias; C5-C9: *Neisseria* apenas
-- **Deficiência de IgA** = mais comum; **CVID** = mais comum em adultos
+As causas mais comuns no mundo moderno são:
+1. **AIDS (HIV):** Destruição progressiva dos Linfócitos **T CD4+**.
+2. **Desnutrição:** Causa global mais frequente de imunodeficiência.
+3. **Imunossupressão Iatrogênica:** Quimioterapia, corticoide em alta dose e transplantes.
+4. **Esplenectomia:** Aumenta risco para germes encapsulados (S. pneumo).
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Menino de 8 meses com 3 episódios de pneumonia bacteriana por *S. pneumoniae* e 1 de meningite por *H. influenzae*. Amígdalas ausentes. Exame: ausência de linfócitos B e de IgG, IgA e IgM.
-- **Agamaglobulinemia de Bruton** — ausência de BTK → sem células B maduras
-- Amígdalas hipoplásicas (sem folículos B)
-- Início após 6 meses (anticorpos maternos protegendo antes)
-- Conduta: IVIG mensal; evitar vacinas vivas
+Um bebê de 8 meses com pneumonias repetidas e meningite por *Haemophilus* deve acender o alerta para a **Agamaglobulinemia de Bruton**. Até os 6 meses, a **IgG materna** o protegia. Quando esse "estoque" acaba, a incapacidade do bebê de produzir seus próprios anticorpos (devido à mutação no gene BTK) o deixa totalmente exposto.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Bactéria Encapsulada**: Falta Linfócito B / Humoral (Anticorp).
+- **Vírus/Fungos/Oportunistas**: Falta Linfócito T / Celular.
+- **Catalase-Positivas (S. aureus)**: Doença Granulomatosa Crônica.
+- **Neisseria recorrente**: Falta Complemento (MAC/C5-C9).
+- **BCG Disseminada**: Alerta para SCID.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Bruton:** sem B cells; ligada ao X; meninos; infecções por encapsuladas; IVIG
-- **DiGeorge:** sem timo; 3 achados: coração + hipocalcemia + imunodéficit celular
-- **SCID:** sem T e B; infecções oportunistas; TMO = único curativo; BCG contraindicado
-- **DGC:** neutrófilo não mata (NADPH-ox defeituosa); *S. aureus*, *Aspergillus*
-- **Deficiência C3:** todas as bactérias; **C5-C9:** só *Neisseria*
-- **IgA secretória ausente:** risco de anafilaxia com hemoderivados
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Imunodeficiências, use a regra do "Diga-me quem te infecta e dir-te-ei quem te falta".
+Se o paciente pega **Pneumococo ou Meningococo** toda hora: faltam anticorpos (Linfócito B). Se o paciente é menino e não tem B-cells, é **Bruton**. Se ele pega **Fungos (Candida/Pneumocystis)** ou vírus, o problema é no **Linfócito T (DiGeorge)**.
+
+Se o paciente tem a tríade "Coração + Cálcio baixo + Falta de Timo", é **DiGeorge**. Se ele pega **Meningite por Neisseria** repetidas vezes, a broca do complemento (**MAC/C5-C9**) está quebrada. E a regra de ouro: se o bebê pega tudo (fungo, vírus, bactéria), é **SCID** — trate como emergência, não dê vacina viva (BCG) e prepare para o transplante de medula.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Bruton (XLA) | CVID | Bruton: sem B cells desde nascimento, meninos; CVID: B cells presentes, adultos |
-| DiGeorge | SCID | DiGeorge: sem timo → só T afetado; SCID: sem T e B, mais grave |
-| DGC | Síndrome de Chédiak-Higashi | DGC = não mata (NADPH-ox); Chédiak = grânulos gigantes, não libera (parcial) |
-| Deficiência C3 | Deficiência C5-C9 | C3 = infecções por todas; C5-C9 = só *Neisseria* |
-| Imunodeficiência primária | Imunodeficiência secundária | Primária = genética; Secundária = adquirida (HIV, QT, corticoide) |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Bruton (XLA)** | **CVID** | **Meninos/Desde bebê** vs Adultos |
+| **DiGeorge** | **SCID** | **Só Linfócito T** vs Linfócitos T e B (Muito mais grave) |
+| **Deficiência C3** | **Deficiência C5-C9** | Pega todas as bactérias vs **Pega apenas Neisseria** |
+| **Linfócito B** | **Fagócito (DGC)** | Erro no anticorpo vs **Erro no Neutrófilo (não mata)** |
+| **Imuno Primária** | **Imuno Secundária** | Genética (Nascimento) vs **Adquirida (HIV/Desnutrição/QT)** |
 
 ### Frase-âncora para não esquecer
-> "Quem infecta mais diz o que falta: encapsuladas → falta anticorpo (Bruton/CVID); vírus e fungos → falta célula T (DiGeorge, HIV); *Neisseria* recorrente → falta complemento terminal (C5-C9)."
+
+> "B de Bruton é falta de anticorpo em menino; T de Timo é DiGeorge no destino; SCID é a bolha e o transplante é o caminho."

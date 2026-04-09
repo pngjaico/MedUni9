@@ -1,83 +1,89 @@
-# BMF1 — Aula 12: Fisiologia da Contração Muscular
+# BMF1 — Aula 12: Fisiologia da Contração Muscular — A Química da Força
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+A contração muscular é o milagre biológico de converter **ATP** (energia química) em força mecânica. Na prova, os temas centrais são o ciclo da ponte cruzada (Teoria dos Filamentos Deslizantes), o papel do **Cálcio** como chave-mestra e as diferenças entre as contrações **Isométrica vs Isotônica**.
 
----
-
-## Relevância Clínica e Acadêmica
-
-A contração muscular é a conversão de **ATP** em força mecânica. Para a prova, domine o papel do **Cálcio** como chave mestre: ele desbloqueia a **Actina** ao se ligar à **Troponina**. Na clínica, entenda que o **Relaxamento Muscular** é um processo ativo que consome energia; sem ATP para bombear o Cálcio de volta, o músculo permanece rígido, o que explica o **Rigor Mortis**.
+Na clínica, entender essa fisiologia é vital. Você precisa saber que o **Relaxamento Muscular** é um processo ativo que consome energia; sem ATP para bombear o Cálcio de volta aos estoques, o músculo permanece travado. Isso explica o **Rigor Mortis** dos cadáveres e as cãibras severas de atletas fadigados.
 
 ---
 
-## Teoria dos filamentos deslizantes (resumo funcional)
+### Figura sugerida
 
-1.  **Potencial de Ação:** Chega pelo nervo e despolariza o **Túbulo T**.
-2.  **Liberação de Ca²⁺:** O sinal abre os canais do **Retículo Sarcoplasmático**.
-3.  **Desbloqueio:** O Cálcio se liga à **Troponina C**, que puxa a Tropomiosina, expondo a Actina.
-4.  **Golpe de Força:** A cabeça da **Miosina** queima ATP e "rema" sobre a actina.
-5.  **Relaxamento:** Bombas de cálcio (SERCA) usam ATP para sequestrar o íon de volta ao retículo. Se faltar ATP aqui, o músculo não relaxa.
+**Figura-ID:** `BMF1-A12-F01`
 
----
+- **Momento:** Seção da Teoria dos Filamentos Deslizantes.
+- **O que mostrar:** O "Golpe de Força": Uma sequência em 3 passos mostrando a cabeça da **Miosina** (parecida com um taco de golfe) quebrando um ATP, grudando na **Actina** e "remando" o filamento para o centro. Mostrar íons de **Cálcio** se ligando à **Troponina** para liberar o caminho.
+- **Tipo sugerido:** Infográfico fisiológico passo a passo.
+- **Legenda (rascunho):** A dança molecular da contração: Cálcio expõe a Actina; ATP permite que a Miosina puxe o barco.
 
-## Unidade motora e tétano
+## 1. O Ciclo da Contração (Passo a Passo)
 
-Um motoneurônio alfa inerva várias fibras; todas disparam juntas quando o neurônio dispara. Frequência de disparo alta produz **somatétano** — fusão de contrações parciais em tônus sustentado. Recrutamento progressivo mobiliza unidades motoras adicionais para mais força antes de atingir frequência máxima em cada unidade. Fadiga central versus periférica são conceitos distintos do conteúdo desta aula, mas o aluno deve saber onde a fisiologia muscular termina e onde começa o sistema nervoso central.
+A base do movimento é a **Teoria dos Filamentos Deslizantes**. A miosina e actina não encolhem; elas meramente escorregam uma sobre a outra.
 
----
-
-## Liberação de Ca²⁺ do retículo (passos lógicos)
-
-| Etapa | O que ocorre | Detalhe de prova |
-|-------|----------------|------------------|
-| 1 | Despolarização da membrana | Propagação ao longo da fibra e aos túbulos T |
-| 2 | Sinal para o RS | Canais de rianodina liberam Ca²⁺ do retículo |
-| 3 | Aumento citoplasmático | Troponina/tropomiosina permitem pontes cruzadas |
-| 4 | Relaxamento | Recaptação de Ca²⁺ consome **ATP** (bombas) |
-
-> **Pegadinha:** Confundir **potencial de placa** (evento local na junção) com **potencial de ação** da fibra inteira — a prova gosta de trocar os nomes no enunciado.
+1.  **O Comando (Potencial de Placa):** O nervo libera acetilcolina. O impulso elétrico viaja pela membrana e desce pelos **Túbulos T**.
+2.  **O Desbloqueio (Rianodina e Cálcio):** O choque elétrico abre os canais receptores de rianodina do Retículo Sarcoplasmático. Uma onda de **Ca²⁺** inunda o citoplasma.
+3.  **A Chave (Troponina C):** O Cálcio se liga à **Troponina C**. Isso puxa a corda protetora (**Tropomiosina**) para fora do caminho, expondo os "sítios de ligação" da Actina.
+4.  **Golpe de Força (Cross-Bridge):** A cabeça da **Miosina** (que estava "armada" usando ATP) se gruda na actina e gira, puxando o filamento e encurtando o sarcômero.
+5.  **Relaxamento Ativo (SERCA):** A miosina precisa de um *novo* ATP para soltar a actina. Ao mesmo tempo, potentes bombas de cálcio (**Bombas SERCA**) queimam ATP para sugar todo o cálcio de volta para o RS.
 
 ---
 
-## Hipertermia maligna (menção integrativa)
+## 2. Tipos de Contração e Curva de Tensão
 
-Mutações no receptor de rianodina podem desencadear **liberação descontrolada de Ca²⁺** e hipermetabolismo em resposta a certos anestésicos voláteis e succinilcolina — quadro de emergência em anestesia, não detalhado aqui, mas o vínculo com **Ca²⁺** e **RS** ancora a fisiologia desta aula.
-
----
-
-## Tipos de contração e curva comprimento–tensão
-
-| Tipo de Contração | O que ocorre | Exemplo Clínico |
+| Tipo de Contração | Mecânica | Exemplo Clínico |
 |-------------------|--------------|------------------|
-| **Isométrica** | Tensão sem movimento| Postura / Parado |
-| **Isotônica** | Comprimento muda | Levantar um peso |
-| **Excêntrica** | Alonga sob tensão | Descer escada / Freada |
+| **Isométrica** | Tensão cresce, mas comprimento da fibra **Não Muda**. | Segurar uma prancha (Postura) |
+| **Isotônica Concêntrica**| Músculo "ganha" da carga e **Encurta**. | Levantar o haltere |
+| **Isotônica Excêntrica** | Carga ganha; músculo tenta frear, logo **Alonga** sob tensão. | Descer escadas ou frear corrida |
 
-A **Contração Excêntrica** é a que mais causa **Microlesões** e dor muscular tardia, sendo fundamental para o ganho de massa, mas perigosa para atletas iniciantes. O **Tétano Fisiológico** ocorre quando os impulsos são tão rápidos que não há tempo para relaxamento entre eles.
+> **Dica Clínica:** A **Contração Excêntrica** é a que mais causa **Microlesões** nas fibras Z. É ela que gera a hipertrofia na academia, mas também é a principal vilã nas **Distensões Musculares**.
+
+---
+
+## 3. Unidade Motora: Recrutamento e Tétano
+
+Para erguer uma caneta, você usa 10 unidades motoras. Para erguer um carro, o cérebro faz um **Recrutamento**: ele aciona 1000 unidades motoras ao mesmo tempo (espacial). 
+
+Se um nervo dispara sinais desesperadamente rápido, o músculo não tem tempo de relaxar entre um choque e outro (pois o cálcio não consegue voltar para o retículo a tempo). Isso causa a somação de força até atingir o **Tétano Fisiológico** (Contração máxima e travada). 
 
 ---
 
 ## Ponte com a Clínica
 
-Bloqueadores neuromuscular não despolarizantes competem com acetilcolina no receptor nicotínico da placa terminal — paralisam sem sedação. Hipercalemia eleva limiar de excitabilidade de membrana e pode agravar bloqueio. Distúrbios mitocondriais limitam ATP e favorecem fadiga precoce. Em UTI, “despertar” farmacológico exige entender que relaxamento muscular não implica ausência de dor percebida.
+O uso de anestésicos específicos (como o gás Halotano ou a Succinilcolina) pode desencadear uma resposta genética fatal em alguns pacientes: a **Hipertermia Maligna**. O defeito genético nos canais de cálcio (Rianodina) faz o retículo despejar **todo o cálcio livre**, gerando um espasmo generalizado no corpo inteiro. Isso queima tanto ATP que o paciente atinge febres altíssimas de 42ºC e morre de falência orgânica se o antídoto (Dantroleno) não for dado imediatamente. 
+
+Outro clássico de UTI: o paciente intubado recebe um **Bloqueador Neuromuscular**. O bloqueador tampa o receptor de acetilcolina; o nervo manda o sinal, mas a membrana não ouve. O paciente sofre **Paralisia Total**, mas a sedação e a analgesia não são afetadas. Se sedar mal, ele sente tudo e não pode se mexer.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Troponina:** São três subunidades. A **Troponina C** liga o cálcio. (Dica: C de Cálcio).
-- **Miosina:** É a proteína que possui a atividade **ATPásica** (quebra o ATP).
-- **Curva Tensão-Comprimento:** O músculo é mais fraco se estiver muito esticado ou muito encurtado. Existe um ponto ótimo de força.
-- **Hipertermia Maligna:** Gatilho genético que causa liberação massiva de cálcio, gerando calor e rigidez fatal.
+- **Troponina C:** O "C" é de **Cálcio**. É a fechadura de desbloqueio do músculo.
+- **Miosina:** É a estrutura que funciona como "motor"; logo, é nela que fica a **Atividade ATPásica** que degrada a energia.
+- **Tétano:** Somação temporal máxima. Só é possível porque o potencial de ação elétrico dura milissegundos, mas a contração física atrasa muito mais.
+- **Potencial de Placa:** Acontece na fenda sináptica; é graduado e diferente do **Potencial de Ação**, que viaja de ponta a ponta na fibra (Tudo-ou-Nada).
+- **Hipocalcemia:** Paradoxalmente no corpo, baixo cálcio no sangue deixa a *membrana* neuromuscular muito sensível, gerando tremores e tetania leve.
 
-| Conceito A | Conceito B | Diferencial para Prova |
+---
+
+## Pré-Prova
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### Síntese para a prova
+
+Para gabaritar fisiologia contrátil, memorize a "Equação da Vida": **Cálcio expõe o buraco, ATP fornece a machadada.** Se o nervo disparar, a Rianodina vai abrir.
+
+A Uninove adora saber os detalhes da liberação iônica: nunca confunda Miosina com Actina. O bloqueio físico fica a cargo do fio de **Tropomiosina**, mas quem segura a coleira dela é o pino de **Troponina**. Não esqueça o mais cobrado de prova de fisiologia geral: o cálcio do esquelético **não vem de fora**, ele vem estritamente do **Retículo Sarcoplasmático interno**. Se você fechar a porta externa (bloqueadores L), o esquelético ainda bate, mas o coração para.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Actina** | **Miosina** | Filamento Fino vs **Filamento Grosso** |
-| **Recrutamento** | **Somação** | Mais neurônios vs **Mais frequência de sinal**|
-| **Potenc. Placa** | **Potenc. Ação** | Local e Graduado vs **Tudo-ou-Nada** |
-| **Fadiga** | **Tétano** | Falta de resposta vs **Contração Máxima Sustentada**|
+| **Contração Excêntrica** | **Contração Concêntrica**| Carga maior (Alonga a fibra) vs Força Muscular Maior (Encurta) |
+| **Recrutamento Espacial** | **Somação Temporal** | Mais neurônios ajudando vs O mesmo neurônio "metralhando" comandos |
+| **Troponina** | **Tropomiosina** | O Botão Sensor de Cálcio vs O Cabo que bloqueia fisicamente a Miosina |
+| **SERCA** | **Rianodina** | Bomba que **guarda** o cálcio de volta vs Canal que **esvazia** o cálcio pra fora |
 
 ### Frase-âncora para não esquecer
 
-> “Sem Ca²⁺ na sarcoplasma, a miosina não ‘pega’ a actina — por isso o relaxamento é ativo.”
+> "O choque desce o túbulo, a rianodina abre a porta. A troponina agarra o cálcio, a miosina a actina transporta. Pra travar basta cruzar, mas pra soltar (e pra voltar)... o ATP vai ter que pagar."

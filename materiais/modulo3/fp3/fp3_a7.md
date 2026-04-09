@@ -1,107 +1,92 @@
 # FP3 — Aula 7: Anti-inflamatórios — AINEs e Corticoides
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+Os anti-inflamatórios são as ferramentas mais usadas na medicina para combater a dor e o inchaço. Na prova, os temas centrais são a cascata do **Ácido Araquidônico**, a diferença entre os **AINEs** (como o Ibuprofeno) e os **Corticoides** (como a Prednisona), e o reconhecimento dos efeitos colaterais graves, como a **Gastrite** e a **Síndrome de Cushing**.
+
+Na prática, o médico deve saber que o uso crônico dessas drogas pode "desligar" as defesas naturais do corpo, levando a úlceras no estômago, diabetes e até a falência das glândulas suprarrenais se o remédio for parado de uma vez.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-AINEs e corticosteroides são os anti-inflamatórios mais prescritos da medicina. Qualquer médico, independentemente da especialidade, lida com eles diariamente. A **Uninove** cobra especialmente: mecanismo de ação na cascata do ácido araquidônico, efeitos adversos específicos (gastropatia dos AINEs, síndrome de Cushing dos corticoides), diferença entre seletividade COX-1 e **COX-2**, e indicações baseadas em evidências. Errar o mecanismo é errar a questão toda.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo de ação (Cascata do Ácido Araquidônico).
+- **O que mostrar:** A "Barragem da Inflamação": Uma cachoeira representando o Ácido Araquidônico. Os **Corticoides** bloqueiam a parte de cima (**Fosfolipase A2**), parando tudo. Os **AINEs** bloqueiam apenas um braço da cachoeira (**COX**), permitindo que o outro braço (**LOX**) continue correndo, o que pode explicar por que causam asma em alguns pacientes.
+- **Tipo sugerido:** Infográfico didático | Esquema bioquímico.
+- **Legenda (rascunho):** Alvos terapêuticos na cascata de mediadores inflamatórios.
 
+## 1. AINEs: Bloqueadores da COX
 
-
-
----
-
-## AINEs — Bloqueadores da COX
-
-Os **anti-inflamatórios não esteroidais (AINEs)** inibem a **cicloxigenase (COX)**, enzima que converte o ácido araquidônico em prostaglandinas (PG), prostaciclinas e tromboxano. Existem duas isoformas com importâncias clínicas distintas:
-
-**COX-1 (constitutiva):** expressa em quase todos os tecidos fisiologicamente. Produz PGE₂ e PGI₂ protetoras da mucosa gástrica (estimulam secreção de muco e bicarbonato + inibem ácido) e TXA₂ nas plaquetas (agregação plaquetária). A inibição da COX-1 = gastropatia + sangramento.
-
-**COX-2 (indutível):** expressa principalmente durante inflamação, nos macrófagos, sinoviócitos ativados e endotélio vascular. Produz PGE₂ e PGI₂ inflamatórias. Inibir COX-2 = efeito anti-inflamatório e analgésico sem gastropatia — mas com risco cardiovascular (a prostaciclina PGI₂ endotelial antiagregante é reduzida, desequilibrando para o lado pró-trombótico do TXA₂ plaquetário).
-
-> **Dica de Prova:** o rofecoxibe (Vioxx) foi retirado do mercado por aumentar eventos cardiovasculares — exatamente pela inibição seletiva de COX-2 sem inibir TXA₂. O celecoxibe (inibidor seletivo de COX-2 disponível) tem menor risco gastrointestinal mas maior risco CV versus AINEs não seletivos. A Uninove usa isso para cobrar qual AINE escolher em paciente com úlcera vs. paciente com risco CV.
-
-**AAS (aspirina):** inibe COX-1 e COX-2 **irreversivelmente** (acetilação). Em doses baixas (75–325 mg/dia), inibe seletivamente TXA₂ nas plaquetas (não produzem COX nova — são anucleadas) sem eliminar PGI₂ endotelial (células nucleadas regeneram COX). Por isso é antiagregante a doses baixas e anti-inflamatório a doses altas.
-
-**Dipirona (metamizol):** mecanismo diferente — inibe COX centralmente + ativa vias canabinoides e opioides. Principal analgésico/antipirético no Brasil. O risco de agranulocitose (0,001%) é real mas raro.
+Os Anti-inflamatórios Não Esteroidais (AINEs) agem inibindo a enzima **Cicloxigenase (COX)**.
+- **COX-1 (A Protetora):** Está sempre no corpo protegendo o estômago e ajudando as plaquetas. Inibi-la causa **Azia e Gastrite**.
+- **COX-2 (A Vilã):** Aparece só na inflamação. Inibi-la tira a dor e o inchaço.
+- **Aspirina (AAS):** É o único que se liga de forma **Irreversível**. Em dose baixa, ele "desliga" as plaquetas para evitar infarto; em dose alta, ele vira um anti-inflamatório potente.
 
 ---
 
-## Efeitos Adversos dos AINEs
+## 2. Efeitos Colaterais dos AINEs (Cuidado Clínico)
 
-**Gastropatia**: erosões, úlceras e hemorragia digestiva pela inibição de COX-1. A proteção com inibidor de bomba de prótons (omeprazol) é obrigatória em: idosos > 65 anos, histórico de úlcera, uso concomitante de corticoide ou anticoagulante.
-
-**Nefrotoxicidade**: redução da síntese de PG vasodilatadoras renais → queda do fluxo renal. Risco em idosos, desidratados, ICC, uso de diuréticos. Evitar em insuficiência renal crônica.
-
-**Efeito no broncoespasmo**: inibição de COX desvia AA para 5-LOX → leucotrienos → asma aspirínica (10% dos asmáticos). Contraindicado em asma sensível à aspirina.
-
-**Efeito na agregação plaquetária**: AINEs não seletivos inibem TXA₂ de forma reversível → sangramento. A aspirina é irreversível (plaqueta não regenera COX).
-
-**Fechamento prematuro do ducto arterioso**: PGE₂ mantém o ducto aberto no feto. AINEs no 3° trimestre → fechamento → hipertensão pulmonar fetal. Contraindicados no 3° trimestre.
+Apesar de comuns, os AINEs têm "pegadinhas" perigosas:
+- **Estômago:** Inibem a proteção natural, causando úlceras e sangramentos (Hemorragia Digestiva).
+- **Rins:** Diminuem o sangue que chega ao rim. Em idosos desidratados, podem causar **Insuficiência Renal**.
+- **Asma Aspirínica:** Ao bloquear a via da COX, o corpo desvia tudo para a via da LOX (Leucotrienos), o que fecha o pulmão de alguns pacientes asmáticos.
+- **Terceiro Trimestre:** Proibido na gravidez, pois pode fechar prematuramente o **Duto Arterioso** do bebê.
 
 ---
 
-## Corticoides — Bloqueadores da Fosfolipase A₂
+## 3. Corticoides: O Bloqueio Total
 
-Os **corticosteroides** (prednisona oral, dexametasona, metilprednisolona IV, budesonida inalatória, hidrocortisona IV) atuam intracelularmente: entram na célula, ligam-se ao receptor de glicocorticoide, o complexo migra para o núcleo e induz a síntese de **lipocortina (anexina A₁)**, que inibe a **fosfolipase A₂**. Como essa enzima libera o ácido araquidônico dos fosfolipídeos de membrana, os corticoides bloqueiam TODA a cascata de eicosanoides (PG + leucotrienos + tromboxano), sendo mais poderosos que os AINEs.
+A **Prednisona**, **Dexametasona** e **Hidrocortisona** são muito mais potentes que os AINEs porque bloqueiam a **Fosfolipase A2**, a "mãe" da inflamação.
+- **Ação:** Bloqueiam prostaglandinas, leucotrienos e citocinas. São usados em alergias graves, doenças autoimunes e transplantes.
+- **Uso Crônico (Síndrome de Cushing):** O excesso de corticoide causa gordura na barriga, rosto em **"Lua Cheia"**, estrias roxas, ossos fracos (osteoporose) e diabetes.
 
-Além disso, induzem apoptose de linfócitos, reduzem proliferação de fibroblastos e inibem síntese de citocinas (**TNF-α**, IL-1, **IL-6**). São imunomoduladores e anti-inflamatórios ao mesmo tempo.
+---
 
-> **Dica de Prova:** corticoide de uso crônico = síndrome de Cushing iatrogênica. Características: obesidade centrípeta (acúmulo troncular), face em lua cheia, corcova de búfalo (coxim gorduroso na nuca), estrias violáceas, hipertensão, hiperglicemia, osteoporose, imunossupressão. A suspensão abrupta após uso prolongado causa crise addisoniana (insuficiência suprarrenal) por supressão do eixo HPA.
+## 4. O Desmame do Corticoide
 
-**Efeitos adversos do uso crônico:** hiperglicemia (resistência insulínica), osteoporose (inibe absorção de cálcio + ativa osteoclastos — usar bisfofonato profilático em uso > 3 meses), úlcera gastrointestinal (potencializada por AINEs concomitantes), cataratas e glaucoma (ocular), necrose asséptica da cabeça do fêmur, atraso de crescimento em crianças, susceptibilidade a infecções.
+Quando usamos corticoides por muito tempo, a glândula suprarrenal do paciente "se aposenta" porque o sangue já tem cortisona demais vindo do comprimido.
+- **O Perigo:** Se o médico parar o remédio de repente, o corpo fica sem nada e entra em choque (**Insuficiência Suprarrenal Aguda**).
+- **A Regra:** O corticoide deve ser retirado aos poucos (**Desmame**), dando tempo para a glândula "acordar" e voltar a trabalhar.
+
+---
+
+## Ponte com a Clínica
+
+No consultório, nunca prescreva um AINE (como Diclofenaco) para um paciente idoso que já toma remédio para pressão ou que tem histórico de gastrite sem associar um protetor de estômago, como o **Omeprazol**. Em pacientes asmáticos que relatam "alergia a aspirina", evite qualquer AINE e use a **Dipirona** ou Paracetamol para dor, pois o risco de broncoespasmo grave é altíssimo. A farmacologia baseada em receptores e enzimas é o que garante a segurança da sua prescrição.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **COX-1 (constitutiva):** proteção gástrica + TXA₂ plaquetário; inibição → gastropatia + sangramento.
-- **COX-2 (indutível):** inflamação; inibição seletiva → anti-inflamatório sem gastro, mas risco CV.
-- **AAS dose baixa:** inibe TXA₂ plaquetário irreversivelmente → antiagregante.
-- **Asma aspirínica:** AINE → ↓COX → ↑leucotrienos → broncoespasmo.
-- **Corticoides:** inibem fosfolipase A₂ → bloqueiam toda a cascata de eicosanoides.
-- **Síndrome de Cushing iatrogênica:** face em lua + obesidade centrípeta + osteoporose.
-- **Suspensão abrupta:** crise addisoniana — retirada deve ser gradual.
-- **Profilaxia com omeprazol:** AINE + idoso / histórico de úlcera / corticoide.
+- **COX-1**: Constitutiva; responsável pela proteção da mucosa gástrica.
+- **COX-2**: Indutível; alvo principal para reduzir a inflamação e dor.
+- **Ácido Araquidônico**: O precursor comum de prostaglandinas e leucotrienos.
+- **Fosfolipase A2**: Alvo dos corticoides; bloqueio superior na cascata inflamatória.
+- **Desmame**: Procedimento obrigatório após uso prolongado (> 14 dias) de prednisona.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Anti-inflamatórios, foque na cascata. 
+**AINE** = Bloqueia COX. **Corticoide** = Bloqueia Fosfolipase A2 (mais potente). Se a questão fala de um paciente que tomou remédio para dor e o pulmão fechou, o tema é **Asma Aspirínica**. Se fala de um paciente que usa remédio para lúpus e ficou com o rosto inchado e diabetes, é **Síndrome de Cushing**.
 
-COX-1 → gastropatia; COX-2 → risco CV (seletivos como celecoxibe). AAS baixa dose = antiagregante (TXA₂ plaquetário irreversível). AINE + 3° trimestre = contraindicado (fecha ducto arterioso).
-
-Corticoide = inibe fosfolipase A₂ (mais potente que AINE — bloqueia tudo). Cushing iatrogênico: face em lua + estrias violáceas + hiperglicemia + osteoporose. Suspensão abrupta do corticoide: supressão do eixo HPA → crise addisoniana.
-
-Omeprazol + AINE em idoso/histórico de úlcera. Asma aspirínica: AINE ↓COX → ↑LOX → leucotrienos → broncoespasmo.
+A Uninove adora o **AAS**. Saiba que em doses baixas (75-100mg) ele é antiagregante (evita trombo), e em doses altas é anti-inflamatório. Outro ponto forte: o **Celecoxibe** é um inibidor seletivo da COX-2, sendo mais seguro para o estômago, mas com maior risco de causar infarto em quem já tem problema de coração. Por fim, lembre-se: nunca retire corticoide de uso crônico de uma vez; a pressão do paciente pode cair e ele pode morrer por falta de hormônio (Crise Addisoniana).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| AINE (COX não seletivo) | Inibidor seletivo COX-2 | COX não seletivo: gastropatia + antiagregante; COX-2 seletivo: sem gastro, mais risco CV |
-| AAS antiagregante | AAS anti-inflamatório | Baixa dose < 325 mg (plaqueta/TXA₂); alta dose > 2g (COX sistêmica, anti-inflamatório) |
-| AINE | Corticoide | AINE: bloqueia COX; corticoide: bloqueia fosfolipase A₂ (mais amplo) |
-| Uso agudo corticoide | Uso crônico corticoide | Agudo: possível; crônico: Cushing + osteoporose + supressão HPA |
-| Suspensão abrupta | Retirada gradual | Abrupta → crise addisoniana; gradual → eixo HPA recupera autonomia |
+| **AINE** | **Corticoide** | Bloqueia **Metade** da cascata vs Bloqueia **Início** (Tudo) |
+| **COX-1** | **COX-2** | **Protege** o corpo vs **Causa** a dor |
+| **Ibuprofeno** | **Celecoxibe** | Ataca COX-1 e 2 (**Gastrite**) vs Ataca **só COX-2** |
+| **Cushing** | **Addison** | **Excesso** de corticoide vs **Falta** (pós-retirada brusca) |
+| **Dipirona** | **Aspirina** | Analgésico Potente vs Anti-inflamatório/Antiagregante |
 
 ### Frase-âncora para não esquecer
 
-> "AINE mata a COX e salva a dor; corticoide mata a fosfolipase e salva a inflamação — o preço de fazer tudo é a Síndrome de Cushing."
+> "O AINE limpa a dor mas pode furar o estômago; o Corticoide limpa a inflamação mas pode deformar o corpo. Tratar é uma balança: use a dose certa pelo tempo mínimo, ou o remédio vira o veneno."

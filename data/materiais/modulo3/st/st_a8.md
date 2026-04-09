@@ -1,96 +1,92 @@
-# ST — Aula 8: ISTs e Sistemas de Informação em Saúde do Trabalhador
+# ST — Aula 8: Prevenção e Vigilância em Saúde do Trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+A prevenção e a vigilância são o "escudo" e a "luneta" da Saúde do Trabalhador. Na prova, os temas centrais são os **Níveis de Prevenção** (Primária, Secundária e Terciária) e a compreensão de como a rede do SUS (**RENAST e CEREST**) atua para proteger quem trabalha.
+
+Na prática, o médico não deve se contentar em apenas tratar o doente. A verdadeira medicina do trabalho acontece quando você identifica um **Evento Sentinela** (um acidente que não deveria ter acontecido) e move as peças da vigilância para que as máquinas sejam consertadas ou o processo seja mudado, garantindo que o próximo trabalhador não sofra o mesmo dano.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As infecções sexualmente transmissíveis (ISTs) são doenças de notificação compulsória e relevantes no contexto do trabalhador — especialmente em profissionais de saúde (HBV, HCV, **HIV** por acidente com material biológico). Os sistemas de informação em saúde do trabalhador fecham o módulo integrando a notificação, o acompanhamento e a análise de dados para tomada de decisão.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de níveis de prevenção.
+- **O que mostrar:** O "Escudo Progressivo": Três barreiras protegendo o trabalhador. 1. **Primária:** A barreira que impede o perigo de chegar (Eliminação do risco). 2. **Secundária:** A barreira que acha a doença no início (Exames). 3. **Terciária:** A barreira que evita que o estrago aumente (Reabilitação).
+- **Tipo sugerido:** Infográfico didático | Esquema de barreiras.
+- **Legenda (rascunho):** Os três níveis de prevenção aplicados à rotina de saúde ocupacional.
 
+## 1. Os Três Níveis de Prevenção
 
-
-
----
-
-## ISTs — Conduta Pós-Exposição Ocupacional
-
-Profissionais de saúde estão sujeitos a exposição a sangue e fluidos biológicos. A NR-32 regulamenta as medidas preventivas e a conduta pós-exposição:
-
-**HIV:** profilaxia pós-exposição (PEP) com antirretrovirais deve ser iniciada em até 72h (idealmente nas primeiras 2h). Duração: 28 dias. Medicamentos de 1ª escolha: tenofovir + lamivudina + dolutegravir. Risco de contaminação varia com o tipo de exposição.
-
-**HBV:** vacinação prévia com anti-HBs positivo = protegido. Se não vacinado ou anticorpo negativo → imunoglobulina anti-HBs + vacina imediatamente após exposição.
-
-**HCV:** não há PEP disponível. Monitoramento com anti-HCV e ALT por 6 meses. Tratamento com DAA (antivirais de ação direta) se soroconversão.
-
-> **Dica de Prova:** PEP HIV: 72h para iniciar, 28 dias de duração. Vacinação HBV: a melhor proteção. HCV: sem PEP, monitorar.
+- **Prevenção Primária (Evitar a Doença):** É a mais eficaz. Foca em reduzir a exposição.
+    - **Exemplos:** Trocar um produto químico tóxico por água, instalar ventiladores ou treinar a equipe.
+- **Prevenção Secundária (Achar Cedo):** Foca em diagnosticar antes que o trabalhador perceba que está doente.
+    - **Exemplos:** Realizar audiometrias periódicas para achar surdez no início ou fazer triagens de humor para evitar depressão.
+- **Prevenção Terciária (Reduzir o Estrago):** Foca no trabalhador que já adoeceu.
+    - **Exemplos:** Fisioterapia para quem tem LER, adaptação de função (readaptação) e garantir que o retorno ao trabalho seja seguro.
 
 ---
 
-## Principais Sistemas de Informação em Saúde do Trabalhador
+## 2. Vigilância Integrada: Ambiente, Agravo e Resposta
 
-| Sistema | Finalidade |
-|---------|-----------|
-| SINAN | Agravos de notificação (doenças e acidentes) |
-| SINITOX | Intoxicações e envenenamentos |
-| CNAE | Classificação nacional de atividades econômicas (INSS/MTE) |
-| CAT | Comunicação de Acidente de Trabalho (INSS) |
-| RAIS | Relação Anual de Informações Sociais (vínculos empregatícios) |
+A vigilância de verdade não é só contar mortos, é uma engrenagem de três frentes:
+1.  **Vigilância de Ambientes:** Ir até a fábrica e ver se o perigo está lá (fiscalização).
+2.  **Vigilância de Agravos:** Olhar os registros de acidentes e doenças (epidemiologia).
+3.  **Vigilância de Resposta:** Verificar se, depois do acidente, a empresa realmente mudou o que era preciso.
 
 ---
 
-## Sífilis e HIV no Contexto Epidemiológico
+## 3. A Rede do SUS para o Trabalhador
 
-A sífilis teve aumento expressivo no Brasil nos últimos anos. Notificação obrigatória semanal. A sífilis congênita é um indicador de qualidade da atenção pré-natal e tem meta de eliminação. Tratamento: penicilina benzatina — único tratamento aceito na gestação.
+O SUS tem uma estrutura específica para isso chamada **RENAST** (Rede Nacional de Atenção Integral à Saúde do Trabalhador).
+- **O CEREST:** É o Centro de Referência. Ele não atende "qualquer coisa"; ele é a inteligência que apoia as UBS e hospitais. Se você atende um caso de intoxicação por agrotóxico, o **CEREST** é quem te ajuda a investigar qual veneno foi e como proteger a plantação toda.
 
-O **HIV** é notificação compulsória desde diagnóstico (não somente **AIDS**). O tratamento antirretroviral universal (TARV independente de CD4) é política nacional do Brasil.
+---
+
+## 4. O Evento Sentinela: O Sinal de Alerta
+
+Um evento sentinela é aquele acidente ou doença que, por si só, diz que "algo está muito errado".
+- **Exemplos:** Um óbito no trabalho, um acidente com muitos feridos ao mesmo tempo ou um caso de câncer em um setor onde todos tomam a mesma substância.
+- **A Conduta:** Esses casos exigem **Investigação Imediata**. O médico não pode esperar o mês acabar para notificar; o risco de repetição é alto e vidas estão em perigo.
+
+---
+
+## Ponte com a Clínica
+
+No seu plantão, se você atender uma enfermeira que se furou com uma agulha e ela relatar que as caixas de descarte de perfurocortante estão sempre superlotadas, você identificou uma falha de **Prevenção Primária** (falha na estrutura). A sua conduta não é apenas dar os remédios (Prevenção Terciária), mas sim relatar essa superlotação para a Comissão de Controle de Infecção Hospitalar (CCIH). Essa integração entre o seu atendimento clínico e a gestão do hospital é o que evita que o próximo colega se fure amanhã.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **PEP HIV:** iniciar em até 72h; durar 28 dias; TDF + 3TC + DTG.
-- **HBV pós-exposição:** vacina + imunoglobulina se não imune.
-- **HCV:** sem PEP; monitorar por 6 meses.
-- **SINAN:** sistema de notificação de agravos.
-- **Sífilis congênita:** indicador de qualidade do pré-natal.
-- **Penicilina benzatina:** único tto sífilis na gestação.
+- **Prevenção Primária**: Atua na fonte; é a única que realmente evita a ocorrência do dano.
+- **RENAST**: A rede que une todos os pontos do SUS (Posto, Hospital, Vigilância) em prol do trabalhador.
+- **Evento Sentinela**: Funciona como um "trauma" no sistema; exige resposta rápida e mudança de protocolo.
+- **Vigilância Sanitária ocupacional**: O poder do estado de entrar na empresa e exigir mudanças sob pena de multa.
+- **Reabilitação Profissional**: O foco central da prevenção terciária; evitar que o trabalhador vire um inválido precoce.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Prevenção e Vigilância, foque no tempo da ação. 
+**Antes de adoecer** = Primária. **Achar no início** = Secundária. **Já adoeceu, quer recuperar** = Terciária. Se a questão cita um surto ou um acidente grave, a resposta é ligada a **Evento Sentinela**.
 
-PEP HIV = 72h, 28 dias (TDF+3TC+DTG). HBV pós-exposição: imunoglobulina + vacina.
-
-HCV: sem PEP, monitorar 6 meses. SINAN: notificação compulsória.
-
-Sífilis na gestação: penicilina benzatina — único tratamento eficaz.
+A Uninove adora o **CEREST**. Lembre-se: ele é o "professor" da rede; dá suporte e investiga casos complexos. Outro ponto forte: mudar a tarefa do trabalhador para ele não piorar é **Prevenção Terciária**. Por fim, saiba que a vigilância de "Resposta Institucional" é a que mede se as promessas de segurança da empresa saíram do papel e viraram proteção real.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| PEP HIV | Profilaxia HBV | PEP HIV: antirretrovirais 28 dias; HBV: imunoglobulina + vacina imediata |
-| Sífilis primária | Sífilis congênita | Primária: cancro duro (adulto); congênita: transmissão vertical (indicador pré-natal) |
-| SINAN | CAT | SINAN: saúde pública (VE); CAT: previdência (INSS) |
-| HCV sem PEP | HIV com PEP | HCV: sem profilaxia pós-exposição disponível; HIV: PPE eficaz se precoce |
+| **Primária** | **Secundária** | Tirar o **Ruído** vs Fazer **Audiometria** |
+| **Secundária** | **Terciária** | Rastrear a **Doença** vs Tratar a **Sequela** |
+| **CEREST** | **VISAT** | Centro de **Referência** vs Ação de **Vigilância** em si |
+| **Evento Sentinela** | **Caso Comum** | Alerta de **Risco Coletivo** vs Adoecimento Individual |
+| **EPC** | **Mudança de Prática** | Barreira **Física** vs Barreira de **Comportamento** |
 
 ### Frase-âncora para não esquecer
 
-> "72h é o prazo do HIV — passe desse limite e o PEP não funciona. HCV não tem remédio preventivo — só observar."
+> "Primária evita, Secundária acha, Terciária cura. A vigilância é o olho que vê o perigo antes dele virar um enterro. Evento sentinela não se anota, se investiga com urgência."

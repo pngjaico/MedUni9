@@ -1,182 +1,91 @@
 # BMF3 — Aula 9: Fisiologia da Absorção de Nutrientes
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A absorção é o grande final da digestão. Na prova, os temas centrais são os locais específicos onde cada nutriente entra no corpo — com destaque para o **Íleo Terminal** (Vitamina B12) e o **Duodeno** (Ferro) — e a forma única como as **Gorduras** são transportadas pela linfa.
+
+Na prática, entender que uma cirurgia no final do intestino pode causar anemia por falta de B12 ou que a falta de bile impede a absorção de vitaminas vitais (A, D, E, K) é o que permite ao médico tratar desnutrições e carências vitamínicas.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A absorção intestinal é o processo final da digestão e o mecanismo que sustenta a nutrição. Disfunções absortivas levam à desnutrição, deficiências vitamínicas e doenças graves. A **Uninove** cobra com frequência a absorção de vitaminas lipossolúveis, vitamina B12, ferro e os mecanismos de transporte (ativo, passivo, cotransporte).
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de local de absorção.
+- **O que mostrar:** O "Mapa da Absorção": Um esquema do TGI destacando o **Duodeno** (Ferro e Cálcio), o **Jejuno** (Açúcares, Proteínas e Gorduras) e o **Íleo Terminal** (Vitamina B12 e Sais Biliares).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Locais preferenciais de absorção de nutrientes e vitaminas.
 
+## 1. Carboidratos e Proteínas: O Caminho Direto
 
-
-
----
-
-## 1. Local de Absorção dos Nutrientes
-
-| Nutriente | Principal Local de Absorção | Mecanismo |
-|---------|----------------------------|-----------|
-| Carboidratos (glicose, galactose) | Jejuno proximal | Cotransporte Na⁺-glicose (SGLT1) |
-| Frutose | Jejuno | Difusão facilitada (GLUT5) |
-| Aminoácidos | Jejuno | Cotransportes Na⁺-dependentes |
-| Lipídios (ácidos graxos, monoglicerídeos) | Jejuno | Difusão passiva (após micelização) |
-| Vitamina B12 (cobalamina) | Íleo terminal | Endocitose mediada por receptor (cubilina) |
-| Sais biliares | Íleo terminal | Cotransporte Na⁺-ácido biliar |
-| Ferro (Fe²⁺) | Duodeno | Cotransporte H⁺-Fe²⁺ (DMT1) |
-| Cálcio | Duodeno/jejuno proximal | Transporte ativo (vitamina D-dependente) |
-| Vitaminas lipossolúveis (A, D, E, K) | Jejuno | Com micelas (difusão passiva) |
-| Vitaminas hidrossolúveis (B1, B2, C) | Jejuno | Difusão/transporte ativo |
-| Água | Intestino delgado + grosso | Osmose passiva |
+A maior parte do que comemos é absorvida no **Jejuno** e vai direto para o sangue (veia porta).
+- **Glicose e Galactose:** Entram na célula pelo transportador **SGLT1** (precisa de sódio/Na+ para funcionar).
+- **Frutose:** Entra por difusão facilitada pelo **GLUT5**.
+- **Aminoácidos:** São absorvidos por transportadores específicos ou na forma de pequenos pedaços (di e tripeptídeos).
 
 ---
 
-## 2. Absorção de Carboidratos
+## 2. Gorduras: O Caminho Especial (Linfa)
 
-### Digestão Luminal e de Borda em Escova
-
-1. **Amilase salivar/pancreática** → polissacarídeos → oligossacarídeos/dissacarídeos
-2. **Enzimas da borda em escova** (sacarase, maltase, lactase, isomaltase) → monossacarídeos
-3. **Absorção das microvilosidades:**
-   - Glicose/galactose: SGLT1 (cotransporte com Na⁺, ativo)
-   - Frutose: GLUT5 (difusão facilitada)
-   - Saída basolateral: GLUT2 (para capilar sanguíneo)
-
-### Intolerância à Lactose
-
-- Deficiência de lactase → lactose não absorvida → fermentação bacteriana → gases (flatulência), diarreia osmótica
-- Lactase é a enzima da borda em escova mais "vunlerável" após diarreia aguda infecciosa
+As gorduras não se misturam com a água do sangue, por isso o transporte delas é complexo:
+1.  **Micelas:** Os sais biliares "embrulham" a gordura em micelas para ela conseguir chegar na parede do intestino.
+2.  **Quilomícrons:** Dentro do enterócito, a gordura é re-embalada em grandes pacotes chamados quilomícrons.
+3.  **Vasos Linfáticos:** Os quilomícrons são grandes demais para entrar nos capilares. Eles entram nos **Vasos Linfáticos** (lacteais) e só chegam ao sangue lá em cima, perto do coração.
 
 ---
 
-## 3. Absorção de Proteínas
+## 3. Os Pontos Críticos: B12 e Ferro
 
-1. **Pepsina** (estômago) → peptídeos grandes
-2. **Proteases pancreáticas** (tripsina, quimotripsina) → di e tripeptídeos + aminoácidos livres
-3. **Peptidases da borda em escova** → aminoácidos
-4. **Absorção:** cotransportes Na⁺-dependentes para aminoácidos; PepT1 (H⁺-dipeptídeo) para di/tripeptídeos
-
----
-
-## 4. Absorção de Lipídios
-
-### Etapas
-
-1. **Emulsificação** pelos sais biliares → gotículas menores
-2. **Lipase pancreática** (+ colipase) → ácidos graxos + 2-monoglicerídeos
-3. **Formação de micelas** mistas (sais biliares + produtos lipolíticos)
-4. **Difusão passiva** pela borda em escova dos enterócitos
-5. **Re-síntese** de triglicerídeos no RE do enterócito
-6. **Formação de quilomícrons** (TG + colesterol + fosfolipídios + apoproteínas)
-7. **Exocitose** pelo polo basolateral → **vasos linfáticos** (lacteais) do vilosidade → ducto torácico → circulação sistêmica
-
-> **Importante:** Ácidos graxos de cadeia **curta e média** são absorvidos diretamente para o sangue portal (não precisam de quilomícrons nem linfa). Apenas os de cadeia longa vão pela via linfática.
+Estes dois nutrientes dependem de locais e condições muito específicas:
+- **Ferro:** Absorvido no **Duodeno**. Para ser absorvido, ele precisa do **Ácido do Estômago (HCl)** para se transformar na forma certa (**Fe2+**).
+- **Vitamina B12:** Só é absorvida no **Íleo Terminal**. Ela precisa estar "abraçada" com o **Fator Intrínseco** (produzido no estômago). Se você não tem estômago ou se tirar o final do intestino, você terá **Anemia Megaloblástica**.
 
 ---
 
-## 5. Absorção de Vitamina B12
+## 4. Vitaminas Lipossolúveis: A, D, E e K
 
-Processo complexo e multietapas:
-
-1. **Estômago:** B12 livre se liga à **Haptocorrina** (proteína-R), produzida pela saliva/mucosa gástrica
-2. **Duodeno:** Proteases pancreáticas degradam haptocorrina → B12 se liga ao **Fator Intrínseco (FI)** (produzido pela célula parietal)
-3. **Íleo terminal:** Complexo B12-FI se liga ao receptor **Cubilina** → endocitose → B12 absorvida
-
-> **Deficiência de B12 ocorre quando:**
-> - Gastrectomia (sem FI)
-> - Anemia perniciosa (autoanticorpos contra FI)
-> - Doença de Crohn/ressecção do íleo terminal
-> - Dieta vegetariana estrita (sem fonte animal)
-
----
-
-## 6. Absorção de Ferro
-
-- Ferro dietético: forma **Fe³⁺ (ferro férrico)** — insolúvel
-- Ácido clorídrico reduz Fe³⁺ → **Fe²⁺ (ferroso)** — absorvível
-- Absorção via **DMT1** (transportador de metal divalente 1) no duodeno
-- Dentro do enterócito: armazenado em ferritina ou transportado por **ferroportina** para o sangue
-- No sangue: Fe²⁺ → oxidado pela **hefaestina** → Fe³⁺ → ligado à **transferrina**
-
-> **Hepcidina:** hormônio hepático que bloqueia a ferroportina → reduz absorção e liberação de ferro (regulador master do metabolismo do ferro)
-
----
-
-## 7. Vitaminas Lipossolúveis — Regra de Ouro
-
-**A D E K** — todas absorvidas com os lipídios (dependem de micelas e sais biliares):
-- Qualquer causa de má-absorção de gorduras → deficiência de A, D, E, K
-- Ressecção ileal, colestase, fibrose cística, doença celíaca → deficiência de vitaminas lipossolúveis
-
-| Vitamina | Deficiência Clínica |
-|----------|---------------------|
-| A | Cegueira noturna, xeroftalmia |
-| D | Raquitismo (crianças), osteomalácia (adultos) |
-| E | Neuropatia, hemólise |
-| K | Coagulopatia (↓fatores II, VII, IX, X) |
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Vitamina B12 absorvida no íleo terminal, não no jejuno:** O FI é para isso — carrega B12 até o íleo.
-2. **Lipídios de cadeia longa → linfa (quilomícrons):** Não entram diretamente no sangue portal como os carboidratos e aminoácidos.
-3. **HCl é necessário para absorção do ferro:** Sem ácido → Fe³⁺ não reduz para Fe²⁺ → má-absorção de ferro → anemia ferropriva. Uso prolongado de IBP pode contribuir para isso.
-4. **Hepcidina inibe absorção de ferro (inflamação eleva hepcidina):** Na anemia de doença crônica, a inflamação aumenta hepcidina → ferro fica preso nos macrófagos → não disponível para eritropoiese.
-5. **Vitaminas lipossolúveis dependem de sais biliares:** Icterícia obstrutiva → bile não chega ao intestino → deficiência de vitamina K → coagulopatia.
-6. **Lactase é a mais vulnerável:** A mais sensível a lesão da borda em escova. Intolerância transitória pós-gastroenterite é comum.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei o local de absorção de cada macronutriente e vitamina B12
-- [ ] Entendo as etapas da absorção de lipídios (emulsificação → micela → enterócito → quilomícron → linfa)
-- [ ] Sei o papel do FI e da cubilina na absorção de B12
-- [ ] Sei o papel do HCl na redução do ferro (Fe³⁺→Fe²⁺)
-- [ ] Distingo ácidos graxos de cadeia longa (linfa) de cadeia curta/média (sangue portal)
-- [ ] Sei as deficiências de vitaminas A, D, E, K por má-absorção
+Essas vitaminas se comportam como gorduras.
+- **Regra:** Se o paciente tem má absorção de gordura (por falta de bile ou doença no pâncreas), ele terá falta dessas 4 vitaminas.
+- **Deficiências Clássicas:** Falta de **Vitamina K** causa sangramentos; falta de **Vitamina A** causa cegueira noturna; falta de **Vitamina D** enfraquece os ossos.
 
 ---
 
 ## Ponte com a Clínica
 
-Na doença celíaca, a atrofia das vilosidades do intestino delgado compromete a superfície absortiva, levando à síndrome de má-absorção global: deficiências de ferro (anemia ferropriva), ácido fólico, B12, cálcio (osteoporose) e vitaminas lipossolúveis. A doença inflamatória intestinal que afeta o íleo terminal (Doença de Crohn) priva o paciente da capacidade de absorver vitamina B12 e sais biliares. A reposição de vitamina K por via parenteral é necessária em icterícia obstrutiva severa para prevenir complicações hemorrágicas antes de procedimentos cirúrgicos.
+Pacientes com **Doença de Crohn** que atinge o **Íleo Terminal** sofrem de dois grandes problemas: anemia grave (falta de B12) e diarreia gordurosa (**Esteatorreia**). Isso acontece porque é ali que o corpo recicla os sais biliares. Sem os sais biliares voltando para o fígado, a bile acaba, a gordura não é absorvida e "escorre" pelas fezes, levando junto as vitaminas A, D, E e K.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Duodeno**: Principal local de absorção de **Ferro** e **Cálcio**.
+- **Jejuno**: Local de absorção da maioria dos nutrientes (açúcares e proteínas).
+- **Íleo Terminal**: Único local de absorção da **Vitamina B12** e resgate de **Sais Biliares**.
+- **Quilomícrons**: Transportam gorduras de cadeia longa pela **Linfa**.
+- **Lactose**: Se não for absorvida (falta de lactase), causa diarreia osmótica e gases.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Absorção, decore os endereços dos nutrientes. 
+O **Ferro** entra logo na porta (Duodeno), mas precisa do ácido pra "limpar" ele. A **B12** faz a viagem mais longa e só entra no final (Íleo Terminal), e só se estiver acompanhada do Fator Intrínseco. No caminho, no **Jejuno**, a **Glicose** entra junto com o Sódio (Na+) pelo **SGLT1**.
 
-Glicose: SGLT1 (Na⁺-glicose, ativo); Frutose: GLUT5 (difusão facilitada). Lipídios de cadeia longa: micelas → enterócito → quilomícron → linfa (não sangue portal).
-
-B12: FI (célula parietal) + receptor cubilina no íleo terminal. Ferro: Fe³⁺ → HCl → Fe²⁺ → DMT1 (duodeno) → ferroportina → transferrina.
-
-Vitaminas A D E K: dependem de sais biliares/micelas — colestase ou ressecção ileal → deficiência. Hepcidina: bloqueia ferroportina → ↓absorção de ferro (↑na inflamação crônica).
+A Uninove ama a diferença entre gordura e açúcar. Açúcar vai pro sangue; Gordura (cadeia longa) vira **Quilomícron** e vai pelo "esgoto" do corpo (Linfa). Lembre-se: qualquer problema que impeça a gordura de ser absorvida (como pedra na vesícula ou pancreatite) vai causar falta de **Vitamina K** (sangramento) e **Vitamina D** (ossos fracos). Por fim, saiba que o **Ferro** é controlado pela **Hepcidina**: se ela sobe (como em inflamações), o ferro fica trancado e não entra no sangue.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Ácidos graxos cadeia longa | Ácidos graxos cadeia curta/média | Longa: quilomícron → linfa; Curta/média: direto para sangue portal |
-| Fator Intrínseco | Haptocorrina | FI: célula parietal, transporta B12 no íleo; Haptocorrina: saliva, transporta B12 no estômago/duodeno |
-| Anemia perniciosa | Anemia ferropriva | Perniciosa: falta de FI → B12→ megaloblástica; Ferropriva: falta de ferro → microcítica hipocrômica |
-| SGLT1 | GLUT5 | SGLT1: glicose/galactose, ativo (Na⁺); GLUT5: frutose, difusão facilitada |
+| **Ferro (Fe2+)** | **Vitamina B12** | Absorvido no **Duodeno** vs Absorvida no **Íleo Terminal** |
+| **Glicose (SGLT1)** | **Frutose (GLUT5)** | Transporte **Ativo (com Na+)** vs Difusão Facilitada |
+| **Micela** | **Quilomícron** | Gordura **fora** da célula vs Gordura **dentro** da célula |
+| **Haptocorrina** | **Fator Intrínseco** | Protege B12 no **Estômago** vs Protege B12 no **Intestino** |
+| **Fe2+ (Ferroso)** | **Fe3+ (Férrico)** | Forma que o corpo **consegue absorver** vs Forma insolúvel |
 
 ### Frase-âncora para não esquecer
 
-> "A gordura é metida a besta: não vai direto pro sangue como a glicose — precisa de micela, quilomícron e até da linfa para chegar ao destino."
+> "O Ferro entra cedo no duodeno; a B12 entra tarde no íleo. O açúcar corre pro sangue; a gordura se esconde na linfa como quilomícron. ADEK são as vitaminas que só viajam com a gordura."

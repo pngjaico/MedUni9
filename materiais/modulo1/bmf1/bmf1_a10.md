@@ -1,108 +1,98 @@
 # BMF1 — Aula 10: Generalidades do Sistema Muscular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+O músculo esquelético é a máquina que transforma metabolismo em torque. Na prova, os temas centrais são a **Arquitetura Muscular** (como a forma do músculo dita a sua força) e a **Hierarquia de Envoltórios** (Endomísio, Perimísio e Epimísio).
+
+Na prática clínica da medicina esportiva e reabilitação, você não precisa saber apenas a origem e a inserção; você precisa saber o *tipo* de contração que causou a lesão. **Roturas Musculares** raramente ocorrem quando o músculo está só puxando o osso; elas ocorrem quando ele está freando um movimento, sendo esticado enquanto faz força (contração excêntrica). 
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O **Músculo Esquelético** é a máquina que converte energia química em movimento. Para a prova, domine a hierarquia dos envoltórios (**Endomísio**, **Perimísio** e **Epimísio**) e os tipos de fibras (Oxidativas vs Glicolíticas). Na clínica, entenda que a arquitetura do músculo (ex: **Pennado**) e sua relação com as articulações ditam os padrões de força e o risco de lesões como as **Roturas Musculares**.
-
----
-
-## Hierarquia: do miócito ao órgão
-
-- **Miócito:** A fibra muscular propriamente dita.
-- **Endomísio:** Envolve cada fibra individualmente.
-- **Perimísio:** Envolve um grupo de fibras chamado **Fascículo**.
-- **Epimísio:** Envolve o músculo inteiro (Ventre muscular).
-- **Unidade Motora:** Um único neurônio motor e todas as fibras que ele inerva. Doenças como a **Estenose de Canal** ou **Esclerose Lateral** começam alterando essa unidade.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A10-F01`
 
-- **Momento:** após hierarquia estrutural.
-- **O que mostrar:** corte transversal de músculo esquelético com epimísio, fascículos e endomísio; opcional inserção tendínea.
-- **Tipo sugerido:** esquema didático ou ilustração de atlas (Commons).
-- **Legenda (rascunho):** “Organização do músculo esquelético: fascículos e envoltórios conjuntivos.”
+- **Momento:** Seção de Hierarquia dos Envoltórios.
+- **O que mostrar:** O "Cabo de Aço": Uma seção transversal de músculo "descascando" as camadas. Mostrar a célula individual isolada (**Endomísio**), depois um cacho de células juntas formando o fascículo (**Perimísio**), e finalmente a capa brilhante externa que segura o próprio músculo (**Epimísio**), se conectando ao branco do tendão.
+- **Tipo sugerido:** Infográfico histológico-anatômico (macro para micro).
+- **Legenda (rascunho):** A barreira fascial: como os invólucros conjuntivos conduzem a força contrátil até o osso.
+
+## 1. A Hierarquia do Tecido: Envelopando a Força
+
+Músculo não é apenas fibra de contração libre; a força precisa de rodovias para chegar ao osso. Essas rodovias são os tecidos conjuntivos:
+- **Miócito (Fibra):** A própria célula contrátil. É revestida no nível microscópico pelo **Endomísio**.
+- **Fascículo:** Um feixe de miócitos amarrados juntos. É revestido pelo **Perimísio**.
+- **Ventre Muscular (O Músculo):** O órgão inteiro. Revestido pelo **Epimísio** e, por cima dele, a grossa película prateada de **Fáscia**.
+- **Aponeurose:** Quando o epimísio termina não em um cordão (tendão cilíndrico), mas sim numa "folha" fibrosa larga (ex: na região lombar ou abdome).
 
 ---
 
-## Arquitetura muscular e relação força–excursão
+## 2. O Desenho Dita a Força: Arquitetura
 
-| Formato Muscular | Vantagem Mecânica | Exemplo Clássico |
+Você não pode ter a força de um trator e a velocidade de um carro esporte no mesmo motor. O arranjo das fibras dita a função:
+
+| Formato Físico | Especialização Biomecânica | Exemplo Clássico |
 |-------------------|--------------------|-------------------|
-| **Fusiforme** | Velocidade e **Excursão**| Bíceps Braquial |
-| **Pennado** | **Força Máxima** Bruta | Reto Femoral |
-| **Circular** | Esfíncter / Fechamento| Orbicular do Olho |
+| **Fusiforme / Paralelo**| Fibras longas voltadas para a mesma direção. Ganha em **Velocidade** e Amplitude. | Bíceps Braquial |
+| **Pennado** | Fibras oblíquas como uma pluma ("pena"). Ocupa menos espaço e empacota mais fibras. Ganha em **Força Máxima**. | Reto Femoral, Panturrilha |
+| **Circular** | Anéis concêntricos. Especializados em **Abrir e Fechar**. | Óstio da Boca ou Olho (Esfíncteres) |
 
-Músculos **Pennados** têm mais fibras por área, por isso geram mais torque, mas encurtam-se menos. Músculos **Biarticulares** (que cruzam duas articulações) são os mais vulneráveis a estiramentos (ex: Isquiotibiais).
-
----
-
-## Origem, inserção e ação: convenções
-
-Por convenção, a **origem** costuma ser a fixação mais proximal ou medial e a **inserção** a mais distal ou lateral — mas o que importa clinicamente é qual extremidade se move em relação à outra durante a ação. Sinergistas cooperam na mesma ação; antagonistas oponhem-se. Ancônios e pontos de alavanca simplificam o raciocínio de biomecânica básica (braço, antebraço, perna).
+> **Dica de Prova:** Músculos **Biarticulares** (como o Reto Femoral, que passa pelo Quadril e Joelho) são os que **Mais Rascam (Estiramento)** em tiros de corrida, por sofrerem tensões cruzadas das duas articulações.
 
 ---
 
-## Tipos de fibra e adaptação
+## 3. Tipos de Fibras Musculares (As "Marchas" do Corpo)
 
-| Tipo de Fibra | Metabolismo | "Gatilho" de Prova |
+| Tipo | Velocidade e Combustível | Uso Principal de Prova |
 |----------------|---------------|--------------------|
-| **Tipo I** (Vermelha)| Oxidativo | **Resistência** (Maratona)|
-| **Tipo II** (Branca) | Glicolítico | **Potência** / Explosão |
-
-Fibras de **Tipo I** são ricas em mitocôndrias e **Mioglobina** (o que dá a cor vermelha), permitindo contração lenta e infatigável. Fibras de **Tipo II** cansam rápido, mas geram picos de força para movimentos rápidos (sprint).
+| **Tipo I** (A Vermelha)| Lenta e Oxidativa (Oxigênio). Alta concentração de **Mioglobina** (Resiste à fadiga).| Manter a **Postura** (ex: Eretores da espinha) e Maratonas. |
+| **Tipo II** (A Branca)| Rápida e Glicolítica (Glicose). Cança rápido, mas produz picos absurdos de torque.| Saltar ou um **Tiro de 100m** (ex: Peitoral). |
 
 ---
 
-## Inervação e circulação (visão integrada)
+## 4. O Comportamento da Contração (Conceitos Críticos)
 
-Cada músculo recebe ramos motores de plexos ou nervos segmentares específicos — erro de mapeamento gera confusão com radiculopatia versus lesão periférica. A circulação é rica e variável; após trauma fechado, compartimento muscular pode elevar pressão (fasciotomia é decisão clínica, não de memorização de prova, mas o aluno deve saber **que** o músculo está em compartimento limitado por fáscia).
-
-> **Dica de Prova:** Quando a questão citar “SO / FOG / FG”, associe lentidão oxidativa a fibras mais resistentes à fadiga e fibras mais rápidas a sprint e pico de força — não decore percentuais por músculo, entenda o eixo.
-
-Treino crônico altera diâmetro de fibra e densidade capilar; desuso reduz síntese proteica contrátil. Em semiologia, testar força por grupo (flexores de punho, dorsiflexores) mapeia raízes e nervos periféricos — o conteúdo desta aula sustenta a lógica de “qual movimento falhou”.
+- **Unidade Motora:** É o neurônio motor "Chefe" + todas as fibras musculares (operários) que ele ativa ao mesmo tempo. É a verdadeira unidade funcional de ativação do músculo.
+- **Isométrica:** O músculo faz força, mas o comprimento dele não muda (ex: Empurrar a parede). É a recomendada na fisioterapia inicial pós-cirurgia (não gera arco de movimento).
+- **Isotônica:** A força vence o alvo. 
+   - **Concêntrica:** O músculo "vence" e **encurta** (ex: Levantar o haltere).
+   - **Excêntrica:** O músculo "freia" e **allonga-se** controladamente (ex: Descer o haltere de volta). É onde ocorrem **90% das lesões e dor tardia** na academia.
 
 ---
 
 ## Ponte com a Clínica
 
-Roturas musculares completas ocorrem mais em músculos biarticulares em elongamento rápido (isquiotibiais, adutor longo). Tendinopatias frequentemente acompanham sobrecarga excêntrica em músculos pennados de alta demanda (gastrocnêmio, supraespinal). Distrofias e miopatias alteram o padrão histológico — aqui o foco BMF permanece na anatomia funcional do músculo “normal” para interpretar o exame físico.
+A **Fáscia Muscular** é extremamente rígida e não se expande. Isso é maravilhoso para garantir que o vetor muscular chegue ao tendão, mas pode ser fatal. Se um jogador sofre um pisão na perna, o sangramento intramuscular ocorre dentro desse limite fascial inelástico. A pressão sobe tanto que bloqueia as veias e depois as artérias provocando isquemia: é a temida **Síndrome Compartimental**, uma emergência cirúrgica cujo tratamento é abrir a fáscia na faca (Fasciotomia). Outra pegadinha clínica: pacientes com gesso muito tempo sofrem **Atrofia por Desuso** massiva, pois perdem proteína contrátil diariamente na total ausência da carga do fuso.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Placa Motora:** É a sinapse entre o nervo e o músculo. Alvo da **Miastenia Gravis**.
-- **Aponeurose:** Tendão em forma de folha larga e chata (ex: músculos abdominais).
-- **Sinergista:** Músculo que ajuda o **Agonista** (principal) a realizar o movimento.
-- **Antagonista:** Músculo que faz a ação contrária (ex: Tríceps é antagonista ao Bíceps na flexão).
-- **Atrofia por Desuso:** Ocorre rapidamente por perda de proteínas contráteis em pacientes acamados.
+- **Sinergista vs Antagonista**: O Sinergista é o músculo ajudante do movimento principal. O Antagonista faz o movimento contrário.
+- **Tônus**: Repouso ativo; mesmo deitado, algumas de suas unidades motoras estão disparando para manter o músculo "armado".
+- **Origem vs Inserção**: O ponto de origem historicamente fica **Fixo** durante a contração (proximal); o ponto de inserção é a ponta que se **Move** na direção da origem.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-- **Pennado vs Fusiforme:** O Pennado ganha em força (mais fibras); o Fusiforme ganha em amplitude.
-- **Fibras Tipo I:** Sustentam a **Postura** (músculos eretores da espinha).
-- **Fibras Tipo II:** Usadas para levantar peso ou saltar.
-- **Fáscia:** Revestimento que organiza os músculos em **Compartimentos**. Se a pressão subir aqui, ocorre a **Síndrome Compartimental**.
+Para gabaritar o sistema muscular anatômico, grave as chaves da Arquitetura e do Metabolismo.
+**Vermelha (I)** = Resistência Aeróbica (Postura). **Branca (II)** = Pico de Força. 
 
-| Conceito A | Conceito B | Diferencial para Prova |
+A Uninove foca absurdamente nas classificações dos nomes gregos: Perimísio e Fascículo andam de mãos dadas. Entenda o termo **Aponeurose** como um "Toldo de Cimento", que espalha a força no assoalho pélvico e abdome (onde um tendão cilíndrico rasgaria o músculo da parede). E por fim: quem dita o movimento liso é a "Central de Comando"; uma falha no **Neurônio Motor** mata a unidade motora inteira, gerando fraqueza clínica.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Origem** | **Inserção** | Ponto fixo vs Ponto Móvel |
-| **Endomísio** | **Perimísio** | Cerca a Fibra vs **Cerca o Fascículo** |
-| **Bainha Tendínea**| **Bursa** | Túnel lubrificado vs Bolsa de atrito |
-| **Contraç. Isométrica**| **Isotônica** | Sem movimento vs **Com encurtamento** |
+| **Fusiforme** | **Pennado** | Arranjo longo (+ Amplitude) vs Arranjo oblíquo (+ **Força Bruta**) |
+| **Miócito** | **Fascículo** | Uma celular envolta por **Endo** vs Um bolo de células envolto por **Peri** |
+| **Ligamento** | **Tendão / Aponeurose** | Segura osso em osso vs Transmite tração **do ventre** para o esqueleto |
+| **Concêntrica** | **Excêntrica** | Encurta (Vence a carga) vs Estica (Freia a carga) |
+| **Agonista** | **Sinergista** | Músculo líder do movimento vs Músculos auxiliares/de estabilidade |
 
 ### Frase-âncora para não esquecer
 
-> “A arquitetura do ventre decide se você ganha força ou amplitude — não dá para maximizar os dois no mesmo desenho.”
+> "A fibra contrai, o fascículo conduz e o tendão entrega a paulada. O endo envolve a célula, o peri o pacote, o epi finaliza tudo na borda externa do dote. De penachos para força a paralelos pro giro, a fáscia comprime o todo num compasso restrito."

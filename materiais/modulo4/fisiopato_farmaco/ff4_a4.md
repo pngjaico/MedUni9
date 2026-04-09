@@ -1,185 +1,93 @@
-# FF4 - Aula 4: Fisiopatologia das Doenças Cerebrovasculares
+# FF4 — Aula 4: Doenças Cerebrovasculares — O Tempo é Cérebro
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos Neuroendócrinos  
-**Módulo:** 4 | **Tempo de estudo sugerido:** 20-30 min
+O Acidente Vascular Cerebral (AVC) é uma das maiores causas de morte e incapacidade no mundo. Na prova, os temas centrais são a diferenciação entre **AVC Isquêmico e Hemorrágico**, o conceito vital de **Penumbra Isquêmica** e a importância da **TC de Crânio sem contraste** na avaliação inicial.
+
+Na prática, cada minuto conta. Quando um vaso no cérebro entope ou rompe, as células começam a morrer em cascata. O seu papel como médico é identificar os sinais rapidamente e garantir que o paciente chegue ao hospital com tomografia o quanto antes. Salvar o tecido cerebral que ainda está sofrendo, mas não morreu (**Penumbra**), é o que define se o paciente voltará a andar ou se terá sequelas permanentes.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As doenças cerebrovasculares estão entre as principais causas de morte e incapacidade em adultos.  
-Na graduação, o ponto central não é decorar protocolos complexos, mas entender a **fisiopatologia que orienta as primeiras decisões**.
-
-Em prova, o enunciado costuma misturar clínica neurológica focal, fator de risco cardiovascular e exame de imagem inicial.  
-Quem domina a lógica **isquêmico vs hemorrágico** e o conceito de **penumbra isquêmica** geralmente acerta as questões com mais segurança.
-
-Sob a perspectiva da patologia de base (Robbins), o AVC resulta de uma lesão vascular aguda que interrompe o equilíbrio entre oferta e demanda energética do tecido cerebral.  
-Como o cérebro tem alta dependência de glicose e oxigênio e poucas reservas, minutos de hipoperfusão já iniciam cascatas lesivas.
-
-## AVC isquêmico vs AVC hemorrágico: visão fisiopatológica
-
-O **AVC isquêmico** ocorre por redução crítica do fluxo sanguíneo cerebral em um território arterial, por trombose local ou êmbolo.  
-O dano inicial é metabólico: falha de ATP, disfunção de bomba iônica, despolarização, entrada de cálcio, excitotoxicidade por glutamato, estresse oxidativo e inflamação.
-
-O **AVC hemorrágico** decorre de ruptura vascular com extravasamento de sangue para o parênquima (hemorragia intraparenquimatosa) ou para espaços meníngeos (como na hemorragia subaracnóidea).  
-Além da interrupção perfusional secundária, há efeito de massa, aumento de pressão intracraniana e toxicidade local de produtos da degradação sanguínea.
-
-Em termos de prova, ambos podem cursar com déficit focal súbito.  
-A diferença crítica está no **mecanismo da lesão** e no risco de piora com condutas inadequadas.
-
-> **Dica de Prova:** se a questão perguntar mecanismo inicial de lesão no AVC isquêmico, pense em falência energética e excitotoxicidade; se perguntar piora neurológica com hipertensão crônica, lembre da ruptura de pequenos vasos no hemorrágico.
-
-> **Pegadinha:** “déficit focal súbito” não define sozinho o subtipo de AVC. A clínica orienta suspeita, mas a diferenciação inicial depende da imagem.
 
 ### Figura sugerida
 
 **Figura-ID:** `FF4-A4-F01`
 
-- **Momento:** após a comparação entre AVC isquêmico e hemorrágico.
-- **O que mostrar:** painel comparativo com dois fluxos curtos: isquêmico (oclusão -> falha energética -> penumbra/infarto) e hemorrágico (ruptura vascular -> hematoma -> efeito de massa/hipertensão intracraniana), com sinais clínicos típicos de cada um.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** Diferenças fisiopatológicas essenciais entre AVC isquêmico e AVC hemorrágico.
+- **Momento:** Seção de penumbra isquêmica.
+- **O que mostrar:** O "Alvo do AVC": Um desenho do cérebro mostrando o **Núcleo Isquêmico** (centro preto, células mortas) e o **Halo de Penumbra** (ao redor, células sofrendo). Destacar que o tratamento (trombólise) serve para salvar o halo, não o centro.
+- **Tipo sugerido:** Infográfico de fisiopatologia vascular.
+- **Legenda (rascunho):** Dinâmica da lesão cerebral aguda: núcleo necrótico versus penumbra salvável.
 
-## Penumbra isquêmica e janela tecidual
+## 1. AVC Isquêmico vs Hemorrágico
 
-A **penumbra** é a área hipoperfundida, funcionalmente comprometida, mas ainda viável por tempo limitado.  
-Ao redor do núcleo de infarto irreversível, ela representa o tecido potencialmente salvável.
+O cérebro para de funcionar por dois motivos opostos:
+- **AVC Isquêmico (80%):** Um vaso entope (por um coágulo que viajou do coração ou uma placa de gordura local). Falta comida e oxigênio para os neurônios.
+- **AVC Hemorrágico (20%):** Um vaso se rompe e o sangue vaza para dentro do cérebro ou para as membranas (meninges). O sangue causa pressão e toxicidade direta no tecido.
+- **Dica de Ouro:** Não dá para saber qual é qual apenas olhando para o paciente; ambos causam o corpo parado e a fala enrolada. A **TC de Crânio** é quem dá o veredito.
 
-O conceito de penumbra explica por que “tempo é cérebro”, mas também por que hoje se fala em **janela tecidual**:  
-alguns pacientes mantêm penumbra relevante por mais tempo, dependendo de circulação colateral e extensão da oclusão.
+---
 
-Sequência fisiopatológica simplificada:
+## 2. O Conceito de Penumbra: A Luta Contra o Relógio
 
-1. Redução abrupta do fluxo sanguíneo cerebral.
-2. Núcleo central com dano irreversível precoce.
-3. Zona periférica de penumbra com disfunção elétrica e risco de progressão.
-4. Sem reperfusão adequada, a penumbra evolui para infarto estabelecido.
+Quando ocorre um AVC isquêmico, o dano não é igual em toda a área:
+- **Núcleo Isquêmico:** É o centro da lesão onde o sangue parou totalmente. Essas células morrem em poucos minutos e não voltam mais.
+- **Penumbra Isquêmica:** É a área ao redor que recebe um pouco de sangue de "vias alternativas". Elas estão "desmaiadas" mas vivas. Se você reabrir o vaso rápido, elas voltam a funcionar.
+- **Tempo é Cérebro:** A cada hora sem tratamento, o núcleo cresce e a penumbra diminui.
 
-| Região | Estado metabólico | Potencial de reversão |
-|--------|-------------------|-----------------------|
-| Núcleo isquêmico | Depleção energética grave e necrose precoce | Muito baixo |
-| Penumbra isquêmica | Hipoperfusão com viabilidade parcial | Moderado a alto (tempo-dependente) |
-| Tecido não afetado | Perfusão preservada | Não se aplica |
+---
 
-Esse raciocínio é clássico em fisiopatologia e coerente com uma abordagem conservadora: reconhecer urgência sem extrapolar indicação terapêutica fora de critérios.
+## 3. Fatores de Risco: Quem é o Alvo?
 
-### Figura sugerida
+Os fatores que preparam o terreno para o AVC são:
+- **Hipertensão Arterial (Pressão Alta):** O principal vilão para ambos os tipos. Ela destrói os vasos por dentro ao longo de décadas.
+- **Fibrilação Atrial (FA):** Um tipo de arritmia no coração que forma coágulos. Esse coágulo viaja direto para o cérebro (**Embolia**).
+- **Diabetes e Tabagismo:** Aceleram o entupimento das artérias (Aterosclerose).
 
-**Figura-ID:** `FF4-A4-F02`
+---
 
-- **Momento:** após a tabela de núcleo isquêmico e penumbra.
-- **O que mostrar:** ilustração axial cerebral com oclusão arterial, destacando núcleo isquêmico central e halo de penumbra, além de uma seta temporal indicando progressão para infarto na ausência de reperfusão.
-- **Tipo sugerido:** ilustração estilo atlas (Netter/Moore).
-- **Legenda (rascunho):** Núcleo isquêmico e penumbra: território em risco e janela tecidual.
+## 4. Avaliação Inicial e Diagnóstico
 
-## Fatores de risco: como a banca costuma cobrar
+Ao suspeitar de um AVC, a sequência deve ser:
+1.  **Excluir Mimetizadores:** Às vezes, o açúcar baixo no sangue (**Hipoglicemia**) imita perfeitamente um AVC. Sempre faça o teste do dedinho (HGT).
+2.  **TC de Crânio sem Contraste:** É o primeiro exame de imagem. Ela serve para ver se tem sangue. Se tiver, é hemorrágico. Se não tiver nada (imagem normal), é provavelmente um isquêmico precoce.
+3.  **Janela Terapêutica:** No isquêmico, temos até **4,5 horas** para dar o trombolítico na veia em casos selecionados.
 
-Os fatores de risco podem ser organizados em **não modificáveis** e **modificáveis**.
-
-Não modificáveis:
-- Idade avançada.
-- Sexo biológico e predisposição genética/familiar.
-- História prévia de doença cerebrovascular.
-
-Modificáveis (mais cobrados):
-- **Hipertensão arterial** (principal fator para ambos os tipos, especialmente hemorrágico intraparenquimatoso).
-- **Diabetes mellitus** e síndrome metabólica.
-- **Dislipidemia** e aterosclerose carotídea.
-- **Tabagismo** e etilismo pesado.
-- **Fibrilação atrial** e outras cardiopatias emboligênicas.
-- Sedentarismo, obesidade e dieta de baixa qualidade.
-
-No isquêmico, a prova costuma explorar aterotrombose e cardioembolia.  
-No hemorrágico, costuma destacar lesão crônica de pequenos vasos associada à hipertensão de longa data.
-
-## Apresentação clínica inicial em nível de graduação
-
-A apresentação típica é de **início súbito** de déficit neurológico focal:
-- Hemiparesia ou hemihipoestesia.
-- Assimetria facial central.
-- Disartria ou afasia.
-- Alteração de campo visual.
-- Ataxia ou vertigem de início abrupto (em síndromes posteriores).
-
-Achados que aumentam suspeita de hemorragia (sem serem absolutos):
-- Cefaleia súbita intensa.
-- Rebaixamento de consciência mais precoce.
-- Náuseas e vômitos com maior frequência.
-
-Achados que aumentam suspeita de isquemia:
-- Déficit focal isolado sem cefaleia intensa.
-- Início em paciente com perfil aterotrombótico/cardioembólico.
-
-Novamente: esses elementos **não substituem imagem** para decidir diferenciação inicial.
-
-## Diferenciação inicial e relação com exames
-
-A lógica de avaliação inicial em suspeita de AVC é:
-
-1. Reconhecer síndrome neurológica aguda.
-2. Excluir mimetizadores comuns (hipoglicemia, crise epiléptica pós-ictal, intoxicações, distúrbios metabólicos).
-3. Realizar **TC de crânio sem contraste** o mais cedo possível para distinguir isquêmico de hemorrágico.
-
-A **TC sem contraste** é o exame inicial clássico porque:
-- É rápida e amplamente disponível.
-- Detecta sangue agudo com boa acurácia.
-- Apoia decisão inicial segura.
-
-No AVC isquêmico muito precoce, a TC pode ser normal ou mostrar sinais sutis.  
-Isso não exclui isquemia; apenas reforça que imagem e clínica devem ser integradas.
-
-Exames vasculares e perfusionais (angioTC, perfusão, RM em contextos específicos) refinam seleção de casos, mas a base da graduação é:  
-**primeiro diferenciar presença de hemorragia na TC inicial e estabilizar o paciente.**
-
-| Cenário inicial | Hipótese dominante | Exame-chave inicial | Leitura prática |
-|-----------------|--------------------|---------------------|-----------------|
-| Déficit focal súbito + TC com sangue | AVC hemorrágico | TC sem contraste | Conduta inicial prioriza controle clínico e avaliação neurocirúrgica conforme caso |
-| Déficit focal súbito + TC sem sangue | AVC isquêmico provável | TC sem contraste (seguida de avaliação complementar) | Integrar tempo de início, gravidade e critérios clínicos |
-| Déficit focal + glicemia muito baixa | Mimetizador metabólico | Glicemia capilar imediata | Corrigir distúrbio antes de rotular como AVC |
+---
 
 ## Ponte com a Clínica
 
-Na prática, o estudante deve montar um raciocínio em camadas:  
-primeiro, estabilização clínica; depois, definição sindrômica; por fim, classificação etiológica inicial com suporte da imagem.
-
-O erro mais grave em cenário real e em prova é “pular etapas” e assumir subtipo de AVC apenas por impressão clínica.  
-A formulação conservadora e segura é sempre: déficit focal agudo + confirmação por imagem + conduta alinhada ao mecanismo provável.
+No pronto-socorro, se chegar um paciente com a boca torta e sem força no braço direito, sua primeira pergunta deve ser: **"Que horas isso começou?"**. Se o início foi há 60 minutos, você tem uma chance de ouro de salvar aquele cérebro. Se você demorar e a tomografia só for feita 5 horas depois, a penumbra já terá virado necrose, e o tratamento que poderia curá-lo agora traz apenas risco de sangramento. A agilidade é o melhor "remédio" do neurologista.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- AVC isquêmico: lesão por hipoperfusão e cascata excitotóxica/metabólica.
-- AVC hemorrágico: lesão por ruptura vascular, efeito de massa e aumento de pressão intracraniana.
-- Penumbra é tecido em risco potencialmente recuperável; núcleo isquêmico tem dano irreversível precoce.
-- Hipertensão arterial é fator de risco central para doença cerebrovascular.
-- TC de crânio sem contraste é exame inicial para diferenciação prática entre isquêmico e hemorrágico.
-- Quadro clínico sugere, mas não fecha subtipo sem imagem.
-- Conduta segura em prova favorece estabilização e confirmação diagnóstica inicial.
+- **AVC Isquêmico**: Mecanismo de **Excitotoxicidade por Glutamato** (o excesso de cálcio e sódio mata a célula).
+- **Penumbra Isquêmica**: Território hipoperfundido, mas metabolicamente ativo e recuperável.
+- **Hemorragia Intraparenquimatosa**: Frequentemente ligada à ruptura de artérias lenticuloestriadas (Pequenos vasos) por hipertensão crônica.
+- **Sinal de Babinski**: No AVC, ele indica lesão da **Via Piramidal** (Neurônio Motor Superior) contralateral ao lado paralisado.
+- **Aneurisma Roto**: Causa clássica de Hemorragia Subaracnóidea (cefaleia em trovoada).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-Na fisiopatologia do AVC, a diferença essencial é o tipo de agressão primária ao tecido cerebral. No AVC isquêmico, a obstrução vascular reduz o fluxo, causa falência energética e desencadeia excitotoxicidade, inflamação e morte celular. No AVC hemorrágico, a ruptura vascular produz dano mecânico e químico, além de aumento de pressão intracraniana.
 
-A penumbra isquêmica é o conceito mais valioso para integrar fisiopatologia e tomada de decisão. Ela representa tecido hipoperfundido, ainda viável por tempo limitado. Na prova, lembre que salvar penumbra depende de rapidez, seleção adequada e integração entre clínica e imagem.
+Para gabaritar doenças cerebrovasculares, foque na dinâmica da lesão. 
+**Isquêmico** = Entupimento (80%). **Hemorrágico** = Ruptura (20%). **Penumbra** é o que tentamos salvar com a rapidez.
 
-Os fatores de risco modificáveis, especialmente hipertensão, diabetes, tabagismo e fibrilação atrial, aparecem com frequência em enunciados clínicos. O examinador costuma cobrar a associação entre perfil de risco e mecanismo provável, sem exigir detalhamento terapêutico avançado.
-
-Na diferenciação inicial, a regra prática de graduação é direta: suspeitou de AVC, avalie rapidamente, exclua mimetizadores críticos e faça TC de crânio sem contraste para afastar/confirmar hemorragia. A clínica orienta a hipótese, mas a imagem inicial organiza a conduta segura.
+A Uninove adora a **Diferenciação Inicial**. Lembre-se: O primeiro exame é a **TC sem contraste** para excluir sangue. Se a TC estiver normal e o paciente tiver o corpo parado, o diagnóstico é **AVC Isquêmico**. Outro ponto forte: os **Mimetizadores**. Nunca chame de AVC antes de medir a **Glicemia**. Por fim, saiba que a **Hipertensão** é o fator de risco mais importante e modificável para evitar que o cérebro sofra um novo ataque.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| AVC isquêmico | AVC hemorrágico | Isquêmico: obstrução e hipoperfusão; hemorrágico: ruptura vascular e sangramento |
-| Núcleo isquêmico | Penumbra isquêmica | Núcleo: dano irreversível precoce; penumbra: disfunção potencialmente reversível |
-| Suspeita clínica | Confirmação etiológica inicial | Suspeita vem da história/exame; confirmação inicial do subtipo vem da TC sem contraste |
-| Fator de risco | Apresentação clínica | Fator de risco aumenta probabilidade; apresentação clínica mostra o evento agudo em curso |
-| Mimetizador de AVC | AVC verdadeiro | Mimetizador (ex.: hipoglicemia) pode simular déficit focal, mas corrige ao tratar causa de base |
+| **AVC Isquêmico** | **AVC Hemorrágico** | **TC normal/preta** (no início) vs **TC com branco** (sangue) |
+| **Núcleo Isquêmico** | **Penumbra** | Tecido **Morto** vs Tecido **Sofrendo** (Recuperável) |
+| **Embolia** | **Trombose Local** | Coágulo que **Viaja** (ex: Coração) vs Coágulo que **Forma** no vaso |
+| **HSA** | **HIP** | Sangue nas **Meninges** (Pior dor da vida) vs Sangue no **Pânquima** |
+| **AIT (Isquemia Transitória)** | **AVC** | Sintomas duram **Minutos** e não deixam lesão na imagem |
 
 ### Frase-âncora para não esquecer
-> "No AVC, primeiro diferencie o mecanismo: sem sangue na TC inicial sugere isquemia; com sangue, pense hemorrágico e proteja o cérebro da lesão secundária."
+
+> "Tempo é cérebro: o relógio corre, a penumbra morre. Sem sangue na TC, o trombolítico é o que você vai ver; com sangue no parênquima, a pressão é a inimiga da estima. Primeiro o HGT, depois a TC, e o cérebro vai agradecer."

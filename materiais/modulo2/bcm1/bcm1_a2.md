@@ -1,162 +1,96 @@
-﻿# BCM1 — Aula 2: Tampões Biológicos e Gasometria
+# BCM1 — Aula 2: Tampões Biológicos e Gasometria
 
-## Relevância Clínica e Acadêmica
+A gasometria arterial é o exame "rei" das UTIs e Pronto-Socorros. Na prova, o tema central é a interpretação dos distúrbios **Ácido-Base** (Acidose e Alcalose) e como o corpo usa o **Bicarbonato** e o **Pulmão** para manter o pH do sangue em equilíbrio (7,35 a 7,45).
 
-A gasometria arterial é o exame mais interpretado em UTI e pronto-socorro, e nenhum médico pode trabalhar em urgência sem dominar a leitura dos distúrbios ácido-base. A Uninove integra este tema de bioquímica básica com a fisiologia renal e respiratória, tornando-o um dos tópicos de maior rendimento por aula. Tampões biológicos, compensações e regras práticas de interpretação gasométrica são ferramentas que o aluno usará diariamente desde o internato.
+Na prática, saber ler uma gasometria é o que diferencia o médico que salva um paciente em choque daquele que apenas olha para os números sem entender a gravidade.
 
-Além do valor clínico imediato, este conteúdo é cobrado também em questões de fisiologia respiratória e nefrologia. Dominar a equação de Henderson-Hasselbalch e os sistemas tampão é a base de toda a fisiopatologia ácido-base.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de distúrbios ácido-base.
+- **O que mostrar:** O "Tic-Tac-Toe" (Jogo da Velha) da Gasometria ou uma gangorra comparando o pH, o CO₂ (Pulmão) e o HCO₃⁻ (Rim).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Como interpretar o equilíbrio ácido-base de forma rápida e segura.
 
+## 1. Valores de Referência (O que é normal?)
 
-
-
----
-
-
-
-## Conceitos de pH e Ácido-Base
-
-**pH = −log[H⁺]**. O pH arterial normal é **7,35–7,45** (acidemia < 7,35; alcalemia > 7,45).
-
-Ácido de Brønsted: doador de próton (H⁺). Base: receptor de próton.
-Ácido forte (HCl, H₂SO₄): ionização completa. Ácido fraco (H₂CO₃, ácido láctico): ionização parcial — é a base dos sistemas tampão.
+Para começar a ler uma gasometria, você deve decorar estes três números:
+- **pH:** 7,35 a 7,45 (Abaixo é **Acidose**, acima é **Alcalose**).
+- **pCO₂ (Pulmão):** 35 a 45 mmHg.
+- **HCO₃⁻ (Rim/Bicarbonato):** 22 a 26 mEq/L (Média 24).
 
 ---
 
-## Sistemas Tampão Biológicos
+## 2. Os Quatro Distúrbios Primários
 
-Um tampão é uma solução que resiste a mudanças de pH quando ácidos ou bases são adicionados. Compõe-se de ácido fraco + sua base conjugada.
-
-**1. Sistema Bicarbonato/CO₂ (principal tampão extracelular):**
-
-$$\text{CO}_2 + \text{H}_2\text{O} \xrightarrow{\text{anidrase carbônica}} \text{H}_2\text{CO}_3 \xrightarrow{} \text{H}^+ + \text{HCO}_3^-$$
-
-Equação de Henderson-Hasselbalch:
-
-$$\text{pH} = 6{,}1 + \log\frac{[\text{HCO}_3^-]}{0{,}03 \times \text{PCO}_2}$$
-
-Valores normais: pH 7,40; HCO₃⁻ = 24 mEq/L; PCO₂ = 40 mmHg.
-Numericamente: log(24 / (0,03 × 40)) = log(24/1,2) = log(20) ≈ 1,3 → 6,1 + 1,3 = **7,4** ✓
-
-**2. Sistema Fosfato (principal tampão intracelular e urinário):**
-H₂PO₄⁻ ⇌ H⁺ + HPO₄²⁻; pKa ~6,8 (ideal para pH intracelular ~7,0)
-
-**3. Proteínas/Hemoglobina (principal tampão intracelular):**
-Histidinas carregam H⁺; hemoglobina desoxigenada tem maior capacidade tampão (efeito Haldane)
-
-**4. Amônia (tampão urinário — regulação renal):**
-NH₃ + H⁺ → NH₄⁺ (excreção renal de ácido)
+| Distúrbio | pH | Causa Principal | Exemplo Clínico |
+|---|---|---|---|
+| **Acidose Respiratória** | ↓ (Baixo) | **pCO₂ Alto** (Não respira direito). | DPOC, Overdose de morfina. |
+| **Alcalose Respiratória** | ↑ (Alto) | **pCO₂ Baixo** (Respira muito rápido). | Crise de ansiedade, altitude. |
+| **Acidose Metabólica** | ↓ (Baixo) | **HCO₃⁻ Baixo** (Perda de base ou ganho de ácido). | Cetoacidose diabética, Diarreia. |
+| **Alcalose Metabólica** | ↑ (Alto) | **HCO₃⁻ Alto** (Ganho de base ou perda de ácido). | Vômitos intensos, diuréticos. |
 
 ---
 
-## Quatro Distúrbios Primários
+## 3. O Ânion Gap (AG)
 
-| Distúrbio | pH | PaCO₂ | HCO₃⁻ | Causa exemplar |
-|-----------|----|----|-------|---------------|
-| Acidose respiratória | ↓ | **↑** | ↑ (compensação) | DPOC descompensado, depressão do SNC |
-| Alcalose respiratória | ↑ | **↓** | ↓ (compensação) | Hiperventilação, TEP, altitude |
-| Acidose metabólica | ↓ | ↓ (compensação) | **↓** | Cetoacidose, acidose lática, IRC, diarreia |
-| Alcalose metabólica | ↑ | ↑ (compensação) | **↑** | Vômito, diurético de alça, hiperaldosteronismo |
-
-> **Dica de Prova:** O distúrbio PRIMÁRIO sempre tem pH anormal. O componente que causa o distúrbio (PCO₂ ou HCO₃⁻) vai na direção do pH (ambos caem na acidose; ambos sobem na alcalose). O componente que COMPENSA vai no mesmo sentido, mas de forma secundária e parcial.
+Sempre que vir uma **Acidose Metabólica**, você deve calcular o AG para saber de onde vem o ácido:
+- **Fórmula:** Na⁺ − (Cl⁻ + HCO₃⁻). O normal é entre 8 e 12.
+- **AG Alto (MUDPILES):** Significa que tem um ácido "estranho" no sangue (Metanol, Uremia, Cetoacidose, Lactato).
+- **AG Normal:** Significa que o paciente está perdendo bicarbonato (ex: Diarreia) e o cloro subiu para compensar (**Acidose Hiperclorêmica**).
 
 ---
 
-## Compensações Esperadas (Regras Práticas)
+## 4. Compensação (O corpo tentando ajudar)
 
-| Distúrbio | Compensação esperada |
-|-----------|---------------------|
-| Acidose respiratória aguda | HCO₃⁻ ↑ 1 mEq/L para cada 10 mmHg de ↑PCO₂ |
-| Acidose respiratória crônica | HCO₃⁻ ↑ 3,5 mEq/L para cada 10 mmHg de ↑PCO₂ |
-| Alcalose respiratória aguda | HCO₃⁻ ↓ 2 mEq/L para cada 10 mmHg de ↓PCO₂ |
-| Alcalose respiratória crônica | HCO₃⁻ ↓ 5 mEq/L para cada 10 mmHg de ↓PCO₂ |
-| Acidose metabólica | PCO₂ = 1,5 × HCO₃⁻ + 8 ± 2 (fórmula de Winter) |
-| Alcalose metabólica | PCO₂ ↑ 0,7 mmHg para cada 1 mEq/L de ↑HCO₃⁻ |
-
-Se a compensação estiver ALÉM do esperado → distúrbio misto.
-
----
-
-## Ânion Gap (AG)
-
-$$\text{AG} = [\text{Na}^+] - ([\text{Cl}^-] + [\text{HCO}_3^-])$$
-
-Valor normal: **8–12 mEq/L** (alguns labs: 12 ± 4).
-
-**Acidose metabólica com AG elevado (MUDPILES + L):**
-- **M**etanol, **U**remia, **D**iabetic ketoacidosis (cetoacidose), **P**araldehyde, **I**Niazida/Isoniazida, **L**actic acidosis (acidose láctica), **E**thanol, **S**alicilatos
-
-**Acidose metabólica com AG normal (hiperclorêmica):**
-- Diarreia (perda de HCO₃⁻), acidose tubular renal, fístula pancreática, infusão de NaCl
-
-> **Pegadinha:** No ânion gap elevado, os ácidos adicionados consomem HCO₃⁻ sem aumentar Cl⁻ → AG sobe. Na acidose hiperclorêmica, o HCO₃⁻ é substituído por Cl⁻ → AG normal, mas Cl⁻ sobe.
-
----
-
-## Interpretação Passo a Passo da Gasometria
-
-1. pH: acidemia < 7,35 / alcalemia > 7,45
-2. Identifique o distúrbio primário: PCO₂ alto na acidose? → Respiratória. HCO₃⁻ baixo? → Metabólica
-3. Calcule a compensação esperada (tabela acima); se fora do esperado → distúrbio misto
-4. Na acidose metabólica: calcule o ânion gap
-5. Se AG elevado: calcule o delta-delta = (AG − 12) / (24 − HCO₃⁻) para detectar distúrbio misto oculto
-
----
-
-## Pontos-Chave
-
-- pH normal: 7,35–7,45; HCO₃⁻ normal: 24 mEq/L; PCO₂ normal: 40 mmHg
-- Sistema bicarbonato: tampão extracelular principal; controlado pelos rins (HCO₃⁻) e pulmões (CO₂)
-- Na acidose/alcalose: componente primário e compensação vão no mesmo sentido
-- Fórmula de Winter (acidose metabólica): PCO₂ esperada = 1,5 × HCO₃⁻ + 8 ± 2
-- AG = Na − (Cl + HCO₃⁻); normal 8–12; AG elevado = ácido exógeno ou endógeno
-- MUDPILES: causas de acidose metabólica com AG elevado
-- Acidose hiperclorêmica: AG normal, Cl⁻ alto; causas: diarreia, ATR, NaCl excessivo
-- Compensação: rins demoram horas-dias; pulmões demoram minutos-horas
-- Vômito → alcalose metabólica hipoclorêmica por perda de HCl (gástrico)
-- Diarreia → acidose metabólica por perda de HCO₃⁻ pancreático/intestinal
+- **Pulmão:** Responde em minutos (Aumenta ou diminui a velocidade da respiração).
+- **Rins:** Respondem em dias (Poupam ou jogam fora o bicarbonato).
+- **Regra:** Se o distúrbio é metabólico, o pulmão tenta compensar. Se é respiratório, o rim tenta compensar.
 
 ---
 
 ## Ponte com a Clínica
 
-O paciente com **cetoacidose diabética (CAD)** apresenta pH baixo, HCO₃⁻ baixo, AG elevado (por cetoácidos) e PCO₂ baixa (compensação de Kussmaul — respiração profunda e rápida que reduz o CO₂). Se a PCO₂ for menor que o esperado pela fórmula de Winter, há alcalose respiratória associada (ex.: sepse concomitante). Se for maior, acidose respiratória associada (ex.: pneumonia grave). Essa análise de distúrbio misto é exatamente o que distingue o médico que interpreta a gasometria do que apenas lista os valores.
+Um paciente chega ao pronto-socorro com respiração rápida e profunda (**Respiração de Kussmaul**) e hálito cetônico. A gasometria mostra pH 7,10 e HCO₃⁻ de 10. Você diagnostica **Acidose Metabólica com AG Elevado** (Cetoacidose Diabética). O corpo dele está tentando desesperadamente jogar o ácido fora através dos pulmões, por isso ele está ofegante. O tratamento não é dar oxigênio, mas sim insulina e hidratação para parar a produção de ácido no sangue.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Acidose Metabólica**: O pulmão deve tentar baixar o pCO₂ (**Fórmula de Winter**: 1,5 x HCO₃⁻ + 8).
+- **Vômitos**: Causam **Alcalose** (perda de ácido do estômago).
+- **Diarreia**: Causa **Acidose** (perda de bicarbonato pelas fezes).
+- **AG Elevado**: Pense em **Lactato** (choque) ou **Cetoacidose** (diabetes).
+- **pH < 7,35**: Acidemia. **pH > 7,45**: Alcalemia.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **pH normal**: 7,35–7,45; **PCO₂ normal**: 40 mmHg; **HCO₃⁻ normal**: 24 mEq/L
-- **Acidose respiratória**: PCO₂ ↑, pH ↓ (DPOC, depressão ventilatória)
-- **Alcalose respiratória**: PCO₂ ↓, pH ↑ (hiperventilação, TEP, ansiedade)
-- **Acidose metabólica**: HCO₃⁻ ↓, pH ↓; PCO₂ cai compensatoriamente
-- **Alcalose metabólica**: HCO₃⁻ ↑, pH ↑ (vômito, diurético)
-- **Fórmula de Winter**: PCO₂ esperada = 1,5 × HCO₃⁻ + 8 ± 2 (acidose metabólica)
-- **AG = Na − (Cl + HCO₃⁻)**: normal 8–12; AG alto → MUDPILES
-- **Diarreia → acidose hiperclorêmica (AG normal)**; **vômito → alcalose hipoclorêmica**
-- **Compensação renal**: lenta (horas a dias); **compensação respiratória**: rápida (minutos)
-- **Delta-delta**: para detectar distúrbio misto oculto em AG elevado
+
+Para gabaritar Gasometria, siga o passo a passo: 
+1) Olhe o **pH**: está baixo (acidose) ou alto (alcalose)? 
+2) Olhe quem está acompanhando o pH: se o pH caiu e o **HCO₃⁻** também caiu, é **Metabólica**. Se o pH caiu e o **pCO₂** subiu, é **Respiratória**.
+3) Calcule o **Ânion Gap** se for metabólica: se der acima de 12, tem "sujeira" no sangue (Lactato, Cetoacidose).
+
+Dica de ouro: a compensação vai sempre no **mesmo sentido** do distúrbio primário. Se o pH está baixo e o bicarbonato está baixo, o pCO₂ **também tem que estar baixo**. Se um estiver subindo e o outro caindo, você está diante de um **Distúrbio Misto** (muito comum em provas difíceis).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Acidose respiratória | Acidose metabólica | Respiratória: PCO₂ ↑ (primário); Metabólica: HCO₃⁻ ↓ (primário) |
-| AG elevado | AG normal (hiperclorêmica) | AG alto = ácido exógeno consome HCO₃⁻ (cetoacidose). AG normal = HCO₃⁻ trocado por Cl⁻ (diarreia) |
-| Diarreia | Vômito | Diarreia: perde HCO₃⁻ → acidose metabólica; Vômito: perde HCl → alcalose metabólica |
-| Compensação respiratória | Compensação renal | Respiratória = minutos; Renal = horas a dias; crônica = melhor compensada |
-| Acidose aguda | Acidose crônica | Aguda: ↑HCO₃⁻ 1 mEq / 10 ↑PCO₂; Crônica: ↑HCO₃⁻ 3,5 mEq / 10 ↑PCO₂ |
+| **Acidose Metabólica** | **Acidose Respiratória** | HCO₃⁻ Baixo vs **pCO₂ Alto** |
+| **Ânion Gap Alto** | **Ânion Gap Normal** | Ganho de ácido (Lactato) vs **Perda de Bicarbonato (Diarreia)** |
+| **Vômito** | **Diarreia** | Alcalose Metabólica vs **Acidose Metabólica** |
+| **Kussmaul** | **DPOC** | Tentativa de compensar acidose vs **Causa de acidose respiratória** |
+| **pH 7,40** | **Gasometria Normal** | Pode ser um pH normalizado por dois distúrbios mistos opostos! |
 
 ### Frase-âncora para não esquecer
-> "Pulmão corrige em minutos; rim corrige em dias. Distúrbio primário e compensação vão sempre no mesmo sentido — se não forem, desconfie do misto."
+
+> "Se o pH cai e o bicarb também, a acidose é metabólica e o ânion gap vem; se o pH sobe e o bicarb vai atrás, a alcalose é certa e o vômito é quem faz."

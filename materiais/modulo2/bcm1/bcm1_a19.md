@@ -1,232 +1,92 @@
-﻿# Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo
+# BCM1 — Aula 19: Herança Autossômica Recessiva 2 — Erros Inatos do Metabolismo
 
-## Relevância Clínica e Acadêmica
+Os Erros Inatos do Metabolismo são "defeitos de fabricação" nas enzimas que processam o que comemos. Na prova, o tema central é a **Triagem Neonatal (Teste do Pezinho)** e as doenças clássicas como a **Fenilcetonúria (PKU)** e a **Galactosemia**, onde o acúmulo de uma substância simples se torna um veneno para o cérebro do bebê.
 
-Os erros inatos do metabolismo (EIM) são doenças genéticas causadas por defeitos enzimáticos que bloqueiam vias metabólicas essenciais, resultando em acúmulo de precursores tóxicos e/ou deficiência de produtos indispensáveis. Descritos por Archibald Garrod em 1908 (alkaptonúria, conceito de "erros inatos do metabolismo"), esses distúrbios desafiam o médico a integrar bioquímica, genética e clínica pediátrica. A grande maioria segue herança autossômica recessiva.
+Na prática, o diagnóstico precoce nos primeiros dias de vida é a única forma de evitar que uma criança nasça saudável e desenvolva uma deficiência intelectual grave apenas por tomar leite.
 
-A Uninove cobra essa temática com frequência por dois motivos: (1) o triagem neonatal ampliada (Programa Nacional de Triagem Neonatal — PNTN) é um tema de saúde pública relevante que os estudantes precisam dominar; (2) fenilcetonúria, galactosemia e doença da urina do xarope de bordo são questões clássicas que aparecem em provas de bioquímica clínica, genética e pediatria. A compreensão dos mecanismos dessas doenças é também a base para entender as terapias por dieta e reposição enzimática.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A19-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de conceito e mecanismo geral.
+- **O que mostrar:** A "Fábrica Interrompida": Uma esteira de produção onde o Substrato A deve virar o Produto B. A enzima (o operário) está faltando. O Substrato A começa a transbordar da esteira (acumula e vira veneno) e o Produto B nunca chega ao cliente (falta da função).
+- **Tipo sugerido:** Infográfico didático (Analogia de Fábrica).
+- **Legenda (rascunho):** O mecanismo básico de um erro inato do metabolismo.
 
+## 1. Fenilcetonúria (PKU): O Perigo na Proteína
 
-
-
----
-
-
-
-## Conceito e Mecanismo Geral
-
-Um EIM ocorre quando a enzima E não consegue converter o substrato A no produto B:
-
-**A → [Enzima E] → B**
-
-Quando E é deficiente:
-1. **A acumula** → pode ser tóxico em alta concentração (ex: fenilalanina na PKU)
-2. **B está ausente** → privação do produto essencial (ex: melanina na PKU)
-3. **Vias alternativas de A são ativadas** → metabólitos anômalos (ex: fenilpiruvato na PKU)
-
-Clinicamente: crise metabólica aguda em RN ou criança, especialmente precipitada por catabolismo (jejum, infecção, trauma). O diagnóstico é bioquímico (dosagem de metabólitos em plasma, urina, sangue seco) e confirmado por teste enzimático ou genético.
+É a doença mais famosa do teste do pezinho. O corpo não consegue processar o aminoácido **Fenilalanina** (Phe), presente em quase todas as proteínas.
+- **Mecanismo:** A fenilalanina acumula no sangue e "envenena" o cérebro.
+- **Sinais:** O bebê costuma ter pele e olhos muito claros (falta de melanina) e a urina tem um cheiro forte de **Mofo ou Rato**.
+- **Tratamento:** Uma dieta rigorosa com leite especial e quase nenhuma proteína para o resto da vida. Se tratada, a criança se desenvolve normalmente.
 
 ---
 
-## Triagem Neonatal — Programa de Triagem
+## 2. Galactosemia: O Veneno no Leite
 
-**Teste do pézinho** (amostra de sangue seco em papel-filtro, coletada entre 3–5 dias de vida):
-
-| Fase (PNTN Brasil) | Doenças rastreadas |
-|-------------------|-------------------|
-| Fase I (1992) | PKU, hipotireoidismo congênito |
-| Fase II (1993) | + hemoglobinopatias (falciforme) |
-| Fase III (2001) | + fibrose cística, deficiência de biotinidase |
-| Fase IV (em expansão) | + aminoacidopatias, acidúrias orgânicas, defeitos de β-oxidação (por espectrometria de massa em tandem) |
-
-**Espectrometria de massa em tandem (MS/MS):** detecta simultaneamente dezenas de metabólitos em uma gota de sangue seco → rastrear > 40 doenças em uma única corrida. Padrão-ouro para triagem neonatal ampliada.
+O bebê não consegue processar a Galactose (um dos açúcares do leite).
+- **Mecanismo:** Diferente da PKU, aqui os sintomas aparecem em poucos dias: o bebê vomita, fica amarelo (**Icterícia**) e para de mamar.
+- **Sinais Clássicos:** O bebê desenvolve **Catarata** precocemente e tem um risco enorme de morrer por uma infecção generalizada (sepse) causada pela bactéria ***E. coli***.
+- **Tratamento:** Retirada total de leite de origem animal (incluindo o materno) e substituição por fórmulas de soja.
 
 ---
 
-## Fenilcetonúria (PKU)
+## 3. Doença da Urina do Xarope de Bordo (MSUD)
 
-**Enzima deficiente:** fenilalanina hidroxilase (PAH, hepática)
-**Gene:** *PAH* — 12q23.2 (AR)
-**Cofator:** BH4 (tetrahidrobiopterina)
-
-**Metabolismo normal:** Fenilalanina (Phe) → (PAH + BH4) → Tirosina → melanina, neurotransmissores (dopamina, adrenalina, noradrenalina, tiroxina)
-
-**Na PKU:** PAH deficiente → Phe acumula no sangue → entra excessivamente no SNC → compete com outros aminoácidos neutros → toxicidade neurológica → desmielinização. Vias alternativas: Phe → ácido fenilpirúvico, fenilacético, fenilático → excretos na urina (odor de "rato"/"mofo").
-
-### Manifestações Clínicas (sem tratamento)
-
-- RN parece normal ao nascimento (Phe materna a depura durante a gestação)
-- Após introdução de proteínas → Phe sobe → toxicidade
-- Deficiência intelectual progressiva (QI < 50)
-- Convulsões
-- Hipopigmentação (cabelo louro, pele clara, olhos azuis) por déficit de melanina
-- Odor característico em urina e suor ("rato")
-- Microcefalia adquirida
-
-### Diagnóstico
-
-- Triagem neonatal: Phe > 2 mg/dL (método Guthrie ou MS/MS)
-- Confirmação: Phe plasmático > 120 μmol/L em duas amostras
-- Razão Phe/Tyr elevada
-
-**Fenilcetonúria materna:** Mulher com PKU em dieta inadequada durante a gestação → teratogenia por hiperfenilalaninemia fetal → microcefalia, DI, cardiopatia no bebê (MESMO que o bebê seja só portador). Tratamento: dieta com Phe < 360 μmol/L pré-concepcional e durante toda a gestação.
-
-**Tratamento:**
-- **Dieta hipoproteica restrita em Phe** (leite especial sem Phe + fórmula de aminoácidos) + suplementação de Tyr
-- **Sapropterina (BH4 sintético):** para formas BH4-responsivas (~30% dos pacientes com PKU leve/moderada)
-- **Pegvaliase:** enzima de substituição (injeção SC); aprovada para adultos com PKU clássica grave
-
-> **Dica Uninove:** RN com cabelo louro + odor de rato na urina + deficiência intelectual = PKU clássica sem tratamento. Triagem neonatal positiva + Phe elevada = confirmar e iniciar dieta imediatamente.
+O corpo não processa os aminoácidos de cadeia ramificada (Leucina, Isoleucina e Valina).
+- **Mecanismo:** Esses aminoácidos são muito tóxicos para o cérebro.
+- **Sinal de Ouro:** A urina do bebê tem um cheiro adocicado, parecido com **Xarope de Bordo ou Caramelo queimado**.
+- **Gravidade:** É uma emergência! Se não tratada em dias, o bebê entra em coma e morre.
 
 ---
 
-## Galactosemia
+## 4. Homocistinúria e Alcaptonúria
 
-**Forma clássica:** Deficiência de galactose-1-fosfato uridil-transferase (GALT, AR)
-**Gene:** *GALT* — 9p13.3
-**Substrato acumulado:** galactose-1-fosfato (hepatotóxico, nefrotóxico, neurotóxico)
-
-**Metabolismo normal:** Galactose → (galactocinase) → Galactose-1-P → (GALT + UDP-glicose) → UDP-galactose + glicose-1-P → via glicogênio/glicólise
-
-**Clínica:** Após início da alimentação com leite (lactose = glicose + galactose):
-- Icterícia neonatal + vômitos após amamentação
-- Insuficiência hepática aguda (hepatomegalia, coagulopatia)
-- Cataratas (galactitol nos cristalinos)
-- Sepse por *E. coli* (galactose inibe função de neutrófilos)
-- Sem tratamento: morte ou DI grave
-
-**Diagnóstico:** atividade de GALT em hemácias (< 25% = afetado); galactose-1-P elevado
-**Tratamento:** retirada imediata de galactose (leite sem lactose + evitar fontes de galactose)
-**Prognóstico:** mesmo com tratamento precoce, alguns pacientes desenvolvem déficits cognitivos e, nas meninas, insuficiência ovariana prematura (POI) por acúmulo residual de galactose nos ovários.
-
-> **Pegadinha:** Sepse neonatal por *E. coli* associada a icterícia + cataratas = pensar em galactosemia. A galactose-1-F inibe a maturação dos neutrófilos.
-
----
-
-## Doença da Urina do Xarope de Bordo (MSUD)
-
-**Enzima deficiente:** α-cetoácido desidrogenase de cadeia ramificada (BCKDH) — complexo multienzimático (subunidades E1α, E1β, E2, E3)
-**Aminoácidos acumulados:** Leucina (LEU), Isoleucina (ILE), Valina (VAL) — aminoácidos de cadeia ramificada (BCAA)
-**Herança:** AR; múltiplos genes para subunidades
-
-**Fisiopatologia:** BCAAs acumulam no plasma e no SNC → Leucina especialmente neurotóxica → edema cerebral, desmielinização, encefalopatia
-
-**Clínica:**
-- RN sadio → no 4–7º dia de vida: letargia, recusa alimentar, odor adocicado na urina (xarope de bordo ou caramelo)
-- Crise metabólica: opistótono, convulsões, coma → morte sem tratamento
-- Formas intermediárias e intermitentes (variantes) com início mais tardio
-
-**Diagnóstico:** MS/MS (LEU+ILE+VAL elevados; razão LEU:ALA elevada); aloisoleucina patognomônica
-**Tratamento:** diálise em crise aguda + fórmulas isentas de BCAA + tiamina (doses farmacológicas para variante tiamina-responsiva); transplante de fígado (cura funcional)
-
----
-
-## Homocistinúria
-
-**Enzima deficiente:** cistationina β-sintase (CBS), gene *CBS* (AR)
-**Cofator:** vitamina B6 (piridoxal-5'-fosfato)
-**Substrato acumulado:** homocisteína → dano endotelial, trombose, disfunção do colágeno/fibrilina
-
-**Clínica:**
-- Ectopia do cristalino (lente deslocada inferiormentalmente — ao contrário do Marfan onde desloca superiormente)
-- Tromboembolismo (AVC em jovens, TEP, TVP) — causa mais frequente de AVC em < 20 anos
-- Osteoporose, escoliose, membros longos (marfanoide)
-- Deficiência intelectual (se não tratada)
-
-**Diagnóstico:** homocisteína total plasmática elevada; aminoácidos no plasma (Met elevada, Cys baixa); atividade de CBS
-**Tratamento:** B6 em altas doses (~50% respondem), metionina restrita na dieta + betaína (doa grupos metil, converte Hcy de volta a Met)
-
-> **Dica:** Ectopia do cristalino + marfanoide + AVC em jovem = homocistinúria (CBS). Distinguir de Marfan (AD, FBN1): Marfan tem ectopia superior, sem DI, sem trombose.
-
----
-
-## Alcaptonúria
-
-**Enzima deficiente:** homogentisato oxidase (HGO), gene *HGD* (AR)
-**Via:** metabolismo de tirosina → acúmulo de ácido homogentísico (HGA)
-
-**Clínica:**
-- Urina escurece ao repouso/oxidação (ácido homogentísico → alcaptona = pigmento preto)
-- Ocronose: pigmentação azul-preta de cartilagens (orelhas, esclerótica, articulações)
-- Artrite de grandes articulações e coluna (artropatia ocronótica) — manifestação na idade adulta
-- Diagnóstico frequentemente tardio (4ª–5ª décadas)
-- Descrição original por Garrod (1902) — 1ª doença AR descrita
-
-**Tratamento:** nitisinona (inibidor da 4-HPPD) — reduz produção de HGA; baixa proteína na dieta
-
----
-
-## Outras EIM AR Importantes
-
-| Doença | Enzima/Gene | Substrato | Clínica-chave |
-|--------|-----------|-----------|--------------|
-| **Tirosinemia tipo I** | Fumarilacetoacetato hidrolase (FAH) | Succinilacetona | Cirrose + tubulopatia renal (síndrome de Fanconi) + HCC precoce; nitisinona + dieta |
-| **Acidemia propiônica** | Propionil-CoA carboxilase | Ácido propiônico | Acidose metabólica grave no RN, hiperamonemia; dieta + vitamina B12 não efetiva aqui |
-| **Acidemia metilmalônica** | Metilmalonil-CoA mutase | Ácido metilmalônico | Similar; responde a B12 em variantes cobalamina-dependentes |
-| **Doença 3-metilcrotonilglicinúria** | 3-MCC | 3-metilcrotonilglicina | Geralmente assintomática em adultos (diagnóstico em triagem) |
-| **Deficiência de biotinidase** | Biotinidase | Biotina |Convulsões, dermatite, alopecia; trata com biotina oral— resposta dramática |
-
----
-
-## Pontos-Chave
-
-- **PKU:** PAH deficiente; Phe acumula; DI + odor de rato; dieta hipoproteica + BH4 (sapropterina)
-- **Galactosemia:** GALT deficiente; galactose-1-P acumula; cataratas + sepse por E. coli + insuf. hepática; retirar lactose
-- **MSUD:** BCKDH deficiente; BCAAs acumulam; odor de bordo + encefalopatia neonatal; diálise + fórmula sem BCAA
-- **Homocistinúria:** CBS deficiente; Hcy acumula; ectopia inferior do cristalino + trombose + marfanoide; B6 + betaína
-- **Alcaptonúria:** homogentisato oxidase; HGA acumula; urina escura + ocronose + artrite; nitisinona
-- **Triagem neonatal MS/MS** detecta dezenas de EIM em uma gota de sangue seco
-- **Mecanismo geral:** enzima defeituosa → substrato acumula (tóxico) + produto ausente + vias alternativas ativadas
-- **PKU materna:** hiperfenilalaninemia durante gestação → teratogênese fetal (microcefalia, DI, cardiopatia)
-- **Galactosemia + sepse neonatal por E. coli:** associação patognomônica
-- **Deficiência de biotinidase:** convulsões + dermatite + alopecia → biotina oral cura
+- **Homocistinúria:** O paciente parece ter Síndrome de Marfan (alto, braços longos), mas tem um risco altíssimo de sofrer **AVC ou Trombose** ainda jovem. O cristalino do olho costuma cair para **baixo**.
+- **Alcaptonúria:** A **urina escurece** quando entra em contato com o ar (fica preta). Com o tempo, as orelhas e articulações ficam escuras (Ocronose) e o paciente desenvolve uma artrite severa.
 
 ---
 
 ## Ponte com a Clínica
 
-**Triagem ampliada na prática:** MS/MS no pézinho identifica PKU, MSUD, acidemias orgânicas, defeitos de β-oxidação de ácidos graxos. RN positivo → reavaliação com plasma + urina antes de iniciar dieta específica. Resultado positivo = teste de rastreamento, não diagnóstico definitivo.
+O **Teste do Pezinho** deve ser colhido entre o **3º e o 5º dia de vida**. Colher antes disso pode dar um resultado errado porque o bebê ainda não metabolizou proteínas e açúcares suficientes. Se o resultado vier positivo para PKU, o médico deve agir imediatamente. O segredo é que a Fenilalanina alta no sangue da mãe também pode atingir o bebê durante a gravidez (PKU Materna), por isso mulheres com a doença precisam de uma dieta impecável para que o filho nasça sem sequelas.
 
-**PKU em gestante:** mulher com PKU conhecida deve iniciar dieta com Phe < 360 μmol/L ANTES de engravidar e mantê-la durante toda a gestação. Sapropterina pode ser usada em formas BH4-responsivas na gestação (avaliação caso a caso). Sem controle: microcefalia + DI + cardiopatia no filho.
+---
 
-**MSUD — emergência:** RN com cheiro de "bordo" + letargia + recusa alimentar → urgência metabólica. Coletar plasma para aminoácidos + glicose + amônia → hemodiálise se leucina > 1.000 μmol/L → solução de alto volume glicose + insulina (catabolismo reverso) → fórmula sem BCAA assim que estabilizado.
+## Pontos-Chave para Prova
 
-**Homocistinúria e prevenção de trombose:** adulto jovem com AVC inexplicado + marfanoide + ectopia do cristalino → homocisteína total plasmática → se > 100 μmol/L → CBS → B6 + betaína + restrição de metionina + anticoagulação.
+- **PKU**: Cheiro de **Rato**, pele clara, deficiência intelectual (se não tratar).
+- **Galactosemia**: Icterícia + Catarata + **Sepse por E. coli**.
+- **Xarope de Bordo**: Cheiro de **Caramelo** na urina e encefalopatia rápida.
+- **Homocistinúria**: Risco de **AVC em jovens** e cristalino para baixo.
+- **Alcaptonúria**: **Urina que fica preta** no ar.
+- **Biotinidase**: Falta de vitamina Biotina (causa convulsão e queda de cabelo, mas a cura é simples: dar a vitamina).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **PKU:** PAH, Phe acumula, DI + cabelo louro + odor de rato; dieta hipoproteica; triagem neonatal
-- **PKU materna:** controlar Phe antes e durante gestação — teratogênese fetal
-- **Galactosemia:** GALT, galactose-1-P, cataratas + sepse E. coli + icterícia neonatal; retirar lactose
-- **MSUD:** BCKDH, Leu+Ile+Val, odor de bordo; emergência neonatal; diâlise
-- **Homocistinúria:** CBS, Hcy, ectopia INFERIOR do cristalino + trombose jovem; B6 + betaína
-- **Alcaptonúria:** homogentisato oxidase, urina escurece ao ar, ocronose articular; nitisinona
-- **MS/MS:** rastreia dezenas de EIM numa gota de sangue seco
-- **Mecanismo EIM:** enzima defeituosa → substrato tóxico acumula → produto ausente
+
+Para gabaritar Erros Inatos, decore os cheiros e os sinais específicos. 
+A Uninove adora o **Odor de Rato** da PKU e a **Sepse por E. coli** da Galactosemia. No caso da Homocistinúria, lembre-se que o cristalino cai para **baixo**, enquanto no Marfan ele vai para cima. Se a questão falar em uma criança que "estava bem e piorou em 1 semana após mamar", pense em Galactosemia ou MSUD.
+
+Outro ponto que sempre cai: o diagnóstico da PKU é feito medindo a **Fenilalanina** no sangue seco do pézinho. Se estiver alta, o segundo passo é a dieta. Na Galactosemia, a retirada do leite tem que ser pra ONTEM. E se falarem de um bebê com convulsão que melhora magicamente com uma vitamina, marque **Deficiência de Biotinidase**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| PKU (ectopia? não) | Homocistinúria (ectopia? sim) | PKU: sem ectopia, DI predomina, Phe alta; Homocistinúria: ectopia INFERIOR, trombose, Hcy alta |
-| Ectopia Marfan (superior) | Ectopia Homocistinúria (inferior) | Marfan = AD, FBN1, ectopia para CIMA; Homocistinúria = AR, CBS, ectopia para BAIXO |
-| Galactosemia | Intolerância à lactose | Galactosemia = genética AR, GALT, cataratas + sepse; Intolerância = lactase ↓, GI, não genética sistêmica |
-| PKU | Tirosinemia I | PKU = PAH, cérebro; Tirosinemia I = FAH, fígado + rim, HCC; substrato = succinilacetona |
-| MSUD | Acidemia propiônica | MSUD = BCAAs acumulam, cheiro bordo; Propiônica = ácido propiônico, acidose + hiperamonemia |
+| **PKU** | **Galactosemia** | Problema na Proteína vs **Problema no Açúcar do Leite** |
+| **Xarope de Bordo** | **PKU** | Cheiro de Doce/Caramelo vs **Cheiro de Mofo/Rato** |
+| **Homocistinúria** | **Síndrome de Marfan** | Cristalino p/ baixo + Trombose vs **Cristalino p/ cima + Aorta** |
+| **Icterícia Fisiológica** | **Galactosemia** | Normal no 3º dia vs **Grave, precoce e com vômitos** |
+| **Teste do Pezinho** | **Teste do Olhinho** | Vê o Sangue (Metabolismo) vs **Vê a Catarata/Reflexo Vermelho** |
 
 ### Frase-âncora para não esquecer
-> "Erros inatos = enzima furada na via metabólica. PKU fura a PAH e Phe envenena o cérebro. Galactosemia fura a GALT e galactose-1-P arruína fígado, olho e neutrófilos. MSUD fura a BCKDH e os BCAAs cheiram bordo e explodem o SNC. Homocistinúria fura a CBS e a Hcy entope as veias e torce o cristalino para baixo."
+
+> "O rato na PKU evita o bife; o E. coli na galactosemia ataca o recife; o xarope de bordo adoce o bife da morte. Homocisteína entope a veia e a alcaptona tinge a orelha de preto na sorte."

@@ -1,147 +1,95 @@
-# Exame Sensorial e Provas Cerebelares
+# SEMIO4 — Aula 5: Sensibilidade e Cerebelo — O Mapa do Espaço
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 4 | **Aula:** semio4_a5
+O exame da sensibilidade e da coordenação é o "GPS" do sistema nervoso. Na prova, os temas centrais são a diferenciação entre as vias de **Dor/Temperatura** e **Vibração/Propriocepção**, a identificação do **Nível Sensitivo** e as provas de coordenação do **Cerebelo**.
+
+Na prática, esses testes permitem que você localize uma lesão na medula sem precisar medir cada milímetro. Se o paciente não sente dor na barriga abaixo do umbigo (**T10**), você já sabe exatamente onde a medula está sofrendo. Além disso, as provas cerebelares explicam por que um paciente cambaleia ao andar mesmo tendo força normal nos músculos.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O exame sensorial e as provas cerebelares revelam lesões que o exame motor não detecta. Dissociação sensitiva — perda de uma modalidade com preservação de outra — localiza lesões com precisão surpreendente. A síndrome cerebelar caracteriza-se por ataxia sem déficit de força, confundindo o estudante na vinheta clínica. A Uninove cobra tabelas sensitivas e sinal de Romberg em questões de localização.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO4-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de vias sensitivas.
+- **O que mostrar:** O "X da Sensibilidade": Um diagrama da medula mostrando o cruzamento das fibras. Em vermelho, a via da **Dor** cruzando na entrada. Em azul, a via do **Tato/Vibração** subindo reto. Mostrar os marcos de **T4** (Mamilo) e **T10** (Umbigo).
+- **Tipo sugerido:** Infográfico de anatomia funcional.
+- **Legenda (rascunho):** Níveis de decussação das vias sensitivas e marcos dermatómicos críticos.
 
+## 1. As Vias do Sentir
 
-
-
----
-
-## Sensibilidade — Classificação das Modalidades
-
-A sensibilidade divide-se em **superficial** (protopática) e **profunda** (epicrítica/proprioceptiva):
-
-| Modalidade | Via | Entrada medular | Decussação |
-|-----------|-----|----------------|------------|
-| Dor e temperatura | Espinotalâmico lateral | Entra e decussa em 2–3 segmentos | Ipsilateral então contralateral |
-| Tato grosseiro | Espinotalâmico anterior | Idem | Contralateral |
-| Propriocepção | Coluna posterior (Goll/Burdach) | Ipsilateral até bulbo | Contralateral no bulbo |
-| Vibração | Coluna posterior | Idem | Idem |
-| Tato fino (epicrítico) | Coluna posterior | Idem | Idem |
-
-> **Dica fundamental:** Dor/temperatura → espinotalâmico lateral (decussa logo) → contralateral já na medula. Propriocepção/vibração → coluna posterior (ipsilateral) → decussa no bulbo.
+O cérebro recebe informações por dois "fios" principais:
+- **Via da Dor e Temperatura (Espinotalâmica):** Ela cruza para o outro lado assim que entra na medula. Se o paciente tem uma lesão do lado direito da medula, ele perde a dor no lado **Esquerdo** do corpo.
+- **Via do Tato e Vibração (Coluna Posterior):** Ela sobe pelo mesmo lado e só cruza lá no cérebro. Se a lesão é na direita da medula, ele perde o tato na **Direita**.
+- **Dissociação Sensitiva:** É quando o paciente sente o toque, mas não sente a dor (ou vice-versa). Isso é prova de que o problema é dentro da medula.
 
 ---
 
-## Como Testar Cada Modalidade
+## 2. O Mapa da Pele (Dermátomos)
 
-**Dor:** alfinete (pino descartável). Compare hemicorpos: "mais agudo ou igual?" Teste de cima para baixo para encontrar o nível.
-
-**Temperatura:** tubos com água quente e fria (menos usado em prova, mas testável em OSCE).
-
-**Tato leve:** algodão. Peça ao paciente fechar os olhos e dizer "sim" ao sentir.
-
-**Vibração:** diapasão 128 Hz aplicado nas proeminências ósseas (maléolo, joelho, crista ilíaca, cotovelo). Fale ao dormir o diapasão: o paciente sente ou não a vibração.
-
-**Propriocepção (sentido de posição):** segure a falange distal do hálux lateralmente, mova para cima ou para baixo. Olhos fechados → diz o movimento. Normal: detecta movimentos pequenos.
-
-**Grafestesia:** escreve número na palma → reconhecimento. Lesão de coluna posterior ou lobo parietal.
-
-**Estereognosia:** identificar objeto pelo tato → lobo parietal.
+Memorize os marcos para localizar lesões medulares:
+- **T4:** Mamilo (Teta 4).
+- **T10:** Umbigo (Umbigo 10).
+- **L4:** Joelho.
+- **S1:** Calcanhar.
+- **IMPORTANTE:** O médico deve testar a sensibilidade subindo com uma agulha pelo corpo do paciente. O ponto onde o paciente volta a sentir é o "Nível Sensitivo".
 
 ---
 
-## Dissociação Sensitiva — Diagnóstico Pela Via
+## 3. Cerebelo: O Maestro do Ritmo
 
-**Dissociação siringomielica (lesão central da medula):** perda de dor/temperatura bilateral nos dermátomos correspondentes com propriocepção/vibração preservadas → siringomielia, tumor intramedular.
-
-**Síndrome de Brown-Séquard (hemisecção medular):** ipsilateral = perda de motor + propriocepção; contralateral = perda de dor/temperatura 2–3 segmentos abaixo.
-
-**Lesão de coluna posterior:** perda de vibração + propriocepção bilateral → tabes dorsalis (sífilis), deficiência de B12 (degeneração subaguda combinada).
-
-> **Pegadinha:** Na CIAP (polineuropatia periférica), há perda em luva e meia: começa distalmente, simétrica, afeta todas as modalidades.
+O cerebelo não dá força, ele dá precisão. Se ele falhar, o paciente tem a **Síndrome Cerebelar**:
+- **Ataxia:** Marcha de bêbado, com as pernas abertas para não cair.
+- **Dismetria:** Você pede para ele tocar o próprio nariz, e ele erra o alvo ou passa direto.
+- **Tremor de Intenção:** O braço treme apenas quando ele tenta alcançar algo (diferente do Parkinson, onde treme parado).
+- **Disdiadococinesia:** Dificuldade em fazer movimentos rápidos e alternados (como "bater as mãos").
 
 ---
 
-## Nível Sensitivo — Como Definir na Medula
+## 4. O Sinal de Romberg (Equilíbrio)
 
-Para encontrar o nível de lesão medular, teste a sensibilidade de cima para baixo com alfinete nas laterais do tronco. O nível sensitivo é o dermátomo mais alto com sensibilidade abolida. Marcos clínicos:
-
-- **T4:** mamilo
-- **T10:** umbigo
-- **T12/L1:** virilha
-- **S3–S5:** períneo e região perianal
-
----
-
-## Provas Cerebelares
-
-O cerebelo coordena movimentos, tônus e postura sem controlar força ou sensação. A síndrome cerebelar ipsilateral à lesão cerebelar (não cruza).
-
-**Prova índex-nariz (dedo-nariz):** peça para tocar o nariz e o dedo do examinador alternadamente. Deficiências: **dismetria** (ultrapassa o alvo), **tremor intencional** (aumenta ao aproximar do alvo), **decomposição do movimento**.
-
-**Prova calcanhar-joelho:** deitado, toca o calcanhar no joelho oposto e desliza pela tíbia. Dismetria = escorrega.
-
-**Disdiadococinesia:** pede para pronação/supinação rápida das mãos. Ataxia cerebelar = movimentos irregulares.
-
-**Marcha atáxica cerebelar:** base alargada, irregular, instável ao virar. "Marcha de bêbado."
-
----
-
-## Sinal de Romberg
-
-Com os pés juntos, braços ao longo do corpo:
-
-- **Romberg positivo:** estável com olhos abertos, cai ou oscila muito com olhos fechados → lesão de coluna posterior (propriocepção comprometida, visão compensava). Típico de tabes dorsalis, neuropatia.
-- **Marcha atáxica cerebelar:** instável COM e SEM visão → Romberg negativo. O cerebelo, não a propriocepção, está comprometido.
-
-> **Dica:** "Romberg positivo = olhos fechados pioram muito = coluna posterior". Cerebelar fica mal nos dois (não depende da visão).
-
----
-
-## Pontos-Chave
-
-- Dor/temperatura: via espinotalâmica lateral, decussa na medula → contralateral.
-- Propriocepção/vibração: coluna posterior, ipsilateral até o bulbo, depois contralateral.
-- Brown-Séquard: motor + propriocepção ipsilateral; dor/temperatura contralateral.
-- Siringomielia: perda dissociada (dor/temperatura) em nível seg. bilateral = "capote" ou "xale".
-- Romberg +: coluna posterior (pior com olhos fechados).
-- Cerebelar: ipsilateral, intenção, dismetria, base alargada — Romberg negativo.
+Este teste separa problemas de sensibilidade de problemas do cerebelo:
+- **Romberg Positivo:** O paciente fica parado de olhos abertos. Ao fechar os olhos, ele cai. Significa que o "fio" da sensibilidade nos pés (**Propriocepção**) está quebrado, e ele dependia da visão para não cair.
+- **Marcha Cerebelar:** O paciente cambaleia tanto de olho aberto quanto fechado. O problema é no "processador" de equilíbrio (Cerebelo), não na sensibilidade.
 
 ---
 
 ## Ponte com a Clínica
 
-A combinação de achados sensitivos e cerebelares é essencial para localizar lesões de fossa posterior, medula espinal e nervos periféricos. Um paciente com ataxia sem déficit motor e Romberg negativo é quase sempre cerebelar; Romberg positivo com vibração reduzida aponta para lesão de coluna posterior ou neuropatia — dois diagnósticos com tratatementos radicalmente diferentes.
+No seu exame, se você encontrar um paciente tabagista com dor nas costas que agora não sente dor nem calor da cintura para baixo, mas ainda sente a vibração de um diapasão nos pés, você está diante de uma **Síndrome Medular Anterior**. A artéria que irriga a parte da frente da medula entupiu, poupando apenas a coluna posterior (vibração). Isso é uma emergência vascular da medula que exige diagnóstico e tratamento imediato para evitar a paralisia permanente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Nível Sensitivo**: O umbigo (**T10**) e o mamilo (**T4**) são os marcos mais cobrados em questões de trauma medular.
+- **Propriocepção Consciente**: Viaja pela coluna posterior; sua perda causa o **Sinal de Romberg** positivo.
+- **Síndrome de Brown-Séquard**: Hemissecção da medula que causa perda de força do mesmo lado e perda de dor do lado **Oposto**.
+- **Dismetria**: É o principal sinal de disfunção cerebelar nos membros (teste dedo-nariz).
+- **Estereognosia**: Capacidade de reconhecer um objeto na mão (chave, moeda) sem olhar; avalia o lobo parietal.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Espinotalâmico lateral:** dor/temperatura, cruza em 2–3 segmentos → lesão causa perda contralateral.
-- **Coluna posterior:** vibração/propriocepção, ipsilateral até bulbo → lesão ipsilateral + Romberg positivo.
-- **Brown-Séquard:** motor + propriocepção ipsi; dor/temperatura contra (2–3 seg abaixo).
-- **Siringomielia:** perda de dor/temperatura bilateral no nível da lesão, propriocepção intacta.
-- **Romberg positivo → coluna posterior; Romberg negativo passado em cerebelar.**
-- **Dismetria + tremor intencional + base alargada → síndrome cerebelar ipsilateral.**
+
+Para gabaritar sensibilidade e cerebelo, foque nos cruzamentos. 
+**Dor/Calor** = Cruza na entrada (Lado Oposto). **Vibração/Equilíbrio** = Sobe reto (Mesmo Lado). **Romberg +** = O problema é na sensibilidade profunda (olho fechado cai).
+
+A Uninove adora o **Cerebelo**. Lembre-se: Lesão no cerebelo direito = Sintoma no braço **Direito** (não cruza!). Outro ponto forte: os **Dermátomos**. T4 é teta, T10 é umbigo. Por fim, saiba que a **Siringomielia** (buraco na medula) causa perda de dor em formato de "capa" nos ombros, mas mantém o tato normal.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Lesão A | Lesão B | Característica diferencial |
-|---------|---------|---------------------------|
-| Coluna posterior | Espinotalâmico | Posterior = vibração/proprioc; Espinotalâmico = dor/temp |
-| Romberg + (col. post.) | Ataxia cerebelar | Romberg: olhos fechados pioram; cerebelar: ruim nos dois |
-| Brown-Séquard | Lesão medular completa | Brown-Séquard = dissociação sensitiva cruzada |
-| Neuropatia periférica | Lesão de coluna posterior | Neuropatia = perda distal, luva/meia; col. post. = bilateral nível |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Sens. Superficial** | **Sens. Profunda** | **Dor/Temperatura** vs **Vibração/Posição** |
+| **Romberg Positivo** | **Ataxia Cerebelar** | Cai ao **Fechar Olhos** vs Cai de **Qualquer Jeito** |
+| **T4** | **T10** | **Mamilo** vs **Umbigo** |
+| **Dismetria** | **Tremor de Repouso** | Erro de **Alvo** vs Balanço **Parado** (Parkinson) |
+| **B12 Deficiência** | **Tabes Dorsalis** | Ambas causam perda de **Sens. Profunda** e Romberg + |
 
 ### Frase-âncora para não esquecer
-> "A coluna posterior guarda memória do espaço — sem ela, fecha os olhos e cai."
+
+> "Se fechou o olho e caiu, a Coluna Posterior sumiu (Romberg). Se no nariz não acertou, o Cerebelo bobeou. T4 na teta, T10 no umbigo, se a dor sumiu do lado oposto, a medula é o inimigo."

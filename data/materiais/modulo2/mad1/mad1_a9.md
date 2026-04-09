@@ -1,197 +1,93 @@
-﻿# Transplantes e Transfusão Sanguínea
+# MAD1 — Aula 9: Transplantes e Transfusão Sanguínea
 
-## Relevância Clínica e Acadêmica
+O transplante de órgãos e a transfusão sanguínea dependem da compatibilidade imunológica para evitar a rejeição. Na prova, os temas centrais são os **Tipos de Rejeição** (Hiperaguda, Aguda e Crônica) e a **Doença do Enxerto Contra Hospedeiro (GVHD)**.
 
-O transplante de órgãos é uma das conquistas médicas mais avançadas do século XX, mas depende de um equilíbrio delicado entre suprimir a rejeição (o sistema imune do receptor atacando o enxerto) sem suprimir excessivamente e abrir portas para infecções oportunistas. A transfusão sanguínea, por sua vez, obedece ao mesmo princípio imunológico: compatibilidade antigênica entre doador e receptor.
+Na prática, a gestão da imunossupressão e a realização de provas cruzadas (*crossmatch*) são fundamentais para a sobrevida do enxerto e do paciente.
 
-A **Uninove** frequentemente cobra os tipos de rejeição (hiperaguda, aguda, crônica), os mecanismos imunológicos envolvidos e as regras de compatibilidade ABO/Rh em transfusão. Questões de caso clínico com pacientes pós-transplante deteriorando clinicamente são frequentes.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de rejeição de transplante.
+- **O que mostrar:** Tabela comparativa visual com o tempo e o mecanismo: Hiperaguda (Minutos/Anticorpos), Aguda (Semanas/Células T) e Crônica (Anos/Vasculopatia).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Linha do tempo e mecanismos de rejeição pós-transplante.
 
+## Rejeição de Transplantes
 
-
-
----
-
-
-
-## Bases Imunológicas do Transplante
-
-### Antígenos de Histocompatibilidade (MHC/HLA)
-
-- O principal alvo da rejeição são as moléculas **HLA** (Human Leukocyte Antigen), equivalentes humanas do MHC
-- Codificadas no cromossomo 6; altamente polimórficas
-- **HLA de classe I** (A, B, C): em todas as células nucleadas → alvo de T CD8+
-- **HLA de classe II** (DR, DP, DQ): nas APCs → alvo de T CD4+
-- **Quanto maior a compatibilidade HLA, menor a chance de rejeição**
-
-### Tipos de Transplante
-
-| Tipo | Definição | Rejeição |
-|---|---|---|
-| Autoenxerto (autograft) | Mesmo indivíduo (ex: enxerto de pele) | Não ocorre |
-| Isoenxerto (isograft) | Gêmeos idênticos | Não ocorre |
-| Aloenxerto (allograft) | Mesmo indivíduo da mesma espécie | Sim — mais comum na prática |
-| Xenoenxerto (xenograft) | Espécies diferentes (ex: porco → humano) | Sim — mais intensa |
-
----
-
-## Rejeição de Transplante
-
-### Rejeição Hiperaguda
-
-- Ocorre em **minutos a horas** após transplante
-- Causa: anticorpos **pré-formados** no receptor contra antígenos do doador (IgG ou IgM anti-HLA/ABO)
-- Mecanismo: ativação do complemento → trombose de microvasos → necrose isquêmica imediata
-- Prevenção: **prova cruzada (crossmatch)** — testar soro do receptor com células do doador antes do transplante
-- Tratamento: não há → remoção imediata do enxerto
-
-### Rejeição Aguda
-
-- Ocorre em **dias a semanas** após o transplante
-- Causa: resposta imune celular (T CD4+ e CD8+) contra HLA do doador
-- **Dois mecanismos de reconhecimento:**
-  1. **Via direta:** linfócito T do receptor reconhece HLA estranho diretamente na APC do doador
-  2. **Via indireta:** APC do receptor apresenta peptídeos do doador processados via MHC próprio
-- Tratamento: imunossupressão intensificada (corticoide em pulso, anticorpos anti-linfócito)
-
-### Rejeição Crônica
-
-- Ocorre em **meses a anos**
-- Causa: resposta imune crônica (celular + humoral) → fibrose vascular progressiva (vasculopatia do enxerto)
-- Característica: espessamento da íntima das artérias do enxerto → isquemia progressiva
-- Sem tratamento eficaz — principal causa de perda tardia do enxerto
-
-| Tipo | Tempo | Mecanismo | Tratamento |
+| Tipo de Rejeição | Tempo de Ocorrência | Mecanismo Fisiopatológico | Conduta |
 |---|---|---|---|
-| Hiperaguda | Minutos–horas | Anticorpos pré-formados → complemento → trombose | Remoção (sem tratamento) |
-| Aguda | Dias–semanas | T celular (CD4+/CD8+) via direta e indireta | Imunossupressão intensificada |
-| Crônica | Meses–anos | Celular + humoral → vasculopatia fibrosa | Não há tratamento eficaz |
+| **Hiperaguda** | **Minutos a Horas** | Anticorpos pré-formados (**IgM/IgG**) + Complemento. | **Remoção** imediata do órgão. |
+| **Aguda** | **Dias a Semanas** | Resposta celular (**Linfócitos T CD4+ e CD8+**). | Corticoide em pulso. |
+| **Crônica** | **Meses a Anos** | Fibrose e **Vasculopatia** do enxerto. | Difícil reversão. |
+
+> **Dica de Prova:** A rejeição **Hiperaguda** é prevenida pela **Prova Cruzada (Crossmatch)** realizada antes da cirurgia para detectar anticorpos do receptor contra o doador.
 
 ---
 
-## Doença do Enxerto Contra o Hospedeiro (GVHD)
+## Doença do Enxerto Contra Hospedeiro (GVHD)
 
-- Ocorre em transplante de **medula óssea / células-tronco hematopoiéticas**
-- **Mecanismo invertido:** linfócitos T do **doador** reconhecem tecidos do **receptor** como estranhos
-- Alvo principal: pele, fígado e trato gastrointestinal
-- **Aguda:** < 100 dias; eritema, icterícia, diarreia
-- **Crônica:** > 100 dias; semelhante a doenças autoimunes (esclerodermia-like)
-- Prevenção: depleção de células T do enxerto; imunossupressão do receptor
-
-> **Pegadinha:** GVHD é o oposto da rejeição — no transplante de órgãos sólidos, o hospedeiro ataca o enxerto; no TMO, o enxerto ataca o hospedeiro.
+Ocorre principalmente em Transplantes de Medula Óssea (TMO).
+- **O Mecanismo:** Ao contrário da rejeição comum, aqui são os **Linfócitos do Doador** que atacam os tecidos do receptor.
+- **Alvos Principais:** Pele (Rash), Fígado (Icterícia) e Intestino (Diarreia).
+- **Prevenção:** Imunossupressão e depleção de células T do enxerto.
 
 ---
 
-## Imunossupressores no Transplante
+## Transfusão Sanguínea e Sistema ABO
 
-| Droga | Mecanismo | Alvo |
-|---|---|---|
-| Corticosteroide | Inibe NF-κB → ↓ citocinas inflamatórias | Inespecífico |
-| Ciclosporina | Inibe calcineurina → ↓ IL-2 (sinal 3) | T células |
-| Tacrolimus (FK506) | Inibe calcineurina → ↓ IL-2 | T células |
-| Micofenolato mofetil (MMF) | Inibe IMPDH → ↓ síntese de purinas → ↓ proliferação linfocitária | T e B células |
-| Sirolimus (rapamicina) | Inibe mTOR → bloqueia proliferação | T células |
-| Basiliximabe | Anti-CD25 (anti-receptor de IL-2) | T células ativadas |
+| Grupo | Antígeno (Hemácia) | Anticorpo (Plasma) | Pode Receber de... |
+|---|---|---|---|
+| **A** | Antígeno A | Anti-B | A e O |
+| **B** | Antígeno B | Anti-A | B e O |
+| **AB** | **A e B** | **Nenhum** | Receptores Universais |
+| **O** | **Nenhum** | Anti-A e B | **Doadores Universais** |
 
----
-
-## Transfusão Sanguínea
-
-### Sistema ABO
-
-- Antígenos A e B no eritrócito (e outros tecidos)
-- Anticorpos naturais (IgM) formados sem exposição prévia ao grupo sanguíneo oposto
-
-| Grupo | Antígeno no eritrócito | Anticorpo no plasma |
-|---|---|---|
-| A | A | Anti-B |
-| B | B | Anti-A |
-| AB | A e B | Nenhum (doador universal de plaquetas/plasma) |
-| O | Nenhum | Anti-A e Anti-B (receptor universal de hemácias) |
-
-> **Doador universal de hemácias:** O negativo. **Receptor universal:** AB positivo.
-
-### Sistema Rh
-
-- Antígeno D (principal) presente ou ausente → Rh+ ou Rh−
-- Anticorpos anti-D apenas formados após **sensibilização** (exposição a Rh+)
-- Consequência: **doença hemolítica do recém-nascido (DHRN)** — mãe Rh− sensibilizada × feto Rh+
-- Prevenção: imunoglobulina anti-D (RhoGAM) até 72 h após parto/aborto em mãe Rh−
-
-### Reações Transfusionais
-
-| Tipo | Mecanismo | Manifestação |
-|---|---|---|
-| Hemolítica aguda | IgM anti-ABO → complemento → hemólise intravascular | Febre, calafrios, hemoglobinúria, insuficiência renal |
-| Hemolítica retardada | IgG (memória) → hemólise extravascular (baço) | Febre, icterícia após 5–10 dias |
-| Febril não-hemolítica | Anticorpos anti-leucócito do receptor | Febre, calafrios — sem hemólise |
-| Alérgica | IgE contra proteínas plasmáticas | Urticária, prurido |
-| Anafilática | Anti-IgA em paciente com deficiência de IgA | Anafilaxia grave |
-| TRALI | Anticorpos doador vs. leucócitos receptor → lesão pulmonar | Dispneia grave < 6 h pós-transfusão |
-
----
-
-## Pontos-Chave
-
-- HLA = principal alvo da rejeição; compatibilidade máxima reduz risco
-- Hiperaguda = anticorpos pré-formados (minutos); prova cruzada previne
-- Aguda = T celular (dias-semanas); responde a imunossupressão
-- Crônica = vasculopatia fibrosa (meses-anos); sem tratamento eficaz
-- GVHD = enxerto (TMO) ataca hospedeiro → pele, fígado, TGI
-- ABO: O = doador universal hemácias; AB = receptor universal
-- DHRN: mãe Rh− sensibilizada × feto Rh+ → IgG anti-D atravessa placenta → hemólise fetal
+### Sistema Rh e DHRN
+A **Doença Hemolítica do Recém-Nascido** ocorre quando uma mãe **Rh Negativo** (sensibilizada) tem um feto **Rh Positivo**. O anticorpo IgG anti-D atravessa a placenta e destrói as hemácias do feto.
+- **Prevenção:** Aplicação de Imunoglobulina Anti-D (RhoGAM) na mãe.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Paciente transplantado renal há 8 anos com deterioração progressiva da função renal. Biópsia: espessamento da íntima arterial com fibrose intersticial e atrofia tubular.
-- **Rejeição crônica** — vasculopatia do enxerto por resposta imune de baixa intensidade sustentada
-- Não há tratamento eficaz; otimizar imunossupressão para retardar progressão
-- Eventual necessidade de novo transplante ou diálise
+Um paciente que recebeu um rim e, momentos após a cirurgia, apresenta febre, dor no enxerto e parada de produção de urina está sofrendo uma **Rejeição Hiperaguda**. O cirurgião observará o rim tornando-se pálido e flácido devido à trombose massiva dos vasos. O tratamento é a retirada imediata do rim, pois o dano é irreversível.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Hiperaguda**: Minutos; Anticorpos pré-existentes.
+- **Aguda**: Semanas; Linfócitos T (Via Direta e Indireta).
+- **GVHD**: O enxerto ataca o "dono" (Receptor).
+- **HLA (MHC)**: O alvo genético da rejeição.
+- **Doador Universal**: O Negativo (**Sangue**) / AB Positivo (**Plasma**).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Transplante, siga o relógio. 
+Se o órgão morreu no centro cirúrgico em **minutos**, é **Hiperaguda** (tinha anticorpo pronto na reserva). Se o problema surgiu em **semanas**, é a **Aguda** (os linfócitos T demoraram para chegar à guerra). Se o rim está morrendo devagarinho após **anos**, é a **Crônica** (cicatriz nos vasos).
 
-Hiperaguda: Ac pré-formados → minutos → remoção do enxerto. Aguda: T celular → dias–semanas → corticoide em pulso.
-
-Crônica: vasculopatia → meses–anos → sem tratamento. GVHD: linfócito T do doador ataca receptor (no TMO).
-
-Grupo O: doador universal hemácias (sem antígenos A nem B). Anti-D (RhoGAM): mãe Rh− após parto/aborto para prevenir DHRN no próximo filho.
+No transplante de medula, cuidado: a questão pode inverter a lógica. O **GVHD** é o exército que você recebeu (doador) atacando a sua casa (receptor). Na transfusão, lembre que **O Negativo** é o salvador de todos (doador universal de hemácias), mas o **AB** é o receptor universal. Por fim, se a mãe é Rh negativo e o bebê é positivo, o anticorpo dela (IgG) pode "visitar" e atacar o bebê; por isso, dê a vacina anti-D na mãe.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Rejeição hiperaguda | Aguda | Hiperaguda = minutos = Ac pré-formados; Aguda = dias/semanas = T celular |
-| Rejeição (transplante órgão sólido) | GVHD (TMO) | Rejeição = receptor ataca enxerto; GVHD = enxerto ataca receptor |
-| Hemólise intravascular | Hemólise extravascular | Intravascular = ABO incompatibilidade, grave (hemoglobinúria); Extravascular = baço, mais leve (icterícia) |
-| Doador universal (hemácias) | Receptor universal | Doador = O neg (sem antígenos); Receptor = AB+ (sem anticorpos) |
-| HLA classe I | HLA classe II | Classe I = todas células nucleadas → CD8+; Classe II = APCs → CD4+ |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Hiperaguda** | **Aguda** | **Anticorpo** (Rápido) vs **Célula T** (Lento) |
+| **Rejeição** | **GVHD** | Hospedeiro ataca órgão vs **Órgão (medula) ataca hospedeiro** |
+| **Doador O** | **Receptor AB** | Não tem **Antígenos** vs Não tem **Anticorpos** |
+| **MHC I** | **MHC II** | Todas as células (Alvo CD8) vs **Só APCs (Alvo CD4)** |
+| **Soro (Passiva)** | **Vacina (Ativa)** | Anticorpo pronto vs **Ensina o corpo a fazer** |
 
 ### Frase-âncora para não esquecer
 
-> "No transplante, o tempo fala: minutos = bomba já armada (Ac pré-formados); semanas = exército se reagrupando (T celular); anos = erosão silenciosa (vasculopatia crônica)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).
+> "Minutos é hiperaguda e crossmatch; Semanas é aguda e corticoide; Anos é crônica e vasculopatia; GVHD é o doador que vira heresia."

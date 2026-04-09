@@ -1,171 +1,111 @@
-﻿# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
+# BMF2 — Aula 16: Prática — Anatomia e Histologia Respiratória
 
-## Relevância Clínica e Acadêmica
+Esta aula prática foca no reconhecimento de estruturas do sistema respiratório em peças anatômicas e lâminas. Na prova de OSPE, os temas centrais são a **Lateralidade Pulmonar**, as **Estruturas do Hilo** e os **Hiatos Diafragmáticos**.
 
-A aula prática de anatomia e histologia respiratória é a síntese visual de todo o módulo cardiorrespiratório. Reconhecer o pulmão, a pleura, o diafragma e o mediastino em peças anatômicas, e identificar os diferentes segmentos da árvore brônquica em lâminas histológicas, são habilidades que se traduzem diretamente na leitura de tomografias, broncoscopias e biópsias pulmonares. A distinção histológica entre os diferentes segmentos das vias aéreas — da traqueia ao alvéolo — é uma das correlações estrutura-função mais cobradas em questões de imagem e diagnóstico.
+Na prática, diferenciar brônquio de bronquíolo e saber os níveis vertebrais dos hiatos é a chave para o acertos rápidos e precisos.
 
-Esta aula também integra o conteúdo de todo o BMF2: embriologia, morfologia, histologia e fisiologia do sistema respiratório se unem aqui em uma revisão consolidada. É o momento de fechar lacunas antes da prova.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A16-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Roteiro de prática de pulmões.
+- **O que mostrar:** Vista medial (hilo) dos pulmões direito e esquerdo, destacando a posição da artéria pulmonar, brônquio e veias pulmonares.
+- **Tipo sugerido:** Ilustração anatômica/Atlas.
+- **Legenda (rascunho):** Anatomia do hilo pulmonar.
 
+## Anatomia das Vias Aéreas: Brônquios Principais
 
+A lateralidade é definida pelas características dos brônquios que nascem na **Carina**:
 
+| Característica | Brônquio Direito | Brônquio Esquerdo |
+|---|---|---|
+| **Eixo** | Mais **Vertical** | Mais Oblíquo |
+| **Calibre** | Mais **Largo** | Mais Estreito |
+| **Comprimento** | Curto | Longo |
 
----
-
-
-
-## Roteiro de Anatomia Macroscópica do Sistema Respiratório
-
-**Vias aéreas superiores (revisão):**
-- Fossas nasais → coanas → faringe → laringe (cartilagens: tireoide, cricoide, epiglote, aritenoides)
-- Prega vocal verdadeira (glote): músculo vocal + ligamento vocal; acima = vestíbulo; abaixo = subglote
-
-**Traqueia:**
-- ~12 cm, do nível cricóideo (C6) até a carina (T4–T5/ângulo de Luís)
-- 16–20 anéis cartilaginosos em "C" abertos posteriormente; músculo traqueal fecha a parede posterior
-- Bifurca na **carina** em brônquio principal direito e esquerdo
-
-**Brônquio principal direito vs esquerdo:**
-
-| Característica | Direito | Esquerdo |
-|---------------|---------|---------|
-| Comprimento | ~2 cm (mais curto) | ~5 cm (mais longo) |
-| Diâmetro | Maior | Menor |
-| Ângulo com traqueia | ~25° (mais vertical) | ~45° (mais oblíquo) |
-| Implicação clínica | Mais susceptível à intubação seletiva acidental e a corpos estranhos | Mais protegido |
-
-> **Dica de Prova:** Corpos estranhos aspirados (e sondas de intubação muito profundas) vão preferencialmente para o **brônquio direito** — mais vertical, maior e mais curto. É uma questão clássica de anatomy-based reasoning.
-
-**Pulmões:**
-- Pulmão **direito**: 3 lobos (superior, médio, inferior); 2 fissuras (oblíqua e horizontal); 10 segmentos broncopulmonares
-- Pulmão **esquerdo**: 2 lobos (superior e inferior); 1 fissura (oblíqua); 8–9 segmentos; língula (equivalente ao lobo médio)
-- **Hilo pulmonar:** brônquio principal, artéria pulmonar, veias pulmonares, vasos linfáticos e nervos
-- À esquerda: artéria pulmonar é a estrutura mais superior no hilo (eparterial); à direita: brônquio é superior (brônquio do lobo superior direito = eparterial)
-
-**Pleura e espaço pleural:**
-- Pleura parietal: costal, diafragmática, mediastinal, cúpula pleural (acima da 1ª costela — cuidado no acesso subclávi)
-- Recesso costodiafragmático: parte mais baixa do espaço pleural — primeiro a encher em derrame pleural
-- Recesso costomediastinal: anterior à raiz do pulmão
-
-**Diafragma:**
-- Músculo cúpula; inervado pelo nervo frênico bilateral (C3–C5 — "C3 de 4 keeps the diaphragm alive")
-- Orifícios: **T8** = VCI; **T10** = esôfago + nervo vago; **T12** = aorta + ducto torácico + veia ázigos
-- Hiatos diafragmáticos: importante para hérnia diafragmática e para compreender a via do ducto torácico
-
-> **Pegadinha:** Os 3 níveis dos hiatos diafragmáticos são cobrados como sequência: T8 (VCI), T10 (esôfago), T12 (aorta). Mnemônico: "I Ate Ten Eggs At Twelve" (IVC at 8, Esophagus+vagus at 10, Aorta+thoracic duct at 12).
+> **Dica de Prova:** Devido à sua verticalidade, o **Brônquio Direito** é o local mais comum de impactação de **Corpos Estranhos** aspirados.
 
 ---
 
-## Roteiro de Histologia Respiratória
+## Pulmões e Pleuras
 
-**1. Traqueia (reconhecimento em lâmina):**
-- Epitélio pseudoestratificado colunar ciliado (núcleos em diferentes alturas, mas todos na membrana basal)
-- Células caliciformes (mucosas, pálidas no HE): produzem muco
-- Glândulas seromucosas na submucosa
-- Anéis de cartilagem hialina (sem pericôndrio completo — hipertificada)
-- Músculo traqueal (FML) fechando a abertura posterior do "C"
+- **Pulmão Direito:** 3 Lobos e 2 Fissuras (Horizontal e Oblíqua).
+- **Pulmão Esquerdo:** 2 Lobos, 1 Fissura (Oblíqua) e a **Língula**.
 
-**2. Brônquio (médio porte, lâmina):**
-- Mesmo epitélio pseudoestratificado ciliado
-- Placas de cartilagem hialina (não anéis completos)
-- Música liso mais desenvolvido
-- Lâmina própria com fibras elásticas (dobramentos da mucosa ao contração: característica da asma — espessamento da membrana basal + hipertrofia muscular)
+Hilos Pulmonares:
+- **Artéria Pulmonar:** Geralmente mais superior.
+- **Brônquio:** Parede firme (cartilagem); posição central/posterior.
+- **Veias Pulmonares:** Mais anteriores e inferiores.
 
-**3. Bronquíolo (distinguindo do brônquio):**
-- **SEM cartilagem** — diferença fundamental na lâmina
-- **SEM células caliciformes**
-- Epitélio colunar simples ciliado → cúbico nos terminais
-- Músculo liso proeminente (responde ao broncoespasmo)
-- **Células de Clara (Club cells)**: cúbicas, sem cílios, com grânulos apicais → secretam SP-D, metabolizam xenobióticos
-
-**4. Bronquíolo terminal vs respiratório:**
-- Terminal: sem alvéolos nas paredes, epitélio cúbico ciliado + células de Clara
-- Respiratório: alvéolos esporádicos nas paredes (transição) → zona de troca já inicia
-
-**5. Alvéolo (lâmina com grande aumento):**
-- **Pneumócito tipo I**: célula plana, núcleo comprimido, citoplasma delgado — difusão gasosa
-- **Pneumócito tipo II**: cúbico, núcleo esférico proeminente, citoplasma com vacúolos (corpos lamelares HE) → surfactante
-- **Macrófago alveolar**: célula ovalada ou irregular, citoplasma com grânulos escuros (antracose) ou macrófagos "espumosos" em doenças lipídicas
-- Septos alveolares: fibras elásticas e colágeno + capilares
-
-**6. Pleura visceral (lâmina):**
-- Mesotélio: células poligonais com microvilosidades
-- Tecido conjuntivo frouxo abaixo
+> **Dica de Prova:** O **Recesso Costodiafragmático** é o ponto mais baixo da pleura; local onde o derrame pleural se acumula inicialmente (visível no RX como "apagamento do seio costofrênico").
 
 ---
 
-## Integração Embriológica Rápida
+## Hiatos Diafragmáticos: O "8-10-12"
 
-- O pulmão deriva do **intestino anterior** (endoderma + mesoderma esplâncnico)
-- Estágios do desenvolvimento pulmonar: **embrionário** (3–7 sem) → **pseudoglandular** (7–17 sem, vias aéreas formadas) → **canalicular** (17–26 sem, alvéolos primitivos) → **sacular** (26–36 sem) → **alveolar** (36 sem–2 anos pós-natal)
-- Surfactante detectável: ~24 semanas; suficiente para sobrevida: ~28–32 semanas; maduro: ~34–36 semanas
-- Maturidade testada pelo índice L/E ≥ 2 no líquido amniótico
+Memorize os níveis vertebrais e suas estruturas:
+
+| Nível | Hiato / Forame | Conteúdo |
+|---|---|---|
+| **T8** | Forame da VCI | **Veia Cava Inferior** |
+| **T10** | Hiato Esofágico | **Esôfago** e Nervos Vagos |
+| **T12** | Hiato Aórtico | **Aorta** e Ducto Torácico |
 
 ---
 
-## Pontos-Chave
+## Histologia Respiratória (Lâmina)
 
-- Brônquio direito: mais curto, vertical, largo → corpo estranho e intubação seletiva preferem o direito
-- Pulmão direito: 3 lobos, 2 fissuras; pulmão esquerdo: 2 lobos, 1 fissura + língula
-- Hiatos diafragmáticos: T8 = VCI; T10 = esôfago + vagos; T12 = aorta + ducto torácico
-- Recesso costodiafragmático: primeiro a acumular derrame pleural (detectável na Rx de PA com ≥ 200 mL)
-- Histologia de traqueia: cartilagem em "C", pseudoestratificado ciliado, glândulas submucosas
-- Histologia de bronquíolo: SEM cartilagem, SEM caliciformes, músculo liso proeminente, células de Clara
-- Bronquíolo terminal × respiratório: terminal = sem alvéolos (condução); respiratório = com alvéolos nas paredes (troca)
-- Pneumócito tipo I: difusão; Tipo II: surfactante + reparo
-- Macrófago alveolar: fagocitose; antracose em tabagistas (grânulos negros)
-- Desenvolvimento pulmonar: surfactante suficiente a partir de ~28–32 semanas; maduro ~34–36 semanas
+O diagnóstico diferencial macro-micro:
+
+| Estrutura | Marcador Histológico |
+|---|---|
+| **Traqueia** | Cartilagem em arco (C); Muitos cílios e glândulas. |
+| **Brônquio** | **Placas de Cartilagem** isoladas; Epitélio Respiratório. |
+| **Bronquíolo** | **Auscência de Cartilagem**; Camada muscular evidente. |
+| **Bronquíolo Respiratório** | Parede interrompida por **Alvéolos**. |
 
 ---
 
 ## Ponte com a Clínica
 
-A **toracocentese** (punção de derrame pleural) deve ser realizada abaixo da escápula, no recesso costodiafragmático, acima da borda superior da costela inferior para evitar o feixe neurovascular — exatamente a anatomia desta aula. A **broncoscopia** percorre a carina, os brônquios lobares e segmentares, permitindo biópsia guiada: reconhecer o padrão histológico de cada segmento brônquico torna a leitura do laudo anatomopatológico mais inteligível. A **síndrome do desconforto respiratório neonatal (SDRN)** e a **síndrome do desconforto respiratório agudo (SDRA)** são os dois extremos — uma por deficiência congênita de surfactante, outra por lesão adquirida dos pneumócitos tipo II — e ambas se leem direto da histologia alveolar desta aula.
+Na toracocentese, o conhecimento dos recessos pleurais e da proteção do feixe neurovascular é vital. A ausculta pulmonar direcionada pelos lobos ajuda a localizar pneumonia: uma consolidação no lobo médio direito será ouvida melhor na face anterior do tórax.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Brônquio Direito**: Vertical e calibroso (aspiração).
+- **Hilo Pulmonar**: Brônquio (firme/central), Veia (anterior/inferior).
+- **Hiatos**: T8 (VCI), T10 (Esôfago), T12 (Aorta).
+- **Bronquíolo**: Sem cartilagem, sem glândula.
+- **Pneumócito II**: Célula cúbica no alvéolo (Surfactante).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para o OSPE respiratório, o segredo é o "checkpoint" anatômico. Na peça, procure a **Carina**: o brônquio que desce "em pé" é o direito; o que desce "deitado" é o esquerdo. No pulmão, conte as fissuras: 2 fissuras = 3 lobos = Lado Direito. Achou um pulmão com "bico" (língula)? É o esquerdo.
 
-Brônquio direito: mais curto + vertical + largo → corpo estranho vai para o direito. Pulmão direito: 3 lobos (sup, médio, inf), 2 fissuras; Esquerdo: 2 lobos, 1 fissura, língula. Hiatos diafragmáticos: T8 = VCI; T10 = esôfago + vago; T12 = aorta + ducto torácico.
+Para os hiatos do diafragma, use a regra do **8-10-12**: a **Cava** é curta e sobe logo (T8), o **Esôfago** é o meio do caminho (T10) e a **Aorta** é a mais profunda e posterior (T12). Não troque esses números!
 
-Recesso costodiafragmático: primeiro a encher no derrame; Rx PA detecta ≥ 200 mL. Bronquíolo histologia: SEM cartilagem + SEM caliciformes = bronquíolo (diferente do brônquio). Células de Clara: bronquíolo terminal; sem cílios, secretoras de SP-D; metabolizam xenobióticos.
-
-Bronquíolo respiratório: alvéolos nas paredes = início da zona de troca. Pneumócito tipo I vs II: I = plano, difusão; II = cúbico, corpos lamelares, surfactante. Surfactante maduro: ~34–36 semanas; índice L/E ≥ 2.
-
-Nervo frênico: C3–C5 → inervação do diafragma (bilateral).
+Na lâmina: se tem "tijolinho" de cartilagem azulada, é brônquio. Se o epitélio está lá, mas a cartilagem sumiu e só sobrou músculo, é bronquíolo. Se a parede do "túnel" começar a abrir buraquinhos (alvéolos), você chegou no bronquíolo respiratório. No alvéolo, a célula gordinha é o **Pneumócito II** (surfactante) e a achatadinha é o **Tipo I** (troca).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Pulmão direito | Pulmão esquerdo | Direito = 3 lobos, 2 fissuras; Esquerdo = 2 lobos, 1 fissura + língula |
-| Brônquio (histologia) | Bronquíolo (histologia) | Brônquio = cartilagem + caliciformes; Bronquíolo = sem cartilagem, sem caliciformes |
-| Bronquíolo terminal | Bronquíolo respiratório | Terminal = sem alvéolos; Respiratório = alvéolos nas paredes |
-| Células de Clara | Células caliciformes | Clara = bronquíolo terminal (sem muco, secreta SP-D); Caliciforme = brônquios (muco) |
-| T10 (esôfago) | T12 (aorta) | T10 = esôfago + vago; T12 = aorta + ducto torácico (mnemônico T8=VCI, T10=esôfago, T12=aorta) |
+| **Brônquio Direito** | **Brônquio Esquerdo** | **Vertical/Curto** vs Oblíquo/Longo |
+| **T10** | **T12** | **Esôfago** vs **Aorta** |
+| **Brônquio** | **Bronquíolo** | **Tem Cartilagem** vs **Não tem Cartilagem** |
+| **Pleura Parietal** | **Pleura Visceral** | Reveste a caixa (vê-se na dissected) vs Grudada no pulmão |
+| **Fissura Horizontal** | **Fissura Oblíqua** | Exclusiva do pulmão Direito vs Presente em ambos |
 
 ### Frase-âncora para não esquecer
 
-> "Corpo estranho sempre vai para o brônquio direito — é mais vertical e curto. Derrame sempre começa no recesso costodiafragmático — é o ponto mais baixo do tórax."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "Direito cai (vertical), Esquerdo vai (oblíquo); 8-10-12 desce a anatomia do diafragma pro meu glay." (ou use: Cava 8, Esôfago 10, Aorta 12).

@@ -7,10 +7,23 @@
     "source": "functions"
   },
   "hosting": {
-    "public": "public",
+    "public": ".",
     "ignore": [
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "public/**",
+      "conteudos/**",
+      "scripts/**",
+      "prompts/**",
+      ".agents/**",
+      ".claude/**",
+      ".cursor/**",
+      ".github/**",
+      "quarantine/**",
+      "package.json",
+      "package-lock.json",
+      "data/questoes_antigas_teste.json",
+      "models_list.json"
     ],
     "rewrites": [
       {

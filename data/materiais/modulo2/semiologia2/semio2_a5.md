@@ -1,116 +1,98 @@
-﻿# SEMIO2 — Aula 5: Interpretação de Achados e Síndromes Cardiorrespiratórias
+# SEMIO2 — Aula 5: Interpretação de Achados e Síndromes Cardiorrespiratórias
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A interpretação clínica integra anamnese e exame físico para formular o diagnóstico sindrômico. Na prova, o sucesso depende de reconhecer os **Padrões de Dispneia** e as principais **Síndromes Cardiorrespiratórias** (congestiva, obstrutiva e pleural).
+
+Na prática, o diagnóstico sindrômico orienta a conduta imediata (diurético, broncodilatador ou oxigênio) antes mesmo do diagnóstico etiológico final.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Essa aula é onde a semiologia deixa de ser coleta de dados e vira raciocínio clínico. A **Uninove** costuma cobrar exatamente essa transição: o aluno precisa transformar conjunto de sinais e sintomas em síndrome provável, com justificativa fisiopatológica coerente.
-
-Na prática, isso evita decisões fragmentadas e melhora priorização de urgências cardiorrespiratórias.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de síndromes cardiorrespiratórias.
+- **O que mostrar:** Tabela-resumo ou infográfico comparando as 5 grandes síndromes: IC Aguda, Asma/DPOC, Pneumonia, Derrame Pleural e Pneumotórax.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Diferencial sindrômico em cardiorrespiratório.
 
-## Do Achado Isolado à Síndrome
+## Síndromes de Alta Incidência em Prova
 
-Nenhum sinal físico isolado fecha diagnóstico com segurança. O caminho correto é agrupar sinais que apontam na mesma direção **fisiopatológica**: síndrome congestiva, síndrome obstrutiva, síndrome de consolidação, síndrome pleural, entre outras. O valor está no padrão, não no item solto.
+### 1. Insuficiência Cardíaca Descompensada (Esq/Dir)
+- **Sinais de Alarme:** Ortopneia, Dispneia Paroxística Noturna (DPN).
+- **Achado Físico:** **Estertores Crepitantes Bibasais**, **B3**, Turgência Jugular e Edema de MMII.
+- **Diferencial:** Diferencia-se de pneumonia por ser bilateral e ter sinais sistêmicos (jugular/edema).
 
-> **Dica de Prova:** resposta forte sempre conecta achado clínico ao mecanismo fisiopatológico mais provável.
+### 2. Síndrome Obstrutiva (Asma e DPOC)
+- **Sinais de Alarme:** Uso de musculatura acessória, fala entrecortada.
+- **Achado Físico:** **Sibilos Difusos**, tempo expiratório prolongado.
+- **Diferencial:** A asma é reversível/episódica; o DPOC é crônico em tabagista.
 
-> **Pegadinha:** escolher diagnóstico definitivo sem antes formular síndrome clínica compatível.
+### 3. Síndrome de Consolidação (Pneumonia)
+- **Sinais de Alarme:** Febre alta, tosse produtiva (purulenta), dor pleurítica.
+- **Achado Físico:** **Macicez Focal**, **FTV Aumentado** e estertores localizados.
 
-## Priorização e Próximo Passo Diagnóstico
+### 4. Síndrome Pleural (Derrame)
+- **Sinais de Alarme:** Dispneia progressiva, dor ao inspirar.
+- **Achado Físico:** **Macicez**, **MV e FTV Diminuídos/Abolidos** em base.
 
-Depois de definir síndrome provável, vem a decisão sobre gravidade e exames complementares necessários. Em prova, o estudante deve mostrar lógica de prioridade: quem precisa de intervenção imediata, quem pode ser investigado ambulatorialmente e quais hipóteses merecem exclusão rápida.
+### 5. Pneumotórax
+- **Sinais de Alarme:** Dor súbita "em facada" + Dispneia abrupta.
+- **Achado Físico:** **Hipertimpanismo** unilateral e ausência de ruídos respiratórios.
 
-Interpretação semiológica madura reduz erro de overdiagnosis e underdiagnosis.
+---
 
+## Diferencial Rápido: Dispneia Aguda
 
+| Suspeita | Perfil do Sintoma | Diferencial no Exame |
+|---|---|---|
+| **IC Aguda** | Piora ao deitar | **B3** e Estertores basais. |
+| **Asma/DPOC** | "Aperto no peito" | **Sibilos** e Expiração longa. |
+| **Pneumonia** | Febre + Tosse | **Febre** e FTV aumentado. |
+| **Tep** | Início Súbito | Pulmão "limpo" no exame físico. |
 
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Interpretação de Achados e Síndromes Cardiorrespiratórias
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+No pronto-atendimento, você recebe um homem de 65 anos, tabagista, com "chiado no peito" e edemas nas pernas. Se ele tem **turgência jugular**, pense em IC; se ele tem **tórax em tonel** e sibilos, pense em DPOC. Muitas vezes, o paciente tem **sobreposição** (ex: DPOC que descompensou o coração), e o tratamento deve contemplar ambos os sistemas.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Síndrome clínica:** resulta de padrão de achados, não de sinal isolado.
-- **Coerência fisiopatológica:** critério central de interpretação.
-- **Cardiorrespiratório:** exige diagnóstico diferencial estruturado.
-- **Estratificação de gravidade:** orienta urgência de conduta.
-- **Exame complementar:** deve responder pergunta clínica definida.
-- **Raciocínio sindrômico:** aumenta precisão diagnóstica inicial.
+- **FTV**: Aumenta na pneumonia (sólido), diminui no derrame (líquido).
+- **B3**: "Assinatura" de sobrecarga de volume no ventrículo esquerdo.
+- **Sibilos**: Indicam obstrução (não necessariamente asma).
+- **Ortopneia**: Sintoma cardinal de IC.
+- **Fatores de Risco**: Conecte tabagismo a DPOC e Ca de Pulmão.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Grave a lógica das "caixas". 
+Na **IC**, a caixa está cheia de água: bibasal, simétrico, com **B3** e **Jugular** alta. 
+Na **Asma/DPOC**, os canos estão apertados: **Sibilos** por todo o pulmão. 
+Na **Pneumonia**, um canto da caixa estragou: achado **focal**, febre e o som vibra mais (**FTV alto**).
+No **Derrame**, tem água fora da caixa (na pleura): o som morre e a batida é surda (**Macicez + FTV baixo**).
+No **Pneumotórax**, entrou ar na caixa (pleura): o barulho é de tambor (**Hipertimpanismo**).
 
-Achado isolado: raramente fecha diagnóstico. Padrão sindrômico: organiza hipótese inicial. Fisiopatologia: sustenta interpretação dos sinais.
-
-Gravidade clínica: define prioridade de ação. Exames: devem ser orientados por hipótese. Erro comum: pular etapa sindrômica.
-
-Integração clínico-semiológica: é o foco da aula. Decisão inicial: depende da coerência do conjunto.
+Cuidado com a Dor Torácica: se for opressiva com suor frio, corra com o ECG (Infarto). Se for pontada que piora ao respirar, olhe o pulmão (Pleura/Pneumonia/Pneumotórax).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Sinal isolado | Síndrome clínica | Síndrome exige conjunto coerente de achados |
-| Diagnóstico sindrômico | Diagnóstico etiológico final | O sindrômico vem antes e orienta investigação |
-| Conduta urgente | Conduta eletiva | Gravidade hemodinâmica/respiratória define prioridade |
-| Exame por rotina | Exame orientado por hipótese | O orientado tem maior rendimento clínico |
+| **IC** | **DPOC** | **Ortopneia/Jugular** vs Tabagismo/Sibilo/Tórax em Tonel |
+| **Pneumonia** | **Derrame Pleural** | **Vibra Mais (FTV ↑)** vs Vibra Menos (FTV ↓) |
+| **Pneumotórax** | **TEP** | **Hipertimpanismo** vs Exame físico pulmonar normal |
+| **Asma** | **IC (Asma Cardíaca)** | História atópica vs **História de cardiopatia e B3** |
+| **Dor Isquêmica** | **Dor Pleurítica** | **Aperto/Sudorese** vs Pontada/Ventilação-dependente |
 
 ### Frase-âncora para não esquecer
 
-> "Semiologia madura junta peças; não coleciona sinais."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Interpretação de Achados e Síndromes Cardiorrespiratórias** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "B3 e Jugular é Coração; Febre e FTV é Pulmão; Sibilo é obstrução e Súbito é Pleura ou Trombo no canhão."

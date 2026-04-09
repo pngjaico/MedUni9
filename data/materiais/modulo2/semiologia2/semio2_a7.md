@@ -1,114 +1,93 @@
-﻿# SEMIO2 — Aula 7: Prática Real — Ambulatório Supervisionado
+# SEMIO2 — Aula 7: Prática Real — Ambulatório Supervisionado
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+No ambulatório supervisionado, a prioridade absoluta é o reconhecimento precoce de riscos e a tomada de decisão segura. Na prova, os temas focam no **Manejo de Red Flags**, na **Diferenciação entre Dor Cardíaca e Pulmonar** e na **Estratificação de Risco**.
+
+Na prática, a habilidade de converter achados do exame físico em um plano imediato (urgência vs. ambulatorial) é o diferencial de um atendimento seguro.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-No ambulatório supervisionado, o estudante enfrenta variabilidade clínica real, e esse é exatamente o ponto cobrado pela **Uninove**: adaptar método semiológico ao paciente concreto sem perder técnica. Aqui entram comunicação, ética, gestão de tempo e priorização diagnóstica.
-
-A prática real consolida aprendizado porque mostra que sinais clássicos nem sempre aparecem em livro-texto.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de fluxo de atendimento.
+- **O que mostrar:** Infográfico: "Filtro de Gravidade" (Sinais Vitais → Red Flags → Hipótese Sindrômica → Próximo Passo Seguro).
+- **Tipo sugerido:** Fluxograma didático.
+- **Legenda (rascunho):** Priorização clínica no atendimento ambulatorial.
 
-## Da Simulação ao Paciente Real
+## Atendimento Ambulatorial por Risco
 
-No cenário real, a coleta de história pode ser incompleta, o exame pode ser limitado por dor, comorbidade ou contexto social, e o raciocínio precisa continuar robusto mesmo assim. O papel da supervisão é garantir qualidade técnica e segurança assistencial enquanto o aluno desenvolve autonomia progressiva.
+Diferente do pronto-atendimento, no ambulatório buscamos a **Estabilidade Clínica**:
+1. **Primeiro Filtro (Sinais Vitais):** Checar FR e SatO2 antes de qualquer anamnese longa.
+2. **Segundo Filtro (Red Flags):** Dor opressiva? Síncope? Hemoptise volumosa?
+3. **Terceiro Filtro (Exame Dirigido):** Ausculta comparativa e sinais de congestão.
 
-> **Dica de Prova:** em prática real, justificar conduta com base em dados disponíveis é mais valorizado que tentar parecer "certeza absoluta".
+> **Dica de Prova:** Em idosos ou diabéticos, a **Dor Torácica** pode ser atípica (apenas cansaço ou dor epigástrica). Nunca subestime esses sintomas no ambulatório.
 
-> **Pegadinha:** inventar achado não observado para encaixar hipótese idealizada. Em semiologia, honestidade do dado é inegociável.
+---
 
-## Ética, Registro e Conduta Inicial
+## Decisão Rápida: Cardíaco vs. Respiratório
 
-Ambulatório não avalia só exame físico. Avalia também respeito ao paciente, consentimento, linguagem acessível, registro em prontuário e plano inicial seguro. A capacidade de reconhecer limites e pedir supervisão é sinal de maturidade clínica.
+| Perfil do Sintoma | Provável Origem Cardíaca | Provável Origem Pulmonar |
+|---|---|---|
+| **Evolução** | Piora ao deitar (**Ortopneia**). | Piora com a respiração. |
+| **Dor** | Opressiva e retroesternal. | Em pontada (**Pleurítica**). |
+| **Achado Físico** | **B3** e **Turgência Jugular**. | **Sibilos** e expectoração. |
+| **Fator Associado** | Hipertensão / Diabetes. | Tabagismo / Infecção Viral prévia. |
 
+---
 
+## Estratificação de Risco Imediato
 
+| Achado no Ambulatório | Risco Estimado | Ação Imediata |
+|---|---|---|
+| SatO2 < 92% em ar ambiente | Insuficiência Respiratória | Oxigênio + Encaminhamento Urgente. |
+| **Dor opressiva + Sudorese** | **IAM (Infarto)** | **ECG imediato** + Transferência. |
+| Febre + Crepitações + Dispneia | Pneumonia Grave | Referenciar para Imagem e Antibiótico. |
+| Dispneia Súbita + Perna Inchada | **TEP** | Estratificar Risco (Score de Wells). |
+
+> **IMPORTANTE:** Se o paciente apresentar dessaturação ao caminhar (mesmo com SatO2 normal em repouso), ele deve ser avaliado com prioridade.
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Prática Real — Ambulatório Supervisionado
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+No ambulatório, um paciente com **IC crônica** que chega com ganho de peso e maior necessidade de travesseiros está descompensando o sistema cardiovascular. O "Próximo Passo" não é apenas pedir exames, mas ajustar o diurético e orientar sinais de gravidade que exijam ida ao pronto-socorro.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Ambulatório supervisionado:** ambiente de integração técnica e atitude profissional.
-- **Variabilidade clínica real:** exige adaptação sem perder método.
-- **Supervisão:** garante segurança e qualidade assistencial.
-- **Registro clínico:** parte do cuidado, não burocracia.
-- **Ética e comunicação:** competências avaliadas diretamente.
-- **Autonomia progressiva:** construída com responsabilidade.
+- **Segurança**: Sinais vitais antes de histórias longas.
+- **Red Flags**: Síncope, dor torácica e hemoptise exigem ação imediata.
+- **Diferencial**: Ortopneia aponta para o Coração; Tosse e Febre para o Pulmão.
+- **Conduta Segura**: Hipótese principal + Diferencial crítico + Próximo passo.
+- **Registro**: Documentar sempre o motivo do encaminhamento à urgência.
 
 ---
 
-## Pré-Prova
+## Pró-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para o ambulatório supervisionado, seu cérebro deve funcionar como um filtro de risco. **Sinais vitais são o pilar**: se a SatO2 está baixa ou a frequência respiratória está alta, o paciente sai da fila do ambulatório para a sala de emergência.
 
-Prática real: amplia complexidade do raciocínio clínico. Método semiológico: deve ser mantido sob variabilidade. Supervisão docente: componente de segurança.
+Diferencie o "cansaço": se ele piora quando o paciente deita (**Ortopneia**), o culpado é o coração; se ele vem com febre e catarro, o culpado é o pulmão. No caso da **Dor no Peito**, a regra é: se é aperto e suor frio, corra com o **ECG**. Se a dor é "em facada" e começou de repente após uma cirurgia ou viagem longa, grite **TEP** na sua mente.
 
-Consentimento: obrigatório antes do exame. Prontuário: precisa ser claro e objetivo. Reconhecer limite: demonstra maturidade clínica.
-
-Conduta inicial: deve ser segura e justificável. Dados reais: valem mais que hipótese bonita.
+Sua resposta deve ter: **Síndrome + Hipótese + Conduta**. Exemplo: "Paciente com síndrome congestiva, provável descompensação de IC, conduta de ajuste de diurético e monitorização".
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Simulação | Ambulatório real | O real adiciona incerteza, contexto social e variabilidade |
-| Autonomia responsável | Conduta imprudente | Responsável reconhece limites e busca supervisão |
-| Registro objetivo | Registro incompleto | Objetivo sustenta continuidade e segurança do cuidado |
-| Técnica correta | Performance apressada | Pressa sem método aumenta erro clínico |
+| **Dor Coronariana** | **Dor Muscular** | **Fatores de risco (HAS/DM)** vs Reprodução à palpação local |
+| **Ortopneia** | **Dispneia aos Esforços** | Padrão postural (Coração) vs Padrão funcional (Coração or Pulmão) |
+| **SatO2 Repouso** | **SatO2 Esforço** | Normalidade falsa vs **Revelação de falha de troca gasosa** |
+| **Emergência** | **Urgência Ambulatorial** | Risco de morte imediata vs Necessidade de investigação célere |
+| **Sinal de Alarme** | **Sintoma Crônico** | Síncope/Cianose/Dessaturação vs Tosse seca de meses |
 
 ### Frase-âncora para não esquecer
 
-> "No ambulatório, método bom protege paciente e estudante ao mesmo tempo."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Prática Real — Ambulatório Supervisionado** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "No ambulatório, estabilidade é o norte; se o vital caiu ou o peito apertou, o suporte é o forte."

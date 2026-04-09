@@ -1,134 +1,91 @@
-# ST — Aula 6: Indicadores de Saúde do Trabalhador e leitura epidemiológica
+# ST — Aula 6: Indicadores de Saúde do Trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+Os indicadores de saúde são a "bússola" da vigilância. Na prova, os temas centrais são a interpretação da **Incidência** (casos novos) e **Prevalência** (casos totais), a compreensão das **Taxas de Frequência e Gravidade** de acidentes e o reconhecimento da **Subnotificação**, que mascara os problemas reais de uma empresa.
+
+Na prática, os números contam uma história. Se a incidência de acidentes subiu em um setor específico este mês, o médico deve investigar o que mudou lá: entrou uma máquina nova? As pessoas estão fazendo hora extra? O indicador não é apenas um gráfico para o relatório, é um sinal de alerta para salvar vidas e prevenir novos agravos.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Indicadores em saúde do trabalhador transformam eventos dispersos em evidência para decisão. Sem indicadores, a equipe só reage a casos isolados; com indicadores, consegue identificar padrão de risco, priorizar prevenção e avaliar resultado de intervenção.
-
-A cobrança em avaliação costuma focar interpretação: diferença entre incidência e prevalência, leitura de coeficientes, subnotificação e limite de comparações entre setores com perfis ocupacionais distintos.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A6-F01`
 
-- **Momento:** após a introdução conceitual de indicadores.
-- **O que mostrar:** painel com poucos indicadores-chave (incidência de acidentes, gravidade, absenteísmo e cobertura de exames), com setas de tendência.
-- **Tipo sugerido:** infográfico didático.
-- **Legenda (rascunho):** "Indicadores essenciais para monitorar risco e desempenho em saúde do trabalhador."
-- **Notas (opcional):** priorizar contraste alto e elementos legíveis em tela pequena.
+- **Momento:** Seção de tipos de indicadores (Estrutura, Processo, Resultado).
+- **O que mostrar:** A "Máquina da Saúde": Engrenagens representando a **Estrutura** (Equipe e EPIs), o **Processo** (Fazer os exames e treinamentos) e o **Resultado** (Trabalhadores sem doenças). Se uma engrenagem falha, o indicador de resultado mostra o aumento de acidentes.
+- **Tipo sugerido:** Infográfico didático | Esquema de engrenagens.
+- **Legenda (rascunho):** A interdependência entre os indicadores de estrutura, processo e resultado na saúde ocupacional.
+
+## 1. Tipos de Indicadores: O que estamos medindo?
+
+Para organizar a saúde em uma empresa, dividimos os indicadores em três níveis:
+- **Indicadores de Estrutura:** Medem o que temos. (Ex: "Temos 2 médicos e 100 luvas?").
+- **Indicadores de Processo:** Medem o que fazemos. (Ex: "Todos os funcionários fizeram o exame periódico? Todos treinaram o uso da máquina?").
+- **Indicadores de Resultado:** Medem o que aconteceu. (Ex: "Quantos se machucaram este ano? Quantos estão afastados por dor?").
 
 ---
 
-## Tipos de indicadores e utilidade prática
+## 2. Epidemiologia: Incidência vs. Prevalência
 
-Na saúde ocupacional, os indicadores podem ser organizados em quatro grupos:
-
-- **Estrutura:** recursos disponíveis (equipe, EPI, protocolos).
-- **Processo:** execução de ações (cobertura de treinamento, adesão a fluxos, investigação de eventos).
-- **Resultado:** desfechos (acidente, adoecimento, afastamento, incapacidade).
-- **Impacto:** efeito de longo prazo na população trabalhadora.
-
-Esse enquadramento evita confundir atividade realizada com resultado alcançado.
-
-> **Dica de Prova:** indicador de processo mede "o que foi feito"; indicador de resultado mede "o que aconteceu com a saúde".
+Essa é a base de qualquer questão de saúde coletiva:
+- **Incidência:** São os **Casos Novos**. Útil para ver se um risco novo apareceu agora (ex: um surto de conjuntivite na fábrica esta semana).
+- **Prevalência:** É o **Total de Casos** (antigos + novos). Útil para saber quanta gente na empresa vive com um problema crônico (ex: quantos funcionários têm perda auditiva hoje).
 
 ---
 
-## Indicadores epidemiológicos mais cobrados
+## 3. Acidentes: Frequência e Gravidade
 
-### Incidência de agravos ocupacionais
-
-Expressa casos novos em período definido, em população exposta. É útil para detectar aumento recente de risco após mudança de processo produtivo.
-
-### Prevalência de adoecimento relacionado ao trabalho
-
-Mostra o total de casos existentes em determinado momento, incluindo quadros antigos. Ajuda a estimar carga de doença e necessidade assistencial contínua.
-
-### Taxa de frequência e gravidade de acidentes
-
-Muito utilizada em gestão de segurança:
-- **Frequência:** quantos acidentes ocorrem em relação à exposição (horas trabalhadas, por exemplo).
-- **Gravidade:** quanto os acidentes impactam dias perdidos, sequelas ou óbitos.
-
-### Indicadores de absenteísmo por causa ocupacional
-
-Permitem detectar setores com sofrimento organizacional, sobrecarga física e possíveis falhas de prevenção.
+A segurança do trabalho usa duas taxas principais da norma NBR 14.280:
+- **Taxa de Frequência (TF):** Mostra **Quantos** acidentes ocorreram para cada milhão de horas trabalhadas. É a medida da "quantidade".
+- **Taxa de Gravidade (TG):** Mostra **Quanto Tempo** foi perdido (dias de afastamento) por causa dos acidentes. É a medida do "estrago".
+- **Dica:** Um setor pode ter muitos acidentes leves (TF alta, TG baixa) ou poucos acidentes fatais (TF baixa, TG altíssima).
 
 ---
 
-## Quadro comparativo para interpretação
+## 4. O Vilão dos Números: A Subnotificação
 
-| Indicador | O que mede | Melhor uso | Limitação clássica |
-|----------|------------|------------|--------------------|
-| Incidência | Casos novos | Detectar mudança recente de risco | Sensível à subnotificação |
-| Prevalência | Casos totais existentes | Medir carga de doença | Pode parecer alta mesmo sem casos novos |
-| Frequência de acidente | Número de eventos por exposição | Comparar períodos de uma mesma unidade | Comparação entre setores exige cautela |
-| Gravidade de acidente | Impacto em dias perdidos/sequela | Priorizar eventos de maior dano | Pode subestimar acidentes leves recorrentes |
-| Absenteísmo ocupacional | Afastamentos por motivo de trabalho | Vigilância de desgaste coletivo | Dependente da qualidade do registro |
-
-> **Pegadinha:** queda de incidência não prova melhora real se houve piora da notificação.
-
----
-
-## Fontes de dados e qualidade da informação
-
-Os dados ocupacionais são obtidos de notificações, prontuários, CAT, sistemas de vigilância e registros administrativos de RH.  
-Problema frequente: preencher campos incompletos (ocupação, setor, agente causal, circunstância), o que inviabiliza análise robusta.
-
-A boa prática inclui:
-1. Padronizar definição de caso.
-2. Treinar equipe notificadora.
-3. Auditar consistência dos bancos.
-4. Devolver análise para quem coleta dado.
-
-Sem esse ciclo, indicador vira apenas número em relatório.
+O maior erro em saúde do trabalhador é acreditar que "zero acidentes" significa "segurança total".
+- **Subnotificação:** Ocorre quando acidentes acontecem, mas não são registrados (por medo de demissão, bônus por produtividade ou burocracia).
+- **Como suspeitar:** Se a empresa tem muitos afastamentos pelo INSS por "doença comum", mas a CAT diz que não tem acidentes de trabalho, a subnotificação é muiro provável.
 
 ---
 
 ## Ponte com a Clínica
 
-Imagine uma unidade hospitalar com aumento de lombalgia entre técnicos de enfermagem. A prevalência pode estar alta há meses, mas a incidência subiu após mudança de escala e redução de pausas. O dado orienta intervenção ergonômica e reorganização do processo de trabalho.
-
-Se, após três meses, cai a frequência de afastamentos e melhora a adesão a medidas de prevenção, o serviço ganha evidência de efetividade da ação. Isso é epidemiologia aplicada ao cuidado do trabalhador.
+No seu dia a dia como médico, o indicador que mais importa é o **Absenteísmo** (falta ao trabalho). Se você notar que o "Motivo: Dor Lombar" é o que mais gera atestados em uma empresa de logística, o seu indicador de resultado está gritando que a ergonomia (Processo/Estrutura) falhou. Use esses dados para sugerir mudanças na empresa: "Tivemos 20 casos novos de dor nas costas este mês; precisamos investir em esteiras automáticas ou rodízio de tarefas". Transformar o dado em ação é o papel do médico moderno.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Indicadores de estrutura, processo e resultado respondem perguntas diferentes.
-- Incidência capta casos novos; prevalência capta carga total existente.
-- Taxa de frequência e gravidade de acidente são complementares, não concorrentes.
-- Qualidade de dado é condição para interpretação válida.
-- Subnotificação pode simular melhora artificial.
-- Banca valoriza leitura crítica, não apenas fórmula decorada.
+- **Incidência**: O melhor indicador para avaliar se uma medida preventiva nova está funcionando (casos novos devem cair).
+- **Taxa de Gravidade**: Inclui dias perdidos por afastamento e dias "debitados" (em caso de morte ou invalidez parcial).
+- **Absenteísmo-Doença**: Indicador fundamental para medir a saúde mental e física geral da força de trabalho.
+- **Fator Acidentário de Prevenção (FAP)**: Indicador que faz a empresa pagar mais ou menos imposto dependendo de quantos acidentes ela tem.
+- **Definição de Caso**: Para o indicador valer, todos os médicos devem usar o mesmo critério para diagnosticar a doença.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Em saúde do trabalhador, indicador bom é aquele que muda decisão. Se a questão citar casos novos em período, a lógica é incidência; se citar todos os casos existentes, é prevalência. Para acidente, lembre que frequência e gravidade se complementam: uma mostra quantos eventos ocorrem, a outra mostra o tamanho do dano.
+Para gabaritar Indicadores, foque no significado. 
+**Casos Novos** = Incidência. **Todo mundo doente** = Prevalência. **Frequência** = Quantidade de sustos. **Gravidade** = Tamanho do prejuízo (dias perdidos).
 
-A interpretação correta depende da qualidade da informação. Subnotificação, erro de preenchimento e mudança de critério diagnóstico distorcem tendência temporal. Por isso, comparar setores diferentes sem ajustar contexto pode levar a conclusão errada.
-
-Quando a banca traz cenário prático, a resposta mais forte costuma ligar indicador a ação: detectar problema, intervir e reavaliar.
+A Uninove adora a **Subnotificação**. Se uma questão diz que os acidentes "caíram", mas a gravidade subiu, suspeite que só os casos muito graves estão sendo registrados. Outro ponto forte: o **Indicador de Processo** (ex: adesão ao uso de EPI) é o que vem antes da doença. Por fim, saiba que para comparar empresas de tamanhos diferentes, usamos coeficientes (taxas) e não números absolutos, para que a comparação seja justa.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Incidência | Prevalência | Incidência mede casos novos; prevalência mede total de casos existentes |
-| Indicador de processo | Indicador de resultado | Processo mede execução da ação; resultado mede efeito em saúde |
-| Frequência de acidente | Gravidade de acidente | Frequência conta eventos; gravidade quantifica impacto do evento |
-| Queda de notificação | Queda real de risco | Menos registros pode ser subnotificação, não melhora real |
+| **Incidência** | **Prevalência** | Casos **Novos** vs Casos **Totais** |
+| **Frequência** | **Gravidade** | **Quantos** se machucaram vs **Quantos dias** ficaram fora |
+| **Processo** | **Resultado** | **Treinamento/EPI** feito vs **Doença/Acidente** evitado |
+| **Número Absoluto** | **Taxa (Coeficiente)** | 10 casos (pode ser pouco ou muito) vs 10 casos **por 1000** |
+| **Absenteísmo** | **Presenteísmo** | Falta por doença (**Casa**) vs Trabalha doente (**Baixa Produção**) |
 
 ### Frase-âncora para não esquecer
 
-> "Indicador sem contexto engana; indicador com boa base guia prevenção."
+> "Incidência vigia o risco novo, prevalência olha o peso do passado. Frequência conta os eventos, gravidade conta as sequelas. Se o número de acidentes cai sem mudar a fábrica, desconfie da subnotificação."

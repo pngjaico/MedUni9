@@ -1,171 +1,97 @@
 # BMF3 — Aula 1: Anatomia do TGI Superior — Boca, Faringe, Esôfago e Estômago
 
-**Disciplina:** Bases Morfofuncionais 3 — Digestório, Renal e Reprodutor
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+O Tubo Gastrointestinal (TGI) superior é onde a digestão começa e onde ocorrem patologias extremamente comuns como a DRGE, esofagite e úlceras. Para a prova, o foco é a anatomia topográfica: saber os **Estreitamentos do Esôfago**, as divisões do estômago e a vascularização do **Tronco Celíaco**.
+
+Na prática, entender onde o esôfago aperta ou onde as artérias gástricas se originam é o que permite ao médico realizar uma endoscopia segura ou planejar uma cirurgia de correção de refluxo.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O TGI superior é onde a digestão começa e onde ocorrem algumas das patologias mais prevalentes: DRGE, esofagite, úlcera gástrica e câncer de estômago. Saber a anatomia detalhada — estreitamentos, relações topográficas, vascularização — é a base para entender por que o refluxo acontece, onde o endoscopista olha e onde o cirurgião liga vasos em uma gastrectomia. A **Uninove** cobra especialmente os estreitamentos esofágicos, as regiões do estômago e os pontos de referência cirúrgicos.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de estreitamentos do esôfago.
+- **O que mostrar:** O "Caminho do Alimento": Um esquema do esôfago mostrando os três pontos de estrangulamento (Cricofaríngeo, Aorta/Brônquio e Hiato). Destacar os níveis vertebrais (C6, T4/T5, T10).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Os três estreitamentos fisiológicos do esôfago.
 
+## 1. Faringe e a Transição para o Esôfago
 
-
-
----
-
-## 1. Cavidade Oral e Faringe
-
-A **cavidade oral** inicia o TGI. A mastigação reduz o alimento e a **amilase salivar** inicia a digestão do amido. A **faringe** é um tubo muscular de ~12 cm, via comum ao ar e ao alimento. Divide-se em:
-
-| Divisão | Localização | Destaque |
-|---|---|---|
-| **Nasofaringe** | Posterior às fossas nasais | Óstio faríngeo da tuba auditiva |
-| **Orofaringe** | Posterior à boca | Tonsilas palatinas |
-| **Laringofaringe** | Posterior à laringe | Continua com o esôfago em C6 |
-
-O músculo **cricofaríngeo** forma o **esfíncter esofágico superior (EES)** — primeira barreira contra refluxo e aspiração.
+A **Faringe** é um tubo muscular que serve tanto ao ar quanto ao alimento. O ponto mais importante é o músculo **Cricofaríngeo**, que forma o **Esfíncter Esofágico Superior (EES)**.
+- **Localização:** Nível de **C6**.
+- **Natureza:** É um esfíncter **Anatômico** (músculo real) e estriado (voluntário/reflexo).
 
 ---
 
-## 2. Esôfago — Anatomia Detalhada
+## 2. Esôfago: O Tubo de Passagem
 
-Tubo muscular de ~25 cm. Inicia em C6 (EES) e termina em T11 (junção gastroesofágica — JGE).
-
-### Trajeto por Regiões
-
-| Região | Nível | Relações importantes |
-|---|---|---|
-| **Cervical** | C6–T1 | Posterior à traqueia; nervo laríngeo recorrente esquerdo lateralmente |
-| **Torácica** | T1–T10 | Mediastino posterior; aorta cruza pela esquerda em T5; ducto torácico, veia ázigos |
-| **Abdominal** | T10–T11 | ~2 cm após o hiato; esfíncter esofágico inferior (EEI) |
-
-### Três Estreitamentos Fisiológicos
-
-Locais de maior resistência — onde corpos estranhos impactam e cânceres se desenvolvem:
-
-| # | Local | Nível | Causa |
-|---|---|---|---|
-| **1°** | Cricofaríngeo (EES) | C6 | Músculo cricofaríngeo em contração permanente |
-| **2°** | Arco aórtico + brônquio esquerdo | T4–T5 | Compressão extrínseca |
-| **3°** | Hiato esofágico (EEI) | T10 | Passagem pelo diafragma |
-
-### Esfíncter Esofágico Inferior (EEI)
-Não é esfíncter anatômico — é uma zona de alta pressão funcional (~15–30 mmHg acima do gástrico). Hipotonia → DRGE. Hipertonia com falha de relaxamento → acalásia.
+O esôfago tem cerca de 25 cm e atravessa três regiões: pescoço, tórax e abdome.
+### Os Três Estreitamentos Fisiológicos (Cai Sempre!)
+São locais onde objetos (como ossos de galinha) ficam presos e onde o câncer se desenvolve mais fácil:
+1.  **Cricofaríngeo (C6):** O início do esôfago.
+2.  **Aórtico-Brônquico (T4-T5):** Onde o arco da aorta e o brônquio esquerdo apertam o esôfago.
+3.  **Diafragmático (T10):** Onde o esôfago atravessa o músculo diafragma (Hiato).
 
 ---
 
-## 3. Estômago — Regiões e Relações
+## 3. Estômago: Regiões e Funções
 
-### Cinco Regiões Anatômicas
-
-| Região | Características | Relevância clínica |
-|---|---|---|
-| **Cárdia** | Junção com esôfago; anel mucoso Z | Adenocarcinoma da JGE, DRGE |
-| **Fundo** | Cúpula acima do cárdia, acumula ar | Câmara gástrica na radiografia |
-| **Corpo** | Maior porção; curvaturas maior e menor | Úlcera gástrica tipo I (curvatura menor) |
-| **Antro** | Porção distal, estreita | H. pylori; células G → gastrina |
-| **Piloro** | Junção com duodeno; esfíncter real | Estenose pilórica do lactente |
-
-### Vascularização do Estômago
-
-| Artéria | Origem | Território |
-|---|---|---|
-| **Gástrica esquerda** | Tronco celíaco (diretamente) | Curvatura menor — 2/3 superiores |
-| **Gástrica direita** | Artéria hepática própria | Curvatura menor — 1/3 inferior |
-| **Gastroepiplóica direita** | Artéria gastroduodenal | Curvatura maior — metade direita |
-| **Gastroepiplóica esquerda** | Artéria esplênica | Curvatura maior — metade esquerda |
-| **Gástricas curtas (5–7)** | Artéria esplênica | Fundo gástrico |
+O estômago é dividido em cinco partes principais:
+- **Cárdia:** A porta de entrada, ligada ao esôfago.
+- **Fundo:** A cúpula superior que acumula ar (visível no Raio-X como bolha gástrica).
+- **Corpo:** A maior parte, onde ocorre a mistura do quimo.
+- **Antro:** A parte final e estreita, rica em **Células G** que produzem gastrina.
+- **Piloro:** O esfíncter de saída para o duodeno.
 
 ---
 
-## 4. Ligamentos e Omento
+## 4. Vascularização: O Poder do Tronco Celíaco
 
-| Ligamento | Conexão | Conteúdo vascular |
-|---|---|---|
-| **Hepatogástrico** | Fígado → curvatura menor | Artéria gástrica esquerda, veia gástrica |
-| **Gastroesplênico** | Curvatura maior → baço | Artérias gástricas curtas, gastroepiplóica esquerda |
-| **Gastrocólico** | Curvatura maior → cólon transverso | Artéria gastroepiplóica direita |
-
-**Omento menor** = hepatogástrico + hepatoduodenal. **Omento maior** = gastrocólico (o "avental" abdominal).
-
----
-
-## 5. Situações Clínicas-Chave
-
-| Situação | Estrutura | Mecanismo |
-|---|---|---|
-| **DRGE** | EEI hipotônico | Refluxo ácido para o esôfago |
-| **Acalásia** | Destruição do plexo mioentérico do EEI | Falha no relaxamento → megaesôfago |
-| **Hérnia de hiato** | Hiato esofágico alargado | Estômago hernia para o tórax |
-| **Úlcera gástrica tipo I** | Curvatura menor do corpo | H. pylori + hipersecreção ácida |
-| **Estenose pilórica** | Esfíncter pilórico hipertrofiado | Vômito em jato no lactente |
-| **Impactação de corpo estranho** | 2° estreitamento (T4–T5) | Brônquio esquerdo = local mais comum |
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-- **EEI como esfíncter anatômico:** é zona funcional de pressão, sem espessamento muscular visível — diferente do EES (cricofaríngeo), que é músculo estriado real.
-- **Gástrica esquerda da hepática:** a artéria gástrica esquerda sai diretamente do tronco celíaco; a gástrica direita é quem sai da hepática própria.
-- **Fundo confundido com antro:** fundo = cúpula acima do cárdia (câmara de ar na radiografia); antro = porção distal pré-pilórica, onde ficam as células G.
-- **Confundir os 3 estreitamentos:** 1° cricofaríngeo (C6, muscular), 2° aorta/brônquio (T4–T5, extrínseco), 3° hiato (T10, diafragmático). Questões invertem a ordem.
-- **Esôfago abdominal como totalmente intraperitoneal:** o segmento abdominal do esôfago (~2 cm) não tem serosa na face posterior — é parcialmente retroperitoneal.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei nomear os 3 estreitamentos esofágicos com nível vertebral e causa de cada um
-- [ ] Consigo descrever as 5 regiões do estômago e a relevância clínica de cada uma
-- [ ] Sei as 5 artérias gástricas e de quais troncos se originam
-- [ ] Consigo explicar a diferença entre EES e EEI em termos musculares e funcionais
-- [ ] Sei o conteúdo dos principais ligamentos gástricos (hepatogástrico, gastroesplênico, gastrocólico)
-- [ ] Diferencio DRGE de acalásia pelo mecanismo do EEI
+O estômago é extremamente bem irrigado. Para a prova, decore as origens:
+- **Artéria Gástrica Esquerda:** Sai direto do **Tronco Celíaco**.
+- **Artéria Gástrica Direita:** Sai da **Artéria Hepática Própria**.
+- **Curvaturas:** A **Curvatura Menor** é irrigada pelas gástricas (esquerda e direita). A **Curvatura Maior** pelas gastroepiplóicas.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente de 55 anos com disfagia progressiva para sólidos, perda de 8 kg e episódio de engasgamento. Endoscopia: lesão estenosante a 25 cm dos incisivos — exatamente no 2° estreitamento esofágico (nível do arco aórtico/brônquio esquerdo), sítio mais frequente de carcinoma espinocelular. O cirurgião que for operar sabe que nesse ponto o esôfago está em íntimo contato com a aorta e o ducto torácico — dissecção descuidada significa desastre. Na urgência, "engoliu espinha de peixe e ficou presa", o endoscopista busca exatamente nos três marcos anatômicos.
+Na **DRGE (Doença do Refluxo)**, o problema geralmente é no **Esfíncter Esofágico Inferior (EEI)**. Diferente do superior, o EEI é um esfíncter **Funcional** (não é um músculo isolado, mas uma zona de pressão). Se ele ficar frouxo (**hipotônico**), o ácido sobe. Já na **Acalásia**, o esfíncter não relaxa (fica "travado" fechado), impedindo a comida de descer e causando o famoso "megaesôfago".
+
+---
+
+## Pontos-Chave para Prova
+
+- **Cricofaríngeo**: Marco inicial (C6) e proteção contra aspiração.
+- **Estreitamentos**: C6 (Cricofaríngeo), T4/T5 (Aorta/Brônquio), T10 (Hiato).
+- **Fundo Gástrico**: Acumula ar; visível no RX.
+- **Antro**: Local das **Células G** (gastrina) e alvo frequente do *H. pylori*.
+- **Gástrica Esquerda**: Ramo direto do **Tronco Celíaco**.
+- **Omento Menor**: Liga a curvatura menor ao fígado (**Ligamento Hepatogástrico**).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar TGI Superior, foque nos níveis e vasos. 
+O esôfago começa em **C6** e passa pelo diafragma em **T10**. O **Cricofaríngeo** (EES) é o único esfíncter anatômico real do esôfago. O **EEI** (inferior) é funcional. No estômago, lembre-se que o **Fundo** fica para cima (ar) e o **Antro** fica para baixo (gastrina).
 
-Esôfago: ~25 cm, de C6 a T11; atravessa o hiato esofágico em T10. 1° estreitamento: cricofaríngeo (C6) — músculo estriado. 2° estreitamento: arco aórtico + brônquio esquerdo (T4–T5) — extrínseco.
-
-3° estreitamento: hiato diafragmático (T10) — EEI. EES: músculo cricofaríngeo, estriado, voluntário, anatômico. EEI: zona funcional de alta pressão; hipotonia → DRGE; hipertonia sem relaxar → acalásia.
-
-Fundo gástrico: cúpula acima do cárdia = câmara de ar na radiografia. Antro: pré-pilórico, células G → gastrina. Gástrica esquerda: diretamente do tronco celíaco.
-
-Gástrica direita: da artéria hepática própria. Omento menor: hepatogástrico + hepatoduodenal (curvatura menor → fígado). Omento maior: gastrocólico ("avental" que pende da curvatura maior).
+A Uninove adora cobrar a origem das artérias: **Gástrica Esquerda** vem do Tronco Celíaco; **Gástrica Direita** vem da Hepática Própria. Se a questão falar de uma criança que vomita em jato após mamar, pense em **Estenose Hipertrófica do Piloro**. Se falar de um idoso onde a comida "entalou" no meio do peito, o local provável é o **Estreitamento Aórtico-Brônquico (T4-T5)**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| EES (cricofaríngeo) | EEI | EES: estriado, anatômico, C6; EEI: liso, funcional, T11 |
-| DRGE | Acalásia | DRGE: EEI hipotônico (refluxo); Acalásia: EEI hipertônico sem relaxar (retenção) |
-| Fundo gástrico | Antro pilórico | Fundo: cúpula superior, ar; Antro: distal, células G, gastrina |
-| Gástrica esquerda | Gástrica direita | Esquerda: tronco celíaco direto; Direita: artéria hepática própria |
-| Omento menor | Omento maior | Menor: curvatura menor → fígado; Maior: curvatura maior → cólon (avental) |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Esfíncter Superior (EES)** | **Esfíncter Inferior (EEI)** | **Anatômico (C6)** vs **Funcional (T11)** |
+| **DRGE** | **Acalásia** | Esfíncter **Frouxo** vs Esfíncter que **Não Abre** |
+| **Fundo Gástrico** | **Antro Gástrico** | Cúpula superior (Ar) vs **Porção distal (Gastrina)** |
+| **Gástrica Esquerda** | **Gástrica Direita** | Ramo do **Tronco Celíaco** vs Ramo da Hepática |
+| **Omento Menor** | **Omento Maior** | Curvatura menor p/ Fígado vs **Pendurado na Curvatura Maior** |
 
 ### Frase-âncora para não esquecer
 
-> "Os 3 estreitamentos são os 3 C: Cricofaríngeo (C6), Carina/aorta (T4) e Crural/hiato (T10) — onde impacta, inflama e canceriniza."
+> "O esôfago desce em C6, aperta em T4 e fura em T10. No estômago, o ar sobe pro fundo e o ácido desce pro antro. Gástrica esquerda é filha direta do tronco, a direita é neta da hepática própria."

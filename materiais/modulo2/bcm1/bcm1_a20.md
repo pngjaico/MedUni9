@@ -1,242 +1,93 @@
-﻿# Herança Autossômica Dominante
+# BCM1 — Aula 20: Herança Autossômica Dominante
 
-## Relevância Clínica e Acadêmica
+Diferente das doenças recessivas (que precisam de dois genes ruins), nas doenças dominantes basta **apenas um gene** estragado para a pessoa ficar doente. Na prova, o tema central é entender como a doença passa "em pé" nas gerações (Avo -> Pai -> Filho) e conhecer as síndromes clássicas como a de **Marfan**, a **Neurofibromatose** e a **Acondroplasia**.
 
-As doenças autossômicas dominantes (AD) têm como característica fundamental o fato de um único alelo mutado ser suficiente para produzir fenótipo patológico. Isso significa que 50% dos descendentes de um indivíduo afetado herdarão a doença — independentemente do sexo — e que a condição tende a aparecer em todas as gerações de uma família (padrão vertical). Para o médico, reconhecer esse padrão e conhecer as principais síndromes AD é crucial para orientar famílias, indicar rastreamento e aplicar terapia-alvo.
+Na prática, o médico deve saber que se um dos pais tem uma dessas doenças, cada filho tem exatamente **50% de chance** de nascer com ela também.
 
-Esta aula complementa as aulas de AR e XL ao completar o quadro dos padrões mendelianos. A Uninove costuma apresentar heredogramas para classificação do padrão ou questões clínicas diretas sobre as síndromes mais frequentes: síndrome de Marfan, neurofibromatose tipo 1, doença de Huntington, síndrome de Long QT, síndrome de BRCA1/2 e polipose adenomatosa familiar. Muitas dessas patologias têm mecanismos moleculares elegantes que explicam por que um único alelo é suficiente para causar a doença.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A20-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de características do padrão AD no heredograma.
+- **O que mostrar:** O "Padrão Escada": Um heredograma mostrando a doença em todas as gerações sem pular nenhuma. Destacar a chance de 50% em cada gravidez, mostrando um casal onde o pai é doente (Aa) e a mãe é normal (aa).
+- **Tipo sugerido:** Infográfico didático (Heredograma).
+- **Legenda (rascunho):** A transmissão vertical característica da herança autossômica dominante.
 
+## 1. Síndrome de Marfan (O "Homem de Borracha")
 
-
-
----
-
-
-
-## Mecanismos de Dominância
-
-Por que um único alelo mutado é suficiente para causar doença?
-
-### 1. Haploinsuficiência
-
-A célula precisa de 50% da proteína funcional para manter a homeostase, e a cópia mutada não produz proteína funcional. Com apenas uma cópia normal, a dose fica abaixo do limiar necessário.
-
-**Exemplos:** Síndrome de Marfan (*FBN1*) — diminuição de fibrilina impede a formação normal da matriz extracelular; *BRCA1/2* — haplo insuficiência para reparo de DSBs (no contexto de tumor, o segundo alelo sela o destino).
-
-### 2. Efeito Dominante Negativo
-
-A proteína mutada não apenas é inativa, mas interfere ativamente na proteína normal produzida pelo alelo selvagem. Como muitas proteínas formam complexos multíméricos, uma subunidade defeituosa pode contaminar todo o complexo.
-
-**Exemplos:** Osteogênese imperfecta tipo II/III (colágeno tipo I — heterotrimero; a cadeia mutada envenena os trimeros que incluem cadeias normais); p53 mutante (tetrâmero — o mutante pode "contaminar" o tetrâmero sequesitrando o selvagem).
-
-### 3. Ganho de Função (Gain of Function)
-
-A mutação confere à proteína uma atividade nova ou hiperativa, prejudicial.
-
-**Exemplos:** Doença de Huntington — a expansão de poliglutamina em HTT cria uma HTT mutante com toxicidade neuronal por ganho de função (a HTT normal permanece funcional; o problema é a nova função tóxica). Acondroplasia — mutação ativadora em FGFR3 → FGFR3 constitutivamente ativo → inibição da proliferação de condrócito → nanismo.
+O problema está na **Fibrilina**, uma proteína que dá estrutura aos tecidos.
+- **Sinais Clássicos:** O paciente é muito alto, tem os braços e dedos muito longos (**Aracnodactilia**).
+- **Olhos:** O cristalino do olho costuma sair do lugar e subir para **cima**.
+- **O Perigo Real:** A aorta (a maior artéria do coração) pode dilatar e romper. Esse é o maior risco de morte.
+- **Tratamento:** Medicamentos como o **Losartana** e betabloqueadores ajudam a proteger o coração.
 
 ---
 
-## Características do Padrão AD no Heredograma
+## 2. Neurofibromatose Tipo 1 (A Doença das Manchas)
 
-- Doença presente em **todas as gerações** (transmissão vertical)
-- Afeta **homens e mulheres igualmente**
-- **50% de risco** para cada filho de progenitor afetado
-- Indivíduo saudável geralmente **não transmite** a doença
-- Exceções que podem confundir:
-  - **Penetrância incompleta:** indivíduo com alelo mutado mas sem fenótipo — "pula geração" aparentemente
-  - **Nova mutação (de novo):** pais saudáveis, filho afetado (acondroplasia 80%; síndrome de Marfan 25%)
-  - **Expressividade variável:** mesma mutação, fenótipos diferentes na família
-  - **Antecipação:** piora progressiva a cada geração (Huntington, Miotônica)
+É a doença dominante mais comum. O erro está no gene **NF1**.
+- **Sinais:** Presença de 6 ou mais **Manchas Café-com-Leite** pelo corpo e pequenas bolinhas na íris do olho chamadas **Nódulos de Lisch**.
+- **Neurofibromas:** São pequenos tumores (geralmente benignos) que crescem nos nervos e aparecem como bolinhas na pele na adolescência.
 
 ---
 
-## Doenças AD Importantes
+## 3. Acondroplasia (O Nanismo Clássico)
 
-### Síndrome de Marfan
-
-**Gene:** *FBN1* (fibrilina-1) — 15q21.1
-**Herança:** AD (25% são novas mutações)
-**Mecanismo:** haploinsuficiência de fibrilina → fibras elásticas da matriz extracelular comprometidas; também: mais TGF-β livre (fibrilina sequestra TGF-β normalmente) → excesso de TGF-β → dilatação aórtica
-
-**Critérios de Ghent (revisados 2010):**
-- Ectasia dural + ectopia do cristalino + mutação *FBN1* confirmada → diagnóstico independente
-- Pontuação sistêmica ≥ 7 + Z-score aórtico ≥ 2
-
-**Clínica:**
-| Sistema | Manifestação |
-|---------|-------------|
-| Esquelético | Aracnodactilia (sinal de polegar de Steinberg, sinal do pulso de Walker), pectus excavatum/carinatum, escoliose, membros desproporcionalmente longos, palato ogival |
-| Olhos | Ectopia do cristalino **superior** (em 60%); miopia |
-| Cardiovascular | Dilatação da raiz aórtica → risco de dissecção aórtica (principal causa de morte); prolapso de válvula mitral |
-| Outros | Pneumotórax espontâneo, ectasia dural |
-
-**Tratamento:** losartana/valsartana (bloqueia TGF-β via AT1R) + betabloqueador → retarda dilatação aórtica. Cirurgia eletiva profilática da raiz aórtica quando Z-score ≥ 4,5–5 cm.
-
-### Neurofibromatose Tipo 1 (NF1)
-
-**Gene:** *NF1* (neurofibromina, supressor de tumor — Ras-GAP) — 17q11.2
-**Herança:** AD; 50% são novas mutações
-**Frequência:** 1:2.500–3.000 — doença AD mais comum
-
-**Critérios diagnósticos (NIH — 2 ou mais):**
-1. 6+ manchas café-com-leite > 5 mm (pré-puberes) / > 15 mm (pós-puberes)
-2. 2+ neurofibromas cutâneos ou 1 plexiforme
-3. Sardas axilares/inguinais (sinal de Crowe)
-4. Glioma óptico
-5. 2+ nódulos de Lisch (hamartomas da íris)
-6. Lesão óssea (esfenoide, pseudartrose da tíbia)
-7. Parente de 1º grau com NF1
-
-**Complicações:** neurofibrossarcoma (MPNST), carcinóide duodenal, leucemia mielóide, hipertensão (feocromocitoma, renovascular), epilepsia, déficit de aprendizagem.
-
-> **Dica:** NF1 é AD com penetrância quase completa mas expressividade MUITO variável — de apenas manchas café-com-leite até tumores internos graves na mesma família.
-
-### Neurofibromatose Tipo 2 (NF2)
-
-**Gene:** *NF2* (merlina/schwannomina, supressor de tumor) — 22q12
-**Característica:** schwannomas vestibulares bilaterais (VIII NC) → surdez + zumbido progressivo
-**Regra:** NF2 = bilateral schwannomas vestibulares = diagnóstico confirmado (independentemente de outros achados)
-
-### Esclerose Tuberosa (TSC)
-
-**Genes:** *TSC1* (hamartina, 9q34) ou *TSC2* (tuberina, 16p13.3)
-**Mecanismo:** reguladores da via mTOR — sem TSC1/2 → mTOR hiperativada → crescimento celular descontrolado
-**Clínica:** manchas hipopigmentadas (folha de freixo), angiofibromas faciais (adenoma sebáceo), hamartomas corticais (tubérculos), rabdomiomas cardíacos, angiomiolipomas renais, linfangioleiomiomatose pulmonar, epilepsia, DI
-**Tratamento:** everolimo/sirolimo (inibidores de mTOR) → redução dos hamartomas
-
-### Acondroplasia
-
-**Gene:** *FGFR3* (receptor do fator de crescimento de fibroblasto 3) — 4p16.3
-**Mutação:** predominantemente G380R — substitui glicina por arginina no domínio transmembrânico
-**Mecanismo:** ganho de função — FGFR3 constitutivamente ativo → inibe proliferação de condrócitos → nanismo rizomélico (membros encurtados proximalmente, tronco normal)
-**Herança:** AD; **80% são novas mutações** (correlação com idade paterna avançada)
-**Clínica:** nanismo com membros curtos, macrocefalia, fronte proeminente, tridente das mãos, estenose lombar em adultos, inteligência normal.
-
-> **Dica Uninove:** Acondroplasia = GANHO DE FUNÇÃO em FGFR3. Ao contrário de quase todas as AD que são haploinsuficiência ou dominante negativo, aqui o receptor fica hiperativo. 80% são novas mutações = pais com estatura normal.
-
-### Doença de Huntington
-
-**Gene:** *HTT* (4p16.3); repetição de CAG na região codificante do éxon 1 → poliglutamina (polyQ)
-- Normal: 6–35 repetições CAG
-- Pré-mutação: 36–39 (penetrância reduzida)
-- Mutação plena: ≥ 40 (penetrância completa)
-
-**Mecanismo:** ganho de função tóxica — HTT com polyQ forma agregados intracelulares → toxicidade neuronal no estriado (neurônios GABAérgicos do núcleo caudado)
-
-**Antecipação:** expansão da repetição aumenta mais ao passar pelo espermatozoide (transmissão paterna) → início mais precoce em filhos de pais afetados.
-
-**Clínica:** início típico 30–50 anos; tríade: distúrbio do movimento (coreia, distonia), demência progressiva, transtorno psiquiátrico (depressão, psicose). Progressão inexorável → morte em 10–20 anos.
-
-**Diagnóstico:** clínico + teste molecular (contagem de CAG). Testes preditivos em indivíduos em risco → protocolos éticos rigorosos (International Huntington Association).
-
-**Tratamento:** sintomático (tetrabenazina/deutetrabenazina para coreia; antipsicóticos; ansiolíticos). Sem tratamento modificador de doença aprovado (antisense oligonucleotídeos em ensaios clínicos).
-
-### Síndrome de Long QT Congênita (cLQTS)
-
-**Herança:** AD (Romano-Ward) ou AR com surdez (síndrome de Jervell e Lange-Nielsen)
-**Genes:** *KCNQ1* (LQT1), *KCNH2* (LQT2), *SCN5A* (LQT3), entre outros
-**Mecanismo:** canais de potássio (LQT1, LQT2) ou sódio (LQT3) cardíacos com função alterada → repolararização prolongada → QTc alargado → risco de torsades de pointes → morte súbita
-
-**Gatilhos:**
-- LQT1: exercício (especialmente natação)
-- LQT2: sons súbitos (despertador, telefone)
-- LQT3: bradicardia/sono
-
-**Tratamento:** betabloqueador (LQT1/2); CDI se risco alto; restrições à natação.
-
-### Polipose Adenomatosa Familiar (PAF)
-
-**Gene:** *APC* — 5q22.2 (supressor de tumor, regulador da via WNT/β-catenina)
-**Herança:** AD; ~25% novas mutações
-
-**Clínica:** centenas a milhares de pólipos adenomatosos colorretais a partir da puberdade → risco de CCR quase 100% até 40 anos se não tratado; osteomas, DFSP (fibroma desmóide), cistos epidermóides, hiperpigmentação da retina (CHRPE).
-
-**Variante atenuada (AFAP):** *APC* mutação em 5' ou 3' → 10–100 pólipos; onset mais tardio.
-
-**Tratamento:** colectomia profilática total (sigmóide-sparing se mutação favorável) → geralmente antes dos 20–25 anos; rastreamento da família.
-
-> **Pegadinha:** PAF tem instabilidade cromossômica (CIN), não MSI. Distinguir de síndrome de Lynch (MMR defeituoso, MSI-H, < 100 pólipos). Banca adora confundir.
-
-### Síndrome de BRCA1/2 — Câncer de Mama/Ovário Hereditário
-
-**Genes:** *BRCA1* (17q21.31) e *BRCA2* (13q12.3) — supressores tumorais envolvidos no HRR
-**Herança:** AD (penetrância incompleta; risco depende da mutação específica)
-
-**Riscos aproximados com mutação patogênica:**
-| Gene | Mama (vida toda) | Ovário (vida toda) |
-|------|-----------------|-------------------|
-| *BRCA1* | 60–70% | 40–50% |
-| *BRCA2* | 45–60% | 10–20% |
-
-**Outros riscos:** BRCA2 — câncer de pâncreas (5×), próstata (7×), melanoma.
-
-**Indicação de teste germinativo:** história pessoal ou familiar de CA mama ≤ 50 anos, bilateral, masculino; CA ovário, pâncreas ou próstata metastático. Critérios de Manchester, NCCN.
-
-**Manejo:** vigilância intensiva (RNM mama anual), mastectomia preventiva, salpingooforectomia profilática (40–45 anos para BRCA1; 40–50 para BRCA2), quimioprofilaxia (tamoxifeno). Se câncer ativo: PARP inibidores (olaparibe, niraparibe).
+Causada por uma mutação no gene **FGFR3**.
+- **Como acontece:** O gene do crescimento fica o tempo todo "ligado" e acaba travando o crescimento dos ossos longos.
+- **Dica de Prova:** **80% dos casos são novos**. Ou seja, os pais têm altura normal, mas houve um erro no DNA durante a fabricação dos gametas (geralmente ligada à idade avançada do pai).
+- **Mecanismo:** É um **Ganho de Função** (o gene trabalha demais e acaba atrapalhando).
 
 ---
 
-## Pontos-Chave
+## 4. Doença de Huntington
 
-- **AD:** 50% risco; vertical; igual em ambos os sexos; homem/mulher afetados transmitem para filhos
-- **Haploinsuficiência:** dose única insuficiente (Marfan, BRCA1/2, NF1, PAF)
-- **Dominante negativo:** proteína mutante inibe a normal (OI col. I, p53)
-- **Ganho de função:** atividade nova tóxica (Huntington polyQ, acondroplasia FGFR3)
-- **Marfan:** FBN1, ectopia superior, dilatação aórtica → dissecção → morte; losartana + betabloqueador
-- **NF1:** NF1/17q11, manchas café-com-leite + nódulos de Lisch + neurofibromas; 50% novas mutações; AD mais comum
-- **Huntington:** CAG > 40 em HTT; coreia + demência + psiquiátrico; antecipação paterna; sem cura
-- **Acondroplasia:** FGFR3 ganho de função; nanismo rizomélico; 80% novas mutações
-- **PAF:** APC/5q22; centenas de pólipos; CCR quase obrigatório; colectomia profilática; CIN não MSI
-- **BRCA1/2:** HRR defeituoso; mama + ovário; PARP inibidores; mastectomia/oforectomia preventiva
+Diferente das outras, os sintomas só aparecem por volta dos 40 anos.
+- **Tríade:** Movimentos involuntários (parece que a pessoa está dançando - Coreia), problemas de humor e demência.
+- **Antecipação:** A doença fica mais grave e começa mais cedo a cada geração porque o DNA vai "esticando" (repetição da letra **CAG**).
 
 ---
 
 ## Ponte com a Clínica
 
-**Criança alta e magra com ectopia de cristalino ou sopro no ambulatório:** Síndrome de Marfan. Ecocardiograma urgente (diâmetro da raiz aórtica). Se Z-score > 2 → betabloqueador + losartana. Rastrear família com ecocardiograma.
+O diagnóstico de **Long QT** (Síndrome do QT Longo) é uma causa importante de morte súbita em jovens. É uma doença dominante que afeta os canais de eletricidade do coração. O médico deve suspeitar quando um jovem desmaia ao ouvir um barulho alto (como um despertador) ou durante a natação. O tratamento com betabloqueadores é simples e salva vidas, evitando que o coração sofra uma arritmia fatal.
 
-**Adulto 40 anos com coreia de início recente + pai internado em asilo com demência:** Huntington. Solicitar história familiar detalhada. Discutir com o paciente antes de indicar teste molecular (ele pode não querer saber; protocolo ético obrigatório). Se confirmar → otimizar tratamento sintomático + suporte psicossocial.
+---
 
-**Adolescente com 15–20 anos submetido a colonoscopia:** PAF (histórico familiar). Se confirmado → programar colectomia profilática + rastrear osteomas (panorâmica dental) + afastar Síndrome de Gardner.
+## Pontos-Chave para Prova
 
-**Mulher 32 anos com CA mama bilateral + mãe e tia com CA ovário:** câncer hereditário de mama/ovário. Solicitar painel BRCA1/BRCA2 germinativo. Se positivo → salpingooforectomia profilática após completar prole (BRCA1 aos 35–40 anos). Discutir mastectomia contralateral preventiva.
+- **Herança AD**: Vertical, afeta homens e mulheres, **50% de risco**.
+- **Marfan**: Cristalino para **cima** e aneurisma de aorta.
+- **Neurofibromatose**: 6+ **Manchas Café-com-Leite** e nódulos de Lisch.
+- **Acondroplasia**: Nanismo de membros curtos, **80% de novos casos**.
+- **Huntington**: Repetição **CAG**, coreia e demência aos 40 anos.
+- **BRCA1/2**: Herança de alto risco para câncer de **Mama e Ovário**.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **AD:** vertical, 50%, ambos os sexos; exceções: penetrância incompleta, nova mutação, antecipação
-- **Marfan:** FBN1, ectopia SUPERIOR, dilatação aórtica, aracnodactilia; losartana + betabloqueador
-- **NF1:** 17q11, manchas café-com-leite (≥6) + nódulos Lisch + neurofibromas; AD mais comum; 50% novas mutações
-- **Huntington:** CAG > 40, coreia + demência, antecipação paterna; ganho de função polyQ
-- **Acondroplasia:** FGFR3 ganho de função; 80% novas mutações; nanismo rizomélico; inteligência normal
-- **PAF:** APC, centenas de pólipos, CCR obrigatório sem colectomia; CIN (não MSI)
-- **BRCA1/2:** mama + ovário; HRR defeituoso; PARP inibidor; mastectomia/oforectomia preventiva
-- **Long QT:** KCNQ1/KCNH2/SCN5A; QTc alargado; torsades; betabloqueador
-- **Haploinsuficiência x ganho de função:** NF1/Marfan = haplo; FGFR3/HTT = ganho de função
+
+Para gabaritar Herança Dominante, decore as tríades. 
+A Uninove ama a **Acondroplasia**: lembre-se que os pais costumam ser normais (mutação *de novo*). No **Marfan**, o perigo está na **Aorta**. Na **Neurofibromatose**, conte as manchas café-com-leite (precisa de 6 ou mais).
+
+Fique atento ao mecanismo: a maioria das doenças dominantes acontece por **Haploinsuficiência** (metade da proteína não é suficiente), mas a Acondroplasia e o Huntington são por **Ganho de Função** (a proteína mutada começa a fazer coisas novas e ruins). E na **Polipose Adenomatosa (PAF)**, o paciente tem centenas de pólipos no intestino e vai ter câncer se não operar cedo.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| NF1 | NF2 | NF1 = manchas café-com-leite + neurofibromas periféricos; NF2 = schwannomas vestibulares BILATERAIS, surdez |
-| PAF | Síndrome de Lynch | PAF = APC, centenas de pólipos, CIN; Lynch = MMR, < 100 pólipos, MSI-H |
-| Marfan (ectopia) | Homocistinúria (ectopia) | Marfan = AD, ectopia SUPERIOR; Homocistinúria = AR, ectopia INFERIOR |
-| Huntington (AD) | Tay-Sachs (AR) | Huntington = AD, adulto, ganho de função CAG; Tay = AR, lactente, depósito GM2 |
-| Long QT Romano-Ward | Long QT Jervell e Lange-Nielsen | Romano-Ward = AD, sem surdez; Jervell = AR, com surdez |
+| **Marfan** | **Homocistinúria** | Cristalino p/ **CIMA** (AD) vs **Cristalino p/ BAIXO (AR)** |
+| **NF1** | **NF2** | Manchas na pele vs **Surdez por tumor no nervo (Bilateral)** |
+| **Acondroplasia** | **Nanismo Hipofisário** | Problema no Gene (FGFR3) vs **Falta de Hormônio do Crescimento (GH)** |
+| **Linfoma de Lynch** | **PAF** | Poucos pólipos vs **Centenas de pólipos (Centenas!)** |
+| **Penetrância** | **Expressividade** | Ter ou não a doença vs **Quão grave ela se manifesta** |
 
 ### Frase-âncora para não esquecer
-> "AD = UMA cópia mutada basta. Às vezes porque falta proteína (haploinsuficiência: Marfan, NF1, BRCA, PAF). Às vezes porque a proteína mutada envenena a normal (dominante negativo: colágeno OI). Às vezes porque a mutação cria um monstro que faz coisas que não devia (ganho de função: Huntington, acondroplasia)."
+
+> "Dominante brilha no pai e no filho sem falha; no Marfan a aorta é a grande batalha; na NF as manchas são a sua medalha. Huntington treme e o anão não cresce — se o gene é dominante, 50% ele merece."

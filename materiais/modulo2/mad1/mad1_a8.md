@@ -1,160 +1,89 @@
-﻿# Tolerância Imunológica e Autoimunidade
+# MAD1 — Aula 8: Tolerância Imunológica e Autoimunidade
 
-## Relevância Clínica e Acadêmica
+A tolerância imunológica é o mecanismo que impede o sistema imune de atacar os próprios tecidos. Na prova, os temas centrais são a diferenciação entre **Tolerância Central e Periférica**, o papel do gene **AIRE** e o mecanismo de **Mimetismo Molecular**.
 
-A tolerância imunológica é o mecanismo pelo qual o sistema imune aprende a não atacar os próprios tecidos — é o oposto da resposta imune. Quando essa tolerância falha, o resultado são as doenças autoimunes, que afetam ~5% da população e representam uma das principais causas de morbidade crônica. Lúpus eritematoso sistêmico, artrite reumatoide, diabetes mellitus tipo 1, esclerose múltipla e doença de Hashimoto são todas consequências da autoimunidade.
+Na prática, a quebra dessa tolerância resulta em doenças autoimunes sistêmicas (ex: Lúpus) ou órgão-específicas (ex: Diabetes Tipo 1).
 
-O tema é relevante tanto para a prática clínica quanto para o ENEM e residências médicas. A Uninove frequentemente cobra os mecanismos de tolerância (central vs. periférica), os fatores que induzem autoimunidade e as doenças autoimunes mais prevalentes.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de tolerância central.
+- **O que mostrar:** Esquema didático da maturação no timo: Seleção Positiva (reconhece o MHC) e Seleção Negativa (não reconhece o "Eu").
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** O "Treinamento" dos Linfócitos T no Timo.
 
+## Tolerância Central vs. Periférica
 
-
-
----
-
-
-
-## Tolerância Central
-
-Ocorre nos **órgãos linfoides primários** durante o desenvolvimento do linfócito:
-
-### Para Linfócitos T (no Timo)
-1. **Seleção positiva** (córtex): timócito reconhece MHC próprio → sobrevive
-2. **Seleção negativa** (medula tímica): timócito con alta afinidade pelo self → apoptose (deleção clonal)
-   - Regulada pelo gene **AIRE** (AutoImmune REgulator): permite expressão de antígenos periféricos no timo
-   - Mutação em AIRE → síndrome **APECED** (poliendocrinopatia autoimune)
-
-### Para Linfócitos B (na Medula Óssea)
-- Células B autorreativas passam por:
-  1. **Deleção clonal:** apoptose se alta afinidade pelo self
-  2. **Edição de receptor:** rearranjo de outro gene VL para substituir a cadeia autorreativa
-  3. **Anergia:** entra em circulação irresponsivo (sem segundos sinais para ativá-la)
-
----
-
-## Tolerância Periférica
-
-Mecanismos para lidar com linfócitos autorreativos que escapam da tolerância central:
-
-| Mecanismo | Descrição |
-|---|---|
-| **Anergia** | Reconhece auto-Ag mas sem coestimulação (ausência de B7/CD80-86) → desativação funcional |
-| **Supressão por Treg** | Células T reg (CD4+CD25+FoxP3+) secretam IL-10 e TGF-β → suprimem resposta auto |
-| **Apoptose por AICD** | Ativação repetida → expressão de Fas → apoptose (morte celular induzida por ativação) |
-| **Ignorância clonal** | Auto-Ag em locais imunoprivi­legiados (olho, SNC) → linfócito não acessa o antígeno |
-
-> **Dica:** FoxP3 = fator de transcrição das Tregs. Mutação em FoxP3 → síndrome IPEX (poliautoimmunidade grave: endocrinopatia, enteropatia, eczema — ligada ao X).
-
----
-
-## Mecanismos de Quebra da Tolerância
-
-### 1. Mimetismo Molecular
-- Antígeno microbiano estruturalmente similar a autoantígeno → anticorpos e células T cruzam-reagência
-- Exemplos:
-  - *Streptococcus pyogenes* (proteína M) × proteínas cardíacas → **febre reumática**
-  - *Campylobacter jejuni* × gangliosídeos do nervo periférico → **síndrome de Guillain-Barré**
-
-### 2. Liberação de Antígenos Sequestrados
-- Antígenos normalmente em locais imunoprivilegiados (cristalino, espermatozoides) → lesão tece libe­ra para circulação → resposta autoimune
-- Exemplo: **orquite autoimune** após trauma ou infecção testicular
-
-### 3. Ativação Inespecífica de Linfócitos (Bystander Activation)
-- Microrganismo ativa células T não-específicas que depois atacam auto-antígenos
-
-### 4. Deficiência de Células Treg
-- Sem supressão adequada → células autorreativas ativas
-
----
-
-## Doenças Autoimunes — Panorama
-
-### Classificação
-
-| Tipo | Órgão-alvo | Exemplo |
+| Tipo | Local | Mecanismo Principal |
 |---|---|---|
-| Órgão-específica | Um órgão | Hashimoto, Graves, DM tipo 1, miastenia gravis |
-| Sistêmica | Múltiplos órgãos | LES, artrite reumatoide (AR), síndrome de Sjögren |
+| **Central** | Timo (T) / Medula (B) | **Deleção Clonal** (Apoptose de células autorreativas). |
+| **Periférica** | Sangue e Tecidos | **Anergia** (Falta de 2º sinal) e Supressão pelas **Tregs**. |
 
-### Doenças Principais e Mecanismos
+> **Dica de Prova:** O gene **AIRE** permite que o timo "mostre" proteínas de outros órgãos (como insulina) para os linfócitos em treinamento. Sem ele, o linfócito sai do timo sem saber o que é o "Eu" da periferia, causando poliendocrinopatia.
 
-| Doença | Autoantígeno | Mecanismo Predominante |
+---
+
+## Como a Tolerância é Quebrada?
+
+- **Mimetismo Molecular:** O corpo confunde uma proteína da bactéria com uma proteína própria.
+  - Ex: **Febre Reumática** (Anticorpo contra o *Streptococcus* ataca as válvulas do coração).
+- **Liberação de Antígenos Sequestrados:** Lesões que liberam proteínas de locais protegidos (olhos, testículos) para o sangue, onde o sistema imune nunca as viu antes.
+- **Fatores Genéticos:** Relação forte com genes do **HLA** (MHC).
+
+---
+
+## Principais Doenças Autoimunes
+
+| Doença | Alvo Principal | Mecanismo de Prova |
 |---|---|---|
-| LES | DNA dupla-fita, histonas, Smith | Anticorpos + depósito de imunocomplexos (tipo III) |
-| Artrite reumatoide | IgG (Fator reumatoide), CCP | Inflamação sinovial por Th17 e anticorpos |
-| DM tipo 1 | Células β do pâncreas (GAD65, insulina) | Destruição por T CD8+ (tipo IV) |
-| Miastenia gravis | Receptor de acetilcolina (AChR) | IgG bloqueia/destrói AChR (tipo II) |
-| Doença de Graves | Receptor de TSH (TSHr) | IgG estimula TSHr → hipertireoidismo (tipo II) |
-| Doença de Hashimoto | Tireoperoxidase (TPO), tireoglobulina | Inflamação por Th1 + auto-Ac → hipotireoidismo |
-| Esclerose múltipla | Mielina (MBP, MOG) | T CD4+ Th1 atacam bainha de mielina |
-| Síndrome de Sjögren | SSA (Ro), SSB (La) — ribonucleoproteínas | Inflamação de glândulas exócrinas |
-
-> **Pegadinha LES:** anticorpo anti-DNA de dupla fita (anti-dsDNA) = específico para LES + marcador de atividade da doença. Anti-Smith (anti-Sm) = específico porém menos sensível.
-
----
-
-## Fatores de Risco para Autoimunidade
-
-- **Genéticos:** HLA-DR associado a AR (HLA-DR4), DM1 (HLA-DR3/DR4), LES (HLA-DR2/3)
-- **Hormonais:** prevalência maior em mulheres (estrogênio aumenta resposta Th2/anticorpos)
-- **Ambientais:** exposição a vírus, bactérias (mimetismo), tabaco, UV (LES)
-- **Deficiência de Treg:** controle inadequado
-
----
-
-## Pontos-Chave
-
-- Tolerância central = timo (T) e medula óssea (B) → deleção de autorreativos
-- AIRE no timo: expressa antígenos periféricos para selecção negativa; mutação → APECED
-- Tolerância periférica: anergia, Treg (FoxP3), AICD, ignorância clonal
-- Quebra da tolerância: mimetismo molecular, antígenos sequestrados, ativação bystander
-- LES: anti-dsDNA + Anti-Sm; imunocomplexos → inflamação sistêmica
-- Miastenia gravis: IgG bloqueia AChR (tipo II); Graves: IgG estimula TSHr (tipo II)
-- DM tipo 1: T CD8+ destrói células β (tipo IV)
+| **Lúpus (LES)** | DNA e Núcleo | **Anticorpo anti-dsDNA** (Marcador de atividade). |
+| **Diabetes Tipo 1** | Células Beta | Destruição celular (T CD8+). |
+| **Miastenia Gravis** | Junção Neuromuscular | Bloqueio do receptor de acetilcolina. |
+| **Doença de Graves** | Tireoide | Estimulação do receptor de TSH (Hipertireoidismo). |
+| **Hashimoto** | Tireoide | Destruição inflamatória (Hipotireoidismo). |
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Mulher de 28 anos com eritema malar "em borboleta", artralgia, fotossensibilidade e proteinúria. FAN+ (1:640), anti-dsDNA+, complemento C3 e C4 baixos.
-- **LES** — depósito de imunocomplexos (DNA + anti-dsDNA) ativa complemento → consome C3/C4
-- Nefrite lúpica: depósito de complexos nos glomérulos → proteinúria
-- C3/C4 baixos = consumo por ativação de complemento = marcador de atividade do LES
-- Tratamento: hidroxicloroquina (base); corticoide/imunossupressor nas crises
+No **Lúpus Eritematoso Sistêmico (LES)**, o excesso de anticorpos contra o DNA forma "lixos" (imunocomplexos) que entopem os vasos e os rins. No consultório, se o paciente tem proteinúria (perda de proteína na urina) e o **Complemento (C3/C4)** está baixo, significa que a doença está ativa e consumindo as defesas do corpo nos tecidos.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Tolerância Central**: Ocorre no Timo e Medula; remove autorreativos.
+- **Tregs**: Células supressoras (**FoxP3+**); usam **IL-10** para acalmar os ânimos.
+- **Mimetismo**: Infecção prévia que gatilha autoimunidade (ex: febre reumática).
+- **Anti-dsDNA**: Exame específico para Lúpus Agudo.
+- **Anergia**: Quando o linfócito vê o antígeno mas não recebe o "segundo sinal".
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Tolerância central:** timo (T) e medula óssea (B) — elimina/inativa autorreativos
-- **AIRE:** expressa auto-Ag no timo; mutação → APECED (poliendocrinopatia)
-- **Tregs:** CD4+CD25+FoxP3+ → IL-10 + TGF-β → supressão; FoxP3 mutado → IPEX
-- **Mimetismo molecular:** *Streptococcus* → febre reumática; *Campylobacter* → Guillain-Barré
-- **Anti-dsDNA:** específico para LES + marcador de atividade
-- **C3/C4 baixos em LES:** consumo pelo complemento via imunocomplexos
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Grave o "filtro de qualidade". 
+A **Tolerância Central** é a escola primária: quem tenta bater nos colegas (tecidos próprios) é expulso (Apoptose). Quem escapa dessa escola é pego na rua pela **Tolerância Periférica**, onde as **Tregs** funcionam como policiais que dão "voz de prisão" (Supressão) ou de ignorar (**Anergia**).
+
+Em doenças: o **Lúpus** é a "doença do lixo acumulado" (imunocomplexos). Se o enunciado fala de **anti-dsDNA** ou queda de **C3/C4**, marque Lúpus Ativo. Na tireoide, se o anticorpo "aperta o botão" de ligar, é **Graves** (Hiper); se ele "destrói a lâmpada", é **Hashimoto** (Hipo). Por fim, o **Mimetismo** é o "falso culpado": o sistema imune confunde a proteína da bactéria com a válvula do coração e ataca o lugar errado.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Tolerância central | Tolerância periférica | Central = timo/medula (elimina linfócito); Periférica = anergia, Treg, AICD (controla na periferia) |
-| Doença autoimune órgão-específica | Sistêmica | Órgão-específica = Hashimoto, DM1; Sistêmica = LES, AR |
-| Anti-dsDNA | Anti-Smith | Ambos = LES; anti-dsDNA = mais sensível + marcador atividade; anti-Sm = mais específico |
-| Miastenia gravis | Síndrome de Lambert-Eaton | Miastenia: fraqueza piora com uso repetido (AChR bloqueado); Lambert-Eaton: melhora com uso repetido (canais de Ca bloqueados) |
-| Graves | Hashimoto | Graves: IgG estimula TSHr → hipertireoidismo; Hashimoto: destruição inflamatória → hipotireoidismo |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Tolerância Central** | **Tolerância Periférica** | **Elimina Células** (Timo) vs **Inativa Células** (Periferia) |
+| **Diabetes Tipo 1** | **Diabetes Tipo 2** | **Autoimune/Magra** vs Resistência à Insulina/Obesidade |
+| **Anti-dsDNA** | **Fator Antinuclear (FAN)** | **Específico** para Lúpus vs Sensível para muitas doenças |
+| **Hashimoto** | **Graves** | **Hipotireoidismo** vs Hipertireoidismo |
+| **Miastenia Gravis** | **Esclerose Múltipla** | Junção do músculo vs **Bainha de mielina (SNC)** |
 
 ### Frase-âncora para não esquecer
-> "Tolerância é a escola do sistema imune: o timo ensina (central) e a periferia pune quem burla as regras (anergia, Treg). Quando a escola falha, o sistema vira contra si mesmo — autoimunidade."
+
+> "Central mata no ninho, Periférica acalma o caminho; AIRE ensina o vizinho, FoxP3 é o freio no espinho."

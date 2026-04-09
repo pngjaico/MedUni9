@@ -1,118 +1,93 @@
 # MAD2 — Aula 18: Antibióticos — Inibidores de Síntese de DNA e Antimetabólitos
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+Os antibióticos que atacam o "comando central" da bactéria (DNA) ou sua "energia vital" (Folato) são ferramentas poderosas. Na prova, os temas centrais são as **Quinolonas** (Ciprofloxacino), as **Sulfas** (Bactrim) e o papel do **Metronidazol** em infecções por anaeróbios.
+
+Na prática, o médico deve saber que o uso dessas drogas exige cuidado em idosos e atletas devido ao risco de lesões em tendões, e que a resistência bacteriana, especialmente em infecções urinárias, está tornando muitas dessas opções de primeira linha obsoletas.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Tema clássico por mecanismo molecular e risco de resistência. Em prova, diferenciação de classes e efeitos adversos é frequente.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo **fisiopatológico**, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A18-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo de ação.
+- **O que mostrar:** O "Corte de Energia e Comando": Uma ilustração da dupla hélice de DNA sendo "desenhada". O antibiótico Quinolona travando a tesoura (**DNA Girase**). Paralelamente, uma linha de produção de ácido fólico sendo interrompida em dois pontos pelas Sulfas e Trimetoprima (**Bloqueio Sequencial**).
+- **Type sugerido:** Infográfico didático | Esquema metabólico.
+- **Legenda (rascunho):** Mecanismos de ação nas vias do DNA e do folato bacteriano.
 
-## Conceito Central
+## 1. Quinolonas: Quebrando a Hélice
 
-Esses antibióticos interferem em replicação de **DNA** ou metabolismo de folato bacteriano, bloqueando crescimento microbiano.
+Elas atacam as enzimas que controlam o enovelamento do DNA (**DNA Girase** e **Topoisomerase IV**). Sem isso, a bactéria não consegue se duplicar e morre.
+- **Ciprofloxacino:** O rei das infecções urinárias e gastrointestinais por Gram-negativos.
+- **Levofloxacino / Moxifloxacino ("Quinolonas Respiratórias"):** Ganham força contra o *Pneumococo*, sendo muito usadas em pneumonias graves.
+- **Efeito Colateral Grave:** Podem causar **Ruptura do Tendão de Aquiles** e alterações no sistema nervoso (confusão mental em idosos).
 
-## Eixo 1
+---
 
-Inibidores de **DNA**: efeito sobre enzimas de replicação bacteriana.
+## 2. Sulfonamidas e Trimetoprima: O Bloqueio do Folato
 
-## Eixo 2
+Bactérias precisam fabricar seu próprio ácido fólico para sobreviver; humanos pegam da comida. Por isso, esse remédio é tóxico para a bactéria e seguro para nós.
+- **Bactrim (Sulfametoxazol + Trimetoprima):** Usado para infecções urinárias e a droga de escolha para prevenir a pneumonia por *Pneumocystis* no **HIV**.
+- **Atenção:** As duas drogas juntas fazem um **Bloqueio Sequencial**, o que as torna muito mais potentes do que se fossem usadas sozinhas.
+- **Efeito Colateral:** Pode causar **Anemia Megaloblástica** e reações de pele graves (Síndrome de Stevens-Johnson).
 
-Antimetabólitos: bloqueio sequencial do metabolismo do folato.
+---
 
-## Eixo 3
+## 3. Metronidazol: O Terror dos Anaeróbios
 
-Risco de resistência e necessidade de uso racional.
+Age causando danos diretos na hélice do DNA por meio de radicais livres.
+- **Uso:** Funciona apenas contra **Anaeróbios** (bactérias que vivem sem oxigênio) e protozoários (Ameba e Giardia).
+- **Destaque:** É usado para infecções abdominais e ginecológicas.
+- **Efeito Antabuse (Dissulfiram):** Se o paciente beber álcool enquanto toma Metronidazol, terá vômitos violentos, dor de cabeça e pressão baixa. **Álcool é proibido!**
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Infecção urinária complicada | Alvo em replicação bacteriana | Ajustar por perfil local de resistência |
-| Uso combinado em antimetabólito | Bloqueio metabólico sequencial | Sinergia terapêutica |
-| Falha em uso repetido | Seleção de resistência | Revisar histórico e cultura |
+## 4. Nitrofurantoína: O Antisséptico Urinário
 
-## Checklist de Raciocínio
+Age em vários pontos da síntese de DNA e proteínas.
+- **Uso:** É usada quase exclusivamente para **Cistite** (infecção da bexiga) não complicada.
+- **Vantagem:** Quase não causa resistência bacteriana fora da bexiga, preservando a flora normal do corpo.
+- **Limite:** Não serve para infecção nos rins (Pielonefrite), pois não atinge concentração boa fora da urina.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-Na prática, racionalidade antimicrobiana reduz resistência e preserva efetividade das classes.
+No pronto-socorro, a prescrição de **Quinolonas** para qualquer cistite simples deve ser evitada. O Brasil tem altas taxas de resistência da *E. coli* ao Ciprofloxacino. Além disso, em pacientes idosos com demência, o uso dessas drogas pode piorar o estado de confusão mental (**Delirium**). O médico deve priorizar a **Nitrofurantoína** ou a Fosfomicina para casos simples, reservando as quinolonas para infecções realmente graves ou complicadas.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **DNA Girase**: Principal alvo das Quinolonas; essencial para a replicação.
+- **Bloqueio Sequencial do Folato**: Sinergia entre Sulfametoxazol e Trimetoprima.
+- **Metronidazol**: Droga de escolha para anaeróbios "abaixo do diafragma" e efeito antabuse.
+- **Tendinites e Rupturas**: Risco musculoesquelético associado ao uso de Quinolonas.
+- **Nitrofurantoína**: Excelente para cistite, péssima para infecções sistêmicas ou renais.
+
+---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Inibidores de DNA, foque no local da infecção. 
+**Bexiga** = Nitrofurantoína. **Rim ou Urina Complicada** = Ciprofloxacino. **Abscesso Abdominal** = Metronidazol. Se a questão fala de um paciente com HIV que precisa prevenir pneumonia, a resposta é **Bactrim**. Lembre-se: Quinolona (Cipro/Levo) termina em "oxacino" e tem risco de quebrar tendão.
 
-Síndrome dominante: define direção da hipótese principal. Mecanismo-chave: explica sinais e exames mais relevantes.
-
-Diferencial crítico: separa alternativas muito parecidas. Marcador de gravidade: muda urgência e nível de cuidado.
-
-Conduta inicial: precisa ser segura e justificável.
+A Uninove adora o **Efeito Antabuse**. Se o paciente tomou Metronidazol e passou mal após um copo de cerveja, a culpa é da interação química. Outro ponto forte: as Quinolonas respiratórias (Levo/Moxi) são usadas quando o paciente tem falha no tratamento comum de pneumonia. Por fim, saiba que as **Sulfas** são contraindicadas no final da gestação (risco de Kernicterus/icterícia grave no bebê) e em pacientes com deficiência de G6PD.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Ciprofloxacino** | **Levofloxacino** | Foco em **Gram-negativos/Urina** vs Foco em **Pulmão (Respiratória)** |
+| **Metronidazol** | **Clindamicina** | Anaeróbios **Abdominal** vs Anaeróbios **Boca/Pulmão** |
+| **Nitrofurantoína** | **Ciprofloxacino** | Só para **Cistite** vs Usado em **Pielonefrite** |
+| **Sulfa** | **Trimetoprima** | Inibe etapa 1 do folato vs **Inibe etapa 2 (Sinergia)** |
+| **Antagonista do DNA** | **Beta-lactâmico** | Mata o "cérebro" vs **Quebra a carapaça (parede)** |
 
 ### Frase-âncora para não esquecer
 
-> "Sem uso racional, antibiótico perde potência coletiva."
-
-## Revisão Expressa em 5 Perguntas
-
-- Qual é o mecanismo fisiopatológico central desta aula?
-- Qual achado diferencia melhor o principal diagnóstico diferencial?
-- Qual sinal de gravidade muda conduta imediatamente?
-- Qual exame tem maior valor para confirmar hipótese principal?
-- Qual erro de prova é mais comum nesse tema?
+> "Quinolona trava a girase e pode o tendão quebrar; Metronidazol mata o que o ar não deixa respirar. A Sulfa rouba o folato para a bactéria definhar, mas se beber um gole com Metronidazol, o estômago vai reclamar."

@@ -1,157 +1,94 @@
-﻿# BMF2 — Aula 15: Prática — Anatomia e Histologia Cardiovascular
+# BMF2 — Aula 15: Prática — Anatomia e Histologia Cardiovascular
 
-## Relevância Clínica e Acadêmica
+Esta aula prática foca no reconhecimento de estruturas macro e microscópicas para estações de OSPE. Na prova, o sucesso depende da **Orientação da Peça**, da identificação de câmaras e valvas, e da diferenciação histológica entre **Artérias** e **Veias**.
 
-As aulas práticas de morfologia são o espaço em que o conhecimento teórico se ancora em estruturas reais. Reconhecer o coração peças anatômicas, identificar câmaras, valvas e grandes vasos, e correlacionar com o que se vê em lâminas histológicas prepara o estudante para raciocinar em imagens — ecocardiograma, tomografia, necropsia. Na prova, questões com figuras de peças anatômicas ou fotomicrografias exigem exatamente o repertório visual construído nesta prática.
+Na prática, cada estrutura identificada deve ser justificada por critérios morfológicos claros e associada à sua função hemodinâmica.
 
-A **Uninove** utiliza questões de associação entre imagem histológica e estrutura cardiovascular, especialmente para diferenciar os tipos de músculo cardíaco, as camadas cardíacas e a histologia vascular. Este material consolida os pontos de maior rendimento para a prova prática e teórica.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF2-A15-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Roteiro de laboratório macroscópico.
+- **O que mostrar:** Coração em vista anterior detalhando átrios, ventrículos, grandes vasos e sulcos.
+- **Tipo sugerido:** Infográfico de anatomia.
+- **Legenda (rascunho):** Morfologia externa do coração.
 
+## Roteiro Macroscópico: O Coração
 
-
-
----
-
-
-
-## Roteiro de Anatomia Macroscópica do Coração
-
-**Identificação nas peças:**
-
-1. **Superfície esternocostal (anterior):** predominantemente ventrículo direito (VD); notam-se a artéria coronária direita no sulco coronário e a artéria descendente anterior (DA) no sulco interventricular anterior
-2. **Superfície diafragmática (posterior/inferior):** predominantemente ventrículo esquerdo (VE) e parte do VD; artéria descendente posterior (ADP) no sulco interventricular posterior
-3. **Sulco coronário (atrioventricular):** separa átrios de ventrículos; nele percorrem as coronárias principais e o seio coronário (drenagem venosa coronariana → átrio direito)
-4. **Aurículas:** apêndices dos átrios, com superfície irregular (trabéculas musculares = músculos pectíneos)
-
-**Câmaras — identificação interna:**
-
-- **Átrio direito:** ostium da veia cava superior (VCS) e veia cava inferior (VCI); válvula de Eustáquio (rudimento); fossa oval (cicatriz do forame oval); óstio do seio coronário; valva tricúspide (3 cúspides)
-- **Ventrículo direito:** trabéculas carnosas e músculo papilar anterior; valva pulmonar (3 cúspides semilunares) na câmara de saída infundibular; septo interventricular membranoso e muscular
-- **Átrio esquerdo:** 4 orifícios das veias pulmonares; ausência de crista terminal; valva mitral (bicúspide — cúspide anterior e posterior)
-- **Ventrículo esquerdo:** paredes mais espessas (~11 mm); músculos papilares anterior e posterior; cordas tendíneas; valva aórtica (3 cúspides semilunares: coronária direita, esquerda e não coronária)
-
-> **Dica de Prova:** A valva mitral tem 2 cúspides (bicúspide); a tricúspide tem 3. Ambas são sustentadas por cordas tendíneas e músculos papilares. As valvas semilunares (aórtica e pulmonar) NÃO têm cordas tendíneas — são sustentadas pelos seios de Valsalva.
+Para não inverter os lados na bancada, siga a ordem:
+1. **Orientação:** Identifique a base (vasos) e o ápice (ponta do VE).
+2. **Câmaras:**
+   - **Ventrículo Esquerdo (VE):** Parede **Muito mais espessa**; cavidade circular.
+   - **Ventrículo Direito (VD):** Parede fina; trabéculas mais grosseiras.
+   - **Átrio Direito (AD):** Presença de músculos pectíneos e cavas.
+3. **Valvas:**
+   - **Tricúspide (Direita)** vs. **Mitral (Esquerda)**.
+   - **Semilunares:** Pulmonar (anterior) e Aórtica (posterior/central).
 
 ---
 
-## Circulação Sistêmica e Pulmonar — Revisão Integrada
+## Roteiro Microscópico: Histologia Vascular
 
-**Circulação pulmonar (pequena circulação):**
-VD → valva pulmonar → artérias pulmonares → capilares alveolares → veias pulmonares → AE
+O diagnóstico diferencial entre vasos baseia-se na proporção das túnicas:
 
-**Circulação sistêmica (grande circulação):**
-VE → valva aórtica → aorta → artérias sistêmicas → capilares teciduais → veias → VCS/VCI → AD
+| Estrutura | Túnica Média | Túnica Adventícia | Diferencial Crítico |
+|---|---|---|---|
+| **Artéria Elástica** | **Muito Espessa** | Relativamente fina | Muitas **Lâminas Elásticas** (Aorta). |
+| **Artéria Muscular** | **Robustas** | Desenvolvida | Predomínio de **Músculo Liso**. |
+| **Veia** | Delgada | **Proporcionalmente maior** | Luz irregular e colapsada. |
 
-> **Pegadinha:** As artérias pulmonares transportam sangue VENOSO (desoxigenado); as veias pulmonares transportam sangue ARTERIAL (oxigenado). A nomenclatura se refere à direção do fluxo (artéria = do coração para o pulmão), não à oxigenação.
-
----
-
-## Roteiro de Histologia Cardiovascular
-
-**Corte de miocárdio (coloração HE):**
-- Fibras musculares cardíacas ramificadas, com **discos intercalares** (linhas escuras transversais) — nexus (gap junctions) + desmossomos
-- Núcleo único, central e ovóide
-- Estriações transversais (bandas A e I, disco Z)
-- Diferença do músculo esquelético: cardíaco tem discos intercalares e núcleo central; esquelético tem núcleos periféricos e sem discos intercalares
-
-**Camadas da parede cardíaca (de dentro para fora):**
-- **Endocárdio:** endotélio + tecido conjuntivo subendocárdico (contém ramos do sistema de condução — fibras de Purkinje: fibras grandes, pálidas, com pouco miofibrilas e muito glicogênio)
-- **Miocárdio:** músculo cardíaco propriamente dito (maior parte da parede)
-- **Epicárdio (pericárdio visceral):** mesotélio + tecido conjuntivo com gordura
-
-**Fibras de Purkinje:**
-- Maiores e mais pálidas que as fibras cardíacas comuns
-- Poucos miofibrilas, muito glicogênio (aspecto "vazio" no HE)
-- Localização: subendocárdica; conduzem impulso elétrico com alta velocidade
-
-> **Dica de Prova:** Em lâmina histológica, células de Purkinje são facilmente reconhecidas por serem maiores e mais pálidas que o miocárdio adjacente, situadas logo abaixo do endocárdio.
+> **Dica de Prova:** O **Disco Intercalar** é o marcador patognomônico do músculo estriado cardíaco. Procure por linhas escuras transversais entre as fibras ramificadas.
 
 ---
 
-## Histologia Vascular — Revisão Comparativa
+## Diferenciação de Capilares
 
-| Estrutura | Íntima | Média | Adventícia |
-|-----------|--------|-------|-----------|
-| Artéria elástica (aorta) | Endotélio + lâmina elástica interna | Múltiplas lamelas elásticas | Tecido conjuntivo + vasa vasorum |
-| Artéria muscular | Endotélio + lâmina elástica interna | Músculo liso + lâminas elásticas (ext + int) | Tecido conjuntivo + fibras elásticas |
-| Arteríola | Endotélio | 1–2 camadas de músculo liso | Adventícia fina |
-| Capilar | Endotélio + membrana basal | Ausente (pericitos) | Ausente |
-| Veia | Endotélio | Músculo liso (menor que artéria) | Espessa, pode ter músculo |
-
-> **Pegadinha:** A lâmina elástica INTERNA está na interface íntima-média; a EXTERNA na interface média-adventícia. Artérias musculares (coronárias, musculares dos membros) têm ambas bem definidas; artérias elásticas (aorta) têm múltiplas lamelas na média.
-
----
-
-## Sistema Linfóide Associado ao Coração
-
-- **Nódulos linfáticos cardíacos:** pequenos linfonodos paratraqueais e do mediastino que drenam a linfa cardíaca
-- **Seio coronário:** drena sangue venoso cardíaco (não linfa) para o átrio direito; importante referenciar que não é estrutura linfática
-
----
-
-## Pontos-Chave
-
-- Valva mitral (2 cúspides) e tricúspide (3 cúspides) têm cordas tendíneas; valvas aórtica e pulmonar são semilunares, sem cordas
-- Artérias pulmonares = sangue venoso (desoxigenado); veias pulmonares = sangue arterial (oxigenado)
-- Músculo cardíaco: ramificado, núcleo central, discos intercalares (nexus + desmossomos)
-- Fibras de Purkinje: grandes, pálidas, ricas em glicogênio, subendocárdicas
-- Endocárdio → Miocárdio → Epicárdio (pericárdio visceral)
-- Artéria elástica (aorta): múltiplas lamelas na média; artéria muscular: músculo liso + 2 lâminas elásticas
-- Capilar: endotélio + pericitos, sem média nemadventícia clássica
-- Fossa oval: cicatriz do forame oval no septo interatrial (AD)
-- Seio coronário: drena veias cardíacas para AD; percorre o sulco coronário posterior
-- Sulco interventricular anterior: local da artéria DA (ramo da ACE)
+- **Contínuos:** Endotélio oclusivo (Barreira hematoencefálica).
+- **Fenestrados:** Canais/poros para filtração (Rins, Intestino).
+- **Sinusoides:** Trajeto tortuoso e fendas amplas (Fígado, Médula).
 
 ---
 
 ## Ponte com a Clínica
 
-A **comunicação interatrial (CIA)** persiste quando o forame oval não fecha ao nascimento — é uma das cardiopatias congênitas mais comuns em adultos. O reconhecimento da fossa oval na prática anatômica ajuda a entender sua localização no septo. A **estenose mitral** (predominantemente por febre reumática) compromete a valva bicúspide do AE; nas lâminas histológicas, observa-se fibrose das cúspides e fusão das comissuras. Já a distinção histológica entre fibras de Purkinje e miocárdio comum é necessária para compreender por que infartos subendocárdicos podem altera a condução elétrica: quando a onda de necrose atinge o subendocárdio, destrói o sistema de condução, produzindo bloqueios.
+Diferenciar a espessura do VE e do VD na peça macro ajuda a entender o conceito de **Pós-carga**. O VE é uma bomba de alta pressão (pressão sistêmica), por isso sua hipertrofia é uma adaptação comum à Hipertensão Arterial Sistêmica.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Orientação**: Base, ápice e faces antes de qualquer nomeação.
+- **Ventrículos**: VE circular e espesso; VD em "meia-lua" e fino.
+- **Valvas**: Confirmar pela câmara de origem e via de saída.
+- **Disco Intercalar**: Identifica miocárdio na lâmina.
+- **Adventícia Dominante**: Característica típica de veias.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para o OSPE cardiovascular, o seu maior inimigo é a pressa. Na peça, **oriente primeiro**: localize o ápice e a face anterior. O **Ventrículo Esquerdo** é sempre o mais "musculoso" e circular; o **Direito** é uma parede fina que "abraça" o esquerdo. Não confunda valvas: a **Mitral** tem dois folhetos (esquerda) e a **Tricúspide** tem três (direita).
 
-Valva mitral: 2 cúspides (bicúspide); Tricúspide: 3 cúspides; ambas com cordas tendíneas. Valvas semilunares (aórtica e pulmonar): 3 cúspides; SEM cordas tendíneas. Artérias pulmonares: sangue venoso (desoxigenado) — nomenclatura pelo sentido do fluxo.
+Na histologia, use a regra das túnicas. Se a **Média** for uma fortaleza de músculo ou elástica, é **Artéria**. Se a luz estiver "murcha" e a **Adventícia** for a camada mais notável, é **Veia**. No tecido cardíaco, procure a fibra que se ramifica e tem o núcleo no centro; se achar o **Disco Intercalar**, o diagnóstico está selado.
 
-Músculo cardíaco: ramificado, núcleo central, discos intercalares. Fibras de Purkinje: grandes, pálidas, glicogênio, subendocárdicas — condução rápida. Camadas: endocárdio → miocárdio → epicárdio (= pericárdio visceral).
-
-Artéria elástica (aorta): muitas lamelas elásticas na média. Artéria muscular: músculo liso na média + lâminas elásticas interna e externa bem definidas. Fossa oval: septo interatrial, AD (cicatriz do forame oval).
-
-Seio coronário: drena veias coronárias para AD; sulco atrioventricular posterior.
+Lembre-se das cores: artéria muscular tem uma "linha elástica interna" bem brilhante e ondulada no HE. Veias são mais "bagunçadas" visualmente por terem menos suporte elástico.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Valva mitral | Valva tricúspide | Mitral = 2 cúspides (AE→VE); Tricúspide = 3 cúspides (AD→VD) |
-| Valva semilunar | Valva atrioventricular | Semilunar = sem cordas, meia-lua; AV = com cordas e m. papilares |
-| Músculo cardíaco | Músculo esquelético | Cardíaco: núcleo central, ramificado, discos intercalares; Esquelético: núcleo periférico, não ramificado |
-| Fibra de Purkinje | Fibra cardíaca comum | Purkinje: mais larga, pálida, glicogênio; Comum: menor, estriada, escura |
-| Artéria elástica | Artéria muscular | Elástica (aorta): lamelas na média; Muscular: músculo liso + 2 lâminas elásticas distintas |
+| **VE** | **VD** | **Parede Espessa/Circular** vs Parede Fina/Trabeculada |
+| **Artéria Elástica** | **Artéria Muscular** | **Lâminas Elásticas** (Aorta) vs **Músculo Liso** (Radial/Femoral) |
+| **Valva Aórtica** | **Valva Pulmonar** | Saída do VE (Posterior) vs Saída do VD (**Anterior**) |
+| **Cardíaco** | **Esquelético** | **Núcleo Central/Ramificado** vs Núcleo Periférico/Cilíndrico |
+| **Endocárdio** | **Epicárdio** | Face interna (Endotélio) vs Face externa (**Gordura/Mesotélio**) |
 
 ### Frase-âncora para não esquecer
 
-> "Mitral de 2, Tricúspide de 3 — as duas com cordas. Aórtica e Pulmonar de 3 também, mas sem cordas — são semilunares livres."
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "VE é circular e musculoso; Artéria tem Média potente e Veia tem Adventícia valente."

@@ -1,116 +1,105 @@
-﻿# SEMIO2 — Aula 3: Exame Físico Cardiovascular
+# SEMIO2 — Aula 3: Exame Físico Cardiovascular
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+O exame físico cardiovascular permite identificar a gravidade e o fenótipo do paciente (congestivo vs. hipoperfuso) à beira do leito. Na prova, os temas integram a **Análise de Pulsos**, a **Avaliação Jugular** e a **Ausculta de Bulhas e Sopros**.
+
+Na prática, a combinação de **Turgência Jugular**, **Ictus Cordis** desviado e **B3** fecha o diagnóstico de insuficiência cardíaca descompensada com alta precisão.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O exame cardiovascular é clássico na graduação porque exige técnica, sequência e interpretação. A **Uninove** costuma cobrar achados de inspeção, palpação e ausculta associados a síndromes clínicas, principalmente insuficiência cardíaca, valvopatias e estados de baixo débito.
-
-No atendimento real, sinais periféricos e ausculta bem feita ajudam a estratificar gravidade rapidamente, mesmo antes do ecocardiograma.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de ausculta.
+- **O que mostrar:** Os focos de ausculta cardíaca (Aórtico, Pulmonar, Tricúspide e Mitral) e o ciclo cardíaco básico (B1 e B2).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Focos de ausculta e dinâmica das bulhas cardíacas.
 
-## Sequência do Exame e Valor dos Sinais
+## Sequência do Exame Físico
 
-A avaliação começa por inspeção geral e perfusão, segue para palpação de pulsos, ictus e frêmitos, e culmina na ausculta de focos cardíacos. Sinais como turgência jugular, **edema**, alteração de ritmo e sopro precisam ser lidos em conjunto, e não de modo fragmentado.
+Para garantir a segurança e não omitir sinais, siga a ordem:
+1. **Inspeção Geral:** Estado geral, coloração (cianose) e edema.
+2. **Avaliação Venosa Jugular:** Paciente a 30-45°, buscando turgência patológica.
+3. **Palpação de Pulsos:** Ritmo, frequência e amplitude (Pulso filiforme = gravidade).
+4. **Palpação do Precórdio:** Localização do **Ictus Cordis** e presença de frêmitos.
+5. **Ausculta:** Sistemática, focando em bulhas e sopros.
 
-> **Dica de Prova:** sopro só ganha significado clínico quando você descreve tempo do ciclo, foco, irradiação e intensidade.
+---
 
-> **Pegadinha:** classificar sopro como "patológico" sem contextualizar idade, achados associados e repercussão hemodinâmica.
+## Palpação e Pulsos
 
-## Integração com Hipóteses Clínicas
+| Parâmetro | Alteração Comum | Significado Clínico |
+|---|---|---|
+| **Ritmo** | Irregular (Irregularmente irregular) | Sugere **Fibrilação Atrial (FA)**. |
+| **Amplitude** | **Filiforme** (Pequeno/Fraco) | Choque ou Baixo Débito. |
+| **Simetria** | Assimétrico | Obstrução arterial (ex: Aterosclerose/Dissecção). |
+| **Ictus Cordis** | Desviado para baixo/esquerda | **Cardiomegalia** (Dilatação do VE). |
 
-Achados de congestão periférica e jugular podem sugerir insuficiência cardíaca. Pulsos assimétricos podem levantar doença arterial. Ritmo irregular pode apontar arritmia. Em prova, a resposta forte sempre traduz sinal físico em hipótese **fisiopatológica** plausível.
+> **Dica de Prova:** O **Refluxo Hepatojugular** positivo (compressão do fígado que eleva a jugular) é um dos sinais mais específicos para congestão de AD/VD.
 
-O exame cardiovascular não é ritual decorado: é ferramenta para **tomada de decisão clínica** inicial.
+---
 
+## Ausculta Cardíaca: Bulhas e Sopros
 
+As bulhas marcam os eventos mecânicos do coração:
+- **B1 (Tum):** Fechamento das valvas **Atrioventriculares** (Mitral e Tricúspide). Início da sístole.
+- **B2 (Tá):** Fechamento das valvas **Semilunares** (Aórtica e Pulmonar). Início da diástole.
+- **B3 (Galope de Volume):** Comum na **Insuficiência Cardíaca** com fração de ejeção reduzida.
+- **B4 (Galope de Pressão):** Sugere ventrículo rígido (ex: HAS crônica).
 
+> **Pegadinha:** Todo sopro diastólico deve ser considerado **Patológico** até prova em contrário. Sopro sistólico pode ser funcional/inocente em jovens ou estados hiperdinâmicos.
+
+---
+
+## Síndrome Congestiva: Quadro Clássico
+
+| Sinal | Localização | Significado |
+|---|---|---|
+| **Turgência Jugular** | Pescoço | Aumento da pressão venosa central. |
+| **Estertores Crepitantes** | Bases Pulmonares | Congestão Pulmonar (VE). |
+| **Edema Maleolar** | Tornozelos | Congestão Sistêmica (VD). |
+| **Hepatomegalia** | Abdome | Estase venosa hepática. |
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Exame Físico Cardiovascular
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Paciente idoso com histórico de infarto prévio evolui com cansaço excessivo. Ao exame: **Ictus visível no 6º espaço intercostal**, presença de **B3** e pulmões com ruídos de "velcro" (crepitações). O diagnóstico de **Insuficiência Cardíaca** é clínico; os exames de imagem apenas quantificam o dano já identificado pela sua mão e seu ouvido.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Sequência do exame:** inspeção, palpação e ausculta integradas.
-- **Sopro:** descrição técnica define valor diagnóstico.
-- **Perfusão periférica:** informa estado hemodinâmico.
-- **Turgência jugular e edema:** sugerem congestão venosa.
-- **Pulso e ritmo:** orientam investigação de arritmias e débito.
-- **Interpretação clínica:** sinal físico deve virar hipótese estruturada.
+- **Ictus Cordis**: Referência de tamanho e força do VE.
+- **Pulso Filiforme**: Alerta vermelho para baixo débito/choque.
+- **Turgência Jugular**: O melhor marcador de pressão atrial direita.
+- **B1 e B2**: Eventos de fechamento valvar (Sístole e Diástole).
+- **Escala de Levine**: Graduação da intensidade de sopros (I a VI).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+No exame físico cardíaco, o examinador adora o **Fenótipo Congestivo**. Se a jugular está "saltada" (turgência), o fígado está grande (hepatomegalia) e a perna está inchada, o problema é o lado direito do coração (ou global). Se o pulmão está cheio de "água" (estertores crepitantes) e tem um barulho de galope (**B3**), o problema é o lado esquerdo.
 
-Exame cardiovascular: exige técnica e sequência padronizada. Ictus e frêmito: ajudam no raciocínio estrutural. Sopro: analisar foco, tempo e irradiação.
+Para pulsos, grave: rítmico é o normal; se for "bagunçado", pense em **Fibrilação Atrial**. Se for muito fininho e difícil de sentir (**Filiforme**), o paciente está mal (choque). Na palpação do peito, o **Ictus** é seu guia: se ele estiver fora do lugar (desviado), o coração cresceu.
 
-Ritmo irregular: pode indicar arritmia relevante. Congestão periférica: associa-se à falência cardíaca. Turgência jugular: dado clínico importante de sobrecarga.
-
-Pulso periférico: avalia perfusão e padrão hemodinâmico. Sinal físico: deve sempre ser contextualizado.
+Na ausculta, o Tum (B1) é o começo do aperto (sístole) e o Tá (B2) é o relaxamento (diástole). Sopros sistólicos podem ser por "muito sangue passando" ou valva um pouco aberta; sopros **Diastólicos** quase sempre indicam doença séria. Se ouvir um "galope" (B3), marque Insuficiência Cardíaca na prova.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Sopro inocente | Sopro com repercussão | Repercussão clínica e achados associados orientam gravidade |
-| Congestão venosa | Hipoperfusão arterial | Um reflete sobrecarga; outro baixo fluxo efetivo |
-| Arritmia percebida | Ritmo regular | Irregularidade muda eixo diagnóstico e conduta |
-| Exame técnico | Exame superficial | O técnico gera dado confiável para decisão clínica |
+| **B1** | **B2** | Fechamento AV (Sístole) vs Fechamento Semilunar (Diástole) |
+| **B3** | **B4** | Sobrecarga de **Volume** vs Sobrecarga de **Pressão** (Ventrículo duro) |
+| **Turgência Jugular** | **Refluxo Hepatojugular** | Estase em repouso vs **Estase após compressão do fígado** |
+| **Sopro Sistólico** | **Sopro Diastólico** | Entre B1 e B2 vs **Entre B2 e B1 (Geralmente Grave)** |
+| **Pulso Magnus** | **Pulso Parvus** | Grande/Forte (ex: IAo) vs Pequeno/Fraco (ex: EAo/Choque) |
 
 ### Frase-âncora para não esquecer
 
-> "No coração, sem técnica de exame não existe semiologia de verdade."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Exame Físico Cardiovascular** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "B3 é volume que sobra, B4 é pressão que cobra; se a jugular subiu, a congestão agrediu."

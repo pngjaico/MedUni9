@@ -1,163 +1,90 @@
 # IND — Aula 11: Análise Inferencial — Testes de Hipóteses
 
-**Disciplina:** Indicadores de Saúde  
-**Módulo:** 2 | **Tempo de estudo sugerido:** 15-20 min
+A análise inferencial é o que permite dizer se o resultado de um estudo aconteceu por "sorte" (acaso) ou se existe um efeito real. Na prova, o tema central é entender o **p-valor**, o **Intervalo de Confiança** e as hipóteses **H0** e **H1**.
+
+Na prática, saber interpretar esses números protege o médico de prescrever remédios que não funcionam ou de acreditar em pesquisas mal feitas.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Testes de hipóteses são o núcleo da leitura crítica de resultados em saúde. Na graduação, a banca costuma cobrar se você entende a lógica de comparar o que foi observado com o que seria esperado pelo acaso, sem transformar estatística em "verdade absoluta".
-
-Na prática clínica e em saúde coletiva, essa base evita dois erros frequentes: chamar de "efetivo" um resultado que pode ser ruído e descartar um efeito plausível por interpretação superficial de p-valor.
 
 ### Figura sugerida
 
 **Figura-ID:** `IND-A11-F01`
 
-- **Momento:** após a explicação inicial de H0/H1.
-- **O que mostrar:** fluxograma simples da decisão inferencial: pergunta clínica -> H0/H1 -> teste -> p-valor/IC -> conclusão clínica.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Teste de hipótese é um processo de decisão, não um número isolado."
-- **Notas (opcional):** layout vertical para leitura em mobile.
+- **Momento:** Seção de p-valor.
+- **O que mostrar:** O "Corte da Significância": uma régua onde valores abaixo de 0,05 são considerados "Significativos" (o efeito é real) e acima de 0,05 são "Não Significativos" (pode ter sido acaso).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Interpretando o p-valor: a fronteira da evidência científica.
 
-## Fundamentos: H0, H1 e decisão estatística
+## 1. As Duas Hipóteses
 
-A **hipótese nula (H0)** representa o cenário de ausência de diferença, ausência de associação ou ausência de efeito. A **hipótese alternativa (H1)** representa a existência de diferença/associação/efeito.
+Toda pesquisa começa com um duelo entre duas ideias:
+- **H0 (Hipótese Nula):** Diz que "não há diferença". O novo remédio é igual ao antigo. Tudo o que aconteceu foi por acaso.
+- **H1 (Hipótese Alternativa):** Diz que "há diferença". O remédio novo é melhor (ou diferente) do antigo.
 
-Em termos práticos, o teste pergunta: "Se H0 fosse verdadeira, quão improvável seria observar dados iguais ou mais extremos do que estes?" A resposta vem na forma de p-valor.
+---
 
-- **Regra operacional:** definir H0/H1 antes de olhar os resultados reduz viés de interpretação.
-- **Ponto de corte (alfa):** em graduação, costuma-se usar 0,05, mas isso é convenção, não lei da natureza.
+## 2. O famoso p-valor
 
-> **Dica de Prova:** escreva explicitamente H0 e H1 na sua cabeça antes de interpretar p-valor; isso evita inverter a lógica da questão.
+O p-valor é a chance de a **Hipótese Nula (H0)** estar certa.
+- **p < 0,05:** A chance de ser acaso é menor que 5%. É muito improvável que seja sorte. Dizemos que o resultado é **Estatisticamente Significativo**. Rejeitamos a H0.
+- **p > 0,05:** A chance de ser acaso é alta. Não podemos dizer que o remédio funciona. Aceitamos (ou não rejeitamos) a H0.
 
-> **Pegadinha:** concluir que "p > 0,05 prova que não há efeito". Na verdade, indica que faltou evidência para rejeitar H0 naquele cenário.
+---
 
-## Erros tipo I e tipo II, poder e tamanho amostral
+## 3. Os Erros do Cientista
 
-O **erro tipo I (alfa)** ocorre quando rejeitamos H0 sendo ela verdadeira (falso positivo). O **erro tipo II (beta)** ocorre quando não rejeitamos H0 sendo ela falsa (falso negativo).
+Ninguém é perfeito, e a estatística pode falhar:
+- **Erro Tipo I (Falso Positivo):** Você diz que o remédio funciona, mas na verdade não funciona. (Rejeitou H0 sem devia).
+- **Erro Tipo II (Falso Negativo):** O remédio é bom, mas seu estudo foi pequeno demais e você disse que ele não funciona. (Não rejeitou H0 quando devia).
 
-Existe trade-off entre esses erros: reduzir muito alfa pode aumentar beta se a amostra não for adequada.
+---
 
-O **poder estatístico (1 - beta)** é a probabilidade de detectar um efeito que realmente existe. Em linguagem de prova: estudo com baixo poder pode perder efeitos clinicamente relevantes.
+## 4. Intervalo de Confiança (IC 95%)
 
-| Conceito | Definição curta | Impacto em prova e prática |
-|----------|------------------|----------------------------|
-| Erro tipo I | Detectar efeito inexistente | Pode levar a condutas desnecessárias |
-| Erro tipo II | Não detectar efeito real | Pode atrasar intervenção útil |
-| Poder | Chance de identificar efeito verdadeiro | Quanto maior o poder, menor risco de falso negativo |
-| Tamanho da amostra | Número de observações do estudo | Amostra pequena tende a instabilidade e baixo poder |
+Em vez de dar um número fixo, o IC dá uma margem de segurança (ex: o remédio reduz a pressão entre 5 e 15 mmHg).
+- **A Regra de Ouro:** Se o intervalo passar pelo **Valor Nulo**, ele não é significativo.
+  - Para diferenças (ex: perda de peso), o valor nulo é **0**.
+  - Para riscos (ex: Risco Relativo), o valor nulo é **1**.
 
-## p-valor, intervalo de confiança e relevância clínica
-
-O **p-valor** quantifica compatibilidade dos dados com H0. Ele **não** informa magnitude do efeito e **não** substitui interpretação clínica.
-
-O **intervalo de confiança (IC)** adiciona direção e precisão da estimativa. Em graduação, é comum usar IC95% para verificar consistência dos resultados.
-
-- Se o IC é muito amplo, a estimativa é imprecisa.
-- Se o IC inclui o valor nulo (ex.: diferença = 0; razão = 1), em geral não há significância naquele nível.
-- Mesmo com significância estatística, a decisão clínica depende do tamanho do efeito e contexto do paciente/população.
-
-### Figura sugerida
-
-**Figura-ID:** `IND-A11-F02`
-
-- **Momento:** após a leitura de p-valor e IC.
-- **O que mostrar:** comparação visual de dois estudos com mesmo p-valor e ICs diferentes (um estreito, outro amplo).
-- **Tipo sugerido:** infográfico comparativo.
-- **Legenda (rascunho):** "Mesmo p-valor, diferentes níveis de precisão."
-- **Notas (opcional):** destacar visualmente o valor nulo no eixo.
-
-## Escolha de testes básicos na graduação (paramétrico vs não paramétrico)
-
-A escolha do teste depende de três perguntas simples:
-
-1. Qual é o tipo de variável (contínua, categórica, ordinal)?
-2. Quantos grupos/comparações estão sendo avaliados?
-3. Há pressupostos para métodos paramétricos (distribuição aproximadamente normal, variâncias aceitáveis, independência)?
-
-Quando os pressupostos são razoáveis, testes **paramétricos** tendem a ter maior poder. Quando não são, testes **não paramétricos** oferecem alternativa robusta.
-
-| Cenário de graduação | Paramétrico (quando cabe) | Não paramétrico (alternativa) | Uso típico |
-|----------------------|---------------------------|--------------------------------|-----------|
-| 2 grupos independentes, variável contínua | t de Student independente | Mann-Whitney | Comparar média/distribuição entre grupos |
-| 2 medidas pareadas (antes/depois) | t pareado | Wilcoxon pareado | Avaliar mudança no mesmo indivíduo |
-| 3+ grupos independentes | ANOVA | Kruskal-Wallis | Comparar grupos múltiplos |
-| Associação entre categóricas | Qui-quadrado | Exato de Fisher (amostra pequena) | Proporções/frequências |
-| Correlação entre contínuas | Pearson | Spearman | Força e direção de associação |
-
-## Tabela de decisão rápida para prova
-
-Use esta sequência como algoritmo mental:
-
-| Passo | Pergunta de decisão | Se "sim" | Se "não" |
-|------|----------------------|-----------|-----------|
-| 1 | Variável principal é categórica? | Pense em qui-quadrado/Fisher | Vá para passo 2 |
-| 2 | Variável principal é contínua/ordinal? | Vá para passo 3 | Reavalie enunciado |
-| 3 | São 2 grupos? | Vá para passo 4 | Considere ANOVA/Kruskal |
-| 4 | Dados parecem adequados a paramétrico? | t (independente ou pareado) | Mann-Whitney/Wilcoxon |
-| 5 | Objetivo é correlação? | Pearson (paramétrico) | Spearman (não paramétrico/ordinal) |
-
-## Mini-casos de aplicação
-
-**Caso 1 (falso positivo em leitura apressada):**
-Estudo pequeno encontra p = 0,04 para redução de dor com nova intervenção, mas IC95% é amplo e efeito absoluto mínimo. Interpretação correta: há sinal estatístico, porém precisão baixa e benefício clínico incerto.
-
-**Caso 2 (p > 0,05 não é "efeito zero"):**
-Comparação de duas condutas mostra p = 0,08, tendência favorável e IC compatível com benefício moderado. Interpretação correta: resultado inconclusivo, possivelmente por baixo poder; não autoriza afirmar equivalência.
-
-**Caso 3 (escolha do teste):**
-Pressão arterial antes e depois da intervenção no mesmo grupo. Se distribuição de diferenças for adequada, usar t pareado; se não, Wilcoxon pareado.
+---
 
 ## Ponte com a Clínica
 
-Ao ler artigo na prática, não pare no "deu significativo". Faça três perguntas curtas:
-
-- O resultado rejeita H0 com coerência metodológica?
-- O IC é preciso o suficiente para decisão real?
-- O tamanho do efeito muda conduta ou é apenas estatisticamente detectável?
-
-Essa tríade (significância + precisão + relevância) é exatamente o que diferencia acerto mecânico de raciocínio clínico maduro.
+Um laboratório lança um remédio novo que promete reduzir o tempo de internação. O estudo diz: "Redução de 2 dias (p = 0,001)". O médico vê que o p-valor é bem menor que 0,05, então o efeito é real (não foi sorte). Mas se o remédio custa 10 mil reais e causa efeitos colaterais graves, a **significância estatística** não garante **relevância clínica**. Nem tudo o que é estatisticamente real vale a pena na vida do paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **H0 e H1** estruturam toda a inferência e devem ser definidos antes da análise.
-- **Erro tipo I** é falso positivo; **erro tipo II** é falso negativo.
-- **Poder** baixo aumenta chance de perder efeito verdadeiro.
-- **p-valor** não mede magnitude nem importância clínica.
-- **IC95%** ajuda a julgar precisão e plausibilidade do efeito.
-- **Teste estatístico** deve combinar tipo de variável, desenho e pressupostos.
-- **Paramétrico vs não paramétrico** é decisão de adequação metodológica, não de preferência pessoal.
+- **p < 0,05**: Mágico número da significância.
+- **H0**: Hipótese da igualdade (nada mudou).
+- **Intervalo de Confiança**: Mostra a precisão do resultado (se for muito largo, o estudo foi pequeno).
+- **Poder do Teste**: Chance de achar a diferença se ela existir (estudos grandes têm mais poder).
+- **IC inclui 0 ou 1**: Se o IC95% passar pela neutralidade, o resultado não vale para mudar conduta.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Na questão de testes de hipóteses, a banca quer ver se você entende a lógica de decisão. Primeiro, identifique H0 (sem efeito) e H1 (com efeito). Depois, interprete p-valor como compatibilidade dos dados com H0, sem tratá-lo como medida de tamanho de efeito.
+Para gabaritar Inferência, foque na decisão. 
+Se o **p** for menor que **0,05**, você "chuta" a Hipótese Nula (H0) para longe e fica com a Alternativa (H1). Se o Intervalo de Confiança (IC) for de 0,8 a 1,5 em um estudo de risco, ele "abraça" o número **1**, o que significa que o resultado **não é significativo**, não importa o que o p-valor diga.
 
-Em seguida, conecte erro tipo I (falso positivo), erro tipo II (falso negativo) e poder estatístico. Questão com amostra pequena pode falhar em detectar efeito real; por isso, p > 0,05 não é prova de ausência de efeito.
-
-Finalize com intervalo de confiança: ele mostra direção e precisão da estimativa. Em prova e prática, conclusão boa combina significância estatística, precisão (IC) e relevância clínica.
-
-Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
+Cuidado com os erros: **Tipo I** é o erro do otimista (vê efeito onde não tem); **Tipo II** é o erro do pessimista (não vê o efeito que existe, geralmente porque o estudo teve pouca gente — "baixo poder"). Em teste de escolher qual conta fazer: se comparar 2 grupos, use **Teste t**; se for sim/não (proporções), use **Qui-quadrado**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| H0 não rejeitada | H0 verdadeira | Não rejeitar H0 significa evidência insuficiente, não confirmação absoluta |
-| p-valor baixo | Efeito grande | p indica compatibilidade com H0; magnitude vem da estimativa e do IC |
-| Erro tipo I | Erro tipo II | Tipo I cria falso efeito; tipo II perde efeito real |
-| Paramétrico | Não paramétrico | Paramétrico exige pressupostos; não paramétrico é alternativa robusta |
-| Significância estatística | Relevância clínica | Significância pode existir sem benefício clínico relevante |
+| **p-valor** | **Relevância Clínica** | Probabilidade estatística vs **Importância para o paciente** |
+| **Erro Tipo I** | **Erro Tipo II** | Falso Positivo vs **Falso Negativo** |
+| **H0 (Nula)** | **H1 (Alternativa)** | Sem diferença vs **Com diferença** |
+| **IC 95%** | **p-valor** | Mostra a margem do efeito vs **Mostra apenas se é acaso ou não** |
+| **Significativo** | **Inconclusivo** | p < 0,05 vs **p > 0,05** |
 
 ### Frase-âncora para não esquecer
 
-> "Teste de hipótese decide contra o acaso; decisão clínica decide a favor do paciente."
+> "Se o p baixou da fronteira do cinco, a H0 balança e a evidência te finca; mas se o IC o nulo abraçou, o dado morreu e a dúvida ficou."

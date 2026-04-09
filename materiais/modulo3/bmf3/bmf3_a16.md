@@ -1,180 +1,84 @@
 # BMF3 — Aula 16: Glândula Suprarrenal — Fisiologia do Córtex e da Medula
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+Os hormônios da suprarrenal são os "operários" da sobrevivência. Na prova, os temas centrais são o funcionamento do **Eixo HPA** (que controla o cortisol), o papel da **Aldosterona** no controle da pressão e como a **Adrenalina** prepara o corpo para emergências.
+
+Na prática, entender como o estresse crônico destrói o corpo através do cortisol ou como uma queda de pressão ativa a aldosterona é a base para manejar pacientes críticos e entender doenças endócrinas complexas.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Os hormônios suprarrenais são essenciais para a sobrevivência: o cortisol é crítico na resposta ao estresse agudo e crônico, a aldosterona controla a pressão arterial e as catecolaminas são a resposta imediata a situações de perigo. A Uninove cobra mecanismos de ação, regulação (eixo HPA, RAAS) e disfunções (Addison, Cushing, hiperaldosteronismo, feocromocitoma).
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A16-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de regulação do cortisol.
+- **O que mostrar:** O "Termostato do Estresse": Um esquema do Eixo HPA mostrando o **Hipotálamo (CRH)** mandando na **Hipófise (ACTH)**, que manda na **Suprarrenal (Cortisol)**. Destacar a setinha de feedback negativo voltando para desligar o sistema.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Regulação hormonal do eixo hipotálamo-hipófise-suprarrenal.
 
+## 1. Cortisol: O Hormônio do Despertar e do Estresse
 
-
-
----
-
-## 1. Cortisol — O Glicocorticoide Principal
-
-### Regulação — Eixo HPA
-
-```flow
-Hipotálamo → CRH → Hipófise anterior → ACTH → Suprarrenal (zona fasciculada) → Cortisol
-                                                                     ↑ Feedback negativo
-```
-
-- **Secreção pulsátil com ritmo circadiano:** pico às 8h da manhã; nadir à meia-noite
-- **Estímulos para ↑CRH/ACTH:** estresse físico/emocional, hipoglicemia, trauma, cirurgia, infecção
-- **Feedback negativo:** cortisol inibe hipotálamo e hipófise (interrompe o eixo)
-
-### Mecanismo de Ação
-
-- Hormônio lipídico → receptor citoplasmático → complexo receptor-hormônio → núcleo → regulação gênica
-- Age em horas (efeito genômico)
-
-### Efeitos Fisiológicos do Cortisol
-
-| Sistema | Efeito |
-|---------|--------|
-| Metabolismo de carboidratos | ↑Gliconeogênese hepática; ↑resistência à insulina → hiperglicemia |
-| Metabolismo proteico | ↑Catabolismo proteico muscular → aminoácidos para gliconeogênese |
-| Metabolismo lipídico | ↑Lipólise (periférica) + redistribuição central de gordura |
-| Sistema imune | Anti-inflamatório: ↓leucócitos, ↓produção de citocinas, ↓permeabilidade vascular |
-| Sistema cardiovascular | Possui receptor para glicocorticoides → ↑sensibilidade a catecolaminas → ↑PA |
-| Osso | ↓Formação óssea; ↓absorção de Ca²⁺ intestinal → osteoporose crônica |
-| Rim | Efeito mineralocorticoide leve (especialmente em excesso) |
+O cortisol é vital para manter a glicose alta quando precisamos de energia rápida.
+- **Ritmo Circadiano:** O nível de cortisol atinge seu **pico às 8h da manhã** (para te fazer acordar) e cai ao menor nível à meia-noite.
+- **Efeitos:** Ele aumenta o açúcar no sangue (**Hiperglicemia**), quebra músculos para gerar energia e atua como um potente **Anti-inflamatório**.
+- **Cuidado:** Se for usado em excesso (remédio) ou produzido em excesso (tumor), causa a **Síndrome de Cushing**, enfraquecendo os ossos e a imunidade.
 
 ---
 
-## 2. Aldosterona — O Mineralocorticoide Principal
+## 2. Aldosterona: A Guardiã da Pressão
 
-### Regulação
-
-1. **Sistema RAAS** (principal): hipovolemia → renina → Ang I → ECA → Ang II → aldosterona
-2. **Hipercalemia** (direto na zona glomerulosa)
-3. ACTH (estimula levemente, mas não é o regulador predominante)
-
-### Mecanismo de Ação
-
-- Receptor nuclear (mineralocorticoide = MR) → regulação gênica
-- Açõs no ducto coletor:
-  - ↑ENaC (Na⁺ entra na célula) → reabsorção de Na⁺ e H₂O
-  - ↑ROMK (K⁺ sai para o lúmen) → secreção de K⁺
-  - ↑H⁺-ATPase → secreção de H⁺
-
-> **Efeito net:** retenção de Na⁺, H₂O → ↑PA; excreção de K⁺ → hipocalemia; excreção de H⁺ → alcalose metabólica
-
-### Hiperaldosteronismo Primário (Síndrome de Conn)
-
-- Adenoma suprarrenal produtor de aldosterona
-- **Tríade:** HAS + hipocalemia + alcalose metabólica
-- Renina plasmática **BAIXA** (aldosterona autonomamente alta suprime o RAAS)
+A aldosterona entra em ação quando a pressão cai ou o potássio sobe.
+- **Ação Renal:** No ducto coletor, ela abre canais para o **Sódio entrar** (puxando água junto) e o **Potássio sair** (sendo eliminado no xixi).
+- **Efeito Final:** Aumenta a pressão arterial e diminui o potássio no sangue.
+- **Feedback:** Uma vez que a pressão sobe e o sódio normaliza, o sistema se desliga automaticamente.
 
 ---
 
-## 3. Andrógenos Adrenais — DHEA e Androstenediona
+## 3. Adrenalina e a Resposta de Luta ou Fuga
 
-- Produzidos pela zona reticular
-- Convertidos perifericamente em testosterona e estradiol
-- Importância limitada em adultos com gônadas funcionais
-- Relevância clínica: principal fonte de androgênio em **mulheres** e em **crianças** (adrenarca)
-- **Hiperplasia adrenal congênita (HAC):** deficiência de 21-hidroxilase → atalho na síntese → excesso de andrógenos → virilização feminina ao nascimento
-
----
-
-## 4. Catecolaminas — Adrenalina e Noradrenalina
-
-### Síntese (Cadeia de Tirosina)
-
-```flow
-Tirosina → DOPA → Dopamina → Noradrenalina → Adrenalina (PNMT, induzida por cortisol)
-```
-
-> A adrenalina só pode ser sintetizada na medula suprarrenal porque o cortisol do córtex (que banha a medula via circulação portal local) induz a enzima **PNMT** que converte NA → adrenalina.
-
-### Ações nos Receptores Adrenérgicos
-
-| Receptor | Localização | Efeito |
-|----------|-------------|--------|
-| α1 | Vasos periféricos, iris | Vasoconstricção, midríase |
-| α2 | Pré-sináptico | Inibição da NA (feedback) |
-| β1 | Coração | ↑FC, ↑contratilidade (inotropismo) |
-| β2 | Brônquios, vasos musculares | Broncodilatação, vasodilatação |
-| β3 | Adipócito | Lipólise |
-
-**Adrenalina:** age em β1, β2 e α (efeito misto)
-**Noradrenalina:** predominantemente α-adrenérgica (vasoconstritora)
-
----
-
-## 5. Comparação de Disfunções — Tabela
-
-| Condição | Zona/Estrutura | Causa | Achados |
-|---------|---------------|-------|---------|
-| **Addison** | Córtex todo | Autoimune/infecciosa | ↓cortisol, ↓aldosterona; hipotensão, hiperpigmentação, hipercalemia |
-| **Cushing** | Fasciculada | Excesso ACTH ou adenoma | ↑cortisol; HAS, obesidade centrípeta, hiperglicemia, osteoporose |
-| **Conn** | Glomerulosa | Adenoma | ↑aldosterona; HAS, hipocalemia, alcalose, renina baixa |
-| **Feocromocitoma** | Medula | Tumor cromafim | ↑catecolaminas; HAS paroxística, taquicardia, sudorese, cefaleia |
-| **HAC** | Fasciculada | Def. 21-hidroxilase | ↓cortisol, ↑andrógenos; virilização, hipotensão (sem mineralocorticoide) |
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Ritmo circadiano do cortisol:** pico MATINAL (8h). O teste de supressão com dexametasona noturna explora esse pico — se não suprime, sugere hipercortisolismo.
-2. **Síndrome de Conn: renina BAIXA:** O excesso autônomo de aldosterona suprime o RAAS → renina baixa. Isso diferencia do hiperaldosteronismo secundário (HAS renovascular) onde renina é alta.
-3. **Adrenalina depende de cortisol local:** A PNMT (NA→adrenalina) é induzida por cortisol. Por isso na insuficiência suprarrenal total também falta adrenalina.
-4. **Hiperpigmentação na doença de Addison:** ↑ACTH (por feedback negativo do cortisol baixo) → ACTH tem ação em receptores de MC1R nos melanócitos → hiperpigmentação.
-5. **HC por defeito de 21-hidroxilase:** Cortisol baixo → ACTH alto → cortisol tentando ser sintetizado → via bloqueada → excesso de precursores que desviam para andrógenos. Causa mais comum de HAC.
-6. **Feocromocitoma: 10% regra:** 10% bilateral, 10% maligno, 10% extra-adrenal, 10% em crianças, 10% familial.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei o eixo HPA (CRH → ACTH → cortisol) e seu ritmo circadiano
-- [ ] Sei os efeitos do cortisol (gliconeogênese, catabolismo, anti-inflamatório, osteoporose)
-- [ ] Sei que aldosterona = RAAS e K⁺; efeito: ↑Na⁺, ↓K⁺, alcalose
-- [ ] Sei que a PNMT (NA→adrenalina) depende de cortisol local
-- [ ] Distingo as quatro disfunções suprarrenais e seus achados laboratoriais
-- [ ] Sei que na síndrome de Conn a renina é baixa (aldosterona autônoma)
+A medula suprarrenal é o centro de comando das emergências.
+- **Adrenalina:** Representa 80% da secreção da medula. Ela faz seu coração bater mais forte (**Receptores Beta-1**) e abre seus brônquios (**Beta-2**) para você respirar melhor.
+- **Noradrenalina:** Representa 20% e foca em apertar os vasos sanguíneos (**Receptores Alfa-1**) para manter a pressão alta durante um susto ou trauma.
+- **Curiosidade:** A adrenalina só "nasce" se houver cortisol por perto no córtex.
 
 ---
 
 ## Ponte com a Clínica
 
-Na crise addisoniana, o estresse crônico ou agudo (cirurgia, infecção) em paciente com insuficiência suprarrenal não tratada leva a colapso: cortisol insuficiente não consegue manter a resposta vascular às catecolaminas → hipotensão refratária → choque distributivo. O tratamento é hidrocortisona endovenosa de urgência. Na síndrome de Cushing exógena (uso crônico de corticoides), o feedback negativo prolongado atrofia o eixo HPA — a retirada abrupta causa insuficiência suprarrenal iatrogênica. Por isso, corticoides são sempre desmamados progressivamente.
+O uso crônico de **Corticoides** (como Prednisona) "engana" o cérebro, fazendo-o pensar que já tem cortisol suficiente. Isso desliga o **Eixo HPA**, fazendo a glândula suprarrenal atrofiar por falta de uso. Se o paciente parar o remédio de vez (**Retirada Abrupta**), o corpo fica sem nada, pois a glândula está "dormindo". Isso causa uma crise de pressão baixa fatal. Por isso, nunca se para um corticoide sem fazer o "desmame" gradual.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Eixo HPA**: Hipotálamo (CRH) -> Hipófise (ACTH) -> Cortisol.
+- **Aldosterona**: Aumenta o sódio/pressão e diminui o **Potássio**.
+- **Pico de Cortisol**: Acontece nas primeiras horas da manhã (**8h**).
+- **Catecolaminas**: Adrenalina e Noradrenalina; resposta imediata via sistema nervoso simpático.
+- **Feedback Negativo**: O excesso de cortisol desliga os comandos do cérebro (CRH e ACTH).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Eixo HPA:** CRH (hipotálamo) → ACTH (hipófise) → cortisol (fasciculada); ritmo circadiano, pico matinal
-- **Cortisol:** gliconeogênese + catabolismo proteico + anti-inflamatório + osteoporose
-- **Aldosterona:** RAAS/K⁺ → ENaC → ↑Na⁺, ↑H₂O, ↓K⁺ → alcalose
-- **Conn:** aldosterona alta + renina BAIXA + hipocalemia + HAS
-- **Adrenalina:** PNMT induzida por cortisol (90% da medula é adrenalina)
-- **Addison:** ↓cortisol + ↓aldosterona → hipotensão + hiperpigmentação + hipercalemia
+
+Para gabaritar Fisiologia Suprarrenal, entenda quem manda em quem. 
+O cortisol protege o corpo no estresse crônico, aumentando a glicose; a adrenalina protege no estresse agudo, aumentando a frequência cardíaca. Se a questão falar de um paciente com pressão alta e **Potássio Baixo**, o diagnóstico é hiperaldosteronismo (Síndrome de Conn).
+
+A Uninove ama o **Ritmo Circadiano**. Saiba que medimos o cortisol de manhã para ver o pico. Se o paciente tem a pele escura e pressão baixa, é **Addison** (falta de cortisol estimula demais o ACTH). A medula produz adrenalina sob comando direto dos nervos, sem passar por hormônios do cérebro. Por fim, lembre-se: excesso de cortisol (Cushing) causa **Diabetes** secundário porque ele bloqueia a ação da insulina.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Addison | Cushing | Addison: ↓cortisol, hipotensão, hiperpigmentação; Cushing: ↑cortisol, HAS, obesidade centrípeta |
-| Conn (primário) | HAS renovascular (secundário) | Conn: renina baixa; HAS renovascular: renina alta |
-| Adrenalina | Noradrenalina | Adrenalina: β1+β2+α (mista); Noradrenalina: predominantemente α (vasoconstritora) |
-| HAC (def. 21-OH) | Feocromocitoma | HAC: excesso andrógenos (virilização), cortisol baixo; Feocromocitoma: excesso catecolaminas (HAS paroxística) |
+| **Cortisol** | **Adrenalina** | Estresse **Longo (Hormonal)** vs Estresse **Curto (Nervoso)** |
+| **Aldosterona** | **ADH** | Reabsorve **Sal** vs Reabsorve **Água** |
+| **Pico de Cortisol** | **Nadir de Cortisol** | Às **8h da manhã** (Acordar) vs À **Meia-noite** (Dormir) |
+| **Receptor Alfa-1** | **Receptor Beta-2** | **Aperta os Vasos** vs **Abre os Brônquios** |
+| **Conn** | **Addison** | Hormônio **em Excesso** vs Hormônio **em Falta** |
 
 ### Frase-âncora para não esquecer
-> "Na Addison falta tudo no córtex — sem cortisol e sem aldosterona, o paciente fica hipotônico, escuro e hipercalêmico; o cortisol baixo deixa o ACTH gritando, e o ACTH excessivo escurece a pele."
+
+> "O cortisol é o despertador que aumenta o açúcar; a aldosterona é a guarda que segura o sal e chuta o potássio. A adrenalina é o motor de arranque para fugir do leão. Se o eixo HPA para, o corpo colapsa; se ele corre demais, o açúcar sobe e o osso enfraquece."

@@ -7,144 +7,75 @@
 
 ## Relevância Clínica e Acadêmica
 
-As propriedades do músculo cardíaco são o eixo da fisiologia cardiovascular porque conectam sinal elétrico, geração de força e desempenho hemodinâmico. Na prova, esse tema costuma aparecer em questões integradas: ECG + mecanismo iônico + efeito clínico de fármacos.
+As propriedades intrínsecas do músculo cardíaco são o que permitem ao coração atuar como uma bomba mecânica regida por sinais elétricos. Nesta aula, conectamos a fisiologia celular à prática clínica, explicando fenômenos que variam desde o automatismo do ritmo sinusal até a força de ejeção necessária para manter a perfusão sistêmica.
 
-Na prática, entender excitabilidade, automatismo, condutibilidade, contratilidade e refratariedade ajuda a prever por que um paciente evolui com bradicardia, taquiarritmia, baixo débito, congestão pulmonar ou choque cardiogênico.
-
-Além disso, os conceitos de **inotropismo**, **cronotropismo**, **dromotropismo** e **lusitropismo** são fundamentais para interpretar intervenções terapêuticas em UTI, emergência e enfermaria.
-
-## Excitabilidade: o limiar elétrico do miocárdio
-
-**Excitabilidade** é a capacidade de a célula miocárdica gerar potencial de ação quando o estímulo atinge o limiar. Ela depende da distribuição de canais de Na+, Ca2+ e K+, do potencial de membrana de repouso e do estado metabólico celular.
-
-Nos cardiomiócitos contráteis (átrio e ventrículo), a fase 0 é rápida e predominantemente por entrada de Na+; já nas células marcapasso, a despolarização depende mais de correntes lentas, sobretudo de Ca2+, com participação da corrente funny (If).
-
-Na isquemia, acidose e distúrbios hidroeletrolíticos, o limiar pode ser alterado. Isso explica por que hipercalemia e hipóxia aumentam risco arrítmico: a excitabilidade se torna heterogênea no tecido, favorecendo circuitos de reentrada.
-
-> **Dica de Prova:** banca gosta de associar alteração de K+ sérico com mudança de excitabilidade e risco de arritmia, não apenas com "onda T alterada".
-
-> **Pegadinha:** confundir excitabilidade (capacidade de disparar) com contratilidade (força de contração). São propriedades diferentes, embora interdependentes.
-
-## Automatismo e condutibilidade: geração e propagação do impulso
-
-**Automatismo** é a capacidade de despolarização espontânea, mais evidente no nó sinoatrial (NSA), seguida de nó atrioventricular (NAV) e sistema His-Purkinje. O marcapasso dominante é o que atinge limiar primeiro.
-
-A inclinação da fase 4 no NSA define a frequência intrínseca. Estímulo simpático aumenta essa inclinação (acelera frequência), enquanto parassimpático a reduz (desacelera frequência).
-
-**Condutibilidade** é a capacidade de conduzir o impulso de forma coordenada. A sequência fisiológica é: NSA -> átrios -> NAV (atraso fisiológico) -> feixe de His -> ramos -> Purkinje -> ventrículos.
-
-O atraso no NAV é crítico para enchimento ventricular. Sem esse atraso, a contribuição atrial para volume diastólico final cai, reduzindo eficiência do débito, especialmente em idosos e disfunção diastólica.
-
-A velocidade de condução é maior no sistema Purkinje e menor no NAV. Em provas, isso aparece em questões sobre bloqueios AV, QRS alargado e dessincronia ventricular.
-
-### Sequência elétrica e impacto funcional
-
-| Etapa | O que ocorre | Relevância para prova e clínica |
-|------|---------------|----------------------------------|
-| Nó SA dispara | Início do impulso espontâneo | Define marcapasso sinusal normal |
-| Despolarização atrial | Ativação dos átrios | Relaciona-se à onda P |
-| Atraso no nó AV | Condução lenta fisiológica | Permite enchimento ventricular adequado |
-| His-Purkinje conduz rápido | Ativação sincronizada dos ventrículos | QRS estreito em condução normal |
-| Repolarização ventricular | Retorno elétrico ao basal | Relaciona-se à onda T |
-
-## Contratilidade e inotropismo: força mecânica do coração
-
-**Contratilidade** é a capacidade intrínseca do miocárdio gerar força para um dado pré-carga e pós-carga. Seu determinante imediato é o Ca2+ citosólico disponível para interação actina-miosina.
-
-No coração, o potencial de ação prolongado abre canais de Ca2+ tipo L durante o platô (fase 2). O Ca2+ que entra desencadeia liberação adicional de Ca2+ do retículo sarcoplasmático pelos receptores de rianodina (RyR2): é a base do acoplamento excitação-contração.
-
-**Inotropismo positivo** aumenta força contrátil, em geral por maior disponibilidade de Ca2+ intracelular (ex.: catecolaminas beta-1). **Inotropismo negativo** reduz força (ex.: beta-bloqueadores e isquemia extensa).
-
-Em insuficiência cardíaca sistólica, a contratilidade está reduzida e o organismo compensa com hiperatividade simpática. No curto prazo, isso sustenta o débito; no longo prazo, piora o remodelamento e aumenta o consumo de O2 pelo miocárdio.
-
-## Acoplamento excitação-contração e lusitropismo
-
-No miocárdio, eletricidade e mecânica são inseparáveis. O potencial de ação abre canais de Ca2+ tipo L, ativa RyR2, eleva Ca2+ citosólico e inicia encurtamento sarcomérico. O relaxamento depende da retirada de Ca2+ do citosol, principalmente via SERCA2a e trocador Na+/Ca2+.
-
-**Lusitropismo** é a propriedade de relaxamento miocárdico. Lusitropismo positivo significa relaxamento mais rápido e eficiente, essencial em frequências elevadas, quando a diástole encurta.
-
-Estímulo beta-adrenérgico aumenta inotropismo e também lusitropismo: a fosforilação de fosfolambano favorece SERCA2a, acelerando recaptura de Ca2+ e melhorando relaxamento.
-
-Disfunção lusitrópica é chave na insuficiência cardíaca com fração de ejeção preservada (ICFEP): o ventrículo contrai relativamente bem, mas relaxa mal, elevando pressão diastólica e causando dispneia aos esforços.
-
-## Refratariedade, cronotropismo e risco arrítmico
-
-A **refratariedade** do músculo cardíaco é longa por causa do potencial de ação com platô. O período refratário absoluto impede nova despolarização eficaz durante a sístole, evitando tetania e garantindo alternância entre contração e enchimento.
-
-No músculo esquelético, a refratariedade é curta e permite somação/tetania; no coração, isso seria incompatível com vida, pois impediria diástole e enchimento ventricular.
-
-**Cronotropismo** refere-se à frequência de disparo do marcapasso. Cronotropismo positivo (simpático, febre, hipertireoidismo) aumenta FC; cronotropismo negativo (vagal, beta-bloqueio, hipotireoidismo) reduz FC.
-
-Também é útil lembrar dromotropismo, que representa a velocidade de condução, principalmente no NAV. Embora não seja o foco principal da aula, esse conceito cai em prova junto com cronotropismo e inotropismo na análise de fármacos.
-
-### Comparativo das propriedades do músculo cardíaco
-
-| Propriedade | Definição operacional | Principal base fisiológica | Exemplo clínico |
-|------------|------------------------|----------------------------|-----------------|
-| Excitabilidade | Responder ao estímulo com potencial de ação | Limiar, canais de Na+/Ca2+, gradientes iônicos | Hipercalemia alterando excitabilidade e ritmo |
-| Automatismo | Gerar impulso espontâneo | Despolarização diastólica fase 4 no NSA | Ritmo de escape em falha do marcapasso primário |
-| Condutibilidade | Propagar impulso entre células/tecidos | Junções gap, sistema His-Purkinje, NAV | Bloqueio AV com bradicardia e síncope |
-| Contratilidade | Gerar força para ejetar sangue | Ca2+ intracelular, interação actina-miosina | IC com baixo débito e fadiga |
-| Refratariedade | Resistir a novo disparo em fase crítica | Potencial de ação prolongado com platô | Prevenção de tetania cardíaca |
-| Inotropismo | Modulação da força contrátil | Sinal beta-1, Ca2+, AMPc/PKA | Dobutamina em choque cardiogênico |
-| Cronotropismo | Modulação da frequência | Inclinação fase 4 no NSA, SNA | Taquicardia sinusal por hipovolemia |
-| Lusitropismo | Modulação do relaxamento diastólico | SERCA2a, fosfolambano, remoção de Ca2+ | Dispneia por disfunção diastólica |
-
-## Ponte com a Clínica
-
-Paciente de 68 anos, hipertenso e diabético, chega com dispneia progressiva, ortopneia e edema maleolar. FC 112 bpm, PA 150/90 mmHg, estertores bibasais. O ECG mostra ritmo sinusal com sobrecarga ventricular esquerda; ecocardiograma com fração de ejeção preservada e disfunção diastólica.
-
-Esse cenário integra várias propriedades da aula: cronotropismo elevado como resposta neuro-hormonal, contratilidade global preservada, porém lusitropismo prejudicado com enchimento ventricular ineficiente. O resultado é aumento de pressão de enchimento e congestão pulmonar.
-
-Em outro contexto, no choque cardiogênico pós-IAM extenso, predomina falha de contratilidade (inotropismo negativo funcional), com queda de débito e hipoperfusão. Em ambos os casos, a fisiologia orienta a escolha terapêutica e a interpretação dos sinais vitais.
+O domínio de termos como **Inotropismo**, **Cronotropismo** e **Lusitropismo** é fundamental para a atuação em cenários de **UTI e Emergência**, onde a manipulação farmacológica dessas propriedades (através de aminas ou betabloqueadores) decide o prognóstico do paciente em choque ou insuficiência cardíaca.
 
 ---
 
+## O Coração como um Sincício Funcional
 
-### Figura sugerida
+Diferente do músculo esquelético, onde as fibras podem ser recrutadas individualmente, o coração funciona como um **Sincício Funcional**. Isso se deve aos **discos intercalares**, que possuem **junções gap** de baixa resistência elétrica, permitindo que o estímulo em uma célula se espalhe quase instantaneamente para todas as outras. Essa arquitetura garante que, ao receber um sinal, o átrio ou o ventrículo contraia como uma unidade única e coordenada, maximizando a eficiência da ejeção.
 
-**Figura-ID:** `BMF2-A2-F01`
+---
 
-- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
-- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
-- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+## As Quatro Propriedades Básicas
+
+Para que o ciclo cardíaco ocorra, o miocárdio depende de quatro pilares eletrofisiológicos e mecânicos que interagem continuamente:
+
+1.  **Excitabilidade (Batmotropismo):** É a capacidade das células de responderem a um estímulo elétrico. Se o estímulo ultrapassa o **limiar de disparo**, a célula gera um potencial de ação. Fatores como a **isquemia** ou distúrbios de **Potássio (K+)** podem alterar esse limiar, tornando o coração perigosamente excitável (arritmogênico) ou inerte.
+2.  **Automatismo (Cronotropismo):** É a "independência" do coração em gerar seu próprio impulso. Embora o sistema nervoso module o ritmo, o **Nó Sinoatrial** possui automatismo intrínseco. A inclinação da **Fase 4** do potencial de ação dita a **Frequência Cardíaca**.
+3.  **Condutibilidade (Dromotropismo):** Refere-se à velocidade com que o estímulo viaja pelo tecido. O grande destaque é o **Nó AV**, onde a condução é retardada propositalmente para que o sangue passe dos átrios para os ventrículos antes da contração final.
+4.  **Contratilidade (Inotropismo):** É a propriedade mecânica de gerar força. Ela não depende apenas do estiramento da fibra (Frank-Starling), mas principalmente do **aporte de Cálcio (Ca2+)** disponível para as proteínas contráteis.
+
+---
+
+## O Ciclo do Cálcio: Inotropismo e Lusitropismo
+
+A força do coração (Inotropismo) está intimamente ligada ao **Cálcio citosólico**. Durante a despolarização, o Ca2+ entra na célula e atrela-se à **Troponina C**, expondo os sítios de ligação entre a **actina e a miosina**. Quanto mais cálcio é liberado do retículo sarcoplasmático via receptores de **rianodina (RyR2)**, mais forte será a contração.
+
+Contudo, o coração precisa relaxar para encher novamente, uma propriedade chamada **Lusitropismo**. Este é um processo **ativo** (consome ATP) que depende da remoção rápida do cálcio do citosol. A proteína **SERCA2a** é o principal motor de relaxamento, bombeando o cálcio de volta para o retículo. Se o lusitropismo falha — como ocorre na **Insuficiência Diastólica** — o ventrículo torna-se rígido, o enchimento cai e a pressão retrocede para os pulmões, causando **congestão e dispneia**.
+
+---
+
+### Comparativo das Modulações (SNA)
+
+| Propriedade | Nome Técnico | Efeito Simpático (+) | Efeito Vagal (-) |
+|-------------|--------------|----------------------|------------------|
+| **Frequência** | Cronotropismo | ↑ FC (Taquicardia) | ↓ FC (Bradicardia) |
+| **Condução** | Dromotropismo | ↑ Velocidade | ↓ Velocidade (Lento) |
+| **Força** | Inotropismo | ↑ Força Contrátil | ↓ Força (Efeito Leve) |
+| **Relaxamento** | Lusitropismo | ↑ Velocidade de Relax | ↓ Velocidade |
+
+---
 
 ## Pontos-Chave para Prova
 
-- **Excitabilidade** depende de limiar e ambiente iônico; distúrbios eletrolíticos mudam risco arrítmico.
-- **Automatismo** é maior no NSA; marcapassos secundários assumem quando o primário falha.
-- **Condutibilidade** inclui atraso fisiológico no NAV, essencial para sincronia eletromecânica.
-- **Contratilidade** depende de Ca2+ e define capacidade de manter débito em demanda aumentada.
-- **Refratariedade prolongada** impede tetania e permite ciclo sístole-diástole funcional.
-- **Inotropismo, cronotropismo e lusitropismo** são eixos clássicos para interpretar fármacos e descompensações.
-- **Acoplamento excitação-contração** é tema recorrente em questões integradas com farmacologia.
-- **Implicação clínica central:** alteração elétrica ou iônica quase sempre tem desfecho mecânico/hemodinâmico.
+*   **Junções Gap:** Garantem o funcionamento do coração como um sincício único.
+*   **Nó AV:** Local crítico de **Dromotropismo Lento**, essencial para a hemodinâmica.
+*   **Ca2+:** O principal regulador do **Inotropismo** (força) e do **Lusitropismo** (relaxamento).
+*   **Refratariedade:** O período refratário longo do coração, causado pelo platô, é o que **impede a tetania**, protegendo a vida.
+*   **SNA:** O sistema simpático é um estimulador global, enquanto o vago atua principalmente no ritmo e na condução (nós SA e AV).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-Na prova, o núcleo do tema é reconhecer que o músculo cardíaco não é apenas uma bomba mecânica: ele é tecido eletricamente especializado. Excitabilidade e automatismo iniciam o processo; condutibilidade organiza a sequência de ativação; contratilidade transforma sinal elétrico em ejeção efetiva.
 
-A banca costuma testar a lógica de causa e efeito. Se há alteração iônica, você deve prever mudança de excitabilidade e risco de arritmia. Se há disfunção de condução no NAV ou sistema His-Purkinje, você deve prever perda de sincronia e impacto sobre débito. Se há falha de contratilidade ou relaxamento, a consequência esperada é congestão, baixo débito ou ambos.
+Na prova, raciocine sobre o "tropismo" do momento: se a questão fala de frequência, o foco é o **Cronotropismo** (Nó SA); se fala de força ou fração de ejeção, o foco é o **Inotropismo** (Cálcio/Miócito). Lembre-se que o relaxamento não é passivo; o **Lusitropismo** consome energia e, se falhar, o paciente terá sintomas de **insuficiência cardíaca com fração de ejeção preservada**.
 
-Memorize a tríade farmacofisiológica: inotropismo (força), cronotropismo (frequência) e lusitropismo (relaxamento). Em cenários clínicos, simpático tende a elevar os três de modo variável; já doença miocárdica crônica pode manter compensação inicial e depois evoluir para descompensação.
-
-O acoplamento excitação-contração é o elo mais cobrado em integração: entrada de Ca2+ por canal tipo L, liberação adicional do retículo sarcoplasmático e remoção de Ca2+ para permitir relaxamento. Se você domina essa sequência, interpreta melhor efeito de fármacos, arritmias e fenótipos de insuficiência cardíaca.
+Diferente do músculo esquelético, o miocárdio possui um **platô elétrico** que garante uma contração rítmica e impede a somação de estímulos (**tetania**). Sem esse período refratário prolongado, o coração não teria tempo de relaxar e encher, tornando impossível a manutenção do débito cardíaco.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Excitabilidade | Contratilidade | Excitabilidade define disparo elétrico; contratilidade define força mecânica gerada |
-| Automatismo | Condutibilidade | Automatismo gera impulso espontâneo; condutibilidade propaga o impulso no tecido |
-| Inotropismo | Lusitropismo | Inotropismo altera força de ejeção; lusitropismo altera velocidade/eficiência de relaxamento |
-| Músculo cardíaco | Músculo esquelético | Cardíaco tem potencial de ação com platô e refratariedade longa; esquelético permite tetania |
-| Cronotropismo | Dromotropismo | Cronotropismo altera frequência do marcapasso; dromotropismo altera velocidade de condução |
+| **Inotropismo** | **Lusitropismo** | Capacidade de **contrair** vs Capacidade de **relaxar** |
+| **Dromotropismo** | **Cronotropismo** | **Velocidade** de condução vs **Frequência** de disparos |
+| **Potássio (K+)** | **Cálcio (Ca2+)** | Afeta **Excitabilidade** vs Afeta **Contratilidade** |
+| **Sincício** | **Músculo Isolado** | Todo o coração responde vs Apenas a fibra estimulada |
 
 ### Frase-âncora para não esquecer
-> "No coração, a eletricidade dita o ritmo, o cálcio dita a força e a refratariedade protege a diástole."
+
+> "O sinal gera o ritmo, o cálcio gera a força e o relaxamento garante o próximo batimento."

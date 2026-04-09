@@ -1,144 +1,94 @@
-# Embriologia do Sistema Nervoso
+# BMF4 — Aula 2: Embriologia do Sistema Nervoso — O Início de Tudo
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a2
+A embriologia explica por que o sistema nervoso tem a forma que tem. Na prova, os temas centrais são o fechamento dos **Neuróporos** (e suas malformações), os derivados das **Cristas Neurais** e a diferenciação das **Vesículas Encefálicas**.
+
+Na prática, entender o desenvolvimento é entender a prevenção. O simples uso de **Ácido Fólico** antes da gestação pode evitar tragédias como a anencefalia. Além disso, saber que a mielinização é um processo contínuo explica por que um bebê tem reflexos que seriam patológicos em um adulto, como o sinal de **Babinski**.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A embriologia do sistema nervoso explica as malformações mais comuns do SNC: espinha bífida, anencefalia, hidrocefalia congênita e displasias corticais. Cada fase do desenvolvimento tem seu ponto de vulnerabilidade — e a Uninove explora isso em questões que relacionam defeito embriológico ao diagnóstico pré-natal ou neonatal.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de vesículas encefálicas.
+- **O que mostrar:** A "Metamorfose do Cérebro": Uma sequência de três desenhos. 1. O **Tubo Neural** reto; 2. As **3 Vesículas Primárias** (Pros, Meso e Rombencéfalo); 3. As **5 Vesículas Secundárias**. Colorir cada parte para mostrar o que vira o quê no adulto.
+- **Tipo sugerido:** Esquema didático evolutivo.
+- **Legenda (rascunho):** Estágios de diferenciação das vesículas encefálicas durante a gestação.
 
+## 1. Neurulação: O "Zíper" que Gera a Vida
 
-
-
----
-
-## Neurulação — Formação do Tubo Neural
-
-A **placa neural** surge na 3.ª semana de gestação a partir do ectoderma dorsal, induizada pela notocorda. Ela invagina progressivamente formando o **sulco neural** e, ao fundir as bordas, origina o **tubo neural** (18.º–28.º dia de gestação).
-
-O fechamento do tubo neural ocorre em zíperes: começa na região cervical e avança cranial e caudalmente. Os pontos de fechamento são os **neuróporos**:
-- **Neuróporo anterior (cranial):** fecha no **25.º dia**. Falha → **anencefalia** (incompatível com a vida).
-- **Neuróporo posterior (caudal):** fecha no **27.º dia**. Falha → **espinha bífida** (meningocele, mielomeningocele).
-
-> **Dica:** Ácido fólico (B9) na periconcepcional reduz defeitos do tubo neural em ~70%. É cobrado sempre como prevenção primária recomendada 3 meses antes da concepção.
+O sistema nervoso começa como uma placa que se dobra para formar o **Tubo Neural**. Esse tubo se fecha como um zíper, começando pelo meio:
+- **Neuróporo Anterior (Cranial):** Fecha por volta do **25º dia**. Se não fechar, o bebê nasce sem o cérebro (**Anencefalia**).
+- **Neuróporo Posterior (Caudal):** Fecha por volta do **27º dia**. Se falhar, causa a **Espinha Bífida** (como a mielomeningocele).
+- **Prevenção:** O **Ácido Fólico (Vitamina B9)** é essencial para esse fechamento. Deve ser tomado antes mesmo de engravidar.
 
 ---
 
-## Cristas Neurais
+## 2. Cristas Neurais: Os Viajantes do Embrião
 
-Durante a neurulação, células da crista neural se desprendem da borda do tubo e migram pelo embrião, dando origem a estruturas diversas:
-
-| Derivado | Estrutura |
-|----------|-----------|
-| SNP sensitivo | Gânglios da raiz dorsal (DRG), gânglios cranianos sensitivos |
-| SNA | Gânglios simpáticos e parassimpáticos |
-| Medula suprarrenal | Células cromafins (secretam adrenalina) |
-| Melanócitos | Pigmentação da pele |
-| Células de Schwann | Bainha de mielina do SNP |
-| Ossificação membranosa do crânio | Viscerocrânio e parte do neurocrânio |
-
-> **Pegadinha:** Neuroblastoma (tumor maligno de crianças) origina-se de células da crista neural da medula suprarrenal. Lembrar da relação: crista neural → células cromafins → tumor.
+Enquanto o tubo se fecha, algumas células "fogem" das bordas: são as **Células da Crista Neural**. Elas migram e formam quase todo o **Sistema Nervoso Periférico**, além de:
+- **Melanócitos** (células da cor da pele).
+- **Medula da Suprarrenal** (que libera adrenalina).
+- **Gânglios do SNA** e da raiz dorsal.
+- **Células de Schwann** (que fazem a mielina fora do SNC).
 
 ---
 
-## Vesículas Encefálicas Primárias (4.ª semana)
+## 3. Vesículas Encefálicas: A Expansão do Topo
 
-O tubo neural cranial dilata em 3 vesículas primárias:
-
-1. **Prosencéfalo** (encéfalo anterior)
-2. **Mesencéfalo**
-3. **Rombencéfalo** (encéfalo posterior)
-
----
-
-## Vesículas Encefálicas Secundárias (5.ª semana)
-
-Na 5.ª semana, o prosencéfalo e o rombencéfalo se subdividem, formando 5 vesículas secundárias:
-
-| Vesícula primária | Vesícula secundária | Derivados adultos |
-|------------------|--------------------|--------------------|
-| Prosencéfalo | Telencéfalo | Hemisférios cerebrais, gânglios da base, ventrículos laterais |
-| Prosencéfalo | Diencéfalo | Tálamo, hipotálamo, III ventrículo, retina |
-| Mesencéfalo | Mesencéfalo (não subdivide) | Pedúnculos, tubérculos quadrigêmeos, aqueduto |
-| Rombencéfalo | Metencéfalo | Ponte + cerebelo, IV ventrículo (parte) |
-| Rombencéfalo | Mielencéfalo | Bulbo, IV ventrículo (parte) |
-
-> **Dica:** O mesencéfalo é o único que não se subdivide entre as vesículas primárias e secundárias.
+O topo do tubo neural se dilata em 3 vesículas que depois viram 5:
+1.  **Prosencéfalo:** Divide-se em **Telencéfalo** (hemisférios cerebrais) e **Diencéfalo** (tálamo e hipotálamo).
+2.  **Mesencéfalo:** Permanece como mesencéfalo no adulto.
+3.  **Rombencéfalo:** Divide-se em **Metencéfalo** (ponte e cerebelo) e **Mielencéfalo** (bulbo).
 
 ---
 
-## Sistema Ventricular — Origem Embriológica
+## 4. Mielinização: A Velocidade da Informação
 
-Os ventrículos derivam do lúmen do tubo neural. Esta relação é importante:
-
-| Ventrículo adulto | Derivado de |
-|-----------------|-------------|
-| Ventrículos laterais (I e II) | Telencéfalo |
-| III ventrículo | Diencéfalo |
-| Aqueduto de Sylvius | Mesencéfalo |
-| IV ventrículo | Metencéfalo + mielencéfalo |
-
-Hidrocefalia congênita por estenose do aqueduto de Sylvius é a forma mais comum de hidrocefalia obstrutiva.
-
----
-
-## Mielinização
-
-A mielina no SNC é produzida pelos oligodendrócitos; no SNP, pelas células de Schwann. A mielinização começa no 3.º trimestre e continua até os 2 anos de vida. Isso explica:
-- Recém-nascidos: reflexos primitivos presentes (Moro, preensão) — trato piramidal ainda não mielinizado.
-- Babinski normal até ~18–24 meses.
-- Velocidade de condução nervosa menor em prematuros.
-
----
-
-## Pontos-Chave
-
-- Neuróporo anterior fecha 25.º dia (falha = anencefalia); posterior 27.º dia (falha = espinha bífida).
-- Ácido fólico periconcepcional: reduz defeitos do tubo neural.
-- Cristas neurais: gânglios SNP, SNA, medula suprarrenal, melanócitos, células de Schwann.
-- Vesículas primárias → 3 (pros, meso, rombo). Secundárias → 5 (telen, dien, meso, meten, mielen).
-- Ventrículos laterais = telencéfalo; III ventrículo = diencéfalo; aqueduto = mesencéfalo.
-- Babinski normal até 18–24 meses (mielinização incompleta do trato piramidal).
+A **Mielinização** é o processo de encapar os nervos com gordura para a informação correr mais rápido.
+- No **SNC**, quem faz isso são os **Oligodendrócitos**.
+- No **SNP**, são as **Células de Schwann**.
+- **Curiosidade:** O sistema piramidal (motor) só termina de mielinizar por volta dos 2 anos. Por isso, bebês têm o **Sinal de Babinski Positivo** (o hálux sobe ao estimular o pé), o que é normal para eles, mas sinal de lesão para você.
 
 ---
 
 ## Ponte com a Clínica
 
-O diagnóstico pré-natal de defeitos do tubo neural é feito por ultrassonografia morfológica (12–14 semanas) e dosagem de alfafetoproteína no líquido amniótico. A prevenção com ácido fólico é recomendada para todas as mulheres em idade fértil, não apenas as que planejam engravidar — porque a neurulação ocorre antes mesmo da confirmação da gravidez.
+No seu exame físico pediátrico, você testará reflexos primitivos como o de **Moro** ou o de **Preensão Palmar**. Esses reflexos existem porque o córtex cerebral ainda não está totalmente conectado (mielinizado) para inibi-los. Se uma criança de 5 anos ainda apresenta esses reflexos, ou se um adulto "ganha" o Babinski de volta após um AVC, sabemos que a via motora superior foi danificada. A embriologia justifica o normal para que você identifique o patológico.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Anencefalia**: Falha no fechamento do neuróporo cranial (anterior).
+- **Crista Neural**: Dá origem ao SNP e aos melanócitos.
+- **Ácido Fólico**: Reduz em até 70% o risco de defeitos do tubo neural.
+- **Mesencéfalo**: É a única vesícula primária que **NÃO** se subdivide.
+- **Sinal de Babinski**: Normal em crianças até os 18-24 meses de vida.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Neuróporo anterior fecha 25.º dia:** falha → anencefalia.
-- **Neuróporo posterior fecha 27.º dia:** falha → espinha bífida.
-- **Ácido fólico:** periconcepcional, reduz defeitos do tubo neural.
-- **Cristas neurais:** SNP, SNA, medula suprarrenal, melanócitos, Schwann.
-- **5 vesículas secundárias:** telencéfalo, diencéfalo, mesencéfalo, metencéfalo, mielencéfalo.
-- **Babinski normal:** até 18–24 meses (mielinização piramidal incompleta).
+
+Para gabaritar Embriologia do SN, foque nos dias e derivados. 
+**Neuróporo Anterior** (Cima) = 25 dias. **Neuróporo Posterior** (Baixo) = 27 dias. Se o problema é no crânio, é anterior; se é nas costas, é posterior.
+
+A Uninove adora as **Cristas Neurais**. Lembre-se: Tudo o que estiver **Fora** do eixo central (nervos, gânglios, melanócitos) vem da crista. No eixo central (medula e encéfalo), vem do **Tubo**. Outro ponto forte: o **Diencéfalo** é a vesícula do Tálamo e Hipotálamo. Por fim, saiba que os **Oligodendrócitos** moram no "centro" (SNC) e as **Células de Schwann** moram no "periférico" (SNP).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Malformação A | Malformação B | Causa embriológica |
-|--------------|--------------|-------------------|
-| Anencefalia | Espinha bífida | Anencefalia: neuróporo ant (25.d); Espinha: neuróporo post (27.d) |
-| Mielomeningocele | Meningocele | Mielomeningocele: exposição de medula; meningocele: apenas meninges |
-| Hidrocefalia por estenose aqueduto | Hidrocefalia comunicante | Obstrutiva: bloqueia fluxo; comunicante: déficit de absorção |
-| Oligodendrócito | Célula de Schwann | Oligo: mielina SNC; Schwann: mielina SNP |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Anencefalia** | **Espinha Bífida** | Problema **Cranial** vs Problema **Lombar/Sacral** |
+| **Tubo Neural** | **Crista Neural** | Gera o **SNC** vs Gera o **SNP/Melanócitos** |
+| **Telencéfalo** | **Diencéfalo** | Gera o **Cérebro (Cortex)** vs **Tálamo/Hipotálamo** |
+| **Metencéfalo** | **Mielencéfalo** | Gera **Ponte/Cerebelo** vs Gera o **Bulbo** |
+| **Oligodendrócitos** | **Célula de Schwann** | Mielina no **SNC** vs Mielina no **SNP** |
 
 ### Frase-âncora para não esquecer
-> "O tubo fecha como um zíper: trava antes (25.º dia) = anencefalia; trava depois (27.º dia) = espinha bífida."
+
+> "Ácido fólico no início, zíper fechado no fim. Anterior fecha aos 25, posterior aos 27, assim. A crista corre pro lado, o tubo fica no centro. Diencéfalo é tálamo, mielencéfalo é bulbo, decorando eu entro."

@@ -1,116 +1,91 @@
-﻿# SEMIO2 — Aula 4: Exame Físico Respiratório
+# SEMIO2 — Aula 4: Exame Físico Respiratório
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+O exame físico respiratório correlaciona a física do som com a densidade do parênquima pulmonar. Na prova, os temas indispensáveis são a diferenciação entre **Consolidação**, **Derrame Pleural** e **Pneumotórax**.
+
+Na prática, a combinação dos quatro pilares (Inspeção, Palpação, Percussão e Ausculta) permite o diagnóstico sindrômico preciso antes mesmo da radiografia de tórax.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Exame respiratório é tema frequente porque os achados semiológicos têm alto valor para diferenciar obstrução, consolidação, derrame pleural e síndrome intersticial. A **Uninove** costuma avaliar se o aluno domina a sequência técnica e sabe interpretar ausculta em conjunto com inspeção e percussão.
-
-Na prática, esse exame direciona urgência, necessidade de suporte e hipóteses iniciais antes da imagem.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A4-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de síndromes pleuropulmonares.
+- **O que mostrar:** Infográfico comparativo com desenhos de pulmão (consolidação, líquido e ar) associados aos achados de FTV e percussão.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Comparativo das principais síndromes respiratórias.
 
-## Técnica: Inspeção, Palpação, Percussão e Ausculta
+## Inspeção: O Primeiro Olhar
 
-A inspeção identifica padrão ventilatório, uso de musculatura acessória e simetria expansiva. A palpação contribui com frêmito toracovocal e expansibilidade. A percussão orienta densidade pulmonar. A ausculta compara murmúrio vesicular e ruídos adventícios em ambos hemitórax.
+Observe o **Trabalho Respiratório** e a simetria do tórax:
+- **Padrão Respiratório:** Taquipneia, hiperpneia ou ritmos anormais.
+- **Sinais de Esforço:** Tiragens (intercostal, supraclavicular), **Batimento de asa de nariz** e uso do esternocleidomastoideo.
+- **Configuração do Tórax:** Tórax em tonel (DPOC), cifoescoliose.
 
-> **Dica de Prova:** assimetria entre lados é pista valiosa e deve ser sempre comparada na mesma altura torácica.
+---
 
-> **Pegadinha:** interpretar sibilo isolado como diagnóstico definitivo de asma sem contexto clínico e sem exclusão de outras causas obstrutivas.
+## Palpação e Percussão: Traduzindo a Densidade
 
-## Ruídos Respiratórios e Raciocínio de Síndrome
+O **Frêmito Toracovocal (FTV)** e a **Percussão** são os "desempatadores" das questões de prova.
 
-Estertores crepitantes sugerem comprometimento alveolar/intersticial; sibilos apontam obstrução de vias aéreas; redução de murmúrio com macicez pode sugerir derrame. Em prova, o diferencial é explicar o mecanismo por trás do achado, não apenas nomeá-lo.
+| Síndrome | Expansibilidade | FTV | Percussão |
+|---|---|---|---|
+| **Consolidação (Pneumonia)** | Reduzida (Local) | **Aumentado** | **Macicez** |
+| **Derrame Pleural** | Reduzida (Base) | **Diminuído/Abolido** | **Macicez** |
+| **Pneumotórax** | Reduzida (Unilateral) | Diminuído | **Hipertimpanismo** |
+| **Enfisema** | Reduzida (Difusa) | Diminuído | Hipertimpanismo |
 
-Semiologia respiratória bem feita transforma ausculta em hipótese sindrômica com utilidade imediata.
+> **Dica de Prova:** A **Consolidação** é a ÚNICA síndrome onde o FTV aumenta, pois o som viaja melhor em meios sólidos (exudato) do que no ar.
 
+---
 
+## Ausculta: Murmúrio e Ruídos Adventícios
 
+- **Murmúrio Vesicular (MV):** Som suave da entrada de ar nos alvéolos. Diminui quando há barreira (líquido/ar) ou obstrução.
+- **Estertores Finos (Crepitantes):** Som de "velcro" ou cabelo esfregando; indica abertura de alvéolos colabados (Pneumonia, IC, Fibrose).
+- **Sibilos:** Som musical sugerindo **Broncoespasmo** (Asma/DPOC).
+- **Roncos:** Som grave sugerindo **Secreção** em vias aéreas maiores.
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Exame Físico Respiratório
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+No pronto-atendimento, um paciente com dor torácica súbita e dispneia que apresenta **Hipertimpanismo** e **MV abolido** em um hemitórax tem um **Pneumotórax** até prova em contrário. Se houver desvio de traqueia e hipotensão, trata-se de um pneumotórax hipertensivo, exigindo descompressão imediata.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Sequência técnica:** inspeção, palpação, percussão e ausculta.
-- **Comparação bilateral:** essencial para detectar assimetrias.
-- **Sibilo:** sugere obstrução de vias aéreas.
-- **Estertor:** orienta síndrome de preenchimento/interstício.
-- **Macicez + murmúrio reduzido:** sugere líquido pleural.
-- **Achado respiratório:** deve ser convertido em síndrome clínica.
+- **FTV:** Só aumenta na consolidação (pneumonia).
+- **Derrame vs. Consolidação**: Ambos dão macicez, mas o FTV diminui no derrame e aumenta na consolidação.
+- **Sibilos**: Marcadores de obstrução (estreitamento de via aérea).
+- **Cianose Central**: Indica hipoxemia grave e exige oxigênio.
+- **Padrão Comparativo**: Sempre ausculte e percuta comparando os dois lados.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar respiratório, foque no "trio parada dura": **Consolidação**, **Derrame** e **Pneumotórax**. 
 
-Inspeção: avalia padrão e esforço respiratório. Palpação: inclui expansibilidade e frêmito toracovocal. Percussão: diferencia som claro de macicez.
+A **Consolidação** (leia-se Pneumonia) é o pulmão "cheio de pus". O som passa rindo pelo sólido: por isso o **FTV aumenta** e a percussão é **surda (macicez)**. O **Derrame** é pulmão com "água em volta". A água abafa a vibração, então o **FTV diminui** e a percussão continua **maciça**. O **Pneumotórax** é pulmão com "ar em volta". O ar abafa a vibração (FTV baixo), mas o som da batida ecoa: **Hipertimpanismo** (tambor).
 
-Ausculta: identifica murmúrio e ruídos adventícios. Sibilo: clássico de obstrução brônquica. Estertor crepitante: sugere acometimento alveolar/intersticial.
-
-Assimetria torácica: sempre investigar etiologia. Síndrome respiratória: nasce da integração dos achados.
+Na ausculta, o barulho de "velcro" (estertor fino) é o alvéolo abrindo com dificuldade. O "assovio" (sibilo) é o canudo (brônquio) apertado. Se o murmúrio sumiu, tem alguma coisa impedindo o ar de chegar ou o som de sair (líquido, ar ou "rolha" de secreção).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Sibilo | Estertor | Sibilo é obstrutivo; estertor relaciona-se a conteúdo/alvéolo/interstício |
-| Macicez pleural | Hipertimpanismo | Macicez sugere líquido/tecido; hipertimpanismo sugere ar em excesso |
-| Murmúrio preservado | Murmúrio diminuído | Redução aponta alteração de ventilação local |
-| Exame comparativo | Exame unilateral isolado | A comparação bilateral aumenta sensibilidade clínica |
+| **Consolidação** | **Derrame Pleural** | **FTV Aumentado** vs **FTV Diminuído** (Ambos com macicez) |
+| **Derrame Pleural** | **Pneumotórax** | **Macicez** vs **Hipertimpanismo** |
+| **Estertor Fino** | **Ronco** | Alvéolo/Líquido vs **Secreção em via aérea larga** |
+| **Pneumotórax Simples** | **Pneumotórax Hipertensivo** | Estável vs **Desvio de traqueia e queda de pressão** |
+| **Sibilo** | **Estridor** | Expiratório (Asma) vs **Inspiratório (Obstrução de laringe)** |
 
 ### Frase-âncora para não esquecer
 
-> "Pulmão se entende melhor quando o lado direito conversa com o esquerdo."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Exame Físico Respiratório** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Sólido vibra mais (Consolidação), líquido e ar abafam o sinal; Macicez é no denso, Hipertimpanismo é no canal (de ar)."

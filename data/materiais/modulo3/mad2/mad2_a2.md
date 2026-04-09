@@ -1,130 +1,92 @@
 # MAD2 — Aula 2: Tolerância Imunológica
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+A tolerância imunológica é o "freio de mão" que impede o corpo de se autodestruir. Na prova, os temas centrais são a diferença entre a tolerância **Central** (que ocorre no "treinamento") e a **Periférica** (que ocorre na "rua"), e como a falha nesses mecanismos leva às **Doenças Autoimunes**.
+
+Na prática, entender por que o sistema imune "esquece" que o pâncreas ou as articulações são amigos é o que permite tratar doenças como o Lúpus ou a Artrite Reumatoide com precisão.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Se você tivesse que resumir imunologia clínica em uma pergunta, seria esta: por que o sistema imune não destrói o próprio corpo o tempo todo? A resposta é tolerância imunológica. Sem ela, cada contato com autoantígeno poderia virar inflamação persistente. Com ela, o organismo mantém defesa contra o que é estranho e autocontrole contra o que é próprio.
-
-Na prática, esse tema explica a base de várias doenças autoimunes e também o racional de muitos imunomoduladores. Na **Uninove**, os professores costumam montar questões em que o aluno precisa decidir se o problema está na fase de seleção do linfócito, na fase de ativação periférica ou na falha de freios regulatórios. Quem entende essa lógica deixa de decorar nomes e passa a prever comportamento de doença.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Após a introdução.
+- **O que mostrar:** O "Filtro de Qualidade": Um esquema mostrando o **Timo** como uma escola. Os linfócitos que atacam o próprio corpo são eliminados (**Seleção Negativa**). Os que escapam são parados na periferia por **Células T Reguladoras (Tregs)**.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Mecanismos de tolerância imunológica central e periférica.
 
+## 1. Tolerância Central: O Filtro da Fábrica
 
-
+Ocorre enquanto as células de defesa ainda estão sendo "fabricadas".
+- **Linfócitos T (Timo):** Durante o treinamento, se o linfócito T reconhece uma proteína do próprio corpo com muita força, ele sofre **Apoptose** (suicídio celular).
+- **Linfócitos B (Medula):** Se um linfócito B nasce atacando o próprio corpo, ele pode ser **Editado** (mudar o receptor) ou eliminado.
+- **Falha:** Se esse filtro falha, clones perigosos caem no sangue ainda jovens, aumentando o risco de autoimunidade grave.
 
 ---
 
-## Onde tudo começa: tolerância central no timo e na medula óssea
+## 2. Tolerância Periférica: Os Freios de Emergência
 
-A primeira barreira contra autoagressão é a **tolerância central**. Durante a maturação, linfócitos que reconhecem autoantígenos com alta afinidade são eliminados ou editados antes de entrar em circulação. Em termos simples, é o filtro de qualidade inicial do sistema imune.
+Como o filtro central não é 100% perfeito, o corpo precisa de guardas nos tecidos.
+- **Anergia:** Se uma célula de defesa vê uma proteína do corpo mas não há sinal de "inflamação" por perto, ela fica **Aneurogica** (desligada/anêmica funcionalmente).
+- **Células T Reguladoras (Tregs):** São as "pacificadoras". Elas produzem substâncias que acalmam as outras células de defesa e impedem que elas ataquem órgãos saudáveis.
+- **Morte Celular:** Se uma célula insiste em atacar o próprio corpo muitas vezes, ela acaba sendo forçada a morrer.
 
-Nos linfócitos T, esse processo ocorre principalmente no timo, com seleção positiva e negativa. Nos linfócitos B, ocorre na medula óssea, com edição de receptor e deleção clonal. Isso não é perfeito, e parte dos clones potencialmente autorreativos escapa, mas já reduz muito o risco de autoimunidade grave precoce.
+---
 
-> **Dica de Prova:** se a questão destacar defeito de seleção tímica e autoimunidade multissistêmica precoce, pense em falha de tolerância central.
+## 3. Por que a Tolerância Quebra?
 
-> **Pegadinha:** achar que tolerância central elimina 100 por cento dos clones autorreativos. Não elimina. O sistema depende também da tolerância periférica para conter os que escapam.
+A autoimunidade acontece por uma mistura de genética e gatilhos:
+- **Mimetismo Molecular:** Algumas bactérias e vírus têm proteínas parecidas com as nossas. O sistema imune ataca o vírus, se confunde, e começa a atacar o corpo (**Reação Cruzada**).
+- **Exposição de Antígenos Escondidos:** Alguns órgãos (como os olhos ou testículos) ficam "escondidos" do sistema imune. Se um trauma expõe esses órgãos ao sangue, o corpo pode atacá-los por não reconhecê-los como "próprios".
 
-## O freio que decide o dia a dia: tolerância periférica
+---
 
-Como nenhum filtro biológico é absoluto, o corpo precisa de freios contínuos na periferia. A **tolerância periférica** funciona por três mecanismos clássicos: anergia, supressão por células T reguladoras e deleção por ativação repetida sem suporte adequado.
+## 4. Terapia Imunomoduladora: Restaurando o Freio
 
-A anergia aparece quando o linfócito reconhece antígeno sem coestimulação suficiente. Ele não morre na hora, mas fica funcionalmente inativo. Já as T reguladoras atuam como moduladoras de intensidade, limitando resposta inflamatória e evitando escalada autoagressiva em tecido saudável.
+Os remédios para doenças autoimunes tentam devolver a tolerância ao paciente.
+- **Corticoides:** Diminuem a ativação de todo o sistema.
+- **Imunobiológicos:** Bloqueiam mensagens específicas (como o TNF-alfa) que mantêm o ataque ao corpo.
+- **Risco:** Ao silenciar o "ataque" ao próprio corpo, esses remédios também deixam o paciente mais vulnerável a **Infecções** reais.
 
-A deleção periférica acontece quando a célula é estimulada de forma persistente em contexto inadequado, evoluindo para **apoptose**. Esse mecanismo ganha relevância em inflamação crônica, onde o risco de quebra de tolerância aumenta por exposição prolongada de antígenos próprios.
-
-> **Dica de Prova:** antígeno sem coestímulo adequado leva mais a anergia do que a ativação plena.
-
-## Quebra de tolerância: por que autoimunidade não é azar
-
-A perda de tolerância geralmente resulta de combinação entre predisposição genética, gatilho ambiental e contexto inflamatório. Não é um evento único, nem puramente hereditário. É uma convergência de fatores que transforma reconhecimento autorreativo em dano clínico sustentado.
-
-Infecções podem participar por mimetismo molecular, quando epítopos de microrganismos se parecem com estruturas do hospedeiro. Também podem ativar inflamação local intensa, aumentando apresentação antigênica e custoimulação, o que facilita ativação de clones antes silenciosos.
-
-Do ponto de vista clínico, isso explica por que alguns pacientes iniciam quadro autoimune após infecção, estresse inflamatório intenso ou mudanças de exposição ambiental. Não significa causalidade simples, mas sim perda de equilíbrio imunorregulatório em pessoa suscetível.
-
-| Mecanismo de tolerância | Quando falha | Consequência clínica mais provável | Exemplo de raciocínio em prova |
-|-------------------------|--------------|------------------------------------|--------------------------------|
-| Seleção negativa central | Clone autorreativo escapa da maturação | Autoimunidade mais precoce e ampla | Quadro multissistêmico com início cedo |
-| Anergia periférica | Linfócito recebe sinal ativador indevido | Resposta autorreativa funcional | Autoanticorpos e inflamação ativa |
-| T reguladora | Perda de supressão imunológica | Inflamação persistente e descontrole | Doença recidivante apesar de tratamento |
-| Deleção periférica | Persistência de clone ativado | Manutenção da autoagressão | Crônica inflamatória sem remissão sustentada |
-
-## Terapia imunomoduladora faz sentido quando você entende tolerância
-
-Muitos tratamentos de doenças autoimunes são, na prática, tentativas de restaurar equilíbrio perdido entre ativação e regulação. Corticoides reduzem inflamação global, biológicos bloqueiam vias específicas e outras estratégias atuam em expansão clonal, coestimulação ou migração celular.
-
-Sem entender tolerância, o tratamento parece só uma lista de classes. Com a fisiologia em mente, você consegue prever benefício e risco: reduzir dano tecidual pode aumentar suscetibilidade infecciosa; bloquear uma via pode não resolver se o eixo dominante for outro.
-
-Em prova, isso aparece como pergunta de mecanismo terapêutico: por que determinada droga melhora doença autoimune, e qual **efeito adverso** é esperado por interferir na resposta imune normal. A resposta boa conecta via imunológica, efeito clínico e risco infeccioso.
-
-> **Pegadinha:** confundir imunossupressão com cura etiológica. Na maioria dos casos, o objetivo é controle de atividade e prevenção de lesão acumulada.
-
-## Como a Uninove costuma cobrar no caso clínico
-
-O enunciado frequente mistura sinais sistêmicos, marcador inflamatório e achado autoimune, pedindo o mecanismo subjacente. A chave é identificar se o caso sugere perda de freio periférico, escape central ou ativação cruzada pós-infecção.
-
-Outra forma comum é comparar duas situações parecidas: uma com resposta imune fisiológica e outra com autoimunidade. O diferencial quase sempre está no contexto de coestimulação, persistência antigênica e capacidade regulatória. Esse tipo de questão premia raciocínio sequencial, não memorização de palavras isoladas.
-
-| Situação do enunciado | Erro frequente | Leitura correta |
-|-----------------------|----------------|-----------------|
-| Antígeno próprio apresentado sem inflamação | Assumir ativação forte obrigatória | Tende a induzir tolerância periférica |
-| Autoimunidade após infecção | Dizer que toda infecção causa autoimunidade | Exige suscetibilidade e quebra de regulação |
-| Quadro autoimune recorrente apesar de remissão parcial | Chamar de falha terapêutica simples | Pode haver eixo regulatório persistentemente alterado |
-| Marcadores autoimunes positivos sem doença ativa | Tratar como inflamação grave obrigatória | Soropositividade isolada não define atividade clínica |
+---
 
 ## Ponte com a Clínica
 
-No ambulatório, tolerância imunológica é o que separa interpretação superficial de decisão madura. Você passa a entender por que um paciente alterna períodos de atividade e remissão, por que um gatilho infeccioso pode descompensar o quadro, e por que o tratamento precisa equilibrar controle inflamatório e segurança infecciosa.
+Muitas vezes, uma paciente descobre que tem uma doença autoimune após um período de grande estresse ou uma infecção grave (como o vírus Epstein-Barr). Isso acontece porque a inflamação da infecção fornece o "sinal de perigo" que faltava para os clones autorreativos silenciosos acordarem. O objetivo do médico não é "zerar" a imunidade, mas sim reeducar o sistema para que as **T-reguladoras** voltem a ter o controle da situação.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Tolerância central:** elimina ou edita clones autorreativos durante maturação.
-- **Tolerância periférica:** contém clones que escaparam da seleção central.
-- **Anergia:** reconhecimento antigênico sem coestimulação gera inatividade funcional.
-- **T reguladora:** limita intensidade da resposta e protege tecido próprio.
-- **Quebra de tolerância:** resulta de genética, gatilho ambiental e inflamação.
-- **Mimetismo molecular:** pode favorecer ativação cruzada contra autoantígenos.
-- **Autoimunidade clínica:** depende de perda de controle, não só de autoanticorpo.
-- **Terapia imunomoduladora:** controla atividade, mas aumenta risco infeccioso.
+- **Tolerância Central**: Ocorre no **Timo** (Linfócitos T) e na **Medula Óssea** (Linfócitos B).
+- **Anergia**: Inativação funcional por falta de **Coestimulação**.
+- **Células Treg**: Responsáveis pela supressão ativa de respostas indesejadas.
+- **Mimetismo Molecular**: Causa comum de início de doenças autoimunes após infecções.
+- **Seleção Negativa**: Processo de eliminar linfócitos perigosos durante a maturação.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Tolerância, lembre-se: o corpo tem dois filtros. 
+O **Central** é o treinamento na base (Timo/Medula). O **Periférico** é a vigilância na rua. Se o linfócito T reage forte no timo, ele morre (**Seleção Negativa**). Se ele reage forte no tecido mas ninguém deu o sinal de "perigo" (coestimulação), ele dorme (**Anergia**).
 
-Central no timo/medula: filtra clones perigosos. Periférica no tecido: freia os clones que escapam. Sem coestimulação: favorece anergia.
-
-T reguladora baixa: aumenta risco de autoagressão. Infecção isolada: não basta para autoimunidade. Mimetismo molecular: é mecanismo de gatilho plausível.
-
-Atividade de doença: não é igual a sorologia isolada. Tratamento imune: pede balanço entre controle e segurança.
+A Uninove ama as **Células T-Reg**. Elas são as únicas que ativamente "acalam" as outras células. Se houver defeito nelas, o paciente terá autoimunidade em vários órgãos ao mesmo tempo. No tratamento, saiba que os biológicos tentam imitar os freios naturais do corpo. Por fim, lembre-se: ter o anticorpo no sangue não significa ter a doença ativa; o que importa é o dano ao tecido comprovado pelos exames físicos e de inflamação.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Tolerância central | Tolerância periférica | Central atua na maturação; periférica atua após circulação |
-| Anergia | Deleção clonal | Anergia inativa célula; deleção remove a célula |
-| Autoanticorpo positivo | Doença autoimune ativa | Atividade exige correlação clínica e inflamatória |
-| Gatilho infeccioso | Causa única obrigatória | Infecção pode precipitar, mas depende de suscetibilidade |
+| **Tolerância Central** | **Tolerância Periférica** | Ocorre na **Formação** vs Ocorre na **Circulação** |
+| **Anergia** | **Apoptose** | A célula **Dorme** vs A célula **Morre** |
+| **Linfócito B** | **Linfócito T** | Pode fazer **Edição de Receptor** vs Só pode morrer |
+| **Seleção Positiva** | **Seleção Negativa** | Garante que a célula **Funciona** vs Garante que a célula **Não ataca o corpo** |
+| **Mimetismo Molecular**| **Autoantígeno** | Causa **Externa** (vírus/bactéria) vs Causa **Interna** (próprio corpo) |
 
 ### Frase-âncora para não esquecer
 
-> "Tolerância central seleciona, tolerância periférica segura: se os dois falham, a autoimunidade acelera."
+> "Tolerância central é a peneira do timo; tolerância periférica é a coleira da célula T-Reg. Se a peneira fura, a coleira tem que segurar; se a coleira arrebenta, o corpo se atenta contra si mesmo."

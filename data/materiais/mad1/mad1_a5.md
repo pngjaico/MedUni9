@@ -1,187 +1,96 @@
-﻿# Hemograma — Interpretação e Nomenclatura
+# MAD1 — Aula 5: Hemograma — Interpretação e Nomenclatura
 
-## Relevância Clínica e Acadêmica
+O hemograma é o exame laboratorial central da prática médica, fornecendo pistas sobre anemias, infecções, leucemias e estados inflamatórios. Na prova, os temas indispensáveis são os **Índices Hematimétricos (VCM, HCM, CHCM)**, o **Desvio à Esquerda** e a interpretação do **Leucograma**.
 
-O hemograma é o exame laboratorial mais solicitado na medicina — presente em praticamente toda consulta, pronto-socorro e internação. Além de rastrear anemia e infecções, ele fornece pistas diagnósticas sobre leucemias, doenças autoimunes, deficiências nutricionais e estados inflamatórios. Saber lê-lo com fluência é habilidade essencial desde o módulo 2.
+Na prática, saber diferenciar um padrão viral de um bacteriano apenas pelo hemograma é uma habilidade que acelera o diagnóstico no pronto-socorro.
 
-A Uninove cobra muito a interpretação de laudos com desvio à esquerda, as nomenclaturas dos leucócitos e as fórmulas dos índices eritrocitários (VCM, HCM, CHCM). Questões de caso clínico frequentemente pedem ao aluno identificar o padrão (ex: neutrofilia + desvio = infecção bacteriana aguda).
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de série branca (leucograma).
+- **O que mostrar:** Esquema didático do desvio à esquerda: do mielócito ao segmentado, destacando o aumento de **Bastões** como marcador de infecção bacteriana.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Morfologia e maturação dos neutrófilos no sangue periférico.
 
+## Série Vermelha: Interpretando Anemias
 
+A classificação das anemias depende fundamentalmente do **VCM (Tamanho)** e do **HCM (Cor)**.
 
-
----
-
-
-
-## Série Vermelha (Eritrograma)
-
-### Parâmetros Principais
-
-| Parâmetro | Valor de Referência (adulto) | Significado |
+| Parâmetro | Significado | Valor de Referência |
 |---|---|---|
-| Hemoglobina (Hb) | H: 13–17 g/dL; M: 12–16 g/dL | Capacidade de transporte de O₂ |
-| Hematócrito (Ht) | H: 40–52%; M: 36–47% | % do volume sanguíneo ocupado por eritrócitos |
-| Eritrócitos (RBC) | H: 4,5–5,9 × 10⁶/μL; M: 4,0–5,2 × 10⁶/μL | Número de hemácias |
+| **VCM** | Tamanho da hemácia | 80 - 100 fL |
+| **HCM / CHCM** | Cor (Quantidade de Hb) | 27 - 33 pg |
+| **RDW** | Variação de tamanho | 11 - 14% |
+| **Reticulócitos** | Produção medular (jovens) | 0,5 - 2% |
 
-### Índices Eritrocitários
-
-| Índice | Fórmula | VR | Interpretação |
-|---|---|---|---|
-| VCM (volume) | Ht(%) × 10 / RBC(10⁶) | 80–100 fL | <80 = microcítica; >100 = macrocítica |
-| HCM (peso) | Hb(g/dL) × 10 / RBC(10⁶) | 27–33 pg | <27 = hipocrômica |
-| CHCM (concentração) | Hb(g/dL) / Ht(%) × 100 | 32–36 g/dL | >36 = esferocitose |
-
-> **Dica:** VCM baixo + hipocrômica → anemia ferropriva (causa mais comum mundial). VCM alto → anemia megaloblástica (B12/folato).
-
-### Classificação das Anemias pelo VCM
-
-| VCM | Tipo | Causas Comuns |
-|---|---|---|
-| < 80 fL (microcítica) | Hipocrômica | Ferropriva, talassemia, doença crônica |
-| 80–100 fL (normocítica) | Normocrômica | Hemolítica, anemia aplásica, insuficiência renal |
-| > 100 fL (macrocítica) | — | Deficiência de B12/folato, hipotireoidismo, álcool |
-
-### Reticulócito
-- Hemácia jovem com RNA ribossômico residual
-- VR: 0,5–2%
-- **↑ reticulócitos** = medula óssea respondendo (hemorragia, hemólise)
-- **↓ reticulócitos** = medula não produz (aplasia, déficit nutricional)
+> **Dica de Prova:** 
+> - **VCM < 80**: Microcítica (Pense em **Ferropriva** ou Talassemia).
+> - **VCM > 100**: Macrocítica (Pense em **Deficiência de B12/Folato**).
+> - **RDW Alto**: Indica anisocitose (tamanhos diferentes), comum na fase inicial da anemia ferropriva.
 
 ---
 
-## Série Branca (Leucograma)
+## Série Branca: Padrões de Infecção
 
-### Leucócitos Totais
+O leucograma deve ser lido sempre em **Valores Absolutos** (número de células), não apenas em porcentagem.
 
-| Parâmetro | Valor de Referência |
-|---|---|
-| Leucócitos totais | 4.000–11.000/μL |
-| Leucocitose | > 11.000/μL |
-| Leucopenia | < 4.000/μL |
-
-### Fórmula Leucocitária — Valores Percentuais e Absolutos
-
-| Célula | % | Absoluto (células/μL) |
-|---|---|---|
-| Neutrófilo (segmentado) | 50–70% | 1800–7700 |
-| Linfócito | 20–40% | 1000–4800 |
-| Monócito | 3–8% | 200–800 |
-| Eosinófilo | 1–4% | 50–400 |
-| Basófilo | 0–1% | 0–100 |
-| Bastão (neutrófilo jovem) | 0–5% | < 500 |
-
-> **Atenção:** Valor absoluto é mais confiável que percentual (leucocitose pode mascarar linfopenia percentual).
-
-### Desvio à Esquerda
-
-Presença de formas jovens de neutrófilos no sangue periférico:
-
-| Forma (da mais jovem para → madura) |
-|---|
-| Mielócito → Metamielócito → Bastão → Segmentado |
-
-- **Desvio à esquerda:** ↑ bastões (> 5%) ± formas mais jovens
-- Indica: demanda aumentada de neutrófilos → **infecção bacteriana grave**
-- **Desvio degenerativo:** bastões sem leucocitose = sepse grave com medula "esgotada"
-- **Desvio regenerativo:** bastões + leucocitose = medula respondendo bem
-
-> **Dica de Prova:** "Desvio à esquerda + leucocitose = infecção bacteriana ativa." Meningite bacteriana pede essa interpretação direto no caso clínico.
+- **Neutrofilia com Desvio à Esquerda:** Aumento de **Bastões (> 5%)**. Indica **Infecção Bacteriana Aguda**.
+- **Linfocitose:** Comum em **Infecções Virais** (Dengue, Mononucleose, CMV).
+- **Eosinofilia:** Indica **Parasitoses** ou quadros de **Alergia**.
+- **Monocitose:** Sugere infecções crônicas como **Tuberculose** ou malária.
+- **Basofilia:** Rara; se persistente, suspeitar de Leucemia Mieloide Crônica (LMC).
 
 ---
 
-## Nomenclatura de Alterações Leucocitárias
+## Série Plaquetária
 
-| Células aumentadas | Denominação | Causas Típicas |
-|---|---|---|
-| Neutrófilos | Neutrofilia | Infecção bacteriana, corticosteroide, inflamação aguda |
-| Linfócitos | Linfocitose | Infecção viral (EBV, CMV), leucemia linfocítica |
-| Monócitos | Monocitose | Tuberculose, endocardite, doença de Crohn |
-| Eosinófilos | Eosinofilia | Parasitoses, alergias, síndrome hipereosinofílica |
-| Basófilos | Basofilia | Leucemia mieloide crônica (LMC) — sinal típico |
-| Neutropenia | Neutropenia | Quimioterapia, aplasia, febre tifoide, sepse grave |
-
-> **Pegadinha:** Basofilia absoluta em adulto → pensar em **LMC** (leucemia mieloide crônica). Eosinofilia + ausência de parasita documentada → investigar hematolngia (síndrome hipereosinofílica, linfoma).
-
----
-
-## Série Plaquetária (Plaquetograma)
-
-| Parâmetro | Valor de Referência |
-|---|---|
-| Plaquetas | 150.000–400.000/μL |
-| Trombocitose | > 400.000/μL |
-| Trombocitopenia | < 150.000/μL |
-| Sangramento espontâneo | < 50.000/μL |
-| Crítico | < 20.000/μL |
-
-**VPM (Volume Plaquetário Médio):**
-- Alto VPM + trombocitopenia = plaquetas jovens grandes = destruição periférica (ex: PTI)
-- Baixo VPM + trombocitopenia = produção reduzida = aplasia medular
-
----
-
-## Leitura Sistemática de um Hemograma
-
-1. **Hb e Ht** → anemia? (classificar pelo VCM)
-2. **Reticulócitos** → medula está respondendo?
-3. **Leucócitos totais** → leucocitose ou leucopenia?
-4. **Fórmula** → qual linhagem predomina? Há desvio?
-5. **Plaquetas** → trombocitopenia ou trombocitose?
-6. **Integrar com clínica** → febre + neutrofilia + desvio = infecção bacteriana
-
----
-
-## Pontos-Chave
-
-- VCM < 80 = microcítica hipocrômica → ferropriva (principal); VCM > 100 = macrocítica → B12/folato
-- Reticulócitos ↑ = medula respondendo; ↓ = medula falha
-- Leucocitose + desvio à esquerda + bastões = infecção bacteriana aguda
-- Neutrofilia = bacteriana; Linfocitose = viral; Eosinofilia = parasitas/alergia; Basofilia = LMC
-- Basofilia absoluta em adulto → suspeitar de LMC
-- Trombocitopenia < 50.000 = risco de sangramento; < 20.000 = crítico
+- **Trombocitopenia (< 150.000):** Risco de sangramento. 
+  - Abaixo de **50.000**: Risco em cirurgias.
+  - Abaixo de **20.000**: Risco de sangramento espontâneo grave.
+- **Trombocitose (> 450.000):** Comum em processos inflamatórios agudos ou deficiência de ferro (trombocitose reacional).
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Adulto com febre há 5 dias, tosse produtiva e dispneia. Hemograma: leucócitos 18.500/μL, segmentados 75%, bastões 12%, eosinófilos 0%, linfócitos 10%.
-- Leucocitose com **desvio à esquerda** (bastões 12%) → infecção bacteriana aguda (pneumonia bacteriana)
-- Eosinopenia: resposta ao estresse agudo (cortisol endógeno sequestra eosinófilos para medula)
-- Conduta: antibioticoterapia + radiografia de tórax confirmando consolidação
+Um paciente chega com febre e tosse. O hemograma mostra **Leucocitose (15.000)** com **12% de Bastões** e **Eosinopenia (zero)**. Este é o padrão clássico de uma **Infecção Bacteriana Grave (Pneumonia)**. A eosinopenia ocorre porque o estresse agudo da infecção libera cortisol, que "sequestra" os eosinófilos para a medula óssea.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Anemia Microcítica**: Hemácia pequena; causa nº 1 é falta de ferro.
+- **Desvio à Esquerda**: Bastões altos; marcador de bactéria.
+- **Reticulócitos Altos**: Resposta periférica (sangramento ou hemólise).
+- **Linfocitose Atípica**: Pense em Mononucleose ou Viroses.
+- **Basofilia Absoluta**: "Assinatura" de distúrbio mieloproliferativo (LMC).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **VCM:** < 80 = microcítica (ferropriva); > 100 = macrocítica (B12/folato)
-- **Desvio à esquerda:** bastões > 5% = infecção bacteriana; + leucocitose = regenerativo (bom)
-- **Neutrofilia:** bacteriana; **Linfocitose:** viral; **Eosinofilia:** parasita/alergia; **Basofilia:** LMC
-- **Reticulócito ↑:** hemólise ou sangramento (medula OK); **↓:** aplasia ou déficit nutricional
-- **Plaquetas < 50.000:** risco sangramento; **< 20.000:** crítico
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Hemograma, siga o roteiro. 
+Primeiro, olhe a **Hemoglobina**: se está baixa, tem anemia. Olhe o **VCM**: se é pequeno (<80), falta ferro. Se é grande (>100), falta vitamina (B12). Se a medula está mandando muitos "bebês" (**Reticulócitos**), o problema é fora (o sangue está vazando ou sendo destruído).
+
+No leucograma, procure pelo **Desvio à Esquerda**. Se aparecerem **Bastões**, a medula está desesperada mandando soldados jovens para a guerra: é **Bactéria**. Se os linfócitos subirem, é **Vírus**. Se os eosinófilos subirem, é **Verme ou Alergia**. Nas plaquetas, o número crítico é **20.000**: abaixo disso, o paciente pode sangrar sozinho.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Neutrofilia | Linfocitose | Neutrofilia = bacteriana; Linfocitose = viral (EBV, CMV) |
-| Desvio regenerativo | Desvio degenerativo | Regenerativo = bastões + leucocitose (medula OK); Degenerativo = bastões sem leucocitose (sepse grave) |
-| Anemia ferropriva | Anemia megaloblástica | Ferropriva = microcítica hipocrômica (VCM < 80); Megaloblástica = macrocítica (VCM > 100) |
-| Trombocitopenia + VPM alto | Trombocitopenia + VPM baixo | VPM alto = destruição periférica (PTI); VPM baixo = falha de produção (aplasia) |
-| Valor % leucocitário | Valor absoluto | Absoluto é mais confiável — % pode enganar em leucocitose total |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **VCM Baixo** | **VCM Alto** | **Ferropriva** vs **Megaloblástica (B12)** |
+| **Bastões** | **Segmentados** | Neutrófilos Jovens (Desvio) vs Neutrófilos Maduros |
+| **Linfocitose** | **Neutrofilia** | Sugere **Vírus** vs Sugere **Bactéria** |
+| **Eosinofilia** | **Basofilia** | **Alergia/Parasita** vs Doença Mieloproliferativa (LMC) |
+| **Pancitopenia** | **Anemia Isolada** | Falência da Medula (Grave) vs Carência Nutricional |
 
 ### Frase-âncora para não esquecer
-> "No hemograma, leia na ordem: hemoglobina (tem anemia?) → VCM (que tipo?) → leucócitos (que linhagem?) → desvio (bacteriana?) → plaquetas (tem risco de sangrar?)."
+
+> "VCM pequeno é falta de ferro no cano; Bastão alto é bactéria no plano; Linfócito alto é vírus no engano."

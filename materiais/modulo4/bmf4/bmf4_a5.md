@@ -1,141 +1,91 @@
-# Morfologia do Telencéfalo
+# BMF4 — Aula 5: Morfologia do Telencéfalo — O Centro de Comando
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a5
+O telencéfalo é a parte mais "nobilizada" do cérebro, onde processamos pensamentos, memórias e ordens motoras. Na prova, os temas centrais são a divisão em **Lobos**, os sulcos principais (**Rolando e Sylvius**) e a localização das áreas de **Linguagem (Broca e Wernicke)**.
+
+Na prática, o médico usa a geografia do cérebro para prever os sintomas de um paciente. Se um AVC atinge o **Lobo Frontal**, o paciente pode perder o movimento de um lado do corpo; se atinge o **Lobo Temporal**, ele pode passar a falar frases sem sentido, mesmo ouvindo perfeitamente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O telencéfalo é a estrutura mais complexa do SNC. Conhecer a topografia dos lobos, os sulcos principais e os ventrículos laterais permite localizar lesões na TC/RM e correlacionar com sintomas. "O paciente perdeu a visão de metade do campo visual do olho direito e esquerdo para o mesmo lado — onde é a lesão?" Saber a morfologia telencefálica responde.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de lobos cerebrais.
+- **O que mostrar:** O "Cérebro Colorido": Uma visão lateral do hemisfério cerebral com 4 cores distintas para os lobos (**Frontal, Parietal, Temporal e Occipital**). Destacar o **Sulco Central** (separando o motor do sensitivo) e o **Sulco Lateral** (separando a audição).
+- **Tipo sugerido:** Esquema anatômico lateral didático.
+- **Legenda (rascunho):** Divisão lobar e principais marcos anatômicos da face lateral do telencéfalo.
 
+## 1. Hemisférios e o Grande Conector
 
-
-
----
-
-## Hemisférios Cerebrais — Visão Geral
-
-O telencéfalo compreende os dois **hemisférios cerebrais**, separados pela **fissura longitudinal**, conectados pelo **corpo caloso** (comissura). Cada hemisfério tem três faces:
-
-- **Face lateral (superolateral):** voltada para a calota. Sulcos e giros mais visíveis.
-- **Face medial:** voltada para a fissura longitudinal.
-- **Face inferior (basal):** repousa sobre a base do crânio.
+O telencéfalo é dividido em dois **Hemisférios Cerebrais**.
+- **Fissura Longitudinal:** O "canyon" que separa o lado direito do esquerdo.
+- **Corpo Caloso:** A grande ponte de fibras brancas que faz os dois lados conversarem. Se você corta essa ponte, os hemisférios param de trocar informações.
+- **Dominância:** Na maioria das pessoas, o hemisfério **Esquerdo** manda na linguagem (fala e escrita), enquanto o **Direito** manda na noção de espaço e música.
 
 ---
 
-## Sulcos e Giros Principais
+## 2. Sulcos e Giros: As Fronteiras
 
-**Face lateral:**
-
-- **Sulco central (de Rolando):** divide o lobo frontal do parietal. Anterior = giro pré-central (córtex motor primário, M1). Posterior = giro pós-central (córtex somatossensorial primário, S1).
-- **Sulco lateral (de Sylvius):** separa o lobo frontal/parietal do temporal. Dentro de seu opérculo: córtex de Wernicke (T1 esquerdo) e ínsula.
-- **Sulco parieto-occipital:** face medial, separa parietal do occipital.
-- **Sulco calcarino:** face medial do occipital, flanqueado pelo córtex visual primário (V1).
+- **Sulco Central (de Rolando):** A fronteira mais importante. Separa o Lobo Frontal do Parietal.
+    - **Giro Pré-central:** Fica na frente. É o **Córtex Motor** (manda o comando).
+    - **Giro Pós-central:** Fica atrás. É o **Córtex Sensitivo** (recebe a sensação).
+- **Sulco Lateral (de Sylvius):** O grande sulco que separa o Lobo Temporal dos de cima.
 
 ---
 
-## Os Quatro Lobos
+## 3. Os Quatro Lobos e Suas Missões
 
-| Lobo | Localização | Funções principais |
-|------|------------|-------------------|
-| Frontal | Anterior ao sulco central | Motor, funções executivas, Broca (F3 esq.) |
-| Parietal | Entre sulco central e parieto-occipital | Somatossensorial, praxias, integração espacial |
-| Temporal | Abaixo do sulco lateral | Audição, memória, Wernicke (T1 esq.) |
-| Occipital | Posterior ao sulco parieto-occipital | Visão (V1 no sulco calcarino) |
-
-> **Dica:** Lembre-se que o córtex motor primário (giro pré-central) tem representação somatotópica: homúnculo de Penfield. A área da mão é desproporcionalmente grande.
+- **Lobo Frontal:** O "Chefe". Responsável pelo **Movimento**, comportamento e a fala (**Área de Broca**).
+- **Lobo Parietal:** O "Sentidor". Responsável pelo **Tato**, temperatura e noção de onde o seu corpo está no espaço.
+- **Lobo Temporal:** O "Ouvinte". Responsável pela **Audição** e compreensão da fala (**Área de Wernicke**).
+- **Lobo Occipital:** O "Olho". Responsável pela **Visão**.
 
 ---
 
-## Hemisférios e Dominância Cerebral
+## 4. Gânglios da Base e Ínsula
 
-Em ~95% dos destros e ~70% dos canhotos, o hemisfério **esquerdo** é dominante para linguagem. O hemisfério **direito** é dominante para atenção visuoespacial, melodia da fala e reconhecimento de faces.
-
-Lesão do hemisfério direito: heminegligência do lado esquerdo do espaço (paciente não barbeia o lado esquerdo, não come metade do prato).
-
----
-
-## Ínsula
-
-A ínsula (5.º lobo) fica dentro do sulco lateral, coberta pelos opérculos frontal e parietal. Funções: integração interoceptiva (senso do estado corporal), paladar, linguagem expressiva complementar, percepção de dor visceral.
-
----
-
-## Gânglios da Base (Núcleos da Base)
-
-Estruturas subcorticais do telencéfalo:
-
-- **Estriado:** caudado + putame. Recebe informações corticais (entrada do circuito).
-- **Globo pálido:** GPe (externo) + GPi (interno). Saída para o tálamo.
-- **Amígdala:** lobo temporal medial, emocional.
-- **Claustro:** função incerta, conecta áreas corticais.
-
-O circuito dos gânglios da base: córtex → estriado → GPi → tálamo → córtex (via indireta e direta). Lesão: Parkinson (via direta comprometida por degeneração da substância negra → bradicinesia) ou coréia (via indireta comprometida).
-
----
-
-## Sistema Ventricular — Ventrículos Laterais
-
-Os ventrículos laterais (I e II) são os maiores do sistema ventricular. Cada um tem partes:
-- **Corno frontal:** dentro do lobo frontal.
-- **Corpo:** acima do tálamo.
-- **Corno temporal:** curva para baixo no lobo temporal (hipocampo na parede medial).
-- **Corno occipital:** no lobo occipital.
-- **Átrio (trígono):** junção corpo-cornos temporal e occipital.
-
-Comunicam-se com o III ventrículo pelo **forame de Monro**.
-
-> **Pegadinha:** Tumor na região do forame de Monro (como astrocitoma subependimário) causa hidrocefalia unilateral — somente um ventrículo lateral dilata.
-
----
-
-## Pontos-Chave
-
-- Sulco central separa frontal (motor) do parietal (sensitivo).
-- Sulco lateral (Sylvius) separa frontal/parietal do temporal.
-- Lobo occipital medial, sulco calcarino = V1 (córtex visual primário).
-- Hemisférios: esquerdo = linguagem; direito = visuoespacial, atenção.
-- Gânglios da base: estriado → GPi → tálamo. Parkinson: degeneração substância negra.
-- Ventrículos laterais → forame de Monro → III ventrículo.
+- **Gânglios da Base:** São núcleos de substância cinzenta escondidos no fundo do cérebro. Eles ajudam a **Refinar o Movimento**. Quando falham, temos doenças como o **Parkinson**.
+- **Ínsula:** É o "lobo escondido". Para vê-lo, você precisa abrir o sulco lateral. Ele cuida do paladar e de emoções viscerais (como o nojo).
 
 ---
 
 ## Ponte com a Clínica
 
-Uma lesão do lobo occipital esquerdo no sulco calcarino causa hemianopsia homônima direita (perda dos campos visuais direitos de ambos os olhos). Lesão do giro de Heschl (T1 bilateral) causa surdez cortical pura. Lesão da ínsula causa agnosia de dor visceral. A morfologia telencefálica transforma sintomas em coordenadas anatômicas.
+No seu futuro estágio, se atender um paciente que sofreu um trauma no lado esquerdo da cabeça e agora ele **Não Consegue Falar** (consegue entender, mas as palavras não saem), você saberá que a lesão atingiu o lobo frontal esquerdo na **Área de Broca**. Por outro lado, se ele fala sem parar, mas usa palavras que não existem e não entende o que você diz, a lesão é no lobo temporal na **Área de Wernicke** (Afasia de Compreensão).
+
+---
+
+## Pontos-Chave para Prova
+
+- **Área de Broca**: Localizada no lobo frontal esquerdo; essencial para a **Expressão** da fala.
+- **Área de Wernicke**: Localizada no lobo temporal esquerdo; essencial para a **Compreensão** da linguagem.
+- **Lobo Occipital**: Lesões aqui causam cegueira ou alterações visuais, mesmo com os olhos perfeitos.
+- **Ínsula**: Lobo profundo responsável pela percepção de dor visceral e emoções.
+- **Corpo Caloso**: A maior comissura (ponte) do cérebro; feita de substância branca.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Sulco de Rolando (central):** separa M1 (frontal/pré-central) de S1 (parietal/pós-central).
-- **Sulco de Sylvius:** separa temporal de frontal/parietal — dentro: Wernicke e ínsula.
-- **V1 (córtex visual):** sulco calcarino, occipital medial.
-- **Hemisfério esquerdo:** dominante para linguagem (Broca + Wernicke).
-- **Heminegligência:** lesão parietal direito → ignora lado esquerdo do espaço.
-- **Forame de Monro:** liga ventrículo lateral ao III — tumor aqui = hidrocefalia unilateral.
+
+Para gabaritar a morfologia do telencéfalo, foque nos sulcos e áreas. 
+**Frontal** = Motor e Fala. **Parietal** = Sentir o toque. **Temporal** = Ouvir e entender. **Occipital** = Ver. O **Sulco Central** é a linha que divide quem manda (frente) de quem sente (trás).
+
+A Uninove adora a **Linguagem**. Lembre-se: **Broca** faz brecar a fala (problema de sair a voz). **Wernicke** faz virar a fala (fala bagunçada). Outro ponto forte: o **Hemisfério Esquerdo** é o racional/da fala para a maioria; o **Direito** é o artístico/espacial. Por fim, saiba que o **Lobo da Ínsula** está escondido dentro do sulco lateral.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Estrutura A | Estrutura B | Diferença |
-|-------------|-------------|-----------|
-| Sulco central (Rolando) | Sulco lateral (Sylvius) | Rolando: front-parietal; Sylvius: front/parietal-temporal |
-| Giro pré-central | Giro pós-central | Pré-central: motor M1; pós-central: somatossensorial S1 |
-| Área de Broca | Área de Wernicke | Broca: F3 esq., expressão; Wernicke: T1 esq., recepção |
-| Estriado | Globo pálido | Estriado: entrada; GP: saída do circuito dos gânglios da base |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Sulco de Rolando** | **Sulco de Sylvius** | Divide **Frente/Trás** vs Divide **Cima/Baixo** |
+| **Giro Pré-central** | **Giro Pós-central** | Córtex **Motor** vs Córtex **Sensitivo** |
+| **Área de Broca** | **Área de Wernicke** | Problema de **Falar** vs Problema de **Entender** |
+| **Lobo Parietal** | **Lobo Occipital** | **Tato/Espaço** vs **Visão** |
+| **Núcleos da Base** | **Córtex Cerebral** | **Subcortical** (Refino) vs **Cortical** (Decisão) |
 
 ### Frase-âncora para não esquecer
-> "Rolando divide: na frente manda (motor), atrás sente (sensitivo). Sylvius divide de cima para baixo."
+
+> "Na frente de Rolando eu mando, atrás de Rolando eu sinto. Por cima de Sylvius eu vivo, por baixo de Sylvius eu ouço. Broca trava a língua, Wernicke troca o assunto. No fundo de tudo, o Caloso une o mundo."

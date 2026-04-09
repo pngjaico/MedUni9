@@ -1,116 +1,92 @@
-﻿# DS — Aula 1: Desafios Socioambientais Globais e Saúde
+# DS — Aula 1: Desafios Socioambientais Globais e Saúde
 
-**Disciplina:** Desafios Socioambientais e Saúde
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+Os desafios socioambientais não são apenas temas de jornais; eles mudam como as pessoas adoecem. Na prova, o tema central é entender como as **Mudanças Climáticas**, a **Poluição** e a **Falta de Saneamento** criam uma "bola de neve" que sobrecarrega o SUS e aumenta a mortalidade, especialmente entre os mais pobres.
+
+Na prática, o médico deve entender que o ambiente onde o paciente vive (se tem esgoto, se mora perto de lixão ou se sofre com enchentes) é o que define se ele vai se recuperar ou ficar doente de novo.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Essa aula é importante porque rompe a ideia de que saúde depende só de diagnóstico e prescrição. A **Uninove** costuma cobrar como mudanças ambientais, desigualdade social, insegurança alimentar e crises climáticas alteram o perfil de adoecimento de populações inteiras.
-
-Na prática médica, isso muda tudo: aumenta doenças respiratórias em eventos extremos, afeta doenças infecciosas por alteração de ecossistemas e amplia vulnerabilidades em territórios pobres. Entender desafio socioambiental é ampliar o olhar clínico para o contexto real do paciente.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `DS-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mudanças climáticas.
+- **O que mostrar:** Infográfico mostrando os efeitos diretos (ex: Calor -> Infarto) e indiretos (ex: Enchente -> Leptospirose) das mudanças climáticas.
+- **Tipo sugerido:** Mapa mental didático.
+- **Legenda (rascunho):** Como o clima impacta a saúde: vias diretas e indiretas de adoecimento.
 
-## Como Ambiente e Sociedade Entram no Processo Saúde-Doença
+## 1. Mudanças Climáticas (O multiplicador de riscos)
 
-Saúde coletiva não é cenário de fundo, é parte da fisiopatologia social. Poluição do ar, escassez hídrica, ondas de calor, enchentes e ocupação urbana precária modificam exposição, risco e acesso ao cuidado. Quando esses fatores se somam à desigualdade socioeconômica, o impacto em morbimortalidade cresce.
+O clima extremo não mata apenas no momento da tragédia. Ele gera:
+- **Calor Extremo:** Aumenta infartos, AVCs e desidratação em idosos.
+- **Enchentes:** Trazem leptospirose, diarreia e hepatite A.
+- **Secas:** Pioram a qualidade do ar (queimadas) e causam doenças respiratórias.
+- **Deslocados Ambientais:** Pessoas que perdem a casa e acabam em abrigos, onde doenças se espalham mais rápido.
 
-> **Dica de Prova:** determinante socioambiental não é fator "secundário"; ele participa diretamente do risco de adoecimento.
+---
 
-> **Pegadinha:** tratar mudança climática apenas como tema ambiental e não como tema de saúde pública com efeito clínico direto.
+## 2. Poluição e Saneamento
 
-## Vulnerabilidade, Iniquidade e Resposta em Saúde
+- **Poluição do Ar:** É a principal causa "invisível" de asma, DPOC e câncer de pulmão nas grandes cidades.
+- **Saneamento Básico:** É a base da saúde pública. Sem água tratada e esgoto, as crianças vivem em um ciclo eterno de verminoses e diarreias que atrasam seu crescimento.
+- **Regra de Ouro:** Investir 1 real em saneamento economiza 4 reais no tratamento de doenças no hospital.
 
-Nem todos sofrem igualmente o mesmo evento ambiental. Populações em maior vulnerabilidade social acumulam exposição e têm menor capacidade de resposta. Por isso, falar em equidade é central: o sistema de saúde precisa direcionar recursos conforme necessidade, e não de forma cega e homogênea.
+---
 
-A leitura correta em prova é integrar risco ambiental, determinantes sociais e capacidade do **SUS** de resposta territorial.
+## 3. Urbanização Desigual e Iniquidade
 
+O problema não é morar na cidade, mas morar em cidades onde a infraestrutura não chega para todos.
+- **Ilhas de Calor:** Áreas sem árvores (periferias) são muito mais quentes que bairros nobres.
+- **Áreas de Risco:** Pessoas pobres moram em encostas ou beira de rio, ficando mais expostas a deslizamentos.
+- **Iniquidade:** É a diferença **injusta** e **evitável**. Se o rico e o pobre sofrem com a mesma chuva, mas o pobre perde a casa e adoece, há iniquidade.
 
+---
 
+## 4. Segurança Alimentar
+
+Não é só ter o que comer, mas ter comida de qualidade.
+- **Desertos Alimentares:** Locais onde só se vende salgadinho e refrigerante, sem acesso a frutas e verduras frescas.
+- **Consequência:** Aumento de Obesidade e Diabetes em populações pobres (que comem calorias baratas e ruins).
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Desafios Socioambientais Globais e Saúde
-
-**Mudanças climáticas**, **saneamento** e **equidade** aparecem em **saúde coletiva** e em mesas com o paciente. Conecte o tema da aula a **políticas** e a **prática** do SUS.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Num dia de muito calor e poluição em São Paulo, o pronto-socorro enche de idosos com falta de ar e pressão alta. O clínico não deve apenas dar o remédio; ele deve orientar a hidratação constante e evitar horários de pico de calor. Se o paciente mora num local sem saneamento, o médico precisa redobrar a atenção para sinais de desidratação por diarreia, que pode ser fatal em crianças e vovôs.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Determinante socioambiental:** influencia risco, adoecimento e desfecho.
-- **Mudança climática:** produz impacto sanitário direto e indireto.
-- **Vulnerabilidade social:** amplifica efeito de risco ambiental.
-- **Iniquidade em saúde:** distribuição desigual de dano e acesso.
-- **Equidade:** resposta proporcional à necessidade de cada grupo.
-- **Saúde pública:** exige integração entre clínica e território.
+- **Mudanças Climáticas**: Agem como **Multiplicadores de Adoecimento**.
+- **Equidade**: Dar mais para quem mais precisa (Diferente de igualdade).
+- **Indicadores Sentinela**: Aumento de doenças respiratórias e diarreicas após eventos climáticos.
+- **Saneamento**: Prevenção primária essencial.
+- **Urbanização**: Gera ilhas de calor e adensamento populacional perigoso.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Desafios Socioambientais, lembre-se: o clima acende o fósforo, mas a precariedade social é o combustível. 
+A Uninove adora cobrar o impacto das **Ilhas de Calor** e da **Poluição** na saúde dos idosos (foque em doenças cardiovasculares e respiratórias). Em casos de enchentes, a doença-chave é a **Leptospirose** (contato com urina de rato na água).
 
-Socioambiental: componente direto do processo saúde-doença. Clima extremo: aumenta risco de agravos populacionais. Poluição: eleva carga de doença respiratória e cardiovascular.
-
-Desigualdade social: agrava vulnerabilidade sanitária. Equidade: princípio-chave para resposta efetiva. Território: define exposição e acesso ao cuidado.
-
-Saúde coletiva: integra ambiente, sociedade e clínica. Risco acumulado: maior em populações vulneráveis.
+Diferencie **Igualdade** (dar o mesmo para todos) de **Equidade** (priorizar quem está na área de risco). Em saúde pública, a equidade é a regra para reduzir a mortalidade. Lembre-se também da **Segurança Alimentar**: hoje o pobre sofre de obesidade por malnutrição (excesso de ultraprocessados), o que chamamos de "dupla carga de doença".
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Igualdade | Equidade | Igualdade distribui igual; equidade distribui conforme necessidade |
-| Fator ambiental isolado | Determinante socioambiental | Determinante integra ambiente, condição social e resposta em saúde |
-| Evento climático | Impacto sanitário | Evento é fenômeno; impacto é desfecho em saúde da população |
-| Risco individual | Risco coletivo territorial | O coletivo depende de contexto social e ambiental compartilhado |
+| **Igualdade** | **Equidade** | Dar igual vs **Dar conforme a necessidade** |
+| **Doença Infectocontagiosa** | **Doença Crônica** | Curto prazo (Ex: Dengue) vs **Longo prazo (Ex: DPOC)** |
+| **Impacto Direto** | **Impacto Indireto** | Trauma/Queimadura vs **Falta de água/Comida** |
+| **Saneamento** | **Assistência Médica** | Evita que adoeça vs **Trata quem já adoeceu** |
+| **Urbanização** | **Gentrificação** | Crescimento da cidade vs **Expulsão de pobres para periferias** |
 
 ### Frase-âncora para não esquecer
 
-> "Quando o ambiente adoece, a população adoece junto."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Desafios Socioambientais Globais e Saúde** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Conceito socioambiental e impacto em saúde. |
-| Pegadinha / contraste | Política pública ou ODS relacionado. |
-| Por que importa na prática | Papel do médico na prevenção ou advocacy. |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Organização das Nações Unidas. Objetivos de Desenvolvimento Sustentável (ODS).
-- Ministério da Saúde / Conselho Nacional do Meio Ambiente — políticas socioambientais e saúde.
-- Organização Mundial da Saúde — relatórios sobre ambiente e saúde.
+> "O clima bate, a poluição sufoca, a falta de esgoto adoece e a desigualdade decide quem tem mais azar na sorte."

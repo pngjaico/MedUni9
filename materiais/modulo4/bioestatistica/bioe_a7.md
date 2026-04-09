@@ -1,162 +1,92 @@
-# Bioestatística — Aula 7: Introdução à Epidemiologia Analítica
+# BIOE — Aula 7: Epidemiologia Analítica — Causa e Efeito
 
-**Disciplina:** Bioestatística e Estudos em Saúde
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+A epidemiologia analítica é a ciência de ligar os pontos. Na prova, os temas centrais são a diferença entre **Incidência e Prevalência**, o cálculo de **RR e OR**, e os **Critérios de Bradford Hill** para dizer que algo causa uma doença.
+
+Na prática, não basta saber que "muita gente tem câncer". O médico precisa saber **por que** elas têm. O fumo causa o câncer ou é apenas uma coincidência? Existe um fator de **Confusão** no meio dessa história? Saber calcular o risco é o que permite você orientar seu paciente de forma precisa: "Se o senhor parar de fumar, seu risco de infarto cai pela metade em dois anos". Isso é transformar estatística em vida salva.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A epidemiologia analítica é a caixa de ferramentas que permite demonstrar se uma exposição causa ou está associada a um desfecho de saúde. Identificar que tabagismo causa câncer de pulmão, que vacinação previne difteria ou que hipertensão é fator de risco para AVC — tudo isso é produto da epidemiologia analítica. A Uninove cobra medidas de associação (RR, OR), critérios de causalidade e os diferentes desenhos de estudos analíticos.
 
 ### Figura sugerida
 
 **Figura-ID:** `BIOE-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Incidência vs Prevalência.
+- **O que mostrar:** O "Tanque da Doença": Um tanque de água. A água que entra pela torneira é a **Incidência** (casos novos). O nível de água acumulada no tanque é a **Prevalência** (casos totais). O ralo por onde a água sai representa a **Cura** ou o **Óbito**.
+- **Tipo sugerido:** Infográfico de dinâmica populacional.
+- **Legenda (rascunho):** A dinâmica entre casos novos, casos existentes e a saída por cura ou morte no sistema de saúde.
 
+## 1. Incidência vs Prevalência: O Fluxo e o Estoque
 
-
-
----
-
-## 1. Da Descrição à Análise
-
-A epidemiologia descritiva caracteriza a doença segundo pessoa (quem), lugar (onde) e tempo (quando) — gera hipóteses. A epidemiologia **analítica** vai além: testa hipóteses causais, quantifica a força de associação entre exposição e desfecho e permite inferir causalidade.
-
-A transição de associação para causalidade é um salto lógico que exige critérios rigorosos. A mera correlação entre duas variáveis não prova que uma causa a outra — fatores de confusão, vieses e acaso podem explicar a associação observada.
+- **Incidência (Casos Novos):** É a velocidade com que as pessoas ficam doentes. Mede o **Risco**. É como a torneira aberta enchendo a banheira.
+- **Prevalência (Casos Totais):** É a "fotografia" do momento. Inclui quem ficou doente hoje e quem já estava doente há anos. Mede a **Carga** da doença na sociedade.
+- **Regra:** Se uma doença mata rápido (ex: Ebola), a incidência pode ser alta, mas a prevalência será baixa (porque as pessoas não ficam doentes por muito tempo).
 
 ---
 
-## 2. Exposição e Desfecho
+## 2. Medidas de Associação: O Tamanho do Risco
 
-Em epidemiologia analítica, os estudos comparam grupos segundo a presença ou ausência de uma **exposição** (fator de risco, tratamento, característica) e medem a ocorrência de um **desfecho** (doença, morte, complicação, cura).
-
-A exposição pode ser um comportamento (tabagismo), característica biológica (hipertensão), intervenção (vacina, medicamento) ou condição ambiental (exposição a asbesto). O desfecho é o evento de saúde que se quer explicar ou prevenir.
-
----
-
-## 3. Medidas de Frequência de Doença
-
-### 3.1 Incidência
-Frequência de **casos novos** de uma doença em uma população durante um período de tempo. Mede o risco de desenvolver a doença. Usada em estudos de coorte.
-
-**Incidência cumulativa** = casos novos / população em risco no inicio do periodo (proporção, 0-1)
-
-**Taxa de incidência** = casos novos / pessoas-tempo (ex: por 1000 pessoas-ano) — usada quando o tempo de seguimento varia entre indivíduos.
-
-### 3.2 Prevalência
-Frequência de **casos existentes** (novos + antigos) em um momento específico. Mede a proporção da população que tem a doença naquele instante. Usada em estudos transversais.
-
-Prevalência = incidência x duração média da doença (para doenças crônicas estáveis).
-
-> **Dica de Prova:** Incidência mede RISCO (novos casos, dinamica temporal). Prevalência mede CARGA (casos atuais, fotografia). Doença que mata rapidamente tem prevalência baixa mesmo com incidência alta. Doença crônica de longa duração tem prevalência alta mesmo com incidência baixa.
+- **Risco Relativo (RR):** Usado em estudos de **Coorte** (quem seguimos no tempo). RR = 3 significa que o grupo exposto tem 3 vezes mais chance de adoecer.
+- **Odds Ratio (OR):** Usado em estudos de **Caso-Controle** (quem já está doente). É uma estimativa do risco quando não podemos medir a incidência diretamente.
+- **Risco Atribuível:** É a conta de "subtração". Diz quanto da doença sumiria se tirássemos o fator de risco (ex: Se ninguém fumasse, quantos casos de câncer seriam evitados?).
 
 ---
 
-## 4. Medidas de Associação
+## 3. Causalidade: Os Critérios de Bradford Hill
 
-### 4.1 Risco Relativo (RR)
-Razão entre o risco no grupo exposto e o risco no grupo não exposto. Usado em estudos de coorte (prospectivos).
-
-RR = incidência nos expostos / incidência nos nao expostos
-
-- RR = 1: nao ha associacao
-- RR maior que 1: exposição aumenta o risco (fator de risco)
-- RR menor que 1: exposição diminui o risco (fator protetor)
-
-**RR = 3** significa que o risco no grupo exposto é 3 vezes maior (200% maior) em relação ao grupo não exposto.
-
-### 4.2 Odds Ratio (OR)
-Razão entre as odds de exposição nos casos e nos controles. Usado principalmente em estudos caso-controle.
-
-OR = (casos expostos / casos nao expostos) / (controles expostos / controles nao expostos)
-
-Quando a doença é rara (prevalência menor que 10%), OR aproxima-se do RR. Quando a doença é comum, OR superestima o RR.
-
-### 4.3 Risco Atribuível (RA) e Fração Atribuível (FA)
-**Risco Atribuível (RA):** diferença absoluta de incidência entre expostos e não-expostos. Indica quanto do risco pode ser atribuído especificamente à exposição.
-
-RA = incidência nos expostos menos incidência nos nao expostos
-
-**Fração Atribuível (FA):** proporção da incidência nos expostos que pode ser atribuída à exposição.
-
-FA = (incidência expostos menos incidência nao expostos) / incidência expostos
+Como provar que A causa B? Usamos nove critérios, mas os mais importantes para a prova são:
+1. **Temporalidade (Obrigatório!):** A causa deve vir **Antes** do efeito. Não existe causa que vem depois da doença.
+2. **Dose-Resposta:** Quanto mais você fuma, maior a chance de ter câncer.
+3. **Plausibilidade Biológica:** A explicação tem que fazer sentido para a biologia humana.
+4. **Força da Associação:** Se o RR é gigante (ex: RR = 20), é quase certo que a causa é real.
 
 ---
 
-## 5. Critérios de Causalidade de Bradford Hill
+## 4. O Fator de Confusão: A Armadilha
 
-Bradford Hill (1965) propôs critérios para avaliar se uma associação observada é causal. Os principais são:
-
-**Força da associação:** quanto maior o RR ou OR, mais difícil de ser explicado por confundimento.
-**Consistência:** a associação é replicada em diferentes estudos, populações e métodos.
-**Especificidade:** a exposição está associada a um desfecho específico.
-**Temporalidade (obrigatório):** a exposição precede o desfecho no tempo — este é o único critério indispensável para causalidade.
-**Gradiente biológico (dose-resposta):** maior exposição associada a maior risco.
-**Plausibilidade biológica:** o mecanismo é biologicamente verossímil.
-**Coerência:** a associação não contradiz o conhecimento biológico estabelecido.
-**Evidência experimental:** experimentos controlados confirmam a relação causal.
-
-> **Dica de Prova:** O único critério obrigatório de Bradford Hill é a **temporalidade** — a exposição DEVE preceder o desfecho. Os demais critérios aumentam a plausibilidade causal mas nenhum é individualmente indispensável.
-
----
-
-## 6. Confundimento e Modificação de Efeito
-
-### 6.1 Fator de Confusão (Confounding)
-Uma terceira variável que está associada tanto à exposição quanto ao desfecho e distorce a medida de associação observada. Exemplo: a aparente associação entre porte de isqueiro e câncer de pulmão é confundida pelo tabagismo — quem porta isqueiro provavelmente fuma.
-
-Controle do confundimento: randomização (RCT), pareamento, estratificação, regressão multivariada.
-
-### 6.2 Modificação de Efeito (Interação)
-A magnitude da associação entre exposição e desfecho varia em diferentes subgrupos da população. Exemplo: o RR de infarto por hipertensão é diferente em diabéticos e não-diabéticos. A modificação de efeito não é viés — é um achado biologicamente relevante.
-
----
-
-## Pontos-Chave para Prova
-
-- **Incidência:** casos novos, mede risco, usada em coorte.
-- **Prevalência:** casos existentes, fotografia, usada em transversal.
-- **RR:** usado em coorte. OR: usado em caso-controle.
-- **RR = 1:** sem associacao. RR maior que 1: risco aumentado. RR menor que 1: fator protetor.
-- **Temporalidade:** unico criterio obrigatorio de Bradford Hill.
-- **Confundimento:** terceira variável que distorce a associação — controle por randomizacao ou regressao.
-- **OR aproxima-se de RR apenas quando a doença eh rara.**
+Um **Confundidor** é uma variável intrusa que faz duas coisas parecerem ligadas quando não estão:
+- **Exemplo Clássico:** Observa-se que quem toma muito café tem mais infarto.
+- **A Confusão:** O café causa o infarto? Não! Acontece que quem toma muito café geralmente **fuma mais**. O fumo é o verdadeiro causador, mas o café leva a culpa injustamente.
+- **Como resolver:** No estudo, você deve "limpar" os dados separando fumantes de não-fumantes.
 
 ---
 
 ## Ponte com a Clínica
 
-Os grandes estudos que embasam as diretrizes clínicas dependem de medidas de associação da epidemiologia analítica. O Framingham Heart Study, por exemplo, é uma coorte prospectiva que gerou os escores de risco cardiovascular usados diariamente na prática clínica. O estudo de casos e controles de Doll e Hill sobre tabagismo e câncer de pulmão (1950) foi pioneiro na epidemiologia analítica moderna. Entender RR, OR e critérios de causalidade é a base para interpretar evidências e questionar afirmações de risco e proteção na mídia e na literatura científica.
+No consultório, você usará o **Risco Relativo** para convencer o paciente a mudar de hábitos. Dizer "o cigarro faz mal" é vago. Dizer "Seu risco de ter um AVC é **4 vezes maior** (RR=4) do que o do seu vizinho que não fuma" é um dado científico poderoso que ajuda na adesão ao tratamento e na mudança de estilo de vida.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Incidência**: Foca em casos **Novos**.
+- **Prevalência**: Foca em casos **Existentes**.
+- **Relação**: Prevalência = Incidência x Duração da doença.
+- **Temporalidade**: É o único critério de causalidade que é **indispensável**.
+- **RR = 1**: Significa que o fator não fede nem cheira (não há associação).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Incidência:** novos casos. **Prevalência:** casos em um momento (novos + antigos).
-- **RR:** coorte prospectiva, razão de incidências.
-- **OR:** caso-controle, razão de odds de exposição.
-- **RR = OR quando a doença eh rara** (prevalência menor que 10%).
-- **Temporalidade:** unico criterio obrigatorio de causalidade — exposição precede desfecho.
-- **Confundimento:** variavel que distorce a associação. Controle: randomizacao, pareamento, regressao.
 
-Para estudar por esta plataforma sem perder desempenho em prova, aplique a sintese em um micro-cenario numerico: identifique qual medida deve ser usada, execute uma conta simples (ou interprete a grandeza apresentada) e finalize com a decisao clinico-epidemiologica mais defensavel. Esse roteiro reduz erro por decoracao isolada e aumenta acerto em questoes de interpretacao.
+Para gabaritar epidemiologia analítica, foque na Torneira e no Risco. 
+**Incidência** = Casos Novos (Torneira). **Prevalência** = Casos Atuais (Banheira cheia).
+
+A Uninove adora o **Estudo de Coorte**. Lembre-se: Coorte mede incidência e usa **RR**. Caso-Controle usa **OR**. Outro ponto forte: o **Confundidor**. Se uma terceira variável explica o resultado, ela é o confundidor. Por fim, saiba que para ser **Causa**, o fator tem que vir sempre **Antes** da doença (Temporalidade). Se o estudo é transversal (foto), ele não prova causa porque não sabemos quem veio primeiro.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Incidência | Prevalência | Incidencia: novos casos (risco); Prevalência: casos existentes (carga) |
-| RR | OR | RR: usado em coorte; OR: usado em caso-controle |
-| Confundimento | Modificacao de efeito | Confundimento: distorce — deve ser controlado; Modificacao: achado biologico real — deve ser relatado |
-| Risco atribuivel | Fração atribuivel | RA: diferença absoluta; FA: proporção do risco explicada pela exposição |
+| **Incidência** | **Prevalência** | Casos **Novos** (Risco) vs Casos **Totais** (Carga) |
+| **Risco Relativo (RR)**| **Odds Ratio (OR)** | Usado em **Coorte** vs Usado em **Caso-Controle** |
+| **Fator de Risco** | **Fator de Proteção** | RR **Maior que 1** vs RR **Menor que 1** |
+| **Confundidor** | **Modificador de Efeito** | Deve ser **Removido** vs Deve ser **Relatado** (É biológico) |
+| **Associação** | **Causalidade** | Estão **Juntos** vs Um **Gera** o outro |
 
 ### Frase-âncora para não esquecer
-> "RR compara riscos em coorte. OR compara odds de exposição em caso-controle. A temporalidade é o unico criterio causal indispensavel."
+
+> "Incidência é o risco que chega, prevalência é a carga que fica. No RR o futuro se mede, no OR o passado se explica. Sem temporalidade não há causa, apenas confusão que o dado disfarça. Se o RR é 1, nada mudou; se é maior, o perigo chegou. Calcule o risco, salve a vida."

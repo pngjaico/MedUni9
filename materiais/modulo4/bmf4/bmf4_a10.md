@@ -1,129 +1,93 @@
-# Morfologia da Medula Espinal
+# BMF4 — Aula 10: Morfologia da Medula Espinal — A Autopista dos Sentidos
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino  
-**Módulo:** 4 | **Aula:** bmf4_a10
+A medula espinal é o grande cabo de conexão entre o cérebro e o corpo. Na prova, os temas centrais são os **Limites da Medula** (onde ela acaba e onde começa a Cauda Equina), a organização das **Substâncias Cinzenta e Branca** e as **Síndromes Medulares** (como a de Brown-Séquard).
+
+Na prática, saber onde a medula termina é o que garante a segurança de procedimentos médicos. Quando você realiza uma **Punção Lombar** para colher líquor, faz isso sabendo exatamente que a medula já acabou naquela altura, evitando lesões neurológicas permanentes no paciente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A medula espinal é a autopista do sistema nervoso. Entender sua organização interna explica por que uma lesão cervical paralisa os quatro membros, uma torácica paralisa as pernas e uma lombar pode poupar o tronco. A distinção entre lesão do neurônio motor superior (NMS) e inferior (NMI) começa na anatomia medular.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A10-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de organização interna.
+- **O que mostrar:** A "Borboleta da Medula": Um corte transversal da medula. Em cinza, destacar o H medular com os **Cornos Anterior** (Motor) e **Posterior** (Sensitivo). Em branco, destacar os **Funículos Posterior** (Tato/Equilíbrio) e **Lateral** (Dor/Movimento).
+- **Tipo sugerido:** Esquema anatômico transversal didático.
+- **Legenda (rascunho):** Citoarquitetura da medula espinal e divisão funcional das vias.
 
+## 1. Onde a Medula Acaba: O Cone Medular
 
-
-
----
-
-## Localização e Limites
-
-- A medula ocupa o canal vertebral do forâmen magno (C1) até **L1–L2** no adulto.
-- Abaixo de L2: somente **cauda equina** (raízes lombossacrais em bainha de dura-máter).
-- **Cone medular:** porção terminal cônica da medula (L1–L2).
-- **Filum terminale:** prolongamento fibroso que fixa o cone ao cóccix.
-- **Intumescências:** cervical (C3–T2) e lombossacral (L1–S3) — onde nervos para membros emergem.
+Diferente do que muitos pensam, a medula não vai até o final da coluna.
+- **L1-L2:** É a altura onde a medula sólida termina no adulto, formando o **Cone Medular**.
+- **Cauda Equina:** Abaixo de L2, o canal vertebral contém apenas raízes nervosas soltas ("rabo de cavalo").
+- **Punção Lombar:** É feita em **L3-L4 ou L4-L5**. Como a medula já terminou, a agulha encontra apenas raízes soltas que "fogem" dela, tornando o procedimento seguro.
 
 ---
 
-## Organização Interna — Substâncias
+## 2. Substância Cinzenta: O H Medular
 
-### Substância cinzenta (interior — forma H)
-
-| Corno | Neurônios | Função |
-|-------|----------|--------|
-| Dorsal (posterior) | Interneurônios sensitivos | Recebem aferências sensoriais |
-| Ventral (anterior) | Neurônios motores (NMI, alfa e gama) | Controlam músculos esqueléticos |
-| Lateral (T1–L2) | Neurônios pré-ganglionares simpáticos | Simpático; S2–S4 = parassimpático sacral |
-
-> **Dica Rexed:** a substância cinzenta é dividida em lâminas (I–X). Lâminas I–VI = dorsal; VII–VIII = intermediária; IX = ventral (motoneurônios alfa).
-
-### Substância branca (exterior — funiculos)
-
-| Funículo | Localização | Vias principais |
-|----------|------------|----------------|
-| Posterior (dorsal) | Entre cornos dorsais | Fascículos grácil e cuneiforme (propriocepção, tato fino) |
-| Lateral | Entre cornos ventral e dorsal | Trato corticospinal lat. (motor descendente); espinocerebelar; espinotalâmico lat. |
-| Anterior | Anterior ao corno ventral | Trato corticospinal ant.; espinotalâmico ant. (tato grosseiro) |
+No centro da medula, temos o processamento:
+- **Corno Posterior (Dorsal):** É a porta de entrada da **Sensibilidade**.
+- **Corno Anterior (Ventral):** É a sede dos **Neurônios Motores Inferiores** (os que mandam no músculo). Se lesionar aqui, o músculo fica flácido e perde o reflexo.
+- **Corno Lateral:** Só existe na região torácica e lombar alta (T1-L2). Cuida do sistema nervoso **Simpático**.
 
 ---
 
-## Raízes Espinais e Nervos
+## 3. Substância Branca: As Estradas de Fibra
 
-- **Raiz dorsal (posterior):** sensitiva — contém o Gânglio da Raiz Dorsal (GRD), corpo dos neurônios pseudounipolares.
-- **Raiz ventral (anterior):** motora — axônios dos motoneurônios alfa.
-- Fusão das raízes na saída do forâmen intervertebral = **nervo espinal misto**.
-- 31 pares de nervos espinais: 8 cervicais, 12 torácicos, 5 lombares, 5 sacrais, 1 coccígeo.
-
-> **Regra:** C1 sai acima de C1 (entre crânio e atlas). C8 sai entre C7 e T1 (há 8 nervos cervicais, apenas 7 vértebras).
+Ao redor do H, temos os cabos de transmissão:
+- **Funículo Posterior:** Leva o **Tato Fino** (epicrítico) e a **Propriocepção** (saber a posição do corpo sem olhar).
+- **Funículo Lateral:** Leva a **Dor e Temperatura** e também o comando motor que desce do cérebro.
+- **Funículo Anterior:** Leva o tato grosseiro e pressão.
 
 ---
 
-## Comprimento vs. Nível Vertebral
+## 4. Síndrome de Brown-Séquard
 
-A medula é mais curta que a coluna — as raízes percorrem distância crescente até o forâmen:
-- Nível cervical: raízes quase horizontais.
-- Nível torácico: raízes oblíquas.
-- Nível lombar e sacral: raízes verticais formando a **cauda equina**.
-
-Isso importa clinicamente: uma hérnia de disco L4–L5 comprime a raíz L5, não o segmento L4–L5 da medula.
-
----
-
-## Síndromes Medulares Clássicas
-
-| Síndrome | Lesão | Achados |
-|----------|-------|---------|
-| Brown-Séquard (hemissecção) | Metade lateral da medula | Perda motora + propriocepção ipsilateral; dor e temperatura contralateral |
-| Cordão anterior | Tratos motores + espinotalâmico | Paralisia + perda de dor/temp; propriocepção preservada |
-| Cordão posterior | Funiculos posteriores | Perda de propriocepção e tato fino; motor preservado; Romberg (+) |
-| Centro medular | Zona central (siringomielia) | Perda de dor/temp bilateral (nível); motor poupado |
-
----
-
-## Pontos-Chave
-
-- Medula termina em L1–L2 no adulto; abaixo = cauda equina.
-- Corno ventral = NMI (alfa-motoneurônios). Corno dorsal = sensitivo. Corno lateral = SNA.
-- Funículo posterior: propriocepção e tato fino. Funículo lateral: motor (CST) e dor/temp (EspinoT).
-- Raiz dorsal = sensitiva (GRD). Raiz ventral = motora.
-- C8 existe (8 nervos cervicais, 7 vértebras).
+Esta é a síndrome de "meia-medula" (hemissecção):
+- **Lado da lesão:** Perda de **Movimento e Tato Fino**.
+- **Lado oposto:** Perda de **Dor e Temperatura**.
+- **Por que?** Porque a dor cruza de lado assim que entra na medula, mas o movimento e o tato fino cruzam apenas lá em cima, no cérebro ou no bulbo.
 
 ---
 
 ## Ponte com a Clínica
 
-Punção lombar: realizada em L3–L4 ou L4–L5 — abaixo do cone medular, atingindo apenas o líquor da cisterna lombar sem risco de lesar a medula. Lesão medular transversa acima de C4 → apneia (desnervação do diafragma via nervo frênico C3–C5). Tabes dorsalis (neurossífilis): desmielinização dos funículos posteriores → ataxia sensitiva, Romberg (+), loss de reflexos tendíneos.
+No seu exame de um paciente com trauma de coluna, se você encontrar um nível abaixo do qual ele não sente nada e não move nada, você identificou o **Nível Medular** da lesão. Se a lesão for acima de **C4**, o paciente perde o comando do diafragma (Nervo Frênico) e para de respirar. É uma emergência absoluta que exige ventilação mecânica imediata para salvar a vida do paciente.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Cone Medular**: Termina no nível das vértebras **L1-L2** no adulto.
+- **Corno Anterior**: Moradia do **Neurônio Motor Inferior**; lesão causa paralisia flácida e arreflexia.
+- **Lâminas de Rexed**: Divisão histológica da substância cinzenta (Lâmina IX = Motor; Lâminas I-II = Dor).
+- **Funículo Posterior**: Composto pelos fascículos **Grácil** (membros inferiores) e **Cuneiforme** (membros superiores).
+- **Síndrome de Brown-Séquard**: Lesão de metade da medula; gera déficit motor ipsilateral e sensitivo (dor) contralateral.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Medula termina em L1–L2** no adulto; abaixo = cauda equina.
-- **Corno ventral = NMI** (alfa e gama motoneurônios); lesão = paralisia flácida.
-- **Funículo posterior:** propriocepção e tato epicrítico (fascículos grácil e cuneiforme).
-- **8 nervos cervicais, 7 vértebras:** C8 sai entre C7 e T1.
-- **Punção lombar em L3–L4 ou L4–L5** — abaixo do cone, seguro.
-- **Brown-Séquard:** deficits ipsilaterais (motor + propriocepção) e contralateral (dor/temp).
+
+Para gabaritar medula, foque nos limites e nas vias. 
+**L1-L2** é o fim da linha para a medula sólida. **Punção Lombar** tem que ser abaixo disso. No H medular, o **Posterior** sente e o **Anterior** move. 
+
+A Uninove adora o **Funículo Posterior**. Lembre-se: Ele traz o tato chique (fino) e o equilíbrio. Se o paciente fecha o olho e cai, o problema é aqui (**Sinal de Romberg**). Outro ponto forte: o **Corno Lateral** (T1-L2) é o cara do **Simpático**. Por fim, saiba que a **Dor** cruza de lado na medula; o **Movimento** cruza no bulbo.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Estrutura A | Estrutura B | Diferença chave |
-|-------------|-------------|----------------|
-| Corno ventral | Corno dorsal | Ventral: NMI motor; Dorsal: sensitivo |
-| Funículo posterior | Funículo lateral | Posterior: propriocepção; Lateral: dor/temp + trato CST |
-| Lesão NMS (acima de L2) | Lesão NMI (corno ventral) | NMS: espástico, hiperreflexia; NMI: flácido, hiporeflexia |
-| Cauda equina | Cone medular | Cauda: raízes (NMI); Cone: medula real, pode dar NMS + NMI |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Cone Medular** | **Cauda Equina** | **Medula Sólida** (termina em L2) vs **Raízes Soltas** |
+| **Corno Anterior** | **Corno Posterior** | **Eferente** (Motor) vs **Aferente** (Sensitivo) |
+| **Fas. Grácil** | **Fas. Cuneiforme** | Sensibilidade das **Pernas** vs Sensibilidade dos **Braços** |
+| **Subst. Branca** | **Subst. Cinzenta** | **Cabos** (Axônios) vs **Processadores** (Corpos) |
+| **Punção Lombar** | **Anestesia Racki** | Ambos em **L3-L5** para evitar furar a medula |
 
 ### Frase-âncora para não esquecer
-> "A medula acaba em L1–L2 — abaixo só raízes, então punção em L4 é segura como picar no oceano sem medula por perto."
+
+> "Medula acaba em L2, o resto é rabo de cavalo. Anterior faz o motor, posterior o tato estalo. Dor cruza na entrada, movimento cruza no bulbo. Grácil vem de baixo, Cuneiforme é do braço vulgo."

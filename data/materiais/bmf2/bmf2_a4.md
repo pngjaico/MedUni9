@@ -1,4 +1,4 @@
-﻿# BMF2 — Aula 4: Câmaras, Valvas e Ciclo Cardíaco
+# BMF2 — Aula 4: Câmaras, Valvas e Ciclo Cardíaco
 
 **Disciplina:** Bases Morfofuncionais 2  
 **Módulo:** 2 | **Tempo de estudo sugerido:** 20-30 min
@@ -7,176 +7,93 @@
 
 ## Relevância Clínica e Acadêmica
 
-Este é um dos temas mais integradores da fisiologia cardiovascular: em poucos segundos, o coração alterna fases de enchimento e ejeção com mudanças precisas de pressão, volume, abertura valvar e sons cardíacos. Na prova, a banca costuma misturar anatomia funcional, ausculta e interpretação da curva pressão-volume.
+O ciclo cardíaco é a culminação da fisiologia cardiovascular: em frações de segundo, o coração alterna estados de pressão e volume para garantir o fluxo sanguíneo. Nesta aula, exploramos como a abertura e o fechamento sincronizado das valvas produz os sons que ouvimos na ausculta (**B1 e B2**) e como a mecânica ventricular se traduz em parâmetros hemodinâmicos fundamentais.
 
-Na prática clínica, esse raciocínio é essencial para entender por que um paciente apresenta dispneia, edema, sopro ou intolerância ao esforço. Quando você domina o ciclo cardíaco, consegue ligar sintoma, exame físico e mecanismo fisiopatológico sem decorar frases soltas.
-
-## Anatomia Funcional de Câmaras e Valvas
-
-O coração funciona como duas bombas em série: o lado direito impulsiona sangue para a circulação pulmonar, e o lado esquerdo para a sistêmica. Cada lado tem um átrio que recebe sangue e um ventrículo que o ejeta na sístole.
-
-O **átrio direito** recebe o retorno venoso sistêmico pelas veias cavas. O **ventrículo direito** trabalha com menor pós-carga e ejeta sangue para o tronco pulmonar. O **átrio esquerdo** recebe sangue oxigenado pelas veias pulmonares. O **ventrículo esquerdo** gera maior pressão para vencer a resistência sistêmica.
-
-As valvas são estruturas passivas do ponto de vista mecânico: elas não "contraem"; apenas abrem e fecham quando o gradiente de pressão muda.
-
-- **Valvas atrioventriculares:** tricúspide (direita) e mitral/bicúspide (esquerda).
-- **Valvas semilunares:** pulmonar (saída do VD) e aórtica (saída do VE).
-
-As valvas AV se ancoram em cordoalhas tendíneas ligadas a músculos papilares. Esse conjunto evita prolapso durante a sístole ventricular, reduzindo refluxo para os átrios.
-
-> **Dica de Prova:** abertura valvar depende de pressão a montante maior que a jusante. A banca gosta de inverter essa lógica em alternativas longas.
-
-> **Pegadinha:** dizer que "músculo papilar abre e fecha valva mitral". Ele só estabiliza a cúspide durante a sístole; quem define abrir/fechar é o gradiente pressórico.
-
-### Tabela comparativa de câmaras e valvas
-
-| Estrutura | Função principal | Pressão típica | Relevância clínica |
-|----------|------------------|----------------|--------------------|
-| Átrio direito | Reservatório e condução para VD | Baixa | Dilata em sobrecarga de volume direito |
-| Ventrículo direito | Ejeção para pulmonar | Moderada/baixa | Falha em hipertensão pulmonar |
-| Átrio esquerdo | Reservatório e condução para VE | Moderada | Dilata em doença mitral e IC diastólica |
-| Ventrículo esquerdo | Ejeção sistêmica | Alta | Hipertrofia por HAS e estenose aórtica |
-| Tricúspide | Fluxo AD -> VD | Abre na diástole | Insuficiência gera turgência jugular/edema |
-| Mitral | Fluxo AE -> VE | Abre na diástole | Lesões alteram pressão em AE e pulmão |
-| Pulmonar | Fluxo VD -> artéria pulmonar | Abre na sístole | Lesões afetam hemodinâmica direita |
-| Aórtica | Fluxo VE -> aorta | Abre na sístole | Lesões impactam perfusão sistêmica |
-
-## Fases do Ciclo Cardíaco
-
-O ciclo pode ser descrito em quatro fases principais para estudo prático: **enchimento ventricular**, **contração isovolumétrica**, **ejeção** e **relaxamento isovolumétrico**. Elas se repetem continuamente e se conectam aos eventos elétricos do ECG.
-
-### 1) Enchimento ventricular (diástole)
-
-Após o relaxamento, a pressão ventricular cai abaixo da atrial. As valvas AV se abrem e o sangue flui dos átrios para os ventrículos. No final da diástole, a contração atrial completa o enchimento (contribuição atrial).
-
-No ECG, essa fase acompanha o período após a onda T e inclui a onda P no fim da diástole.
-
-### 2) Contração isovolumétrica (início da sístole)
-
-Começa logo após o QRS, quando o ventrículo inicia contração com todas as valvas fechadas. O volume ventricular não muda, mas a pressão sobe rapidamente.
-
-Quando a pressão ventricular supera a atrial, as valvas AV fecham, gerando **B1** (primeira bulha).
-
-### 3) Ejeção ventricular
-
-Quando a pressão ventricular excede a da aorta (VE) ou artéria pulmonar (VD), as valvas semilunares abrem e ocorre ejeção de sangue. Primeiro há ejeção rápida, depois reduzida.
-
-No fim da ejeção, a pressão ventricular cai progressivamente.
-
-### 4) Relaxamento isovolumétrico (início da diástole)
-
-Após a repolarização ventricular, a pressão intraventricular cai com todas as valvas fechadas. O volume permanece constante no volume sistólico final.
-
-Quando a pressão ventricular fica menor que a arterial, as semilunares fecham e surge **B2** (segunda bulha). Em seguida, quando a pressão ventricular fica menor que a atrial, as AV abrem e recomeça o enchimento.
-
-### Linha do tempo integrada (fisiologia + ausculta)
-
-| Fase | Estado das valvas | Variação de volume | Bulha associada |
-|------|-------------------|--------------------|-----------------|
-| Enchimento ventricular | AV abertas, semilunares fechadas | Aumenta | Sem bulha fisiológica obrigatória |
-| Contração isovolumétrica | Todas fechadas | Constante | B1 (fechamento AV) |
-| Ejeção | AV fechadas, semilunares abertas | Diminui | Sem bulha principal |
-| Relaxamento isovolumétrico | Todas fechadas | Constante | B2 (fechamento semilunares) |
-
-## Correlação com Pressão-Volume e Bulhas
-
-A alça pressão-volume do ventrículo esquerdo organiza o raciocínio hemodinâmico em prova:
-
-1. **Enchimento:** volume sobe com baixa pressão relativa.
-2. **Contração isovolumétrica:** pressão sobe com volume fixo.
-3. **Ejeção:** volume cai enquanto a pressão sobe e depois cai.
-4. **Relaxamento isovolumétrico:** pressão cai com volume fixo.
-
-O **volume diastólico final (VDF)** representa pré-carga. O **volume sistólico final (VSF)** é o volume remanescente após ejeção. A diferença entre ambos é o **volume sistólico ejetado**.
-
-Em perguntas de interpretação, deslocamentos da alça ajudam:
-
-- Aumento de pré-carga tende a elevar VDF e volume sistólico.
-- Aumento de pós-carga tende a elevar VSF e reduzir ejeção.
-- Aumento de contratilidade tende a reduzir VSF e ampliar ejeção.
-
-## Aplicação Clínica: Sopros Valvares e Sobrecarga de Câmaras
-
-Sopros são ruídos de fluxo turbulento. Para acertar prova e prática, relacione sempre o momento do sopro no ciclo com a valva provável.
-
-### Sopros valvares básicos
-
-- **Estenose aórtica:** sopro sistólico ejetivo (valva abre com dificuldade na sístole).
-- **Insuficiência mitral:** sopro holossistólico (refluxo do VE para AE na sístole).
-- **Estenose mitral:** sopro diastólico (dificuldade de fluxo AE -> VE na diástole).
-- **Insuficiência aórtica:** sopro diastólico (refluxo da aorta para VE na diástole).
-
-### Sobrecarga de câmaras (visão de prova)
-
-A sobrecarga pode ser por pressão ou volume:
-
-- **Sobrecarga de pressão no VE:** hipertrofia concêntrica (ex.: HAS, estenose aórtica).
-- **Sobrecarga de volume no VE:** dilatação (ex.: insuficiência aórtica/mitral).
-- **Sobrecarga de pressão no VD:** hipertrofia por hipertensão pulmonar.
-- **Sobrecarga de volume em átrios:** dilatação atrial, favorecendo arritmias como FA.
-
-### Tabela comparativa útil para revisão rápida
-
-| Lesão | Momento predominante | Câmara mais impactada | Padrão de sobrecarga |
-|------|----------------------|------------------------|----------------------|
-| Estenose aórtica | Sístole | Ventrículo esquerdo | Pressão |
-| Insuficiência aórtica | Diástole | Ventrículo esquerdo | Volume |
-| Estenose mitral | Diástole | Átrio esquerdo | Pressão retrógrada/pulmão |
-| Insuficiência mitral | Sístole | Átrio esquerdo e VE | Volume |
-| Estenose pulmonar | Sístole | Ventrículo direito | Pressão |
-| Insuficiência tricúspide | Sístole | Átrio direito | Volume |
-
-## Ponte com a Clínica
-
-No internato e no ambulatório, o raciocínio é direto: paciente com dispneia + sopro + sinais de congestão exige que você localize a fase alterada do ciclo e a valva provável. Isso orienta exame físico, hipótese e priorização de ecocardiograma.
-
-Na beira-leito, o erro mais comum é decorar nomes de sopros sem ligar ao gradiente de pressão e ao momento do ciclo. Quando você faz essa ligação, a ausculta deixa de ser memorização e vira fisiologia aplicada.
+Na prática clínica, dominar o ciclo é a base para diagnosticar **sopros**, **insuficiências** e **estenoses**. Compreender a sequência entre a atividade elétrica (ECG) e o evento mecânico permite ao médico localizar precisamente onde o sistema está falhando, correlacionando achados de exame físico com a fisiopatologia do paciente.
 
 ---
 
+## Anatomia Funcional de Câmaras e Valvas
 
-### Figura sugerida
+O coração opera como duas bombas em série. O lado direito é o responsável pelo circuito de baixa pressão (pulmonar), enquanto o esquerdo gera a força necessária para a circulação sistêmica. O sangue flui unidirecionalmente graças às **valvas**, estruturas puramente passivas que abrem e fecham baseadas apenas no **gradiente de pressão**.
 
-**Figura-ID:** `BMF2-A4-F01`
+As **valvas atrioventriculares** (MITRAL e TRICÚSPIDE) separam os átrios dos ventrículos e são ancoradas por cordoalhas e músculos papilares para evitar o refluxo (prolapso) durante a sístole. Já as **valvas semilunares** (AÓRTICA e PULMONAR) guardam a saída dos ventrículos, abrindo-se apenas quando a pressão ventricular supera a pressão arterial diastólica nas grandes artérias.
 
-- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
-- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
-- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
+---
+
+## As Fases do Ciclo Cardíaco
+
+O ciclo cardíaco divide-se em momentos precisos de sístole (contração) e diástole (relaxamento), cada um com características volumétricas e pressóricas distintas:
+
+### 1. Enchimento Ventricular (Diástole)
+O ciclo inicia-se com o enchimento, dividido em fases rápida, lenta (diástase) e a **sístole atrial**. Quando a pressão nos átrios supera a dos ventrículos, as valvas AV se abrem e o sangue flui passivamente. A contração atrial final contribui com cerca de 20% do volume diastólico final, sendo vital para o débito cardíaco em estados de esforço.
+
+### 2. Contração Isovolumétrica (Início da Sístole)
+Logo após o Complexo QRS, os ventrículos começam a contrair. A pressão interna sobe bruscamente e ultrapassa a pressão dos átrios, forçando o fechamento das valvas AV. Este fenômeno mecânico produz a **Primeira Bulha (B1)**. Durante esta fase, **todas as valvas estão fechadas**, o que significa que o volume não muda enquanto a pressão escala rapidamente.
+
+### 3. Ejeção Ventricular
+Quando a pressão intraventricular finalmente vence a resistência da Aorta ou do Tronco Pulmonar, as valvas semilunares abrem-se. O sangue é ejetado com força (ejeção rápida), seguido por uma fase de ejeção reduzida à medida que a força de contração diminui e a pressão ventricular começa a cair.
+
+### 4. Relaxamento Isovolumétrico (Início da Diástole)
+Com a repolarização (Onda T), o miocárdio relaxa. Quando a pressão ventricular cai abaixo da pressão arterial, o sangue tenta retroceder, forçando o fechamento das semilunares, o que gera a **Segunda Bulha (B2)**. Novamente, temos uma fase isovolumétrica onde o volume permanece fixo até que a pressão caia o suficiente para reabrir as valvas AV.
+
+---
+
+### Tabela: Dinâmica das Valvas e Bulhas
+
+| Fase do Ciclo | Valvas AV | Semilunares | Sons Cardíacos |
+|---------------|-----------|-------------|----------------|
+| **Enchimento** | Abertas | Fechadas | B3/B4 (se patológico) |
+| **Contração Iso** | **Fechando** | Fechadas | **B1** |
+| **Ejeção** | Fechadas | Abertas | - |
+| **Relaxamento Iso**| Fechadas | **Fechando**| **B2** |
+
+---
+
+## Hemodinâmica e Interpretação Clínica
+
+A eficácia do coração é medida por volumes: o **Volume Diastólico Final (VDF)** reflete a pré-carga, enquanto o **Volume Sistólico Final (VSF)** é o que sobra após a ejeção. A diferença entre eles é o **Volume Sistólico (VS)**, o volume efetivamente ejetado em cada batida.
+
+Quando ouvimos um ruído extra, o **sopro**, ele indica fluxo turbulento por valvas que não abrem bem (**Estenose**) ou não fecham adequadamente (**Insuficiência**). O segredo para a prova é localizar o sopro no tempo: se ocorre entre B1 e B2, é um **sopro sistólico** (ex: Estenose Aórtica); se ocorre após B2, é um **sopro diastólico** (ex: Estenose Mitral).
+
+---
+
+## Ponte com a Clínica
+
+**Caso Clínico:** Paciente idoso queixa-se de síncope ao esforço. Na ausculta, nota-se um sopro em crescendo-decrescendo após B1, irradiando para as carótidas.
+
+**Análise Integrada:**
+O sopro ocorre durante a sístole ventricular (após B1). O achado de sopro ejetivo sugere que a **valva aórtica** está oferecendo resistência à saída do sangue. Essa **Estenose Aórtica** obriga o ventrículo a gerar pressões muito altas, reduzindo a capacidade de aumentar o débito no esforço, o que explica a síncope pulmonar.
+
+---
 
 ## Pontos-Chave para Prova
 
-- O fluxo valvar é unidirecional e depende de gradiente pressórico, não de "ação ativa" da valva.
-- B1 corresponde ao fechamento das valvas AV no início da sístole ventricular.
-- B2 corresponde ao fechamento das semilunares no início da diástole.
-- Contração e relaxamento isovolumétricos ocorrem com todas as valvas fechadas e volume constante.
-- Lesões estenóticas dificultam abertura; lesões insuficientes causam refluxo.
-- Sobrecarga de pressão tende a hipertrofia; sobrecarga de volume tende a dilatação.
+*   **B1:** Fechamento das valvas Mitral e Tricúspide (início da sístole).
+*   **B2:** Fechamento das valvas Aórtica e Pulmonar (início da diástole).
+*   **Fases Isovolumétricas:** Todas as valvas estão fechadas; volume é constante.
+*   **Sobrecarga de Pressão:** Gera hipertrofia da parede (ex: Hipertensão).
+*   **Sobrecarga de Volume:** Gera dilatação da cavidade (ex: Insuficiência Valvar).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-Na prova, o coração deve ser lido como uma sequência de gradientes de pressão. Primeiro, o ventrículo enche porque a pressão atrial está maior; depois, com o QRS, ele contrai com todas as valvas fechadas, sobe pressão sem mudar volume e fecha AV, gerando B1. Quando sua pressão supera a arterial, começa a ejeção.
 
-No fim da sístole, a pressão ventricular cai, as semilunares fecham e aparece B2. Em seguida, há relaxamento isovolumétrico até a pressão ventricular ficar menor que a atrial, reabrindo AV e reiniciando o enchimento. Se você lembrar essa ordem, acerta a maioria das questões de ciclo cardíaco.
+Na prova, visualize o ciclo como uma sucessão de gradientes: o sangue só se move do local de maior pressão para o de menor. A **Sístole** começa no fechamento da Mitral (B1) e a **Diástole** no fechamento da Aorta (B2). Lembre-se que as fases isovolumétricas são "momentos de transição" onde a pressão está mudando mas o sangue está temporariamente preso.
 
-As valvopatias básicas seguem a mesma lógica temporal: estenose aórtica e insuficiência mitral são típicas de sístole; estenose mitral e insuficiência aórtica, de diástole. A banca adora trocar o momento do sopro na alternativa, então confirme sempre "qual valva está aberta ou fechada nesta fase?".
-
-Em hemodinâmica, guarde que pressão e volume mudam juntos na ejeção e no enchimento, mas mudam isoladamente nas fases isovolumétricas. Essa é a chave para interpretar alça pressão-volume sem decorar figura.
+Sobre os sopros: estenose aórtica e insuficiência mitral são os grandes clássicos da sístole. Estenose mitral e insuficiência aórtica são as estrelas da diástole. Se a questão mencionar **contração atrial**, o foco é o final do enchimento ventricular e a formação da **Onda P** no ECG.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| B1 | B2 | B1 = fechamento AV (início da sístole); B2 = fechamento semilunares (início da diástole) |
-| Contração isovolumétrica | Ejeção | Na isovolumétrica sobe pressão com volume constante; na ejeção o volume cai |
-| Relaxamento isovolumétrico | Enchimento ventricular | No relaxamento todas valvas fechadas; no enchimento AV abertas |
-| Estenose valvar | Insuficiência valvar | Estenose dificulta fluxo anterógrado; insuficiência permite refluxo |
-| Sobrecarga de pressão | Sobrecarga de volume | Pressão: hipertrofia; volume: dilatação de câmara |
+| **Sístole Ventricular** | **Diástole Ventricular** | Período entre B1 e B2 vs Período após B2 |
+| **B1** | **B2** | Fechamento de Valvas AV vs Fechamento de Semilunares |
+| **Pré-carga (VDF)** | **Pós-carga** | Volume de enchimento vs Resistência à ejeção |
+| **Hipertrofia** | **Dilatação** | Resposta ao aumento de pressão vs Aumento de volume |
 
 ### Frase-âncora para não esquecer
+
 > "No ciclo cardíaco, quem manda é o gradiente de pressão: ele fecha, abre, explica as bulhas e revela o sopro."

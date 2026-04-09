@@ -1,192 +1,92 @@
-# ST — Aula 4: Conduta inicial nos agravos de saúde do trabalhador
+# ST — Aula 4: Conduta Inicial nos Agravos de Saúde do Trabalhador
 
-**Disciplina:** Saúde do trabalhador  
-**Módulo:** 3
+A rapidez na primeira abordagem pode significar a diferença entre uma recuperação total e uma sequela permanente. Na prova, os temas centrais são a **Ordem de Atendimento** (estabilizar primeiro, investigar depois), a coleta da **Anamnese Ocupacional** dirigida e a decisão sobre o **Afastamento ou Readaptação** do trabalhador.
+
+Na prática, o médico deve agir como um "gestor de riscos". Ao atender um acidente biológico ou uma intoxicação, você precisa tratar o paciente, mas também garantir que ele não volte para um ambiente perigoso sem as devidas correções, evitando o efeito "porta giratória" em que o paciente volta sempre com o mesmo problema.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A conduta inicial em agravo ocupacional exige rapidez, segurança e raciocínio estruturado.
-Na prova, esse tema aparece em cenários de urgência, intoxicação, acidente biológico e dor incapacitante.
-Na prática, decisão correta na primeira abordagem reduz dano imediato e evita recorrência.
-
-O médico precisa equilibrar duas frentes:
-
-- tratar o quadro agudo;
-- reduzir exposição e organizar seguimento vigilante.
-
-Quando isso é feito de forma integrada, melhora o desfecho clínico e funcional.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A4-F01`
 
-- **Momento:** após a seção de relevância.
-- **O que mostrar:** algoritmo de primeira abordagem (gravidade -> estabilização -> história ocupacional -> plano).
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Decisão clínica inicial em suspeita de agravo ocupacional."
+- **Momento:** Seção de algoritmo de conduta.
+- **O que mostrar:** O "Algoritmo do Detetive Clínico": Um fluxograma começando com **Sinais de Alerta** (estabilizar o paciente) -> **Anamnese Rápida** (O que você faz? Com o que se expõe?) -> **Definição de Nexo** (É do trabalho?) -> **Conduta Dupla** (Tratar o corpo + Tratar o ambiente).
+- **Tipo sugerido:** Infográfico didático | Fluxograma de decisão.
+- **Legenda (rascunho):** Algoritmo de decisão clínica inicial para agravos relacionados ao trabalho.
+
+## 1. Princípios da Primeira Abordagem
+
+No agravo ocupacional, a conduta segue quatro passos obrigatórios:
+1.  **Segurança do Local:** Se o ambiente estiver perigoso (vazamento químico), afastar o trabalhador imediatamente.
+2.  **Estabilização Clínica:** Salvar a vida primeiro. Se for uma intoxicação aguda ou trauma, o suporte básico é prioridade total.
+3.  **História Ocupacional Dirigida:** Não precisa de uma hora de conversa; cinco perguntas resolvem (tarefa, agente, tempo de exposição, melhora nas folgas e colegas doentes).
+4.  **Plano de Seguimento:** Decidir se ele pode voltar a trabalhar com restrições ou se precisa ser afastado.
 
 ---
 
-## Princípios da primeira abordagem
+## 2. Conduta Específica por Tipo de Acidente
 
-Quatro princípios orientam a conduta:
-
-1. afastar o trabalhador de risco imediato;
-2. estabilizar clinicamente quando houver gravidade;
-3. coletar história ocupacional de alto rendimento;
-4. definir plano de seguimento e prevenção.
-
-Esses passos valem para UBS, UPA e pronto-socorro, com adaptação conforme gravidade.
-
-> **Dica de Prova:** em cenário agudo, estabilização sempre precede discussões administrativas.
-
-> **Pegadinha:** atribuir quadro a "fator emocional isolado" sem avaliação de exposição ocupacional.
+- **Acidente Biológico (Furo com Agulha):** Lavar com água e sabão (não usar desinfetantes agressivos), testar o paciente fonte e iniciar a **PEP (Profilaxia Pós-Exposição)** o mais rápido possível (janela de 2 a 72 horas).
+- **Intoxicação Química:** Retirar a roupa contaminada, lavar a pele e os olhos abundantemente e avaliar a respiração.
+- **LER/DORT (Dor Muscular):** Antes de afastar, tente a **Readaptação de Função** (mudar a tarefa do trabalhador para uma que não exija o esforço que o lesionou).
 
 ---
 
-## História ocupacional rápida que muda a decisão
+## 3. O Dilema do Afastamento: Total ou Parcial?
 
-Cinco perguntas aumentam a qualidade diagnóstica na primeira consulta:
-
-- qual função e tarefa principal;
-- qual agente de risco predominante;
-- qual tempo e intensidade de exposição;
-- há melhora em folga/férias;
-- colegas têm sintomas semelhantes.
-
-### Tabela útil: resposta e interpretação
-
-| Achado na anamnese | Interpretação | Próxima ação |
-|--------------------|---------------|--------------|
-| piora no fim do turno | nexo ocupacional provável | reduzir exposição e seguir investigação |
-| melhora em folga/férias | reforça relação temporal | manter hipótese ocupacional ativa |
-| casos semelhantes no setor | risco coletivo | acionar vigilância local |
-| exposição aguda intensa | risco de gravidade | manejo imediato e monitorização |
+Afastar o trabalhador nem sempre é o melhor caminho. O isolamento em casa pode causar depressão e perda de renda.
+- **Afastamento Total:** Apenas se o risco à vida for alto ou se a incapacidade for completa.
+- **Readaptação:** O médico sugere que a empresa coloque o trabalhador em outra função temporariamente (ex: um digitador com dor no punho pode trabalhar na recepção distribuindo fichas).
+- **Importante:** A decisão de afastamento deve ser registrada no prontuário com o **CID** (Código de Doença) e o tempo estimado de recuperação.
 
 ---
 
-## Conduta inicial por tipo de agravo
+## 4. O Registro Médico como Documento Legal
 
-### Exposição química aguda
-
-- interromper exposição;
-- descontaminar conforme agente;
-- avaliar função respiratória e neurológica;
-- tratar suporte e monitorar evolução.
-
-### Acidente com material biológico
-
-- cuidado local imediato;
-- estratificação de risco da exposição;
-- protocolo pós-exposição conforme rotina;
-- seguimento clínico-laboratorial.
-
-### LER/DORT com dor intensa
-
-- excluir bandeira vermelha neurológica;
-- analgesia e orientação funcional;
-- evitar imobilização prolongada;
-- ajustar atividade e ergonomia.
-
-### Sofrimento mental relacionado ao trabalho
-
-- acolhimento e escuta qualificada;
-- avaliação de risco de autoagressão;
-- manejo inicial em saúde mental;
-- articulação multiprofissional.
-
----
-
-## NRs aplicadas à conduta inicial
-
-NRs não são apêndice jurídico.
-Elas ajudam a explicar por que o evento ocorreu e o que previne repetição.
-
-| Situação clínica | NR prioritária | Implicação prática |
-|------------------|----------------|--------------------|
-| acidente com perfurocortante em hospital | NR-32 | reforçar protocolo e organização segura do fluxo |
-| dor cervical em teleatendimento | NR-17 | revisar posto, pausa e carga de tarefa |
-| perda auditiva em setor ruidoso | NR-7 e NR-9 | vigilância periódica e controle de exposição |
-| queimadura por químico sem proteção | NR-6 | revisar adequação de EPI e treinamento |
-
-Sem conexão entre clínica e NR, a tendência é repetir evento com novos trabalhadores.
-
----
-
-## Afastamento, retorno e capacidade funcional
-
-Afastamento deve ser individualizado.
-Nem todo caso exige afastamento total.
-Em muitos cenários, atividade modificada temporária reduz incapacidade prolongada.
-
-Critérios úteis para decisão:
-
-- risco de agravamento se mantida a exposição;
-- limitação funcional para tarefa específica;
-- necessidade de monitorização clínica próxima;
-- possibilidade de readaptação transitória.
-
-Retorno protegido pede reavaliação periódica.
-Sem esse acompanhamento, recaída é frequente.
-
-### Figura sugerida
-
-**Figura-ID:** `ST-A4-F02`
-
-- **Momento:** após a seção de retorno ao trabalho.
-- **O que mostrar:** trilha de retorno protegido com checkpoints clínicos e funcionais.
-- **Tipo sugerido:** infográfico.
-- **Legenda (rascunho):** "Etapas de retorno ao trabalho com segurança e funcionalidade."
+O prontuário é um documento que protege o médico e o paciente.
+- **O que não pode faltar:** A descrição detalhada da **Função** e do **Agente de Risco** (ex: "exposição a ruído de 90dB sem protetor auricular").
+- **Nexo Provável:** Mesmo que você não tenha certeza absoluta, registre a **Suspeita**. Isso garante que o trabalhador tenha direito ao auxílio-doença acidentário se precisar.
 
 ---
 
 ## Ponte com a Clínica
 
-Operador de caldeira, 45 anos, chega com cefaleia intensa, tontura e náusea após jornada em local de ventilação precária.
-A conduta correta inclui retirada imediata da exposição, estabilização clínica e documentação ocupacional objetiva.
-Em paralelo, o caso precisa acionar vigilância para investigar risco coletivo no setor.
-Essa integração evita novo evento e melhora proteção de toda a equipe.
+No consultório, saiba que a **CAT (Comunicação de Acidente de Trabalho)** deve ser emitida em até 24 horas após o evento. Mesmo que você seja um médico da rede particular ou da UBS, você pode e deve preencher a CAT caso o médico da empresa não esteja disponível. Negar o registro de um acidente de trabalho no prontuário prejudica o rastreamento epidemiológico e retira direitos previdenciários cruciais do trabalhador, como a estabilidade no emprego de 12 meses após o retorno.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- conduta inicial começa por segurança e estabilização;
-- história ocupacional curta e dirigida aumenta acerto diagnóstico;
-- NRs orientam prevenção de recorrência;
-- afastamento deve considerar risco e funcionalidade;
-- caso índice pode disparar intervenção coletiva.
+- **Ordem de Prioridade**: Estabilizar o quadro clínico é sempre mais importante que preencher documentos.
+- **Anamnese Ocupacional**: Deve incluir a relação temporal (piora no trabalho / melhora no repouso).
+- **Readaptação**: Estratégia preferencial para evitar o desemprego e a incapacidade prolongada.
+- **Acidente Biológico**: A rapidez na profilaxia (PEP) é o fator que mais reduz a chance de infecção.
+- **Registro de Nexo**: A dúvida diagnóstica não impede a notificação da suspeita ocupacional.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-No agravo ocupacional, a ordem da conduta importa.
-Primeiro protege e estabiliza; depois aprofunda nexo, registra e organiza vigilância.
-Inverter essa sequência é erro clássico de prova.
+Para gabaritar Conduta Inicial, foque na sequência lógica. 
+**Trata o Doente** -> **Investiga a Causa** -> **Registra o Nexo** -> **Previne a Recorrência**. Se a questão descreve um acidente grave, não perca tempo com NRs ou papéis; a resposta certa sempre começa com estabilização clínica (ABCDE).
 
-A história ocupacional dirigida é decisiva para diferenciar caso inespecífico de caso relacionado ao trabalho.
-Mesmo com nexo ainda provável, a proteção imediata deve ser instituída.
-Questões bem elaboradas cobram essa atitude clínica responsável.
-
-NR-32, NR-17, NR-7/NR-9 e NR-6 aparecem como ponte entre dano agudo e prevenção.
-A resposta mais forte é a que trata o trabalhador hoje e reduz risco da equipe amanhã.
+A Uninove adora a **PEP Biológica**. Lembre-se: lavagem local + teste rápido do paciente fonte + início de remédios em até 2h (máximo 72h). Outro ponto forte: o **Afastamento do Risco** é a primeira medida na asma ocupacional ou dermatite grave. Por fim, saiba que o médico assistente tem autonomia para sugerir a mudança de função do paciente à empresa através de um laudo fundamentado.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Urgência clínica | Burocracia administrativa | urgência é imediata; burocracia não pode atrasar cuidado |
-| Afastamento total | Atividade modificada | depende de risco e capacidade funcional |
-| Nexo provável | Nexo descartado | dúvida não impede proteção inicial |
-| Caso individual | Falha de processo | recorrência em colegas sugere falha de processo |
+| **Suporte à Vida** | **Documentação** | Prioridade **Absoluta** vs Prioridade **Secundária** |
+| **Afastamento** | **Readaptação** | Ficar em **Casa** (Inativo) vs Mudar de **Função** (Ativo) |
+| **História Curta** | **História Longa** | Foco na **Tarefa/Risco** vs Foco em outros hábitos |
+| **PEP** | **PReP** | Prevenção **Pós-Susto** vs Prevenção **Contínua** |
+| **Nexo Individual** | **Nexo Coletivo** | Só um doente vs Vários **Colegas Doentes** |
 
 ### Frase-âncora para não esquecer
 
-> "Decisão inicial certa protege o paciente agora e a equipe depois."
+> "Primeiro a vida, depois o nexo. Se o trabalho adoece, mude a tarefa ou afaste do perigo. Um documento mal preenchido é uma dívida que a saúde do trabalhador paga depois."

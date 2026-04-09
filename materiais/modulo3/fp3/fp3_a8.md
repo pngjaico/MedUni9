@@ -1,118 +1,93 @@
 # FP3 — Aula 8: Neoplasias — Carcinogênese, Disseminação e Estadiamento
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O câncer é o resultado de uma célula que "esqueceu como morrer" e passou a se dividir sem parar. Na prova, os temas centrais são a diferenciação entre tumores **Benignos** e **Malignos**, as etapas da **Carcinogênese** (Iniciação, Promoção e Progressão) e o sistema **TNM de Estadiamento**, que define o futuro do paciente.
+
+Na prática, o médico deve saber que um diagnóstico precoce de um **Carcinoma In Situ** (que ainda não rompeu a barreira do tecido) pode significar a cura total, enquanto a descoberta de uma metástase mexe em toda a estratégia de tratamento, passando de curativa para paliativa.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Câncer é a segunda causa de morte no Brasil (atrás de doença cardiovascular) e onipresente nas provas de medicina. A **Uninove** cobra especialmente: diferença entre benigno e maligno, os mecanismos de carcinogênese (proto-oncogenes × genes supressores de tumor), disseminação linfática vs. hematogênica e o sistema TNM de estadiamento. Questões de raciocínio clínico frequentemente pedem prognóstico baseado em achados histopatológicos.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de benigno vs maligno.
+- **O que mostrar:** O "Invasor vs o Vizinho": De um lado, o tumor **Benigno**, redondinho, dentro de uma cápsula, apenas empurrando os tecidos. Do outro, o tumor **Maligno**, com "braços" (caranguejo) que entram nos vasos sanguíneos e nervos, destruindo tudo ao redor.
+- **Tipo sugerido:** Infográfico didático | Esquema comparativo.
+- **Legenda (rascunho):** Diferenças fundamentais de crescimento e invasão entre neoplasias benignas e malignas.
 
+## 1. Benigno vs. Maligno: O Nome e o Comportamento
 
-
-
----
-
-## Conceitos Fundamentais — Benigno vs. Maligno
-
-Toda neoplasia é uma proliferação celular anormal e não responsiva aos mecanismos normais de controle do crescimento. A distinção entre benigna e maligna tem implicações prognósticas e terapêuticas fundamentais.
-
-**Neoplasia benigna:** crescimento lento, expansivo (comprime sem invadir), bordas regulares, encapsulada, células bem diferenciadas (semelhantes ao tecido original = baixo grau histológico). Não metastatiza. Nomenclatura: sufixo **-oma** no tipo celular (lipoma, fibroma, adenoma).
-
-**Neoplasia maligna:** crescimento rápido, infiltrativo (invade tecidos adjacentes), bordas irregulares, geralmente não encapsulada, células de variados graus de diferenciação (anaplasia = muito indiferenciado). Pode metastatizar. Nomenclatura: sufixo **-carcinoma** para epitélio, **-sarcoma** para tecido conjuntivo.
-
-> **Dica de Prova:** lipoma = benigno de tecido adiposo; lipossarcoma = maligno de tecido adiposo. Adenoma = benigno de glândula; adenocarcinoma = maligno de glândula (colon, endométrio, pulmão). A Uninove usa a nomenclatura para cobrar se o estudante reconhece o tipo celular e a malignidade.
+Saber o nome do tumor já diz muito sobre ele:
+- **Benignos (Sufixo -oma):** Têm crescimento lento, são organizados e não viajam pelo corpo. Ex: Lipoma (gordura), Mioma (músculo do útero).
+- **Malignos (Câncer):** Têm crescimento rápido e invadem os vizinhos.
+    - **Carcinomas:** Nascem na pele ou mucosas (epitélio). Viajam preferencialmente pelos **Linfonodos**.
+    - **Sarcomas:** Nascem nos ossos, músculos ou cartilagens. Viajam preferencialmente pelo **Sangue** (Hematogênica).
 
 ---
 
-## Carcinogênese — O Processo em Múltiplas Etapas
+## 2. Carcinogênese: A Receita do Câncer
 
-O câncer resulta de mutações acumuladas ao longo de décadas. O modelo **iniciação → promoção → progressão** descreve as etapas:
-
-**Iniciação:** mutação irreversível no DNA por carcinógeno (físico = radiação ionizante; químico = tabaco, aflatoxina; biológico = HPV, EBV, HBV). A célula adquire lesão genética mas ainda não prolifera de forma descontrolada.
-
-**Promoção:** agentes promotores (hormônios, inflamação crônica, cigarro) estimulam a proliferação das células iniciadas. Não causa mutação — mas seleciona as células com vantagem proliferativa.
-
-**Progressão:** acúmulo de mutações adicionais → invasão + metástase. As células adquirem capacidade de disseminação (epithelial-mesenchymal transition) e de criar microambiente favorável no sítio distante.
-
-Os genes envolvidos são de duas categorias opostas: **proto-oncogenes** (ganho de função → oncogene) que promovem crescimento (RAS, MYC, HER2, BCR-ABL), e **genes supressores de tumor** (perda de função) que freiam o crescimento (p53, Rb, APC, BRCA1/2).
-
-> **Pegadinha:** proto-oncogene requer apenas **uma mutação** (ganho de função em um alelo — dominante); gene supressor requer **duas mutações** (dois alelos devem ser perdidos — modelo de Knudson "two-hit hypothesis"). Na síndrome de Li-Fraumeni (mutação germinativa em p53), a primeira mutação é herdada, só precisa de um hit somático para desenvolver tumor.
+O câncer não surge do nada; ele precisa de três erros acumulados:
+1.  **Iniciação:** O DNA da célula sofre um dano irreversível (sol, cigarro, vírus). A célula fica "marcada".
+2.  **Promoção:** A célula marcada é estimulada a se dividir (inflamação crônica ou hormônios).
+3.  **Progressão:** A célula sofre mais mutações e ganha "superpoderes" de invasão e metástase.
 
 ---
 
-## Invasão e Metástase — Como o Câncer Viaja
+## 3. Os Genes Estrelas: Aceleradores e Freios
 
-A **metástase** é a causa de 90% das mortes por câncer. Para metastatizar, a célula cancerosa precisa: (1) desprender-se do tumor primário (perda de E-caderina), (2) invadir a matriz extracelular (metaloproteinases), (3) entrar em vasos (intravasação), (4) sobreviver na circulação, (5) sair em vaso no sítio distante (extravasação) e (6) colonizar o novo órgão.
-
-**Disseminação linfática:** carcinomas preferem disseminar pelos linfáticos. O primeiro gânglio acometido é o **linfonodo sentinela** — se negativo para células tumorais, os gânglios subsequentes provavelmente estão livres (base da técnica do linfonodo sentinela na cirurgia do câncer de mama e melanoma).
-
-**Disseminação hematogênica:** sarcomas preferem veia. Os órgãos mais comuns de metástase são: pulmão > fígado > osso > cérebro > adrenal. Mnemônico para tumores que metastatizam para osso: **"BLT Com Provolone"** = Bexiga, pulmão (Lung), Tireóide, Colorretal, Mieloma, Próstata, Rins (Kidney) — variações desse mnemônico existem.
+O câncer mexe em dois tipos de genes:
+- **Proto-oncogenes (Aceleradores):** Quando sofrem mutação (vão para **Oncogenes**), o acelerador fica "travado no fundo" e a célula não para de crescer.
+- **Genes Supressores de Tumor (Freios):** Como o **p53**. Eles deveriam parar a célula doente. No câncer, esse freio "falha", permitindo que a célula estragada continue viva.
 
 ---
 
-## Grau Histológico e Sistema TNM
+## 4. TNM: O Estadiamento (O CPF do Tumor)
 
-O **grau histológico** avalia a diferenciação das células tumorais: G1 (bem diferenciado, baixo grau, melhor prognóstico) ao G4 (anaplásico, alto grau, pior prognóstico).
+Para tratar o câncer, o médico precisa saber em que estágio a doença está usando a escala TNM:
+- **T (Tumor):** O tamanho do tumor original. T1 é pequeno; T4 é grande e invadiu órgãos vizinhos.
+- **N (Node/Linfonodo):** Se o câncer já chegou às "ínguas" (linfonodos) perto dele.
+- **M (Metástase):** Se o câncer já viajou para órgãos distantes como pulmão, fígado ou ossos. **M1** significa metástase presente (estágio avançado).
 
-O **estadiamento TNM** descreve a extensão anatômica da doença:
-- **T** (Tumor): tamanho e invasão local (T1–T4; Tis = carcinoma in situ).
-- **N** (Node): acometimento de linfonodos regionais (N0 = sem; N1–N3 = extensão crescente).
-- **M** (Metástase): metástase a distância (M0 = ausente; M1 = presente).
+---
 
-O estadiamento orienta o tratamento e prediz o prognóstico. Estádio I: T pequeno, N0, M0 — curável na maioria dos casos. Estádio IV: M1 — metástase presente → tratamento paliativo na maioria.
+## Ponte com a Clínica
 
-> **Dica de Prova:** carcinoma in situ (Tis) = células malignas que ainda não romperam a membrana basal. Ainda curável com exérese local. A Uninove usa esse conceito para cobrar a diferença entre carcinoma invasivo e não invasivo do colo uterino (NIC III vs. carcinoma invasivo).
+No consultório, a técnica do **Linfonodo Sentinela** é fundamental no câncer de mama. O cirurgião identifica o primeiro linfonodo que "drena" a mama. Se esse linfonodo estiver limpo de câncer, a chance de a doença ter se espalhado é mínima, e a paciente pode ser poupada de uma cirurgia agressiva de retirada de todos os gânglios da axila. Já o **Carcinoma In Situ** é a maior vitória da prevenção: as células são malignas, mas como ainda não romperam a "parede" (membrana basal), o risco de metástase é zero se retirado a tempo.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Benigno:** expansivo, encapsulado, bem diferenciado, sem metástase.
-- **Maligno:** invasivo, não encapsulado, anaplásico possível, metastatiza.
-- **Proto-oncogene:** mutação = ganho de função (dominante) → oncogene.
-- **Gene supressor:** two-hit necessário (recessivo); BRCA1/2, p53, Rb.
-- **Linfonodo sentinela:** primeiro dreno linfático do tumor — negativo = N0.
-- **Carcinoma in situ:** células malignas sem romper membrana basal = T0/Tis.
-- **Disseminação linfática:** carcinomas; hematogênica: sarcomas.
-- **TNM:** T = tumor local; N = linfonodos; M = metástase distante.
+- **Metástase**: O sinal inequívoco de malignidade; tumores benignos nunca metastatizam.
+- **p53**: Conhecido como o "Guardião do Genoma"; sua falta ou mutação está em 50% dos cânceres.
+- **Angiogênese**: Capacidade do tumor de criar seus próprios vasos sanguíneos para se alimentar.
+- **Linfonodo Sentinela**: O primeiro gânglio a ser colonizado por uma metástase linfática.
+- **Indiferenciação/Anaplasia**: Quanto mais "bagunçada" e menos parecida com o original a célula for, mais maligno é o tumor.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Neoplasias, foque nas definições. 
+**Benigno** = Encapsulado e Diferenciado. **Maligno** = Invasivo e Metástase. Se a questão fala de um gene que deveria ter parado o câncer mas falhou, o tema é **Gene Supressor (p53)**. Se fala de uma mutação que ativou o crescimento sem parar, é **Oncogene**.
 
-Benigno = -oma; maligno = -carcinoma (epitélio) ou -sarcoma (conjuntivo). Carcinogênese: iniciação (mutação) → promoção (proliferação) → progressão (invasão). Proto-oncogene: 1 mutação basta (dominante); supressor: two-hit (recessivo).
-
-Carcinoma in situ (Tis): maligno mas sem invasão — terapêutico vs. paliativo. Linfonodo sentinela: técnica para evitar esvaziamento ganglionar desnecessário. Metástase para osso: mama, próstata, pulmão, rim, tireóide.
-
-Estadiamento IV = M1: metástase à distância presente. E-caderina: perde-se para a célula poder se desprender e metastatizar.
+A Uninove adora o **TNM**. Lembre-se: M1 é sempre o pior cenário (metástase à distância). Estágio I é precoce; Estágio IV é disseminado. Outro ponto forte: Carcinomas (mama/pulmão) preferem os **Linfonodos** primeiro. Sarcomas (osso/músculo) preferem o **Sangue**. Por fim, saiba que o prefixo **Adeno-** significa glândula; assim, um Adenocarcinoma é um câncer de glândula (ex: Intestino).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Neoplasia benigna | Neoplasia maligna | Benigna: expansiva, encapsulada, diferenciada; maligna: infiltrativa, anaplásica, metastatiza |
-| Proto-oncogene mutado | Gene supressor mutado | Proto-oncogene: ganho de função, 1 alelo (dominante); supressor: perda de função, 2 alelos (two-hit) |
-| Carcinoma in situ | Carcinoma invasor | In situ: membrana basal íntegra; invasor: rompeu a membrana basal |
-| Disseminação linfática | Disseminação hematogênica | Linfática: carcinomas (pulmão, mama); hematogênica: sarcomas + carcinoma renal/tiróide |
-| Grau baixo (G1) | Grau alto (G3/G4) | G1: bem diferenciado, bom prognóstico; G3/4: anaplásico, pior prognóstico |
+| **Benigno** | **Maligno** | Tem **Cápsula** vs **Invade** tecidos vizinhos |
+| **Carcinoma** | **Sarcoma** | Origem **Epitelial** vs Origem **Conjuntiva** (Osso/Músculo) |
+| **In situ** | **Invasor** | Não rompeu a **Base** vs Já atravessou a barreira |
+| **Grau** | **Estágio** | Aparência na **Lupa** (G1-G4) vs Onde o tumor está (**TNM**) |
+| **Proto-oncogene** | **Gene Supressor** | Acelerador **LIGADO** vs Freio **QUEBRADO** |
 
 ### Frase-âncora para não esquecer
 
-> "O câncer não aparece do nada — levou décadas de iniciação, promoção e progressão; o estadiamento é a fotografia do momento em que o encontramos."
+> "O tumor benigno empurra, o maligno fura. O estadiamento olha o mapa da viagem; o grau olha o rosto do passageiro. Na dúvida, se tem metástase, a guerra é contra um câncer (maligno)."

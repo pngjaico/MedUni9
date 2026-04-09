@@ -1,108 +1,91 @@
 # MAD2 — Aula 17: Antibióticos — Inibidores de Síntese Proteica
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+Os inibidores de síntese proteica são os "sabotadores de máquinas" da bactéria. Na prova, os temas centrais são a divisão entre os que atacam a **Subunidade 30S** (Aminoglicosídeos e Tetraciclinas) e os que atacam a **Subunidade 50S** (Macrolídeos, Lincosamidas e Cloranfenicol), focando sempre nas interações e efeitos colaterais.
+
+Na prática, o clínico deve ter cuidado redobrado com o tempo de uso e com o perfil do paciente (idosos, crianças ou gestantes), pois o erro na escolha pode causar danos permanentes na audição, nos rins ou na formação dos dentes.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Classe relevante por espectro variado e toxicidades específicas. A banca cobra mecanismo ribossomal e contraindicações principais.
-
-Esse tema costuma ser cobrado em casos clínicos curtos com foco em mecanismo fisiopatológico, diferencial e conduta inicial.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A17-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de mecanismo de ação.
+- **O que mostrar:** A "Fábrica Bloqueada": Uma ilustração do ribossomo bacteriano. De um lado, o antibiótico travando a peça menor (30S) e de outro a peça maior (50S), impedindo que a "fita" de proteínas seja lida.
+- **Tipo sugerido:** Infográfico didático | Esquema molecular simplificado.
+- **Legenda (rascunho):** Alvos ribossomais dos inibidores da síntese proteica.
 
-## Conceito Central
+## 1. O Time da Subunidade 30S: Os "Guerreiros e as Manchadas"
 
-Inibidores de síntese proteica atuam em subunidades ribossomais bacterianas e reduzem crescimento ou viabilidade.
+- **Aminoglicosídeos (Gentamicina / Amicacina):** São extremamente potentes contra Gram-negativos hospitalares. Diferente da maioria deste grupo, eles são **Bactericidas** (matam a bactéria).
+    - **Cuidado:** São famosos pelos efeitos colaterais: **Nefrotoxicidade** (rim) e **Ototoxicidade** (surdez irreversível e vertigem).
+- **Tetraciclinas (Doxiciclina):** Excelentes para doenças atípicas (como Clamídia e Rickettsia).
+    - **Contraindicação:** **Gestantes e Crianças menores de 8 anos**, pois grudam no cálcio e deixam os **Dentes Pretos ou Amarelos** para sempre.
 
-## Eixo 1
+---
 
-Subunidade 30S e 50S: diferença de alvo e perfil de efeito.
+## 2. O Time da Subunidade 50S: Os Macrolídeos e CIA
 
-## Eixo 2
+- **Macrolídeos (Azitromicina / Claritromicina):** Muito usados em pneumonias comunitárias (pegam bactérias atípicas) e em substituição à penicilina em pacientes alérgicos.
+- **Lincosamidas (Clindamicina):** O antibiótico padrão para **Anaeróbios** acima do diafragma (abscessos de pulmão ou infecções de boca).
+    - **Perigo:** É a maior causa da diarreia por *Clostridioides difficile*.
+- **Cloranfenicol:** Um remédio antigo e potente, mas perigoso. Pode causar a **Síndrome do Bebê Cinzento** (em recém-nascidos) e anemia aplástica (destruição da medula).
 
-Ação bacteriostática versus bactericida conforme classe e contexto.
+---
 
-## Eixo 3
+## 3. Oxazolidinonas (Linezolida): A Reserva Estratégica
 
-Eventos adversos e interação medicamentosa orientam escolha segura.
+A Linezolida é um inibidor especial que age no início da formação do ribossomo.
+- **Uso:** É reservada para Gram-positivos multirresistentes, como o **VRE** (Enterococo resistente à vancomicina).
+- **Atenção:** Pode causar queda de plaquetas (plaquetopenia) se usada por mais de 14 dias.
 
-## Tabela de Integração para Prova
+---
 
-| Situação Clínica | Mecanismo Principal | Dica de Raciocínio |
-|------------------|---------------------|--------------------|
-| Pneumonia atípica | Alvo em síntese proteica | Cobertura de agentes intracelulares |
-| Uso com interação relevante | Alteração de concentração plasmática | Ajustar esquema |
-| Intolerância importante | Toxicidade de classe | Substituir por alternativa segura |
+## 4. Bacteriostáticos vs Bactericidas
 
-## Checklist de Raciocínio
+- **Bacteriostáticos (Macrolídeos, Tetraciclinas):** Eles não matam a bactéria na hora; eles apenas "travam" o crescimento dela para que o nosso sistema imune termine o serviço.
+- **Bactericidas (Aminoglicosídeos):** Matam a bactéria diretamente.
+- **Regra:** Em pacientes com a imunidade muito baixa (neutropênicos), prefira sempre antibióticos bactericidas.
 
-- Definir síndrome dominante antes de fechar diagnóstico final.
-- Relacionar sintoma principal ao mecanismo fisiopatológico central.
-- Usar exame laboratorial-chave para reduzir diagnósticos alternativos.
-- Identificar sinal de gravidade que muda urgência de conduta.
-- Diferenciar processo agudo de processo crônico no enunciado.
-- Verificar fator de risco epidemiológico e contexto do hospedeiro.
-- Encadear tratamento de estabilização e tratamento etiológico.
-
-## Casos de Fixação
-
-**Caso 1:** cenário clássico com sinais típicos da aula.  
-**Como pensar:** primeiro síndrome, depois mecanismo e por fim conduta inicial.
-
-**Caso 2:** diagnóstico diferencial próximo com apresentação parecida.  
-**Como pensar:** separar pelo achado que tem maior valor discriminativo.
-
-**Caso 3:** situação com risco de piora rápida.  
-**Como pensar:** reconhecer gravidade cedo e priorizar estabilização.
-
-## Pontos-Chave para Prova
-
-- Mecanismo fisiopatológico explica o quadro clínico.
-- Contexto epidemiológico muda probabilidade diagnóstica.
-- Sinal de gravidade redefine prioridade terapêutica.
-- Exame-chave vale mais que lista extensa de exames.
-- Conduta inicial segura precede refinamento etiológico.
+---
 
 ## Ponte com a Clínica
 
-A melhor escolha depende não só do agente provável, mas também do perfil de segurança e comorbidades do paciente.
+No ambulatório, a **Azitromicina** é frequentemente prescrita de forma errada para gripes virais. Além de criar resistência, os macrolídeos podem causar um prolongamento do intervalo QT no eletrocardiograma, aumentando o risco de arritmias fatais em pacientes que já têm problemas de coração. O médico consciente avalia os riscos cardíacos e renais antes de escolher um inibidor de síntese proteica "potente", priorizando a segurança do paciente.
 
-Na prática, esse raciocínio evita conduta automática e reduz erro de interpretação em cenários com sintomas inespecíficos.
+---
+
+## Pontos-Chave para Prova
+
+- **30S**: Alvo das Tetraciclinas e Aminoglicosídeos.
+- **50S**: Alvo dos Macrolídeos e Clindamicina.
+- **Ototoxicidade e Nefrotoxicidade**: Piores efeitos dos Aminoglicosídeos.
+- **Gestação e Infância**: Proibido o uso de Tetraciclinas (manchamento dentário).
+- **Clindamicina**: Droga de escolha para **Anaeróbios** e maior risco de colite pseudomembranosa.
+
+---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Síndrome dominante:** define direção da hipótese principal.
-- **Mecanismo-chave:** explica sinais e exames mais relevantes.
-- **Diferencial crítico:** separa alternativas muito parecidas.
-- **Marcador de gravidade:** muda urgência e nível de cuidado.
-- **Conduta inicial:** precisa ser segura e justificável.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Antibióticos Proteicos, foque nos efeitos colaterais. 
+Se a questão fala de um paciente que ficou surdo ou teve falência renal após usar antibiótico para infecção grave, a resposta é **Aminoglicosídeo**. Se fala de um adolescente com acne que não pode tomar remédio pois vai manchar o dente, é **Tetraciclina**. No tratamento da pneumonia comunitária, a estrela é a **Azitromicina**.
+
+A Uninove adora cobrar sobre a **Clindamicina**. Saiba que ela é ótima para Gram-positivos e Anaeróbios, mas se o paciente começar com diarreia explosiva com muco, você deve suspender e suspeitar de Colite Pseudomembranosa. Outro ponto forte: o **Cloranfenicol** atravessa muito bem a barreira do cérebro, mas é evitado pelo risco de destruir a medula óssea. Por fim, lembre-se: Linezolida é para o Enterococo que nada mais mata.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Processo agudo | Processo crônico | Agudo descompensa rápido; crônico evolui por adaptação |
-| Lesão funcional | Lesão estrutural | Funcional altera desempenho; estrutural altera anatomia |
-| Achado de triagem | Achado confirmatório | Triagem orienta; confirmatório define conduta |
-| Controle sintomático | Modificação de doença | Um alivia sintomas; outro muda evolução natural |
+| **Aminoglicosídeo** | **Macrolídeo** | **Bactericida** (30S) vs **Bacteriostático** (50S) |
+| **Clindamicina** | **Metronidazol** | Anaeróbios **Acima** do diafragma vs **Abaixo** (barriga) |
+| **Tetraciclina** | **Penicilina** | Riscos na **Infância/Dente** vs Risco de **Alergia** |
+| **Azitromicina** | **Ceftriaxona** | Pega bactérias **Atípicas** vs Pega bactérias comuns |
+| **Subunidade 30S** | **Subunidade 50S** | Alvo menor do ribossomo vs Alvo maior |
 
 ### Frase-âncora para não esquecer
-> "No antibiótico proteico, alvo bacteriano e risco do hospedeiro andam juntos."
+
+> "Aminoglicosídeos batem forte no 30S e no rim; Tetraciclinas mancham o dente até o fim. No 50S, o Macrolídeo é o rei da pneumonia, mas se a Clindamicina der diarreia, a tranquilidade vira agonia."

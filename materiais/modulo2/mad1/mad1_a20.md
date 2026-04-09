@@ -1,205 +1,82 @@
-﻿# Infecções por Herpesvírus
+# MAD1 — Aula 20: Infecções por Herpesvírus
 
-## Relevância Clínica e Acadêmica
+A família Herpesviridae tem uma característica marcante: a **Latência**. Uma vez infectado, o vírus permanece "dormindo" no seu corpo para sempre, podendo reativar quando a sua imunidade cai. Na prova, os temas centrais são as manifestações clínicas dos 8 tipos de herpesvírus e o tratamento com **Aciclovir** e **Ganciclovir**.
 
-A família Herpesviridae inclui 8 vírus humanos (HHV-1 a 8) com uma característica fundamental compartilhada: a **latência viral** — após a infecção primária, o vírus persiste indefinidamente no hospedeiro e pode reativar em situações de imunossupressão. Essa latência explica por que manifestações recorrentes ocorrem anos após a infecção inicial e por que são tão prevalentes em pacientes imunodeprimidos.
+Na prática, identificar o padrão de reativação (como o "Cobreiro") e saber quando usar antivirais potentes evita complicações graves como cegueira e encefalite.
 
-A Uninove cobra principalmente as manifestações clínicas de cada herpesvírus, as diferenças entre infecção primária e reativação, e os tratamentos antivirais (aciclovir, ganciclovir).
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A20-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Herpes-Zóster.
+- **O que mostrar:** Desenho de um dermátomo (ex: torácico) com as vesículas unilaterais, mostrando o vírus "viajando" do gânglio nervoso para a pele.
+- **Tipo sugerido:** Esquema didático.
+- **Legenda (rascunho):** Mecanismo de reativação do vírus Varicela-Zóster (Herpes-Zóster).
 
+## 1. Herpes Simplex (HSV-1 e HSV-2)
 
-
-
----
-
-
-
-## Herpes Simplex Vírus (HSV-1 e HSV-2)
-
-### Características
-- DNA dupla-fita; envolto; família Alphaherpesvirinae
-- **HSV-1:** preferencialmente orofacial; transmissão por contato com lesão/saliva
-- **HSV-2:** preferencialmente genital; transmissão sexual (mucosas genitais)
-- **Latência:** gânglios sensoriais (HSV-1: gânglio do trigêmeo; HSV-2: gânglios sacrais S2–S4)
-
-### Infecção por HSV-1
-
-| Manifestação | Características |
-|---|---|
-| Gengivoestomatite herpética | Infecção primária na criança; úlceras dolorosas orais + febre + sialorréia |
-| Herpes labial recorrente ("febre") | Reativação; vesículas no vermelhão dos lábios; autolimitada |
-| Encefalite herpética | Complicação grave; encefalite temporal necrosante; RMN: sinal hiperintenso no lobo temporal |
-| Ceratoconjuntivite | Úlcera em dendrito na córnea → cegueira se não tratada |
-| Panarício herpético | Infecção do dedo por inoculação direta |
-
-### Infecção por HSV-2
-
-| Manifestação | Características |
-|---|---|
-| Herpes genital primário | Vesículas dolorosas + úlceras genitais/perianais; febre, linfonodopatia |
-| Herpes genital recorrente | Crises menores, geralmente sem febre; trigger: estresse, sol, outro infecção |
-| Herpes neonatal | Grave: infecção por parto vaginal em mãe com herpes genital ativo → encefalopatia, sepse neonatal |
-| Meningite de Mollaret | Meningite asséptica recorrente benigna por HSV-2 |
-
-### Diagnóstico
-- **PCR do líquido vesicular ou LCR:** padrão ouro (encefalite)
-- Citodiagnóstico de Tzanck: células gigantes multinucleadas (não diferencia HSV1/2)
-- Sorologia: IgM (aguda); IgG (exposição passada)
-
-### Tratamento
-- Aciclovir (VO ou EV para grave): inibidor da DNA polimerase viral (necessita ativação pela timidino­quinase viral)
-- Encefalite: aciclovir EV 10–14 dias
-- Herpes genital recorrente: aciclovir ou valaciclovir em episódio ou supressivo
+- **HSV-1 (Oral):** Geralmente causa feridas nos lábios. A complicação mais grave é a **Encefalite Herpética** (ataca o lobo temporal do cérebro).
+- **HSV-2 (Genital):** Transmitido sexualmente, causa vesículas dolorosas que estouram e viram feridas.
+- **Diagnóstico:** O "Teste de Tzanck" (raspado da ferida) mostra células gigantes com muitos núcleos.
 
 ---
 
-## Varicela-Zóster (VZV / HHV-3)
+## 2. Varicela-Zóster (HHV-3)
 
-### Varicela
-- Infecção primária; altamente contagiosa (via aérea e contato direto com lesões)
-- Exantema vesicular generalizado pruriginoso em diversos estágios simultâneos (pápula → vesícula → crosta)
-- Complicações em adultos e imunocomprometidos: pneumonia varicelosa, encefalite, varicela hemorrágica
-- **Síndrome da varicela congênita:** infecção no 1º e 2º trimestre → cicatrizes cutâneas, hipoplasia de membros, malformações oculares
-
-### Herpes-Zóster (Cobreiro)
-- Reativação do VZV latente em gânglios da raiz dorsal
-- Dor neuropática + vesículas dermatomal unilaterais (dermátomo toracolombar mais comum)
-- Complicações: **neuralgia pós-herpética** (dor intensa > 90 dias), zóster oftálmico (ramo V1 do trigêmeo → cegueira), síndrome de Ramsay-Hunt (VZV no gânglio geniculado → paralisia facial + vesículas no conduto auditivo)
-
-### Tratamento
-- Varicela: aciclovir (casos graves, imunocomprometidos, adulto)
-- Zóster: valaciclovir ou aciclovir × 7 dias (iniciar < 72 h para máximo benefício)
-- Vacina: varicela (atenuada); Shingrix (HZ/su – zóster; adultos > 50 anos)
+- **Varicela (Catapora):** É a infecção primária. O corpo todo fica com "bolhinhas" em diferentes estágios (umas secando, outras nascendo).
+- **Herpes-Zóster (Cobreiro):** É a reativação. O vírus acorda em um nervo específico e causa dor intensa seguida de bolhas que seguem o caminho desse nervo (**unilateral** — não cruza o meio do corpo).
+- **Tratamento:** Aciclovir ou Valaciclovir. Deve ser iniciado em até 72h para evitar a dor crônica (Neuralgia Pós-Herpética).
 
 ---
 
-## Epstein-Barr Vírus (EBV / HHV-4)
+## 3. Os "Outros" Herpesvírus
 
-### Características
-- Tropismo para linfócitos B e células epiteliais orofaríngeas
-- Latência: linfócitos B de memória
-- 95% da população adulta é soropositiva
-
-### Mononucleose Infecciosa
-
-Tríade clássica: **febre + faringoamigdalite exsudativa + linfadenomegalia cervical posterior**
-
-- Esplenomegalia (risco de ruptura esplênica!) + hepatite leve
-- Heterófilos (anticorpos heterófilos – teste monospot) → atipicidade
-- Erupção cutânea se uso de ampicilina/amoxicilina → rash maculopapular difuso
-
-> **Dica Crítica:** Amoxicilina na mononucleose → rash em > 80% dos casos. Não é alergia — é uma interação com o EBV.
-
-### Neoplasias Associadas ao EBV
-- Linfoma de Burkitt (EBV + translocação c-myc → t(8;14))
-- Linfoma de Hodgkin (Reed-Sternberg+, EBV em ~50%)
-- Carcinoma nasofaríngeo (áreas endêmicas)
-- Linfoma do SNC em AIDS
-
----
-
-## Citomegalovírus (CMV / HHV-5)
-
-### Infecção Primária
-- Maioria assintomática em imunocompetente; pode causar mononucleose CMV (heterófilos negativos)
-
-### CMV na Gestação
-- Principal causa de malformação congênita viral nos países desenvolvidos
-- Síndrome do CMV congênito: surdez neurossensorial, coriorretinite, petéquias, hepatoesplenomegalia, calcificações periventrais, microcefalia
-
-### CMV no Imunossuprimido (transplante, AIDS CD4 < 50)
-- **Retinite por CMV:** "pizza de tomate" no fundo de olho → cegueira progressiva
-- Colite CMV: dor abdominal + diarreia sanguinolenta
-- Pneumonite CMV
-- Diagnóstico: PCR quantitativo CMV (carga viral); biópsia (inclusões "olho de coruja")
-
-### Tratamento
-- Ganciclovir (EV) ou Valganciclovir (VO) — inibe DNA polimerase viral
-- Foscarnet: alternativa para CMV resistente (nefrotóxico)
-
----
-
-## HHV-6 e HHV-7 — Roséola Infantum (Exantema Súbito)
-
-- Afeta crianças < 2 anos
-- Febre alta por 3–5 dias → **desaparece abruptamente** → exantema maculopapular róseo (evolução do exantema após queda da febre é característica)
-- Autolimitado; convulsão febril possível
-
----
-
-## HHV-8 — Sarcoma de Kaposi
-
-- Neoplasia vascular associada ao HHV-8
-- Lesões violáceas em pele, mucosas e vísceras
-- Principais grupos: AIDS, transplantados, mediterrâneos idosos
-
----
-
-## Comparativo Rápido dos Herpesvírus
-
-| Vírus | Doença Primária | Latência | Reativação | Tratamento |
-|---|---|---|---|---|
-| HSV-1 | Gengivoestomatite | Gânglio trigêmeo | Herpes labial, encefalite | Aciclovir |
-| HSV-2 | Herpes genital | Gânglios sacrais | Herpes genital recorrente | Aciclovir/valaciclovir |
-| VZV | Varicela | Gânglios raiz dorsal | Herpes-zóster | Valaciclovir/aciclovir |
-| EBV | Mononucleose infecciosa | Linfócito B | Linfomas em imunossuprimidos | Suporte; corticoide |
-| CMV | Assintomático / Mononucleose | Monócito, macrófago | Retinite, colite em AIDS | Ganciclovir |
-| HHV-6/7 | Roséola infantum | Linfócito T | Raramente | Suporte |
-| HHV-8 | Sarcoma de Kaposi | — | Kaposi em imunossuprimidos | TARV; quimioterapia |
-
----
-
-## Pontos-Chave
-
-- Herpesvírus = latência permanente + reativação em imunossupressão
-- HSV-1: gengivo­estomatite → herpes labial; HSV-2: herpes genital; ambos: aciclovir
-- Encefalite herpética: lobo temporal + PCR LCR + aciclovir EV urgente
-- VZV: varicela (primária) → zóster (reativação dermatomal); zóster oftálmico = emergência
-- EBV: mononucleose (febre + amígdalas + linfadenomegalia posterior); amoxicilina → rash
-- CMV em AIDS (CD4 < 50): retinite ("pizza") → cegueira → ganciclovir
+- **Epstein-Barr (EBV):** Causa a **Mononucleose** ("Doença do Beijo").
+  - **Sinal de Prova:** Se você der Amoxicilina para alguém com Mononucleose (achando que era bactéria), o paciente vai ter um **Rash/Exantema** (manchas vermelhas) no corpo todo.
+- **Citomegalovírus (CMV):** O grande perigo na AIDS (CD4 < 50). Causa **Retinite**, que no fundo de olho parece uma **"Pizza de Tomate"** (sangue e pus) e leva à cegueira.
+- **HHV-8:** Causa o **Sarcoma de Kaposi** (manchas roxas na pele), comum em pacientes com AIDS.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Paciente de 22 anos com febre há 5 dias, dor de garganta intensa, linfadenomegalia cervical posterior, esplenomegalia. Médico prescreveu amoxicilina e no dia seguinte apareceu exantema maculopapular difuso.
-- **Mononucleose infecciosa por EBV** + rash induzido por amoxicilina
-- Diagnóstico: monospot (anticorpos heterófilos) + IgM anti-VCA (capsídeo viral)
-- Conduta: suspender amoxicilina, suporte; repouso, evitar esportes (risco ruptura esplênica)
-- Não precisa de antiviral específico
+Um paciente idoso chega com uma dor em queimação muito forte nas costas, apenas do lado direito. Dois dias depois, aparecem pequenas bolhas vermelhas exatamente onde doía. Este é o quadro clássico de **Herpes-Zóster**. O médico deve prescrever antivirais e ficar atento: se as bolhas aparecerem na ponta do nariz (Sinal de Hutchinson), o vírus pode atingir o olho, exigindo avaliação urgente com oftalmologista.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Latência**: Todos os herpesvírus ficam escondidos nos nervos ou células de defesa.
+- **Aciclovir**: Inibe a reprodução do vírus; tratamento de escolha para HSV e Zóster.
+- **Ganciclovir**: "Primo" mais forte do aciclovir, usado especificamente para **CMV**.
+- **Mononucleose**: Febre + Dor de garganta + Gânglios no pescoço + Teste Monospot+.
+- **Sarcoma de Kaposi**: Manchas violáceas (roxas) ligadas ao HHV-8.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Latência:** permanente em todos herpesvírus; reativação em imunossupressão
-- **Encefalite herpética (HSV-1):** lobo temporal; aciclovir EV urgente
-- **Mononucleose (EBV):** febre + amígdalas + linfadenomegalia posterior; amoxicilina → rash
-- **Zóster:** dermatomal unilateral; neuralgia pós-herpética; zóster oftálmico = urgência ocular
-- **CMV retinite:** pizza de tomate no fundo de olho; CD4 < 50; ganciclovir
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Herpesvírus, foque no "mapa" dos vírus. 
+**Tipo 1 é boca, Tipo 2 é genital**. O **Tipo 3** é a dupla dinâmica: Catapora (criança) e Cobreiro (adulto/idoso). O segredo do Cobreiro (Zóster) é ser **unilateral** e dolorido. O **Tipo 4 (EBV)** é o beijo: causa mononucleose e você nunca deve dar Amoxicilina (senão o paciente fica todo vermelho).
+
+No paciente com AIDS, decore os perigos: se a visão sumir e virar "pizza", é o **Tipo 5 (CMV)**; se aparecerem manchas roxas, é o **Tipo 8 (Kaposi)**. O tratamento padrão é o **Aciclovir**, mas se o bicho for o CMV, você precisa do "reforço" chamado **Ganciclovir**. Por fim, se uma criança tiver febre altíssima que some e depois aparece uma coceira rosa, é o **Tipo 6 (Roséola)**.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Varicela | Herpes-zóster | Varicela = generalizada (primária); Zóster = dermatomal unilateral (reativação) |
-| Mononucleose EBV | Mononucleose CMV | EBV = heterófilos+; CMV = heterófilos− |
-| HSV-1 | HSV-2 | HSV-1 = preferencialmente oral, encefalite; HSV-2 = preferencialmente genital |
-| Varicela congênita | CMV congênito | Varicela = cicatrizes cutâneas + hipoplasia membros; CMV = surdez + calcificações periventriculares |
-| Aciclovir | Ganciclovir | Aciclovir = HSV/VZV; Ganciclovir = CMV (mais potente, mais tóxico) |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Varicela** | **Herpes-Zóster** | Generalizada vs **Seguindo um nervo (Unilateral)** |
+| **Aciclovir** | **Ganciclovir** | HSV/Zóster vs **CMV** |
+| **Mononucleose EBV** | **Faringite Bacteriana** | Gânglios posteriores vs Gânglios anteriores |
+| **Encefalite Herpética** | **Meningite Comum** | Afeta o cérebro (Temporal) vs Afeta as membranas |
+| **HSV-1** | **HSV-2** | Acima da cintura vs **Abaixo da cintura (regra geral)** |
 
 ### Frase-âncora para não esquecer
-> "Os herpesvírus nunca vão embora — se instalam e dormem pelos anos, acordando quando o sistema imune fraqueja: herpes labial na gripe, zóster na velhice, CMV retinite na AIDS. Aciclovir para HSV/VZV, ganciclovir para CMV."
+
+> "1 é boca, 2 é genital, 3 é o caminho do nervo sem igual; 4 beija, 5 cega na AIDS fatal; 8 é o roxo do Kaposi terminal."

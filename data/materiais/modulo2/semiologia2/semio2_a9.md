@@ -1,116 +1,91 @@
-﻿# SEMIO2 — Aula 9: Reunião Clínica — Casos Respiratórios
+# SEMIO2 — Aula 9: Reunião Clínica — Casos Respiratórios
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A reunião clínica respiratória exige rapidez no reconhecimento de quadros de insuficiência respiratória e precisão no diagnóstico diferencial. Na prova, os temas indispensáveis são a **Crise Respiratória (Asma/DPOC)**, o **Tromboembolismo Pulmonar (TEP)** e o **Pneumotórax Hipertensivo**.
+
+Na prática, a hierarquia de atendimento prioriza a estabilização da oxigenação e a ventilação antes do fechamento etiológico definitivo.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Na reunião de casos respiratórios, o objetivo é transformar achado semiológico em decisão clínica com noção de gravidade. A **Uninove** costuma cobrar essa competência com cenários de dispneia, tosse, dor pleurítica, hipoxemia e sinais de síndrome ventilatória.
-
-Na prática, discutir caso respiratório com método evita atrasos perigosos em paciente que pode deteriorar rapidamente.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação de casos.
+- **O que mostrar:** Tabela comparativa de síndromes agudas: Asma (Sibilos), Pneumonia (Febre/Macicez), TEP (Exame Normal/Súbito) e Pneumotórax (Hipertimpanismo).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Diagnóstico diferencial sindrômico em urgências respiratórias.
 
-## Estrutura de Raciocínio em Caso Respiratório
+## Principais Cenários Clínicos
 
-A apresentação deve priorizar padrão de dispneia, sinais de esforço respiratório, ausculta, percussão e dados de oxigenação. Em seguida, o aluno organiza hipótese sindrômica: obstrutiva, restritiva, pleural, infecciosa ou vascular, por exemplo.
+### 1. Crise de Asma / DPOC
+- **História:** Episódios prévios, gatilhos (infecção/alérgenos) ou tabagismo crônico.
+- **Achado Físico:** **Sibilos Difusos**, expiração prolongada e taquipneia.
+- **Sinal de Alerta:** **Silêncio Auscultatório** (ausência de sibilos em paciente com muito esforço); indica fadiga respiratória iminente.
 
-> **Dica de Prova:** em caso respiratório, gravidade clínica e estado de oxigenação vêm antes de refinamento etiológico.
+### 2. Pneumonia Complicada
+- **História:** Febre, tosse produtiva e dor pleurítica.
+- **Achado Físico:** **Macicez Focal**, **FTV Aumentado** e estertores.
+- **Sinal de Alerta:** Dessaturação e confusão mental (Sepsis/Hipo-oxigenação).
 
-> **Pegadinha:** focar em etiologia rara enquanto sinais de insuficiência respiratória aguda já exigem conduta imediata.
+### 3. Tromboembolismo Pulmonar (TEP)
+- **História:** Início **Súbito**, dor pleurítica e fatores de risco (viagem, cirurgia).
+- **Achado Físico:** **Pulmão Limpo** (ausculta normal) contrastando com **Dispneia Intensa**.
+- **Sinal de Alerta:** Taquicardia persistente e SVD (Sinal de sobrecarga de VD).
 
-## Da Discussão à Conduta Inicial Segura
+---
 
-Boa reunião clínica define prioridades: suporte ventilatório quando necessário, hipóteses mais prováveis e exames com finalidade objetiva. Em prova, o diferencial é mostrar capacidade de reconhecer urgência sem perder precisão de raciocínio.
+## Diferencial de Exames Iniciais
 
-O estudante precisa demonstrar que sabe equilibrar profundidade diagnóstica com rapidez de decisão.
+| Exame | Pergunta que responde | Quando solicitar |
+|---|---|---|
+| **Oximetria** | Precisa de oxigênio? | **Sempre** na triagem. |
+| **Gasometria** | Há retenção de CO2 ou acidose? | Paciente grave ou com DPOC. |
+| **Raio-X Tórax** | Há pneumonia ou pneumotórax? | Suspeita de doença estrutural. |
+| **Ultrassom (POCUS)** | Há líquido ou ar na pleura? | Beira-leito em instabilidade. |
 
+> **IMPORTANTE:** No **Pneumotórax Hipertensivo**, a conduta (descompressão) deve ser feita **Baseada na Clínica**, sem esperar o raio-X.
 
-
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Reunião Clínica — Casos Respiratórios
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Chega à reunião um caso de jovem com dor súbita no peito e falta de ar. O exame mostra **Hipertimpanismo** à direita e **Murmúrio Abolido**. O raciocínio imediato deve ser **Pneumotórax**. Se houver desvio de traqueia para a esquerda e queda da pressão arterial, o diagnóstico é **Pneumotórax Hipertensivo**, uma emergência médica que exige punção imediata no 2º espaço intercostal.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Caso respiratório:** sempre iniciar por avaliação de gravidade.
-- **Oxigenação e esforço respiratório:** dados prioritários.
-- **Síndrome clínica:** orienta hipótese inicial e exames.
-- **Conduta imediata:** pode preceder diagnóstico etiológico final.
-- **Discussão estruturada:** melhora segurança do paciente.
-- **Urgência respiratória:** exige resposta clínica rápida.
+- **Súbito + Pulmão Limpo**: Suspeite de TEP.
+- **Súbito + Hipertimpanismo**: Suspeite de Pneumotórax.
+- **Silêncio Auscultatório**: Crise de asma gravíssima (pré-parada).
+- **Gasometria no DPOC**: Fundamental para checar retenção de CO2 (Narcoma).
+- **FTV Aumentado**: Marcador de consolidação (pneumonia).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar os casos respiratórios, aprenda a ler as entrelinhas dos enunciados. 
+Se o paciente tem falta de ar mas o pulmão está "limpo" na ausculta, o sangue não está chegando no alvéolo: pense em **TEP**. 
+Se a falta de ar é súbita e o peito soa como um tambor (**Hipertimpanismo**), o ar escapou para a pleura: pense em **Pneumotórax**. 
+Se o paciente "chiou" e agora parou de chiar mas continua cansado, ele parou de mover o ar: é o **Silêncio Auscultatório** (Grave!).
 
-Dispneia grave: priorizar suporte e monitorização. Saturação e esforço: marcadores iniciais de risco. Síndrome respiratória: etapa antes do diagnóstico final.
-
-Ausculta e percussão: orientam direção diagnóstica. Exame complementar: pedir com propósito clínico. Conduta segura: primeiro estabilizar, depois aprofundar.
-
-Reunião clínica: exercício de priorização prática. Erro comum: ignorar sinais de deterioração.
+Nos exames, a **Gasometria** é a rainha para o DPOC (ver se ele está guardando gás carbônico). O **Raio-X** é para ver a "foto" da pneumonia ou do derrame. Lembre-se: se o paciente está morrendo (choque + desvio de traqueia), a agulha no peito vem ANTES do raio-X.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Gravidade respiratória | Etiologia definitiva | Gravidade decide ação imediata; etiologia refina tratamento |
-| Síndrome obstrutiva | Síndrome de consolidação | Padrões semiológicos e ausculta ajudam distinção |
-| Conduta de estabilização | Investigação detalhada | Estabilizar vem primeiro em paciente instável |
-| Discussão objetiva | Discussão teórica sem priorização | Objetiva resulta em plano clínico executável |
+| **TEP** | **Pneumonia** | **Início Súbito/Exame Normal** vs Início Gradual/Febre/Catarro |
+| **Pneumotórax** | **Derrame Pleural** | **Hipertimpanismo** vs **Macicez** |
+| **Asma** | **DPOC** | Jovem/Reversível vs **Idoso/Tabagista/Irreversível** |
+| **Sibilo** | **Estertor Fino** | Obstrução de Brônquio vs **Abertura de Alvéolo** |
+| **Emergência** | **Urgência** | Risco de morte em minutos vs Necessidade de agir em horas |
 
 ### Frase-âncora para não esquecer
 
-> "No respiratório, quem reconhece gravidade cedo ganha tempo de vida."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Reunião Clínica — Casos Respiratórios** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Súbito e limpo é TEP; Súbito e tambor é Pneumotórax; Sibilo que silencia é parada no tórax."

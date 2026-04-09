@@ -1,116 +1,102 @@
-﻿# BMF2 — Aula 1: Potencial de Ação Cardíaco e Sistema de Condução
+# BMF2 — Aula 1: Potencial de Ação Cardíaco e Sistema de Condução
 
-**Disciplina:** Bases Morfofuncionais 2
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+**Disciplina:** Bases Morfofuncionais 2  
+**Módulo:** 2 | **Tempo de estudo sugerido:** 25-35 min
 
 ---
 
 ## Relevância Clínica e Acadêmica
 
-Essa aula é central porque conecta bioeletricidade à função de bomba do coração. A **Uninove** costuma cobrar como o **potencial de ação** em células marcapasso e miócitos contráteis explica ritmo, condução e susceptibilidade a arritmias.
+O entendimento da **eletricidade cardíaca** transcende a curiosidade teórica; ele é o alicerce para a interpretação de arritmias, bloqueios e a própria mecânica da bomba. Nesta aula, exploramos como o comportamento microscópico dos **canais iônicos** dita o ritmo macroscópico que observamos no **eletrocardiograma (ECG)**.
 
-Na prática, entender condução cardíaca ajuda a interpretar bradicardia, taquiarritmia, bloqueios e alterações no **ECG** com muito mais lógica.
+Para a Uninove, o domínio deste tema exige a compreensão de mecanismos fundamentais: por que o **atraso no Nó AV** é vital para o enchimento ventricular e como o **Platô Ventricular** blinda o coração contra a **tetania**. O raciocínio clínico dependerá diretamente da sua capacidade de ligar essas fases moleculares às ondas do ECG.
 
+---
 
+## Arquitetura Elétrica e Propagação do Impulso
 
+O impulso elétrico fisiológico é gerado no **Nó Sinoatrial (SA)**, o marcapasso natural devido ao seu elevado **automatismo**. A propagação segue uma hierarquia funcional rígida, atravessando as **Vias Internodais** para ativar os átrios e convergindo para o **Nó Atrioventricular (AV)**. É neste ponto que ocorre o célebre **atraso fisiológico**: o impulso é freado para garantir que a **sístole atrial** complete o enchimento dos ventrículos antes do disparo ventricular.
 
-### Figura sugerida
+Após vencer o Nó AV, a eletricidade ganha velocidade através do **Feixe de His** e seus ramos, culminando na **Rede de Purkinje**. Esta rede é responsável pelo disparo quase simultâneo dos ventrículos, garantindo uma contração coordenada e eficiente.
 
-**Figura-ID:** `BMF2-A1-F01`
+### Velocidade de Condução e Impacto Funcional
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+| Estrutura | Velocidade | Papel Fisiológico | Diferencial p/ Prova |
+|-----------|------------|-------------------|----------------------|
+| **Nó SA** | Baixa | Gerar o ritmo basal | Marcapasso primário |
+| **Nó AV** | **Lenta** | **Frear o impulso** | Permite enchimento final |
+| **Purkinje** | **Muito Alta** | Sincronia ventricular | Condução mais rápida |
 
-## Do Nó Sinusal ao Ventrículo: a Corrente que Organiza o Ritmo
+> **Dica de Prova:** Lembre-se do contraste extremo: a condução **mais lenta** ocorre no **Nó AV**, enquanto a **mais rápida** de todo o sistema é na **Rede de Purkinje**.
 
-O coração gera e conduz impulsos elétricos em sequência: **nó sinoatrial**, vias atriais, **nó atrioventricular**, feixe de His e rede de Purkinje. Essa arquitetura garante ativação coordenada de átrios e ventrículos. O nó AV introduz atraso fisiológico importante para enchimento ventricular adequado.
+---
 
-> **Dica de Prova:** atraso no nó AV é funcionalmente útil; sem ele, a sincronia mecânica piora.
+## Potencial de Ação: Resposta Lenta vs. Rápida
 
-> **Pegadinha:** confundir automatismo do nó sinusal com condução rápida. Quem dispara primeiro não é quem conduz mais rápido.
+O coração apresenta dois padrões eletrofisiológicos distintos para funções diferentes. As **células marcapasso** (Nó SA/AV) possuem a chamada **Resposta Lenta**, caracterizada por um potencial de repouso instável e pela **despolarização espontânea**. Já as células de trabalho (miócitos) e o sistema de condução distal possuem a **Resposta Rápida**, com um potencial de repouso estável e fases bem delineadas.
 
-## Potencial de Ação em Células Marcapasso e Contráteis
+### O Ciclo do Miócito Ventricular (Resposta Rápida)
 
-Células marcapasso têm despolarização espontânea diastólica, enquanto miócitos contráteis exibem fase de platô prolongada por entrada de cálcio. Essa diferença fisiológica explica refratariedade cardíaca, frequência de disparo e resposta a fármacos antiarrítmicos.
+A despolarização inicia-se na **Fase 0** com a abertura massiva de **canais de Na+ rápidos**, elevando o potencial de **-90 mV** para níveis positivos. Após uma breve repolarização inicial (**Fase 1**), entramos na **Fase 2 ou Platô**. Este é o momento mais crítico: o equilíbrio entre a entrada de **Cálcio (Ca2+ tipo L)** e a saída de Potássio mantém a célula despolarizada por mais tempo.
 
-Em prova, o diferencial é ligar canal iônico ao efeito clínico, em vez de decorar fases isoladas.
+O **Platô** é essencial pois prolonga o **período refratário**, impedindo que o coração sofra **tetania** (contrações somadas). O ciclo encerra-se na **Fase 3**, com o fechamento do cálcio e a saída vigorosa de **K+**, retornando a célula ao repouso na **Fase 4**.
 
+### O Ciclo do Marcapasso (Resposta Lenta)
 
+Diferente do miócito, o marcapasso não usa sódio para despolarizar. Sua **Fase 4** é uma rampa inclinada gerada pela **Corrente Funny (If)**, que permite a entrada lenta de íons até atingir o limiar. A despolarização (**Fase 0**) depende exclusivamente da entrada de **Cálcio**. Esta inclinação da Fase 4 dita a **Frequência Cardíaca**: quanto mais inclinada, mais rápido o coração bate.
 
+---
 
-## Ponte com a Clínica
+## Acoplamento Excitação-Contração
 
-**Tema:** Potencial de Ação Cardíaco e Sistema de Condução
+A transformação do sinal elétrico em força mecânica depende da **Liberação de Cálcio induzida por Cálcio**. Durante o platô, o Ca2+ que entra pelos canais tipo L atua como um gatilho para os **receptores de rianodina (RyR2)** no retículo sarcoplasmático. Isso libera um estoque massivo de cálcio no citosol, permitindo que a **actina e miosina** deslizem uma sobre a outra.
 
-No **ambulatório** e no estágio, você verá pacientes com **FC**, **PA**, **edema** e queixas respiratórias — tudo ligado ao que esta aula cobre. Treine explicar **mecanismo** (por que o sinal aparece) e não só o nome do conceito.
+Para o relaxamento ocorrer, o cálcio deve ser removido com rapidez. A principal via é a bomba **SERCA**, que recapta o íon para o retículo, auxiliada pelo **trocador Na+/Ca2+ (NCX)** que o expulsa para o meio extracelular.
 
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+---
+
+## Eletrocardiograma (ECG) e Correlação Clínica
+
+O **ECG** traduz esses eventos moleculares em ondas visíveis. A **Onda P** representa a despolarização atrial, enquanto o **Intervalo PR** é o espelho da saúde do **Nó AV**. O **Complexo QRS** sinaliza a despolarização ventricular rápida, e a **Onda T** marca a reestruturação elétrica (repolarização).
+
+### Alterações Típicas e Pistas Clínicas
+
+| Achado no ECG | Significado Fisiológico | Suspeita Clínica |
+|---------------|-------------------------|------------------|
+| **PR > 200ms** | Atraso excessivo no Nó AV | Bloqueio de 1º Grau |
+| **QRS > 120ms** | Condução lenta no ventrículo | Bloqueio de Ramo |
+| **QT Longo** | Platô/Repolarização lenta | Risco de arritmia fatal |
+
+> **Caso Clínico:** Um paciente com **intervalo PR prolongado** (ex: 280ms) está demonstrando que seu "freio nodal" está excessivamente forte. Isso pode ser efeito de medicações **cronotrópicas negativas** (betabloqueadores) ou degeneração do sistema de condução.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Sistema de condução:** organiza ativação elétrica sequencial do coração.
-- **Nó SA:** principal marcapasso fisiológico.
-- **Nó AV:** promove atraso útil para enchimento ventricular.
-- **Purkinje:** alta velocidade de condução intraventricular.
-- **Marcapasso vs miócito:** potenciais de ação com perfis distintos.
-- **Platô ventricular:** prolonga refratariedade e protege contra tetania.
+*   **Automatismo Primário:** Localizado no Nó SA; depende da corrente **Funny (If)** na fase 4.
+*   **Atraso Fisiológico:** Ocorre no Nó AV para garantir a eficiência do enchimento ventricular.
+*   **Prevenção de Tetania:** O **Platô (Cálcio)** garante que o coração relaxe antes de uma nova contração.
+*   **ECG de Condução:** PR monitora o Nó AV; QRS monitora o sistema His-Purkinje.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
-
 ### Síntese para a prova
 
+Na prova, lembre-se que o coração é um circuito hierárquico onde o **Nó SA** comanda o ritmo e o **Nó AV** atua como um freio estratégico. O segredo do automatismo é a **Corrente Funny (If)**, que gera a rampa de despolarização espontânea na Fase 4. Se a questão mencionar bloqueio de condução com **PR longo**, o problema é invariavelmente no **Nó AV**.
 
-Nó sinoatrial: origem fisiológica do ritmo cardíaco. Nó AV: atraso elétrico funcional obrigatório. His-Purkinje: condução rápida aos ventrículos.
-
-Célula marcapasso: despolarização espontânea progressiva. Miócito contrátil: fase de platô dependente de cálcio. Refratariedade cardíaca: evita contração sustentada inadequada.
-
-Condução coordenada: garante eficiência mecânica. Arritmia: pode surgir por alteração de automatismo ou condução.
+No miócito contrátil, o diferencial é a **Fase de Platô**. Mantida pela entrada de **Cálcio**, ela prolonga o período refratário e blinda o miocárdio contra a **tetania**, permitindo que o coração mantenha sua função de bomba rítmica. A condução é lenta onde precisa de tempo (Nó AV) e rápida onde precisa de sincronia (**Rede de Purkinje**).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Nó SA | Nó AV | SA inicia ritmo; AV atrasa condução para sincronizar enchimento |
-| Célula marcapasso | Miócito ventricular | Marcapasso despolariza espontaneamente; miócito tem platô prolongado |
-| Automatismo | Velocidade de condução | Automatismo é geração do impulso; condução é transmissão |
-| Condução fisiológica | Bloqueio de condução | Bloqueio interrompe/retarda transmissão do impulso |
+| **Nó SA** | **Nó AV** | **Inicia** o ritmo vs **Freia** (atraso) o impulso |
+| **Fase 0 (Miócito)** | **Fase 0 (Nodal)** | Canal de **Sódio** vs Canal de **Cálcio** |
+| **Purkinje** | **Nó AV** | Condução **mais rápida** vs Condução **mais lenta** |
+| **Corrente If** | **Corrente ICa-L** | Gera o **Automatismo** vs Gera o **Platô** |
 
 ### Frase-âncora para não esquecer
 
-> "No coração, quem dispara primeiro não é quem conduz mais rápido."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Potencial de Ação Cardíaco e Sistema de Condução** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Fisiologia aplicada ao mecanismo descrito na aula. |
-| Pegadinha / contraste | Diferença entre automatismo, condução e contratilidade quando couber. |
-| Por que importa na prática | Como isso muda FC, PA ou sintoma na prática. |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Guyton AC, Hall JE. *Tratado de Fisiologia Médica*. Elsevier.
-- Ganong WF. *Fisiologia Médica*. AMGH/McGraw-Hill.
-- Ross MH, Pawlina W. *Histologia: texto e atlas*. Elsevier.
+> "O ritmo nasce no **SA**, descansa no **AV** e corre em **Purkinje** para ejetar com força."

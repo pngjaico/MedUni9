@@ -1,120 +1,100 @@
 # FP3 — Aula 2: Distúrbios Hemodinâmicos
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O sangue deve fluir livremente para manter a vida. Quando o fluxo para, vaza ou coagula onde não devia, surgem os distúrbios hemodinâmicos. Na prova, os temas centrais são a **Tríade de Virchow** (causas da trombose), os tipos de **Choque** (como diferenciar pele fria vs pele quente) e a **Lei de Starling** aplicada aos edemas (inchaços).
+
+Na prática, o médico deve saber que uma falta de ar súbita após uma cirurgia ortopédica pode ser um **TEP** (êmbolo vindo da perna) e que a hidratação de um paciente em choque depende totalmente de entender se o problema é falta de volume ou falha do coração.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Os distúrbios hemodinâmicos — hiperemia, congestão, edema, hemorragia, trombose, embolia e choque — são denominadores comuns da patologia. Cada grande doença tem, em algum ponto, um distúrbio hemodinâmico como peça-chave. A **Uninove** cobra especialmente a fisiopatologia do edema (lei de Starling), a diferença entre trombo e êmbolo, e os tipos de choque. Errar choque distributivo versus obstrutivo em questão objetiva é frequente por falta de memorização do mecanismo.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de tipos de choque.
+- **O que mostrar:** O "Painel do Choque": Quatro ícones comparativos. O **Hipovolêmico** (balde vazio), o **Cardiogênico** (bomba quebrada), o **Obstrutivo** (cano entupido) e o **Distributivo** (mangueira frouxa/dilatada). Destacar as cores: azul (pele fria) para os três primeiros e vermelho (pele quente) para o distributivo inicial.
+- **Tipo sugerido:** Infográfico didático | Esquema fisiopatológico.
+- **Legenda (rascunho):** Diferenciação hemodinâmica e clínica dos estados de choque.
 
+## 1. Hiperemia vs Congestão
 
-
-
----
-
-## Hiperemia, Congestão e Edema
-
-**Hiperemia** é o aumento do volume de sangue em um tecido. **Ativa** (arteriolar) ocorre no exercício, inflamação aguda — o tecido fica vermelho e quente. **Passiva** (= congestão) ocorre por obstrução do retorno venoso — o tecido fica azulado (cianótico, pelo acúmulo de hemoglobina desoxigenada) e frio. A congestão hepática crônica na insuficiência cardíaca direita produz o padrão histológico chamado "fígado em noz-moscada" (áreas centrais escuras de congestão alternando com zonas claras de células normais).
-
-O **edema** é o acúmulo de líquido nos espaços extravasculares, explicado pela lei de Starling modificada. Quatro mecanismos causam edema:
-
-1. **Aumento da pressão hidrostática capilar**: insuficiência cardíaca congestiva (ICC), cirrose com hipertensão portal → edema maleolar nos dois lados, ascite.
-2. **Redução da pressão oncótica plasmática** (hipoalbuminemia): síndrome nefrótica, cirrose, desnutrição → edema generalizado (anasarca), ascite.
-3. **Obstrução linfática**: linfedema pós-mastectomia, filariose (elefantíase) → edema localizado e duro.
-4. **Aumento da permeabilidade capilar**: inflamação aguda, queimaduras, sepse → edema localizado ou difuso.
-
-> **Pegadinha:** edema de ICC tem pressão oncótica normal; edema nefrótico tem hipoalbuminemia. Ambos são generalizados mas os mecanismos são opostos. Na prova: ICC = fração de ejeção baixa; síndrome nefrótica = proteinúria + lipidúria.
+Ambos são tipos de aumento de sangue no tecido, mas com causas opostas:
+- **Hiperemia (Ativa):** É o sangue "chegando" demais. Ocorre no exercício ou na inflamação. O tecido fica **Vermelho e Quente** (Eritema).
+- **Congestão (Passiva):** É o sangue "não conseguindo sair". Ocorre na insuficiência cardíaca ou obstrução venosa. O tecido fica **Azulado e Frio** (Cianose). No fígado, a congestão crônica gera o clássico aspecto de **"Fígado em Noz-Moscada"**.
 
 ---
 
-## Trombose — Formação do Coágulo In Vivo
+## 2. Edema: Por que o líquido vaza?
 
-A **tríade de Virchow** descreve os três fatores que predispõem à trombose: **lesão endotelial** (aterosclerose, cateter, cirurgia), **estase sanguínea** (fibrilação atrial, imobilidade, varizes), **hipercoagulabilidade** (trombofilia hereditária, neoplasia, gravidez, anticoncepcional oral).
-
-O **trombo arterial** forma-se em artérias com fluxo rápido, é branco (rico em plaquetas e fibrina), e causa isquemia distal (IAM, AVC isquêmico). O **trombo venoso** forma-se em veias com fluxo lento, é vermelho (rico em hemácias), e as complicações mais importantes são a trombose venosa profunda (TVP) e a tromboembolia pulmonar (TEP).
-
-> **Dica de Prova:** o D-dímero é o produto de degradação da fibrina — elevado em trombose ativa. Valor normal tem alto valor preditivo negativo para TEP (≤ 500 ng/mL exclui TEP com boa sensibilidade). Valor elevado não confirma trombose (baixa especificidade).
-
----
-
-## Embolia — O Coágulo que Migra
-
-Êmbolo é qualquer material sólido, líquido ou gasoso que se desloca pelo sangue e obstrui um vaso distante do sítio de origem. Os tipos mais cobrados:
-
-**Tromboembolia pulmonar (TEP):** trombo da circulação venosa profunda (membros inferiores, pelve) migra para as artérias pulmonares. Manifestação: dispneia súbita, taquicardia, dor pleurítica, hipóxia, síncope. O TEP maciço obstrui > 50% da vasculatura pulmonar → cor pulmonale agudo com choque obstrutivo.
-
-**Embolia gordurosa:** após fraturas de ossos longos ou cirurgia ortopédica — gotículas de gordura da medula óssea entram na circulação. Tríade: hipóxia + confusão mental + petéquias (3–7 dias após trauma).
-
-**Embolia gasosa:** ar entra pela circulação venosa (cateter de linha central, laparoscopia, parto). Volume > 100 mL de ar na circulação venosa pode ser fatal.
-
-**Embolia de líquido amniótico:** durante parto — líquido amniótico entra na circulação materna. Emergência: coagulação intravascular disseminada (CIVD), choque e insuficiência respiratória aguda.
+O edema (inchaço) segue a **Lei de Starling**. O líquido sai do vaso por dois motivos principais:
+- **Aumento da Pressão Hidrostática:** O sangue "empurra" a parede do vaso com força. Causa clássica: **Insuficiência Cardíaca (ICC)**.
+- **Redução da Pressão Oncótica:** O sangue perde as proteínas (Albumina) que seguram a água dentro do vaso. Causas: **Síndrome Nefrótica** (perda de proteína na urina), Desnutrição ou Cirrose.
+- **Diferencial:** Edema de ICC melhora com diurético; edema de rim melhora tratando a perda de proteína.
 
 ---
 
-## Tipos de Choque — Mecanismo e Diferencial
+## 3. Trombose e a Tríade de Virchow
 
-O **choque** é a perfusão tecidual inadequada — qualquer órgão pode falhar. Os tipos são definidos pelo mecanismo:
+Para um trombo (coágulo) se formar dentro de um vaso vivo, precisamos de pelo menos um dos três fatores de Virchow:
+1.  **Lesão Endotelial:** O "asfalto" do vaso está quebrado (ex: fumo, hipertensão, cateter).
+2.  **Estase (Fluxo Lento):** O sangue fica parado (ex: paciente acamado, varizes, viagens longas).
+3.  **Hipercoagulabilidade:** O sangue está "muito grosso" (ex: câncer, anticoncepcional, gravidez).
 
-**Hipovolêmico:** perda de volume (hemorragia, queimaduras, diarreia grave) → débito cardíaco cai → pressão cai → vasoconstrição compensatória (pele fria, pálida). É o mais comum.
+---
 
-**Cardiogênico:** falência da bomba (IAM extenso, miocardite, arritmias) → débito cardíaco cai apesar do volume normal → pele fria, JVD (jugular distendida), crepitações pulmonares.
+## 4. Embolia: O Coágulo Viajante
 
-**Distributivo:** vasodilatação periférica maciça (pele quente, vasos dilatados). Inclui: **séptico** (mediadores inflamatórios bacterianos), **anafilático** (IgE/histamina), **neurogênico** (lesão medular — perda do tônus simpático).
+O **Êmbolo** é o trombo que se soltou e viajou.
+- **TEP (Tromboembolia Pulmonar):** Geralmente nasce de uma **TVP** (Trombose Venosa Profunda) nas pernas e para no pulmão. Causa dor no peito e falta de ar súbita.
+- **Embolia Gordurosa:** Ocorre após **Fraturas de Ossos Longos** (fêmur). A gordura da medula óssea cai no sangue e ataca o pulmão e o cérebro (causa manchas vermelhas na pele - petéquias).
 
-**Obstrutivo:** obstrução mecânica ao débito cardíaco — TEP maciço, tamponamento cardíaco, pneumotórax hipertensivo.
+---
 
-> **Dica de Prova:** choque séptico é distributivo: warm shock (fase inicial quente, vasodilatação, débito alta) evoluindo para cold shock (falência miocárdica e colapso). A Uninove frequentemente cobrar qual tipo é de pele fria versus pele quente: hipovolêmico e cardiogênico = fria; distributivo inicial = quente.
+## 5. Choque: Falência da Perfusão
+
+Choque é quando o oxigênio não chega às células.
+- **Choque Hipovolêmico:** Falta sangue/líquido (sangramento ou desidratação). **Pele Fria**.
+- **Choque Cardiogênico:** O coração não tem força (Infarto). **Pele Fria**.
+- **Choque Distributivo (Sépse / Anafilaxia):** Os vasos dilatam demais ("vazamento generalizado"). No início, a **Pele fica Quente**.
+
+---
+
+## Ponte com a Clínica
+
+No hospital, a prevenção da trombose é sagrada. Todo paciente internado deve usar meias de compressão ou doses baixas de **Heparina** para evitar que a "paradeira" do sangue (estase da tríade de Virchow) gere um coágulo nas pernas. Se o paciente apresentar inchaço em apenas uma perna com dor na panturrilha (Sinal de Homans), o médico deve suspeitar de TVP imediatamente para evitar que esse trombo suba e se torne um TEP fatal.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Tríade de Virchow:** lesão endotelial + estase + hipercoagulabilidade.
-- **Trombo arterial:** branco, plaquetário, causa isquemia (IAM, AVC).
-- **Trombo venoso:** vermelho, eritrocitário, causa TEP.
-- **Edema por hipoalbuminemia:** síndrome nefrótica, cirrose, desnutrição.
-- **TEP:** dispneia + taquicardia + D-dímero elevado → confirmação por angioTC.
-- **Embolia gordurosa:** fratura de osso longo → hipóxia + confusão + petéquias.
-- **Choque distributivo:** pele quente, vasos dilatados (séptico, anafilático).
-- **Choque hipovolêmico:** perda de volume → pele fria e pálida.
+- **Tríade de Virchow**: Lesão, Estase e Hipercoagulabilidade; os pilares da trombose.
+- **Pressão Oncótica**: Mantida pela **Albumina**; sua queda gera edema generalizado (Anasarca).
+- **Embolia Gordurosa**: Tríade clássica: Trauma ósseo + Alteração Respiratória + Petéquias (manchas).
+- **Choque Séptico**: Principal exemplo de choque distributivo; marcado por vasodilatação severa.
+- **D-Dímero**: Exame de sangue usado para descartar trombose; se vier baixo, a chance de ter trombo é quase zero.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Hemodinâmica, foque na tríade de Virchow e nos tipos de choque. 
+**Trombo** = Lesão + Parada do sangue + Sangue grosso. **Pele Quente** no choque? Pense em **Sepsis** (Distributivo). **Pele Fria** e falta de ar súbita após cirurgia? Pense em **TEP**. Se o paciente tem inchaço nos pés e o coração é grande, a causa do edema é a **Pressão Hidrostática** aumentada.
 
-Tríade de Virchow: 3 fatores de trombose — lesão + estase + hipercoagulabilidade. Trombo arterial vs. venoso: arterial = branco/plaquetário; venoso = vermelho/eritrocitário. TEP: trombo venoso que migra → artéria pulmonar → dispneia súbita.
-
-D-dímero normal: exclui TEP (alto VPN); elevado não confirma (baixa especificidade). Embolia gordurosa: fratura + hipóxia + confusão + petéquias (3–7 dias depois). Choque hipovolêmico: perda de volume → pele fria, taquicardia, oligúria.
-
-Choque distributivo: vasodilatação → pele quente (início séptico). Edema hemodinâmico: ICC = pressão hidrostática alta; nefrótico = oncótica baixa.
+A Uninove adora cobrar o diferencial de **Embolia**. Se houver fratura de osso longo na história, procure por "gordurosa" nas alternativas. Outro ponto forte: o **Infarto do Miocárdio** causa choque **Cardiogênico** (pressão cai porque a bomba falhou). Por fim, lembre-se: a Síndrome Nefrótica causa edema porque a pressão oncótica (proteína) caiu, não porque o coração parou.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Choque hipovolêmico | Choque distributivo | Hipovolêmico: pele fria, veias colabadas; distributivo: pele quente (inicial), vasos dilatados |
-| Choque cardiogênico | Choque obstrutivo | Cardiogênico: bomba falha + crepitações; obstrutivo: TEP/tamponamento comprime bomba |
-| Trombo arterial | Trombo venoso | Arterial: plaquetário, branco, isquemia; venoso: eritrocitário, vermelho, TEP |
-| Edema nefrótico | Edema cardíaco | Nefrótico: hipoalbuminemia; cardíaco: pressão hidrostática aumentada |
-| Hiperemia ativa | Congestão (hiperemia passiva) | Ativa: arteriolar, vermelho e quente; congestão: venosa, azulada e fria |
+| **Trombo** | **Êmbolo** | Está **Preso** na parede vs Está **Viajando** no sangue |
+| **Choque Séptico** | **Choque Hipovolêmico** | **Pele Quente** (vasodilatação) vs **Pele Fria** (perda de sangue) |
+| **Hiperemia** | **Congestão** | Arterial (Vermelho/**Quente**) vs Venosa (Azul/**Frio**) |
+| **Transudato** | **Exsudato** | Líquido "limpo" (Mecânico) vs Líquido com proteína/pus (**Inflamação**) |
+| **Trombo Arterial** | **Trombo Venoso** | Branco (Plaqueta) / Mata o dedo vs Vermelho (Fibrina) / Mata o pulmão |
 
 ### Frase-âncora para não esquecer
 
-> "Virchow tem três chaves para trombo: endotélio lesado, fluxo parado, sangue engrossado — falta uma chave e o coágulo não forma."
+> "No choque, se a mão está quente, o vaso está aberto (distributivo). Se a mão está fria, o tanque está vazio (hipo) ou a bomba parou (cardio). Starling explica o edema: ou a pressão empurra o líquido pra fora, ou falta proteína pra segurar ele dentro."

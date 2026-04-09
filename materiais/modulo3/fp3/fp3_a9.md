@@ -1,115 +1,96 @@
 # FP3 — Aula 9: Farmacoterapia Antineoplásica
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+A quimioterapia é a "bomba atômica" da medicina contra o câncer. Na prova, os temas centrais são os efeitos colaterais universais (devido ao ataque a células de crescimento rápido), as toxicidades específicas de drogas famosas como a **Cisplatina** (rins) e **Doxorrubicina** (coração), e o papel dos antídotos como o **Mesna** e a **Leucovorina**.
+
+Na prática, o clínico deve saber que uma febre em um paciente fazendo quimioterapia é uma emergência absoluta (**Neutropenia Febril**), pois sem glóbulos brancos para defender o corpo, uma infecção simples pode matar em poucas horas.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A farmacoterapia do câncer é um campo em rápida evolução, mas a **Uninove** foca nos mecanismos clássicos e nos principais efeitos adversos. Questões frequentes: por que os antineoplásicos causam mielossupressão e alopecia (tecidos de alta renovação), diferença entre agentes alquilantes vs. antimetabólitos, e o mecanismo dos agentes mais modernos (anticorpos monoclonais, inibidores de tirosina quinase). Também é cobrada a toxicidade específica de cada classe.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A9-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de efeitos colaterais universais.
+- **O que mostrar:** O "Alvo e o Dano": Uma célula cancerosa sendo destruída, mas ao lado, ícones das células saudáveis que também sofrem: o **Folículo Capilar** (alopecia), a **Medula Óssea** (anemia/leucopenia) e a **Mucosa da Boca** (mucosite/feridas).
+- **Tipo sugerido:** Infográfico didático | Esquema fisiopatológico.
+- **Legenda (rascunho):** Por que a quimioterapia clássica causa queda de cabelo e baixa imunidade.
 
+## 1. O Problema da Quimioterapia Clássica
 
-
-
----
-
-## Por Que o Câncer é Difícil de Tratar
-
-Os quimioterápicos clássicos atuam em **células que se dividem rapidamente** — o que inclui tanto as células tumorais quanto as células normais de alta renovação: células hematopoiéticas (medula óssea), células epiteliais do TGI e folículos capilares. Daí os três efeitos adversos universais da quimioterapia convencional: **mielossupressão** (↓neutrófilos → infecção; ↓plaquetas → sangramento; ↓eritrócitos → anemia), **mucosite** (úlceras gastrointestinais → diarreia, dor) e **alopecia** (queda de cabelo — reversível após término do tratamento).
-
-> **Dica de Prova:** a mielossupressão é o efeito dose-limitante de praticamente todos os quimioterápicos clássicos. O nadir (ponto mínimo da contagem de neutrófilos) ocorre tipicamente 10–14 dias após o ciclo. Febre em paciente neutropênico (neutrófilos < 500/mm³) = emergência oncológica — antibioticoterapia empírica de largo espectro imediata.
+Os quimioterápicos tradicionais não sabem diferenciar uma célula de câncer de uma célula saudável que cresce rápido. Por isso, os efeitos colaterais são universais:
+- **Mielossupressão:** Ataque à medula óssea. Causa queda de neutrófilos (risco de infecção), plaquetas (risco de sangramento) e hemácias (anemia).
+- **Mucosite:** Feridas na boca e no intestino.
+- **Alopecia:** Queda de cabelo (o cabelo é um dos tecidos que mais cresce no corpo).
 
 ---
 
-## Agentes Alquilantes — Dano Direto ao DNA
+## 2. Agentes Alquilantes: Quebrando o DNA
 
-Os **agentes alquilantes** formam ligações covalentes com o DNA, principalmente entre cadeias (cross-links interstrandais), impedindo a replicação e transcrição. São fase-independentes do ciclo celular (agem em células que estão ou não em divisão — mas o efeito é máximo em células que replicam).
-
-**Ciclofosfamida:** pró-fármaco ativado pelo CYP450 hepático. Muito usado em linfomas, leucemias, câncer de mama, lúpus (imunossupressor). Toxicidade especial: cistite hemorrágica (metabolito acroleína irrita a bexiga) → prevenção com hidratação abundante + mesna (tiol que neutraliza a acroleína).
-
-**Cisplatina:** forma adutos de platina com o DNA. Muito eficaz em tumores de testículo, ovário, pulmão, cabeça e pescoço. Toxicidades específicas: **nefrotoxicidade** (dose-limitante — hidratação IV obrigatória), **neurotoxicidade periférica** (parestesias, ototoxicidade → zumbido, perda auditiva).
-
----
-
-## Antimetabólitos — Bloqueio da Síntese de DNA
-
-Os **antimetabólitos** mimetizam precursores normais do DNA ou RNA e interferem com sua síntese. São fase-específicos (fase S).
-
-**Metotrexato:** inibe a **diidrohidrofolato redutase (DHFR)**, bloqueando a produção de tetrahidrofolato (THF) → sem THF, sem timidina → inibição da síntese de DNA. Usado em leucemia, linfoma, artrite reumatoide, psoríase (doses baixas), ectópica. Antídoto: **leucovorina (ácido folínico)** que "resgata" as células normais após dose alta de metotrexato (protocolo de "resgate com ácido folínico").
-
-**5-Fluorouracil (5-FU):** inibe a **timidilato sintase** → sem dTMP → sem DNA. Usado em coloretal, mama, cabeça e pescoço. Toxicidade: mucosite intensa, mielossupressão.
-
-**Citarabina (Ara-C):** inibidor da síntese de DNA, incorporado ao DNA como análogo. Usado em leucemia mieloide aguda.
+Eles "colam" no DNA e impedem a célula de se copiar.
+- **Ciclofosfamida:** Muito usada, mas tem um metabólito (Acroleína) que queima a bexiga.
+    - **Cuidado:** Pode causar **Cistite Hemorrágica** (sangue na urina).
+    - **Antídoto:** **Mesna** (protege a bexiga como um escudo químico).
+- **Cisplatina:** Agente potente à base de platina.
+    - **Toxicidade:** Ataca muito os **Rins** (Nefrotoxicidade) e a audição (Ototoxicidade). Exige muita hidratação na veia do paciente.
 
 ---
 
-## Inibidores da Topoisomerase e Antimitóticos
+## 3. Antimetabólitos: Os Impostores
 
-**Antraciclinas (doxorrubicina, epirrubicina):** intercalam no DNA + inibem topoisomerase II. Toxicidade característica: **cardiotoxicidade dose-dependente** (miocardiopatia dilatada — dose cumulativa limite de doxorrubicina ≈ 550 mg/m²). Monitorização com ecocardiograma.
-
-**Taxanos (paclitaxel, docetaxel):** estabilizam microtúbulos (impedem a depolimerização) → célula não consegue completar a divisão → apoptose. Usados em mama, ovário, pulmão. Toxicidade: neuropatia periférica, mielossupressão.
-
-**Alcaloides da Vinca (vincristina, vinblastina):** inibem a polimerização dos microtúbulos (polo oposto dos taxanos). Vincristina: leucemia linfoblástica aguda + linfomas. Toxicidade característica da vincristina: **neuropatia periférica grave** (dose-limitante) com mínima mielossupressão.
+Eles fingem ser nutrientes para o DNA, mas travam a síntese.
+- **Metotrexato (MTX):** Rouba o lugar do ácido fólico.
+    - **Uso:** Câncer, Lúpus e Artrite Reumatoide.
+    - **Antídoto:** **Leucovorina** (Ácido Folínico). É o "resgate" que protege as células saudáveis após a dose de ataque do quimioterápico.
+- **5-Fluorouracil (5-FU):** Muito usado em câncer de intestino. Causa muita ferida na boca (mucosite).
 
 ---
 
-## Terapias-Alvo e Imunoterapia
+## 4. Inibidores de Topoisomerase e Microtúbulos
 
-**Imatinibe:** inibidor de tirosina quinase (BCR-ABL) — revolucionou o tratamento da leucemia mieloide crônica (cromossomo Filadélfia = t(9;22), gene BCR-ABL). A LMC passou de doença fatal para doença crônica controlável com um comprimido diário.
+- **Doxorrubicina (Antraciclina):** A famosa "quimio vermelha".
+    - **Perigo:** **Cardiotoxicidade** irreversível. O coração pode ficar fraco e dilatado se a dose limite for ultrapassada. O paciente precisa fazer ecocardiogramas frequentes.
+- **Vincristina / Paclitaxel:** Atacam os "andaimes" da célula (microtúbulos).
+    - **Efeito:** Causam feiura nos nervos (**Neuropatia Periférica**) — formigamento e dor nas mãos e pés.
 
-**Trastuzumabe (Herceptin):** anticorpo monoclonal anti-HER2 — usado em câncer de mama HER2 superexpresso (25% dos casos). Toxicidade: cardiotoxicidade (especialmente se associado a antraciclinas).
+---
 
-**Inibidores de checkpoint imunológico (nivolumabe, pembrolizumabe):** bloqueiam PD-1/PD-L1 → liberam a resposta imune antitumoral que estava suprimida pela ligação PD-1/PD-L1. Usados em melanoma, pulmão, bexiga, rim. Efeitos adversos: doenças autoimunes (colite, pneumonite, hepatite, tireoidite).
+## Ponte com a Clínica
+
+No pronto-socorro, se um paciente oncológico chegar com febre (acima de 38°C), você deve colher um hemograma imediatamente. Se os neutrófilos estiverem abaixo de 500, o diagnóstico é **Neutropenia Febril**. Nesses casos, não se deve esperar exames de cultura: a conduta é iniciar **Antibiótico de Largo Espectro** na primeira hora. Esse raciocínio baseado na farmacologia da quimioterapia evita mortes por choque séptico evitável.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Efeitos adversos universais:** mielossupressão + mucosite + alopecia.
-- **Neutropenia febril:** emergência — ATB imediato.
-- **Ciclofosfamida:** cistite hemorrágica → mesna + hidratação.
-- **Cisplatina:** nefrotoxicidade + ototoxicidade.
-- **Metotrexato:** inibe DHFR; antídoto = leucovorina.
-- **Antraciclinas:** cardiotoxicidade dose-cumulativa.
-- **Vincristina:** neuropatia periférica (mielossupressão mínima).
-- **Imatinibe:** BCR-ABL (LMC Filadélfia+).
+- **Mesna**: Droga obrigatória associada à ciclofosfamida para prevenir cistite hemorrágica.
+- **Nadir Hematológico**: O ponto mais baixo das células do sangue, geralmente 10-14 dias após a quimio.
+- **Leucovorina**: Usada como "resgate" para evitar a morte de células saudáveis pelo Metotrexato.
+- **Cardiotoxicidade**: Principal preocupação com a Doxorrubicina; monitorar fração de ejeção do coração.
+- **Imatinibe**: Exemplo de terapia-alvo (bloqueia o BCR-ABL na Leucemia Mieloide Crônica).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Farmacologia Oncológica, foque nas combinações Droga-Efeito Colateral. 
+**Ciclofosfamida** = Sangue na Urina (Bexiga). **Cisplatina** = Rim e Audição. **Doxorrubicina** = Coração. **Vincristina** = Formigamento (Nervo). **Metotrexato** = Folato (Antídoto: Leucovorina).
 
-Mielossupressão: universal; nadir em 10–14 dias; febre + neutropenia = emergência. Ciclofosfamida + cistite hemorrágica → mesna (neutraliza acroleína). Cisplatina → nefrotóxica + ototóxica (hidratação IV preventiva).
-
-Metotrexato → DHFR bloqueada (folato) → leucovorina como antídoto. Antraciclinas → cardiomiopatia dose-dependente (doxorrubicina). Taxanos → estabilizam microtúbulos (neuropatia periférica).
-
-Vincristina → inibe polimerização microtúbulos (neuropatia grave). Imatinibe → BCR-ABL (LMC) = tratamento oral que transformou a doença.
+A Uninove adora a **Neutropenia Febril**. Se o paciente tem febre e fez quimio há 10 dias, ele está no "Nadir" e precisa de antibiótico rápido. Outro ponto forte: o uso do **Mesna** é exclusivo para proteger a bexiga da Ciclofosfamida. Por fim, saiba que os **Anticorpos Monoclonais** (terminam em -mabe, como o Trastuzumabe) são "balas de prata" que atacam apenas alvos específicos no tumor, sendo geralmente menos tóxicos que a quimio comum.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Taxanos | Alcaloides da Vinca | Taxanos: estabilizam microtúbulos; Vinca: inibem polimerização (efeito oposto) |
-| Ciclofosfamida | Cisplatina | Ciclofosfamida: cistite hemorrágica; cisplatina: nefro + ototoxicidade |
-| Metotrexato | 5-FU | Metotrexato: inibe DHFR (folato); 5-FU: inibe timidilato sintase |
-| Antraciclinas | Trastuzumabe | Antraciclinas: cardiotóxicas dose-cumulativa; trastuzumabe: cardiotóxico (evitar combinação) |
-| Quimioterapia clássica | Terapia-alvo | Clássica: inespecífica, afeta todo o ciclo celular; alvo: inibe proteína específica do tumor |
+| **Alquilantes** | **Antimetabólitos** | Quebram o **DNA Pronto** vs Impedem a **Construção** |
+| **Ciclofosfamida** | **Cisplatina** | Tóxico p/ **Bexiga** vs Tóxico p/ **Rim** |
+| **Mesna** | **Leucovorina** | Protege a **Bexiga** vs Resgata o **Ácido Fólico** |
+| **Doxorrubicina** | **Vincristina** | Ataca o **Coração** vs Ataca os **Nervos (Pés/Mãos)** |
+| **Fase-específico** | **Fase-inespecífico** | Age só na **Divisão (S/M)** vs Age em **Qualquer Momento** |
 
 ### Frase-âncora para não esquecer
 
-> "Quimioterapia clássica não pergunta quem é célula boa ou ruim — mata tudo que se divide; por isso cai cabelo, cai neutrófilos e dói a boca."
+> "A Ciclo queima a bexiga e o Mesna apaga o fogo; o MTX rouba o folato e a Leucovorina entra no jogo. Se a Doxorrubicina cansar o coração, ou se a febre vier sem nenhum ferrão, corra com o antibiótico ou a vida vira um borrão."

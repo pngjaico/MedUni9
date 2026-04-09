@@ -1,154 +1,89 @@
 # MAD2 — Aula 10: Infecções por Herpesvírus na Prática Clínica
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15-20 min
+Os Herpesvírus são os mestres do "esconde-esconde" biológico. Na prova, os temas centrais são a capacidade de **Latência** (o vírus fica dormindo no nervo), os diferentes tipos de vírus (HSV, VZV, EBV, CMV) e como a imunidade do paciente define se a doença será uma simples ferida ou uma ameaça à vida.
+
+Na prática, o médico deve saber que o herpes não tem cura, mas tem controle, e que o surgimento de lesões em dermátomo ou infecções sistêmicas arrastadas exige olhar para a imunidade de base do paciente.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Se existe um grupo viral que obriga o estudante a pensar além da infecção aguda, esse grupo é o dos herpesvírus. Em herpes, o problema não termina quando a febre cai ou quando a vesícula seca. A história natural inclui latência, reativação e impacto direto do estado imunológico do hospedeiro.
-
-Na graduação, esse tema aparece em Microbiologia, Infectologia, Semiologia e até em discussões de Urgência, porque o quadro pode variar de lesão mucocutânea autolimitada até doença invasiva em imunossuprimidos. Em prova, a banca costuma explorar exatamente esse contraste.
-
-Um erro comum é decorar "HSV = lesão", "VZV = catapora", "EBV = mononucleose" e parar por aí. O que diferencia uma resposta madura é explicar quando é primoinfecção, quando é reativação e por que o mesmo vírus muda tanto de comportamento entre pacientes diferentes.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A10-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de latência e reativação.
+- **O que mostrar:** O "Ciclo da Dormência": Uma ilustração de um neurônio. O vírus entrando após a primeira infecção e ficando "escondido" no gânglio. Depois, um raio (representando estresse/baixa imunidade) fazendo o vírus "acordar" e descer pelo nervo até a pele, criando as vesículas.
+- **Tipo sugerido:** Infográfico didático | Esquema fisiopatológico.
+- **Legenda (rascunho):** Mecanismo de latência e reativação dos herpesvírus nos gânglios nervosos.
 
+## 1. O Conceito de Latência: O Inimigo Íntimo
 
-
+A característica principal da família Herpesviridae é que eles **NUNCA abandonam o corpo**.
+- **Primeira Infecção:** Geralmente é a mais forte e espalhada.
+- **Latência:** O vírus viaja pelos nervos e fica "dormindo" nos gânglios sensitivos.
+- **Reativação:** Quando a imunidade cai (por estresse, sol, febre ou doenças), o vírus acorda e causa lesões no mesmo local de antes.
 
 ---
 
-## Conceito-chave: latência não é detalhe, é o centro do raciocínio
+## 2. HSV-1 e HSV-2: O Herpes Simples
 
-Herpesvírus têm uma capacidade biológica estratégica: permanecer no organismo de forma latente após a fase inicial. Isso significa que o paciente pode ficar assintomático por longos períodos e voltar com manifestações clínicas em outro momento da vida.
+- **HSV-1 (Herpes Labial):** Mais comum na boca. Causa vesículas que ardem e viram crostas.
+- **HSV-2 (Herpes Genital):** Mais comum na região genital. É uma IST.
+- **Importante:** Ambos podem causar lesões em qualquer lugar se houver contato. A marca registrada é a **Vesícula Agrupada** (parece um cacho de uvas pequeno) sobre uma base vermelha e muito dolorosa.
 
-Para o clínico, isso muda tudo. Nem toda recorrência significa nova exposição. Muitas vezes, é reativação de um vírus que já estava no hospedeiro desde anos anteriores.
+---
 
-No enunciado de prova, sempre que aparecer a ideia de quadro recorrente no mesmo território, principalmente associado a estresse, febre, trauma local, imunossupressão ou envelhecimento, pense em reativação antes de pensar em reinfecção.
+## 3. VZV: Catapora e Herpes-Zóster (Cobreiro)
 
-> **Dica de Prova:** quando a questão descreve episódios repetidos semelhantes, a palavra que destrava a alternativa certa costuma ser **latência**.
+O vírus da Varicela-Zóster causa duas doenças diferentes no mesmo paciente:
+- **Varicela (Catapora):** Ocorre no primeiro contato (geralmente criança). Causa manchas, bolhas e crostas em todo o corpo ao mesmo tempo (**Polimorfismo**).
+- **Herpes-Zóster (Reativação):** O vírus que ficou latente na coluna acorda. Ele segue o caminho de um único nervo (**Dermátomo**). As bolhas aparecem em "faixa" e apenas de um lado do corpo (**Unilateral**). A dor é fortíssima e pode durar meses (**Neuralgia Pós-Herpética**).
 
-## HSV-1 e HSV-2: dor, recorrência e leitura sindrômica
+---
 
-HSV-1 e HSV-2 compartilham lógica biológica, mas aparecem em contextos clínicos distintos com alguma sobreposição. A apresentação clássica é de vesículas agrupadas sobre base eritematosa, com ardor, dor e posterior ulceração superficial.
+## 4. EBV e CMV: Os Vírus Sistêmicos
 
-Tradicionalmente, HSV-1 é mais lembrado em acometimento oral e HSV-2 em acometimento genital. Porém, essa separação não é absoluta. O que mais pesa para prova é reconhecer padrão lesional, recorrência e sintomatologia dolorosa.
+- **EBV (Epstein-Barr):** Causa a **Mononucleose** ("Doença do Beijo"). O paciente tem febre, dor de garganta com placas brancas e muitas ínguas (linfonodos) no pescoço. Causa um cansaço extremo que dura semanas.
+- **CMV (Citomegalovírus):** Para pessoas saudáveis acompanhadas, parece uma gripe. Mas em **Imunossuprimidos** (HIV ou transplantados), ele ataca a retina (cegueira), o esôfago e os pulmões.
 
-A primoinfecção tende a ser mais exuberante. As recidivas, em geral, são mais localizadas e de menor intensidade, justamente porque já existe resposta imune parcial. Isso ajuda a entender por que o paciente relata "a primeira vez foi muito pior".
-
-Outra pista valiosa: lesões herpéticas costumam ter evolução relativamente típica em fases (vesícula, erosão/úlcera superficial, crosta), com desconforto local relevante. Esse detalhe semiológico aparece bastante em questões comparativas.
-
-## VZV: uma infecção, duas faces clínicas no tempo
-
-Varicela-zóster é quase um resumo da biologia dos herpesvírus. Na primoinfecção, manifesta-se como varicela, com exantema disseminado e lesões em diferentes estágios evolutivos.
-
-Anos depois, com reativação, o mesmo vírus aparece como herpes-zóster, geralmente unilateral, respeitando dermátomo e com dor neuropática associada.
-
-Esse padrão dermatomérico é uma pista clássica de prova e de prática clínica. Quando o caso descreve dor em faixa seguida de lesões vesiculares localizadas, especialmente em adulto mais velho, o raciocínio deve apontar para zóster.
-
-A importância do zóster não termina na pele. A neuralgia pós-herpética pode persistir e comprometer funcionalidade e qualidade de vida. Por isso, reduzir zóster a "lesão de pele" é subestimar o quadro.
-
-> **Pegadinha frequente:** confundir zóster com dermatite inespecífica quando a distribuição por dermátomo já está explícita no enunciado.
-
-## EBV e CMV: herpesvírus também são doença sistêmica
-
-Nem todo herpesvírus se apresenta como vesícula. EBV e CMV aparecem em cenários sistêmicos e, em muitos casos, a chave diagnóstica está no contexto clínico e imunológico.
-
-EBV é fortemente associado à síndrome mononucleose-like: febre, odinofagia/faringite, linfadenopatia e fadiga marcante. Em estudantes, esse quadro costuma ser cobrado em diferenciação com faringite bacteriana comum.
-
-CMV pode causar síndromes semelhantes em alguns contextos, mas ganha destaque real em imunossuprimidos, transplantados e pacientes com imunodeficiência avançada, onde pode haver doença mais grave e comprometimento de órgãos.
-
-A regra prática é direta: quanto maior a vulnerabilidade imune, maior a chance de apresentação atípica, extensa ou invasiva.
-
-| Vírus | Quadro mais cobrado | Pista principal no enunciado | Contexto de maior gravidade |
-|------|----------------------|-------------------------------|-----------------------------|
-| HSV-1/2 | Lesão mucocutânea recorrente e dolorosa | Recidiva em território semelhante | Imunossupressão e gatilhos locais |
-| VZV | Varicela (primoinfecção) e zóster (reativação) | Lesão em dermátomo unilateral | Idade avançada e baixa imunidade |
-| EBV | Mononucleose infecciosa | Faringite + adenomegalia + fadiga | Adolescente/jovem com síndrome sistêmica |
-| CMV | Doença sistêmica em vulneráveis | Quadro prolongado em imunossuprimido | HIV avançado, transplante, terapia imunossupressora |
-
-## Estado do hospedeiro: o fator que muda prognóstico e conduta
-
-Em herpesvírus, diagnóstico não é só "qual agente é". É também "em que hospedeiro isso está acontecendo". O mesmo vírus pode ser banal em um paciente e crítico em outro.
-
-Paciente imunocompetente com herpes labial recorrente, em geral, segue curso limitado. Paciente imunossuprimido com CMV, por outro lado, pode necessitar investigação aprofundada e acompanhamento rigoroso.
-
-Esse raciocínio é valorizado na **Uninove** porque aproxima o conteúdo da prática real: o quadro clínico não é uma fotografia isolada, mas resultado da interação agente-hospedeiro-ambiente.
-
-## Como a banca costuma construir a questão
-
-A estrutura mais comum é descrever sinais e sintomas e pedir o vírus mais provável, ou comparar primoinfecção versus reativação.
-
-Um roteiro útil para resolver:
-
-1. Identifique se o padrão é mucocutâneo, dermatomérico ou sistêmico.
-2. Pergunte se a história sugere primeiro contato ou reativação.
-3. Avalie o estado imune para estimar gravidade e probabilidade.
-4. Só depois refine para o agente mais compatível.
-
-Esse fluxo reduz erro por decoreba e melhora muito o desempenho em questão contextualizada.
-
-| Situação clínica | Erro comum | Leitura correta |
-|------------------|-----------|-----------------|
-| Lesões vesiculares recorrentes e dolorosas | Tratar como infecção nova a cada episódio | Priorizar reativação por HSV |
-| Dor em faixa com vesículas unilaterais | Diagnosticar dermatose inespecífica | Pensar em zóster por VZV |
-| Faringite prolongada com adenomegalia e fadiga | Fechar em bacteriana sem contexto | Considerar EBV (mononucleose-like) |
-| Imunossuprimido com síndrome sistêmica | Subestimar vírus herpes | Elevar suspeita para CMV |
+---
 
 ## Ponte com a Clínica
 
-No ambulatório e no hospital, herpesvírus ensinam um princípio que vale para toda a medicina: doença infecciosa não depende apenas do microrganismo, depende da biologia do hospedeiro e do tempo da infecção.
-
-Quando você identifica padrão de recorrência, localização das lesões e estado imune, deixa de decorar nomes e passa a raciocinar como clínico. Essa é a competência que mais aparece nas provas e mais protege o paciente na vida real.
+No consultório, o médico deve estar atento ao **Herpes-Zóster em idosos**. Uma dor em faixa nas costas ou no peito que surge antes mesmo das bolhas aparecerem pode ser confundida com infarto ou pedra no rim. Identificar o zóster e iniciar o antiviral (**Aciclovir**) nas primeiras 72 horas é crucial para evitar que o paciente fique com dor crônica pelo resto da vida. Além disso, o zóster em adultos jovens pode ser um sinal indireto de que a imunidade está comprometida (como no caso de um HIV não diagnosticado).
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Latência** é a assinatura biológica dos herpesvírus.
-- **Recorrência** geralmente indica reativação, não infecção nova obrigatória.
-- **HSV-1/2**: lesões mucocutâneas dolorosas, com tendência à recidiva.
-- **Primoinfecção por HSV** costuma ser mais exuberante que episódios recorrentes.
-- **VZV**: varicela na primoinfecção e zóster na reativação.
-- **Padrão dermatomérico doloroso** é pista forte de herpes-zóster.
-- **EBV**: clássico em síndrome mononucleose-like.
-- **CMV**: relevância clínica aumenta muito em imunossuprimidos.
-- **Estado imunológico** redefine gravidade, investigação e risco.
+- **Latência**: Capacidade do vírus de permanecer nos gânglios nervosos para sempre.
+- **Polimorfismo (Varicela)**: Lesões em vários estágios (mancha, bolha, crosta) ao mesmo tempo.
+- **Dermátomo**: Caminho do nervo seguido pelo Herpes-Zóster; lesão **Unilateral**.
+- **Mononucleose (EBV)**: Faringite + Adenomegalia (ínguas) + Esplenomegalia (baço grande).
+- **Neuralgia Pós-Herpética**: Dor crônica que sobra após as feridas do zóster sumirem.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Herpesvírus, foque no padrão das bolhas. 
+**Bolhas na boca/genital que voltam sempre** = HSV. **Bolhas no corpo todo em fases diferentes** = Varicela. **Bolhas em faixa de um lado só** = Zóster. Lembre-se que o remédio padrão é o **Aciclovir**. No EBV (Mononucleose), cuidado para não dar Amoxicilina, pois pode causar um rash (manchas vermelhas) no corpo todo do paciente.
 
-Latência: sem entender isso, você erra herpesvírus. HSV: lesão dolorosa e recorrente em padrão típico. VZV primário: quadro de varicela.
-
-VZV reativado: zóster em dermátomo, geralmente unilateral. EBV: pense em mononucleose-like com fadiga importante. CMV: ganha peso em imunossupressão.
-
-Recidiva: em herpes, costuma ser reativação. Hospedeiro: imunidade muda apresentação e prognóstico.
+A Uninove adora cobrar sobre o **Hospedeiro**. Se o paciente for transplantado ou tiver HIV e apresentar sintomas gerais, pense em **CMV**. Se a questão falar de um idoso com dor de cabeça e bolhas na ponta do nariz, cuidado! É o sinal de Hutchinson e indica risco de cegueira pelo herpes. Por fim, saiba que a vacina da varicela protege contra a catapora na infância e reduz muito o risco de zóster no futuro.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Reativação por HSV | Nova infecção inespecífica | Repetição do padrão em território semelhante favorece HSV |
-| Varicela | Herpes-zóster | Varicela é primoinfecção disseminada; zóster é reativação dermatomérica |
-| Mononucleose por EBV | Faringite bacteriana comum | Adenomegalia e fadiga prolongada favorecem EBV |
-| CMV em imunossuprimido | Virose autolimitada | O contexto imune torna CMV muito mais relevante |
+| **Varicela** | **Herpes-Zóster** | **Espalhado** (criança) vs **Em faixa** (adulto/idoso) |
+| **EBV (Mono)** | **Faringite Estreptocócica** | Muitos **Linfonodos/Cansaço** vs Apenas dor de garganta |
+| **HSV-1** | **Afta Comum** | **Vesículas que viram casca** vs Úlcera branca fundo limpo |
+| **Aciclovir** | **Vacina** | Tratamento da **Crise** vs Prevenção da **Doença** |
+| **Primoinfecção** | **Reativação** | Primeira vez (mais grave) vs **Repetição (mais localizada)** |
 
 ### Frase-âncora para não esquecer
 
-> "Herpesvírus não desaparece da história: ele silencia, fica latente e volta quando o hospedeiro perde defesa."
+> "Herpes é o inquilino que não paga aluguel e nunca sai: o HSV repete a dose, o VZV faz o caminho do nervo e o EBV cansa o corpo todo. O vírus dorme no nervo, mas acorda quando a defesa cochila."

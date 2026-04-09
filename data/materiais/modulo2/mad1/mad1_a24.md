@@ -1,184 +1,89 @@
-﻿# Infecções Fúngicas Sistêmicas e Superficiais
+# MAD1 — Aula 24: Infecções Fúngicas Sistêmicas e Superficiais
 
-## Relevância Clínica e Acadêmica
+As micoses variam de simples incômodos estéticos na pele a infecções sistêmicas fatais em pacientes imunodeprimidos. Na prova, os temas centrais são as **Micoses Oportunistas na AIDS** (Criptococose e Pneumocistose), o diagnóstico por **Tinta da China** e o manejo das **Dermatofitoses (Tinhas)**.
 
-As micoses são causadas por fungos e se subdividem em superficiais (pele, mucosas, fâneros) e sistêmicas (órgãos internos). As micoses sistêmicas são frequentemente oportunistas em imunodeprimidos (**HIV**/**AIDS**, transplantados, neutropênicos), mas algumas causam doença em imunocompetentes (micoses endêmicas). No Brasil, Paracoccidioides brasiliensis e Histoplasma capsulatum são fungos endêmicos clinicamente relevantes.
+Na prática, saber que uma dor de cabeça em um paciente com HIV pode ser uma meningite fúngica insidiosa é fundamental para o diagnóstico precoce e a sobrevivência do paciente.
 
-A **Uninove** cobra principalmente as micoses oportunistas do paciente com **AIDS** (criptococose, candidíase, pneumocistose) e as micoses superficiais (tinhas, candidíase mucocutânea).
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A24-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Criptococose.
+- **O que mostrar:** Visualização microscópica com **Tinta da China**: o fungo *Cryptococcus* aparece como uma esfera cercada por um "halo" branco (a cápsula), que brilha contra o fundo escuro da tinta.
+- **Tipo sugerido:** Foto contextual.
+- **Legenda (rascunho):** Exame direto com tinta da China revelando a cápsula de *Cryptococcus neoformans*.
 
+## 1. Micoses Sistêmicas e Oportunistas
 
+São o terror dos pacientes com imunidade baixa (AIDS, transplantes).
 
+### Pneumocistose (PCP - *Pneumocystis jirovecii*)
+- **Marca Clínica:** Falta de ar que piora ao esforço e oxigenação baixa, mas o médico ausculta o pulmão e não ouve "barulho" de pneumonia comum.
+- **Pista de Prova:** CD4 < 200. Tomografia mostra pulmão com aspecto de **"Vidro Fosco"**.
+- **Tratamento:** Sulfametoxazol-Trimetoprima (**SMZ-TMP**) em dose alta.
 
----
-
-
-
-## Micoses Sistêmicas
-
-### Histoplasmose (Histoplasma capsulatum)
-
-- Fungo dimórfico endêmico nas Américas (solo com fezes de morcegos e pássaros — solo húmido)
-- Transmissão: inalação de conídios (esporos) aerossolizados
-- **Imunocompetente:** maioria assintomática ou infecção pulmonar leve autolimitada (síndrome gripal)
-- **Imunossuprimido (AIDS, corticoide):** histoplasmose disseminada progressiva — febre, hepatoesplenomegalia, pancitopenia, lesões cutâneas e mucosas, adrenal (insuficiência adrenal)
-- Diagnóstico: cultura (padrão ouro, lento); antígeno urinário de Histoplasma (rápido e sensível na disseminada); sorologia
-- Tratamento: itraconazol (leve-moderada); anfotericina B (grave/disseminada)
-
-### Coccidioidomicose (Coccidioides immitis)
-
-- Endêmico nas Américas (semiárido, solo árido — interior do Brasil, México, EUA sudoeste)
-- Transmissão: inalação de artroconídios
-- Clínica: febre do vale (síndrome gripal + eritema nodoso + artralgias = "febre do vale")
-- Imunossuprimido: disseminação para meninges, ossos, pele
-- Tratamento: fluconazol ou anfotericina B (grave)
-
-### Paracoccidioidomicose (Paracoccidioides brasiliensis)
-
-- Endêmica no Brasil (sul, sudeste, centro-oeste); afeta homens adultos, trabalhadores rurais
-- Fungo dimórfico com aspecto de "roda de leme" ao microscópio
-- Clínica: lesões ulceradas em mucosa oral/nasal ("estomatite moriforme") + linfadenomegalia + pneumopatia crônica
-- Tratamento: itraconazol (leve-moderada); anfotericina B (grave); sulfonamidas (profilaxia secundária)
-
-### Criptococose (Cryptococcus neoformans / gattii)
-
-- Fungo encapsulado; reservatório: fezes de pombos
-- Principal causa de meningite fúngica no mundo
-- **Meningite criptocócica em AIDS (CD4 < 100):** cefaleia subaguda + febre + rigidez de nuca; evolução insidiosa
-- LCR: linfocitário, glicose baixa, proteína elevada; **tinta da China** (cápsula negativa) = diagnóstico rápido; antígeno criptocócico (sensibilidade 95%)
-- Tratamento: indução com anfotericina B deoxicolato + flucitosina (2 semanas) → consolidação com fluconazol → manutenção (profilaxia secundária com fluconazol em AIDS)
-
-> **Dica:** Tinta da China no LCR = cápsula do Cryptococcus (halozinha branca ao redor do fungo em fundo escuro). Quase patognomônico.
-
-### Aspergilose (Aspergillus fumigatus)
-
-- Bolor ubíquo; transmissão por inalação de conídios
-- **Forma alérgica:** ABPA — aspergilose broncopulmonar alérgica (asma + eosinofilia + IgE elevada + asmáticos com Aspergillus)
-- **Aspergiloma:** bola fúngica em cavidade pulmonar preexistente (tuberculose, bronquiectasia); sintoma: hemoptise
-- **Aspergilose invasiva:** **neutropênicos** (transplante de medula, leucemia em tratamento); febre refratária + nódulos pulmonares com "sinal do halo" na TC; mortalidade alta
-- Diagnóstico: galactomanana sérica (marcador de aspergilose invasiva); TC tórax; cultura
-- Tratamento: **voriconazol** (1ª linha para invasiva); anfotericina B (alternativa)
+### Criptococose (Meningite Fúngica)
+- **Marca Clínica:** Dor de cabeça que vai piorando ao longo de semanas, febre e às vezes confusão mental.
+- **Pista de Prova:** CD4 < 100. Contato com fezes de pombos.
+- **Diagnóstico:** Exame de líquor com **Tinta da China** (vê a cápsula do fungo).
 
 ---
 
-## Pneumocistose (Pneumocystis jirovecii)
+## 2. Paracoccidioidomicose (Doença de Lutz)
 
-- Fungo (antes classificado como protozoário)
-- PCP (Pneumocystis pneumonia): principal infecção oportunista pulmonar em AIDS (CD4 < 200)
-- **Clínica:** dispneia progressiva, tosse seca, febre; hipóxia desproporcional ao exame físico; piora com esforço
-- TC tórax: infiltrado pulmonar bilateral "em vidro fosco" (opacidade em vidro fosco bilateral)
-- Diagnóstico: lavado broncoalveolar (LBA) com coloração de Giemsa/WB; imunofluorescência
-- Tratamento: **SMX-TMP** (sulfametoxazol-trimetoprim) × 21 dias + corticoide se PaO₂ < 70 mmHg
-- Profilaxia primária em AIDS: CD4 < 200 → SMX-TMP
+- **Quem pega:** Homens, trabalhadores rurais ("limpadores de café"), que têm contato com o solo.
+- **Clínica:** Lesões na boca que parecem uma amora (**Estomatite Moriforme**) e manchas no pulmão.
+- **O Fungo:** No microscópio, parece uma **"Roda de Leme"** (vários brotos saindo de uma célula mãe).
 
 ---
 
-## Micoses Superficiais
+## 3. Micoses Superficiais (Tinhas e Candidíase)
 
-### Dermatofitoses (Tinhas)
-
-Fungos queratinofílicos que afetam apenas estruturas queratinizadas (pele, cabelo, unhas).
-Gêneros: Trichophyton, Microsporum, Epidermophyton
-
-| Tipo | Localização | Características |
-|---|---|---|
-| Tinea capitis | Couro cabeludo | Placa alopécia com escamas; mais comum em crianças; Microsporum e Trichophyton |
-| Tinea corporis | Tronco e membros | Lesão anular com bordas eritematosas elevadas e centro claro ("herpes circinado") |
-| Tinea pedis | Pé (entre dedos) | Descamação + maceração interdigital; fissuras |
-| Tinea unguium (onicomicose) | Unhas | Espessamento, friabilidade, descoloração da unha |
-| Tinea cruris | Região inguinal/crural | Placa eritematosa pruriginosa; "tinha da virilha" |
-| Tinea versicolor | Tronco | Máculas hipocrômicas ou hipercrômicas com escamas; Malassezia furfur |
-
-> **Dica:** Tinea versicolor = Malassezia, não dermatófito. Aspecto de "céu estrelado" com lâmpada de Wood (fluorescência amarelo-esverdeada). Tratamento: antifúngico tópico/shampoo de sulfeto de selênio.
-
-Tratamento das tinhas:
-- Tópico (corpo, pé): clotrimazol, terbinafina
-- Sistêmico (capitis, onicomicose): griseofulvina (capitis) ou terbinafina/itraconazol (onicomicose)
-
-### Candidíase (Candida albicans)
-
-- Fungo comensal da microbiota normal; oportunista quando há disrupção de barreira ou imunossupressão
-- **Candidíase oral (muguet):** placas brancas pseudomembranosas removíveis → eritema; crianças, pacientes em corticoide inalatório, AIDS
-- **Candidíase vaginal:** prurido + corrimento branco "tipo queijo cottage" + hiperemia; antibiótico, gravidez, diabetes, imuno­supressão
-- **Candidíase esofágica:** disfagia + odinofagia em paciente com AIDS (CD4 < 100); diagnóstico clínico ou endoscopia; fluconazol
-- **Candidemia (candidíase sistêmica):** paciente em UTI, cateter venoso central, nutrição parenteral; tratamento: equinocandinas ou fluconazol
-
----
-
-## Tabela Resumo Micoses Oportunistas em AIDS
-
-| Micose | CD4 gatilho | Manifestação clínica | Tratamento |
-|---|---|---|---|
-| PCP | < 200 | Pneumonia intersticial, vidro fosco | SMX-TMP + corticoide se grave |
-| Criptococose | < 100 | Meningite subaguda | AmpB + flucitosina → fluconazol |
-| CMV retinite | < 50 | Perda visual progressiva | Ganciclovir/valganciclovir |
-| Candidíase esofágica | < 100 | Disfagia + odinofagia | Fluconazol |
-| Histoplasmose disseminada | < 100 | Febre + hepatoesplenomegalia | AmpB → itraconazol |
-| Aspergilose invasiva | Neutropenia | Nódulos pulmonares + halo | Voriconazol |
-
----
-
-## Pontos-Chave
-
-- Micoses sistêmicas em HIV: PCP (CD4 < 200), criptococose (< 100), CMV (< 50)
-- Criptococose: tinta da China no LCR + meningite subaguda em AIDS
-- Aspergilose invasiva: neutropênico + nódulos pulmonares + sinal do halo; voriconazol
-- PCP: vidro fosco bilateral + hipóxia + AIDS; SMX-TMP × 21 dias
-- Tinhas = dermatófitos (Trichophyton/Microsporum) → lesão anular; tinea versicolor = Malassezia (diferente)
-- Candidíase esofágica: disfagia em imunossuprimido → fluconazol sem precisar de EDA (diagnóstico clínico em AIDS)
+- **Tinhas (Dermatofitoses):** Fungos que comem queratina. Causam lesões em anel (mancha vermelha com o meio mais claro).
+- **Tinea Versicolor (Pano Branco):** Manchas claras ou escuras no tronco que descamam quando esticadas (**Sinal de Zileri**). Causada pela *Malassezia furfur*.
+- **Candidíase Oral (Muguet):** Placas brancas na língua e bochecha que saem ao raspar, deixando a carne vermelha por baixo. Comum em bebês e pacientes com AIDS.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Paciente de 32 anos com AIDS, CD4 de 80 células/mm³, em uso irregular do TARV. Queixa de cefaleia há 3 semanas progressiva, febre vespertina e rigidez cervical leve. Sem foco infeccioso óbvio.
-- Diagnóstico provável: **meningite criptocócica** (CD4 < 100 + sintomas subagudos)
-- Conduta: punção lombar urgente → LCR com tinta da China (cápsula Cryptococcus) + antígeno criptocócico
-- LCR esperado: linfocitário, glicose baixa, proteína elevada
-- Tratamento: anfotericina B deoxicolato + flucitosina × 2 semanas (indução) → fluconazol 400 mg/dia × 8 semanas (consolidação) → fluconazol 200 mg/dia (manutenção até CD4 > 200)
+Um paciente com AIDS e CD4 muito baixo (80) apresenta dificuldade para engolir alimentos e dor no peito atrás do osso esterno. Ao abrir a boca, nota-se o famoso "sapinho" (candidíase oral). O diagnóstico clínico é de **Candidíase Esofágica**. No protocolo de AIDS, não é necessário fazer endoscopia imediata; o médico pode iniciar o tratamento com **Fluconazol** via oral e observar a melhora em poucos dias.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Pneumocistose (PCP)**: CD4 < 200 + Vidro Fosco + Cansaço.
+- **Tinta da China**: Diagnóstico de Criptococo.
+- **Roda de Leme**: Aparência do *Paracoccidioides*.
+- **Amoxicilina + Mononucleose**: Causa rash (Não confunda com fungo!).
+- **Anfotericina B**: O "canhão" dos antifúngicos para casos graves (muito tóxico para o rim).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Fungos, foque no paciente com AIDS. 
+O pulmão dele sofre com a **Pneumocistose (PCP)** quando o CD4 cai de 200; o tratamento é o **Bactrim (SMZ-TMP)**. O cérebro sofre com o **Criptococo** quando o CD4 cai de 100; o segredo é a **Tinta da China**. Se a boca e o esôfago doerem, pense em **Cândida** e use **Fluconazol**.
 
-PCP: CD4 < 200; vidro fosco bilateral; SMX-TMP (profilaxia e tratamento). Criptococose: CD4 < 100; meningite subaguda; tinta da China + antígeno; AmpB + flucitosina.
-
-Aspergilose invasiva: neutropênico; sinal do halo na TC; voriconazol. Tinea versicolor: Malassezia (não dermatófito); máculas hipocrômicas no tronco.
-
-Candidíase esofágica: disfagia em AIDS CD4 < 100; fluconazol empírico sem necessidade de EDA.
+Na dermatologia, lembre-se: as **Tinhas** fazem círculos vermelhos na pele. O **Pano Branco** (Versicolor) é causado por um fungo que adora gordura (*Malassezia*). E o fungo do trabalhador rural (Paracoco) é o que faz a boca parecer uma amora. Se a questão falar de **Neutropênicos** (sem glóbulos brancos) com pneumonia que não melhora, pense em **Aspergilose** e procure o "Sinal do Halo" na tomografia.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Tinea versicolor | Vitiligo | Tinea = escamas; Vitiligo = sem escamas, pela lisa, autoimune |
-| Criptococose | Meningite bacteriana | Criptococose = subaguda, CD4 baixo, tinta da China+; bacteriana = aguda, PMN no LCR |
-| PCP | Pneumonia bacteriana | PCP = vidro fosco bilateral, hipóxia exagerada, sem resposta a ATB; bacteriana = consolidação lobar |
-| Aspergiloma | Aspergilose invasiva | Aspergiloma = cavidade + bola fúngica + hemoptise; invasiva = neutropênico + angioinvasão |
-| Candidíase oral | Candidíase esofágica | Oral = placas brancas bucais; esofágica = odinofagia/disfagia → fluconazol |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Pneumocistose** | **Pneumonia Comum** | **Vidro Fosco** vs Consolidação (Mancha branca sólida) |
+| **Criptococose** | **Meningite Bacteriana** | Início Lento (Semanas) vs **Início Rápido (Horas/Dias)** |
+| **Tinea Versicolor** | **Vitiligo** | Descação (Sinal de Zileri) vs **Mancha lisa sem cor** |
+| **Itraconazol** | **Fluconazol** | Escolha para Paracoco vs **Escolha para Cândida/Criptococo** |
+| **Tinta da China** | **Kato-Katz** | Fungos (Líquor) vs **Vermes (Fezes)** |
 
 ### Frase-âncora para não esquecer
 
-> "CD4 200 → profilaxia para PCP (SMX-TMP). CD4 100 → atenção à criptococose (meningite + tinta da China) e candida esofágica. CD4 50 → CMV retinite (pizza de tomate). Não é só bacteriano que mata o imunossuprimido — o fungo é tão perigoso quanto."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).
+> "PCP é cansaço e vidro fosco no pulmão; Criptococo é tinta da China e dor na nuca em expansão; Paracoco é roda de leme e boca de amora no chão; e Cândida é placa branca que o Fluconazol traz a solução."

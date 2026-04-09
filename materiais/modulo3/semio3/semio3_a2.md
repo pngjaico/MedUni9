@@ -1,95 +1,92 @@
-# SEMIO3 — Aula 2: Revisão da Semiologia Abdominal — Exame Físico
+# SEMIO3 — Aula 2: Exame Físico Abdominal — A Ordem que Salva
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+O exame físico do abdome é um dos poucos lugares na medicina onde a ordem dos fatores altera o produto. Na prova, os temas centrais são a **Sequência Correta** do exame (auscultar antes de tocar), o reconhecimento dos **Sinais Peritoneais** (Blumberg) e as manobras para detectar **Líquido Livre** (Ascite).
+
+Na prática, encostar a mão gelada no abdome de um paciente com dor sem avisar é o caminho mais rápido para um exame falso-positivo. O médico deve respeitar a ordem técnica para não "acordar" o intestino com a palpação, o que mascararia os ruídos naturais no estetoscópio.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Se a anamnese é o alicerce, o exame físico é a confirmação. A Uninove cobra não apenas quais manobras fazer, mas a **ordem** e a **interpretação** dos achados. Um sinal positivo em um paciente com anamnese peritoneal cria quadro composto — peritonite confirmada. O mesmo sinal em paciente com dor visceral é coincidência. A prova gosta de dar um achado isolado e perguntar: "o que significa?". Contexto importa.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO3-A2-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de sequência do exame.
+- **O que mostrar:** O "Relógio do Abdome": Um círculo numerado sobre o abdome: 1. **Inspeção** (Olhar), 2. **Ausculta** (Ouvir), 3. **Percussão** (Bater), 4. **Palpação** (Tocar). Destacar que palpar por último evita que o médico "invente" barulhos no intestino.
+- **Tipo sugerido:** Infográfico didático | Fluxograma circular.
+- **Legenda (rascunho):** Sequência técnica obrigatória do exame físico abdominal.
 
-## Conceitos Essenciais
+## 1. A Sequência Obrigatória: I-A-P-P
 
-**Inspeção:** Começa à distância. Paciente em pé (se consegue) ou deitado? Abdomen distendido, retraído, simétrico? Cicatrizes de cirurgias anteriores? Estrias? Hérnia visível? Peristaltismo visível? Movimentos respiratórios normais ou restritos? Tudo antes de tocar.
-
-**Ausculta:** Antes de palpação. Ruídos hidroaéreos presentes, aumentados, diminuídos ou ausentes? Sopros vasculares? Atrito peritoneal (raro mas clássico em peritonite)? Sons metálicos (obstrução intestinal). Paciente calado mínimo 15 segundos em cada região — você précisa ouvir mesmo.
-
-> **Dica de Prova:** Ordem importa: inspeciona, ausculta, depois palpa. Inverter a ordem (palpar antes de auscultar) não é errado fisiologicamente, mas a banca cobra.
-
-**Palpação superficial:** Toque leve com polpas de dedos. Valida defesa muscular? Há rigidez? Rigidez endurecida = peritonite. Defesa muscular menos rigorosa = irritação mas não peritonite completa. Já apareceu sinal de Rovsing? (dor em FID quando palpa FIE — indica peritonite)
-
-**Palpação profunda:** Palpa órgãos. Fígado descido? Baço palpável? Rins palpáveis? A maioria das pessoas normais não tem baço palpável — se palpa, é aumentado. Massa palpável em qualquer região = investigar.
-
-> **Pegadinha:** Aluno confunde "rigidez" com "defesa muscular". Rigidez é involuntária, endurecida mesmo com relaxamento. Defesa é contração voluntária do paciente quando toca. São diferentes e significam diferentes coisas.
-
-**Manobras especiais:** Rovsing (peritonite visceral), Blumberg (peritonite parietal com rebote), Murphy (colecistite aguda), McBurney (apendicite). Cada manobra tem contexto. Manobra sem anamnese correlata é sinal positivo solto — não significa nada.
-
-## Exame Físico em Sequência Lógica
-
-Paciente entra deitado no maca. Inspecciona: "abdomen distendido, cicatriz em RLQ de cesariana anterior". Ausculta: "ruídos presentes bilateralmente, diminuídos em FID". Palpa superficial: "defesa em FID, sem rigidez". Palpa profundo: "sem organomegalia, sem massas, **sensibilidade** em McBurney". Integra: "quadro sugestivo de apendicite — anamnese + defesa FID + McBurney positivo = hipótese principal".
-
-## Ponte com a Clínica
-
-No PS, exame rápido e bem estruturado reduz tempo de diagnóstico. Uma manobra bem feita (Rovsing positivo) com anamnese estruturada poupa ultrassom. Paciente confia mais em examinador que explica "estou testando se afeta peritonicamente" do que em examinador que só toca.
-
-## Pontos-Chave para Prova
-
-- **Ordem:** inspeção → ausculta → palpação superficial → palpação profunda → manobras especiais.
-- **Rigidez vs defesa:** rigidez = involuntária; defesa = voluntária; significados diferentes.
-- **Baço não deve ser palpável:** encontrar baço é achado anormal até prova contrária.
-- **Manobra sem contexto:** sinal positivo isolado não diagnostica — integra com história.
-- **Rovsing e Blumberg:** Rovsing = peritoneal visceral; Blumberg = peritoneal parietal.
-- **McBurney:** palpação no ponto de McBurney (1/3 distância EIAS-umbigo); positivo = apendicite.
-- **Distensão abdominal + ausência RHA:** obstrução até prova contrária.
-- **Simetria:** abdomen assimétrico é anormal — explore.
+Diferente do tórax, no abdome a ordem é:
+1.  **Inspeção:** Olhar a forma (plano, globoso, em avental), cicatrizes e pulsações.
+2.  **Ausculta:** Ouvir os **Ruídos Hidroaéreos** (RHA). O normal é ouvir borbulhos. Se estiver em silêncio total, pode ser uma emergência (íleo paralítico).
+3.  **Percussão:** Identificar o **Timpanismo** (ar) e a **Macicez** (órgãos sólidos ou líquidos).
+4.  **Palpação:** Começar pela superficial (pele e gordura) e ir para a profunda (órgãos e massas). **Dica:** Sempre comece palpar longe do local onde o paciente diz que dói.
 
 ---
 
-## Erros Comuns de Prova
+## 2. Sinais Clássicos (Os nomes que caem na prova)
 
-- Pular pregunta-chave por "óbvio demais".
-- Confundir sinal de um órgão com manifestação de outro.
-- Não correlacionar sequência temporal dos sintomas.
+A Uninove adora cobrar os epônimos. Decore esses:
+- **Sinal de Blumberg:** Dor na descompressão brusca do ponto de McBurney. É o sinal clássico de **Apendicite/Peritonite**.
+- **Sinal de Murphy:** O paciente para de respirar (apneia) quando você aperta o ponto cístico. Indica **Colecistite** (pedra inflamada na vesícula).
+- **Sinal de Giordano:** Dor intensa à punho-percussão nas costas. Indica **Pielonefrite** (infecção no rim).
+- **Sinal de Jobert:** Desaparecimento da macicez hepática (fica tudo oco onde deveria ser sólido). Indica **Perfuração de Víscera** (ar solto na barriga).
 
-> **Dica de Prova:** entre duas alternativas sobre semiologia, escolha a que respeita o raciocínio lógico de "primeiro pergunta", "depois exame", "depois integra".
+---
+
+## 3. Pesquisando Ascite (Líquido na Barriga)
+
+Para saber se o abdome globoso é gordura ou líquido, usamos:
+- **Macicez Móvel:** Você percute o paciente deitado e depois de lado. Se o barulho "maciço" (líquido) mudar de lugar conforme ele vira, o teste é positivo.
+- **Sinal do Piparote:** Você dá um "peteleco" de um lado da barriga e sente a onda bater na outra mão. Só funciona em ascites volumosas.
+
+---
+
+## 4. O Toque Retal: Não é opcional
+
+Em casos de abdome agudo, o toque retal faz parte do exame físico abdominal superior.
+- **Por que fazer?** Pode detectar sangue escondido, tumores ou dor intensa no fundo de saco, o que ajuda a confirmar inflamações pélvicas ou apendicites baixas.
+
+---
+
+## Ponte com a Clínica
+
+No pronto-socorro, o sinal de **Blumberg** é o seu maior aliado. Se o paciente tem uma dor forte e, ao você soltar a mão rapidamente, ele dá um pulo de dor, o peritônio está irritado. Isso muda o paciente da "observação" para o "centro cirúrgico". Lembre-se também de observar a **Fáscies** do paciente: um paciente com peritonite fica imóvel, com medo de respirar; já o paciente com cólica renal está inquieto, rolando na maca sem achar posição.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Ordem Técnica**: Ausculta precede percussão e palpação para não alterar a motilidade intestinal.
+- **Sinal de Murphy**: Patognomônico de colecistite aguda quando associado à clínica clássica.
+- **Espaço de Traube**: Local onde percutimos o baço; se estiver maciço, sugere esplenomegalia.
+- **Sinal de Jobert**: Sinal de gravidade extrema; indica pneumoperitônio (ar fora das alças).
+- **Contratura Involuntária**: O "abdome em tábua" é o sinal máximo de peritonite generalizada.
+
+---
 
 ## Pré-Prova
 
-> Leia 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Exame Físico, foque na sequência e nos sinais. 
+**Inspeção -> Ausculta -> Percussão -> Palpação**. Se a questão descreve dor que "piora ao soltar a mão", a resposta é **Blumberg**. Se o paciente "trava a respiração no aperto", é **Murphy**.
 
-Ordem: inspeciona ANTES de auscultar, ausculta ANTES de palpar — sempre. Inspeção: distensão, retração, simetria, cicatrizes, movimentação respiratória. Ausculta: sons presentes/ausentes/aumentados? Mínimo 15 segundos por região.
-
-Palpação superficial: validar defesa vs rigidez; defesa localizada fala mais que difusa. Palpação profunda: organomegalia (baço > fígado > rins); massas; sensibilidade exata. Manobras: Rovsing, Blumberg, Murphy, McBurney — saber indicação de cada.
-
-Sinal de Rovsing + FID sensível + histórico apendicite: apendicite confirmada clinicamente. Rigidez generalizada + febre + anamnese peritoneal: peritonite generalizada, PS agora.
+A Uninove adora o **Giordano**. Lembre-se: é punho-percussão lombar, não é na frente da barriga. Outro ponto forte: o **Timpanismo** é o som normal do estômago e intestino; se houver **Macicez** onde deveria ser oco, pense em tumor ou líquido. Por fim, saiba que o baço só é palpável se estiver aumentado pelo menos 3 vezes o seu tamanho normal.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Achado | Peritoneal | Visceral | Como diferenciar |
-|--------|-----------|---------|------------------|
-| Defesa muscular | Endurecida, involuntária | Leve, relaxa com respiração | Peritoneal não relaxa; visceral melhora com relaxamento |
-| Distribuição | Difusa / múltiplas regiões | Focal, exatamente onde dói | Peritonite afeta todo; colecistite afeta RUQ exatamente |
-| Manobra Rovsing | POSITIVO | Negativo | Pressiona FIE, dor em FID = peritoneal |
-| Blumberg (rebote) | Dor intensa ao soltar | Pouca dor | Peritonial parietal dói ao tirar a mão |
-| Som intestinal | Ausente / diminuído | Normal | Peritonite paralisa; visceral não |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Blumberg** | **Murphy** | Dor ao **Soltar** (Apendicite) vs Dor ao **Inspirar** (Vesícula) |
+| **Giordano** | **Jobert** | Problema no **Rim** (Costas) vs **Ar na Barriga** (Fígado) |
+| **Ausculta** | **Palpação** | **Ouvir** o intestino vs **Apertar** os órgãos |
+| **Timpanismo** | **Macicez** | Som de **Ar** (Normal) vs Som de **Sólido/Líquido** |
+| **Piparote** | **Macicez Móvel** | Onda de **Choque** vs Líquido que **Corre** pro lado |
 
 ### Frase-âncora para não esquecer
 
-> **"Inspeção, ausculta, shallow palpate, deep palpate, manobras. Rigidez endurecida = peritonite. Defesa localizada = irritação. Rovsing + McBurney = apendicite clinicamente."**
+> "O Olho olha, o Ouvido escuta, e só depois a Mão percute e palpa. Se Murphy para a respiração e Blumberg faz pular no soltão, o cirurgião tem que entrar em ação."

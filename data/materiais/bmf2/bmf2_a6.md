@@ -1,4 +1,4 @@
-# BMF2 — Aula 6: ECG e ciclo cardíaco
+# BMF2 — Aula 6: ECG e Ciclo Cardíaco
 
 **Disciplina:** Bases Morfofuncionais 2  
 **Módulo:** 2 | **Tempo de estudo sugerido:** 25-35 min
@@ -7,177 +7,84 @@
 
 ## Relevância Clínica e Acadêmica
 
-O eletrocardiograma (ECG) é a ferramenta de triagem elétrica mais usada na medicina. Na graduação, ele aparece como ponte entre fisiologia básica e decisão clínica inicial. Nesta aula, o objetivo não é decorar letras, e sim entender a sequência elétrica e sua repercussão mecânica.
+O eletrocardiograma (ECG) é o registro da atividade elétrica do coração e a ferramenta diagnóstica mais acessível na cardiologia. Nesta aula, o foco não é apenas identificar ondas, mas compreender a **correlação elétrico-mecânica**: como cada deflexão no papel antecipa um evento de contração, relaxamento ou abertura valvar.
 
-A banca costuma cobrar a lógica `evento elétrico -> alteração de pressão/fluxo -> sintoma/achado clínico`. Quando você domina essa sequência, interpreta melhor arritmias, bloqueios e sinais de isquemia.
+Na prática clínica, o ECG é vital para a decisão imediata em casos de **dor torácica**, **síncope** e **arritmias**. Dominar a lógica do traçado permite ao médico prever complicações hemodinâmicas: um atraso elétrico no nó AV (Intervalo PR) pode significar um prejuízo no enchimento ventricular, assim como uma alteração no Segmento ST pode ser o sinal precoce de um infarto em curso.
 
-Na prática, isso evita dois erros comuns: chamar de "normal" um traçado com intervalos alterados e supervalorizar um achado isolado sem contexto clínico.
+---
 
-## Fundamentos do traçado: o que cada parte representa
+## Anatomia do Traçado e Eventos Elétricos
 
-A onda **P** corresponde à despolarização atrial.
-O complexo **QRS** corresponde à despolarização ventricular.
-A onda **T** corresponde à repolarização ventricular.
-A repolarização atrial existe, mas fica encoberta pelo QRS no ECG de superfície.
+O ECG traduz a soma dos vetores elétricos que percorrem o coração. A sequência inicia-se na **Onda P**, que representa a despolarização dos átrios. Logo após, o estímulo sofre um atraso fisiológico no nó AV — visível no **Intervalo PR** — antes de invadir os ventrículos. O potente **Complexo QRS** sinaliza a despolarização ventricular massiva, enquanto a **Onda T** marca o processo de repolarização, preparando o miocárdio para o próximo ciclo.
 
-O **intervalo PR** mede o tempo entre início da ativação atrial e início da ativação ventricular.
-Ele inclui a condução pelo nó AV, principal ponto de atraso fisiológico.
-O **segmento ST** representa período em que grande parte dos ventrículos está despolarizada.
-No normal, o ST é aproximadamente isoelétrico.
+É fundamental entender que a repolarização atrial também ocorre, mas é "escondida" pela magnitude elétrica do QRS. Além disso, intervalos como o **QT**, que engloba desde o início da despolarização até o fim da repolarização ventricular, são marcadores críticos de estabilidade elétrica; seu prolongamento aumenta drasticamente o risco de arritmias fatais.
 
-O **intervalo QT** vai do início do QRS ao fim da onda T.
-Ele reflete o tempo elétrico total ventricular (despolarização + repolarização).
-Por depender da frequência cardíaca, costuma-se olhar QT corrigido (QTc) na prática.
+---
 
-> **Dica de Prova:** sempre descreva em ordem: ritmo, frequência, eixo (quando pedido), ondas, intervalos e segmentos.
+## Sincronia Elétrico-Mecânica: Ciclo e Bulhas
 
-> **Pegadinha:** confundir "segmento" com "intervalo"; segmento não inclui onda, intervalo inclui.
+A eletricidade sempre precede a mecânica. A **Onda P** dispara a sístole atrial, garantindo o "chute" final de sangue para os ventrículos. O **Complexo QRS**, ao sinalizar a ativação ventricular, marca o início da sístole mecânica: a pressão sobe, as valvas AV se fecham e ouvimos a **Primeira Bulha (B1)**.
 
-### Algoritmo enxuto de leitura de ECG (passo a passo de prova)
+Durante o **Segmento ST**, o coração está em plena fase de **ejeção ventricular**. Quando a **Onda T** termina e o ventrículo se repolariza, a pressão intraventricular cai rapidamente. O fechamento das valvas semilunares, que impede o refluxo de sangue das artérias, produz a **Segunda Bulha (B2)**, sinalizando o início da diástole e do enchimento passivo.
 
-1. **Cheque calibração e artefato:** confirme papel padrão (25 mm/s e 10 mm/mV) e descarte tremor/ruído grosseiro.
-2. **Defina ritmo e frequência:** regular ou irregular; calcule FC aproximada e procure onda P antes de cada QRS.
-3. **Mensure PR e QRS:** PR entre 120-200 ms e QRS < 120 ms como referência inicial.
-4. **Avalie eixo e morfologia global:** só quando a questão pedir, sem perder tempo com detalhe não solicitado.
-5. **Leia ST, T e QTc:** procure supra/depressão de ST, inversão/hiperagudez de T e QTc prolongado.
-6. **Feche com síntese clínica em 1 frase:** "padrão elétrico + possível repercussão + conduta inicial/gravidade".
+### Tabela: O ECG como Espelho do Ciclo
 
-### Elementos básicos do ECG em comparação
+| Marco no ECG | Evento Mecânico | Status das Valvas | Som (Bulha) |
+|--------------|-----------------|-------------------|-------------|
+| **Onda P** | Sístole Atrial | AV Abertas | B4 (se presente) |
+| **QRS (Início)**| Sístole Ventricular| **Fechamento AV** | **B1** |
+| **Segmento ST**| Ejeção Máxima | Semilunares Abertas| - |
+| **Onda T (Fim)**| Relaxamento | **Fechamento Semil.**| **B2** |
 
-| Elemento | Evento elétrico principal | Faixa de referência (adulto) | Leitura prática inicial |
-|----------|---------------------------|------------------------------|-------------------------|
-| Onda P | Despolarização atrial | duração < 120 ms | Ausência sugere ritmo não sinusal |
-| Intervalo PR | Condução atrial + nó AV + His | 120-200 ms | Prolongado sugere BAV de 1º grau |
-| QRS | Despolarização ventricular | < 120 ms | Alargado sugere atraso de condução ventricular |
-| Segmento ST | Platô ventricular (fase despolarizada) | Próximo da linha de base | Supra/depressão orienta isquemia/lesão |
-| Onda T | Repolarização ventricular | morfologia variável por derivação | Inversão/hiperagudez deve ser contextualizada |
-| Intervalo QT/QTc | Tempo elétrico ventricular total | QTc ~ < 440-460 ms (contexto) | Prolongamento aumenta risco arrítmico |
+---
 
-## Correlação com fases mecânicas do ciclo cardíaco
+## Distúrbios de Condução e Raciocínio Clínico
 
-A contração mecânica vem após ativação elétrica.
-Portanto, o ECG antecipa eventos de pressão, abertura/fechamento valvar e bulhas.
+Alterações nos tempos de condução são as principais chaves diagnósticas no ECG básico. Se o **Intervalo PR** está aumentado (>200ms), estamos diante de um **Bloqueio Atrioventricular (BAV) de 1º Grau**, indicando um "atraso no freio" nodal. Se o QRS está alargado (>120ms), o sinal está encontrando resistência para percorrer os ventrículos, sugerindo um **Bloqueio de Ramo**.
 
-Após a onda P, ocorre sístole atrial.
-Essa sístole completa o enchimento ventricular no fim da diástole.
-Em ventrículo rígido, essa contribuição atrial fica ainda mais relevante.
+Pistas clínicas no traçado:
+*   **Ausência de Onda P:** Sugere que o ritmo não nasce no nó sinusal (ex: Fibrilação Atrial).
+*   **Alterações de ST:** Supra ou infradesnivelamentos indicam sofrimento miocárdico (Isquemia/Lesão).
+*   **QT Prolongado:** Alerta para o risco de síncope por *Torsades de Pointes*.
 
-Após o início do QRS, começa a sístole ventricular.
-Primeiro ocorre contração isovolumétrica, com fechamento das valvas AV.
-Esse fechamento (mitral e tricúspide) gera a **primeira bulha (B1)**.
-Quando a pressão ventricular supera a arterial, abrem-se aórtica e pulmonar e inicia a ejeção.
-
-Durante o segmento ST, o ventrículo permanece eletricamente despolarizado.
-Mecanicamente, corresponde ao período de ejeção ventricular.
-Por isso, alterações importantes de ST têm forte peso clínico em dor torácica.
-
-Com a repolarização ventricular (onda T), a contração perde força.
-Inicia-se o relaxamento isovolumétrico.
-Quando a pressão ventricular cai abaixo da arterial, fecham-se aórtica e pulmonar.
-Esse fechamento das semilunares gera a **segunda bulha (B2)**.
-Depois, quando a pressão ventricular cai abaixo da atrial, reabrem-se mitral/tricúspide e começa novo enchimento.
-
-### Linha do tempo integrada: elétrica, mecânica, valvar e bulhas
-
-| Marco no ECG | Fase mecânica predominante | Evento valvar dominante | Bulha associada |
-|--------------|----------------------------|--------------------------|-----------------|
-| Onda P | Sístole atrial (final da diástole) | AV abertas, semilunares fechadas | Sem bulha principal |
-| Início do QRS | Contração isovolumétrica | Fechamento de mitral/tricúspide | **B1** |
-| Segmento ST | Ejeção ventricular | Aórtica/pulmonar abertas | Sem bulha principal |
-| Final da T | Relaxamento isovolumétrico | Fechamento de aórtica/pulmonar | **B2** |
-| Pós-T (linha de base) | Enchimento ventricular | AV reabrem | Pode surgir B3/B4 em contextos específicos |
-
-## Erros comuns de interpretação básica e conexão com bloqueios/arrítmias iniciais
-
-Erro 1: avaliar só frequência e ignorar intervalos. Um paciente pode estar com FC normal e ter PR prolongado, QRS largo ou QTc aumentado.
-
-Erro 2: chamar todo QRS largo de "taquicardia ventricular". QRS largo também ocorre em bloqueios de ramo, ritmo ventricular estimulado e outras situações.
-
-Erro 3: considerar toda elevação de ST como infarto sem contexto. Pericardite, repolarização precoce e artefatos podem alterar ST; contexto clínico, derivações contíguas e evolução temporal são essenciais.
-
-Erro 4: esquecer que QT varia com frequência. Interpretar QT absoluto sem correção pode induzir erro, especialmente em taquicardia ou bradicardia.
-
-Erro 5: interpretar onda T isolada sem revisar segmento ST e sintomas. A mesma morfologia pode ter significado distinto em cenários diferentes.
-
-Ligação com distúrbios iniciais de condução e ritmo:
-- **BAV de 1º grau:** PR prolongado com condução 1:1.
-- **BAV de 2º grau tipo I (Wenckebach):** PR progressivamente maior até falha de QRS.
-- **BAV de 2º grau tipo II:** falhas súbitas de QRS sem alongamento progressivo de PR.
-- **Bloqueio de ramo:** QRS alargado com alteração de morfologia em derivações específicas.
-- **Fibrilação atrial (visão inicial):** ausência de ondas P organizadas e irregularidade RR.
-- **Flutter atrial (visão inicial):** atividade atrial serrilhada, muitas vezes com condução fixa.
-
-> **Dica de Prova:** quando aparecer "PR longo + todos QRS presentes", pense primeiro em BAV de 1º grau.
-
-> **Pegadinha:** achar que toda irregularidade RR é fibrilação atrial; extrassístoles frequentes também irregularizam.
-
-### Microcaso de prova: erro comum e correção (QRS largo)
-
-**Caso rápido:** paciente de 62 anos, palpitação, PA estável, FC 92 bpm, traçado com QRS de 140 ms.
-
-**Erro comum na prova:** marcar imediatamente "taquicardia ventricular".
-
-**Correção cirúrgica:** com FC não taquicárdica e estabilidade hemodinâmica, o primeiro passo é descrever o padrão (ritmo, PR, largura do QRS, ST/T) e considerar atraso de condução intraventricular, especialmente bloqueio de ramo, antes de rotular TV. Em questão básica, `QRS largo isolado != TV`.
+---
 
 ## Ponte com a Clínica
 
-No pronto atendimento, dor torácica com alteração de ST exige leitura rápida e sistemática.
-Na enfermaria, palpitação com irregularidade de pulso pede correlação entre sintomas, pulso e ECG.
-No ambulatório, síncope com distúrbio de condução pode ser pista de bloqueio AV significativo.
+**Caso Clínico:** Paciente idoso, hipertenso, queixa-se de tontura. O ECG mostra ondas P seguidas de QRS, mas o intervalo PR é fixo em 280ms.
 
-A integração útil para o internato é simples: ECG não é exame "solto". Ele precisa ser lido junto a sinais vitais, história clínica, exame físico e estratificação de risco.
-
-Quando o traçado sugerir alteração de condução, faça três perguntas objetivas:
-- isso explica o sintoma principal?
-- há repercussão hemodinâmica?
-- existe necessidade de monitorização imediata?
-
-### Figura sugerida
-
-**Figura única integrada (alto rendimento):** diagrama em dois eixos temporais sincronizados.
-- Eixo superior: ECG com P, QRS, ST e T claramente marcados.
-- Eixo inferior: ciclo mecânico com fases (sístole atrial, contração isovolumétrica, ejeção, relaxamento isovolumétrico, enchimento).
-- Sobreposição de eventos valvares e bulhas: fechamento AV = B1 no início do QRS; fechamento semilunares = B2 ao final da T.
-- Faixa lateral com "atalho de prova": PR (condução AV), QRS (ativação ventricular), ST (ejeção), T (início do relaxamento).
+**Análise Integrada:**
+O diagnóstico é de **BAV de 1º grau**. Fisiologicamente, o impulso está levando mais tempo para atravessar o nó AV. Embora todos os batimentos cheguem aos ventrículos, o tempo excessivo de condução pode dessincronizar levemente o enchimento, especialmente em frequências mais altas. No contexto de tontura, deve-se investigar se o atraso está evoluindo para bloqueios mais graves que reduzam o débito cardíaco.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Onda **P**: despolarização atrial e início do gatilho mecânico atrial.
-- Complexo **QRS**: despolarização ventricular e começo da sístole ventricular.
-- Onda **T**: repolarização ventricular e transição para relaxamento.
-- **PR** prolongado sugere atraso de condução AV.
-- **QT/QTc** prolongado aumenta risco de arritmia ventricular.
-- **ST** deve ser analisado com clínica e derivações contíguas.
-- Fechamento das AV no início da sístole gera **B1**.
-- Fechamento das semilunares no fim da ejeção gera **B2**.
-- Evento elétrico antecede evento mecânico em todo ciclo.
-- Leitura básica boa evita confundir bloqueio de ramo com arritmia ventricular grave.
+*   **P-QRS-T:** Despolarização atrial, ventricular e repolarização ventricular, respectivamente.
+*   **Intervalo PR:** Reflete a saúde da condução pelo Nó AV (Nível de prova: 120-200ms).
+*   **B1 e B2:** Ocorrem logo após o QRS e no final da T, respectivamente.
+*   **Segmento ST:** Momento da sístole ventricular onde o sangue é ejetado.
+*   **Ordem Cronológica:** O evento elétrico sempre acontece milissegundos antes do mecânico.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-Na prova, pense no ECG como um mapa temporal. A onda P mostra ativação atrial, o QRS mostra ativação ventricular e a onda T marca recuperação ventricular. Se a questão pede "o que aconteceu primeiro", a resposta correta quase sempre começa no evento elétrico e só depois vai para o mecânico.
 
-O intervalo PR representa condução até o ventrículo, então PR prolongado aponta atraso AV. O segmento ST deve ser lido como fase de ventrículo eletricamente ativo e mecanicamente ejetando sangue; por isso, suas alterações têm grande peso em dor torácica. Já o QT (preferencialmente QTc) traduz duração elétrica ventricular total e, quando prolongado, sinaliza risco arrítmico.
+Na prova, use o ECG como um cronômetro: a **Onda P** é o aviso para o átrio contrair. O **Complexo QRS** é o gatilho para a sístole ventricular e o fechamento das valvas AV (**B1**). A **Onda T** é o sinal de "cessar fogo" elétrico, levando ao relaxamento e ao fechamento das semilunares (**B2**).
 
-Para conectar com ausculta e ciclo mecânico: início do QRS antecede fechamento de mitral/tricúspide e B1; fim da ejeção, próximo ao final da T, precede fechamento de aórtica/pulmonar e B2. Esse encadeamento resolve muitas questões integradas de fisiologia com semiologia.
-
-Erros que derrubam nota: interpretar traçado por um único achado, ignorar intervalo PR/QT, chamar qualquer QRS largo de taquicardia ventricular e esquecer que irregularidade de RR não é sinônimo de fibrilação atrial. Em itens de bloqueio e arritmia iniciais, a banca quer padrão, não diagnóstico ultraespecializado.
+Guardar os valores de referência é essencial: PR até 200ms e QRS até 120ms. Se o PR for maior, é bloqueio AV; se o QRS for maior, é bloqueio de ramo. Em questões de "o que acontece durante o segmento ST", lembre-se que o ventrículo está contraído e ejetando sangue (fase de ejeção), sendo o período de platô do potencial de ação.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Onda P | Onda T | P = despolarização atrial; T = repolarização ventricular |
-| Intervalo PR | Segmento ST | PR mede condução AV; ST avalia fase ventricular despolarizada |
-| QRS estreito | QRS largo | Estreito sugere condução ventricular usual; largo sugere atraso intraventricular |
-| BAV de 1º grau | BAV de 2º grau tipo I | 1º grau: PR longo fixo com QRS sempre presente; tipo I: PR aumenta progressivamente até falha de QRS |
-| Fibrilação atrial | Extrassístoles frequentes | FA: ausência de P organizada e irregularidade sustentada; extrassístole: batimentos prematuros intercalados |
+| **Onda P** | **Complexo QRS** | Ativação **Atrial** vs Ativação **Ventricular** |
+| **Intervalo PR** | **Segmento ST** | Tempo de condução Nó AV vs Fase de ejeção ventricular |
+| **B1** | **B2** | Ocorre no início do QRS vs Ocorre no final da Onda T |
+| **BAV 1º Grau** | **Fibrilação Atrial** | Tem P (mas PR longo) vs **Não tem P** (RR irregular) |
 
 ### Frase-âncora para não esquecer
+
 > "No coração, a eletricidade escreve o roteiro e a mecânica entra em cena logo depois."

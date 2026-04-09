@@ -1,103 +1,92 @@
-# ST — Aula 5: Normas Regulamentadoras (NR)
+# ST — Aula 7: Nexo Causal em Saúde do Trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+Estabelecer o nexo causal é provar que a doença do paciente nasceu ou piorou por causa do trabalho dele. Na prova, os temas centrais são o reconhecimento da **Temporalidade**, o uso do **NTEP** (nexo estatístico do INSS) e a emissão correta da **CAT**.
+
+Na prática, o médico é quem dá voz ao trabalhador. Provar o nexo garante que o paciente tenha acesso a benefícios como o **Auxílio-Doença Acidentário** (B91), que dá estabilidade no emprego, diferente do auxílio comum (B31). Sem o seu laudo fundamentado, o trabalhador perde direitos e a empresa continua operando com riscos sem ser cobrada por melhorias.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As Normas Regulamentadoras (NRs) são regulamentos do Ministério do Trabalho e Emprego (MTE) que estabelecem requisitos mínimos de segurança e saúde no trabalho. A **Uninove** cobra especialmente as NRs mais relevantes para a medicina: NR-7 (PCMSO), NR-9 (PPRA/PGRO), NR-15 (atividades insalubres), NR-16 (atividades perigosas) e NR-32 (saúde em serviços de saúde).
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A7-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de critérios de nexo.
+- **O que mostrar:** A "Balança da Justiça Médica": De um lado, os pratos da **História Clínica** e **Exames**. Do outro, o **NTEP** e a **Vistoria no Local**. A decisão de nexo deve equilibrar a evidência individual com a chance estatística.
+- **Tipo sugerido:** Infográfico didático | Ilustração simbólica.
+- **Legenda (rascunho):** Critérios fundamentais para a determinação do nexo técnico-causal.
 
+## 1. O que é o Nexo Causal?
 
-
-
----
-
-## NR-7 — Programa de Controle Médico de Saúde Ocupacional (PCMSO)
-
-Obriga a realização de exames médicos ocupacionais:
-- **Admissional:** antes do início das atividades.
-- **Periódico:** conforme risco e faixa etária.
-- **Retorno ao trabalho:** após afastamento > 30 dias.
-- **Mudança de função:** sempre que houver alteração de exposição a risco.
-- **Demissional:** até a data da homologação da demissão.
-
-O médico do trabalho é coordenador do PCMSO. A empresa é responsável pela implementação e custeio.
-
-> **Dica de Prova:** NR-7 = PCMSO = exames médicos ocupacionais. Exame demissional evita litígios sobre doenças adquiridas no trabalho.
+É a "ponte" entre o trabalho e a doença. Para o médico cruzar essa ponte, ele precisa de critérios:
+- **Temporalidade:** A doença começou depois que ele entrou no trabalho? Ou piorou drasticamente lá dentro?
+- **Plausibilidade:** Faz sentido médico? (Ex: Exposição a ruído causa surdez? Sim. Causa dor de estômago? Provavelmente não).
+- **Intensidade:** Ele ficou exposto tempo o suficiente ou em dose alta o suficiente para adoecer?
+- **Melhora-Piora:** O sintoma diminui quando ele está de folga?
 
 ---
 
-## NR-9 — PPRA/PGRO (Riscos Ambientais)
+## 2. NTEP: O Nexo do INSS
 
-O **PPRA** (Programa de Prevenção de Riscos Ambientais) identificava, avalia e controla riscos no ambiente de trabalho: físicos (ruído, calor, frio, radiação), químicos (poeiras, gases, vapores) e biológicos (microrganismos). Atualizado pela NR-1 para o **PGRO** (Programa de Gerenciamento de Riscos Ocupacionais) — abordagem mais integrada incluindo também riscos ergonômicos e de acidente.
-
----
-
-## NR-15 — Atividades e Operações Insalubres
-
-Define que certas atividades com exposição a agentes nocivos (ruído, calor, produtos químicos, agentes biológicos) geram **adicional de insalubridade**: graus máximo (40%), médio (20%) ou mínimo (10%) sobre o salário-mínimo.
+O Nexo Técnico Epidemiológico Previdenciário (NTEP) é uma ferramenta do governo que ajuda na perícia.
+- **Como funciona:** O INSS olha o **CID** (doença) e o **CNAE** (ramo da empresa). Se existe uma estatística forte de que aquele ramo causa aquela doença (ex: depressão em bancários), o nexo é presumido automaticamente.
+- **Dica:** O NTEP inverte o ônus da prova. A empresa é que tem que provar que a doença do funcionário **Não** foi causada pelo trabalho.
 
 ---
 
-## NR-16 — Atividades Perigosas
+## 3. Concausalidade: O Trabalho como Vilão Coadjuvante
 
-Atividades com risco de explosão, choque elétrico, radiação ionizante, segurança pessoal ou patrimonial → **adicional de periculosidade de 30%** sobre o salário-base.
-
-> **Pegadinha:** insalubridade e periculosidade NÃO se acumulam. O trabalhador opta pelo mais vantajoso.
+Muitas vezes o trabalho não é a única causa, mas ele ajuda a estragar a saúde.
+- **O Conceito:** O trabalhador já tinha um problema de coluna por genética, mas o carregamento de peso na fábrica fez a hérnia de disco "estourar".
+- **A Decisão:** Isso também é considerado **Acidente de Trabalho**. O trabalho atuou como uma **Concausa**, acelerando ou agravando uma doença que já existia.
 
 ---
 
-## NR-32 — Segurança e Saúde no Trabalho em Serviços de Saúde
+## 4. CAT (Comunicação de Acidente de Trabalho)
 
-Estabelece diretrizes para proteção dos profissionais de saúde: EPIs adequados, vacinação obrigatória (HBV, tétano, influenza), protocolos para acidentes com material biológico (conduta pós-exposição), ergonomia e organização do trabalho em hospitais.
+A CAT é o documento oficial que informa o evento.
+- **Quem emite:** A empresa deve emitir. Se ela se recusar, o **Médico**, o sindicato ou o próprio trabalhador podem emitir.
+- **Prazo:** No caso de acidente ou doença, até o primeiro dia útil seguinte. Em caso de **Morte**, a comunicação deve ser **Imediata**.
+- **Tipos de CAT:** Inicial (novo caso), Reabertura (piora de caso antigo) ou Comunicação de Óbito.
+
+---
+
+## Ponte com a Clínica
+
+No seu consultório, o paciente pode chegar pedindo um laudo para o INSS. Não escreva apenas "paciente com dor nas costas, sugiro afastamento". Escreva: "Paciente exerce função de servente, com levantamento de cargas de 30kg por 8h diárias, sem pausas (Nexo ocupacional provável por sobrecarga biomecânica - CID M54.5)". Esse laudo técnico ajuda o perito a reconhecer o **Nexo Técnico** e garante que o paciente receba o benefício correto, protegendo o seu emprego por um ano após a alta médica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **NR-7 = PCMSO:** exames admissional, periódico, retorno, mudança de função, demissional.
-- **NR-9 = PPRA/PGRO:** riscos físicos, químicos, biológicos.
-- **NR-15:** insalubridade — adicional de 10%, 20% ou 40%.
-- **NR-16:** periculosidade — adicional de 30% do salário-base.
-- **NR-32:** saúde em serviços de saúde; vacinação obrigatória.
-- **Insalubridade + periculosidade:** não se acumulam — opta-se pelo melhor.
+- **Nexo Técnico**: Unificado pela relação entre o agente (ambiente) e o efeito (corpo).
+- **CAT**: Deve ser emitida mesmo sem afastamento, para fins de registro e vigilância.
+- **Auxílio B91**: Benefício acidentário; garante FGTS durante o afastamento e estabilidade de 1 ano.
+- **Auxílio B31**: Benefício previdenciário comum; não dá estabilidade nem FGTS.
+- **Concausa**: O trabalho que agrava uma lesão preexistente é legalmente equiparado ao acidente de trabalho.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Nexo Causal, foque nas siglas e direitos. 
+**CAT** = Registro oficial. **NTEP** = Estatística do INSS. **B91** = Acidentário (Bom). **B31** = Comum (Ruim para o trabalhador).
 
-NR-7 = PCMSO = 5 tipos de exame médico. Exame admissional: ANTES de iniciar atividades.
-
-NR-15: insalubridade (10/20/40%); NR-16: periculosidade (30%). Não acumulam: ou insalubre OU perigoso.
-
-NR-32: profissionais de saúde, EPIs + vacinação + protocolo pós-exposição.
+A Uninove adora o **Nexo por Concausalidade**. Se o paciente já tinha diabetes e sofreu um corte no pé que não cicatriza por causa do trabalho, o trabalho é concausa e a CAT deve ser aberta. Outro ponto forte: o **NTEP** liga o CNAE da empresa ao CID do paciente. Por fim, lembre-se: o médico assistente (você) não dá o benefício; você dá o **Laudo Subsidia** a decisão do perito do INSS.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Insalubridade | Periculosidade | Insalubridade: risco à saúde a longo prazo; periculosidade: risco imediato de morte |
-| PCMSO (NR-7) | PPRA/PGRO (NR-9) | PCMSO: exames médicos; PPRA: mapeamento e controle de riscos ambientais |
-| Exame admissional | Exame periódico | Admissional: antes de entrar; periódico: durante o vínculo |
-| NR-15 | NR-16 | NR-15: insalubre (saúde); NR-16: perigoso (acidente/morte) |
+| **Nexo Causal** | **Concausa** | Trabalho é a **Causa Única** vs Trabalho **Agravou** |
+| **B91 (Acidentário)** | **B31 (Previdenciário)** | Tem **Estabilidade** vs **NÃO tem** estabilidade |
+| **CNAE** | **CID** | Ramo da **Empresa** vs Código da **Doença** |
+| **CAT Inicial** | **CAT Reabertura** | Caso **Novo** vs **Piora** de algo antigo |
+| **Morte** | **Acidente de Trabalho** | Notificação **Imediata** vs Até o **Próximo Dia Útil** |
 
 ### Frase-âncora para não esquecer
 
-> "PCMSO cuida da saúde do trabalhador com exames; PGRO mapeia os riscos do ambiente. Juntos formam a defesa da saúde ocupacional."
+> "Se o trabalho foi o gatilho, o cano ou a pólvora, há nexo ou concausa. Abra a CAT, fundamente o laudo e garanta que o B91 proteja quem produz e adoece."

@@ -1,185 +1,92 @@
 # BMF3 — Aula 18: Anatomia e Histologia do Sistema Reprodutor Feminino
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O sistema reprodutor feminino é o palco da vida e um dos sistemas mais dinâmicos do corpo humano. Na prova, os temas centrais são a anatomia da **Tuba Uterina** (especialmente onde ocorre a fertilização), as fases dos **Folículos Ovarianos** e as camadas do **Útero** que se preparam para a gravidez.
+
+Na prática, entender esses detalhes é o que permite ao médico diagnosticar uma gravidez fora do lugar (**Ectópica**) ou identificar precocemente um câncer de colo de útero no exame de Papanicolaou.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O sistema reprodutor feminino é complexo, cíclico e hormônio-dependente. A anatomia uterina, ovariana e tubária fundamenta o entendimento de endometriose, aborto espontâneo, gravidez ectópica, miomatose e neoplasias ginecológicas. A **Uninove** cobra frequentemente a histologia do ovário, endométrio e colo uterino.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A18-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de útero e tubas.
+- **O que mostrar:** O "Mapa da Fertilização": Um esquema mostrando o ovário soltando o ovócito, a fímbria capturando-o e o encontro com o espermatozoide na **Ampola** da tuba. Mostrar também a descida do embrião até as camadas do **Endométrio**.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Anatomia interna feminina e o trajeto da fertilização.
 
+## 1. Ovários: O Berço dos Óvulos
 
-
-
----
-
-## 1. Anatomia do Sistema Reprodutor Feminino
-
-### Órgãos e Funções
-
-| Estrutura | Função |
-|-----------|--------|
-| **Ovários** | Ovogênese + produção de estrogênio e progesterona |
-| **Tubas uterinas (trompas)** | Captação do ovócito; local de fertilização (ampola) |
-| **Útero** | Implantação, gestação, parto |
-| **Colo uterino (cérvix)** | Muco cervical; barreira contra infecção; dilatação no parto |
-| **Vagina** | Órgão copulatório feminino; canal do parto |
-| **Vulva** | Órgãos externos (grandes e pequenos lábios, clitóris, vestíbulo) |
+Os ovários produzem os gametas e os hormônios sexuais (**Estrogênio e Progesterona**).
+- **Córtex Ovariano:** É a camada externa onde ficam os "ninhos" de óvulos, chamados **Folículos**.
+- **Folículo de De Graaf:** É o estágio final, uma "bolha" grande que explode para soltar o óvulo (**Ovulação**).
+- **Corpo Lúteo:** O que sobra da bolha após a ovulação. Ele vira uma fábrica temporária de **Progesterona** para segurar a gravidez inicial.
 
 ---
 
-## 2. Ovário — Anatomia e Histologia
+## 2. Tubas Uterinas: O Local do Encontro
 
-### Localização
-
-- Na cavidade pélvica, suspenso pelo **ligamento largo** e pelo **ligamento suspensor do ovário** (infundibulopélvico — contém vasos ovarianos)
-- Dimensões: ~3-5 × 2 × 1 cm
-- Não tem serosa (diferente das outras vísceras pélvicas) — coberto pelo **epitélio germinativo** (cúbico simples)
-
-### Histologia do Ovário
-
-| Zona | Estrutura | Conteúdo |
-|------|-----------|----------|
-| **Córtex** | Externa | Folículos em vários estágios de desenvolvimento (primordial, primário, secundário, terciário/de De Graaf) |
-| **Medula** | Interna | Tecido conjuntivo, vasos, nervos; sem folículos |
-
-### Folículos Ovarianos — Classificação
-
-| Folículo | Estágio | Características Histológicas |
-|---------|---------|------------------------------|
-| **Primordial** | Quiescente | Ovócito I + camada única de células foliculares achatadas |
-| **Primário** | Início do crescimento | Ovócito I + zona pelúcida + células foliculares cúbicas (1 camada) |
-| **Secundário** | Crescimento | Múltiplas camadas de células granulosas + tecas (interna e externa) |
-| **Terciário (De Graaf)** | Pré-ovulatório | Antro folicular + granulosa + cúmulo oóforo (suporta ovócito) |
-| **Corpo lúteo** | Pós-ovulatório | Células lúteas (granulosa luteinizada) — produz progesterona + estrogênio |
-| **Corpo albicante** | Regressivo | Cicatriz de tecido conjuntivo hialino |
+As trompas são tubos delicados que ligam o ovário ao útero.
+- **Ampola:** É a parte mais larga da tuba. É exatamente **AQUI** que ocorre a **Fertilização** (encontro do óvulo com o espermatozoide).
+- **Cílios:** O interior da tuba é cheio de pelos microscópicos que "varrem" o embrião em direção ao útero.
+- **Gravidez Ectópica:** Ocorre quando o embrião fica preso na tuba e começa a crescer ali, o que é uma emergência médica grave por risco de ruptura.
 
 ---
 
-## 3. Tubas Uterinas (Trompas de Falópio)
+## 3. Útero: Onde a Vida se Fixa
 
-### Segmentos
-
-| Segmento | Local | Importância |
-|---------|-------|------------|
-| **Intramural** | Na parede uterina | — |
-| **Istmo** | Medial, estreito | — |
-| **Ampola** | Lateral, mais larga | **Local da fertilização** |
-| **Infundíbulo** | Extremidade + fímbrias | Captação do ovócito |
-
-### Histologia
-
-- Epitélio **colunar pseudoestratificado cilíado** (cílios batem em direção ao útero — empurram ovócito/embrião)
-- Células secretoras (secretam nutrientes para o ovócito)
-- Muscular lisa (peristaltismo para mover o zigoto)
-
-> **Gravidez ectópica:** Implantação na ampola (mais comum — ~70% das ectópicas) ou istmo, intramural, ovário, cavidade peritoneal.
+O útero é um músculo poderoso com três camadas:
+- **Perimétrio:** A capa externa.
+- **Miométrio:** A parede muscular grossa que faz as contrações do parto.
+- **Endométrio:** A "cama" de sangue e glândulas onde o bebê se fixa (**Nidação**). É a camada que descama e sai na **Menstruação** todo mês se não houver gravidez.
 
 ---
 
-## 4. Útero — Anatomia e Histologia
+## 4. Colo do Útero (Cérvix) e a JEC
 
-### Divisões do Útero
-
-- **Fundo** (acima das trompas)
-- **Corpo** (porção média)
-- **Istmo** (junção corpo-colo)
-- **Colo (cérvix)** (porção vaginal)
-
-### Histologia da Parede Uterina
-
-| Camada | Nome Específico | Características |
-|--------|----------------|----------------|
-| **Serosa/Adventícia** | Perimétrio | Peritoneu que cobre o útero |
-| **Muscular** | **Miométrio** | 3 camadas de músculo liso entrelaçadas; hipertrofia na gravidez |
-| **Mucosa** | **Endométrio** | Alvo hormonal; varia no ciclo menstrual |
-
-### Endométrio — Camadas
-
-| Camada | Denominação | Destino no Ciclo |
-|--------|-------------|-----------------|
-| **Funcional** (2/3 superficiais) | Statum functionale | Descama na menstruação |
-| **Basal** (1/3 profundo) | Stratum basale | Regenera o endométrio funcional |
-
-Endométrio no período secretor (fase lútea):
-- Glândulas tortuosas com secreção glicoproteica
-- Estroma decidualizado (células estromais grandes)
-- Artérias espiraladas
-
----
-
-## 5. Colo Uterino (Cérvix)
-
-### Junção Escamocolunar (JEC)
-
-- **Ectocérvix:** epitélio escamoso estratificado (como vagina)
-- **Endocérvix (canal cervical):** epitélio colunar mucoso simples (glândulas cervicais = nabothian cysts)
-- **JEC (junção escamocolunar):** zona de transformação — local preferencial de desenvolvimento do carcinoma do colo do útero por HPV
-
-> **Colposcopia:** Visualiza a zona de transformação. O Papanicolaou (Pap test) coleta células dessa região.
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Fertilização ocorre na ampola (tuba), não no útero:** A implantação ocorre no útero (endométrio). São dois eventos distintos com locais diferentes.
-2. **Cílios das tubas batem em direção ao útero:** A discinesia ciliar primária (síndrome de Kartagener) → cílios não funcionam → infertilidade e bronquiectasias.
-3. **Corpo lúteo produz progesterona:** Após a ovulação, a granulosa luteiniza e passa a secretar progesterona (e estrogênio) — essencial para implantação.
-4. **Stratum basale NÃO descama na menstruação:** Só o funcional descama. O basale regenera o funcional no próximo ciclo.
-5. **JEC = zona de risco para HPV/carcinoma cervical:** O carcinoma escamoso do colo se origina na JEC onde ocorre metaplasia escamosa. Esta é a área amostrada pelo Papanicolaou.
-6. **Ovário não tem serosa:** É coberto por epitélio germinativo (cúbico), não por mesotélio. Isso é biologicamente relevante — a ovulação "rompe" esse epitélio ciclicamente.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei os segmentos da tuba e onde ocorre a fertilização (ampola)
-- [ ] Sei a histologia do ovário: córtex com folículos; medula sem folículos
-- [ ] Sei os estágios foliculares (primordial → De Graaf → corpo lúteo → albicante)
-- [ ] Sei as camadas do útero (perimétrio, miométrio, endométrio)
-- [ ] Sei as camadas do endométrio (funcional descama; basal regenera)
-- [ ] Sei que a JEC é o local preferencial do carcinoma cervical e do Papanicolaou
+O colo é a porta de entrada do útero.
+- **JEC (Junção Escamocolunar):** É o ponto exato onde dois tipos de pele se encontram. É o local preferido do vírus **HPV** para causar lesões.
+- **Papanicolaou:** O exame preventivo coleta células justamente dessa área (**JEC**) para procurar sinais precoces de câncer.
 
 ---
 
 ## Ponte com a Clínica
 
-Na endometriose, o endométrio funcional migra para fora da cavidade uterina (ovários, peritônio, trompas) — onde implanta e sangra ciclicamente, causando inflamação crônica e fibrose → dismenorreia, dispareunia e infertilidade. Na síndrome dos ovários policísticos (SOP), há múltiplos folículos antrais pequenos que não progridem para De Graaf → sem ovulação → anovulação crônica. No carcinoma do colo do útero, o HPV (tipos 16 e 18) integra seu **DNA** ao genoma das células da JEC, bloqueando p53 e Rb → proliferação descontrolada → displasia → carcinoma.
+A **Endometriose** é uma doença onde pedaços do endométrio (que deveriam estar só dentro do útero) crescem fora dele, como nos ovários ou no intestino. Todo mês, esses pedaços sangram junto com a menstruação, mas o sangue não tem para onde sair, causando dores insuportáveis e podendo levar à infertilidade se causar cicatrizes nas **Tubas Uterinas**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Ampola da Tuba**: Único local onde deve ocorrer a **Fertilização**.
+- **Corpo Lúteo**: Produz **Progesterona** após a ovulação.
+- **Camada Basal**: A parte do endométrio que **NÃO descama** e serve para reconstruir a pele do útero após a menstruação.
+- **Líquido Folicular**: O líquido que enche o antro do folículo de De Graaf.
+- **Ectocérvix**: A parte do colo do útero que o médico vê no exame preventivo.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Reprodutor Feminino, não confunda fertilização com implantação. 
+O espermatozoide encontra o óvulo na **Ampola** da tuba (fertilização). O ovo fertilizado viaja por dias até "grudar" no **Endométrio** (implantação/nidação). No ovário, saiba a sequência: folículo pequeno -> grande (De Graaf) -> Corpo Lúteo (amarelo) -> Corpo Albicante (cicatriz branca).
 
-Fertilização: ampola da tuba | Implantação: endométrio do corpo uterino. Folículos: primordial → primário → secundário → De Graaf → corpo lúteo → albicante. Corpo lúteo: produz progesterona + estrogênio (após ovulação).
-
-Endométrio funcional: descama na menstruação | basal: regenera. JEC: zona de transformação = local de carcinoma cervical + Papanicolaou. Cílios das tubas: batem em direção ao útero (empurram ovócito).
-
-Ovário: sem serosa (epitélio germinativo cúbico).
+A Uninove ama cobrar sobre as camadas do útero. O **Miométrio** é o que cresce na gravidez; o **Endométrio Funcional** é o que cai no chão (menstruação); o **Endométrio Basal** é o que fica pra regenerar tudo. Sobre o câncer de colo, a área chave é a **JEC (Zona de Transformação)** — é ali que o HPV ataca e onde o ginecologista deve focar a coleta do preventivo.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Fertilização (ampola) | Implantação (endométrio) | Locais e momentos diferentes! 24-48h até implantação no 5°-7° dia |
-| Endométrio funcional | Endométrio basal | Funcional: descama; basal: permanece e regenera |
-| Ectocérvix | Endocérvix | Ecto: escamoso estratificado; Endo: colunar mucoso; JEC entre os dois |
-| Corpo lúteo | Corpo albicante | Lúteo: ativo, secreta progesterona; albicante: regressivo, cicatriz |
+| **Fertilização** | **Implantação (Nidação)** | Na **Tuba (Ampola)** vs No **Útero (Endométrio)** |
+| **Folículo de De Graaf** | **Corpo Lúteo** | Antes da Ovulação vs **Depois da Ovulação** |
+| **Endométrio Funcional** | **Endométrio Basal** | O que **Cai** vs O que **Fica** (regenera) |
+| **Ampola** | **Fímbrias** | Onde ocorre o **Encontro** vs Onde ocorre a **Captura** |
+| **Ectocérvix** | **Endocérvix** | Pele de Células **Achatadas** vs Pele de Células **Altas (glândulas)** |
 
 ### Frase-âncora para não esquecer
 
-> "Fertilização é na ampola, implantação é no endométrio — confundir esses dois lugares é confundir o encontro com o casamento: um acontece na tuba, o outro acontece no útero."
+> "O encontro (Fertilização) é na ampola, mas o casamento (Nidação) é no endométrio. O ovário faz o ovo e o hormônio; o corpo lúteo segura a gravidez com progesterona. O câncer de colo nasce na JEC, e a vida nasce no fundo do útero."

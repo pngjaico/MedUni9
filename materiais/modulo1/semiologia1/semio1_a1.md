@@ -17,13 +17,13 @@ A **Semiologia do Aparelho Locomotor** é a arte de distinguir a dor articular d
 - **O que mostrar:** fluxograma visual simples com as quatro etapas do exame locomotor: inspeção, palpação, amplitude de movimento e testes especiais.
 - **Tipo sugerido:** esquema didático.
 - **Legenda (rascunho):** "Sequência prática do exame locomotor do geral para o específico."
-- **Notas (opcional):** manter layout vertical para leitura em mobile.
+- **Notas:** manter layout vertical para leitura em mobile.
 
 ---
 
 ## Dor musculoesquelética: primeiro filtro clínico
 
-O primeiro filtro é temporal e funcional: quando a dor aparece, o que piora, o que alivia e como ela interfere na função. Esse filtro define se o exame vai priorizar articulação, partes moles ou avaliação neurológica.
+O primeiro filtro é **temporal e funcional**: quando a dor aparece, o que piora, o que alivia e como ela interfere na função. Esse filtro define se o exame vai priorizar articulação, partes moles ou avaliação neurológica.
 
 | Padrão de Dor | História Típica | Sugestão Diagnóstica |
 |----------------|-----------------|----------------------|
@@ -31,19 +31,20 @@ O primeiro filtro é temporal e funcional: quando a dor aparece, o que piora, o 
 | **Inflamatória**| **Rigidez matinal > 30 min**; melhora com movimento | Artrite Reumatoide, Espondilite |
 | **Neuropática** | Choque, queimação e **parestesia** | Radiculopatia, compressão |
 
-> **Dica de Prova:** perguntar o tempo da rigidez matinal em minutos tem mais valor que registrar apenas "acorda travado".
+> [!TIP]
+> Perguntar o tempo da **rigidez matinal em minutos** tem mais valor que registrar apenas "acorda travado".
 
 ---
 
 ## Topografia da dor: articular, periarticular e referida
 
-Localizar o ponto de máxima dor e compará-lo com a linha articular muda o diagnóstico diferencial. Dor exatamente na interlinha articular favorece acometimento articular; dor em tendão ou bursa aponta para processo periarticular.
+Localizar o **ponto de máxima dor** e compará-lo com a linha articular muda o diagnóstico diferencial. **Dor exatamente na interlinha articular** favorece acometimento **articular**; dor em tendão ou bursa aponta para processo **periarticular**.
 
 | Origem provável | Achado predominante | Exemplo clínico frequente |
 |-----------------|---------------------|---------------------------|
-| Articular | Dor na interlinha, edema articular, limitação passiva | Artrite, artrose em atividade |
-| Periarticular | Dor focal em tendão/bursa, dor à contração resistida | Tendinopatia, bursite |
-| Referida | Dor mal delimitada, exame local pobre | Dor de quadril referida no joelho |
+| **Articular** | Dor na interlinha, edema articular, limitação passiva | Artrite, artrose em atividade |
+| **Periarticular** | Dor focal em tendão/bursa, dor à contração resistida | Tendinopatia, bursite |
+| **Referida** | Dor mal delimitada, exame local pobre | Dor de quadril referida no joelho |
 
 ---
 
@@ -51,12 +52,13 @@ Localizar o ponto de máxima dor e compará-lo com a linha articular muda o diag
 
 A sequência recomendada é simples e reproduzível. Ela protege contra erro comum de "caçar teste especial" antes de construir hipótese.
 
-1. **Inspeção:** postura, simetria, deformidades, marcha e atitude antálgica.  
-2. **Palpação:** temperatura, dor à palpação, derrame, crepitação e pontos gatilho.  
-3. **Amplitude de movimento:** ativa primeiro e passiva depois, sempre comparando lados.  
-4. **Testes especiais e força:** apenas após hipótese inicial definida.
+1.  **Inspeção:** postura, simetria, deformidades, marcha e atitude antálgica.
+2.  **Palpação:** temperatura, dor à palpação, derrame, crepitação e pontos gatilho.
+3.  **Amplitude de movimento:** ativa primeiro e passiva depois, sempre comparando lados.
+4.  **Testes especiais e força:** apenas após hipótese inicial definida.
 
-> **Pegadinha:** limitação ativa com passiva preservada não significa, por si só, lesão estrutural grave; pode representar dor, inibição muscular ou receio de movimento.
+> [!IMPORTANT]
+> **Limitação ativa com passiva preservada** não significa, por si só, lesão estrutural grave; pode representar dor, inibição muscular ou receio de movimento.
 
 ---
 
@@ -64,11 +66,11 @@ A sequência recomendada é simples e reproduzível. Ela protege contra erro com
 
 | Padrão na avaliação | O que sugere |
 |---------------------|--------------|
-| Ativa e passiva reduzidas | Comprometimento articular/capsular |
-| Apenas ativa reduzida | Dor, fraqueza, ruptura parcial de partes moles |
-| Passiva maior que ativa com dor | Inibição por dor ou déficit de força |
+| **Ativa e passiva reduzidas** | Comprometimento **articular/capsular** |
+| **Apenas ativa reduzida** | Dor, fraqueza, ruptura parcial de partes moles |
+| **Passiva maior que ativa com dor** | Inibição por dor ou déficit de força |
 
-A descrição deve incluir lado, plano de movimento e grau de limitação. Termos vagos como "movimenta pouco" diminuem a qualidade da evolução clínica.
+A descrição deve incluir **lado, plano de movimento e grau de limitação**. Termos vagos como "movimenta pouco" diminuem a qualidade da evolução clínica.
 
 ---
 
@@ -93,13 +95,12 @@ Registrar apenas o número não basta; é essencial anotar qual movimento foi te
 - **O que mostrar:** quadro visual da escala de força muscular com exemplos rápidos de aplicação em ombro, joelho e tornozelo.
 - **Tipo sugerido:** esquema didático.
 - **Legenda (rascunho):** "Escala MRC e leitura clínica durante o exame físico."
-- **Notas (opcional):** evitar excesso de texto na arte.
 
 ---
 
 ## Red flags que não podem ser ignoradas
 
-Antes de concluir que a dor é benigna, é obrigatório rastrear sinais de alarme: febre, perda ponderal inexplicada, trauma relevante, imunossupressão, antecedente oncológico, dor noturna progressiva e déficit neurológico.
+Antes de concluir que a dor é benigna, é obrigatório rastrear **sinais de alarme**: febre, perda ponderal inexplicada, **trauma relevante**, imunossupressão, antecedente oncológico, dor noturna progressiva e déficit neurológico.
 
 Esses dados não fecham diagnóstico sozinhos, mas mudam prioridade de investigação e nível de urgência.
 
@@ -107,7 +108,7 @@ Esses dados não fecham diagnóstico sozinhos, mas mudam prioridade de investiga
 
 ## Ponte com a Clínica
 
-Paciente de 62 anos, dor lombar há seis semanas e perda de peso não intencional: mesmo com radiografia inicial pouco expressiva, a presença de red flag impede conduta simplista de "analgésico e retorno em três meses". Em contraste, lombalgia mecânica típica, sem red flags e com exame neurológico normal, geralmente permite manejo conservador inicial com reavaliação programada.
+Paciente de 62 anos, **dor lombar há seis semanas** e perda de peso não intencional: mesmo com radiografia inicial pouco expressiva, a **presença de red flag** impede conduta simplista de "analgésico e retorno em três meses". Em contraste, lombalgia mecânica típica, sem red flags e com exame neurológico normal, geralmente permite manejo conservador inicial com reavaliação programada.
 
 ---
 
@@ -123,7 +124,7 @@ Paciente de 62 anos, dor lombar há seis semanas e perda de peso não intenciona
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 

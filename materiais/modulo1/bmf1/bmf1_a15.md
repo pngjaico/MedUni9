@@ -1,90 +1,92 @@
 # BMF1 — Aula 15: Tegumento — Tecido Epitelial Glandular
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+As **Glândulas** são as fábricas químicas do corpo. Na prova, os temas centrais são a grande cisão entre glândulas **Exócrinas** (usam **Ductos** e focam no revestimento externo/interior de órgãos ocos) e as **Endócrinas** (jogam o hormônio direto no **Sangue**). 
+
+Na prática clínica, o detalhe histológico molda o tratamento. O fato da glândula sebácea explodir para secretar (**Holócrina**) explica por que folículos entopem gerando **Acne**. Saber que a glândula **Parótida** envelopa o Nervo Facial impede que um cirurgião cause uma paralisia iatrogênica ao remover um nódulo salivar.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-As **Glândulas** são fábricas celulares especializadas em **Secreção**. Para a prova, domine a diferença entre as **Exócrinas** (com **Ducto**) e as **Endócrinas** (lançam no **Sangue**). Na clínica, o conhecimento sobre os modos de secreção (como a **Holócrina**) e a anatomia das glândulas salivares explica desde a **Acne** até paralisias faciais pós-cirúrgicas.
-
----
-
-## Modos de secreção: merócrina, apócrina e holócrina
-
-| Modo de Secreção | Destino da Célula | Exemplo Clássico |
-|-------------------|-----------------------------|-------------------|
-| **Merócrina** | Apenas o produto sai | **Sudorípara** Écrina |
-| **Apócrina** | Sai produto + ápice celular | **Mamária** |
-| **Holócrina** | A célula **inteira** morre/sai | **Sebácea** |
-
-> **Gatilho de Prova:** Se a questão fala em "célula se sacrifica para secretar", a resposta é **Holócrina** (Gland. Sebácea).
-
-> **Dica de Prova:** **Holócrina** = lembra **sebácea** e renovação contínua do epitélio do folículo.
-
----
-
-## Arquitetura: tubular, acinar e mista
-
-A **morfologia** descreve como o epitélio se organiza: **tubular** (tubos), **acinar** ou **alveolar** (sacos), **túbulo-acinar** (combinação). **Serosa** (fina, aquosa) versus **mucosa** (viscosa, mucopolissacarídios) aparece em **coloração** e **texto** de microscopia — não só em prova de histologia.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A15-F01`
 
-- **Momento:** após modos de secreção e antes das glândulas salivares.
-- **O que mostrar:** esquema com três modos (merócrina, apócrina, holócrina) lado a lado, com célula “inteira” na holócrina.
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** “Modos de secreção exócrina: o destino do citoplasma define o nome.”
-- **Notas (opcional):** Commons “holocrine merocrine apocrine gland diagram”.
+- **Momento:** Seção de Modos de Secreção.
+- **O que mostrar:** O "Destino Celular": Um esquema lado a lado de 3 glândulas: **Merócrina** (vesículas saindo ilesas da célula intacta), **Apócrina** (o teto da célula sendo arrancado junto com a secreção) e **Holócrina** (a célula inteira gorda explodindo virando secreção).
+- **Tipo sugerido:** Infográfico celular esquemático.
+- **Legenda (rascunho):** Modos de Secreção Exócrina: quanto da célula é sacrificado para secretar o produto?
+
+## 1. Classificação Exócrina (Os Três Modos de Sacrifício)
+
+As glândulas exócrinas são classificadas pelo quanto a célula se destrói ao secretar:
+
+| Modo de Secreção | Destino do Citoplasma | Exemplo de Prova |
+|-------------------|-----------------------------|-------------------|
+| **Merócrina** | A célula exocita o produto e fica **Mero/Intacta** | **Écrinas** (Suor comum) e Pâncreas Exócrino |
+| **Apócrina** | A célula perde o **Ápice** (teto) na secreção | Glândula **Mamária** (Leite) e Suor com odor (Axila) |
+| **Holócrina** | A célula **Inteira** (Holo) morre e vira a secreção | Glândula **Sebácea** (Acne) |
+
+> **Dica de Prova:** Acne é excesso de produção e entupimento de uma glândula **Holócrina** associada a um folículo.
+
+## 2. A Arquitetura e o Conteúdo (Como elas se parecem)
+
+- **Unicelulares:** O melhor exemplo de glândula de *uma única célula* é a **Célula Caliciforme** (vias aéreas e intestinos). Ela secreta musina e não possui ducto; simplesmente exocita.
+- **Morfologia das Finais:** Tubulares (forma de tubo) ou **Acinares** (forma de cacho de uva).
+- **Serosa vs Mucosa (Coloração):**
+  - Os adenômeros (cachinhos) **Serosos** secretam substâncias finas ricas em proteínas/enzimas. Eles se coram muito forte e escuro em HE.
+  - Os adenômeros **Mucosos** secretam muco grosso. Como o muco não se cora, a célula na lâmina fica com aparência transparente, **Clara**, e com o núcleo achatado na base.
 
 ---
 
-## Glândulas salivares principais
+## 3. As Grandes Glândulas Salivares
 
-| Glândula Salivar | Tipo de Saliva | Risco Clínico / Ducto |
+| Glândula Salivar | Tipo de Saliva Dominante | Associação Clínica Crítica |
 |------------------|-----------------|------------------------|
-| **Parótida** | **Serosa** (Aquosa) | Nervo Facial (**VII**) |
-| **Submandibular**| **Mista** | Ducto de **Wharton** |
-| **Sublingual** | **Mucosa** (Viscosa)| Inchaço sob a língua |
-
-**Sialolitíase:** Formação de cálculos ("pedras") no ducto. A **Submandibular** é a mais afetada devido ao trajeto ascendente do ducto de Wharton.
+| **Parótida** | Puramente **Serosa** (Aquosa) | Cruzada pelo **Nervo Facial (VII)**. Cirurgias arriscadas. |
+| **Submandibular**| **Mista** (Sero-Mucosa) | Drena pelo **Ducto de Wharton**. Local primário de cálculos salivare. |
+| **Sublingual** | Predominantemente **Mucosa** | Entupimento causa bolha abaixo da língua (**Rânula**). |
 
 ---
 
-## Mama: arquitetura glandular (visão macro + micro)
+## 4. Endócrinas (As que aboliram o ducto)
 
-**Lóbulos** drenam para **ductos** que convergem à **papila**. Carcinomas **ductais** versus **lobulares** são **patologia** avançada; em BMF1, fixe **lóbulo → ducto → papila** e que **rastreio** imagológico segue **diretrizes** que mudam com idade e risco — não detalhar protocolos aqui.
-
----
-
-## Endócrinas: interface rápida
-
-**Tireoide**, **paratireoides**, **córtex** e **medula** suprarrenal usam epitélios variados e **capilares** **fenestrados** ou sinusoides conforme o órgão — o conceito é **transporte** rápido do hormônio para o sangue, diferente da **exócrina** com **ducto**.
+Células com função **Endócrina** invaginam na embriologia, mas perdem contato com a superfície epidérmica. Elas jogam seus produtos (hormônios) diretamente na pesada circulação dos **Capilares Ocultos** a seu redor. Exemplos: Tireoide, Glândula Adrenal e a Ilhota de Langerhans no Pâncreas.
 
 ---
 
 ## Ponte com a Clínica
 
-**Obstrução** de ducto salivar → **infecção** secundária e **abscesso** — anatomia do **ducto** e **posição** da glândula orientam **imagem** e **drenagem**. **Biópsia** de massa salivar diferencia **benigno** e **maligno** por **padrão** histológico. **Acne** envolve **sebácea holócrina** e **folículo** — tratamento é clínica, mas a **base morfológica** cai em prova de BMF.
+O **Ducto de Wharton** sai da glândula submandibular e viaja para a frente da boca *subindo* contra a gravidade. Esse fluxo difícil explica por que há tanta formação de pedra salivar calcificada nela (**Sialolitíase**), entupindo a saída. O paciente sente uma cólica absurda abaixo da mandíbula na hora de comer (quando a salivação tenta sair e não consegue). Na anatomia da **Mama**, saber que a unidade final produtora de leite é o **Lóbulo** e o tubo condutor é o **Ducto** difere o diagnóstico imagológico e o subtipo de câncer (Carcinoma Ductal vs Carcinoma Lobular).
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Acinos Serosos:** Secretam enzimas (proteínas). Coram-se intensamente (**Escuros**).
-- **Acinos Mucosos:** Secretam muco (carboidratos). Coram-se fracamente (**Claros**).
-- **Endócrina:** Não tem ducto. Ex: **Tireoide** e Adrenal.
-- **Unicellular:** A **Célula Caliciforme** (vias aéreas/intestino) é uma glândula de uma célula só.
+- **Capilares Fenestrados:** Vasos com buracos minúsculos encontrados nas glândulas **Endócrinas**, pois facilitam a entrada rápida dos hormônios na corrente sanguínea. 
+- **Adenômero:** É a parte final (o fundo do saco) criadora do produto nas glândulas exócrinas compostas.
+- **Acne:** É uma doença de glândulas sebáceas; lembre-se, todas associam-se a folículos pilosos. Onde não tem pelo, não tem espinha.
 
-| Conceito A | Conceito B | Diferencial para Prova |
+---
+
+## Pré-Prova
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### Síntese para a prova
+
+Para gabaritar tecido glandular, foque em mapear **o Destino do Conteúdo** e a **Sobrevivência da Célula.**
+**Destino do Conteúdo:** Para superfície/ducto = **Exócrina**. Para sangue = **Endócrina**.
+
+A Uninove adora o método de destruição celular. Decore o trio: **Merócrina** (Normal/Seguro), **Apócrina** (Gordurosa, Arranca o teto da Mama) e **Holócrina** (Suicida Sebácea). Se a questão descrever células claras em microscopia, o gabarito é glândula **Mucosa**. Além disso, nunca perca o "nervo mestre": a **Parótida** é perpassada pelo **Nervo Facial** — lesão nela paralisa metade do rosto do paciente.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Exócrina** | **Endócrina** | Ducto vs **Capilar Sanguíneo** |
-| **Célula Caliciforme**| **Adenômero** | Única vs Complexo de Células |
-| **Serosa** | **Mucosa** | Fluida/Enzimas vs Espessa/Proteção |
-| **Papila Mamária** | **Lóbulo** | Saída (Mamilo) vs Fábrica de Leite |
+| **Holócrina** | **Merócrina** | A Célula **Morre Escapando** vs A célula **sobrevive Exocitando** |
+| **Parótida** | **Submandibular** | Saliva 100% **Serosa (Líquida)** vs Saliva **Mista** (Cálculos de Wharton) |
+| **Glândula Exócrina**| **Glândula Endócrina** | Possui **Ducto** (Tubo de saída) vs Despeja no **Sangue** (Capilares) |
+| **Ácino Seroso** | **Ácino Mucoso** | Célula cora **Escura** (Enzima) vs Célula fica **Clara/Transparente** (Muco) |
 
 ### Frase-âncora para não esquecer
 
-> “Sem ducto, não é exócrina — é outro capítulo.”
+> "Sem ducto, o hormônio corre no sangue e o sistema atua endócrino. O muco é claro, a enzima serosa pinta escuro a Parótida que o VII par cruza num rasante noturno."

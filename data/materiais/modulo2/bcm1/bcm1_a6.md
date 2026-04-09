@@ -1,155 +1,93 @@
-﻿# BCM1 — Aula 6: Transcrição e Controle da Expressão Gênica
+# BCM1 — Aula 6: Transcrição e Controle da Expressão Gênica
 
-## Relevância Clínica e Acadêmica
+A transcrição é o processo onde a célula "lê" o DNA para criar o RNA. Na prova, o tema central é entender como a **RNA Polimerase** funciona e como a célula decide qual gene deve ser "ligado" ou "desligado" através dos **Promotores** e **Enhancers**.
 
-A transcrição é o ponto onde o genoma "fala" — e o silenciamento ou a superexpressão de genes é a origem de doenças tão diversas quanto câncer, doenças autoimunes e erros inatos do metabolismo. Drogas como a rifampicina (antibiótico antituberculose) inibem diretamente a **RNA** polimerase bacteriana, e a terapia com inibidores de histona deacetilase (HDACi) como o vorinostat reclassificam genes silenciados em células tumorais. Entender onde e como o controle da expressão gênica é exercido é entender onde os fármacos e as doenças moleculares interferem.
+Na prática, entender a transcrição explica por que a **Rifampicina** cura a tuberculose (ela trava a leitura do DNA da bactéria) e como o câncer silencia genes que deveriam nos proteger de tumores.
 
-A **Uninove** cobra transcrição e regulação integrados com SBRT antibióticos, epigenética e oncologia molecular. Esta aula costura a biologia molecular com suas aplicações clínicas mais modernas.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A6-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de processamento do pré-mRNA.
+- **O que mostrar:** O "Corte e Costura": O pré-mRNA sendo modificado. Mostrar a colocação do **Cap 5'** (um chapéu protetor), a retirada dos **Íntrons** (splicing) e a adição da **Cauda Poly-A** (uma proteção no final).
+- **Tipo sugerido:** Infográfico didático (Linha de montagem).
+- **Legenda (rascunho):** Do transcrito primário ao mRNA pronto para a tradução.
 
+## 1. RNA Polimerase: A Copiadora de RNA
 
-
-
----
-
-
-
-## Transcrição: Visão Geral
-
-A transcrição é a síntese de RNA a partir de um molde de DNA, catalisada pela **RNA polimerase**. Ocorre de 5'→3' (RNA), lendo o molde de DNA de 3'→5'.
-
-**Diferenças fundamentais entre transcrição e replicação:**
-- RNA pol NÃO precisa de primer (inicia de novo)
-- Produto: RNA (fita simples, com U no lugar de T)
-- O RNA é sintetizado, processado e exportado para o citoplasma
-
-**Tipos de RNA pol em eucariotos:**
-- **RNA Pol I:** genes de rRNA (28S, 18S, 5,8S) — no nucléolo
-- **RNA Pol II:** genes codificadores de proteínas (mRNA) e snRNA
-- **RNA Pol III:** tRNA, 5S rRNA, snRNA pequenos
-
-Em procariotos: **1 única RNA polimerase** com fator σ (sigma) para reconhecimento do promotor.
+Diferente da replicação, a transcrição não precisa de um "primer" (iniciador) para começar. Temos três tipos principais:
+- **RNA Pol I:** Faz o **rRNA** (Ribossômico) — Fica no nucléolo.
+- **RNA Pol II:** Faz o **mRNA** (Mensageiro) — É a que carrega a receita das proteínas.
+- **RNA Pol III:** Faz o **tRNA** (Transportador) — Ajuda na montagem das proteínas.
 
 ---
 
-## Promotor e Início da Transcrição em Eucariotos
+## 2. O Processamento: Deixando o RNA Pronto
 
-O promotor fica upstream ao sítio +1 de início de transcrição. Elementos do promotor central:
-- **TATA box** (~−30): ligação de TBP (TATA-binding protein), primeiro passo de montagem do complexo de pré-iniciação
-- **Inr (initiator element)**: em genes sem TATA box
-- **DPE (downstream promoter element)**: ~+30
-
-Além do promotor central, a transcrição é regulada por elementos distais:
-- **Enhancers:** ativam a transcrição a grandes distâncias (até 1 Mb); os fatores de transcrição ativadores ligam-se aos enhancers e fazem contato com o complexo de pré-iniciação por dobrimento do DNA (loop)
-- **Silencers:** reprimem a transcrição; ligam repressores
-
-Complexo de pré-iniciação: TBP → TFIID → TFIIA, TFIIB, TFIIF + **RNA** Pol II → TFIIE e TFIIH (helicase, abre o **DNA**; cinase para fosforilação do CTD da RNA Pol II, liberando-a para elongação)
+O RNA recém-nascido (pré-mRNA) não pode sair do núcleo sem passar por três "estações de serviço":
+1. **Capping 5':** Ganha um "chapéu" de 7-metilguanosina para não ser destruído por enzimas e para ser reconhecido pelo ribossomo.
+2. **Splicing:** Os **Íntrons** (lixo) são retirados e os **Exons** (ouro) são colados.
+   - **Splicing Alternativo:** A célula pode escolher quais exons colar, criando proteínas diferentes a partir do mesmo gene.
+3. **Poliadenilação 3':** Ganha uma cauda de centenas de letras A (**Poly-A**) para dar estabilidade.
 
 ---
 
-## Processamento do pré-mRNA (hnRNA → mRNA maduro)
+## 3. Controle da Expressão: Ligando e Desligando Genes
 
-O transcrito primário (pré-**mRNA**) sofre três modificações antes de sair do núcleo:
-
-**1. Capping 5' (m7GpppN):**
-- Adição de 7-metilguanosina na extremidade 5' — ocorre cotranscricionalmente
-- Funções: protège o mRNA da degradação por exonucleases 5'→3'; essencial para o reconhecimento pelo ribossomo (binding ao fator de iniciação eIF4E)
-
-**2. Splicing (remoção dos íntrons):**
-- Spliceosome: complexo de snRNPs (U1, U2, U4, U5, U6)
-- GT...AG rule: sítio doador (5' GU) e sítio aceptor (3' AG)
-- Splicing alternativo: mesmo pré-mRNA gera múltiplos mRNAs (isoformas proteicas) — exemplo clássico: troponina T cardíaca tem isoformas diferentes no feto e no adulto
-
-**3. Poliadenilação 3':**
-- Sinal AAUAAA → clivagem ~10–30 nt downstream → adição de ~200 A's (poly-A)
-- Proteínas PABP (poly-A binding proteins) se ligam → estabilidade do mRNA, regula tradução
-
-> **Dica de Prova:** Os antibióticos que inibem a transcrição bacteriana são: **rifampicina** (bloqueia o canal de saída do RNA na RNA Pol bacteriana → inibe elongação). Não afeta a RNA Pol eucariota (seletividade estrutural). Usado em tuberculose, hanseníase, meningite por N. meningitidis (quimioprofilaxia).
+Nem todo gene trabalha o tempo todo. O controle acontece via:
+- **Promotor:** Sequência onde a RNA Polimerase "estaciona" para começar o trabalho (Ex: TATA Box).
+- **Enhancers:** Sequências que "turbinam" a produção do gene, mesmo ficando longe dele.
+- **miRNAs:** Pequenos pedaços de RNA que grudam no mRNA e impedem a fabricação da proteína (Controle pós-transcricional).
 
 ---
 
-## Controle da Expressão Gênica — Níveis
+## 4. Farmacologia e Transcrição
 
-O controle da expressão gênica opera em múltiplos níveis:
-
-| Nível | Mecanismo | Exemplo |
-|-------|----------|---------|
-| Pré-transcricional | Estrutura da cromatina | Metilação DNA, modificação de histonas |
-| Transcricional | Fatores de transcrição + promotors/enhancers | p53 ativa CDKN1A (p21); c-Myc ativa ciclinas |
-| Pós-transcricional | Splicing alternativo, estabilidade do mRNA | Ferritina: IRP bloqueia tradução quando Fe²⁺ baixo |
-| Traducional | Iniciação da tradução | IRES, miRNA reprime tradução |
-| Pós-traducional | Fosforilação, ubiquitinação, clivagem | Ubiquitinação → proteassoma → degradação proteica |
-
-**Controle por miRNA:**
-miRNAs (~22 nt) ligam-se a sequências complementares no 3'UTR do **mRNA**-alvo → silenciamento pós-transcricional (inibição da tradução + desestabilização do mRNA). Aberrações na expressão de miRNA são onipresentes no câncer.
-
-> **Pegadinha:** A rifampicina é potente **indutor** do CYP3A4 e de outras enzimas do sistema P450 — isso acelera a metabolização de contraceptivos orais, anticoagulantes e outros fármacos → reduz suas concentrações → falha terapêutica. Questão clássica: paciente em uso de rifampicina + contraceptivo oral → gestação indesejada.
-
----
-
-## Pontros-Chave
-
-- RNA Pol eucariota: I (rRNA), II (mRNA), III (tRNA); procariotos: 1 RNA pol + fator σ
-- Promotor central: TATA box (−30) → TBP → complexo de pré-iniciação
-- Enhancers ativam a transcrição a grande distância (loop cromossômico)
-- Processamento do pré-mRNA: capping 5' (m7G) + splicing + poliadenilação 3'
-- Splicing: spliceosome (snRNPs U1–U6); GT...AG obrigatório; splicing alternativo → isoformas
-- Rifampicina: inibe RNA Pol bacteriana (bloqueia canal de saída de RNA); tuberculose + profilaxia meningite
-- Rifampicina: indutor de CYP3A4 → interações com contraceptivos, anticoagulantes, antirretrovirais
-- miRNA (22 nt): liga 3'UTR do mRNA alvo → silencia pós-transcricionalmente
-- Metilação de ilhas CpG: silência genes (epigenética); hipermetilação de supressores → câncer
-- Acetilação de histonas (HAT): abre cromatina → ativa transcrição; HDAC = fecha, silencia
+O medicamento **Rifampicina** (usado para Tuberculose e Hanseníase) trava o canal de saída da RNA Polimerase das bactérias. Elas não conseguem ler o DNA e morrem.
+- **Atenção:** A Rifampicina "acorda" o fígado (Indutor do P450). Se a paciente toma anticoncepcional, o fígado destrói o hormônio mais rápido e ela pode engravidar.
 
 ---
 
 ## Ponte com a Clínica
 
-A eritropoetina (EPO) é um exemplo magistral de controle transcricional: em **hipóxia**, o HIF-1α escapa da degradação pelo VHL (Von Hippel-Lindau) → se transloca para o núcleo → ativa a transcrição de EPO, VEGF e outros genes de adaptação à hipóxia. Mutações do gene VHL causam a síndrome de VHL (tumores renais de células claras, hemangioblastomas) — a inativação do supressor tumoral libera HIF permanentemente. Fármacos que inibem a prolil-hidroxilase (que marcam HIF para degradação) elevam o HIF e estimulam EPO — conceito por trás do daprodustat (usado em anemia por DRC). Toda esta em transcrição regulada por enhancers e fatores de transcrição.
+O **HIF-1α** (Fator Induzido por Hipóxia) é um fator de transcrição ativado quando falta oxigênio no tecido. Ele viaja até o núcleo e "liga" o gene da **Eritropoetina (EPO)**. O rim produz EPO, que manda a medula óssea fabricar mais glóbulos vermelhos para carregar mais oxigênio. Esse é o mecanismo que atletas usam quando treinam na altitude e que pacientes com anemia crônica tentam compensar.
+
+---
+
+## Pontos-Chave para Prova
+
+- **RNA Pol II**: Responsável pelos genes que viram **Proteína**.
+- **Cap 5' e Cauda Poly-A**: Servem para **Estabilidade** e proteção.
+- **Splicing Alternativo**: Um gene → **Várias proteínas**.
+- **Rifampicina**: Inibe transcrição e induz enzimas do fígado (**Interação Medicamentosa**).
+- **Metilação de DNA**: Geralmente **Desliga** o gene (Silenciamento).
+- **Acetilação de Histonas**: **Liga** o gene (Abre a cromatina).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Transcrição, foque nas modificações. 
+Lembre-se: o **Cap** protege o início e o **Poly-A** o fim. Se a questão falar em mutação de **Splicing**, pense em erros na regra **GT-AG**. A Uninove cobra muito a **Rifampicina**: saiba que ela é seletiva para a polimerase bacteriana, mas cuidado com as interações no fígado (ela diminui o efeito de outros remédios, como a Varfarina ou Pílulas).
 
-RNA Pol I: rRNA (nucléolo); RNA Pol II: mRNA; RNA Pol III: tRNA. RNA Pol: não precisa de primer (contrário da DNA Pol). Capping 5' (m7G): proteção da extremidade 5' + sinalização ribossomal.
-
-Splicing: GT (doador) → AG (aceptor); mutação → splicing aberrante → doença (talassemia). Splicing alternativo: mesmo gene → diferentes isoformas de proteína. Poly-A (AAUAAA): estabilidade do mRNA; ~200 adeninas 3'.
-
-Rifampicina: inibe RNA Pol bacteriana; indutor CYP3A4 → muitas interações farmacológicas. MiRNA: 22 nt; liga 3'UTR → silencia mRNA alvo; desregulado em cânceres. Metilação CpG: silências genes; hipometilação global + hipermetilação local em tumores.
-
-HDAC inibidores (vorinostat): acetilam histonas → reativam genes supressores em tumores.
+Epigenética é outro tema "queridinho": **Metilação** no DNA manda o gene calar a boca; **Acetilação** nas histonas faz o gene falar alto. No câncer, é comum encontrarmos o silenciamento (metilação) de genes supressores de tumor, o que permite que a célula cresça de forma descontrolada.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| RNA Pol I | RNA Pol II | Pol I = rRNA (nucléolo); Pol II = mRNA (genes proteicos) |
-| Enhancer | Silencer | Enhancer = ativa transcrição (fatores ativadores); Silencer = reprime (fatores repressores) |
-| miRNA | siRNA | miRNA = endógeno, regula 3'UTR; siRNA = exógeno (terapêutico), degradação direta do mRNA alvo |
-| Capping 5' | Poliadenilação 3' | Capping = proteção + início tradução; PolyA = estabilidade + terminação transcrição |
-| Metilação DNA | Metilação histona H3K4 | DNA metilação = geralmente SILENCIA; H3K4 metilação = geralmente ATIVA |
+| **RNA Pol I** | **RNA Pol II** | rRNA (Nucléolo) vs **mRNA (Núcleo)** |
+| **Exon** | **Íntron** | Parte que fica vs **Parte que sai (Splicing)** |
+| **Promotor** | **Enhancer** | Onde começa vs **Onde turbina (pode ser distante)** |
+| **Transcrição** | **Tradução** | DNA → RNA vs **RNA → Proteína** |
+| **miRNA** | **mRNA** | Regulador (silenciador) vs **Receita da proteína** |
 
 ### Frase-âncora para não esquecer
 
-> "Rifampicina pega a RNA Pol bacteriana pelo canal de saída do RNA — e de quebra acelera o fígado, tirando o efeito dos outros remédios. Dupla ação, duplo cuidado."
-
----
-
-## Referências
-
-- Alberts B et al. *Fundamentos de Biologia Celular e Molecular*. Artmed.
-- Junqueira LC, Carneiro J. *Histologia Básica*. Guanabara Koogan.
-- Lodish H et al. *Biologia Celular e Molecular*. Artmed.
+> "Pol II faz o mapa, Cap e A seguram as pontas; o splicing corta o lixo e o fígado com a rifampicina faz as contas."

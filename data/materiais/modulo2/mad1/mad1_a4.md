@@ -1,195 +1,99 @@
-﻿# Inflamação Aguda e Crônica
+# MAD1 — Aula 4: Inflamação Aguda e Crônica
 
-## Relevância Clínica e Acadêmica
+A inflamação é a resposta coordenada do organismo a danos teciduais. Na prova, os temas centrais são os **Sinais Cardinais**, a sequência da **Diapedese** e a formação de **Granulomas** na inflamação crônica.
 
-A inflamação é a resposta coordenada do organismo a qualquer dano tecidual — seja infecção, trauma, **necrose** ou corpo estranho. Longe de ser apenas o "inchaço e vermelhão" da lesão, trata-se de um processo altamente regulado com fases bem definidas: início, amplificação, resolução ou cronicidade. Quando desregulada, a inflamação é o mecanismo-base de doenças como aterosclerose, artrite reumatoide, doença inflamatória intestinal e sepse.
+Na prática, a transição da inflamação aguda (resolução) para a crônica (fibrose) é o mecanismo base de doenças como a aterosclerose e a cirrose hepática.
 
-O tema é central em MAD1 porque prepara o estudante para entender praticamente qualquer patologia sistêmica. A **Uninove** adora cobrar os sinais cardinais, as diferenças entre aguda e crônica, os mediadores lipídicos e a composição do exsudato inflamatório.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A4-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de inflamação aguda.
+- **O que mostrar:** Esquema das fases da diapedese: Marginação (Selectinas), Adesão Firme (Integrinas), Transmigração (PECAM-1) e Quimiotaxia (C5a/IL-8).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Fases da migração leucocitária na inflamação.
 
+## Sinais Cardinais (Regra de Celso)
 
-
-
----
-
-
-
-## Sinais Cardinais da Inflamação
-
-Descritos por Celso e Galeno:
-
-| Sinal | Mecanismo |
+| Sinal | Mecanismo Fisiopatológico |
 |---|---|
-| **Rubor** (eritema) | Vasodilatação → aumento do fluxo sanguíneo |
-| **Calor** | Vasodilatação + aumento do metabolismo local |
-| **Tumor** (edema) | Aumento de permeabilidade vascular → extravasamento de proteínas |
-| **Dor** | Bradiquinina + prostaglandinas sensibilizam nociceptores |
-| **Functio laesa** | Perda de função local por edema e dor |
+| **Rubor** | Vasodilatação (aumento do fluxo). |
+| **Calor** | Vasodilatação + aumento do metabolismo local. |
+| **Tumor (Edema)** | Aumento da **Permeabilidade Vascular**. |
+| **Dor** | **Bradicinina** e Prostaglandinas sensibilizam nervos. |
+| **Perda de Função** | Limitação por dor e inchaço. |
 
 ---
 
-## Inflamação Aguda
+## Inflamação Aguda vs. Crônica
 
-### Características Gerais
-- Duração: **horas a dias**
-- Célula predominante: **neutrófilo** (polimorfonuclear)
-- Exsudato: **líquido rico em proteínas** (fibrina, Ig, complemento)
-- Resposta rápida, mas inespecífica
-
-### Sequência de Eventos Vasculares e Celulares
-
-**Fase Vascular:**
-1. **Vasoconstrição** transitória (segundos) — mediada pelo SNC
-2. **Vasodilatação** → histamina, prostaglandina E2 (PGE2), bradicinina
-3. Aumento da **permeabilidade** vascular → histamina, leucotrienos C4/D4/E4, PAF
-
-**Fase Celular (diapedese):**
-1. **Marginação:** neutrófilos rolam pelo endotélio (L-selectina ↔ P/E-selectina)
-2. **Adesão firme:** integrinas (LFA-1/Mac-1) ↔ ICAM-1 (endotélio) — induzidas por IL-1, TNF-α
-3. **Transmi­gração:** através de junções intercelulares (PECAM-1)
-4. **Quimiotaxia:** neutrófilos seguem gradiente de C5a, IL-8 (CXCL8), LTB4, fMLP
-
-> **Dica:** Neutrófilos são os primeiros; macrófagos chegam em 24–48 h e predominam após 48 h.
-
-### Mediadores da Inflamação Aguda
-
-| Mediador | Origem | Efeito |
+| Característica | Inflamação Aguda | Inflamação Crônica |
 |---|---|---|
-| Histamina | Mastócito, plaqueta | Vasodilatação, ↑ permeabilidade (imediata) |
-| Serotonina | Plaqueta | Vasodilatação, ↑ permeabilidade |
-| Bradicinina | Cininogênio (plasma) | Dor, vasodilatação, ↑ permeabilidade |
-| PGE2, PGI2 | Eicosanoides (COX) | Vasodilatação, febre, dor (sensibilização) |
-| LTB4 | Eicosanoides (LOX) | Quimiotaxia de neutrófilos |
-| LTC4/D4/E4 | Eicosanoides (LOX) | Broncoespasmo, ↑ permeabilidade |
-| PAF | Mastócito, plaqueta | ↑ permeabilidade, agregação plaquetária |
-| C3a, C5a | Complemento | Anafilatoxinas: vasodilatação, quimiotaxia |
-| IL-8 (CXCL8) | Macrófago, endotélio | Quimiotaxia de neutrófilos |
-| NO | Endotélio, macrófago | Vasodilatação |
+| **Duração** | Minutos a Dias | Semanas a Anos |
+| **Célula Principal** | **Neutrófilo** | **Macrófago** / Linfócito |
+| **Lesão Tecidual** | Leve e Autolimitada | Grave e **Progressiva** |
+| **Sinais Locais** | Pronunciados (Calor/Rubor) | Sutis / Menos evidentes |
 
-> **Pegadinha:** AINEs (aspirina, ibuprofeno) inibem COX → bloqueiam PGs → ↓ dor e febre, mas não bloqueiam leucotrienos. Antileucotrienos (montelucaste) → indicados na asma.
-
-### Resultados da Inflamação Aguda
-
-1. **Resolução completa:** tecido retorna ao normal
-2. **Formação de abscesso:** pus (neutrófilos mortos + debris) encapsulado por tecido fibroso
-3. **Cicatrização/fibrose:** quando há destruição tecidual extensiva
-4. **Progressão para crônica:** quando o agente causal persiste
+> **Dica de Prova:** Os **Neutrófilos** são os primeiros a chegar (infantaria). Se a agressão persiste, os **Macrófagos** assumem o controle, podendo levar à formação de fribrose ou granulomas.
 
 ---
 
-## Inflamação Crônica
+## Mediadores e Ação de Fármacos
 
-### Características Gerais
-- Duração: **semanas a meses/anos**
-- Célula predominante: **macrófago + linfócito T + plasmócito**
-- Simultaneidade de destruição e reparo tecidual
-- Pode surgir ab initio (sem aguda prévia) — ex: doenças autoimunes
-
-### Causas
-- Infecção persistente por microrganismos de difícil erradicação (*Mycobacterium*, fungos)
-- Exposição prolongada a agentes tóxicos (sílica, amianto)
-- Reação autoimune
-
-### Inflamação Granulomatosa
-
-Forma especial de inflamação crônica — formação de **granuloma**:
-
-**Granuloma = coleção organizada de macrófagos epitelioides + linfócitos T + célula gigante multinucleada**
-
-| Tipo | Causa | Exemplo Clínico |
-|---|---|---|
-| Com necrose caseosa | *Mycobacterium tuberculosis* | Tuberculose |
-| Sem necrose | Sarcoidose, corpo estranho | Sarcoidose, silicose |
-| Com supuração | Fungos, bartonela | Esporotricose, doença da arranhadura do gato |
-
-> **Dica:** A necrose caseosa é patognomônica de tuberculose — aspecto de "queijo branco" ao corte.
-
-### Mediadores da Cronicidade
-
-| Mediador | Fonte | Efeito |
-|---|---|---|
-| IFN-γ | T CD4+ Th1 | Ativa macrófago M1 (matar) |
-| IL-4, IL-13 | T CD4+ Th2 | Ativa macrófago M2 (reparo, fibrose) |
-| TGF-β | Macrófago M2, Treg | Fibrose; supressão imune |
-| TNF-α | Macrófago | Formação de granuloma; febre |
+- **Histamina:** Causadora da vasodilatação imediata (mastócitos).
+- **Prostaglandinas (PGE2):** Responsáveis pela **Dor** e **Febre**.
+- **AINEs (Aspirina/Ibuprofeno):** Inibem a **COX**, bloqueando a produção de prostaglandinas. Não afetam os leucotrienos (que causam broncoespasmo).
 
 ---
 
-## Reparo Tecidual — Visão Geral
+## Inflamação Crônica Granulomatosa
 
-Após a inflamação, o tecido busca a cura:
-
-1. **Regeneração:** substituição por células idênticas (tecidos com alta capacidade proliferativa: epitélio intestinal, fígado)
-2. **Fibroplasia (cicatriz):** tecido conjuntivo fibroso substitui o destruído (coração, sistema nervoso, pulmão)
-
-**Angiogênese:** VEGF estimula neoformação de vasos → fundamental para a cicatrização
-
-> **Pegadinha:** Excesso de TGF-β → fibrose patológica (cirrose hepática, fibrose pulmonar, nefroesclerose).
-
----
-
-## Pontos-Chave
-
-- Inflamação aguda: rápida, neutrófilos predominantes, exsudato proteico, vasodilatação + ↑permeabilidade
-- Sinais cardinais: rubor, calor, tumor (edema), dor, functio laesa — mecanismos específicos para cada
-- Diapedese: marginação (selectinas) → adesão firme (integrinas) → transmigração (PECAM-1) → quimiotaxia
-- AINEs bloqueiam COX → ↓ PGs (dor/febre); não bloqueiam leucotrienos
-- Inflamação crônica: macrófago + linfócito T; destruição + reparo simultâneos
-- Granuloma = macrófagos epitelioides + linfócitos T + célula gigante; caseoso = TB; não-caseoso = sarcoidose
-- TGF-β em excesso → fibrose patológica
+A formação de um **Granuloma** é uma tentativa do corpo de isolar um agente de difícil digestão.
+- **Granuloma Caseoso:** Possui necrose central (aspecto de queijo). É a marca da **Tuberculose**.
+- **Granuloma Não Caseoso:** Sem necrose. Comum na Sarcoidose e corpos estranhos.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Paciente de 35 anos, imunocompetente, com tosse produtiva há 3 meses, sudorese noturna, perda de peso de 6 kg. Rx de tórax: infiltrado apical com cavitação. PPD: 18 mm.
-- Quadro clássico de **tuberculose pulmonar**
-- *M. tuberculosis* induz inflamação granulomatosa com necrose caseosa
-- O granuloma tenta conter a bactéria intracelular; falha em imunossuprimidos (HIV+)
-- IFN-γ (Th1) é crucial para ativar macrófagos e destruir o bacilo — base do PPD
+Um paciente com febre, perda de peso e sudorese noturna que apresenta uma cavitação no pulmão provavelmente tem **Tuberculose**. O corpo tenta conter o bacilo formando granulomas caseosos. Se a imunidade (linfócitos Th1) falhar, o centro do granuloma se liquefaz, e o paciente começa a tossir a bactéria (transmissão).
+
+---
+
+## Pontos-Chave para Prova
+
+- **Aguda**: Neutrófilos + Exsudato (rico em proteína).
+- **Crônica**: Macrófagos + Fibrose + Angiogênese.
+- **Sinais Cardinais**: Rubor, Calor, Tumor e Dor.
+- **Diapedese**: **Selectinas** (rolamento) → **Integrinas** (adesão).
+- **Granuloma**: Coleção de macrófagos epitelioides (ativados por IFN-γ).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Inflamação, entenda as fases. 
+Na **Aguda**, o vaso abre (histamina) e o neutrófilo sai (quimiotaxia via **C5a e IL-8**). Se o bicho for difícil de matar (Tuberculose/Sílica), o macrófago se transforma em célula epitelioide e forma uma muralha ao redor: o **Granuloma**.
 
-Aguda: neutrófilo, rápida, reversível; rubor/calor = vasodilatação; tumor = ↑permeabilidade. Crônica: macrófago + linfócito T, longa, destruição + reparo simultâneos.
-
-Granuloma caseoso: tuberculose; não-caseoso: sarcoidose. Histamina: mastócito → vasodilatação e ↑permeabilidade (1ª resposta).
-
-AINEs: inibem COX → ↓ PGs → menos dor/febre mas não afetam leucotrienos. Diapedese: selectinas → integrinas (ICAM-1) → PECAM-1.
+Em farmacologia: os **AINEs** (anti-inflamatórios comuns) param a **Dor e a Febre** porque cortam a Prostaglandina. Mas eles não ajudam na asma, porque os **Leucotrienos** continuam soltos fazendo o brônquio fechar. 
+No laboratório: **Exsudato** (proteína alta) é inflamação. **Transudato** (proteína baixa) é insuficiência cardíaca ou renal (apenas água vazando).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Inflamação aguda | Inflamação crônica | Aguda = neutrófilo, horas/dias; Crônica = macrófago/linfócito, semanas/meses |
-| Granuloma caseoso | Granuloma não-caseoso | Caseoso = tuberculose (necrose central); Não-caseoso = sarcoidose, corpo estranho |
-| Exsudato | Transudato | Exsudato = ↑proteínas e células (inflamação); Transudato = pobre em proteínas (não inflamatório) |
-| COX (AINEs) | LOX (antileucotrienos) | AINEs → PGs (dor, febre, vasodilatação); Antileucotrienos → LTs (broncoespasmo, quimiotaxia) |
-| Macrófago M1 | Macrófago M2 | M1 = ativado por IFN-γ, pró-inflamatório (mata); M2 = ativado por IL-4/IL-13, reparo/fibrose |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Inflamação Aguda** | **Inflamação Crônica** | **Neutrófilos** vs **Macrófagos/Linfócitos** |
+| **Selectinas** | **Integrinas** | Rolamento (Início) vs **Adesão firme** |
+| **Granuloma Caseoso** | **Granuloma Não-Caseoso** | **Tuberculose** vs Sarcoidose/Corpo Estranho |
+| **Exsudato** | **Transudato** | **Rico em Proteínas** vs Pobre em Proteínas (Apenas edema) |
+| **Macrófago M1** | **Macrófago M2** | Pró-inflamatório (Mata) vs **Anti-inflamatório (Reparo/Fibrose)** |
 
 ### Frase-âncora para não esquecer
 
-> "Aguda é o alarme de incêndio — rápido e barulhento (neutrófilos). Crônica é o combate de guerrilha — lento, persistente e deixa cicatriz (macrófagos e fibrose)."
-
----
-
-## Referências
-
-- Abbas AK, Lichtman AH, Pillai S. *Imunologia Celular e Molecular*. Elsevier.
-- Murphy K, Weaver C. *Janeway Imunologia*. Elsevier.
-- Sociedade Brasileira de Imunologia — materiais e diretrizes de graduação (consulta).
+> "Aguda é neutrófilo e edema; Crônica é macrófago e granuloma; COX é dor, LOX é broncoespasmo no soma."

@@ -1,116 +1,97 @@
-﻿# SEMIO2 — Aula 1: Fundamentos da Semiologia Cardiorrespiratória
+# SEMIO2 — Aula 1: Fundamentos da Semiologia Cardiorrespiratória
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A semiologia cardiorrespiratória é a base do raciocínio clínico diagnóstico. Na prova, o foco recai sobre a **Ordem da Consulta**, a **Triagem de Gravidade** e a integração entre **Anamnese** e **Exame Físico**.
+
+Na prática, a capacidade de diferenciar uma **Síndrome Congestiva** de uma **Obstrução de Via Aérea** nos primeiros minutos define a segurança do atendimento.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Semiologia cardiorrespiratória é um divisor de águas na formação médica porque aqui o aluno aprende a transformar sintoma em hipótese com método. A **Uninove** costuma cobrar esse tema para ver se você domina a sequência correta de avaliação e sabe diferenciar achado relevante de ruído clínico.
-
-Na prática, boa semiologia reduz erro diagnóstico, evita exames desnecessários e acelera condutas em situações tempo-dependentes como síndrome coronariana, insuficiência cardíaca e insuficiência respiratória.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de etapas da consulta.
+- **O que mostrar:** Fluxograma da consulta semiológica: Triagem → Anamnese → Exame Físico → Integração → Conduta.
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Método clínico aplicado ao sistema cardiorrespiratório.
 
-## O Método que Organiza o Raciocínio
+## Método Clínico e Triagem de Gravidade
 
-A base da semiologia é integrar **anamnese dirigida**, **exame físico sistematizado** e interpretação de sinais no contexto do paciente. No sistema cardiorrespiratório, sintomas como dispneia, dor torácica, tosse e palpitação só ganham significado quando relacionados a tempo de evolução, fatores de piora e achados objetivos.
+O exame começa na **Inspeção Estática**: observe o nível de consciência, a coloração da pele (cianose) e a capacidade de falar frases completas.
 
-> **Dica de Prova:** em semiologia, sequência importa. Trocar ordem de exame ou pular etapas pode gerar interpretação errada.
+**Sinais de Alarme (Prioridade Zero):**
+- **Saturação baixa** persistente.
+- **Uso de musculatura acessória** (tiragem intercostal, batimento de asa de nariz).
+- **Hipotensão** ou sinais de choque.
+- **Alteração aguda de consciência**.
 
-> **Pegadinha:** considerar um sinal isolado como diagnóstico fechado sem correlacionar com história clínica e contexto hemodinâmico.
+> **Dica de Prova:** Se a questão trouxer **Dispneia + Ortopneia + Edema**, pense imediatamente em **Insuficiência Cardíaca Congestiva (ICC)**.
 
-## O Que Torna o Exame Cardiorrespiratório Confiável
+---
 
-Um exame confiável exige técnica adequada de inspeção, palpação, percussão e ausculta. Além disso, comunicação clínica e postura ética durante o exame são parte do processo. A qualidade do dado semiológico depende da execução, não apenas da teoria.
+## Integração Sintoma-Achado
 
-Em prova, os professores costumam valorizar coerência clínica: sinal observado precisa conversar com o mecanismo **fisiopatológico** sugerido.
+A anamnese qualifica a "probabilidade pré-teste"; o exame físico confirma ou afasta as suspeitas.
 
+| Sintoma Dominante | Achado Físico Chave | Hipótese Mais Provável |
+|---|---|---|
+| **Dispneia + Ortopneia** | **Turgência Jugular** + Estertores | **Congestão (IC)** |
+| **Dor Pleurítica Súbita** | Murmúrio Abolido + Hipertimpanismo | **Pneumotórax** |
+| **Palpitação + Tontura** | **Pulso Irregular** | **Arritmia** (ex: FA) |
+| **Dispneia Expiratória** | **Sibilos Difusos** | **Broncoespasmo** (Asma/DPOC) |
 
+---
 
+## Segurança e Ética no Exame físico
+
+A segurança inclui a técnica correta:
+1. **Higienização das mãos**.
+2. **Explicação das manobras** ao paciente.
+3. **Posicionamento adequado** (evite decúbito dorsal em pacientes com ortopneia).
+4. **Respeito ao pudor** e uso de biombos.
+
+> **Pegadinha:** Valorizar um achado isolado de ausculta (ex: sopro) sem checar sinais vitais ou história. O diagnóstico é sempre **Sindrômico**.
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Fundamentos da Semiologia Cardiorrespiratória
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+No pronto-atendimento, uma idosa com dispneia progressiva e edema de membros inferiores que apresenta **estertores crepitantes bibasais** tem alta probabilidade de IC descompensada. A conduta imediata não é apenas medicar, mas garantir a **estabilização hemodinâmica** e a monitorização de oxigênio.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Semiologia:** método para converter sinais e sintomas em hipótese clínica.
-- **Integração obrigatória:** história + exame físico + contexto.
-- **Sequência técnica:** reduz falha de interpretação.
-- **Sinal isolado:** não substitui raciocínio clínico global.
-- **Qualidade do exame:** depende de execução padronizada.
-- **Finalidade clínica:** orientar decisão diagnóstica inicial.
+- **Inspeção Geral**: Primeiro passo para avaliar gravidade.
+- **Ortopneia**: Sugere origem cardíaca (redução do retorno venoso ao sentar).
+- **Bilaterabilidade**: O exame deve ser sempre comparativo.
+- **Sinais Vitais**: O pilar da segurança propedêutica.
+- **Raciocínio Sindrômico**: Integrar achados em vez de decorar sinais isolados.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para a prova de Semio, lembre-se: o método é soberano. Nunca feche diagnóstico apenas pela ausculta se o enunciado te der sinais vitais alterados. A **Inspeção** é soberana na triagem; se o paciente não consegue completar uma frase, ele está instável.
 
-Semiologia cardiorrespiratória: base do diagnóstico clínico inicial. Anamnese dirigida: define probabilidade pré-teste. Exame físico sistemático: melhora acurácia clínica.
+Diferencie as dores e faltas de ar: dor que piora na inspiração profunda é **Pleurítica** (pleura parietal); dor opressiva após esforço é **Isquêmica**. Se a falta de ar melhora ao sentar ou usar travesseiros, é **Ortopneia** (ICC). No exame físico, o **Pulso Irregular** é o gatilho para pensar em Fibrilação Atrial.
 
-Sinal sem contexto: tem baixo valor isolado. Técnica correta: condiciona qualidade do achado. Coerência fisiopatológica: orienta interpretação final.
-
-Sequência do exame: é cobrada pela Uninove. Objetivo: reduzir incerteza diagnóstica com método.
+Por fim, o "quadrado mágico" da semiologia respiratória (Inspeção-Palpação-Percussão-Ausculta) deve ser comparativo. Se um lado está diferente do outro, o problema é focal (Trombo, Pneumonia, Pneumotórax). Se é tudo igual e difuso, o problema tende a ser sistêmico ou de vias aéreas (Asma, DPOC, ICC).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Exame completo | Exame fragmentado | Completo integra etapas; fragmentado aumenta erro |
-| Sinal clínico | Diagnóstico final | Sinal orienta hipótese, não confirma sozinho |
-| Método semiológico | Solicitação imediata de exames | Método direciona exames com maior precisão |
-| Achado técnico confiável | Achado mal coletado | A técnica correta define validade do dado |
+| **Dispneia Cardíaca** | **Dispneia Pulmonar** | **Ortopneia/DPN** vs Sinais focais/Obstrutivos |
+| **Sibilo** | **Estridor** | **Expiratório** (Baixo) vs **Inspiratório** (Alto/Grave) |
+| **Dor Isquêmica** | **Dor Pleurítica** | **Opressiva/Esforço** vs Pontada/Ventilação-dependente |
+| **Sinal Isolado** | **Síndrome** | Um achado (ex: sopro) vs Conjunto (ex: insuficiência mitral) |
+| **Estável** | **Instável** | Fala frases completas vs **Desconforto respiratório franco** |
 
 ### Frase-âncora para não esquecer
 
-> "Semiologia boa economiza exame e ganha diagnóstico."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Fundamentos da Semiologia Cardiorrespiratória** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Na dúvida, olhe o padrão e os vitais; o doente instável não espera sinais finos e pontuais."

@@ -1,187 +1,95 @@
-﻿# Infecções por Arbovírus
+# MAD1 — Aula 17: Infecções por Arbovírus
 
-## Relevância Clínica e Acadêmica
+Os arbovírus (vírus transmitidos por artrópodes) são um dos maiores desafios de saúde pública no Brasil. Na prova, os temas centrais são o diagnóstico diferencial entre **Dengue, Zika e Chikungunya**, os **Sinais de Alarme da Dengue** e a contraindicação absoluta de **AAS e AINEs**.
 
-Os arbovírus (arthropod-borne viruses) são transmitidos por artrópodes (principalmente mosquitos *Aedes aegypti*) e representam um desafio crescente de saúde pública no Brasil e no mundo, especialmente com as mudanças climáticas ampliando a distribuição do vetor. Dengue, Zika e Chikungunya circulam simultaneamente no Brasil, e o diagnóstico diferencial entre eles é essencial porque o manejo difere — especialmente a contraindicação de AAS na dengue.
+Na prática, saber identificar quando um paciente com dengue está prestes a entrar em choque é a diferença entre uma recuperação tranquila e um desfecho fatal.
 
-A Uninove cobra principalmente os critérios de gravidade da dengue, o diagnóstico laboratorial (NS1, IgM, PCR) e as diferenças clínicas entre as três arboviroses.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A17-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diagnóstico diferencial.
+- **O que mostrar:** Infográfico comparativo: Dengue (Febre alta + Dor retro-ocular), Zika (Exantema + Coceira + Conjuntivite) e Chikungunya (Dor articular intensa/incapacitante).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Diferenças clínicas marcantes entre as principais arboviroses brasileiras.
 
+## 1. Dengue
 
+A dengue possui 4 sorotipos. O maior perigo ocorre na **segunda infecção** por um sorotipo diferente, devido à amplificação da resposta imune (ADE).
 
+### Sinais de Alarme (Sinal de que o paciente deve internar agora!)
+- Dor abdominal intensa e contínua.
+- Vômitos persistentes.
+- Acúmulo de líquidos (Ascite, Derrame Pleural).
+- Sangramento de mucosas.
+- **Aumento súbito do Hematócrito** (indica que o sangue está "grosso" porque o líquido vazou).
+
+> **REGRA DE OURO:** **NUNCA usar AAS ou Ibuprofeno** na suspeita de dengue. Eles aumentam drasticamente o risco de hemorragias graves. Use apenas Paracetamol ou Dipirona.
 
 ---
 
+## 2. Zika e Chikungunya
 
+### Zika: O perigo na gestação
+- **Marca Clínica:** Exantema (manchas vermelhas) que **pica/coça muito** e conjuntivite sem secreção.
+- **Microcefalia:** O vírus ataca o sistema nervoso do feto, especialmente se a infecção ocorrer no primeiro trimestre.
+- Outra complicação é a **Síndrome de Guillain-Barré** (paralisia ascendente).
 
-## Dengue
+### Chikungunya: A dor que "entorta"
+- **Marca Clínica:** Febre alta e **Dor nas articulações** extremamente intensa e incapacitante.
+- **Cronicidade:** A dor articular pode durar meses ou anos, exigindo fisioterapia e tratamento prolongado.
 
-### Agente e Epidemiologia
-- Flavivírus; RNA de fita simples positiva; 4 sorotipos (DENV-1 a 4)
-- Vetor: *Aedes aegypti* (principal) e *Aedes albopictus*
-- Imunidade cruzada parcial: 2ª infecção com sorotipo diferente → risco maior de dengue grave (anticorpos heterólogos não neutralizantes → amplificação dependente de anticorpos — **ADE**)
+---
 
-### Quadro Clínico
+## 3. Diagnóstico Laboratorial
 
-| Fase | Tempo | Manifestações |
+| Exame | Quando Pedir? | O que ele vê? |
 |---|---|---|
-| Febril | Dias 1–3 | Febre alta (+38,5°C), mialgia, artralgia, cefaleia retro-orbitária, eritema macular |
-| Crítica | Dias 4–5 | Desfervescência → risco de extravasamento plasmático → dengue grave |
-| Recuperação | Dias 6–7 | Resolução; rash "ilhas brancas em mar vermelho" |
-
-### Dengue Grave — Sinais de Alarme
-
-| Sinal de Alarme | Dengue Grave |
-|---|---|
-| Dor abdominal intensa | Extravasamento plasmático grave → choque (SCD) |
-| Vômitos persistentes | Hemorragia grave (hemorragia digestiva, hematúria) |
-| Acúmulo de líquidos (ascite, derrame pleural) | Comprometimento grave de órgãos (fígado, SNC, coração) |
-| Sangramento de mucosa, letargia | Plaquetas < 100.000 + sinais clínicos graves |
-| Aumento progressivo do Ht (hemoconcentração) | |
-
-> **Dica Crítica:** AAS e AINEs são CONTRAINDICADOS na dengue → risco de hemorragia. Usar apenas paracetamol para febre/dor.
-
-### Diagnóstico
-
-| Teste | Janela | Interpretação |
-|---|---|---|
-| **NS1** (antígeno viral) | Dias 1–5 | Detecta a proteína do vírus; alta sensibilidade na fase aguda |
-| **IgM anti-dengue** | A partir do dia 5–6 | Infecção recente |
-| **PCR RT-PCR** | Dias 1–5 | Confirma sorotipo; mais sensível na viremia |
-| **Hemograma** | Qualquer dia | Leucopenia + plaquetopenia (trombocitose inicial, queda a partir do dia 3) |
-
-### Tratamento
-- Hidratação oral (leve/moderado) ou EV (moderado/grave)
-- Paracetamol (febre/dor) — NÃO AAS/ibuprofeno
-- Internação: sinais de alarme ou dengue grave
-
----
-
-## Zika
-
-### Agente e Epidemiologia
-- Flavivírus; RNA positivo; sorotipo único
-- Vetor: *Aedes aegypti* (principal); também transmitido sexualmente e verticalmente
-- Surto epidêmico no Brasil 2015–2016 → associação com microcefalia
-
-### Quadro Clínico
-- 80% assintomático
-- Sintomático: febre baixa, exantema maculopapular pruriginoso generalizado (diferencia de dengue, que tem menor prurido), artralgia, conjuntivite
-
-### Complicações Graves
-- **Síndrome de Guillain-Barré:** desmielinização após Zika (hipersensibilidade tipo IV e mimetismo) → paralisia flácida ascendente
-- **Síndrome congênita do Zika:** microcefalia, calcificações cerebrais, malformações oculares → infecção no 1º trimestre tem maior risco
-
-### Diagnóstico
-- PCR em sangue ou urina (janela viral: até 7 dias)
-- Sorologia IgM (dificuldade de diferenciação de dengue por reação cruzada)
-- Gestante: USG morfológico + rastreamento Zika
-
----
-
-## Chikungunya
-
-### Agente e Epidemiologia
-- Alphavírus; RNA positivo; família Togaviridae
-- Vetor: *Aedes aegypti* e *Aedes albopictus*
-- Epidemias desde 2014 no Brasil; alta incapacidade por artralgia crônica
-
-### Quadro Clínico
-- Início abrupto: febre alta + **poliartralgia intensa e simétrica** (diferencia: artralgia muito mais intensa que na dengue ou Zika)
-- "Chikungunya" = postura curvada de dor (língua maconde)
-- Exantema maculopapular
-- **Fase crônica:** artralgia persistente > 3 meses → artrite inflamatória incapacitante (principal morbidade)
-
-### Diagnóstico
-- PCR: até 7 dias
-- Sorologia IgM: após 5–7 dias
-
-### Tratamento
-- Sintomático: paracetamol
-- Fase crônica: anti-inflamatórios (cuidado — fase aguda evitar AINEs); fisioterapia; corticoide para artrite persistente
-
----
-
-## Diagnóstico Diferencial — Quadro Comparativo
-
-| Critério | Dengue | Zika | Chikungunya |
-|---|---|---|---|
-| Febre | Alta (+38,5°C) | Baixa (< 38,5°C) | Alta (+38,5°C) |
-| Exantema | Eritema macular; rash tardio "ilhas brancas" | Maculopapular pruriginoso (principal) | Maculopapular |
-| Artralgia | Leve a moderada | Leve | **Intensa, simétrica, incapacitante** |
-| Prurido | Raro | **Frequente** | Moderado |
-| Conjuntivite | Rara | **Frequente** | Rara |
-| Hemorragia | Sim (nas formas graves) | Rara | Rara |
-| Leucopenia + plaquetopenia | Característica | Leucopenia possível | Leucopenia |
-| Complicações graves | Choque, hemorragia | Guilain-Barré, microcefalia | Artrite crônica |
-
----
-
-## Prevenção e Controle
-
-### Vetor
-- Eliminar criadouros de *Aedes aegypti* (água parada) → principal medida de controle
-- Repelentes (DEET, IR3535, picaridina) — seguros em gestantes
-- Telas e roupas de proteção
-
-### Vacinas
-- **Dengvaxia (CYD-TDV):** apenas para soropositivos (quem já teve dengue) — em soronegativo pode induzir doença grave na 1ª infecção pós-vacina
-- Qdenga (Takeda): nova vacina aprovada no Brasil; indicada para 4–60 anos; mais segura em soronagativos
-- Zika: sem vacina disponível
-- Chikungunya: vacina recente aprovada nos EUA (2023); em estudo no Brasil
-
----
-
-## Pontos-Chave
-
-- Dengue: 4 sorotipos; ADE na 2ª infecção; AAS e AINEs contraindicados; NS1 (dias 1–5)
-- Sinais de alarme da dengue: dor abdominal + vômitos + hemoconcentração → internação
-- Zika: exantema pruriginoso + conjuntivite; Guillain-Barré + microcefalia congênita
-- Chikungunya: poliartralgia intensa e simétrica; artrite crônica > 3 meses
-- Todos transmitidos pelo *Aedes aegypti*; controle = eliminar criadouros
+| **NS1** | Até o 5º dia. | Proteína do vírus (Fase Aguda). |
+| **PCR** | Até o 5º dia. | O DNA/RNA do vírus. |
+| **Sorologia (IgM)** | Após o 6º dia. | Os anticorpos que o corpo criou contra o vírus. |
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Gestante de 12 semanas com febre baixa, exantema maculopapular pruriginoso generalizado, conjuntivite e artralgia leve. Mora em região endêmica.
-- Suspeita de **Zika** na gestação → risco de síndrome congênita do Zika
-- Solicitar PCR em sangue/urina; hemograma; USG morfológico seriado
-- Orientar sobre riscos fetais; referenciar para pré-natal de alto risco
-- Notificar ao SINAN; investigar Aedes no domicílio
+Um paciente com febre e dor no corpo que, no quarto dia, para de ter febre mas começa com **dor forte na barriga** e tontura ao levantar, está entrando na **Fase Crítica da Dengue**. O médico não deve se enganar pela melhora da febre; este é o momento de maior risco de choque e morte, exigindo hidratação venosa imediata e monitoramento do hematócrito.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Dengue**: Febre alta + Dor atrás dos olhos.
+- **Zika**: Coceira intensa + Olho vermelho + Microcefalia.
+- **Chikungunya**: Artralgia (dor nas juntas) muito forte.
+- **Hematócrito subindo**: Sinal clássico de choque na dengue (vazamento de plasma).
+- **NS1**: O teste para diagnosticar dengue no primeiro dia de sintomas.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Dengue:** AAS/AINE = CONTRAINDICADO; NS1 diagnóstico dias 1–5; sinal de alarme = internação
-- **Zika:** prurido + conjuntivite; Guillain-Barré + microcefalia (1º trimestre)
-- **Chikungunya:** artralgia intensa e simétrica; artrite crônica = maior morbidade
-- **Todos:** *Aedes aegypti*; eliminar água parada; PCR (< 7 dias) ou IgM (> 5–7 dias)
-- **Dengvaxia:** só para soropositivos; Qdenga: mais segura
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Arboviroses, use os diferenciais. 
+A **Dengue** é a que mata por choque; o segredo está no quarto dia, quando a febre cai (é aí que o sangue "vaza" e o paciente choca). A **Zika** é a "leve" para o adulto (muita coceira e olho vermelho), mas terrível para o bebê (microcefalia). A **Chikungunya** é a que "quebra" o paciente (dor nas juntas tão forte que ele não consegue andar).
+
+No laboratório: **NS1** é pra hoje (até o 5º dia). **IgM** é pra semana que vem (depois do 6º dia). No tratamento: hidratação é tudo. E a proibição máxima: **AAS nem pensar** (pode causar sangramento fatal e a Síndrome de Reye em crianças). Lembre-se: "Febre, dor articular e Brasil? Pense no Aedes".
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Dengue | Chikungunya | Dengue = hemorragia/plaquetopenia + choque; Chikungunya = artralgia incapacitante crônica |
-| Dengue | Zika | Dengue = febre alta, NS1, leucopenia + plaquetopenia; Zika = febre baixa, prurido, conjuntivite |
-| NS1 dengue | IgM dengue | NS1 = fase aguda (dias 1–5); IgM = após dia 5 (resposta imune) |
-| Zika congênita | Rubéola congênita | Zika = microcefalia + calcificações cerebrais; Rubéola = catarata + cardiopatia + surdez |
-| Dengvaxia | Qdenga | Dengvaxia = só soropositivos; Qdenga = 4–60 anos, mais segura em soronagativos |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Dengue** | **Zika** | Febre Alta + Dor retro-ocular vs **Febre Baixa + Prurido/Coceira** |
+| **Sinal de Alarme** | **Dengue Grave** | Indica risco de choque vs **Presença de Choque/Falência** |
+| **Shift (Influenza)** | **ADE (Dengue)** | Salto viral (Pandemia) vs **Piorar na 2ª infecção** |
+| **NS1** | **IgM** | **Antígeno** (Início) vs Anticorpo (Tardio) |
+| **Microcefalia** | **Guillain-Barré** | Congênito (Bebê) vs **Neurológico (Adulto)** |
 
 ### Frase-âncora para não esquecer
-> "Dengue sangra, Zika pica com prurido e deforma o bebê, Chikungunya entorta de dor — e todos chegaram pelo mesmo Aedes. Nunca dê AAS na dengue: ela já sangra sozinha."
+
+> "Dengue choca no 4º dia; Zika coça e o feto desconfia; Chikungunya entorta na agonia; e o AAS é proibido em qualquer via."

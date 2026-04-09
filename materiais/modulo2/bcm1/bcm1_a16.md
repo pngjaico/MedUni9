@@ -1,194 +1,91 @@
-﻿# Distúrbios de Diferenciação Sexual
+# BCM1 — Aula 16: Distúrbios de Diferenciação Sexual (DDS)
 
-## Relevância Clínica e Acadêmica
+A diferenciação sexual é um processo complexo que envolve genes e hormônios desde as primeiras semanas de vida. Na prova, o tema central é entender como o gene **SRY** decide o sexo gonadal e como falhas nos receptores ou enzimas criam as síndromes de **AIS (Insensibilidade a Andrógenos)** e **Hiperplasia Suprarrenal Congênita**.
 
-Os distúrbios da diferenciação sexual (DDS) — antes chamados de "intersexo" ou "hermafroditismo" — abrangem condições em que o desenvolvimento cromossômico, gonadal ou anatômico do sexo não segue o padrão usual. São situações que desafiam o médico a integrar genética, embriologia, endocrinologia e ética clínica. Com prevalência estimada em 1:4.000 a 1:5.000 nascidos vivos (para os casos clinicamente relevantes), o tema aparece tanto em provas de biologia celular quanto em ginecologia, urologia e pediatria.
+Na prática, identificar um recém-nascido com genitália ambígua é uma emergência médica que exige exames rápidos para evitar crises hormonais graves.
 
-A Uninove costuma cobrar os mecanismos moleculares básicos da diferenciação sexual normal (gene SRY, testosterona, hormônio anti-mülleriano), bem como três condições clássicas: síndrome de insensibilidade aos andrógenos, hiperplasia congênita das suprarrenais e síndrome de Turner. O entendimento preciso de cada um evita erros frequentes sobre fenótipo vs. cariótipo.
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `BCM1-A16-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação sexual normal.
+- **O que mostrar:** O "Porto de Decisão": Um fluxograma onde o gene **SRY** (o capitão) decide se o navio vai para o porto do Testículo ou do Ovário. No lado masculino, mostrar os três hormônios: **Testosterona** (trato interno), **DHT** (genitália externa) e **AMH** (que afunda os ductos femininos).
+- **Tipo sugerido:** Infográfico didático (Fluxograma).
+- **Legenda (rascunho):** A cascata hormonal e genética da diferenciação sexual.
 
+## 1. O Gene Mestre: SRY
 
-
-
----
-
-
-
-## Diferenciação Sexual Normal — Bases Moleculares
-
-### 1. Determinação do Sexo Cromossômico
-
-Na fertilização, o espermatozoide com Y → embrião XY (masculino genético); X → embrião XX (feminino genético).
-
-### 2. Determinação do Sexo Gonadal
-
-**Gene SRY** (Sex-determining Region Y) no braço curto do Y (Yp11.3) codifica o fator TDF (Testis-Determining Factor). Nenhum outro gene Y é estritamente necessário para a masculinização gonadal.
-
-- **SRY presente → SOX9 ativado → gônada indiferente → testículo**
-- **SRY ausente → WNT4/RSPO1/FOXL2 → ovário** (diferenciação feminina é o "padrão default" sem SRY)
-
-### 3. Diferenciação do Trato Genital
-
-O embrião possui dois sistemas de ductos indiferenciados até a 8ª semana:
-- **Ductos de Müller (paramesonéfricos):** precursores das tubas uterinas, útero, 2/3 superiores da vagina
-- **Ductos de Wolff (mesonéfricos):** precursores do epidídimo, ducto deferente, vesícula seminal
-
-| Condição | Ductos de Wolff | Ductos de Müller | Resultado |
-|---------|----------------|-----------------|----------|
-| **Testículo presente** (normal masc.) | Estimulados por testosterona → persistem | Inibidos pelo AMH → regridem | Trato masculino |
-| **Ovário presente** (normal fem.) | Sem testosterona → regridem | Sem AMH → persistem | Trato feminino |
-| **Sem gônada (gonadal disgenesia)** | Regridem (sem T) | Persistem (sem AMH) | Fenótipo feminino |
-
-**Hormônios gonadais masculinos:**
-- **Testosterona** (célula de Leydig): virilização do trato interno (Wolff) e genitália externa (DHT)
-- **DHT** (diidrotestosterona, via 5α-redutase): virilização da genitália externa (pênis, escroto, próstata)
-- **AMH — Hormônio Anti-Mülleriano** (célula de Sertoli): regressão dos ductos de Müller
-
-### 4. Diferenciação da Genitália Externa
-
-| Estrutura indiferenciada | Em XY (via DHT) | Em XX (sem DHT) |
-|--------------------------|-----------------|----------------|
-| Tubérculo genital | Glande do pênis | Clitóris |
-| Pregas urogenitais | Corpo do pênis | Lábios menores |
-| Saliências labioescrotais | Escroto | Lábios maiores |
+O gene **SRY**, localizado no cromossomo Y, é o "interruptor" que manda a gônada virar um testículo.
+- **SRY Presente:** Vira Testículo.
+- **SRY Ausente:** Vira Ovário (o "padrão de fábrica" do ser humano é ser feminino).
 
 ---
 
-## Classificação dos DDS (Consenso 2006)
+## 2. Hormônios: Os Executores
 
-| Categoria | Exemplos |
-|-----------|---------|
-| **DDS cromossômico XX** | Síndrome de Turner (45,X), mosaicos |
-| **DDS cromossômico XY** | Síndrome de Klinefelter (47,XXY), 45,X/46,XY |
-| **DDS 46,XY** | Deficiência de 5α-redutase, síndrome de insensibilidade aos andrógenos (CAIS/PAIS), deficiência de 17β-HSD, disgenesia gonadal XY |
-| **DDS 46,XX** | Hiperplasia congênita das suprarrenais (HCA), exposição a andrógenos exógenos, gonadal disgenesia XX |
+Uma vez que o testículo se formou, ele libera três substâncias vitais:
+1. **AMH (Hormônio Anti-Mülleriano):** Destrói as estruturas que virariam útero e tubas uterinas.
+2. **Testosterona:** Cria as vias internas masculinas (epidídimo, ducto deferente).
+3. **DHT:** Cria o pênis e o escroto (precisa da enzima **5α-redutase**).
 
 ---
 
-## Condições Clássicas
+## 3. Síndromes Clássicas de Prova
 
 ### Síndrome de Insensibilidade aos Andrógenos (AIS)
+Cariótipo **46,XY**. O corpo produz testosterona, mas o "receptor" está quebrado.
+- **Fenótipo:** Menina com aparência feminina normal, mas **sem útero** (o AMH funcionou) e **sem pelos** (o receptor de testosterona não capta nada). Costuma descobrir na adolescência porque não menstrua (**Amenorreia Primária**).
 
-**Cariótipo:** 46,XY
-**Gene:** *AR* (receptor de andrógeno), ligado ao X
-**Herança:** XLR (mắc somente em XY com mutação; mulheres XX são portadoras)
+### Hiperplasia Suprarrenal Congênita (HCA)
+Cariótipo **46,XX** (em meninas). Falta a enzima **21-hidroxilase**.
+- **Problema:** A glândula suprarrenal não consegue fabricar Cortisol e acaba fabricando **Hormônios Masculinos** demais.
+- **Sintomas:** Menina que nasce com genitália que parece um pênis (**Virilização**). Além disso, pode perder muito sal no sangue e entrar em choque (perdedora de sal).
 
-**Mecanismo:** Célula de Leydig produz testosterona normalmente; AMH produzido normalmente → ductos de Müller regridem → SEM útero, tuба, vagina superior. Porém, o receptor de andrógeno não funciona → testosterona e DHT não exercem efeito → ductos de Wolff também regridem → fenótipo feminino completo (CAIS) ou parcialmente virilizado (PAIS).
-
-**Forma completa (CAIS):**
-- Fenótipo feminino sem ambiguidade
-- Vagina blindada (sem útero, sem ovários)
-- Testículos abdominais ou inguinais
-- Apresentação: amenorreia primária + ausência de pelos pubianos/axilares em mulher com 15–16 anos
-- Diagnóstico: cariótipo 46,XY em "mulher" com amenorreia
-
-**Forma parcial (PAIS):**
-- Genitália ambígua; hipospadias, micropênis, clitoromegalia
-- Fenótipo variável
-
-> **Dica Uninove:** CAIS = "menina" XY que nunca menstruou e não tem pelos. É a mulher com o receptor de andrógeno disfuncional. Ovários? Não; testículos (internos). Útero? Não (AMH funcionou).
-
-### Hiperplasia Congênita das Suprarrenais (HCA)
-
-**Cariótipo:** 46,XX (forma virilizante em meninas) ou 46,XY (geralmente assintomático na forma leve)
-
-**Causa mais comum (95%):** Deficiência de **21-hidroxilase** (gene *CYP21A2*, autossômico recessivo)
-
-**Mecanismo:**
-21-OH converte progesterona → 11-desoxicortisol → cortisol (via glicocorticóide)
-e 17OH-progesterona → 11-desoxicorticosterona → aldosterona (via mineralocorticóide)
-
-Sem 21-OH → cortisol ↓ → ACTH ↑ (feedback negativo ausente) → hiperplasia da suprarrenal → acúmulo de 17OH-progesterona e andrógenos suprarrenais (DHEA-S, androstenediona, testosterona) → virilização.
-
-**Formas clínicas:**
-
-| Forma | Enzima | Características |
-|-------|--------|----------------|
-| **Perdedora de sal (grave)** | 21-OH (<1% ativ.) | Crise adrenal no neonato (hiponatremia, hipercalemia, hipotensão, choque); genitália ambígua em XX |
-| **Virilizante simples** | 21-OH (1–2% ativ.) | Virilização sem perda salina; genitália ambígua em XX; crescimento acelerado, avanço de idade óssea |
-| **Forma não-clássica (tardia)** | 21-OH (20–60% ativ.) | Pubarca precoce, hirsutismo, irregularidade menstrual, SOP-like em mulher adulta |
-
-**17OH-progesterona elevada** = marcador diagnóstico da deficiência de 21-OH.
-
-**Tratamento:** glicocorticóide (hidrocortisona) + fludrocortisona (forma perdedora de sal).
-
-### Deficiência de 5α-Redutase tipo 2
-
-**Cariótipo:** 46,XY
-**Gene:** *SRD5A2* (AR)
-**Herança:** Autossômico recessivo
-
-**Mecanismo:** 5α-redutase converte testosterona → DHT. Sem DHT → genitália externa não virilizada → fenótipo feminino ao nascimento → criança criada como menina. Na puberdade: testosterona sobe → alguma virilização ocorre (pênis cresce, voz engrossa, testículos descem) → reversão do sexo fenotípico.
-
-**Pistas:** Menina que "vira homem" na puberdade. Estudado em famílias da República Dominicana ("güevedoces" = testículos aos 12 anos).
-
-### Disgenesia Gonadal XY (Síndrome de Swyer)
-
-**Cariótipo:** 46,XY
-**Gônada:** estrias fibrosas (sem testículo funcional)
-**Fenótipo:** feminino (sem testosterona → sem virilização; sem AMH → útero/tuba presentes)
-**Risco:** gonadoblastoma nas estrias → gonadectomia profilática recomendada
-
----
-
-## Pontos-Chave
-
-- **SRY → SOX9 → testículo;** sem SRY → ovário (padrão "default")
-- **Testosterona:** viriliza ductos de Wolff (trato interno masculino)
-- **DHT (via 5α-redutase):** diferencia genitália externa masculina
-- **AMH:** produzido pelo Sertoli → regride ductos de Müller
-- **CAIS:** 46,XY, receptor de andrógeno disfuncional → fenótipo feminino, sem útero, sem pelos, amenorreia primária
-- **HCA por def. 21-OH:** AR, 17OH-P elevada, virilização de XX, crise adrenal na forma perdedora de sal
-- **Def. 5α-redutase:** 46,XY, puberalmente viriliza ("güevedoces")
-- **Swyer (46,XY):** estrias gonadais + fenótipo feminino + útero presente (risco de gonadoblastoma)
-- **Diagnóstico de AIS:** cariótipo 46,XY em mulher com amenorreia primária e ausência de pelos
-- **HCA perdedora de sal:** hiponatremia + hipercalemia no neonato = emergência endócrina
+### Deficiência de 5α-Redutase
+Cariótipo **46,XY**. O bebê nasce com genitália feminina, mas na puberdade, quando a testosterona sobe muito, o pênis cresce e o testículo desce ("virira homem").
 
 ---
 
 ## Ponte com a Clínica
 
-**Recém-nascido com genitália ambígua:** emergência pediátrica. Investigação: cariótipo urgente + 17OH-progesterona + eletrólitos + ultrassom abdominal/pélvico. Excluir HCA perdedora de sal (risco de colapso cardiovascular em 1–2 semanas de vida) antes de qualquer outra condição. A designação de sexo deve ser tomada com a família, equipe multidisciplinar e especialista em DDS.
+O diagnóstico de **Hiperplasia Suprarrenal Congênita (HCA)** é feito no **Teste do Pezinho**. Se o teste vier positivo ou se um bebê nascer com genitália ambígua, o tratamento deve ser imediato com **Corticoide**. Sem isso, o bebê pode ter um desequilíbrio grave de eletrólitos (falta de sódio e excesso de potássio) e morrer em poucos dias. É uma das poucas emergências genéticas em que o tempo de tratamento define a vida do paciente.
 
-**Amenorreia primária em "adolescente feminina":** → TSH, FSH, LH, estradiol, prolactina → ultrassom pélvico → se sem útero + FSH alto → cariótipo → 46,XY → CAIS. Informar a paciente com sensibilidade; gonadectomia eletiva (risco de gonadoblastoma ao redor dos 25–30 anos).
+---
 
-**HCA forma tardia / SOP-like:** mulher jovem com hirsutismo, acne, irregularidade menstrual → 17OH-progesterona basal (manhã, fase folicular) > 2 ng/mL → confirmar com teste de estímulo com ACTH → defeito de 21-OH → tratar com hidrocortisona em baixa dose.
+## Pontos-Chave para Prova
 
-**Swyer e gonadoblastoma:** toda mulher com cariótipo 46,XY e gônadas disgenéticas tem indicação de gonadectomia bilateral profilática devido ao risco elevado de gonadoblastoma e disgerminoma (10–20%).
+- **Gene SRY**: Fica no cromossomo **Y** e manda virar testículo.
+- **AIS (Insensibilidade)**: Cariótipo XY, fenótipo feminino, **Sem útero e Sem pelos**.
+- **HCA (Hiperplasia)**: Cariótipo XX, fenótipo virilizado, **Com útero** (mas genitália externa masculina).
+- **DHT**: Hormônio responsável por fabricar o **Pênis**.
+- **AMH**: Hormônio responsável por **Sumir com o Útero**.
+- **17OH-Progesterona**: Marcador que sobe muito na HCA.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **SRY em Yp → TDF → SOX9 → testículo;** sem SRY → ovário
-- **Testosterona → ductos de Wolff; DHT → genitália externa masc.; AMH → regride Müller**
-- **CAIS:** 46,XY, AR disfuncional, fenótipo feminino, SEM útero (AMH funcionou), SEM pelos, amenorreia primária
-- **HCA def. 21-OH:** AR, 17OH-P elevada; virilização XX; perdedora de sal = hipoNa + hiperK no RN
-- **Def. 5α-redutase:** 46,XY, nasce feminino, viriliza na puberdade
-- **Swyer 46,XY:** estria gonadal, fenótipo feminino, útero presente (sem AMH) → gonadoblastoma
-- **Sem gônada → fenótipo feminino** (sem T e sem AMH)
-- **Diagnóstico DDS RN:** 17OH-P + cariótipo + eletrólitos urgente
+
+Para gabaritar DDS, foque na presença do útero. 
+A Uninove adora casos de "adolescente feminina que não menstruou". Se o exame mostrar que ela **não tem útero**, a resposta é **AIS (46,XY)**. Se ela **tem útero** e o problema é genitália que parece pênis, a resposta é **HCA (46,XX)**. Lembre-se: o **AMH** é quem destrói o útero. Se o testículo está lá, o AMH está sendo produzido.
+
+Outra questão certa: **Emergência no Recém-Nascido**. Se um bebê tem genitália ambígua e o sódio está caindo no sangue, é **HCA perdedora de sal** por falta de **21-hidroxilase**. E sobre a síndrome de **Swyer**, decore que é uma pessoa XY que nasce com o gene SRY quebrado; ela tem útero e parece mulher, mas tem gônadas que não funcionam e precisam ser retiradas para não virar câncer.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| CAIS (AIS completa) | Def. 5α-redutase | CAIS = receptor AR disfuncional, SEM virilização puberal; 5α-red = receptor OK, viriliza na puberdade |
-| HCA perdedora de sal | HCA virilizante simples | Perdedora de sal = <1% 21-OH, hipoNa+hiperK; Virilizante = 1–2%, sem crise salina |
-| Swyer (46,XY) | CAIS (46,XY) | Swyer = trato feminino completo (útero presente) + estrias; CAIS = sem útero, sem Müller |
-| DHT | Testosterona | DHT = genitália externa masculina (via 5α-redutase); Testosterona = ductos de Wolff + secundário |
-| SRY + | SRY − | SRY+ → testículo → masculino; SRY− → ovário → feminino ("padrão default") |
+| **AIS (Insensibilidade)** | **HCA (Hiperplasia)** | Nasce menina (XY) vs **Nasce Masculinizada (XX)** |
+| **SRY** | **TDF** | Nome do gene vs **Nome da proteína (Fator de Determinação)** |
+| **Ductos de Müller** | **Ductos de Wolff** | Vira trato feminino vs **Vira trato masculino** |
+| **HCA Perdedora de Sal** | **HCA Virilizante Simples** | Choque e Desidratação vs **Apenas Genitália Ambígua** |
+| **Testosterona** | **DHT** | Estruturas internas (Deferentes) vs **Estruturas externas (Pênis)** |
 
 ### Frase-âncora para não esquecer
-> "SRY comanda o testículo, que envia 3 mensageiros: Testosterona (viriliza por dentro), DHT (viriliza por fora) e AMH (apaga o Müller). Se qualquer mensageiro falha, o feminino prevalece — mas os detalhes clínicos identificam ONDE a falha ocorreu."
+
+> "SRY liga o testículo, AMH apaga o útero. DHT faz o pênis e a 21-hidroxilase cuida do sódio no útero. Se o receptor trava, a AIS desabafa; se a enzima para, a HCA arrasa."

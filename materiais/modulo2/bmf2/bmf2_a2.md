@@ -7,21 +7,6 @@
 
 ## Relevância Clínica e Acadêmica
 
-As propriedades do músculo cardíaco são o eixo da fisiologia cardiovascular porque conectam sinal elétrico, geração de força e desempenho hemodinâmico. Na prova, esse tema costuma aparecer em questões integradas: ECG + mecanismo iônico + efeito clínico de fármacos.
-
-Na prática, entender excitabilidade, automatismo, condutibilidade, contratilidade e refratariedade ajuda a prever por que um paciente evolui com bradicardia, taquiarritmia, baixo débito, congestão pulmonar ou choque cardiogênico.
-
-Além disso, os conceitos de **inotropismo**, **cronotropismo**, **dromotropismo** e **lusitropismo** são fundamentais para interpretar intervenções terapêuticas em UTI, emergência e enfermaria.
-
-## Excitabilidade: o limiar elétrico do miocárdio
-
-**Excitabilidade** é a capacidade de a célula miocárdica gerar potencial de ação quando o estímulo atinge o limiar. Ela depende da distribuição de canais de Na+, Ca2+ e K+, do potencial de membrana de repouso e do estado metabólico celular.
-
-Nos cardiomiócitos contráteis (átrio e ventrículo), a fase 0 é rápida e predominantemente por entrada de Na+; já nas células marcapasso, a despolarização depende mais de correntes lentas, sobretudo de Ca2+, com participação da corrente funny (If).
-
-Na isquemia, acidose e distúrbios hidroeletrolíticos, o limiar pode ser alterado. Isso explica por que hipercalemia e hipóxia aumentam risco arrítmico: a excitabilidade se torna heterogênea no tecido, favorecendo circuitos de reentrada.
-
-> **Dica de Prova:** banca gosta de associar alteração de K+ sérico com mudança de excitabilidade e risco de arritmia, não apenas com "onda T alterada".
 
 > **Pegadinha:** confundir excitabilidade (capacidade de disparar) com contratilidade (força de contração). São propriedades diferentes, embora interdependentes.
 

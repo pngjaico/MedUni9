@@ -1,126 +1,93 @@
 # MAD2 — Aula 5: ISTs Bacterianas — Treponema, Neisseria, Chlamydia
 
-**Disciplina:** Mecanismos Sistêmicos de Agressão e Defesa  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-15 min
+As Infecções Sexualmente Transmissíveis (ISTs) bacterianas são temas fundamentais na medicina de ponta. Na prova, os temas centrais são o reconhecimento das diferentes fases da **Sífilis**, o diagnóstico diferencial das úlceras genitais e o manejo das **Uretrites/Cervicites** causadas por Gonococo e Clamídia.
+
+Na prática, o médico deve saber que uma ferida indolor pode ser o começo de uma doença sistêmica grave e que o tratamento sempre deve incluir o **Parceiro Sexual** para quebrar a corrente de transmissão.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-IST bacteriana é o tipo de tema que parece simples demais até o aluno perceber quantas provas são montadas em cima dele. O motivo é claro: une microbiologia, semiologia, saúde pública e tratamento. Além disso, é assunto de vida real. Diagnóstico tardio ou conduta incompleta não gera só manutenção de sintomas, gera infertilidade, transmissão vertical, doença inflamatória pélvica e cadeia contínua de disseminação.
-
-Na Uninove, o que costuma ser cobrado não é a lista solta de agentes, mas o raciocínio por síndrome: úlcera genital, uretrite, cervicite, dor pélvica, conjuntivite neonatal, sífilis em fases. Quem aprende a organizar por apresentação clínica consegue diferenciar **Treponema pallidum**, **Neisseria gonorrhoeae** e **Chlamydia trachomatis** sem decorar em bloco.
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD2-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de sífilis.
+- **O que mostrar:** O "Ciclo do Treponema": Uma linha do tempo da sífilis mostrando o **Cancro Duro** (Primária), as manchas na mão e pé (**Secundária**) e as gomas e lesões no coração/cérebro (**Terciária**).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Manifestações clínicas da sífilis ao longo do tempo.
 
+## 1. Sífilis (Treponema pallidum): A Grande Simuladora
 
-
+A sífilis é dividida em estágios, e cada um tem uma "cara" diferente:
+- **Primária:** A marca é o **Cancro Duro** — uma úlcera (ferida) única, com bordas endurecidas e, o mais importante, **Totalmente Indolor**. Ela some sozinha em algumas semanas, o que engana o paciente.
+- **Secundária:** Ocorre meses depois. O paciente apresenta manchas vermelhas pelo corpo, inclusive na **Palma das mãos e Sola dos pés**. É altamente contagiosa.
+- **Terciária:** Ocorre anos depois. Ataca o sistema cardiovascular (Aorta) e o sistema nervoso central (**Neurossífilis**).
+- **Congênita:** Quando a mãe passa para o bebê. Pode causar malformações graves e morte fetal.
 
 ---
 
-## Sífilis não é uma doença, é uma sequência clínica
+## 2. Gonorreia e Clamídia: As Causadoras de Corrimento
 
-A sífilis confunde porque o agente é o mesmo, mas a expressão clínica muda com o tempo. Na sífilis primária, a lesão clássica é o cancro duro: úlcera genital indolor, de base limpa, com linfadenopatia regional pouco dolorosa. O grande erro do iniciante é achar que lesão indolor significa quadro benigno. Aqui, ela significa justamente uma pista diagnóstica valiosa.
+Essas duas bactérias costumam andar juntas e causam inflamação nos canais genitais.
+- **Gonorreia (Neisseria gonorrhoeae):** Causa um **Corrimento Purulento** (pus) abundante e muita dor ao urinar (**Disúria**). No microscópio, vemos diplococos gram-negativos.
+- **Clamídia (Chlamydia trachomatis):** É mais "silenciosa". O corrimento é mais ralo (mucoide) e muitas vezes o paciente não sente nada (**Assintomático**).
+- **Perigo:** Por ser silenciosa, a clamídia é a maior causa de infertilidade, pois inflama as trompas sem a mulher perceber.
 
-Na sífilis secundária, o quadro deixa de ser local e ganha cara sistêmica: rash, linfadenopatia, lesões em mucosa, acometimento palmoplantar. Essa fase é muito cobrada porque o enunciado costuma tentar confundir com virose exantemática ou quadro dermatológico inespecífico.
+---
 
-A fase latente é silenciosa, mas clinicamente importante porque mantém relevância epidemiológica e obstétrica. Já a sífilis terciária lembra que a infecção não tratada não desaparece: ela pode reaparecer como lesão cardiovascular, neurológica ou gomatosa tardia.
+## 3. DIP: Doença Inflamatória Pélvica
 
-> **Dica de Prova:** úlcera genital **indolor** e de base endurecida aponta muito mais para sífilis primária do que para herpes.
+Quando a gonorreia ou a clamídia sobem do colo do útero para o útero e trompas, o quadro vira uma **DIP**.
+- **Sinais Clássicos:** Dor abdominal baixa, febre e, no exame físico, **Dor à Mobilização do Colo do Útero**.
+- **Complicações:** Se não tratada rápido, causa cicatrizes nas trompas, levando à **Infertilidade** ou ao aumento do risco de **Gravidez Ectópica**.
 
-> **Pegadinha:** tratar a lesão e esquecer estadiamento. O tratamento depende da fase clínica, e a interpretação sorológica também.
+---
 
-## Gonorreia e clamídia: a sobreposição que exige raciocínio sindrômico
+## 4. Tratamento e Conduta Sindrômica
 
-**Neisseria gonorrhoeae** e **Chlamydia trachomatis** aparecem juntas porque, na prática, muitas vezes precisam ser pensadas juntas. Uretrite com corrimento purulento chama mais atenção para gonococo, mas coinfecção com clamídia é frequente. Cervicite mucopurulenta, disúria e dor pélvica em mulher jovem exigem que você não reduza o problema a uma "infecção urinária baixa" sem exame clínico.
+Na dúvida, tratamos as síndromes de forma completa:
+- **Uretrite/Cervicite:** Geralmente tratamos para Gonococo e Clamídia ao mesmo tempo (**Ceftriaxona + Azitromicina**).
+- **Sífilis:** O tratamento de escolha é a **Penicilina Benzatina** (Benzetacil). A dose e o tempo dependem da fase da doença.
+- **Parceiros:** É obrigatório tratar todos os parceiros sexuais dos últimos 90 dias, mesmo que eles não tenham sintomas.
 
-A clamídia merece atenção especial porque pode fazer quadro mais silencioso e, justamente por isso, deixar sequela reprodutiva. O dano tubário não acontece porque o agente é "agressivo" em aparência clínica, mas porque ele pode persistir e subir pelo trato genital sem grande alarde inicial.
-
-> **Dica de Prova:** em uretrite e cervicite, prova gosta de cobrar cobertura para gonorreia **e** clamídia quando o contexto favorece coinfecção.
-
-## Doença inflamatória pélvica: a complicação que muda o peso da aula
-
-Quando a infecção ascende do trato genital inferior para útero, tubas e estruturas adjacentes, o cenário muda. A doença inflamatória pélvica não é só uma infecção mais extensa; ela é um ponto de virada prognóstica. Dor pélvica, febre, corrimento e dor à mobilização do colo são sinais que devem levantar suspeita imediatamente.
-
-O motivo de tanta cobrança em prova é simples: DIP está ligada a infertilidade, gestação ectópica e dor pélvica crônica. Não reconhecer cedo significa perder janela de proteção funcional. Em mulher jovem com dor pélvica e história sexual compatível, o raciocínio precisa incluir DIP cedo, mesmo que o quadro não esteja dramaticamente exuberante.
-
-| Síndrome clínica | Agente mais associado | Pista forte de prova | Risco se não tratar cedo |
-|------------------|-----------------------|----------------------|---------------------------|
-| Úlcera genital indolor | Treponema pallidum | Cancro duro | Progressão para sífilis sistêmica |
-| Uretrite purulenta | Neisseria gonorrhoeae | Corrimento mais exuberante | Disseminação e transmissão |
-| Cervicite mais silenciosa | Chlamydia trachomatis | Quadro menos chamativo | Lesão tubária e infertilidade |
-| Dor pélvica + dor à mobilização do colo | Gonococo/clamídia | Quadro de DIP | Infertilidade e ectópica |
-
-## Diagnóstico: clínica boa vale mais que excesso de exames aleatórios
-
-IST não se investiga no vazio. O exame complementar serve para confirmar hipótese provável, não para substituir anamnese e exame físico. Em sífilis, sorologias precisam ser interpretadas segundo fase clínica e seguimento. Em gonorreia e clamídia, métodos de detecção do agente ajudam muito, mas o tratamento não deve atrasar quando o cenário clínico é compatível.
-
-Uma questão clássica de prova apresenta paciente com sinais claros de IST e oferece uma alternativa cheia de exames sofisticados, contrapondo-a a outra com abordagem sindrômica racional. O acerto está em lembrar que tratar precocemente, testar parceiros e quebrar cadeia de transmissão é parte do raciocínio correto.
-
-## Parceiro sexual e transmissão vertical nunca são detalhe
-
-Quem trata apenas o paciente sintomático e esquece o parceiro está mantendo o problema vivo. Em IST bacteriana, manejo de parceiro faz parte da terapêutica. Isso vale tanto por controle individual quanto por saúde pública. O mesmo vale para rastreio em gestante, especialmente na sífilis, porque o impacto fetal pode ser grave mesmo quando a mãe não parece dramaticamente doente.
-
-Sífilis congênita é um daqueles assuntos que os professores cobram porque expõe falha evitável de cuidado. O raciocínio correto é simples: se existe rastreio disponível, tratamento eficaz e prevenção de dano fetal, o erro assistencial fica ainda mais grave quando não se age.
-
-> **Pegadinha:** melhora clínica do paciente não encerra caso de IST se parceiro não foi avaliado e tratado quando indicado.
-
-## Como a questão costuma ser montada
-
-O padrão mais frequente é apresentar síndrome e pedir agente provável, conduta inicial ou complicação evitável. Outra forma comum é misturar sinais de sífilis secundária com exantema inespecífico, ou dor pélvica com quadro urinário, para testar se você consegue manter foco no eixo clínico certo.
-
-Se organizar a resposta nesta ordem, erra menos: primeiro identificar síndrome dominante, depois o agente mais provável, depois a principal complicação e por fim a conduta que interrompe transmissão. Esse encadeamento resolve a maior parte das questões.
+---
 
 ## Ponte com a Clínica
 
-Na vida real, IST bacteriana não é tema de ambulatório rápido e superficial. É assunto de impacto reprodutivo, neonatal e epidemiológico. A boa conduta é aquela que trata o sintoma atual, protege fertilidade futura, reduz transmissão e não perde oportunidade de educação sexual e rastreio adequado.
+O grande erro médico na sífilis é tratar apenas a ferida (Cancro Duro) e achar que o problema acabou quando ela some. A sífilis "estaciona" no corpo (fase latente) e continua destruindo órgãos internamente. Todo paciente com uma IST deve ser testado para outras, como HIV e Hepatites, pois o comportamento de risco costuma ser o mesmo. O acompanhamento é feito com o exame de **VDRL**, que deve cair após o tratamento correto.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Cancro duro:** é lesão indolor típica da sífilis primária.
-- **Sífilis secundária:** costuma ter manifestações sistêmicas e rash.
-- **Gonorreia:** tende a causar uretrite mais purulenta e exuberante.
-- **Clamídia:** pode ser mais silenciosa e ainda assim causar grande sequela.
-- **DIP:** é complicação central por risco de infertilidade e ectópica.
-- **Tratamento sindrômico:** não deve atrasar diante de quadro clínico compatível.
-- **Parceiro sexual:** faz parte do manejo, não é etapa opcional.
-- **Sífilis gestacional:** exige atenção por risco de transmissão vertical.
+- **Cancro Duro**: Úlcera genital **Indolor**; marca da sífilis primária.
+- **Sífilis Secundária**: Lesões **Palmoplantares** (mãos e pés).
+- **Gonococo**: Corrimento **Purulento** e profuso.
+- **Clamídia**: Causa principal de **Infertilidade** por lesão tubária silenciosa.
+- **DIP**: Tríade de dor abdominal + corrimento + dor à mobilização do colo.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Úlcera indolor:** pensar primeiro em sífilis.
-- **Corrimento purulento:** sugere gonorreia.
-- **Clamídia silenciosa:** ainda pode deixar sequela grave.
-- **Dor pélvica + colo doloroso:** pensar em DIP.
-- **Sífilis tem fases:** quadro muda com o tempo.
-- **Parceiro entra no tratamento:** sempre que indicado.
-- **Gestante com sífilis:** risco fetal importante.
-- **Conduta precoce:** reduz transmissão e sequela.
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar ISTs, diferencie a dor. 
+**Úlcera que dói** = Herpes (vesículas) ou Cancro Mole. **Úlcera que NÃO dói** = Sífilis (Cancro Duro). No corrimento, se o pus "escorre", pense em Gonorreia. Se for discreto, pense em Clamídia. Lembre-se que o diagnóstico da sífilis é feito pelo VDRL (pesquisa de anticorpos) e o tratamento é com Benzetacil.
+
+A Uninove ama cobrar sobre a **Sífilis Secundária**. Decore as manchas nas mãos e pés! Outro ponto forte é a **DIP**. Se a questão fala de dor ao mexer no colo do útero, a resposta é DIP. Por fim, não esqueça: o tratamento da gestante com sífilis é prioridade absoluta para evitar a sífilis congênita; se o parceiro não for tratado, a mãe é considerada "não tratada" e o bebê precisará de exames invasivos ao nascer.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Sífilis primária | Herpes genital | Sífilis tende a úlcera indolor; herpes costuma ser doloroso |
-| Gonorreia | Clamídia | Gonorreia costuma ser mais exuberante; clamídia pode ser mais silenciosa |
-| Cervicite | Infecção urinária baixa | Cervicite exige contexto sexual e exame ginecológico coerente |
-| DIP | Dor pélvica inespecífica | DIP associa-se a contexto infeccioso e dor à mobilização do colo |
+| **Cancro Duro (Sífilis)** | **Cancro Mole** | Úlcera **Indolor** vs Úlcera **Muito Dolorosa** |
+| **Gonococo** | **Clamídia** | Corrimento **Purulento** vs Corrimento **Mucoide/Escasso** |
+| **VDRL** | **FTA-ABS / Teste Rápido** | Exame para **Seguimento** (cai no tto) vs Exame para **Diagnóstico** (fixo) |
+| **Cervicite** | **DIP** | Infecção no **Colo** vs Infecção que **Subiu para as Trompas** |
+| **Sífilis Primária** | **Sífilis Secundária** | Ferida **Local** vs Manchas **Sistêmicas** |
 
 ### Frase-âncora para não esquecer
-> "IST mal tratada não termina no sintoma: termina em transmissão e sequela."
+
+> "Sífilis primária não dói, mas a secundária mancha a mão. Gonococo faz o pus descer, mas a clamídia é quem rouba a fertilidade em silêncio. No útero, se mexer o colo e doer, a DIP se instalou."

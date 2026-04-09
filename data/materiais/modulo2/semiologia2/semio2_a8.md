@@ -1,114 +1,95 @@
-﻿# SEMIO2 — Aula 8: Reunião Clínica — Casos Cardiovasculares
+# SEMIO2 — Aula 8: Reunião Clínica — Casos Cardiovasculares
 
-**Disciplina:** Semiologia Cardiovascular e Respiratória
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+A reunião clínica integra os achados semiológicos à tomada de decisão prática em cardiologia. Na prova, o foco recai sobre o **Diagnóstico Diferencial de Dor Torácica**, a classificação da **IC Descompensada** e a diferenciação entre **Urgência e Emergência Hipertensiva**.
+
+Na prática, o raciocínio hierarquizado por risco imediato garante que causas fatais sejam excluídas ou tratadas nos primeiros minutos do atendimento.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Reunião clínica cardiovascular é momento de consolidar raciocínio em equipe. A **Uninove** costuma cobrar essa competência em questões de caso, onde o aluno precisa hierarquizar hipótese, justificar exame complementar e propor conduta inicial sem perder coerência fisiopatológica.
-
-Na prática, discutir casos melhora segurança clínica porque reduz decisão isolada e aumenta qualidade do plano terapêutico.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO2-A8-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de diferenciação de dor torácica.
+- **O que mostrar:** Tabela comparativa de dores torácicas graves: IAM (Opressiva), Dissecção (Rasgo), TEP (Pleurítica) e Pericardite (Posicional).
+- **Tipo sugerido:** Infográfico didático.
+- **Legenda (rascunho):** Perfis de dor torácica de alta gravidade.
 
-## Como Estruturar Discussão de Caso Cardiovascular
+## Diagnóstico Diferencial de Dor Torácica
 
-A discussão deve seguir linha clara: problema principal, dados críticos, hipótese sindrômica, diagnóstico diferencial, gravidade e próximo passo. Em cardiologia, sinais de baixo débito, congestão e dor torácica de risco precisam ser priorizados.
+Lembre-se da "Regra dos 10 Minutos" para o ECG em qualquer suspeita isquêmica.
 
-> **Dica de Prova:** em caso cardiovascular, sempre diga primeiro o que é urgente excluir.
+| Suspeita | Perfil de Dor | Pista no Exame Físico |
+|---|---|---|
+| **SCA (Infarto)** | **Opressiva/Peso** | Sudorese, náuseas, quarta bulha (B4). |
+| **Dissecção Aorta** | **Rasgo/Lancinante** | **Assimetria de PA/Pulsos** entre braços. |
+| **TEP** | Pleurítica (Pontada) | Taquicardia, Taquipneia, Pulmão limpo. |
+| **Pericardite** | Pleurítica | Melhora ao inclinar o corpo para frente. |
 
-> **Pegadinha:** apresentar lista extensa de diagnósticos sem priorização nem justificativa de probabilidade.
+---
 
-## Decisão Compartilhada e Racionalidade Diagnóstica
+## Insuficiência Cardíaca Descompensada (ICAD)
 
-Reunião clínica não é competição de quem lembra mais nomes de doença. É exercício de **tomada de decisão** coletiva baseada em evidência clínica. O melhor aluno não é o que fala mais, mas o que sustenta melhor a hipótese com dados consistentes.
+O manejo depende de classificar o paciente em perfis hemodinâmicos:
 
+- **Quente e Úmido:** Bem perfundido, mas **Congestão** (Edema/Crepitações). É o mais comum.
+- **Frio e Úmido:** Baixa perfusão (Choque) e **Congestão**. Perfil de maior gravidade.
+- **Quente e Seco:** Paciente estável ou compensado.
+- **Frio e Seco:** Desidratado ou em choque hipovolêmico/obstrutivo.
 
+> **Dica de Prova:** Se o paciente tem **B3** e **Crepitações**, a prioridade é o diurético. Se tem extremidades frias e tempo de enchimento capilar lento, o problema é o débito (inotropismo).
 
+---
+
+## Emergência vs. Urgência Hipertensiva
+
+O que define a gravidade não é o valor da PA (ex: 180x120), mas sim a **Lesão de Órgão-Alvo (LOA)**.
+
+| Classificação | Critério | Exemplos de LOA |
+|---|---|---|
+| **Emergência** | PA alta + **Lesão Aguda** | **Infarto (IAM)**, **EAP**, **AVC**, **Eclampsia**. |
+| **Urgência** | PA alta sem lesão aguda | Cefaleia leve, ansiedade, PA elevada isolada. |
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Reunião Clínica — Casos Cardiovasculares
-
-Na **propedêutica**, cada minuto com o paciente testa **método**, **sequência** e **correlação** sinal–hipótese. Leve esta aula para a **simulação** e para a **prova objetiva** com o mesmo rigor de checklist.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Chega à reunião um caso de idoso com síncope ao esforço. Ao exame, apresenta **Sopro Sistólico Ejetivo em foco aórtico** que irradia para as carótidas. O raciocínio clínico deve apontar para **Estenose Aórtica**, uma causa mecânica onde a síncope é um sinal de alerta para risco de morte súbita e necessidade de intervenção cirúrgica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Reunião clínica:** treina síntese e decisão baseada em dados.
-- **Priorização diagnóstica:** supera listagem indiscriminada.
-- **Gravidade cardiovascular:** deve ser reconhecida cedo.
-- **Hipótese sindrômica:** organiza investigação subsequente.
-- **Exame complementar:** precisa responder pergunta clínica.
-- **Discussão em equipe:** melhora qualidade de conduta.
+- **IAM**: Dor opressiva > 20 min com sintomas autonômicos.
+- **Dissecção**: Súbita, intensidade máxima no início, transfixante para o dorso.
+- **Perfil Frio e Úmido**: Paciente em choque cardiogênico; alto risco.
+- **Síncope de Esforço**: Quase sempre indica causa obstrutiva ou arritmia grave.
+- **ECG em 10 min**: Protocolo universal para dor torácica.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar casos de Cardio, foque no "Próximo Passo". 
+Em **Dor Torácica**, o primeiro passo é sempre o **ECG + Troponina**. Se a dor for em "rasgo" e a pressão estiver diferente entre os braços, pense em **Dissecção de Aorta**.
+Na **Insuficiência Cardíaca**, use o fenótipo: se o paciente está "úmido" (crepitando), ele precisa urinar (diurético). Se ele está "frio" (hipoperfuso), o coração não está batendo com força (pode precisar de inotrópico).
 
-Caso clínico: começa por problema principal. Dados críticos: devem vir antes de detalhes acessórios. Síndrome cardiovascular: orienta diferencial e conduta.
-
-Urgência: precisa ser explicitada na discussão. Exames: pedir com objetivo definido. Priorização: demonstra maturidade diagnóstica.
-
-Discussão em equipe: reduz erro de decisão. Justificativa clínica: vale mais que volume de hipóteses.
+No caso da **Pressão Alta**, lembre: só é emergência se o paciente estiver estragando um órgão (coração, cérebro, rim ou olho) NA HORA. Se for só o número alto sem sintomas graves, é urgência e o tratamento é mais lento. Por fim, na **Síncope**, se o paciente desmaiou **fazendo força (esforço)**, corra: é sinal de que o caminho do sangue está entupido (estenose) ou o ritmo está falhando.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Hipótese prioritária | Hipótese remota | A prioritária combina gravidade e probabilidade |
-| Discussão estruturada | Discussão dispersa | Estruturada gera conduta clara e segura |
-| Exame orientado | Exame sem pergunta clínica | Orientado tem maior rendimento diagnóstico |
-| Decisão compartilhada | Decisão isolada | Compartilhada aumenta robustez e segurança |
+| **IAM** | **Dissecção de Aorta** | **Opressão gradual** vs **Dor em "rasgo" súbita** |
+| **Perfil Úmido** | **Perfil Seco** | **Presença de Congestão** vs Ausência de Congestão |
+| **Perfil Frio** | **Perfil Quente** | **Choque/Má Perfusão** vs Perfusão Normal |
+| **Emergência** | **Urgência** | **Precisa baixar PA na hora (UTI)** vs Baixar em 24-48h (Oral) |
+| **Síncope Vasovagal** | **Síncope Cardíaca** | Tem avisos (pródromos) e gatilho vs **Súbita, perigosa, após esforço** |
 
 ### Frase-âncora para não esquecer
 
-> "Caso cardiovascular bom é o que prioriza risco antes de detalhe."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Reunião Clínica — Casos Cardiovasculares** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Sequência e técnica do exame discutido. |
-| Pegadinha / contraste | Sinal isolado vs síndrome — o que a banca invalida. |
-| Por que importa na prática | Como o achado reclassifica hipóteses (provável vs improvável). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Bates B et al. *Propedêutica Médica*. Guanabara Koogan.
-- Porto CC. *Semiologia Médica*. Guanabara Koogan.
-- Diretrizes brasileiras e protocolos FCFM/Uninove quando indicados na turma.
+> "Opressão e suor é IAM; Rasgo e dorso é Aorta; Úmido e frio é choque na porta."

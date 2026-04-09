@@ -1,138 +1,98 @@
-# BMF1 — Aula 3: Generalidades do Sistema Esquelético
+# BMF1 — Aula 3: Sistema Esquelético — O Suporte em Movimento
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+O sistema esquelético vai muito além de um simples arcabouço rígido; ele é um **Órgão Endócrino e Metabólico** dinâmico que sustenta a vida. Na prova, os temas centrais são a **Divisão Axial/Apendicular**, a **Microarquitetura do Osso Longo** e a **Fise (Placa de Crescimento)**.
+
+Na prática, o osso é um tecido vivo que se remodela constantemente sob carga (**Lei de Wolff**). Entender que o **Periósteo** é a camada que dói em uma fratura ou que a **Medula Óssea Vermelha** (Hematopoética) é a fábrica do seu sangue é o que dá sentido clínico à anatomia. Aprender o esqueleto é aprender a mecânica de proteção dos órgãos vitais e a base para a ortopedia e a hematologia.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O **Sistema Esquelético** é muito mais que um suporte rígido; ele é um **Órgão Endócrino e Metabólico** dinâmico. Para a prova, domine a **Hematopoese** (produção de sangue na medula vermelha) e o estoque de **Cálcio e Fósforo**. Na clínica, entenda que o osso é **Vivo**: ele se remodela sob carga (**Lei de Wolff**) e sofre em fraturas que atingem a **Placa de Crescimento** (Fise) em crianças.
-
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Microarquitetura do Osso Longo.
+- **O que mostrar:** O "Corte de Estruturas": Um diagrama de um osso longo (Fêmur) mostrando as extremidades (**Epífises**) com osso esponjoso, o corpo (**Diáfise**) com osso compacto e o canal medular. Destacar a **Fise** (placa de crescimento) como uma linha brilhante entre as duas. 
+- **Tipo sugerido:** Infográfico anatômico-clínico.
+- **Legenda (rascunho):** Anatomia funcional do osso longo: do suporte rígido à produção de sangue.
 
----
+## 1. Funções Vitais: Mais que Suporte
 
-## Funções: mais que “estrutura”
-
-| Função do Osso | Exemplo Prático | Importância Clínica |
+| Função do Osso | Significado Biológico | Relevância Clínica |
 |-----------------|------------------|----------------------|
-| **Hematopoiese**| Esterno e Ilíaco | **Biópsia de Medula** |
-| **Reserva Mineral**| Hidroxiapatita | Homeostase do **Cálcio** |
-| **Proteção** | Caixa Torácica | Escudo para Coração/Pulmão |
-| **Alavanca** | Tuberosidades | Inserção de **Tendões** |
-| **Reserva Lipídica**| Medula Amarela | Fonte de Energia |
+| **Hematopoese** | Produção de células sanguíneas | **Medula Vermelha** (Biópsia) |
+| **Reserva Mineral**| Estoque de **Cálcio e Fósforo**| Homeostase metabólica |
+| **Alavanca** | Ponto de apoio para músculos | Movimentação via **Tendões** |
+| **Proteção** | Escudo para órgãos sensíveis | Crânio e Caixa Torácica |
 
 ---
 
-## Divisão: esqueleto axial e apendicular
+## 2. Divisão do Esqueleto: Axial vs. Apendicular
 
-| Divisão | Componentes principais | Observação de prova |
+| Divisão | Componentes | Foco de Prova |
 |---------|------------------------|---------------------|
-| **Axial** | Crânio, coluna, tórax (**esterno**, **costelas**), hióide | Fraturas de costela → dor respiratória |
-| **Apendicular** | Cinturas (**escapular** e **pélvica**) + membros | Luxações são mais comuns aqui |
-
-Contagem clássica de **206 ossos** no adulto; **variações** (sesamóides extras, suturas acessórias) são **normais** — não confunda com patologia em prova de anatomia descritiva.
+| **Axial** | Crânio, Coluna, Esterno e Costelas | Proteção do **SNC e Órgãos Vitais** |
+| **Apendicular** | Membros e Cinturas (Escapular e Pélvica) | **Mobilidade** e Locomoção |
 
 ---
 
-## Classificação morfológica dos ossos
+## 3. Classificação Morfológica (O Formato Importa)
 
-| Classificação | Características | Exemplo de Prova |
-|-----------------|-------------------|-------------------|
-| **Longo** | Diáfise e Epífises | **Fêmur** / Úmero |
-| **Curto** | Cuboides | **Carpo** / Tarso |
-| **Plano (Chato)**| Largos e Finos | **Esterno** / Escápula |
-| **Irregular** | Formas Complexas | **Vértebras** |
-| **Sesamoide** | Dentro do Tendão | **Patela** |
-| **Pneumático** | Cavidades de Ar | **Maxila** (Sinusite) |
+Os ossos são classificados pela sua forma dominante, o que dita sua função:
+- **Ossos Longos:** Comprimento > Largura (Ex: Fêmur, Úmero). Típicos de alavanca.
+- **Ossos Planos (Chatos):** Largos e finos (Ex: Esterno, Escápula). Típicos de proteção.
+- **Ossos Curtos:** Cuboides (Ex: Carpo no pulso, Tarso no tornozelo).
+- **Ossos Irregulares:** Formas complexas (Ex: Vértebras).
+- **Ossos Sesamoides:** Desenvolvem-se dentro de tendões (Ex: **Patela**).
 
 ---
 
-## O osso longo: regiões e microarquitetura
+## 4. Anatomia do Osso Longo e Crescimento
 
-| Região do Osso Longo | Localização | Valor Clínico |
-|----------------------|---------------|----------------|
-| **Diáfise** | "Corpo" (Haste) | Tubo de osso compacto |
-| **Epífise** | Extremidades | Osso **Esponjoso** e Cartilagem |
-| **Fise** (Placa) | Entre Diáf. e Epíf.| **Crescimento** longitudinal |
-| **Periósteo** | Camada Externa | **Inervação** (Gera dor) |
-| **Endósteo** | Camada Interna | Reveste canal medular |
-
-**Compacta (cortical):** casca rígida, resistência a **torção**. **Esponjosa (trabecular):** organização em **trabéculas** segundo linhas de **tensão** (lei de Wolff).
-
-> **Dica de Prova:** **Lei de Wolff** — o osso **adapta forma** à **carga**; imobilização e desuso **reduzem** densidade regional.
-
----
-
-## Ossificação: dois grandes modelos
-
-| Tipo | Como ocorre | Exemplos |
-|------|-------------|----------|
-| **Endocondral** | Substitui **molde de cartilagem** | Maioria dos ossos largos/membros |
-| **Intramembranosa** | Ossifica direto do mesênquima | Ossos do crânio, **clavícula** |
-
-**Centros de ossificação** primários e secundários explicam “linhas” e “núcleos” em radiografias pediátricas até a **fusão** epifário-diáfise.
-
-> **Pegadinha:** Fratura **Salter-Harris** envolve a **placa** — pode afetar **crescimento**; memorize que **não** é só “fratura qualquer” na criança.
-
----
-
-## Terminologia de superfícies e proeminências
-
-| Termo | Uso típico |
-|-------|------------|
-| Tuberosidade / tubérculo | Inserção tendínea |
-| Crista / linha | Ancoragem extensa |
-| Fossa / superfície articular | Contato com cartilagem hialina |
-| Forame / canal | Passagem neurovascular |
-| Processo | Projeção com função (ex.: espinhoso) |
+O osso longo tem regiões específicas que definem sua saúde e crescimento:
+- **Diáfise:** O corpo central, feito de osso compacto (resistência).
+- **Epífises:** As extremidades, ricas em osso **Esponjoso** (onde fica a medula vermelha).
+- **Fise (Placa Epifisária):** Cartilagem hialina responsável pelo **Crescimento Longitudinal**. Se fechar, o crescimento para.
+- **Periósteo:** Membrana externa rica em vasos e **Nervos**. É o responsável pela **Dor** da fratura e pela cicatrização (formação de calo).
 
 ---
 
 ## Ponte com a Clínica
 
-Radiografia de **fêmur proximal** em idoso pós-queda: pense **osteoporose** + **mecânica** da fratura (pertrocantérica, subtrocantérica, cervical). **Metástase** osteolítica “come” trabéculas antes da cortical — queixa de **dor** mecânica progressiva. **Hiperparatireoidismo** primário remove osso e altera **densitometria** e **cálcio** sérico.
+A **Osteoporose** ataca preferencialmente o **Osso Esponjoso** (trabecular) das epífises e das vértebras. É por isso que idosos sofrem fraturas de "colo de fêmur" ou "achatamento de vértebra" mesmo com traumas mínimos. Além disso, em crianças, uma fratura que atinge a **Fise** (Classificação de Salter-Harris) é uma urgência, pois pode causar um encurtamento definitivo do membro se não for tratada corretamente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Esqueleto Axial:** Crânio, coluna e tórax (proteção vital).
-- **Esqueleto Apendicular:** Membros e cinturas (mobilidade).
-- **Cartilagem Articular:** Não tem vasos nem nervos; se desgasta na **Osteoartrose**.
-- **Periósteo:** É responsável pelo crescimento em **espessura** e pela reparação (calosidade).
-- **Salter-Harris:** Classificação de fraturas em crianças que atingem a **Placa Epifisária**.
+- **Esqueleto Axial**: Osso hióide (garante a deglutição) faz parte dele.
+- **Periósteo**: Responsável pelo crescimento em **Espessura**. Sem ele, o osso não cicatriza.
+- **Hematopoese**: No adulto, ocorre principalmente no **Esterno** e no **Ilíaco**.
+- **Sesamoides**: Protegem o tendão de desgaste excessivo (ex: patela).
+- **Lei de Wolff**: O osso se torna mais **Denso** onde há mais carga mecânica.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-- **Medula Vermelha:** Local de **Hematopoese**. Predomina em crianças; no adulto, fica em ossos planos.
-- **Medula Amarela:** Rica em **Gordura**. Substitui a vermelha na diáfise de ossos longos do adulto.
-- **Lei de Wolff:** O osso se torna mais **denso** onde há mais carga mecânica (ex: atletas).
-- **Ossificação Intramembranosa:** Não passa por cartilagem. Típica do **Crânio** e **Clavícula**.
+Para gabaritar o sistema esquelético, foque na **Divisão e na Fise**. 
+**Axial** = Eixo Central. **Apendicular** = Membros. 
 
-| Conceito A | Conceito B | Diferencial para Prova |
+A Uninove adora cobrar a **Hematopoese**: lembre-se que a **Medula Vermelha** é quem produz o sangue; a **Medula Amarela** é apenas gordura (reserva). Outro ponto forte: **Classificação de Ossos**. Se tem cavidade com ar (como o maxilar), é **Pneumático**. Se está dentro de tendão, é **Sesamoide**. Por fim, saiba que o **Periósteo** é a "alma" externa do osso: traz o sangue para nutrir e a dor para avisar que algo quebrou.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Osteoblasto** | **Osteoclasto** | **Forma** osso vs **Reabsorve** osso |
-| **Osso Compacto** | **Osso Esponjoso** | Resistência (Córtex) vs Metabolismo (Medula) |
-| **Endocondral** | **Intramembranosa** | Usa molde de **Cartilagem** vs Origem Direta |
-| **Hematopoese** | **Homeostase de Ca²⁺** | Produz sangue vs Regula Minerais |
+| **Esqueleto Axial** | **Esqueleto Apendicular** | **Proteção** vs **Mobilidade** |
+| **Medula Vermelha** | **Medula Amarela** | **Hematopoese** vs **Gordura** |
+| **Osso Compacto** | **Osso Esponjoso** | Camada externa (Rígida) vs Camada interna (Porosa) |
+| **Crescimento Longitudinal** | **Crescimento em Espessura** | Função da **Fise** vs Função do **Periósteo** |
+| **Osteoclasto** | **Osteoblasto** | **Reabsorve** osso (Destrói) vs **Forma** osso (Constrói) |
 
 ### Frase-âncora para não esquecer
 
-> “Osso é arquitetura sob carga — macro sustenta, micro remodela.”
+> "O esqueleto axial protege a vida, o apendicular busca o caminho. A fise dita o tamanho e o periósteo dita o carinho (e a dor). O osso não é pedra, é metabolismo em forma de alavanca. Trate a matriz com cálcio e a fise com cuidado."

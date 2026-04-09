@@ -1,5 +1,5 @@
 // MedGrad+ Service Worker v4.0 — Security Hardened
-const CACHE_NAME = 'medgradplus-v12';
+const CACHE_NAME = 'medgradplus-v13';
 
 // Files to cache (NEVER cache sensitive files)
 const ASSETS = [
@@ -82,4 +82,11 @@ self.addEventListener('fetch', (event) => {
         return caches.match(event.request);
       })
   );
+});
+
+// Listener para forçar atualização imediata quando o usuário clica em "Atualizar"
+self.addEventListener('message', (event) => {
+  if (event.data && event.data.type === 'SKIP_WAITING') {
+    self.skipWaiting();
+  }
 });

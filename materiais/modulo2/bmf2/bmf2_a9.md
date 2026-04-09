@@ -1,181 +1,95 @@
-﻿# BMF2 — Aula 9: Circulação Coronariana, Microcirculação e Linfática
+# BMF2 — Aula 9: Coronárias, Microcirculação e Linfática
+
+**Disciplina:** Bases Morfofuncionais 2  
+**Módulo:** 2 | **Tempo de estudo sugerido:** 25-35 min
+
+---
 
 ## Relevância Clínica e Acadêmica
 
-A circulação coronariana é um tema clássico de prova porque integra anatomia, fisiologia e patologia em um único raciocínio clínico. Quando a banca descreve dor torácica, alteração de ECG e instabilidade hemodinâmica, espera que você relacione o território arterial acometido, o momento do ciclo cardíaco em que o miocárdio recebe mais fluxo e as consequências celulares da isquemia.
+A circulação coronariana e a microcirculação são os pilares da viabilidade tecidual. Compreender como o coração irriga a si mesmo e como os nutrientes atravessam os capilares é fundamental para entender patologias como o **Infarto Agudo do Miocárdio (IAM)** e a formação de **Edemas**.
 
-A microcirculação e o sistema linfático entram nesse mesmo eixo por explicarem o que ocorre no leito tecidual: troca de gases e solutos, filtração capilar, formação de edema e drenagem de proteínas para evitar congestão intersticial. Dominar essas bases evita erros comuns em questões que misturam infarto, insuficiência cardíaca e edema periférico.
-
----
-
-
-### Figura sugerida
-
-**Figura-ID:** `BMF2-A9-F01`
-
-- **Momento:** após a relevância clínica (visualizar o eixo principal da aula no app).
-- **O que mostrar:** esquema ou ilustração alinhada ao tema central — produção deve detalhar na arte final.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (`data/materiais_figuras.json`).
-- **Notas (opcional):** busca em Wikimedia Commons quando fizer sentido; respeitar licença e crédito.
-
-## Coronárias direita e esquerda: anatomia funcional e territórios
-
-As artérias coronárias nascem da aorta ascendente, logo acima da valva aórtica, nos seios de Valsalva. O padrão de irrigação é previsível o bastante para orientar diagnóstico sindrômico, mas tem variações anatômicas cobradas em prova.
-
-### Coronária esquerda
-
-O tronco da coronária esquerda geralmente é curto e se divide em:
-
-- **Artéria descendente anterior (DA):** irriga parede anterior do ventrículo esquerdo, grande parte do septo interventricular (especialmente porção anterior) e ápice.
-- **Artéria circunflexa (CX):** irriga parede lateral do ventrículo esquerdo; em dominância esquerda pode irrigar parte da parede inferior.
-
-Ramos importantes da DA incluem septais e diagonais. Ramos marginais obtusos são típicos da CX.
-
-### Coronária direita
-
-A coronária direita percorre o sulco atrioventricular direito e costuma irrigar:
-
-- parede livre do ventrículo direito;
-- parte da parede inferior do ventrículo esquerdo (dependendo da dominância);
-- nódulo sinoatrial em parcela relevante dos indivíduos;
-- nódulo atrioventricular na maioria dos casos.
-
-### Dominância coronariana e implicação clínica
-
-Dominância é definida por quem origina a artéria interventricular posterior (descendente posterior):
-
-- **Direita (mais comum):** descendente posterior vem da coronária direita.
-- **Esquerda:** descendente posterior vem da circunflexa.
-- **Codominância:** contribuição de ambas.
-
-> **Dica de Prova:** a dominância não é definida por quem irriga “mais miocárdio”, mas por quem dá origem à descendente posterior. Esse detalhe semântico é uma pegadinha recorrente.
-
-### Tabela comparativa de territórios e achados esperados
-
-| Artéria acometida | Território predominante | Achados clássicos em prova | Complicações associadas |
-|---|---|---|---|
-| DA proximal | Parede anterior do VE, septo anterior, ápice | Supra em precordiais anteriores (V1-V4, variando extensão) | Disfunção sistólica importante, choque, defeitos de condução intraventricular |
-| Coronária direita | Parede inferior, VD, sistema de condução (frequente) | Supra inferior (DII, DIII, aVF), possível acometimento de VD | Bradicardia, bloqueio AV, hipotensão por infarto de VD |
-| Circunflexa | Parede lateral do VE | Alterações laterais (I, aVL, V5-V6) | Pode ser subdiagnosticada em alguns cenários sem derivações adicionais |
+Na prática médica, o conhecimento anatômico das coronárias permite correlacionar um traçado de ECG com a artéria provavelmente obstruída. Além disso, entender as forças de Starling na microcirculação é a chave para tratar desde uma insuficiência cardíaca congestiva até uma síndrome nefrótica. Esta aula integra a anatomia macroscópica com a fisiologia microscópica das trocas gasosas e hídricas.
 
 ---
 
-## Perfusão miocárdica no ciclo cardíaco
+## Anatomia Funcional e Territórios Coronários
 
-A perfusão coronariana do ventrículo esquerdo ocorre majoritariamente na diástole. Durante a sístole, a pressão intramiocárdica comprime os vasos intramurais, sobretudo no subendocárdio, reduzindo fluxo efetivo.
+As artérias coronárias nascem logo acima da valva aórtica, nos seios de Valsalva. O **Tronco da Coronária Esquerda** se divide rapidamente em duas estradas principais: a **Descendente Anterior (DA)**, que irriga a parede anterior do ventrículo esquerdo e o septo interventricular, e a **Circunflexa (CX)**, responsável pela parede lateral. Obstruções na DA são particularmente graves, pois comprometem a principal massa contrátil do coração.
 
-No ventrículo direito, como a pressão de parede é menor, existe contribuição sistólica de fluxo mais evidente. Essa diferença entre VE e VD ajuda a interpretar vulnerabilidade isquêmica e resposta hemodinâmica.
+A **Coronária Direita (CD)** percorre o sulco atrioventricular e irriga o ventrículo direito e, na maioria das pessoas, a parede inferior do ventrículo esquerdo (dominância direita). Além do miocárdio, a CD é frequentemente a fonte de sangue para o **Nó Sinusal** e o **Nó AV**, o que explica por que infartos de parede inferior costumam vir acompanhados de bradicardias ou bloqueios elétricos.
 
-A perfusão coronariana depende de três pilares:
+### Tabela: Correlação Coronária-ECG
 
-1. **Pressão de perfusão diastólica aórtica** (força motriz do fluxo).
-2. **Tempo diastólico** (encurtado na taquicardia).
-3. **Resistência vascular coronariana** (modulada por fatores metabólicos e endoteliais).
-
-Em termos práticos, taquicardia e hipotensão diastólica reduzem oferta de oxigênio ao miocárdio. Como o coração já extrai alta fração de O2 em repouso, o aumento de demanda depende principalmente de aumento de fluxo e não de extração adicional.
-
-> **Pegadinha:** “O miocárdio aumenta muito a extração de oxigênio no esforço.” Errado como estratégia principal. A extração basal já é alta; o ajuste dominante é por vasodilatação e aumento do fluxo coronariano.
-
----
-
-## Microcirculação: trocas capilares e forças de Starling
-
-A microcirculação inclui arteríolas terminais, capilares e vênulas pós-capilares. É nesse compartimento que o tecido recebe oxigênio e nutrientes, elimina metabólitos e mantém equilíbrio hídrico.
-
-As trocas de água no capilar são descritas pelas forças de Starling:
-
-- **Pressão hidrostática capilar (Pc):** favorece saída de líquido do vaso.
-- **Pressão oncótica plasmática:** favorece entrada de líquido no vaso.
-- **Pressão hidrostática intersticial:** pode se opor à filtração, dependendo do contexto.
-- **Pressão oncótica intersticial:** favorece saída de líquido para o interstício.
-
-A leitura moderna enfatiza que há filtração líquida ao longo de grande parte do capilar, e que o excedente retorna principalmente pela via linfática, com reabsorção venular menos dominante do que sugerem modelos simplificados antigos. Para a prova de graduação, porém, a lógica causal do edema permanece: mais força de filtração, menos força de retenção intravascular ou pior drenagem linfática.
-
-### Tabela comparativa útil: mecanismos de edema
-
-| Mecanismo principal | O que muda em Starling | Exemplo clínico típico | Pista de prova |
-|---|---|---|---|
-| Aumento de pressão hidrostática capilar | Pc sobe | Insuficiência cardíaca, obstrução venosa | Edema gravitacional, piora vespertina |
-| Redução da pressão oncótica plasmática | Pressão oncótica plasmática cai | Síndrome nefrótica, cirrose, desnutrição grave | Edema mais difuso, hipoalbuminemia |
-| Aumento de permeabilidade capilar | Extravasamento proteico e líquido | Inflamação, sepse, queimaduras, anafilaxia | Edema inflamatório, calor/rubor locais |
-| Obstrução linfática | Drenagem intersticial reduzida | Pós-esvaziamento linfonodal, filariose | Edema duro, menos depressível em fases crônicas |
+| Artéria Coronária | Parede Irrigada | Derivações no ECG |
+|-------------------|-----------------|-------------------|
+| **Descendente Anterior** | Anterior / Septal | V1 a V4 |
+| **Circunflexa** | Lateral | I, aVL, V5, V6 |
+| **Coronária Direita** | Inferior | II, III, aVF |
+| **Marginais / Diagonais**| Ramos específicos | Localizado |
 
 ---
 
-## Sistema linfático: drenagem, defesa e integração hemodinâmica
+## A Perfusão Miocárdica no Ciclo Cardíaco
 
-O sistema linfático recolhe líquido e proteínas que não retornam diretamente ao capilar venoso, impedindo acúmulo progressivo no interstício. Também transporta lipídios absorvidos no intestino e participa da vigilância imunológica por meio dos linfonodos.
+Diferente da maioria dos órgãos, a perfusão do Ventrículo Esquerdo (VE) ocorre predominantemente na **Diástole**. Durante a sístole, a contração muscular é tão vigorosa que comprime os vasos que atravessam a parede do coração (vasos intramurais), interrompendo o fluxo. Por isso, a pressão diastólica da aorta e o tempo de relaxamento são críticos: se a frequência cardíaca subir demais (taquicardia), o tempo de diástole encurta, reduzindo a janela de irrigação do miocárdio.
 
-Fluxo simplificado:
-
-- capilares linfáticos iniciais (alta permeabilidade);
-- vasos coletores com válvulas;
-- linfonodos regionais;
-- ducto torácico (maior parte do corpo) e ducto linfático direito (quadrante superior direito);
-- drenagem para ângulos venosos cervicais.
-
-Quando esse sistema falha, ocorre linfedema. No contexto clínico, isso aparece em pós-operatório oncológico com retirada de cadeias linfonodais, infiltração tumoral linfática e parasitoses como filariose.
+Como o coração já extrai quase todo o oxigênio disponível no sangue em repouso, sua única forma de aumentar a oferta durante o exercício é através da **vasodilatação coronariana**. Problemas nesse mecanismo auto-regulatório ou obstruções fixas (placas de gordura) levam à isquemia, onde a demanda de oxigênio supera a oferta, gerando a dor de angina.
 
 ---
 
-## Fisiopatologia básica de isquemia miocárdica e edema
+## Microcirculação e Forças de Starling
 
-Isquemia miocárdica é desequilíbrio entre oferta e demanda de oxigênio. A oferta cai por redução de fluxo coronariano (placa aterosclerótica, trombose, vasoespasmo), e a demanda sobe com frequência cardíaca, contratilidade e tensão de parede.
+A microcirculação é o local onde a vida celular acontece. O movimento de líquidos entre o capilar e o interstício é regido pelas **Forças de Starling**, um equilíbrio entre pressões que "empurram" e "puxam" a água. A **Pressão Hidrostática** (gerada pelo bombeamento do coração) tende a filtrar o líquido para fora do vaso, enquanto a **Pressão Oncótica** (gerada pelas proteínas do plasma, como a albumina) tende a manter a água dentro do vaso.
 
-A sequência fisiopatológica clássica inclui:
+O **Sistema Linfático** atua como o sistema de drenagem de segurança. Ele recolhe o pequeno excedente de líquido e proteínas que escapa dos capilares e não consegue retornar pela via venosa. Quando esse equilíbrio é quebrado — seja por pressão hidrostática alta (insuficiência cardíaca), proteínas baixas (desnutrição/cirrose) ou bloqueio linfático — o líquido se acumula no tecido, formando o **edema**.
 
-1. redução de ATP;
-2. mudança para metabolismo anaeróbio e acúmulo de lactato;
-3. disfunção de bomba iônica e instabilidade elétrica;
-4. perda de contratilidade regional;
-5. necrose se a hipoperfusão persistir.
+### Determinantes do Edema
 
-O subendocárdio é particularmente vulnerável por maior compressão intramural e pior reserva de fluxo em situações de estresse hemodinâmico.
-
-No edema, a consequência final é aumento de líquido intersticial, que eleva distância de difusão para oxigênio, dificulta troca metabólica e pode perpetuar lesão tecidual. Em pulmão, esse processo compromete complacência e hematose; em membros, gera dor, peso e risco de alterações tróficas crônicas.
+| Mecanismo | Alteração de Pressão | Exemplo Clínico |
+|-----------|----------------------|-----------------|
+| **Congestão Venosa** | ↑ Pressão Hidrostática | Insuficiência Cardíaca |
+| **Hipoalbuminemia** | ↓ Pressão Oncótica | Cirrose / Desnutrição |
+| **Inflamação** | ↑ Permeabilidade | Sepse / Trauma |
+| **Linfedema** | Obstrução de drenagem | Pós-mastectomia |
 
 ---
 
 ## Ponte com a Clínica
 
-Em uma questão clínica com dor torácica, sudorese, hipotensão e bradicardia com supra em parede inferior, o raciocínio integrado aponta para provável oclusão de coronária direita com risco de acometimento do nó AV e de infarto de ventrículo direito. Isso explica por que redução abrupta de pré-carga pode piorar muito o quadro hemodinâmico.
+**Caso Clínico:** Paciente com dor no peito apresenta no ECG um supradesnivelamento do segmento ST nas derivações II, III e aVF, com frequência cardíaca de 40 bpm.
 
-Em outra situação, paciente com insuficiência cardíaca descompensada e edema de membros inferiores apresenta aumento de pressão hidrostática venocapilar como mecanismo dominante de edema. Se houver hipoalbuminemia associada, o edema tende a ser mais intenso e difuso por combinação de mecanismos.
-
-Essa integração entre território coronariano, ciclo cardíaco, forças de Starling e drenagem linfática é o núcleo das melhores respostas discursivas e das objetivas com caso clínico.
+**Análise Integrada:**
+O traçado indica um infarto de parede inferior, território da **Coronária Direita**. A bradicardia (FC 40) confirma o envolvimento desta artéria, pois ela irriga o sistema de condução (nó sinusal/AV na maioria dos casos). O tratamento deve considerar que, além da isquemia, há um prejuízo elétrico direto causado pela interrupção do fluxo sanguíneo para os marcapassos naturais do coração.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- A coronária esquerda se divide tipicamente em DA e CX; a direita irriga território inferior/VD em dominância direita.
-- Dominância coronariana é definida pela origem da descendente posterior.
-- O VE recebe perfusão majoritariamente na diástole; taquicardia reduz tempo útil de perfusão.
-- Isquemia é desequilíbrio entre oferta e demanda de O2, com vulnerabilidade maior do subendocárdio.
-- Microcirculação e Starling explicam a maior parte dos mecanismos de edema cobrados em graduação.
-- Sistema linfático remove excesso de fluido/proteínas intersticiais e protege contra edema crônico.
+*   **VE Perfusion:** Ocorre na diástole; subendocárdio é a zona mais vulnerável.
+*   **DA (Descendente Anterior):** "A viúva", irriga a parede anterior (V1-V4).
+*   **Pressão Oncótica:** Depende da Albumina; sua queda gera edema generalizado.
+*   **Dominância:** Definida por qual artéria dá origem à descendente posterior.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-Na anatomia coronariana, memorize o território dominante de cada artéria: DA na parede anterior e septo anterior, CX na parede lateral e coronária direita frequentemente na parede inferior e no VD, além de irrigação frequente do sistema de condução. Em cenário de síndrome coronariana, o território elétrico no ECG costuma refletir esse mapa anatômico.
 
-Na fisiologia, o ponto crítico é que o ventrículo esquerdo perfunde mais na diástole, porque a sístole comprime os vasos intramurais. Por isso, taquicardia e queda da pressão diastólica aórtica derrubam oferta de oxigênio ao miocárdio. A banca gosta de inverter essa lógica e sugerir aumento de extração de O2 como principal compensação, mas o correto é aumento de fluxo coronariano.
+Para a prova, memorize o mapa: **DA = Anterior**, **CX = Lateral**, **CD = Inferior**. Lembre-se que o ventrículo esquerdo só come quando descansa (perfusão na diástole). Se cair uma questão sobre edema, aplique Starling: se o coração falha e o sangue "represa", sobe a pressão hidrostática e vaza líquido (**edema cardiogênico**). Se o fígado falha ou o rim perde proteína, cai a pressão oncótica e o líquido foge do vaso (**edema por hipoalbuminemia**).
 
-Na microcirculação, use Starling para explicar edema: subir pressão hidrostática capilar, cair pressão oncótica plasmática, aumentar permeabilidade ou bloquear drenagem linfática são os quatro caminhos clássicos. Em isquemia miocárdica, lembre o encadeamento ATP baixo, disfunção iônica, instabilidade elétrica e necrose se a hipoperfusão persistir.
+O sistema linfático é o "lixeiro" do interstício, removendo proteínas grandes. Se ele entope, o edema é duro e difícil de tratar (linfedema). Por fim, na isquemia, entenda que o coração não consegue "respirar mais fundo" (aumentar extração de O2), ele precisa de "mais canos abertos" (aumentar fluxo).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Dominância direita | Dominância esquerda | Direita: descendente posterior nasce da coronária direita; esquerda: nasce da circunflexa |
-| Isquemia subendocárdica | Isquemia transmural | Subendocárdica: sofrimento mais interno e frequentemente por desequilíbrio oferta-demanda; transmural: oclusão mais intensa/prolongada |
-| Edema por IC | Linfedema | IC: aumento de pressão hidrostática, mais depressível; linfedema: falha de drenagem linfática, tendência a endurecimento crônico |
-| Edema inflamatório | Edema por hipoalbuminemia | Inflamatório: permeabilidade aumentada e sinais flogísticos; hipoalbuminemia: queda de oncótica plasmática e edema difuso |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **DA** | **CD** | Parede Anterior vs Parede Inferior/VD |
+| **Perfusão VE** | **Perfusão VD** | Apenas na Diástole vs Sístole e Diástole |
+| **Pressão Hidrostática** | **Pressão Oncótica** | Expulsa líquido vs Segura líquido |
+| **Angina Estável** | **Infarto (IAM)** | Obstrução fixa/esforço vs Obstrução súbita/trombose |
 
 ### Frase-âncora para não esquecer
+
 > "Coronária é anatomia com tempo: no VE, o tempo de perfusão é a diástole; no interstício, o equilíbrio é Starling mais linfático."

@@ -1,116 +1,92 @@
-﻿# IND — Aula 5: Indicadores de Morbidade
+# IND — Aula 5: Indicadores de Morbidade
 
-**Disciplina:** Indicadores de Saúde
-**Módulo:** 2 | **Tempo de estudo sugerido:** 10-15 min
+Os indicadores de morbidade medem o "estoque" e o "fluxo" das doenças em uma população. Na prova, o tema central é a diferenciação entre **Incidência** (casos novos) e **Prevalência** (casos totais), além do uso da **Taxa de Ataque** em situações de surto.
+
+Na prática, esses números dizem ao médico se uma doença está se espalhando rápido (incidência) ou se o sistema de saúde está sobrecarregado por muitos doentes crônicos (prevalência).
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Indicadores de morbidade são muito cobrados porque mostram frequência de doença sem depender apenas de óbito. A **Uninove** costuma trabalhar incidência e prevalência em cenários clínicos e populacionais para testar se o aluno entende o que cada medida realmente responde.
-
-Na prática, esses indicadores orientam vigilância, rastreio, organização de serviços e avaliação de impacto de intervenções em saúde.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `IND-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Incidência vs. Prevalência.
+- **O que mostrar:** Imagem de uma "banheira": A água que entra pela torneira é a **Incidência** (casos novos). A água acumulada na banheira é a **Prevalência** (casos totais). O ralo representa as curas ou óbitos.
+- **Tipo sugerido:** Infográfico didático (Analogia da Banheira).
+- **Legenda (rascunho):** A dinâmica entre incidência e prevalência em uma população.
 
-## Incidência e Prevalência sem Confusão
+## 1. Incidência (Casos Novos)
 
-A **incidência** mede casos novos em determinado período e é útil para avaliar risco de adoecimento. A **prevalência** mede total de casos existentes em um ponto ou período e ajuda a estimar carga de doença na população. O erro comum é inverter utilidade dessas duas medidas.
+Mede o **Risco** ou a **Chance** de alguém ficar doente em um período de tempo.
+- **Fórmula:** Casos Novos / População sob risco.
+- **Uso:** Avaliar se uma prevenção (como vacina) está funcionando. Se a incidência cai, o risco diminuiu.
+- **Dica de Prova:** Denominador são pessoas que **não** têm a doença no começo do estudo.
 
-> **Dica de Prova:** para avaliar risco de adoecer, pense primeiro em incidência.
+---
 
-> **Pegadinha:** usar prevalência para inferir causalidade temporal direta sem considerar duração da doença.
+## 2. Prevalência (Carga da Doença)
 
-## Aplicação em Planejamento e Vigilância
+Mede quantos doentes existem em um momento específico, somando os casos antigos e os novos.
+- **Fórmula:** Total de casos (Antigos + Novos) / População Total.
+- **Uso:** Planejar a compra de remédios para diabetes ou contratar médicos especialistas. Ela mostra o "tamanho do problema" agora.
+- **Fatores que aumentam a Prevalência:** 
+  - Doença que dura muito tempo (crônica).
+  - Remédios que fazem a pessoa viver mais, mas não curam.
 
-Doenças de longa duração podem ter prevalência alta mesmo com incidência moderada. Doenças agudas com rápida resolução podem ter incidência alta e prevalência menor. Em prova, o diferencial é interpretar esse comportamento com base no curso clínico do agravo.
+---
 
-No **SUS**, morbidade orienta priorização de linhas de cuidado e dimensionamento de demanda assistencial.
+## 3. Taxa de Ataque (Surto)
 
+É uma incidência especial usada para **Surtos** rápidos (Intoxicação alimentar, surto de gripe em escola).
+- **Fórmula:** (Pessoas que adoeceram / Total de pessoas que se expuseram) x 100.
+- **Exemplo:** Em um churrasco de 100 pessoas, 40 tiveram diarreia. A taxa de ataque foi de 40%.
 
+---
 
+## 4. Densidade de Incidência (Pessoa-Tempo)
+
+Usada quando acompanhamos pessoas por tempos diferentes.
+- **Diferencial:** O denominador não são apenas pessoas, mas a soma do tempo de cada uma (ex: 10 casos por 100 pessoas-ano). Isso evita erros se alguém sair do estudo ou morrer no meio do tempo.
+
+---
 
 ## Ponte com a Clínica
 
-**Tema:** Indicadores de Morbidade
-
-Em **APS**, **vigilância** e leitura de **boletins**, você usa **incidência**, **prevalência** e **mortalidade** todos os dias. Esta aula evita confundir **numerador/denominador** e **interpretação** de taxas.
-
-> **Checklist:** uma queixa comum que este conteúdo ajuda a destrinchar; um exame ou dado epidemiológico que você passaria a interpretar melhor; um erro que a banca costuma explorar se você estudar só definição.
+Quando um médico de família analisa que a **incidência** de Dengue no seu bairro subiu de 5 para 50 casos em uma semana, ele identifica um surto e precisa de ação imediata (como o fumacê). Já se ele vê que a **prevalência** de Hipertensão é de 30%, ele sabe que precisa organizar grupos de farmácia e consultas regulares, pois o volume de pacientes crônicos é alto e constante.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Morbidade:** mede ocorrência de doença não fatal na população.
-- **Incidência:** casos novos em período definido.
-- **Prevalência:** total de casos existentes.
-- **Risco de adoecer:** avaliado melhor por incidência.
-- **Carga de doença:** refletida por prevalência.
-- **Interpretação correta:** depende de duração e dinâmica do agravo.
+- **Incidência**: Casos **NOVOS** (Mede o Risco).
+- **Prevalência**: Casos **EXISTENTES** (Mede a Carga).
+- **Taxa de Ataque**: Usada em **Surtos** (Ex: Intoxicação).
+- **Doença Crônica**: Alta Prevalência, mesmo com baixa Incidência.
+- **Cura/Óbito**: Diminuem a Prevalência (fazem a "água da banheira" descer).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Morbidade, lembre-se da pergunta da banca. 
+Se perguntarem sobre o **risco** de pegar uma gripe, procure pela **Incidência**. Se perguntarem qual o tamanho do estoque de remédios necessário para todos os diabéticos do bairro, procure pela **Prevalência**. A regra é: Incidência é o "filme" (mostra o que está acontecendo no período), Prevalência é a "foto" (mostra como está agora).
 
-Incidência: medida de ocorrência de casos novos. Prevalência: estoque de casos na população. Doença crônica: tende a aumentar prevalência.
-
-Doença aguda curta: pode ter baixa prevalência. Incidência alta: indica maior risco de adoecimento. Prevalência alta: aponta maior carga assistencial.
-
-Morbidade: orienta planejamento de serviços. Indicador certo: depende da pergunta epidemiológica.
+Cuidado com a **Taxa de Ataque**: ela cai muito em casos de surtos alimentares ("quem comeu a maionese adoeceu?"). E nunca esqueça: se um remédio novo faz os doentes viverem mais tempo com a doença sem curar, a **Prevalência aumenta** (porque as pessoas não saem da lista de doentes).
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Incidência | Prevalência | Incidência mede entrada de casos; prevalência mede total existente |
-| Risco | Carga de doença | Risco é chance de surgir caso novo; carga é volume de casos |
-| Doença aguda | Doença crônica | Aguda tende a menor prevalência relativa; crônica sustenta prevalência alta |
-| Medida temporal | Medida de estoque | Incidência depende do período; prevalência reflete momento/período |
+| **Incidência** | **Prevalência** | Casos Novos vs **Casos Totais** |
+| **Taxa de Ataque** | **Letalidade** | Quem adoece vs **Quem morre do que adoeceu** |
+| **Pessoa-Tempo** | **População Inicial** | Tempo variado vs **Contagem fixa de pessoas** |
+| **Morbidade** | **Mortalidade** | Estudo da Doença vs **Estudo da Morte** |
+| **Risco** | **Carga** | Probabilidade de ter vs **Volume total de casos** |
 
 ### Frase-âncora para não esquecer
 
-> "Incidência conta quem entrou na doença; prevalência mostra quem ainda está nela."
-
-
----
-
-## Síntese rápida (mapa de prova)
-
-Consolidação do tema **Indicadores de Morbidade** para revisão objetiva antes da avaliação da Uninove.
-
-| Pergunta típica | Resposta em uma frase |
-|-----------------|-------------------------|
-| Núcleo do tema | Definição e interpretação do indicador (numerador/denominador). |
-| Pegadinha / contraste | Confusão entre taxa, proporção e razão. |
-| Por que importa na prática | Uso em vigilância ou APS (o que o dado muda na conduta). |
-
-### Última leitura (2 minutos)
-
-- Cruze este resumo com os **Pontos-Chave** e a **Pré-Prova** — não deve haver contradição.
-- Se algum termo continuar vago, volte ao primeiro bloco temático da aula e **reescreva com suas palavras**.
-- Em prova, priorize **mecanismo** e **definição operacional** (o que você mediria ou faria).
-
----
-
-## Referências
-
-- Gordis L. *Epidemiologia*. Elsevier.
-- Ministério da Saúde / DATASUS — notas técnicas e boletins epidemiológicos.
-- Organização Mundial da Saúde — definições e classificações de indicadores de saúde.
+> "Incidência é a chuva que cai (casos novos), prevalência é a poça que fica no chão; se o surto ataca a festa, a taxa de ataque é a solução."

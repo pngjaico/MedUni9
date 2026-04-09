@@ -1,95 +1,99 @@
-# SEMIO3 — Aula 1: Revisão da Semiologia Abdominal — Anamnese
+# SEMIO3 — Aula 1: Anamnese Abdominal — O Alicerce do Diagnóstico
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 15 min
+A queixa de "dor de barriga" é uma das mais comuns no pronto-socorro e, ao mesmo dizer, uma das mais perigosas. Na prova, os temas centrais são a aplicação dos mnemônicos **SOCRATES e OPQRST** para caracterizar a dor, a identificação dos **Red Flags** (sinais de alerta) e a diferenciação entre **Dor Visceral e Dor Somática**.
+
+Na prática, a anamnese abdominal bem feita poupa exames caros e tempo precioso. Pedir ao paciente para apontar com **Um Único Dedo** onde a dor começou e para onde ela foi é o passo mais importante para diferenciar uma apendicite de uma simples gastrite ou de uma emergência cirúrgica.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A anamnese bem estruturada no abdomen é o alicerce do diagnóstico — quanto melhor a história, menos exames desnecessários e mais direto ao ponto. A **Uninove** cobra a capacidade de reconhecer qual pergunta muda a hipótese diagnóstica. Um paciente pode vir com "dor abdominal", mas uma anamnese precisa diferencia peritonite (piora com toque, respiração profunda) de cólica renal (paciente mexe desesperado procurando posição) ou apendicite (começa periumbilical, depois FID). Na prática hospitalar, uma anamnese incompleta gera 40% mais pedidos de imagem desnecessária.
-
-
-
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO3-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Topografia Abdominal.
+- **O que mostrar:** O "Mapa da Dor": Divisão do abdome em 9 quadrantes. Destacar órgãos principais em cada um (ex: Fossa Ilíaca Direita = **Apendicite**; Hipocôndrio Direito = **Vesícula**; Epigástrio = **Estômago/Pâncreas**). Usar setas para mostrar irradiações clássicas.
+- **Tipo sugerido:** Infográfico didático | Ilustração estilo atlas.
+- **Legenda (rascunho):** Topografia da dor abdominal e correlação com órgãos subjacentes.
 
-## Conceitos Essenciais
+## 1. Caracterizando a Dor (Mnemônicos de Elite)
 
-**Estrutura lógica:** Não é lista aleatória de perguntas. Começa com queixa principal, depois história atual da moléstia (HMA) detalhada, história pregressa, medicações e alergias. Cada resposta guia a pergunta seguinte.
+Para não esquecer nada, use o **SOCRATES**:
+- **S (Site):** Local exato. Peça para apontar com o dedo.
+- **O (Onset):** Início. Foi súbito (segundos) ou progressivo (horas)?
+- **C (Character):** Tipo. É queimação, pontada, peso ou **Cólica** (ondas)?
+- **R (Radiation):** Irradiação. Vai para o dorso, ombro ou virilha?
+- **A (Associations):** Sintomas juntos (vômitos, febre, diarreia).
+- **T (Timing):** É constante ou vem e vai?
+- **E (Exacerbating/Relieving):** Piora ao caminhar? Melhora ao vomitar?
+- **S (Severity):** Nota de 0 a 10.
 
-**Dor abdominal:** O paciente fala "dói a barriga", você pergunta "onde**?**" e ele aponta com o dedo — localização precisa muda tudo. Depois: desde quando? Começou de repente ou gradual? Piora ou melhora com o quê? (movimento, repouso, alimento, posição). Constante ou cólica (vem e vai)?
+---
 
-> **Dica de Prova:** "Dói onde exatamente?" não é pergunta decorativa. Localização em FID + início agudo + piora com movimento = apendicite. Localização periumbilical + irradia para costa = cólica renal. Difusa + piora com qualquer movimento = peritonite.
+## 2. Tipos de Dor Abdominal
 
-**Hábito intestinal:** Quantas evacuações por dia normalmente? E agora? Consistência (dura, pastosa, diarréia)? Cores anormais, melena (preto), sangue rutilante, muco, tenesmo? Uma mudança de hábito é red flag.
+- **Dor Visceral:** É profunda e mal localizada. O paciente não sabe apontar o ponto exato. É causada por distensão das vísceras.
+- **Dor Somática (Parietal):** É aguda, intensa e **Bem Localizada**. O paciente aponta o ponto exato com o dedo. Piora muito com qualquer movimento (tosse, respiração, caminhar).
+- **Dor Referida:** Sentida longe da causa (ex: dor no ombro direito causada por problema na vesícula).
 
-**Vômitos:** Tem vômito sim/não. Quando começou? Antes, durante ou depois da dor? Conteúdo: claro, gástrico (tipo água com gordura), bilioso (amarelado — nunca ignore), fecaloide (raridade, obstrução intestinal baixa). Vômito bilioso + abdomen distendido + ausência de evacuação = obstrução até prova contrária.
+---
 
-> **Pegadinha:** Aluno confunde "vômito" com "ânsia". Ânsia é vontade de vomitar que não resulta em saída de conteúdo. Vômito é conteúdo gástrico que sai. São perguntas diferentes.
+## 3. Red Flags: Quando Correr?
 
-**Contexto epidemiológico:** Idade, sexo, viagens recentes, contatos doentes, medicações (AINEs causam úlcera), cirurgias prévias (cria aderências), alergias alimentares, hábitos (álcool, drogas). Mulher em idade reprodutiva com dor abdominal baixa? Sempre pense em gravidez ectópica ou doença inflamatória pélvica.
+Se o paciente apresentar qualquer um desses sinais, a investigação deve ser imediata:
+- **Início Súbito e Explosivo:** "A pior dor da vida" que começa em segundos (pensar em perfuração).
+- **Vômito Bilioso (Verde/Amarelo):** Sinal clássico de **Obstrução Intestinal**.
+- **Síncope ou Desmaio:** Pode indicar sangramento interno (gravidez ectópica ou aneurisma).
+- **Febre Alta + Dor Localizada:** Sinal de infecção grave (abscesso ou peritonite).
+- **Parada de Eliminar Gases:** Indica que o intestino parou de funcionar.
 
-## Anamnese em Ação
+---
 
-Paciente chega: "tenho dor abdominal". Pergunta genérica demais. Você pergunta estruturado:
-- "Onde dói?" — "Aqui" (aponta fossa ilíaca direita).
-- "Desde quando?" — "Desde ontem de manhã, começou de repente".
-- "Piora com o quê?" — "Quando caminho ou quando sinto a barriga".
-- "Tem vômito?" — "Não, só ânsia".
-- "Evacuou?" — "Não".
-- "Tinha febre?" — "Nenhuma".
+## 4. Antecedentes que Mudam Tudo
 
-Com isso você já passa de "abdomen agudo" para "apendicite" como hipótese principal. Se fosse "dói ao redor do umbigo, começou há 3 dias, melhora tomando banho quente, não vomita, continua evacuando normal" — você repensa: cólica renal ou retenção urinária.
+Nunca esqueça de perguntar:
+- **Cirurgias Prévias:** Aumentam o risco de "bridas" (cicatrizes internas que prendem o intestino).
+- **Uso de AINEs (Ibuprofeno, Diclofenaco):** Risco altíssimo de **Úlcera Perfurada**.
+- **Data da Última Menstruação:** Em mulheres, dor abdominal é gravidez até que o teste prove o contrário.
+
+---
 
 ## Ponte com a Clínica
 
-No pronto-socorro, anamnese rápida e bem feita em 3 minutos poupa 5 exames. Pedir ao paciente para apontar com o dedo onde dói é mais rápido e preciso que qualquer desenho de abdomen. Hospitais que usam protocolo de anamnese estruturada têm 30% menos erros diagnósticos iniciais.
+No consultório, saiba que a **Apendicite** clássica começa com uma dor chata ao redor do umbigo (visceral) e só depois de algumas horas "migra" e se fixa na **Fossa Ilíaca Direita** (parietal). Se o paciente diz que a dor piora quando o carro passa em um buraco no caminho para o hospital, ele tem irritação do peritônio. Essa informação vale mais do que qualquer hemograma para fechar o diagnóstico de uma emergência cirúrgica.
+
+---
 
 ## Pontos-Chave para Prova
 
-- **Localização precisa:** o dedo do paciente conta mais que a sua suposição.
-- **Início e progressão:** agudo vs. gradual + melhor/pior orienta diagnóstico.
-- **Relação com movimento:** peritoneal piora com movimento; visceral não tem padrão.
-- **Relação com alimentação:** começa durante refeição ou melhora em jejum?
-- **Vômito bilioso:** cor amarelada = suspeita de obstrução.
-- **Contexto epidemiológico:** idade, sexo, cirurgias prévias, medicações.
-- **Mudança de hábito abdominal:** evacuações, aspecto de fezes = red flag.
-- **Febre associada:** presença muda para infecção/inflamação.
+- **SOCRATES**: Técnica padrão-ouro para desmembrar a queixa de dor abdominal.
+- **Vômito Bilioso**: Indica que o conteúdo está vindo debaixo do duodeno; suspeita alta de obstrução.
+- **Migração da Dor**: O deslocamento da dor do epigástrio para a FID é o sinal clínico mais forte de apendicite.
+- **AINEs**: Medicamentos que "furam" o estômago; principal causa de abdome agudo perfurativo em idosos.
+- **Sinal de Alerta**: Síncope + dor abdominal em mulher jovem = excluir gravidez ectópica imediatamente.
 
 ---
 
 ## Pré-Prova
 
-> Leia 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Anamnese Abdominal, foque na localização e no início. 
+**Início Súbito** = Perfuração ou Isquemia. **Início Gradual** = Inflamação (Apendicite/Colecistite). Se a dor **Melhora com o Vômito**, pense em obstrução alta. Se a dor **Piora ao Tossir**, há peritonite.
 
-HMA completa: localização (com dedo), duração (horas/dias), progressão (pior/melhor), fatores piora e melhora. Localização: NUNCA aceite "barriga toda" — exija "mostra aí com o dedo". Relação temporal com vômito: antes, durante ou depois da dor?
-
-Cor do vômito: claro, amarelado (bilioso), preto (gástrico), marrom (fecaloide)? Hábito intestinal: quantas vezes/dia agora vs. o normal? Mudou consistência ou cor? Febre: teve? Quanto? Quando começou?
-
-Medicações: toma AINE? Corticoide? Anticoagulante? Cirurgias prévias: aumenta risco de aderências e obstrução.
+A Uninove adora **Irradiações**. Lembre-se: Vesícula irradia para a escápula direita. Pâncreas irradia em "barra" para as costas. Rim irradia para os testículos ou grandes lábios. Outro ponto forte: sempre pergunte sobre cirurgias anteriores; se o paciente operou a barriga há 10 anos, ele tem risco de obstrução por brida. Por fim, saiba que o vômito que aparece ANTES da dor costuma ser gastroenterite; o vômito que aparece DEPOIS da dor costuma ser cirúrgico.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Pergunta | Peritoneal | Visceral | Como diferenciar |
-|----------|-----------|---------|------------------|
-| Piora com movimento? | SIM (tosse, respiração, mudança posição) | NÃO (constante, indiferente) | Peritonite marca tudo que move abdomen |
-| Localização | Difusa, múltiplas regiões | Focal, aponta com dedo | Paciente concentra dor em ponto específico |
-| Febre | Comum (39-40°C) | Rara em visceral puro | Infecção/peritonite causa febre alta |
-| Vômito | Após dor (peritonite) | Pode vomitar mas timing diferente | Ordem temporal separa origem |
-| Evacuação | Ausente (obstrução) | Continua normal ou diarréia | Obstrução = sem fezes nem gases |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Dor Visceral** | **Dor Parietal** | Mal localizada (**Geral**) vs Bem localizada (**Dedo**) |
+| **Início Súbito** | **Início Insidioso** | **Perfura/Vascular** (Explosivo) vs **Inflama** (Lento) |
+| **Vômito Bilioso** | **Vômito Alimentar** | Obstrução **Baixa** vs Problema **Gástrico** |
+| **Cólica** | **Dor Contínua** | **Víscera Oca** (Pedra/Fezes) vs **Inflamação** (Peritônio) |
+| **Cirurgia Prévia** | **AINE recente** | Risco de **Obstrução** vs Risco de **Perfuração** |
 
 ### Frase-âncora para não esquecer
 
-> **"Anamnese bem feita poupa 5 exames. Localização com o dedo > desenho. Bilioso = obstrução. Peritoneal = piora com movimento."**
+> "O dedo do paciente vale mais que a imagem. Dor que migra inflama, dor que explode perfura. Na dúvida, abra o olho: vômito verde ou desmaio é cirurgia chegando no raio."

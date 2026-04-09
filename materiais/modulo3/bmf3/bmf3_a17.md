@@ -1,166 +1,90 @@
 # BMF3 — Aula 17: Anatomia e Histologia do Sistema Reprodutor Masculino
 
-**Disciplina:** Bases Morfofuncionais 3 | **Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+O sistema reprodutor masculino é uma fábrica de gametas e hormônios que funciona sob condições muito específicas. Na prova, os temas centrais são o papel das células de **Sertoli** e **Leydig**, a anatomia da **Próstata** (diferenciando HPB de Câncer) e o caminho que o espermatozoide percorre até o exterior.
+
+Na prática, entender por que o testículo precisa de uma temperatura mais baixa ou como a próstata cresce com a idade é fundamental para tratar casos de infertilidade, infecções e tumores comuns no homem.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O sistema reprodutor masculino produz espermatozoides e testosterona, além de conduzir os gametas ao exterior. A anatomia do percurso espermático e a histologia do testículo são cobradas em questões sobre infertilidade masculina, criptorquidia, varicocele e câncer testicular. A Uninove explora a histologia dos túbulos seminíferos e os tipos celulares do testículo.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF3-A17-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de histologia do testículo.
+- **O que mostrar:** O "Ninho dos Gametas": Um corte de um túbulo seminífero destacando as células de **Sertoli** (as "babás") protegendo as células germinativas e as células de **Leydig** lá fora, no interstício, produzindo testosterona.
+- **Tipo sugerido:** Infográfico didático | Esquema histológico.
+- **Legenda (rascunho):** Organização celular do testículo: Produção de gametas e hormônios.
 
+## 1. Testículos: A Fábrica de Vida
 
-
-
----
-
-## 1. Anatomia do Sistema Reprodutor Masculino
-
-### Órgãos e Funções
-
-| Estrutura | Função |
-|-----------|--------|
-| **Testículos** | Espermatogênese + produção de testosterona |
-| **Epidídimo** | Maturação e armazenamento dos espermatozoides |
-| **Ducto deferente** | Transporte dos espermatozoides |
-| **Vesícula seminal** | Secreta frutose (~60% do volume do sêmen); também secreta prostaglandinas |
-| **Próstata** | Secreta líquido prostático (enzimas, zinco, ácido cítrico — ~25-30%) |
-| **Glândula bulbouretral (Cowper)** | Secreta muco pré-ejaculatório (lubrificante; limpa pH da uretra) |
-| **Uretra** | Conduz sêmen e urina (nunca simultaneamente) |
-| **Pênis** | Órgão copulatório |
-
-### Percurso Espermático (mnemônico TESTED)
-
-**T**estículo → **E**pidídimo → **S**eminal (vesícula) → ducto **E**jaculatório → **D**eferente → Uretra prostática
+Os testículos ficam fora do corpo, na bolsa escrotal, por um motivo térmico: a produção de espermatozoides exige uma temperatura **2 a 3°C abaixo** da temperatura corporal (~34°C).
+- **Células de Leydig:** Ficam "do lado de fora" dos tubos (**No Interstício**). Sua função é produzir **Testosterona** quando recebem o comando do hormônio **LH**.
+- **Células de Sertoli:** São as "Células-Mãe" dentro dos tubos seminíferos. Elas nutrem os espermatozoides, criam a **Barreira Hematotesticular** (para o sangue não atacar os gametas) e produzem a Inibina e o ABP.
 
 ---
 
-## 2. Testículo — Anatomia
+## 2. O Percurso Espermático (Mnemônico: TESTE)
 
-- Localizado na bolsa escrotal (~34°C — 2-3°C abaixo da temperatura corporal, necessário para espermatogênese)
-- Envolvido pela **túnica albugínea** (cápsula de tecido conjuntivo denso)
-- Dividido em **lóbulos** pelos **septos albugíneos**
-- Cada lóbulo contém 1-4 **túbulos seminíferos contorcidos**
-- Os túbulos convergem para a **rete testis** → **ductos eferentes** → **epidídimo**
-
----
-
-## 3. Histologia do Testículo
-
-### Túbulo Seminífero
-
-Compartimentos:
-1. **Células de Sertoli:** células de suporte, grandes, colunares, núcleo triangular/oval
-2. **Células da linhagem germinativa:** espermatogônias → espermatócitos → espermátides → espermatozoides
-
-### Células de Sertoli
-
-| Função | Detalhe |
-|--------|---------|
-| Suporte e nutrição | Fornecem nutrientes e fatores de crescimento para células germinativas |
-| Barreira hematotesticular | Junções de oclusão (tight junctions) entre Sertoli adjacentes — protegem de autoimunidade |
-| Secretam **Inibina B** | Feedback negativo na hipófise → ↓FSH |
-| Secretam **ABP** (Androgen Binding Protein) | Concentra testosterona no túbulo |
-| Secretam **AMH** (Hormônio Anti-Mülleriano) | Regressão dos ductos de Müller na embriogênese masculina |
-| Fagocitose | Remove resíduos citoplasmáticos das espermátides |
-
-### Células de Leydig (interstício)
-
-- Localizadas no **interstício** (entre os túbulos)
-- Citoplasma eosinofílico com cristais de Reinke (característicos em microscopia)
-- Respondem ao **LH** (célula-alvo do LH no testículo)
-- **Produzem testosterona**
+O espermatozoide nasce e viaja por vários metros até a uretra.
+- **T - Testículo:** Onde ele nasce.
+- **E - Epidídimo:** Onde ele "estuda" e ganha **Motilidade** (capacidade de nadar). Fica guardado aqui por cerca de 12 dias.
+- **D - Ducto Deferente:** O "tubo de transporte" que leva o esperma para o abdome.
+- **E - Ejaculatório:** Onde o esperma se mistura com os líquidos das glândulas.
 
 ---
 
-## 4. Espermatogênese — Histologia das Células
+## 3. As Glândulas Acessórias
 
-| Célula | Ploidia | Localização no Túbulo | Características |
-|--------|---------|----------------------|----------------|
-| Espermatogônia (A e B) | 2n (46 cr) | Base (junto à MB) | Células-tronco da linhagem |
-| Espermatócito primário | 2n (em meiose I) | Acima da MB | Maior célula; longa meiose I |
-| Espermatócito secundário | n (2n pós-meiose I) | Vida curta | Curta permanência |
-| Espermátide | n (haplóide) | Próxima ao lúmen | Arredondada |
-| Espermatozoide | n | Lúmen | Cabeça (núcleo) + cauda |
-
-**Duração:** ~74 dias no homem
+O sêmen não é só espermatozoide; ele é composto majoritariamente por secreções:
+- **Vesícula Seminal:** Fornece o "combustível" (**Frutose**) para os espermatozoides nadarem. Representa 60% do sêmen.
+- **Próstata:** Produz um líquido alcalino que protege o esperma da acidez da vagina. É dividida em zonas: a **Zona de Transição** é onde ocorre o crescimento benigno (HPB) e a **Zona Periférica** é onde costuma nascer o **Câncer**.
+- **Glândulas de Cowper:** Soltam o líquido pré-ejaculatório que limpa a uretra e serve de lubrificante.
 
 ---
 
-## 5. Epidídimo — Maturação Espermática
+## 4. Epidídimo e seus Estereocílios
 
-- Ducto contorcido (~6 m de comprimento)
-- Revestido por epitélio pseudo-estratificado colunar com **estereocílios** (microvilosidades longas, imóveis — diferencial histológico do epidídimo)
-- **Funções:** maturação (espermatozoides ganham motilidade progressiva) e armazenamento (cauda do epidídimo)
-- Tempo médio de trânsito: ~12 dias
-
----
-
-## 6. Próstata
-
-- Glândula fibromuscular que envolve a uretra prostática
-- Zona central, zona de transição (hiperplasia benigna — HPB) e zona periférica (carcinoma)
-- **Histologia:** glândulas tubuloalveolares com epitélio colunar simples; estroma fibromuscular; **corpora amilacea** (concreções laminadas — número aumenta com a idade)
-
----
-
-## Erros Clássicos em Prova (Uninove)
-
-1. **Célula de Leydig = testosterona (LH-dependente):** LH → Leydig → testosterona. FSH → Sertoli → espermatogênese (via ABP e inibina).
-2. **Estereocílios do epidídimo ≠ cílios:** São microvilosidades longas, não têm axonema, não batem. Marcador histológico do epidídimo.
-3. **AMH secretado pelas células de Sertoli:** Na embriogênese masculina, AMH faz regredir os ductos de Müller (que formariam útero/tubas). Testosterona (Leydig) masculariza os ductos de Wolff.
-4. **Vesícula seminal fornece frutose (energia para espermatozoides):** Não armazena espermatozoides — só é sítio de secreção.
-5. **HPB ocorre na zona de transição; Câncer de próstata na zona periférica:** Diferença topográfica importante para biópsia (guiada por ultrassom transretal).
-6. **Temperatura testicular:** espermatogênese requer ~34°C. Criptorquidia (testículo não descido) → temperatura abdominal (~37°C) → falha na espermatogênese → infertilidade.
-
----
-
-## Checklist de Revisão
-
-- [ ] Sei o percurso espermático completo (mnemônico TESTED)
-- [ ] Sei as funções das células de Sertoli (barreira, nutrição, inibina, AMH, ABP)
-- [ ] Sei que células de Leydig produzem testosterona (resposta ao LH)
-- [ ] Identifico os estereocílios como marcador histológico do epidídimo
-- [ ] Sei quais zonas da próstata se associam a HPB (transição) e carcinoma (periférica)
-- [ ] Entendo por que criptorquidia causa infertilidade (temperatura)
+No microscópio, o epidídimo é inconfundível. Ele possui **Estereocílios** — que apesar do nome, **NÃO são cílios** (não batem). São apenas microvilosidades gigantes que ajudam a absorver líquido e nutrir os espermatozoides que estão amadurecendo ali dentro.
 
 ---
 
 ## Ponte com a Clínica
 
-No varicocele (dilatação das veias do plexo pampiniforme), o aumento da temperatura escrotal prejudica a espermatogênese — causa tratável de infertilidade masculina. Na criptorquidia, o não descimento do testículo eleva o risco de carcinoma testicular (mesmo após orquidopexia) além da infertilidade. No tumor de células de Sertoli, pode haver produção excessiva de estrogênio (conversão de testosterona por aromatase) → ginecomastia. No carcinoma de próstata, a detecção precoce pelo PSA (antígeno prostático específico — glicoproteína produzida pelas células epiteliais da próstata) permite tratamento curativo.
+A **Varicocele** é a principal causa de infertilidade masculina tratável. São "varizes" no testículo que fazem o sangue quente acumular ali. Esse aumento de temperatura "cozinha" os espermatozoides, destruindo a fábrica de vida. Outro ponto vital é a **Criptorquidia** (quando o testículo não desce para a bolsa). Se o testículo ficar dentro da barriga (37°C), ele para de funcionar e tem um risco altíssimo de virar câncer no futuro.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Sertoli**: Célula de suporte que forma a **Barreira Hematotesticular**.
+- **Leydig**: Célula que produz **Testosterona** em resposta ao LH.
+- **Espermatogênese**: Ocorre em cerca de **74 dias** nos túbulos seminíferos.
+- **Próstata**: A zona periférica é o local do câncer; o toque retal avalia justamente essa área.
+- **Frutose**: Produzida pela vesícula seminal, é a fonte de energia dos gametas.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Percurso:** Testículo → Epidídimo → Deferente → Ejaculatório → Uretra (TESTED)
-- **Leydig:** interstício, testosterona, responde ao LH
-- **Sertoli:** intracanal, suporte + barreira hematotesticular + AMH + inibina B; responde ao FSH
-- **Epidídimo:** estereocílios (não cílios); maturação espermática; ~12 dias de trânsito
-- **Vesícula seminal:** frutose (~60% volume seminal)
-- **Próstata:** zona de transição = HPB; zona periférica = carcinoma
-- **Criptorquidia:** T° alta → falha na espermatogênese + risco de tumor
+
+Para gabaritar Reprodutor Masculino, esqueça a confusão entre Sertoli e Leydig. 
+**Leydig = L de LH e L de Líquido** (interstício) -> faz testosterona. **Sertoli = S de Suporte e S de Semen** (dentro do tubo) -> cuida dos "bebês" espermatozoides. No microscópio, se vir cílios compridos imóveis, é **Epidídimo**. Se vir glândulas com "pedrinhas" (Corpora Amylacea), é **Próstata**.
+
+A Uninove ama cobrar sobre a Próstata. Lembre-se: **HPB (Benigno)** cresce no centro e "aperta" a uretra, fazendo o vô sofrer para urinar. **Adenocarcinoma (Câncer)** cresce na beirada (periférica), não dói no começo e só pegamos no PSA ou no toque. Por fim, saiba que a temperatura é a regra: testículo quente não fabrica espermatozoide.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Célula de Leydig | Célula de Sertoli | Leydig: interstício, LH, testosterona; Sertoli: dentro do túbulo, FSH, suporte/inibina/AMH |
-| Estereocílios (epidídimo) | Cílios (tubas) | Estereocílios: longos, imóveis, microvilosidades; Cílios: têm axonema (9+2), batem |
-| HPB | Carcinoma próstata | HPB: zona de transição (central), obstrução urinária; Carcinoma: zona periférica, detectado pelo PSA |
-| Vesícula seminal | Próstata | Vesícula: frutose (60%); Próstata: proteases/PSA/zinco (25-30%) |
+| **Célula de Sertoli** | **Célula de Leydig** | **Dentro do Tubo** (Suporte) vs **Fora do Tubo** (Hormônio) |
+| **Epidídimo** | **Ducto Deferente** | Local de **Maturação** vs Local de **Transporte** rápido |
+| **Zona de Transição** | **Zona Periférica** | Local da **HPB** (Dificulta urina) vs Local do **Câncer** |
+| **Vesícula Seminal** | **Próstata** | Dá **Frutose (Energia)** vs Dá **PSA e Proteção** |
+| **Estereocílios** | **Cílios Verdadeiros** | São **Imóveis** (Epidídimo) vs São **Móveis** (Tubas/Pulmão) |
 
 ### Frase-âncora para não esquecer
-> "Leydig e Sertoli dividem o testículo: Leydig fica no interstício fazendo testosterona quando o LH chama; Sertoli fica dentro do túbulo fazendo de tudo para os espermatozoides sobreviverem — inclusive construindo uma barreira para protegê-los do sistema imune."
+
+> "Sertoli cuida, Leydig fabrica a testosterona. O esperma nasce no testículo, se forma no epidídimo e corre pelo deferente. Se a próstata cresce por dentro, o xixi para; se cresce por fora, o perigo é o câncer."

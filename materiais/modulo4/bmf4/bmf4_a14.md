@@ -1,147 +1,91 @@
-# BMF4 — Aula 14: Vascularização do SNC
+# BMF4 — Aula 14: Vascularização do SNC — O Fluxo da Vida
 
-**Disciplina:** Bases Morfofuncionais 4 — Neurossensorial e Endócrino
-**Módulo:** 4 | **Tempo de estudo sugerido:** 10-15 min
+O cérebro é um órgão que não tolera falta de sangue. Apenas alguns minutos sem oxigênio e glicose podem causar danos irreversíveis. Na prova, os temas centrais são o **Círculo de Willis**, os territórios das **Artérias Cerebrais (Anterior, Média e Posterior)** e as síndromes de **AVC** relacionadas a cada uma.
+
+Na prática, o médico deve ser capaz de olhar para um paciente paralisado e dizer qual artéria entupiu. Se a perna não move, o problema é em um lugar; se o rosto e o braço pararam, o problema é outro. O tempo é cérebro: quanto mais rápido você entende a anatomia da obstrução, mais rápido pode tentar desobstruir o vaso.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O cérebro representa 2% do peso corporal mas consome 20% do oxigênio e 25% da glicose. Interromper o fluxo por apenas 4–6 minutos causa morte neuronal irreversível. Por isso a vascularização do SNC é um tema de urgência: AVCs matam e incapacitam. A Uninove cobra tanto a anatomia (qual artéria supre qual território) quanto a clínica (qual déficit emerge de cada território isquêmico). Saber o círculo de Willis e os três territórios cerebrais é suficiente para responder 80% das questões sobre AVC.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF4-A14-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção do Círculo de Willis.
+- **O que mostrar:** O "Polígono de Proteção": Um esquema do **Círculo de Willis** na base do encéfalo. Destacar as **Carótidas Internas** e as **Artérias Vertebrais** chegando por baixo. Mostrar a união formando as artérias **Cerebral Anterior, Média e Posterior**.
+- **Tipo sugerido:** Infográfico anatômico superior.
+- **Legenda (rascunho):** Círculo de Willis: a principal rede de anastomose arterial cerebral.
 
+## 1. As Duas Portas de Entrada
 
-
-
----
-
-## Visão Geral do Suprimento Arterial
-
-O encéfalo recebe sangue de dois sistemas que se anastomosam na base do crânio:
-
-**Sistema carotídeo (anterior):** artéria carótida interna → artéria cerebral anterior (ACA) + artéria cerebral média (ACM) + artéria coróidea anterior + artéria comunicante posterior.
-
-**Sistema vertebrobasilar (posterior):** artérias vertebrais (direita + esquerda) → artéria basilar → artérias cerebrais posteriores (ACP) + artérias cerebelares superiores + PICA (posterior inferior cerebelar) + AICA (anterior inferior cerebelar).
-
-As duas artérias comunicantes (anterior e posterior) unem esses sistemas formando o **Círculo de Willis (polígono de Willis)** na base do cérebro, sobre a sela túrcica.
+O cérebro recebe sangue por dois sistemas principais:
+- **Sistema Carotídeo (Anterior):** As **Artérias Carótidas Internas** trazem sangue para a frente e laterais do cérebro.
+- **Sistema Vertebrobasilar (Posterior):** As **Artérias Vertebrais** se unem para formar a **Artéria Basilar**, que irriga o tronco encefálico e a parte de trás do cérebro.
+- **Círculo de Willis:** É onde esses dois sistemas se encontram. Ele funciona como um "seguro": se uma artéria entupir, as outras podem tentar mandar sangue pelo polígono.
 
 ---
 
-## O Círculo de Willis — Anatomia e Variações
+## 2. A Trindade das Artérias Cerebrais
 
-```flow
-ACI esquerda                    ACI direita
-     ↓                               ↓
-ACA esquerda —— A. comunicante anterior —— ACA direita
-     ↓                                         ↓
-ACM esquerda                            ACM direita
-     ↓                                         ↓
-A. comunicante posterior esquerda  A. comunicante posterior direita
-     ↓                                         ↓
-ACP esquerda —————— A. basilar ——————— ACP direita
-                         ↑
-              Artérias vertebrais (D + E)
-```
-
-> **Dica de Prova:** O círculo de Willis é uma anastomose de segurança — se uma carótida ocluir cronicamente, o outro lado pode compensar. Porém, em 50% das pessoas o círculo é incompleto (as comunicantes são hipoplásicas), o que explica por que nem sempre ocorre compensação eficaz.
+Cada grande artéria cuida de uma "fatia" do cérebro:
+- **Artéria Cerebral Anterior (ACA):** Irriga a face medial do cérebro. **Foco:** Controla o movimento e a sensibilidade das **Pernas**.
+- **Artéria Cerebral Média (ACM):** É a artéria mais importante e a que mais entope. Irriga as laterais. **Foco:** Controla o **Rosto e os Braços**, além da **Fala (Broca/Wernicke)**.
+- **Artéria Cerebral Posterior (ACP):** Irriga a parte de trás. **Foco:** Controla a **Visão**.
 
 ---
 
-## Territórios das Três Artérias Cerebrais
+## 3. Vascularização do Tronco e Cerebelo
 
-| Artéria | Território cortical | Déficit por oclusão |
-|---------|-------------------|-------------------|
-| **ACA** | Lobo frontal medial, córtex motor/sensitivo da perna | Hemiplegia + hemianestesia do membro inferior contralateral |
-| **ACM** | Lobo frontal lateral, parietal, temporal | Hemiplegia do face + braço contra; afasia (hemisfério dominante); hemianopsia homônima |
-| **ACP** | Lobo occipital, lobo temporal inferior | Hemianopsia homônima contralateral; agnosia visual; amnésia (hipocampo) |
-
-> **Pegadinha:** Oclusão da ACM é o AVC mais comum (irrigar a cápsula interna através dos ramos lenticuloestriados). O déficit de face e membro superior contralateral, preservando o membro inferior, é clássico da ACM — porque o membro inferior está na superfície medial (território da ACA).
+O tronco e o cerebelo dependem do sistema de trás (vertebrobasilar):
+- **PICA (Artéria Cerebelar Posterior Inferior):** Se ela entupir, causa a **Síndrome de Wallenberg** (o paciente fica rouco, com soluços e perde o equilíbrio).
+- **Artéria Basilar:** Se ela entupir totalmente na ponte, o paciente entra em **Locked-in** (Enclausuramento): ele vê e ouve tudo, mas não consegue mover nem um músculo, exceto abrir e fechar os olhos.
 
 ---
 
-## Artérias do Tronco Encefálico e Cerebelo
+## 4. Drenagem: Os Seios da Duramáter
 
-As artérias vertebrais e basilar emitem ramos para estruturas do tronco e cerebelo. As mais cobradas:
-
-| Artéria | Estrutura irrigada | Síndrome por oclusão |
-|---------|------------------|---------------------|
-| **PICA** (posterior inferior cerebelar) | Lateral do bulbo + hemisfério cerebelar inferior | Síndrome de Wallenberg (lateral do bulbo): disfagia, rouquidão, ataxia ipsilateral, hemianestesia contralateral do tronco, Horner ipsilateral |
-| **AICA** (anterior inferior cerebelar) | Lateral da ponte + cerebelo anterior | Surdez, paralisia facial periférica ipsilateral, ataxia |
-| **Artéria basilar** | Ponte bilateral | "Locked-in syndrome": tetraplegia + paralisia facial, consciência preservada |
-| **ACP** | Lobo occipital | Hemianopsia + cegueira cortical bilateral (ACP bilateral) |
-
-> **Dica de Prova:** A síndrome de Wallenberg (PICA) é altamente cobrada porque tem achados cruzados: ataxia e Horner ipsilaterais à lesão + dor e temperatura contralaterais (espinotalâmico cruzado no bulbo).
-
----
-
-## Autorregulação do Fluxo Cerebral
-
-O fluxo sanguíneo cerebral (FSC) normal é ~50 mL/100 g/min. A autorregulação mantém o FSC constante entre pressões arteriais médias de 60–150 mmHg por vasoconstrição ou vasodilatação reflexa. Acima de 150 mmHg (encefalopatia hipertensiva) ou abaixo de 60 mmHg → a autorregulação falha. O CO₂ é o principal regulador: hipercapnia (↑PCO₂) → vasodilatação cerebral; hipocapnia (↓PCO₂) → vasoconstrição → estratégia de hiperventilação para reduzir pressão intracraniana em emergências.
-
----
-
-## Drenagem Venosa — Seios Durais
-
-O sangue venoso drena para os seios durais (espaços entre as lâminas da dura-máter) e daí para as veias jugulares internas:
-
-- **Seio sagital superior:** drena superfície dorsal dos hemisférios.
-- **Seio reto:** drena veia cerebral magna (Galeno) — drena estruturas profundas.
-- **Seio cavernoso:** ao redor da sela túrcica; contém NC III, IV, V1, V2, VI e artéria carótida interna. Trombose do seio cavernoso → oftalmoplegia + quemose + proptose + dor.
-- **Confluência dos seios (tórcula):** junção dos seios sagital superior, reto e occipital → drenam para seios transversos → seios sigmóides → veias jugulares internas.
-
-> **Dica de Prova:** Trombose do seio cavernoso é complicação de infecções na "zona de perigo da face" (área central do nariz e lábio superior) — veias desta área drenam para o seio cavernoso sem válvulas, permitindo trombose por contiguidade.
-
----
-
-## Pontos-Chave para Prova
-
-- **Círculo de Willis:** anastomose entre sistema carotídeo (anterior) e vertebrobasilar (posterior). Em 50% é incompleto.
-- **ACA:** irriga face medial do hemisfério → déficit no membro inferior contralateral.
-- **ACM:** irriga face lateral → déficit face + braço contralateral + afasia (dominante) → AVC mais comum.
-- **ACP:** irriga lobo occipital → hemianopsia homônima contralateral; bilateral = cegueira cortical.
-- **PICA:** síndrome de Wallenberg — achados cruzados: ataxia + Horner ipsilaterais, dor/temp contralateral.
-- **CO₂:** principal regulador do FSC; ↑CO₂ = vasodilatação; hiperventilação = vasoconstrição (reduz PIC).
-- **Seio cavernoso:** contém NC III, IV, V1, V2, VI e ACI; trombose = oftalmoplegia + proptose.
-- **Lenticuloestriados (ramos da ACM):** irrigam cápsula interna; oclusão = AVC lacunar clássico.
+Depois que o sangue entrega o oxigênio, ele precisa sair:
+- **Seios Durais:** São canais de sangue dentro da membrana que envolve o cérebro (**Duramáter**). O maior é o **Seio Sagital Superior**.
+- **Seio Cavernoso:** Fica ao lado da sela túrcica. Como você viu na aula de crânio, ele é perigoso porque infecções no nariz ou olhos podem causar coágulos ali (**Trombose**), paralisando os movimentos oculares.
 
 ---
 
 ## Ponte com a Clínica
 
-AVC isquêmico por oclusão da ACM — o mais comum: hemiplegia + hemianestesia proporcionais face + braço contralaterais, desvio do olhar conjugado ipsilateral à lesão (olhos olham para o lado da lesão), afasia de Broca (lesão do hemisfério esquerdo). Subaracnoide por aneurisma de comunicante anterior: hemorragia subaracnoide ("pior dor de cabeça da vida") + rigidez de nuca + TC com hiperdensidade nas cisternas. Dissecção de artéria carótida interna: jovem com dor cervical + síndrome de Horner ipsilateral + AVC isquêmico.
+No seu plantão, se chegar um paciente com uma **Hemiplegia Contralateral** (paralisia completa de um lado), mas que atinge principalmente o **Rosto e o Braço**, poupando um pouco a perna, e o paciente não consegue falar, você já sabe: o AVC é na **Artéria Cerebral Média** do hemisfério dominante. Se o paciente disser que teve a "pior dor de cabeça da vida" de forma súbita, desconfie de um rompimento de aneurisma no **Círculo de Willis**.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Artéria Cerebral Média (ACM)**: É a artéria mais frequentemente acometida em AVCs isquêmicos; irriga o braço e a face.
+- **Artéria Cerebral Anterior (ACA)**: Responsável pela irrigação da área motora das **Pernas**.
+- **Artéria Cerebral Posterior (ACP)**: Sua oclusão gera déficits visuais severos (**Hemianopsia**).
+- **Círculo de Willis**: Anastomose entre o sistema carotídeo e o vertebrobasilar para proteção isquêmica.
+- **Autoregulação Cerebral**: O fluxo de sangue no cérebro é controlado principalmente pelos níveis de **CO2** (gás carbônico).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **ACA:** membro inferior contralateral fraco. AVC medial da perna.
-- **ACM:** face + braço contralaterais + afasia (dominante). O mais comum.
-- **ACP:** hemianopsia homônima contralateral; bilateral = cegueira cortical.
-- **PICA:** síndrome de Wallenberg — ataxia + Horner (ipsilateral) + dor/temp (contralateral).
-- **Lenticuloestriados (ACM):** irrigam cápsula interna → AVC lacunar → hemiplegia densa.
-- **Seio cavernoso:** NC III, IV, V1, V2, VI + ACI. Trombose = oftalmoplegia.
-- **CO₂ ↑ → vasodilatação cerebral.** Hiperventilação reduz PCO₂ → vasoconstrição → reduz PIC.
-- **Círculo de Willis:** anastomose carotída + vertebrobasilar; incompleto em 50%.
+
+Para gabaritar vascularização, associe a artéria ao sintoma. 
+**ACM** = Rosto, Braço e Fala. **ACA** = Perna. **ACP** = Visão. **PICA** = Equilíbrio e Voz (Wallenberg). **Basilar** = Tronco Encefálico (Vida).
+
+A Uninove adora o **Círculo de Willis**. Lembre-se: Ele protege o cérebro, mas em muita gente ele é incompleto. Outro ponto forte: o **AVC de ACM** é o clássico do hospital. Por fim, saiba que se o paciente está respirando muito rápido, o CO2 cai, as artérias do cérebro se fecham (**Vasoconstrição**) e a pressão dentro da cabeça diminui; os médicos usam isso em casos de trauma grave.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| AVC de ACM | AVC de ACA | ACM: face + braço contralateral; ACA: perna contralateral |
-| Hemianopsia por ACP | Hemianopsia por ACA | ACP: lobo occipital; ACA não causa hemianopsia |
-| Síndrome de Wallenberg (PICA) | AVC de basilar | Wallenberg: achados cruzados, unilateral; basilar: bilateral, locked-in |
-| Trombose seio cavernoso | Aneurisma de ACI | Ambos afetam NC III; trombose: também V1/V2, proptose/quemose |
+| **AVC de ACM** | **AVC de ACA** | **Braço/Rosto** fracos vs **Perna** fraca |
+| **H. Epidural** | **H. Subaracnoide** | Trauma (**Arteria Meníngea**) vs Aneurisma (**Willis**) |
+| **Sistema Carotídeo** | **S. Vertebrobasilar** | Irriga a **Frente** vs Irriga o **Tronco/Atrás** |
+| **PICA** | **AICA** | **Bulbo** (Voz/Equilíbrio) vs **Ponte** (Face/Audição) |
+| **Veia de Galeno** | **Seio Sagital** | Drenagem **Profunda** vs Drenagem **Superficial** |
 
 ### Frase-âncora para não esquecer
-> "ACM é a rainha: irriga o maior território, causa o maior AVC e ainda passa pela cápsula interna — tudo no mesmo bairro."
+
+> "Média é mímica e mão (face/braço), Anterior é andar (perna), Posterior é o olhar (visão). Se o círculo fechar, o sangue vai passar; se a PICA entupir, a voz vai sumir. Média é a rainha do hospital, pois o AVC nela é o mais fatal."

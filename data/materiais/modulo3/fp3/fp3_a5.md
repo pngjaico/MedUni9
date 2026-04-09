@@ -1,101 +1,92 @@
 # FP3 — Aula 5: Farmacologia do SNA Parassimpático
 
-**Disciplina:** Processos Fisiopatológicos e Farmacoterapêuticos 3
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+O Sistema Nervoso Parassimpático é o modo "descansar e digerir" do corpo. Na prova, os temas centrais são a ação da **Acetilcolina**, a diferença entre receptores **Muscarínicos** e **Nicotínicos**, e o manejo de situações críticas como a **Intoxicação por Agrotóxicos** (organofosforados) e o tratamento da **Miastenia Gravis**.
+
+Na prática, o médico deve saber reconhecer a síndrome colinérgica (excesso de secreção e bradicardia) e usar a **Atropina** como o antídoto que "seca e acelera" o paciente em perigo.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-O sistema nervoso parassimpático ("rest and digest") domina as funções vegetativas em repouso. Seus fármacos — colinérgicos e anticolinérgicos — aparecem em situações clínicas muito específicas: tratamento de glaucoma, asma (ipratrópio), bexiga hiperativa, intoxicação por organofosforado, paralisia intestinal no pós-operatório. A **Uninove** cobra a lista de efeitos muscarínicos e nicotínicos e a inversão de efeitos quando se bloqueia esse sistema.
 
 ### Figura sugerida
 
 **Figura-ID:** `FP3-A5-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de receptores e efeitos.
+- **O que mostrar:** O "Boneco Colinérgico": Um desenho do corpo humano demonstrando o mnemônico **DUMBELS**: **D**iarreia, **U**rinação, **M**iose (pupila pequena), **B**radicardia (coração lento), **E**mese (vômito), **L**acrimejamento e **S**alivação.
+- **Tipo sugerido:** Infográfico didático | Esquema anatômico.
+- **Legenda (rascunho):** Efeitos da estimulação colinérgica sistêmica (Síndrome Colinérgica).
 
+## 1. Acetilcolina e seus Receptores
 
-
-
----
-
-## Receptores Colinérgicos — Muscarínico vs. Nicotínico
-
-O mediador do sistema parassimpático é a **acetilcolina (ACh)**, que age em dois tipos de receptores:
-
-**Receptores muscarínicos** (M₁–M₅): na musculatura lisa (M₂ e M₃ predominantemente), glândulas exócrinas (M₃) e coração (M₂). Os efeitos muscarínicos, resumidos pelo mnemônico **DUMBELS**: Defecação/Diarreia, Urinação, Miose, Bradicardia, Emese, Lacrimejamento, Salivação/Sudorese. Todos esses efeitos são inibidos pelos antimuscarínicos.
-
-> **Dica de Prova:** intoxicação por organofosforado (herbicidas, gás nervoso) inibe a acetilcolinesterase → acúmulo de ACh → todos os efeitos DUMBELS exacerbados + fasciculações musculares (nicotínico). Tratamento: atropina (antagonista muscarínico) + pralidoxima (reativa a acetilcolinesterase antes da "envelhecimento" da ligação).
-
-**Receptores nicotínicos** (N): na junção neuromuscular e nos gânglios autônomos. A estimulação nicotínica excessiva causa fasciculações, cãibras, paralisia (pelo mecanismo de despolarização bloqueante — a membrana permanece despolarizada e perde excitabilidade).
+O parassimpático usa a **Acetilcolina (ACh)** para mandar mensagens. Ela se liga a dois tipos de receptores:
+- **Muscarínicos (M):** Estão nos órgãos (coração, pulmão, glândulas). Quando ativados, causam os efeitos de "descanso": suor, saliva, digestão e batimento cardíaco lento.
+- **Nicotínicos (N):** Estão nos **Músculos** (junção neuromuscular) e nos gânglios. Quando ativados, fazem o músculo contrair.
 
 ---
 
-## Agonistas Colinérgicos (Parassimpaticomiméticos)
+## 2. Inibidores da Acetilcolinesterase (Anticolinesterásicos)
 
-**Agentes de ação direta** (agonistas muscarínicos): betanecol (estimula motilidade intestinal e bexiga — usado em atonia urinária pós-operatória e íleo paralítico), pilocarpina (glaucoma: contrai o músculo ciliar e o esfíncter da pupila, facilitando a drenagem do humor aquoso pelo canal de Schlemm — usada em colírio).
-
-**Inibidores da acetilcolinesterase (anticolinesterásicos):** aumentam a [ACh] sináptica ao inibir sua degradação. Reversíveis: neostigmina e piridostigmina (miastenia gravis — aumentam ACh na junção neuromuscular); fisostigmina (glaucoma, reversão de intoxicação por antimuscarínicos). Irreversíveis: organofosforados (agrotóxicos, agentes de guerra).
+Existem remédios que impedem a destruição da acetilcolina, fazendo com que ela dure mais tempo na sinapse.
+- **Piridostigmina / Neostigmina:** Usados no tratamento da **Miastenia Gravis** (fraqueza muscular). Eles aumentam a acetilcolina no músculo para ajudar o paciente a ter força para abrir os olhos e respirar.
+- **Donepezila:** Usada no **Alzheimer** para tentar melhorar a memória aumentando a acetilcolina no cérebro.
+- **Organofosforados (Veneno):** Inibem a enzima de forma irreversível. O paciente fica "inundado" de acetilcolina e morre afogado em suas próprias secreções (DUMBELS).
 
 ---
 
-## Antagonistas Muscarínicos (Anticolinérgicos)
+## 3. Antagonistas Muscarínicos (Anticolinérgicos)
 
-**Atropina:** bloqueio de todos os receptores muscarínicos → taquicardia, midríase, broncodilatação, ↓secreções (boca seca, pele seca), ↓motilidade intestinal, retenção urinária. Usada em: bradicardia sintomática (↑FC), pré-operatório (↓secreções), intoxicação por organofosforado.
+São drogas que bloqueiam o sistema parassimpático.
+- **Atropina:** É a estrela do grupo. Bloqueia o efeito "descansar". Resultado: **Taquicardia** (acelera o coração) e **Seca as secreções**. É o antídoto para intoxicação por veneno de rato/agrotóxico.
+- **Ipratrópio (Atrovent):** Bloqueia a contração dos pulmões. Usado na **DPOC** e Asma para ajudar a respirar.
+- **Escopolamina (Buscopan):** Bloqueia a contração do intestino. Usado para **Cólicas**.
+- **Oxibutinina:** Usada para "acalmar" a bexiga em quem tem incontinência urinária.
 
-> **Pegadinha:** "febre + pele seca + midríase + taquicardia + retenção urinária + confusão" = síndrome anticolinérgica (intoxicação por atropina ou antidepressivos tricíclicos que têm atividade antimuscarínica). Tratamento: fisostigmina (anticolinesterásico que atravessa barreira hematoencefálica).
+---
 
-**Escopolamina (hioscina):** antimuscarínico com ação central → indica enjoo de movimento (cinetose).
+## 4. Síndrome Anticolinérgica (Intoxicação por Atropina)
 
-**Ipratrópio e tiotrópio:** antimuscarínicos por via inalatória → broncodilatação sem efeitos sistêmicos significativos. Ipratrópio é de curta duração (asma grave + DPOC); tiotrópio é de longa duração (DPOC estável).
+Grave este mnemônico clássico para a prova:
+- "Quente como brasa (Febre), seco como osso (Pele seca), vermelho como beterraba (Rubor), cego como morcego (**Midríase** - pupila grande), louco como um chapeleiro (Delírio)."
+- Isso ocorre quando há excesso de bloqueio colinérgico (ex: overdose de Buscopan ou certos antidepressivos).
 
-**Oxibutinina, solifenacina:** antimuscarínicos para bexiga hiperativa (reduzem espasmos vesicais → aumentam capacidade da bexiga).
+---
 
-**Biperideno e triexifenidil:** antimuscarínicos centrais usados em parkinsonismo por medicamentos (antagonismo dopaminérgico de antipsicóticos) e na doença de Parkinson leve para reduzir tremor.
+## Ponte com a Clínica
+
+No pronto-socorro, chegará um paciente que tentou suicídio ingerindo "chumbinho" ou agrotóxico. Ele estará babando, urinando, com o coração bem lento (bradicardia) e as pupilas minúsculas (miose pontiforme). O diagnóstico é **Síndrome Colinérgica**. O tratamento imediato é a **Atropina** em doses altas e repetidas até que as secreções do pulmão sumam ("atropinização"). Lembre-se: a atropina salva o pulmão e o coração, mas a **Pralidoxima** é necessária para tentar desfazer o nó que o veneno deu na enzima.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Receptores muscarínicos:** M₂ no coração (bradicardia, BAV); M₃ em glândulas e musculatura lisa.
-- **DUMBELS:** efeitos da estimulação muscarínica excessiva (organofosforado).
-- **Tratamento organofosforado:** atropina + pralidoxima.
-- **Pilocarpina:** glaucoma — miose + ↓PIO.
-- **Neostigmina/piridostigmina:** miastenia gravis.
-- **Atropina:** bradicardia + intoxicação por organofosforado.
-- **Ipratrópio (curto) e tiotrópio (longo):** DPOC — broncodilatação antimuscarínica inalatória.
-- **Síndrome anticolinérgica:** "quente como brasa, seco como osso, vermelho como beterraba, cego como morcego, louco como chapeleiro."
+- **DUMBELS**: Mnemônico essencial para identificar excesso de acetilcolina.
+- **Miastenia Gravis**: Tratada com piridostigmina (anticolinesterásico).
+- **Glaucoma**: Pilocarpina ajuda a drenar o líquido do olho ao causar miose.
+- **Atropina**: Antagonista muscarínico; antídoto para bradicardia e organofosforados.
+- **Ipratrópio**: Anticolinérgico inalatório; evita broncoconstrição.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Farmacologia do Parassimpático, foque nos opostos. 
+**Muita Secreção / Coração Lento** = Colinérgico (Ativar). **Boca Seca / Coração Rápido** = Anticolinérgico (Bloquear). Na **Intoxicação por Agrotóxico**, o paciente derrama líquidos por todos os poros; a resposta é Atropina para secar. Na **Miastenia Gravis**, o paciente está sem força; a resposta é Piridostigmina.
 
-DUMBELS: efeitos muscarínicos = Defecação, Urinação, Miose, Bradicardia, Êmese, Lacrimejamento, Salivação. Organofosforado: DUMBELS + fasciculações → atropina + pralidoxima. Pilocarpina: glaucoma (miose + drenagem humor aquoso).
-
-Neostigmina: miastenia gravis (↑ACh na JNM). Atropina: bradicardia sintomática + organofosforado. Ipratrópio: DPOC + asma grave (broncodilatação inalatória).
-
-Síndrome anticolinérgica: taquicardia + midríase + boca seca + retenção urinária. Fisostigmina: antídoto da síndrome anticolinérgica.
+A Uninove adora cobrar o efeito na **Pupila**. Remédio colinérgico (Pilocarpina) faz **Miose** (pupila pequena). Remédio anticolinérgico (Atropina) faz **Midríase** (pupila grande). Outro ponto forte: o **Ipratrópio** é fundamental no tratamento da DPOC porque bloqueia o reflexo de fechar os brônquios. Por fim, saiba que a **Escopolamina** tira a cólica justamente porque "desliga" a contração exagerada do músculo liso do intestino.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Síndrome colinérgica | Síndrome anticolinérgica | Colinérgica: miose + bradicardia + diarreia + salivação; anticolinérgica: midríase + taquicardia + boca seca + retenção |
-| Ipratrópio | Tiotrópio | Ipratrópio: curta duração, asma + DPOC; tiotrópio: longa duração, DPOC estável |
-| Atropina | Fisostigmina | Atropina: bloqueia ACh (trata colinérgica); fisostigmina: ↑ACh (trata anticolinérgica) |
-| Receptor nicotínico | Receptor muscarínico | Nicotínico: JNM + gânglios; muscarínico: órgãos-alvo parassimpáticos |
-| Neostigmina | Organofosforado | Neostigmina: reversível (↑ACh para miastenia); organofosforado: irreversível, intoxicação |
+| **Miose** | **Midríase** | Pupila **Pequena** (Colinérgico) vs Pupila **Grande** (Anticolinérgico) |
+| **Atropina** | **Adrenalina** | Aumenta FC por **Bloqueio** vs Aumenta FC por **Estímulo Direto** |
+| **Neostigmina** | **Pilocarpina** | Age na **Junção Muscular** vs Age no **Olho (Glaucoma)** |
+| **Síndrome Colinérgica** | **Síndrome Anticolinérgica** | **Úmido** (Babel/Suor) vs **Seco** (Boca seca/Calor) |
+| **Ipratrópio** | **Salbutamol** | **Antagonista** Muscarínico vs **Agonista** Beta-2 |
 
 ### Frase-âncora para não esquecer
 
-> "Para-simpático = DUMBELS; anti-simpático (anticolinérgico) = abre, seca e acelera tudo que o parassimpático fechava."
+> "O parassimpático molha, fecha e acalma. O anticolinérgico seca, abre e dispara. No veneno do agrotóxico, o paciente vira uma fonte; com a Atropina, o médico constrói a ponte para a cura."

@@ -1,130 +1,98 @@
-# BMF1 — Aula 1: Introdução ao Estudo da Anatomia Humana
+# BMF1 — Aula 1: Introdução à Anatomia — O Mapa do Corpo
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+A anatomia não é apenas decorar nomes; é aprender a ler um mapa 3D constante. Na prova, os temas centrais são a **Posição Anatômica**, os **Planos de Seção** e os **Termos Direcionais**.
+
+Na prática, a anatomia é o que impede você de operar o lado errado ou de descrever um exame de forma ambígua. Se você diz que uma lesão é **"Proximal"** ou **"Distal"**, você está dando uma coordenada exata que todo médico no mundo entende. Aprender anatomia é aprender o "GPS" da medicina: sem ele, você está perdido antes mesmo de começar o exame físico.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A **Anatomia Humana** é o alicerce de toda a prática médica. Para a prova, domine a **Posição Anatômica** (palmas para frente) e os **Planos de Seção** (**Sagital**, **Coronal** e **Axial**). Na clínica, descrever uma lesão como **"Distal"** ou **"Medial"** é o que garante que o cirurgião opere o local correto e que o radiologista interprete o exame com precisão.
-
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A1-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Planos e Cortes.
+- **O que mostrar:** O "Corte de Vidro": Um modelo humano em posição anatômica atravessado por três placas de vidro coloridas: uma vertical dividindo em direita/esquerda (**Sagital**), uma vertical dividindo em frente/atrás (**Coronal**) e uma horizontal dividindo em cima/baixo (**Axial**). 
+- **Tipo sugerido:** Infográfico 3D de referência espacial.
+- **Legenda (rascunho):** Os três planos universais de orientação anatômica e radiológica.
+
+## 1. A Posição de Referência (Obrigatória)
+
+Toda descrição anatômica assume que o paciente está na **Posição Anatômica**:
+- **O Corpo:** Em pé, olhar no horizonte.
+- **Membros Superiores:** Estendidos ao lado do corpo com as **Palmas voltadas para frente**.
+- **Membros Inferiores:** Pés ligeiramente afastados e voltados para frente.
+- **Regra:** Se você disser "medial" e o paciente estiver com a mão virada, você erra. A referência é sempre com a palma para frente!
 
 ---
 
-## Planos e cortes anatômicos
+## 2. Planos e Cortes: Fatiando a Realidade
 
-| Plano de Seção | Divisão do Corpo | Aplicação em Imagem (TC/RM) |
+| Plano de Seção | Divisão do Corpo | Aplicação em Imagem |
 |-----------------|-------------------|-----------------------------|
-| **Sagital** | **Direita ↔ Esquerda** | Ver perfil e linha média |
-| **Coronal** | **Anterior ↔ Posterior** | Ver simetria de pulmões/rins |
-| **Axial** | **Superior ↔ Inferior** | Ver "fatias" transversais |
-
-**Posição anatômica de referência:** em pé, **palmas para frente**, pés ligeiramente separados. Todos os termos (**medial**, **proximal**, **superficial**) assumem essa postura, a menos que o enunciado descreva outra.
-
-> **Dica de Prova:** Em **decúbito ventral**, o lado **anterior** do joelho continua sendo a face **patelar** — confira se a questão fala em relação ao **paciente** ou ao **observador**.
+| **Plano Sagital** | **Direita ↔ Esquerda**| Ver perfil e linha média |
+| **Plano Coronal** | **Anterior ↔ Posterior** | Ver simetria (frente/trás) |
+| **Plano Axial** | **Superior ↔ Inferior** | Ver "fatias" (comum na TC) |
 
 ---
 
-## Termos direcionais essenciais
+## 3. Termos Direcionais: O GPS Médico
 
-| Termo Direcional | Significado Clínico | Exemplo Prático |
-|------------------|---------------------|-----------------|
-| **Medial** | Perto da **Linha Média** | O hálux é medial no pé |
-| **Lateral** | Longe da **Linha Média** | O V dedo é lateral no pé |
-| **Proximal** | Perto da **Origem** (Tronco) | O ombro é proximal ao cotovelo |
-| **Distal** | Longe da **Origem** | O punho é distal ao cotovelo |
-| **Superficial** | Perto da **Pele** | Veias superficiais (acesso) |
-| **Profundo** | Longe da **Pele** | Artérias e Vísceras |
-| **Cranial (Superior)**| Perto da **Cabeça** | Crânio é cranial ao pescoço |
-| **Caudal (Inferior)** | Perto dos **Pés** | Pelve é caudal ao tórax |
+- **Medial vs Lateral:** O que está mais perto da **Linha Média** do corpo é medial (ex: o minguinho é medial na posição anatômica).
+- **Proximal vs Distal:** Usado para **Membros**. Proximal está perto da raiz (ombro); Distal está longe (dedos).
+- **Superficial vs Profundo:** O que está mais perto da **Pele** é superficial (veias); o que está longe é profundo (órgãos).
 
 ---
 
-## Movimentos nos principais eixos
+## 4. Movimentos Fundamentais
 
-| Movimento | O que acontece | Articulação Exemplo |
+| Movimento | O que acontece | Exemplo Prático |
 |-------------------|-------------------|----------------------|
-| **Flexão** | Reduz o **Ângulo** | Cotovelo, Joelho |
-| **Extensão** | Aumenta o **Ângulo** | Cotovelo, Joelho |
-| **Abdução** | Afasta da **Linha Média** | Ombro, Quadril |
-| **Adução** | Aproxima da **Linha Média** | Ombro, Quadril |
-| **Supinação** | Palma para **Cima** | Antebraço (Segura sopa) |
-| **Pronação** | Palma para **Baixo** | Antebraço (Pega o pão) |
-| **Dorsiflexão** | Pé para **Cima** | Tornozelo |
-| **Flexão Plantar** | Pé para **Baixo** | Tornozelo (Pisa no acelerador) |
-
-> **Pegadinha:** **Circundução** não é um “movimento solto” — é **combinação** de flexão, abdução, extensão e adução em sequência (ombro).
-
----
-
-## Regiões e marcos de superfície
-
-Conhecer **nome oficial** da região acelera **descrição** em evolução e **procedimento**:
-
-| Região | Limites úteis (visão prática) | Marco palpável |
-|--------|-------------------------------|----------------|
-| **Região deltoide** | Ombro lateral | **Acrômio**, terço médio do deltoide |
-| **Fossa poplítea** | Posterior do joelho | **Pulso poplíteo** (com cautela) |
-| **Trígono carótico** | Pescoço anterior | **Pulso carotídeo** |
-| **Hipocôndrio direito** | RCD costal direito | **Borda hepática** (contexto clínico) |
-
----
-
-## Anatomia de imagem vs anatomia de peça
-
-| Aspecto | Cadáver / peça | TC / RM |
-|---------|----------------|---------|
-| **Cor** | Textura, vasos | **Densidade/atenuação**, **sinal** |
-| **Plano** | Dissecção manual | **Reformatado multiplanar** |
-| **Profundidade** | Visão direta | **Janela** e **contraste** |
-
-Treine associar **corte axial** da TC ao **desenho** do atlas — reduz tempo em plantão ao ler exames.
+| **Flexão** | Reduz o **Ângulo** | Dobrar o cotovelo |
+| **Extensão** | Aumenta o **Ângulo** | Esticar o braço |
+| **Abdução** | **Afasta** da linha média | Abrir os braços lateralmente |
+| **Adução** | **Aproxima** da linha média | Colar o braço no tronco |
+| **Supinação** | Palma para **Cima** | "Suplicar" (segurar sopa) |
+| **Pronação** | Palma para **Baixo** | Colocar a mão na mesa |
 
 ---
 
 ## Ponte com a Clínica
 
-Ao documentar **abscesso** ou **hematoma**, use **planos** e **regiões**: “coleção **subfascial** na face **medial** da **coxa**, terço **medial**, **10 cm** **distal** à **prega** inguinal”. Isso orienta **drenagem** e **comparece** em auditoria. Em **telemedicina**, pedir foto com **referência** (régua) e **lateralidade** explícita reduz erro.
+Ao relatar uma queda em telemedicina ou em um prontuário, a precisão economiza tempo e evita erros de conduta. Dizer "ralou o braço" é vago. Dizer "escoriação em **face lateral** do antebraço, **3 cm distal** ao cotovelo" é ciência. Isso permite que qualquer outro colega saiba exatamente onde está a lesão sem precisar ver o paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Posição Anatômica:** O corpo deve estar em pé, **Palmas voltadas para frente** e olhar no horizonte.
-- **Planos de Seção:** O corte **Axial** (Transverso) é o mais comum em Tomografias.
-- **Proximal vs Distal:** Termos usados apenas para os **Membros**. Para o tronco, use Superior/Inferior.
-- **Maleolos:** O **Medial** pertence à **Tíbia**; o **Lateral** pertence à **Fíbula**.
-- **Supinação:** Lembre-se de "suplicar" (palma para cima). Pronar é o inverso.
+- **Posição Anatômica**: Palmas **Sempre** para frente.
+- **Sagital Mediano**: Divide em duas metades **Exatas**.
+- **Termos de Membros**: Sempre use **Proximal/Distal**; nunca use superior/inferior para o braço na anatomia.
+- **Circundução**: É a união de todos os movimentos em um cone (ombro).
+- **Decúbitos**: **Dorsal** (olha pro teto) vs **Ventral** (olha pro chão).
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
-- **Decúbitos:** **Supino** (Dorsal - olha pro teto) vs **Prono** (Ventral - olha pro chão).
-- **Abdução vs Adução:** Abduzir é afastar (**Abrir**); Aduzir é aproximar (**Adicionar** ao centro).
-- **Plano Sagital Mediano:** Divide o corpo em duas metades **Exatas**.
-- **Eixos:** Os movimentos de **Flexão/Extensão** ocorrem no **Eixo Transversal**.
+### Síntese para a prova
 
-| Conceito A | Conceito B | Diferencial para Prova |
+Para gabaritar a introdução, foque na **Palma da Mão**. Sem ela voltada para frente, toda a lateralidade do membro superior inverte. 
+**Sagital** = Lados. **Coronal** = Frente/Trás. **Axial** = Cima/Baixo.
+
+A Uninove adora o conceito de **Eixos**. Lembre-se: Movimentos de **Flexão/Extensão** ocorrem no **Eixo Transversal**. Outro ponto forte: **Abdução (Abrir)** vs **Adução (Aproximar/Adicionar)**. Por fim, saiba que a **Supinação** gira o rádio lateralmente para deixar a palma para cima (suplicar). Se não souber descrever a posição, você não consegue nem começar a descrever uma patologia.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
 | **Plano Sagital** | **Plano Coronal** | Divide em **Lados** vs Divide em **Frente/Trás** |
-| **Medial** | **Proximal** | Distância da **Linha Média** vs Distância da **Origem** |
-| **Circundução** | **Rotação** | 360º (Cone) vs Giro no próprio eixo |
-| **Palmar** | **Plantar** | Palma da mão vs Sola do pé |
+| **Medial** | **Proximal** | Perto do **Centro** vs Perto da **Raiz** do membro |
+| **Supinação** | **Pronação** | Palma para **Cima** vs Palma para **Baixo** |
+| **Dorsiflexão** | **Flexão Plantar** | Pé para **Cima** vs Pé para **Baixo** (Acelerar) |
+| **Ipsilateral** | **Contralateral** | No **Mesmo lado** vs No **Lado oposto** |
 
 ### Frase-âncora para não esquecer
 
-> “Anatomia começa onde a ambiguidade termina: nomeie plano, lado e referência.”
+> "A anatomia começa na palma da mão e termina na precisão do termo. O plano corta, o eixo gira e a posição anatômica é a lei que não vira. Se é proximal tá perto da raiz, se é distal tá longe do nariz (em membros). Localize, descreva e nunca mais erre o lado da cirurgia."

@@ -1,123 +1,112 @@
 # BMF1 — Aula 13: Prática — Músculos da Coluna, Membros Superiores e Inferiores
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+Decorar a origem e inserção de todos os músculos é inútil sem a aplicação clínica. Na prova e na vida real, o segredo é a relação de **Compartimentos e Nervos**. Saber que o Nervo Radial comanda a parte de trás do braço permite diagnosticar por que um paciente não consegue levantar o punho (**Mão Caída**).
+
+Na prática, os músculos não agem sozinhos. Quadros como o desgaste do **Manguito Rotador** no ombro ou a claudicação de **Trendelenburg** (fraqueza no quadril) são as principais queixas ambulatoriais. Se você entende qual nervo aciona qual compartimento, o exame físico se torna um mapa rodoviário.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Saber o **Nome**, **Ação** e **Inervação** dos músculos permite realizar um exame físico preciso. Para a prova, não decore listas; entenda os **Compartimentos** e quais nervos os comandam (ex: **Radial** para extensores). Na prática, quadros como o **Manguito Rotador** e a **Marcha Escavante** (pé caído) são os grandes favoritos das bancas de anatomia clínica.
-
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A13-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Membro Superior e Inferior.
+- **O que mostrar:** O "Mapa dos Nervos": Duas silhuetas do corpo humano (braço e perna). Destacar em cores os territórios de inervação motora predominante: **Nervo Radial** (roxo) em toda a face posterior do braço e antebraço. **Nervo Fibular** (laranja) na parte anterior da perna. Mostrar os respectivos tendões de ação.
+- **Tipo sugerido:** Infográfico de Miologia Clínica.
+- **Legenda (rascunho):** Nervos ditam o movimento: a lesão estrutural aparece na limitação funcional.
+
+## 1. O Método Científico do Estudo Muscular
+
+Para nunca mais errar uma questão de miologia, siga a sequência lógica:
+1.  **Desenho Mental:** Osso A (Proximal) até Osso B (Distal).
+2.  **A Ponte:** Qual articulação ele cruza? Se está na frente, provavelmente dobra (Flexão). Se está atrás, estica (Extensão).
+3.  **A Gaveta:** Agrupe os músculos por **Compartimentos Fáscicos** (Anterior, Posterior, Medial).
+4.  **O Fio de Energia:** Cada compartimento de um membro geralmente responde a **Um Único Nervo Principal**.
 
 ---
 
-## Como estudar músculos sem “decorar livro fechado”
+## 2. Coluna Vertebral: Os Cabos de Sustentação
 
-| Etapa | O que fazer |
-|-------|-------------|
-| 1 | Desenhar **osso** → **inserção proximal** → **inserção distal** |
-| 2 | Perguntar: qual **articulação** cruza? Essa é a **ação principal** |
-| 3 | Agrupar por **compartimento** (anterior/posterior/medial) |
-| 4 | Associar **nervo** ao **compartimento** do membro |
+O core do corpo tem camadas. 
+- **Extensores Superficiais:** O complexo do **Erector Spinae** (Sacroespinal). Eles mantêm você em pé.
+- **Flexores Profundos:** Destaque para o **Psoas Maior**, que sai da lombar e vai até o fêmur (cruza o quadril).
+- **Região Cervical:** Envolve os **Escalenos** e o célebre **Esternocleidomastoideo** (gira a cabeça para o lado oposto).
 
----
-
-## Coluna vertebral: estabilizadores e movimentos
-
-| Grupo | Músculos (representativos) | Ação principal |
-|-------|----------------------------|----------------|
-| Extensores superficiais | Erector spinae (sacroespinal) | Extensão, sustentação |
-| Flexores profundos | Psoas maior (com coluna) | Flexão de quadril |
-| Região cervical | Esternocleidomastoideo, escalenos | Flexão lateral, rotação, elevação de costelas |
-
-> **Dica de Prova:** **Hérnia de disco** com déficit — relacione **nível** com **dermatoma** e **músculo** testável (ex.: extensão do hálux para L5 em contexto clássico).
+> **Dica de Prova:** Em casos de **Hérnia de Disco** atingindo a raiz de L5, o músculo que você deve testar é o Extensor Longo do Hálux (teste de levantar o dedão do pé).
 
 ---
 
-## Membro superior: manguito e deltoide
+## 3. Membro Superior: O Pêndulo Articulado
 
-| Músculo do Manguito | Função no Ombro | Nervo Responsável |
+O membro superior é dividido em "Frente" (Flexão) e "Traz" (Extensão). O ombro exige uma menção especial:
+
+| Músculo do Manguito | Ação Primária no Ombro | Nervo Responsável |
 |---------------------|-----------------|-------------------|
-| **Supraespinhal** | Inicia Abdução | Supraescapular |
-| **Infraespinhal** | Rotação Lateral | Supraescapular |
-| **Redondo Menor** | Rotação Lateral | Axilar |
-| **Subescapular** | Rotação Medial | Subescapular |
-| **Deltoide** | Abdução Principal | Axilar |
+| **Supraespinhal** | Inicia a **Abdução** (Primeiros 15°) | Supraescapular |
+| **Infraespinhal** | **Rotação Lateral** | Supraescapular |
+| **Redondo Menor** | **Rotação Lateral** | Axilar |
+| **Subescapular** | **Rotação Medial** | Subescapular |
 
-O **Manguito Rotador** estabiliza a cabeça do úmero na glenoide. A fraqueza no **Supraespinhal** é a causa mais comum de dor crônica no ombro do adulto.
+> **Contexto Clínico:** O **Supraespinhal** passa num túnel apertado debaixo do osso Acrômio; por isso é o que mais sofre tendinite e rasga em adultos.
 
----
-
-## Braço e antebraço: flexores vs extensores
-
-| Membro Superior | Nervo Dominante | Ação Perdida na Lesão |
+| Compartimentos (Braço/Antebraço) | Nervo Dominante | Ação Perdida na Lesão |
 |-----------------|------------------|-----------------------|
-| **Braço Anterior**| **Musculocutâneo**| Flexão do Cotovelo |
-| **Braço Posterior**| **Radial** | Extensão do Cotovelo |
-| **Antebr. Post.** | **Radial** | **Mão Caída** (Extensão) |
-| **Antebr. Ant.** | **Mediano / Ulnar** | Flexão de Punho/Dedos |
+| **Braço Anterior**| **Musculocutâneo**| Flexão do Cotovelo (Bíceps) |
+| **Braço Posterior**| **Radial** | Extensão do Cotovelo (Tríceps)|
+| **Antebr. Posterior** | **Radial** | **Mão Caída** (Extensores de Punho) |
+| **Antebr. Anterior** | **Mediano / Ulnar** | Sem força de agarre (Flexores) |
 
 ---
 
-## Membro inferior: quadril — flexores, extensores, adutores, rotadores
+## 4. Membro Inferior: Os Pilares de Apoio
 
-| Grupo | Músculos-chave | Ação |
-|-------|----------------|------|
-| Flexores | Ilíopsoas, reto femoral | Flexão de quadril |
-| Extensores | Glúteo máximo, isquiotibiais (extensão de quadril com joelho flexo) | Extensão |
-| Adutores | Adutor longo/magno, grácil | Adução |
-| Rotadores laterais | Piriforme, pequeno glúteo, médio glúteo (abdução) | Estabilidade de quadril |
+A perna foca na força bruta de preensão ao solo.
 
-> **Pegadinha:** **Piriforme** pode comprimir **ciático** quando espasmado ou **hipertrofiado** — síndrome do piriforme (diagnóstico de exclusão na prática).
+- **Quadril:** O **Glúteo Máximo** é o trator da extensão (levantar da cadeira). O **Glúteo Médio** é o estabilizador lateral. Se ele falha, a pelve "cai" ao andar (**Marcha de Trendelenburg**).
+- **Coxa Anterior:** Comandada pelo **Nervo Femoral**, abriga o Quadríceps (extensão do joelho).
+- **Coxa Posteriormente / Medial:** A parte de trás (flexores) é território do **Nervo Ciático**. A parte interna (Adutores) responde ao **Nervo Obturador**.
+- **A Perna e o Pé:** A parte anterior responde pelo **Nervo Fibular Profundo** (levanta a ponta do pé). A parte posterior tem o Tríceps Sural (panturrilha) domindado pelo **Nervo Tibial** (pisar no acelerador).
 
----
-
-## Coxa: compartimento anterior / medial / posterior
-
-| Segmento Inferior | Nervo Principal | "Gatilho" Clínico |
-|-------------------|------------------|--------------------|
-| **Coxa Anterior** | **Femoral** | Extensão do Joelho |
-| **Coxa Medial** | **Obturador** | Adução da Coxa |
-| **Coxa Posterior** | **Ciático** | Flexão do Joelho |
-| **Perna Anterior** | **Fibular Profundo**| **Pé Caído** (Dorsiflexão)|
-| **Perna Posterior** | **Tibial** | Ponta do pé (Flexão) |
-
-**Marcha Escavante (Steppage):** Ocorre na lesão do **Nervo Fibular Comum**. O paciente não consegue levantar o pé e tropeça na própria ponta dos dedos.
+> **Pegadinha da Dor:** O músculo **Piriforme** fica em cima do **Nervo Ciático**. Se o piriforme hipertrofiar ou ficar espasmado, ele esmaga o nervo gerando uma dor idêntica à de uma hérnia de disco (Síndrome do Piriforme).
 
 ---
 
 ## Ponte com a Clínica
 
-**Teste de força** por **segmento** documenta **déficit** motor antes da imagem. **Rabdomiólise** atinge **músculos** de maior massa (quadríceps, glúteo) — **CK** elevada. **Síndrome compartimental** = dor desproporcional + **dor** à **extensão** passiva — **emergência** cirúrgica.
+Quando o **Nervo Fibular Comum** é machucado (geralmente por gesso apertado ou trauma na lateral do joelho), os extensores do pé param de funcionar. Resultado: **Pé Caído** (Marcha Escavante ou Steppage). O paciente arrasta a ponta do pé ao andar e precisa levantar muito o joelho para não tropeçar. Já em traumas maciços com esmagamento de grupos grandes (como o Quadríceps), a pressão na fáscia sobe absurdamente causando a **Síndrome Compartimental**. O sinal cardinal é a "dor desproporcional" mesmo ao encostar e a dor aguda ao alongamento passivo do músculo no PS; trata-se de **Emergência** cirúrgica de liberação fascial.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Diafragma:** Principal músculo respiratório. Inervado pelo **Nervo Frênico** (C3-C5).
-- **Glúteo Médio:** Estabiliza a pelve. Sua fraqueza causa a **Marcha de Trendelenburg**.
-- **Quadríceps:** Formado por 4 ventres. O **Reto Femoral** é o único que também flexiona o quadril.
-- **Tríceps Sural:** Gastrocnêmios + Sóleo. Inserem-se no Calcâneo pelo **Tendão de Aquiles**.
-- **Músculos da Mastigação:** Temporal e Masseter. Inervados pelo **Trigemio (V3)**.
+- **Diafragma:** Principal músculo respiratório. Inervado pelo famoso **Nervo Frênico** (raízes C3-C5). "C três, quatro e cinco mantém o diafragma vivo".
+- **Quadríceps:** Formado por 4 ventres. Cuidado: o **Reto Femoral** cruza o quadril, logo ele é o único que *também* flexiona a coxa, além de esticar o joelho.
+- **Tríceps Sural:** Gastrocnêmios (2) + Sóleo (1). Eles formam o **Tendão de Aquiles** no calcâneo.
+- **Músculos da Mastigação:** Temporal, Masseter e Pterigóideos. A inervação é exclusiva do Nervo Trigêmeo (**V3**).
 
-| Conceito A | Conceito B | Diferencial para Prova |
+---
+
+## Pré-Prova
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### Síntese para a prova
+
+Para gabaritar grupos musculares anatômicos, isole a palavra associada.
+**Posterior Superior** = Radial. **Posterior Inferior** = Ciático. **Costas/Pesadas** = Eretores.
+
+A Uninove cobra exaustivamente as lesões clássicas: perdeu a extensão do punho (punho pendente/gota) = Lesão do **Nervo Radial**. Perdeu a dorsiflexão do pé = Lesão do **Nervo Fibular**. Na avaliação do ombro, lembre sempre que quem levanta os braços bem alto é o **Deltoide** (Nervo Axilar), mas quem arranca a abdução do repouso morto é o pequeno **Supraespinhal**.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Nervo Radial** | **Nervo Mediano** | Extensores vs Flexores (Mão) |
-| **Nervo Femoral** | **Nervo Obturador** | Extensão Joelho vs Adução Coxa |
-| **Supraespinhal** | **Deltoide** | Início da abdução vs Abdução total |
-| **Agonista** | **Antagonista** | Faz o movimento vs Se opõe a ele |
+| **Nervo Radial** | **Nervo Mediano** | **Estende** o Membro Superior vs **Flexiona/Agarra** na Mão |
+| **Nervo Femoral** | **Nervo Obturador** | Estende o Joelho (Frente) vs Junta as Pernas (**Adução**) |
+| **Manguito Rotador** | **Deltoide** | Cola o úmero no lugar e começa o raio vs Faz a Abdução Forte |
+| **Reto Femoral** | **Vastos (Quadríceps)**| Cruza o Quadril (Biarticular) vs Ficam isolados no Joelho |
+| **Marcha Escavante**| **Marcha de Trendelenburg**| Culpa do **Nervo Fibular** vs Culpa da Fraqueza do **Glúteo Médio** |
 
 ### Frase-âncora para não esquecer
 
-> “Músculo é vetor — origem, inserção e nervo fecham o triângulo da prova.”
+> "O radial levanta a mão e o fibular sobe o pé; se o supraespinhal falhar, a abdução perde a fé. Atrás da coxa mora o ciático, na frente reina o femoral. Aprenda o mapa dos nervos, e o músculo se acha no geral."

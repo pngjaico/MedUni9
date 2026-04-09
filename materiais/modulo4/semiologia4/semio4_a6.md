@@ -1,164 +1,91 @@
-# Funções Cognitivas
+# SEMIO4 — Aula 6: Funções Cognitivas — O Processador Cerebral
 
-**Disciplina:** Semiologia Neurológica e Síndromes Clínicas  
-**Módulo:** 4 | **Aula:** semio4_a6
+A avaliação cognitiva analisa como o cérebro processa informações complexas. Na prova, os temas centrais são o **Mini-Exame do Estado Mental (MEEM)**, a diferenciação entre as **Afasias (Broca vs Wernicke)** e o diagnóstico diferencial entre **Delirium** e **Demência**.
+
+Na prática, a cognição é o "software" do ser humano. Quando um paciente idoso chega confuso, você precisa saber se ele está tendo um declínio lento de anos (**Demência**) ou se algo agudo, como uma infecção urinária, "travou" o cérebro dele de repente (**Delirium**). Saber testar a fala e a memória permite localizar qual lobo cerebral está sofrendo antes mesmo de abrir o computador para ver o laudo da imagem.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Avaliação cognitiva é parte obrigatória do exame neurológico em pacientes com queixa de esquecimento, confusão ou alteração de comportamento. O Mini-Exame do Estado Mental (MEEM) e o Montreal Cognitive Assessment (MoCA) são as ferramentas mais usadas e mais cobradas. Saber diferenciar delirium de demência já resolve metade das questões de neurologia comportamental.
 
 ### Figura sugerida
 
 **Figura-ID:** `SEMIO4-A6-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de afasias.
+- **O que mostrar:** O "Mapa da Linguagem": Um desenho do cérebro destacando em vermelho a **Área de Broca** (na frente - motora) e em azul a **Área de Wernicke** (atrás - compreensão). Mostrar o "fio" que liga as duas (Fascículo Arqueado).
+- **Tipo sugerido:** Mapa cerebral funcional simplificado.
+- **Legenda (rascunho):** Áreas corticais da linguagem e os respectivos padrões de afasia.
 
+## 1. O Teste de Ouro: MEEM
 
-
-
----
-
-## Funções Cognitivas — Mapa Cortical
-
-Cada função está localizada em regiões corticais específicas, mas dependem de redes distribuídas:
-
-| Função | Área envolvida | Lesão clínica |
-|--------|---------------|---------------|
-| Linguagem expressiva | Área de Broca (F3 esquerdo) | Afasia de Broca |
-| Linguagem receptiva | Área de Wernicke (T1 esquerdo) | Afasia de Wernicke |
-| Memória declarativa | Hipocampo + lobo temporal medial | Amnésia anterógrada (Alzheimer) |
-| Atenção e funções executivas | Córtex pré-frontal | Síndrome frontal, TDAH |
-| Praxias | Parietal posterior | Apraxia (ideomotora/ideacional) |
-| Gnósias | Parietal associativo | Agnosia visual, prosopagnosia |
-| Cálculo e orientação | Lobo parietal dominante | Síndrome de Gerstmann |
+O **Mini-Exame do Estado Mental** é uma prova de 30 pontos que rastreia como o paciente está:
+- **Pontuação:** O normal é acima de **24 pontos** (para quem estudou). Se a pessoa for analfabeta, o corte aceitável cai para **19**.
+- **O que avalia:** Orientação (tempo/lugar), memória imediata, cálculo (conta de menos), evocação (lembrar palavras depois) e linguagem (desenhar e escrever).
+- **Dica:** Se o paciente erra o desenho dos pentágonos cruzados, ele tem um problema no **Lobo Parietal**.
 
 ---
 
-## Avaliação da Orientação
+## 2. As Afasias: Erros na Fala
 
-Pergunte: dia, mês, ano, dia da semana, hora aproximada (temporal). Local: onde está, cidade, estado (espacial). Paciente saudável acerta tudo. Desorientação temporal precede espacial na maioria das demências.
-
-> **Dica:** Delirium = desorientação flutuante + agitação + causa orgânica identificável. Demência = desorientação progressiva e crônica sem flutuação horária.
-
----
-
-## Avaliação da Memória
-
-**Memória imediata (de trabalho):** repita 3 palavras (ex: "caneta, livro, maçã") → confirme que ele aprendeu → distraia com outra tarefa por 3–5 min → peça para repetir.
-
-**Memória recente:** o que comeu no café da manhã, como chegou ao consultório.
-
-**Memória remota:** data de casamento, nome do presidente em mandato anterior.
-
-Na **síndrome amnésica de Korsakoff** (deficiência de tiamina): amnésia anterógrada grave com confabulação, mas sem outras alterações cognitivas.
+Afasia é a perda da linguagem por lesão no cérebro (geralmente no lado esquerdo):
+- **Afasia de Broca (Expressão):** O paciente entende tudo o que você diz, mas não consegue falar. A fala é lenta e frustrada. (Lesão no **Lobo Frontal**).
+- **Afasia de Wernicke (Compreensão):** O paciente fala sem parar, mas nada faz sentido (salada de palavras). Ele não entende o que você pergunta. (Lesão no **Lobo Temporal**).
+- **Afasia Global:** O pior dos mundos — não entende e não fala.
 
 ---
 
-## Avaliação da Linguagem
+## 3. Delirium vs Demência: O Tempo é Tudo
 
-Observe durante a entrevista: fluência, compreensão, repetição, denominação, leitura, escrita.
-
-- **Afasia de Broca (motora):** fala não fluente, vocabulário reduzido, compreensão preservada. "Telegráfica." Localização: F3 esquerdo (frontal inferior).
-- **Afasia de Wernicke (sensorial):** fala fluente mas incompreensível (parafasias, neologismos). Compreensão comprometida. Localização: T1 esquerdo (temporal superior).
-- **Afasia de condução:** repetição comprometida; fluência e compreensão preservadas → lesão do fascículo arqueado.
-- **Afasia global:** todas as modalidades comprometidas → lesão extensa do território da ACM esquerda.
-
-> **Pegadinha:** Afasia de Wernicke parece psicose aos não especialistas — fala muito mas sem sentido, não entende o que dizem.
+Saber diferenciar esses dois salva vidas, pois um é reversível e o outro não:
+- **Delirium:** Início **Súbito** (horas ou dias). O paciente fica agitado ou muito sonolento, e isso flutua (piora de noite). É causado por **Infecção, Remédios ou Desidratação**. É uma emergência médica!
+- **Demência (ex: Alzheimer):** Início **Lento** e progressivo (anos). O paciente esquece as coisas aos poucos, mas está sempre do mesmo jeito, sem flutuar durante o dia.
 
 ---
 
-## Avaliação da Atenção
+## 4. Memória e Praxia
 
-Peça para contar regressivamente de 100 em 7, ou listar os meses do ano de trás para frente. Atenção reduzida é o primeiro sinal de delirium.
-
----
-
-## Praxias
-
-**Apraxia ideomotora:** dificuldade de realizar movimentos gestuais simples (bater palmas, acenar) mesmo com função motora e sensitiva preservadas.
-
-**Apraxia ideatória:** dificuldade de organizar uma sequência de ações (preparar um sanduíche).
-
-**Apraxia de construção:** não consegue desenhar um pentágono ou cubo (pedido no MEEM).
-
-Praxias são valiosas no diagnóstico de demências corticais (Alzheimer, DCL) e lesões de parietal.
-
----
-
-## Mini-Exame do Estado Mental (MEEM)
-
-O MEEM avalia 30 pontos distribuídos em:
-
-| Área | Máximo |
-|------|--------|
-| Orientação temporal | 5 |
-| Orientação espacial | 5 |
-| Registro (3 palavras) | 3 |
-| Atenção e cálculo (—7 × 5) | 5 |
-| Evocação (3 palavras) | 3 |
-| Linguagem (nomear, repetir, seguir, ler, escrever) | 8 |
-| Construção (pentágono) | 1 |
-
-Ponto de corte: ≥24 normal; valores menores com ajuste para escolaridade (analfabetos: ≥19).
-
-> **Dica:** O MEEM perde pontos primeiro em: evocação (Alzheimer) e construção (parietal). Atenção e cálculo indicam delirium/síndrome frontal.
-
----
-
-## Diferencial: Delirium vs Demência
-
-| Característica | Delirium | Demência |
-|----------------|---------|---------|
-| Início | Agudo (horas a dias) | Insidioso (meses a anos) |
-| Flutuação | Sim (pior à noite) | Não (ou mínima) |
-| Atenção | Marcadamente reduzida | Preservada inicialmente |
-| Causa | Orgânica (infecção, fármaco, metabó.) | Neurodegenerativa |
-| Reversibilidade | Sim, com tratamento da causa | Em geral irreversível |
-
----
-
-## Pontos-Chave
-
-- Afasia de Broca: não fluente, compreensão preservada → Broca = anterior = expressão.
-- Afasia de Wernicke: fluente, incompreensível, compreensão comprometida → Wernicke = posterior = recepção.
-- MEEM ≤24 = comprometimento cognitivo (ajuste por escolaridade).
-- Delirium: agudo + flutuante + causa orgânica identificável.
-- Amnésia de Korsakoff: anterógrada + confabulação + tiamina.
-- Apraxia de construção: não desenha pentágonos → comprometimento parietal.
+- **Memória de Trabalho:** Repetir três palavras na hora.
+- **Memória Recente:** O que comeu hoje? (A primeira a sumir no Alzheimer).
+- **Apraxia:** Quando o paciente tem força, entende o que você pede, mas "esqueceu" como faz o movimento (ex: não sabe mais como usa uma escova de dente).
 
 ---
 
 ## Ponte com a Clínica
 
-Rastrear cognição no idoso em consulta de rotina com MEEM leva menos de 5 minutos e detecta Alzheimer em fase leve. O diagnóstico de delirium em paciente hospitalizado muda a conduta (busca e tratamento da causa) e reduz mortalidade. Afasia de novo início em adulto é emergência cerebrovascular até prova em contrário.
+No hospital, se um idoso internado por pneumonia começar a "ver bichos" na parede ou tentar arrancar o soro durante a noite, não diga apenas que ele está "esclerosado". Ele está em **Delirium**. O cérebro dele está reagindo à infecção ou à falta de sono no hospital. Tratar a pneumonia e garantir que ele veja a luz do dia e durma bem à noite é o melhor "remédio" para ele voltar ao normal, evitando o uso excessivo de calmantes que podem piorar o quadro.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Broca = Boca**: Lembra que o problema é na saída da fala (expressão).
+- **Wernicke = "What?"**: Lembra que o paciente não entende nada do que está acontecendo (compreensão).
+- **Atenção**: É a primeira função a sumir no **Delirium**. Peça para o paciente dizer os meses do ano de trás para frente.
+- **Córtex Pré-Frontal**: Responsável pelas funções executivas (planejamento e julgamento).
+- **Amnésia Anterógrada**: Incapacidade de formar memórias novas (clássico do Alzheimer inicial).
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Afasia de Broca:** fala não fluente, compreensão OK, F3 esquerdo.
-- **Afasia de Wernicke:** fala fluente mas sem sentido, compreensão ruim, T1 esquerdo.
-- **MEEM:** 30 pontos, corte ≥24 (ajuste por escolaridade).
-- **Delirium:** início agudo, flutuante, causa orgânica aguda — reversível.
-- **Korsakoff:** amnésia anterógrada + confabulação + tiamina — irreversível.
-- **Apraxia = praxias normais mas não executa gesto → lesão parietal.**
+
+Para gabaritar funções cognitivas, foque nas afasias e no tempo. 
+**Broca** entende mas não fala. **Wernicke** fala mas não entende (salada de palavras). **Delirium** é rápido e flutua (noite ruim). **Demência** é lento e constante.
+
+A Uninove adora o **MEEM**. Lembre-se: Orientação e Memória valem muitos pontos. Outro ponto forte: o **Lobo Parietal**. Se o paciente ignora o lado esquerdo do prato de comida, ele tem "Negligência", uma lesão no parietal direito. Por fim, saiba que a **Afasia de Condução** é quando o paciente fala bem e entende bem, mas **Não Consegue Repetir** o que você diz.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Situação A | Situação B | Diferenciação |
-|------------|------------|---------------|
-| Afasia de Broca | Afasia de Wernicke | Broca: entende, não fala bem; Wernicke: fala muito, não entende |
-| Delirium | Demência | Delirium: agudo + causa orgânica; demência: crônico + progressivo |
-| Amnésia anterógrada | Retrógrada | Anterógrada: não forma novas memórias; retrógrada: perde antigas |
-| Apraxia ideomotora | Paralisia | Motricidade OK na paralisia; apraxia: movimento específico falha |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Afasia de Broca** | **Afasia de Wernicke** | **Não fala/Entende** vs **Fala muito/Não entende** |
+| **Delirium** | **Demência** | Início **Agudo/Flutuante** vs Início **Insidioso/Lento** |
+| **Agnosia** | **Apraxia** | Não **Reconhece** o objeto vs Não sabe **Usar** o objeto |
+| **Memória Recente** | **Memória Remota** | O que comeu **Hoje** vs Onde **Nasceu** |
+| **Desorientação Temporal** | **Desorientação Espacial** | Errar o **Dia/Mês** vs Errar o **Lugar/Cidade** |
 
 ### Frase-âncora para não esquecer
-> "Broca faz, não fala. Wernicke fala, não faz sentido. Um está preso, o outro está perdido."
+
+> "Broca trava a boca; Wernicke entende nada e faz fofoca. Delirium é um susto que vem da infecção; Demência é o tempo roubando a recordação. Se o pentágono não cruzar, o Parietal foi passear."

@@ -1,96 +1,92 @@
-# ST — Aula 3: Política Nacional de Saúde do Trabalhador (PNSTT)
+# ST — Aula 3: Vigilância em Saúde do Trabalhador e Investigação do Nexo
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde
-**Módulo:** 3 | **Tempo de estudo sugerido:** 10-12 min
+A Vigilância em Saúde do Trabalhador (VISAT) é o conjunto de ações que busca transformar um caso individual em uma mudança coletiva. Na prova, os temas centrais são o reconhecimento de um **Evento Sentinela** (um caso que acende o alerta para muitos outros), a investigação do **Nexo Ocupacional** e o papel do **CEREST** como suporte especializado da rede de saúde.
+
+Na prática, o médico deve entender que o seu atendimento na UBS ou no Pronto-Socorro é o início de uma engrenagem. Se você atende três cortadores de cana com a mesma dor nas costas na mesma semana, isso não é coincidência: é um sinal de que o ambiente de trabalho está adoecendo as pessoas e precisa de uma intervenção da vigilância.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-A Política Nacional de Saúde do Trabalhador e da Trabalhadora (PNSTT, Portaria 1.823/2012) é o marco regulatório da saúde ocupacional no **SUS**. A **Uninove** cobra os princípios, as redes de atenção (RENAST), os CEREST e a integração com a atenção básica. É essencial para questões de medicina preventiva e saúde coletiva.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A3-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Ciclo da VISAT.
+- **O que mostrar:** O "Ciclo da Proteção": Um círculo mostrando as etapas: **Identificar** o caso -> **Investigar** a empresa -> **Notificar** no sistema -> **Intervir** no local -> **Monitorar** se o problema acabou.
+- **Tipo sugerido:** Esquema circular didático.
+- **Legenda (rascunho):** Ciclo operacional da Vigilância em Saúde do Trabalhador (VISAT).
 
+## 1. VISAT: Indo Além do Curativo
 
-
-
----
-
-## PNSTT — Princípios e Objetivos
-
-A PNSTT tem como finalidade definir os princípios, as diretrizes e as estratégias a serem observados pelas três esferas de gestão do **SUS** para o desenvolvimento da atenção integral à saúde do trabalhador. Princípios:
-- **Universalidade:** todo trabalhador, formal ou informal.
-- **Integralidade:** articula promoção, prevenção, assistência e reabilitação.
-- **Equidade:** prioriza populações mais vulneráveis (trabalhadores informais, rurais, domésticos).
-- **Territorialidade:** articulação com os serviços locais.
+A VISAT não quer apenas dar o remédio; ela quer saber por que o trabalhador adoeceu.
+- **Pilar Central:** A integração entre o atendimento médico e a fiscalização do ambiente.
+- **O que ela faz:** Analisa os bairros e as empresas onde as pessoas mais se acidentam, investiga como as máquinas funcionam e recomenda mudanças para que ninguém mais se machuque no futuro.
 
 ---
 
-## RENAST — Rede Nacional de Atenção Integral à Saúde do Trabalhador
+## 2. Investigando o Nexo Ocupacional (A Prova do Crime)
 
-A RENAST é a estratégia de organização e gestão das ações de saúde do trabalhador no **SUS**. Integra:
-- **CEREST** (Centros de Referência em Saúde do Trabalhador) — centros especializados para suporte técnico, educação permanente e vigilância.
-- **Atenção Básica** — porta de entrada principal; ESF deve identificar e notificar agravos relacionados ao trabalho.
-- **Média e Alta Complexidade** — hospitais e serviços especializados.
-
-Os CEREST existem em nível estadual e regional, não têm porta de entrada para atendimento direto — são de suporte técnico e pedagógico.
-
-> **Dica de Prova:** CEREST não é porta de entrada. Atendimento do trabalhador começa na Atenção Básica (UBS/ESF). O CEREST faz suporte, capacitação e vigilância, mas não consultas de rotina.
+Para afirmar que a doença é do trabalho, o médico usa um método de 3 passos:
+1.  **A Cronologia:** O sintoma começou depois que ele entrou no emprego? Melhora quando ele está de **Folga ou Férias**?
+2.  **O Ambiente:** Existe algum agente (ruído, poeira, solvente) no local de trabalho que possa causar isso?
+3.  **O Coletivo:** Existem outros colegas de trabalho com a mesma queixa? Se sim, temos um **Evento Sentinela**.
 
 ---
 
-## Vigilância em Saúde do Trabalhador (VISAT)
+## 3. Agravos que a Vigilância Sempre Monitora
 
-Conjunto de ações que visa:
-- Conhecer a realidade de saúde e doença dos trabalhadores.
-- Detectar e intervir nos processos produtivos que causam doenças.
-- Notificar e investigar os acidentes e doenças do trabalho (Comunicação de Acidente de Trabalho — CAT).
+Algumas doenças são "clássicas" na saúde do trabalhador:
+- **PAIR (Perda Auditiva):** Surdez por ruído constante. É sempre **Bilateral** e irreversível.
+- **LER/DORT:** Dor por repetição. Melhora com o repouso e piora com o esforço.
+- **Dermatite de Contato:** Alergia a produtos químicos (cimento, solventes). Melhora nas férias.
+- **Asma Ocupacional:** Falta de ar que só acontece dentro da fábrica due à poeira ou vapores químicos.
 
-A CAT é obrigatória em todo acidente de trabalho, doença ocupacional ou trajeto. Emitida pelo empregador ou pelo próprio trabalhador/médico.
+---
+
+## 4. A Rede de Apoio: Onde Pedir Ajuda?
+
+O médico da UBS não está sozinho. Ele conta com:
+- **CEREST (Centro de Referência em Saúde do Trabalhador):** São centros especializados que dão suporte técnico para os médicos, ajudam a investigar nexo em casos difíceis e educam a sociedade.
+- **SINAN (Sistema de Informação de Agravos de Notificação):** É o banco de dados do governo. Notificar no SINAN é obrigatório para acidentes graves, mesmo em trabalhadores sem carteira assinada.
+
+---
+
+## Ponte com a Clínica
+
+No dia a dia da Unidade Básica de Saúde, a qualidade do seu **Prontuário** é a maior arma do trabalhador. Ao atender alguém com dor, registre sempre a função dele: "pedreiro", "caixa de mercado", "digitador". Se você notar que o número de casos de depressão aumentou muito em funcionários de um banco específico do seu bairro, acione o **CEREST**. Essa conduta transforma você de um apenas "prescritor de receitas" em um médico que protege a saúde de toda a comunidade.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **PNSTT:** universal (formal + informal), integral, equânime.
-- **RENAST:** rede SUS para saúde do trabalhador.
-- **CEREST:** suporte técnico, não porta de entrada.
-- **Atenção Básica (ESF):** porta de entrada do trabalhador no SUS.
-- **CAT:** Comunicação de Acidente de Trabalho — obrigatória.
-- **VISAT:** vigilância dos processos produtivos e agravos.
+- **Evento Sentinela**: Um único caso que sinaliza a existência de um risco coletivo grave.
+- **Nexo Temporal**: A relação entre o início do trabalho e o início dos sintomas.
+- **Notificação Compulsória**: Agravos graves (ex: acidente biológico ou óbito) devem ser notificados imediatamente.
+- **CEREST**: Não é uma porta de entrada; é um centro de retaguarda técnica e assessoria.
+- **Piora-Melhora**: O padrão clássico de sintomas que diminuem nos fins de semana e férias.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
+Para gabaritar Vigilância, foque no coletivo. 
+**VISAT** = Intervenção na fonte do risco. Se a questão pergunta qual a melhor conduta após atender vários operários com dor no braço, a resposta é investigar a empresa e notificar a vigilância, além do tratamento médico.
 
-PNSTT: Portaria 1.823/2012; universal, integral, equitativo. RENAST: rede integrando CEREST + UBS + hospitais.
-
-CEREST: suporte técnico, NÃO é porta de entrada. ESF: identifica e notifica agravos ocupacionais.
-
-CAT: obrigatória em todo acidente, doença ou trajeto.
+A Uninove adora o **Nexo**. Lembre-se: não é preciso ter certeza absoluta para notificar; a **Suspeita** já obriga o registro. Outro ponto forte: o **Afastamento do Risco** é a medida mais eficaz na asma ou dermatite ocupacional. Por fim, saiba que o **CEREST** atua na região toda, dando apoio inclusive para as decisões da justiça e do Ministério Público do Trabalho.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| CEREST | UBS | CEREST: suporte técnico/educação; UBS: atendimento direto ao trabalhador |
-| RENAST | PNSTT | RENAST: rede de serviços; PNSTT: política (princípios e diretrizes) |
-| Acidente de trabalho | Doença ocupacional | Acidente: evento súbito; doença: processo gradual |
-| CAT | SINAN | CAT: acidente de trabalho (previdência); SINAN: agravos de notificação (saúde pública) |
+| **Notificar** | **Investigar** | Registrar no **Sistema** vs Ir buscar a **Causa** na fábrica |
+| **Piora no Turno** | **Melhora nas Férias** | Confirmam o **Nexo Ocupacional** |
+| **CEREST** | **UBS** | Apoio **Especializado** vs Porta de **Entrada** |
+| **Agudo** | **Crônico** | Acidente de Trabalho vs Doença do Trabalho |
+| **Individual** | **Coletivo** | Cuidado com o **Paciente** vs Cuidado com o **Território** |
 
 ### Frase-âncora para não esquecer
 
-> "CEREST é consultor, não médico — quem atende é a UBS; o CEREST ensina e vigia."
+> "Tratar o doente é caridade; vigiar o trabalho é justiça. Se o sintoma dá trégua no feriado, a fábrica é quem está puxando o gatilho da doença."

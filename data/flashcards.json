@@ -49323,28 +49323,6 @@
         "extra"
       ],
       "id": 11910
-    },
-    {
-      "id": 11911,
-      "materia": "sus",
-      "categoria": "antiga",
-      "enunciado": "Um estudante de medicina precisa distinguir entre sinal e sintoma durante a anamnese. Qual conceito melhor define um SINTOMA?",
-      "opcoes": [
-        "A) Achado detectado pelo médico durante o exame físico, como crepitação pulmonar",
-        "B) Manifestação percebida e relatada pelo próprio paciente, como dor ou tontura",
-        "C) Resultado de exame laboratorial alterado",
-        "D) Conjunto de alterações associadas a mais de uma causa",
-        "E) Dado observado pelo médico durante a ausculta"
-      ],
-      "correta": 1,
-      "explicacao": "Sintoma é toda manifestação subjetiva percebida e relatada pelo próprio paciente (dor, fraqueza, tontura, dispneia).",
-      "tema": "sus_a1",
-      "dificuldade": 1,
-      "fonte": "Prova Semestral",
-      "ano": 2024,
-      "semestre": "1/2024",
-      "modulo": 1,
-      "tipo": "quiz"
     }
   ]
 }

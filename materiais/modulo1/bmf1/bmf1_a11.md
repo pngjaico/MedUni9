@@ -1,94 +1,103 @@
-# BMF1 — Aula 11: Histologia do Tecido Muscular
+# BMF1 — Aula 11: Histologia do Tecido Muscular — A Microestrutura do Movimento
 
-**Disciplina:** Bases Morfofuncionais 1 — Locomotor e Digestório  
-**Módulo:** 1
+O movimento humano nasce na microestrutura invisível das fibras contráteis. Na prova, os temas centrais são a anatomia do **Sarcômero** (a unidade funcional), a diferença entre as bandas (**Banda A, I e H**) e a clássica Tríade Muscular Histológica: **Esquelético** (estriado e voluntário), **Cardíaco** (sincício elétrico) e **Liso** (visceral involuntário).
 
----
-
-## Relevância Clínica e Acadêmica
-
-O movimento humano nasce na microestrutura. Para a prova, domine a anatomia do **Sarcômero** (unidade funcional) e a tríade muscular: **Esquelético** (voluntário), **Cardíaco** (sincício elétrico) e **Liso** (visceral). Na clínica, entenda que falhas no acoplamento entre o **Retículo Sarcoplasmático** (estoque de Ca²⁺) e os **Túbulos T** (propagação) explicam desde cãibras até arritmias graves.
+Na prática clínica, entender que falhas no acoplamento entre o **Retículo Sarcoplasmático** (o grande estoque de Cálcio) e os **Túbulos T** explicam desde cãibras até arritmias graves. Aprender a base histológica do músculo é o que permite entender por que uma Rabdomiólise destrói os rins ou por que um infarto paralisa o coração permanentemente.
 
 ---
-
-## Músculo esquelético: sarcômero e retículo
-
-O **Sarcômero** é o espaço entre dois **Discos Z**.
-- **Banda A:** Ocupa todo o comprimento da **Miosina** (filamento grosso). Não muda de tamanho na contração.
-- **Banda I:** Contém apenas **Actina** (filamento fino). Encurta na contração.
-- **Banda H:** Zona central só de miosina. "Desaparece" na contração máxima.
-- **Túbulos T:** Invaginações da membrana que levam o comando elétrico para o fundo da fibra.
-- **Reticulo Sarcoplasmático (RS):** Reservatório de **Cálcio**. Libera Ca²⁺ após o sinal dos Túbulos T.
 
 ### Figura sugerida
 
 **Figura-ID:** `BMF1-A11-F01`
 
-- **Momento:** após parágrafo sobre sarcômero.
-- **O que mostrar:** diagrama de sarcômero com discos Z, bandas A e I, linha H; opcional micrografia de fibra esquelética em corte transversal.
-- **Tipo sugerido:** esquema didático ou micrografia (Junqueira / Commons).
-- **Legenda (rascunho):** “Sarcômero: organização dos filamentos espessos e finos.”
+- **Momento:** Seção do Músculo Esquelético e Sarcômero.
+- **O que mostrar:** O "Motor Biológico": Um diagrama detalhado de um sarcômero delimitado por dois **Discos Z**. Destacar a **Banda A** (escura, filamentos de miosina grossos) no centro e a **Banda I** (clara, actina fina) nas laterais. Incluir uma visão lateral da **Tríade** (um Túbulo T amarelo abraçado por duas cisternas azuis de Retículo Sarcoplasmático).
+- **Tipo sugerido:** Infográfico histológico estrutural.
+- **Legenda (rascunho):** Sarcômero e Tríade: a arquitetura contrátil e o reservatório de cálcio.
+
+## 1. Músculo Esquelético: O Contrato Voluntário
+
+As células do músculo esquelético são longos cilindros multinucleados, com núcleos "empurrados" para a periferia da fibra. 
+
+- **O Sarcômero:** É a menor unidade contrátil, definida como o espaço entre dois **Discos Z** consecutivos.
+- **Banda A (Anisotrópica / Escura):** Ocupa o comprimento da **Miosina** (filamento grosso). **Não muda de tamanho** durante a contração (as cabeças apenas puxam a actina).
+- **Banda I (Isotrópica / Clara):** Contém apenas **Actina** (filamento fino). Ela **encurta visualmente** na contração, pois a actina desliza sobre a miosina.
+- **Banda H:** É o "vão livre" no centro da Banda A, contendo apenas miosina. "Desaparece" na contração máxima.
+- **A Tríade (Gatilho da Contração):** Um **Túbulo T** (uma invaginação da membrana que traz o choque elétrico de fora) ladeado por duas cisternas do **Retículo Sarcoplasmático** (RS), que guarda o **Cálcio**. O choque entra, o RS libera o cálcio e a contração acontece.
 
 ---
 
-## Músculo cardíaco: particularidades
+## 2. Músculo Cardíaco: A Orquestra Sincronizada
 
-Diferente do esquelético, o músculo cardíaco é formado por células ramificadas unidas pelos **Discos Intercalados**. Esses discos possuem **Junções Comunicantes** (Gap Junctions) que permitem ao coração bater como um todo coordenado (**Sincício Funcional**). Isquemias (Infarto) destroem esses discos, bloqueando a condução elétrica.
-
----
-
-## Músculo liso: órgãos ocos e vasos
-
-Encontrado em vasos sanguíneos e no trato digestório. Suas células são **Fusiformes**, mononucleadas e **Sem Estriações**. A contração é lenta, involuntária e altamente resistente à fadiga, ideal para manter o tônus vascular.
+Diferente do esquelético, o músculo cardíaco é formado por células curtas, bifurcadas, com apenas um (ou dois) **Núcleos Centrais**. 
+- A grande diferença: as fibras são unidas pelas extremidades por **Discos Intercalados**. 
+- Esses discos possuem **Junções Comunicantes** (Gap Junctions) que deixam o íon passar de uma célula para a outra. O coração não contrai fibra por fibra; ele bate como uma onda única (**Sincício Funcional**).
 
 ---
 
-## Tipos de fibra esquelética (oxidativa versus glicolítica)
+## 3. Músculo Liso: A Resistência Contínua
 
-No mesmo músculo coexistem fibras com perfil **oxidativo** (mais mitocôndrias, mais resistentes à fadiga) e **glicolítico rápido** (mais força explosiva, fadigam antes). Em prova, o que importa é o contraste conceitual — não decorar percentuais por músculo.
+Encontrado em órgãos ocos (estômago, bexiga) e vasos sanguíneos. Suas células são **Fusiformes** (como um fuso ou palito), mononucleadas e **Sem Estriações** visíveis (por isso "liso"). 
+Ao contrário da contração explosiva do esquelético, o liso gera contrações lentas, rítmicas e altamente resistentes à fadiga, perfeito para manter o **Tônus Vascular** a vida inteira sem cansar. Ele não possui sarcômeros perfeitamente alinhados, usando estruturas chamadas **Corpos Densos** para ancorar as fibras.
 
-| Aspecto | Tipo I (lenta, oxidativa) | Tipo II (rápida, glicolítica) |
+---
+
+## 4. Diferenciação das Fibras Esqueléticas
+
+Dentro de um mesmo músculo do braço ou da perna, coexistem diferentes "motores":
+
+| Aspecto | Tipo I (Lenta, Oxidativa) | Tipo II (Rápida, Glicolítica) |
 |---------|---------------------------|-------------------------------|
-| Fadiga | Mais tardia | Mais precoce em esforço máximo |
-| Uso típico | Postural, endurance | Sprint, levantamento rápido |
-| Cor em ATPase (se citado) | Reação diferente da tipo II | Comparar “escuro/claro” conforme o método |
-
-> **Dica de Prova:** “Mais mitocôndrias” costuma acompanhar **mais vascularização** e **mioglobina** — pense **cor** da carne e **função** ao escolher a alternativa.
-
----
-
-## Junção neuromuscular (só o essencial)
-
-A placa motora concentra canais nicotínicos; a **acetilcolina** inicia despolarização local que, propagada, dispara o **potencial de ação** da fibra. O bloqueio farmacológico e as miastenias entram em farmacologia e clínica avançada — aqui fixe que **neuromuscular** liga **comando** a **contração**.
+| **Energia** | Puxa **Oxigênio** (Via Mitocôndria) | Puxa **Glicose** (Metabolismo Anaeróbico) |
+| **Resistência** | Não fadiga fácil (**Resistência** pura) | **Fadiga precocemente** (Gera ácido lático) |
+| **Cor Macroscópica** | Vermelha Escura (Muita **Mioglobina** / Vasos)| Mais Branca/Pálida (Menos Mioglobina) |
+| **Uso Clínico/Esportivo** | Músculos posturais (Costas) e **Maratonistas** | Músculos de Explosão e **Levantamento de Peso** |
 
 ---
 
-## Colorações e marcadores (visão de prova)
+## 5. Junção Neuromuscular (Placa Motora)
 
-HE mostra núcleos periféricos no esquelético e centrados no liso. Tricrômicos e imunohistoquímica entram em patologia avançada; para graduação, saiba **o que** cada banda representa em termos de proteína e por que o **SR** e os **túbulos T** importam para o ciclo de Ca²⁺.
+O músculo esquelético é "surdo e cego" até que o nervo grite. A **Placa Motora** é a sinapse onde o neurônio motor joga o neurotransmissor **Acetilcolina** sobre os receptores nicotínicos no músculo. Essa ligação despolariza a membrana muscular, abrindo as comportas de sódio e mandando o choque elétrico pelo Túbulo T.
 
 ---
 
 ## Ponte com a Clínica
 
-Rabdomiólise destrói fibra esquelética e libera mioglobina — contexto de esforço extremo, compressão ou toxinas. Miocardite inflama cardiomiócitos. Distrofias alteram proteínas de membrana ou ancora (diferentes genes, diferentes padrões). O exame histológico orienta, mas o cuidado ao paciente começa com clínica e enzimas — aqui você fixa a base anatômica.
+A **Rabdomiólise** ocorre quando o músculo esquelético é severamente esmagado ou exigido a um nível extremo. A fibra "rompe" a membrana celular (sarcolema) e vaza a sua preciosa **Mioglobina** na corrente sanguínea. Esse pigmento sobrecarrega os rins e causa uma insuficiência renal aguda letal, tornando a urina do paciente cor de coca-cola. Nas **Distrofias Musculares** (como Duchenne), a culpa não é do nervo, mas da falta de proteínas estruturais (distrofina) que prendem o sarcômero à membrana, fazendo o músculo "rasgar" ao contrair gradativamente ao longo da infância do paciente.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- **Discos Z:** São as âncoras da actina; aproximam-se na contração.
-- **Junção Neuromuscular:** Local onde o nervo libera **Acetilcolina** para disparar o músculo.
-- **Músculo Liso:** Não possui sarcômeros organizados; usa **Corpos Densos** para ancorar os filamentos.
-- **Tríade:** Conjunto de um Túbulo T + duas cisternas de Retículo Sarcoplasmático.
+- **Localização dos Núcleos:** Esquelético = Periféricos e múltiplos. Cardíaco e Liso = Centrais e únicos.
+- **Banda A vs Banda I**: A banda A (escura) nunca encurta. A banda I (clara) encurta na contração.
+- **Discos Z:** São os "muros" do limite do sarcômero. Eles se aproximam quando o sarcômero deforma.
+- **Túbulos T:** Extensões da membrana externa que permitem que o potencial de ação "mergulhe" no miolo da célula imediatamente.
+- **Coloração HE:** As fibras coram intensamente em rosa/vermelho (Eosina) graças à imensa densidade de proteínas (actina e miosina) no citoplasma.
 
-| Conceito A | Conceito B | Diferencial para Prova |
+---
+
+## Pré-Prova
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+### Síntese para a prova
+
+Para gabaritar a microestrutura muscular, o foco absoluto é o traçado do **Sarcômero** e o diferencial do **Disco Intercalado**. 
+Lembre-se: **Banda A = Miosina Fixa**. **Banda I = Actina Deslizante**. 
+
+A Uninove adora testar o mecanismo de transmissão: a **Tríade** (1 Túbulo T + 2 Cisternas de RS) é típica do músculo Estriado Esquelético. O RS é a garagem do íon supremo da contração: o **Cálcio**. Sem cálcio saindo do RS, não há ponte cruzada. Ao interpretar a contração cardíaca, o gabarito invariavelmente citará o **Sincício Funcional** garantido pelas **Gap Junctions** nos Discos Intercalados. Sem eles, as câmaras do coração bateriam fora de compasso.
+
+### Diferenciações que a Uninove adora cobrar
+
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-------------------------|
-| **Esquelético** | **Cardíaco** | Núcleo Periférico vs Núcleo Central/Disco |
-| **Banda A** | **Banda I** | Estática (Miosina) vs **Encurta** (Actina) |
-| **Linha M** | **Banda H** | Centro do sarcômero vs Zona só de Miosina |
-| **Sincício** | **Disco Intercalado**| Fusão celular vs Conexão por Junções |
+| **Esquelético** | **Cardíaco** | Multinucleado Periférico vs Uninucleado Central com Disco Intercalado |
+| **Banda A** | **Banda I** | Fica Parada (Miosina) vs Encurta Visivelmente (Actina) |
+| **Fibra Tipo I** | **Fibra Tipo II** | **Vermelha/Maratona** vs **Branca/Explosão** |
+| **Tríade** | **Disco Intercalado** | Traz o Cálcio e Eletricidade pro fundo (Esquelético) vs Traz Eletricidade pro vizinho (Cardíaco) |
+| **Sarcômero** | **Corpo Denso** | Organização Estriada (Esquelético) vs Ancoragem em Rede Lóculo-Aleatória (Liso) |
 
 ### Frase-âncora para não esquecer
 
-> “Sarcômero é a unidade que repete — se você enxerga a banda, já sabe onde está a força.”
+> "O cálcio mora no Retículo Sarcoplasmático, a acetilcolina abre a porta da membrana. O disco Z ancora a actina, e a miosina, soberana na banda A, puxa o mundo sem encolher um milímetro. A fibra vermelha corre longe e a fibra branca grita e queima."

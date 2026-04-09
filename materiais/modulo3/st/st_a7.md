@@ -1,135 +1,92 @@
-# ST — Aula 7: Nexo causal em saúde do trabalhador (clínica, perícia e previdência)
+# ST — Aula 7: Nexo Causal em Saúde do Trabalhador
 
-**Disciplina:** Saúde do Trabalhador e Vigilância em Saúde  
-**Módulo:** 3 | **Tempo de estudo sugerido:** 12-15 min
+Estabelecer o nexo causal é provar que a doença do paciente nasceu ou piorou por causa do trabalho dele. Na prova, os temas centrais são o reconhecimento da **Temporalidade**, o uso do **NTEP** (nexo estatístico do INSS) e a emissão correta da **CAT**.
+
+Na prática, o médico é quem dá voz ao trabalhador. Provar o nexo garante que o paciente tenha acesso a benefícios como o **Auxílio-Doença Acidentário** (B91), que dá estabilidade no emprego, diferente do auxílio comum (B31). Sem o seu laudo fundamentado, o trabalhador perde direitos e a empresa continua operando com riscos sem ser cobrada por melhorias.
 
 ---
-
-## Relevância Clínica e Acadêmica
-
-Estabelecer nexo causal é uma das tarefas mais sensíveis da saúde do trabalhador. A decisão influencia conduta clínica, notificação, emissão de CAT, reconhecimento previdenciário e estratégias de prevenção no serviço.
-
-A prova costuma apresentar caso ambíguo e pedir o raciocínio correto: distinguir coincidência temporal de causalidade, analisar exposição, plausibilidade biológica e coerência epidemiológica.
 
 ### Figura sugerida
 
 **Figura-ID:** `ST-A7-F01`
 
-- **Momento:** após a introdução sobre importância do nexo causal.
-- **O que mostrar:** fluxograma curto de avaliação do nexo (história ocupacional, exposição, temporalidade, exclusão de causas concorrentes e decisão).
-- **Tipo sugerido:** esquema didático.
-- **Legenda (rascunho):** "Passos clínico-epidemiológicos para inferência de nexo causal no trabalho."
-- **Notas (opcional):** manter no máximo 6 caixas para boa leitura em smartphone.
+- **Momento:** Seção de critérios de nexo.
+- **O que mostrar:** A "Balança da Justiça Médica": De um lado, os pratos da **História Clínica** e **Exames**. Do outro, o **NTEP** e a **Vistoria no Local**. A decisão de nexo deve equilibrar a evidência individual com a chance estatística.
+- **Tipo sugerido:** Infográfico didático | Ilustração simbólica.
+- **Legenda (rascunho):** Critérios fundamentais para a determinação do nexo técnico-causal.
+
+## 1. O que é o Nexo Causal?
+
+É a "ponte" entre o trabalho e a doença. Para o médico cruzar essa ponte, ele precisa de critérios:
+- **Temporalidade:** A doença começou depois que ele entrou no trabalho? Ou piorou drasticamente lá dentro?
+- **Plausibilidade:** Faz sentido médico? (Ex: Exposição a ruído causa surdez? Sim. Causa dor de estômago? Provavelmente não).
+- **Intensidade:** Ele ficou exposto tempo o suficiente ou em dose alta o suficiente para adoecer?
+- **Melhora-Piora:** O sintoma diminui quando ele está de folga?
 
 ---
 
-## Conceito de nexo causal: além da cronologia
+## 2. NTEP: O Nexo do INSS
 
-Nexo causal é a relação entre exposição ocupacional e agravo à saúde.  
-Não basta o sintoma aparecer durante o vínculo de trabalho. É necessário avaliar:
-
-1. **Temporalidade:** exposição precede o desfecho?
-2. **Intensidade e duração da exposição:** há dose suficiente para causar dano?
-3. **Plausibilidade biológica:** o mecanismo é compatível com o conhecimento científico?
-4. **Consistência clínica e epidemiológica:** perfil do caso combina com padrão esperado?
-5. **Causas concorrentes:** há fatores extraocupacionais que explicam melhor o quadro?
-
-> **Dica de Prova:** temporalidade é necessária, mas nunca suficiente para fechar nexo.
+O Nexo Técnico Epidemiológico Previdenciário (NTEP) é uma ferramenta do governo que ajuda na perícia.
+- **Como funciona:** O INSS olha o **CID** (doença) e o **CNAE** (ramo da empresa). Se existe uma estatística forte de que aquele ramo causa aquela doença (ex: depressão em bancários), o nexo é presumido automaticamente.
+- **Dica:** O NTEP inverte o ônus da prova. A empresa é que tem que provar que a doença do funcionário **Não** foi causada pelo trabalho.
 
 ---
 
-## Tipos práticos de relação trabalho-doença
+## 3. Concausalidade: O Trabalho como Vilão Coadjuvante
 
-No cotidiano, a relação pode ser:
-
-- **Doença profissional típica:** ligada à atividade específica.
-- **Doença do trabalho:** vinculada às condições em que o trabalho é realizado.
-- **Concausalidade:** trabalho não é causa única, mas contribui para agravamento.
-- **Sem nexo ocupacional:** quando a exposição não sustenta relação causal plausível.
-
-Essa classificação orienta abordagem clínica, documentação e comunicação com vigilância e previdência.
+Muitas vezes o trabalho não é a única causa, mas ele ajuda a estragar a saúde.
+- **O Conceito:** O trabalhador já tinha um problema de coluna por genética, mas o carregamento de peso na fábrica fez a hérnia de disco "estourar".
+- **A Decisão:** Isso também é considerado **Acidente de Trabalho**. O trabalho atuou como uma **Concausa**, acelerando ou agravando uma doença que já existia.
 
 ---
 
-## NTEP, CAT e benefício previdenciário
+## 4. CAT (Comunicação de Acidente de Trabalho)
 
-O **Nexo Técnico Epidemiológico Previdenciário (NTEP)** cruza diagnóstico e atividade econômica para inferência estatística de relação ocupacional. É ferramenta útil, mas não substitui avaliação clínica individual.
-
-A **CAT (Comunicação de Acidente de Trabalho)** formaliza evento/acidente/doença relacionada ao trabalho e deve ser emitida no tempo correto, inclusive quando há suspeita.
-
-Em avaliação previdenciária, o laudo precisa ser claro em:
-- história ocupacional detalhada,
-- descrição de exposição,
-- exame clínico e complementar pertinente,
-- justificativa técnica do vínculo causal (ou da ausência dele).
-
-> **Pegadinha:** NTEP favorável não obriga aceitar nexo sem análise clínica; NTEP ausente não exclui nexo quando evidência individual é robusta.
-
----
-
-## Tabela comparativa: o que mais confunde na prova
-
-| Situação | O que sugere nexo | O que enfraquece nexo | Conduta técnica esperada |
-|---------|-------------------|-----------------------|--------------------------|
-| Dor lombar em equipe de carga manual | Exposição repetitiva com sobrecarga biomecânica | Quadro prévio não relacionado e sem piora laboral | Descrever tarefa, tempo de exposição e impacto funcional |
-| Dermatite em trabalhador químico | Lesão em área exposta e melhora em afastamento | Exposição doméstica predominante sem correlação ocupacional | Investigar agente, EPI, teste e cronologia |
-| Transtorno mental em ambiente hostil | Relação com assédio, sobrecarga e piora no trabalho | Evento de vida externo isolado explicando totalmente o quadro | Avaliação multiprofissional e documentação criteriosa |
-| Perda auditiva em ruído ocupacional | História de ruído crônico sem proteção eficaz | Audiometria incompatível com padrão típico ocupacional | Integrar dado ambiental, audiológico e ocupacional |
-
----
-
-## Erros frequentes na inferência causal
-
-- Concluir nexo apenas porque o paciente trabalha em atividade de risco.
-- Ignorar fatores pessoais e comorbidades relevantes.
-- Não registrar adequadamente jornada, pausas e tarefas reais.
-- Basear decisão apenas em exame complementar isolado.
-- Confundir instrumento administrativo com prova clínica de causalidade.
-
-O raciocínio bom é sempre multiparamétrico e explicitado no prontuário.
+A CAT é o documento oficial que informa o evento.
+- **Quem emite:** A empresa deve emitir. Se ela se recusar, o **Médico**, o sindicato ou o próprio trabalhador podem emitir.
+- **Prazo:** No caso de acidente ou doença, até o primeiro dia útil seguinte. Em caso de **Morte**, a comunicação deve ser **Imediata**.
+- **Tipos de CAT:** Inicial (novo caso), Reabertura (piora de caso antigo) ou Comunicação de Óbito.
 
 ---
 
 ## Ponte com a Clínica
 
-Paciente de 42 anos, auxiliar de limpeza hospitalar, com eczema crônico em mãos. O quadro piora após troca de desinfetante, melhora parcial em afastamento e recidiva no retorno. História ocupacional, distribuição das lesões e temporalidade fortalecem nexo ocupacional.
-
-Nesse cenário, a conduta adequada inclui assistência clínica, registro técnico do nexo, comunicação dos achados ao serviço de saúde ocupacional e proposta de intervenção preventiva no ambiente.
+No seu consultório, o paciente pode chegar pedindo um laudo para o INSS. Não escreva apenas "paciente com dor nas costas, sugiro afastamento". Escreva: "Paciente exerce função de servente, com levantamento de cargas de 30kg por 8h diárias, sem pausas (Nexo ocupacional provável por sobrecarga biomecânica - CID M54.5)". Esse laudo técnico ajuda o perito a reconhecer o **Nexo Técnico** e garante que o paciente receba o benefício correto, protegendo o seu emprego por um ano após a alta médica.
 
 ---
 
 ## Pontos-Chave para Prova
 
-- Nexo causal exige avaliação clínica, ocupacional e epidemiológica integrada.
-- Temporalidade isolada não fecha diagnóstico causal.
-- NTEP é ferramenta de apoio e não substitui análise individual.
-- CAT deve ser valorizada como instrumento de proteção social e vigilância.
-- Concausalidade é frequente e pode ser cobrada em casos complexos.
-- Resposta forte em prova sempre explicita critérios usados para concluir nexo.
+- **Nexo Técnico**: Unificado pela relação entre o agente (ambiente) e o efeito (corpo).
+- **CAT**: Deve ser emitida mesmo sem afastamento, para fins de registro e vigilância.
+- **Auxílio B91**: Benefício acidentário; garante FGTS durante o afastamento e estabilidade de 1 ano.
+- **Auxílio B31**: Benefício previdenciário comum; não dá estabilidade nem FGTS.
+- **Concausa**: O trabalho que agrava uma lesão preexistente é legalmente equiparado ao acidente de trabalho.
 
 ---
 
 ## Pré-Prova
 
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
 
-Quando aparecer "nexo causal", pense em método. Primeiro, reconstrua exposição e cronologia; depois, teste plausibilidade biológica e descarte explicações concorrentes mais fortes. A banca costuma colocar alternativas que se apoiam apenas em coincidência temporal, e isso é insuficiente.
+Para gabaritar Nexo Causal, foque nas siglas e direitos. 
+**CAT** = Registro oficial. **NTEP** = Estatística do INSS. **B91** = Acidentário (Bom). **B31** = Comum (Ruim para o trabalhador).
 
-NTEP e CAT entram como peças importantes, mas com papéis diferentes: NTEP é inferência epidemiológica administrativa; CAT é comunicação formal do evento relacionado ao trabalho. Nenhuma delas substitui o julgamento clínico documentado.
-
-Em caso clínico, vale ouro mostrar raciocínio explícito: por que há nexo, por que não há, ou por que o caso é concausal. Essa transparência técnica diferencia resposta superficial de resposta madura.
+A Uninove adora o **Nexo por Concausalidade**. Se o paciente já tinha diabetes e sofreu um corte no pé que não cicatriza por causa do trabalho, o trabalho é concausa e a CAT deve ser aberta. Outro ponto forte: o **NTEP** liga o CNAE da empresa ao CID do paciente. Por fim, lembre-se: o médico assistente (você) não dá o benefício; você dá o **Laudo Subsidia** a decisão do perito do INSS.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
+| Conceito A | Conceito B | Diferencial Crítico |
 |------------|------------|-----------------|
-| Coincidência temporal | Nexo causal | Coincidência é simultaneidade; nexo exige mecanismo e coerência clínica |
-| NTEP | Avaliação clínica individual | NTEP é estatístico-administrativo; clínica avalia caso concreto |
-| CAT | Laudo de nexo | CAT comunica evento; laudo fundamenta causalidade |
-| Causa única | Concausalidade | Concausalidade admite contribuição parcial do trabalho no agravo |
+| **Nexo Causal** | **Concausa** | Trabalho é a **Causa Única** vs Trabalho **Agravou** |
+| **B91 (Acidentário)** | **B31 (Previdenciário)** | Tem **Estabilidade** vs **NÃO tem** estabilidade |
+| **CNAE** | **CID** | Ramo da **Empresa** vs Código da **Doença** |
+| **CAT Inicial** | **CAT Reabertura** | Caso **Novo** vs **Piora** de algo antigo |
+| **Morte** | **Acidente de Trabalho** | Notificação **Imediata** vs Até o **Próximo Dia Útil** |
 
 ### Frase-âncora para não esquecer
 
-> "Nexo não é palpite cronológico: é evidência clínica + exposição + plausibilidade."
+> "Se o trabalho foi o gatilho, o cano ou a pólvora, há nexo ou concausa. Abra a CAT, fundamente o laudo e garanta que o B91 proteja quem produz e adoece."

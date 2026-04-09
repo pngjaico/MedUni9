@@ -1,193 +1,95 @@
-﻿# Infecções Virais do SNC e Doenças Exantemáticas
+# MAD1 — Aula 21: Infecções Virais do SNC e Doenças Exantemáticas
 
-## Relevância Clínica e Acadêmica
+As doenças exantemáticas (que causam manchas na pele) e as infecções do sistema nervoso são temas clássicos da pediatria e infectologia. Na prova, os temas centrais são o reconhecimento patognomônico do **Sarampo (Sinal de Koplik)**, as complicações da **Poliomielite** e a tríade da **Rubéola Congênita**.
 
-As infecções virais do sistema nervoso central e as doenças exantemáticas (com exantema cutâneo como sinal predominante) constituem um conjunto clinicamente importante e historicamente relevante em saúde pública. Muitas foram controladas por vacinação, tornando-as tema frequente de questões about erradicação, características clínicas e complicações.
+Na prática, a vacinação erradicou ou controlou a maioria dessas doenças, mas o ressurgimento de casos exige que o médico saiba diagnosticar rapidamente para evitar surtos.
 
-A Uninove cobra distinção entre os exantemas (qual vírus, qual aspecto, qual sequência), as complicações neurológicas de sarampo e polio, e as síndromes congênitas (rubéola).
+---
 
 ### Figura sugerida
 
 **Figura-ID:** `MAD1-A21-F01`
 
-- **Momento:** após o bloco de relevância (reserva editorial para imagem no app; aparece inline quando houver URL no catálogo).
-- **O que mostrar:** definir na produção — deve ilustrar o tema central da aula de forma clara em mobile.
-- **Tipo sugerido:** esquema didático | ilustração estilo atlas | infográfico | foto contextual | outro.
-- **Legenda (rascunho):** a fixar junto da imagem final (campo legenda em data/materiais_figuras.json).
-- **Notas (opcional):** pesquisar no Wikimedia Commons (buscaCommonsEn / buscaCommonsPt no JSON); licenças livres e atribuição.
+- **Momento:** Seção de Sarampo.
+- **O que mostrar:** Foto ou ilustração do **Sinal de Koplik**: pequenos pontos brancos (como grãos de areia) na mucosa interna da bochecha, próximos aos molares.
+- **Tipo sugerido:** Foto contextual.
+- **Legenda (rascunho):** Sinal de Koplik: a "assinatura" precoce do sarampo.
 
+## 1. Sarampo (Morbillivirus)
 
-
-
----
-
-
-
-## Poliovírus (Enterovírus Tipo 1, 2, 3)
-
-### Características Gerais
-- Família Picornaviridae; transmissão fecal-oral
-- 90–95% das infecções são **assintomáticas ou leves** (doença menor: febre, diarreia)
-- 1–2%: **meningite asséptica não paralítica** (autolimitada)
-- < 1%: **poliomielite paralítica** (paralisia flácida assimétrica)
-
-### Paralisia Flácida da Polio
-- Vírus destrói neurônios do **corno anterior da medula espinal** (células do motor inferior)
-- Paralisia flácida, arreflexia, atrofia muscular → assimétrica, sem déficit sensitivo
-- **Síndrome pós-pólio:** décadas depois, fadiga e fraqueza progressiva
-
-### Vacinas
-| Vacina | Tipo | Características |
-|---|---|---|
-| Sabin (VOP) | Vírus atenuado oral | Imunidade intestinal (secreção IgA); raríssima polio vacinal (1:750 000 doses) |
-| Salk (VIP) | Vírus inativado (injetável) | Sem risco de polio vacinal; preferida em imunossuprimidos |
-
-> **Dica:** No Brasil, desde 2016 o esquema é: 2 doses de VIP (2 e 4 meses) + reforços com VOP (6 meses, 15 meses). Em imunossuprimidos, apenas VIP.
-
-### Erradicação
-- Poliovírus selvagem 1 e 3: erradicados globalmente (certificado OMS); tipo 2: erradicado selvagem
-- Polio mantida por vírus derivado de vacina (cVDPV) em áreas de baixa cobertura
+É uma das doenças mais contagiosas que existem.
+- **Clínica:** Começa com febre alta, tosse, coriza e conjuntivite (os **3 Cs**).
+- **Sinal de Koplik:** Surge um ou dois dias antes das manchas na pele. Se você vir isso, o diagnóstico é Sarampo.
+- **Exantema:** Começa atrás das orelhas e desce para o corpo (**Cefalocaudal**).
+- **Complicação Tardia:** **PESS** (Panencefalite Esclerosante Subaguda) – uma inflamação no cérebro que aparece anos depois e é fatal.
 
 ---
 
-## Sarampo (Morbillivirus / Paramyxoviridae)
+## 2. Rubéola e Síndrome Congênita
 
-### Patogênese e Clínica
-- Vírus altamente contagioso (R₀ ≈ 12–18); transmissão respiratória
-- Período de incubação: 10–14 dias
+Para o adulto, a rubéola é leve (febre baixa e gânglios atrás da orelha). O perigo real é para o feto quando a mãe se infecta no **Primeiro Trimestre**.
 
-**Fases:**
-1. **Prodrômica (3–4 dias):** febre alta (> 39°C), coriza, tosse, conjuntivite ("3 Cs")
-2. **Enantema:** **manchas de Koplik** — pontos brancos com halo eritematoso na mucosa bucal (patognomônicas; surgem 1–2 dias ANTES do exantema)
-3. **Exantema:** maculopapular morbiliforme; inicia atrás das orelhas e na fronte → dissemina cefalocaudalmente; dura 5–7 dias; descamação furfurácea depois
-
-### Complicações
-| Complicação | Características |
-|---|---|
-| Pneumonia | Principal causa de morte por sarampo (viral ou bacteriana secundária) |
-| Encefalite pós-infecciosa | 1–2 semanas após exantema; autoimune; mortalidade 15% |
-| PESS (Pan-encefalite esclerosante subaguda) | 7–10 anos após sarampo na infância; neurológica progressiva e fatal |
-| Cegueira | Em desnutridos + hipovitaminose A (destruição de córnea) |
-| Imunossupressão transitória | Sarampo apaga memória imunológica por meses ("amnésia imune") |
-
-> **Pegadinha:** Koplik = patognomônico do sarampo. Exantema começa cefalocaudal. PESS tem latência de anos.
-
-### Tratamento/Prevenção
-- Suporte + vitamina A (reduz mortalidade em < 2 anos)
-- Vacina: SCR tríplice viral (sarampo + caxumba + rubéola) — vírus atenuado; 2 doses
+### Tríade da Rubéola Congênita (Decore para a prova!)
+1. **Catarata**: O bebê nasce com o olho esbranquiçado.
+2. **Surdez**: É a complicação mais comum.
+3. **Cardiopatia**: Persistência do Canal Arterial (PCA).
 
 ---
 
-## Rubéola (Rubivirus / Togaviridae)
+## 3. Poliomielite (Paralisia Infantil)
 
-### Infecção Adquirida
-- Exantema rosado leve, início cefalocaudal; linfadenomegalia occipital e retroauricular (clássica)
-- Duração de 3 dias; pouco sintomática; artralgia possível
-
-### Síndrome da Rubéola Congênita (SRC)
-- Infecção materna no **1º trimestre** → maior risco de malformações
-
-**Tríade clássica:**
-- **Catarata** (e outras malformações oculares: glaucoma, retinopatia)
-- **Cardiopatia congênita** (persistência do canal arterial — PCA; estenose pulmonar)
-- **Surdez neurossensorial** (mais comum das três)
-
-Outras manifestações: microcefalia, hepatoesplenomegalia, púrpura ("blueberry muffin baby"), RCIU
-
-> **Pegadinha:** Síndrome da rubéola congênita = catarata + cardiopatia + surdez. Vacinação no 1º trimestre também é contraindicada (vírus atenuado → risco teórico). Mulheres em idade fértil não vacinadas devem receber SCR e aguardar 1 mês antes de engravidar.
-
-### Prevenção
-- SCR tríplice (atenuada); verificar imunidade antes da gestação
+- **O Alvo:** O vírus ataca os neurônios do **Corno Anterior da Medula**.
+- **Clínica:** Paralisia flácida, que não tem simetria (um lado é pior que o outro) e não afeta a sensibilidade.
+- **Vacinas:**
+  - **VIP (Salk/Injetável):** Vírus morto. Segura para todos.
+  - **VOP (Sabin/Gotinha):** Vírus vivo atenuado. Cria imunidade no intestino, mas tem risco raríssimo de causar a doença (Polio Vacinal).
 
 ---
 
-## Outras Doenças Exantemáticas Virais
+## 4. Outras Doenças da Infância
 
-### Roséola Infantum / Exantema Súbito (HHV-6 / HHV-7)
-- Crianças < 2 anos
-- Febre alta (até 40°C) por 3–5 dias → **queda brusca** → exantema róseo maculopapular no tronco
-- A ordem (febre DEPOIS do exantema, quando a febre cai) é o diferencial clínico
-- Risco de convulsão febril durante a fase de febre alta
-
-### Eritema Infeccioso (Quinta Doença — Parvovírus B19)
-- Exantema facial "tapa na face" (eritema bochecha bilateral) + renda rendilhada nos membros
-- Arthropatia em adultos (especialmente joelhos)
-- **Perigo em:** gestantes (hidropsia fetal não imune), anemia falciforme (crise aplásica transitória), imunossuprimidos (anemia aplásica crônica)
-
-### Catapora vs. Sarampo vs. Eritema Infeccioso
-
-| Característica | Varicela (VZV) | Sarampo | Eritema Infeccioso |
-|---|---|---|---|
-| Prodrômico | Leve; vesículas surgem cedo | 3–4 dias (3 Cs + Koplik) | Ausente ou leve |
-| Exantema | Vesicular, todos os estágios juntos, generalizado | Maculopapular morbiliforme, cefalocaudal | "Tapa na face" + renda membros |
-| Progressão | Não cefalocaudal | Cefalocaudal (atrás da orelha → face → tronco → membros) | Face → membros |
-| Vírus | VZV | Sarampo = Morbillivirus | Parvovírus B19 |
-
----
-
-## Meningites e Encefalites Virais
-
-### Etiologias Comuns
-| Agente | Características |
-|---|---|
-| Enterovírus (Coxsackie, Echovírus) | Meningite asséptica mais comum; autolimitada; LCR: linfocitose, glicose normal |
-| HSV-1 | Encefalite necrosante temporal; PCR no LCR; aciclovir EV urgente |
-| Arbovírus (dengue, Zika, chikungunya) | Meningite/encefalite em áreas endêmicas |
-| Raiva (Lyssavirus) | Encefalite fatal; transmissão por mordedura; profilaxia pós-exposição |
-
-### LCR nas Meningites
-
-| Tipo | Aspecto | Células | Glicose | Proteína |
-|---|---|---|---|---|
-| Bacteriana | Turvo | PMN (1 000–10 000) | Baixa | Alta |
-| Viral | Límpido | Linf (100–500) | Normal | Leve ↑ |
-| Tuberculosa | Xantocrômico | Linf/misto | Baixa | Alta |
-| Fúngica | Límpido/turvo | Linf | Baixa | Alta |
-
----
-
-## Pontos-Chave
-
-- Polio: paralisia flácida assimétrica, corno anterior medular; Sabin = oral + risco vaccinal; Salk = injetável + seguro em imunossuprimido
-- Sarampo: 3 Cs (coriza, conjuntivite, tosse) + Koplik (patognomônico) + exantema cefalocaudal
-- PESS: sequela fatal do sarampo com latência de anos
-- Rubéola congênita: 1º trimestre → catarata + cardiopatia (PCA) + surdez
-- Parvovírus B19: "tapa na face" + risco crise aplásica em falcêmicos + hidropsia fetal
-- LCR viral: límpido, linfocitário, glicose normal
+- **Roséola (Exantema Súbito):** A criança tem febre altíssima por 3 dias e, do nada, a febre some e o corpo fica todo pintadinho de rosa.
+- **Eritema Infeccioso:** Chamada de "Doença da Bofetada" porque a criança fica com as bochechas muito vermelhas (**Sinal da face esbofeteada**). É causada pelo **Parvovírus B19**.
 
 ---
 
 ## Ponte com a Clínica
 
-**Caso:** Gestante de 8 semanas vem ao pré-natal. Conta que teve rubéola há 4 semanas (confirmada por IgM). Não tinha sido vacinada.
-- Infecção no 1º trimestre = alto risco de Síndrome da Rubéola Congênita
-- Risco de catarata, PCA, surdez e outras malformações
-- Conduta: aconselhamento genético, ultrassonografia morfológica rigorosa, ecocardiograma fetal
-- Não há antiviral; prevenção = vacinar mulheres em idade fértil antes de engravidar
+Uma mãe leva o filho de 3 anos à UBS com febre alta e irritabilidade. Ao examinar a boca da criança, o médico nota pequenos pontos brancos na mucosa da bochecha. Três dias depois, manchas vermelhas começam a aparecer no rosto e atrás das orelhas. O diagnóstico é **Sarampo**. Devido ao alto risco de complicações respiratórias, a criança deve receber suplementação de **Vitamina A**, que comprovadamente reduz a mortalidade.
+
+---
+
+## Pontos-Chave para Prova
+
+- **Koplik**: Aparece antes das manchas; é sarampo na certa.
+- **Tríade de Gregg (Rubéola)**: Olho (Catarata), Ouvido (Surdez), Coração (PCA).
+- **VIP vs VOP**: No Brasil hoje, usamos VIP no começo para garantir segurança.
+- **Paralisia da Polio**: Assimétrica e flácida.
+- **Parvovírus B19**: Face esbofeteada + Perigo para quem tem anemia falciforme.
 
 ---
 
 ## Pré-Prova
-> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
+
+<ctrl94> Leia isso 30 minutos antes da prova. Vai direto ao ponto.
 
 ### Síntese para a prova
-- **Koplik:** manchas brancas na mucosa bucal = patognomônico do sarampo; surgem ANTES do exantema
-- **Rubéola congênita:** catarata + cardiopatia (PCA) + surdez → 1º trimestre
-- **PESS:** complicação tardia (7–10 anos) do sarampo → encefalite fatal
-- **Polio:** Saalk (injetável) em imunossuprimido; Sabin (oral) risco rarísimo de polio vaccinal
-- **Parvovírus B19:** "tapa na face"; crise aplásica em falcêmicos; hidropsia fetal
 
-Para fixar com autonomia, transforme esta sintese em uma vinheta curta: quem e o paciente, qual e a pista central e qual conduta/raciocinio diferencia a resposta correta da pegadinha. Esse treino mental de contexto melhora fluidez de revisao e reduz erro por leitura fragmentada na hora da prova.
+Para gabaritar Exantemas, foque nos detalhes específicos. 
+**Sarampo** é o "pesado": febre alta, Koplik na boca e desce da cabeça aos pés. Lembra da **Vitamina A**. **Rubéola** é a "leve": gânglio atrás da orelha e perigo imenso para a grávida (Tríade: olho/ouvido/coração). Na **Polio**, o vírus destrói a "frente" da medula (motor superior não, é o inferior!), causando paralisia sem perder a sensibilidade.
+
+Nas "itites" cerebrais, decore o líquor: se for **Viral**, o líquor é clarinho, com linfócitos e a glicose está **Normal**. Se a glicose baixar, pense em Bactéria. Sobre bebês: o **Parvovírus B19** dá a cara vermelha de bofetada e a **Roséola** é o contrário de tudo: a febre vai embora para o exantema chegar.
 
 ### Diferenciações que a Uninove adora cobrar
 
-| Conceito A | Conceito B | Como diferenciar |
-|---|---|---|
-| Sarampo | Rubéola | Sarampo = grave + Koplik + morbiliforme; rubéola = leve + linfadenomegalia retroauricular |
-| Encefalite pós-infecciosa (sarampo) | PESS | Encefalite = semanas após; PESS = anos após; PESS é progressiva e fatal |
-| Roséola (HHV-6) | Eritema infeccioso (B19) | Roséola: febre primeiro → exantema depois; eritema: "tapa na face" |
-| Sabin | Salk | Sabin = oral/atenuada/imunidade intestinal; Salk = injetável/inativada/segura em imunossuprimido |
-| Varicela | Sarampo | Varicela: vesicular, todos estágios juntos, sem Koplik; sarampo: maculopapular, cefalocaudal, Koplik |
+| Conceito A | Conceito B | Diferencial Crítico |
+|------------|------------|-----------------|
+| **Sinal de Koplik** | **Manchas de Forchheimer** | Sarampo (Patognomônico) vs **Rubéola (Pálato)** |
+| **VOP (Sabin)** | **VIP (Salk)** | Vírus Vivo (Gotinha) vs **Vírus Morto (Injetável)** |
+| **PESS** | **Encefalite Aguda** | Sequela anos depois vs **Ocorre na fase aguda** |
+| **Líquor Viral** | **Líquor Bacteriano** | Glicose Normal vs **Glicose Baixa** |
+| **Roséola** | **Sarampo** | Exantema após a febre sumir vs **Exantema com a febre alta** |
 
 ### Frase-âncora para não esquecer
-> "Koplik antes do sarampo avisa; rubéola no 1º trimestre cega (catarata), ensurdece (surdez) e quebra o coração (PCA). Parvovírus dá tapa na face e crise aplásica no falcêmico. Polio mata o neurônio do corno anterior."
+
+> "Koplik avisa o sarampo que desce; Rubéola cega e surda o feto que padece; Polio a medula anterior esquece; e a Roséola brilha quando a febre arrefece."
