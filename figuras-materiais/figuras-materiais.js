@@ -1,5 +1,5 @@
 /**
- * Painel local: GET/PUT /api/data/materiais_figuras (server.js na raiz do projeto).
+ * Painel local: GET/PUT /api/data/materiais_figuras (server.cjs na raiz do projeto).
  */
 (function () {
   const API = '/api/data/materiais_figuras';
@@ -193,7 +193,7 @@
     } catch (e) {
       console.error(e);
       setStatus(
-        'Falha ao carregar. Rode o servidor local: node server.js → http://localhost:3001/figuras-materiais/',
+        'Falha ao carregar. Rode o servidor local: node server.cjs   http://localhost:3001/figuras-materiais/',
         'err'
       );
     }

@@ -8,7 +8,7 @@
 - **GitHub**: `https://github.com/pngjaico/MedUni9` (branch `main` — nome do repositório legado; produto: MedGradPlus)
 - **Stack**: React 18 (UMD) em single-file [`index.html`](index.html), Firebase Hosting, dados em JSON estáticos
 
-**Documentação de entrada:** leia [`AGENTS.md`](AGENTS.md) antes deste arquivo em sessões com IA.
+**Documentação de entrada:** leia [`AGENTS.md`](AGENTS.md) e [`docs/MAPA_CURRICULAR_ELITE.md`](docs/MAPA_CURRICULAR_ELITE.md) antes deste arquivo em sessões com IA.
 
 ---
 

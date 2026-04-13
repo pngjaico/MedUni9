@@ -25,6 +25,247 @@
       user-select: none;
     }
 
+    /* ── Material Mini Quiz ───────────────────────────────────── */
+    @keyframes mgFadeSlide {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .material-mini-quiz {
+      margin: 24px 0 16px !important;
+      border-radius: 16px !important;
+      border: 1px solid rgba(255, 255, 255, 0.08) !important;
+      border-top: 2px solid var(--primary, #00C896) !important;
+      background: rgba(0, 200, 150, 0.04) !important;
+      overflow: hidden !important;
+      animation: mgFadeSlide 0.35s cubic-bezier(0.16, 1, 0.3, 1) !important;
+      display: block !important;
+      width: 100% !important;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
+      clear: both !important;
+    }
+
+    .material-mini-quiz--empty {
+      display: flex !important;
+      align-items: center !important;
+      gap: 14px !important;
+      padding: 16px 20px !important;
+      opacity: 0.8 !important;
+    }
+
+    .material-mini-quiz-header {
+      display: flex !important;
+      align-items: center !important;
+      justify-content: space-between !important;
+      padding: 16px 20px 12px !important;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
+    }
+
+    .material-mini-quiz-title {
+      display: flex !important;
+      align-items: center !important;
+      gap: 8px !important;
+      font-family: 'Outfit', sans-serif !important;
+      font-size: 13px !important;
+      font-weight: 700 !important;
+      letter-spacing: 0.05em !important;
+      text-transform: uppercase !important;
+      color: var(--primary) !important;
+    }
+
+    .material-mini-quiz-counter {
+      font-size: 11.5px !important;
+      color: var(--text-secondary) !important;
+      font-family: 'Outfit', sans-serif !important;
+      font-weight: 600 !important;
+    }
+
+    .material-mini-quiz-progress {
+      height: 3px !important;
+      background: rgba(255, 255, 255, 0.08) !important;
+      border-radius: 1.5px !important;
+      overflow: hidden !important;
+      margin: 0 20px !important;
+    }
+
+    .material-mini-quiz-progress-fill {
+      height: 100% !important;
+      background: var(--primary) !important;
+      box-shadow: 0 0 8px var(--primary) !important;
+      transition: width 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+
+    .material-mini-quiz-body {
+      padding: 18px 20px 20px !important;
+      animation: mgFadeSlide 0.3s ease-out !important;
+    }
+
+    .material-mini-quiz-question {
+      font-size: 14.5px !important;
+      font-weight: 500 !important;
+      color: var(--text-primary) !important;
+      line-height: 1.6 !important;
+      margin-bottom: 20px !important;
+      display: block !important;
+    }
+
+    .material-mini-quiz-options {
+      display: flex !important;
+      flex-direction: column !important;
+      gap: 10px !important;
+      margin-bottom: 20px !important;
+      width: 100% !important;
+    }
+
+    .material-mini-quiz-option {
+      display: flex !important;
+      align-items: center !important;
+      gap: 12px !important;
+      padding: 12px 16px !important;
+      border-radius: 12px !important;
+      border: 1px solid rgba(255, 255, 255, 0.07) !important;
+      background: rgba(255, 255, 255, 0.025) !important;
+      cursor: pointer !important;
+      font-size: 13.5px !important;
+      color: rgba(255, 255, 255, 0.85) !important;
+      line-height: 1.45 !important;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1) !important;
+      text-align: left !important;
+      width: 100% !important;
+      font-family: 'DM Sans', sans-serif !important;
+      -webkit-appearance: none !important;
+      outline: none !important;
+    }
+
+    .material-mini-quiz-option:hover:not(:disabled) {
+      border-color: rgba(0, 200, 150, 0.45) !important;
+      background: rgba(0, 200, 150, 0.06) !important;
+      transform: translateX(5px) !important;
+    }
+
+    .material-mini-quiz-option.selected {
+      border-color: var(--primary) !important;
+      background: rgba(0, 200, 150, 0.12) !important;
+      color: #FFF !important;
+      box-shadow: 0 4px 15px rgba(0, 200, 150, 0.15) !important;
+    }
+
+    .material-mini-quiz-option.correct {
+      border-color: #10B981 !important;
+      background: rgba(16, 185, 129, 0.15) !important;
+      color: #72F0B9 !important;
+    }
+
+    .material-mini-quiz-option.incorrect {
+      border-color: rgba(239, 68, 68, 0.5) !important;
+      background: rgba(239, 68, 68, 0.08) !important;
+      color: #F87171 !important;
+      opacity: 0.85 !important;
+    }
+
+    .material-mini-quiz-option-letter {
+      font-size: 11px !important;
+      font-weight: 800 !important;
+      background: rgba(255, 255, 255, 0.08) !important;
+      border-radius: 6px !important;
+      width: 24px !important;
+      height: 24px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+      flex-shrink: 0 !important;
+      font-family: 'Outfit', sans-serif !important;
+      color: var(--text-secondary) !important;
+      transition: all 0.2s !important;
+    }
+
+    .material-mini-quiz-option.selected .material-mini-quiz-option-letter {
+      background: var(--primary) !important;
+      color: #000 !important;
+    }
+
+    .material-mini-quiz-feedback {
+      font-size: 13px !important;
+      line-height: 1.6 !important;
+      color: var(--text-secondary) !important;
+      padding: 14px 16px !important;
+      border-radius: 12px !important;
+      background: rgba(255, 255, 255, 0.035) !important;
+      border: 1px solid rgba(255, 255, 255, 0.08) !important;
+      margin-bottom: 20px !important;
+      animation: mgFadeSlide 0.25s ease-out !important;
+    }
+
+    .material-mini-quiz-action {
+      display: flex !important;
+      justify-content: flex-end !important;
+    }
+
+    .material-mini-quiz-btn {
+      font-family: 'Outfit', sans-serif !important;
+      font-size: 13px !important;
+      font-weight: 700 !important;
+      padding: 10px 24px !important;
+      border-radius: 10px !important;
+      border: none !important;
+      cursor: pointer !important;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+
+    .material-mini-quiz-btn--primary {
+      background: var(--primary) !important;
+      color: #000 !important;
+      box-shadow: 0 4px 15px rgba(0, 200, 150, 0.3) !important;
+    }
+
+    .material-mini-quiz-btn--primary:hover:not(:disabled) {
+      transform: translateY(-2px) !important;
+      box-shadow: 0 6px 20px rgba(0, 200, 150, 0.4) !important;
+    }
+
+    .material-mini-quiz-btn--primary:active:not(:disabled) {
+      transform: translateY(0) !important;
+    }
+
+    .material-mini-quiz-btn--primary:disabled {
+      opacity: 0.35 !important;
+      cursor: not-allowed !important;
+      box-shadow: none !important;
+      transform: none !important;
+    }
+
+    .material-mini-quiz-btn--secondary {
+      background: rgba(255, 255, 255, 0.07) !important;
+      color: var(--text-primary) !important;
+      border: 1px solid rgba(255, 255, 255, 0.12) !important;
+    }
+
+    .material-mini-quiz-result {
+      padding: 30px 20px !important;
+      text-align: center !important;
+      animation: mgFadeSlide 0.4s cubic-bezier(0.16, 1, 0.3, 1) !important;
+    }
+
+    html[data-theme="light"] .material-mini-quiz {
+      background: rgba(0, 150, 100, 0.04) !important;
+      border-color: rgba(0, 0, 0, 0.08) !important;
+    }
+
+    html[data-theme="light"] .material-mini-quiz-option {
+      background: rgba(255, 255, 255, 0.85) !important;
+      border-color: rgba(0, 0, 0, 0.12) !important;
+      color: var(--text-primary) !important;
+    }
+
+    html[data-theme="light"] .material-mini-quiz-option-letter {
+      background: rgba(0, 0, 0, 0.06) !important;
+    }
+
+    html[data-theme="light"] .material-mini-quiz-feedback {
+      background: rgba(0, 0, 0, 0.02) !important;
+      border-color: rgba(0, 0, 0, 0.08) !important;
+    }
+
     html {
       background-color: var(--bg-dark, #1E2433);
       height: 100%;
@@ -99,7 +340,7 @@
       /* Elevação */
       --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.18);
       --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.25);
-      --shadow-lg: 0 8px 40px rgba(0, 0, 0, 0.35);
+      --shadow-lg: 0 10px 25px rgba(0, 0, 0, 0.25);
 
       /* Animação */
       --ease-spring: cubic-bezier(0.16, 1, 0.3, 1);
@@ -550,11 +791,173 @@
       line-height: 1;
     }
 
-    html[data-theme="light"] .material-jump-preprova {
-      color: #92400E;
-      border-color: rgba(217, 119, 6, 0.45);
-      background: linear-gradient(155deg, #FFFBEB 0%, #FEF3C7 45%, #FDE68A 100%);
-      box-shadow: 0 2px 14px rgba(217, 119, 6, 0.18), inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    /* ── IA Chat UI ─────────────────────────────────────────── */
+    .ai-chat-fab {
+      position: fixed;
+      bottom: 16px;
+      right: 16px;
+      width: 48px;
+      height: 48px;
+      border-radius: 28px;
+      background: var(--primary);
+      color: #000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 24px rgba(0, 200, 150, 0.4);
+      cursor: pointer;
+      z-index: 2000;
+      transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+      border: none;
+      outline: none;
+    }
+    .ai-chat-fab:hover {
+      transform: scale(1.1) rotate(5deg);
+      box-shadow: 0 8px 30px rgba(0, 200, 150, 0.6);
+    }
+    .ai-chat-fab svg { width: 28px; height: 28px; }
+
+    .ai-chat-window {
+      position: fixed;
+      bottom: 0;
+      right: 20px;
+      width: 360px;
+      height: 520px;
+      max-height: calc(100vh - 100px);
+      background: rgba(30, 36, 51, 0.92);
+      backdrop-filter: blur(25px);
+      border-radius: 20px 20px 0 0;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-bottom: none;
+      box-shadow: 0 -10px 50px rgba(0, 0, 0, 0.5);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      z-index: 1001;
+      animation: aiSlideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+    }
+    @media (max-width: 600px) {
+      .ai-chat-window {
+        right: 0;
+        width: 100%;
+        border-radius: 24px 24px 0 0;
+      }
+    }
+    @keyframes aiSlideUp {
+      from { opacity: 0; transform: translateY(100%); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .ai-chat-header {
+      padding: 16px 20px;
+      background: rgba(255, 255, 255, 0.05);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .ai-chat-header-info {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .ai-chat-close {
+      background: transparent;
+      border: none;
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 18px;
+      padding: 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: color 0.2s;
+    }
+    .ai-chat-close:hover { color: var(--error); }
+    
+    .ai-chat-bubble a {
+      color: #000;
+      font-weight: 800;
+      text-decoration: underline;
+      background: rgba(255, 255, 255, 0.2);
+      padding: 0 4px;
+      border-radius: 4px;
+    }
+    .ai-chat-bubble--ai a {
+      color: var(--primary);
+      background: rgba(0, 200, 150, 0.1);
+    }
+
+    .ai-chat-header-status {
+      width: 10px;
+      height: 10px;
+      background: #00C896;
+      border-radius: 50%;
+      box-shadow: 0 0 8px rgba(0, 200, 150, 0.6);
+    }
+    .ai-chat-messages {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .ai-chat-bubble {
+      max-width: 85%;
+      padding: 12px 16px;
+      border-radius: 18px;
+      font-size: 13.5px;
+      line-height: 1.5;
+    }
+    .ai-chat-bubble--user {
+      align-self: flex-end;
+      background: var(--primary);
+      color: #000;
+      border-bottom-right-radius: 4px;
+    }
+    .ai-chat-bubble--ai {
+      align-self: flex-start;
+      background: rgba(255, 255, 255, 0.08);
+      color: #E8EBF0;
+      border-bottom-left-radius: 4px;
+    }
+    .ai-chat-input-area {
+      padding: 16px 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      display: flex;
+      gap: 10px;
+    }
+    .ai-chat-input {
+      flex: 1;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 10px 14px;
+      color: #FFF;
+      font-size: 13.5px;
+      outline: none;
+    }
+    .ai-chat-send {
+      background: var(--primary);
+      border: none;
+      width: 40px;
+      height: 40px;
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+    }
+
+    html[data-theme="light"] .ai-chat-window {
+      background: rgba(255, 255, 255, 0.9);
+      border-color: rgba(0, 0, 0, 0.1);
+      color: #1E293B;
+    }
+    html[data-theme="light"] .ai-chat-bubble--ai {
+      background: rgba(0, 0, 0, 0.05);
+      color: #1E293B;
     }
 
     html[data-theme="light"] .material-jump-preprova:hover {
@@ -711,7 +1114,7 @@
       margin-bottom: 8px;
     }
 
-    @media (min-width: 769px) {
+    @media (min-width: 601px) {
       #root {
         display: flex;
       }
@@ -754,7 +1157,7 @@
     }
 
     /* Mobile / tablet estreito: drawer lateral + barra com hamburger */
-    @media (max-width: 768px) {
+    @media (max-width: 600px) {
       .mobile-app-top-bar {
         display: flex;
         align-items: center;
@@ -903,209 +1306,8 @@
         font-size: clamp(0.76rem, 2.05vw, 0.84rem);
       }
 
-      /* ── Material Mini Quiz ───────────────────────────────────── */
-      @keyframes mgFadeSlide {
-        from { opacity: 0; transform: translateY(6px); }
-        to   { opacity: 1; transform: translateY(0); }
-      }
 
-      .material-mini-quiz {
-        margin: 20px 0 4px;
-        border-radius: 14px;
-        border: 1px solid rgba(255, 255, 255, 0.09);
-        border-top: 2px solid rgba(0, 200, 150, 0.55);
-        background: rgba(0, 200, 150, 0.03);
-        overflow: hidden;
-        animation: mgFadeSlide 0.3s ease;
-      }
 
-      .material-mini-quiz--empty {
-        display: flex;
-        align-items: center;
-        gap: 12px;
-        padding: 14px 18px;
-        opacity: 0.75;
-      }
-
-      .material-mini-quiz-header {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        padding: 14px 18px 10px;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
-      }
-
-      .material-mini-quiz-title {
-        display: flex;
-        align-items: center;
-        gap: 7px;
-        font-family: 'Outfit', sans-serif;
-        font-size: 12px;
-        font-weight: 700;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-        color: var(--primary);
-      }
-
-      .material-mini-quiz-counter {
-        font-size: 11px;
-        color: var(--text-secondary);
-        font-family: 'Outfit', sans-serif;
-      }
-
-      .material-mini-quiz-progress {
-        height: 2px;
-        background: rgba(255,255,255,0.07);
-        border-radius: 1px;
-        overflow: hidden;
-        margin: 0 18px 0;
-      }
-
-      .material-mini-quiz-progress-fill {
-        height: 100%;
-        background: var(--primary);
-        border-radius: 1px;
-        transition: width 0.35s ease;
-      }
-
-      .material-mini-quiz-body {
-        padding: 14px 18px 16px;
-        animation: mgFadeSlide 0.25s ease;
-      }
-
-      .material-mini-quiz-question {
-        font-size: 13.5px;
-        font-weight: 500;
-        color: var(--text-primary);
-        line-height: 1.5;
-        margin-bottom: 12px;
-      }
-
-      .material-mini-quiz-options {
-        display: flex;
-        flex-direction: column;
-        gap: 5px;
-        margin-bottom: 12px;
-      }
-
-      .material-mini-quiz-option {
-        display: flex;
-        align-items: flex-start;
-        gap: 8px;
-        padding: 8px 11px;
-        border-radius: 9px;
-        border: 1px solid rgba(255,255,255,0.07);
-        background: rgba(255,255,255,0.02);
-        cursor: pointer;
-        font-size: 12.5px;
-        color: rgba(255,255,255,0.78);
-        line-height: 1.4;
-        transition: border-color 0.15s, background 0.15s;
-        text-align: left;
-        width: 100%;
-        font-family: 'DM Sans', sans-serif;
-      }
-
-      .material-mini-quiz-option:hover:not(:disabled) {
-        border-color: rgba(0,200,150,0.4);
-        background: rgba(0,200,150,0.05);
-      }
-
-      .material-mini-quiz-option.selected {
-        border-color: rgba(0,200,150,0.65);
-        background: rgba(0,200,150,0.09);
-      }
-
-      .material-mini-quiz-option.correct {
-        border-color: rgba(16,185,129,0.7);
-        background: rgba(16,185,129,0.1);
-        color: #6EE7B7;
-      }
-
-      .material-mini-quiz-option.incorrect {
-        border-color: rgba(239,68,68,0.4);
-        background: rgba(239,68,68,0.07);
-        color: rgba(255,255,255,0.45);
-      }
-
-      .material-mini-quiz-option-letter {
-        font-size: 10px;
-        font-weight: 700;
-        background: rgba(255,255,255,0.07);
-        border-radius: 4px;
-        width: 18px;
-        height: 18px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-shrink: 0;
-        margin-top: 1px;
-        font-family: 'Outfit', sans-serif;
-        letter-spacing: 0;
-        color: var(--text-secondary);
-      }
-
-      .material-mini-quiz-feedback {
-        font-size: 12.5px;
-        line-height: 1.5;
-        color: var(--text-secondary);
-        padding: 10px 12px;
-        border-radius: 9px;
-        background: rgba(255,255,255,0.03);
-        border: 1px solid rgba(255,255,255,0.07);
-        margin-bottom: 12px;
-        animation: mgFadeSlide 0.2s ease;
-      }
-
-      .material-mini-quiz-action {
-        display: flex;
-        justify-content: flex-end;
-      }
-
-      .material-mini-quiz-btn {
-        font-family: 'Outfit', sans-serif;
-        font-size: 12px;
-        font-weight: 700;
-        padding: 8px 18px;
-        border-radius: 8px;
-        border: none;
-        cursor: pointer;
-        transition: opacity 0.15s;
-      }
-
-      .material-mini-quiz-btn--primary {
-        background: var(--primary);
-        color: #000;
-        opacity: 1;
-      }
-
-      .material-mini-quiz-btn--primary:disabled {
-        opacity: 0.35;
-        cursor: not-allowed;
-      }
-
-      .material-mini-quiz-btn--secondary {
-        background: rgba(255,255,255,0.07);
-        color: var(--text-primary);
-        border: 1px solid rgba(255,255,255,0.12);
-      }
-
-      .material-mini-quiz-result {
-        padding: 20px 18px;
-        text-align: center;
-        animation: mgFadeSlide 0.3s ease;
-      }
-
-      html[data-theme="light"] .material-mini-quiz {
-        background: rgba(0,150,100,0.03);
-        border-top-color: var(--primary);
-      }
-
-      html[data-theme="light"] .material-mini-quiz-option {
-        background: rgba(255,255,255,0.8);
-        border-color: rgba(0,0,0,0.1);
-        color: var(--text-primary);
-      }
 
       .mg-flow-wrapper {
         margin: 24px 0;
@@ -1212,7 +1414,7 @@
     }
 
     /* Tablet: leitura de materiais um pouco mais compacta; desktop largo intacto */
-    @media (min-width: 769px) and (max-width: 1024px) {
+    @media (min-width: 601px) and (max-width: 1120px) {
       .material-doc-inner .markdown-body.material-markdown-card {
         padding: 36px 32px 42px !important;
       }
@@ -1505,52 +1707,81 @@
     }
 
     /* Upsell banner (free plan) */
+    /* Upsell banner (premium look) */
     .upsell-banner {
-      background: linear-gradient(135deg, rgba(245,158,11,0.12) 0%, rgba(245,158,11,0.06) 100%);
-      border: 1px solid rgba(245,158,11,0.35);
-      border-radius: 12px;
-      padding: 14px 16px;
-      margin-bottom: 20px;
+      background: linear-gradient(135deg, rgba(30, 41, 59, 0.7) 0%, rgba(15, 23, 42, 0.9) 100%);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      padding: 20px;
+      margin-bottom: 24px;
       display: flex;
-      align-items: flex-start;
-      gap: 12px;
+      align-items: center;
+      gap: 16px;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+      position: relative;
+      overflow: hidden;
     }
-    .upsell-banner-icon { font-size: 20px; flex-shrink: 0; margin-top: 1px; }
+    .upsell-banner::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(0, 200, 150, 0.4), transparent);
+    }
+    .upsell-banner-icon { 
+      font-size: 28px; 
+      background: rgba(255,255,255,0.05);
+      width: 50px; height: 50px;
+      display: flex; align-items: center; justify-content: center;
+      border-radius: 12px;
+      flex-shrink: 0; 
+    }
+    .upsell-banner-text { flex: 1; }
     .upsell-banner-text strong {
       display: block;
-      font-size: 13px;
-      font-weight: 700;
-      color: #F59E0B;
-      margin-bottom: 2px;
+      font-size: 15px;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 4px;
+      font-family: 'Outfit', sans-serif;
     }
     .upsell-banner-text span {
-      font-size: 12px;
-      color: rgba(255,255,255,0.6);
+      display: block;
+      font-size: 13px;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.5;
     }
     .upsell-banner-btn {
-      margin-left: auto;
-      flex-shrink: 0;
-      background: #F59E0B;
-      color: #000;
-      border: none;
-      border-radius: 8px;
-      padding: 6px 12px;
-      font-size: 12px;
-      font-weight: 700;
-      cursor: pointer;
-      white-space: nowrap;
-    }
-
-    .upsell-banner--demo {
-      background: linear-gradient(135deg, rgba(0,200,150,0.14) 0%, rgba(59,130,246,0.08) 100%);
-      border: 1px solid rgba(0,200,150,0.35);
-    }
-    .upsell-banner--demo .upsell-banner-text strong {
-      color: #6ee7b7;
-    }
-    .upsell-banner--demo .upsell-banner-btn {
       background: linear-gradient(135deg, #00C896, #059669);
       color: #0f172a;
+      border: none;
+      border-radius: 10px;
+      padding: 10px 20px;
+      font-size: 13px;
+      font-weight: 800;
+      cursor: pointer;
+      white-space: nowrap;
+      box-shadow: 0 4px 12px rgba(0, 200, 150, 0.3);
+      transition: all 0.2s ease;
+      font-family: 'Outfit', sans-serif;
+    }
+    .upsell-banner-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 15px rgba(0, 200, 150, 0.4);
+      filter: brightness(1.1);
+    }
+    .upsell-banner-btn:active { transform: translateY(0); }
+
+    .upsell-banner--demo {
+      border-color: rgba(0, 200, 150, 0.2);
+    }
+    .upsell-banner--demo .upsell-banner-btn {
+      animation: pulse-green 2s infinite;
+    }
+    @keyframes pulse-green {
+      0% { box-shadow: 0 0 0 0 rgba(0, 200, 150, 0.4); }
+      70% { box-shadow: 0 0 0 10px rgba(0, 200, 150, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(0, 200, 150, 0); }
     }
 
     .auth-free-compact-btn {
@@ -2985,8 +3216,19 @@
     /* ── Material Document Layout ─────────────────────────────── */
     .material-doc-outer {
       display: flex;
+      flex-direction: column;
+      align-items: center;
       justify-content: center;
       width: 100%;
+      gap: 24px;
+    }
+
+    @media (min-width: 1200px) {
+      .material-doc-outer {
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: center;
+      }
     }
 
     .material-doc-inner {
@@ -5461,6 +5703,7 @@
       localStorage.removeItem('meduni9_rl');
     }
 
+
     const FACULTY_CATALOG = [
       {
         id: 'uninove',
@@ -5592,17 +5835,20 @@
       if (!Number.isFinite(modulo) || modulo < 1) return false;
       const normalized = normalizeModulesAccess(profile?.modulosAcesso);
       if (!normalized) {
-        if (String(profile?.plano || '').toLowerCase() === 'gratuito') return modulo === 1;
+        if (String(profile?.plano || '').toLowerCase() === 'gratuito') return modulo >= 1 && modulo <= 6;
         return true;
       }
       return normalized.includes(modulo);
     }
 
-    /** Demo do plano gratuito: uma aula completa + flashcards e questões só desta aula. */
-    const FREE_TIER_DEMO = Object.freeze({
-      materiaId: 'bmf1',
-      aulaId: 'bmf1_a5',
-      label: 'Tecido Ósseo — Estrutura e Ossificação',
+    /** Demo do plano gratuito: uma aula completa por módulo (1-6) + flashcards e questões destas aulas. */
+    const FREE_LESSONS = Object.freeze({
+      'bmf1_a5': { materia: 'bmf1', label: 'Tecido Ósseo — Estrutura e Ossificação', modulo: 1 },
+      'bmf2_a4': { materia: 'bmf2', label: 'Câmaras, Valvas e Ciclo Cardíaco', modulo: 2 },
+      'bmf3_a11': { materia: 'bmf3', label: 'Histologia e Fisiologia do Néfron', modulo: 3 },
+      'bmf4_a18': { materia: 'bmf4', label: 'Sistema Endócrino', modulo: 4 },
+      'farmaco_aplicada_a1': { materia: 'farmaco_aplicada', label: 'Princípios de Farmacocinética', modulo: 5 },
+      'tcar_a1': { materia: 'tecnica_operatoria', label: 'Antissepsia, Assepsia e Esterilização', modulo: 6 }
     });
 
     /** Atlas visual no plano gratuito: só Sistema esquelético › Cabeça. */
@@ -5615,11 +5861,11 @@
       return String(profile.plano || '').toLowerCase() === 'gratuito';
     }
 
-    function sliceMateriaToFreeDemo(materia) {
-      if (!materia || materia.id !== FREE_TIER_DEMO.materiaId) return null;
-      const aulas = (materia.aulas || []).filter((a) => a.id === FREE_TIER_DEMO.aulaId);
-      if (!aulas.length) return null;
-      return { ...materia, aulas, modulos: undefined };
+    function filterMateriaForFreeTier(materia) {
+      if (!materia) return null;
+      const freeAulas = (materia.aulas || []).filter((a) => FREE_LESSONS[a.id]);
+      if (!freeAulas.length) return null;
+      return { ...materia, aulas: freeAulas, modulos: undefined };
     }
 
     function normalizeUserProfile(profile = {}) {
@@ -6649,13 +6895,13 @@
       }).length;
       const dueReviewCards = SM2.getDueReviewCards(flashcards, srDataForHome);
 
-      const displayMaterias = viewAll
+      const displayMaterias = (viewAll || isFreeTierUser(user))
         ? materias.filter(m => m.ativo !== false)
         : materias.filter(m => m.modulo === userSemester && m.ativo !== false);
 
       // Group by semester when viewing all
       const groupedMaterias = useMemo(() => {
-        if (!viewAll) return { [userSemester]: displayMaterias };
+        if (!viewAll && !isFreeTierUser(user)) return { [userSemester]: displayMaterias };
         const groups = {};
         displayMaterias.forEach(m => {
           const sem = m.modulo || 0;
@@ -6671,12 +6917,17 @@
             {/* Upsell banner for free/guest users */}
             {(user.plano === 'gratuito' || user.isGuest) && (
               <div className="upsell-banner upsell-banner--demo">
-                <div className="upsell-banner-icon">🎁</div>
+                <div className="upsell-banner-icon">🚀</div>
                 <div className="upsell-banner-text">
-                  <strong>Modo demonstração — conheça a plataforma</strong>
+                  <strong>MedGradPlus Elite — Sua aprovação começa aqui</strong>
                   <span>
-                    Você tem <strong style={{ color: 'rgba(255,255,255,0.85)' }}>1 aula completa</strong> com material de leitura, flashcards e questões da mesma aula. O restante do conteúdo exige plano pago ou convite liberado por email.
+                    Você está na Versão Experimental. Liberamos <strong style={{ color: '#fff' }}>1 aula completa por módulo</strong> (total de 6 aulas de Elite com Flashcards e Questões V8).
                   </span>
+                  <div style={{ display: 'flex', gap: '10px', marginTop: '8px', fontSize: '11px', color: 'rgba(255,255,255,0.5)' }}>
+                    <span>✓ Flashcards Anki</span>
+                    <span>✓ Questões Comentadas</span>
+                    <span>✓ Resumos Estruturados</span>
+                  </div>
                 </div>
                 <button type="button" className="upsell-banner-btn" onClick={() => {
                   const em = user?.email;
@@ -6684,7 +6935,7 @@
                     ? `landing.html?email=${encodeURIComponent(em)}`
                     : 'landing.html';
                 }}>
-                  Ver planos
+                  Quero Acesso Elite!
                 </button>
               </div>
             )}
@@ -7472,14 +7723,22 @@
         if (questionId == null) return;
         const map = getQuizProgress();
         const key = String(questionId);
-        const prev = map[key] || { attempts: 0, correctAttempts: 0, done: false };
+        const prev = map[key] || { attempts: 0, correctAttempts: 0, done: false, level: 0 };
+        
+        const newLevel = correct ? Math.min((prev.level || 0) + 1, 5) : 0;
+        // Basic Review Interval: level 1=1d, 2=3d, 3=7d, 4=14d, 5=30d
+        const intervals = [0, 1, 3, 7, 14, 30];
+        const nextInterval = intervals[newLevel] || 0;
+        
         map[key] = {
           ...prev,
           done: true,
           attempts: (prev.attempts || 0) + 1,
           correctAttempts: (prev.correctAttempts || 0) + (correct ? 1 : 0),
           lastAnsweredAt: Date.now(),
-          lastResult: correct ? 'correct' : 'wrong'
+          lastResult: correct ? 'correct' : 'wrong',
+          level: newLevel,
+          nextReview: nextInterval > 0 ? Date.now() + nextInterval * 24 * 60 * 60 * 1000 : null
         };
         localStorage.setItem(QUIZ_PROGRESS_KEY, JSON.stringify(map));
       };
@@ -7491,7 +7750,7 @@
       const quizzes = useMemo(() => {
         const grouped = {};
         materias.filter(m => m.ativo !== false).forEach(m => {
-          const questions = quizQuestions.filter(f => f.materia === m.id);
+          const questions = m.id === 'todas' ? quizQuestions : quizQuestions.filter(f => f.materia === m.id);
           grouped[m.id] = { name: m.nome, sigla: m.sigla, cards: questions, icon: m.icon, semestre: m.modulo, ativo: m.ativo, cor: m.cor };
         });
         return grouped;
@@ -8477,106 +8736,43 @@
     }
 
 
-    // ── Material Mini Quiz Component ────────────────────────────────────────
-    const MaterialMiniQuiz = ({ questions, materialId }) => {
-      const qs = Array.isArray(questions) && questions.length > 0 ? questions : [];
-      const [phase, setPhase] = React.useState('quiz');
-      const [current, setCurrent] = React.useState(0);
-      const [selected, setSelected] = React.useState(null);
-      const [answered, setAnswered] = React.useState(false);
-      const [score, setScore] = React.useState(0);
 
-      React.useEffect(() => {
-        setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0);
-      }, [materialId]);
-
-      if (qs.length === 0) {
-        return (
-          <div className="material-mini-quiz material-mini-quiz--empty">
-            <span style={{ fontSize: '18px' }}>⚡</span>
-            <div>
-              <div style={{ fontFamily: 'Outfit', fontSize: '12px', fontWeight: 700, color: 'var(--primary)', textTransform: 'uppercase', letterSpacing: '0.06em', marginBottom: '2px' }}>Fixação Rápida</div>
-              <div style={{ fontSize: '12px', color: 'var(--text-secondary)' }}>Questões conceituais em breve para esta aula.</div>
-            </div>
-            <span className="material-badge" style={{ marginLeft: 'auto', flexShrink: 0 }}>Em breve</span>
-          </div>
-        );
-      }
-
-      const q = qs[current];
-      const progress = ((current + (answered ? 1 : 0)) / qs.length) * 100;
-
-      const handleConfirm = () => {
-        if (selected === null) return;
-        if (selected === q.correta) setScore(s => s + 1);
-        setAnswered(true);
-      };
-
-      const handleNext = () => {
-        if (current < qs.length - 1) { setCurrent(c => c + 1); setSelected(null); setAnswered(false); }
-        else setPhase('result');
-      };
-
-      const handleReset = () => { setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0); };
-
-      if (phase === 'result') {
-        const pct = Math.round((score / qs.length) * 100);
-        const great = pct >= 70;
-        return (
-          <div className="material-mini-quiz">
-            <div className="material-mini-quiz-result">
-              <div style={{ fontSize: '28px', marginBottom: '8px' }}>{great ? '🎯' : '📚'}</div>
-              <div style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: '22px', color: great ? 'var(--primary)' : 'var(--text-primary)', marginBottom: '4px' }}>{pct}%</div>
-              <div style={{ fontSize: '12.5px', color: 'var(--text-secondary)', marginBottom: '16px' }}>
-                {score} de {qs.length} corretas · {great ? 'Ótimo trabalho!' : 'Continue revisando.'}
-              </div>
-              <button className="material-mini-quiz-btn material-mini-quiz-btn--secondary" onClick={handleReset}>Tentar novamente</button>
-            </div>
-          </div>
-        );
-      }
-
-      return (
-        <div className="material-mini-quiz">
-          <div className="material-mini-quiz-header">
-            <div className="material-mini-quiz-title"><span>⚡</span> Fixação Rápida</div>
-            <div className="material-mini-quiz-counter">{current + 1} / {qs.length}</div>
-          </div>
-          <div className="material-mini-quiz-progress">
-            <div className="material-mini-quiz-progress-fill" style={{ width: `${progress}%` }} />
-          </div>
-          <div className="material-mini-quiz-body" key={current}>
-            <div className="material-mini-quiz-question">{q.pergunta}</div>
-            <div className="material-mini-quiz-options">
-              {q.opcoes.map((op, idx) => {
-                let cls = 'material-mini-quiz-option';
-                if (answered && idx === q.correta) cls += ' correct';
-                else if (answered && idx === selected && idx !== q.correta) cls += ' incorrect';
-                else if (!answered && idx === selected) cls += ' selected';
-                return (
-                  <button key={idx} className={cls} onClick={() => !answered && setSelected(idx)} disabled={answered}>
-                    <span className="material-mini-quiz-option-letter">{String.fromCharCode(65 + idx)}</span>
-                    <span>{op}</span>
-                  </button>
-                );
-              })}
-            </div>
-            {answered && q.explicacao && (
-              <div className="material-mini-quiz-feedback">{q.explicacao}</div>
-            )}
-            <div className="material-mini-quiz-action">
-              {!answered ? (
-                <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleConfirm} disabled={selected === null}>Confirmar</button>
-              ) : (
-                <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleNext}>
-                  {current < qs.length - 1 ? 'Próxima →' : 'Ver resultado →'}
-                </button>
-              )}
-            </div>
-          </div>
-        </div>
-      );
+    // --- Material Parser Utils ---
+    const parseMdMiniQuiz = (md) => {
+      if (!md) return [];
+      const parts = md.split(/^#{2,3}\s*Mini\s*Quiz\s*[\r\n]+/im);
+      if (parts.length < 2) return [];
+      
+      const content = parts[1].split(/^#+/m)[0]; // Tudo até o próximo header
+      const questions = [];
+      const qBlocks = content.split(/^\d+\.\s+/m).filter(b => b.trim());
+      
+      qBlocks.forEach(block => {
+        const lines = block.split('\n');
+        const pergunta = lines[0].replace(/\*\*|\*/g, '').trim();
+        const opcoes = [];
+        let correta = -1;
+        let explicacao = '';
+        
+        lines.slice(1).forEach(line => {
+          const l = line.trim();
+          const opMatch = l.match(/^-\s*\[([ xX])\]\s*(.*)/);
+          if (opMatch) {
+            if (opMatch[1].toLowerCase() === 'x') correta = opcoes.length;
+            opcoes.push(opMatch[2].trim());
+          } else {
+            const explMatch = l.match(/^>\s*\*\*Explicaç[ãa]o:\*\*\s*(.*)/i);
+            if (explMatch) explicacao = explMatch[1].trim();
+          }
+        });
+        
+        if (pergunta && opcoes.length > 0) {
+          questions.push({ pergunta, opcoes, correta: correta === -1 ? 0 : correta, explicacao });
+        }
+      });
+      return questions;
     };
+
 
     const MaterialsScreen = ({ materias, materiasCatalog, user, userSemester, onNavigateTo, initialMateriaId, initialTemaId, onRouteChange }) => {
       const [expandedMaterias, setExpandedMaterias] = useState({});
@@ -8598,8 +8794,122 @@
       const [toInstTitulo, setToInstTitulo] = useState('');
       const [toGuideSearch, setToGuideSearch] = useState('');
       const [toQuiz, setToQuiz] = useState(null);
+
       const [toImgBroken, setToImgBroken] = useState({});
       const [toQuizInlineWarn, setToQuizInlineWarn] = useState('');
+
+      // ── Material Mini Quiz Component (Inner Scope) ──────────────────────────
+      const MaterialMiniQuiz = ({ materialId }) => {
+        const [phase, setPhase] = useState('quiz');
+        const [current, setCurrent] = useState(0);
+        const [selected, setSelected] = useState(null);
+        const [answered, setAnswered] = useState(false);
+        const [score, setScore] = useState(0);
+
+        const qs = useMemo(() => {
+          return parseMdMiniQuiz(materialContent);
+        }, [materialContent]);
+
+        useEffect(() => {
+          setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0);
+        }, [materialId]);
+
+        if (qs.length === 0) {
+          return (
+            <div className="material-mini-quiz material-mini-quiz--empty" style={{ display: 'flex', alignItems: 'center', gap: '14px', padding: '16px 20px' }}>
+              <span style={{ fontSize: '18px' }}>⚡</span>
+              <div style={{ flex: 1 }}>
+                <div style={{ fontFamily: 'Outfit', fontSize: 13, fontWeight: 700, color: 'var(--primary)', textTransform: 'uppercase', letterSpacing: '0.05em', marginBottom: 2 }}>
+                  Fixação Rápida <span className="material-badge" style={{ marginLeft: 4, verticalAlign: 'middle' }}>BETA</span>
+                </div>
+                <div style={{ fontSize: 12, color: 'var(--text-secondary)' }}>Questões conceituais em breve para esta aula.</div>
+              </div>
+              <span className="material-badge" style={{ flexShrink: 0 }}>Em breve</span>
+            </div>
+          );
+        }
+
+        const q = qs[current];
+        const progress = ((current + (answered ? 1 : 0)) / qs.length) * 100;
+
+        const handleConfirm = () => {
+          if (selected === null) return;
+          if (selected === q.correta) setScore(s => s + 1);
+          setAnswered(true);
+        };
+
+        const handleNext = () => {
+          if (current < qs.length - 1) { setCurrent(c => c + 1); setSelected(null); setAnswered(false); }
+          else setPhase('result');
+        };
+
+        const handleReset = () => { setPhase('quiz'); setCurrent(0); setSelected(null); setAnswered(false); setScore(0); };
+
+        if (phase === 'result') {
+          const pct = Math.round((score / qs.length) * 100);
+          const great = pct >= 70;
+          return (
+            <div className="material-mini-quiz" style={{ margin: '24px 0 16px', borderRadius: '16px', border: '1px solid rgba(255, 255, 255, 0.08)', borderTop: '2px solid var(--primary)', background: 'rgba(0, 200, 150, 0.04)', overflow: 'hidden' }}>
+              <div className="material-mini-quiz-result" style={{ padding: '30px 20px', textAlign: 'center' }}>
+                <div style={{ fontSize: 32, marginBottom: 12 }}>{great ? '🎯' : '📚'}</div>
+                <div style={{ fontFamily: 'Outfit', fontWeight: 800, fontSize: 24, color: great ? 'var(--primary)' : 'var(--text-primary)', marginBottom: 6 }}>{pct}%</div>
+                <div style={{ fontSize: 13, color: 'var(--text-secondary)', marginBottom: 20 }}>
+                  {score} de {qs.length} corretas · {great ? 'Ótimo trabalho!' : 'Continue revisando.'}
+                </div>
+                <button className="material-mini-quiz-btn material-mini-quiz-btn--secondary" onClick={handleReset}>Tentar novamente</button>
+              </div>
+            </div>
+          );
+        }
+
+        return (
+          <div className="material-mini-quiz" style={{ margin: '24px 0 16px', borderRadius: '16px', border: '1px solid rgba(255, 255, 255, 0.08)', borderTop: '2px solid var(--primary)', background: 'rgba(0, 200, 150, 0.05)', overflow: 'hidden' }}>
+            {/* Header removido para evitar duplicidade com o container externo */}
+            
+            <div className="material-mini-quiz-progress" style={{ height: 3, background: 'rgba(255, 255, 255, 0.08)', margin: '0 20px', borderRadius: 2, overflow: 'hidden' }}>
+              <div className="material-mini-quiz-progress-fill" style={{ width: `${progress}%`, height: '100%', background: 'var(--primary)', boxShadow: '0 0 8px var(--primary)', transition: 'width 0.4s cubic-bezier(0.16, 1, 0.3, 1)' }} />
+            </div>
+
+            <div className="material-mini-quiz-body" style={{ padding: '20px 20px 20px' }} key={current}>
+              <div className="material-mini-quiz-question" style={{ fontSize: 15, fontWeight: 500, color: '#FFF', lineHeight: 1.6, marginBottom: 20 }}>{q.pergunta}</div>
+              
+              <div className="material-mini-quiz-options" style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 20 }}>
+                {q.opcoes.map((op, idx) => {
+                  let cls = 'material-mini-quiz-option';
+                  if (answered && idx === q.correta) cls += ' correct';
+                  else if (answered && idx === selected && idx !== q.correta) cls += ' incorrect';
+                  else if (!answered && idx === selected) cls += ' selected';
+                  
+                  return (
+                    <button key={idx} className={cls} onClick={() => !answered && setSelected(idx)} disabled={answered}
+                      style={{ display: 'flex', alignItems: 'center', gap: 12, padding: '12px 16px', borderRadius: 12, width: '100%', textAlign: 'left', border: '1px solid rgba(255, 255, 255, 0.07)', background: 'rgba(255, 255, 255, 0.03)', color: '#FFF', cursor: 'pointer' }}>
+                      <span className="material-mini-quiz-option-letter" 
+                        style={{ width: 24, height: 24, borderRadius: 6, background: (selected === idx && !answered) ? 'var(--primary)' : 'rgba(255, 255, 255, 0.1)', color: (selected === idx && !answered) ? '#000' : 'var(--text-secondary)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 11, fontWeight: 800, flexShrink: 0 }}>
+                        {String.fromCharCode(65 + idx)}
+                      </span>
+                      <span style={{ fontSize: 14 }}>{op}</span>
+                    </button>
+                  );
+                })}
+              </div>
+
+              {answered && q.explicacao && (
+                <div className="material-mini-quiz-feedback" style={{ fontSize: 13, lineHeight: 1.6, color: 'var(--text-secondary)', padding: '14px 16px', borderRadius: 12, background: 'rgba(255, 255, 255, 0.04)', border: '1px solid rgba(255, 255, 255, 0.1)', marginBottom: 20 }}>{q.explicacao}</div>
+              )}
+
+              <div className="material-mini-quiz-action" style={{ display: 'flex', justifyContent: 'flex-end' }}>
+                {!answered ? (
+                  <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleConfirm} disabled={selected === null}>Confirmar</button>
+                ) : (
+                  <button className="material-mini-quiz-btn material-mini-quiz-btn--primary" onClick={handleNext}>
+                    {current < qs.length - 1 ? 'Próxima →' : 'Ver resultado →'}
+                  </button>
+                )}
+              </div>
+            </div>
+          </div>
+        );
+      };
       const materialBaseMdRef = useRef('');
       const materialAdminTextareaRef = useRef(null);
       const [materialHasFirestoreOverride, setMaterialHasFirestoreOverride] = useState(false);
@@ -8648,15 +8958,35 @@
         return figurasDestaAulaComLink.filter((f) => !inlineIds.has(f.id));
       }, [materialContent, figurasDestaAulaComLink]);
 
-      // Split markdown at "## Pré-Prova" section
-      const splitAtPreProva = (content) => {
-        // regex: matches "## Pré-Prova" or "## Pre-Prova" (any case, hyphen optional) at start of line
-        const re = /^## Pr[eé][- ]?Prova/im;
-        const match = re.exec(content);
-        if (match) {
-          return { main: content.slice(0, match.index).trim(), preProva: content.slice(match.index).trim() };
+      // Split markdown safely into Main, Quiz and Pré-Prova
+      const splitMaterialContent = (content) => {
+        if (!content) return { main: '', preProva: null, hasQuiz: false };
+        
+        const quizMarker = /^#{2,3}\s*Mini\s*Quiz/im;
+        const preMarker = /^## Pr[eé][- ]?Prova/im;
+        
+        const quizMatch = quizMarker.exec(content);
+        const preMatch = preMarker.exec(content);
+        
+        // Find indices
+        const qIdx = quizMatch ? quizMatch.index : Infinity;
+        const pIdx = preMatch ? preMatch.index : Infinity;
+        const firstIdx = Math.min(qIdx, pIdx);
+        
+        let main = firstIdx === Infinity ? content : content.slice(0, firstIdx).trim();
+        let preProva = null;
+        
+        if (preMatch) {
+          // Get everything starting from Pré-Prova
+          const sub = content.slice(pIdx);
+          // But only until the next big header (if any)
+          // Actually, our convention is that Pré-Prova is near the end.
+          // Let's just take the section content properly.
+          const parts = sub.split(/^#{2,3}\s*Mini\s*Quiz/im); 
+          preProva = parts[0].trim();
         }
-        return { main: content, preProva: null };
+        
+        return { main, preProva, hasQuiz: !!quizMatch };
       };
 
       // Post-process markdown header: breadcrumb + meta pills
@@ -9824,7 +10154,7 @@
 
       // --- DETAIL VIEW: when a material is selected, replace entire screen ---
       if (selectedMaterial) {
-        const preProvaMd = !materialLoading && materialContent ? splitAtPreProva(materialContent).preProva : null;
+        const preProvaMd = !materialLoading && materialContent ? splitMaterialContent(materialContent).preProva : null;
         return (
           <div className="screen-content screen-content--material-detail">
 
@@ -10156,7 +10486,7 @@
 
             {/* Content Rendering */}
             {!materialLoading && !materialError && materialContent && (() => {
-              const { main, preProva } = splitAtPreProva(materialContent);
+              const { main, preProva, hasQuiz } = splitMaterialContent(materialContent);
               
               // Componente memoizado para evitar que o React limpe manualmente o innerHTML (onde ficam os grifos)
               const MarkdownWrap = React.memo(({ html, isPre }) => {
@@ -10226,12 +10556,6 @@
                       </div>
                     )}
 
-                    {/* ── Mini Quiz de Fixação ── */}
-                    <MaterialMiniQuiz
-                      questions={[]}
-                      materialId={selectedMaterial?.temaId}
-                    />
-
                     {/* Pré-Prova Section */}
                     {preProva && (
                       <div id="material-preprova-block" className="material-preprova-block" style={{ marginTop: '16px' }}>
@@ -10256,6 +10580,32 @@
                         </button>
 
                         {preProvaVisible && <MarkdownWrap html={renderMd(preProva)} isPre={true} />}
+                      </div>
+                    )}
+                    {/* ── Bloco de Fixação Rápida (Consolidado e Alinhado) ── */}
+                    {hasQuiz && (
+                      <div id="material-quiz-block" style={{ marginTop: '32px' }}>
+                        <div style={{ 
+                          background: 'rgba(0, 200, 150, 0.05)',
+                          padding: '24px 28px',
+                          borderRadius: '16px',
+                          border: '1px solid rgba(0, 200, 150, 0.2)',
+                          borderTop: '3px solid var(--primary)',
+                          boxShadow: '0 4px 24px rgba(0,0,0,0.15)'
+                        }}>
+                          <div style={{ 
+                            fontFamily: 'Outfit', fontSize: 13, fontWeight: 700, 
+                            color: 'var(--primary)', textTransform: 'uppercase', 
+                            letterSpacing: '0.08em', marginBottom: '4px',
+                            display: 'flex', alignItems: 'center', gap: '10px'
+                          }}>
+                            <span style={{ fontSize: 16 }}>⚡</span> FIXAÇÃO RÁPIDA <span className="material-badge" style={{ marginLeft: 4, verticalAlign: 'middle' }}>BETA</span>
+                          </div>
+                          <div style={{ fontSize: 13, color: 'var(--text-secondary)', marginBottom: '16px' }}>
+                            Estratégia de revisão ativa: responda os pontos-chave desta aula para consolidar a memória.
+                          </div>
+                          <MaterialMiniQuiz materialId={selectedMaterial?.temaId} />
+                        </div>
                       </div>
                     )}
                   </div>
@@ -10438,7 +10788,22 @@
         <>
           <div className="screen-content">
             <div className="profile-avatar">{avatarLetter}</div>
-            <div className="profile-name">{username}</div>
+            <div className="profile-name" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+              {username}
+              {(user.plano && user.plano !== 'gratuito' && user.plano !== 'trial') && (
+                <span style={{ 
+                  background: 'linear-gradient(90deg, #F59E0B, #EF4444)', 
+                  color: '#fff', 
+                  fontSize: '10px', 
+                  fontWeight: 900, 
+                  padding: '2px 8px', 
+                  borderRadius: '6px',
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.05em',
+                  boxShadow: '0 2px 8px rgba(239, 68, 68, 0.3)'
+                }}>PRIME</span>
+              )}
+            </div>
             <div className="profile-meta">{getUserInstitutionLabel(user)} · Módulo {user.modulo || 1}</div>
 
             <div className="profile-stats">
@@ -10464,11 +10829,15 @@
               </div>
             </div>
 
-            <div style={{ width: '100%', maxWidth: '420px', margin: '0 auto 16px' }}>
+            <div style={{ width: '100%', maxWidth: '420px', margin: '0 auto 16px', display: 'flex', flexDirection: 'column', gap: '12px' }}>
               <div style={{ padding: '14px 16px', borderRadius: '14px', background: 'linear-gradient(145deg, rgba(0,200,150,0.14), rgba(0,180,216,0.08))', border: '1px solid rgba(0,180,216,0.28)' }}>
                 <div style={{ fontSize: '13px', fontWeight: 700, marginBottom: '6px', color: 'var(--text-primary)' }}>Planos e acesso</div>
                 <div style={{ fontSize: '12px', color: 'var(--text-secondary)', lineHeight: 1.55, marginBottom: '12px' }}>
-                  Quando mudar o semestre ou quiser ampliar o conteúdo, compre outro módulo, outro ciclo ou a assinatura mensal. Use o mesmo email da sua conta no checkout.
+                  {user.plano && user.plano !== 'gratuito' && user.plano !== 'trial' ? (
+                    <>Você é um assinante <strong>{user.plano.toUpperCase()}</strong>. Se precisar de mais conteúdo, veja as opções abaixo.</>
+                  ) : (
+                    <>Quando mudar o semestre ou quiser ampliar o conteúdo, compre outro módulo, outro ciclo ou a assinatura mensal.</>
+                  )}
                 </div>
                 <a
                   className="btn btn-primary"
@@ -10478,6 +10847,21 @@
                   Ver planos e comprar
                 </a>
               </div>
+
+              <a
+                href={`https://wa.me/5519997300505?text=${encodeURIComponent("Olá! Sou aluno(a) do MedGradPlus e preciso de suporte com minha conta (" + (user.email || 'sem email') + ").")}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ 
+                  display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px',
+                  padding: '12px', borderRadius: '14px', background: 'rgba(37, 211, 102, 0.1)',
+                  border: '1px solid rgba(37, 211, 102, 0.3)', color: '#25D366',
+                  fontSize: '13px', fontWeight: 700, textDecoration: 'none', textAlign: 'center'
+                }}
+              >
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                Suporte via WhatsApp
+              </a>
             </div>
 
             <div className="profile-section">
@@ -11218,16 +11602,13 @@
                       onLoad={() => setImgLoaded(true)}
                       onError={() => setImgError(true)}
                       style={{ 
-                        width: '132%', 
-                        maxWidth: 'none',
+                        width: '100%', 
                         height: 'auto', 
                         display: 'block', 
                         verticalAlign: 'top', 
                         opacity: imgLoaded ? 1 : 0, 
                         transition: reduceMotion ? 'none' : 'opacity 0.25s ease', 
-                        pointerEvents: 'none',
-                        objectFit: 'cover',
-                        objectPosition: 'left center'
+                        pointerEvents: 'none'
                       }}
                     />
                   </button>
@@ -11246,7 +11627,7 @@
                       onMouseEnter={() => setHoverPin(i)} onMouseLeave={() => setHoverPin(null)}
                       style={{
                         position: 'absolute', left: p.x + '%', top: p.y + '%', transform: 'translate(-50%, -50%)',
-                        width: '48px', height: '48px', padding: 0, margin: 0, border: 'none', background: 'transparent',
+                        width: '32px', height: '32px', padding: 0, margin: 0, border: 'none', background: 'transparent',
                         cursor: 'pointer', zIndex: showTip(i) ? 4 : 2,
                       }}
                     />
@@ -11254,7 +11635,7 @@
                   {imgLoaded && pinos.map((p, i) => showTip(i) && (
                     <div key={'tip-' + i} role="status" style={{
                       position: 'absolute', left: p.x + '%', top: p.y + '%',
-                      transform: p.y < 20 ? 'translate(-50%, 18px)' : 'translate(-50%, calc(-100% - 18px))',
+                      transform: p.y < 20 ? 'translate(-50%, 12px)' : 'translate(-50%, calc(-100% - 12px))',
                       maxWidth: 'min(200px, 65vw)', padding: '7px 12px', borderRadius: '8px',
                       background: 'rgba(10,10,15,0.94)', backdropFilter: 'blur(8px)',
                       border: '1px solid rgba(255,255,255,0.12)', color: '#F5F3FF',
@@ -12613,6 +12994,120 @@
       );
     };
 
+    const AiChat = ({ user }) => {
+      const [isOpen, setIsOpen] = React.useState(false);
+      const [messages, setMessages] = React.useState([]);
+      const [input, setInput] = React.useState('');
+      const [loading, setLoading] = React.useState(false);
+      const messagesEndRef = React.useRef(null);
+
+      // Trava de segurança: Apenas usuários Prime/Assinantes (exclui gratuito e trial)
+      const isPremium = user && ( (user.plano && user.plano !== 'gratuito' && user.plano !== 'trial') || !!user.ambassadorId || user.email === 'pngjaico@gmail.com' );
+      if (!isPremium) return null;
+
+      const scrollToBottom = () => {
+        messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+      };
+
+      React.useEffect(() => {
+        scrollToBottom();
+      }, [messages, loading]);
+
+      const renderMessageContent = (text) => {
+        if (!text) return null;
+        const parts = text.split(/(\[[^\]]+\]\(#[^\)]+\)|\*\*[^*]+\*\*)/g);
+        return parts.map((part, i) => {
+          const linkMatch = part.match(/\[([^\]]+)\]\((#[^\)]+)\)/);
+          if (linkMatch) {
+            return React.createElement('a', { 
+              key: i, 
+              href: linkMatch[2],
+              onClick: () => {
+                if (window.innerWidth < 600) setIsOpen(false);
+              }
+            }, linkMatch[1]);
+          }
+          const boldMatch = part.match(/\*\*([^*]+)\*\*/);
+          if (boldMatch) {
+            return React.createElement('strong', { key: i }, boldMatch[1]);
+          }
+          return part;
+        });
+      };
+
+      const handleSend = async () => {
+        if (!input.trim() || loading) return;
+        setMessages(prev => [...prev, { role: 'user', text: input }]);
+        const currentInput = input;
+        setInput('');
+        setLoading(true);
+
+        try {
+          const res = await fetch('https://southamerica-east1-medgradplus.cloudfunctions.net/geminiSupport', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ prompt: currentInput, userId: user?.id })
+          });
+          const data = await res.json();
+          if (data.error) throw new Error(data.error);
+          setMessages(prev => [...prev, { role: 'ai', text: data.response }]);
+        } catch (e) {
+          setMessages(prev => [...prev, { role: 'ai', text: 'Estamos com uma instabilidade momentânea nos serviços de IA. Por favor, tente novamente em alguns instantes.' }]);
+        } finally {
+          setLoading(false);
+        }
+      };
+
+      return (
+        React.createElement(React.Fragment, null,
+          !isOpen && React.createElement('button', { 
+            className: 'ai-chat-fab', 
+            onClick: () => setIsOpen(true),
+            title: 'Chat de Suporte IA'
+          }, '💬'),
+          isOpen && React.createElement('div', { className: 'ai-chat-window' },
+            React.createElement('div', { className: 'ai-chat-header' },
+              React.createElement('div', { className: 'ai-chat-header-info' },
+                React.createElement('div', { className: 'ai-chat-header-status' }),
+                React.createElement('span', { style: { fontWeight: 700, fontSize: '15.5px', color: '#FFF' } }, 'Monitor de Elite')
+              ),
+              React.createElement('button', { 
+                className: 'ai-chat-close', 
+                onClick: () => setIsOpen(false) 
+              }, '✕')
+            ),
+            React.createElement('div', { className: 'ai-chat-messages' },
+              messages.length === 0 && React.createElement('div', { className: 'ai-chat-bubble ai-chat-bubble--ai' }, 
+                'Olá! Sou o Monitor de Elite. Como posso ajudar na sua jornada hoje?'
+              ),
+              messages.map((m, i) => 
+                React.createElement('div', { 
+                  key: i, 
+                  className: `ai-chat-bubble ai-chat-bubble--${m.role}` 
+                }, renderMessageContent(m.text))
+              ),
+              loading && React.createElement('div', { className: 'ai-chat-bubble ai-chat-bubble--ai' }, 'Digitando...'),
+              React.createElement('div', { ref: messagesEndRef })
+            ),
+            React.createElement('div', { className: 'ai-chat-input-area' },
+              React.createElement('input', {
+                className: 'ai-chat-input',
+                value: input,
+                onChange: e => setInput(e.target.value),
+                onKeyPress: e => e.key === 'Enter' && handleSend(),
+                placeholder: 'Tire sua dúvida acadêmica...'
+              }),
+              React.createElement('button', { 
+                className: 'ai-chat-send', 
+                onClick: handleSend, 
+                disabled: loading 
+              }, '➤')
+            )
+          )
+        )
+      );
+    };
+
     const MedGradPlusApp = () => {
       const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador', 'gradbook', 'antigas'];
       const parseRouteFromHash = () => {
@@ -12687,7 +13182,7 @@
       const [sidebarOpen, setSidebarOpen] = useState(() =>
         typeof window !== 'undefined' &&
         window.matchMedia &&
-        window.matchMedia('(min-width: 769px)').matches
+        window.matchMedia('(min-width: 601px)').matches
       );
 
       const navigateTo = (tab, options = {}) => {
@@ -12713,7 +13208,7 @@
           window.location.hash = nextHash;
         }
         try {
-          if (window.matchMedia('(max-width: 768px)').matches) setSidebarOpen(false);
+          if (window.matchMedia('(max-width: 600px)').matches) setSidebarOpen(false);
         } catch (_) {}
       };
       const [materias, setMaterias] = useState([]);
@@ -13086,9 +13581,9 @@
           return materias.filter((m) => m.ativo !== false);
         }
         if (isFreeTierUser(user)) {
-          const full = materias.find((m) => m.id === FREE_TIER_DEMO.materiaId && m.ativo !== false);
-          const sliced = sliceMateriaToFreeDemo(full);
-          return sliced ? [sliced] : [];
+          return materias
+            .map((m) => filterMateriaForFreeTier(m))
+            .filter(Boolean);
         }
         return materias.filter((m) => m.ativo !== false && hasModuleAccess(user, m.modulo || m.semestre));
       })();
@@ -13096,11 +13591,7 @@
       const allowedMateriaIds = new Set(accessFilteredMaterias.map((m) => m.id));
       const accessFilteredFlashcards = (() => {
         if (isFreeTierUser(user)) {
-          return flashcards.filter(
-            (card) =>
-              card?.materia === FREE_TIER_DEMO.materiaId &&
-              card?.tema === FREE_TIER_DEMO.aulaId
-          );
+          return flashcards.filter((card) => card?.tema && FREE_LESSONS[card.tema]);
         }
         return flashcards.filter((card) => {
           if (!card?.materia) return false;
@@ -13116,7 +13607,7 @@
         { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
         { id: 'antigas', label: <span>Provas Antigas <span className="material-badge" style={{ marginLeft: '4px', verticalAlign: 'middle' }}>BETA</span></span>, icon: <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="4" rx="2" ry="2"/><path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8"/><line x1="10" y1="12" x2="14" y2="12"/></svg> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
-        { id: 'anatomy_hist', label: 'Anat. + Hist.', navTitle: 'Anatomia e histologia', icon: <IconAnatomy /> },
+        { id: 'anatomy_hist', label: <span>Anat. + Hist. <span className="material-badge" style={{ marginLeft: '4px', verticalAlign: 'middle' }}>BETA</span></span>, navTitle: 'Anatomia e histologia', icon: <IconAnatomy /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
         { id: 'profile', label: 'Perfil', icon: <IconUser /> },
       ];
@@ -13301,14 +13792,14 @@
             {currentTab === 'antigas' && (
               <QuizScreen
                   title="Provas Antigas"
-                  flashcards={questoesAntigas.filter(card => {
+                  flashcards={[...questoesAntigas, ...flashcards].filter(card => {
                     if (isFreeTierUser(user)) return false; // Hide from free tier (optional constraint)
                     if (!card?.materia) return false;
                     if (allowedMateriaIds.has(card.materia)) return true;
                     const fallbackMateria = materias.find((m) => m.id === card.materia);
                     return fallbackMateria ? hasModuleAccess(user, fallbackMateria.modulo || fallbackMateria.semestre) : false;
                   })}
-                  materias={accessFilteredMaterias}
+                  materias={[{id: 'todas', nome: 'Todas', icone: '📚', cor: '#00C896'}, ...accessFilteredMaterias]}
                   selectedMateria={selectedMateria}
                   onSelectMateria={(materiaId) => {
                     setSelectedMateria(materiaId);
@@ -13442,6 +13933,7 @@
 
           </div>
         </div>
+        {React.createElement(AiChat, { user })}
         </>
       );
     };

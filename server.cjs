@@ -1,6 +1,6 @@
 /**
  * MedGrad+ — Servidor Admin Local
- * node server.js → http://localhost:3001/admin.html
+ * node server.cjs → http://localhost:3001
  * Endpoints: /api/ping /api/data/:file (incl. materiais_figuras) /api/git/status /api/git/commit /api/deploy /api/agent/run/:name
  *            /api/feedback/raw-pending /api/feedback/raw-approved /api/feedback/plans
  *            /api/feedback/raw/approve/:id /api/feedback/raw/deny/:id
@@ -404,7 +404,7 @@ const server = http.createServer(async (req, res) => {
     }
 
     // ── Static files ───────────────────────────────────────────────────────────
-    let filePath = pathname === '/' ? '/admin.html' : pathname;
+    let filePath = pathname === '/' ? '/index.html' : pathname;
     filePath = path.join(ROOT, filePath);
 
     // Security: only serve files within ROOT
@@ -445,8 +445,9 @@ process.on('unhandledRejection', (reason) => {
 
 server.listen(PORT, () => {
   console.log('\n┌─────────────────────────────────────────────┐');
-  console.log(`│  MedGrad+ Admin Server                       │`);
-  console.log(`│  http://localhost:${PORT}/admin.html           │`);
+  console.log(`│  MedGrad+ Local Server                       │`);
+  console.log(`│  App:   http://localhost:${PORT}/              │`);
+  console.log(`│  Admin: http://localhost:${PORT}/admin.html    │`);
   console.log(`│  Figuras materiais: /figuras-materiais/       │`);
   console.log('│  Feche esta janela para encerrar.            │');
   console.log('└─────────────────────────────────────────────┘\n');

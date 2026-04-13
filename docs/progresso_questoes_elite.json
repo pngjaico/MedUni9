@@ -1,0 +1,248 @@
+{
+  "modulo1": {
+    "bmf1": {
+      "bmf1_a1": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Introdução à Anatomia e Terminologia"
+      },
+      "bmf1_a2": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Tecidos Epitelial e Conjuntivo"
+      },
+      "bmf1_a3": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Generalidades do Sistema Esquelético"
+      },
+      "bmf1_a4": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Calibração inicial"
+      },
+      "bmf1_a5": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Tecido Ósseo e Ossificação"
+      },
+      "bmf1_a6": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática de Ossos e Regiões"
+      },
+      "bmf1_a7": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Generalidades do Sistema Articular"
+      },
+      "bmf1_a8": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Tecido Cartilaginoso"
+      },
+      "bmf1_a9": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática de Articulações"
+      },
+      "bmf1_a10": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Generalidades do Sistema Muscular"
+      },
+      "bmf1_a11": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Histologia do Tecido Muscular"
+      },
+      "bmf1_a12": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Fisiologia da Contração Muscular"
+      },
+      "bmf1_a13": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática de Músculos (Cab/Pesc/Tron/Memb)"
+      },
+      "bmf1_a14": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Tegumento — Tecido Epitelial de Revestimento"
+      },
+      "bmf1_a15": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Tecido Epitelial Glandular"
+      },
+      "bmf1_a16": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática de Tegumento e Tecido Adiposo"
+      },
+      "bmf1_a17": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Boca, Língua, Glândulas e Faringe"
+      },
+      "bmf1_a18": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Anatomia da Parede Abdominal e Peritônio"
+      },
+      "bmf1_a19": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Anatomia dos Intestinos Delgado e Grosso"
+      },
+      "bmf1_a20": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Inervação e Vascularização Gastrointestinal"
+      },
+      "bmf1_a21": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Anatomia do Fígado, Vias Biliares e Pâncreas"
+      },
+      "bmf1_a22": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Anatomia do Sistema Urinário - FIM BMF1"
+      }
+    },
+    "pmh": {
+      "pmh_a3": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Glicólise e Gliconeogênese"
+      },
+      "pmh_a1": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Bioenergética e Termodinâmica"
+      },
+      "pmh_a4": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Ciclo de Krebs e Fosforilação Oxidativa"
+      },
+      "pmh_a5": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Metabolismo de Glicogênio e Via das Pentoses"
+      },
+      "pmh_a6": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Regulação Hormonal e Clínica dos Carboidratos"
+      },
+      "pmh_a7": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Beta-oxidação e Síntese de Ácidos Graxos"
+      },
+      "pmh_a9": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Aplicações Clínicas dos Lipídios"
+      }
+    },
+    "sus": {
+      "sus_a1": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Processo Saúde-Doença e Determinantes Sociais"
+      },
+      "sus_a2": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Antecedentes Históricos — Colônia ao Regime Militar"
+      },
+      "sus_a3": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Nova República, Reforma Sanitária e Bases Constitucionais"
+      },
+      "sus_a4": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Leis Orgânicas (8.080/8.142) e Governança"
+      },
+      "sus_a5": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Pacto pela Saúde 2006 e Prioridades Sanitárias"
+      },
+      "sus_a6": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Pacto pela Gestão, RAS e Decreto 7.508/2011"
+      },
+      "sus_a7": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Pacto em Defesa do SUS e Financiamento"
+      },
+      "sus_a8": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "PNAB, ESF e Atributos de Starfield"
+      },
+      "sus_a9": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Ferramentas de Abordagem Familiar (Genograma/Ecomapa)"
+      }
+    },
+    "semio1": {
+      "semio1_a1": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Fundamentos: MRC e Padrões de Dor"
+      },
+      "semio1_a2": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Anamnese Dirigida: Padrões e Mecanismos"
+      },
+      "semio1_a3": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Exame Físico: Inspeção e Marchas"
+      },
+      "semio1_a4": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Exame Físico: Palpação Crítica"
+      },
+      "semio1_a5": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Exame Físico: Mobilidade e Testes Especiais"
+      },
+      "semio1_a6": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Síndromes Musculoesqueléticas e Propedêutica"
+      },
+      "semio1_a7": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática Simulada e OSCE"
+      },
+      "semio1_a8": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Prática Real e Indicação de Imagem"
+      },
+      "semio1_a9": {
+        "status": "elite",
+        "data": "2026-04-09",
+        "obs": "Reunião Clínica e Consolidação"
+      }
+    },
+    "histo1": {}
+  }
+}

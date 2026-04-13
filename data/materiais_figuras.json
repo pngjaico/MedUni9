@@ -8981,6 +8981,46 @@
       "credito": "",
       "legenda": "Bundle de inserção de cateter venoso central.",
       "notas": "Gerado a partir do markdown; preencher URL no Wikimedia Commons quando disponível."
+    },
+    {
+      "id": "BMF2-A1-F01",
+      "modulo": 2,
+      "disciplina": "bmf2",
+      "aula": "bmf2_a1",
+      "caminhoMaterial": "materiais/modulo2/bmf2/bmf2_a1.md",
+      "momento": "Anatomia do sistema de condução",
+      "descricaoVisual": "Anatomia do sistema de condução destacando o Nó SA, Vias Internodais, Nó AV, Feixe de His e Fibras de Purkinje.",
+      "tipoSugerido": "Esquema didático com cores diferenciadas para cada estrutura.",
+      "buscaCommonsEn": "heart conduction system anatomy diagram",
+      "buscaCommonsPt": "sistema de condução cardíaco anatomia esquema",
+      "status": "encontrada",
+      "urlImagem": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Heart_Conduction_System_-_no_labels.png",
+      "urlThumbnail": "",
+      "urlPaginaCommons": "https://commons.wikimedia.org/wiki/File:Heart_Conduction_System_-_no_labels.png",
+      "licenca": "CC BY-SA 3.0",
+      "credito": "Wikimedia Commons",
+      "legenda": "Anatomia do sistema de condução cardíaco e fluxo elétrico.",
+      "notas": "Gerado a partir do aprimoramento de material."
+    },
+    {
+      "id": "BMF2-A1-F02",
+      "modulo": 2,
+      "disciplina": "bmf2",
+      "aula": "bmf2_a1",
+      "caminhoMaterial": "materiais/modulo2/bmf2/bmf2_a1.md",
+      "momento": "Comparação de Potencial de Ação",
+      "descricaoVisual": "Gráfico comparativo sobreposto dos dois potenciais de ação (Rápido vs Lento), destacando o Platô no rápido e a Rampa da Fase 4 no lento.",
+      "tipoSugerido": "Gráfico cartesiano (mV x tempo).",
+      "buscaCommonsEn": "cardiac action potential comparison fast response slow response",
+      "buscaCommonsPt": "potencial de ação cardíaco comparativo miócito marcapasso",
+      "status": "encontrada",
+      "urlImagem": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cardiac_Action_Potential.svg",
+      "urlThumbnail": "",
+      "urlPaginaCommons": "https://commons.wikimedia.org/wiki/File:Cardiac_Action_Potential.svg",
+      "licenca": "CC BY-SA 3.0",
+      "credito": "Wikimedia Commons",
+      "legenda": "Diferenças eletrofisiológicas entre tecidos nodal e contrátil.",
+      "notas": "Gerado a partir do aprimoramento de material."
     }
   ]
 }

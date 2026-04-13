@@ -163,3 +163,5 @@ Para aprovar e aplicar:
 - `conteudo_curto` (reescrita completa) conta como tarefa pesada — máximo 3 por rodada
 - Priorize pela matéria com maior score (mais tempo sem revisão × cobertura de material)
 - Nenhum arquivo é alterado até o usuário rodar `aprovar_pendentes.py`
+
+<!-- Optional flag: --script-mode true -->

@@ -9,11 +9,12 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 
 ## Ordem de leitura (rápida)
 
-| Ordem | Arquivo | Conteúdo |
+|  ordering | File | Content |
 |-------|---------|----------|
 | 1 | Este `AGENTS.md` | Regras para IAs e mapa da documentação |
-| 2 | [CLAUDE_GUIA.md](CLAUDE_GUIA.md) | Stack, pastas, fluxo de deploy, o que não commitar |
-| 3 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) | Módulos, disciplinas, `data/materias.json`, planos de ensino |
+| 2 | [docs/MAPA_CURRICULAR_ELITE.md](docs/MAPA_CURRICULAR_ELITE.md) | **Referências Padrão-Oura e Tópicos por Matéria** |
+| 3 | [CLAUDE_GUIA.md](CLAUDE_GUIA.md) | Stack, pastas, fluxo de deploy, o que não commitar |
+| 4 | [PROJECT_CONTEXT.md](PROJECT_CONTEXT.md) | Módulos, disciplinas, `data/materias.json`, planos de ensino |
 | 4 | [COMO-ATUALIZAR.md](COMO-ATUALIZAR.md) | Operação: flashcards, questões, admin |
 | 5 | [FIREBASE_E_GIT.md](FIREBASE_E_GIT.md) | Projeto Firebase `medgradplus`, deploy, o que não commitar |
 | 6 | [`.github/copilot-instructions.md`](.github/copilot-instructions.md) | Regras de materiais `.md` (encoding, Pré-Prova) |
@@ -23,8 +24,9 @@ Leia este arquivo **no início de qualquer sessão** (Cursor, Copilot, Claude, e
 
 | Conteúdo | Documento canônico |
 |----------|-------------------|
+| **Questões de Prova** | [prompts/gerar_questoes.md](prompts/gerar_questoes.md) |
+| Flashcards (`data/flashcards.json`) | [prompts/gerar_flashcards.md](prompts/gerar_flashcards.md) |
 | Materiais de apoio (`.md` de aula) | [prompts/gerar_materiais_apoio.md](prompts/gerar_materiais_apoio.md) |
-| Questões e flashcards (`data/questoes.json`, `data/flashcards.json`) | [prompts/gerar_questoes_flashcards.md](prompts/gerar_questoes_flashcards.md) |
 | **Curadoria de Negritos (Aesthetics)** | [prompts/padronizacao_negritos.md](prompts/padronizacao_negritos.md) |
 
 Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** (métricas, estilo, JSON); em conflito, prevalece `gerar_questoes_flashcards.md`. **A negritagem estratégica é obrigatória para legibilidade.**

@@ -14,7 +14,7 @@ const TEST_MODE = process.argv.includes('--test');
 const SYSTEM_PROMPT = `Você é um curador médico acadêmico experiente do MedGradPlus. 
 Sua tarefa é extrair questões de medicina a partir de textos brutos (OCR ou PDF) e formatá-las em JSON estrito seguindo estas regras de ELITE (V8):
 
-1. TRANSCRIÇÃO FIEL: NÃO resuma, NÃO adicione negritos no "enunciado" nem nas "opcoes". Copie o texto EXATAMENTE como está no PDF. Prefixe o enunciado com "[PROVA MÉDICA] ".
+1. TRANSCRIÇÃO FIEL: NÃO resuma, NÃO adicione negritos no "enunciado" nem nas "opcoes". Copie o texto EXATAMENTE como está no PDF. NÃO adicione prefixos como "[PROVA MÉDICA]".
 2. OPCOES LIMPAS: Comece com letra e parêntese: "A) ...", "B) ...", "C) ...", "D) ...".
 3. ELITE BOLDING: Aplique negrito (**texto**) APENAS em "explicacao_geral" e "explicacoes_opcoes". Destaque termos clínicos, enzimas, valores laboratoriais.
 4. SEM PREFIXOS: Em "explicacoes_opcoes", NÃO use [CORRETA] ou [INCORRETA]. A interface cuida disso com cores.
@@ -88,37 +88,41 @@ async function extractQuestionsWithGemini(textBlock) {
     }
 }
 
-async function processAllPdfs() {
-    const INPUT_DIR = path.join(__dirname, '..', 'document_pdf');
+async function runRecovery() {
+    const INPUT_DIR = path.join(__dirname, '..', 'document_pdf', 'recovery_batch');
     const OUTPUT_JSON = path.join(__dirname, '..', 'data', 'questoes_antigas.json');
+    const BACKUP_JSON = path.join(__dirname, '..', 'data', 'questoes_antigas_backup.json');
 
     const allFiles = fs.readdirSync(INPUT_DIR)
         .filter(f => f.toLowerCase().endsWith('.pdf'))
-        .sort((a, b) => fs.statSync(path.join(INPUT_DIR, b)).size - fs.statSync(path.join(INPUT_DIR, a)).size)
         .map(f => path.join(INPUT_DIR, f));
 
     if (allFiles.length === 0) {
-        console.log("Nenhum PDF encontrado em document_pdf/.");
+        console.log("Nenhum PDF encontrado em document_pdf/recovery_batch/.");
         return;
     }
 
-    const files = TEST_MODE ? [allFiles[0]] : allFiles;
-    console.log(TEST_MODE
-        ? `\n🧪 MODO TESTE — processando 1 arquivo: ${path.basename(files[0])}\n`
-        : `\n🚀 Processando ${files.length} arquivos...\n`
-    );
+    console.log(`\n🚀 MISSÃO RECUPERAÇÃO — Processando ${allFiles.length} arquivos...\n`);
 
+    // Carrega progresso anterior se existir
     let data = { questoes: [] };
     if (fs.existsSync(OUTPUT_JSON)) {
-        data = JSON.parse(fs.readFileSync(OUTPUT_JSON, 'utf-8'));
+        try {
+            data = JSON.parse(fs.readFileSync(OUTPUT_JSON, 'utf8'));
+            console.log(`\n📂 Banco existente carregado: ${data.questoes.length} questões.`);
+        } catch (e) {
+            console.error("   ❌ Erro ao ler banco existente, iniciando do zero.");
+        }
     }
-    let maxId = Math.max(...data.questoes.map(q => q.id), 0);
-    let totalExtracted = 0;
 
-    for (let fi = 0; fi < files.length; fi++) {
-        const filePath = files[fi];
+    let maxId = data.questoes.length > 0 ? Math.max(...data.questoes.map(q => q.id)) : 0;
+    let totalExtracted = data.questoes.length;
+    let lastBackupCount = Math.floor(totalExtracted / 100) * 100;
+
+    for (let fi = 0; fi < allFiles.length; fi++) {
+        const filePath = allFiles[fi];
         const fileName = path.basename(filePath);
-        console.log(`[${fi+1}/${files.length}] 📄 ${fileName}`);
+        console.log(`[${fi+1}/${allFiles.length}] 📄 ${fileName}`);
         
         const fullText = await readPdfContent(filePath);
         if (!fullText || fullText.trim().length < 50) {
@@ -144,29 +148,38 @@ async function processAllPdfs() {
                     data.questoes.push(q);
                     totalExtracted++;
                     console.log(`      ✅ #${q.id}: ${q.enunciado.substring(0, 60)}...`);
+
+                    // Backup a cada 100 questões (conforme solicitado pelo usuário)
+                    if (totalExtracted % 100 === 0 && totalExtracted !== lastBackupCount) {
+                        const versionedBackup = path.join(__dirname, '..', 'data', `backup_questoes_antigas_${totalExtracted}.json`);
+                        fs.writeFileSync(versionedBackup, JSON.stringify(data, null, 2));
+                        fs.writeFileSync(BACKUP_JSON, JSON.stringify(data, null, 2));
+                        console.log(`      🛡️  Backup de ELITE realizado (Questão ${totalExtracted}). Arquivo: ${path.basename(versionedBackup)}`);
+                        lastBackupCount = totalExtracted;
+                    }
                 });
                 if (valid.length === 0) console.log("      ⏭️  Nenhuma questão objetiva neste bloco.");
             }
 
-            // RPM Safety: 5 RPM = 1 req / 12s. Usando 15s de margem.
+            // RPM Safety: 15 RPM = 1 req / 4s. Usando 35s para evitar picos e cotas de tokens.
             if (bi < blocks.length - 1) {
-                console.log("      ⏱️  Aguardando 15s...");
-                await new Promise(r => setTimeout(r, 15000));
+                console.log("      ⏱️  Aguardando 35s...");
+                await new Promise(r => setTimeout(r, 35000));
             }
         }
 
         // Salva progresso a cada arquivo
         fs.writeFileSync(OUTPUT_JSON, JSON.stringify(data, null, 2));
-        console.log(`   💾 Progresso salvo. Total até agora: ${data.questoes.length} questões.`);
+        console.log(`   💾 Progresso salvo no JSON mestre.`);
 
-        // Delay entre arquivos
-        if (fi < files.length - 1) {
-            console.log("   ⏱️  Aguardando 15s antes do próximo arquivo...");
-            await new Promise(r => setTimeout(r, 15000));
+        if (fi < allFiles.length - 1) {
+            console.log("   ⏱️  Aguardando 20s antes do próximo arquivo...");
+            await new Promise(r => setTimeout(r, 20000));
         }
     }
 
-    console.log(`\n✨ CONCLUÍDO! ${totalExtracted} questões novas extraídas. Total na base: ${data.questoes.length}`);
+
+    console.log(`\n✨ RECUPERAÇÃO CONCLUÍDA! ${totalExtracted} questões restauradas.`);
 }
 
-processAllPdfs();
+runRecovery();

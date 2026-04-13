@@ -13,6 +13,7 @@
 
 const functions = require('firebase-functions');
 const admin = require('firebase-admin');
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 if (!admin.apps.length) {
   admin.initializeApp();
@@ -687,3 +688,128 @@ exports.stripeEmailAccessGrant = functions.region('southamerica-east1').https.on
     res.status(500).send('Handler error');
   }
 });
+
+exports.geminiSupport = functions
+  .runWith({ secrets: ['GEMINI_API_KEY'] })
+  .region('southamerica-east1')
+  .https.onRequest(async (req, res) => {
+    res.set('Access-Control-Allow-Origin', '*');
+    res.set('Access-Control-Allow-Methods', 'POST, OPTIONS');
+    res.set('Access-Control-Allow-Headers', 'Content-Type');
+
+    if (req.method === 'OPTIONS') {
+      res.status(204).send('');
+      return;
+    }
+
+    if (req.method !== 'POST') {
+      res.status(405).json({ error: 'Method Not Allowed' });
+      return;
+    }
+
+    try {
+      const db = admin.firestore();
+      const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress || 'unknown';
+      const ipKey = String(ip).split(',')[0].trim().replace(/\./g, '_').replace(/:/g, '_');
+      
+      const now = Date.now();
+      const oneHourAgo = now - 3600000;
+
+      // Acceptance Policy: userId is required and must not be Trial/Gratuito
+      const { userId, prompt } = req.body;
+      if (!userId) {
+        res.status(401).json({ error: 'Acesso negado: Login necessário.' });
+        return;
+      }
+
+      const userDoc = await db.collection('users').doc(userId).get();
+      if (!userDoc.exists) {
+        res.status(401).json({ error: 'Usuário não encontrado.' });
+        return;
+      }
+
+      const userData = userDoc.data();
+      const isFree = !userData.plano || userData.plano === 'gratuito' || userData.plano === 'trial';
+      if (isFree) {
+        res.status(403).json({ error: 'O suporte via IA é exclusivo para membros Premium/Plus.' });
+        return;
+      }
+      
+      // Abuse Prevention: Rate limit by IP (5 req/hour)
+      const limitRef = db.collection('ai_usage_tracking').doc(ipKey);
+      const limitSnap = await limitRef.get();
+      let usage = limitSnap.exists ? limitSnap.data() : { hits: [] };
+      
+      usage.hits = (usage.hits || []).filter(ts => ts > oneHourAgo);
+      
+      if (usage.hits.length >= 5) {
+        res.status(429).json({ error: 'Limite de uso atingido (5/hora). Aguarde para continuar.' });
+        return;
+      }
+
+      const apiKey = process.env.GEMINI_API_KEY;
+      if (!apiKey) throw new Error('Secret GEMINI_API_KEY não configurado.');
+
+      const genAI = new GoogleGenerativeAI(apiKey);
+      const modelsToTry = ['gemini-2.5-flash', 'gemini-3-flash', 'gemini-3.1-flash-lite', 'gemini-2.5-flash-lite'];
+      let lastError = null;
+      let responseText = null;
+
+      const systemPrompt = `Você é o "Monitor de Elite" do MedGradPlus (suporte oficial).
+PERSONALIDADE: Profissional, acolhedor, focado em alta performance acadêmica.
+CONTEXTO DO APP:
+- Módulo 1 (Fundamentos/SUS): Disciplinas [sus, semiologia1, bmf1, pmh, pe1]
+- Módulo 2 (Cardio/Respi): Disciplinas [bmf2, semiologia2, mad1, bcm1, indicadores, ds]
+- Módulo 3 (Gastro/Renal/Pato): Disciplinas [bmf3, semiologia3, mad2, fisiopato3, saude_trabalhador, pe3]
+- Módulo 4 (Neuro/Endócrino): Disciplinas [bmf4, semiologia4, fisiopato_farmaco, bioestatistica, pe4]
+- Módulo 5 (Clínica/Farmaco): Disciplinas [clinica_medica5, clinica_cirurgica5, farmaco_aplicada]
+- Módulo 6 (Clínica Avançada): Disciplinas [clinica_medica6, mfc6, cirurgia_ortopedia, tecnica_operatoria]
+
+REGRAS DE NAVEGAÇÃO (MUITO IMPORTANTE):
+Sempre que um aluno pedir para ver uma matéria ou seção, forneça um link no formato markdown: [Nome](#hash).
+Padronize os hashes assim:
+- Materiais: #materials:ID_DA_MATERIA
+- Questões/Simulado: #quiz:ID_DA_MATERIA
+- Flashcards: #cards:ID_DA_MATERIA
+- Anatomia: #anatomy_hist:anatomy
+- Histologia: #anatomy_hist:histology
+
+EXEMPLO: "Claro! [Clique aqui para abrir o Material de BMF3](#materials:bmf3) e focar em **Renal**."
+
+INSTRUÇÕES FINAIS:
+- Use **negrito** (estilo Elite Bolding) para destacar termos médicos, conceitos-chave e nomes de órgãos/doenças.
+- Se não souber algo, direcione para o suporte via WhatsApp (Botão no Perfil).
+- Nunca invente matérias que não estão na lista acima.
+- Responda sempre em Português do Brasil.`;
+
+      for (const modelName of modelsToTry) {
+        try {
+          const model = genAI.getGenerativeModel({ model: modelName, systemInstruction: systemPrompt });
+          const prompt = req.body.prompt || 'Olá';
+          const result = await model.generateContent(prompt);
+          responseText = result.response.text();
+          if (responseText) break;
+        } catch (err) {
+          console.warn(`Falha no modelo ${modelName}, tentando próximo...`, err.message);
+          lastError = err;
+          // Continua para o próximo modelo se for erro de cota ou modelo não encontrado
+          if (err.message.includes('429') || err.message.includes('quota') || err.message.includes('404')) continue;
+          else break;
+        }
+      }
+
+      if (!responseText) {
+        throw new Error('Todos os modelos de IA falharam: ' + (lastError?.message || 'Erro desconhecido'));
+      }
+
+      // Record successful hit
+      usage.hits.push(now);
+      await limitRef.set(usage);
+
+      res.json({ response: responseText });
+    } catch (e) {
+      console.error('geminiSupport error:', e);
+      // Mensagem amigável para o usuário final em vez de erro técnico
+      res.status(500).json({ error: 'Estamos com uma instabilidade momentânea nos serviços de IA. Por favor, tente novamente em alguns instantes.' });
+    }
+  });

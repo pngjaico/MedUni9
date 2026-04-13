@@ -49323,6 +49323,586 @@
         "extra"
       ],
       "id": 11910
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "A matriz ssea Ǹ composta por uma parte orgǽnica, rica em {{c1::Colǭgeno Tipo I}}, e uma parte inorgǽnica de {{c2::Hidroxiapatita de Cǭlcio}}.",
+      "verso": "Colǭgeno Tipo I; Hidroxiapatita de Cǭlcio",
+      "explicacao": "O colǭgeno garante flexibilidade e resistǦncia  traǜo, enquanto os cristais de hidroxiapatita conferem dureza e resistǦncia  compressǜo.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11911
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "O {{c1::Osteoblasto}} Ǹ a cǸlula responsǭvel por sintetizar a matriz ssea, enquanto o {{c2::Osteoclasto}} reabsorve o tecido Ǹm processos de remodelaǜo.",
+      "verso": "Osteoblasto; Osteoclasto",
+      "explicacao": "Pense no Blasto como o 'Construtor' e no Clasto como o 'Demolidor'. O equilbrio entre ambos mantǸm a homeostase Ǹssea.",
+      "dificuldade": 1,
+      "categoria": "cloze",
+      "id": 11912
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "No osso compacto, o canal que corre paralelamente ao longo eixo do osso Ǹ o Canal de {{c1::Havers}}, cercado por lamelas concǦntricas.",
+      "verso": "Canal de Havers",
+      "explicacao": "Os Canais de Havers sǜo verticais. Eles sǜo conectados entre si e com o peristeo pelos Canais de Volkmann (transversais).",
+      "dificuldade": 2,
+      "categoria": "prova",
+      "id": 11913
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "A ossificaǜo que utiliza um molde de cartilagem hialina como base Ǹ chamada de {{c1::Endocondral}}.",
+      "verso": "Endocondral",
+      "explicacao": "Comum em ossos longos (ex: fǦmur). A ossificaǜo intramembranosa ocorre direto no tecido conjuntivo, sem molde (ex: crǽnio).",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11914
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "A falta de vitamina D e cǭlcio leva  mineralizaǜo inadequada do osso, resultando em {{c1::Raquitismo}} em crianas e {{c2::Osteomalǭcia}} em adultos.",
+      "verso": "Raquitismo; Osteomalǭcia",
+      "explicacao": "Nessas fixaes, a matriz orgǽnica Ǹ produzida, mas nǜo Ǹ endurecida pelos cristais, deixando o osso 'mole' e deformǭvel.",
+      "dificuldade": 2,
+      "categoria": "clinica",
+      "id": 11915
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "O hormnio que estimula a reabsorǜo Ǹssea pelos osteoclastos para elevar o cǭlcio sanguneo Ǹ o {{c1::PTH (Paratormnio)}}.",
+      "verso": "PTH (Paratormnio)",
+      "explicacao": "O PTH 'saca' cǭlcio do banco Ǹsseo. A Calcitonina, por outro lado, inibe os osteoclastos e favorece a deposiǜo.",
+      "dificuldade": 3,
+      "categoria": "prova",
+      "id": 11916
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "O {{c1::Ostecito::CǸlula}} Ǹ um osteoblasto que ficou aprisionado em lacunas da matriz e agora atua como sensor de estresse mecǽnico.",
+      "verso": "Ostecito",
+      "explicacao": "Eles se comunicam por canalculos via 'gap junctions', mantendo a vitalidade da matriz Ǹssea circundante.",
+      "dificuldade": 2,
+      "id": 11917
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "Diferente das outras cǸlulas Ǹsseas, o Osteoclasto deriva da linhagem {{c1::Monocitǭria-Macrofǭgica}} do sangue perifǸrico.",
+      "verso": "Monocitǭria-Macrofǭgica",
+      "explicacao": "Isso explica seu carǭter multinucleado (fusǜo de vǭrios moncitos) e sua funǜo absortiva/clǭstica.",
+      "dificuldade": 3,
+      "id": 11918
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "A camada de tecido conjuntivo que reveste a superfcie externa do osso e Ǹ responsǭvel pela nutriǜo e crescimento em espessura Ǹ o {{c1::Peristeo}}.",
+      "verso": "Peristeo",
+      "explicacao": "Possui duas camadas: fibrosa externa e osteogǦnica interna (com cǸlulas-tronco).",
+      "dificuldade": 1,
+      "id": 11919
+    },
+    {
+      "materia": "bmf1",
+      "tema": "bmf1_a5",
+      "frente": "Na consolidaǜo de fraturas, a formaǜo do {{c1::Calo Ósseo::Tipo de calo}} duro Ǹ o resultado da atividade dos osteoblastos substituindo o calo fibrocartilaginoso.",
+      "verso": "Calo Ósseo",
+      "explicacao": "O processo mimetiza a ossificaǜo endocondral durante o reparo tecidual.",
+      "dificuldade": 2,
+      "id": 11920
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A 1ª bulha cardíaca (B1), ouvida no 'Tum', corresponde ao fechamento das valvas {{c1::Atrioventriculares (Mitral e Tricúspide)}}.",
+      "verso": "Atrioventriculares (Mitral e Tricúspide)",
+      "explicacao": "B1 marca o início da sístole ventricular. O fechamento dessas valvas impede o refluxo de sangue para os átrios.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11921
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A 2ª bulha cardíaca (B2), ouvida no 'Tá', corresponde ao fechamento das valvas {{c1::Semilunares (Aórtica e Pulmonar)}}.",
+      "verso": "Semilunares (Aórtica e Pulmonar)",
+      "explicacao": "B2 marca o início da diástole ventricular. O fechamento ocorre quando a pressão nas artérias supera a pressão nos ventrículos ao final da ejeção.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11922
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "Na fase de {{c1::Contração Isovolumétrica}}, os ventrículos estão cheios de sangue, todas as valvas estão fechadas e a pressão interna sobe bruscamente.",
+      "verso": "Contração Isovolumétrica",
+      "explicacao": "É 'isovolumétrica' porque o volume não muda (valvas fechadas), mas a pressão dispara para vencer a resistência da aorta/pulmonar.",
+      "dificuldade": 2,
+      "categoria": "prova",
+      "id": 11923
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A sístole atrial é responsável por cerca de {{c1::20%::porcentagem}} do enchimento ventricular final em condições de repouso.",
+      "verso": "20%",
+      "explicacao": "A maior parte do enchimento (80%) ocorre passivamente antes mesmo da contração do átrio.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11924
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "O Débito Cardíaco (DC) é o volume de sangue ejetado por minuto e é calculado pelo produto do {{c1::Volume Sistólico (VS)}} pela {{c2::Frequência Cardíaca (FC)}}.",
+      "verso": "VS (Volume Sistólico) x FC (Frequência Cardíaca)",
+      "explicacao": "DC = VS x FC. Se o coração bate mais rápido ou ejeta mais sangue por batida, o débito aumenta.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11925
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A valva que separa o átrio esquerdo do ventrículo esquerdo e possui apenas dois folhetos é a valva {{c1::Mitral (Bicúspide)}}.",
+      "verso": "Mitral (Bicúspide)",
+      "explicacao": "É a única valva cardíaca com dois folhetos principais; as demais (tricúspide, aórtica, pulmonar) possuem três.",
+      "dificuldade": 1,
+      "id": 11926
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A fase em que os ventrículos relaxam com todas as valvas fechadas, fazendo a pressão interna cair rapidamente, é o {{c1::Relaxamento Isovolumétrico}}.",
+      "verso": "Relaxamento Isovolumétrico",
+      "explicacao": "Ocorre logo após o fechamento das valvas semilunares (B2) e antes da abertura das atrioventriculares.",
+      "dificuldade": 2,
+      "id": 11927
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "A abertura da valva aórtica ocorre quando a pressão no ventrículo esquerdo se torna {{c1::maior::maior/menor}} do que a pressão na aorta.",
+      "verso": "maior",
+      "explicacao": "Esse gradiente de pressão é o que empurra a valva para abrir, permitindo a fase de ejeção.",
+      "dificuldade": 1,
+      "id": 11928
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "O Volume Sistólico Final (VSF) é a quantidade de sangue que permanece no ventrículo ao {{c1::final da ejeção/sístole}}.",
+      "verso": "final da ejeção/sístole",
+      "explicacao": "O coração nunca esvazia completamente; o VSF é o volume residuário após o batimento.",
+      "dificuldade": 2,
+      "id": 11929
+    },
+    {
+      "materia": "bmf2",
+      "tema": "bmf2_a4",
+      "frente": "O fechamento das valvas cardíacas é um processo passivo causado pelo {{c1::refluxo retrógrado do sangue}} contra os folhetos.",
+      "verso": "refluxo retrógrado do sangue",
+      "explicacao": "Quando o sangue tenta voltar pelo gradiente de pressão, ele 'infla' e fecha as valvas como paraquedas.",
+      "dificuldade": 3,
+      "id": 11930
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "A barreira de filtração glomerular é composta por três camadas: o endotélio fenestrado, a lâmina basal e os {{c1::pedicelos dos podócitos}}.",
+      "verso": "pedicelos dos podócitos",
+      "explicacao": "Os pedicelos formam fendas de filtração que impedem a passagem de proteínas de grande peso molecular (como a albumina).",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11931
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "O Túbulo Contorcido Proximal (TPC) é o local onde ocorre a reabsorção de cerca de {{c1::100%::porcentagem}} da glicose e dos aminoácidos filtrados.",
+      "verso": "100%",
+      "explicacao": "Em condições normais, não deve haver glicose na urina, pois ela é totalmente reabsorvida no início do néfron via SGLT2/SGLT1.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11932
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "A especialização de membrana característica do TPC, que garante uma vasta área para reabsorção, é a {{c1::borda em escova (microvilosidades)}}.",
+      "verso": "borda em escova (microvilosidades)",
+      "explicacao": "Histologicamente, o TPC tem luz 'suja' (pela borda em escova), enquanto o TPD tem luz nítida.",
+      "dificuldade": 2,
+      "categoria": "histologia",
+      "id": 11933
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "O Hormônio Antidiurético (ADH) atua no ducto coletor promovendo a inserção de canais de {{c1::Aquaporinas (AQP2)}} na membrana apical.",
+      "verso": "Aquaporinas (AQP2)",
+      "explicacao": "Isso torna o ducto permeável à água, permitindo que ela seja reabsorvida para o interstício medular hipertônico.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11934
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "A {{c1::Mácula Densa}} é um grupo de células especializadas no final da alça de Henle que detectam a concentração de {{c2::NaCl}} no líquido tubular.",
+      "verso": "Mácula Densa / NaCl",
+      "explicacao": "Ela faz parte do Aparelho Justaglomerular e regula a taxa de filtração via feedback túbulo-glomerular.",
+      "dificuldade": 3,
+      "categoria": "controle",
+      "id": 11935
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "As células do néfron que secretam Renina em resposta à queda da pressão arterial são as células {{c1::Justaglomerulares}} da arteríola aferente.",
+      "verso": "Justaglomerulares",
+      "explicacao": "São miócitos lisos modificados que agem como barorreceptores e recebem sinais da mácula densa.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11936
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "A Aldosterona atua principalmente no {{c1::Túbulo Contorcido Distal}} e no Ducto Coletor, promovendo a reabsorção de {{c2::Sódio (Na+)}}.",
+      "verso": "Túbulo Contorcido Distal / Sódio (Na+)",
+      "explicacao": "O sódio é reabsorvido em troca da secreção de potássio ou íons hidrogênio.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11937
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "O segmento do néfron que é altamente permeável à água, mas impermeável a solutos, é o {{c1::segm. descendente fino da alça de Henle}}.",
+      "verso": "segm. descendente fino da alça de Henle",
+      "explicacao": "Isso permite que a urina se torne mais concentrada à medida que descende para a medula renal.",
+      "dificuldade": 3,
+      "id": 11938
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "O transportador de íons alvo dos diuréticos de alça (como a furosemida) no ramo ascendente espesso é o {{c1::NKCC2 (Na+/K+/2Cl-)}}.",
+      "verso": "NKCC2 (Na+/K+/2Cl-)",
+      "explicacao": "O bloqueio deste transportador impede a criação do gradiente medular, levando a uma diurese intensa.",
+      "dificuldade": 3,
+      "id": 11939
+    },
+    {
+      "materia": "bmf3",
+      "tema": "bmf3_a11",
+      "frente": "As células {{c1::Mesangiais}} localizadas entre as alças capilares glomerulares têm função de suporte e capacidade contrátil.",
+      "verso": "Mesangiais",
+      "explicacao": "Elas também possuem atividade fagocítica, ajudando na limpeza da lâmina basal glomerular.",
+      "dificuldade": 2,
+      "id": 11940
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A neuro-hipófise não sintetiza hormônios; ela armazena e libera o ADH e a {{c1::Ocitocina}} produzidos no hipotálamo.",
+      "verso": "Ocitocina",
+      "explicacao": "Os hormônios são produzidos nos núcleos supraóptico e paraventricular do hipotálamo e transportados via axônios para a neuro-hipófise.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11941
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "Na glândula tireoide, as células {{c1::Parafoliculares (Células C)}} são responsáveis pela síntese e secreção de Calcitonina.",
+      "verso": "Parafoliculares (Células C)",
+      "explicacao": "A calcitonia ajuda a reduzir os níveis de cálcio no sangue, inibindo a reabsorção óssea pelos osteoclastos.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11942
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "As paratireoides possuem as {{c1::Células Principais}}, que secretam o PTH (Paratormônio) em resposta à hipocalcemia.",
+      "verso": "Células Principais",
+      "explicacao": "O PTH aumenta a calcemia via reabsorção óssea, reabsorção renal de cálcio e ativação da Vitamina D.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11943
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A zona mais externa do córtex adrenal, que secreta mineralocorticoides como a Aldosterona, é a {{c1::Zona Glomerulosa}}.",
+      "verso": "Zona Glomerulosa",
+      "explicacao": "Lembre-se da regra GFR: Glomerulosa (Sal), Fasciculada (Açúcar), Reticulada (Sexo).",
+      "dificuldade": 1,
+      "categoria": "anatomia",
+      "id": 11944
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A {{c1::Zona Fasciculada}} é a camada intermédia do córtex adrenal e o local principal de produção de glicocorticoides (ex: Cortisol).",
+      "verso": "Zona Fasciculada",
+      "explicacao": "Suas células são chamadas de espongiócitos devido à grande quantidade de gotículas lipídicas (precursores de esteroides).",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11945
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A medula da glândula adrenal é composta por células {{c1::Cromafins}}, que secretam Adrenalina e Noradrenalina.",
+      "verso": "Cromafins",
+      "explicacao": "Essas células funcionam como neurônios pós-ganglionares modificados do sistema nervoso simpático.",
+      "dificuldade": 3,
+      "categoria": "mecanismo",
+      "id": 11946
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "No pâncreas endócrino (Ilhotas de Langerhans), as células {{c1::Beta}} são a maioria e produzem a {{c2::Insulina}}.",
+      "verso": "Beta / Insulina",
+      "explicacao": "As células alfa (Glucagon) e delta (Somatostatina) completam os tipos celulares principais das ilhotas.",
+      "dificuldade": 1,
+      "categoria": "mecanismo",
+      "id": 11947
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A adeno-hipófise secreta o hormônio {{c1::TSH}} para estimular a tireoide e o {{c2::ACTH}} para estimular o córtex adrenal.",
+      "verso": "TSH / ACTH",
+      "explicacao": "Ambos são produzidos por células basófilas da pars distalis.",
+      "dificuldade": 2,
+      "categoria": "controle",
+      "id": 11948
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "Os hormônios T3 e T4 são armazenados na tireoide como parte da molécula de {{c1::Tireoglobulina}}, dentro dos folículos.",
+      "verso": "Tireoglobulina",
+      "explicacao": "O coloide é composto majoritariamente por tireoglobulina iodada.",
+      "dificuldade": 2,
+      "id": 11949
+    },
+    {
+      "materia": "bmf4",
+      "tema": "bmf4_a18",
+      "frente": "A glândula {{c1::Pineal::glândula}} é responsável pela secreção de Melatonina em resposta à ausência de luz.",
+      "verso": "Pineal",
+      "explicacao": "Ela regula o ciclo circadiano e possui os 'corpúsculos arenáceos' (areia cerebral) como marcadores radiológicos.",
+      "dificuldade": 2,
+      "id": 11950
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "A {{c1::Farmacocinética}} foca no que o organismo faz com o fármaco (ADME), enquanto a Farmacodinâmica foca no efeito do fármaco no organismo.",
+      "verso": "Farmacocinética",
+      "explicacao": "O acrônimo ADME resume os processos cinéticos: Absorção, Distribuição, Metabolismo e Excreção.",
+      "dificuldade": 1,
+      "categoria": "conceito",
+      "id": 11951
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "A fração de fármaco inalterado que atinge a circulação sistêmica após a administração é denominada {{c1::Biodisponibilidade}}.",
+      "verso": "Biodisponibilidade",
+      "explicacao": "Por definição, a biodisponibilidade da via intravenosa (IV) é 100%.",
+      "dificuldade": 1,
+      "categoria": "conceito",
+      "id": 11952
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "O {{c1::Efeito de Primeira Passagem}} é o fenômeno em que a concentração do fármaco é reduzida pelo metabolismo hepático antes de atingir a circulação sistêmica.",
+      "verso": "Efeito de Primeira Passagem",
+      "explicacao": "Este efeito é muito significativo na via oral, mas evitado nas vias sublingual e intravenosa.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11953
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "Para atravessar as membranas por difusão passiva, os fármacos devem ser preferencialmente {{c1::Lipossolúveis}} e estar na forma {{c2::Não ionizada}}.",
+      "verso": "Lipossolúveis / Não ionizada",
+      "explicacao": "Moléculas polares ou ionizadas têm dificuldade de atravessar a barreira lipídica das membranas celulares.",
+      "dificuldade": 2,
+      "categoria": "mecanismo",
+      "id": 11954
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "A principal proteína plasmática à qual os fármacos de caráter ácido se ligam é a {{c1::Albumina}}.",
+      "verso": "Albumina",
+      "explicacao": "Somente a fração livre (não ligada) do fármaco é capaz de atravessar membranas e exercer efeito farmacológico.",
+      "dificuldade": 2,
+      "categoria": "distribuicao",
+      "id": 11955
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "As reações de fase I do metabolismo hepático (oxidação, redução, hidrólise) são realizadas principalmente pelo complexo enzimático {{c1::Citocromo P450 (CYP450)}}.",
+      "verso": "Citocromo P450 (CYP450)",
+      "explicacao": "Estas reações tornam o fármaco mais polar (hidrossolúvel) para facilitar a excreção renal.",
+      "dificuldade": 2,
+      "categoria": "metabolismo",
+      "id": 11956
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "O tempo necessário para que a concentração plasmática de um fármaco caia para 50% do seu valor inicial é a {{c1::Meia-vida (t 1/2)}}.",
+      "verso": "Meia-vida (t 1/2)",
+      "explicacao": "Este parâmetro é essencial para determinar o intervalo entre as doses (posologia).",
+      "dificuldade": 1,
+      "categoria": "conceito",
+      "id": 11957
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "Fármacos {{c1::Hidrossolúveis}} são excretados pelos rins com maior facilidade, enquanto os lipossolúveis tendem a ser reabsorvidos nos túbulos renais.",
+      "verso": "Hidrossolúveis",
+      "explicacao": "Por isso, o fígado atua biotransformando compostos lipofílicos em hidrofílicos.",
+      "dificuldade": 3,
+      "id": 11958
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "Diz-se que dois produtos farmacêuticos são {{c1::Bioequivalentes}} quando apresentam a mesma biodisponibilidade após administração na mesma dose.",
+      "verso": "Bioequivalentes",
+      "explicacao": "Este é o critério básico para a aprovação de medicamentos genéricos.",
+      "dificuldade": 2,
+      "id": 11959
+    },
+    {
+      "materia": "farmaco_aplicada",
+      "tema": "farmaco_aplicada_a1",
+      "frente": "O volume aparente de líquido no qual a dose do fármaco teria que ser dissolvida para atingir a concentração plasmática é o {{c1::Volume de Distribuição (Vd)}}.",
+      "verso": "Volume de Distribuição (Vd)",
+      "explicacao": "Um Vd alto indica que o fármaco está amplamente distribuído nos tecidos per extravasculares.",
+      "dificuldade": 3,
+      "id": 11960
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "O termo {{c1::Antissepsia}} refere-se à desinfecção de tecidos vivos (pele, mucosa) por meio de agentes químicos.",
+      "verso": "Antissepsia",
+      "explicacao": "É o processo que visa reduzir ou inibir o crescimento de microrganismos na superfície do corpo.",
+      "dificuldade": 1,
+      "categoria": "conceito",
+      "id": 11961
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "A {{c1::Assepsia}} é o conjunto de técnicas utilizadas para impedir que um local ou objeto seja contaminado por germes patogênicos.",
+      "verso": "Assepsia",
+      "explicacao": "Enquanto a antissepsia atua sobre o tecido, a assepsia é a manutenção do meio estéril (ex: paramentação).",
+      "dificuldade": 2,
+      "categoria": "conceito",
+      "id": 11962
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Diferente da desinfecção, o processo de {{c1::Esterilização}} é capaz de destruir todas as formas de vida, inclusive os {{c2::Esporos bacterianos}}.",
+      "verso": "Esterilização / Esporos bacterianos",
+      "explicacao": "É mandatória para materiais críticos (que entram em contato com tecidos estéreis).",
+      "dificuldade": 2,
+      "categoria": "conceito",
+      "id": 11963
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "O antisséptico conhecido por seu excelente efeito residual e baixa interferência com matéria orgânica é a {{c1::Clorexidina (0,5% a 4%)}}.",
+      "verso": "Clorexidina (0,5% a 4%)",
+      "explicacao": "Seu uso é muito comum na degermação das mãos e preparo do campo operatório.",
+      "dificuldade": 2,
+      "categoria": "agente",
+      "id": 11964
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "O Álcool {{c1::70%::porcentagem}} é a concentração ideal para desinfecção e antissepsia, pois a presença de água facilita a penetração e desnaturação proteica.",
+      "verso": "70%",
+      "explicacao": "O álcool puro (absoluto) desidrata a parede celular muito rápido, criando uma barreira que impede a morte do germe.",
+      "dificuldade": 1,
+      "categoria": "agente",
+      "id": 11965
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "O antisséptico iodado {{c1::PVPI (Iodopovidona)}} pode causar reações em pacientes alérgicos ao iodo ou com problemas tireoidianos.",
+      "verso": "PVPI (Iodopovidona)",
+      "explicacao": "Possui ação contra bactérias, fungos e vírus, mas seu efeito residual é menor que o da clorexidina.",
+      "dificuldade": 1,
+      "categoria": "agente",
+      "id": 11966
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "A {{c1::Degermação}} é a remoção física de detritos e microrganismos da pele através da escovação com água e sabão/detergente.",
+      "verso": "Degermação",
+      "explicacao": "É o primeiro passo da preparação do cirurgião no lavabo.",
+      "dificuldade": 3,
+      "categoria": "tecnica",
+      "id": 11967
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "O método de esterilização física por calor úmido, saturado e sob pressão é realizado em um aparelho chamado {{c1::Autoclave}}.",
+      "verso": "Autoclave",
+      "explicacao": "Os parâmetros padrão costumam ser 121°C por 15-30 minutos ou 134°C por menor tempo.",
+      "dificuldade": 1,
+      "id": 11968
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Para a esterilização de materiais termossensíveis (que derreteriam no calor), o método químico gasoso de escolha é o {{c1::Óxido de Etileno}}.",
+      "verso": "Óxido de Etileno",
+      "explicacao": "É um método eficaz, mas exige aeração prolongada devido à sua toxicidade.",
+      "dificuldade": 3,
+      "id": 11969
+    },
+    {
+      "materia": "tecnica_operatoria",
+      "tema": "tcar_a1",
+      "frente": "Na técnica de degermação das mãos, o tempo total de contato com o antisséptico deve ser de no mínimo {{c1::3 a 5}} minutos na primeira cirurgia.",
+      "verso": "3 a 5",
+      "explicacao": "Esse tempo garante a eliminação da flora transitória e redução da flora residente.",
+      "dificuldade": 2,
+      "id": 11970
     }
   ]
 }
