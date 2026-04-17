@@ -41,9 +41,10 @@ const MIME = {
   .forEach(dir => fs.mkdirSync(dir, { recursive: true }));
 
 function cors(res) {
-  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3001');
   res.setHeader('Access-Control-Allow-Methods', 'GET, PUT, POST, OPTIONS');
   res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+  res.setHeader('Vary', 'Origin');
 }
 
 function json(res, code, obj) {
@@ -443,7 +444,7 @@ process.on('unhandledRejection', (reason) => {
   console.error('Unhandled rejection (server kept alive):', reason);
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, '127.0.0.1', () => {
   console.log('\n┌─────────────────────────────────────────────┐');
   console.log(`│  MedGrad+ Local Server                       │`);
   console.log(`│  App:   http://localhost:${PORT}/              │`);
