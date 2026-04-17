@@ -62049,6 +62049,206 @@
         "C": "Incorreta: O álcool isoladamente tem baixo efeito residual e não é o ideal para grandes incisões.",
         "D": "Incorreta: Fraco poder antisséptico para cirurgias de grande porte; irritante para tecidos."
       }
+    },
+    {
+      "id": 2922,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 1,
+      "enunciado": "No modelo de determinantes sociais de saúde proposto por Dahlgren e Whitehead, amplamente utilizado no SUS, os fatores são organizados em camadas concêntricas. Qual das alternativas descreve corretamente um determinante estrutural (macrodeterminante) localizado na camada mais externa?",
+      "opcoes": [
+        "A) Estilos de vida dos indivíduos.",
+        "B) Condições socioeconômicas, culturais e ambientais gerais.",
+        "C) Redes sociais e comunitárias.",
+        "D) Idade, sexo e fatores hereditários."
+      ],
+      "explicacao_geral": "O modelo de Dahlgren e Whitehead organiza os DSS em camadas, da micro (biológica) à macro (estrutural).",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Estilos de vida estão na segunda camada, mais próxima do indivíduo.",
+        "B": "Correta: A camada mais externa envolve as condições macroestruturais da sociedade.",
+        "C": "Incorreta: Redes sociais estão na camada intermediária.",
+        "D": "Incorreta: Fatores biológicos são o núcleo do modelo, não a camada externa."
+      },
+      "essencial": true,
+      "caso_clinico": false
+    },
+    {
+      "id": 2923,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 0,
+      "enunciado": "Um médico de família orienta uma paciente de 30 anos sobre a importância da vacinação contra o HPV e da prática regular de exercícios físicos para evitar doenças crônicas futuras. Segundo o modelo de Leavell e Clark, essas ações são classificadas como:",
+      "opcoes": [
+        "A) Prevenção Primária (Promoção da Saúde e Proteção Específica).",
+        "B) Prevenção Secundária (Diagnóstico Precoce).",
+        "C) Prevenção Terciária (Reabilitação).",
+        "D) Prevenção Quaternária (Evitar danos iatrogênicos)."
+      ],
+      "explicacao_geral": "A prevenção primária atua no período pré-patogênico, antes da doença se instalar.",
+      "explicacoes_opcoes": {
+        "A": "Correta: Vacina (proteção específica) e exercícios (promoção) são prevenção primária.",
+        "B": "Incorreta: A prevenção secundária ocorre quando a doença já existe, mas está no início.",
+        "C": "Incorreta: Terciária foca em reduzir sequelas de doenças avançadas.",
+        "D": "Incorreta: Quaternária visa proteger o paciente de intervenções médicas desnecessárias."
+      },
+      "essencial": true,
+      "caso_clinico": true
+    },
+    {
+      "id": 2924,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 1,
+      "correta": 2,
+      "enunciado": "A definição de saúde da OMS (1948) como \"um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença\" é frequentemente criticada na literatura acadêmica de saúde coletiva. Qual é a principal crítica a esse modelo?",
+      "opcoes": [
+        "A) Ela ignora a importância dos fatores biológicos.",
+        "B) Ela foca excessivamente no tratamento de doenças infecciosas.",
+        "C) Ela estabelece uma meta inalcançável e utópica, que pode medicalizar a vida.",
+        "D) Ela não considera o bem-estar social como parte da saúde."
+      ],
+      "explicacao_geral": "O conceito da OMS foi um avanço por ser holístico, mas é criticado por ser estático e idealizado.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Ela inclui o \"físico\", abrangendo o biológico.",
+        "B": "Incorreta: A crítica não é sobre o tipo de doença, mas sobre a definição de \"saúde\".",
+        "C": "Correta: A ideia de \"completo bem-estar\" faz com que quase ninguém seja considerado \"saudável\".",
+        "D": "Incorreta: A definição explicitamente inclui o social."
+      },
+      "essencial": true,
+      "caso_clinico": false
+    },
+    {
+      "id": 2925,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 1,
+      "enunciado": "Ao analisar a prevalência de doenças respiratórias em uma favela onde não há saneamento básico e as casas são pequenas e mal ventiladas, o gestor de saúde está focando em determinantes que a CNDSS classifica como:",
+      "opcoes": [
+        "A) Fatores hereditários inalteráveis.",
+        "B) Condições de vida e de trabalho.",
+        "C) Preferências individuais de lazer.",
+        "D) Apenas falha no acesso a antibióticos."
+      ],
+      "explicacao_geral": "As condições de moradia e saneamento são determinantes sociais intermediários.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Moradia e saneamento são fatores ambientais/sociais, não genéticos.",
+        "B": "Correta: Habitação e saneamento são o cerne das condições de vida que determinam a saúde.",
+        "C": "Incorreta: O cenário descreve falta de infraestrutura, não escolhas de lazer.",
+        "D": "Incorreta: Antibióticos tratam o efeito, os determinantes explicam a causa."
+      },
+      "essencial": true,
+      "caso_clinico": true
+    },
+    {
+      "id": 2926,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 3,
+      "enunciado": "A realização de um exame de Papanicolau (citopatológico de colo de útero) em uma paciente assintomática é um exemplo clássico de qual nível de intervenção segundo a História Natural da Doença?",
+      "opcoes": [
+        "A) Promoção da saúde.",
+        "B) Proteção específica.",
+        "C) Limitação da incapacidade.",
+        "D) Diagnóstico precoce (Prevenção Secundária)."
+      ],
+      "explicacao_geral": "O rastreamento (screening) visa detectar a doença em fase inicial, antes dos sintomas.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Promoção da saúde é genérica (ex: boa alimentação).",
+        "B": "Incorreta: Proteção específica é direcionada (ex: vacina).",
+        "C": "Incorreta: Limitação da incapacidade é o final da prevenção secundária (evitar piora).",
+        "D": "Correta: Exames de rastreio são a base do diagnóstico precoce."
+      },
+      "essencial": true,
+      "caso_clinico": true
+    },
+    {
+      "id": 2927,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 3,
+      "correta": 1,
+      "enunciado": "O conceito de vulnerabilidade na saúde coletiva supera a ideia clássica de \"grupo de risco\" ao considerar três dimensões interdependentes. São elas:",
+      "opcoes": [
+        "A) Biológica, Química e Física.",
+        "B) Individual, Social e Programática (ou Institucional).",
+        "C) Rica, Média e Pobre.",
+        "D) Genética, Ambiental e Comportamental."
+      ],
+      "explicacao_geral": "Vulnerabilidade analisa o contexto total que expõe o indivíduo ao agravo.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: São riscos físicos, não o conceito de vulnerabilidade social.",
+        "B": "Correta: A tríade clássica da vulnerabilidade (Ayres) abrange o sujeito, a sociedade e os serviços.",
+        "C": "Incorreta: Classe social é parte da dimensão social, mas não define a tríade.",
+        "D": "Incorreta: Esta é a visão tradicional dos fatores de risco, não o conceito ampliado."
+      },
+      "essencial": true,
+      "caso_clinico": false
+    },
+    {
+      "id": 2928,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 0,
+      "enunciado": "Na História Natural da Doença, o período que se divide em \"Pré-patogênico\" e \"Patogênico\" define a evolução do agravo. Qual alternativa descreve corretamente a fase de patogênese inicial (ou subclínica)?",
+      "opcoes": [
+        "A) Quando já houve interação estímulo-hospedeiro, mas ainda não há sinais/sintomas claros.",
+        "B) Antes da interação do homem com o agente causador.",
+        "C) Quando o paciente já apresenta sequelas e incapacidade física.",
+        "D) No momento da reabilitação psicossocial."
+      ],
+      "explicacao_geral": "A patogênese começa com a interação estímulo-suscetível.",
+      "explicacoes_opcoes": {
+        "A": "Correta: É a fase em que as alterações já ocorrem no corpo, mas são invisíveis clinicamente.",
+        "B": "Incorreta: Antes da interação é o período pré-patogênico.",
+        "C": "Incorreta: Sequelas ocorrem no estágio avançado da patogênese.",
+        "D": "Incorreta: Reabilitação é prevenção terciária, após a fase clínica aguda."
+      },
+      "essencial": true,
+      "caso_clinico": false
+    },
+    {
+      "id": 2929,
+      "materia": "sus",
+      "aula_id": "sus_a1",
+      "tema": "sus_a1",
+      "modulo": 1,
+      "dificuldade": 2,
+      "correta": 2,
+      "enunciado": "Um paciente que fuma 2 maços de cigarro por dia apresenta um determinante de saúde classificado como \"estilo de vida\". No modelo de DSS, este é considerado um determinante:",
+      "opcoes": [
+        "A) Estrutural (distal).",
+        "B) Inalterável.",
+        "C) Próximo (intermediário).",
+        "D) Programático."
+      ],
+      "explicacao_geral": "Determinantes próximos são comportamentos individuais e condições imediatas.",
+      "explicacoes_opcoes": {
+        "A": "Incorreta: Distal seria a legislação do tabaco ou a economia do país.",
+        "B": "Incorreta: O fumo é um hábito passível de mudança.",
+        "C": "Correta: Estilos de vida são determinantes próximos/individuais.",
+        "D": "Incorreta: Programático refere-se à organização dos serviços de saúde."
+      },
+      "essencial": true,
+      "caso_clinico": true
     }
   ]
 }
