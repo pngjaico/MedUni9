@@ -62073,7 +62073,8 @@
         "D": "Incorreta: Fatores biológicos são o núcleo do modelo, não a camada externa."
       },
       "essencial": true,
-      "caso_clinico": false
+      "caso_clinico": false,
+      "categoria": "inedita"
     },
     {
       "id": 2923,
@@ -62098,7 +62099,8 @@
         "D": "Incorreta: Quaternária visa proteger o paciente de intervenções médicas desnecessárias."
       },
       "essencial": true,
-      "caso_clinico": true
+      "caso_clinico": true,
+      "categoria": "inedita"
     },
     {
       "id": 2924,
@@ -62123,7 +62125,8 @@
         "D": "Incorreta: A definição explicitamente inclui o social."
       },
       "essencial": true,
-      "caso_clinico": false
+      "caso_clinico": false,
+      "categoria": "inedita"
     },
     {
       "id": 2925,
@@ -62148,7 +62151,8 @@
         "D": "Incorreta: Antibióticos tratam o efeito, os determinantes explicam a causa."
       },
       "essencial": true,
-      "caso_clinico": true
+      "caso_clinico": true,
+      "categoria": "inedita"
     },
     {
       "id": 2926,
@@ -62173,7 +62177,8 @@
         "D": "Correta: Exames de rastreio são a base do diagnóstico precoce."
       },
       "essencial": true,
-      "caso_clinico": true
+      "caso_clinico": true,
+      "categoria": "inedita"
     },
     {
       "id": 2927,
@@ -62198,7 +62203,8 @@
         "D": "Incorreta: Esta é a visão tradicional dos fatores de risco, não o conceito ampliado."
       },
       "essencial": true,
-      "caso_clinico": false
+      "caso_clinico": false,
+      "categoria": "inedita"
     },
     {
       "id": 2928,
@@ -62223,7 +62229,8 @@
         "D": "Incorreta: Reabilitação é prevenção terciária, após a fase clínica aguda."
       },
       "essencial": true,
-      "caso_clinico": false
+      "caso_clinico": false,
+      "categoria": "inedita"
     },
     {
       "id": 2929,
@@ -62248,7 +62255,8 @@
         "D": "Incorreta: Programático refere-se à organização dos serviços de saúde."
       },
       "essencial": true,
-      "caso_clinico": true
+      "caso_clinico": true,
+      "categoria": "inedita"
     }
   ]
 }

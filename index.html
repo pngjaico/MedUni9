@@ -13118,7 +13118,7 @@
     };
 
     const MedGradPlusApp = () => {
-      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador', 'gradbook', 'antigas'];
+      const VALID_TABS = ['home', 'cards', 'quiz', 'materials', 'feedback', 'about', 'profile', 'anatomy_hist', 'ambassador', 'gradbook'];
       const parseRouteFromHash = () => {
         const raw = window.location.hash.replace(/^#/, '').trim();
         if (raw === 'about-public') {
@@ -13162,6 +13162,7 @@
       const [user, setUser] = useState(null);
       const [routeState, setRouteState] = useState(initialRoute);
       const [currentTab, setCurrentTab] = useState(initialRoute.tab);
+      const [quizMode, setQuizMode] = useState('todas');
       const isAmbassadorUser = !!(user?.ambassadorId || user?.ambassadorVitalicio || user?.couponCode);
       const [darkMode, setDarkMode] = useState(() => {
         const saved = localStorage.getItem('meduni9_theme');
@@ -13603,7 +13604,6 @@
         { id: 'home', label: 'Início', icon: <IconHome /> },
         { id: 'materials', label: 'Materiais', icon: <IconBookOpen /> },
         { id: 'quiz', label: 'Questões', icon: <IconTarget /> },
-        { id: 'antigas', label: <span>Provas Antigas <span className="material-badge" style={{ marginLeft: '4px', verticalAlign: 'middle' }}>BETA</span></span>, icon: <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="4" rx="2" ry="2"/><path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8"/><line x1="10" y1="12" x2="14" y2="12"/></svg> },
         { id: 'cards', label: 'Flashcards', icon: <IconLayers /> },
         { id: 'anatomy_hist', label: <span>Anat. + Hist. <span className="material-badge" style={{ marginLeft: '4px', verticalAlign: 'middle' }}>BETA</span></span>, navTitle: 'Anatomia e histologia', icon: <IconAnatomy /> },
         { id: 'feedback', label: 'Feedback', icon: <IconMessageSquare /> },
@@ -13787,28 +13787,6 @@
               )
             )}
 
-            {currentTab === 'antigas' && (
-              <QuizScreen
-                  title="Provas Antigas"
-                  flashcards={[...questoesAntigas, ...flashcards].filter(card => {
-                    if (isFreeTierUser(user)) return false; // Hide from free tier (optional constraint)
-                    if (!card?.materia) return false;
-                    if (allowedMateriaIds.has(card.materia)) return true;
-                    const fallbackMateria = materias.find((m) => m.id === card.materia);
-                    return fallbackMateria ? hasModuleAccess(user, fallbackMateria.modulo || fallbackMateria.semestre) : false;
-                  })}
-                  materias={[{id: 'todas', nome: 'Todas', icone: '📚', cor: '#00C896'}, ...accessFilteredMaterias]}
-                  selectedMateria={selectedMateria}
-                  onSelectMateria={(materiaId) => {
-                    setSelectedMateria(materiaId);
-                    navigateTo('antigas', { materiaId });
-                  }}
-                  userSemester={user.semestre}
-                  user={user}
-                  initialAulaId={routeState.aulaId}
-              />
-            )}
-
             {currentTab === 'quiz' && (
               accessFilteredMaterias.length === 0 ? (
                 <div className="screen-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '60vh', textAlign: 'center', padding: '40px 24px' }}>
@@ -13826,18 +13804,48 @@
                   </button>
                 </div>
               ) : (
-                <QuizScreen
-                  flashcards={accessFilteredFlashcards}
-                  materias={accessFilteredMaterias}
-                  selectedMateria={selectedMateria}
-                  onSelectMateria={(materiaId) => {
-                    setSelectedMateria(materiaId);
-                    navigateTo('quiz', { materiaId });
-                  }}
-                  userSemester={user.semestre}
-                  user={user}
-                  initialAulaId={routeState.aulaId}
-                />
+                <React.Fragment>
+                  <div style={{ display: 'flex', gap: '8px', padding: '10px 16px', background: 'var(--bg-card)', borderBottom: '1px solid var(--border-card)' }}>
+                    <button
+                      className={'category-tab' + (quizMode === 'essenciais' ? ' active' : '')}
+                      onClick={() => setQuizMode('essenciais')}
+                      style={{ flex: 1 }}
+                    >⭐ Essenciais</button>
+                    <button
+                      className={'category-tab' + (quizMode === 'todas' ? ' active' : '')}
+                      onClick={() => setQuizMode('todas')}
+                      style={{ flex: 1 }}
+                    >📚 Todas</button>
+                  </div>
+                  <QuizScreen
+                    key={quizMode}
+                    flashcards={
+                      quizMode === 'essenciais'
+                        ? accessFilteredFlashcards.filter(c => c.essencial === true)
+                        : [...questoesAntigas, ...accessFilteredFlashcards].filter(card => {
+                            if (isFreeTierUser(user)) return false;
+                            if (!card?.materia) return false;
+                            if (allowedMateriaIds.has(card.materia)) return true;
+                            const fm = materias.find((m) => m.id === card.materia);
+                            return fm ? hasModuleAccess(user, fm.modulo || fm.semestre) : false;
+                          })
+                    }
+                    title={quizMode === 'essenciais' ? 'Essenciais' : 'Todas as Questões'}
+                    materias={
+                      quizMode === 'todas'
+                        ? [{id: 'todas', nome: 'Todas', icone: '📚', cor: '#00C896'}, ...accessFilteredMaterias]
+                        : accessFilteredMaterias
+                    }
+                    selectedMateria={selectedMateria}
+                    onSelectMateria={(materiaId) => {
+                      setSelectedMateria(materiaId);
+                      navigateTo('quiz', { materiaId });
+                    }}
+                    userSemester={user.semestre}
+                    user={user}
+                    initialAulaId={routeState.aulaId}
+                  />
+                </React.Fragment>
               )
             )}
 
