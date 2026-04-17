@@ -4,16 +4,12 @@ node_modules/
 .migration-temp/
 .superpowers/
 $base/
+.gemini/
 
-# Runtime artifacts from local agents/pipelines
-.agents/logs/
-data/agent_logs/prioridades_materiais.json
-data/agent_logs/status_feedback_planos.json
-data/feedback/archived/*.json
-data/feedback/plans/
-data/feedback/processed/
-
-# Firebase service account key (NEVER commit)
+# Secrets — NEVER commit
+.env
+.env.*
+.env.local
 .agents/firebase-sa-key.json
 .agents/firebase-sa-key-OLD.json
 .agents/firebase-sa-key-NEW.json
@@ -24,10 +20,29 @@ chave privada firebase.json
 *service-account*
 *serviceaccount*
 
-# Backups and temporary scripts
+# Runtime artifacts from local agents/pipelines
+.agents/logs/
+data/agent_logs/
+data/feedback/archived/*.json
+data/feedback/plans/
+data/feedback/processed/
+
+# Backups and temporary data
 *.bak
+data/*_backup_*.json
+data/questoes_antigas_backup.json
+
+# Logs
+*.log
+firebase-debug.log
+firestore-debug.log
+
+# Temp/dev scripts
+scripts/temp_*
 scripts/*.json
 scripts/*.ps1
+
+# Dev artifacts in root
 *.cjs
 publicidade_texto.md
 publicidade_visuais.html
