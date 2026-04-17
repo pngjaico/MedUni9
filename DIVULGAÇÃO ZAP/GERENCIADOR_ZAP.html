@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel Evolution API - MedGradPlus</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00C896;
+            --blue: #00B4D8;
+            --dark: #0A1628;
+            --card-bg: #111E2F;
+            --text: #F1F5F9;
+        }
+        body { background-color: #050A14; color: var(--text); font-family: 'DM Sans', sans-serif; padding: 40px; display: flex; flex-direction: column; align-items: center; }
+        .container { width: 100%; max-width: 600px; background: var(--card-bg); padding: 30px; border-radius: 20px; box-shadow: 0 20px 50px rgba(0,0,0,0.5); border: 1px solid rgba(255,255,255,0.05); }
+        h1 { font-family: 'Outfit', sans-serif; font-size: 32px; color: var(--primary); text-align: center; margin-bottom: 20px; }
+        .status-badge { display: inline-block; padding: 5px 15px; border-radius: 100px; font-size: 14px; font-weight: bold; background: rgba(0, 200, 150, 0.1); color: var(--primary); margin-bottom: 20px; }
+        .input-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; font-size: 14px; color: #94A3B8; }
+        input { width: 100%; padding: 12px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.1); background: #0A1628; color: white; box-sizing: border-box; }
+        button { width: 100%; padding: 15px; border: none; border-radius: 10px; background: linear-gradient(90deg, var(--primary), var(--blue)); color: white; font-weight: bold; cursor: pointer; font-size: 16px; margin-top: 10px; }
+        #qr-container { margin-top: 30px; text-align: center; display: none; }
+        #qr-image { background: white; padding: 20px; border-radius: 10px; max-width: 100%; }
+        .log { margin-top: 20px; font-size: 12px; color: #64748B; background: #050A14; padding: 10px; border-radius: 5px; height: 60px; overflow-y: auto; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Painel de Conexão Zap</h1>
+        <div style="text-align: center;">
+            <div class="status-badge" id="api-status">API: Verificando...</div>
+        </div>
+
+        <div class="input-group">
+            <label>Sua Instância (Nome da pasta)</label>
+            <input type="text" id="instance-name" value="MedGradPlus" placeholder="Ex: Principal">
+        </div>
+
+        <div class="input-group">
+            <label>API Key (mgp_secret_key_2026)</label>
+            <input type="password" id="api-key" value="mgp_secret_key_2026">
+        </div>
+
+        <button onclick="conectar()">🚀 Gerar QR Code para Escanear</button>
+
+        <div id="qr-container">
+            <p style="color: var(--primary); font-weight: bold; margin-bottom: 15px;">Escaneie com seu WhatsApp:</p>
+            <img id="qr-image" src="" alt="QR Code">
+        </div>
+
+        <div class="log" id="log-console">Aguardando comando...</div>
+    </div>
+
+    <script>
+        const BASE_URL = 'http://localhost:8081';
+
+        async function conectar() {
+            const instance = document.getElementById('instance-name').value;
+            const apikey = document.getElementById('api-key').value;
+            const log = document.getElementById('log-console');
+
+            log.innerText = "Criando instância...";
+
+            try {
+                // 1. Criar Instância (ou verificar se existe)
+                const createRes = await fetch(`${BASE_URL}/instance/create`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'apikey': apikey },
+                    body: JSON.stringify({ instanceName: instance, token: "mgp_token_88", qrcode: true })
+                });
+
+                log.innerText = "Instância pronta. Gerando QR Code...";
+
+                // 2. Pegar QR Code
+                const connectRes = await fetch(`${BASE_URL}/instance/connect/${instance}`, {
+                    method: 'GET',
+                    headers: { 'apikey': apikey }
+                });
+
+                const data = await connectRes.json();
+                
+                if (data.base64) {
+                    document.getElementById('qr-image').src = data.base64;
+                    document.getElementById('qr-container').style.display = 'block';
+                    log.innerText = "✅ QR Code pronto! Escaneie agora.";
+                } else if (data.instance.status === 'open') {
+                    log.innerText = "✨ Zap já está conectado e pronto!";
+                } else {
+                    log.innerText = "❌ Erro ao buscar QR Code. Verifique o Docker.";
+                }
+
+            } catch (err) {
+                log.innerText = "❌ Erro: " + err.message + ". Reiniciou o Docker?";
+            }
+        }
+
+        // Checar se API está online
+        setInterval(async () => {
+            try {
+                const res = await fetch(`${BASE_URL}/instance/fetchInstances`, {
+                    headers: { 'apikey': 'mgp_secret_key_2026' }
+                });
+                if (res.ok) document.getElementById('api-status').innerText = "API: Online 🟢";
+            } catch {
+                document.getElementById('api-status').innerText = "API: Offline 🔴 (Ligue o Docker)";
+            }
+        }, 3000);
+    </script>
+
+</body>
+</html>

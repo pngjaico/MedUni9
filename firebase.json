@@ -11,6 +11,8 @@
     "ignore": [
       "**/.*",
       "**/node_modules/**",
+      "functions/**",
+      "document_pdf/**",
       "public/**",
       "conteudos/**",
       "scripts/**",
@@ -23,7 +25,12 @@
       "package.json",
       "package-lock.json",
       "data/questoes_antigas_teste.json",
-      "models_list.json"
+      "models_list.json",
+      "**/*.bak",
+      "**/*.cjs",
+      "**/*.ps1",
+      "evolution-whatsapp/**",
+      "DIVULGAÇÃO ZAP/**"
     ],
     "rewrites": [
       {

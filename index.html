@@ -5167,7 +5167,7 @@
 
     async function submitContentFeedback(payload) {
       const currentUser = window.__fbAuth?.currentUser || null;
-      const localUser = JSON.parse(localStorage.getItem('meduni9_user') || '{}');
+      const localUser = JSON.parse(localStorage.getItem('_mgp_sess_v8') || '{}');
       const body = {
         tipo: 'bug',
         origem: payload.origem || 'geral',
@@ -6212,7 +6212,7 @@
 
     function persistLocalUser(profile) {
       const normalized = normalizeUserProfile(profile);
-      localStorage.setItem('meduni9_user', JSON.stringify(normalized));
+      localStorage.setItem('_mgp_sess_v8', JSON.stringify(normalized));
       return normalized;
     }
 
@@ -13277,7 +13277,7 @@
       useEffect(() => {
         if (!window.__fbAuth || !window.__fbAuthFns || !window.__fbFirestore) {
           // Fallback: Firebase SDK unavailable — use localStorage cache
-          const cached = localStorage.getItem('meduni9_user');
+          const cached = localStorage.getItem('_mgp_sess_v8');
           authStateRef.current = cached ? JSON.parse(cached) : null;
           if (splashDoneRef.current) applyResolvedAuth(authStateRef.current);
           return;
@@ -13288,7 +13288,7 @@
           if (firebaseUser) {
             let cachedProfile = null;
             try {
-              const cached = localStorage.getItem('meduni9_user');
+              const cached = localStorage.getItem('_mgp_sess_v8');
               if (cached) {
                 const p = JSON.parse(cached);
                 if (p.uid === firebaseUser.uid) cachedProfile = normalizeUserProfile(p);
@@ -13324,7 +13324,7 @@
               if (splashDoneRef.current) applyResolvedAuth(cachedProfile);
             }
           } else {
-            localStorage.removeItem('meduni9_user');
+            localStorage.removeItem('_mgp_sess_v8');
             authStateRef.current = null;
             if (splashDoneRef.current) applyResolvedAuth(null);
           }
@@ -13343,11 +13343,9 @@
         try {
           const APP_VERSION = 'v1.0.' + Date.now();
           // Load data from external JSON files with cache-busting
-          const [materiasRes, flashcardsRes, questoesRes, antigasRes] = await Promise.all([
+          const [materiasRes, flashcardsRes] = await Promise.all([
             fetch(`data/materias.json?v=${APP_VERSION}`).catch(() => null),
-            fetch(`data/flashcards.json?v=${APP_VERSION}`).catch(() => null),
-            fetch(`data/questoes.json?v=${APP_VERSION}`).catch(() => null),
-            fetch(`data/questoes_antigas.json?v=${APP_VERSION}`).catch(() => null)
+            fetch(`data/flashcards.json?v=${APP_VERSION}`).catch(() => null)
           ]);
 
           let materiasData = [];
@@ -13355,7 +13353,6 @@
 
           if (materiasRes && materiasRes.ok) {
             const raw = await materiasRes.json();
-            // Convert object format to array with id
             materiasData = Object.entries(raw)
               .filter(([k]) => !k.startsWith('_'))
               .map(([id, val]) => ({ id, ...val, pergunta: val.frente, resposta: val.verso }));
@@ -13376,59 +13373,51 @@
             }));
           }
 
-          let questoesArray = [];
-          
-          if (questoesRes && questoesRes.ok) {
-            const raw = await questoesRes.json();
-            const questoes = raw.questoes || raw;
-            questoesArray = questoesArray.concat(Array.isArray(questoes) ? questoes : []);
-          }
-
-          let questoesAntigasArray = [];
-          if (antigasRes && antigasRes.ok) {
-            const raw = await antigasRes.json();
-            const antigas = raw.questoes || raw;
-            const antigasParsed = Array.isArray(antigas) ? antigas : [];
-            antigasParsed.forEach(q => {
-              questoesAntigasArray.push({
-                id: 'qa_' + q.id,
-                materia: q.materia,
-                pergunta: q.enunciado,
-                resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
-                explicacao: q.explicacao,
-                explicacao_geral: q.explicacao_geral || '',
-                explicacoes_opcoes: q.explicacoes_opcoes || null,
-                opcoes: q.opcoes || [],
-                correta: q.correta,
-                caso_clinico: q.caso_clinico === true,
-                tipo: 'quiz',
-                tema: q.tema,
-                dificuldade: q.dificuldade
+          // Asynchronous loading for Heavy questions (Lazy Load)
+          Promise.all([
+            fetch(`data/questoes.json?v=${APP_VERSION}`).catch(() => null),
+            fetch(`data/questoes_antigas.json?v=${APP_VERSION}`).catch(() => null)
+          ]).then(async ([qRes, qaRes]) => {
+            let qArray = [];
+            if (qRes && qRes.ok) {
+              const raw = await qRes.json();
+              const questoes = raw.questoes || raw;
+              qArray = qArray.concat((Array.isArray(questoes) ? questoes : []).map(q => ({ ...q, isLegacy: true })));
+            }
+            let qaArray = [];
+            if (qaRes && qaRes.ok) {
+              const raw = await qaRes.json();
+              const antigas = raw.questoes || raw;
+              const antigasParsed = Array.isArray(antigas) ? antigas : [];
+              antigasParsed.forEach(q => {
+                qaArray.push({
+                  id: 'qa_' + q.id, materia: q.materia, pergunta: q.enunciado,
+                  resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
+                  explicacao: q.explicacao, explicacao_geral: q.explicacao_geral || '',
+                  explicacoes_opcoes: q.explicacoes_opcoes || null, opcoes: q.opcoes || [],
+                  correta: q.correta, caso_clinico: q.caso_clinico === true,
+                  isLegacy: true, tipo: 'quiz', tema: q.tema, dificuldade: q.dificuldade
+                });
               });
-            });
-          }
-          setQuestoesAntigas(questoesAntigasArray);
-
-          // Merge questoes as flashcards with quiz format
-          if (questoesArray.length > 0) {
-            questoesArray.forEach(q => {
-              flashcardsData.push({
-                id: 'q_' + q.id,
-                materia: q.materia,
-                pergunta: q.enunciado,
-                resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
-                explicacao: q.explicacao,
-                explicacao_geral: q.explicacao_geral || '',
-                explicacoes_opcoes: q.explicacoes_opcoes || null,
-                opcoes: q.opcoes || [],
-                correta: q.correta,
-                caso_clinico: q.caso_clinico === true,
-                tipo: 'quiz',
-                tema: q.tema,
-                dificuldade: q.dificuldade
+            }
+            setQuestoesAntigas(qaArray);
+            if (qArray.length > 0) {
+              setFlashcards(prev => {
+                const updated = Array.isArray(prev) ? [...prev] : [];
+                qArray.forEach(q => {
+                  updated.push({
+                    id: 'q_' + q.id, materia: q.materia, pergunta: q.enunciado,
+                    resposta: q.opcoes && q.correta !== null && q.opcoes[q.correta] ? q.opcoes[q.correta].replace(/^[A-D]\)\s*/, '') : '',
+                    explicacao: q.explicacao, explicacao_geral: q.explicacao_geral || '',
+                    explicacoes_opcoes: q.explicacoes_opcoes || null, opcoes: q.opcoes || [],
+                    correta: q.correta, caso_clinico: q.caso_clinico === true,
+                    isLegacy: q.isLegacy === true, tipo: 'quiz', tema: q.tema, dificuldade: q.dificuldade
+                  });
+                });
+                return updated;
               });
-            });
-          }
+            }
+          }).catch(console.error);
 
           // Fallback if no JSON files loaded
           if (materiasData.length === 0) {
@@ -13498,7 +13487,7 @@
         if (window.__fbAuth && window.__fbAuthFns) {
           try { await window.__fbAuthFns.signOut(window.__fbAuth); } catch {}
         }
-        localStorage.removeItem('meduni9_user');
+        localStorage.removeItem('_mgp_sess_v8');
         localStorage.removeItem('meduni9_sr_data');
         localStorage.removeItem('meduni9_quiz_history');
         localStorage.removeItem('meduni9_stats');

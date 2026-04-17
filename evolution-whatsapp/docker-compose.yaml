@@ -1,0 +1,86 @@
+version: '3.8'
+
+services:
+  evolution-api:
+    image: atendare/evolution-api:v2.1.2
+    container_name: evolution_api
+    restart: always
+    ports:
+      - "8081:8080" # A API ficará acessível na porta 8081
+    environment:
+      # CONFIGURAÇÕES GERAIS
+      - SERVER_TYPE=http
+      - SERVER_PORT=8080
+      - AUTHENTICATION_TYPE=apikey
+      - AUTHENTICATION_API_KEY=mgp_secret_key_2026 # SUA CHAVE DE SEGURANÇA (Mude se quiser)
+      - AUTHENTICATION_EXPOSE_IN_FETCH_INSTANCES=true
+      
+      # BANCO DE DADOS (POSTGRES)
+      - DATABASE_ENABLED=true
+      - DATABASE_CONNECTION_URI=postgresql://admin:admin_password@postgres:5432/evolution_db?sslmode=disable
+      - DATABASE_CONNECTION_CLIENT_NAME=evolution_api
+      
+      # CACHE (REDIS)
+      - CACHE_REDIS_ENABLED=true
+      - CACHE_REDIS_URI=redis://redis:6379/1
+      - CACHE_REDIS_PREFIX_KEY=evolution
+      
+      # WEBHOOKS
+      - WEBHOOK_GLOBAL_ENABLED=false
+    networks:
+      - evolution_network
+    depends_on:
+      - postgres
+      - redis
+
+  postgres:
+    image: postgres:15
+    container_name: evolution_postgres
+    restart: always
+    environment:
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin_password
+      - POSTGRES_DB=evolution_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - evolution_network
+
+  redis:
+    image: redis:7-alpine
+    container_name: evolution_redis
+    restart: always
+    networks:
+      - evolution_network
+
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n
+    restart: always
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=admin
+      - N8N_BASIC_AUTH_PASSWORD=mgp_admin_n8n # Sua senha do n8n
+      - WEBHOOK_URL=http://localhost:5678/
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - NODE_ENV=production
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ../DIVULGAÇÃO ZAP:/home/node/marketing:ro # Montado como leitura para segurança
+    networks:
+      - evolution_network
+    depends_on:
+      - postgres
+      - redis
+
+networks:
+  evolution_network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  n8n_data:

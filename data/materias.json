@@ -804,7 +804,7 @@
       },
       {
         "id": "ind_a3",
-        "tema": "Transição Epidemiológica, Demográfica e Nutricional",
+        "tema": "Transição Epidemiológica, Demogr��fica e Nutricional",
         "descricao": "Fases de transição no Brasil e suas características."
       },
       {
@@ -2327,6 +2327,216 @@
         "id": "tcar_a10",
         "tema": "Acessos Venosos",
         "descricao": "Dispositivos para acesso venoso, técnica de Seldinger e punção periférica."
+      }
+    ]
+  },
+  "pe8": {
+    "nome": "Projetos Voltados à Família e Comunidade (Saúde do Idoso)",
+    "sigla": "PE8",
+    "modulo": 8,
+    "ativo": false,
+    "icon": "",
+    "cor": "#10B981",
+    "descricao": "Abordagem integral da pessoa idosa na APS, avaliação multidimensional e rede de atenção.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {
+        "id": "pe8_a1",
+        "tema": "Política Nacional de Saúde da Pessoa Idosa (PNSPI)",
+        "descricao": "Diretrizes e marcos legais do envelhecimento no Brasil."
+      },
+      {
+        "id": "pe8_a2",
+        "tema": "AMPI-AB: Avaliação Multidimensional",
+        "descricao": "Ferramenta de avaliação funcional e cognitiva do idoso na APS."
+      },
+      {
+        "id": "pe8_a3",
+        "tema": "Projeto Terapêutico Singular (PTS)",
+        "descricao": "Construção de cuidado compartilhado focado na autonomia do idoso."
+      },
+      {
+        "id": "pe8_a4",
+        "tema": "URSI, ILPI e Redes de Cuidado",
+        "descricao": "Unidades de Referência e Instituições de Longa Permanência."
+      },
+      {
+        "id": "pe8_a5",
+        "tema": "Prevenção de Síndromes Geriátricas",
+        "descricao": "Quedas, iatrogenia e promoção do envelhecimento ativo."
+      }
+    ]
+  },
+  "eci8": {
+    "nome": "Emergências Cirúrgicas Prevalentes",
+    "sigla": "ECI8",
+    "modulo": 8,
+    "ativo": false,
+    "icon": "",
+    "cor": "#B91C1C",
+    "descricao": "Manejo inicial do trauma e condições cirúrgicas agudas.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {
+        "id": "eci8_a1",
+        "tema": "Trauma: Atendimento Inicial (ABCDE)",
+        "descricao": "Protocolos do ATLS para estabilização do politraumatizado."
+      },
+      {
+        "id": "eci8_a2",
+        "tema": "Trauma Torácico e Abdominal",
+        "descricao": "Pneumotórax, hemotórax e lesões de órgãos sólidos."
+      },
+      {
+        "id": "eci8_a3",
+        "tema": "Abdome Agudo Cirúrgico",
+        "descricao": "Diagnóstico diferencial: inflamatório, perfurativo e obstrutivo."
+      },
+      {
+        "id": "eci8_a4",
+        "tema": "Emergências Urológicas",
+        "descricao": "Retenção urinária, litíase e escroto agudo."
+      },
+      {
+        "id": "eci8_a5",
+        "tema": "Urgências Vasculares e Isquemia Aguda",
+        "descricao": "Reconhecimento de oclusões arteriais agudas."
+      }
+    ]
+  },
+  "ecl8": {
+    "nome": "Emergências Clínicas Prevalentes",
+    "sigla": "ECL8",
+    "modulo": 8,
+    "ativo": false,
+    "icon": "",
+    "cor": "#2563EB",
+    "descricao": "Protocolos de emergência clínica, suporte de vida e cardiologia aguda.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {
+        "id": "ecl8_a1",
+        "tema": "Suporte Avançado de Vida (ACLS)",
+        "descricao": "Manejo de ritmos de parada e arritmias agudas."
+      },
+      {
+        "id": "ecl8_a2",
+        "tema": "Síndromes Coronarianas Agudas (IAM)",
+        "descricao": "Abordagem do infarto com e sem supra de ST."
+      },
+      {
+        "id": "ecl8_a3",
+        "tema": "Insuficiência Cardíaca e Choque",
+        "descricao": "Manejo hemodinâmico e suporte vasoativo."
+      },
+      {
+        "id": "ecl8_a4",
+        "tema": "Crise Hipertensiva e Coma",
+        "descricao": "Urgência vs Emergência e avaliação do nível de consciência."
+      },
+      {
+        "id": "ecl8_a5",
+        "tema": "Cetoacidose e Distúrbios Metabólicos",
+        "descricao": "Emergências endócrinas e eletrolíticas graves."
+      },
+      {
+        "id": "ecl8_a6",
+        "tema": "Anafilaxia e Intoxicações Agudas",
+        "descricao": "Manejo de reações alérgicas graves e suporte toxicológico."
+      }
+    ]
+  },
+  "neu8": {
+    "nome": "Saúde Mental — Perspectiva da Neurologia",
+    "sigla": "NEU8",
+    "modulo": 8,
+    "ativo": false,
+    "icon": "",
+    "cor": "#7C3AED",
+    "descricao": "Patologias neurológicas prevalentes e neurocirurgia de urgência.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {
+        "id": "neu8_a1",
+        "tema": "Exame Neurológico e Topografia",
+        "descricao": "Semiologia neurológica avançada e localização de lesões."
+      },
+      {
+        "id": "neu8_a2",
+        "tema": "AVC Isquêmico e Hemorrágico",
+        "descricao": "Protocolo de trombólise e manejo pós-AVC."
+      },
+      {
+        "id": "neu8_a3",
+        "tema": "Cefaleias na Emergência",
+        "descricao": "Red flags e manejo das cefaleias primárias."
+      },
+      {
+        "id": "neu8_a4",
+        "tema": "Epilepsia e Estado de Mal",
+        "descricao": "Controle de crises e protocolo de status epilepticus."
+      },
+      {
+        "id": "neu8_a5",
+        "tema": "Infecções do SNC e Delirium",
+        "descricao": "Meningites, encefalites e manejo do paciente confuso."
+      },
+      {
+        "id": "neu8_a6",
+        "tema": "Trauma: TCE e TRM",
+        "descricao": "Trauma cranioencefálico e raquimedular."
+      }
+    ]
+  },
+  "psic8": {
+    "nome": "Saúde Mental — Perspectiva da MFC e Psiquiatria",
+    "sigla": "PSIC8",
+    "modulo": 8,
+    "ativo": false,
+    "icon": "",
+    "cor": "#DB2777",
+    "descricao": "Manejo de condições psiquiátricas na atenção primária e redes RAPS.",
+    "professores": [],
+    "totalCards": 0,
+    "totalQuestoes": 0,
+    "aulas": [
+      {
+        "id": "psic8_a1",
+        "tema": "Transtornos de Ansiedade na APS",
+        "descricao": "Pânico, TAG e manejo não farmacológico."
+      },
+      {
+        "id": "psic8_a2",
+        "tema": "Depressão e Transtorno Bipolar",
+        "descricao": "Diagnóstico e manejo longitudinal na comunidade."
+      },
+      {
+        "id": "psic8_a3",
+        "tema": "Álcool e outras Drogas",
+        "descricao": "Redução de danos e manejo de dependências químicos."
+      },
+      {
+        "id": "psic8_a4",
+        "tema": "Somatização e Psicossomática",
+        "descricao": "Abordagem Centrada na Pessoa para queixas somáticas."
+      },
+      {
+        "id": "psic8_a5",
+        "tema": "Risco de Suicídio e Emergência Psiquiátrica",
+        "descricao": "Avaliação de risco e manejo da agitação psicomotora."
+      },
+      {
+        "id": "psic8_a6",
+        "tema": "Saúde Mental Infantojuvenil",
+        "descricao": "TDAH e autismo na perspectiva da atenção básica."
       }
     ]
   }

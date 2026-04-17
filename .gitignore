@@ -23,3 +23,11 @@ chave privada firebase.json
 *chave privada*
 *service-account*
 *serviceaccount*
+
+# Backups and temporary scripts
+*.bak
+scripts/*.json
+scripts/*.ps1
+*.cjs
+publicidade_texto.md
+publicidade_visuais.html
