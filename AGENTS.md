@@ -51,6 +51,32 @@ Os arquivos `gerar_questoes.md` e `gerar_flashcards.md` são **complementares** 
 
 A pasta **`materiais/`** (e o espelho em **`data/materiais/`**) **é versionada de propósito**, para permitir **reverter** alterações de conteúdo se algo sair ruim. Qualquer doc antigo que diga "não commitar materiais" está **obsoleto**.
 
+## ⚠️ Operações destrutivas de Git — LEIA ANTES DE EXECUTAR
+
+**`git filter-repo`, `git reset --hard`, `git rebase`, `git restore .`** apagam mudanças não commitadas **sem aviso**.
+
+Regra obrigatória antes de qualquer operação destrutiva:
+
+```sh
+# 1. Verificar se há mudanças não commitadas
+git status --short
+
+# 2. Se houver: commitar ou stash ANTES de continuar
+git stash push -m "wip: salvar antes de <operação>"
+# ou
+git add -A && git commit -m "wip: checkpoint antes de <operação>"
+```
+
+Para `git filter-repo`, **sempre usar o wrapper seguro**:
+```sh
+bash scripts/filter_repo_safe.sh <argumentos>
+```
+O wrapper (`scripts/filter_repo_safe.sh`) faz stash automático se o working tree estiver sujo, roda o filter-repo e depois restaura o stash.
+
+> **Contexto:** Em 2026-04-17 o filter-repo apagou mudanças não commitadas em `data/questoes.json` e `index.html` porque rodou sem stash prévio.
+
+---
+
 ## Obrigação para IAs (atualizar docs ao mudar o projeto)
 
 Ao alterar convenções (nomes, caminhos, formato JSON, regras de prompt, deploy):
