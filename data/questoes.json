@@ -70326,13 +70326,12 @@
       "modulo": 1,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O 'Edema em cacifo' (sinal do cacifo ou de Godet) positivo na região pré-tibial de um paciente com dor articular sugere qual origem?),",
+      "enunciado": "O 'Edema em cacifo' (sinal do cacifo ou de Godet) positivo na região pré-tibial de um paciente com dor articular sugere qual origem?",
       "opcoes": [
         "A) Inflamação puramente articular.",
         "B) Fratura de fêmur.",
         "C) Ruptura de menisco.",
-        "D) Causa sistêmica ou vascular (Ex: Insuficiência cardíaca ou venosa), diferindo do edema inflamatório localizado.",
-        "E) N/A"
+        "D) Causa sistêmica ou vascular (Ex: Insuficiência cardíaca ou venosa), diferindo do edema inflamatório localizado."
       ],
       "explicacao_geral": "O edema inflamatório articular costuma ser duro e localizado, enquanto o edema sistêmico é depressível (cacifo).",
       "explicacoes_opcoes": {
@@ -77633,7 +77632,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O que ocorre durante a 'Anáfase' da mitose?),",
+      "enunciado": "O que ocorre durante a 'Anáfase' da mitose?",
       "opcoes": [
         "A) O DNA é sintetizado.",
         "B) O núcleo reaparece.",
@@ -78829,14 +78828,14 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente em repouso tem frequência cardíaca de 70 bpm e volume sistólico de 70 ml. Qual o seu Débito Cardíaco aproximado?),",
+      "enunciado": "Um paciente em repouso tem frequência cardíaca de 70 bpm e volume sistólico de 70 ml. Qual o seu Débito Cardíaco aproximado?",
       "opcoes": [
         "A) 140 ml/min.",
         "B) 10 litros/min.",
         "C) 700 ml/min.",
         "D) 4,9 litros/min (4900 ml/min)."
       ],
-      "explicacao_geral": "DC = FC x VS = 70 x 70 = 4900 ml/min.",
+      "explicacao_geral": "O Débito Cardíaco (DC) é calculado pela fórmula DC = FC × VS. Com FC de 70 bpm e VS de 70 ml, temos DC = 70 × 70 = 4.900 ml/min, equivalente a ~5 litros por minuto — valor típico de adulto em repouso. Em exercício físico intenso pode chegar a 20–25 L/min.",
       "explicacoes_opcoes": {
         "A": "[INCORRETA] Erro de cálculo.",
         "B": "[INCORRETA] Valor de exercício físico intenso.",
@@ -80077,14 +80076,14 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um indivíduo sente-se ansioso e começa a hiperventilar (respirar muito rápido e profundo sem necessidade física). O que ocorre com os níveis de CO2 no sangue e qual a consequência imediata?),",
+      "enunciado": "Um indivíduo sente-se ansioso e começa a hiperventilar (respirar muito rápido e profundo sem necessidade física). O que ocorre com os níveis de CO2 no sangue e qual a consequência imediata?",
       "opcoes": [
         "A) O CO2 sobe e o sangue fica ácido.",
         "B) O O2 acaba e ele morre asfixiado.",
         "C) Nada ocorre.",
         "D) Ocorre 'lavagem' de CO2 (Hipocapnia), levando à alcalose respiratória, que pode causar tonturas e formigamentos (parestesias)."
       ],
-      "explicacao_geral": "A queda de CO2 eleva o pH do sangue.",
+      "explicacao_geral": "Na hiperventilação, a eliminação excessiva de CO₂ pelos pulmões provoca hipocapnia (PaCO₂ < 35 mmHg), reduz a formação de ácido carbônico e eleva o pH plasmático — caracterizando Alcalose Respiratória. O vasoespasmo cerebral e a hipocalcemia relativa explicam as tonturas e parestesias (formigamentos) típicas.",
       "explicacoes_opcoes": {
         "A": "[INCORRETA] CO2 cai na hiperventilação.",
         "B": "[INCORRETA] O O2 geralmente está saturado ao máximo (100%).",
@@ -82183,7 +82182,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A etapa 'I' (Invitation) do SPIKES refere-se a:),",
+      "enunciado": "A etapa 'I' (Invitation) do SPIKES refere-se a:",
       "opcoes": [
         "A) Perguntar ao paciente o quanto ele quer saber agora sobre os detalhes da doença e do prognóstico.",
         "B) Convidar o paciente para jantar.",
@@ -84809,7 +84808,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Resistência por Efluxo' caracteriza-se por:),",
+      "enunciado": "A 'Resistência por Efluxo' caracteriza-se por:",
       "opcoes": [
         "A) A bactéria 'comer' o antibiótico como nutriente.",
         "B) A bactéria mudar de cor para se esconder do remédio.",
@@ -86109,14 +86108,14 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O diagnóstico laboratorial das micoses frequentemente utiliza o exame direto com 'KOH' (Hidróxido de Potássio). Qual a função do KOH na amostra?),",
+      "enunciado": "O diagnóstico laboratorial das micoses frequentemente utiliza o exame direto com 'KOH' (Hidróxido de Potássio). Qual a função do KOH na amostra?",
       "opcoes": [
         "A) Colorir as hifas de azul.",
         "B) Matar a bactéria para o fungo crescer.",
         "C) Alimentar o fungo.",
         "D) Dissolver a queratina e os detritos celulares do paciente, facilitando a visualização das estruturas fúngicas sob o microscópio."
       ],
-      "explicacao_geral": "O KOH é um agente clareador potente.",
+      "explicacao_geral": "O KOH (Hidróxido de Potássio) a 10–20% dissolve a queratina das células epiteliais humanas e os detritos orgânicos da amostra, poupando as estruturas fúngicas (hifas, pseudohifas, esporos), que são resistentes ao álcali. Isso permite visualizá-las diretamente ao microscópio óptico sem necessidade de cultura prévia.",
       "explicacoes_opcoes": {
         "A": "[INCORRETA] O KOH é incolor.",
         "B": "[INCORRETA] Não é o objetivo do exame direto.",
@@ -86967,14 +86966,14 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A vacina 'Tríplice Viral' (SCR) protege contra quais doenças?),",
+      "enunciado": "A vacina 'Tríplice Viral' (SCR) protege contra quais doenças?",
       "opcoes": [
         "A) Sarampo, Caxumba e Rubéola.",
         "B) Sífilis, Catapora e Raiva.",
         "C) Sapinho, Conjuntivite e Reumatismo.",
         "D) Sarampo, COVID e Rotavírus."
       ],
-      "explicacao_geral": "É uma vacina de vírus vivos atenuados.",
+      "explicacao_geral": "A Tríplice Viral (SCR) é composta por vírus vivos atenuados contra Sarampo, Caxumba (Parotidite Epidêmica) e Rubéola. Integra o calendário vacinal infantil (1ª dose aos 12 meses; 2ª aos 15 meses). Por conter vírus vivos, é contraindicada em gestantes e imunossuprimidos graves.",
       "explicacoes_opcoes": {
         "A": "[CORRETA] A **Vacina SCR** previne **Sarampo, Caxumba e Rubéola**.",
         "B": "[INCORRETA] Não existe vacina de rotina para sífilis; as outras são vacinas separadas.",
@@ -91335,7 +91334,7 @@
       "modulo": 3,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A 'Tolerância' aos opioides significa que:),",
+      "enunciado": "A 'Tolerância' aos opioides significa que:",
       "opcoes": [
         "A) O paciente precisa de doses cada vez maiores para obter o mesmo efeito analgésico original.",
         "B) O paciente se tornou imune ao fármaco e nunca mais sentirá efeito.",
@@ -92011,7 +92010,7 @@
       "modulo": 3,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual o mecanismo de ação celular da 'Digoxina'?),",
+      "enunciado": "Qual o mecanismo de ação celular da 'Digoxina'?",
       "opcoes": [
         "A) Bloqueio dos receptores Beta-1 cardíacos.",
         "B) Inibição da enzima Na+/K+ ATPase, levando ao aumento do cálcio intracelular e aumento da força de contração (inotropismo positivo).",
@@ -93311,7 +93310,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Diarreia Osmótica' caracteriza-se por:),",
+      "enunciado": "A 'Diarreia Osmótica' caracteriza-se por:",
       "opcoes": [
         "A) Parada da diarreia com o jejum, causada pela presença de solutos não absorvíveis no lúmen intestinal (ex: intolerância à lactose).",
         "B) Presença de pus e sangue.",
@@ -93493,7 +93492,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual a tríade clássica da 'Síndrome Nefrítica'?),",
+      "enunciado": "Qual a tríade clássica da 'Síndrome Nefrítica'?",
       "opcoes": [
         "A) Febre, dor e vômitos.",
         "B) Proteinúria, hipoalbuminemia e edema.",
@@ -93753,7 +93752,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual o mecanismo da 'Anemia Perniciosa'?),",
+      "enunciado": "Qual o mecanismo da 'Anemia Perniciosa'?",
       "opcoes": [
         "A) Perda de sangue por vermitose.",
         "B) Falta de ingestão de carne.",
