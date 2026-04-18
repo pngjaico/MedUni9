@@ -2905,85 +2905,91 @@
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Porta-agulha Mayo-Hegar.",
-      "verso": "Manipula agulha e facilita sutura com técnica segura.",
-      "explicacao": "",
+      "tema": "tcar_a7",
+      "frente": "A principal vantagem da sutura interrompida em relação à contínua em feridas contaminadas é que ela permite a {{c1::retirada seletiva}} de pontos.",
+      "verso": "retirada seletiva",
+      "explicacao": "Pode-se abrir apenas o segmento infectado sem desestruturar todo o fechamento.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "porta-agulha"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2581
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Erro antes de fechar.",
-      "verso": "Síntese com hemostasia incompleta do plano.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a7",
+      "frente": "A sutura que oferece maior segurança mecânica, pois a falha de um ponto não compromete a linha inteira, é a sutura {{c1::interrompida}}.",
+      "verso": "interrompida",
+      "explicacao": "Diferente da contínua, onde o rompimento do fio abre toda a ferida.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "erro"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2582
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Afastador.",
-      "verso": "Mantém exposição sem ocupar ambas as mãos do auxiliar.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a7",
+      "frente": "O ponto interrompido padrão para coaptação de pele com bordas regulares e sem excesso de tensão é o {{c1::ponto simples}}.",
+      "verso": "ponto simples",
+      "explicacao": "É o ponto básico da técnica cirúrgica.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "afastador"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2583
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Bisturi.",
-      "verso": "Incisão com controle de profundidade, tração da pele e lâmina afiada.",
-      "explicacao": "",
+      "tema": "tcar_a7",
+      "frente": "O ponto interrompido também conhecido como 'colchoeiro vertical', excelente para promover a **eversão das bordas**, é o ponto de {{c1::Donati}}.",
+      "verso": "Donati",
+      "explicacao": "Indicado para peles espessas onde as bordas tendem a inverter.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "bisturi"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2584
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Sequência didática cirurgia limpa.",
-      "verso": "Abrir/dissecar → hemostasia → revisar → fechar por planos.",
-      "explicacao": "",
+      "tema": "tcar_a7",
+      "frente": "O ponto interrompido que ajuda a distribuir a força em uma área maior, sendo útil como reforço local de tensão, é o {{c1::ponto em X}}.",
+      "verso": "ponto em X",
+      "explicacao": "Cria um cruzamento de força sobre a linha de incisão.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "sequencia"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2585
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Pinça anatômica vs dente de rato.",
-      "verso": "Escolha conforme tecido e necessidade de tração firme ou delicada.",
-      "explicacao": "",
+      "tema": "tcar_a7",
+      "frente": "O ponto interrompido que amplia a base de apoio e oferece melhor ancoragem segmentar é o {{c1::ponto em U}}.",
+      "verso": "ponto em U",
+      "explicacao": "Também chamado de colchoeiro horizontal.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "pinca"
+        "cirurgia",
+        "síntese"
       ],
       "id": 2586
     },
@@ -3031,29 +3037,31 @@
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a4",
-      "frente": "Alça fechada.",
-      "verso": "Ordem, repetição e confirmação antes de uso crítico.",
-      "explicacao": "",
+      "tema": "tcar_a7",
+      "frente": "Durante a execução de um ponto, deve-se buscar sempre a **eversão** das bordas. O erro técnico oposto, que prejudica a cicatrização, é a {{c1::inversão}}.",
+      "verso": "inversão",
+      "explicacao": "Bordas invertidas colocam epiderme em contato com derme, impedindo a união correta.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "comunicacao"
+        "cirurgia",
+        "complicacoes"
       ],
       "id": 2590
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a4",
-      "frente": "Ergonomia em sala.",
-      "verso": "Altura da mesa, luz e apoio de braços quando possível.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a7",
+      "frente": "O aperto excessivo de um ponto que compromete a irrigação sanguínea da borda da ferida causa o chamado {{c1::estrangulamento}}.",
+      "verso": "estrangulamento",
+      "explicacao": "Leva à isquemia, necrose de borda e deiscência da sutura.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "ergonomia"
+        "cirurgia",
+        "complicacoes"
       ],
       "id": 2591
     },
@@ -3101,15 +3109,16 @@
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a4",
-      "frente": "Segundo auxiliar.",
-      "verso": "Apoio de campo, aspiração secundária e logística em geral.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a7",
+      "frente": "Quais são os três parâmetros fundamentais que devem ser monitorados durante a síntese em um OSCE? {{c1::Simetria, eversão e perfusão}}.",
+      "verso": "Simetria, eversão e perfusão",
+      "explicacao": "Garantem um fechamento funcional e estético.",
+      "dificuldade": 3,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "auxiliar-2"
+        "cirurgia",
+        "osce"
       ],
       "id": 2595
     },
@@ -10007,136 +10016,136 @@
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "A raiz dorsal do nervo espinal conduz fibras {{c1::aferentes}}.",
-      "verso": "aferentes",
-      "explicacao": "",
+      "tema": "bmf4_a2",
+      "frente": "O fechamento incompleto do **neuróporo anterior (cranial)** por volta do 25º dia de gestação resulta na malformação chamada {{c1::anencefalia}}.",
+      "verso": "anencefalia",
+      "explicacao": "Ausência total ou parcial do encéfalo e calota craniana.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "raiz-dorsal",
-        "sensibilidade"
+        "neuroembrio",
+        "malformacoes"
       ],
       "id": 3043
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "A raiz ventral do nervo espinal conduz fibras {{c1::eferentes}}.",
-      "verso": "eferentes",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a2",
+      "frente": "O fechamento incompleto do **neuróporo posterior (caudal)** por volta do 27º dia resulta em defeitos como a {{c1::espinha bífida (mielomeningocele)}}.",
+      "verso": "espinha bífida (mielomeningocele)",
+      "explicacao": "Falha na fusão dos arcos vertebrais posteriores.",
+      "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "raiz-ventral",
-        "motricidade"
+        "neuroembrio",
+        "malformacoes"
       ],
       "id": 3044
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "Os corpos dos neurônios sensitivos primários ficam no {{c1::gânglio da raiz dorsal}}.",
-      "verso": "gânglio da raiz dorsal",
-      "explicacao": "",
+      "tema": "bmf4_a2",
+      "frente": "A suplementação vitamínica essencial para reduzir em até 70% o risco de defeitos do tubo neural é o {{c1::ácido fólico (vitamina B9)}}.",
+      "verso": "ácido fólico (vitamina B9)",
+      "explicacao": "Deve ser iniciado idealmente antes da concepção.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "grd",
-        "neuronio-sensitivo"
+        "neuroembrio",
+        "prevencao"
       ],
       "id": 3045
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "A união das raízes dorsal e ventral forma um nervo espinal {{c1::misto}}.",
-      "verso": "misto",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a2",
+      "frente": "As células que migram das bordas do tubo neural para formar o **Sistema Nervoso Periférico** e os **melanócitos** são as células da {{c1::crista neural}}.",
+      "verso": "crista neural",
+      "explicacao": "Também formam os gânglios sensitivos e a medula da suprarrenal.",
+      "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "nervo-espinal",
-        "formacao"
+        "neuroembrio",
+        "desenvolvimento"
       ],
       "id": 3046
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "O total de pares de nervos espinais no adulto é {{c1::31}}.",
-      "verso": "31",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a2",
+      "frente": "O SNC (encéfalo e medula) deriva diretamente do {{c1::tubo neural}}, enquanto o SNP deriva da {{c2::crista neural}}.",
+      "verso": "tubo neural / crista neural",
+      "explicacao": "Divisão fundamental da origem embriológica do sistema nervoso.",
+      "dificuldade": 2,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "nervos-espinais",
-        "segmentacao"
+        "neuroembrio",
+        "desenvolvimento"
       ],
       "id": 3047
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "O dermátomo correspondente ao nível do mamilo é o {{c1::T4}}.",
-      "verso": "T4",
-      "explicacao": "",
+      "tema": "bmf4_a2",
+      "frente": "O **diencéfalo**, vesícula secundária derivada do prosencéfalo, dará origem no adulto ao {{c1::tálamo e hipotálamo}}.",
+      "verso": "tálamo e hipotálamo",
+      "explicacao": "Centro de integração sensorial e controle endócrino/autônomo.",
       "dificuldade": 2,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "dermatomo",
-        "t4"
+        "neuroato",
+        "embriologia"
       ],
       "id": 3048
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "O dermátomo correspondente ao nível do umbigo é o {{c1::T10}}.",
-      "verso": "T10",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "bmf4_a2",
+      "frente": "A vesícula secundária responsável pela formação do **bulbo** no tronco encefálico adulto é o {{c1::mielencéfalo}}.",
+      "verso": "mielencéfalo",
+      "explicacao": "Deriva do rombencéfalo.",
+      "dificuldade": 3,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "dermatomo",
-        "t10"
+        "neuroato",
+        "embriologia"
       ],
       "id": 3049
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "O nervo frênico nasce principalmente de raízes {{c1::C3-C5}}.",
-      "verso": "C3-C5",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "bmf4_a2",
+      "frente": "A vesícula secundária que dá origem à **ponte e ao cerebelo** é o {{c1::metencéfalo}}.",
+      "verso": "metencéfalo",
+      "explicacao": "Também deriva do rombencéfalo.",
+      "dificuldade": 3,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "plexo-cervical",
-        "nervo-frenico"
+        "neuroato",
+        "embriologia"
       ],
       "id": 3050
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "A síndrome de cauda equina envolve raízes abaixo de {{c1::L2}}.",
-      "verso": "L2",
-      "explicacao": "",
+      "tema": "bmf4_a2",
+      "frente": "No Sistema Nervoso **Central**, a bainha de mielina é produzida pelos {{c1::oligodendrócitos}}, enquanto no **Periférico** é pelas {{c2::células de Schwann}}.",
+      "verso": "oligodendrócitos / células de Schwann",
+      "explicacao": "Diferença celular crítica em doenças desmielinizantes (esclerose múltipla vs Guillain-Barré).",
       "dificuldade": 2,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "cauda-equina",
-        "segmentacao"
+        "neuro",
+        "histologia"
       ],
       "id": 3051
     },
@@ -10172,16 +10181,16 @@
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a3",
-      "frente": "No exame segmentar, o reflexo aquileu corresponde principalmente à raiz {{c1::S1}}.",
-      "verso": "S1",
-      "explicacao": "",
+      "tema": "bmf4_a2",
+      "frente": "A presença do **Sinal de Babinski** (extensão do hálux) é considerada normal em bebês até os {{c1::18 a 24}} meses de vida.",
+      "verso": "18 a 24 meses",
+      "explicacao": "Reflete a imaturidade da mielinização do trato corticoespinhal.",
       "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "reflexos",
-        "s1"
+        "pediatria",
+        "neuro"
       ],
       "id": 3054
     },
@@ -19415,76 +19424,76 @@
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "A dor intensa e **bem localizada** que o paciente aponta com um único dedo, indicando irritação do peritônio, é a dor {{c1::somática (parietal)}}.",
-      "verso": "somática (parietal)",
-      "explicacao": "Piora com movimentos como tosse, inspiração e deambulação.",
+      "tema": "semio3_a2",
+      "frente": "Qual a sequência canônica correta do exame físico abdominal, que difere das outras regiões para não alterar os ruídos intestinais? {{c1::inspeção -> ausculta -> percussão -> palpação}}.",
+      "verso": "inspeção -> ausculta -> percussão -> palpação",
+      "explicacao": "A ausculta deve vir antes da percussão e palpação para não estimular artificialmente o peristaltismo.",
       "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
         "semio",
-        "dor-abdominal"
+        "abdome"
       ],
       "id": 8739
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "A dor sentida em um local distante da causa original (ex: dor no ombro por irritação do diafragma) é a dor {{c1::referida}}.",
-      "verso": "referida",
-      "explicacao": "Ocorre pela convergência de fibras nervosas em um mesmo nível medular.",
-      "dificuldade": 2,
+      "tema": "semio3_a2",
+      "frente": "O sinal clínico caracterizado por dor à **descompressão brusca** da parede abdominal, indicativo de irritação peritoneal, é o sinal de {{c1::Blumberg}}.",
+      "verso": "Blumberg",
+      "explicacao": "Achado clássico no abdome agudo inflamatório (ex: apendicite).",
+      "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
         "semio",
-        "dor-abdominal"
+        "abdome"
       ],
       "id": 8740
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "O surgimento de **vômito bilioso** (verde/amarelo) associado a dor abdominal é um sinal de alerta clássico para {{c1::obstrução intestinal}}.",
-      "verso": "obstrução intestinal",
-      "explicacao": "Indica que o conteúdo está refluindo debaixo do duodeno.",
-      "dificuldade": 1,
+      "tema": "semio3_a2",
+      "frente": "O sinal caracterizado por dor em fossa ilíaca direita (FID) durante a compressão da **fossa ilíaca esquerda (FIE)** é o sinal de {{c1::Rovsing}}.",
+      "verso": "Rovsing",
+      "explicacao": "O deslocamento de gases no cólon distende o ceco inflamado.",
+      "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "emergencia",
-        "abdominal"
+        "semio",
+        "apendicite"
       ],
       "id": 8741
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "A queixa de dor abdominal de início **súbito e explosivo** ('a pior da vida') sugere fortemente a hipótese de {{c1::perfuração de víscera oca}}.",
-      "verso": "perfuração",
-      "explicacao": "Exemplo: úlcera gástrica perfurada ou ruptura de aneurisma.",
-      "dificuldade": 2,
+      "tema": "semio3_a2",
+      "frente": "A interrupção súbita da inspiração profunda por dor à palpação do rebordo costal direito é o sinal de {{c1::Murphy}}.",
+      "verso": "Murphy",
+      "explicacao": "Sinal clássico de colecistite aguda (inflamação da vesícula biliar).",
+      "dificuldade": 1,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "emergencia",
-        "abdominal"
+        "semio",
+        "vesicula"
       ],
       "id": 8742
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "Síncope ou desmaio associado a dor abdominal súbita em mulher jovem exige a exclusão imediata de {{c1::gravidez ectópica rota}}.",
-      "verso": "gravidez ectópica rota",
-      "explicacao": "Pode levar a choque hipovolêmico rápido por sangramento peritoneal.",
-      "dificuldade": 2,
+      "tema": "semio3_a2",
+      "frente": "A dor intensa à **punho-percussão lombar**, indicativa de inflamação renal ou pielonefrite, é o sinal de {{c1::Giordano}}.",
+      "verso": "Giordano",
+      "explicacao": "Realizado na região do ângulo costovertebral.",
+      "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "ginecologia",
-        "emergencia"
+        "semio",
+        "renal"
       ],
       "id": 8743
     },
@@ -19505,16 +19514,16 @@
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "A dor que começa na região periumbilical e **migra para a fossa ilíaca direita** após algumas horas é o sinal clínico clássico de {{c1::apendicite aguda}}.",
-      "verso": "apendicite aguda",
-      "explicacao": "Reflete a transição da dor visceral para dor parietal.",
-      "dificuldade": 1,
+      "tema": "semio3_a2",
+      "frente": "A manobra em que a dor é desencadeada pela extensão passiva da coxa direita ou flexão ativa contra resistência é o sinal do {{c1::Psoas}}.",
+      "verso": "Psoas",
+      "explicacao": "Sugere apendicite em posição retrocecal.",
+      "dificuldade": 3,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "cirurgia",
-        "abdominal"
+        "semio",
+        "apendicite"
       ],
       "id": 8745
     },
@@ -41213,121 +41222,121 @@
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Redução de ATP por hipóxia leva à falha da bomba de {{c1::sódio}}.",
-      "verso": "sódio",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "O principal neurotransmissor do sistema nervoso parassimpático, responsável pelas funções de 'descanso e digestão', é a {{c1::acetilcolina (ACh)}}.",
+      "verso": "acetilcolina (ACh)",
+      "explicacao": "Atua em receptores muscarínicos e nicotínicos.",
       "dificuldade": 1,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "sna"
       ],
       "id": 11395
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Necrose coagulativa preserva contorno tecidual por horas em {{c1::isquemia}}.",
-      "verso": "isquemia",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "Os receptores colinérgicos localizados nos órgãos efetores (coração, glândulas, m. liso) são os receptores {{c1::muscarínicos}}.",
+      "verso": "muscarínicos",
+      "explicacao": "Sua ativação causa bradicardia, aumento de secreções e miose.",
       "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "sna"
       ],
       "id": 11396
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Apoptose depende de ativação de proteases chamadas {{c1::caspases}}.",
-      "verso": "caspases",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "fp3_a5",
+      "frente": "Os receptores colinérgicos localizados na **junção neuromuscular** (músculo esquelético) são os receptores {{c1::nicotínicos}}.",
+      "verso": "nicotínicos",
+      "explicacao": "Sua ativação causa a contração muscular voluntária.",
+      "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "sna"
       ],
       "id": 11397
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Calcificação distrófica ocorre em tecido necrótico sem hipercalcemia {{c1::sistêmica}}.",
-      "verso": "sistêmica",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "O mnemônico **DUMBELS** ajuda a identificar a síndrome colinérgica. O 'M' e o 'B' significam, respectivamente, {{c1::miose e bradicardia}}.",
+      "verso": "miose e bradicardia",
+      "explicacao": "Diarreia, Urinação, Miose, Bradicardia, Emese, Lacrimejamento e Salivação.",
       "dificuldade": 2,
       "categoria": "diferenciacao",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "clinica"
       ],
       "id": 11398
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Lipofuscina acumula-se como pigmento de desgaste em células {{c1::envelhecidas}}.",
-      "verso": "envelhecidas",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "O estreitamento da pupila causado por drogas colinérgicas (como a pilocarpina) é chamado de {{c1::miose}}.",
+      "verso": "miose",
+      "explicacao": "Drogas anticolinérgicas causam o oposto: midríase.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "exame-fisico"
       ],
       "id": 11399
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Hemosiderina reflete armazenamento de ferro após hemorragia {{c1::local}}.",
-      "verso": "local",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "fp3_a5",
+      "frente": "O antagonista muscarínico de escolha para tratar **bradicardia sinusal** e intoxicação por organofosforados (agrotóxicos) é a {{c1::atropina}}.",
+      "verso": "atropina",
+      "explicacao": "Ela bloqueia o parassimpático, 'secando' secreções e acelerando o coração.",
+      "dificuldade": 1,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "emergencia",
+        "antidotos"
       ],
       "id": 11400
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Lesão reversível por hipóxia pode produzir cor edema e bolações de {{c1::retículo}}.",
-      "verso": "retículo",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "O medicamento inibidor da acetilcolinesterase usado como base do tratamento da **Miastenia Gravis** é a {{c1::piridostigmina (Mestinon)}}.",
+      "verso": "piridostigmina",
+      "explicacao": "Aumenta o tempo de vida da acetilcolina na fenda sináptica, melhorando a força muscular.",
       "dificuldade": 2,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "neuro"
       ],
       "id": 11401
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Autofagia remove organelas danificadas encapsulando-as em {{c1::autofagossomo}}.",
-      "verso": "autofagossomo",
-      "explicacao": "",
+      "tema": "fp3_a5",
+      "frente": "O anticolinérgico inalatório usado no tratamento da DPOC e Asma para promover broncodilatação é o {{c1::brometo de ipratrópio (Atrovent)}}.",
+      "verso": "ipratrópio",
+      "explicacao": "Bloqueia o reflexo vagal de broncoconstrição.",
       "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "fisiopato3",
-        "fp3_a1"
+        "farmaco",
+        "respiratorio"
       ],
       "id": 11402
     },
@@ -41363,17 +41372,16 @@
     },
     {
       "materia": "fisiopato3",
-      "tema": "fp3_a1",
-      "frente": "Necroptose é morte celular programada independente de caspases mediada por {{c1::RIP}} quinases.",
-      "verso": "RIP",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "fp3_a5",
+      "frente": "A síndrome caracterizada por pele seca, febre, rubor, midríase e delírio ('louco como um chapeleiro') é a síndrome {{c1::anticolinérgica}}.",
+      "verso": "anticolinérgica",
+      "explicacao": "Causada pelo excesso de bloqueio colinérgico (ex: atropina ou escopolamina).",
+      "dificuldade": 3,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "fisiopato3",
-        "fp3_a1",
-        "extra"
+        "clinica",
+        "toxicologia"
       ],
       "id": 11405
     },
@@ -43943,46 +43951,46 @@
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "Anamnese abdominal útil começa pela queixa principal e {{c1::tempo}} de evolução.",
-      "verso": "tempo",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "semio3_a2",
+      "frente": "O sinal de percussão abdominal usado para detectar ascite volumosa, onde um impulso em um flanco é sentido no outro, é o {{c1::sinal da onda líquida (ou piparote)}}.",
+      "verso": "onda líquida (ou piparote)",
+      "explicacao": "Exige o auxílio de uma terceira mão ou do próprio paciente no meio do abdome.",
+      "dificuldade": 2,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semiologia3",
-        "semio3_a1"
+        "semio",
+        "ascite"
       ],
       "id": 11575
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "Mnemônico SOCRATES inclui sítio início caráter irradiação associações timing exacerbação e {{c1::gravidade}}.",
-      "verso": "gravidade",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "semio3_a2",
+      "frente": "O achado de percussão onde a área de macicez se altera conforme o decúbito do paciente é a {{c1::macicez móvel}}.",
+      "verso": "macicez móvel",
+      "explicacao": "É um sinal mais sensível que o piparote para ascites moderadas.",
+      "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "semiologia3",
-        "semio3_a1"
+        "semio",
+        "ascite"
       ],
       "id": 11576
     },
     {
       "materia": "semiologia3",
-      "tema": "semio3_a1",
-      "frente": "OPQRST destaca início provocação qualidade região gravidade e {{c1::tempo}} da dor.",
-      "verso": "tempo",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "semio3_a2",
+      "frente": "O espaço anatômico no hipocôndrio esquerdo que normalmente é timpânico, mas torna-se maciço em casos de esplenomegalia, é o {{c1::Espaço de Traube}}.",
+      "verso": "Espaço de Traube",
+      "explicacao": "A percussão deste espaço ajuda a detectar aumento do baço antes dele ser palpável.",
+      "dificuldade": 3,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "semiologia3",
-        "semio3_a1"
+        "semio",
+        "baço"
       ],
       "id": 11577
     },
