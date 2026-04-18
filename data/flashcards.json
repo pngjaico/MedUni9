@@ -2462,254 +2462,272 @@
       "id": 1068
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Antissepsia visa reduzir microrganismos onde?",
-      "verso": "Em tecido vivo, com agente químico.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Em que tipo de circuito o sistema cardiovascular se organiza, garantindo que o débito do ventrículo direito seja igual ao do esquerdo? Circuito em {{c1::série}}.",
+      "verso": "série",
+      "explicacao": "Diferente dos órgãos individuais (que estão em paralelo), os dois grandes circuitos (sistêmico e pulmonar) funcionam em série.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "antissepsia"
+        "fisiologia",
+        "circulação"
       ],
       "id": 2551
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Definição de esterilização.",
-      "verso": "Eliminação de todas as formas de vida microbiana, inclusive esporos.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "O circuito que opera sob **baixa pressão** e baixa resistência para proteger a membrana alvéolo-capilar é a circulação {{c1::pulmonar}}.",
+      "verso": "pulmonar",
+      "explicacao": "A baixa pressão evita o extravasamento de líquido para dentro do alvéolo (edema pulmonar).",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "esterilizacao"
+        "fisiologia",
+        "circulação"
       ],
       "id": 2552
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Assepsia operatória é o quê?",
-      "verso": "Medidas que impedem contaminação do campo e do ato cirúrgico.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "A circulação sistêmica opera sob {{c1::alta}} pressão e elevada resistência para garantir a perfusão de todos os tecidos periféricos.",
+      "verso": "alta",
+      "explicacao": "Exige uma parede ventricular esquerda muito mais espessa que a direita.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "assepsia"
+        "fisiologia",
+        "circulação"
       ],
       "id": 2553
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Sentido clássico do preparo de pele.",
-      "verso": "Do centro para a periferia, sem retornar ao centro com a mesma compressa.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Os vasos conhecidos como **vasos de resistência**, que possuem parede rica em músculo liso e regulam a Pressão Arterial, são as {{c1::arteríolas}}.",
+      "verso": "arteríolas",
+      "explicacao": "Pequenas variações no calibre arteriolar alteram drasticamente a resistência vascular sistêmica.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "preparo-pele"
+        "fisiologia",
+        "vasos"
       ],
       "id": 2554
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Indicador biológico do ciclo térmico valida o quê?",
-      "verso": "Letalidade microbiana efetiva do processo (ex.: esporos em rotina).",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Os vasos conhecidos como **vasos de capacitância**, que atuam como o principal reservatório de sangue (60-70%), são as {{c1::veias e vênulas}}.",
+      "verso": "veias e vênulas",
+      "explicacao": "Possuem alta complacência, permitindo armazenar grandes volumes sob baixa pressão.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "cme"
+        "fisiologia",
+        "vasos"
       ],
       "id": 2555
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Clorexidina alcoólica: vantagem prática.",
-      "verso": "Ação residual e início rápido; cuidado em mucosa/olho.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Os vasos compostos apenas por uma camada de endotélio, especializados em trocas gasosas e de solutos, são os {{c1::capilares}}.",
+      "verso": "capilares",
+      "explicacao": "O fluxo aqui é o mais lento de todo o sistema para facilitar a difusão.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "clorexidina"
+        "fisiologia",
+        "vasos"
       ],
       "id": 2556
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Quebra de esterilidade percebida. Conduta?",
-      "verso": "Comunicar, repor barreiras ou material e corrigir técnica.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "A lei de **Frank-Starling** afirma que o aumento do retorno venoso ({{c1::pré-carga}}) estira a fibra cardíaca, aumentando a força de contração.",
+      "verso": "pré-carga",
+      "explicacao": "O coração bombeia o que recebe, dentro dos limites fisiológicos.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "campo"
+        "fisiologia",
+        "coração"
       ],
       "id": 2557
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Indicador químico no pacote informa?",
-      "verso": "Que o pacote foi exposto ao processo; não substitui biológico sozinho.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "O conceito de **pós-carga** refere-se à {{c1::resistência}} que o ventrículo deve vencer para ejetar o sangue para as artérias.",
+      "verso": "resistência",
+      "explicacao": "O aumento da pós-carga (ex: hipertensão) exige maior trabalho cardíaco e gasto de O2.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "indicador"
+        "fisiologia",
+        "coração"
       ],
       "id": 2558
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Erro antes da incisão após antissepsia alcoólica.",
-      "verso": "Cortar com pele ainda muito úmida ou sem respeitar secagem/tempo de ação.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "A presença de **válvulas** e a ação da **bomba muscular** (panturrilha) são fundamentais para garantir o retorno venoso contra a {{c1::gravidade}}.",
+      "verso": "gravidade",
+      "explicacao": "A falha nessas válvulas leva à insuficiência venosa crônica e edemas.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "seguranca"
+        "fisiologia",
+        "circulação"
       ],
       "id": 2559
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Desinfecção vs esterilização.",
-      "verso": "Desinfecção reduz carga; esterilização visa eliminar vida microbiana total, incluindo esporos.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Na insuficiência cardíaca de **coração esquerdo**, a repercussão imediata é a congestão no circuito {{c1::pulmonar}}.",
+      "verso": "pulmonar",
+      "explicacao": "Causa dispneia e estertores pulmonares por extravasamento de líquido para o alvéolo.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "conceitos"
+        "clinica",
+        "circulação"
       ],
       "id": 2560
     },
     {
-      "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Método frequente para esterilizar artigos compatíveis.",
-      "verso": "Autoclave com vapor saturado sob pressão em ciclo validado.",
-      "explicacao": "",
+      "materia": "bmf2",
+      "tema": "bmf2_a3",
+      "frente": "Na insuficiência cardíaca de **coração direito**, a repercussão imediata é a congestão no circuito {{c1::sistêmico venoso}}.",
+      "verso": "sistêmico venoso",
+      "explicacao": "Manifesta-se como edema de membros inferiores, turgência jugular e hepatomegalia.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "autoclave"
+        "clinica",
+        "circulação"
       ],
       "id": 2561
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a1",
-      "frente": "Esterilização válida exige embalagem?",
-      "verso": "Sim: barreira adequada e rastreabilidade integram a garantia de uso.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "Os fios que perdem sua força tensil progressivamente e são degradados pelo organismo são chamados de {{c1::absorvíveis}}.",
+      "verso": "absorvíveis",
+      "explicacao": "Exemplos: Vicryl, Monocryl, PDS e Categute.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "embalagem"
+        "cirurgia",
+        "fios"
       ],
       "id": 2562
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Três níveis clássicos de área no bloco.",
-      "verso": "Não restrita, semirrestrita e restrita (maior controle perto do campo).",
-      "explicacao": "",
+      "tema": "tcar_a5",
+      "frente": "O tipo de fio que possui menor **capilaridade** e menor arrasto tecidual, sendo preferido em campos contaminados, é o {{c1::monofilamentar}}.",
+      "verso": "monofilamentar",
+      "explicacao": "Por ser uma fibra única, não oferece 'espaços' para migração bacteriana como o trançado.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "zonas"
+        "cirurgia",
+        "fios"
       ],
       "id": 2563
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Fluxo limpo e contaminado.",
-      "verso": "Unidirecional, com rotas separadas para evitar contaminação cruzada.",
-      "explicacao": "",
+      "tema": "tcar_a5",
+      "frente": "O tipo de fio que oferece melhor manuseio e maior segurança inicial do nó, mas possui maior capilaridade, é o {{c1::multifilamentar (ou trançado)}}.",
+      "verso": "multifilamentar (ou trançado)",
+      "explicacao": "A fricção entre as fibras ajuda a travar o nó, mas pode 'sugar' bactérias.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "fluxo"
+        "cirurgia",
+        "fios"
       ],
       "id": 2564
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Roupa privativa.",
-      "verso": "Uso restrito ao bloco; barreira básica de ambiente.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "O nome comercial clássico da **Poliglactina 910**, um fio absorvível multifilamentar muito usado em subcutâneo e mucosas, é o {{c1::Vicryl}}.",
+      "verso": "Vicryl",
+      "explicacao": "É o 'pau para toda obra' das suturas internas.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "paramentacao"
+        "cirurgia",
+        "fios"
       ],
       "id": 2565
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Área restrita inclui tipicamente.",
-      "verso": "Sala cirúrgica e adjacências críticas ao campo estéril.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "O fio inabsorvível monofilamentar de escolha para sutura de **pele** por sua alta resistência e baixo custo é a {{c1::Poliamida (Nylon)}}.",
+      "verso": "Poliamida (Nylon)",
+      "explicacao": "Exemplos comerciais: Ethilon, Mononylon.",
+      "dificuldade": 1,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "restrita"
+        "cirurgia",
+        "fios"
       ],
       "id": 2566
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Frente do avental estéril.",
-      "verso": "Considerada zona funcionalmente estéril para manuseio próximo ao campo.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "O fio inabsorvível monofilamentar preferido para **anastomoses vasculares** por sua baixa reatividade é o {{c1::Polipropileno (Prolene)}}.",
+      "verso": "Polipropileno (Prolene)",
+      "explicacao": "Possui superfície muito lisa, causando trauma mínimo ao atravessar o vaso.",
+      "dificuldade": 3,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "avental"
+        "cirurgia",
+        "fios"
       ],
       "id": 2567
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Time-out antes da incisão.",
-      "verso": "Conferir paciente, sítio, lateralidade, antibioticoprofilaxia e recursos críticos.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "O fio absorvível monofilamentar indicado para fechamento de **fáscia/aponeurose** por manter suporte por até 60 dias é o {{c1::PDS (Polidioxanona)}}.",
+      "verso": "PDS (Polidioxanona)",
+      "explicacao": "A fáscia demora a cicatrizar e exige um fio que não suma rápido demais.",
+      "dificuldade": 3,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "timeout"
+        "cirurgia",
+        "fios"
       ],
       "id": 2568
     },
@@ -2729,43 +2747,46 @@
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Material estéril armazenado.",
-      "verso": "Seco, identificado, validade e integridade de embalagem conferidos.",
-      "explicacao": "",
+      "tema": "tcar_a5",
+      "frente": "O tipo de ponta de agulha indicada para **tecidos delicados** (como vasos e serosa) por não cortar as fibras é a agulha {{c1::cilíndrica}}.",
+      "verso": "cilíndrica",
+      "explicacao": "Ela apenas afasta as fibras em vez de seccioná-las.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "armazenamento"
+        "cirurgia",
+        "agulhas"
       ],
       "id": 2570
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Circulante.",
-      "verso": "Apoia fora do campo sem contaminar mesa estéril aberta.",
-      "explicacao": "",
+      "tema": "tcar_a5",
+      "frente": "A agulha indicada para sutura de **pele** por ser capaz de atravessar tecidos resistentes com facilidade é a agulha {{c1::cortante (ou triangular)}}.",
+      "verso": "cortante (ou triangular)",
+      "explicacao": "Possui arestas que facilitam a penetração na derme.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "equipe"
+        "cirurgia",
+        "agulhas"
       ],
       "id": 2571
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a2",
-      "frente": "Costas do avental e abaixo da cintura.",
-      "verso": "Não são consideradas esterilmente seguras.",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "tcar_a5",
+      "frente": "O motivo técnico de preferir agulhas de **3/8 de círculo** em planos superficiais é o fato de exigirem {{c1::menor espaço de manobra}}.",
+      "verso": "menor espaço de manobra",
+      "explicacao": "Permite um movimento de punho mais curto e preciso em áreas abertas.",
+      "dificuldade": 3,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "avental"
+        "cirurgia",
+        "agulhas"
       ],
       "id": 2572
     },
@@ -2799,15 +2820,16 @@
     },
     {
       "materia": "tecnica_operatoria",
-      "tema": "tcar_a3",
-      "frente": "Diérese.",
-      "verso": "Abertura de planos: corte, dissecção ou energia adequada.",
-      "explicacao": "",
+      "tema": "tcar_a5",
+      "frente": "Por que não se deve usar fios multifilamentares (trançados) em feridas francamente infectadas? Por causa da alta {{c1::capilaridade}}.",
+      "verso": "capilaridade",
+      "explicacao": "As bactérias podem se 'esconder' entre as fibras do fio, perpetuando a infecção.",
       "dificuldade": 2,
       "categoria": "material",
       "origem": "material",
       "tags": [
-        "dierese"
+        "cirurgia",
+        "complicacoes"
       ],
       "id": 2575
     },
@@ -9730,91 +9752,91 @@
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a1",
-      "frente": "No SNA, toda fibra pré-ganglionar libera {{c1::acetilcolina}}.",
-      "verso": "acetilcolina",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "bmf4_a3",
+      "frente": "A raiz medular que é puramente **sensitiva** e apresenta um gânglio onde se localizam os corpos dos neurônios é a {{c1::raiz dorsal (ou posterior)}}.",
+      "verso": "raiz dorsal (ou posterior)",
+      "explicacao": "Traz informações aferentes da periferia para o corno posterior da medula.",
+      "dificuldade": 1,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "sna",
-        "neurotransmissor"
+        "neuroato",
+        "medula"
       ],
       "id": 3026
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a1",
-      "frente": "A principal resposta autonômica de luta ou fuga é mediada pelo sistema {{c1::simpático}}.",
-      "verso": "simpático",
-      "explicacao": "",
+      "tema": "bmf4_a3",
+      "frente": "A raiz medular puramente **motora**, cujos corpos celulares estão no corno anterior da medula, é a {{c1::raiz ventral (ou anterior)}}.",
+      "verso": "raiz ventral (ou anterior)",
+      "explicacao": "Leva ordens eferentes do SNC para os músculos esqueléticos.",
       "dificuldade": 1,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "simpatico",
-        "funcao"
+        "neuroato",
+        "medula"
       ],
       "id": 3027
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a1",
-      "frente": "O sistema entérico organiza-se principalmente nos plexos de Auerbach e {{c1::Meissner}}.",
-      "verso": "Meissner",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "bmf4_a3",
+      "frente": "O nervo espinal é formado pela união das raízes dorsal e ventral, sendo classificado funcionalmente como um nervo {{c1::misto}}.",
+      "verso": "misto",
+      "explicacao": "Contém tanto fibras sensitivas quanto motoras.",
+      "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "enterico",
-        "plexos"
+        "neuroato",
+        "medula"
       ],
       "id": 3028
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a1",
-      "frente": "No simpático, o receptor mais comum no órgão-alvo é o {{c1::adrenérgico}}.",
-      "verso": "adrenérgico",
-      "explicacao": "",
+      "tema": "bmf4_a3",
+      "frente": "O **dermátomo** correspondente à linha dos mamilos, marco clínico importante para nível sensitivo, é o de {{c1::T4}}.",
+      "verso": "T4",
+      "explicacao": "Mamilos = T4.",
       "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "simpatico",
-        "receptores"
+        "neuroato",
+        "dermatomos"
       ],
       "id": 3029
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a1",
-      "frente": "No parassimpático, o receptor do órgão efetor é o {{c1::muscarínico}}.",
-      "verso": "muscarínico",
-      "explicacao": "",
+      "tema": "bmf4_a3",
+      "frente": "O **dermátomo** correspondente ao nível da cicatriz umbilical é o de {{c1::T10}}.",
+      "verso": "T10",
+      "explicacao": "Umbigo = T10.",
       "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "parassimpatico",
-        "receptores"
+        "neuroato",
+        "dermatomos"
       ],
       "id": 3030
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a2",
-      "frente": "Na terceira semana, a neurulação começa com a formação da {{c1::placa neural}}.",
-      "verso": "placa neural",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a3",
+      "frente": "O território de sensibilidade correspondente ao **dorso do pé** e ao hálux (dedão) é inervado pela raiz de {{c1::L5}}.",
+      "verso": "L5",
+      "explicacao": "S1 inerva o calcanhar e a sola (borda lateral).",
+      "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "neurulacao",
-        "embriologia"
+        "neuroato",
+        "dermatomos"
       ],
       "id": 3031
     },
@@ -9865,16 +9887,16 @@
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a2",
-      "frente": "As células da crista neural formam gânglios do SNP e do {{c1::SNA}}.",
-      "verso": "SNA",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a3",
+      "frente": "O nervo frênico, essencial para a respiração automática (diafragma), é formado pelas raízes cervicais {{c1::C3, C4 e C5}}.",
+      "verso": "C3, C4 e C5",
+      "explicacao": "C3, 4, 5 keeps the diaphragm alive.",
+      "dificuldade": 2,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "crista-neural",
-        "ganglios"
+        "neuroato",
+        "respiratorio"
       ],
       "id": 3035
     },
@@ -9910,31 +9932,31 @@
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a2",
-      "frente": "O terceiro ventrículo é derivado do {{c1::diencéfalo}}.",
-      "verso": "diencéfalo",
-      "explicacao": "",
+      "tema": "bmf4_a3",
+      "frente": "A extremidade final da medula espinal sólida, localizada geralmente entre as vértebras **L1 e L2**, é chamada de {{c1::cone medular}}.",
+      "verso": "cone medular",
+      "explicacao": "Abaixo deste nível existe apenas a cauda equina.",
       "dificuldade": 2,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "ventriculos",
-        "diencefalo"
+        "neuroato",
+        "medula"
       ],
       "id": 3038
     },
     {
       "materia": "bmf4",
-      "tema": "bmf4_a2",
-      "frente": "No SNC, a célula responsável pela mielina é o {{c1::oligodendrócito}}.",
-      "verso": "oligodendrócito",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "bmf4_a3",
+      "frente": "A síndrome caracterizada por dor radicular grave, perda de controle de esfíncteres e **anestesia em sela** é a Síndrome da {{c1::Cauda Equina}}.",
+      "verso": "Cauda Equina",
+      "explicacao": "Emergência cirúrgica por compressão de múltiplas raízes lombo-sacrais abaixo do cone medular.",
+      "dificuldade": 3,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "mielinizacao",
-        "snc"
+        "neuroato",
+        "clinica"
       ],
       "id": 3039
     },
@@ -12529,41 +12551,41 @@
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "Os principais sinais de alarme na triagem cardiorrespiratória (Prioridade Zero) incluem: saturação baixa, alteração de consciência e {{c1::uso de musculatura acessória}}.",
-      "verso": "uso de musculatura acessória",
-      "explicacao": "Indica esforço respiratório intenso e risco de fadiga.",
+      "tema": "semio2_a3",
+      "frente": "A primeira bulha cardíaca (B1) corresponde ao fechamento das valvas {{c1::atrioventriculares (mitral e tricúspide)}}.",
+      "verso": "atrioventriculares (mitral e tricúspide)",
+      "explicacao": "Marca o início da sístole ventricular.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
         "semio",
-        "emergência"
+        "cardio"
       ],
       "id": 8287
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A incapacidade do paciente de completar frases curtas sem parar para respirar é um marcador clínico de {{c1::instabilidade}} respiratória.",
-      "verso": "instabilidade",
-      "explicacao": "Deve ser avaliado na inspeção geral imediata.",
+      "tema": "semio2_a3",
+      "frente": "A segunda bulha cardíaca (B2) corresponde ao fechamento das valvas {{c1::semilunares (aórtica e pulmonar)}}.",
+      "verso": "semilunares (aórtica e pulmonar)",
+      "explicacao": "Marca o início da diástole ventricular.",
       "dificuldade": 1,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
         "semio",
-        "triagem"
+        "cardio"
       ],
       "id": 8288
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A dispneia que surge ou piora em decúbito dorsal e melhora ao sentar ou usar travesseiros é chamada de {{c1::ortopneia}}.",
-      "verso": "ortopneia",
-      "explicacao": "Sugere insuficiência cardíaca congestiva devido ao aumento do retorno venoso.",
-      "dificuldade": 1,
+      "tema": "semio2_a3",
+      "frente": "A bulha acessória conhecida como 'galope de volume', comum na insuficiência cardíaca com fração de ejeção reduzida, é a {{c1::B3}}.",
+      "verso": "B3",
+      "explicacao": "Ocorre pelo impacto de sangue em um ventrículo já dilatado e complacente.",
+      "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
@@ -12574,11 +12596,11 @@
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A tríade clássica composta por **Dispneia + Ortopneia + Edema de membros inferiores** sugere fortemente o diagnóstico de {{c1::Insuficiência Cardíaca Congestiva (ICC)}}.",
-      "verso": "Insuficiência Cardíaca Congestiva (ICC)",
-      "explicacao": "Indica síndrome congestiva sistêmica e pulmonar.",
-      "dificuldade": 1,
+      "tema": "semio2_a3",
+      "frente": "A bulha acessória relacionada à sobrecarga de pressão e ventrículo rígido (ex: HAS crônica) é a {{c1::B4}}.",
+      "verso": "B4",
+      "explicacao": "Reflete a sístole atrial contra um ventrículo pouco complacente.",
+      "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
@@ -12664,31 +12686,31 @@
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a1",
-      "frente": "Registro padronizado melhora continuidade da avaliacao {{c1::musculoesqueletica}}.",
-      "verso": "musculoesqueletica",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "O padrão de marcha onde o paciente reduz o tempo de apoio no membro acometido para evitar o estímulo doloroso é a marcha {{c1::antálgica}}.",
+      "verso": "antálgica",
+      "explicacao": "É uma reação reflexa de proteção contra a dor mecânica ou inflamatória.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a1"
+        "semio",
+        "marcha"
       ],
       "id": 8296
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a1",
-      "frente": "No metodo de Bates, o exame locomotor prioriza funcao, dor e {{c1::impacto funcional}}.",
-      "verso": "impacto funcional",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "A marcha caracterizada pela elevação exagerada do membro para compensar a queda do pé ('pé caído') é a marcha {{c1::em steppage (ou escavante)}}.",
+      "verso": "steppage (ou escavante)",
+      "explicacao": "Típica de lesão do nervo fibular comum ou radiculopatia L5.",
       "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "semiologia1",
-        "semio1_a1"
+        "semio",
+        "neurologia"
       ],
       "id": 8297
     },
@@ -12724,106 +12746,106 @@
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Caracterizacao da dor inclui localizacao, irradiacao e {{c1::fatores de melhora ou piora}}.",
-      "verso": "fatores de melhora ou piora",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "O desalinhamento dos membros inferiores em que os joelhos são afastados e as pernas ficam em formato de 'O' é o {{c1::genu varo}}.",
+      "verso": "genu varo",
+      "explicacao": "Causa sobrecarga predominante no compartimento medial do joelho.",
       "dificuldade": 1,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "semio",
+        "joelho"
       ],
       "id": 8300
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Rigidez matinal prolongada sugere componente {{c1::inflamatorio}} articular.",
-      "verso": "inflamatorio",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "semio1_a3",
+      "frente": "O desalinhamento dos membros inferiores em que os joelhos se tocam e os pés se afastam ('pernas em X') é o {{c1::genu valgo}}.",
+      "verso": "genu valgo",
+      "explicacao": "Causa sobrecarga predominante no compartimento lateral do joelho.",
+      "dificuldade": 1,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "semio",
+        "joelho"
       ],
       "id": 8301
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Fraqueza verdadeira deve ser diferenciada de limitacao por {{c1::dor}}.",
-      "verso": "dor",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "Os nódulos localizados nas articulações **interfalângicas distais (IFD)** na osteoartrite das mãos são chamados de nódulos de {{c1::Heberden}}.",
+      "verso": "Heberden",
+      "explicacao": "D de Distal e D de Heberden (nem sempre, mas ajuda a decorar).",
       "dificuldade": 2,
       "categoria": "diferenciacao",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "reumato",
+        "maos"
       ],
       "id": 8302
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Historia ocupacional identifica exposicoes repetitivas com risco de {{c1::sobrecarga mecanica}}.",
-      "verso": "sobrecarga mecanica",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "Os nódulos localizados nas articulações **interfalângicas proximais (IFP)** na osteoartrite das mãos são chamados de nódulos de {{c1::Bouchard}}.",
+      "verso": "Bouchard",
+      "explicacao": "P de Proximal.",
       "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "reumato",
+        "maos"
       ],
       "id": 8303
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Atividade esportiva orienta hipoteses de {{c1::lesao por uso excessivo}}.",
-      "verso": "lesao por uso excessivo",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "semio1_a3",
+      "frente": "A perda de volume da musculatura na base do polegar, sinal visual de Síndrome do Túnel do Carpo avançada, é a {{c1::atrofia tenar}}.",
+      "verso": "atrofia tenar",
+      "explicacao": "Ocorre por compressão crônica do nervo mediano.",
+      "dificuldade": 2,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "ortopedia",
+        "maos"
       ],
       "id": 8304
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Antecedentes de trauma direcionam suspeita para {{c1::lesao estrutural}}.",
-      "verso": "lesao estrutural",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "semio1_a3",
+      "frente": "O aumento de volume restrito à cápsula articular que faz as concavidades naturais do joelho desaparecerem é o {{c1::derrame articular}}.",
+      "verso": "derrame articular",
+      "explicacao": "Indica presença de líquido sinovial, sangue ou pus dentro da junta.",
+      "dificuldade": 2,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "semio",
+        "edema"
       ],
       "id": 8305
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Sinais de alarme sistemico na anamnese exigem ampliar {{c1::diagnostico diferencial}}.",
-      "verso": "diagnostico diferencial",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "O inchaço difuso e superficial que frequentemente apresenta o **Sinal do Cacifo (Godet)** positivo é o {{c1::edema de partes moles}}.",
+      "verso": "edema de partes moles",
+      "explicacao": "Diferente do derrame, o líquido está fora da articulação.",
       "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "semio",
+        "edema"
       ],
       "id": 8306
     },
@@ -12874,16 +12896,16 @@
     },
     {
       "materia": "semiologia1",
-      "tema": "semio1_a2",
-      "frente": "Em provas, queixa principal difere de HDA porque a HDA descreve {{c1::sequencia temporal detalhada}}.",
-      "verso": "sequencia temporal detalhada",
-      "explicacao": "",
+      "tema": "semio1_a3",
+      "frente": "Uma assimetria de {{c1::1 a 2 cm}} na circunferência da coxa ou panturrilha em comparação ao lado oposto já é indicativa de atrofia muscular.",
+      "verso": "1 a 2 cm",
+      "explicacao": "A comparação bilateral é obrigatória no exame físico locomotor.",
       "dificuldade": 2,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "semiologia1",
-        "semio1_a2"
+        "semio",
+        "exame-fisico"
       ],
       "id": 8310
     },
@@ -20781,65 +20803,61 @@
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "No exame inicial cardiorrespiratorio, a triagem de {{c1::gravidade}} vem antes da hipotese etiologica",
-      "verso": "gravidade",
-      "explicacao": "",
+      "tema": "semio2_a3",
+      "frente": "O tipo de pulso caracterizado por ser pequeno e fraco, indicando estados de choque ou baixo débito cardíaco, é o pulso {{c1::filiforme}}.",
+      "verso": "filiforme",
+      "explicacao": "É um sinal de gravidade imediata.",
       "dificuldade": 1,
       "categoria": "definicao",
       "origem": "material",
       "tags": [
-        "semio2",
-        "a1",
-        "triagem"
+        "semio",
+        "cardio"
       ],
       "id": 9019
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "Dispneia com ortopneia e edema periferico sugere sindrome {{c1::congestiva}} na avaliacao inicial",
-      "verso": "congestiva",
-      "explicacao": "",
+      "tema": "semio2_a3",
+      "frente": "A presença de um pulso totalmente **irregular (irregularmente irregular)** sugere fortemente a arritmia conhecida como {{c1::Fibrilação Atrial (FA)}}.",
+      "verso": "Fibrilação Atrial (FA)",
+      "explicacao": "A ausência de contração atrial organizada gera batimentos ventriculares randômicos.",
       "dificuldade": 2,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semio2",
-        "a1",
-        "congestao"
+        "semio",
+        "cardio"
       ],
       "id": 9020
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A consulta semiologica segue fluxo do amplo para o {{c1::especifico}}",
-      "verso": "especifico",
-      "explicacao": "",
-      "dificuldade": 1,
+      "tema": "semio2_a3",
+      "frente": "O desvio do **Ictus Cordis** para baixo e para a esquerda é um marcador clínico de {{c1::cardiomegalia (dilatação do VE)}}.",
+      "verso": "cardiomegalia (dilatação do VE)",
+      "explicacao": "O ápice do coração se desloca devido ao aumento do volume ventricular.",
+      "dificuldade": 2,
       "categoria": "mecanismo",
       "origem": "material",
       "tags": [
-        "semio2",
-        "a1",
-        "metodo"
+        "semio",
+        "cardio"
       ],
       "id": 9021
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "Dor toracica, dispneia, tosse, palpitacao, sincope e edema sao sintomas {{c1::cardinais}} do tema",
-      "verso": "cardinais",
-      "explicacao": "",
+      "tema": "semio2_a3",
+      "frente": "O sinal clínico de distensão das veias do pescoço em repouso, marcador de alta pressão atrial direita, é a {{c1::turgência jugular}}.",
+      "verso": "turgência jugular",
+      "explicacao": "Reflete a dificuldade de retorno de sangue para o coração direito.",
       "dificuldade": 1,
       "categoria": "prova",
       "origem": "material",
       "tags": [
-        "semio2",
-        "a1",
-        "sintomas"
+        "semio",
+        "cardio"
       ],
       "id": 9022
     },
@@ -20877,17 +20895,16 @@
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A etapa de seguranca inclui reconhecer cianose central e {{c1::instabilidade}} hemodinamica",
-      "verso": "instabilidade",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "semio2_a3",
+      "frente": "Todo sopro ouvido durante a **diástole** deve ser considerado {{c1::patológico}} até prova em contrário.",
+      "verso": "patológico",
+      "explicacao": "Diferente de alguns sopros sistólicos que podem ser funcionais/inocentes.",
+      "dificuldade": 3,
       "categoria": "clinica",
       "origem": "material",
       "tags": [
-        "semio2",
-        "a1",
-        "seguranca"
+        "semio",
+        "cardio"
       ],
       "id": 9025
     },
@@ -20957,17 +20974,16 @@
     },
     {
       "materia": "semiologia2",
-      "tema": "semio2_a1",
-      "frente": "A classificacao funcional da dispneia na pratica ambulatorial pode usar escala {{c1::nyha}}",
-      "verso": "nyha",
-      "explicacao": "",
-      "dificuldade": 2,
+      "tema": "semio2_a3",
+      "frente": "A compressão firme do quadrante superior direito que resulta em elevação da turgência jugular é o sinal do {{c1::refluxo hepatojugular}}.",
+      "verso": "refluxo hepatojugular",
+      "explicacao": "Indica incapacidade do VD em lidar com um aumento súbito do retorno venoso.",
+      "dificuldade": 3,
       "categoria": "extra_livro",
       "origem": "extra",
       "tags": [
-        "semio2",
-        "a1",
-        "extra"
+        "semio",
+        "cardio"
       ],
       "id": 9030
     },
