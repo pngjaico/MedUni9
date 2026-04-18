@@ -62254,7 +62254,7 @@
         "C": "Correta: Estilos de vida são determinantes próximos/individuais.",
         "D": "Incorreta: Programático refere-se à organização dos serviços de saúde."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -62358,7 +62358,7 @@
         "C": "[CORRETA] **Medial** é o termo técnico para indicar que algo está mais perto da linha média do corpo.",
         "D": "[INCORRETA] Inferior (ou caudal) refere-se à direção dos pés, no eixo vertical."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -62436,7 +62436,7 @@
         "C": "[INCORRETA] Distal indicaria que ele é o mais 'longe' do punho, mas os outros dedos terminam em níveis similares.",
         "D": "[CORRETA] O polegar é a estrutura mais **lateral** da mão quando em posição anatômica (supinação)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -62514,7 +62514,7 @@
         "C": "[INCORRETA] Ossos pneumáticos possuem cavidades cheias de ar (seios), como o frontal.",
         "D": "[INCORRETA] Ossos irregulares têm formas complexas, como as vértebras."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -62670,7 +62670,7 @@
         "C": "[INCORRETA] Alavanca refere-se à locomoção via articulações e músculos.",
         "D": "[INCORRETA] Armazenamento refere-se ao reservatório de cálcio e fósforo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -62774,7 +62774,7 @@
         "C": "[INCORRETA] Pelo contrário, a matriz facilita a movimentação amoeboide de macrófagos e leucócitos.",
         "D": "[INCORRETA] O armazenamento mineral é função do tecido ósseo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -62826,7 +62826,7 @@
         "C": "[CORRETA] O **tecido adiposo multilocular** produz calor através do desacoplamento da cadeia respiratória.",
         "D": "[INCORRETA] Ambos possuem núcleos geralmente excêntricos ou achatados contra a membrana."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63086,7 +63086,7 @@
         "C": "[INCORRETA] Lacunas são os espaços onde residem os osteócitos.",
         "D": "[CORRETA] Os **canais de Volkmann** garantem a comunicação vascular transversal no osso compacto."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63216,7 +63216,7 @@
         "C": "[CORRETA] O **oligodendrócito** é a célula glial que envolve múltiplos axônios no SNC para formar a mielina.",
         "D": "[INCORRETA] Astrócitos fornecem suporte metabólico e formam a barreira hematoencefálica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63268,7 +63268,7 @@
         "C": "[INCORRETA] O frouxo é o principal local de atuação das células de defesa.",
         "D": "[CORRETA] A alta densidade de **fibras colágenas** define o conjuntivo denso."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63398,7 +63398,7 @@
         "C": "[INCORRETA] Epicôndilos localizam-se na extremidade distal do fêmur (joelho).",
         "D": "[INCORRETA] Maléolos são acidentes da tíbia e fíbula (tornozelo)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63502,7 +63502,7 @@
         "C": "[INCORRETA] O corpo em formato de rim é típico das vértebras lombares.",
         "D": "[CORRETA] As **fóveas costais** (no corpo e nos processos transversos) são o 'RG' das vértebras torácicas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63632,7 +63632,7 @@
         "C": "[CORRETA] O **pericôndrio** é essencial para a nutrição e crescimento por aposição da cartilagem.",
         "D": "[INCORRETA] A cápsula articular envolve a junta, mas a cartilagem articular em si não tem pericôndrio."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63658,7 +63658,7 @@
         "C": "[INCORRETA] Ossificação endocondral é a substituição de cartilagem por osso.",
         "D": "[INCORRETA] Metaplasia é a troca de um tecido adulto por outro."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63866,7 +63866,7 @@
         "C": "[INCORRETA] O joelho depende de cruzados e colaterais.",
         "D": "[INCORRETA] O cotovelo é uma articulação estável em dobradiça."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63918,7 +63918,7 @@
         "C": "[INCORRETA] Entre costela e esterno temos sincondroses e sinoviais.",
         "D": "[INCORRETA] Vértebras possuem sínfises e sinoviais planas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -63970,7 +63970,7 @@
         "C": "[INCORRETA] Músculos circulares (ex: orbicular) funcionam como esfíncteres.",
         "D": "[CORRETA] Músculos **pennados** são os 'geradores de força' por excelência do corpo (ex: reto femoral)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64074,7 +64074,7 @@
         "C": "[INCORRETA] Ventre muscular é a parte contrátil carnosa do músculo.",
         "D": "[CORRETA] A **origem** é a base estável do músculo (geralmente mais proximal)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64282,7 +64282,7 @@
         "C": "[INCORRETA] O labrum é análogo ao menisco, mas típico do ombro e quadril.",
         "D": "[INCORRETA] Bursas são bolsas com líquido que reduzem o atrito de tendões, não adaptam ossos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64308,7 +64308,7 @@
         "C": "[INCORRETA] Disco intervertebral é uma sínfise (cartilaginosa).",
         "D": "[INCORRETA] Articulações entre falanges são sinoviais tipo gínglimo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64386,7 +64386,7 @@
         "C": "[INCORRETA] Junções comunicantes permitem troca de íons entre células, não armazenamento de cálcio.",
         "D": "[INCORRETA] Placa motora é o local de contato do neurônio com o músculo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64542,7 +64542,7 @@
         "C": "[INCORRETA] Todas as células musculares são ricas em energia.",
         "D": "[CORRETA] A **ausência de sarcômeros** organizados impede a visualização de estrias."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64672,7 +64672,7 @@
         "C": "[INCORRETA] Bomba de Sódio/Potássio mantém o potencial, mas não gera o golpe de força.",
         "D": "[INCORRETA] ACh é sintetizada no neurônio, não no sarcômero."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64750,7 +64750,7 @@
         "C": "[INCORRETA] Não há fusão proteica com o osso.",
         "D": "[INCORRETA] Eles permanecem retilíneos, deslizando um sobre o outro."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64854,7 +64854,7 @@
         "C": "[INCORRETA] Reto abdominal é anterior e flexiona o tronco (abdominal).",
         "D": "[INCORRETA] Os eretores da espinha mantêm a postura e estendem a coluna."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -64932,7 +64932,7 @@
         "C": "[INCORRETA] Músculo pequeno e vestigial da face posterior.",
         "D": "[CORRETA] O **fibular longo** (e o curto) são os eversões por excelência."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65088,7 +65088,7 @@
         "C": "[INCORRETA] O estrato lúcido é uma camada de transição e transparente.",
         "D": "[INCORRETA] O estrato basal possui células cilíndricas/cúbicas íntegras e em divisão."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65140,7 +65140,7 @@
         "C": "[INCORRETA] O estrato granuloso é proporcionalmente mais evidente na pele espessa.",
         "D": "[CORRETA] O **estrato lúcido** e um **estrato córneo massivo** são os definidores da pele espessa."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65296,7 +65296,7 @@
         "C": "[INCORRETA] Ácinos mistos contêm ambos, frequentemente vistos como uma semilua serosa sobre ácinos mucosos.",
         "D": "[INCORRETA] Terminologia não utilizada em histologia glandular básica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65348,7 +65348,7 @@
         "C": "[CORRETA] A **rica vascularização** em contato direto com as células glandulares define a arquitetura endócrina.",
         "D": "[INCORRETA] São células epiteliais íntegras com núcleo evidente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65452,7 +65452,7 @@
         "C": "[INCORRETA] Colágeno tipo I forma fibras espessas e resistentes (ex: derme, osso).",
         "D": "[CORRETA] As **fibras reticulares** são compostas por **colágeno tipo III**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65478,7 +65478,7 @@
         "C": "[INCORRETA] O denso irregular possui fibras em várias direções para resistência (ex: derme profunda).",
         "D": "[INCORRETA] O adiposo é especializado em reserva de energia."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65530,7 +65530,7 @@
         "C": "[INCORRETA] Células de Purkinje são neurônios do cerebelo ou do sistema de condução cardíaco.",
         "D": "[INCORRETA] Complexo de Golgi é uma organela celular."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65608,7 +65608,7 @@
         "C": "[INCORRETA] Plaquetas são fragmentos celulares envolvidos na coagulação.",
         "D": "[INCORRETA] Macrófagos são células teciduais derivadas dos monócitos sanguíneos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65634,7 +65634,7 @@
         "C": "[INCORRETA] Parasitoses intestinais causam eosinofilia.",
         "D": "[INCORRETA] Anemias afetam a série vermelha (hemácias), não os neutrófilos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -65660,7 +65660,7 @@
         "C": "[INCORRETA] Eosinófilos são granulócitos com núcleo bilobado.",
         "D": "[CORRETA] O **linfócito** é caracterizado pelo seu núcleo volumoso e papel na imunidade específica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65686,7 +65686,7 @@
         "C": "[CORRETA] O **megacariócito** emite prolongamentos que se rompem para formar as **plaquetas**.",
         "D": "[INCORRETA] Reticulócito é uma hemácia jovem que acabou de perder o núcleo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65712,7 +65712,7 @@
         "C": "[INCORRETA] Neutrófilos possuem grânulos neutros e pouco evidentes.",
         "D": "[INCORRETA] Linfócitos não possuem grânulos específicos proeminentes."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -65738,7 +65738,7 @@
         "C": "[INCORRETA] A coagulação depende de proteínas como o fibrinogênio.",
         "D": "[INCORRETA] Insulina é um hormônio pancreático, não uma proteína plasmática de suporte."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65764,7 +65764,7 @@
         "C": "[INCORRETA] Hemácias não duram tanto tempo.",
         "D": "[CORRETA] As hemácias circulam por aproximadamente **120 dias**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65790,7 +65790,7 @@
         "C": "[INCORRETA] Policitemia é o aumento excessivo de hemácias.",
         "D": "[INCORRETA] Neutropenia é a redução de neutrófilos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -65816,7 +65816,7 @@
         "C": "[INCORRETA] As tonsilas (amígdalas) têm papel imune, não a superfície da língua.",
         "D": "[INCORRETA] Ocorre absorção mínima de fármacos, mas nutrientes são absorvidos no intestino."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65842,7 +65842,7 @@
         "C": "[CORRETA] As **papilas filiformes** são pontiagudas e apenas mecânicas.",
         "D": "[INCORRETA] Localizam-se nas bordas laterais e possuem botões gustativos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65868,7 +65868,7 @@
         "C": "[INCORRETA] A dentina possui túbulos que transmitem o estímulo, mas os nervos residem na polpa.",
         "D": "[INCORRETA] O cemento recobre apenas a raiz."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -65894,7 +65894,7 @@
         "C": "[INCORRETA] Cartilagem calcificada não faz parte da estrutura dentária.",
         "D": "[INCORRETA] Osteoide é a matriz óssea não mineralizada."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65920,7 +65920,7 @@
         "C": "[INCORRETA] Coanas são as aberturas posteriores das cavidades nasais.",
         "D": "[CORRETA] O **palato mole** é a porção muscular e posterior do teto da boca."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65946,7 +65946,7 @@
         "C": "[INCORRETA] O VII par é responsável pelo paladar dos 2/3 anteriores.",
         "D": "[INCORRETA] O V par faz a sensibilidade geral (dor/tato) dos 2/3 anteriores."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -65972,7 +65972,7 @@
         "C": "[CORRETA] Os **alvéolos** são as 'casas' dos dentes nos processos alveolares.",
         "D": "[INCORRETA] Fossas cranianas suportam o encéfalo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -65998,7 +65998,7 @@
         "C": "[INCORRETA] O delgado é o principal local de absorção do tubo.",
         "D": "[CORRETA] **Glândulas salivares**, dentes, fígado e pâncreas são **órgãos acessórios**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66024,7 +66024,7 @@
         "C": "[INCORRETA] A muscular externa é responsável pelo peristaltismo.",
         "D": "[INCORRETA] A serosa/adventícia é a capa externa de revestimento."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66050,7 +66050,7 @@
         "C": "[INCORRETA] Músculo cardíaco é exclusivo do coração.",
         "D": "[INCORRETA] O esôfago possui camadas musculares circulares e longitudinais potentes."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66076,7 +66076,7 @@
         "C": "[INCORRETA] Cárdia é a região do estômago, mas o 'guardião' contra o refluxo é o esfíncter.",
         "D": "[CORRETA] A falha no **EEI** é a causa fisiopatológica da Doença do Refluxo Gastroesofágico (DRGE)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -66102,7 +66102,7 @@
         "C": "[INCORRETA] Muco e bicarbonato são produzidos pelas células da mucosa superficial.",
         "D": "[INCORRETA] São produtos de células enteroendócrinas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66128,7 +66128,7 @@
         "C": "[INCORRETA] Possui plexo mioentérico entre as camadas para controle motor.",
         "D": "[INCORRETA] Possui três camadas, sendo a mista a regra no restante do tubo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66154,7 +66154,7 @@
         "C": "[CORRETA] No cárdia, o epitélio **estratificado pavimentoso** do esôfago torna-se **simples colunar** gástrico.",
         "D": "[INCORRETA] Pseudoestratificado é típico das vias aéreas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66180,7 +66180,7 @@
         "C": "[INCORRETA] O cárdia é a entrada.",
         "D": "[CORRETA] O **piloro** controla a velocidade com que o alimento digerido chega ao intestino."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66206,7 +66206,7 @@
         "C": "[INCORRETA] Tripsina é uma enzima pancreática que atua no duodeno.",
         "D": "[INCORRETA] Amilase é salivar ou pancreática."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66336,7 +66336,7 @@
         "C": "[INCORRETA] Pregas circulares (válvulas de Kerckring) são do intestino delgado.",
         "D": "[INCORRETA] Meso é o tecido que sustenta e leva vasos aos órgãos intraperitoneais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66414,7 +66414,7 @@
         "C": "[INCORRETA] Estrutura da mucosa anal, não um esfíncter.",
         "D": "[CORRETA] O **esfíncter anal externo** é voluntário e nos permite 'segurar' as fezes."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66466,7 +66466,7 @@
         "C": "[INCORRETA] A ordem posterior está errada.",
         "D": "[INCORRETA] Estruturas que não compõem a porta hepática."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66622,7 +66622,7 @@
         "C": "[INCORRETA] O colo é a porção estreita entre a cabeça e o corpo.",
         "D": "[INCORRETA] O esfíncter de Oddi fica no duodeno (lado oposto)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -66752,7 +66752,7 @@
         "C": "[INCORRETA] Óstio esofágico é apenas a abertura de entrada.",
         "D": "[INCORRETA] Plexo nervoso microscópico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66778,7 +66778,7 @@
         "C": "[INCORRETA] A veia cava superior está no tórax.",
         "D": "[INCORRETA] Artéria do pescoço."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -66960,7 +66960,7 @@
         "C": "[INCORRETA] Todas as vias envolvem transformações químicas.",
         "D": "[INCORRETA] Este é um processo catabólico (respiração celular)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67012,7 +67012,7 @@
         "C": "[INCORRETA] Embora o ΔG padrão dependa da temperatura, o ΔG no equilíbrio é definido como zero.",
         "D": "[CORRETA] No **equilíbrio**, as taxas de reação direta e inversa se igualam e **ΔG = 0**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67194,7 +67194,7 @@
         "C": "[INCORRETA] Vitaminas e hormônios são classes diferentes de moléculas sinalizadoras/reguladoras.",
         "D": "[INCORRETA] Membranas são compostas por fosfolipídios e proteínas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67246,7 +67246,7 @@
         "C": "[INCORRETA] Autofagia é o processo de reciclagem de organelas.",
         "D": "[CORRETA] A **compartimentalização** permite que a célula sintetize e degrade moléculas simultaneamente de forma coordenada."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67402,7 +67402,7 @@
         "C": "[INCORRETA] O piruvato converte-se em outros precursores, mas o bloqueio direto é na frutose.",
         "D": "[INCORRETA] Este seria o produto da reação que não ocorre."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -67454,7 +67454,7 @@
         "C": "[INCORRETA] A glicocinase fosforila a glicose.",
         "D": "[INCORRETA] Esta enzima realiza reações de oxirredução, não carboxilação."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67636,7 +67636,7 @@
         "C": "[CORRETA] A **Succinato Desidrogenase** transfere elétrons do succinato diretamente para o FAD, formando o Complexo II.",
         "D": "[INCORRETA] Catalisa a hidratação do fumarato a malato."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67792,7 +67792,7 @@
         "C": "[INCORRETA] Função da glicogenólise.",
         "D": "[INCORRETA] A via é uma rota paralela/alternativa à glicólise, não um inibidor."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -67844,7 +67844,7 @@
         "C": "[INCORRETA] A síntese de esteroides requer NADPH.",
         "D": "[INCORRETA] O P450 requer elétrons do NADPH para metabolizar drogas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68052,7 +68052,7 @@
         "C": "[INCORRETA] A adrenalina estimula a gliconeogênese hepática.",
         "D": "[CORRETA] A **adrenalina** garante energia rápida para o **músculo** e glicose para o **sangue** (fígado)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68078,7 +68078,7 @@
         "C": "[INCORRETA] A produção que é menor, não a excreção.",
         "D": "[INCORRETA] O problema é justamente a resistência ao uso da glicose."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68182,7 +68182,7 @@
         "C": "[INCORRETA] Aprotein principal da HDL.",
         "D": "[INCORRETA] Ajuda no reconhecimento do remanescente de quilomícron pelo fígado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68286,7 +68286,7 @@
         "C": "[INCORRETA] LDL transporta majoritariamente colesterol e deriva do metabolismo da VLDL.",
         "D": "[INCORRETA] HDL atua no transporte de retorno."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68312,7 +68312,7 @@
         "C": "[INCORRETA] A idade não invalida a matemática da fórmula.",
         "D": "[INCORRETA] HDL alto é um fator protetor e não invalida o cálculo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68468,7 +68468,7 @@
         "C": "[INCORRETA] Ele aumenta o CT às custas de um componente específico.",
         "D": "[CORRETA] A **Hipertrigliceridemia** é a dislipidemia induzida pelo álcool por excelência."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68598,7 +68598,7 @@
         "C": "[INCORRETA] São enzimas de perfil hepático/muscular.",
         "D": "[INCORRETA] A AST aumenta na hepatite, às vezes proporcionalmente à ALT."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68624,7 +68624,7 @@
         "C": "[CORRETA] A **OTC** tem padrão de herança **Ligada ao X**, afetando mais severamente os meninos.",
         "D": "[INCORRETA] Não é o padrão descrito."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68780,7 +68780,7 @@
         "C": "[CORRETA] Cada ciclo de beta-oxidação libera uma unidade de **Acetil-CoA**.",
         "D": "[INCORRETA] Succinato é um intermediário do Ciclo de Krebs."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -68884,7 +68884,7 @@
         "C": "[INCORRETA] Atua na síntese de colágeno, não de gordura diretamente.",
         "D": "[CORRETA] O **NADPH** (frequentemente vindo da via das pentoses) é indispensável para a **síntese de lipídios**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69040,7 +69040,7 @@
         "C": "[INCORRETA] Tende ao balanço positivo.",
         "D": "[INCORRETA] Fase de anabolismo reparador (balanço positivo)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69118,7 +69118,7 @@
         "C": "[INCORRETA] A arginina gera o Óxido Nítrico (NO).",
         "D": "[INCORRETA] Aminoácido estrutural essencial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69222,7 +69222,7 @@
         "C": "[INCORRETA] Participa do ciclo da ureia.",
         "D": "[CORRETA] **Glutamina, Glicina e Aspartato** são os principais contribuintes para o anel das purinas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69326,7 +69326,7 @@
         "C": "[INCORRETA] Lipídio.",
         "D": "[CORRETA] O **PRPP** é a molécula central que 'liga' a via de síntese de nucleotídeos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69456,7 +69456,7 @@
         "C": "[CORRETA] O **Ciclo da Alanina** integra a **proteólise muscular** com a **desintoxicação de amônia** e **gliconeogênese** hepáticas.",
         "D": "[INCORRETA] Sem relação mecanística direta."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69508,7 +69508,7 @@
         "C": "[INCORRETA] Enzima hepática/pancreática.",
         "D": "[INCORRETA] Enzima do ciclo da ureia."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69624,7 +69624,7 @@
       "modulo": 1,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual a principal causa metabólica da morte por inanição (fome extrema)?),",
+      "enunciado": "Qual a principal causa metabólica da morte por inanição (fome extrema)?",
       "opcoes": [
         "A) Perda excessiva de componentes proteicos vitais (Músculo cardíaco e respiratório) para fornecer energia.",
         "B) Acúmulo de gordura no cérebro.",
@@ -69690,7 +69690,7 @@
         "C": "[INCORRETA] Sugere infecção ou câncer.",
         "D": "[INCORRETA] É necessária uma combinação de fatores."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69742,7 +69742,7 @@
         "C": "[CORRETA] A **resistência à leptina** contribui para o desequilíbrio do apetite na obesidade grave.",
         "D": "[INCORRETA] Sem correlação fisiológica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69846,7 +69846,7 @@
         "C": "[CORRETA] **Supinação** mantém a palma da mão voltada para cima ou para a frente.",
         "D": "[INCORRETA] Não define o movimento rotacional."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -69950,7 +69950,7 @@
         "C": "[CORRETA] A inclinação lateral (adução/abdução) ocorre no **plano coronal**.",
         "D": "[INCORRETA] Equivalente ao plano transversal."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -70054,7 +70054,7 @@
         "C": "[INCORRETA] Alívio e piora são a letra 'E' (Exacerbating/Relieving).",
         "D": "[CORRETA] A letra 'A' refere-se aos **Sintomas Associados** à dor principal."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70132,7 +70132,7 @@
         "C": "[INCORRETA] Dor aguda localizada, impede o apoio.",
         "D": "[INCORRETA] Causaria deformidade e encurtamento do membro."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70262,7 +70262,7 @@
         "C": "[CORRETA] O aumento da curvatura torácica posterior é chamado de **Hipercifose** ou apenas **Cifose**.",
         "D": "[INCORRETA] É a proeminência costal visível na escoliose durante o teste de Adams."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70314,7 +70314,7 @@
         "C": "[INCORRETA] Pode haver perda de massa (sarcopenia), mas atrofia focal tenar é patológica.",
         "D": "[INCORRETA] Não há relação."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70392,7 +70392,7 @@
         "C": "[INCORRETA] Área muito pequena para uma comparação fidedigna.",
         "D": "[INCORRETA] O calor pode estar presente sem rubor (vermelhidão)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70574,7 +70574,7 @@
         "C": "[INCORRETA] O nervo não é palpado nesse local de forma diagnóstica habitual.",
         "D": "[INCORRETA] Localizada superiormente (articulação acromioclavicular)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70704,7 +70704,7 @@
         "C": "[INCORRETA] Usado para testes neurológicos.",
         "D": "[CORRETA] O **goniômetro** é uma espécie de transferidor clínico para medir a **amplitude articular**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70782,7 +70782,7 @@
         "C": "[INCORRETA] Não faz parte dos 9 pontos da escala.",
         "D": "[CORRETA] A **hiperextensão do 5º dedo** é um dos critérios clássicos do **Escore de Beighton**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70846,7 +70846,7 @@
       "modulo": 1,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A Síndrome do Túnel do Carpo é causada pela compressão de qual nervo no nível do punho?),",
+      "enunciado": "A Síndrome do Túnel do Carpo é causada pela compressão de qual nervo no nível do punho?",
       "opcoes": [
         "A) Nervo Ulnar.",
         "B) Nervo Radial.",
@@ -70964,7 +70964,7 @@
         "C": "[INCORRETA] Não causa artrite aguda microcristalina clássica.",
         "D": "[INCORRETA] Comumente associado a cálculos renais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -70990,7 +70990,7 @@
         "C": "[INCORRETA] Sugere lesão nervosa focal ou tendínea.",
         "D": "[CORRETA] **Dor noturna** e **perda ponderal** são sinais de alerta para malignidade."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71068,7 +71068,7 @@
         "C": "[INCORRETA] Avalia competência técnica pontual, não a totalidade da competência médica.",
         "D": "[INCORRETA] O checklist organiza o raciocínio, não o substitui."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71120,7 +71120,7 @@
         "C": "[INCORRETA] Feedback vazio não gera crescimento técnico.",
         "D": "[INCORRETA] O feedback deve ser sobre a tarefa/ação, não sobre a pessoa."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71146,7 +71146,7 @@
         "C": "[INCORRETA] Avalia dor óssea localizada (Ex: fratura/infecção).",
         "D": "[CORRETA] O **Teste de Adams** evidencia a rotação vertebral através da **gibosidade**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71276,7 +71276,7 @@
         "C": "[CORRETA] A **notificação compulsória** e a **proteção de vulneráveis** são deveres legais superiores ao sigilo individual.",
         "D": "[INCORRETA] Existem exceções previstas no Código de Ética Médica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71354,7 +71354,7 @@
         "C": "[INCORRETA] Informação sem contexto é pouco eficaz.",
         "D": "[INCORRETA] Coerção gera medo e baixa adesão a longo prazo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71406,7 +71406,7 @@
         "C": "[INCORRETA] Inviável e desnecessário se o paciente estiver estável.",
         "D": "[INCORRETA] Perfil de segurança muda com o tempo e dosagem."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71510,7 +71510,7 @@
         "C": "[CORRETA] **Sinais de Alarme** são o seguro de vida do paciente e do médico.",
         "D": "[INCORRETA] O tratamento deve ser baseado no diagnóstico sindrômico ou nosológico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71562,7 +71562,7 @@
         "C": "[INCORRETA] O contexto do paciente muda a agressividade da conduta.",
         "D": "[CORRETA] O **impacto funcional** orienta a prioridade do cuidado e da reabilitação."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -71588,7 +71588,7 @@
         "C": "[INCORRETA] Falta de profissionalismo.",
         "D": "[INCORRETA] Atitude antiética se não houver motivo técnico real."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -71640,7 +71640,7 @@
         "C": "[CORRETA] O **INAMPS** era voltado ao **trabalhador formal**; o restante da população era excluída.",
         "D": "[INCORRETA] Os trabalhadores rurais foram incluídos tardiamente pelo FUNRURAL."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71666,7 +71666,7 @@
         "C": "[INCORRETA] Ocorreu em 1953, mas a reforma sanitária foi um movimento posterior.",
         "D": "[INCORRETA] Ocorreu na URSS em 1978, definindo a Atenção Primária em nível mundial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71692,7 +71692,7 @@
         "C": "[INCORRETA] Não está relacionado à lei.",
         "D": "[INCORRETA] O INAMPS foi criado muito depois e extinto na década de 90."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -71718,7 +71718,7 @@
         "C": "[INCORRETA] Modelo recente de atenção às urgências.",
         "D": "[CORRETA] Os **IAPs** centralizaram a previdência por **categoria profissional** durante o governo Vargas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71744,7 +71744,7 @@
         "C": "[CORRETA] O **Sanitarismo Campanhista** visava erradicar focos de doenças para proteger o **fluxo econômico**.",
         "D": "[INCORRETA] Absurdo para a época."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71770,7 +71770,7 @@
         "C": "[INCORRETA] Defendia tecnologias apropriadas e custo-efetivas.",
         "D": "[INCORRETA] Pelo contrário, valorizou a medicina geral e comunitária."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71796,7 +71796,7 @@
         "C": "[INCORRETA] Pelo contrário, houve estímulo à iniciativa privada.",
         "D": "[INCORRETA] O saneamento básico sofreu grande desinvestimento relativo nesse período."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -71822,7 +71822,7 @@
         "C": "[INCORRETA] Não define o grupo excluído.",
         "D": "[CORRETA] O termo **indigente** era usado para designar os brasileiros sem direito ao sistema previdenciário de saúde."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71874,7 +71874,7 @@
         "C": "[INCORRETA] Complemento individual de renda.",
         "D": "[CORRETA] A **Seguridade Social** (Tríade: Saúde, Previdência e Assistência) é o guarda-chuva constitucional."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -71926,7 +71926,7 @@
         "C": "[CORRETA] O setor privado atua em **caráter complementar**, seguindo as diretrizes do SUS.",
         "D": "[INCORRETA] Não há previsão de estatização forçada."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -72030,7 +72030,7 @@
         "C": "[INCORRETA] Assistência estética não essencial não é prioridade do financiamento SUS.",
         "D": "[INCORRETA] Existe a previsão legal para o caráter complementar."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -72094,7 +72094,7 @@
       "modulo": 1,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O princípio da 'Integralidade' do SUS significa que:),",
+      "enunciado": "O princípio da 'Integralidade' do SUS significa que:",
       "opcoes": [
         "A) O sistema deve oferecer um conjunto articulado de ações e serviços, desde a prevenção até a reabilitação, considerando o indivíduo como um todo biopsicossocial.",
         "B) O sistema deve atender apenas 100% dos casos de gripe.",
@@ -72186,7 +72186,7 @@
         "C": "[INCORRETA] Casos complexos e cirurgias exigem níveis superiores de cuidado.",
         "D": "[INCORRETA] Visão preconceituosa que ignora o papel técnico do médico de família."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -72238,7 +72238,7 @@
         "C": "[INCORRETA] Refere-se à capacidade técnica de cura/tratamento.",
         "D": "[CORRETA] A atuação dos **Conselhos de Saúde** é a expressão máxima da **Participação Popular**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -72368,7 +72368,7 @@
         "C": "[CORRETA] As **Conferências de Saúde** ocorrem obrigatoriamente a cada **4 anos**.",
         "D": "[INCORRETA] É um dever legal independente da vontade política pontual."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -72420,7 +72420,7 @@
         "C": "[INCORRETA] O foco é na responsabilidade ambiental e laboral do empregador/estado.",
         "D": "[INCORRETA] Visa o contrário: proteger os direitos do trabalhador adoecido."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -72550,7 +72550,7 @@
         "C": "[INCORRETA] Absurdo sem base histórica.",
         "D": "[INCORRETA] Esta é uma defesa do modelo sanitário/comunitário, não do puramente flexneriano."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -72654,7 +72654,7 @@
         "C": "[CORRETA] A redução de barreiras geográficas, temporais e organizacionais melhora o **Acesso**.",
         "D": "[INCORRETA] Atributo organizativo da rede territorial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -72836,7 +72836,7 @@
         "C": "[INCORRETA] Não é uma multa, mas um incentivo ao cumprimento de metas.",
         "D": "[INCORRETA] Não reflete a complexidade da gestão em saúde."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -72862,7 +72862,7 @@
         "C": "[INCORRETA] O financiamento é pactuado, não há assumção de dívidas irresponsáveis.",
         "D": "[CORRETA] A **Gestão Plena** é o teto da autonomia municipal na **descentralização do SUS**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -73018,7 +73018,7 @@
         "C": "[INCORRETA] Incompatível com a função pública.",
         "D": "[CORRETA] A **Ouvidoria** é o canal de escuta e **exercício de cidadania** do usuário."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73070,7 +73070,7 @@
         "C": "[CORRETA] O **trabalhador da saúde** traz a **experiência do cotidiano** assistencial para o conselho.",
         "D": "[INCORRETA] Absurdo ético."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73122,7 +73122,7 @@
         "C": "[INCORRETA] Foco no pronto atendimento e SAMU.",
         "D": "[CORRETA] A **Rede Cegonha** organiza o cuidado materno-infantil em todos os pontos da rede."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73226,7 +73226,7 @@
         "C": "[INCORRETA] Infraestrutura física secundária.",
         "D": "[INCORRETA] Meio de comunicação social externo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73238,7 +73238,7 @@
       "modulo": 1,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "A 'Coordenação do Cuidado' pela APS falha quando:),",
+      "enunciado": "A 'Coordenação do Cuidado' pela APS falha quando:",
       "opcoes": [
         "A) O médico da UBS encaminha o paciente corretamente.",
         "B) O paciente perde o papel do encaminhamento.",
@@ -73434,7 +73434,7 @@
         "C": "[INCORRETA] Não é o foco da integração de dados de saúde pública.",
         "D": "[INCORRETA] Dado irrelevante e invasão de privacidade."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73486,7 +73486,7 @@
         "C": "[CORRETA] A **relação médico-paciente empática** e informativa é o núcleo da **Educação em Saúde**.",
         "D": "[INCORRETA] O Google pode confundir o paciente sem a mediação técnica do profissional."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81234,7 +81234,7 @@
         "C": "[INCORRETA] Redução das desigualdades.",
         "D": "[CORRETA] O **ODS 3** é a meta central para a **Saúde Global**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81272,7 +81272,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a relação entre o ODS 6 (Água Potável e Saneamento) e a saúde pública?),",
+      "enunciado": "Qual a relação entre o ODS 6 (Água Potável e Saneamento) e a saúde pública?",
       "opcoes": [
         "A) Nenhuma, pois a água serve apenas para as plantas.",
         "B) A água só é importante se houver excesso.",
@@ -81312,7 +81312,7 @@
         "C": "[INCORRETA] Seria uma solução, não o problema citado.",
         "D": "[INCORRETA] Desestimularia a recompra acelerada."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81324,7 +81324,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O conceito de 'Pegada Ecológica' é usado para medir:),",
+      "enunciado": "O conceito de 'Pegada Ecológica' é usado para medir:",
       "opcoes": [
         "A) O tamanho médio do pé das populações.",
         "B) Quanto lixo uma empresa recicla.",
@@ -81572,7 +81572,7 @@
         "C": "[INCORRETA] Insolação é alta, a retenção é que aquece a cidade.",
         "D": "[CORRETA] A **Ilha de Calor** é um estresse **ambiental e clínico** crônico para o morador da metrópole."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -81598,7 +81598,7 @@
         "C": "[INCORRETA] Exacerbaria a desigualdade social no acesso ao verde.",
         "D": "[INCORRETA] O foco é gestão de resíduos e acesso a direitos, não proibição absoluta de tratamentos necessários."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81676,7 +81676,7 @@
         "C": "[INCORRETA] Crime ambiental.",
         "D": "[INCORRETA] Medicamentos vencidos ou danificados são resíduos, não terapias seguras."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81780,7 +81780,7 @@
         "C": "[INCORRETA] Geram lixo comum e reciclável (D).",
         "D": "[INCORRETA] É uma categoria fundamental em hospitais oncológicos ou de diagnóstico por imagem avançado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81858,7 +81858,7 @@
         "C": "[INCORRETA] Definições incompletas.",
         "D": "[CORRETA] A **Empatia Clínica** é uma ferramenta de **conexão e diagnóstico** humanizado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82014,7 +82014,7 @@
         "C": "[CORRETA] A **Abordagem Centrada na Pessoa** integra o biopsicossocial.",
         "D": "[INCORRETA] O foco deve permanecer no paciente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82066,7 +82066,7 @@
         "C": "[INCORRETA] Sem ética clínica.",
         "D": "[CORRETA] Entender o **conhecimento prévio** é vital para uma comunicação eficaz."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82222,7 +82222,7 @@
         "C": "[CORRETA] A **Estratégia e Resumo** garantem a continuidade do **cuidado**.",
         "D": "[INCORRETA] Desrespeitoso e perigoso tecnicamente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82404,7 +82404,7 @@
         "C": "[INCORRETA] Absurdo.",
         "D": "[INCORRETA] Ambos pressupõem o pedido/consentimento do paciente (eutanásia voluntária)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82430,7 +82430,7 @@
         "C": "[CORRETA] A **Mistanásia** é a **morte por injustiça social**.",
         "D": "[INCORRETA] Senescência."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -82494,7 +82494,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Homeopatia' baseia-se em um princípio fundamental de tratamento. Qual é ele?),",
+      "enunciado": "A 'Homeopatia' baseia-se em um princípio fundamental de tratamento. Qual é ele?",
       "opcoes": [
         "A) Lei dos Semelhantes ('Similia Similibus Curentur') - tratar o doente com substâncias que causam sintomas parecidos com os da doença em pessoas saudáveis.",
         "B) Lei dos Contrários - usar veneno para matar a bactéria.",
@@ -82534,7 +82534,7 @@
         "C": "[CORRETA] As **PICS** auxiliam na **Desmedicalização** da vida.",
         "D": "[INCORRETA] São integradas ao sistema de saúde, não substitutivas da presença do profissional."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82612,7 +82612,7 @@
         "C": "[INCORRETA] Irrelevante.",
         "D": "[INCORRETA] Fenômeno ambiental negativo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82690,7 +82690,7 @@
         "C": "[INCORRETA] Transtorno dissociativo.",
         "D": "[CORRETA] A **Despersonalização** desumaniza o **atendimento médico**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82742,7 +82742,7 @@
         "C": "[CORRETA] A **Resiliência** é uma habilidade que pode ser desenvolvida para a **longevidade na carreira**.",
         "D": "[INCORRETA] Docilidade não é resiliência."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -82976,7 +82976,7 @@
         "C": "[INCORRETA] Pelo contrário, exige mais diálogo e tempo.",
         "D": "[INCORRETA] Paternalismo obsoleto."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83002,7 +83002,7 @@
         "C": "[INCORRETA] Agrava riscos cirúrgicos sem necessidade.",
         "D": "[CORRETA] A **Prevenção Quaternária** evita o **dano iatrogênico** do sistema."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83184,7 +83184,7 @@
         "C": "[INCORRETA] Prática administrativa em rede privada, se abusiva pode ser má gestão, mas a definição de 'violência institucional' é mais ampla e foca no desrespeito ao direito.",
         "D": "[INCORRETA] Falha de infraestrutura (negligência estatal se habitual, mas não a definição do conceito)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83418,7 +83418,7 @@
         "C": "[INCORRETA] Saudáveis também podem ser vulneráveis (ex: militares de baixa patente sob ordem superior).",
         "D": "[CORRETA] A **Proteção ao Vulnerável** exige cuidados éticos **adicionais**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83470,7 +83470,7 @@
         "C": "[CORRETA] O **Equilíbrio Risco-Benefício** é o crivo da **aprovação ética**.",
         "D": "[INCORRETA] Antiético transformar humanos em puro lucro comercial sem base científica honesta."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83574,7 +83574,7 @@
         "C": "[CORRETA] A **Horizontalidade Éética** valoriza a **complementaridade** das profissões.",
         "D": "[INCORRETA] A responsabilidade é compartilhada e individual simultaneamente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83652,7 +83652,7 @@
         "C": "[INCORRETA] Fator externo.",
         "D": "[INCORRETA] Irrelevante."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83704,7 +83704,7 @@
         "C": "[INCORRETA] Ambas podem estar presentes em qualquer idade.",
         "D": "[INCORRETA] Ambas as dimensões impactam positivamente o enfrentamento da doença."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83834,7 +83834,7 @@
         "C": "[INCORRETA] Estudos mostram impacto positivo.",
         "D": "[CORRETA] A **Espiritualidade** influencia as **escolhas terapêuticas** do paciente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -83846,7 +83846,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A letra 'C' (Community/Comunidade) do protocolo FICA busca identificar:),",
+      "enunciado": "A letra 'C' (Community/Comunidade) do protocolo FICA busca identificar:",
       "opcoes": [
         "A) Se o paciente participa de algum grupo ou comunidade que o apoie emocionalmente em momentos de crise.",
         "B) O nome da rua onde o paciente mora.",
@@ -83938,7 +83938,7 @@
         "C": "[INCORRETA] Sem fundamento legal de propriedade.",
         "D": "[CORRETA] O **Prontuário** é de propriedade do **paciente**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84042,7 +84042,7 @@
         "C": "[INCORRETA] Razões financeiras não justificam quebra de sigilo clínico.",
         "D": "[INCORRETA] Publicação científica exige autorização e anonimato total da face/dados."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
