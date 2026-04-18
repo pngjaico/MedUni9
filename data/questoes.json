@@ -73512,7 +73512,7 @@
         "C": "[INCORRETA] Todos os seres vivos (incluindo plantas e fungos) são celulares.",
         "D": "[INCORRETA] O material genético é essencial para a vida celular."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73524,7 +73524,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 0,
-      "enunciado": "Qual a principal diferença estrutural entre uma célula Procariótica (como a de uma bactéria) e uma célula Eucariótica (como a humana)?),",
+      "enunciado": "Qual a principal diferença estrutural entre uma célula Procariótica (como a de uma bactéria) e uma célula Eucariótica (como a humana)?",
       "opcoes": [
         "A) A ausência de um núcleo delimitado por membrana (envelope nuclear) nos procariotos.",
         "B) A presença de ribossomos apenas nos eucariotos.",
@@ -73550,7 +73550,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um pesquisador deseja observar detalhes da ultraestrutura interna de uma mitocôndria, como as cristas e a matriz, em cortes extremamente finos. Qual o tipo de microscopia mais adequado?),",
+      "enunciado": "Um pesquisador deseja observar detalhes da ultraestrutura interna de uma mitocôndria, como as cristas e a matriz, em cortes extremamente finos. Qual o tipo de microscopia mais adequado?",
       "opcoes": [
         "A) Microscopia Óptica de Luz.",
         "B) Microscopia de Varredura (MEV).",
@@ -73590,7 +73590,7 @@
         "C": "[CORRETA] O **microscópio óptico** atinge o limite de **0,2 µm** devido ao comprimento de onda da luz visível.",
         "D": "[INCORRETA] Faixa de resolução da microscopia eletrônica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73602,7 +73602,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Ao preparar uma lâmina histológica para microscopia de luz, o tecido deve passar por várias etapas. Qual a finalidade da etapa de 'Fixação' (geralmente com formaldeído)?),",
+      "enunciado": "Ao preparar uma lâmina histológica para microscopia de luz, o tecido deve passar por várias etapas. Qual a finalidade da etapa de 'Fixação' (geralmente com formaldeído)?",
       "opcoes": [
         "A) Deixar as células vivas por mais tempo.",
         "B) Preservar a estrutura celular e evitar a autólise (autodestruição por enzimas), interrompendo o metabolismo imediatamente.",
@@ -73628,7 +73628,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A principal vantagem da Microscopia Eletrônica de Varredura (MEV) em relação à de Transmissão é:),",
+      "enunciado": "A principal vantagem da Microscopia Eletrônica de Varredura (MEV) em relação à de Transmissão é:",
       "opcoes": [
         "A) A visualização de imagens tridimensionais (3D) da superfície das amostras.",
         "B) O custo muito mais baixo que a microscopia óptica.",
@@ -73654,7 +73654,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "Por que o poder de resolução de um microscópio eletrônico é milhares de vezes superior ao de um microscópio óptico?),",
+      "enunciado": "Por que o poder de resolução de um microscópio eletrônico é milhares de vezes superior ao de um microscópio óptico?",
       "opcoes": [
         "A) Porque as lentes são feitas de cristal de rocha puro.",
         "B) Porque ele usa uma lâmpada mais potente.",
@@ -73680,7 +73680,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um patologista recebe uma amostra de biópsia e precisa identificar se há invasão de células cancerosas no tecido saudável. Qual técnica de microscopia e coloração é a mais utilizada na rotina diagnóstica inicial?),",
+      "enunciado": "Um patologista recebe uma amostra de biópsia e precisa identificar se há invasão de células cancerosas no tecido saudável. Qual técnica de microscopia e coloração é a mais utilizada na rotina diagnóstica inicial?",
       "opcoes": [
         "A) Microscopia Eletrônica com contraste de ouro.",
         "B) Microscopia de Fluorescência com anticorpos.",
@@ -73706,7 +73706,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A molécula de água é considerada um dipolo elétrico. Qual é a consequência direta dessa polaridade para o funcionamento celular?),",
+      "enunciado": "A molécula de água é considerada um dipolo elétrico. Qual é a consequência direta dessa polaridade para o funcionamento celular?",
       "opcoes": [
         "A) Garante que a água seja um gás em temperatura ambiente.",
         "B) Impede que a água participe de reações químicas.",
@@ -73746,7 +73746,7 @@
         "C": "[INCORRETA] Valor alto demais e distribuição invertida.",
         "D": "[INCORRETA] A homeostase hídrica é vital."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73772,7 +73772,7 @@
         "C": "[INCORRETA] A água tem baixa viscosidade.",
         "D": "[INCORRETA] Refere-se à mudança de estado físico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73784,7 +73784,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Os sais minerais desempenham funções vitais. Qual íon é fundamental para a contração muscular e liberação de neurotransmissores nas sinapses?),",
+      "enunciado": "Os sais minerais desempenham funções vitais. Qual íon é fundamental para a contração muscular e liberação de neurotransmissores nas sinapses?",
       "opcoes": [
         "A) Cloreto (Cl-).",
         "B) Ferro (Fe++).",
@@ -73810,7 +73810,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Um paciente apresenta vômitos persistentes e prolongados, perdendo grande quantidade de suco gástrico (ácido clorídrico). Qual alteração no pH sanguíneo e qual sistema tampão será acionado para tentar compensar a perda?),",
+      "enunciado": "Um paciente apresenta vômitos persistentes e prolongados, perdendo grande quantidade de suco gástrico (ácido clorídrico). Qual alteração no pH sanguíneo e qual sistema tampão será acionado para tentar compensar a perda?",
       "opcoes": [
         "A) Acidose metabólica; Tampão Amônia.",
         "B) Alcalose metabólica; Tampão Bicarbonato/Ácido Carbônico.",
@@ -73836,7 +73836,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual a importância do Ferro (Fe) para o organismo humano e qual a consequência clínica de sua deficiência?),",
+      "enunciado": "Qual a importância do Ferro (Fe) para o organismo humano e qual a consequência clínica de sua deficiência?",
       "opcoes": [
         "A) Composição da Hemoglobina (transporte de oxigênio); Anemia Ferropriva.",
         "B) Manutenção dos dentes fortes; Cárie dentária.",
@@ -73862,7 +73862,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "A 'Bomba de Sódio e Potássio' é um mecanismo que utiliza ATP para manter gradientes iônicos desiguais entre os meios celular e extracelular. Onde há MAIOR concentração de cada íon no estado fisiológico normal?),",
+      "enunciado": "A 'Bomba de Sódio e Potássio' é um mecanismo que utiliza ATP para manter gradientes iônicos desiguais entre os meios celular e extracelular. Onde há MAIOR concentração de cada íon no estado fisiológico normal?",
       "opcoes": [
         "A) Mais Na+ dentro e mais K+ fora.",
         "B) Pouco Na+ fora e pouco K+ fora.",
@@ -73888,7 +73888,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um atleta corre uma maratona sob sol forte sem beber água adequadamente (Desidratação). Qual fenômeno físico-químico ocorre com suas células sanguíneas ao ficarem em um meio extracelular hipertônico (muita concentração de sais)?),",
+      "enunciado": "Um atleta corre uma maratona sob sol forte sem beber água adequadamente (Desidratação). Qual fenômeno físico-químico ocorre com suas células sanguíneas ao ficarem em um meio extracelular hipertônico (muita concentração de sais)?",
       "opcoes": [
         "A) Hemólise (estouro da célula).",
         "B) As células dobram de tamanho.",
@@ -73928,7 +73928,7 @@
         "C": "[INCORRETA] Polissacarídeo de reserva vegetal.",
         "D": "[INCORRETA] Polissacarídeo estrutural vegetal."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73954,7 +73954,7 @@
         "C": "[CORRETA] Os **lipídios** formam a barreira das **membranas** e protegem contra o frio.",
         "D": "[INCORRETA] Função das proteínas actina e miosina."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -73966,7 +73966,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Um paciente em jejum prolongado consome suas reservas de açúcar estocadas no fígado e nos músculos. Qual o nome deste polissacarídeo de reserva animal?),",
+      "enunciado": "Um paciente em jejum prolongado consome suas reservas de açúcar estocadas no fígado e nos músculos. Qual o nome deste polissacarídeo de reserva animal?",
       "opcoes": [
         "A) Glicogênio.",
         "B) Amilose.",
@@ -73992,7 +73992,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Os esteroides são uma classe importante de lipídios derivedos do colesterol. Qual destas substâncias é um hormônio esteroide produzido a partir do colesterol?),",
+      "enunciado": "Os esteroides são uma classe importante de lipídios derivedos do colesterol. Qual destas substâncias é um hormônio esteroide produzido a partir do colesterol?",
       "opcoes": [
         "A) Insulina.",
         "B) Glucagon.",
@@ -74018,7 +74018,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Gordura Trans' é amplamente evitada na dieta devido ao aumento do risco cardiovascular. Do ponto de vista químico-celular, o que caracteriza as gorduras insaturadas saudáveis?),",
+      "enunciado": "A 'Gordura Trans' é amplamente evitada na dieta devido ao aumento do risco cardiovascular. Do ponto de vista químico-celular, o que caracteriza as gorduras insaturadas saudáveis?",
       "opcoes": [
         "A) Possuem apenas ligações simples entre os carbonos, sendo sólidas à temperatura ambiente.",
         "B) Possuem uma ou mais ligações duplas (dobras) em sua cadeia de ácidos graxos, o que as torna líquidas (óleos) e mais fluidas na membrana.",
@@ -74044,7 +74044,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Uma criança apresenta intolerância à lactose. Do ponto de vista bioquímico, o que está ocorrendo no intestino dessa criança?),",
+      "enunciado": "Uma criança apresenta intolerância à lactose. Do ponto de vista bioquímico, o que está ocorrendo no intestino dessa criança?",
       "opcoes": [
         "A) Deficiência da enzima lactase, impedindo a quebra do dissacarídeo lactose em glicose e galactose.",
         "B) O açúcar do leite entra na célula e explode as mitocôndrias.",
@@ -74070,7 +74070,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "Os fosfolipídios são moléculas anfipáticas. Qual a importância biológica dessa característica para a célula?),",
+      "enunciado": "Os fosfolipídios são moléculas anfipáticas. Qual a importância biológica dessa característica para a célula?",
       "opcoes": [
         "A) Eles são venenosos para as bactérias.",
         "B) Eles permitem que a gordura se dissolva completamente no citoplasma.",
@@ -74096,7 +74096,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um exame de sangue mostra 'Triglicerídeos' elevados. Qual a principal função destas moléculas (Triacilgliceróis) no organismo?),",
+      "enunciado": "Um exame de sangue mostra 'Triglicerídeos' elevados. Qual a principal função destas moléculas (Triacilgliceróis) no organismo?",
       "opcoes": [
         "A) Formação de novas células cerebrais.",
         "B) Transporte de oxigênio.",
@@ -74136,7 +74136,7 @@
         "C": "[INCORRETA] Liga nucleotídeos no DNA/RNA.",
         "D": "[INCORRETA] É uma ligação fraca (intermolecular) que estabiliza estruturas secundárias e terciárias."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74162,7 +74162,7 @@
         "C": "[CORRETA] A **Estrutura Primária** é a ordem dos **aminoácidos** na 'fila'.",
         "D": "[INCORRETA] Esta é a estrutura terciária."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74174,7 +74174,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um paciente com febre altíssima (superior a 41°C) corre o risco de morte devido, entre outros fatores, à perda da função de suas enzimas essenciais. Qual o nome desse processo de perda da conformação tridimensional das proteínas?),",
+      "enunciado": "Um paciente com febre altíssima (superior a 41°C) corre o risco de morte devido, entre outros fatores, à perda da função de suas enzimas essenciais. Qual o nome desse processo de perda da conformação tridimensional das proteínas?",
       "opcoes": [
         "A) Hidratação celular.",
         "B) Desnaturação.",
@@ -74200,7 +74200,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "As chaperonas moleculares são proteínas essenciais para a saúde celular. Qual a sua principal função?),",
+      "enunciado": "As chaperonas moleculares são proteínas essenciais para a saúde celular. Qual a sua principal função?",
       "opcoes": [
         "A) Transportar oxigênio pelo sangue.",
         "B) Digerir restos celulares.",
@@ -74226,7 +74226,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A Anemia Falciforme é causada pela substituição de um único aminoácido (ácido glutâmico por valina) na cadeia da hemoglobina. Isso demonstra que um erro em qual nível de organização proteica impacta toda a função da molécula?),",
+      "enunciado": "A Anemia Falciforme é causada pela substituição de um único aminoácido (ácido glutâmico por valina) na cadeia da hemoglobina. Isso demonstra que um erro em qual nível de organização proteica impacta toda a função da molécula?",
       "opcoes": [
         "A) Apenas no nível quaternário.",
         "B) Apenas no nível secundário.",
@@ -74252,7 +74252,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "As proteínas podem ser classificadas como Fibrosas ou Globulares. Qual o exemplo clássico de uma proteína fibrosa indispensável para a integridade da pele e dos tendões?),",
+      "enunciado": "As proteínas podem ser classificadas como Fibrosas ou Globulares. Qual o exemplo clássico de uma proteína fibrosa indispensável para a integridade da pele e dos tendões?",
       "opcoes": [
         "A) Colágeno.",
         "B) Hemoglobina.",
@@ -74278,7 +74278,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Aminoácidos essenciais são aqueles que o organismo humano não é capaz de sintetizar em quantidades suficientes. Como eles são obtidos e por que são cruciais?),",
+      "enunciado": "Aminoácidos essenciais são aqueles que o organismo humano não é capaz de sintetizar em quantidades suficientes. Como eles são obtidos e por que são cruciais?",
       "opcoes": [
         "A) São obtidos pela exposição solar; cruciais para a cor da pele.",
         "B) São obtidos exclusivamente pela dieta; cruciais para que o corpo possa construir todas as suas proteínas necessárias.",
@@ -74304,7 +74304,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A albumina é a principal proteína do plasma sanguíneo e responsável por manter a pressão osmótica coloidal. Se o fígado para de produzir albumina (insuficiência hepática), qual sintoma clínico é esperado no paciente?),",
+      "enunciado": "A albumina é a principal proteína do plasma sanguíneo e responsável por manter a pressão osmótica coloidal. Se o fígado para de produzir albumina (insuficiência hepática), qual sintoma clínico é esperado no paciente?",
       "opcoes": [
         "A) Queda de cabelo apenas.",
         "B) Melhora da oxigenação.",
@@ -74330,7 +74330,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "As enzimas são catalisadores biológicos. Como elas conseguem aumentar a velocidade de uma reação química na célula?),",
+      "enunciado": "As enzimas são catalisadores biológicos. Como elas conseguem aumentar a velocidade de uma reação química na célula?",
       "opcoes": [
         "A) Aumentando a temperatura da célula para 100°C.",
         "B) Diminuindo a energia de ativação necessária para que a reação ocorra.",
@@ -74370,7 +74370,7 @@
         "C": "[INCORRETA] Referência a organelas, não enzimas isoladas.",
         "D": "[CORRETA] O **Sítio Ativo** garante a **especificidade** da enzima."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74382,7 +74382,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A pepsina é uma enzima digestiva do estômago que atua em pH ácido (cerca de 2,0). Se essa enzima for para o intestino delgado (onde o pH é básico, cerca de 8,0), o que acontecerá?),",
+      "enunciado": "A pepsina é uma enzima digestiva do estômago que atua em pH ácido (cerca de 2,0). Se essa enzima for para o intestino delgado (onde o pH é básico, cerca de 8,0), o que acontecerá?",
       "opcoes": [
         "A) Ela perderá sua atividade catalítica devido à desnaturação causada pela mudança drástica de pH.",
         "B) Ela digerirá o intestino com mais força.",
@@ -74408,7 +74408,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "Na cinética enzimática de Michaelis-Menten, o valor de Km (Constante de Michaelis) é um parâmetro importante. O que um Km BAIXO indica sobre uma enzima?),",
+      "enunciado": "Na cinética enzimática de Michaelis-Menten, o valor de Km (Constante de Michaelis) é um parâmetro importante. O que um Km BAIXO indica sobre uma enzima?",
       "opcoes": [
         "A) Que a enzima é muito lenta.",
         "B) Que a enzima está quebrada.",
@@ -74434,7 +74434,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Muitos medicamentos agem como inibidores enzimáticos. Se um inibidor se liga ao SÍTIO ATIVO da enzima, impedindo a ligação do substrato real, mas pode ser 'vencido' se aumentarmos muito a dose do substrato, que tipo de inibição é esta?),",
+      "enunciado": "Muitos medicamentos agem como inibidores enzimáticos. Se um inibidor se liga ao SÍTIO ATIVO da enzima, impedindo a ligação do substrato real, mas pode ser 'vencido' se aumentarmos muito a dose do substrato, que tipo de inibição é esta?",
       "opcoes": [
         "A) Inibição Irreversível.",
         "B) Inibição Competitiva.",
@@ -74474,7 +74474,7 @@
         "C": "[INCORRETA] O substrato é o que será transformado.",
         "D": "[CORRETA] **Coenzimas** (orgânicas/vitaminas) e **Cofatores** (íons) são ajudantes essenciais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74486,7 +74486,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A 'Inibição por Retroalimentação' (Feedback Inhibition) é um mecanismo de controle metabólico. Como ela funciona?),",
+      "enunciado": "A 'Inibição por Retroalimentação' (Feedback Inhibition) é um mecanismo de controle metabólico. Como ela funciona?",
       "opcoes": [
         "A) O produto final de uma via metabólica inibe uma enzima do início daquela mesma via quando em alta concentração.",
         "B) O médico deve dar um feedback para a enzima para ela trabalhar mais.",
@@ -74512,7 +74512,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um paciente ingere álcool metílico (metanol) por acidente, o que é tóxico. O tratamento hospitalar envolve a administração de álcool etílico (etanol), que tem maior afinidade pela mesma enzima (Álcool Desidrogenase) que metaboliza o metanol. Esse é um exemplo clínico de:),",
+      "enunciado": "Um paciente ingere álcool metílico (metanol) por acidente, o que é tóxico. O tratamento hospitalar envolve a administração de álcool etílico (etanol), que tem maior afinidade pela mesma enzima (Álcool Desidrogenase) que metaboliza o metanol. Esse é um exemplo clínico de:",
       "opcoes": [
         "A) Ingestão de veneno com veneno.",
         "B) Inibição Competitiva usada como tratamento (Antídoto).",
@@ -74538,7 +74538,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 0,
-      "enunciado": "O modelo aceito para descrever a estrutura da membrana plasmática é o 'Modelo do Mosaico Fluido'. O que o termo 'mosaico' representa nesta analogia?),",
+      "enunciado": "O modelo aceito para descrever a estrutura da membrana plasmática é o 'Modelo do Mosaico Fluido'. O que o termo 'mosaico' representa nesta analogia?",
       "opcoes": [
         "A) A distribuição heterogênea de diversas proteínas inseridas ou ligadas à bicamada lipídica.",
         "B) O fato de a membrana ser feita de vidro colorido.",
@@ -74564,7 +74564,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 2,
-      "enunciado": "Qual o papel principal do Colesterol presente nas membranas plasmáticas das células animais?),",
+      "enunciado": "Qual o papel principal do Colesterol presente nas membranas plasmáticas das células animais?",
       "opcoes": [
         "A) Destruir a célula.",
         "B) Armazenar material genético.",
@@ -74590,7 +74590,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O 'Glicocálix' é uma camada de carboidratos ligada a proteínas e lipídios na face externa da membrana. Qual a sua função principal na imunologia e no reconhecimento celular?),",
+      "enunciado": "O 'Glicocálix' é uma camada de carboidratos ligada a proteínas e lipídios na face externa da membrana. Qual a sua função principal na imunologia e no reconhecimento celular?",
       "opcoes": [
         "A) Filtrar a entrada de luz na célula.",
         "B) Permitir que a célula se mova como um peixe.",
@@ -74616,7 +74616,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um fármaco hidrofóbico (lipossolúvel) consegue atravessar a membrana plasmática muito mais facilmente que um fármaco hidrofílico carregado. Por que isso ocorre?),",
+      "enunciado": "Um fármaco hidrofóbico (lipossolúvel) consegue atravessar a membrana plasmática muito mais facilmente que um fármaco hidrofílico carregado. Por que isso ocorre?",
       "opcoes": [
         "A) Porque as proteínas da membrana expulsam a água.",
         "B) Devido ao núcleo apolar da bicamada lipídica (caudas dos fosfolipídios), que barram substâncias polares mas permitem a passagem de moléculas lipídicas.",
@@ -74642,7 +74642,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "As Proteínas Integrais de Membrana (transmembrana) possuem domínios que atravessam a bicamada. Qual a característica química esperada dos aminoácidos que ficam em contato direto com as caudas dos fosfolipídios?),",
+      "enunciado": "As Proteínas Integrais de Membrana (transmembrana) possuem domínios que atravessam a bicamada. Qual a característica química esperada dos aminoácidos que ficam em contato direto com as caudas dos fosfolipídios?",
       "opcoes": [
         "A) Aminoácidos Hidrofóbicos (Não-polares).",
         "B) Aminoácidos Hidrofílicos (Carregados positivamente).",
@@ -74682,7 +74682,7 @@
         "C": "[CORRETA] O **FRAP** confirmou a **fluidez** do modelo do mosaico fluido.",
         "D": "[INCORRETA] O brilho vem do corante fluorescente adicionado pelo pesquisador."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74708,7 +74708,7 @@
         "C": "[INCORRETA] Ribossomos ficam no citoplasma ou RE rugoso.",
         "D": "[INCORRETA] Proteínas transmembrana específicas, não microdomínios lipídicos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74720,7 +74720,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A 'Assimetria de Membrana' significa que as faces interna e externa possuem composições lipídicas e proteicas diferentes. Qual a relevância clínica de encontrar 'Fosfatidilserina' (normalmente interna) exposta na face EXTERNA da célula?),",
+      "enunciado": "A 'Assimetria de Membrana' significa que as faces interna e externa possuem composições lipídicas e proteicas diferentes. Qual a relevância clínica de encontrar 'Fosfatidilserina' (normalmente interna) exposta na face EXTERNA da célula?",
       "opcoes": [
         "A) Indica que a célula está com excesso de energia.",
         "B) Indica que a célula está se dividindo rapidamente.",
@@ -74760,7 +74760,7 @@
         "C": "[INCORRETA] Isso define o transporte ativo.",
         "D": "[INCORRETA] Células vivas utilizam intensamente para glicose e íons."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74772,7 +74772,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual a principal função da 'Bomba de Sódio e Potássio' (Na+/K+ ATPase) nas células animais?),",
+      "enunciado": "Qual a principal função da 'Bomba de Sódio e Potássio' (Na+/K+ ATPase) nas células animais?",
       "opcoes": [
         "A) Levar água para fora da célula apenas.",
         "B) Produzir glicose a partir do sal.",
@@ -74798,7 +74798,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Um paciente ingere uma solução oral de reidratação contendo Glicose e Sódio. No intestino, a glicose entra na célula 'pegando carona' no gradiente de sódio criado pela bomba basal. Que tipo de transporte é este?),",
+      "enunciado": "Um paciente ingere uma solução oral de reidratação contendo Glicose e Sódio. No intestino, a glicose entra na célula 'pegando carona' no gradiente de sódio criado pela bomba basal. Que tipo de transporte é este?",
       "opcoes": [
         "A) Transporte Ativo Secundário (Simporte).",
         "B) Difusão Simples.",
@@ -74824,7 +74824,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Fagocitose' é um processo de endocitose realizado por células especializadas, como os neutrófilos e macrófagos. Qual a sua principal característica?),",
+      "enunciado": "A 'Fagocitose' é um processo de endocitose realizado por células especializadas, como os neutrófilos e macrófagos. Qual a sua principal característica?",
       "opcoes": [
         "A) Englobamento de apenas gotas de líquido.",
         "B) Saída de neurotransmissores da célula.",
@@ -74850,7 +74850,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um veneno de cobra bloqueia os 'Canais de Sódio dependentes de voltagem' nos neurônios. Qual a consequência direta desse bloqueio para o sistema nervoso?),",
+      "enunciado": "Um veneno de cobra bloqueia os 'Canais de Sódio dependentes de voltagem' nos neurônios. Qual a consequência direta desse bloqueio para o sistema nervoso?",
       "opcoes": [
         "A) Os neurônios vão produzir mais energia.",
         "B) Incapacidade de gerar potenciais de ação (impulsos elétricos), levando à paralisia e falha na comunicação nervosa.",
@@ -74876,7 +74876,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "A Endocitose Mediada por Receptores é uma forma altamente específica de transporte. Qual molécula plasmática é transportada para dentro das células humanas através deste mecanismo?),",
+      "enunciado": "A Endocitose Mediada por Receptores é uma forma altamente específica de transporte. Qual molécula plasmática é transportada para dentro das células humanas através deste mecanismo?",
       "opcoes": [
         "A) Glicose.",
         "B) Oxigênio.",
@@ -74916,7 +74916,7 @@
         "C": "[INCORRETA] Ocorre por pressão hidrostática (ultrafiltração).",
         "D": "[INCORRETA] Resultado do deslizamento de proteínas contráteis."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74928,7 +74928,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Fibrose Cística' é causada por uma mutação em uma proteína de transmembrana (CFTR). Qual a função biológica dessa proteína que, ao falhar, causa muco espesso nos pulmões?),",
+      "enunciado": "A 'Fibrose Cística' é causada por uma mutação em uma proteína de transmembrana (CFTR). Qual a função biológica dessa proteína que, ao falhar, causa muco espesso nos pulmões?",
       "opcoes": [
         "A) Ela transporta oxigênio.",
         "B) Ela digere o açúcar do pulmão.",
@@ -74968,7 +74968,7 @@
         "C": "[CORRETA] A **Sinalização Parácrina** é a comunicação com as **vizinhas** de tecido.",
         "D": "[INCORRETA] Sináptica ocorre entre neurônio e célula alvo via fenda microscópica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -74994,7 +74994,7 @@
         "C": "[INCORRETA] Atuam via fosforilação de proteínas.",
         "D": "[INCORRETA] Localizados no interior da célula, não na superfície."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75006,7 +75006,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Hormônios esteroides (como a Testosterona e o Cortisol) são lipofílicos e conseguem atravessar a membrana plasmática livremente. Onde seus receptores são localizados?),",
+      "enunciado": "Hormônios esteroides (como a Testosterona e o Cortisol) são lipofílicos e conseguem atravessar a membrana plasmática livremente. Onde seus receptores são localizados?",
       "opcoes": [
         "A) Sempre na face externa da membrana.",
         "B) No citoplasma ou no núcleo, atuando como fatores de transcrição gênica.",
@@ -75032,7 +75032,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Após a ativação de um Receptor Acoplado à Proteína G (GPCR), a enzima Adenilato Ciclase é comumente ativada. Qual o 'Segundo Mensageiro' produzido por essa enzima?),",
+      "enunciado": "Após a ativação de um Receptor Acoplado à Proteína G (GPCR), a enzima Adenilato Ciclase é comumente ativada. Qual o 'Segundo Mensageiro' produzido por essa enzima?",
       "opcoes": [
         "A) Glicose.",
         "B) Cálcio.",
@@ -75058,7 +75058,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O receptor de Insulina é um exemplo de Receptor de Tirosina Cinase (RTK). O que ocorre imediatamente após a ligação da insulina a este receptor?),",
+      "enunciado": "O receptor de Insulina é um exemplo de Receptor de Tirosina Cinase (RTK). O que ocorre imediatamente após a ligação da insulina a este receptor?",
       "opcoes": [
         "A) Dimerização de dois monômeros de receptor e a autofosforilação cruzada dos resíduos de tirosina.",
         "B) Destruição da insulina pela enzima do receptor.",
@@ -75084,7 +75084,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A toxina do vibrião colérico (Cólera) atua na subunidade Alfa de uma proteína G, mantendo-a permanentemente ligada ao GTP (sempre ativa). No intestino, isso causa um aumento descontrolado de cAMP. Qual o sintoma clínico resultante dessa falha na sinalização?),",
+      "enunciado": "A toxina do vibrião colérico (Cólera) atua na subunidade Alfa de uma proteína G, mantendo-a permanentemente ligada ao GTP (sempre ativa). No intestino, isso causa um aumento descontrolado de cAMP. Qual o sintoma clínico resultante dessa falha na sinalização?",
       "opcoes": [
         "A) Prisão de ventre severa.",
         "B) Febre amarela.",
@@ -75110,7 +75110,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "O óxido nítrico (NO) é um gás sinalizador que promove a vasodilatação. Por que ele é considerado uma exceção importante nos mecanismos de sinalização?),",
+      "enunciado": "O óxido nítrico (NO) é um gás sinalizador que promove a vasodilatação. Por que ele é considerado uma exceção importante nos mecanismos de sinalização?",
       "opcoes": [
         "A) Porque ele é tóxico.",
         "B) Porque ele brilha no escuro.",
@@ -75136,7 +75136,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um paciente usa um medicamento chamado 'Betabloqueador' (antagonista adrenérgico) para tratar hipertensão. Qual a ação molecular desse fármaco?),",
+      "enunciado": "Um paciente usa um medicamento chamado 'Betabloqueador' (antagonista adrenérgico) para tratar hipertensão. Qual a ação molecular desse fármaco?",
       "opcoes": [
         "A) Ele produz mais adrenalina no corpo.",
         "B) Ele liga-se aos receptores beta-adrenérgicos impedindo a ação da adrenalina, bloqueando a ativação da Proteína G e reduzindo a força/frequência cardíaca.",
@@ -75162,7 +75162,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Os microtúbulos são os maiores componentes do citoesqueleto. De qual proteína globular eles são constituídos?),",
+      "enunciado": "Os microtúbulos são os maiores componentes do citoesqueleto. De qual proteína globular eles são constituídos?",
       "opcoes": [
         "A) Actina.",
         "B) Tubulina (Alfa e Beta).",
@@ -75202,7 +75202,7 @@
         "C": "[INCORRETA] Processamento de proteínas.",
         "D": "[CORRETA] O **Centrossomo** é a 'âncora' dos **microtúbulos** citoplasmáticos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75214,7 +75214,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Como as vesículas e organelas são transportadas ao longo das 'rodovias' de microtúbulos nos neurônios?),",
+      "enunciado": "Como as vesículas e organelas são transportadas ao longo das 'rodovias' de microtúbulos nos neurônios?",
       "opcoes": [
         "A) Através de proteínas motoras (Cinesina e Dineína) que utilizam ATP para 'caminhar' sobre os microtúbulos.",
         "B) Através do vento citoplasmático.",
@@ -75240,7 +75240,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Muitos quimioterápicos (Ex: Paclitaxel/Taxol) atuam especificamente sobre os microtúbulos para combater o câncer. Qual o mecanismo de ação dessa droga?),",
+      "enunciado": "Muitos quimioterápicos (Ex: Paclitaxel/Taxol) atuam especificamente sobre os microtúbulos para combater o câncer. Qual o mecanismo de ação dessa droga?",
       "opcoes": [
         "A) Ela derrete as mitocôndrias das células cancerosas.",
         "B) Ela acelera a divisão celular até a exaustão.",
@@ -75266,7 +75266,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Instabilidade Dinâmica' é uma propriedade única dos microtúbulos. O que acontece durante uma 'Catástrofe' microtubular?),",
+      "enunciado": "A 'Instabilidade Dinâmica' é uma propriedade única dos microtúbulos. O que acontece durante uma 'Catástrofe' microtubular?",
       "opcoes": [
         "A) A célula explode.",
         "B) O microtúbulo sofre uma despolimerização rápida e encurta bruscamente a partir da extremidade positiva após a perda do 'cap' de GTP.",
@@ -75306,7 +75306,7 @@
         "C": "[INCORRETA] 9+0 é a estrutura do centríolo basal.",
         "D": "[CORRETA] O **Axonema 9+2** e a **Dineína** são o motor dos cílios respiratórios e do flagelo espermático."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75318,7 +75318,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Um paciente apresenta a Síndrome de Kartagener (Discinesia Ciliar Primária), caracterizada por infecções respiratórias crônicas e infertilidade masculina. Qual o defeito molecular subjacente?),",
+      "enunciado": "Um paciente apresenta a Síndrome de Kartagener (Discinesia Ciliar Primária), caracterizada por infecções respiratórias crônicas e infertilidade masculina. Qual o defeito molecular subjacente?",
       "opcoes": [
         "A) Mutação nas proteínas Dineínas que impede o batimento dos cílios respiratórios e do flagelo do espermatozoide.",
         "B) Falta de glicose na dieta.",
@@ -75344,7 +75344,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Líquido cefalorraquidiano, urina e outros fluidos são movidos por cílios em diversos epitélios. Além do movimento de fluidos, qual outra função importante dos microtúbulos durante a Mitose?),",
+      "enunciado": "Líquido cefalorraquidiano, urina e outros fluidos são movidos por cílios em diversos epitélios. Além do movimento de fluidos, qual outra função importante dos microtúbulos durante a Mitose?",
       "opcoes": [
         "A) Produzir a parede celular.",
         "B) Formação do Fuso Mitótico e segregação (separação) dos cromossomos entre as células filhas.",
@@ -75384,7 +75384,7 @@
         "C": "[INCORRETA] Forma os microtúbulos.",
         "D": "[INCORRETA] Proteína de matriz extracelular."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75410,7 +75410,7 @@
         "C": "[CORRETA] Os **Filamentos Intermediários** (Ex: Queratina) dão a **resistência mecânica**.",
         "D": "[INCORRETA] Função dos microtúbulos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75422,7 +75422,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "As microvilosidades do epitélio intestinal servem para aumentar a área de absorção. Qual componente do citoesqueleto sustenta a estrutura interna dessas projeções?),",
+      "enunciado": "As microvilosidades do epitélio intestinal servem para aumentar a área de absorção. Qual componente do citoesqueleto sustenta a estrutura interna dessas projeções?",
       "opcoes": [
         "A) Microtúbulos.",
         "B) Feixes paralelos de Microfilamentos de Actina.",
@@ -75448,7 +75448,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A 'Miosina' é a proteína motora clássica associada à actina. Em qual processo celular a interação actina-miosina NÃO está diretamente envolvida?),",
+      "enunciado": "A 'Miosina' é a proteína motora clássica associada à actina. Em qual processo celular a interação actina-miosina NÃO está diretamente envolvida?",
       "opcoes": [
         "A) Contração Muscular.",
         "B) Citocinese (divisão do citoplasma na mitose via anel contrátil).",
@@ -75474,7 +75474,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A Queratina é o filamento intermediário típico dos epitélios. Uma mutação genética que impede a formação correta da queratina na pele causa qual doença caracterizada por bolhas ao menor toque?),",
+      "enunciado": "A Queratina é o filamento intermediário típico dos epitélios. Uma mutação genética que impede a formação correta da queratina na pele causa qual doença caracterizada por bolhas ao menor toque?",
       "opcoes": [
         "A) Epidermólise Bolhosa Simples.",
         "B) Vitiligo.",
@@ -75500,7 +75500,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "A lâmina nuclear é uma rede de filamentos que reveste a face interna do envelope nuclear. Qual a sua função?),",
+      "enunciado": "A lâmina nuclear é uma rede de filamentos que reveste a face interna do envelope nuclear. Qual a sua função?",
       "opcoes": [
         "A) Produzir ribossomos.",
         "B) Dar suporte mecânico ao núcleo e organizar a cromatina (DNA).",
@@ -75526,7 +75526,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "A 'Coréia de Huntington' e outras doenças neurodegenerativas podem estar ligadas ao acúmulo de quais componentes do citoesqueleto desregulados nos neurônios?),",
+      "enunciado": "A 'Coréia de Huntington' e outras doenças neurodegenerativas podem estar ligadas ao acúmulo de quais componentes do citoesqueleto desregulados nos neurônios?",
       "opcoes": [
         "A) Actina muscular.",
         "B) Queratina na pele.",
@@ -75552,7 +75552,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual molécula fornece a energia para a polimerização (crescimento) da Actina e qual para a Tubulina, respectivamente?),",
+      "enunciado": "Qual molécula fornece a energia para a polimerização (crescimento) da Actina e qual para a Tubulina, respectivamente?",
       "opcoes": [
         "A) Glicose e Oxigênio.",
         "B) Ambas usam NADH.",
@@ -75592,7 +75592,7 @@
         "C": "[INCORRETA] Proteína transportadora de gases no sangue.",
         "D": "[INCORRETA] Hormônio circulante."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75604,7 +75604,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "As junções celulares permitem a comunicação e união entre células. Qual junção é responsável por vedar o espaço entre células epiteliais, impedindo a passagem livre de moléculas?),",
+      "enunciado": "As junções celulares permitem a comunicação e união entre células. Qual junção é responsável por vedar o espaço entre células epiteliais, impedindo a passagem livre de moléculas?",
       "opcoes": [
         "A) Desmossomos.",
         "B) Junções Comunicantes (Gap).",
@@ -75630,7 +75630,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "As 'Integrinas' são proteínas de transmembrana fundamentais para a adesão. Qual a sua função de conexão bidirecional?),",
+      "enunciado": "As 'Integrinas' são proteínas de transmembrana fundamentais para a adesão. Qual a sua função de conexão bidirecional?",
       "opcoes": [
         "A) Conectar os componentes da matriz extracelular (como a fibronectina) ao citoesqueleto (microfilamentos de actina).",
         "B) Produzir colágeno dentro do núcleo.",
@@ -75656,7 +75656,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Uma doença autoimune chamada Pênfigo vulgar causa bolhas graves na pele e mucosas. Qual o alvo molecular dos autoanticorpos nessa patologia?),",
+      "enunciado": "Uma doença autoimune chamada Pênfigo vulgar causa bolhas graves na pele e mucosas. Qual o alvo molecular dos autoanticorpos nessa patologia?",
       "opcoes": [
         "A) Mutação no DNA nuclear.",
         "B) Destruição das mitocôndrias.",
@@ -75682,7 +75682,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Os Proteoglicanos são moléculas ricas em carboidratos (GAGs) na matriz. Qual a principal propriedade física que elas conferem à MEC, especialmente nas cartilagens?),",
+      "enunciado": "Os Proteoglicanos são moléculas ricas em carboidratos (GAGs) na matriz. Qual a principal propriedade física que elas conferem à MEC, especialmente nas cartilagens?",
       "opcoes": [
         "A) Atuam como fios de aço rígidos.",
         "B) Atraem íons Na+ e água por osmose, formando um gel hidratado que resiste a forças de compressão.",
@@ -75708,7 +75708,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "As junções do tipo 'Gap' (Junções Comunicantes) são fundamentais no músculo cardíaco. Qual a sua função nesse tecido?),",
+      "enunciado": "As junções do tipo 'Gap' (Junções Comunicantes) são fundamentais no músculo cardíaco. Qual a sua função nesse tecido?",
       "opcoes": [
         "A) Ancorar o coração nas costelas.",
         "B) Impedir a contração muscular.",
@@ -75734,7 +75734,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A metástase cancerosa envolve a capacidade das células tumorais de romperem a lâmina basal e migrarem para outros tecidos. Qual grupo de enzimas é frequentemente hiperexpressado por essas células para degradar a MEC?),",
+      "enunciado": "A metástase cancerosa envolve a capacidade das células tumorais de romperem a lâmina basal e migrarem para outros tecidos. Qual grupo de enzimas é frequentemente hiperexpressado por essas células para degradar a MEC?",
       "opcoes": [
         "A) Metaloproteinases da Matriz (MMPs).",
         "B) DNA Polimerases.",
@@ -75774,7 +75774,7 @@
         "C": "[INCORRETA] Têm proteínas e funções distintas.",
         "D": "[INCORRETA] Ambos são complexos proteicos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75786,7 +75786,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "O Retículo Endoplasmático Rugoso (RER) recebe este nome devido à presença de quais estruturas em sua face citoplasmática?),",
+      "enunciado": "O Retículo Endoplasmático Rugoso (RER) recebe este nome devido à presença de quais estruturas em sua face citoplasmática?",
       "opcoes": [
         "A) Mitocôndrias.",
         "B) Ribossomos.",
@@ -75812,7 +75812,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual a principal função do Retículo Endoplasmático Liso (REL) nas células hepáticas (fígado)?),",
+      "enunciado": "Qual a principal função do Retículo Endoplasmático Liso (REL) nas células hepáticas (fígado)?",
       "opcoes": [
         "A) Produção de energia rápida (ATP).",
         "B) Tradução de RNA mensageiro.",
@@ -75838,7 +75838,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "As proteínas destinadas à secreção ou à membrana possuem uma 'Sequência Sinal' em sua extremidade N-terminal. Qual molécula reconhece essa sequência e leva o ribossomo até o RER?),",
+      "enunciado": "As proteínas destinadas à secreção ou à membrana possuem uma 'Sequência Sinal' em sua extremidade N-terminal. Qual molécula reconhece essa sequência e leva o ribossomo até o RER?",
       "opcoes": [
         "A) SRP (Partícula de Reconhecimento de Sinal).",
         "B) DNA polimerase.",
@@ -75864,7 +75864,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "No músculo (células musculares), o retículo endoplasmático liso é altamente especializado e recebe o nome de Retículo Sarcoplasmático. Qual a sua função vital para a contração muscular?),",
+      "enunciado": "No músculo (células musculares), o retículo endoplasmático liso é altamente especializado e recebe o nome de Retículo Sarcoplasmático. Qual a sua função vital para a contração muscular?",
       "opcoes": [
         "A) Produzir glicose.",
         "B) Quebrar gorduras.",
@@ -75890,7 +75890,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "O 'Estresse do Retículo' ocorre quando proteínas mal dobradas se acumulam em seu lúmen. Qual a resposta celular imediata para tentar resolver esse problema?),",
+      "enunciado": "O 'Estresse do Retículo' ocorre quando proteínas mal dobradas se acumulam em seu lúmen. Qual a resposta celular imediata para tentar resolver esse problema?",
       "opcoes": [
         "A) Aumentar a síntese de todas as proteínas.",
         "B) Resposta de Proteínas Não Dobradas (UPR), que aumenta a produção de chaperonas e diminui a síntese proteica global temporariamente.",
@@ -75930,7 +75930,7 @@
         "C": "[INCORRETA] Mitocôndrias produzem energia necessária, mas não são o sítio de síntese lipídica steroidogênica.",
         "D": "[CORRETA] O **REL** é hipertrofiado em células que fabricam **esteroides**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -75956,7 +75956,7 @@
         "C": "[INCORRETA] Lisossomos removem açúcares por digestão, não os adicionam na síntese.",
         "D": "[INCORRETA] No núcleo ocorre a transcrição e processamento de RNA."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -75968,7 +75968,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O alcoolismo crônico leva à tolerância ao etanol e também a outros medicamentos (Ex: anestésicos). Do ponto de vista celular, por que isso ocorre?),",
+      "enunciado": "O alcoolismo crônico leva à tolerância ao etanol e também a outros medicamentos (Ex: anestésicos). Do ponto de vista celular, por que isso ocorre?",
       "opcoes": [
         "A) Porque o cérebro congela.",
         "B) Porque as mitocôndrias morrem.",
@@ -75994,7 +75994,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 0,
-      "enunciado": "O Complexo de Golgi é o 'centro de triagem' da célula. Qual o caminho clássico de uma proteína desde sua síntese até a secreção?),",
+      "enunciado": "O Complexo de Golgi é o 'centro de triagem' da célula. Qual o caminho clássico de uma proteína desde sua síntese até a secreção?",
       "opcoes": [
         "A) Retículo Endoplasmático Rugoso -> Vesícula de Transporte -> Face Cis do Golgi -> Face Trans do Golgi -> Vesícula de Secreção -> Membrana Plasmática.",
         "B) Mitocôndria -> Núcleo -> Citoplasma.",
@@ -76034,7 +76034,7 @@
         "C": "[CORRETA] A **tradução** ocorre nos **ribossomos** (RER ou citoplasma), não no Golgi.",
         "D": "[INCORRETA] O Golgi participa da biosíntese de carboidratos complexos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76046,7 +76046,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Para que uma proteína (enzima hidrolítica) seja enviada especificamente para o LISOSSOMO, ela deve receber um marcador químico no Golgi. Qual é esse marcador?),",
+      "enunciado": "Para que uma proteína (enzima hidrolítica) seja enviada especificamente para o LISOSSOMO, ela deve receber um marcador químico no Golgi. Qual é esse marcador?",
       "opcoes": [
         "A) Etiqueta de glicose.",
         "B) Rabo de poli-A.",
@@ -76072,7 +76072,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "As vesículas de transporte são revestidas por proteínas que ajudam no seu brotamento. Qual proteína reveste as vesículas que levam proteínas do Retículo Endoplasmático para o Golgi (Transporte Anterógrado)?),",
+      "enunciado": "As vesículas de transporte são revestidas por proteínas que ajudam no seu brotamento. Qual proteína reveste as vesículas que levam proteínas do Retículo Endoplasmático para o Golgi (Transporte Anterógrado)?",
       "opcoes": [
         "A) COP I.",
         "B) COP II.",
@@ -76112,7 +76112,7 @@
         "C": "[INCORRETA] Funçao de nucleases/caspases em outros compartimentos.",
         "D": "[INCORRETA] É um processo regulado e dinâmico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76124,7 +76124,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A secreção de neurotransmissores nos neurônios só ocorre após um estímulo (como a entrada de cálcio). Como chamamos este tipo de exocitose?),",
+      "enunciado": "A secreção de neurotransmissores nos neurônios só ocorre após um estímulo (como a entrada de cálcio). Como chamamos este tipo de exocitose?",
       "opcoes": [
         "A) Secreção Constitutiva (Contínua).",
         "B) Secreção por difusão simples.",
@@ -76150,7 +76150,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Doença de Células I' (I-cell disease) é uma patologia rara onde as enzimas hidrolíticas do lisossomo são secretadas para fora da célula em vez de serem enviadas ao lisossomo. Qual o defeito molecular no Golgi desses pacientes?),",
+      "enunciado": "A 'Doença de Células I' (I-cell disease) é uma patologia rara onde as enzimas hidrolíticas do lisossomo são secretadas para fora da célula em vez de serem enviadas ao lisossomo. Qual o defeito molecular no Golgi desses pacientes?",
       "opcoes": [
         "A) O Golgi explodiu.",
         "B) Falha na enzima que adiciona o marcador Manose-6-Fosfato, fazendo com que o Golgi não reconheça as enzimas como destinadas ao lisossomo.",
@@ -76176,7 +76176,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um plasmócito (célula de defesa) está produzindo anticorpos em massa que serão jogados no sangue continuamente. Qual a sequência de organelas que estes anticorpos percorrem?),",
+      "enunciado": "Um plasmócito (célula de defesa) está produzindo anticorpos em massa que serão jogados no sangue continuamente. Qual a sequência de organelas que estes anticorpos percorrem?",
       "opcoes": [
         "A) Mitocôndria -> REL -> Peroxissomo.",
         "B) Citoplasma -> Lisossomo -> Membrana.",
@@ -76216,7 +76216,7 @@
         "C": "[INCORRETA] No citoplasma (pH ~7,2), se um lisossomo estourar, as enzimas perdem força, protegendo a célula.",
         "D": "[INCORRETA] O pH é o fator regulador central."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76228,7 +76228,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A 'Autofagia' é um processo vital mediado pelos lisossomos. O que ela representa?),",
+      "enunciado": "A 'Autofagia' é um processo vital mediado pelos lisossomos. O que ela representa?",
       "opcoes": [
         "A) A morte da célula por falta de comida.",
         "B) A entrada de bactérias externas.",
@@ -76254,7 +76254,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Os peroxissomos são organelas que realizam reações oxidativas. Qual a enzima responsável por degradar o peróxido de hidrogênio (H2O2) tóxico em água e oxigênio?),",
+      "enunciado": "Os peroxissomos são organelas que realizam reações oxidativas. Qual a enzima responsável por degradar o peróxido de hidrogênio (H2O2) tóxico em água e oxigênio?",
       "opcoes": [
         "A) Catalase.",
         "B) Histamina.",
@@ -76280,7 +76280,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Além da proteção antioxidante, qual outra função metabólica fundamental ocorre nos peroxissomos?),",
+      "enunciado": "Além da proteção antioxidante, qual outra função metabólica fundamental ocorre nos peroxissomos?",
       "opcoes": [
         "A) Síntese de proteínas de exportação.",
         "B) Glicólise anaeróbica.",
@@ -76306,7 +76306,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A Doença de Tay-Sachs é causada por uma deficiência da enzima Hexosaminidase A. Como resultado, gangliosídeos (lipídios complexos) acumulam-se nos neurônios, levando à degeneração. Em qual organela esse acúmulo ocorre?),",
+      "enunciado": "A Doença de Tay-Sachs é causada por uma deficiência da enzima Hexosaminidase A. Como resultado, gangliosídeos (lipídios complexos) acumulam-se nos neurônios, levando à degeneração. Em qual organela esse acúmulo ocorre?",
       "opcoes": [
         "A) Mitocôndria.",
         "B) Lisossomo.",
@@ -76332,7 +76332,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "A Adrenoleucodistrofia (retratada no filme 'O Óleo de Lorenzo') é uma patologia ligada ao acúmulo de ácidos graxos de cadeia muito longa que destroem a mielina dos neurônios. Qual a organela defeituosa?),",
+      "enunciado": "A Adrenoleucodistrofia (retratada no filme 'O Óleo de Lorenzo') é uma patologia ligada ao acúmulo de ácidos graxos de cadeia muito longa que destroem a mielina dos neurônios. Qual a organela defeituosa?",
       "opcoes": [
         "A) Ribossomo.",
         "B) Aparelho de Golgi.",
@@ -76372,7 +76372,7 @@
         "C": "[INCORRETA] Eles são o componente 'executor' do processo.",
         "D": "[INCORRETA] Absurdo biológico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76384,7 +76384,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente com Síndrome de Zellweger (ausência de peroxissomos funcionais) apresenta graves danos neurológicos e hepáticos. Por que os peroxissomos são tão abundantes no Fígado?),",
+      "enunciado": "Um paciente com Síndrome de Zellweger (ausência de peroxissomos funcionais) apresenta graves danos neurológicos e hepáticos. Por que os peroxissomos são tão abundantes no Fígado?",
       "opcoes": [
         "A) Para produzir açúcar.",
         "B) Para armazenar sangue.",
@@ -76424,7 +76424,7 @@
         "C": "[INCORRETA] Molécula de informação genética.",
         "D": "[CORRETA] A produção de **ATP** via respiração celular é a **função mitocondrial** primária."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76450,7 +76450,7 @@
         "C": "[INCORRETA] Possuem membrana lipídica e rica em proteínas.",
         "D": "[INCORRETA] Muitas bactérias não respiram oxigênio, então o uso de O2 sozinho não prova a endossimbiose (embora as mitocôndrias usem)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76462,7 +76462,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A Cadeia Transportadora de Elétrons e a Fosforilação Oxidativa (com a enzima ATP Sintase) ocorrem em qual compartimento específico da mitocôndria?),",
+      "enunciado": "A Cadeia Transportadora de Elétrons e a Fosforilação Oxidativa (com a enzima ATP Sintase) ocorrem em qual compartimento específico da mitocôndria?",
       "opcoes": [
         "A) Matriz Mitocondrial.",
         "B) Membrana Externa.",
@@ -76488,7 +76488,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A herança mitocondrial humana é um caso particular da genética. Qual a sua origem?),",
+      "enunciado": "A herança mitocondrial humana é um caso particular da genética. Qual a sua origem?",
       "opcoes": [
         "A) Exclusivamente materna (pelo óvulo).",
         "B) Exclusivamente paterna.",
@@ -76514,7 +76514,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "O 'Cianeto' é um veneno letal que bloqueia especificamente o Complexo IV (Citocromo C Oxidase) da cadeia respiratória. Por que isso causa a morte em poucos minutos?),",
+      "enunciado": "O 'Cianeto' é um veneno letal que bloqueia especificamente o Complexo IV (Citocromo C Oxidase) da cadeia respiratória. Por que isso causa a morte em poucos minutos?",
       "opcoes": [
         "A) Porque ele impede a digestão do açúcar.",
         "B) Porque ele aumenta a temperatura do corpo até 50°C.",
@@ -76540,7 +76540,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "O tecido adiposo marrom (comum em recém-nascidos e animais hibernantes) possui mitocôndrias com uma proteína chamada 'Termogenina' (UCP-1). Qual a sua função?),",
+      "enunciado": "O tecido adiposo marrom (comum em recém-nascidos e animais hibernantes) possui mitocôndrias com uma proteína chamada 'Termogenina' (UCP-1). Qual a sua função?",
       "opcoes": [
         "A) Produzir açúcar mais rápido.",
         "B) 'Desacoplar' a cadeia respiratória da síntese de ATP, dissipando o gradiente de prótons na forma de Calor para manter a temperatura corporal.",
@@ -76566,7 +76566,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "As Mitocondriopatias (doenças mitocondriais) afetam principalmente tecidos como músculo cardíaco e o cérebro. Por que esses órgãos são os alvos preferenciais?),",
+      "enunciado": "As Mitocondriopatias (doenças mitocondriais) afetam principalmente tecidos como músculo cardíaco e o cérebro. Por que esses órgãos são os alvos preferenciais?",
       "opcoes": [
         "A) Porque são órgãos com altíssima demanda energética e dependência crítica da produção contínua de ATP.",
         "B) Porque as mitocôndrias não gostam desses órgãos.",
@@ -76592,7 +76592,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Apoptose' (morte celular programada) pode ser iniciada pela mitocôndria. Qual proteína é liberada no citoplasma para ativar as enzimas 'executoras' (caspases)?),",
+      "enunciado": "A 'Apoptose' (morte celular programada) pode ser iniciada pela mitocôndria. Qual proteína é liberada no citoplasma para ativar as enzimas 'executoras' (caspases)?",
       "opcoes": [
         "A) Hemoglobina.",
         "B) Glicose.",
@@ -76632,7 +76632,7 @@
         "C": "[INCORRETA] Papel mecânico de plantas.",
         "D": "[INCORRETA] O isolamento é fundamental para a regulação gênica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76644,7 +76644,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A cromatina é o complexo de DNA e proteínas. Qual o nome das proteínas em que o DNA se enrola para formar o nucleossomo?),",
+      "enunciado": "A cromatina é o complexo de DNA e proteínas. Qual o nome das proteínas em que o DNA se enrola para formar o nucleossomo?",
       "opcoes": [
         "A) Actinas.",
         "B) Tubulinas.",
@@ -76670,7 +76670,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A cromatina pode ser dividida em Eucromatina e Heterocromatina. Qual a principal diferença funcional entre elas?),",
+      "enunciado": "A cromatina pode ser dividida em Eucromatina e Heterocromatina. Qual a principal diferença funcional entre elas?",
       "opcoes": [
         "A) Eucromatina é menos condensada e geneticamente ativa (acessível para transcrição); Heterocromatina é densa e inativa.",
         "B) Eucromatina é amarela e Heterocromatina é azul.",
@@ -76696,7 +76696,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O nucléolo é uma região densa e não membranosa dentro do núcleo. Qual a sua função primária?),",
+      "enunciado": "O nucléolo é uma região densa e não membranosa dentro do núcleo. Qual a sua função primária?",
       "opcoes": [
         "A) Produzir lipídios.",
         "B) Armazenar oxigênio para a célula.",
@@ -76736,7 +76736,7 @@
         "C": "[INCORRETA] Termo inexistente.",
         "D": "[INCORRETA] Endereça ao lisossomo (M6P)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76748,7 +76748,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O 'Corpúsculo de Barr' encontrado em células de fêmeas de mamíferos (inclusive mulheres) representa qual fenômeno citogenético?),",
+      "enunciado": "O 'Corpúsculo de Barr' encontrado em células de fêmeas de mamíferos (inclusive mulheres) representa qual fenômeno citogenético?",
       "opcoes": [
         "A) O excesso de testosterona.",
         "B) A morte da célula.",
@@ -76774,7 +76774,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A instabilidade do envelope nuclear está ligada a doenças do envelhecimento precoce. Qual proteína de filamento intermediário reveste o núcleo e sua mutação causa a 'Progéria' (Síndrome de Hutchinson-Gilford)?),",
+      "enunciado": "A instabilidade do envelope nuclear está ligada a doenças do envelhecimento precoce. Qual proteína de filamento intermediário reveste o núcleo e sua mutação causa a 'Progéria' (Síndrome de Hutchinson-Gilford)?",
       "opcoes": [
         "A) Laminas (Ex: Lamina A).",
         "B) Queratina epidérmica.",
@@ -76800,7 +76800,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Acetilação de Histonas' é uma modificação epigenética importante. O que ela geralmente promove na célula?),",
+      "enunciado": "A 'Acetilação de Histonas' é uma modificação epigenética importante. O que ela geralmente promove na célula?",
       "opcoes": [
         "A) Fechamento total do DNA, impedindo a vida.",
         "B) Transformação do DNA em RNA proteico.",
@@ -76840,7 +76840,7 @@
         "C": "[INCORRETA] O molde original permanece íntegro.",
         "D": "[INCORRETA] Jogo de palavras sem sentido biológico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76866,7 +76866,7 @@
         "C": "[INCORRETA] Adiciona novos nucleotídeos à fita em crescimento.",
         "D": "[INCORRETA] Enzima digestiva de carboidratos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -76878,7 +76878,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Durante a replicação, a síntese de DNA ocorre apenas no sentido 5' -> 3'. Como a fita que corre no sentido oposto (fita descontínua ou lagging strand) é sintetizada?),",
+      "enunciado": "Durante a replicação, a síntese de DNA ocorre apenas no sentido 5' -> 3'. Como a fita que corre no sentido oposto (fita descontínua ou lagging strand) é sintetizada?",
       "opcoes": [
         "A) Ela não é sintetizada.",
         "B) No sentido 3' -> 5' de forma mágica.",
@@ -76904,7 +76904,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "As Topoisomerases (como a DNA Girase) têm um papel crucial no alívio da tensão helicoidal à frente da forquilha. Qual a consequência de bloquear essas enzimas com fármacos (Ex: Ciprofloxacino ou irinotecano)?),",
+      "enunciado": "As Topoisomerases (como a DNA Girase) têm um papel crucial no alívio da tensão helicoidal à frente da forquilha. Qual a consequência de bloquear essas enzimas com fármacos (Ex: Ciprofloxacino ou irinotecano)?",
       "opcoes": [
         "A) O DNA copia-se mais rápido.",
         "B) A célula brilha mais.",
@@ -76930,7 +76930,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A extremidade dos cromossomos lineares eucarióticos (Telômeros) tende a encurtar a cada ciclo de divisão. Qual enzima é capaz de estender essas pontas em células germinativas e cancerosas?),",
+      "enunciado": "A extremidade dos cromossomos lineares eucarióticos (Telômeros) tende a encurtar a cada ciclo de divisão. Qual enzima é capaz de estender essas pontas em células germinativas e cancerosas?",
       "opcoes": [
         "A) RNAse.",
         "B) Telomerase.",
@@ -76956,7 +76956,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A Radiação Ultravioleta (UV) do sol causa danos específicos ao DNA, como a formação de 'Dímeros de Timina'. Qual o principal mecanismo de reparo que a célula usa para corrigir esse erro?),",
+      "enunciado": "A Radiação Ultravioleta (UV) do sol causa danos específicos ao DNA, como a formação de 'Dímeros de Timina'. Qual o principal mecanismo de reparo que a célula usa para corrigir esse erro?",
       "opcoes": [
         "A) Reparo por Excisão de Nucleotídeos (NER).",
         "B) Fotossíntese reversa.",
@@ -76982,7 +76982,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "Pacientes com 'Xeroderma Pigmentoso' possuem uma sensibilidade extrema à luz solar e alto risco de câncer de pele precocemente. Qual o defeito genético dessa doença?),",
+      "enunciado": "Pacientes com 'Xeroderma Pigmentoso' possuem uma sensibilidade extrema à luz solar e alto risco de câncer de pele precocemente. Qual o defeito genético dessa doença?",
       "opcoes": [
         "A) Excesso de melanina.",
         "B) Falta de vitaminas no sangue.",
@@ -77008,7 +77008,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "A DNA Polimerase possui uma atividade de 'Proofreading' (Revisão) 3' -> 5'. Qual a importância dessa função?),",
+      "enunciado": "A DNA Polimerase possui uma atividade de 'Proofreading' (Revisão) 3' -> 5'. Qual a importância dessa função?",
       "opcoes": [
         "A) Fazer o DNA brilhar.",
         "B) Detectar e remover nucleotídeos incorporados incorretamente durante a síntese, aumentando a fidelidade da replicação em milhares de vezes.",
@@ -77048,7 +77048,7 @@
         "C": "[INCORRETA] Abre a dupla hélice.",
         "D": "[INCORRETA] Realiza a tradução no citoplasma, não a transcrição no núcleo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77074,7 +77074,7 @@
         "C": "[CORRETA] A **Ribose e a Uracila** são as marcas químicas do **RNA**.",
         "D": "[INCORRETA] O RNAm é exportado para o citoplasma para ser traduzido."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77086,7 +77086,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O RNA mensageiro recém-sintetizado (pré-RNAm) precisa passar por processamento antes de ir ao citoplasma. Qual o objetivo da adição do 'Cap 5' e da 'Cauda Poli-A'?),",
+      "enunciado": "O RNA mensageiro recém-sintetizado (pré-RNAm) precisa passar por processamento antes de ir ao citoplasma. Qual o objetivo da adição do 'Cap 5' e da 'Cauda Poli-A'?",
       "opcoes": [
         "A) Transformar o RNA em proteína.",
         "B) Mudar o código genético.",
@@ -77112,7 +77112,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O 'Splicing' é a remoção de sequências não codificantes do pré-RNAm. Como chamamos as sequencias que são removidas e as que permanecem, respectivamente?),",
+      "enunciado": "O 'Splicing' é a remoção de sequências não codificantes do pré-RNAm. Como chamamos as sequencias que são removidas e as que permanecem, respectivamente?",
       "opcoes": [
         "A) Íntrons (removidos) e Éxons (codificantes - permanecem).",
         "B) Éxons (removidos) e Íntrons (permanecem).",
@@ -77138,7 +77138,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "O 'Splicing Alternativo' permite que a célula produza diferentes proteínas a partir de um único gene. Como isso é possível?),",
+      "enunciado": "O 'Splicing Alternativo' permite que a célula produza diferentes proteínas a partir de um único gene. Como isso é possível?",
       "opcoes": [
         "A) Mudando a sequência do DNA original no núcleo.",
         "B) Selecionando diferentes combinações de éxons para compor o RNAm final maduro, dependendo do tipo celular ou estímulo recebido.",
@@ -77164,7 +77164,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Certas toxinas de cogumelos (como a Alfa-amanitina) bloqueiam especificamente a RNA Polimerase II. Qual a consequência imediata para a célula?),",
+      "enunciado": "Certas toxinas de cogumelos (como a Alfa-amanitina) bloqueiam especificamente a RNA Polimerase II. Qual a consequência imediata para a célula?",
       "opcoes": [
         "A) Explodir na mesma hora.",
         "B) O DNA derreter.",
@@ -77190,7 +77190,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "O promotor é uma sequência de DNA que não codifica proteína, mas é crucial. O que ocorre nesta região?),",
+      "enunciado": "O promotor é uma sequência de DNA que não codifica proteína, mas é crucial. O que ocorre nesta região?",
       "opcoes": [
         "A) É onde a proteína é destruída.",
         "B) É onde o ribossomo se liga.",
@@ -77216,7 +77216,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Atrofia Muscular Espinhal' (AME) está ligada a um erro no splicing do gene SMN2, onde um éxon crucial é removido por engano, gerando uma proteína não funcional. O uso de medicamentos como o Nusinersen (Spinraza) visa:),",
+      "enunciado": "A 'Atrofia Muscular Espinhal' (AME) está ligada a um erro no splicing do gene SMN2, onde um éxon crucial é removido por engano, gerando uma proteína não funcional. O uso de medicamentos como o Nusinersen (Spinraza) visa:",
       "opcoes": [
         "A) Modular o processo de splicing para forçar a inclusão do éxon faltante, restaurando a funcionalidade da proteína SMN.",
         "B) Substituir o sangue do paciente.",
@@ -77256,7 +77256,7 @@
         "C": "[INCORRETA] Lisossomos destroem proteínas, não as sintetizam.",
         "D": "[INCORRETA] Secreção termina lá, mas a síntese é interna."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77268,7 +77268,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 2,
-      "enunciado": "O 'Código Genético' é descrito como DEGENERADO (ou redundante). O que isso significa?),",
+      "enunciado": "O 'Código Genético' é descrito como DEGENERADO (ou redundante). O que isso significa?",
       "opcoes": [
         "A) Que ele está sumindo ao longo da evolução.",
         "B) Que um mesmo códon pode codificar vários aminoácidos diferentes.",
@@ -77294,7 +77294,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O RNA transportador (RNAt) é o 'tradutor' real. Como ele reconhece a posição correta no RNAm?),",
+      "enunciado": "O RNA transportador (RNAt) é o 'tradutor' real. Como ele reconhece a posição correta no RNAm?",
       "opcoes": [
         "A) Por magnetismo.",
         "B) Através da enzima polimerase.",
@@ -77320,7 +77320,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Qual molécula fornece a energia para a formação da ligação peptídica durante o alongamento da cadeia de proteínas no ribossomo?),",
+      "enunciado": "Qual molécula fornece a energia para a formação da ligação peptídica durante o alongamento da cadeia de proteínas no ribossomo?",
       "opcoes": [
         "A) Calor externo.",
         "B) GTP (e a energia contida na ligação aminoácido-RNAt de alta energia).",
@@ -77346,7 +77346,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Muitos antibióticos (como a Estreptomicina, Tetraciclina e Cloranfenicol) combatem infecções bacterianas interferindo na tradução. Por que esses remédios matam as bactérias mas não as células humanas?),",
+      "enunciado": "Muitos antibióticos (como a Estreptomicina, Tetraciclina e Cloranfenicol) combatem infecções bacterianas interferindo na tradução. Por que esses remédios matam as bactérias mas não as células humanas?",
       "opcoes": [
         "A) Porque as bactérias possuem ribossomos diferentes (70S) dos ribossomos humanos (80S), permitindo toxicidade seletiva.",
         "B) Porque humanos não possuem tradução.",
@@ -77372,7 +77372,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O que acontece com o ribossomo quando ele encontra um 'Códon de Parada' (Stop Codon) no RNAm?),",
+      "enunciado": "O que acontece com o ribossomo quando ele encontra um 'Códon de Parada' (Stop Codon) no RNAm?",
       "opcoes": [
         "A) Ele volta ao início e começa tudo de novo.",
         "B) Ele explode.",
@@ -77398,7 +77398,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A Toxina Diftérica (causadora da Difteria) mata as células humanas ao catalizar a inativação do fator de alongamento EF-2 no ribossomo. Qual a consequência clínica direta para o paciente nas membranas respiratórias?),",
+      "enunciado": "A Toxina Diftérica (causadora da Difteria) mata as células humanas ao catalizar a inativação do fator de alongamento EF-2 no ribossomo. Qual a consequência clínica direta para o paciente nas membranas respiratórias?",
       "opcoes": [
         "A) Crescimento excessivo de novos tecidos.",
         "B) Morte das células epiteliais (necrose) e formação de pseudomembranas acinzentadas que podem obstruir a respiração devido à parada completa da tradução.",
@@ -77438,7 +77438,7 @@
         "C": "[CORRETA] Os **Polirribossomos** otimizam a **produção em escala** celular.",
         "D": "[INCORRETA] RNAm é temporário e não serve para herança/armazenamento de longo prazo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77464,7 +77464,7 @@
         "C": "[INCORRETA] Fase de preparação final para a mitose.",
         "D": "[INCORRETA] Momento da segregação física dos cromossomos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77476,7 +77476,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Neurônios e células musculares cardíacas maduras geralmente não se dividem mais. Em qual fase do ciclo elas se encontram permanentemente?),",
+      "enunciado": "Neurônios e células musculares cardíacas maduras geralmente não se dividem mais. Em qual fase do ciclo elas se encontram permanentemente?",
       "opcoes": [
         "A) Metáfase.",
         "B) Fase S.",
@@ -77502,7 +77502,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O sistema de controle do ciclo celular depende de moléculas que se unem para ativar a progressão. Quais são essas moléculas?),",
+      "enunciado": "O sistema de controle do ciclo celular depende de moléculas que se unem para ativar a progressão. Quais são essas moléculas?",
       "opcoes": [
         "A) Ciclinas e CDKs (Cinases Dependentes de Ciclina).",
         "B) Glicose e Insulina.",
@@ -77542,7 +77542,7 @@
         "C": "[CORRETA] A **Metáfase** é o momento de **alinhamento central** dos cromossomos.",
         "D": "[INCORRETA] Evento patológico ou de lise, não mitótico normal."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77554,7 +77554,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um paciente em quimioterapia usa um fármaco que impede a formação do fuso mitótico (Microtúbulos). Em qual fase do ciclo celular essa divisão será interrompida?),",
+      "enunciado": "Um paciente em quimioterapia usa um fármaco que impede a formação do fuso mitótico (Microtúbulos). Em qual fase do ciclo celular essa divisão será interrompida?",
       "opcoes": [
         "A) Fase G1.",
         "B) Mitose (especialmente o ponto de controle da metáfase).",
@@ -77580,7 +77580,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A proteína p53 é conhecida como a 'Guardiã do Genoma'. Qual a sua função quando o DNA celular sofre danos?),",
+      "enunciado": "A proteína p53 é conhecida como a 'Guardiã do Genoma'. Qual a sua função quando o DNA celular sofre danos?",
       "opcoes": [
         "A) Ela interrompe o ciclo celular para reparo ou induz a apoptose se o dano for irreparável, impedindo o surgimento de câncer.",
         "B) Ela duplica o DNA quebrado rapidamente.",
@@ -77606,7 +77606,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "No câncer, o ciclo celular torna-se descontrolado. Qual alteração molecular é comum em células tumorais agressivas?),",
+      "enunciado": "No câncer, o ciclo celular torna-se descontrolado. Qual alteração molecular é comum em células tumorais agressivas?",
       "opcoes": [
         "A) Aumento da produção de melanina.",
         "B) Perda de cor da membrana.",
@@ -77672,7 +77672,7 @@
         "C": "[INCORRETA] Corpos apoptóticos são fagocitados por macrófagos ou células vizinhas discretamente.",
         "D": "[INCORRETA] A apoptose consome energia (ATP) para ocorrer."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77698,7 +77698,7 @@
         "C": "[INCORRETA] A necrose é fortemente pró-inflamatória.",
         "D": "[CORRETA] O **extravasamento citoplasmático** na **Necrose** lesiona o tecido adjacente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -77710,7 +77710,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "As enzimas responsáveis por executar o programa de morte celular na apoptose são chamadas de:),",
+      "enunciado": "As enzimas responsáveis por executar o programa de morte celular na apoptose são chamadas de:",
       "opcoes": [
         "A) Amilases.",
         "B) Caspases.",
@@ -77736,7 +77736,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'via intrínseca' da apoptose é mediada pela mitocôndria. Qual evento molecular libera o sinal para a morte?),",
+      "enunciado": "A 'via intrínseca' da apoptose é mediada pela mitocôndria. Qual evento molecular libera o sinal para a morte?",
       "opcoes": [
         "A) Entrada de glicose.",
         "B) Saída de oxigênio.",
@@ -77762,7 +77762,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Um paciente sofre um infarto agudo do miocárdio (ataque cardíaco) de longa duração. As células do coração morrem por falta de oxigênio permanente. Qual o tipo de morte celular predominante neste caso?),",
+      "enunciado": "Um paciente sofre um infarto agudo do miocárdio (ataque cardíaco) de longa duração. As células do coração morrem por falta de oxigênio permanente. Qual o tipo de morte celular predominante neste caso?",
       "opcoes": [
         "A) Necrose de coagulação (devido ao dano isquêmico irreversível).",
         "B) Apoptose fisiológica.",
@@ -77788,7 +77788,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O desenvolvimento embrionário humano depende da apoptose. Qual o exemplo clássico deste fenômeno na formação das mãos?),",
+      "enunciado": "O desenvolvimento embrionário humano depende da apoptose. Qual o exemplo clássico deste fenômeno na formação das mãos?",
       "opcoes": [
         "A) As unhas crescem por apoptose.",
         "B) A pele da palma da mão morre para virar osso.",
@@ -77814,7 +77814,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Via Extrínseca' da apoptose é ativada por sinais externos de outras células, como os linfócitos T. Qual proteína de superfície celular atua como um 'Receptor de Morte' para esta via?),",
+      "enunciado": "A 'Via Extrínseca' da apoptose é ativada por sinais externos de outras células, como os linfócitos T. Qual proteína de superfície celular atua como um 'Receptor de Morte' para esta via?",
       "opcoes": [
         "A) Receptor de Insulina.",
         "B) Receptor Fas (e seu ligante FasL).",
@@ -77840,7 +77840,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Um paciente com câncer avançado apresenta resistência à morte celular (evasão da apoptose). Qual alteração molecular explicaria esta agressividade?),",
+      "enunciado": "Um paciente com câncer avançado apresenta resistência à morte celular (evasão da apoptose). Qual alteração molecular explicaria esta agressividade?",
       "opcoes": [
         "A) Hiperexpressão de proteínas anti-apoptóticas (como Bcl-2) que bloqueiam a liberação do citocromo C.",
         "B) Excesso de caspases ativas.",
@@ -84106,7 +84106,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "A principal diferença estrutural entre bactérias Gram-positivas e Gram-negativas reside na parede celular. Qual componente é encontrado em abundância (múltiplas camadas) nas Gram-positivas?),",
+      "enunciado": "A principal diferença estrutural entre bactérias Gram-positivas e Gram-negativas reside na parede celular. Qual componente é encontrado em abundância (múltiplas camadas) nas Gram-positivas?",
       "opcoes": [
         "A) Lipopolissacarídeo (LPS).",
         "B) Peptidoglicano (Mureína).",
@@ -84146,7 +84146,7 @@
         "C": "[INCORRETA] Relacionado à conjugação (troca de DNA).",
         "D": "[CORRETA] O **Flagelo** é o órgão de **motilidade bacteriana**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84158,7 +84158,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O 'Lipopolissacarídeo' (LPS) é um componente crítico de patogenicidade. Em qual grupo de bactérias ele é encontrado e como ele atua?),",
+      "enunciado": "O 'Lipopolissacarídeo' (LPS) é um componente crítico de patogenicidade. Em qual grupo de bactérias ele é encontrado e como ele atua?",
       "opcoes": [
         "A) Nas Gram-negativas, atuando como uma potente endotoxina que pode causar choque séptico.",
         "B) Nas Gram-positivas, ajudando na síntese de ATP.",
@@ -84184,7 +84184,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Cápsula' bacteriana é considerada um importante fator de virulência. Qual sua função principal no contexto patológico?),",
+      "enunciado": "A 'Cápsula' bacteriana é considerada um importante fator de virulência. Qual sua função principal no contexto patológico?",
       "opcoes": [
         "A) Gerar energia para a bactéria.",
         "B) Facilitar a divisão celular.",
@@ -84210,7 +84210,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Os 'Esporos' (Endósporos) são estruturas de resistência produzidas por certos gêneros como Bacillus e Clostridium. O que os torna clinicamente perigosos?),",
+      "enunciado": "Os 'Esporos' (Endósporos) são estruturas de resistência produzidas por certos gêneros como Bacillus e Clostridium. O que os torna clinicamente perigosos?",
       "opcoes": [
         "A) São muito bonitos e enganam o médico.",
         "B) São altamente resistentes ao calor, desinfetantes e dessecação, podendo sobreviver por anos no ambiente até encontrarem condições de germinar.",
@@ -84236,7 +84236,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A coloração de Gram é técnica fundamental. Ao final do processo, como ficam as bactérias Gram-positivas e Gram-negativas, respectivamente?),",
+      "enunciado": "A coloração de Gram é técnica fundamental. Ao final do processo, como ficam as bactérias Gram-positivas e Gram-negativas, respectivamente?",
       "opcoes": [
         "A) Vermelhas e Azuis.",
         "B) Incolores e Pretas.",
@@ -84262,7 +84262,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Ao analisar uma secreção de ferida cirúrgica, o laboratório reporta 'Cocos Gram-positivos em cachos'. Qual o agente mais provável considerando apenas a morfologia?),",
+      "enunciado": "Ao analisar uma secreção de ferida cirúrgica, o laboratório reporta 'Cocos Gram-positivos em cachos'. Qual o agente mais provável considerando apenas a morfologia?",
       "opcoes": [
         "A) Staphylococcus aureus.",
         "B) Streptococcus pyogenes.",
@@ -84302,7 +84302,7 @@
         "C": "[CORRETA] As **Fímbrias** são as principais **Adesinas** bacterianas.",
         "D": "[INCORRETA] Resistência depende de enzimas ou bombas, não de fímbrias."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -84328,7 +84328,7 @@
         "C": "[INCORRETA] Comum em leveduras.",
         "D": "[INCORRETA] Processo de resistência, não de multiplicação populacional."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84354,7 +84354,7 @@
         "C": "[INCORRETA] Anaeróbias facultativas.",
         "D": "[CORRETA] As **Anaeróbias Estritas** exigem **ambientes desprovidos de O2**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84366,7 +84366,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Na curva de crescimento bacteriano in vitro, qual fase é marcada por intensa atividade metabólica e preparo para a divisão, mas sem aumento no número de células?),",
+      "enunciado": "Na curva de crescimento bacteriano in vitro, qual fase é marcada por intensa atividade metabólica e preparo para a divisão, mas sem aumento no número de células?",
       "opcoes": [
         "A) Fase Lag (ou de adaptação).",
         "B) Fase Log (ou Exponencial).",
@@ -84392,7 +84392,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Os 'Plasmídeos' são elementos genéticos extracromossômicos circulares. Qual sua principal importância na clínica médica?),",
+      "enunciado": "Os 'Plasmídeos' são elementos genéticos extracromossômicos circulares. Qual sua principal importância na clínica médica?",
       "opcoes": [
         "A) Eles definem a cor da bactéria no Gram.",
         "B) São essenciais para a respiração bacteriana.",
@@ -84418,7 +84418,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Conjugação Bacteriana' é um mecanismo de transferência horizontal de genes. O que é necessário para que ela ocorra?),",
+      "enunciado": "A 'Conjugação Bacteriana' é um mecanismo de transferência horizontal de genes. O que é necessário para que ela ocorra?",
       "opcoes": [
         "A) DNA livre flutuando no meio.",
         "B) Contato físico direto entre duas células (doadora e receptora) através de um Pili Sexual.",
@@ -84444,7 +84444,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual o nome do mecanismo de transferência de DNA bacteriano mediado por um VÍRUS (bacteriófago)?),",
+      "enunciado": "Qual o nome do mecanismo de transferência de DNA bacteriano mediado por um VÍRUS (bacteriófago)?",
       "opcoes": [
         "A) Tradução.",
         "B) Transcrição.",
@@ -84470,7 +84470,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Um paciente com abscesso profundo por Bacteroides fragilis (anaeróbio estrito) não responde ao oxigênio tópico. Por que abscessos favorecem essas bactérias?),",
+      "enunciado": "Um paciente com abscesso profundo por Bacteroides fragilis (anaeróbio estrito) não responde ao oxigênio tópico. Por que abscessos favorecem essas bactérias?",
       "opcoes": [
         "A) Porque o interior do abscesso tem baixo potencial de oxirredução e baixa tensão de O2, criando o ambiente ideal para anaeróbios.",
         "B) Porque bactérias anaeróbias comem o pus.",
@@ -84496,7 +84496,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "A 'Transformação' bacteriana depende da 'Competência' da célula receptora. O que isso significa?),",
+      "enunciado": "A 'Transformação' bacteriana depende da 'Competência' da célula receptora. O que isso significa?",
       "opcoes": [
         "A) Que a bactéria sabe fazer muitas coisas ao mesmo tempo.",
         "B) Que a bactéria é muito resistente a antibióticos.",
@@ -84522,7 +84522,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual termo define o processo que elimina TODAS as formas de vida microbiana, incluindo vírus, bactérias vegetativas e, obrigatoriamente, os esporos?),",
+      "enunciado": "Qual termo define o processo que elimina TODAS as formas de vida microbiana, incluindo vírus, bactérias vegetativas e, obrigatoriamente, os esporos?",
       "opcoes": [
         "A) Desinfecção.",
         "B) Esterilização.",
@@ -84548,7 +84548,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "O Álcool 70% é amplamente usado na prática clínica. Qual o principal mecanismo de ação do álcool sobre as bactérias?),",
+      "enunciado": "O Álcool 70% é amplamente usado na prática clínica. Qual o principal mecanismo de ação do álcool sobre as bactérias?",
       "opcoes": [
         "A) Destruição da cápsula por radiação.",
         "B) Congelamento do citoplasma.",
@@ -84574,7 +84574,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A Autoclave é o método de escolha para esterilização de instrumentais cirúrgicos metálicos. Como ela atua?),",
+      "enunciado": "A Autoclave é o método de escolha para esterilização de instrumentais cirúrgicos metálicos. Como ela atua?",
       "opcoes": [
         "A) Calor úmido sob pressão (ex: 121°C por 15-30 min), que promove a coagulação de proteínas.",
         "B) Ar seco superaquecido a 200°C por 5 horas.",
@@ -84600,7 +84600,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Antes de realizar uma punção venosa, o enfermeiro limpa a pele do paciente com clorexidina. Esse processo é classificado como:),",
+      "enunciado": "Antes de realizar uma punção venosa, o enfermeiro limpa a pele do paciente com clorexidina. Esse processo é classificado como:",
       "opcoes": [
         "A) Esterilização tissular.",
         "B) Desinfecção de alto nível.",
@@ -84626,7 +84626,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Qual o método de esterilização mais adequado para materiais termossensíveis e descartáveis em larga escala (como seringas plásticas e cateteres)?),",
+      "enunciado": "Qual o método de esterilização mais adequado para materiais termossensíveis e descartáveis em larga escala (como seringas plásticas e cateteres)?",
       "opcoes": [
         "A) Autoclavagem repetida.",
         "B) Radiação Ionizante (raios Gama) ou Óxido de Etileno.",
@@ -84666,7 +84666,7 @@
         "C": "[INCORRETA] Não elimina patógenos termosensíveis de forma eficaz.",
         "D": "[CORRETA] A **Pasteurização** controla **patógenos alimentares**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84692,7 +84692,7 @@
         "C": "[INCORRETA] Gera calor e degrada componentes.",
         "D": "[INCORRETA] Ineficaz."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -84704,7 +84704,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Instrumentais que penetram em tecidos estéreis ou sistema vascular (ex: bisturis, agulhas) são classificados como 'Artigos Críticos'. Qual o nível de processamento exigido?),",
+      "enunciado": "Instrumentais que penetram em tecidos estéreis ou sistema vascular (ex: bisturis, agulhas) são classificados como 'Artigos Críticos'. Qual o nível de processamento exigido?",
       "opcoes": [
         "A) Apenas limpeza com água.",
         "B) Desinfecção de baixo nível.",
@@ -84744,7 +84744,7 @@
         "C": "[INCORRETA] Bactérias são procariontes e não possuem mitocôndrias.",
         "D": "[INCORRETA] Mecanismo das Sulfonamidas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84756,7 +84756,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "As bactérias podem resistir aos antibióticos de diversas formas. Qual enzima é responsável por degradar o anel beta-lactâmico de penicilinas antes que elas cheguem ao alvo?),",
+      "enunciado": "As bactérias podem resistir aos antibióticos de diversas formas. Qual enzima é responsável por degradar o anel beta-lactâmico de penicilinas antes que elas cheguem ao alvo?",
       "opcoes": [
         "A) DNAse.",
         "B) Helicase.",
@@ -84782,7 +84782,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Os Aminoglicosídeos (como Gentamicina e Amicacina) atuam em qual alvo celular?),",
+      "enunciado": "Os Aminoglicosídeos (como Gentamicina e Amicacina) atuam em qual alvo celular?",
       "opcoes": [
         "A) Membrana plasmática.",
         "B) Subunidade 30S do ribossomo, inibindo a síntese proteica e causando leitura incorreta do RNAm.",
@@ -84822,7 +84822,7 @@
         "C": "[CORRETA] As **Bombas de Efluxo** são mecanismos de **expulsão ativa** do fármaco.",
         "D": "[INCORRETA] Irrelevante biológico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -84834,7 +84834,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "As Quinolonas (como Ciprofloxacino e Levofloxacino) inibem enzimas cruciais para a replicação do DNA. Quais são elas?),",
+      "enunciado": "As Quinolonas (como Ciprofloxacino e Levofloxacino) inibem enzimas cruciais para a replicação do DNA. Quais são elas?",
       "opcoes": [
         "A) DNA Girase (Topoisomerase II) e Topoisomerase IV.",
         "B) RNA Polimerase dependente de DNA.",
@@ -84860,7 +84860,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "A Vancomicina é um Glicopeptídeo usado contra bactérias Gram-positivas multirresistentes (como MRSA). Qual sua limitação contra Gram-negativos?),",
+      "enunciado": "A Vancomicina é um Glicopeptídeo usado contra bactérias Gram-positivas multirresistentes (como MRSA). Qual sua limitação contra Gram-negativos?",
       "opcoes": [
         "A) Gram-negativos não têm parede celular.",
         "B) É uma molécula muito grande que não consegue atravessar as porinas da membrana externa das Gram-negativas para chegar ao peptidoglicano.",
@@ -84886,7 +84886,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "O uso de Inibidores de Beta-lactamase (como Ácido Clavulânico, Sulbactam e Tazobactam) em associação com antibióticos tem qual finalidade?),",
+      "enunciado": "O uso de Inibidores de Beta-lactamase (como Ácido Clavulânico, Sulbactam e Tazobactam) em associação com antibióticos tem qual finalidade?",
       "opcoes": [
         "A) Fazer o remédio ficar mais doce.",
         "B) Matar vírus simultaneamente.",
@@ -84912,7 +84912,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente desenvolve Colite Pseudomembranosa (infecção por Clostridioides difficile) após uso prolongado de antibióticos de amplo espectro. Por que isso ocorre?),",
+      "enunciado": "Um paciente desenvolve Colite Pseudomembranosa (infecção por Clostridioides difficile) após uso prolongado de antibióticos de amplo espectro. Por que isso ocorre?",
       "opcoes": [
         "A) O antibiótico alimentou a bactéria má.",
         "B) O paciente pegou a bactéria no ar.",
@@ -84938,7 +84938,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "O teste da 'Coagulase' é fundamental para diferenciar as espécies de Staphylococcus. Qual das espécies abaixo é Coagulase-positiva e considerada a mais patogênica?),",
+      "enunciado": "O teste da 'Coagulase' é fundamental para diferenciar as espécies de Staphylococcus. Qual das espécies abaixo é Coagulase-positiva e considerada a mais patogênica?",
       "opcoes": [
         "A) Staphylococcus epidermidis.",
         "B) Staphylococcus aureus.",
@@ -84964,7 +84964,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual bactéria é a causa mais comum de faringite bacteriana e pode levar a complicações graves como a Febre Reumática?),",
+      "enunciado": "Qual bactéria é a causa mais comum de faringite bacteriana e pode levar a complicações graves como a Febre Reumática?",
       "opcoes": [
         "A) Staphylococcus aureus.",
         "B) Streptococcus agalactiae.",
@@ -85004,7 +85004,7 @@
         "C": "[INCORRETA] Raro em recém-nascidos nesta cronologia.",
         "D": "[INCORRETA] Segunda causa mais comum, mas a pergunta foca na colonização vaginal clássica de 'cocos'."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -85016,7 +85016,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O 'Streptococcus pneumoniae' (pneumococo) é um diplococo Gram-positivo. Qual sua morfologia característica observada no microscópio?),",
+      "enunciado": "O 'Streptococcus pneumoniae' (pneumococo) é um diplococo Gram-positivo. Qual sua morfologia característica observada no microscópio?",
       "opcoes": [
         "A) Cachos de uva.",
         "B) Longas cadeias flexíveis.",
@@ -85042,7 +85042,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Síndrome do Choque Tóxico' causada por S. aureus está associada à produção de qual superantígeno?),",
+      "enunciado": "A 'Síndrome do Choque Tóxico' causada por S. aureus está associada à produção de qual superantígeno?",
       "opcoes": [
         "A) Enterotoxina térmica.",
         "B) TSST-1 (Toxic Shock Syndrome Toxin-1).",
@@ -85068,7 +85068,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente desenvolve uma infecção em uma prótese de joelho colocada há 3 meses. O laboratório isola um Staphylococcus Catalase-positivo e Coagulase-negativo. Qual o agente mais provável?),",
+      "enunciado": "Um paciente desenvolve uma infecção em uma prótese de joelho colocada há 3 meses. O laboratório isola um Staphylococcus Catalase-positivo e Coagulase-negativo. Qual o agente mais provável?",
       "opcoes": [
         "A) Streptococcus mutans.",
         "B) Staphylococcus aureus.",
@@ -85094,7 +85094,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A Glomerulonefrite Pós-Estreptocócica (GNPE) é uma complicação 'não supurativa'. Qual o mecanismo fisiopatológico dessa doença?),",
+      "enunciado": "A Glomerulonefrite Pós-Estreptocócica (GNPE) é uma complicação 'não supurativa'. Qual o mecanismo fisiopatológico dessa doença?",
       "opcoes": [
         "A) Deposição de imunocomplexos (antígeno-anticorpo) nos glomérulos renais após uma infecção de faringe ou pele por cepas nefritogênicas.",
         "B) Invasão direta da bactéria no rim.",
@@ -85134,7 +85134,7 @@
         "C": "[CORRETA] O **Teste da Catalase** é o divisor de águas entre **Staphylo e Strepto**.",
         "D": "[INCORRETA] Testes laboratoriais são confirmatórios e essenciais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85146,7 +85146,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "A 'Neisseria meningitidis' é uma causa grave de meningite. Qual sua morfologia característica no Gram e qual estrutura é seu principal fator de virulência?),",
+      "enunciado": "A 'Neisseria meningitidis' é uma causa grave de meningite. Qual sua morfologia característica no Gram e qual estrutura é seu principal fator de virulência?",
       "opcoes": [
         "A) Bacilo Gram-positivo; Flagelo.",
         "B) Diplococo Gram-negativo em 'grão de café'; Cápsula polissacarídica.",
@@ -85172,7 +85172,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "O 'Clostridium tetani' causa o tétano através de uma potente neurotoxina. Qual o sintoma clínico clássico resultante da paralisia espástica dos músculos da face?),",
+      "enunciado": "O 'Clostridium tetani' causa o tétano através de uma potente neurotoxina. Qual o sintoma clínico clássico resultante da paralisia espástica dos músculos da face?",
       "opcoes": [
         "A) Paralisia flácida total.",
         "B) Manchas vermelhas na pele.",
@@ -85198,7 +85198,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O botulismo (Clostridium botulinum) é uma intoxicação alimentar grave. Como a toxina botulínica age no organismo?),",
+      "enunciado": "O botulismo (Clostridium botulinum) é uma intoxicação alimentar grave. Como a toxina botulínica age no organismo?",
       "opcoes": [
         "A) Bloqueia a liberação de Acetilcolina na junção neuromuscular, causando paralisia flácida descendente.",
         "B) Destrói as hemácias causando anemia.",
@@ -85224,7 +85224,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente jovem apresenta corrimento uretral purulento e dor ao urinar após relação sexual desprotegida. A bacterioscopia revela diplococos Gram-negativos INTRACELULARES em neutrófilos. Qual o agente?),",
+      "enunciado": "Um paciente jovem apresenta corrimento uretral purulento e dor ao urinar após relação sexual desprotegida. A bacterioscopia revela diplococos Gram-negativos INTRACELULARES em neutrófilos. Qual o agente?",
       "opcoes": [
         "A) Chlamydia trachomatis.",
         "B) Treponema pallidum.",
@@ -85250,7 +85250,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Listeria monocytogenes' é um bacilo Gram-positivo importante na clínica obstétrica. Qual sua característica peculiar de movimentação e por que preocupa gestantes?),",
+      "enunciado": "A 'Listeria monocytogenes' é um bacilo Gram-positivo importante na clínica obstétrica. Qual sua característica peculiar de movimentação e por que preocupa gestantes?",
       "opcoes": [
         "A) Voa pelo ar; causa gripe.",
         "B) Apresenta movimento de 'cambalhota' (tumbling motility); pode atravessar a placenta e causar aborto, partos prematuros ou meningite neonatal.",
@@ -85290,7 +85290,7 @@
         "C": "[INCORRETA] Associada a ovos/aves/água, não esporulada.",
         "D": "[CORRETA] O **Bacillus cereus** é o agente clássico do **arroz contaminado**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -85342,7 +85342,7 @@
         "C": "[CORRETA] A **Variação Antigênica** impede a criação de vacinas para o **Gonococo**.",
         "D": "[INCORRETA] Irrelevante científico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85368,7 +85368,7 @@
         "C": "[INCORRETA] Ambas tendem a ser positivas.",
         "D": "[INCORRETA] Ambas crescem bem em meios comuns."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85380,7 +85380,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual o principal agente causal de Infecção do Trato Urinário (ITU) comunitária em todo o mundo?),",
+      "enunciado": "Qual o principal agente causal de Infecção do Trato Urinário (ITU) comunitária em todo o mundo?",
       "opcoes": [
         "A) Staphylococcus aureus.",
         "B) Pseudomonas aeruginosa.",
@@ -85406,7 +85406,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Escherichia coli Entero-hemorrágica' (EHEC), como a cepa O157:H7, é preocupante devido a uma complicação sistêmica grave. Qual é ela?),",
+      "enunciado": "A 'Escherichia coli Entero-hemorrágica' (EHEC), como a cepa O157:H7, é preocupante devido a uma complicação sistêmica grave. Qual é ela?",
       "opcoes": [
         "A) Síndrome Hemolítico-Urêmica (SHU) - anemia hemolítica, trombocitopenia e insuficiência renal aguda.",
         "B) Paralisia flácida.",
@@ -85432,7 +85432,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente apresenta diarreia com sangue e muco (disenteria), febre e dor abdominal intensa. A dose infectante necessária para causar a doença é baixíssima (menos de 100 bactérias). Qual o agente mais provável?),",
+      "enunciado": "Um paciente apresenta diarreia com sangue e muco (disenteria), febre e dor abdominal intensa. A dose infectante necessária para causar a doença é baixíssima (menos de 100 bactérias). Qual o agente mais provável?",
       "opcoes": [
         "A) Vibrio cholerae.",
         "B) Salmonella enteritidis.",
@@ -85458,7 +85458,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Pseudomonas aeruginosa' é um importante patógeno hospitalar. Qual sua característica visual em culturas e feridas de queimados?),",
+      "enunciado": "A 'Pseudomonas aeruginosa' é um importante patógeno hospitalar. Qual sua característica visual em culturas e feridas de queimados?",
       "opcoes": [
         "A) Produção de pigmento preto intenso.",
         "B) Produção de pigmentos fluorescentes verde-azulados (pilocianina e pioverdina) e odor adocicado característico.",
@@ -85484,7 +85484,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual Enterobactéria é famosa por possuir uma cápsula proeminente que dá às colônias um aspecto 'mucoide' e é causa frequente de pneumonia necrotizante em etilistas?),",
+      "enunciado": "Qual Enterobactéria é famosa por possuir uma cápsula proeminente que dá às colônias um aspecto 'mucoide' e é causa frequente de pneumonia necrotizante em etilistas?",
       "opcoes": [
         "A) Salmonella typhi.",
         "B) Escherichia coli.",
@@ -85524,7 +85524,7 @@
         "C": "[INCORRETA] Digestão de amido.",
         "D": "[INCORRETA] Sem relação."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85536,7 +85536,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual agende é o responsável pela 'Febre Tifoide', caracterizada por febre prolongada, dor abdominal e leucopenia?),",
+      "enunciado": "Qual agende é o responsável pela 'Febre Tifoide', caracterizada por febre prolongada, dor abdominal e leucopenia?",
       "opcoes": [
         "A) Salmonella enteritidis.",
         "B) Shigella boydii.",
@@ -85576,7 +85576,7 @@
         "C": "[INCORRETA] Não possui membrana externa de LPS.",
         "D": "[INCORRETA] Tem formato de bacilo (bastonete), não espiralado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85588,7 +85588,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual a principal via de transmissão da Tuberculose pulmonar?),",
+      "enunciado": "Qual a principal via de transmissão da Tuberculose pulmonar?",
       "opcoes": [
         "A) Fecal-oral (alimentos contaminados).",
         "B) Contato direto com a pele.",
@@ -85614,7 +85614,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A reação imunológica característica do corpo à presença do M. tuberculosis é a formação de:),",
+      "enunciado": "A reação imunológica característica do corpo à presença do M. tuberculosis é a formação de:",
       "opcoes": [
         "A) Granulomas (com necrose de cáseo).",
         "B) Abscessos purulentos com muitos neutrófilos.",
@@ -85640,7 +85640,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente apresenta tosse há 4 semanas, febre vespertina e sudorese noturna. No raio-X, nota-se uma cavitação no ápice pulmonar. Qual o exame inicial mais rápido para confirmar a suspeita?),",
+      "enunciado": "Um paciente apresenta tosse há 4 semanas, febre vespertina e sudorese noturna. No raio-X, nota-se uma cavitação no ápice pulmonar. Qual o exame inicial mais rápido para confirmar a suspeita?",
       "opcoes": [
         "A) Hemograma completo.",
         "B) Cultura de sangue.",
@@ -85680,7 +85680,7 @@
         "C": "[INCORRETA] É imóvel.",
         "D": "[INCORRETA] Absurdo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85692,7 +85692,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A Hanseníase ataca preferencialmente quais tecidos?),",
+      "enunciado": "A Hanseníase ataca preferencialmente quais tecidos?",
       "opcoes": [
         "A) Fígado e Baço.",
         "B) Coração e Pulmão.",
@@ -85718,7 +85718,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A Tuberculose Latente (ILTB) ocorre quando o paciente está infectado mas NÃO tem sintomas nem transmite a doença. Como ela é identificada?),",
+      "enunciado": "A Tuberculose Latente (ILTB) ocorre quando o paciente está infectado mas NÃO tem sintomas nem transmite a doença. Como ela é identificada?",
       "opcoes": [
         "A) Pelo teste de PPD (Intermédio) ou IGRA positivos, sem evidência radiológica ou clínica de doença ativa.",
         "B) Pela tosse com sangue.",
@@ -85744,7 +85744,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente com Hanseníase apresenta muitas manchas pelo corpo, nódulos (hansenomas) e alta carga bacilar nos exames (multibacilar). Qual a forma clínica mais provável?),",
+      "enunciado": "Um paciente com Hanseníase apresenta muitas manchas pelo corpo, nódulos (hansenomas) e alta carga bacilar nos exames (multibacilar). Qual a forma clínica mais provável?",
       "opcoes": [
         "A) Hanseníase Tuberculoide.",
         "B) Hanseníase Indeterminada inicial.",
@@ -85784,7 +85784,7 @@
         "C": "[INCORRETA] Útil em sífilis terciária (aneurisma de aorta), não diagnóstico direto inicial.",
         "D": "[INCORRETA] Para Micobactérias."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85796,7 +85796,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Sobre a 'Chlamydia trachomatis', qual sua característica biológica mais distinta que a diferencia das bactérias comuns?),",
+      "enunciado": "Sobre a 'Chlamydia trachomatis', qual sua característica biológica mais distinta que a diferencia das bactérias comuns?",
       "opcoes": [
         "A) Ela vive no estômago.",
         "B) Tem formato de estrela.",
@@ -85822,7 +85822,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Sífilis Primária' é caracterizada clinicamente pelo 'Cancro Duro'. Qual a sua principal característica?),",
+      "enunciado": "A 'Sífilis Primária' é caracterizada clinicamente pelo 'Cancro Duro'. Qual a sua principal característica?",
       "opcoes": [
         "A) Ferida única, indolor, com bordos endurecidos e fundo limpo, que desaparece sozinha mesmo sem tratamento.",
         "B) Várias feridas dolorosas que coçam.",
@@ -85848,7 +85848,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Os 'Mycoplasmas' são bactérias atípicas causadoras de pneumonias. O que os torna INTRINSECAMENTE resistentes aos antibióticos Beta-lactâmicos (como a penicilina)?),",
+      "enunciado": "Os 'Mycoplasmas' são bactérias atípicas causadoras de pneumonias. O que os torna INTRINSECAMENTE resistentes aos antibióticos Beta-lactâmicos (como a penicilina)?",
       "opcoes": [
         "A) Produzem muita beta-lactamase.",
         "B) Vivem dentro da mitocôndria.",
@@ -85874,7 +85874,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Um paciente com Sífilis apresenta o teste VDRL 1:64 (positivo). Por que este teste é chamado de 'não treponêmico'?),",
+      "enunciado": "Um paciente com Sífilis apresenta o teste VDRL 1:64 (positivo). Por que este teste é chamado de 'não treponêmico'?",
       "opcoes": [
         "A) Porque ele detecta a bactéria diretamente.",
         "B) Porque ele detecta anticorpos (reaginas) contra a cardiolipina (lipídeo liberado por células danificadas), não contra antígenos específicos da bactéria.",
@@ -85900,7 +85900,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual complicação ocular é causada pela Chlamydia trachomatis (sorotipos A-C) e é a principal causa de cegueira evitável no mundo?),",
+      "enunciado": "Qual complicação ocular é causada pela Chlamydia trachomatis (sorotipos A-C) e é a principal causa de cegueira evitável no mundo?",
       "opcoes": [
         "A) Glaucoma.",
         "B) Catarata.",
@@ -85926,7 +85926,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A 'Sífilis Secundária' manifesta-se semanas ou meses após o cancro duro. Qual o achado clínico clássico?),",
+      "enunciado": "A 'Sífilis Secundária' manifesta-se semanas ou meses após o cancro duro. Qual o achado clínico clássico?",
       "opcoes": [
         "A) Roséola sifilítica (lesões maculopapulares em tronco e especialmente palmas e plantas) e Condiloma Plano.",
         "B) Aneurisma da aorta.",
@@ -85966,7 +85966,7 @@
         "C": "[CORRETA] O **LGV** é causado por cepas invasivas de **Clamídia**.",
         "D": "[INCORRETA] Causa uretrite e descarga purulenta."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -85992,7 +85992,7 @@
         "C": "[INCORRETA] Componente das bactérias.",
         "D": "[INCORRETA] Componente da membrana celular humana; fungos possuem ergosterol."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86004,7 +86004,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Os fungos podem apresentar-se sob duas formas morfológicas básicas. Como são chamados os fungos unicelulares que se reproduzem por brotamento?),",
+      "enunciado": "Os fungos podem apresentar-se sob duas formas morfológicas básicas. Como são chamados os fungos unicelulares que se reproduzem por brotamento?",
       "opcoes": [
         "A) Hifas.",
         "B) Cogumelos.",
@@ -86030,7 +86030,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Muitos fungos patogênicos humanos são 'Dimórficos'. O que isso significa no contexto da patogênese?),",
+      "enunciado": "Muitos fungos patogênicos humanos são 'Dimórficos'. O que isso significa no contexto da patogênese?",
       "opcoes": [
         "A) Crescem como bolores (filamentosos) no ambiente (temp. ambiente) e como leveduras nos tecidos do hospedeiro (temp. corpórea).",
         "B) Possuem dois corações.",
@@ -86056,7 +86056,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual componente da membrana citoplasmática dos fungos é o alvo principal de drogas antifúngicas como o Fluconazol e a Anfotericina B?),",
+      "enunciado": "Qual componente da membrana citoplasmática dos fungos é o alvo principal de drogas antifúngicas como o Fluconazol e a Anfotericina B?",
       "opcoes": [
         "A) Fosfolipídeo.",
         "B) Glicogênio.",
@@ -86096,7 +86096,7 @@
         "C": "[INCORRETA] Característica de Aspergillus (fungo septado).",
         "D": "[INCORRETA] Cadeias de leveduras alongadas que não se soltam, comum em Candida."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86134,7 +86134,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Um paciente que trabalha em jardins apresenta lesões nodulares e ulceradas seguindo o trajeto linfático do antebraço. Qual o nome desse padrão de disseminação característico da Esporotricose?),",
+      "enunciado": "Um paciente que trabalha em jardins apresenta lesões nodulares e ulceradas seguindo o trajeto linfático do antebraço. Qual o nome desse padrão de disseminação característico da Esporotricose?",
       "opcoes": [
         "A) Disseminação Linfangítica (ou Nodular-ascendente).",
         "B) Disseminação Alveolar.",
@@ -86160,7 +86160,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual dos seguintes fungos é famoso por formar 'Pseudohifas' em situações de infecção ativa em mucosas?),",
+      "enunciado": "Qual dos seguintes fungos é famoso por formar 'Pseudohifas' em situações de infecção ativa em mucosas?",
       "opcoes": [
         "A) Aspergillus fumigatus.",
         "B) Penicillium chrysogenum.",
@@ -86200,7 +86200,7 @@
         "C": "[INCORRETA] Não aprofundam além da epiderme em pacientes normais.",
         "D": "[INCORRETA] São heterótrofos orgânicos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86212,7 +86212,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual fungo é o agente da 'Pitiríase Versicolor', caracterizada por manchas claras ou escuras no tronco que não coçam e 'não bronzeiam'?),",
+      "enunciado": "Qual fungo é o agente da 'Pitiríase Versicolor', caracterizada por manchas claras ou escuras no tronco que não coçam e 'não bronzeiam'?",
       "opcoes": [
         "A) Candida albicans.",
         "B) Paracoccidioides brasiliensis.",
@@ -86238,7 +86238,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A Paracoccidioidomicose (PCM) é uma micose sistêmica importante no Brasil. Qual a morfologia típica do fungo na fase de levedura (37°C) observada no exame direto?),",
+      "enunciado": "A Paracoccidioidomicose (PCM) é uma micose sistêmica importante no Brasil. Qual a morfologia típica do fungo na fase de levedura (37°C) observada no exame direto?",
       "opcoes": [
         "A) Célula mãe com múltiplos brotamentos ao redor (aspecto de 'roda de leme' ou 'orelha de Mickey').",
         "B) Pequenas leveduras dentro de macrófagos.",
@@ -86264,7 +86264,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente com diagnóstico de AIDS apresenta dor de cabeça intensa, febre e confusão mental. A punção lombar revela leveduras redondas com uma CÁPSULA proeminente (visualizada com tinta da China). Qual o diagnóstico?),",
+      "enunciado": "Um paciente com diagnóstico de AIDS apresenta dor de cabeça intensa, febre e confusão mental. A punção lombar revela leveduras redondas com uma CÁPSULA proeminente (visualizada com tinta da China). Qual o diagnóstico?",
       "opcoes": [
         "A) Meningite bacteriana por Meningococo.",
         "B) Neurotuberculose.",
@@ -86290,7 +86290,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A Histoplasmose (Histoplasma capsulatum) é uma micose sistêmica associada a qual exposição ambiental?),",
+      "enunciado": "A Histoplasmose (Histoplasma capsulatum) é uma micose sistêmica associada a qual exposição ambiental?",
       "opcoes": [
         "A) Nadar em rios poluídos.",
         "B) Limpeza de cavernas (fezes de morcegos) ou galinheiros degradados.",
@@ -86316,7 +86316,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A 'Candidíase Oral' (sapinho) é o exemplo mais comum de micose oportunista. Qual fator favorece o seu aparecimento?),",
+      "enunciado": "A 'Candidíase Oral' (sapinho) é o exemplo mais comum de micose oportunista. Qual fator favorece o seu aparecimento?",
       "opcoes": [
         "A) Higiene bucal excessiva.",
         "B) Uso de protetor solar.",
@@ -86356,7 +86356,7 @@
         "C": "[INCORRETA] Língua pilosa negra (outra causa).",
         "D": "[INCORRETA] Inespecífico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -86368,7 +86368,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "As micoses sistêmicas como PCM e Histoplasmose entram no diagnóstico diferencial de qual doença bacteriana crônica devido às lesões pulmonares?),",
+      "enunciado": "As micoses sistêmicas como PCM e Histoplasmose entram no diagnóstico diferencial de qual doença bacteriana crônica devido às lesões pulmonares?",
       "opcoes": [
         "A) Hanseníase.",
         "B) Sífilis.",
@@ -86408,7 +86408,7 @@
         "C": "[INCORRETA] Sem base biológica.",
         "D": "[INCORRETA] São entidades acelulares."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86434,7 +86434,7 @@
         "C": "[INCORRETA] Característica de células, não de vírus.",
         "D": "[CORRETA] O **Capsídeo** é a **carapaça proteica** viral."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86446,7 +86446,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Os 'Vírus Envelopados' possuem uma membrana lipídica externa. Qual a implicação clínica dessa característica em relação à higiene?),",
+      "enunciado": "Os 'Vírus Envelopados' possuem uma membrana lipídica externa. Qual a implicação clínica dessa característica em relação à higiene?",
       "opcoes": [
         "A) Eles são mais sensíveis a detergentes, solventes orgânicos e álcool 70%, que dissolvem o envelope e inativam o vírus.",
         "B) Eles são indestrutíveis por produtos químicos.",
@@ -86472,7 +86472,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A primeira etapa da replicação viral é a 'Adsorção'. O que determina o 'tropismo' de um vírus (as células específicas que ele infecta)?),",
+      "enunciado": "A primeira etapa da replicação viral é a 'Adsorção'. O que determina o 'tropismo' de um vírus (as células específicas que ele infecta)?",
       "opcoes": [
         "A) O tamanho da célula.",
         "B) A cor do tecido.",
@@ -86498,7 +86498,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Os 'Retrovírus' (como o HIV) possuem uma enzima única que desafia o dogma central da biologia. Qual é ela?),",
+      "enunciado": "Os 'Retrovírus' (como o HIV) possuem uma enzima única que desafia o dogma central da biologia. Qual é ela?",
       "opcoes": [
         "A) DNA polimerase.",
         "B) Transcriptase Reversa (sintetiza DNA a partir de um molde de RNA).",
@@ -86524,7 +86524,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O que ocorre na etapa de 'Desnudamento' (Uncoating) do ciclo viral?),",
+      "enunciado": "O que ocorre na etapa de 'Desnudamento' (Uncoating) do ciclo viral?",
       "opcoes": [
         "A) A liberação do genoma viral (DNA ou RNA) do capsídeo no interior da célula hospedeira para que possa ser replicado.",
         "B) A saída do vírus da célula para o sangue.",
@@ -86550,7 +86550,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O 'Efeito Citopático' (ECP) é observado em laboratórios de virologia. O que ele representa?),",
+      "enunciado": "O 'Efeito Citopático' (ECP) é observado em laboratórios de virologia. O que ele representa?",
       "opcoes": [
         "A) A cura rápida da célula.",
         "B) O aumento da produção de anticorpos.",
@@ -86576,7 +86576,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Muitos vírus RNA (como o vírus da gripe) possuem altas taxas de mutação. Por que isso ocorre?),",
+      "enunciado": "Muitos vírus RNA (como o vírus da gripe) possuem altas taxas de mutação. Por que isso ocorre?",
       "opcoes": [
         "A) Porque o vírus RNA é muito inteligente.",
         "B) Porque o RNA é mais pesado que o DNA.",
@@ -86616,7 +86616,7 @@
         "C": "[INCORRETA] Transmissão parenteral; alta taxa de cronicidade.",
         "D": "[INCORRETA] Exige a presença do vírus B (coinfecção ou superinfecção)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86628,7 +86628,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Na interpretação da sorologia para Hepatite B, o que indica que o paciente está IMUNIZADO por vacinação?),",
+      "enunciado": "Na interpretação da sorologia para Hepatite B, o que indica que o paciente está IMUNIZADO por vacinação?",
       "opcoes": [
         "A) Anti-HBs positivo isolado (com HBsAg e Anti-HBc negativos).",
         "B) HBsAg positivo.",
@@ -86654,7 +86654,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual o principal marcador de 'Replicação Viral Ativa' e alta infectividade na Hepatite B?),",
+      "enunciado": "Qual o principal marcador de 'Replicação Viral Ativa' e alta infectividade na Hepatite B?",
       "opcoes": [
         "A) Anti-HBe.",
         "B) Anti-HBs.",
@@ -86680,7 +86680,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "A Hepatite C é conhecida por ser frequentemente silenciosa. Qual a evolução mais comum após a infecção aguda pelo HCV, sem tratamento?),",
+      "enunciado": "A Hepatite C é conhecida por ser frequentemente silenciosa. Qual a evolução mais comum após a infecção aguda pelo HCV, sem tratamento?",
       "opcoes": [
         "A) Cura espontânea em 99% dos casos.",
         "B) Óbito em 24 horas.",
@@ -86706,7 +86706,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Um paciente apresenta Anti-HBc Total positivo e HBsAg positivo por mais de 6 meses. Qual o seu diagnóstico?),",
+      "enunciado": "Um paciente apresenta Anti-HBc Total positivo e HBsAg positivo por mais de 6 meses. Qual o seu diagnóstico?",
       "opcoes": [
         "A) Hepatite B Aguda.",
         "B) Hepatite B Crônica.",
@@ -86746,7 +86746,7 @@
         "C": "[CORRETA] O **Vírus Delta** é um **parasita do Vírus B**.",
         "D": "[INCORRETA] Transmissão parenteral/sangue."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86758,7 +86758,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual hepatite viral apresenta um risco significativamente maior (até 20% de letalidade) quando acomete mulheres grávidas no terceiro trimestre?),",
+      "enunciado": "Qual hepatite viral apresenta um risco significativamente maior (até 20% de letalidade) quando acomete mulheres grávidas no terceiro trimestre?",
       "opcoes": [
         "A) Hepatite A.",
         "B) Hepatite B.",
@@ -86784,7 +86784,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Sobre o vírus da Hepatite B, o que representa a chamada 'Janela Imunológica'?),",
+      "enunciado": "Sobre o vírus da Hepatite B, o que representa a chamada 'Janela Imunológica'?",
       "opcoes": [
         "A) Período em que o HBsAg sumiu, mas o Anti-HBs ainda não apareceu, sendo o Anti-HBc IgM o único marcador de infecção aguda presente.",
         "B) O tempo que o médico demora para ver o exame.",
@@ -86824,7 +86824,7 @@
         "C": "[INCORRETA] Processo bacteriano.",
         "D": "[INCORRETA] Sinônimo de Shift (troca de segmentos entre vírus diferentes)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86836,7 +86836,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Um sinal patognomônico (exclusivo) do Sarampo, que aparece na mucosa bucal antes do exantema, é chamado de:),",
+      "enunciado": "Um sinal patognomônico (exclusivo) do Sarampo, que aparece na mucosa bucal antes do exantema, é chamado de:",
       "opcoes": [
         "A) Manchas de Roth.",
         "B) Língua em framboesa.",
@@ -86862,7 +86862,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Varicela' (Catapora) apresenta uma característica clássica no exame físico das lesões de pele. Qual é ela?),",
+      "enunciado": "A 'Varicela' (Catapora) apresenta uma característica clássica no exame físico das lesões de pele. Qual é ela?",
       "opcoes": [
         "A) Polimorfismo regional (presença simultânea de pápulas, vesículas e crostas na mesma região do corpo).",
         "B) Todas as lesões aparecem e somem juntas (monomorfismo).",
@@ -86888,7 +86888,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a principal preocupação clínica em relação à infecção por Rubéola em uma mulher grávida suscetível (não vacinada)?),",
+      "enunciado": "Qual a principal preocupação clínica em relação à infecção por Rubéola em uma mulher grávida suscetível (não vacinada)?",
       "opcoes": [
         "A) Perda de peso da mãe.",
         "B) Queda de cabelo severa.",
@@ -86914,7 +86914,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "O vírus SARS-CoV-2 (COVID-19) utiliza qual receptor da célula humana para realizar a adsorção e entrada?),",
+      "enunciado": "O vírus SARS-CoV-2 (COVID-19) utiliza qual receptor da célula humana para realizar a adsorção e entrada?",
       "opcoes": [
         "A) Receptor CD4.",
         "B) ECA 2 (Enzima Conversora de Angiotensina 2).",
@@ -86940,7 +86940,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente idoso apresenta dor intensa em 'queimação' no tórax, seguida pelo aparecimento de vesículas que acompanham um dermátomo (trajeto de um nervo). Qual o diagnóstico?),",
+      "enunciado": "Um paciente idoso apresenta dor intensa em 'queimação' no tórax, seguida pelo aparecimento de vesículas que acompanham um dermátomo (trajeto de um nervo). Qual o diagnóstico?",
       "opcoes": [
         "A) Alergia de contato.",
         "B) Catapora comum.",
@@ -86980,7 +86980,7 @@
         "C": "[INCORRETA] Absurdo.",
         "D": "[INCORRETA] Vacinas diferentes."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -86992,7 +86992,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual vírus respiratório é a causa mais comum de bronquiolite em lactentes e crianças pequenas?),",
+      "enunciado": "Qual vírus respiratório é a causa mais comum de bronquiolite em lactentes e crianças pequenas?",
       "opcoes": [
         "A) Vírus da Raiva.",
         "B) Coronavírus.",
@@ -87032,7 +87032,7 @@
         "C": "[INCORRETA] Vetor da Malária.",
         "D": "[INCORRETA] Vetor da Leishmaniose."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87044,7 +87044,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Um paciente com Dengue apresenta febre, dor no corpo e dor atrás dos olhos. Qual o termo técnico para essa dor ocular característica?),",
+      "enunciado": "Um paciente com Dengue apresenta febre, dor no corpo e dor atrás dos olhos. Qual o termo técnico para essa dor ocular característica?",
       "opcoes": [
         "A) Fotofobia intensa.",
         "B) Glaucoma agudo.",
@@ -87070,7 +87070,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A infecção por vírus Zika durante a gestação foi associada a uma malformação congênita grave. Qual é ela?),",
+      "enunciado": "A infecção por vírus Zika durante a gestação foi associada a uma malformação congênita grave. Qual é ela?",
       "opcoes": [
         "A) Microcefalia e outras malformações do sistema nervoso central.",
         "B) Pé torto congênito.",
@@ -87096,7 +87096,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a principal característica clínica que diferencia a Chikungunya da Dengue na fase aguda?),",
+      "enunciado": "Qual a principal característica clínica que diferencia a Chikungunya da Dengue na fase aguda?",
       "opcoes": [
         "A) A Chikungunya não causa febre.",
         "B) A Dengue causa muita dor nas articulações, a Chikungunya não.",
@@ -87122,7 +87122,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A 'Febre Amarela' apresenta uma dissociação característica entre a temperatura e a frequência cardíaca (febre alta com pulso lento). Qual o nome desse sinal?),",
+      "enunciado": "A 'Febre Amarela' apresenta uma dissociação característica entre a temperatura e a frequência cardíaca (febre alta com pulso lento). Qual o nome desse sinal?",
       "opcoes": [
         "A) Sinal de Koplik.",
         "B) Sinal de Faget.",
@@ -87148,7 +87148,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A 'Dengue Hemorrágica' (ou Dengue Grave) é mais frequente em qual situação epidemiológica?),",
+      "enunciado": "A 'Dengue Hemorrágica' (ou Dengue Grave) é mais frequente em qual situação epidemiológica?",
       "opcoes": [
         "A) Em indivíduos que estão sofrendo uma SEGUNDA infecção por um sorotipo diferente do da primeira infecção (Teoria de Halstead).",
         "B) Em quem nunca teve dengue.",
@@ -87188,7 +87188,7 @@
         "C": "[INCORRETA] Foco em dor articular intensa.",
         "D": "[CORRETA] O **Prurido e Olhos Vermelhos** são típicos do **Zika**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -87200,7 +87200,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Quais são os 'Sinais de Alarme' na Dengue que indicam a necessidade de observação hospitalar imediata?),",
+      "enunciado": "Quais são os 'Sinais de Alarme' na Dengue que indicam a necessidade de observação hospitalar imediata?",
       "opcoes": [
         "A) Dor abdominal intensa e contínua, vômitos persistentes e sangramento de mucosas.",
         "B) Fome excessiva.",
@@ -87226,7 +87226,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "O vírus HIV ataca células específicas do sistema imunológico. Qual é o principal receptor celular utilizado pelo vírus para entrar na célula?),",
+      "enunciado": "O vírus HIV ataca células específicas do sistema imunológico. Qual é o principal receptor celular utilizado pelo vírus para entrar na célula?",
       "opcoes": [
         "A) Receptor de Insulina.",
         "B) Receptor CD4 (Linfócitos T auxiliares).",
@@ -87252,7 +87252,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Em qual fase da infecção por HIV o indivíduo é diagnosticado com 'AIDS'?),",
+      "enunciado": "Em qual fase da infecção por HIV o indivíduo é diagnosticado com 'AIDS'?",
       "opcoes": [
         "A) No dia em que é infectado.",
         "B) Apenas se tiver febre.",
@@ -87292,7 +87292,7 @@
         "C": "[INCORRETA] São relativamente frágeis no ambiente, mas a latência garante a persistência no hospedeiro.",
         "D": "[INCORRETA] Manifestações clínicas muito diversas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87304,7 +87304,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual herpesvírus é o agente causal da 'Mononucleose Infecciosa' (doença do beijo), caracterizada por febre, faringite e linfadenopatia generalizada?),",
+      "enunciado": "Qual herpesvírus é o agente causal da 'Mononucleose Infecciosa' (doença do beijo), caracterizada por febre, faringite e linfadenopatia generalizada?",
       "opcoes": [
         "A) HSV-1.",
         "B) Citomegalovírus (CMV).",
@@ -87330,7 +87330,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A enzima Protease tem qual função crucial no ciclo de vida do HIV?),",
+      "enunciado": "A enzima Protease tem qual função crucial no ciclo de vida do HIV?",
       "opcoes": [
         "A) Copia o RNA em DNA.",
         "B) Cliva as cadeias polipeptídicas precursoras longas em proteínas funcionais menores, permitindo a maturação do novo vírion.",
@@ -87356,7 +87356,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente com AIDS apresenta perda de visão progressiva. O exame de fundo de olho mostra retinite 'em queijo com ketchup' (hemorrágica e exsudativa). Qual o agente?),",
+      "enunciado": "Um paciente com AIDS apresenta perda de visão progressiva. O exame de fundo de olho mostra retinite 'em queijo com ketchup' (hemorrágica e exsudativa). Qual o agente?",
       "opcoes": [
         "A) Toxoplasma gondii.",
         "B) Cryptococcus neoformans.",
@@ -87382,7 +87382,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Qual câncer vascular é causado pelo Herpesvírus Humano tipo 8 (HHV-8) e é considerado uma doença definidora de AIDS?),",
+      "enunciado": "Qual câncer vascular é causado pelo Herpesvírus Humano tipo 8 (HHV-8) e é considerado uma doença definidora de AIDS?",
       "opcoes": [
         "A) Sarcoma de Kaposi.",
         "B) Linfoma de Hodgkin.",
@@ -87422,7 +87422,7 @@
         "C": "[CORRETA] O **HSV-1** é o principal agente do **Herpes Bucal**.",
         "D": "[INCORRETA] Principal agente do Herpes Genital."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87448,7 +87448,7 @@
         "C": "[INCORRETA] Função do baço.",
         "D": "[INCORRETA] Função do sistema digestório."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87460,7 +87460,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual célula do sistema imune inato é a primeira a chegar ao local da infecção em grande número, sendo a principal constituinte do pus?),",
+      "enunciado": "Qual célula do sistema imune inato é a primeira a chegar ao local da infecção em grande número, sendo a principal constituinte do pus?",
       "opcoes": [
         "A) Linfócito B.",
         "B) Macrófago.",
@@ -87486,7 +87486,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Os Linfócitos NK (Natural Killer) possuem uma função única na imunidade inata. Qual é ela?),",
+      "enunciado": "Os Linfócitos NK (Natural Killer) possuem uma função única na imunidade inata. Qual é ela?",
       "opcoes": [
         "A) Destruir células infectadas por vírus ou células tumorais que apresentam baixa expressão de MHC classe I.",
         "B) Produzir anticorpos IgM.",
@@ -87512,7 +87512,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual célula é considerada a 'ponte' entre a imunidade inata e a adaptativa, sendo a mais eficiente Célula Apresentadora de Antígenos (APC)?),",
+      "enunciado": "Qual célula é considerada a 'ponte' entre a imunidade inata e a adaptativa, sendo a mais eficiente Célula Apresentadora de Antígenos (APC)?",
       "opcoes": [
         "A) Basófilo.",
         "B) Hemácia.",
@@ -87538,7 +87538,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "A esplenectomia (remoção do baço) aumenta o risco de infecções graves por qual tipo de microrganismo?),",
+      "enunciado": "A esplenectomia (remoção do baço) aumenta o risco de infecções graves por qual tipo de microrganismo?",
       "opcoes": [
         "A) Vírus pequenos.",
         "B) Bactérias encapsuladas (ex: Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae).",
@@ -87564,7 +87564,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Os Mastócitos e Basófilos liberam grânulos de histamina em resposta a qual estímulo imunológico?),",
+      "enunciado": "Os Mastócitos e Basófilos liberam grânulos de histamina em resposta a qual estímulo imunológico?",
       "opcoes": [
         "A) Contato com oxigênio.",
         "B) Alta concentração de glicose.",
@@ -87604,7 +87604,7 @@
         "C": "[INCORRETA] Pouco abundante e de função reguladora inicial.",
         "D": "[INCORRETA] Primeira resposta, mas a IgA é a rainha das mucosas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87616,7 +87616,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um paciente com verminose (helmintíase) costuma apresentar no hemograma um aumento de qual linhagem celular?),",
+      "enunciado": "Um paciente com verminose (helmintíase) costuma apresentar no hemograma um aumento de qual linhagem celular?",
       "opcoes": [
         "A) Linfocitose.",
         "B) Monocitose.",
@@ -87656,7 +87656,7 @@
         "C": "[INCORRETA] Termos da imunidade adaptativa.",
         "D": "[INCORRETA] Termos do sistema endócrino."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87668,7 +87668,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A 'Inflamação Aguda' apresenta cinco sinais cardinais. Quais são eles?),",
+      "enunciado": "A 'Inflamação Aguda' apresenta cinco sinais cardinais. Quais são eles?",
       "opcoes": [
         "A) Tosse, espirro, fome, sede e sono.",
         "B) Febre, calafrio, suor, tremor e palidez.",
@@ -87694,7 +87694,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual o papel central do 'Sistema Complemento' na resposta imunitária?),",
+      "enunciado": "Qual o papel central do 'Sistema Complemento' na resposta imunitária?",
       "opcoes": [
         "A) Formar o Complexo de Ataque à Membrana (MAC) para lisar patógenos, opsonizar microrganismos e promover a inflamação (quimiotaxia).",
         "B) Produzir glóbulos vermelhos.",
@@ -87720,7 +87720,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Opsonização' é um processo que facilita a fagocitose. Quais moléculas atuam como as principais opsoninas do corpo?),",
+      "enunciado": "A 'Opsonização' é um processo que facilita a fagocitose. Quais moléculas atuam como as principais opsoninas do corpo?",
       "opcoes": [
         "A) Histamina e Heparina.",
         "B) Colesterol e Glicose.",
@@ -87746,7 +87746,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Qual citocina é considerada o principal pirógeno endógeno, responsável por induzir a FEBRE no hipotálamo durante a inflamação sistêmica?),",
+      "enunciado": "Qual citocina é considerada o principal pirógeno endógeno, responsável por induzir a FEBRE no hipotálamo durante a inflamação sistêmica?",
       "opcoes": [
         "A) IL-10.",
         "B) IL-1 (Interleucina-1) e também o TNF-alfa.",
@@ -87772,7 +87772,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "O processo de saída dos leucócitos do sangue para o tecido inflamado, atravessando o endotélio, é chamado de:),",
+      "enunciado": "O processo de saída dos leucócitos do sangue para o tecido inflamado, atravessando o endotélio, é chamado de:",
       "opcoes": [
         "A) Hemólise.",
         "B) Osmose.",
@@ -87798,7 +87798,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "A 'Via Alternativa' do Sistema Complemento é ativada por qual estímulo?),",
+      "enunciado": "A 'Via Alternativa' do Sistema Complemento é ativada por qual estímulo?",
       "opcoes": [
         "A) Presença direta de superfícies microbianas (como LPS ou paredes bacterianas) sem necessidade de anticorpos.",
         "B) Ligação do anticorpo IgM ao antígeno.",
@@ -87838,7 +87838,7 @@
         "C": "[INCORRETA] Osso e cartilagem.",
         "D": "[INCORRETA] Células funcionais e de suporte, não fagócitos profissionais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87864,7 +87864,7 @@
         "C": "[INCORRETA] Estrutura de sustentação química.",
         "D": "[INCORRETA] Ambas as cadeias (leve e pesada) formam o sítio de ligação."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87876,7 +87876,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual classe de anticorpo é a única capaz de atravessar a barreira placentária, conferindo imunidade passiva natural ao feto?),",
+      "enunciado": "Qual classe de anticorpo é a única capaz de atravessar a barreira placentária, conferindo imunidade passiva natural ao feto?",
       "opcoes": [
         "A) IgA.",
         "B) IgE.",
@@ -87902,7 +87902,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Em um exame de sangue para diagnóstico de uma infecção recente (fase aguda), qual classe de anticorpo específica para o agente deve estar elevada?),",
+      "enunciado": "Em um exame de sangue para diagnóstico de uma infecção recente (fase aguda), qual classe de anticorpo específica para o agente deve estar elevada?",
       "opcoes": [
         "A) IgM.",
         "B) IgG.",
@@ -87928,7 +87928,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O que ocorre na função de 'Neutralização' exercida pelos anticorpos?),",
+      "enunciado": "O que ocorre na função de 'Neutralização' exercida pelos anticorpos?",
       "opcoes": [
         "A) O anticorpo explode a bactéria.",
         "B) O anticorpo come o vírus.",
@@ -87968,7 +87968,7 @@
         "C": "[INCORRETA] Geralmente dímero nas mucosas.",
         "D": "[INCORRETA] Monômero."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -87980,7 +87980,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A 'Imunidade Passiva Artificial' é exemplificada por qual das seguintes situações?),",
+      "enunciado": "A 'Imunidade Passiva Artificial' é exemplificada por qual das seguintes situações?",
       "opcoes": [
         "A) Vacinação contra a gripe.",
         "B) Contrair catapora e ficar imune.",
@@ -88006,7 +88006,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O 'Switch de Classe' (Troca de Isótipo) permite que um linfócito B mude a classe do anticorpo produzido (ex: de IgM para IgG). O que NÃO muda nesse processo?),",
+      "enunciado": "O 'Switch de Classe' (Troca de Isótipo) permite que um linfócito B mude a classe do anticorpo produzido (ex: de IgM para IgG). O que NÃO muda nesse processo?",
       "opcoes": [
         "A) A especificidade pelo antígeno (a região variável Fab continua a mesma).",
         "B) A região constante (Fc).",
@@ -88032,7 +88032,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Antígenos que são capazes de induzir uma resposta imune de memória geralmente pertencem a qual classe bioquímica?),",
+      "enunciado": "Antígenos que são capazes de induzir uma resposta imune de memória geralmente pertencem a qual classe bioquímica?",
       "opcoes": [
         "A) Lipídeos puros.",
         "B) Ácidos nucleicos.",
@@ -88072,7 +88072,7 @@
         "C": "[INCORRETA] Relacionado a proteínas do complemento e citocinas, não apresentação direta clássica.",
         "D": "[INCORRETA] Hemácias não possuem núcleo nem MHC I clássico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88084,7 +88084,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Os Linfócitos T auxiliares (Helper) reconhecem antígenos apresentados apenas por qual molécula?),",
+      "enunciado": "Os Linfócitos T auxiliares (Helper) reconhecem antígenos apresentados apenas por qual molécula?",
       "opcoes": [
         "A) Anticorpos livres.",
         "B) MHC Classe I.",
@@ -88110,7 +88110,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A ativação plena de um Linfócito T virgem exige dois sinais. O primeiro é o reconhecimento do complexo MHC-Peptídeo pelo TCR. Qual é o SEGUNDO sinal (co-estimulação) clássico?),",
+      "enunciado": "A ativação plena de um Linfócito T virgem exige dois sinais. O primeiro é o reconhecimento do complexo MHC-Peptídeo pelo TCR. Qual é o SEGUNDO sinal (co-estimulação) clássico?",
       "opcoes": [
         "A) Interação entre a molécula B7 (na APC) e o receptor CD28 (no linfócito T).",
         "B) Beber muita água.",
@@ -88136,7 +88136,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a principal função dos Linfócitos T CD8+ (Citotóxicos) após serem ativados?),",
+      "enunciado": "Qual a principal função dos Linfócitos T CD8+ (Citotóxicos) após serem ativados?",
       "opcoes": [
         "A) Produzir anticorpos.",
         "B) Ativar macrófagos via citocinas apenas.",
@@ -88162,7 +88162,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "O processo de 'Seleção Negativa' no Timo é fundamental para a autotolerância. Em que ele consiste?),",
+      "enunciado": "O processo de 'Seleção Negativa' no Timo é fundamental para a autotolerância. Em que ele consiste?",
       "opcoes": [
         "A) Eliminar linfócitos que não reconhecem o MHC.",
         "B) Eliminar (por apoptose) linfócitos T que reconhecem com alta afinidade os auto-antígenos (antígenos do próprio corpo), evitando a autoimunidade.",
@@ -88188,7 +88188,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Diferente dos linfócitos B, os linfócitos T só reconhecem antígenos se eles forem:),",
+      "enunciado": "Diferente dos linfócitos B, os linfócitos T só reconhecem antígenos se eles forem:",
       "opcoes": [
         "A) Açúcares puros.",
         "B) Solúveis no plasma.",
@@ -88228,7 +88228,7 @@
         "C": "[INCORRETA] Linhagens celulares são fixas após maturação inicial.",
         "D": "[INCORRETA] Processo da imunidade inata/humoral."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88240,7 +88240,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a principal citocina produzida pelos Linfócitos T CD4+ Th1 para ativar macrófagos e aumentar sua capacidade de destruir patógenos intracelulares (como o Mycobacterium tuberculosis)?),",
+      "enunciado": "Qual a principal citocina produzida pelos Linfócitos T CD4+ Th1 para ativar macrófagos e aumentar sua capacidade de destruir patógenos intracelulares (como o Mycobacterium tuberculosis)?",
       "opcoes": [
         "A) IL-4.",
         "B) IL-5.",
@@ -88266,7 +88266,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual a primeira linha de defesa antiviral produzida por células infectadas para alertar as células vizinhas e induzir um estado antiviral?),",
+      "enunciado": "Qual a primeira linha de defesa antiviral produzida por células infectadas para alertar as células vizinhas e induzir um estado antiviral?",
       "opcoes": [
         "A) Anticorpos IgG.",
         "B) Interferons do Tipo I (IFN-alfa e IFN-beta).",
@@ -88306,7 +88306,7 @@
         "C": "[INCORRETA] Típico de resposta antiviral/tumoral.",
         "D": "[CORRETA] A **Resposta Th2/IgE/Eosinófilo** é direcionada a **Helmintos**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88318,7 +88318,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Bactérias intracelulares como o Mycobacterium tuberculosis sobrevivem dentro de macrófagos. Qual o mecanismo imune crucial para eliminá-las?),",
+      "enunciado": "Bactérias intracelulares como o Mycobacterium tuberculosis sobrevivem dentro de macrófagos. Qual o mecanismo imune crucial para eliminá-las?",
       "opcoes": [
         "A) Ativação dos macrófagos por Linfócitos Th1 através da secreção de IFN-gama.",
         "B) Produção de muco.",
@@ -88344,7 +88344,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Variação Antigênica' é uma estratégia de evasão viral. Qual a sua consequência para o sistema imune?),",
+      "enunciado": "A 'Variação Antigênica' é uma estratégia de evasão viral. Qual a sua consequência para o sistema imune?",
       "opcoes": [
         "A) O vírus morre mais rápido.",
         "B) O sistema imune consegue decorar o vírus para sempre.",
@@ -88384,7 +88384,7 @@
         "C": "[INCORRETA] Defesa depende de imunidade celular (Th1/Macrófago).",
         "D": "[INCORRETA] Patogenia por toxinas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -88396,7 +88396,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Por que anticorpos 'neutralizantes' são o objetivo principal da maioria das vacinas antivirais?),",
+      "enunciado": "Por que anticorpos 'neutralizantes' são o objetivo principal da maioria das vacinas antivirais?",
       "opcoes": [
         "A) Porque eles matam as células cancerosas.",
         "B) Porque eles tornam o vírus visível ao microscópio.",
@@ -88422,7 +88422,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Qual a principal estratégia de evasão da 'Listeria monocytogenes' para escapar da fagocitose destruidora?),",
+      "enunciado": "Qual a principal estratégia de evasão da 'Listeria monocytogenes' para escapar da fagocitose destruidora?",
       "opcoes": [
         "A) Ela rompe a membrana do fagossomo (via listeriolisina O) e escapa para o citoplasma, onde se move usando a actina da célula hospedeira.",
         "B) Ela se transforma em um vírus.",
@@ -88448,7 +88448,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Na resposta imune contra Fungos, qual subpopulação de Linfócitos T Helper é mais importante para o recrutamento de neutrófilos e defesa de superfícies mucosas?),",
+      "enunciado": "Na resposta imune contra Fungos, qual subpopulação de Linfócitos T Helper é mais importante para o recrutamento de neutrófilos e defesa de superfícies mucosas?",
       "opcoes": [
         "A) Th1.",
         "B) Th2.",
@@ -88474,7 +88474,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "A 'Anafilaxia' é uma reação alérgica grave e sistêmica. Ela é classificada como qual tipo de hipersensibilidade?),",
+      "enunciado": "A 'Anafilaxia' é uma reação alérgica grave e sistêmica. Ela é classificada como qual tipo de hipersensibilidade?",
       "opcoes": [
         "A) Tipo II (Citotóxica).",
         "B) Tipo I (Imediata ou IgE-dependente).",
@@ -88514,7 +88514,7 @@
         "C": "[INCORRETA] Produzido no estômago.",
         "D": "[CORRETA] A **Histamina** é o mediador chave da **Fase Imediata da Alergia**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88526,7 +88526,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Hipersensibilidade do Tipo III' caracteriza-se pelo depósito de imunocomplexos (antígeno + anticorpo) nos tecidos. Qual complicação renal clássica exemplifica este processo após uma infecção de garganta?),",
+      "enunciado": "A 'Hipersensibilidade do Tipo III' caracteriza-se pelo depósito de imunocomplexos (antígeno + anticorpo) nos tecidos. Qual complicação renal clássica exemplifica este processo após uma infecção de garganta?",
       "opcoes": [
         "A) Glomerulonefrite Pós-Estreptocócica (GNPE).",
         "B) Cálculo renal de cálcio.",
@@ -88552,7 +88552,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O teste de PPD (Tuberculina) para verificar exposição ao bacilo da tuberculose baseia-se em qual tipo de hipersensibilidade?),",
+      "enunciado": "O teste de PPD (Tuberculina) para verificar exposição ao bacilo da tuberculose baseia-se em qual tipo de hipersensibilidade?",
       "opcoes": [
         "A) Tipo I.",
         "B) Tipo II.",
@@ -88578,7 +88578,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Qual o mecanismo da 'Hipersensibilidade do Tipo II' na Miastenia Gravis?),",
+      "enunciado": "Qual o mecanismo da 'Hipersensibilidade do Tipo II' na Miastenia Gravis?",
       "opcoes": [
         "A) Linfócitos T destroem os músculos.",
         "B) Anticorpos IgG ligam-se aos receptores de acetilcolina na junção neuromuscular, bloqueando-os ou induzindo sua degradação.",
@@ -88604,7 +88604,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente apresenta dermatite (vermelhidão e coceira) em punho 48h após usar um relógio de metal (níquel). Qual a fisiopatologia?),",
+      "enunciado": "Um paciente apresenta dermatite (vermelhidão e coceira) em punho 48h após usar um relógio de metal (níquel). Qual a fisiopatologia?",
       "opcoes": [
         "A) Choque anafilático localizado.",
         "B) Depósito de imunocomplexos na pele.",
@@ -88644,7 +88644,7 @@
         "C": "[INCORRETA] Ambos são relativamente rápidos (horas), embora a formação e depósito do III possa levar dias para manifestar doença clínica plena.",
         "D": "[INCORRETA] São mecanisticamente distintos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88656,7 +88656,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A 'Doença de Graves' (Hipertiroidismo) é causada por anticorpos que se ligam ao receptor de TSH. Como eles atuam?),",
+      "enunciado": "A 'Doença de Graves' (Hipertiroidismo) é causada por anticorpos que se ligam ao receptor de TSH. Como eles atuam?",
       "opcoes": [
         "A) Bloqueiam o receptor, impedindo a tireoide de funcionar.",
         "B) Destroem totalmente a glândula tireoide via complemento.",
@@ -88696,7 +88696,7 @@
         "C": "[INCORRETA] Mecanismo de tolerância periférica (inatividade funcional).",
         "D": "[INCORRETA] Termo inexistente ou incorreto aqui."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88708,7 +88708,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual subpopulação de linfócitos T é responsável por SUPRIMIR a resposta imune de outras células, mantendo a homeostase e prevenindo a autoimunidade?),",
+      "enunciado": "Qual subpopulação de linfócitos T é responsável por SUPRIMIR a resposta imune de outras células, mantendo a homeostase e prevenindo a autoimunidade?",
       "opcoes": [
         "A) Linfócitos T CD8 citotóxicos.",
         "B) Linfócitos Th17.",
@@ -88734,7 +88734,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O 'Mimetismo Molecular' é uma causa frequente de autoimunidade pós-infecciosa. Como este mecanismo atua?),",
+      "enunciado": "O 'Mimetismo Molecular' é uma causa frequente de autoimunidade pós-infecciosa. Como este mecanismo atua?",
       "opcoes": [
         "A) Um antígeno do patógeno é muito parecido com um antígeno do próprio corpo, fazendo com que anticorpos contra o patógeno ataquem os tecidos do hospedeiro por engano.",
         "B) O patógeno se fantasia de linfócito.",
@@ -88760,7 +88760,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Quando um linfócito reconhece um antígeno mas NÃO recebe o segundo sinal de ativação (co-estimulação), ele entra em um estado de inatividade prolongada chamado:),",
+      "enunciado": "Quando um linfócito reconhece um antígeno mas NÃO recebe o segundo sinal de ativação (co-estimulação), ele entra em um estado de inatividade prolongada chamado:",
       "opcoes": [
         "A) Apoptose.",
         "B) Proliferação clonal.",
@@ -88786,7 +88786,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Antígenos localizados em locais como o interior do OLHO ou TESTÍCULOS são chamados de 'sequestrados'. O que ocorre se houver um trauma nestes locais?),",
+      "enunciado": "Antígenos localizados em locais como o interior do OLHO ou TESTÍCULOS são chamados de 'sequestrados'. O que ocorre se houver um trauma nestes locais?",
       "opcoes": [
         "A) Nada, o corpo já os conhece.",
         "B) Pode haver uma resposta autoimune violenta, pois esses antígenos nunca foram apresentados ao sistema imune durante a maturação no timo (quebra de 'ignorância imunológica').",
@@ -88812,7 +88812,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A predisposição genética para doenças autoimunes está frequentemente ligada a polimorfismos em quais genes?),",
+      "enunciado": "A predisposição genética para doenças autoimunes está frequentemente ligada a polimorfismos em quais genes?",
       "opcoes": [
         "A) Genes produtores de insulina.",
         "B) Genes da cor dos olhos.",
@@ -88852,7 +88852,7 @@
         "C": "[INCORRETA] Citocinas da inflamação aguda.",
         "D": "[INCORRETA] Hormônio."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88864,7 +88864,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O 'Lúpus Eritematoso Sistêmico' (LES) é o protótipo de doença autoimune multissistêmica. Qual o padrão de lesão imunológica predominante?),",
+      "enunciado": "O 'Lúpus Eritematoso Sistêmico' (LES) é o protótipo de doença autoimune multissistêmica. Qual o padrão de lesão imunológica predominante?",
       "opcoes": [
         "A) Hipersensibilidade Tipo I.",
         "B) Citotoxicidade direta por células NK.",
@@ -88890,7 +88890,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "No sistema sanguíneo ABO, um indivíduo do 'Grupo A' possui quais antígenos nas hemácias e quais anticorpos no plasma?),",
+      "enunciado": "No sistema sanguíneo ABO, um indivíduo do 'Grupo A' possui quais antígenos nas hemácias e quais anticorpos no plasma?",
       "opcoes": [
         "A) Antígeno B e Anticorpo Anti-A.",
         "B) Antígeno A e Anticorpo Anti-B.",
@@ -88930,7 +88930,7 @@
         "C": "[INCORRETA] Refere-se a distanciamento social, não imunidade.",
         "D": "[CORRETA] A **Imunidade de Rebanho** interrompe a **cadeia de transmissão**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -88942,7 +88942,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A Doença Hemolítica do Recém-nascido (DHRN) por incompatibilidade Rh ocorre tipicamente em qual situação?),",
+      "enunciado": "A Doença Hemolítica do Recém-nascido (DHRN) por incompatibilidade Rh ocorre tipicamente em qual situação?",
       "opcoes": [
         "A) Mãe Rh NEGATIVO, previamente sensibilizada, gestando um feto Rh POSITIVO.",
         "B) Mãe Rh POSITIVO gestando feto Rh NEGATIVO.",
@@ -88968,7 +88968,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "As vacinas de 'Vírus Vivos Atenuados' (ex: Tríplice Viral, BCG, Sabin) são contraindicadas para qual grupo de pessoas?),",
+      "enunciado": "As vacinas de 'Vírus Vivos Atenuados' (ex: Tríplice Viral, BCG, Sabin) são contraindicadas para qual grupo de pessoas?",
       "opcoes": [
         "A) Atletas de alto rendimento.",
         "B) Crianças com mais de 5 anos.",
@@ -89008,7 +89008,7 @@
         "C": "[INCORRETA] Absurdo.",
         "D": "[INCORRETA] Design mecânico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89020,7 +89020,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Um paciente do grupo sanguíneo 'O Rh NEGATIVO' sofre um acidente e precisa de sangue urgente. Qual o sangue ideal para ele e por quê?),",
+      "enunciado": "Um paciente do grupo sanguíneo 'O Rh NEGATIVO' sofre um acidente e precisa de sangue urgente. Qual o sangue ideal para ele e por quê?",
       "opcoes": [
         "A) Qualquer sangue, ele é receptor universal.",
         "B) Sangue AB Positivo.",
@@ -89046,7 +89046,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Por que a vacina contra o Tétano (toxoide tetânico) exige doses de reforço a cada 10 anos?),",
+      "enunciado": "Por que a vacina contra o Tétano (toxoide tetânico) exige doses de reforço a cada 10 anos?",
       "opcoes": [
         "A) Porque a memória imunológica contra toxinas proteicas (não associadas ao patógeno vivo) tende a decair com o tempo, necessitando de novos estímulos.",
         "B) Porque o ferro do prego muda de formato.",
@@ -89072,7 +89072,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual das vacinas abaixo é produzida por 'Engenharia Genética' (Recombinante), utilizando apenas uma proteína purificada do vírus?),",
+      "enunciado": "Qual das vacinas abaixo é produzida por 'Engenharia Genética' (Recombinante), utilizando apenas uma proteína purificada do vírus?",
       "opcoes": [
         "A) Sabin (Poliomielite oral).",
         "B) BCG (Tuberculose).",
