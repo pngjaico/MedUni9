@@ -77958,7 +77958,7 @@
         "C": "[CORRETA] O **Nodo SA** inicia o ritmo cardíaco no **Átrio Direito**.",
         "D": "[INCORRETA] Local do Feixe de His e ramos direito/esquerdo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78062,7 +78062,7 @@
         "C": "[CORRETA] As **Veias Pulmonares** trazem o **sangue arterial** de volta ao coração.",
         "D": "[INCORRETA] Distribui sangue arterial para o corpo a partir do ventrículo esquerdo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78114,7 +78114,7 @@
         "C": "[INCORRETA] Termo não utilizado para descrição histológica de vasos típicos.",
         "D": "[CORRETA] A **Túnica Média** é a camada de **músculo liso** e fibras elásticas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78192,7 +78192,7 @@
         "C": "[INCORRETA] Não é um sistema de filtragem.",
         "D": "[INCORRETA] Termorregulação é periférica e sistêmica, não isolada por vasa vasorum."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78348,7 +78348,7 @@
         "C": "[INCORRETA] Não define o padrão de fluxo mecânico.",
         "D": "[INCORRETA] Altera a viscosidade, mas o parâmetro de predição é o Re."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78374,7 +78374,7 @@
         "C": "[CORRETA] A **baixa velocidade nos capilares** é essencial para a **difusão de nutrientes**.",
         "D": "[INCORRETA] Termorregulação mantém a temperatura estável."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78530,7 +78530,7 @@
         "C": "[CORRETA] A **Fase 0** é o pico de **entrada de Sódio**.",
         "D": "[INCORRETA] É um momento de máxima condutância de membrana para o sódio."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78620,7 +78620,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "No Eletrocardiograma (ECG), o que a 'Onda P' representa fisicamente?),",
+      "enunciado": "No Eletrocardiograma (ECG), o que a 'Onda P' representa fisicamente?",
       "opcoes": [
         "A) Despolarização dos ventrículos.",
         "B) Despolarização dos átrios.",
@@ -78686,7 +78686,7 @@
         "C": "[INCORRETA] Não há diferença de 'calor' elétrico.",
         "D": "[CORRETA] O **Complexo QRS** reflete a **massa ventricular** dominante."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78712,7 +78712,7 @@
         "C": "[INCORRETA] O ciclo é contínuo.",
         "D": "[INCORRETA] As válvulas das veias e a pressão atrial impedem o refluxo significativo em condições normais."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -78724,7 +78724,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual a definição fisiológica de 'Débito Cardíaco'?),",
+      "enunciado": "Qual a definição fisiológica de 'Débito Cardíaco'?",
       "opcoes": [
         "A) A pressão do sangue nas artérias.",
         "B) O número de batimentos por minuto apenas.",
@@ -78764,7 +78764,7 @@
         "C": "[INCORRETA] Aberturas valvares normais são silenciosas.",
         "D": "[INCORRETA] Descrição imprecisa."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79050,7 +79050,7 @@
         "C": "[INCORRETA] Sem efeito hipnótico.",
         "D": "[CORRETA] O **PNA** é o hormônio **hipotensor e diurético** natural do coração."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79102,7 +79102,7 @@
         "C": "[INCORRETA] Não tem efeito cronotrópico negativo primário.",
         "D": "[INCORRETA] Sem relação gastrointestinal."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79284,7 +79284,7 @@
         "C": "[INCORRETA] Importantes na expiração forçada ou tosse.",
         "D": "[INCORRETA] Coração faz circulação; Diafragma faz ventilação mecânica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79310,7 +79310,7 @@
         "C": "[CORRETA] A **Carina** é o ponto de **bifurcação traqueal**.",
         "D": "[INCORRETA] Região média de entrada de vasos e brônquios no pulmão."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79388,7 +79388,7 @@
         "C": "[INCORRETA] Não garantem sustentação mecânica.",
         "D": "[INCORRETA] Tecido de discos intervertebrais, não de traqueia."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79518,7 +79518,7 @@
         "C": "[CORRETA] A **Barreira Hemato-Aérea** minimiza a distância para a **troca gasosa**.",
         "D": "[INCORRETA] Estão na superfície epitelial das vias de condução, não na área de troca alveolar fina."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79570,7 +79570,7 @@
         "C": "[INCORRETA] O diafragma sobe porque relaxa, não por contração ativa para subir.",
         "D": "[CORRETA] A **Expiração em Repouso** é movida pelo **recuo elástico**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79726,7 +79726,7 @@
         "C": "[CORRETA] A **Lei de Laplace** explica a necessidade de **Surfactante em alvéolos pequenos**.",
         "D": "[INCORRETA] Todos os alvéolos funcionais são ricamente vascularizados."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79752,7 +79752,7 @@
         "C": "[INCORRETA] Osmose refere-se ao movimento de solvente (água).",
         "D": "[INCORRETA] Termo não científico para o processo molecular."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79764,7 +79764,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A grande maioria do Oxigênio no sangue é transportada de qual forma?),",
+      "enunciado": "A grande maioria do Oxigênio no sangue é transportada de qual forma?",
       "opcoes": [
         "A) Dissolvido livremente no plasma.",
         "B) Ligado ao Glicogênio.",
@@ -79790,7 +79790,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "O Gás Carbônico (CO2) é transportado no sangue predominantemente sob qual forma?),",
+      "enunciado": "O Gás Carbônico (CO2) é transportado no sangue predominantemente sob qual forma?",
       "opcoes": [
         "A) Íons Bicarbonato (HCO3-) dissolvidos no plasma (após reação catalisada pela anidrase carbônica).",
         "B) Bolhas de gás puro.",
@@ -79908,7 +79908,7 @@
         "C": "[INCORRETA] Têm afinidades e funções distintas.",
         "D": "[INCORRETA] É sua função primária."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -79960,7 +79960,7 @@
         "C": "[INCORRETA] Regula temperatura e sede.",
         "D": "[INCORRETA] Responsável pelo controle respiratório voluntário (Ex: prender o folego)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80064,7 +80064,7 @@
         "C": "[INCORRETA] Resposta autonômica complexa, mas não o foco do reflexo respiratório citado.",
         "D": "[INCORRETA] Tossir depende de irritantes na via aérea."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80128,7 +80128,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual a influência do aumento da temperatura corporal (febre) sobre a respiração?),",
+      "enunciado": "Qual a influência do aumento da temperatura corporal (febre) sobre a respiração?",
       "opcoes": [
         "A) Aumenta a frequência respiratória (Taquipneia) para ajudar na dissipação de calor e atender à maior demanda metabólica.",
         "B) Diminui a frequência respiratória.",
@@ -80194,7 +80194,7 @@
         "C": "[INCORRETA] Sem fundamento anatômico.",
         "D": "[CORRETA] O **Córtex e a Medula** organizam a arquitetura funcional do **Néfron**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80246,7 +80246,7 @@
         "C": "[CORRETA] O **Trígono Vesical** é uma referência anatômica fixa da **bexiga**.",
         "D": "[INCORRETA] Bifurcação da traqueia."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80402,7 +80402,7 @@
         "C": "[INCORRETA] Característico do segmento delgado da alça de Henle.",
         "D": "[CORRETA] A **Borda em Escova** é a marca da alta capacidade absortiva do **TCP**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80454,7 +80454,7 @@
         "C": "[CORRETA] A **Mácula Densa** monitora a composição química do **filtrado distal**.",
         "D": "[INCORRETA] Fim do sistema tubular."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80610,7 +80610,7 @@
         "C": "[INCORRETA] A autorregulação é intrínseca ao rim, independente de nervos externos (embora sofra influência).",
         "D": "[CORRETA] A **Autorregulação** protege a **unidade funcional renal** das oscilações da PA."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80766,7 +80766,7 @@
         "C": "[INCORRETA] Metabolito muscular.",
         "D": "[INCORRETA] Produção muscular constante."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80818,7 +80818,7 @@
         "C": "[INCORRETA] Metabolismo de ferro não utiliza simporte tubular renal para glicose.",
         "D": "[CORRETA] O **Sódio** fornece a energia do **transporte ativo secundário** da glicose."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -80922,7 +80922,7 @@
         "C": "[INCORRETA] Divisão celular.",
         "D": "[CORRETA] As **Mitocôndrias** fornecem o **ATP** para o transporte de sódio."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81052,7 +81052,7 @@
         "C": "[INCORRETA] Rins não produzem muco funcional excretor.",
         "D": "[INCORRETA] Elas se aprofundam na medula."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -81104,7 +81104,7 @@
         "C": "[INCORRETA] Função do sistema imune e pH.",
         "D": "[INCORRETA] A ureia em si é inodora; o cheiro vem de substâncias derivadas e crescimento bacteriano pós-micção."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89124,7 +89124,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual a finalidade principal de se elaborar uma 'Lista de Diagnósticos Diferenciais'?),",
+      "enunciado": "Qual a finalidade principal de se elaborar uma 'Lista de Diagnósticos Diferenciais'?",
       "opcoes": [
         "A) Mostrar que o médico sabe muitos nomes de doenças.",
         "B) Preencher espaço no prontuário.",
@@ -89176,7 +89176,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "O 'Viés de Confirmação' ocorre quando o examinador:),",
+      "enunciado": "O 'Viés de Confirmação' ocorre quando o examinador:",
       "opcoes": [
         "A) Pede desculpas por errar.",
         "B) Solicita muitos exames desnecessários.",
@@ -89228,7 +89228,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "A 'âncora' no raciocínio clínico refere-se ao erro de:),",
+      "enunciado": "A 'âncora' no raciocínio clínico refere-se ao erro de:",
       "opcoes": [
         "A) Mudar de opinião toda hora.",
         "B) Não acreditar no paciente.",
@@ -89268,7 +89268,7 @@
         "C": "[INCORRETA] Irrelevante.",
         "D": "[INCORRETA] Sensibilidade e Especificidade são intrínsecas ao teste; VPP e VPN dependem da população."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89294,7 +89294,7 @@
         "C": "[CORRETA] Considerar outras hipóteses é o cerne do **Raciocínio Diferencial**.",
         "D": "[INCORRETA] Salva vidas."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -89306,7 +89306,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual a ordem RECOMENDADA para a realização do exame físico do abdome e por que?),",
+      "enunciado": "Qual a ordem RECOMENDADA para a realização do exame físico do abdome e por que?",
       "opcoes": [
         "A) Inspeção, Palpação, Percussão e Ausculta.",
         "B) Inspeção, Ausculta, Percussão e Palpação.",
@@ -89384,7 +89384,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Na percussão do abdome, o que representa o 'Espaço de Traube' e qual o achado normal?),",
+      "enunciado": "Na percussão do abdome, o que representa o 'Espaço de Traube' e qual o achado normal?",
       "opcoes": [
         "A) Localização do fígado; som maciço.",
         "B) Localização do pâncreas; som surdo.",
@@ -89424,7 +89424,7 @@
         "C": "[INCORRETA] Pulmão é percutido no tórax posterior, mas Giordano é manobra específica para dor visceral.",
         "D": "[INCORRETA] Apêndice é palpado na região anterior (FID)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -89502,7 +89502,7 @@
         "C": "[CORRETA] A **Macicez** indica substituição de ar por **Sólido ou Líquido**.",
         "D": "[INCORRETA] O som normal predominante é o timpanismo."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89514,7 +89514,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual a localização fisiológica (normal) do 'Ictus Cordis' em um adulto saudável?),",
+      "enunciado": "Qual a localização fisiológica (normal) do 'Ictus Cordis' em um adulto saudável?",
       "opcoes": [
         "A) 2º espaço intercostal direito, linha paraesternal.",
         "B) 4º ou 5º espaço intercostal esquerdo, na linha hemiclavicular.",
@@ -89540,7 +89540,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A 'Primeira Bulha Cardíaca' (B1) corresponde a qual evento mecânico do ciclo cardíaco?),",
+      "enunciado": "A 'Primeira Bulha Cardíaca' (B1) corresponde a qual evento mecânico do ciclo cardíaco?",
       "opcoes": [
         "A) Abertura das válvulas semilunares.",
         "B) Fechamento das válvulas aórtica e pulmonar.",
@@ -89566,7 +89566,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Onde se localiza o 'Foco Mitral' de ausculta cardíaca?),",
+      "enunciado": "Onde se localiza o 'Foco Mitral' de ausculta cardíaca?",
       "opcoes": [
         "A) No 5º espaço intercostal esquerdo, na linha hemiclavicular (mesmo local do ictus).",
         "B) No 2º espaço intercostal direito.",
@@ -89632,7 +89632,7 @@
         "C": "[INCORRETA] Ocupa todo o ciclo.",
         "D": "[INCORRETA] Bulha inexistente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89644,7 +89644,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O que representa o sinal de 'Turgência Jugular Patológica' com o paciente a 45°?),",
+      "enunciado": "O que representa o sinal de 'Turgência Jugular Patológica' com o paciente a 45°?",
       "opcoes": [
         "A) Aumento da pressão no átrio direito, refletindo congestão sistêmica ou insuficiência cardíaca direita.",
         "B) Aumento da inteligência.",
@@ -89684,7 +89684,7 @@
         "C": "[CORRETA] A **FC aumenta na Inspiração** na arritmia sinusal fisiológica.",
         "D": "[INCORRETA] Característica da Fibrilação Atrial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89736,7 +89736,7 @@
         "C": "[INCORRETA] Som de cavidades com muito ar (ex: estômago ou pneumotórax).",
         "D": "[INCORRETA] Som patológico em grandes cavernas pulmonares."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -89788,7 +89788,7 @@
         "C": "[INCORRETA] Haverá mudança física na propagação.",
         "D": "[INCORRETA] Ocorre na região da lesão, independente do lado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -90034,7 +90034,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "A 'Manobra de Guyon' é utilizada para a palpação de qual órgão?),",
+      "enunciado": "A 'Manobra de Guyon' é utilizada para a palpação de qual órgão?",
       "opcoes": [
         "A) Fígado.",
         "B) Rins (Palpação bimanual).",
@@ -90112,7 +90112,7 @@
       "modulo": 2,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "A 'Transiluminação' do escroto é uma manobra simples que ajuda a diferenciar?),",
+      "enunciado": "A 'Transiluminação' do escroto é uma manobra simples que ajuda a diferenciar?",
       "opcoes": [
         "A) Câncer de Hérnia.",
         "B) Varicocele de Torção de testículo.",
@@ -90216,7 +90216,7 @@
       "modulo": 2,
       "dificuldade": 1,
       "correta": 2,
-      "enunciado": "Na Escala de Coma de Glasgow (Atualizada), qual a pontuação MÍNIMA e MÁXIMA possíveis?)",
+      "enunciado": "Na Escala de Coma de Glasgow (Atualizada), qual a pontuação MÍNIMA e MÁXIMA possíveis?",
       "opcoes": [
         "A) 0 a 10.",
         "B) 1 a 15.",
@@ -90294,7 +90294,7 @@
       "modulo": 2,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Na semiologia dermatológica, qual a diferença entre 'Mácula' e 'Pápula'?),",
+      "enunciado": "Na semiologia dermatológica, qual a diferença entre 'Mácula' e 'Pápula'?",
       "opcoes": [
         "A) A Mácula é apenas uma mudança de cor (plana); a Pápula é uma lesão sólida e elevada (palpável).",
         "B) A Mácula tem pus; a Pápula tem água.",
@@ -90516,7 +90516,7 @@
         "C": "[INCORRETA] Efeito muscarínico/vegetativo.",
         "D": "[INCORRETA] Efeito muscarínico (M3)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -90542,7 +90542,7 @@
         "C": "[CORRETA] O **Suor Simpático** é mediado por **Acetilcolina**.",
         "D": "[INCORRETA] Libera Noradrenalina (Alfa-1/Beta-2)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -90620,7 +90620,7 @@
         "C": "[INCORRETA] Pioraria a dor por aumentar o peristaltismo ureteral.",
         "D": "[INCORRETA] Contraindicado (causa broncoconstrição)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -90646,7 +90646,7 @@
         "C": "[CORRETA] A **Escopolamina** é um **Antiemético Anticolinérgico**.",
         "D": "[INCORRETA] Agonista adrenérgico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -90880,7 +90880,7 @@
         "C": "[INCORRETA] Causa bradicardia reflexa ou direta central.",
         "D": "[INCORRETA] Não é o efeito clínico principal sistêmico esperado."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -90958,7 +90958,7 @@
         "C": "[CORRETA] Descongestionantes nasais causam **Rinite Medicamentosa**.",
         "D": "[INCORRETA] São agentes simpatomiméticos, tenderiam a causar alerta/discreta agitação se absorvidos sistemicamente em excesso."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -90970,7 +90970,7 @@
       "modulo": 3,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual o principal mecanismo de ação dos Anti-inflamatórios Não Esteroidais (AINEs)?),",
+      "enunciado": "Qual o principal mecanismo de ação dos Anti-inflamatórios Não Esteroidais (AINEs)?",
       "opcoes": [
         "A) Bloqueio dos receptores de dor nos músculos.",
         "B) Inibição da enzima Ciclo-oxigenase (COX), reduzindo a síntese de Prostaglandinas.",
@@ -91048,7 +91048,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Por que o 'AAS' (Aspirina) é utilizado em doses baixas para prevenir infartos e AVCs?),",
+      "enunciado": "Por que o 'AAS' (Aspirina) é utilizado em doses baixas para prevenir infartos e AVCs?",
       "opcoes": [
         "A) Porque ele mata bactérias no sangue.",
         "B) Porque ele dissolve gordura das artérias.",
@@ -91088,7 +91088,7 @@
         "C": "[INCORRETA] Invertido; podem aumentar o risco cardiovascular devido ao desequilíbrio entre prostaciclina e tromboxano.",
         "D": "[INCORRETA] Todos os fármacos desse grupo sofrem metabolismo/eliminação sistêmica."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -91166,7 +91166,7 @@
         "C": "[CORRETA] A **Dipirona** é um potente **Antipirético e Analgésico**.",
         "D": "[INCORRETA] AINE utilizado para cólicas menstruais/dor leve."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -91296,7 +91296,7 @@
         "C": "[INCORRETA] Não é antimalárico.",
         "D": "[INCORRETA] Não tem ação sobre a ciclo-oxigenase."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -91322,7 +91322,7 @@
         "C": "[INCORRETA] Ela causa constipação (oposto de laxante).",
         "D": "[CORRETA] A **Codeína** é um potente **Inibidor da Tosse**."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -91412,7 +91412,7 @@
       "modulo": 3,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "A 'Desmopressina' (análogo do ADH) é o tratamento de escolha para qual condição clínica?),",
+      "enunciado": "A 'Desmopressina' (análogo do ADH) é o tratamento de escolha para qual condição clínica?",
       "opcoes": [
         "A) Diabetes Mellitus Tipo 2.",
         "B) Acromegalia.",
@@ -91490,7 +91490,7 @@
       "modulo": 3,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual o fármaco de primeira escolha para a reposição hormonal no Hipotireoidismo?),",
+      "enunciado": "Qual o fármaco de primeira escolha para a reposição hormonal no Hipotireoidismo?",
       "opcoes": [
         "A) Liotironina (T3 sintético).",
         "B) Levotiroxina (T4 sintético).",
@@ -91958,7 +91958,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual a principal meta terapêutica dos Betabloqueadores no tratamento da Angina Estável?),",
+      "enunciado": "Qual a principal meta terapêutica dos Betabloqueadores no tratamento da Angina Estável?",
       "opcoes": [
         "A) Reduzir o consumo de oxigênio pelo miocárdio através da diminuição da frequência cardíaca e da contratilidade.",
         "B) Aumentar a pressão arterial.",
@@ -92322,7 +92322,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual o mecanismo de ação da 'Varfarina' (Marevan) como anticoagulante?),",
+      "enunciado": "Qual o mecanismo de ação da 'Varfarina' (Marevan) como anticoagulante?",
       "opcoes": [
         "A) Antagonismo da Vitamina K, impedindo a síntese hepática progressiva dos fatores II, VII, IX e X.",
         "B) Inibição direta do Fator Xa.",
@@ -92478,7 +92478,7 @@
       "modulo": 3,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual o mecanismo de ação dos fármacos como o 'Omeprazol' e o 'Esomeprazol'?),",
+      "enunciado": "Qual o mecanismo de ação dos fármacos como o 'Omeprazol' e o 'Esomeprazol'?",
       "opcoes": [
         "A) Neutralização direta do ácido já presente no estômago.",
         "B) Inibição irreversível da bomba de prótons (H+/K+ ATPase) nas células parietais, bloqueando a etapa final da secreção ácida.",
@@ -94730,7 +94730,7 @@
         "C": "[INCORRETA]",
         "D": "[INCORRETA]"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -94756,7 +94756,7 @@
         "C": "[INCORRETA]",
         "D": "[INCORRETA]"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -94794,7 +94794,7 @@
       "modulo": 3,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "A 'Atropinização' é o tratamento de qual síndrome tóxica?),",
+      "enunciado": "A 'Atropinização' é o tratamento de qual síndrome tóxica?",
       "opcoes": [
         "A) Síndrome Colinérgica (Organofosforados).",
         "B) Síndrome Opioide.",
@@ -94886,7 +94886,7 @@
         "C": "[INCORRETA]",
         "D": "[INCORRETA]"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95042,7 +95042,7 @@
         "C": "[INCORRETA] NR-32 é específica para serviços de saúde.",
         "D": "[CORRETA] **NR-7** estabelece o PCMSO e todos seus exames obrigatórios."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95198,7 +95198,7 @@
         "C": "[INCORRETA] NR-17 trata de ergonomia.",
         "D": "[INCORRETA] NR-1 trata do gerenciamento geral de riscos."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95354,7 +95354,7 @@
         "C": "[INCORRETA] Influenza pode ser incluída, mas não é a única exigência da norma.",
         "D": "[INCORRETA] BCG é vacina de infância; pneumocócica não é mandatória pela NR-32."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95406,7 +95406,7 @@
         "C": "[INCORRETA] A interdição é competência da Vigilância Sanitária/Ministério do Trabalho.",
         "D": "[INCORRETA] Não substitui profissionais intraempresa."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95458,7 +95458,7 @@
         "C": "[CORRETA] O **SINAN** é **epidemiológico** e inclui trabalhadores **informais**.",
         "D": "[INCORRETA] A suspeita já obriga a notificação; não se espera confirmação laboratorial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95588,7 +95588,7 @@
         "C": "[INCORRETA] Manter a função com EPI não elimina o movimento agravante.",
         "D": "[CORRETA] A **readaptação funcional** é a **medida preferencial** antes do afastamento."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95614,7 +95614,7 @@
         "C": "[INCORRETA] 48 horas excede o prazo para qualquer tipo de CAT.",
         "D": "[INCORRETA] 72 horas é o prazo da PEP para acidente biológico, não da CAT de óbito."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95796,7 +95796,7 @@
         "C": "[INCORRETA] O ASO é um documento do exame médico, não um programa.",
         "D": "[INCORRETA] O LTCAT é um laudo previdenciário para aposentadoria especial."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -95926,7 +95926,7 @@
         "C": "[CORRETA] O **PGR** é o inventário dinâmico de riscos e plano de controle da empresa.",
         "D": "[INCORRETA] O PGR tem foco em saúde e segurança do trabalhador, não só no ambiente."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96030,7 +96030,7 @@
         "C": "[CORRETA] **Taxas** corrigem pelo tamanho da população, permitindo **comparação justa**.",
         "D": "[INCORRETA] Custo financeiro não é indicador epidemiológico."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96134,7 +96134,7 @@
         "C": "[INCORRETA] Tem impacto financeiro real e direto na folha de pagamento.",
         "D": "[INCORRETA] Baseia-se no histórico de acidentes, não no número de funcionários."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96264,7 +96264,7 @@
         "C": "[CORRETA] Os três tipos de CAT são **Inicial, Reabertura e Comunicação de Óbito**.",
         "D": "[INCORRETA] Essa é a classificação dos níveis de prevenção."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96316,7 +96316,7 @@
         "C": "[INCORRETA] 15 dias é prazo excessivo.",
         "D": "[INCORRETA] Comunicação imediata aplica-se ao caso de óbito."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96498,7 +96498,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -96524,7 +96524,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96706,7 +96706,7 @@
         "C": "[INCORRETA] Resposta ao tratamento é \"E\" (Relieving).",
         "D": "[CORRETA] O **R** do SOCRATES é a **Radiation** (irradiação da dor)."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96836,7 +96836,7 @@
         "C": "[INCORRETA] Dor epigástrica profunda não tem epônimo específico.",
         "D": "[INCORRETA] Macicez móvel com posição é o sinal de ascite."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -96914,7 +96914,7 @@
         "C": "[INCORRETA] O epigástrio não é uma regra universal de início da palpação.",
         "D": "[INCORRETA] Giordano é para avaliação renal, não para dor em FID."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -97070,7 +97070,7 @@
         "C": "[INCORRETA] Anúria é ainda mais grave: menos de 100 ml/dia.",
         "D": "[CORRETA] **Oligúria** = menos de **400 ml/24h** — sinal de falência renal aguda."
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -97590,7 +97590,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -97616,7 +97616,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -97628,7 +97628,7 @@
       "modulo": 4,
       "dificuldade": 1,
       "correta": 1,
-      "enunciado": "Qual o tipo de variável estatística que descreve o 'Sexo' (Masculino/Feminino) ou a 'Cor da Pele'?),",
+      "enunciado": "Qual o tipo de variável estatística que descreve o 'Sexo' (Masculino/Feminino) ou a 'Cor da Pele'?",
       "opcoes": [
         "A) Quantitativa Discreta.",
         "B) Qualitativa Nominal.",
@@ -97654,7 +97654,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Qual medida de tendência central é mais recomendada para descrever uma distribuição de dados enviesada (assimétrica), como a renda de uma população?),",
+      "enunciado": "Qual medida de tendência central é mais recomendada para descrever uma distribuição de dados enviesada (assimétrica), como a renda de uma população?",
       "opcoes": [
         "A) Média aritmética.",
         "B) Desvio padrão.",
@@ -97680,7 +97680,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual o principal tipo de estudo epidemiológico observacional que parte do 'efeito' (doentes) para buscar a 'causa' (exposição retroativamente)?),",
+      "enunciado": "Qual o principal tipo de estudo epidemiológico observacional que parte do 'efeito' (doentes) para buscar a 'causa' (exposição retroativamente)?",
       "opcoes": [
         "A) Estudo de Caso-controle.",
         "B) Estudo de Coorte.",
@@ -97706,7 +97706,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Qual a medida de associação principal utilizada em um 'Estudo de Coorte'?),",
+      "enunciado": "Qual a medida de associação principal utilizada em um 'Estudo de Coorte'?",
       "opcoes": [
         "A) Odds Ratio (Razão de Chances).",
         "B) Risco Relativo (RR).",
@@ -97732,7 +97732,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Um teste diagnóstico com alta 'Sensibilidade' é ideal para qual finalidade principal?),",
+      "enunciado": "Um teste diagnóstico com alta 'Sensibilidade' é ideal para qual finalidade principal?",
       "opcoes": [
         "A) Confirmar a doença em quem deu positivo.",
         "B) Reduzir o número de falsos-positivos.",
@@ -97758,7 +97758,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O que acontece com o 'Valor Preditivo Positivo' (VPP) de um teste quando a prevalência da doença na população aumenta?),",
+      "enunciado": "O que acontece com o 'Valor Preditivo Positivo' (VPP) de um teste quando a prevalência da doença na população aumenta?",
       "opcoes": [
         "A) O VPP aumenta (um resultado positivo tem mais chance de ser verdadeiro).",
         "B) O VPP diminui.",
@@ -97784,7 +97784,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 3,
-      "enunciado": "Na interpretação de um 'p-valor' (p < 0.05), o que os pesquisadores geralmente concluem?),",
+      "enunciado": "Na interpretação de um 'p-valor' (p < 0.05), o que os pesquisadores geralmente concluem?",
       "opcoes": [
         "A) Que a hipótese nula é verdadeira.",
         "B) Que o resultado foi devido ao acaso.",
@@ -97810,7 +97810,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "Se um Intervalo de Confiança de 95% (IC 95%) para um Risco Relativo (RR) for [0.85 - 1.15], qual a interpretação correta?),",
+      "enunciado": "Se um Intervalo de Confiança de 95% (IC 95%) para um Risco Relativo (RR) for [0.85 - 1.15], qual a interpretação correta?",
       "opcoes": [
         "A) O fator protege contra a doença.",
         "B) O fator aumenta o risco da doença.",
@@ -97836,7 +97836,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Qual o mecanismo de ação primordial dos Inibidores Seletivos da Recaptação de Serotonina (ISRS), como a fluoxetina?),",
+      "enunciado": "Qual o mecanismo de ação primordial dos Inibidores Seletivos da Recaptação de Serotonina (ISRS), como a fluoxetina?",
       "opcoes": [
         "A) Bloqueio do transportador SERT, aumentando a disponibilidade de serotonina na fenda sináptica.",
         "B) Bloqueio dos receptores Alfa-1 adrenérgicos.",
@@ -97876,7 +97876,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -97902,7 +97902,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -97928,7 +97928,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -97954,7 +97954,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -97980,7 +97980,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98006,7 +98006,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98032,7 +98032,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98058,7 +98058,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98084,7 +98084,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98110,7 +98110,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98136,7 +98136,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98162,7 +98162,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98188,7 +98188,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98214,7 +98214,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98240,7 +98240,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98266,7 +98266,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98292,7 +98292,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98318,7 +98318,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98344,7 +98344,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98370,7 +98370,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98396,7 +98396,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98422,7 +98422,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98448,7 +98448,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98460,7 +98460,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 2,
-      "enunciado": "Qual efeito colateral motor extra-piramidal, caracterizado por inquietação motora e incapacidade de ficar parado, é comum no uso de antipsicóticos típicos como o Haloperidol?),",
+      "enunciado": "Qual efeito colateral motor extra-piramidal, caracterizado por inquietação motora e incapacidade de ficar parado, é comum no uso de antipsicóticos típicos como o Haloperidol?",
       "opcoes": [
         "A) Parkinsonismo medicamentoso.",
         "B) Distonia aguda.",
@@ -98500,7 +98500,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98526,7 +98526,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98552,7 +98552,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98578,7 +98578,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98604,7 +98604,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98630,7 +98630,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98656,7 +98656,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98682,7 +98682,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98708,7 +98708,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98734,7 +98734,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98760,7 +98760,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98786,7 +98786,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98812,7 +98812,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98838,7 +98838,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98864,7 +98864,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98890,7 +98890,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98916,7 +98916,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98942,7 +98942,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -98968,7 +98968,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -98994,7 +98994,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99020,7 +99020,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99046,7 +99046,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99072,7 +99072,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99084,7 +99084,7 @@
       "modulo": 4,
       "dificuldade": 1,
       "correta": 3,
-      "enunciado": "Qual o mecanismo de ação dos benzodiazepínicos (ex: diazepam) no receptor GABA-A?),",
+      "enunciado": "Qual o mecanismo de ação dos benzodiazepínicos (ex: diazepam) no receptor GABA-A?",
       "opcoes": [
         "A) Agonistas diretos que abrem o canal de sódio.",
         "B) Antagonistas do canal de cloro.",
@@ -99124,7 +99124,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99150,7 +99150,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99176,7 +99176,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99202,7 +99202,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99228,7 +99228,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99254,7 +99254,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99280,7 +99280,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99306,7 +99306,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99332,7 +99332,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99358,7 +99358,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99384,7 +99384,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99410,7 +99410,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99436,7 +99436,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99462,7 +99462,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99488,7 +99488,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99514,7 +99514,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99540,7 +99540,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99566,7 +99566,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99592,7 +99592,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99618,7 +99618,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99644,7 +99644,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99670,7 +99670,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99696,7 +99696,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99708,7 +99708,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Qual anticonvulsivante é conhecido por causar hiperplasia gengival, hirsutismo e ter farmacocinética de ordem zero (saturação enzimática) em doses terapêuticas altas?),",
+      "enunciado": "Qual anticonvulsivante é conhecido por causar hiperplasia gengival, hirsutismo e ter farmacocinética de ordem zero (saturação enzimática) em doses terapêuticas altas?",
       "opcoes": [
         "A) Carbamazepina.",
         "B) Fenitoína.",
@@ -99748,7 +99748,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99774,7 +99774,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99800,7 +99800,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99826,7 +99826,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99852,7 +99852,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99878,7 +99878,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99904,7 +99904,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -99930,7 +99930,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99956,7 +99956,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -99982,7 +99982,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100008,7 +100008,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100034,7 +100034,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100060,7 +100060,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100086,7 +100086,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100112,7 +100112,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100138,7 +100138,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100164,7 +100164,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100190,7 +100190,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100216,7 +100216,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100242,7 +100242,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100268,7 +100268,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100294,7 +100294,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100320,7 +100320,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100332,7 +100332,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Por que a Levodopa é administrada em conjunto com a Carbidopa ou Benserazida?),",
+      "enunciado": "Por que a Levodopa é administrada em conjunto com a Carbidopa ou Benserazida?",
       "opcoes": [
         "A) Para aumentar a absorção gástrica da dopamina.",
         "B) Para bloquear os receptores de serotonina no cérebro.",
@@ -100372,7 +100372,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100398,7 +100398,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100424,7 +100424,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100450,7 +100450,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100476,7 +100476,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100502,7 +100502,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100528,7 +100528,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100554,7 +100554,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100580,7 +100580,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100606,7 +100606,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100632,7 +100632,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100658,7 +100658,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100684,7 +100684,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100710,7 +100710,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100736,7 +100736,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100762,7 +100762,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100788,7 +100788,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100814,7 +100814,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100840,7 +100840,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100866,7 +100866,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100892,7 +100892,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100918,7 +100918,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -100944,7 +100944,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -100956,7 +100956,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "O Carbonato de Lítio é o padrão-ouro no transtorno bipolar. Qual sistema orgânico deve ter sua função monitorada periodicamente (além da litemia) devido a efeitos colaterais comuns?),",
+      "enunciado": "O Carbonato de Lítio é o padrão-ouro no transtorno bipolar. Qual sistema orgânico deve ter sua função monitorada periodicamente (além da litemia) devido a efeitos colaterais comuns?",
       "opcoes": [
         "A) Tireoide (risco de hipotireoidismo) e Rins (risco de diabetes insipidus nefrogênico).",
         "B) Pulmões (risco de fibrose).",
@@ -100996,7 +100996,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101022,7 +101022,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101048,7 +101048,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101074,7 +101074,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101100,7 +101100,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101126,7 +101126,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101152,7 +101152,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101178,7 +101178,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101204,7 +101204,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101230,7 +101230,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101256,7 +101256,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101282,7 +101282,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101308,7 +101308,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101334,7 +101334,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101360,7 +101360,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101386,7 +101386,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101412,7 +101412,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101438,7 +101438,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101464,7 +101464,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101490,7 +101490,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101516,7 +101516,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101542,7 +101542,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101568,7 +101568,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101594,7 +101594,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101620,7 +101620,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101646,7 +101646,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101672,7 +101672,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101698,7 +101698,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101724,7 +101724,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101750,7 +101750,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101776,7 +101776,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101802,7 +101802,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101828,7 +101828,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101854,7 +101854,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101880,7 +101880,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101906,7 +101906,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101932,7 +101932,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -101958,7 +101958,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -101984,7 +101984,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102010,7 +102010,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102036,7 +102036,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102062,7 +102062,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102088,7 +102088,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102114,7 +102114,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102140,7 +102140,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102166,7 +102166,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102192,7 +102192,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102218,7 +102218,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102244,7 +102244,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102270,7 +102270,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102296,7 +102296,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102322,7 +102322,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102348,7 +102348,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102374,7 +102374,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102400,7 +102400,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102426,7 +102426,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102452,7 +102452,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102478,7 +102478,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102504,7 +102504,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102530,7 +102530,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102556,7 +102556,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102582,7 +102582,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102608,7 +102608,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102634,7 +102634,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102660,7 +102660,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102686,7 +102686,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102712,7 +102712,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102738,7 +102738,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102764,7 +102764,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102790,7 +102790,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102816,7 +102816,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102842,7 +102842,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102868,7 +102868,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102894,7 +102894,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102920,7 +102920,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -102946,7 +102946,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102972,7 +102972,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -102998,7 +102998,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103024,7 +103024,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103050,7 +103050,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103076,7 +103076,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103102,7 +103102,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103128,7 +103128,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103154,7 +103154,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103180,7 +103180,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103206,7 +103206,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103232,7 +103232,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103244,7 +103244,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Em um surto onde todos os indivíduos foram expostos a uma mesma fonte contaminada no mesmo momento (ex: festa de casamento), qual o padrão esperado da curva epidêmica?),",
+      "enunciado": "Em um surto onde todos os indivíduos foram expostos a uma mesma fonte contaminada no mesmo momento (ex: festa de casamento), qual o padrão esperado da curva epidêmica?",
       "opcoes": [
         "A) Curva de propagação (vários picos).",
         "B) Curva de fonte comum pontual (pico único e explosivo).",
@@ -103284,7 +103284,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103310,7 +103310,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103336,7 +103336,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103362,7 +103362,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103388,7 +103388,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103414,7 +103414,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103440,7 +103440,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103466,7 +103466,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103492,7 +103492,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103518,7 +103518,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103544,7 +103544,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103570,7 +103570,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103596,7 +103596,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103622,7 +103622,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103648,7 +103648,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103660,7 +103660,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 1,
-      "enunciado": "Na fisiopatologia da Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr), qual o papel do sistema Renina-Angiotensina-Aldosterona (SRAA)?),",
+      "enunciado": "Na fisiopatologia da Insuficiência Cardíaca com Fração de Ejeção Reduzida (ICFEr), qual o papel do sistema Renina-Angiotensina-Aldosterona (SRAA)?",
       "opcoes": [
         "A) Melhora a função cardíaca a longo prazo através do relaxamento ventricular.",
         "B) Promove vasoconstrição e retenção de sódio, aumentando a pós-carga e o estresse sobre o miocárdio, o que leva ao remodelamento cardíaco patológico.",
@@ -103700,7 +103700,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103726,7 +103726,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103752,7 +103752,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103778,7 +103778,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103804,7 +103804,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103830,7 +103830,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103856,7 +103856,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103882,7 +103882,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103908,7 +103908,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103934,7 +103934,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -103960,7 +103960,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -103986,7 +103986,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104012,7 +104012,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104038,7 +104038,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104064,7 +104064,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104090,7 +104090,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104116,7 +104116,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104142,7 +104142,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104168,7 +104168,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104194,7 +104194,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104220,7 +104220,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104246,7 +104246,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104272,7 +104272,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104298,7 +104298,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104324,7 +104324,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104350,7 +104350,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104376,7 +104376,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104402,7 +104402,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104428,7 +104428,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104454,7 +104454,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104480,7 +104480,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104506,7 +104506,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104532,7 +104532,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104558,7 +104558,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104584,7 +104584,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104610,7 +104610,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104636,7 +104636,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104662,7 +104662,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104688,7 +104688,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104714,7 +104714,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104740,7 +104740,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104766,7 +104766,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104792,7 +104792,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104818,7 +104818,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104844,7 +104844,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104870,7 +104870,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104896,7 +104896,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104922,7 +104922,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -104948,7 +104948,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -104974,7 +104974,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105000,7 +105000,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105026,7 +105026,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105052,7 +105052,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105078,7 +105078,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105104,7 +105104,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105130,7 +105130,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105156,7 +105156,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105182,7 +105182,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105208,7 +105208,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105234,7 +105234,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105260,7 +105260,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105286,7 +105286,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105312,7 +105312,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105324,7 +105324,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "Qual a principal causa de Insuficiência Renal Aguda (IRA) do tipo 'Pré-renal'?),",
+      "enunciado": "Qual a principal causa de Insuficiência Renal Aguda (IRA) do tipo 'Pré-renal'?",
       "opcoes": [
         "A) Obstrução urinária por cálculos.",
         "B) Glomerulonefrite aguda.",
@@ -105364,7 +105364,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105390,7 +105390,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105416,7 +105416,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105442,7 +105442,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105468,7 +105468,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105494,7 +105494,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105520,7 +105520,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105546,7 +105546,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105572,7 +105572,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105598,7 +105598,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105624,7 +105624,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105650,7 +105650,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105676,7 +105676,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105702,7 +105702,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105728,7 +105728,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105754,7 +105754,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105780,7 +105780,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105806,7 +105806,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105832,7 +105832,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105858,7 +105858,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105884,7 +105884,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105910,7 +105910,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105936,7 +105936,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -105962,7 +105962,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -105988,7 +105988,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106014,7 +106014,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106040,7 +106040,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106066,7 +106066,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106092,7 +106092,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106118,7 +106118,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106144,7 +106144,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106170,7 +106170,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106196,7 +106196,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106222,7 +106222,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106248,7 +106248,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106274,7 +106274,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106300,7 +106300,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106326,7 +106326,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106352,7 +106352,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106378,7 +106378,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106404,7 +106404,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106430,7 +106430,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106456,7 +106456,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106482,7 +106482,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106508,7 +106508,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106534,7 +106534,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106560,7 +106560,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106572,7 +106572,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "Um sopro sistólico, em foco aórtico, que irradia para as carótidas e apresenta um padrão 'em diamante' (crescente-decrescente) é típico de qual valvopatia?),",
+      "enunciado": "Um sopro sistólico, em foco aórtico, que irradia para as carótidas e apresenta um padrão 'em diamante' (crescente-decrescente) é típico de qual valvopatia?",
       "opcoes": [
         "A) Insuficiência Mitral.",
         "B) Prolapso da Valva Mitral.",
@@ -106612,7 +106612,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106638,7 +106638,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106664,7 +106664,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106690,7 +106690,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106716,7 +106716,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106742,7 +106742,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106768,7 +106768,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106794,7 +106794,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106820,7 +106820,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106846,7 +106846,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106872,7 +106872,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106898,7 +106898,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -106924,7 +106924,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106950,7 +106950,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -106976,7 +106976,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107002,7 +107002,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107028,7 +107028,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107054,7 +107054,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107080,7 +107080,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107106,7 +107106,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107132,7 +107132,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107158,7 +107158,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107184,7 +107184,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107210,7 +107210,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107236,7 +107236,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107262,7 +107262,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107288,7 +107288,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107314,7 +107314,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107340,7 +107340,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107366,7 +107366,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107392,7 +107392,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107418,7 +107418,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107444,7 +107444,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107470,7 +107470,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107496,7 +107496,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107522,7 +107522,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107548,7 +107548,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107574,7 +107574,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107600,7 +107600,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107626,7 +107626,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107652,7 +107652,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107678,7 +107678,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107704,7 +107704,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107730,7 +107730,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107756,7 +107756,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107782,7 +107782,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107808,7 +107808,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107834,7 +107834,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107860,7 +107860,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107886,7 +107886,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107912,7 +107912,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -107938,7 +107938,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107964,7 +107964,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -107990,7 +107990,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108002,7 +108002,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 0,
-      "enunciado": "Ao realizar o teste de Romberg, o paciente permanece estável de olhos abertos, mas oscila e cai imediatamente ao fechar os olhos. O que isso indica?),",
+      "enunciado": "Ao realizar o teste de Romberg, o paciente permanece estável de olhos abertos, mas oscila e cai imediatamente ao fechar os olhos. O que isso indica?",
       "opcoes": [
         "A) Romberg positivo, indicando lesão de sensibilidade profunda (propriocepção ou cordão posterior).",
         "B) Lesão cerebelar clássica.",
@@ -108042,7 +108042,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108068,7 +108068,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108094,7 +108094,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108120,7 +108120,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108146,7 +108146,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108172,7 +108172,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108198,7 +108198,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108224,7 +108224,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108250,7 +108250,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108276,7 +108276,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108302,7 +108302,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108328,7 +108328,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108354,7 +108354,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108380,7 +108380,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108406,7 +108406,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108432,7 +108432,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108458,7 +108458,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108484,7 +108484,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108510,7 +108510,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108536,7 +108536,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108562,7 +108562,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108588,7 +108588,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108614,7 +108614,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": true,
       "categoria": "inedita"
     },
@@ -108640,7 +108640,7 @@
         "C": "Info",
         "D": "Info"
       },
-      "essencial": true,
+      "essencial": false,
       "caso_clinico": false,
       "categoria": "inedita"
     },
@@ -108652,7 +108652,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 1,
-      "enunciado": "Em uma curva de Kaplan-Meier, o que significa um 'degrau' descendente na linha?),",
+      "enunciado": "Em uma curva de Kaplan-Meier, o que significa um 'degrau' descendente na linha?",
       "opcoes": [
         "A) A cura de um paciente.",
         "B) A ocorrência do desfecho (ex: morte ou recidiva) em um ou mais indivíduos.",
@@ -108678,7 +108678,7 @@
       "modulo": 4,
       "dificuldade": 2,
       "correta": 2,
-      "enunciado": "A utilização de voluntários saudáveis em um estudo para testar o efeito de uma medicação em pacientes graves pode gerar qual tipo de erro sistemático?),",
+      "enunciado": "A utilização de voluntários saudáveis em um estudo para testar o efeito de uma medicação em pacientes graves pode gerar qual tipo de erro sistemático?",
       "opcoes": [
         "A) Erro aleatório.",
         "B) Viés de aferição.",
@@ -108704,7 +108704,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 0,
-      "enunciado": "Qual técnica estatística é utilizada para controlar variáveis de confundimento conhecidas e desconhecidas ANTES do início de um ensaio clínico?),",
+      "enunciado": "Qual técnica estatística é utilizada para controlar variáveis de confundimento conhecidas e desconhecidas ANTES do início de um ensaio clínico?",
       "opcoes": [
         "A) Randomização.",
         "B) Estratificação.",
@@ -108730,7 +108730,7 @@
       "modulo": 4,
       "dificuldade": 3,
       "correta": 3,
-      "enunciado": "Em uma meta-análise, o teste estatístico I² (I-quadrado) é utilizado para avaliar?),",
+      "enunciado": "Em uma meta-análise, o teste estatístico I² (I-quadrado) é utilizado para avaliar?",
       "opcoes": [
         "A) O tamanho da amostra total.",
         "B) A média de idade dos participantes.",
