@@ -13421,7 +13421,8 @@
                     explicacao: q.explicacao, explicacao_geral: q.explicacao_geral || '',
                     explicacoes_opcoes: q.explicacoes_opcoes || null, opcoes: q.opcoes || [],
                     correta: q.correta, caso_clinico: q.caso_clinico === true,
-                    isLegacy: q.isLegacy === true, tipo: 'quiz', tema: q.tema, dificuldade: q.dificuldade
+                    isLegacy: q.isLegacy === true, tipo: 'quiz', tema: q.tema, dificuldade: q.dificuldade,
+                    essencial: q.essencial === true, aula_id: q.aula_id || q.tema
                   });
                 });
                 return updated;
